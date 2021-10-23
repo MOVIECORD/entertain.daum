@@ -27,3 +27,23 @@ linkSelector = "a.link_txt"
 contentSelector = "p.desc_thumb"
 waitForSelector = "ul.list_news li"
 onFail = "stale"
+
+[news_star]
+title = "다음 연예 ─ 뉴스 ─ 스타"
+url = "https://entertain.daum.net/news/star"
+entrySelector = "ul.list_news li"
+titleSelector = "a.link_txt"
+linkSelector = "a.link_txt"
+contentSelector = "p.desc_thumb"
+waitForSelector = "ul.list_news li"
+onFail = "stale"
+
+[news_abroad]
+title = "다음 연예 ─ 뉴스 ─ 해외"
+url = "https://entertain.daum.net/news/abroad"
+entrySelector = "ul.list_news li"
+titleSelector = "a.link_txt"
+linkSelector = "a.link_txt"
+contentSelector = "p.desc_thumb"
+waitForSelector = "ul.list_news li"
+onFail = "stale"
