@@ -7,3 +7,23 @@ linkSelector = "a.link_txt"
 contentSelector = "p.desc_thumb"
 waitForSelector = "ul.list_news li"
 onFail = "stale"
+
+[news_drama]
+title = "다음 연예 ─ 뉴스 ─ 드라마"
+url = "https://entertain.daum.net/news/drama"
+entrySelector = "ul.list_news li"
+titleSelector = "a.link_txt"
+linkSelector = "a.link_txt"
+contentSelector = "p.desc_thumb"
+waitForSelector = "ul.list_news li"
+onFail = "stale"
+
+[news_variety]
+title = "다음 연예 ─ 뉴스 ─ 예능"
+url = "https://entertain.daum.net/news/variety"
+entrySelector = "ul.list_news li"
+titleSelector = "a.link_txt"
+linkSelector = "a.link_txt"
+contentSelector = "p.desc_thumb"
+waitForSelector = "ul.list_news li"
+onFail = "stale"
