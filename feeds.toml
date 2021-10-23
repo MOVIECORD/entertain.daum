@@ -1,0 +1,9 @@
+[news_movie]
+title = "다음 연예 ─ 뉴스 ─ 영화"
+url = "https://entertain.daum.net/news/movie"
+entrySelector = "ul.list_news li"
+titleSelector = "a.link_txt"
+linkSelector = "a.link_txt"
+contentSelector = "p.desc_thumb"
+waitForSelector = "ul.list_news li"
+onFail = "stale"
