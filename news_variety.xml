@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/variety</id>
     <title>다음 연예 ─ 뉴스 ─ 예능</title>
-    <updated>2021-10-23T16:16:48.218Z</updated>
+    <updated>2021-10-23T17:15:45.351Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[원슈타인, 고향 내수로 금의환향..훈훈한 모교 방문]]></title>
+        <id>https://entertain.v.daum.net/v/20211024012002786</id>
+        <link href="https://entertain.v.daum.net/v/20211024012002786"/>
+        <updated>2021-10-23T17:15:35.939Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 이이진 기자) 가수 원슈타인이 고향에 방문했다. 23일 방송된 MBC '전지적 참견 시점'에서는 원슈타인의 일상이 전파를 탔다. 이날 원슈타인은 야외에서 광고를 촬영했고, 전현무는 "광고계 대세다. 최근 찍은 것만 10개가 넘는다더라"라며 귀띔했다. 이에 원슈타인은 핸드폰, 이어폰, 반도체 콘텐츠 등 다양한 제품의 광고를 촬영했다고 자랑했다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['전참시' 허성태 "'오징어 게임' 속 장염 걸려 촬영했을 때 잘생겨"]]></title>
         <id>https://entertain.v.daum.net/v/20211024010300724</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211023233512311"/>
         <updated>2021-10-23T15:11:46.107Z</updated>
         <content type="html"><![CDATA[[마이데일리 = 김나라 기자] '전지적 참견 시점'에서 배우 허성태가 '오징어 게임' 명장면을 꼽았다. 23일 오후 방송된 MBC '전지적 참견 시점'에는 전 세계 넷플릭스 1위 '오징어 게임'의 흥행 주역 허성태가 게스트로 등장했다. 이날 허성태는 "'오징어 게임'을 20번 정도 봤다"라고 밝혔다. 이에 양세형은 "가장 마음에 드는 장면이 무엇이냐"라고]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[허성태 "'오징어게임' 촬영 중간 장염때문에 살 빠진 적 있어, 그때 잘생겼다"]]></title>
-        <id>https://entertain.v.daum.net/v/20211023233422308</id>
-        <link href="https://entertain.v.daum.net/v/20211023233422308"/>
-        <updated>2021-10-23T15:11:46.108Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 박정민 기자] 배우 허성태가 '오징어게임'에서 자신이 가장 마음에 드는 장면에 대해 언급했다. 10월 23일 방송된 MBC '전지적 참견 시점'(이하 전참시)에 허성태가 출연했다. 허성태는 넷플릭스 오리지널 '오징어게임'에서 덕수 역을 맡아 살벌한 악역 연기를 펼쳤다. 전현무는 "한 달이 지나도 열풍이 식지 않고 있다. 전세계에서 1억 42]]></content>
     </entry>
 </feed>
