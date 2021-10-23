@@ -7,3 +7,7 @@ https://moviecord.github.io/entertain.daum/all.xml
 - 예능: https://moviecord.github.io/entertain.daum/news_variety.xml
 - 스타: https://moviecord.github.io/entertain.daum/news_star.xml
 - 해외: https://moviecord.github.io/entertain.daum/news_abroad.xml
+
+---
+
+[▶️ 다음으로 이동하기](https://github.com/MOVIECORD/daum)
