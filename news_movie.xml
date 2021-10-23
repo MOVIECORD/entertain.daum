@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2021-10-23T10:12:48.700Z</updated>
+    <updated>2021-10-23T11:10:08.227Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[우리의 임신은 왜 이렇게 고단한가]]></title>
+        <id>https://entertain.v.daum.net/v/20211023193602260</id>
+        <link href="https://entertain.v.daum.net/v/20211023193602260"/>
+        <updated>2021-10-23T11:09:48.065Z</updated>
+        <content type="html"><![CDATA[&lt;십개월의 미래&gt;는 보는 사람에 따라 그 감상이 달라지는 영화다. 어떤 이는 “올해 가장 많이 웃은 영화”라고 말하고, 또 어떤 이는 “올해 최고의 공포영화”라고 평한다. 그렇다면 영화의 장르는? 블랙코미디다. 영화는 저출산으로 나라가 망할 거라고 법석을 떨지만 정작 아이를 낳고 기르는 것을 지원하고 지지할 준비는 전혀 되어 있지 않은 한국 사회의 현실을]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['베놈2' vs '듄' 흥행 대결..주말 극장가 소식은?]]></title>
         <id>https://entertain.v.daum.net/v/20211023144933832</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211023103230205"/>
         <updated>2021-10-23T07:51:31.415Z</updated>
         <content type="html"><![CDATA[[뉴스엔 김노을 기자] 그룹 SG워너비 이석훈이 부천국제애니메이션페스티벌(BIAF 2021) 무대에 오른다. 이석훈은 10월 23일 제23회 부천국제애니메이션페스티벌에 참여해 영화 팬들과 만난다. 부천국제애니메이션페스티벌은 아카데미 공식지정 국제영화제로서 애니메이션 장르의 매력을 전파하고 애니메이션의 예술과 산업의 중심 역할을 하는 권위 있는 애니메이션]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['소품총 실탄 발사' 알렉 볼드윈 "어떻게 이런 일이..가슴 찢어지고 참담"]]></title>
-        <id>https://entertain.v.daum.net/v/20211023101350000</id>
-        <link href="https://entertain.v.daum.net/v/20211023101350000"/>
-        <updated>2021-10-23T07:51:31.416Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 김노을 기자] 할리우드 배우 알렉 볼드윈이 영화 촬영 도중 실탄이 든 소품용 총을 발사해 촬영감독이 사망하는 사고에 대해 입을 열었다. 10월 22일(이하 현지시간) 알렉 볼드윈은 자신의 트위터에 "이번 사건이 어떻게 일어났는지 규명하기 위해 당국에 전적으로 협조하고 있다. 허친스의 목숨을 앗아간 비극적 사고에 대한 충격과 슬픔으로 참담하다"고]]></content>
     </entry>
 </feed>
