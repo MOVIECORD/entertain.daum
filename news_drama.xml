@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2021-10-23T08:03:05.849Z</updated>
+    <updated>2021-10-23T08:08:43.110Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['지헤중' 송혜교X장기용의 현실 연애 '심쿵']]></title>
+        <id>https://entertain.v.daum.net/v/20211023170332466</id>
+        <link href="https://entertain.v.daum.net/v/20211023170332466"/>
+        <updated>2021-10-23T08:08:26.008Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 김나라 기자] '지금, 헤어지는 중입니다'에서 배우 송혜교와 장기용이 그리는 현실 연애가 시작된다. SBS 새 금토드라마 '지금, 헤어지는 중입니다'(극본 제인/연출 이길복/이하 '지헤중')는 '이별'이라 쓰고 '사랑'이라 읽는 달고 짜고 맵고 쓴 이별 액츄얼리이다. 송혜교(하영은 역)와 장기용(윤재국 역)의 역대급 멜로 케미스트리를 예고]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['인간실격' 전도연, 쓰러진 父박인환 보며 눈물..행복 찾아올까]]></title>
         <id>https://entertain.v.daum.net/v/20211023164625216</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211023135555327"/>
         <updated>2021-10-23T07:58:13.179Z</updated>
         <content type="html"><![CDATA[[OSEN=박판석 기자]&nbsp;‘연모’를 통해 사극 역사상 처음으로 남장 여자 ‘왕’ 역할에 도전한 배우 박은빈의 기세가 심상치 않다.&nbsp; KBS 2TV 월화드라마 ‘연모’(연출 송현욱, 이현석, 극본 한희정, 제작 이야기사냥꾼, 몬스터유니온)에서 오라비 세손의 운명을 대신 짊어진 왕세자 ‘이휘’ 역을 맡아 열연을 펼치고 있는 박은빈. 완벽함으로 무장한 ‘킹’ 크]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['원더우먼' 이하늬-이상윤vs진서연, 혼돈의 주주총회]]></title>
-        <id>https://entertain.v.daum.net/v/20211023134806269</id>
-        <link href="https://entertain.v.daum.net/v/20211023134806269"/>
-        <updated>2021-10-23T07:58:13.179Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 이민지 기자] 유민그룹 주주총회장이 혼돈에 빠진다. SBS 금토드라마 ‘원 더 우먼(One the Woman)’(극본 김윤/연출 최영훈) 지난 방송에서 조연주(이하늬)의 아버지 강명국(정인기)이 14년 전 한주공장 방화사건의 진범이 아니라는 진실이 밝혀진 가운데, 한성혜(진서연)가 조연주의 정체를 드러내기 위해 강미나(이하늬)의 고모 강은화(황]]></content>
     </entry>
 </feed>
