@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2021-10-23T11:10:08.227Z</updated>
+    <updated>2021-10-23T12:17:34.767Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['촬영감독 사망' 알렉 볼드윈, 실탄 장전된지 몰랐다.."내 마음이 찢어진다"]]></title>
+        <id>https://entertain.v.daum.net/v/20211023200955619</id>
+        <link href="https://entertain.v.daum.net/v/20211023200955619"/>
+        <updated>2021-10-23T12:17:14.192Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]할리우드 배우 알렉 볼드윈(63)이 영화 촬영 중 소품 총기를 발사했다가 촬영 감독이 사망하는 사고가 발생한 가운데, 그는 실탄이 장전된지 전혀 몰랐던 것으로 알려졌다. 지난 21일(현지시간) 오후 1시 50분께 알렉 볼드윈은 영화 '러스트'(Rust) 세트장에서 촬영 중 소품용으로 준비된 총을 발사했다. 이 총에 맞은 촬영]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[우리의 임신은 왜 이렇게 고단한가]]></title>
         <id>https://entertain.v.daum.net/v/20211023193602260</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211023103300210"/>
         <updated>2021-10-23T07:51:31.414Z</updated>
         <content type="html"><![CDATA[[이학후 기자] ▲ &nbsp;영화 &lt;킬링 오브 투 러버스&gt; 포스터    ⓒ (주)블루라벨픽쳐스  데이빗(클레인 크로포드 분)은 아내 니키(세피데 모아피 분)와 별거 기간을 갖기로 하고 아버지와 단둘이 지내고 있다. 그는 별거 중에 각자 다른 사람을 만나는 것에 동의했지만, 막상 니키에게 연인 데릭(크리스 코이 분)이 생기자 참을 수 없는 분노에 휩싸]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SG워너비 이석훈, 오늘 BIAF 2021 축하무대]]></title>
-        <id>https://entertain.v.daum.net/v/20211023103230205</id>
-        <link href="https://entertain.v.daum.net/v/20211023103230205"/>
-        <updated>2021-10-23T07:51:31.415Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 김노을 기자] 그룹 SG워너비 이석훈이 부천국제애니메이션페스티벌(BIAF 2021) 무대에 오른다. 이석훈은 10월 23일 제23회 부천국제애니메이션페스티벌에 참여해 영화 팬들과 만난다. 부천국제애니메이션페스티벌은 아카데미 공식지정 국제영화제로서 애니메이션 장르의 매력을 전파하고 애니메이션의 예술과 산업의 중심 역할을 하는 권위 있는 애니메이션]]></content>
     </entry>
 </feed>
