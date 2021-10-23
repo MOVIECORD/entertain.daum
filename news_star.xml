@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2021-10-23T08:27:05.885Z</updated>
+    <updated>2021-10-23T09:12:26.827Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[신정환, 도박 빠졌을 때 느낀 감정→"야망없어진 지 오래" 고백]]></title>
+        <id>https://entertain.v.daum.net/v/20211023174908194</id>
+        <link href="https://entertain.v.daum.net/v/20211023174908194"/>
+        <updated>2021-10-23T09:12:21.215Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 이하나 기자] 신정환이 심리 검사를 통해 자신의 과거부터 현재까지를 돌아봤다. 10월 22일 유튜브 채널 ‘전라스 그러지마오’에는 ‘당신은 정신과 진료를 받아 본 적이 있습니까?’라는 제목의 영상이 게재 됐다. 영상에서는 정신건강의학과 의사 김지용이 출연해 윤종신, 신정환과 문장 검사를 했다. 정신과 진료를 받아본 경험이 있냐는 질문에 윤종신]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['놀라운 토요일' 태연, 윤계상 향한 팬심 "내 별명은 전주 계상 부인"]]></title>
         <id>https://entertain.v.daum.net/v/20211023172256867</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211023151122067"/>
         <updated>2021-10-23T08:08:37.086Z</updated>
         <content type="html"><![CDATA[[OSEN=김나연 기자] AOA 설현이 코로나19 백신 2차 접종 후기를 전했다. 23일 설현은 자신이 운영하는 유튜브 채널 '눈이 부시게 by 설현'에 "백신 2차 접종 24시간의 기록"이라는 제목의 브이로그 영상을 업로드 했다. 영상에서 설현은 "제가 오늘 백신을 맞으러 가는데 백신 후기를 찍어보려고 한다"고 설명했다. 백신 접종을 무사히 마치고 온 그]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["낙태vs여성편력" 김선호 둘러싼 팩트와 루머]]></title>
-        <id>https://entertain.v.daum.net/v/20211023150807036</id>
-        <link href="https://entertain.v.daum.net/v/20211023150807036"/>
-        <updated>2021-10-23T08:08:37.087Z</updated>
-        <content type="html"><![CDATA[[티브이데일리 이기은 기자] 학폭(학교 폭력), 성 스캔들, 인성 논란…. 거대 수익을 등에 업는 연예인들에게 신종 꼬리표들이 붙기 시작했다. 화류계와 조폭, 연예계가 한 선상에 묶여 있다는 시쳇말처럼 일부 셀럽들이 자행한 과거 비행들은 온오프라인 심판대 안에서 처절하게 응징 받을 수밖에 없다. 사람들 사이 입과 입을 넘나드는 풍선 루머와 별개로 김선호 역]]></content>
     </entry>
 </feed>

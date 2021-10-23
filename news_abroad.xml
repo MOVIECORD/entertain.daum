@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2021-10-23T08:27:05.882Z</updated>
+    <updated>2021-10-23T09:12:26.825Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["알렉 볼드윈 이전에도 오발 사고"..'러스트' 스태프 증언 '충격']]></title>
+        <id>https://entertain.v.daum.net/v/20211023175002202</id>
+        <link href="https://entertain.v.daum.net/v/20211023175002202"/>
+        <updated>2021-10-23T09:12:26.115Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 이창규 기자) 할리우드 배우 알렉 볼드윈이 신작 촬영 리허설 중&nbsp;소품용 총을 쐈다가 촬영 스태프가 사망하는 사고가 벌어진 가운데, 당시 촬영 현장에 대한 새로운 정보가 전해져 눈길을 끈다. 22일(현지시간) 미국 콜라이더는 LA 타임즈의 보도를 인용, 핼리나 허친스 촬영감독과 조엘 소우자 감독이 사고를 당하기 몇 시간 전 6명의 스태프가 장]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[알렉 볼드윈, 총기사고 책임없나 "방아쇠 당기기 전 '안전' 통보" 확인]]></title>
         <id>https://entertain.v.daum.net/v/20211023161213726</id>
@@ -53,12 +60,5 @@
         <link href="https://entertain.v.daum.net/v/20211023081601875"/>
         <updated>2021-10-23T08:08:42.388Z</updated>
         <content type="html"><![CDATA[[OSEN=최나영 기자]&nbsp;할리우드 배우 알렉 볼드윈(63)이 영화 촬영 중 발사한 소품총에 맞아 촬영 스태프가&nbsp;숨지는 사고가 발생한 가운데 왜 소품총에 진짜 탄약이 들어있었는지 미스터리다. 22일(현지시간) 페이지식스의 보도에 따르면 사고 후 조사과정에서 볼드윈은 왜 그에게 진짜 탄약이 든 화기인 '핫 건'이 건네졌는지를 계속해서 물었다고 한다. 그러면서]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[알렉 볼드윈, 소품용 총기 사고→촬영감독 사망..브랜든 리 재조명]]></title>
-        <id>https://entertain.v.daum.net/v/20211022175017775</id>
-        <link href="https://entertain.v.daum.net/v/20211022175017775"/>
-        <updated>2021-10-23T08:08:42.393Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 이창규 기자) 배우 알렉 볼드윈이 신작 촬영 리허설 중 소품용 총을 쐈다가 촬영 스태프가 사망하는 사고가 벌어져 충격을 안긴다. 21일(현지시간) 미국 데드라인 등 다수 매체는 알렉 볼드윈이 이날 오후 1시 50분경 영화 '러스트'의 촬영 현장에서 리허설 중 소품용 총에 실탄이 들어있는 걸 인지하지 못한 상태에서 이를 발사했다가 총기 사고를]]></content>
     </entry>
 </feed>
