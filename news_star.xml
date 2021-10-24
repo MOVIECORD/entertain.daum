@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2021-10-24T04:15:21.623Z</updated>
+    <updated>2021-10-24T05:11:08.295Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[논란→시즌종료 반복했던 '1박 2일', 100회 직전 위기 극복할까]]></title>
+        <id>https://entertain.v.daum.net/v/20211024140938223</id>
+        <link href="https://entertain.v.daum.net/v/20211024140938223"/>
+        <updated>2021-10-24T05:11:02.273Z</updated>
+        <content type="html"><![CDATA[[스포츠조선 문지연 기자] 매 시즌마다 '출연자 논란'을 불러왔던 '1박 2일'이 시즌4에서 이 징크스를 깨지 못했다. 100회 특집을 코앞에 뒀던 상황에서 또다시 배우 김선호의 사생활 논란이란 암초를 만나며 위기를 맞았다. 김선호의 사생활 논란이 불거진 후였던 20일 KBS 2TV 예능프로그램 '1박 2일 시즌4' 제작진은 "최근 논란이 된]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['그알' 양기원 "식욕억제제 먹고 환청, 환각 시달려..마약혐의로 체포"]]></title>
         <id>https://entertain.v.daum.net/v/20211024130706039</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211024115015026"/>
         <updated>2021-10-24T03:12:44.898Z</updated>
         <content type="html"><![CDATA[넷플릭스 오리지널 시리즈 '오징어 게임'이 9월 17일 공개 이후 신드롬급 인기를 누리며 주목받고 있다. 넷플릭스와 관련된 각종 기록 수치를 경신하는 것은 물론, 달고나 열풍 등 국내를 넘어 전 세계에서의 다양한 화제의 중심에 서 있다. 출연 배우들 역시 자연스럽게 글로벌 인기를 누리며 열풍을 타고 존재감을 넓혀가는 중이다. 공개 후 한 달, '오징어 게]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[소 치고 글 배우는 68살 산골 선녀님..감독이 "보물을 건졌다"한 까닭]]></title>
-        <id>https://entertain.v.daum.net/v/20211024115000022</id>
-        <link href="https://entertain.v.daum.net/v/20211024115000022"/>
-        <updated>2021-10-24T03:12:44.898Z</updated>
-        <content type="html"><![CDATA[[스포티비뉴스=김현록 기자]"산골짜기까지 갔다가, 보물을 건진 거죠." 원호연 감독은 다큐멘터리를 '보물찾기'에 비유했다. 무엇 하나 확실한 것 없는 곳에서 시작해 빛나는 이야기를 건져올리기까지, 고통스럽기까지 한 지난한 과정을 두고 한 이야기였다. '인간극장'부터 이번 3번째 영화까지, TV와 스크린을 아우르며 20년 가까이 걸어 온 다큐멘터리 한]]></content>
     </entry>
 </feed>
