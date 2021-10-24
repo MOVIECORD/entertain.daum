@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/variety</id>
     <title>다음 연예 ─ 뉴스 ─ 예능</title>
-    <updated>2021-10-24T19:09:50.334Z</updated>
+    <updated>2021-10-24T20:12:44.541Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[사유리, "子젠 아빠 없어?" 무례한 질문에 대처는 기가막힌다]]></title>
+        <id>https://entertain.v.daum.net/v/20211025041505245</id>
+        <link href="https://entertain.v.daum.net/v/20211025041505245"/>
+        <updated>2021-10-24T20:12:32.311Z</updated>
+        <content type="html"><![CDATA[[OSEN=김수형 기자] ‘슈퍼맨이 돌아왔다’에서 제주도로 떠난 사유리가 그려졌다. 특히 아빠란 질문에 유쾌하게 대처한 사유리가 눈길을 끌었다. 24일 방송된 KBS 2TV 예능 ‘슈퍼맨이 돌아왔다’에서 사유리가 제주도로 향했다.&nbsp; 이날 사유리는 “김혜리 이모의 초대, 숙소도 잡아줬다”며 젠과 제주도로 향했다.&nbsp;이어 숙소에 도착한 사유리는 젠의 식사를 챙기]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이덕연 "前아내 외도→몸 닿는데 끔찍"..'돌싱글즈' 직업+나이+이혼사유 공개됐다]]></title>
         <id>https://entertain.v.daum.net/v/20211025005320134</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211024223811092"/>
         <updated>2021-10-24T14:10:52.562Z</updated>
         <content type="html"><![CDATA[[뉴스엔 황혜진 기자] 배우 김혜리가 재혼 질문에 속내를 털어놨다. 김혜리는 10월 24일 방송된 KBS 2TV '슈퍼맨이 돌아왔다'에 출연했다. 제주도에 거주 중인 김혜리는 아들 젠과 함께 여행 온 사유리와 만나 듬직한 가이드 역할을 했다. 김혜리는 직접 차를 운전해 사유리, 젠 부자와 제주도 이곳저곳을 둘러봤다. 제주도 한 달 살기를 고민 중인 사유리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['미우새' 이연희 "첫 소개팅서 만난 남편..휴대전화 '여봉'으로 저장"]]></title>
-        <id>https://entertain.v.daum.net/v/20211024221614862</id>
-        <link href="https://entertain.v.daum.net/v/20211024221614862"/>
-        <updated>2021-10-24T13:16:41.055Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 이종환 기자] /사진=SBS '미운 우리 새끼' 방송화면 캡쳐'미운 우리 새끼'에서 이연희가 남편과의 첫만남부터 애칭까지 공개했다. 24일 오후 방송된 SBS 예능프로그램 '미운 우리 새끼'(이하 '미우새')에서는 이연희가 달달한 남편 사랑을 보여줬다. 이날 스페셜MC로 출연한 배우 이연희는 결혼을 결심했던 계기에 대해 "그냥 처음 만났을 때였다]]></content>
     </entry>
 </feed>
