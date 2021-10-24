@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2021-10-24T18:13:45.389Z</updated>
+    <updated>2021-10-24T19:09:50.336Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["미국인들, 남 밟고 올라서기 위해 매일 오징어 게임"]]></title>
+        <id>https://entertain.v.daum.net/v/20211025040706172</id>
+        <link href="https://entertain.v.daum.net/v/20211025040706172"/>
+        <updated>2021-10-24T19:09:45.260Z</updated>
+        <content type="html"><![CDATA[K드라마 ‘오징어 게임’이 넷플릭스 역대 최고의 흥행작에 오르면서 사회적 파장도 커지고 있다. 외신들은 드라마 내용과 연결지어 현실 속 부조리를 꼬집었다. 지나친 선정성과 폭력성이 미칠 악영향을 우려하는 목소리도 나온다. CNN은 23일(현지시간) ‘미국인들은 왜 오징어 게임에 사로잡혔는가’라는 제목의 칼럼에서 “드라마의 줄거리는 디스토피아적 미래에 대한]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['결혼 2년차' 이연희 "휴대전화에 '여봉'이라고 저장"]]></title>
         <id>https://entertain.v.daum.net/v/20211025004348074</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211024230202296"/>
         <updated>2021-10-24T14:10:57.507Z</updated>
         <content type="html"><![CDATA[[동아닷컴] 김종민 주식 폭락 고백 ‘또르르’ 가수 김종민이 주식 투자 근황을 고백했다. 24일 방송된 MBC ‘선을 넘는 녀석들 : 마스터-X’(이하 ‘선녀들’)에서는 주식 멘토 김프로 김동환 소장이 ‘경제 마스터’로 함께한 가운데 ‘경제X역사’ 특집으로 꾸며졌다. 이날 ‘선녀들’은 여의도 한국거래소를 방문했다. 경제 특집에 김종민이 큰 관심을 보이자]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['지리산' 전지현, 주지훈 관련 노란 리본 추적..의문의 남성 등장에 긴장↑]]></title>
-        <id>https://entertain.v.daum.net/v/20211024230002278</id>
-        <link href="https://entertain.v.daum.net/v/20211024230002278"/>
-        <updated>2021-10-24T14:10:57.508Z</updated>
-        <content type="html"><![CDATA[전지현이 주지훈과 관련된 노란 리본 추적에 나섰다. 24일 방송된 tvN 토일 드라마 ‘지리산’에서는 2년 전 조난 실종자를 찾은 서이강(전지현 분)과 강현조(주지훈 분)의 활약상과 2년 후 노란 리본을 쫓는 서이강의 모습이 그려졌다. 이날 조난 실종자를 찾았던 서이강과 강현조의 2년 전 활약상이 방송됐다. 지리산을 찾은 강현조는 불현듯 떠오르는 사고 장]]></content>
     </entry>
 </feed>
