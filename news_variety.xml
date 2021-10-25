@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/variety</id>
     <title>다음 연예 ─ 뉴스 ─ 예능</title>
-    <updated>2021-10-25T10:14:13.439Z</updated>
+    <updated>2021-10-25T11:10:56.487Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[박나래, 돼지곱창전골X마요네즈 조합에 "신의 한수다"]]></title>
+        <id>https://entertain.v.daum.net/v/20211025200707733</id>
+        <link href="https://entertain.v.daum.net/v/20211025200707733"/>
+        <updated>2021-10-25T11:10:45.201Z</updated>
+        <content type="html"><![CDATA[[텐아시아=신지원 기자] 박나래와 먹방 유튜버 웅이가 전농동 41년 전통 돼지곱창전골의 매력에 푹 빠졌다.25일 방송된 tvN 예능프로그램 ‘노포의 영업비밀’에서는 전농동 돼지곱창전골을 맛보러 나선 박나래와 웅이의 모습이 그려졌다.이날 돼지곱창전골이 나오자 박나래와 웅이는 군침을 삼켰다. 탱글탱글한 곱창 맛에 푹빠진 박나래에게 웅이는 비장의 소스 파우치를]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["장도연 못 잊었어?"..조세호 인복=유재석, 연애운은?]]></title>
         <id>https://entertain.v.daum.net/v/20211025185503515</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211025170044440"/>
         <updated>2021-10-25T08:14:25.892Z</updated>
         <content type="html"><![CDATA[[뉴스엔 서지현 기자] '골목식당'이 4년 만에 종영 수순을 밟을 예정이다. SBS '백종원의 골목식당'(이하 골목식당) 측 관계자는 10월 25일 뉴스엔에 "올해 안에 종영한다"고 밝혔다. 이날 '골목식당' 측은 "다만 현재 마지막 방송 일자는 미정인 상태"라고 덧붙였다. 앞서 '골목식당'은 지난 2018년 첫 방송돼 요리연구가 겸 요식업 대표 백종원이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['골목식당' 측 "12월 중 종영..막방일은 미정"]]></title>
-        <id>https://entertain.v.daum.net/v/20211025165450253</id>
-        <link href="https://entertain.v.daum.net/v/20211025165450253"/>
-        <updated>2021-10-25T08:14:25.892Z</updated>
-        <content type="html"><![CDATA[[마이데일리 = 오윤주 기자] SBS 예능프로그램 '백종원의 골목식당'(이하 '골목식당')이 막을 내린다. 25일 '골목식당' 측 관계자는 마이데일리와의 통화에서 "'골목식당'이 종영을 결정했다"고 밝혔다. 다만, 종영일은 확정된 바 없으며 "12월 중으로 계획됐다"고 덧붙였다. '골목식당'은 요리연구가 겸 방송인 백종원이 골목 상권의 식당을 방문, 각]]></content>
     </entry>
 </feed>
