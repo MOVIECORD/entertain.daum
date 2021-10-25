@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2021-10-25T15:11:03.245Z</updated>
+    <updated>2021-10-25T16:18:12.157Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['하클' 김남희, 아내 조여정 납치 "내 돈 내놔" 칼로 협박]]></title>
+        <id>https://entertain.v.daum.net/v/20211026001652512</id>
+        <link href="https://entertain.v.daum.net/v/20211026001652512"/>
+        <updated>2021-10-25T16:17:53.379Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 이시연 기자] /사진= tvN '하이클래스' 방송 화면'하이클래스'에서 김남희가 자신의 계좌에서 돈을 빼낸 조여정을 납치한 후 죽여버리겠다고 협박했다. 25일 오후 방송된 tvN 월화드라마 '하이클래스'에서 안지용(김남희 분)이 다시 송여울(조여정 분) 앞에 나타났다. 이날 송여울은 형사 구용회(권혁 분)와 함께 안지용을 잡을 작전을 펼쳤지만 도]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['하이클래스' 김남희, 자수 권하는 조여정에 "계좌 돌려놔" 협박]]></title>
         <id>https://entertain.v.daum.net/v/20211025235100219</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211025220335408"/>
         <updated>2021-10-25T13:19:34.822Z</updated>
         <content type="html"><![CDATA[[스타뉴스 이경호 기자] KBS 2TV 월화드라마 '연모'에서 박은빈이 로운을 꾸짖었다./사진=KBS 2TV 월화드라마 '연모' 방송 화면 캡처'연모'에서 박은빈이 로운을 꾸짖었다. 25일 오후 방송된 KBS 2TV 월화드라마 '연모'(극본 한희정, 연출 송현욱·이현석, 제작 이야기사냥꾼·몬스터유니온) 5회에서는 왕세자 이휘(박은빈 분)가 정지운(로운 분]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['지리산' 조한철, 비담대피소 레인저 팀장 완벽 변신..빈틈없는 존재감]]></title>
-        <id>https://entertain.v.daum.net/v/20211025215256263</id>
-        <link href="https://entertain.v.daum.net/v/20211025215256263"/>
-        <updated>2021-10-25T13:19:34.823Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 서지현 기자] ‘지리산’ 조한철이 빈틈없는 열연으로 이름만으로도 신뢰감을 주는 배우임을 재입증했다. tvN 15주년 특별기획 '지리산'(극본 김은희, 연출 이응복, 제작 에이스토리·스튜디오드래곤·바람픽쳐스)은 지리산 국립공원 최고의 레인저 서이강(전지현 분)과 말 못 할 비밀을 가진 신입 레인저 강현조(주지훈 분)가 산에서 일어나는 의문의 사고를]]></content>
     </entry>
 </feed>
