@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2021-10-25T18:14:04.663Z</updated>
+    <updated>2021-10-25T19:10:18.875Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['홍천기' 안효섭, 신물 가락지 깨고 봉인식行..마왕 봉인 성공할까?]]></title>
+        <id>https://entertain.v.daum.net/v/20211026031800368</id>
+        <link href="https://entertain.v.daum.net/v/20211026031800368"/>
+        <updated>2021-10-25T19:10:03.913Z</updated>
+        <content type="html"><![CDATA[[SBS연예뉴스 | 김효정 에디터] 안효섭과 김유정은 마왕 봉인에 성공할까? 25일 방송된 SBS 월화 드라마 '홍천기'에서는 마왕을 봉인하기 위해 다시 나서는 하람(안효섭 분)의 모습이 그려졌다. 이날 방송에서 하람은 마왕의 발현으로 또 한 번 정신을 잃었다. 그런 그의 앞에 백발노인(최종원 분)이 등장했다. 그의 존재가 보이는 하람은 깜짝 놀랐다. 이에]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['하클' 김남희, 아내 조여정 납치 "내 돈 내놔" 칼로 협박]]></title>
         <id>https://entertain.v.daum.net/v/20211026001652512</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211025220535433"/>
         <updated>2021-10-25T13:19:34.820Z</updated>
         <content type="html"><![CDATA[박은빈과 로운이 티격태격 케미를 보였다. 25일 방송된 KBS 2TV '연모'에서는 왕세자 이휘(박은빈)와 정지운(로운)이 귀여운 신경전을 펼치는 모습이 그려졌다. 이날 정지운은 갓이 망가져 홀로 서 있는 이휘를 보고 자신의 갓을 벗어 건넸다. 갓을 쓰고 우물쭈물하는 이휘에게 정지운은 "제가 하겠습니다. 직접 묶어보신 적 없으시지 않습니까"라며 직접]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['연모' 박은빈, 로운 꾸짖음..호의 두고 "아부로 보인다"]]></title>
-        <id>https://entertain.v.daum.net/v/20211025220335408</id>
-        <link href="https://entertain.v.daum.net/v/20211025220335408"/>
-        <updated>2021-10-25T13:19:34.822Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 이경호 기자] KBS 2TV 월화드라마 '연모'에서 박은빈이 로운을 꾸짖었다./사진=KBS 2TV 월화드라마 '연모' 방송 화면 캡처'연모'에서 박은빈이 로운을 꾸짖었다. 25일 오후 방송된 KBS 2TV 월화드라마 '연모'(극본 한희정, 연출 송현욱·이현석, 제작 이야기사냥꾼·몬스터유니온) 5회에서는 왕세자 이휘(박은빈 분)가 정지운(로운 분]]></content>
     </entry>
 </feed>
