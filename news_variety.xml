@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/variety</id>
     <title>다음 연예 ─ 뉴스 ─ 예능</title>
-    <updated>2021-10-25T17:17:42.816Z</updated>
+    <updated>2021-10-25T18:14:04.668Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['쉰둥이父' 김구라, ♥아내 독박육아 이유? "집에서 얼굴 그늘지느니 밖에서.."]]></title>
+        <id>https://entertain.v.daum.net/v/20211026031120358</id>
+        <link href="https://entertain.v.daum.net/v/20211026031120358"/>
+        <updated>2021-10-25T18:13:54.370Z</updated>
+        <content type="html"><![CDATA[[OSEN=김수형 기자] ‘동상이몽2’에서 김구라가 현실적인 결혼생활을 전하며 임창정 얘기 공감했다.&nbsp; 25일 방송된 SBS 예능 ‘동상이몽 시즌2-너는 내 운명’ 에서 임창정이 출연했다.&nbsp; 이날 스페셜 MC로 오형제 아빠인 가수이자 배우 임창정이 출연했다.&nbsp;멀티 슈퍼맨 아빠 등장에 모두 “신기하다”며 바라봤다.&nbsp;원래 딸을 원했다는 그가 다섯 째도 아들이란]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["허재 잡겠다" 의지 드러낸 현주엽 .. '농구킹'팀 '골프왕'팀에 4:3 승리]]></title>
         <id>https://entertain.v.daum.net/v/20211026011803832</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211025235612252"/>
         <updated>2021-10-25T15:10:54.021Z</updated>
         <content type="html"><![CDATA[[OSEN=정다은 기자] ‘애로부부’ 헬스 트레이너이자 보디빌더인 남편 원종윤과 아내 신경선 부부가 속터뷰에 나섰다.&nbsp; 25일 오후 방송된 채널A ‘다시 뜨거워지고 싶은 애로부부(이하 애로부부)-속터뷰’에서는 원종윤, 신경선 부부가 출연해 부부의 속 얘기를 털어놨다.&nbsp; 남편 원종윤은 대부분 체급 우승을 했다고 말하며 ‘보디빌더’에 대한 자부심을 드러냈다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['동상이몽2' 별·김수미, 이현이 남편 홍성기 칭찬..하하·개코 1문의 1패]]></title>
-        <id>https://entertain.v.daum.net/v/20211025235101221</id>
-        <link href="https://entertain.v.daum.net/v/20211025235101221"/>
-        <updated>2021-10-25T15:10:54.023Z</updated>
-        <content type="html"><![CDATA[‘동상이몽2’ 하하의 아내 별과 개코의 아내 김수미가 이현이 남편 홍성기를 칭찬했다. 25일 오후 방송된 SBS ‘동상이몽 시즌2 - 너는 내 운명’(이하 ‘동상이몽2’)에는 이현이, 홍성기 부부의 일상이 그려졌다. 이날 이현이는 동갑내기 절친 별과 김수미를 집으로 초대했다. 이들은 각자 남편 찬스로 잠시 자유의 시간을 갖게 됐다. 이현이 남편 홍성기는]]></content>
     </entry>
 </feed>
