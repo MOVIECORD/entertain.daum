@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2021-10-26T09:12:44.904Z</updated>
+    <updated>2021-10-26T10:13:34.309Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[종영 앞둔 '홍천기' 안효섭♥김유정, 마왕 봉인하고 사랑 지킬까]]></title>
+        <id>https://entertain.v.daum.net/v/20211026182218668</id>
+        <link href="https://entertain.v.daum.net/v/20211026182218668"/>
+        <updated>2021-10-26T10:13:20.163Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 서지현 기자] ‘홍천기’ 안효섭과 김유정의 운명과 사랑은 해피엔딩일까. 새드엔딩일까. 10월 26일 오후 10시 SBS 월화드라마 ‘홍천기’(연출 장태유/극본 하은/제작 스튜디오S, 스튜디오태유) 최종회가 방송된다. 마왕과 관련되어 운명으로 얽힌 하람(안효섭 분)과 홍천기(김유정 분)는 서로를 살리고 죽일 수도 있는 애틋한 연인의 사랑을 그려내며]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['홍천기' 안효섭 비하인드 공개..개구쟁이 미소]]></title>
         <id>https://entertain.v.daum.net/v/20211026180441255</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211026171553423"/>
         <updated>2021-10-26T09:12:30.134Z</updated>
         <content type="html"><![CDATA[[뉴스엔 박정민 기자] 배우 정혜성이 '뉴노멀진'으로 안방극장을 찾는다. 소속사 제이와이드컴퍼니 측은 10월 26일 뉴스엔에 "정혜성 씨가 드라마 '뉴노멀진'에 출연한다"고 밝혔다. '뉴노멀진'은 슬로 라이프를 지향하지만 디지털 매거진에 입사하며 트렌디함의 최전선에서 싸우게 되는 에디터의 고군 분투기를 그린다. 정혜성은 데뷔 후 드라마 '기분 좋은]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['멜랑꼴리아' 작가 "임수정·이도현 캐스팅 기뻤다"]]></title>
-        <id>https://entertain.v.daum.net/v/20211026164242077</id>
-        <link href="https://entertain.v.daum.net/v/20211026164242077"/>
-        <updated>2021-10-26T08:14:41.454Z</updated>
-        <content type="html"><![CDATA[[동아닷컴]   김지운 작가가 tvN 15주년 특별기획 수목드라마 ‘멜랑꼴리아’(극본 김지운 연출 김상협) 숨겨진 비하인드 공식을 공개했다. ‘멜랑꼴리아’는 특혜 비리의 온상인 한 사립고를 배경으로 수학 교사와 수학 천재의 통념과 편견을 뛰어넘는, 수학보다 아름다운 이야기를 그린다. 제작진에 따르면 먼저 ‘수학’을 소재로 이야기를 집필한다는 점이 색다르게]]></content>
     </entry>
 </feed>
