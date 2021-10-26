@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2021-10-26T03:13:05.859Z</updated>
+    <updated>2021-10-26T04:15:29.225Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[신현준 주연 액션 사극 '살수' 크랭크인..'백두산' 각본 곽정덕 감독 연출]]></title>
+        <id>https://entertain.v.daum.net/v/20211026130924228</id>
+        <link href="https://entertain.v.daum.net/v/20211026130924228"/>
+        <updated>2021-10-26T04:15:10.533Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 배효주 기자] 신현준 주연 '살수'가 크랭크인했다. 10월 26일 크랭크인한 영화 '살수'(감독 곽정덕)는 거스를 수 없는 운명 앞에 놓인 조선 최고의 살수 이난의 이야기를 그린 액션 사극. 배우 신현준을 필두로 이문식, 김민경, 홍은기, 최성원, 김병춘, 박재훈, 김제열 등이 출연한다. 신현준이 조선 최고의 살수 ‘이난’ 역으로 스크린에 컴백한]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[마블 '이터널스', 마동석 버프 받고 국내 흥행 예열 中]]></title>
+        <id>https://entertain.v.daum.net/v/20211026125611983</id>
+        <link href="https://entertain.v.daum.net/v/20211026125611983"/>
+        <updated>2021-10-26T04:15:10.533Z</updated>
+        <content type="html"><![CDATA[[티브이데일리 최하나 기자] 배우 마동석과 마블 스튜디오의 만남, '이터널스'가 개봉 전부터 국내 관객들을 설레게 하고 있다. 개봉 전 사전 예매율 1위를 기록하며 흥행 예열 중이다. 11월 3일 개봉되는 영화 '이터널스'(감독 클로이 자오·배급 월트디즈니컴퍼니 코리아)는 수 천년에 걸쳐 그 모습을 드러내지 않고 살아온 불멸의 히어로들이 '어벤져스: 엔드]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[오달수 "칩거 후 복귀? 낯설지 않아, 당연히 있어야 할 자리..차기작 검토 中"]]></title>
         <id>https://entertain.v.daum.net/v/20211026114339137</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211026100223931"/>
         <updated>2021-10-26T01:53:21.745Z</updated>
         <content type="html"><![CDATA[[OSEN=연휘선 기자] 배우 유해진이 또 한 번의 목소리 재능 기부로 선한 영향력을 계속해서 이어간다. 26일 소속사 키이스트는 유해진이 11월 12일부터 14일까지 개최되는 국경없는영화제 개막작 다큐멘터리 영화 '에고이스트: 이기심과 이타심의 경계' 한국어 버전 내레이션으로 참여한다고 밝혔다.&nbsp; 2020년 발표된 영화 '에고이스트'는 국경없는의사회의 구]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[애플TV플러스와 디즈니플러스가 韓런칭에 임하는 차이]]></title>
-        <id>https://entertain.v.daum.net/v/20211026091548053</id>
-        <link href="https://entertain.v.daum.net/v/20211026091548053"/>
-        <updated>2021-10-26T00:38:18.832Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 전형화 기자] 애플TV플러스를 통해 공개되는 김지운 감독의 'Dr.브레인'(상단)과 디즈니플러스 로고. 바야흐로 OTT서비스 춘추전국시대가 펼쳐진다. 애플의 OTT서비스 애플TV+가 11월4일, 디즈니의 OTT서비스 디즈니+가 11월12일 한국에서 각각 런칭한다. 애플TV+는 월 6500원에 7일 무료 체험과 함께 제공된다. 디즈니+는 월 990]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[유해진, 다큐 영화 '에고이스트' 내레이션 재능 기부]]></title>
-        <id>https://entertain.v.daum.net/v/20211026091334987</id>
-        <link href="https://entertain.v.daum.net/v/20211026091334987"/>
-        <updated>2021-10-26T01:53:21.748Z</updated>
-        <content type="html"><![CDATA[배우 유해진이 또 한 번의 목소리 재능 기부로 선한 영향력을 이어간다. 유해진은 오는 11월 12일부터 14일까지 개최되는 국경없는영화제 개막작 다큐멘터리 영화 '에고이스트: 이기심과 이타심의 경계' 한국어 버전 내레이션에 참여해 관객들에게 따스한 울림을 선사한다. 2020년 발표된 영화 '에고이스트'는 국경없는의사회의 구호 활동가 40명의 이야기]]></content>
     </entry>
 </feed>
