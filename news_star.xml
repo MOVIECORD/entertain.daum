@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2021-10-27T16:17:39.338Z</updated>
+    <updated>2021-10-27T17:18:06.617Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['골목식당' 백종원, 콩나물국밥집 新육수에 "좋게 말하면 사프란, 나쁘게 말하면 수돗물 향 난다"]]></title>
+        <id>https://entertain.v.daum.net/v/20211028013604334</id>
+        <link href="https://entertain.v.daum.net/v/20211028013604334"/>
+        <updated>2021-10-27T17:18:01.192Z</updated>
+        <content type="html"><![CDATA[[SBS연예뉴스 | 김효정 에디터] 백종원이 콩나물국밥집의 새로운 육수에 아쉬운 평가를 했다. 27일 방송된 SBS '골목식당'에서는 철원 골목상권에 대한 솔루션이 진행됐다. 이날 방송에서는 백종원은 최고의 육수를 만들기 위해 고생 중인 콩나물국밥집으로 향했다. 그리고 그는 기존 덖은 멸치만 사용한 육수와 다른 재료를 추가한 육수를 맛보고 평가했다. 앞서]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['골목식당' 전골칼국숫집 子, "맹물에 간 맞춘 맛..버섯 물에 소금 탄 것" 냉정한 평가]]></title>
         <id>https://entertain.v.daum.net/v/20211028011508267</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211028000220672"/>
         <updated>2021-10-27T15:13:31.917Z</updated>
         <content type="html"><![CDATA[[마이데일리 = 김나라 기자] 방송인 겸 쇼핑몰 CEO 김준희가 모피를 입지 않는다며 소신 발언을 했다. 김준희는 27일 자신의 인스타그램에 페이크 퍼 착용 컷 여러 장을 게재했다. 그러면서 그는 "전 리얼 밍크코트나 폭스 퍼 등 동물의 털로 만든 리얼 퍼 제품을 입지 않는다. 10여 년 전 티브이에서 사람의 욕심에 의해 매해 겨울마다 살아있는 동물들이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['뽕숭아학당' 이찬원→영탁, 시즌1 마무리 소감 "예능 성장해"]]></title>
-        <id>https://entertain.v.daum.net/v/20211028000109662</id>
-        <link href="https://entertain.v.daum.net/v/20211028000109662"/>
-        <updated>2021-10-27T15:13:31.918Z</updated>
-        <content type="html"><![CDATA[[스포츠투데이 현혜선 기자] '뽕숭아학당'의 시즌이 마무리됐다. 27일 밤 방송된 TV조선 예능프로그램 '뽕숭아학당'은 시즌1을 마무리하는 종업식이 그려졌다. 이날 방송에서 멤버들은 1년 반의 '뽕숭아학당'을 돌아봤다. 정동원은 "나는 연기가 늘었다. 배운 걸 토대로 늘었다"고 말했다. 영탁도 "박성웅과 함께한 연기 수업이 기억에 남는다. 정말 큰 도움이]]></content>
     </entry>
 </feed>
