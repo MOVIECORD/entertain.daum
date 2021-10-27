@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2021-10-27T07:12:37.788Z</updated>
+    <updated>2021-10-27T08:14:51.657Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['홍천기' 곽시양 "판타지 사극이니 상상력이 많이 필요했죠 "]]></title>
+        <id>https://entertain.v.daum.net/v/20211027165352332</id>
+        <link href="https://entertain.v.daum.net/v/20211027165352332"/>
+        <updated>2021-10-27T08:14:33.801Z</updated>
+        <content type="html"><![CDATA[(서울=연합뉴스) 강애란 기자 박소연 인턴 기자 = "상상력이 많이 필요한 작품이었어요." 배우 곽시양(34)은 27일 온라인으로 진행된 SBS TV 월화드라마 '홍천기' 종영 화상 인터뷰에서 사극 로맨스 판타지 장르에 도전한 소감을 이같이 밝혔다. '홍천기'는 조선시대 여화공 홍천기(김유정)와 마왕을 자신의 몸에 봉인하고 있는 하람(안효섭)의 운명적인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['그림자 미녀' 심달기, 섬뜩한 눈빛..SNS 여신의 이중생활]]></title>
+        <id>https://entertain.v.daum.net/v/20211027163648525</id>
+        <link href="https://entertain.v.daum.net/v/20211027163648525"/>
+        <updated>2021-10-27T08:14:33.801Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 황수연 기자) ‘그림자 미녀’가 1차 티저 영상과 함께 티저 포스터를 공개, 드디어 그 베일을 벗었다. 카카오TV 오리지널 ‘그림자 미녀’는 학교에선 왕따지만 SNS에서는 화려한 스타 ‘지니’로 살아가는 여고생 구애진(심달기 분)의 아슬아슬한 방과후 이중생활을 그린 드라마다. 카카오페이지에서 연재되며 구독자 70만명, 평점 9.1을 기록한]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['데뷔 8년차' 곽시양 "조정석처럼 코믹 연기하고파"]]></title>
         <id>https://entertain.v.daum.net/v/20211027154443016</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211027144541339"/>
         <updated>2021-10-27T06:14:26.540Z</updated>
         <content type="html"><![CDATA[[OSEN=하수정 기자] 배우 곽시양이 조정석을 보면서 코믹 연기를 배우고 있다고 했다.&nbsp; 27일 오후 온라인 생중계를 통해 SBS 월화드라마 '홍천기' 주연 배우 곽시양의 인터뷰가 진행됐다. 지난 8월 첫 방송된 SBS 월화드라마 '홍천기'는 신령한 힘을 가진 여화공 홍천기와 하늘의 별자리를 읽는 붉은 눈의 남자 하람이 그리는 한 폭의 판타지 로맨스 작품]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김소연 측 "'구미호뎐2' 출연 확정 NO"]]></title>
-        <id>https://entertain.v.daum.net/v/20211027143626958</id>
-        <link href="https://entertain.v.daum.net/v/20211027143626958"/>
-        <updated>2021-10-27T06:14:26.543Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 최희재 기자) 배우 김소연이 '구미호뎐2'를 제안 받고 검토 중이다. 소속사 제이와이드컴퍼니 측은 27일 엑스포츠뉴스에 "'구미호뎐 시즌2'는 김소연 배우가 대본을 받은 작품 중에 하나다. 출연 관련해서는 확정된 바 없다"고 밝혔다. 앞서 한 매체는 김소연이 '구미호뎐 시즌2'(이하 '구미호뎐2')의 새 주인공으로 합류한다고 보도했다. tv]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[정인선X이준영, 다정한 스킨십 현장 포착]]></title>
-        <id>https://entertain.v.daum.net/v/20211027143154734</id>
-        <link href="https://entertain.v.daum.net/v/20211027143154734"/>
-        <updated>2021-10-27T06:14:26.544Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 김수진 기자] 사진=빅오션ENM, 슈퍼문 픽쳐스 드라마 '너의 밤이 되어줄게'가 정인선과 이준영의 로맨틱한 무드가 돋보이는 현장을 공개했다. 27일 SBS 일요드라마 '너의 밤이 되어줄게'(연출 안지숙/ 제작 빅오션ENM, 슈퍼문 픽쳐스) 측은 이전 티저에서 보여줬던 정인선과 이준영의 티격태격한 모습과는 정반대되는 커플 스틸컷을 공개하며, 과연]]></content>
     </entry>
 </feed>
