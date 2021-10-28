@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2021-10-28T17:17:20.892Z</updated>
+    <updated>2021-10-28T18:14:37.542Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['홈타운' 유재명, 엄태구 죽이고 딸 이레 지켰다]]></title>
+        <id>https://entertain.v.daum.net/v/20211029022514716</id>
+        <link href="https://entertain.v.daum.net/v/20211029022514716"/>
+        <updated>2021-10-28T18:14:31.725Z</updated>
+        <content type="html"><![CDATA[[티브이데일리 황서연 기자]  '홈타운' 유재명이 친딸 이레를 지키기 위해 엄태구를 살해하고 고통을 감내하는 삶을 살게 됐다. 28일 밤 방송한 tvN 수목드라마 '홈타운'(연출 박현석) 마지막 회에서는 최형인(유재명)이 조경호(엄태구)를 죽이는 모습이 그려졌다. 이날 방송에서 조경호는 최형인에게 임세윤(김새벽)이 쓴 편지와 총을 함께 꺼냈다. 임세윤은 편]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[하이브 측 "아미코인, 방탄소년단과 상관 無..피해 없도록 유의해달라"]]></title>
         <id>https://entertain.v.daum.net/v/20211029010504388</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211029000030862"/>
         <updated>2021-10-28T15:12:54.289Z</updated>
         <content type="html"><![CDATA[[TV리포트=이혜미 기자] 배우 공효진이 자연스런 매력의 민낯을 공개했다. 28일 방송된 KBS 2TV ‘오늘부터 무해하게’에선 공효진 이천희 전혜진의 죽도 무 탄소 여행기가 공개됐다. 죽도 여행 둘째 날, 이른 아침 기상한 공효진은 꾸밈없이 자연스런 모습으로 ‘오늘 무해’ 카메라 앞에 섰다. 무 탄소 여행을 지향하는 만큼 스킨케어도 간략하게. 전혜진과 이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NCT DREAM 재민 "카리스마 슈트핏+꽃바지까지..이런 모습 처음이야"]]></title>
-        <id>https://entertain.v.daum.net/v/20211029000009824</id>
-        <link href="https://entertain.v.daum.net/v/20211029000009824"/>
-        <updated>2021-10-28T15:12:54.290Z</updated>
-        <content type="html"><![CDATA[[스포츠경향] 출간 소식 직후 누리꾼을 들썩이게 했던 ‘WWD 코리아’ 스페셜 에디션 NCT DREAM 재민 편이 드디어 공개된다. 글로벌 미디어 ‘WWD 코리아’는 NCT DREAM 재민, 럭셔리 브랜드 톰 포드, 세계적인 사진작가 애덤 카츠 신딩과 협업한 스페셜 에디션을 29일 정식 출간한다고 밝혔다. 이번 재민의 화보에서는 섹시미, 남성미, 카리스마]]></content>
     </entry>
 </feed>
