@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/variety</id>
     <title>다음 연예 ─ 뉴스 ─ 예능</title>
-    <updated>2021-10-28T19:10:26.273Z</updated>
+    <updated>2021-10-28T20:12:52.554Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[심권호 "건강이상설? 어이없어"..돌연 활동 중단한 이유]]></title>
+        <id>https://entertain.v.daum.net/v/20211029050002608</id>
+        <link href="https://entertain.v.daum.net/v/20211029050002608"/>
+        <updated>2021-10-28T20:12:43.114Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 하지원 기자) 전 레슬링 선수 심권호가 자신을 둘러싼 무성한 소문에 대해 "어이없다"는 입장을 밝혔다. 28일 방송된 MBN '현장르포 특종세상'에서는 레슬링 선수 심권호의 근황이 전해졌다. 심권호는 세계 최초로 두 개 체급에서 그랜드슬램을 달성, 한국인 최초로 레슬링 명예의 전당에 이름을 올리는 영광을 누린 레슬링계의 살아있는 전설이다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['국민가수' 김영흠, 본선 1차전 1위.. 손보승 탈락, 지세희-박은영 추가 합격]]></title>
         <id>https://entertain.v.daum.net/v/20211029010118323</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211028235424769"/>
         <updated>2021-10-28T15:12:49.720Z</updated>
         <content type="html"><![CDATA[[스타뉴스 이시연 기자] /사진= KBS 2TV '오늘부터 무해하게' 방송 화면'오늘부터 무해하게'에서 공효진이 프로그램 방향에 관한 의문을 제기하며 갑자기 촬영을 중단시켰다. 28일 오후 방송된 KBS 2TV 예능프로그램 '오늘부터 무해하게'에서 공효진, 이천희, 전혜진이 촬영을 갑자기 중단했다. 이날 공효진은 "어제 막 왔고 이제 정신이 좀 드니까. 정]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이석훈 "완벽했다" 눈물..박창근X박장현, '올하트'→이병찬 '합격']]></title>
-        <id>https://entertain.v.daum.net/v/20211028235148751</id>
-        <link href="https://entertain.v.daum.net/v/20211028235148751"/>
-        <updated>2021-10-28T15:12:49.721Z</updated>
-        <content type="html"><![CDATA[[OSEN=정다은 기자] ‘내일은 국민가수’ 이석훈이 눈물을 보였다.&nbsp; 28일 방송된 TV CHOSUN 글로벌 K-POP 오디션 ‘내일은 국민가수’(이하 ‘국민가수’)에서는 참가자들의 진심 어린 무대가 펼쳐졌다.&nbsp;&nbsp; ‘타 오디션’부 소속의 네 사람, 울랄라세션 출신의 박광선, 김영근, 유슬기, 김영흠의 무대가 이어졌다.&nbsp;‘타 오디션’부가 선택한 노래는 조용]]></content>
     </entry>
 </feed>
