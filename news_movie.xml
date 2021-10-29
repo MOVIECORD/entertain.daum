@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2021-10-29T09:12:33.171Z</updated>
+    <updated>2021-10-29T10:13:42.496Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[클로이 자오 감독 "'이터널스'·'노매드랜드' 비슷한 점 많다"]]></title>
+        <id>https://entertain.v.daum.net/v/20211029191207827</id>
+        <link href="https://entertain.v.daum.net/v/20211029191207827"/>
+        <updated>2021-10-29T10:13:20.365Z</updated>
+        <content type="html"><![CDATA[클로이 자오 감독이 ‘노매드랜드’와 ‘이터널스’는 비슷한 점이 많다고 밝혔다. 29일 오후 영화 ‘이터널스’ 화상 간담회가 열렸다. 클로이 자오 감독과 배우 키트 해링턴이 참석했다. 클로이 자오 감독은 “‘노매드랜드’와 ‘이터널스’는 가까이 들여다보면 비슷한 점이 많다. ‘노매드랜드’는 한 명의 여정을 담고 있지만 카메라가 그녀를 둘러싼 환경이나 사람을]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[다국적-장애인 히어로 등장했지만 '이터널스' 심상찮다]]></title>
         <id>https://entertain.v.daum.net/v/20211029180901718</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211029140938899"/>
         <updated>2021-10-29T05:11:00.455Z</updated>
         <content type="html"><![CDATA[[스포츠조선 조지영 기자] 영화사 웬에버스튜디오에서 '잘 자요, 엄마' '모든 비밀에는 이름이 있다'로 알려진 국내 미스터리 1위 작가 서미애 원작 소설 '그녀의 취미생활'을 영화화 한다. 원작 소설가인 서미애 작가는 다음과 같이 영화화 결정에 대한 소감을 밝혔다. "소설 '그녀의 취미생활'은 폐쇄적인 공동체 마을에서 최약체로 살고 있는 동네]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[신예 이정하, '무빙' 출연 확정..한효주가 밝힌 30kg 증량 子]]></title>
-        <id>https://entertain.v.daum.net/v/20211029140138626</id>
-        <link href="https://entertain.v.daum.net/v/20211029140138626"/>
-        <updated>2021-10-29T05:11:00.460Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 강민경 기자] 이정하 /사진제공=나무엑터스신예 배우 이정하가 '무빙'에 캐스팅 됐다. 그는 캐릭터를 위해 30kg를 증량했다. 29일 소속사 나무엑터스 측은 "안정적인 연기와 훈훈한 마스크로 주목받고 있는 신예 이정하가 세계적인 스트리밍 서비스 디즈니+의 오리지널 시리즈 '무빙'에서 주연으로 활약한다"라고 밝혔다. '무빙'은 초능력을 숨긴 채 현]]></content>
     </entry>
 </feed>
