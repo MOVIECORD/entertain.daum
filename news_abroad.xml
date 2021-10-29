@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2021-10-29T00:37:14.379Z</updated>
+    <updated>2021-10-29T01:53:58.665Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[제이슨 모모아, '아쿠아맨2' 촬영 중 코로나19 확진]]></title>
+        <id>https://entertain.v.daum.net/v/20211029094901753</id>
+        <link href="https://entertain.v.daum.net/v/20211029094901753"/>
+        <updated>2021-10-29T01:53:57.900Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 이창규 기자) 할리우드 배우 제이슨 모모아가 코로나19 확진 판정을 받았다. 28일(현지시간) 더 선은 제이슨 모모아가 영국에서 DC 확장 유니버스(DCEU) 영화 '아쿠아맨 앤 로스트 킹덤'(아쿠아맨 2)의 촬영 중 코로나19 양성 판정을 받고 자가격리 중이라고 보도했다. 보도에 따르면 제이슨 모모아는 검사 결과 양성 반응을 보였을 뿐 건]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[톰 홀랜드, '스파이더맨' 출연 이어갈까.."처음으로 계약 안 된 상태"]]></title>
         <id>https://entertain.v.daum.net/v/20211029092036748</id>
@@ -39,12 +46,5 @@
         <link href="https://entertain.v.daum.net/v/20211028144447888"/>
         <updated>2021-10-28T06:15:02.455Z</updated>
         <content type="html"><![CDATA[[OSEN=최나영 기자] 할리우드 배우 키아누 리브스(57)가 영화 '존 윅 4' 스턴트 팀에게&nbsp;'역대 최고의 선물'을 선사했다.&nbsp; 뉴욕포스트의 27일(현지시간) 보도에 따르면 키아누 리브스는 영화 '존 윅 4'&nbsp;스턴트 팀&nbsp;각 멤버들에게 개인&nbsp;선물을 주면서 그의 신사적인 면모를&nbsp;다시 한번 드러냈다. 리브스는 최근 프랑스 파리에서 스턴트맨들과 함께&nbsp;저녁식사를]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[졸리, 15세연하 위켄드와 ♥︎열애설 진짜? 질문에 '답변 피해']]></title>
-        <id>https://entertain.v.daum.net/v/20211028103436890</id>
-        <link href="https://entertain.v.daum.net/v/20211028103436890"/>
-        <updated>2021-10-28T01:54:03.535Z</updated>
-        <content type="html"><![CDATA[[OSEN=최나영 기자] 할리우드 배우 안젤리나 졸리(46)가 15세 연하 팝스타 위켄드(31)과의 관계에 입을 다물었다. 졸리는 최근 마블 영화 '이터널스'를&nbsp;홍보하기 위해 출연한 방송에서 은근슬쩍 위켄드와의 관계를 묻는 질문에 답변을 피한 것. 졸리는 27일(현지시간) '이터널스'의 공동 주연인 배우 셀마&nbsp;헤이엑과 함께 E!의 '데일리 팝'에 출연했다.]]></content>
     </entry>
 </feed>
