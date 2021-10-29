@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2021-10-29T05:11:23.271Z</updated>
+    <updated>2021-10-29T06:15:17.770Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[순수한 매력이 일품인 '홍반장', 우린 그가 그립다]]></title>
+        <id>https://entertain.v.daum.net/v/20211029143001456</id>
+        <link href="https://entertain.v.daum.net/v/20211029143001456"/>
+        <updated>2021-10-29T06:14:56.488Z</updated>
+        <content type="html"><![CDATA[[양형석 기자] 17일에 종영한 tvN 주말 드라마 &lt;갯마을 차차차&gt;는 방영 기간 내내 많은 인기를 얻은 화제의 드라마였다. 사실 &lt;사랑의 불시착&gt;과 &lt;도깨비&gt; 등 시청률 20%를 넘는 드라마를 2편이나 배출했던 tvN에서 &lt;갯마을 차차차&gt;의 최종회 시청률 12.665%는 대단한 수치라고 할 수 없다(닐슨코리아 기준). 하지만 tvN과 제작사 스튜디오 드래]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[해외입양 문제 다룬 한국계 감독 "보기에 고통스러워도.."]]></title>
+        <id>https://entertain.v.daum.net/v/20211029142101203</id>
+        <link href="https://entertain.v.daum.net/v/20211029142101203"/>
+        <updated>2021-10-29T06:14:56.494Z</updated>
+        <content type="html"><![CDATA[[이향림 기자] 올해 부천국제애니메이션페스티벌(BIAF 2021.10.22~26)에서 명예공로상 수상자이자&nbsp;한국단편 심사위원으로 입국한&nbsp;한국계 벨기에 융(한국 이름 전정식) 감독. 그는 5살 때 벨기에로 입양되어 자신과 다른 외모의 가족들 속에서 정체성 고민에 빠졌던 성장기를 회상하며 그린 자전적 이야기를 만화로 옮겼고, 그렇게 장편 애니메이션 영화 &lt;피부]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[서미애 작가 소설 '그녀의 취미생활' 영화로 제작된다..영화사 웬에버스튜디오 참여]]></title>
         <id>https://entertain.v.daum.net/v/20211029140938899</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211029115136611"/>
         <updated>2021-10-29T03:13:10.546Z</updated>
         <content type="html"><![CDATA[[뉴스엔 배효주 기자] 11월 1일부터 전국 521개 극장에서 6천원 할인권이 배포된다. 영화진흥위원회(위원장 김영진)와 관객이 함께하는 마음백신 영화 관람 캠페인이 정부의 단계적 일상회복 방역체계 전환과 함께 11월 1일부터 본격 진행된다. 관객은 전국 521개 영화관에서 입장료 6천원 할인권으로 저렴하게 영화를 관람할 수 있게 된다. 1일 오전 1]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[서미애 소설 '그녀의 취미생활' 영화화]]></title>
-        <id>https://entertain.v.daum.net/v/20211029114020113</id>
-        <link href="https://entertain.v.daum.net/v/20211029114020113"/>
-        <updated>2021-10-29T03:13:10.555Z</updated>
-        <content type="html"><![CDATA[(서울=연합뉴스) 한미희 기자 = ▲ 서미애 소설 '그녀의 취미생활' 영화화 = 국내 미스터리 스릴러 장르를 대표하는 서미애 작가의 단편 소설 '그녀의 취미생활'이 영화로 만들어진다고 제작사 웬에버스튜디오가 29일 밝혔다. '그녀의 취미생활'은 외딴 시골에서 혼자 살아가는 두 여성이 감춘 비밀에 대한 이야기다. 정유정 소설을 원작으로 한 영화 '7년의 밤']]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['해적: 도깨비 깃발' 2022년 설 연휴 개봉 확정]]></title>
-        <id>https://entertain.v.daum.net/v/20211029113829044</id>
-        <link href="https://entertain.v.daum.net/v/20211029113829044"/>
-        <updated>2021-10-29T03:13:10.555Z</updated>
-        <content type="html"><![CDATA[[티브이데일리 최하나 기자] '해적: 도깨비 깃발'이 2022년 설 연휴 개봉을 확정했다. 영화 '해적: 도깨비 깃발'(감독 김정훈·제작 어뉴)은 흔적도 없이 사라진 왕실 보물의 주인이 되기 위해 바다로 모인 해적들의 스펙터클한 모험을 그린 영화. 신선한 발상의 스토리와 매력 넘치는 캐릭터 군단, 바다를 무대로 펼쳐지는 스펙터클한 볼거리까지 삼박자를 고]]></content>
     </entry>
 </feed>
