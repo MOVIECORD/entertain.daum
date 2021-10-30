@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2021-10-30T09:11:40.399Z</updated>
+    <updated>2021-10-30T10:12:57.730Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['결사곡' 시즌3? 이러다 임성한 작가만 남겠네]]></title>
+        <id>https://entertain.v.daum.net/v/20211030181230997</id>
+        <link href="https://entertain.v.daum.net/v/20211030181230997"/>
+        <updated>2021-10-30T10:12:39.968Z</updated>
+        <content type="html"><![CDATA[[OSEN=연휘선 기자] 시리즈가 산으로 간다. '결혼 작사 이혼 작곡'이 시즌3 촬영을 앞두고 출연자와 감독 교체 등 내홍에 시달리고 있다.&nbsp; TV조선 드라마 '결혼 작사 이혼 작곡'(이하 '결사곡')이 시즌3 촬영을 앞두고 연일 화제다. 29일부터 30일까지 이틀에 걸쳐 주요 배역 출연자 교체와 감독 교체설까지 제기된 것. '결사곡'은 30대, 40대,]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['뫼비우스:검은 태양' 박하선, 총격전 후 정문성과 극적 재회]]></title>
         <id>https://entertain.v.daum.net/v/20211030175015612</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211030144449448"/>
         <updated>2021-10-30T06:14:10.675Z</updated>
         <content type="html"><![CDATA[[OSEN=연휘선 기자] '지리산'에서 전지현과 주지훈이 지리산의 어둠 속에서 무엇을 목격했을지 궁금증이 모아지고 있다. 오늘(30일)&nbsp;방송되는 tvN 토일드라마&nbsp;'지리산'(극본 김은희,&nbsp;연출 이응복) 3회에서는 지리산에서 벌어질 또 다른 의문의 사고를 예고, 서이강(전지현 분)과 강현조(주지훈 분)가 한층 짙은 미스터리 속으로 발을 들일 예정이다. 공개된]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['하이클래스' 조여정→김지수, 배우들이 꼽은 명장면]]></title>
-        <id>https://entertain.v.daum.net/v/20211030143428324</id>
-        <link href="https://entertain.v.daum.net/v/20211030143428324"/>
-        <updated>2021-10-30T06:14:10.675Z</updated>
-        <content type="html"><![CDATA[‘하이클래스’(사진=tvN)[이데일리 스타in 김가영 기자] tvN ‘하이클래스’가 마지막화만을 남겨두고 있는 가운데, 매회 극강의 몰입도를 지닌 명장면들을 쏟아내며 눈을 뗄 수 없게 만들고 있다. tvN 월화드라마 ‘하이클래스’(연출 최병길, 극본 스토리홀릭, 제작 프로덕션에이치, 에이치월드픽쳐스)는 파라다이스 같은 섬에 위치한 초호화 국제학교에서 죽은]]></content>
     </entry>
 </feed>
