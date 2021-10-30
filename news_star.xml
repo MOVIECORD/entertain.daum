@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2021-10-30T05:10:50.696Z</updated>
+    <updated>2021-10-30T06:14:27.362Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[박주미·주석태·차지연, '2021 AAA' 출격..초호화 라인업]]></title>
+        <id>https://entertain.v.daum.net/v/20211030150619721</id>
+        <link href="https://entertain.v.daum.net/v/20211030150619721"/>
+        <updated>2021-10-30T06:14:21.388Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 이슬 기자) 자타공인 대한민국을 대표하는 배우 박주미, 주석태, 차지연이 ‘2021 Asia Artist Awards‘에 참석을 확정했다. 박주미, 주석태, 차지연은 오는 12월 2일에 열리는 ‘2021 Asia Artist Awards’(2021 아시아아티스트어워즈, 이하 ’2021 AAA’)에 출격, 대중들에게 다시 한번 눈도장을 찍을]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[My name is, 한소희]]></title>
         <id>https://entertain.v.daum.net/v/20211030140830943</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211030102223592"/>
         <updated>2021-10-30T01:53:18.016Z</updated>
         <content type="html"><![CDATA[[뉴스엔 박수인 기자] 배우 이연희가 수준급 골프 실력을 공개했다. 10월 30일 방송되는 JTBC '회원 모집-세리머니 클럽'(이하 '세리머니 클럽')에서 소녀시대 수영과 배우 이연희가 신입 회원으로 찾아온다. 두 사람은 앞서 세리머니 클럽을 찾은 이성경, 음문석의 골프 메이트로 소개된 바 있다. '세리머니 클럽'을 찾아온 이연희는 방송 최초로 골프 실]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['마이 네임' is 박희순]]></title>
-        <id>https://entertain.v.daum.net/v/20211030101207491</id>
-        <link href="https://entertain.v.daum.net/v/20211030101207491"/>
-        <updated>2021-10-30T01:53:18.018Z</updated>
-        <content type="html"><![CDATA[[티브이데일리 김종은 기자] 데뷔한 지 30년이 지난 배우 박희순에게는 소박한 희망이 있었다. 자신의 이름이 제대로 기억되길 원하는 것. 그 소망을 '마이 네임'을 통해 이루고 싶다는 그다. 15일 공개된 넷플릭스 오리지널 '마이 네임'(감독 김진민)은 아버지 동훈(윤경호)을 죽인 범인을 찾기 위해 조직에 들어간 지우(한소희)가 새로운 이름으로 경찰에 잠입]]></content>
     </entry>
 </feed>
