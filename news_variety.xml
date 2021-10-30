@@ -2,16 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/variety</id>
     <title>다음 연예 ─ 뉴스 ─ 예능</title>
-    <updated>2021-10-30T03:13:05.858Z</updated>
+    <updated>2021-10-30T04:15:29.006Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[다크비 "용감한 형제, 격려 多..'난 일해' 역주행 하길"]]></title>
-        <id>https://entertain.v.daum.net/v/20211030120502774</id>
-        <link href="https://entertain.v.daum.net/v/20211030120502774"/>
-        <updated>2021-10-30T03:12:55.770Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 이슬 기자) ([엑's 인터뷰①]에 이어)&nbsp;그룹 다크비(DKB)가 소속사 수장 용감한 형제가 격려를 많이 해준다고 전하며, 역주행 하고 싶은 곡으로 '난 일해'를 꼽았다. 지난 28일 첫 번째 싱글 'Rollercoaster' 다크비. 신곡 발매에 앞서 엑스포츠뉴스는 서울시 강남구에 위치한 엑스포츠뉴스 사옥에서 다크비를 만나 인터뷰를 나눴다]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[허웅x허훈 곧 결혼?..'해방타운' 허재→윤혜진 왁자지껄 첫 MT]]></title>
         <id>https://entertain.v.daum.net/v/20211030115724701</id>
@@ -109,5 +102,12 @@
         <link href="https://entertain.v.daum.net/v/20211030105214973"/>
         <updated>2021-10-30T01:53:12.319Z</updated>
         <content type="html"><![CDATA[[OSEN=박소영 기자] 배우 남보라가 연기,&nbsp;사업 등 다양한 분야에 대한 열정을 드러내 향후 행보에 대한 기대감을 높이고 있다. 남보라는 지난&nbsp;29일 방송된 채널A ‘오은영의 금쪽상담소’에서 배우 활동을 하며 겪은 고충,&nbsp;사업가로서의 의지를 표해 눈길을 끌었다. 이날 남보라는&nbsp;“일을 안 할 때 너무 불안하고 못 쉬겠다”고 털어놓으며&nbsp;13남매&nbsp;K-장녀로서의]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이연희 "같은 소속사 현빈과 골프 쳐봤다" 실력도 귀띔]]></title>
+        <id>https://entertain.v.daum.net/v/20211030105208972</id>
+        <link href="https://entertain.v.daum.net/v/20211030105208972"/>
+        <updated>2021-10-30T04:15:18.508Z</updated>
+        <content type="html"><![CDATA[[OSEN=하수정 기자] 이연희가 '세리머니 클럽'에서 골프 실력을 뽐내며 승부욕 화신으로 거듭났다. 30일 오후 4시 20분 방송되는 JTBC '회원 모집-세리머니 클럽'(이하 '세리머니 클럽')에서 소녀시대 수영과 배우 이연희가 신입 회원으로 찾아온다. 두 사람은 앞서 세리머니 클럽을 찾은 이성경, 음문석의 골프 메이트로 소개된 바 있다. '세리머니 클]]></content>
     </entry>
 </feed>
