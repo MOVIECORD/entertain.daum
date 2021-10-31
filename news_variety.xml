@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/variety</id>
     <title>다음 연예 ─ 뉴스 ─ 예능</title>
-    <updated>2021-10-31T04:15:37.836Z</updated>
+    <updated>2021-10-31T05:11:19.651Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["이건 고문" 김종민, 윤일병 사망 사건 극대노→울컥]]></title>
+        <id>https://entertain.v.daum.net/v/20211031134133538</id>
+        <link href="https://entertain.v.daum.net/v/20211031134133538"/>
+        <updated>2021-10-31T05:11:06.620Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 배효주 기자] 김종민이 ‘윤 일병 사망 사건’ 진실에 분노한다. 10월 31일 방송되는 MBC ‘선을 넘는 녀석들 : 마스터-X’(연출 한승훈/이하 ‘선녀들’)는 군대 내 문제를 사실적으로 드러내 화제를 모은 드라마 ‘D.P.’를 소환하며, 드라마보다 더한 ‘현실판 D.P.’를 이야기한다. 전현무, 김종민, 유병재는 대한민국을 발칵 뒤집은 201]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이이경, PD에 수모 당한 과거 "대사 한 줄 못 읽고 나왔다"]]></title>
         <id>https://entertain.v.daum.net/v/20211031130250950</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211031111517275"/>
         <updated>2021-10-31T02:29:07.924Z</updated>
         <content type="html"><![CDATA[[OSEN=박판석 기자]&nbsp;오늘(31일) 오후 5시에 방송되는 SBS ‘런닝맨’에서는 송지효의 파격적인 발언들이 공개된다. 최근 진행된 녹화에서 멤버들은 ‘내년이 더 기대되는 연예인’이라는 주제로 토론을 진행했다. 송지효는 “모든 일은 한 방, 한 번이 아닌 쌓아가는 과정이다. 사랑도 알아가고 일도 찾아 활약하겠다”라며 파격적인 2022년 계획을 밝혔다. 일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['피의 게임' 플레이어 10인, 긴장감 가득 첫만남..상금 3억+생존 목표로 질주]]></title>
-        <id>https://entertain.v.daum.net/v/20211031111452237</id>
-        <link href="https://entertain.v.daum.net/v/20211031111452237"/>
-        <updated>2021-10-31T02:29:07.925Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 김명미 기자] MBC X 웨이브(wavve) 서바이벌 리얼리티 예능 ‘피의 게임’이 드디어 전쟁의 서막을 연다. 오는 11월 1일 오후 10시 30분 첫 방송되는 MBC 새 서바이벌 리얼리티 예능 ‘피의 게임’은 게임에 참여한 플레이어들이 최후의 1인이 되기 위해 심리전을 펼치며 돈을 두고 경쟁하는 리얼리티 서바이벌 예능프로그램으로, 첫 방송에서]]></content>
     </entry>
 </feed>

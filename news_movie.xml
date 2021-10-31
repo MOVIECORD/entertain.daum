@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2021-10-31T04:15:37.837Z</updated>
+    <updated>2021-10-31T05:11:19.657Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['촬영감독 사망' 알렉 볼드윈 "그녀는 내 친구였다, 총기퇴출 적극 환영" 첫 입장]]></title>
+        <id>https://entertain.v.daum.net/v/20211031132527318</id>
+        <link href="https://entertain.v.daum.net/v/20211031132527318"/>
+        <updated>2021-10-31T05:10:55.165Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]할리우드 배우 알렉 볼드윈(63)이 할리나 허친스 촬영감독이 사망하고 조엘 소자 감독이 부상을 입은 영화 '러스트' 촬영장의 우발적인 총격사고 이후 처음으로 자신의 입장을 밝혔다. 회색 플란넬 셔츠 위에 검은색 바지와 검은색 재킷을 입은 볼드윈은 아내 힐라리아와 함께 미국 버몬트주의 시골길에서 대화를 나눴다. 그는 30일(]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['이터널스' 이전에 없던 新 MCU, 신선하거나 낯설거나]]></title>
         <id>https://entertain.v.daum.net/v/20211031125524815</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211031080005286"/>
         <updated>2021-10-30T23:12:07.791Z</updated>
         <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]로버트 다우니 주니어가 ‘아이언맨’이 아니라 ‘판타스틱4’의 슈퍼빌런 ‘닥터 둠’에 먼저 캐스팅될 뻔했던 사실이 알려졌다. 영화 ‘아이언맨’과 ‘아이언맨2’를 연출한 존 파브로(55) 감독은 최근 ‘The Story of Marvel Studios: The Making of the Marvel Cinematic Universe]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[D-3 '이터널스' 폭발적 관심, 후광이냐 독이냐]]></title>
-        <id>https://entertain.v.daum.net/v/20211031074801213</id>
-        <link href="https://entertain.v.daum.net/v/20211031074801213"/>
-        <updated>2021-10-30T23:12:07.794Z</updated>
-        <content type="html"><![CDATA[마블의 신작, 여기에 ‘마블리‘ 마동석까지 합류해 그 어느때보다 국내의 비상한 관심을 모으고 있는 영화 ‘이터널스’가 오는 3일 정식 개봉을 앞두고 언론에 선공개 됐다. 높은 기대치는 작품의 독이 됐을까, 아니면 그럼에도 자체 발광에 성공 했을까. '이터널스'는 수 천년에 걸쳐 그 모습을 드러내지 않고 살아온 불멸의 히어로들이 ‘어벤져스: 엔드게임’ 이]]></content>
     </entry>
 </feed>
