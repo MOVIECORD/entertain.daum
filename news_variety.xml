@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/variety</id>
     <title>다음 연예 ─ 뉴스 ─ 예능</title>
-    <updated>2021-10-31T15:12:26.092Z</updated>
+    <updated>2021-10-31T16:17:31.909Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['홈즈' 관악산뷰 야외 베란다 있는 과천 방 3개 주택, 전세가 5억 7천]]></title>
+        <id>https://entertain.v.daum.net/v/20211101001415432</id>
+        <link href="https://entertain.v.daum.net/v/20211101001415432"/>
+        <updated>2021-10-31T16:17:21.060Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 서유나 기자] 관악산뷰의 야외 베란다가 있는 과천시 방 3개 주택이 소개됐다. 10월 31일 방송된 MBC 예능 '구해줘! 홈즈'(이하 '홈즈') 130회에는 판교 직장까지 차로 30분 이내의 서울 또는 경기 지역 집을 찾는 1인 가구 의뢰인이 등장했다. 의뢰인은 방 1-2개의 넉넉한 수납장을 지닌 독특하고 매력적인 집을 원했다. 다양한 활용]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["뒷모습 멋있다" 양지은, 훈훈한 치과의사 남편♥에 미소]]></title>
         <id>https://entertain.v.daum.net/v/20211101000919368</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211031225638801"/>
         <updated>2021-10-31T14:10:47.356Z</updated>
         <content type="html"><![CDATA[[뉴스엔 배효주 기자] 정동원과 젠이 만났다. 10월 31일 방송된 KBS 2TV '슈퍼맨이 돌아왔다'에서는 '트롯 왕자' 정동원이 사유리와 젠 모자를 만나는 모습이 담겼다. 이날 사유리와 젠은 정동원에게 트로트를 배우기로 했다. 15세가 됐다는 정동원은 어느새 훌쩍 큰 모습으로 시청자의 눈길을 사로잡았다. 젠과 만난 정동원은 젠을 번쩍 안아올리려 했으나]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['돌싱글즈2' 더블데이트에 실망한 이다은 "도장 찍을 의지 안 생겨"]]></title>
-        <id>https://entertain.v.daum.net/v/20211031225621799</id>
-        <link href="https://entertain.v.daum.net/v/20211031225621799"/>
-        <updated>2021-10-31T14:10:47.357Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 송오정 기자] 이다은이 전날 더블데이트에 실망감을 지우지 못했다. 10월 31일 방송된 MBN '돌싱글즈 시즌2'에서는 돌싱남녀 8인 김계성, 김은영, 김채윤, 유소민, 윤남기, 이다은, 이덕연, 이창수의 1대1 데이트가 이어졌다. 이날 윤남기는 이다은에게 호감을 보이며 데이트를 원했지만, 이다은은 홀로 방안에 남아있었다. 전날 더블 데이트에 실]]></content>
     </entry>
 </feed>

@@ -2,11 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2021-10-31T15:12:26.069Z</updated>
+    <updated>2021-10-31T16:17:31.898Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA["왜 아는 척 안 해"..'구경이' 이영애, 김혜준과 또다시 재회]]></title>
+        <title type="html"><![CDATA['구경이' 김해숙, 이영애와 손잡았다 "살인마 같이 잡자"]]></title>
+        <id>https://entertain.v.daum.net/v/20211101001630447</id>
+        <link href="https://entertain.v.daum.net/v/20211101001630447"/>
+        <updated>2021-10-31T16:17:15.511Z</updated>
+        <content type="html"><![CDATA[[TV리포트 = 하수나 기자] ‘구경이’ 김해숙이 이영애에게 연쇄살인마를 함께 잡자고 제안하며 눈길을 모았다.&nbsp; 31일 방송된 JTBC 새 토일드라마 ‘구경이’에선 구경이(이영애)와 케이(김혜준)가 얽히는 모습이 그려졌다.&nbsp; 이날 구경이는 김민규(김강현) 사망 사건의 목격자가 된 가운데 또 다른 살인사건과 얽혀있음을 눈치 채는 모습이 그려졌다. 구경이(이영]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["왜 아는 척 안 해"..'구경이' 이영애, 김혜준과 대면]]></title>
         <id>https://entertain.v.daum.net/v/20211031235923196</id>
         <link href="https://entertain.v.daum.net/v/20211031235923196"/>
         <updated>2021-10-31T15:12:11.858Z</updated>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211031212437818"/>
         <updated>2021-10-31T13:17:02.236Z</updated>
         <content type="html"><![CDATA[이세희가 지현우에게 사랑고백했고, 임예진 이종원 남매가 눈물의 상봉했다. 10월 31일 방송된 KBS 2TV 주말드라마 ‘신사와 아가씨’ 12회(극본 김사경/연출 신창석)에서는 장미숙(임예진 분)과 박수철(이종원 분)의 남매관계가 드러났다. 이영국(지현우 분)과 박단단(이세희 분)은 과거 휴가나온 군인과 가출소녀로 처음 만났던 일을 기억하고 신기해하며]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["도둑년을 들였다" 차화연･박하나, 이세희 절도범으로 몰아 →지현우 '분노']]></title>
-        <id>https://entertain.v.daum.net/v/20211031212029771</id>
-        <link href="https://entertain.v.daum.net/v/20211031212029771"/>
-        <updated>2021-10-31T13:17:02.238Z</updated>
-        <content type="html"><![CDATA[[OSEN=박근희 기자] '신사와 아가씨’ 이세희가 목걸이 도둑으로 몰렸으나 누명을 벗었다. 31일 전파를 탄 KBS 2TV 주말 드라마 '신사와 아가씨(연출 신창석, 극본 김사경)’에서 왕대란 (차화연 분)이 박단단(이세희 분)의 방에 목걸이를 숨겼다. 왕대란은 다이아 목걸이가 없어졌다고 소리를 지르며 “아침에 회장대 위에 뒀는데 없어졌다니까”라고 핏대를]]></content>
     </entry>
 </feed>
