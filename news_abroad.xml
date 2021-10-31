@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2021-10-31T06:14:26.478Z</updated>
+    <updated>2021-10-31T07:12:16.183Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[브루스 윌리스, 인성 폭로 등장 "식당 팁 안주고 인터뷰 9일 끌어"]]></title>
+        <id>https://entertain.v.daum.net/v/20211031155036161</id>
+        <link href="https://entertain.v.daum.net/v/20211031155036161"/>
+        <updated>2021-10-31T07:12:15.593Z</updated>
+        <content type="html"><![CDATA[[OSEN=최나영 기자] 할리우드 배우 브루스 윌리스에 대한 한 기자의 폭로가 화제다. 지난 1996년 브루스 윌리스가&nbsp;인터뷰를 위해 9일을 기다리게 했으며 인터뷰를 진행하러 간 식당에서 종업원에게 팁을 주지 않았다는 주장이 나온 것. 이는 마사 프랑켈이라는 기자가&nbsp;최근 아이하트라디오의 새 오리지널 팟캐스트 '헤일리우드(Haileywood)'에 출연해 진행]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['총기사고' 알렉 볼드윈 26세 연하 아내 "외상 후 스트레스 우려"]]></title>
         <id>https://entertain.v.daum.net/v/20211031134431594</id>
