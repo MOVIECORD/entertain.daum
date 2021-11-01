@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2021-11-01T15:13:06.167Z</updated>
+    <updated>2021-11-01T16:17:47.916Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[종영 '하클' 김남희 사망X김지수 구속..조여정 다시 찾은 평화]]></title>
+        <id>https://entertain.v.daum.net/v/20211102001550003</id>
+        <link href="https://entertain.v.daum.net/v/20211102001550003"/>
+        <updated>2021-11-01T16:17:34.395Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 이시연 기자] /사진= tvN '하이클래스' 방송 화면'하이클래스' 김남희가 사망하고 김지수가 구속되며 모든 사건이 마무리됐다. 1일 오후 방송된 tvN 월화드라마 '하이클래스'에서는 사망한 척하던 안지용(김남희 분)이 결국 동업자에게 배신당해 사망했다. 이날 안지용은 송여울이 학교 계좌의 돈을 빼낸 것에 대해 돈을 돌려받기 위해 안이찬을 학교]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[종영 '하이클래스' 조여정, 김남희 죽음으로 해방→완벽한 홀로서기]]></title>
         <id>https://entertain.v.daum.net/v/20211101234400679</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211101211535122"/>
         <updated>2021-11-01T12:19:32.933Z</updated>
         <content type="html"><![CDATA[[스타뉴스 이시연 기자] /사진= SBS플러스 '연애도사 시즌2' 방송 화면'연애도사 시즌2'에서 원더걸스에서 핫펠트로 홀로서기한 예은이 계속 연예인 남자친구만 만나왔다고 밝혔다. 1일 오후 방송된 SBS플러스 예능프로그램 '연애도사 시즌2'에서는 예은이 게스트로 출연했다. 이날 예은은 "모든 남자친구에게 기회를 3번 준다"며 연애 삼진 아웃 제도를 실시한]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['빨강구두' 소이현, 황동주 손잡고 복직.. 최명길 과거 파헤칠까?]]></title>
-        <id>https://entertain.v.daum.net/v/20211101203430220</id>
-        <link href="https://entertain.v.daum.net/v/20211101203430220"/>
-        <updated>2021-11-01T12:19:32.934Z</updated>
-        <content type="html"><![CDATA[[TV리포트=이혜미 기자] 소이현이 황동주의 손을 잡고 최명길과 선우재덕을 파멸시킬 수 있을까. 1일 방송된 KBS 2TV ‘빨강구두’에선 주형(황동주 분)의 도움으로 로라에 복귀하는 젬마(소이현 분)의 모습이 그려졌다. 주형은 혁상(선우재덕 분) 전처의 아들이자 로라의 원 주인으로 희경(최명길 분)과는 대립각을 세우는 중. 이날 희경은 로라의 주식을 대거]]></content>
     </entry>
 </feed>
