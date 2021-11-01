@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/variety</id>
     <title>다음 연예 ─ 뉴스 ─ 예능</title>
-    <updated>2021-11-01T09:13:24.194Z</updated>
+    <updated>2021-11-01T10:13:57.002Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이상민·장동민 "'미친 것 아냐?'란 말 절로..첫 회 충격"]]></title>
+        <id>https://entertain.v.daum.net/v/20211101185018110</id>
+        <link href="https://entertain.v.daum.net/v/20211101185018110"/>
+        <updated>2021-11-01T10:13:45.901Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 김현정 기자) '더 지니어스'에서 호흡한 방송인 이상민과 장동민이 이번에는 '피의 게임' MC를 맡았다. 3억을 위한 생존 게임인 MBC 새 예능프로그램 ‘피의 게임’이 오늘(1일) 오후 10시 30분에 첫 방송한다. ‘피의 게임’은 게임에 참가한 도전자들이 외부와 단절된 공간 안에서 돈을 두고 펼치는 치열한 생존 서바이벌 리얼리티다. 룰라]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김원효, '개승자' 합류..이찬원 "우리 코미디 지켜주시길 바란다"]]></title>
+        <id>https://entertain.v.daum.net/v/20211101182020487</id>
+        <link href="https://entertain.v.daum.net/v/20211101182020487"/>
+        <updated>2021-11-01T10:13:45.901Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 이경호 기자] 개그맨 김원효가 '개승자'에 합류했다.개그맨 김원효가 '개승자'에 전격 합류했다. KBS는 1일 오후 코미디 유튜브 채널 '크큭티비'를 통해 오는 13일 첫 방송 예정인 새 코미디 서바이벌 프로그램 '개승자' 참가자 영상 8탄을 공개했다. 이번에 공개된 주인공은 빠른 말과 사투리 개그의 달인이자 "안 돼~"라는 대표 유행어를 탄생]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이장군, 에이스 활약→해설진 "손흥민 같다" 감탄]]></title>
         <id>https://entertain.v.daum.net/v/20211101180400108</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211101173323089"/>
         <updated>2021-11-01T09:13:13.105Z</updated>
         <content type="html"><![CDATA[(엑스포츠뉴스 김수정 인턴기자) 개그맨 강재준이 웻보이로 변신해 웃음을 선사했다. 강재준은 지난달 31일 방송된 tvN '코미디빅리그'의 4쿼터 5라운드 '수틀린 우먼 파이터'에 출연했다. 이날 강재준은 "MC 강다니엘리펀트다"라고 말하며 Mnet '스트릿 우먼 파이터'의 강다니엘을 따라했다. 강재준은 자기소개를 한 후 코끼리 흉내를 내며 시청자들에게 웃]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["'오징어게임' 실사판"..'피의 게임', 진용진 업고 지상파 최고 수위 예고]]></title>
-        <id>https://entertain.v.daum.net/v/20211101171658509</id>
-        <link href="https://entertain.v.daum.net/v/20211101171658509"/>
-        <updated>2021-11-01T09:13:13.105Z</updated>
-        <content type="html"><![CDATA[[서울경제] 크리에이터 진용진을 내세운 서바이벌 리얼리티 '피의 게임'이 예능계 한 획을 그을 준비를 마쳤다. 최후의 1인이 되기 위한 고난도의 심리전과 치열한 경쟁이 시청자들의 손에 땀을 쥐게 만들 예정이다. 신박한 아이디어로 유튜브 콘텐츠를 넘어 TV까지 진출한 진용진, 예리한 추리력으로 재미를 더할 출연진들의 시너지에 기대가 모인다. 1일 오후 MB]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[유재환, '10억 연매출' 정아름과 소개팅.."남친이면 사주지"]]></title>
-        <id>https://entertain.v.daum.net/v/20211101171148334</id>
-        <link href="https://entertain.v.daum.net/v/20211101171148334"/>
-        <updated>2021-11-01T08:14:59.631Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 최희재 기자) 유재환이 여성 리더 정아름과 만난다. 1일 방송되는 IHQ '리더의 연애'에서는 ‘여자 김종국’으로 불리는 10억 연매출의 정아름 리더가 다시 한 번 A/S 소개팅을 가진다. 이번 데이트 장소는 고구마 밭으로 정아름은 “운동이 아닌 것 중 생산적인 것을 고르다 보니 사심을 담은 고구마 캐기로 정했다. 육체 노동이나 몸이 힘든]]></content>
     </entry>
 </feed>
