@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2021-10-31T23:12:34.208Z</updated>
+    <updated>2021-11-01T00:41:16.520Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['오징어게임' 패러디 피트 데이비슨, '카니예 웨스트 이혼' 킴 카다시안과 열애설]]></title>
+        <id>https://entertain.v.daum.net/v/20211101092048212</id>
+        <link href="https://entertain.v.daum.net/v/20211101092048212"/>
+        <updated>2021-11-01T00:41:14.962Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]최근 ‘보헤미안 랩소디’의 라미 말렉과 함께 ‘오징어게임’ 패러디에 참여한 배우 겸 코미디언 피트 데이비슨과 킴 카다시안의 열애설이 제기됐다. 피플 매거진은 이 커플이 지난 29일(현지시간) 미국 캘리포니아주 부에나파크에 위치한 노트스캐리 팜에서 롤러코스터를 탄 모습이 사진에 찍혔다고 보도했다. 이들은 다정하게 손을 잡았다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[BTS, AMA 올해의 아티스트상 후보에]]></title>
         <id>https://entertain.v.daum.net/v/20211101065719163</id>
@@ -32,12 +39,5 @@
         <link href="https://entertain.v.daum.net/v/20211031130657995"/>
         <updated>2021-10-31T04:15:37.139Z</updated>
         <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]‘기생충’ 봉준호 감독이 아카데미 4관왕을 축하했던 미국 모델 지지 하디드(26)의 남편 제인 말리크(28)가 장모를 폭행한 사실이 드러났다. 30일(현지시간) US 위클리에 따르면, 인기그룹 ‘원디렉션’ 출신 제인 말리크는 지지 하디드의 모친 욜란다 하디드(57)를 폭행한 사실을 인정하고 360일간의 보호관찰 처분을 받아들]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[63세 마돈나, 마릴린 먼로 시신 재현 화보로 '비난 세례']]></title>
-        <id>https://entertain.v.daum.net/v/20211031091229115</id>
-        <link href="https://entertain.v.daum.net/v/20211031091229115"/>
-        <updated>2021-10-31T00:40:48.458Z</updated>
-        <content type="html"><![CDATA[[OSEN=최나영 기자] 팝스타 마돈나(63)가 고(母)&nbsp;마릴린 먼로의 시신을 화보로 재현해 비난을 받고 있다. 페이지식스의 29일(현지시간) 보도에 따르면 마돈나는 최근 1962년 마릴린 먼로의 사망 장면을 '브이(V) 매거진'을 통해 재현,&nbsp;'역겹고 부적절하다'란 반응을 얻고 있는 것.&nbsp; 마돈나는 사진작가 스티븐 클라인과 함께 브이 매거진 커버 촬영을]]></content>
     </entry>
 </feed>
