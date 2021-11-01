@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2021-11-01T20:13:15.418Z</updated>
+    <updated>2021-11-01T21:11:19.793Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[종영 '하클' 조여정X박세진 다시 친구..김남희 사망]]></title>
+        <id>https://entertain.v.daum.net/v/20211102060001200</id>
+        <link href="https://entertain.v.daum.net/v/20211102060001200"/>
+        <updated>2021-11-01T21:11:05.123Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 이시연 기자] /사진= tvN '하이클래스' 방송 화면'하이클래스'에서 조여정과 박세진이 김남희와 관련된 모든 사건을 청산하고 다시 친구가 됐다. 1일 방송된 tvN 월화드라마 '하이클래스' 마지막 회에서는 황나윤(박세진 분), 송여울(조여정 분)과 얽힌 안지용(김남희 분)이 사망하는 장면이 그려졌다. 안지용은 송여울이 학교 계좌의 돈을 빼낸 것]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['야인시대' '나의 아저씨'.. 드라마·예능도 역주행 시대]]></title>
         <id>https://entertain.v.daum.net/v/20211102030325948</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211101212049216"/>
         <updated>2021-11-01T13:20:07.311Z</updated>
         <content type="html"><![CDATA[[스타뉴스 이시연 기자] /사진= SBS플러스 '연애도사' 방송 화면'연애도사 시즌2'에서 원더걸스에서 핫펠트로 홀로서기 한 예은이 자신의 결혼 시기에 관해 고민했다. 1일 오후 방송된 SBS플러스 예능프로그램 '연애도사 시즌2'에서는 예은이 게스트로 출연했다. 이날 예은은 "제가 결혼을 할 수 있을지 궁금하다"며 연애도사를 찾아왔다. 이어 "항상 사주를]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[조여정·김지수→하준 "시청자 성원 감사"]]></title>
-        <id>https://entertain.v.daum.net/v/20211101211751145</id>
-        <link href="https://entertain.v.daum.net/v/20211101211751145"/>
-        <updated>2021-11-01T12:19:32.931Z</updated>
-        <content type="html"><![CDATA[[동아닷컴]  조여정, 김지수, 하준, 박세진, 공현주가 직접 종영 인사를 건넸다. tvN 월화드라마 ‘하이클래스’(연출 최병길 극본 스토리홀릭)가 1일 방송을 끝으로 종영한다. 이 가운데 ‘하이클래스’ 제작진이 조여정(송여울 역), 김지수(남지선 역), 하준(오순상 역), 박세진(황나윤 역), 공현주(차도영 역)의 종영 소감과 비하인드 스틸 컷을 공개했]]></content>
     </entry>
 </feed>
