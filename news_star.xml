@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2021-11-01T16:17:47.917Z</updated>
+    <updated>2021-11-01T17:20:12.218Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['피의 게임' 첫회부터 충격 반전..첫 탈락자, 지하실 갇혀 '기생충' 생활]]></title>
+        <id>https://entertain.v.daum.net/v/20211102012229347</id>
+        <link href="https://entertain.v.daum.net/v/20211102012229347"/>
+        <updated>2021-11-01T17:20:06.629Z</updated>
+        <content type="html"><![CDATA['피의 게임'이 첫 회부터 충격적인 반전을 공개했다. 1일 첫 방송된 MBC '피의 게임'에서는 첫 번째 챌린지로 '탈락자 선정'을 받아든 10명의 참가자들의 모습이 그려졌다. '피의 게임'은 10명의 참가자들이 최대 상금 3억원을 얻기 위해 생존을 두고 경쟁하는 프로그램이다. 이날 피의 저택에 모인 참가자들은 자신의 이름과 직업을 밝히며 인사를]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[시크한 이영애 vs 아찔한 모델, '565만원' 롱 코트 룩 "어디 거?"]]></title>
         <id>https://entertain.v.daum.net/v/20211102010001219</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211102000900955"/>
         <updated>2021-11-01T15:13:01.232Z</updated>
         <content type="html"><![CDATA[[SBS연예뉴스 | 김효정 에디터] 임창정이 아내의 황금 고막을 인증했다. 1일 방송된 SBS '동상이몽 시즌2-너는 내 운명'(이하 '동상이몽2')에서는 가수 임창정이 스페셜 MC로 등장했다. 이날 방송에서 김구라는 임창정에게 "아내분의 귀가 좋다고 하던데, 맞냐?"라고 물었다. 이에 임창정은 "맞다. 아내 귀가 정말 좋다"라고 말했다. 이어 그는 "곡을]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['하이클래스' 조여정X박세진, 비극 딛고 손잡았다]]></title>
-        <id>https://entertain.v.daum.net/v/20211102000522923</id>
-        <link href="https://entertain.v.daum.net/v/20211102000522923"/>
-        <updated>2021-11-01T15:13:01.235Z</updated>
-        <content type="html"><![CDATA[[티브이데일리 이기은 기자] ‘하이클래스’ 조여정, 박세진이 조우하며 우정을 지켰다. 1일 밤 방송된 tvN 월화드라마 ‘하이클래스’(극본 스토리홀릭·연출 최병길) 최종회에서는 등장인물 송여울(조여정), 남지선(김지수), 차도영(공현주), 황나윤(박세진) 등을 둘러싼 치정 미스터리 결말이 그려졌다. 이날 황나윤은 결국 딸과 함께 이곳을 떠났다. 나윤은 여울]]></content>
     </entry>
 </feed>
