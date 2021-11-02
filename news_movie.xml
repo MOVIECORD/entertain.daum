@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2021-11-02T01:58:27.692Z</updated>
+    <updated>2021-11-02T02:31:19.993Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['이터널스' 마동석, 새 마블 유니버스 원대한 시작 화끈하게 열었다]]></title>
+        <id>https://entertain.v.daum.net/v/20211102112325581</id>
+        <link href="https://entertain.v.daum.net/v/20211102112325581"/>
+        <updated>2021-11-02T02:30:57.350Z</updated>
+        <content type="html"><![CDATA[[OSEN=박판석 기자]&nbsp;영화 ‘이터널스’는 ‘어벤져스:엔드게임’ 이후 마블의 새로운 시대를 여는 작품으로 많은 기대를 모으고 있다. 특히 한국 영화계를 대표하는 마동석이 마블의 주인공으로 합류하면서 남다른 의미를 더한다. ‘이터널스’는 7000년전부터 지구를 데비안츠로부터 지키기 위해 파견된 불면의 히어로인 이터널스의 이야기다. ‘이터널스’의 가쟝 큰 매]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['듄' 80만 돌파]]></title>
+        <id>https://entertain.v.daum.net/v/20211102110009287</id>
+        <link href="https://entertain.v.daum.net/v/20211102110009287"/>
+        <updated>2021-11-02T02:30:57.353Z</updated>
+        <content type="html"><![CDATA[[동아닷컴] ‘듄’ 80만 돌파 [DA:박스] 영화 ‘듄’이 11월 2일 오전 9시를 기점으로 81만 명의 관객을 동원하며 80만 관객 고지를 넘어섰다. 개봉 2주차 박스오피스 1위에 오르고 개봉주와 비교해도 거의 관객 감소율 없는 등 입소문 흥행진을 이어가고 있다. ‘듄’으로 연출을 맡은 드니 빌뇌브 감독은 북미와 국내에서도 최고 흥행 기록을 세웠다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[투모로우바이투게더, 국산 애니메이션 '아머드 사우루스' 주제곡 부른다]]></title>
         <id>https://entertain.v.daum.net/v/20211102104823781</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211102095025133"/>
         <updated>2021-11-02T01:58:08.233Z</updated>
         <content type="html"><![CDATA[[스포츠조선 이승미 기자]마블 영화 최초 '썩토' 오명을 쓴  하반기 최대 기대작 '이터널스'. 마동석과 함께 국내 흥행에 성공할 수 있을까. 글로벌 리뷰 사이트인 로튼토마토에 따르면 139개의 전문가·유저 리뷰를 보유하고 있는 '이터널스'의 신선도 지수는 59%에 불과하다.(11월 2일 기준) 로튼토마토는 전문가 및 유저의 긍정적 리뷰를 ']]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['강릉', 아스라이 크고 거친 그들만의 낭만]]></title>
-        <id>https://entertain.v.daum.net/v/20211102094752045</id>
-        <link href="https://entertain.v.daum.net/v/20211102094752045"/>
-        <updated>2021-11-02T01:58:08.234Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 강민경 기자] /사진=영화 '강릉' 포스터영화 '강릉'(감독 윤영빈)을 한 마디로 요약하면 거친 남성들, 그들만의 낭만이다. 낡고 낡은 소재를 꺼내와 낭만이라는 이름 하에 뜨거움을 강요한다. '강릉'은 최대의 리조트 건설을 둘러싼 서로 다른 조직의 야망과 음모 그리고 배신을 그린 범죄 액션극. 배우 유오성과 장혁이 드라마 '장사의 신 - 객주]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[장동윤X김보라, 2022 배리어프리영화 홍보대사 위촉]]></title>
-        <id>https://entertain.v.daum.net/v/20211102093827683</id>
-        <link href="https://entertain.v.daum.net/v/20211102093827683"/>
-        <updated>2021-11-02T00:42:26.202Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 강민경 기자] 장동윤, 김보라 /사진제공=배리어프리영화위원회배우 장동윤과 김보라 그리고 '마당을 나온 앎탉', '언더독'을 연출한 오성윤 감독이 2022 배리어프리영화 홍보대사로 위촉됐다. 2일 배리어프리영화위원회 측은 "오성윤 감독, 김보라, 장동윤 배우를 2022 배리어프리영화 홍보대사로 위촉하고 오는 10일 제11회 서울배리어프리영화제 개막]]></content>
     </entry>
 </feed>
