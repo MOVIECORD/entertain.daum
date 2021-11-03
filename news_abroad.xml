@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2021-11-03T00:38:52.463Z</updated>
+    <updated>2021-11-03T01:54:45.186Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[호주정부, 엠버 허드 반려견 밀반입 재조사 "최대 징역 14년 가능"]]></title>
+        <id>https://entertain.v.daum.net/v/20211103095340628</id>
+        <link href="https://entertain.v.daum.net/v/20211103095340628"/>
+        <updated>2021-11-03T01:54:44.554Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]‘아쿠아맨’의 엠버 허드(35)가 2015년 반려견 밀반입 혐의로 호주 정부의 재조사를 받고 있다. 유죄가 인정되면 최대 징역 14년형이 가능할 것이라는 전망이 나왔다. 영국 데일리 메일은 2일(현지시간) “호주 이민국과 경찰이 앰버 허드가 6년 전 반려견 두 마리를 밀반입한 사건을 재수사하고 있다”고 보도했다. 앰버 허드]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[크리스틴 스튜어트, 동성 연인 딜런 메이어와 약혼 "결혼할 것"]]></title>
         <id>https://entertain.v.daum.net/v/20211103093726985</id>
@@ -53,12 +60,5 @@
         <link href="https://entertain.v.daum.net/v/20211102135605585"/>
         <updated>2021-11-02T05:11:11.304Z</updated>
         <content type="html"><![CDATA[[뉴스엔 박수인 기자] 일본에서 '한국드라마어 사전'이 출간됐다. 일본 출판사 성문당신광사는 최근 한국의 사극부터 현대극까지 한국 드라마를 볼 때 알면 더 재밌는 600개 용어를 소개하는 '한국드라마어 사전'(韓ドラ語辞典)을 발간했다. 해당 사전은 한국 드라마, 한국 영화, 한국 문학 등 한국 문화 전반에 관심을 갖고 있는 다카야마 가즈카 작가가 '한국]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[레오나르도 디카프리오, 핼러윈 파티서 100세 노인으로 분장 "아무도 못 알아봐"]]></title>
-        <id>https://entertain.v.daum.net/v/20211102100613877</id>
-        <link href="https://entertain.v.daum.net/v/20211102100613877"/>
-        <updated>2021-11-02T01:58:27.132Z</updated>
-        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]할리우드 스타 레오나르도 디카프리오가 핼러윈을 맞아 100세 노인으로 분장했다. 연예매체 페이지식스는 1일(현지시간) 레오나르도 디카프리오가 캘리포니아 비버리힐스 파티에서 100세 노인으로 분장해 참석했지만, 아무도 못 알아봤다고 전했다. 그는 억만장자 니콜라스 버그그루엔이 지난달 6,300만달러(약 740억원)를 주고 매]]></content>
     </entry>
 </feed>
