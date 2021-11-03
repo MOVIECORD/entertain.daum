@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2021-11-03T06:14:21.861Z</updated>
+    <updated>2021-11-03T07:17:57.624Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[가치봄영화제·서울무용영화제]]></title>
+        <id>https://entertain.v.daum.net/v/20211103151453962</id>
+        <link href="https://entertain.v.daum.net/v/20211103151453962"/>
+        <updated>2021-11-03T07:17:39.224Z</updated>
+        <content type="html"><![CDATA[(서울=연합뉴스) 한미희 기자 = ▲ 제22회 가치봄 영화제 = 제22회 가치봄 영화제(구 장애인영화제)가 오는 11∼14일 CGV 피카디리1958에서 열린다. 장애인과 비장애인이 함께 즐기자는 취지의 비영리 영화제로, 모든 상영작은 '가치봄 버전'(한글자막 화면해설)으로 상영된다. 어릴 적 인공와우 수술을 받고 보청기를 끼고 다니는 초등학생 시온이와 학]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[서울독립영화제 25일 개막..팬데믹에도 역대 최다작 출품]]></title>
         <id>https://entertain.v.daum.net/v/20211103145900264</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211103112902635"/>
         <updated>2021-11-03T03:12:53.483Z</updated>
         <content type="html"><![CDATA[[스포츠조선 문지연 기자] 배우 이선균이 '닥터 브레인'을 선택한 이유를 밝혔다. 3일 애플TV+는 국내 첫 오리지널 시리즈 'Dr.브레인(닥터 브레인)'의 제작발표회를 신종 코로나바이러스 감염증(코로나19) 확산 방지를 위한 온라인 생중계로 진행했다. 행사에는 김지운 감독, 이선균, 이유영, 박희순, 서지혜, 이재원이 참석했다. 이선균은]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[마동석 합류한 '이터널스', 흥행 신기록 쓸까..예매 관객 34만↑]]></title>
-        <id>https://entertain.v.daum.net/v/20211103112608439</id>
-        <link href="https://entertain.v.daum.net/v/20211103112608439"/>
-        <updated>2021-11-03T03:12:53.484Z</updated>
-        <content type="html"><![CDATA[[OSEN=김보라 기자]&nbsp;마블 신작 ‘이터널스’가 오늘(3일) 관객들을 만날 준비를 마쳤다. 마동석이 한국배우들 중 처음으로 ‘마블의 히어로’로 변신한 만큼 국내 관객들의 높은 기대가 쏠리고 있다. 이는 예매율 수치로 나타나고 있는 바. 개봉 당일인 3일 영화진흥위원회 영화관입장권 실시간 예매율 집계를 보면 ‘이터널스’(감독 클로이 자오, 수입배급 월트디즈]]></content>
     </entry>
 </feed>
