@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2021-11-03T18:14:43.979Z</updated>
+    <updated>2021-11-03T19:10:46.888Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[애플 TV+, SF스릴러 'Dr 브레인'으로 국내에 도전장]]></title>
+        <id>https://entertain.v.daum.net/v/20211104040716627</id>
+        <link href="https://entertain.v.daum.net/v/20211104040716627"/>
+        <updated>2021-11-03T19:10:40.665Z</updated>
+        <content type="html"><![CDATA[애플사의 온라인 동영상 서비스(OTT) ‘Apple TV+’(애플TV 플러스)가 넷플릭스가 장악한 국내 시장을 흔들 수 있을까. 애플TV 플러스가 출시와 동시에 한국어 오리지널 시리즈 ‘Dr 브레인’(닥터 브레인)을 선보이며 야심차게 도전장을 내민다. 하지만 애플 기기가 아니라면 시청이 어렵다는 점, 넷플릭스는 물론 국내에 새로 진출하는 ‘디즈니+’(디즈니]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['골목식당' 백종원, 전골칼국숫집에 "처음부터 이랬으면 맛집"..NEW 칼국수에 '합격점']]></title>
         <id>https://entertain.v.daum.net/v/20211104022400133</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211104000958278"/>
         <updated>2021-11-03T15:13:58.809Z</updated>
         <content type="html"><![CDATA[(서울=뉴스1) 박하나 기자 = '백종원의 골목식당' 가수 딘딘이 작곡가 벌구와 함께 출격했다. 3일 오후에 방송된 SBS '백종원의 골목식당'에서는 신철원 골목의 이야기가 계속해서 이어졌다. 이날 철원과 남다른 인연이 있는 가수 딘딘이 미리투어단으로 등장해 눈길을 끌었다. 딘딘의 친구이자 작곡가인 벌구가 함께했다. 딘딘은 제5포병여단 출신으로 철원에서]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['백종원의 골목식당' 철원 콩나물국밥집, 사장님 관록 '만점']]></title>
-        <id>https://entertain.v.daum.net/v/20211104000717245</id>
-        <link href="https://entertain.v.daum.net/v/20211104000717245"/>
-        <updated>2021-11-03T15:13:58.809Z</updated>
-        <content type="html"><![CDATA[[티브이데일리 이기은 기자] ‘백종원의 골목식당’ 철원 콩나물국밥 식당이 관록을 과시했다. 3일 밤 방송된 SBS 예능프로그램 ‘백종원의 골목식당’에서는 신철원 골목 콩나물국밥집 장사 현황이 공개됐다. 이날 콩나물국밥 사장님은 손님들을 하나둘씩 받아내며 홀로 서빙, 요리 등을 바쁘게 해냈다. 국밥 조리부터 홀 소독, 서빙까지 한 몸으로 모든 일을 해내는 그]]></content>
     </entry>
 </feed>
