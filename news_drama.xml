@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2021-11-03T10:13:48.205Z</updated>
+    <updated>2021-11-03T11:10:55.243Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['빨강구두' 신정윤, 최명길에 소이현 결혼 청첩장 건네 "장모님"]]></title>
+        <id>https://entertain.v.daum.net/v/20211103195923022</id>
+        <link href="https://entertain.v.daum.net/v/20211103195923022"/>
+        <updated>2021-11-03T11:10:37.465Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 여도경 기자] /사진=KBS 2TV '빨강구두' 방송화면 캡처'빨강 구두'의 신정윤이 최명길에게 소이현과의 결혼 청첩장을 주며 장모님이라고 불렀다. 3일 오후 방송된 KBS 2TV 일일드라마 '빨강 구두'에서 윤현석(신정윤 분)이 민희경(최명길 분)을 찾아갔다. 이날 윤현석은 "꼭 오셔서 축하해주세요. 장모님"이라며 청첩장을 건넸다. 민희경은 "]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['학교 2021' 김요한vs추영우, 물러섬 없는 날선 신경전..안방극장 심쿵 주의보]]></title>
         <id>https://entertain.v.daum.net/v/20211103190059950</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211103172117316"/>
         <updated>2021-11-03T09:12:55.033Z</updated>
         <content type="html"><![CDATA[[OSEN=하수정 기자] ‘이렇게 된 이상 청와대로 간다’ 속 김성령, 배해선, 백현진, 이학주의 신선한 조합이 시선을 사로잡는다. 오는 11월 12일 오전 11시 전편 공개되는 웨이브(wavve) 오리지널 드라마 ‘이렇게 된 이상 청와대로 간다’(이하 ‘청와대로 간다’)(연출 윤성호/ 극본 크리에이터 송편, 김홍기, 최성진, 박누리 등)의 주역 김성령(이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[배해선vs이학주, 서로 견제하는 눈빛..긴장감 '팽팽']]></title>
-        <id>https://entertain.v.daum.net/v/20211103170154595</id>
-        <link href="https://entertain.v.daum.net/v/20211103170154595"/>
-        <updated>2021-11-03T08:14:59.370Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 윤성열 기자] /사진제공=웨이브웨이브(wavve) 오리지널 드라마 '이렇게 된 이상 청와대로 간다'(이하 '청와대로 간다')에서 배우 배해선과 이학주가 날 선 신경전을 벌이는 모습이 포착됐다. 3일 공개된 사진 속 배해선과 이학주는 서로를 날카롭게 응시하며 숨 막히는 긴장감을 자아내고 있다. 한 치의 양보 없이 팽팽하게 맞서는 이들의 모습은 두]]></content>
     </entry>
 </feed>
