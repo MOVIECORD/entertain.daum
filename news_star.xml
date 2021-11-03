@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2021-11-03T17:19:15.791Z</updated>
+    <updated>2021-11-03T18:14:43.979Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['골목식당' 백종원, 전골칼국숫집에 "처음부터 이랬으면 맛집"..NEW 칼국수에 '합격점']]></title>
+        <id>https://entertain.v.daum.net/v/20211104022400133</id>
+        <link href="https://entertain.v.daum.net/v/20211104022400133"/>
+        <updated>2021-11-03T18:14:37.675Z</updated>
+        <content type="html"><![CDATA[[SBS연예뉴스 | 김효정 에디터] 백종원이 전골칼국숫집의 최종 메뉴에 합격점을 주었다. 3일 방송된 SBS '골목식당'에서는 철원 골목상권에 대한 마지막 솔루션이 진행됐다. 이날 방송에서 콩나물국밥집은 첫 장사를 성공적으로 마쳤다. 하지만 불필요한 동선이 많아 아쉬움을 자아냈다. 이에 백종원은 효율적인 동선을 위해 주방 배치에 대해 조언했다. 또한 원활한]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[하디 일문일답 "美 명문대 학생→싱어송라이터, 후회 없는 결정"]]></title>
         <id>https://entertain.v.daum.net/v/20211104020234032</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211104000717245"/>
         <updated>2021-11-03T15:13:58.809Z</updated>
         <content type="html"><![CDATA[[티브이데일리 이기은 기자] ‘백종원의 골목식당’ 철원 콩나물국밥 식당이 관록을 과시했다. 3일 밤 방송된 SBS 예능프로그램 ‘백종원의 골목식당’에서는 신철원 골목 콩나물국밥집 장사 현황이 공개됐다. 이날 콩나물국밥 사장님은 손님들을 하나둘씩 받아내며 홀로 서빙, 요리 등을 바쁘게 해냈다. 국밥 조리부터 홀 소독, 서빙까지 한 몸으로 모든 일을 해내는 그]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['84년생' 현봉식 "설경구가 동년배로 착각→S사 연수 중 진상 연기하다 배우 꿈꿔"]]></title>
-        <id>https://entertain.v.daum.net/v/20211104000714243</id>
-        <link href="https://entertain.v.daum.net/v/20211104000714243"/>
-        <updated>2021-11-03T15:13:58.810Z</updated>
-        <content type="html"><![CDATA[[스포츠조선닷컴 이우주 기자] '라스' 현봉식이 '노안 배우' 끝판왕 다운 끝없는 일화들을 공개했다. 3일 방송된 MBC 예능프로그램 '라디오스타'에서는 이준호, 오대환, 최영준, 현봉식이 게스트로 출연했다. 이준호는 군백기를 마친 후 다이어트를 열심히 했다며 "소집해제하고 바로 2PM 컴백을 했다. 멋있는 모습을 보여 드리고 싶어서 16k]]></content>
     </entry>
 </feed>
