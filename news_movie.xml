@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2021-11-04T20:13:27.790Z</updated>
+    <updated>2021-11-04T21:11:30.030Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[복귀·이혼·사랑..조은지 연출 '장르만 로맨스' 속 무거운 중년, 류승룡]]></title>
+        <id>https://entertain.v.daum.net/v/20211105060750397</id>
+        <link href="https://entertain.v.daum.net/v/20211105060750397"/>
+        <updated>2021-11-04T21:11:07.246Z</updated>
+        <content type="html"><![CDATA[[OSEN=김보라 기자]&nbsp;7년째 신작을 내놓지 못하고 있는 작가 현(류승룡 분)은 오늘도 썼다 지우길 반복하지만 마음에 드는 첫 문장을 뽑아내지 못해 불안하다. 출판사 대표 겸 동창 순모(김희원 분)가 “올해는 꼭 책을 내자”고 채근하는 것도 있지만, 스스로 느끼기에&nbsp;한 해 더 늦어졌다가는 독자들에게 완전히 잊힐 것 같아 초조함과 불안감이 가득하기만 하다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[OTT 의존도 높아진 영화계.. '극장개봉 우선' 벗어날까]]></title>
         <id>https://entertain.v.daum.net/v/20211105040614079</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211104174115397"/>
         <updated>2021-11-04T09:12:41.280Z</updated>
         <content type="html"><![CDATA[[아시아경제 이이슬 기자] 신인감독 조은지가 끌고, 코미디 장인 류승룡이 민다. 배우들이 하이퍼리얼리즘 연기로 완성한 '장르만 로맨스'가 올가을 극장가에 신선한 바람을 일으킬 전망이다. 조은지 감독은 4일 오후 서울 용산구 이촌동 CGV용산아이파크몰에서 열린 영화 '장르만 로맨스' 언론시사회에서 "보편적인 사람들의 성장을 그리고 싶었다"고 말했다. 오는]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[달큰하고 시큰한 '장르만 로맨스', 류승룡표 힐링 코미디가 온다]]></title>
-        <id>https://entertain.v.daum.net/v/20211104173318183</id>
-        <link href="https://entertain.v.daum.net/v/20211104173318183"/>
-        <updated>2021-11-04T09:12:41.281Z</updated>
-        <content type="html"><![CDATA['장르만 로맨스'가 웃음과 휴머니즘을 무기로 11월 극장가에 나선다.4일 오후 서울 CGV 용산아이파크몰에서는 영화 '장르만 로맨스' 언론시사회 및 기자간담회가 진행돼 조은지 감독, 배우 류승룡, 오나라, 성유빈, 무진성이 참석했다. 기자간담회는 코로나19 방역을 위해 스크린 생중계로 마련됐다.'장르만 로맨스'는 평범하지 않은 로맨스로 얽힌 이들과 만나 일]]></content>
     </entry>
 </feed>
