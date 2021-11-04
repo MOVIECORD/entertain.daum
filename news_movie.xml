@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2021-11-04T06:14:47.143Z</updated>
+    <updated>2021-11-04T07:13:17.715Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['1인 7역' 윤계상의 겁 없는 도전.. '범죄도시' 흥행 이을까]]></title>
+        <id>https://entertain.v.daum.net/v/20211104152954520</id>
+        <link href="https://entertain.v.daum.net/v/20211104152954520"/>
+        <updated>2021-11-04T07:12:53.076Z</updated>
+        <content type="html"><![CDATA["왜 나에게 이런 일이 생긴 거지?" 영화 '유체이탈자'는 12시간마다 다른 사람의 몸에서 깨어나는 남자가 스스로 누구인지를 찾아가는 과정을 담는다. 주인공 강이안을 연기한 배우 윤계상은 1인 7역이라는 모험에 선뜻 도전장을 내밀었다. 우려보다는 기대와 설렘으로 개봉을 기다리고 있는 그가 '범죄도시'에 이어 극장가를 사로잡을 수 있을지 관심이 쏠린다. 할]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['품절남' 윤계상, 1인 7역 액션 도전 "힘들어서 후회했다"]]></title>
         <id>https://entertain.v.daum.net/v/20211104145004555</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211104120617813"/>
         <updated>2021-11-04T03:13:07.647Z</updated>
         <content type="html"><![CDATA[(서울=뉴스1) 고승아 기자 = 배우 윤계상이 '1인 7역'을 소화, 강렬한 액션신과 함께 흥미로운 소재를 풀어낸다. 4일 오전 11시 영화 '유체이탈자' 제작보고회가 온라인으로 열려 윤계상, 박용우, 임지연, 박지환, 윤재근 감독이 참석했다. '유체이탈자'는 기억을 잃은 채 12시간마다 다른 사람의 몸에서 깨어나는 한 남자가 모두의 표적이 된 진짜]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["12시간마다 몸이 바뀐다"..윤계상의 1인 7역 추적 액션 '유체이탈자']]></title>
-        <id>https://entertain.v.daum.net/v/20211104120324747</id>
-        <link href="https://entertain.v.daum.net/v/20211104120324747"/>
-        <updated>2021-11-04T03:13:07.649Z</updated>
-        <content type="html"><![CDATA[[마이데일리 = 양유진 기자] '범죄도시' 제작진의 노하우와 윤계상의 장기를 집대성한 '유체이탈자'가 관객과 마주할 채비를 마쳤다. 4일 오전 영화 '유체이탈자'(감독 윤재근) 온라인 제작보고회가 열렸다. 행사에는 배우 윤계상, 박용우, 임지연, 박지환과 윤재근 감독이 참석했다. '유체이탈자'는 기억을 잃은 채 12시간마다 다른 사람의 몸에서 깨어나는 한]]></content>
     </entry>
 </feed>
