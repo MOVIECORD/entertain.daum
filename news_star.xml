@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2021-11-04T18:14:34.746Z</updated>
+    <updated>2021-11-04T19:10:29.041Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이지혜, 만삭 MC 투혼 "태교에 좋아"]]></title>
+        <id>https://entertain.v.daum.net/v/20211105033008940</id>
+        <link href="https://entertain.v.daum.net/v/20211105033008940"/>
+        <updated>2021-11-04T19:10:24.200Z</updated>
+        <content type="html"><![CDATA[[동아닷컴] 사진 제공=MBN ‘돌싱글즈2’MBN ‘돌싱글즈2’ 이지혜가 만삭 진행 투혼을 하며 남다른 태교법을 공개한다. 오는 7일(일) MBN ‘돌싱글즈2’에서는 지난 회 방송에 이은 이창수X김은영, 이덕연X유소민의 1:1 데이트 현장과 함께, 전날 밤 나이와 직업을 공개한 돌싱남녀 8인 김계성-김채윤-김은영-유소민-윤남기-이덕연-이다은-이창수의 ‘]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['국민가수' 대국민 응원 투표 1위 이병찬, 떠돌이 개에게 물려도 부상 투혼 '몰표']]></title>
         <id>https://entertain.v.daum.net/v/20211105021806621</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211105000000869"/>
         <updated>2021-11-04T15:12:57.688Z</updated>
         <content type="html"><![CDATA[[TV리포트=이혜미 기자] 배우 엄지원이 ‘오늘 무해’의 깜짝 게스트로 나서는 것으로 공효진과의 우정을 뽐냈다. 4일 방송된 KBS 2TV ‘오늘부터 무해하게’에선 엄지원이 게스트로 출연해 탄소 제로 여행을 함께했다. 엄지원의 이번 출연은 공효진의 전화 한 통으로 성사됐다. 둘은 연예계 소문난 절친. 엄지원에게 전화를 건 공효진은 “묻지도 따지지도 말고 나]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[공효진, 이천희♥전혜진 보며 "외롭다, 사랑이네"..의리파 엄지원, 죽도行]]></title>
-        <id>https://entertain.v.daum.net/v/20211104235548843</id>
-        <link href="https://entertain.v.daum.net/v/20211104235548843"/>
-        <updated>2021-11-04T15:12:57.690Z</updated>
-        <content type="html"><![CDATA[[스포츠조선닷컴 김수현기자] 배우 엄지원이 공효진을 위해 죽도로 출동했다. 4일 방송된 KBS2 환경 예능 '오늘부터 무해하게'에서는 공효진, 이천희, 전혜진의 죽도 생활이 그려졌다. 배가 고파진 세 사람은 무엇을 해먹을 까 하다가 공효진은 "여긴 버섯 없냐. 버섯은 공짜 아니냐"며 엉뚱한 아이디어를 냈다. 이웃 강아지들도 놀러와 나란히]]></content>
     </entry>
 </feed>
