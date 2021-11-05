@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/variety</id>
     <title>다음 연예 ─ 뉴스 ─ 예능</title>
-    <updated>2021-11-05T09:13:03.337Z</updated>
+    <updated>2021-11-05T10:13:45.257Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['뮤직뱅크' 세븐틴, NCT127 제쳤다..출연 없이도 1위]]></title>
+        <id>https://entertain.v.daum.net/v/20211105182910816</id>
+        <link href="https://entertain.v.daum.net/v/20211105182910816"/>
+        <updated>2021-11-05T10:13:36.025Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 정지현 기자] 그룹 세븐틴이 '뮤직뱅크' 1위를 차지했다. 5일 오후 방송된 KBS 2TV '뮤직뱅크'에는 NCT 127의 'Favorite(Vampire)'와 세븐틴의 'Rock with you'가 1위 후보에 올랐다. 이날 점수 합산 결과 세븐틴의 'Rock with you'가 11월 첫째 주 1위를 차지했다. 세븐틴의 'Rock wi]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['뮤직뱅크' 세븐틴, 출연없이 1위x3관왕..슈주-D&E·2am·라붐 컴백]]></title>
+        <id>https://entertain.v.daum.net/v/20211105182306745</id>
+        <link href="https://entertain.v.daum.net/v/20211105182306745"/>
+        <updated>2021-11-05T10:13:36.028Z</updated>
+        <content type="html"><![CDATA[[OSEN=하수정 기자] 세븐틴이 '뮤직뱅크'에서 1위를 차지했다. 5일 오후 방송된 KBS2 '뮤직뱅크'에서는 NCT 127의 'Favorite(Vampire)' 세븐틴의 'Rock with you'가 1위 후보로 경쟁했다. NCT 127은 세 번째 정규앨범 리패키지 'Favorite'을 발표하면서 큰 인기를 얻고 있다. 새 앨범에는 동명의 타이틀곡 'F]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[박명수, 시골집 마당서 뜀박질..이진혁 "형 괜찮아요?"]]></title>
         <id>https://entertain.v.daum.net/v/20211105181049540</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211105160435467"/>
         <updated>2021-11-05T07:12:48.093Z</updated>
         <content type="html"><![CDATA[[OSEN=박판석 기자]&nbsp;'맛있는 녀석들' 뚱3이 홍윤화의 먹방 투어에 감탄사를 연발한다.&nbsp; 오늘(5일) 저녁 8시 방송되는 채널 IHQ 예능 프로그램 '맛있는 녀석들' 350회에서는 게스트 홍윤화의 '연희동 먹방 투어'를 함께하는 뚱3(유민상, 김민경, 문세윤)의 모습이 공개된다. &nbsp; 홍윤화는 최근 진행된 녹화에서 "'홍투어', '윤화투어' 2탄이다"라며]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이적 "가치 평가 아냐. 새로운 시도 하는 것" 따뜻 위로]]></title>
-        <id>https://entertain.v.daum.net/v/20211105160435470</id>
-        <link href="https://entertain.v.daum.net/v/20211105160435470"/>
-        <updated>2021-11-05T07:12:48.093Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 김수정 인턴기자) ‘풍류대장’ 심사위원들의 따뜻한 위로가 화제다. JTBC ‘풍류대장-힙한 소리꾼들의 전쟁’(이하 ‘풍류대장’)이 지난 2일 치열했던 2라운드를 마쳤다. 칼을 갈고 나온 소리꾼들의 레전드 무대는 시청자들의 마음을 ‘올킬’하며 감동을 안겼다. 여기에 심사위원 8인방의 다양한 시각이 담긴 심사평은 소리꾼들의 무대를 더욱 빛나게]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[미주, 소개팅남과 애프터 성사? 휴대폰 들고 설렘 가득 미소]]></title>
-        <id>https://entertain.v.daum.net/v/20211105160433458</id>
-        <link href="https://entertain.v.daum.net/v/20211105160433458"/>
-        <updated>2021-11-05T07:12:48.093Z</updated>
-        <content type="html"><![CDATA[[OSEN=임혜영 기자] 미주가 풀 코스 레스토랑에서 설렘 가득한 미소를 띤 모습이 포착돼 시선을 사로잡는다.&nbsp; 미주는 지난&nbsp;‘뉴스데스크+’를 통해 만났던&nbsp;‘랜선 소개팅남’에 대한 소식을 물으며 애프터 신청에 대한 기대를 보였다고.&nbsp;공개된 사진 속에 스마트폰을 들고 깜짝 놀란 미주의 모습이 담겨 그녀에게 무슨 일이 생긴 것인지 호기심을 자극한다. 오는&nbsp;6일]]></content>
     </entry>
 </feed>
