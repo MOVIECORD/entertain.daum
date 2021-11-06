@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2021-11-06T09:12:24.526Z</updated>
+    <updated>2021-11-06T10:13:59.686Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['원더우먼' 조연희, "재희로 촬영하는 모든 순간이 행복" 종영소감]]></title>
+        <id>https://entertain.v.daum.net/v/20211106181434854</id>
+        <link href="https://entertain.v.daum.net/v/20211106181434854"/>
+        <updated>2021-11-06T10:13:43.707Z</updated>
+        <content type="html"><![CDATA[[OSEN=하수정 기자] 배우 조연희가 ‘원 더 우먼’에서 매 순간 남다른 존재감을 드러내며 극을 한층 풍성하게 만들었다. 마지막까지 단 1회만을 남겨두고 있는 SBS 금토드라마 ‘원 더 우먼’(극본 김윤/ 연출 최영훈)에서 조연희는 재벌가 한주그룹 큰며느리 허재희 역을 맡아 인상 깊은 열연을 펼쳐왔다. 특히 그녀는 강한 상대에게는 약하고 약한 상대에게는]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['국민 엄마' 김미경 "가장 기억에 남는 자식, 박규영"]]></title>
         <id>https://entertain.v.daum.net/v/20211106175306669</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211106140451058"/>
         <updated>2021-11-06T05:10:38.705Z</updated>
         <content type="html"><![CDATA[[뉴스엔 이민지 기자] 지현우와 이세희의 한 폭의 그림 같은 비주얼이 공개됐다. 11월 6일 방송되는 KBS 2TV 주말드라마 ‘신사와 아가씨’(극본 김사경/연출 신창석) 13회에서는 지현우(이영국 역)와 이세희(박단단 역)의 로맨스가 급물살을 탄다. 앞서 박수철(이종원 분)과 장미숙(임예진 분)이 친남매 관계라는 사실이 드러났고, 덕분에 박단단(이세]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['연모' 박은빈, 新 인생 사극캐..'남장 여자' 그 이상 매력]]></title>
-        <id>https://entertain.v.daum.net/v/20211106135917996</id>
-        <link href="https://entertain.v.daum.net/v/20211106135917996"/>
-        <updated>2021-11-06T05:10:38.706Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 이경호 기자] KBS 2TV 월화드라마 '연모'의 박은빈./사진제공=아크미디어, 몬스터유니온'연모' 박은빈이 '남장 여자 왕' 그 이상의 매력으로 시청자들을 사로잡고 있다. KBS 2TV 월화드라마 '연모'(극본 한희정, 연출 송현욱·이현석, 제작 아크미디어·몬스터유니온)의 왕세자 이휘(박은빈 분)는 여자라는 치명적인 비밀을 지키기 위해 바람 잘]]></content>
     </entry>
 </feed>
