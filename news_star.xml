@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2021-11-06T17:16:52.194Z</updated>
+    <updated>2021-11-06T18:14:03.985Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['그알' 도박중독자, "17세부터 11억 잃어"..불법도박 사이트 운영자 "참가자, 절대 돈 딸 수 없는 설계"]]></title>
+        <id>https://entertain.v.daum.net/v/20211107025400224</id>
+        <link href="https://entertain.v.daum.net/v/20211107025400224"/>
+        <updated>2021-11-06T18:13:58.531Z</updated>
+        <content type="html"><![CDATA[[SBS연예뉴스 | 김효정 에디터] 모든 것은 설계된 늪이었다. 6일 방송된 SBS '그것이 알고 싶다'에서는 '설계된 늪 - 어린 '꾼'들의 위험한 베팅'이라는 부제로 온라인 불법 도박과 청소년 도박 중독 실태에 대해 조명했다. 지난 6월 17세 준석 군은 동급생 유 군에게 끔찍한 일을 당했다. 3일 동안 모텔방에 감금되어 물고문까지 당했던 것. 중학생]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[바지 하나에 '759만원'..한효주, 모델과 같은 옷 "어디 거?"]]></title>
         <id>https://entertain.v.daum.net/v/20211107005901981</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211107000006790"/>
         <updated>2021-11-06T15:12:51.077Z</updated>
         <content type="html"><![CDATA[아이돌 로맨틱 코미디 그린 SBS 새 일요드라마 [더팩트ㅣ이한림 기자] 배우 정인선과 이준영이 두손을 꽉 잡고 안방극장을 찾아옵니다. 정인선과 이준영은 4일 열린 SBS 일요드라마 '너의 밤이 되어줄게'(극본 유소원 서정은, 연출 안지숙)의 제작발표회에서 올블랙 패션으로 등장해 시선을 사로잡았는데요. 제작발표회 이후 이어진 포토타임에서 설레는 연인처럼 손]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['해피니스' 이규형 "교육생한테 긁혀..상처 아물지 않아"]]></title>
-        <id>https://entertain.v.daum.net/v/20211107000001786</id>
-        <link href="https://entertain.v.daum.net/v/20211107000001786"/>
-        <updated>2021-11-06T15:12:51.078Z</updated>
-        <content type="html"><![CDATA[이규형이 한효주에게 긁힌 사실을 털어놓았다. 6일 방송된 tvN 금토 드라마 ‘해피니스’에서는 윤새롬(한효주 분)엑 긁힌 사실을 전하는 이승영(이규형 분)의 모습이 그려졌다. 이승영은 "새봄아 나좀 도와줘. 나 그때 교육생한테 긁혔어"라고 털어놓았다. 그는 "무서워서 말을 못했는데 상처가 아물지 않는다"고 했다. 이에 윤새롬은 "너 지금 어디야? 거기로]]></content>
     </entry>
 </feed>
