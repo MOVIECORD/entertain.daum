@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2021-11-07T20:12:32.367Z</updated>
+    <updated>2021-11-07T21:11:30.319Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[안젤리나 졸리 15살 딸 샤일로, 엄마와 별자리 같아 "다양성 즐겨"]]></title>
+        <id>https://entertain.v.daum.net/v/20211108060029020</id>
+        <link href="https://entertain.v.daum.net/v/20211108060029020"/>
+        <updated>2021-11-07T21:11:29.664Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]할리우드 스타 안젤리나 졸리(46)의 딸 샤일로(15)가 엄마와 닮은 패션과 별자리로 주목받고 있다. 할리우드 매체 ‘라이프 앤 스타일’은 6일(현지시간) 샤일로는 엄마의 옷을 물려받으면서 엄마의 발자취를 따르고 있다고 전했다. 이어 엄마와 딸은 별자리도 공유하고 있다고 언급했다. 샤일로는 2006년 5월 27일생, 안젤]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[트래비스 스콧 공연 중 압사 사고..최소 8명 숨졌다]]></title>
         <id>https://entertain.v.daum.net/v/20211107181003731</id>
@@ -74,12 +81,5 @@
         <link href="https://entertain.v.daum.net/v/20211107080005342"/>
         <updated>2021-11-06T23:12:40.847Z</updated>
         <content type="html"><![CDATA[브리트니 스피어스.[이데일리 스타in 김보영 기자] 이데일리가 한 주 간 쏟아진 팝가수 및 빌보드 이슈들을 모아 가볍게 읽을 수 있는 요약 코너를 준비했습니다. 매 주말 핫한 주간 팝소식들을 선정해 소개합니다. 팝스타 브리트니 스피어스가 최근 13년 만에 아버지의 후견에서 벗어나 겨우 자유를 되찾은 것도 잠시, 이번에는 모친의 거액 요구로 곤욕을 치르고]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[조지 클루니 "쌍둥이 사진 노출하지 말아달라, 테러단체 표적된다" 호소]]></title>
-        <id>https://entertain.v.daum.net/v/20211107060005645</id>
-        <link href="https://entertain.v.daum.net/v/20211107060005645"/>
-        <updated>2021-11-06T21:10:43.202Z</updated>
-        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]할리우드 스타 조지 클루니가 영국 ‘데일리 메일’을 비롯한 몇몇 매체에 자신의 자녀 사진을 보도하지 말아달라고 요구했다. 5일(현지시간) BBC에 따르면, 조지 클루니는 “아내가 하는 일의 특성상 그녀는 테러 단체와 맞서 재판을 받게 되고 우리는 가족을 안전하게 지키기 위해 가능한 한 많은 예방조치를 취하게 된다. 만약 어떤]]></content>
     </entry>
 </feed>
