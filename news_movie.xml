@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2021-11-07T07:12:10.838Z</updated>
+    <updated>2021-11-07T08:14:31.391Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[마동석, 친척 집 얹혀 살며 분유장사 하던 그가 마블히어로 되기까지]]></title>
+        <id>https://entertain.v.daum.net/v/20211107161440054</id>
+        <link href="https://entertain.v.daum.net/v/20211107161440054"/>
+        <updated>2021-11-07T08:14:09.676Z</updated>
+        <content type="html"><![CDATA[[OSEN=최나영 기자] 배우 마동석은 그 자체로 성공신화다. 연예 관계자들이 꼽는 그 성과와 변신이 가장 놀라운 대표 배우 중 한 명이 바로&nbsp;마동석이다. 운동선수 출신에 뚜렷한 이미지가 있는 강렬한&nbsp;비주얼은 유연한 연기 변신이 힘들 것&nbsp;같았지만 보기 좋게 '마동석표 장르'를 만들어냈고, '마블'이라는 거대한 할리우드 세계에서 활약하는 한국인 배우를 본다는]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['이터널스', 이집트 등 중동 4개국서 "이성애·동성애 장면 삭제"]]></title>
         <id>https://entertain.v.daum.net/v/20211107154203349</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211107093213272"/>
         <updated>2021-11-07T00:40:03.225Z</updated>
         <content type="html"><![CDATA[(서울=뉴스1) 고승아 기자 = 마블 영화 '이터널스'(감독 클로이 자오)가 개봉 4일만에 100만을 넘어섰다. 7일 영화진흥위원회 영화관 입장권 통합전산망 집계에 따르면 '이터널스'는 지난 6일 49만2550명을 동원해 박스오피스 1위를 기록했다. 누적관객수는 119만4930명이다. 지난 3일 개봉한 '이터널스'는 4일 연속 박스오피스 1위를 유지하며]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['이터널스', 4일 만 100만 관객 돌파]]></title>
-        <id>https://entertain.v.daum.net/v/20211107091649085</id>
-        <link href="https://entertain.v.daum.net/v/20211107091649085"/>
-        <updated>2021-11-07T00:40:03.226Z</updated>
-        <content type="html"><![CDATA[[스포츠경향] 배우 마동석의 출연으로 화제를 모은 영화 ‘이터널스’가 100만 관객을 돌파했다.7일 영화진흥위원회 영화관입장권 통합전산망에 따르면 ‘이터널스’는 개봉 4일째인 6일 49만 2천여명(매출액 점유율 83.3%)의 관객을 모으며 누적 관객 119만 4천여명을 기록했다. 이는 올해 외화 중 최고 흥행작인 ‘블랙 위도우’와 함께 가장 빠른 100만]]></content>
     </entry>
 </feed>

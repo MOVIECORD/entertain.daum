@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2021-11-07T07:12:10.834Z</updated>
+    <updated>2021-11-07T08:14:31.402Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[트래비스 스캇, 공연 중 압사 사고 '최소 8명 사망']]></title>
+        <id>https://entertain.v.daum.net/v/20211107170904401</id>
+        <link href="https://entertain.v.daum.net/v/20211107170904401"/>
+        <updated>2021-11-07T08:14:30.721Z</updated>
+        <content type="html"><![CDATA[미국의 유명 래퍼 트래비스 스캇(29·Travis Scott) 공연 도중에 끔찍한 참사가 벌어졌다. 6일(현지시각) 로이터통신에 따르면 전날 미국 휴스턴 NRG파크에서 열린 아스트로월드 뮤직 페스티벌에 오후 9시쯤 래퍼 트래비스 스캇이 등장하자 약 5만명의 관객들이 일시에 무대 앞쪽으로 몰려들면서 압사 사고가 발생했다. 휴스턴 소방서 측은 사고로 300]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[트래비스 스콧 공연장에서 일어난 참사, 8명 사망]]></title>
         <id>https://entertain.v.daum.net/v/20211107131126703</id>
