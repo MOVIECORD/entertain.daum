@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2021-11-08T17:19:48.995Z</updated>
+    <updated>2021-11-08T18:14:58.301Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[OST도 대박' 임영웅, '사랑은 늘 도망가'유튜브 누적 조회수 1500만뷰]]></title>
+        <id>https://entertain.v.daum.net/v/20211109024001309</id>
+        <link href="https://entertain.v.daum.net/v/20211109024001309"/>
+        <updated>2021-11-08T18:14:51.904Z</updated>
+        <content type="html"><![CDATA[[헤럴드경제 = 서병기 선임기자]가수 임영웅의 신곡 '사랑은 늘 도망가'가 유튜브 총 조회수 1500만 뷰를 넘어서며 인기 고공행진을 이어갔다. 지난 11일 오후 6시 '사랑은 늘 도망가' 음원과 동시에 유튜브에 공개된 뮤직비디오와 공식 오디오 영상, 가사 영상, 음원 영상은 8일 오전 합산 1500만 뷰를 돌파했다. '사랑은 늘 도망가' 뮤직비디오는 이날]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['동상이몽2' 김윤지♥최우성, "가족들이 쉬어갈 수 있는 그늘 될 것"..하늘에 계신 장인께 보내는 편지]]></title>
         <id>https://entertain.v.daum.net/v/20211109020602281</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211109000301805"/>
         <updated>2021-11-08T15:13:27.735Z</updated>
         <content type="html"><![CDATA[김윤지-최우성 부부가 15년에 걸친 두 사람의 러브 스토리를 공개했다. 이현이-홍성기 부부는 조카들과 함께 캠핑을 떠난 가운데, 시누이의 등장으로 폭로전이 시작됐다. 8일 방송된 SBS '동상이몽2-너는 내 운명'에는 새로운 운명부부 김윤지-최우성이 처음 등장했다. 김윤지는 "나이는 올해 서른아홉, 직업은 공연기획 일을 하고 있고, 저와 안 지는 20년]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이규한 심경고백 "폭행 無, 공황장애 심한 상태"]]></title>
-        <id>https://entertain.v.daum.net/v/20211109000300801</id>
-        <link href="https://entertain.v.daum.net/v/20211109000300801"/>
-        <updated>2021-11-08T15:13:27.736Z</updated>
-        <content type="html"><![CDATA[[동아닷컴] 이규한 심경고백 “폭행 無, 공황장애 심한 상태” [전문] 배우 이규한이 폭행 혐의에 대해 해명하며 심경을 고백했다. 이규한은 8일 자신의 인스타그램에 “좋지 않은 소식을 전해드려 그저 마음이 무겁다. 2020년 8월에 있었던 일이 1년 3개월이 지나도록 나를 괴롭히고 있다”며 “내 목숨을 걸고 폭행도 폭언도 그 어떤 것도 하지 않았다”고 호]]></content>
     </entry>
 </feed>
