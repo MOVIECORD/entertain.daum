@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2021-11-08T20:13:34.583Z</updated>
+    <updated>2021-11-08T21:11:18.592Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['8명 압사 美 콘서트' 트래비스 스캇, 100만불 손해배상 소송당해 "분노 부추겼다"]]></title>
+        <id>https://entertain.v.daum.net/v/20211109060006581</id>
+        <link href="https://entertain.v.daum.net/v/20211109060006581"/>
+        <updated>2021-11-08T21:11:17.974Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]지난 5일(현지시간) 열린 미국 휴스턴 아스트로월드 페스티벌에서 8명의 압사 사고가 발생한 가운데 무대에 올랐던 힙합스타 트래비스 스캇(29)이 100만 달러(약 11억원)의 손해배상 소송을 당했다. 미국 연예매체 피플은 7일(현지시간)“콘서트에 참석해 부상을 입은 마누엘 소자가 해리스 카운티 법원에 스캇을 상대로 ‘예측 가]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[트래비스 스캇, 공연장에서 사망사고 "비통한 마음"]]></title>
         <id>https://entertain.v.daum.net/v/20211108212834806</id>
@@ -88,12 +95,5 @@
         <link href="https://entertain.v.daum.net/v/20211108071630917"/>
         <updated>2021-11-07T23:12:33.985Z</updated>
         <content type="html"><![CDATA[[뉴스엔 이민지 기자] 배우 이정재가 연인 임세령과 공식석상에 참석했다. 이정재는 11월 6일 미국 LA 카운티 미술관에서 열린 'LACMA 아트+필름 갈라'에 참석했다. 지난 2011년부터 열린 'LACMA 아트+필름 갈라'는 현대미술 및 영상예술 발전을 도모해온 이들의 족적을 기리는 행사다. 전세계적 신드롬을 일으킨 넷플릭스 시리즈 '오징어게임']]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[안젤리나 졸리 15살 딸 샤일로, 엄마와 별자리 같아 "다양성 즐겨"]]></title>
-        <id>https://entertain.v.daum.net/v/20211108060029020</id>
-        <link href="https://entertain.v.daum.net/v/20211108060029020"/>
-        <updated>2021-11-07T21:11:29.664Z</updated>
-        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]할리우드 스타 안젤리나 졸리(46)의 딸 샤일로(15)가 엄마와 닮은 패션과 별자리로 주목받고 있다. 할리우드 매체 ‘라이프 앤 스타일’은 6일(현지시간) 샤일로는 엄마의 옷을 물려받으면서 엄마의 발자취를 따르고 있다고 전했다. 이어 엄마와 딸은 별자리도 공유하고 있다고 언급했다. 샤일로는 2006년 5월 27일생, 안젤]]></content>
     </entry>
 </feed>
