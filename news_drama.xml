@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2021-11-09T15:13:14.114Z</updated>
+    <updated>2021-11-09T16:18:52.682Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['아이돌' 안희연, 정웅인에 "혼자 남지 않겠다"..코튼 유지 결정]]></title>
+        <id>https://entertain.v.daum.net/v/20211110002307280</id>
+        <link href="https://entertain.v.daum.net/v/20211110002307280"/>
+        <updated>2021-11-09T16:18:38.563Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 여도경 기자] /사진=JTBC '아이돌 더 쿠데타' 방송화면 캡처'아이돌 더 쿠데타'의 안희연이 정웅인에게 그룹 코튼을 이어가겠다고 말했다. 9일 오후 방송된 JTBC 월화드라마 '아이돌 더 쿠데타'에서 마진우(정웅인 분)가 제나(안희연 분)에게 코튼을 해체하고 혼자 남으라고 제안했다. 이날 진두호(강재준 분)는 코튼 멤버들에게 행사가 잡혔다고]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['어사와 조이' 김혜윤, 옥택연 도움으로 노름꾼 남편과 이혼 성공]]></title>
         <id>https://entertain.v.daum.net/v/20211109234500912</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211109182613529"/>
         <updated>2021-11-09T10:14:48.351Z</updated>
         <content type="html"><![CDATA[윤송아(사진=SNS)[이데일리 스타in 김가영 기자] 배우 겸 화가 윤송아가 기록을 세웠다. ‘NFT BUSAN2021’ 역대 최고가와 기존 국내 연예인 아티스트의 최고 기록을 갈아치우며 화제를 모으고 있다. 윤송아는 9일 이데일리에 “억대를 갱신하고 나니 축하 전화가 많이 오고 있다”면서 “기분이 좋다”고 소감을 전했다. 이어 1억원 낙찰을 예상하지 못]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['태종 이방원' 12월 첫 방송 확정.. 김영철→주상욱, 대본리딩 현장 공개]]></title>
-        <id>https://entertain.v.daum.net/v/20211109175330673</id>
-        <link href="https://entertain.v.daum.net/v/20211109175330673"/>
-        <updated>2021-11-09T09:12:31.438Z</updated>
-        <content type="html"><![CDATA[[TV리포트=이혜미 기자] 오는 12월 첫 방송될 KBS 1TV 새 대하드라마 ‘태종 이방원’이 생생했던 첫 대본리딩 현장을 공개, 명품 사극의 탄생을 예고해 기대를 모으고 있다. KBS 1TV 새 대하드라마 ‘태종 이방원’은 고려라는 구질서를 무너뜨리고 조선이라는 새로운 질서를 만들어가던 ‘여말선초(麗末鮮初)’ 시기, 누구보다 조선의 건국에 앞장섰던 리더]]></content>
     </entry>
 </feed>
