@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2021-11-08T23:13:19.210Z</updated>
+    <updated>2021-11-09T00:39:49.543Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['킴 카다시안과 이혼' 카니예 웨스트, 새 여친은 22세 연하 모델]]></title>
+        <id>https://entertain.v.daum.net/v/20211109085148152</id>
+        <link href="https://entertain.v.daum.net/v/20211109085148152"/>
+        <updated>2021-11-09T00:39:48.840Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 이민지 기자] 뮤지션 카니예 웨스트와 22세 연하 모델 비네트리아의 데이트가 포착됐다. 페이지식스는 11월 7일(현지시간) 카니예 웨스트와 비네트리아가 농구 경기를 관람하며 데이트를 즐겼다고 보도했다. 이날 비네트리아는 카니예 웨스트가 선호하는 브랜드의 의상을 착용하고 있어 눈길을 끌었다. 카니예 웨스트는 여자친구들의 패션에 영향을 주곤 한다]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['8명 압사 美 콘서트' 트래비스 스캇, 100만불 손해배상 소송당해 "분노 부추겼다"]]></title>
         <id>https://entertain.v.daum.net/v/20211109060006581</id>
@@ -67,12 +74,5 @@
         <link href="https://entertain.v.daum.net/v/20211108100204339"/>
         <updated>2021-11-08T01:55:02.820Z</updated>
         <content type="html"><![CDATA[미국 인기 가수 릴 나스 엑스가 배우 정호연에 팬심을 드러냈다. 8일 릴 나스 엑스는 자신의 트위터에 제 10회 LACMA Art+Film Gala에 참석한 사진을 올렸다. 파티장에서 정호연을 만난 그는 수줍은 미소로 나란히 포즈를 취해 눈길을 끌었다. 정호연은 넷플릭스 인기 드라마 '오징어게임'을 통해 세계적 관심을 받고 있다. 이날 행사에는 '오]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[카일리 제너, '8명 압사 美 콘서트' SNS 생중계..비난 여론 봇물]]></title>
-        <id>https://entertain.v.daum.net/v/20211108085300682</id>
-        <link href="https://entertain.v.daum.net/v/20211108085300682"/>
-        <updated>2021-11-08T00:39:52.673Z</updated>
-        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]포브스 추산으로 재산이 1조원에 달하는 세계적 셀럽 카일리 제너(24)가 남자친구 트래비스 스캇이 출연해 무려 8명의 압사사고가 발생한 콘서트를 동영상으로 찍어 인스타그램에 생중계했다가 비난을 받고 있다. 카일리 제너는 6일(현지시간) 밤 인스타그램에 연인이자 인기 래퍼 트래비스 스캇(29)의 퍼포먼스를 담은 영상을 게재했다]]></content>
     </entry>
 </feed>
