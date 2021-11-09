@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2021-11-09T06:15:01.088Z</updated>
+    <updated>2021-11-09T07:12:59.401Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["디카프리오 이리와 봐"..억만장자와 치정 싸움?]]></title>
+        <id>https://entertain.v.daum.net/v/20211109154140449</id>
+        <link href="https://entertain.v.daum.net/v/20211109154140449"/>
+        <updated>2021-11-09T07:12:58.771Z</updated>
+        <content type="html"><![CDATA[[OSEN=박소영 기자] 세계적인 기업 아마존의 의장인 제프 베이조스가 레오나르도 디카프리오를 협박(?)했다.&nbsp; 제프 베이조스는 최근 레오나르도 디카프리오가 자신의 여자친구 로렌 산체스와 행사장에서 만나 친분을 나누는 영상이 화제를 모으자 “레오 이리 와 봐. 보여줄 게 있어”라는 트윗을 남겼다.&nbsp; 이와 함께 그는 “위험! 가파른 절벽. 치명적인 낙마주의”]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[제프 베조스, 여친 홀린 디카프리오에 경고 "너 이리 와봐"]]></title>
+        <id>https://entertain.v.daum.net/v/20211109153535155</id>
+        <link href="https://entertain.v.daum.net/v/20211109153535155"/>
+        <updated>2021-11-09T07:12:58.774Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 황수연 기자) 글로벌 기업 아마존의 창업자이자 의장 제프 베조스가 연인의 시선을 빼앗은 배우 레오나르도 디카프리오에게 경고했다. 제프 베조스는 8일(현지시간) 자신의 트위터에 "레오, 이리 와봐. 네게 보여주고 싶은 것이 있어(Leo, come over here, I want to show you something… )"라며 한 장의 사진을]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[80세 日 아나운서 "AKB48 임신시킬 수 있어" 성희롱적 발언에 뭇매]]></title>
         <id>https://entertain.v.daum.net/v/20211109144450792</id>
@@ -81,19 +95,5 @@
         <link href="https://entertain.v.daum.net/v/20211108173546483"/>
         <updated>2021-11-08T09:12:49.790Z</updated>
         <content type="html"><![CDATA[(엑스포츠뉴스 김노을 기자) 미국 래퍼 칸예 웨스트가 할리우드 스타 킴 카다시안과 이혼 절차를 밟고 있는 가운데 열애설이 불거졌다. 지난 7일(현지시간) 미국 연예매체 페이지식스는 "칸예 웨스트와 모델 비네트리아가 열애 중"이라고 보도했다. 보도에 따르면 칸예 웨스트는 미국 미니애폴리스에서 열린 농구 경기에 비네트리아와 함께 참석해 데이트를 즐겼다. 또한]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[빈 디젤, 드웨인 존슨에 화해 메시지 "'분노의 질주10' 하자"]]></title>
-        <id>https://entertain.v.daum.net/v/20211108155334133</id>
-        <link href="https://entertain.v.daum.net/v/20211108155334133"/>
-        <updated>2021-11-08T07:13:11.494Z</updated>
-        <content type="html"><![CDATA['분노의 질주'의 두 스타 빈 디젤과 드웬인 존슨의 재회에 많은 관심이 쏠린다. 7일(현지시각) 빈 디젤은 자신의 SNS 계정을 통해 드웨인 존슨과 함께 찍은 '분노의 질주' 사진 한 장을 올리며 화해의 메시지를 건넸다. 해당 글에서 빈 디젤은 드웨인 존슨에게 '분노의 질주10'을 함께 촬영하자고 권유하면서, 세상을 떠난 폴 워커와의 약속을 지키자고]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[조지 클루니 "쌍둥이 자녀 얼굴 보도 말아달라..테러 표적 돼" 당부]]></title>
-        <id>https://entertain.v.daum.net/v/20211108154552772</id>
-        <link href="https://entertain.v.daum.net/v/20211108154552772"/>
-        <updated>2021-11-08T07:13:11.494Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 배효주 기자] 할리우드 배우 조지 클루니가 쌍둥이 자녀의 얼굴을 공개하지 말아달라는 편지를 현지 매체에 보냈다. 11월 6일(현지시간) BBC 보도에 따르면 할리우드 배우 조지 클루니는 아이들을 위험에 빠뜨릴 수는 없다며, 쌍둥이 자녀의 얼굴을 공개하지 말아달라는 내용의 편지를 해외 매체들에 보냈다. 조지 클루니와 그의 아내 아말 클루니는 지난]]></content>
     </entry>
 </feed>
