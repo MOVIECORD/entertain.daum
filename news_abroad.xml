@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2021-11-09T00:39:49.543Z</updated>
+    <updated>2021-11-09T01:55:26.300Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['8명 압사 콘서트' 트래비스 스캇, "공연을 레슬링처럼 만들고 싶어" 과거발언]]></title>
+        <id>https://entertain.v.daum.net/v/20211109095608526</id>
+        <link href="https://entertain.v.daum.net/v/20211109095608526"/>
+        <updated>2021-11-09T01:55:25.633Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]지난 5일(현지시간) 열린 미국 휴스턴 아스트로월드 페스티벌에서 8명의 압사 사고가 발생한 가운데 무대에 올랐던 힙합스타 트래비스 스캇(29)의 과거 발언이 재조명받고 있다. 연예매체 피플은 8일(현지시간) “트래비스 스캇은 오랫동안 높은 에너지를 가진 콘서트로 유명했는데, 종종 관중 속의 팬들에게 그가 말하는 바와 같이,]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['킴 카다시안과 이혼' 카니예 웨스트, 새 여친은 22세 연하 모델]]></title>
         <id>https://entertain.v.daum.net/v/20211109085148152</id>
@@ -67,12 +74,5 @@
         <link href="https://entertain.v.daum.net/v/20211108154552772"/>
         <updated>2021-11-08T07:13:11.494Z</updated>
         <content type="html"><![CDATA[[뉴스엔 배효주 기자] 할리우드 배우 조지 클루니가 쌍둥이 자녀의 얼굴을 공개하지 말아달라는 편지를 현지 매체에 보냈다. 11월 6일(현지시간) BBC 보도에 따르면 할리우드 배우 조지 클루니는 아이들을 위험에 빠뜨릴 수는 없다며, 쌍둥이 자녀의 얼굴을 공개하지 말아달라는 내용의 편지를 해외 매체들에 보냈다. 조지 클루니와 그의 아내 아말 클루니는 지난]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['오징어게임' 정호연 옆에서 수줍은 릴 나스 엑스]]></title>
-        <id>https://entertain.v.daum.net/v/20211108100204339</id>
-        <link href="https://entertain.v.daum.net/v/20211108100204339"/>
-        <updated>2021-11-08T01:55:02.820Z</updated>
-        <content type="html"><![CDATA[미국 인기 가수 릴 나스 엑스가 배우 정호연에 팬심을 드러냈다. 8일 릴 나스 엑스는 자신의 트위터에 제 10회 LACMA Art+Film Gala에 참석한 사진을 올렸다. 파티장에서 정호연을 만난 그는 수줍은 미소로 나란히 포즈를 취해 눈길을 끌었다. 정호연은 넷플릭스 인기 드라마 '오징어게임'을 통해 세계적 관심을 받고 있다. 이날 행사에는 '오]]></content>
     </entry>
 </feed>
