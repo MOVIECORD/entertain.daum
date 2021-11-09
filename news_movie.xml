@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2021-11-09T04:15:56.377Z</updated>
+    <updated>2021-11-09T05:11:16.796Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[오나라 "♥김도훈과 20년 열애, 불편함 싫어..비밀 연애 못해요"]]></title>
+        <id>https://entertain.v.daum.net/v/20211109135001638</id>
+        <link href="https://entertain.v.daum.net/v/20211109135001638"/>
+        <updated>2021-11-09T05:10:58.320Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 김유진 기자) 배우 오나라가 20년간 열애를 이어오고 있는 연인 김도훈과의 이야기를 호탕하게 털어놓았다. 오나라는 9일 오전 온라인으로 진행된 영화 '장르만 로맨스'(감독 조은지) 인터뷰에서 영화와 함께 다양한 이야기를 전했다. '장르만 로맨스'는 평범하지 않은 로맨스로 얽힌 이들과 만나 일도 인생도 꼬여가는 베스트셀러 작가의 버라이어티한]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['장르만 로맨스' 오나라 "걱정됐던 '식센', 유재석 조언에 용기 얻어"]]></title>
         <id>https://entertain.v.daum.net/v/20211109130206488</id>
@@ -52,7 +59,7 @@
         <id>https://entertain.v.daum.net/v/20211109112109337</id>
         <link href="https://entertain.v.daum.net/v/20211109112109337"/>
         <updated>2021-11-09T02:26:27.426Z</updated>
-        <content type="html"><![CDATA[영화 ‘이터널스’(감독 클로이 자오)의 활약이 수벗다. 개봉 6일째 박스오피스 1위를 지키며 170만 관객도 훌쩍 넘었다. 9일 오전 영화진흥위원회 영화관입장권 통합전산망 집계 결과에 따르면 전날 ‘이터널스’는 10만 3719명의 관객을 동원해 박스오피스 1위를 차지했다. 누적 관객 수는 171만8501명. 지난 3일 개봉한 ‘이터널스’는 개봉 첫날 29]]></content>
+        <content type="html"><![CDATA[영화 ‘이터널스’(감독 클로이 자오)의 활약이 매섭다. 개봉 6일째 박스오피스 1위를 지키며 170만 관객도 훌쩍 넘었다. 9일 오전 영화진흥위원회 영화관입장권 통합전산망 집계 결과에 따르면 전날 ‘이터널스’는 10만 3719명의 관객을 동원해 박스오피스 1위를 차지했다. 누적 관객 수는 171만8501명. 지난 3일 개봉한 ‘이터널스’는 개봉 첫날 29만]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA['장르만 로맨스' 오나라 "저는 사는게 왜 이렇게 재밌죠?"]]></title>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211109110313485"/>
         <updated>2021-11-09T02:26:27.437Z</updated>
         <content type="html"><![CDATA[[스포츠경향] 배우 오나라가 영화 ‘장르만 로맨스’(감독 조은지)서 호흡을 맞춘 류승룡과 김희원의 매력을 정의했다.오나라는 9일 진행된 ‘스포츠경향’과 인터뷰에서 류승룡과 김희원의 매력을 묻자 “류승룡은 의지하고 싶은 남자”라면서도 “김희원은 내가 챙겨주고 싶은 남자”라고 밝혔다.그는 “류승룡이 아빠같고 큰 오빠 같다. 다 품어줄 것 같다”며 “뭔가 얘길]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오나라 "김희원과 로맨스 호흡 척척 맞아..눈물연기 잘해 의외"]]></title>
-        <id>https://entertain.v.daum.net/v/20211109110014270</id>
-        <link href="https://entertain.v.daum.net/v/20211109110014270"/>
-        <updated>2021-11-09T02:26:27.438Z</updated>
-        <content type="html"><![CDATA[[OSEN=김보라 기자]&nbsp;(인터뷰①에 이어) 배우 오나라(48)가 배우 김희원(51)과의 로맨스 호흡에 대해 “김희원 선배와 연기 호흡이 척척 잘맞았다”라고 말했다. 오나라는 9일 오전 진행된 온라인 인터뷰에서 “희원선배가 순모 캐릭터답게 연기를 잘해주셨다”라며 이같이 밝혔다. 오나라와 김희원이 주연을 맡은 영화 ‘장르만 로맨스’(감독 조은지, 제공배급 N]]></content>
     </entry>
 </feed>
