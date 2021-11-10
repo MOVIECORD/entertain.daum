@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2021-11-10T16:18:23.593Z</updated>
+    <updated>2021-11-10T17:13:08.195Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['골목식당' 철원 골목 솔루션 성료..콩나물국밥집, "10월의 크리스마스 겪고 있는 느낌"]]></title>
+        <id>https://entertain.v.daum.net/v/20211111012404594</id>
+        <link href="https://entertain.v.daum.net/v/20211111012404594"/>
+        <updated>2021-11-10T17:12:53.298Z</updated>
+        <content type="html"><![CDATA[[SBS연예뉴스 | 김효정 에디터] 철원 골목상권의 솔루션이 성공적으로 마무리됐다. 10일 방송된 SBS '골목식당'에서는 철원 골목상권에 대한 솔루션이 종료됐다. 이날 방송에서 전골칼국숫집 사장님은 솔루션을 마친 후 "제2의 인생이 시작된 거 같은 기분이다"라고 소감을 밝혔다. 또한 지금까지 본인만의 방식을 고집했던 것을 버리고 제대로 배우고 제대로 연구]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['멜랑꼴리아' 임수정X이도현, 기차 첫 만남→학교에서 재회]]></title>
         <id>https://entertain.v.daum.net/v/20211111005402457</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211110234503885"/>
         <updated>2021-11-10T15:13:17.858Z</updated>
         <content type="html"><![CDATA[[스포츠투데이 백지연 기자] '갓파더' 김갑수가 장민호에게 손편지를 썼다. 10일 밤 방송된 KBS2 예능프로그램 '갓파더'에서는 생일을 맞이한 장민호가 김갑수, 동료 이찬원과 함께 하루를 보내는 모습이 공개됐다. 이날 방송에서 김갑수는 생일을 맞이한 장민호에게 "너를 위해서 손 편지를 썼다"고 전했다. 이어 김갑수는 손수 쓴 편지를 낭독했다. 그는 "]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['라디오스타' 윤혜진 "방송 이유? 관종끼가 있다"]]></title>
-        <id>https://entertain.v.daum.net/v/20211110234434882</id>
-        <link href="https://entertain.v.daum.net/v/20211110234434882"/>
-        <updated>2021-11-10T15:13:17.859Z</updated>
-        <content type="html"><![CDATA[윤혜진이 방송을 시작하게 된 이유를 공개했다. 10일 오후 방송된 MBC ‘라디오스타’에 김윤아, 윤혜진, 배윤정, 모니카가 게스트로 출연했다. 이날 MC들은 발레가 아닌 방송 활동을 하는 것에 대해 물었고, 그는 “무대에 서는 직업을 했다 보니, 아무래도 기본적으로 관종끼가 있던 것 같다”고 말했다. 이어 “발레를 잘한다 해도 관객이 없으면 힘이 안]]></content>
     </entry>
 </feed>
