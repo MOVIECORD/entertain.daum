@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/variety</id>
     <title>다음 연예 ─ 뉴스 ─ 예능</title>
-    <updated>2021-11-10T09:14:28.765Z</updated>
+    <updated>2021-11-10T10:13:42.984Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['쇼챔' 전소미, 사랑스러운 악동 변신..글로벌 팬심 올킬]]></title>
+        <id>https://entertain.v.daum.net/v/20211110184848735</id>
+        <link href="https://entertain.v.daum.net/v/20211110184848735"/>
+        <updated>2021-11-10T10:13:33.232Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 이경호 기자] 가수 전소미가 MBC M, MBC every1 '쇼챔피언'에 출연했다./사진=MBC M, MBC every1 '쇼챔피언' 방송 화면 캡처가수 전소미가 사랑스러운 악동으로 변신해 글로벌 팬심을 올킬했다. 전소미는 10일 오후 방송된 MBC M, MBC every1 '쇼챔피언'에 출연해 첫 번째 정규 앨범 'XOXO'의 동명 타이틀곡]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[유민상, '개승자' 출격..유재석 "큰 웃음 주시길"]]></title>
         <id>https://entertain.v.daum.net/v/20211110181021574</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211110163936874"/>
         <updated>2021-11-10T08:15:08.891Z</updated>
         <content type="html"><![CDATA[[마이데일리 = 양유진 기자] '라디오스타' 안영미가 댄서 '드립제이'로 변신해 '스트릿 우먼 파이터' 모니카와 어디서도 볼 수 없는 '라스우파' 댄스 배틀을 펼친다. 드립제이 안영미의 댄스 폭주가 이어진 가운데, 프로 배틀러 모니카가 안영미의 선공에 충격과 공포의 휩싸인 모습이 선공개돼 시선을 강탈했다. 10일 밤 10시 30분 방송 예정인 MBC ']]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[안정환 "섭외 1순위 배용준? 시청률 10% 돌파시 골프장 사주고 평생 캐디할 것"]]></title>
-        <id>https://entertain.v.daum.net/v/20211110163820825</id>
-        <link href="https://entertain.v.daum.net/v/20211110163820825"/>
-        <updated>2021-11-10T08:15:08.892Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 박은해 기자] '내 이름은 캐디' 출연진들이 첫 방송 전부터 남다른 케미를 보여줬다. 11월 10일 오후 진행된 IHQ 새 예능 프로그램 '내 이름은 캐디' 온라인 제작발표회에서 이승철, 김성주, 안정환은 프로그램 론칭 계기와 시청률 공약을 밝혔다. 이날 김성주는 "이 프로그램 모티프는 두 사람에게서 왔다. 담당 PD와 식사하며 이야기 나누는데]]></content>
     </entry>
 </feed>
