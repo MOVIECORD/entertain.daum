@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2021-11-11T21:11:15.064Z</updated>
+    <updated>2021-11-11T22:12:35.434Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['이터널스' 9일째 1위..오늘 200만 관객 돌파한다]]></title>
+        <id>https://entertain.v.daum.net/v/20211112063207387</id>
+        <link href="https://entertain.v.daum.net/v/20211112063207387"/>
+        <updated>2021-11-11T22:12:16.931Z</updated>
+        <content type="html"><![CDATA[[OSEN=김보라 기자]&nbsp;영화 ‘이터널스’가 9일 연속 박스오피스 1위를 차지한 가운데 200만 돌파를 눈앞에 뒀다. 12일 영화진흥위원회 영화관입장권 통합전산망 집계를 보면 어제(11일) ‘이터널스’(감독 클로이 자오, 수입배급 월트디즈니컴퍼니 코리아)는 7만 2080명이 관람해 일별 박스오피스 1위를 지켰다. 이달 3일 개봉한 ‘이터널스’는 어제까지 9]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['Dr 브레인' 선보인 김지운 감독 "영화·드라마 같이 하고 싶다"]]></title>
         <id>https://entertain.v.daum.net/v/20211112040823352</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211111181338527"/>
         <updated>2021-11-11T10:13:19.532Z</updated>
         <content type="html"><![CDATA[윤성현 감독의 넷플릭스 영화 '사냥의 시간'이 영어 버전으로 리메이크 된다. '아이 씨 유' 애덤 랜달 감독이 메가폰을 잡을 예정이다. 10일 미국 매체 데드라인 등에 따르면 넷플릭스가 영화 '사냥의 시간'을 리메이크 한다.  OTT 플랫폼이 외국어로 제작된 자체 영화를 리메이크 하는 것은 '사냥의 시간'이 최초 사례다. 이와 관련, '사냥의 시간' 리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["강도 잡은 정의로운 청년" 장동윤, '태일이'로 선한 영향력 ing]]></title>
-        <id>https://entertain.v.daum.net/v/20211111180652367</id>
-        <link href="https://entertain.v.daum.net/v/20211111180652367"/>
-        <updated>2021-11-11T09:12:26.206Z</updated>
-        <content type="html"><![CDATA[[마이데일리 = 김나라 기자] 배우 장동윤이 '태일이'로 전태일 열사의 숭고한 정신을 되새기며 선한 영향력을 전파했다. '태일이'는 아름다운 청년으로서 인간적인 면까지 조명, 그 뜨거운 외침에 힘을 실으며 꼭 봐야 할 '필람 무비'로 떠올랐다. 11일 서울 용산구 CGV용산아이파크몰에선 애니메이션 영화 '태일이'의 언론배급 시사회 및 기자간담회가 진행됐다]]></content>
     </entry>
 </feed>
