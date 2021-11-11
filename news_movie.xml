@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2021-11-11T14:12:05.565Z</updated>
+    <updated>2021-11-11T15:13:14.444Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[11월 극장가, 관객은 즐겁다..활력 높일 기대작 봇물]]></title>
+        <id>https://entertain.v.daum.net/v/20211112000044066</id>
+        <link href="https://entertain.v.daum.net/v/20211112000044066"/>
+        <updated>2021-11-11T15:12:52.441Z</updated>
+        <content type="html"><![CDATA[각기 다른 매력 장전한 영화 세 편, 24일 동시 개봉&nbsp; [더팩트｜원세나 기자] '위드 코로나' 시행 후 활기를 되찾고 있는 극장가가 더욱더 다채롭고 풍성한 라인업으로 관객들을 유혹한다. 각기 다른 장르와 신선한 소재를 다룬 영화 세 편이 공교롭게도 11월 같은 날 개봉을 확정하며 선의의 경쟁을 펼친다. 선택의 폭이 넓어진 관객들은 각자의 취향에 맞게 작]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[하마구치 류스케 감독 '해피 아워', 12월 9일 국내 개봉]]></title>
+        <id>https://entertain.v.daum.net/v/20211111231412837</id>
+        <link href="https://entertain.v.daum.net/v/20211111231412837"/>
+        <updated>2021-11-11T15:12:52.441Z</updated>
+        <content type="html"><![CDATA[[OSEN=김보라 기자] 일본의 젊은 거장 하마구치 류스케 감독의 시작을 알린 보석 같은 작품 '해피 아워'가 메인 포스터를 공개했다. 11일 공개된 영화 '해피 아워'(수입 영화사조아, 공동수입배급 트리플픽쳐스)의 메인 포스터는 영화의 주인공 아키라, 사쿠라코, 후미, 준이 함께 피크닉을 가는 모습을 담고 있다. 어두운 터널을 빠져나와 밝은 햇빛을 받고]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['장르만 로맨스' 판소리텔링 영상 전격 공개..예측불허 스토리]]></title>
         <id>https://entertain.v.daum.net/v/20211111223559582</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211111180506322"/>
         <updated>2021-11-11T09:12:26.207Z</updated>
         <content type="html"><![CDATA[배우 안성기가 김대건 신부를 다룬 영화에 출연하게 된 계기를 밝혔다. 영화 '탄생(박흥식 감독)' 제작발표회가 11일 오후 서울 종로구 세종문화회관에서 열린 가운데, 극중 역관 유진기 역을 맡은 안성기는 "(천주교) 신자이기 때문에 의무감을 갖고 참여했다. 시나리오를 처음 봤을 때도 느낌이 너무 좋아서 꼭 해야겠다고 느꼈다"고 말했다. 안성기는 "내가]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오세훈 시장 "김대건 신부의 거룩한 희생정신 '탄생'으로 알려져야"]]></title>
-        <id>https://entertain.v.daum.net/v/20211111180333285</id>
-        <link href="https://entertain.v.daum.net/v/20211111180333285"/>
-        <updated>2021-11-11T09:12:26.207Z</updated>
-        <content type="html"><![CDATA[오세훈 서울시장이 영화 '탄생' 제작에 축하의 말을 전했다. 영화 '탄생(박흥식 감독)' 제작발표회가 11일 오후 서울 종로구 세종문화회관에서 열린 가운데, 축사로 행사에 참여한 오세훈 서울시장은 "평소 존경하는 염수정 추기경 다음으로 말씀할 수 있는 기회를 주셔서 감사드린다. 김대건 신부의 일대기를 그리는 영화가 만들어진다는 소식을 듣고 설레는 마음으]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['탄생' 윤시윤 "용기 필요했던 작품..책임감 크다"]]></title>
-        <id>https://entertain.v.daum.net/v/20211111180307274</id>
-        <link href="https://entertain.v.daum.net/v/20211111180307274"/>
-        <updated>2021-11-11T09:12:26.208Z</updated>
-        <content type="html"><![CDATA[배우 윤시윤이 김대건 신부를 연기하게 된 소감을 밝혔다. 영화 '탄생(박흥식 감독)' 제작발표회가 11일 오후 서울 종로구 세종문화회관에서 열린 가운데, 극중 김대건 신부 역할을 맡은 윤시윤은 "'탄생'에 임하는 각오를 한 단어로 표현한다면 '영광'이라는 단어가 가장 먼저 떠오른다"고 말했다. 윤시윤은 "그만큼 다른 어떤 작품보다도 출연을 결심하기까지]]></content>
     </entry>
 </feed>
