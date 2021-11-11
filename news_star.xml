@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2021-11-11T17:19:08.660Z</updated>
+    <updated>2021-11-11T18:14:25.409Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['꼬꼬무' 강신성 前대사, "통일되면 꼭 다시 만나고파"..영화보다 더 영화같은 모가디슈 탈출기]]></title>
+        <id>https://entertain.v.daum.net/v/20211112022400841</id>
+        <link href="https://entertain.v.daum.net/v/20211112022400841"/>
+        <updated>2021-11-11T18:14:20.101Z</updated>
+        <content type="html"><![CDATA[[SBS연예뉴스 | 김효정 에디터] 영화보다 더 극적인 모가디슈 탈출기가 공개됐다. 11일 방송된 SBS '꼬리에 꼬리를 무는 그날 이야기'(이하 '꼬꼬무')에서는 '지옥에서 탈출하라 1991 모가디슈'라는 부제로 영화 '모가디슈'의 모티브가 된 그날의 이야기가 공개됐다. 지난 1991년 소말리아의 수도 모가디슈는 일순간 아비규환이 됐다. 군부 독재자 '시]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김종국, 캐릭터 포스터]]></title>
         <id>https://entertain.v.daum.net/v/20211112010005525</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211111235750021"/>
         <updated>2021-11-11T15:13:08.535Z</updated>
         <content type="html"><![CDATA[[스포츠조선닷컴 김수현기자] 배우 엄지원이 도움을 준 가운데 공효진 이천희 전혜진이 환경을 위한 CF부터 뉴스 출연까지 다방면에서 활약했다. 11일 방송된 KBS2 환경 예능 '오늘부터 무해하게'에서는 공효진, 이천희, 전혜진의 죽도 생활이 그려졌다. KBS 4시 뉴스 '사사건건'에 공효진 이천희 전혜진이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['워맨스' 이가령, 8년 공백기에 눈물 "1년에 한 신 찍었다"]]></title>
-        <id>https://entertain.v.daum.net/v/20211111235516009</id>
-        <link href="https://entertain.v.daum.net/v/20211111235516009"/>
-        <updated>2021-11-11T15:13:08.537Z</updated>
-        <content type="html"><![CDATA[[티브이데일리 황서연 기자] '워맨스'에서 배우 이가령이 8년이라는 긴 공백기를 겪으며 느꼈던 감정을 눈물로 드러냈다. 11일 방송한 SBS 예능프로그램 '워맨스가 필요해'에서는 이가령의 일상이 공개됐다. 최근 TV조선 드라마 '결혼작사 이혼작곡'에 부혜령 역으로 출연하며 안방극장에 다시 눈도장을 찍은 이가령. 이가령은 과거 모델로 데뷔해 드라마 배우로 활]]></content>
     </entry>
 </feed>
