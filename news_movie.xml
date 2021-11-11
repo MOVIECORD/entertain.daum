@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2021-11-11T13:19:29.514Z</updated>
+    <updated>2021-11-11T14:12:05.565Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['장르만 로맨스' 판소리텔링 영상 전격 공개..예측불허 스토리]]></title>
+        <id>https://entertain.v.daum.net/v/20211111223559582</id>
+        <link href="https://entertain.v.daum.net/v/20211111223559582"/>
+        <updated>2021-11-11T14:11:47.322Z</updated>
+        <content type="html"><![CDATA[[OSEN=김보라 기자]&nbsp;위드 코로나 시대 속 11월 극장가에 활기를 불어넣을 영화 '장르만 로맨스'가 유머가 가득한 판소리 콘셉트의 영상을 공개했다. 평범하지 않은 로맨스로 얽힌 이들과 만나 일도 인생도 꼬여가는 베스트셀러 작가의 버라이어티한 사생활을 그린 영화 '장르만 로맨스'(감독 조은지, 제공배급 NEW, 공동제공 Library Pictures In]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["107개국 선판매"..'유체이탈자' 윤계상 선보일 3격 액션]]></title>
         <id>https://entertain.v.daum.net/v/20211111221205195</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211111180307274"/>
         <updated>2021-11-11T09:12:26.208Z</updated>
         <content type="html"><![CDATA[배우 윤시윤이 김대건 신부를 연기하게 된 소감을 밝혔다. 영화 '탄생(박흥식 감독)' 제작발표회가 11일 오후 서울 종로구 세종문화회관에서 열린 가운데, 극중 김대건 신부 역할을 맡은 윤시윤은 "'탄생'에 임하는 각오를 한 단어로 표현한다면 '영광'이라는 단어가 가장 먼저 떠오른다"고 말했다. 윤시윤은 "그만큼 다른 어떤 작품보다도 출연을 결심하기까지]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['탄생' 윤시윤 "최초의 신부 김대건 연기..배우로서 최고의 영광"]]></title>
-        <id>https://entertain.v.daum.net/v/20211111180206241</id>
-        <link href="https://entertain.v.daum.net/v/20211111180206241"/>
-        <updated>2021-11-11T09:12:26.209Z</updated>
-        <content type="html"><![CDATA[배우 윤시윤이 김대건 신부를 주인공으로 하는 영화 출연 소감을 전했다. 영화 '탄생(박흥식 감독)' 제작발표회가 11일 오후 서울 종로구 세종문화회관에서 열린 가운데, 극중 김대건 신부 역할을 맡은 윤시윤은 "어떤 행사보다도 떨리는 자리다. 200년 전에 해외의 선교사와 조선인들을 연결해 주고, 조선인으로는 처음으로 신부가 되고 끝내 순교한 김대건이란]]></content>
     </entry>
 </feed>
