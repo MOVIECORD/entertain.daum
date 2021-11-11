@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2021-11-11T20:13:29.201Z</updated>
+    <updated>2021-11-11T21:11:15.015Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[에드 시런 'Shape of You' 리한나를 위한 곡? "그녀는 나의 뮤즈"]]></title>
+        <id>https://entertain.v.daum.net/v/20211112060010969</id>
+        <link href="https://entertain.v.daum.net/v/20211112060010969"/>
+        <updated>2021-11-11T21:11:14.327Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]한국에서도 인기가 높은 세계적 팝스타 에드 시런이 리한나에 대한 애정을 고백했다. 그는 최근 팟캐스트 ‘The Breakfast Club’에 출연해 “리한나는 항상 기준이 된다”면서 “그것이 바로 'Shape Of You'가 탄생한 방법이고, 저스틴 비버에 의해 'Love Yourself'가 탄생한 방법이다"라고 말했다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["미국에서요"..이정재, "유명해졌다?" 묻는 美 리포터에 소신 답변]]></title>
         <id>https://entertain.v.daum.net/v/20211111194947255</id>
