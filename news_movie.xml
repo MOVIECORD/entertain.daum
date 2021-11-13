@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2021-11-13T02:27:02.806Z</updated>
+    <updated>2021-11-13T03:13:30.321Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[전세계 뒤흔든 '오징어 게임', 시즌2는 언제? 어떻게?]]></title>
+        <id>https://entertain.v.daum.net/v/20211113113004236</id>
+        <link href="https://entertain.v.daum.net/v/20211113113004236"/>
+        <updated>2021-11-13T03:13:08.283Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 김미화 기자] /사진=/AFPBBNews=뉴스1전세계를 사로잡은 '오징어 게임'의 시즌2 계획이 공개 된 가운데 뜨거운 반응이 쏟아졌다. 지난 8일 미국 로스앤젤레스에서 넷플릭스 '오징어 게임' 행사가 열렸다. 이날 행사에는 '오징어 게임' 황동혁 감독과 배우 이정재, 박해수, 정호연이 함께 했다. '오징어 게임'의 상징이 된 '무궁화 꽃이 피었]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[K-'강릉', 마블 '이터널스' 독주에 출사표]]></title>
+        <id>https://entertain.v.daum.net/v/20211113112806213</id>
+        <link href="https://entertain.v.daum.net/v/20211113112806213"/>
+        <updated>2021-11-13T03:13:08.287Z</updated>
+        <content type="html"><![CDATA[[티브이데일리 이기은 기자] 마블 영화 '이터널스', 국내 장르물 ‘강릉’의 주말 접전이 예상된다. 13일 영화진흥위원회 영화관입장권 통합전산망 집계에 따르면 전날 '이터널스'(감독 클로이 자오)는 9만6224명의 관객을 동원하며 박스오피스 1위를 지켰다. 누적 관객 수는 206만828명으로, 개봉 이래 2주 넘게 톱 자리를 수성하고 있다. 이번 주말 누적]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[아이폰으로 찍은 대만 흥행 1위 로맨스 영화]]></title>
         <id>https://entertain.v.daum.net/v/20211113110902959</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211113071651782"/>
         <updated>2021-11-12T23:12:27.727Z</updated>
         <content type="html"><![CDATA[[스타뉴스 김미화 기자] /사진='이터널스' 포스터영화 '이터널스'가 200만 관객을 돌파했다. 13일 영진위 영화관입장권 통합전산망에 따르면 '이터널스'는 지난 12일 9만 6128명의 관객을 모았다. 누적관객수는 206만 732명. '이터널스'는 개봉 열흘 만에 200만 관객을 넘어섰다. 2위는 유오성 장혁 주연의 '강릉'으로 2만 7331명이 봤다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['장르만 로맨스' 오나라 "감독 조은지·주연 류승룡? 안 하면 바보"]]></title>
-        <id>https://entertain.v.daum.net/v/20211113070313643</id>
-        <link href="https://entertain.v.daum.net/v/20211113070313643"/>
-        <updated>2021-11-12T22:12:11.910Z</updated>
-        <content type="html"><![CDATA[그야말로 통통 튄다. 솔직하고도 거침이 없다. 연기는 물론 연애에 입담마저 시원시원한 ‘직진’ 매력의 소유자, 대세 배우 오나라(48)를 만났다. 오나라는 최근 영화 ‘장르만 로맨스’(감독 조윤지) 홍보차 진행된 인터뷰에서 출연 이유를 묻는 질문에 “이건 안 하면 바보”라는 유쾌한 답변으로 웃음을 안겼다. 그는 이어 “조은지 감독님, 천만배우 류승룡이라]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오나라 "'21년 연인' 김도훈, 츤데레 매력남♥"]]></title>
-        <id>https://entertain.v.daum.net/v/20211113070302637</id>
-        <link href="https://entertain.v.daum.net/v/20211113070302637"/>
-        <updated>2021-11-12T22:12:11.916Z</updated>
-        <content type="html"><![CDATA[(인터뷰①에 이어)배우 오나라(48)는 아슬아슬한 비밀 연애를 하는 극중 인물 ‘미애‘ 와는 전혀 다른 실제 연애관을 고백해 이목을 집중시켰다. 오나라는 최근 영화 '장르만 로맨스' 홍보차 진행된 인터뷰에서 “전 남편 김현의 절친, ‘순모’와 알콩달콩 비밀 연애를 하는 ‘미애’를 통해 색다른 경험을 해봤다”며 “실제의 나는 절대 비밀 연애를 못하는 성격이]]></content>
     </entry>
 </feed>
