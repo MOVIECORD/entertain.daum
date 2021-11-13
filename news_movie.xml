@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2021-11-13T01:53:17.711Z</updated>
+    <updated>2021-11-13T02:27:02.806Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[아이폰으로 찍은 대만 흥행 1위 로맨스 영화]]></title>
+        <id>https://entertain.v.daum.net/v/20211113110902959</id>
+        <link href="https://entertain.v.daum.net/v/20211113110902959"/>
+        <updated>2021-11-13T02:26:43.028Z</updated>
+        <content type="html"><![CDATA[[김성호 기자] &nbsp;        ▲ 괴짜들의 로맨스&nbsp;포스터    ⓒ 오드 AUD  1:1 정사각의 화면에서 진행되던 영화가 어느 한 순간에 이르러 16:9 화면비로 넓어진다. 그 순간의 변화는, 신파극이 관객의 눈물샘을 강타해 억지로 눈물을 쥐어짜내듯 이성으론 어찌할 수 없는 출렁임을 일으킨다. 일순간의 충격이다. 고음이 출중한 가수의 음성을 듣듯이 관객의]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이재명 민주당 대선후보, "최동원은 에너지 넘치는 국민 영웅" 극찬]]></title>
         <id>https://entertain.v.daum.net/v/20211113104449692</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211113070302637"/>
         <updated>2021-11-12T22:12:11.916Z</updated>
         <content type="html"><![CDATA[(인터뷰①에 이어)배우 오나라(48)는 아슬아슬한 비밀 연애를 하는 극중 인물 ‘미애‘ 와는 전혀 다른 실제 연애관을 고백해 이목을 집중시켰다. 오나라는 최근 영화 '장르만 로맨스' 홍보차 진행된 인터뷰에서 “전 남편 김현의 절친, ‘순모’와 알콩달콩 비밀 연애를 하는 ‘미애’를 통해 색다른 경험을 해봤다”며 “실제의 나는 절대 비밀 연애를 못하는 성격이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[톰 홀랜드 "'스파이더맨3' 재미있지 않아..어둡고 슬프다"]]></title>
-        <id>https://entertain.v.daum.net/v/20211113060211149</id>
-        <link href="https://entertain.v.daum.net/v/20211113060211149"/>
-        <updated>2021-11-12T21:10:59.723Z</updated>
-        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]톰 홀랜드가 ‘스파이더맨:노웨이홈’이 슬프고 어두운 영화라고 말했다. 그는 11일(현지시간) 발간된 ‘토탈필름’에서 “사람들이 정말 놀랄 것은 이 영화가 재미(fun)있지 않다는 것이다”라고 운을 뗐다. 이어 “이 영화는 어둡고, 슬프다. 여러분이 사랑하는 캐릭터들이 결코 그들이 겪기를 바라지 않는 일들을 겪는 것을 보게]]></content>
     </entry>
 </feed>
