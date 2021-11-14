@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/variety</id>
     <title>다음 연예 ─ 뉴스 ─ 예능</title>
-    <updated>2021-11-14T15:12:35.397Z</updated>
+    <updated>2021-11-14T16:17:22.616Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김채윤x김계성, 사상초유의 데이트 거부..이창수, 前애인 이름실수 '최악']]></title>
+        <id>https://entertain.v.daum.net/v/20211115004204380</id>
+        <link href="https://entertain.v.daum.net/v/20211115004204380"/>
+        <updated>2021-11-14T16:17:13.229Z</updated>
+        <content type="html"><![CDATA[[OSEN=김수형 기자] ‘돌싱글즈2’에서 김채윤이 김계성과의 데이트를 거부하는 모습이 그려진 가운데, 이창수는 전 애인 이름실수로 김은영에게 실망감을 안겼다.&nbsp; 14일 방송된 MBN 예능 ‘돌싱글즈 시즌2’에서 마지막 데이트가 그려졌다.&nbsp; 이날 김채윤과 유소민이 서로 맥주 한잔 나누며 진솔한 대화를 나눴다.&nbsp;유소민은 채윤에게 “자녀가 있으면 원래 안 됐는]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이상민, 김종국 집 '문전박대'..추성훈, 야노시호·사랑이 "♥"]]></title>
         <id>https://entertain.v.daum.net/v/20211115000916248</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211114230003776"/>
         <updated>2021-11-14T14:11:20.833Z</updated>
         <content type="html"><![CDATA[(엑스포츠뉴스 이이진 기자) 개그우먼 김경아, 전 농구선수 김태술, 가수 유미리, 배우 김흥수의 정체가 공개됐다. 14일 방송된 MBC '복면가왕'에서는 3연승에 도전한 '복면가왕에서 재주 부리고 가왕석 올라갈게요 곰발바닥'과 이에 맞선 새로운 도전자 8인의 1라운드 듀엣곡 무대가 전파를 탔다. 이날 1라운드 첫 번째 대결에서 '할부 없는 화끈한 가창력 일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[케이블카서 서럽게 우는 이창수 왜? 김은영과 동거 불발됐나]]></title>
-        <id>https://entertain.v.daum.net/v/20211114225756764</id>
-        <link href="https://entertain.v.daum.net/v/20211114225756764"/>
-        <updated>2021-11-14T14:11:20.833Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 황수연 기자) 이창수가 케이블카에서 서럽게 울었다. 핑크빛 분위기를 이어온 김은영과의 동거가 불발된 것일까.&nbsp; 14일 방송된 MBN '돌싱글즈2'에서는 자녀여부를 공개한 8인의 마지막 데이트와 이들의 최종선택이 전파를 탔다.&nbsp; 자녀 공개가 있었던 날, 김채윤은 이덕연을 찾아가 이야기를 나누려고 했지만 이덕연이 잠에서 깨지 못해 마음을 전달했]]></content>
     </entry>
 </feed>

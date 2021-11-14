@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2021-11-14T15:12:35.400Z</updated>
+    <updated>2021-11-14T16:17:22.617Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['구경이' 이영애X김혜준, 난투극→'빌런' 김수로, 이영애가 살릴까]]></title>
+        <id>https://entertain.v.daum.net/v/20211115002330312</id>
+        <link href="https://entertain.v.daum.net/v/20211115002330312"/>
+        <updated>2021-11-14T16:17:08.770Z</updated>
+        <content type="html"><![CDATA[[TV리포트 = 하수나 기자] 이영애와 김혜준이 살벌한 난투극을 펼쳤다. 또한 다음 타깃은 선한 영향력을 펼치는 변호사의 탈을 쓰고 뒤에서 악행을 서슴지 않는 고담(김수로)이란 사실이 드러나며 또다기 이영애와 김혜준의 대결이 이어졌다.&nbsp; 14일 방송된 JTBC '구경이‘에선 케이(김혜준)의 다음 타깃을 알게 된 구경이(이영애)가 살인을 막기 위해 나서는 모]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['구경이' 이영애, 김혜준 다음 타깃 알아냈다]]></title>
         <id>https://entertain.v.daum.net/v/20211115000930250</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211114222949618"/>
         <updated>2021-11-14T14:11:16.656Z</updated>
         <content type="html"><![CDATA[[스포츠서울 | 박효실기자]  "영국이 능력 좋네?" "돈이면 물불 안 가리는 여자 많다니까" 지현우와 이세희가 14살 나이차 커플을 바라보는 주위 사람들의 색안경 쓴 시선에 마음을 다쳤다. 하지만 편견과 오해로 위축된 지현우를 오히려 이세희가 위로하며 둘의 사랑은 더 굳건해졌다. 14일 방송된 KBS2주말극 '신사와 아가씨'에서 이영국(지현우 분)은]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['지리산' 간신히 구출된 전지현, 고민시 마주한 남자 누굴까]]></title>
-        <id>https://entertain.v.daum.net/v/20211114222443584</id>
-        <link href="https://entertain.v.daum.net/v/20211114222443584"/>
-        <updated>2021-11-14T14:11:16.657Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 안윤지 기자] /사진=tvN '지리산' 방송 캡처'지리산' 배우 전지현이 산불에서 간신히 구출된 가운데 고민시가 의문의 남성을 마주했다. 14일 방송된 tvN 토일드라마 '지리산'에서는 위험에 빠진 지리산이 그려졌다. 이날 지리산엔 갑자기 화재가 발생해 위급한 상황이 발생했다. 강현조(주지훈 분)는 아이들과 함께 있다가 간신히 구멍을 찾아 아이들]]></content>
     </entry>
 </feed>
