@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2021-11-15T17:19:35.630Z</updated>
+    <updated>2021-11-15T18:12:29.478Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[한선화 비하인드 공개, 캐릭터와 혼연일체 된 현장]]></title>
+        <id>https://entertain.v.daum.net/v/20211116030234548</id>
+        <link href="https://entertain.v.daum.net/v/20211116030234548"/>
+        <updated>2021-11-15T18:12:24.554Z</updated>
+        <content type="html"><![CDATA[‘술꾼도시여자들’ 한선화의 열정이 가득 담긴 비하인드 컷이 공개됐다. 티빙 오리지널 '술꾼도시여자들'에서 지칠 줄 모르는 오버 텐션과 하이톤을 자랑하는 요가 강사 한지연 역을 맡은 한선화가 캐릭터와 높은 싱크로율을 선보이며 열연을 펼치고 있다. 특히 정신이 혼미할 만큼 아찔한 애교와 무한 긍정의 모습을 연기하며 극의 재미를 증폭시키고 있다. 찰떡같은 캐]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['동상이몽2' 김윤지♥최우성, 15년 전 풋사랑 풀스토리.."다시 만나면 결혼하자고 약속"]]></title>
         <id>https://entertain.v.daum.net/v/20211116020002391</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211115235636738"/>
         <updated>2021-11-15T15:13:29.611Z</updated>
         <content type="html"><![CDATA[김윤지가 남편과 15년 전 부모님 반대로 이별했다고 밝혔다. 15일 오후 방송된 SBS ‘동상이몽2’에 김윤지, 최우성 부부의 모습이 전파를 탔다. 이날 두 사람은 술 한잔 하며 과거를 회상했다. 김유지는 “1년 정도 사귀다가 헤어졌다”고 말했다. 이어 “감정이 가장 좋을 때 헤어졌고, 부모님께 사귀는 걸 걸렸다”고 고백했다. 이어 “두 집안 사이가 좋]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이태균, 믿었던 박지민에 배신 당했다.."배신만 하나? 많이 실망"]]></title>
-        <id>https://entertain.v.daum.net/v/20211115235607730</id>
-        <link href="https://entertain.v.daum.net/v/20211115235607730"/>
-        <updated>2021-11-15T15:13:29.611Z</updated>
-        <content type="html"><![CDATA[(서울=뉴스1) 이지현 기자 = '피의 게임' 이태균이 지하층으로 내려갔다. 15일 오후 방송된 MBC 예능 프로그램 '피의 게임'에서는 새로운 챌린지로 수식 게임이 진행됐다. 이태균은 믿었던 박지민에게 배신 당해 충격을 안겼다. 이날 박재일은 송서현을 타깃으로 삼았다. 그는 정근우에게 "난 솔직히 이번에는 서현이를 떨어트리고 싶어, 밉상이야"라고]]></content>
     </entry>
 </feed>
