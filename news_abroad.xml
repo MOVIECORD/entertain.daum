@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2021-11-15T09:13:17.017Z</updated>
+    <updated>2021-11-15T10:13:55.728Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['GD 열애설' 고마츠 나나, ♥스다 마사키와 결혼 발표 "정신적 지주"]]></title>
+        <id>https://entertain.v.daum.net/v/20211115184828416</id>
+        <link href="https://entertain.v.daum.net/v/20211115184828416"/>
+        <updated>2021-11-15T10:13:54.912Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 황혜진 기자] 일본 톱 배우 부부가 탄생한다. 고마츠 나나, 스다 마사키가 결혼을 발표한 것. 고마츠 나나, 스다 마사키는 11월 15일 오후 공식 SNS에 직접 써 내려간 편지 전문을 게재했다. 두 배우는 편지를 통해 "스다 마사키와 고마츠 나나가 결혼한다. 항상 응원해 주시는 많은 분들 덕분에 오늘을 맞이하게 됐다. 늘 정말 감사하다"며 "미]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[스다 마사키♥︎고마츠 나나, 결혼 발표..日 청춘 스타 부부 탄생]]></title>
         <id>https://entertain.v.daum.net/v/20211115175106774</id>
@@ -53,12 +60,5 @@
         <link href="https://entertain.v.daum.net/v/20211115102657188"/>
         <updated>2021-11-15T01:54:53.168Z</updated>
         <content type="html"><![CDATA[[뉴스엔 박수인 기자] 미국 언론이 테일러 스위프트의 'All Too Well' 가사를 해석했다. 미국 연예매체 페이지식스는 11월 12일(현지시간) 테일러 스위프트(Taylor swift)의 곡 'All Too Well'(올 투 웰) 가사를 조명하며 "제이크 질렌할(Jake Gyllenhaal)과 9살 나이 차이 때문에 결별한 것"이라고 보도했다. 테일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[테일러 스위프트, 9세 연상 제이크 질렌할 너무 사랑했나..가사에 '마상']]></title>
-        <id>https://entertain.v.daum.net/v/20211114183046435</id>
-        <link href="https://entertain.v.daum.net/v/20211114183046435"/>
-        <updated>2021-11-14T10:13:19.064Z</updated>
-        <content type="html"><![CDATA[[OSEN=최나영 기자] 팝가수 테일러 스위프트(31)가 전 연인이 배우 제이크 질렌할(40)에게 받은 마음의 상처가 절절하다. 페이지식스의 12일(현지시간) 보도에 따르면&nbsp;테일러 스위프트의 곡 '올 투 웰(All Too Wel)' 가사는 제이크 질렌할과의 결별을 암시한다. 정규 4집 ‘레드’의 재녹음 버전인 이번 달 발매된 ‘레드’(Taylor’s Ver]]></content>
     </entry>
 </feed>

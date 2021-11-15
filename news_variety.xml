@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/variety</id>
     <title>다음 연예 ─ 뉴스 ─ 예능</title>
-    <updated>2021-11-15T09:13:17.019Z</updated>
+    <updated>2021-11-15T10:13:55.725Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[기안84, 진짜 해냈다..뱃살 삭제→복근 자랑 "멋있지 않냐"]]></title>
+        <id>https://entertain.v.daum.net/v/20211115190251862</id>
+        <link href="https://entertain.v.daum.net/v/20211115190251862"/>
+        <updated>2021-11-15T10:13:44.722Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 오윤주 기자] 웹툰작가 기안84(본명 김희민·37)가 달라진 몸매를 뽐냈다. 15일 기안84의 유튜브 채널 '인생84'에는 '기안84 몸 만들었습니다.'라는 제목의 영상이 게재됐다. 영상에선 화보 촬영에 나선 기안84의 모습이 그려졌다. 그는 상의를 탈의하고 거울에 비친 자신의 모습을 보고 감탄했다. 이어 치킨을 먹으며 "전에는 거의 유산]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[고은아 "20살 때, 잠수 아닌 잠수..우울증 왔다"]]></title>
         <id>https://entertain.v.daum.net/v/20211115175014739</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211115152246102"/>
         <updated>2021-11-15T07:13:00.496Z</updated>
         <content type="html"><![CDATA[[스타뉴스 안윤지 기자] 배우 이정재, 정우성 /사진=김휘선 기자 hwijpg@배우 이정재와 정우성이 나영석 PD를 만날까. tvN 관계자는 15일 스타뉴스에 "이정재와 정우성이 예능프로그램 '출장 십오야' 출연과 관련 긍정적으로 논의 중이다"라고 밝혔다. 관계자에 따르면 '출장 십오야' 시즌2 제작은 준비 중이다. '출장 십오야'는 나영석 PD가 연출하는]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['신예' 차주완, 헬로우월드엔터 전속계약→'학교2021' 합류]]></title>
-        <id>https://entertain.v.daum.net/v/20211115151850975</id>
-        <link href="https://entertain.v.daum.net/v/20211115151850975"/>
-        <updated>2021-11-15T07:13:00.497Z</updated>
-        <content type="html"><![CDATA[[스포츠조선 문지연 기자] 신예 배우 차주완이 헬로우월드엔터테인먼트와 전속계약을 체결하며 '학교2021' 출연도 확정했다. 15일 매니지먼트사 헬로우월드엔터테인먼트는 "신인배우 차주완과 전속계약을 체결했다. 다양한 매력이 공존하는 이미지로 이전에는 볼 수 없던 독특한 아우라를 풍기는 차주완에게서 무한한 잠재력을 발견했다. 탄탄한 배우로 성장]]></content>
     </entry>
 </feed>

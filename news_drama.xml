@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2021-11-15T09:13:17.021Z</updated>
+    <updated>2021-11-15T10:13:55.733Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['청와대로 간다' 김성령→이학주, '역대급 꿀잼' 드라마 탄생 비결은?]]></title>
+        <id>https://entertain.v.daum.net/v/20211115183623100</id>
+        <link href="https://entertain.v.daum.net/v/20211115183623100"/>
+        <updated>2021-11-15T10:13:39.304Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 이경호 기자] 웨이브(wavve) 오리지널 드라마 '이렇게 된 이상 청와대로 간다'./사진제공=wavve(웨이브)'이렇게 된 이상 청와대로 간다'를 향한 배우들의 열정이 현장을 뜨겁게 달궜다. 지난 12일 오전 11시 전편 공개된 웨이브(wavve) 오리지널 드라마 '이렇게 된 이상 청와대로 간다'(이하 '청와대로 간다'. 연출 윤성호, 극본 크]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['신사와 아가씨' 오현경, 통통 튀는 연기로 꽉 채운 존재감]]></title>
         <id>https://entertain.v.daum.net/v/20211115175914996</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211115153137437"/>
         <updated>2021-11-15T07:12:55.578Z</updated>
         <content type="html"><![CDATA[[OSEN=김나연 기자] '신사와 아가씨'에서 이영국(지현우 분)의 기억상실증이 예고되면서 시청자 게시판이 술렁이고 있다. 14일 방송된 KBS2 주말드라마 '신사와 아가씨'(연출 신창석/극본 김사경)에서는 이영국과 박단단(이세희 분)의 로맨스에 위기가 찾아왔다. 앞서 애나 킴(이일화 분)은 이영국과 박단단의 관계를 의심하기 시작했던 바. 애나 킴은 이영국]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['키마이라' 차주영, 캐릭터 특성 십분 살린 '텐션 조절']]></title>
-        <id>https://entertain.v.daum.net/v/20211115152026020</id>
-        <link href="https://entertain.v.daum.net/v/20211115152026020"/>
-        <updated>2021-11-15T07:12:55.580Z</updated>
-        <content type="html"><![CDATA[[OSEN=최나영 기자]&nbsp;배우 차주영의 밀도 높은 연기가 전개에 힘을 실었다. 지난 13, 14일 방송된 OCN 토일드라마 ‘키마이라’에서는 재환(박해수 분)과 협업을 약속한 효경(차주영 분)의 이야기가 그려졌다. 앞서 효경은 키메라 사건의 내막을 파헤치기 위해 본격적으로 움직였던 바 있다. 이 가운데 효경은 능청스럽게 너스레를 떨며 재환을 찾아갔다. 이어]]></content>
     </entry>
 </feed>
