@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2021-11-16T22:12:33.661Z</updated>
+    <updated>2021-11-16T23:13:08.819Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["남성 관객 얼굴에 소변" 美가수, 약혼자도 있었다..형사고발 위기]]></title>
+        <id>https://entertain.v.daum.net/v/20211117072219684</id>
+        <link href="https://entertain.v.daum.net/v/20211117072219684"/>
+        <updated>2021-11-16T23:13:08.128Z</updated>
+        <content type="html"><![CDATA[[OSEN=최나영 기자] 미국 록밴드 브라스 어게인스트(Brass Against)의 프론트우먼인 소피아 유리스타(Sophia Urista, 36)가 플로리다에서 열린 한 콘서트에서 남성 관객의 얼굴에 소변을 보는 퍼포먼스를 연출한 후 후폭풍이 상당하다. 지난 12일 플로리다 데이토나에서 열린 ‘웰컴 투 록스빌’ 콘서트에서 밴드 브라스 어게인스트가 무대에 올]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[美 락밴드 女 보컬, 공연 도중 관객 향해 소변 퍼포먼스..질타 쏟아져]]></title>
         <id>https://entertain.v.daum.net/v/20211117070029406</id>
@@ -74,12 +81,5 @@
         <link href="https://entertain.v.daum.net/v/20211116095650092"/>
         <updated>2021-11-16T01:55:17.202Z</updated>
         <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]무려 3일동안 초호화 결혼식을 올린 할리우드 셀럽 패리스 힐튼(40)의 동갑내기 남편 카터 리움에게 9살된 딸이 있다는 보도가 나왔다. 연예매체 페이지식스는 15일(현지시간) “카터 리움은 9년 전 태어난 딸을 부양하고 있다”고 전했다. 아이의 엄마는 TV 리얼리티쇼 '아스펜의 비밀'에 출연하고 배우 멜 깁슨과 잠깐 사귀었]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['결혼' 패리스 힐튼 남편, 숨겨둔 9세 딸 있었다!]]></title>
-        <id>https://entertain.v.daum.net/v/20211116075130665</id>
-        <link href="https://entertain.v.daum.net/v/20211116075130665"/>
-        <updated>2021-11-15T23:12:55.657Z</updated>
-        <content type="html"><![CDATA[[OSEN=최나영 기자] 막 결혼한 재벌 셀럽&nbsp;패리스 힐튼의&nbsp;남편에게 딸이 있다고 페이지식스가 15일(현지시간) 독점 보도했다. 패리스 힐튼의 남편인 백만장자 벤처 투자가 카터 리움에게&nbsp;9년 전 태어난 이후 단 한 번 본 적이 없는 딸이&nbsp;있다는 것.&nbsp;이 소녀의 엄마는 TV 리얼리티쇼 '아스펜의 비밀'에 출연하고 배우 멜 깁슨과 잠깐 사귀었던 리얼리티 스타]]></content>
     </entry>
 </feed>
