@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2021-11-16T16:15:25.353Z</updated>
+    <updated>2021-11-16T17:12:02.833Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['옥탑방' 김성령 "미코 진 당선될 것 미리 알아..울지 않아 PD에게 혼났다"]]></title>
+        <id>https://entertain.v.daum.net/v/20211117014112036</id>
+        <link href="https://entertain.v.daum.net/v/20211117014112036"/>
+        <updated>2021-11-16T17:11:57.515Z</updated>
+        <content type="html"><![CDATA[[스포츠투데이 이소연 기자] 배우 김성령이 미스코리아 진에 당선될 것을 알고 있었다고 털어놨다. 16일 방송된 KBS2 '옥탑방의 문제아들'에서는 김성령과 이학주가 게스트로 출연했다. 이날 김성령은 미스코리아 당선됐을 때 울지 않아서 송창의 PD에게 혼났다고 털어놨다. 김성령은 "당시 미스코리아 대회가 보도될 때 진이 마스카라가 번질 정도로 우는 게 메인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['나를 불러줘' 강남 "이상화와 결혼한지 2년..싸우는 게 아니라 혼나는 느낌"]]></title>
         <id>https://entertain.v.daum.net/v/20211117004002730</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211117000028434"/>
         <updated>2021-11-16T15:13:13.436Z</updated>
         <content type="html"><![CDATA['순정남' 한승욱 역 맡아 열연 [더팩트｜박지윤 기자] 작품의 흥행과 이미지 변신, 배우 이상윤이 '원 더 우먼' 한승욱을 만나 이뤄낸 두 가지 성과다. 이렇게 두 마리 토끼를 잡은 그는 배우로서의 입지를 한층 더 견고히 다졌다. 이상윤은 최근 종영한 SBS 금토드라마 '원 더 우먼(One the Woman)'(극본 김윤 연출 최영훈)에서 한승욱 역을 맡]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['돌싱포맨' 장윤정 "도경완과 연애 시절, 데이트 비용은 내 몫"]]></title>
-        <id>https://entertain.v.daum.net/v/20211117000000400</id>
-        <link href="https://entertain.v.daum.net/v/20211117000000400"/>
-        <updated>2021-11-16T15:13:13.437Z</updated>
-        <content type="html"><![CDATA[[TV리포트=이혜미 기자] 트로트가수 장윤정이 데이트 비용에 얽힌 비화를 공개했다. 16일 방송된 SBS ‘신발 벗고 돌싱포맨’에선 장윤정이 게스트로 출연해 연상녀 공략 노하우를 전수했다. 이날 장윤정이 강조한 건 상대의 약점을 귀여워해줘야 한다는 것. 장윤정은 “내 경우 젓가락질을 잘 못하는데 도경완이 김치를 찢어줬다”면서 연애담을 전했다. 도경완은 장윤]]></content>
     </entry>
 </feed>
