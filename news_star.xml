@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2021-11-17T16:17:38.248Z</updated>
+    <updated>2021-11-17T17:16:20.512Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[라잇썸 화보, 5인 5색 시크+분위기 압도]]></title>
+        <id>https://entertain.v.daum.net/v/20211118020234846</id>
+        <link href="https://entertain.v.daum.net/v/20211118020234846"/>
+        <updated>2021-11-17T17:16:15.146Z</updated>
+        <content type="html"><![CDATA[걸그룹 LIGHTSUM(라잇썸)의 상아, 나영, 주현, 유정, 휘연이 패션 트렌드 매거진 '인디드' vol.14와 함께한 화보를 공개했다. 공개된 '인디드' 화보는 ‘Catch My Eye’라는 콘셉트로 시선을 사로잡는 LIGHTSUM(라잇썸)만의 시크한 눈빛을 담아냈다. 무대 위 모습과 상반된 차분한 무드의 화보로 각 멤버들은 자신만의 색다른 매력을]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[전종서 vs 모델, 시스루 니트+슬립 드레스.."몇겹 걸쳤나?"]]></title>
         <id>https://entertain.v.daum.net/v/20211118010000620</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211117235323129"/>
         <updated>2021-11-17T15:13:04.531Z</updated>
         <content type="html"><![CDATA[[스포츠조선 조윤선 기자] 신동엽이 자신이 겪었던 '100억 증여 사기 논란'에 대해 최초로 밝혔다. 신동엽은 17일 방송된 TV CHOSUN '미친.사랑.X'에서 자신이 직접 당한 충격적인 사기 일화를 털어놨다. 이날 오은영 박사는 '망상장애' 환자에 대해 "망상장애가 있는 분들은 망상 이외에는 나머지 생활에서 기능이 괜찮은 편"이라며 "주]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[윤계상 "결혼 후 행복·안정감 생겨→'범죄도시' 전 늘 벼랑 끝에 선 느낌"]]></title>
-        <id>https://entertain.v.daum.net/v/20211117235233123</id>
-        <link href="https://entertain.v.daum.net/v/20211117235233123"/>
-        <updated>2021-11-17T15:13:04.534Z</updated>
-        <content type="html"><![CDATA[[스포츠조선닷컴 이우주 기자] '유퀴즈' 윤계상이 배우로 전향하며 겪었던 치열한 고민들을 털어놨다. 17일 방송된 tvN 예능프로그램 '유퀴즈 온 더 블럭'에서는 배우 윤계상이 게스트로 출연했다. 윤계상은 지난 8월 결혼 소식을 알렸다. 하지만 코로나19 때문에 아직 결혼식은 못 올린 상황. 윤계상은 "혼인신고는 하고 결혼식은 고민 중"이]]></content>
     </entry>
 </feed>
