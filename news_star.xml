@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2021-11-18T16:18:25.181Z</updated>
+    <updated>2021-11-18T17:17:34.555Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["선처NO" 김종국, 27년간 괴롭힌 악플에 칼 빼들었다..법적대응 초강수]]></title>
+        <id>https://entertain.v.daum.net/v/20211119011919827</id>
+        <link href="https://entertain.v.daum.net/v/20211119011919827"/>
+        <updated>2021-11-18T17:17:29.122Z</updated>
+        <content type="html"><![CDATA[[OSEN=김수형 기자] 가수 김종국이 약물 의혹과 관련한 악플에 대해 법적대응을 예고했다. 선처는 없을 것이라며 다시 한 번 강조했다. 18일, 가수 김종국이 개인 채널 ‘김종국 GYM JONG KOOK’을 통해서 ‘주먹보다 법(法)이 우선이다’란 제목으로 영상을 게재했다. 이날 김종국이 개인 채널을 통해서 자신과 관련한 이번 이슈에 대해 입을 열었다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['도시어부3' 이경규, 자체 제작 복면쓰고 "이차선다리 가자" 폭소]]></title>
         <id>https://entertain.v.daum.net/v/20211119010301738</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211119000020236"/>
         <updated>2021-11-18T15:13:29.017Z</updated>
         <content type="html"><![CDATA[19일 출국, 남미 푸에르토리코서 진행 '미스월드' 도전 [더팩트｜강일홍 기자] "소녀시대 동방신기 언니 오빠들을 선망하며 아이돌을 꿈꿨어요. 춤 추고 노래하는 제 모습이 어색하지 않은 건 이 때문이기도 해요." 올해로 69회를 맞는 미스월드(Miss World)는 12월16일 남미 푸에르토리코에서 열린다. 한국대표는 지난달 18일 PJP가 주최하고 메타]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[리헤이, 패딩 룩도 아찔하게..각선미 드러낸 치명적 자태]]></title>
-        <id>https://entertain.v.daum.net/v/20211119000001212</id>
-        <link href="https://entertain.v.daum.net/v/20211119000001212"/>
-        <updated>2021-11-18T15:13:29.017Z</updated>
-        <content type="html"><![CDATA[댄스크루 코카앤버터의 댄서 리헤이가 아찔한 패딩 룩을 선보였다. 패션 매거진 '하퍼스 바자'는 18일 올해 각 분야에서 눈에 띄는 활약을 펼친 셀러브리티 10인과 함께한 12월호 화보를 공개했다. 이번 화보는 '10 YEARS 10 CELEBRATION'을 콘셉트로 코오롱스포츠의 프리미엄 다운 안타티카(ANTARCTICA)의 10주년을 축하하기 위해 진행됐]]></content>
     </entry>
 </feed>
