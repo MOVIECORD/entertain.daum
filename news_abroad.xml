@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2021-11-18T00:40:42.576Z</updated>
+    <updated>2021-11-18T01:54:56.045Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[美래퍼 영 돌프, 총기 사고로 사망]]></title>
+        <id>https://entertain.v.daum.net/v/20211118094725534</id>
+        <link href="https://entertain.v.daum.net/v/20211118094725534"/>
+        <updated>2021-11-18T01:54:55.400Z</updated>
+        <content type="html"><![CDATA[[티브이데일리 김종은 기자] 미국 래퍼 영 돌프(본명 아돌프 로버트 소튼 주니어)가 총기 사고로 사망했다. 향년 36세. 미국 CNN은 17일(현지시간) "영 돌프가 테네시주 멤피스의 한 제과점에서 일어난 총기 난사 사고로 인해 사망했다"고 보도했다. 경찰에 따르면 아직 용의자는 특정되지 않은 상태다. 갑작스러운 그의 사망 소식에 많은 래퍼들이 그의 인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[美 래퍼 영 돌프, 총기사고로 사망..향년 36세]]></title>
         <id>https://entertain.v.daum.net/v/20211118092212387</id>
@@ -74,12 +81,5 @@
         <link href="https://entertain.v.daum.net/v/20211117115037275"/>
         <updated>2021-11-17T03:13:09.529Z</updated>
         <content type="html"><![CDATA[(엑스포츠뉴스 조혜진 기자) 미국 록밴드 브라스 어게인스트의 보컬 소피아 유리스타가 공연 중 관객 얼굴에 소변을 보는 퍼포먼스를 선보여 논란이 되고 있다. 15일(현지시간) 뉴욕포스트 등 외신에 따르면 브라스 어게인스트의 여성 보컬 소피아 유리스타는 지난 12일 미국 플로리다 데이토나 비치에서 열린 뮤직 페스티벌 무대에 올라 노래를 부르다 남성 관객 얼굴에]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["36살 여성로커 공연중 남성 얼굴에 소변 봐" 충격, 침묵으로 일관.."역겹다" 맹비난]]></title>
-        <id>https://entertain.v.daum.net/v/20211117095055557</id>
-        <link href="https://entertain.v.daum.net/v/20211117095055557"/>
-        <updated>2021-11-17T01:55:13.251Z</updated>
-        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]미국 여성 로커가 무대 위에서 엽기적인 소변 퍼포먼스를 선보여 논란이 되고 있는 가운데 현재까지 침묵으로 일관해 비난이 일고 있다. 15일(현지시간) 뉴욕포스트는 밴드 브라스 어게인스트(Bras Against)의 여성 보컬 소피아 우리스타(36)가 지난 12일 미국 플로리다 데이토나 비치에서 진행된 '웰컴 투 록빌' 페스티벌]]></content>
     </entry>
 </feed>
