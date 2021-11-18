@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/variety</id>
     <title>다음 연예 ─ 뉴스 ─ 예능</title>
-    <updated>2021-11-18T09:13:11.135Z</updated>
+    <updated>2021-11-18T10:13:46.234Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['율희♥' 최민환, 장인과 수상한 만남.."알면 큰일 나!"]]></title>
+        <id>https://entertain.v.daum.net/v/20211118191047715</id>
+        <link href="https://entertain.v.daum.net/v/20211118191047715"/>
+        <updated>2021-11-18T10:13:36.422Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 안윤지 기자] /사진제공=KBS '살림하는 남자들2'가수 최민환과 장인의 수상한 만남이 포착됐다. 오는 20일 방송되는 KBS 2TV 예능프로그램 '살림하는 남자들 시즌2'(이하 '살림남2')에서는 장인과 장모 사이에서 난처해하는 최민환의 모습이 포착돼 궁금증을 높인다. 이날 "빨리 오라"는 긴급 호출을 받고 잔뜩 긴장한 채 장인의 사무실로 찾아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["너무 죄송합니다"..'음주운전' 노우진, 90도 사과로 복귀]]></title>
         <id>https://entertain.v.daum.net/v/20211118175839564</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211118164145776"/>
         <updated>2021-11-18T08:15:06.344Z</updated>
         <content type="html"><![CDATA[(엑스포츠뉴스 하지원 기자) 이동윤이 '우리는 개그맨이다'에 함께하게 된 소감을 전했다. 18일 서울 마포구 윤형빈소극장에서 WAG TV의 신규 콘텐츠 ‘우리는 개그맨이다’ 시즌1 제작발표회가 진행됐다. 이날 제작발표회에는 김희태 PD, 엄영수, 지영옥, 이용근, 이광섭, 이동윤, 홍순목, 노우진, 안소미, 임우일, 조수연, 김영희, 박휘순 등이 참석했다]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['우리는 개그맨이다' 엄영수 "나이 70살, 함께할 수 있어 영광"]]></title>
-        <id>https://entertain.v.daum.net/v/20211118163409506</id>
-        <link href="https://entertain.v.daum.net/v/20211118163409506"/>
-        <updated>2021-11-18T08:15:06.347Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 하지원 기자) 엄영수가 '우리는 개그맨이다'에 함께하게 된 소감을 전했다. 18일 서울 마포구 윤형빈소극장에서 WAG TV의 신규 콘텐츠 ‘우리는 개그맨이다’ 시즌1 제작발표회가 진행됐다. 이날 제작발표회에는 김희태 PD, 엄영수, 지영옥, 이용근, 이광섭, 이동윤, 홍순목, 노우진, 안소미, 임우일, 조수연, 김영희, 박휘순 등이 참석했다]]></content>
     </entry>
 </feed>
