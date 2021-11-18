@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2021-11-18T08:15:19.419Z</updated>
+    <updated>2021-11-18T09:13:11.127Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[윤계상 연기에 소름 더한다..알레프, '크라임퍼즐' 마지막 OST]]></title>
+        <id>https://entertain.v.daum.net/v/20211118175603469</id>
+        <link href="https://entertain.v.daum.net/v/20211118175603469"/>
+        <updated>2021-11-18T09:12:56.990Z</updated>
+        <content type="html"><![CDATA[[OSEN=박소영 기자] 화제의 드라마 ‘크라임 퍼즐’ OST의 마지막 가창자로 알레프(ALEPH)가 나선다. 알레프가 부른 ‘비밀 (Unknown)’이 19일(내일) 정오 각종 음원사이트를 통해 공개된다. ‘비밀 (Unknown)’은 알레프의 매력적인 목소리가 돋보이는 곡으로, 강렬한 기타를 바탕으로 한 록사운드에 스트링과 힙합 비트가 어우러지며 극의 몰]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["정주행 기회!" '꽃엔딩'→'연플리4'까지..다시보는 플레이리스트 명작들]]></title>
         <id>https://entertain.v.daum.net/v/20211118170615722</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211118144239052"/>
         <updated>2021-11-18T06:14:59.081Z</updated>
         <content type="html"><![CDATA[[OSEN=최나영 기자]&nbsp;묘한 기류가 오가는 한채영, 이지훈의 만남이 포착됐다. 오는 29일 오후&nbsp;10시 30분 첫 방송 되는 새 월화드라마 ‘스폰서’(연출 이철/ 극본 한희정/ 제작 빅토리콘텐츠)에서 한채영(한채린 역), 이지훈(이선우 역)이 위태로운 인연의 서막을 연다. ‘스폰서’는 원하는 것을 얻기 위해 수단과 방법을 가리지 않고, 자신의 욕망을 채워]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['청와대로 간다' 짜릿한 우먼 파워, 정주행 욕구 자극하는 이유]]></title>
-        <id>https://entertain.v.daum.net/v/20211118141739135</id>
-        <link href="https://entertain.v.daum.net/v/20211118141739135"/>
-        <updated>2021-11-18T06:14:59.081Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 김명미 기자] ‘이렇게 된 이상 청와대로 간다’가 짜릿한 우먼 파워로 시청자들의 정주행 욕구를 자극했다. 11월 12일 전편 공개된 웨이브(wavve) 오리지널 드라마 ‘이렇게 된 이상 청와대로 간다’(이하 ‘이상청’)(연출 윤성호/ 극본 크리에이터 송편, 김홍기, 최성진, 박누리 등)는 문화체육관광부 장관으로 임명된 올림픽 금메달리스트 출신 셀]]></content>
     </entry>
 </feed>
