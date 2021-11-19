@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2021-11-19T19:10:39.741Z</updated>
+    <updated>2021-11-19T20:13:16.306Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[앤드류 가필드 "'스파이더맨: 노 웨이 홈' 출연? 개봉하면 알게 될 것"]]></title>
+        <id>https://entertain.v.daum.net/v/20211120045632482</id>
+        <link href="https://entertain.v.daum.net/v/20211120045632482"/>
+        <updated>2021-11-19T20:13:15.740Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 이창규 기자) 앤드류 가필드가 '스파이더맨'과 '조커'에 관련한 이야기를 전했다.  19일(현지시간) GQ 유튜브 채널에는 '앤드류 가필드가 네티즌들의 질문에 답하다'라는 제목의 영상이 게재됐다.  공개된 영상에서 앤드류 가필드는 위키피디아와 레딧, 트위터, 쿼라, 유튜브, 인스타그램, 틱톡 등 다양한 SNS에 올라온 자신과 관련된 이야기에]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['해리포터' 20주년 기념 다큐멘터리 "1월 1일 론칭"]]></title>
         <id>https://entertain.v.daum.net/v/20211119155805989</id>
