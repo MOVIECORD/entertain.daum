@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2021-11-19T17:18:18.250Z</updated>
+    <updated>2021-11-19T18:14:41.443Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['더솔져스' 상위권 팀, 팀워크 발휘하며 '침수 막사 탈출' 미션 성공..탈락 후보 선정 미션 예고]]></title>
+        <id>https://entertain.v.daum.net/v/20211120031200290</id>
+        <link href="https://entertain.v.daum.net/v/20211120031200290"/>
+        <updated>2021-11-19T18:14:35.583Z</updated>
+        <content type="html"><![CDATA[[SBS연예뉴스 | 김효정 에디터] 밀리터리 국가대표는 누구? 19일 방송된 특수요원 국가대표 선발전 SBS '더솔져스'에서는 첫 번째 기습 미션으로 지원자들의 순발력과 팀워크를 평가했다. 이날 방송에서는 선착순 미션의 순위에 따라 상위권 팀과 하위권 팀 두 팀으로 나뉘어 첫날밤을 보냈다. 막사에서 깊은 잠이 든 이들. 그런데 이때 정체불명의 트럭이 등장하]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['더솔져스' 최강소방관에 정보사 요원까지..특전사 20인 첫 만남]]></title>
         <id>https://entertain.v.daum.net/v/20211120014500037</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211120000539674"/>
         <updated>2021-11-19T15:14:18.522Z</updated>
         <content type="html"><![CDATA[(서울=뉴스1) 박하나 기자 = '나 혼자 산다' 전현무가 귀신 분장을 한 화사의 모습에 놀라 욕설을 내뱉었다. 19일 오후에 방송된 MBC 예능 프로그램 '나 혼자 산다'에서는 지난주에 이어 무지개 회원들의 2022년 달력 제작기가 펼쳐졌다. 8월 촬영을 담당한 화사가 무지개 회원들에게 잠옷을 입고 와달라고 부탁했다. 이어 화사가 등장하지 않자 콘셉트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['더솔져스' 김상중, 카리스마 등장 "대원들, 자부심 가져도 좋다"]]></title>
-        <id>https://entertain.v.daum.net/v/20211120000330658</id>
-        <link href="https://entertain.v.daum.net/v/20211120000330658"/>
-        <updated>2021-11-19T15:14:18.523Z</updated>
-        <content type="html"><![CDATA[[TV리포트=김은정 기자] 김상중의 카리스마가 정예 요원들을 긴장시켰다. 19일 오후 첫 방송된 SBS '더솔져스'에서는 김상중의 등장이 참가자들을 놀라게 했다. 이날 최정예 대원들이 모여있는 가운데 수풀을 헤치고 김상중이 등장했다.&nbsp;해병대 570기로 강렬한 아우라를 내뿜는 그의 모습에 김호종(SSU)은 "밉보일까봐 고개만 돌려 눈만 살짝 봤는데 김상중 선]]></content>
     </entry>
 </feed>
