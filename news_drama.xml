@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2021-11-20T15:12:25.658Z</updated>
+    <updated>2021-11-20T16:17:41.509Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['지헤중' 장기용, 송혜교에 "나 보고 싶었니? 난 너 보고 싶었어" 직진]]></title>
+        <id>https://entertain.v.daum.net/v/20211121003000068</id>
+        <link href="https://entertain.v.daum.net/v/20211121003000068"/>
+        <updated>2021-11-20T16:17:26.321Z</updated>
+        <content type="html"><![CDATA[[SBS연예뉴스 | 김효정 에디터] 장기용이 송혜교에게 직진했다. 20일 방송된 SBS '지금, 헤어지는 중입니다'(이하 '지헤중')에서는 하영은과 윤재국의 과거 엇갈린 인연이 공개됐다. 이날 방송에서 하영은은 윤수완의 죽음을 알고 절망했다. 그리고 또 하나의 진실을 알고 망연자실했다. 윤재국이 바로 윤수완의 동생이라는 것. 이에 하영은은 "그런데 미숙아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['구경이' 김혜준, 이모 배해선 사망에 충격.. 김해숙, 라이벌 김수로 죽였다]]></title>
         <id>https://entertain.v.daum.net/v/20211121000215927</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211120224012465"/>
         <updated>2021-11-20T14:11:00.568Z</updated>
         <content type="html"><![CDATA[[동아닷컴] 사진제공= OCNOCN 토일드라마 ‘키마이라’에서 또다시 폭발 사건이 일어났다. ‘키마이라’가 오늘(20일) 또다시 일어난 폭발 사건의 중심에서 자신이 진범이라고 주장하는 남자의 사진을 공개하며 시청자들의 관심을 끌고 있다. ‘키마이라’는 강력계 형사 재환(박해수 분), 프로파일러 유진(수현 분), 외과의사 중엽(이희준 분)이 각자 다른 목적]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['지리산' 전지현 위기, 주지훈 표식도 위조한 범인은? '검은다릿골마을' 뭐길래]]></title>
-        <id>https://entertain.v.daum.net/v/20211120223753456</id>
-        <link href="https://entertain.v.daum.net/v/20211120223753456"/>
-        <updated>2021-11-20T14:11:00.569Z</updated>
-        <content type="html"><![CDATA[[OSEN=연휘선 기자] '지리산'에서 고민시가 사망하고 성동일의 범행 가능성이 드러난 가운데, 검은다릿골마을을 둘러싼 과거 비화가 미스터리를 더했다.&nbsp; 20일 방송된 tvN 토일드라마 '지리산'(극본 김은희, 연출 이응복) 9회에서는 과거 조난 사고로 휠체어를 탄 레인저&nbsp;서이강(전지현 분)과 같은 사고로 식물인간이 된 뒤 생령이 돼 사람들을 지키려는 강현]]></content>
     </entry>
 </feed>
