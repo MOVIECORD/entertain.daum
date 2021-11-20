@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2021-11-20T16:17:41.505Z</updated>
+    <updated>2021-11-20T17:17:54.699Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[트루디♥KT이대은, 4년 열애 끝 12월 결혼..유니크한 웨딩화보 공개]]></title>
+        <id>https://entertain.v.daum.net/v/20211121020301224</id>
+        <link href="https://entertain.v.daum.net/v/20211121020301224"/>
+        <updated>2021-11-20T17:17:49.035Z</updated>
+        <content type="html"><![CDATA[프로야구 kt 위즈 투수 이대은(32)과 래퍼 트루디(김진솔, 28)가 4년 교제 끝에 부부의 연을 맺는다. 해피메리드컴퍼니는 20일 “이대은과 트루디가 12월 5일 서울 강남구 그랜드힐 컨벤션에서 결혼식을 올린다”면서 웨딩화보를 공개했다. 공개한 웨딩화보엔 유니크한 예비 신랑 이대은과 예비 신부 트루디의 매력이 가득 담겨 시선을 강탈한다. 2018년]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[현아, 남친 던에 키스마크..과감한 포즈로 관능미 '물씬']]></title>
         <id>https://entertain.v.daum.net/v/20211121010501161</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211121000008890"/>
         <updated>2021-11-20T15:12:20.551Z</updated>
         <content type="html"><![CDATA[[마이데일리 = 이승록 기자] 박산희가 부르면 다르다. 박산희를 만나 '만족하느냐' 물으니 "'고양이'가 제일 몰입해서 즐겁게 한 무대"라고 했다. "1라운드는 너무 떨어서 가장 아쉽다"고 했다. "'돌이키지마'는 다 내려놓고 한 무대"라고도 했다. 인터뷰를 하러 오는 내내 들었던 '돌이키지마'가 "내려놓고 한 무대"라니 믿기지 않는다. "음색이 좋다는]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['SNS 맹신' 라비, 치열한 리뷰 탐색전]]></title>
-        <id>https://entertain.v.daum.net/v/20211121000008888</id>
-        <link href="https://entertain.v.daum.net/v/20211121000008888"/>
-        <updated>2021-11-20T15:12:20.553Z</updated>
-        <content type="html"><![CDATA[[동아닷컴] 사진 제공: KBS 2TV &lt;1박 2일 시즌4&gt;KBS2 ‘1박 2일’ 멤버들이 예측불허 코스 요리 앞에서 일희일비한다. 21일 KBS2 ‘1박 2일 시즌4’(이하 1박 2일)에서는 100회를 맞이해 제주도로 떠난 멤버들의 꿀 같은 ‘단내투어’가 계속된다. 저녁 식사 투어를 담당한 라비는 SNS 후기에 의존해 실패 없는 ‘맛집 보증’ 코스 요리]]></content>
     </entry>
 </feed>
