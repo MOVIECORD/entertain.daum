@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2021-11-19T23:12:46.464Z</updated>
+    <updated>2021-11-20T00:39:15.866Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['베놈' 10월 최고 흥행작..韓 영화 공백 속 '007 노 타임 투 다이' 등 외화 강세]]></title>
+        <id>https://entertain.v.daum.net/v/20211120091048214</id>
+        <link href="https://entertain.v.daum.net/v/20211120091048214"/>
+        <updated>2021-11-20T00:38:56.697Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 김유진 기자) 영화 '베놈 2: 렛 데어 비 카니지'(감독 앤디 서키스)가 10월 최고 흥행작에 이름을 올렸다. 18일 영화진흥위원회가 발표한 '10월 영화산업결산 발표'에 따르면 10월 전체 매출액은 508억 원으로 전년 동월 대비 22.4%(93억 원) 늘었고, 전체 관객 수는 519만 명으로 전년 동월 대비 12.0%(56만 명) 증가]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['장르만 로맨스', '이터널스' 제치고 1위 재탈환]]></title>
+        <id>https://entertain.v.daum.net/v/20211120082507800</id>
+        <link href="https://entertain.v.daum.net/v/20211120082507800"/>
+        <updated>2021-11-20T00:38:56.698Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 전형화 기자] 류승룡과 오나라가 주연을 맡은 영화 '장르만 로맨스'가 하루만에 '이터널스'에게서 박스오피스 1위를 탈환했다. 20일 영진위 영화관입장권통합전산망에 따르면 '장르만 로맨스'는 19일 5만 6명이 찾아 1위에 올랐다. 지난 17일 개봉해 누적 14만 8582명. '장르만 로맨스'는 개봉 첫날 '이터널스'를 제치고 1위로 출발했으나]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[감독 조은지가 밝힌 #장르만로맨스 #류승룡 #오나라 #무진성]]></title>
         <id>https://entertain.v.daum.net/v/20211120080006606</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211119214104650"/>
         <updated>2021-11-19T13:18:57.740Z</updated>
         <content type="html"><![CDATA['승리호'가 춘사영화제 최우수감독상과 남우주연상으로 2관왕 영예를 차지했다. 19일 오후 서울 강남구 CGV 청담씨네시티점에서 제26회 춘사국제영화제가 개최됐다. 이날 최우수감독상은 '승리호'의 조성희 감독이 차지했으며, 남녀주연상에는 '승리호'의 송중기, '지푸라기라도 잡고 싶은 짐승들' 전도연이 각각 이름을 올렸다. 남녀조연상은 '다만 악에서 구하]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[송중기·전도연 뜻깊은 남녀주연상 "진심으로 감사"]]></title>
-        <id>https://entertain.v.daum.net/v/20211119213005560</id>
-        <link href="https://entertain.v.daum.net/v/20211119213005560"/>
-        <updated>2021-11-19T13:18:57.746Z</updated>
-        <content type="html"><![CDATA[송중기와 전도연이 춘사영화제 남녀주연상을 수상했다. 19일 오후 서울 강남구 CGV 청담씨네시티점에서 개최된 제26회 춘사국제영화제에서 '승리호' 송중기가 남우주연상, '지푸라기라도 잡고 싶은 짐승들' 전도연이 여우주연상을 품에 안았다. 송중기는 "너무 감사드린다. 나를 비롯해서 김태리, 유해진, 진선균까지 모든 배우들이 걱정을 많이 했던 영화다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김선호, 자숙 없이 '물밑 활동' 시작..시기상조 모르는 '열일 아이콘']]></title>
-        <id>https://entertain.v.daum.net/v/20211119210102213</id>
-        <link href="https://entertain.v.daum.net/v/20211119210102213"/>
-        <updated>2021-11-19T12:19:04.514Z</updated>
-        <content type="html"><![CDATA[[텐아시아=김지원 기자]시기상조. 배우 김선호를 두고 하는 말이다. 전 여자친구와의 낙태 스캔들이 잠잠해지자 마자 서둘러 활동을 재개하고 나섰다.최근 김선호 소속사와 배급사 NEW에 따르면 김선호는 오는 12월 3일로 예정된 영화 '슬픈 열대'의 대본 리딩에 참석하는 것을 시작으로 활동을 다시 이어간다. '슬픈 열대'는 한국인 아버지와 필리핀 어머니를 둔]]></content>
     </entry>
 </feed>
