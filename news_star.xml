@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2021-11-21T17:17:34.399Z</updated>
+    <updated>2021-11-21T18:13:53.695Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['지리산' 주지훈, 이가섭 살인 환영 봤다]]></title>
+        <id>https://entertain.v.daum.net/v/20211122022807970</id>
+        <link href="https://entertain.v.daum.net/v/20211122022807970"/>
+        <updated>2021-11-21T18:13:48.282Z</updated>
+        <content type="html"><![CDATA[[티브이데일리 황서연 기자] '지리산'의 주지훈이 이가섭이 살인하는 예지 환영을 봤다. 21일 밤 방송한 tvN 토일드라마 '지리산'(극본 김은희·연출 이응복) 10회에서는 강현조(주지훈)가 김솔(이가섭)의 수상한 모습을 보게 되는 장면이 그려졌다. 이날 방송에서 2019년 과거, 강현조와 서이강(전지현)은 검은다리골에서 인터넷 방송을 하던 남자가 방송을]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['스우파' 제트썬 해명 재반박한 A씨 "마사지 내가 잠든 중에 해준 거냐"]]></title>
         <id>https://entertain.v.daum.net/v/20211122005209693</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211121230709109"/>
         <updated>2021-11-21T14:11:28.733Z</updated>
         <content type="html"><![CDATA[[티브이데일리 황서연 기자] 가야금 인간 문화재 문재숙이 딸 이하늬와 행복한 시간을 가졌다. 21일 밤 방송한 TV조선 예능프로그램 '스타다큐 마이웨이'에서는 문재숙이 딸 배우 이하늬, 오빠인 전 국회의원 문희상, 언니인 스타노래강사 문인숙 등과 함께 화기애애한 일상을 공개했다. 이날 방송에서 문재숙은 이하늬의 어린 시절 사진을 공개하며 딸을 키우던 시절을]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['슈돌' 김진우, 인형 같은 두 아이 단희·문호 공개.. "행복한 아빠"]]></title>
-        <id>https://entertain.v.daum.net/v/20211121230000071</id>
-        <link href="https://entertain.v.daum.net/v/20211121230000071"/>
-        <updated>2021-11-21T14:11:28.733Z</updated>
-        <content type="html"><![CDATA[[TV리포트=이혜미 기자] 배우 김진우가 ‘슈돌’을 통해 인형 같은 두 자녀 단희 양과 문호 군을 소개했다. 21일 방송된 KBS 2TV ‘슈돌’에선 김진우가 첫 출연해 육아 일상을 공개했다. 이날 김진우는 두 아이 ‘단호 남매’와 함께 카메라 앞에 섰다. 김진우는 세 살 딸 단희 양에 대해 “정말 예쁜 아이다. 곱고 단아하고 애교가 많다. 한편으론 와일드]]></content>
     </entry>
 </feed>
