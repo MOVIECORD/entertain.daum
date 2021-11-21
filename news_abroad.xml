@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2021-11-21T20:12:54.169Z</updated>
+    <updated>2021-11-21T21:10:50.995Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["불륜은 자기가 해놓고" 크리스틴 스튜어트, "나와 로버트 패틴슨은 어리석었다"]]></title>
+        <id>https://entertain.v.daum.net/v/20211122060006133</id>
+        <link href="https://entertain.v.daum.net/v/20211122060006133"/>
+        <updated>2021-11-21T21:10:50.399Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]최근 연상의 동성 연인과 약혼한 할리우드 스타 크리스틴 스튜어트(31)가 ‘트와일라잇’ 시절 사귀었던 로버트 패틴슨(35)을 오랜만에 소환했다. 영국 다이애나 왕세자비의 생애를 조명한 ‘스펜서’ 공개를 앞둔 크리스틴 스튜어트는 최근 뉴요커와 인터뷰에서 ‘트와일라잇’ 시리즈 촬영을 계기로 사귄 로버트 패틴슨에 대해 이야기했다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["진실 알면서도 말 안해" 스피어스, '꼬꼬마 친구' 아길레라 저격]]></title>
         <id>https://entertain.v.daum.net/v/20211121174326950</id>
@@ -32,12 +39,5 @@
         <link href="https://entertain.v.daum.net/v/20211121094821181"/>
         <updated>2021-11-21T01:57:33.213Z</updated>
         <content type="html"><![CDATA[[OSEN=최나영 기자] 이쯤되면&nbsp;미국 NBC의 간판 코미디 프로그램&nbsp;'SNL(Saturday&nbsp;Night Live)'은 사랑의 근원지다. 최근 몇 년간&nbsp;유명 여자 연예인들이 잇따라&nbsp;'SNL'에 출연하며 핑크빛 소식을 전한 것. 유머가&nbsp;넘치는 'SNL'은 여자연예인들에게 마성과도 같은 공간인 것일까. 'SNL' 출연을 계기로 제작진과 애정의 싹을 틔우거나 더]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["크리스티나 아길레라 침묵은 거짓말이야" 브리트니 스피어스, 친구 공개 저격]]></title>
-        <id>https://entertain.v.daum.net/v/20211121060009049</id>
-        <link href="https://entertain.v.daum.net/v/20211121060009049"/>
-        <updated>2021-11-20T21:10:42.971Z</updated>
-        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]13년만에 자유를 찾은 브리트니 스피어스(39)가 친구 크리스티나 아길레라(40)를 공개 저격했다. 크리스티나 아길레라는 지난 18일(현지시간) 미국 라스베이거스에서 열린 ‘라틴 그래미 어워즈’ 레드카펫에서 “브리트니 스피어스와 연락을 했느냐”는 질문을 받았다. 이때 아길레라의 홍보 담당자가 끼어들면서 “우리는 답하지 않을]]></content>
     </entry>
 </feed>
