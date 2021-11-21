@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2021-11-21T07:12:34.930Z</updated>
+    <updated>2021-11-21T08:14:50.196Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[박지성♥김민지, 포니그루밍→양궁..두 아이와 노마스크 런던여행]]></title>
+        <id>https://entertain.v.daum.net/v/20211121165510253</id>
+        <link href="https://entertain.v.daum.net/v/20211121165510253"/>
+        <updated>2021-11-21T08:14:45.520Z</updated>
+        <content type="html"><![CDATA[[OSEN=김나연 기자] 축구선수 박지성과 그의 아내 김민지가 가족 여행을 떠났다. 21일 김민지는&nbsp;자신의 유튜브 채널 '김민지의 만두랑'에 "붙잡고 싶은 아름다운 가을날, 가족여행 브이로그"라는 영상을 업로드 했다. 영상 속 김민지는&nbsp;남편 박지성, 아이들과 함께 런던에 있는 한&nbsp;호텔로 떠난 근황을 담았다. 그는 "친한 친구 가족과 함께 가을여행을 왔다"고]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[150억 대작 '지리산'의 진짜 문제, 김은희 세계관의 균열]]></title>
         <id>https://entertain.v.daum.net/v/20211121160117286</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211121121501774"/>
         <updated>2021-11-21T04:15:39.612Z</updated>
         <content type="html"><![CDATA[[김상화 기자] &nbsp;        ▲ &nbsp;지난 20일 방영된 MBC '놀면 뭐하니?'의 한 장면.    ⓒ MBC  &nbsp;&lt;놀면 뭐하니?&gt;의 2021년 연말 특집은 이번에도 음악 콘서트다. &nbsp;지난 20일 방영된 &lt;놀면 뭐하니?&gt;는 이달 초 진행된 일명 '도토리 라이브'와 더불어 12월 특집 공연 시작을 알리는 내용으로 준비되었다. 늘 그랬듯이 &lt;놀면 뭐하니?&gt;의]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['지리산' 고민시, 검은 장갑 진범에게 당했다]]></title>
-        <id>https://entertain.v.daum.net/v/20211121115433364</id>
-        <link href="https://entertain.v.daum.net/v/20211121115433364"/>
-        <updated>2021-11-21T03:12:52.951Z</updated>
-        <content type="html"><![CDATA[‘지리산’에서 고민시의 죽음과 함께 연쇄살인사건의 새로운 단서가 등장했다. 지난 20일 방송된 tvN 15주년 특별기획 ‘지리산’(극본 김은희/ 연출 이응복/ 제작 에이스토리, 스튜디오드래곤, 바람픽쳐스) 9회에서는 조대진(성동일 분)이 연쇄살인사건의 유력한 용의자로 떠올랐고, 미스터리한 비밀이 자리한 장소 검은다리골이 일련의 사건들과 연관된 단서로 떠]]></content>
     </entry>
 </feed>
