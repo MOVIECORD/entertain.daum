@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2021-11-21T03:12:57.438Z</updated>
+    <updated>2021-11-21T04:15:44.930Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['연애 빠진 로맨스' 손석구 "연애 로망은 없지만 결혼하고 싶어요"]]></title>
+        <id>https://entertain.v.daum.net/v/20211121131001426</id>
+        <link href="https://entertain.v.daum.net/v/20211121131001426"/>
+        <updated>2021-11-21T04:15:25.124Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 김미화 기자] 배우 손석구가 18일 오후 화상으로 진행된 영화 '연애 빠진 로맨스' 개봉 관련 인터뷰에 앞서 포즈를 취하고 있다.  손석구는 극 중 섹스칼럼을 쓰기 위해 사랑 없는 연애를 시도하는 우리 역을 맡았다.  '연애 빠진 로맨스'는 데이트 어플로 만난 남녀가 조금씩 서로에 대해 알아가게 되면서 벌어지는 일을 그린 이야기다. 오는 24일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['유체이탈자' 윤계상 "액션배우? 대역 없이 소화 했지만, 이제 44살이라 힘들다"]]></title>
         <id>https://entertain.v.daum.net/v/20211121120138627</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211121073820782"/>
         <updated>2021-11-20T23:12:58.710Z</updated>
         <content type="html"><![CDATA[[OSEN=김보라 기자]&nbsp;영화 ‘장르만 로맨스’가 박스오피스 1위를 차지했다. 21일 영화진흥위원회 영화관입장권 통합전산망 집계를 보면 전날 ‘장르만 로맨스’에 9만 3363명이 들어 일별 박스오피스 1위에 올랐다. ‘장르만 로맨스’(감독 조은지, 제공배급 NEW, 제작 비리프)는 평범하지 않은 로맨스로 얽힌 이들과 만나 일도 인생도 꼬여가는 베스트셀러 작]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['지헤중' 송혜교 흔든 장기용 한 마디 "보고 싶었어"..최고 10.4%]]></title>
-        <id>https://entertain.v.daum.net/v/20211121072710748</id>
-        <link href="https://entertain.v.daum.net/v/20211121072710748"/>
-        <updated>2021-11-20T23:12:58.712Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 김미화 기자] /사진='지금, 헤어지는 중입니다' 캡처 '지금, 헤어지는 중입니다' 장기용이 송혜교의 마음을 흔들었다. 지난 20일 방송된 SBS 금토드라마 '지금, 헤어지는 중입니다'(극본 제인·연출 이길복, 제작 삼화네트웍스, UAA, 이하 '지헤중') 4회는 수도권 기준 시청률 8.5%를 기록하며 금토드라마 및 동 시간대 전 채널 시청률 1]]></content>
     </entry>
 </feed>
