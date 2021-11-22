@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/variety</id>
     <title>다음 연예 ─ 뉴스 ─ 예능</title>
-    <updated>2021-11-22T09:13:09.321Z</updated>
+    <updated>2021-11-22T10:13:44.131Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[박지빈 "7살부터 배우 생활..스스로 족쇄 채운 기분"]]></title>
+        <id>https://entertain.v.daum.net/v/20211122190136480</id>
+        <link href="https://entertain.v.daum.net/v/20211122190136480"/>
+        <updated>2021-11-22T10:13:33.824Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 안윤지 기자] /사진=MBC에브리원 '나를 불러줘'배우 박지빈이 '나를 불러줘'에 출격한다. 오는 23일 방송되는 MBC 에브리원 '나를 불러줘'에는 박지빈이 여섯 번째 의뢰인으로 출연해 30살 박지빈에게 건네는 자서곡을 갖고 싶다고 고백한다. 7살 나이에 뮤지컬 '토미'의 황정민 아역으로 데뷔한 박지빈은 올해로 무려 데뷔 21년 차다. 귀엽고]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['이수 옹호' 김동완, 팬 99명에 고개 숙였다..내용 들어보니]]></title>
+        <id>https://entertain.v.daum.net/v/20211122181806691</id>
+        <link href="https://entertain.v.daum.net/v/20211122181806691"/>
+        <updated>2021-11-22T10:13:33.828Z</updated>
+        <content type="html"><![CDATA[[SBS연예뉴스 | 지나윤 에디터] 그룹 신화 멤버 김동완이 과거 미성년자 성매매로 기소유예 처분을 받은 가수 이수를 공개적으로 응원해 논란을 빚은 가운데, 팬 99명이 모인 자리에서 고개를 숙이며 직접 사과했습니다. 김동완은 어제(21일) 대면 행사 '김동완과 Talk Time'을 통해 팬 99명과 만났습니다. 행사가 끝난 후 소속사 측은 행사 내용을 담]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[송병철, 아슬아슬 수위로 통편집..어땠길래?]]></title>
         <id>https://entertain.v.daum.net/v/20211122174521813</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211122161836430"/>
         <updated>2021-11-22T08:16:15.387Z</updated>
         <content type="html"><![CDATA[[뉴스엔 이민지 기자] 성시경이 백종원을 '엄마'라 불렀다. 11월 22일 방송되는 KBS 2TV ‘백종원 클라쓰’에서는 글로벌 새내기들을 위한 백종원의 김치 담그기 야외 특강이 공개된다. 이날 백종원은 요리 초보자에겐 위험할 수 있는 채칼을 사용해 무를 써는 새내기들에게 "혼을 담아라" 하는 등 평소보다 엄격한 사부의 카리스마를 뿜어냈다. 그런가 하면]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['지옥' 넷플릭스 1위 데뷔..'K-드라마 이제 대세']]></title>
-        <id>https://entertain.v.daum.net/v/20211122161120176</id>
-        <link href="https://entertain.v.daum.net/v/20211122161120176"/>
-        <updated>2021-11-22T07:13:18.709Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 홍덕기 객원기자] K-드라마의 힘은 강했다. '오징어게임'에 이어 '지옥'이 세계 드라마 시장을 석권하면서 K-드라마의 위상이 높아가고 있다. 21일 OTT집계사이트 플릭스패트롤에 따르면 드라마 '지옥'(제작 클라이맥스스튜디오· 감독 연상호)이 공개 첫날 넷플릭스 드라마부문 글로벌 1위로 데뷔했다. 이는 글로벌 2위로 출발했던 '오징어게임'보다]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['리더의 연애' 문야엘♥김흥수, 수영장 데이트서 진한 스킨십]]></title>
-        <id>https://entertain.v.daum.net/v/20211122161028145</id>
-        <link href="https://entertain.v.daum.net/v/20211122161028145"/>
-        <updated>2021-11-22T07:13:18.709Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 이민지 기자] 문야엘, 김흥수 커플이 수영장 데이트를 즐긴다. 11월 22일 방송되는 채널 IHQ 예능프로그램 '리더의 연애'에서는 럭셔리 풀빌라에서 심야 수영장 데이트를 즐기는 문야엘, 김흥수 커플의 모습이 공개된다. 최근 진행된 녹화에서 두 사람은 로맨틱한 해변 데이트를 마치고, 아무도 없는 프라이빗한 풀빌라에서 수영장 데이트를 즐겼다. 특]]></content>
     </entry>
 </feed>
