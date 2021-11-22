@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2021-11-22T15:13:32.836Z</updated>
+    <updated>2021-11-22T16:19:52.510Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['아이돌' 곽시양, 이유진에 코튼캔디 방해 지시..안희연 분노]]></title>
+        <id>https://entertain.v.daum.net/v/20211123001624501</id>
+        <link href="https://entertain.v.daum.net/v/20211123001624501"/>
+        <updated>2021-11-22T16:19:38.991Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 여도경 기자] /사진=JTBC '아이돌 더 쿠데타' 방송화면 캡처'아이돌 더 쿠데타'의 곽시양이 이유진에게 코튼캔디를 방해하라고 지시했다. 22일 오후 방송된 JTBC 월화드라마 '아이돌 더 쿠데타'에서 제나(안희연 분)와 지한(김민규 분)이 열애설을 계획했다. 이날 지한이 "우리 열애설 내요. 날 이용해요"라고 하자 제나는 "내 부탁이 그거였어]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[황우슬혜·정수영·송아경·이나은 '맘블리 군단'이 떴다]]></title>
         <id>https://entertain.v.daum.net/v/20211123000201323</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211122224852906"/>
         <updated>2021-11-22T14:12:02.290Z</updated>
         <content type="html"><![CDATA[[스타뉴스 안윤지 기자] /사진=tvN '어사와 조이' 방송 캡처가수 겸 배우 옥택연이 위험 속에서 벗어났다. 22일 방송된 tvN 월화드라마 '어사와 조이'에서는 라이언(옥택연 분)과 박태서(이재균 분)의 대결이 그려졌다. 이날 박태서는 라이언을 향해 칼을 겨눴다. 라이언은 진검을 들고 "언젠가 목검이 아닌 진검을 들고 네 자신과 소중한 걸 지키는 날이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['연모' 박은빈, 로운 지키고자 왕위 올랐다.. "이젠 제 곁에 오시면 안 됩니다"]]></title>
-        <id>https://entertain.v.daum.net/v/20211122224801894</id>
-        <link href="https://entertain.v.daum.net/v/20211122224801894"/>
-        <updated>2021-11-22T14:12:02.291Z</updated>
-        <content type="html"><![CDATA[[TV리포트=이혜미 기자] 박은빈이 로운을 지키고자 왕좌를 받아들였다. 22일 방송된 KBS 2TV ‘연모’에선 정지운(로운 분)과의 약속을 뒤로하고 왕위에 오르는 이휘(박은빈 분)의 모습이 그려졌다. 앞서 정석조(배수빈 분)에 의해 중상을 입은 이휘는 정지운 앞에 맨몸을 드러내는 것으로 자신의 비밀을 알렸다. 이에 정지운은 큰 충격을 받으면서도 고통에 허]]></content>
     </entry>
 </feed>
