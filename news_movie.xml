@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2021-11-22T06:15:45.348Z</updated>
+    <updated>2021-11-22T07:13:30.043Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[유세윤 실화 다룬 '이상존재', 베일 벗는다]]></title>
+        <id>https://entertain.v.daum.net/v/20211122152702533</id>
+        <link href="https://entertain.v.daum.net/v/20211122152702533"/>
+        <updated>2021-11-22T07:13:08.328Z</updated>
+        <content type="html"><![CDATA[개그맨 유세윤을 둘러싼 초자연적 현상의 진실을 담은 영화 '이상존재'가 오늘(22일) 선공개 된다. 이날 오후 서울 건대입구 롯데시네마에서 미스터리 영화 ‘이상존재’의 언론배급시사회가 열린다. 이른 바, 유세윤의 실존 영상 미스터리를 표방한 영화는 그의 주변에서 일어나는 기이한 현상을 파헤치기 위한 15일간의 영상 기록물이다. 앞서 공개된 예고 영상 및]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['장르만 로맨스' 1위, 다큐 '너에게 가는 길' 매진]]></title>
         <id>https://entertain.v.daum.net/v/20211122150000488</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211122122622276"/>
         <updated>2021-11-22T04:15:51.472Z</updated>
         <content type="html"><![CDATA[(엑스포츠뉴스 이창규 기자) 배우 설경구와 이선균이 스타일리시한 정치 영화&nbsp;'킹메이커'로 관객들과 만날 준비를 마쳤다. 22일 오전 영화 '킹메이커'의 제작보고회가 온라인으로 진행됐다. 현장에는 배우 설경구와 이선균, 변성현 감독이 참석했다. '킹메이커'(감독 변성현)는 세상을 바꾸기 위해 도전하는 네 번 낙선한 정치인 김운범(설경구 분)과 존재도 이름도]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[설경구x이선균 '킹메이커', '불한당'이 만든 세련된 정치영화 12월말 대공개]]></title>
-        <id>https://entertain.v.daum.net/v/20211122121309053</id>
-        <link href="https://entertain.v.daum.net/v/20211122121309053"/>
-        <updated>2021-11-22T04:15:51.473Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 전형화 기자] 설경구와 이선균, 유재명, 조우진 등이 '불한당' 변성현 감독과 호흡을 맞춘 영화 '킹메이커'가 12월말 관객과 만난다. 22일 온라인으로 '킹메이커' 제작발표회가 진행됐다.  '킹메이커'는 세상을 바꾸기 위해 도전하는 네 번 낙선한 정치인 '김운범'과 존재도 이름도 숨겨진 선거 전략가 '서창대'가 치열한 선거판에 뛰어들며 시작되는]]></content>
     </entry>
 </feed>
