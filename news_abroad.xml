@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2021-11-22T16:19:52.507Z</updated>
+    <updated>2021-11-22T17:20:41.357Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[스칼렛 요한슨, 출산 3개월 만에 공식석상..과감한 패션 '감탄']]></title>
+        <id>https://entertain.v.daum.net/v/20211123013001744</id>
+        <link href="https://entertain.v.daum.net/v/20211123013001744"/>
+        <updated>2021-11-22T17:20:40.602Z</updated>
+        <content type="html"><![CDATA[할리우드 배우 스칼렛 요한슨이 출산 3개월 만에 공식석상에 모습을 드러냈다. 스칼렛 요한슨은 지난 18일(현지시간) 미국 로스앤젤레스(LA) 비벌리힐스 힐튼 힐튼 호텔에서 열린 '제35회 미국 시네마테크' 갈라 행사에 참석했다. 이날 스칼렛 요한슨은 '제35회 시네마테크상'을 수상하는 영예를 안았다. 지난 8월 둘째 아들 '코스모'를 낳은 스칼렛 요한슨은]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['동성 약혼' 크리스틴 스튜어트 "전남친과 난 어리석었다"]]></title>
         <id>https://entertain.v.daum.net/v/20211122194333042</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211122103746837"/>
         <updated>2021-11-22T01:56:20.689Z</updated>
         <content type="html"><![CDATA[[뉴스엔 황혜진 기자] 그룹 방탄소년단(RM, 진, 슈가, 제이홉, 지민, 뷔, 정국)이 'AMA' 트로피 수집을 시작했다. 방탄소년단은 11월 21일(이하 현지시간) 미국 로스앤젤레스 마이크로소프트 시어터에서 열린 대중음악 시상식 '2021 아메리칸 뮤직 어워드'(2021 American Music Awards, 이하 AMA)에서 '페이보릿 팝 듀오/그]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['양성애자' 크리스틴 스튜어트 "결혼할 것..오스카상 받고 싶다"]]></title>
-        <id>https://entertain.v.daum.net/v/20211122103003504</id>
-        <link href="https://entertain.v.daum.net/v/20211122103003504"/>
-        <updated>2021-11-22T01:56:20.689Z</updated>
-        <content type="html"><![CDATA[[OSEN=김보라 기자]&nbsp;영화 ‘스펜서’에 출연한 배우 크리스틴 스튜어트가 작품의 흥행에 대해 “감사하다”고 말했다. 21일(현지 시간) 크리스틴 스튜어트는 버라이어티 팟캐스트와의 인터뷰에서 “내가 참여한 작품이 관심을 받게 되어 정말 감사하다”라고 이같이 밝혔다.&nbsp; ‘스펜서’(감독 파블로 라라인)가 북미 개봉한 지 2주가 흐른 가운데 다이애나 공주 역할을]]></content>
     </entry>
 </feed>
