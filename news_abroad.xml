@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2021-11-22T22:12:47.762Z</updated>
+    <updated>2021-11-22T23:13:12.387Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['헝거게임' 제니퍼 로렌스, 전용기 엔진고장으로 죽을 뻔 "대머리 안되게 빌었다"]]></title>
+        <id>https://entertain.v.daum.net/v/20211123071727080</id>
+        <link href="https://entertain.v.daum.net/v/20211123071727080"/>
+        <updated>2021-11-22T23:13:11.704Z</updated>
+        <content type="html"><![CDATA[[OSEN=최나영 기자] 블록버스터 '헝거게임', '엑스맨' 시리즈 등으로 유명한 할리우드 배우 제니퍼 로렌스가&nbsp;그가 탔던 전용기가 이중 엔진 고장을 일으켰을 때 죽을 것이라 확신했다고 전했다. 로렌스는&nbsp;베니티 페어의 12월 커버를 장식하며 함께 진행한 인터뷰에서 이 같이 밝힌 것.&nbsp; 로렌스는&nbsp;2017년 전용기를 타고 고향인 미국 루이스빌에서 뉴욕으로 가던]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['빅 위너' 방탄소년단, 그래미만 남았다]]></title>
         <id>https://entertain.v.daum.net/v/20211123065725860</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211122111256593"/>
         <updated>2021-11-22T02:28:48.142Z</updated>
         <content type="html"><![CDATA[[뉴스엔 이민지 기자] 킴 카다시안의 새 남자친구로 알려진 피트 데이비슨이 화제다. 페이지식스을 비롯한 현지 매체들은 최근 킴 카다시안과 피트 데이비슨이 데이트 중이라고 보도했다. 킴 카다시안은 인기 예능 'SNL'에 출연해 피트 데이비슨과 연을 맺었다. 두 사람은 'SNL'에서 알라딘과 자스민을 연기하며 호흡을 맞췄다. 열애를 인정하진 않고 있으나]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[방탄소년단, 전설의 그룹 뉴키즈온더블록과 투샷 '주먹 인사까지']]></title>
-        <id>https://entertain.v.daum.net/v/20211122110122017</id>
-        <link href="https://entertain.v.daum.net/v/20211122110122017"/>
-        <updated>2021-11-22T02:28:48.142Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 황혜진 기자] 21세기 팝 아이콘으로 꼽히는 그룹 방탄소년단(RM, 진, 슈가, 제이홉, 지민, 뷔, 정국)이 또다른 전설의 그룹 뉴 키즈 온 더 블록(New Kids On The Block)의 단체사진이 공개됐다. 방탄소년단은 11월 21일(이하 현지시간) 미국 로스앤젤레스 마이크로소프트 시어터에서 개최된 대중음악 시상식 '2021 아메리칸 뮤]]></content>
     </entry>
 </feed>
