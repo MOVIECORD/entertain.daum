@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2021-11-22T07:13:30.034Z</updated>
+    <updated>2021-11-22T08:16:26.946Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[허광한 "'상견니' 사랑, 감사해요..마음 변치 않기를"]]></title>
+        <id>https://entertain.v.daum.net/v/20211122171431781</id>
+        <link href="https://entertain.v.daum.net/v/20211122171431781"/>
+        <updated>2021-11-22T08:16:26.221Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 김수정 인턴기자) 허광한이 한국 팬들에게 감사함을 전했다. 매거진 '데이즈드'가 장장 스물넷 페이지의 화보와 인터뷰를 통해 2021년 12월의 허광한을 기록했다. 타임슬립 드라마 '상견니'를 통해 한국에서도 자신의 존재감을 널리 알린 허광한은 인터뷰에서&nbsp;“'상견니' 방송 직후부터 한국 팬분들의 사랑을 많이 받았어요. 편지와 선물을 받은 적도]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['가정폭력 논란' 조니 뎁 '세기의 이혼' 다룬 다큐 나온다]]></title>
         <id>https://entertain.v.daum.net/v/20211122155435509</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211122085454675"/>
         <updated>2021-11-22T00:40:07.457Z</updated>
         <content type="html"><![CDATA[[뉴스엔 황혜진 기자] 그룹 방탄소년단(RM, 진, 슈가, 제이홉, 지민, 뷔, 정국)이 대중음악 시상식 '2021 아메리칸 뮤직 어워드'(2021 American Music Awards, 이하 AMA)에 등장했다. 방탄소년단은 11월 21일(이하 현지시간) 미국 로스앤젤레스 마이크로소프트 시어터에서 개최된 'AMA' 레드카펫 행사에 참석했다. 'AMA]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[제니퍼 로페즈, ♥︎벤 애플렉과 4번째 재혼하나.."여전히 결혼 믿어"]]></title>
-        <id>https://entertain.v.daum.net/v/20211122080044573</id>
-        <link href="https://entertain.v.daum.net/v/20211122080044573"/>
-        <updated>2021-11-21T23:12:50.532Z</updated>
-        <content type="html"><![CDATA[[OSEN=최나영 기자] 웨딩 플래너들은&nbsp;제니퍼 로페즈가 재혼을 할 것이라고 예상한다.&nbsp; 전 약혼자인 할리우드 배우 벤 애플렉과 지난 4월부터 다시 교제해온 할리우드 배우 겸 가수 제니퍼 로페즈가 3차례 이혼했음에도 불구,&nbsp;'투데이'와의 인터뷰에서 "여전히 결혼을 믿고 있다"라고 밝혔다. 그는 또 다시 결혼식장으로 향하는 것것이냐는 질문에는 "잘 모르겠다"]]></content>
     </entry>
 </feed>
