@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2021-11-23T00:39:45.271Z</updated>
+    <updated>2021-11-23T01:54:49.224Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["내가 키아누 리브스와 데이트 했다고?" 산드라 블록, "짝사랑 한 적은 있죠"]]></title>
+        <id>https://entertain.v.daum.net/v/20211123095300149</id>
+        <link href="https://entertain.v.daum.net/v/20211123095300149"/>
+        <updated>2021-11-23T01:54:48.462Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]할리우드 스타 산드라 블록(57)이 키아누 리브스(57)와의 데이트 루머에 대해 해명했다. 그는 오는 12월 7일 발간되는 ‘에스콰이어’와의 인터뷰에서 “키아누 리브스와 데이트를 한 적이 있느냐”는 질문에 “없다”고 말했다. 이어 “하지만 누가 알겠어요? 키아누 리브스는 사귀던 모든 여자들과 친구 같은 사람이에요. 그에 대]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[키아누 리브스, 알고보니 결혼했다?.."92년 위노나 라이더랑"]]></title>
         <id>https://entertain.v.daum.net/v/20211123091338583</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211122122623277"/>
         <updated>2021-11-22T04:16:07.984Z</updated>
         <content type="html"><![CDATA[[뉴스엔 황혜진 기자] 그룹 방탄소년단(RM, 진, 슈가, 제이홉, 지민, 뷔, 정국)이 2년 만에 대면 시상식에 참석했다. 4년 연속 수상, 특히 첫 미국 주요 시상식 대상의 기쁨도 누리며 '21세기 팝 아이콘' 위상을 증명했다. 11월 21일(이하 현지시간) 미국 로스앤젤레스 마이크로소프트 시어터에서 '2021 아메리칸 뮤직 어워드'(2021 Amer]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[방탄소년단, 콜드플레이와 첫 합동무대..2년만 대면공연에 감격]]></title>
-        <id>https://entertain.v.daum.net/v/20211122115634408</id>
-        <link href="https://entertain.v.daum.net/v/20211122115634408"/>
-        <updated>2021-11-22T03:13:09.834Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 황혜진 기자] 그룹 방탄소년단(RM, 진, 슈가, 제이홉, 지민, 뷔, 정국)이 2년 만에 감격의 대면 무대를 마쳤다. 방탄소년단은 11월 21일(이하 현지시간) 미국 로스앤젤레스 마이크로소프트 시어터에서 열린 대중음악 시상식 '2021 아메리칸 뮤직 어워드'(2021 American Music Awards, 이하 AMA) 무대에 올랐다. 방탄소]]></content>
     </entry>
 </feed>
