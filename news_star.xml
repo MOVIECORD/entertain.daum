@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2021-11-23T16:18:53.431Z</updated>
+    <updated>2021-11-23T17:18:06.960Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["버팀목·은인" 박신혜♥최태준, 1월 결혼+임신 직접 밝힌 이유]]></title>
+        <id>https://entertain.v.daum.net/v/20211124015446832</id>
+        <link href="https://entertain.v.daum.net/v/20211124015446832"/>
+        <updated>2021-11-23T17:18:01.216Z</updated>
+        <content type="html"><![CDATA[[OSEN=연휘선 기자]&nbsp;"긴 시간 저의 버팀목이 되어준", "은인 같은 사람입니다".&nbsp;공개 열애로 사랑을 키워온&nbsp;배우 박신혜와 최태준이 결혼과 임신을 동시에 발표했다. 23일 박신헤와 최태준은 각자 소속사를 통해 내년 1월 22일 서울 모처에서 결혼할 예정이라고 공식입장을 밝혔다. 갑작스러운 결혼 발표와 함께 박신혜가 현재 임신 초기라고도 고백해 놀라움을]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[장민호 "아이돌 활동 끝나고 수영 강사..어머님들 있는 오전반 이동"]]></title>
         <id>https://entertain.v.daum.net/v/20211124010711706</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211124000033205"/>
         <updated>2021-11-23T15:13:39.000Z</updated>
         <content type="html"><![CDATA[차기작 '사내 맞선'까지, 꾸준한 작품 활동으로 SBS 접수 [더팩트ㅣ김샛별 기자] "요즘 너무 행복해요." SBS '홍천기'(극본 하은, 연출 장태유)와 '원 더 우먼'(극본 김윤, 연출 최영훈), 올 한 해 벌써 두 작품에 연달아 출연했다. 뿐만 아니라 모두 두 자릿수 시청률을 기록하며 흥행에도 성공했다. 여기서 끝이 아니다. 일찌감치 차기작까지 결정]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['성덕' 송원석, 애드리브 자신감 얻은 비결은 바로 '이하늬'①]]></title>
-        <id>https://entertain.v.daum.net/v/20211124000017192</id>
-        <link href="https://entertain.v.daum.net/v/20211124000017192"/>
-        <updated>2021-11-23T15:13:39.005Z</updated>
-        <content type="html"><![CDATA[이하늬 열성팬 활약, 5년 만에 부부로 영광스런 재회 '인연' [더팩트ㅣ김샛별 기자] 비록 준비 과정은 어려웠을지 몰라도 덕분에 즐기면서 촬영에 임할 수 있었다. 그리고 좋은 결과까지 손에 쥐었다. 배우 송원석이다. 송원석은 최근 종영한 SBS 금토드라마 '원 더 우먼'(극본 김윤, 연출 최영훈)에서 한주그룹의 차남이자 유민그룹 막내딸 강미나(이하늬 분)]]></content>
     </entry>
 </feed>
