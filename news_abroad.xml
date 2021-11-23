@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2021-11-23T01:54:49.224Z</updated>
+    <updated>2021-11-23T02:27:01.051Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[키아누 리브스 "새로운 것 만드는 MCU, 합류한다면 영광일 것"]]></title>
+        <id>https://entertain.v.daum.net/v/20211123111846350</id>
+        <link href="https://entertain.v.daum.net/v/20211123111846350"/>
+        <updated>2021-11-23T02:27:00.387Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 이창규 기자) 할리우드 배우 키아누 리브스가 마블 시네마틱 유니버스(MCU) 합류 여부에 대한 의견을 밝혔다. 최근 키아누 리브스는 에스콰이어와의 인터뷰에서 MCU 합류 여부에 대한 질문에 "(MCU)는 우주보다 큰 세계관"이라고 답하며 "MCU에 합류한다면 영광일 것"이라고 밝혔다. 그는 "MCU에는 정말 훌륭한 감독들과 놀라운 비전을 가]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["내가 키아누 리브스와 데이트 했다고?" 산드라 블록, "짝사랑 한 적은 있죠"]]></title>
         <id>https://entertain.v.daum.net/v/20211123095300149</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211122125737863"/>
         <updated>2021-11-22T04:16:07.983Z</updated>
         <content type="html"><![CDATA[[뉴스엔 배효주 기자] 할리우드 배우 크리스틴 스튜어트가 마찬가지로 배우인 전 남친 로버트 패틴슨과의 관계에 대해 "어리석었다"고 회상했다. 영화 '스펜서'(감독 파블로 라라인) 개봉을 앞둔 크리스틴 스튜어트는 최근 외신 뉴요커와 인터뷰에서 전 연인이었던 로버트 패틴슨을 언급해 현지서 화제를 모았다. 영화 '트와일라잇' 시리즈에 출연한 두 사람은 지난]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["아미 덕분" 방탄소년단, 2년만 대면공연→데뷔 8년만 첫 美시상식 대상]]></title>
-        <id>https://entertain.v.daum.net/v/20211122122623277</id>
-        <link href="https://entertain.v.daum.net/v/20211122122623277"/>
-        <updated>2021-11-22T04:16:07.984Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 황혜진 기자] 그룹 방탄소년단(RM, 진, 슈가, 제이홉, 지민, 뷔, 정국)이 2년 만에 대면 시상식에 참석했다. 4년 연속 수상, 특히 첫 미국 주요 시상식 대상의 기쁨도 누리며 '21세기 팝 아이콘' 위상을 증명했다. 11월 21일(이하 현지시간) 미국 로스앤젤레스 마이크로소프트 시어터에서 '2021 아메리칸 뮤직 어워드'(2021 Amer]]></content>
     </entry>
 </feed>
