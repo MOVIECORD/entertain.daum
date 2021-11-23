@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2021-11-23T15:13:45.643Z</updated>
+    <updated>2021-11-23T16:18:53.430Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['어사와조이' 옥택연, 무심한 엿 선물→김혜윤 '두근'..로맨스 시작?]]></title>
+        <id>https://entertain.v.daum.net/v/20211124002506517</id>
+        <link href="https://entertain.v.daum.net/v/20211124002506517"/>
+        <updated>2021-11-23T16:18:38.492Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 이시연 기자] /사진= tvN '어사와 조이' 방송 화면'어사와 조이'에서 옥택연과 김혜윤이 함께 시간을 보내면서 서로에게 호감을 갖기 시작했다. 23일 오후 방송된 tvN 월화드라마 '어사와 조이'에서 라이언(옥택연 분)이 김조이(김혜윤 분)에게 엿을 선물하는 장면이 그려졌다. 이날 방송에서 라이언은 김조이와 함께 남사당패에 합류했다. 김조이는]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['어사와 조이' 김혜윤, 옥택연 엿 선물에 두근거림 느꼈다]]></title>
         <id>https://entertain.v.daum.net/v/20211123234331099</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211123202304168"/>
         <updated>2021-11-23T12:19:10.465Z</updated>
         <content type="html"><![CDATA['그림자 미녀'가 첫 공개부터 1020 세대의 취향을 저격했다. 지난 20일 첫 공개된 카카오TV 오리지널 '그림자 미녀'는 학교에선 왕따지만 SNS에서는 화려한 스타 '지니'로 살아가는 여고생 심달기(구애진)의 아슬아슬한 방과 후 이중생활을 그린 작품이다. 첫 공개부터 현실과 SNS 세계의 180도 다른 반전 이중생활 속에 미스터리, 서스펜스, 그리고]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['빨강구두' 황동규, 최영완에 최명길 살인 의혹 제기]]></title>
-        <id>https://entertain.v.daum.net/v/20211123200233698</id>
-        <link href="https://entertain.v.daum.net/v/20211123200233698"/>
-        <updated>2021-11-23T11:10:40.549Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 여도경 기자] /사진=KBS 2TV '빨강구두' 방송화면 캡처'빨강 구두'의 황동규가 최영완에게 최명길 살인 의획을 제기했다. 23일 오후 방송된 KBS 2TV 일일드라마 '빨강 구두'에서 권주형(황동주 분)이 민희경(최명길 분) 일기를 떠올렸다. 이날 권주형은 민희경이 일기에 자신의 어머니가 죽는 게 낫다고 한 것을 떠올리고 괴로워했다. 권주형]]></content>
     </entry>
 </feed>
