@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2021-11-23T03:13:19.039Z</updated>
+    <updated>2021-11-23T04:16:01.504Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이선균이 전한 #Dr. 브레인 #'기생충' 이후 K-콘텐츠 # 애플TV+]]></title>
+        <id>https://entertain.v.daum.net/v/20211123122703727</id>
+        <link href="https://entertain.v.daum.net/v/20211123122703727"/>
+        <updated>2021-11-23T04:15:46.587Z</updated>
+        <content type="html"><![CDATA[글로벌 OTT(온라인 동영상 스트리밍 서비스) 플랫폼인 애플TV+의 첫 한국 오리지널 시리즈 주인공으로 이선균이 도장을 찍었다. 지난 4일 공개된 애플TV+의 첫 한국 오리지널 시리즈 ‘Dr. 브레인’은 홍작가의 동명 웹툰을 원작으로 한 SF 스릴러 시리즈로, 천재 뇌 과학자가 죽은 사람의 뇌에 접속하며 벌어지는 일들을 그린 작품이다. 이선균은 타인의 감정]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['옷소매' EP "좋은 성과로 MBC 분위기 고무적, 명품 드라마 위해 최선"]]></title>
         <id>https://entertain.v.daum.net/v/20211123121100406</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211123103934352"/>
         <updated>2021-11-23T01:54:34.626Z</updated>
         <content type="html"><![CDATA[[스타뉴스 이경호 기자]  KBS 2TV 월화드라마 '연모'./사진=이야기사냥꾼, 몬스터유니온'연모'가 시청률 두 자릿수를 기록하며, 2021 KBS 사극 불패 릴레이를 이어갔다. KBS 2TV 월화드라마 '연모'(극본 한희정, 연출 송현욱·이현석, 제작 아크미디어·몬스터유니온. 총 20회)는 쌍둥이로 태어나 여아라는 이유만으로 버려졌던 아이가 오라비 세]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['엉클' 오정세X이경훈 무슨 일? 편의점 앞 초라한 행색]]></title>
-        <id>https://entertain.v.daum.net/v/20211123103402076</id>
-        <link href="https://entertain.v.daum.net/v/20211123103402076"/>
-        <updated>2021-11-23T01:54:34.626Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 김명미 기자] ‘엉클’ 오정세와 이경훈이 세상 초라한 행색으로 편의점 앞에 앉아있는 ‘초췌 몰골 투샷’ 현장이 공개됐다. 오는 12월 11일 오후 9시 첫 방송 되는 TV CHOSUN 새 토일미니시리즈 ‘엉클’(연출 지영수/극본 박지숙/제작 하이그라운드, 몬스터유니온)은 누나의 청천벽력 이혼으로 얼떨결에 초딩 조카를 떠맡은 쓰레기 루저 뮤지션 삼]]></content>
     </entry>
 </feed>
