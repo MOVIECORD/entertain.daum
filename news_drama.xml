@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2021-11-24T01:55:30.355Z</updated>
+    <updated>2021-11-24T02:27:46.241Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[로운, '연모'로 배우 입지 단단.."로운을 연모합니다"]]></title>
+        <id>https://entertain.v.daum.net/v/20211124111952238</id>
+        <link href="https://entertain.v.daum.net/v/20211124111952238"/>
+        <updated>2021-11-24T02:27:31.255Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 이경호 기자] KBS 2TV 월화드라마 '연모'의 로운/사진제공=이야기사냥꾼, 몬스터유니온"로운을 연모합니다" '연모'에서 주연을 맡은 로운이 시청자들을 매료시키고 있다. 로운은 KBS 2TV 월화드라마 '연모'(총 20회. 연출 송현욱·이현석, 극본 한희정, 제작 아크미디어·몬스터유니온)에서 왕세자 스승 정지운 역을 맡아, 매회 설렘 유발 연]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['해피니스' 백현진·배해선·정민성, 변수로 떠오른 현실 빌런]]></title>
         <id>https://entertain.v.daum.net/v/20211124104959923</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211124101825569"/>
         <updated>2021-11-24T01:55:13.856Z</updated>
         <content type="html"><![CDATA[[뉴스엔 배효주 기자] ‘공작도시’가 파국으로 치닫는 혼돈의 도시를 담은 3차 티저 영상을 공개했다. 12월 8일 오후 10시 30분 방송될 JTBC 새 수목드라마 ‘공작도시’(극본 손세동/ 연출 전창근/ 제작 하이스토리디앤씨, JTBC스튜디오)는 대한민국 정재계를 쥐고 흔드는 성진그룹의 미술관을 배경으로, 대한민국 가장 높은 자리에 오르고자 하는 여자들]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['악의마음을읽는자들' 김남길X진선규X김소진 '첫 호흡부터 완벽, 연기 美쳤다']]></title>
-        <id>https://entertain.v.daum.net/v/20211124100608018</id>
-        <link href="https://entertain.v.daum.net/v/20211124100608018"/>
-        <updated>2021-11-24T01:55:13.857Z</updated>
-        <content type="html"><![CDATA[[OSEN=박판석 기자]&nbsp;‘악의 마음을 읽는 자들’&nbsp;2022년 우리가 꼭 봐야 할 드라마가 온다. 2022년 방송 예정인&nbsp;SBS&nbsp;새 드라마&nbsp;‘악의 마음을 읽는 자들’(극본 설이나/연출 박보람/제작 스튜디오S)은 동기 없는 살인이 급증하던 시절,&nbsp;악의 정점에 선 연쇄살인범들의 마음속을 치열하게 들여다봐야만 했던 대한민국 최초 프로파일러의 이야기를 다룬 드라마]]></content>
     </entry>
 </feed>
