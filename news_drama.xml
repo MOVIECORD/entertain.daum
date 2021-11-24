@@ -2,18 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2021-11-24T15:13:28.960Z</updated>
+    <updated>2021-11-24T16:18:38.070Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김요한X조이현, 18세 청춘들의 풋풋함 "다시 한 번 뽀뽀 해보든가"]]></title>
+        <id>https://entertain.v.daum.net/v/20211125002103008</id>
+        <link href="https://entertain.v.daum.net/v/20211125002103008"/>
+        <updated>2021-11-24T16:18:22.802Z</updated>
+        <content type="html"><![CDATA[[OSEN=박근희 기자] '학교 2021’ 김요한이 조이현에게 다시 뽀뽀를 해보라고 말했다. 24일 오후 방송된 KBS2 ‘학교 2021(연출 김민태·홍은미 감독, 극본 조아라·동희선 작가)’에서는&nbsp; 공기준(김요한 분)과 진지원(조이현 분)의 눌지과학기술고등학교에서의 모습이 그려졌다. 도제반 지원자를 모집한다는 말에 공기준과 진지원이 손을 들었다. 진지원은]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['너닮사' 김재영, 기억 찾아..고현정에 집착 "나 좀 사랑해줘"]]></title>
         <id>https://entertain.v.daum.net/v/20211125000939934</id>
         <link href="https://entertain.v.daum.net/v/20211125000939934"/>
         <updated>2021-11-24T15:13:14.061Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 여도경 기자] /사진=JTBC '너를 닮은 사람' 방송화면 캡처 '너를 닮은 사람'의 김재영이 기억을 찾은 후 고현정에 집착했다. 24일 오후 방송된 JTBC 수목드라마 '너를 닮은 사람'에서 박영선(김보연 분)이 정희주(고현정 분)에게 안호수(김동하 분)가 누구 아들이냐고 추궁했다. 이날 박영선이 보호자 칸에 서우재(김재영 분) 이름이 적힌 출]]></content>
+        <content type="html"><![CDATA[[스타뉴스 여도경 기자] /사진=JTBC '너를 닮은 사람' 방송화면 캡처 '너를 닮은 사람'의 김재영이 기억을 찾은 후 고현정에 집착했다. 24일 오후 방송된 JTBC 수목드라마 '너를 닮은 사람'에서 박영선(김보연 분)이 며느리 정희주(고현정 분)에게 손자 안호수(김동하 분)가 누구 아들이냐고 추궁했다. 이날 박영선이 보호자 칸에 서우재(김재영 분) 이]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA['멜랑꼴리아' 이도현, 임수정에 빗속 고백..우다비 특혜 논란에 폭주]]></title>
+        <title type="html"><![CDATA['멜랑꼴리아' 이도현, 임수정에 빗속 고백..우다비, 특혜 논란에 폭주]]></title>
         <id>https://entertain.v.daum.net/v/20211124235521686</id>
         <link href="https://entertain.v.daum.net/v/20211124235521686"/>
         <updated>2021-11-24T15:13:14.064Z</updated>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211124202900595"/>
         <updated>2021-11-24T12:19:28.110Z</updated>
         <content type="html"><![CDATA[[TV리포트=이혜미 기자] 황동주와 소이현에 의해 사면초가에 놓인 최명길이 사무실에 설치된 도청기를 찾아내는데 성공했다. 24일 방송된 KBS 2TV ‘빨강구두’에선 도청탐지 전문가를 통해 사무실에 숨겨진 도청기를 찾아내는 희경(최명길 분)의 모습이 그려졌다. 이날 주형(황동주 분)의 주장대로 희경이 주형 모와 금순(서권순 분)을 살해했다고 확신하는 수연(]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['빨강구두' 최영완, 선우재덕에 "최명길이 엄마 죽여"]]></title>
-        <id>https://entertain.v.daum.net/v/20211124200252234</id>
-        <link href="https://entertain.v.daum.net/v/20211124200252234"/>
-        <updated>2021-11-24T11:10:18.009Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 여도경 기자] '빨강 구두'의 최영완이 어머니를 죽인 장본인으로 최명길을 의심했다. 24일 오후 방송된 KBS 2TV 일일드라마 '빨강 구두'에서 권혁상(선우재덕 분)이 동생 권수연(최영완 분)을 찾아갔다. 이날 권혁상은 어머니의 살해 의혹을 제기하는 권수연에게 "있지도 않은 증거로 모함하지마"라고 말했다. 권수연은 "자기 딸을 죽이려던 사람이]]></content>
     </entry>
 </feed>
