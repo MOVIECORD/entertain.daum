@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2021-11-24T12:19:44.749Z</updated>
+    <updated>2021-11-24T13:19:56.853Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['학교 2021' 김요한vs조이현, 도제반 들어가기 위해 신경전 "네가 무슨"]]></title>
+        <id>https://entertain.v.daum.net/v/20211124220601984</id>
+        <link href="https://entertain.v.daum.net/v/20211124220601984"/>
+        <updated>2021-11-24T13:19:40.155Z</updated>
+        <content type="html"><![CDATA[‘학교 2021’ 김요한과 조이현이 자리를 두고 말다툼을 했다. 24일 오후 방송된 KBS 2TV 수목드라마 ‘학교 2021’에서는 공기준(김요한 분)과 진지원(조이현 분)이 신경전을 벌였다. 이날 도제반 모집을 두고 공기준과 진지원은 신경전을 펼쳤다. 진지원은 “공기준, 네가 무슨 도제반을 해 뭔지도 모르면서”라고 발끈했다. 공기준은 “왜 난 하면 안되]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['빨강구두' 최명길, 구두 디자인 뺏겼다..도청기 발견]]></title>
         <id>https://entertain.v.daum.net/v/20211124203110642</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211124171839435"/>
         <updated>2021-11-24T09:12:55.841Z</updated>
         <content type="html"><![CDATA[[스타뉴스 윤성열 기자] /사진제공=어썸이엔티 신예 배우 김예지가 '학교 2021'에 합류한다. 24일 소속사 어썸이엔티에 따르면 김예지는 KBS 2TV 새 수목드라마 '학교 2021'(극본 조아라·동희선, 연출 김민태·홍은미) 출연을 확정했다. '학교 2021'은 입시 경쟁이 아닌 다른 길을 선택한 아이들, 모호한 경계에 놓인 열여덟 청춘들의 꿈과 우정]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김요한→조이현 '학교2021', 우여곡절 딛고 명성 이을까]]></title>
-        <id>https://entertain.v.daum.net/v/20211124171800389</id>
-        <link href="https://entertain.v.daum.net/v/20211124171800389"/>
-        <updated>2021-11-24T09:12:55.841Z</updated>
-        <content type="html"><![CDATA[‘학교2021’(사진=KBS)[이데일리 스타in 김가영 기자] 우여곡절을 딛고 탄생하는 ‘학교2021’가 KBS 학교 시리즈의 명성을 이을까. 24일 오후 온라인으로 생중계된 KBS2 ‘학교2021’ 제작발표회에는 김민태 PD, 김요한, 조이현, 추영우, 황보름별, 전석호가 참석했다. ‘학교 2021’은 1999년 시작된 KBS 학원물인 ‘학교 시리즈’를]]></content>
     </entry>
 </feed>
