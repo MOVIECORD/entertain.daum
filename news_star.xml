@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2021-11-25T16:18:16.001Z</updated>
+    <updated>2021-11-25T17:19:11.648Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[한지은 화보, 블랙 원피스 속 훅 파인 등+완벽한 S라인]]></title>
+        <id>https://entertain.v.daum.net/v/20211126020235629</id>
+        <link href="https://entertain.v.daum.net/v/20211126020235629"/>
+        <updated>2021-11-25T17:19:06.625Z</updated>
+        <content type="html"><![CDATA[싱글즈가 배우 한지은의 매혹적인 눈빛과 치명적인 매력이 돋보이는 비주얼 화보를 공개했다. 러블리한 이미지를 벗어나 치명적인 분위기를 발산하며 등장한 한지은은 이번 촬영에서 시크하고 고혹적인 콘셉트를 여유 있게 소화하며 반전 매력을 뽐냈다. 특히, 그는 카메라를 응시한 채 흔들림 없는 눈빛과 표정만으로도 매혹적인 분위기를 자아내 모든 스태프들이 감탄을]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[고스트나인 손준형, 강렬한 카리스마]]></title>
         <id>https://entertain.v.daum.net/v/20211126010015463</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211126000016966"/>
         <updated>2021-11-25T15:13:32.716Z</updated>
         <content type="html"><![CDATA[기사내용 요약 오늘 오후 6시 정규 11집 '영원한 사랑' 발매 [서울=뉴시스]이재훈 기자 = "영원히 사랑할 거라고 말해줘. 어떤 외로움들은 거짓으로만 위로되니까." "사랑한다 말해줘, 영원히 사랑할 거라고. 어떤 외로움들은 혼자 삭이기 힘드니까." 두 문장의 뉘앙스 차이는 무엇일까. 1년가량의 작성 시차도 있다. 앞 문장은 작년 밴드 '자우림'의 보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["뜯어고쳤나?" 공효진, 죽도서 인지도 굴욕→대기업과 협업 청신호]]></title>
-        <id>https://entertain.v.daum.net/v/20211125235958938</id>
-        <link href="https://entertain.v.daum.net/v/20211125235958938"/>
-        <updated>2021-11-25T15:13:32.717Z</updated>
-        <content type="html"><![CDATA[[스포츠조선닷컴 이게은기자] '오늘부터 무해하게' 팀이 대기업과 손을 잡았다. 25일 방송하는 KBS2 환경 예능 프로그램 '오늘부터 무해하게'에서는 배우 공효진, 이천희, 전혜진의 탄소 제로 생활 도전기가 전파를 탔다. 공효진은 자전거를 타고 가다가 갑오징어를 다듬는 부녀회장님 보고 "그게 갑오징어예요?라며 인사를 건넸다. 부녀회장님은 "많]]></content>
     </entry>
 </feed>
