@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2021-11-25T04:16:27.042Z</updated>
+    <updated>2021-11-25T05:12:12.470Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[보그 편집장 "0사이즈 마른 모델들? NO..요즘 모델들은 먹어"]]></title>
+        <id>https://entertain.v.daum.net/v/20211125133853104</id>
+        <link href="https://entertain.v.daum.net/v/20211125133853104"/>
+        <updated>2021-11-25T05:12:11.846Z</updated>
+        <content type="html"><![CDATA[[OSEN=최나영 기자] 패션 업계는 갈 길이 멀긴 하지만 적어도&nbsp;&nbsp;방향을 바꾸고 있다. 영국 보그지의 편집장 에드워드 에닌풀(Edward Enninful, 49)은 모델들이 실제로 음식을 먹으며 1990년대 표준처럼 날씬하지 않다고 최근 '리버 카페 테이블4' 팟캐스트에 출연해 말했다. 그는 "패션 피플들이 먹지 않는다는 잘못된 인식이 있지만 이는 사실이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[졸리 딸 샤일로, 모델 데뷔하나? 미모 보니 브래드 피트 붕어빵]]></title>
         <id>https://entertain.v.daum.net/v/20211125125240772</id>
@@ -46,12 +53,5 @@
         <link href="https://entertain.v.daum.net/v/20211124153246339"/>
         <updated>2021-11-24T07:12:57.077Z</updated>
         <content type="html"><![CDATA[(엑스포츠뉴스 이창규 기자) 동성 배우와 미성년자를 성추행한 혐의로 활동을 중단했던 케빈 스페이시가 넷플릭스 오리지널 시리즈 '하우스 오브 카드'의 제작사에 막대한 배상금을 물게 됐다. 23일(현지시간) 영국 BBC는&nbsp;케빈 스페이시가 자신의 성추문으로 막대한 손실을 입은 제작사 미디어라이츠캐피털(MRC)에 3100만달러(한화 약 370억원)를 배상하게 됐]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['매트릭스4' 중국 검열 통과..中 올해 최후의 외화]]></title>
-        <id>https://entertain.v.daum.net/v/20211124135304173</id>
-        <link href="https://entertain.v.daum.net/v/20211124135304173"/>
-        <updated>2021-11-24T05:11:52.456Z</updated>
-        <content type="html"><![CDATA['샹치'도 뚫지 못한 벽을 '매트릭스'가 뚫었다. 22일(현지시간) 미국 영화 전문 매체 할리우드리포터에 따르면 '매트릭스' 시리즈의 네 번째 작품인 '매트릭스: 리저렉션(라나 워쇼스키 감독)'이 중국 당국의 검열을 통과했다. 12월 22일 미국 개봉을 앞두고 있는 해당 영화는 중국 개봉 날짜를 조율하고 있는 것으로 알려졌다. 앞서 마블 영화인 '샹치]]></content>
     </entry>
 </feed>
