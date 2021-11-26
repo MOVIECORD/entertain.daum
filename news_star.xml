@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2021-11-26T18:14:48.966Z</updated>
+    <updated>2021-11-26T19:10:32.642Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['더솔져스' 홍범석, 개인 미션 최강자 등극..글로벌 팀장들의 팀 매칭 예고]]></title>
+        <id>https://entertain.v.daum.net/v/20211127033000676</id>
+        <link href="https://entertain.v.daum.net/v/20211127033000676"/>
+        <updated>2021-11-26T19:10:27.773Z</updated>
+        <content type="html"><![CDATA[[SBS연예뉴스 | 김효정 에디터] 707 홍범석이 개인 미션 최강자에 등극했다. 26일 방송된 SBS '더솔져스'에서는 첫 번째 탈락자 후보 선정을 위한 장애물 달리기가 펼쳐졌다. 이날 방송에서 요원들은 총 8단계에 걸친 장애물 달리기에 도전했다. 전체 요원들 중 1위를 차지한 것은 707 홍범석 대원이었다. 그는 "우리나라 대표하는 특수 대원들이 모인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[FNC 측 "SF9 로운, 바빠서 백신 미접종..완료할 예정"]]></title>
         <id>https://entertain.v.daum.net/v/20211127025002449</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211127001122032"/>
         <updated>2021-11-26T15:13:23.610Z</updated>
         <content type="html"><![CDATA[[티브이데일리 황서연 기자] 배우 전미도와 정문성이 뮤지컬 '어쩌면 해피엔딩' 속 한 장면을 완벽히 그려냈다. 안은진 등 '찐팬'들은 환호했다. 26일 저녁 방송된 tvN 예능프로그램 '슬기로운 산촌생활'에서는 멤버들이 산촌에 모여 '슬기로운 의사생활2' 마지막 회를 함께 시청하는 모습이 그려졌다. 안은진 정문성이 99즈와 함께했다. 저녁을 먹고 드라마 시]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['모가디슈', 청룡영화상 주인공..설경구·문소리, 남녀주연상]]></title>
-        <id>https://entertain.v.daum.net/v/20211127000630007</id>
-        <link href="https://entertain.v.daum.net/v/20211127000630007"/>
-        <updated>2021-11-26T15:13:23.613Z</updated>
-        <content type="html"><![CDATA[[Dispatch=송수민기자] 영화 '모가디슈'가 2021 청룡영화상의 주인공이 됐다. 최우수 작품상을 포함해 6개 트로피를 가져갔다. 제 42회 청룡영화상이 26일 오후 8시 30분 여의도 KBS홀에서 열렸다. 배우 김혜수와 유연석이 진행자로 나섰다.&nbsp;총 18개 부문에 걸쳐 수상이 이루어졌다. 가장 많이 호명된 영화는 ‘모가디슈’였다. 최우수 작품상, 감]]></content>
     </entry>
 </feed>
