@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2021-11-26T17:19:00.466Z</updated>
+    <updated>2021-11-26T18:14:48.966Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[FNC 측 "SF9 로운, 바빠서 백신 미접종..완료할 예정"]]></title>
+        <id>https://entertain.v.daum.net/v/20211127025002449</id>
+        <link href="https://entertain.v.daum.net/v/20211127025002449"/>
+        <updated>2021-11-26T18:14:43.128Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 하지원 기자) SF9 로운이 코로나19 백신 접종을 빠른 시일 내에 완료하겠다고 밝혔다. FNC엔터테인먼트는 26일 SF9 공식 SNS를 통해 “로운은 백신 예약 완료 상태였으나, 드라마 방영 일정상 스케줄 조정이 불가피하여 아직 접종을 완료하지 못한 상황이다. 접종 가능하도록 일정 조율 중에 있으며 빠른 시일 내에 접종 완료할 예정”이라고]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['옷소매' 이세영, 이준호에 "평생 지켜드리겠습니다"]]></title>
         <id>https://entertain.v.daum.net/v/20211127012322349</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211127000630007"/>
         <updated>2021-11-26T15:13:23.613Z</updated>
         <content type="html"><![CDATA[[Dispatch=송수민기자] 영화 '모가디슈'가 2021 청룡영화상의 주인공이 됐다. 최우수 작품상을 포함해 6개 트로피를 가져갔다. 제 42회 청룡영화상이 26일 오후 8시 30분 여의도 KBS홀에서 열렸다. 배우 김혜수와 유연석이 진행자로 나섰다.&nbsp;총 18개 부문에 걸쳐 수상이 이루어졌다. 가장 많이 호명된 영화는 ‘모가디슈’였다. 최우수 작품상, 감]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["댄스 붐 왔는데.." 모니카 저격 논란에 '찬물']]></title>
-        <id>https://entertain.v.daum.net/v/20211127000105958</id>
-        <link href="https://entertain.v.daum.net/v/20211127000105958"/>
-        <updated>2021-11-26T15:13:23.615Z</updated>
-        <content type="html"><![CDATA['야생돌', 종영 2회 앞두고 코로나19로 촬영 중단 사태 [더팩트ㅣ이한림 기자] 국내 스트릿 댄서들이 Mnet '스트리트 우먼 파이터'(이하 '스우파') 방송 이후 대중들의 주목을 받고 있는 가운데, 댄서 모니카가 일부 댄서들에게 집단 저격을 받아 논란이 이어지고 있습니다. MBC 예능 프로그램 '야생돌' 촬영장에서는 제작진을 포함해 7명의 코로나19]]></content>
     </entry>
 </feed>
