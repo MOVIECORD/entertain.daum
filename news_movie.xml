@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2021-11-27T01:53:14.917Z</updated>
+    <updated>2021-11-27T02:28:13.253Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['새댁' 이연희, 블랙 드레스로 뽐낸 반전 뒤태 | 제42회 청룡영화상 레드카펫]]></title>
+        <id>https://entertain.v.daum.net/v/20211127110003043</id>
+        <link href="https://entertain.v.daum.net/v/20211127110003043"/>
+        <updated>2021-11-27T02:27:54.106Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 박지영 기자)&nbsp;26일 오후 서울 여의도 KBS홀에서 열린 '제42회 청룡영화상'에 참석한 배우 이연희가 레드카펫을 걷고 있다. 박지영 기자 jypark@xportsnews.com]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이정재·정우성 "우린 깐부, 손잡고 나와야 하나"..화면 꽉 채운 우정]]></title>
         <id>https://entertain.v.daum.net/v/20211127105002949</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211127080314078"/>
         <updated>2021-11-26T23:12:20.224Z</updated>
         <content type="html"><![CDATA[“후배들을 보며 느끼는 게 정말 많았어요. 저는 경력만 선배였더라고요. 그동안 성장을 멈춘 내 자신을 되돌아보게 됐어요. 자책도 하고...많이 배웠죠. 그래서 더 행복했어요.” (인터뷰①에 이어) 배우 김현주(45)가 ‘지옥’을 통해 새로운 도전에 성공했다. 처음 접하는 장르, 액션 그리고 캐릭터까지. 쏟아지는 호평에도 연신 겸손함을 잃지 않던 그는 후배]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['지옥' 김현주 "K-신드롬 당연..'월드스타'는 아직"]]></title>
-        <id>https://entertain.v.daum.net/v/20211127080312076</id>
-        <link href="https://entertain.v.daum.net/v/20211127080312076"/>
-        <updated>2021-11-26T23:12:20.226Z</updated>
-        <content type="html"><![CDATA[“월드 스타요? 전 세계에서 ‘지옥’이 좋은 결과를 낳고 있지만 아직 직접적으로 체감하긴 어려워요.(웃음) 한국 콘텐츠에 대한 뜨거운 관심과 호응은 오랜 기간 많은 사람들이 한 마음으로 정진해온 당연한 결과라고 생각고요. 개인적으로는 ‘새로운 도전의 기회가 좀 더 많아지지 않을까?’라는 기대감이 있어요. 그거면 충분하죠.(웃음)” ‘믿고 보는 배우’ 김]]></content>
     </entry>
 </feed>
