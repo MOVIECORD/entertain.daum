@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2021-11-28T05:11:04.626Z</updated>
+    <updated>2021-11-28T06:15:26.679Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['유체이탈자' 윤재근 감독 "윤계상에 자극 받았다..인품도 훌륭"]]></title>
+        <id>https://entertain.v.daum.net/v/20211128150009532</id>
+        <link href="https://entertain.v.daum.net/v/20211128150009532"/>
+        <updated>2021-11-28T06:15:04.464Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 김미화 기자] 윤재근 감독 /사진=에이비오 엔터테인먼트영화 '유체이탈자'가 실감나는 액션으로 극장을 찾았다. '유체이탈자'는 기억을 잃은 채 12시간마다 다른 사람의 몸에서 깨어나는 한 남자가 모두의 표적이 된 진짜 자신을 찾기 위해 사투를 벌이는 영화. 윤계상이 자신을 추적하는 남자 강이안 역을 맡아 1인7역을 소화했다. 박용우가 그를 쫓는 국]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['유체이탈자' 박용우 "뜨거웠던 현장..윤계상에게 많이 배웠다"]]></title>
         <id>https://entertain.v.daum.net/v/20211128120011182</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211128000042238"/>
         <updated>2021-11-27T15:12:08.788Z</updated>
         <content type="html"><![CDATA['고스트버스터즈'·'매트릭스'·'웨스트 사이드 스토리' 재탄생&nbsp; [더팩트｜원세나 기자] 뉴트로(Newtro). 새로움(New)과 복고(Retro)를 합친 신조어로 복고를 새롭게 즐기는 경향을 말한다. 뉴트로 콘셉트의 화제작들이 겨울 극장가를 사로잡을 예정이다. 현대적 감각을 더해 다시 태어난 작품들로 영화 팬들은 과거 추억을 떠올림과 동시에 색다른 자극과]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['연애 빠진 로맨스' 전종서X손석구, 연인→친구 관객 사로잡은 비결]]></title>
-        <id>https://entertain.v.daum.net/v/20211127183325377</id>
-        <link href="https://entertain.v.daum.net/v/20211127183325377"/>
-        <updated>2021-11-27T10:12:56.576Z</updated>
-        <content type="html"><![CDATA[[OSEN=김보라 기자]&nbsp;공감을 자극하는 신선한 로맨스와 대세 배우들의 유쾌한 케미스트리로 뜨거운 호평을 불러일으키고 있는 영화 '연애 빠진 로맨스'를 향한 관람 유형별 관객들의 생생한 극찬이 이어지고 있다. #연인 관객. 공감대 높이는 현실 로맨스에 푹 빠졌다 '연애 빠진 로맨스'(감독 정가영, 배급 CJ ENM, 제작 트웰브져니)는 연애는 싫지만 외로운]]></content>
     </entry>
 </feed>
