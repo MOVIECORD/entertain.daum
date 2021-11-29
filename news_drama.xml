@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2021-11-29T09:13:30.379Z</updated>
+    <updated>2021-11-29T10:13:59.497Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[임시완X고아성→손현주X박용우 맹활약]]></title>
+        <id>https://entertain.v.daum.net/v/20211129184746827</id>
+        <link href="https://entertain.v.daum.net/v/20211129184746827"/>
+        <updated>2021-11-29T10:13:42.550Z</updated>
+        <content type="html"><![CDATA[[동아닷컴]       웨이브 새로운 오리지널 드라마 ‘트레이서’(극본 김현정 연출 이승영)가 국가 공인 전문가 ‘트레이서’들의 활약을 예고하는 스틸 컷 12종을 공개했다. ‘트레이서’는 누군가에겐 판검사보다 무서운 곳 국세청, 일명 ‘쓰레기 하치장’이라 불리는 조세 5국에 굴러온 독한 놈의 물불 안 가리는 활약을 그린 통쾌한 추적 활극이다. 제작진이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["백현진, 실제로 독특"..김성령 밝힌 #이상청 #발성장애 #시즌2]]></title>
         <id>https://entertain.v.daum.net/v/20211129175029660</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211129160443759"/>
         <updated>2021-11-29T07:13:00.916Z</updated>
         <content type="html"><![CDATA[[OSEN=박소영 기자] ‘연모’&nbsp;박은빈의 호위무사 최병찬이 궐로 돌아와 그 앞에 무릎을 꿇었다.&nbsp;복수심을 품었던 박은빈 곁으로 돌아온 이유와 함께,&nbsp;드디어 박은빈과 손을 잡게 될지 궁금증을 증폭시킨다. KBS 2TV&nbsp;월화드라마&nbsp;‘연모’(연출&nbsp;송현욱,&nbsp;이현석,&nbsp;극본&nbsp;한희정,&nbsp;제작&nbsp;아크미디어,&nbsp;몬스터유니온)가 공개한 예고 영상에 따르면,&nbsp;혜종(이필모)의 승하]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['쇼윈도: 여왕의 집' 송윤아X이성재, 파격 전개로 불륜극 클리셰 타파]]></title>
-        <id>https://entertain.v.daum.net/v/20211129155748469</id>
-        <link href="https://entertain.v.daum.net/v/20211129155748469"/>
-        <updated>2021-11-29T07:13:00.917Z</updated>
-        <content type="html"><![CDATA[[서울경제] 불륜, 치정에 미스터리 장르가 결합된 '쇼윈도: 여왕의 집'이 풍성한 볼거리로 시선을 사로잡는다. '워맨스' 호흡까지 가미된 작품은 욕심을 많이 낸 만큼 높은 완성도를 자랑한다. 파격적인 전개와 배우들의 열연이 시청자들을 사로잡을지 주목된다. 29일 오후 채널A 새 월화드라마 '쇼윈도: 여왕의 집'(극본 한보경/연출 강솔) 제작발표회가 온라인]]></content>
     </entry>
 </feed>
