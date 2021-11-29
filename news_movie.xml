@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2021-11-29T21:11:37.295Z</updated>
+    <updated>2021-11-29T22:12:40.815Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['유체이탈자' 박용우 "착하고 젠틀한 이미지 고민 많았다"]]></title>
+        <id>https://entertain.v.daum.net/v/20211130070301417</id>
+        <link href="https://entertain.v.daum.net/v/20211130070301417"/>
+        <updated>2021-11-29T22:12:21.115Z</updated>
+        <content type="html"><![CDATA[배우 박용우(50)가 이번엔 강렬한 빌런으로 돌아왔다. 영화 ‘유체이탈자’(감독 윤재근)에서 국가 정보요원 박실장 역을 맡아 열연했다. ‘유체이탈자’는 기억을 잃은 채 12시간마다 다른 사람의 몸에서 깨어나는 한 남자(윤계상)가 모두의 표적이 된 진짜 자신을 찾기 위해 사투를 벌이는 추적 액션. 12시간마다 몸이 바뀐다는 기발한 상상력에서 출발한 작품이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['닥터 스트레인지', 남자들에게 직격탄 "해로운 남성성 고쳐야"]]></title>
         <id>https://entertain.v.daum.net/v/20211130060008577</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211129153808711"/>
         <updated>2021-11-29T08:15:36.954Z</updated>
         <content type="html"><![CDATA[그룹 마마무의 7년 간의 활약상을 담은 영화가 개봉된다. 29dlf 소속사 RBW에 따르면 마마무의 단독 콘서트 실황을 담은 '마마무 2021 WAW 콘서트 더 무비'가 내달 3일 CGV용산아이파크몰을 포함해 전국 39개 CGV에서 동시 개봉된다. 소속사 측은 "본 콘서트는 물론 공연 준비과정 및 비하인드 영상도 포함되어 있는 만큼 팬들에게 특별한 선물이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['듄' 개봉 7주차 예매율 1위, 입소문 장기 흥행 ing]]></title>
-        <id>https://entertain.v.daum.net/v/20211129145007480</id>
-        <link href="https://entertain.v.daum.net/v/20211129145007480"/>
-        <updated>2021-11-29T06:14:44.460Z</updated>
-        <content type="html"><![CDATA[[티브이데일리 최하나 기자] '듄'이 개봉 7주 차에 예매율 1위를 기록하며 역주행 흥행을 예고하고 있다. 지난 10월 20일 개봉된 영화 '듄'(감독 드니 빌뇌브·배급 워너브러더스 코리아)은 생명 유지 자원인 스파이스를 두고 아라키스 모래 행성 듄에서 악의 세력과 전쟁을 앞둔, 전 우주의 왕좌에 오를 운명으로 태어난 전설의 메시아 폴(티모시 샬라메)의]]></content>
     </entry>
 </feed>
