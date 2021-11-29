@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/variety</id>
     <title>다음 연예 ─ 뉴스 ─ 예능</title>
-    <updated>2021-11-29T16:19:15.373Z</updated>
+    <updated>2021-11-29T17:20:15.593Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['오징어게임' 김주령 "한미녀 첫 촬영, 소주 한 잔 마셨다"]]></title>
+        <id>https://entertain.v.daum.net/v/20211130013112158</id>
+        <link href="https://entertain.v.daum.net/v/20211130013112158"/>
+        <updated>2021-11-29T17:20:04.353Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 강다윤 기자] 배우 김주령이 '오징어 게임' 첫 촬영 비하인드를 전했다. 29일 방송된 SBS '동상이몽2 - 너는 내 운명'에서는 넷플릭스 오리지널 '오징어 게임'에서 한미녀 역을 맡아 열연한 김주령이 스페셜 MC로 출연했다.이날 김주령은 '오징어 게임' 첫 촬영 당시를 회상하며 "캐스팅 당시부터 부담이 좀 많았다. 이런 큰 프로젝트에]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이용대, 허광희·유연성 등 레전드 대거 섭외 "복식 대결 1등 한우"]]></title>
         <id>https://entertain.v.daum.net/v/20211130011005112</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211130000019643"/>
         <updated>2021-11-29T15:13:25.566Z</updated>
         <content type="html"><![CDATA[[마이데일리 = 강다윤 기자] 전 축구선수 백지훈이 홍콩 재벌과 소개팅을 거절했다고 밝혔다. 29일 방송된 티캐스트 E채널 '노는브로 2'에서는 구본길이 '본길투어'를 주선, 브로들과 함께 홍콩 식당에 방문한 모습이 그려졌다.이날 백지훈은 "저희 팀 동료가 소개팅을 해준다고 했었다. 사진이나 이런 걸 보자고 했는데 홍콩에서 엄청난 집안이었다"고 말해 놀라]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[강형욱 "회사 대표 개들 까탈스러운 이유? 자기들이 대표인 줄 알기 때문"]]></title>
-        <id>https://entertain.v.daum.net/v/20211129235513597</id>
-        <link href="https://entertain.v.daum.net/v/20211129235513597"/>
-        <updated>2021-11-29T15:13:25.567Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 배효주 기자] 강형욱이 반려견을 회사에 데려오는 대표를 향해 "준비가 안 되어 있다"고 따끔하게 일침했다. 11월 29일 방송된 KBS 2TV '개는 훌륭하다'에서는 스타트업 CEO이자, 반려견을 회사에 데려오는 보호자의 사연이 담겨 시청자의 호기심을 불러왔다. 이날 보호자는 반려견과 함께 행복한 회사 생활을 하고 싶으나, 자주 짖고 입질하는]]></content>
     </entry>
 </feed>
