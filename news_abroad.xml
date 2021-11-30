@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2021-11-30T06:12:51.676Z</updated>
+    <updated>2021-11-30T07:11:08.046Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[킴 카다시안, 카니예 웨스트 구애에도 13세 연하남과 행복]]></title>
+        <id>https://entertain.v.daum.net/v/20211130155842785</id>
+        <link href="https://entertain.v.daum.net/v/20211130155842785"/>
+        <updated>2021-11-30T07:11:07.457Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 이민지 기자] 킴 카다시안이 카니예 웨스트 바람과 달리 새 연인과 행복한 시간을 보내고 있다. 피플은 11월 29일(현지시간) 킴 카다시안과 피트 데이비슨의 관계가 로맨스가 점점 무르익고 있다고 보도했다. 카니예 웨스트와 이혼한 킴 카다시안은 'SNL' 출연 후 인연을 맺은 13세 연하 피트 데이비슨과 데이트를 즐기고 있다. 두 사람은 함께]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["50여명에 성폭력" 빌 코스비, 10년 징역받았는데 석방..검찰 반발]]></title>
         <id>https://entertain.v.daum.net/v/20211130101711329</id>
@@ -32,12 +39,5 @@
         <link href="https://entertain.v.daum.net/v/20211130060012595"/>
         <updated>2021-11-29T21:11:36.605Z</updated>
         <content type="html"><![CDATA[(엑스포츠뉴스 이창규 기자) '스파이더맨' 시리즈가 계속해서 마블 시네마틱 유니버스(MCU)에 등장할 수 있을 전망이다. 29일(현지시간) 미국의 영화 예매 서비스업체 판당고는 소니 픽처스의 전직 공동회장이자 '파스칼 픽처스'의 대표 에이미 파스칼과의 인터뷰를 공개했다. 에이미 파스칼은 현재 톰 홀랜드와의&nbsp; 해당 인터뷰에서 에이미 파스칼은 12월 17일(]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['왕좌의 게임' 명연기 곰, 21살에 세상 떠나 "선한 영향력"]]></title>
-        <id>https://entertain.v.daum.net/v/20211129155903504</id>
-        <link href="https://entertain.v.daum.net/v/20211129155903504"/>
-        <updated>2021-11-29T07:13:14.507Z</updated>
-        <content type="html"><![CDATA[많은 사람들에게 감동과 웃음을 줬던 연기파 곰이 세상을 떠났다. 지난 26일(현지시간) 미국 뉴욕포스트는 "드라마 '왕좌의 게임' 등 여러 작품에서 뛰어난 연기력을 보여줬던 곰, 바트 더 베어 2세(이하 바트)가 21살의 나이에 세상을 떠났다"고 보도했다. 보도에 따르면 바트는 미국 유타주 헤버시티에 있는 자신의 집에서 평화롭게 운명을 맞이했다. 바트]]></content>
     </entry>
 </feed>
