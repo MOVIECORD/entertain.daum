@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2021-11-30T22:13:20.058Z</updated>
+    <updated>2021-11-30T23:12:48.514Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['유체이탈자'-'연애 빠진 로맨스' 나란히 1·2위 유지]]></title>
+        <id>https://entertain.v.daum.net/v/20211201080041982</id>
+        <link href="https://entertain.v.daum.net/v/20211201080041982"/>
+        <updated>2021-11-30T23:12:29.755Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 배효주 기자] '유체이탈자'와 '연애 빠진 로맨스'가 박스오피스 상위권을 유지 중이다. 12월 1일 영화진흥위원회 통합전산망 집계에 따르면 11월 30일 영화 '유체이탈자'(감독 윤재근)가 4만1,491명을 모아 누적 43만9,948명을 기록했다. 같은 날 2위는 '연애 빠진 로맨스'(감독 정가영)로 2만3,749명을 모아 누적 25만5,396]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[40만↑ '유체이탈자' 1위..'연애빠진로맨스' 2위 투톱]]></title>
+        <id>https://entertain.v.daum.net/v/20211201073733567</id>
+        <link href="https://entertain.v.daum.net/v/20211201073733567"/>
+        <updated>2021-11-30T23:12:29.756Z</updated>
+        <content type="html"><![CDATA[두편의 한국영화가 1, 2위를 석권했다. 영화진흥위원회 영화관입장권통합전산망에 따르면 영화 '유체이탈자(윤재근 감독)'는 30일 4만1419명의 관객을 끌어모아 누적관객수 43만9948명을 기록했다. 개봉 일주일 만에 40만 관객을 돌파한 '유체이탈자'는 윤계상의 1인 7역, '범죄도시' 제작진 참여, 참신한 소재 등으로 주목받고 있다. '유체이탈자]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CJ ENM, 11개월간 못넘은 손익분기점.. '인해전술' '해피 뉴 이어'는 통과할까]]></title>
         <id>https://entertain.v.daum.net/v/20211201070101071</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211130165001745"/>
         <updated>2021-11-30T08:12:45.927Z</updated>
         <content type="html"><![CDATA[(엑스포츠뉴스 이창규 기자) '언포기버블' 노라 핑샤이트 감독이 산드라 블록과의 협업에 대해 언급했다.  30일 오전 영화 '언포기버블'의 온라인 기자간담회가 진행됐다. 현장에는 배우 산드라 블록과 노라 핑샤이트 감독이 참석했다.  영화 '언포기버블'(감독 노라 핑샤이트)은 긴 수감생활을 마치고 사회로 돌아온 여인이 자신을 받아주지 않는 냉담한 사회에서]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[정우성·고경표, 코로나 돌파 감염..연예계 다시 비상]]></title>
-        <id>https://entertain.v.daum.net/v/20211130163841387</id>
-        <link href="https://entertain.v.daum.net/v/20211130163841387"/>
-        <updated>2021-11-30T08:12:45.928Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 김미화 기자] 정우성, 고경표 / 사진=스타뉴스, JTBC 배우 정우성, 고경표가 코로나19 확진 판정을 받으며 연예계에 다시 비상이 걸렸다. 30일 정우성과 고경표의 코로나19 확진 소식이 전해졌다.  이날 아티스트컴퍼니 관계자는 스타뉴스에 "정우성이 지난 29일 코로나 확진 판정을 받았다. 정우성은 자가 격리에 들어가는 등 보건 당국 지침에]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[설경구의 흥행 행보..'킹메이커'로 어게인?]]></title>
-        <id>https://entertain.v.daum.net/v/20211130163030086</id>
-        <link href="https://entertain.v.daum.net/v/20211130163030086"/>
-        <updated>2021-11-30T08:12:45.931Z</updated>
-        <content type="html"><![CDATA[[TV리포트=전동선 기자] 영화 '자산어보'로 남우주연상 4관왕을 달성하며 거침없는 행보를 이어가고 있는 배우 설경구가 '킹메이커' 속 ‘김운범’ 역으로 새로운 도전에 나선다. 올해 영화 '자산어보'로 제42회 청룡영화상, 제41회 한국영화평론가협회상, 제16회 대한민국 대학영화제, 제41회 황금촬영상 영화제에서 남우주연상 4관왕을 차지한 설경구가 '불한]]></content>
     </entry>
 </feed>
