@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2021-12-01T09:13:21.352Z</updated>
+    <updated>2021-12-01T10:14:09.369Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["소울메이트♥"..최우식X김다미, 로코로 3년 만 재회]]></title>
+        <id>https://entertain.v.daum.net/v/20211201191002037</id>
+        <link href="https://entertain.v.daum.net/v/20211201191002037"/>
+        <updated>2021-12-01T10:13:53.483Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 최희재 기자) 배우 최우식, 김다미가 '마녀' 이후 로맨스로 3년 만에 재회한다. SBS 새 월화드라마 '그 해 우리는'은 1일 오후 온라인을 통해 제작발표회를 진행했다. 자리에는 김윤진 감독, 최우식, 김다미, 김성철, 노정의가 참석했다. '그 해 우리는'은 헤어진 연인이 고등학교 시절 촬영한 다큐멘터리의 인기로 강제 소환되면서 펼쳐지는]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['크라임 퍼즐' 진소연, 윤계상과 호흡.."모든 순간이 행복"]]></title>
         <id>https://entertain.v.daum.net/v/20211201180205700</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211201170437584"/>
         <updated>2021-12-01T08:15:41.575Z</updated>
         <content type="html"><![CDATA[[스타뉴스 한해선 기자] /사진=올레tv x seezn 오리지널 '크라임 퍼즐' 캡처배우 진소연이 '크라임 퍼즐'에서 짧지만 강렬한 존재감을 드러내며 '신스틸러'의 면모를 뽐냈다. 지난달 30일 종영한 올레tv x seezn 오리지널 '크라임 퍼즐'(연출 김상훈, 극본 최종길, 기획 KT 스튜디오지니, 제작 스튜디오329)은 살인을 자백한 범죄심리학자 한승]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['아이돌' 안희연, 표절 문제 발생? "이거 내 곡이잖아"]]></title>
-        <id>https://entertain.v.daum.net/v/20211201164946922</id>
-        <link href="https://entertain.v.daum.net/v/20211201164946922"/>
-        <updated>2021-12-01T08:15:41.575Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 김수정 인턴기자) '아이돌' 안희연이 표절 문제에 휩싸였다.&nbsp; 지난 30일 방송된 JTBC 월화드라마 ‘IDOL [아이돌 : The Coup]’(이하 ‘아이돌’)에서는 제나(안희연 분)와 엘(추소정), 그리고 트로이(차선우)의 악연이 끝을 맺었다. 그러나 제나의 자작곡과 마스의 유닛 타이틀곡 사이 유사성이 발견돼 다른 갈등을 예고하며 충격을]]></content>
     </entry>
 </feed>
