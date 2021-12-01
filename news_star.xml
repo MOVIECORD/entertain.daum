@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2021-12-01T17:20:54.956Z</updated>
+    <updated>2021-12-01T18:15:01.537Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['골목식당' 김성주, 민율X민주와 '닭반볶반' 포장 테스트..민율, '폭풍 성장' 눈길]]></title>
+        <id>https://entertain.v.daum.net/v/20211202030901452</id>
+        <link href="https://entertain.v.daum.net/v/20211202030901452"/>
+        <updated>2021-12-01T18:14:55.932Z</updated>
+        <content type="html"><![CDATA[[SBS연예뉴스 | 김효정 에디터] 3MC가 닭반볶반집의 포장 테스트를 진행했다. 1일 방송된 SBS '골목식당'에서는 고려대 정문 앞 골목상권에 대한 솔루션이 진행됐다. 이날 방송에서 백종원은 닭반볶반집의 메뉴를 김성주, 금새록과 함께 직접 포장 테스트를 해보기로 했다. 이에 금새록은 포장한 후 3,4시간이 경과한 후 시식했고 감상을 밝혔다. 그는 "사장]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['골목식당' 백종원, 닭반볶반집에 "배달하기 딱 좋은 메뉴..왜 배달 안 하냐?"]]></title>
         <id>https://entertain.v.daum.net/v/20211202015103072</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211202000008500"/>
         <updated>2021-12-01T15:13:39.879Z</updated>
         <content type="html"><![CDATA[[마이데일리 = 로스앤젤레스 이승록 기자] 그들은 방탄소년단을 자신들의 행복(happiness)이자 위로(comfort)라고 했다. 30일(현지시각) 낮 미국 로스앤젤레스 할리우드 거리에 위치한 '라인 프렌즈' 스토어 앞에는 뜨거운 햇볕에도 아랑곳 않고 많은 사람들이 긴 줄을 선 채 입장을 대기하고 있었다. 끝이 안 보이던 대기행렬은 거리 한쪽을 채운]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[정우성·고경표 이어 김수로, 연예계 줄줄이 돌파감염 '비상']]></title>
-        <id>https://entertain.v.daum.net/v/20211202000007498</id>
-        <link href="https://entertain.v.daum.net/v/20211202000007498"/>
-        <updated>2021-12-01T15:13:39.882Z</updated>
-        <content type="html"><![CDATA[[마이데일리 = 이승길 기자] 배우 김수로가 코로나19 확진 판정을 받았다. 연예계에 코로나19 돌파감염 사례가 연이어 발생하고 있다. 1일 김수로의 코로나19 확진 소식이 전해졌다. 소속사 SM C&amp;C는 마이데일리에 "김수로는 드라마 촬영에 앞서 26일 선제적으로 코로나19 검사를 실시하였고, 음성 판정을 받았다. 이에 27일, 28일 촬영 일정은 예정]]></content>
     </entry>
 </feed>
