@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/variety</id>
     <title>다음 연예 ─ 뉴스 ─ 예능</title>
-    <updated>2021-12-01T16:19:00.213Z</updated>
+    <updated>2021-12-01T17:20:54.957Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[폭풍성장한 김성주 패밀리 어떻길래? 민율x민주 "닭반볶반집? 배달해 먹고파"]]></title>
+        <id>https://entertain.v.daum.net/v/20211202011913019</id>
+        <link href="https://entertain.v.daum.net/v/20211202011913019"/>
+        <updated>2021-12-01T17:20:43.623Z</updated>
+        <content type="html"><![CDATA[[OSEN=김수형 기자] ‘백종원의 골목식당’에서 고대 정문앞 솔루션이 그려진 가운데 김성주 패밀리가 출연해 시식평을 전해 눈길을 끌었다. 1일 방송된 SBS 예능 ‘백종원의 골목식당’에서 고대 정문앞 솔루션이 그려졌다. 이날 고대 정문앞 솔루션이 진행된 가운데 치즈 돌솥밥집을 먼저 방문했다. 사장은 신메뉴로 12인 시식단들에게 먼저 선보이기로 했고 3종]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[박소현 "父 친구들, 청첩장 안 보냈다 연락..홍현희 결혼소식 전하다 욱"]]></title>
         <id>https://entertain.v.daum.net/v/20211202011011982</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211202000010507"/>
         <updated>2021-12-01T15:13:35.072Z</updated>
         <content type="html"><![CDATA[[마이데일리 = 이승길 기자] '아이돌 콘셉트 장인' 민희진이 자신이 청춘을 바친 SM엔터테인먼트를 떠나던 순간을 떠올렸다. 1일 방송된 tvN '유 퀴즈 온 더 블럭' 133회에는 기부 도미노를 일으킨 초등학생, 호랑이 사육사, 아트디렉터 민희진, 배우 최우식이 유퀴저로 출연했다. 아이돌 크리에이티브 디렉터에서 신규 레이블 대표가 된 민희진이 자기님으로]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['라스' 박소현 '최장수 MC' 기네스 올라X홍현희 '제약회사 재입사']]></title>
-        <id>https://entertain.v.daum.net/v/20211201235725469</id>
-        <link href="https://entertain.v.daum.net/v/20211201235725469"/>
-        <updated>2021-12-01T15:13:35.072Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 이시연 기자] /사진= MBC '라디오스타' 방송 화면'라디오스타'에서 방송인 박소현이 임성훈과 함께 최장수 공동MC로 기네스에 올랐다고 밝혀 화제를 모았다. 1일 오후 방송된 MBC 예능프로그램 '라디오스타'에서 '버티면 뜬다' 특집으로 방송인 박소현, 홍현희, 아누팜, 노제가 출연했다. 이날 방송에서 MC 김구라는 "기사 보고 깜짝 놀랐다.]]></content>
     </entry>
 </feed>
