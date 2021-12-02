@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2021-12-02T17:19:51.454Z</updated>
+    <updated>2021-12-02T18:15:09.801Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['꼬꼬무' 영화 '암수살인' 실제 사건 조명..김정수 형사, "시간 되돌려도 다시 사건 맡을 것"]]></title>
+        <id>https://entertain.v.daum.net/v/20211203022701278</id>
+        <link href="https://entertain.v.daum.net/v/20211203022701278"/>
+        <updated>2021-12-02T18:15:04.434Z</updated>
+        <content type="html"><![CDATA[[SBS연예뉴스 | 김효정 에디터] 영화 암수살인의 실제 사건이 공개됐다. 2일 방송된 SBS '꼬리에 꼬리를 무는 그날 이야기'(이하 '꼬꼬무')에서는 '감옥에서 온 살인리스트 유령 살인마 이두홍'이라는 부제로 영화 '암수살인'의 모티브가 된 사건을 조명했다. 부산 지방경찰청 마약수사대 김정수 형사는 20년 차 베테랑. 그는 2010년 9월 1일 정보원에]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['2021 AAA' 이정재·유아인·BTS·에스파 대상..임영웅 4관왕]]></title>
         <id>https://entertain.v.daum.net/v/20211203013407088</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211203000014248"/>
         <updated>2021-12-02T15:11:44.662Z</updated>
         <content type="html"><![CDATA[미스터리·로맨스·멜로로 채운 라인업 [더팩트｜박지윤 기자] JTBC가 신작 드라마로 12월을 풍성하게 채운다. JTBC는 오는 8일 수목드라마 '공작도시'(극본 손세동 연출 전창근)를 시작으로 18일 토일드라마 '설강화:snowdrop'(극본 유현미 연출 조현탁, 이하 '설강화'), 20일 월화드라마 '한 사람만'(극본 문정민 연출 오현정)까지 3편의 새]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['베스트 액터상' 허성태 "'오징어 게임' 배우들만 주목, 스태프도 감사·존경"]]></title>
-        <id>https://entertain.v.daum.net/v/20211203000006233</id>
-        <link href="https://entertain.v.daum.net/v/20211203000006233"/>
-        <updated>2021-12-02T15:11:44.663Z</updated>
-        <content type="html"><![CDATA[[마이데일리 = 박윤진 기자] 배우 허성태, 김주령이 넷플릭스 오리지널 드라마 '오징어 게임'에서의 활약을 인정받고 나란히 '베스트 액터상'을 수상했다. 2일 오후 서울 강서구 KBS아레나에서 '2021 아시아 아티스트 어워즈(Asia Artist Awards, AAA)'가 슈퍼주니어 이특, 아이브 원영의 사회로 진행됐다. 이날 허성태는 "'오징어 게]]></content>
     </entry>
 </feed>
