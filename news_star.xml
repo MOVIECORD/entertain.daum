@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2021-12-02T16:19:50.364Z</updated>
+    <updated>2021-12-02T17:19:51.454Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['2021 AAA' 이정재·유아인·BTS·에스파 대상..임영웅 4관왕]]></title>
+        <id>https://entertain.v.daum.net/v/20211203013407088</id>
+        <link href="https://entertain.v.daum.net/v/20211203013407088"/>
+        <updated>2021-12-02T17:19:45.735Z</updated>
+        <content type="html"><![CDATA[[티브이데일리 김한길 기자] '2021 AAA' 배우 이정재, 유아인, 이승기, 그룹 방탄소년단(BTS), NCT 127, 세븐틴, 스트레이 키즈, 에스파, 트로트 가수 임영웅이 대상의 영예를 안았다. '2021 Asia Artist Awards'(2021 아시아아티스트어워즈, 이하 '2021 AAA')가 2일 저녁 온택트(Ontact)로 개최됐다. 'A]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["워킹 지적+춤 시키기" 노제 런웨이, 김현욱 무례에 팬들 뿔났다]]></title>
+        <id>https://entertain.v.daum.net/v/20211203012125028</id>
+        <link href="https://entertain.v.daum.net/v/20211203012125028"/>
+        <updated>2021-12-02T17:19:45.735Z</updated>
+        <content type="html"><![CDATA[[OSEN=연휘선 기자] 방송인 김현욱이 댄서 노제에게 무리하게 춤을 요구하고 워킹 실력을 언급하는 등 무례하다는 비판을 받고 있다.&nbsp; 노제는 1일 진행된 '2021 대한민국 패션대상'에 모델로 선정돼 런웨이에 올랐다. 이날 노제는 코트, 와이드 팬츠, 버킷햇 등을 착용하고 특유의 패션감각과 분위기를 뽐냈다. 전문적인 모델은 아니었으나, 춤으로 가꾼 체형과]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['너닮사' 고현정, 죽은 김재영과 불륜 폭로 후 잠적→칼 맞은 신현빈, 살아 있었다]]></title>
         <id>https://entertain.v.daum.net/v/20211203010710891</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211203000006233"/>
         <updated>2021-12-02T15:11:44.663Z</updated>
         <content type="html"><![CDATA[[마이데일리 = 박윤진 기자] 배우 허성태, 김주령이 넷플릭스 오리지널 드라마 '오징어 게임'에서의 활약을 인정받고 나란히 '베스트 액터상'을 수상했다. 2일 오후 서울 강서구 KBS아레나에서 '2021 아시아 아티스트 어워즈(Asia Artist Awards, AAA)'가 슈퍼주니어 이특, 아이브 원영의 사회로 진행됐다. 이날 허성태는 "'오징어 게]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이지애 김정근 부부 코로나19 확진..프로그램 관련인 검사도 진행]]></title>
-        <id>https://entertain.v.daum.net/v/20211202235909210</id>
-        <link href="https://entertain.v.daum.net/v/20211202235909210"/>
-        <updated>2021-12-02T15:11:44.664Z</updated>
-        <content type="html"><![CDATA[[스포츠투데이 이소연 기자] 방송인 이지애에 이어 남편인 MBC 김정근 아나운서도 코로나19 확진 판정을 받고 자가격리에 들어갔다. 김정근 역시 이지애와 마찬가지로 기저질환으로 인해 백신접종을 하지 않은 것으로 확인됐다. MBC는 "김정근도 코로나19 확진 판정을 받고 자가격리 중"이라며 "녹화에서 함께 있던 스태프 모두 음성 판정을 받았다"고 전했다. 이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['오늘 무해' 공효진, 김해준 만나 성덕 됐다.. "말이 안 나와" 와락포옹]]></title>
-        <id>https://entertain.v.daum.net/v/20211202235800200</id>
-        <link href="https://entertain.v.daum.net/v/20211202235800200"/>
-        <updated>2021-12-02T15:11:44.664Z</updated>
-        <content type="html"><![CDATA[[TV리포트=이혜미 기자] 스타도 누군가의 팬. 배우 공효진이 개그맨 김해준을 만나 성덕의 꿈을 이뤘다. 2일 방송된 KBS 2TV ‘오늘 무해’에선 김해준이 게스트로 출연해 죽도여행을 함께했다. 일찍이 공효진은 김해준의 부캐 ‘최준’의 팬이라며 “내가 원래 잘 안 웃는다. 최준 정도는 돼야 웃는다. 나 준며든 사람이다”라고 팬심을 고백했던 바. 이날 김해]]></content>
     </entry>
 </feed>
