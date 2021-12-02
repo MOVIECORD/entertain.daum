@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2021-12-02T08:14:46.805Z</updated>
+    <updated>2021-12-02T09:13:00.778Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["제대로 꼬였다"..'그 해 우리는' 최우식·김다미, 애증의 재회 로맨스]]></title>
+        <id>https://entertain.v.daum.net/v/20211202174236378</id>
+        <link href="https://entertain.v.daum.net/v/20211202174236378"/>
+        <updated>2021-12-02T09:12:45.847Z</updated>
+        <content type="html"><![CDATA[[OSEN=하수정 기자] ‘그 해 우리는’이 현실적인 청춘들의 연애담과 성장통을 그린다. 오는 6일 첫 방송되는 SBS 새 월화드라마 ‘그 해 우리는’(연출 김윤진, 극본 이나은, 제작 스튜디오N·슈퍼문픽쳐스) 측은 지난 1일, 기다림마저 설레게 만드는 하이라이트 영상을 공개했다. 10년 만에 리부트된 다큐멘터리를 통해 이별 후 재회한 최웅(최우식 분)과]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이지애, 코로나19 확진.."어제 판정, 자가격리 중"]]></title>
+        <id>https://entertain.v.daum.net/v/20211202171417219</id>
+        <link href="https://entertain.v.daum.net/v/20211202171417219"/>
+        <updated>2021-12-02T09:12:45.848Z</updated>
+        <content type="html"><![CDATA[방송인 이지애.[이데일리 스타in 김보영 기자] 방송인 이지애가 코로나19 확진 판정을 받았다. 2일 이데일리 취재 결과 복수의 연예 관계자들이 “이지애 씨가 어제(1일) 코로나19 확진 판정을 받아 현재 자가격리 중”이라고 전했다. 이지애의 구체적인 확진 경로 및 경위는 정확히 알려지지 않았다. 다만 그가 확진 판정을 받을 당시 방송 녹화 일정이 따]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[BL 사극 '물들여' 포스터 공개, 고등학생♥폐세자 타임슬립 판타지 로맨스]]></title>
         <id>https://entertain.v.daum.net/v/20211202171351207</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211202144604856"/>
         <updated>2021-12-02T06:15:22.079Z</updated>
         <content type="html"><![CDATA[[OSEN=장우영 기자] ‘학교 2021’ 황보름별과 서희선이 안방극장에 특별한 울림을 선사한다. 2일 밤 9시 30분 방송되는 KBS2 수목드라마 ‘학교 2021(극본 조아라 동희선, 연출 김민태 홍은미, 제작 래몽래인, 킹스랜드) 4회에서 강서영(황보름별)과 고은비(서희선)는 서로의 상처를 보듬으며 시청자들에게 뭉클함을 안길 예정이다. 앞서 아이돌 연습]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이준호·이세영 '옷소매', 역클리셰로 궁중 로맨스가 통했다]]></title>
-        <id>https://entertain.v.daum.net/v/20211202144304733</id>
-        <link href="https://entertain.v.daum.net/v/20211202144304733"/>
-        <updated>2021-12-02T06:15:22.084Z</updated>
-        <content type="html"><![CDATA[[OSEN=하수정 기자] ‘옷소매 붉은 끝동’ 이준호-이세영이 역클리셰가 더해진 신선한 로맨스로 안방극장에 흥행 돌풍을 일으키고 있다. MBC 금토드라마 ‘옷소매 붉은 끝동’(연출 정지인 송연화/극본 정해리/제작 위매드, 앤피오엔터테인먼트/영제 The Red Sleeve/이하 ‘옷소매’)가 금토드라마 시청률 1위와 화제성 1위를 석권하며 명실공히 ‘대세 드]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['이상청' 웃프고 리얼한 현실 풍자, 블랙코미디계 새 지평]]></title>
-        <id>https://entertain.v.daum.net/v/20211202144110668</id>
-        <link href="https://entertain.v.daum.net/v/20211202144110668"/>
-        <updated>2021-12-02T06:15:22.087Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 김명미 기자] ‘이렇게 된 이상 청와대로 간다’가 웃프고 리얼한 현실풍자로 한국 블랙코미디 계의 새 지평을 열었다. 11월 12일 전편 공개된 웨이브(wavve) 오리지널 드라마 ‘이렇게 된 이상 청와대로 간다’(이하 ‘이상청’)(연출 윤성호/ 극본 크리에이터 송편, 김홍기, 최성진, 박누리 등)는 문화체육관광부 장관으로 임명된 올림픽 금메달리스]]></content>
     </entry>
 </feed>
