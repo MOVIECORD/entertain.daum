@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2021-12-03T18:14:43.487Z</updated>
+    <updated>2021-12-03T19:11:02.638Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[집주인은 '미접종+노마스크', 집들이 손님은 'PCR 검사'..'확진' 이지애♥김정근 논란]]></title>
+        <id>https://entertain.v.daum.net/v/20211204031548189</id>
+        <link href="https://entertain.v.daum.net/v/20211204031548189"/>
+        <updated>2021-12-03T19:10:56.654Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 김나라 기자] 앵커 출신 방송인 이지애, MBC 아나운서 김정근 부부가 코로나19 확진 판정을 받은 가운데, 후배들을 집에 초대했던 최근 근황이 재조명되며 네티즌들의 비난이 잇따르고 있다. 앞서 2일 이지애 소속사 스타잇엔터테인먼트에 따르면 1일 이지애는 코로나19 확진 판정을 받고 자가격리 중이다. 소속사 측은 "이지애가 기저질환으로]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['더솔져스' 개인미션 1위 홍범석, 이창준 팀장 선택..팀 미션 '장애물 산악 행군', 그 결과는?]]></title>
         <id>https://entertain.v.daum.net/v/20211204020000984</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211204000041565"/>
         <updated>2021-12-03T15:13:44.584Z</updated>
         <content type="html"><![CDATA[[동아닷컴] 김도윤 “‘지옥’ 화살촉, 나를 내려놓고 연기” [화보] 넷플릭스 드라마 시리즈 &lt;지옥&gt;에서 화살촉의 리더 ‘이동욱’을 연기하며 대중의 뜨거운 관심을 받고 있는 배우 ‘김도윤’이 &lt;마리끌레르&gt; 웹사이트를 통해 화보와 인터뷰를 공개했다. 공개된 화보 속 김도윤은 따뜻한 브라운 컬러의 수트와 시크한 블랙 트라우저 셋업을 완벽히 소화하며 겨울 분]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['풋풋한 열애 중' 손담비·전종서, '쿨한 인정' 눈길]]></title>
-        <id>https://entertain.v.daum.net/v/20211204000040564</id>
-        <link href="https://entertain.v.daum.net/v/20211204000040564"/>
-        <updated>2021-12-03T15:13:44.584Z</updated>
-        <content type="html"><![CDATA[연예계는 열애 중 [더팩트ㅣ이한림 기자] 연애만큼 설렌 소식이 또 있을까요. 이번 주 연예계에서는 가수 겸 배우 손담비와 배우 전종서가 각각 연인을 만나 풋풋한 열애를 시작했다는 소식으로 물들었습니다. 손담비는 전 국가대표 선수 이규혁과, 전종서는 함께 영화 '콜'을 작업한 이충현 감독과 열애 사실을 인정했는데요. 두 커플은 누구보다 '쿨한 인정'으로 대]]></content>
     </entry>
 </feed>
