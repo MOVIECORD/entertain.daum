@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2021-12-04T16:18:02.641Z</updated>
+    <updated>2021-12-04T17:19:44.641Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['놀토' 전소미 "태연 선배님과 생일도 같고 둘 다 뱀띠"]]></title>
+        <id>https://entertain.v.daum.net/v/20211205020812548</id>
+        <link href="https://entertain.v.daum.net/v/20211205020812548"/>
+        <updated>2021-12-04T17:19:39.059Z</updated>
+        <content type="html"><![CDATA[[스포츠투데이 이소연 기자]  '놀토' 전소미가 태연에게 남다른 팬심을 고백했다. 4일 방송된 tvN 예능프로그램 '놀라운 토요일'에는 가수 전소미, 이영지가 출연했다. 1년 6개월만 '놀토'에 출연한 전소미는 "꼭 나오고 싶은 이유가 있었다"고 밝혀 눈길을 끌었다. 전소미는 옆자리의 태연을 보며 "진짜 만나 뵙고 싶었다. 저희가 3월 9일생으로 생일도 같]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이시영, 16kg 아들 업고 북한산 등반→'대세 배우' 이학주]]></title>
         <id>https://entertain.v.daum.net/v/20211205005156471</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211204232700173"/>
         <updated>2021-12-04T15:12:51.994Z</updated>
         <content type="html"><![CDATA[배우 이시영이 최근 영남 알프스를 완등했다고 밝혔다. 4일 방송된 MBC '전지적 참견 시점'(이하 '전참시')에 이시영이 출연했다. 1년 만에 '전참시'를 다시 찾은 이시영은 "100대 명산 프로젝트에 진척이 있느냐"는 질문을 받았다. 이에 이시영은 "얼마 전에 영남 알프스 등산에 도전했다"고 말문을 열었다. 영남 알프스는 가지산을 중심으로 한 9개의]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['옷소매' 이준호·이세영, 어린 시절 인연 깨닫고 포옹 "너였구나"]]></title>
-        <id>https://entertain.v.daum.net/v/20211204232616170</id>
-        <link href="https://entertain.v.daum.net/v/20211204232616170"/>
-        <updated>2021-12-04T15:12:51.994Z</updated>
-        <content type="html"><![CDATA[(서울=뉴스1) 정유진 기자 = 이준호와 이세영이 어린 시절의 인연을 깨닫고 포옹했다. 4일 오후 방송된 MBC '옷소매 붉은 끝동'(극본 정해리 연출 정지인 송연화)에서는 어린 시절의 인연을 깨닫게 된 이산(이준호 분)과 성덕임(이세영 분)이 서로를 안아주며 예상못한 해후에 감동하는 모습이 그려졌다. 앞서 이산은 자신을 거절한 성덕임에게 상처를 받]]></content>
     </entry>
 </feed>
