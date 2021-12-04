@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2021-12-04T09:12:47.238Z</updated>
+    <updated>2021-12-04T10:13:07.507Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['시실리 2km' 신정원 감독, 오늘 패혈증 사망..향년 47세]]></title>
+        <id>https://entertain.v.daum.net/v/20211204182459782</id>
+        <link href="https://entertain.v.daum.net/v/20211204182459782"/>
+        <updated>2021-12-04T10:12:47.285Z</updated>
+        <content type="html"><![CDATA[[OSEN=최이정·김보라 기자] 신정원 영화감독이 오늘(4일) 패혈증으로 인해 사망한 것으로 확인됐다. 향년 47세. 4일 OSEN 취재 결과 신 감독은 이날 급성 패혈증으로 세상을 떠났다. 현재 코로나 사태로 국내 상황이 좋지 않은 만큼 유족 측은 소규모 장례를 진행하겠다는 입장이다. 빈소는 서울 강남구 강남세브란스병원 장례식장에 마련됐다. 발인은 6일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['고요의 바다', 달에 발 디딘 배두나→공유..예측불허 미스터리 예고]]></title>
         <id>https://entertain.v.daum.net/v/20211204180000547</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211204095843862"/>
         <updated>2021-12-04T01:55:15.906Z</updated>
         <content type="html"><![CDATA[(서울=뉴스1) 정유진 기자 = 윤계상 주연 영화 '유체이탈자'가 개봉 10일째 1위를 지킨 가운데, 누적관객수 50만명을 넘어섰다. 4일 영화진흥위원회 영화관 입장권 통합 전산망에 따르면 '유체이탈자'는 지난 3일 하루 2만9149명을 동원해 박스오피스 1위를 지켰다. 누적관객수는 52만2992명이다. 이로써 '유체이탈자'는 개봉 10일째 50만명]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[찌질한 조감독 운명 바꾼 50만 원짜리 테이프]]></title>
-        <id>https://entertain.v.daum.net/v/20211204094800755</id>
-        <link href="https://entertain.v.daum.net/v/20211204094800755"/>
-        <updated>2021-12-04T01:55:15.908Z</updated>
-        <content type="html"><![CDATA[[양형석 기자] 90년대 중·후반 '개그계의 대부' 이경규의 뒤를 이어 최고의 개그맨으로 명성을 떨치던 김국진은 1999년 건강악화를 이유로 활동을 전면 중단했다. 김국진은 휴식기 동안 골프에 푹 빠져 프로골퍼 테스트 도전을 선언했다. 하지만 김국진의 도전은 번번이 실패로 돌아갔다. 아무리 본업을 잠시 접고 골프에만 매진한다 해도 취미로 골프를 치던 사람이]]></content>
     </entry>
 </feed>
