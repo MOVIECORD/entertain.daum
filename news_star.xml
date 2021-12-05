@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2021-12-05T16:17:43.708Z</updated>
+    <updated>2021-12-05T17:18:32.253Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['런닝맨' 유재석, "윤은혜와 통화했다"..윤은혜 출연 성사될까?]]></title>
+        <id>https://entertain.v.daum.net/v/20211206021500839</id>
+        <link href="https://entertain.v.daum.net/v/20211206021500839"/>
+        <updated>2021-12-05T17:18:26.340Z</updated>
+        <content type="html"><![CDATA[[SBS연예뉴스 | 김효정 에디터] 유재석이 윤은혜에게서 연락이 왔다고 밝혔다. 5일 방송된 SBS '런닝맨'에서는 양세찬의 생일을 맞아 '효자동 양세찬' 레이스를 진행했다. 이날 방송에서 멤버들은 양세찬을 위한 생일상 차렸다. 이에 양세찬은 "살면서 이렇게 생일상을 여러 명이 차려주는 건 처음이다"라며 진심으로 감동받아 눈길을 끌었다. 양세찬의 예능 와이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김지운 감독, 스크린을 벗어나다]]></title>
         <id>https://entertain.v.daum.net/v/20211206010206713</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211205230926822"/>
         <updated>2021-12-05T14:11:25.524Z</updated>
         <content type="html"><![CDATA[[스포츠조선닷컴 이우주 기자] '미우새' 김주령이 '오징어게임' 비하인드와 남편의 이야기를 전했다. 5일 방송된 SBS 예능프로그램 '미운 우리 새끼'에서는 '오징어게임' 한미녀로 전세계를 놀라게 한 배우 김주령이 스페셜MC로 출연했다. "'오징어게임'의 인기를 실감하냐"는 질문에 김주령은 "잘 되고 생애 처음 하는 경험이 많아졌다. 예를]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['슈돌' 사유리 아들 젠, 구잘 미모에 반했다.. "부끄러워라" 발그레]]></title>
-        <id>https://entertain.v.daum.net/v/20211205230731812</id>
-        <link href="https://entertain.v.daum.net/v/20211205230731812"/>
-        <updated>2021-12-05T14:11:25.528Z</updated>
-        <content type="html"><![CDATA[[TV리포트=이혜미 기자] 사유리의 아들 젠이 방송인 구잘의 미모에 반했다. 5일 방송된 KBS 2TV ‘슈돌’에선 사유리 젠 모자의 이야기가 공개됐다. 이날 방송인 사유리의 집을 찾았다. 이들은 과거 ‘미녀들의 수다’로 호흡을 맞췄다. 구잘은 ‘우즈베키스탄의 김태희’로 통하는 미모의 소유자. 이에 젠 군도 함박웃음으로 구잘을 맞이했다. 부끄러움에 몸을 감]]></content>
     </entry>
 </feed>
