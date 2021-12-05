@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2021-12-05T18:14:09.267Z</updated>
+    <updated>2021-12-05T19:10:23.970Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[인간 본성 자극 쏟아지는 '생존 예능'.. 흥행은 신통찮네]]></title>
+        <id>https://entertain.v.daum.net/v/20211206040702197</id>
+        <link href="https://entertain.v.daum.net/v/20211206040702197"/>
+        <updated>2021-12-05T19:10:17.567Z</updated>
+        <content type="html"><![CDATA[코로나19로 생존에 관한 관심이 높아지면서 서바이벌 예능이 변주를 거듭하고 있다. 인간의 원초적인 본성에 집중하며 과거보다 자극적이란 특징이 있다. 생존 문제와 연애를 접목하는가 하면 불공정 경쟁을 허용하면서 드라마 ‘오징어 게임’의 실사판을 기획한 예능도 나왔다. MBC 생존 리얼리티 프로그램 ‘피의 게임’의 콘셉트는 특이하다. ‘매우 불공평하고 비합리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['미우새' 임원진, 악천후 속에 한라산 등반 시작.."우박 맞으며 하는 등산은 처음"]]></title>
         <id>https://entertain.v.daum.net/v/20211206030600020</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211205232100925"/>
         <updated>2021-12-05T15:12:33.757Z</updated>
         <content type="html"><![CDATA[[SBS연예뉴스 | 김효정 에디터] 여에스더가 남편 홍혜걸이 폐암 공갈범이라 폭로했다. 5일 방송된 SBS '집사부일체'에서는 여에스더 홍혜걸 부부가 쀼사부로 등장했다. 이날 방송에서 여에스더는 각집을 살며 건강의 지표들 중 몇 가지가 좋아진 게 있다고 밝혔다. 이에 홍혜걸은 "사실 아내도 지병이 많다"라며 "의사인데도 뇌동맥류, 천식, 우울증 등을 앓고]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['방과후 설렘' 권유리, 원지민 극찬 "춤·노래 잘하는 조보아 느낌"]]></title>
-        <id>https://entertain.v.daum.net/v/20211205232030921</id>
-        <link href="https://entertain.v.daum.net/v/20211205232030921"/>
-        <updated>2021-12-05T15:12:33.758Z</updated>
-        <content type="html"><![CDATA[[TV리포트 = 하수나 기자] 권유리가 ‘조보아 닮은꼴’ 참가자인 원지민에게 극찬을 아끼지 않았다.&nbsp; 5일 방송된 MBC ‘방과후 설렘’에선 입학시험 미션 무대가 펼쳐졌다. 이날 2학년 원지민과 주효린의 파워풀한 ‘몬스터’팀 무대가 공개되며 눈길을 사로잡았다.&nbsp; 두 학생의 무대가 끝난 후 선생님들의 평가 시간이 공개됐다. 이날 권유리는 “지민 학생 같은 경]]></content>
     </entry>
 </feed>
