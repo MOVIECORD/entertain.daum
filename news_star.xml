@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2021-12-06T18:23:20.231Z</updated>
+    <updated>2021-12-06T19:10:44.005Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이제훈 '무브 투 헤븐'·이도현 '스위트홈', AACA 수상]]></title>
+        <id>https://entertain.v.daum.net/v/20211207040006449</id>
+        <link href="https://entertain.v.daum.net/v/20211207040006449"/>
+        <updated>2021-12-06T19:10:38.426Z</updated>
+        <content type="html"><![CDATA[[동아닷컴] 넷플릭스(Netflix) '무브 투 헤븐'과 '스위트홈'이 2021 아시안 아카데미 크레이에티브 어워즈(Asian Academy Creative Awards ㅣ AACA)에서 각각 최고의 드라마 시리즈상과 남우주연상(이제훈), 감독상(이응복 감독)과 남우조연상(이도현)을 수상하는 쾌거를 이뤘다. 2021 AACA National Winner로]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["명품 8백만↑원 FLEX" 채정안, 아무리 '내돈내산'이라지만..공감은 '글쎄']]></title>
+        <id>https://entertain.v.daum.net/v/20211207035436438</id>
+        <link href="https://entertain.v.daum.net/v/20211207035436438"/>
+        <updated>2021-12-06T19:10:38.426Z</updated>
+        <content type="html"><![CDATA[[OSEN=김수형 기자] 가수 출신 배우 채정안이 제대로 명품을 플렉스하는 쇼핑 근황을 전했다. 무려 8백만원이 넘는 금액을 아무렇지 쿨한 모습으로&nbsp;결제해 놀라움을 안겼다.&nbsp;&nbsp; 6일, 가수 겸 배우 채정안이 개인 유튜브 채널 '채정안TV'를 통해서 '채정안이 알려주는 쇼핑꿀팁 여주아울렛 명품쇼핑'이란 제목으로 영상을 게재했다.&nbsp; 영상은 초반부터 '신흥졸부]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[장민호 "코요태 되고 싶었다" 고백]]></title>
         <id>https://entertain.v.daum.net/v/20211207023010160</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211207003301900"/>
         <updated>2021-12-06T16:16:02.274Z</updated>
         <content type="html"><![CDATA[박성웅이 박성광이 연출한 영화에 주인공으로 출연하며 끈끈한 우정을 드러냈다. 한편 이날 이용진은 자신을 '개그계 최수종'이라 자처하며 사랑꾼 면모를 자랑했다. 6일 방송된 SBS '동상이몽2-너는 내 운명'에서는 개그맨 이용진이 스페셜MC로 등장한 모습이 그려졌다. 서장훈은 이용진에 "이용진 씨가 스스로 '남가좌동 최수종'이라고 한다더라"고 물었다. 이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['피의 게임' 박지민, 지하층 변수로 우승→"걘 머리 못 쓴다" 퀸와사비 탈락]]></title>
-        <id>https://entertain.v.daum.net/v/20211207002801884</id>
-        <link href="https://entertain.v.daum.net/v/20211207002801884"/>
-        <updated>2021-12-06T16:16:02.275Z</updated>
-        <content type="html"><![CDATA[[TV리포트=김은정 기자] 배신과 반전 속 퀸와사비가 탈락했다. 6일 오후 방송된 MBC 서바이벌 리얼리티 예능 ‘피의 게임’에서는 지하층의 히든 챌린지가 변수로 작용해 박지민이 우승하며 살아남았다. 이날 지상층의 덱스는 집안의 달라진 점을 느끼면서도 대수롭지 않게 생각했다. 전원 무사히 귀환한 후 정근우는 "오늘 기생충 살벌하게 찍었다"면서 웃었다. 이후]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['동상이몽2' 이용진, "나는 남가좌동 최수종..육아에 올인 중"]]></title>
-        <id>https://entertain.v.daum.net/v/20211207002701880</id>
-        <link href="https://entertain.v.daum.net/v/20211207002701880"/>
-        <updated>2021-12-06T16:16:02.277Z</updated>
-        <content type="html"><![CDATA[[SBS연예뉴스 | 김효정 에디터] 이용진이 본인이 사랑꾼이라 밝혔다. 6일 방송된 SBS '동상이몽 시즌2-너는 내 운명'(이하 '동상이몽2')에서는 개그맨 이용진이 스페셜 MC로 등장했다. 이날 방송에서 서장훈은 "이용진 씨가 스스로 남가좌동 최수종이라고 여기저기서 본인이 말하고 다닌다더라"라고 했다. 이에 이용진은 "이제 개그계에도 나올 때가 됐다"라]]></content>
     </entry>
 </feed>

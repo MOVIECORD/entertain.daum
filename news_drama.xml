@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2021-12-06T18:23:20.209Z</updated>
+    <updated>2021-12-06T19:10:44.008Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김요한♥조이현, 재회한 첫사랑 설렘]]></title>
+        <id>https://entertain.v.daum.net/v/20211207033010413</id>
+        <link href="https://entertain.v.daum.net/v/20211207033010413"/>
+        <updated>2021-12-06T19:10:27.869Z</updated>
+        <content type="html"><![CDATA[[동아닷컴] 사진 제공 : KBS 2TV 수목드라마 &lt;학교 2021&gt; 방송 캡처KBS2 수목드라마 ‘학교 2021’이 눌지과학기술고등학교 학생들의 우정과 사랑, 성장을 담은 다채로운 관계를 그려내고 있다. 지난 1일(수), 2일(목) KBS 2TV 수목드라마 ‘학교 2021’(극본 조아라, 동희선/ 연출 김민태, 홍은미) 3, 4회에서는 학교 안과 밖에]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['그해우리는' 최우식-김다미, 5년 열애 후 이별, 그리고 재회..또다시 다큐 찍을까?]]></title>
         <id>https://entertain.v.daum.net/v/20211207024501167</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211206230317461"/>
         <updated>2021-12-06T14:11:57.335Z</updated>
         <content type="html"><![CDATA[[스타뉴스 이시연 인턴기자] /사진= KBS 2TV '연모' 방송 화면'연모'에서 로운이 박은빈에게 이별을 고했다. 6일 오후 방송된 KBS 2TV 월화드라마 '연모'에서는 정지운(로운 분)과 이휘(박은빈 분)가 대화하는 장면이 그려졌다. 이날 방송 말미 이휘는 궁 뒤뜰에서 정지운과 마주쳤다. 이휘는 "하루 종일 어디 갔던 거냐. 승정원에도 나오지 않고.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['그해 우리는' 최우식X김다미, 전교 꼴등과 일등의 만남..티격태격 케미]]></title>
-        <id>https://entertain.v.daum.net/v/20211206225404418</id>
-        <link href="https://entertain.v.daum.net/v/20211206225404418"/>
-        <updated>2021-12-06T14:11:57.351Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 오진주 인턴기자] /사진= SBS 드라마 '그해 우리는' 방송 화면배우 최우식과 김다미가 드라마 '그해 우리는'에서 환상의 짝꿍이 됐다. 6일 방송된 SBS 월화드라마 '그해 우리는'에서는 고등학생 시절 전교 꼴등 최웅(최우식 분)과 전교 일등 국연수(김다미 분)의 모습이 그려졌다. 두 사람은 학교에서 주최하는 전교 일등이 전교 꼴등을 갱생시키는]]></content>
     </entry>
 </feed>
