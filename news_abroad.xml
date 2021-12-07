@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2021-12-07T20:14:12.880Z</updated>
+    <updated>2021-12-07T21:11:37.788Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["조지 클루니 네가 날 저격하다니.." 총기사고 알렉 볼드윈 불쾌감 토로]]></title>
+        <id>https://entertain.v.daum.net/v/20211208060004879</id>
+        <link href="https://entertain.v.daum.net/v/20211208060004879"/>
+        <updated>2021-12-07T21:11:37.164Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]영화 ‘러스트(Rust)’ 촬영 중 총기 오발사고를 일으킨 할리우드 배우 알렉 볼드윈(63)이 동료 조지 클루니(60)의 저격에 불쾌감을 드러냈다. 그는 최근 ABC 뉴스의 조지 스테파노풀로스와의 인터뷰에서 “조지 클루니처럼 총을 받을 때마다 그들이 직접 확인했다고 말하는 배우들에게 어떻게 반응합니까”라는 질문을 받았다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['울버린' 휴 잭맨, 백신 부스터샷 인증 "접종하세요"]]></title>
         <id>https://entertain.v.daum.net/v/20211207174605237</id>
@@ -67,12 +74,5 @@
         <link href="https://entertain.v.daum.net/v/20211207075110309"/>
         <updated>2021-12-07T08:16:19.745Z</updated>
         <content type="html"><![CDATA[[OSEN=최나영 기자] 파티에서 전 남자친구를 만난다면? 할리우드 배우 레오나르도 디카프리오와 니나 모델 아그달은 너무나도 쿨했다. 최근 두 사람은 마이애미 아트 위크 파티에서 재화했다고 페이지식스가 6일(현지시간) 전했다. 18세 나이 차이의 두 사람은 2017년에 헤어지기 전 약&nbsp;1년 동안 사귀었던 바. 목격자는&nbsp;"두 사람은 소시에티스타의 갤로어 파티]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["킴 카다시안은 내 여자야!" 13세 연하 피트 데이비슨, 어떤 매력에 빠졌을까]]></title>
-        <id>https://entertain.v.daum.net/v/20211207060004115</id>
-        <link href="https://entertain.v.daum.net/v/20211207060004115"/>
-        <updated>2021-12-06T21:12:06.070Z</updated>
-        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]할리우드 유명 셀럽 킴 카다시안(41)와 미국 코미디언 피트 데이비슨(28)의 사랑이 무르익고 있다. 한 소식통은 최근 연예매체 ‘피플’에 “피트 데이비슨은 카니예 웨스트와 이혼 후 킴 카다시안에게 꼭 필요한 인물"이라며 "그녀를 웃기고 즐겁게 해줄 사람"이라고 말했다. 이어 "그녀의 결혼생활은 그녀에게 매우 어두운 시간이었]]></content>
     </entry>
 </feed>

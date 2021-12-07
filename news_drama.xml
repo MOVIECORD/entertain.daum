@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2021-12-07T20:14:12.881Z</updated>
+    <updated>2021-12-07T21:11:37.790Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[최원영VS장광, 대립 예고]]></title>
+        <id>https://entertain.v.daum.net/v/20211208060012899</id>
+        <link href="https://entertain.v.daum.net/v/20211208060012899"/>
+        <updated>2021-12-07T21:11:21.070Z</updated>
+        <content type="html"><![CDATA[[동아닷컴] &lt;사진제공&gt; 꽃피면달생각하고문화산업전문회사, 몬스터유니온, 피플스토리컴퍼니KBS2 새 월화드라마 ‘꽃 피면 달 생각하고’ 최원영, 장광이 팽팽한 대립으로 극의 긴장감을 한껏 끌어올릴 예정이다. ‘연모’ 후속으로 오는 20일 처음 방송되는 KBS2 새 월화드라마 ‘꽃 피면 달 생각하고’(연출 황인혁 / 극본 김주희) 역사상 가장 강력한 금주령의]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[함은정♥김진엽, '사랑의 꽈배기' 포스터 공개]]></title>
         <id>https://entertain.v.daum.net/v/20211208050008503</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211207230232082"/>
         <updated>2021-12-07T14:12:37.841Z</updated>
         <content type="html"><![CDATA[[TV리포트=이혜미 기자] 김다미가 전 남자친구 최우식과 다시 만났다. 그의 곁에는 이준혁이 있었다. 7일 방송된 SBS ‘그 해 우리는’에선 연수(김다미 분)와 웅(최우식 분) 그리고 도율(이준혁 분)의 만남이 그려졌다. 이날 연수는 도율과 작업을 위해 동행하던 중 웅과 맞닥뜨렸다. 당황한 웅은 못 본 척 얼굴을 가렸으나 매니저 은호(안동구 분)가 기어이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['연모' 로운, 첫사랑 궁녀=♥︎박은빈 알았다..윤제문 정체 의심]]></title>
-        <id>https://entertain.v.daum.net/v/20211207225104026</id>
-        <link href="https://entertain.v.daum.net/v/20211207225104026"/>
-        <updated>2021-12-07T14:12:37.843Z</updated>
-        <content type="html"><![CDATA[[OSEN=선미경 기자] ‘연모’ 로운이 박은빈이 과거 자신이 좋아했던 첫사랑 궁녀임을 알게 됐다. 7일 오후 방송된 KBS 2TV 월화드라마 '연모'(극본 한희정, 연출 송현욱 이현석) 18회에서는 정지운(로운 분)이 이휘(박은빈 분)의 과거를 알게 되는 내용이 그려졌다. 과거 그가 좋아했던, 첫사랑 궁녀 담이(최명빈 분)가 이휘였다는 사실을 듣고 그에게]]></content>
     </entry>
 </feed>
