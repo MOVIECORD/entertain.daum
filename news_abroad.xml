@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2021-12-07T22:12:41.514Z</updated>
+    <updated>2021-12-07T23:13:02.336Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['총기 사고' 알렉 볼드윈, 조지 클루니 발언에 '불쾌']]></title>
+        <id>https://entertain.v.daum.net/v/20211208073716945</id>
+        <link href="https://entertain.v.daum.net/v/20211208073716945"/>
+        <updated>2021-12-07T23:13:01.676Z</updated>
+        <content type="html"><![CDATA[[티브이데일리 김종은 기자] 최근 발생한 총기 사고의 중심에 서 있는 할리우드 배우 알렉 볼드윈이 조지 클루니의 입장에 불쾌감을 드러냈다. 알렉 볼드윈은 최근 ABC뉴스와 인터뷰를 진행, '러스트' 촬영 현장에서 발생한 총기 사고에 대해 말했다. 이날 알렉 볼드윈은 "조지 클루니의 발언을 어떻게 생각하냐"는 물음에 "많은 분들이 이 사태에 대해 첨언을 하고]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["조지 클루니 네가 날 저격하다니.." 총기사고 알렉 볼드윈 불쾌감 토로]]></title>
         <id>https://entertain.v.daum.net/v/20211208060004879</id>
@@ -67,12 +74,5 @@
         <link href="https://entertain.v.daum.net/v/20211207091524009"/>
         <updated>2021-12-07T08:16:19.744Z</updated>
         <content type="html"><![CDATA[[OSEN=최나영 기자] 할리우드 배우 제니퍼 로렌스가 만삭의 몸매로 시선을 사로잡았다. 로렌스는 최근 미국&nbsp;뉴욕에서 열린 넷플릭스 영화 '돈 룩 업(Don't Look Up)' 시사회를 위해 오랜만에 레드카펫을 밟았다. 금색 디올 의상을 입은 로렌스는&nbsp;만삭의 D라인을 자랑했다. 로렌스의 금빛 드레스는&nbsp;전체적인 자수,&nbsp;장식뿐만 아니라 풍성한 주름 망토 소매]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[디카프리오, 18세 연하 전 모델 여친과 '수다타임']]></title>
-        <id>https://entertain.v.daum.net/v/20211207075110309</id>
-        <link href="https://entertain.v.daum.net/v/20211207075110309"/>
-        <updated>2021-12-07T08:16:19.745Z</updated>
-        <content type="html"><![CDATA[[OSEN=최나영 기자] 파티에서 전 남자친구를 만난다면? 할리우드 배우 레오나르도 디카프리오와 니나 모델 아그달은 너무나도 쿨했다. 최근 두 사람은 마이애미 아트 위크 파티에서 재화했다고 페이지식스가 6일(현지시간) 전했다. 18세 나이 차이의 두 사람은 2017년에 헤어지기 전 약&nbsp;1년 동안 사귀었던 바. 목격자는&nbsp;"두 사람은 소시에티스타의 갤로어 파티]]></content>
     </entry>
 </feed>
