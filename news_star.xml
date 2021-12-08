@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2021-12-08T18:15:01.830Z</updated>
+    <updated>2021-12-08T19:11:19.031Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김태호 PD와 넷플릭스의 첫 작품은 '먹보와 털보']]></title>
+        <id>https://entertain.v.daum.net/v/20211209040714260</id>
+        <link href="https://entertain.v.daum.net/v/20211209040714260"/>
+        <updated>2021-12-08T19:11:12.529Z</updated>
+        <content type="html"><![CDATA[“‘연예계 ‘톱티어’(일류)인 비(정지훈)와 홍철이가 어떻게 친하지?’ 하는 생각으로 시작했어요.” MBC ‘무한도전’ ‘놀면 뭐하니?’의 김태호 PD(사진 뒷줄 왼쪽 세 번째)가 넷플릭스를 통해 선보이는 예능 ‘먹보와 털보’를 기획한 계기는 전혀 계획적이지 않았다. 김 PD는 8일 온라인으로 열린 제작발표회에서 “‘놀면 뭐하니?’에서 ‘싹쓰리’가 끝났을]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['골때녀' 오나미, 멀티골로 FC개벤져스 첫 승리 주역..부상 극복하고 '찐 에이스' 등극]]></title>
         <id>https://entertain.v.daum.net/v/20211209024201641</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211208235807485"/>
         <updated>2021-12-08T15:13:30.716Z</updated>
         <content type="html"><![CDATA[[스포츠투데이 서지현 기자] 프로듀서 코드쿤스트가 래퍼 이영지에 대한 애정을 드러냈다. 8일 밤 방송된 MBC 예능프로그램 '라디오스타'에서는 장도연, 신기루, 코드쿤스트, 아이브 장원영이 출연해 '우리는 몸신이다' 특집을 꾸몄다. 이날 코드쿤스트는 앞서 Mnet '고등래퍼3'에서 멘토와 제자로 호흡을 맞췄던 래퍼 이영지에 대해 "처음 만났을 땐 영지가 고]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[신기루 "지상파 진출→골수팬 5000명 증발"..유재석 때문에 울었다?]]></title>
-        <id>https://entertain.v.daum.net/v/20211208235307465</id>
-        <link href="https://entertain.v.daum.net/v/20211208235307465"/>
-        <updated>2021-12-08T15:13:30.718Z</updated>
-        <content type="html"><![CDATA[(서울=뉴스1) 이지현 기자 = 개그우먼 신기루가 솔직한 입담을 뽐냈다. 신기루는 8일 오후 방송된 MBC 예능 프로그램 '라디오스타'에 게스트로 나왔다. 그는 몸무게를 공개하는가 하면 국민 MC 유재석과의 에피소드도 털어놔 눈길을 모았다. 신기루는 쿨하게 몸무게부터 공개했다. "저한테 가장 예쁜 몸무게가 107.7 메가헤르츠(?) 몸무게였다. 10]]></content>
     </entry>
 </feed>
