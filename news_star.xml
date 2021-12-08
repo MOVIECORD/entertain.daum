@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2021-12-08T17:20:27.771Z</updated>
+    <updated>2021-12-08T18:15:01.830Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['골때녀' 오나미, 멀티골로 FC개벤져스 첫 승리 주역..부상 극복하고 '찐 에이스' 등극]]></title>
+        <id>https://entertain.v.daum.net/v/20211209024201641</id>
+        <link href="https://entertain.v.daum.net/v/20211209024201641"/>
+        <updated>2021-12-08T18:14:56.176Z</updated>
+        <content type="html"><![CDATA[[SBS연예뉴스 | 김효정 에디터] 오나미가 팀의 진짜 에이스가 됐다. 8일 방송된 SBS '골 때리는 그녀들'(이하 '골때녀')에서는 시즌2의 개막과 함께 리그전 첫 경기가 펼쳐졌다. 이날 방송에서는 시즌2 리그전의 첫 경기로 FC개벤져스와 FC액셔니스타의 대결이 진행됐다. 두 팀은 시종일관 피 튀기는 공방전을 펼쳤다. 초반에는 개벤져스의 리드로 시작됐다]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['골목식당' 토마토제육덮밥집, '호평' 토치제VS'혹평' 따그면 '엇갈린 평가'..'아이브' 등장 예고]]></title>
         <id>https://entertain.v.daum.net/v/20211209020600465</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211208235307465"/>
         <updated>2021-12-08T15:13:30.718Z</updated>
         <content type="html"><![CDATA[(서울=뉴스1) 이지현 기자 = 개그우먼 신기루가 솔직한 입담을 뽐냈다. 신기루는 8일 오후 방송된 MBC 예능 프로그램 '라디오스타'에 게스트로 나왔다. 그는 몸무게를 공개하는가 하면 국민 MC 유재석과의 에피소드도 털어놔 눈길을 모았다. 신기루는 쿨하게 몸무게부터 공개했다. "저한테 가장 예쁜 몸무게가 107.7 메가헤르츠(?) 몸무게였다. 10]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['라스' 신기루 "예능 늦둥이? '놀뭐' 출연 후 골수팬 5천명 증발..혼란스럽다"]]></title>
-        <id>https://entertain.v.daum.net/v/20211208235301461</id>
-        <link href="https://entertain.v.daum.net/v/20211208235301461"/>
-        <updated>2021-12-08T15:13:30.728Z</updated>
-        <content type="html"><![CDATA[[TV리포트=김은정 기자] 신기루가 인기에 대한 솔직한 생각을 드러냈다. 8일 오후 방송된 MBC '라디오스타'는 ‘우리는 몸신이다’ 특집으로 장도연, 신기루, 코드 쿤스트, 아이브 장원영이 출연했다. 이날 신기루는 데뷔 17년 만에 예능 늦둥이가 된 후 "혼란스럽다"고 소감을 전했다. 2005년 ‘폭소클럽’으로 데뷔한 신기루는 최근 예능, 유튜브, 팟캐스]]></content>
     </entry>
 </feed>
