@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2021-12-09T03:13:19.572Z</updated>
+    <updated>2021-12-09T04:16:17.429Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['스파이더맨: 노 웨이 홈' 예매 오픈 3일차 20만장 돌파..펜데믹 이후 최고 사전 예매 기록]]></title>
+        <id>https://entertain.v.daum.net/v/20211209131223986</id>
+        <link href="https://entertain.v.daum.net/v/20211209131223986"/>
+        <updated>2021-12-09T04:15:55.130Z</updated>
+        <content type="html"><![CDATA[[스포츠조선 조지영 기자] 액션 영화 '스파이더맨: 노 웨이 홈'(존 왓츠 감독)이 압도적인 수치로 예매 오픈 이후 줄곧 전체 예매율 1위를 기록했다. 영화진흥위원회 통합전산망에 따르면 '스파이더맨: 노 웨이 홈'은 예매 오픈 3일 차인 9일 오전 10시 기준 사전 예매량 20만5553장을 돌파했다. 이는 2020년부터 이어진 코로나19 팬데]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[홍콩 액션 마지막 희망 견자단, 이유 알겠네]]></title>
         <id>https://entertain.v.daum.net/v/20211209113602167</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211209090333444"/>
         <updated>2021-12-09T00:40:53.763Z</updated>
         <content type="html"><![CDATA[(서울=뉴스1) 정유진 기자 = 연말 성수기 극장가를 뜨겁게 달굴 대작들이 주목 받고 있는 가운데 영화 '킹메이커'(감독 변성현)가 극장가 대전을 이끌 영화로 주목받고 있다. 12월에는 '킹메이커'를 비롯해 '스파이더맨: 노 웨이 홈'과 '킹스맨: 퍼스트 에이전트' '매트릭스: 리저렉션' 등의 영화가 연말 성수기를 맞아 개봉을 준비 중이다. 그 중 오는]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[마블이 2보 후퇴하는 사이, 1보 전진 중인 K스토리]]></title>
-        <id>https://entertain.v.daum.net/v/20211209090209395</id>
-        <link href="https://entertain.v.daum.net/v/20211209090209395"/>
-        <updated>2021-12-09T00:40:53.764Z</updated>
-        <content type="html"><![CDATA[[티브이데일리 윤지혜 칼럼] ‘마블’과 같은 이야기보따리를 발굴해야 한다 외치던 것이 한없이 무색하게 된 오늘이다. ‘킹덤’에서 활짝 핀 한국의 이야기 산업은, 영화 ‘기생충’이 오스카를 휩쓸고 ‘DP’와 ‘오징어게임’, ‘지옥’ 등이 넷플릭스를 타고 전세계 사람들의 눈과 귀, 마음을 사로잡는 등, 현재 국내외를 통틀어 가장 다채롭고 풍요로운 상태를 맞고]]></content>
     </entry>
 </feed>
