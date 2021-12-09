@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2021-12-09T17:20:55.334Z</updated>
+    <updated>2021-12-09T18:15:07.121Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['꼬꼬무' 씨랜드 화재 참사..천사 같은 아이들 목숨 앗아간 사건의 진실은?]]></title>
+        <id>https://entertain.v.daum.net/v/20211210023111441</id>
+        <link href="https://entertain.v.daum.net/v/20211210023111441"/>
+        <updated>2021-12-09T18:15:00.262Z</updated>
+        <content type="html"><![CDATA[[SBS연예뉴스 | 김효정 에디터] 왜 그날의 여름캠프는 마지막 캠프가 되었을까? 9일 방송된 SBS '꼬리에 꼬리를 무는 그날 이야기'(이하 '꼬꼬무')에서는 '마지막 여름캠프 : 씨랜드 화재 참사'라는 부제로 다시는 일어나지 말아야 할 그날의 이야기가 공개됐다. 1999년 6월 29일, 7살 세라가 다니는 유치원은 1박 2일 일정으로 서해안의 한 수련원]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['워맨스' 최정윤 "과거 생활고..돈이 될 만한 것 차도 처분"]]></title>
         <id>https://entertain.v.daum.net/v/20211210013711366</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211209235930763"/>
         <updated>2021-12-09T15:13:38.236Z</updated>
         <content type="html"><![CDATA[[TV리포트=김은정 기자] 김지성, 이재억, 이창선이 각 팀의 1등이 됐다. 9일 오후 방송된 MBC 서바이벌 오디션 프로그램 '극한데뷔 야생돌'에서는 데뷔조 14인의 스테이지 미션 결과가 공개됐다. 이날 생방송 전 마지막으로 진행되는 ‘라스트 찬스(LAST CHANCE)’의 스테이지 미션이 진행됐다. 각 팀별 1등에게 100점이라는 역대급 점수 주어지며]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['오늘 무해' 공효진, 제작진에 감사인사 "뜻 깊은 프로 될 것"]]></title>
-        <id>https://entertain.v.daum.net/v/20211209235531718</id>
-        <link href="https://entertain.v.daum.net/v/20211209235531718"/>
-        <updated>2021-12-09T15:13:38.236Z</updated>
-        <content type="html"><![CDATA[[TV리포트=이혜미 기자] 배우 공효진이 ‘오늘 무해’ 스태프들에게 감사 인사를 전했다. 9일 방송된 KBS 2TV ‘오늘부터 무해하게’에선 공효진 이천희 전혜진의 탄소 제로 여행기가 공개됐다. 죽도에서의 마지막 밤을 보내며 출연자들은 하나 같이 아쉬움을 표했다. 이에 막내 전혜진은 분위기를 끌어올리고자 깜짝 댄스를 선보였다. 전혜진 표 ‘최준 댄스’에 공]]></content>
     </entry>
 </feed>
