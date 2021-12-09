@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2021-12-09T02:34:08.571Z</updated>
+    <updated>2021-12-09T03:13:19.581Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[신동엽X김유정, 2년 연속 '2021 SBS 연기대상' MC 확정]]></title>
+        <id>https://entertain.v.daum.net/v/20211209114745699</id>
+        <link href="https://entertain.v.daum.net/v/20211209114745699"/>
+        <updated>2021-12-09T03:13:01.682Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 안윤지 기자] /사진제공=SBS방송인 신동엽과 김유정이 또 한번 MC 호흡을 맞춘다. 9일 SBS에 따르면 '2021 SBS 연기대상' MC는 신동엽과 김유정이 지난해에 이어 올해도 맡는다. 지난해 'SBS 연기대상' 진행자로 나선 신동엽, 김유정 2MC의 믿고 보는 조합이 다시 한번 재현된다. '미운우리새끼', '워맨스가 필요해', '동물농장']]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[준호X이세영 '옷 소매 붉은 끝동' 1회 연장.."편성 논의 중"]]></title>
+        <id>https://entertain.v.daum.net/v/20211209113658230</id>
+        <link href="https://entertain.v.daum.net/v/20211209113658230"/>
+        <updated>2021-12-09T03:13:01.683Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 안윤지 기자] '옷 소매 붉은 끝동' /사진제공=MBC'옷 소매 붉은 끝동'이 인기를 업고 1회 연장한다. MBC 관계자는 9일 스타뉴스에 "금토드라마 '옷 소매 붉은 끝동'이 방송 회차를 1회 연장했다. 아직 정확한 편성을 정해지지 않았으며 내부 논의 중"이라고 밝혔다. '옷 소매 붉은 끝동'은 자신이 선택한 삶을 지키고자 한 궁녀와 사랑보다]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['멜랑꼴리아' 이도현표 멜로, 올바른 성장의 예]]></title>
         <id>https://entertain.v.daum.net/v/20211209112710627</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211209100816939"/>
         <updated>2021-12-09T01:58:30.519Z</updated>
         <content type="html"><![CDATA[[스포츠조선 문지연 기자] 배우 박수영(레드벨벳 조이)이 '한 사람만'에서 인플루언서 성미도로 변신한다. JTBC 새 월화드라마 '한 사람만'(문정민 극본, 오현종 연출)에서 박수영은 시한부 선고를 받은 SNS 인플루언서 '성미도' 역을 맡았다. 공개된 이미지 등에서 성미도는 겉보기엔 화려한 외면과 성공한 사업가라는 느낌이 풍기지만, 죽음을]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[수애, 등장과 동시에 압도적 몰입감 선사]]></title>
-        <id>https://entertain.v.daum.net/v/20211209100728903</id>
-        <link href="https://entertain.v.daum.net/v/20211209100728903"/>
-        <updated>2021-12-09T01:58:30.520Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 김수진 기자] 배우 수애가 첫 등장만으로 압도적인 아우라를 발산했다. 지난 8일 첫 방송된 JTBC 수목드라마 '공작도시'에서 수애는 미술관 '스페이스 진'의 실무를 맡은 성진가(家)의 둘째 며느리 윤재희(수애 분)로 분해 시청자들에게 극강의 몰입감을 선사했다. 이날 재희는 지방고검장의 부인 민선(백지원 분)을 싹싹하게 응대하는 모습부터 병원에]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['나는 SOLO' 분당 2.9% 자체 최고..영수·정숙·영자 삼각 텐션 지각변동]]></title>
-        <id>https://entertain.v.daum.net/v/20211209100600814</id>
-        <link href="https://entertain.v.daum.net/v/20211209100600814"/>
-        <updated>2021-12-09T01:58:30.526Z</updated>
-        <content type="html"><![CDATA[(사진=SBS플러스, NQQ)[이데일리 스타in 김보영 기자] 리얼 데이팅 프로그램 ‘나는 SOLO(나는 솔로)’가 4기의 아찔한 ‘운명 데이트’ 공개와 함께 또 한번 자체 최고 시청률을 경신했다. 8일 방송한 NQQ와 SBS의 리얼 데이팅 프로그램 ‘나는 SOLO’ 22회는 평균 시청률 2.4%(닐슨코리아 수도권 유료방송 기준, NQQ-SBS PLUS]]></content>
     </entry>
 </feed>
