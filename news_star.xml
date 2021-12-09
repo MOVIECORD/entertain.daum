@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2021-12-09T18:15:07.121Z</updated>
+    <updated>2021-12-09T19:11:02.692Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김종국 "유튜브 조회수? 외국 애가 저격하면"..도핑검사 결과 발표 임박]]></title>
+        <id>https://entertain.v.daum.net/v/20211210035250786</id>
+        <link href="https://entertain.v.daum.net/v/20211210035250786"/>
+        <updated>2021-12-09T19:10:56.255Z</updated>
+        <content type="html"><![CDATA[[OSEN=박소영 기자] 가수 김종국이 약물 의혹에 따른 도핑 테스트를 결과가 나왔다고 밝혔다. 김종국은 9일 자신의 유튜브 채널에 “짐종국의 짐(GYM)편한 세상”이라는 제목의 영상을 올렸다. 이 영상에서 그는 ‘런닝맨’ 가족인 지석진이 대기실에서 운동을 하자 ‘짐석진’이라 부르며 운동 욕구를 불어넣었다. 2달 뒤 지석진은 진짜로 김종국을 찾아 와 운동을]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['꼬꼬무' 씨랜드 화재 참사..천사 같은 아이들 목숨 앗아간 사건의 진실은?]]></title>
         <id>https://entertain.v.daum.net/v/20211210023111441</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211210000003770"/>
         <updated>2021-12-09T15:13:38.236Z</updated>
         <content type="html"><![CDATA[TV화면과 무대는 아티스트의 다채로운 모습을 담기에는 이제 역부족이다. 카메라 밖에서 혹은 무대 아래서 확인할 수 있는 매력이 분명히 존재하고, 경우에 따라선 오히려 더 많기 때문이다. '자기 PR'의 시대, 이런 다양한 모습들을 매력적으로 표출하는 것도 스타들에게는 중요한 일이 됐다. 무엇보다 시간과 장소에 구애받지 않기 때문에 영상 하나로 광역 홍보가]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['야생돌' 김지성X이재억X이창선, 라스트 찬스 100점 획득→순위 대변동]]></title>
-        <id>https://entertain.v.daum.net/v/20211209235930763</id>
-        <link href="https://entertain.v.daum.net/v/20211209235930763"/>
-        <updated>2021-12-09T15:13:38.236Z</updated>
-        <content type="html"><![CDATA[[TV리포트=김은정 기자] 김지성, 이재억, 이창선이 각 팀의 1등이 됐다. 9일 오후 방송된 MBC 서바이벌 오디션 프로그램 '극한데뷔 야생돌'에서는 데뷔조 14인의 스테이지 미션 결과가 공개됐다. 이날 생방송 전 마지막으로 진행되는 ‘라스트 찬스(LAST CHANCE)’의 스테이지 미션이 진행됐다. 각 팀별 1등에게 100점이라는 역대급 점수 주어지며]]></content>
     </entry>
 </feed>
