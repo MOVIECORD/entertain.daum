@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2021-12-10T09:13:03.920Z</updated>
+    <updated>2021-12-10T10:13:54.090Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
     <entry>
@@ -39,13 +39,6 @@
         <link href="https://entertain.v.daum.net/v/20211210165430550"/>
         <updated>2021-12-10T08:15:02.133Z</updated>
         <content type="html"><![CDATA[[스포츠경향] SF 스릴러 ‘10 아이덴티티’(감독: 에릭 슐츠·출연 사티야 스리드하란·패튼 애쉬브룩 외 수입배급 박수엔터테인먼트)가 관객과 만난다.분열된 10개의 자아라는 독특한 소재의 SF 스릴러 ‘10 아이덴티티’가 오는 28일 개봉한다. 해서는 안 되었던 실험으로 분열된 10개의 자아를 발견한 신경과학자 ‘이단’에게 생긴 미스터리 한 일을 담은 S]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["코미디 침체, 정치 때문" 윤석열 발언에 영화인들 '부글']]></title>
-        <id>https://entertain.v.daum.net/v/20211210164800279</id>
-        <link href="https://entertain.v.daum.net/v/20211210164800279"/>
-        <updated>2021-12-10T08:15:02.134Z</updated>
-        <content type="html"><![CDATA[[성하훈 기자] 윤석열 국민의힘 대선 후보가 청년 문화예술인들과 만난 자리에서 지상파 TV 방송에서 코미디와 정통 사극이 줄어든 것이 "정치권력의 영향력 때문인 것 같다"고 한 것과 관련, 문화예술계 인사들이 강하게 비판하고 나섰다.&nbsp; &nbsp;&nbsp;&nbsp;        ▲ &nbsp;국민의힘 윤석열 대선후보가 8일 서울 종로구 대학로의 한 소극장에서 열린 청년문화예술인과의 간담회]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[업그레이드 된 '스파이더맨: 노 웨이 홈', 3부작의 클라이맥스]]></title>
@@ -109,5 +102,12 @@
         <link href="https://entertain.v.daum.net/v/20211210152700711"/>
         <updated>2021-12-10T08:15:02.147Z</updated>
         <content type="html"><![CDATA[[SBS연예뉴스 | 김지혜 기자] 배우 플로렌스 퓨, 라미 말렉, 베니 사프디가 크리스토퍼 놀란 감독의 신작 '오펜하이머'에 합류했다. 9일(현지시간) 유니버셜 스튜디오에 따르면 크리스토퍼 놀란의 차기작 '오펜하이머'에 세 배우가 캐스팅됐다. '오펜하이머'는 원자폭탄을 연구하고 개발한 미국의 물리학자 로버트 오펜하이머의 삶을 그린 영화다. 퓨는 오펜하이머와]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[총 없는 서부극, 손에 땀을 쥐게 한 긴장감]]></title>
+        <id>https://entertain.v.daum.net/v/20211210145400556</id>
+        <link href="https://entertain.v.daum.net/v/20211210145400556"/>
+        <updated>2021-12-10T10:13:32.241Z</updated>
+        <content type="html"><![CDATA[[김동근 기자] &nbsp;        ▲ &nbsp;영화 &lt;파워 오브 도그&gt; 포스터    ⓒ 넷플릭스  &nbsp;우리 삶의 모든 순간에는 작은 긴장감이 도사리고 있다. 가족들과 보내는 시간, 친구들과 보내는 시간 그리고 직장 동료와 보내는 시간 등 다양한 사람과의 상호작용 속에서 긴장감이 유발된다. 우리가 평소에 눈치채지 못하지만 그 보이지 않는 긴장은 시종일관 우리를 따라다니]]></content>
     </entry>
 </feed>
