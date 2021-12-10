@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2021-12-10T17:19:53.010Z</updated>
+    <updated>2021-12-10T18:15:03.723Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['더솔져스' 팀 알파, 첫 번째 팀 미션 1위..3,4위 찰리-델타, 페널티 미션 예고]]></title>
+        <id>https://entertain.v.daum.net/v/20211211022700546</id>
+        <link href="https://entertain.v.daum.net/v/20211211022700546"/>
+        <updated>2021-12-10T18:14:58.327Z</updated>
+        <content type="html"><![CDATA[[SBS연예뉴스 | 김효정 에디터] 팀 알파가 첫 번째 미션에서 1위를 차지했다. 10일 방송된 SBS '더솔져스'에서는 첫 번째 팀 미션인 장애물 산악행군이 진행됐다. 이날 네 팀의 요원들을 맞이한 세 번째 장애물은 150kg 목봉 운반이었다. 요원들은 엄청난 무게의 목봉을 들고 결승점까지 가야 했다. 체력이 떨어질 대로 떨어진 요원들에게 세 번째 장애물]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["뺨때리고 침뱉어"vs"마녀사냥 억울"..신기루, 이번엔 학폭의혹]]></title>
         <id>https://entertain.v.daum.net/v/20211211015142522</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211211000103101"/>
         <updated>2021-12-10T15:13:20.585Z</updated>
         <content type="html"><![CDATA[코로나19 확진자 7000명대→윤은혜도 '확진' [더팩트ㅣ김샛별 기자] 오토바이 운전사 사망사고를 냈던 아나운서에게 결국 금고형이 구형됐습니다. 코로나바이러스감염증-19(코로나19) 확진자가 연일 7000명을 넘어서고 있는 가운데, 한 배우 역시 동거인에게 감염돼 확진 판정을 받았습니다. ◆ 박신영, 속도·신호 위반 교통사고에 금고 1년 구형 검찰이 지]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["역사 왜곡 NO"..KBS '태종 이방원', 5년 만에 '대하사극 명가' 도전]]></title>
-        <id>https://entertain.v.daum.net/v/20211211000056097</id>
-        <link href="https://entertain.v.daum.net/v/20211211000056097"/>
-        <updated>2021-12-10T15:13:20.586Z</updated>
-        <content type="html"><![CDATA[주상욱·김영철→박진희, 이방원의 색다른 모습 초점 [더팩트ㅣ김샛별 기자] KBS가 5년 만에 정통 대하사극 '태종 이방원'을 통해 '대하드라마의 명가'라는 수식어를 다시 되찾겠다고 포부를 밝혔다. KBS1 새 대하드라마 '태종 이방원'(극본 이정우, 연출 김형일) 제작발표회가 10일 오후 여의도 KBS홀에서 진행됐다. 현장에는 김형일 감독과 배우 주상욱]]></content>
     </entry>
 </feed>
