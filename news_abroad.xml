@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2021-12-10T22:12:33.426Z</updated>
+    <updated>2021-12-10T23:12:41.702Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[벤 애플렉, 전처 제니퍼 가너에 벌 세우고 분노? 근황 화제]]></title>
+        <id>https://entertain.v.daum.net/v/20211211080452059</id>
+        <link href="https://entertain.v.daum.net/v/20211211080452059"/>
+        <updated>2021-12-10T23:12:41.049Z</updated>
+        <content type="html"><![CDATA[[OSEN=최나영 기자] 할리우드 배우&nbsp;벤 애플렉이&nbsp;최근 전처인 배우&nbsp;제니퍼 가너와 가진 근황이 화제다. 두 사람은 지난 9일(현지시간) 미국 로스엔젤레스의 한 보도에서 목격됐다. 두 사람은 아이들 때문에 만남을 가졌고 대화를 나누기 위해 함께 산책을 하고 있었다는 전언. 그런데 한 파파라치가 찍은 사진이&nbsp;큰 화제를 불러일으켰다. 사진 속&nbsp;애플렉은&nbsp;가너에게]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['아마존 CEO와 이혼' 매켄지 스콧 재산 70조, "가장 영향력 있는 여성 1위"]]></title>
         <id>https://entertain.v.daum.net/v/20211211060105964</id>
@@ -46,12 +53,5 @@
         <link href="https://entertain.v.daum.net/v/20211210132606871"/>
         <updated>2021-12-10T05:12:05.445Z</updated>
         <content type="html"><![CDATA[[티브이데일리 김종은 기자] '카우보이 비밥'의 시즌2 제작 계획이 취소됐다. 미국 연예매체 할리우드 리포터는 9일(현지시간) "넷플릭스 '카우보이 비밥'이 시즌1을 끝으로 마무리된다"고 보도했다. '카우보이 비밥'은 카우보이라 불리는 현상금 사냥꾼 세 명이 태양계에서 가장 흉악한 범죄자를 잡기 위해 한 팀을 이뤄 우주를 누비는 액션 서부극으로, 동명의 일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[플로렌스 퓨x라미 말렉x베니 사프디, 놀란 감독 차기작 캐스팅]]></title>
-        <id>https://entertain.v.daum.net/v/20211210080954849</id>
-        <link href="https://entertain.v.daum.net/v/20211210080954849"/>
-        <updated>2021-12-09T23:12:47.375Z</updated>
-        <content type="html"><![CDATA[[OSEN=김보라 기자]&nbsp;배우 플로렌스 퓨, 라미 말렉, 베니 사프디가 크리스토퍼 놀란 감독의 신작에 출연한다. 9일(현지 시간) 유니버셜 스튜디오에 따르면 크리스토퍼 놀란의 차기작 ‘오펜하이머’에 세 배우가 캐스팅됐다. ‘오펜하이머’는 미국의 물리학자로서 물리학 분야에서 다양한 연구를 진행한 로버트 오펜하이머의 삶을 담은 전기영화. 로버트 펜하이머는 2차]]></content>
     </entry>
 </feed>
