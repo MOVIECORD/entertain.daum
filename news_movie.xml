@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2021-12-10T03:13:19.984Z</updated>
+    <updated>2021-12-10T04:16:23.146Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[결혼하고 싶다던 손석구, '10살차' 이설과 열애.."친한 선후배 사이"]]></title>
+        <id>https://entertain.v.daum.net/v/20211210131153621</id>
+        <link href="https://entertain.v.daum.net/v/20211210131153621"/>
+        <updated>2021-12-10T04:16:03.550Z</updated>
+        <content type="html"><![CDATA[[OSEN=김보라 기자]&nbsp;연예계 또 하나의 커플이 탄생했다. 10살 차이가 나는 배우 손석구(39)와 이설(29)이 그 주인공이다. 하지만 두 사람의 소속사 측은 “친한 선후배 사이”라며 열애를 부인하고 있다. 손석구 측은 OSEN에 “친한 선후배 사이”라고 해명했고, 이설 측도 “친한 선후배 사이인 것은 맞지만 사귀는 사이는 아니”라고 이같이 공식입장을]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["흑인 성소수자 소녀의 러브스토리 그리겠다", 톰 홀랜드♥젠데이아 감독되나]]></title>
         <id>https://entertain.v.daum.net/v/20211210113845870</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211210093300929"/>
         <updated>2021-12-10T00:41:56.826Z</updated>
         <content type="html"><![CDATA[마블은 마블이다. 영화 ‘스파이더맨: 노 웨이 홈’이 개봉 전부터 뜨거운 반응을 일으키고 있다. 10일 오전 9시께 영진위 통합전산망에 따르면 ‘스파이더맨 : 노 웨이 홈’(감독 존 왓츠)은 실시간예매율 74.2%를 기록하며 1위를 차지했다. 예매량은 25만 1358명을 기록 중이다. 이는 2020년부터 이어진 코로나19 팬데믹 이후 동시기 사전 예매량]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['블랙핑크 더 무비', 12월 15일 디즈니플러스 공개]]></title>
-        <id>https://entertain.v.daum.net/v/20211210092340608</id>
-        <link href="https://entertain.v.daum.net/v/20211210092340608"/>
-        <updated>2021-12-10T00:41:56.827Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 김나연 기자] 블랙핑크 더 무비 / 사진=디즈니+디즈니플러스가 전 세계를 사로잡은 최고의 글로벌 그룹 블랙핑크의 찬란한 순간과 무대를 담아낸 '블랙핑크 더 무비'를 12월 15일 전격 공개한다. 10일 디즈니플러스는 이 사실을 알리며 강렬함 그 이상의 독보적인 매력을 담아낸 메인 포스터와 예고편을 공개해 이목을 집중시킨다. 이번 작품은 블랙핑크]]></content>
     </entry>
 </feed>
