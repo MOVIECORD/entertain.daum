@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2021-12-11T02:31:33.041Z</updated>
+    <updated>2021-12-11T03:12:45.902Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['고요의 바다' 이준→김선영, 캐릭터 스틸..폭발적 시너지 예고]]></title>
+        <id>https://entertain.v.daum.net/v/20211211114800387</id>
+        <link href="https://entertain.v.daum.net/v/20211211114800387"/>
+        <updated>2021-12-11T03:12:21.908Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 김나연 기자] 이준 / 사진=넷플릭스 '고요의 바다'가 인류 생존의 단서를 찾아 달로 향한 또 다른 이들의 스틸을 공개했다. 9일 넷플릭스는 '고요의 바다' 속 배두나, 공유와 함께 달 탐사선에 오른 정예 배우들의 캐릭터 스틸을 공개했다. '고요의 바다'는 필수 자원의 고갈로 황폐해진 근미래의 지구, 특수 임무를 받고 달에 버려진 연구기지로 떠난]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['믿보배'에서 '믿보감'으로..박정민, '지옥'과 '반장선거' 사이]]></title>
         <id>https://entertain.v.daum.net/v/20211211110001006</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211211063009302"/>
         <updated>2021-12-10T22:12:13.100Z</updated>
         <content type="html"><![CDATA[(서울=뉴스1) 정유진 기자 = 연말연시, '기생충' 식구들의 각자도생, 흥행대결이 펼쳐질 예정이다. 송강호, 이선균, 최우식, 박소담, 박명훈, 정현준 등이 출연한 영화들이 줄줄이 개봉을 준비 중이다. 가장 먼저 스크린에 출격하는 '기생충' 배우는 이선균이다. 이선균은 오는 29일 개봉하는 '킹메이커'(감독 변성현)에서 주인공 서창대를 연기한다. ']]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[유아인 "무엇을 믿어야할 지 모르는 세상은 같아"②]]></title>
-        <id>https://entertain.v.daum.net/v/20211211000015076</id>
-        <link href="https://entertain.v.daum.net/v/20211211000015076"/>
-        <updated>2021-12-10T15:13:05.270Z</updated>
-        <content type="html"><![CDATA[유아인이 바라보는 '지옥'과 '자율성' [더팩트ㅣ이한림 기자] 유아인이 바라보는 '지옥'은 어떤 의미일까. 답변에 대한 기대감을 불러일으키는 배우인 만큼 '지옥' 속 의미들에 대한 질문들을 이어갔다. "지옥은 모두가 상상하지만 실제로 다녀온 사람은 현생에서 만나지 못한 곳일테죠. 인간이 죽어서 가는 곳, 고통을 받는 곳 등을 지옥이라는 개념과 연관시켜 얘]]></content>
     </entry>
 </feed>
