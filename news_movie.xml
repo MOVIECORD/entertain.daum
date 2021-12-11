@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2021-12-11T01:56:15.465Z</updated>
+    <updated>2021-12-11T02:31:33.041Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['믿보배'에서 '믿보감'으로..박정민, '지옥'과 '반장선거' 사이]]></title>
+        <id>https://entertain.v.daum.net/v/20211211110001006</id>
+        <link href="https://entertain.v.daum.net/v/20211211110001006"/>
+        <updated>2021-12-11T02:31:11.800Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 김나연 기자] 감독으로 변신한 배우 박정민이 6일 온라인 생중계로 진행된 왓챠 오리지널 '언프레임드' 제작보고회에 참석해 포즈를 취하고 있다.   네 명의 배우(박정민, 손석구, 최희서, 이제훈)가 프레임에서 벗어나 마음속 깊숙이 품고 있던 이야기를 직접 쓰고 연출한 숏필름 프로젝트 '언프레임드'는 오는 8일 공개된다. /사진제공=왓챠 2021.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['연애 빠진 로맨스' 역주행 첫 1위..누적 47만]]></title>
         <id>https://entertain.v.daum.net/v/20211211104613877</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211211000015076"/>
         <updated>2021-12-10T15:13:05.270Z</updated>
         <content type="html"><![CDATA[유아인이 바라보는 '지옥'과 '자율성' [더팩트ㅣ이한림 기자] 유아인이 바라보는 '지옥'은 어떤 의미일까. 답변에 대한 기대감을 불러일으키는 배우인 만큼 '지옥' 속 의미들에 대한 질문들을 이어갔다. "지옥은 모두가 상상하지만 실제로 다녀온 사람은 현생에서 만나지 못한 곳일테죠. 인간이 죽어서 가는 곳, 고통을 받는 곳 등을 지옥이라는 개념과 연관시켜 얘]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["아내가 프러포즈" 조현재, 프로골퍼 아내♥와의 러브스토리 "후광 봤다더라"]]></title>
-        <id>https://entertain.v.daum.net/v/20211210210127497</id>
-        <link href="https://entertain.v.daum.net/v/20211210210127497"/>
-        <updated>2021-12-10T12:19:07.989Z</updated>
-        <content type="html"><![CDATA[[OSEN=박근희 기자] '식객 허영만의 백반기행’ 조현재가 프로골퍼 아내와의 첫 만남을 언급했다. 10일 전파를 탄 TV조선 '식객 허영만의 백반기행'에서는 22년 차 원조 꽃미남 배우 조현재와 함께 충북 제천으로 떠났다. 조현재는 허영만을 보고 “선생님은 이제 완전히 연예인이다”라며 반겼고, 허영만은 “남자 게스트 중에 짐 들고 오신 분은 처음이다”라며]]></content>
     </entry>
 </feed>
