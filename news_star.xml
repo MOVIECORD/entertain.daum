@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2021-12-11T05:11:40.144Z</updated>
+    <updated>2021-12-11T06:14:59.454Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김재영에게 '너를 닮은 사람'이 특별한 이유]]></title>
+        <id>https://entertain.v.daum.net/v/20211211151025211</id>
+        <link href="https://entertain.v.daum.net/v/20211211151025211"/>
+        <updated>2021-12-11T06:14:53.828Z</updated>
+        <content type="html"><![CDATA[배우 김재영에게 '너를 닮은 사람'은 곧 터닝포인트다. 고현정과 신현빈이라는 두 배우 옆에서 움츠러들 줄 알았지만 자신의 성장 발판으로 삼고 금세 빛을 발했다. 슬럼프 도중 만난 작품이지만 주변 좋은 선배와 연출진 덕분에 한 발자국 더 나아가는 계기가 됐다. 지난 6일 김재영은 본지와 만나 JTBC 드라마 '너를 닮은 사람' 종영한 소감을 전했다.  JT]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["늦둥이 동생도 탈듯"..김구라 아들 그리, 6인승 신차 시승→군대 언급]]></title>
+        <id>https://entertain.v.daum.net/v/20211211144252994</id>
+        <link href="https://entertain.v.daum.net/v/20211211144252994"/>
+        <updated>2021-12-11T06:14:53.844Z</updated>
+        <content type="html"><![CDATA[[OSEN=김나연 기자] 방송인 김구라가 아들 그리와 함께 드라이브에 나섰다. 10일 김구라와 그리의 유튜브 채널 '그리구라'에는 "라스 끝난 구라 납치해서 북한 다녀왔습니다.. 워커홀릭 아빠를 위한 그리의 럭셔리(?) 풀코스 효도 관광 데이트!! 북한 코앞에서 즐기는 명품 라떼의 맛은..?"이라는 제목의 영상이 업로드 됐다. 이날 그리는 "오늘의 테마는]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이경규, 딸 이예림 결혼식서 두 주먹 불끈]]></title>
         <id>https://entertain.v.daum.net/v/20211211135238471</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211211114156332"/>
         <updated>2021-12-11T03:12:39.535Z</updated>
         <content type="html"><![CDATA[[뉴스엔 송오정 기자] 박명수가 청취자 매장에서 딸 민서의 한복을 맞추겠다고 밝혔다. 12월 11일 방송된 KBS 쿨FM '박명수의 라디오쇼'에서는 '11시 내고향' 코너로 꾸며졌다. 이날 박명수와 전화 연결된 한 청취자는 아내가 인사동서 한복 매장을 운영 중이라며, 코로나19로 인해 힘든 아내를 응원하기 위해 나섰다. 청취자 아내가 직접 맞춤 한복을 제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[신정환 "빙수 대박나 월 2억 이상 매출→연예계 복귀 위해 귀국"]]></title>
-        <id>https://entertain.v.daum.net/v/20211211114047328</id>
-        <link href="https://entertain.v.daum.net/v/20211211114047328"/>
-        <updated>2021-12-11T03:12:39.537Z</updated>
-        <content type="html"><![CDATA[가수 겸 방송인 신정환이 과거 싱가폴에서 빙수 가게를 열어 월 2억원 이상의 매출을 올렸었다고 밝혔다. 지난 10일 유튜브 채널 '최양락의 희희양락'에는 '아귀, 짝귀...필리핀의 뎅귀 신정환 아주 호되게 혼난다'라는 제목의 영상이 공개됐다. 이 영상에서 신정환은 도박 사건 이후 어려워졌을 때 도움을 준 사람에 대해 "거의 나락으로 빠졌을 때, 그때는 하루]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["나는 고민한다. 고로, 유아인이다"]]></title>
-        <id>https://entertain.v.daum.net/v/20211211112733235</id>
-        <link href="https://entertain.v.daum.net/v/20211211112733235"/>
-        <updated>2021-12-11T02:31:27.248Z</updated>
-        <content type="html"><![CDATA[[Dispatch=김지호기자] "도전과 성장. 그 강박에 중독된 제 자신이 종종 너무 힘겹기도 합니다. 하지만 저는 계속 이렇게 살아가겠죠. 때론 실패하고, 또 때론 성공하고...."&nbsp;&nbsp; 파고들수록 더 어렵다. 경험이 쌓일수록 더 조심스럽다. 배우 유아인에게 있어 연기가 그런 작업이다. 데뷔 19년이 됐어도, 결코 자만할 수 없다.&nbsp; 그도 그럴 게, 연기를]]></content>
     </entry>
 </feed>
