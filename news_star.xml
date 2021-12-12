@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2021-12-12T15:12:57.801Z</updated>
+    <updated>2021-12-12T16:17:45.091Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['미우새' 이상민, 에너자이저 김종국에 "그러니까 미국X이 약 먹었다고 그러지"]]></title>
+        <id>https://entertain.v.daum.net/v/20211213005700045</id>
+        <link href="https://entertain.v.daum.net/v/20211213005700045"/>
+        <updated>2021-12-12T16:17:39.653Z</updated>
+        <content type="html"><![CDATA[[SBS연예뉴스 | 김효정 에디터] 이상민이 김종국의 지칠 줄 모르는 체력에 혀를 내둘렀다. 12일 방송된 SBS '미운 우리 새끼'(이하 '미우새')에서는 임원진들의 한라산 등반 마지막 이야기가 공개됐다. 이날 방송에서 김종국은 끝까지 임원진들을 강하게 밀어붙였다. 하지만 다른 이들이 김종국을 쫓아가는 것은 쉽지 않았던 것. 특히 김준호와 이상민은 지친]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[정은지, '제2의 성시원'이 아닌 강지구로서②]]></title>
         <id>https://entertain.v.daum.net/v/20211213000036722</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211212224407414"/>
         <updated>2021-12-12T14:11:27.816Z</updated>
         <content type="html"><![CDATA[[티브이데일리 최하나 기자] '미운 우리 새끼' 김희철이 이특 누나의 결혼식 사회에 나섰다. 12일 밤 방송된 SBS 예능프로그램 '미운 우리 새끼'에서는 김희철의 일상이 그려졌다. 이날 김희철은 같은 팀 멤버인 이특 누나의 결혼식 사회에 나섰다. 김희철은 먼저 이특과 그의 모친과 정답게 인사를 나눈 뒤 연습에 돌입했다. 이를 VCR로 보고 있던 김희]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['지리산' 주지훈 생존·전지현 다시 걸어 레인저 복귀→이가섭 사망]]></title>
-        <id>https://entertain.v.daum.net/v/20211212223304367</id>
-        <link href="https://entertain.v.daum.net/v/20211212223304367"/>
-        <updated>2021-12-12T14:11:27.818Z</updated>
-        <content type="html"><![CDATA[[스포츠투데이 서지현 기자] '지리산' 전지현과 주지훈이 다시 레인저로 복귀했다. 12일 밤 방송된 tvN 주말드라마 '지리산'(극본 김은희·연출 이응복) 최종회에서는 김솔(이가섭)이 사망한 뒤 레인저로 복귀한 서이강(전지현), 강현조(주지훈) 모습이 그려졌다. 이날 서이강은 김솔의 면전에서 그를 범인으로 지목했다. 김솔은 "내가 사람들을 죽여요? 그게 무]]></content>
     </entry>
 </feed>
