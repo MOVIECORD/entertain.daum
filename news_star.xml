@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2021-12-13T16:18:35.854Z</updated>
+    <updated>2021-12-13T17:20:20.215Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['동상이몽2' 이지혜, "원하면 출산 과정 공개도 OK"..본격적인 '출산 준비' 돌입]]></title>
+        <id>https://entertain.v.daum.net/v/20211214014505177</id>
+        <link href="https://entertain.v.daum.net/v/20211214014505177"/>
+        <updated>2021-12-13T17:20:13.817Z</updated>
+        <content type="html"><![CDATA[[SBS연예뉴스 | 김효정 에디터] 이지혜의 순산을 기원했다. 13일 방송된 SBS '동상이몽 시즌2-너는 내 운명'(이하 '동상이몽2')에서는 출산을 앞두고 스튜디오 녹화를 마무리하게 된 이지혜의 모습이 그려졌다. 이날 방송에서 김숙은 "심지호 씨의 아이들이 3살 터울인데 태리와 미니도 3살 터울이다"라고 했다. 이에 심지호는 "3살 터울이 좋다. 출산]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[유재석 확진→'놀면 뭐하니?' 측 "전원 검사+'도토리 페스티벌' 취소"]]></title>
         <id>https://entertain.v.daum.net/v/20211214011304101</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211214000131639"/>
         <updated>2021-12-13T15:13:19.717Z</updated>
         <content type="html"><![CDATA[[스포츠서울 | 박효실기자] 전주만 들어도 온국민이 다아는 KBS2 레전드 사극 '추노(2010)' 의 메인 OST를 부른 가수가 등장해 ' 1분 전주'의 한을 풀어내는 화끈한 무대를 선보였다. 13일 방송된 리부팅 오디션예능 JTBC'싱어게인-시즌2'에서 OST조에 속한 20호 가수가 확성기를 들고 범상치 않은 포스를 풍기며 올라 관심을 모았다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[하트 14번 '영철 사과글'..누리꾼 분노 "약 올리냐"]]></title>
-        <id>https://entertain.v.daum.net/v/20211214000015604</id>
-        <link href="https://entertain.v.daum.net/v/20211214000015604"/>
-        <updated>2021-12-13T15:13:19.720Z</updated>
-        <content type="html"><![CDATA['나는 솔로(SOLO)' 영철 시청자 사과…누리꾼 "출연진에 먼저해라" [더팩트｜신정인 인턴기자] '나는 솔로(SOLO)' 4기로 출연 중인 영철이 최근 일으킨 언행 논란에 대해 시청자들에게 사과했으나 싸늘한 반응을 맞고 있다. 13일 오후 영철의 인스타그램에는 '나는 솔로(SOLO)' 시청자들의 분노가 이어지고 있다. 댓글란에는 "아직도 뭐가 잘못됐는지]]></content>
     </entry>
 </feed>
