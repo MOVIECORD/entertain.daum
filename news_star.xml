@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2021-12-14T16:18:44.775Z</updated>
+    <updated>2021-12-14T17:19:22.715Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2021년 카카오TV 총결산, '며느라기' '체인지 데이즈' 인기..2022년 IP 후속시리즈 계획]]></title>
+        <id>https://entertain.v.daum.net/v/20211215012640809</id>
+        <link href="https://entertain.v.daum.net/v/20211215012640809"/>
+        <updated>2021-12-14T17:19:17.554Z</updated>
+        <content type="html"><![CDATA[[헤럴드경제 = 서병기 선임기자]카카오엔터테인먼트가 2021년 한 해 동안 시청자들의 폭발적인 호응을 얻은 카카오TV 오리지널을 총결산, 주요 키워드와 평균 시청자 수 등을 분석한 결과를 공개했다. 지난 2020년 9월 첫 선을 보인 카카오TV 오리지널을 통해 지난 11월까지 약 15개월간 누적 조회수 14억 뷰를 달성했으며, 총 누적 시청자 수는 5700]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['옥문아들' 하하, 정형돈과 방송 재회→사랑꾼 면모까지]]></title>
         <id>https://entertain.v.daum.net/v/20211215003900565</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211214230001916"/>
         <updated>2021-12-14T14:11:59.883Z</updated>
         <content type="html"><![CDATA[[스포티비뉴스=정서희 기자] 배우 남윤수가 첫 번째 사극 '연모'로 또 한번 연기 스펙트럼을 넓혔다. 할리우드 스타 리어나도 디캐프리오가 롤모델이라는 그는 팔색조 같은 배우가 될 것을 약속해 미래를 기대케 했다. KBS2 월화드라마 '연모'(극본 한희정, 연출 송현욱·이현석)를 마친 남윤수는 최근 스포티비뉴스와 서면 인터뷰에서 "사계절을 함께 지내온]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['연모' 박은빈, 궐 떠나 로운과 제2 인생 시작→입맞춤하며 해피엔딩]]></title>
-        <id>https://entertain.v.daum.net/v/20211214230001914</id>
-        <link href="https://entertain.v.daum.net/v/20211214230001914"/>
-        <updated>2021-12-14T14:11:59.883Z</updated>
-        <content type="html"><![CDATA['연모' 박은빈과 로운이 새로운 삶을 시작했다. 14일 방송된 KBS2 월화드라마 '연모'에서는 여인의 신분을 되찾은 이휘(박은빈 분)와 정지운(로운 분)이 새로운 삶을 사는 모습이 그려졌다. 이날 한기재(윤제문 분)의 역모로 이휘는 위기에 놓였다. 그 순간 정석조(배수빈 분)이 나타나 이휘 일행을 도왔고, 이휘와 정지운은 위기를 빠져 나갈 수 있었]]></content>
     </entry>
 </feed>
