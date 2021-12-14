@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/variety</id>
     <title>다음 연예 ─ 뉴스 ─ 예능</title>
-    <updated>2021-12-14T09:13:09.666Z</updated>
+    <updated>2021-12-14T10:14:04.114Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[TV조선 '부캐전성시대'와 선긋기? "예능국 오리지널 프로그램과 관련 없어"]]></title>
+        <id>https://entertain.v.daum.net/v/20211214182029157</id>
+        <link href="https://entertain.v.daum.net/v/20211214182029157"/>
+        <updated>2021-12-14T10:13:53.256Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 박수인 기자] TV조선 측이 '부캐전성시대'와 선을 그었다. TV조선 측은 12월 14일 공식 보도자료를 통해 "'부캐전성시대'는 TV조선 편성 본부가 기획한 사업 컨텐츠의 일환일 뿐, TV조선 제작 본부가 직접 기획해 런칭한 예능국 오리지널 프로그램과는 전혀 관련이 없음을 알린다"고 밝혔다. 이어 "따라서 앞서 기사에 언급된 것과 같이 'TV조]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['복귀' 신정환 "어려운 점 無"..심형래 "필리핀, 절대 안 간다고"]]></title>
         <id>https://entertain.v.daum.net/v/20211214175001405</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211214160541003"/>
         <updated>2021-12-14T07:12:41.397Z</updated>
         <content type="html"><![CDATA[[뉴스엔 박수인 기자] 가수 정동원이 ‘화요일은 밤이 좋아’ 고정 MC로 전격 합류한다. TV CHOSUN ‘화요일은 밤이 좋아’는 가요계 특급 대장님과 ‘미스트롯2’ TOP7 양지은-홍지윤-김다현-김태연-김의영-별사랑-은가은과 ‘미스레인보우’ 강혜연 등 국민 딸들이 매회 팀을 이뤄, 정통 트롯부터 7080 가요, 댄스 등 장르 불문 노래 대결을 펼치는]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[정동원, '화요일은 밤이 좋아' 고정 MC 전격 합류..붐과 재회]]></title>
-        <id>https://entertain.v.daum.net/v/20211214160348932</id>
-        <link href="https://entertain.v.daum.net/v/20211214160348932"/>
-        <updated>2021-12-14T07:12:41.413Z</updated>
-        <content type="html"><![CDATA[[OSEN=박판석 기자]&nbsp;“대한민국&nbsp;‘트롯 프린스’,&nbsp;화요일 밤을 접수한다!!” ‘내일은 미스터트롯’&nbsp;정동원이&nbsp;‘화요일은 밤이 좋아’&nbsp;고정&nbsp;MC로 전격 합류,&nbsp;장민호-붐과 다시 만난다. TV CHOSUN ‘화요일은 밤이 좋아’는 가요계 특급 대장님과&nbsp;‘미스트롯2’ TOP7&nbsp;양지은-홍지윤-김다현-김태연-김의영-별사랑-은가은과&nbsp;‘미스레인보우’&nbsp;강혜연 등 국민]]></content>
     </entry>
 </feed>
