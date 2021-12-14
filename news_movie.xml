@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2021-12-14T03:12:39.907Z</updated>
+    <updated>2021-12-14T04:16:05.644Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[안보현, 김선호 빈자리 채운다..'2시의 데이트' 임윤아와 호흡]]></title>
+        <id>https://entertain.v.daum.net/v/20211214123119161</id>
+        <link href="https://entertain.v.daum.net/v/20211214123119161"/>
+        <updated>2021-12-14T04:15:46.471Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 황혜진 기자] 배우 안보현이 배우 김선호의 빈자리를 채운다. 영화 '2시의 데이트' 주연으로 확정된 것. 내년 4월 크랭크인하는 영화 '2시의 데이트'는 상상초월 비밀을 가진 아랫집 여자를 윗집 남자가 매일 만나게 되며 벌어지는 따뜻하고 동화 같은 이야기의 로맨틱 코미디 작품이다. '엑시트' 이상근 감독과 제작사 외유내강이 다시 조우한 '2시의]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김선호 하차 '도그데이즈' 이현우→유해진 확정..라인업 완성]]></title>
+        <id>https://entertain.v.daum.net/v/20211214121855878</id>
+        <link href="https://entertain.v.daum.net/v/20211214121855878"/>
+        <updated>2021-12-14T04:15:46.472Z</updated>
+        <content type="html"><![CDATA[[OSEN=김보라 기자]&nbsp;배우 이현우가 새 한국영화 ‘도그 데이즈’에 캐스팅되면서 김선호의 빈자리를 메웠다. 이로써 극을 이끌어나갈 배우 라인업이 완성됐다. 이현우가 최근 ‘도그 데이즈’의 시나리오를 받고 출연을 결정한 것으로 14일 OSEN 취재 결과 확인됐다. 앞서 지난달 3일 배우 유해진이, 이달 13일 배우 다니엘 헤니가 ‘도그 데이즈’에 합류했다는]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[안보현, 임윤아 만난다..'2시의 데이트' 주연]]></title>
         <id>https://entertain.v.daum.net/v/20211214113230128</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211214091638016"/>
         <updated>2021-12-14T00:43:33.475Z</updated>
         <content type="html"><![CDATA[[동아닷컴] ‘도그데이즈’ 유해진X윤여정→탕준상 캐스팅 확정 [공식] 영화 ‘도그데이즈’(가제)가 유해진, 윤여정, 김윤진, 정성화, 김서형, 이현우, 탕준상까지 캐스팅을 확정하고 본격적인 촬영 준비에 돌입했다. ‘도그데이즈’(가제)가 유해진, 윤여정, 김윤진, 정성화, 김서형, 이현우, 탕준상 등 출연진의 캐스팅을 완료했다. ‘도그데이즈’(가제)는 하루]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[영화 '도그 데이즈', 유해진·윤여정·김윤진·김서형 등 캐스팅 확정]]></title>
-        <id>https://entertain.v.daum.net/v/20211214091621007</id>
-        <link href="https://entertain.v.daum.net/v/20211214091621007"/>
-        <updated>2021-12-14T00:43:33.476Z</updated>
-        <content type="html"><![CDATA[[스포츠조선 이승미 기자]영화 '도그데이즈'(가제, 김덕민 감독, CJ ENM·JK필름 제작)가 캐스팅을 확정하고 촬영 준비에 돌입했다. 하루도 바람 잘 날 없는 동물병원에서 반려견을 통해 연결된 사람들이 서로를 알아가고 위로하며 마음을 나누는 이야기를 그린 영화 '도그데이즈'(가제)가 유해진, 윤여정, 김윤진, 정성화, 김서형, 이현우, 탕]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['도그데이즈' 유해진→이현우, 캐스팅 확정..개와 사람 소통 그린다]]></title>
-        <id>https://entertain.v.daum.net/v/20211214091524977</id>
-        <link href="https://entertain.v.daum.net/v/20211214091524977"/>
-        <updated>2021-12-14T00:43:33.477Z</updated>
-        <content type="html"><![CDATA[[서울경제] 영화 '도그데이즈'(가제)가 촬영에 돌입한다. '도그데이즈' 측은 14일 배우 유해진, 윤여정, 김윤진, 정성화, 김서형, 이현우, 탕준상의 캐스팅을 확정했다고 밝혔다. '도그데이즈'는 하루도 바람 잘 날 없는 동물 병원에서 반려견을 통해 연결된 사람들이 서로를 알아가고 위로하며 마음을 나누는 이야기다. '럭키' '공조' '택시운전사' '19]]></content>
     </entry>
 </feed>
