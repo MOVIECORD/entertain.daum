@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2021-12-15T21:11:33.659Z</updated>
+    <updated>2021-12-15T22:12:42.966Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[코로나19 확산에 연말 연예계 비상등]]></title>
+        <id>https://entertain.v.daum.net/v/20211216065708125</id>
+        <link href="https://entertain.v.daum.net/v/20211216065708125"/>
+        <updated>2021-12-15T22:12:19.514Z</updated>
+        <content type="html"><![CDATA[영화 ‘비상선언’의 제작진이 최근 신종 코로나바이러스 감염증(코로나19) 확산세가 급증하자 내년 1월 초로 예정했던 개봉 일정을 연기했다. 사진은 영화의 한 장면. 사진제공｜쇼박스신종 코로나바이러스 감염증(코로나19) 확진자가 폭증하면서 방역 조치가 강화될 것으로 보여 연말 방송연예계에도 ‘빨간불’이 켜졌다. ‘스파이더맨:노 웨이 홈’이 흥행 가도의 ‘녹]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['킹메이커' 불협화음도 화음이다]]></title>
         <id>https://entertain.v.daum.net/v/20211216053402199</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211215172402350"/>
         <updated>2021-12-15T09:12:48.178Z</updated>
         <content type="html"><![CDATA[[이선필 기자] ▲ &nbsp;영화 &lt;드라이브 마이 카&gt; 공식 포스터.    ⓒ 영화사 조아  &nbsp; 연출가 남편과 배우인 아내가 결혼해 가정을 꾸렸다. 아내는 시나리오를 쓰기 시작했고, 남편은 여기에 조언하며 이야기를 완성해간다. 겉으로 보면 서로에게 좋은 영향을 주는 완벽한 부부의 모습이다. 감정의 파고 없이 평온한 두 사람의 일상은 우연히 출장이 연]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['클리포드 더 빅 레드 독' 코로나 확산세에 1월12일로 개봉 연기]]></title>
-        <id>https://entertain.v.daum.net/v/20211215171804173</id>
-        <link href="https://entertain.v.daum.net/v/20211215171804173"/>
-        <updated>2021-12-15T09:12:48.180Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 배효주 기자] 영화 '클리포드 더 빅 레드 독'이 코로나19로 개봉일을 변경한다. 배급사 롯데엔터테인먼트는 "오는 29일 개봉 예정이었던 '클리포드 더 빅 레드 독'이 전국적으로 코로나19 확산세가 급증함에 관객들이 보다 안전하게 관람할 수 있는 환경에서 만날 수 있게 개봉을 연기하고자 한다"고 밝혔다. 이어 "현재 정부의 특별방역강화 지침이]]></content>
     </entry>
 </feed>
