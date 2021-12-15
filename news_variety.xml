@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/variety</id>
     <title>다음 연예 ─ 뉴스 ─ 예능</title>
-    <updated>2021-12-15T16:18:25.078Z</updated>
+    <updated>2021-12-15T17:19:51.326Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['인프피' 구교환, 조세호의 연락처 교환 제안 거절 "천천히"]]></title>
+        <id>https://entertain.v.daum.net/v/20211216013546555</id>
+        <link href="https://entertain.v.daum.net/v/20211216013546555"/>
+        <updated>2021-12-15T17:19:40.745Z</updated>
+        <content type="html"><![CDATA[구교환이 낯가리는 ‘인프피’ 성격을 드러냈다. 15일(수) 방송된 tvN ‘유 퀴즈 온 더 블럭’ 135화 ‘나도 모르게’ 편에서 화장품 브랜드 매니저 황지연, 매운 볶음면 개발자 원주연, 영상 콘텐츠 제작자 이성호, 충무로 대세 배우 구교환이 ‘유퀴저’로 출연해 열정 넘치는 인생 이야기를 전했다. 이날 유재석이 구교환에게 “MBTI가 어떻게 되나?”]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이영지 "수능날, 늦잠 자서 시험 패스..도시락만 먹어"]]></title>
         <id>https://entertain.v.daum.net/v/20211216011021409</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211215235745821"/>
         <updated>2021-12-15T15:13:12.827Z</updated>
         <content type="html"><![CDATA[FC 탑걸과 FC 아나콘다가 승리를 자신했다. 15일(수) 방송된 SBS ‘골 때리는 그녀들’ 24회에서 FC 탑걸(채리나, 바다, 간미연, 아유미, 유빈, 문별)과 FC 아나콘다(신아영, 오정연, 박은영, 윤태진, 주시은, 최은경)가 시즌2 리그전에서 맞붙는 모습이 공개됐다. 첫 승리를 위해 지옥훈련을 했던 FC 아나콘다는 FC 탑걸과의 대결을 앞두]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김정민 "이동휘, MSG워너비 단톡방서 여친 정호연 자랑..'비욘세랑 한솥밥 식구'라고"]]></title>
-        <id>https://entertain.v.daum.net/v/20211215235733820</id>
-        <link href="https://entertain.v.daum.net/v/20211215235733820"/>
-        <updated>2021-12-15T15:13:12.828Z</updated>
-        <content type="html"><![CDATA[[마이데일리 = 김나라 기자] '라디오스타'에서 배우 김정민이 이동휘와 정호연 커플을 언급했다. 15일 오후 방송된 MBC '라디오스타'에서는 '내 이름을 불러줘' 특집이 그려졌다. 장현성, 김정민, 안은진, 김경남이 게스트로 등장했다. 이날 김정민은 "프로젝트 그룹 MSG워너비는 끝나지 않았다"라며 "아직까지 단톡방도 활발하다. 8인이 매일매일 서로의]]></content>
     </entry>
 </feed>
