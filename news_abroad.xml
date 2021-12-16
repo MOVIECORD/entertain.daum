@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2021-12-16T08:15:50.379Z</updated>
+    <updated>2021-12-16T09:13:47.623Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['아바타' 제임스 카메론 감독 "차기작 흥행 여부? 장담할 수 없다"]]></title>
+        <id>https://entertain.v.daum.net/v/20211216173116591</id>
+        <link href="https://entertain.v.daum.net/v/20211216173116591"/>
+        <updated>2021-12-16T09:13:46.868Z</updated>
+        <content type="html"><![CDATA[[티브이데일리 김종은 기자] 제임스 카메론 감독이 '아바타' 차기작에 대해 말했다. 제임스 카메론은 14일(현지시간) 엔터테인먼트 위클리와의 인터뷰에서 영화 '아바타2'의 제작 근황을 들려줬다. 이날 제임스 카메론은 "'아바타'의 엄청난 성공으로 후속작까지 제작할 수 있었지만, 차기작이 흥행할 수 있을 것 같냐에 대한 질문에는 쉽사리 대답하지 못할 것 같다]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['90일의 약혼자' 인기 출연자, 코로나로 사망..향년 45세]]></title>
         <id>https://entertain.v.daum.net/v/20211216160218729</id>
@@ -60,19 +67,5 @@
         <link href="https://entertain.v.daum.net/v/20211215185515702"/>
         <updated>2021-12-15T10:13:59.334Z</updated>
         <content type="html"><![CDATA[[티브이데일리 이기은 기자] ‘그래미 가수’ 빌리 아일리시가 신종 코로나바이러스 감염증(코로나19)와 사투를 벌였다. 빌리는 13일(현지시간) 하워드 스턴과 인터뷰에서 지난 8월에 코로나19에 감염돼 2달 간 투병했다는 사실을 고백했다. 빌리 아일리시는 “그건 끔찍했다. 아직도 부작용이 있다. 거의 두 달 동안 아팠다”는 후기를 전했다. 그러면서 그는 "백]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[中 톱스타 왕리홍, 10살 연하 아내와 이혼 발표..결혼 8년만]]></title>
-        <id>https://entertain.v.daum.net/v/20211215172626434</id>
-        <link href="https://entertain.v.daum.net/v/20211215172626434"/>
-        <updated>2021-12-15T09:13:07.437Z</updated>
-        <content type="html"><![CDATA[[OSEN=지민경 기자] 중화권 톱스타 왕리홍이 결혼 8년 만에 이혼했다. 15일(현지 시간) 다수의 중국 매체 보도에 따르면 왕리홍은 지난 11월 말 10살 연하 아내 리징레이와 이혼하고 지난 8년 간의 결혼 생활을 마무리 했다. 왕리홍 역시 이날 오후 자신의 웨이보를 통해 이혼을 공식 인정했다. 그는 “최근 몇 년 간의 결혼 생활 중 내가 부족한 점이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[빌리 아일리시 "지난 8월 코로나 감염..백신 맞고 살았다"]]></title>
-        <id>https://entertain.v.daum.net/v/20211215172441375</id>
-        <link href="https://entertain.v.daum.net/v/20211215172441375"/>
-        <updated>2021-12-15T09:13:07.439Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 김노을 기자) 팝스타 빌리 아일리시가 코로나19 감염 후유증을 고백했다. 빌리 아일리시는 13일(현지시간) 하워드 스턴이 진행하는 라디오쇼 '하워드 스턴쇼'에 출연해 "지난 8월 코로나19에 감염돼 두 달 간 아팠으며, 지금까지 부작용에 시달리고 있다"고 밝혔다. 그는 "백신 덕분에 내가 괜찮다는 것을 분명히 하고 싶다"면서 "예방접종을 하지]]></content>
     </entry>
 </feed>
