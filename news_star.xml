@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2021-12-17T03:12:46.623Z</updated>
+    <updated>2021-12-17T04:16:20.785Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['구해줘! 홈즈' 아이키 "예명, 제 키가 아이만 해서"]]></title>
+        <id>https://entertain.v.daum.net/v/20211217131004920</id>
+        <link href="https://entertain.v.daum.net/v/20211217131004920"/>
+        <updated>2021-12-17T04:16:15.087Z</updated>
+        <content type="html"><![CDATA[[스포츠투데이 서지현 기자] 댄서 아이키가 예명에 대한 비밀을 밝힌다. 19일 밤 방송되는 MBC 예능프로그램 '구해줘! 홈즈'에서는 댄스 크루 '훅'의 리더 아이키가 매물 찾기에 나선다. 이날 방송에서는 왕복 4시간 출·퇴근하는 신혼부부가 의뢰인으로 등장한다. 결혼 2년 차 신혼부부는 인천공항에서 일하는 아내를 위해 인천 청라지구에 신혼집을 구했다고 한다]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TV조선이 또.. '국민가수' 논란, 방송사고도 대물림되나]]></title>
+        <id>https://entertain.v.daum.net/v/20211217124212538</id>
+        <link href="https://entertain.v.daum.net/v/20211217124212538"/>
+        <updated>2021-12-17T04:16:15.093Z</updated>
+        <content type="html"><![CDATA[[티브이데일리 황서연 기자] '내일은 국민가수'가 합격자 발표를 실수하는 방송 사고를 내 논란에 휩싸였다. 16일 방송한 TV조선 예능프로그램 '내일은 국민가수'(이하 '국민가수')  결승 1차전에서 어처구니 없는 실수가 발생했다. 합격자의 이름을 탈락자로 잘못 고지하는 상황이 벌어진 것. 이날 '국민가수'는 생방송으로 진행됐다. 톱10에서 3명을 탈락시켜]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["덕분에 행복" 마지막 인사 남기고 떠난 김철민..후배들 추모 물결]]></title>
         <id>https://entertain.v.daum.net/v/20211217120405924</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211217112021572"/>
         <updated>2021-12-17T03:12:41.291Z</updated>
         <content type="html"><![CDATA[[뉴스엔 송오정 기자] 박명수가 올 한 해를 돌아보며 아쉬움을 드러냈다. 12월 17일 방송된 KBS 쿨FM '박명수의 라디오쇼'에서는 빅데이터 전문가 전민기 팀장과 '검색N차트' 코너로 꾸며졌다. 이날은 크리스마스 특집으로 '캐럴 TOP5'를 주제로 이야기 나눴다. 박명수는 캐럴에 대해 "들을 때는 좋은데 한 해가 가는 것 아니냐. 매일 크리스마스면 좋]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[혜리 측 "무분별한 악플, 좌시할 수 없는 수준..법적 대응 진행"]]></title>
-        <id>https://entertain.v.daum.net/v/20211217111725457</id>
-        <link href="https://entertain.v.daum.net/v/20211217111725457"/>
-        <updated>2021-12-17T03:12:41.291Z</updated>
-        <content type="html"><![CDATA[[스포츠조선 이승미 기자] 가수 겸 배우 혜리가 악성 게시물에 법적 대응을 예고했다. 혜리의 소속사 크리에이티브그룹아이엔지 측은 17일 공식 SNS에 "최근 온라인 커뮤니티, SNS 등을 통해 당사 소속 아티스트인 혜리를 향한 악의적 비방, 인신공격, 성희롱, 명예훼손 등의 악성 게시물이 급증하고 있어 이에 대한 법적 대응을 진행할 것임을 알]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['국민가수' 대인배 이병찬, 순위 오류 피해에도 "행복"]]></title>
-        <id>https://entertain.v.daum.net/v/20211217110603988</id>
-        <link href="https://entertain.v.daum.net/v/20211217110603988"/>
-        <updated>2021-12-17T03:12:41.291Z</updated>
-        <content type="html"><![CDATA[가수 이병찬이 '국민가수'를 무대를 꾸며준 안무팀에게 감사 인사를 전했다. 순위 발표 실수로 곤혹을 치른 것과는 별개로 행복한 소감을 발표해 팬들을 안심시킨 것. 17일 이병찬은 자신의 인스타그램에 TV조선 '내일은 국민가수' 무대 사진 두 장과 영상 일부분을 잘라 게재했다. 이병찬은 "행복하고 재밌게 무대를 즐겼습니다"라며 "이렇게 좋은 무대를 할]]></content>
     </entry>
 </feed>
