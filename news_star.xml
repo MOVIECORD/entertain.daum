@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2021-12-17T16:19:15.820Z</updated>
+    <updated>2021-12-17T17:18:47.248Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['더솔져스' 알파-브라보-찰리, 진흙 속에서 2000kg 차량 끌기..어드밴티지 얻게 될 팀은?]]></title>
+        <id>https://entertain.v.daum.net/v/20211218014200372</id>
+        <link href="https://entertain.v.daum.net/v/20211218014200372"/>
+        <updated>2021-12-17T17:18:42.091Z</updated>
+        <content type="html"><![CDATA[[SBS연예뉴스 | 김효정 에디터] 어드밴티지를 가질 팀은 누구? 17일 방송된 SBS '더솔져스'에서는 다음 팀 미션의 어드밴티지를 건 미션이 진행됐다. 이날 처음으로 공개된 어드밴티지 선정 미션은 바로 진흙 속에서 2000kg 중량의 차량을 빼내는 것. 이는 팀워크와 근지구력 볼 수 있는 실전 미션이었다. 우선 지난 미션의 1위 팀인 알파에게는 어드밴티]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[신기루, 학폭 의혹 직접 해명 "겁 많아..누굴 때려 본 적 없어"]]></title>
         <id>https://entertain.v.daum.net/v/20211218010600241</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211218001607009"/>
         <updated>2021-12-17T16:19:08.741Z</updated>
         <content type="html"><![CDATA[[티브이데일리 이기은 기자] '배드 앤 크레이지'가 제목대로 독특한 남자들의 인생을 그린 탄탄한 장르물로 출범했다. 나쁜 이동욱, 미친 위하준, 바른 차학연의 삼인삼색 캐릭터가 드라마의 활기를 견인할 전망이다. 17일 밤 방송된 tvN 금토드라마 '배드 앤 크레이지'(극본 김새봄·연출 유선동) 첫 방송 1회에서는 등장인물 류수열(이동욱), K(위하준), 이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['나혼산' 경수진 "이른나이 결혼하는 친구 결혼, 반대했었다"]]></title>
-        <id>https://entertain.v.daum.net/v/20211218001107000</id>
-        <link href="https://entertain.v.daum.net/v/20211218001107000"/>
-        <updated>2021-12-17T15:13:06.568Z</updated>
-        <content type="html"><![CDATA[[스포츠투데이 백지연 기자] '나 혼자 산다' 배우 경수진이 친구의 결혼을 반대했었다고 밝혔다. 17일 밤 방송된 MBC 예능프로그램 '나 혼자 산다'에 경수진이 게스트로 등장했다. 이날 방송에서 경수진은 오랜 친구를 집에 초대해 이런저런 대화를 나눴다. 10년 전 이른 나이 결혼한 친구에게 경수진은 "내가 결혼을 많이 반대했던 거 기억하냐"고 물었다.]]></content>
     </entry>
 </feed>
