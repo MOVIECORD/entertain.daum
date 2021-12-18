@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2021-12-18T07:12:26.597Z</updated>
+    <updated>2021-12-18T08:15:16.410Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["누구 때릴만한 애 아냐"..신기루 '학폭 논란'에 동창·주민 총출동]]></title>
+        <id>https://entertain.v.daum.net/v/20211218171025197</id>
+        <link href="https://entertain.v.daum.net/v/20211218171025197"/>
+        <updated>2021-12-18T08:15:10.436Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 최희재 기자) 코미디언 신기루가 학교 폭력 논란을 전면 부인한 가운데 동창, 주민들의 증언이 이어졌다. 지난 9일, 신기루와 중학교 동창이라고 밝힌 A씨는 한 온라인 커뮤니티를 통해 '어렸을 때 학폭 가해자가 티비에 나옵니다. 게다가 대세 연예인이라고 자꾸 홍보기사까지 뜨네요'라는 제목의 글을 게재, 신기루를 학교 폭력(이하 '학폭') 가해]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[첫 베일 '설강화', 독이 든 성배]]></title>
+        <id>https://entertain.v.daum.net/v/20211218162607653</id>
+        <link href="https://entertain.v.daum.net/v/20211218162607653"/>
+        <updated>2021-12-18T08:15:10.437Z</updated>
+        <content type="html"><![CDATA[[티브이데일리 이기은 기자] 정해인, 지수. 잘 나가는 두 청춘 배우가 80년대 멜로를 펼친다. 역사 왜곡 논란이 뜻하지 않은 노이즈 마케팅으로 이어진 가운데, 드디어 첫 베일을 벗은 '설강화'가 어떤 정체성을 드러낼까. 오늘(18일) 밤 첫 방송되는 JTBC 토일드라마 '설강화 : snowdrop'(극본 유현미 연출 조현탁)(이하 '설강화')는 1987년]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["늘 사랑합니다" 故 종현, 오늘 4주기..SM·샤이니·예리 추모]]></title>
         <id>https://entertain.v.daum.net/v/20211218155408336</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211218130931934"/>
         <updated>2021-12-18T04:15:58.524Z</updated>
         <content type="html"><![CDATA[(엑스포츠뉴스 최희재 기자) 가수 션이 1억을 기부했다. 소속사 YG엔터테인먼트는 18일 션이 서울 둘레길 160km 트레일 러닝을 도전하며 모금한 금액과 함께 국내 최초 루게릭요양센터 건립을 위해 1억 원을 기부했다고 밝혔다. 션은 지난 6월 15일 2011년부터 시작한 기부런 10주년을 맞아 최초로 트레일 러닝에 도전했다. 당시 '체리'를 통해 모금된]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[유재석 불참 'SBS 연예대상', 최고의 프로그램상·대상 주인공은?]]></title>
-        <id>https://entertain.v.daum.net/v/20211218125002822</id>
-        <link href="https://entertain.v.daum.net/v/20211218125002822"/>
-        <updated>2021-12-18T04:15:58.527Z</updated>
-        <content type="html"><![CDATA[[OSEN=김보라 기자]&nbsp;개그맨 유재석이 코로나 검사에서 양성 반응을 보여 스케줄 소화가 불가한 가운데, 오늘(18일) ‘2021 SBS 연예대상’이 개최된다. 시청자들의 사랑을 받은 올해 최고의 프로그램과 대상의 주인공은 누구일지 이목이 집중된다. 가수 이승기, 개그우먼 장도연, 모델 한혜진이 진행을 맡은 2021 SBS 연예대상은 18일 오후 8시 35]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[나훈아 등 가수들, 코로나에도 콘서트 여는 이유]]></title>
-        <id>https://entertain.v.daum.net/v/20211218124204803</id>
-        <link href="https://entertain.v.daum.net/v/20211218124204803"/>
-        <updated>2021-12-18T04:15:58.529Z</updated>
-        <content type="html"><![CDATA[기사내용 요약 "산업 전체가 망하지 않기 위해" "사전 모의시험 기회 없어…자체 방역 강화로 몸부림" [서울=뉴시스]이재훈 기자 = 코로나19의 거센 확산세로 정부가 18일부터 다시 방역을 강화했다. 그런 가운데 이날도 서울에서 여러 콘서트가 예정대로 열린다. 전날부터 나훈아(올림픽공원 체조경기장)를 비롯해 NCT 127(고척스카이돔), 김준수(코엑스]]></content>
     </entry>
 </feed>
