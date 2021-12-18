@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2021-12-18T18:14:45.344Z</updated>
+    <updated>2021-12-18T19:10:34.073Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[오은영 박사의 시의적절한 재등장]]></title>
+        <id>https://entertain.v.daum.net/v/20211219040032288</id>
+        <link href="https://entertain.v.daum.net/v/20211219040032288"/>
+        <updated>2021-12-18T19:10:27.340Z</updated>
+        <content type="html"><![CDATA[[서울=뉴시스]조민정 인턴 기자 = 작년 초부터 전 세계로 확산된 코로나19 팬데믹이 장기화되면서 세상을 둘러싼 모든 것이 변화했다. 최근에도 정부가 발표한 방역 지침에 따라 4인 이상 모임이 제한됐다. 사람들은 코로나 감염자라는 '낙인' 앞에서 큰 두려움을 느끼고 있다. 여럿이서 모이는 모임을 멀리하기 시작한 이유다. 단체보다는 개인을 선호하기 시작한]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[대상은 '미우새'팀..'골때녀' 트로피 다수 차지]]></title>
+        <id>https://entertain.v.daum.net/v/20211219035517278</id>
+        <link href="https://entertain.v.daum.net/v/20211219035517278"/>
+        <updated>2021-12-18T19:10:27.347Z</updated>
+        <content type="html"><![CDATA[지난 18일 오후 방송된 '2021 SBS 연예대상'에서 최고의 영여옌 대상은 '미운 우리 새끼' 팀에게 돌아갔다. /사진=SBS 공식 페이스북'2021 SBS 연예대상'(이하 연예대상)에서 대상의 영예는 개인이 아닌 '미운 우리 새끼' 팀이 차지했다. 지난 18일 오후 방송된 연예대상에서 최고의 영광인 대상은 '미운 우리 새끼' 팀에게 돌아갔다. 이상민은]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[유재석 없는 혼돈의 'SBS 연예대상'.. 대상은 '미우새' 팀]]></title>
         <id>https://entertain.v.daum.net/v/20211219023801220</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211219011012933"/>
         <updated>2021-12-18T16:17:49.387Z</updated>
         <content type="html"><![CDATA[[뉴스엔 박수인 기자] '미운 우리 새끼' 팀이 영예의 대상을 수상했다. ‘2021 SBS 방송연예대상'이 12월 18일 SBS 상암 프리즘타워에서 MC 이승기, 장도연, 한혜진 진행으로 개최됐다. ‘2021 SBS 연예대상’은 2021년을 빛낸 SBS 예능인들과 함께 ‘Next Level’이라는 부제로 꾸며져 올해의 SBS 예능 총결산은 물론, 메타버스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['미우새' 팀, 단체 대상 '영예'..이승기 PD상·지석진 명예사원상]]></title>
-        <id>https://entertain.v.daum.net/v/20211219010930930</id>
-        <link href="https://entertain.v.daum.net/v/20211219010930930"/>
-        <updated>2021-12-18T16:17:49.388Z</updated>
-        <content type="html"><![CDATA[[OSEN=지민경 기자] ‘미운 우리 새끼’팀이 ‘2021 SBS 연예대상’에서 대상을 수상했다. 18일 오후 방송된 ‘2021 SBS 연예대상’에서는 대상 수상자가 공개됐다. 이날 대상은 ‘미운 우리 새끼’ 팀에게 돌아갔다. 이상민은 “너무 감사하다. 미운 우리 새끼 모두가 대상을 받았다. 제가 2017년에 이 자리에서 신인상을 받고 2018년에 우수상을]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['SBS 연예대상' '미우새' 팀 대상, '골때녀' 8관왕]]></title>
-        <id>https://entertain.v.daum.net/v/20211219010719909</id>
-        <link href="https://entertain.v.daum.net/v/20211219010719909"/>
-        <updated>2021-12-18T16:17:49.389Z</updated>
-        <content type="html"><![CDATA[[티브이데일리 김종은 기자] '2021 SBS 연예대상'에서 '미운우리새끼' 팀 전원이 대상을 수상하는 영예를 안았다. '2021 SBS 연예대상'이 18일 밤 생중계로 진행됐다. 진행은 이승기, 장도연, 한혜진이 맡았다. 이날 대상의 시상은 최영인 SBS예능본부장과 김종국이 맡았다. 이들이 발표한 대상의 주인공은 SBS '미운우리새끼' 팀 전원이었다.]]></content>
     </entry>
 </feed>
