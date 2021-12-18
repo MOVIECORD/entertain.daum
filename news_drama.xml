@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2021-12-18T10:13:22.936Z</updated>
+    <updated>2021-12-18T11:10:25.287Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['신사와 아가씨' 이세희, 지현우 마지막 고백도 외면했다]]></title>
+        <id>https://entertain.v.daum.net/v/20211218200638599</id>
+        <link href="https://entertain.v.daum.net/v/20211218200638599"/>
+        <updated>2021-12-18T11:10:08.991Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 이이진 기자) '신사와 아가씨' 이세희가 지현우에게 선을 그었다. 18일 방송된 KBS 2TV 주말드라마 '신사와 아가씨' 25회에서는 박단단(이세희 분)이 이영국(지현우)을 오해하고 밀어내는 모습이 그려졌다. 이날 이영국은 박단단에게 마지막으로 고백하기로 결심했고, 남산에서 기다리겠다고 말했다. 박단단은 애써 외면했지만 끝내 남산으로 달려갔]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['어느날' 김수현 "처음부터 정주행 추천"..차승원 "새 연기 좋았다"]]></title>
+        <id>https://entertain.v.daum.net/v/20211218191739327</id>
+        <link href="https://entertain.v.daum.net/v/20211218191739327"/>
+        <updated>2021-12-18T11:10:08.994Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 김현정 기자) 19일 0시(18일 밤 12시) 마지막회를 앞둔 쿠팡플레이 시리즈 ‘어느 날’ 김수현-차승원-김성규-이설-김신록-양경원 등 주역들이 사랑을 보내준 시청자들을 향한 종영 인사를 남겼다. 지난달 27일 0시(26일 밤 12시)에 첫 공개된 쿠팡플레이 시리즈 ‘어느 날’은 첫 공개 이후 네이버 ‘지금 많이 찾는 웹드라마’ 1위를 꾸]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김수현→차승원, '어느 날' 최종회 앞두고 종영소감 전해 "결말 깜짝 놀랄 것"]]></title>
         <id>https://entertain.v.daum.net/v/20211218180323801</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211218155723361"/>
         <updated>2021-12-18T07:12:12.197Z</updated>
         <content type="html"><![CDATA[[뉴스엔 이하나 기자] 김요한, 조이현, 추영우가 ‘학교 2021’에서 물오른 케미스트리를 자랑했다. 지난 12월 15일(수), 16일(목) 밤 9시 30분 방송된 KBS 2TV 수목드라마 ‘학교 2021’(극본 조아라, 동희선/ 연출 김민태, 홍은미/ 제작 래몽래인, 킹스랜드) 7, 8회에서는 함께 하는 시간만큼 공기준(김요한 분)에 대한 마음이 커진]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['설강화' 역사왜곡 아니라던 성시경, OST 첫 주자였네]]></title>
-        <id>https://entertain.v.daum.net/v/20211218152402026</id>
-        <link href="https://entertain.v.daum.net/v/20211218152402026"/>
-        <updated>2021-12-18T07:12:12.198Z</updated>
-        <content type="html"><![CDATA[[텐아시아=태유나 기자]JTBC 새 토일드라마 ‘설강화’ 역사 왜곡 논란을 두고 누리꾼과 설전을 벌인 가수 성시경이 ‘설강화’ OST의 첫 번째 주자였다.&nbsp;성시경이 참여한 ‘설강화 : snowdrop (이하 ‘설강화’)’의 첫 번째 OST ‘곁에 있어준다면’이 18일 오후 6시 전 온라인 음원 사이트를 통해 발매된다.‘곁에 있어준다면’은 누군가 곁에 있어주]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['보통의재화' 곽선영X최대훈X김나연, 자신만의 아픔 극복하며 진정한 행복 찾다]]></title>
-        <id>https://entertain.v.daum.net/v/20211218151845958</id>
-        <link href="https://entertain.v.daum.net/v/20211218151845958"/>
-        <updated>2021-12-18T07:12:12.198Z</updated>
-        <content type="html"><![CDATA[[OSEN=박판석 기자]&nbsp;UHD KBS 드라마 스페셜 2021 단막극 ‘보통의 재화’가 자신의 아픔을 치유하고, 극복하는 이들의 이야기로 안방극장에 감동을 남겼다. 지난 17일 오후 11시 35분 방송된 UHD KBS 드라마 스페셜 2021의 단막극 ‘보통의 재화’(연출 최연수/ 극본 김성준)에서는 불운의 아이콘인 것도 모자라 공황장애 진단까지 받아버린 보]]></content>
     </entry>
 </feed>
