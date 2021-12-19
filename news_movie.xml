@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2021-12-19T20:13:16.725Z</updated>
+    <updated>2021-12-19T21:11:12.365Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["매력적인 상" 무진성, 아시아 모델 어워즈서 패셔니스타상 쾌거]]></title>
+        <id>https://entertain.v.daum.net/v/20211220053049773</id>
+        <link href="https://entertain.v.daum.net/v/20211220053049773"/>
+        <updated>2021-12-19T21:10:52.173Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 배효주 기자] 배우 무진성이 아시아 모델 어워즈에서 패셔니스타상을 수상했다. 무진성은 12월 19일 SETEC에서 무관중으로 개최된 제16회 아시아 모델 어워즈(Asia Model Awards)에서 패셔니스타상을 수상하는 영광을 안으며, 2021년 라이징 스타임을 입증했다. 올해로 16회를 맞이한 아시아 모델 어워즈는 모델뿐만 아니라 배우·가수·]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['스파이더맨:노 웨이 홈' 개봉 첫주 277만↑ 팬데믹 후 최단 기록]]></title>
+        <id>https://entertain.v.daum.net/v/20211220051352548</id>
+        <link href="https://entertain.v.daum.net/v/20211220051352548"/>
+        <updated>2021-12-19T21:10:52.174Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 배효주 기자] '스파이더맨: 노 웨이 홈'이 개봉 5일 만에 누적 277만 명을 돌파했다. 12월 20일 영화진흥위원회 통합전산망 집계에 따르면 지난 주말 기간(17일~19일) 영화 '스파이더맨: 노 웨이 홈'이 174만3,483명을 동원하며 전체 박스오피스 1위를 차지했다. 누적 관객은 277만469명이다. 지난 15일 개봉한 '스파이더맨: 노]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[봉준호가 '영업비밀' 알고 싶다던 하마구치 "장면마다 배우들 50번씩 리딩"]]></title>
         <id>https://entertain.v.daum.net/v/20211220043108246</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211219080128636"/>
         <updated>2021-12-18T23:12:28.572Z</updated>
         <content type="html"><![CDATA[올 한해 영화계를 돌아봤다. 팬데믹 이후 문화업계 전반이 엄청나게 위축되며 위기를 맞이하고 있다는데 도대체 얼마나 위기였을까? 올해 영화진흥위원회 통합전산망의 데이터를 기준으로 올 한해 영화계를 정리해 보았다. (2021년 12월 17일 기준 데이터를 토대로 작성됨) 올 한해 한국인이 가장 많이 사랑한 영화는 '모가디슈'였다. 류승완 감독의 작품으로 김윤]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['스파이더맨 : 노 웨이 홈', 개봉 4일만 200만 돌파]]></title>
-        <id>https://entertain.v.daum.net/v/20211219073114464</id>
-        <link href="https://entertain.v.daum.net/v/20211219073114464"/>
-        <updated>2021-12-18T23:12:28.573Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 김미화 기자] /사진='스파이더맨 : 노 웨이 홈''스파이더맨: 노 웨이 홈'이 개봉 나흘만에 누적관객수 200만 명을 돌파했다. 19일 영진위 영화관입장권통합전산망에 따르면 '스파이더맨: 노 웨이 홈'은 개봉 첫 토요일인 지난 18일 64만 7153명이 찾아 박스오피스 1위를 지켰다. 지난 15일 개봉해 개봉 4일 만에  누적관객수 208만 8]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[수상 기록으로 본 올해의 영화들은 ②]]></title>
-        <id>https://entertain.v.daum.net/v/20211219063010096</id>
-        <link href="https://entertain.v.daum.net/v/20211219063010096"/>
-        <updated>2021-12-18T22:12:21.538Z</updated>
-        <content type="html"><![CDATA[(서울=뉴스1) 장아름 기자 = 2021년에도 신종 코로나바이러스 감염증(코로나19) 확산으로 인한 극장가 침체가 지속됐다. 각 배급사들의 미개봉작은 점점 쌓여갔고, 코로나19 장기화에 따른 변수로 인해 개봉 일정을 연기하거나 구체적인 계획을 세우지 못하는 등 시장 정상화에 상당한 어려움을 겪었다. 이에 반해 월드와이드 개봉을 하는 외화들의 강세가 돋보]]></content>
     </entry>
 </feed>
