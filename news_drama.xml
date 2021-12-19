@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2021-12-19T05:12:40.510Z</updated>
+    <updated>2021-12-19T06:15:10.353Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[불가살 된 이진욱 vs 대신 환생한 권나라..다시 만날까?]]></title>
+        <id>https://entertain.v.daum.net/v/20211219144932096</id>
+        <link href="https://entertain.v.daum.net/v/20211219144932096"/>
+        <updated>2021-12-19T06:14:52.288Z</updated>
+        <content type="html"><![CDATA[[OSEN=박소영 기자] 불가살이 된 이진욱과 환생한 권나라가 다시 만나게 될지 귀추가 주목되고 있다. tvN 새 토일드라마 ‘불가살’(극본 권소라, 서재원/ 연출 장영우/ 제작 스튜디오드래곤, 쇼러너스) 지난 첫 방송에서는 민상운(권나라 분)의 600년 전 전생이 불가살이었다는 반전이 드러났다. 특히 단활(이진욱 분)을 칼로 찌른 순간 그의 몸 안에 있던]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['지옥' 정진수 역할에는 유아인이 제격이지]]></title>
         <id>https://entertain.v.daum.net/v/20211219140300498</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211219112550391"/>
         <updated>2021-12-19T03:13:17.279Z</updated>
         <content type="html"><![CDATA[[스타뉴스 김미화 기자] /사진제공 = 키이스트, JTBC스튜디오JTBC 새 월화드라마 '한 사람만'(극본 문정민 연출 오현종 제작 키이스트, JTBC스튜디오)이 첫방송을 앞두고 기대 포인트를 전했다. '한 사람만'은 인생의 막다른 길에서 만났지만, 지금 이 한 순간 만큼은 화려하게 타오르는 불꽃 같은 행복을 만끽하고 있는 두 남녀. 죽음이 예정되고 나서]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[송혜교X장기용, 눈물의 포옹 엔딩에 '지헤중' 시청률 폭발 '최고 9.6%']]></title>
-        <id>https://entertain.v.daum.net/v/20211219112500384</id>
-        <link href="https://entertain.v.daum.net/v/20211219112500384"/>
-        <updated>2021-12-19T03:13:17.280Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 황혜진 기자] ‘지금, 헤어지는 중입니다’ 배우 송혜교와 장기용이 눈물의 포옹을 했다. 12월 17일 방송된 SBS 금토드라마 ‘지금, 헤어지는 중입니다’(극본 제인/연출 이길복/이하 ‘지헤중’) 11회에서는 사랑하기 때문에 서서히 이별을 준비하는 하영은(송혜교 분), 하영은 마음을 알기에 큰 슬픔을 느낀 윤재국(장기용 분)의 이야기가 그려졌다.]]></content>
     </entry>
 </feed>
