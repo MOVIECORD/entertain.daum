@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2021-12-19T02:05:04.952Z</updated>
+    <updated>2021-12-19T03:13:32.991Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[테일러 스위프트 앨범 파티서 100명 확진..호주 초비상]]></title>
+        <id>https://entertain.v.daum.net/v/20211219113716504</id>
+        <link href="https://entertain.v.daum.net/v/20211219113716504"/>
+        <updated>2021-12-19T03:13:32.338Z</updated>
+        <content type="html"><![CDATA[(사진=테일러 스위프트 인스타그램)[이데일리 스타in 김보영 기자] 이데일리가 한 주 간 쏟아진 팝가수 및 빌보드 이슈들을 모아 가볍게 읽을 수 있는 요약 코너를 준비했습니다. 매 주말 핫한 주간 팝소식들을 선정해 소개합니다. 국내 연예계는 물론, 해외 팝스타들도 코로나19 돌파감염 및 무더기 확진으로 몸살을 앓고 있습니다. 특히 팝가수 테일러 스위프트가]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[테일러 스위프트 앨범 파티에서 코로나 무더기 확진]]></title>
         <id>https://entertain.v.daum.net/v/20211219102907457</id>
@@ -46,12 +53,5 @@
         <link href="https://entertain.v.daum.net/v/20211218142655501"/>
         <updated>2021-12-18T06:15:35.546Z</updated>
         <content type="html"><![CDATA[[뉴스엔 박수인 기자] '미스 아메리카' 한국계 미국인 최초 우승자가 탄생했다. 12월 17일(현지시간) AP통신 등 현지 언론에 따르면 알래스카주를 대표해 출전한 한국계 3세 미국인 에마 브로일스(Emma broyles)는 미스 아메리카 대회에서 우승의 영광을 안았다. 최초의 한국계 미국인 우승자인 것. 에마 브로일스는 "미스 아메리카가 되리라고는 생각]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[58세 생일 브래드 피트, 졸리와 이혼 후 어떻게 지내나 봤더니..]]></title>
-        <id>https://entertain.v.daum.net/v/20211218120941629</id>
-        <link href="https://entertain.v.daum.net/v/20211218120941629"/>
-        <updated>2021-12-18T03:14:45.189Z</updated>
-        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]할리우드 스타 브래드 피트가 18일(현지시간) 58세 생일 맞은 가운데 그의 일상에 관심이 모아지고 있다. 연예매체 피플은 이날 소식통의 말을 인용해 “브래드 피트는 남들 눈에 띄지 않게 조용히 지내고 있다”고 말했다. 이 소식통은 지난 2016년 이혼한 후 전 부인 안젤리나 졸리와 양육권 분쟁을 벌이고 있는 피트가 "긍정]]></content>
     </entry>
 </feed>
