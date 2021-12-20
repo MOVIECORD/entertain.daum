@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2021-12-20T18:15:03.436Z</updated>
+    <updated>2021-12-20T19:11:14.136Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["현실이 드라마 반영한다는 반응 가장 인상 깊었다"]]></title>
+        <id>https://entertain.v.daum.net/v/20211221040905141</id>
+        <link href="https://entertain.v.daum.net/v/20211221040905141"/>
+        <updated>2021-12-20T19:11:08.424Z</updated>
+        <content type="html"><![CDATA[‘진짜 정치판’을 옮겨다 놓은 것 같은 싱크로율을 보이면서도 비판보다 풍자와 재미에 집중한 웨이브 오리지널 웹드라마 ‘이렇게 된 이상 청와대로 간다’(이상청)는 지난달 12일 웨이브에서 전편이 공개된 후 시청자의 큰 호응을 얻었다. 이 드라마를 기획한 송편 크리에이터는 20일 국민일보와 서면 인터뷰에서 “‘드라마가 현실을 반영하는 게 아니라 현실이 드라마를]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['동상이몽2' 이현이, "이 우정 장례식까지 가자"..수현→지소연 '슈퍼모델 동기'들과 특별한 만남]]></title>
         <id>https://entertain.v.daum.net/v/20211221030601949</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211221002212275"/>
         <updated>2021-12-20T16:20:01.707Z</updated>
         <content type="html"><![CDATA[[티브이데일리 이기은 기자] '한 사람만‘이 가슴을 건드리는 처연한 휴먼극의 포문을 열었다. 부모에게 버림 받은 불우한 청춘 안은진이 시한부 선고를 받았다. 20일 밤 JTBC 월화드라마 ‘한 사람만'(극본 문정민 연출 오현종) 첫 방송 1회에서는 등장인물 삶의 마지막을 준비하는 표인숙(안은진), 강세연(강예원), 성미도(박수영) 등의 묘한 인연이 시작됐다]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['개훌륭' 강형욱 "우리 반려견에 미안하고 고맙더라"→예비신부 공감]]></title>
-        <id>https://entertain.v.daum.net/v/20211221002101265</id>
-        <link href="https://entertain.v.daum.net/v/20211221002101265"/>
-        <updated>2021-12-20T16:20:01.708Z</updated>
-        <content type="html"><![CDATA[결혼 앞둔 예비부부가 반려견 산책을 둘러싸고 고민을 털어놨다. 예비신부는 과거 반려견 덕에 우울증을 치료한 경험을 떠올리며 미안해했다. 20일 방송된 KBS 2TV '개는 훌륭하다'에서는 충남 홍성의 예비부부가 반려견을 둘러싼 고민 해결을 신청한 사연이 그려졌다. 이들 예비 부부의 집에는 4살 말티즈 모모, 도리, 2살 말티즈 봉자가 있었다. 봉자는 모]]></content>
     </entry>
 </feed>
