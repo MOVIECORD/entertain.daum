@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2021-12-21T10:14:15.627Z</updated>
+    <updated>2021-12-21T11:11:17.357Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[日 유명 성우 칸다 사야카, 호텔서 숨진 채 발견]]></title>
+        <id>https://entertain.v.daum.net/v/20211221192008264</id>
+        <link href="https://entertain.v.daum.net/v/20211221192008264"/>
+        <updated>2021-12-21T11:11:16.679Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 김노을 기자) 일본 배우 겸 성우 칸다 사야카가 사망했다. NHK, 요미우리 신문 등 현지 언론매체에 따르면 칸다 사야카는 지난 18일 오후 1시경 일본 홋카이도 삿포로의 한 호텔의 야외 공간에서 발견돼 병원으로 이송됐으나 이날 오후 9시경 숨을 거뒀다. 칸다 사야카는 삿포로에서 진해오디는 뮤지컬 '마이 페어 레이디' 출연차 해당 호텔에 머물]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[중국계 피 흐르는 키아누 리브스 "아시안 핏줄, 나도 좋아"]]></title>
         <id>https://entertain.v.daum.net/v/20211221161413300</id>
