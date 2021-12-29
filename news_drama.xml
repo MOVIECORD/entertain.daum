@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2021-12-29T19:10:28.698Z</updated>
+    <updated>2021-12-29T20:13:09.958Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['오겜'·BTS·윤여정..한류 글로벌 저변 넓힌 'K-콘텐츠']]></title>
+        <id>https://entertain.v.daum.net/v/20211230051016127</id>
+        <link href="https://entertain.v.daum.net/v/20211230051016127"/>
+        <updated>2021-12-29T20:12:55.417Z</updated>
+        <content type="html"><![CDATA[2021년 문화·스포츠계는 코로나19 대유행이 2년 가까이 이어지면서 사회 각 분야에서 어려움이 계속되는 상황에서도 국민을 위로하며 희망의 끈을 놓치 않게 했다. 연예계에서는 다양한 ‘K콘텐츠’들이 전세계적인 호응을 이끌어내며 대한민국 국민이라는 것에 자긍심을 심어줬다. 문화계에서는 ‘미술열풍’이 화두가 됐다. 작품에 대한 관심을 넘어 투자열풍까지 일며]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[유재석, 수상 소감도 '대상' "김태호 PD 응원..故 김철민 추모" [2021 MBC 연예대..]]></title>
         <id>https://entertain.v.daum.net/v/20211230011938032</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211229223957797"/>
         <updated>2021-12-29T14:11:24.658Z</updated>
         <content type="html"><![CDATA[[스타뉴스 김수진 기자] 배우 태인호, 이태성, 박철민, 황석정, 고상호가 '고스트 닥터'에서 개성 만점 캐릭터들을 탄생시킨다. 오는 1월 3일 오후 10시 30분에 첫 방송 되는 tvN 새 월화드라마 '고스트 닥터'(연출 부성철/ 극본 김선수/ 제작 스튜디오드래곤, 본팩토리)는 신들린 의술의 오만한 천재 의사와 사명감이라곤 1도 없는 황금 수저 레지던트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['공작도시' 김강우·이학주·이충주·정해균, 불편한 네 남자의 동석]]></title>
-        <id>https://entertain.v.daum.net/v/20211229223301768</id>
-        <link href="https://entertain.v.daum.net/v/20211229223301768"/>
-        <updated>2021-12-29T14:11:24.658Z</updated>
-        <content type="html"><![CDATA[이보다 더 불편할 수 없는 김강우, 이학주, 이충주, 정해균의 동석 현장이 공개됐다. 29일 방송되는 JTBC 수목드라마 ‘공작도시’(극본 손세동/ 연출 전창근/ 제작 하이스토리디앤씨, JTBC스튜디오) 7회에서 복잡한 이해관계로 얽혀 있는 정준혁(김강우 분), 한동민(이학주 분), 박정호(이충주 분), 조강현(정해균 분)이 뜻하지 않은 만남을 가진다. 정]]></content>
     </entry>
 </feed>
