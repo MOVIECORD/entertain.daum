@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2021-12-29T18:13:59.202Z</updated>
+    <updated>2021-12-29T19:10:28.696Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['골목식당' 백종원, 초심 잃지 않는 등촌동 덮밥집에 '감동'..즉석에서 '새 메뉴' 레시피 전수]]></title>
+        <id>https://entertain.v.daum.net/v/20211230033900724</id>
+        <link href="https://entertain.v.daum.net/v/20211230033900724"/>
+        <updated>2021-12-29T19:10:23.117Z</updated>
+        <content type="html"><![CDATA[[SBS연예뉴스 | 김효정 에디터] 백종원이 등촌등 덮밥집의 변함없는 모습에 안심했다. 29일 방송된 SBS '골목식당'에서는 4년 간의 여정을 마무리하는 마지막 이야기가 공개됐다. 이날 방송에서는 등촌동 덮밥집에 대한 기습 점검이 진행됐다. 지난 방송 당시 모든 게 서툴고 미숙해서 백 대표의 걱정을 자아냈던 초보 사장님. 이에 여전히 걱정과 우려가 남아있]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[MBC 연예대상이 남긴 웃음, 감동, 질문]]></title>
         <id>https://entertain.v.daum.net/v/20211230030601653</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211230012515042"/>
         <updated>2021-12-29T17:20:36.778Z</updated>
         <content type="html"><![CDATA[[스포츠조선 조윤선 기자] 유재석이 MBC에서만 8번째 '연예대상'을 수상했다. 29일 오후 서울 마포구 상암동 MBC에서는 '2021 MBC 방송연예대상'이 열렸다. 진행은 전현무, 김세정, 이상이가 맡았다. 이날 유재석은 '놀면 뭐하니?'로 2년 연속 대상 트로피를 거머쥐었다. MBC에서만 무려 8번째 대상을 받게 된 유재석은 수상하자마]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[유재석 대상 "제 몸이 다하는 날까지 웃음 드릴 것"]]></title>
-        <id>https://entertain.v.daum.net/v/20211230012504041</id>
-        <link href="https://entertain.v.daum.net/v/20211230012504041"/>
-        <updated>2021-12-29T17:20:36.779Z</updated>
-        <content type="html"><![CDATA[개그맨 유재석이 ‘2021 MBC 방송연예대상’의 주인공이 됐다. ‘2021 MBC 방송연예대상’이 29일 오후 전현무, 이상이, 김세정의 사회로 개최됐다. 이날 쟁쟁한 후보를 제치고 ‘놀면 뭐하니?’의 유재석이 대상의 영예를 안았다. 또한 이효리가 함께해 의미를 더했다. 그는 “상을 받게 됐다”라며 이후 가족들에게 고마움을 표했다. 이어 “프로그램]]></content>
     </entry>
 </feed>
