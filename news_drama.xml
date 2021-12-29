@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2021-12-29T21:10:51.795Z</updated>
+    <updated>2021-12-29T22:12:03.752Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['너의밤' 정인선, 다정한 이준영X강지영에 묘한 질투]]></title>
+        <id>https://entertain.v.daum.net/v/20211230070841371</id>
+        <link href="https://entertain.v.daum.net/v/20211230070841371"/>
+        <updated>2021-12-29T22:11:49.194Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 이민지 기자] 정인선과 이준영이 강지영 등장으로 새 국면을 맞았다. SBS 일요드라마 '너의 밤이 되어줄게'(극본 서정은, 해연/ 연출 안지숙) 측은 12월 30일 인윤주(정인선 분), 윤태인(이준영 분)과 함께 니나(강지영 분)의 모습을 담은 스틸컷을 공개했다. '너의 밤이 되어줄게'는 몽유병을 앓고 있는 월드스타 아이돌과 비밀리에 이를 치료해]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['너의 밤' 정인선, 이준영X강지영에 질투..삼각관계 시작?]]></title>
+        <id>https://entertain.v.daum.net/v/20211230070830368</id>
+        <link href="https://entertain.v.daum.net/v/20211230070830368"/>
+        <updated>2021-12-29T22:11:49.194Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 최희재 기자) 드라마 '너의 밤이 되어줄게'의 정인선이 이준영과 강지영의 모습에 질투를 시작했다. 30일 SBS 일요드라마 '너의 밤이 되어줄게'(이하 '너의 밤') 측은 인윤주(정인선 분), 윤태인(이준영)과 함께 니나(강지영)의 모습을 담은 스틸컷을 공개했다. '너의 밤이 되어줄게'는 몽유병을 앓고 있는 월드스타 아이돌과 비밀리에 이를]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['어사와 조이' 민진웅 "암행즈도 꽃길만 걷고 있길" 종영소감]]></title>
         <id>https://entertain.v.daum.net/v/20211230060251663</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211229231554035"/>
         <updated>2021-12-29T15:12:13.275Z</updated>
         <content type="html"><![CDATA[(엑스포츠뉴스 이이진 기자) '멜랑꼴리아' 임수정과 이도현이 김지영을 설득했다. 29일 방송된 tvN 수목드라마 '멜랑꼴리아' 15회에서는 지윤수(임수정 분)와 백승유(이도현)가 김지나(김지영)를 설득하는 모습이 그려졌다. 이날 김지나는 참고인 조사를 받기 전 도망쳤고, 최시안(신수연)이 입원한 병원을 찾았다. 지윤수는 최시안의 친구가 병문안을 왔었다는 말]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[산다라박 "홀로서기 후 첫 수상..YG, 트로피 보내줬으면"]]></title>
-        <id>https://entertain.v.daum.net/v/20211229231500023</id>
-        <link href="https://entertain.v.daum.net/v/20211229231500023"/>
-        <updated>2021-12-29T15:12:13.279Z</updated>
-        <content type="html"><![CDATA[산다라박(사진=MBC)[이데일리 스타in 김가영 기자] 2NE1 출신 산다라박이 홀로서기 후 첫 트로피를 품에 안았다. 29일 오후 생방송된 MBC ‘2021 MBC 방송연예대상’에서는 산다라박이 인기상을 수상했다. 이날 무대에 오른 산다라박은 “2NE1으로는 상을 여러번 받았는데 홀로서기를 한 후 처음 받는 상이다”고 말했다. 이어 “엄마가 상은 다 어]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박나래, '올해의 예능인상' 받고 사과 "무겁게 느껴져"]]></title>
-        <id>https://entertain.v.daum.net/v/20211229231014970</id>
-        <link href="https://entertain.v.daum.net/v/20211229231014970"/>
-        <updated>2021-12-29T14:11:24.644Z</updated>
-        <content type="html"><![CDATA[박나래(사진=MBC)[이데일리 스타in 김가영 기자] 방송인 박나래가 ‘올해의 예능인상’을 받고 사과를 했다. 29일 오후 생방송된 MBC ‘2021 MBC 방송연예대상’에서 박나래가 ‘올해의 예능인상’을 수상했다. 이날 박나래는 “정말 감사하고 죄송하다”고 고개를 숙였다. 이어 “올해 예능인상을 받아도 될지 정말 죄송하고 민망한 마음 뿐인 것 같다”면서]]></content>
     </entry>
 </feed>
