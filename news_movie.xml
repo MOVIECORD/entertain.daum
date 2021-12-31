@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2021-12-31T09:12:22.256Z</updated>
+    <updated>2021-12-31T10:12:53.079Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[조진웅X최우식 '경관의 피', 새해 극장가 포문 여는 강렬한 범죄 수사극]]></title>
+        <id>https://entertain.v.daum.net/v/20211231181503031</id>
+        <link href="https://entertain.v.daum.net/v/20211231181503031"/>
+        <updated>2021-12-31T10:12:33.639Z</updated>
+        <content type="html"><![CDATA[[텐아시아=김지원 기자] 조진웅, 최우식의 아슬아슬한 브로맨스 케미가 돋보이는 범죄 수사극 '경관의 피'가 새해를 여는 한국영화로 출격한다. 글로벌 히트 애니메이션 '씽'의 후속편으로, '슈퍼배드', '미니언즈' 제작진이 참여한 '씽2게더'가 관객들을 만난다. &nbsp;'경관의 피'-'원팀' 조진웅·최우식의 치열한 심리 싸움 감독 이규만 출연 조진웅, 최우]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[잘봐, 박소담의 '특송'이다]]></title>
         <id>https://entertain.v.daum.net/v/20211231180902975</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211231134203987"/>
         <updated>2021-12-31T05:12:39.661Z</updated>
         <content type="html"><![CDATA[[텐아시아=김지원 기자] 기상천외한 드라이빙 테크닉과 박진감 넘치는 추격전으로 새해 극장가를 사로잡을 범죄 오락 액션 '특송'이 지난 30일 언론배급시사회를 성황리에 마쳤다. '특송'은 성공률 100%의 특송 전문 드라이버 은하가 예기치 못한 배송사고에 휘말리면서 벌어지는 추격전을 그린 범죄 오락 액션 영화. 지난 30일 언론배급시사회를 개최해 2022]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['웨스트 사이드 스토리' 스티븐 스필버그, 윤제균과 대담서 "'국제시장' 좋아해"]]></title>
-        <id>https://entertain.v.daum.net/v/20211231132821738</id>
-        <link href="https://entertain.v.daum.net/v/20211231132821738"/>
-        <updated>2021-12-31T05:12:39.661Z</updated>
-        <content type="html"><![CDATA[[스포츠한국 모신정 기자] 할리우드 영화 '웨스트 사이드 스토리'가 스티븐 스필버그 감독과 윤제균 감독의 특별 대담 영상을 공개했다. 오는 1월 12일 개봉을 앞둔 영화  '웨스트 사이드 스토리'의 스티븐 스필버그 감독과 '국제시장' '해운대' 윤제균 감독의 특별한 인터뷰가 공개됐다. 영화 '웨스트 사이드 스토리'는 자신을 가둔 환경과 운명에 순응하지]]></content>
     </entry>
 </feed>
