@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2021-12-31T18:13:38.425Z</updated>
+    <updated>2021-12-31T19:10:12.486Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이변도, 독주도 없던 SBS 연기대상.. 김소연 웃었다]]></title>
+        <id>https://entertain.v.daum.net/v/20220101032802707</id>
+        <link href="https://entertain.v.daum.net/v/20220101032802707"/>
+        <updated>2021-12-31T19:10:07.390Z</updated>
+        <content type="html"><![CDATA[지난해와 달랐다. ‘펜트하우스 2, 3’의 배우 김소연이 올해 SBS 연기대상을 품에 안았다. 강력한 대상 후보였지만 최우수연기상에 그쳤던 지난해의 아쉬움을 1년 만에 씻어냈다. 올해 히트작이 몇 없던 다른 방송사들과 달리, SBS 연기대상은 여러 드라마가 경쟁을 벌였다. 특히 좋은 평을 받았던 ‘원 더 우먼’ ‘모범택시’ ‘라켓소년단’ ‘홍천기’ 등이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['SBS 연기대상' 김소연, "28년 전 보조출연자로 시작한 SBS서 대상..믿어지지 않아" 감동 소감]]></title>
         <id>https://entertain.v.daum.net/v/20220101023600459</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220101013700985"/>
         <updated>2021-12-31T17:19:56.141Z</updated>
         <content type="html"><![CDATA[[TV리포트=김은정 기자] 김소연이 눈물의 대상 소감을 전했다. 31일 오후 서울 마포구 상암동 SBS 프리즘타워에서 생방송으로 진행된 '2021 SBS 연기대상'에서는 드라마 '펜트하우스'에서 천서진 역을 연기한 배우 김소연이 대상 트로피를 품에 안았다. 이날 대상 수상자로 호명된 김소연은 "28년 전에 보조출연자로 시작했다. 그 작품이 SBS 드라마였는]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[류진 소이현 한다감, 우수상.."좋은 배우 되겠다"]]></title>
-        <id>https://entertain.v.daum.net/v/20220101013606977</id>
-        <link href="https://entertain.v.daum.net/v/20220101013606977"/>
-        <updated>2021-12-31T17:19:56.142Z</updated>
-        <content type="html"><![CDATA[류진 소이현 한다감이 ‘2021 KBS 연기대상’에 일일드라마 우수상을 받았다. 31일 오후 서울 여의도 KBS에서 ‘2021 KBS 연기대상’이 열렸다. 가수 성시경, 배우 김소현 이도현이 진행을 맡았다. ‘속아도 꿈결’ 류진은 “정말 상상도 못 했다. 1999년도에 KBS에서 이 자리에서 신인상을 받았던 걸로 기억한다. 그 이후에 상이란 걸 받는 거]]></content>
     </entry>
 </feed>
