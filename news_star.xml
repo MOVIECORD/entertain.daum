@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2022-01-01T22:13:47.626Z</updated>
+    <updated>2022-01-01T23:11:58.294Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[박나래, 호랑이 같은 새해인사 "어려운 시기 이겨냅시다"]]></title>
+        <id>https://entertain.v.daum.net/v/20220102075400515</id>
+        <link href="https://entertain.v.daum.net/v/20220102075400515"/>
+        <updated>2022-01-01T23:11:52.772Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 황혜진 기자] JDB엔터테인먼트(이하 JDB)의 소속 코미디언들이 2022년에도 풍성한 웃음을 약속했다. 1월 1일 JDB 소속 김대희, 김준호, 박나래, 유민상, 김지민, 김민경 등 20명이 새해 인사를 전했다. JDB 대선배 김대희는 “2022년 호랑이 기운 받으시고 건강하고 행복한 한 해 되세요”라며 애정이 담긴 메시지를 전했고, ‘미운 우]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['나는 솔로' 정자 vs 영철,날선 대립.."촬영 때 폭언"-"촬영원본 공개하라"]]></title>
+        <id>https://entertain.v.daum.net/v/20220102074309469</id>
+        <link href="https://entertain.v.daum.net/v/20220102074309469"/>
+        <updated>2022-01-01T23:11:52.772Z</updated>
+        <content type="html"><![CDATA[[스포츠서울|조현정기자]SBS Plus· NQQ ‘나는 솔로’ 4기 영철(가명)과 정자(가명)가 새해에도 날선 대립으로 갈등을 이어가고 있다. 정자는 지난 12월 31일 자신의 유튜브 채널을 통해 출연 당시 영철에게 폭언 피해를 입었다고 주장하자 영철도 유튜브 채널에서 “폭언한 적이 전혀 없다”며 촬영 원본을 공개하라고 맞섰다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['방구석1열' 류승완 감독 "'모가디슈' 구교환 액션 대역, 내가 할 뻔"]]></title>
         <id>https://entertain.v.daum.net/v/20220102060644876</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220102051013507"/>
         <updated>2022-01-01T20:12:47.031Z</updated>
         <content type="html"><![CDATA[(서울=뉴스1) 이아영 기자 = '신사와 아가씨' 이세희가 지현우를 포기하지 않고 마음을 표현하는 모습으로 통쾌함을 안겼다. 지난 1일 방송된 KBS 2TV 주말드라마 '신사와 아가씨'(극본 김사경/연출 신창석)에서는 박단단(이세희 분)이 이영국(지현우 분)을 기다리겠다고 했다. 이날 박단단은 이영국을 찾아가, "회장님이 기억 못 해도 저는 기억하니까]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[민희진 표 하이브·JYP·CJ ENM, 호랑이 해 걸그룹 대전]]></title>
-        <id>https://entertain.v.daum.net/v/20220102050023457</id>
-        <link href="https://entertain.v.daum.net/v/20220102050023457"/>
-        <updated>2022-01-01T20:12:47.031Z</updated>
-        <content type="html"><![CDATA[[서울=뉴시스]이재훈 기자 = K팝이 한류를 이끌면서, 시장이 점차 커지고 있다. 주목할 만한 신인그룹들이 계속 등장하는 이유다. 특히 2022년 임인년(壬寅年), 검은 호랑이의 해엔 대형 신인그룹들의 데뷔가 잇따라 예고됐다. 호랑이 기운을 받아 올해 포효할 팀들이다. 무엇보다 데뷔부터 세계를 겨냥한 굵직한 걸그룹들이 눈길을 끈다. 하이브 민희진 표]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[장원영X안유진, 데뷔 2회 차 아이돌은 예능도 베테랑]]></title>
-        <id>https://entertain.v.daum.net/v/20220102045002424</id>
-        <link href="https://entertain.v.daum.net/v/20220102045002424"/>
-        <updated>2022-01-01T20:12:47.031Z</updated>
-        <content type="html"><![CDATA[(서울=뉴스1) 이아영 기자 = '아는 형님' 장원영, 안유진이 대선배들과의 예능에도 주눅 들지 않고 끼를 펼쳤다. 지난 1일 방송된 JTBC '아는 형님'에서는 '아는 여고' 특집으로 박미선 현영 소유 마리아와 그룹 아이브의 원영 유진이 출연했다. 이날 신동과 7형제 부부로 상황극이 펼쳐졌다. 장원영과 안유진은 이진호와 김희철의 아내이자 신동의 며]]></content>
     </entry>
 </feed>
