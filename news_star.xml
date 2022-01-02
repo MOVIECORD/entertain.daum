@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2022-01-02T17:19:16.188Z</updated>
+    <updated>2022-01-02T18:13:07.428Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[탁재훈, "결혼해도 착실하게 안 살 테니 '미우새' 출연 보장하라" 건의]]></title>
+        <id>https://entertain.v.daum.net/v/20220103030900750</id>
+        <link href="https://entertain.v.daum.net/v/20220103030900750"/>
+        <updated>2022-01-02T18:13:02.368Z</updated>
+        <content type="html"><![CDATA[[SBS연예뉴스 | 김효정 에디터] 미우새 아들들이 미우새에 건의사항을 전했다. 2일 방송된 SBS '미운 우리 새끼'(이하 '미우새')에서는 건의 사항을 밝히는 회원들의 모습이 그려졌다. 이날 방송에서 반장 김준호는 "미우새에 건의 사항이 있으면 말해 달라. 내가 사장님께 직접적으로 건의하겠다"라고 했다. 이에 가장 먼저 탁재훈이 입을 열었다. 그는 "사]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['집사부일체' 애플 이긴 배상민 디자이너, 뉴욕 파슨스 스쿨 최초 최연소 동양인 교수]]></title>
         <id>https://entertain.v.daum.net/v/20220103012100444</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220102232006962"/>
         <updated>2022-01-02T15:11:50.570Z</updated>
         <content type="html"><![CDATA[[스포츠투데이 이소연 기자] 진선규가 배우인 아버지를 응원하는 아이들의 에피소드를 전했다. 2일 방송된 SBS '미운 우리 새끼'에서는 배우 진선규가 게스트로 출연했다. 이날 진선규는 "9살 딸, 6살 아들이 있다. 진짜 제일 예쁠 때를 지내고 있다"고 했다. 진선규는 "그동안 '범죄도시'나 '극한직업'은 아이들이 볼 수 없었다. '승리호'는 온가족이 함께]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['슈퍼맨' 샘해밍턴 아내 유미 등장, 5년만 하차에 "외국인이 수고 많았어..갑자기 눈물"]]></title>
-        <id>https://entertain.v.daum.net/v/20220102231304948</id>
-        <link href="https://entertain.v.daum.net/v/20220102231304948"/>
-        <updated>2022-01-02T15:11:50.571Z</updated>
-        <content type="html"><![CDATA[[스포츠투데이 이소연 기자] 호주 출신 방송인 샘해밍턴의 아내 유미 씨가 남편, 아들 윌리엄과 벤틀리의 마지막 방송에 아쉬움을 드러냈다. 샘 해밍턴 가족이 2일 방송된 KBS2 '슈퍼맨이 돌아왔다'에서 5년 2개월 만에 시청자들에게 작별을 고했다. 샘해밍턴과 윌벤져스는 마지막 방송을 앞두고 시청자들에게 그간 받은 사랑에 보답하는 이른바 '윌벤키친'이라는 이]]></content>
     </entry>
 </feed>
