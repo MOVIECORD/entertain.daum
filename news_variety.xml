@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/variety</id>
     <title>다음 연예 ─ 뉴스 ─ 예능</title>
-    <updated>2022-01-02T19:09:52.095Z</updated>
+    <updated>2022-01-02T20:12:41.211Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[연정훈X딘딘, 서로 "문세윤 머리 깎아주겠다"고 나선 이유?]]></title>
+        <id>https://entertain.v.daum.net/v/20220103051007320</id>
+        <link href="https://entertain.v.daum.net/v/20220103051007320"/>
+        <updated>2022-01-02T20:12:30.773Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 임유리 기자] 문세윤의 대상 공약 이행을 위해 연정훈과 딘딘이 서로 머리를 깎아주겠다고 나섰다. 2일 오후 방송된 KBS2 ‘1박 2일 시즌4’에서는 ‘2021 연얘대상’의 비하인드가 그려졌다. 이날 문세윤의 대상을 포함해 7관왕을 차지한 ‘1박 2일’ 팀은 연얘대상이 끝난 후 대기실에 모였다. 문세윤에게 기분이 어떠냐고 묻자 그는]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김희철, 前연인 모모 간접언급 "그땐 싱글이 아니었어서.."]]></title>
         <id>https://entertain.v.daum.net/v/20220103031150756</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220102231147943"/>
         <updated>2022-01-02T15:11:45.157Z</updated>
         <content type="html"><![CDATA[슬리피가 무소유 맛간디 부캐릭터로 변신했다. 1월 2일 방송된 TV조선 메타버스 아바타쇼 ‘부캐전성시대’에서 슬리피는 부캐릭터 무소유 맛간디로 등장했다. 나누구 셰어 왕조의 부활을 꿈꾸는 두 사람 인자벨라(인순이)와 55성수(김성수)는 나누구 분파원 모집에 나섰다. 55성수는 “페르소나별 덕망 높은 인물들을 제보 받았다”며 기부천사 차인표, 김장훈 등]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['미우새' 탁재훈 "결혼하면 하차? NO..결혼하고도 밉게 살 것"]]></title>
-        <id>https://entertain.v.daum.net/v/20220102230831938</id>
-        <link href="https://entertain.v.daum.net/v/20220102230831938"/>
-        <updated>2022-01-02T14:11:12.156Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 이시호 기자] /사진=SBS '미운 우리 새끼' 방송 화면 캡처 '미우새' 제 5회 단합대회가 그려졌다. 2일 방송된 SBS 예능 프로그램 '미운 우리 새끼'(이하 미우새)에서는 가수 토니안의 어머니 이옥진이 패널로 복귀했다. 이옥진은 "우리 새댁들 잘 있었냐"며 활기차게 스튜디오를 들어섰다. 이옥진은 이어 "내가 토니 때문에 요즘 마음이]]></content>
     </entry>
 </feed>
