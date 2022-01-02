@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2022-01-02T15:11:56.068Z</updated>
+    <updated>2022-01-02T16:17:08.139Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[채수빈, 제작발표회에 '1693만원' 뷔스티에 톱 패션.."어디 거?"]]></title>
+        <id>https://entertain.v.daum.net/v/20220103002001269</id>
+        <link href="https://entertain.v.daum.net/v/20220103002001269"/>
+        <updated>2022-01-02T16:17:03.176Z</updated>
+        <content type="html"><![CDATA[배우 채수빈이 멋스러운 뷔스티에 패션을 선보였다. 지난달 29일 온라인 생중계로 진행된 영화 '해적: 도깨비 깃발' 제작발표회에는 채수빈이 참석해 자리를 빛냈다. 이날 단발머리로 등장한 채수빈은 스트라이프 셔츠에 핀스트라이프 뷔스티에 톱과 스커트를 입고 독특한 스타일링을 뽐내 눈길을 끌었다. 채수빈은 보석 스트랩 장식의 스웨이드 펌프스를 신고 쭉 뻗은]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['런닝맨'→'쇼윈도', 배우 전소민의 이중생활]]></title>
         <id>https://entertain.v.daum.net/v/20220103000101097</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220102230000894"/>
         <updated>2022-01-02T14:11:17.538Z</updated>
         <content type="html"><![CDATA['돌싱글즈2' 최종 선택 결과 윤남기♥이다은, 이창수♥김은영 두 커플이 탄생했다. 2일 방송된 MBN '돌싱글즈2'에서 최종 선택 전 커플들의 마지막 데이트 및 마지막 밤이 공개됐다. 유소민, 이덕연 커플은 루프탑 포차에서 다정하게 이야기를 나누며 즐거운 시간을 가졌다. 반면 이창수, 김은영 커플의 마지막 밤은 긴장감이 흘렀다. 이창수는 마지막 밤, 김]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이상민, 김종국 발가락 꼬집기 32초나 버텼다..인내의 아이콘]]></title>
-        <id>https://entertain.v.daum.net/v/20220102225958893</id>
-        <link href="https://entertain.v.daum.net/v/20220102225958893"/>
-        <updated>2022-01-02T14:11:17.541Z</updated>
-        <content type="html"><![CDATA[(서울=뉴스1) 이아영 기자 = 이상민이 김종국의 발가락 꼬집기를 버티고 공짜 와인을 타갔다. 2일 방송된 SBS '미운 우리 새끼'에서는 김준호의 강제 생일 파티가 펼쳐졌다. 김준호는 샴페인을 터트렸다. 탁재훈은 술을 못 마신다고 했다. 임플란트를 세 개나 했다고 말했다. 이상민은 임플란트를 하고 죽집에서 죽을 사서 먹었다는 탁재훈을 안쓰러워했다. 이]]></content>
     </entry>
 </feed>
