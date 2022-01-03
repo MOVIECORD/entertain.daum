@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2022-01-03T02:01:09.131Z</updated>
+    <updated>2022-01-03T02:41:59.891Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이혼 합의금만 1190억..닥터 드레, 폭행 혐의→값비싼 파경]]></title>
+        <id>https://entertain.v.daum.net/v/20220103105654056</id>
+        <link href="https://entertain.v.daum.net/v/20220103105654056"/>
+        <updated>2022-01-03T02:41:59.164Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 황혜진 기자] 미국 출신 가수 닥터 드레(Dr. Dre, 56)가 전처와 결별했다. 미국 연예 매체 피플(People)은 12월 29일(현지시간) "닥터 드레가 이혼 합의금으로 전처 니콜 영(Nicole Young)에게 1억 달러를 지급한다"고 보도했다. 보도에 따르면 닥터 드레는 이혼 합의금 1억 달러(한화 약 1,189억 8,000만 원)를]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[브리트니 스피어스, 친동생 제이미 팔로우 끊어..무슨 일?]]></title>
         <id>https://entertain.v.daum.net/v/20220103102242221</id>
@@ -25,12 +32,5 @@
         <link href="https://entertain.v.daum.net/v/20220103080622139"/>
         <updated>2022-01-02T23:11:47.166Z</updated>
         <content type="html"><![CDATA[방탄소년단 멤버 뷔가 3000만명 팔로워를 돌파했다. 개인 인스타 계정을 만든지 28일만의 기록이다. 게시물이 22개에 '불과'한 것에 비하면, 엄청난 대기록 달성이라 할 수 있다. 한편 지난달 30일 뷔의 생일을 맞아 전 세계 SNS를 비롯해 각종 인터넷 플랫폼에 뷔 생일 축하 글이 쏟아지고, 해외 팬클럽들이 다양한 이벤트를]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[지나가는 팬에 수천 달러 돈다발..힙합 스타의 연말 Flex]]></title>
-        <id>https://entertain.v.daum.net/v/20220102111242178</id>
-        <link href="https://entertain.v.daum.net/v/20220102111242178"/>
-        <updated>2022-01-02T03:13:21.825Z</updated>
-        <content type="html"><![CDATA[래퍼 드레이크. (사진=AP/뉴시스)[이데일리 스타in 김보영 기자] 이데일리가 한 주 간 쏟아진 팝가수 및 빌보드 이슈들을 모아 가볍게 읽을 수 있는 요약 코너를 준비했습니다. 매 주말 핫한 주간 팝소식을 선정해 소개합니다. 글로벌 힙합 스타인 래퍼 드레이크(Drake)가 지난 크리스마스 및 새해를 기념해 기상천외한 팬서비스를 실천해 화제를 모으고 있]]></content>
     </entry>
 </feed>
