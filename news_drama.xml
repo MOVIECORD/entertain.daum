@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-01-03T10:13:21.915Z</updated>
+    <updated>2022-01-03T11:10:43.712Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[키이스트, 박성혜·남소영 공동대표 체제.."SM 비전 따른 결정"]]></title>
+        <id>https://entertain.v.daum.net/v/20220103200751599</id>
+        <link href="https://entertain.v.daum.net/v/20220103200751599"/>
+        <updated>2022-01-03T11:10:25.875Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 공미나 기자] /사진제공=키이스트키이스트가 박성혜 이사와 남소영 이사를 공동대표로 선임했다. 키이스트는 3일 진행된 이사회에서 이를 결정하고 공시했다. 키이스트는 "콘텐츠 제작 및 아티스트 매니지먼트 사업 부문의 핵심역량 및 책임경영을 강화하기 위해 그동안 주도적으로 사업을 이끌어왔던 박성혜 대표이사와 SM엔터테인먼트에서 아티스트 매니지먼트를]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['두번째남편' 지수원, 엄현경에 "우리집으로 가자" 사죄]]></title>
+        <id>https://entertain.v.daum.net/v/20220103193606057</id>
+        <link href="https://entertain.v.daum.net/v/20220103193606057"/>
+        <updated>2022-01-03T11:10:25.877Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 이시연 기자] /사진= MBC '두 번째 남편' 방송 화면'두 번째 남편'에서 지수원이 친딸로 드러난 엄현경에게 다시 자신의 집으로 가자고 회유했다. 3일 오후 방송된 MBC 일일드라마 '두 번째 남편'에서 주해란(지수원 분)과 봉선화(엄현경 분)가 대화하는 장면이 그려졌다. 이날 오밤중에 한옥 베이커리로 찾아온 주해란은 봉선화를 보자마자]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['고스트 닥터' 정지훈, 예능 신드롬 드라마로 이어질까]]></title>
         <id>https://entertain.v.daum.net/v/20220103182830952</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220103160410482"/>
         <updated>2022-01-03T07:12:16.777Z</updated>
         <content type="html"><![CDATA[(왼쪽부터)박신혜, 최태준. (사진=이데일리DB)[이데일리 스타in 김보영 기자] 최근 결혼 소식과 함께 새 생명 탄생을 알린 배우 박신혜와 최태준이 오는 22일(토) 비공개로 결혼식을 올린다. 박신혜의 소속사 솔트엔터테인먼트 관계자는 3일 이데일리에 “전에 공식입장에서 발표했던 대로 박신혜 씨와 최태준 씨가 22일에 결혼식을 올리는 게 맞다”면서도 “]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['예비 아빠' 손보승, 웹드 '주미 다 했다' 출연 확정]]></title>
-        <id>https://entertain.v.daum.net/v/20220103155938282</id>
-        <link href="https://entertain.v.daum.net/v/20220103155938282"/>
-        <updated>2022-01-03T07:12:16.778Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 안윤지 기자] 배우 손보승 /사진제공=마다엔터테인먼트배우 손보승이 웹드라마 '주미 다 했다'에 출연한다. 3일 소속사 마다엔터테인먼트는 "손보승이 유튜브 채널 'Y 스튜디오'에서 공개하는 웹드라마 '주미 다 했다'에 캐스팅됐다"고 밝혔다. '주미 다 했다'는 웹드라마 '에이틴'을 성공신화로 이끈 김사라 작가가 스토리 디렉터로 참여하고 '사라있]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[판타지와 메디컬의 만남 '고스트 닥터'..정지훈-김범 신체 공유]]></title>
-        <id>https://entertain.v.daum.net/v/20220103155934280</id>
-        <link href="https://entertain.v.daum.net/v/20220103155934280"/>
-        <updated>2022-01-03T07:12:16.779Z</updated>
-        <content type="html"><![CDATA[(서울=연합뉴스) 강애란 기자 = 판타지와 메디컬을 결합한 새로운 장르의 드라마 '고스트 닥터'가 시청자들을 만난다. 전혀 다른 성격의 두 의사로 출연한 정지훈과 김범은 3일 tvN 새 월화드라마 '고스트 닥터' 온라인 제작발표회에서 "무겁지 않고 만화 같은 가족형 드라마"라고 작품을 소개했다. '고스트 닥터'는 배경도 실력도 성격도 극과 극인 두 의사가]]></content>
     </entry>
 </feed>
