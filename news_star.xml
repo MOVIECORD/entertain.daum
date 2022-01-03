@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2022-01-03T17:21:47.549Z</updated>
+    <updated>2022-01-03T18:14:11.253Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['동상이몽2' 김성은, "임신인 줄 알고 식겁..자유롭게 ♥하기 위해 정조국 정관 수술 결심"]]></title>
+        <id>https://entertain.v.daum.net/v/20220104030300351</id>
+        <link href="https://entertain.v.daum.net/v/20220104030300351"/>
+        <updated>2022-01-03T18:14:06.209Z</updated>
+        <content type="html"><![CDATA[[SBS연예뉴스 | 김효정 에디터] 정조국이 정관수술을 결심했다. 3일 방송된 SBS '동상이몽 시즌2-너는 내 운명'(이하 '동상이몽2')에서는 김성은과 정조국의 일상이 공개됐다. 이날 방송에서 김성은은 정관수술을 위해 병원에 간 남편을 위해 여동생과 함께 보양식을 준비했다. 그리고 그는 여동생에게 "나 얼마 전에 진짜 식겁했잖아"라고 말문을 열었다. 이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['동상이몽2' 정성호, "13년째 나는 말라가고 곁에 식구들 많아져..모두 아내의 계획"]]></title>
         <id>https://entertain.v.daum.net/v/20220104021500201</id>
@@ -55,7 +62,7 @@
         <content type="html"><![CDATA[(서울=뉴스1) 박하나 기자 = '동상이몽2' 전 축구선수 정조국이 정관 수술을 고민했다. 3일 오후에 방송된 SBS 예능 프로그램 '동상이몽2-너는 내 운명'(이하 '동상이몽2')에서는 김성은 정조국 부부의 일상이 담겼다. 정조국은 "가정의 평화를 위해서 해야 해"라며 동서와 함께 '정관수술'을 결심한 모습으로 눈길을 끌었다. 정조국은 "남성성도 떨어]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA['동상이몽' 정성호 "아내의 꿈은 오남매를 낳는 것.. 샤워하란 말이 무서워"]]></title>
+        <title type="html"><![CDATA['동상이몽' 정성호 "아내 꿈은 오남매 낳는 것.. 샤워하란 말이 무서워"]]></title>
         <id>https://entertain.v.daum.net/v/20220104002630934</id>
         <link href="https://entertain.v.daum.net/v/20220104002630934"/>
         <updated>2022-01-03T16:18:17.861Z</updated>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220103235700705"/>
         <updated>2022-01-03T15:12:42.660Z</updated>
         <content type="html"><![CDATA[차영민(정지훈 분)이 교통사고를 당한 직후 몸과 영혼이 분리됐다. 차영민의 영혼은 자신을 살릴 유일한 의사, 고승탁(김범 분)의 몸 속에 들어갔다. 3일 첫 방송된 tvN '고스트닥터'에서는 재수없지만 신의 능력을 가진 '금손' 의사 차영민과 병원 재단 상속자이자 '똥손' 인턴인 고승탁의 만남이 그려졌다. 흉부외과 의사인 차영민(정지훈 분)은 출근길]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['고스트닥터' 정지훈, 교통사고로 몸과 영혼 분리됐다]]></title>
-        <id>https://entertain.v.daum.net/v/20220103235400691</id>
-        <link href="https://entertain.v.daum.net/v/20220103235400691"/>
-        <updated>2022-01-03T15:12:42.662Z</updated>
-        <content type="html"><![CDATA[정지훈이 교통사고를 당해 몸과 영혼이 분리됐다. 3일 첫 방송된 tvN '고스트닥터'에서는 차영민(정지훈 분)이 사고로 몸에서 분리되는 모습이 그려졌다. 이날 차영민은 VIP 수술을 끝내고 잠시 외출했다 교통사고를 당했다. 차영민은 차에서 깨어나 밖으로 나왔지만, 아무도 그를 인지하지 못했다. 차영민은 뭔가 이상함을 느꼈고, 자신의 몸과 영혼이 분리됐]]></content>
     </entry>
 </feed>
