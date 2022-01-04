@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2022-01-04T20:13:04.456Z</updated>
+    <updated>2022-01-04T21:10:46.539Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["전 남편 톰 크루즈 질문은 명백한 성차별", 니콜 키드먼 분노]]></title>
+        <id>https://entertain.v.daum.net/v/20220105060705536</id>
+        <link href="https://entertain.v.daum.net/v/20220105060705536"/>
+        <updated>2022-01-04T21:10:27.714Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]할리우드 스타 니콜 키드먼(54)이 전 남편 톰 크루즈(59) 질문에 불편한 기색을 드러냈다. 그는 최근 아마존 프라임를 통해 공개된 새 영화 '비잉 더 리카르도스'와 관련한 영국 가디언과 인터뷰에서 전 남편 톰 크루즈 이야기가 나오자 화를 냈다. ‘비잉 더 리카르도스’는 1951년부터 1957년까지 방영된 시트콤 ‘왈가닥]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['경관의 피' 최우식 "근육질 마초남? NO..진짜 벌크업 이유 따로 있죠"]]></title>
         <id>https://entertain.v.daum.net/v/20220105050101682</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220104171801140"/>
         <updated>2022-01-04T09:12:22.619Z</updated>
         <content type="html"><![CDATA[[성하훈 기자] ▲ &nbsp;영화진흥위원회    ⓒ 성하훈  &nbsp; 신임 영화진흥위원회 위원에 최낙용 한국예술영화관협회 대표, 김선아 단국대 교수, 김동현 메리크리스마스 본부장, 김이석 부산 동의대 교수, 김동현 서울독립영화제 집행위원장, 안병호 촬영감독 등 6인이 4일 선임됐다.&nbsp;임기는 2025년 1월 3일까지 3년이다. 문체부는 "영화예술과 영화산업]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['상실의 시대'와 인간을 위로하는 영화]]></title>
-        <id>https://entertain.v.daum.net/v/20220104170300454</id>
-        <link href="https://entertain.v.daum.net/v/20220104170300454"/>
-        <updated>2022-01-04T08:14:41.277Z</updated>
-        <content type="html"><![CDATA[[김규종 기자] ▲ &nbsp;영화 &lt;드라이브 마이 카&gt; 공식 포스터.    ⓒ 영화사 조아  &nbsp; 1895년 뤼미에르 형제가 처음 선보인 영화가 등장한 후 상당수 문학작품이 영화로 제작된다. 기록에 따르면 지금까지 만들어진 영화의 30% 정도가 문학, 특히 소설에 뿌리를 두고 있다. 예술적으로 혹은 상업적으로 성공한 소설의 80%가 영화화되었다. 빅토]]></content>
     </entry>
 </feed>
