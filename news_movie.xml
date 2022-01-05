@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2022-01-05T08:15:04.758Z</updated>
+    <updated>2022-01-05T09:12:53.743Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[최귀화, 신생 기획사 미스터 초이 전속계약]]></title>
+        <id>https://entertain.v.daum.net/v/20220105175608108</id>
+        <link href="https://entertain.v.daum.net/v/20220105175608108"/>
+        <updated>2022-01-05T09:12:32.562Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 김미화 기자] 최귀화 /사진=미스터초이배우 최귀화가 신생 소속사에 새 둥지를 틀었다. 5일 미스터 초이는 최귀화와 전속계약 체결 소식을 전했다. 배우 최귀화는 최근 '빅펀치 엔터테인먼트'를 떠나 '미스터초이' 로 거취를 결정했다. 최귀화는 "미스터 초이와 함께 2022년을 시작해 매우 기대된다. 드라마, 예능, OTT프로그램 등 다양한 분]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[롯데엔터, '모가디슈' 포함 팬데믹 기간 1천2백만↑ 관객 동원]]></title>
+        <id>https://entertain.v.daum.net/v/20220105171939928</id>
+        <link href="https://entertain.v.daum.net/v/20220105171939928"/>
+        <updated>2022-01-05T09:12:32.563Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 배효주 기자] 롯데엔터테인먼트가 2021년 한국 영화 최고 성적을 기록한 '모가디슈'를 포함, 팬데믹 이후 8편의 한국 영화를 통해 1천2백만 이상의 관객을 극장으로 불러모았다고 1월 5일 밝혔다. 롯데엔터테인먼트는 "코로나로 인한 극장 상황이 악화된 상황에서도 '히트맨', '#살아있다', '강철비: 정상회담',  '삼진그룹 영어토익반', '모]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['킹메이커'가 주목받는 이유]]></title>
         <id>https://entertain.v.daum.net/v/20220105170101301</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220105153249179"/>
         <updated>2022-01-05T07:11:49.782Z</updated>
         <content type="html"><![CDATA[[OSEN=김보라 기자]&nbsp;한국영화 박스오피스 1위, 티빙 인기영화 순위 1위를 차지하며 화제를 모으고 있는 티빙 오리지널 영화 '해피&nbsp;뉴&nbsp;이어'의 각양각색 관객 반응을 전격 공개한다. 티빙과 극장을 통해 관객들을 사로잡은 영화 '해피&nbsp;뉴&nbsp;이어'(감독 곽재용, 제공배급 CJ ENM 티빙, 제작 하이브미디어코프)는 팬데믹 이후로 연말 분위기를 제대로 느낄]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['컬투쇼' 조진웅 "'삐약이' 최우식의 성장, 연기 보면 깜짝 놀랄 것"]]></title>
-        <id>https://entertain.v.daum.net/v/20220105153203156</id>
-        <link href="https://entertain.v.daum.net/v/20220105153203156"/>
-        <updated>2022-01-05T07:11:49.783Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 김나연 기자] 경관의 피 / 사진=SBS 보는라디오 배우 조진웅이 최우식의 성장에 대해 놀라워했다. 5일 방송된 SBS 파워FM '두시탈출 컬투쇼'에는 영화 '경관의 피'의 배우 조진웅, 최우식, 박희순, 권율, 박명훈이 출연해 다양한 이야기를 나눴다. 이날 조진웅은 최우식에 대해 "딱 보면 '삐약삐약'거리지 않냐. 근데 영화를 하면서 성]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이무생 "작품 선택 기준? 캐릭터보다 이야기 중요"]]></title>
-        <id>https://entertain.v.daum.net/v/20220105151629536</id>
-        <link href="https://entertain.v.daum.net/v/20220105151629536"/>
-        <updated>2022-01-05T07:11:49.784Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 김나연 기자] 배우 이무생이 22일 오전 온라인 생중계로 진행된 넷플릭스 오리지널 드라마 '고요의 바다' 제작발표회에 참석해 포즈를 취하고 있다.  필수 자원의 고갈로 황폐해진 근미래의 지구, 특수 임무를 받고 달에 버려진 연구기지로 떠난 정예 대원들의 이야기를 담은 '고요의 바다'는 오는 24일 공개된다. /사진제공=넷플릭스 2021.12.22]]></content>
     </entry>
 </feed>
