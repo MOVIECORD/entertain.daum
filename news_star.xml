@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2022-01-06T17:22:15.042Z</updated>
+    <updated>2022-01-06T18:14:49.082Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['공생의 법칙' ESG 특공대, 역대급 사이즈 등검은 말벌 벌집 제거 성공]]></title>
+        <id>https://entertain.v.daum.net/v/20220107024800556</id>
+        <link href="https://entertain.v.daum.net/v/20220107024800556"/>
+        <updated>2022-01-06T18:14:44.033Z</updated>
+        <content type="html"><![CDATA[[SBS연예뉴스 | 김효정 에디터] ESG 특공대가 생태계를 교란하는 등검은 말벌의 벌집 제거에 성공했다. 6일 방송된 SBS 신년특집 '공생의 법칙'에서는 등검은 말벌 벌집을 제거하기 위한 ESG 특공대의 활약이 공개됐다. 이날 방송에서 ESG 특공대는 인명 피해도 심각한 등검은 말벌을 제거하기 위해 의뢰받은 학교로 출동했다. 학생들의 피해를 막기 위해서]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['꼬꼬무' 한 사람의 인생 송두리째 바꾼 '110억 마늘밭' 미스터리]]></title>
         <id>https://entertain.v.daum.net/v/20220107020300503</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220107000001724"/>
         <updated>2022-01-06T15:12:31.871Z</updated>
         <content type="html"><![CDATA['꼬꼬무' 장현성이 마늘밭 돈뭉치 존재를 리스너에게 전했다. 6일 방송된 SBS '꼬리에 꼬리를 무는 그날 이이기'(이하 '꼬꼬무')에서는 '그곳에 묻혀있다. 2011 축령마을 미스터리' 편에서 김제 마늘밭 돈뭉치 사건을 조명했다. 땅 속에 묻혀 있는 두 개의 통도 발견이 됐고, 통 안에는 각각 5억 씩 들어있어 총 13억이라는 게 밝혀졌다. 뿐만]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['심야괴담회' 아이들 미연, 소속사 괴담 공개 "새벽에 하이힐 소리가.."]]></title>
-        <id>https://entertain.v.daum.net/v/20220106235000689</id>
-        <link href="https://entertain.v.daum.net/v/20220106235000689"/>
-        <updated>2022-01-06T15:12:31.872Z</updated>
-        <content type="html"><![CDATA[[TV리포트=김은정 기자] 미연이 소속사 괴담으로 점수를 잃었다. 6일 오후 방송된 MBC '심야괴담회'에서는 마마무 솔라, 오마이걸 유아, (여자)아이들 미연, 그리고 김재환이 함께하는 신년 특집 '아이돌 괴담 대회'가 펼쳐졌다. 이날 네 사람은 출연 이유를 밝혔다. 먼저 솔라는 "파일럿 프로그램 때부터 좋아했다. 저를 불러주길 바랐다"며 괴담 마니아 면]]></content>
     </entry>
 </feed>
