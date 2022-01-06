@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/variety</id>
     <title>다음 연예 ─ 뉴스 ─ 예능</title>
-    <updated>2022-01-06T10:13:26.267Z</updated>
+    <updated>2022-01-06T11:10:40.551Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['싱글맘' 김지연 "이혼 후 최장 5년 연애..재혼 생각 有"]]></title>
+        <id>https://entertain.v.daum.net/v/20220106193003143</id>
+        <link href="https://entertain.v.daum.net/v/20220106193003143"/>
+        <updated>2022-01-06T11:10:29.432Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 김유진 기자) 배우 김지연이 재혼 생각이 있다고 말했다. 김지연은 6일 공개된 유튜브 채널 베짱이엔터테인먼트의 '만신포차'에 출연했다.&nbsp; 이날 만신들은 "정신적으로 큰 충격을 받았다. 인내하고 감내하면서 마음의 상처를 스스로 치유하기 위해서 나만의 방법으로 사회생활을 하기 시작했다"고 분석했고, 이에 김지연은 눈물을 쏟았다. 김지연은 "저]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김미려, ♥정성윤 사주풀이 결과에 급 멱살잡이..무슨 일?]]></title>
         <id>https://entertain.v.daum.net/v/20220106190550797</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220106173844962"/>
         <updated>2022-01-06T09:13:40.295Z</updated>
         <content type="html"><![CDATA[[OSEN=하수정 기자] '팽락부부' 팽현숙-최양락 부부의 캠핑카가 공개된다.&nbsp; 오는 7일 방송되는 채널 IHQ 예능프로그램 '결혼은 미친 짓이야' 10회에서는 팽현숙-최양락 부부가 지인부부와 함께 구매한 럭셔리 캠핑카를 공개한다. &nbsp; 최근 진행된 녹화에서 '팽락부부'의 VCR을 보던 출연진들은 낯선 버스의 등장에 궁금증을 드러냈고, 팽현숙은 지인부부와]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['데뷔 11년차' 서은광, 깐족 진행으로 선보인 '예능의 진수']]></title>
-        <id>https://entertain.v.daum.net/v/20220106172722608</id>
-        <link href="https://entertain.v.daum.net/v/20220106172722608"/>
-        <updated>2022-01-06T09:13:40.296Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 하지원 기자) '아이돌리그' 서은광이 깐족거리는 진행으로 예능 진수를 선보인다. 8일 방송되는 스타티비(STATV) '아이돌리그'에는 차세대 글로벌 아이돌로 떠오르는 그룹 피원하모니(P1Harmony)가 출연한다. 피원하모니는 신인답지 않은 입담을 선보이지만 ‘아이돌리그’ MC이자 ‘데뷔 11년 차’ 서은광의 예능감 앞에서는 속수무책이었다]]></content>
     </entry>
 </feed>
