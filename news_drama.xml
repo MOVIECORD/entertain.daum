@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-01-07T19:09:05.670Z</updated>
+    <updated>2022-01-07T20:13:30.775Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['트레이서' 고아성, 억울한 체납자 죽음 사고로 조작 "보험금 수령 대비"]]></title>
+        <id>https://entertain.v.daum.net/v/20220108051243125</id>
+        <link href="https://entertain.v.daum.net/v/20220108051243125"/>
+        <updated>2022-01-07T20:13:14.713Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 서유나 기자] 고아성이 남은 유족을 위해 체납자의 극단적 선택을 사고로 조작했다. 1월 7일 첫 방송된 MBC, wavve 금토드라마 '트레이서'(각본 김현정, 연출 이승영) 1회에서는 정 많은 국세청 조사관 서혜영(고아성 분)의 모습이 그려졌다. 이날 서혜영은 담당 체납자의 극단적 선택 소식에 급히 그 집으로 달려갔다. 남은 유족인 체납자의]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['배앤크' 이동욱, 악인 이화룡 검거 성공..한지은과 애정확인]]></title>
         <id>https://entertain.v.daum.net/v/20220108004900385</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220107222913724"/>
         <updated>2022-01-07T14:11:14.838Z</updated>
         <content type="html"><![CDATA[[스타뉴스 오진주 인턴기자] /사진=MBC '트레이서' 방송화면 '트레이서'에서 박호산의 죽음에 임시완이 자책했다. 7일 오후 방송된 MBC 새 금토 드라마 '트레이서'(극본 김현정 / 연출 이승영 / 제작 웨스트월드스토리, 웨이브 오리지널)에서 황동주(임시완 분)는 아버지 황철민(박호산 분)의 교통사고 현장에 있는 모습이 담겼다. 사고 현장에서 황동]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['지헤중' 박효주, 병세 악화에 딸과 이별 준비.."미안해서 어쩌지" 오열]]></title>
-        <id>https://entertain.v.daum.net/v/20220107222545708</id>
-        <link href="https://entertain.v.daum.net/v/20220107222545708"/>
-        <updated>2022-01-07T14:11:14.838Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 오수정 기자) '지금, 헤어지는 중입니다'에서 박효주가 오열했다.&nbsp; 7일 방송된 SBS 금토드라마 '지금, 헤어지는 중입니다' 15회에서는 이별을 준비하는 전미숙(박효주 분)과 곽수호(윤나무)의 모습이 그려졌다.&nbsp; 전미숙은 웨장암 진단을 받고 시한부 선고를 받았다. 그리고 전미숙의 상태를 갈수록 악화됐다. 전미숙은 가족들과 헤어질 준비에]]></content>
     </entry>
 </feed>
