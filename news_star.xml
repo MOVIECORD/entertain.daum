@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2022-01-07T16:18:00.373Z</updated>
+    <updated>2022-01-07T17:22:04.588Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['더솔져스' 알파팀 홍범석, '기습 미션' 예측..순조롭게 '대테러 미션' 완료]]></title>
+        <id>https://entertain.v.daum.net/v/20220108020900644</id>
+        <link href="https://entertain.v.daum.net/v/20220108020900644"/>
+        <updated>2022-01-07T17:21:58.667Z</updated>
+        <content type="html"><![CDATA[[SBS연예뉴스 | 김효정 에디터] 알파팀이 무사히 미션을 수행했다. 7일 방송된 SBS '더솔져스'에서는 첫 번째 팀 탈락 미션인 대테러 미션이 진행됐다. 이날 방송에서 마지막으로 미션에 도전한 것은 알파팀이었다. 알파팀은 미션 수행에 앞서 대테러 경험이 있는 이창준 팀장과 홍범석, 김창완이 미션에 유용한 팁들을 공유했다. 그리고 이들은 큰 문제없이 순조]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['나혼산' 남윤수, 할머니와 달달 데이트→전현무, '히말라야급' 한라산 등반기]]></title>
         <id>https://entertain.v.daum.net/v/20220108005400403</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220107234332017"/>
         <updated>2022-01-07T15:12:44.214Z</updated>
         <content type="html"><![CDATA[[OSEN=선미경 기자] ‘금쪽 상담소’ 그룹 자우림 멤버 김윤아가 어린 시절 아버지의 학대를 고백했다. 정신적, 신체적 학대를 받았다는 것. 김윤아는 7일 오후에 방송된 종합편성채널 채널A ‘오은영의 금쪽 상담소’에 출연했다. 이날 김윤아는 자신이 겪은 아버지의 학대와 번아웃에 대해 솔직하게 털어놔 눈길을 끌었다. 김윤아는 어린 시절에 대해서 “저희]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[첫방 '트레이서' 임시완, '돈튀호테'→구린 돈 터는 독한 놈으로..국세청 입성]]></title>
-        <id>https://entertain.v.daum.net/v/20220107233730997</id>
-        <link href="https://entertain.v.daum.net/v/20220107233730997"/>
-        <updated>2022-01-07T15:12:44.214Z</updated>
-        <content type="html"><![CDATA[[TV리포트=김은정 기자] '트레이서'가 베일을 벗었다. 7일 오후 첫 방송된 MBC 금토드라마 ‘트레이서‘에서는 황동주(임시완 분)가 강력한 똘끼를 발산하며 거액의 세금을 체납 중인 재벌의 돈을 찾아냈다. 황동주는 전직 대기업의 뒷돈을 관리하던 업계 최고의 회계사로 활약하던 일명 ‘돈튀호테(돈 먹고 튀고 싶은 사람들의 돈키호테)’라 불리던 인물이다. 하지]]></content>
     </entry>
 </feed>

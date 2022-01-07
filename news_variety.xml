@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/variety</id>
     <title>다음 연예 ─ 뉴스 ─ 예능</title>
-    <updated>2022-01-07T16:18:00.375Z</updated>
+    <updated>2022-01-07T17:22:04.585Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["네 식구 단칸방서 살아" 윤은혜, 힘들었던 유년시절 고백→ 2021년 '요리책' 출간]]></title>
+        <id>https://entertain.v.daum.net/v/20220108012346518</id>
+        <link href="https://entertain.v.daum.net/v/20220108012346518"/>
+        <updated>2022-01-07T17:21:53.170Z</updated>
+        <content type="html"><![CDATA[[OSEN=이예슬기자]&nbsp; ‘백반기행’&nbsp; 윤은혜가 어려웠던 유년시절을 고백한 가운데 2021년 요리책을 출간했다고 전했다. 7일 방송된 TV조선 '식객 허영만의 백반기행'에는 배우 윤은혜가 출연해 털털한 매력을 뽐냈다. 이날 두 사람은 감자보리밥 정식집을 찾았다. 허영만은 윤은혜에 "어릴때 보리밥을 먹고 크지는 않았죠?"라고 질문했다. 윤은혜는 "조기 한]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['나혼자산다' 전현무, 임인년 첫날 12시간 한라산 등반 "무서워서 죽는줄"]]></title>
         <id>https://entertain.v.daum.net/v/20220108011234488</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220108000037127"/>
         <updated>2022-01-07T15:12:39.010Z</updated>
         <content type="html"><![CDATA[[OSEN=김예솔 기자] 허재가 제주로 패키지 여행을 떠나는 모습이 그려졌다.&nbsp; 7일에 방송된 JTBC '해방타운'에서는 허재가 제주도로 패키지 여행을 떠나 해방라이프를 즐겼다.&nbsp; 이날 허재는 수학여행 2탄으로 제주를 찾았다. 허재는 공항에 내리자 마자 포토스팟을 찾아 셀카를 남겨 웃음을 자아냈다. 허재는 "일행이 있으면 도움을 많이 받을 것 같아서 패]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['나혼산' 기안84, 남윤수 질투 "26세 키도 크고 잘생기고"]]></title>
-        <id>https://entertain.v.daum.net/v/20220108000030124</id>
-        <link href="https://entertain.v.daum.net/v/20220108000030124"/>
-        <updated>2022-01-07T15:12:39.011Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 오진주 인턴기자] /사진=MBC '나혼산' 방송화면 '나 혼자 산다'에서 배우 남윤수가 훈훈한 얼굴과 기럭지를 자랑했다. 7일 방송된 MBC '나 혼자 산다'(연출 허항 김지우)에서는 자취 9개월 차 신입 자취생 남윤수가 출연해 일상을 보내는 자연스러운 모습이 담겼다. 이날 방송에서 전현무는 남윤수를 모니터링하며 "키가 진짜 크다"고 감탄했고]]></content>
     </entry>
 </feed>
