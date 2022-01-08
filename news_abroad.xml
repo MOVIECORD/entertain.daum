@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2022-01-08T02:01:39.559Z</updated>
+    <updated>2022-01-08T03:14:45.656Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[위켄드, 안젤리나 졸리와 열애 간접 언급? "내 여자는 영화배우"]]></title>
+        <id>https://entertain.v.daum.net/v/20220108112315308</id>
+        <link href="https://entertain.v.daum.net/v/20220108112315308"/>
+        <updated>2022-01-08T03:14:44.984Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 이민지 기자] 가수 위켄드가 배우 안젤리나 졸리와의 열애설에 휩싸였다. 페이지식스는 1월 7일(현지시간) 위켄드 새 앨범 'Dwan FM' 가사가 배우 안젤리나 졸리와의 열애설에 불을 지폈다고 전했다. 위켄드는 앨범 수록곡 'Here We Go...Aganin'에서 신비로운 새 관계에 대해 이야기 했다. 특히 "내 새로운 여자, 그녀는 영화배]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["날 놔두고 딴 여자랑 아이를 낳아?" 카다시안, 스포츠스타에 "화났다"]]></title>
         <id>https://entertain.v.daum.net/v/20220108061305632</id>
@@ -67,12 +74,5 @@
         <link href="https://entertain.v.daum.net/v/20220107143027928"/>
         <updated>2022-01-07T06:14:45.572Z</updated>
         <content type="html"><![CDATA[(엑스포츠뉴스 이창규 기자) 미국 배우 니콜라스 케이지의 31살 연하 일본인 아내가 임신했다는 소식이 전해져 눈길을 끈다. 6일(현지시간) 미국의 페이지식스는 니콜라스 케이지가 지난 2월 결혼한 시바타 리코와의 사이에서 아이를 가졌다고 보도했다. 니콜라스 케이지 측은 "곧 부모가 될 두 사람은 고무된 상태"라고 전한 것으로 알려졌으며, 아이의 성별과 출]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['57세' 니콜라스 케이지, 30살 어린 일본인 아내 임신..5혼서 '경사']]></title>
-        <id>https://entertain.v.daum.net/v/20220107110436221</id>
-        <link href="https://entertain.v.daum.net/v/20220107110436221"/>
-        <updated>2022-01-07T02:11:26.024Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 배효주 기자] 할리우드 배우 니콜라스 케이지의 30세 연하 일본인 아내가 임신했다. 1월 6일(현지시간) 해외 매체 페이지식스 보도에 따르면, 올해 57세인 니콜라스 케이지와 결혼한 27세 일본 여성 리코 시바타가 임신했다. 니콜라스 케이지 측 홍보 담당자는 해당 매체에 이 같이 밝히며, "곧 부모가 될 두 사람은 고무된 상태"라고 전했다. 출]]></content>
     </entry>
 </feed>
