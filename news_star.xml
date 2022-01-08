@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2022-01-08T16:17:15.452Z</updated>
+    <updated>2022-01-08T17:20:14.481Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[박하선, 손목에 '560만원' 시계 두르고..올 블랙 룩 "어디 거?"]]></title>
+        <id>https://entertain.v.daum.net/v/20220109015202728</id>
+        <link href="https://entertain.v.daum.net/v/20220109015202728"/>
+        <updated>2022-01-08T17:20:08.849Z</updated>
+        <content type="html"><![CDATA[배우 박하선이 멋스러운 블랙 룩을 선보였다. 지난 7일 박하선은 온라인으로 진행된 카카오TV 새 오리지널 '며느라기2..ing' 제작발표회에 참석했다. 이날 박하선은 어깨 부분에 커다란 리본을 묶은 듯한 페플럼 톱에 일자 팬츠를 매치하고 마치 한 의상인 듯 깔끔한 스타일링을 뽐냈다. 그는 발등을 덮는 길이의 팬츠에 블랙 펌프스 힐을 매치해 다리를 길어]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['전참시' 권율 "밀크남 이미지 벗어나고파"..엉뚱 매력 발산]]></title>
         <id>https://entertain.v.daum.net/v/20220109004800615</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220108230901202"/>
         <updated>2022-01-08T14:10:41.163Z</updated>
         <content type="html"><![CDATA[송혜교와 장기용이 2년 후 부산에서 재회했다. 8일 방송된 SBS '지금, 헤어지는 중입니다'에서 하영은(송혜교)은 소노를 떠나기로 결정했다. 하영은은 왜 나가냐는 질문에는 "더 늦기 전에 내 디자인하고 싶다"고 답했다. 이에 황치숙(최희서)은 "여기서 하든, 소노랑 같이 나가서 하든 하면 되잖나"라며 하영은을 붙잡았다. 황치숙은 하영은을 끌고 자신의]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['지헤중' 송혜교, 브랜드 '화답' 론칭→장기용과 부산서 재회]]></title>
-        <id>https://entertain.v.daum.net/v/20220108230807199</id>
-        <link href="https://entertain.v.daum.net/v/20220108230807199"/>
-        <updated>2022-01-08T14:10:41.166Z</updated>
-        <content type="html"><![CDATA[[티브이데일리 박상후 기자] '지헤중' 배우 송혜교와 장기용이 재회했다. 8일 밤 방송된 SBS 금토드라마 '지금 헤어지는 중입니다'(극본 제인·연출 이길복, 이하 '지헤중') 최종회에서는 하영은(송혜교)과 윤재국(장기용)이 돌고 돌아 다시 마주했다. 이날 '소노' 직원들은 하영은의 독립 소식에 짙은 아쉬움을 드러냈다. 이들은 "정말 가는 거냐. 도대체]]></content>
     </entry>
 </feed>
