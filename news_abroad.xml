@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2022-01-09T06:14:35.915Z</updated>
+    <updated>2022-01-09T07:11:53.919Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[美아카데미 남우주연상 최고령자, 세상 떠났다.."깊은 애도"]]></title>
+        <id>https://entertain.v.daum.net/v/20220109151849095</id>
+        <link href="https://entertain.v.daum.net/v/20220109151849095"/>
+        <updated>2022-01-09T07:11:53.290Z</updated>
+        <content type="html"><![CDATA[[OSEN=김보라 기자] 흑인 배우 사상 처음으로 미국 아카데미 남우주연상을 받은 시드니 포이티어가 세상을 떠났다. 향년 94세. 시드니 포이티어 측은 7일 오전(현지 시간) “포이티어가 94세의 나이로 영면했다”고 밝혔다. 아직까지 사인은 알려지지 않았으며, 슬하에 딸 하나가 있다. 이날 바하마 총리는 “우리 바하마 전체가 애도하고 그의 가족에게 깊은]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[英에 나타난 신비주의 화가, 알고보니 마돈나 '엄마 찬스'?]]></title>
         <id>https://entertain.v.daum.net/v/20220109102335644</id>
@@ -18,12 +25,5 @@
         <link href="https://entertain.v.daum.net/v/20220109080704097"/>
         <updated>2022-01-08T23:11:46.964Z</updated>
         <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]킴 카다시안(41)에게 제발 돌아와달라고 애원하던 힙합스타 카녜이 웨스트(44)가 새로운 사랑을 찾았다. 연예매체 피플은 7일(현지시간) 소식통의 말을 인용해 “줄리아 폭스는 카녜이 웨스트의 뮤즈”라면서 “그는 그녀의 미소와 태도를 사랑한다”고 전했다. 줄리아 폭스(31)는 카니예 웨스트와의 새로운 열애 사실을 확인한 뒤]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[디카프리오, 23세 연하 여친과 거리낌 없는 수영복 데이트]]></title>
-        <id>https://entertain.v.daum.net/v/20220108160949774</id>
-        <link href="https://entertain.v.daum.net/v/20220108160949774"/>
-        <updated>2022-01-08T07:11:55.611Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 이민지 기자] 디카프리오와 23세 연하 여자친구 데이트가 공개됐다. 페이지식스는 1월 7일(현지시간) 배우 레오나르도 디카프리오(47)와 모델 카밀라 모로네(24)가 세인트루이스 해변에서 시간을 보내는 모습을 공개했다. 레오나르도 디카프리오, 카밀라 모로네 커플은 바다에 들어가 물놀이를 하며 시간을 보냈다. 수영복을 입은 두 사람은 서로를 마주]]></content>
     </entry>
 </feed>
