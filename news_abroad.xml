@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2022-01-10T06:15:11.423Z</updated>
+    <updated>2022-01-10T07:12:50.899Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['풀하우스' 밥 사겟, 호텔서 숨진 채 발견..사인 미상]]></title>
+        <id>https://entertain.v.daum.net/v/20220110155312032</id>
+        <link href="https://entertain.v.daum.net/v/20220110155312032"/>
+        <updated>2022-01-10T07:12:50.236Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 이민지 기자] 코미디언 겸 배우 밥 사겟이 사망했다. 1월 10일(현지시간) CNN에 따르면 밥 사겟이 미국 플로리다 한 호텔에서 숨진 채 발견됐다. 향년 65세. 밥 사겟의 사인은 아직 밝혀지지 않았으나 살인이나 마약 등 흔적은 찾지 못한 것으로 알려졌다. 경찰 측은 부검을 통해 사인을 분석할 계획이다. 그는 코미디 투어 일정 때문에 플로리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[히로세 아리스, '9살 연상' 칸쟈니 오쿠라 타다요시와 열애설]]></title>
         <id>https://entertain.v.daum.net/v/20220110150750277</id>
@@ -67,12 +74,5 @@
         <link href="https://entertain.v.daum.net/v/20220109162343162"/>
         <updated>2022-01-09T08:14:23.107Z</updated>
         <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]세계적 셀럽 셀레나 고메즈가 우울증과 불안감에 시달리고 있다고 밝혔다. 그는 8일(현지시간) 인스타일과 인터뷰에서 자신의 “정신 건강에 우선순위를 두고 있다”고 말했다. 고메즈는 지난 2년 동안 "우울증과 불안감에 시달리고 있다"며 "나는 내가 되기 힘들었다"고 밝혔다. 고메즈는 수년 동안 정신질환이라는 오명을 벗는 것에]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美아카데미 남우주연상 최고령자, 세상 떠났다.."깊은 애도"]]></title>
-        <id>https://entertain.v.daum.net/v/20220109151849095</id>
-        <link href="https://entertain.v.daum.net/v/20220109151849095"/>
-        <updated>2022-01-09T07:11:53.290Z</updated>
-        <content type="html"><![CDATA[[OSEN=김보라 기자] 흑인 배우 사상 처음으로 미국 아카데미 남우주연상을 받은 시드니 포이티어가 세상을 떠났다. 향년 94세. 시드니 포이티어 측은 7일 오전(현지 시간) “포이티어가 94세의 나이로 영면했다”고 밝혔다. 아직까지 사인은 알려지지 않았으며, 슬하에 딸 하나가 있다. 이날 바하마 총리는 “우리 바하마 전체가 애도하고 그의 가족에게 깊은]]></content>
     </entry>
 </feed>
