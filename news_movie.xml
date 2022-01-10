@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2022-01-10T20:11:27.769Z</updated>
+    <updated>2022-01-10T21:11:22.148Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['아이언맨' 톰 크루즈, '닥터 스트레인지2' 출연할까]]></title>
+        <id>https://entertain.v.daum.net/v/20220111060903344</id>
+        <link href="https://entertain.v.daum.net/v/20220111060903344"/>
+        <updated>2022-01-10T21:11:01.694Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]할리우드 스타 톰 크루즈가 ‘아이언맨’으로 ‘닥터 스트레인지:대혼돈의 멀티버스’에 출연할 것이라는 루머가 나왔다. 에픽 스트림은 9일(현지시간) “톰 크루즈가 ‘아이언맨’ 캐릭터로 ‘닥터 스트레인지2’에 나올 것이라는 소문이 퍼지고 있다”고 전했다. 이 매체는 “현재 인터넷에서는 톰 크루즈가 ‘아이언맨’의 변종으로 등장할]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[전 세계 홀린 '깐부'.. 韓 배우 첫 수상]]></title>
         <id>https://entertain.v.daum.net/v/20220111040313286</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220110171631792"/>
         <updated>2022-01-10T09:12:40.083Z</updated>
         <content type="html"><![CDATA[[뉴스엔 배효주 기자] 박소담 주연 액션영화 '특송'이 전체 예매율 1위에 등극, 새해 극장가 흥행 다크호스의 탄생을 알렸다. 1월 10일 영화진흥위원회 통합전산망 집계에 따르면 이날 오후 5시 기준 영화 '특송'(감독 박대민)이 전체 예매율 1위에 오르며 흥행 청신호를 밝혔다. 12일 개봉하는 '특송'은 성공률 100%의 특송 전문 드라이버 ‘은하’가]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['1987' 측 "故 배은심 여사, 늘 투쟁 현장 계셨던 어머니..영면하시길"]]></title>
-        <id>https://entertain.v.daum.net/v/20220110171502732</id>
-        <link href="https://entertain.v.daum.net/v/20220110171502732"/>
-        <updated>2022-01-10T09:12:40.083Z</updated>
-        <content type="html"><![CDATA[(서울=뉴스1) 정유진 기자 = 영화 '1987' 제작사 측이 이한열 열사의 어머니 고(故) 배은심 여사의 죽음에 애도를 표했다. '1987' 제작사 이우정 우정필름 대표는 10일 뉴스1에 "늘 투쟁의 현장에서 서 계셨던 어머니의 모습은 젊은 우리들에 길을 잃지 않게 하는 깃발과도 같았다"며 "고생하셨다, 열사님과 함께 영면하시길 바란다"라고 애도의]]></content>
     </entry>
 </feed>
