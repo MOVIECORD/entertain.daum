@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/variety</id>
     <title>다음 연예 ─ 뉴스 ─ 예능</title>
-    <updated>2022-01-10T17:22:53.700Z</updated>
+    <updated>2022-01-10T18:14:26.512Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['이수근子' 태준이, 누가 아이돌 연습생 아니랄까봐 "잘생겼다고 난리"]]></title>
+        <id>https://entertain.v.daum.net/v/20220111030223021</id>
+        <link href="https://entertain.v.daum.net/v/20220111030223021"/>
+        <updated>2022-01-10T18:14:15.334Z</updated>
+        <content type="html"><![CDATA[[OSEN=김수형 기자] ‘무엇이든 물어보살’에서 이수근의 아들 태준이가 학교에서도 인기를 휩쓸고 다닌다는 근황이&nbsp;전해져 아버지인 이수근을 흐뭇하게 했다.&nbsp; 10일 KBS 조이 예능 ‘무엇이든 물어보살’에서 중학생 사연자의 고민이 그려졌다.&nbsp; 이날&nbsp;첫번째로 모녀 사연자부터 고민을 전했다. 딸은 강남 압구정에 사는 중1이라고 하면서 이수근 아들과초등학교도]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['동상2' 박성광 "유일한 미혼 허경환? 사실 결혼할 여자 있었다" 깜짝 폭로]]></title>
         <id>https://entertain.v.daum.net/v/20220111010030704</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220110233927239"/>
         <updated>2022-01-10T15:12:55.583Z</updated>
         <content type="html"><![CDATA[[뉴스엔 배효주 기자] 이경규가 딸 이예림의 결혼으로 인해 반려견과 생이별했다고 밝혔다. 1월 10일 방송된 KBS 2TV '개는 훌륭하다'에서는 골든 레트리버 '할리'와 포메라니안 '하츠', 두 반려견을 두고 벌어지는 모녀의 갈등이 공개됐다. 이날 이경규는 반려견 '룽지'와 이별해 "아주 그냥 죽겠다"고 호소했다. 바로 딸 이예림이 경남FC 소속 축구선]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['동상2' 황혜영 "정치인 남편과 노래방에서 눈 맞아"]]></title>
-        <id>https://entertain.v.daum.net/v/20220110233611218</id>
-        <link href="https://entertain.v.daum.net/v/20220110233611218"/>
-        <updated>2022-01-10T15:12:55.584Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 이시연 기자] /사진= sbs '동상이몽2 너는 내 운명' 방송 화면'동상이몽 2 - 너는 내 운명'에서 전 투투 멤버 황혜영이 정치인 남편과 노래방에서 눈이 맞았다고 밝혔다. 10일 오후 방송된 SBS 예능프로그램 '동상이몽 2 - 너는 내 운명'에서 황혜영이 게스트로 출연했다. 이날 방송에서 28년 전 투투 멤버에서 연 매출 100억 쇼]]></content>
     </entry>
 </feed>
