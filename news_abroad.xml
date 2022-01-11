@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2022-01-11T07:12:30.154Z</updated>
+    <updated>2022-01-11T08:14:57.778Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[드니 빌뇌브 "'듄' 3편? 충분히 가능한 일이지만.."]]></title>
+        <id>https://entertain.v.daum.net/v/20220111162907718</id>
+        <link href="https://entertain.v.daum.net/v/20220111162907718"/>
+        <updated>2022-01-11T08:14:57.095Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 이창규 기자) 드니 빌뇌브 감독이 '듄'(감독 드니 빌뇌브)의 추가 속편에 대해 언급했다. 드니 빌뇌브 감독은 10일(현지시간) 스크린 데일리와의 인터뷰에서 "프랭크 허버트의 두 번째 소설인 '듄 메시아'를 원작으로 한&nbsp;'듄'의 세 번째 영화는 만들어진다면 정말 아름다운 영화가 될 거다. 폴 아트레이디스의 여정과 이야기를 완벽하게 마무리할]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['미국의 아빠' 밥 사겟, 사망 전 코로나19 증세 앓았다]]></title>
         <id>https://entertain.v.daum.net/v/20220111154021695</id>
@@ -74,12 +81,5 @@
         <link href="https://entertain.v.daum.net/v/20220110202709531"/>
         <updated>2022-01-10T12:19:27.258Z</updated>
         <content type="html"><![CDATA[미국의 유명 코미디언 밥 사겟(Bob Saget)이 향년 65세의 나이로 세상을 떠났다. 10일(현지시각) 미국 CNN 등에 따르면 밥 사겟이 미국 플로리다의 한 호텔에서 숨진 채 발견됐다. 아직 사인은 밝혀지지 않았으나, 살인이나 마약 등의 흔적은 발견되지 않은 것으로 전해진다. 밥 사겟 가족들은 성명서를 통해 "사랑하는 밥이 사망했다는 소식을 듣고]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[제니퍼 로페즈 '마더', 코로나 확진자 발생해 촬영 중단]]></title>
-        <id>https://entertain.v.daum.net/v/20220110162644258</id>
-        <link href="https://entertain.v.daum.net/v/20220110162644258"/>
-        <updated>2022-01-10T08:15:24.752Z</updated>
-        <content type="html"><![CDATA[[OSEN=김보라 기자]&nbsp;배우 제니퍼 로페즈가 출연하는 새 영화 ‘마더’의 촬영이 중단됐다. 제작진 중 코로나 감염자가 발생했기 때문. ‘마더’의 촬영 중 코로나 양성반응을 보인 감염자가 발생해 촬영 일정이 일시적으로 중단됐다고 9일(한국 시간) 피플은 보도했다. ‘마더’는 딸을 보호하기 위해 암살자로 나선 여성의 이야기를 그린 스릴러 영화. 이번 영화]]></content>
     </entry>
 </feed>
