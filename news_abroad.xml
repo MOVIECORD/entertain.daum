@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2022-01-11T06:14:45.568Z</updated>
+    <updated>2022-01-11T07:12:30.154Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['미국의 아빠' 밥 사겟, 사망 전 코로나19 증세 앓았다]]></title>
+        <id>https://entertain.v.daum.net/v/20220111154021695</id>
+        <link href="https://entertain.v.daum.net/v/20220111154021695"/>
+        <updated>2022-01-11T07:12:29.398Z</updated>
+        <content type="html"><![CDATA[[OSEN=최나영 기자] 미국 시트콤 '풀하우스'로 유명한&nbsp;코미디언 겸 배우 밥 사겟이&nbsp;65세를 일기로 갑작스럽게 세상을 떠난 가운데 최근 그가&nbsp;코로나19(COVID-19)에 걸렸었다고 페이지식스가 10일(현지시간) 팝캐스트 내용을 빌어 보도했다. 밥 사겟은&nbsp;사망하기 며칠 전인 지난 5일(현지시간) 팟캐스트 '톰과&nbsp;댄의 직장 타임'에 출연해&nbsp;전 세계에서]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[디즈니X픽사 '터닝레드' 극장 개봉 취소..디즈니+ 직행한다]]></title>
+        <id>https://entertain.v.daum.net/v/20220111151835740</id>
+        <link href="https://entertain.v.daum.net/v/20220111151835740"/>
+        <updated>2022-01-11T07:12:29.400Z</updated>
+        <content type="html"><![CDATA[디즈니가 또 한번 초강수를 둔다. 지난 7일(현지시각) 미국 매체 데드라인에 따르면 디즈니와 픽사의 공동 제작으로 기대를 모았던 영화 '터닝 레드(도미 쉬 감독)'는 예정된 3월 11일 극장 개봉을 취소했다. '터닝 레드'는 극장 상영 없이, 월트디즈니가 운영하는 OTT 플랫폼 디즈니+에서 바로 스트리밍 서비스를 시작한다. 최근 북미 내 코로나19 바]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[워너 CEO "'더배트맨' 3월 4일 개봉, 변동 없다"]]></title>
         <id>https://entertain.v.daum.net/v/20220111144734262</id>
@@ -67,12 +81,5 @@
         <link href="https://entertain.v.daum.net/v/20220110162644258"/>
         <updated>2022-01-10T08:15:24.752Z</updated>
         <content type="html"><![CDATA[[OSEN=김보라 기자]&nbsp;배우 제니퍼 로페즈가 출연하는 새 영화 ‘마더’의 촬영이 중단됐다. 제작진 중 코로나 감염자가 발생했기 때문. ‘마더’의 촬영 중 코로나 양성반응을 보인 감염자가 발생해 촬영 일정이 일시적으로 중단됐다고 9일(한국 시간) 피플은 보도했다. ‘마더’는 딸을 보호하기 위해 암살자로 나선 여성의 이야기를 그린 스릴러 영화. 이번 영화]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['풀하우스' 밥 사겟, 호텔서 숨진 채 발견..사인 미상]]></title>
-        <id>https://entertain.v.daum.net/v/20220110155312032</id>
-        <link href="https://entertain.v.daum.net/v/20220110155312032"/>
-        <updated>2022-01-10T07:12:50.236Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 이민지 기자] 코미디언 겸 배우 밥 사겟이 사망했다. 1월 10일(현지시간) CNN에 따르면 밥 사겟이 미국 플로리다 한 호텔에서 숨진 채 발견됐다. 향년 65세. 밥 사겟의 사인은 아직 밝혀지지 않았으나 살인이나 마약 등 흔적은 찾지 못한 것으로 알려졌다. 경찰 측은 부검을 통해 사인을 분석할 계획이다. 그는 코미디 투어 일정 때문에 플로리]]></content>
     </entry>
 </feed>
