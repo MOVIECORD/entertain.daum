@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2022-01-11T17:22:57.351Z</updated>
+    <updated>2022-01-11T18:14:18.332Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['특송' 박소담 "갑상선 유두암 진단, 많이 놀라고 두려웠다"]]></title>
+        <id>https://entertain.v.daum.net/v/20220112030304670</id>
+        <link href="https://entertain.v.daum.net/v/20220112030304670"/>
+        <updated>2022-01-11T18:14:11.352Z</updated>
+        <content type="html"><![CDATA[‘특송’이 영화의 주역인 특송 전문 드라이버 ‘은하’로 분한 박소담 배우의 서면 인터뷰를 공개했다. 첫 원톱 액션에 도전한 박소담은 고난도 카체이싱과 타격감 넘치는 액션을 완벽 소화해 “기발한 차량 추격전, 박소담을 보라”, “걸크러쉬의 정점!” 등 극찬 릴레이를 끌어내고 있다. 건강 회복 중인 걸로 알고 있는데, 새해 인사 등 근황에 대해 간단한]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['화밤' 정수라 "김태연X김다현 찐팬" 고백→정동원X남승민 국민손주 노래 대결]]></title>
         <id>https://entertain.v.daum.net/v/20220112005131111</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220112000000720"/>
         <updated>2022-01-11T15:13:00.870Z</updated>
         <content type="html"><![CDATA['돌싱포맨' 이봉원 과거 사업 실패에 대해 이야기했다. 11일 방송된 SBS 예능프로그램 '신발 벗고 돌싱포맨'(이하 '돌싱포맨')에서는 결혼 29년 차 이봉원과 결혼 17년 차 박준형이 포맨을 찾아왔다. 이날 이상민은 이봉원에 "단도직입적으로 질문하겠다. 우리에게 형님이 우상인 게 지금까지 무사한 게 너무 궁금하다"며 "손만 대면 쪽박 치는 스타로]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['고스트닥터' 김범, 처음부터 정지훈 영혼 보였다]]></title>
-        <id>https://entertain.v.daum.net/v/20220111235401703</id>
-        <link href="https://entertain.v.daum.net/v/20220111235401703"/>
-        <updated>2022-01-11T15:13:00.877Z</updated>
-        <content type="html"><![CDATA[김범이 정지훈의 영혼을 똑바로 마주봤다. 김범은 처음부터 정지훈의 영혼을 봤지만 그간 모른 척 해왔다. 11일 방송된 tvN '고스트닥터' 4화에서는 차영민(정지훈 분)이 고승탁(김범 분)을 의심하는 모습이 그려졌다. 이날 고승탁과 차영민은 길거리에 쓰러진 환자를 응급처치했다. 고승탁은 "살렸네. 이 손이 금손"이라며 기뻐했고, 차영민은 그런 고승탁을]]></content>
     </entry>
 </feed>
