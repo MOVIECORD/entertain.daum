@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2022-01-11T19:10:44.844Z</updated>
+    <updated>2022-01-11T20:12:25.740Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['드라이브 마이 카' 수상 드라이브.. 아시아계 감독 3년 연속 오스카 정복할까]]></title>
+        <id>https://entertain.v.daum.net/v/20220112043105075</id>
+        <link href="https://entertain.v.daum.net/v/20220112043105075"/>
+        <updated>2022-01-11T20:12:06.874Z</updated>
+        <content type="html"><![CDATA[오스카는 올해도 아시아를 향해 미소 지을까. 9일 오후(현지시간) 제79회 골든글로브상 시상식이 열리며 ‘오스카 레이스’가 본격적으로 시작됐다. 여러 시상식을 통해 제94회 미국 아카데미영화상 시상식(3월 27일) 주요 후보들의 윤곽이 드러나고 있다. 선두 주자 중 하나는 하마구치 류스케 감독의 일본 영화 ‘드라이브 마이 카’다. 작품상과 감독상, 각색상,]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[대선 40일 남짓 앞두고 찾아오는 'DJ 킹메이커' 이야기]]></title>
         <id>https://entertain.v.daum.net/v/20220112040817993</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220111173314036"/>
         <updated>2022-01-11T09:12:53.828Z</updated>
         <content type="html"><![CDATA[[SBS 연예뉴스 | 김지혜 기자] 배우 박소담이 스크린 첫 단독 주연작 '특송'의 개봉을 앞둔 소회를 밝혔다. 지난해 연말 갑상선 유두함 수술을 받고 회복 중이라 이번 인터뷰는 서면으로 진행됐다. 첫 단독 주연작인 '특송'은 성공률 100%의 특송 전문 드라이버 '은하'가 예기치 못한 배송사고에 휘말리면서 벌어지는 추격전을 그린 범죄 오락 액션 영화다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박소담 "교통사고 탓 차 타는 것 두려웠지만..'특송' 덕에 두려움 떨쳐"]]></title>
-        <id>https://entertain.v.daum.net/v/20220111173227989</id>
-        <link href="https://entertain.v.daum.net/v/20220111173227989"/>
-        <updated>2022-01-11T09:12:53.835Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 배효주 기자] '특송' 주역 박소담의 일문일답이 공개됐다. 1월 12일 개봉을 앞두고 있는 영화 '특송'(감독 박대민)은 성공률 100%의 특송 전문 드라이버 ‘은하’가 예기치 못한 배송사고에 휘말리면서 벌어지는 추격전을 그린 범죄 오락 액션 영화. 첫 원톱 액션에 도전한 박소담은 고난도 카체이싱과 타격감 넘치는 액션을 완벽 소화해 극찬 릴레이를]]></content>
     </entry>
 </feed>
