@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2022-01-12T17:19:29.281Z</updated>
+    <updated>2022-01-12T18:14:38.503Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['직딩대나무숲' 블라인드 대표 "美가입자 160만명 '연봉 많이 줘?' 가장 많은 질문"]]></title>
+        <id>https://entertain.v.daum.net/v/20220113025252990</id>
+        <link href="https://entertain.v.daum.net/v/20220113025252990"/>
+        <updated>2022-01-12T18:14:32.788Z</updated>
+        <content type="html"><![CDATA[[스포츠서울 박효실기자] '직장인들의 대나무숲'으로 통하는 직장인 익명 커뮤니티앱 블라인드의 문성욱 대표가 2021년 상반기 기준 전세계 15만개 회사에서 417만명이 사용하는 소통채널로 성장한 비하인드 스토리를 털어놨다. 12일 방송된 tvN'유퀴즈-베네핏이 있나요'에서 문 대표는 "과거 네이버에서 일했는데, 거대 조직이다보니 딱딱한 인간관계가 많]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[KCM, 9세 연하 연인과 혼인신고 "부모님들 앞에서 언약식"]]></title>
         <id>https://entertain.v.daum.net/v/20220113011334801</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220112232807097"/>
         <updated>2022-01-12T15:12:41.770Z</updated>
         <content type="html"><![CDATA[[티브이데일리 이기은 기자] '라디오스타' 개그우먼 이수지에겐 다양한 셀럽들의 얼굴이 숨어 있었다. 12일 밤 방송된 MBC 예능프로그램 '라디오스타'에서는 개그우먼 이수지 토크가 공개됐다. 이수지는 자신이 무쌍꺼풀이라며 얼굴에 다양한 유명인들의 얼굴이 있다고 토로했다. 그는 “중학교 때 원로 故 백남봉 선배님 닮았다는 소리 들었다”고 말했다. 이수지는 “]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['갓파더' 강주은 "♥최민수 뒤에 타기 싫어 오토바이 면허 취득"]]></title>
-        <id>https://entertain.v.daum.net/v/20220112232322062</id>
-        <link href="https://entertain.v.daum.net/v/20220112232322062"/>
-        <updated>2022-01-12T15:12:41.771Z</updated>
-        <content type="html"><![CDATA[[티브이데일리 김종은 기자] '갓파더'에서 강주은이 오토바이를 타기 시작한 계기를 들려줬다. 12일 밤 방송된 KBS2 예능프로그램 '갓파더'에서는 우혜림이 강주은의 딸이 됐다. 이날 강주은은 우혜림과의 첫 만남부터 그를 스포츠카에 태우고 장을 보러 갔다. 이 밖에도 그는 취미로 오토바이를 탈 정도로 운전을 즐긴다고. 이에 우혜림은 "원래 자동차와 오토바]]></content>
     </entry>
 </feed>
