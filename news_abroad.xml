@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2022-01-12T07:11:57.102Z</updated>
+    <updated>2022-01-12T08:15:24.010Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['마라맛' 보여줬던 미래소년, 이번엔 청량함으로 승부수]]></title>
+        <id>https://entertain.v.daum.net/v/20220112170151930</id>
+        <link href="https://entertain.v.daum.net/v/20220112170151930"/>
+        <updated>2022-01-12T08:15:23.360Z</updated>
+        <content type="html"><![CDATA[그룹 미래소년이 청량한 매력으로 승부수를 띄웠다. 미래소년은 12일 오후 미니 3집 ‘마블러스’(Marvelous) 발매 기념 온라인 쇼케이스를 열고 설레는 소감을 전했다. 지난해 3월 데뷔 앨범 ‘킬라’(KILLA)와 같은 해 8월 두 번째 미니 앨범 ‘스플래시’(Splash)에 이은 미래소년의 세 번째 앨범이다. 멤버들은 “‘스플래시’ 활동을 마치고 더]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[벤 애플렉 "폭망 '갱스터러버' 출연 후회NO, ♥︎제니퍼 로페즈 만났기 때문"]]></title>
         <id>https://entertain.v.daum.net/v/20220112145218712</id>
@@ -46,12 +53,5 @@
         <link href="https://entertain.v.daum.net/v/20220111171756494"/>
         <updated>2022-01-11T09:13:13.994Z</updated>
         <content type="html"><![CDATA[[OSEN=최나영 기자]&nbsp;미국의 성인업계 슈퍼스타로&nbsp;'포르노의 여왕'이라는 별명을 갖고 있는 배우 제나 제임슨이&nbsp;길랭-바레증후군(Guillain-Barré syndrome)&nbsp;진단을 받아 걷지도 못하고 있다. 최근 제임슨의 파트너인 리오르 비통은 4살 된 딸과&nbsp;함께 개인 SNS를&nbsp;통해 "제임슨이 몸 상태가 좋지 않다"라며&nbsp;검사를 받고 있다고 밝혔다. 그는]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[드니 빌뇌브 "'듄' 3편? 충분히 가능한 일이지만.."]]></title>
-        <id>https://entertain.v.daum.net/v/20220111162907718</id>
-        <link href="https://entertain.v.daum.net/v/20220111162907718"/>
-        <updated>2022-01-11T08:14:57.095Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 이창규 기자) 드니 빌뇌브 감독이 '듄'(감독 드니 빌뇌브)의 추가 속편에 대해 언급했다. 드니 빌뇌브 감독은 10일(현지시간) 스크린 데일리와의 인터뷰에서 "프랭크 허버트의 두 번째 소설인 '듄 메시아'를 원작으로 한&nbsp;'듄'의 세 번째 영화는 만들어진다면 정말 아름다운 영화가 될 거다. 폴 아트레이디스의 여정과 이야기를 완벽하게 마무리할]]></content>
     </entry>
 </feed>
