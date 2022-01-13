@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2022-01-13T17:23:23.738Z</updated>
+    <updated>2022-01-13T18:15:24.684Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['꼬꼬무' 최초의 한일전과 월드컵.."결과는 패배, 과정은 승리" 투지에 전 세계가 감동]]></title>
+        <id>https://entertain.v.daum.net/v/20220114022701856</id>
+        <link href="https://entertain.v.daum.net/v/20220114022701856"/>
+        <updated>2022-01-13T18:15:19.287Z</updated>
+        <content type="html"><![CDATA[[SBS연예뉴스 | 김효정 에디터] 월드컵 본선 진출, 그 시작은? 13일 방송된 SBS '꼬리에 꼬리를 무는 그날 이야기'(이하 '꼬꼬무')에서는 '1954 출격 - 대한민국의 이름으로'라는 부제로 대한민국 역사상 첫 한일전이 열린 그날의 이야기를 조명했다. 1954년 1월 전쟁이 끝난 지 6개월도 되지 않은 날, 홍덕영 씨는 허름한 여관방에 도착했다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김원희 "♥남편, 코로나로 함께 있는 시간 늘어→참견 많아져"]]></title>
         <id>https://entertain.v.daum.net/v/20220114010008618</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220113234104120"/>
         <updated>2022-01-13T15:12:36.274Z</updated>
         <content type="html"><![CDATA[[스포츠투데이 이소연 기자] '뉴스룸'에 배우 이정재가 출연해 미국배우조합상(SAG) 남우주연상 후보에 오른 소감을 밝혔다. 13일 오후에 방송된 JTBC '뉴스룸'에서는 전 세계 시청자들의 마음을 사로잡은 넷플릭스 오리지널 시리즈 '오징어 게임'의 배우 이정재가 '목요 문화 초대석'을 통해 이야기를 나눴다. 이정재는 12일(현지시간) 제28회 미국배우조합]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['도시어부3' 라이머 "출연료 안 받겠다".. 완도行 합류]]></title>
-        <id>https://entertain.v.daum.net/v/20220113233300040</id>
-        <link href="https://entertain.v.daum.net/v/20220113233300040"/>
-        <updated>2022-01-13T15:12:36.276Z</updated>
-        <content type="html"><![CDATA[라이머가 '도시어부3'팀과 함께 완도로 떠났다. 13일 방송된 채널A 예능프로그램 '나만 믿고 따라와 도시어부3'(이하 '도시어부3')에서는 전남 완도 낚시에 합류한 라이머의 모습이 전파를 탔다. 지난 송어대전에서 3위 안에 들어야 완도행 티켓을 받을 수 있었지만, 유아와 라이머는 각각 4위·5위를 기록해 함께 하지 못 하게 됐다. 이에 라이머는 "]]></content>
     </entry>
 </feed>
