@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2022-01-14T18:15:03.520Z</updated>
+    <updated>2022-01-14T19:10:29.910Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['더솔져스' 찰리팀, 최종 탈락..요한 팀장, "끝까지 열심히 싸운 팀원들 자랑스러워"]]></title>
+        <id>https://entertain.v.daum.net/v/20220115034500213</id>
+        <link href="https://entertain.v.daum.net/v/20220115034500213"/>
+        <updated>2022-01-14T19:10:24.655Z</updated>
+        <content type="html"><![CDATA[[SBS연예뉴스 | 김효정 에디터] 찰리팀과 '더솔져스'에서 최종 탈락했다. 14일 방송된 SBS '더솔져스'에서는 대테러 미션의 결과로 찰리팀이 탈락했다. 이날 방송에서는 대테러 미션 결과가 발표됐다. 브라보. 알파, 델타 순으로 미션에 성공했고 찰리팀은 시간 초과로 미션에 실패해 최종 탈락이 결정됐다. 이에 요한 팀장은 "우리는 끝까지 열심히 싸웠고 나]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['더솔져스' 델타팀, 윌 팀장의 하드 캐리로 '대테러 미션' 성공..찰리팀, '미션 실패'로 탈락]]></title>
         <id>https://entertain.v.daum.net/v/20220115030900174</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220115000103504"/>
         <updated>2022-01-14T15:12:46.862Z</updated>
         <content type="html"><![CDATA['학폭 논란' 김동희, 일부 인정하고 사과 [더팩트｜박지윤 기자] SBS 예능프로그램이 유튜브 콘텐츠와 유사성 논란이 제기됐습니다. 또한 지난해 '학폭' 의혹에 휩싸였던 남자 배우가 일부 인정하고 사과했습니다. 다사다난했던 1월 셋째 주 연예가 소식 전해드립니다. ▼ SBS '미운 우리 새끼', 이말년 작가 유튜브와 유사성 논란 SBS 예능 프로그램 '미]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['새 역사' 쓴 배우 오영수..쥬얼리 김은정→KCM의 결혼]]></title>
-        <id>https://entertain.v.daum.net/v/20220115000028488</id>
-        <link href="https://entertain.v.daum.net/v/20220115000028488"/>
-        <updated>2022-01-14T15:12:46.863Z</updated>
-        <content type="html"><![CDATA[병원비 후원→재능기부...훈훈한 마음 전한 ★들 [더팩트｜박지윤 기자] 전 세계적으로 인기를 얻은 넷플릭스 시리즈에 출연한 배우가 한국인 배우 최초로 미국 골든글로브 남우조연상을 수상했습니다. 그런가 하면 여러 스타들은 기부로 선행을 펼쳤습니다. 또한 걸그룹 출신 작사가와 남자 가수는 각각 결혼 소식을 알려 팬들을 깜짝 놀라게 했습니다. 훈훈한 소식이 가]]></content>
     </entry>
 </feed>
