@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/variety</id>
     <title>다음 연예 ─ 뉴스 ─ 예능</title>
-    <updated>2022-01-14T16:15:12.374Z</updated>
+    <updated>2022-01-14T17:20:45.469Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['無식욕자' 코드쿤스트, "음식 냄새 맡으면 배부르다" .. 전현무 '충격']]></title>
+        <id>https://entertain.v.daum.net/v/20220115013455918</id>
+        <link href="https://entertain.v.daum.net/v/20220115013455918"/>
+        <updated>2022-01-14T17:20:34.397Z</updated>
+        <content type="html"><![CDATA[[OSEN=이예슬 기자] ‘나혼자산다’&nbsp;코드쿤스트가 "음식 냄새를 맡으면 배부르다"고 말해 멤버들을 당황시켰다. 14일 밤&nbsp;11시 10분에 방송된 MBC&nbsp;‘나&nbsp;혼자&nbsp;산다’에서는 작곡가 코드쿤스트가 출연해 일상을 공개했다. 이날 코쿤은 마트에서 달랑 고구마 한 박스를 샀다. "고구마 하나만 사냐"고 놀라는 박나래에 그는 "원래 마트에 가면 딱 살 것만 사]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[기태영, 음식 흘린 ♥유진에 "손빨래해줄게"..꽃다발 선물까지]]></title>
         <id>https://entertain.v.daum.net/v/20220115011007892</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220115000019483"/>
         <updated>2022-01-14T15:12:40.762Z</updated>
         <content type="html"><![CDATA[[마이데일리 = 이승길 기자] 배우 하석진이 자신의 외모에 대한 생각을 말했다. 14일 방송된 TV CHOSUN '식객 허영만의 백반기행'에서는 서울 왕십리에서 대학 시절을 보낸 배우 하석진과 함께 떠나는 맛 기행이 펼쳐졌다. 이날 "연예계 생활을 시작한 걸 보면 자신이 잘생겼다는 걸 알았다는 거 아니냐?"란 허영만의 질문에, 하석진은 난처한 듯 미소를]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[여현수 "이병헌과 번지점프, 5번이나 뛰어내려"]]></title>
-        <id>https://entertain.v.daum.net/v/20220115000005471</id>
-        <link href="https://entertain.v.daum.net/v/20220115000005471"/>
-        <updated>2022-01-14T15:12:40.779Z</updated>
-        <content type="html"><![CDATA[[마이데일리 = 박윤진 기자] 채널 IHQ '은밀한 뉴스룸'이 천의 얼굴을 가진 배우 이병헌의 연기 인생과 그 뒷이야기를 살펴본다. 오는 15일 방송되는 '은밀한 뉴스룸' 21회에서는 '연기의 신'이라 불리는 이병헌의 모든 것을 알아보는 시간을 가진다. 이날 스튜디오에는 이병헌과 특별한 인연이 있는 배우 여현수가 특별 출연한다. 여현수는 이병헌의 인생]]></content>
     </entry>
 </feed>
