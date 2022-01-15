@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-01-15T10:13:00.281Z</updated>
+    <updated>2022-01-15T11:10:08.890Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['신사와 아가씨' 이세희, 친모 생사 숨긴 父 이종원에 '절연 선언']]></title>
+        <id>https://entertain.v.daum.net/v/20220115200725944</id>
+        <link href="https://entertain.v.daum.net/v/20220115200725944"/>
+        <updated>2022-01-15T11:09:51.371Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 이이진 기자) '신사와 아가씨' 이세희가 친모가 살아있다는 것을 알고 이종원에게 분노했다. 15일 방송된 KBS 주말드라마 '신사와 아가씨' 33회에서는 박단단(이세희 분)이 박수철(이종원)에게 절연을 선언한 모습이 그려졌다. 이날 박단단은 박수철에게 "나 낳아준 친엄마 살아있다며. 근데 왜 죽었다고 거짓말했어"라며 추궁했다. 박단단은 "나]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['태종 이방원' 주상욱vs예지원, 극단적으로 치닫는 갈등]]></title>
         <id>https://entertain.v.daum.net/v/20220115181807157</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220115142132831"/>
         <updated>2022-01-15T06:14:04.709Z</updated>
         <content type="html"><![CDATA[[뉴스엔 이민지 기자] ‘쇼윈도:여왕의 집’ 배우들이 명장면을 직접 뽑았다. 채널A 10주년 특별기획 월화드라마 '쇼윈도:여왕의 집'(극본 한보경, 박혜영 / 연출 강솔, 박대희)이 종영까지 단 2회만 남겨두고 있다. 욕망에 집착하는 인간의 심리를 치밀하게 묘사하며, 눈 뗄 틈 없는 재미를 선사한 ‘쇼윈도:여왕의 집’은 지속적인 시청률 상승세를 그려왔다]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['태종 이방원' 예지원, 권력 향한 끝없는 욕망..주상욱과 갈등]]></title>
-        <id>https://entertain.v.daum.net/v/20220115141924808</id>
-        <link href="https://entertain.v.daum.net/v/20220115141924808"/>
-        <updated>2022-01-15T06:14:04.718Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 이민지 기자] 주상욱과 예지원의 갈등이 극단적으로 치닫는다. 1월 15일 방송되는 KBS 1TV 대하드라마 ‘태종 이방원’(극본 이정우/연출 김형일, 심재현) 11회에서는 이방원(주상욱 분)과 강씨(예지원 분)의 대립이 최고조에 달한다. 앞서 이성계(김영철 분)는 강씨의 아들인 이방석(김진성 분)을 세자로 책봉했고, 그 소식을 들은 이방원은 강]]></content>
     </entry>
 </feed>
