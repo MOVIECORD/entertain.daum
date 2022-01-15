@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-01-15T09:12:22.006Z</updated>
+    <updated>2022-01-15T10:13:00.281Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['태종 이방원' 주상욱vs예지원, 극단적으로 치닫는 갈등]]></title>
+        <id>https://entertain.v.daum.net/v/20220115181807157</id>
+        <link href="https://entertain.v.daum.net/v/20220115181807157"/>
+        <updated>2022-01-15T10:12:43.415Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 정지현 기자] 주상욱과 예지원이 극단적으로 치닫는 갈등의 최고 정점을 찍는다. 15일 방송되는 KBS 1TV 대하드라마 '태종 이방원'(극본 이정우 연출 김형일 심재현) 11회에서는 이방원(주상욱)과 강씨(예지원)의 대립이 최고조에 달한다고 해 오늘 방송이 더욱 기다려진다. 앞서 이성계(김영철)는 강씨의 아들인 이방석(김진성)을 세자로 책]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['태종 이방원' 예지원, 권력 향한 끝없는 욕망..주상욱과 갈등 최고조]]></title>
         <id>https://entertain.v.daum.net/v/20220115181128095</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220115141924808"/>
         <updated>2022-01-15T06:14:04.718Z</updated>
         <content type="html"><![CDATA[[뉴스엔 이민지 기자] 주상욱과 예지원의 갈등이 극단적으로 치닫는다. 1월 15일 방송되는 KBS 1TV 대하드라마 ‘태종 이방원’(극본 이정우/연출 김형일, 심재현) 11회에서는 이방원(주상욱 분)과 강씨(예지원 분)의 대립이 최고조에 달한다. 앞서 이성계(김영철 분)는 강씨의 아들인 이방석(김진성 분)을 세자로 책봉했고, 그 소식을 들은 이방원은 강]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['트레이서' 달라진 임시완 수상한 움직임, 관계 변화 예고]]></title>
-        <id>https://entertain.v.daum.net/v/20220115140705717</id>
-        <link href="https://entertain.v.daum.net/v/20220115140705717"/>
-        <updated>2022-01-15T05:12:54.992Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 이민지 기자] 임시완의 수상한 움직임이 주위를 긴장시킨다. 1월 15일 방송되는 MBC 금토드라마 ‘트레이서’(극본 김현정 / 연출 이승영) 4회에서는 중앙지방국세청장 인태준(손현주 분)의 신뢰를 얻기 위해 고군분투하는 황동주(임시완 분), 그의 정체를 끊임없이 의심하고 경계하는 조세 5국 과장 오영(박용우 분)의 엇갈린 관계가 그려진다. 4]]></content>
     </entry>
 </feed>
