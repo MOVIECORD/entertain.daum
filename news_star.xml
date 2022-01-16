@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2022-01-16T06:14:33.081Z</updated>
+    <updated>2022-01-16T07:11:54.233Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2022 '결혼' 기대되는 스타커플]]></title>
+        <id>https://entertain.v.daum.net/v/20220116152224819</id>
+        <link href="https://entertain.v.daum.net/v/20220116152224819"/>
+        <updated>2022-01-16T07:11:49.173Z</updated>
+        <content type="html"><![CDATA[[OSEN=최나영 기자] "올해 결혼할 수 있지 않을까" 팬들과 대중의 연애 세포를 자극하는 스타 커플들. 올해 특별히 '결혼'이 기대되는 스타커플들을 짚어봤다. 비교적 오랜동안 팬들의 따뜻한 관심 속에 교제하고 있는 이들이기에 사랑의 결실에 대한 응원의 목소리가 크다.&nbsp; - 빈지노♥︎스테파니 미초바 뮤지션 빈지노와 모델 스테파니 미초바 커플은 구체적으]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[오영수, 美골든글로브 조연상→KCM 결혼..연예계 겹경사]]></title>
         <id>https://entertain.v.daum.net/v/20220116145209365</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220116130001762"/>
         <updated>2022-01-16T04:15:08.709Z</updated>
         <content type="html"><![CDATA[[스타뉴스 안윤지 기자] 배우 전여빈이 2일 오후 서울 강서구 KBS아레나에서 진행된 '2021 Asia Artist Awards(2021 아시아 아티스트 어워즈, 2021 AAA)' 시상식에서 AAA 베스트 아티스트상 배우부문을 수상하고 포즈를 취하고 있다.  스타뉴스가 주최하고 AAA 조직위원회가 주관하는 AAA는 어디에서도 보지 못했던 새로운 무대를]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[송지아, '솔로지옥' 비하인드 방출 "부모님은 시훈 픽"]]></title>
-        <id>https://entertain.v.daum.net/v/20220116125225715</id>
-        <link href="https://entertain.v.daum.net/v/20220116125225715"/>
-        <updated>2022-01-16T04:15:08.709Z</updated>
-        <content type="html"><![CDATA[[스포츠경향] ‘솔로지옥’에 출연해 스타로 떠오른 유튜버 프리지아(송지아)가 촬영 뒷 얘기를 공개했다. 15일 송지아 유튜브 채널에는 ‘솔로지옥 QnA 제일 많이 한 질문 답하기 ft. 집에 가기 싫겠다’라는 제목의 영상이 게재됐다. 영상에서 프리지아는 팬들의 질문에 직접 답하며 “알았어 챙겨줄게” “오빠?” “집에 가기 싫겠다”등 ‘연애 고수’ 별]]></content>
     </entry>
 </feed>
