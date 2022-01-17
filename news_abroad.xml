@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2022-01-17T00:41:41.330Z</updated>
+    <updated>2022-01-17T02:04:51.481Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[美래퍼, 또 총 맞고 사망..3개월 연속 이어진 비극]]></title>
+        <id>https://entertain.v.daum.net/v/20220117095516506</id>
+        <link href="https://entertain.v.daum.net/v/20220117095516506"/>
+        <updated>2022-01-17T02:04:50.792Z</updated>
+        <content type="html"><![CDATA[[티브이데일리 김종은 기자] 또 다른 미국 래퍼가 총에 맞아 사망했다. 더 선은 15일(현지시간) "래퍼 웨이비 네이비 푸우(본명 쉔들러 부비엔)가 이날 미국 마이애미에서 운전 중에 총을 맞고 사망했다"고 밝혔다. 경찰 측의 발표에 따르면 당시 차 안에는 1살, 5살 아이 두 명과 한 여성이 동승해 있었다고. 다행히 이들은 부상을 당하지 않은 것으로 전해]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[셀린 디온, 건강 이상..심각한 '근육 경련'→북미 투어 최소]]></title>
         <id>https://entertain.v.daum.net/v/20220117093858885</id>
@@ -60,26 +67,5 @@
         <link href="https://entertain.v.daum.net/v/20220116114603858"/>
         <updated>2022-01-16T03:14:51.140Z</updated>
         <content type="html"><![CDATA[[OSEN=최나영 기자] 할리우드 배우 브라이언 오스틴 그린이 전처인 배우 메건 폭스와 록스타 머신 건 켈리와의 약혼에 대해 미온적인 반응을 보였다. 그린의 한 측근은 최근&nbsp;E!뉴스 프라이데이와의 인터뷰에서 "그린은 전처 폭스가&nbsp;약혼을 한 것에 대해 놀라지 않았다. 약혼할 것이란 사실을 알았다"라고 말했다. 그러면서&nbsp;"그는 그의 아이들에게 집중하고 있고]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[카니예 웨스트, 피트 데이비슨 저격 가사로 화제]]></title>
-        <id>https://entertain.v.daum.net/v/20220116104704996</id>
-        <link href="https://entertain.v.daum.net/v/20220116104704996"/>
-        <updated>2022-01-16T02:07:22.343Z</updated>
-        <content type="html"><![CDATA[카니예 웨스트가 전 아내 킴 카다시안의 새 남자친구를 노래로 저격했다. 15일(현지시각) 외신은 "카니예 웨스트는 킴 카다시안을 되찾기 위해 근처에 집을 사는 등 노력을 기울였다. 하지만 지금은 각자의 연인을 만나고 있는 상황이다. 그럼에도 카니예 웨스트는 킴 카다시안의 새 남자친구 피트 데이비슨에 대한 감정이 좋지 못하다"고 했다. 카니예 웨스트는]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[조영남 "전처 윤여정에 '최고의 복수' 발언 후 악플에 시달려..전시회도 취소돼"]]></title>
-        <id>https://entertain.v.daum.net/v/20220116102459596</id>
-        <link href="https://entertain.v.daum.net/v/20220116102459596"/>
-        <updated>2022-01-16T02:07:22.347Z</updated>
-        <content type="html"><![CDATA[[스포츠조선닷컴 박아람 기자] 가수 겸 화가 조영남이 전처인 배우 윤여정에 대한 발언으로 논란이 됐던 일화를 털어놓는다. 16일 첫 방송되는 MBN '신과 한판'에서는 조영남이 첫 게스트로 출연해 그동안 알려지지 않았던 비화를 공개한다. '대작 논란' '가짜 결혼식' '2009년 조영남 사망' '최고의 복수' 등 그를 둘러싼 수많은 논란 속]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["조니뎁 과대평가 됐다, 스타파워 약해져"..원로배우 일침]]></title>
-        <id>https://entertain.v.daum.net/v/20220116094806021</id>
-        <link href="https://entertain.v.daum.net/v/20220116094806021"/>
-        <updated>2022-01-16T02:07:22.350Z</updated>
-        <content type="html"><![CDATA[[OSEN=최나영 기자] 영국 출신&nbsp;원로 배우 브라이언 콕스(75)가&nbsp;조니 뎁을 두고 "너무 과장되고 과대평가됐다"라고 평했다. 브라이언 콕스는 자신의 새 회고록에서 '캐리비안의 해적'의 스타인 조니 뎁을 포함해 몇몇 유명인사들을 언급하면서 비판을 주저하지 않았다고 페이지식스가 15일(현지시간) 전했다. 보도에 따르면 콕스는 회고록을 통해 영화 '캐리비]]></content>
     </entry>
 </feed>
