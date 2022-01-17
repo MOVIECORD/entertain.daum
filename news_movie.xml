@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2022-01-17T20:13:24.989Z</updated>
+    <updated>2022-01-17T21:11:12.028Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[넷플릭스 '지옥' 로튼 토마토 선정 2021 최고 호러 시리즈 등극]]></title>
+        <id>https://entertain.v.daum.net/v/20220118054149376</id>
+        <link href="https://entertain.v.daum.net/v/20220118054149376"/>
+        <updated>2022-01-17T21:10:50.025Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 배효주 기자] '지옥'이 로튼 토마토가 선정한 2021년 최고의 호러 시리즈에 이름을 올렸다. 넷플릭스 시리즈 '지옥'은 예고 없이 등장한 지옥의 사자들에게 사람들이 지옥행 선고를 받는 초자연적인 현상이 발생하고, 이 혼란을 틈타 부흥한 종교단체 새진리회와 사건의 실체를 밝히려는 이들이 얽히면서 벌어지는 이야기를 그린 작품이다. 세계적인 영화 평]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['특송' 한국영화 1위 계속..25만↑ 훌쩍]]></title>
         <id>https://entertain.v.daum.net/v/20220118050905208</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220117144635157"/>
         <updated>2022-01-17T06:15:11.670Z</updated>
         <content type="html"><![CDATA[(사진=넷플릭스)[이데일리 스타in 김보영 기자] 넷플릭스 영화 ‘모럴센스’가 2월 11일 전세계 공개를 확정 짓고 티저 포스터 및 캐릭터 포스터, 티저 예고편을 공개했다. ‘모럴센스’는 모든 게 완벽하지만 남다른 성적 취향을 가진 지후(이준영 분)와 그의 비밀을 알게 된 유능한 홍보팀 사원 지우(서현 분)의 아찔한 취향존중 로맨스를 그린 영화다. 공개]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[흥행 깃발 꽂은 '해적:도깨비 깃발']]></title>
-        <id>https://entertain.v.daum.net/v/20220117143700854</id>
-        <link href="https://entertain.v.daum.net/v/20220117143700854"/>
-        <updated>2022-01-17T06:15:11.676Z</updated>
-        <content type="html"><![CDATA[[TV리포트=전동선 기자] 흥미진진한 전개와 유쾌한 재미, 압도적인 볼거리로 뜨거운 호평을 불러일으키고 있는 영화 '해적: 도깨비 깃발'이 예매율 1위를 기록하며 흥행몰이를 예고하고 있다. 특히 개봉 9일 전인 17일 전체 예매율 1위에 등극하며 강력한 흥행세를 예감케 하고 있다. 한국 오락 블록버스터의 한 획을 그었던 ‘해적’의 귀환 '해적: 도깨비 깃]]></content>
     </entry>
 </feed>
