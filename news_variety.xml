@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/variety</id>
     <title>다음 연예 ─ 뉴스 ─ 예능</title>
-    <updated>2022-01-17T16:18:17.659Z</updated>
+    <updated>2022-01-17T17:22:34.109Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["미니 태리 탄생" 이지혜♥문재완, 둘째딸 최초공개→안창환♥장희정 新'동상2' 부부 합류]]></title>
+        <id>https://entertain.v.daum.net/v/20220118012325059</id>
+        <link href="https://entertain.v.daum.net/v/20220118012325059"/>
+        <updated>2022-01-17T17:22:22.558Z</updated>
+        <content type="html"><![CDATA[[OSEN=김수형 기자] ‘동상이몽2’에서&nbsp;안창환과 장희정 부부가 새로운 운명커플로 등장, 이지혜와 문재완의 둘째 딸도 최초 공개됐다. 17일 방송된 SBS 예능 ‘동상이몽 시즌2-너는 내 운명’에서 다양한 에필로그가 그려졌다. 이날 6호 배우 부부로&nbsp;안창환과 장희정 부부가 새로운 ‘운명커플’로 합류했다. 변신의 귀재로 명품 연기를 보여줬던 그는 수줍은]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이지혜♥문재완, 3.8kg 둘째 딸 최초 공개]]></title>
         <id>https://entertain.v.daum.net/v/20220118011004010</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220117235608605"/>
         <updated>2022-01-17T15:12:26.880Z</updated>
         <content type="html"><![CDATA[[OSEN=김수형 기자] ‘줄 서는 식당’이 첫방송이 그려진 가운데, 입짧은 햇님이 여전한 먹방을 보이며 활약했다.&nbsp; 17일 방송된 tvN 예능 ‘줄서는 식당’이 첫방송됐다. 이날 ‘줄서는 식당’이 첫방송된 가운데 미식검증단이 모였다. 먼저 박나래부터, 입짧은 햇님이 등장, 박나래가 “맛있는 음식 맛있게 먹어보자”고 하자 입짧은 햇님은 “난 한 가지 음]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['동상2' 안창환, 아내 트레이닝에 몸짱 "자격증만 2개"]]></title>
-        <id>https://entertain.v.daum.net/v/20220117235552603</id>
-        <link href="https://entertain.v.daum.net/v/20220117235552603"/>
-        <updated>2022-01-17T15:12:26.882Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 이시연 기자] /사진= SBS '동상이몽2' 방송 화면'동상이몽 2 - 너는 내 운명'에서 배우 안창환이 아내의 트레이닝에 드라마 속 배역에 맞는 몸짱이 됐다고 밝혔다. 17일 오후 방송된 SBS 예능프로그램 '동상이몽 2 - 너는 내 운명'에서 배우 안창환, 장희정 부부가 게스트로 출연했다. 이날 장희정은 "여보 이번에 몸 만들어야 되잖아]]></content>
     </entry>
 </feed>
