@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2022-01-18T11:11:01.764Z</updated>
+    <updated>2022-01-18T12:19:47.560Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[설경구 "'불한당' 신뢰로 선택한 '킹메이커', 처음엔 하기 싫었죠"]]></title>
+        <id>https://entertain.v.daum.net/v/20220118211201753</id>
+        <link href="https://entertain.v.daum.net/v/20220118211201753"/>
+        <updated>2022-01-18T12:19:27.829Z</updated>
+        <content type="html"><![CDATA[[텐아시아=노규민 기자] "'자산어보'의 정약전은 실존 인물이지만 많이 알려지지 않았습니다. 시나리오에 쓰여진대로, 이준익 감독과 소통하며 잘 만들어내면 그게 정약전이 될꺼라고 생각했죠. 그런데 이번엔 달랐습니다. '킹메이커'의 김운범은 고(故) 김대중 전 대통령을 모티브로 삼았습니다. 너무나 잘 알려진 분이어서 출연 제의를 받았을때부터 부담이 컸습니다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[술 취하니 삶이 술술?.. 인생이 그리 간단할 리가]]></title>
         <id>https://entertain.v.daum.net/v/20220118200027570</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220118163703107"/>
         <updated>2022-01-18T08:15:08.412Z</updated>
         <content type="html"><![CDATA[[스포츠투데이 최혜진 기자] '듄' 다시 한번 관객들과 만난다. 2월 9일 영화 '듄'이 CGV 아이맥스(IMAX) 전국 17개 지점에서 재개봉한다. '듄'은 우주에서 가장 귀한 자원의 생산지 아라키스 모래행성 '듄'을 두고 벌이는 거대한 전쟁과 전설의 메시아 폴의 위대한 여정을 그린 작품이다. 인증 디지털 Arri LF 카메라로 첫 촬영된 '듄'은 일반]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[설경구 "故김대중 대통령 연기 부담..이름 바꾸자고까지"]]></title>
-        <id>https://entertain.v.daum.net/v/20220118163004883</id>
-        <link href="https://entertain.v.daum.net/v/20220118163004883"/>
-        <updated>2022-01-18T08:15:08.414Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 김유진 기자) 배우 설경구가 '킹메이커'와 함께 했던 시간들을 떠올렸다. 설경구는 18일 오후 온라인으로 진행된 영화 '킹메이커'(감독 변성현) 인터뷰에서 다양한 이야기를 전했다. '킹메이커'는 세상에 도전하는 정치인 김운범(설경구 분)과 존재도 이름도 숨겨진 선거 전략가 서창대(이선균)가 치열한 선거판에 뛰어들며 시작되는 드라마를 그린]]></content>
     </entry>
 </feed>
