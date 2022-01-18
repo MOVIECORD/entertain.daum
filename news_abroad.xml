@@ -2,11 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2022-01-18T00:43:42.314Z</updated>
+    <updated>2022-01-18T02:05:31.463Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA['금수저' 슈퍼모델, 오열셀카 올린 이유 "정신∙육체적 고통 극심"]]></title>
+        <title type="html"><![CDATA[조스 웨던 "사이보그 분량? 연기 못해서..갤 가돗, 영어 몰라 오해"]]></title>
+        <id>https://entertain.v.daum.net/v/20220118110015262</id>
+        <link href="https://entertain.v.daum.net/v/20220118110015262"/>
+        <updated>2022-01-18T02:05:30.745Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 이창규 기자) 잭 스나이더 감독의 대타로 '저스티스 리그'를 연출했던 조스 웨던 감독이 그간 이어진 출연진들의 폭로에 대해 반박했다. 17일(현지시간) 조스 웨던은 뉴욕 매거진과의 인터뷰에서 레이 피셔와 갤 가돗을 비롯해 '버피 더 뱀파이어 슬레이어' 출연진들의 각종 폭로에 대해 해명했다. '저스티스 리그'에서 사이보그 역을 맡았던 레이]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['금수저' 슈퍼모델 벨라 하디드, 오열셀카 올린 이유 "정신∙육체적 고통 극심"]]></title>
         <id>https://entertain.v.daum.net/v/20220118092308095</id>
         <link href="https://entertain.v.daum.net/v/20220118092308095"/>
         <updated>2022-01-18T00:43:41.603Z</updated>
@@ -74,12 +81,5 @@
         <link href="https://entertain.v.daum.net/v/20220117121232148"/>
         <updated>2022-01-17T03:14:50.598Z</updated>
         <content type="html"><![CDATA[[OSEN=최나영 기자] 미국 리얼리티 프로그램 '16 그리고 임신(16 and Pregnant)'의 스타&nbsp;조던 캐시마이어(Jordan Cashmyer)가 26세의 나이로 숨진 채 발견됐다고 데일리메일, 버라이어티 등 외신이 16일(현지시간) 전했다. 보도에 따르면&nbsp;조던 캐시마이어는 국 메릴랜드주에서 숨을 거뒀고 그의 사망은 현 약혼자 마이클 프랭크 쉐]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美래퍼, 또 총 맞고 사망..3개월 연속 이어진 비극]]></title>
-        <id>https://entertain.v.daum.net/v/20220117095516506</id>
-        <link href="https://entertain.v.daum.net/v/20220117095516506"/>
-        <updated>2022-01-17T02:04:50.792Z</updated>
-        <content type="html"><![CDATA[[티브이데일리 김종은 기자] 또 다른 미국 래퍼가 총에 맞아 사망했다. 더 선은 15일(현지시간) "래퍼 웨이비 네이비 푸우(본명 쉔들러 부비엔)가 이날 미국 마이애미에서 운전 중에 총을 맞고 사망했다"고 밝혔다. 경찰 측의 발표에 따르면 당시 차 안에는 1살, 5살 아이 두 명과 한 여성이 동승해 있었다고. 다행히 이들은 부상을 당하지 않은 것으로 전해]]></content>
     </entry>
 </feed>
