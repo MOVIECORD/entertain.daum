@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2022-01-18T22:17:56.861Z</updated>
+    <updated>2022-01-18T23:10:33.792Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[제나, 걷지도 못하는 미스터리 병 앓아.."길랭바레 증후군 아니었다"]]></title>
+        <id>https://entertain.v.daum.net/v/20220119075543110</id>
+        <link href="https://entertain.v.daum.net/v/20220119075543110"/>
+        <updated>2022-01-18T23:10:33.066Z</updated>
+        <content type="html"><![CDATA[[OSEN=최나영 기자] 미국&nbsp;성인업계 슈퍼스타로 불리는&nbsp;배우 제나 제임슨이 갑자기 걷지 못하는 병에 걸린 가운데 당초 알려진 '길랭-바레증후군(Guillain-Barré syndrome)'을 앓고 있지 않는 것으로 알려졌다. 페이지식스의 28일(현지시간) 보도에 따르면 제나 제임슨은 현재 병원에 입원해 있는 가운데 그의 상태를 살펴 본 의사들은 병의]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["8살때부터 12살 연상 사랑했지만, 이혼하자마자 결혼반지 빼" 아쿠아맨의 현실]]></title>
         <id>https://entertain.v.daum.net/v/20220119062906873</id>
@@ -60,12 +67,5 @@
         <link href="https://entertain.v.daum.net/v/20220118085851299"/>
         <updated>2022-01-18T00:43:41.604Z</updated>
         <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]‘반지의 제왕’ 올랜도 블룸(45)이 치실을 쓰고 쓰레기통이 아니라 집안 아무데나 버린다는 사실이 알려졌다. 그의 부인 케이티 페리(37)는 17일(현지시간) 영국 ‘제이미 테크스톤과 아만다 홀든의 하트 조식’에 출연해 “남편이 치실을 좋아한다. 신에게 감사하다”고 운을 뗐다. 이어 “그는 빛나는 치아를 가지고 있지만, 치]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[10대 임신 리얼리티 스타 사망 "겨우 26살, 끔찍한 비극"]]></title>
-        <id>https://entertain.v.daum.net/v/20220118075024871</id>
-        <link href="https://entertain.v.daum.net/v/20220118075024871"/>
-        <updated>2022-01-17T23:12:12.356Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 이민지 기자] 미국 리얼리티 프로그램 스타가 사망했다. 피플은 1월 16일(현지시간) "'16 그리고 임신(16 and Pregnant)' 조던 캐시마이어가 26세 나이로 사망했다"고 보도했다. 조던 캐시마이어 어머니는 SNS를 통해 딸의 사망 소식을 알렸다. 어머니는 "어젯밤 원치 않는 전화를 받았다. 내 사랑하는 딸 조던이 사망했다. 겨우]]></content>
     </entry>
 </feed>
