@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/variety</id>
     <title>다음 연예 ─ 뉴스 ─ 예능</title>
-    <updated>2022-01-18T10:13:27.533Z</updated>
+    <updated>2022-01-18T11:11:01.770Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["개가 사람 시체 먹기도"..'모가디슈' 영화보다 끔찍한 현실]]></title>
+        <id>https://entertain.v.daum.net/v/20220118195305462</id>
+        <link href="https://entertain.v.daum.net/v/20220118195305462"/>
+        <updated>2022-01-18T11:10:51.722Z</updated>
+        <content type="html"><![CDATA[[OSEN=박소영 기자] ‘벌거벗은 세계사’에서 영화 ‘모가디슈’의 배경인 소말리아로 떠나 영화보다 더 영화 같았던 소말리아의 참상을 벌거벗긴다. tvN&nbsp;‘벌거벗은 세계사’(연출 김형오,&nbsp;이윤호)는 전 세계 곳곳을 언택트로 둘러보며 각 나라의 명소를 살펴보고,&nbsp;다양한 관점에서 우리가 몰랐던 세계의 역사를 파헤치는 프로그램.&nbsp;오늘(18일)&nbsp;저녁&nbsp;8시&nbsp;50]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이원승, 정통 나폴리 피자로 성공한 사연은?]]></title>
         <id>https://entertain.v.daum.net/v/20220118191201611</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220118174304493"/>
         <updated>2022-01-18T09:12:51.219Z</updated>
         <content type="html"><![CDATA[[뉴스엔 박정민 기자] 배우 김영옥 매운맛 토크에 현장이 초토화됐다. 채널S의 2022년 첫 오리지널이자 신규 예능 프로그램인 고민상담 매운맛 토크쇼 ‘진격의 할매’가 오는 1월 25일 화요일 밤 8시 50분 첫 방송을 앞두고 국민할매 트리오의 마라맛 토크를 엿볼 수 있는 티저 영상을 공개했다. 17일에 공개된 ‘진격의 할매’ 티저 영상은 국민할매 트리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["아이 생기면 운동시킬 것"..근수저 김민경, 이유 있는 자녀 계획]]></title>
-        <id>https://entertain.v.daum.net/v/20220118173039933</id>
-        <link href="https://entertain.v.daum.net/v/20220118173039933"/>
-        <updated>2022-01-18T09:12:51.234Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 박정민 기자] 개그우먼 김민경이 2세에게 운동을 시킬 것이라고 밝혔다. 1월 17일 방송된 채널A ‘슈퍼 DNA 피는 못 속여’에서 김민경은 김병현, 이동국, 이형택, 박찬민과 함께 스포츠 2세들의 운동 훈련과 일상생활을 살펴보며 아이들의 속마음에 귀를 기울였다. 이날 방송에서 박찬민 아나운서의 딸이자 사격 선수로 활약 중인 박민하의 멋진 모습]]></content>
     </entry>
 </feed>
