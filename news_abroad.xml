@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2022-01-18T07:12:59.390Z</updated>
+    <updated>2022-01-18T08:15:29.944Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[올랜도 블룸, 전처와 현처의 폭로 "짜증나는 오빠"→"치실쓰고 아무데나"]]></title>
+        <id>https://entertain.v.daum.net/v/20220118161701418</id>
+        <link href="https://entertain.v.daum.net/v/20220118161701418"/>
+        <updated>2022-01-18T08:15:29.283Z</updated>
+        <content type="html"><![CDATA[[OSEN=최나영 기자] 할리우드 배우 올랜도 블룸에 대한 '폭로(?)가 나왔다. 블룸의 아내인 팝스타 케이티 페리가 남편의 마음에 안 드는 습관에 대해 밝힌 것. 페리는 지난 17일(현지시간) 영국 ’제이미 테크스톤과 아만다 홀든의&nbsp;하트 조식‘에 출연해 "남편이 치실을 좋아한다. 신에게 감사한다"라고 언급했다. 이어 그는 "그는 빛나는 치아를 가지고]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['블랙팬서2' 촬영 재개, 여배우 백신 거부는 사실 무근]]></title>
         <id>https://entertain.v.daum.net/v/20220118160435981</id>
@@ -74,19 +81,5 @@
         <link href="https://entertain.v.daum.net/v/20220117174616708"/>
         <updated>2022-01-17T09:13:14.553Z</updated>
         <content type="html"><![CDATA[[OSEN=최나영 기자] 약혼남 의상은 따로 있다? 가수 머신 건 켈리와 트래비스 바커의 공통점은? 바로 줄무늬 옷이다.&nbsp; 최근 머신 건 켈리가 연인인 배우 메건 폭스에게 청혼했을 때 그는 블랙 앤 화이트 스트라이프 터틀넥 의상을&nbsp;입었다. 이는 트래비스 바커가 지난 해 10월 모델 코트니 카다시안과 약혼했을 때 입었던 줄무늬 셔츠와 매우 흡사했다. 바지]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['美코미디언' 밥 사겟, 영면에 들다]]></title>
-        <id>https://entertain.v.daum.net/v/20220117165532661</id>
-        <link href="https://entertain.v.daum.net/v/20220117165532661"/>
-        <updated>2022-01-17T08:15:41.376Z</updated>
-        <content type="html"><![CDATA[[티브이데일리 김종은 기자] 미국의 유명 코미디언 밥 사겟이 영면에 들었다. 미국 연예매체 피플에 따르면 밥 사겟의 장례식은 14일(현지시간) 로스앤젤레스에서 비공개 형식으로 진행됐다. 이날 장례식에는 밥 사겟의 가족을 비롯해 배우 존 스타모스, 캔디스 카메론 부레, 메리 케이트, 애슐리 올슨, 데이브 쿠리어, 로리 로우린과 모시모 지아눌리가 참석했다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[여자 모델이 경비원 때린 혐의로 체포]]></title>
-        <id>https://entertain.v.daum.net/v/20220117164311119</id>
-        <link href="https://entertain.v.daum.net/v/20220117164311119"/>
-        <updated>2022-01-17T08:15:41.381Z</updated>
-        <content type="html"><![CDATA[[OSEN=최나영 기자] 미국 모델이자&nbsp;미국&nbsp;MTV 리얼리티쇼 '틴 맘(Teen Mom)'으로 유명한 파라 에이브러햄(Farrah Abraham)이 클럽 경비원을 때린 혐의로 체포됐다. TMZ의 16일(현지시간) 보도에 따르면 에이브러햄은 최근 미국&nbsp;LA의 한 나이트클럽에서 경비원을 때린 혐의로&nbsp;카운티 교도소에 수감되었다가 석방됐다. 공판기일은 5월 1]]></content>
     </entry>
 </feed>
