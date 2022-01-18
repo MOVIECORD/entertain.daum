@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/variety</id>
     <title>다음 연예 ─ 뉴스 ─ 예능</title>
-    <updated>2022-01-18T03:14:25.177Z</updated>
+    <updated>2022-01-18T04:15:47.843Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['라스' 정영주, 인생 최대 위기 회상 "성대 파열로 목소리 잃을 뻔"]]></title>
+        <id>https://entertain.v.daum.net/v/20220118130813391</id>
+        <link href="https://entertain.v.daum.net/v/20220118130813391"/>
+        <updated>2022-01-18T04:15:35.709Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 김명미 기자] 29년 차 뮤지컬 스타 정영주가 ‘라디오스타’에서 필살기 ‘싸다구 액션(?)’으로 여자 마동석에 등극, 액션 배우로 탈바꿈을 예고한다. 1월 19일 오후 10시 30분 방송 예정인 고품격 토크쇼 MBC ‘라디오스타’(기획 강영선/ 연출 강성아)는 정영주, 이정현, 조나단, 가비와 함께하는 ‘우린 월드 스타일’ 특집으로 꾸며진다. 정]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[황의조 된 이현이→거미손 아이린..'골때녀' FC구척장신 확 달라졌다]]></title>
         <id>https://entertain.v.daum.net/v/20220118121232498</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220118110547672"/>
         <updated>2022-01-18T03:14:14.289Z</updated>
         <content type="html"><![CDATA[[뉴스엔 황혜진 기자] SBS ‘골(Goal) 때리는 그녀들’(이하 '골때녀')에서 FC구척장신과 FC아나콘다의 박진감 넘치는 경기가 펼쳐진다. 1월 18일 '골때녀' 제작진에 따르면 이번 경기는 1라운드 이후 리그 신흥 최강자로 올라선 ‘FC구척장신’과 첫 골 맛을 보며 무득점 설욕에 성공한 ‘FC아나콘다’ 만남이 성사됐다. ‘FC구척장신’은 지난 ‘F]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['맘마미안' 고은아 母, 금 액세서리 자랑 "삼남매가 해준 것"]]></title>
-        <id>https://entertain.v.daum.net/v/20220118110401568</id>
-        <link href="https://entertain.v.daum.net/v/20220118110401568"/>
-        <updated>2022-01-18T02:05:21.328Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 이민지 기자] 고은아 엄마가 럭셔리 패션을 자랑했다. 1월 18일 방송되는 MBC에브리원 ‘맘마미안’에는 반전 매력의 소유자 배우 고은아가 출연한다. 스크린 속에서의 모습과 달리 호탕하고 털털한 성격으로 화제를 모았던 고은아와 어머니가 유쾌한 이야기, 풍성한 밥상을 공개한다. 고은아 가족은 고은아의 동생 미르가 운영하는 가족 유튜브 채널 ‘방]]></content>
     </entry>
 </feed>
