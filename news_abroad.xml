@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2022-01-19T01:52:22.265Z</updated>
+    <updated>2022-01-19T02:24:04.605Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['엔칸토' OST, 빌보드 핫 100 4위 역주행..'Let It Go' 넘었다]]></title>
+        <id>https://entertain.v.daum.net/v/20220119110326447</id>
+        <link href="https://entertain.v.daum.net/v/20220119110326447"/>
+        <updated>2022-01-19T02:24:03.925Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 이창규 기자) 디즈니 애니메이션 '엔칸토: 마법의 세계'의 OST가 빌보드 싱글 차트에서 역주행에 성공했다. 18일(현지시간) '엔칸토'의 OST인 'We Don't Talk About Bruno'는 싱글차트인 빌보드 핫 100(Billboard HOT 100)에서 4위에 올랐다. 이는 '겨울왕국'의 OST인 'Let It Go'가 세운]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['아카데미 최고령자' 시드니 포이티어, 사인 밝혀졌다]]></title>
         <id>https://entertain.v.daum.net/v/20220119091558350</id>
@@ -53,12 +60,5 @@
         <link href="https://entertain.v.daum.net/v/20220118145548036"/>
         <updated>2022-01-18T06:13:41.259Z</updated>
         <content type="html"><![CDATA[[뉴스엔 배효주 기자] 케이티 페리가 올랜도 블룸의 '최악의 습관'을 폭로했다. 팝스타 케이티 페리는 최근 영국 한 프로그램에 출연해 약혼자인 할리우드 배우 올랜도 블룸의 건치 비결을 '치실'이라고 밝히며 "그가 치실질을 좋아하는 걸 신에게 감사한다"고 말했다. 그러나 뒤이어 "그는 빛나는 치아를 가지고 있지만, 치실을 아무데나 둔다"며 "침대 옆, 차,]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[조스 웨던 "사이보그 분량? 연기 못해서..갤 가돗, 영어 몰라 오해"]]></title>
-        <id>https://entertain.v.daum.net/v/20220118110015262</id>
-        <link href="https://entertain.v.daum.net/v/20220118110015262"/>
-        <updated>2022-01-18T02:05:30.745Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 이창규 기자) 잭 스나이더 감독의 대타로 '저스티스 리그'를 연출했던 조스 웨던 감독이 그간 이어진 출연진들의 폭로에 대해 반박했다. 17일(현지시간) 조스 웨던은 뉴욕 매거진과의 인터뷰에서 레이 피셔와 갤 가돗을 비롯해 '버피 더 뱀파이어 슬레이어' 출연진들의 각종 폭로에 대해 해명했다. '저스티스 리그'에서 사이보그 역을 맡았던 레이]]></content>
     </entry>
 </feed>
