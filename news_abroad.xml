@@ -2,11 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2022-01-18T23:10:33.792Z</updated>
+    <updated>2022-01-19T00:37:34.181Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[제나, 걷지도 못하는 미스터리 병 앓아.."길랭바레 증후군 아니었다"]]></title>
+        <title type="html"><![CDATA['아카데미 최고령자' 시드니 포이티어, 사인 밝혀졌다]]></title>
+        <id>https://entertain.v.daum.net/v/20220119091558350</id>
+        <link href="https://entertain.v.daum.net/v/20220119091558350"/>
+        <updated>2022-01-19T00:37:33.536Z</updated>
+        <content type="html"><![CDATA[[OSEN=김보라 기자]&nbsp;배우 시드니 포이티어가 이달 사망한 가운데 사인이 공개돼 이목을 끌고 있다. 지난 6일(현지 시간) 시드니 포이티어가 미국 텍사스주 비벌리 힐스에 있는 자택에서 95세의 나이로 세상을 떠난 가운데, 18일 사망 증명서가 공개됐다. 사망 증명서에 따르면 시드니 포이티어는 심부전으로 사망했으며, 수년 동안 알츠하이머 치매 및 전립선]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[배우 제나, 걷지도 못하는 미스터리 병 앓아.."길랭바레 증후군 아니었다"]]></title>
         <id>https://entertain.v.daum.net/v/20220119075543110</id>
         <link href="https://entertain.v.daum.net/v/20220119075543110"/>
         <updated>2022-01-18T23:10:33.066Z</updated>
@@ -53,19 +60,5 @@
         <link href="https://entertain.v.daum.net/v/20220118110015262"/>
         <updated>2022-01-18T02:05:30.745Z</updated>
         <content type="html"><![CDATA[(엑스포츠뉴스 이창규 기자) 잭 스나이더 감독의 대타로 '저스티스 리그'를 연출했던 조스 웨던 감독이 그간 이어진 출연진들의 폭로에 대해 반박했다. 17일(현지시간) 조스 웨던은 뉴욕 매거진과의 인터뷰에서 레이 피셔와 갤 가돗을 비롯해 '버피 더 뱀파이어 슬레이어' 출연진들의 각종 폭로에 대해 해명했다. '저스티스 리그'에서 사이보그 역을 맡았던 레이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['금수저' 슈퍼모델 벨라 하디드, 오열셀카 올린 이유 "정신∙육체적 고통 극심"]]></title>
-        <id>https://entertain.v.daum.net/v/20220118092308095</id>
-        <link href="https://entertain.v.daum.net/v/20220118092308095"/>
-        <updated>2022-01-18T00:43:41.603Z</updated>
-        <content type="html"><![CDATA[[OSEN=최나영 기자] '빅토리아 시크릿'으로&nbsp;유명한 세계적인 톱모델 벨라 하디드(25)가&nbsp;오랜동안 개인 스타일리스트를 고용하지 않은 것과&nbsp;이른바 '오열 셀카'를 올린 것은 자신의 정신건강 문제 때문이라고 밝혔다. 벨라 하디드는 최근 WSJ 매거진과의 인터뷰에서 "(몇 년간) 정신이 매우 이상한 곳에 있었고 집 안팎에서 모든 것에 대한 불안감으로&nbsp;매우]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["올랜도 블룸, 치실 쓰고 집안 아무데나 버려" 케이티 페리 폭로]]></title>
-        <id>https://entertain.v.daum.net/v/20220118085851299</id>
-        <link href="https://entertain.v.daum.net/v/20220118085851299"/>
-        <updated>2022-01-18T00:43:41.604Z</updated>
-        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]‘반지의 제왕’ 올랜도 블룸(45)이 치실을 쓰고 쓰레기통이 아니라 집안 아무데나 버린다는 사실이 알려졌다. 그의 부인 케이티 페리(37)는 17일(현지시간) 영국 ‘제이미 테크스톤과 아만다 홀든의 하트 조식’에 출연해 “남편이 치실을 좋아한다. 신에게 감사하다”고 운을 뗐다. 이어 “그는 빛나는 치아를 가지고 있지만, 치]]></content>
     </entry>
 </feed>
