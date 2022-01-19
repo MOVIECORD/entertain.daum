@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2022-01-19T07:09:34.755Z</updated>
+    <updated>2022-01-19T08:13:37.336Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['패션계 레전드' 안드레 레옹 탈리, 알 수 없는 병으로 세상 떠났다]]></title>
+        <id>https://entertain.v.daum.net/v/20220119171257014</id>
+        <link href="https://entertain.v.daum.net/v/20220119171257014"/>
+        <updated>2022-01-19T08:13:36.725Z</updated>
+        <content type="html"><![CDATA[[OSEN=김보라 기자]&nbsp;패션계 레전드 안드레 레옹 탈리가 세상을 떠났다. 향년 73세. 18일(현지 시간) 유명 작가 겸 보그 크리에이티브 안드레 레옹 탈리가 질병으로 세상을 떠난 것으로 알려졌다. 현지 보도에 따르면 탈리는 알 수 없는 병으로 최근 병원에 입원했다가 이날 별세했다. 탈리는 1983년 보그 에디터로 합류했다. 이후 능력을 인정받아 19]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['별그대' 日 리메이크, 2월 23일 아마존 프라임 공개 확정]]></title>
         <id>https://entertain.v.daum.net/v/20220119133605656</id>
@@ -46,12 +53,5 @@
         <link href="https://entertain.v.daum.net/v/20220119061705806"/>
         <updated>2022-01-18T22:17:56.066Z</updated>
         <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]할리우드 셀럽 킴 카다시안(44)이 별거중인 남편 카니예 웨스트(44)와 줄리아 폭스(31)의 열애에 큰 관심을 보이지 않기 위해 노력 중이다. 연예매체 피플은 17일(현지시간) 관계자의 말을 인용해 “지금은 드라마같은 일이 많이 벌어지고 있다”면서 “킴 카다시안은 모든 것을 무시하려고 최선을 다하고 있다. 아이들이 무슨 일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[올랜도 블룸, 전처와 현처의 폭로 "짜증나는 오빠"→"치실쓰고 아무데나"]]></title>
-        <id>https://entertain.v.daum.net/v/20220118161701418</id>
-        <link href="https://entertain.v.daum.net/v/20220118161701418"/>
-        <updated>2022-01-18T08:15:29.283Z</updated>
-        <content type="html"><![CDATA[[OSEN=최나영 기자] 할리우드 배우 올랜도 블룸에 대한 '폭로(?)가 나왔다. 블룸의 아내인 팝스타 케이티 페리가 남편의 마음에 안 드는 습관에 대해 밝힌 것. 페리는 지난 17일(현지시간) 영국 ’제이미 테크스톤과 아만다 홀든의&nbsp;하트 조식‘에 출연해 "남편이 치실을 좋아한다. 신에게 감사한다"라고 언급했다. 이어 그는 "그는 빛나는 치아를 가지고]]></content>
     </entry>
 </feed>
