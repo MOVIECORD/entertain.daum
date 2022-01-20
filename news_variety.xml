@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/variety</id>
     <title>다음 연예 ─ 뉴스 ─ 예능</title>
-    <updated>2022-01-20T10:12:08.729Z</updated>
+    <updated>2022-01-20T11:10:09.728Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['엠카' 케플러, 엔하이픈 꺾고 영광의 1위.."영원히 함께해요"]]></title>
+        <id>https://entertain.v.daum.net/v/20220120193140813</id>
+        <link href="https://entertain.v.daum.net/v/20220120193140813"/>
+        <updated>2022-01-20T11:09:58.649Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 김수정 인턴기자) '엠카'에서 케플러가 1위를 차지했다. 20일 방송된 Mnet '엠카운트다운'(이하 '엠카')에서는 엔하이픈(ENHYPEN)과 케플러가 1위 후보로 올랐다. 치열한 대결 끝, 1월 셋째 주 1위는 케플러의 '와다다(WA DA DA)'가 차지했다. 케플러는 "상상도 못했는데 믿고 응원해 주셔서 감사드린다. 너무 사랑하고 열]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['놀면 뭐하니?' 측 "유재석·하하 확진자 접촉, 설특집 촬영 중 PCR 검사"]]></title>
         <id>https://entertain.v.daum.net/v/20220120191105503</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220120170516218"/>
         <updated>2022-01-20T08:13:29.916Z</updated>
         <content type="html"><![CDATA[[마이데일리 = 이승길 기자] 자타공인 '동물들의 부모' 사육사들의 '내 새끼 자랑 타임'이 공개된다. 21일 방송되는 JTBC '다수의 수다'(이하 ‘다수다’)에서는 두 MC 유희열, 차태현과 ‘다수’의 사육사들이 뜻깊은 수다 한 판을 나눈다. 최근 진행된 ‘다수의 수다’의 녹화에서 판다 할아버지와 호랑이 엄마, 맹수 아빠와 해양 동물 아빠까지 4명의]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[홍윤화, 맨손 굴캐기 대결.."호미 필요 없어"]]></title>
-        <id>https://entertain.v.daum.net/v/20220120164928613</id>
-        <link href="https://entertain.v.daum.net/v/20220120164928613"/>
-        <updated>2022-01-20T08:13:29.916Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 최희재 기자) 홍윤화가 맨손 굴캐기 기술을 선보인다.&nbsp; 20일 방송되는 채널 IHQ 예능프로그램 '뚝딱뚝딱 자급자족원정대' 3회에서는 충남 태안을 찾아 굴캐기 대결을 펼치는 이만기, 윤택, 김용명, 홍윤화의 모습이 그려진다. 최근 진행된 녹화에 참석한 멤버들은 태안 앞바다 갯벌에 깔린 굴을 캐는 미션을 받았다. 마을 주민들과 2인 1조를]]></content>
     </entry>
 </feed>
