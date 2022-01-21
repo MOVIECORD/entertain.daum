@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2022-01-21T16:15:48.078Z</updated>
+    <updated>2022-01-21T17:16:54.182Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[권상우 "재미있는 작품 만드는 배우로 기억되길"]]></title>
+        <id>https://entertain.v.daum.net/v/20220122013401712</id>
+        <link href="https://entertain.v.daum.net/v/20220122013401712"/>
+        <updated>2022-01-21T17:16:48.771Z</updated>
+        <content type="html"><![CDATA[해를 거듭할 수록 연기와 작품에 점점 더 진심을 보이고 있는 배우 권상우(47)다. 언제나 그래왔듯 돌려 말하는 것 없이 꽤나 직설적인 화법은 솔직한 권상우를 고스란히 대변한다. 여기에 더해진 여유로움과 배우로서 고민, 그리고 나아가고자 하는 방향성을 작품으로 보여주고 있는 행보는 기회만 주어진다면 결코 제자리에 안주하지 않으려 하는 권상우의 도전 의]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['해방타운' 윤혜진 "결혼 10주년이 생일, ♥엄태웅이 미역국 생일상"]]></title>
         <id>https://entertain.v.daum.net/v/20220122005200513</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220121234832047"/>
         <updated>2022-01-21T15:12:21.560Z</updated>
         <content type="html"><![CDATA[(서울=뉴스1) 안은재 기자 = '해방타운' 장윤정이 이찬원과 박군에게 새해 인사 전화를 했고, 박군은 이상형이 장윤정에서 도경완으로 바뀌었다고 털어놨다. 21일 오후 10시30분 방송된 JTBC 예능 프로그램 '해방타운'에는 장윤정이 새해를 맞아 이찬원 박군을 포함해 트로트 가수 후배들에게 전화를 돌리는 모습이 담겼다. 이날 방송에서 장윤정은 먼저]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[신주아 "태국서 외로움에 벽보고 혼잣말..스트레스에 쌍코피 흘린 적도"]]></title>
-        <id>https://entertain.v.daum.net/v/20220121234828046</id>
-        <link href="https://entertain.v.daum.net/v/20220121234828046"/>
-        <updated>2022-01-21T15:12:21.568Z</updated>
-        <content type="html"><![CDATA[[스포츠조선닷컴 정안지 기자] 배우 신주아가 태국에서 생활의 외로움을 털어놨다. 21일 방송된 채널A '오은영의 금쪽상담소'에서는 '태국댁' 배우 신주아의 고민이 공개됐다. 이날 신주아는 "국제결혼 생활한 지 7년 차다. 남편이 너무 잘해주고 너무 행복하게 잘살고 있는데도 늘 외롭다"며 고민을 털어놨다. 신주아는 지난 2014년 재벌 3세 태]]></content>
     </entry>
 </feed>
