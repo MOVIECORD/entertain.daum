@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2022-01-21T06:14:16.337Z</updated>
+    <updated>2022-01-21T07:11:41.625Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[원작은 하나, 한국·중국·일본 결말 이렇게 다르다]]></title>
+        <id>https://entertain.v.daum.net/v/20220121153300146</id>
+        <link href="https://entertain.v.daum.net/v/20220121153300146"/>
+        <updated>2022-01-21T07:11:20.380Z</updated>
+        <content type="html"><![CDATA[[김준모 기자] &nbsp;        ▲ &nbsp;&lt;엔드게임: 나는 킬러다&gt; 포스터    ⓒ 찬란  &nbsp; &lt;엔드게임: 나는 킬러다&gt;는 포스터만 보았을 때는 &lt;어벤져스: 엔드게임&gt;을 연상시킨다. 과거 주성치의 패러디 영화 또는 흥행을 위해 할리우드 유명 시리즈의 일환인 듯 제목을 변형시킨 영화가 아닌가 싶은 생각을 품게 만든다. 하지만 뚜껑을 열면 다르다. 기억상실증과 킬]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[23회 전주국제영화제, 4월28일 오프라인 개최..75개국 491편 출품]]></title>
         <id>https://entertain.v.daum.net/v/20220121140339667</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220121092920831"/>
         <updated>2022-01-21T00:37:24.126Z</updated>
         <content type="html"><![CDATA[[OSEN=김보라 기자] 스웨덴 판타지 감성 호러 영화 ‘렛미인’이 한국에서 리메이크된다. 21일 종합콘텐츠제작사 테이크원스튜디오는 “영화사 필름몬스터와 영화 ‘렛미인’을 OTT 시리즈로 리메이크 하는 공동 제작 계약을 체결했다”고 밝혔다.&nbsp; ‘렛미인’(감독 토마스 알프레드슨, 2008)은 스웨덴 동명 소설을 원작으로 한 판타지 영화로, 평범한 소년과]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['해피 뉴 이어' 6부작 확장판으로 돌아온다..26일 공개]]></title>
-        <id>https://entertain.v.daum.net/v/20220121091546424</id>
-        <link href="https://entertain.v.daum.net/v/20220121091546424"/>
-        <updated>2022-01-21T00:37:24.129Z</updated>
-        <content type="html"><![CDATA[[스포츠조선 문지연 기자] '해피 뉴 이어'가 확장판으로 다시 찾아온다. 영화 '해피 뉴 이어는 저마다의 사연을 안고 호텔 엠로스를 찾은 사람들이 각자의 방식으로 자신만의 인연을 만들어가는 이야기를 담은 작품. 지난 해 연말, 극장과 티빙 동시 공개 이후 전 세대 관객을 사로잡으며 한국 영화 박스오피스 1위를 비롯, 지금까지도 티빙 인기 영]]></content>
     </entry>
 </feed>
