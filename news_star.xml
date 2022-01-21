@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2022-01-21T17:16:54.182Z</updated>
+    <updated>2022-01-21T18:13:18.182Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['배앤크' 정성일=빌런, 위하준 살인범 아니었다]]></title>
+        <id>https://entertain.v.daum.net/v/20220122025807927</id>
+        <link href="https://entertain.v.daum.net/v/20220122025807927"/>
+        <updated>2022-01-21T18:13:12.627Z</updated>
+        <content type="html"><![CDATA[[티브이데일리 황서연 기자] '배드 앤 크레이지'에서 이동욱이 정성일의 정체를 알아챘다. 21일 밤 방송한 tvN 금토드라마 '배드 앤 크레이지'(극본 김새봄·연출 유선동)에서는 류수열(이동욱)이 자신의 과거 기억을 떠올리고 신주혁(정성일)의 실체를 알게 되는 모습이 그려졌다. 이날 방송에서 K(위하준)는 자신의 첫 기억이 칼을 들고 피가 묻은 모습, 격렬]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[권상우 "재미있는 작품 만드는 배우로 기억되길"]]></title>
         <id>https://entertain.v.daum.net/v/20220122013401712</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220121235100060"/>
         <updated>2022-01-21T15:12:21.560Z</updated>
         <content type="html"><![CDATA[댄서 허니제이가 독특한 입맛을 공개했다. 21일 방송된 MBC 예능 프로그램 '나 혼자 산다'에서는 허니제이가 꿀 같은 휴식을 취하는 일상이 전파를 탔다. 허니제이는 이날 독특한 식습관을 공개했다. 스스로 요리한 김치찌개와 돼지고기볶음, 김치전을 먹었다. 이어 김치전을 초장에  찍어 먹는 모습이 전파를 타자, 무지개 회원들은 경악했다. 기안84는 "옛날]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박군 "이상형, 장윤정에서 도경완 같은 여자로 바뀌어"]]></title>
-        <id>https://entertain.v.daum.net/v/20220121234832047</id>
-        <link href="https://entertain.v.daum.net/v/20220121234832047"/>
-        <updated>2022-01-21T15:12:21.560Z</updated>
-        <content type="html"><![CDATA[(서울=뉴스1) 안은재 기자 = '해방타운' 장윤정이 이찬원과 박군에게 새해 인사 전화를 했고, 박군은 이상형이 장윤정에서 도경완으로 바뀌었다고 털어놨다. 21일 오후 10시30분 방송된 JTBC 예능 프로그램 '해방타운'에는 장윤정이 새해를 맞아 이찬원 박군을 포함해 트로트 가수 후배들에게 전화를 돌리는 모습이 담겼다. 이날 방송에서 장윤정은 먼저]]></content>
     </entry>
 </feed>
