@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2022-01-22T16:15:17.708Z</updated>
+    <updated>2022-01-22T17:12:55.588Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
     <entry>
@@ -32,6 +32,13 @@
         <link href="https://entertain.v.daum.net/v/20220123001731572"/>
         <updated>2022-01-22T16:15:11.838Z</updated>
         <content type="html"><![CDATA[[TV리포트=김은정 기자] 가비가 '뽐'나는 기세를 과시했다. 22일 오후 방송된 MBC '전지적 참견 시점'에는 댄스 크루 라치카의 리더 가비가 출연했다. 가비는 '스트릿 우먼 파이터' 이후 최고의 인기를 누리고 있다. 이날 가비는 "광고 셀수 없이 많이 찍었다"고 플렉스하며 "살면서 이런 날이 올거라는 걸 전혀 몰랐다"고 털어놨다. 자신은 그저 즐겁게]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['동치미' 빽가, 대들보 역할 고민 "엄마 고맙다는 말도 안 해"]]></title>
+        <id>https://entertain.v.daum.net/v/20220123001200561</id>
+        <link href="https://entertain.v.daum.net/v/20220123001200561"/>
+        <updated>2022-01-22T17:12:50.150Z</updated>
+        <content type="html"><![CDATA[가수 빽가가 집안의 대들보 역할을 해도 고맙다는 말도 못 듣는다고 고백했다. 22일 방송된 MBN '속풀이쇼 동치미'는 대들보 특집 ‘돈 걱정하는 사람이 가장이다'라는 주제로 꾸며졌다. 김미경 박사, 배우. 가수 빽가. 배우 이혜숙이 출연해 대들보를 그만두고 싶었던 순간에 대해 이야기했다. 이날 빽가는 "아버지도 경제활동을 하고, 동생도 경제활동을 하고]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA['전참시' 장영란, 매니저계 여신 "계약금 안 받고 매니저 월급 올렸다"]]></title>
@@ -76,11 +83,11 @@
         <content type="html"><![CDATA[[스포츠투데이 백지연 기자] '전지적 참견 시점' 라치카 댄서 가비가 백종원, 오은영, 강형욱을 존경한다고 알렸다. 22일 밤 방송된 MBC 예능프로그램 '전지적 참견 시점'에서 가비의 일상이 공개됐다. 이날 방송에서 가비는 강아지를 교육할 때는 '개통령' 강형욱의 교육 영상을, 요리를 할 때는 백종원, 식사를 할 때는 오은영 박사님의 영상을 시청하는]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA['속풀이쇼 동치미' 부동산 크리에이터 정태익  "30살 때 집 13채"]]></title>
+        <title type="html"><![CDATA['동치미' 정태익 "30살 때 집 13채, 결혼 후 17채 더 사"]]></title>
         <id>https://entertain.v.daum.net/v/20220122233300396</id>
         <link href="https://entertain.v.daum.net/v/20220122233300396"/>
         <updated>2022-01-22T15:11:08.221Z</updated>
-        <content type="html"><![CDATA[부동산 크리에이터 정태익이 신혼인 30살 ?? 집이 13채였다고 말했다. 22일 방송된 MBN '속풀이쇼 동치미'는 대들보 특집 ‘돈 걱정하는 사람이 가장이다'라는 주제로 꾸며졌다. 김미경 박사, 배우 홍지민, 가수 빽가. 가수 류지광, 부동산 크리에이터 정태익이 출연했다. 이날 정태익은 자신이 어떻게 부동산 투자를 시작하게 됐는지를 밝혔다. 그는 "]]></content>
+        <content type="html"><![CDATA[부동산 크리에이터 정태익이 신혼인 30살 때 집이 13채였다고 말했다. 22일 방송된 MBN '속풀이쇼 동치미'는 대들보 특집 ‘돈 걱정하는 사람이 가장이다'라는 주제로 꾸며졌다. 김미경 박사, 배우 홍지민, 가수 빽가, 가수 류지광, 부동산 크리에이터 정태익이 출연했다. 이날 정태익은 자신이 어떻게 부동산 투자를 시작하게 됐는지를 밝혔다. 그는 "아]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA['전참시' 가비 "광고 많이 찍었다..연습실 지하에서 지상 3층으로"]]></title>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220122232702375"/>
         <updated>2022-01-22T15:11:08.223Z</updated>
         <content type="html"><![CDATA[(서울=뉴스1) 정유진 기자 = '악의 마음을 읽는 자들' 김남길이 5세 여아 토막 살인 사건의 범인을 검거하는 데 일조했다. 그 사이 우연히 주운 진선규의 경찰 신분증을 위조해 범행을 저지르려고 하는 범죄자가 등장해 극의 긴장감을 높였다. 22일 오후 방송된 SBS '악의 마음을 읽는 자들'(극본 설이나 연출 박보람)에서는 함께 힘을 모아 토막살해된]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['악의 마음', 진선규 경찰 신분증 주운 男..연쇄살인 사건 예고]]></title>
-        <id>https://entertain.v.daum.net/v/20220122232436362</id>
-        <link href="https://entertain.v.daum.net/v/20220122232436362"/>
-        <updated>2022-01-22T15:11:08.224Z</updated>
-        <content type="html"><![CDATA[[스포츠경향] ‘악의 마음을 읽는 자들’ 연쇄살인 사건이 예고됐다. 22일 오후 방송된 SBS 금토드라마 ‘악의 마음을 읽는 자들’에서는 아동 살인범을 잡은 범죄행동분석팀과 연쇄살인 사건이 예고되는 장면이 전파를 탔다. 이날 송하영(김남길)은 창의동 아동 토막살인사건 용의자로 추정되는 집을 찾았다. 그가 프로파일링한 단서들과 맞아떨어지는 집에 그는]]></content>
     </entry>
 </feed>
