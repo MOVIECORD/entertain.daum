@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2022-01-22T17:12:55.588Z</updated>
+    <updated>2022-01-22T18:13:29.820Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['동치미' 빽가 "집안 대들보 역할, 행복하지만은 않다"]]></title>
+        <id>https://entertain.v.daum.net/v/20220123010900719</id>
+        <link href="https://entertain.v.daum.net/v/20220123010900719"/>
+        <updated>2022-01-22T18:13:24.678Z</updated>
+        <content type="html"><![CDATA[가수 빽가가 집안 대들포 역할을 하고 있다고 밝혔다. 22일 방송된 MBN '속풀이쇼 동치미'는 '대들보 특집'으로 꾸며졌다. 이날의 주제는 ‘돈 걱정하는 사람이 가장이다'로 가수 빽가, 가수 류지광, 김미경 교수, 배우 이혜숙, 개그우먼 심진화, 뮤지컬 배우 홍지민이 출연했다. 출연진은 가장의 역할에 대해 이야기를 나눴다. 대들보들의 가장 큰 고민은]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김은영 "악플 때문에 사라지고 싶었다..남사친 4명 뿐"]]></title>
         <id>https://entertain.v.daum.net/v/20220123005001672</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220122232810380"/>
         <updated>2022-01-22T15:11:08.222Z</updated>
         <content type="html"><![CDATA[‘전참시’ 가비가 ‘스우파’ 이후 회사의 규모가 커졌다고 밝혔다. 22일 오후 방송된 MBC 예능프로그램 ‘전지적 참견 시점’(이하 ‘전참시’)에서는 가비가 출연했다. 이날 송은이는 가비에게 “원래 (라치카 회사가) 댄스신에서는 유명했지만 규모가 커지고 있다고”라고 궁금해했다. 가비는 “원래 라치카 친구들과 유튜브 채널 좀 키우려고 들어갔던 회사다. ‘]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['악의 마음' 김남길, 여아토막살인 범인 검거 일조..새 범죄자 등장]]></title>
-        <id>https://entertain.v.daum.net/v/20220122232702375</id>
-        <link href="https://entertain.v.daum.net/v/20220122232702375"/>
-        <updated>2022-01-22T15:11:08.223Z</updated>
-        <content type="html"><![CDATA[(서울=뉴스1) 정유진 기자 = '악의 마음을 읽는 자들' 김남길이 5세 여아 토막 살인 사건의 범인을 검거하는 데 일조했다. 그 사이 우연히 주운 진선규의 경찰 신분증을 위조해 범행을 저지르려고 하는 범죄자가 등장해 극의 긴장감을 높였다. 22일 오후 방송된 SBS '악의 마음을 읽는 자들'(극본 설이나 연출 박보람)에서는 함께 힘을 모아 토막살해된]]></content>
     </entry>
 </feed>
