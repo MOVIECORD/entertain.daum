@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2022-01-23T17:13:23.690Z</updated>
+    <updated>2022-01-23T18:12:31.215Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['집사부일체' 김영철, "연습이 최고를 만든다는 것 믿어"..'실전 영어' 꿀팁 전수]]></title>
+        <id>https://entertain.v.daum.net/v/20220124030000941</id>
+        <link href="https://entertain.v.daum.net/v/20220124030000941"/>
+        <updated>2022-01-23T18:12:25.160Z</updated>
+        <content type="html"><![CDATA[[SBS연예뉴스 | 김효정 에디터] 김영철이 자신의 좌우명을 밝혔다. 23일 방송된 SBS '집사부일체'에서는 신년 특별기획으로 작심삼일 극복 프로젝트 영어 공부 편이 공개됐다. 이날 방송에서 사부 김영철은 영어 회화를 잘할 수 있는 몇 가지 꿀팁을 공개했다. 특히 해외 유학 없이 국내에서만 19년간 공부해 영어를 마스터한 그는 실제로 유용한 팁을 전수해]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['집사부일체' 김영철, 국내 예능인 최초 할리우드 진출.."출연료는 한국 출연료의 10배"]]></title>
         <id>https://entertain.v.daum.net/v/20220124020600831</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220123230245001"/>
         <updated>2022-01-23T14:10:29.752Z</updated>
         <content type="html"><![CDATA[(서울=뉴스1) 이아영 기자 = 이상민과 김종국이 고통스럽고 굴욕적인 벌칙을 받았다. 23일 방송된 SBS '미운 우리 새끼'에서는 제6 회 단합대회가 열렸다. 기존 회원과 신입 회원까지 총 11명이 모였다. 김종국은 탁재훈의 미담을 공개했다. 김종국이 부모님을 모시고 제주도 여행을 갔는데, 탁재훈에게 식당을 예약해달라고 연락을 했다. 그랬더니 탁재훈이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['미우새' 신년 단합대회 개최..김희철 "2023년 초 결혼" 예고]]></title>
-        <id>https://entertain.v.daum.net/v/20220123225402957</id>
-        <link href="https://entertain.v.daum.net/v/20220123225402957"/>
-        <updated>2022-01-23T14:10:29.753Z</updated>
-        <content type="html"><![CDATA[김희철이 2023년에 결혼하겠다고 선언했다. 23일 방송된 SBS '미운 우리 새끼'(이하 '미우새')에서 2022년 새해를 맞아 '제6회 미우새 단합대회'가 열렸다. 이날 단합대회에는 반장 김준호를 비롯해 이상민, 탁재훈, 김종국, 임원희, 김희철, 오민석, 최시원, 곽시양, 김종민, 서남용 등 11명이 모두 참석했다. 이날 최시원은 모두가 모이는 자]]></content>
     </entry>
 </feed>
