@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2022-01-23T03:12:28.993Z</updated>
+    <updated>2022-01-23T04:13:52.130Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[YG 측 "아이콘 김진환·송윤형·김동혁 코로나19 확진"]]></title>
+        <id>https://entertain.v.daum.net/v/20220123131014346</id>
+        <link href="https://entertain.v.daum.net/v/20220123131014346"/>
+        <updated>2022-01-23T04:13:46.633Z</updated>
+        <content type="html"><![CDATA[[OSEN=하수정 기자]&nbsp;그룹 아이콘의 멤버 김진환, 송윤형, 김동혁이 코로나19에 확진됐다. YG엔터테인먼트는 23일 오후 "아이콘 멤버 김진환, 송윤형, 김동혁이 오늘(23일) 코로나19 확진 판정을 받았다"며 공식 입장을 내놨다. 이어 "이들은 지난 22일 경미한 감기 증상을 느껴 실시한 코로나19 자가진단키트 검사에서 양성 반응을 처음 확인했다"]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["좋으면서 아프다" '도토페' 성시경의 위로]]></title>
+        <id>https://entertain.v.daum.net/v/20220123122414883</id>
+        <link href="https://entertain.v.daum.net/v/20220123122414883"/>
+        <updated>2022-01-23T04:13:46.634Z</updated>
+        <content type="html"><![CDATA[[이준목 기자] ▲ &nbsp;MBC &lt;놀면 뭐하니&gt;의 한 장면.    ⓒ MBC  &nbsp; MBC &lt;놀면 뭐하니&gt;가 '도토리 페스티벌(도토페)'을 통하여 추억의 노래와 뮤지션들을 소환하며 뜻깊은 무대를 연출했다. 22일 오후 방송된 &lt;놀면 뭐하니&gt;에서는 지난주에 이어 도토페 2부로 꾸며지며 양정승과 노누, KCM, 아이비, 성시경, 프로젝트 그룹 토요태(]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[조수미, '태종 이방원' 동물학대 논란에 "강력한 처벌 필요"]]></title>
         <id>https://entertain.v.daum.net/v/20220123114914358</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220123105410476"/>
         <updated>2022-01-23T02:24:27.801Z</updated>
         <content type="html"><![CDATA[’놀면 뭐하니?-도토리 페스티벌’이 감동의 피날레로 안방 1열을 꽉 잡았다. 22일 방송된 MBC ‘놀면 뭐하니?+’에서는 양정승&amp;노누&amp;KCM, 아이비, 토요태, 성시경이 출격한 ‘도토리 페스티벌’(이하 ‘도토페’) 2부 무대가 공개됐다. 2부 첫 주자로 나선 양정승&amp;노누&amp;KCM은 ‘밤하늘의 별을…’를 선보였다. 12년 만에 무대에서 처음 호흡을]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['며느라기2' 박하선, 슈퍼맘이 될 필요는 없다]]></title>
-        <id>https://entertain.v.daum.net/v/20220123105402472</id>
-        <link href="https://entertain.v.daum.net/v/20220123105402472"/>
-        <updated>2022-01-23T02:24:27.802Z</updated>
-        <content type="html"><![CDATA[[김종성 기자] "확실한 거죠?" "이게 아기집, 그 안에 작게 보이는 게 아기예요. 이제 5주 되셨네요." "네..." 산부인과에 들러 초음파 검사를 통해 임신을 확인한 사린(박하선)의 표정이 밝지 않다. 당장 며칠 전에 감기약을 복용한 것부터 걱정이 되기 시작했고, 앞으로의 직장 생활 등 온갖 문제들이 머릿속을 복잡하게 만들었다. 하린으로부터 임신 사실]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박나래 '코미디빅리그' 2년 만에 컴백→마마무 휘인 출격]]></title>
-        <id>https://entertain.v.daum.net/v/20220123105047403</id>
-        <link href="https://entertain.v.daum.net/v/20220123105047403"/>
-        <updated>2022-01-23T01:53:35.152Z</updated>
-        <content type="html"><![CDATA[[스포츠조선 조지영 기자] tvN '코미디빅리그(이하 '코빅')'에 마마무의 휘인이 출격한다. 오늘(23일) 저녁 7시 45분에 방송되는 '코빅'에서는 2022년 1쿼터 2라운드가 펼쳐지며, 휘인이 지원 사격에 나서 다채로운 재미를 선사한다. 또한, 박나래가 2년 만에 '코빅'에 복귀해 여전한 존재감을 드러낼 예정이다. 휘인은 '사이코러스']]></content>
     </entry>
 </feed>
