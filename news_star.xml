@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2022-01-23T15:13:02.261Z</updated>
+    <updated>2022-01-23T16:15:24.399Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['이형택 딸' 미나, 골프 신동? 김미현 "있을 수 없는 일"]]></title>
+        <id>https://entertain.v.daum.net/v/20220124010009689</id>
+        <link href="https://entertain.v.daum.net/v/20220124010009689"/>
+        <updated>2022-01-23T16:15:18.224Z</updated>
+        <content type="html"><![CDATA[[동아닷컴] 사진=채널A ‘슈퍼 DNA 피는 못 속여’김병현 딸 민주와 이형택 딸 미나가 ‘골프 여제’ 김미현 앞에서 ‘피는 못 속이는’ 불꽃 승부 근성을 드러낸다. 24일(월) 채널A ‘슈퍼 DNA 피는 못 속여’(이하 ‘피는 못 속여’) 3회에서는 김병현과 딸 민주가 ‘슈퍼땅콩’ 김미현의 골프 연습장을 방문하는 모습이 공개된다. 앞서 김병현은 20년지]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['미우새' 아들들의 신년회..못생긴 팀, 잘생긴 팀에 '영어 금지 윷놀이' 대역전]]></title>
+        <id>https://entertain.v.daum.net/v/20220124010001684</id>
+        <link href="https://entertain.v.daum.net/v/20220124010001684"/>
+        <updated>2022-01-23T16:15:18.224Z</updated>
+        <content type="html"><![CDATA[[SBS연예뉴스 | 김효정 에디터] 미우새 아들들의 신년회가 열렸다. 23일 방송된 SBS '미운 우리 새끼'(이하 '미우새')에서는 미우새 아들들이 신년회를 갖는 모습이 그려졌다. 이날 아들들은 게임을 하며 단합을 도모하고자 했다. 이에 게임을 할 팀을 먼저 나눴다. 김준호는 "지난번에는 배우팀과 가수 팀으로 나눴는데 이번에는 잘생긴 팀과 못생긴 팀으로]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[공연계 팬덤 변화, '코로나 파고' 뛰어넘을까]]></title>
         <id>https://entertain.v.daum.net/v/20220124000029338</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220123224105891"/>
         <updated>2022-01-23T14:10:29.764Z</updated>
         <content type="html"><![CDATA[[스포츠투데이 서지현 기자] '신과 한판' 박군이 자신의 바뀐 이상형을 언급했다. 23일 밤 방송된 MBN 예능프로그램 '신과 한판'에서는 가수 박군이 게스트로 출연했다. 이날 박군은 자신의 이상형으로 장윤정을 꼽으며 "제가 처음 경연 프로그램에 나왔을 때 고기를 사준다고 하셨다. 모든 분들이 아시겠지만 여장부 같고 카리스마가 있다. 저를 잘 리드하고 콘트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오유진→송예림 9인, 최종 탈락]]></title>
-        <id>https://entertain.v.daum.net/v/20220123223240825</id>
-        <link href="https://entertain.v.daum.net/v/20220123223240825"/>
-        <updated>2022-01-23T14:10:29.768Z</updated>
-        <content type="html"><![CDATA[[동아닷컴] [사진 제공 : 펑키스튜디오]‘방과후 설렘’ 최종 탈락자가 발표됐다. 23일 MBC와 네이버 NOW.(나우)를 통해 ‘방과후 설렘’이 방송됐다. 이날 ‘방과후 설렘’은 2학기 기말고사 학년 배틀을 진행해 시청자들의 이목을 집중시켰다. 데뷔조 자리를 차지한 7명의 연습생들과 14명의 대기조 연습생들이 공개된 이후 탈락 연습생 명단이 밝혀져 차가]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NCT127, 첫 대상 수상에 눈물 "꿈꿔온 순간"..임영웅 4관왕]]></title>
-        <id>https://entertain.v.daum.net/v/20220123223134820</id>
-        <link href="https://entertain.v.daum.net/v/20220123223134820"/>
-        <updated>2022-01-23T14:10:29.770Z</updated>
-        <content type="html"><![CDATA[(서울=뉴스1) 황미현 기자 = 그룹 NCT127이 데뷔 후 처음으로 대상을 수상하고 눈물을 보였다. 23일 오후 6시 서울 구로구 고척 스카이돔에서 '제31회 하이원 서울가요대상'이 열렸다. 이날 MC는 김성주, 설현, 붐이 맡아 활약했다. 이날 대상의 주인공은 NCT127이었다. NCT127이 대상을 받은 것은 2016년 데뷔 후 6년만이다. 이]]></content>
     </entry>
 </feed>
