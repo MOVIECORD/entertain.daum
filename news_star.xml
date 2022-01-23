@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2022-01-23T06:13:40.787Z</updated>
+    <updated>2022-01-23T07:11:40.696Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['놀면 뭐하니-도토페' 양정승&노누&KCM부터 성시경 명곡 대잔치까지 추억 소환]]></title>
+        <id>https://entertain.v.daum.net/v/20220123160135345</id>
+        <link href="https://entertain.v.daum.net/v/20220123160135345"/>
+        <updated>2022-01-23T07:11:35.454Z</updated>
+        <content type="html"><![CDATA[[헤럴드경제 = 서병기 선임기자]‘놀면 뭐하니?-도토리 페스티벌’이 감동의 피날레로 안방 1열을 꽉 잡았다. 12년 만에 한 무대에 선 양정승&amp;노누&amp;KCM부터 CD를 삼킨 미친 라이브를 선보인 아이비, 토요태(유재석 하하 미주)의 아련함이 폭발한 핫 데뷔 무대와 함께 ‘끝판왕 발라더’ 성시경의 명불허전 명곡 메들리로 감동을 더했다. 22일 방송된 MBC]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[조수미 '태종 이방원' 말 학대 사망 사건 분노 "강력 처벌돼야"]]></title>
+        <id>https://entertain.v.daum.net/v/20220123152136680</id>
+        <link href="https://entertain.v.daum.net/v/20220123152136680"/>
+        <updated>2022-01-23T07:11:35.456Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 김명미 기자] 성악가 조수미가 '태종 이방원' 말 학대 사망 사건에 분노했다. 조수미는 1월 22일 인스타그램을 통해 최근 불거진 KBS 1TV 대하드라마 '태종 이방원' 말 학대 사망 사건 관련 장문의 글을 게재했다. 조수미는 "동물 배우들이 나오는 영화나 드라마를 접할 때마다 나는 개나 고양이의 연기력이 잘 실린 장면보다는 오랜 시간 동안 기]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[조수미, '태종이방원' 말 학대 사망사건 격분.."동물 착취→죽음=강력처벌"]]></title>
         <id>https://entertain.v.daum.net/v/20220123144535997</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220123112007973"/>
         <updated>2022-01-23T02:24:27.792Z</updated>
         <content type="html"><![CDATA[[티브이데일리 박상후 기자] '라디오쇼'에서 방송인 박명수가 '스우파'에 대한 애정을 표했다. 23일 오전 방송된 KBS 쿨FM '박명수의 라디오쇼'(이하 '라디오쇼')에서는 DJ 박명수가 시청자와 소통하는 모습이 그려졌다. 이날 한 청취자는 "Mnet '스트릿 우먼 파이터'(이하 '스우파')를 보고 춤의 매력에 빠졌다. 집 근처 댄스 학원에 수강 등록까]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['아는 형님' 송지아 방송, 이게 최선인가]]></title>
-        <id>https://entertain.v.daum.net/v/20220123111800949</id>
-        <link href="https://entertain.v.daum.net/v/20220123111800949"/>
-        <updated>2022-01-23T02:24:27.793Z</updated>
-        <content type="html"><![CDATA[[김상화 기자] ▲ &nbsp;지난 22일 방영된 '아는 형님'의 한 장면    ⓒ JTBC  &nbsp; 갑작스런 출연자 잡음에 따른 예능 속 통편집은 어제 오늘의 일이 아니다. 이번주에도 주요 인기 프로그램들이 녹화까지 마친 초대손님 편집 여부로 몸살을 크게 앓았다. 그 주인공은 유튜버 겸 인플루언서 프리지아(송지아)다. JTBC가 제작한 넷플릭스 예능 &lt;]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['꽃피달' 강미나 "이혜리와 워맨스, 기대해달라"]]></title>
-        <id>https://entertain.v.daum.net/v/20220123111525906</id>
-        <link href="https://entertain.v.daum.net/v/20220123111525906"/>
-        <updated>2022-01-23T02:24:27.794Z</updated>
-        <content type="html"><![CDATA[[스포츠경향] 가수 겸 배우 강미나가 이혜리와 워맨스를 예고했다. KBS2 월화극 ‘꽃 피면 달 생각하고’ 측은 23일 강미나의 인터뷰를 공개했다. 강미나가 연기한 ‘애진’은 병판댁 무남독녀로 여자라는 이유로 수많은 제약을 받는 것에 답답함을 느끼는 인물이다. 그는 남의 물건을 훔치면서 속에 쌓인 울분을 해소하는 독특한 설정도 가졌다. 정해준 배필을]]></content>
     </entry>
 </feed>
