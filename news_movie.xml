@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2022-01-23T20:12:20.295Z</updated>
+    <updated>2022-01-23T21:10:01.142Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['킹메이커' 설경구 "김대중 전 대통령 부담..내 식대로 연기"]]></title>
+        <id>https://entertain.v.daum.net/v/20220124060602407</id>
+        <link href="https://entertain.v.daum.net/v/20220124060602407"/>
+        <updated>2022-01-23T21:09:41.860Z</updated>
+        <content type="html"><![CDATA[[스포츠경향] 1970~80년대 대통령 선거의 이미지는 유세 인파가 모든 것을 말해준다. 백만 인파 앞에서 사자후를 토해내던 후보들의 연설은 가히 압권이었다. 1971년 장충단공원에서 중절모와 두루마기 차림, 점퍼 입은 사람들과 양복 차림의 회사원, 장바구니를 든 아주머니 등 각양각색의 시민들이 빼곡히 모여 김대중 전 대통령의 연설을 듣던 장면은 박제처]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['외계+인' '영웅' '한산'.. 이 영화들 올해 정말 볼 수 있나요?]]></title>
         <id>https://entertain.v.daum.net/v/20220124043141389</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220123100207747"/>
         <updated>2022-01-23T01:53:20.671Z</updated>
         <content type="html"><![CDATA[[티브이데일리 최하나 기자] 언제나 목표는 하나였다. 자신으로 인해서 다른 사람이 얼굴 찌푸리는 일이 없었으면 하는 것. 배우 강하늘이 살아가는 원동력은 하루하루를 즐겁게 보내려는 마음 가짐에 있었다. 26일 개봉되는 영화 '해적: 도깨비 깃발'(감독 김정훈·제작 어뉴)은 흔적도 없이 사라진 왕실 보물의 주인이 되기 위해 바다로 모인 해적들의 스펙터클한]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[니콜라스 케이지 '피그', 2월 23일 개봉]]></title>
-        <id>https://entertain.v.daum.net/v/20220123100006682</id>
-        <link href="https://entertain.v.daum.net/v/20220123100006682"/>
-        <updated>2022-01-23T01:53:20.672Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 김미화 기자] /사진='피그' '피그'가 2월 23일 개봉을 확정한 가운데, 대배우 니콜라스 케이지만의 독보적인 아우라를 담은 메인 포스터를 공개했다. '피그'는 이름을 버린 남자 '롭'이 사라진 트러플 돼지와 인생의 가장 소중한 것을 되찾기 위해 떠나는 여정을 담은 마스터피스 드라마. 이번에 공개한 포스터는 '피그'를 향한 눈부신 찬사와 함]]></content>
     </entry>
 </feed>
