@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2022-01-24T20:12:07.275Z</updated>
+    <updated>2022-01-24T21:09:15.826Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[최우식 "배우로서 전성기? 앞으로 10년 더 기대돼"]]></title>
+        <id>https://entertain.v.daum.net/v/20220125060052990</id>
+        <link href="https://entertain.v.daum.net/v/20220125060052990"/>
+        <updated>2022-01-24T21:08:52.361Z</updated>
+        <content type="html"><![CDATA[[스포츠한국 모신정 기자] 이미 영화 '부산행'(연상호 감독/2016)과 '기생충'(봉준호 감독/2019)로 관객들의 큰 사랑을 받아 봤지만 그래도 최우식의 엄연한 전성기는 바로 지금 아닐까. 한창 상영 중인 영화 '경관의 피'(이규만 감독)와 종방을 눈앞에 둔 SBS 드라마 '그해 우리는'이 동시기 관객과 안방 극장에 선을 보였고, 그 어느 때보다 뜨]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[바다위 액션, 선거판 승부..설연휴 한국영화, 당신의 선택은?]]></title>
         <id>https://entertain.v.daum.net/v/20220125050602358</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220124162033179"/>
         <updated>2022-01-24T08:13:38.402Z</updated>
         <content type="html"><![CDATA[[뉴스엔 배효주 기자] 한국영화아카데미 정유미 감독 연출작 '존재의 집'이 베를린국제영화제 단편 경쟁 부문에 초청됐다. 1월 21일 영화진흥위원회에 따르면 정유미 감독의 신작 애니메이션 영화 '존재의 집'이 다음 달 열리는 제72회 베를린국제영화제에 진출해 ‘황금곰상’을 노린다. 정유미 감독은 한국영화아카데미(KAFA)의 정규과정 애니메이션 전공 졸업생]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[전주국제영화제 75개국서 491편 출품.."세계 영화인 열정 식지 않아"]]></title>
-        <id>https://entertain.v.daum.net/v/20220124161359901</id>
-        <link href="https://entertain.v.daum.net/v/20220124161359901"/>
-        <updated>2022-01-24T07:15:55.068Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 배효주 기자] 제23회 전주국제영화제 국제경쟁 부문에 75개국 491편이 출품됐다. 지난해 11월 24일부터 올해 1월 10일까지 진행한 제23회 전주국제영화제 국제경쟁 부문 공모에 75개국 491편의 작품이 접수되었다. 제22회 전주국제영화제 국제경쟁 출품작 수 398편보다 93편(23.36%) 증가한 수치다. 국제경쟁 출품 공모에 참여한 국가]]></content>
     </entry>
 </feed>
