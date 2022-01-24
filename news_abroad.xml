@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2022-01-24T01:59:59.771Z</updated>
+    <updated>2022-01-24T02:35:39.490Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[파라마운트, 오미크론 확산에 '미션 임파서블 7' 개봉일 또 연기]]></title>
+        <id>https://entertain.v.daum.net/v/20220124111705208</id>
+        <link href="https://entertain.v.daum.net/v/20220124111705208"/>
+        <updated>2022-01-24T02:35:38.830Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 이창규 기자) 미국의 영화 제작사 파라마운트가 배급하는 신작들의 개봉 일정이 또다시 연기됐다. 지난 21일(현지시간) 파라마운트는 공식 성명서를 통해 '미션 임파서블 7'(감독 크리스토퍼 맥쿼리)과 '미션 임파서블 8'을 비롯한 개봉 예정작들의 개봉일을 연기한다고 발표했다. 이들의 발표에 따르면 '미션 임파서블 7'은 2023년 7월 14]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[봉준호 존경하는 금수저 출신 25살 톱모델, "술 끊었다..정서적으로 불안해"]]></title>
         <id>https://entertain.v.daum.net/v/20220124093108417</id>
@@ -31,7 +38,7 @@
         <id>https://entertain.v.daum.net/v/20220124061304448</id>
         <link href="https://entertain.v.daum.net/v/20220124061304448"/>
         <updated>2022-01-23T22:11:22.066Z</updated>
-        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]세계적 래퍼 카녜이 웨스트(44)와 열애중인 줄리아 폭스(31)가 돈과 명예를 보고 연애를 한다는 세간의 눈초리에 쿨한 반응을 보였다. 그는 22일(현지시간) 팟캐스트 ‘포비든 푸르츠(Forbidden Fruits)’에 출연해 돈 많은 남자와 데이트하는 것이 자신의 취향이라고 말했다. 그는 "사람들은 '당신은 유명세를 위해]]></content>
+        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]세계적 래퍼 카녜이 웨스트(44)와 열애중인 줄리아 폭스(31)가 돈과 명예를 보고 연애를 한다는 세간의 눈초리에 쿨한 반응을 보였다. 그는 22일(현지시간) 팟캐스트 ‘포비든 푸르츠(Forbidden Fruits)’에 출연해 자신의 연애관을 밝혔다. E뉴스는 "돈 많은 남자와 데이트하는 것이 자신의 취향이라고 주장하고 있다]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA["아놀드 슈왈제네거, 불법 좌회전하다 대형 교통사고" 여성운전자 병원행]]></title>
@@ -53,12 +60,5 @@
         <link href="https://entertain.v.daum.net/v/20220123115417409"/>
         <updated>2022-01-23T03:12:28.313Z</updated>
         <content type="html"><![CDATA[[OSEN=박소영 기자] 75세 아놀드 슈왈제네거가 4중 추돌 교통사고를 당했다. 다행히 부상은 없지만 이 사고로 한 여성이 크게 다쳐 아놀드 슈왈제네거가 걱정에 빠졌다고 관계자는 밝혔다. 21일(현지시간) 복수의 외신에 따르면 이날 오후 4시 35분쯤 미국 LA 인근 브렌트우드에서 4중 추돌 사고가 벌어졌다. 4대의 차량 중 SUV 차량은 아놀드 슈왈]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["음주·약물 NO"..아놀드 슈왈제네거, 대형 교통사고 냈다]]></title>
-        <id>https://entertain.v.daum.net/v/20220123112406010</id>
-        <link href="https://entertain.v.daum.net/v/20220123112406010"/>
-        <updated>2022-01-23T02:24:32.695Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 김예은 기자) 할리우드 배우 아놀드 슈왈제네거가 교통사고를 냈다.&nbsp; 22일(현지시간) 미국 CNN, CBS 등의 보도에 따르면 아놀드 슈왈제네거는 전날 오후 4시 30분께 LA 브렌트우드 지역의 한 교차로에서 4중 충돌 사고를 냈다.&nbsp; 아놀드 슈왈제네거가 몰던 스포츠유틸리티차(SUV) 차량이 도요타 프리우스 차량과 부딪히면서 총 네 대의]]></content>
     </entry>
 </feed>
