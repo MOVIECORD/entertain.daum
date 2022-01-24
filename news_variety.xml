@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/variety</id>
     <title>다음 연예 ─ 뉴스 ─ 예능</title>
-    <updated>2022-01-24T02:35:39.494Z</updated>
+    <updated>2022-01-24T03:15:42.919Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['진격의 할매' 최여진 "과몰입 많이 해" 고민 토로]]></title>
+        <id>https://entertain.v.daum.net/v/20220124120856314</id>
+        <link href="https://entertain.v.daum.net/v/20220124120856314"/>
+        <updated>2022-01-24T03:15:33.104Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 이민지 기자] 연예계 대표 취미부자 최여진이 고민을 털어놓는다. 1월 25일 첫 방송되는 채널S ‘진격의 할매’에는 배우 최여진이 출연한다. 제작진에 따르면 이날 고민상담을 위해 찾아온 최여진을 본 국민할매 트리오 김영옥 나문희 박정수는 낯익은 얼굴을 보고 반갑게 맞이했다. 특히, 최여진은 각 할매들의 이미지에 맞추어 꽃을 준비하는 센스를 선]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['미우새' 단합대회 우려먹기, 대상 이름값 어디로]]></title>
+        <id>https://entertain.v.daum.net/v/20220124114541495</id>
+        <link href="https://entertain.v.daum.net/v/20220124114541495"/>
+        <updated>2022-01-24T03:15:33.108Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 이해정 기자] 유치원도 이렇게까지 자주 대회를 열진 않을 것 같다. '미우새'는 단합대회 사골을 언제까지 우려먹을까. 1월 23일 방송된 SBS '미운 우리 새끼'(이하 '미우새')에서는 탁재훈, 이상민, 김준호, 김종국, 임원희, 김희철, 오민석, 최시원, 김종민, 곽시양, 서남용이 함께한 가운데 '제6회 미우새 단합대회'가 열렸다. 고작 3]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[위너 김진우, 여동생에 깜짝 생일 선물 "구하기 진짜 힘든 건데"]]></title>
         <id>https://entertain.v.daum.net/v/20220124113141948</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220124102238616"/>
         <updated>2022-01-24T01:59:49.162Z</updated>
         <content type="html"><![CDATA[[스타뉴스 한해선 기자] /사진=KBS '주접이 풍년'이 첫 방송부터 뜨거운 반응을 이끌며 쾌조의 스타트를 끊었다. 지난 20일 첫 방송된 KBS 2TV 새 예능프로그램 '팬심자랑대회 주접이 풍년'(이하 '주접이 풍년')은 알찬 내용과 시청자들의 호평에 힘입어 신개념 '어덕행덕'(어차피 덕질할거 행복하게 덕질하자) 토크 버라이어티라는 새로운 이정표를 세웠]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["세종문화회관 아냐?" 이승철, 남산타워 뷰 한눈에 보이는 집 스케일]]></title>
-        <id>https://entertain.v.daum.net/v/20220124101544308</id>
-        <link href="https://entertain.v.daum.net/v/20220124101544308"/>
-        <updated>2022-01-24T01:59:49.163Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 박수인 기자] 가수 이승철이 데뷔 36년 만에 처음으로 관찰 예능에 합류, 딸 이원 양과 함께하는 일상을 공개한다. 1월 26일 방송하는 채널A ‘요즘 남자 라이프-신랑수업’(이하 ‘신랑수업’)에서는 이승철이 ‘워너비 신랑감’ 김찬우-김준수-영탁의 ‘멘토’ 역할에 나서며, 생애 처음으로 자신의 일상을 공개해 시선을 사로잡는다. 먼저 남산 타워가]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['솔로지옥' 오진택, 인터오리진I&C와 계약..본격 활동]]></title>
-        <id>https://entertain.v.daum.net/v/20220124100601939</id>
-        <link href="https://entertain.v.daum.net/v/20220124100601939"/>
-        <updated>2022-01-24T01:59:49.166Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 윤성열 기자] /사진제공=인터오리진I&amp;C 넷플릭스 오리지널 예능 '솔로지옥'에 출연해 주목을 받은 오진택이 인터오리진(대표 오영근)의 매니지먼트 사업영역인 인터오리진I&amp;C와 매니지먼트 계약을 맺었다. 인터오리진I&amp;C 측은 24일 "오진택이 인터오리진I&amp;C와 계약을 체결하며 본격적인 활동을 위한 새로운 출발을 알렸다"고 밝혔다. ' 솔로지옥]]></content>
     </entry>
 </feed>
