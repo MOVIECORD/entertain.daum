@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2022-01-24T16:16:28.449Z</updated>
+    <updated>2022-01-24T17:17:14.790Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['2월 결혼' 박세영♥곽정욱, '학교 2013'이 맺어준 10년 인연]]></title>
+        <id>https://entertain.v.daum.net/v/20220125014858329</id>
+        <link href="https://entertain.v.daum.net/v/20220125014858329"/>
+        <updated>2022-01-24T17:17:09.483Z</updated>
+        <content type="html"><![CDATA[[OSEN=연휘선&nbsp;기자] 배우 박세영과 곽정욱이 결혼한다. '학교' 시리즈가 맺어준 스타 커플이 탄생해 축하를 부르고 있다.&nbsp; 24일 박세영의 소속사 씨엘엔컴퍼니 측은 "2월 중순, 서울 모처에서 박세영과 곽정욱이 백년가약을 맺는다"라며 공식입장을 밝혔다.&nbsp; 소속사에 따르면 박세영과 곽정욱은 과거 KBS 2TV 드라마 '학교 2013'에 함께 출연하며]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['동상이몽2' 이현이♥홍성기, 송해나 싱글 하우스 방문]]></title>
         <id>https://entertain.v.daum.net/v/20220125010300071</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220124235700655"/>
         <updated>2022-01-24T15:12:24.277Z</updated>
         <content type="html"><![CDATA[김범이 정지훈의 선한 의사 정신에 마음을 점점 열어가던 와중, 그가 자신에게 빙의하면 할수록 실제 정지훈의 목숨이 위태로워진다는 사실을 알게 됐다. 김범은 굳게 마음을 먹고 정지훈과 빙의를 거부하려 애썼다. 24일 밤 방송된 tvN '고스트닥터' 7화에서는 차영민(정지훈 분)과 고승탁(김범 분)이 점점 서로의 진짜 모습을 알아가는 과정이 그려졌다. 두]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['피는 못 속여' 김미현, 이형택 딸 골프 실력에 "대박"→강호동, 子언급에 '아빠모드']]></title>
-        <id>https://entertain.v.daum.net/v/20220124235200613</id>
-        <link href="https://entertain.v.daum.net/v/20220124235200613"/>
-        <updated>2022-01-24T15:12:24.277Z</updated>
-        <content type="html"><![CDATA[[TV리포트 = 하수나 기자] ‘슈퍼땅콩’ 김미현이 이형택 딸 미나의 골프실력에 깜짝 놀랐다고 밝혔다.&nbsp; 24일 방송된 채널A ‘슈퍼 DNA 피는 못 속여’에선 ‘대한민국 골프 레전드’ 김미현이 전격 출연한 가운데 이형택 딸 미나, 김병현 딸 민주의 골프 실력이 공개됐다.&nbsp; 이날 골프 4개월 차인 민주의 스윙을 유심히 지켜보고 직접 자세교정과 코칭에 나선]]></content>
     </entry>
 </feed>
