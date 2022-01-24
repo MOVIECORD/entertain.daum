@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-01-24T10:12:51.275Z</updated>
+    <updated>2022-01-24T11:09:54.594Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['두번째남편' 오승아, 절벽 떨어져..생사 불명]]></title>
+        <id>https://entertain.v.daum.net/v/20220124194141854</id>
+        <link href="https://entertain.v.daum.net/v/20220124194141854"/>
+        <updated>2022-01-24T11:09:39.804Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 이시연 기자] /사진= MBC '두 번째 남편' 방송 화면'두 번째 남편'에서 오승아가 엄현경과 몸싸움을 벌인 뒤 절벽에서 떨어져 생사를 확인할 수 없게 됐다. 24일 오후 방송된 MBC 일일드라마 '두 번째 남편'에서는 윤재경(오승아 분)이 문태양(정민준 분)을 납치하는 장면이 그려졌다. 이날 윤재경은 봉선화(엄현경 분)을 협박할 최후의 수]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['두번째남편' 오승아, 정민준 납치..엄현경 협박]]></title>
+        <id>https://entertain.v.daum.net/v/20220124192202569</id>
+        <link href="https://entertain.v.daum.net/v/20220124192202569"/>
+        <updated>2022-01-24T11:09:39.805Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 이시연 기자] /사진= MBC '두 번째 남편' 방송 화면'두 번째 남편'에서 오승아가 정민준을 납치한 가운데 엄현경을 협박했다. 24일 오후 방송된 MBC 일일드라마 '두 번째 남편'에서는 윤재경(오승아 분)이 유치원에서 문태양(정민준 분)을 납치했다. 이날 윤재경은 유치원에서 문태양을 데리고 한 폐공장으로 향했다. 이후 문태양의 사진]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['태종 이방원' 동물학대 논란 이후 촬영 중단?.. KBS "책임 통감"]]></title>
         <id>https://entertain.v.daum.net/v/20220124185012956</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220124164212104"/>
         <updated>2022-01-24T08:13:43.331Z</updated>
         <content type="html"><![CDATA[[OSEN=박소영 기자] 배우 한지은이 tvN '배드 앤 크레이지’에서 상황에 따라 변하는 캐릭터의 감정선을 디테일하게 그려내며 몰입도를 높이고 있다.&nbsp; 지난 22일 방송된 ‘배드 앤 크레이지’ 11회에서는 신주혁(정윤석 분)을 잡으려다 도리어 함정에 빠진 류수열과 그의 곁을 지키는 이희겸(한지은 분)의 이야기가 그려졌다.&nbsp; 그동안 K(위하준 분)의 존]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[KBS "'태종이방원' 동물학대 논란, 부족한 인식이 불러온 참사"]]></title>
-        <id>https://entertain.v.daum.net/v/20220124161803071</id>
-        <link href="https://entertain.v.daum.net/v/20220124161803071"/>
-        <updated>2022-01-24T08:13:43.332Z</updated>
-        <content type="html"><![CDATA[‘태종 이방원’이 동물학대 논란에 휩싸인 가운데, KBS가 재차 사과했다. KBS는 24일 ‘생명 존중의 기본을 지키는 KBS로 거듭나겠습니다’라는 제목의 공식입장문을 발표했다. KBS는 “최근 대하드라마 ‘태종 이방원’ 촬영 과정에서 불미스러운 사고가 발생했다. 드라마 촬영에 투입된 동물의 생명을 보호하지 못한 책임을 통감하며, 시청자 여러분과 국민께 다]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[KBS, '태종 이방원' 말 학대 논란 재차 사과 "조사 임할 것"]]></title>
-        <id>https://entertain.v.daum.net/v/20220124161759063</id>
-        <link href="https://entertain.v.daum.net/v/20220124161759063"/>
-        <updated>2022-01-24T08:13:43.334Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 안윤지 기자] /사진제공=KBSKBS 측이 대하 사극 '태종 이방원' 말 학대 논란에 대해 또 한번 사과했다. KBS는 24일 공식 입장문을 통해 "최근 대하드라마  '태종 이방원' 촬영 과정에서 불미스러운 사고가 발생했다. KBS는 드라마 촬영에 투입된 동물의 생명을 보호하지 못한 책임을 통감하며, 시청자 여러분과 국민께 다시 한 번 깊이]]></content>
     </entry>
 </feed>
