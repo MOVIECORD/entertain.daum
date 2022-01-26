@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-01-26T13:14:50.720Z</updated>
+    <updated>2022-01-26T14:11:09.395Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['공작도시' 이이담, 수애 子서우진 출생 증명서 확인..비밀 알았다]]></title>
+        <id>https://entertain.v.daum.net/v/20220126230629904</id>
+        <link href="https://entertain.v.daum.net/v/20220126230629904"/>
+        <updated>2022-01-26T14:10:55.645Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 오진주 인턴기자] /사진=JTBC '공작도시' 방송화면 '공작도시'에서 이이담이 자신의 자식이 서우진임을 알게 됐다. 26일 오후 방송된 JTBC 수목드라마 '공작도시'에서 김이설(이이담 분)이 정현우(서우진 분)의 출생 증명서를 보고 경악했다. 이날 방송에서 김이설은 아이를 출산했던 당시를 떠올렸다. 아이를 낳았던 시간과 몸무게, 산부인과]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['지금 우리 학교는' 또 좀비? K고딩과 만나면 다르다]]></title>
         <id>https://entertain.v.daum.net/v/20220126220506413</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220126175300486"/>
         <updated>2022-01-26T09:12:04.118Z</updated>
         <content type="html"><![CDATA[[TV리포트=이혜미 기자] 배우 김지영이 드라마 ‘링크 : 먹고 사랑하라, 죽이게’의 출연을 확정지었다. 소속사 에스에이치미디어코프 측은 “배우 김지영이 tvN 드라마 ‘링크:먹고 사랑하라, 죽이게’(이하 '링크‘) 출연을 확정지었다”며 “극 중 문가영의 모 홍복희 역을 맡아 열연을 펼칠 예정이다” 라고 전했다. ‘링크’는 어느 날 갑자기 한 여자의 감정을]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['그 해 우리는' 안동구, 빛나는 원석 발견.."아름답고 소중한 작품"]]></title>
-        <id>https://entertain.v.daum.net/v/20220126175256485</id>
-        <link href="https://entertain.v.daum.net/v/20220126175256485"/>
-        <updated>2022-01-26T09:12:04.120Z</updated>
-        <content type="html"><![CDATA[[OSEN=김보라 기자]&nbsp;빛나는 원석의 발견이다. 드라마 ‘그 해 우리는’에서 통통 튀는 열연으로 시청자의 마음을 사로잡은 신인배우 안동구가 마지막까지 극을 풍성하게 채우며&nbsp;‘원석 신예’의 발견을 알렸다. 지난 25일&nbsp;16부를 끝으로 종영을 맞은&nbsp;SBS&nbsp;월화드라마&nbsp;‘그 해 우리는’(극본 이나은, 연출 김윤진)에서 안동구는 최웅(최우식 분)에게 언제나 든]]></content>
     </entry>
 </feed>
