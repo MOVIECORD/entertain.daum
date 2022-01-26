@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2022-01-26T18:13:44.412Z</updated>
+    <updated>2022-01-26T19:10:02.867Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['콩고왕자' 조나단, '광주 조씨' 된다.."한국 귀화 결정, 군대도 가고파"]]></title>
+        <id>https://entertain.v.daum.net/v/20220127040230310</id>
+        <link href="https://entertain.v.daum.net/v/20220127040230310"/>
+        <updated>2022-01-26T19:09:56.192Z</updated>
+        <content type="html"><![CDATA[[OSEN=김나연 기자] '콩고 왕자' 조나단 욤비가 한국 귀화 결정 사실을 알렸다. 27일 조나단은 자신의 유튜브 채널을 통해 라이브 방송을 진행했다. 이날 그는 "어느새 조나단 채널 구독자가 40만이다. 대박이다. 저저번달에 26만 돼서 감사인사한게 엊그제 같은데 이렇게 짧은 시간에 많은 관심과 사랑을 주셔서 제가 언제 라이브를 할까 하다가 오늘 하]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[바라는 거 없어요, 웃다 가세요]]></title>
+        <id>https://entertain.v.daum.net/v/20220127040020303</id>
+        <link href="https://entertain.v.daum.net/v/20220127040020303"/>
+        <updated>2022-01-26T19:09:56.194Z</updated>
+        <content type="html"><![CDATA[[서울=뉴시스] 손정빈 기자 = 1월 4주차 개봉 영화 및 최신 영화에 대한 간단평을 300자 분량으로 정리했다. 가장 어려운 미션…해적:도깨비 깃발(1월26일 개봉) '해적:도깨비 깃발'에 대한 가장 생산적이지 못한 비판은 이런 것들이다. 어디서 많이 본 캐릭터가 나온다거나 스토리에 개연성이 크게 부족하다거나 액션 장면 역시 평범한 수준이라는 지적]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['좋좋소' 시즌4도 '여전한 인기']]></title>
         <id>https://entertain.v.daum.net/v/20220127023139966</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220126235822202"/>
         <updated>2022-01-26T15:13:18.723Z</updated>
         <content type="html"><![CDATA[(서울=뉴스1) 박하나 기자 = '라디오스타'에 배우 이준호, 이세영, 장혜진, 오대환, 강훈, 이민지가 출격했다. 26일 오후 방송된 MBC 예능 프로그램 '라디오스타'에서는 '우리 궁으로 가자!' 특집으로 꾸며져 드라마 '옷소매 붉은 끝동'(이하 '옷소매')의 주역 이준호 이세영 장혜진 오대환 강훈 이민지가 출연해 입담을 뽐냈다. 이준호는 '옷소매']]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['라스' 이준호 "목욕씬, 덜 노골적이라 아쉬워"]]></title>
-        <id>https://entertain.v.daum.net/v/20220126233901119</id>
-        <link href="https://entertain.v.daum.net/v/20220126233901119"/>
-        <updated>2022-01-26T15:13:18.724Z</updated>
-        <content type="html"><![CDATA[이준호가 목욕씬에 대한 아쉬움을 드러냈다. 26일 방송된 MBC '라디오스타'에서는 최고 시청률 17.4%로 목표 시청률을 달성, 시청률 공약을 달성하러 온 '옷 소매 붉은 끝동' 배우진이 출연했다. 2PM 이준호, 배우 이세영, 배우 장혜진, 배우 오대환, 배우 강훈, 배우 이민지가 등장했다. 이준호는 목욕 씬을 빨리 찍고 싶었다고 밝혀 기대를 모았다]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['라디오스타' 김구라 "이세영, 방송에 진심인 친구"]]></title>
-        <id>https://entertain.v.daum.net/v/20220126233806117</id>
-        <link href="https://entertain.v.daum.net/v/20220126233806117"/>
-        <updated>2022-01-26T15:13:18.726Z</updated>
-        <content type="html"><![CDATA[[티브이데일리 이기은 기자] '라디오스타' 김구라가 이세영 진정성을 칭찬했다. 26일 밤 방송된 MBC 예능프로그램 '라디오스타'에서는 배우 이세영 토크가 공개됐다. 이세영은 최근 ‘대박’이 난 ‘옷소매 붉은 끝동’ 주연 배우로 활약하며 대세가 됐다. 그는 2012년 아역 특집 편에 출연했다며 “김구라 씨와는 ‘심야괴담회’에서 뵌 적이 있다”라고 말했다.]]></content>
     </entry>
 </feed>
