@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2022-01-27T18:14:45.775Z</updated>
+    <updated>2022-01-27T19:09:18.998Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[나혜미 눈감아..에릭 "오직♥가인만을"→한가인 "너무 싫어" 폭소]]></title>
+        <id>https://entertain.v.daum.net/v/20220128034836463</id>
+        <link href="https://entertain.v.daum.net/v/20220128034836463"/>
+        <updated>2022-01-27T19:09:13.035Z</updated>
+        <content type="html"><![CDATA[[OSEN=김수형 기자] ‘문명 특급’에서 한가인이 에릭과 과거 영상에 충격을 받은 리액션으로 웃음을 안겼다.&nbsp; 27일, 유튜브 채널 ‘문명특급’에서 ‘“답답허네" 연정훈이 찍어준 사진 다 맘에 안 든다는 한가인ㅋㅋㅋㅋ 아니 그동안 어떻게 참고 살았대요? (그만큼 은은한 광기가 있다는 뜻)’란 제목으로 영상이 게재됐다. 이날 ‘문명특급’은 “한가인 씨]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['꼬꼬무' 대한민국의 역사를 바꾼 사진 한 장..김주열 열사와 4.19 혁명]]></title>
         <id>https://entertain.v.daum.net/v/20220128023900145</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220128000732352"/>
         <updated>2022-01-27T15:11:34.777Z</updated>
         <content type="html"><![CDATA[(엑스포츠뉴스 이창규 기자) '도시어부3' 제작진이 출연진들을 상대로 초반부터 기선제압에 성공한 가운데, 박 프로가 에이스로 나섰다. 27일 방송된 채널A '나만 믿고 따라와 - 도시어부3'(도시어부3)에서는&nbsp;출연진이 제작진과 함께 붕어 낚시 대결에 나서는 모습이 그려졌다. 이날 제작진은 '제2회 막상막하 낚시 대전'을 앞두고 출연자들의 내기 제안에 대]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['꼬꼬무' 나라를 바꾼 김주열 열사 사망사건..마산 3·15 의거→4·19혁명 소개]]></title>
-        <id>https://entertain.v.daum.net/v/20220128000606327</id>
-        <link href="https://entertain.v.daum.net/v/20220128000606327"/>
-        <updated>2022-01-27T15:11:34.780Z</updated>
-        <content type="html"><![CDATA[김주열 열사의 최루탄 사망사건을 시작으로 지금의 대한민국이 있게 된 역사 이야기가 공개됐다. 이날 게스트로 등장한 이현이와 유주는 연신 눈물을 훔치며 참혹한 희생의 역사에 공감했다. 27일 방송된 SBS '꼬리에 꼬리를 무는 그날 이야기'(이하 '꼬꼬무')는 '나를 찾아줘, 1960 되살아온 아이' 편으로 꾸며졌다. 배우 진선규, 모델 이현이, 가수 유]]></content>
     </entry>
 </feed>
