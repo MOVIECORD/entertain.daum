@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2022-01-27T17:14:48.142Z</updated>
+    <updated>2022-01-27T18:14:45.775Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['꼬꼬무' 대한민국의 역사를 바꾼 사진 한 장..김주열 열사와 4.19 혁명]]></title>
+        <id>https://entertain.v.daum.net/v/20220128023900145</id>
+        <link href="https://entertain.v.daum.net/v/20220128023900145"/>
+        <updated>2022-01-27T18:14:40.037Z</updated>
+        <content type="html"><![CDATA[[SBS연예뉴스 | 김효정 에디터] 세상을 바꾼 한 장의 사진에 관한 이야기가 공개됐다. 27일 방송된 SBS '꼬리에 꼬리를 무는 그날 이야기'(이하 '꼬꼬무')에서는 '나를 찾아줘 - 1960 되살아온 아이'라는 부제로 3.15 마산 의거와 김주열 열사를 조명했다. 남원에 살고 있는 17세 김주열 군은 마산상고 입학시험을 위해 두 살 위의 형과 함께 3]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[일주일 새 확진자만 24명..가요계 코로나19 빨간불]]></title>
         <id>https://entertain.v.daum.net/v/20220128020016076</id>
@@ -87,7 +94,7 @@
         <id>https://entertain.v.daum.net/v/20220128000906369</id>
         <link href="https://entertain.v.daum.net/v/20220128000906369"/>
         <updated>2022-01-27T15:11:34.775Z</updated>
-        <content type="html"><![CDATA[[마이데일리 = 정지현 기자] 배우 강석우가 백신 부작용으로 라디오 DJ에서 하차했다. 강석우는 27일 방송된 CBS 음악FM '아름다운 당신에게 강석우입니다'에서 DJ 활동 중단 소식을 전했다. 이날 방송에서 강석우는 최근 코로나19 3차 백신 접종 이후 한쪽 눈 시력이 점점 안 좋아졌고, 이로 인해 모니터 화면의 글자를 읽기 힘들어 방송 중단을 결정하]]></content>
+        <content type="html"><![CDATA[[마이데일리 = 정지현 기자] 배우 강석우가 백신 부작용으로 라디오 DJ에서 하차했다. 강석우는 27일 방송된 CBS 음악FM '강석우의 아름다운 당신에게'에서 DJ 활동 중단 소식을 전했다. 이날 방송에서 강석우는 최근 코로나19 3차 백신 접종 이후 한쪽 눈 시력이 점점 안 좋아졌고, 이로 인해 모니터 화면의 글자를 읽기 힘들어 방송 중단을 결정하게]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[박 프로, 이경규 구박 수모→36.5cm 최대어 낚시 '반전']]></title>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220128000606327"/>
         <updated>2022-01-27T15:11:34.780Z</updated>
         <content type="html"><![CDATA[김주열 열사의 최루탄 사망사건을 시작으로 지금의 대한민국이 있게 된 역사 이야기가 공개됐다. 이날 게스트로 등장한 이현이와 유주는 연신 눈물을 훔치며 참혹한 희생의 역사에 공감했다. 27일 방송된 SBS '꼬리에 꼬리를 무는 그날 이야기'(이하 '꼬꼬무')는 '나를 찾아줘, 1960 되살아온 아이' 편으로 꾸며졌다. 배우 진선규, 모델 이현이, 가수 유]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['국민가수' 이병찬, 실력으로 서열 정리 完.."형이라 불러"]]></title>
-        <id>https://entertain.v.daum.net/v/20220128000130193</id>
-        <link href="https://entertain.v.daum.net/v/20220128000130193"/>
-        <updated>2022-01-27T15:11:34.781Z</updated>
-        <content type="html"><![CDATA[[TV리포트=김은정 기자] 이병찬이 실력으로 서열 정리를 완수했다. 27일 오후 방송된 TV조선 '내일은 국민가수 올스타전'에서는 막내라인 이병찬이 김희석과의 서열을 정리했다. 이날 천생연분 팀(백지영 팀장) 이병찬은 슈퍼맨 팀(김범수 팀장) 김희석과 대결을 펼쳤다. 25살 동갑인 두 사람. 하지만 이병찬은 "같은 98년생이라 반말을 하고 있는데 제가 빠른]]></content>
     </entry>
 </feed>
