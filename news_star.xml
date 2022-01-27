@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2022-01-27T16:16:22.551Z</updated>
+    <updated>2022-01-27T17:14:48.142Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[일주일 새 확진자만 24명..가요계 코로나19 빨간불]]></title>
+        <id>https://entertain.v.daum.net/v/20220128020016076</id>
+        <link href="https://entertain.v.daum.net/v/20220128020016076"/>
+        <updated>2022-01-27T17:14:43.084Z</updated>
+        <content type="html"><![CDATA[기사내용 요약 더보이즈·트레저 멤버 등 27일에만 10명 확진 SF9 멤버 휘영·찬희는 방역 수칙 위반으로 구설 [서울=뉴시스]이재훈 기자 = 일일 확진자가 1만명을 넘어서는 등 코로나19 확산세가 다시 거세지면서 가요계에 또 빨간불이 켜졌다. 28일 대중음악계에 따르면 지난 20일부터 전날까지 약 일주일 새 가요계에 코로나 19 확진 판정을 받은 가]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['도시어부3' 1천만원 회식비 건 집안싸움, 96명 제작진 맹폭에 출연진 완패]]></title>
         <id>https://entertain.v.daum.net/v/20220128011249932</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220128000130193"/>
         <updated>2022-01-27T15:11:34.781Z</updated>
         <content type="html"><![CDATA[[TV리포트=김은정 기자] 이병찬이 실력으로 서열 정리를 완수했다. 27일 오후 방송된 TV조선 '내일은 국민가수 올스타전'에서는 막내라인 이병찬이 김희석과의 서열을 정리했다. 이날 천생연분 팀(백지영 팀장) 이병찬은 슈퍼맨 팀(김범수 팀장) 김희석과 대결을 펼쳤다. 25살 동갑인 두 사람. 하지만 이병찬은 "같은 98년생이라 반말을 하고 있는데 제가 빠른]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[재재, 돌+아이美 넘친 한가인에 "이 정도면 병원가야.."]]></title>
-        <id>https://entertain.v.daum.net/v/20220128000115189</id>
-        <link href="https://entertain.v.daum.net/v/20220128000115189"/>
-        <updated>2022-01-27T15:11:34.782Z</updated>
-        <content type="html"><![CDATA[[OSEN=김수형 기자] ‘문명 특급’에서 한가인이 재재도 놀랄 입담을 뽐냈다. 급기야 병원이 시급할 정도였다. 이 가운데 남편 연정훈도 언급해 눈길을 끌었다.&nbsp; 27일, 유튜브 채널 ‘문명특급’에서 ‘“답답허네" 연정훈이 찍어준 사진 다 맘에 안 든다는 한가인ㅋㅋㅋㅋ 아니 그동안 어떻게 참고 살았대요? (그만큼 은은한 광기가 있다는 뜻)’란 제목으로]]></content>
     </entry>
 </feed>
