@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2022-01-28T21:19:07.232Z</updated>
+    <updated>2022-01-28T22:10:51.078Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[팝스타 카디비, 악성 유튜버 참교육..50억 벌금 폭탄]]></title>
+        <id>https://entertain.v.daum.net/v/20220129063006925</id>
+        <link href="https://entertain.v.daum.net/v/20220129063006925"/>
+        <updated>2022-01-28T22:10:50.436Z</updated>
+        <content type="html"><![CDATA[래퍼 카디비. (사진=AP/뉴시스)[이데일리 스타in 김보영 기자] 이데일리가 한 주 간 쏟아진 팝가수 및 빌보드 이슈들을 모아 가볍게 읽을 수 있는 요약 코너를 준비했습니다. 매 주말 핫한 주간 팝소식을 선정해 소개합니다. 세계적인 팝스타 래퍼 카디비(Cardi B)에 대한 악의적인 루머를 퍼뜨린 유튜버가 그 대가로 약 50억 원에 달하는 벌금 폭탄을]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[니콜라스 케이지 "'30세 연하' 日아내 가장 소중..4번 결혼 많긴해"]]></title>
         <id>https://entertain.v.daum.net/v/20220129045103154</id>
