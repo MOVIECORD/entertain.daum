@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2022-01-28T04:14:41.731Z</updated>
+    <updated>2022-01-28T05:11:12.210Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[레아 세이두→이자벨 위페르, 故 가스파르 울리엘 장례식 참석]]></title>
+        <id>https://entertain.v.daum.net/v/20220128135000190</id>
+        <link href="https://entertain.v.daum.net/v/20220128135000190"/>
+        <updated>2022-01-28T05:11:11.546Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 이창규 기자) 스키 사고로 세상을 떠난 프랑스 출신 배우 가스파르 울리엘(37)의 장례식이 치러졌다. 다수의 외신에 따르면 27일(현지시간) 프랑스 파리의 생 퇴스타슈 성당에서 가스파르 울리엘의 장례식이 치러졌다. 이날 현장에는 배우 레아 세이두, 까뜨린느 드뇌브, 이자벨 위페르 등을 비롯해&nbsp;티에리 프리모 칸 영화제 위원장 등이 참석했]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["23살 연하 가수와 열애설" 브래드 피트, 2년 동안 만난적도 없어]]></title>
         <id>https://entertain.v.daum.net/v/20220128111055109</id>
@@ -60,12 +67,5 @@
         <link href="https://entertain.v.daum.net/v/20220127182342575"/>
         <updated>2022-01-27T10:12:11.675Z</updated>
         <content type="html"><![CDATA[[OSEN=최나영 기자] '미디어의 제왕'이라 불리는 미국 유명 방송인 하워드 스턴이 신종 코로나바이러스 감염증(코로나19)으로 사망한 록가수 미트 로프에 대해 맹비난했다. 페이지식스의&nbsp;26일(현지시간) 보도에 따르면 스턴은 최근 UPROXX에 로프의 가족이 코로나19 백신에 대해 공개적으로 말하기를 원하며, 작고한 로프가 생전 '사이비'에 빠졌다고 언]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[브래드 피트, 23세 연하 가수 리케 리와 열애설.."집 3분 거리"]]></title>
-        <id>https://entertain.v.daum.net/v/20220127141111926</id>
-        <link href="https://entertain.v.daum.net/v/20220127141111926"/>
-        <updated>2022-01-27T05:11:28.455Z</updated>
-        <content type="html"><![CDATA[[OSEN=최나영 기자] 할리우드 배우 브래드 피트(58)가&nbsp;스웨덴 가수 리케 리(35)와 열애설에 휘말렸다고&nbsp;데일리메일이&nbsp;26일(현지시간) 전했다. 보도에 따르면 두 사람은&nbsp;사진이 찍히지 않았음에도 불구하고 비밀리에 열애 중이라는 루머가 나돌기 시작했다. 두 사람이 '그냥 친구'라고 주장한 SNS&nbsp;인기 가십 페이지 듀스모이(Deuxmoi)에 의해 열애]]></content>
     </entry>
 </feed>
