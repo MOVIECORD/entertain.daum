@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2022-01-28T17:14:06.647Z</updated>
+    <updated>2022-01-28T18:13:04.011Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['더솔져스' 알파, 브라보 꺾고 '국가대표 특수요원'으로 발탁.."더 성장한 모습 보일 것"]]></title>
+        <id>https://entertain.v.daum.net/v/20220129022100787</id>
+        <link href="https://entertain.v.daum.net/v/20220129022100787"/>
+        <updated>2022-01-28T18:12:58.567Z</updated>
+        <content type="html"><![CDATA[[SBS연예뉴스 | 김효정 에디터] 알파가 국가대표 특수요원으로 선발됐다. 28일 방송된 SBS '더솔져스'에서는 최종 파이널 미션 배틀필드가 진행됐다. 이날 알파와 브라보는 각각 첫 번째 스폿에 도착해 비밀번호 한 자리를 획득했다. 이후 두 팀은 서로 다른 전략으로 움직였다. 알파는 추부연과 이창준이 첫 번째 스폿 근처에서 브라보를 기다리며 매복했다. 그]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SF9 재윤, "첫 도전 연극 무대, 말로 형용할 수 없는 감정"]]></title>
         <id>https://entertain.v.daum.net/v/20220129010708664</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220129000018233"/>
         <updated>2022-01-28T15:11:57.060Z</updated>
         <content type="html"><![CDATA['원더' '기적' '완벽한 가족이 되는 법' [더팩트ㅣ이한림 기자] 가족과 한 데 모여 정을 나누는 명절이 다가왔다. 그러나 여러 이유로 인해 명절에도 홀로 시간을 보내는 사람들은 가족이 그립기만 하다. 코로나19 여파로 모임이나 여행 등도 자제하는 분위기다. 집에서 혼자 시간을 보내야만 하는 명절 '집콕족'을 위해 현재 OTT 플랫폼에서 만날 수 있]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["나 혼자 본다"..집콕족 위한 '꿀잼' 리스트]]></title>
-        <id>https://entertain.v.daum.net/v/20220129000014231</id>
-        <link href="https://entertain.v.daum.net/v/20220129000014231"/>
-        <updated>2022-01-28T15:11:57.060Z</updated>
-        <content type="html"><![CDATA[다양한 OTT 플랫폼, "설연휴 골라보는 재미가 있다" [더팩트｜원세나 기자] 2022년 설날의 풍경은 여느 때와 다를 것으로 전망됩니다. 신종 코로나바이러스 감염증(이하 코로나19) 확산 예방을 위해 지역 간 이동을 자제하는 분위기로, 전국에서 모여든 가족이 함께 차례를 지내고 세배와 덕담을 나누기보다는 각자의 공간에서 명절을 보내는 이들이 많을 것]]></content>
     </entry>
 </feed>
