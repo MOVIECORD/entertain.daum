@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2022-01-29T18:16:57.016Z</updated>
+    <updated>2022-01-29T19:10:58.211Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['그알' 막대기 살인사건 피의자 지인, "살인할 줄 알았다"..피의자의 '상습적 주취 폭력' 주목]]></title>
+        <id>https://entertain.v.daum.net/v/20220130040300301</id>
+        <link href="https://entertain.v.daum.net/v/20220130040300301"/>
+        <updated>2022-01-29T19:10:52.886Z</updated>
+        <content type="html"><![CDATA[[SBS연예뉴스 | 김효정 에디터] 막대기 살인사건의 범인, 그는 왜 살인을 했나? 29일 방송된 SBS '그것이 알고싶다'(이하 '그알')에서는 '악마의 이상한 선택 - 막대기 살인사건 미스터리'라는 부제로 지난 연말 벌어진 막대기 살인사건을 조명했다. 지난해 12월 30일 고재형 씨는 연휴를 앞두고 일하던 스포츠 센터의 연말 회식에 참석했다. 그런데 그]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['트레이서' 임시완, 父 살해 진범 손현주 알아냈다]]></title>
         <id>https://entertain.v.daum.net/v/20220130011911100</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220130000008865"/>
         <updated>2022-01-29T15:10:51.561Z</updated>
         <content type="html"><![CDATA['옷소매' 특집→한가인 첫 고정 예능 '써클 하우스'까지, 풍성한 설 특집 [더팩트ㅣ김샛별 기자] 2022년 첫 명절이자 연휴인 설이 시작됐다. 이번 설은 토, 일요일 주말이 포함돼 최대 5일의 장기간 이어진다. 코로나바이러스감염증-19(코로나19)로 인해 외출하기도 어려워진 최근, 방송가들은 시청자들의 마음을 사로잡기 위한 다채로운 프로그램을 준비]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['전참시' 지석진 "꼰대? 나라고 생각한 적 단 한 번도 없다"]]></title>
-        <id>https://entertain.v.daum.net/v/20220129235729854</id>
-        <link href="https://entertain.v.daum.net/v/20220129235729854"/>
-        <updated>2022-01-29T15:10:51.563Z</updated>
-        <content type="html"><![CDATA[‘전지적 참견 시점’ 지석진이 꼰대 이미지에 대해 언급했다. 29일 오후 방송된 MBC 예능프로그램 ‘전지적 참견 시점’(기획 박정규 / 연출 노시용, 윤혜진) 187회에는 뷰티계의 톱클래스 정샘물과 개그맨 지석진, 김수용이 출연했다. 양세형은 “10년 전부터 꼰댁 되지 않겠다 다짐했다고 하던데”라고 지석진에게 물었다. 지석진은 “내가 물어봤다. 재석이]]></content>
     </entry>
 </feed>
