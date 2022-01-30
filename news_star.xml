@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2022-01-30T07:11:13.507Z</updated>
+    <updated>2022-01-30T08:14:00.622Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['아무튼 출근' 이소연, 학폭 폭로자 '사실적시' 고소?..자충수 비판 ing]]></title>
+        <id>https://entertain.v.daum.net/v/20220130164222542</id>
+        <link href="https://entertain.v.daum.net/v/20220130164222542"/>
+        <updated>2022-01-30T08:13:55.443Z</updated>
+        <content type="html"><![CDATA[[OSEN=연휘선 기자] '아무튼 출근'에 출연했던 인플루언서 이소연이 학교 폭력 의혹을 폭로한 A 씨를 고소했다.&nbsp;'사실 적시에 의한 명예훼손'으로 약식 기소 처분을 받은 일이 알려지며 다시금 여론의 비판을 받고 있다.&nbsp; 30일 각종 온라인 커뮤니티와 유튜브 등을 중심으로 이소연이 고소한 학교 폭력 의혹 폭로자 A 씨가 검찰로부터 사실적시에 의한 명예]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[드리핀 차준호, 코로나19 자가키트 양성..'인기가요' 불참]]></title>
         <id>https://entertain.v.daum.net/v/20220130160744107</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220130135216694"/>
         <updated>2022-01-30T05:09:49.025Z</updated>
         <content type="html"><![CDATA[[스포츠조선닷컴 정안지 기자]그룹 비비지(VIVIZ) 멤버 은하가 코로나19 확진 판정을 받았다. 소속사 빅플래닛메이트엔터는 30일 공식입장을 통해 "29일 추가로 진행된 코로나19 PCR 검사에서 비비지 멤버 은하가 확진 판정을 받았다"고 밝혔다. 은하는 코로나 19 확진을 받은 스태프와 접촉하여 진행한 PCR검사에서 음성판정을 받았지만,]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['너목보9' 첫방송, 업그레이드된 구성과 한층 진화한 미스터리 싱어들까지]]></title>
-        <id>https://entertain.v.daum.net/v/20220130134526631</id>
-        <link href="https://entertain.v.daum.net/v/20220130134526631"/>
-        <updated>2022-01-30T05:09:49.025Z</updated>
-        <content type="html"><![CDATA[[헤럴드경제 = 서병기 선임기자]Mnet ‘너의 목소리가 보여9(이하 ‘너목보9’)’가 업그레이드된 재미와 가슴을 울리는 감동으로 돌아왔다. ‘너목보9’ 1회 방송은 종편과 케이블을 통합한 유료방송 플랫폼 기준 동시간대 2049 남녀 시청률 1위를 달성했고, 음치 바이올리니스트 코리아 리의 진실의 무대는 최고 시청률 3.05%를 기록하며 새로운 시즌의 성공]]></content>
     </entry>
 </feed>
