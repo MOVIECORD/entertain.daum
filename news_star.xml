@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2022-01-31T05:10:38.853Z</updated>
+    <updated>2022-01-31T06:13:36.857Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['판타스틱패밀리' 이수근,아이돌 연습생 첫째 아들과 댄스 듀엣 무대 공개]]></title>
+        <id>https://entertain.v.daum.net/v/20220131142612547</id>
+        <link href="https://entertain.v.daum.net/v/20220131142612547"/>
+        <updated>2022-01-31T06:13:31.704Z</updated>
+        <content type="html"><![CDATA[[스포츠투데이 백지연 기자] ‘레전드 무대’를 탄생시켰던 SBS 음악 예능 '판타스틱 듀오'를 잇는 새로운 판타스틱 시리즈인 ‘판타스틱 패밀리-DNA싱어’가 설 연휴 2월 1일(화) 밤 8시 20분에 첫 공개된다. '판타스틱 패밀리-DNA 싱어'는 스타의 가족이 'DNA싱어'가 되어 노래를 부르고, 어떤 스타의 가족인지 추리하는 음악 추리 쇼로 연예계 각]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['자본주의학교' 현주엽 삼 부자, 한우 16인분 '순삭' 먹방]]></title>
         <id>https://entertain.v.daum.net/v/20220131140122230</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220131113307978"/>
         <updated>2022-01-31T03:11:27.522Z</updated>
         <content type="html"><![CDATA[[뉴스엔 김명미 기자] ‘레전드 무대’를 탄생시켰던 SBS 음악 예능 '판타스틱 듀오'를 잇는 새로운 판타스틱 시리즈인 ‘판타스틱 패밀리-DNA싱어’가 설 연휴 첫 공개된다. 2월 1일 오후 8시 20분 방송되는 ‘판타스틱 패밀리-DNA 싱어’는 스타의 가족이 'DNA싱어'가 되어 노래를 부르고, 어떤 스타의 가족인지 추리하는 음악 추리 쇼로 연예계 각]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박명수, 일매출 300만원 떡집 운영 청취자에 "아이고 배아파" 농담]]></title>
-        <id>https://entertain.v.daum.net/v/20220131113255968</id>
-        <link href="https://entertain.v.daum.net/v/20220131113255968"/>
-        <updated>2022-01-31T03:11:27.524Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 박은해 기자] 박명수가 연휴에도 열일 중인 청취자들과 이야기를 나눴다. 1월 31일 방송된 KBS 쿨FM '박명수의 라디오쇼'에서는 설특집 '5일간의 음악여행' 코너가 이어졌다. 이날 떡집 사장님과 전화 연결한 DJ 박명수는 "리포터로서 숨기면 안 됩니다. 솔직하게 말씀하셔야지. 오늘 실제 매출 얼마 예상하십니까?"라고 장난스럽게 물었다. 사장님]]></content>
     </entry>
 </feed>
