@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2022-01-31T16:15:51.565Z</updated>
+    <updated>2022-01-31T17:11:45.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['동상이몽2' 안창환♥장희정, 열혈사제 팸 위해 '아로마 테라피→필라테스 레슨']]></title>
+        <id>https://entertain.v.daum.net/v/20220201015400227</id>
+        <link href="https://entertain.v.daum.net/v/20220201015400227"/>
+        <updated>2022-01-31T17:11:38.183Z</updated>
+        <content type="html"><![CDATA[[SBS연예뉴스 | 김효정 에디터] 장희정이 집을 찾은 손님들을 위한 특별 서비스(?)를 선보였다. 31일 방송된 SBS '동상이몽 시즌2-너는 내 운명'(이하 '동상이몽2')에서는 안창환 장희정 부부의 일상이 공개됐다. 이날 안창환 장희정은 반가운 손님을 맞았다. 드라마 '열혈사제'에서 안창환과 찰떡 케미를 선보였던 정영주와 고규필이 그 주인공. 두 사람]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['옷소매 부여잡고' 이준호 목욕신 비화→이덕화 "이준호·이세영 연기, 진실성 느껴"]]></title>
         <id>https://entertain.v.daum.net/v/20220201010001076</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220131235323793"/>
         <updated>2022-01-31T15:11:22.251Z</updated>
         <content type="html"><![CDATA[[티브이데일리 황서연 기자] 가수 故 신해철 아내와 아이들이 '자본주의학교'에 출연한 이유를 밝혔다. 31일 저녁 방송한 설 파일럿 예능프로그램 KBS2 '자본주의학교'에서는 자본주의학교에 입학한 故 신해철, 윤원희 부부의 딸, 아들 모습이 공개됐다. 이날 홍진경은 "낯선 사람이 한 명 있을 것이다. 故 신해철의 아내다"라며 윤원희를 소개했다. 앞서 故 신]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['옷소매 부여잡고' 준호 "정조 이산, 실제 나와 닮아"]]></title>
-        <id>https://entertain.v.daum.net/v/20220131234800778</id>
-        <link href="https://entertain.v.daum.net/v/20220131234800778"/>
-        <updated>2022-01-31T15:11:22.254Z</updated>
-        <content type="html"><![CDATA[이준호가 드라마 속 정조 이산의 모습이 자신과 닮은 면이 있다고 말했다. 31일 밤 방송된 MBC 설 특집 프로그램 '옷소매 붉은 끝동 부여잡고'에서는 출연 배우들의 비하인드 토크가 전파를 탔다. '옷소매 붉은 끝동 부여잡고'는 지난 1일 종영한 MBC 드라마 '옷소매 붉은 끝동'의 스페셜 방송이다. MC장윤정은 "솔직히 너무나 다들 멋지셨지만, (이덕]]></content>
     </entry>
 </feed>
