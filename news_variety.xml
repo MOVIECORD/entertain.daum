@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/variety</id>
     <title>다음 연예 ─ 뉴스 ─ 예능</title>
-    <updated>2022-01-31T03:12:01.408Z</updated>
+    <updated>2022-01-31T04:14:50.861Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['피는 못 속여' 이형택 김병현vs미나 민주, 스크린 골프 대결 승자는]]></title>
+        <id>https://entertain.v.daum.net/v/20220131130832769</id>
+        <link href="https://entertain.v.daum.net/v/20220131130832769"/>
+        <updated>2022-01-31T04:14:12.287Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 김명미 기자] 이형택 김병현과 미나 민주가 아빠 팀과 딸 팀으로 나눠 ‘흥미진진’ 스크린 골프 대결을 펼친다. 1월 31일 오후 9시 50분 방송되는 채널A ‘슈퍼 DNA 피는 못 속여’(이하 ‘피는 못 속여’) 4회에서는 ‘골프여제’ 김미현에게 ‘일일 레슨’을 받은 12세 동갑내기 ‘체육소녀’ 미나X민주가 ‘스포츠 대디’ 이형택X김병현을 상대로]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['주접이 풍년', 송가인·임영웅 주접단이 재미 입증..정규 기대↑]]></title>
         <id>https://entertain.v.daum.net/v/20220131120001232</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220131103416273"/>
         <updated>2022-01-31T01:52:28.286Z</updated>
         <content type="html"><![CDATA[[뉴스엔 박수인 기자] 아역배우 박민하네 4남매가 '호적메이트'에 뜬다. 2월 1일 방송되는 MBC 예능프로그램 '호적메이트'(기획 최윤정, 연출 이경원, 이준범) 5회에서는 박민하 4남매가 출연, 역대급 다둥이 케미스트리를 과시한다. 아역배우 박민하네 4남매가 '호적메이트'를 찾는다. 방송인 박찬민의 셋째 딸인 박민하는 지난 2011년 5살 나이에 아역]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['자본주의학교' 정동원, 끈적한 음악 틀고 면도 "중2병 같아"]]></title>
-        <id>https://entertain.v.daum.net/v/20220131103309261</id>
-        <link href="https://entertain.v.daum.net/v/20220131103309261"/>
-        <updated>2022-01-31T01:52:28.287Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 김명미 기자] ‘자본주의학교’ 정동원의 피부 관리 비법이 공개된다. 진짜 경제 교육을 예고한 KBS 2TV ‘자본주의학교’가 1월 31일 베일을 벗는다. ‘자본주의학교’는 경제 교육이 필수인 시대, 10대들의 기상천외한 경제생활을 관찰하고 자본주의 생존법을 알려주며 이를 통해 발생한 수익금을 기부하는 과정까지 담는 신개념 경제 관찰 예능이다. 홍]]></content>
     </entry>
 </feed>
