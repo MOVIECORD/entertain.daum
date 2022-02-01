@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-02-01T07:11:27.002Z</updated>
+    <updated>2022-02-01T08:13:53.320Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[손미나, 故 허참 비보에 애도.."허망함에 하염없이 눈물만"]]></title>
+        <id>https://entertain.v.daum.net/v/20220201171119996</id>
+        <link href="https://entertain.v.daum.net/v/20220201171119996"/>
+        <updated>2022-02-01T08:13:37.973Z</updated>
+        <content type="html"><![CDATA[(사진=손미나 인스타그램)[이데일리 스타in 김보영 기자] 아나운서 출신 방송인이자 여행 전문 작가인 손미나가 고(故)허참의 사망 소식에 슬픔을 드러냈다. 손미나는 1일 자신의 인스타그램에 고인이 살아있을 당시 함께 찍은 셀카 사진과 함께 장문의 애도글을 게재했다. 손미나는 “너무나 당혹스럽고 슬픈 마움 가눌 길이 없다”고 탄식하며 “얼마 전 함께 방송]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[드리핀, 이협·차준호→황윤성·주창욱까지 4명 확진]]></title>
         <id>https://entertain.v.daum.net/v/20220201160518181</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220201095041095"/>
         <updated>2022-02-01T01:57:50.271Z</updated>
         <content type="html"><![CDATA[(사진=KBS2 ‘자본주의학교’)[이데일리 스타in 김보영 기자]KBS2 예능 ‘자본주의학교’가 첫 방송부터 제대로 터졌다. 지난 31일 첫 방송한 ‘자본주의학교’는 경제교육이 필수가 된 시대, 10대들의 기상천외한 경제생활을 관찰하고 자본주의 생존법을 알려주며 이를 통해 발생한 수익금을 기부하는 과정까지 담은 신개념 경제 관찰 예능이다. 베일을 벗은 ‘]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['라스' 이준호, '우리궁' 전격 개장..잊산→'이폭스'로 변신 예고]]></title>
-        <id>https://entertain.v.daum.net/v/20220201093926970</id>
-        <link href="https://entertain.v.daum.net/v/20220201093926970"/>
-        <updated>2022-02-01T00:40:45.779Z</updated>
-        <content type="html"><![CDATA[(사진=MBC ‘라디오스타’)[이데일리 스타in 김보영 기자] 내일(2일) 밤 방송될 ‘라디오스타’에서는 지난주 수요일 밤을 뜨겁게 달궜던 ‘옷소매 붉은 끝동’ 주역 6인의 예능 본색을 확인할 수 있다. 1탄보다 더 화끈하고, 웃음이 폭발하는 에피소드로 꽉 찬 ‘우리 궁으로 가자’ 특집 2탄을 선보일 예정이다. 특히 시청률 공약으로 사실상 이번 특집의]]></content>
     </entry>
 </feed>
