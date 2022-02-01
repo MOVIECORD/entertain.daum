@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2022-02-01T04:14:08.017Z</updated>
+    <updated>2022-02-01T05:11:05.860Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['라스' 이세영, 휴대폰 배경화면 '옷소매' 이준호로 지정했던 이유는?]]></title>
+        <id>https://entertain.v.daum.net/v/20220201140058800</id>
+        <link href="https://entertain.v.daum.net/v/20220201140058800"/>
+        <updated>2022-02-01T05:11:00.704Z</updated>
+        <content type="html"><![CDATA[‘라디오스타’ 이세영이 이준호의 얼굴을 휴대폰 배경화면으로 지정했던 이유를 고백한다. 오는 2일 오후 방송되는 MBC 예능프로그램 ‘라디오스타’(이하 ‘라스’)는 이준호, 이세영, 장혜진, 오대환, 강훈, 이민지와 함께하는 ‘우리 궁으로 가자’ 특집 2탄으로 꾸며진다. 이세영은 ‘옷소매 붉은 끝동’(이하 ‘옷소매’)에서 궁녀 성덕임을 연기했다. 말괄량이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[리누·하유비→MC하루, 임인년 새해인사 "호랑이 기운 대박나길"]]></title>
         <id>https://entertain.v.daum.net/v/20220201131332406</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220201112101399"/>
         <updated>2022-02-01T02:30:05.228Z</updated>
         <content type="html"><![CDATA[최근 몇년 사이 솔비(38)의 행보를 보면, 가수 겸 방송인을 통칭하는 '엔터테이너 솔비'에서 확실히 '화가 권지안'으로 무게중심이 이동했다. 이따금 출연하는 예능 프로그램에서 거침없이 솔직한 발언으로 사랑받던 명불허전 존재감은 여전하지만 솔비가 대중과 소통하는 방식은 작품을 통하는 일이 훨씬 많아졌다. 2012년 첫 개인전을 시작으로 화가의 길을 연 그]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이준호 곤룡포 입었다..이산 버전 '우리집' 커버 무대 최초 공개]]></title>
-        <id>https://entertain.v.daum.net/v/20220201111912370</id>
-        <link href="https://entertain.v.daum.net/v/20220201111912370"/>
-        <updated>2022-02-01T02:30:05.236Z</updated>
-        <content type="html"><![CDATA[(서울=뉴스1) 김민지 기자 = '라디오스타'에 총출동해 수요일 밤을 뜨겁게 달군 '옷소매 붉은 끝동' 주역 6인의 예능 본색이 드러난다. 1탄보다 더 화끈하고, 웃음이 폭발하는 에피소드로 꽉 찬 '우리 궁으로 가자' 특집 2탄이 준비된 것. 특히 이번 특집의 조물주 이준호는 시청률 공약으로 내걸었던 곤룡포 입고 추는 '우리집' 무대를 꾸며 시청자들을]]></content>
     </entry>
 </feed>
