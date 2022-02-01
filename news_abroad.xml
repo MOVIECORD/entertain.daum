@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2022-02-01T06:13:57.512Z</updated>
+    <updated>2022-02-01T07:11:27.011Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['워킹데드' 30대 배우 시신 발견, 타살 의혹]]></title>
+        <id>https://entertain.v.daum.net/v/20220201155806081</id>
+        <link href="https://entertain.v.daum.net/v/20220201155806081"/>
+        <updated>2022-02-01T07:11:26.413Z</updated>
+        <content type="html"><![CDATA[[티브이데일리 이기은 기자] 미국 유명 드라마 ‘워킹 데드’ 배우 모세 J. 모즐리 사망 소식이 전해졌다. 1월 31일(현지시각) 미국 연예매체 등은 모세 J. 모즐리가 사망했다고 보도했다. 향년 31세다. 고인의 시신은 지난 수요일 조지아에 있는 허드슨 다리 인근에서 발견됐다. 유족 측은 “지난 23일 이후로 모세 J. 모즐리에게 연락이 없었다. 수요일쯤]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['워킹데드' 배우 모즐리, 31세 사망..원인 조사 중]]></title>
         <id>https://entertain.v.daum.net/v/20220201143738206</id>
@@ -46,12 +53,5 @@
         <link href="https://entertain.v.daum.net/v/20220201060311946"/>
         <updated>2022-01-31T21:09:53.231Z</updated>
         <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]세계적 팝스타 리한나(33)가 임신했다. 연예매체 피플은 1월 31일(현지시간) 리한나가 1988년생 동갑내기 래퍼 에이셉 라키와의 사이에서 첫 아이 출산을 앞두고 있다고 보도했다. 리한나는 지난 주말 뉴욕에서 긴 분홍색 재킷을 입은 채 임신한 배를 드러낸 사진을 찍었다. 리한나는 오버사이즈 겉옷의 단추를 풀어 화려한 보석]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[범성욕주의자 카라 델레바인, 11살 연상 시에나 밀러와 키스 포착 "무슨 사이?"]]></title>
-        <id>https://entertain.v.daum.net/v/20220131153253146</id>
-        <link href="https://entertain.v.daum.net/v/20220131153253146"/>
-        <updated>2022-01-31T07:12:07.784Z</updated>
-        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]“친구 이상의 사이인가?” 영화 ‘수어사이트 스쿼드’에서 인챈트리스 역을 맡았던 모델 겸 배우 카라 델레바인(29)이 배우 시에나 밀러(40)와 키스하는 모습이 포착됐다. 연예매체 페이지식스는 30일(현지시간) 카라 델레바인과 절친인 시에나 밀러가 뉴욕 템플 바에서 키스하는 모습이 목격됐다고 전했다. 이들은 칵테일 라운지의]]></content>
     </entry>
 </feed>
