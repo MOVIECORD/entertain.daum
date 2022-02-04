@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2022-02-04T17:09:46.438Z</updated>
+    <updated>2022-02-04T18:13:35.239Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["잼잼이 동생 생겼어요" 문희준♥소율, 둘째 임신 발표]]></title>
+        <id>https://entertain.v.daum.net/v/20220205030301444</id>
+        <link href="https://entertain.v.daum.net/v/20220205030301444"/>
+        <updated>2022-02-04T18:13:29.561Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 이하나 기자] 문희준, 소율 부부가 두 아이의 부모가 된다. 2월 4일 문희준, 소율 부부가 운영하는 유튜브 채널 ‘재미하우스’에는 ‘잼잼이 동생이 생겼어요’라는 제목의 영상이 게재 됐다. 영상에서 문희준, 소율 부부의 딸 잼잼이(문희율)은 “제 동생이 생겼어요”라고 외치며 엄마의 임신 소식을 전했다. 소율은 “그렇게 바라던 희율이 동생이 생]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[차서원, 홈바 '남영관' 공개→이은지, 타지 첫 생일맞이]]></title>
         <id>https://entertain.v.daum.net/v/20220205012059189</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220204234804608"/>
         <updated>2022-02-04T15:10:23.375Z</updated>
         <content type="html"><![CDATA[[스포츠투데이 최혜진 기자] '나혼산' 차서원이 서울 상경한 지 11년 차라고 밝혔다. 4일 방송된 MBC 예능프로그램 '나 혼자 산다'(이하 '나혼산')에서는 배우 차서원이 출연해 일상을 공개했다. 이날 키는 차서원과의 친분을 과시했다. 키는 차서원이 등장하자 "뮤지컬 뒤풀이 술자리에서 동갑이라 친해졌다"고 말하며 반가움을 드러냈다. 이후 차서원의 일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[전현무, 2차 접종에도 확진..방송가 비상]]></title>
-        <id>https://entertain.v.daum.net/v/20220204233602464</id>
-        <link href="https://entertain.v.daum.net/v/20220204233602464"/>
-        <updated>2022-02-04T15:10:23.375Z</updated>
-        <content type="html"><![CDATA[방송인 전현무가 2차 백신 접종을 완료했지만 확진 판정을 받아 방송가가 비상이다. 전현무 소속사 측은 4일 전현무가 자가키트 검사에서 양성 반응을 보여 PCR 검사를 받았고 최종 확진이 됐다고 밝혔다. 출연 중인 프로그램만 6개라 방송가가 바짝 긴장한 상태다. 이에 따라 MBC '나 혼자 산다' 등 6개 프로그램 출연진과 제작진이 줄줄이 검사를 받]]></content>
     </entry>
 </feed>
