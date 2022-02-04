@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2022-02-04T20:10:27.798Z</updated>
+    <updated>2022-02-04T21:09:28.542Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["약혼녀 납치 폭행, 가석방 없는 징역 18년 선고" 유명 스타의 몰락]]></title>
+        <id>https://entertain.v.daum.net/v/20220205060905188</id>
+        <link href="https://entertain.v.daum.net/v/20220205060905188"/>
+        <updated>2022-02-04T21:09:27.881Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]미국 인기 TV 시리즈 ‘90 Day Fiance’의 제프리 파셀(44)이 약혼녀를 납치하고 폭행한 혐의로 징역 18년형을 선고받았다고 3일(현지시간) 연예매체 피플이 보도했다. 제프리 파셀은 이날 테네시주 녹스빌에서 열린 법정에서 가석방이 없는 징역 18년형을 선고를 받았다. 그는 가중 납치, 가정폭행, 긴급전화 방해 등의]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["한복이 왜 나와?" 올림픽 개회식서 中 소수민족으로 등장.. '문화 동북공정' 논란]]></title>
         <id>https://entertain.v.daum.net/v/20220205001407911</id>
