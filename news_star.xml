@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2022-02-04T16:14:11.475Z</updated>
+    <updated>2022-02-04T17:09:46.438Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[차서원, 홈바 '남영관' 공개→이은지, 타지 첫 생일맞이]]></title>
+        <id>https://entertain.v.daum.net/v/20220205012059189</id>
+        <link href="https://entertain.v.daum.net/v/20220205012059189"/>
+        <updated>2022-02-04T17:09:41.138Z</updated>
+        <content type="html"><![CDATA[(서울=뉴스1) 안은재 기자 = '나 혼자 산다' 차서원이 자취하는 청춘의 모습을 공개했으며, 이은지는 타지에서 처음 혼자 생일날을 보냈다. 4일 오후 방송된 MBC 예능 프로그램 '나 혼자 산다'에는 일일드라마 '두 번째 남편' 에서 활약하고 있는 배우 차서원과 개그우먼 이은지가 출연해 일상을 보여줬다. 차서원은 "자취 11년차, 이사온 지 3개월이]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['나혼산' 이은지, 인생 첫 '나 홀로 생일' 셀프 파티]]></title>
+        <id>https://entertain.v.daum.net/v/20220205011800180</id>
+        <link href="https://entertain.v.daum.net/v/20220205011800180"/>
+        <updated>2022-02-04T17:09:41.139Z</updated>
+        <content type="html"><![CDATA['나 혼자 산다' 이은지의 일상이 그려졌다. 4일 방송된 MBC 예능프로그램 '나 혼자 산다'에서는 이은지가 셀프 생일파티하는 모습이 전파를 탔다. 이날 배우 차서원은 "부산에서 서울로 상경한지 11년차이고, 이 집에 온 지는 3개월 됐다"고 밝혔다. 그러면서 "저희 집은 2층과 3층으로 구성되어 있다. 올라가게 되면 제가 거주하고 있는 방이 하나 나]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['나혼산' 차서원, 얼어 죽어도 "청춘아 멈추지마!"..찐친 키도 놀란 반전 매력]]></title>
         <id>https://entertain.v.daum.net/v/20220205010000110</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220204233602464"/>
         <updated>2022-02-04T15:10:23.375Z</updated>
         <content type="html"><![CDATA[방송인 전현무가 2차 백신 접종을 완료했지만 확진 판정을 받아 방송가가 비상이다. 전현무 소속사 측은 4일 전현무가 자가키트 검사에서 양성 반응을 보여 PCR 검사를 받았고 최종 확진이 됐다고 밝혔다. 출연 중인 프로그램만 6개라 방송가가 바짝 긴장한 상태다. 이에 따라 MBC '나 혼자 산다' 등 6개 프로그램 출연진과 제작진이 줄줄이 검사를 받]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[양익준, "저는 X밥입니다"..父 가정폭력·공황장애·폭언 피해 고백]]></title>
-        <id>https://entertain.v.daum.net/v/20220204233205421</id>
-        <link href="https://entertain.v.daum.net/v/20220204233205421"/>
-        <updated>2022-02-04T15:10:23.375Z</updated>
-        <content type="html"><![CDATA[[스포츠조선닷컴 정안지 기자] 배우 겸 감독 양익준이 공황장애, 지나친 존중에 대한 강박 등에 대해 털어놨다. 4일 방송된 채널A '오은영의 금쪽상담소'에서는 최근 넷플릭스 오리지널 '지옥'에서 진경훈 형사 역으로 압도적인 연기를 선보인 양익준이 상담소의 문을 두드렸다. 이날 양익준은 '지옥' 촬영 현장에 대해 이야기를 하던 중 "유아인 씨]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['연중 라이브' 故 허참, 일대기 재조명→연예계 도플갱어 ★ 까지]]></title>
-        <id>https://entertain.v.daum.net/v/20220204232701359</id>
-        <link href="https://entertain.v.daum.net/v/20220204232701359"/>
-        <updated>2022-02-04T15:10:23.375Z</updated>
-        <content type="html"><![CDATA['연중 라이브'가 故 허참의 일대기를 재조명했다. 4일 방송된 KBS2 예능프로그램 '연중 라이브'에서는 ‘올타임 레전드’에서 우리의 기억 속에 영원히 기억될 명 MC 허참의 일대기와 '차트를 달리는 여자'에서는 연예계 도플갱어 올림픽이 진행되는 모습이 그려졌다. 허참은 음악 감상실 '쉘부르'의 대표 DJ이자 MC였고, 특유의 유머감각과 순발력으로 방]]></content>
     </entry>
 </feed>
