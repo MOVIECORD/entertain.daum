@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-02-05T03:10:50.791Z</updated>
+    <updated>2022-02-05T04:12:46.503Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['꽃 피면 달 생각하고', 7일 결방..8일 2회 연속 방송]]></title>
+        <id>https://entertain.v.daum.net/v/20220205131215021</id>
+        <link href="https://entertain.v.daum.net/v/20220205131215021"/>
+        <updated>2022-02-05T04:12:32.466Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 이경호 기자] KBS 2TV 월화드라마 '꽃 피면 달 생각하고'./사진제공=꽃피면달생각하고문화산업전문회사, 몬스터유니온, 피플스토리컴퍼니배우 유승호와 이혜리가 맹활약 중인 드라마 '꽃 피면 달 생각하고'가 올림픽 여파로 7일 결방한다. 5일 KBS 2TV 월화드라마 '꽃 피면 달 생각하고'(연출 황인혁, 극본 김아록, 제작 (유)꽃피면달생각하고]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[BTS 지민, 코로나 음성·충수염 거의 완치 "퇴원 후 휴식 중"]]></title>
         <id>https://entertain.v.daum.net/v/20220205115417373</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220205080420067"/>
         <updated>2022-02-04T23:10:35.843Z</updated>
         <content type="html"><![CDATA[[뉴스엔 이민지 기자] 드라마 ‘꽃 피면 달 생각하고’ 편성이 올림픽 여파로 변경된다. KBS 2TV 월화드라마 ‘꽃 피면 달 생각하고’(극본 김아록/연출 황인혁) 측은 2월 5일 “8일 오후 10시 13, 14회를 연속 방송한다. 많은 관심 부탁드린다”라고 전했다. 7일은 결방된다. ‘꽃 피면 달 생각하고’는 사상 가장 강력한 금주령의 시대, 밀주꾼]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['RE100'·'대장동'도 꺾은 '대선토론' 최고의 장면은?]]></title>
-        <id>https://entertain.v.daum.net/v/20220205080005960</id>
-        <link href="https://entertain.v.daum.net/v/20220205080005960"/>
-        <updated>2022-02-04T23:10:35.845Z</updated>
-        <content type="html"><![CDATA[사진=국회사진기자단[이데일리 스타in 김가영 기자] 방송 3사에서 공동주최한 대선 후보 토론이 연일 화제가 되고 있다. 총 시청률 39%를 찍으며 시청자들의 높은 관심을 입증했다. 시청률 조사업체 닐슨코리아에 따르면 지난 3일 방송된 ‘방송 3사 합동 초청 2022 대선후보 토론’은 KBS1 19.5%(이하 전국 가구 기준), MBC 11.1%, SBS]]></content>
     </entry>
 </feed>
