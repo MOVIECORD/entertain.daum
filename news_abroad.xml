@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2022-02-05T21:08:53.497Z</updated>
+    <updated>2022-02-05T22:12:50.416Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["'워킹데드' 좀비배우, 납치·살해됐다" 충격 주장]]></title>
+        <id>https://entertain.v.daum.net/v/20220206070905253</id>
+        <link href="https://entertain.v.daum.net/v/20220206070905253"/>
+        <updated>2022-02-05T22:12:49.821Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]인기 드라마‘워킹데드’(The Walking Dead)로 유명한 배우 모세 J. 모즐리가 31세의 나이로 사망한 가운데 그가 납치돼 살해됐다는 주장이 나왔다. 그의 여동생 티레아 킴브로는 4일(현지시간) TMZ과 인터뷰에서 “그와 가까운 사람들은 그가 납치되어 살해된 것으로 믿고 있다”고 말했다. TMZ는 “모즐리의 시신이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["빅토리아 베컴, 25년동안 생선구이·야채찜만 먹어" 축구스타 남편의 한탄]]></title>
         <id>https://entertain.v.daum.net/v/20220206060706709</id>
@@ -53,12 +60,5 @@
         <link href="https://entertain.v.daum.net/v/20220205083748246"/>
         <updated>2022-02-05T00:33:49.021Z</updated>
         <content type="html"><![CDATA[[OSEN=최나영 기자] 미국 모델 클로에 카다시안의 딸 트루(3)가 값비싼 손가방으로 시선을 모았다. 클로에 카다시안과 NBA스타 트리스탄 톰슨의 3살 난 딸 트루가 반짝이는&nbsp;지갑을 든 귀여운 옷을 입고 포즈를 취한 모습이 5일(한국시간) 카다시안의 SNS를 통해 공개됐다. 카다시안은 "내 딸보다 달콤한 것은 없다"란 글을 함께 올렸다. 사진 속 트루]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["약혼녀 납치 폭행, 가석방 없는 징역 18년 선고" 유명 스타의 몰락]]></title>
-        <id>https://entertain.v.daum.net/v/20220205060905188</id>
-        <link href="https://entertain.v.daum.net/v/20220205060905188"/>
-        <updated>2022-02-04T21:09:27.881Z</updated>
-        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]미국 인기 TV 시리즈 ‘90 Day Fiance’의 제프리 파셀(44)이 약혼녀를 납치하고 폭행한 혐의로 징역 18년형을 선고받았다고 3일(현지시간) 연예매체 피플이 보도했다. 제프리 파셀은 이날 테네시주 녹스빌에서 열린 법정에서 가석방이 없는 징역 18년형을 선고를 받았다. 그는 가중 납치, 가정폭행, 긴급전화 방해 등의]]></content>
     </entry>
 </feed>
