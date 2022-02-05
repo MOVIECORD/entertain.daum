@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2022-02-05T08:11:07.629Z</updated>
+    <updated>2022-02-05T09:10:07.023Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['불후의 명곡' 남상일 "안예은, 천재 음악가다"]]></title>
+        <id>https://entertain.v.daum.net/v/20220205175327831</id>
+        <link href="https://entertain.v.daum.net/v/20220205175327831"/>
+        <updated>2022-02-05T09:10:01.430Z</updated>
+        <content type="html"><![CDATA[[티브이데일리 김종은 기자] '불후의 명곡'에서 남상일이 안예은의 실력을 극찬했다. 5일 저녁 방송된 KBS2 예능프로그램 '불후의 명곡'에서는 '한국인의 노래 최불암 편' 두 번째 이야기가 공개됐다. 이날 남상일은 함께 호흡을 맞추게 된 안예은에 대해 "개인적으로 팬이다. 음악 속에 국악 요소가 다 있다. 존재만으로도 국악에 대한 홍보가 된다고 생각한다]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['나 혼자 산다' 이은지, 나 홀로 생파까지..유쾌한 인간 비타민]]></title>
+        <id>https://entertain.v.daum.net/v/20220205171512469</id>
+        <link href="https://entertain.v.daum.net/v/20220205171512469"/>
+        <updated>2022-02-05T09:10:01.431Z</updated>
+        <content type="html"><![CDATA[[스포츠서울 | 김선우기자]이은지가 ‘나 혼자 산다’에서 유쾌한 웃음을 선물했다. 지난 4일 방송된 MBC ‘나 혼자 산다’에 출연한 이은지는 편의점 음식을 활용한 특급 요리부터 혼자 맞이하는 생일 파티까지 안방극장에 웃음 폭탄을 안겼다. 이날 방송에서 이은지는 편의점 음식을 자신만의 레시피를 활용해 재탄생시키는 요리 과정을 공개했다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['불가살' 이진욱 vs 이준, 피의 격돌]]></title>
         <id>https://entertain.v.daum.net/v/20220205171006421</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220205124056755"/>
         <updated>2022-02-05T04:12:41.506Z</updated>
         <content type="html"><![CDATA[[일간스포츠 이지수]  “나한테 지고 울지 마라” vs “제 서브 못 받으실 것 같은데?” MBN ‘국대는 국대다’의 첫 번째 ‘레전드’ 현정화가 현역 국가대표이자 ‘애제자’ 서효원을 상대로 27년만의 복귀전 초읽기에 들어가, 전 국민의 심장을 다시 한번 뛰게 만들 예정이다. 5일(오늘) 밤 9시 20분 첫 방송하는 MBN의 새 스포츠 예능 ‘국대는]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[방탄소년단 지민, 5일 퇴원..충수염 회복·코로나19 완치]]></title>
-        <id>https://entertain.v.daum.net/v/20220205123000693</id>
-        <link href="https://entertain.v.daum.net/v/20220205123000693"/>
-        <updated>2022-02-05T05:09:29.546Z</updated>
-        <content type="html"><![CDATA[[동아닷컴]  방탄소년단 멤버 지민이 급성 충수염 수술 회복과 함께 코로나19 완치 판정을 받고 일상으로 돌아갔다. 5일 빅히트뮤직 측은 “지민이 급성 충수염(맹장염) 수술 후 코로나19 격리기간이 종료됨에 따라 오늘 새벽 퇴원 및 격리 해제되었다”고 전했다. 지민은 지난달 30일 오후 경미한 인후통 증세와 함께 급작스러운 복통을 느껴 인근 병원 응급실에]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[13세 금쪽이 '지적 장애' 진단, 오은영은 이를 악 물었다]]></title>
-        <id>https://entertain.v.daum.net/v/20220205120901546</id>
-        <link href="https://entertain.v.daum.net/v/20220205120901546"/>
-        <updated>2022-02-05T03:10:45.625Z</updated>
-        <content type="html"><![CDATA[[김종성 기자] ▲ &nbsp;채널A &lt;금쪽같은 내 새끼&gt;    ⓒ 채널A  &nbsp; 13살 딸(금쪽이), 9개월 아들 그리고 뱃속에 아기까지 예비 삼남매 부모가 채널A &lt;금쪽같은 내새끼&gt;를 찾았다. 이번에는 금쪽이가 직접 사연을 신청한 케이스인데, 평소 &lt;금쪽같은 내새끼&gt;를 시청하면서 "오은영 박사님은 내 마음을 알아주실 것 같아"라고 말했다고 한다. 딸]]></content>
     </entry>
 </feed>
