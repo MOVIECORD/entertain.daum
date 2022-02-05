@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2022-02-05T06:11:16.269Z</updated>
+    <updated>2022-02-05T07:09:59.383Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[강하늘·한효주·권상우 '영화 끝나니 배우가 눈앞에']]></title>
+        <id>https://entertain.v.daum.net/v/20220205154722644</id>
+        <link href="https://entertain.v.daum.net/v/20220205154722644"/>
+        <updated>2022-02-05T07:09:54.344Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 한혁승 기자] 강하늘·한효주·권상우 '영화 끝나니 스크린 속 배우가 눈앞에' [한혁승의 포톡(Photo talk)] 배우 강하늘, 한효주, 권상우, 김성오, 박지환, 김정훈 감독이 5일 오후 서울 여의도 CGV에서 영화 '해적: 도깨비 깃발' 개봉 2주 차 무대인사에 참석했다. 영화가 끝나고 배우들은 관객과 인사를 나누고 감사의 인사와]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['골때녀' 황소윤, 비매너 플레이 논란 해명 "나쁜 마음 없이 경기"]]></title>
         <id>https://entertain.v.daum.net/v/20220205144054948</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220205120101449"/>
         <updated>2022-02-05T03:10:45.625Z</updated>
         <content type="html"><![CDATA[[TV리포트 = 하수나 기자] 개그맨 박명수가 낯을 많이 가리는 편이지만 무대에서 만큼은 열심히 한다고 털어놨다.&nbsp; 5일 방송된 KBS쿨FM '박명수의 라디오쇼‘에선 11시 내고향 코너로 꾸며지며 눈길을 모았다.&nbsp; 이날 박명수는 6년차 웹디자이너로 이직을 해서 새 회사에 적응할지에 대해 고민이라는 청취자의 고민상담에 나섰다.&nbsp; 낯을 많이 가린다는 청취자의]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박명수, 母 남겨두고 이민 떠나는 청취자에게 따뜻한 위로 '훈훈']]></title>
-        <id>https://entertain.v.daum.net/v/20220205115344356</id>
-        <link href="https://entertain.v.daum.net/v/20220205115344356"/>
-        <updated>2022-02-05T03:10:45.625Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 송오정 기자] 박명수가 울먹이는 청취자에게 따뜻한 위로를 전했다. 5일 방송된 KBS 쿨FM '박명수의 라디오쇼'에서는 '11시 내고향' 코너를 통해 청취자와 전화 연결했다. 이날 한 청취자는 그동안 기러기 아빠로 지내다 가족을 따라 갑작스럽게 이민을 떠난다고 밝혔다. 그러면서 한국에 홀로 남은 어머니 생각에 울먹이자, 박명수는 "자리 잡고 또]]></content>
     </entry>
 </feed>
