@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2022-02-06T07:11:34.570Z</updated>
+    <updated>2022-02-06T08:12:41.071Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['개승자' 신인팀이 던진 '새로움'의 화두]]></title>
+        <id>https://entertain.v.daum.net/v/20220206171035231</id>
+        <link href="https://entertain.v.daum.net/v/20220206171035231"/>
+        <updated>2022-02-06T08:12:34.871Z</updated>
+        <content type="html"><![CDATA[[스포츠경향] 설 연휴를 앞둔 지난달 29일 KBS2 개그 서바이벌 ‘개승자’의 5라운드 탈락팀이 결정됐다. 주인공은 홍현호, 김원훈, 박진호, 황정혜, 정진하로 구성된 신인팀이었다. 이들은 윤형빈, 이승윤, 변기수, 김원효, 이수근, 김준호팀 등 선배들의 팀에 투표수에서 뒤져 결국 탈락의 고배를 마셨다. 이튿날인 30일 공개된 비하인드 영상에서 신인팀]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[현정화 현역 복귀..전성기 수입 어마어마]]></title>
+        <id>https://entertain.v.daum.net/v/20220206165807915</id>
+        <link href="https://entertain.v.daum.net/v/20220206165807915"/>
+        <updated>2022-02-06T08:12:34.880Z</updated>
+        <content type="html"><![CDATA[[동아닷컴] 현정화 현역 복귀…전성기 수입 어마어마 (국대) “27년만의 선수 복귀! 현정화의 ‘드라마틱’한 특훈기, 진정성 通했다!” MBN 새 예능 ‘국대는 국대다’가 88올림픽 탁구 영웅인 ‘선수 현정화’를 2022년에 소환하는 대형 프로젝트를 가동, 첫 방송부터 시청자들의 시선을 완벽히 사로잡았다. 5일 첫 방송한 MBN ‘국대는 국대다’는 평균]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[박혁권, 김의성 이어 또? 이재명 공개 지지 선언 "나중에 후회할까 봐"]]></title>
+        <id>https://entertain.v.daum.net/v/20220206163206439</id>
+        <link href="https://entertain.v.daum.net/v/20220206163206439"/>
+        <updated>2022-02-06T08:12:34.880Z</updated>
+        <content type="html"><![CDATA[[OSEN=연휘선 기자]&nbsp;배우 박혁권이 이재명 더불어민주당 대선후보를 공개적으로 지지했다.&nbsp; 5일 온라인을 통해 박혁권의 이재명 지지 선언문과 포스터가 공개됐다.&nbsp; "연기해서 먹고 사는 박혁권"이라고 스스로를 소개한 박혁권은 "저는 이재명 후보님을 성남시장 하실 때부터 지켜봤다"라고 운을 뗐다. 그는 "과연 저 분이 우리를 대신하여 합리적이고 현명한 판]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[동물 학대 논란 '태종 이방원', 4주째 못 본다.."12·13일 결방 확정"]]></title>
         <id>https://entertain.v.daum.net/v/20220206161008110</id>
@@ -13,7 +34,7 @@
         <content type="html"><![CDATA[동물 학대 논란에 휩싸였던 KBS 1TV 대하드라마 '태종 이방원'이 4주째 결방하게 됐다. 오늘(6일) YTN Star 취재 결과, KBS 측은 오는 12일과 13일에도 '태종 이방원'을 결방하기로 했다. 이로써 '태종 이방원'은 지난달 22일부터 방송을 중단한 이후 4주째 시청자를 만나지 못하게 됐다. '태종 이방원'이 사면초가에 빠진 것은 촬영장에]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA['지금 우리 학교는' 전 세계 53개국 1위·韓 8일째 1위..흥행 장기화]]></title>
+        <title type="html"><![CDATA['지금 우리 학교는' 전 세계 53개국 1위..韓국가대표 좀비]]></title>
         <id>https://entertain.v.daum.net/v/20220206155011778</id>
         <link href="https://entertain.v.daum.net/v/20220206155011778"/>
         <updated>2022-02-06T07:11:28.978Z</updated>
@@ -88,26 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220206114930680"/>
         <updated>2022-02-06T03:11:00.351Z</updated>
         <content type="html"><![CDATA[[뉴스엔 황혜진 기자] 배우 정은표가 아들 정지웅 군의 서울대 합격 축하에 감사 인사를 전했다. 정은표는 2월 6일 오전 SNS에 정지웅 군의 생일파티 현장이 담긴 영상을 게재했다. 공개된 영상 속 정지웅 군은 가족의 따뜻한 생일 축하를 받으며 행복한 미소를 짓고 있다. 두 손을 맞잡은 채 소원을 비는 귀여운 모습이다. 정은표는 "웅이 고등학교 3학년 생]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["K-드라마의 원투펀치"..8일 연속 전세계 1위 '지우학', 美매체 극찬 릴레이]]></title>
-        <id>https://entertain.v.daum.net/v/20220206112843437</id>
-        <link href="https://entertain.v.daum.net/v/20220206112843437"/>
-        <updated>2022-02-06T03:11:00.361Z</updated>
-        <content type="html"><![CDATA[[스포츠조선 조지영 기자] 전 세계를 사로잡은 'K-드라마'의 열풍은 올해도 계속됐다. 지난해 뜨겁게 달군 넷플릭스 오리지널 시리즈 '오징어 게임'(황동혁 극본·연출)에 이어 '지금 우리 학교는'(천성일 극본, 이재규·김남수 연출)까지 전 세계가 'K-드라마'에 완전히 매료됐다. 6일(한국시각 기준) 글로벌 온라인 콘텐츠 서비스 순위 집계 사]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['며느라기2' 박하선에게 꼭 해주고 싶은 말]]></title>
-        <id>https://entertain.v.daum.net/v/20220206110903120</id>
-        <link href="https://entertain.v.daum.net/v/20220206110903120"/>
-        <updated>2022-02-06T03:11:00.363Z</updated>
-        <content type="html"><![CDATA[[김종성 기자] 아침 일찍부터 구영(권율)에게 한 통의 전화가 걸려왔다. 고모 할머니가 돌아가셨다는 소식을 전하는 엄마의 연락이었다. 구영은 사린(박하선)에게 임신부는 장레식장에 가는 게 아니라며 혼자 다녀오겠다고 말했다. '임신했다'는 한마디면 모든 게 해결되기 때문이다. 하지만 사린은 아직 임신 사실을 알리고 싶지 않았다. 결국 두 사람은 회사에 갑자기]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['집사부일체' 오마이걸 효정, 육식 '먹방']]></title>
-        <id>https://entertain.v.daum.net/v/20220206105518840</id>
-        <link href="https://entertain.v.daum.net/v/20220206105518840"/>
-        <updated>2022-02-06T02:07:05.605Z</updated>
-        <content type="html"><![CDATA[[티브이데일리 최하나 기자] 그룹 오마이걸 효정이 일일 제자로 출연한다. 6일 저녁 6시 30분 방송되는 SBS 예능프로그램 '집사부일체'는 육식으로 시작해 육식으로 끝나는 '육식파 특집'으로 꾸며진다. '집사부일체' 멤버들은 채소 없이 오로지 육식만으로 하루를 살아보기 위해 국내 다이닝 신에 혜성처럼 등장한 바비큐 요리 전문가 유용욱 사부를 만났다. 유]]></content>
     </entry>
 </feed>
