@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2022-02-06T18:12:52.240Z</updated>
+    <updated>2022-02-06T19:09:07.077Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['미우새' 이상민, 서남용과 '체인지 데이즈'..반장 김준호, 오나미 결혼 선물 '대형 TV' 약속]]></title>
+        <id>https://entertain.v.daum.net/v/20220207034800313</id>
+        <link href="https://entertain.v.daum.net/v/20220207034800313"/>
+        <updated>2022-02-06T19:09:00.862Z</updated>
+        <content type="html"><![CDATA[[SBS연예뉴스 | 김효정 에디터] 이상민은 서남용 집에서 하루를 버틸 수 있을까? 6일 방송된 SBS '미운 우리 새끼'(이하 '미우새')에서는 미우새 아들들의 일상이 공개됐다. 이날 방송에서 김준호는 개그맨 동료들과 함께 오나미의 결혼 축하 선물을 건 사다리 타기를 제안했다. 그는 "모두 나미와 인연이 있으니까 축의금보다 선물을 하는 게 좋을 거 같다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['집사부일체' 육식왕 유용욱, "육식은 행복을 준다"..맛있는 삼겹살 고르는 꿀팁 공개]]></title>
         <id>https://entertain.v.daum.net/v/20220207030300164</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220206232530356"/>
         <updated>2022-02-06T15:10:54.429Z</updated>
         <content type="html"><![CDATA[[TV리포트 = 하수나 기자] 에이핑크 정은지가 에너지 넘치는 이선빈을 인턴 코디로 추천했다.&nbsp; 6일 방송된 MBC '구해줘! 홈즈‘에선 에이핑크 정은지와 오하영, 스피드스케이팅 금메달리스트에서 올림픽 해설 위원으로 돌아온 모태범이 인턴코디로 출격했다.&nbsp; 이날 오하영은 ‘구해줘 홈즈’의 찐 팬이라며 고양과 일산 편에 소개한 매물을 직접 보러가려고 했지만 시]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['신과 한판' 벌레담당 윤택→잔날개여치..괴식담당 이승윤→고라니 생간]]></title>
-        <id>https://entertain.v.daum.net/v/20220206231501307</id>
-        <link href="https://entertain.v.daum.net/v/20220206231501307"/>
-        <updated>2022-02-06T15:10:54.430Z</updated>
-        <content type="html"><![CDATA['벌레담당' 윤택과 '괴식담당' 이승윤의 음식 이야기가 공개됐다. 6일 방송된 MBN ‘신과 한판’에는 ‘나는 자연인이다’(이하 자연인)의 윤택과 이승윤이 출연했다. 이날 벌레담당 윤택과 괴식담당 이승윤이 '자연인'에서 먹은 음식들에 대한 이야기가 공개됐다. 이날 윤택은 자신이 '자연인' 첫 회에 먹었던 말벌 애벌레를 가져와 출연진들에게 권했다. 김구]]></content>
     </entry>
 </feed>
