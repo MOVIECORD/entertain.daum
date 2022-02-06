@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-02-06T19:09:07.075Z</updated>
+    <updated>2022-02-06T20:11:06.253Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['두 번째 남편' '안다행' 오늘부터 2주간 결방..올림픽 여파]]></title>
+        <id>https://entertain.v.daum.net/v/20220207050546695</id>
+        <link href="https://entertain.v.daum.net/v/20220207050546695"/>
+        <updated>2022-02-06T20:10:50.559Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 김명미 기자] MBC 일일드라마 '두 번째 남편'과 MBC 예능프로그램 '안싸우면 다행이야'가 2주간 결방된다. 2월 7일 MBC 편성표에 따르면 평일 오후 7시 5분 방송되는 '두 번째 남편'은 '2022 베이징 동계 올림픽' 중계 여파로 오는 18일까지 결방된다. '두 번째 남편' 122회는 오는 21일 방송될 예정이다. 매주 월요일 오후 9]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['불가살' 이진욱X권나라 환생 재회.."우리 만난 적 있어요?"]]></title>
         <id>https://entertain.v.daum.net/v/20220206224443128</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220206195251444"/>
         <updated>2022-02-06T11:09:02.198Z</updated>
         <content type="html"><![CDATA[[스타뉴스 이시호 기자] /사진=KBS2 '신사와 아가씨' 방송 화면 캡처'신사와 아가씨' 배우 이세희가 지현우에 흔들리지 말자고 말했다. 6일 오후 방송된 KBS 2TV 주말드라마 '신사와 아가씨'에서는 박수철(이종원 분)의 반대를 마주한 박단단(이세희 분), 이영국(지현우 분) 커플의 모습이 그려졌다. 박단단은 아버지 박수철(이종원 분)이 병상에]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['신사와 아가씨' 이세희, 이종원 교통사고에 죄책감 '오열']]></title>
-        <id>https://entertain.v.daum.net/v/20220206194515356</id>
-        <link href="https://entertain.v.daum.net/v/20220206194515356"/>
-        <updated>2022-02-06T11:09:02.198Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 이이진 기자) '신사와 아가씨' 이세희가 사고를 당한 이종원을 걱정하며 오열했다. 6일 방송된 KBS 2TV 주말드라마 '신사와 아가씨' 39회에서는 박수철(이종원 분)이 박단단(이세희)을 쫓아가다 교통사고를 당한 모습이 그려졌다. 이날 박수철은 도망치는 박단단을 쫓아가다 사고를 당했다. 박수철은 병원으로 옮겨졌고, 가족들 모두 병원에 모였다]]></content>
     </entry>
 </feed>
