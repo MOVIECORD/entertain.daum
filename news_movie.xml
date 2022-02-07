@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2022-02-07T14:11:22.460Z</updated>
+    <updated>2022-02-07T15:11:38.976Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["김순악 할머니 매력에 위안부 영화 '무거움' 사라지죠"]]></title>
+        <id>https://entertain.v.daum.net/v/20220207233622183</id>
+        <link href="https://entertain.v.daum.net/v/20220207233622183"/>
+        <updated>2022-02-07T15:11:19.695Z</updated>
+        <content type="html"><![CDATA[“위안부 영화는 보기에 힘들다고 지레 생각하기 쉽습니다. 하지만 고 김순악 할머니의 매력에 푹 빠져들다 보면 웃음과 감동, 더 나아가 공감과 위로를 느낄 수 있을 것입니다.” 일본군 위안부 피해자 고 김순악 할머니의 삶을 다룬 다큐멘터리 영화 &lt;보드랍게&gt;를 연출한 박문칠 우석대 미디어영상학과 교수는 “기존의 ‘위안부’ 영화에서 다루지 못한 새로운 문제의식을]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[서스펜스는 실종, 영상미만 남은 추리극..영화 '나일강의 죽음']]></title>
         <id>https://entertain.v.daum.net/v/20220207230035732</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220207163602382"/>
         <updated>2022-02-07T08:13:35.596Z</updated>
         <content type="html"><![CDATA['워낭소리' 이충렬 감독이 무려 13년 만에 컴백했다. 극 영화 '매미소리'를 통해서다. 대세 트로트 가수 송가인도 특별출연한다. 7일 오전 서울 광진구 건대입구 롯데시네마에서 영화 '매미소리'(감독 이충렬)의 언론배급시사회 및 기자간담회가 열렸다. 이충렬 감독을 비롯해 이양희, 주보비, 서연우 그리고 송가인이 이날 행사에 참석했다. ‘매미소리’는 삶과]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[진영-김영민 영화 '크리스마스 캐럴' 크랭크인]]></title>
-        <id>https://entertain.v.daum.net/v/20220207163030156</id>
-        <link href="https://entertain.v.daum.net/v/20220207163030156"/>
-        <updated>2022-02-07T08:13:35.596Z</updated>
-        <content type="html"><![CDATA[[동아닷컴] 진영-김영민 영화 ‘크리스마스 캐럴’ 크랭크인 [공식] 진영, 김영민, 김동휘, 송건희, 허동원까지 에너지 가득한 신선한 캐스팅과 영화 ‘야수’, OCN 드라마 [구해줘] 김성수 감독의 연출로 주목받은 영화 ‘크리스마스 캐럴’이 지난 1월 28일(금) 전격 크랭크인했다. 영화 ‘크리스마스 캐럴’은 쌍둥이 동생의 죽음에 복수하기 위해 스스로 소]]></content>
     </entry>
 </feed>
