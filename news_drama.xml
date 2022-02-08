@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-02-08T09:12:27.662Z</updated>
+    <updated>2022-02-08T10:12:18.513Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이서진 "나영석 PD가 은퇴하면 저도 예능에서 은퇴할 것"]]></title>
+        <id>https://entertain.v.daum.net/v/20220208190112754</id>
+        <link href="https://entertain.v.daum.net/v/20220208190112754"/>
+        <updated>2022-02-08T10:12:04.777Z</updated>
+        <content type="html"><![CDATA[티빙의 오리지널 시리즈 '내과 박원장'에서 파격적인 비주얼과 코믹 연기로 지금까지 보지 못했던 새로운 모습을 공개한 배우 이서진을 만났다. 1도 슬기롭지 못한 초짜 개원의의 ‘웃픈’ 현실을 그려낸 메디컬 코미디로, 진정한 의사를 꿈꿨으나 오늘도 파리 날리는 진료실에서 의술과 상술 사이를 고민하는 박원장의 적자탈출 생존기 '내과 박원장'에서 이서진은 '박]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['고스트 닥터' 정지훈♥유이, 뜻밖의 데이트 포착]]></title>
         <id>https://entertain.v.daum.net/v/20220208175806312</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220208154045022"/>
         <updated>2022-02-08T07:11:17.449Z</updated>
         <content type="html"><![CDATA[[OSEN=박소영 기자] 중후한 왕의 무게감을 내려놓은 이서진이 민머리 캐릭터로 연기 변신에 성공했다. 이산 캐릭터는 2PM 이준호에게 넘겨주고 자신은 한층 더 다양한 연기 스펙트럼을 확보했다. 이서진은 티빙 오리지널 ‘내과 박원장’에서 짠내나는 주인공 박원장 역을 맡아 시청자들을 만났다. 지난 14일 공개된 이 작품은 초짜 개원의의 웃픈 현실을&nbsp;담은]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['스폰서' 네 남녀의 뒤틀린 욕망 '숨멎' 유발할 치명적 관계성]]></title>
-        <id>https://entertain.v.daum.net/v/20220208153244645</id>
-        <link href="https://entertain.v.daum.net/v/20220208153244645"/>
-        <updated>2022-02-08T07:11:17.449Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 박수인 기자] '스폰서'가 네 남녀의 뒤틀린 욕망으로 안방극장을 뜨겁게 물들인다. 오는 2월 23일 첫 방송되는 IHQ drama 채널과 MBN에서 첫 방송 되는 새 드라마 ‘스폰서’(연출 이철/ 극본 한희정)는 원하는 것을 얻기 위해 수단과 방법을 가리지 않고, 자신의 욕망을 채워 줄 스폰서를 직접 찾아 나서는 네 남녀의 치정 로맨스다. 제목만]]></content>
     </entry>
 </feed>
