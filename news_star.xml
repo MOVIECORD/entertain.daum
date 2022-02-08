@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2022-02-08T15:11:52.873Z</updated>
+    <updated>2022-02-08T16:16:08.340Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['화밤'이영현·박민혜→이지훈·손준호, 가창력 끝판왕들의 고막힐링 무대]]></title>
+        <id>https://entertain.v.daum.net/v/20220209004230658</id>
+        <link href="https://entertain.v.daum.net/v/20220209004230658"/>
+        <updated>2022-02-08T16:16:02.933Z</updated>
+        <content type="html"><![CDATA[[TV리포트 = 하수나 기자] 가창력 끝판왕인 빅마마 이영현·박민혜부터 뮤지컬계의 로맨틱가이 이지훈·손준호까지, ‘화요일은 밤이 좋아’가 달콤한 고막 힐링 타임을 선사했다.&nbsp; 8일 방송된 TV조선 ‘화요일은 밤이 좋아’에선 밸런타인데이 특집으로 꾸며졌다. 가창력 끝판왕인 빅마마의 이영현과 박민혜가 출연했다. 먼저 이영현이 ‘내게 올래’를 부르며 소름돋는 가]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['한 사람만' 담담한 시한부 휴먼극]]></title>
         <id>https://entertain.v.daum.net/v/20220209001007386</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220208232101886"/>
         <updated>2022-02-08T15:11:47.770Z</updated>
         <content type="html"><![CDATA['돌싱포맨' 이상민이 빚이 늘어났음을 털어놨다. 8일 방송된 SBS 예능프로그램 '신발 벗고 돌싱포맨'(이하 '돌싱포맨')에서는 '트로트 여왕' 김연자와 장윤정이 포맨을 찾아왔다. 이날 김준호는 "우리 후배 중에 아무리 돈을 쓰고 써도 통장 앞자리가 안 변한다더라"며 "(이상민)형도 안 바뀌잖아. 어차피 마이너스지 않냐"고 말해 주위를 폭소케 했다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['돌싱포맨' 이상민 "9억 빚이 16억 4000만 원으로 추가..더 이상의 빚은 없어"]]></title>
-        <id>https://entertain.v.daum.net/v/20220208232008877</id>
-        <link href="https://entertain.v.daum.net/v/20220208232008877"/>
-        <updated>2022-02-08T15:11:47.771Z</updated>
-        <content type="html"><![CDATA[[스포츠투데이 이소연 기자] 방송인 이상민의 채무액을 밝혔다. 8일 방송된 SBS 예능 프로그램 ‘신발 벗고 돌싱포맨’에는 트로트 가수 장윤정과 김연자가 게스트로 출연했다. 이날 출연진은 ‘성공의 기준’을 주제로 대화를 나눴다. MC 김준호는 "성공한 후배가 말하기를 아무리 (돈을) 써도 써도 앞자리가 안 바뀐다고 하더라”고 말했다. 이어 이상민을 바라보며]]></content>
     </entry>
 </feed>
