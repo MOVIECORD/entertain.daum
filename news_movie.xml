@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2022-02-09T09:11:23.059Z</updated>
+    <updated>2022-02-09T10:12:11.317Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['캐롤' 케이트 블란쳇·루니 마라, '나이트메어 앨리' 재회..기대되는 女女케미]]></title>
+        <id>https://entertain.v.daum.net/v/20220209183510406</id>
+        <link href="https://entertain.v.daum.net/v/20220209183510406"/>
+        <updated>2022-02-09T10:11:50.589Z</updated>
+        <content type="html"><![CDATA[[OSEN=김보라 기자] 영화 '캐롤'(2016)의 주역 케이트 블란쳇과 루니 마라가 새 영화 '나이트메어 앨리'로 다시 연기 호흡을 맞춰 관심을 모은다. 기예르모 델 토로 감독의 새로운 마스터피스 '나이트메어 앨리'(수입배급 월트디즈니컴퍼니 코리아)가 케이트 블란쳇과 루니 마라의 재회로 국내 예비 관객들의 뜨거운 반응을 얻고 있다. 영화 '나이트메어]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['더 배트맨' 로버트 패틴슨→폴 다노, 4인4색 캐릭터..'세대교체']]></title>
         <id>https://entertain.v.daum.net/v/20220209180555683</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220209153843795"/>
         <updated>2022-02-09T07:11:51.761Z</updated>
         <content type="html"><![CDATA[[스타뉴스 김미화 기자] /사진=쇼박스, 엠에스팀 엔터테인먼트 오미크론 확산세가 거센 가운데 배우 이병헌 이민정 부부가 나란히 확진 판정을 받고 격리 중이다. 9일 이병헌 이민정 부부의 코로나19 확진 소식이 알려졌다. 이병헌의 소속사 BH엔터테인먼트 관계자는 스타뉴스에 "이병헌이 최근 코로나19 검사를 받고 지난 7일 확진 판정을 받고 자택에서 격리 중]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[0.05%의 알코올이 선물한 기적]]></title>
-        <id>https://entertain.v.daum.net/v/20220209153300502</id>
-        <link href="https://entertain.v.daum.net/v/20220209153300502"/>
-        <updated>2022-02-09T07:11:51.763Z</updated>
-        <content type="html"><![CDATA[[김규종 기자] "그 몹쓸 사회가 왜 술을 권하는고!" 빙허 현진건의 단편소설 &lt;술 권하는 사회&gt;(1921)는 아내의 장탄식으로 끝난다. 소설에서 빙허는 동경 유학생 출신의 선진적인 의식을 가진 남편과 낙후한 전근대의 봉건적인 아내의 대립을 그린다. 명예와 권력, 옳고 그름을 다투는 식민지 조선의 남루한 지식인 사회 때문에 괴로운 남편은 술꾼으로 전락한다.]]></content>
     </entry>
 </feed>
