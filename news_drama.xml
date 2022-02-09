@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-02-09T10:12:11.318Z</updated>
+    <updated>2022-02-09T11:10:15.016Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[수애, 김미숙 타격 줄 수 있을까]]></title>
+        <id>https://entertain.v.daum.net/v/20220209195121611</id>
+        <link href="https://entertain.v.daum.net/v/20220209195121611"/>
+        <updated>2022-02-09T11:09:59.286Z</updated>
+        <content type="html"><![CDATA[[동아닷컴] 수애가 김미숙을 향한 위험한 결심으로 후폭풍을 일으킬 예정이다. 9일 방송되는 JTBC 수목드라마 ‘공작도시’(극본 손세동 연출 전창근)에서는 윤재희(수애 분)가 김이설(이이담 분) 죽음에 대한 혹독한 아픔을 겪으며 성진가(家)와 팽팽한 대립을 이어나간다. 지난 방송에서 윤재희는 대선 후보 영부인 인터뷰 중 김이설을 죽였다고 고백해 대한민국을]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[수애·김강우 쇼윈도 부부도 끝, 파국 시작]]></title>
         <id>https://entertain.v.daum.net/v/20220209190943006</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220209165011836"/>
         <updated>2022-02-09T08:14:20.109Z</updated>
         <content type="html"><![CDATA[(엑스포츠뉴스 황수연 기자) 김태리가 보나와 펜싱 연습을 하다가 눈물을 흘렸다고 털어놨다. 9일 온라인을 통해 tvN 새 토일드라마 '스물다섯 스물하나' 제작발표회가 진행됐다. 이 자리에는 정지현 감독, 배우 김태리, 남주혁, 김지연(보나), 최현욱, 이주명이 참석했다. '스물다섯 스물하나'는 1998년, 시대에 꿈을 빼앗긴 청춘들의 방황과 성장을 그린]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['스물다섯 스물하나' 김태리X남주혁, 기억 조작 불러올 청춘의 얼굴]]></title>
-        <id>https://entertain.v.daum.net/v/20220209163726411</id>
-        <link href="https://entertain.v.daum.net/v/20220209163726411"/>
-        <updated>2022-02-09T08:14:20.113Z</updated>
-        <content type="html"><![CDATA[[OSEN=연휘선 기자] 없던 기억도 심어놓을 조합이다. 배우 김태리와 남주혁이 '스물다섯 스물하나'에서 청춘의 얼굴을 연기한다. 9일 오후 tvN 새 토일드라마 '스물다섯 스물하나'의 온라인 제작발표회가 티빙, 네이버 NOW.를 통해 생중계됐다. 이 자리에는 작품의 주연 배우&nbsp;김태리,&nbsp;남주혁,&nbsp;김지연(보나),&nbsp;최현욱,&nbsp;이주명과 연출을 맡은 정지현 감독]]></content>
     </entry>
 </feed>
