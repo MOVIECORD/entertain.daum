@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2022-02-09T17:14:50.427Z</updated>
+    <updated>2022-02-09T18:13:21.352Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['골때녀' FC아나콘다, FC액셔니스타에 '승부차기' 끝에 패배..최은경, "졌잘싸는 없어" 눈물]]></title>
+        <id>https://entertain.v.daum.net/v/20220210024204148</id>
+        <link href="https://entertain.v.daum.net/v/20220210024204148"/>
+        <updated>2022-02-09T18:13:15.844Z</updated>
+        <content type="html"><![CDATA[[SBS연예뉴스 | 김효정 에디터] 아나콘다가 접전 끝에 또다시 패배를 맛보았다. 9일 방송된 SBS '골 때리는 그녀들'(이하 '골때녀')에서는 FC액셔니스타와 FC아나콘다의 리그전이 펼쳐졌다. 이날 경기에서 FC아나콘다는 모두의 예상을 깨고 선제골을 터뜨려 모두를 놀라게 했다. 또한 이들은 액셔니스타에 대항해 전혀 밀리는 기색을 보이지 않아 이변이 일어]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[선예 "이제 남편 환상 없어"→황소윤 "BTS, 꽃보다 남자처럼 등장"]]></title>
         <id>https://entertain.v.daum.net/v/20220210005222756</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220209234203967"/>
         <updated>2022-02-09T15:11:58.507Z</updated>
         <content type="html"><![CDATA['골때녀' 윤태진이 선제골을 넣었다. 9일 방송된 SBS 예능프로그램 '골(Goal) 때리는 그녀들'(이하 '골때녀')에서는 FC 아나콘다 에이스 윤태진이 선제골을 넣는 모습이 전파를 탔다. 이날 치열한 공방전을 치르던 중 공이 밖으로 나가며 아나콘다 팀의 코너킥이 선언됐다. 이때 주시은이 빠지고 박은영이 투입되며 코너킥을 찼고, 보는 이의 궁금증을]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['라스' 송소희 "이천수? 나와 제일 잘 맞아..할 말 다 한다"]]></title>
-        <id>https://entertain.v.daum.net/v/20220209234200965</id>
-        <link href="https://entertain.v.daum.net/v/20220209234200965"/>
-        <updated>2022-02-09T15:11:58.507Z</updated>
-        <content type="html"><![CDATA[송소희가 이천수 감독과의 친분을 자랑했다. 9일 방송된 MBC ‘라디오스타’는 ‘소리꾼 도시 여자들’ 특집으로 꾸며진 가운데, 김소현, 이영현, 선예, 송소희, 황소윤이 출연했다. 송소희는 최근 '골 때리는 그녀들'에서 축구선수로 활약하고 있다. 그는 "이천수 감독과는 잘 맞냐"는 김구라의 질문에 "이천수 감독과 제가 제일 잘 맞는 것 같다"고 답해]]></content>
     </entry>
 </feed>
