@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/variety</id>
     <title>다음 연예 ─ 뉴스 ─ 예능</title>
-    <updated>2022-02-09T06:13:54.540Z</updated>
+    <updated>2022-02-09T07:12:12.287Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[신기루, 언제 힘들었냐고? "죽지 못해 살아"]]></title>
+        <id>https://entertain.v.daum.net/v/20220209161002183</id>
+        <link href="https://entertain.v.daum.net/v/20220209161002183"/>
+        <updated>2022-02-09T07:12:01.771Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 김수정 인턴기자) 신기루가 죽지 못해 산다고 전했다. 박미선은 지난 4일 자신의 유튜브 채널 '미선임파서블'에 "토크가 너무 매워서 촬영 다음 날 설사했어요. 미선이네 최초 술방"이라는 제목의 영상을 게재했다. 공개된 영상에서 박미선은 신기루에게 "우리 기루는 내가 처음 보는 것 같다. 데뷔한 지 얼마 됐냐"라고 물었고 신기루는 "데뷔한]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이주승X주우재 '나혼산→런닝맨' 낳은 예능 기대주]]></title>
+        <id>https://entertain.v.daum.net/v/20220209152352098</id>
+        <link href="https://entertain.v.daum.net/v/20220209152352098"/>
+        <updated>2022-02-09T07:12:01.771Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 박은해 기자] 이주승과 주우재가 '나 혼자 산다' '런닝맨'을 통해 예능 기대주로 급부상했다. 이주승은 지난해 12월 24일 방송된 MBC '나 혼자 산다'에서 처음으로 일상을 공개했다. 그간 다양한 드라마, 영화에서 범죄자, 사이코패스, 환자, 귀신 등 역할을 주로 맡았던 그는 독특한 매력으로 시청자들을 사로잡았다. 범죄자 역할을 소화하면서 생]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['옷소매' 주역 이세영 '아는 형님' 뜬다 "2월 중 방송"]]></title>
         <id>https://entertain.v.daum.net/v/20220209151058405</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220209130637683"/>
         <updated>2022-02-09T04:14:00.336Z</updated>
         <content type="html"><![CDATA[[OSEN=박판석 기자]&nbsp;‘국악 소리꾼’이자 ‘골때녀’에서 공격수로 활약 중인 송소희가 ‘라디오스타’에서 직장인 축구동호회 활동 경력부터 해외 축구팀을 향한 팬심까지 고백해 이목을 집중시킨다. 또 데뷔와 동시에 신인상, 최우수록음악상을 휩쓸었던 화제의 밴드 새소년의 보컬 황소윤이 첫 출격해 “’라스’ 출연을 앞두고 ‘이것’을 고민했다”라고 밝혀 궁금증을]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[송소희 "'골때녀' 출연 전부터 직장인 축구 동호회 활동"]]></title>
-        <id>https://entertain.v.daum.net/v/20220209130511661</id>
-        <link href="https://entertain.v.daum.net/v/20220209130511661"/>
-        <updated>2022-02-09T04:14:00.336Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 배효주 기자] ‘국악 소리꾼’이자 ‘골때녀’에서 공격수로 활약 중인 송소희가 ‘라디오스타’에서 직장인 축구동호회 활동 경력부터 해외 축구팀을 향한 팬심까지 고백해 이목을 집중시킨다. 2월 9일 오후 10시 30분 방송 예정인 MBC ‘라디오스타’는 김소현, 이영현, 선예, 송소희, 황소윤과 함께하는 ‘소리꾼 도시 여자들’ 특집으로 꾸며진다. 송소]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['TMI SHOW' 붐x미주 "방탄소년단·유재석 출연 원해"]]></title>
-        <id>https://entertain.v.daum.net/v/20220209115930994</id>
-        <link href="https://entertain.v.daum.net/v/20220209115930994"/>
-        <updated>2022-02-09T03:11:52.027Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 안윤지 기자] 붐, 김지은 PD, 미주/사진제공=엠넷방송인 붐과 미주가 초대하고 싶은 게스트로 그룹 방탄소년단, 방송인 유재석을 언급했다. 9일 엠넷 예능프로그램 'TMI SHOW' 측은 첫 방송을 앞두고 제작진과 MC 붐, 미주와 일문일답 인터뷰를 진행, 놓치지 말아야 할 관전포인트를 밝혔다. 'TMI SHOW' 연출을 맡은 김지은 PD는]]></content>
     </entry>
 </feed>
