@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-02-09T13:15:29.249Z</updated>
+    <updated>2022-02-09T14:10:27.879Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['공작도시' 수애, 생방송 인터뷰에서 이이담 죽였다고 자백]]></title>
+        <id>https://entertain.v.daum.net/v/20220209224342987</id>
+        <link href="https://entertain.v.daum.net/v/20220209224342987"/>
+        <updated>2022-02-09T14:10:12.029Z</updated>
+        <content type="html"><![CDATA[[OSEN=박판석 기자]&nbsp;‘공작도시’ 수애가 이이담의 복수를 위해 나섰다. 김강우는 수애와 이혼을 마음 먹었다. 9일 오후 방송된 JTBC 수목드라마 ‘공작도시’에서 윤재희(수애 분)가 김이설(이이담 분)을 죽였다고 인터뷰를 통해 밝혔다. 재희는 정준혁(김강우 분)에게 대선 출마를 포기하라고 협박했다. 재희는 “대선 출마를 포기하지 않으면 당신에게]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['태종 이방원' 말 학대 사망이후 42일만 방송재개..다시 사랑 받을까]]></title>
         <id>https://entertain.v.daum.net/v/20220209220226166</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220209174049744"/>
         <updated>2022-02-09T09:11:09.105Z</updated>
         <content type="html"><![CDATA[[서울경제] "자네, 슈퍼스타가 될 관상인가?" 때론 익숙함이 주는 즐거움 보다 날 것의 신선함이 끌리는 날이 있죠. 반짝하고 등장한 혜성이 내일의 태양이 되는 그 날까지! '넥스트 레벨'로 도약하는 신인 배우를 응원합니다.&lt;편집자 주&gt;  배우 로몬(본명 박솔로몬·24)이 '디스토피아에 필요한 진정한 리더'라는 캐릭터를 입고 자신의 진가를 보여줬다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['지우학' 조이현, 어색한 로몬까지 살려낸 반장]]></title>
-        <id>https://entertain.v.daum.net/v/20220209173302408</id>
-        <link href="https://entertain.v.daum.net/v/20220209173302408"/>
-        <updated>2022-02-09T09:11:09.106Z</updated>
-        <content type="html"><![CDATA[[OSEN=장우영 기자] 배우 조이현의 연기와 케미스트리가 빛났다. ‘지금 우리 학교는’을 통해 조이현이 자신의 진가를 드러냈다. ‘나의 나라’, ‘슬기로운 의사생활’, ‘학교2021’ 등을 통해 쌓은 경험은 신인 배우들이 많은 ‘지금 우리 학교는’에서 진가를 발휘했다. 조이현은 자신 뿐만 아니라 동료 배우들도 살려내며 ‘샛별’로 발돋움했다. 넷플릭스]]></content>
     </entry>
 </feed>
