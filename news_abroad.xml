@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2022-02-09T22:11:02.610Z</updated>
+    <updated>2022-02-09T23:11:15.665Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[쿠엔틴 타란티노, 두 아이 아빠된다..아내는 20세 연하♥︎]]></title>
+        <id>https://entertain.v.daum.net/v/20220210073552766</id>
+        <link href="https://entertain.v.daum.net/v/20220210073552766"/>
+        <updated>2022-02-09T23:11:15.037Z</updated>
+        <content type="html"><![CDATA[[OSEN=최나영 기자] 영화 '저수지의 개들', '펄프픽션' 등으로 유명한 쿠엔틴 타란티노 감독(58)이 두 아이의 아빠가 된다. E! News의 9일(현지시간) 보도에 따르면 타란티노의&nbsp;아내 다니엘라 픽(38)은 현재 두 번째 아이를 임신 중이다. 다니엘라는&nbsp;몇 달 내에&nbsp;출산할 예정이다. 이 같은 기쁜 소식은 두 사람이 2020년 2월 아들 레오를]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["아놀드 슈왈제네거가 아빠란 사실에 중학교서 쫓겨나", 불륜 혼외자 아들의 고백]]></title>
         <id>https://entertain.v.daum.net/v/20220210060321647</id>
@@ -53,12 +60,5 @@
         <link href="https://entertain.v.daum.net/v/20220209091121158"/>
         <updated>2022-02-09T00:43:09.349Z</updated>
         <content type="html"><![CDATA[[OSEN=박소영 기자] 제니퍼 로페즈가 2004년 벤 애플렉과 헤어졌던 이유를 공개했다. 제니퍼 로페즈는 최근 ‘롤링스톤지’와 인터뷰에서 “그때 사실 난 벤과 함께여서 너무 즐거웠고 우린 진정한 사랑에 빠졌었다. 내 인생에서 가장 행복한 시간 중 하나였지만 정말 다들 너무 잔인했다”고 당시를 회상했다. 이어 그는 “우리 두 사람을 두고 다른 일들이 벌]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BTS, 영국 브릿어워즈 수상 불발..2년째 인터내셔널 그룹 후보만]]></title>
-        <id>https://entertain.v.daum.net/v/20220209074959182</id>
-        <link href="https://entertain.v.daum.net/v/20220209074959182"/>
-        <updated>2022-02-08T23:12:05.651Z</updated>
-        <content type="html"><![CDATA[(런던·서울=연합뉴스) 최윤정 특파원 이태수 기자 = 그룹 방탄소년단(BTS)이 영국 대중음악상 '브릿 어워즈'(BRIT Awards)에 2년 연속 후보로 올랐지만 수상에는 이르진 못했다. 8일(현지시간) 런던 오투(O2) 아레나에서 개최된 브릿 어워즈 시상식에서는 '인터내셔널 그룹' 부문 후보로 BTS도 소개됐지만 트로피는 팝스타 브루노 마스와 앤더슨 팩]]></content>
     </entry>
 </feed>
