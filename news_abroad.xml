@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2022-02-10T21:12:07.088Z</updated>
+    <updated>2022-02-10T22:11:16.113Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[킴 카다시안, "내가 행복해지기 위해 카녜이 웨스트와 이혼" 최초 고백]]></title>
+        <id>https://entertain.v.daum.net/v/20220211061207046</id>
+        <link href="https://entertain.v.daum.net/v/20220211061207046"/>
+        <updated>2022-02-10T22:11:15.470Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]세계적 셀럽 킴 카다시안(41)이 힙합스타 카녜이 웨스트(44)와 이혼한 이유를 밝혔다. 카녜이 웨스트는 9일(현지시간) ‘보그’ 3월호 커버스토리에서 자신의 행복을 우선시하는 학습이 지난해 카니예 웨스트에서 결별하는 결정에 어떻게 기여했는지에 대해 털어놓았다. 그는 “나는 오랫동안 다른 사람들을 행복하게 하는 일을 했다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['56세' 브룩 쉴즈, 과감한 토플리스 청바지 화보..아찔한 뒤태]]></title>
         <id>https://entertain.v.daum.net/v/20220211002001953</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220210100533197"/>
         <updated>2022-02-10T01:55:18.247Z</updated>
         <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]메간 폭스(35)와 브라이언 오스틴 그린(48)이 이혼을 확정했다. 9일(현지시간) TMZ에 따르면, 최근 머신 건 켈리(31)와의 약혼을 발표한 메간 폭스는 법적인 문제를 모두 해결하고 브라이언 오스틴 그린과 헤어졌다. 이들은 2004년 만났다. 2006년 11월에 처음 약혼을 했고, 이후 2009년 2월에 약혼을 취소했다]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['8살 연상 개그맨과 결혼' 아오이 유우, 첫 아이 임신]]></title>
-        <id>https://entertain.v.daum.net/v/20220210095136541</id>
-        <link href="https://entertain.v.daum.net/v/20220210095136541"/>
-        <updated>2022-02-10T01:55:18.247Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 이민지 기자] 아오이 유우가 첫 아이를 임신했다. 2월 10일(현지시간) 일본 매체 닛칸스포츠에 따르면 아오이 유우 남편이자 개그맨 야마사토 료타 소속사 측은 "두 사람이 결혼 3년만에 첫 아이를 임신했다"고 밝혔다. 야마사토 료타는 이날 TBS라디오를 통해 아내인 배우 아오이 유우가 첫 아이를 임신했다고 직접 밝혔다. 야마사토는 "감사하게]]></content>
     </entry>
 </feed>
