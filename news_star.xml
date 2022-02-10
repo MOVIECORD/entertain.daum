@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2022-02-10T16:16:17.303Z</updated>
+    <updated>2022-02-10T17:12:16.421Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[지연♥황재균→현빈♥손예진 결혼발표 "인생의 2막"..축하 물결ing]]></title>
+        <id>https://entertain.v.daum.net/v/20220211012249946</id>
+        <link href="https://entertain.v.daum.net/v/20220211012249946"/>
+        <updated>2022-02-10T17:12:10.815Z</updated>
+        <content type="html"><![CDATA[배우 현빈과 손예진, 티아라 지연과 야구선수 황재균이 결혼을 발표한 가운데 많은 축하를 받고 있다. 손예진의 소속사 엠에스팀엔터테인먼트는 지난 10일 오후 공식입장을 통해 “손예진과 현빈 두 사람이 앞으로의 인생을 함께 할 동반자로 백년가약을 맺게 되었다”라고 밝혔다. 이어 “많은 분들의 따듯한 응원과 관심 속에 만남을 이어온 두사람이 오는 3월 서울]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['혼전임신설' 티아라 지연♥황재균, 갑작스런 결혼 발표한 이유]]></title>
         <id>https://entertain.v.daum.net/v/20220211005416802</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220210235012731"/>
         <updated>2022-02-10T15:12:13.592Z</updated>
         <content type="html"><![CDATA[(서울=뉴스1) 박하나 기자 = '국가수'에 어머니들이 첫 관객으로 함께했다. 10일 오후에 방송된 TV조선 예능 프로그램 '국가수'에서는 '사랑하는 사람들을 위한 노래'를 주제로 하하 팀(하하 신봉선 박창근 고은성 조연호)과 김종민 팀(김종민 김동현 김동현 이솔로몬 이병찬)의 두 번째 커튼콜 대결이 펼쳐졌다. 커튼콜 무대 뒤편에는 박창근, 고은성, 조]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['국가수' 이병찬→고은성, 유일한 관객 母 향한 공연 '눈물 펑펑']]></title>
-        <id>https://entertain.v.daum.net/v/20220210234952725</id>
-        <link href="https://entertain.v.daum.net/v/20220210234952725"/>
-        <updated>2022-02-10T15:12:13.593Z</updated>
-        <content type="html"><![CDATA[[스포츠경향] ‘국가수’ TOP6가 유일한 관객 어머니에게 노래했다. 10일 오후 방송된 TV조선 예능프로그램 ‘국가수’에서는 두 번째 커튼콜에 오른 TOP6의 모습이 전파를 탔다. 이날 첫 번째 커튼콜을 마친 멤버들은 주차장으로 향했다. 큰 차에 붙어있는 종이를 떼자 10만 원이라고 쓰여있었고 타는 게 아닌 사야 한다는 것에 박창근은 “우리 돈 있]]></content>
     </entry>
 </feed>
