@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2022-02-10T15:12:18.773Z</updated>
+    <updated>2022-02-10T16:16:17.308Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['56세' 브룩 쉴즈, 과감한 토플리스 청바지 화보..아찔한 뒤태]]></title>
+        <id>https://entertain.v.daum.net/v/20220211002001953</id>
+        <link href="https://entertain.v.daum.net/v/20220211002001953"/>
+        <updated>2022-02-10T16:16:16.468Z</updated>
+        <content type="html"><![CDATA[할리우드 배우 브룩 쉴즈가 과감한 토플리스(상의 탈의) 청바지 화보를 선보였다. 브룩 쉴즈는 9일(현지시간) 자신의 인스타그램을 통해 패션 브랜드 '조다쉬'(Jordache)와 함께한 화보를 여러 장 공개했다. '조다쉬'는 1980년대 청바지와 가방 등으로 국내에서도 선풍적인 인기를 끌었던 브랜드다. 15살의 어린 나이에 '나와 캘빈 클라인 사이에는]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[쿠엔틴 타란티노, 환갑 앞두고 두아이 아빠된다]]></title>
         <id>https://entertain.v.daum.net/v/20220210194309573</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220210095136541"/>
         <updated>2022-02-10T01:55:18.247Z</updated>
         <content type="html"><![CDATA[[뉴스엔 이민지 기자] 아오이 유우가 첫 아이를 임신했다. 2월 10일(현지시간) 일본 매체 닛칸스포츠에 따르면 아오이 유우 남편이자 개그맨 야마사토 료타 소속사 측은 "두 사람이 결혼 3년만에 첫 아이를 임신했다"고 밝혔다. 야마사토 료타는 이날 TBS라디오를 통해 아내인 배우 아오이 유우가 첫 아이를 임신했다고 직접 밝혔다. 야마사토는 "감사하게]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[배두나, 잭 스나이더 감독 신작 합류]]></title>
-        <id>https://entertain.v.daum.net/v/20220210094128168</id>
-        <link href="https://entertain.v.daum.net/v/20220210094128168"/>
-        <updated>2022-02-10T00:42:16.387Z</updated>
-        <content type="html"><![CDATA[[티브이데일리 김종은 기자] 배우 배두나가 '맨 오브 스틸' '저스티스 리그' 등을 선보인 잭 스나이더 감독의 신작에 합류한다. 미국 연예매체 할리우드 리포터는 9일(현지시간) "찰리 허냄, 디몬 하운스, 배두나, 레이 피셔가 잭 스나이더 감독의 신작 '레블 문(Rebel Moon)'에 출연한다"고 보도했다. '레블 문'은 은하 끝자락에 위치한 한 평화로]]></content>
     </entry>
 </feed>
