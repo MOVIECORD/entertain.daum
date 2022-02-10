@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2022-02-10T10:13:07.755Z</updated>
+    <updated>2022-02-10T11:09:42.487Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[쿠엔틴 타란티노, 환갑 앞두고 두아이 아빠된다]]></title>
+        <id>https://entertain.v.daum.net/v/20220210194309573</id>
+        <link href="https://entertain.v.daum.net/v/20220210194309573"/>
+        <updated>2022-02-10T11:09:41.856Z</updated>
+        <content type="html"><![CDATA[[티브이데일리 김종은 기자] 미국 유명 감독 쿠엔틴 타란티노(58)가 환갑을 앞두고 둘째를 갖게 됐다. 미국 연예매체 페이지식스는 9일(현지시간) "쿠엔틴 타란티노의 아내 다니엘라 픽(38)이 둘째를 임신했다. 다니엘라 픽은 몇 달 안에 출산할 예정"이라고 보도했다. 쿠엔틴 타란티노가 지난 2020년 2월 아들 레오를 품에 안은지 약 2년 만으로, 그는]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[탕웨이♥김태용 감독, 느닷없는 이혼·별거설.."금시초문" 반박]]></title>
         <id>https://entertain.v.daum.net/v/20220210185008639</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220210094128168"/>
         <updated>2022-02-10T00:42:16.387Z</updated>
         <content type="html"><![CDATA[[티브이데일리 김종은 기자] 배우 배두나가 '맨 오브 스틸' '저스티스 리그' 등을 선보인 잭 스나이더 감독의 신작에 합류한다. 미국 연예매체 할리우드 리포터는 9일(현지시간) "찰리 허냄, 디몬 하운스, 배두나, 레이 피셔가 잭 스나이더 감독의 신작 '레블 문(Rebel Moon)'에 출연한다"고 보도했다. '레블 문'은 은하 끝자락에 위치한 한 평화로]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[킴 카다시안 "카니예 웨스트와 이혼은 날 위한 선택"]]></title>
-        <id>https://entertain.v.daum.net/v/20220210090736924</id>
-        <link href="https://entertain.v.daum.net/v/20220210090736924"/>
-        <updated>2022-02-10T00:42:16.388Z</updated>
-        <content type="html"><![CDATA[킴 카다시안이 카니예 웨스트와의 이혼 이유에 대해 밝혔다. 킴 카다시안은 미국 보그 3월호 인터뷰에서 "오랜시간 나는 내가 아닌 다른 사람을 행복하게 하는 일을 했다. 그리고 지난 2년간 나 자신을 행복하게 만들어야겠다고 결심했다. 기분이 정말 좋다"면서 "그것이 변화를 일으키고 이혼까지 오게 만들었다고 해도, 나는 무엇이 스스로를 행복하게 만드는지에]]></content>
     </entry>
 </feed>
