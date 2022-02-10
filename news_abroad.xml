@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2022-02-10T07:11:03.158Z</updated>
+    <updated>2022-02-10T08:13:40.085Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[아오이 유우, 결혼 3년 만에 임신]]></title>
+        <id>https://entertain.v.daum.net/v/20220210162608346</id>
+        <link href="https://entertain.v.daum.net/v/20220210162608346"/>
+        <updated>2022-02-10T08:13:39.413Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 천주영 기자] 일본 배우 아오이 유우가 결혼 3년여 만에 엄마가 된다. 일본 매체 산케이 스포츠, 닛칸 스포츠 등 다수의 현지 매체는 10일 아오이 유우의 임신 소식을 보도했다. 매체에 따르면 아오이 유우와 남편이자 개그맨 야마사토 료타가 함께 임신 소식을 전하며 "많은 관계자분들의 이해와 협력으로 무사히 안정기에 접어들었다. 여름쯤 출산]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[제니퍼 로페즈 "♥︎벤 애플렉과 수십년만 재결합, 우리가 제일 충격"]]></title>
         <id>https://entertain.v.daum.net/v/20220210160525412</id>
@@ -48,7 +55,7 @@
         <content type="html"><![CDATA[[OSEN=최나영 기자] 영화 '테이큰'으로 유명한&nbsp;할리우드 배우 리암 니슨이 최근 호주 여성(69)에 반했었다고&nbsp;깜짝 고백했다. 리암 니슨은 최근 호주 아침 토크쇼 '선라이즈'에 출연해 신작 영화 '블랙라이트'의 언론 투어 도중 로케이션 촬영에서 만난 한&nbsp;호주 여성에게 빠졌다고 털어놓은&nbsp;것. 그는 "멜버른이 좋았다"라며 "호주 제작진을 사랑했다"고 말]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[日 아오이 유우, 임신!..9살 연상 '추남 개그맨' 남편 닮으면 어쩌나]]></title>
+        <title type="html"><![CDATA[日 아오이 유우, 임신!..9살 연상 '추남 개그맨' 남편 닮으면 어쩌지]]></title>
         <id>https://entertain.v.daum.net/v/20220210145439845</id>
         <link href="https://entertain.v.daum.net/v/20220210145439845"/>
         <updated>2022-02-10T06:13:43.072Z</updated>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220210082926873"/>
         <updated>2022-02-10T00:42:16.388Z</updated>
         <content type="html"><![CDATA[[스포츠조선 문지연 기자] 미국배우조합상(SAG) 후보에 오른 '오징어 게임'이 홍보를 위한 오프라인 극장 상영을 준비했다. 미국 현지 연예매체인 버라이어티지는 9일(현지시간) 넷플릭스가 뉴욕과 로스앤젤레스(LA)의 영화관에서 오리지널 시리즈인 '오징어 게임'을 상영할 예정이라고 보도했다. '오징어 게임'은 넷플릭스가 운영하는 뉴욕의 파리 시]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[쿠엔틴 타란티노, 두 아이 아빠된다..아내는 20세 연하♥︎]]></title>
-        <id>https://entertain.v.daum.net/v/20220210073552766</id>
-        <link href="https://entertain.v.daum.net/v/20220210073552766"/>
-        <updated>2022-02-09T23:11:15.037Z</updated>
-        <content type="html"><![CDATA[[OSEN=최나영 기자] 영화 '저수지의 개들', '펄프픽션' 등으로 유명한 쿠엔틴 타란티노 감독(58)이 두 아이의 아빠가 된다. E! News의 9일(현지시간) 보도에 따르면 타란티노의&nbsp;아내 다니엘라 픽(38)은 현재 두 번째 아이를 임신 중이다. 다니엘라는&nbsp;몇 달 내에&nbsp;출산할 예정이다. 이 같은 기쁜 소식은 두 사람이 2020년 2월 아들 레오를]]></content>
     </entry>
 </feed>
