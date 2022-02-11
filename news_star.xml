@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2022-02-11T10:12:25.993Z</updated>
+    <updated>2022-02-11T11:09:49.471Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['올림픽金' 부르는 K팝.."쇼트트랙 황대헌·이준서·이유빈, 제니·슬기·BTS 지민 팬"]]></title>
+        <id>https://entertain.v.daum.net/v/20220211200105374</id>
+        <link href="https://entertain.v.daum.net/v/20220211200105374"/>
+        <updated>2022-02-11T11:09:44.134Z</updated>
+        <content type="html"><![CDATA[[텐아시아=김지원 기자] 세계 최정상 한국 쇼트트랙 국가대표 선수들에게 힘을 주는 활력소는 K팝이었다. 빙판 위 카리스마 넘치는 모습과 또 다른 K팝 팬으로서 귀여운 모습도 화제가 되고 있다. 쇼트트랙 국가대표 곽윤기 선수는 지난해 8월 자신의 유튜브 채널 '꽉잡아윤기'를 통해 동료 선수들의 팬심을 알아보는 콘텐츠를 올렸다. 곽윤기는 "(올림픽) 하계]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['결미야' 최양락, BTS 메이크업 결과는?..스튜디오 초토화]]></title>
+        <id>https://entertain.v.daum.net/v/20220211195610293</id>
+        <link href="https://entertain.v.daum.net/v/20220211195610293"/>
+        <updated>2022-02-11T11:09:44.136Z</updated>
+        <content type="html"><![CDATA[[스포츠투데이 최혜진 기자] '결미야' 팽현숙 최양락 부부가 듀엣곡 '숙아'를 선보인다. 11일 방송되는 채널 IHQ 예능프로그램 '결혼은 미친 짓이야'(이하 결미야) 14회에서는 듀엣곡 '숙아'를 녹음하는 팽현숙 최양락 부부의 모습이 공개된다. 두 사람은 최근 진행된 녹화에서 '숙아' 녹음에 돌입했다. 가이드 버전을 들은 팽현숙은 "나를 위한 노래인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[확진 또 확진..조권·엔하이픈 선우·김태연, 가요계 삼킨 팬데믹]]></title>
+        <id>https://entertain.v.daum.net/v/20220211194003077</id>
+        <link href="https://entertain.v.daum.net/v/20220211194003077"/>
+        <updated>2022-02-11T11:09:44.140Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 김노을 기자) 그룹 2AM 조권, 엔하이픈 선우, 김태연 등이 코로나19 확진 판정을 받았다. 끊임없는 가요계 확진 소식에 팬들의 안타까움을 더욱 커져가고 있다. 조권 소속사 큐브엔터테인먼트는 11일 "조권은 지난 10일 최초 검사(자가검사키트)를 통해 양성반응이 나와 즉시 보건소를 찾아 코로나19 PCR 검사를 진행, 금일 확진 판정을 받았]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['허지웅쇼' 박정현 "美서 6학년인데 유치원생과 키 비슷했다"]]></title>
+        <id>https://entertain.v.daum.net/v/20220211191240734</id>
+        <link href="https://entertain.v.daum.net/v/20220211191240734"/>
+        <updated>2022-02-11T11:09:44.141Z</updated>
+        <content type="html"><![CDATA[[스포츠경향] ‘허지웅쇼’ 박정현이 키가 콤플렉스였다고 밝혔다. 11일 오후 방송된 SBS 러브FM ‘허지웅쇼’에서는 가수 박정현이 게스트로 출격했다. 이날 허지웅은 “정현 님도 콤플렉스가 있나요?”라며 청취자 질문을 전했다. 박정현은 “있죠. 누가 없겠어요? 어린 시절을 미국에서 보냈다. 제가 키가 되게 작다. 특히 미국 사람들 중에는 놀랍게도 작]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["우리 결혼했어요"..현빈·손예진→지연·황재균, ★부부 탄생 릴레이]]></title>
         <id>https://entertain.v.daum.net/v/20220211190147566</id>
@@ -81,33 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220211173905023"/>
         <updated>2022-02-11T09:11:50.959Z</updated>
         <content type="html"><![CDATA[[손화신 기자] 국내 최초로 기상청을 배경으로 하는 드라마가 탄생한다. 오는 12일 토요일 오후 10시 30분 JTBC에서 첫 방송하는 새 토일드라마 &lt;기상청 사람들: 사내연애 잔혹사 편&gt;(아래 &lt;기상청 사람들&gt;)이 바로 그 주인공이다.&nbsp; 열대야보다 뜨겁고 국지성 호우보다 종잡을 수 없는 기상청 사람들의 일과 사랑을 그린 직장 로맨스 &lt;기상청 사람들&gt;의 제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["XXX 닮았다"..최양락, 아이돌 메이크업에 스튜디오 초토화]]></title>
-        <id>https://entertain.v.daum.net/v/20220211173827002</id>
-        <link href="https://entertain.v.daum.net/v/20220211173827002"/>
-        <updated>2022-02-11T09:11:50.963Z</updated>
-        <content type="html"><![CDATA[[마이데일리 = 이승록 기자] '결미야' 팽현숙 최양락 부부가 듀엣곡 '숙아'를 선보인다. 11일 밤 10시 30분 방송되는 채널 IHQ 예능 프로그램 '결혼은 미친 짓이야'(이하 결미야) 14회에서는 듀엣곡 '숙아'를 녹음하는 팽현숙 최양락 부부의 모습이 공개된다. 두 사람은 최근 진행된 녹화에서 '숙아' 녹음에 돌입했다. 가이드 버전을 들은 팽현숙은]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["팬♥ 보답" 옹성우 3월 12일 두번째 국내팬미팅 개최]]></title>
-        <id>https://entertain.v.daum.net/v/20220211173350900</id>
-        <link href="https://entertain.v.daum.net/v/20220211173350900"/>
-        <updated>2022-02-11T09:11:50.964Z</updated>
-        <content type="html"><![CDATA[[동아닷컴] 옹성우가 두 번째 국내 팬미팅을 개최한다. 소속사 판타지오는 11일 "옹성우가 3월 두 번째 국내 팬미팅을 개최한다. 팬들과 함께 즐거운 시간을 보내기 위해 다양한 준비에 박차를 가하고 있으니 많은 기대와 성원 부탁한다"고 밝했다. 판타지오에 따르면 옹성우는 3월 12일 오후 2시와 7시 서울 KBS 아레나에서 팬미팅 'RE:MEET'(리밋)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['미스트롯2' 김태연, 신속항원검사 양성..부산 공연 연기]]></title>
-        <id>https://entertain.v.daum.net/v/20220211173309883</id>
-        <link href="https://entertain.v.daum.net/v/20220211173309883"/>
-        <updated>2022-02-11T09:11:50.964Z</updated>
-        <content type="html"><![CDATA[‘미스트롯2’ 출신 가수 김태연이 코로나19 신속항원검사에서 양성 판정을 받았다. 소속사 린브랜딩은 11일 공식입장을 통해 “김태연은 스케줄 참석 전 선제적 조치를 위해 매번 신속항원검사를 진행해 왔으며, 11일 신속항원검사 결과 양성 판정을 받았다. 현재는 PCR 검사를 받은 후 최종 결과를 기다리고 있다”라고 밝혔다. 이어 “이에 따라 김태연은 현재]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['전역 앞둔' 병장 박보검, 신병 앞에서 강연 "군 복무는 소중한 시간"]]></title>
-        <id>https://entertain.v.daum.net/v/20220211172924763</id>
-        <link href="https://entertain.v.daum.net/v/20220211172924763"/>
-        <updated>2022-02-11T09:11:50.964Z</updated>
-        <content type="html"><![CDATA[[마이데일리 = 이승길 기자] 군 복무 중인 배우 박보검(29)이 막 군 생활을 시작한 신병들에게 조언을 건넸다. 10일 국방일보에 따르면 해군 군악의장대대 홍보대에서 근무하고 있는 박보검은 이날 해군교육사령부 신병교육대대 교육관에서 열린 '모범 리더 병사 군 복무 성공사례 교육'에 교관으로 연단에 섰다. '모범 리더 병사 군 복무 성공사례 교육'은 기초]]></content>
     </entry>
 </feed>
