@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2022-02-12T17:10:36.095Z</updated>
+    <updated>2022-02-12T18:13:05.443Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이효리, 막내 보아 컨디션 고민에 "한창 예쁠 나이"]]></title>
+        <id>https://entertain.v.daum.net/v/20220213030008098</id>
+        <link href="https://entertain.v.daum.net/v/20220213030008098"/>
+        <updated>2022-02-12T18:13:00.682Z</updated>
+        <content type="html"><![CDATA[[동아닷컴] 사진 제공 = 티빙(TVING)최초의 OTT 파일럿으로 화제를 모은 ‘서울체크인’이 미공개 영상을 공개했다. 티빙 오리지널 ‘서울체크인’(연출 김태호, 김훈범, 강령미/ 작가 최혜정) 미공개 영상에서는 ‘댄스가수 유랑단’의 못다한 이야기가 공개되며, 즐겁게 아이디어를 나누는 모습이 그려졌다. 이효리는 2021 MAMA를 준비하며 최초로 떠올린]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[제니, 걸그룹 출신 불륜녀 오해에 분노 "너무 황당, 억측 힘들어"]]></title>
         <id>https://entertain.v.daum.net/v/20220213005136904</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220212232701478"/>
         <updated>2022-02-12T15:10:45.373Z</updated>
         <content type="html"><![CDATA[홍성흔♥강정임 부부의 딸, 아들인 화리, 화철이 다퉜다. 12일 방송된 KBS 2TV '살림하는 남자들 시즌2'에서 홍성흔♥강정임 부부의 이야기가 공개됐다. 홍성흔은 새해맞이 번지점프로 다시 태어났다며 강정임에게 잘해주려는 모습을 보였다. 하지만 두 사람과 달리 화리, 화철 남매는 사이가 좋지 않았다. 하리가 샤워하러 들어간 사이, 화철이 문에 찰싹 붙어]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['기상청 사람들' 박민영·송강, 특보 놓고 언성 높이며 첫 만남 '살벌']]></title>
-        <id>https://entertain.v.daum.net/v/20220212232537453</id>
-        <link href="https://entertain.v.daum.net/v/20220212232537453"/>
-        <updated>2022-02-12T15:10:45.374Z</updated>
-        <content type="html"><![CDATA[(서울=뉴스1) 황미현 기자 = '기상청 사람들'의 박민영과 송강이 특보를 놓고 티격태격하며 첫 만남을 가졌다. 12일 오후 10시30분 처음 방송된 JTBC '기상청 사람들: 사내연애 잔혹사 편'에는 기상청에서 일하는 사람들의 일과 로맨스 이야기가 담겼다. 이날 진하경(박민영 분)은 사내 연애 중인 한기준(윤박 분)과 결혼을 앞두고 있었다. 그러던]]></content>
     </entry>
 </feed>
