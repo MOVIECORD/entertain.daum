@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2022-02-12T19:09:10.011Z</updated>
+    <updated>2022-02-12T20:11:47.431Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[미쓰라X김희철, 열애설 날 정도로 각별한 사이]]></title>
+        <id>https://entertain.v.daum.net/v/20220213051002278</id>
+        <link href="https://entertain.v.daum.net/v/20220213051002278"/>
+        <updated>2022-02-12T20:11:42.516Z</updated>
+        <content type="html"><![CDATA[(서울=뉴스1) 이아영 기자 = 미쓰라와 김희철이 열애설이 날 정도로 각별했던 사이를 자랑했다. 지난 12일 방송된 JTBC '아는 형님'에는 에픽하이가 출연, 형님들과의 친분을 자랑했다. 투컷은 서장훈과 인연이 있다고 밝혔다. 투컷은 "14~15년 정도 된 것 같다. 아는 형이 술 먹고 있다고 해서 갔는데 서장훈이 있었다. 서장훈은 굉장히 과묵했다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['신사와 아가씨' 이세희 빼고 모두가 알게 된 이일화 정체]]></title>
+        <id>https://entertain.v.daum.net/v/20220213045004202</id>
+        <link href="https://entertain.v.daum.net/v/20220213045004202"/>
+        <updated>2022-02-12T20:11:42.516Z</updated>
+        <content type="html"><![CDATA[(서울=뉴스1) 이아영 기자 = '신사와 아가씨' 이일화가 이세희의 친모라는 사실을 이세희 빼고 모두가 알게 됐다. 지난 12일 방송된 KBS 2TV 주말드라마 '신사와 아가씨'(극본 김사경/연출 신창석)에서는 차연실(오현경 분)이 박수철(이종원 분)과 애나킴(이일화 분) 사이를 의심하기 시작했다. 박수철은 애나킴을 만나 얼른 박단단(이세희 분)을 미국]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['그알' 부동산 분양 합숙소와 헬퍼의 비밀.."헬퍼 커뮤 블랙리스트 '사적 응징' 당할 위험有"]]></title>
         <id>https://entertain.v.daum.net/v/20220213034201125</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220212233814517"/>
         <updated>2022-02-12T15:10:45.370Z</updated>
         <content type="html"><![CDATA[(서울=뉴스1) 이아영 기자 = 율희가 최민환의 지지 속에 대학 입시에 도전하기로 했다. 김봉곤 전혜란 부부는 세 자매 덕분에 웨딩 사진을 남겼다. 12일 방송된 KBS 2TV '살림하는 남자들'에서는 율희가 대학에 가고 싶다고 말했다. 최민환은 율희에게 외출하자고 했다. 율희는 어디 가는지도 모르고 따라나섰다. 최민환은 "어제 말을 했으니까, 좀 알아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['살림남2' 율희 "고1 자퇴 후 검정고시"..대학 진학 도전]]></title>
-        <id>https://entertain.v.daum.net/v/20220212233600511</id>
-        <link href="https://entertain.v.daum.net/v/20220212233600511"/>
-        <updated>2022-02-12T15:10:45.371Z</updated>
-        <content type="html"><![CDATA[율희가 고등학교 1학년 때 자퇴한 뒤 검정고시를 봤다고 밝혔다. 이와 함께 대학 진학에 대한 목표를 드러냈다. 12일 방송된 KBS 2TV '살림하는 남자들 시즌2'에서 최민환♥율희 부부의 이야기가 공개됐다. 율희는 이제 44개월에 접어든 아들 재율을 영어 유치원에 보내기 위해 알아보고 있다고 밝혔다. 하지만 율희는 시무룩한 모습을 보였다. 영어 유치원의]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['기상청 사람들' 박민영, 마음대로 특보 발령한 송강에 "딱 기다려"]]></title>
-        <id>https://entertain.v.daum.net/v/20220212232919491</id>
-        <link href="https://entertain.v.daum.net/v/20220212232919491"/>
-        <updated>2022-02-12T15:10:45.372Z</updated>
-        <content type="html"><![CDATA[‘기상청 사람들’ 박민영과 송강이 티격태격하게 통화를 했다. 12일 오후 방송된 JTBC ‘기상청 사람들’에서는 진하경(박민영 분)과 이시우(송강 분)가 날선 대립의 모습을 보였다. 이날 진하경은 자신의 허락도 없이 특보를 내린 이시우의 모습에 분노했다. 이시우와 통화중인 직원의 전화를 뺏은 그는 “본청 허락도 없이 특보발령 한 사람이 당신입니까?”라고]]></content>
     </entry>
 </feed>
