@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2022-02-12T18:13:05.443Z</updated>
+    <updated>2022-02-12T19:09:10.011Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['그알' 부동산 분양 합숙소와 헬퍼의 비밀.."헬퍼 커뮤 블랙리스트 '사적 응징' 당할 위험有"]]></title>
+        <id>https://entertain.v.daum.net/v/20220213034201125</id>
+        <link href="https://entertain.v.daum.net/v/20220213034201125"/>
+        <updated>2022-02-12T19:09:05.338Z</updated>
+        <content type="html"><![CDATA[[SBS연예뉴스 | 김효정 에디터] 702호에서는 무슨 일이 있었나? 12일 방송된 SBS '그것이 알고싶다'에서는 '범죄수업 - 702호 합숙생과 "헬퍼"의 비밀'이라는 부제로 강서구 부동산 분양 합숙소 추락 사건을 추적했다. 지난 1월 9일 오전 10시경 강서구의 한 빌라에서 20대 남성 김지웅 씨가 추락하는 사고가 발생했다. 추락한 김 씨는 추락으로]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이효리, 막내 보아 컨디션 고민에 "한창 예쁠 나이"]]></title>
         <id>https://entertain.v.daum.net/v/20220213030008098</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220212232919491"/>
         <updated>2022-02-12T15:10:45.372Z</updated>
         <content type="html"><![CDATA[‘기상청 사람들’ 박민영과 송강이 티격태격하게 통화를 했다. 12일 오후 방송된 JTBC ‘기상청 사람들’에서는 진하경(박민영 분)과 이시우(송강 분)가 날선 대립의 모습을 보였다. 이날 진하경은 자신의 허락도 없이 특보를 내린 이시우의 모습에 분노했다. 이시우와 통화중인 직원의 전화를 뺏은 그는 “본청 허락도 없이 특보발령 한 사람이 당신입니까?”라고]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['살림남2' 홍성흔, 화리·화철 남매 싸움에 "말 그대로 견원지간"]]></title>
-        <id>https://entertain.v.daum.net/v/20220212232701478</id>
-        <link href="https://entertain.v.daum.net/v/20220212232701478"/>
-        <updated>2022-02-12T15:10:45.373Z</updated>
-        <content type="html"><![CDATA[홍성흔♥강정임 부부의 딸, 아들인 화리, 화철이 다퉜다. 12일 방송된 KBS 2TV '살림하는 남자들 시즌2'에서 홍성흔♥강정임 부부의 이야기가 공개됐다. 홍성흔은 새해맞이 번지점프로 다시 태어났다며 강정임에게 잘해주려는 모습을 보였다. 하지만 두 사람과 달리 화리, 화철 남매는 사이가 좋지 않았다. 하리가 샤워하러 들어간 사이, 화철이 문에 찰싹 붙어]]></content>
     </entry>
 </feed>
