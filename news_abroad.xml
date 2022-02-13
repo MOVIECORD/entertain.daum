@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2022-02-13T07:10:59.645Z</updated>
+    <updated>2022-02-13T08:13:18.842Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["더이상 배 안 가려" 임신 리한나, D라인 노출 자랑스럽게]]></title>
+        <id>https://entertain.v.daum.net/v/20220213162444018</id>
+        <link href="https://entertain.v.daum.net/v/20220213162444018"/>
+        <updated>2022-02-13T08:13:18.222Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 배효주 기자] 임신한 리한나가 D라인을 자랑스럽게 드러냈다. 할리우드 스타 리한나는 2월 11일(현지시간) 미국 캘리포니아주 로스앤젤레스에서 열린 자신의 브랜드 펜티 뷰티 행사에 연예인 동료이자 연인 사이인 에이셉 라키와 함께 참석했다. 카메라 앞에 선 리한나는 완연한 D라인을 자랑하고 있다. 에이셉 라키 역시 레드카펫에 올라 리한나의 D라인을]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[흑인 래퍼, 저스틴 비버 파티장 총격사건 피해자였다]]></title>
         <id>https://entertain.v.daum.net/v/20220213151623651</id>
@@ -46,12 +53,5 @@
         <link href="https://entertain.v.daum.net/v/20220212221741889"/>
         <updated>2022-02-12T14:10:03.175Z</updated>
         <content type="html"><![CDATA[(엑스포츠뉴스 김예은 기자) 할리우드 배우 브래드 피트와 그의 재단이 지은 집에서 살던 주민이 독성 곰팡이로 인해 사망했다.&nbsp; 브래드 피트와 재단은 지난 2005년 허리케인 카트리나로 피해를 입은 지역 주민들을 위해 주택을 지었다. 그러나 해당 집에는 결함이 있었으며 흰 개미가 나오는 것은 물론 곰팡이가 득실거렸다고.&nbsp; 11일(현지시간) 페이지식스에]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[브래드 피트가 지은 집, 독성 곰팡이로 1명 사망.."썩은 집" 주민들 분노]]></title>
-        <id>https://entertain.v.daum.net/v/20220212161433473</id>
-        <link href="https://entertain.v.daum.net/v/20220212161433473"/>
-        <updated>2022-02-12T08:13:23.594Z</updated>
-        <content type="html"><![CDATA[[OSEN=최나영 기자] 할리우드 배우 브래드 피트를 믿고 집을 구입한 허리케인 카트리나&nbsp;피해자들이 허망함을 감추지 못하고 있다고 페이지식스가 11일(현지시간) 전했다. 보도에 따르면 카트리나 피해자들의 론 오스틴 변호사는 최근 인터뷰에서 "그들은(주민들은)&nbsp;브래드 피트를 믿었다"리고 밝혔다. 보다 정확히&nbsp;그들은 피트가&nbsp;집들을 팔아넘긴 꿈을 믿었다고.]]></content>
     </entry>
 </feed>
