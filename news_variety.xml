@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/variety</id>
     <title>다음 연예 ─ 뉴스 ─ 예능</title>
-    <updated>2022-02-13T05:10:07.738Z</updated>
+    <updated>2022-02-13T06:13:18.227Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['자연인' 이승윤, 알고 보니 '도시남' 반전 "평소 호캉스 즐겨"]]></title>
+        <id>https://entertain.v.daum.net/v/20220213145412138</id>
+        <link href="https://entertain.v.daum.net/v/20220213145412138"/>
+        <updated>2022-02-13T06:13:08.535Z</updated>
+        <content type="html"><![CDATA[[OSEN=연휘선 기자]&nbsp;‘반자연인’ 이승윤이 “평소에는 주로 호캉스를 즐긴다”면서 극과극 시티보이 반전 매력을 뽐낸다. 오늘(13일)&nbsp;방송되는&nbsp;MBN 예능 프로그램 ‘신과 한판’에는 지난주에 이어 ‘나는 자연인이다’의&nbsp;10년차&nbsp;MC&nbsp;윤택과 이승윤이 출격, 2회차 인생을 위한 기막힌 환생 토크&nbsp;2탄이 펼쳐진다.&nbsp;척박한 자연에서 저세상으로 불시착한 이들]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['반 자연인' 이승윤 "아들, 내 직업 산에 다니는 사람인 줄"]]></title>
         <id>https://entertain.v.daum.net/v/20220213135912936</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220213094058646"/>
         <updated>2022-02-13T00:44:03.553Z</updated>
         <content type="html"><![CDATA[[OSEN=하수정 기자] ‘알쓸범잡2’가 민주주의의 역사가 살아 숨 쉬는 광주에서 잊어서는 안 될 아픔들에 대해 나눈다. 2월 13일 밤 10시 50분에 방송되는 tvN ‘알아두면 쓸데있는 범죄 잡학사전 – 알쓸범잡2’(연출 양정우, 전혜림) 6회에서는 윤종신, 권일용, 김상욱, 장강명, 서혜진, 그리고 반가운 얼굴 정재민이 광주에 모여 과거의 비극들을]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[5마리 고양이에 공격 받는 새로이 "관계 개선 불가, 입양이 최선"]]></title>
-        <id>https://entertain.v.daum.net/v/20220213094037641</id>
-        <link href="https://entertain.v.daum.net/v/20220213094037641"/>
-        <updated>2022-02-13T00:44:03.563Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 이해정 기자] 새로이가 5마리 고양이들로부터 괴롭힘을 당하는 이유가 무엇일까. 2월 13일 방송된 SBS '동물농장'에서는 한 자리만 고집하는 고양이 새로이가 고민이라는 사연이 공개됐다. 이날 제작진이 찾은 곳은 고양이들이 가득한 한 카페. 애니멀홀더로부터 학대 받은 고양이들이 입양자를 기다리며 지내는 쉼터 겸 카페라고 한다. 수많은 고양이]]></content>
     </entry>
 </feed>
