@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-02-14T13:14:39.949Z</updated>
+    <updated>2022-02-14T14:11:17.581Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['고스트닥터' 태인호, 안 보이는 정지훈에 헛소리 "네가 김범 망쳐"]]></title>
+        <id>https://entertain.v.daum.net/v/20220214230728774</id>
+        <link href="https://entertain.v.daum.net/v/20220214230728774"/>
+        <updated>2022-02-14T14:11:01.961Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 이시연 기자] /사진= tvN '고스트 닥터' 방송 화면'고스트 닥터'에서 태인호가 보이지 않는 정지훈에게 김범을 망쳤다고 헛소리를 해댔다. 14일 오후 방송된 tvN 월화드라마 '고스트 닥터'에서는 사촌동생 고승탁(김범 분)을 몰아내려 하는 한승원(태인호 분)의 모습이 그려졌다. 이날 한승원은 고승탁의 정신병과 의료사고를 핑계로 병원에서 영]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[시즌3 가나요? '슬의생' 정경호, 김대명 99즈와 율제병원 인증샷 화제]]></title>
         <id>https://entertain.v.daum.net/v/20220214201818848</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220214141829247"/>
         <updated>2022-02-14T06:13:46.882Z</updated>
         <content type="html"><![CDATA[[동아닷컴] 박민영·송강이 벼락 같이 이뤄진 하룻밤을 보냈다. 13일 방송된 JTBC 토일드라마 ’기상청 사람들: 사내연애 잔혹사 편’(연출 차영훈, 극본 선영, 크리에이터 글Line&amp;강은경, 약칭 ‘기상청 사람들’)에서는 달콤했던 사내 연애의 그 잔혹한 민낯이 드러났다. 기상청에서 얼굴을 마주하게 된 총괄예보관 진하경(박민영 분), 특보담당 이시우(송강]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['고스트 닥터' 김범-손나은, 댕냥 커플의 미묘한 기류]]></title>
-        <id>https://entertain.v.daum.net/v/20220214141335897</id>
-        <link href="https://entertain.v.daum.net/v/20220214141335897"/>
-        <updated>2022-02-14T06:13:46.883Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 김명미 기자] ‘고스트 닥터’ 속 ‘댕냥 커플’ 김범과 손나은의 미묘한 기류가 눈길을 사로잡는다. 2월 14일 오후 10시 30분에 방송되는 tvN 월화드라마 ‘고스트 닥터’(연출 부성철/ 극본 김선수/ 제작 스튜디오드래곤, 본팩토리) 13회에서는 김범(고승탁 역)과 손나은(오수정 역)이 병원이 아닌 다른 곳에서 마주하게 된다. 앞서 오수정(손나]]></content>
     </entry>
 </feed>
