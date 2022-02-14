@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2022-02-14T08:14:35.134Z</updated>
+    <updated>2022-02-14T09:11:39.263Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['에반게리온'→'고질라'까지..안노 히데아키, 'SJHU' 프로젝트 발표]]></title>
+        <id>https://entertain.v.daum.net/v/20220214174452962</id>
+        <link href="https://entertain.v.daum.net/v/20220214174452962"/>
+        <updated>2022-02-14T09:11:38.648Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 이창규 기자) '에반게리온' 시리즈로 유명한 안노 히데아키 감독이 초대형 프로젝트의 진행을 알렸다. 14일 토에이와 토호, 스튜디오 카라, 츠부라야 프로덕션 등은 홈페이지를 열고 '신 재팬 히어로즈 유니버스'(SJHU)의 출범을 알렸다. 발표에 따르면 2016년 개봉한 '신 고질라'와 지난해 개봉한 '신 에반게리온 극장판&nbsp;:∥', 그리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['고스트버스터즈' 이반 라이트만 감독, 자택서 사망..향년 75세]]></title>
         <id>https://entertain.v.daum.net/v/20220214151556899</id>
@@ -18,12 +25,5 @@
         <link href="https://entertain.v.daum.net/v/20220214080231665"/>
         <updated>2022-02-13T23:11:31.231Z</updated>
         <content type="html"><![CDATA[미국 매체가 베이징에 내린 폭설로 올림픽 성화가 꺼졌을 수 있다는 의혹을 제기했다. 베이징 조직위원회측은 이를 부인했고, 이후 성화가 정상적으로 타고 있는 사진이 공개되면서 논란은 일단락되는 모양새다. 14일 미국 매체인 USA투데이스포츠는 따르면 전날(13일) 새벽부터 베이징에 내린 폭설로 올림픽 성화가 꺼졌을지도 모른다고 보도했다. 실제로 USA 투데이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["브래드 피트, 난 책임 없다" 발뺌, 독성 곰팡이 주택 사망사건 일파만파]]></title>
-        <id>https://entertain.v.daum.net/v/20220213174631436</id>
-        <link href="https://entertain.v.daum.net/v/20220213174631436"/>
-        <updated>2022-02-13T09:11:57.891Z</updated>
-        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]할리우드 배우 브래드 피트가 지은 친환경 주택이 완공된 지 10년도 되지 않아 독성 곰팡이로 인해 주민이 사망하는 사건이 발생해 파문이 확산되고 있다. 허리케인 카트리나 피해자들의 변호사는 12일(현지시간) 페이지식스와 인터뷰에서 "그들은 브래드 피트를 믿었다"고 밝혔다. 그는 "불행하게도, 그들이 받은 것은 깨진 약속들뿐]]></content>
     </entry>
 </feed>
