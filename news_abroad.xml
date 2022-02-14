@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2022-02-14T06:14:01.078Z</updated>
+    <updated>2022-02-14T07:11:43.106Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['고스트버스터즈' 이반 라이트만 감독, 자택서 사망..향년 75세]]></title>
+        <id>https://entertain.v.daum.net/v/20220214151556899</id>
+        <link href="https://entertain.v.daum.net/v/20220214151556899"/>
+        <updated>2022-02-14T07:11:42.484Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 이창규 기자) '고스트버스터즈' 시리즈로 유명한 미국의 영화감독 이반 라이트만이 세상을 떠났다. 13일(현지시간) 미국 버라이어티 등 다수 매체는 지난 12일 이반 라이트만이 캘리포니아주 몬테시토에 위치한 자택에서 숨을 거뒀다고 보도했으며, 사인은 알려지지 않았다. 향년 75세. 그의 아들이자 영화감독인 제이슨 라이트만을 비롯해]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[폭설로 성화 꺼졌다?.. 中 "눈 때문에 안보인 것"]]></title>
         <id>https://entertain.v.daum.net/v/20220214080231665</id>
@@ -25,12 +32,5 @@
         <link href="https://entertain.v.daum.net/v/20220213162444018"/>
         <updated>2022-02-13T08:13:18.222Z</updated>
         <content type="html"><![CDATA[[뉴스엔 배효주 기자] 임신한 리한나가 D라인을 자랑스럽게 드러냈다. 할리우드 스타 리한나는 2월 11일(현지시간) 미국 캘리포니아주 로스앤젤레스에서 열린 자신의 브랜드 펜티 뷰티 행사에 연예인 동료이자 연인 사이인 에이셉 라키와 함께 참석했다. 카메라 앞에 선 리한나는 완연한 D라인을 자랑하고 있다. 에이셉 라키 역시 레드카펫에 올라 리한나의 D라인을]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[흑인 래퍼, 저스틴 비버 파티장 총격사건 피해자였다]]></title>
-        <id>https://entertain.v.daum.net/v/20220213151623651</id>
-        <link href="https://entertain.v.daum.net/v/20220213151623651"/>
-        <updated>2022-02-13T07:10:59.017Z</updated>
-        <content type="html"><![CDATA[[OSEN=박소영 기자] 래퍼 코닥 블랙이 저스틴 비버가 주최한 파티장 인근에서 벌어진 총격 사건의 피해자로 밝혀졌다. 12일(현지시각) 외신 보도에 따르면 전날 밤 LA의 한 레스토랑에서 근처에서 총격 사건이 벌어졌다. 이 레스토랑에서 저스틴 비버가 주최한 애프터 파티가 열렸는데 새벽 2시 45분쯤 건물 밖에서 난데없는 총성이 울렸다. 그런데 이 파티]]></content>
     </entry>
 </feed>
