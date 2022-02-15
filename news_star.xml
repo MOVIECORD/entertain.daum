@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2022-02-15T18:13:11.708Z</updated>
+    <updated>2022-02-15T19:11:31.766Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[새로운 재미 추구한다.. 예능 콘텐츠 끝없는 재생산]]></title>
+        <id>https://entertain.v.daum.net/v/20220216040706408</id>
+        <link href="https://entertain.v.daum.net/v/20220216040706408"/>
+        <updated>2022-02-15T19:11:24.347Z</updated>
+        <content type="html"><![CDATA[지난해 큰 사랑을 받은 ‘술꾼도시여자들’(술도녀)이 이번에는 산 내음을 머금고 ‘산꾼’으로 찾아왔다. tvN 드라마 술도녀의 주연 배우 이선빈 정은지 한선화가 등산을 배워가는 과정을 담은 tvN의 예능 프로그램 ‘산꾼도시여자들’이 지난 12일 처음 방영됐다. 15일 닐슨코리아에 따르면 1회 시청률은 2.9%로 출발했다. 한선화를 제외한 나머지는 초보 등산]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[BTS 뷔, 코로나19 확진 "백신 2차 접종..다른 멤버는 모두 음성"]]></title>
         <id>https://entertain.v.daum.net/v/20220216014601530</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220216000918637"/>
         <updated>2022-02-15T15:10:52.617Z</updated>
         <content type="html"><![CDATA[(서울=뉴스1) 안은재 기자 = '화요일 밤이 좋아' 홍경민 대장이 막판 뒤집기에 성공, 박현빈 팀을 상대로 승리했다. 15일 오후 10시 방송된 TV조선 예능 프로그램 '화요일 밤이 좋아(이하 '화요일 밤')'에는 가수 박현빈과 홍경민이 대장으로 출연해 박빙 노래 대결을 펼쳤다. 이날 박현빈은 둘째 하연이의 끼가 넘친다고 이야기했다. 패널들은 아이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[임수향 "자본주의 스타일로 운동..노래방에서 유일하게 유산소"]]></title>
-        <id>https://entertain.v.daum.net/v/20220216000805610</id>
-        <link href="https://entertain.v.daum.net/v/20220216000805610"/>
-        <updated>2022-02-15T15:10:52.625Z</updated>
-        <content type="html"><![CDATA[[스포츠투데이 이소연 기자] 배우 임수향이 농구부의 멤버로 합류했지만 운동에 취미가 없다고 밝혔다. 15일 첫 방송된 JTBC '언니들이 뛴다-마녀체력 농구부(이하 마녀체력 농구부)'에서는 새 멤버들이 농구 전설 문경은, 현주엽과 대면했다. 이날 방송에서 멤버로 합류하게 된 임수향은 지병이 있냐는 질문에 "없다"라고 밝혔다. 운동을 좋아하냐는 질문에는 머뭇]]></content>
     </entry>
 </feed>
