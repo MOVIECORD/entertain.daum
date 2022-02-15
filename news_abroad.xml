@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2022-02-15T20:12:06.700Z</updated>
+    <updated>2022-02-15T21:10:18.287Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["내 남친 다치면 다 너 때문이야" 킴 카다시안, 전 남편 카녜이 웨스트에 경고]]></title>
+        <id>https://entertain.v.daum.net/v/20220216060905811</id>
+        <link href="https://entertain.v.daum.net/v/20220216060905811"/>
+        <updated>2022-02-15T21:10:17.579Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]킴 카다시안(41)이 전 남편 카녜이 웨스트(44) 때문에 자신의 남친 피트 데이비슨(28)이 신체적인 해를 입을까봐 걱정하고 있는 것으로 나타났다. 카녜이 웨스트는 14일(현지시간) 인스타그램에 킴 카다시안의 문자 메시지를 공개했다. 킴 카다시안은 힙합 아이콘에게 “당신은 위험하고 무서운 환경을 조성하고 있으며 누군가가 피]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['수두증 사망' 생후 5개월子.."안아주고 싶어" 가수 엄마의 편지]]></title>
         <id>https://entertain.v.daum.net/v/20220215184625324</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220215084221862"/>
         <updated>2022-02-15T00:44:55.968Z</updated>
         <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]힙합스타 카녜이 웨스트(44)가 전처 킴 카다시안(41)에게 밸런타인데이 선물로 ‘꽃 트럭’을 보냈지만, 정작 킴 카다시안은 코미디언 피트 데이비슨(28)과 데이트를 즐겼다. 카녜이 웨스트는 14일(현지시간) 인스타그램에 트럭에 꽃을 한 가득 실은 사진 두 장을 게재했다. 그는 킴 카다시안에게 제발 돌와와달라는 캠페인의 일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[리한나 "친구들에게 임신 숨기기 위해 노력했다", 이젠 대놓고 노출 패션]]></title>
-        <id>https://entertain.v.daum.net/v/20220215061406799</id>
-        <link href="https://entertain.v.daum.net/v/20220215061406799"/>
-        <updated>2022-02-14T22:11:10.382Z</updated>
-        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]만삭의 배를 드러내는 파격적 임신 패션으로 주목받고 있는 세계적 팝스타 리한나(33)가 처음엔 친구들에게 임신 사실을 숨겼다고 말했다. 그는 13일(현지시간) 엔터테인먼트 투나잇과 인터뷰에서 “친구들이 내 주변에 있고, 내 습관을 알기 때문에, 임신 사실을 숨기기가 더 힘들었다”고 운을 뗐다. 이어 “그들은 ‘술 안마시니?]]></content>
     </entry>
 </feed>
