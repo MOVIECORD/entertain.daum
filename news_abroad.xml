@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2022-02-16T07:11:07.568Z</updated>
+    <updated>2022-02-16T08:13:36.832Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['콰이어트 플레이스' 3편 확정..존 크래신스키 감독 연출 맡을까]]></title>
+        <id>https://entertain.v.daum.net/v/20220216165529539</id>
+        <link href="https://entertain.v.daum.net/v/20220216165529539"/>
+        <updated>2022-02-16T08:13:36.189Z</updated>
+        <content type="html"><![CDATA[[OSEN=김보라 기자]&nbsp;스릴러 영화 ‘콰이어트 플레이스’가 3편의 제작을 확정했다. 스핀오프로 진행 중인 작품과는 별개다. 15일(현지 시간) 영화 ‘콰이어트 플레이스’3편의 제작에 착수했다고 밝혔다. 이날 배급사 파라마운트 픽쳐스는 계획된 스핀오프 버전과 함께 세 번째 시리즈를 준비하고 있다고 했다. 앞서 파라마운트 측은 스핀오프의 제작 소식을 알렸]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['스타트렉4', 2023년 12월 개봉 확정..크리스 파인→존 조 복귀]]></title>
         <id>https://entertain.v.daum.net/v/20220216153751588</id>
@@ -74,12 +81,5 @@
         <link href="https://entertain.v.daum.net/v/20220215174330259"/>
         <updated>2022-02-15T09:11:58.196Z</updated>
         <content type="html"><![CDATA[[OSEN=최나영 기자] 축구스타 데이비드 베컴의 아들 브루클린 베컴과 약혼녀인 배우 니콜라 펠츠가 새 집으로 이사한다고 뉴욕포스트가 14일(현지시간) 전했다. 보도에 따르면 이 커플은 거주하던 미국 베벌리힐스 저택에&nbsp;작별 인사를 하고 선샤인 스테이트의 새 집으로 이사를 한다. 두 사람이 구입한 새 집은&nbsp;1099만 9,999 달러(한화 131억 9,44]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["韓 선수=반칙왕"..황당한 中 쇼트트랙 영화에 '분노']]></title>
-        <id>https://entertain.v.daum.net/v/20220215171003905</id>
-        <link href="https://entertain.v.daum.net/v/20220215171003905"/>
-        <updated>2022-02-15T08:13:54.176Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 이창규 기자) 2022 베이징 동계올림픽이 각종 논란으로 얼룩지고 있는 가운데, 중국 쇼트트랙 국가대표팀을 소재로 한 영화가 공개됐다.&nbsp; 지난 12일 중국의 OTT 서비스 아이치이(iQIYI)는 영화 '날아라 빙판 위의 빛'(飞吧，冰上之光)을 공개했다. '날아라 빙판 위의 빛'은 배달 기사로 일하던 주인공이 쇼트트랙 국가대표였던 어머니의]]></content>
     </entry>
 </feed>
