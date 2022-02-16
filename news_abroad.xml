@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2022-02-16T20:11:56.182Z</updated>
+    <updated>2022-02-16T21:10:48.199Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["아이 많이 낳고 콘텐츠 만들고 싶어", 카녜이 웨스트와 결별한 여배우의 꿈]]></title>
+        <id>https://entertain.v.daum.net/v/20220217060404128</id>
+        <link href="https://entertain.v.daum.net/v/20220217060404128"/>
+        <updated>2022-02-16T21:10:47.551Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]힙합스타 카녜이 웨스트(44)와 결별한 여배우 줄리아 폭스(32)가 자신의 꿈을 밝혔다. 그는 15일(현지시간) ‘더 컷’과 인터뷰에서 “궁극적으로 내 인생에서 하고 싶은 일은 아기들을 많이 낳고 콘텐츠를 쓰고 창작하는 것”이라고 밝혔다. 이어 “나는 항상 임신할 수 있기 때문에 내 외모는 중요하지 않다”고 했다. 줄리아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['오디션 출신' 스타, 환각제 LSD 소지 체포]]></title>
         <id>https://entertain.v.daum.net/v/20220216203230675</id>
@@ -81,12 +88,5 @@
         <link href="https://entertain.v.daum.net/v/20220216081501565"/>
         <updated>2022-02-16T00:42:35.668Z</updated>
         <content type="html"><![CDATA[[OSEN=최나영 기자] 촬영장에서 총기 사고로 사망한 촬영감독 故할리나 허친스 유족이&nbsp;영화 촬영장에서 고인이 사망한 장면을 재연하는 영상을 공개한 가운데&nbsp;배우 알렉 볼드윈을 상대로 사망 소송을 제기했다. 뉴욕포스트의 15일(현지시간) 보도에 따르면 유족이 공개한 '영화&nbsp;'러스트' 세트장에서 할리나 허친스 죽이기'라는 제목의 섬뜩한 영상은 볼드윈과 다른]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["내 남친 다치면 다 너 때문이야" 킴 카다시안, 전 남편 카녜이 웨스트에 경고]]></title>
-        <id>https://entertain.v.daum.net/v/20220216060905811</id>
-        <link href="https://entertain.v.daum.net/v/20220216060905811"/>
-        <updated>2022-02-15T21:10:17.579Z</updated>
-        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]킴 카다시안(41)이 전 남편 카녜이 웨스트(44) 때문에 자신의 남친 피트 데이비슨(28)이 신체적인 해를 입을까봐 걱정하고 있는 것으로 나타났다. 카녜이 웨스트는 14일(현지시간) 인스타그램에 킴 카다시안의 문자 메시지를 공개했다. 킴 카다시안은 힙합 아이콘에게 “당신은 위험하고 무서운 환경을 조성하고 있으며 누군가가 피]]></content>
     </entry>
 </feed>
