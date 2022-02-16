@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2022-02-16T06:14:04.680Z</updated>
+    <updated>2022-02-16T07:11:07.568Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['스타트렉4', 2023년 12월 개봉 확정..크리스 파인→존 조 복귀]]></title>
+        <id>https://entertain.v.daum.net/v/20220216153751588</id>
+        <link href="https://entertain.v.daum.net/v/20220216153751588"/>
+        <updated>2022-02-16T07:11:06.907Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 이창규 기자) '스타트렉' 시리즈가 7년 만에 다시 돌아온다. 15일(현지시간) J.J. 에이브럼스 감독은 파라마운트 투자자들의 날을 맞아 '스타트렉 4'를 제작한다고 발표했다. 발표에 따르면 개봉일은 2023년 12월 22일이며, 마블 시네마틱 유니버스(MCU) 드라마 '완다비전'을 연출한 맷 샤크먼 감독이 메가폰을 잡는다. 리부트 시리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['총기 사고' 알렉 볼드윈, 유족들에 피소 "총 쏘지 않았다면.."]]></title>
         <id>https://entertain.v.daum.net/v/20220216150218154</id>
@@ -74,12 +81,5 @@
         <link href="https://entertain.v.daum.net/v/20220215171003905"/>
         <updated>2022-02-15T08:13:54.176Z</updated>
         <content type="html"><![CDATA[(엑스포츠뉴스 이창규 기자) 2022 베이징 동계올림픽이 각종 논란으로 얼룩지고 있는 가운데, 중국 쇼트트랙 국가대표팀을 소재로 한 영화가 공개됐다.&nbsp; 지난 12일 중국의 OTT 서비스 아이치이(iQIYI)는 영화 '날아라 빙판 위의 빛'(飞吧，冰上之光)을 공개했다. '날아라 빙판 위의 빛'은 배달 기사로 일하던 주인공이 쇼트트랙 국가대표였던 어머니의]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이쯤 되면 스토킹..카녜이 웨스트의 도넘은 집착]]></title>
-        <id>https://entertain.v.daum.net/v/20220215155210318</id>
-        <link href="https://entertain.v.daum.net/v/20220215155210318"/>
-        <updated>2022-02-15T07:11:31.416Z</updated>
-        <content type="html"><![CDATA[[티브이데일리 김종은 기자] 미국 래퍼 카녜이 웨스트의 집착이 점점 심해지고 있다. 전처의 현 남자친구 피트 데이비슨을 욕하고 자신의 SNS에 일방적인 호소문을 게재하는 등 이해하지 못할 구질구질한 행동으로 눈살을 찌푸리게 하고 있다. 카녜이 웨스트는 14일(현지시간) 밸런타인데이를 맞아 전처 킴 카다시안에 꽃으로 가득 채운 트럭을 선물했다. 이와 함께]]></content>
     </entry>
 </feed>
