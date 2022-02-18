@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-02-18T22:12:39.332Z</updated>
+    <updated>2022-02-18T23:12:01.177Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['꽃피달' 측 "사건의 연결고리→출생의 비밀, 마지막까지 쫄깃할 것"]]></title>
+        <id>https://entertain.v.daum.net/v/20220219080529472</id>
+        <link href="https://entertain.v.daum.net/v/20220219080529472"/>
+        <updated>2022-02-18T23:11:45.707Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 박수인 기자] 종영까지 단 2회만을 남겨둔 ‘꽃 피면 달 생각하고’가 마지막 관전포인트를 공개했다. KBS 2TV 월화드라마 ‘꽃 피면 달 생각하고’(연출 황인혁 / 극본 김아록 / 제작 (유)꽃피면달생각하고문화산업전문회사 (주)몬스터유니온 (주)피플스토리컴퍼니)는 역사상 가장 강력한 금주령의 시대, 밀주꾼을 단속하는 원칙주의 감찰과 술을 빚어]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['지우학' 과한 욕심이 만든 납작한 세계]]></title>
         <id>https://entertain.v.daum.net/v/20220219064805735</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220218154636182"/>
         <updated>2022-02-18T07:11:52.999Z</updated>
         <content type="html"><![CDATA[[엔터미디어=정덕현] 상대를 배려하면서도 거침이 없다? JTBC 수목드라마 &lt;서른, 아홉&gt;이 여타의 멜로와 다른 차별점을 꼽으라면 아마도 이것이 아닐까. 이제 마흔을 눈앞에 둔 차미조(손예진)와 김선우(연우진)의 만남은 우리가 늘 봐왔던 멜로의 전후와는 순서가 사뭇 다르다. 단 세 번만의 만남에 하룻밤을 보내고, 바로 헤어지려 했지만 운명처럼 다시 우연적]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['트레이서' 임시완, 나쁜 돈 추적→날 선 복수극 '짜릿한 후반부']]></title>
-        <id>https://entertain.v.daum.net/v/20220218153358721</id>
-        <link href="https://entertain.v.daum.net/v/20220218153358721"/>
-        <updated>2022-02-18T07:11:53.000Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 이민지 기자] MBC 금토드라마 ‘트레이서’가 심상치 않은 후반부를 예고했다. MBC 금토극 '트레이서'는 촘촘한 복선과 통쾌한 반전, 국세청을 배경으로 한 등장인물들의 치열한 심리전으로 신개념 추적 활극의 새 지평을 열었다. 지난 8회에서는 아버지를 죽음에 이르게 한 사람이 누구인지 알게 된 황동주(임시완 분)의 분노, 아끼던 부하들이 비리로]]></content>
     </entry>
 </feed>
