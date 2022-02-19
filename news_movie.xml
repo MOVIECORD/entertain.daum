@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2022-02-19T02:29:33.260Z</updated>
+    <updated>2022-02-19T03:12:29.857Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['언차티드', 톰 홀랜드 주말 출사표]]></title>
+        <id>https://entertain.v.daum.net/v/20220219120807155</id>
+        <link href="https://entertain.v.daum.net/v/20220219120807155"/>
+        <updated>2022-02-19T03:12:09.518Z</updated>
+        <content type="html"><![CDATA[[티브이데일리 이기은 기자] ‘스파이더맨’ 톰 홀랜드의 새로운 도전은 통할까. 영화 '언차티드'가 박스오피스 1위를 탈환하며 주말 순항을 예고했다. 19일 영화진흥위원회 영화관입장권 통합전산망에 따르면 지난 18일 극장을 찾은 총 관객 수는 10만 4824명이다. 신종 코로나바이러스 감염증(코로나19) 팬데믹 시국으로 인해 최근 침체기 추세다. 이 가운데]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[황정민·정우성 등 김성수 감독 '서울의 봄' 출연 外]]></title>
         <id>https://entertain.v.daum.net/v/20220219103005900</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220218173229372"/>
         <updated>2022-02-18T09:11:52.236Z</updated>
         <content type="html"><![CDATA[[마이데일리 = 김나라 기자] 배우 강형석이 한국·싱가포르 합작 영화 '아줌마' 출연을 확정했다. '아줌마'(감독 슈밍 히)는 한국과 싱가포르를 배경으로 오가며 각자 가족의 결핍을 갖고 있는 세 사람의 이야기를 담은 작품. 강형석은 극 중 여행 가이드 권우 역할을 맡아 열연을 펼친다. 권우는 빚 독촉에 시달리며 가족과 별거 중으로 고달픈 인생을 살아가는]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[옹성우X심은경X이솜, '별빛이 내린다'로 온다]]></title>
-        <id>https://entertain.v.daum.net/v/20220218171542871</id>
-        <link href="https://entertain.v.daum.net/v/20220218171542871"/>
-        <updated>2022-02-18T09:11:52.239Z</updated>
-        <content type="html"><![CDATA[[스포츠경향] 배우 옹성우·심은경·이솜·양동근이 영화 ‘별빛이 내린다’에 출연을 확정했다. 제작사 더 램프는 18일 최국희 감독이 연출하는 멜로 영화 ‘별빛이 내린다’가 배우 옹성우·심은경·이솜·양동근을 주연으로 캐스팅했다고 밝혔다. ‘별빛이 내린다’는 1993년의 과거와 21세기의 현재를 오가며 세 인물의 엇갈리는 기억과 말 못 할 감정, 시간이]]></content>
     </entry>
 </feed>
