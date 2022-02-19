@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2022-02-19T09:12:48.109Z</updated>
+    <updated>2022-02-19T10:12:20.183Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[연우진X지안 '인민을 위해 복무하라', 금기된 사랑이 불러온 파란]]></title>
+        <id>https://entertain.v.daum.net/v/20220219182602111</id>
+        <link href="https://entertain.v.daum.net/v/20220219182602111"/>
+        <updated>2022-02-19T10:12:02.083Z</updated>
+        <content type="html"><![CDATA[[텐아시아=김지원 기자] 억압된 체제 속 젊은 남녀의 파격적 멜로를 담은 영화 '인민을 위해 복무하라'가 개봉한다. 강렬한 비주얼과 놀라운 전개로 평단과 관객을 사로잡았던 '겟 아웃', '어스' 제작진은 또 다른 미스터리 스릴러 '안테벨룸'을 선보인다. &nbsp;'인민을 위해 복무하라' 감독 장철수 출연 연우진, 지안, 조성하 개봉 2월 23일 시대의 금]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[배우 나문희, 오늘 모친상]]></title>
         <id>https://entertain.v.daum.net/v/20220219181128918</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220219063007628"/>
         <updated>2022-02-18T22:12:20.824Z</updated>
         <content type="html"><![CDATA[(서울=뉴스1) 정유진 기자 = 영화 '스파이더맨: 파 프롬 홈'(2019)에서 새로운 피터 파커로 등장한 톰 홀랜드의 존재감은 신선했다. 그간 관객들에게 '스파이더맨'의 이미지로 뇌리에 박혀있는 배우는 주로 토비 맥과이어였다. 토비 맥과이어가 영웅적인 모습이 부각되는 스파이더맨이라면, 톰 홀랜드는 '어벤져스'와 함께 일하는 게 마냥 신기하고 즐거운,]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[몰라도 좋지만 알면 더 좋은 '모럴센스' TMI 9]]></title>
-        <id>https://entertain.v.daum.net/v/20220219060214312</id>
-        <link href="https://entertain.v.daum.net/v/20220219060214312"/>
-        <updated>2022-02-18T21:10:40.435Z</updated>
-        <content type="html"><![CDATA[“‘모럴센스’는 세 번은 봐야 하는 것 같아” 배우 서현의 말처럼 넷플릭스 영화 ‘모럴센스’를 반복해서 보는 시청자들이 늘고 있다. 지난 11일 공개된 '모럴센스'는 3일 만에 누적시청시간 668만 시간을 기록했다. 지난 한 주간 넷플릭스 비영어 영화 부문 5위까지 올랐다. 영화를 반복해서 알 수 있는 재미와 함께 이것저것 궁금한 것들을 검색해보는 재미]]></content>
     </entry>
 </feed>
