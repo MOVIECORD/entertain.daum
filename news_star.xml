@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2022-02-19T05:10:47.721Z</updated>
+    <updated>2022-02-19T06:14:32.584Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이지현 "딸 차별 논란? 보이는 게 전부는 아냐" 해명]]></title>
+        <id>https://entertain.v.daum.net/v/20220219144003861</id>
+        <link href="https://entertain.v.daum.net/v/20220219144003861"/>
+        <updated>2022-02-19T06:14:26.990Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 김노을 기자) 그룹 쥬얼리 출신 방송인 이지현이 자녀 차별 논란에 대해 입을 열었다. 이지현은 19일 개인 인스타그램에 "어제 방송 보시고 많은 분들이 딸 서윤이 걱정을 해주셨다"라는 글로 시작되는 장문을 올렸다. 그는 "아무래도 아들 우경이가 주인공이다 보니 우경이와 생활하는 모습이 더 많이 비춰지고 편집상 상황들도 서윤이를 차별하는 모습처]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['정희' 김신영, 나비 사진 소환 "아이돌인 줄..데뷔 때보다 젊어 보여"]]></title>
+        <id>https://entertain.v.daum.net/v/20220219141130458</id>
+        <link href="https://entertain.v.daum.net/v/20220219141130458"/>
+        <updated>2022-02-19T06:14:26.991Z</updated>
+        <content type="html"><![CDATA[[TV리포트 = 하수나 기자] 김신영이 가수 나비의 아이돌 비주얼 사진에 감탄했다.&nbsp; 19일 방송된 MBC FM4U '정오의 희망곡 김신영입니다‘에선 가수 나비와 함께 추억의 톱20코너로 함께 했다. 나비는 요즘 신곡 ‘선물’로 바쁘게 활동하고 있다며 “라디오 오는데 연예인 풀 메이크업 하고 왔다. 요즘에 물오르지 않았나, 리즈시절이다”라고 자화자찬하며 입]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['전참시' 권율, 먹교수 감탄한 新 미식가 등극]]></title>
         <id>https://entertain.v.daum.net/v/20220219140704419</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220219120004068"/>
         <updated>2022-02-19T03:12:24.533Z</updated>
         <content type="html"><![CDATA[[스타뉴스 안윤지 기자] tvN 예능프로그램 '놀라운 토요일'이 200회를 맞이했다. /사진제공=tvN곽청아 PD가 '놀라운 토요일'이 200회까지 올 수 있었던 비결로 멤버들의 케미를 언급했다. 곽청아 PD는 최근 tvN 예능프로그램 '놀라운 토요일'(이하 '놀토') 200회를 기념해 스타뉴스와 서면 인터뷰를 진행했다. '놀라운 토요일'은 전국 시장 속]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[다크비 멤버 해리준, 코로나19 돌파 감염. 백신 3차까지 접종]]></title>
-        <id>https://entertain.v.daum.net/v/20220219115803046</id>
-        <link href="https://entertain.v.daum.net/v/20220219115803046"/>
-        <updated>2022-02-19T03:12:24.533Z</updated>
-        <content type="html"><![CDATA[[스포츠조선 이정혁 기자] 그룹 다크비의 해리준이 코로나19 확진 판정을 받았다. 소속사 브레이브 엔터테인먼트는 19일 공식 팬카페를 통해 "금일 다크비의 멤버 해리준이 코로나19 확진 판정을 받았다."고 알렸다. 브레이브 엔터테인먼트 측은 "해리준은 코로나19 백신 3차까지 접종을 마친 상태였으나 18일 오전, 가벼운 감기 증세로 인해 자가]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['힛트쏭' 100회 특집, 록 떼창 흥폭발]]></title>
-        <id>https://entertain.v.daum.net/v/20220219113244722</id>
-        <link href="https://entertain.v.daum.net/v/20220219113244722"/>
-        <updated>2022-02-19T03:12:24.534Z</updated>
-        <content type="html"><![CDATA[[스포츠경향] ‘이십세기 힛트쏭’이 시청자들의 흥을 최고조로 끌어올렸다. 지난 18일 밤 방송한 KBS Joy ‘이십세기 힛트쏭’(이하 ‘힛트쏭’)은 100회를 맞아 ‘한국인이 사랑한 록 애창곡 힛트쏭 20’을 주제로 시청자들과 만났다. 이날 ‘힛트쏭’은 시청자들에게 가장 많은 사랑을 받은 록 장르로 100회 특집을 꾸몄다. 여기에 ‘대한민국 록의]]></content>
     </entry>
 </feed>
