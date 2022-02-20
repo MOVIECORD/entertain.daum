@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2022-02-20T03:12:38.667Z</updated>
+    <updated>2022-02-20T04:14:43.533Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[같은 사람 맞아? 'D.P.'→'모럴센스' 이준영의 변신]]></title>
+        <id>https://entertain.v.daum.net/v/20220220130001799</id>
+        <link href="https://entertain.v.daum.net/v/20220220130001799"/>
+        <updated>2022-02-20T04:14:22.313Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 김나연 기자] 이준영 / 사진=넷플릭스배우 이준영이 또 새로운 모습으로 변신했다. 지난 11일 공개된 넷플릭스 영화 '모럴센스'는 모든 게 완벽하지만 남다른 성적 취향을 가진 지후와 그의 비밀을 알게 된 유능한 홍보팀 사원 지우의 아찔한 취향존중 로맨스를 그린 영화. 이준영은 잘생긴 외모에 뛰어난 업무 능력, 다정하고 섬세한 성격으로 여직원]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[지안 "배드신 하루만에 몰아서 촬영, 너무 지쳐 컷 소리도 못들어"]]></title>
         <id>https://entertain.v.daum.net/v/20220220120130058</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220220085150065"/>
         <updated>2022-02-20T00:48:30.215Z</updated>
         <content type="html"><![CDATA[[서울경제] 직접 맛보고 추천하는 향긋한 작품 한 잔! 세상의 OTT 다 보고싶은 ‘OTT다방’ 루브르 박물관의 유리 피라미드, 조각상이 가득한 뤽상부르 정원, 조약돌 해변 위에 펼쳐진 에트르타의 절벽. 코로나로 인해 한동안은 꿈도 꿀 수 없게 된 파리의 유명 관광지다. 프랑스에서도 가장 아름다운 장소에 속하는 이곳들은 드라마나 영화에서조차 쉽게]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[우마 서먼, 타란티노 '킬빌3' 논의중 "사람들 실망시키고 싶지 않아"]]></title>
-        <id>https://entertain.v.daum.net/v/20220220082601879</id>
-        <link href="https://entertain.v.daum.net/v/20220220082601879"/>
-        <updated>2022-02-20T00:48:30.216Z</updated>
-        <content type="html"><![CDATA[[OSEN=김보라 기자]&nbsp;배우 우마 서먼이 시리즈 영화 ‘킬빌’의 3편에 대한 생각을 전했다. 우마 서먼은 최근 Sirius XM ‘제시 카글 쇼’에 출연해 ‘킬빌3’의 제작 가능성에 대해 털어놨다고 19일(현지 시간) 현지 매체를 통해 보도됐다. 이날 우마 서먼은 ‘킬빌3’에 대해 “곧 눈앞에 다가올 것 같지는 않다”고 말문을 열었다. 이어 우마 서먼]]></content>
     </entry>
 </feed>
