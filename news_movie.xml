@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2022-02-20T04:14:43.533Z</updated>
+    <updated>2022-02-20T05:10:49.052Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[예지원 "영화 '보드랍게' 보고 엉엉 울어..아프지만 힘나는 영화"]]></title>
+        <id>https://entertain.v.daum.net/v/20220220133321279</id>
+        <link href="https://entertain.v.daum.net/v/20220220133321279"/>
+        <updated>2022-02-20T05:10:30.712Z</updated>
+        <content type="html"><![CDATA[[서울경제] 새로운 접근의 '위안부' 피해자 소재 영화 '보드랍게'(감독 박문칠)에 대해 각계각층 호평이 이어지며 23일 개봉을 앞두고 기대감을 높이고 있다. 여든두 살 왈패 순악 씨의 전쟁 같은 삶을 말과 애니메이션으로 이어 아름다운 꽃으로 피워낸 영화 '보드랍게'는 여성 김순악의 20세기 과거와 21세기 동시대 여성들의 현재를 연결하며 위로와]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[같은 사람 맞아? 'D.P.'→'모럴센스' 이준영의 변신]]></title>
         <id>https://entertain.v.daum.net/v/20220220130001799</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220220090009137"/>
         <updated>2022-02-20T00:48:30.215Z</updated>
         <content type="html"><![CDATA[[이데일리 스타in 박미애 기자] 개봉 영화를 소개합니다. ◇대한민국 대통령 대통령의, 대통령에 의한, 대통령을 위한 지난 대한민국. 2022년 3월 9일, 제20대 대통령 선거가 다시 시작된다. 2022년 3월 9일. 5년마다 찾아오는 대한민국 최고의 이벤트 대통령 선거를 앞두고 대통령이 갖춰야 할 덕목과 가치를 묻고, 대통령을 향한 국민들의 바람을 솔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[파리 지붕 위에서 아슬아슬 추격전을? '뤼팽']]></title>
-        <id>https://entertain.v.daum.net/v/20220220085150065</id>
-        <link href="https://entertain.v.daum.net/v/20220220085150065"/>
-        <updated>2022-02-20T00:48:30.215Z</updated>
-        <content type="html"><![CDATA[[서울경제] 직접 맛보고 추천하는 향긋한 작품 한 잔! 세상의 OTT 다 보고싶은 ‘OTT다방’ 루브르 박물관의 유리 피라미드, 조각상이 가득한 뤽상부르 정원, 조약돌 해변 위에 펼쳐진 에트르타의 절벽. 코로나로 인해 한동안은 꿈도 꿀 수 없게 된 파리의 유명 관광지다. 프랑스에서도 가장 아름다운 장소에 속하는 이곳들은 드라마나 영화에서조차 쉽게]]></content>
     </entry>
 </feed>
