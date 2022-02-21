@@ -2,11 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2022-02-20T23:11:47.606Z</updated>
+    <updated>2022-02-21T00:43:25.269Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[저스틴 비버, 코로나19 확진 "공연 취소"]]></title>
+        <title type="html"><![CDATA['프렌즈' 커트니 콕스 "미용 시술받아 얼굴 망가져..너무 후회한다"]]></title>
+        <id>https://entertain.v.daum.net/v/20220221092810469</id>
+        <link href="https://entertain.v.daum.net/v/20220221092810469"/>
+        <updated>2022-02-21T00:43:24.458Z</updated>
+        <content type="html"><![CDATA[[OSEN=최나영 기자] 미국 TV시리즈 '프렌즈'로 유명한 코트니 콕스(57)가&nbsp;미용 시술을&nbsp;다시는 하지 않을 것이라고 밝혔다. 데일리메일의 20일(현지시간) 보도에 따르면 콕스는 점점 나이 드는 자신의 얼굴을&nbsp;&nbsp;여러 가지 주사 등 시술로 해결하려 했다고 인정했다. 하지만 결국 자신이 '미쳐버렸다'라는 것을 깨닫고 우아하게 늙으려고 노력하고 있다고.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["태국 대표스타 뮤 수파싯 생일 축하!" 한국팬들 신문-지하철 등 전폭적 축하광고]]></title>
+        <id>https://entertain.v.daum.net/v/20220221090105538</id>
+        <link href="https://entertain.v.daum.net/v/20220221090105538"/>
+        <updated>2022-02-21T00:43:24.459Z</updated>
+        <content type="html"><![CDATA[“뮤 수파싯의 31번째 생일을 축하합니다!” 태국을 대표하는 뮤 수파싯(Mew Suppasit)의 31번째 생일을 찾아 한국 팬들이 기념광고 프로젝트로 남다른 축하 인사를 보냈다. 뮤 수파싯의 한국 팬덤 ‘저스트 포 뮤’(Just for Mew)는 21일 생일을 기념하며 서울과 부산에서 지하철 광고, 카페 이벤트, 가로등 배너광고, 신문 지면광고 등으]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[저스틴 비버, 코로나19 확진 "공연 연기"]]></title>
         <id>https://entertain.v.daum.net/v/20220221072420791</id>
         <link href="https://entertain.v.daum.net/v/20220221072420791"/>
         <updated>2022-02-20T23:11:46.896Z</updated>
@@ -88,12 +102,5 @@
         <link href="https://entertain.v.daum.net/v/20220220100807159"/>
         <updated>2022-02-20T02:02:14.052Z</updated>
         <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]'종합병원', '아메리칸 주부' 등으로 유명한 배우이자 동물권리 운동가인 린지 펄먼(43)의 친구들과 이웃들은 그녀가 숨진 채 발견된 것을 알고 충격을 받았다고 뉴욕포스트가 19일(현지시간) 보도했다. 펄먼의 시신은 LA에서 실종된 것으로 보도된 후 할리우드 힐스에서 18일 발견됐다. 펄먼은 지난 2월 13일 마지막으로 목격]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[실종→시신 발견된 여배우 충격..측근 "실종 전 매우 우울해보였다"]]></title>
-        <id>https://entertain.v.daum.net/v/20220220081355821</id>
-        <link href="https://entertain.v.daum.net/v/20220220081355821"/>
-        <updated>2022-02-20T00:48:50.389Z</updated>
-        <content type="html"><![CDATA[[OSEN=최나영 기자]&nbsp;미국 배우 린지 펄먼이 향년 43세로 사망한 가운데 그의 비보에 친구들과 동료들이 큰 충격을 받았다.&nbsp; TV 드라마 '종합병원', '시카고 저스티스' '아메리칸 위스퍼' 등에 출연한 배우이자 동물권리 운동가인 린지 펄먼의 친구들과 이웃들은 그가 숨진 채 발견된 것을 알고 큰 충격에 휩싸였다고 뉴욕포스트가 19일(현지시간) 전했다]]></content>
     </entry>
 </feed>
