@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2022-02-21T20:13:03.270Z</updated>
+    <updated>2022-02-21T21:10:29.871Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[톰 홀랜드 '언차티드' 4일 연속 1위 유지..누적 39만↑]]></title>
+        <id>https://entertain.v.daum.net/v/20220222053005545</id>
+        <link href="https://entertain.v.daum.net/v/20220222053005545"/>
+        <updated>2022-02-21T21:10:09.094Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 배효주 기자] 톰 홀랜드 주연 '언차티드'가 4일 연속 박스오피스 1위를 차지했다. 2월 22일 영화진흥위원회 통합전산망 집계에 따르면 21일 외화 '언차티드'가 2만7,185명을 동원하며 전체 박스오피스 1위를 기록했다. 지난 16일 개봉한 '언차티드'의 누적 관객은 39만2,284명으로, 개봉 2주차에도 흥행 순항이 이어질 것으로 전망된다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['영원히 25세' 故이은주, 오늘 17주기..불새처럼 살다 간]]></title>
         <id>https://entertain.v.daum.net/v/20220222050833403</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220221165029817"/>
         <updated>2022-02-21T08:14:36.754Z</updated>
         <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]폴 토마스 앤더슨 감독의 가장 낭만적인 마스터피스 '리코리쉬 피자'가 알고 보면 더 재미있는 TMI(Too Much Information) 리스트를 공개하며 관객들의 관람 욕구를 자극하고 있다. '리코리쉬 피자'는 사랑에 빠진 소년 개리와 불안한 20대를 지나고 있는 알라나의 뜨거웠던 여름날의 이야기를 담은 작품. 먼저 영화의]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['킹메이커' 제작진이 밝힌 장소별 비화]]></title>
-        <id>https://entertain.v.daum.net/v/20220221164806735</id>
-        <link href="https://entertain.v.daum.net/v/20220221164806735"/>
-        <updated>2022-02-21T08:14:36.757Z</updated>
-        <content type="html"><![CDATA[[티브이데일리 최하나 기자] '킹메이커'가 완성도를 높이기 위한 제작진의 노력이 담긴 비하인드스토리와 코멘터리 영상을 공개했다. 지난달 26일 개봉된 영화 '킹메이커'(감독 변성현·제작 씨앗필름)는 세상을 바꾸기 위해 도전하는 네 번 낙선한 정치인 김운범(설경구)과 존재도 이름도 숨겨진 선거 전략가 서창대(이선균)가 치열한 선거판에 뛰어들며 시작되는 드라마]]></content>
     </entry>
 </feed>
