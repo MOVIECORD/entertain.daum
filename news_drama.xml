@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-02-21T19:09:47.425Z</updated>
+    <updated>2022-02-21T20:13:03.280Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[강미나, 변우석 빰 때리고 "얼굴값 좀 하십시오" 무슨 일?]]></title>
+        <id>https://entertain.v.daum.net/v/20220222051004419</id>
+        <link href="https://entertain.v.daum.net/v/20220222051004419"/>
+        <updated>2022-02-21T20:12:49.563Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 임유리 기자] 강미나가 변우석의 뺨을 때리고 직언을 했다. 21일 밤 방송된 KBS 2TV 월화드라마 '꽃 피면 달 생각하고’ 15회에서는 세자 이표(변우석)가 자신의 역모가 밝혀질까 두려워 남영(유승호)와 강로서(이혜리)를 가두고 괴로워하며 홀로 술을 마셨다. 그런 이표를 찾은 빈씨 한애진(강미나)은 이표가 마시려던 술을 빼앗아 들]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[변우석, 유승호 목에 칼 겨눴다 "이걸 밝히고자 하면 너와 낭자 모두 죽어"]]></title>
+        <id>https://entertain.v.daum.net/v/20220222050503296</id>
+        <link href="https://entertain.v.daum.net/v/20220222050503296"/>
+        <updated>2022-02-21T20:12:49.563Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 임유리 기자] 변우석이 유승호의 목에 칼을 겨누고 그를 추포했다. 21일 밤 방송된 KBS 2TV 월화드라마 '꽃 피면 달 생각하고’ 15회에서는 도승지가 성현 세자를 죽이려 했다는 것을 알고 주상에게 고하기 전에 세자(변우석)에게 먼저 찾아간 남영(유승호)의 모습이 그려졌다. 이날 남영은 “주상 전하께 고하기 전에 저하께 말씀드리러]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['내과 박원장' 이서진 "이산은 이제 이준호죠, 전 박원장이고요"]]></title>
         <id>https://entertain.v.daum.net/v/20220222000150882</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220221183603824"/>
         <updated>2022-02-21T10:14:25.016Z</updated>
         <content type="html"><![CDATA[대한민국 ‘맘’들의 ‘그린마더스클럽’ 활동 현장이 포착됐다. 오는 4월 첫 방송을 앞둔 JTBC 새 수목드라마 ‘그린마더스클럽’은 ‘녹색어머니회’로 대표되는 초등 커뮤니티의 민낯과 동네 학부형들의 위험한 관계망을 그리는 드라마다. 그간 우리에게 친숙한 이미지로 다가왔던 ‘녹색어머니회’를 엄마들의 치열한 심리전이 오가는 초등 커뮤니티로 표현할 예정이라고 해]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['SNL코리아2' 측, 수어 비하 논란 사과.."주의 기울일 것"]]></title>
-        <id>https://entertain.v.daum.net/v/20220221180924359</id>
-        <link href="https://entertain.v.daum.net/v/20220221180924359"/>
-        <updated>2022-02-21T09:12:53.647Z</updated>
-        <content type="html"><![CDATA[(사진=쿠팡플레이)[이데일리 스타in 김보영 기자] 쿠팡플레이 오리지널 예능 ‘SNL 코리아2’ 제작진이 방송 장면 중 불거진 수어 비하 논란을 사과했다. 논란이 된 영상은 삭제 조치된 상태로, 본편에서도 삭제돼 반영할 예정이다. ‘SNL코리아2’ 측은 관계자는 21일 “SNL 코리아 제작진은 지난 2월 12일 방송된 시즌2 7화 ‘위켄드 업데이트’ 코]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['방송계 큰 별' 성우 오승룡 21일 사망..향년 88세]]></title>
-        <id>https://entertain.v.daum.net/v/20220221174152546</id>
-        <link href="https://entertain.v.daum.net/v/20220221174152546"/>
-        <updated>2022-02-21T09:12:53.647Z</updated>
-        <content type="html"><![CDATA[고 오승룡(사진=KBS)[이데일리 스타in 김은구 기자] 대한민국 방송사의 큰 별 하나가 졌다. 성우 오승룡이 21일 세상을 떠났다. 향년 88세. 오승룡은 만성신부전을 앓아오다 최근 건강이 급격히 나빠져 강남구 일원동 서울삼성병원에 입원해 치료를 받아왔다. 배우인 아들 오정석에 따르면 고인은 지난해 6월부터 건강에 이상이 생겨 입원과 퇴원을 반복했다.]]></content>
     </entry>
 </feed>

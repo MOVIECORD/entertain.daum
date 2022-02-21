@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2022-02-21T19:09:47.353Z</updated>
+    <updated>2022-02-21T20:13:03.270Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['영원히 25세' 故이은주, 오늘 17주기..불새처럼 살다 간]]></title>
+        <id>https://entertain.v.daum.net/v/20220222050833403</id>
+        <link href="https://entertain.v.daum.net/v/20220222050833403"/>
+        <updated>2022-02-21T20:12:45.215Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 배효주 기자] 故(고) 이은주가 세상을 떠난 지 17년이 흘렀다. 故이은주는 지난 2005년 이날 25세의 나이로 짧은 생을 마감했다. 사망 이후 고인이 생전 우울증을 앓았다는 사실이 뒤늦게 알려져 많은 이들을 안타깝게 했다. 어린 나이에 세상을 떠났지만 배우로서 그의 면면은 화려했다. 1999년 드라마 '카이스트'에서 도도한 여학생 구지원 역으]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["'미나리'처럼 오스카 효과 보자".. 후보작들 초봄 극장가 점령]]></title>
+        <id>https://entertain.v.daum.net/v/20220222043109065</id>
+        <link href="https://entertain.v.daum.net/v/20220222043109065"/>
+        <updated>2022-02-21T20:12:45.216Z</updated>
+        <content type="html"><![CDATA[지난해 상반기 극장가 최고 화제작은 ‘미나리’였다. 신종 코로나바이러스 감염증(코로나19) 확산으로 관객이 급감한 상황에서 113만 명을 모았다. 코로나19 발생 이전에도 ‘미나리’ 같은 독립ㆍ예술영화가 100만 관객을 넘기는 것은 힘든 일이었다. ‘미나리’ 흥행 원동력은 배우 윤여정이었다. 이 영화로 지난해 미국 아카데미영화상 여우조연상 유력 후보로 거론]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[베스트셀러 작가의 영화 데뷔작 "재밌다, 또 하고 싶다"]]></title>
         <id>https://entertain.v.daum.net/v/20220222040714986</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220221164806735"/>
         <updated>2022-02-21T08:14:36.757Z</updated>
         <content type="html"><![CDATA[[티브이데일리 최하나 기자] '킹메이커'가 완성도를 높이기 위한 제작진의 노력이 담긴 비하인드스토리와 코멘터리 영상을 공개했다. 지난달 26일 개봉된 영화 '킹메이커'(감독 변성현·제작 씨앗필름)는 세상을 바꾸기 위해 도전하는 네 번 낙선한 정치인 김운범(설경구)과 존재도 이름도 숨겨진 선거 전략가 서창대(이선균)가 치열한 선거판에 뛰어들며 시작되는 드라마]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['드마카', 오스카 효과 더해져 6만 돌파..두 달째 장기 상영]]></title>
-        <id>https://entertain.v.daum.net/v/20220221163004104</id>
-        <link href="https://entertain.v.daum.net/v/20220221163004104"/>
-        <updated>2022-02-21T08:14:36.758Z</updated>
-        <content type="html"><![CDATA[[SBS 연예뉴스 | 김지혜 기자] 오스카를 노리는 일본 영화 '드라이브 마이 카'가 국내 극장가에서도 조용한 돌풍을 일으키고 있다. 영화진흥위원회 영화관입장권 통합전산망 집계에 따르면 '드라이브 마이 카'는 지난 19일 전국 6만 관객을 돌파했다. 지난해 12월 23일 개봉한 영화는 두 달간의 장기 상영 끝에 6만 고지에 올랐다. 아카데미 효과도 한 몫]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['이상한 나라의 수학자', 26일 메가토크 GV 개최 "최민식 등 참석"]]></title>
-        <id>https://entertain.v.daum.net/v/20220221162514926</id>
-        <link href="https://entertain.v.daum.net/v/20220221162514926"/>
-        <updated>2022-02-21T08:14:36.760Z</updated>
-        <content type="html"><![CDATA[[마이데일리 = 김나라 기자] 영화 '이상한 나라의 수학자'가 메가토크를 통해 관객들과 특별한 만남을 가질 예정이다. '이상한 나라의 수학자'(감독 박동훈)는 신분을 감추고 고등학교 경비원으로 일하는 탈북한 천재 수학자 이학성(최민식)이 수학을 포기한 학생 한지우(김동휘)를 만나며 벌어지는 감동 드라마. 수학에서 발견한 특별한 인생 이야기를 통해 극장가]]></content>
     </entry>
 </feed>
