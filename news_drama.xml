@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-02-22T19:10:24.387Z</updated>
+    <updated>2022-02-22T20:13:02.161Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[강미나, 남장하고 변우석 따라나섰다 '함께 금강산으로']]></title>
+        <id>https://entertain.v.daum.net/v/20220223051004085</id>
+        <link href="https://entertain.v.daum.net/v/20220223051004085"/>
+        <updated>2022-02-22T20:12:46.579Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 임유리 기자] 강미나가 금강산으로 떠나는 변우석에게 자신도 데려가라며 남장을 하고 나타났다. 22일 밤 방송된 KBS 2TV 월화드라마 '꽃 피면 달 생각하고’ 마지막 회에서는 세자 자리에서 물러난 이표(변우석)가 금강산 유람을 떠나는 모습이 그려졌다. 도승지가 죽은 뒤 이표는 세자 자리를 내려놓고 새로 태어난 원자에게 동궁전을 물려]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[최원영·손여은·최대철·한채아, '금수저' 출연 확정]]></title>
         <id>https://entertain.v.daum.net/v/20220223030011028</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220222215804193"/>
         <updated>2022-02-22T13:16:46.739Z</updated>
         <content type="html"><![CDATA[[스타뉴스 오진주 기자] /사진=KBS 2TV '꽃피면 달 생각하고' 방송화면'꽃 피면 달 생각하고'에서 유승호가 임금 정성일의 위험을 알아챘다. 22일 오후 방송된 KBS 2TV 월화드라마 '꽃 피면 달 생각하고'에서는 강로서(이혜리 분)와 남영(유승호 분)이 강로서의 아버지가 남영을 구해준 사찰에 방문하는 모습이 담겼다. 이날 방송에서 강로서는 "여]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[유승호·이혜리, 최원영과 최후의 싸움..망월사 수색]]></title>
-        <id>https://entertain.v.daum.net/v/20220222214506002</id>
-        <link href="https://entertain.v.daum.net/v/20220222214506002"/>
-        <updated>2022-02-22T13:16:46.740Z</updated>
-        <content type="html"><![CDATA[[동아닷컴] 〈사진제공〉 꽃피면달생각하고문화산업전문회사, 몬스터유니온, 피플스토리컴퍼니KBS2 월화드라마 ‘꽃 피면 달 생각하고’ 유승호와 이혜리가 10년간 진실이 봉인된 망월사를 찾아 사건의 단서를 수색했다. 22일 ‘꽃 피면 달 생각하고’(연출 황인혁 / 극본 김아록) 최종회에선 이시흠(최원영 분)과 최후의 싸움을 준비하는 남영(유승호 분), 강로서]]></content>
     </entry>
 </feed>
