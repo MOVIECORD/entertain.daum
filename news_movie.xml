@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2022-02-28T04:15:34.849Z</updated>
+    <updated>2022-02-28T05:11:35.546Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이정재 "예상 못한 수상 기뻐..우리 모두의 성과" 美배우조합상 수상 소감]]></title>
+        <id>https://entertain.v.daum.net/v/20220228132929802</id>
+        <link href="https://entertain.v.daum.net/v/20220228132929802"/>
+        <updated>2022-02-28T05:11:14.861Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 김미화 기자] /사진=/AFPBBNews=뉴스1 배우 이정재가 넷플릭스 오리지널 '오징어 게임'으로 미국 배우조합상 시상식( SAG Awards)에서 남우주연상을 수상한 가운데 기쁜 수상 소감을 전했다. 27일 저녁(미국시간, 한국시간으로 28일 오전) 미국 로스엔젤레스에서 제 28회 배우조합상 시상식이 열렸다. 이날 이정재는 TV드라마 부문]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['오징어 게임'이 쏘아올린 큰 공..韓-美 최초의 역사]]></title>
         <id>https://entertain.v.daum.net/v/20220228123904512</id>
@@ -24,10 +31,10 @@
         <id>https://entertain.v.daum.net/v/20220228123000351</id>
         <link href="https://entertain.v.daum.net/v/20220228123000351"/>
         <updated>2022-02-28T04:15:13.435Z</updated>
-        <content type="html"><![CDATA[[이인미 기자] 러시아의 우크라이나 침공 소식에 귀를 기울이고 있는 요즘이다. 이번 전쟁이 어떤 성격을 갖는지 정확히는 알지 못한다. 하지만 우크라이나에 대해 한 가지는 정확하게 기억하고 있으니 바로 '오렌지 혁명(2004년 우크라이나 대통령 부정 선거로 일어난 시민 혁명-기자주)'에 관한 것이다. 우크라이나는 1991년 소련에서 독립했다. 하지만 드네프르]]></content>
+        <content type="html"><![CDATA[[이인미 기자] 솔직히 나는 러시아의 우크라이나 침공이 어떤 성격인지 잘 알지 못한다. 옛 소련 소속 국가들 중 우크라이나가 1991년 12월 소련 해체 이후 30년 남짓 러시아와 서방세계 중간에서 어떠한 정치적 입장과 군사적 태도를 취해왔는지에 대해서 전문적 지식은 거의 없고, 다만 우크라이나가 '오렌지혁명'의 나라라는 것을 인지하고 있을 뿐이다. 참고로]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA["새역사 썼다"..'오징어 게임' 美배우조합상남녀주연상 등 3관왕]]></title>
+        <title type="html"><![CDATA["최초, 최고"..'오징어 게임' 美배우조합상 남녀주연상 등 3관왕 '새 역사']]></title>
         <id>https://entertain.v.daum.net/v/20220228121512992</id>
         <link href="https://entertain.v.daum.net/v/20220228121512992"/>
         <updated>2022-02-28T04:15:13.435Z</updated>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220228100335260"/>
         <updated>2022-02-28T02:03:19.988Z</updated>
         <content type="html"><![CDATA[[아시아경제 이이슬 기자] 배우 톰 홀랜드 주연 외화 '언차티드'가 주말 박스오피스 정상을 차지했다. 28일 영화진흥위원회 영화관입장권 통합전산망에 따르면 영화 '언차티드'가 지난 주말 사흘(25~27일)간 12만5860명을 모아 박스오피스 1위를 차지했다. 지난 16일 개봉한 영화는 2주 연속 주말 정상에 올랐으며 누적 관객수는 58만7781명이다. 2위]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[4만 관객 목전 다다른 '나의 촛불', 한국 영화는 약세]]></title>
-        <id>https://entertain.v.daum.net/v/20220228100315244</id>
-        <link href="https://entertain.v.daum.net/v/20220228100315244"/>
-        <updated>2022-02-28T02:03:19.988Z</updated>
-        <content type="html"><![CDATA[[성하훈 기자] ▲ &nbsp;&lt;인민을 위하여 복무하라&gt; 한 장면    ⓒ (주)제이앤씨미디어그룹   &nbsp; 개봉 신작의 힘이 약하게 나타나면서 할리우드와 일본 애니메이션의 흥행이 두드러졌고, 한국영화는 여러 편이 개봉했음에도 별다른 주목을 받지 못했다. 올해 최대 흥행 다큐가 된 &lt;나의 촛불&gt;은 4만 돌파 초읽기에 들어갔다. 코로나19 확진자 증가로 인]]></content>
     </entry>
 </feed>
