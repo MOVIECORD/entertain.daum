@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2022-02-28T13:17:45.374Z</updated>
+    <updated>2022-02-28T14:12:58.494Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[스물다섯 스물하나]]></title>
+        <id>https://entertain.v.daum.net/v/20220228224237481</id>
+        <link href="https://entertain.v.daum.net/v/20220228224237481"/>
+        <updated>2022-02-28T14:12:39.591Z</updated>
+        <content type="html"><![CDATA[tvN에서 방영 중인 드라마 ‘스물다섯 스물하나’는 1998년 당시 IMF 사태라는 무시무시한 국가 부도 상황 때문에 꿈을 빼앗긴 청춘들의 이야기를 담고 있다. 당시 나는 때 마침 군인이었기 때문에 내무실 TV를 통해 입영 신청이 빗발친다는 뉴스를 보고 ‘조금만 늑장 부렸어도 입대 못 할 뻔했구나’하고 안도의 한숨을 쉬었다. 이제야 드라마를 통해 당시의 심]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["의심할 여지 없다"..'나이트메어 앨리' 실관객 전한 호평 셋]]></title>
         <id>https://entertain.v.daum.net/v/20220228185544642</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220228132214555"/>
         <updated>2022-02-28T06:15:34.239Z</updated>
         <content type="html"><![CDATA[묵직한 명품 조연진이다. 영화 '인민을 위해 복무하라(장철수 감독)'가 주연 배우 연우진, 지안, 조성하 뿐 아니라 작품의 디테일을 더욱 풍성하게 살려낸 조연 배우들의 활약에 관심이 집중되고 있다. 장광이 무광의 장인어른이자 회계 간부로 활약해 극에 깊이를 더했다. 장철수 감독과 '은밀하게 위대하게'에서 고영감 역으로 함께한 이후 두 번째로 호흡을 맞]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['오징어 게임'이 쏘아올린 큰 공..韓-美 최초의 역사]]></title>
-        <id>https://entertain.v.daum.net/v/20220228123904512</id>
-        <link href="https://entertain.v.daum.net/v/20220228123904512"/>
-        <updated>2022-02-28T04:15:13.428Z</updated>
-        <content type="html"><![CDATA[[SBS 연예뉴스 | 김지혜 기자] 넷플릭스 오리지널 드라마 '오징어 게임'이 미국 배우조합상(Screen Actors Guild Award, 이하 SAG) 시상식에서 3관왕에 오르며 2021년 최고의 시리즈임을 입증했다. 27일 저녁(한국시간으로 28일 오전) 미국 로스엔젤레스에서 열린 제28회 배우조합상 시상식에서 '오징어 게임'은 TV 시리즈 부문 남]]></content>
     </entry>
 </feed>
