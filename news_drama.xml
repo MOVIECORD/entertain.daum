@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-03-01T10:13:29.443Z</updated>
+    <updated>2022-03-01T11:11:04.292Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['두번째 남편' 김성희, 김동규와 유전자 검사 조작 '충격']]></title>
+        <id>https://entertain.v.daum.net/v/20220301200908362</id>
+        <link href="https://entertain.v.daum.net/v/20220301200908362"/>
+        <updated>2022-03-01T11:10:48.637Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 이시호 기자] /사진=MBC '두 번째 남편' 방송 화면 캡처'두 번째 남편' 배우 김성희가 김동규와 오승아의 유전자 검사 결과를 조작했다. 1일 오후 방송된 MBC 일일드라마 '두 번째 남편'에서는 박행실(김성희 분)이 과거를 회상했다. 이날 박행실은 과거 고덕구(김동균 분)와 작당했던 때를 떠올렸다. 박행실은 어린 윤재경(오승아 분)을]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['스폰서' 한채영·지이수, 구자성 사이에 둔 두 여자의 위험한 거래]]></title>
         <id>https://entertain.v.daum.net/v/20220301184354214</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220301135847615"/>
         <updated>2022-03-01T05:11:24.560Z</updated>
         <content type="html"><![CDATA[[OSEN=연휘선 기자]&nbsp;‘군검사 도베르만’에서 배우 조보아가 화끈한 연기 변신으로 첫 회부터 강렬한 인상을 남겼다. 조보아는 지난달 28일 첫 방송된&nbsp;tvN&nbsp;새 월화드라마&nbsp;‘군검사 도베르만’(극본 윤현호,&nbsp;연출 진창규)에서 복수를 위해 군검사의 길을 선택한 차우인 역을 맡았다.&nbsp; 지난&nbsp;28일(월)&nbsp;첫 방송된&nbsp;‘군검사 도베르만’에서는 신참 법무장교가 된]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['고스트 닥터' 고상호 "수술실 익숙해..'김사부2' 큰 도움"]]></title>
-        <id>https://entertain.v.daum.net/v/20220301130139475</id>
-        <link href="https://entertain.v.daum.net/v/20220301130139475"/>
-        <updated>2022-03-01T04:15:02.148Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 최희재 기자) ([엑's 인터뷰①]에 이어) '고스트 닥터' 배우 고상호가 남다른 노력을 내비쳤다. 고상호는 지난 2월 22일 종영한 tvN 월화드라마 '고스트 닥터'에 출연해 또 한 번 눈도장을 찍었다. '고스트 닥터'는 신들린 의술의 오만한 천재 의사와 사명감이라곤 1도 없는 황금 수저 레지던트, 배경도 실력도 극과 극인 두 의사가 바]]></content>
     </entry>
 </feed>
