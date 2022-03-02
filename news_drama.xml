@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-03-02T13:17:53.471Z</updated>
+    <updated>2022-03-02T14:13:01.853Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['서른, 아홉' 죽음 앞둔 전미도, 손예진에 "무서워" 눈물]]></title>
+        <id>https://entertain.v.daum.net/v/20220302230747001</id>
+        <link href="https://entertain.v.daum.net/v/20220302230747001"/>
+        <updated>2022-03-02T14:12:47.862Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 이이진 기자) '서른, 아홉' 전미도와 손예진이 함께 눈물 흘렸다. 2일 방송된 JTBC 수목드라마 '서른, 아홉' 5회에서는 정찬영(전미도 분)이 차미조(손예진)에게 죽음을 앞둔 심경을 털어놓은 모습이 그려졌다. 이날 정찬영은 "미국은 왜 가려고 했어?"라며 물었고, 차미조는 "그냥. 얘기했잖아. 좀 쉬고 싶어서"라며 밝혔다. 정찬영은 "내]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[전미도 "손예진 친엄마 찾자"]]></title>
+        <id>https://entertain.v.daum.net/v/20220302225129754</id>
+        <link href="https://entertain.v.daum.net/v/20220302225129754"/>
+        <updated>2022-03-02T14:12:47.863Z</updated>
+        <content type="html"><![CDATA[[OSEN=장우영 기자] ‘서른, 아홉’ 전미도가 자신의 소원을 친구들에게 밝혔다. 2일 오후 방송된 JTBC 수목드라마 ‘서른, 아홉’(극본 유영아, 연출 김상호)에서는 정찬영(전미도)가 차미조(손예진), 장주희(김지현)에게 광란의 시한부 프로젝트에 대해 이야기했다. 김선우는 룸살롱에서 일하는 김소원(안소희)을 보고 크게 실망했다. 김소원은 “어떻게]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['코로나 확진' 김태리..남주혁·보나 음성→'스물다섯' 측 "방송 차질 無"]]></title>
         <id>https://entertain.v.daum.net/v/20220302215425954</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220302185743468"/>
         <updated>2022-03-02T10:13:20.416Z</updated>
         <content type="html"><![CDATA[[스타뉴스 김수진 기자] 배우 김세정이 엉뚱한 사랑스러움으로 다시 한번 '인생 캐릭터'를 탄생시켰다. 지난 1일 방송된 SBS 월화드라마 '사내맞선'(연출 박선호 극본 한설희 홍보희)에서 김세정은 정체를 속인 맞선녀 직원 신하리 역을 맡아 다채로운 열연을 펼쳤다. 신하리(김세정 분)는 술에 취해 인사불성이돼 주사를 부리는 모습을 코믹하고 유쾌하게 표현]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[게리 올드만 주연 '슬로 호시스' 4월 1일 전 세계 공개 확정]]></title>
-        <id>https://entertain.v.daum.net/v/20220302185636441</id>
-        <link href="https://entertain.v.daum.net/v/20220302185636441"/>
-        <updated>2022-03-02T10:13:20.418Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 김수진 기자] /사진제공=Apple TV+ 아카데미 수상자 게리 올드만 주연의 Apple Original Series '슬로 호시스' - Slow Horses가 4월 1일 Apple TV+를 통한 전 세계 공개를 확정 지으며 첫 스틸을 공개했다. 뜨거운 기대를 모으고 있는 Apple Original Series의 스파이물 '슬로 호시스'는 아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[류성록, 탄탄한 연기력 시청자 소름 유발 '大반전캐']]></title>
-        <id>https://entertain.v.daum.net/v/20220302183438013</id>
-        <link href="https://entertain.v.daum.net/v/20220302183438013"/>
-        <updated>2022-03-02T10:13:20.419Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 김수진 기자] 배우 류성록이 반전의 얼굴로 시청자들을 놀라게 만들었다. 지난 28, 1일 방송된 tvN 월화 드라마 '군검사 도베르만'에서는 이제 막 병장 계급을 단 수호(류성록 분)가 착실한 군 생활 중 함정에 빠지는 모습이 그려졌다. 이날 생활관에서 개인 정비를 하며 선한 인상으로 등장한 수호는 군검사 배만(안보현 분)의 등장에 긴장을]]></content>
     </entry>
 </feed>
