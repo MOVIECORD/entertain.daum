@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/variety</id>
     <title>다음 연예 ─ 뉴스 ─ 예능</title>
-    <updated>2022-03-03T16:17:28.160Z</updated>
+    <updated>2022-03-03T17:14:30.320Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[윤상 "바로 옆에 女귀신 누워있어서.."]]></title>
+        <id>https://entertain.v.daum.net/v/20220304013946163</id>
+        <link href="https://entertain.v.daum.net/v/20220304013946163"/>
+        <updated>2022-03-03T17:14:19.781Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 고향미 기자] 가수 윤상이 귀신 목격담을 공개했다. 윤상, 강혜원은 3일 오후 방송된 MBC '심야괴담회'에 출연했다. 이날 방송에서 윤상은 "가위는 여러 번 눌려 봤지만 귀신을 직접 본 건 그때가 처음이다"라며 "미국에 있는 가족들이 한국에 와 2주 격리를 해야 돼가지고 내가 살던 집을 비워주고 나가 있게 됐다"고 입을 열었다. 이어 "]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["수치심 느꼈다" 이승기, 명색이 특전사 출신인데? '한 번쯤' 겁낼 수 밖에]]></title>
         <id>https://entertain.v.daum.net/v/20220304011320061</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220304000007469"/>
         <updated>2022-03-03T15:12:58.458Z</updated>
         <content type="html"><![CDATA[[마이데일리 = 김나라 기자] '한 번쯤 멈출 수밖에'에서 가수 겸 배우 이승기가 '1박 2일' 출연 당시를 떠올렸다. 3일 오후 방송된 KBS 2TV '한 번쯤 멈출 수밖에'(이하 '한 번쯤')에선 이승기가 게스트로 등장했다. 이날 이승기는 이금희에게 "어떻게, '1박2일'을 그렇게 많이 하고 예능을 그렇게 많이 했어도 '한 번쯤'이 낫지?"라는 질문을]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김우빈, 조인성과 갈등 터졌다.."저 잠깐 나갔다 올게요"]]></title>
-        <id>https://entertain.v.daum.net/v/20220303235006407</id>
-        <link href="https://entertain.v.daum.net/v/20220303235006407"/>
-        <updated>2022-03-03T15:12:58.461Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 김노을 기자) 배우 김우빈과 조인성이 '조작' 갈등을 만들었다. 3일 오후 방송된 tvN '어쩌다 사장2'에서는 부엌 담당 조인성과 김우빈, 이광수가 손발을 맞춰 협업하는 모습이 그려졌다. 이날 김우빈은 영업 2일차 업무에 완벽히 적응, 자신이 맡은 바를 제대로 해내 빈틈없는 모습을 보였다. 그러던 중 김우빈은 조인성을 향해 "우리 예고편 하]]></content>
     </entry>
 </feed>
