@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-03-04T21:11:34.931Z</updated>
+    <updated>2022-03-04T22:12:54.488Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["그 화 되기"..'악의 마음' 김남길, 칼 들고 살해 현장 찾았다]]></title>
+        <id>https://entertain.v.daum.net/v/20220305071003102</id>
+        <link href="https://entertain.v.daum.net/v/20220305071003102"/>
+        <updated>2022-03-04T22:12:39.843Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 오수정 기자) '악의 마음을 읽는 자들'에서 김남길이 연쇄살인범 프로파일링을 위해 '그 화 되기'에 나섰다.&nbsp; 지난 4일 방송된 SBS 금토드라마 '악의 마음을 읽는 자들' 9회에서는 사이코패스 연쇄살인마 남기태(김중희 분)를 잡기 위해 고군분투하는 범죄행동분석팀 송하영(김남길)과 국영수(진선규), 기동수사대 윤태구(김소진)의 모습이 그려]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['악의 마음' 서동갑, 좌천 당해도 적폐..언론사에 김남길 사진 제공 '분노']]></title>
         <id>https://entertain.v.daum.net/v/20220305060125784</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220304223327280"/>
         <updated>2022-03-04T14:11:22.965Z</updated>
         <content type="html"><![CDATA[(엑스포츠뉴스 오수정 기자) '악의 마음을 읽는 자들'에서 김남길이 또 다른 연쇄살인범에 대해 분석했다.&nbsp; 4일 방송된 SBS 금토드라마 '악의 마음을 읽는 자들' 9회에서는 사이코패스 연쇄살인마 남기태(김중희 분)를 잡기 위해 고군분투하는 범죄행동분석팀 송하영(김남길)과 국영수(진선규), 기동수사대 윤태구(김소진)의 모습이 그려졌다.&nbsp; 이날 송하영과]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['악의 마음' 김남길 "연쇄살인마, 지옥도 사치"]]></title>
-        <id>https://entertain.v.daum.net/v/20220304222020141</id>
-        <link href="https://entertain.v.daum.net/v/20220304222020141"/>
-        <updated>2022-03-04T14:11:22.966Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 오수정 기자) '악의 마음을 읽는 자들'에서 김남길이 연쇄살인마에 분노했다.&nbsp; 4일 방송된 SBS 금토드라마 '악의 마음을 읽는 자들' 9회에서는 검거된 사이코패스 연쇄살인마 구영춘(한준우 분)에 대해 이야기하는 송하영(김남길)의 모습이 그려졌다.&nbsp; 앞선 방송에서 2000년대 초반 대한민국을 공포로 떨게 한 사이코패스 연쇄살인마 구영춘이]]></content>
     </entry>
 </feed>
