@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/variety</id>
     <title>다음 연예 ─ 뉴스 ─ 예능</title>
-    <updated>2022-03-05T07:12:24.638Z</updated>
+    <updated>2022-03-05T08:14:15.067Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김병현 매출 VVIP 누구? 적자 탈출 위해 안정환→이승엽 소환]]></title>
+        <id>https://entertain.v.daum.net/v/20220305162415324</id>
+        <link href="https://entertain.v.daum.net/v/20220305162415324"/>
+        <updated>2022-03-05T08:14:05.304Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 이민지 기자] 김병현이 적자 탈출을 위해 황금인맥을 동원한다. 3월 6일 방송되는 KBS 2TV 예능 ‘사장님 귀는 당나귀 귀’에서는 적자 위기에 처한 김병현이 연예계와 스포츠계를 아우르는 황금 인맥을 풀가동하는 이야기가 공개된다. 이날 직원들 앞에서 매출을 올리겠다고 큰소리친 김병현은 지인 찬스를 쓰기로 결심했다. 가장 먼저 '국민 MC']]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['음중' 태연, 2주 연속 1위..슈퍼주니어 컴백·엔믹스 데뷔]]></title>
         <id>https://entertain.v.daum.net/v/20220305161045062</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220305124457413"/>
         <updated>2022-03-05T04:14:47.083Z</updated>
         <content type="html"><![CDATA[[OSEN=박소영 기자] ‘편스토랑’&nbsp;레시피 여왕 박솔미가 최고의&nbsp;1분을 장식했다. 3월&nbsp;5일 시청률 조사기관 닐슨코리아에 따르면&nbsp;3월&nbsp;4일 방송된&nbsp;KBS 2TV ‘신상출시 편스토랑’(이하&nbsp;‘편스토랑’)은 전국 기준 시청률&nbsp;5.2%를 기록했다.&nbsp;콘텐츠 격전지로 불리는 금요일 저녁&nbsp;‘편스토랑’이 꾸준한 시청자들의 사랑을 받는 예능 강자임이 다시 한 번 입]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[안선영 "남편과 거리두기 안하면 질본에 신고해야"]]></title>
-        <id>https://entertain.v.daum.net/v/20220305122816210</id>
-        <link href="https://entertain.v.daum.net/v/20220305122816210"/>
-        <updated>2022-03-05T04:14:47.084Z</updated>
-        <content type="html"><![CDATA[[OSEN=강서정 기자] SKY채널과 채널A가 공동 제작하는 본격&nbsp;19금 부부 토크쇼&nbsp;‘다시 뜨거워지고 싶은 애로부부(이하 애로부부)’에 결혼&nbsp;14년차, 41세 동갑내기인 이상준&amp;송혜리 부부가 출격해&nbsp;‘로맨스’를 둘러싸고 격돌한다. 5일 방송될&nbsp;‘애로부부’에서는&nbsp;“아내가 매일 남편 대신 다른 남자들을 찾는다”는 깜짝 놀랄 이야기와 함께 인터넷 게임 방송]]></content>
     </entry>
 </feed>
