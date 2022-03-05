@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-03-05T15:11:57.845Z</updated>
+    <updated>2022-03-05T16:15:08.927Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['악의 마음' 김중희, "더 많이 죽이지 못해 아쉬워"..김남길, "넌 짐승보다 못해" 분노]]></title>
+        <id>https://entertain.v.daum.net/v/20220306010901246</id>
+        <link href="https://entertain.v.daum.net/v/20220306010901246"/>
+        <updated>2022-03-05T16:14:53.507Z</updated>
+        <content type="html"><![CDATA[[SBS연예뉴스 | 김효정 에디터] 김남길이 살인을 추억하는 김중희에 분노했다. 5일 방송된 SBS '악의 마음을 읽는 자들'(이하 '악의 마음')에서 송하영은 검찰 송치를 앞두고 남기태와 마지막 면담을 했다. 이날 송하영은 남기태에게 과거 성폭행을 당했던 일에 대해 물었다. 이에 남기태는 "10살 때 야산으로 끌고 가서 운동화 끈으로 손가락을 묶어놓고 그]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['기상청 사람들' 박민영, 송강X이성욱 한집 생활 시작..술취한 윤박과 '뜻밖 대면']]></title>
         <id>https://entertain.v.daum.net/v/20220306000714864</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220305222211055"/>
         <updated>2022-03-05T14:13:24.052Z</updated>
         <content type="html"><![CDATA[(엑스포츠뉴스 오수정 기자) '악의 마음을 읽는 자들'에서 두 번째 연쇄살인마가 검거됐다.&nbsp; 5일 방송된 SBS 금토드라마 '악의 마음을 읽는 자들' 10회에서는 희대의 연쇄살인마 남기태(김중희 분)가 검거된 후 그와 마주한 송하영(김남길), 국영수(진선규), 윤태구(김소진)의 모습이 그려졌다.&nbsp; 앞선 방송에서 송하영은 연쇄살인마 구영춘(한준우) 검거]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['결사곡3' 문성호, 전수경에 장미 선물 직진 고백 "이성으로 생각해줘"]]></title>
-        <id>https://entertain.v.daum.net/v/20220305222149050</id>
-        <link href="https://entertain.v.daum.net/v/20220305222149050"/>
-        <updated>2022-03-05T14:13:24.058Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 서유나 기자] 문성호가 전수경에게 직진 고백했다. 3월 5일 방송된 TV조선 주말드라마 '결혼작사 이혼작곡3'(극본 피비(Phoebe, 임성한), 연출 오상훈) 3회에서는 서반(문성호 분)은 이시은(전수경 분)에게 직진했다. 이날 서반은 이시은에게 평소 자신에게 관심이 없었는지 물었고, 이시은이 "나 유부녀였어. 두 아이 엄마고"라며 선을 긋]]></content>
     </entry>
 </feed>
