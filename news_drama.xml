@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-03-05T03:12:08.175Z</updated>
+    <updated>2022-03-05T04:14:56.570Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['결사곡3' 기막힌 전수경X비굴한 전노민, 냉랭한 투샷]]></title>
+        <id>https://entertain.v.daum.net/v/20220305130917780</id>
+        <link href="https://entertain.v.daum.net/v/20220305130917780"/>
+        <updated>2022-03-05T04:14:42.517Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 이민지 기자] 전수경과 전노민의 냉랭한 투샷이 공개됐다. TV조선 주말드라마 '결혼작사 이혼작곡3'(극본 피비(Phoebe, 임성한)/ 연출 오상원, 최영수) 측은 3월 5일 이시은(전수경 분), 박해륜(전노민 분) 스틸을 공개했다. 시즌3에서는 지난 시즌 마음고생을 가장 많이 한 이시은과 가장 많은 질타를 받았던 박해륜의 상반된 상황이 펼쳐졌]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['우리들의 블루스' 짓밟힌 이병헌X초라하게 돌아온 신민아.. 아련 티저 공개]]></title>
         <id>https://entertain.v.daum.net/v/20220305114801806</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220305100359298"/>
         <updated>2022-03-05T02:05:23.576Z</updated>
         <content type="html"><![CDATA[[스타뉴스 이경호 기자] tvN 토일드라마 '스물다섯 스물하나'의 7, 8회 관전 포인트가 공개됐다./사진제공=tvN 토일드라마 '스물다섯 스물하나''스물다섯 스물하나'가 '포인트씬'으로 미리 보는 '7, 8회 관전 포인트'를 공개했다. tvN 토일드라마 '스물다섯 스물하나'(극본 권도은, 연출 정지현·김승호, 제작 화앤담픽쳐스)는 1998년 시대에 꿈을]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['악의 마음' 연쇄살인마 김중희, 김남길 알아봤다..충격 엔딩]]></title>
-        <id>https://entertain.v.daum.net/v/20220305095049036</id>
-        <link href="https://entertain.v.daum.net/v/20220305095049036"/>
-        <updated>2022-03-05T02:05:23.577Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 김예은 기자) ‘악의 마음을 읽는 자들’이 자체 최고 시청률을 경신했다. 4일 방송된 SBS 금토드라마 ‘악의 마음을 읽는 자들’ 9회는 수도권 기준 시청률 8.9%, 전국 기준 시청률 8.3%를 나타내며 자체 최고 기록을 경신했다. 이는 동 시간대 방송된 모든 프로그램 중 시청률 1위에 해당하는 수치로, 분당 최고 시청률은 무려 9.7%]]></content>
     </entry>
 </feed>
