@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2022-03-09T20:13:13.573Z</updated>
+    <updated>2022-03-09T21:11:33.353Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[장백지, 코로나로 옷가게 문 닫아..급여는 전액 지급]]></title>
+        <id>https://entertain.v.daum.net/v/20220310060030047</id>
+        <link href="https://entertain.v.daum.net/v/20220310060030047"/>
+        <updated>2022-03-09T21:11:32.691Z</updated>
+        <content type="html"><![CDATA[[TV리포트=박설이 기자] 홍콩 배우 장백지가 코로나19 확산으로 옷가게 영업을 중단했다고 홍콩 현지 매체가 보도했다. 9일 다수 홍콩 매체 보도에 따르면 장백지는 코로나19 영향으로 홍콩 번화가인 센트럴에 위치한 의류매장 '세실리아 청'의 영업을 중단했다. 이 매장은 홍콩의 코로나19 확산 상황을 고려, 직원들의 안전을 위해 일시적으로 영업 중단을 결정했]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["외할머니 우크라이나 출신" 디카프리오, 통큰 123억원 기부]]></title>
         <id>https://entertain.v.daum.net/v/20220309224000873</id>
@@ -67,12 +74,5 @@
         <link href="https://entertain.v.daum.net/v/20220309061304825"/>
         <updated>2022-03-08T22:12:44.315Z</updated>
         <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]저스틴 비버가 주최한 파티장 인근에서 벌어진 총격 사건의 피해자였던 래퍼 코닥 블랙(24)이 카녜이 웨스트(44)와 이혼한 킴 카다시안(41)에게 계속 구애하고 있다. 그는 7일(현지시간) 인스타그램에 킴 카다시안이 파리패션위크에서 옷에 테이프를 감는 모습을 따라하는 사진을 게재했다. 최근 킴 카다시안은 파리패션위크에서 옷]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[디카프리오, 돈 많은 사람이 너무 하네..60억 집 팔았다]]></title>
-        <id>https://entertain.v.daum.net/v/20220309051444007</id>
-        <link href="https://entertain.v.daum.net/v/20220309051444007"/>
-        <updated>2022-03-08T21:11:22.155Z</updated>
-        <content type="html"><![CDATA[[OSEN=박소영 기자] 래오나르도 디카프리오가 60억 원짜리 집을 팔았다. 8일(현지시각) 외신 보도에 따르면 레오나르도 디카프리오는 로스앤젤레스에 있는 집 한 채를 팔았다. 490만 달러, 한화로 60억 원이 넘는 집인데 레오나르도 디카프리오의 아버지인 조지가 살던 곳으로 알려졌다. 레오나르도 디카프리오는 이곳에 거주한 적이 없지만 아버지의 새 집을]]></content>
     </entry>
 </feed>
