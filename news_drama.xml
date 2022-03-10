@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-03-10T10:13:26.062Z</updated>
+    <updated>2022-03-10T11:11:34.552Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['사랑의꽈배기' 함은정, 김주리와 헤어진다는 장세현에 이혼 요구]]></title>
+        <id>https://entertain.v.daum.net/v/20220310200927567</id>
+        <link href="https://entertain.v.daum.net/v/20220310200927567"/>
+        <updated>2022-03-10T11:11:20.275Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 오진주 기자] /사진=KBS 2TV '사랑의꽈배기' 방송화면'사랑의 꽈배기'에서 함은정이 장세현에게 내연녀 김주리와 혼외자를 알고 있다며 이혼을 요구했다. 10일 방송된 KBS 2TV 일일드라마 '사랑의 꽈배기'에서는 오소리(함은정 분)와 조경준(장세현 분)이 대화는 모습이 담겼다. 이날 방송에서 오소리는 일을 마치고 돌아온 조경준에게 "이제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[한채영·이지훈, 악연으로 얽혔다..본격 심리 싸움]]></title>
         <id>https://entertain.v.daum.net/v/20220310184637331</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220310155422894"/>
         <updated>2022-03-10T07:12:03.212Z</updated>
         <content type="html"><![CDATA[[서울경제] “은퇴는 일생 받은 생일 선물 중 최고의 선물이다.” 박형근 판타스틱씨어터 대표가 은퇴 한 날 직원들에게 한 말이다. 2015년 10월 30일 금요일이었던 그날을 잊을 수 없는 건 생일이어서만은 아니다. 30여 년간 입고 있던 금융인이란 옷을 벗고 인생 2막의 새로운 삶을 준비하는 기대감이 컸다. 박 대표는 은퇴 후 몇 개월이 채 지나지 않은]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한채영, 이지훈과 함께한 낮과 밤.. 은밀한 욕망 시작]]></title>
-        <id>https://entertain.v.daum.net/v/20220310155109753</id>
-        <link href="https://entertain.v.daum.net/v/20220310155109753"/>
-        <updated>2022-03-10T07:12:03.212Z</updated>
-        <content type="html"><![CDATA[[OSEN=임혜영 기자] 한채영과 이지훈이 치열한 심리 싸움에 돌입한다. 10일(오늘) 오후 11시 IHQ drama 채널, MBN에서 방송되는 수목드라마 ‘스폰서’(연출 이철/ 극본 한희정) 5회에서는 사랑과 복수라는 각기 다른 욕망에 휩싸인 한채린(한채영 분)과 이선우(이지훈 분)가 아슬아슬한 관계를 이어간다. 앞서 한채린과 이선우는 ‘런웨이 옴므파]]></content>
     </entry>
 </feed>
