@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2022-03-11T06:15:33.989Z</updated>
+    <updated>2022-03-11T07:12:54.723Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[日 감독 사카키 히데오 '미투' 파문..신작 '밀월' 개봉 중지]]></title>
+        <id>https://entertain.v.daum.net/v/20220311161022620</id>
+        <link href="https://entertain.v.daum.net/v/20220311161022620"/>
+        <updated>2022-03-11T07:12:54.110Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 이창규 기자) 일본의 영화감독 사카키 히데오가 영화 출연을 미끼로 여성들에게 성관계를 강요한 것으로 알려져 파문이 일고 있다. 지난 9일 일본의 주간문춘은 사카키 히데오로부터 성폭력 피해를 입었다고 주장하는 여성 4명의 인터뷰를 공개했다. 이들은 2013년부터 2017년까지 각기 다른 기간에 사카키 히데오의 작품에 출연하거나 워크숍에 참석]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['더 보이즈' 안토니 스타, 폭행 혐의로 집행유예 1년 선고]]></title>
         <id>https://entertain.v.daum.net/v/20220311143708593</id>
@@ -81,12 +88,5 @@
         <link href="https://entertain.v.daum.net/v/20220310173704547"/>
         <updated>2022-03-10T09:12:46.190Z</updated>
         <content type="html"><![CDATA[[OSEN=최나영 기자] 영화 '블랙 팬서' 감독 라이언 쿠글러(35)가 은행강도 혐의로 체포되는 일이 벌어졌다. 10일(한국시간) 로이터, 버라이어티, 데일리메일 등 외신에 따르면 쿠글러 감독은 지난 1월 미국 애틀랜타에서 은행강도로 오인받은 후 체포, 잠시 구금됐다. 쿠글러 감독은 당시 은행 '뱅크 오브 아메리카'에 방문, "내 예금 계좌에서 현금]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['아쿠아맨2'·'샤잠2' 등 DC영화, 코로나 여파로 개봉 연기]]></title>
-        <id>https://entertain.v.daum.net/v/20220310154441430</id>
-        <link href="https://entertain.v.daum.net/v/20220310154441430"/>
-        <updated>2022-03-10T07:12:16.498Z</updated>
-        <content type="html"><![CDATA[[OSEN=김보라 기자]&nbsp;‘아쿠아맨2’, ‘블랙 아담’ 등 DC영화의 개봉이 코로나 여파로 연기됐다. 9일(현지 시간) 배급사 워너브러더스 측은 “‘블랙 아담’, ‘더 플래시’, ‘아쿠아맨2’, ‘웡카’, ‘샤잠2’의 개봉을 연기한다”고 밝혔다. 워너브러더스 측은 이어 “코비드 여파로 특히 ‘아쿠아맨2’, ‘더 플래시’ 두 작품 모두 올 예정에서 내년으]]></content>
     </entry>
 </feed>
