@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-03-11T15:14:30.931Z</updated>
+    <updated>2022-03-11T16:17:55.427Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[로시, 12일 '기상청 사람들' OST 발표]]></title>
+        <id>https://entertain.v.daum.net/v/20220312010006670</id>
+        <link href="https://entertain.v.daum.net/v/20220312010006670"/>
+        <updated>2022-03-11T16:17:39.688Z</updated>
+        <content type="html"><![CDATA[[동아닷컴] 사진제공 = 모스트콘텐츠가수 로시(Rothy)가 JTBC 토일드라마 ‘기상청 사람들 : 사내연애 잔혹사 편(이하 기상청 사람들)’ OST에 참여한다. ‘기상청 사람들’의 OST를 제작하는 모스트콘텐츠는 12일 주요 음원사이트를 통해 로시가 부른 ‘기상청 사람들’ OST Part.4 ‘소중한 게 생겼나봐 - 로시(Rothy)’를 발매한다. ‘소]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김진우, 감정이입 부르는 연기.. 몰입도 상승 눈빛]]></title>
+        <id>https://entertain.v.daum.net/v/20220312003302562</id>
+        <link href="https://entertain.v.daum.net/v/20220312003302562"/>
+        <updated>2022-03-11T16:17:39.689Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 김수진 기자] 배우 김진우가 내공이 돋보이는 연기로 안방극장의 긴장감을 끌어올렸다. 지난 10일 방송된 tvN 수목드라마 '킬힐' 2화에서 김진우(도일 역)은 무능력한 가장의 모습을 보였다. 극중 김진우는 "방송 잘 안됐어?"라며 퇴근 후 집에 돌아온 김하늘(우현 역)에게 조심스럽게 말을 걸었다. 이어 김진우는 김하늘의 방송 사고 동영상을 본]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['악의마음' 김남길, 피해자母 위로에 눈물..결국 분석팀 복귀]]></title>
         <id>https://entertain.v.daum.net/v/20220312000019329</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220311220510646"/>
         <updated>2022-03-11T13:17:56.576Z</updated>
         <content type="html"><![CDATA[[동아닷컴] 제공: MBCMBC 금토드라마 '트레이서' 임시완이 위태로운 선택의 갈림길에 섰다. 11일 MBC 금토드라마 ‘트레이서’(극본 김현정 / 연출 이승영) 12회에서는 중앙지방국세청장 인태준(손현주 분)을 끌어내릴 결정적 증거를 두고 조사 강행과 포기 사이에서 갈등하는 조세 5국 팀장 황동주(임시완 분)와 조세 5국장 오영(박용우 분)의 공조가]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['트레이서' 임시완, 손현주 끌어내리나..박용우에 "조사하겠다"]]></title>
-        <id>https://entertain.v.daum.net/v/20220311215832559</id>
-        <link href="https://entertain.v.daum.net/v/20220311215832559"/>
-        <updated>2022-03-11T13:17:56.576Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 오진주 기자] /사진=MBC '트레이서' 방송화면'트레이서'에서 임시완이 박용우에 "재송건설 조사를 하겠다"고 밝혔다. 11일 방송된 MBC 금토 드라마 '트레이서에서는 황동주(임시완 분)와 오영(박용우 분)이 대화하는 모습이 담겼다. 이날 방송에서 "국장님 이거 안된다. 위험하다"라며 거세게 항의했다. 오영은 "뭔 개소리야"라고 받아치며 황]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[장세현, 함은정에 子로 협박하며 이혼 거부]]></title>
-        <id>https://entertain.v.daum.net/v/20220311205047767</id>
-        <link href="https://entertain.v.daum.net/v/20220311205047767"/>
-        <updated>2022-03-11T12:19:41.168Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 이예진 인턴기자)&nbsp;‘사랑의 꽈배기’ 장세현이 이혼을 두고 함은정을 협박했다. 11일 방송된 KBS 2TV 일일드라마 '사랑의 꽈배기'에서 조경준 (장세현 분)이 오소리(함은정)와의 이혼을 거부하는 모습이 그려졌다.&nbsp; 이날 방송에서 조경준은 강윤아(손성윤)에게 "걱정마라. 소리는 절대 이혼 못할 거다. 내가 방법을 찾았다"라며 전화 통화를]]></content>
     </entry>
 </feed>
