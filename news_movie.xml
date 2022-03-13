@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2022-03-13T03:13:12.938Z</updated>
+    <updated>2022-03-13T04:15:39.903Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['스펜서' 크리스틴 스튜어트, 얼마나 완벽할까..크레딧 포스터 공개]]></title>
+        <id>https://entertain.v.daum.net/v/20220313122926116</id>
+        <link href="https://entertain.v.daum.net/v/20220313122926116"/>
+        <updated>2022-03-13T04:15:19.586Z</updated>
+        <content type="html"><![CDATA[[OSEN=김보라 기자] 다이애나 왕세자비로 변신하며 생애 첫 아카데미 여우주연상 후보에 오른 배우 크리스틴 스튜어트 주연의 올해 최고 화제작 '스펜서'가 크레딧 포스터를 공개했다. 크리스틴 스튜어트의 변신으로 신드롬급 화제를 불러일으키고 있는 영화 '스펜서'(감독 파블로 라라인, 수입공동배급&nbsp;그린나래미디어, 배급 영화특별시 SMC, 제공 인터파크)가&nbsp;]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[디즈니 OTT 플랫폼 장점 뭐냐고? 바로 '이 작품']]></title>
         <id>https://entertain.v.daum.net/v/20220313121200962</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220313061705565"/>
         <updated>2022-03-12T22:12:02.568Z</updated>
         <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]아카데미 여우주연상 유력후보인 배우 크리스틴 스튜어트(32)가 동성 연인 딜런 메이어와 공식 석상에 등장했다. 이미 약혼식을 치른 이들의 동성결혼이 임박했다는 소문이 확산되고 있다. 크리스틴 스튜어트는 미국 매체 할리우드리포터가 지난 7일 주최한 아카데미상 후보들의 모임(Hollywood Reporter’s Nominees]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['프리가이' 감독 '데드풀3' 연출 확정, "좀더 폭력적인 영화 될 것"]]></title>
-        <id>https://entertain.v.daum.net/v/20220313060705510</id>
-        <link href="https://entertain.v.daum.net/v/20220313060705510"/>
-        <updated>2022-03-12T21:11:02.736Z</updated>
-        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]‘프리가이’와 넷플릭스 ‘애담 프로젝트’의 숀 레비 감독이 ‘데드풀3’ 연출을 맡는다. 할리우드 리포터는 11일(현지시간) 숀 레비 감독이 ‘데드풀3’ 메가폰을 잡는다고 보도했다. 1편과 2편의 각본을 썼던 레트 리즈와 폴 워닉이 3편의 시나리오도 작업한다. 라이언 레이놀즈는 이날 트위터에 “숀 레비 감독의 세 번째 영화는]]></content>
     </entry>
 </feed>
