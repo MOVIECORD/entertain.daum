@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/variety</id>
     <title>다음 연예 ─ 뉴스 ─ 예능</title>
-    <updated>2022-03-15T18:15:10.786Z</updated>
+    <updated>2022-03-15T19:12:08.466Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[탁재훈x이상민, 하다하다 망사스타킹 속옷까지 착용?]]></title>
+        <id>https://entertain.v.daum.net/v/20220316032744181</id>
+        <link href="https://entertain.v.daum.net/v/20220316032744181"/>
+        <updated>2022-03-15T19:11:57.459Z</updated>
+        <content type="html"><![CDATA[[OSEN=김수형 기자] ‘신발벗고 돌싱포맨’에서 탁재훈에 이어 이상민까지 망사 스타킹으로 보이는 속옷(?)이 포착됐다.&nbsp; 15일 방송된 SBS 예능 ‘신발벗고 돌싱포맨’이 전파를 탔다. 이날 탁재훈, 임원희, 김준호가 이상민 집에 모였다. 알고보니 이상민이 다리부상을 당했기 때문.목발을 짚고 나타난 그는 사다리에서 떨어져 다리가 다쳤다고 했다. 직접]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['김민수子' 윤후 "왜 이렇게 아빠같이 생겼지?" 셀프 인정]]></title>
         <id>https://entertain.v.daum.net/v/20220316031018151</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220316004111520"/>
         <updated>2022-03-15T16:17:15.802Z</updated>
         <content type="html"><![CDATA[[OSEN=박근희 기자] '옥탑방의 문제아들’ 심용환과 곽재식이 남다른 토크 실력을 선보였다. 15일 오후 방송된 KBS 2TV 예능프로그램 '옥탑방의 문제아들'에 심용환과 곽재식이 출연해 역사와 괴물에 관한 흥미진진한 이야기들을 전했다. 곽재식을 처음 본 김용만은 “난 처음 보는데 에너지가 넘친다”라고 말했다. 송은이는 “방송을 해봤는데 설화도 많이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['옥탑방' 역사학자 심용환 "이봉창 의사, 일본인 되고 싶어 했지만.."]]></title>
-        <id>https://entertain.v.daum.net/v/20220316003844506</id>
-        <link href="https://entertain.v.daum.net/v/20220316003844506"/>
-        <updated>2022-03-15T16:17:15.802Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 송오정 기자] 역사학자 심용환이 이봉창 의사가 일본이 되고 싶어했던 마음을 바꿔 독립 운동에 참여하게 된 사연을 설명했다. 3월 15일 방송된 KBS 2TV '옥탑방의 문제아들'(옥문아)에서는 심용환, 곽재식 교수 겸 작가와 함께 했다. 일본인이 되고 싶었던 독립 운동가가 있었다는 말에 모두가 충격받았다. 이에 심용환은 우리가 잘 알고 있는 이봉]]></content>
     </entry>
 </feed>
