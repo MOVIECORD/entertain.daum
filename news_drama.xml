@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-03-21T09:13:11.293Z</updated>
+    <updated>2022-03-21T10:13:51.494Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['박민영 언니' 정운선, 이혼 고백→문태유랑 사귀나..로맨스 청신호 예고]]></title>
+        <id>https://entertain.v.daum.net/v/20220321184345488</id>
+        <link href="https://entertain.v.daum.net/v/20220321184345488"/>
+        <updated>2022-03-21T10:13:37.372Z</updated>
+        <content type="html"><![CDATA[[OSEN=이승훈 기자] 일도 사랑도 다 잡았다. ‘기상청 사람들’&nbsp;정운선이 일과 애정 전선에 모두 청신호를 켜며 안방극장의 기대를 모으고 있다. JTBC&nbsp;토일드라마&nbsp;‘기상청 사람들:&nbsp;사내연애 잔혹사 편’(이하 ‘기상청 사람들’)은 열대야보다 뜨겁고 국지성 호우보다 종잡을 수 없는 기상청 사람들의 일과 사랑을 그린 직장 로맨스 드라마다.&nbsp;극중 정운선은]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[구준엽♥서희원, 공동 기자회견 안한다..왜?]]></title>
         <id>https://entertain.v.daum.net/v/20220321180953722</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220321152011477"/>
         <updated>2022-03-21T07:12:43.752Z</updated>
         <content type="html"><![CDATA[[OSEN=박소영 기자] 배우 최태준이 '스물다섯 스물하나'에 등장해 또 한 번 활약했다. 지난 20일 방송된 tvN 토일드라마 ‘스물다섯 스물하나’에서는 호진(최태준 분)이 이진(남주혁 분)과 마주치며 묘한 긴장감을 자아냈다. 특히 과거 희도(김태리 분)와는 '알콩달콩'이라는 애칭과 귀여운 면면으로 풋풋한 모습을 그려냈던 바 있다. 이날 호진은 호텔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[최태준, 깊이+능청 다 갖춘 '호연'..반가운 재등장]]></title>
-        <id>https://entertain.v.daum.net/v/20220321150837039</id>
-        <link href="https://entertain.v.daum.net/v/20220321150837039"/>
-        <updated>2022-03-21T06:16:08.853Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 김수진 기자] 배우 최태준이 '스물다섯 스물하나'에 등장해 또 한 번 활약했다. 지난 20일 방송된 tvN 토일드라마 '스물다섯 스물하나'에서는 호진(최태준 분)이 이진(남주혁 분)과 마주치며 묘한 긴장감을 자아냈다. 특히 과거 희도(김태리 분)와는 '알콩달콩'이라는 애칭과 귀여운 면면으로 풋풋한 모습을 그려냈던 바 있다. 이날 호진은 호텔]]></content>
     </entry>
 </feed>
