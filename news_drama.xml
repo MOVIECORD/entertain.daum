@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-03-22T03:22:25.988Z</updated>
+    <updated>2022-03-22T04:15:34.846Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[오스카 아이삭 "정신적인 문제, 보통 빌런인데.."]]></title>
+        <id>https://entertain.v.daum.net/v/20220322131003973</id>
+        <link href="https://entertain.v.daum.net/v/20220322131003973"/>
+        <updated>2022-03-22T04:15:19.050Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 이창규 기자) '문나이트' 오스카 아이삭이 작품의 매력에 대해 언급했다. 22일 오전 디즈니+ 오리지널 시리즈 '문나이트'(감독 모하메드 디아브, 저스틴 벤슨, 아론 무어헤드) 화상 기자간담회가 진행됐다. 현장에는 오스카 아이작과 에단 호크가 참석했다. '문나이트'는&nbsp;악몽과 불면증에 시달리는 스티븐(오스카 아이작 분)이 또다른]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[한채영·이루, 극과 극 태도 '눈맞춤']]></title>
+        <id>https://entertain.v.daum.net/v/20220322123347250</id>
+        <link href="https://entertain.v.daum.net/v/20220322123347250"/>
+        <updated>2022-03-22T04:15:19.051Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 김수진 기자] 이루가 '스폰서'에서 국제 변호사 '마이클'로 등장해 한채영, 정민규 남매의 사이를 파고들며 아슬아슬한 긴장감을 불어넣을 전망이다. 23일 오후 11시 IHQ drama 채널, MBN에서 방송되는 수목드라마 '스폰서'(연출 이철/ 극본 한희정) 8회에서는 이루가 국제 변호사 '마이클'로 등장해 한채린(한채영 분), 한유민(정민규]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["잠재력·정체성 다룬 이야기"..'문나이트', 오스카·에단 호크 표 다크 히어로물]]></title>
         <id>https://entertain.v.daum.net/v/20220322121305776</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220322110716788"/>
         <updated>2022-03-22T02:24:41.696Z</updated>
         <content type="html"><![CDATA[[OSEN=박판석 기자]&nbsp;‘군검사 도베르만’ 안보현과 조보아, 그리고 오연수의 살벌한 대립 현장을 포착했다. tvN 월화드라마 ‘군검사 도베르만’(극본 윤현호/ 연출 진창규/ 제작 스튜디오드래곤, 로고스필름)이 한 시도 방심할 수 없는 다이내믹한 전개로 시청자들의 눈과 귀를 사로잡고 있는 가운데, 오늘(22일) 8회 방송에 앞서 한 장소에서 마주친 도배]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['군검사 도베르만' 안보현X조보아, 오연수 작전 제대로 말려들었다]]></title>
-        <id>https://entertain.v.daum.net/v/20220322110542684</id>
-        <link href="https://entertain.v.daum.net/v/20220322110542684"/>
-        <updated>2022-03-22T02:24:41.702Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 김명미 기자] ‘군검사 도베르만’ 안보현과 조보아, 그리고 오연수의 살벌한 대립 현장을 포착했다. tvN 월화드라마 ‘군검사 도베르만’(극본 윤현호/ 연출 진창규/ 제작 스튜디오드래곤, 로고스필름)이 한 시도 방심할 수 없는 다이내믹한 전개로 시청자들의 눈과 귀를 사로잡고 있는 가운데, 3월 22일 8회 방송에 앞서 한 장소에서 마주친 도배만(안]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['서른, 아홉' 전미도, 지구에서 제일 바쁜 시한부..버킷리스트 점검]]></title>
-        <id>https://entertain.v.daum.net/v/20220322110125454</id>
-        <link href="https://entertain.v.daum.net/v/20220322110125454"/>
-        <updated>2022-03-22T02:24:41.704Z</updated>
-        <content type="html"><![CDATA[[OSEN=장우영 기자] 지구에서 가장 바쁜(?) 시한부 전미도가 버킷리스트를 모두 이룰 수 있을까? JTBC 수목드라마 ‘서른, 아홉’(극본 유영아, 연출 김상호, 제작 JTBC스튜디오, 롯데컬처웍스)에서 췌장암 4기를 선고받은 정찬영(전미도)이 죽기 전 이루고 싶은 소원들을 정해 실행에 옮기고 있는 가운데 과연 버킷리스트를 전부 실현할 수 있을지 드]]></content>
     </entry>
 </feed>
