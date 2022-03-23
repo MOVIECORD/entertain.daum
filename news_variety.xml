@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/variety</id>
     <title>다음 연예 ─ 뉴스 ─ 예능</title>
-    <updated>2022-03-23T17:14:28.993Z</updated>
+    <updated>2022-03-23T18:16:27.786Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김국진도 기겁한 강수지 일화 뭐길래? "살다 처음 들어봐"]]></title>
+        <id>https://entertain.v.daum.net/v/20220324031437248</id>
+        <link href="https://entertain.v.daum.net/v/20220324031437248"/>
+        <updated>2022-03-23T18:16:17.185Z</updated>
+        <content type="html"><![CDATA[[OSEN=김수형 기자] ‘라디오스타’에서 박완규가 김국진에게 강수지와의 일화를 제보(?)해 웃음을 안겼다. 23일 방송된 MBC 예능 ‘라디오스타’가 전파를 탔다. 다양한 토크 속에서도 특히 이날 박완규는 김국진에게 제보할 것이 있다고 언급, “수지누나 항상 말을 예쁘게 한다”고 운을 뗐다.모두 궁금해하자 그는 “수지 누나랑 같이 공연한 적이 있어,]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[팽현숙 "영탁이라면 사위로 고민 X. 딸과 소개팅 생각 중"]]></title>
         <id>https://entertain.v.daum.net/v/20220324012028798</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220324004116466"/>
         <updated>2022-03-23T16:16:25.268Z</updated>
         <content type="html"><![CDATA[[스타뉴스 박수민 기자] /사진='라디오스타' 방송화면 '라디오스타' 김하균, 황제성, 강형욱, 이은샘이 '짤부자'다운 남다른 매력으로 눈길을 사로잡았다. 23일 방송된 MBC '라디오스타'에서는 '짤 있는 녀석들 특집'으로 김하균, 황제성, 강형욱, 이은샘이 출연하는 모습이 담겼다. 소화제 짤로 유명한 김하균은 이날 방송에서 "소화제 계통의 광고였는데]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이창훈 "고소영, 나랑 싸우면 장동건♥ 불러".. 결혼 알아봤다?]]></title>
-        <id>https://entertain.v.daum.net/v/20220324003703443</id>
-        <link href="https://entertain.v.daum.net/v/20220324003703443"/>
-        <updated>2022-03-23T16:16:25.268Z</updated>
-        <content type="html"><![CDATA[[OSEN=박근희 기자] '박원숙의 같이 삽시다’ 이창훈이 고소영과 장동건을 언급했다. 23일 오후 방송된 KBS2TV '박원숙의 같이 삽시다'에서는 지난주에 이어 사선가를 방문한 이창훈의 모습이 공개됐다. 이창훈은 “내가 제일 잘 한 게 담배 끊은 거랑 운동 한 거다. 딸이 올해 중학교에 올라갔다. 딸 친구들이 나보고 할아버지라고 하면 어떻게 해. 운]]></content>
     </entry>
 </feed>
