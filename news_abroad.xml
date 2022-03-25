@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2022-03-25T00:49:24.918Z</updated>
+    <updated>2022-03-25T02:18:27.528Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["내가 올리비아 로드리고·사브리나 카펜터와 양다리라고?" 22살 배우, 충격받고 패혈성 쇼크]]></title>
+        <id>https://entertain.v.daum.net/v/20220325100036869</id>
+        <link href="https://entertain.v.daum.net/v/20220325100036869"/>
+        <updated>2022-03-25T02:18:26.848Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]디즈니플러스 드라마 ‘하이스쿨 뮤지컬: 더 뮤지컬’ 시리즈로 유명한 배우 겸 가수 조슈아 바셋(22)이 올리비아 로드리고(사진 왼쪽.19), 사브리나 카펜터(23)와 양다리 연애를 했다는 루머에 극심한 스트레스를 받았다고 말했다. 그는 최근 피플과 인터뷰에서 엄청난 스트레스로 인한 패혈성 쇼크와 심부전으로 병원에 입원했다고]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[카녜이 웨스트, 코첼라서 퇴출되나?..청원 4만명 돌파]]></title>
         <id>https://entertain.v.daum.net/v/20220325092207354</id>
@@ -74,12 +81,5 @@
         <link href="https://entertain.v.daum.net/v/20220324122818964"/>
         <updated>2022-03-24T04:17:24.958Z</updated>
         <content type="html"><![CDATA[[마이데일리 = 장윤호 기자] 1972년 3월 24일 영화 ‘대부(God Father)’가 개봉됐을 때 후일 세기의 전설이 될 것이라고는 아무도 예상하지 못했다. 개봉 첫날 보통보다 훨씬 많은 영화관에서 상영을 시작했는데 9월이 되자 종전 최다 관객을 기록한 ‘바람과 함께 사라지다(Gone with the Wind)’를 훌쩍 넘어섰다. ‘대부’가 개봉된]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["킴 카다시안과 결혼하고 아기 낳아라" 피트 데이비슨 엄마, 예비 며느리 대만족]]></title>
-        <id>https://entertain.v.daum.net/v/20220324095220825</id>
-        <link href="https://entertain.v.daum.net/v/20220324095220825"/>
-        <updated>2022-03-24T02:23:00.612Z</updated>
-        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]카녜이 웨스트(44)와 이혼한 킴 카다시안(41)과 사귀고 있는 피트 데이비슨(28)의 어머니가 아들의 여친에 만족감을 드러냈다. 23일(현지시간) 페이지식스는 “피트 데이비슨의 어머니 에이미 데이비슨은 아들이 언젠가 킴 카다시안과 아이를 가질 것을 생각하자 큰 기쁨을 표시했다”고 보도했다. 한 팬이 인스타그램에 “그녀는]]></content>
     </entry>
 </feed>
