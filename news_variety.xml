@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/variety</id>
     <title>다음 연예 ─ 뉴스 ─ 예능</title>
-    <updated>2022-03-26T16:15:59.530Z</updated>
+    <updated>2022-03-26T17:12:32.571Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[유명 국악인, 남편의 상간녀로 등장..홍진경 "미친 거 아냐?"]]></title>
+        <id>https://entertain.v.daum.net/v/20220327015415082</id>
+        <link href="https://entertain.v.daum.net/v/20220327015415082"/>
+        <updated>2022-03-26T17:12:22.524Z</updated>
+        <content type="html"><![CDATA[[OSEN=오세진 기자] '애로부부' 방종으로 죄를 짓는 역대급 남편 등장, 뻔뻔한 상간녀까지 더해진 기가 막힌 사연이 소개됐다. 19일 방영된 채널A 예능 '애로부부'에서는 남편의 후안무치한 행동에 힘들어하는 사연자와 이에 대노한 패널들의 모습이 그려졌다. 사연을 보낸 사람은 바로 아내. 프로그램 처음 시작할 때 사연자는 음성 변조된 목소리로 "당신]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[허재, 홍성흔에 "나이가 몇인데 게임을 하고 있냐" 단호한 조언]]></title>
         <id>https://entertain.v.daum.net/v/20220327011504024</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220327001314875"/>
         <updated>2022-03-26T16:15:48.958Z</updated>
         <content type="html"><![CDATA[[OSEN=최지연 기자] ‘너의 목소리가 보여9’ 임창정이 음치 가려내기에 자신감을 드러냈다.&nbsp; 26일 방송된 tvN ‘너의 목소리가 보여9’(이하 '너목보9')에는 임창정과 윤민수가 게스트로 출연한 가운데 임창정이 음치 선별에 남다른 자신감을 보여 눈길을 끌었다.&nbsp; 이날 감성발라더와 오열발라더로 임창정과 윤민수는 각자 제 곡을 라이브로 선보이며 무대에]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[손동운 "키, '놀토' 춤 위해 따로 연습한다는 소문이.."]]></title>
-        <id>https://entertain.v.daum.net/v/20220327000921861</id>
-        <link href="https://entertain.v.daum.net/v/20220327000921861"/>
-        <updated>2022-03-26T15:12:46.807Z</updated>
-        <content type="html"><![CDATA[[마이데일리 = 임유리 기자] 손동운이 키에 대한 소문을 폭로했다. 26일 밤 방송된 케이블채널 tvN 예능 프로그램 ‘놀라운 토요일’(이하 ‘놀토’)에는 하이라이트의 윤두준, 이기광, 손동운이 출연했다. 이날 13년 전 키와 함께 찍은 사진을 준비해와 모두를 놀라게 한 손동운에게 붐은 “13년 전 키에 대해 얘기 좀 해달라”고 요청했다. 이에 손]]></content>
     </entry>
 </feed>
