@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2022-03-27T03:17:13.922Z</updated>
+    <updated>2022-03-27T04:15:54.934Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['런닝맨' 김종국, 유재석 능가할 겁쟁이 등극]]></title>
+        <id>https://entertain.v.daum.net/v/20220327131503898</id>
+        <link href="https://entertain.v.daum.net/v/20220327131503898"/>
+        <updated>2022-03-27T04:15:50.001Z</updated>
+        <content type="html"><![CDATA[[스포츠투데이 최혜진 기자] '런닝맨' 김종국의 겁쟁이 면모가 포착됐다. 27일 방송되는 SBS 예능프로그램 '런닝맨'에서는 '국민 겁쟁이' 유재석을 능가하는 김종국의 겁쟁이 모멘트가 공개된다. 최근 진행된 녹화에서는 6m 가량의 긴 봉을 극강의 힘과 고도의 순발력으로 잡아내는 역대급 담력 테스트가 진행됐다. 이에 멤버들의 겁쟁이 본능이 되살아났는데, ']]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['며느라기2' 해피엔딩, 현실에서도 가능하려면..]]></title>
         <id>https://entertain.v.daum.net/v/20220327121201291</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220327105945006"/>
         <updated>2022-03-27T02:20:47.300Z</updated>
         <content type="html"><![CDATA[[스포티비뉴스=김현록 기자]'전지적 참견 시점' 홍현희 매니저의 이별 파티가 시청자들에게 진한 뭉클함을 안겼다. 26일 방송된 MBC '전지적 참견 시점'(기획 박정규, 연출 노시용 윤혜진, 이하 ‘전참시’) 192회에서는 박재범의 본캐 일상과 홍현희 매니저의 굿바이 파티 현장이 그려졌다. 이날 홍현희는 매니저를 위해 정육점을 방불케 하는 스케일의]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['스물다섯 스물하나' 김태리·남주혁, 눈속의 키스엔딩 "이런 사랑도 해보자"]]></title>
-        <id>https://entertain.v.daum.net/v/20220327104949913</id>
-        <link href="https://entertain.v.daum.net/v/20220327104949913"/>
-        <updated>2022-03-27T02:20:47.303Z</updated>
-        <content type="html"><![CDATA[[스포티비뉴스=김현록 기자]tvN ‘스물다섯 스물하나’ 김태리와 남주혁이 ‘진격의 키스 엔딩’으로 본격 로맨스를 알렸다. 26일 방송된 tvN 토일드라마 ‘스물다섯 스물하나’(극본 권도은, 연출 정지현 김승호, 제작 화앤담픽쳐스) 13회는 수도권 가구 기준 평균 11%, 최고 12.7%, 전국 가구 기준 평균 9.9%, 최고 11.4%를 기록, 수도권]]></content>
     </entry>
 </feed>
