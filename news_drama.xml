@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-03-29T14:12:01.307Z</updated>
+    <updated>2022-03-29T15:13:40.726Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이덕화, 김세정에 이별 종용→안효섭은 교통 사고]]></title>
+        <id>https://entertain.v.daum.net/v/20220330001002077</id>
+        <link href="https://entertain.v.daum.net/v/20220330001002077"/>
+        <updated>2022-03-29T15:13:26.608Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 백민경 인턴기자) '사내맞선' 이덕화가 김세정, 안효섭의 관계를 알게 됐다. 29일 방송된 SBS 월화드라마 '사내맞선'에서 신하리(김세정 분)에게 강태무(안효섭)와의 이별을 종용하는 강다구(이덕화)의 모습이 전파를 탔다. 신하리와 강태무가 함께 있는 모습을 우연히 발견한 강다구는 둘의 사이를 의심했다. 강태무는 "일 때문"이라고 변명했지]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['사내맞선' 이덕화, 김세정에 "안효섭과 만나지마"→안효섭, 교통사고]]></title>
+        <id>https://entertain.v.daum.net/v/20220329231701471</id>
+        <link href="https://entertain.v.daum.net/v/20220329231701471"/>
+        <updated>2022-03-29T15:13:26.610Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 오진주 기자] /사진=SBS '사내맞선' 방송화면'사내 맞선'에서 이덕화가 김세정에게 "안효섭과 만나지 말라"고 전한 가운데, 안효섭이 교통사고가 났다. 29일 방송된 SBS 드라마 '사내 맞선'에서는 신하리(김세정 분)가 강태무(안효섭 분)와 데이트를 마친 후 진영서(설인아 분)를 만나러 가는 모습이 담겼다. 이날 방송에서 신하리는 데려다준]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['사내맞선' 이덕화, 안효섭♥김세정 관계 알았다 "다신 만나지 마"]]></title>
         <id>https://entertain.v.daum.net/v/20220329230730431</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220329193914693"/>
         <updated>2022-03-29T11:27:16.964Z</updated>
         <content type="html"><![CDATA[(엑스포츠뉴스 백민경 인턴기자) '두 번째 남편' 엄현경이 오승아의 과거를 폭로했다. 29일 방송된 MBC 일일드라마 '두 번째 남편'에서는 경찰을 피해 도망치는 윤재경(오승아 분)의 모습이 전파를 탔다. 이날 방송에서 봉선화(엄현경)은 "윤재경 웃는 낯 보는 것도 오늘이 마지막"이라며 복수를 예고했다. 윤재경의 자서전 출판 기념회에서 윤재경의 출생의]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["나희도♥백이진, 의미있는 결말"..'스물다섯' 스태프 글]]></title>
-        <id>https://entertain.v.daum.net/v/20220329193004557</id>
-        <link href="https://entertain.v.daum.net/v/20220329193004557"/>
-        <updated>2022-03-29T11:27:16.966Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 하지원 기자) tvN 토일드라마 '스물다섯 스물하나'가 종영을 단 2화만을 남겨두고 연일 화제를 모으고 있다. 이 가운데 '스물다섯 스물하나' 스태프라고 주장하는&nbsp;A씨가 온라인에 게재한 글이 눈길을 끌고 있다. 29일 한 온라인 커뮤니티에는 '조심스레 하고 싶은 말 적어봐요'라는 제목의 글이 게재됐다. 글쓴이 A씨는 자신이 tvN '스물다]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['두 번째 남편' 오승아, 남기택 살인 용의자로 체포→도망]]></title>
-        <id>https://entertain.v.daum.net/v/20220329192013409</id>
-        <link href="https://entertain.v.daum.net/v/20220329192013409"/>
-        <updated>2022-03-29T11:27:16.967Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 오진주 기자] /사진=MBC '두 번째 남편' 방송화면'두 번째 남편'에서 남기택 살인사건의 용의자로 오승아를 잡기 위해 경찰이 들이닥치자 오승아가 도망쳤다. 29일 오후 방송된 MBC 일일드라마 '두 번째 남편'에게서는 윤재경(오승아 분)이 쓴 자서전을 놓고 출판 기념회를 하는 모습이 담겼다. 이날 방송에서 봉선화(엄현경 분)가 윤재민(차서]]></content>
     </entry>
 </feed>
