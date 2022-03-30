@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-03-30T15:13:30.369Z</updated>
+    <updated>2022-03-30T16:17:17.121Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['서른아홉' 손예진X김지현, 시한부 전미도 위해 나섰다]]></title>
+        <id>https://entertain.v.daum.net/v/20220331002609862</id>
+        <link href="https://entertain.v.daum.net/v/20220331002609862"/>
+        <updated>2022-03-30T16:17:03.139Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 오진주 기자] /사진=JTBC '서른, 아홉' 방송화면'서른, 아홉'에서 시한부 선고를 받은 전미도를 위해 손예진, 김지현, 연우진, 이무생, 이태환이 나섰다. 30일 방송된 JTBC 수목드라마 '서른, 아홉'에서는 정찬영(전미도 분)과 차미조(손예진 분), 장주희(김지현 분), 김선우(연우진 분), 김진석(이무생 분)이 모여 정찬영 부모님 가]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['서른, 아홉' 죽음 앞둔 전미도, 손예진에 진심 고백 "두려워"]]></title>
         <id>https://entertain.v.daum.net/v/20220331001003646</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220330193150083"/>
         <updated>2022-03-30T11:11:18.742Z</updated>
         <content type="html"><![CDATA[[스타뉴스 박수민 기자] /사진='두번째 남편' 방송화면 '두 번째 남편'에서 오승아가 이중장부를 훔치다 정성모에게 발각됐다. 30일 오후 방송된 MBC 일일드라마 '두 번째 남편'에서는 문상혁(한기웅 분)과 함께 윤대국(정성모 분)의 장부를 빼내려는 윤재경(오승아 분)의 모습이 담겼다. 이날 방송에서 윤재경은 정성모의 이중장부를 훔치려는 계획을 짰고]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['두번째 남편' 천이슬, 엄현경에게 오승아 위치 알려 "장부 얘기 하더라"]]></title>
-        <id>https://entertain.v.daum.net/v/20220330191945865</id>
-        <link href="https://entertain.v.daum.net/v/20220330191945865"/>
-        <updated>2022-03-30T11:11:18.746Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 박수민 기자] /사진='두번째 남편' 방송화면 '두 번째 남편'에서 천이슬이 오승아의 위치를 엄현경에게 알렸다. 30일 오후 방송된 MBC 일일드라마 '두번째 남편'에서는 문상혁(한기웅 분)의 집에 숨은 윤재경(오승아 분)의 모습이 담겼다. 이날 방송에서 문상미(천이슬 분)는 양말자(최지연 분)의 만류에도 불구하고 몰래 봉선화(엄현경 분)에게]]></content>
     </entry>
 </feed>
