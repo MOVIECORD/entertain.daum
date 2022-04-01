@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2022-04-01T06:16:51.276Z</updated>
+    <updated>2022-04-01T07:14:25.216Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[전주국제영화제 "축제성의 완전한 회복"..개막작 '애프터양']]></title>
+        <id>https://entertain.v.daum.net/v/20220401161323962</id>
+        <link href="https://entertain.v.daum.net/v/20220401161323962"/>
+        <updated>2022-04-01T07:14:03.491Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 김미화 기자] /사진제공=전주국제영화제 제23회 전주국제영화제(집행위원장 이준동)가 축제성의 완전한 회복을 기치로 내걸었다. 지난 3월 31일 제 23회 전주국제영화제 개최 및 상영작 발표 기자회견이 열렸다. 오는 4월 28일 개막을 앞둔 제23회 전주국제영화제는 올해 축제와 방역의 공존을 목표로 삼고 오프라인 행사 전면화를 위해 준비하고 있]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["눈도 귀도 압살"..'모비우스' 실관람객 호평 쏟아지는 이유]]></title>
         <id>https://entertain.v.daum.net/v/20220401145734509</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220401114407291"/>
         <updated>2022-04-01T02:58:05.178Z</updated>
         <content type="html"><![CDATA[[티브이데일리 김종은 기자] 아카데미 시상식 측이 폭행을 저지른 윌 스미스에게 퇴장을 요구한 적이 없다는 주장이 새롭게 등장하며 사건이 새로운 국면을 맞았다. 앞서 지난달 27일(이하 현지시간) 미국 로스앤젤레스 돌비극장에서 제94회 아카데미 시상식이 진행된 가운데, 윌 스미스가 진행자 크리스 록의 뺨을 내리치는 상황이 발생했다. 크리스 록이 자신의 아내]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['야차' 이엘x송재림, 오늘 '식스센스3' 출연..색다른 케미]]></title>
-        <id>https://entertain.v.daum.net/v/20220401114340279</id>
-        <link href="https://entertain.v.daum.net/v/20220401114340279"/>
-        <updated>2022-04-01T02:58:05.178Z</updated>
-        <content type="html"><![CDATA[[OSEN=김보라 기자]&nbsp;넷플릭스의 스파이 첩보액션 '야차'의 이엘, 송재림이 오늘(1일) '식스센스3'에 출연한다. 1일 넷플릭스 측은 "이엘과&nbsp;송재림이 4월 1일(금) 오늘 오후 8시 40분 방송되는 tvN 예능 '식스센스3'에 출연한다"고 밝혔다. 두 사람이 육감 현혹 버라이어티 '식스센스3'에서 매력을 선보일 것으로 기대된다. 이엘과 송재림이 출]]></content>
     </entry>
 </feed>
