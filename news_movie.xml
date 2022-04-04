@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2022-04-04T20:13:34.921Z</updated>
+    <updated>2022-04-04T21:11:37.190Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['스텔라' 손호준 "내 연기 인생 속도, 스텔라처럼 시속 50km"]]></title>
+        <id>https://entertain.v.daum.net/v/20220405060203393</id>
+        <link href="https://entertain.v.daum.net/v/20220405060203393"/>
+        <updated>2022-04-04T21:11:18.655Z</updated>
+        <content type="html"><![CDATA[[스포츠서울 | 황혜정기자] “(내 연기 인생의 속도는)시속 50㎞인 것 같다. (연기가)너무 재밌고 좋아하는 일이라 오랫동안 하고 싶다.” 배우 손호준이 영화 ‘스텔라’( 권수경 감독)로 스크린에 복귀했다. ‘스텔라’는 옵션은 없지만 사연은 많은 최대 시속 50㎞의 자율주행차 스텔라와 함께 보스의 사라진 슈퍼카를 쫓는 영배의 버라이어티 추격]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["밖에서 보면 처절한 농성장, 들어가 보니 놀라운 공동체"]]></title>
         <id>https://entertain.v.daum.net/v/20220405050613594</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220404174452999"/>
         <updated>2022-04-04T09:13:13.368Z</updated>
         <content type="html"><![CDATA[이국적 도시를 배경으로 스파이들이 만났다. 넷플릭스(Netflix) 영화 '야차(나현 감독)'가 작품의 몰입감을 높이는 관전 포인트를 공개했다. '야차'는 스파이들의 최대 접전지 중국 선양에서 일명 야차가 이끄는 국정원 비밀공작 전담 블랙팀과 특별감찰 검사, 그리고 각국 정보부 요원들의 숨막히는 접전을 그린 첩보 액션 영화다. “기존 할리우드 첩보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['불도저' 김혜윤 "문신, 도롱뇽처럼 보일까봐 운동 했다"]]></title>
-        <id>https://entertain.v.daum.net/v/20220404172511446</id>
-        <link href="https://entertain.v.daum.net/v/20220404172511446"/>
-        <updated>2022-04-04T09:13:13.368Z</updated>
-        <content type="html"><![CDATA[[티브이데일리 황서연 기자] 배우 김혜윤이 영화 '불도저에 탄 소녀'를 위해 운동에 매진했다고 밝혔다. 4일 오후 김혜윤의 인터뷰가 서울 종로구 소격동 모처에서 진행됐다. 이날 김혜윤은 7일 개봉을 앞둔 영화 '불도저에 탄 소녀'(감독 박이웅)에 관한 다양한 이야기를 전했다. '불도저에 탄 소녀'는 갑작스러운 아버지의 사고 이후 살 곳마저 빼앗긴 채 어린]]></content>
     </entry>
 </feed>
