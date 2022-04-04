@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2022-04-04T03:33:48.813Z</updated>
+    <updated>2022-04-04T04:15:29.956Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[정준호X최대철X이엘빈 '어부바' 5월 개봉]]></title>
+        <id>https://entertain.v.daum.net/v/20220404131201107</id>
+        <link href="https://entertain.v.daum.net/v/20220404131201107"/>
+        <updated>2022-04-04T04:15:09.002Z</updated>
+        <content type="html"><![CDATA[정준호의 가정의 달 5월 귀환이다. 영화 ‘어부바’를 통해서다. ‘어부바’는 늦둥이 아들과 철없는 동생 그리고 자신의 분신 어부바호를 지키기 위해 고군분투하는 종범의 찡하고 유쾌한 혈육 코미디. 4일 개봉 소식과 함께 공개된 메인 포스터는 세 주연 배우의 가족 같은 케미스트리가 담겼다. 시원하고 따뜻한 웃음을 짓고 있는 어부바호 선장 종범 역의 정준호와]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[불친절하기 짝이 없는 이 영화, 반가웠다]]></title>
         <id>https://entertain.v.daum.net/v/20220404115700603</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220404100952581"/>
         <updated>2022-04-04T02:42:26.073Z</updated>
         <content type="html"><![CDATA[[스타뉴스 김미화 기자] /사진='사운드트랙' 박형식과 한소희가 남다른 케미스트리를 자랑했다. 디즈니+ 오리지널 시리즈 '사운드트랙 #1'(극본 안새봄·연출 김희원, 제작 레드나인픽쳐스 제나두엔터테인먼트)은 20년 지기 절친 두 남녀가 2주 동안 한 집에 머물게 되면서 서로의 마음을 알아가는 뮤직 로맨스다. 공감을 유발하는 '사랑과 우정 사이' 로맨스 스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['원더걸스→2EN1' 등 전현직 아이돌 대거 출연 뮤지컬 영화, 6월 개봉 확정]]></title>
-        <id>https://entertain.v.daum.net/v/20220404100331270</id>
-        <link href="https://entertain.v.daum.net/v/20220404100331270"/>
-        <updated>2022-04-04T02:42:26.074Z</updated>
-        <content type="html"><![CDATA[[스포츠서울 | 황혜정기자] 전현직 아이돌이 대거 출연한 뮤지컬 영화 ‘오늘부터 합창단’이 영화명 변경과 함께 촬영을 마무리했다. 앞서 영화의 제목인 ‘러블리 보이스 : 더 비기닝’라고 발표한 이후 ‘오늘부터 합창단’으로 영화 타이틀을 변경했다. 2AM 멤버이자 배우인 진운, 전 AOA 멤버이자 배우인 신혜정, 전 원더걸스 멤버이자 배우인 유]]></content>
     </entry>
 </feed>
