@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-04-06T10:15:17.848Z</updated>
+    <updated>2022-04-06T11:11:42.757Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['사랑의꽈배기' 심혜진, 손성윤 머리채 잡았다 "김진엽과 이혼해"]]></title>
+        <id>https://entertain.v.daum.net/v/20220406200648532</id>
+        <link href="https://entertain.v.daum.net/v/20220406200648532"/>
+        <updated>2022-04-06T11:11:26.822Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 오진주 기자] /사진=KBS 2TV '사랑의 꽈배기' 방송화면'사랑의 꽈배기'에서 심혜진이 손성윤에게 김진엽과 이혼하라고 다그쳤다. 6일 오후 방송된 KBS 2TV 일일드라마 '사랑의 꽈배기'에서는 맹옥희(심혜진 분)가 강윤아(손성윤 분)의 머리채를 잡는 모습이 담겼다. 이날 방송에서 맹옥희는 "이 나쁜 년"이라고 울분을 참지 못했다. 강윤]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['군검사 도베르만' 김영민, 극과 극 이면 오가는 철두철미 전략킹]]></title>
         <id>https://entertain.v.daum.net/v/20220406182708353</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220406161019259"/>
         <updated>2022-04-06T07:13:00.921Z</updated>
         <content type="html"><![CDATA[[OSEN=장우영 기자] 시청률 잔혹사를 끊어낸 JTBC가 또 한번의 명품 워맨스를 예고했다. 손예진, 전미도, 김지현에 이어 이요원, 추자현, 김규리, 장혜진, 주민경이 그 바통을 받았다. 지난해 고현정, 이영애를 내세웠음에도 시청률 잔혹사를 끊어내지 못했던 JTBC. 올 상반기 분위기는 좋다. 시청률 잔혹사를 끊어낸 건 다름아닌 손예진, 전미도, 김]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[안효섭, 비주얼+매력+연기+영어까지..스타성 제대로 입증]]></title>
-        <id>https://entertain.v.daum.net/v/20220406160930217</id>
-        <link href="https://entertain.v.daum.net/v/20220406160930217"/>
-        <updated>2022-04-06T07:13:00.921Z</updated>
-        <content type="html"><![CDATA[[TV리포트=박설이 기자]안효섭이 불도저 같은 직진 매력으로 장애물을 껑충 뛰어넘어 사랑을 쟁취했다. 결국엔 양가의 반대를 극복하고 김세정과 변함없는 사랑에 대한 약속까지, 더할 나위 없는 아름다운 엔딩이었다. 5일 SBS 월화드라마 ‘사내맞선’ 최종회는 닐슨코리아 기준 수도권 가구 시청률 11.9%, 전국 가구 시청률 11.4%를, 2049 시청률은 4.]]></content>
     </entry>
 </feed>
