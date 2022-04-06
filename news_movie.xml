@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2022-04-06T06:15:10.288Z</updated>
+    <updated>2022-04-06T07:13:17.599Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['태어나길 잘했어' 강진아 박혜진의 따뜻한 성장담]]></title>
+        <id>https://entertain.v.daum.net/v/20220406161204315</id>
+        <link href="https://entertain.v.daum.net/v/20220406161204315"/>
+        <updated>2022-04-06T07:12:55.698Z</updated>
+        <content type="html"><![CDATA[춘희의 따뜻한 성장담을 그린 ‘태어나길 잘했어’가 올봄 극장가를 찾는다. 6일 오후 서울 CGV 용산아이파크몰에서 영화 ‘태어나길 잘했어’ 시사회 및 간담회가 열렸다. 최진영 감독과 배우 강진아 박혜진 홍상표가 참석했다. ‘태어나길 잘했어’는 손에 땀 마를 날 없는 다한증 때문에 외로움과 부끄러움이 전부가 되어버린 춘희가 새로운 인연들을 만나면서 벌어]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[할리우드 배우들의 '둔갑술'..오스카와 라즈베리 사이]]></title>
+        <id>https://entertain.v.daum.net/v/20220406154509275</id>
+        <link href="https://entertain.v.daum.net/v/20220406154509275"/>
+        <updated>2022-04-06T07:12:55.714Z</updated>
+        <content type="html"><![CDATA[[SBS 연예뉴스 | 김지혜 기자] '변신의 귀재'라는 말은 배우가 받을 수 있는 최고의 칭찬이다. 매 작품, 새로운 캐릭터로 옷을 갈아입어야 하는 배우에겐 그만큼 자신의 롤을 잘 수행했다는 훈장 같은 의미의 수식어이기 때문이다. 배우가 캐릭터를 소화하는 방식은 다양하다. 그중 콘스탄틴 스타니슬라프스키가 창안한 '메소드 연기'(method acting)는]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['루이스 웨인: 사랑을 그린 고양이 화가' 오늘 개봉..실관객 호평]]></title>
         <id>https://entertain.v.daum.net/v/20220406151146931</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220406113903000"/>
         <updated>2022-04-06T03:26:29.139Z</updated>
         <content type="html"><![CDATA[[김동근 기자] ▲ &nbsp;영화 &lt;말임씨를 부탁해&gt; 포스터    ⓒ  ㈜씨네필운  &nbsp; 사람은 누구나 나이가 들어간다. 젊은 성인기를 거쳐 결혼을 하고 아이를 낳아서 아이가 성인이 될 때까지 바쁘게 삶을 이어가던 부모들은 아이가 성인이 되어 독립을 시작할 시기가 되면, 문득 자신이 나이가 들었다는 것을 더욱 실감하게 된다. 그때부터 아이가 독립하여]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이정은 주연 '오마주', 제69회 호주 시드니영화제 초청]]></title>
-        <id>https://entertain.v.daum.net/v/20220406113406726</id>
-        <link href="https://entertain.v.daum.net/v/20220406113406726"/>
-        <updated>2022-04-06T03:26:29.141Z</updated>
-        <content type="html"><![CDATA[[티브이데일리 최하나 기자] '오마주'가 제69회 호주 시드니영화제에 초청됐다. 영화 '오마주'(감독 신수원·제작 준필름)는 60년대에 활동한 한국 1세대 여성 감독의 작품을 복원하면서 현재와 과거를 넘나들게 된 중년 여성 감독의 1962년과 2022년을 잇는 시네마 시간여행을 그린 아트판타지버스터다. 이 가운데 '오마주'가 제69회 호주 시드니영화제에]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김영옥 "'신사와 아가씨' 감독에 임영웅 OST 추천..최고의 가수"]]></title>
-        <id>https://entertain.v.daum.net/v/20220406113018518</id>
-        <link href="https://entertain.v.daum.net/v/20220406113018518"/>
-        <updated>2022-04-06T03:26:29.143Z</updated>
-        <content type="html"><![CDATA[[마이데일리 = 양유진 기자] 배우 김영옥이 가수 임영웅을 향한 마음을 고백했다. 6일 방송된 SBS 파워FM 라디오 '박하선의 씨네타운'의 씨네초대석에는 영화 '말임씨를 부탁해' 주역 김영옥이 출연했다. 김영옥의 65년 연기 인생 첫 주연작 '말임씨를 부탁해'는 '효자 코스프레'하는 아들과 '가족 코스프레'하는 요양보호사 사이에 낀 85세 정말임 여사]]></content>
     </entry>
 </feed>
