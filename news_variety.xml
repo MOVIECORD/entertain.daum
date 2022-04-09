@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/variety</id>
     <title>다음 연예 ─ 뉴스 ─ 예능</title>
-    <updated>2022-04-09T16:16:12.086Z</updated>
+    <updated>2022-04-09T17:13:26.376Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[심하은 "♥이천수, 헤어지자고 하니까 꺼이꺼이 울어"]]></title>
+        <id>https://entertain.v.daum.net/v/20220410013336053</id>
+        <link href="https://entertain.v.daum.net/v/20220410013336053"/>
+        <updated>2022-04-09T17:13:15.729Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 임유리 기자] 심하은이 남편 이천수와 연애 시절의 일화를 털어놨다. 9일 밤 방송된 KBS2TV ‘살림하는 남자들 시즌2’에서는 심하은이 평소 친한 양은지, 서동주와 함께 카페에서 차를 마시며 즐거운 시간을 보내는 모습이 그려졌다. 이날 양은지는 “진짜 괜찮은 거냐. 우리끼리 이렇게 나온 거. 되게 삐져서 올라갔잖아. 괜히 우리 가고]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[은혁, 최민환 아이들 매력에 푹 "또 와달라면 와 줄 수 있어"]]></title>
         <id>https://entertain.v.daum.net/v/20220410011314979</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220410000415696"/>
         <updated>2022-04-09T15:12:52.535Z</updated>
         <content type="html"><![CDATA[[마이데일리 = 임유리 기자] 배우 김지석이 골프를 시작하고 나서 손에 변형이 왔다고 밝혔다. 9일 밤 첫 방송된 종합편성채널 TV조선 예능 프로그램 ‘골프왕3’에서는 새 멤버로 합류한 김지석의 일상이 공개됐다. 이날 공개된 VCR에서 김지석은 자신의 골프 백을 공개하겠다고 나섰다. 거리 측정기를 집어 든 김지석은 “이게 또 우리 회사 대표님이 골]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[장민호, 새 멤버 김지석 멘트에 "처음 이상우 왔을 때랑 너무 비슷해"]]></title>
-        <id>https://entertain.v.daum.net/v/20220410000218667</id>
-        <link href="https://entertain.v.daum.net/v/20220410000218667"/>
-        <updated>2022-04-09T15:12:52.535Z</updated>
-        <content type="html"><![CDATA[[마이데일리 = 임유리 기자] 장민호가 배우 김지석의 멘트에 이상우를 떠올렸다. 9일 밤 첫 방송된 종합편성채널 TV조선 예능 프로그램 ‘골프왕3’에서는 새 멤버로 합류한 김지석이 기존 멤버였던 김국진, 김미현, 양세형, 장민호와 함께 대화를 나누는 모습이 그려졌다. 이날 새로 등장한 김지석에게 멤버들이 “숨겨진 고수냐”고 묻자 김지석은 “이따 필드]]></content>
     </entry>
 </feed>
