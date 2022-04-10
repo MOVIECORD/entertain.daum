@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2022-04-10T02:29:57.244Z</updated>
+    <updated>2022-04-10T03:26:35.212Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['스텔라' 권수경 감독 "코미디에도 메시지 담아야 해, 항상 감동 주려 한다"]]></title>
+        <id>https://entertain.v.daum.net/v/20220410120153713</id>
+        <link href="https://entertain.v.daum.net/v/20220410120153713"/>
+        <updated>2022-04-10T03:26:14.792Z</updated>
+        <content type="html"><![CDATA['맨발의 기봉이'부터 '형'까지 유쾌함과 따뜻함을 모두 갖춘 코미디 영화들을 선보여온 권수경 감독이 신작을 내놨다. '형' 이후 6년 만에 내놓는 '스텔라'에서 권수경 감독은 막다른 인생 제대로 한 번 달려본 적 없는 차량담보업계 에이스 영배가 보스의 슈퍼카와 함께 사라진 절친을 쫓는 속도감 넘치는 추격 코미디에 도전했다. 매 작품마다 세대 불문하고 웃]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[겉만 번지르르한 복지체계에 직면한 장애인의 애환]]></title>
         <id>https://entertain.v.daum.net/v/20220410111812663</id>
@@ -95,19 +102,5 @@
         <link href="https://entertain.v.daum.net/v/20220409140022895"/>
         <updated>2022-04-09T05:11:10.009Z</updated>
         <content type="html"><![CDATA[[이데일리 스타in 박미애 기자] 개봉 영화를 소개합니다. ◇스텔라 막다른 인생 제대로 한 번 달려본 적 없는 차량담보업계 에이스 ‘영배’(손호준 분). 보스 ‘서사장’(허성태 분)이 하룻밤 맡긴 슈퍼카가 절친 ‘동식’(이규형 분)과 함께 감쪽같이 사라진다. 영배는 범인으로 몰려 서사장 일당에게 쫓기기 시작한다. 믿을 사람 하나 없고, 도망칠 곳도 없는]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[마이클 베이 파워, '앰뷸런스' 흥행 가속]]></title>
-        <id>https://entertain.v.daum.net/v/20220409121207913</id>
-        <link href="https://entertain.v.daum.net/v/20220409121207913"/>
-        <updated>2022-04-09T03:21:19.156Z</updated>
-        <content type="html"><![CDATA[[티브이데일리 이기은 기자] 상업 액션의 거장이기도 한 마이클 베이 영화 '앰뷸런스'가 3일 째 박스오피스 1위를 지키며 브랜드네임 파워를 발휘하고 있다. 9일 영화진흥위원회 영화관입장권통합전산망의 집계에 따르면 영화는 지난 8일 1만2338명의 관객을 불러 모았다. 누적 관객수 4만589명을 달성했으며 박스오피스 1위인 수치다. '앰뷸런스'는 인생 역전을]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[윌 스미스, 10년간 아카데미 시상식 '참석 금지' 징계]]></title>
-        <id>https://entertain.v.daum.net/v/20220409121200906</id>
-        <link href="https://entertain.v.daum.net/v/20220409121200906"/>
-        <updated>2022-04-09T03:21:19.156Z</updated>
-        <content type="html"><![CDATA[[윤현 기자] ▲ &nbsp;윌 스미스에 대한 미 아카데미 시상식 10년간 참석 금지 징계를 보도하는 AP통신 갈무리.    ⓒ AP  &nbsp; 미국 아카데미 시상식에서 자신의 아내를 조롱한 진행자를 때린 할리우드 스타 윌 스미스가 10년간 시상식 참석을 금지당하는 중징계를 받았다. 아카데미 시상식 후 미국 영화예술과학아카데미(AMPAS)는 8일(현지시간)]]></content>
     </entry>
 </feed>
