@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2022-04-12T02:38:36.060Z</updated>
+    <updated>2022-04-12T03:31:14.134Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["윌 스미스는 차분한 사람, 100% 같이 일하겠다" 마이클 베이 감독 옹호]]></title>
+        <id>https://entertain.v.daum.net/v/20220412114110108</id>
+        <link href="https://entertain.v.daum.net/v/20220412114110108"/>
+        <updated>2022-04-12T03:31:13.475Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]할리우드의 대표적 흥행감독 마이클 베이(57)가 제94회 아카데미 시상식에서 크리스 록(57)을 폭행한 윌 스미스(53)를 감쌌다. 그는 11일(현지시간) 엔터테인먼트 위클리와 인터뷰에서 “앞으로도 윌 스미스와 ‘절대적으로’ 함께 일할 것이다”라고 말했다. 마이클 베이 감독은 윌 스미스의 대표적인 액션 영화인 ‘나쁜 녀석들]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[존 레논 전기영화, 아내 오노 요코가 제작..비틀즈 멤버들도 참여]]></title>
         <id>https://entertain.v.daum.net/v/20220412112737588</id>
@@ -53,12 +60,5 @@
         <link href="https://entertain.v.daum.net/v/20220411134640267"/>
         <updated>2022-04-11T05:12:06.683Z</updated>
         <content type="html"><![CDATA[(엑스포츠뉴스 이창규 기자) 제94회 아카데미 시상식 도중 농담을 했다가 윌 스미스에게 폭행을 당했던 크리스 락이 사건 후 처음으로 사건과 관련한 입장을 밝혔다. 10일(현지시간) 미국 팜 스프링스 데저트 선의 보도에 따르면 크리스 락은 캘리포니아 인디오에서 열린 판타지 쇼에 출연해 "난 괜찮다. 난 내 쇼가 있고, 출연료를 받기 전까지는 그 이야]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[황동혁 감독 "이정재·이병헌 '오징어게임2' 출연, 정호연은 사악한 쌍둥이 자매"]]></title>
-        <id>https://entertain.v.daum.net/v/20220411115306544</id>
-        <link href="https://entertain.v.daum.net/v/20220411115306544"/>
-        <updated>2022-04-11T03:40:03.912Z</updated>
-        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]황동혁 감독이 넷플릭스 오리지널 시리즈 '오징어 게임' 시즌2의 주요 등장인물을 언급했다. 황동혁 감독은 지난 9일(현지시간) 배우 박해수와 함께 미국 캘리포니아주 로스앤젤레스 파라마운트 스튜디오에서 열린 '데드라인 컨텐더즈 텔레비전(Deadline Contenders Television)'에 출연했다. 이날 데드라인에 따]]></content>
     </entry>
 </feed>
