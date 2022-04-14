@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-04-14T11:11:27.541Z</updated>
+    <updated>2022-04-14T12:24:15.705Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['킬힐' 김하늘 vs 한수연, 불꽃 튀는 2차전 예고..'아찔한' 대치]]></title>
+        <id>https://entertain.v.daum.net/v/20220414212227545</id>
+        <link href="https://entertain.v.daum.net/v/20220414212227545"/>
+        <updated>2022-04-14T12:23:59.459Z</updated>
+        <content type="html"><![CDATA[14일 방송되는 tvN 수목드라마 ‘킬힐’에서는 우현(김하늘 분)과 신애(한수연 분)의 끝나지 않은 불꽃 매치가 이어진다. 방송에 앞서 제작진은 적진으로 돌진해 매섭게 부딪치는 우현과 신애의 모습이 담긴 스틸 컷을 공개했다. 우현과 현욱(김재철 분)의 관계가 불러온 후폭풍이 어떤 파란을 일으킬지 이목이 집중된다. 지난 방송에서는 신애가 해수(민재 분)을 살]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['비밀의집' 이승연, 윤복인 치매 알고 "깨어나도 기억 못하겠네"]]></title>
         <id>https://entertain.v.daum.net/v/20220414194408207</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220414161514795"/>
         <updated>2022-04-14T08:16:43.527Z</updated>
         <content type="html"><![CDATA[[동아닷컴] 딱딱하기가 이루 말할 수 없었던, ‘딱딱좌’로 불리던 서예지가 5월 편성이 확정된 tvN 새 수목드라마 ‘이브’(극본 윤영미 연출 박봉섭)를 통해 안방극장에 복귀한다. 동아닷컴 확인 결과, 서예지 복귀작인 ‘이브’는 tvN 새 수목드라마 ‘살인자의 쇼핑목록’(연출 이언희 극본 한지완) 후속으로 5월 시청자를 찾는다. 처음부터 올해 방영을 목표]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이주명 "리틀 전지현? 영광..더 잘해야겠다 생각"]]></title>
-        <id>https://entertain.v.daum.net/v/20220414160006228</id>
-        <link href="https://entertain.v.daum.net/v/20220414160006228"/>
-        <updated>2022-04-14T07:13:52.668Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 하지원 기자) 배우 이주명이 '리틀 전지현' 수식어에 대한 자신의 생각을 전했다. 이주명은 3일 종영한 tvN 토일드라마 '스물다섯 스물하나'에서 태양고 전교 1등이자 똑부러지는 반장인 지승완으로 분해 팔색조 연기를 펼치며 강렬한 존재감을 발산했다.&nbsp; '스물다섯 스물하나' 이후 이주명은 '리틀 전지현'이라는 수식어와 함께 스타덤에 오르며]]></content>
     </entry>
 </feed>
