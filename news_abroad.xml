@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2022-04-14T22:15:17.777Z</updated>
+    <updated>2022-04-14T23:12:54.805Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[SMAP 출신 카토리 싱고, 195억 신혼집 마련]]></title>
+        <id>https://entertain.v.daum.net/v/20220415072030275</id>
+        <link href="https://entertain.v.daum.net/v/20220415072030275"/>
+        <updated>2022-04-14T23:12:54.115Z</updated>
+        <content type="html"><![CDATA[[TV리포트=박설이 기자]일본 톱 아이돌 그룹 SMAP 출신 카토리 싱고가 200억 원에 육박하는 신혼집을 마련한다. 14일 일본 뉴스 포스트세븐에 따르면 카토리 싱고가 150평방미터의 땅을 13억 엔에 사들여 유명 건축가에 의뢰, 저택을 짓는다. 카토리 싱고는 건축가 고용 및 설계 등 새 저택에 총 20억 엔(195억 원)을 들였다고 매체는 전했다. 카토]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["남편 저스틴 비버의 전 여친 셀레나 고메즈와 나를 비교해?" 헤일리 비버 고통 호소해외이슈]]]></title>
         <id>https://entertain.v.daum.net/v/20220415061906450</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220414112816340"/>
         <updated>2022-04-14T03:02:01.726Z</updated>
         <content type="html"><![CDATA[카메룬 출신의 아프로소울(afro-soul) 음악의 거장 마누 디방고(Manu Dibango)와 부에나 비스타 쇼셜 클럽(Buena Vista Social Club) 멤버들이 함께한 ‘쿠바프리카 (CUBAFRICA) 음반이 LP로 발매됐다. 부에나 비스타 소셜 클럽의 음악으로 유명한 아프로쿠반 음악은 17세기 암흑의 시대에 노예로 팔려온 아프라카인 그리고]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[엠버 허드, "조니 뎁이 주먹으로 때리고 발로 차고 머리카락 덩어리로 뽑았다" 주장]]></title>
-        <id>https://entertain.v.daum.net/v/20220414112351097</id>
-        <link href="https://entertain.v.daum.net/v/20220414112351097"/>
-        <updated>2022-04-14T03:02:01.727Z</updated>
-        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]영화 ‘아쿠아맨’의 엠버 허드(35)가 전 남편 조니 뎁(58)에게 신체적으로 학대 당했다고 주장했다. 그는 12일(현지시간) 미국 버지니아주 페어팩스 카운티 법원에서 “조니 뎁이 주먹으로 때리고, 발로 차고, 마리카락을 잡아당겨 덩어리로 뽑아냈다”고 밝혔다. 조니 뎁은 2018년 전 부인 엠버 허드가 워싱턴 포스트에 학대]]></content>
     </entry>
 </feed>
