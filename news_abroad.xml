@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2022-04-14T23:12:54.805Z</updated>
+    <updated>2022-04-15T00:57:39.288Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[크리스 록 동생, 윌 스미스에 결투 제안 "때려눕힐 것"]]></title>
+        <id>https://entertain.v.daum.net/v/20220415081308027</id>
+        <link href="https://entertain.v.daum.net/v/20220415081308027"/>
+        <updated>2022-04-15T00:57:38.628Z</updated>
+        <content type="html"><![CDATA[[티브이데일리 김종은 기자] 미국 코미디언 크리스 록의 동생 케니 록이 자신의 형을 때린 윌 스미스에게 결투를 신청했다. 케니 록은 13일(현지시간) 미국 연예매체 TMZ와의 인터뷰에서 "난 윌 스미스와 함께 링 위에 올라갈 거다. 난 그를 때려눕힐 거고 주먹이 대신 대화를 나눌 거다"라고 도발했다. 케니 록은 복싱 프로모터 데이먼 펠드먼과 함께 복싱 결투]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SMAP 출신 카토리 싱고, 195억 신혼집 마련]]></title>
         <id>https://entertain.v.daum.net/v/20220415072030275</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220414113407646"/>
         <updated>2022-04-14T03:02:01.723Z</updated>
         <content type="html"><![CDATA[[티브이데일리 김종은 기자] 애니메이션 '알라딘'에서 앵무새 이아고 역의 더빙을 맡았던 할리우드 배우 길버트 갓프리드가 사망했다. 향년 67세. 길버트 갓프리드의 가족들은 13일(현지시간) 성명을 통해 "오랜 질병을 앓아온 길버트가 사망했다"고 발표했다. 이날 가족들은 "길버트는 두 자녀들에게 훌륭한 아버지였고, 좋은 남편이자 형제이자 친구였다. 오늘은]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[마누 디방고와 비스타 쇼셜클럽이 뭉쳤다 '쿠바프리카']]></title>
-        <id>https://entertain.v.daum.net/v/20220414112816340</id>
-        <link href="https://entertain.v.daum.net/v/20220414112816340"/>
-        <updated>2022-04-14T03:02:01.726Z</updated>
-        <content type="html"><![CDATA[카메룬 출신의 아프로소울(afro-soul) 음악의 거장 마누 디방고(Manu Dibango)와 부에나 비스타 쇼셜 클럽(Buena Vista Social Club) 멤버들이 함께한 ‘쿠바프리카 (CUBAFRICA) 음반이 LP로 발매됐다. 부에나 비스타 소셜 클럽의 음악으로 유명한 아프로쿠반 음악은 17세기 암흑의 시대에 노예로 팔려온 아프라카인 그리고]]></content>
     </entry>
 </feed>
