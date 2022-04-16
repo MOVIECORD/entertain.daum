@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-04-16T09:12:55.926Z</updated>
+    <updated>2022-04-16T10:14:47.496Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['우리들의 블루스' 벼랑 끝에 내몰린 차승원, 이정은과의 여행 결말은?]]></title>
+        <id>https://entertain.v.daum.net/v/20220416190628508</id>
+        <link href="https://entertain.v.daum.net/v/20220416190628508"/>
+        <updated>2022-04-16T10:14:33.096Z</updated>
+        <content type="html"><![CDATA['우리들의 블루스'에서는 배우 차승원, 이정은의 목포 여행기가 이어진다. 16일 tvN 토일드라마 '우리들의 블루스' 측은 스틸을 공개했다. 지난 방송에서는 최한수(차승원 분)와 정은희(이정은 분)가 찬란했던 청춘을 품은 수학여행지 목포로 향했다. 이 가운데 스틸에는 최한수가 갈등하는 모습이 담겨 있다. 솜사탕을 먹으며 거리를 걷는 최한수와 정은희의 표정은]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['자존감 최악' 김지원 변화 예고, 추앙받을까]]></title>
         <id>https://entertain.v.daum.net/v/20220416172708378</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220416141929138"/>
         <updated>2022-04-16T06:15:03.555Z</updated>
         <content type="html"><![CDATA[[뉴스엔 박수인 기자] 배우 갈소원이 찰나에도 빛난 존재감을 보였다. 갈소원은 MBC 금토드라마 '내일'(극본 박란 박자경 김유진, 연출 김태윤 성치욱) 5회에서 구련(김희선 분)의 아역으로 첫 등장했다. 어린 련은 혼인을 앞두고, 정인을 향해 설레는 마음을 감추지 못하겠다는 듯 미소 지었다. 그런 자신을 바라보던 정인이 한숨을 쉬자, 련은 "설마 저와]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['내일' 김희선·로운·윤지온, 네 번째 관리대상자 누구? 슬픔 머금은 눈빛 포착]]></title>
-        <id>https://entertain.v.daum.net/v/20220416141110035</id>
-        <link href="https://entertain.v.daum.net/v/20220416141110035"/>
-        <updated>2022-04-16T05:11:25.836Z</updated>
-        <content type="html"><![CDATA[[마이데일리 = 양유진 기자] '내일' 저승 독점기업 주마등의 회장인 '옥황' 김해숙이 대규모 저승사자 군단을 이끌고 이승에 출두한 모습이 포착돼 궁금증을 자아낸다. MBC 금토드라마 '내일'은 '죽은 자'를 인도하던 저승사자들이, 이제 '죽고 싶은 사람들'을 살리는 저승 오피스 휴먼 판타지로, 주변의 누군가가 겪었을 법한 현실적인 에피소드를 통해 공감]]></content>
     </entry>
 </feed>
