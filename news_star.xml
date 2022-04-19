@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2022-04-19T15:13:57.642Z</updated>
+    <updated>2022-04-19T16:19:23.174Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['화밤' 장윤정, '새신부' 윤태화 무대에 "사랑의 힘 느껴져"]]></title>
+        <id>https://entertain.v.daum.net/v/20220420001600273</id>
+        <link href="https://entertain.v.daum.net/v/20220420001600273"/>
+        <updated>2022-04-19T16:19:17.010Z</updated>
+        <content type="html"><![CDATA[[TV리포트 = 하수나 기자] 가수 장윤정이 ‘장윤정 가요제’에 출연한 가운데 최근 결혼한 새신부 윤태화의 무대에 “사랑의 힘이 느껴진다”고 말했다.&nbsp; 19일 방송된 TV조선 ‘화요일은 밤이 좋아’에선 트롯퀸 장윤정이 출연한 가운데 ‘장윤정 가요제’로 꾸며졌다. 오로지 장윤정의 곡으로만 대결을 펼쳐야 한다.&nbsp; 장윤정은 “‘미스트롯2’때 만큼 참가자들이 긴장]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['갓파더' KCM 신혼집 공개, '환희 방' 생겼다]]></title>
         <id>https://entertain.v.daum.net/v/20220420001009131</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220419224800387"/>
         <updated>2022-04-19T14:12:36.504Z</updated>
         <content type="html"><![CDATA['돌싱포맨' 위너 송민호, 강승윤, 이승훈, 김진우가 게스트로 출연했다. 19일 방송된 SBS 예능프로그램 '신발 벗고 돌싱포맨'(이하 '돌싱포맨')에서는 지난 주에 이어 돌싱포맨과 위너의 환장의 케미로 빅 웃음을 선사했다. 이날 이상민은 "임원희와 김진우가 평행이론이 있다"며 "각 팀의 외모 담당이다"고 말을 이었다. 김진우는 "말수가 많이 없으시지]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['호적메이트' 딘딘, 큰누나와 '티격태격' 일상 공개]]></title>
-        <id>https://entertain.v.daum.net/v/20220419223601304</id>
-        <link href="https://entertain.v.daum.net/v/20220419223601304"/>
-        <updated>2022-04-19T14:12:36.505Z</updated>
-        <content type="html"><![CDATA['호적메이트' 딘딘과 큰누나의 일상이 공개됐다. 19일 방송된 MBC 예능프로그램 '호적메이트'에서는 극과 극 성향을 가진 딘딘과 큰 누나가 시간을 보내는 모습이 공개됐다. 이날 이경규는 김정은에 "정은 씨는 남편이 계신 싱가포르에 갔다오셨다면서요"라며 물었다. 딘딘도 "SNS 사진 보니까 너무 즐거워보이고, 기사가 엄청많이 나왔다"고 말했다. 두]]></content>
     </entry>
 </feed>
