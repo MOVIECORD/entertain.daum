@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/variety</id>
     <title>다음 연예 ─ 뉴스 ─ 예능</title>
-    <updated>2022-04-20T10:15:10.805Z</updated>
+    <updated>2022-04-20T11:12:37.111Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["우리가 BTS는 아니지만"..'낭만닥터' 임채무→이문식의 건강 품앗이]]></title>
+        <id>https://entertain.v.daum.net/v/20220420192003117</id>
+        <link href="https://entertain.v.daum.net/v/20220420192003117"/>
+        <updated>2022-04-20T11:12:22.984Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 하지원 기자) '낭만닥터즈' 임채무·이문식·지성원·이태훈이 건강 품앗이 힐링 프로그램을 선보인다. 20일 강남 한국컨퍼런스센터에서 skyTV 새 예능프로그램 ‘임채무의 낭만닥터’(이하 '낭만닥터') 제작발표회가 진행됐다. 이날 제작발표회에는 배우 임채무, 이문식, 지성원, 정형외과 전문의 이태훈, 허승우 PD가 참석했다. skyTV ‘임채]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[고스트나인, 팬심 꿰뚫는 파워풀 카리스마 'X-ray']]></title>
         <id>https://entertain.v.daum.net/v/20220420191211944</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220420172243913"/>
         <updated>2022-04-20T09:13:15.254Z</updated>
         <content type="html"><![CDATA[[엔터미디어=김교석의 어쩌다 네가] 가족예능은 더 이상 트렌디하지 않다. 여기서 트렌드라함은 TV의 주요 소비자로 굳건히 자리 잡은 중장년층에게도 그렇다는 뜻이다. 지난 10년 간 가족예능은 초기 관찰예능 형태에서 시작해 &lt;살림남&gt;시리즈, TV조선의 '맛' 시리즈로 대표되는 시트콤 요소가 강한 주말드라마의 가볍고 친근한 버전으로 큰 사랑을 받았다. 하지만]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아유미 '돈쭐2' 출격 "운동 끝나면 배고파, 라면 최대 3봉지"]]></title>
-        <id>https://entertain.v.daum.net/v/20220420172114857</id>
-        <link href="https://entertain.v.daum.net/v/20220420172114857"/>
-        <updated>2022-04-20T09:13:15.255Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 김명미 기자] 걸그룹 슈가 출신 방송인 아유미가 '돈쭐내러 왔습니다2'에 출격한다. 4월 21일 오후 8시 30분 방송되는 채널 IHQ 예능 프로그램 '돈쭐내러 왔습니다2' 3회에서는 인천광역시 계양구에 위치한 한 경양식집에서 '돈쭐(돈으로 혼쭐)' 작전을 펼치는 먹피아 조직의 모습이 공개된다. 이날 이영자, 제이쓴은 먹5(쏘영, 수향, 아미,]]></content>
     </entry>
 </feed>
