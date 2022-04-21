@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2022-04-21T05:33:20.559Z</updated>
+    <updated>2022-04-21T06:15:48.293Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['닥터 스트레인지2' 오픈 4시간 만에 극장 3사 예매율 1위]]></title>
+        <id>https://entertain.v.daum.net/v/20220421145507138</id>
+        <link href="https://entertain.v.daum.net/v/20220421145507138"/>
+        <updated>2022-04-21T06:15:27.733Z</updated>
+        <content type="html"><![CDATA[(사진=월트디즈니컴퍼니 코리아)[이데일리 스타in 김보영 기자] 오는 5월 4일 전 세계 동시 개봉을 확정한 2022년 마블 최대 화제작 ‘닥터 스트레인지: 대혼돈의 멀티버스’(이하 ‘닥터 스트레인지2’)가 오늘(21일) 극장 3사 예매 오픈과 동시에 전체 예매율 1위에 등극해 예비 관객들의 폭발적인 관심을 입증하고 있다. 대한민국 극장가를 완전히 사로잡]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[천우희 "온전한 여성 서사 '앵커', 압박감 이겨내 뿌듯"]]></title>
+        <id>https://entertain.v.daum.net/v/20220421145102904</id>
+        <link href="https://entertain.v.daum.net/v/20220421145102904"/>
+        <updated>2022-04-21T06:15:27.733Z</updated>
+        <content type="html"><![CDATA[“작품을, 배역을 얻기 위해 동료들을 의식하면서 경쟁하듯 연기하는 건 제 가치관과 맞지 않아요.” 배우 천우희(35)가 영화 '앵커'(감독 정지연)에서 강렬한 욕망에 휩싸인 완벽한 간판 앵커로 변신했다. '앵커'는 생방송 5분 전, 방송국 간판 앵커 '세라'(천우희 분)에게 누군가 자신을 죽일 것이라는 제보 전화가 걸려오고, 이후 그녀에게 벌어지는 기묘]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[몽상처럼 느껴졌는데.. 파주에서 이뤄진 '위대한 계약']]></title>
         <id>https://entertain.v.daum.net/v/20220421141501228</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220421113252124"/>
         <updated>2022-04-21T03:23:06.104Z</updated>
         <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]세상 어디에도 없던 ‘위대한 계약’의 성사로 완성된 파주출판도시를 통해 문화도시의 새로운 패러다임을 제시하는 영화 '위대한 계약: 파주, 책, 도시'가 4월 21일(목) 오늘 개봉을 맞이하여 관람 포인트 세 가지를 공개하며 주목받는다. #1 책을 위한 유토피아! 세상에 단 하나뿐인 책을 위한 도시 프로젝트! '위대한 계약: 파]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김래원, 신생 1인 기획사 설립..본격 홀로서기 행보]]></title>
-        <id>https://entertain.v.daum.net/v/20220421111924439</id>
-        <link href="https://entertain.v.daum.net/v/20220421111924439"/>
-        <updated>2022-04-21T03:23:06.104Z</updated>
-        <content type="html"><![CDATA[[OSEN=김보라 기자]&nbsp;배우 김래원이 1인 기획사를 설립하고 본격적인 홀로서기에 나섰다. 21일 OSEN 취재 결과 현재 소속사로 알려진 ‘고래컴퍼니’는 김래원이 직접 설립한 1인 기획사로 확인됐다. 항간에는 ‘김래원이 세운 회사가 아니라 2019년 설립된 기획사’라고 알려졌지만 이는 잘못된 정보다. 김래원이 소속사 대표이자, 1호 소속 배우로서 이름]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[산드라 오 '엄마' 한 담은 K-샤머니즘 스릴러]]></title>
-        <id>https://entertain.v.daum.net/v/20220421110227578</id>
-        <link href="https://entertain.v.daum.net/v/20220421110227578"/>
-        <updated>2022-04-21T03:23:06.105Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 배효주 기자] 산드라 오가 주연하고 샘 레이미 감독이 제작한 K-샤머니즘 스릴러 'UMMA: 엄마'(이하 엄마)가 메인 예고편을 최초 공개했다. 5월 CGV에서 단독 개봉하는 영화 'UMMA: 엄마'는 죽어서도 끊어낼 수 없는 ‘엄마’와 ‘딸’을 다룬 K-샤머니즘 스릴러. 4월 21일 공개된 예고편에서는 미국의 한 외딴 농장에서 딸 ‘크리스(]]></content>
     </entry>
 </feed>

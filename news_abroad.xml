@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2022-04-21T05:33:20.553Z</updated>
+    <updated>2022-04-21T06:15:48.287Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["영문 논문까지 분석"..'소년심판' 황현정, 김혜수·김무열 소름돋게 만든 신예]]></title>
+        <id>https://entertain.v.daum.net/v/20220421145201976</id>
+        <link href="https://entertain.v.daum.net/v/20220421145201976"/>
+        <updated>2022-04-21T06:15:47.618Z</updated>
+        <content type="html"><![CDATA[[스포츠조선 문지연 기자] "엘리베이터를 같이 탄 것도 죄가 되나요?" 대사 한 마디로 드라마의 초반부를 압도했다. 넷플릭스 오리지널 시리즈 '소년심판'(김민석 극본, 홍종찬 연출)의 완벽한 흥행 1등 공신이었던 황현정은 고작 열아홉 살. 해맑은 성품을 여전히 간직하고 있는 '소녀'였다. 황현정은 최근 스포츠조선과 만나 '소년심판'을 만들어갔]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[조니 뎁 "앰버 허드가 던진 술병에 손가락 잘려"]]></title>
         <id>https://entertain.v.daum.net/v/20220421142642745</id>
@@ -60,12 +67,5 @@
         <link href="https://entertain.v.daum.net/v/20220420161120215"/>
         <updated>2022-04-20T07:13:03.460Z</updated>
         <content type="html"><![CDATA[[OSEN=최나영 기자] 배우 이완 맥그리거(51)가 재혼한다. '트레인스포팅', '스타워즈' 등에 출연한&nbsp;이완 맥그리거가 FX Networks TV시리즈 '파고'에서 호흡을 맞춘 13세 연하 배우 메리 엘리자베스 윈스테드와 이번 주 결혼한다고 페이지식스가 19일(현지시간) 전했다. 두 사람은 미국 로스엔젤레스에서 결혼식을 올릴 예정이다. 한 소식통은]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['퀸스갬빗' 애니아∙니콜 키드먼, 살아있는 여신들의 투샷]]></title>
-        <id>https://entertain.v.daum.net/v/20220420143323261</id>
-        <link href="https://entertain.v.daum.net/v/20220420143323261"/>
-        <updated>2022-04-20T06:16:59.260Z</updated>
-        <content type="html"><![CDATA[[OSEN=최나영 기자] 그야말로 살아있는 여신들이다. 미모를 갖춘 연기파 배우 니콜 키드먼과 넷플릭스 '퀸스 갬빗'으로 유명한 애니아 테일러 조이가 아름다운 투샷을 완성했다. 두 사람은 18일(현지시간) 마국 캘리포니아&nbsp;TCL 차이니즈 시어터에서 열린&nbsp;영화 '노스맨(The Northman)'의 로스앤젤레스 시사회에 참석해 레드카펫을 밟았다. 두 사람은]]></content>
     </entry>
 </feed>
