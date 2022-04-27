@@ -2,11 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-04-27T15:15:14.719Z</updated>
+    <updated>2022-04-27T16:18:23.850Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA['살인자의 쇼핑목록' 이광수, 설현에 이별 통보 철회 '마트집 子의 사과 방법']]></title>
+        <title type="html"><![CDATA['살인자의 쇼핑목록' 이광수, 설현에 결별 통보 후 후회→살인사건 목격]]></title>
+        <id>https://entertain.v.daum.net/v/20220428004343520</id>
+        <link href="https://entertain.v.daum.net/v/20220428004343520"/>
+        <updated>2022-04-27T16:18:09.914Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 오진주 기자] /사진=tvN '살인자의 쇼핑목록' 방송화면'살인자의 쇼핑목록'에서 이광수가 살인사건을 목격했다. 27일 첫 방송 된 tvN 새 수목드라마 '살인자의 쇼핑목록'에서 안대성(이광수 분)은 마트에 분실물로 들어온 슬리퍼를 주인 이경아(권소현 분)에게 찾아주기 이경아의 집앞으로가는 모습이 그려졌다. 안대성은 우편함에 광고지를 넣다가]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['살인자의 쇼핑목록' 이광수, 설현에 이별 통보 철회→'마트집 아들의 사과 방법']]></title>
         <id>https://entertain.v.daum.net/v/20220427235447858</id>
         <link href="https://entertain.v.daum.net/v/20220427235447858"/>
         <updated>2022-04-27T15:14:59.165Z</updated>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220427204009985"/>
         <updated>2022-04-27T14:13:07.048Z</updated>
         <content type="html"><![CDATA[(엑스포츠뉴스 이지은 인턴기자) 함은정과 김진엽을 향한 모든 진실을 김주리가 고발한다. 27일 방송된 KBS 2TV 일일드라마 '사랑의 꽈배기'에서는 강윤아(손성윤 분)의 폭로로 곤란을 겪는 오소리(함은정)의 모습이 그려졌다. 강윤아는 오소리를 향한 질투로 오소리를 향한 비방글을 익명 커뮤니티에 작성했다. 하루아침에 모든 논란의 중심이 된 오소리는 회사]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박해진·진기주·김종훈 운명처럼 얽힌 삼각관계]]></title>
-        <id>https://entertain.v.daum.net/v/20220427203057812</id>
-        <link href="https://entertain.v.daum.net/v/20220427203057812"/>
-        <updated>2022-04-27T14:13:07.048Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 김수진 기자] MBC 토일드라마 '지금부터, 쇼타임!'(극본 하윤아 연출 이형민·정상희 제작 삼화네트웍스)이 심상치 않은 빠른 삼각 구도의 전개로 시청자들의 눈길을 사로잡고 있다. '지금부터, 쇼타임!'은 잘나가는 카리스마 마술사 차차웅(박해진 분)과 정의로운 열혈 순경 고슬해(진기주 분)의 귀신 공조 코믹 수사극이다.  여기에 차차웅 집안의]]></content>
     </entry>
 </feed>
