@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/variety</id>
     <title>다음 연예 ─ 뉴스 ─ 예능</title>
-    <updated>2022-04-27T19:11:18.538Z</updated>
+    <updated>2022-04-27T20:14:42.818Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['라스' 윤은혜가 밝힌 김종국과 러브라인..커피프린스 비하인드까지]]></title>
+        <id>https://entertain.v.daum.net/v/20220428050901374</id>
+        <link href="https://entertain.v.daum.net/v/20220428050901374"/>
+        <updated>2022-04-27T20:14:31.996Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 박수민 기자] /사진='라디오스타' 방송화면 '라디오스타'에 2년 만에 돌아온 윤은혜가 맹활약했다. 지난 27일 방송된 MBC 예능프로그램 '라디오스타'에서는 'TV는 첫사랑을 싣고' 특집으로 명세빈, 윤은혜, 보나, 허경환이 출연하는 모습이 담겼다. 이날 2년 만에 '라디오스타'에 돌아온 윤은혜는 MC들 가운데 상극이 있다고 밝혀 눈길을 끌]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[허경환 "김지민과 50살에 결혼 약속..이젠 형수라니!"]]></title>
+        <id>https://entertain.v.daum.net/v/20220428043005598</id>
+        <link href="https://entertain.v.daum.net/v/20220428043005598"/>
+        <updated>2022-04-27T20:14:32.000Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 이승길 기자] 개그맨 허경환이 개그우먼 김지민의 열애 소식을 접한 뒤 받은 충격을 고백했다. 27일 방송된 MBC '라디오스타'는 명세빈, 윤은혜, 우주소녀 보나, 허경환이 게스트로 출연한 가운데 'TV는 첫사랑을 싣고' 특집으로 꾸며졌다. 이날 허경환은 "내가 '골 때리는 그녀들' 보는 걸 좋아한다. 개그우먼 팀이 있으니까. 그런데 어느]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["프랑스 학교 입학" 명세빈, 만학도 됐다! 깜짝 근황]]></title>
         <id>https://entertain.v.daum.net/v/20220428030850271</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220428005002551"/>
         <updated>2022-04-27T16:18:14.275Z</updated>
         <content type="html"><![CDATA[(엑스포츠뉴스 이지은 인턴기자) 서인영이 고가의 가방을 자랑해 놀라움을 선사했다. 27일 방송된 Mnet 'TMI SHOW'에 출격한 서인영이 가방 사랑을 보여줘 시선을 끌었다. '내돈내산 클라스' 3위로 가방을 꼽은 서인영은 직접 디자인한 가방을 출시할 정도로 가방에 대한 사랑이 남다르다고 한다. 본인만의 뚜렷한 취향이 있다는 서인영은 한국에 들어오지]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['유퀴즈 온더블럭' 박보영, 일기장에 조정석♥거미 적은 이유]]></title>
-        <id>https://entertain.v.daum.net/v/20220428003902478</id>
-        <link href="https://entertain.v.daum.net/v/20220428003902478"/>
-        <updated>2022-04-27T16:18:14.275Z</updated>
-        <content type="html"><![CDATA[배우 박보영이 비밀금고에 간직해둔 일기장을 최초 공개했다. 27일(수) 방송된 tvN ‘유 퀴즈 온 더 블럭’ 151회 ‘너의 일기장’ 특집에서는 새 덕후 김어진, 승정원일기 고전번역가 정영미, 택시 기사 명업식, 배우 박보영이 유퀴저로 출연해 일기에 적힌 다양한 인생 이야기에 대해 전했다. 이날 유재석은 박보영의 일기장을 보다가 거미 콘서트 표를 발]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이상형 "男 보는 기준? 혈액형에 집착. 前남편들 다 A형"]]></title>
-        <id>https://entertain.v.daum.net/v/20220428003501430</id>
-        <link href="https://entertain.v.daum.net/v/20220428003501430"/>
-        <updated>2022-04-27T16:18:14.275Z</updated>
-        <content type="html"><![CDATA[[마이데일리 = 고향미 기자] 배우 이상아가 남자를 볼 때 혈액형에 집착한다고 고백했다. 이상아는 27일 오후 방송된 종합편성채널 TV조선 '퍼펙트 라이프'에 출연했다. 이날 방송에서 이상아 딸은 "내가 만약 결혼한다고 했어 엄마한테. 그러면 엄마 서운할 것 같아?"라고 물었다. 이에 이상아는 "일단 결혼할 남자를 봐야지. 어떤 남자인지 보고 정말 엄마]]></content>
     </entry>
 </feed>
