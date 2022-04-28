@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-04-28T05:37:17.178Z</updated>
+    <updated>2022-04-28T06:19:15.187Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['우리는 오늘부터' 성훈♥홍지윤 쇼윈도 부부 스파크 팍팍]]></title>
+        <id>https://entertain.v.daum.net/v/20220428151836272</id>
+        <link href="https://entertain.v.daum.net/v/20220428151836272"/>
+        <updated>2022-04-28T06:18:59.885Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 박아름 기자] 배우 성훈과 홍지윤이 쇼윈도 부부로 변신한다. SBS 새 월화드라마 ‘우리는 오늘부터’(극본, 연출 정정화) 측은 4월28일 분노와 욕망으로 뒤섞인 성훈과 홍지윤 스틸을 공개했다. ‘우리는 오늘부터’는 혼전순결을 지켜오던 오우리(임수향 분)가 뜻밖의 사고로 라파엘(성훈 분)의 아이를 갖게 되면서 벌어지게 되는 로맨틱 코미디 소동극이]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[박주미, 행복한 재혼 생활 복병 박정언 등장]]></title>
+        <id>https://entertain.v.daum.net/v/20220428150333629</id>
+        <link href="https://entertain.v.daum.net/v/20220428150333629"/>
+        <updated>2022-04-28T06:18:59.888Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 김수진 기자] 종영까지 단 3일만을 앞둔 '결혼작사 이혼작곡3' 박주미가 박정언과 격렬한 '기 싸움'에 돌입, 위기감을 드리운다. 지난 2월 26일(토) 첫 방송을 시작한 TV CHOSUN 주말미니시리즈 '결혼작사 이혼작곡3'(극본 피비(Phoebe, 임성한)/연출 오상원, 최영수/제작 하이그라운드, ㈜지담 미디어, 초록뱀 미디어/이하 '결사곡]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[정준호와 사연 많은 '귀신 3인방']]></title>
         <id>https://entertain.v.daum.net/v/20220428143420119</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220428133826591"/>
         <updated>2022-04-28T05:37:01.546Z</updated>
         <content type="html"><![CDATA[[OSEN=박소영 기자] 배우 김우석이 친형인 멜로망스 김민석과 남다른 우애를 자랑했다. 28일 오전, 서울 강남의 한 카페에서 tvN '군검사 도베르만’ 종영 인터뷰가 열린 가운데 김우석은 “첫 방송을 대가족 다 같이 집에서 봤다. 엄마, 아빠, 형, 할머니, 이모, 이모부, 사촌형, 조카들까지. 제가 멱살 잡고 때리고 있으니 조카가 삼촌 나쁘다고 하]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[추자현, 前남친 윤경호와 은밀한 재회 포착]]></title>
-        <id>https://entertain.v.daum.net/v/20220428133622541</id>
-        <link href="https://entertain.v.daum.net/v/20220428133622541"/>
-        <updated>2022-04-28T05:37:01.547Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 황혜진 기자] '그린마더스클럽' 배우 추자현과 윤경호의 은밀한 재회 현장이 포착됐다. 첫 방송부터 수목드라마 화제성 3주 연속 1위를 차지한 JTBC 수목드라마 ‘그린마더스클럽’(극본 신이원/연출 라하나)에서 변춘희(추자현 분)와 이만수(윤경호 분), 그리고 박윤주(주민경 분) 사이에 또 한 번 거센 폭풍우가 몰아칠 조짐이 보이고 있다. 앞서 상]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['태종 이방원' 이응경 "주상욱→박진희와 함께할 수 있어 영광"]]></title>
-        <id>https://entertain.v.daum.net/v/20220428133522506</id>
-        <link href="https://entertain.v.daum.net/v/20220428133522506"/>
-        <updated>2022-04-28T05:37:01.549Z</updated>
-        <content type="html"><![CDATA[[OSEN=장우영 기자] 배우 이응경이 ‘태종 이방원’ 종영 소감을 전했다. 28일 배우 이응경이 KBS1 드라마 ‘태종 이방원’ 종영을 앞두고 “주연 배우 주상욱, 박진희를 비롯해 뛰어난 동료들과 함께할 수 있어 영광이었다”고 소감을 밝혔다. 이응경은 소속사 티앤아이컬쳐스를 통해 “여말선초 격동의 시기를 다룬 ‘태종 이방원’에서 그 시대의 한 여인을]]></content>
     </entry>
 </feed>
