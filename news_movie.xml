@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2022-04-28T09:14:41.392Z</updated>
+    <updated>2022-04-28T10:14:37.582Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[알렉사, '서울괴담'으로 스크린 데뷔..'방탈출 인플루언서' 변신]]></title>
+        <id>https://entertain.v.daum.net/v/20220428181435406</id>
+        <link href="https://entertain.v.daum.net/v/20220428181435406"/>
+        <updated>2022-04-28T10:14:19.713Z</updated>
+        <content type="html"><![CDATA[[OSEN=최나영 기자]&nbsp;알렉사(AleXa, 김세리)가 등골이 오싹해지는 공포 영화로 배우 데뷔에 나선다. 알렉사는 지난 27일 개봉한 옴니버스 영화 '서울괴담'에서 SNS 인플루언서 세리를 연기하며 스크린 데뷔식을 치렀다. '서울괴담'은 서울에서 벌어지는 괴이하고 기이한 이야기로 복수, 욕망, 저주에서 시작된 죽음보다 더한 공포를 선사하는 괴이한 이야]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[인간성과 정체성에 대한 고찰..전주영화제 개막작 '애프터 양']]></title>
         <id>https://entertain.v.daum.net/v/20220428181400390</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220428163204678"/>
         <updated>2022-04-28T08:16:42.075Z</updated>
         <content type="html"><![CDATA[[스포츠경향] 제23회 전주국제영화제가 드디어 막을 올린다. 지난 2년여간 코로나19 팬데믹 장기 여파로 위축되었던 분위기를 깨고 본래의 페스티벌 느낌을 되찾겠다는 각오로 다양한 행사와 상영작을 준비했다. 제23회 전주국제영화제는 28일 오후 전주 완산구 전주돔에서 오프라인으로 성대한 개막식을 치른다. 배우 장현성, 유인나의 진행으로 시작되는 이번 개]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[저스틴 민 "'애프터 양' 시나리오 읽고 눈물..깊음·평온함 있었다"]]></title>
-        <id>https://entertain.v.daum.net/v/20220428162849533</id>
-        <link href="https://entertain.v.daum.net/v/20220428162849533"/>
-        <updated>2022-04-28T08:16:42.077Z</updated>
-        <content type="html"><![CDATA[(전주=뉴스1) 정유진 기자 = 한국계 미국인 배우 저스틴 민이 자신의 주연작 '애프터 양'의 시나리오를 읽고 눈물을 흘렸다고 말했다. 저스틴 민은 28일 오후 전북 전주시 완산구 고사동 전주디지털독립영화관에서 열린 제23회 전주국제영화제 개막작 '애프터 양'(감독 코고나다)의 기자회견에서 "비행기에서 처음 이 대본을 읽었는데 읽으면서 올 때 울어서]]></content>
     </entry>
 </feed>
