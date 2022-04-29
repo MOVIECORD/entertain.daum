@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-04-29T16:18:52.258Z</updated>
+    <updated>2022-04-29T17:19:06.959Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['어겐마' 이준기, 이경영의 사람 됐다..김형묵 응징 예고]]></title>
+        <id>https://entertain.v.daum.net/v/20220430013300927</id>
+        <link href="https://entertain.v.daum.net/v/20220430013300927"/>
+        <updated>2022-04-29T17:18:50.439Z</updated>
+        <content type="html"><![CDATA[[SBS연예뉴스 | 김효정 에디터] 이준기가 이경영의 사람이 됐다. 29일 방송된 SBS '어게인 마이 라이프'(이하 '어겐마')에서는 드디어 조태섭(이경영 분)을 마주하게 된 김희우(이준기 분)의 모습이 그려졌다. 이날 조태섭은 비밀 조직을 불러 모았고, 그곳에서 김희우와의 자리를 만들었다. 그는 김희우에게 꿈이 무엇인지 물었다. 이에 김희우는 "아직은]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['별똥별' 김영대, 아프리카 가게 된 이유 드러나..'이성경 때문에?']]></title>
         <id>https://entertain.v.daum.net/v/20220430003300678</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220429203353854"/>
         <updated>2022-04-29T12:24:05.984Z</updated>
         <content type="html"><![CDATA[[스타뉴스 박수민 기자] /사진='사랑의꽈배기' 방송화면 '사랑의 꽈배기' 김진엽이 박철호에게 분노했다. 29일 오후 방송된 KBS 2TV 일일드라마 '사랑의 꽈배기'에서는 박하루(김진엽 분)과 박기태(박철호 분)가 충돌하는 모습이 담겼다. 이날 방송에서 박기태는 오소리(함은정 분)의 집 앞에서 한별(박재준 분)과 맹옥희(심혜진 분)를 기다렸다. 박기태]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[황신혜, 심혜진에게 박철호와의 관계 끝내 함구.."술 맛 떨어지니까 그만해"]]></title>
-        <id>https://entertain.v.daum.net/v/20220429202602727</id>
-        <link href="https://entertain.v.daum.net/v/20220429202602727"/>
-        <updated>2022-04-29T12:24:05.985Z</updated>
-        <content type="html"><![CDATA[[텐아시아=신지원 기자]'사랑의 꽈배기' 황신혜가 심혜진에게 박철호와의 관계를 끝내 함구했다. 29일 밤 방송된 KBS2TV 일일드라마 '사랑의 꽈배기'에서는 박기태(박철호 분)에게 협박을 받은 맹옥희(심혜진 분)가 박희옥(황신혜 분)을 찾아가는 모습이 그려졌다. 이날 맹옥희는 박희옥과 와인을 마시며 "너랑 나랑 어쩌다 이렇게 꽈배기처럼 꼬여서 이런 건지]]></content>
     </entry>
 </feed>
