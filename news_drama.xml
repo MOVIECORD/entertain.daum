@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-05-01T10:14:56.939Z</updated>
+    <updated>2022-05-01T11:13:23.093Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['현재는 아름다워' 윤시윤, 배다빈 고백 거절 "사랑 믿지 않아"]]></title>
+        <id>https://entertain.v.daum.net/v/20220501201246453</id>
+        <link href="https://entertain.v.daum.net/v/20220501201246453"/>
+        <updated>2022-05-01T11:13:07.305Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 이이진 기자) '현재는 아름다워' 윤시윤이 배다빈의 고백을 거절했다. 1일 방송된 KBS 2TV 주말드라마 '현재는 아름다워' 10회에서는 현미래(배다빈 분)가 이현재(윤시윤)에게 고백한 모습이 그려졌다. 이날 이현재는 "저도 뭐 하나만 물어볼게요. 그때 왜 가지 말라고 한 거예요? 그냥 넘어갈 수도 있었는데 궁금하기도 해서요. 제 생각이 틀]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['나의 해방일지' 이엘, 짝사랑 탈출할까?]]></title>
         <id>https://entertain.v.daum.net/v/20220501170809114</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220501144320589"/>
         <updated>2022-05-01T06:15:47.408Z</updated>
         <content type="html"><![CDATA[[OSEN=최나영 기자]&nbsp;1일(오늘)&nbsp;최종회를 앞둔&nbsp;TV CHOSUN&nbsp;주말미니시리즈&nbsp;‘결혼작사 이혼작곡3’&nbsp;박주미-전수경-이가령-이민영-전노민-문성호-강신효-부배-지영산-송지인-임혜영이&nbsp;‘결사곡’&nbsp;월드의 대장정 마지막을 앞둔 소감을 전했다. TV CHOSUN&nbsp;주말미니시리즈&nbsp;‘결혼작사 이혼작곡3’(극본 피비(Phoebe,&nbsp;임성한)/연출 오상원,&nbsp;최영수/제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['나의 해방일지' 추앙이 불러온 유머..김지원도, 손석구도 '촉촉']]></title>
-        <id>https://entertain.v.daum.net/v/20220501142328027</id>
-        <link href="https://entertain.v.daum.net/v/20220501142328027"/>
-        <updated>2022-05-01T06:15:47.408Z</updated>
-        <content type="html"><![CDATA[[OSEN=김재동 객원기자]&nbsp;산포는 늦여름이다. 여름이 가는지 더러는 선선한 바람도 불어온다. 그렇다고 뙤약볕 밑에서 마을버스를 기다리기엔 너무 덥다. 흙먼지를 풀썩이며 차가 선다. 집에서 쓰는 트럭이다. 운전석엔 구씨(손석구 분)가 있다. 타란 말도 없이 턱만 앞쪽으로 삐죽 내밀어본다. 미정(김지원 분)은 말없이 올라탄다. 차가 출발하려던 순간 기정(]]></content>
     </entry>
 </feed>
