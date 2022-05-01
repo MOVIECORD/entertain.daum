@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2022-05-01T03:38:40.680Z</updated>
+    <updated>2022-05-01T04:31:48.867Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[영상유출 피해 겪은 모녀..닮은듯 다른 영화 '경아의딸'·'정순']]></title>
+        <id>https://entertain.v.daum.net/v/20220501130010300</id>
+        <link href="https://entertain.v.daum.net/v/20220501130010300"/>
+        <updated>2022-05-01T04:31:30.871Z</updated>
+        <content type="html"><![CDATA[(전주=연합뉴스) 오보람 기자 = 최근 개막한 제23회 전주국제영화제 한국경쟁 부문의 키워드는 '여성'이라 해도 과언이 아니다. 경쟁 부문에 진출한 작품 9편 중 8편이 여성 서사를 내세웠으며, 이 가운데 7편은 여성 감독이 연출했다. '경아의 딸'(김정은 감독), '내가 누워있을 때'(최정문), '비밀의 언덕'(이지은), '사랑의 고고학'(이완민), '윤]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["해결 촉구하겠다"..가습기 살균제 참사 '공기살인', 국회 시사회 진행]]></title>
         <id>https://entertain.v.daum.net/v/20220501122324972</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220430203716979"/>
         <updated>2022-04-30T12:20:22.567Z</updated>
         <content type="html"><![CDATA[[스포츠서울 | 전주=황혜정기자] “사건이 일어나는 배경을 ‘모텔’로 생각했던 건, 주인공은 욕망을 풀 수 없는 남자인데 모텔은 사람들이 욕망을 풀러 오는 공간이다. 그런 남자가 앉아있는 공간에 (상반된)사람들이 오면 불안할 수 있겠다고 생각했다” 영화 ‘파로호’는 노모의 실종 후 아들이 겪게 되는 일상의 파문과 숨막히는 서스펜스를 담은 심]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[저스틴 민 "미국서 한국 콘텐츠 인기.. 이제야 알아주네요"]]></title>
-        <id>https://entertain.v.daum.net/v/20220430192602956</id>
-        <link href="https://entertain.v.daum.net/v/20220430192602956"/>
-        <updated>2022-04-30T11:10:46.611Z</updated>
-        <content type="html"><![CDATA[양(저스틴 민)은 단순한 안드로이드가 아니다. 제이크(콜린 퍼렐) 가족에게 양은 뛰어난 인공지능 로봇을 넘어 안정과 위로를 주는 중요한 존재다. 양이 작동을 멈춘 후 존재감은 더 커진다. 양이 남긴 기억은 제이크 가족이 지나온 시간을 새로운 시선으로 반추하게 한다. 제23회 전주국제영화제 개막작 ‘애프터 양’을 연출한 코고나다 감독은 처음부터 양 역할로]]></content>
     </entry>
 </feed>
