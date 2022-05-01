@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2022-05-01T05:19:02.001Z</updated>
+    <updated>2022-05-01T06:16:01.917Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[연상호 감독, 전주를 밝힌다]]></title>
+        <id>https://entertain.v.daum.net/v/20220501151513564</id>
+        <link href="https://entertain.v.daum.net/v/20220501151513564"/>
+        <updated>2022-05-01T06:15:42.812Z</updated>
+        <content type="html"><![CDATA[[스포츠경향] 연상호 감독이 제23회 전주국제영화제를 밝힌다. 2년여 코로나19 팬데믹 속 암흑기를 딛고 ‘정상화’를 외친 이번 영화제에 다섯편의 주옥같은 추천작을 관객에게 건넨다. 1일 오후 전북 전주시 완산구 전주중부비전센터에서 진행된 제23회 전주국제영화제 ‘J스페셜: 올해의 프로그래머 연상호’ 기자회견에는 연상호 감독과 이준동 집행위원장이 참석]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[저스틴 H. 민 "美서 K콘텐츠 인기 폭발.. 김치로 말 거는 사람 사라져"]]></title>
         <id>https://entertain.v.daum.net/v/20220501134731172</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220501082115867"/>
         <updated>2022-05-01T01:15:05.804Z</updated>
         <content type="html"><![CDATA[(서울=뉴스1) 안태현 기자 = 영화 '신비한 동물들과 덤블도어의 비밀'이 박스오피스 정상을 탈환한 가운데, 이 자리를 이틀간 이어가고 있다. 1일 영화진흥위원회 영화관 입장권 통합전산망에 따르면 '신비한 동물들과 덤블도어의 비밀'은 지난달 20일 하루 8만4028만명의 관객을 동원하며 박스오피스 1위를 차지했다. 누적관객수는 101만2389명이다. 지]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['신동덤' 개봉 18일 만에 100만 관객 돌파]]></title>
-        <id>https://entertain.v.daum.net/v/20220501081055783</id>
-        <link href="https://entertain.v.daum.net/v/20220501081055783"/>
-        <updated>2022-04-30T23:12:21.064Z</updated>
-        <content type="html"><![CDATA[[OSEN=김보라 기자]&nbsp;영화 ‘신비한 동물들과 덤블도어의 비밀’이 박스오피스 1위를 탈환해 유지하고 있다. 1일 영화진흥위원회 영화관입장권 통합전산망 집계를 보면 전날(30일) ‘신비한 동물들과 덤블도어의 비밀’은 8만 4028명이 관람해 일별 박스오피스 1위에 올랐다. 지난달 13일 개봉한 ‘신비한 동물들과 덤블도어의 비밀’은 28일을 제외하고 첫날]]></content>
     </entry>
 </feed>

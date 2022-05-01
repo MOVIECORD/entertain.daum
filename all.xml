@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/entertain.daum/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-05-01T05:19:02.006Z</updated>
+    <updated>2022-05-01T06:16:01.922Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[연상호 감독, 전주를 밝힌다 (다음 연예 ─ 뉴스 ─ 영화)]]></title>
+        <id>https://entertain.v.daum.net/v/20220501151513564</id>
+        <link href="https://entertain.v.daum.net/v/20220501151513564"/>
+        <updated>2022-05-01T06:15:42.812Z</updated>
+        <content type="html"><![CDATA[[스포츠경향] 연상호 감독이 제23회 전주국제영화제를 밝힌다. 2년여 코로나19 팬데믹 속 암흑기를 딛고 ‘정상화’를 외친 이번 영화제에 다섯편의 주옥같은 추천작을 관객에게 건넨다. 1일 오후 전북 전주시 완산구 전주중부비전센터에서 진행된 제23회 전주국제영화제 ‘J스페셜: 올해의 프로그래머 연상호’ 기자회견에는 연상호 감독과 이준동 집행위원장이 참석]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[저스틴 H. 민 "美서 K콘텐츠 인기 폭발.. 김치로 말 거는 사람 사라져" (다음 연예 ─ 뉴스 ─ 영화)]]></title>
         <id>https://entertain.v.daum.net/v/20220501134731172</id>
@@ -103,11 +110,39 @@
         <content type="html"><![CDATA[(서울=뉴스1) 안태현 기자 = 영화 '신비한 동물들과 덤블도어의 비밀'이 박스오피스 정상을 탈환한 가운데, 이 자리를 이틀간 이어가고 있다. 1일 영화진흥위원회 영화관 입장권 통합전산망에 따르면 '신비한 동물들과 덤블도어의 비밀'은 지난달 20일 하루 8만4028만명의 관객을 동원하며 박스오피스 1위를 차지했다. 누적관객수는 101만2389명이다. 지]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA['신동덤' 개봉 18일 만에 100만 관객 돌파 (다음 연예 ─ 뉴스 ─ 영화)]]></title>
-        <id>https://entertain.v.daum.net/v/20220501081055783</id>
-        <link href="https://entertain.v.daum.net/v/20220501081055783"/>
-        <updated>2022-04-30T23:12:21.064Z</updated>
-        <content type="html"><![CDATA[[OSEN=김보라 기자]&nbsp;영화 ‘신비한 동물들과 덤블도어의 비밀’이 박스오피스 1위를 탈환해 유지하고 있다. 1일 영화진흥위원회 영화관입장권 통합전산망 집계를 보면 전날(30일) ‘신비한 동물들과 덤블도어의 비밀’은 8만 4028명이 관람해 일별 박스오피스 1위에 올랐다. 지난달 13일 개봉한 ‘신비한 동물들과 덤블도어의 비밀’은 28일을 제외하고 첫날]]></content>
+        <title type="html"><![CDATA['결사곡3' 박주미→전수경, 종영 소감.."많은 생각 드는 엔딩" (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
+        <id>https://entertain.v.daum.net/v/20220501151003434</id>
+        <link href="https://entertain.v.daum.net/v/20220501151003434"/>
+        <updated>2022-05-01T06:15:47.401Z</updated>
+        <content type="html"><![CDATA[[스포츠조선 정빛 기자]TV CHOSUN 주말미니시리즈 '결혼작사 이혼작곡3' 박주미-전수경-이가령-이민영-전노민-문성호-강신효-부배-지영산-송지인-임혜영이 '결사곡' 월드의 대장정 마지막을 앞둔 소감을 전했다. TV CHOSUN 주말미니시리즈 '결혼작사 이혼작곡3'(극본 피비 임성한, 연출 오상원 최영수, 이하 '결사곡3')은 '결사곡' 시]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[배우 조환지, 뮤지컬 '아몬드' 막공.. "소중하고 행복했던 시간" (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
+        <id>https://entertain.v.daum.net/v/20220501150208181</id>
+        <link href="https://entertain.v.daum.net/v/20220501150208181"/>
+        <updated>2022-05-01T06:15:47.401Z</updated>
+        <content type="html"><![CDATA[뮤지컬 ‘아몬드’ 마지막 공연을 성공적으로 마친 배우 조환지 [이데일리 강경록 기자] 배우 조환지가 뮤지컬 ‘아몬드’의 마지막 공연을 성공적으로 마쳤다. 조환지는 지난달 30일 서울 강남구 코엑스아티움에서 열린 뮤지컬 ‘아몬드’ 마지막 공연을 성황리에 마쳤다. 동명의 베스트셀러 소설을 원작으로 제작된 창작뮤지컬반 ‘아몬드’에서 반항적인 고등학생 ‘곤이’]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['결사곡3' 1년 반 대장정 종료 D-DAY.."다음 기약하게 돼" (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
+        <id>https://entertain.v.daum.net/v/20220501145202849</id>
+        <link href="https://entertain.v.daum.net/v/20220501145202849"/>
+        <updated>2022-05-01T06:15:47.407Z</updated>
+        <content type="html"><![CDATA[[텐아시아=김지원 기자] 최종회를 앞둔 TV CHOSUN 주말미니시리즈 '결혼작사 이혼작곡3'(결사곡3) 박주미, 전수경, 이가령, 이민영, 전노민, 문성호, 강신효, 부배, 지영산, 송지인, 임혜영이 '결사곡' 월드의 대장정 마지막을 앞둔 소감을 전했다. '결사곡3'는 시리즈 중 가장 큰 변화가 담긴 시즌으로 막강한 스펙터클 전개를 자랑하며 15회 연]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['결사곡3' 송지인 "이혜숙의 탄수화물 살인 고백, 가장 기억 남아" (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
+        <id>https://entertain.v.daum.net/v/20220501144320589</id>
+        <link href="https://entertain.v.daum.net/v/20220501144320589"/>
+        <updated>2022-05-01T06:15:47.408Z</updated>
+        <content type="html"><![CDATA[[OSEN=최나영 기자]&nbsp;1일(오늘)&nbsp;최종회를 앞둔&nbsp;TV CHOSUN&nbsp;주말미니시리즈&nbsp;‘결혼작사 이혼작곡3’&nbsp;박주미-전수경-이가령-이민영-전노민-문성호-강신효-부배-지영산-송지인-임혜영이&nbsp;‘결사곡’&nbsp;월드의 대장정 마지막을 앞둔 소감을 전했다. TV CHOSUN&nbsp;주말미니시리즈&nbsp;‘결혼작사 이혼작곡3’(극본 피비(Phoebe,&nbsp;임성한)/연출 오상원,&nbsp;최영수/제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['나의 해방일지' 추앙이 불러온 유머..김지원도, 손석구도 '촉촉' (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
+        <id>https://entertain.v.daum.net/v/20220501142328027</id>
+        <link href="https://entertain.v.daum.net/v/20220501142328027"/>
+        <updated>2022-05-01T06:15:47.408Z</updated>
+        <content type="html"><![CDATA[[OSEN=김재동 객원기자]&nbsp;산포는 늦여름이다. 여름이 가는지 더러는 선선한 바람도 불어온다. 그렇다고 뙤약볕 밑에서 마을버스를 기다리기엔 너무 덥다. 흙먼지를 풀썩이며 차가 선다. 집에서 쓰는 트럭이다. 운전석엔 구씨(손석구 분)가 있다. 타란 말도 없이 턱만 앞쪽으로 삐죽 내밀어본다. 미정(김지원 분)은 말없이 올라탄다. 차가 출발하려던 순간 기정(]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA['결사곡3' 이민영→전노민 종영소감 "사랑과 질타받은 연기, 행복한 시간" (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
@@ -180,39 +215,53 @@
         <content type="html"><![CDATA[[OSEN=박판석 기자]&nbsp;배우 박주미의 절제된 연기가 극의 재미를 높였다. 지난달 30일 방송된&nbsp;TV CHOSUN&nbsp;주말 미니시리즈&nbsp;‘결혼작사 이혼작곡3’에서는 신혼여행을 마친 뒤 동마(부배 분)와 함께 본가에 입성한 피영(박주미 분)의 나날이 펼쳐졌다. 이러한 가운데 본가에 들어선 피영은 화기애애한 분위기 속에 저녁 식사를 했다.&nbsp;하지만 시아버지(한진희]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA['전교1등' 10대 노윤서 임신, '고딩엄빠'의 판타지..연기에 빠져든다 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
-        <id>https://entertain.v.daum.net/v/20220501110417409</id>
-        <link href="https://entertain.v.daum.net/v/20220501110417409"/>
-        <updated>2022-05-01T03:38:25.378Z</updated>
-        <content type="html"><![CDATA[[OSEN=최나영 기자]&nbsp;배우 노윤서가 담담한 감정연기로 시청자들의 마음까지 울렸다. 지난 달 30일 방송된&nbsp;tvN 토일드라마 ‘우리들의 블루스’(극본 노희경 김성민 현리나/연출 김규태 김양희 이정묵)에서 방영주(노윤서 분)는 뱃속의 아기를 낳기로 결정한 후 당당하고 꿋꿋하게 미래를 그려나가는 모습으로 찡한 감동을 선사했다. 이날 방송에서 방영주는 남자]]></content>
+        <title type="html"><![CDATA['뜨거운 씽어즈' 신구X신애라X김진수X딘딘, 패밀리 응원단 출격 (다음 연예 ─ 뉴스 ─ 예능)]]></title>
+        <id>https://entertain.v.daum.net/v/20220501151334524</id>
+        <link href="https://entertain.v.daum.net/v/20220501151334524"/>
+        <updated>2022-05-01T06:15:52.194Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 김명미 기자] ‘뜨거운 씽어즈’에 신구, 신애라, 김진수, 딘딘 등 화려한 라인업의 패밀리 응원단이 뜬다. 5월 2일 방송되는 JTBC 예능프로그램 ‘뜨거운 씽어즈’(연출 신영광 PD, 이하 ‘뜨씽즈’) 7회에서는 합창으로 가는 두 번째 과제 남녀 중창 미션 현장에 단원들의 가족과 지인들이 찾아온다. ‘뜨씽즈’ 멤버였지만 스케줄 때문에 아쉽게 함]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA['태종 이방원' 주상욱, 이태리 세자 폐위..김민기에게 양위까지 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
-        <id>https://entertain.v.daum.net/v/20220501110303377</id>
-        <link href="https://entertain.v.daum.net/v/20220501110303377"/>
-        <updated>2022-05-01T03:38:25.380Z</updated>
-        <content type="html"><![CDATA[‘태종 이방원’ 주상욱이 이태리를 세자에서 폐위시키고 김민기에게 왕위를 물러주기로 결정했다. 4월 30일 오후 방송된 KBS1 대하드라마 ‘태종 이방원’(연출 김형일, 심재현‧극본 이정우‧제작 몬스터유니온) 31회 시청률은 10.8%(닐슨코리아 제공, 전국 가구 기준)로 동시간대 1위를 차지해 오늘 최종회를 앞두고 더욱 더 큰 재미를 선사했다. 이날 방송에]]></content>
+        <title type="html"><![CDATA[백종원X성시경, 어린 시절 추억 돋는 아이스크림 라떼 토크로 의기투합 (다음 연예 ─ 뉴스 ─ 예능)]]></title>
+        <id>https://entertain.v.daum.net/v/20220501150942429</id>
+        <link href="https://entertain.v.daum.net/v/20220501150942429"/>
+        <updated>2022-05-01T06:15:52.195Z</updated>
+        <content type="html"><![CDATA[[OSEN=박판석 기자]&nbsp;백종원과 성시경을 어린 시절로 돌아가게 만든 아이스크림의 추억은 무엇일까. 오는 2일 방송되는 글로벌 음식 문화 토크쇼&nbsp;KBS 2TV&nbsp;‘백종원 클라쓰’에서는 전국 투어 네 번째 지역 전북 군산 무녀도에서 펼쳐지는 백종원과 새내기들의 아이스크림 먹방과 섬마을 나들이가 그려진다. 박대 구이와 조림,&nbsp;홍어찜으로 맛있는 식사를 마친 백]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[최지우 파경 소식에 놀란 이성경, 김영대 멘탈 걱정 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
-        <id>https://entertain.v.daum.net/v/20220501110159355</id>
-        <link href="https://entertain.v.daum.net/v/20220501110159355"/>
-        <updated>2022-05-01T03:38:25.381Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 김현정 기자) ‘별똥별’ 이성경-김영대-이정신이 삼각 로맨스의 서막을 열었다. 4월&nbsp;30일 방송한 tvN 금토드라마 ‘별똥별’은 ‘쉿!! 그들의 심기를 건드려서는 안돼!’라는 부제로, 예민한 아티스트들과 그들을 케어 하기 위해 별의 별 극한 업무를 감수하는 별똥별(별들의 똥을 치우는 별별 사람들)의 밥벌이 라이프를 조명하며 유쾌한 웃음을]]></content>
+        <title type="html"><![CDATA[불미스러운 일 없었어?..고은아·정준하, 결국 '약' 된 강제 은퇴 (다음 연예 ─ 뉴스 ─ 예능)]]></title>
+        <id>https://entertain.v.daum.net/v/20220501150101137</id>
+        <link href="https://entertain.v.daum.net/v/20220501150101137"/>
+        <updated>2022-05-01T06:15:52.197Z</updated>
+        <content type="html"><![CDATA[[텐아시아=노규민 기자] 강제로 '은퇴'(?)에 돌입했다가 돌아온 스타들이 승승장구하고 있다. 유튜브 활동을 통해 제2의 전성기를 연 고은아와 '놀면&nbsp;뭐하니?'로 새로운 전성기를 맞이한 정준하다. 고은아는 지난달 30일 방송된 KBS 새 예능 프로그램 '빼고파'에서 '은퇴'를 언급해 눈길을 끌었다. 그는 다이어트 경험담을 이야기하던 중 "과거 우울증이]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA['킬힐' 박소은 "손예진·박보영=롤모델..'그때 걔'로 기억되길" (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
-        <id>https://entertain.v.daum.net/v/20220501110056315</id>
-        <link href="https://entertain.v.daum.net/v/20220501110056315"/>
-        <updated>2022-05-01T03:38:25.381Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 최희재 기자) ([엑's 인터뷰③]에 이어) 배우 박소은이 남다른 연기 열정을 자랑했다. 지난 21일 종영한 tvN 수목드라마 '킬힐'은 홈쇼핑에서 벌어지는 세 여자들의 끝없는 욕망과 처절한 사투, 성공과 질투에 눈 먼 세 여자의 무기 하나 없는 전쟁 드라마다. 엑스포츠뉴스는 종영 후 박소은과 만나 인터뷰를 진행했다. 극중 박소은은 UNI]]></content>
+        <title type="html"><![CDATA[서경석, 공인중개사 합격→최준석 위해 발품 재능기부 (다음 연예 ─ 뉴스 ─ 예능)]]></title>
+        <id>https://entertain.v.daum.net/v/20220501145917070</id>
+        <link href="https://entertain.v.daum.net/v/20220501145917070"/>
+        <updated>2022-05-01T06:15:52.198Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 김명미 기자] ‘자본주의학교’ 서경석이 전(前) 야구선수 최준석 집 찾기에 나선다. 5월 1일 방송되는 KBS 2TV ‘자본주의학교’에서는 첫 어른 입학생 서경석의 경제생활이 펼쳐진다. 연예인이자 공인중개사인 서경석은 인생 첫 발품 재능 기부를 통해 돈을 벌 예정이다. 시드머니 없이도 최고의 수익을 내겠다고 자신하는 서경석이 어떤 활약을 펼칠지]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA['태종 이방원' 김민기, 김비주 눈물에도 묵묵부답..세종의 고민 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
-        <id>https://entertain.v.daum.net/v/20220501110055314</id>
-        <link href="https://entertain.v.daum.net/v/20220501110055314"/>
-        <updated>2022-05-01T03:38:25.382Z</updated>
-        <content type="html"><![CDATA[[OSEN=장우영 기자] ‘태종 이방원’의 김민기가 왕위에 오른 뒤에도 쌓여가는 근심에 고민을 거듭한다. 1일 밤 9시 40분 방송되는 KBS1 대하드라마 ‘태종 이방원’(극본 이정우, 연출 김형일 심재현, 제작 몬스터유니온) 최종회에서는 세종 이도(김민기)와 소헌왕후(김비주)가 집안 내부의 문제로 독대하게 된다. 앞서 태종 이방원(주상욱)은 양녕대군(]]></content>
+        <title type="html"><![CDATA['쇼킹 받는 차트' 배성재 "앱에 스며 있는 범죄자 끔찍, 사회서 격리해야" 일침 (다음 연예 ─ 뉴스 ─ 예능)]]></title>
+        <id>https://entertain.v.daum.net/v/20220501144935777</id>
+        <link href="https://entertain.v.daum.net/v/20220501144935777"/>
+        <updated>2022-05-01T06:15:52.200Z</updated>
+        <content type="html"><![CDATA[[OSEN=박판석 기자]&nbsp;‘쇼킹 받는 차트’ 랄랄의 사이다 욕설이 작렬한다. 오는 2일 첫 방송되는 MBC에브리원 ‘쇼킹 받는 차트’는 ‘열 받는다’는 말로는 설명이 안 되는 ‘킹(KING)+열 받는)’ 시공 초월 충격 실화들을 화려한 말발과 신들린 연기로 들려주는 신개념 스토리텔링 차트쇼다. 배성재가 메인 MC를 맡은 가운데 거침없는 언변의 소유자 이]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["12억 사기 당해"..최준석, 서울에서 보증금 100·월세 20 집 구하기 (다음 연예 ─ 뉴스 ─ 예능)]]></title>
+        <id>https://entertain.v.daum.net/v/20220501143603380</id>
+        <link href="https://entertain.v.daum.net/v/20220501143603380"/>
+        <updated>2022-05-01T06:15:52.200Z</updated>
+        <content type="html"><![CDATA[[OSEN=장우영 기자] ‘자본주의학교’ 서경석이 前 야구선수 최준석 집 찾기에 나선다. 1일 방송되는 KBS2 ‘자본주의학교’에서는 첫 어른 입학생 서경석의 경제생활이 펼쳐진다. 연예인이자 공인중개사인 서경석은 인생 첫 발품 재능 기부를 통해 돈을 벌 예정이다. 시드머니 없이도 최고의 수익을 내겠다고 자신하는 서경석이 어떤 활약을 펼칠지 이목이 집중된]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['우리끼리 작전타임' 김자인, 클라이밍 여제 육아 공백 딛고 2년만 국대 도전 (다음 연예 ─ 뉴스 ─ 예능)]]></title>
+        <id>https://entertain.v.daum.net/v/20220501142255018</id>
+        <link href="https://entertain.v.daum.net/v/20220501142255018"/>
+        <updated>2022-05-01T06:15:52.201Z</updated>
+        <content type="html"><![CDATA[[OSEN=박판석 기자]&nbsp;‘클라이밍 여제’ 김자인이 2년 만에 국가대표에 도전한다. 1일(오늘) 밤 10시 50분에 방송되는 KBS 2TV 예능프로그램 ‘우리끼리 작전:타임’에서는 김자인이 두 오빠 김자하, 김자비와 함께 클라이밍 훈련에 돌입하며 국가대표 선발전을 준비하는 모습이 펼쳐진다.&nbsp; 육아 공백을 딛고 2년 만에 다시 돌아온 김자인은 국가대표 선]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA['개나리학당' 앤디X장수원X유빈X제아, 아이돌 조상님 총출동 (다음 연예 ─ 뉴스 ─ 예능)]]></title>
@@ -271,60 +320,53 @@
         <content type="html"><![CDATA[[OSEN=박판석 기자]&nbsp;김병현은 햄버거 1,000개 완판 목표를 달성할 수 있을까. 오늘 오후 방송되는 KBS 2TV 예능 ‘사장님 귀는 당나귀 귀’(이하 ‘당나귀 귀’)에서는 코로나의 늪에서 탈출한 김병현의 인산인해, 문전성시 초대박 매출 현장이 그려진다. 앞서 야구팬들에게 맛있는 햄버거를 팔겠다는 꿈을 안고 요식업을 시작했던 김병현은 2년 반 동안]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[김병현, 야구장서 햄버거 1천개 완판 도전 "하루 매출=작년 10배" (다음 연예 ─ 뉴스 ─ 예능)]]></title>
-        <id>https://entertain.v.daum.net/v/20220501134331079</id>
-        <link href="https://entertain.v.daum.net/v/20220501134331079"/>
-        <updated>2022-05-01T05:18:52.650Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 황혜진 기자] 김병현이 햄버거 1,000개 완판 목표를 달성할 수 있을까. 5월 1일 방송되는 KBS 2TV 예능 ‘사장님 귀는 당나귀 귀’(이하 ‘당나귀 귀’)에서 코로나의 늪에서 탈출한 김병현의 인산인해, 문전성시 초대박 매출 현장이 공개된다. 앞서 야구 팬들에게 맛있는 햄버거를 팔겠다는 꿈을 안고 요식업을 시작했던 김병현은 2년 반 동안 코]]></content>
+        <title type="html"><![CDATA[트랙스 출신 정모, 예명 '크리스마스' 될 뻔한 사연 공개 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+        <id>https://entertain.v.daum.net/v/20220501150431262</id>
+        <link href="https://entertain.v.daum.net/v/20220501150431262"/>
+        <updated>2022-05-01T06:15:56.788Z</updated>
+        <content type="html"><![CDATA[트랙스 출신 정모가 화려한 입담으로 대중의 주말을 책임졌다. 정모는 1일 오후 방송된 KBS 쿨FM ‘이기광의 가요광장’에 게스트로 출연해 매끄러운 토크 실력과 유쾌한 에너지를 뽐냈다. ‘이 노래 기억나니?’ 코너에 등장한 정모는 신곡 ‘네가 아니면 안돼’에 대한 곡 소개를 전하는가 하면, 청취자들과 함께 명곡 추억 여행을 떠났다. 본격 명곡 추천]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[권상우, 비·조인성과 통화 연속 실패..'전화 연결 집착남' 등극 (다음 연예 ─ 뉴스 ─ 예능)]]></title>
-        <id>https://entertain.v.daum.net/v/20220501132558686</id>
-        <link href="https://entertain.v.daum.net/v/20220501132558686"/>
-        <updated>2022-05-01T04:31:39.648Z</updated>
-        <content type="html"><![CDATA[[OSEN=지민경 기자]&nbsp;tvN STORY와&nbsp;ENA채널이 공동제작하는 전국민 안주 지침서&nbsp;‘이번주도 잘부탁해’의 첫 게스트 권상우가 통화불가 후배들 때문에&nbsp;‘전화 연결 집착남’이 되며 살 떨리는 순간을 맞이한다. 5월&nbsp;2일 방송될&nbsp;‘이번주도 잘부탁해’ 1회에는 영화&nbsp;‘탐정’&nbsp;시리즈를 통해&nbsp;MC&nbsp;성동일과 가족처럼 절친한 사이가 된 배우 권상우가 첫 번째]]></content>
+        <title type="html"><![CDATA['미우새' 이상민X임원희, 박군♥한영 프로포즈 지원사격 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+        <id>https://entertain.v.daum.net/v/20220501150003097</id>
+        <link href="https://entertain.v.daum.net/v/20220501150003097"/>
+        <updated>2022-05-01T06:15:56.791Z</updated>
+        <content type="html"><![CDATA[[스포츠투데이 백지연 기자] '미운 우리 새끼'에서는 이상민, 임원희가 박군의 깜짝 프러포즈를 돕는 과정이 공개되어 기대감을 불러모은다. 이날 방송에서 이상민은 오랜만에 박군의 군탑방을 찾아 궁금증을 자아냈다. 알고 보니 박군이 한영에게 결혼 전 제대로 된 프러포즈를 해주고 싶다며 형들에게 도움을 요청한 것. 박군은 한영에게 ‘장미꽃 한 송이로 고백한 것이]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA['10억 광고 거절' 김신영, '가난 팔이'→'외모비하 개그' 경종 울렸다 (다음 연예 ─ 뉴스 ─ 예능)]]></title>
-        <id>https://entertain.v.daum.net/v/20220501120801741</id>
-        <link href="https://entertain.v.daum.net/v/20220501120801741"/>
-        <updated>2022-05-01T03:38:30.444Z</updated>
-        <content type="html"><![CDATA[[텐아시아=서예진 기자] 김신영의 다이어트가 ‘가난 팔이’와 ‘외모 비하 개그’에 경종을 울렸다. 외모에 대한 관심이 높아지면서 다이어트 열풍이 부는 가운데, 그의 체중 감량 이유에 담긴 메시지가 대중의 마음을 울리고 있다. 김신영은 과거 38kg을 감량, 10년간 몸무게를 유지하고 있다. 그는 다이어트 이유에 대해 어린 시절 겪었던 가난 때문이라고 밝]]></content>
+        <title type="html"><![CDATA[김신영 "업체 10억 거절→고도비만, 살 뺀다고 했을 때 비난" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+        <id>https://entertain.v.daum.net/v/20220501145544950</id>
+        <link href="https://entertain.v.daum.net/v/20220501145544950"/>
+        <updated>2022-05-01T06:15:56.793Z</updated>
+        <content type="html"><![CDATA[[스포츠조선닷컴 정안지 기자]방송인 김신영이 살이 찐 이유를 털어놨다. 김신영은 지난달 30일 오후 10시 30분 첫 방송된 KBS2 '빼고파'의 메인 MC로 시청자들과 만났다. 이날 김신영은 "유명한 다이어트 업체에서 10억을 제의하기도 했고, 수많은 모델 제의도 받아봤다. 하지만 내 몸을 사랑해서 스스로 빼고 싶었다"고 털어놨다. 이어 "]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[김신영, 10억 다이어트 거절.."스스로 빼고 싶었다" (다음 연예 ─ 뉴스 ─ 예능)]]></title>
-        <id>https://entertain.v.daum.net/v/20220501115003247</id>
-        <link href="https://entertain.v.daum.net/v/20220501115003247"/>
-        <updated>2022-05-01T03:38:30.445Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 김현정 기자) 코미디언 김신영이 ‘빼고파’의 메인 MC로 안방을 찾았다. 김신영은 지난달 30일 오후 10시 30분 첫 방송한 KBS 2TV ‘빼고파’의 메인 MC로 시청자들과 만났다. 이날 김신영은 “유명한 다이어트 업체에서 저한테 10억을 제의하기도 했고, 수많은 모델 제의도 받아봤다. 하지만 저는 제 몸을 사랑해서 스스로 빼고 싶었다]]></content>
+        <title type="html"><![CDATA["송혜교, 무섭지 않아요"..정웅인 딸 "엄마 아빠 왜 까내려?" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+        <id>https://entertain.v.daum.net/v/20220501143815435</id>
+        <link href="https://entertain.v.daum.net/v/20220501143815435"/>
+        <updated>2022-05-01T06:15:56.797Z</updated>
+        <content type="html"><![CDATA[[OSEN=최나영 기자]&nbsp;하루에도 몇번씩 SNS에 자신의 일상을 담은 사진이나 글을 올리며 근황을 공유하고 있는 스타들. 때로는 사진이나 글 하나가 뜨거운 화제를 모으며 큰 파장을 일으키기도 한다.&nbsp;[주간SNS핫스타]에서는 지난 한 주간 주목을 받았던 스타들의 SNS를 되짚어본다. # "송혜교, 무섭지 않아요" 배우 송혜교가 사랑 듬뿍 받는 누나의 면모]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA['윤민수 아들' 윤후, 예술의 전당서 그림 전시→NFT 판매까지 (다음 연예 ─ 뉴스 ─ 예능)]]></title>
-        <id>https://entertain.v.daum.net/v/20220501113916088</id>
-        <link href="https://entertain.v.daum.net/v/20220501113916088"/>
-        <updated>2022-05-01T03:38:30.448Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 김미화 기자] /사진='자본주의 학교' '자본주의학교' 윤후가 그림을 그리고 NFT 거래에 도전한다. 1일 방송되는 KBS 2TV '자본주의학교'에서는 예술적 재능을 활용한 윤후의 경제활동이 펼쳐진다. 그림부터 작곡까지, 못하는 게 없는 윤후의 모습이 시청자들의 이목을 집중시킬 예정이다. 최근 진행 된 촬영에서 윤후-윤민수 부자는 예술의전당]]></content>
+        <title type="html"><![CDATA[이시언♥서지성, 어디서 깨 볶는 냄새 안 나요? 17억 아파트 신혼일기 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+        <id>https://entertain.v.daum.net/v/20220501142723130</id>
+        <link href="https://entertain.v.daum.net/v/20220501142723130"/>
+        <updated>2022-05-01T06:15:56.798Z</updated>
+        <content type="html"><![CDATA[[OSEN=장우영 기자] 새신랑이 돼&nbsp;인생 2막을 연 배우 이시언이 매일 깨를 볶고 있다. 아내 서지승과 일상 등이 공개되며 뜨거운 관심을 받고 있는 17억 아파트에서 ‘나 혼자 산다’가 아닌 ‘우리 둘이 산다’를 연일 찍고 있다. 이시언의 열애 사실이 알려진 건 지난 2018년 2월. 이시언 측은 배우 서지승과 5개월째 열애 중임을 밝혔다. 이시언 측]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[장동민, 2세 '닭발포즈' 공개..'이혼' 이소연 "남자 필요없다" (다음 연예 ─ 뉴스 ─ 예능)]]></title>
-        <id>https://entertain.v.daum.net/v/20220501112357790</id>
-        <link href="https://entertain.v.daum.net/v/20220501112357790"/>
-        <updated>2022-05-01T03:38:30.449Z</updated>
-        <content type="html"><![CDATA[[OSEN=최나영 기자]&nbsp;‘골프왕3’&nbsp;윤태영-김지석-장민호-양세형이&nbsp;‘연예계 단짝들’인 이소연-강은탁,&nbsp;장동민-박성광을 맞아 화끈한 경기와 통쾌한 웃음을 선사했다. 지난 달 30일 방송된&nbsp;TV CHOSUN&nbsp;신개념 골프 예능&nbsp;‘골프왕3’ 4회는 닐슨코리아 기준 수도권 시청률&nbsp;2.1%,&nbsp;분당 최고 시청률은&nbsp;3.4%를 기록,&nbsp;또 다시 동시간대 방송된 종편 채]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["상상 이상"..'블록버스터' 노홍철X카이, 250만 개 창작물에 '감탄' (다음 연예 ─ 뉴스 ─ 예능)]]></title>
-        <id>https://entertain.v.daum.net/v/20220501111201551</id>
-        <link href="https://entertain.v.daum.net/v/20220501111201551"/>
-        <updated>2022-05-01T03:38:30.449Z</updated>
-        <content type="html"><![CDATA[‘블록버스터 : 천재들의 브릭 전쟁’ 노홍철과 카이가 기발한 상상력에 놀란다. 1일 오후 첫 방송되는 MBC 새 오디션 프로그램 ‘블록버스터 : 천재들의 브릭 전쟁’(이하 ‘블록버스터’)에서는 치열한 브릭 조립 배틀이 펼쳐진다. 첫 녹화가 진행되는 내내 진행자 노홍철과 특별 심사위원인 엑소 카이는 “상상 이상”이라고 입을 모으며 감탄을 금치 못했다고.]]></content>
+        <title type="html"><![CDATA['현재는 아름다워' 서범준X최예빈, 설렘 폭발 첫키스 포착 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+        <id>https://entertain.v.daum.net/v/20220501141758925</id>
+        <link href="https://entertain.v.daum.net/v/20220501141758925"/>
+        <updated>2022-05-01T06:15:56.800Z</updated>
+        <content type="html"><![CDATA[[스포츠조선 조지영 기자] '현재는 아름다워' 서범준과 최예빈이 비즈니스 동업자이자, 친구 사이를 정리한 것일까. 연인 사이로 한 발짝 다가선 설레는 첫 키스 현장이 포착됐다. KBS2 주말드라마 '현재는 아름다워'(하명희 극본, 김성근 연출) 지난 방송에서 유나(최예빈)는 이 이상한 감정이 무엇인지 확인하고 싶다며 키스하려 다가오는 수재(서]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA['현재는 아름다워' 서범준X최예빈, 설레는 첫 키스 포착. 아파트를 향한 비즈니스는 그만? (다음 연예 ─ 뉴스 ─ 스타)]]></title>
         <id>https://entertain.v.daum.net/v/20220501140632603</id>
         <link href="https://entertain.v.daum.net/v/20220501140632603"/>
         <updated>2022-05-01T05:18:57.110Z</updated>
-        <content type="html"><![CDATA[[스포츠조선 이정혁 기자] '현재는 아름다워' 서범준과 최예빈이 비즈니스 동업자이자, 친구 사이를 정리한 것일까. 연인 사이로 한 발짝 다가선 설레는 첫 키스 현장이 포착됐다. KBS 2TV 주말드라마 '현재는 아름다워'(연출 김성근, 극본 하명희, 제작 SLL, 드라마하우스스튜디오, 콘텐츠지음) 지난 방송에서 유나(최예빈)는 이 이상한 감정]]></content>
+        <content type="html"><![CDATA[[스포츠조선 이정혁 기자] '현재는 아름다워' 서범준과 최예빈의 첫 키스 현장이 포착됐다. 두 사람이 비즈니스 동업자이자 친구 사이를 정리한 것이지 관심이 모아진다. KBS 2TV 주말드라마 '현재는 아름다워'(연출 김성근, 극본 하명희, 제작 SLL, 드라마하우스스튜디오, 콘텐츠지음) 지난 방송에서 유나(최예빈)는 이 이상한 감정이 무엇인지]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[호화침대 창선→막내온탑 지성..탄, 숙소생활 이렇습니다 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
@@ -381,48 +423,6 @@
         <link href="https://entertain.v.daum.net/v/20220501130143325"/>
         <updated>2022-05-01T04:31:44.002Z</updated>
         <content type="html"><![CDATA[(엑스포츠뉴스 김현정 기자) (인터뷰①에 이어) 네 명의 여자 배우가 뿜는 록 스피릿이 강렬하고 시원하다. 뮤지컬 ‘리지’ 이야기다. 타이틀롤로 뮤지컬에 화려하게 데뷔한 가수 이소정(레이디스코드)은 6인조 라이브 밴드의 파워풀한 연주에 맞춰 폭발적인 가창력을 자랑한다.&nbsp; “성악 뮤지컬이었으면 제가 성악가분들처럼 완성되게 할 수 없으니 자신감이 없었을 거]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['리지' 이소정 "뮤지컬 하고 싶어 30대 되길 기다렸죠" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-        <id>https://entertain.v.daum.net/v/20220501130136322</id>
-        <link href="https://entertain.v.daum.net/v/20220501130136322"/>
-        <updated>2022-05-01T04:31:44.002Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 김현정 기자) 뮤지컬 ‘리지’의 타이틀롤로 뮤지컬 장르에 첫발을 내디뎠다. 가수 이소정(레이디스코드)은 2시간 동안 리지 보든이 돼 시원한 성량을 내뿜고 강렬한 연기를 보여준다.&nbsp; “제 목표가 ‘리지’ 끝날 때까지 긴장을 놓지 않기에요. 첫 뮤지컬이어서 선배님들에게 조언도 많이 구했는데 긴장이 풀리면 실수한다고 하더라고요. 첫 공연 때는]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[저스틴 민 "'애프터 양', 美서 평생 세탁소한 母 생각나 눈물" ① (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-        <id>https://entertain.v.daum.net/v/20220501130006297</id>
-        <link href="https://entertain.v.daum.net/v/20220501130006297"/>
-        <updated>2022-05-01T04:31:44.003Z</updated>
-        <content type="html"><![CDATA[(전주=뉴스1) 정유진 기자 = 존 조와 스티븐 연, 한국계 캐나다인 샌드라 오까지 여러 명의 한국계 배우들이 할리우드에서 스포트라이트를 받고 있다. 과거 아시아계 배우들은 스테레오 타입의 조연 역할에 머무를 때가 많았으나 근래에는 K콘텐츠의 폭발적인 인기와 다양성을 위한 내부 자정의 효과가 시너지를 일으키며 분위기가 달라졌다. 제23회 전주국제영화제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[저스틴 민 "'파친코' 출연할 뻔..미국서 韓 콘텐츠 인기 폭발" ② (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-        <id>https://entertain.v.daum.net/v/20220501130002293</id>
-        <link href="https://entertain.v.daum.net/v/20220501130002293"/>
-        <updated>2022-05-01T04:31:44.003Z</updated>
-        <content type="html"><![CDATA[(전주=뉴스1) 정유진 기자 = 존 조와 스티븐 연, 한국계 캐나다인 샌드라 오까지 여러 명의 한국계 배우들이 할리우드에서 스포트라이트를 받고 있다. 과거 아시아계 배우들은 스테레오 타입의 조연 역할에 머무를 때가 많았으나 근래에는 K콘텐츠의 폭발적인 인기와 다양성을 위한 내부 자정의 효과가 시너지를 일으키며 분위기가 달라졌다. 제23회 전주국제영화제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['빼고파', 외모지상주의 다이어트는 가라 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-        <id>https://entertain.v.daum.net/v/20220501124606157</id>
-        <link href="https://entertain.v.daum.net/v/20220501124606157"/>
-        <updated>2022-05-01T04:31:44.004Z</updated>
-        <content type="html"><![CDATA[[티브이데일리 황서연 기자] 건강한 다이어트를 표방하는 '빼고파'가 진솔한 언니들의 이야기로 포문을 알렸다. 남들의 시선 때문이 아닌, 온전히 '나' 자신을 위해 다이어트에 도전하는 이들의 진솔한 경험담이 시청자들의 공감을 자아내며 성공적인 출발을 알렸다. 4월 30일 밤 첫 방송한 KBS2 예능프로그램 '빼고파'는 연예계 대표 '유지어터' 김신영과 다이어]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['집사부일체' 김제동, 유현준에 건축 의뢰 "사랑을 부르는 공간" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-        <id>https://entertain.v.daum.net/v/20220501123406052</id>
-        <link href="https://entertain.v.daum.net/v/20220501123406052"/>
-        <updated>2022-05-01T03:38:35.319Z</updated>
-        <content type="html"><![CDATA[[티브이데일리 최하나 기자] 공간 컨설팅 전문가이자 건축가 유현준이 사랑에 빠지게 만드는 '필승 공간'에 대해 이야기한다. 1일 저녁 6시 30분 방송되는 SBS 예능프로그램 '집사부일체'에서는 유현준 사부에게 건축 의뢰를 한 '클라이언트 K'를 만나 공간을 처방해본다. 앞선 촬영에서 멤버들은 '사랑을 부르는 공간'을 의뢰한 '클라이언트 K'의 정체를 확인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[러시아 전쟁의 목격자들, 21세기 전쟁범죄를 고발하다 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-        <id>https://entertain.v.daum.net/v/20220501122101936</id>
-        <link href="https://entertain.v.daum.net/v/20220501122101936"/>
-        <updated>2022-05-01T03:38:35.319Z</updated>
-        <content type="html"><![CDATA[[이준목 기자] ▲ &nbsp;SBS &lt;그것이 알고싶다&gt;의 한 장면.    ⓒ SBS  &nbsp; 현대의 전쟁은 그저 전쟁터에서만 벌어지는 것이 아니다. 지금 우크라이나에서는 전쟁속의 또다른 전쟁이 벌어지고 있다. 4월 30일 방송된 SBS &lt;그것이 알고싶다&gt;에서는 '학살자와 목격자-전쟁 속의 전쟁'이라는 부제로 러시아와 우크라이나 전쟁의 진실을 알리기 위하]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA["48세 암투병 끝 사망한 애둘맘"..'ER' 배우 비보 애도물결 (다음 연예 ─ 뉴스 ─ 해외)]]></title>
