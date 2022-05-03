@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/variety</id>
     <title>다음 연예 ─ 뉴스 ─ 예능</title>
-    <updated>2022-05-03T16:19:23.780Z</updated>
+    <updated>2022-05-03T17:23:58.747Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김준호, 탁재훈 골프 러브콜 거절 "주말엔 지민이랑 있어야 되니까"]]></title>
+        <id>https://entertain.v.daum.net/v/20220504013644286</id>
+        <link href="https://entertain.v.daum.net/v/20220504013644286"/>
+        <updated>2022-05-03T17:23:47.774Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 임유리 기자] 개그맨 김준호가 탁재훈의 골프 요청을 거절하며 주말엔 김지민과 있어야 한다고 밝혔다. 3일 밤 방송된 SBS 예능 프로그램 ‘신발 벗고 돌싱포맨’에서는 배우 김수로, 성훈이 당구장에서 멤버들을 만났다. 이날 이상민은 개인 큐대까지 들고 온 김수로에게 “당구장에 온 김에 재훈이 형이랑 좀 놀아줘라. 재훈이 형이랑 같이 놀아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[탁재훈 "갈 때는 현빈&손예진, 올 때는 BTS와 같은 비행기.. 아무도 못 알아봐"]]></title>
         <id>https://entertain.v.daum.net/v/20220504011905226</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220504002402860"/>
         <updated>2022-05-03T16:19:14.270Z</updated>
         <content type="html"><![CDATA[[OSEN=박근희 기자] '박원숙의 같이 삽시다’ 이경진이 불우했던 가정사를 회상했다. 3일 오후 방송된 KBS2 '박원숙의 같이 삽시다'에서는 새 식구로 이경진이 합류하는 모습이 공개됐다. 새로운 손님으로 배우 이경진이 등장했다. 이경진은 드라마 ‘그대 그리고 나’에서 최불암 박원숙과 삼각관계를 이루기도 했다고. 이경진은 “새로운 식구가 된 이경진이다]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[장동민, 장모의 격한 사랑에 감동→2세 '베이비 용품' 美친 FLEX]]></title>
-        <id>https://entertain.v.daum.net/v/20220504001537815</id>
-        <link href="https://entertain.v.daum.net/v/20220504001537815"/>
-        <updated>2022-05-03T16:19:14.271Z</updated>
-        <content type="html"><![CDATA[[OSEN=박근희 기자] '딸도둑들’ 장동민의 장모가 남다른 사위 사랑을 보였다. 3일 전파를 탄 JTBC 예능프로그램 ‘딸도둑들’에서는 장동민의 처갓집 나들이가 공개됐다. 장동민 "요리만 빼고 모든 집안 살림은 아버님이 다 하신다”라고 언급해 모두를 놀라게 만들어다. 장모는 사위에게 처음으로 귀한 오골계 백숙을 만들어줬고, "70대 노인이 이 보양식을]]></content>
     </entry>
 </feed>
