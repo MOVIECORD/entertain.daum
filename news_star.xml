@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2022-05-07T06:16:44.852Z</updated>
+    <updated>2022-05-07T07:12:46.362Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[정동원, 한강뷰 집 사는 16세 영앤리치 "등교 전 한강 감상"]]></title>
+        <id>https://entertain.v.daum.net/v/20220507154501060</id>
+        <link href="https://entertain.v.daum.net/v/20220507154501060"/>
+        <updated>2022-05-07T07:12:41.373Z</updated>
+        <content type="html"><![CDATA[[스포츠조선닷컴 이우주 기자]'구해줘!홈즈' 정동원이 한강뷰에 살고 있다고 밝혀 부러움을 자아낸다. 8일 방송되는 MBC '구해줘! 홈즈'(연출:이민희,전재욱 /이하 '홈즈')에서는 가수 정동원이 서울에서 내 집 마련을 꿈꾸는 국제 부부를 위해 매물 찾기에 나선다. 이날 방송에서는 서울에서 첫 내 집 마련을 꿈꾸는 국제부부가 의뢰인으로 등장한]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뉴이스트 출신 렌, 빅플래닛과 전속계약]]></title>
         <id>https://entertain.v.daum.net/v/20220507151200729</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220507113818037"/>
         <updated>2022-05-07T03:32:04.443Z</updated>
         <content type="html"><![CDATA[[뉴스엔 송오정 기자] 박명수가 부부싸움을 주제로 청취자와 이야기 나눴다. 5월 7일 방송된 KBS 쿨FM '박명수의 라디오쇼'에서는 청취자와 전화 연결하는 '11시 내고향' 코너로 꾸며졌다. 이날 한 청취자는 남편이 싸울 때마다 서재에 틀어박혀 며칠 간 잠수를 탄다고 고민을 털어놓았다. 그러면서 박명수에게 "와이프와 싸우고 방에 들어가 안 나오고 그러신]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[엄마에게 손찌검하는 금쪽이, 예상치 못했던 문제]]></title>
-        <id>https://entertain.v.daum.net/v/20220507113600019</id>
-        <link href="https://entertain.v.daum.net/v/20220507113600019"/>
-        <updated>2022-05-07T03:32:04.443Z</updated>
-        <content type="html"><![CDATA[[김종성 기자] ▲ &nbsp;채널A &lt;요즘 육아 금쪽같은 내 새끼&gt;의 한 장면    ⓒ 채널A  &nbsp; "살고 싶어서... 진짜 솔직한 말은 살고 싶어서...(눈물)" 살고 싶어서 출연을 결정했다는 말에 절박함이 느껴졌다. 도대체 무슨 사연일까. 지난 6일 채널A &lt;금쪽같은 내새끼&gt;를 찾은 12세(금쪽이), 10세 두 아들의 엄마는 '소원'을 이루게 됐]]></content>
     </entry>
 </feed>
