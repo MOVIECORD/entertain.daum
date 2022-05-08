@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-05-08T15:13:37.649Z</updated>
+    <updated>2022-05-08T16:16:44.164Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['나의 해방일지' 손석구X김지원, 단단해진 관계→핑크빛 미래]]></title>
+        <id>https://entertain.v.daum.net/v/20220509004945669</id>
+        <link href="https://entertain.v.daum.net/v/20220509004945669"/>
+        <updated>2022-05-08T16:16:26.831Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 황수연 기자] /사진='나의 해방일지' 방송 화면 캡처 '나의 해방일지' 손석구과 김지원의 관계가 한층 단단해졌다. 8일 방송된 JTBC 주말드라마 '나의 해방일지'에서는 악화된 구씨(손석구 분)와 염미정(김지원 분)의 관계가 그려졌다. 구씨는 지난 회에서 과거가 드러난 구씨는 전 연인이 자살했고, 그로인한 죄책감과 전 연인의 오빠인 백사장(최]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['나의 해방일지' 이엘X이기우 재회 "날 찬 남자와 첫 대면"]]></title>
+        <id>https://entertain.v.daum.net/v/20220509001430545</id>
+        <link href="https://entertain.v.daum.net/v/20220509001430545"/>
+        <updated>2022-05-08T16:16:26.833Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 황수연 기자] /사진='나의 해방일지' 방송 화면 캡처'나의 해방일지' 배우 이엘과 이기우가 다시 만났다. 8일 방송된 JTBC 주말드라마 '나의 해방일지'에서는 고백 이후 첫 대면을 한 염기정(이엘 분)과 조태훈(이기우 분)의 모습이 그려졌다. LP판 부탁을 들어준 것에 대한 감사의 인사로 조태훈이 밥을 사기로 했던 것을 두고 조태훈의 누나]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이병헌, 신민아에 위로의 키스]]></title>
         <id>https://entertain.v.daum.net/v/20220509001003447</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220508212143119"/>
         <updated>2022-05-08T13:22:36.020Z</updated>
         <content type="html"><![CDATA[[스타뉴스 이시호 기자] /사진=KBS2 '현재는 아름다워' 방송 화면 캡처'현재는 아름다워' 배우 윤시윤이 배다빈에 마음을 전했다. 8일 오후 방송된 KBS 2TV 주말드라마 '현재는 아름다워'에서는 소영은(배그린 분)의 마지막 재판이 그려졌다. 소영은은 동행한 이현재(윤시윤 분)에 "이 지긋지긋한 재판도 끝이다 오늘. 넌 홀가분하겠다"며 웃었으나]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['현재는 아름다워' 배그린, 배다빈 도발 "전 남친 마음 돌릴 수 있겠냐"]]></title>
-        <id>https://entertain.v.daum.net/v/20220508210440921</id>
-        <link href="https://entertain.v.daum.net/v/20220508210440921"/>
-        <updated>2022-05-08T12:21:00.989Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 이이진 기자) '현재는 아름다워' 배그린이 배다빈을 도발했다. 8일 방송된 KBS 2TV '현재는 아름다워' 12회에서는 소영은(배그린 분)이 현미래(배다빈)와 신경전을 벌이는 모습이 그려졌다. 이날 소영은은 고객으로서 현미래를 만났고, 현미래는 "차 뭐 드릴까요?"라며 물었다. 소영은은 "안 마실래요. 본론으로 들어가요"라며 밝혔다. 현미래]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["마음 없지만 호기심 생겨" 오민석 고백에 신동미 '썸' 제안]]></title>
-        <id>https://entertain.v.daum.net/v/20220508205548855</id>
-        <link href="https://entertain.v.daum.net/v/20220508205548855"/>
-        <updated>2022-05-08T12:21:00.991Z</updated>
-        <content type="html"><![CDATA[[OSEN=최지연 기자] '현재는 아름다워' 오민석과 신동미가 연애 아닌 연애를 시작했다.&nbsp; 8일 방송된 KBS 2TV 주말드라마 ‘현재는 아름다워’(연출 김성근,&nbsp;극본 하명희,&nbsp;제작&nbsp;SLL,&nbsp;드라마하우스스튜디오,&nbsp;콘텐츠지음)에서는 이윤재(오민석 분)가&nbsp;심해준(신동미 분)와 본격적으로 썸을 타기 시작해 눈길을 끌었다.&nbsp; 이날 이윤재는 "전에 저한테 좋아]]></content>
     </entry>
 </feed>
