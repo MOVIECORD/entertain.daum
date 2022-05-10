@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2022-05-10T06:16:44.493Z</updated>
+    <updated>2022-05-10T07:13:08.110Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["올 타임 레전드"..'최정상 톱가수' 아이유→'칸 여배우' 이지은, '브로커'로 또 '역대급 행보']]></title>
+        <id>https://entertain.v.daum.net/v/20220510161041803</id>
+        <link href="https://entertain.v.daum.net/v/20220510161041803"/>
+        <updated>2022-05-10T07:12:48.332Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 김나라 기자] 가수 겸 배우 이지은(아이유)이 첫 상업영화 데뷔작 '브로커'로 칸 국제영화제 레드카펫을 밟는 역대급 행보로 관심을 집중시켰다. 10일 오전 서울 CGV 용산아이파크몰에선 영화 '브로커'의 제작보고회가 열렸다. 배우 강동원, 이지은, 이주영 등 출연진이 참석했으며 연출자 고레에다 히로카즈 감독은 일본 현지에서 화상 연결로]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[엄마된 이정현, 모성애 연기..범죄 스릴러 '리미트' 하반기 개봉]]></title>
         <id>https://entertain.v.daum.net/v/20220510145849583</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220510133410064"/>
         <updated>2022-05-10T05:13:10.548Z</updated>
         <content type="html"><![CDATA[[스타뉴스 김나연 기자] 리미트 / 사진=영화 포스터배우 이정현, 문정희, 진서연의 특급 조우로 탄생한 2022 최고의 기대작 '리미트'가 하반기 개봉을 확정 짓고 커밍순 포스터를 공개했다. 이정현, 문정희, 진서연 그리고 박명훈, 최덕문, 박경혜 등 충무로의 연기파 배우들이 총출동해 뜨거운 화제를 모은 '리미트'가 2022년 하반기 개봉을 확정 짓고,]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["영화에 국적 없다"..'브로커', 韓日 시너지로 빛날 거장의 역작]]></title>
-        <id>https://entertain.v.daum.net/v/20220510132708747</id>
-        <link href="https://entertain.v.daum.net/v/20220510132708747"/>
-        <updated>2022-05-10T05:13:10.548Z</updated>
-        <content type="html"><![CDATA[[SBS 연예뉴스 | 김지혜 기자] "오늘 이 자리에서 가만히 (우리가 영화를 찍어온 여정을) 보니까 저분(고레에다 히로카즈)도 똑같은 생각을 가지고 있구나라는 생각이 든다. 우리 삶의 가치에 있어 어떤 게 중요하고, 어떤 걸 잃어가고 있는지 이런 얘기를 하는 게 국적 하고는 아무 상관이 없다고 생각한다" 10일 오전 열린 영화 '브로커'(감독 고레에다 히]]></content>
     </entry>
 </feed>
