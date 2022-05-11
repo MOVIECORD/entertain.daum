@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-05-11T03:18:06.164Z</updated>
+    <updated>2022-05-11T04:32:06.737Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['안나라수마나라' 최성은 "괴물 신인 수식어 감사..부담감 없어"]]></title>
+        <id>https://entertain.v.daum.net/v/20220511123835545</id>
+        <link href="https://entertain.v.daum.net/v/20220511123835545"/>
+        <updated>2022-05-11T04:31:50.501Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 박정민 기자] (인터뷰①에 이어) 배우 최성은이 괴물 신인으로 주목받는 것에 대한 부담은 없다고 말했다. 지난 5월 6일 공개된 넷플릭스 시리즈 '안나라수마나라'는 꿈을 잃어버린 소녀 윤아이(최성은 분)와 꿈을 강요받는 소년 나일등(황인엽 분) 앞에 어느 날 갑자기 미스터리한 마술사 리을(지창욱 분)이 나타나 겪게 되는 이야기를 담은 판타지 뮤]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['안나라수마나라' 최성은 "지창욱, 따뜻한 선배..리을 같은 존재"]]></title>
         <id>https://entertain.v.daum.net/v/20220511121642983</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220511103710164"/>
         <updated>2022-05-11T03:17:50.971Z</updated>
         <content type="html"><![CDATA[[뉴스엔 박아름 기자] 배우 홍은희가 설득력 있는 연기를 펼쳤다. SBS 새 월화드라마 ‘우리는 오늘부터(극본, 연출 정정화)’가 베일을 벗은 가운데, 홍은희의 강렬한 첫 등장과 상반되는 진심 가득한 속마음이 드러나며 안방극장을 감동으로 물들였다. ‘우리는 오늘부터’는 혼전순결을 지켜오던 오우리(임수향 분)가 뜻밖의 사고로 라파엘(성훈 분)의 아이를 갖게]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[엄정화·이정은 중년 워맨스 기대해]]></title>
-        <id>https://entertain.v.daum.net/v/20220511103109919</id>
-        <link href="https://entertain.v.daum.net/v/20220511103109919"/>
-        <updated>2022-05-11T03:17:50.972Z</updated>
-        <content type="html"><![CDATA[[동아닷컴]  엄정화가 본격 등장해 이정은과 30년 지기 우정 이야기를 그린다. 20부작 반환점을 돈 tvN 토일드라마 ‘우리들의 블루스’(극본 노희경, 연출 김규태 김양희 이정묵)가 후반부에는 그동안 등장하지 않았던 새 인물 합류로 재미를 더한다. 바로 정은희(이정은 분) 절친한 친구로 언급됐던 고미란(엄정화 분)이 본격 등장한다. 엄정화와 이정은은 친]]></content>
     </entry>
 </feed>
