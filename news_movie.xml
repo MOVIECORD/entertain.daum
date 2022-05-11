@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2022-05-11T18:16:26.815Z</updated>
+    <updated>2022-05-11T19:12:33.954Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["더 악랄한 빌런, 더 강력한 주먹으로 돌아왔다"]]></title>
+        <id>https://entertain.v.daum.net/v/20220512040821584</id>
+        <link href="https://entertain.v.daum.net/v/20220512040821584"/>
+        <updated>2022-05-11T19:12:14.472Z</updated>
+        <content type="html"><![CDATA[금천서 강력반 ‘괴물 형사’ 마석도(마동석)가 5년 만에 스크린에 돌아온다. 그가 한국과 베트남을 오가며 펼치는 흉악범 검거 작전을 그린 ‘범죄도시2’(감독 이상용)가 오는 18일 개봉한다. 11일 서울 강남구 코엑스에서 ‘범죄도시2’ 시사회가 열렸다. “나쁜 놈들 잡는 데 이유가 어디 있어”라고 외치는 마석도의 스케일은 국제적으로 커졌다. 전작은 가리봉]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['더 능글맞고 통쾌하다'..'범죄도시2' 마동석 "결과물 좋아 기대"]]></title>
         <id>https://entertain.v.daum.net/v/20220512000038372</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220511175213751"/>
         <updated>2022-05-11T09:13:21.625Z</updated>
         <content type="html"><![CDATA[(서울=뉴스1) 정유진 기자 = 무한 확장을 꿈꾸는 '범죄도시'의 두번째 영화 '범죄도시2'가 나왔다. 11일 오후 서울 강남구 영동대로 메가박스 코엑스점에서 영화 '범죄도시2'(감독 이상용)의 언론배급시사회 및 기자간담회가 열렸다. 이 자리에는 이상용 감독과 주연 배우 겸 기획자, 제작자로도 활약한 마동석, 최귀화, 박지환이 참석했다. '범죄도시2]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[도쿄 둘러싼 거대한 거품, 불법 체류 소년의 운명은]]></title>
-        <id>https://entertain.v.daum.net/v/20220511174500519</id>
-        <link href="https://entertain.v.daum.net/v/20220511174500519"/>
-        <updated>2022-05-11T09:13:21.628Z</updated>
-        <content type="html"><![CDATA[[김형욱 기자] &nbsp;        ▲ &nbsp;넷플릭스 오리지널 애니메이션 영화 &lt;버블&gt; 포스터.    ⓒ 넷플릭스  &nbsp; 어느 날 갑자기 하늘에서 거품이 쏟아져 전 세계에 큰 혼란이 초래된다. 얼마 후 일본 도쿄 중심부에 원인 불명의 대폭발이 일어난다. 도쿄는 거대한 거품에 휩싸이고, 거품이 그친 후에도 도쿄의 거품 현상은 계속된다. 전 세계에서 찾아온 그 어느 과]]></content>
     </entry>
 </feed>
