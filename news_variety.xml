@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/variety</id>
     <title>다음 연예 ─ 뉴스 ─ 예능</title>
-    <updated>2022-05-11T09:13:42.339Z</updated>
+    <updated>2022-05-11T10:15:12.358Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["봉선이가 좋아했다"..김종국 "우리 조만간 보자"]]></title>
+        <id>https://entertain.v.daum.net/v/20220511185001215</id>
+        <link href="https://entertain.v.daum.net/v/20220511185001215"/>
+        <updated>2022-05-11T10:15:01.153Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 이지은 인턴기자) 김종국이 소개 받고 싶은 후배로 신봉선을 선택했다. 11일 방송되는 KBS 2TV '옥탑방의 문제아들'에서는 조혜련이 게스트로 출격했다.&nbsp;SBS '골 때리는 그녀들'에서 'FC 개벤저스' 멤버로 활약 중인 조혜련을 두고 김숙은 "개벤저스 멤버 중에 김종국에게 소개시켜주고 싶은 멤버가 있다고 들었다"며 관련 질문을 던졌다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[영탁, '주접이 풍년' 뜬다..객석 신청률도 에너지도 최고!]]></title>
         <id>https://entertain.v.daum.net/v/20220511175219753</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220511160555470"/>
         <updated>2022-05-11T07:14:15.999Z</updated>
         <content type="html"><![CDATA[[뉴스엔 황혜진 기자] Mnet ‘스트릿 맨 파이터(이하 ‘스맨파’)’ 크루 라인업에 이름을 올릴 프로젝트 댄스 크루를 결성하는 ‘비 엠비셔스(Be Mbitious)’가 드디어 첫 예고편을 공개하며 베일을 벗었다. 5월 24일과 25일 방송되는 ‘비 엠비셔스’는 올 여름 남자들의 춤 싸움 ‘스트릿 맨 파이터’에 출전하기 위한 프로젝트 댄스 크루 ‘엠비셔스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이이경, '뮤지컬스타' 첫방..오디션 단독 MC 데뷔 성공]]></title>
-        <id>https://entertain.v.daum.net/v/20220511151701553</id>
-        <link href="https://entertain.v.daum.net/v/20220511151701553"/>
-        <updated>2022-05-11T06:19:17.236Z</updated>
-        <content type="html"><![CDATA[[OSEN=연휘선 기자]&nbsp;배우 이이경이 오디션 프로그램 첫 단독MC&nbsp;데뷔를 성공적으로 마쳤다. 지난&nbsp;10일 첫 방송된 채널A 예능 프로그램 ‘2022 DIMF&nbsp;뮤지컬스타'에서 메인&nbsp;MC를 맡은 이이경이 첫 회부터 남다른 진행력으로 프로MC의 자질을 입증시켜 눈길을 모으고 있다. 이날 심사위원단들의 열띤 환호 속 등장한 이이경은&nbsp;"인생에 있어서&nbsp;'처음'이]]></content>
     </entry>
 </feed>
