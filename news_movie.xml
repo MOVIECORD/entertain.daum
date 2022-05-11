@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2022-05-11T05:24:02.604Z</updated>
+    <updated>2022-05-11T06:19:27.614Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[남지현 "배우로서 방황 중..필라테스 자격증 취득하기도"]]></title>
+        <id>https://entertain.v.daum.net/v/20220511144807201</id>
+        <link href="https://entertain.v.daum.net/v/20220511144807201"/>
+        <updated>2022-05-11T06:19:06.868Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 김나라 기자] 그룹 포미닛 출신 연기자 남지현(32)이 '데드캠핑: 더라이브'로 원톱 주연 데뷔 신고식을 치르며, 배우로서 한 단계 도약을 알렸다. 남지현은 11일 오전 서울 종로구 소격동 한 카페에서 마이데일리와 인터뷰를 진행했다. 내일(12일) '데드캠핑 더라이브'(감독 김현우) 개봉을 앞두고 이야기꽃을 피웠다. '데드캠핑 더라이브']]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["영원한 나의 사부".. 강수연 마지막 길 지킨 영화인들]]></title>
         <id>https://entertain.v.daum.net/v/20220511133001818</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220511115551024"/>
         <updated>2022-05-11T03:17:46.079Z</updated>
         <content type="html"><![CDATA[[뉴스엔 배효주 기자] 배우로 전향한 걸그룹 포미닛 출신 남지현이 "필라테스 자격증을 취득했다"는 근황을 전했다. 영화 '데드캠핑 더라이브'(감독 김현우)에 출연한 남지현은 5월 11일 서울 종로구 삼청동 모처에서 진행된 인터뷰를 통해 배우로서의 고민을 고백했다. 12일 개봉하는 영화 '데드캠핑 더라이브'는 인기 캠핑 유튜버 '수연'이 덫에 반드시 걸려들]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['데드캠핑' 남지현 "첫 액션 원톱..아이돌 출신이라 수월"]]></title>
-        <id>https://entertain.v.daum.net/v/20220511115403941</id>
-        <link href="https://entertain.v.daum.net/v/20220511115403941"/>
-        <updated>2022-05-11T03:17:46.079Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 배효주 기자] 첫 스크린 원톱 주연을 맡은 남지현이 설렘과 부담을 동시에 전했다. 영화 '데드캠핑 더라이브'(감독 김현우)에 출연한 남지현은 5월 11일 서울 종로구 삼청동 모처에서 진행된 인터뷰를 통해 영화 개봉을 앞둔 소회를 밝혔다. 12일 개봉하는 영화 '데드캠핑 더라이브'는 인기 캠핑 유튜버 '수연'이 덫에 반드시 걸려들 그놈들을 사냥하기]]></content>
     </entry>
 </feed>
