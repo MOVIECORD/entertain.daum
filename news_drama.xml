@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-05-12T09:14:38.545Z</updated>
+    <updated>2022-05-12T10:16:32.516Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['너가속' 외박 후 돌아온 박주현 채종협, 인교진에 딱 걸렸다]]></title>
+        <id>https://entertain.v.daum.net/v/20220512185351895</id>
+        <link href="https://entertain.v.daum.net/v/20220512185351895"/>
+        <updated>2022-05-12T10:16:17.166Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 박수인 기자] ‘너에게 가는 속도 493km’ 박주현, 채종협의 외박이 딱 걸렸다. 5월 11일 방송된 KBS 2TV 수목드라마 '너에게 가는 속도 493km'(연출 조웅/극본 허성혜/제작 블리츠웨이스튜디오/이하 '너가속') 7회에서는 박태양(박주현 분), 박태준(채종협 분)이 둘이서 바다에 가 허심탄회한 이야기를 나누는 모습이 그려졌다. 특히]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['우리들의 블루스' 이병헌→이정은, 진한 여운 남긴 명대사들]]></title>
         <id>https://entertain.v.daum.net/v/20220512180835723</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220512160449568"/>
         <updated>2022-05-12T07:13:39.971Z</updated>
         <content type="html"><![CDATA[[OSEN=장우영 기자] ‘너에게 가는 속도 493km’ 채종협과 김무준이 파트너가 된다. 11일 방송된 KBS2 수목드라마 '너에게 가는 속도 493km'(극본 허성혜, 연출 조웅, 제작 블리츠웨이스튜디오, 이하 '너가속') 7회에서는 유니스 단체전 엔트리에 박태양(박주현)은 떨어지고, 박태준(채종협)은 붙는 모습이 그려졌다. 또한 선발전에서 의외의]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['붉은 단심' 이준 강한나, 다정다감한 메이킹 커플 투샷..흐뭇한 비주얼]]></title>
-        <id>https://entertain.v.daum.net/v/20220512155411048</id>
-        <link href="https://entertain.v.daum.net/v/20220512155411048"/>
-        <updated>2022-05-12T07:13:39.971Z</updated>
-        <content type="html"><![CDATA[[OSEN=박판석 기자]&nbsp;‘붉은 단심’이 카메라 ON과 OFF 속 확연한 분위기 차이가 느껴지는 3, 4회 비하인드 메이킹을 공개했다.&nbsp; 지난 9일(월)과 10일(화) 밤 9시 30분 방송된 KBS 2TV 월화드라마 ‘붉은 단심’(연출 유영은/ 극본 박필주/ 제작 지앤지프로덕션) 3, 4회는 본격적으로 인물들의 관계가 얽히고설키기 시작하며 휘몰아치는 폭]]></content>
     </entry>
 </feed>

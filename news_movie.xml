@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2022-05-12T09:14:38.541Z</updated>
+    <updated>2022-05-12T10:16:32.514Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['53세 미혼' 이정은 "기혼자 연기 잘 한다고? 상상할 모델 많아"]]></title>
+        <id>https://entertain.v.daum.net/v/20220512185009781</id>
+        <link href="https://entertain.v.daum.net/v/20220512185009781"/>
+        <updated>2022-05-12T10:16:11.925Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 김유진 기자) 이정은이 '오마주' 속에서 실제 미혼임에도 기혼자의 생활 연기를 실감나게 펼칠 수 있던 이유를 밝혔다. 12일 서울 용산구 CGV 용산아이파크몰에서 영화 '오마주'(감독 신수원) 언론시사회가 열렸다. 이 자리에는 신수원 감독과 배우 이정은이 참석했다. '오마주'는 한국 1세대 여성영화감독의 작품 필름을 복원하게 된 중년 여성]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['오마주' 신수원 감독 "이정은은 제 잃어버린 도플갱어라 생각해"]]></title>
         <id>https://entertain.v.daum.net/v/20220512175432293</id>
@@ -38,7 +45,7 @@
         <id>https://entertain.v.daum.net/v/20220512173201409</id>
         <link href="https://entertain.v.daum.net/v/20220512173201409"/>
         <updated>2022-05-12T09:14:20.261Z</updated>
-        <content type="html"><![CDATA[‘속편은 재미없다’는 편견을 산산이, 그리고 통쾌하게 깨부순다. 시즌 1의 흥행에 힘입어 시즌 2로 돌아온 영화 ‘범죄도시2’(사진)는 잘 만든 속편이 얼마나 매력적일 수 있는지 보여준다. 18일 개봉하는 이 작품은 시즌 1을 흥행작 반열에 끌어올린 ‘시원한 액션’을 살리면서 스케일을 한층 더 키웠다. 영화 범죄도시의 ‘얼굴’인 마동석은 이번에도 주인공]]></content>
+        <content type="html"><![CDATA[‘속편은 재미없다’는 편견을 산산이, 그리고 통쾌하게 깨부순다. 시즌 1의 흥행에 힘입어 시즌 2로 돌아온 영화 ‘범죄도시2’(사진)는 잘 만든 속편이 얼마나 매력적일 수 있는지 보여준다. 18일 개봉하는 이 작품은 시즌 1을 흥행작 반열에 끌어올린 ‘시원한 액션’을 살리면서 스케일을 한층 더 키웠다. 영화 범죄도시의 ‘얼굴’인 마동석은 이번에도 주인공 마]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[이정은 원톱 주연 女영화 '오마주'.."신수원 감독 도플갱어 같은 모습 연기"]]></title>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220512164131332"/>
         <updated>2022-05-12T08:15:59.376Z</updated>
         <content type="html"><![CDATA[▶ 줄거리 엄마 영화는 재미없다는 아들과 늘상 밥타령인 남편, 잇따른 흥행 실패로 슬럼프에 빠진 중년의 영화감독 지완. 아르바이트 삼아 60년대에 활동한 한국 두 번째 여성 영화감독 홍은원 감독의 작품 '여판사'의 필름을 복원하게 된다. 사라진 필름을 찾아 홍감독의 마지막 행적을 따라가던 지완은 정체를 알 수 없는 모자 쓴 여성의 그림자와 함께 그 시간 속]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['오마주' 이정은 "장편 첫 단독주연, 개봉 앞두니 실감나"]]></title>
-        <id>https://entertain.v.daum.net/v/20220512164054306</id>
-        <link href="https://entertain.v.daum.net/v/20220512164054306"/>
-        <updated>2022-05-12T08:15:59.376Z</updated>
-        <content type="html"><![CDATA[(서울=뉴스1) 고승아 기자 = 배우 이정은이 장편 영화에서 처음으로 단독 주연을 맡은 소감을 밝혔다. 12일 오후 서울 용산구 CGV용산아이파크몰에서 영화 '오마주' 언론시사회 및 기자간담회가 열려 이정은, 신수원 감독이 참석했다. 이날 이정은은 장편 영화에서 처음 단독 주연을 맡은 것에 대해 "30분짜리 단편에서는 주연을 해봤는데, 극장에서 이렇게]]></content>
     </entry>
 </feed>
