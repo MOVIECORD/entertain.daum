@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2022-05-27T04:28:33.717Z</updated>
+    <updated>2022-05-27T05:18:44.567Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[칸 공개 후 전세계가 '헌트' 앓이]]></title>
+        <id>https://entertain.v.daum.net/v/20220527141507819</id>
+        <link href="https://entertain.v.daum.net/v/20220527141507819"/>
+        <updated>2022-05-27T05:18:22.255Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 배효주 기자] '헌트' 이정재와 정우성의 글로벌 행보가 화제다. 올여름 개봉하는 영화 '헌트'(감독 이정재)는 조직 내 숨어든 스파이를 색출하기 위해 서로를 의심하는 안기부 요원 ‘박평호’와 ‘김정도'가 '대한민국 1호 암살 작전'이라는 거대한 사건과 직면하며 펼쳐지는 첩보 액션 드라마. 지난 5월 19일일 자정(현지시각) 제75회 칸 국제영화제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[1등해야 직성 풀리는 성격.. 대학에서 결국 벌어진 일]]></title>
+        <id>https://entertain.v.daum.net/v/20220527133300425</id>
+        <link href="https://entertain.v.daum.net/v/20220527133300425"/>
+        <updated>2022-05-27T05:18:22.257Z</updated>
+        <content type="html"><![CDATA[[장혜령 기자] ▲ &nbsp;영화 &lt;더 노비스&gt; 스틸컷    ⓒ 영화사 진진  &nbsp; &lt;더 노비스&gt;는 자신과의 싸움을 향한 집념과 집착의 결과물이다. 선생이나 부모의 강요가 있는 것이 아닌 순전히 자신을 한계 이상으로 몰아붙인다. 대체 왜 저럴까 이해가 되지 않을 정도다. 초반에는 &lt;위플래쉬&gt;처럼 1등과 성공을 위해 휘몰아치는 서스펜스가 펼쳐진다. 서서]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['범죄도시2' 500만 목전..적수 없는 1위]]></title>
         <id>https://entertain.v.daum.net/v/20220527131501940</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220527104656261"/>
         <updated>2022-05-27T03:09:25.945Z</updated>
         <content type="html"><![CDATA[[스타뉴스 김나연 기자] 브로커 / 사진=CJ ENM제75회 칸 국제영화제 경쟁 부문 공식 초청작 '브로커'가 프랑스 칸 현지에서 전 세계 최초로 공개되며 극장 안을 감동으로 물들였다. '브로커'가 프랑스 현지 시간 26일 오후 7시 칸 국제영화제 메인 상영관인 뤼미에르 극장에서 공식 상영됐다. 고레에다 히로카즈 감독부터 송강호, 강동원, 이지은, 이주영]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['안녕하세요' 김환희·이윤지·송재림, 영화에 담은 '진심']]></title>
-        <id>https://entertain.v.daum.net/v/20220527103640807</id>
-        <link href="https://entertain.v.daum.net/v/20220527103640807"/>
-        <updated>2022-05-27T03:09:25.952Z</updated>
-        <content type="html"><![CDATA[안녕하세요. 우리가 일상에서 대수롭지 않게 내뱉는 이 말이 꼭 필요한 이들이 있다. '안녕하세요' 속 호스피스 병동의 사람들이다. "안녕하세요"라는 인사를 통해 누군가는 세상의 온기를 느꼈고 또 다른 누군가는 자신이 아직 안녕하다는 사실을 다시 한번 깨달았다. 김환희 이윤지 송재림은 27일 오전 유튜브 채널 '덕질하는 기자'를 통해 공개된 영상에서 ']]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['브로커', 12분 기립박수 터졌다.."벅차오르지 않을 수 없다"]]></title>
-        <id>https://entertain.v.daum.net/v/20220527102800377</id>
-        <link href="https://entertain.v.daum.net/v/20220527102800377"/>
-        <updated>2022-05-27T03:09:25.953Z</updated>
-        <content type="html"><![CDATA[[TV리포트=박설이 기자]제75회 칸 국제영화제 경쟁 부문 공식 초청작 '브로커 '가 프랑스 칸 현지에서 전 세계 최초로 공개되며 극장 안을 감동으로 물들였다. 세계적 거장 고레에다 히로카즈 감독의 첫 한국 영화 연출작이자 송강호, 강동원, 배두나, 이지은, 이주영 등 대한민국을 대표하는 배우들의 만남으로 관심을 모으고 있는 '브로커'가 5월 26일 오후]]></content>
     </entry>
 </feed>
