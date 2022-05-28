@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/variety</id>
     <title>다음 연예 ─ 뉴스 ─ 예능</title>
-    <updated>2022-05-28T02:48:21.809Z</updated>
+    <updated>2022-05-28T03:41:36.539Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[박명수 "공항 근처 거주, 헬기 조종사 친구 있어"]]></title>
+        <id>https://entertain.v.daum.net/v/20220528120306967</id>
+        <link href="https://entertain.v.daum.net/v/20220528120306967"/>
+        <updated>2022-05-28T03:41:25.675Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 박정민 기자] 박명수가 청취자들 고민을 듣고 진심 어린 조언을 전했다. 5월 28일 방송된 KBS 쿨FM '라디오쇼'에서는 11시 내 고향 코너가 진행됐다. 이날 한 청취자는 조종사를 준비 중이라고 밝혔다. 박명수는 "여자 파일럿 너무 멋있다. 제 친구 중에도 기장, 헬기 조종사도 있다. 집이 공항 쪽이라 이상하게 조종사가 몇 명 있다. 정복이라]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['놀면 뭐하니' WSG워너비 최종 멤버 공개..유재석 "공유도 물어봐"]]></title>
         <id>https://entertain.v.daum.net/v/20220528114159752</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220528103906047"/>
         <updated>2022-05-28T02:48:11.150Z</updated>
         <content type="html"><![CDATA[[OSEN=장우영 기자] ‘빼고파’ 고은아가 다이어트로 인한 섭식장애를 고백한다. KBS2 ‘빼고파’(연출 최지나)는 ‘배고픈 다이어트는 이제 그만!’ 연예계 대표 유지어터 김신영과 다이어트에 지친 하재숙, 배윤정, 고은아, 브레이브걸스 유정, 김주연(일주어터), 박문치의 건강한 몸만들기 프로젝트이다. 수치적인 감량을 위해 출연자를 극단적으로 몰아세우는]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[홍예지 "멤버들 게임 못 한다" 팩트 폭행에 송지효 "너나 잘해"]]></title>
-        <id>https://entertain.v.daum.net/v/20220528103510006</id>
-        <link href="https://entertain.v.daum.net/v/20220528103510006"/>
-        <updated>2022-05-28T02:48:11.151Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 박수인 기자] 12년 내공의 멤버들이 게임 구멍으로 전락한 이유는 무엇일까. 5월 29일 방송되는 SBS ‘런닝맨’에서는 ‘12년 내공’ 게임 베테랑 멤버들이 단체로 ‘게임 구멍’으로 전락한다. 최근 진행된 녹화에서 멤버들은 거꾸로 말하기와 단어 만들기 미션을 제시받자, ”식은 죽 먹기“라며 강한 자신감을 보였다. 하지만 초반부터 고전을 면치 못]]></content>
     </entry>
 </feed>
