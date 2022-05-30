@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2022-05-30T20:14:55.704Z</updated>
+    <updated>2022-05-30T21:12:43.238Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이정은 "뜨니까 변했다? 전 원래 이래요"]]></title>
+        <id>https://entertain.v.daum.net/v/20220531060025449</id>
+        <link href="https://entertain.v.daum.net/v/20220531060025449"/>
+        <updated>2022-05-30T21:12:19.459Z</updated>
+        <content type="html"><![CDATA[영화 ‘오마주 ’스틸컷 (사진|준필름)          영화 ‘오마주 ’스틸컷 (사진|준필름)          영화 ‘오마주 ’스틸컷 (사진|준필름)    “뜨니까 변했다는 말도 많이 들었어요. 하지만 저는 원래 이래요. 사람이 그렇게 쉽게 변하지 않죠. 하하하” 기우였다. 영화 ‘]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['닥스2'→'범죄도시2'→칸 수상작들..극장 부활, 6월에 사활 걸었다]]></title>
         <id>https://entertain.v.daum.net/v/20220531051144047</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220530165505849"/>
         <updated>2022-05-30T08:18:25.604Z</updated>
         <content type="html"><![CDATA[[스포츠투데이 최혜진 기자] 이번 칸 영화제에서 주인공은 단연 한국 영화였다. 커지는 위상과 함께 해외 시상식에서 한국 영화의 힘을 보여 줬다. 28일(현지시간) 프랑스 칸 뤼미에르 대극장에서 제75회 칸 영화제(이하 칸 영화제) 시상식이 진행됐다. 이날 송강호는 영화 '브로커'로 남우주연상을 수상했다. 한국 배우가 해당 부문에서 트로피를 거머쥔 것은]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[송강호, 칸영화제 트로피 들고 입국 "한국영화팬들께 감사"]]></title>
-        <id>https://entertain.v.daum.net/v/20220530164202346</id>
-        <link href="https://entertain.v.daum.net/v/20220530164202346"/>
-        <updated>2022-05-30T08:18:25.606Z</updated>
-        <content type="html"><![CDATA[제75회 칸영화제에서 남우주연상을 수상한 배우 송강호가 입국했다. 송강호는 영화 ‘브로커’ 고레에다 히로카즈 감독, 배우 강동원, 이지은, 이주영과 함께 30일 오후 2시33분 인천국제공항 제1여객터미널을 통해 귀국했다. 취재진 앞에서 마이크를 잡은 송강호는 “수상 무대에서는 소감을 얘기할 시간이 제한돼 있어 말씀 못 드렸다”라며 “이런 성과가 한국 영]]></content>
     </entry>
 </feed>
