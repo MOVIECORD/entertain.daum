@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2022-05-31T06:17:40.969Z</updated>
+    <updated>2022-05-31T07:13:38.353Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['쥬라기 월드: 도미니언', '쥬라기' 29년史 풍성한 대미]]></title>
+        <id>https://entertain.v.daum.net/v/20220531160900797</id>
+        <link href="https://entertain.v.daum.net/v/20220531160900797"/>
+        <updated>2022-05-31T07:13:16.095Z</updated>
+        <content type="html"><![CDATA[(서울=뉴스1) 고승아 기자 = 29년간 전 세계적인 사랑을 받아온 '쥬라기' 시리즈가 화려한 피날레를 장식한다. '공룡'이라는 소재로 '쥬라기'라는 하나의 브랜드를 완성해내고 전 세계적으로 가장 흥행한 공룡 영화로 자리매김한 '쥬라기' 시리즈가 이번 '쥬라기 월드: 도미니언'으로 풍성한 대미를 장식하는 것이다. 오는 6월1일 우리나라에서 최초 개봉하는]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[박찬욱 감독 "송강호는 함께 일하고 싶은 첫 번째 배우"]]></title>
         <id>https://entertain.v.daum.net/v/20220531150005862</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220531111615223"/>
         <updated>2022-05-31T03:20:15.519Z</updated>
         <content type="html"><![CDATA[[스포츠서울|조은별기자]시작도 끝도 창대했다. 1일 개봉하는 ‘쥬라기 월드:도미니언’은 시리즈의 29년 역사를 집대성하는 할리우드 블록버스터의 좋은 표본이 될 전망이다. 영화는 원조 팬들의 향수를 자극할 ‘쥬라기 공원’시리즈의 앨리 새틀러 박사(로라 던)와 앨런 그랜트 박사(샘 닐), 이안]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['범죄도시2' 손석구x최귀화, '컬투쇼' 출연..찰떡 케미스트리 자랑]]></title>
-        <id>https://entertain.v.daum.net/v/20220531105503135</id>
-        <link href="https://entertain.v.daum.net/v/20220531105503135"/>
-        <updated>2022-05-31T03:20:15.520Z</updated>
-        <content type="html"><![CDATA[[OSEN=김보라 기자]&nbsp;대한민국 대표 범죄 액션 시리즈 영화 '범죄도시2'의 흥행 주역 손석구와 최귀화가 SBS 파워FM '두시탈출 컬투쇼'에 출연한다. 영화 '범죄도시2'(감독 이상용, 제공 에이비오엔터테인먼트, 배급 에이비오엔터테인먼트 메가박스중앙㈜플러스엠, 제작 빅펀치픽쳐스 홍필름 비에이엔터테인먼트)가 전편의 흥행 기록 경신 및 팬데믹 최고 흥행]]></content>
     </entry>
 </feed>
