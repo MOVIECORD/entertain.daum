@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2022-06-01T19:11:39.597Z</updated>
+    <updated>2022-06-01T20:15:14.191Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[벨기에 거장 다르덴 형제 "영화는 약자의 편에서 다른 세상 보여줘야"]]></title>
+        <id>https://entertain.v.daum.net/v/20220602043058343</id>
+        <link href="https://entertain.v.daum.net/v/20220602043058343"/>
+        <updated>2022-06-01T20:14:52.483Z</updated>
+        <content type="html"><![CDATA[칸영화제 경쟁 부문에만 8번 이름을 올렸다. 최고상인 황금종려상을 2차례(‘로제타’ ‘더 차일드’) 수상했다, 심사위원대상(‘자전거 탄 소년’)과 감독상(‘소년 아메드’), 각본상(‘로나의 침묵’)을 각각 한 차례씩 받았다. 올해도 예외는 아니었다. 벨기에를 대표하는 감독인 장 피에르ㆍ뤽 다르덴 형제는 ‘토리와 로키타’로 제75회 칸영화제 경쟁 부문에 초청]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['웅장하고 스릴있게' 쥬라기 시리즈의 마지막 여정]]></title>
         <id>https://entertain.v.daum.net/v/20220602040814145</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220601111734697"/>
         <updated>2022-06-01T03:59:45.648Z</updated>
         <content type="html"><![CDATA[[스포츠조선 문지연 기자] '범죄도시2'가 700만 관객을 돌파했다. 1일 영화 '범죄도시2'가 영진위 통합전산망으로 개봉 14일만에 누적 관객수 7,013,556명을 돌파했다. 14일 연속 박스오피스 1위를 이어간 '범죄도시2'는 개봉 14일만에 700만 관객까지 돌파하며 팬데믹 이후 최고 흥행작 '스파이더맨: 노 웨이 홈'의 700만 돌]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[고객과 사랑에 빠진 웨딩플래너, 의외의 결말]]></title>
-        <id>https://entertain.v.daum.net/v/20220601110001182</id>
-        <link href="https://entertain.v.daum.net/v/20220601110001182"/>
-        <updated>2022-06-01T03:59:45.652Z</updated>
-        <content type="html"><![CDATA[[양형석 기자] 한 번만 경험하면 박사가 될 수 있지만 한 번도 안 해보면 아무것도 모르는 게 있다. 그중 대표적인 게 바로 '군대'와 '결혼'이다. 군대를 다녀오지 않은 사람이 아무리 여기저기서 '주워들은' 이야기로 아는 척하더라도 군대에 다녀온 사람들은 그가 미필인 것을 금방 눈치챌 수 있다. 이와 마찬가지로 결혼을 해보지 않은 사람은 아무리 다방면에서]]></content>
     </entry>
 </feed>

@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/variety</id>
     <title>다음 연예 ─ 뉴스 ─ 예능</title>
-    <updated>2022-06-01T19:11:39.589Z</updated>
+    <updated>2022-06-01T20:15:14.261Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김슬기' 블랙' 게스트 출연, 김해 여고생 살인사건 다룬다]]></title>
+        <id>https://entertain.v.daum.net/v/20220602051102939</id>
+        <link href="https://entertain.v.daum.net/v/20220602051102939"/>
+        <updated>2022-06-01T20:15:03.103Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 박수인 기자] 배우 김슬기가 '블랙' 게스트로 출연한다. 채널A 범죄다큐스릴러 ‘블랙: 악마를 보았다(이하 블랙)’ 측은 “2014년 발생한 ‘김해 여고생 살인사건’을 다룬 ‘블랙’ 15회에 배우 김슬기가 출연한다”고 전했다. ‘김해 여고생 살인사건’은 20대 남성들과 10대 여학생들이 한 여고생을 감금하고 잔혹하게 폭행해 숨지게 한 후 시멘트로]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["본캐만 연매출이 무려 1,765억원" 백종원, 어나더 레벌✭ 3위 등극]]></title>
         <id>https://entertain.v.daum.net/v/20220602040616101</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220601235515115"/>
         <updated>2022-06-01T15:15:22.272Z</updated>
         <content type="html"><![CDATA[[스타뉴스 오진주 기자] /사진=KBS 2TV '요즘것들이 수상해' 방송화면 '요즘것들이 수상해'에서 이경규가 이모티콘 작가 수입을 듣고 딸 예림을 소환했다. 1일 오후 방송된 KBS 2TV 새 예능프로그램 '요즘것들이 수상해'(이하 '요상해')에서는 억 소리 나게 돈을 많이 번다는 '新JOB것들(신잡것들)' 특집으로 6년 차 이모티콘 작가 김나무 씨가]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김영하, 9년 만 신작 "말하고 싶지 않아"..설명 거부 왜?]]></title>
-        <id>https://entertain.v.daum.net/v/20220601235004025</id>
-        <link href="https://entertain.v.daum.net/v/20220601235004025"/>
-        <updated>2022-06-01T15:15:22.275Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 이예진 인턴기자) 김영하 작가가 신작 출간 소감을 털어놨다.&nbsp; 1일 방송된 KBS 2TV 예능 프로그램 ‘옥탑방의 문제아들’에서는 ‘문학계의 그랜드슬램’을 달성한 김영하 작가가 출연했다.&nbsp; 이날 정형돈은 김영하에게 "그게 사실이냐 '최선을 다해 살지 마라'"라며 김영하의 인생 모토를 언급했다. 김영하는 "요새 다들 겪으셨겠지만, 어떤 얘기]]></content>
     </entry>
 </feed>
