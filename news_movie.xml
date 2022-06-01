@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2022-06-01T05:17:14.679Z</updated>
+    <updated>2022-06-01T06:23:07.329Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[데뷔작 '이공삼칠' 홍예지 "5년 뒤엔 '믿보배'라 불리고 싶어요"]]></title>
+        <id>https://entertain.v.daum.net/v/20220601150014562</id>
+        <link href="https://entertain.v.daum.net/v/20220601150014562"/>
+        <updated>2022-06-01T06:22:44.208Z</updated>
+        <content type="html"><![CDATA[[스포츠서울 | 황혜정기자] “5년 뒤에 ‘믿고 보는 배우(믿.보.배)’라 불리고 싶다.” 여리지만 단단함이 느껴졌다. 모든 질문에 차분하고 조리있게 대답하는 모습에서 신인답지 않은 여유가 보였다. 6월 초 개봉 영화 ‘이공삼칠’(모홍진 감독)은 그의 데뷔작이다. 첫 영화에 타이틀롤에 발탁된 것도 모자라 배우 황석정, 김미화, 신은정,]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[로케이션만 112개..당신이 볼 수 있는 모든 공룡의 세계]]></title>
         <id>https://entertain.v.daum.net/v/20220601141011561</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220601090005765"/>
         <updated>2022-06-01T01:11:55.067Z</updated>
         <content type="html"><![CDATA[(서울=뉴스1) 정유진 기자 = *주요 내용을 포함한 스포일러가 있을 수 있습니다. 김치로 만든 스시는 어떤 맛일까. 영화 '브로커'를 본다면 그 맛을 상상해볼 수 있을지도 모르겠다. 고레에다 히로카즈 감독의 첫번째 한국 영화는 보편적이고 따뜻한 주제의식으로 긴 여운을 남기는 반면, 한국 영화에서 보기 어려웠던 분위기와 캐릭터로 낯섦을 느끼게도 한다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['범죄도시2' 700만 돌파..팬데믹 후 최고 흥행작 카운트다운]]></title>
-        <id>https://entertain.v.daum.net/v/20220601081920186</id>
-        <link href="https://entertain.v.daum.net/v/20220601081920186"/>
-        <updated>2022-06-01T01:11:55.069Z</updated>
-        <content type="html"><![CDATA[(서울=뉴스1) 고승아 기자 = 영화 '범죄도시2'(감독 이상용)가 700만 관객을 돌파했다. 1일 영화진흥위원회 영화관 입장권 통합전산망 집계에 따르면 '범죋시2'는 지난달 31일 26만5350명의 관객을 모으며 박스오피스 1위에 올랐다. 누적관객수는 701만3559명을 넘어섰다. '범죄도시2'는 괴물형사 마석도(마동석)와 금천서 강력반이 베트남 일대]]></content>
     </entry>
 </feed>
