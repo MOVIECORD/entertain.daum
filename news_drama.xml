@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-06-08T11:12:31.050Z</updated>
+    <updated>2022-06-08T12:27:30.188Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['황금 가면' 차예련, 결국 유산.."내가 죽인 것" 오열]]></title>
+        <id>https://entertain.v.daum.net/v/20220608202449831</id>
+        <link href="https://entertain.v.daum.net/v/20220608202449831"/>
+        <updated>2022-06-08T12:27:11.528Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 박수민 기자] /사진='황금가면' 방송화면 '황금가면' 차예련이 아이를 유산했다. 8일 오후 방송된 KBS 2TV 일일드라마 '황금가면'에서는 둘째 아이를 유산하는 유수연(차예련 분)의 모습이 담겼다. 이날 강동하(이현진 분)는 유수연을 응급실로 데려갔다. 의사는 유수연의 출혈이 심해 바로 수술해야 한다고 말했고, 강동하는 어쩔 수 없이 보호]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이상엽, 철저하게 정체 숨긴 '서예지' 뒷조사 착수]]></title>
         <id>https://entertain.v.daum.net/v/20220608200721491</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220608161238055"/>
         <updated>2022-06-08T07:12:59.930Z</updated>
         <content type="html"><![CDATA[[OSEN=하수정 기자] 카카오TV 오리지널 '결혼백서' 속 이진욱과 이연희의 결혼 준비 과정이 갑자기 중단될 위기에 놓여 쫀쫀한 긴장감을 안겼다. 이진욱과 윤유선과의 모자 갈등이 예비부부의 싸움으로 번진 것. 결국 "결혼 좀 어렵다"는 이진욱의 불안한 엔딩이 앞으로의 전개에 대한 궁금증을 자아냈다. 지난 7일 공개된 카카오TV 오리지널 ‘결혼백서’(연]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['인사이더' 흑화한 강하늘의 짜릿한 액션 복수극.."영화 같은 흡입력"]]></title>
-        <id>https://entertain.v.daum.net/v/20220608161219042</id>
-        <link href="https://entertain.v.daum.net/v/20220608161219042"/>
-        <updated>2022-06-08T07:12:59.932Z</updated>
-        <content type="html"><![CDATA[[서울경제] '인사이더'가 처절한 복수극으로 짜릿한 카타르시스를 선사한다. 한 남자의 뒤엉킨 욕망을 통해 새로운 액션 서스펜스를 그리겠다는 포부다. 고도의 심리전과 화려한 액션의 절묘한 조화로 복합 장르물의 큰 획을 그을 수 있을지 기대된다. 8일 오후 tvN 새 월화드라마 '인사이더'(극본 문만세/연출 민연홍) 제작발표회가 온라인으로 진행됐다. 자리에는]]></content>
     </entry>
 </feed>
