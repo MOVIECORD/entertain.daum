@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-06-11T10:12:54.557Z</updated>
+    <updated>2022-06-11T11:11:19.124Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['클리닝 업' 감사팀장 장신영 출동, 염정아·전소민 도청기 발각되나]]></title>
+        <id>https://entertain.v.daum.net/v/20220611200232497</id>
+        <link href="https://entertain.v.daum.net/v/20220611200232497"/>
+        <updated>2022-06-11T11:11:01.432Z</updated>
+        <content type="html"><![CDATA['클리닝 업'에서 염정아, 전소민에게 위기가 닥친다. JTBC 토일드라마 '클리닝 업' 측은 11일 스틸을 공개했다. '클리닝 업' 측에 따르면 3회 방송에서는 주식 정보 '싹쓸이'에 나선 어용미(염정아 분)의 수상쩍은 행동이 베스티트 투자증권 법인영업 1팀 팀장 윤태경(송재희 분)에게 들킨 것도 모자라, 감사팀의 팀장 금잔디(장신영 분)까지 출동했다. 산]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이성경·김영대→이정신, '별똥별' 6人 종영 소감..로맨스 결말은?]]></title>
         <id>https://entertain.v.daum.net/v/20220611183903737</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220611140116473"/>
         <updated>2022-06-11T05:11:42.423Z</updated>
         <content type="html"><![CDATA[[스타뉴스 김나연 기자] 한지민 김우빈 / 사진=tvN 우리들의 블루스'우리들의 블루스' 한지민이 김우빈의 부모님과 만난다. 11일 방송되는 tvN 토일드라마 '우리들의 블루스'(극본 노희경·연출 김규태 김양희 이정묵) 19회에서는 단단한 사랑을 확인한 이영옥(한지민 분)과 박정준(김우빈 분)이 또 한번 고비를 넘게 된다. 바로 이영옥이 박정준의 부모님]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["유명 연예인 되는 게 꿈은 아냐"..지찬의 근자감]]></title>
-        <id>https://entertain.v.daum.net/v/20220611135013330</id>
-        <link href="https://entertain.v.daum.net/v/20220611135013330"/>
-        <updated>2022-06-11T05:11:42.424Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 하지원 기자) ([엑's 인터뷰②]에 이어) "유명 연예인이 꿈이 아니에요. 그저 즐겁게 오래 연기를 하고 싶은 바람만 있을 뿐" 지찬은 2014년 드라마 '감격시대 : 투신의 탄생'에서 조연 깝새 역으로 매체 연기를 시작했다. 그간 드라마, 영화, 연극 등 다방면에서 활발히 활약한 지찬은 매 작품 꼼꼼한 분석을 통해 크고 작은 역할을 완]]></content>
     </entry>
 </feed>
