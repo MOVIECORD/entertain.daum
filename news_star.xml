@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2022-06-11T03:42:48.290Z</updated>
+    <updated>2022-06-11T04:17:22.946Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[댄스 예능 봇물.. 제2의 '스우파' 왜 안 나올까]]></title>
+        <id>https://entertain.v.daum.net/v/20220611131053939</id>
+        <link href="https://entertain.v.daum.net/v/20220611131053939"/>
+        <updated>2022-06-11T04:17:17.552Z</updated>
+        <content type="html"><![CDATA['스트릿 우먼 파이터'의 흥행 여파가 너무 짙었던 걸까. '쇼다운' '비 엠비셔스' '플라이 투 더 댄스' '뚝딱이의 역습' 등 댄서들과 춤을 내세운 예능들이 줄을 잇고 있다. 제2의 '스트릿 우먼 파이터'를 노리지만 화제성이나 시청률 모두 예전 같지 않다. 특히 '스트릿 우먼 파이터' 리더들이 거듭 출연하면서 이미지 마모 등 마이너스 요소들이 더욱 짙다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[9년째 구토하는 금쪽이, 오은영이 찾은 원인은?]]></title>
         <id>https://entertain.v.daum.net/v/20220611122400583</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220611110613857"/>
         <updated>2022-06-11T02:56:29.412Z</updated>
         <content type="html"><![CDATA[[윤일희 기자] ▲ &nbsp;tvN 드라마 &lt;우리들의 블루스&gt;의 한 장면.    ⓒ tvN  &nbsp; tvN 드라마 &lt;우리들의 블루스&gt;를 보다, 어린 동석(이병헌)이 엄마에게 귀싸대기를 맞는 장면에서, 나는 내 뺨을 어루만졌다. 예닐곱 살쯤이었나, 나도 엄마에게 저렇게 귀싸대기를 맞은 기억이 떠올랐기 때문이다. 얼마나 아팠었나? 볼의 통각은 가물가물하다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['나혼산' 전현무 또 터졌다, 최고 10.1%]]></title>
-        <id>https://entertain.v.daum.net/v/20220611110017762</id>
-        <link href="https://entertain.v.daum.net/v/20220611110017762"/>
-        <updated>2022-06-11T02:56:29.414Z</updated>
-        <content type="html"><![CDATA[‘나 혼자 산다’ 전현무가 ‘패션 이상형’ 코드 쿤스트와 옷장부터 퍼스널 컬러까지 정복, ‘현골탈태(현무+환골탈태)’에 한 발짝 가까워지며 쉴 틈 없는 웃음을 선물했다. 또 샤이니 키와 ‘91즈’ 민호, 손동운은 함께 불꽃 튀는 불협화음 케미와 도심 속 한강 수상레저로 시청자를 꽉 사로잡았다. 그 결과 ‘나 혼자 산다’의 분당 최고 시청률은 10.1%]]></content>
     </entry>
 </feed>
