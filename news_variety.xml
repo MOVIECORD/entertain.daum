@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/variety</id>
     <title>다음 연예 ─ 뉴스 ─ 예능</title>
-    <updated>2022-06-12T18:14:19.342Z</updated>
+    <updated>2022-06-12T19:10:08.225Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[여에스더 "하루에 영양제 40알 복용.. 한 달 영양제 값만 200만 원"]]></title>
+        <id>https://entertain.v.daum.net/v/20220613040305628</id>
+        <link href="https://entertain.v.daum.net/v/20220613040305628"/>
+        <updated>2022-06-12T19:09:56.157Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 임유리 기자] 여에스더가 하루에 영양제를 약 40알 복용한다고 밝혔다. 12일 오후 방송된 KBS2TV 예능 프로그램 ‘사장님 귀는 당나귀 귀’에서는 여에스더가 집으로 찾아온 직원들을 위해 영양제를 준비하는 모습이 그려졌다. 이날 여에스더가 먹을 영양제는 무려 36알로 모두의 놀라움을 자아냈다. 이에 여에스더는 “우리 직원들은 40]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[으리으리한 침실까지..박군♥한영's 신혼집 최초공개 '예고']]></title>
         <id>https://entertain.v.daum.net/v/20220613030821525</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220612230721459"/>
         <updated>2022-06-12T14:10:55.110Z</updated>
         <content type="html"><![CDATA[[스타뉴스 이시호 기자] /사진=MBC '구해줘 홈즈' 방송 화면 캡처'홈즈' 가수 김현정이 이상형을 공개했다. 12일 방송된 MBC 예능 프로그램 '구해줘 홈즈'(이하 홈즈)에서는 김현정이 복팀 인턴코디로 출연했다. 양세형은 앞서 방송에서 김현정이 자신의 "책받침 스타"였다며 진한 팬심을 밝혀 화제를 모았다. 김현정은 "저희 어머니가 '홈즈' 애청]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김미정, 은퇴 후 찍은 바디프로필..선명한 식스팩에 김성주 깜짝 '작전타임']]></title>
-        <id>https://entertain.v.daum.net/v/20220612230455448</id>
-        <link href="https://entertain.v.daum.net/v/20220612230455448"/>
-        <updated>2022-06-12T14:10:55.110Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 이해정 기자] '작전타임' 김성주가 김미정 감독의 바디프로필에 입을 다물지 못했다. 6월 12일 방송된 KBS 2TV '우리끼리 작전타임'에는 김채은, 김미정, 양준혁이 출연했다. 김성주는 "김미정 심판의 바디프로필 사진이 너무 놀랍더라"며 김미정의 현역 같은 식스팩 몸매를 언급했다. 김미정은 유도 선수 은퇴 이후 국내 첫 여성 유도 국제심]]></content>
     </entry>
 </feed>
