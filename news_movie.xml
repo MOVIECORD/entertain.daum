@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2022-06-12T19:10:08.220Z</updated>
+    <updated>2022-06-12T20:14:08.309Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["엔데믹 스트레스 '범죄도시2'로 끝" 마동석X손석구 천만 감사 인사]]></title>
+        <id>https://entertain.v.daum.net/v/20220613051058231</id>
+        <link href="https://entertain.v.daum.net/v/20220613051058231"/>
+        <updated>2022-06-12T20:13:46.033Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 배효주 기자] '범죄도시2'가 천만 관객을 돌파한 가운데, 마동석과 손석구 등 배우들이 감사 인사를 전했다. 6월 13일 영화진흥위원회 통합전산망 집계에 따르면 지난 주말 기간(10일~12일) 영화 '범죄도시2'(감독 이상용)가 81만7,024명을 동원하며 전체 박스오피스 1위를 차지했다. 누적 관객 1,050만3,875명으로, 1천만을 넘어 1]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['몰입감·언택트·고급화'.. 영화관의 반격]]></title>
         <id>https://entertain.v.daum.net/v/20220613040620644</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220612124455526"/>
         <updated>2022-06-12T04:19:40.909Z</updated>
         <content type="html"><![CDATA[[OSEN=김보라 기자]&nbsp;대한민국 대표 범죄 액션 시리즈 영화 '범죄도시2'가 천만 관객을 돌파한 가운데, 배우 및 제작진 일동이 관객들에게 감사 인사를 전했다. '범죄도시2'(감독 이상용, 제공 에이비오엔터테인먼트, 배급 에이비오엔터테인먼트 메가박스중앙㈜플러스엠, 제작 빅펀치픽쳐스 홍필름 비에이엔터테인먼트)의 제작사 및 제작진, 배우들은 12일 "업계]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["형이 1000만 간다고 했지" 마동석의 원투펀치, 엔데믹 극장가 구했다!]]></title>
-        <id>https://entertain.v.daum.net/v/20220612121904266</id>
-        <link href="https://entertain.v.daum.net/v/20220612121904266"/>
-        <updated>2022-06-12T04:19:40.911Z</updated>
-        <content type="html"><![CDATA[“형이 1000만 관객 간다고 했지?” 마동석의 원투펀치는 강렬했다. 신종코로나바이러스감염증(코로나19)으로 2년 여 동안 신음했던 극장가의 고통을 한 방에 날려버렸다. OTT(온라인 동영상 서비스)시대, 요원해 보이기만 했던 1000만 관객 돌파도 단숨에 해결했다. 마동석 주연 영화 ‘범죄도시2’가 엔데믹 시대 첫 1000만]]></content>
     </entry>
 </feed>
