@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-06-13T13:33:12.036Z</updated>
+    <updated>2022-06-13T14:11:52.481Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['우리는 오늘부터' 성훈, 홍은희에 임수향과 관계 허락 받았다]]></title>
+        <id>https://entertain.v.daum.net/v/20220613225632082</id>
+        <link href="https://entertain.v.daum.net/v/20220613225632082"/>
+        <updated>2022-06-13T14:11:36.271Z</updated>
+        <content type="html"><![CDATA[[TV리포트=이혜미 기자] 성훈이 임수향과의 관계를 이어가기 위해 홍은희를 만났다. 13일 방송된 SBS ‘우리는 오늘부터’에선 은란(홍은희 분)에게 우리(임수향 분)과의 관계를 허락 받는 라파엘(성훈 분)의 모습이 그려졌다. 이날 라파엘이 우리에게 핑크빛 감정을 고백한 가운데 라파엘을 ‘라 서방’으로 인정한 귀녀와 달리 은란은 “너랑 저 사람은 아니야.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['붉은 단심' 강한나, 박지연에 "이준의 아이 임신했다"]]></title>
         <id>https://entertain.v.daum.net/v/20220613223207953</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220613164901753"/>
         <updated>2022-06-13T08:15:43.045Z</updated>
         <content type="html"><![CDATA[[OSEN=최나영 기자] 배우&nbsp;곽시양이 ‘미남당’을 통해 숨겨왔던 러블리한 면모를 발산한다. 오는 27일 오후&nbsp;9시 50분 첫 방송되는 KBS 2TV 새 월화드라마 ‘미남당’(연출 고재현/ 극본 박혜진/ 제작 피플스토리컴퍼니, AD406, 몬스터유니온)은 전직 프로파일러이자 현직 박수무당의 좌충우돌 미스터리 코믹 수사극이다. 곽시양은 극 중 훈훈한 비주]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["모두 행복하세요"..노희경 표 휴머니즘 '우블스', 끝까지 진심이었다]]></title>
-        <id>https://entertain.v.daum.net/v/20220613164619656</id>
-        <link href="https://entertain.v.daum.net/v/20220613164619656"/>
-        <updated>2022-06-13T08:15:43.057Z</updated>
-        <content type="html"><![CDATA[[스포츠서울 | 심언경기자] “우리가 잊지 말아야 할 분명한 사명 하나. 우리는 이 땅에 괴롭기 위해 불행하기 위해 태어난 것이 아니라, 오직 행복하기 위해 태어났다는 것. 모두 행복하세요!” tvN 토일드라마 ‘우리들의 블루스’(노희경 극본· 김규태 연출, 이하 ‘우블스’)가 만인의 행복을 바라며 지난 12일 막을 내렸다. 작품의 골자는]]></content>
     </entry>
 </feed>
