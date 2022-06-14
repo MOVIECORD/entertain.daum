@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/variety</id>
     <title>다음 연예 ─ 뉴스 ─ 예능</title>
-    <updated>2022-06-14T16:18:44.605Z</updated>
+    <updated>2022-06-14T17:17:27.084Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[WSG워너비 반응 뜨겁다..'놀뭐', 土비드라마 TV화제성 4주 연속 1위]]></title>
+        <id>https://entertain.v.daum.net/v/20220615020004842</id>
+        <link href="https://entertain.v.daum.net/v/20220615020004842"/>
+        <updated>2022-06-14T17:17:14.803Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 양유진 기자] MBC ‘놀면 뭐하니?’가 4주 연속 토요일 비드라마 TV화제성 1위를 차지했다. 굿데이터코퍼레이션 자료에 따르면 ‘놀면 뭐하니?’가 6월 2주차 TV화제성 토요일 비드라마 부문에서 18.07%의 점유율로 1위에 올랐다. 또한 ‘놀면 뭐하니?’는 채널 경쟁력을 가늠하는 핵심 지표인 2049 시청률(닐슨코리아 수도권 기준)에서]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[장광, 둘이 합쳐 116살인 김태현과 소원성취..교복 입고 놀이공원 行]]></title>
         <id>https://entertain.v.daum.net/v/20220615011002694</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220614235516028"/>
         <updated>2022-06-14T15:13:42.565Z</updated>
         <content type="html"><![CDATA[[스타뉴스 윤성열 기자] /사진='호적메이트' 방송 화면 '호적메이트'에서 개그맨 이경규가 오랜만에 사돈과 만난 자리에서 어색함을 드러내 웃음을 자아냈다. 14일 오후 방송된 MBC 예능 프로그램 '호적메이트'에서는 딸 예림과 사위 김영찬의 혼인신고를 위해 증인으로 나선 이경규의 모습이 그려졌다. 이날 이경규는 혼인신고를 앞둔 예림과 카페에서 대화를]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[추성훈 "격투기 안 했다면? 깡패됐을 것" 거침없는 입담]]></title>
-        <id>https://entertain.v.daum.net/v/20220614235503026</id>
-        <link href="https://entertain.v.daum.net/v/20220614235503026"/>
-        <updated>2022-06-14T15:13:42.566Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 오수정 기자) ‘돌싱포맨’에서 추성훈이 솔직한 입담으로 웃음을 줬다.&nbsp; 14일 방송된 SBS 예능 프로그램 ‘신발 벗고 돌싱포맨’에서는 격투기 선수 추성훈과 방송인 남창희가 출연해 이야기를 나눴다. 이날 탁재훈은 ‘돌싱포맨’ 멤버들과 이야기하면서 “제주도 집에 평상을 사서 모기장 쳐 놓고 누워있고, 삼겹살도 구워 먹고 그러고]]></content>
     </entry>
 </feed>
