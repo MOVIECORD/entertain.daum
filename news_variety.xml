@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/variety</id>
     <title>다음 연예 ─ 뉴스 ─ 예능</title>
-    <updated>2022-06-14T10:16:48.760Z</updated>
+    <updated>2022-06-14T11:10:59.717Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[유지연 "서울대 가야금 전공? 늦게 시작했는데 공부를 잘했다"]]></title>
+        <id>https://entertain.v.daum.net/v/20220614192927946</id>
+        <link href="https://entertain.v.daum.net/v/20220614192927946"/>
+        <updated>2022-06-14T11:10:49.679Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 조혜진 기자) '기적의 습관' 유지연이 '뇌섹녀'다운 면모를 뽐냈다. 14일 방송된 TV조선 '기적의 습관'에는 배우 유지연이 출연해 일상을 공개했다. 이날 MC들은 유지연을 "연예계 대표 뇌섹녀"라고 소개했다. 유지연은 서울대 국악과 출신으로, 가야금을 전공했다고. 이에 대해 언급하자 유지연은 "사실 가야금을 늦게 시작했는데 공부를 잘했다"]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['기적의습관' 배우 유지연 "서울대 가야금 전공..공부로 전교 1등 졸업"[Oh!쎈 리뷰]]></title>
         <id>https://entertain.v.daum.net/v/20220614191304725</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220614152741271"/>
         <updated>2022-06-14T08:17:25.102Z</updated>
         <content type="html"><![CDATA[[뉴스엔 박아름 기자] ‘벌거벗은 세계사’가 그리스-페르시아 전쟁을 소개한다. 6월 14일 방송되는 tvN ‘벌거벗은 세계사’51회에서는 기원전 490년경, 패권을 잡기 위해 발발된 거대한 제국 페르시아와 작은 도시국가로 흩어져 있던 그리스의 전쟁으로 세계사 여행을 떠난다. 세계사 여행을 안내해줄 선생님으로는 그리스 로마 고전과 그리스의 역사와 철학까지]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['쇼킹받는차트' 랄랄, 리얼한 연기력→폭풍 리액션 '안방극장 장악']]></title>
-        <id>https://entertain.v.daum.net/v/20220614151152663</id>
-        <link href="https://entertain.v.daum.net/v/20220614151152663"/>
-        <updated>2022-06-14T06:16:40.898Z</updated>
-        <content type="html"><![CDATA[[OSEN=박판석 기자]&nbsp;크리에이터 랄랄이 차진 입담과 속 시원한 사이다 발언으로 안방극장에 시원한 웃음을 선사했다. 랄랄은 지난 13일&nbsp;방송된 MBC every1 ‘쇼킹받는 차트’에서 ‘날로 먹다 나락 간 도둑들’을 주제로 다양한 사연들을 소개하며 폭풍 리액션과 함께 공감 능력을 자랑해 시청자들의 이목을 사로잡았다.&nbsp; 이날 방송에서 랄랄은 ‘45년간]]></content>
     </entry>
 </feed>
