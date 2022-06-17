@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/variety</id>
     <title>다음 연예 ─ 뉴스 ─ 예능</title>
-    <updated>2022-06-17T18:15:38.450Z</updated>
+    <updated>2022-06-17T19:11:00.428Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[박민하 "배우 최초의 올림픽 출전이 꿈"..오은영 "자의식 과잉 상태"]]></title>
+        <id>https://entertain.v.daum.net/v/20220618040005391</id>
+        <link href="https://entertain.v.daum.net/v/20220618040005391"/>
+        <updated>2022-06-17T19:10:48.927Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 이승길 기자] 아역배우 겸 사격선수인 박민하가 '최초'에 대한 열망을 나타냈다. 오은영은 이를 우려했다. 17일 방송된 채널A '오은영의 금쪽상담소'에는 방송인 박찬민과 그의 딸이자 아역배우 겸 사격선수인 박민하가 출연했다. 이날 박찬민은 "민하의 자존감이 떨어지는 것 같다. 어릴 때는 당당하고, 당찼다. 부모를 우쭐하게 만들어주는 자식이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[송은이X이연복 '주문을 잊은 음식점2' 아시아 24개국서 만난다]]></title>
         <id>https://entertain.v.daum.net/v/20220618031504361</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220618000708558"/>
         <updated>2022-06-17T15:13:00.295Z</updated>
         <content type="html"><![CDATA[[마이데일리 = 양유진 기자] '나 혼자 산다' 기안84가 이장우의 뮤지컬 포스터를 보고 크게 놀랐다. 17일 방송된 MBC '나 혼자 산다'에서는 생일 맞이 밥차 '역조공'에 나선 이장우의 모습이 공개됐다. 이장우는 뮤지컬 '레베카' 관계자들을 위해 직접 밥차를 준비했다. 혼자서 족발 덮밥 100인분을 요리하겠다며 포부를 밝힌 이장우는 "어릴 때부터]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['나혼산' 이장우, 콜라→배음료 콸콸! 족발덮밥 100인분 푸드트럭 도전!]]></title>
-        <id>https://entertain.v.daum.net/v/20220618000320529</id>
-        <link href="https://entertain.v.daum.net/v/20220618000320529"/>
-        <updated>2022-06-17T15:13:00.295Z</updated>
-        <content type="html"><![CDATA[[OSEN=김예솔 기자] 이장우가 뮤지컬 '레베카' 팀을 위해 족발덮밥 100인분을 준비했다.&nbsp; 17일에 방송된 MBC '나 혼자 산다'에서는 이장우가 동료들을 위해 족발덮밥 100인분을 만들어 푸드트럭을 준비했다.&nbsp; &nbsp; 이날 이장우는 100인분의 식재료를 싣고 푸드트럭에 도전했다. 이장우는 "영화 '아메리칸 셰프'를 보면서 푸드트럭을 해보고 싶은 꿈이]]></content>
     </entry>
 </feed>
