@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-06-23T09:12:36.826Z</updated>
+    <updated>2022-06-23T10:14:28.407Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['음주운전' 김새론, '키스식스센스'  등장..디즈니플러스 "불편드려 죄송"]]></title>
+        <id>https://entertain.v.daum.net/v/20220623181924249</id>
+        <link href="https://entertain.v.daum.net/v/20220623181924249"/>
+        <updated>2022-06-23T10:14:11.889Z</updated>
+        <content type="html"><![CDATA[배우 김새론. 스포츠서울DB    [스포츠서울 | 황혜정기자] 음주운전 사고를 낸 배우 김새론이 드라마 ‘키스식스센스’에 편집 없이 등장해 논란이 일었다. 디즈니플러스 측은 23일 스포츠서울에 김새론의 특별출연과 관련, “‘키스식스센스’는 사전 제작된 드라마다. 특별출연으로 참여한 김새론의 촬영분을 포함한 모든 콘텐츠 제작 및 편집은 사건 발생]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['닥터로이어' 신성록X이주빈, 사랑이야 욕망이야? 붙기만 하면 '스파크' 폭발]]></title>
         <id>https://entertain.v.daum.net/v/20220623181115057</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220623155321752"/>
         <updated>2022-06-23T07:11:48.057Z</updated>
         <content type="html"><![CDATA[[OSEN=최나영 기자]&nbsp;‘징크스의 연인’의 서현과 황석정이 불붙은 판매 경쟁으로 안방극장에 유쾌함을 선사한다. 23일(오늘) 오후&nbsp;9시 50분 방송되는 KBS 2TV 수목드라마 ‘징크스의 연인’(연출 윤상호/ 극본 장윤미) 4회에서는 슬비(서현 분)와 스마일댁(황석정 분)의 피 튀기는 판매 경쟁이 펼쳐진다. 앞서 슬비는 금화그룹 탈출 후 수광(나인우]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['슈퍼밴드2' 시네마 임윤성, '인사이더' OST 가창..오늘 발매]]></title>
-        <id>https://entertain.v.daum.net/v/20220623154849542</id>
-        <link href="https://entertain.v.daum.net/v/20220623154849542"/>
-        <updated>2022-06-23T07:11:48.057Z</updated>
-        <content type="html"><![CDATA[[OSEN=장우영 기자 밴드 ‘시네마(CNEMA)’ 보컬 임윤성이 ‘인사이더’ OST의 첫 번째 주자로 나선다. 임윤성이 참여한 JTBC 수목드라마 ‘인사이더(극본 문만세, 연출 민연홍, 제작 에이스팩토리·SLL)’의 첫 번째 OST ‘Howling (하울링)’이 23일 오후 6시 전 온라인 음원 사이트를 통해 발매된다. ‘Howling’은 웅장한 스케]]></content>
     </entry>
 </feed>
