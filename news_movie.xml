@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2022-06-23T13:36:33.892Z</updated>
+    <updated>2022-06-23T14:13:53.149Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[데뷔 22년 차, '용의자' 이미지 탈피한 박해일 "스스로 토닥여 주고파"]]></title>
+        <id>https://entertain.v.daum.net/v/20220623230901139</id>
+        <link href="https://entertain.v.daum.net/v/20220623230901139"/>
+        <updated>2022-06-23T14:13:30.819Z</updated>
+        <content type="html"><![CDATA[[텐아시아=류예지 기자]"어른들의 이야기를 다뤘어요. 작품 테두리 안에서 그리고 박찬욱 감독님의 세계 안에서 연기를 하게 되면 나라는 배우도 성숙해지는 부분들이 있지 않을까? 생각했어요. 연기를 하며 감정을 드러내고 대사를 하다 보면 말이죠. 그리고 앞으로 작품을 해내감에 있어서 조금 더 유연해지지 않을까? 했어요. 이제는 용의자 이미지를 탈피할 것 같아요]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[다운증후군 배우 정은혜 "저는 멋지고 훌륭한 사람이에요"]]></title>
         <id>https://entertain.v.daum.net/v/20220623220515464</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220623171123125"/>
         <updated>2022-06-23T08:18:25.373Z</updated>
         <content type="html"><![CDATA[(서울=연합뉴스) 김정진 기자 = "못 믿으시겠지만 배우로서 형사 역할이 처음입니다. 지나고 나서 든 생각이지만 아마 이런 캐릭터를 제가 기다리고 있었던 건 아닐까 싶어요." 영화 '헤어질 결심'에서 배우 박해일이 연기한 주인공 해준은 흔히 형사 하면 떠올리는 이미지와는 사뭇 상반된 인물이다. 정장 차림에 검은색 운동화를 신은 해준은 청결하고 섬세하며 배려]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['헤어질 결심' 박해일 "탕웨이와 소통 고민, 마음 열고 대해줘 고마워"]]></title>
-        <id>https://entertain.v.daum.net/v/20220623170947072</id>
-        <link href="https://entertain.v.daum.net/v/20220623170947072"/>
-        <updated>2022-06-23T08:18:25.375Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 김나연 기자] 박해일 / 사진=CJ ENM배우 박해일이 탕웨이와의 호흡을 밝혔다. 23일 서울시 종로구 삼청동의 한 카페에서 영화 '헤어질 결심'의 주연 박해일과 인터뷰를 진행해 다양한 이야기를 나눴다. '헤어질 결심'은 산에서 벌어진 변사 사건을 수사하게 된 형사 '해준'(박해일 분)이 사망자의 아내 '서래'(탕웨이 분)를 만나고 의심과]]></content>
     </entry>
 </feed>
