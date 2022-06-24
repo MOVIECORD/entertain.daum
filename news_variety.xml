@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/variety</id>
     <title>다음 연예 ─ 뉴스 ─ 예능</title>
-    <updated>2022-06-24T16:17:25.225Z</updated>
+    <updated>2022-06-24T17:18:27.373Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["왜 사랑한다고 했어?..들떴는데" 지연수, '독립 선언' 일라이에 실망]]></title>
+        <id>https://entertain.v.daum.net/v/20220625012127078</id>
+        <link href="https://entertain.v.daum.net/v/20220625012127078"/>
+        <updated>2022-06-24T17:18:15.701Z</updated>
+        <content type="html"><![CDATA[[OSEN=이예슬기자] ‘우리 이혼했어요2’ 지연수가 독립을 선언한 일라이에게 진심을 물었다. 24일 밤 10시부터 방송된 TV CHOSUN 리얼 타임 드라마 ‘우리 이혼했어요2(이하 우이혼2)’에서는 재결합을 두고 갈등하는 지연수, 일라이의 모습이 전파를 탔다. 지연수는 유치원에서 돌아온 민수에게 "민수는 언제가 제일 행복했냐"고 물었다. 이에 민수는]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[기안84 "전시회 후 번아웃..분노 치미는데 참아"]]></title>
         <id>https://entertain.v.daum.net/v/20220625011003038</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220625000638600"/>
         <updated>2022-06-24T15:14:48.297Z</updated>
         <content type="html"><![CDATA[[스타뉴스 이빛나리 기자] /사진='나 혼자 산다' 방송화면'나 혼자 산다'에서 박세리가 간식을 구매했다. 24일 오후 방송된 MBC '나 혼자 산다'(이하 '나혼산')에서는 박세리가 디저트 맛집을 찾아다니는 모습이 공개됐다. 이날 박세리는 좋아하는 소금빵을 사기 위해 성수동 디저트 가게를 들렸다. 하지만 자신이 찾는 소금빵은 전부 팔려 어쩔 수 없]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["디저트에 진심" 박세리, 빵지순례→13만 원 결제]]></title>
-        <id>https://entertain.v.daum.net/v/20220625000529584</id>
-        <link href="https://entertain.v.daum.net/v/20220625000529584"/>
-        <updated>2022-06-24T15:14:48.300Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 원민순 기자) 박세리가 빵지순례에 나섰다. 24일 방송된 MBC '나 혼자 산다'에서는 박세리의 휴일 일상이 공개돼 눈길을 끌었다. 이날 박세리는 성수로 이사한 새 집에서 게임에 집중을 했다. 박세리는 생각처럼 잘 되지 않자 "이거 왜 안 되는 거야. 환장하겠네. 이거 왜 못하는 거야. 어떻게 깨냐고"라고 혼잣말을 했다. 승부욕이 폭발한 박세]]></content>
     </entry>
 </feed>
