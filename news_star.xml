@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2022-06-25T07:12:01.211Z</updated>
+    <updated>2022-06-25T08:15:10.479Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['음악중심' 방탄소년단, 출연 없이 싸이·임영웅 꺾고 1위]]></title>
+        <id>https://entertain.v.daum.net/v/20220625163103717</id>
+        <link href="https://entertain.v.daum.net/v/20220625163103717"/>
+        <updated>2022-06-25T08:15:05.693Z</updated>
+        <content type="html"><![CDATA[[스포츠투데이 서지현 기자] 그룹 방탄소년단이 출연 없이 여전한 저력을 과시했다. 25일 오후 방송된 MBC 음악프로그램 '쇼! 음악중심'(이하 '음악중심')에서는 방탄소년단 '옛 투 컴'(Yet to come), 싸이 '댓 댓'(That That), 임영웅 '다시 만날 수 있을까'가 1위 후보에 올랐다. 1위 주인공은 방탄소년단이었다. 일일 MC로 출연한]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김호영과 화해한 옥주현, 갑질논란 해명할까]]></title>
         <id>https://entertain.v.daum.net/v/20220625160856519</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220625133540175"/>
         <updated>2022-06-25T05:12:18.455Z</updated>
         <content type="html"><![CDATA[[OSEN=박소영 기자] 뮤지컬 배우 옥주현이 김호영에 대한 고소를 취하하고 선배들에게 사과의 뜻을 전한 가운데 그의 갑질 논란을 두고 엇갈리는 증언이 나왔다. 유튜버 이진호는 24일 옥주현과 함께 일했던 뮤지컬 스태프의 증언을 토대로 “샤워기 물 낭비 사건에 대해 옥주현이 주연 대기실에서 샤워기를 틀어놓는 건 사실이지만 비상식적으로 오래 틀어놓는 건]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[성유리도 옥주현 지지 "난 떳떳", 스태프 "어떤 사고 쳤는지 다알아..선 넘고 있어"]]></title>
-        <id>https://entertain.v.daum.net/v/20220625132447087</id>
-        <link href="https://entertain.v.daum.net/v/20220625132447087"/>
-        <updated>2022-06-25T05:12:18.456Z</updated>
-        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]그룹 핑클 출신 뮤지컬 배우 옥주현의 '갑질' 의혹이 제기된 가운데, 뮤지컬계에서 추가 폭로가 계속 나오고 있다. 25일 새벽 온라인 커뮤니티 디시인사이드 연극·뮤지컬 갤러리에는 "옥주현 배우님 정말 떳떳하세요?"라고 반문하는 내용의 폭로글이 올라왔다. A 씨는 "옥주현 배우님 정말 떳떳하세요? 동료 배우들만 업계인인 게]]></content>
     </entry>
 </feed>
