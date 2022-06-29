@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-06-29T09:12:55.297Z</updated>
+    <updated>2022-06-29T10:14:36.766Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['우영우' 박은빈 ♥ '갓벽한' 강태오..기발하고 묘한 커플 탄생]]></title>
+        <id>https://entertain.v.daum.net/v/20220629183014724</id>
+        <link href="https://entertain.v.daum.net/v/20220629183014724"/>
+        <updated>2022-06-29T10:14:18.743Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 하지원 기자) '이상한' 박은빈이 '갓벽한' 강태오를 만났다. 묘하고 낯선 두 사람의 케미가 관심을 집중시킨다. 29일 서울 광진구 롯데시네마 건대입구에서 ENA 채널 새 수목드라마 '이상한 변호사 우영우' 제작발표회가 열렸다. 이날 제작발표회에는 배우 박은빈, 강태오, 강기영, 유인식 감독이 참석했다. ‘이상한 변호사 우영우’는 천재적인 두]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[수지 "칭찬 받아 본 적 많지 않아 호평이 낯설어, 제 것 같지 않은 느낌"]]></title>
+        <id>https://entertain.v.daum.net/v/20220629182659618</id>
+        <link href="https://entertain.v.daum.net/v/20220629182659618"/>
+        <updated>2022-06-29T10:14:18.745Z</updated>
+        <content type="html"><![CDATA[쿠팡 플레이의 오리지널 '안나'에서 두 개의 이름으로 극과 극의 삶을 산 여인을 연기한 수지를 만났다. 총 6부작의 시리즈인데 2회까지만 공개된 상황에서 수지의 연기에 대한 호평이 이어지고 있는 작품이다. 수지는 "좋은 기사도 많이 나고, 주변에서도 너무 재미있다고 하시더라. 다음 내용을 물어보는 사람이 많은데 스포를 해줄까 말까 하는 행복한 고민을 하]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[하니, 10살 연상 정신과 의사 양재웅과 열애 중]]></title>
         <id>https://entertain.v.daum.net/v/20220629180624130</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220629165520765"/>
         <updated>2022-06-29T08:18:08.307Z</updated>
         <content type="html"><![CDATA[[스포츠조선 문지연 기자] 배우 강태오가 군입대 전 작품으로 '이상한 변호사 우영우'를 촬영한 소감을 밝혔다. 29일 ENA는 서울 광진구 롯데시네마 건대입구에서 새 수목드라마 '이상한 변호사 우영우'(문지원 극본, 유인식 연출)의 제작발표회를 진행했다. 행사에는 유인식 감독, 박은빈, 강태오, 강기영이 참석했다. 강태오는 "저희가 12월]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['이상한 변호사 우영우' 강기영 "기존과 다른 캐릭터..실험적인 연기"]]></title>
-        <id>https://entertain.v.daum.net/v/20220629164940564</id>
-        <link href="https://entertain.v.daum.net/v/20220629164940564"/>
-        <updated>2022-06-29T08:18:08.309Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 건대입구=안윤지 기자] 배우 강태오, 박은빈, 강기영이 29일 오후 서울 건대입구 롯데시네마에서 진행된 ENA 드라마 '이상한 변호사 우영우' 제작발표회에 참석해 포즈를 취하고 있다.  천재적인 두뇌와 자폐스펙트럼을 동시에 가진 신입 변호사 우영우(박은빈 분)의 대형 로펌 생존기 '이상한 변호사 우영우'는 오늘(29일) 첫 방송된다. /사진제공=]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['우영우' 유인식 감독 "박은빈 매력? 3만8천가지 중 3가지만 꼽자면.."]]></title>
-        <id>https://entertain.v.daum.net/v/20220629163926193</id>
-        <link href="https://entertain.v.daum.net/v/20220629163926193"/>
-        <updated>2022-06-29T08:18:08.311Z</updated>
-        <content type="html"><![CDATA[[스포츠서울 | 황혜정기자] “박은빈 매력? 3만 8천가지 중 3가지만 꼽자면 직관력, 성실성과 책임감, 유머감각.” 29일 서울 광진구 건대입구 롯데시네마에서 ENA채널 ‘이상한 변호사 우영우’ 제작보고회가 진행됐다. 연출을 맡은 유인식 감독과 배우 박은빈, 강태오, 강기영이 참석했다. 유인식 감독은 박은빈 배우의 매력을 3가지만 꼽아달란]]></content>
     </entry>
 </feed>
