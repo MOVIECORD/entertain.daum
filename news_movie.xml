@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2022-06-29T10:14:36.759Z</updated>
+    <updated>2022-06-29T11:12:13.109Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[류준열-천우희-박정민 '머니게임' 크랭크인]]></title>
+        <id>https://entertain.v.daum.net/v/20220629200640706</id>
+        <link href="https://entertain.v.daum.net/v/20220629200640706"/>
+        <updated>2022-06-29T11:11:50.254Z</updated>
+        <content type="html"><![CDATA[[동아닷컴] 류준열-천우희-박정민 ‘머니게임’ 크랭크인 [공식] 드라마 ‘머니게임’이 25일 크랭크인한 가운데 고사 현장 사진이 공개됐다. ‘머니게임’은 배진수 작가의 네이버웹툰 ‘파이게임’과 ‘머니게임’을 합쳐 새롭게 각색한 8부작 시리즈. 사회적 인프라가 단절된 공간 속 사망자가 나오면 게임이 종료되는 극한의 설정 속에서 참가자 8인이 협력과 반목을]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['탑건:매버릭' 8일째 200만..'알라딘'·'보헤미안 랩소디' 보다 빠르다]]></title>
         <id>https://entertain.v.daum.net/v/20220629184930147</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220629144033877"/>
         <updated>2022-06-29T06:16:11.038Z</updated>
         <content type="html"><![CDATA[[스타뉴스 김미화 기자] 김우석 감독, 배우 최웅, 홍수아가 13일 오후 서울 광진구 롯데시네마 건대입구점에서 열린 영화 '감동주의보' 언론시사회 및 기자간담회에 참석해 포즈를 취하고 있다.  ‘감동주의보’는 큰 감동을 받으면 생명이 위험해지는 감동병을 앓고 있는 보영이 착한 시골청년 철기를 만나 꿈과 사랑을 이루어 내는 로맨스 코미디 영화다. 오는 22일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['헤어질 결심 박찬욱 "배경 다른 사람들의 만남과 사랑 얘기"]]></title>
-        <id>https://entertain.v.daum.net/v/20220629143545597</id>
-        <link href="https://entertain.v.daum.net/v/20220629143545597"/>
-        <updated>2022-06-29T06:16:11.038Z</updated>
-        <content type="html"><![CDATA[[OSEN=김보라 기자]&nbsp;제75회 칸 국제영화제 감독상 수상작 '헤어질 결심' 측이 박찬욱 감독의 다채로운 비하인드가 담긴 특별 코멘터리 영상 1탄을 공개했다. 박찬욱 감독의 '헤어질 결심'(배급 CJ ENM, 제작 모호필름)은 산에서 벌어진 변사 사건을 수사하게 된 형사 해준(박해일 분)이 사망자의 아내 서래(탕웨이 분)를 만나고 의심과 관심을 동시에]]></content>
     </entry>
 </feed>
