@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2022-07-03T05:12:27.345Z</updated>
+    <updated>2022-07-03T06:15:52.067Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["얼굴 반쪽 못웃는다"..박지헌·최희, 청력상실 위기+안면마비 고백]]></title>
+        <id>https://entertain.v.daum.net/v/20220703145602350</id>
+        <link href="https://entertain.v.daum.net/v/20220703145602350"/>
+        <updated>2022-07-03T06:15:46.393Z</updated>
+        <content type="html"><![CDATA[[텐아시아=류예지 기자] 투병 사실을 숨기던 과거와 달리 아픔을 당당히 고백한 스타들이 있다. 바로 안면마비 증상을 겪고 있는 최희, VOS 박지헌, 저스틴 비버가 그 주인공이다. 아나운서 출신 방송인 최희는 지난달 자신의 SNS를 통해 대상포진 후유증인 안면마비와 어지럼증, 이석증을 고백했다. 이와 함께 공개된 사진 속 최희는 안면마비 증세로 인해 환]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["안 해본 연기, 드라마 도전"..전종서 '종이의 집'으로 넓히는 활동반경]]></title>
+        <id>https://entertain.v.daum.net/v/20220703141350417</id>
+        <link href="https://entertain.v.daum.net/v/20220703141350417"/>
+        <updated>2022-07-03T06:15:46.394Z</updated>
+        <content type="html"><![CDATA[[스포츠조선 문지연 기자] 배우 전종서가 '종이의 집'으로 활동 반경을 넓혀나간다. 넷플릭스 오리지널 시리즈 '종이의 집 : 공동경제구역'(류용재 극본, 김홍선 연출)은 글로벌 히트작인 스페인 드라마를 리메이크한 작품. 통일을 앞둔 한반도를 배경으로 천재적 전략가와 각기 다른 개성 및 능력을 지닌 강도들이 기상천외한 변수에 맞서며 벌이는 사]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['클리닝 업' 염정아, '꼬리 자르기' 당하나]]></title>
         <id>https://entertain.v.daum.net/v/20220703141207380</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220703112712879"/>
         <updated>2022-07-03T03:28:38.002Z</updated>
         <content type="html"><![CDATA[[뉴스엔 이해정 기자] '라디오쇼' 박명수가 둘째를 갖고 싶은 의사가 있었다고 고백했다. 7월 3일 방송된 KBS 쿨FM '박명수의 라디오쇼'에서는 청취자들의 사연을 소개하는 코너가 꾸며졌다. 이날 한 청취자는 둘째 출산 소식을 전하며 박명수의 축하를 부탁했다. 박명수는 "아이가 주는 기쁨이 얼마나 크냐. 저도 둘째를 갖고 싶었지만 여건이 안 돼서]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박명수 "전자시계 수집하다 가격 계속 떨어져 그만둬"]]></title>
-        <id>https://entertain.v.daum.net/v/20220703111531746</id>
-        <link href="https://entertain.v.daum.net/v/20220703111531746"/>
-        <updated>2022-07-03T03:28:38.003Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 이해정 기자] '라디오쇼' 박명수가 전자시계를 모으다가 관둔 에피소드를 공개했다. 7월 3일 방송된 KBS 쿨FM '박명수의 라디오쇼'에서는 청취자들의 사연을 소개하는 코너가 꾸며졌다. 이날 한 청취자는 "우산 수집하는 취미가 있다. 예쁜 우산을 보면 지나치지 못한다. 쥐팍도 수집하는 게 있냐"고 물었다. 박명수는 "저는 딱히 수집하는 건]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이준호, '도시어부4' 첫방 게스트 출격..'옷소매' 이덕화와 재회]]></title>
-        <id>https://entertain.v.daum.net/v/20220703110806611</id>
-        <link href="https://entertain.v.daum.net/v/20220703110806611"/>
-        <updated>2022-07-03T03:28:38.005Z</updated>
-        <content type="html"><![CDATA[[OSEN=하수정, 지민경 기자] 가수 겸 배우 2PM 이준호가 ‘도시어부4’ 게스트로 출격한다. 3일 방송계 관계자에 따르면 이준호는 채널A 예능 프로그램 '나만 믿고 따라와, 도시어부 시즌4(이하 도시어부4)’ 첫 방송 게스트로 출연한다. 지난 1월 인기리에 종영한 MBC '옷소매 붉은 끝동’에서 극 중 조선의 왕 정조가 되는 세손 이산으로 분해 열]]></content>
     </entry>
 </feed>
