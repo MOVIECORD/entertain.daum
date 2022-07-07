@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2022-07-07T09:22:54.174Z</updated>
+    <updated>2022-07-07T10:24:56.498Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['아우라에 감탄'.. 이현우가 '종이의 집'을 만났을 때]]></title>
+        <id>https://entertain.v.daum.net/v/20220707192347837</id>
+        <link href="https://entertain.v.daum.net/v/20220707192347837"/>
+        <updated>2022-07-07T10:24:50.459Z</updated>
+        <content type="html"><![CDATA[강한 존재감, 혹은 특별한 분위기를 갖고 있는 사람을 볼 때 흔히들 "아우라가 느껴진다"고 한다. 배우 이현우는 '종이의 집: 공동경제구역' 출연자들에게서 아우라를 느꼈다. 전역 후 더욱 성숙해진 모습으로 돌아온 그는 이들의 아우라에 감탄하며 더욱 발전할 자신의 모습을 그렸다. 7일 진행된 화상 인터뷰를 통해 넷플릭스 오리지널 '종이의 집: 공동경제구역'(]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['비밀의 집' 이영은, 서하준 경고에도 "내 일은 알아서 하겠다"]]></title>
+        <id>https://entertain.v.daum.net/v/20220707192125786</id>
+        <link href="https://entertain.v.daum.net/v/20220707192125786"/>
+        <updated>2022-07-07T10:24:50.461Z</updated>
+        <content type="html"><![CDATA[[티브이데일리 김종은 기자] '비밀의 집' 이영은이 서하준의 경고를 무시했다. 7일 저녁 방송된 MBC 일일드라마 '비밀의 집'(극본 원영옥·연출 이민수) 62회에서는 우지환(서하준)과 백주홍(이영은)의 갈등이 펼쳐졌다. 이날 우지환은 함숙진의 방에 있다가 그에게 들키고 말았다. 이에 "이 방에서 뭐 하는 거냐"라고 추궁하자 "대표님께서 방에 계신 줄]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[남주혁 측, '카톡 감옥' 의혹에 "다각도 확인 결과 사실 무근..강경 대응"]]></title>
         <id>https://entertain.v.daum.net/v/20220707182154424</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220707172423561"/>
         <updated>2022-07-07T09:22:49.314Z</updated>
         <content type="html"><![CDATA[[OSEN=박판석 기자]&nbsp;음주 측정 요구에 응하지 않고 경찰관을 폭행해서 1심에서 실형을 선고 받은 래퍼 노엘이 항소심에서도 징역 3년의 실형을 구형 받았다. 7일 서울중앙지방법원 형사항소 4-3부(차은경 양지정 전연숙) 주관으로 노엘의 도로교통법 위반 및 공무집행방해 등의 혐의에 대한 공판이 열렸다. 이날 공판에서 검찰은 1심과 마찬가지로 노엘에게 징]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[로시 "1년 반 갈고닦은 신곡, 돌직구 가사가 핵심"]]></title>
-        <id>https://entertain.v.daum.net/v/20220707172347527</id>
-        <link href="https://entertain.v.daum.net/v/20220707172347527"/>
-        <updated>2022-07-07T09:22:49.314Z</updated>
-        <content type="html"><![CDATA[[동아닷컴] [사진제공 = 도로시컴퍼니]가수 로시가 지난 5일 새 싱글 '체인지드 넘버(Changed Number)'를 발표하고 5개월 만에 컴백했다. 'Changed Number'는 이별 후 전화번호까지 바꿔버린 여자의 마음을 직접적으로 표현한 사이다 이별송이다. 로시는 이번 신보 작곡에 직접 참여하며 한층 자신만의 색을 담은 음악 세계를 펼쳐 보였다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오승훈, '독전2' 주인공 캐스팅.."큰 영광"]]></title>
-        <id>https://entertain.v.daum.net/v/20220707172308510</id>
-        <link href="https://entertain.v.daum.net/v/20220707172308510"/>
-        <updated>2022-07-07T09:22:49.316Z</updated>
-        <content type="html"><![CDATA[[동아닷컴] 배우 오승훈이 넷플릭스 영화 ‘독전 2’에 합류한다. KBS2 월화드라마 '붉은 단심'에서 ‘혜강’ 역으로 섬세한 캐릭터 표현과 탄탄한 연기력으로 존재감을 단번에 드러낸 오승훈이 ‘독전 2’ 주인공 ‘락’ 역으로 출연을 확정, 새로운 연기 변신을 예고해 화제를 모으고 있다. ‘독전 2’는 영화 '뷰티 인사이드'의 연출을 맡았던 백 감독과 '콜]]></content>
     </entry>
 </feed>
