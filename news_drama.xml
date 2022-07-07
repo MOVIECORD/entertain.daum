@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-07-07T20:14:55.435Z</updated>
+    <updated>2022-07-07T21:12:05.416Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['이브' 유선, 밝혀낸 서예지 정체.. "이라엘" 숨멎 긴장감]]></title>
+        <id>https://entertain.v.daum.net/v/20220708060701817</id>
+        <link href="https://entertain.v.daum.net/v/20220708060701817"/>
+        <updated>2022-07-07T21:11:50.484Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 이상은 기자] /사진=tvN ‘이브’ 방송화면 '이브'에서 유선이 서예지의 정체를 알아내 긴장감을 고조시켰다. 지난 7일 방송된 tvN 수목드라마 '이브'에서는 한소라(유선 분)가 이라엘(서예지 분)의 정체를 알아내 남편 강윤겸(박병은 분)에게 알리는 모습이 담겼다. 이날 한소라는 장문희(이일화 분)를 납치 후 감금했다. 이 과정에서 장문희의]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['서현·서예지' 밀어낸 박은빈..'우영우' 시청률, 배로 '껑충']]></title>
         <id>https://entertain.v.daum.net/v/20220708050110504</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220707230134934"/>
         <updated>2022-07-07T14:12:54.743Z</updated>
         <content type="html"><![CDATA[[OSEN=김예솔 기자] 이상엽이 서예지를 보호하려다 칼에 찔렸다.&nbsp; 7일에 방송된 tvN 수목드라마 '이브'에서는 서은평(이상엽)이 이라엘(서예지)를 보호하려다가 대신 피습을 당해 칼에 찔리는 모습이 그려졌다.&nbsp; 이날 강윤겸(박병은)은 기절한 이라엘을 위해 장문희를 불렀다. 장문희는 "라엘씨가 쓰러지는 걸 봤다"라며 이라엘의 자해 흔적을 확인했다. 장]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['이브' 박병은 "더 멀리 도망가자"..흔들리는 서예지]]></title>
-        <id>https://entertain.v.daum.net/v/20220707230019926</id>
-        <link href="https://entertain.v.daum.net/v/20220707230019926"/>
-        <updated>2022-07-07T14:12:54.745Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 이상은 기자] /사진=tvN ‘이브’ 방송화면 '이브'에서 박병은이 서예지에게 모든 것을 포기하고 떠날 것을 제안했다. 7일 방송된 tvN 수목드라마 '이브'에서는 강윤겸(박병은 분)이 이라엘(서예지 분)에게 모든 것을 포기하고 아르헨티나로 떠나자고 고백하는 모습이 담겼다. 이날 강윤겸과 이라엘은 서울을 벗어나 바닷가를 걸었다. 강윤겸은 "우]]></content>
     </entry>
 </feed>
