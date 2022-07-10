@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/variety</id>
     <title>다음 연예 ─ 뉴스 ─ 예능</title>
-    <updated>2022-07-10T17:13:18.000Z</updated>
+    <updated>2022-07-10T18:15:00.842Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["개판이다→진짜 싫어" 돌싱男女들, 혼란에 빠졌다..무슨 일?]]></title>
+        <id>https://entertain.v.daum.net/v/20220711030959509</id>
+        <link href="https://entertain.v.daum.net/v/20220711030959509"/>
+        <updated>2022-07-10T18:14:50.038Z</updated>
+        <content type="html"><![CDATA[[OSEN=김수형 기자] ’돌싱글즈3’에서 본격적인 러브전쟁을 그린 가운데, 예고편부터 흥미로움을 안겼다.&nbsp; 10일 방송된 MBN, ENA 채널 ‘돌싱글즈 시즌3’가 전파를 탔다.&nbsp; 이날 아침이 밝았고, 여자들도 하나 둘씩 일어나 대화를 나눴다.&nbsp; 결혼생활 중 생리현상 얘기를 나누기도.&nbsp;변혜진은 "음식하면 어마어마하게 쌓인 설거지 담당이던 전남편이 네가]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[지연수 "2만원 없어 아들 치킨 못사준 적도..내가 엄마라 미안해"]]></title>
         <id>https://entertain.v.daum.net/v/20220711015046170</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220710235015523"/>
         <updated>2022-07-10T15:13:21.786Z</updated>
         <content type="html"><![CDATA[(엑스포츠뉴스 김예나 기자) '자본주의학교' 지연수가 아들 민수에게 미안함과 고마운 마음을 전했다.&nbsp; 10일 방송된 KBS 2TV '자본주의학교'에서는 3040 창업도전기를 그리는 '자본주의식당' 첫 번째 손님으로 지연수가 나선 모습이 그려졌다.&nbsp; 이날 개그맨 김준현과 맛 칼럼리스트이자 '장사의 신'으로 알려진 김유진 대표가 '자본주의식당' 지원자들의 면접]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[지현우 밝힌 #지리둥절 #연애사 #무소유 라이프]]></title>
-        <id>https://entertain.v.daum.net/v/20220710235009522</id>
-        <link href="https://entertain.v.daum.net/v/20220710235009522"/>
-        <updated>2022-07-10T15:13:21.788Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 이이진 기자) 배우 지현우가 과거 연애사를 언급했다. 10일 방송된 SBS '미운 우리 새끼'에서는 300회 특집으로 꾸며진 가운데 지현우가 특별 게스트로 출연한 장면이 전파를 탔다. 이날 신동엽은 '2021 KBS 연기대상' 대상 수상을 언급했고, "지현우 씨가 작년 연기대상을 받았다. 연말 시상식에서. 지현우 씨가 어리둥절해서 '지리]]></content>
     </entry>
 </feed>
