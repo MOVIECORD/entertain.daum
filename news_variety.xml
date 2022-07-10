@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/variety</id>
     <title>다음 연예 ─ 뉴스 ─ 예능</title>
-    <updated>2022-07-10T18:15:00.842Z</updated>
+    <updated>2022-07-10T19:10:09.982Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['출장스페셜' 송강호, 나영석에 "요새 뭐하시냐"→이병헌 "피디하시지"]]></title>
+        <id>https://entertain.v.daum.net/v/20220711032515518</id>
+        <link href="https://entertain.v.daum.net/v/20220711032515518"/>
+        <updated>2022-07-10T19:10:00.998Z</updated>
+        <content type="html"><![CDATA[[OSEN=오세진 기자' '출장스페셜' 송강호와 이병헌의 남다른 티키타카가 웃음을 자아냈다. 10일 오후 방영한 tvN 예능 '출장스페셜X비상선언' 편에서는 영화 비상선언(감독 한재림)의 주연 배우들 송강호, 이병헌, 김남길, 김소진, 박해준, 임시완이 등장, 감독 한재림도 함께 했다. 전도연은 스케줄 상 불참하게 돼 입간판으로 등장했다. 송강호는 등장]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["개판이다→진짜 싫어" 돌싱男女들, 혼란에 빠졌다..무슨 일?]]></title>
         <id>https://entertain.v.daum.net/v/20220711030959509</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220710235019524"/>
         <updated>2022-07-10T15:13:21.786Z</updated>
         <content type="html"><![CDATA[(엑스포츠뉴스 이지은 인턴기자) '돌싱글즈3'의 변혜진이 김민건과의 데이트를 약속 후 한정민에 대한 호감을 표했다. 10일 방송된 MBN, ENA '돌싱글즈3'에서는 김민건과 한정민을 사이에 둔 변혜진의 로맨스 라인이 시선을 사로잡았다. 이날 돌싱들은 '새벽 6시 등산 데이트' 공지를 확인했다. 새벽 여섯시 사랑방 앞으로 두 명 이상의 돌싱이 모이면 진행된]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["엄마라서 미안"..지연수, 월세살이+투잡 워킹맘 구구절절]]></title>
-        <id>https://entertain.v.daum.net/v/20220710235015523</id>
-        <link href="https://entertain.v.daum.net/v/20220710235015523"/>
-        <updated>2022-07-10T15:13:21.786Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 김예나 기자) '자본주의학교' 지연수가 아들 민수에게 미안함과 고마운 마음을 전했다.&nbsp; 10일 방송된 KBS 2TV '자본주의학교'에서는 3040 창업도전기를 그리는 '자본주의식당' 첫 번째 손님으로 지연수가 나선 모습이 그려졌다.&nbsp; 이날 개그맨 김준현과 맛 칼럼리스트이자 '장사의 신'으로 알려진 김유진 대표가 '자본주의식당' 지원자들의 면접]]></content>
     </entry>
 </feed>
