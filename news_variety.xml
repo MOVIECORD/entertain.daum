@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/variety</id>
     <title>다음 연예 ─ 뉴스 ─ 예능</title>
-    <updated>2022-07-12T08:18:36.250Z</updated>
+    <updated>2022-07-12T09:23:23.032Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['더쇼' 1위 후보, 엔하이픈 vs 프로미스나인 vs 우주소녀 맞대결]]></title>
+        <id>https://entertain.v.daum.net/v/20220712180753181</id>
+        <link href="https://entertain.v.daum.net/v/20220712180753181"/>
+        <updated>2022-07-12T09:23:10.254Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 오윤주 기자] 그룹 엔하이픈과 프로미스나인, 우주소녀가 1위 트로피를 놓고 경쟁한다. 12일 오후 방송된 SBS MTV·SBS FiL '더 쇼'에서는 7월 셋째 주 1위 후보가 발표됐다. 후보에는 엔하이픈 '퓨처 퍼펙트(Future Perfect (Pass the MIC))', 프로미스나인 '스테이 디스 웨이(Stay This Way)',]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[영탁, 11세도 안 봐주는 불꽃 승부욕.. "잠깐 눌러주겠다"]]></title>
+        <id>https://entertain.v.daum.net/v/20220712172358594</id>
+        <link href="https://entertain.v.daum.net/v/20220712172358594"/>
+        <updated>2022-07-12T09:23:10.265Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 이지은 인턴기자) 영탁이 김태연의 도발에 강한 승부욕을 보였다. 12일 방송되는 TV조선 '화요일은 밤이 좋아'에서는 김태연이 영탁을 지목해 대결을 펼친다. 이날 방송에서는 TV조선 '미스터트롯'의 주역 김희재 팀과 영탁 팀으로 나뉘어 '전영록 가요제'를 펼친다.&nbsp;데뷔&nbsp;50주년을 맞이한 전영록은 음악 저작권 협회에 등록된 곡만 무려&nbsp;284곡인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[허경환 "'과거 러브라인' 오나미·김지민 결혼..리모컨 떨어트려"]]></title>
         <id>https://entertain.v.daum.net/v/20220712171506304</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220712161727963"/>
         <updated>2022-07-12T08:18:24.277Z</updated>
         <content type="html"><![CDATA[[스타뉴스 이덕행 기자] /사진=tvN'유 퀴즈 온 더 블럭'이 재정비 시간을 가진다. tvN 측은 12일 "'유 퀴즈 온 더 블럭'이 오는 7월 20일 방송 이후 여름 방학을 보내고 10월 5일 다시 돌아올 예정이다"라고 전했다. 그간 두 차례 재정비 시간을 가졌던 '유퀴즈' 측은 "팬데믹이라는 이례적인 상황 속에서 자기님들의 뜨거운 사랑 덕분에 2]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MSG 워너비 '듣고 싶을까', 원래 김종국 노래?.."지석진이 낚아채"]]></title>
-        <id>https://entertain.v.daum.net/v/20220712161721956</id>
-        <link href="https://entertain.v.daum.net/v/20220712161721956"/>
-        <updated>2022-07-12T08:18:24.278Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 이지은 인턴기자) 김종국이 지석진에게 곡을 빼앗긴 사연을 공개한다. 13일 방송되는 KBS 2TV '옥탑방의 문제아들'에서는 KCM과 지상렬이 게스트로 출격한다. 이날 방송에서 KCM은 김종국과 듀엣곡을 부를 뻔한 사연을 공개한다. MBC '놀면 뭐하니?' 속 MSG 워너비 M.O.M의 '듣고 싶을까'가 원래는 김종국과 KCM의 듀엣곡이었다고]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[유재석x조세호, 잠시만 안녕..'유퀴즈' 여름방학 후 10월 컴백]]></title>
-        <id>https://entertain.v.daum.net/v/20220712161604901</id>
-        <link href="https://entertain.v.daum.net/v/20220712161604901"/>
-        <updated>2022-07-12T08:18:24.283Z</updated>
-        <content type="html"><![CDATA[[OSEN=박소영 기자] tvN '유 퀴즈 온 더 블럭'이 여름방학에 들어간다. tvN 측은 12일 “'유 퀴즈 온 더 블럭'이 오는 7월 20일(수) 방송 이후 여름 방학을 보내고 10월 5일(수)에 다시 돌아올 예정”이라고 알렸다. 2개월 반 동안 제작진과 MC진 모두 재정비한 다음 귀환할 계획이다. 지난 2018년 8월 29일 시작해 꾸준한 사랑을]]></content>
     </entry>
 </feed>
