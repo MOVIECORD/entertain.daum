@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-07-15T15:16:09.239Z</updated>
+    <updated>2022-07-15T16:19:06.696Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['오수재' 허준호, 서현진에 "넌 지승현 절대 잡지 못해..지승현 딸은 네 친 딸"]]></title>
+        <id>https://entertain.v.daum.net/v/20220716003600400</id>
+        <link href="https://entertain.v.daum.net/v/20220716003600400"/>
+        <updated>2022-07-15T16:18:51.591Z</updated>
+        <content type="html"><![CDATA[[SBS연예뉴스 | 김효정 에디터] 허준호가 서현진에게 충격적인 비밀을 털어놓았다. 15일 방송된 SBS '왜 오수재인가'(이하 '오수재')에서는 최태국을 만나러 온 오수재의 모습이 그려졌다. 이날 방송에서 오수재는 전나정의 살인 사건이 일어난 날에 대해 말했다. 그는 "10년 전 2012년 9월 4일 영평 지구에서 백골로 발견된 전나정이 죽었던 날, 그날]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['오수재' 서현진, "그 놈들 잡게 도와달라" 애원하는 김창완 외면]]></title>
         <id>https://entertain.v.daum.net/v/20220716000910250</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220715202701590"/>
         <updated>2022-07-15T12:25:39.845Z</updated>
         <content type="html"><![CDATA[[텐아시아=신지원 기자]'황금 가면' 이중문이 차예련에게 아직까지 미련이 있음을 밝혔다. 15일 오후 7시 50분에 방송된 KBS 2TV 일일드라마 '황금 가면'에서는 유수연(차예련 분)이 홍진우(이중문 분)과 아이를 보려 나서자 서유라(연민지 분)의 표정이 굳어졌다. 이날 홍진우는 서준이를 강제로 데려오겠다며 소송을 걸려는 차화영(나영희 분)을 말렸다]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['비밀의 집' 장항선, 서하준에게 건넨 유전자 검사 결과? '불일치']]></title>
-        <id>https://entertain.v.daum.net/v/20220715195915081</id>
-        <link href="https://entertain.v.daum.net/v/20220715195915081"/>
-        <updated>2022-07-15T11:11:02.158Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 이빛나리 기자] /사진='비밀의 집' 방송화면'비밀의 집'에서 장항선이 서하준에게 유전사 검사지를 직접 확인하게 했다. 15일 오후 방송된 MBC 일일드라마 '비밀의 집'에서는 남흥식(장항선 분)은 우지환(서하준 분)에게 죽은 아들이 함숙진(이승연 분) 전에 만났던 우지환의 엄마 안경선(윤복인 분)의 존재를 숨긴 채 유전자 검사지를 건넸다.]]></content>
     </entry>
 </feed>
