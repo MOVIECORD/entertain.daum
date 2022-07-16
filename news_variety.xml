@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/variety</id>
     <title>다음 연예 ─ 뉴스 ─ 예능</title>
-    <updated>2022-07-16T17:12:44.029Z</updated>
+    <updated>2022-07-16T18:15:45.066Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['아는 형님' 세븐, 빅뱅에 쓴소리 아끼지 않은 이유? "애들 한 갖고 있어"]]></title>
+        <id>https://entertain.v.daum.net/v/20220717031410163</id>
+        <link href="https://entertain.v.daum.net/v/20220717031410163"/>
+        <updated>2022-07-16T18:15:14.067Z</updated>
+        <content type="html"><![CDATA[[OSEN=오세진 기자] ‘아는 형님’ 가수 세븐이 빅뱅에게 과한 쓴소리를 마다하지 않았던 이유를 밝혔다. 16일 방영된 JTBC 예능 ‘아는 형님’에서는 춤의 대가 세븐이 출연했다. 세븐은 한때 소속사 직속 후배인 빅뱅에게 다정한 형이면서 잔소리 대마왕이었다고.&nbsp;세븐은 “데뷔 전의 일이다. 빅뱅한테 쓴소리를 아끼지 않았다. 어느 날 애들 전화번호를 봤]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["효리는 뭘해도 예뻐" 이상순, ♥이효리라면 단발도 좋아]]></title>
         <id>https://entertain.v.daum.net/v/20220717010824015</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220716235003637"/>
         <updated>2022-07-16T15:12:31.436Z</updated>
         <content type="html"><![CDATA[(엑스포츠뉴스 이슬 기자) 고은아가 건강검진을 하며 '임신 가능성' 문항에 멈칫했다. 16일 방송된 KBS 2TV '빼고파'는 3개월 동안 건강한 식단과 꾸준한 운동을 실천한 멤버들의 최종 모습이 공개됐다. 3개월 전 고은아는 술을 물처럼 마시고, 심한 역류성 식도염으로 식사 조차 어려운 상태였다. 이날 어머니와 병원을 찾은 고은아는 건강검진을 받았다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[일주어터 "중학교 때 단식원..덴마크 다이어트는 등심 세 장씩"]]></title>
-        <id>https://entertain.v.daum.net/v/20220716234930634</id>
-        <link href="https://entertain.v.daum.net/v/20220716234930634"/>
-        <updated>2022-07-16T15:12:31.436Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 이슬기 기자] 일주어터가 나쁜 다이어트 경험에 대해 말했다. 7월 16일 방송된 KBS 2TV 예능 '빼고파'에서는 멤버들의 빼프터(빼고파+에프터) 일상이 그려졌다. 이날 일주어터는 운영 중인 카페에서 김신영표 해독 주스를 만들어 먹으며 일상을 보내고 있었다. 과거보다 확실히 날씬해진 일주어터의 모습은 감탄을 자아냈다. 김신영은 직접 일주어터의]]></content>
     </entry>
 </feed>
