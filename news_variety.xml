@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/variety</id>
     <title>다음 연예 ─ 뉴스 ─ 예능</title>
-    <updated>2022-07-18T10:20:25.787Z</updated>
+    <updated>2022-07-18T11:16:37.415Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[송해나, 달걀장어덮밥 맛에 먹요정 등극.."쫄깃한 장어를 부드러운 계란이 감싸줘"]]></title>
+        <id>https://entertain.v.daum.net/v/20220718201301974</id>
+        <link href="https://entertain.v.daum.net/v/20220718201301974"/>
+        <updated>2022-07-18T11:16:26.247Z</updated>
+        <content type="html"><![CDATA[[텐아시아=신지원 기자]'줄 서는 식당' 모델 송해나가 장어 한 마리가 올라간  달걀장어구이덮밥에 감탄했다. 18일 방송된 tvN 예능프로그램 '줄 서는 식당'에서는 박나래와 입 짧은 해님, 모델 송해나가 방이동에 달걀장어구이덮밥집을 향한 모습이 그려졌다. 이날 박나래와 입 짧은 햇님은 강풍에 폭우까지 쏟아지는 날씨에도 줄을 서야 하는 식당을 보고]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[지상렬X황제성, 라디오 론칭인데..소통도, 준비도 부족]]></title>
         <id>https://entertain.v.daum.net/v/20220718185004825</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220718161142794"/>
         <updated>2022-07-18T07:12:12.069Z</updated>
         <content type="html"><![CDATA[[스타뉴스 윤성열 기자] 코미디언 황제성이 18일 오후 진행된 SBS 라디오 파워FM·러브AM 새 프로그램 론칭 기자간담회를 위해 포즈를 취하고 있다. 파워FM은 개그맨 황제성이 진행하는 '황제파워'를, 러브FM은 지상렬이 맡은 '뜨거우면 지상렬'을 편성한다. /사진제공=SBS 2022.07.18 /사진=이동훈 기자 photoguy@SBS 파워FM '황제성]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['스케치북' 측 "유희열 하차 입장 받아들여, 방송 중단"]]></title>
-        <id>https://entertain.v.daum.net/v/20220718160653574</id>
-        <link href="https://entertain.v.daum.net/v/20220718160653574"/>
-        <updated>2022-07-18T07:12:12.072Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 이민지 기자] '스케치북'이 종영한다. KBS 2TV '유희열의 스케치북' 제작진은 7월 18일 공식 홈페이지를 통해 "MC 유희열 씨가 프로그램에서 하차하겠다는 공식 입장을 밝혔다. 이에 KBS는 하차 의사를 받아들이기로 했다"고 전했다. 이어 "섭외와 방청 신청이 완료된 2022년 7월 22일 방송분까지 정상 방송하고, 이후부터는 '유희열의]]></content>
     </entry>
 </feed>
