@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/variety</id>
     <title>다음 연예 ─ 뉴스 ─ 예능</title>
-    <updated>2022-07-18T08:18:01.179Z</updated>
+    <updated>2022-07-18T09:13:39.835Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[박기영·알리·손승연, '골때녀'서 만난다..신생팀 출격]]></title>
+        <id>https://entertain.v.daum.net/v/20220718175442566</id>
+        <link href="https://entertain.v.daum.net/v/20220718175442566"/>
+        <updated>2022-07-18T09:13:27.087Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 최희재 기자) 대표 발라더 박기영, 알리, 손승연이 '골 때리는 그녀들'에 출연한다. 18일 엑스포츠뉴스 취재 결과 박기영, 알리, 손승연이 SBS 예능 '골 때리는 그녀들'(이하 '골때녀') 신생팀 'FC 발라드림'의 멤버로 출연한다. FC 발라드림은 대표 발라더들이 모인 신생 팀으로, 오는 20일 방송에서 멤버들의 정체와 리그 합류 소감을]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['셋째 임신' 손은주♥문종인, 생계 위해 창업→자학 "이대로는 망해"]]></title>
         <id>https://entertain.v.daum.net/v/20220718171328305</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220718155520169"/>
         <updated>2022-07-18T07:12:12.078Z</updated>
         <content type="html"><![CDATA[[스타뉴스 윤성열 기자] 코미디언 황제성이 18일 오후 진행된 SBS 라디오 파워FM·러브AM 새 프로그램 론칭 기자간담회를 위해 포즈를 취하고 있다. 파워FM은 개그맨 황제성이 진행하는 '황제파워'를, 러브FM은 지상렬이 맡은 '뜨거우면 지상렬'을 편성한다. /사진제공=SBS 2022.07.18 /사진=이동훈 기자 photoguy@SBS 파워FM '황제성]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["장딴지 터지게 걷겠다" '동네 한 바퀴' 이만기X나문희, 국민교양 시즌2 잇는다]]></title>
-        <id>https://entertain.v.daum.net/v/20220718155339083</id>
-        <link href="https://entertain.v.daum.net/v/20220718155339083"/>
-        <updated>2022-07-18T07:12:12.080Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 한해선 기자] /사진=KBS 국민 예능 '동네 한 바퀴'가 김영철, 나문희의 새로운 조합으로 대한민국의 동네를 천천히 탐방한다. 18일 오후 서울 영등포 파크원 스위치22에서 KBS 1TV 교양프로그램 '동네 한 바퀴' 시즌2(이하 '동네 한 바퀴2')제작발표회가 열렸다. 최인성PD, 이만기, 나문희가 참석했다. '동네 한 바퀴'는 속도]]></content>
     </entry>
 </feed>
