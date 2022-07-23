@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/variety</id>
     <title>다음 연예 ─ 뉴스 ─ 예능</title>
-    <updated>2022-07-23T06:15:59.562Z</updated>
+    <updated>2022-07-23T07:12:44.095Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[죽음 몰고 오는 반지→비명 지르는 해골..오싹한 여름 특집 '차달남']]></title>
+        <id>https://entertain.v.daum.net/v/20220723160255354</id>
+        <link href="https://entertain.v.daum.net/v/20220723160255354"/>
+        <updated>2022-07-23T07:12:03.655Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 이슬기 기자] 무더위를 날려버릴 오싹한 사연 차트가 소개됐다. 7월 23일 방송된 KBS Joy ‘차트를 달리는 남자’에서는 ‘여름 특집 제1탄, 불운의 연속 저주받은 물건들’ 순위가 공개됐다. 1위는 죽음을 몰고 온다는 저주받은 반지가 소개됐다. 1920년대를 풍미했던 배우 루돌프 발렌티노는 31세의 젊은 나이에 사망했는데, 사망 이후 그가 반]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이수영, 가족 사고 전화 회상에 오열 "살아있을까 했지만.."]]></title>
+        <id>https://entertain.v.daum.net/v/20220723155411273</id>
+        <link href="https://entertain.v.daum.net/v/20220723155411273"/>
+        <updated>2022-07-23T07:12:03.657Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 박수인 기자] 가수 이수영이 고민을 털어놓는다. 7월 22일 방송된 채널A '오은영의 금쪽상담소' 예고편에서는 이수영이 상담소 고객으로 등장했다. 예고편 영상 속 이수영은 "노래를 시작하려고 하는 순간 아무것도 보이지 않고 들리지도 않고, 노래를 어떻게 했는지 모르고 끝나버렸다. 사실 어떻게 불렀는지 기억이 안 난다"며 무대가 무섭다고 고백했다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['최강야구' 유희관, 동의대와 3차전 압도적 복수 다짐]]></title>
         <id>https://entertain.v.daum.net/v/20220723151517888</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220723114144985"/>
         <updated>2022-07-23T03:27:42.168Z</updated>
         <content type="html"><![CDATA[[OSEN=박판석 기자]&nbsp;tvN ‘뿅뿅 지구오락실’이 자체 최고 시청률을 경신하며 4주 연속 동시간대 전채널 타깃 시청률 1위를 이어나갔다. 지난 22일(금) 오후&nbsp;8시 50분에 방송된 ‘뿅뿅 지구오락실(연출 나영석, 박현용)’ 5회 시청률은 수도권 가구 기준 3.9%, 최고 5.4%, 전국 가구 기준 평균 2.9%, 최고 4.1%를 기록했다. tvN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['원조 서머퀸' 씨스타, '유스케' 600회서 완전체 출연 "8년전 기억나"]]></title>
-        <id>https://entertain.v.daum.net/v/20220723111001653</id>
-        <link href="https://entertain.v.daum.net/v/20220723111001653"/>
-        <updated>2022-07-23T03:27:42.170Z</updated>
-        <content type="html"><![CDATA[[텐아시아=류예지 기자]씨스타가 '원조 서머퀸' 면모를 드러냈다. 지난 22일 방송된 KBS 2TV '유희열의 스케치북' 600회에 소유, 효린, 보라, 다솜이 씨스타 완전체로 출연했다. 이날 유희열은 "우리들의 여름날을 정말 뜨겁게 시원하게 행복하게 해줬던, 여름 하면 떠오르는 그 노래의 주인공. 5년 만에 완전체로 한자리에 모여준 그룹"이라며 씨스타]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['지구오락실' 첫 인물퀴즈에 자체 최고 시청률 경신]]></title>
-        <id>https://entertain.v.daum.net/v/20220723110859634</id>
-        <link href="https://entertain.v.daum.net/v/20220723110859634"/>
-        <updated>2022-07-23T03:27:42.171Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 박수인 기자] '뿅뿅 지구오락실'이 자체 최고 시청률을 경신했다. 7월 22일 방송된 tvN ‘뿅뿅 지구오락실(연출 나영석, 박현용)’ 5회 시청률은 수도권 가구 기준 3.9%, 최고 5.4%, 전국 가구 기준 평균 2.9%, 최고 4.1%를 기록했다. tvN 타깃인 2049 시청률은 수도권 기준 평균 3%, 최고 4.2%, 전국 기준 타깃 시청]]></content>
     </entry>
 </feed>
