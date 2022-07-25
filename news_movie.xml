@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2022-07-25T03:43:26.244Z</updated>
+    <updated>2022-07-25T04:44:10.261Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[아끼던 돼지가 식탁에.. 새 시각 담은 영화 '군다']]></title>
+        <id>https://entertain.v.daum.net/v/20220725134224676</id>
+        <link href="https://entertain.v.daum.net/v/20220725134224676"/>
+        <updated>2022-07-25T04:43:45.556Z</updated>
+        <content type="html"><![CDATA[[이학후 기자] ▲ &lt;군다&gt;&nbsp;영화의 한 장면    ⓒ 영화사 진진  최근 공장식 축산과 무자비한 도축에 대해 경종을 울리는 다큐멘터리 영화가 활발히 관객과 만나고 있다. 인간의 이기심 때문에 희생당하는 인간 외의 종들의 현실을 고찰한 &lt;지구생명체&gt;(2005), 거대기업이 지배하는 식품 산업의 이면을 파헤친 &lt;푸드 주식회사&gt;(2008), 공장식]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[임영웅, '비상선언' VIP 시사회 뜬다]]></title>
+        <id>https://entertain.v.daum.net/v/20220725133831492</id>
+        <link href="https://entertain.v.daum.net/v/20220725133831492"/>
+        <updated>2022-07-25T04:43:45.576Z</updated>
+        <content type="html"><![CDATA[임영웅(사진=물고기뮤직)[이데일리 스타in 박미애 기자] 임영웅이 데뷔 이후 첫 VIP 시사회에 뜬다 임영웅은 25일 오후 7시 서울 삼성동 메가박스 코엑스에서 열리는 영화 ‘비상선언’(감독 한재림) VIP 시사회에 참석한다. 임영웅은 영화 측 초대로 이날 생애 첫 VIP 시사회를 참석하게 됐다. 송강호 이병헌 전도연 등 평소 좋아하는 배우들이 다 출연하]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[방탄소년단 진, 코엑스 뜬다..'비상선언' VIP 시사회 참석]]></title>
         <id>https://entertain.v.daum.net/v/20220725121231856</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220725110146980"/>
         <updated>2022-07-25T03:43:03.675Z</updated>
         <content type="html"><![CDATA[[스포츠조선 조지영 기자] 전쟁 액션 영화 '한산: 용의 출현'(이하 '한산', 김한민 감독, 빅스톤픽쳐스 제작)이 사전 예매율 15만장을 돌파, 역대급 흥행을 예고했다. '한산'은 개봉 2일 전인 25일 오전 11시께, 영진위 통합전산망 기준 예매율 41.9%, 사전 예매량 15만1120장을 돌파, 2022년 최고 흥행작 '범죄도시2'의 1]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[마블, 비장의 카드 '페이즈5·6' 내밀었지만 반응은 싸늘]]></title>
-        <id>https://entertain.v.daum.net/v/20220725105607679</id>
-        <link href="https://entertain.v.daum.net/v/20220725105607679"/>
-        <updated>2022-07-25T03:43:03.678Z</updated>
-        <content type="html"><![CDATA[[티브이데일리 김종은 기자] 마블시네마틱유니버스(MCU)가 비장의 카드를 내놨지만 반응이 예전 같지 않다. 페이즈4에 접어든 뒤부터 계속해 실망감만 선사해온 마블이기에 팬들은 기대감보다는 우려가 더 큰 상황이다. MCU는 23일(현지시간) 미국 캘리포니아 샌디에이고주에서 열린 '샌디에이고 코믹콘2022'에서 페이즈5와 페이즈6 라인업을 공개했다. 그러면서]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['한산', '기생충' 이후 한국영화 최다 사전 예매 신기록 '15만 눈앞']]></title>
-        <id>https://entertain.v.daum.net/v/20220725104236021</id>
-        <link href="https://entertain.v.daum.net/v/20220725104236021"/>
-        <updated>2022-07-25T03:43:03.682Z</updated>
-        <content type="html"><![CDATA[[OSEN=하수정 기자]&nbsp;올여름 관객들에게 압도적인 승리의 쾌감을 전할 영화 '한산: 용의 출현'이 개봉 2일 앞두고 영진위 통합전산망, CGV, 롯데시네마, 메가박스 등 대한민국 극장 예매 사이트에서 모두 압도적 1위를 석권하며 본격적인 흥행 출항을 예고한다. 영화 '한산: 용의 출현'은 개봉 2일 전인 오전 9시 30분 기준, 예매율 41.2%, 사]]></content>
     </entry>
 </feed>
