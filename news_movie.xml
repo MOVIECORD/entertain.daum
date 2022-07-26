@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2022-07-26T10:16:12.159Z</updated>
+    <updated>2022-07-26T11:11:23.506Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[故 김기덕 감독, 제79회 베니스국제영화제 비경쟁 부문 초청]]></title>
+        <id>https://entertain.v.daum.net/v/20220726195750439</id>
+        <link href="https://entertain.v.daum.net/v/20220726195750439"/>
+        <updated>2022-07-26T11:11:01.490Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 양유진 기자] 감독 고(故) 김기덕의 영화가 베니스국제영화제 비경쟁 부문에 이름을 올렸다. 베니스국제영화제 측은 26일(현지시간) 오는 8월 31일부터 9월 10일까지 열리는 제79회 영화제의 초청작을 발표했다. 발표에 따르면 고 김 감독이 연출한 '콜 오브 갓(CALL OF GOD)'이 '룩 앳 미(LOOK AT ME)', '더 매치]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[故 김기덕 유작, 베니스영화제 비경쟁부문 초청]]></title>
         <id>https://entertain.v.daum.net/v/20220726191302146</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220726170017363"/>
         <updated>2022-07-26T08:16:24.319Z</updated>
         <content type="html"><![CDATA[[뉴스엔 허민녕 기자] ‘헤결사.’ 이 팬덤을 일컫는 신조어도 ‘탑친자’ 이상으로 운율이 끝내준다. 박찬욱 감독의 역작 ‘헤어질 결심’에 그야말로 미친 자들. 그 ‘헤결사’들이 일을 내고 있는 중이다. 150만은 숫자에 불과할 뿐 N차 관람이 빚어낸 엄청난 좌석 점유율로 극장 장기 상영 모드에 들어가게 했고, 영화의 근원이자 파생 콘텐츠 격인 각본집을]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['비상선언', 현실과 오버랩..시국과 만난 재난 영화 ①]]></title>
-        <id>https://entertain.v.daum.net/v/20220726170006346</id>
-        <link href="https://entertain.v.daum.net/v/20220726170006346"/>
-        <updated>2022-07-26T08:16:24.354Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 김미화 기자] /사진='비상선언' 포스터 영화 '비상선언'이 항공 재난이라는 초유의 재난 속에 놓인 현실적인 인간들의 모습을 선보였다. '비상선언'(감독 한재림)은 사상 초유의 항공테러로 무조건적 착륙을 선포한 비행기와 재난에 맞서는 사람들의 이야기다. 비행공포증이 있는 재혁(이병헌 분)은 딸의 심한 아토피 치료를 위해 하와이로 향한다. 하와이]]></content>
     </entry>
 </feed>
