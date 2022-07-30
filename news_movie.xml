@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2022-07-30T03:45:07.031Z</updated>
+    <updated>2022-07-30T04:34:13.683Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['헌트', 빈틈·숨 쉴 틈 없는 '수작']]></title>
+        <id>https://entertain.v.daum.net/v/20220730130001647</id>
+        <link href="https://entertain.v.daum.net/v/20220730130001647"/>
+        <updated>2022-07-30T04:33:51.594Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 김나연 기자] [편집자주] 영화를 보는 김나연 기자의 사적인 시선 헌트 / 사진=영화 스틸컷신념과 신념이 부딪히는 쫓고 쫓기는 사냥터. 이정재와 정우성이 뜨겁고 강렬하게 부딪히는 영화 '헌트'는 빈틈도, 숨 쉴 틈도 없다. 영화 '헌트'는 조직 내 숨어든 스파이를 색출하기 위해 서로를 의심하는 안기부 요원 '박평호'와 '김정도'가 '대한민국]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[100만↑ '한산:용의 출현', 원톱 박해일 일조]]></title>
         <id>https://entertain.v.daum.net/v/20220730123807564</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220730083435191"/>
         <updated>2022-07-30T01:04:53.661Z</updated>
         <content type="html"><![CDATA[[OSEN=최나영 기자]&nbsp;영화 '한산: 용의 출현'(김한민 감독)이 개봉 첫 주 토요일이 되자마자 100만 관객을 돌파했다. 영화진흥위원회 통합전산망 기준 영화 '한산: 용의 출현'이 7월 30일(토) 오전 7시, 100만 관객을 돌파했다. 개봉 첫 주, 주말 아침을 맞자마자 100만 관객을 돌파한 '한산: 용의 출현'은 이 기세를 몰아 파죽지세의 흥행]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[요즘 극장가 대박·쪽박 간극 커졌다..이유는]]></title>
-        <id>https://entertain.v.daum.net/v/20220730080015923</id>
-        <link href="https://entertain.v.daum.net/v/20220730080015923"/>
-        <updated>2022-07-29T23:14:12.316Z</updated>
-        <content type="html"><![CDATA[(서울=뉴스1) 정유진 기자 = 여름 영화 '빅4'라 부를 수 있는 대형 배급사 텐트폴 영화들이 연이어 개봉을 했거나 개봉을 앞두고 있다. 첫번째 작품이었던 최동훈 감독의 영화 '외계+인' 1부가 지난 20일 개봉했다. 일주일 뒤인 지난 27일부터는 이순신 장군의 한산대첩 '한산: 용의 출현'(감독 김한민)이 관객들과 만나고 있다. 이어 송강호, 이병헌]]></content>
     </entry>
 </feed>
