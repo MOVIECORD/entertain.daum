@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-08-03T20:16:13.669Z</updated>
+    <updated>2022-08-03T21:13:05.124Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['징크스의 연인' 우영우에 밀리고 길 잃은 전개에 치이고]]></title>
+        <id>https://entertain.v.daum.net/v/20220804054539587</id>
+        <link href="https://entertain.v.daum.net/v/20220804054539587"/>
+        <updated>2022-08-03T21:12:50.178Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 박정민 기자] 침체된 KBS 수목드라마에 좋은 기운을 불어넣는가 했더니 씁쓸한 종영을 맞이할 위기에 처했다. KBS 2TV '징크스의 연인' 이야기다. KBS 2TV 수목드라마 '징크스의 연인'(극본 장윤미/연출 윤상호)은 1회 시청률 3.9%를 기록하며 순조로운 출발을 알렸다. 어두웠던 원작보다 밝아진 분위기, 주인공 서현과 나인우의 케미스트리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[진경, 주종혁에 박은빈 무너뜨릴 제안 "한바다 그만두게 만들면.."]]></title>
         <id>https://entertain.v.daum.net/v/20220804051305240</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220803223512127"/>
         <updated>2022-08-03T13:36:06.193Z</updated>
         <content type="html"><![CDATA[[OSEN=김예솔 기자] 박은빈이 로또 당첨금 분배 소송을 맡게 됐다.&nbsp; 3일 방송된 ENA채널 '이상한 변호사 우영우'에서는 우영우(박은빈)이 신일수(허동원)의 로또 당첨금 분배 소송을 담당해 승소했지만 권선징악을 목격했다.&nbsp; 이날 신일수는 아내 성은지(박지연)와 함께 한바다를 찾았다. 신일수는 도박장에서 만난 지인들과 로또를 구입했고 당첨되면 금액을]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['황금가면' 이중문, 母 나영희에 분노→전처 차예련에 "사랑해"]]></title>
-        <id>https://entertain.v.daum.net/v/20220803205640586</id>
-        <link href="https://entertain.v.daum.net/v/20220803205640586"/>
-        <updated>2022-08-03T12:26:59.303Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 이상은 기자] /사진=KBS 2TV 일일드라마 '황금가면' 방송화면'황금가면'에서 이중문이 나영희와 갈등 후 차예련을 찾아가 용서를 구하며 고백했다. 3일 오후 방송된 KBS 2TV 일일드라마 '황금 가면'에서는 SA 그룹 홍진우(이중문 분) 사장이 어머니 차화영(나영희 분)에 분노한 뒤 전처 유수연(차예련 분)을 찾아가 용서를 비는 모습이 담]]></content>
     </entry>
 </feed>
