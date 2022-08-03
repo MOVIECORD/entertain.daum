@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-08-03T10:14:53.464Z</updated>
+    <updated>2022-08-03T11:12:36.771Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[나영희, 박찬환과 선우은숙 데이트 목격.."여자가 있었어" 분노]]></title>
+        <id>https://entertain.v.daum.net/v/20220803200549726</id>
+        <link href="https://entertain.v.daum.net/v/20220803200549726"/>
+        <updated>2022-08-03T11:12:21.857Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 오승현 인턴기자) '황금가면' 나영희가 박찬환과 선우은숙이 함께 있는 것을 본 후 박찬환에게 여자가 있었다고 오해했다. 3일 방송된 KBS 2TV 일일드라마 '황금가면'에서는 차화영(나영희 분)이 유수연(차예련)의 친모인 김혜경(선우은숙)과 홍선태(박찬환)이 함께 시간을 보내는 모습을 목격했다. 이를 보고 집에 돌아온 차화영은 서유라(연민지)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['안나', 수지 인생작 됐는데..쿠팡vs감독 충돌로 '오점' 남나]]></title>
         <id>https://entertain.v.daum.net/v/20220803185002052</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220803162337846"/>
         <updated>2022-08-03T08:18:09.284Z</updated>
         <content type="html"><![CDATA[[스포츠서울 | 정하은기자]쿠팡 오리지널 드라마 ‘안나’가 흥행 이면의 민낯이 드러났다. OTT(온라인 동영상 서비스) 쿠팡플레이 시리즈 ‘안나’를 둘러싸고 작품 훼손과 저작인격권 침해 논란이 불거졌다. 해당 작품의 연출과 각본을 맡은 이주영 감독과 쿠팡플레이 측이 편집권을 놓고 갈등을 빚고 있다는 사실이 지난 2일 알려진 것. ‘안]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한소희, '경성크리처' 촬영 중 부상.."수술 받을 정도 아냐"]]></title>
-        <id>https://entertain.v.daum.net/v/20220803161317440</id>
-        <link href="https://entertain.v.daum.net/v/20220803161317440"/>
-        <updated>2022-08-03T08:18:09.284Z</updated>
-        <content type="html"><![CDATA[한소희(사진=이데일리DB)[이데일리 스타in 김가영 기자] 배우 한소희가 ‘경성크리처’ 촬영 중 부상을 당했다. 3일 한소희 소속사 9ato 관계자는 이데일리에 “촬영 중 부상 맞고 즉시 인근 병원으로 이동해서 응급치료 받았다”며 “다행히 큰 부상은 아니어서 꿰메거나 수술을 받을 정도는 아니다”고 전했다. 이어 “현재 치료를 잘 받고 휴식 중”이라고 설명]]></content>
     </entry>
 </feed>
