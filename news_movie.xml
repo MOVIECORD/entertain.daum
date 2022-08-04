@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2022-08-04T19:13:01.443Z</updated>
+    <updated>2022-08-04T20:18:17.935Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["자랑스런 아들"..'청춘스타' 아이돌파=엔싸인, 데뷔 하자마자 1억원 획득]]></title>
+        <id>https://entertain.v.daum.net/v/20220805051407908</id>
+        <link href="https://entertain.v.daum.net/v/20220805051407908"/>
+        <updated>2022-08-04T20:18:00.480Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 배효주 기자] 5월부터 시작된 '청춘스타' 대장정, 1억 원의 주인공은 역시 아이돌파였다. 8월 4일 방송된 채널A '청춘스타'에서는 파이널 생방송 무대에 임하는 톱7의 모습이 담겼다. 이날 아이돌파 7인이 뭉쳐 만든 팀의 새로운 이름, '엔싸인'이 공개됐다. 새 그룹 결성을 발표한 당일에 최종 우승을 거머쥐며 성공적인 데뷔전을 치렀다. 이날]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["첫 연출에 내 모든 것 쏟아내.. 절친 정우성 사고초려 끝 출연"]]></title>
         <id>https://entertain.v.daum.net/v/20220804202503344</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220804161500065"/>
         <updated>2022-08-04T08:20:00.251Z</updated>
         <content type="html"><![CDATA[“우리의 대화는 왜 지금 여기 있는 걸까?” 우리 젊은 날의 수수께끼다. 우연과 필연이 교차하는 순간의 경이로움을 그려낸다. 시네필들이 열광할 만한 ‘모퉁이’(감독 신선)다. 영화 '모퉁이'가 4일 오후 서울 용산 아이파크몰 CGV에서 열린 언론시사회를 통해 베일을 벗었다. 이날 자리에는 신선 감독을 비롯해 이택근 하성국 박봉준 황미영 백수희가 참석했다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이정현 주연 '리미트' 8월17일→31일 개봉일 변경]]></title>
-        <id>https://entertain.v.daum.net/v/20220804161347029</id>
-        <link href="https://entertain.v.daum.net/v/20220804161347029"/>
-        <updated>2022-08-04T08:20:00.251Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 배효주 기자] 이정현 주연 '리미트'가 개봉일을 변경했다. 영화 '리미트'(감독 이승준)는 아동 연쇄 유괴사건 피해자 엄마의 대역을 맡은 생활안전과 소속 경찰 ‘소은’(이정현)이 사건을 해결하던 도중 의문의 전화를 받으면서 최악의 위기에 빠지게 되는 범죄 스릴러로, 당초 8월 17일로 예정했던 개봉일을 31일로 변경했다. '리미트'는 일찍이 이정]]></content>
     </entry>
 </feed>
