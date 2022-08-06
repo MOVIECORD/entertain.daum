@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/variety</id>
     <title>다음 연예 ─ 뉴스 ─ 예능</title>
-    <updated>2022-08-06T08:16:03.026Z</updated>
+    <updated>2022-08-06T09:12:12.778Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[여에스더 "각방, 각집살이하니 홍혜걸과 안 싸워"]]></title>
+        <id>https://entertain.v.daum.net/v/20220806172828709</id>
+        <link href="https://entertain.v.daum.net/v/20220806172828709"/>
+        <updated>2022-08-06T09:12:03.441Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 이슬기 기자] 여에스더가 남다른 금슬 비법으로 웃음을 준다. 8월 7일 KBS 2TV 예능 ‘사장님 귀는 당나귀 귀’(이하 ‘당나귀 귀’)에서는 여에스더의 힐링 ‘건강콘서트’ 현장이 그려진다. 이날 3년 만에 열린 대면 ‘건강콘서트’에서 갱년기 관련 질문을 받은 여에스더는 "제가 갱년기 증상이란 증상은 다 겪었다"며 경험에서 우러나온 건강한 갱년]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[엄현경, ♥짝사랑남에 돌발 고백 "미래의 남편이었으면"]]></title>
         <id>https://entertain.v.daum.net/v/20220806171349552</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220806141528027"/>
         <updated>2022-08-06T06:15:33.777Z</updated>
         <content type="html"><![CDATA[[뉴스엔 이슬기 기자] 김구라가 김민종을 위해 '복면가왕'을 쉬어갈지 주목된다. 8월 7일 방송되는 여름 특집 MBC ‘복면가왕(연출 김선영)’에서는 무더위를 날릴 복면가수들의 시원한 듀엣곡 대결이 펼쳐진다. 내일 ‘90년대 청춘스타’ 김민종이 ‘복면가왕’에 최초로 등장한다. 그는 각별한 사이인 한 복면가수에 대한 힌트를 주기 위해 ‘복면가왕’과의 전화]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이경규, 집 나간 어복 되찾을까 "향어에 이어서 참돔"]]></title>
-        <id>https://entertain.v.daum.net/v/20220806141218012</id>
-        <link href="https://entertain.v.daum.net/v/20220806141218012"/>
-        <updated>2022-08-06T06:15:33.780Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 이슬기 기자] 이경규의 어복에 시선이 쏠린다. 8월 6일 방송되는 채널A 예능프로그램 ‘나만 믿고 따라와, 도시어부 시즌4’(이하 ‘도시어부4’)에서는 태안에서의 참패를 만회하기 위해 라이머와 함께 인천 영흥도에서 참돔 리벤지 매치를 펼친다. 굴욕적인 ‘생꽝’ 전적에 이를 갈아온 도시어부 팀은 그 어느 때보다 승부욕을 불태우며 호기롭게 바다에 나]]></content>
     </entry>
 </feed>
