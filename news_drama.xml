@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-08-07T10:13:51.375Z</updated>
+    <updated>2022-08-07T11:11:53.078Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['현재는 아름다워' 박지영, 가족들에 친부 정체 고백 '오열']]></title>
+        <id>https://entertain.v.daum.net/v/20220807201053081</id>
+        <link href="https://entertain.v.daum.net/v/20220807201053081"/>
+        <updated>2022-08-07T11:11:36.815Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 이이진 기자) '현재는 아름다워' 박지영이 박인환과 부녀 관계라는 사실을 밝혔다. 7일 방송된 KBS 2TV '현재는 아름다워' 38회에서는 진수정(박지영 분)이 이경철(박인환)이 친부라는 사실을 밝힌 모습이 그려졌다. 이날 진수정은 이경철을 만나고 귀가했고, 윤정자(반효정)와 현진헌(변우민) 앞에서 오열했다. 윤정자는 "너 친부모님 또 만나]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이재욱, 22년 전 왕비 환혼 흔적 추적]]></title>
         <id>https://entertain.v.daum.net/v/20220807190121228</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220807114306119"/>
         <updated>2022-08-07T03:20:06.319Z</updated>
         <content type="html"><![CDATA['우영우' 이정은, 카멜레온 같은&nbsp;'변신의 귀재' [OSEN=최나영 기자] ENA 수목드라마 '이상한 변호사 우영우'가 연일 화제를 모으고 있는 가운데 매화마다 특별출연하고 있는 다양한 배우들이 주목받고 있다. 그중 지난 28일 방송된 10회 '손잡기는 다음에' 편에서 우영우(박은빈 분)에게 첫 패소를 안긴 피해자 어머니로 SNS와 커뮤니티에서 숱하게]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김세정, 보기만해도 기분좋은 여배우로는 1등]]></title>
-        <id>https://entertain.v.daum.net/v/20220807105551269</id>
-        <link href="https://entertain.v.daum.net/v/20220807105551269"/>
-        <updated>2022-08-07T03:20:06.330Z</updated>
-        <content type="html"><![CDATA[[OSEN=최나영 기자]&nbsp;배우 김세정이 청정 캐릭터를 구축하며 시청자들의 감탄을 자아냈다. 지난&nbsp;5, 6일&nbsp;방송된&nbsp;SBS&nbsp;금토드라마&nbsp;‘오늘의 웹툰’(극본 조예랑,&nbsp;이재은/연출 조수원,&nbsp;김영환)에서는 나강남(임철수 분)의 연재 펑크를 막기 위해 고군분투 하는 온마음(김세정 분)의 이야기가 그려졌으며,&nbsp;신입사원이 겪게되는 고충을 생동감있게 표현해 시청자들의]]></content>
     </entry>
 </feed>
