@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/variety</id>
     <title>다음 연예 ─ 뉴스 ─ 예능</title>
-    <updated>2022-08-09T16:18:06.223Z</updated>
+    <updated>2022-08-09T17:17:16.505Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[박경혜, 조인성에 심쿵한 사연→'모가디슈' 핑크빛 스토리 공개]]></title>
+        <id>https://entertain.v.daum.net/v/20220810020207058</id>
+        <link href="https://entertain.v.daum.net/v/20220810020207058"/>
+        <updated>2022-08-09T17:17:04.791Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 양유진 기자] 배우 박경혜가 '라디오스타'에 출연해 영화 '모가디슈' 촬영 중 심장을 부여잡게 한 조인성의 심쿵 멘트를 공개한다. 또 '모가디슈' 해외 촬영지에서 생긴 영화보다 더 영화 같은 핑크빛 스토리를 들려줘 시선을 강탈할 예정이다. 10일 밤 10시 30분 방송 예정인 MBC '라디오스타'는 진서연, 최덕문, 박명훈, 박경혜가]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['고딩엄빠' 정태익, 통신비 30만원→렌탈비 최다? 이혜리♥김윤배에 경고 "완전 사치"]]></title>
         <id>https://entertain.v.daum.net/v/20220810011307957</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220809235725483"/>
         <updated>2022-08-09T15:14:15.597Z</updated>
         <content type="html"><![CDATA[박세리가 '돌싱포맨' 출연 이유를 밝혔다. 8월 9일 방송된 SBS '신발 벗고 돌싱포맨'에서는 골프선수 출신 박세리가 게스트로 출연했다. 이날 박세리는 "엄마가 '돌싱포맨' 나간다고 하니까, '네가 거길 왜 나가?' 하시더라. 돌싱들만 나가는 줄 아신 거다"면서 웃음을 안겼다. 이상민은 "박세리 씨가 '돌싱포맨'에 나온 이유를 아시냐? 영웅이기]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이혜리 "2만원 치킨 시켜 먹어 통장 0원, 子 병원비 없어서..적금 깼다"]]></title>
-        <id>https://entertain.v.daum.net/v/20220809235527475</id>
-        <link href="https://entertain.v.daum.net/v/20220809235527475"/>
-        <updated>2022-08-09T15:14:15.598Z</updated>
-        <content type="html"><![CDATA[[마이데일리 = 김나라 기자] '고딩엄빠2'에서 이혜리, 김윤배 부부가 단 돈 2만 원 때문에 적금을 깼다고 고백했다. 9일 오후 방송된 종합편성채널 MBN '고딩엄빠2' 10회에선 고3에 부모가 되어 이제는 자녀 셋을 둔 이혜리, 김윤배 부부가 재출연했다. 이날 이혜리는 "청년 희망 적금을 모았었는데 어제 깼다. 아들을 병원에 데려가야 하는데 돈이 없었]]></content>
     </entry>
 </feed>
