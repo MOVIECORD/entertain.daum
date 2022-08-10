@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-08-10T20:14:43.948Z</updated>
+    <updated>2022-08-10T21:12:57.784Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['우영우' 하윤경·주종혁, 러브라인 예감? 강기영, 고통 호소하며 쓰러져]]></title>
+        <id>https://entertain.v.daum.net/v/20220811060113172</id>
+        <link href="https://entertain.v.daum.net/v/20220811060113172"/>
+        <updated>2022-08-10T21:12:42.550Z</updated>
+        <content type="html"><![CDATA[[OSEN=김예솔 기자] 하윤경과 주종혁이 새로운 러브라인을 예고했다.&nbsp; 10일에 방송된 ENA '이상한 변호사 우영우'에서는 한바다 변호사들이 제주도로 향한 가운데 권민우(주종혁)와 최수연(하윤경)이 묘한 러브라인을 형성해 눈길을 끌었다.&nbsp; 앞서 정명석(강기영)은 각혈을 하고 병원을 찾아 검사를 받고 결과를 들었다. 이후 정명석은 예전보다 좀 달라진]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[강기영, 재판 중에 쓰러져.. 대체 무슨 일?]]></title>
         <id>https://entertain.v.daum.net/v/20220811051305715</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220810234838617"/>
         <updated>2022-08-10T15:13:29.435Z</updated>
         <content type="html"><![CDATA[하윤경이 ‘가장’ 주종혁 모습에 혼란스러워했다. 10일(수) 방송된 ENA채널 수목드라마 ‘이상한 변호사 우영우’(연출 유인식/극본 문지원) 13회에서 우영우(박은빈)가 문화재 관람료 징수에 대한 ‘부당 이득금 반환 청구 소송’을 맡아 한바다 변호사들과 함께 제주도로 떠난 이야기가 펼쳐졌다. 이날 우영우, 이준호(강태오), 최수연(하윤경), 권민우(주]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['우영우' 강기영, 이혼 고백→건강 적신호..또 쓰러져 '충격']]></title>
-        <id>https://entertain.v.daum.net/v/20220810230938297</id>
-        <link href="https://entertain.v.daum.net/v/20220810230938297"/>
-        <updated>2022-08-10T14:12:06.825Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 이예진 인턴기자) 강기영이 재판 중 고통을 호소하며 쓰러졌다. 10일 방송된 ENA 수목드라마 '이상한 변호사 우영우' 13회에서는 문화재 관람료 징수에 대한 부당 이득금 반환 청구 소송을 맡아 한바다 변호사들과 함께 제주도로 떠나는 모습이 그려졌다. 이날 정명석(강기영 분)은 건강에 이상이 있는 모습으로 병원을 방문했다. 이후 정명석은 한바]]></content>
     </entry>
 </feed>
