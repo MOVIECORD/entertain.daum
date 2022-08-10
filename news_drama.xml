@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-08-10T10:14:16.761Z</updated>
+    <updated>2022-08-10T11:11:30.070Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['황금가면' 이현진, 난간에 매달린 위기의 차예련 구했다]]></title>
+        <id>https://entertain.v.daum.net/v/20220810200718076</id>
+        <link href="https://entertain.v.daum.net/v/20220810200718076"/>
+        <updated>2022-08-10T11:11:16.307Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 이상은 기자] /사진=KBS 2TV 일일드라마 '황금가면' 방송화면 '황금가면'에서 이현진이 위기에서 차예련을 구했다. 10일 오후 방송된 KBS 2TV 일일드라마 '황금 가면'에서는 강동하(이현진 분)가 의문의 전화로 위험에 빠진 유수연(차예련 분)을 구하는 모습이 담겼다. 이날 유수연은 아버지의 죽음을 알고 있다는 제보 전화를 받고 어디]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[최수영 "지창욱·성동일, 망설임 없었다..애드리브 끊이지 않아"]]></title>
         <id>https://entertain.v.daum.net/v/20220810185004712</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220810152721644"/>
         <updated>2022-08-10T07:12:09.465Z</updated>
         <content type="html"><![CDATA[(엑스포츠뉴스 황수연 기자) 배우 성동일이 '당신이 소원을 말하면' 폭우로 인한 교통 통제로 제작발표회에 지각했다.&nbsp; 10일 온라인을 통해 KBS 2TV 새 수목드라마 '당신이 소원을 말하면'(이하 '당소말') 제작발표회가 진행됐다. 이 자리에는 김용완 감독, 지창욱, 성동일, 최수영, 원지안이 참석했다.&nbsp; '당신이 소원을 말하면'은 삶의 끝에 내몰린 위태]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['당소말' 시청자가 주인공인 힐링 드라마가 온다]]></title>
-        <id>https://entertain.v.daum.net/v/20220810152536563</id>
-        <link href="https://entertain.v.daum.net/v/20220810152536563"/>
-        <updated>2022-08-10T07:12:09.467Z</updated>
-        <content type="html"><![CDATA[삶과 죽음의 경계에 선 사람들이 감동을 전하는 힐링 드라마가 찾아온다. 10일 KBS2 새 수목드라마 ‘당신이 소원을 말하면’(‘당소말’)의 온라인 제작발표회가 열렸다. 지창욱, 성동일, 최수영, 원지안, 김용완 감독이 자리에 참석해 드라마 첫 방송을 앞둔 소감을 드러냈다. ‘당소말’은 삶의 끝에 내몰린 위태로운 청년이 호스피스 병원에서 사람들의 마지]]></content>
     </entry>
 </feed>
