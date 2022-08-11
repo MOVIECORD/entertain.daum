@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2022-08-11T06:21:59.440Z</updated>
+    <updated>2022-08-11T07:15:45.970Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[주원 "목욕탕 노출신만 언급? 아쉽지 않아..신선했다면 충분"]]></title>
+        <id>https://entertain.v.daum.net/v/20220811155011663</id>
+        <link href="https://entertain.v.daum.net/v/20220811155011663"/>
+        <updated>2022-08-11T07:15:25.444Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 김유진 기자) 배우 주원이 주연작 '카터'에 대한 애정과 연기를 향한 남다른 열정을 함께 밝혔다. 주원은 11일 오후 온라인으로 진행된 넷플릭스 영화 '카터'(감독 정병길) 인터뷰에서 다양한 이야기를 전했다. '카터'는 의문의 작전에 투입된 카터가 주어진 시간 안에 자신을 되찾고 미션을 성공시켜야만 하는 이야기를 담은 영화다. 주원은 기억을]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[끊임없는 교미, 출산, 착유.. 우리가 외면한 젖소 루마의 삶]]></title>
         <id>https://entertain.v.daum.net/v/20220811152102279</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220811120145387"/>
         <updated>2022-08-11T03:15:24.751Z</updated>
         <content type="html"><![CDATA[넷플릭스 영화 '카터'로 동양적 색채가 가득한 원테이크 액션을 선보인 정병길 감독을 만났다. 정병길 감독은 '악녀'로 통념을 깨는 액션과 연출로 호평받은 바 있다. 그의 차기작 '카터'는 주원을 원톱으로 내세워 액션 영화의 새로운 패러다임을 열었다. 이번 작품으로 처음 OTT에 도전한 정병길 감독은 "액션 장면이 스펙터클해서 극장에서 공개되었다면 더]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[주원 "'카터' 호불호 반응, 다 봤고 공감해"]]></title>
-        <id>https://entertain.v.daum.net/v/20220811120026300</id>
-        <link href="https://entertain.v.daum.net/v/20220811120026300"/>
-        <updated>2022-08-11T03:15:24.751Z</updated>
-        <content type="html"><![CDATA[OTT플랫폼 넷플릭스 새 영화 ‘카터’ 주연인 배우 주원이 작품에 대한 호불호 반응에 대해 솔직히 답했다. 주원은 11일 오전 진행된 ‘스포츠경향’과 인터뷰에서 가장 기억에 남는 평가를 묻자 “‘카터’에 대한 많은 평가들을 다 봤다. 왜 그렇게 생각하는지 다 공감한다”고 밝혔다. 그는 “호불호가 갈릴 건 처음 이 대본을 받았을 때부터 예상했던 부분이]]></content>
     </entry>
 </feed>
