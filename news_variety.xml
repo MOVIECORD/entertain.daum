@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/variety</id>
     <title>다음 연예 ─ 뉴스 ─ 예능</title>
-    <updated>2022-08-14T18:15:10.012Z</updated>
+    <updated>2022-08-14T19:11:01.028Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김혜정 "발달장애 큰子, 자폐증 있어..아들 위해 출연"]]></title>
+        <id>https://entertain.v.daum.net/v/20220815035904970</id>
+        <link href="https://entertain.v.daum.net/v/20220815035904970"/>
+        <updated>2022-08-14T19:10:50.796Z</updated>
+        <content type="html"><![CDATA[[OSEN=김수형 기자] &nbsp;‘복면가왕'에서 바다새 김혜정이 큰 아들에 대해 언급했다. 14일 방송된 MBC '복면가왕'에서 '내가 네 엄마로 보이니?' 정체는 바다새 김혜정으로 드러났다.&nbsp; 여름특집으로 함께한 가운데 '내가 네 엄마로 보이니?'와 '쿨가이'가 대결을 펼쳤다. 특히&nbsp;&nbsp;'내가 네 엄마로 보이니?'에 대해&nbsp; 김원준은 "7080느낌이 약간 들었]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김준호, ♥김지민 만나고 기쁜 소식.."드디어 빚 청산"]]></title>
         <id>https://entertain.v.daum.net/v/20220815031416928</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220814235454168"/>
         <updated>2022-08-14T15:13:08.501Z</updated>
         <content type="html"><![CDATA[[스타뉴스 김옥주 인턴기자] /사진=SBS '미운 우리 새끼' 방송 화면 캡쳐 코미디언 김준호와 김지민이 커플 위기 극복 스토리를 밝혔다. 14일 오후 방송된 SBS '미운 우리 새끼'에서는 최여진이 스페셜 MC로 출연한 가운데, 허경환, 김준호 김지민, 이상민 탁재훈 김희철의 이야기가 전파를 탔다. 이날 최여진은 '골 때리는 그녀들' 후 변화에 대해]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[장동민, 강수정 짝사랑 고백.."♥아내 못보게 TV 부술 것"]]></title>
-        <id>https://entertain.v.daum.net/v/20220814235022163</id>
-        <link href="https://entertain.v.daum.net/v/20220814235022163"/>
-        <updated>2022-08-14T15:13:08.502Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 오승현 인턴기자) '구해줘 홈즈' 장동민이 강수정을 짝사랑 했음을 밝혔다. 14일 방송된 MBC 예능프로그램 '구해줘! 홈즈'에서는 이날 방송에서는 '파이어족'을 꿈꾸는 3인 가족의 집을 찾았다. 당장 은퇴를 하진 않지만 훗날의 삶을 꿈꾸며 교외의 단독주택으로 이사를 결심 했다고 한 3인 가족을 위해 함께 매물을 찾아 나섰다. 이들 가족은 방]]></content>
     </entry>
 </feed>
