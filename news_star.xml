@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2022-08-15T05:38:00.812Z</updated>
+    <updated>2022-08-15T06:18:00.233Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['돌싱글즈3' 몸이 먼저 반응하는 한정민♥조예영, 새로운 여정 응원해!!]]></title>
+        <id>https://entertain.v.daum.net/v/20220815144011964</id>
+        <link href="https://entertain.v.daum.net/v/20220815144011964"/>
+        <updated>2022-08-15T06:17:54.152Z</updated>
+        <content type="html"><![CDATA[[헤럴드경제 = 서병기 선임기자]돌싱들의 마라맛 러브 버라이어티 ‘돌싱글즈3’ 14일 방송은 19금이었다. ‘19금’ 뽀뽀가 난무했다. 동거에 돌입한 두 커풀중 한정민X조예영 커플은 거침없었다. 좋아하는 감정을 뽀뽀로 이어나갔다. 조예영의 ‘스킨십 리드’는 무척 자연스럽다. 이들의 뽀뽀 어택에는 진심이 느껴진다. 사실 얼마전만 해도 모르는 사이인 남녀에게]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['정희' 옥상달빛 "'푸른밤' 게스트, 유세윤 가장 기억남아"]]></title>
         <id>https://entertain.v.daum.net/v/20220815142400560</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220815121913720"/>
         <updated>2022-08-15T03:53:52.456Z</updated>
         <content type="html"><![CDATA[가수 임영웅이 서울에서도 하늘빛 축제를 펼치며 전국투어 콘서트를 성황리에 마무리했다. 지난 12일부터 14일까지 3일간 올림픽체조경기장(KSPO DOME)에서 임영웅의 전국투어 콘서트 ‘IM HERO’(아임 히어로)가 개최됐다. 이날 본 공연에 앞서 MC 배와 MC 탁이 현장 관객과의 인터뷰 등으로 축제의 분위기를 상세히 전달, 콘서트를 기다리는 즐]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["이럴 줄 알았겠나" 박명수, 영끌족 대출금 고민에 위로 '라디오쇼']]></title>
-        <id>https://entertain.v.daum.net/v/20220815114345147</id>
-        <link href="https://entertain.v.daum.net/v/20220815114345147"/>
-        <updated>2022-08-15T03:53:52.458Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 송오정 기자] 박명수가 '해방'을 원하는 청취자들에게 공감과 위로를 전했다. 8월 15일 방송된 KBS 쿨FM '박명수의 라디오쇼'에서는 광복절 특집으로 '해방'과 관련한 청취자 이야기를 들어보는 '동네보고' 코너로 꾸며졌다. 라섹 수술을 받고 고통에서 해방되고 싶다는 청취자 이야기에 박명수는 "저도 라섹 수술을 했는데 꽤 돼 눈이 많이 나빠졌다]]></content>
     </entry>
 </feed>
