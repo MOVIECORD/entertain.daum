@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/entertain.daum/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-08-15T14:16:50.233Z</updated>
+    <updated>2022-08-15T15:15:01.227Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA['잘생김' 묻은 대한민국 대표 배우 (다음 연예 ─ 뉴스 ─ 영화)]]></title>
+        <id>https://entertain.v.daum.net/v/20220816000009100</id>
+        <link href="https://entertain.v.daum.net/v/20220816000009100"/>
+        <updated>2022-08-15T15:14:39.524Z</updated>
+        <content type="html"><![CDATA[연기 30년 차, 싱그러운 '청춘스타'에서 이제는 '글로벌 톱배우'&nbsp; 대한민국 대표 배우 이정재가 영화감독이라는 새로운 이력을 추가했다. 이정재의 감독 데뷔작 '헌트'가 제47회 토론토 국제영화제에 초청되며 이목을 집중시켰고, 지난 10일 스크린에 걸려 호평속에 관객들을 만나고 있다. 연기 30년 차의 그가 영화감독이 되기까지 걸어온 발자취를 살펴본다]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['라스베이거스를 떠나며' 피기스 감독 "영화의 본질은 음악·사운드" (다음 연예 ─ 뉴스 ─ 영화)]]></title>
         <id>https://entertain.v.daum.net/v/20220815180338238</id>
@@ -103,11 +110,25 @@
         <content type="html"><![CDATA[[이건 기자] 2000년 10월에 개봉된 영화 &lt;싸이렌&gt;. 이주엽 감독의 연출로 신현준, 정준호, 장진영 등 당시 최고의 배우들이 참여해 소방을 모티브로 해서 만들었다.&nbsp;한국 최초의 파이어 액션 블록버스터를 표방하여 기획되었으며 같은 해 11월에는 또 다른 소방 영화 &lt;리베라 메&gt;도 개봉된 바 있다. &nbsp;&nbsp; &nbsp;        ▲ &nbsp;영화 &lt;싸이렌&gt; 포스터]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[무인도에서의 6박 7일, 이 영화를 세 번 본 이유 (다음 연예 ─ 뉴스 ─ 영화)]]></title>
-        <id>https://entertain.v.daum.net/v/20220815120900618</id>
-        <link href="https://entertain.v.daum.net/v/20220815120900618"/>
-        <updated>2022-08-15T03:53:37.680Z</updated>
-        <content type="html"><![CDATA[[김성호 기자] &nbsp;        ▲ 식스 데이 세븐 나잇&nbsp;포스터    ⓒ 브에나비스타 인터내셔널 코리아  &nbsp; 중학교 1학년 까까머리 학생이었다. 1998년, 나는 동네 비디오 가게에서 비디오를 빌려 보는 걸 낙으로 삼는 할리우드 키드였다. 그 시절 비디오 가게 카운터엔 신작 비디오를 소개하는 무가지가 놓여 있곤 했다. 주머니 얄팍한 나는 그 종이를 뒤적여]]></content>
+        <title type="html"><![CDATA['유세풍' 김민재X김향기, 저잣거리 데이트 "도움 되고파" (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
+        <id>https://entertain.v.daum.net/v/20220816000437211</id>
+        <link href="https://entertain.v.daum.net/v/20220816000437211"/>
+        <updated>2022-08-15T15:14:44.707Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 이상은 기자] /사진=tvN 월화드라마 ‘조선 정신과 의사 유세풍’ 방송화면 '조선 정신과 의사 유세풍'에서 김민재와 김향기가 설레는 데이트를 즐겼다. 15일 오후 방송된 tvN 새 월화드라마 '조선 정신과 의사 유세풍'에서는 유세풍(김민재 분)과 서은우(김향기 분)가 저잣거리에서 우연히 만나 데이트를 즐기는 모습이 담겼다. 이날 서은우는 학]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[박수영, 동에 번쩍 서에 번쩍 해결사 근황 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
+        <id>https://entertain.v.daum.net/v/20220816000011102</id>
+        <link href="https://entertain.v.daum.net/v/20220816000011102"/>
+        <updated>2022-08-15T15:14:44.714Z</updated>
+        <content type="html"><![CDATA[[동아닷컴] 사진제공=카카오엔터테인먼트카카오TV 오리지널 ‘어쩌다 전원일기’ 박수영(레드벨벳 조이)이 시골마을 만능 해결사로 변신한다. ‘어쩌다 전원일기’(연출 권석장, 극본 백은경)는 시골 마을 희동리의 토박이이자 이 지역의 핵인싸 순경 안자영(박수영 분)과 하루빨리 희동리 탈출을 꿈꾸는 서울 토박이 수의사 한지율(추영우 분)의 좌충우돌 전원 로맨스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['유세풍' 김민재 "내 사람만 아끼며 살 것"..김향기 '미소' (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
+        <id>https://entertain.v.daum.net/v/20220815233013964</id>
+        <link href="https://entertain.v.daum.net/v/20220815233013964"/>
+        <updated>2022-08-15T15:14:44.718Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 이상은 기자] /사진=tvN 월화드라마 ‘조선 정신과 의사 유세풍’ 방송화면 '조선 정신과 의사 유세풍'에서 김민재의 말에 김향기가 미소를 지었다. 15일 오후 방송된 tvN 새 월화드라마 '조선 정신과 의사 유세풍'에서는 유세풍(김민재 분)과 계지한(김상경 분)이 학대당한 아이 사건으로 다투는 모습이 담겼다. 이날 유세풍은 학대로 고통받는]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA['유세풍' 김민재, 살인 누명 쓴 안창환 구했다.."멈추시오" (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
@@ -194,25 +215,74 @@
         <content type="html"><![CDATA[[뉴스엔 황혜진 기자] 배우 지창욱과 성동일이 브로맨스 케미스트리로 시청자들의 호평을 받고 있다. 8월 10일 첫 방송된 KBS 2TV 수목드라마 ‘당신이 소원을 말하면’은 삶의 끝에 내몰린 위태로운 청년이 호스피스 병원에서 사람들의 마지막 소원을 들어주며 아픔을 치유해가는 과정을 다루는 작품이다. 이 드라마는 첫 방송부터 화려하고 자극적인 이야기보다 사]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA["까칠→츤데레" '당소말' 지창욱X성동일, 단짠 브로맨스 케미 탄생 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
-        <id>https://entertain.v.daum.net/v/20220815154855328</id>
-        <link href="https://entertain.v.daum.net/v/20220815154855328"/>
-        <updated>2022-08-15T07:11:59.471Z</updated>
-        <content type="html"><![CDATA[[OSEN=지민경 기자]&nbsp;KBS 2TV ‘당신이 소원을 말하면’이 첫 방송부터 웃음과 감동의 향연으로 시청자들의 눈도장을 찍었다. 지난 10일 첫 방송된 KBS 2TV 수목드라마 ‘당신이 소원을 말하면’(연출 김용완 / 극본 조령수 / 제작 클라이맥스 스튜디오 /이하 ‘당소말’)은 삶의 끝에 내몰린 위태로운 청년이 호스피스 병원에서 사람들의 마지막 소원]]></content>
+        <title type="html"><![CDATA["'종이의 집' 도쿄 役 우슬라와 절친"..김윤지, 3년간 20번 오디션 끝에 '할리우드 진출' (다음 연예 ─ 뉴스 ─ 예능)]]></title>
+        <id>https://entertain.v.daum.net/v/20220816001410275</id>
+        <link href="https://entertain.v.daum.net/v/20220816001410275"/>
+        <updated>2022-08-15T15:14:49.817Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 김나라 기자] '동상이몽2-너는 내 운명'에서 가수 출신 연기자 김윤지(NS윤지)가 할리우드 진출기를 전했다. 15일 오후 방송된 SBS '동상이몽2-너는 내 운명'에는 김윤지와 최우성 부부가 오랜만에 시청자들에게 인사를 건네는 모습이 그려졌다. 이날 김윤지는 "제가 영화를 찍느라고 이탈리아와 영국을 왔다 갔다 하며 3개월 정도 해외 체류]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA['어쩌다 전원일기' 박수영, 동에 번쩍 서에 번쩍 희동리 오지라퍼 변신 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
-        <id>https://entertain.v.daum.net/v/20220815145020172</id>
-        <link href="https://entertain.v.daum.net/v/20220815145020172"/>
-        <updated>2022-08-15T06:17:43.001Z</updated>
-        <content type="html"><![CDATA[[OSEN=박판석 기자]&nbsp;카카오TV&nbsp;오리지널&nbsp;‘어쩌다 전원일기’ 박수영(레드벨벳 조이)이 사랑스러운&nbsp;'오지라퍼'로 분해 평화롭고 고요한 시골마을 희동리에서 시끌벅적 바쁜 나날을 보내고 있다는 소식이 전해졌다. 오는&nbsp;9월&nbsp;5일 첫 공개되는 카카오TV&nbsp;오리지널&nbsp;‘어쩌다 전원일기’(연출 권석장,&nbsp;극본 백은경,&nbsp;기획-제작 카카오엔터테인먼트)는 시골 마을 희동리]]></content>
+        <title type="html"><![CDATA['이별리콜' 성유리→장영란, 친구들 성적 농담→싸울 때 물건 던져..X 행동에 '경악' (다음 연예 ─ 뉴스 ─ 예능)]]></title>
+        <id>https://entertain.v.daum.net/v/20220816001119266</id>
+        <link href="https://entertain.v.daum.net/v/20220816001119266"/>
+        <updated>2022-08-15T15:14:49.821Z</updated>
+        <content type="html"><![CDATA[[OSEN=김예솔 기자] 친구들의 성적인 농담으로 인해 이별을 겪은 리콜녀의 사연이 공개 됐다.&nbsp; 15일 방송된 KBS2TV '이별도 리콜이 되나요?'에서는 한 달 전 이별을 맞은 리콜녀의 사연이 공개 됐다.&nbsp; 앞서 리콜녀는 X가 자신의 자존감을 높여준 좋은 남자친구였다고 고백했다. 하지만 X의 친구들과 만났던 당시 친구들은 리콜녀에게 성적인 농담을 했]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA['모범형사2' 정문성X최대훈X백상희X하영 얽히고설킨 관계망..하나 둘 밝혀지는 연결고리 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
-        <id>https://entertain.v.daum.net/v/20220815144123993</id>
-        <link href="https://entertain.v.daum.net/v/20220815144123993"/>
-        <updated>2022-08-15T06:17:43.012Z</updated>
-        <content type="html"><![CDATA[[OSEN=박판석 기자]&nbsp;‘모범형사2’의 얽히고설킨 관계망이 단 1초도 눈을 뗄 수 없는 몰입도를 유발하고 있다. JTBC 토일드라마 ‘모범형사2’(연출 조남국, 극본 최진원, 제작 블러썸스토리, SLL) 지난 방송에서 흰 가운 연쇄살인사건으로 위장된 채 죽음을 당한 티제이그룹 정희주(하영)를 중심으로 얽히고설킨 관계망들이 하나 둘씩 드러났다. 이 치밀]]></content>
+        <title type="html"><![CDATA['동상이몽2' 김윤지, "금주 선언" 2세 계획 발표.. 임신 위해 이만기 샅바까지? (다음 연예 ─ 뉴스 ─ 예능)]]></title>
+        <id>https://entertain.v.daum.net/v/20220816000253185</id>
+        <link href="https://entertain.v.daum.net/v/20220816000253185"/>
+        <updated>2022-08-15T15:14:49.821Z</updated>
+        <content type="html"><![CDATA[[OSEN=김예솔 기자] 김윤지가 2세 계획을 전했다.&nbsp; 15일에 방송된 SBS '동상이몽2 - 너는 내 운명'에서는 김윤지가 남편 최우성과 시부모 이상해, 김영임과 함께 식사를 한 가운데 금주를 선언하며 2세 계획 소식을 전했다.&nbsp; 김윤지는 김영임이 준비한 음식을 맛있게 먹었다. 이상해는 "이럴 때 한 잔 해야지"라며 10년 된 술을 꺼냈다. 하지만]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['개훌륭' 강형욱, 통제불가 반항견 만났다.."경찰까지 출동할 정도" (다음 연예 ─ 뉴스 ─ 예능)]]></title>
+        <id>https://entertain.v.daum.net/v/20220815235734076</id>
+        <link href="https://entertain.v.daum.net/v/20220815235734076"/>
+        <updated>2022-08-15T15:14:49.821Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 배효주 기자] 강형욱이 통제불가 짖음견을 만났다. 8월 15일 방송된 KBS 2TV '개는 훌륭하다'에서는 공격성과 분리불안 때문에 고통을 겪고 있다는 보호자와, 그 문제견 '덕구'의 사연이 공개됐다. 분리불안으로 인한 하울링 때문에 민원이 폭주해 경찰까지 출동하게 만들었다는 '덕구'. '덕구'와 만나 본격적인 진단에 나선 강형욱은, 가족들에게도]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[박준형, 밥 발로 밟는 대형 실수..성훈X양치승 '당황' (다음 연예 ─ 뉴스 ─ 예능)]]></title>
+        <id>https://entertain.v.daum.net/v/20220815235302057</id>
+        <link href="https://entertain.v.daum.net/v/20220815235302057"/>
+        <updated>2022-08-15T15:14:49.825Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 이예진 인턴기자) '안싸우면 다행이야' 박준형이 요리 중 밥이 들어있는 냄비를 밟는 실수를 저질렀다. 15일 방송된 MBC '안싸우면 다행이야'(이하 '안다행')에서는 성훈, 박준형, 양치승의 '내손내잡(내 손으로 내가 잡는다)' 마지막 이야기가 그려졌다. 이날 방송에서 박준형은 "찜통이다. 만두 되는 것 같다"라며 더위에 힘들어하는 모습을]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이대은♥트루디, 신혼인데 각방 '깜짝'.."노예 된 느낌" 눈물 (다음 연예 ─ 뉴스 ─ 예능)]]></title>
+        <id>https://entertain.v.daum.net/v/20220815235004048</id>
+        <link href="https://entertain.v.daum.net/v/20220815235004048"/>
+        <updated>2022-08-15T15:14:49.827Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 이예진 인턴기자) '우리들의 차차차' 이대은, 트루디 부부가 각방을 쓴다고 전했다. 15일 방송된 tvN '우리들의 차차차'에서 이대은과 갈등을 겪던 트루디가 눈물을 보였다. 이날 방송에서 안현모, 라이머 부부의 일상이 공개됐고 라이머는 대구탕 요리를 시작했다. 스튜디오에서 홍서범은 "요리는 해줘야지 와이프가"라고 말했다. 이에 출연진들은 모]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['동상이몽2' 김윤지♥최우성, 2세 위해 민간 요법 총동원 (다음 연예 ─ 뉴스 ─ 예능)]]></title>
+        <id>https://entertain.v.daum.net/v/20220815233119967</id>
+        <link href="https://entertain.v.daum.net/v/20220815233119967"/>
+        <updated>2022-08-15T15:14:49.828Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 이시호 기자] /사진=SBS '동상이몽2 - 너는 내 운명' 방송화면 캡처'동상이몽2' 개그맨 이상해의 며느리 김윤지-최우성 부부가 2세 계획에 나섰다. 15일 방송된 SBS '동상이몽2 - 너는 내 운명'(이하 '동상이몽2')에서는 나비가 스페셜 MC로 출연했다. 김구라는 이날 축구 코치인 나비의 남편이 "외모는 개코고 성격은 이상순이라더]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['다시, 첫사랑' 희람, 한별과 데이트 후 엇갈린 속마음 "속상했다" (다음 연예 ─ 뉴스 ─ 예능)]]></title>
+        <id>https://entertain.v.daum.net/v/20220815233045965</id>
+        <link href="https://entertain.v.daum.net/v/20220815233045965"/>
+        <updated>2022-08-15T15:14:49.830Z</updated>
+        <content type="html"><![CDATA[희람이 한별과의 데이트 후 엇갈린 속마음을 보였다. 8월 15일 방영된 MBC에브리원 '다시, 첫사랑'에서는 히람과 한별의 두 번째 데이트가 담겼다. 이날 한별은 희람을 차에 태우고 준비한 비밀 데이트 장소로 갔다. 끝까지 데이트 장소를 이야기하지 않았던 한별은 희람을 레스토랑을 데려갔고, 급작스레 친구들을 불렀다고 고백했다. 한별의 친구]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이은미 "故김광석, 아마추어 때도 기꺼이 무대 허락해준 분" (다음 연예 ─ 뉴스 ─ 예능)]]></title>
+        <id>https://entertain.v.daum.net/v/20220815232821958</id>
+        <link href="https://entertain.v.daum.net/v/20220815232821958"/>
+        <updated>2022-08-15T15:14:49.830Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 송오정 기자] 가수 이은미가 故김광석을 떠올렸다. 8월 15일 방송된 MBN '미스터리 듀엣'에서는 레전드 가수 이은미가 장필순과 듀엣 무대로 초대했다. 미스터리 싱어가 오픈 싱어 장필순과 함께 듀엣하고 싶은 곡으로 고른 곡은 故김광석의 '거리에서'였다. 미스터리 싱어는 "아마추어였던 저에게 기꺼이 무대를 허락해주셨던 분"이라며 고인을 기억했다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[성훈, 싹쓸이 먹방 '깜짝'..양치승표 '통낙지 매운탕'에 기립박수 (다음 연예 ─ 뉴스 ─ 예능)]]></title>
+        <id>https://entertain.v.daum.net/v/20220815232728956</id>
+        <link href="https://entertain.v.daum.net/v/20220815232728956"/>
+        <updated>2022-08-15T15:14:49.831Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 이예진 인턴기자) '안싸우면 다행이야' 성훈이 양치승의 요리에 감탄했다. 15일 방송된 MBC '안싸우면 다행이야'(이하 '안다행')에서는 성훈, 박준형, 양치승의 '내손내잡(내 손으로 내가 잡는다)' 마지막 이야기가 그려졌다. 이날 방송에서 양치승은 운동 기구를 만드는 모습을 보였고, 이에 성훈과 박준형은 질색했다. 양치승은 "이런 날씨에]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[이경규 "골프가방에도 태극기"..강형욱 "국가대표인 줄 아나" 디스 (다음 연예 ─ 뉴스 ─ 예능)]]></title>
@@ -250,74 +320,67 @@
         <content type="html"><![CDATA[[텐아시아=신지원 기자]김윤지가 배우 우슬라 코르베로와의 친분을 과시했다. 15일 밤 방송된 SBS '동상이몽2 - 너는 내 운명'에서는 최근 넷플릭스 영화 '리프트'로 헐리우드 진출에 성공한 김윤지의 모습이 그려졌다. 이날 김윤지는 출연하게 된 영화 '리프트'에 대해 "영화 '맨 인 블랙', '분노의 질주' 등을 연출한 F. 게리 그레이 감독이 연출을]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[박미경, 밴드 환희&이태윤과 재회에 눈물 글썽 '미스터리 듀엣' (다음 연예 ─ 뉴스 ─ 예능)]]></title>
-        <id>https://entertain.v.daum.net/v/20220815230142837</id>
-        <link href="https://entertain.v.daum.net/v/20220815230142837"/>
-        <updated>2022-08-15T14:16:36.663Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 송오정 기자] 가수 박미경이 밴드 '환희&amp;베이시스트 이태윤과 재회했다. 8월 15일 방송된 MBN '미스터리 듀엣'에서는 가수 박미경을 초대한 미스터리 싱어들의 정체가 공개됐다. 이날 첫 번째 듀엣 싱어에 대해 이적은 "긴 세월 인연이란 이름으로 마음 한구석 서로의 자리를 지켜온 분들이다. 오랜만에 함께 무대를 하고 싶어서 '미스터리 듀엣'에 초]]></content>
+        <title type="html"><![CDATA['순돌이' 이건주, 부모 이혼 언급.."임현식 선생님이 각별히 품어 주셔" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+        <id>https://entertain.v.daum.net/v/20220816000634243</id>
+        <link href="https://entertain.v.daum.net/v/20220816000634243"/>
+        <updated>2022-08-15T15:14:55.360Z</updated>
+        <content type="html"><![CDATA[(서울=뉴스1) 이지현 기자 = '순돌이' 이건주가 임현식과의 인연을 공개했다. 15일 오후 방송된 MBN 음악 프로그램 '미스터리 듀엣'에서는 이건주가 선배 연기자 임현식을 초대해 시선을 모았다. 이건주는 "제가 감사하게 생각하는 분이다. 함께 노래해 보면 어떨까 싶다"라고 밝혔다. 두 사람은 남일해의 '빨간 구두 아가씨'로 듀엣 무대를 꾸몄다.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA["충격 받아" 32살 서하얀, 새치 고민 토로..'임창정 걱정' (다음 연예 ─ 뉴스 ─ 예능)]]></title>
-        <id>https://entertain.v.daum.net/v/20220815225713801</id>
-        <link href="https://entertain.v.daum.net/v/20220815225713801"/>
-        <updated>2022-08-15T14:16:36.664Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 원민순 기자) 임창정 아내 서하얀이 안 나던 새치가 나서 충격을 받았따고 밝혔다. 15일 방송된 SBS '동상이몽2 - 너는 내 운명'에서는 임창정-서하얀 부부가 내과를 방문하는 모습이 전파를 탔다. 이날 임창정과 서하얀은 내과를 방문해 궁금증을 자아냈다. 임창정은 진료실로 들어가더니 전문의에게 "일이 많아져서 멍하고 있다.]]></content>
+        <title type="html"><![CDATA['동상이몽2' 임창정, ♥서하얀 '건강 걱정'..서하얀, "안 나던 새치 나기 시작" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+        <id>https://entertain.v.daum.net/v/20220816000600222</id>
+        <link href="https://entertain.v.daum.net/v/20220816000600222"/>
+        <updated>2022-08-15T15:14:55.368Z</updated>
+        <content type="html"><![CDATA[[SBS연예뉴스 | 김효정 에디터] 임창정이 아내의 건강을 걱정했다. 15일 SBS '동상이동 시즌2-너는 내 운명'(이하 '동상이몽2')에서는 아내 서하얀의 건강을 걱정하는 임창정의 모습이 그려졌다. 이날 방송에서 임창정은 서하얀을 데리고 병원에 갔다. 그는 "집사람 일 많아진 뒤로 옛날 같지 않고 멍하게 있고 건망증도 심해졌다. 너무 지친 게 보이니까]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA['동상이몽2' 나비, "♥남편=축구 코치..이상이 외모+이상순 성격" (다음 연예 ─ 뉴스 ─ 예능)]]></title>
-        <id>https://entertain.v.daum.net/v/20220815225608796</id>
-        <link href="https://entertain.v.daum.net/v/20220815225608796"/>
-        <updated>2022-08-15T14:16:36.682Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 이시호 기자]  /사진=SBS '동상이몽2 - 너는 내 운명' 방송화면 캡처'동상이몽2' 가수 나비가 남편을 언급했다. 15일 방송된 SBS '동상이몽2 - 너는 내 운명'(이하 '동상이몽2')에서는 나비가 스페셜 MC로 출연했다. 김구라는 이날 축구 코치인 나비의 남편이 "외모는 개코고 성격은 이상순이라더라"고 밝혔다. 나비는 이에 "제]]></content>
+        <title type="html"><![CDATA['미스터리 듀엣' 이건주 "임현식·박원숙, 마음으로 날 품어줘" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+        <id>https://entertain.v.daum.net/v/20220816000507218</id>
+        <link href="https://entertain.v.daum.net/v/20220816000507218"/>
+        <updated>2022-08-15T15:14:55.369Z</updated>
+        <content type="html"><![CDATA[[스포츠투데이 백지연 기자] '미스터리 듀엣' 배우 이건주가 임현식에 감사한 마음을 표했다. 15일 밤 방송된 MBN 예능프로그램 '미스터리 듀엣'에서 임현식 이건주가 듀엣 무대를 펼쳤다. 이날 방송에서 이건주는 임현식과의 듀엣곡으로 '빨간 구두 아가씨'를 선곡했다. 이유에 대해 "선생님이 떠오르는 노래"라고 알렸다. 이어 "선생님은 항상 사람들을 두]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA['동상이몽' 서하얀, "하루에 한 끼, 32세인데 새치나서 깜짝"..병원行 (다음 연예 ─ 뉴스 ─ 예능)]]></title>
-        <id>https://entertain.v.daum.net/v/20220815225517794</id>
-        <link href="https://entertain.v.daum.net/v/20220815225517794"/>
-        <updated>2022-08-15T14:16:36.684Z</updated>
-        <content type="html"><![CDATA[[OSEN=김예솔 기자] 서하얀이 병원을 찾았다.&nbsp; 15일에 방송된 SBS '동상이몽2 - 너는 내 운명'에서는 서하얀이 남편 임창정과 함께 병원을 찾는 모습이 그려졌다.&nbsp; 이날 임창정은 서하얀과 함께 병원으로 향했다. 임창정은 "아내가 너무 지쳐 있는 게 눈에 보인다"라고 말했다. 서하얀은 "남편이 바빠져서 회사 일도 내가 맡고 육아, 살림도 하니까]]></content>
+        <title type="html"><![CDATA['동상이몽2' 김윤지♥최우성, 2세 계획 공개.. '민간요법' 천하장사 샅바 등장 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+        <id>https://entertain.v.daum.net/v/20220815235100049</id>
+        <link href="https://entertain.v.daum.net/v/20220815235100049"/>
+        <updated>2022-08-15T15:14:55.369Z</updated>
+        <content type="html"><![CDATA['동상이몽2' 김윤지-최우성 부부가 2세 계획을 공개했다. 15일 방송된 SBS 예능프로그램 '동상이몽2- 너는 내 운명'(이하 '동상이몽2')에서는 월드 스타가 되어 돌아온 김윤지의 미국 진출기가 전격 공개됐다. 이날 가수 나비가 스페셜 MC로 등장했다. 서장훈은 "남편 분이 축구 코치인데 외모는 개코, 성격은 이상순이다"라며 물었다. 이에 나비는]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[임창정, 중2 아들 임준성 야단 "유학 가는데 영어공부 안 해" (다음 연예 ─ 뉴스 ─ 예능)]]></title>
-        <id>https://entertain.v.daum.net/v/20220815225242783</id>
-        <link href="https://entertain.v.daum.net/v/20220815225242783"/>
-        <updated>2022-08-15T14:16:36.686Z</updated>
-        <content type="html"><![CDATA[임창정 임준성 부자가 영어공부로 갈등을 빚었다. 8월 15일 방송된 SBS ‘동상이몽 시즌2-너는 내 운명’에서 임창정은 6살 아들 임준표 숙제로 영어 작문을 하다가 15살 아들 임준성에게 도움을 청했다. 임창정은 6살 넷째 아들 임준표의 숙제를 하며 가훈을 영어로 적어야 하자 일단 가훈부터 정하려 했다. 15살 둘째 아들 임준성은 “엄마가 하는 일을]]></content>
+        <title type="html"><![CDATA[빌리 아일리시, Z세대 '음악 자부심'인 이유..4년 전처럼 태극기 들었네 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+        <id>https://entertain.v.daum.net/v/20220815234237016</id>
+        <link href="https://entertain.v.daum.net/v/20220815234237016"/>
+        <updated>2022-08-15T15:14:55.371Z</updated>
+        <content type="html"><![CDATA[기사내용 요약 2018년 광복절 첫 내한 이후 꼭 4년 만에 광복절 두 번째 내한 2000석→2만석…높아진 위상 반영하듯 객석 10배 늘어 기후 변화 등 메시지 담은 곡들 주목 방탄소년단 RM·제이홉 등 한국 유명 스타들 다녀가 [서울=뉴시스]이재훈 기자 = 빌리 아일리시(21)가 등장한 이후 Z세대는 더 이상 '팝의 황금기'를 보낸 앞선 세대에게]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA["노예 된 느낌" 트루디, ♥이대은 결혼 8개월 차 각방 생활 (다음 연예 ─ 뉴스 ─ 예능)]]></title>
-        <id>https://entertain.v.daum.net/v/20220815225227780</id>
-        <link href="https://entertain.v.daum.net/v/20220815225227780"/>
-        <updated>2022-08-15T14:16:36.706Z</updated>
-        <content type="html"><![CDATA[[OSEN=최지연 기자] '우리들의 차차차' 트루디가 이대은과의 결혼생활에 지쳤다.&nbsp; 15일 방송된 tvN 예능프로그램 '우리들의 차차차'(이하 '차차차')에서는 결혼한 지 8개월차 된 신혼부부 트루디와 이대은의 생활이 담긴 가운데 트루디가 눈물을 보여 눈길을 끌었다.&nbsp; 이날 트루디는 일어나자마자 이대은과 영상통화를 했다. 이를 본 출연진들은 이대은이]]></content>
+        <title type="html"><![CDATA['광복절 내한' 빌리 아일리시, 태극기 퍼포먼스로 감동 물결 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+        <id>https://entertain.v.daum.net/v/20220815234016005</id>
+        <link href="https://entertain.v.daum.net/v/20220815234016005"/>
+        <updated>2022-08-15T15:14:55.371Z</updated>
+        <content type="html"><![CDATA[팝스타 빌리 아일리시가 광복절 고척돔을 뜨겁게 물들였다. 빌리 아일리리시는 15일 오후 서울 구로구 고척스카이돔에서 내한 공연을 가졌다. 이번 콘서트는 현대카드 슈퍼콘서트 일환으로 이뤄졌다. 지난 2018년 서울 광진구 예스24 라이브홀에서 2000석 규모의 콘서트를 했던 그는 약 4년 만에 고척스카이돔에 입성했다. 관객 수는 4년 전과 비교해 약 1]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[양치승, 무인도서 헬스장 개장..성훈 "사람이면 융통성 있어야" (다음 연예 ─ 뉴스 ─ 예능)]]></title>
-        <id>https://entertain.v.daum.net/v/20220815224655741</id>
-        <link href="https://entertain.v.daum.net/v/20220815224655741"/>
-        <updated>2022-08-15T14:16:36.724Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 이예진 인턴기자) '안싸우면 다행이야' 양치승이 무인도에서 헬스 기구를 만드는 모습을 보였다. 15일 방송된 MBC '안싸우면 다행이야'(이하 '안다행')에서는 성훈, 박준형, 양치승의 '내손내잡(내 손으로 내가 잡는다)' 마지막 이야기가 그려졌다. 이날 방송에서 박준형은 "죽을 것 같다. 미칠 것 같다"라며 더위에 힘들어하는 모습을 보였다.]]></content>
+        <title type="html"><![CDATA[장필순X이은미, 역대급 듀엣 성사..故김광석 노래로 레전드 썼다 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+        <id>https://entertain.v.daum.net/v/20220815233423978</id>
+        <link href="https://entertain.v.daum.net/v/20220815233423978"/>
+        <updated>2022-08-15T15:14:55.372Z</updated>
+        <content type="html"><![CDATA[(서울=뉴스1) 이지현 기자 = 장필순, 이은미의 듀엣 무대가 성사됐다. 15일 오후 방송된 MBN 음악 프로그램 '미스터리 듀엣'에서는 싱어송라이터 장필순이 오픈 싱어로 소환돼 미스터리 싱어 이은미를 만났다. 고(故) 김광석의 '거리에서'로 처음 호흡을 맞춘 이들은 레전드 무대를 만들었다. 이날 장필순은 "사실 노래는 오래 해왔지만 방송이 어색한]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[10억 날린 헬스 트레이너, "헬스장 취직? 나는 좀 비싸서 곤란해" (다음 연예 ─ 뉴스 ─ 예능)]]></title>
-        <id>https://entertain.v.daum.net/v/20220815224409725</id>
-        <link href="https://entertain.v.daum.net/v/20220815224409725"/>
-        <updated>2022-08-15T14:16:36.725Z</updated>
-        <content type="html"><![CDATA[[OSEN=장우영 기자] ‘무엇이든 물어보살’에 버는 족족 사기를 당해 어려운 지경에 이른 헬스 트레이너가 찾아왔다. 15일 방송된 KBS Joy ‘무엇이든 물어보살’에서는 앞으로 뭘 해야할지 막막하다는 사연남이 찾아왔다. 헬스 트레이너로 일했던 45살의 사연남이 보살들을 찾아와 “갈 길을 잃어서 어디로 가야 할지 모르겠다. 직업에 대한 회의감도 있고,]]></content>
+        <title type="html"><![CDATA['유세풍' 김민재X김향기, 안창환 구했다..유성주 "김민재 죽여라" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+        <id>https://entertain.v.daum.net/v/20220815233400976</id>
+        <link href="https://entertain.v.daum.net/v/20220815233400976"/>
+        <updated>2022-08-15T15:14:55.372Z</updated>
+        <content type="html"><![CDATA[[TV리포트=김은정 기자] 김민재가 위기를 맞이할까. 15일 오후 방송된 tvN 월화드라마 ‘조선 정신과 의사 유세풍’에서는 유세풍(김민재 분)과 서은우(김향기 분)가 참형 위기의 만복(안창환 분)을 구했다. 이날 유세풍과 서은우는 말을 달려 뱃나루터에 있는 효연 아씨와 정혼자를 쫓았다. 정대감은 효연에게 칼을 들이대며 위협했지만, 은우는 "스스로 선택하면]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[박준형, 다 된밥에 족적 남기는 '대형사고'..성훈X양치승 '말.잇.못' (다음 연예 ─ 뉴스 ─ 예능)]]></title>
-        <id>https://entertain.v.daum.net/v/20220815224101702</id>
-        <link href="https://entertain.v.daum.net/v/20220815224101702"/>
-        <updated>2022-08-15T14:16:36.725Z</updated>
-        <content type="html"><![CDATA[[텐아시아=신지원 기자]성훈과 양치승이 박준형의 회생불가 밥상태에 할 말을 잃었다. 15일 오후 방영된 MBC '안싸우면 다행이야'에서는 박준형이 냄비밥을 발로 밟는 대형사고를 치는 모습이 담겼다. 이날 박준형은 성훈과 양치승과 요리를 하다가 뒷걸음질하며 냄비밥을 발로 밟았다. 순간찌그러진 냄비와 냄비밥에는 박준형의 발자국만 덩그러니 남았다. 배고파서]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['배우는 캠핑짱' 박성웅·신승환·홍종현, 돌발 상황에 폐업 위기까지? (다음 연예 ─ 뉴스 ─ 예능)]]></title>
-        <id>https://entertain.v.daum.net/v/20220815223301647</id>
-        <link href="https://entertain.v.daum.net/v/20220815223301647"/>
-        <updated>2022-08-15T13:37:15.902Z</updated>
-        <content type="html"><![CDATA[‘배우는 캠핑짱’ 박성웅, 신승환, 홍종현이 돌발 상황을 맞이한다. 15일 방송될 채널A, ENA채널 ‘배우는 캠핑짱’에서는 아수라장이 된 캠핑장 때문에 긴장 상태에 둘러싸인 박성웅, 신승환, 홍종현의 모습이 그려진다. 이날 캠핑장에는 버스킹 공연의 게스트 2AM 창민과 소유가 선사한 달달 기류가 채 가시기 전에 역대급 돌풍이 불어닥친다. 갑작스레 불어온]]></content>
+        <title type="html"><![CDATA[김윤지 "오디션만 20번 이상"..美 진출기→2세 계획 발표까지 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
+        <id>https://entertain.v.daum.net/v/20220815232255941</id>
+        <link href="https://entertain.v.daum.net/v/20220815232255941"/>
+        <updated>2022-08-15T15:14:55.372Z</updated>
+        <content type="html"><![CDATA[(서울=뉴스1) 박하나 기자 = '동상이몽2' 김윤지 최우성 부부가 김윤지의 미국 영화 진출기와 함께 2세 계획을 발표했다. 15일 오후 10시에 방송된 SBS 예능 프로그램 '동상이몽2-너는 내 운명'(이하 '동상이몽2')에서는 김윤지 최우성 부부의 모습이 담겼다. 김윤지가 미국 넷플릭스 영화 '리프트(Lift)' 캐스팅 소식을 전해 모두를 놀라게 했]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA['동상이몽2' 나비 "남편은 이상이 닮은 훈남..이수만 회장님 급으로 나를 케어해 줘" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
@@ -360,69 +423,6 @@
         <link href="https://entertain.v.daum.net/v/20220815221512516"/>
         <updated>2022-08-15T13:37:20.715Z</updated>
         <content type="html"><![CDATA[[동아닷컴] 사진 제공 : ENA채널, 채널A &lt;배우는 캠핑짱&gt;ENA채널, 채널A ‘배우는 캠핑짱’ 2AM 창민과 소유가 달달한 버스킹 공연을 펼친다. 15일 ‘배우는 캠핑짱’에서는 창민과 소유가 앞치마가 아닌 마이크를 들고 캠핑장을 핑크빛 공기로 물들일 예정이다. 지난주 캠핑장에 오자마자 아르바이트생으로 투입됐던 창민과 소유는 본업은 제쳐둔 채 텐트 설]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[빌리 아일리시, 광복절 고척돔 달군 태극기..2만명 열광한 'Z세대 아이콘' (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-        <id>https://entertain.v.daum.net/v/20220815221423507</id>
-        <link href="https://entertain.v.daum.net/v/20220815221423507"/>
-        <updated>2022-08-15T13:37:20.717Z</updated>
-        <content type="html"><![CDATA[[스포티비뉴스=장진리 기자] 가수 빌리 아일리시가 고척돔을 꽉 채운 2만 명을 열광시켰다. 빌리 아일리시가 15일 오후 서울 구로구 고척동 고척스카이돔에서 '현대카드 슈퍼콘서트 26 빌리 아일리시'를 열었다. 현대카드는 빌리 아일리시의 공연으로 슈퍼콘서트를 재개했다. 2020년 1월 퀸의 공연 이후 신종 코로나바이러스 감염증(코로나19) 확산 사태로]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[성형 전문의도 인정한 황금 비율 얼굴, 한번 자세히 볼까요? 혜리, 옆모습도 예술이네! (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-        <id>https://entertain.v.daum.net/v/20220815221356503</id>
-        <link href="https://entertain.v.daum.net/v/20220815221356503"/>
-        <updated>2022-08-15T13:37:20.718Z</updated>
-        <content type="html"><![CDATA[[스포츠조선 이정혁 기자]이것이 성형외과 전문의도 인정한 황금비율이다. 옆모습이 예술이다. 혜리가 최근 자신의 인스타에 옆모습을 클로즈업한 사진을 올렸다. 연예가 자타공인 '짱구'인 혜리는 볼록한 이마에서 자연스럽게 이어지는 콧날까지, 마치 컴퓨터로 그린 듯한 모습을 자랑했다. 이같은 황금 비율은 일찍이 전문의로부터 인정받은]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[나비 "남편, 외모는 이상이 성격은 이상순" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-        <id>https://entertain.v.daum.net/v/20220815221259493</id>
-        <link href="https://entertain.v.daum.net/v/20220815221259493"/>
-        <updated>2022-08-15T13:37:20.720Z</updated>
-        <content type="html"><![CDATA[(서울=뉴스1) 박하나 기자 = 가수 나비가 '동상이몽2'에 출연해 남편의 외모와 성격을 자랑했다. 15일 오후 10시에 방송된 SBS 예능 프로그램 '동상이몽2-너는 내 운명'(이하 '동상이몽2')에서는 가수 나비가 스페셜 MC로 함께했다. 결혼 4년 차 나비는 "남편은 축구 코치다"라고 소개하며 시선을 모았다. 더불어 나비의 남편이 외모는 다이나믹]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['안다행' 성훈, 닭은커녕 달걀도 포기..붐X안정환 "마음 여리고 착해" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-        <id>https://entertain.v.daum.net/v/20220815215530342</id>
-        <link href="https://entertain.v.daum.net/v/20220815215530342"/>
-        <updated>2022-08-15T13:37:20.721Z</updated>
-        <content type="html"><![CDATA[[TV리포트=김은정 기자] 배우 성훈이 닭 잡기를 포기했다. 15일 오후 방송된 MBC '안싸우면 다행이야'에서는 성훈, 박준형, 양치승의 '내손내잡(내 손으로 내가 잡는다)' 마지막 이야기가 그려졌다. 이날 성훈은 아침 식사를 위해 토종닭 잡기에 나섰다. 그는 "두분을 모시고 왔지만 무서웠다"면서 "쭈니형은 닭을 못 잡을 것 같았고, 관장님은 민첩성 떨어]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[성훈, 닭 잡고 마음 약해졌다.."병아리 키운 적 있어" 추억 회상 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-        <id>https://entertain.v.daum.net/v/20220815215257327</id>
-        <link href="https://entertain.v.daum.net/v/20220815215257327"/>
-        <updated>2022-08-15T13:37:20.723Z</updated>
-        <content type="html"><![CDATA[(서울=뉴스1) 이지현 기자 = 성훈이 맨손으로 닭을 잡았다. 15일 오후 방송된 MBC 예능 프로그램 '안싸우면 다행이야'에서 배우 성훈은 헬스 트레이너 양치승, god 박준형과 함께 무인도 생활을 이어갔다. 이튿날 아침 식사를 위해 모두가 닭을 떠올렸다. "수탉 잡아 먹자"라는 말에 성훈은 속으로 무서웠지만 직접 나섰다. 앞서 박준형의 다리를 물]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['이별리콜' 리콜녀, 무례한 지인 둔 X 소환..친구 문제로 이별까지 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-        <id>https://entertain.v.daum.net/v/20220815215118314</id>
-        <link href="https://entertain.v.daum.net/v/20220815215118314"/>
-        <updated>2022-08-15T13:37:20.725Z</updated>
-        <content type="html"><![CDATA[(서울=뉴스1) 박하나 기자 = '이별도 리콜이 되나요?'에 지인 때문에 이별하게 된 리콜녀의 사연이 전해졌다. 15일 오후 8시 30분에 방송된 KBS 2TV 예능 프로그램 '이별도 리콜이 되나요?'에서는 'X의 불편한 지인들'이라는 제목으로 도착한 리콜녀의 사연이 담겼다. 리콜녀는 연애 1년, 이별 후 한 달이 지났다고 털어놓으며 외모 콤플렉스가 있]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이제석 "전아현 선택? 몰아가는 느낌 부담" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-        <id>https://entertain.v.daum.net/v/20220815214508278</id>
-        <link href="https://entertain.v.daum.net/v/20220815214508278"/>
-        <updated>2022-08-15T13:37:20.726Z</updated>
-        <content type="html"><![CDATA[[동아닷컴] 사진 제공 = MBC에브리원 ‘다시, 첫사랑’MBC에브리원 '다시, 첫사랑' 이제석이 전아현을 선택한 진짜 이유를 말한다. 지난 방송에서는 서지안의 첫사랑 이제석이 뉴페이스 전아현과의 데이트에 큰 설렘을 느끼며 러브라인의 지각 변동이 예고됐다. 같은 날 진행된 첫사랑 라디오에서는 이제석과 전아현이 서로 마음을 확인해 서지안의 마음을 아프게]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[양세형→손동운, 리콜녀 사연에 경악+분노.."미친 거 아냐?" (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-        <id>https://entertain.v.daum.net/v/20220815213637215</id>
-        <link href="https://entertain.v.daum.net/v/20220815213637215"/>
-        <updated>2022-08-15T13:37:20.727Z</updated>
-        <content type="html"><![CDATA[(서울=뉴스1) 박하나 기자 = '이별도 리콜이 되나요?' 양세형, 손동운 등이 X의 친구들에게서 수위 높은 농담을 들은 리콜녀의 사연에 분노했다. 15일 오후 8시 30분에 방송된 KBS 2TV 예능 프로그램 '이별도 리콜이 되나요?'에서는 'X의 불편한 지인들'이라는 제목으로 도착한 리콜녀의 사연이 담겼다. 이날 리콜녀는 연애 1년, 이별 후 한 달]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[성유리·장영란 "외모 지적 너무 싫어"..리콜녀 연애담에 질색 (다음 연예 ─ 뉴스 ─ 스타)]]></title>
-        <id>https://entertain.v.daum.net/v/20220815212420115</id>
-        <link href="https://entertain.v.daum.net/v/20220815212420115"/>
-        <updated>2022-08-15T12:27:13.077Z</updated>
-        <content type="html"><![CDATA[(서울=뉴스1) 박하나 기자 = '이별도 리콜이 되나요?' 성유리, 장영란이 리콜녀의 과거 연애담을 듣고 질색했다. 15일 오후 8시 30분에 방송된 KBS 2TV 예능 프로그램 '이별도 리콜이 되나요?'에서는 'X의 불편한 지인들'이라는 제목으로 도착한 리콜녀의 사연이 담겼다. 이날 리콜녀는 연애 1년, 이별 후 한 달이 지났다고 털어놓으며 X와 좋았]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[윌 스미스♥제이다 핀켓, 폭행 사건 이후 동반 외출..손 꼭잡고 (다음 연예 ─ 뉴스 ─ 해외)]]></title>
