@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-08-15T12:27:19.624Z</updated>
+    <updated>2022-08-15T13:37:26.963Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김민재♥김향기, 저잣거리 데이트..달콤 눈빛 포착]]></title>
+        <id>https://entertain.v.daum.net/v/20220815221510514</id>
+        <link href="https://entertain.v.daum.net/v/20220815221510514"/>
+        <updated>2022-08-15T13:37:10.746Z</updated>
+        <content type="html"><![CDATA[[동아닷컴]  사진 제공 = tvN ‘조선 정신과 의사 유세풍’tvN 월화드라마 ‘조선 정신과 의사 유세풍’ 김민재, 김향기가 저잣거리 데이트를 한다. ‘조선 정신과 의사 유세풍’(연출 박원국·강희주, 극본 박슬기·최민호·이봄) 측은 5회 방송을 앞둔 15일, ‘풍우커플’ 유세풍(김민재 분)과 서은우(김향기 분)의 저잣거리 데이트를 포착했다. 지난 방]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[차민지, 박해미에게 유산 거짓말 탄로났다.."저 사실 임신 안했었다"]]></title>
         <id>https://entertain.v.daum.net/v/20220815212302105</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220815142038527"/>
         <updated>2022-08-15T05:37:46.454Z</updated>
         <content type="html"><![CDATA[[뉴스엔 황혜진 기자] 배우 이수경이 탁월한 캐릭터 소화력으로 드라마 보는 재미를 높이고 있다. 이수경은 매주 수요일과 목요일 방영되는 tvN 수목드라마 ‘아다마스’(극본 최태강/연출 박승우)에서 김서희 역을 맡아 열연 중이다. 극 중 이수경은 정의로운 열혈 기자와 22년 전 살인 사건의 목격자를 넘나들며 긴장감을 고조시키는 역할을 하고 있다. 첫인상부터]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[정우와 박희순 그리고 박지연, 누구의 패밀리가 진짜 모범인가]]></title>
-        <id>https://entertain.v.daum.net/v/20220815141845493</id>
-        <link href="https://entertain.v.daum.net/v/20220815141845493"/>
-        <updated>2022-08-15T05:37:46.454Z</updated>
-        <content type="html"><![CDATA[[엔터미디어=정덕현] "넌 우리 가족이 정상으로 보이냐? 그러니까 우리 가족 중에 정상이 있냐고. 갑자기 저승에서 돌아온 할아버지. 태어날 때부터 고장 난 너. 맨날 히스테리 부리는 엄마에 사고뭉치 나. 그리고 저기 주인 잃은 개까지." 동하(정우)의 딸 연우(신은수)는 동생 현우(석민기)에게 그렇게 말한다. 선천적인 심장병을 갖고 있지만 늘 밝은 현우가]]></content>
     </entry>
 </feed>
