@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2022-08-16T20:14:58.638Z</updated>
+    <updated>2022-08-16T21:12:11.489Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[고경표 "군입대, 저는 강추해요"]]></title>
+        <id>https://entertain.v.daum.net/v/20220817060115657</id>
+        <link href="https://entertain.v.daum.net/v/20220817060115657"/>
+        <updated>2022-08-16T21:11:49.048Z</updated>
+        <content type="html"><![CDATA[[스포츠서울|조은별기자]“군대에서 좋은 추억만 쌓았다. 내게는 소중한 시간이다.” 대한민국 남성들이 두 번은 못가겠다고 몸서리치는 군대, 배우 고경표는 그 군대를 배경으로 한 영화 ‘육사오’의 주인공 천우로 분해 천연덕스러운 코믹 연기를 펼쳤다. 24일 개봉을 앞둔 ‘육사오’는 군사분계선을 넘어 날아가 버린 로또를 놓고 남북한 군인들이 벌이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["'우영우' 등 한국콘텐츠 에너지 너무 좋아".. 영국 거장이 전한 진심]]></title>
         <id>https://entertain.v.daum.net/v/20220817051206088</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220816164508020"/>
         <updated>2022-08-16T08:13:28.993Z</updated>
         <content type="html"><![CDATA[[SBS 연예뉴스 | 김지혜 기자] 브래드 피트 주연의 영화 '불릿 트레인'이 2주 연속 북미 박스오피스 1위를 차지했다.&nbsp; 북미 박스오피스 사이트 모조에 따르면 '불릿 트레인'은 지난 12일부터 14일까지 1,340만 달러의 극장 수익을 올려 2주 연속 주말 박스오피스 1위를 차지했다. 누적 매출액은 5,458만 달러다. '불릿 트레인'은 미션수행을 위해]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['수리남' 하정우의 시간이 온다]]></title>
-        <id>https://entertain.v.daum.net/v/20220816163307663</id>
-        <link href="https://entertain.v.daum.net/v/20220816163307663"/>
-        <updated>2022-08-16T08:13:28.996Z</updated>
-        <content type="html"><![CDATA[[SBS 연예뉴스 | 김지혜 기자] 배우 하정우의 시간이 온다. 영화 '클로젯'(2020) 이후 2년간 신작을 내놓지 않았던 하정우는 오는 9월 9일 넷플릭스 시리즈 '수리남'으로 국내외 시청자들과 만난다. 하정우의 드라마 출연은 2007년 '히트' 이후 처음이다. 지난 15년 간 영화 한 우물만 파며 '트리플 천만 배우', '최연소 1억 관객 배우' 등의]]></content>
     </entry>
 </feed>
