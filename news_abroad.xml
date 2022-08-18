@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2022-08-18T08:16:25.830Z</updated>
+    <updated>2022-08-18T09:14:04.813Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[왕조현, 같은 사람 맞아?..필터 없는 충격 근황]]></title>
+        <id>https://entertain.v.daum.net/v/20220818175530060</id>
+        <link href="https://entertain.v.daum.net/v/20220818175530060"/>
+        <updated>2022-08-18T09:14:04.230Z</updated>
+        <content type="html"><![CDATA[[TV리포트=박설이 기자]원조 미녀 스타 왕조현(55)의 근황이 공개됐다. 17일 홍콩 매체인 홍콩01은 지난 13일 캐나다 밴쿠버에서 포착된 왕조현의 사진을 공개했다. 독실한 불교 신자로 알려진 왕조현은 이날 밴쿠버 사찰에서 열린 법회에 참석했다. 법회 라이브 방송에도 모습을 드러낸 왕조현은 손을 모으고 절을 하는 등 행사에 집중했다. 이 모습은 캡처 사]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['도둑들' 임달화, 자식 데뷔 싫다더니..딸 모델 됐다]]></title>
         <id>https://entertain.v.daum.net/v/20220818164901565</id>
@@ -81,12 +88,5 @@
         <link href="https://entertain.v.daum.net/v/20220817194918418"/>
         <updated>2022-08-17T11:11:32.954Z</updated>
         <content type="html"><![CDATA[[티브이데일리 황서연 기자] 가수 머라이어 캐리가 절도 피해를 입었다. 미국 현지 언론은 15일(현지시간) 머라이어 캐리가 휴가를 떠난 상황에서 그의 저택에 도둑이 들었다고 보도했다. 절도단은 머라이어 캐리의 사회관계망서비스(SNS) 계정을 통해 그가 휴가 중임을 파악하고 이에 지난달 27일 범행을 저질렀다. 머라이어 캐리의 저택은 미국 애틀랜타 외곽에 위]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[안젤리나 졸리, '아동학대 의혹' 브래드 피트 수사한 FBI 고소]]></title>
-        <id>https://entertain.v.daum.net/v/20220817172007946</id>
-        <link href="https://entertain.v.daum.net/v/20220817172007946"/>
-        <updated>2022-08-17T09:14:49.466Z</updated>
-        <content type="html"><![CDATA[[티브이데일리 김종은 기자] 할리우드 배우 안젤리나 졸리가 전 남편 브래드 피트의 폭행 의혹을 조사한 FBI를 고소한 사실이 드러났다. 미국 연예매체 버라이어티는 16일(현지시간) "지난 4월 안젤리나 졸리가 FBI를 상대로 소송을 제기했다"고 보도했다. 버라이어티가 입수한 FBI 요원의 조사 기록에 따르면 안젤리나 졸리는 브래드 피트가 자신과 아이들에게]]></content>
     </entry>
 </feed>
