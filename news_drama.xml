@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-08-19T14:13:35.232Z</updated>
+    <updated>2022-08-19T15:15:41.233Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['빅마우스' 이종석, 곽동연 빅마우스 의심 → 정신병원 감금]]></title>
+        <id>https://entertain.v.daum.net/v/20220820000758559</id>
+        <link href="https://entertain.v.daum.net/v/20220820000758559"/>
+        <updated>2022-08-19T15:15:27.885Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 이빛나리 기자] /사진='빅마우스' 방송화면'빅마우스' 이종석이 곽동연을 빅마우스로 의심했다. 19일 오후 방송된 MBC 금토드라마 '빅마우스'에서는 박창호(이종석 분)가 성경 책 안에서 타로카드를 확인하는 제리(곽동연 분)를 발견하고 빅마우스라고 의심하는 장면이 담겼다. 박창호는 '나한테 호의를 보이며 가장 먼저 접근했던 놈 날 빅마우스로]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[백석광, 김도훈 천재성에 좌절.."내 그릇은 여기까지"]]></title>
+        <id>https://entertain.v.daum.net/v/20220819235017426</id>
+        <link href="https://entertain.v.daum.net/v/20220819235017426"/>
+        <updated>2022-08-19T15:15:27.885Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 오수정 기자) '오늘의 웹툰'에서 백석광이 김도훈의 천재성 앞에 좌절했다. &nbsp; 19일 방송된 SBS 금토드라마 '오늘의 웹툰' 7회에서는 백어진(김갑수 분)의 어시스턴트로 10년째 일하고 있는 임동희(백석광)의 이야기가 그려졌다.&nbsp; 임동희는 대학 졸업 직후 백어진의 어시스턴트에 합격해 자신의 꿈까지 얼마 남지 않았다고 생각했다. 하지만 공모전]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['빅마우스' 임윤아, 시신 안치실서 혈액 채취 "성분 분석 가능"]]></title>
         <id>https://entertain.v.daum.net/v/20220819231120228</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220819200844032"/>
         <updated>2022-08-19T11:11:51.192Z</updated>
         <content type="html"><![CDATA[[스타뉴스 이빛나리 기자] /사진='비밀의 집' 방송화면'비밀의 집'에서 서하준이 정헌과 정찬의 유전자 검사가 일치한다는 사실을 확인했다. 19일 오후 방송된 MBC 일일드라마 '비밀의 집'에서는 우지환(서하준 분)이 폭행으로 입원 한 남태형(정헌 분)과 이동철(정찬 분)의 이야기를 하는 장면이 담겼다. 우지환은 병원에서 깨어난 남태형에게 "이동철 씨]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['우영우' 주종혁 "내가 봐도 미웠다"]]></title>
-        <id>https://entertain.v.daum.net/v/20220819195003714</id>
-        <link href="https://entertain.v.daum.net/v/20220819195003714"/>
-        <updated>2022-08-19T11:11:51.197Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 황수연 기자) 배우 주종혁이 행복했던 '우영우'의 순간들을 추억했다.&nbsp; ENA 수목드라마 '이상한 변호사 우영우'는 천재적인 두뇌와 자폐스펙트럼을 동시에 가진 신입 변호사 우영우의 대형 로펌 생존기를 그린 작품으로 지난 18일 16회를 끝으로 종영했다.&nbsp; 주종혁은 극중 우영우(박은빈 분)의 얄미운 라이벌이자 법무법인 한바다의 신입 변호사 권민]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['비밀의 집' 서하준, 父와 다른 정헌 혈액형에 '충격']]></title>
-        <id>https://entertain.v.daum.net/v/20220819192444338</id>
-        <link href="https://entertain.v.daum.net/v/20220819192444338"/>
-        <updated>2022-08-19T11:11:51.198Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 이빛나리 기자] /사진='비밀의 집' 방송화면'비밀의 집'에서 서하준이 아버지와 다른 정헌의 혈액형에 충격받았다. 19일 오후 방송된 MBC 일일드라마 '비밀의 집'에서는 남태형(정헌 분)이 이동철(정찬 분)에게 구타를 당해 병원에 입원한 장면이 담겼다. 이날 함숙진(이승연 분)은 백주홍(이영은 분)에 전화를 걸어 "태형이는?"라고 물었다.]]></content>
     </entry>
 </feed>
