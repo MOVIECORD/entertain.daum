@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2022-08-21T03:37:58.541Z</updated>
+    <updated>2022-08-21T04:29:12.431Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이정재가 '헌트' 각본쓸 때 황정민과 찍은 영화 '다만 악에서 구하소서']]></title>
+        <id>https://entertain.v.daum.net/v/20220821130609031</id>
+        <link href="https://entertain.v.daum.net/v/20220821130609031"/>
+        <updated>2022-08-21T04:28:49.561Z</updated>
+        <content type="html"><![CDATA[[서울경제] 직접 맛보고 추천하는 향긋한 작품 한 잔! 세상의 OTT 다 보고 싶은 ‘OTT다방’ 배우 이정재의 감독 데뷔작 '헌트'(제작/아티스트스튜디오, 사나이픽처스) 흥행에는 역대급 카메오 군단도 한몫한 듯 하다. 배우 황정민, 이성민, 유재명, 박성웅, 김남길, 주지훈, 조우진 등 가히 영화제급 출연진은 정말 자세히 보지 않으면 그 배우인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['헌트' 이정재, 2022 신인감독상 예약이오]]></title>
         <id>https://entertain.v.daum.net/v/20220821121441518</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220821074346628"/>
         <updated>2022-08-20T23:12:13.339Z</updated>
         <content type="html"><![CDATA[[OSEN=김보라 기자]&nbsp;영화 ‘헌트’가 박스오피스 1위를 달리고 있는 가운데 300만 관객을 돌파할 전망이다. 21일 영화진흥위원회 영화관입장권 통합전산망 집계를 보면 전날(20일) ‘헌트’는 30만 3778명이 관람해 일별 박스오피스 1위에 올랐다. 이날까지 누적 관객수는 276만 4523명. 주말인 오늘 300만 관객을 동원할 것으로 예상된다. ‘]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이정재·정우성 '헌트' 11일 연속 흥행킹..누적 276만↑]]></title>
-        <id>https://entertain.v.daum.net/v/20220821072037512</id>
-        <link href="https://entertain.v.daum.net/v/20220821072037512"/>
-        <updated>2022-08-20T23:12:13.339Z</updated>
-        <content type="html"><![CDATA[[스포츠한국 조은애 기자] '헌트'가 300만 돌파를 향해&nbsp;속도를 내고 있다. 21일 영진위 통합전산망 집계에 따르면 '헌트'는 전날 하루 30만3769명의 관객을 동원하며 박스오피스 1위를 차지했다. 누적 관객 수는&nbsp;276만4514명이다. '헌트'는 조직 내 숨어든 스파이를 색출하기 위해 서로를 의심하는 안기부 요원 박평호와 김정도가 대한민국]]></content>
     </entry>
 </feed>
