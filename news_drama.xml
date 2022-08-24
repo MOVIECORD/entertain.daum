@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-08-24T14:12:46.415Z</updated>
+    <updated>2022-08-24T15:14:10.021Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[남궁민을 단돈 천 원에? 자판기 티저 포스터 공개]]></title>
+        <id>https://entertain.v.daum.net/v/20220825000040137</id>
+        <link href="https://entertain.v.daum.net/v/20220825000040137"/>
+        <updated>2022-08-24T15:13:55.866Z</updated>
+        <content type="html"><![CDATA[[동아닷컴] [사진 제공] SBS ‘천원짜리 변호사’SBS 새 금토드라마 ‘천원짜리 변호사’가 티저 포스터를 공개했다. ‘천원짜리 변호사’(극본 최수진, 최창환/연출 김재현, 신중훈)는 수임료는 단돈 천원 실력은 단연 최고, '갓성비 변호사' 천지훈이 빽 없는 의뢰인들의 가장 든든한 빽이 되어주는 통쾌한 변호 활극이다. 또 배우 남궁민이 ‘스토브리그’]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['당소말' 성동일, 다리 부상 거짓말? 지창욱 절규 "날 왜 속여"]]></title>
         <id>https://entertain.v.daum.net/v/20220824231009808</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220824184413478"/>
         <updated>2022-08-24T10:14:37.813Z</updated>
         <content type="html"><![CDATA[[OSEN=박소영 기자] ‘굿잡’&nbsp;정일우,&nbsp;권유리,&nbsp;음문석이 카지노에서 만난다. ENA&nbsp;새 수목드라마&nbsp;‘굿잡’(연출 강민구,&nbsp;김성진&nbsp;/&nbsp;극본 김정애,&nbsp;권희경&nbsp;/&nbsp;기획&nbsp;KT스튜디오지니&nbsp;/&nbsp;제작 프로덕션에이치)이 드디어 오늘(24일)&nbsp;밤&nbsp;9시 첫 방송된다.&nbsp;‘굿잡’은 재벌 탐정 은선우(정일우 분)와 초시력 능력자 돈세라(권유리 분)가 함께 펼치는 히어로맨틱]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['유세풍' 연보라, '조선판 고든램지' 활약..극 몰입도 높여]]></title>
-        <id>https://entertain.v.daum.net/v/20220824180949743</id>
-        <link href="https://entertain.v.daum.net/v/20220824180949743"/>
-        <updated>2022-08-24T09:13:30.907Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 이예진 인턴기자) 배우 연보라가 '조선 정신과 의사 유세풍'에서 몰입도를 높였다. 22일과 23일에 방송된 tvN 월화드라마 '조선 정신과 의사 유세풍' 7회와 8회에서 연보라는 벌어진 사건을 해결하며 맹활약했다. 7회에서 남해댁(연보라 분)은 계수의원 식구들과 산속에서 치료에 사용할 약초를 캐는 과정에서 입분(김수안)이 양제근을 캐자 "그건]]></content>
     </entry>
 </feed>
