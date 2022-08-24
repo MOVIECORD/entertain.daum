@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2022-08-24T13:32:50.305Z</updated>
+    <updated>2022-08-24T14:12:46.417Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[제27회 부산국제영화제, 뉴 커런츠상·지석상 심사위원 공개]]></title>
+        <id>https://entertain.v.daum.net/v/20220824230903800</id>
+        <link href="https://entertain.v.daum.net/v/20220824230903800"/>
+        <updated>2022-08-24T14:12:24.379Z</updated>
+        <content type="html"><![CDATA[제27회 부산국제영화제가 아시아영화 경쟁부문인 뉴 커런츠와 지석상 심사위원을 확정했다. 뉴 커런츠는 아시아영화의 미래를 이끌 신인 감독들의 첫 번째 또는 두 번째 장편을 소개하는 부산국제영화제의 대표적인 경쟁부문이다. 제1회 부산국제영화제를 시작으로 아시아 전역의 신선한 감각을 보유한 신예 감독들을 발굴하여 신인 감독 등용문으로 주목 받았다. 뉴 커런츠는]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["톱스타 될 재목"..'육사오' 박규태 감독 밝힌 고경표→박세완 캐스팅]]></title>
         <id>https://entertain.v.daum.net/v/20220824195321926</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220824164209831"/>
         <updated>2022-08-24T08:16:37.197Z</updated>
         <content type="html"><![CDATA[조던 필 걸작 ‘놉’이 북미 최대 장르 영화제로 꼽히는 ’새턴 어워즈’에서 무려 7개 부문 후보에 올랐다. 올해로 제50회를 맞는 ‘새턴 어워즈’는 SF, 판타지, 스릴러 등을 표방하는 작품들의 우위를 가려온 북미 최고 권위 장르 영화 시상식이다. ‘놉’은 이 시상식에서 작품상에 해당되는 최우수 SF 영화상을 비롯해 감독상, 남녀 주연상, 각본상, 편집]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['공조2: 인터내셔날' 현빈x유해진x다니엘 헤니, 삼각공조 시작..메인포스터 공개]]></title>
-        <id>https://entertain.v.daum.net/v/20220824164114780</id>
-        <link href="https://entertain.v.daum.net/v/20220824164114780"/>
-        <updated>2022-08-24T08:16:37.199Z</updated>
-        <content type="html"><![CDATA[[OSEN=김보라 기자]&nbsp;남북 최초의 비공식 공조수사라는 신선한 설정과 현빈, 유해진의 유쾌한 케미스트리로 흥행 돌풍을 일으킨 영화 '공조'의 속편 '공조2: 인터내셔날'이 짜릿한 공조의 시작을 알리는 메인 포스터와 예고편을 공개했다. '공조2: 인터내셔날(감독 이석훈, 제공배급 CJ ENM, 제작 JK필름・CJ ENM・영화사 창건)은 글로벌 범죄 조직]]></content>
     </entry>
 </feed>
