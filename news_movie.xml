@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2022-08-25T05:51:13.819Z</updated>
+    <updated>2022-08-25T06:28:10.944Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[큰 웃음 온다, 주둥이 대폭발 코미디 '정직한 후보2']]></title>
+        <id>https://entertain.v.daum.net/v/20220825150731285</id>
+        <link href="https://entertain.v.daum.net/v/20220825150731285"/>
+        <updated>2022-08-25T06:27:51.609Z</updated>
+        <content type="html"><![CDATA[[TV리포트=박설이 기자]'정직한 후보2'가 제작보고회를 통해 빅웃음을 예고했다. 24일 오전 롯데시네마 건대입구에서 열린 제작보고회에는 장유정 감독, 라미란, 김무열, 윤경호, 서현우, 박진주가 참석했다. '정직한 후보2'는 화려한 복귀의 기회를 잡은 전 국회의원 주상숙과 그의 비서 박희철이 진실의 주둥이를 쌍으로 얻게 되며 더 큰 혼돈의 카오스로 빠져]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["子 20살에 독립시킬 것"..진서연이 밝힌 자녀교육법]]></title>
+        <id>https://entertain.v.daum.net/v/20220825150002872</id>
+        <link href="https://entertain.v.daum.net/v/20220825150002872"/>
+        <updated>2022-08-25T06:27:51.610Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 김나연 기자] 배우 진서연이 25일 오후 서울 종로구 삼청동의 한 카페에서 진행된 영화 '리미트' 개봉 관련 인터뷰를 위해 포즈를 취하고 있다.  진서연은 극 중 아이를 반드시 찾아야만 하는 엄마 '연주' 역을 맡아 아이를 위해 무엇이든 할 수 있는 간절한 엄마의 마음을 섬세한 감정선으로 표현했다.  '리미트'는 아동 연쇄 유괴사건 피해자 엄마의]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['늑대사냥'·'공조2' 9월은 액션이다]]></title>
         <id>https://entertain.v.daum.net/v/20220825144604358</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220825133002755"/>
         <updated>2022-08-25T05:50:52.436Z</updated>
         <content type="html"><![CDATA[제75회 칸 국제영화제 남우주연상 수상작 '브로커'가 토론토 국제영화제 및 산세바스티안 국제영화제를 비롯한 국내외 유수 영화제들의 공식 초청을 받았다. '브로커'(감독 고레에다 히로카즈)는 베이비 박스를 둘러싸고 관계를 맺게 된 이들의 예기치 못한 특별한 여정을 그린다. 특히 송강호는 이 영화로 국내 최초 칸영화제 남우주연상을 거머쥐었다. 영화는 칸뿐만]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['늑대사냥'・'공조2', 9월 뜨겁게 달굴 강렬한 액션 영화 온다]]></title>
-        <id>https://entertain.v.daum.net/v/20220825132512646</id>
-        <link href="https://entertain.v.daum.net/v/20220825132512646"/>
-        <updated>2022-08-25T05:50:52.437Z</updated>
-        <content type="html"><![CDATA[[OSEN=박판석 기자]&nbsp;짜릿함을 선사할 액션 영화들이 9월 극장가 개봉을 앞두며 기대감을 높이고 있다. [감독/각본: 김홍선 | 제공/배급: TCO㈜더콘텐츠온 | 공동배급: CJ CGV㈜ㅣ제작: ㈜콘텐츠지ㅣ공동제작: ㈜영화사 채움] 9월 극장가 한국 영화 기대작들이 관객과 만날 준비를 마쳤다. '늑대사냥'과 '공조2: 인터내셔날'이 바로 그 주인공이다]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[영화 홍보할 거면 '헌트' 이정재·정우성처럼]]></title>
-        <id>https://entertain.v.daum.net/v/20220825132003545</id>
-        <link href="https://entertain.v.daum.net/v/20220825132003545"/>
-        <updated>2022-08-25T05:50:52.439Z</updated>
-        <content type="html"><![CDATA[[OSEN=김보라 기자]&nbsp;배우 겸 감독 이정재와 정우성이 영화 ‘헌트’를 선보이면서 본 적 없던 ‘홍보의 정석’을 보여줬다. 그간 자신이 직접 제작·연출한 영화를 선보였던 배우들을 포함해 주연배우 등이 그들처럼 다양한 형식으로 영화를 소개했던 적은 없어서다. 이정재와 정우성이 배우의 의지가 있다면 어디까지 홍보영역을 넓힐 수 있는지 바쁜 움직임을 보여줬]]></content>
     </entry>
 </feed>
