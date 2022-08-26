@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/variety</id>
     <title>다음 연예 ─ 뉴스 ─ 예능</title>
-    <updated>2022-08-26T10:15:05.021Z</updated>
+    <updated>2022-08-26T11:12:32.233Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이지현, ADHD 子 나아진 근황.."학교 1등으로 가"]]></title>
+        <id>https://entertain.v.daum.net/v/20220826201138665</id>
+        <link href="https://entertain.v.daum.net/v/20220826201138665"/>
+        <updated>2022-08-26T11:12:20.594Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 이슬 기자) 이지현이&nbsp;ADHD가 있는 아들의 근황을 전했다. 26일 방송된 채널A '요즘 육아 - 금쪽같은 내새끼'는 출산 휴가를 떠난 홍현희 대신 이지현이 함께했다. 이날 이지현은 "한 단계 업그레이드돼서 돌아온 금쪽맘"이라고 자신을 소개했다. 이에 장영란은 이지현을 "오 박사님의 수제자"라고 언급했다. 남매들의 근황을 묻자 이지현은 "그]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[엠넷 "'스맨파' 제작진 일부 발언 부절적..책임 깊이 통감"]]></title>
         <id>https://entertain.v.daum.net/v/20220826190236541</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220826171318035"/>
         <updated>2022-08-26T08:17:44.167Z</updated>
         <content type="html"><![CDATA[[뉴스엔 배효주 기자] 대세 개그 보스들이 ‘당나귀 귀’에 뜬다. 8월 28일 방송되는 KBS 2TV ‘사장님 귀는 당나귀 귀’(이하 ‘당나귀 귀’)에 총 구독자 1,000만 명의 코미디 레이블을 이끄는 정영준 대표와 '빵송국' 이창호, 곽범이 각각 새로운 보스와 스페셜 MC로 출연한다. 장삐쭈, 피식대학, 숏박스 등 실력 있는 대세 크리에이터들을 한 데]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["총 구독자 1천만명" 장삐쭈·빵송국 CEO, 일상 공개]]></title>
-        <id>https://entertain.v.daum.net/v/20220826171044959</id>
-        <link href="https://entertain.v.daum.net/v/20220826171044959"/>
-        <updated>2022-08-26T08:17:44.169Z</updated>
-        <content type="html"><![CDATA[[OSEN=연휘선 기자]&nbsp;대한민국 코미디신을 책임지고 있는 대세 개그 보스들이&nbsp;‘당나귀 귀’에 뜬다. 28일 방송되는 KBS 2TV 예능 프로그램 ‘사장님 귀는 당나귀 귀’(약칭&nbsp;‘당나귀 귀’)에 총 구독자&nbsp;1000만 명의 코미디 레이블을 이끄는 정영준 대표와&nbsp;'빵송국'&nbsp;이창호,&nbsp;곽범이 각각 새로운 보스와 스페셜&nbsp;MC로 출연한다.&nbsp; 장삐쭈,&nbsp;피식대학,&nbsp;]]></content>
     </entry>
 </feed>
