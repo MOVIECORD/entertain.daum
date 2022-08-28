@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2022-08-28T11:11:24.633Z</updated>
+    <updated>2022-08-28T12:22:36.197Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['현재는 아름다워' 김혜옥, 박지영에게 더 잘하는 윤시윤에 '섭섭']]></title>
+        <id>https://entertain.v.daum.net/v/20220828210553283</id>
+        <link href="https://entertain.v.daum.net/v/20220828210553283"/>
+        <updated>2022-08-28T12:22:30.339Z</updated>
+        <content type="html"><![CDATA[(서울=뉴스1) 이아영 기자 = '현재는 아름다워' 김혜옥이 윤시윤의 달라진 모습을 보고 섭섭해했다. 28일 방송된 KBS 2TV 주말드라마 '현재는 아름다워'(극본 하명희/연출 김성근)에서는 이현재(윤시윤 분)의 결혼 후 한경애(김혜옥 분)가 스트레스를 받았다. 한경애는 갑자기 생긴 시누이 진수정(박지영 분)을 부담스러워했다. 또 이현재가 진수정에게]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['가요광장' 정모 "H.O.T 보다 그 당시 밴드에 미쳐있었다"]]></title>
+        <id>https://entertain.v.daum.net/v/20220828210045199</id>
+        <link href="https://entertain.v.daum.net/v/20220828210045199"/>
+        <updated>2022-08-28T12:22:30.341Z</updated>
+        <content type="html"><![CDATA[가수 정모가 H.O.T와 젝스키스에 대해 언급했다. 28일 오후 방송된 KBS Cool FM ‘이기광의 가요광장’에 정모가 출연해, 재치 넘치는 입담과 남다른 정보력으로 청취자를 사로잡았다. 먼저 정모는 박진영의 ‘썸머 징글벨’을 추천, “이 앨범 활동 당시 박진영의 매니저였던 분이 이루 ‘까만안경’, 장윤정 ‘어머나!’를 작곡하셨던 분이다”라면서 “코]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['한산: 용의 출현', 오늘 700만 관객 돌파]]></title>
         <id>https://entertain.v.daum.net/v/20220828195209362</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220828182826802"/>
         <updated>2022-08-28T10:14:43.799Z</updated>
         <content type="html"><![CDATA[[스포츠조선닷컴 이우주 기자] '당나귀 귀' 장삐쭈의 모습이 최초로 공개됐다. 28일 방송된 KBS2 예능프로그램 '사장님 귀는 당나귀 귀'에서는 대한민국 최초 코미디 레이블 메타코미디 정영준 대표의 일상이 공개됐다. 정영준 대표는 여러 엔터테인먼트사를 거쳐 대한민국 최초 코미디 레이블을 결성했다. 정영준 대표를 지원사격하기 위해 게스트로]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[인디언 인형, X맨=버블시스터즈 출신 영지 꺾고 4연승 성공]]></title>
-        <id>https://entertain.v.daum.net/v/20220828182316672</id>
-        <link href="https://entertain.v.daum.net/v/20220828182316672"/>
-        <updated>2022-08-28T10:14:43.800Z</updated>
-        <content type="html"><![CDATA[(서울=뉴스1) 이아영 기자 = 인디언 인형이 가왕 자리를 지키는 데 성공했다. 28일 방송된 MBC '복면가왕'에서는 184대 복면가왕 결정전이 펼쳐졌다. 2라운드에서 계란찜은 레드벨벳의 '필 더 리듬'을 개성있게 편곡해 판정단을 매혹시켰다. 산다라박은 "가왕의 무대를 보는 것 같았다"며 걸그룹 멤버일 것이라고 추측했다. 반면 산다라박과 달리 싱어송라]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['당나귀 귀' 장윤정 1:1 레슨권 건 후배 선발 오디션 시작]]></title>
-        <id>https://entertain.v.daum.net/v/20220828182111617</id>
-        <link href="https://entertain.v.daum.net/v/20220828182111617"/>
-        <updated>2022-08-28T10:14:43.801Z</updated>
-        <content type="html"><![CDATA[장윤정의 1:1 레슨권을 건 후배 선발 오디션이 펼쳐졌다. 28일 방송된 KBS 2TV '사장님 귀는 당나귀 귀'에서 장윤정의 제자가 되기 위한 뜨거운 출사표 경쟁이 공개됐다. 마음에 호소하던 다른 사람들과 달리, 홍혜걸은 자신의 능력을 내세운 공약을 내걸어 눈길을 끌었다. 홍혜걸은 "공연할 때 누군가 아프거나 목이 쉬거나, 혹시 누군가 쓰러졌을 때 제]]></content>
     </entry>
 </feed>
