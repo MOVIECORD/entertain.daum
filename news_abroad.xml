@@ -2,15 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2022-08-29T01:20:40.318Z</updated>
+    <updated>2022-08-29T04:09:42.996Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[블랙핑크, 韓걸그룹 최초 美 'VMAs' 무대..올해의 그룹상 포함 2관왕]]></title>
+        <title type="html"><![CDATA[블랙핑크 리사, 베스트 K팝상 수상..한국어 소감까지]]></title>
+        <id>https://entertain.v.daum.net/v/20220829114042363</id>
+        <link href="https://entertain.v.daum.net/v/20220829114042363"/>
+        <updated>2022-08-29T04:09:42.130Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 황혜진 기자] 그룹 블랙핑크 멤버 리사가 미국 음악 시상식 '2022 MTV 비디오 뮤직 어워즈'(이하 MTV VMAs) K팝 상을 수상했다. 리사는 8월 28일(현지시간) 미국 뉴저지주 푸르덴셜센터에서 진행된 '2022 MTV VMAs'에서 베스트 케이팝(Best K-Pop) 부문 수상자로 호명됐다. 지난해 9월 발매한 솔로 앨범 'LALISA]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[블랙핑크, 韓걸그룹 최초 美 'VMAs' 무대..2관왕 영예까지]]></title>
         <id>https://entertain.v.daum.net/v/20220829101520053</id>
         <link href="https://entertain.v.daum.net/v/20220829101520053"/>
         <updated>2022-08-29T01:20:39.598Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 황혜진 기자] 그룹 블랙핑크(리사, 지수, 제니, 로제)가 한국 여성 그룹 최초 미국 음악 시상식 'MTV VMAs' 무대에 올랐다. 블랙핑크는 8월 28일 오후(현지시간) 미국 뉴저지주 푸르덴셜센터에서 열린 'MTV VMAs'에 참석했다. 블랙핑크는 퍼포머 자격으로 이번 시상식에 공식 초청됐다. K팝 여성 아티스트가 '그래미 어워드', '빌보]]></content>
+        <content type="html"><![CDATA[[뉴스엔 황혜진 기자] 그룹 블랙핑크(리사, 지수, 제니, 로제)가 한국 여성 그룹 최초 미국 음악 시상식 'MTV VMAs' 무대에 올랐다. 블랙핑크는 8월 28일 오후(현지시간) 미국 뉴저지주 푸르덴셜센터에서 열린 'MTV VMAs'에 참석했다. 블랙핑크는 퍼포머 자격으로 이번 시상식에 공식 초청됐다. K팝 여성 아티스트가 '그래미 어워드', '빌보드]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[블랙핑크 美 'MTV VMAs' 레드카펫 포착, 4인4색 올블랙 패션]]></title>
@@ -25,12 +32,5 @@
         <link href="https://entertain.v.daum.net/v/20220829060317853"/>
         <updated>2022-08-28T21:13:37.224Z</updated>
         <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]‘트랜스포머’ 스타 샤이아 라보프(36)가 전 여친 FKA 트위그스(34)의 성폭행 혐의 고소에 대한 자신의 생각을 밝혔다. 그는 27일(현지시간) 존 베른탈의 팟캐스트 ‘리얼 원스’에 출연해 2020년 FKA 트위그스의 성폭행, 신체적 학대에 대한 비난을 언급했다. 당시 트위그스는 라보프가 자신을 질식키시고, 둘 다 타고]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["친절한 존윅" 키아누 리브스, 영국 커플 결혼식 깜짝 참석 '화제']]></title>
-        <id>https://entertain.v.daum.net/v/20220828102417408</id>
-        <link href="https://entertain.v.daum.net/v/20220828102417408"/>
-        <updated>2022-08-28T03:54:10.722Z</updated>
-        <content type="html"><![CDATA[[OSEN=지민경 기자] 할리우드 배우 키아누 리브스가 영국의 한 커플 결혼식에 깜짝 등장해 화제를 모았다. 지난 26일 미국 매체 뉴스위크 등 다수의 외신 보도에 따르면 키아누 리브스는 지난 주말 자신이 묵고 있던 호텔에서 만난 신랑의 초대에 응해 이들 커플의 결혼식에 참석했다. 이날 영국의 한 호텔에서 결혼식을 올린 신랑은 호텔 바에서 키아누 리브스]]></content>
     </entry>
 </feed>
