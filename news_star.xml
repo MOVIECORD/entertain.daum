@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2022-09-01T16:18:57.598Z</updated>
+    <updated>2022-09-01T17:19:52.501Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['판타패' 조혜련 가족→노민우 가족, 왕중왕전 진출권 놓고 '패자부활전']]></title>
+        <id>https://v.daum.net/v/20220902012101727</id>
+        <link href="https://v.daum.net/v/20220902012101727"/>
+        <updated>2022-09-01T17:19:46.264Z</updated>
+        <content type="html"><![CDATA[[SBS연예뉴스 | 김효정 에디터] 왕중왕전에 진출할 두 가족은 누구? 1일 방송된 SBS 'DNA싱어-판타스틱 패밀리'(이하 '판타패')에서는 왕중왕전에 합류할 2팀을 가리기 위한 패자부활전이 진행됐다. 이날 방송에서는 패자부활전의 1라운드 솔로 대결이 펼쳐졌다. 총 4개의 대결에서 승리한 팀에게는 승리 기여도에 따라 가산점이 부과되는 것. 첫 번째 대결]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[제2의 크라잉넛 탄생?..한경록, 레이블 아티스트 모집]]></title>
         <id>https://v.daum.net/v/20220902004729567</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20220901234048161"/>
         <updated>2022-09-01T15:15:51.192Z</updated>
         <content type="html"><![CDATA[[스포츠한국 조은애 기자]&nbsp; 쌍둥이 듀오 량현량하의 동생 량하가 MBN '특종세상'에 "악마의 편집"이라며 불만을 드러냈다.&nbsp; 량하는 1일 자신의 인스타그램 스토리에 '특종세상'의 내용을 다룬 기사 목록을 캡처한 이미지를 올리고 "악마 편집으로 기사 이상하게 나게 만들어서 오히려 싸움을 붙이는 이번 방송 뭐지?"라고 적었다.&nbsp; 그는 "이렇게 어]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[최지우 "3살 딸, 사람처럼 말해" 흐뭇→신애라·윤유선, 돌아가신 母 생각에 눈물]]></title>
-        <id>https://v.daum.net/v/20220901233512133</id>
-        <link href="https://v.daum.net/v/20220901233512133"/>
-        <updated>2022-09-01T15:15:51.202Z</updated>
-        <content type="html"><![CDATA[[스포츠조선닷컴 이게은기자] 배우 최지우가 딸을 향해 애정을 드러냈다. 신애라와 윤유선은 이제 볼 수 없는 어머니 생각에 눈물을 흘렸다. 1일 방송된 MBN 예능 프로그램 '무작정 투어-원하는대로'(이하 '원하는대로')에서는 메인 MC 겸 여행 가이드 신애라·박하선과 윤유선, 오연수, 최지우, 이경민 원장의 강원도 동해 여행기 2탄이 공개됐다]]></content>
     </entry>
 </feed>
