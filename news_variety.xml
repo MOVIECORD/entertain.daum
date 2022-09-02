@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/variety</id>
     <title>다음 연예 ─ 뉴스 ─ 예능</title>
-    <updated>2022-09-02T18:17:32.563Z</updated>
+    <updated>2022-09-02T19:10:57.898Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['日매출 2천만원' 혜은이 맞아?, 원조 아이유 시절 깜짝→빚 고백]]></title>
+        <id>https://v.daum.net/v/20220903040918701</id>
+        <link href="https://v.daum.net/v/20220903040918701"/>
+        <updated>2022-09-02T19:10:46.179Z</updated>
+        <content type="html"><![CDATA[[OSEN=김수형 기자] &nbsp;‘오은영의 금쪽 상담소’에서 혜은이가 빚을 떠안게 된 안타까운 고백을 할 것이라 예고했다.&nbsp; 2일 방송된 채널 A 예능 ‘오은영의 금쪽 상담소’ 예고편이 그려졌다. 이날&nbsp;예고편에서는 가수 혜은이가 등장, 과거 영상 속에서 그는 '원조 아이유' 다운 미모로 시선을 강탈했다. 특히 혜은이는&nbsp;스트레스성 급 공황장애도 앓았다고 했는데]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[선예 "넷째 계획? 남편 공장문 닫았다" 솔직]]></title>
         <id>https://v.daum.net/v/20220903031140644</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20220903002307934"/>
         <updated>2022-09-02T16:17:57.399Z</updated>
         <content type="html"><![CDATA[[마이데일리 = 임유리 기자] 이영지의 목소리가 노이즈 캔슬링 헤드폰을 뚫고 들리는 사상 초유의 사태가 벌어졌다. 2일 밤 방송된 케이블채널 tvN 예능 프로그램 ‘뿅뿅 지구오락실’에서는 멤버들이 다음날 아침식사를 걸고 ‘고요 속의 외침’ 게임을 하기 위해 준비하는 모습이 그려졌다. ‘고요 속의 외침’은 음악이 나오는 헤드폰을 착용한 상태에서 상대방]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이은지, 제작진에 분노 "여기 대학교 MT가 아니라고요" 무슨 일?]]></title>
-        <id>https://v.daum.net/v/20220903001809902</id>
-        <link href="https://v.daum.net/v/20220903001809902"/>
-        <updated>2022-09-02T16:17:57.400Z</updated>
-        <content type="html"><![CDATA[[마이데일리 = 임유리 기자] 개그맨 이은지가 실수로 고기를 먹은 제작진에게 분노했다. 2일 밤 방송된 케이블채널 tvN 예능 프로그램 ‘뿅뿅 지구오락실’에서는 게임에서 승리하는 팀이 먹을 고기를 굽던 제작진이 집게로 고기를 한 점 집어 자신의 입으로 가져가는 모습이 그려졌다. 이 모습을 본 이은지는 “아니 뭐야. 이봐요 박 셰프”라며 기가 막혀 했]]></content>
     </entry>
 </feed>
