@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-09-02T21:12:15.235Z</updated>
+    <updated>2022-09-02T22:14:11.346Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[우영우의 든든한 절친..하윤경 "봄날의 햇살=박은빈"]]></title>
+        <id>https://v.daum.net/v/20220903070202068</id>
+        <link href="https://v.daum.net/v/20220903070202068"/>
+        <updated>2022-09-02T22:13:57.621Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 윤성열 기자] /사진제공=호두앤유엔터테인먼트좋은 작품일수록 배우들이 주·조연을 가리지 않고 고른 활약을 보여준다. 지난달 18일 인기리에 막을 내린 ENA 수목드라마 '이상한 변호사 우영우'(극본 문지원, 연출 유인식)가 딱 그랬다. 자폐 스펙트럼 장애를 가진 천재 변호사 우영우로 분한 박은빈의 연기도 인상적이었지만, 그를 둘러싼 친구, 가족,]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['빅마우스' 드디어 드러난 범인의 윤곽..김동원 이종석 살인지시]]></title>
         <id>https://v.daum.net/v/20220903060802727</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20220902212604286"/>
         <updated>2022-09-02T12:27:09.219Z</updated>
         <content type="html"><![CDATA[[스타뉴스 김옥주 인턴기자] /사진=KBS 2TV 일일드라마 '황금가면' 방송 화면 캡쳐'황금가면' 이현진이 공다임에게 분노했다. 2일 오후 방송된 KBS 2TV 일일드라마 '황금가면'에서는 강동하(이현진 분)가 자신과 결혼 하기 위해 거짓말을 했던 홍진아(공다임)에게 화를 내는 모습이 그려졌다. 이날 차화영(나영희 분)은 강동하에게 "신혼 첫날밤부터]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[차민지, 자신 회사에서 쫓아내려는 박해미 만행 언론에 폭로]]></title>
-        <id>https://v.daum.net/v/20220902212203215</id>
-        <link href="https://v.daum.net/v/20220902212203215"/>
-        <updated>2022-09-02T12:27:09.226Z</updated>
-        <content type="html"><![CDATA[[텐아시아=신지원 기자]'으라차차 내 인생' 차민지가 박해미에게 복수했다. 2일 밤 방송된 KBS1TV 일일드라마 '으라차차 내 인생'에서는 최미경(박해미 분)이 백승주(차민지 분)을 회사에서 쫓아내기 위해 사내게시판에 과거를 폭로하는 글을 올렸다. 일전에 시댁에서 쫓겨난 백승주는 회사는 그만 둘 수 없다며 독이 올라 끝내 회사에 출근했다. 사내게시판에]]></content>
     </entry>
 </feed>
