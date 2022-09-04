@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/variety</id>
     <title>다음 연예 ─ 뉴스 ─ 예능</title>
-    <updated>2022-09-04T16:18:05.386Z</updated>
+    <updated>2022-09-04T17:16:12.430Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['애셋맘' 이소라, 최동환과 열애설 직접 입 열었다..유현철·변혜진 최종 '불발']]></title>
+        <id>https://v.daum.net/v/20220905012029275</id>
+        <link href="https://v.daum.net/v/20220905012029275"/>
+        <updated>2022-09-04T17:16:01.480Z</updated>
+        <content type="html"><![CDATA[[OSEN=김수형 기자] ‘돌싱글즈 시즌3'에서 유현철, 변혜진 커플이 최종에서 불발된 가운데 이소라가 열애설 상대인 최동환과의 관계를 직접 언급했다.&nbsp; 4일 방송된 MBN, ENA 예능 ‘돌싱글즈 시즌3'에서 이소라가 출연했다.&nbsp; 이날 유세윤은 "드디어 기다리던 최종선택의 날이 다가왔다"고 소개 이혜영도 "반전이 많았던 시즌, 최종선택 알 수 없다"고]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[조예영, ♥한정민에 "가정주부 하고 싶어"  해피엔딩]]></title>
         <id>https://v.daum.net/v/20220905011015246</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20220904235733820"/>
         <updated>2022-09-04T15:13:33.006Z</updated>
         <content type="html"><![CDATA[[OSEN=박하영 기자] ‘미우새’ 김준호가 ‘미우새’에 남기위한 큰 그림을 그렸다. 4일 방송된 SBS ‘미운우리새끼’(이하 ‘미우새’)에서는 김준호와 김재준이 국제 코미디 페스티벌 총회에 참석한 모습이 그려졌다. 이날 김준호는 강재준에게 “아시아 중심 대한민국 부산에서 전 세계 코미디 페스이벌 연맹을 만드는 날이다. 스위스, 캐나다 등 7개국이 모였다]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[조세호, '부의 상징' 美신용카드 사용..재력 자랑]]></title>
-        <id>https://v.daum.net/v/20220904235013801</id>
-        <link href="https://v.daum.net/v/20220904235013801"/>
-        <updated>2022-09-04T15:13:33.008Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 오승현 인턴기자) '자본주의학교' 조세호가 깜짝 방문함과 동시에 부자임을 인증했다. 4일 방송된 KBS 2TV 예능 프로그램 '자본주의학교'에서는 강두와 강재준의 '자본주의식당' 운영 에피소드가 담겼다. 이날 '자본주의식당'에는 특별 손님으로 강재준의 절친인 개그맨 조세호가 출연했다. 조세호를 본 이지현은 "왜 이렇게 말랐냐"며 조세호를 반겼]]></content>
     </entry>
 </feed>
