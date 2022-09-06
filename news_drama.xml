@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-09-06T21:12:53.901Z</updated>
+    <updated>2022-09-06T22:14:10.949Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['법대로 사랑하라' 2회 시청률 6.6%, 소폭 하락]]></title>
+        <id>https://v.daum.net/v/20220907071146588</id>
+        <link href="https://v.daum.net/v/20220907071146588"/>
+        <updated>2022-09-06T22:13:54.361Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 이민지 기자] '법대로 사랑하라' 시청률이 소폭 하락했다. 시청률 조사회사 닐슨코리아에 따르면 9월 6일 방송된 KBS 2TV 새 월화드라마 '법대로 사랑하라' 2회는 전국 가구 기준 시청률 6.6%를 기록했다. 이는 1회 시청률 7.1%에 비해 0.5%P 하락한 수치이다. 1회 방송은 태풍 힌남노 관련 특보로 시청률 경쟁작이 될 정규 프로그램]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[송중기까지 나섰는데..표절 논란, 다된 '작은 아씨들'에 재 뿌렸다]]></title>
+        <id>https://v.daum.net/v/20220907061401859</id>
+        <link href="https://v.daum.net/v/20220907061401859"/>
+        <updated>2022-09-06T22:13:54.361Z</updated>
+        <content type="html"><![CDATA[[텐아시아=태유나 기자] 《태유나의 듣보드뽀》 태유나 텐아시아 기자가 현장에서 듣고 본 사실을 바탕으로 드라마의 면면을 제대로 뽀개드립니다. 수많은 채널에서 쏟아지는 드라마 홍수 시대에 독자들의 눈과 귀가 되겠습니다.&nbsp;시청률과 화제성, 작품에 대한 호평까지 얻으며 기분 좋은 출발을 알린 tvN 토일드라마 '작은 아씨들'이 티저포스터 표절 논란에 직면했다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[종영 '유세풍' 김민재, 유성주 잡았지만 김향기와 로맨스는 시즌2 기약]]></title>
         <id>https://v.daum.net/v/20220907060530796</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20220906232942357"/>
         <updated>2022-09-06T15:14:35.456Z</updated>
         <content type="html"><![CDATA[[스포츠한국 조은애 기자]&nbsp; '법대로 사랑하라' 이세영이 이승기가 벽치기 키스를 하는 줄 오해했다.&nbsp; 6일 방송된 KBS2 월화드라마 '법대로 사랑하라'에서는 17년 동안 짝사랑한 김유리(이세영)를 구하기 위해 몸을 날리는 김정호(이승기)의 모습이 그려졌다.&nbsp;&nbsp; 이날 김유리는 비가 오는 밤 로카페에 커튼을 달려다 천장에서 나는 이상한 소리를 듣]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[신예 김승화 '구미호뎐1938' 캐스팅..이동욱과 호흡]]></title>
-        <id>https://v.daum.net/v/20220906232705333</id>
-        <link href="https://v.daum.net/v/20220906232705333"/>
-        <updated>2022-09-06T15:14:35.459Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 윤성열 기자] /사진제공=킹콩 by 스타쉽신예 배우 김승화가 '구미호뎐1938'에 출연한다. 소속사 킹콩 by 스타쉽 측은 6일 "김승화가 tvN 새 드라마 '구미호뎐1938'(연출 강신효, 극본 한우리, 제작 스튜디오드래곤·하우픽쳐스)에 캐스팅됐다"고 밝혔다. '구미호뎐1938'은 1938년 혼돈의 시대에 불시착한 구미호 이연(이동욱 분]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이세영, 투신 남성 구한 이승기에 심쿵.."요즘 심장이 막 뛰어"]]></title>
-        <id>https://v.daum.net/v/20220906231402221</id>
-        <link href="https://v.daum.net/v/20220906231402221"/>
-        <updated>2022-09-06T14:16:45.894Z</updated>
-        <content type="html"><![CDATA[[텐아시아=신지원 기자]'법대로 사랑하라' 이세영이 이승기에게 반했다. 6일 방송된 KBS 월화드라마 '법대로 사랑하라'에서는 아파트에서 투신하려던 남자를 구하는 김정호(이승기 분)의 모습이 그려졌다. 이날 김정호는 아파트 옥상에서 억울함을 호소하는 남자를 말렸다. 이에 뒤따라온 김유리는 긴장상태에서 대치하는 김정호와 남자를 바라보며 어쩔줄 몰라했다.]]></content>
     </entry>
 </feed>
