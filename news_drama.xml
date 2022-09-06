@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-09-06T10:15:03.183Z</updated>
+    <updated>2022-09-06T11:12:34.094Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['비밀의집' 이승연, 깨어난 장항선 살해 사주..서하준 분노]]></title>
+        <id>https://v.daum.net/v/20220906200838473</id>
+        <link href="https://v.daum.net/v/20220906200838473"/>
+        <updated>2022-09-06T11:12:17.975Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 이빛나리 기자] /사진='비밀의집' 방송화면'비밀의 집'에서 이승연이 의식을 잃었던 장항선이 깨어났다는 소식을 듣고 장항선을 살해하려 했다. 6일 오후 방송된 MBC 일일드라마 '비밀의 집'에서는 우지환(서하준 분)과 남흥식(장항선 분)이 주식을 갈취하려는 함숙진(이승연 분)에 대해 이야기하는 장면이 담겼다. 병원에 입원 중인 남흥식은 우]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['비밀의 집' 서하준, 가짜 위임장 들고 온 이승연 '저지']]></title>
+        <id>https://v.daum.net/v/20220906194118731</id>
+        <link href="https://v.daum.net/v/20220906194118731"/>
+        <updated>2022-09-06T11:12:17.983Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 이빛나리 기자] /사진='비밀의집' 방송화면'비밀의 집'에서 서하준이 장항선의 재산에 손을 대는 이승연에게 녹음파일을 공개했다. 6일 오후 방송된 MBC 일일드라마 '비밀의 집'에서는 우지환(서하준 분)이 함숙진(이승연 분)의 위임장이 가짜라고 밝히는 장면이 담겼다. 이날 남흥식(장항선 분)의 생명이 위태롭다고 알고 있는 함숙진은 회사 주식]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['멘탈코치 제갈길' 감독 "'美에미상' 이유미, 정우가 추천"]]></title>
         <id>https://v.daum.net/v/20220906191003226</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20220906160708067"/>
         <updated>2022-09-06T07:35:06.600Z</updated>
         <content type="html"><![CDATA[[뉴스엔 박수인 기자] 배우 안창환이 '조선 정신과 의사 유세풍' 시즌1 종영 소감을 전했다. tvN 월화드라마 '조선 정신과 의사 유세풍'(이하 '유세풍')의 첫 번째 시즌이 9월 6일 막을 내린다. 생동감 넘치는 연기로 유쾌한 매력을 뽐낸 안창환은 유세풍(김민재 분)의 곁을 든든하게 지키는 가족 같은 존재이자 조선 최고의 머슴 ‘만복’ 역으로 변신,]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['소년심판' 소년 빌런 김균하, '디 엠파이어'선 로스쿨 학생]]></title>
-        <id>https://v.daum.net/v/20220906160313948</id>
-        <link href="https://v.daum.net/v/20220906160313948"/>
-        <updated>2022-09-06T07:35:06.611Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 박아름 기자] '소년심판' 최종회 빌런 '백도현'으로 활약한 김균하가 JTBC 새 토일드라마 '디 엠파이어 : 법의 제국'(연출 유현기/극본 오가규)에 캐스팅 됐다. 배우 김균하 소속사 제이알 이엔티는 "'소년심판' 강렬한 소년범 연기로 주목받은 매력적인 배우 김균하가 JTBC 새 토일드라마 '디 엠파이어 : 법의 제국'에서 민국대 로스쿨 학생]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['텐트 밖은 유럽' 진선규 "매 순간 소중..지금도 본방사수 중"]]></title>
-        <id>https://v.daum.net/v/20220906160122869</id>
-        <link href="https://v.daum.net/v/20220906160122869"/>
-        <updated>2022-09-06T07:35:06.613Z</updated>
-        <content type="html"><![CDATA[(사진=tvN)[이데일리 스타in 김보영 기자] tvN ‘텐트 밖은 유럽’ 유해진, 진선규, 박지환, 윤균상이 서로에 대한 애정을 드러내며 앞으로의 관전 포인트를 직접 공개했다. ‘텐트 밖은 유럽’(연출 강궁, 김상아, 곽지혜)이 기차 대신 직접 렌터카를 몰고 호텔 대신 광활한 대자연을 마당으로 삼은 캠핑장에서 유럽을 온몸으로 즐기는 유해진, 진선규, 박]]></content>
     </entry>
 </feed>
