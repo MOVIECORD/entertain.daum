@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-09-07T09:14:37.853Z</updated>
+    <updated>2022-09-07T10:20:20.252Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['수리남' 황정민 "목사 허울 쓴 마약상에 인간 쓰레기 역 맡아"]]></title>
+        <id>https://v.daum.net/v/20220907191919303</id>
+        <link href="https://v.daum.net/v/20220907191919303"/>
+        <updated>2022-09-07T10:20:05.425Z</updated>
+        <content type="html"><![CDATA[[스포츠한국 모신정 기자]&nbsp;넷플릭스 시리즈 '수리남'의 주연배우 황정민이 남미를 휩쓴 마약왕 전요환 역을 연기한 소감을 밝혔다.&nbsp; 황정민은 7일 오전 서울 강남구 조선팰리스 서울강남에서 열린 넷플릭스 시리즈 '수리남'(윤종빈 감독)의 제작발표회에서 "제가 막말을 하지는 못하겠지만 목사라는 허울을 쓴 마약상 역할이다. 마약왕이긴한데 인간 쓰레기다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['수리남' 하정우 "황정민 선배와 함께 하고 싶었던 17년 꿈 드디어 이뤘다"]]></title>
         <id>https://v.daum.net/v/20220907180147234</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20220907153928095"/>
         <updated>2022-09-07T07:38:00.128Z</updated>
         <content type="html"><![CDATA[[OSEN=김보라 기자]&nbsp;“프리 프로덕션 단계에서 아내와 제주도에 갔다가 ‘여기를 남미로 꾸밀 수 있겠다’는 생각이 들었다.” 윤종빈 감독은 7일 서울 역삼동 조선팰리스 서울강남에서 열린 넷플릭스 시리즈 ‘수리남’의 제작보고회에서 “촬영 당시 코로나가 심각한 상황이었다. 많은 부분을 해외 로케이션으로 계획했는데 도저히 외국으로 나갈 수 없었다. 어떻게]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[지성에 살기어린 표정으로 대적한 박혜은, 보통 인물 아니다]]></title>
-        <id>https://v.daum.net/v/20220907153838042</id>
-        <link href="https://v.daum.net/v/20220907153838042"/>
-        <updated>2022-09-07T07:38:00.133Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 박아름 기자] '아다마스' 지성과 박혜은의 살벌한 기류가 포착됐다. tvN 수목드라마 ‘아다마스’(극본 최태강/연출 박승우)에서 송수현(지성 분)과 팀A의 최종병기 썬(박혜은 분)이 조우한 모습을 9월 7일 공개했다. 앞서 송수현은 계부의 묘소를 찾았다가 썬이 설치한 폭발물에 의해 죽을 뻔한 위기를 겨우 넘겼다. 무엇보다 그는 공계장(고규필 분)]]></content>
     </entry>
 </feed>
