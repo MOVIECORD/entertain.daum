@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/variety</id>
     <title>다음 연예 ─ 뉴스 ─ 예능</title>
-    <updated>2022-09-08T06:45:45.852Z</updated>
+    <updated>2022-09-08T07:27:41.095Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[손준호, 김준수 회사 아니라 출연 금지..♥김소현 사랑꾼 문자 폭주]]></title>
+        <id>https://v.daum.net/v/20220908155854784</id>
+        <link href="https://v.daum.net/v/20220908155854784"/>
+        <updated>2022-09-08T07:27:30.176Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 서유나 기자] 김소현의 남편 손준호가 방송 출연을 금지당하곤 대신 문자로 폭주했다. 9월 8일 방송된 SBS 파워FM '두시탈출 컬투쇼'(이하 '컬투쇼')에는 가수 겸 뮤지컬 배우 김준수가 이끄는 매니지먼트 팜트리아일랜드 소속 뮤지컬 배우 김준수, 김소현, 진태화가 게스트로 출연했다. 이날 김태균은 김소현의 출연을 반기며 소속사 식구들의 출연이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[손준호 "♥김소현, 男배우 차 안 타고 다녀" 김준수도 견제]]></title>
         <id>https://v.daum.net/v/20220908153939245</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20220908140703526"/>
         <updated>2022-09-08T05:58:15.282Z</updated>
         <content type="html"><![CDATA[[뉴스엔 김명미 기자] 섹시빌런 이태곤이 '편스토랑'에 컴백한다. 9월 9일 방송되는 KBS 2TV ‘신상출시 편스토랑’(이하 ‘편스토랑’)에서는 ‘우리 쌀’을 주제로 한 메뉴 개발 대결이 시작된다. 이날 오프닝에서부터 섹시한 슈트 차림으로 등장, 눈을 뗄 수 없는 분위기로 ‘편스토랑’을 압도한 이태곤은 VCR에서도 남다른 등장으로 모두를 놀라게 했다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[구수한 유해진이 나영석 PD의 울타리를 벗어났을 때]]></title>
-        <id>https://v.daum.net/v/20220908140535484</id>
-        <link href="https://v.daum.net/v/20220908140535484"/>
-        <updated>2022-09-08T05:58:15.283Z</updated>
-        <content type="html"><![CDATA[[엔터미디어=김교석의 어쩌다 네가] 배우들이 여행을 통해 힐링을 하는 예능은 너무나 흔하다. 각기 다른 개성 충만한 배우들과 이름값은 높지만 스크린 이외에서 대중과의 접점이 없는 배우들이 출연하는데 tvN STORY, ENA &lt;이번 주도 잘 부탁해&gt;든 tvN의 &lt;바퀴 달린 집&gt;이든 간판은 달라도 구성부터 캐릭터까지 볼거리가 비슷비슷하다. 대부분 이런 식이다]]></content>
     </entry>
 </feed>
