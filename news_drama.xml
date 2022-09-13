@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-09-13T20:17:40.648Z</updated>
+    <updated>2022-09-13T21:13:32.299Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['작은아씨들' 정서경 월드, 떡밥 수만큼 '삑사리'도 눈에 띄네]]></title>
+        <id>https://v.daum.net/v/20220914060819158</id>
+        <link href="https://v.daum.net/v/20220914060819158"/>
+        <updated>2022-09-13T21:13:11.573Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 김범석 전문기자] tvN 드라마 ‘작은아씨들’이 빠른 전개와 수많은 ‘떡밥’ 투하로 시청자를 매료시키고 있다. ‘과연 진화영(추자현)은 성형 수술 후 싱가포르에 살아있는 걸까?’ ‘모든 게 남편 박재상(엄기준)을 향한 원상아(엄지원)의 계획 복수극일 것 같다’ 등 회를 거듭할수록 시청자들의 추리가 이어지고 있다. 정서경 월드에 입성한 이들은 작]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[아카데미→에미상까지 정복..美 매료시킨 K콘텐츠의 경쟁력]]></title>
+        <id>https://v.daum.net/v/20220914053007498</id>
+        <link href="https://v.daum.net/v/20220914053007498"/>
+        <updated>2022-09-13T21:13:11.574Z</updated>
+        <content type="html"><![CDATA[(사진=넷플릭스)[이데일리 스타in 김보영 기자] “한국을 빼놓고는 글로벌 엔터테인먼트를 논하기 힘들다.” 지난 7월 넷플릭스가 주최한 K예능 상견례 행사에서 등장한 말이다. 불과 2개월만에 K콘텐츠는 넷플릭스 드라마 ‘오징어 게임’으로 방송계의 ‘오스카’로 불리는 미국 에미상까지 석권하며 이 말을 다시 한번 상기시켰다. K콘텐츠의 위력은 이미 K무비 열]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이세영, 이승기에 기습 키스 "너랑 가족 같은 거 하기 싫어"]]></title>
         <id>https://v.daum.net/v/20220914051706374</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20220913210430256"/>
         <updated>2022-09-13T12:30:28.661Z</updated>
         <content type="html"><![CDATA[[TV리포트=이혜미 기자] 차민지의 폭주를 누가 막을까. 13일 방송된 KBS 1TV ‘으라차차 내 인생’에선 힘찬(김시우 분)을 버린 것도 모자라 뒤늦게 그와 만나겠다고 억지를 부리는 승주(차민지 분)와 이에 분노한 동희(남상지 분)의 모습이 그려졌다. 앞서 동희는 힘찬이 몰래 승주를 만나고 있음을 알고 경악한 바. “내가 아줌마 만난 거 얘기 안 해서]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연민지, 살아있었다..공다임, 이현진·차예련 보고 '격분']]></title>
-        <id>https://v.daum.net/v/20220913205637084</id>
-        <link href="https://v.daum.net/v/20220913205637084"/>
-        <updated>2022-09-13T12:30:28.661Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 백민경 인턴기자) '황금가면' 공다임이 이현진, 차예련이 함께 있는 모습을 보고 난동을 피웠다. 13일 방송한 KBS 2TV 방송화면 '황금가면'에서는 교통 사고를 당한 서유라(연민지 분)의 모습이 그려졌다. 서유라가 유수연(차예련)과 만나기로 한 가운데, 유수연 앞에서 뺑소니 사고를 당했다. 유수연은 곧바로 구조 요청을 했으나, 서유라는 끝]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[에미상 감독상 황동혁 감독 "시즌2의 성기훈, 무겁고 심각한 인물로 돌아올 것"]]></title>
-        <id>https://v.daum.net/v/20220913203618731</id>
-        <link href="https://v.daum.net/v/20220913203618731"/>
-        <updated>2022-09-13T12:30:28.661Z</updated>
-        <content type="html"><![CDATA[[스포츠한국 모신정 기자]&nbsp;"시즌1의 성기훈이 아이같고 순진무구한 인물이었다면 시즌2의 성기훈은 무겁고 심각한 인물로 돌아올 것입니다." 넷플릭스 시리즈 '오징어 게임'으로 미국 에미상 감독상을 수상하는 쾌거를 이룬 황동혁 감독이 시즌2에 대해 귀띔했다. 이날 수상 당시 다 말하지 못한 수상 소감도 유쾌하면서도 진중하게 밝혔다. &nbsp; 비영어권 작품]]></content>
     </entry>
 </feed>
