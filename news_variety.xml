@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/variety</id>
     <title>다음 연예 ─ 뉴스 ─ 예능</title>
-    <updated>2022-09-13T08:19:10.831Z</updated>
+    <updated>2022-09-13T09:16:29.826Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[양세형, 첫 고민 신청자 사연에 "내가 아는 사람 같아"]]></title>
+        <id>https://v.daum.net/v/20220913180829161</id>
+        <link href="https://v.daum.net/v/20220913180829161"/>
+        <updated>2022-09-13T09:16:19.672Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 박수인 기자] 가수 김재환이 스페셜 오케이 힐러로 깜짝 등장한다. 9월 13일 방송되는 KBS 2TV ‘오케이? 오케이!’에서는 현대 사회를 바쁘게 살아가는 다양한 직장인들을 만나본다. 김재환은 자신만의 성장 스토리와 힐링 보이스로 상담을 돕는 힐러 역할을 톡톡히 해냈다. 특히 바로 옆자리에서 그의 자작곡인 ‘그렇게 널’을 라이브로 들은 양세형은]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['김부선 딸' 이루안, 4억원에 목숨 걸었다 "난 죽지 않아"]]></title>
+        <id>https://v.daum.net/v/20220913173740320</id>
+        <link href="https://v.daum.net/v/20220913173740320"/>
+        <updated>2022-09-13T09:16:19.672Z</updated>
+        <content type="html"><![CDATA[[OSEN=하수정 기자] 채널A 새로운 서바이벌 예능 프로그램 ‘입주쟁탈전: 펜트하우스(이하 펜트하우스)’에서 역대급 미션 ‘물가 전쟁’이 펼쳐진다. ‘1980년대로의 타임슬립’이라는 흥미로운 설정 속에, 모두의 운과 상식을 동원한 두뇌 싸움이 펼쳐진다. 13일 방송될 ‘펜트하우스’에서는 낸시랭이 떠나고 남은 입주자 7명이 새로운 펜트하우스의 주인을 정]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[정은표 11살 막둥이, 형 따라 서울대 가겠네.."똑똑하다"]]></title>
         <id>https://v.daum.net/v/20220913171003537</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20220913142240523"/>
         <updated>2022-09-13T06:14:00.559Z</updated>
         <content type="html"><![CDATA[[OSEN=박소영 기자] 티빙 ‘환승연애2’ 이진주 PD가 출연진에 대한 넘치는 애정을 자랑했다. 이진주 PD는 13일 온라인으로 진행된 ‘환승연애2’ 화상 인터뷰에서 “시즌1이 잘 돼 시즌2에 대한 부담감이 엄청 컸다. 출연자 섭외부터 내부에서 격한 토론으로 진행됐다. 출연자 섭외 결정이 가장 어려웠다. 그렇게 최고의 출연자를 모셨다고 생각한다”고 밝]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[권은비 "MZ세대 아이돌은 개인주의, 소속사도 제재보단 존중"]]></title>
-        <id>https://v.daum.net/v/20220913141539292</id>
-        <link href="https://v.daum.net/v/20220913141539292"/>
-        <updated>2022-09-13T06:14:00.562Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 최혜진 기자] /사진=MBC에브리원 대한외국인'대한외국인'에서 가수 권은비가 요즘 아이돌 문화에 대해 언급한다. 14일 방송되는 MBC에브리원 예능 프로그램 '대한외국인'은 '세대별 아이돌' 특집으로, NRG 노유민, 인피니트 이성종, 아이즈원 출신 권은비, 골든차일드 이장준이 출연해 퀴즈 대결을 펼친다. 권은비는 엠넷 '프로듀스 48'에서]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김지민, ♥김준호 아닌 남자에 사심? "돈 많으면 오빠"]]></title>
-        <id>https://v.daum.net/v/20220913135851745</id>
-        <link href="https://v.daum.net/v/20220913135851745"/>
-        <updated>2022-09-13T06:14:00.576Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 최혜진 기자] /사진=SBS Plus 오픈런'오픈런'에서 MC 김지민이 '오빠'를 불러 외친다. 14일 방송되는 SBS Plus 예능 프로그램 '오픈런'에서는 꿈을 위해 새롭게 도전하는 MZ세대의 NEW 성공전략에 대해 소개한다. 안정적인 공무원, 대기업도 과감히 그만두고, 농촌으로, 해외로 나가서 새롭게 도전하는 모습을 소개할 예정이다. 먼]]></content>
     </entry>
 </feed>
