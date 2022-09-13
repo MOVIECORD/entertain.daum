@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/variety</id>
     <title>다음 연예 ─ 뉴스 ─ 예능</title>
-    <updated>2022-09-13T10:16:18.999Z</updated>
+    <updated>2022-09-13T11:13:16.023Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['더쇼' 임윤성, 트럼펫 연주로 독보적 매력]]></title>
+        <id>https://v.daum.net/v/20220913195329078</id>
+        <link href="https://v.daum.net/v/20220913195329078"/>
+        <updated>2022-09-13T11:13:04.893Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 명희숙 기자] 보컬리스트이자 트럼페터 임윤성이 두 번째 '더쇼' 무대를 성공적으로 마무리했다. 임윤성은 13일 오후 방송된 SBS MTV, SBS FiL ‘더쇼’에 출연해 첫 솔로 싱글 ‘Midnight Driver(미드나잇 드라이버)' 무대로 보컬리스트로서 존재감을 입증했다. 이날 방송에서 임윤성은 'Midnight Driver' 무대]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[원어스, 컴백과 동시에 1위.."행복하고 소중한 순간"]]></title>
+        <id>https://v.daum.net/v/20220913192817699</id>
+        <link href="https://v.daum.net/v/20220913192817699"/>
+        <updated>2022-09-13T11:13:04.894Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 백민경 인턴기자) 그룹 원어스가 9월 셋째 주 1위를 차지했다. 13일 방송한 SBS M, SBS Fil 음악 방송 '더 쇼'에서 빌리의 'RING ma Bell(what a beautiful world)', 김재환의 '그 시절 우리는', 원어스의 'Same Scent'(세임 센트)가 9월 셋째 주 1위 후보에 오른 가운데, 원어스가 'Sam]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['환승연애2' PD "위생 논란? 죄송합니다..시즌3는 당장 힘들어"]]></title>
         <id>https://v.daum.net/v/20220913191440436</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20220913155004751"/>
         <updated>2022-09-13T07:34:18.154Z</updated>
         <content type="html"><![CDATA[(엑스포츠뉴스 하지원 기자) 출연진 중도 퇴소부터 강력한 메기의 등장, 숙소 위생 논란까지. '환승연애2'는 리얼리티 그 자체다. 예상치 못한 모든 것들이 시청자들을 사로잡고 있다. 티빙 오리지널 '환승연애2'는 다양한 이유로 이별한 커플들이 한 집에 모여 지나간 연애를 되짚고 새로운 인연을 마주하며 자신만의 사랑을 찾아가는 연애 리얼리티 프로그램이다. ']]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['하니♥' 양재웅 "'하트시그널' 연애 족집게 라이벌 있었다"]]></title>
-        <id>https://v.daum.net/v/20220913154600638</id>
-        <link href="https://v.daum.net/v/20220913154600638"/>
-        <updated>2022-09-13T07:34:18.156Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 한해선 기자] /사진=MBC 정신건강의학과 전문의 양재웅이 예능 '하트시그널'에서 연애 족집게 라이벌이 있었다고 밝힌다. 오는 14일 방송 예정인 MBC '라디오스타'는 오윤아, 박산다라, 양재웅, 저스틴 하비가 출연하는 '관리의 세포들' 특집으로 꾸며진다. 양재웅은 '하트시그널'에서 남녀 일반인 출연진들의 행동을 분석하고 추리해 핑크빛 시그]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[레전드 육아예능 '우리 아이가 달라졌어요' 귀환, 이현이 MC 발탁]]></title>
-        <id>https://v.daum.net/v/20220913151528560</id>
-        <link href="https://v.daum.net/v/20220913151528560"/>
-        <updated>2022-09-13T07:34:18.158Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 박수인 기자] '우리 아이가 달라졌어요'가 돌아온다. SBS 플러스는 “육아 예능의 대명사로 꼽혔던 ‘우리 아이가 달라졌어요’가 오는 10월 방송을 목표로 ‘우리 아이가 달라졌어요 리턴즈’라는 새로운 이름으로 돌아온다”고 밝혔다. ‘우리 아이가 달라졌어요’는 지난 2005년 첫 방송돼, 아이를 키우는 부모들 사이에서 ‘육아 지침서’로 꼽히며 폭발]]></content>
     </entry>
 </feed>
