@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2022-09-23T14:07:47.895Z</updated>
+    <updated>2022-09-23T14:27:28.638Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[첫방 '천원짜리 변호사' 남궁민X김지은, 불꽃 튀는 신경전]]></title>
+        <id>https://v.daum.net/v/20220923232407256</id>
+        <link href="https://v.daum.net/v/20220923232407256"/>
+        <updated>2022-09-23T14:27:22.198Z</updated>
+        <content type="html"><![CDATA[[스포츠투데이 임시령 기자] '천원짜리 변호사' 남궁민이 약자를 위한 변호사로 활약했다. 23일 밤 첫 방송된 SBS 새 금토드라마 '천원짜리 변호사'(극본 최수진·연출 김재현)에서는 변호사 천지훈(낭궁민)이 검사시보 백마리(김지은)와 신경전을 다투며 사건을 해결하는 모습이 그려졌다. 이날 천지훈은 다리에서 뛰어내리려고 하는 남자의 전화를 받고 "당신이]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['천원짜리 변호사' 남궁민, 이상한 변호사 등장..김지은과 재판 신경전]]></title>
+        <id>https://v.daum.net/v/20220923231857231</id>
+        <link href="https://v.daum.net/v/20220923231857231"/>
+        <updated>2022-09-23T14:27:22.199Z</updated>
+        <content type="html"><![CDATA[‘천원짜리 변호사’ 남궁민이 이상한 변호사 등장을 알렸다. 23일 오후 첫 방송된 SBS 금토드라마 ‘천원짜리 변호사’에서는 시원하게 사건을 해결한 남궁민이 김지은과 악연의 시작을 알리는 장면이 전파를 탔다. 이날 천지훈(남궁민)은 자신에게 온 편지를 읽다 한강대교 도로 위에서 사십 대 남성 한 명이 투신 소동을 벌이고 있다는 라디오를 어디론가 운전]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['나혼산' 키, 아나운서로 변신..생방송 뉴스에 동공지진]]></title>
         <id>https://v.daum.net/v/20220923230206079</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20220923221330100"/>
         <updated>2022-09-23T14:07:41.740Z</updated>
         <content type="html"><![CDATA[[TV리포트 = 하수나 기자] ‘이젠 날 따라와’에선 재시가 사랑이와의 첫 만남에 “너무 귀엽다”라고 감탄하는 한편, 첫 방송부터 자매 케미를 드러냈다.&nbsp;&nbsp; 23일 방송된 tvN 스토리 ‘이젠 날 따라와’ 첫회가 방송됐다. ‘이젠 날 따라와’는 1세대 랜선 조카들이 아빠들을 위해 여행을 계획하는 은혜 갚기 여행 리얼리티 프로그램이다. 윤민수-윤후 부자, 이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[리아킴, 아스퍼거 증후군 고백 "진단받고 일주일간 매일 울어"]]></title>
-        <id>https://v.daum.net/v/20220923220903980</id>
-        <link href="https://v.daum.net/v/20220923220903980"/>
-        <updated>2022-09-23T14:07:41.741Z</updated>
-        <content type="html"><![CDATA[[스포츠투데이 임시령 기자] '오은영의 금쪽상담소' 리아킴이 아스퍼거 증후군 진단을 받았다. 23일 밤 방송된 채널A '오은영의 금쪽상담소'(이하 '금쪽상담소')에서는 댄서 리아킴이 출연해 이야기를 나눴다. 이날 리아킴은 자신이 자폐 스펙트럼의 일종인 아스퍼거 증후군을 앓고 있다고 고백했다. 그는 아스퍼거 증후군을 진단받았을 때를 회상했다. 리아킴은]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박진영, 美 시카고 호텔에서 이런 환대까지? 모니터엔 JYP 사진이 나오고 특별한 과일과 초콜릿까지 '대박']]></title>
-        <id>https://v.daum.net/v/20220923220521867</id>
-        <link href="https://v.daum.net/v/20220923220521867"/>
-        <updated>2022-09-23T14:07:41.742Z</updated>
-        <content type="html"><![CDATA[[스포츠조선 이정혁 기자]박진영 어디서 뭐하나 했더니, 이렇게 환대를 받아? JYP엔터테인먼트 수장이자 가수 박진영이 미국에서 근황을 전했다. 박진영은 최근 자신의 인스타에 시카고 호텔 방을 담은 영상을 올렸다. 호텔에선 축하 의미로 모니터에 박진영 사진을 띄워놓기도. 특별한 과일과 초콜릿 등이 눈길을 끈다. 지난 9]]></content>
     </entry>
 </feed>
