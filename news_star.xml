@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2022-09-25T06:20:29.609Z</updated>
+    <updated>2022-09-25T07:14:56.873Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[아이유 '이관 개방증' 고백, 50대 여배우사건 '반전'→ '프듀101' 정중지 사망]]></title>
+        <id>https://v.daum.net/v/20220925160806213</id>
+        <link href="https://v.daum.net/v/20220925160806213"/>
+        <updated>2022-09-25T07:14:51.502Z</updated>
+        <content type="html"><![CDATA[[스포츠서울|조현정기자]그룹 방탄소년단 뷔와 블랙핑크 제니의 이어지는 열애설에 팬들이 성명을 냈고, 가수 겸 배우 아이유는 콘서트에서 청력 문제를 알렸다. 배우 이기우와 래퍼 넉살은 웨딩마치를 울렸다. 50대 여배우가 피소 해프닝에 직접 나섰고, 고 장자연의 전 소속사 대표는 배우 이미숙 윤지오를 고소했다. 가수 매드클라운의 이혼 소식과]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[코드 쿤스트, 개운함 논란? 다크서클도 'HIP'한 남자]]></title>
+        <id>https://v.daum.net/v/20220925152041239</id>
+        <link href="https://v.daum.net/v/20220925152041239"/>
+        <updated>2022-09-25T07:14:51.502Z</updated>
+        <content type="html"><![CDATA[[OSEN=연휘선 기자] "개운함 논란 발생 중".&nbsp;음악 프로듀서 코드 쿤스트(본명 조성우)가 퀭한 두 눈도 '힙(HIP)'한 감성으로 소화하며 팬들의 이목을 끌고 있다. 음악만 잘하는 줄 알았더니 옷도 잘 입고, 입담도 좋고 재미있기까지 해 MZ들의 워너비, 대세로 부상한 모양새다. 코드 쿤스트는 지난 23일 개인 SNS에 사진 한 장을 게재했다. 한]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[아이유, 콘서트서 전 연인 만났다→신민아♥김우빈, 길거리 데이트 포착]]></title>
         <id>https://v.daum.net/v/20220925151929209</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20220925115208285"/>
         <updated>2022-09-25T04:05:30.256Z</updated>
         <content type="html"><![CDATA[[스포츠한국 김두연 기자] '천원짜리 변호사' 남궁민이 김지은에게 자신을 변호하라는 상상초월 미션을 던졌다. 지난 24일 방송된 SBS 새 금토드라마 '천원짜리 변호사'(극본 최수진, 최창환/연출 김재현, 신중훈/제작 스튜디오S) 2회에서는 천지훈(남궁민 분) 변호사와 법정에서 첨예한 대결을 펼쳤던 백마리(김지은 분)가 '변호사 시보 희망자'로]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박명수 "빚 내서 어학연수? BTS도 미드 보고 공부해"]]></title>
-        <id>https://v.daum.net/v/20220925114704198</id>
-        <link href="https://v.daum.net/v/20220925114704198"/>
-        <updated>2022-09-25T04:05:30.266Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 이해정 기자] '라디오쇼' 박명수가 빚을 내서 자녀 어학연수를 보내겠다는 청취자를 만류했다. 9월 25일 방송된 KBS 쿨FM '박명수의 라디오쇼'는 청취자들의 사연으로 꾸며졌다. 한 청취자는 "아이가 어학연수를 가고 싶어하는데 사정이 어렵다. 주위에서는 빚을 내서라도 보내라고 하는데 고민이다"라고 문자를 보냈다. 박명수는 "유학도 아니고 어]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['장미의 전쟁' 김지민 "박나래, 남자 볼 때 얼굴만 봐" 폭로]]></title>
-        <id>https://v.daum.net/v/20220925113809075</id>
-        <link href="https://v.daum.net/v/20220925113809075"/>
-        <updated>2022-09-25T04:05:30.267Z</updated>
-        <content type="html"><![CDATA[[스포츠투데이 백지연 기자] '장미의 전쟁' 김지민이 박나래의 이성관을 폭로한다. 26일 방송되는 MBC에브리원 ‘장미의 전쟁’에서는 출연진들의 솔직한 이상형 기준이 공개돼 화제다. 이날 김지민은 “이성을 볼 때 무엇을 제일 중요하게 생각하나”라는 흥미로운 주제를 던져 출연진의 관심을 집중시킨다. 이상민은 “웃음소리가 꾸밈없는 호탕한 여성분을 만나면 한 번]]></content>
     </entry>
 </feed>
