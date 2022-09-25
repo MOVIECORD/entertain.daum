@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/variety</id>
     <title>다음 연예 ─ 뉴스 ─ 예능</title>
-    <updated>2022-09-25T16:18:33.447Z</updated>
+    <updated>2022-09-25T17:19:45.143Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[개코, 말실수에 '화들짝'..양세형 동공지진+붐 "방송할 때 외식하길"]]></title>
+        <id>https://v.daum.net/v/20220926013005038</id>
+        <link href="https://v.daum.net/v/20220926013005038"/>
+        <updated>2022-09-25T17:19:34.780Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 박윤진 기자] 힙합 듀오 다이나믹 듀오 멤버 개코가 무심코 속마음(?)을 내보였다가 진땀을 흘렸다. 25일 방송된 MBC '구해줘! 홈즈'에서는 개코와 최자가 복팀 코디로 출연했다. 이날 개코는 송도국제도시에 위치한 복팀 매물 2호를 둘러보던 중 감탄하곤 그만 "진짜 이런 집을 보면 혼자 살아보고 싶은 그런 느낌이 있다"고 말했다. 이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[유난희 "아나운서 시험 22번 떨어져.. '괴기'스럽게 화장" 깜짝]]></title>
         <id>https://v.daum.net/v/20220926010657972</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20220925231506432"/>
         <updated>2022-09-25T15:15:15.833Z</updated>
         <content type="html"><![CDATA[[뉴스엔 서유나 기자] 개코가 집에 비자금(?)을 숨긴 장소를 딱 걸렸다. 9월 25일 방송된 MBC 예능 '구해줘! 홈즈'(이하 '홈즈') 175회에서는 송도 또는 과천 인근 경기 남부의 집을 찾는 부부 의뢰인이 등장했다. 예산은 송도국제도시의 경우 매매가 9억 원대, 경기 남부의 경우 전세가 6억 원까지 가능했다. 이날 복팀 양세형, 다이나믹 듀오]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['홈즈' 최자, 사복 입고 출근? 장동민 "편의점 가는 길 아니냐"]]></title>
-        <id>https://v.daum.net/v/20220925231424428</id>
-        <link href="https://v.daum.net/v/20220925231424428"/>
-        <updated>2022-09-25T15:15:15.833Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 이시호 기자] /사진=MBC '구해줘 홈즈' 방송 화면 캡처'홈즈' 그룹 다이나믹 듀오의 최자가 편한 복장으로 눈길을 모았다. 25일 방송된 MBC 예능 프로그램 '구해줘 홈즈'(이하 홈즈)에서는 다이나믹 듀오가 인턴 코디로 출연했다. 붐은 이날 최자의 복장이 조금 불편하다며 "본인만 사복을 입고 오셔서"라 말했다. 붐은 "팀 별로 의상]]></content>
     </entry>
 </feed>

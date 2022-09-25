@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-09-25T16:18:33.442Z</updated>
+    <updated>2022-09-25T17:19:45.139Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김상호·김태우·최광일, 신뢰 더하는 막강 라인업]]></title>
+        <id>https://v.daum.net/v/20220926020009080</id>
+        <link href="https://v.daum.net/v/20220926020009080"/>
+        <updated>2022-09-25T17:19:29.629Z</updated>
+        <content type="html"><![CDATA[[동아닷컴] [사진 제공=네오엔터테인먼트, 블라드스튜디오]KBS2 새 수목드라마 ‘진검승부’ 김상호-김태우-최광일이 막강한 존재감을 예고했다. ‘진검승부’(극본 임영빈, 연출 김성호)는 부와 권력이 만든 성역, 그리고 그 안에 살고 있는 악의 무리들까지 깨부수는 불량 검사 액션 수사극이다. 김상호-김태우-최광일은 단단한 연기 내공을 지닌 배우들답게 쫄깃하]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김고은, '작은아씨들' 충격 엔딩에 "다음주까지 좀만 기다려주세요"]]></title>
         <id>https://v.daum.net/v/20220926010505970</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20220925225735370"/>
         <updated>2022-09-25T14:12:32.233Z</updated>
         <content type="html"><![CDATA[김고은이 추자현 살인범 엄지원에게 총을 겨눴다. 9월 25일 방송된 tvN 토일드라마 ‘작은 아씨들’ 8회(극본 정서경/연출 김희원)에서 오인주(김고은 분)는 원상아(엄지원 분)가 진화영(추자현 분) 살인 진범 임을 알았다. 박재상(엄기준 분)은 최도일(위하준 분)에게 오인주를 최대한 빨리 깔끔하게 처리하라고 지시했다. 최도일은 오인주가 싱가포르에 가]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['작은아씨들' 김고은, 위하준 배신 후 도주→배후=엄지원 알았다]]></title>
-        <id>https://v.daum.net/v/20220925224612248</id>
-        <link href="https://v.daum.net/v/20220925224612248"/>
-        <updated>2022-09-25T14:12:32.236Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 이시호 기자] /사진='작은 아씨들' 방송화면 캡처'작은 아씨들' 배우 김고은이 도주 끝에 엄지원을 만났다. 25일 오후 방송된 tvN 주말드라마 '작은 아씨들'에서는 최도일(위하준 분)과 오인주(김고은 분)가 싱가폴로 떠났다. 박재상(엄기준 분)은 이날 최도일에 오인주를 하루 빨리 처리하라 명해 충격을 자아냈다. 최도일은 아무렇지 않은]]></content>
     </entry>
 </feed>
