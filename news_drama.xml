@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-09-25T10:15:57.503Z</updated>
+    <updated>2022-09-25T11:12:46.298Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김고은X위하준, 드디어 싱가포르]]></title>
+        <id>https://v.daum.net/v/20220925201046936</id>
+        <link href="https://v.daum.net/v/20220925201046936"/>
+        <updated>2022-09-25T11:12:29.807Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 김수진 기자] '작은 아씨들' 김고은, 위하준이 싱가포르로 향한다. tvN 토일드라마 '작은 아씨들'(연출 김희원, 극본 정서경, 제작 스튜디오드래곤) 제작진은  25일 오후 9시 10분 방송을 앞두고  마침내 싱가포르에 입성한 오인주(김고은 분)와 최도일(위하준 분)의 모습을 공개했다. 한국에서와는 완벽히 달라진 오인주의 새로운 모습이다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[정우, '약물 의혹' 수영 금메달리스트 문유강 압박..일촉즉발]]></title>
         <id>https://v.daum.net/v/20220925184329061</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20220925144521465"/>
         <updated>2022-09-25T06:20:14.103Z</updated>
         <content type="html"><![CDATA[[OSEN=하수정 기자] tvN ‘멘탈코치 제갈길’ 권율이 이유미에게 접근, 단둘이 맞대면한 모습이 포착돼 궁금증을 자아낸다. tvN 월화드라마 ‘멘탈코치 제갈길’(기획 스튜디오드래곤/ 제작 스튜디오드래곤, 본팩토리/ 연출 손정현/ 극본 김반디)은 멘탈코치가 되어 돌아온 전 국가대표가 선수들을 치유하며, 불의에 맞서 싸우는 멘탈케어 스포츠 활극. 지난]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['금수저' 육성재, 본투비 금수저 인생 쟁취..몰입도 높인 열연]]></title>
-        <id>https://v.daum.net/v/20220925142314984</id>
-        <link href="https://v.daum.net/v/20220925142314984"/>
-        <updated>2022-09-25T05:35:19.276Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 김명미 기자] 육성재가 ‘본투비 금수저’의 인생을 쟁취했다. 9월 24일 방송된 MBC 새 금토드라마 '금수저'에서는 운명이 바뀐 태용(육성재 분)의 금수저 적응기가 그려졌다. 이날 신비한 금수저를 이용해 도신그룹의 후계자로 재탄생한 태용은 호화롭고 안락한 생활에 만족했다. 하지만 자신의 원래 가족과 우연히 마주친 후에는 몹시 착잡해 하며 이전의]]></content>
     </entry>
 </feed>
