@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2022-09-27T19:19:23.934Z</updated>
+    <updated>2022-09-27T20:16:59.202Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['우영우' 이어 '수리남'도..IP 지키려면 불법 유통 막아야]]></title>
+        <id>https://v.daum.net/v/20220928051050120</id>
+        <link href="https://v.daum.net/v/20220928051050120"/>
+        <updated>2022-09-27T20:16:38.394Z</updated>
+        <content type="html"><![CDATA[‘수리남’ 불법 유통(사진=타오바오 캡처)[이데일리 스타in 박미애 기자] 지난 9일 넷플릭스를 통해 190여 개국에 공개돼 글로벌 3위(플릭스패트롤 기준)까지 오른 드라마 ‘수리남’이 중국에서 불법 유통되고 있다. 최근 중국 최대 오픈마켓 타오바오에서는 ‘수리남’ 전 회차가 3위안(약 593원)도 안 되는 가격에 거래되고 있다. 구매자 리뷰에는 “나쁘지]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['대무가', 흥나는 비트 속 코믹 공감 잡은 '종합선물세트']]></title>
         <id>https://v.daum.net/v/20220928000025356</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20220927174802364"/>
         <updated>2022-09-27T09:24:21.512Z</updated>
         <content type="html"><![CDATA[[김형욱 기자] ▲ &nbsp;영화 &lt;인플루엔자&gt; 포스터    ⓒ 아이 엠  &nbsp; 다솔은 이제 막 3개월 차에 접어든 신입 간호사다. 제대로 된 교육을 받지 않아 보이는 그녀는 허구헌 날 실수하고 잘 몰라 선임들한테 혼난다. 그런데 선임들이 후임한테 지적하는 모양새가 심상치 않다. 일을 더 잘해 보자는 의도는 오간 데 없고 욕설과 인신 공격까지 동반한,]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[장유정 감독 "라미란 여우주연상, 예상 못 했지만 기대는 했다"]]></title>
-        <id>https://v.daum.net/v/20220927173947103</id>
-        <link href="https://v.daum.net/v/20220927173947103"/>
-        <updated>2022-09-27T09:24:21.514Z</updated>
-        <content type="html"><![CDATA[[OSEN=김보라 기자]&nbsp;(인터뷰②에 이어) 장유정(47) 감독이 라미란(48)의 여우주연상 수상과 관련, “예상은 못 했지만 수상하는 모습을 보고 마치 제 자식이 상을 받은 듯한 기분이 들었다”고 말했다. 장유정 감독은 27일 오후 서울 삼청동의 한 카페에서 영화 ‘정직한 후보2’로 인터뷰 자리를 갖고 “저도 공연 분야에서는 상을 받은 적이 있었지만]]></content>
     </entry>
 </feed>
