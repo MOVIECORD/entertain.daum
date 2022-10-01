@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2022-10-01T05:57:24.435Z</updated>
+    <updated>2022-10-01T06:35:34.058Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['공조2' 개봉 4주차에 1위 탈환, 583만 관객 동원]]></title>
+        <id>https://v.daum.net/v/20221001150010728</id>
+        <link href="https://v.daum.net/v/20221001150010728"/>
+        <updated>2022-10-01T06:35:12.581Z</updated>
+        <content type="html"><![CDATA[[동아닷컴] 영화 '공조2: 인터내셔날'이 박스오피스 1위를 탈환했다. '공조2: 인터내셔날'이 9월 30일(금) 62,896명을 동원하며 누적 관객수 583만8905명을 기록, 박스오피스 1위에 등극했다. 개봉 4주차에도 9월 28일(수) 개봉한 '정직한 후보2' '인생은 아름다워' 등 쟁쟁한 경쟁작을 제치고 박스오피스 1위를 탈환한 것이다. '공조]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['이태성母' 박영혜 감독, 美진출작 감독상x드라마 2관왕..심사위원 만장일치]]></title>
         <id>https://v.daum.net/v/20221001143716508</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20221001091501129"/>
         <updated>2022-10-01T01:41:21.922Z</updated>
         <content type="html"><![CDATA[[양형석 기자] 10월 1일은 대한민국 국군의 발전을 기념하는 '국군의 날'이다. 1976년부터 공휴일로 지정됐던 국군의 날은 지난 1990년부터 공휴일에서 제외됐다. 공휴일에서 제외되면서 군인들을 제외한 나머지 일반 시민들에게 국군의 날은 평범한 하루와 다르지 않게 느껴지는 게 사실이다. 하지만 적어도 1년에 한 번 정도는 안전하게 나라를 지키는 군인들에]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['공조2', '정직한 후보2' 제치고 1위 재탈환]]></title>
-        <id>https://v.daum.net/v/20221001085237743</id>
-        <link href="https://v.daum.net/v/20221001085237743"/>
-        <updated>2022-10-01T01:41:21.922Z</updated>
-        <content type="html"><![CDATA[(서울=뉴스1) 장아름 기자 = 영화 '공조2: 인터내셔날'이 박스오피스 1위를 재탈환했다. 1일 영화진흥위원회 영화관입장권통합전산망의 집계에 따르면 '공조2: 인터내셔날'은 지난 9월30일 1074개 스크린에서 6만2896명의 관객을 동원하며 누적관객수 583만8905명을 기록, 박스오피스 1위에 올랐다. '공조2: 인터내셔날'은 추석 연휴를 앞둔]]></content>
     </entry>
 </feed>
