@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2022-10-02T05:44:19.405Z</updated>
+    <updated>2022-10-02T06:25:15.968Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[박찬욱·황동혁·박은빈, 미국비평가협회서 '인정'..APCT 수상]]></title>
+        <id>https://v.daum.net/v/20221002150916203</id>
+        <link href="https://v.daum.net/v/20221002150916203"/>
+        <updated>2022-10-02T06:24:54.407Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 배효주 기자] 박찬욱 감독, 황동혁 감독, 박은빈이 미국비평가협회(The Critics Choice Association, CCA)가 주관한 행사서 상을 받는다. 미국비평가협회는 9월 30일(현지시간) 홈페이지를 통해 아시아 태평양 시네마＆TV 창립 기념 행사(Asian Pacific Cinema＆Television, APCT)의 수상자 명단을]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[현빈·유해진·다니엘 헤니→윤아 '공조2', 26일 만에 600만 돌파]]></title>
         <id>https://v.daum.net/v/20221002140739001</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20221002090102716"/>
         <updated>2022-10-02T01:26:44.239Z</updated>
         <content type="html"><![CDATA[[텐아시아=강민경 기자] "제 삶의 모토는 안 하고 후회하느니 하고 후회하는 게 나아요. '정직한 후보2'는 우리들만의 욕심으로 가는 게 아닌가 그런 생각도 했어요. 욕심만큼 부담도 커요. 해봐야 후회든 영광이든 얻으니까 해보자는 생각이었어요." 배우 라미란이 '정직한 후보2'를 안 하고 싶었던 순간이 있었느냐는 물음에 이렇게 답했다. '정직한 후보2]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['컴백홈'-'선데이리그'-'스마일']]></title>
-        <id>https://v.daum.net/v/20221002090002649</id>
-        <link href="https://v.daum.net/v/20221002090002649"/>
-        <updated>2022-10-02T01:26:44.240Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 김나연 기자] 컴백홈, 선데이리그, 스마일 / 사진=각 영화 포스터추석 연휴 유일하게 개봉해 박스오피스를 휩쓴 '공조2: 인터내셔날'에 이어 '늑대사냥', '정직한 후보2', '인생은 아름다워'까지 기대작들이 줄줄이 베일을 벗었다. 그러나 개봉 첫날 박스오피스 1위를 기록했던 '늑대사냥'은 곧바로 정상의 자리에서 내려왔고, '정직한 후보2' 또한]]></content>
     </entry>
 </feed>
