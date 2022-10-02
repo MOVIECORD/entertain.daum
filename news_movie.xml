@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2022-10-02T12:27:46.624Z</updated>
+    <updated>2022-10-02T13:35:12.912Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이범수 "'자전차왕 엄복동' 실패, 부족·미흡해서..난 후배 존중하는 선배"]]></title>
+        <id>https://v.daum.net/v/20221002220502150</id>
+        <link href="https://v.daum.net/v/20221002220502150"/>
+        <updated>2022-10-02T13:34:52.376Z</updated>
+        <content type="html"><![CDATA[[텐아시아=강민경 기자] "'자전차왕 엄복동'을 제작하면서 느낀 것도 배운 것도 많아요. 저도 당시 급작스럽게 제작하게 됐어요. 제가 많이 부족했고 열정과 책임감은 가득했는데 기술적으로 매우 미흡했다고 돌이켜보게 되네요. 그리고 저는 후배를 존중하는 선배예요. 물론 노력해도 부족한 면도 있겠죠. 계속 후배를 존중하는 선배가 되고 싶네요." 배우 이범수가]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[현빈→다니엘 헤니 '공조2', 600만 돌파..훈훈 인증샷 공개]]></title>
         <id>https://v.daum.net/v/20221002212401743</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20221002120004460"/>
         <updated>2022-10-02T04:12:31.220Z</updated>
         <content type="html"><![CDATA[[김진수 기자] ▲ &nbsp;다큐멘터리 &lt;애프터 미투&gt;의 한 장면.    ⓒ ㈜영화사 그램  &nbsp; 성폭력 고발 운동 미투(Me Too, 나도 고발한다)가 터져 나왔을 때 가려져 있던 수많은 여성의 목소리에 세상은 놀랐고 분노했다. 여러 여성의 발걸음이 남성중심적이었던 시스템에 균열을 가했다. 그렇게 미투 운동 후 4년가량이 지난 한국 사회는 좀 더 나]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[시대를 풍미했던 청춘스타 리버 피닉스의 대표작 '허공에의 질주']]></title>
-        <id>https://v.daum.net/v/20221002112646972</id>
-        <link href="https://v.daum.net/v/20221002112646972"/>
-        <updated>2022-10-02T04:12:31.220Z</updated>
-        <content type="html"><![CDATA[[서울경제] 직접 맛보고 추천하는 향긋한 작품 한 잔! 세상의 OTT 다 보고 싶은 ‘OTT다방’ 감독 시드니 루멧은 우리에게도 잘 알려진 고전영화 ‘12인의 성난 사람들’(1957), ‘개 같은 날의 오후’(1975)를 비롯해 미국 자본주의 사회 속 정의에 관한 여러 이야기를 그렸다. 영화 ‘허공에의 질주’(1988) 역시 1960·70년대에 미]]></content>
     </entry>
 </feed>
