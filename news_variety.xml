@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/variety</id>
     <title>다음 연예 ─ 뉴스 ─ 예능</title>
-    <updated>2022-10-03T07:24:48.863Z</updated>
+    <updated>2022-10-03T08:20:40.132Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[방탄소년단 뷔, 별밤지기 비하인드 영상..'아미 응원으로 에너지 충전']]></title>
+        <id>https://v.daum.net/v/20221003171901647</id>
+        <link href="https://v.daum.net/v/20221003171901647"/>
+        <updated>2022-10-03T08:20:29.272Z</updated>
+        <content type="html"><![CDATA[[텐아시아=김순신 기자] &nbsp; 방탄소년단 뷔가 애틋한 팬사랑과 프로페셔널한 준비성을 보여줘 팬들뿐 아니라 제작진까지 감동케 했다. &nbsp; MBC 라디오 공식 유튜브 계정 ‘MBC Radio 봉춘라디오’에 지난 9월 30일에는 ‘DJ첫 도전! Vㅔ리 Vㅔ스트 스페셜 별밤지기 김태형(BTSV) 비하인드’ 영상이 공개돼 뜨거운 사랑을 받았다. &nbsp; 뷔는 9월]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[임성민 "국민연금도 못낸 생활고? 지금은 괜찮다..MC∙연기 다 열심히 할 것"]]></title>
         <id>https://v.daum.net/v/20221003161442663</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20221003132131324"/>
         <updated>2022-10-03T04:47:47.836Z</updated>
         <content type="html"><![CDATA[[뉴스엔 이슬기 기자] ‘장미의 전쟁’ 할리우드 유명 영화감독이 희대 엽기 살인범으로 변한 사연이 공개된다. 10월 3일 방송되는 MBC에브리원 ‘장미의 전쟁’에서는 캐나다 출신 할리우드 영화감독이 저지른 희대의 엽기 살인 사건이 안방을 찾는다. 이날 프리젠터 김지민은 “마니아층을 구축하며 많은 사랑을 받은 영화 및 애니메이션 감독”이라며 “특히 그가 연]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김원준, 과거 이병헌과 화장품 광고 "당시에는 파격적 선택"]]></title>
-        <id>https://v.daum.net/v/20221003124605926</id>
-        <link href="https://v.daum.net/v/20221003124605926"/>
-        <updated>2022-10-03T04:47:47.839Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 이슬기 기자] 가수 김원준이 과거 이병헌과 찍은 광고를 추억한다. 10월 4일 방송하는 SBS FiL ‘외식하는 날 버스킹’에서 MC 김준현은 김원준에게 “올해가 데뷔 30주년이다. 서른 살도 안 된 것 같은 외모인데 대박이다”라고 말문을 열었다. 김원준은 미소를 지으며 “감사하다”고 인사를 했다. 30주년 공연 계획에 대해서는 “이번 년도는 ‘]]></content>
     </entry>
 </feed>
