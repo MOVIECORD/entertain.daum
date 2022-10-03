@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2022-10-03T03:24:54.086Z</updated>
+    <updated>2022-10-03T04:47:59.468Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['인생은 아름다워', 내가 곧 죽는다면 남은 시간은 어떻게 보낼까?]]></title>
+        <id>https://v.daum.net/v/20221003123419823</id>
+        <link href="https://v.daum.net/v/20221003123419823"/>
+        <updated>2022-10-03T04:47:36.359Z</updated>
+        <content type="html"><![CDATA[[OSEN=김보라 기자]&nbsp;‘인생은 아름다워’(감독 최국희, 배급 롯데엔터테인먼트, 제작 더 램프)는 오세연(염정아 분)이 남편 강진봉(류승룡 분)과 함께 자신의 첫사랑을 찾아나서며 다시금 느끼게 되는 부부애를 그린 가족 영화. 주크박스 무비 ‘인생은 아름다워’는 ‘스플릿’(2016), ‘국가부도의 날’(2018) 등을 연출한 최국희 감독의 신작이다.&nbsp;]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[역주행X600만 돌파 '공조2', '예비엄마' 손예진 지원사격까지 받으며 한 달째 장기 집권]]></title>
         <id>https://v.daum.net/v/20221003121845691</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20221003085210098"/>
         <updated>2022-10-03T01:15:53.729Z</updated>
         <content type="html"><![CDATA[[스타뉴스 김미화 기자] /사진='공조2' 영화 '공조2 : 인터내셔날'이 4주 연속 주말 박스오피스 1위를 지키며 누적 관객수 608만 명을 돌파 했다. 3일 영진위 영화관입장권 통합전산망에 따르면 '공조2 : 인터내셔날'은 지난 2일 13만 3603명의 관객을 모았다. 누적관객수는 608만 26명이다. '공조2: 인터내셔날'은 글로벌 범죄 조직을 잡]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['인생은 아름다워' 류승룡x염정아 부부 케미 美쳤다..호평 입소문]]></title>
-        <id>https://v.daum.net/v/20221003083652945</id>
-        <link href="https://v.daum.net/v/20221003083652945"/>
-        <updated>2022-10-03T01:15:53.734Z</updated>
-        <content type="html"><![CDATA[[OSEN=김보라 기자]&nbsp;눈물 후기로 SNS를 뜨겁게 달구고 있는 영화 '인생은 아름다워'가 관객들의 호평을 받으며 장기 흥행을 예고했다. '인생은 아름다워'(감독 최국희, 제작 더 램프, 배급 롯데엔터테인먼트)는 자신의 생일선물로 첫사랑을 찾아 달라는 황당한 요구를 한 아내 세연(염정아 분)과 마지못해 그녀와 함께 전국 곳곳을 누비며 과거로의 여행을]]></content>
     </entry>
 </feed>
