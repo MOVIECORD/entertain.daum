@@ -2,11 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2022-10-07T11:17:02.272Z</updated>
+    <updated>2022-10-07T12:31:44.789Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[양조위, 40년 연기 인생 모두가 '화양연화']]></title>
+        <title type="html"><![CDATA['다음 소희'는 없어야 한다는 신념..비극 막기 위한 노력]]></title>
+        <id>https://v.daum.net/v/20221007201704524</id>
+        <link href="https://v.daum.net/v/20221007201704524"/>
+        <updated>2022-10-07T12:31:23.155Z</updated>
+        <content type="html"><![CDATA[[서울경제] 코로나19로 주춤했던 부산국제영화제(BUSAN International Film Festival, BIFF)가 3년 만에 이전의 모습을 찾았다. 개·폐막식을 비롯한 이벤트, 파티 등은 성대해지고, 관객과 영화인이 함께 호흡하는 대면 행사가 늘었다. 사회적 거리두기 없이 정상적으로 진행되는 축제에 영화인들과 관객들의 설렘이 가득하다. BIFF]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[양조위, 40년 연기 인생이 곧 '화양연화']]></title>
         <id>https://v.daum.net/v/20221007201514473</id>
         <link href="https://v.daum.net/v/20221007201514473"/>
         <updated>2022-10-07T11:16:40.724Z</updated>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20221007180712589"/>
         <updated>2022-10-07T09:19:27.687Z</updated>
         <content type="html"><![CDATA[[서울경제] “온라인동영상서비스(OTT)를 통해 스트리밍되는 작품으로도 영화제에 초청돼서 갈 수 있다는 생각을 못 했는데, 부산국제영화제에 올 수 있음에 기뻤습니다. OTT의 작품을 포함하더라도 영화제에서 상영하고 관객과 만난다는 형태 자체는 변하지 않는다는 점도 알게 됐습니다” 글로벌 OTT 디즈니+의 오리지널 시리즈 ‘커넥트’로 부산국제영화제를 찾은]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[양조위 "'색, 계', 촬영 3개월 전부터 탕웨이와 마작·춤 배워"]]></title>
-        <id>https://v.daum.net/v/20221007180645576</id>
-        <link href="https://v.daum.net/v/20221007180645576"/>
-        <updated>2022-10-07T09:19:27.702Z</updated>
-        <content type="html"><![CDATA[(부산=뉴스1) 정유진 기자 = 홍콩 스타 량차오웨이(양조위)가 촬영 3개월 전부터 상대역 탕웨이와 마작과 춤 등을 연습했다며 '색, 계' 촬영 당시를 회상했다. 량차오웨이는 7일 오후 부산 해운대구 영화의전당 야외극장에서 영화평론가 이동진의 사회로 진행된 제27회 부산국제영화제 오픈토크 '양조위의 화양연화'에서 고(故) 장국영부터 장만옥, 탕웨이 등]]></content>
     </entry>
 </feed>
