@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-10-07T15:17:59.723Z</updated>
+    <updated>2022-10-07T16:24:03.050Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['천원짜리 변호사' 박성준, 최대훈에 자백 "母 죽였다"]]></title>
+        <id>https://v.daum.net/v/20221008005713094</id>
+        <link href="https://v.daum.net/v/20221008005713094"/>
+        <updated>2022-10-07T16:23:46.916Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 김옥주 인턴기자] /사진=SBS 금토드라마 '천원짜리 변호사' 방송 화면 캡쳐'천원짜리 변호사'에서 박성준이 최대훈에게 엄마를 죽였다고 자백했다. 7일 오후 방송된 SBS 금토드라마 '천원짜리 변호사'에서는 살인사건을 해결하기 위해 고군분투하는 천지훈(남궁민 분)의 모습이 담겼다. 천지훈은 매스컴을 떠들썩하게 만들고 변호인단 전원 사임 논란]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[육성재, 금수저로 다시 운명 바꿨다.. 아버지 사고에 충격 "분명 하늘이 내린 벌"]]></title>
         <id>https://v.daum.net/v/20221008001642898</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20221007203501937"/>
         <updated>2022-10-07T12:31:28.495Z</updated>
         <content type="html"><![CDATA[[텐아시아=신지원 기자]'황금 가면' 이중문이 나영희 대신 교통사고로 세상을 떴다. 7일 밤 방송된 KBS2TV 일일드라마 '황금 가면'에서는 서유라(연민지 분)의 차에 친 홍진우(이중문)가 결국 사망했다. 이날 복수를 결심한 서유라는 차를 몰아 차화영(나영희 분)에게 돌진했고 이를 본 홍진우는 대신 자신이 막아섰다. 이에 홍진우는 차화영 대신 죽음을 맞]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[차예련, 복수 성공 후 이현진과 결혼 '해피엔딩']]></title>
-        <id>https://v.daum.net/v/20221007203150853</id>
-        <link href="https://v.daum.net/v/20221007203150853"/>
-        <updated>2022-10-07T12:31:28.496Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 오승현 인턴기자) '황금가면' 차예련과 이현진이 결혼을 하며 행복한 결말을 맺었다. 7일 방송된 KBS 2TV 일일드라마 '황금가면'에서는 복수를 끝낸 이들의 마지막 이야기가 담겼다.&nbsp; 이날 서유라(연민지 분)은 차화영(나영희)에게 직접 복수를 꿈꾸며 차를 몰고 돌진했다. 하지만 이를 본 홍진우(이중문)은 차화영을 구하고 대신 교통사고를 당해]]></content>
     </entry>
 </feed>
