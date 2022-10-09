@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2022-10-09T07:18:29.880Z</updated>
+    <updated>2022-10-09T08:19:22.266Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[천우희 "'머니게임' 촬영 중, 류준열→박정민과 돈독해져"]]></title>
+        <id>https://v.daum.net/v/20221009171133593</id>
+        <link href="https://v.daum.net/v/20221009171133593"/>
+        <updated>2022-10-09T08:19:00.859Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 부산=김나연 기자] 배우 천우희가 11일 오후 서울 롯데시네마 건대입구점에서 열린 영화 '앵커' 시사회에 참석해 포즈를 취하고 있다. 2022.04.11 &lt;사진=앤드크레딧 &amp;credit&gt; /사진=임성균 기자 tjdrbs23@배우 천우희가 '머니게임' 촬영 중 에피소드를 밝혔다. 9일 서울시 해운대구 영화의전당 야외무대에서 제27회 부산국제영화]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['오픈 더 도어' 장항준 감독 "송은이가 살렸다"]]></title>
+        <id>https://v.daum.net/v/20221009162553047</id>
+        <link href="https://v.daum.net/v/20221009162553047"/>
+        <updated>2022-10-09T08:19:00.868Z</updated>
+        <content type="html"><![CDATA[‘오픈 더 도어’ 오픈토크(사진=연합뉴스)[부산=이데일리 스타in 박미애 기자]‘오픈 더 도어’ 장항준 감독이 송은이에 대해 고마운 마음을 표했다. 9일 부산 해운대구 영화의전당 야외무대에서 제27회 부산국제영화제 한국영화의오늘-파노라마 초청작 ‘오픈 더 도어’ 오픈토크가 열렸다. 이 자리에 장항준 감독과 이순원, 김수진, 그리고 송은이가 참석했다. 송은]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[정일우 '고속도로 가족'으로 새 도전.."파격적, 반전 캐릭터"]]></title>
         <id>https://v.daum.net/v/20221009161415898</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20221009142745097"/>
         <updated>2022-10-09T05:36:00.352Z</updated>
         <content type="html"><![CDATA[(부산=뉴스1) 고승아 기자 = 장항준 감독이 26년 만에 부산국제영화제에 감독으로 공식 초청 받은 소회를 밝혔다. 장항준 감독은 9일 오후 1시30분 부산 해운대구 영화의 전당 야외무대에서 열린 제27회 부산국제영화제(BIFF) '오픈 더 도어' 오픈토크에서 '오픈 더 도어' 연출에 대해 "그동안 많이 놀았으니까 이제는 일을 해야겠다 해서, 이번에 부]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[장항준 감독에 '호구' 잡힌 송은이 "'오픈 더 도어', 허를 찔렀다고.."]]></title>
-        <id>https://v.daum.net/v/20221009142101954</id>
-        <link href="https://v.daum.net/v/20221009142101954"/>
-        <updated>2022-10-09T05:36:00.352Z</updated>
-        <content type="html"><![CDATA[[텐아시아=강민경 기자] 개그우먼 송은이가 절친한 친구 장항준 감독의 영화 '오픈&nbsp;더&nbsp;도어'로 제작자로 변신한 가운데, 부산 관객 앞에서 냅다 절을 한 이유는 무엇일까. 9일 오후 부산 해운대구 영화의 전당 BIFFXGENESIS 야외무대에서 영화 '오픈&nbsp;더&nbsp;도어' 오픈 토크가 개최됐다. 이 자리에는 장항준 감독, 송은이, 배우 김수진, 이순원이 참석했]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['제작자' 송은이, '오픈 더 도어' 큰 팬이 될 관객 앞서 냅다 큰절]]></title>
-        <id>https://v.daum.net/v/20221009141502893</id>
-        <link href="https://v.daum.net/v/20221009141502893"/>
-        <updated>2022-10-09T05:36:00.355Z</updated>
-        <content type="html"><![CDATA[[텐아시아=강민경 기자] 개그우먼 송은이가 절친한 친구 장항준 감독의 영화 '오픈&nbsp;더&nbsp;도어'로 제작자로 변신한 가운데, 부산 관객 앞에서 냅다 절을 한 이유는 무엇일까. 9일 오후 부산 해운대구 영화의 전당 BIFFXGENESIS 야외무대에서 영화 '오픈&nbsp;더&nbsp;도어' 오픈 토크가 개최됐다. 이 자리에는 장항준 감독, 송은이, 배우 김수진, 이순원이 참석했]]></content>
     </entry>
 </feed>
