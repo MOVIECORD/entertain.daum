@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2022-10-10T19:23:05.947Z</updated>
+    <updated>2022-10-10T20:17:27.778Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[660만 돌파 '공조2', '범죄도시2' 넘고 최장 기간 1위 달성]]></title>
+        <id>https://v.daum.net/v/20221011051536893</id>
+        <link href="https://v.daum.net/v/20221011051536893"/>
+        <updated>2022-10-10T20:17:06.814Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 배효주 기자] '공조2: 인터내셔날'이 1200만 돌파 흥행작인 '범죄도시2'를 제치고 올해 최장 기간 박스오피스 정상을 차지하고 있다. 10월 11일 영화진흥위원회 통합전산망 집계에 따르면 10일 영화 '공조2: 인터내셔날'(감독 이석훈)이 8만127명을 동원, 누적 660만5,912명을 기록했다. 개봉 이후 5주 연속 주말 박스오피스 1위를]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[한지민 "송혜교 선배 아역으로 데뷔.. 연기는 제 평생의 업"]]></title>
         <id>https://v.daum.net/v/20221011030736039</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20221010170450538"/>
         <updated>2022-10-10T08:24:10.313Z</updated>
         <content type="html"><![CDATA[배우 다니엘 헤니가 '공조2: 인터내셔날'을 사랑해 주는 관객들에게 감사 인사를 전했다. 꾸준히 한국 작품에 출연할 계획이라고 밝히기도 했다. 지난달 7일 개봉한 영화 '공조2: 인터내셔날'에서 다니엘 헤니는 FBI 요원 잭을 맡아 열연을 펼쳤다. 이 작품은 각자의 목적으로 뭉친 형사들의 예측불허 삼각 공조 수사를 그렸다. '공조2: 인터내셔날'은 지난 8]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[진가신 감독 "전 세계가 韓 콘텐츠에 열광, 학문적 연구 필요해"]]></title>
-        <id>https://v.daum.net/v/20221010165012351</id>
-        <link href="https://v.daum.net/v/20221010165012351"/>
-        <updated>2022-10-10T08:24:10.316Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 부산, 김유진 기자) (인터뷰①에 이어) 8년 만에 제27회 부산국제영화제(BIFF) 현장을 찾은 홍콩의 진가신 감독이 비약적으로 발전하고 있는 한국 콘텐츠의 성장에 놀라움을 표했다. 진가신 감독은 올해 부산국제영화제를 찾아 아시아콘텐츠&amp;필름마켓(ACFM)에서 열리는 '필름메이커스 토크: 진가신과의 대화'에 참석해 영화 팬들과 소통하고, 다양]]></content>
     </entry>
 </feed>
