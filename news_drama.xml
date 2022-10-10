@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-10-10T09:21:48.158Z</updated>
+    <updated>2022-10-10T10:16:28.354Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['작은 아씨들' 위하준 "최도일로 지낸 모든 순간이 행복했다"]]></title>
+        <id>https://v.daum.net/v/20221010191215413</id>
+        <link href="https://v.daum.net/v/20221010191215413"/>
+        <updated>2022-10-10T10:16:12.369Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 양유진 기자] 배우 위하준이 '작은 아씨들' 종영 소감을 전했다. 케이블채널 tvN 토일드라마 '작은 아씨들'에서 위하준은 오인주를 죽이려 마지막까지 발악하며 악날함의 끝을 보인 원상아와 그의 수하들로부터 목숨을 건 격투 끝에 그녀를 구해내고, 700억까지 지켜내는 활약으로 최도일다운 반전을 선사하며 강렬한 존재감을 남겼다. 반전을 거듭]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['비밀의 집' 종영, 서하준 복수 끝? 해피엔딩 맞을까]]></title>
+        <id>https://v.daum.net/v/20221010190306325</id>
+        <link href="https://v.daum.net/v/20221010190306325"/>
+        <updated>2022-10-10T10:16:12.371Z</updated>
+        <content type="html"><![CDATA[‘비밀의 집’이 종영하는 가운데, 서하준의 복수가 끝맺음을 맞을까. 10일 오후 방송되는 MBC 일일드라마 ‘비밀의 집’이 정헌(남태형 분)의 갑작스런 죽음 후 이승연(함숙진 분)의 마지막 행보에 관심이 집중되는 가운데 6개월 여 대장정의 막을 내린다. 이날 방송분에서 정헌은 이승연이 서하준을 살해하려 계획한 교통사고에서 대신 트럭과 사고가 나서 중환자실로]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['데뷔 18년차' 남지현 "엄기준 실체 까발렸으니 됐어, 난 단단한 사람"]]></title>
         <id>https://v.daum.net/v/20221010180101532</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20221010150716421"/>
         <updated>2022-10-10T06:52:54.283Z</updated>
         <content type="html"><![CDATA[[뉴스엔 이민지 기자] 이승기와 이세영, 김원해가 마주한다. 10월 10일 방송되는 KBS 2TV 월화드라마 '법대로 사랑하라'(극본 임의정/연출 이은진) 11회에서는 법조인 3인방 이승기-이세영-김원해의 은밀한 만남이 공개된다. 극 중 도한건설 주주총회 직전, 세 사람이 밀실 토크를 펼치는 장면. 고급 일식점에서 만난 세 사람이 오묘한 기운을 자아내는]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[추자현이 열고 닫았다..'작은아씨들' 허무한 결말, 이게 최선인가요]]></title>
-        <id>https://v.daum.net/v/20221010150102290</id>
-        <link href="https://v.daum.net/v/20221010150102290"/>
-        <updated>2022-10-10T06:52:54.291Z</updated>
-        <content type="html"><![CDATA[[텐아시아=태유나 기자] 《태유나의 듣보드뽀》 태유나 텐아시아 기자가 현장에서 듣고 본 사실을 바탕으로 드라마의 면면을 제대로 뽀개드립니다. 수많은 채널에서 쏟아지는 드라마 홍수 시대에 독자들의 눈과 귀가 되겠습니다.&nbsp;추자현이 첫 회에 이어 마지막 회에도 강렬한 존재감으로 tvN 토일드라마 '작은 아씨들’의 극을 여닫았다. 그러나 결말에는 호불호가 갈리고]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['모범택시'→'빈센조' 다크히어로 성공 이을 도경수의 '진검승부']]></title>
-        <id>https://v.daum.net/v/20221010144919090</id>
-        <link href="https://v.daum.net/v/20221010144919090"/>
-        <updated>2022-10-10T05:59:43.342Z</updated>
-        <content type="html"><![CDATA[[스포츠조선 문지연 기자] 안방 극장의 필승 캐릭터, 또 다른 '다크 히어로'의 등장이다. 도경수가 4년 만에 돌아온 안방에서 '진검승부'로 진정한 진검승부를 펼치고 있다. 도경수는 5일 첫 방송된 KBS 2TV 수목드라마 '진검승부' (임영빈 극본, 김성호 연출)에서 악인을 처단하기 위해서라면 편법도 마다하지 않는 전무후무한 꼴통 검사 진정]]></content>
     </entry>
 </feed>
