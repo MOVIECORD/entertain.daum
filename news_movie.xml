@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2022-10-11T05:57:28.023Z</updated>
+    <updated>2022-10-11T06:42:21.542Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["임자 만났다"..'욘더', 신하균X한지민이 그릴 미지의 세계]]></title>
+        <id>https://v.daum.net/v/20221011150610251</id>
+        <link href="https://v.daum.net/v/20221011150610251"/>
+        <updated>2022-10-11T06:41:57.054Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 김나연 기자] 욘더 / 사진=티빙'욘더'가 임자를 만났다. 19년 만에 재회한 신하균, 한지민부터 이정은, 정진영까지. 명품 배우들이 삶과 현실 너머 미지의 세계로 초대한다. 11일 티빙 오리지널 시리즈 '욘더'의 제작발표회가 온라인으로 진행됐다. 이 자리에는 이준익 감독, 신하균, 한지민, 정진영 배우가 참석해 다양한 이야기를 나눴다. '욘]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[술의 기쁨과 슬픔, 이보다 적나라할 수가]]></title>
+        <id>https://v.daum.net/v/20221011145702794</id>
+        <link href="https://v.daum.net/v/20221011145702794"/>
+        <updated>2022-10-11T06:41:57.067Z</updated>
+        <content type="html"><![CDATA[[김성호 기자] 영 탐탁지 않은 영화제였다. 광고를 할 땐 언제고 예매를 하니 확정이 된 건지 아닌지 확인 메시지가 오지 않았다. 영화제 홈페이지 문의창구로 수차례 문의해도 답은 없었다. SNS 채널엔 항의하는 이들로 댓글이 가득 찼다. 며칠 뒤 어렵게 연락이 닿았으나 예매가 누락됐다는 답만 돌아왔다. 사정을 말한 끝에 겨우 예정대로 영화제에 참석할 수 있]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['욘더' 한지민 "신하균→정진영과 호흡, 나만 잘하면 된다는 생각"]]></title>
         <id>https://v.daum.net/v/20221011144930368</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20221011131640232"/>
         <updated>2022-10-11T05:57:05.877Z</updated>
         <content type="html"><![CDATA[[뉴스엔 배효주 기자] '인생은 아름다워'의 때론 웃프고, 때론 애틋하고, 때론 가슴아픈 미공개 스틸이 공개됐다. 영화 '인생은 아름다워'(감독 최국희)는 자신의 생일선물로 첫사랑을 찾아 달라는 황당한 요구를 한 아내 ‘세연’(염정아)과 마지못해 그녀와 함께 전국 곳곳을 누비며 과거로의 여행을 떠나게 된 남편 ‘진봉’(류승룡)이 흥겨운 리듬과 멜로디로 우]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['글리치' 전여빈 "나나와 우정 혹은 사랑? 관계 정의할 수 없어"]]></title>
-        <id>https://v.daum.net/v/20221011130005837</id>
-        <link href="https://v.daum.net/v/20221011130005837"/>
-        <updated>2022-10-11T04:08:00.437Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 김나연 기자] 전여빈 / 사진=넷플릭스 배우 전여빈이 '글리치' 속 나나와의 관계에 대한 생각을 밝혔다. 11일 서울시 종로구 삼청동의 한 카페에서 넷플릭스 오리지널 시리즈 '글리치'의 배우 전여빈과 만나 다양한 이야기를 나눴다. '글리치'는 외계인이 보이는 지효(전여빈 분)와 외계인을 추적해온 보라(나나 분)가 흔적 없이 사라진 지효 남자친]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["부산팬서 돌아온다"..11월 개봉 '블랙 팬서:와칸다 포에버'에 쏠리는 기대]]></title>
-        <id>https://v.daum.net/v/20221011123824456</id>
-        <link href="https://v.daum.net/v/20221011123824456"/>
-        <updated>2022-10-11T04:08:00.437Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 배효주 기자] '블랙 팬서: 와칸다 포에버'가 개봉하는 가운데, 전작 '블랙 팬서'의 경이로운 순간들이 다시금 회자되고 있다. 영화 '블랙 팬서'(감독 라이언 쿠글러)는 2018년 개봉 당시 마블 사상 가장 혁신적인 히어로로 전 세계적인 화제를 모았다. 특히 부산이란 연결고리로 대한민국과 남다른 인연을 갖게 되는데, '어벤져스: 에이지 오브 울]]></content>
     </entry>
 </feed>
