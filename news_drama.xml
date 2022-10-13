@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-10-13T20:17:23.196Z</updated>
+    <updated>2022-10-13T21:16:33.547Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[쏟아지는 법조인 드라마..새로움이 필요해]]></title>
+        <id>https://v.daum.net/v/20221014055005082</id>
+        <link href="https://v.daum.net/v/20221014055005082"/>
+        <updated>2022-10-13T21:16:15.608Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 박정민 기자] 바야흐로 법조인 전성시대다. 그간 수많은 드라마에서 변호사, 검사, 판사 등 법조인을 내세웠지만, 올해는 유독 많다. 요즘 월화수목금토일 일주일 안방극장은 법조인들이 책임지고 있다. KBS 2TV 월화드라마 '법대로 사랑하라'는 변호사 김유리(이세영 분)와 전직 검사 김정호(이승기 분)가 주인공이다. 수요일, 목요일엔 꼴통 검사]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['진검승부' 도경수, 최광일 타살 의심..이세희에 "내가 다 퍼먹여줄게"]]></title>
         <id>https://v.daum.net/v/20221013222729881</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20221013171352700"/>
         <updated>2022-10-13T08:20:39.396Z</updated>
         <content type="html"><![CDATA[[스타뉴스 김수진 기자] 배우 이다희가  '얼어죽을 연애따위'에서 감정 변화를 섬세하게 담아냈다. 지난 12일 방송된 ENA 수목드라마 '얼어죽을 연애따위'에서는 여름(이다희 분)이 인우(송종호 분)의 프러포즈에 흔들려 하는 모습이 그려졌다. 이날 여름은 간밤의 재훈(최시원 분)과의 사건을 애써 머릿속에서 지우고, '사랑의 왕국 시즌 2'를 채리(조수]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[인기 웹툰 '사랑하는 여배우들', 드라마로 제작된다]]></title>
-        <id>https://v.daum.net/v/20221013164029410</id>
-        <link href="https://v.daum.net/v/20221013164029410"/>
-        <updated>2022-10-13T08:20:39.408Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 황수연 기자) 네이버웹툰에서 인기리에 연재 중인 '사랑하는 여배우들'(글: 고나리자, 그림: 수정)이 실사로 제작된다. 원작사인 재담미디어는 최근 제작사 빈지웍스와 드라마 제작에 대한 계약을 마쳤다고 밝혔다. '사랑하는 여배우들'은 첫사랑을 못 잊은 여대생 ‘초원’에게 국민 여신으로 불리는 유진의 혼이 빙의되어 펼쳐지는 로맨스 판타지 장르물이]]></content>
     </entry>
 </feed>

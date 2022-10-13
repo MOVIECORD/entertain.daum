@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2022-10-13T20:17:23.191Z</updated>
+    <updated>2022-10-13T21:16:33.527Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[3년만의 정상화 BIFF..양조위 초청 등 숱한 화제 속 성공적 폐막]]></title>
+        <id>https://v.daum.net/v/20221014060003238</id>
+        <link href="https://v.daum.net/v/20221014060003238"/>
+        <updated>2022-10-13T21:16:10.426Z</updated>
+        <content type="html"><![CDATA[[스포츠서울 | 조은별기자]제 27회부산국제영화제(BIFF)가 열흘간의 일정을 마무리하고 내년을 기약한다. 부산국제영화제는 14일 오후 6시 해운대 영화의 전당 야외극장에서 배우 권율, 한선화의 사회로 폐막식을 진행한다. 폐막작은 2022 베니스국제영화제 오리종티 초청작인 이시카와 케이 감독의 ‘한 남자’가 상영될 예정이다. 올해]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[흥행 뒷심 '인생은 아름다워' 이틀 연속 역주행 1위..70만 돌파]]></title>
+        <id>https://v.daum.net/v/20221014052339753</id>
+        <link href="https://v.daum.net/v/20221014052339753"/>
+        <updated>2022-10-13T21:16:10.426Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 배효주 기자] '인생은 아름다워'가 흥행 역주행을 시작한 가운데, 이틀 연속 박스오피스 1위를 차지했다. 10월 14일 영화진흥위원회 통합전산망 집계에 따르면 13일 영화 '인생은 아름다워'(감독 최국희)가 2만259명을 동원, 이틀 연속 전체 박스오피스 1위에 등극했다. 누적 관객 70만5,592명이다. 지난달 28일 개봉한 '인생은 아름다워']]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이영애 "'라면 먹을래요?' 대사 인기 실감..사람 사라져도 작품은 남아"]]></title>
         <id>https://v.daum.net/v/20221014044102055</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20221013191521738"/>
         <updated>2022-10-13T10:17:19.701Z</updated>
         <content type="html"><![CDATA[[OSEN=부산, 김보라 기자]&nbsp;배우 하정우(45)가 넷플릭스 드라마 ‘수리남’에 대해 “이야기가 방대했기 때문에 6시간 짜리 영화 같았다”라고 소개했다. 하정우는 13일 오후 부산 해운대구 우동 KNN타워 KNN시어터에서 열린 액터스 하우스에서 “영화는 2~3시간 안에 인물을 표현하는데 ‘수리남’은 6시간이라는 긴 시간이 주어졌다. (영화라면)디테일하]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[하정우 "아직은 미혼, 윤종빈 감독 통해 아버지 대리경험"]]></title>
-        <id>https://v.daum.net/v/20221013191514731</id>
-        <link href="https://v.daum.net/v/20221013191514731"/>
-        <updated>2022-10-13T10:17:19.701Z</updated>
-        <content type="html"><![CDATA[[OSEN=부산, 김보라 기자]&nbsp;배우 하정우(45)가 아버지 캐릭터를 소화하는 데 윤종빈(44) 감독의 영향을 받았다고 전했다. 하정우는 13일 오후 부산 해운대구 우동 KNN타워 KNN시어터에서 열린 액터스 하우스에서 “최민식 선배가 ‘범죄와의 전쟁’에서 연기한 캐릭터와 윤종빈 감독이 아버지로서 만들어온 모습을 이해했다”며 “제가 아직은 미혼이지만 윤]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["클리셰에 충실"..'귀못', 박하나·허진·정영주가 빠진 K-공포물]]></title>
-        <id>https://v.daum.net/v/20221013190920601</id>
-        <link href="https://v.daum.net/v/20221013190920601"/>
-        <updated>2022-10-13T10:17:19.701Z</updated>
-        <content type="html"><![CDATA['귀못'이 극장가를 찾는다. 클리셰에 충실하지만 수살귀라는 소재는 독특하다. 배우 박하나 허진 정영주는 모두 '귀못'을 향한 자신감을 내비쳤다. 13일 오후 서울 용산구 CGV용산아이파크몰에서는 영화 '귀못'의 언론배급시사회가 진행됐다. 이 자리에는 탁세웅 감독과 박하나 허진 정영주가 참석했다. '귀못'은 수살귀가 살고 있다는 흉흉한 소문이 가득한 저수지]]></content>
     </entry>
 </feed>
