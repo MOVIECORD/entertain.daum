@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2022-10-14T09:20:42.585Z</updated>
+    <updated>2022-10-14T10:18:01.639Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["양조위 보러 4500명 왔다"..16만명 찾은 27회 부산영화제, 10일 축제 성공적!]]></title>
+        <id>https://v.daum.net/v/20221014185040117</id>
+        <link href="https://v.daum.net/v/20221014185040117"/>
+        <updated>2022-10-14T10:17:40.841Z</updated>
+        <content type="html"><![CDATA[[OSEN=부산, 김보라 기자] 부산 국제영화제(BIFF) 허문영 집행위원장이 올해의 아시아영화인상의 주역인 홍콩배우 양조위의 인기에 대해 “게스트는 최소한의 인원수로 발표하는데, 양조위 배우의 경우는 야외 객석을 거의 채웠다”며 “그를 보러 4500명 정도 관객들이 오셨다”고 밝혔다. 허문영 집행위원장은 14일 오전 부산 해운대구 우동 KNN타워 KN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[제27회 부산국제영화제, 오늘 폐막..3년 만의 정상 개최, 16만 명 방문]]></title>
+        <id>https://v.daum.net/v/20221014184150997</id>
+        <link href="https://v.daum.net/v/20221014184150997"/>
+        <updated>2022-10-14T10:17:40.842Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 김유진 기자) 제27회 부산국제영화제가 오늘(14일) 폐막식을 끝으로 열흘간의 영화 축제를 마친다. 올해 부산국제영화제는 14일 열린 결산 기자회견과 같은 날 오후 6시 배우 권율과 한선화의 사회로 열리는 폐막식, 폐막작 '한 남자'(감독 이시카와 케이) 상영을 끝으로 축제를 마무리한다. 지난 5일 개막한 부산국제영화제는 영화의전당을 비롯해]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[교포·이민자 슬픔 담았다, 제2의 '미나리' 될까]]></title>
         <id>https://v.daum.net/v/20221014181503600</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20221014142330006"/>
         <updated>2022-10-14T06:03:51.729Z</updated>
         <content type="html"><![CDATA[[서울경제] 티모시 샬라메는 할리우드 영화 감독은 물론 유명 패션 디자이너들이 갈망하는 청춘의 아이콘이다. 루카 구아다니노 감독의 ‘본즈 앤 올’이 처음 공개된 베니스 영화제에서 프랑스 디자이너 하이더 아커만의 빨간 반짝이 맞춤 수트를 입은 티모시 샬라메가 레드카펫에 등장하는 순간 모두가 입을 다물지 못했다. 등을 훤히 드러낸 대담한 탑과 스카프, 슬림핏]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[양조위·아이유·강동원·이영애..3년만에 화려한·영화·축제 되찾았다]]></title>
-        <id>https://v.daum.net/v/20221014142010872</id>
-        <link href="https://v.daum.net/v/20221014142010872"/>
-        <updated>2022-10-14T06:03:51.738Z</updated>
-        <content type="html"><![CDATA[(서울=뉴스1) 정유진 기자 = 제27회 부산국제영화제(BIFF)가 14일 오후 폐막식을 끝으로 축제의 막을 내린다. 3년 만에 사회적 거리두기 없이 진행된 이번 영화제는 량차오웨이(양조위)와 이영애, 강동원 등 톱스타들이 참석해 화제성을 높였을 뿐 아니라 영화제 기간 열리는 여러 행사들이 부활하며 축제다운 분위기를 되찾았다는 점에서 성과가 있었다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BIFF 폐막작 '한 남자'.."나는 누구인가를 질문하는 영화"]]></title>
-        <id>https://v.daum.net/v/20221014133328531</id>
-        <link href="https://v.daum.net/v/20221014133328531"/>
-        <updated>2022-10-14T06:03:51.762Z</updated>
-        <content type="html"><![CDATA[(부산=연합뉴스) 박성제 기자 = 제27회 부산국제영화제 폐막작인 '한 남자'는 2018년 요미우리문학상을 받은 히라노 게이치로의 동명 소설을 원작으로 하는 추리 영화다. 이혼하고 아이와 함께 고향에 내려와 살던 리에(안도 사쿠라)는 다이스케(구보타 마사타카)라는 남자를 만나 사랑에 빠지지만, 사고로 다이스케가가 세상을 떠난다. 장례를 치르는 중 리에는 죽]]></content>
     </entry>
 </feed>
