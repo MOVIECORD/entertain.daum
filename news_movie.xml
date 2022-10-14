@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2022-10-14T07:33:55.490Z</updated>
+    <updated>2022-10-14T08:23:19.794Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[영화 '라라랜드'가 전하는 메시지, '꿈을 잊지마오!]]></title>
+        <id>https://v.daum.net/v/20221014170309905</id>
+        <link href="https://v.daum.net/v/20221014170309905"/>
+        <updated>2022-10-14T08:22:59.271Z</updated>
+        <content type="html"><![CDATA[‘라라랜드’는 마법 같은 영화다. 재관람을 위해 영화관을 다시 찾는 회전문관객들이 많았고, 2017 제 72회 골든글로브 시상식에서 노미네이트된 전 부문 수상(7관왕 싹쓸이)의 기적을 일궈냈다. 그렇다면, 이 영화는 왜 이렇게 관객들과 평단의 마음을 흔들어 놓았을까? 바로 열정이다. “이 영화는 꿈을 향한 러브레터입니다. 허황된 꿈을 꾼다며 세상이 조롱]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['귀못' 박하나 "스크린 데뷔, 엔딩 크레딧 속 내 이름에 울컥"]]></title>
         <id>https://v.daum.net/v/20221014163317987</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20221014120301748"/>
         <updated>2022-10-14T04:21:39.589Z</updated>
         <content type="html"><![CDATA[[이선필 기자] &nbsp;        ▲ &nbsp;영화 &lt;킹덤2: 아득한 대지로&gt;의 사토 신스케 감독.    ⓒ 이놀미디어  &nbsp; 일본에서 사토 신스케 감독은 상징적 존재다. 자국 만화를 원작으로 한 &lt;아이 엠 히어로&gt; &lt;블리치&gt; 등이 흥행하며 이른바 만화의 실사판 명장으로 이름을 날렸으니 말이다. 2020년 국내 개봉한 &lt;킹덤&gt; 또한 그렇다. 중국 춘추전국시대를 모티브]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["100% 정상화"..부국제, 코로나 넘고 3년 만에 위상 되찾았다]]></title>
-        <id>https://v.daum.net/v/20221014115034234</id>
-        <link href="https://v.daum.net/v/20221014115034234"/>
-        <updated>2022-10-14T04:21:39.596Z</updated>
-        <content type="html"><![CDATA[[OSEN=부산, 김보라 기자]&nbsp;“3년 만에 정상화된 영화제를 성공적으로 마칠 수 있었던 것은 관객들이 어려운 점을 메워주셨기 때문이다. 또한 600여 명이 넘은 자원봉사자들이 코로나에 굴하지 않고 영화제를 지켜주신 것에 대해 감사하다.” 이용관 이사장은 14일 오전 부산 해운대구 우동 KNN타워 KNN시어터에서 진행된 제27회 부산 국제영화제 결산 기]]></content>
     </entry>
 </feed>
