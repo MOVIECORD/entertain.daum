@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2022-10-16T07:19:08.721Z</updated>
+    <updated>2022-10-16T08:19:40.237Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[박혜수·남주혁, '학폭 의혹'에 대처하는 방법]]></title>
+        <id>https://v.daum.net/v/20221016163801100</id>
+        <link href="https://v.daum.net/v/20221016163801100"/>
+        <updated>2022-10-16T08:19:13.752Z</updated>
+        <content type="html"><![CDATA[(서울=뉴스1) 정유진 기자 = '학폭 의혹'을 부인했던 두 명의 스타가 오랜만에 관객들 앞에 모습을 드러냈다. 영화 '리멤버'로 극장에 귀환한 남주혁과 제27회 부산국제영화제 '한국영화의 오늘-비전' 부문에 초청된 영화 '너와 나'에 출연한 박혜수다. 박혜수는 지난 9일 오후 6시 부산 해운대구 영화진흥위원회 표준시사실에서 진행된 영화 '너와 나'(]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[해리슨 포드, 마블 합류한다!..사망한 배우 후임으로 로스 장군]]></title>
         <id>https://v.daum.net/v/20221016152141566</id>
