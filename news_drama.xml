@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-10-16T09:17:17.293Z</updated>
+    <updated>2022-10-16T10:16:09.459Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김숙도 놀랐다! 전현무, 장삐쭈 위해 83만원 선물 플렉스]]></title>
+        <id>https://v.daum.net/v/20221016185507386</id>
+        <link href="https://v.daum.net/v/20221016185507386"/>
+        <updated>2022-10-16T10:15:53.386Z</updated>
+        <content type="html"><![CDATA[[OSEN=장우영 기자] ‘사장님 귀는 당나귀 귀’ 전현무가 장삐쭈에 대한 팬심을 밝혔다. 16일 오후 방송된 KBS2 예능 프로그램 ‘사장님 귀는 당나귀 귀’에서는 장삐쭈와 컬래버레이션을 하기 위한 전현무의 노력이 그려졌다. 이날 전현무는 크리에이터 장삐쭈와 특별한 컬래버레이션을 위해 합정동 사무실을 찾았다. 장삐쭈가 6년 전에 만든 캐릭터들까지 모두]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['슈룹'에 김혜수만 있나..김가은·이화겸·이소희, 후궁 3인방 출사표]]></title>
         <id>https://v.daum.net/v/20221016180050338</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20221016152142568"/>
         <updated>2022-10-16T07:18:49.472Z</updated>
         <content type="html"><![CDATA[[OSEN=장우영 기자] 오승윤의 숨겨진 과거가 공개되며 '블라인드' 속 범인 추리에 몰입을 더하고 있다. 15일 방송된 tvN 금토드라마 '블라인드'(극본 권기경, 연출 신용휘, 제작 스튜디오드래곤, 판타지오) 10회에서 류성준(옥택연)은 범인이 20년 전 희망복지원에 있었던 아이이며, 그 아이가 커서 자기들을 학대했던 사람들에게 복수를 하고 있다는]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['법의제국' 주세빈vs이가은 모의법정에서 맞붙는다..편법까지 동원한 치열한 대결]]></title>
-        <id>https://v.daum.net/v/20221016151901452</id>
-        <link href="https://v.daum.net/v/20221016151901452"/>
-        <updated>2022-10-16T07:18:49.481Z</updated>
-        <content type="html"><![CDATA[[OSEN=박판석 기자] 이가은과 주세빈이 모의법정에서 맞붙는다. JTBC&nbsp;토일드라마&nbsp;‘디 엠파이어:&nbsp;법의 제국’(극본 오가규,&nbsp;연출 유현기,&nbsp;제작 셀트리온엔터테인먼트, SLL) 8회에서는 모의법정 경연대회를 계기로 홍난희(주세빈 분)가 법복 가족에게 접근해야만 했던 충격적인 비밀이 공개된다. 한강백(권지우 분),&nbsp;정경윤(정재오 분),&nbsp;윤구령(김균하 분]]></content>
     </entry>
 </feed>
