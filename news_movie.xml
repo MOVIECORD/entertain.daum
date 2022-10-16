@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2022-10-16T08:19:40.237Z</updated>
+    <updated>2022-10-16T09:17:17.289Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["이민자로 겪은 정체성 혼란..영화로 만들고 싶었죠"]]></title>
+        <id>https://v.daum.net/v/20221016181035515</id>
+        <link href="https://v.daum.net/v/20221016181035515"/>
+        <updated>2022-10-16T09:16:45.787Z</updated>
+        <content type="html"><![CDATA[[서울경제] “캐나다에서는 저를 외국인이라고 하고, 한국에서도 저는 생각도 말하는 것도 (한국 사람들과) 달라요. 어릴 적부터 그런 것을 느끼면서 나는 어느 나라 사람인지, 나의 뿌리는 어디인가 하는 생각이 들었어요. 그러면서 어릴 적에 경험했던 이민자에 대한 영화를 만들어보고 싶었죠” 14일 폐막한 올해 부산국제영화제에서는 한국인 이민자들을 다룬 영화들]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['인생은아름다워', '공조2'와 엎치락뒤치락..다시 1위]]></title>
+        <id>https://v.daum.net/v/20221016180424397</id>
+        <link href="https://v.daum.net/v/20221016180424397"/>
+        <updated>2022-10-16T09:16:45.787Z</updated>
+        <content type="html"><![CDATA[(서울=뉴스1) 황미현 기자 = 영화 '인생은 아름다워'가 다시 '공조2'를 제치고 1위를 차지했다. 16일 영화진흥위원회 영화관입장권 통합전산망 집계에 따르면 '인생은 아름다워'는 전날 5만19202명의 관객을 동원하며 박스오피스 1위에 올랐다. 누적관객수는 78만5138명이다. '인생은 아름다워'는 지난 15일 '공조2:인터내셔날'에 1위를 내줬]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[박혜수·남주혁, '학폭 의혹'에 대처하는 방법]]></title>
         <id>https://v.daum.net/v/20221016163801100</id>
