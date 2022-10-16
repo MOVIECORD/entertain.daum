@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2022-10-16T05:42:14.097Z</updated>
+    <updated>2022-10-16T06:24:35.374Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['인생은 아름다워' 1위 탈환..거센 입소문 역주행 흥행세]]></title>
+        <id>https://v.daum.net/v/20221016144610503</id>
+        <link href="https://v.daum.net/v/20221016144610503"/>
+        <updated>2022-10-16T06:24:09.432Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 배효주 기자] '인생은 아름다워'가 1위를 탈환했다. 10월 16일 영화진흥위원회 통합전산망 집계에 따르면 15일 영화 '인생은 아름다워'(감독 최국희)가 5만1,920명을 기록하며 박스오피스 1위를 차지했다. 누적 관객 78만5,138명이다. 같은 날 2위는 '공조: 인터내셔날'(감독 이석훈)로 4만5,435명을 모아 누적 673만4,565명]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[그 지겹다는 '멀티 버스'가 한 가족을 구원하는 법]]></title>
         <id>https://v.daum.net/v/20221016124201849</id>
