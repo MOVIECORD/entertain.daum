@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-10-17T19:28:53.862Z</updated>
+    <updated>2022-10-17T20:17:35.638Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[미주 '치얼업' OST 주자 합류, 페퍼톤스 신재평 곡 작업]]></title>
+        <id>https://v.daum.net/v/20221018050458028</id>
+        <link href="https://v.daum.net/v/20221018050458028"/>
+        <updated>2022-10-17T20:17:19.853Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 박수인 기자] 러블리즈 출신 미주가 솔로 첫 OST에 참여했다. 미주가 참여한 SBS 월화드라마 ‘치얼업’ OST Part.3 ‘RINGING’은 10월 17일 오후 6시 각종 음원사이트를 통해 발매됐다. 한지현, 배인혁 주연의 ‘치얼업’은 50년 전통의 연희대학교 응원단에 모인 청춘들의 뜨거운 열정과 낭만을 담은 드라마. 미주가 가창한 치얼업’]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이다희, 파혼 선언..예식장 아수라장]]></title>
+        <id>https://v.daum.net/v/20221018050008744</id>
+        <link href="https://v.daum.net/v/20221018050008744"/>
+        <updated>2022-10-17T20:17:19.854Z</updated>
+        <content type="html"><![CDATA[[동아닷컴] [사진 제공=‘얼어죽을 연애따위’]ENA 수목드라마 ‘얼어죽을 연애따위’ 이다희가 파혼을 선언한 후, 아수라장이 된 결혼식 현장에서 최시원과 재회한다. ‘얼어죽을 연애따위’(극본 김솔지/ 연출 최규식) 지난 4회에서는 구여름(이다희 분)이 재결합한 김인우(송종호 분)와 예식 당일 파혼을 선언하는 엔딩이 그려졌다. 이와 관련, 아수라장이 되]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[도경수, 멱살 잡혀도 돌직구..'진검승부' 사이다 장면3]]></title>
         <id>https://v.daum.net/v/20221018040009418</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20221017193424592"/>
         <updated>2022-10-17T11:17:07.430Z</updated>
         <content type="html"><![CDATA[[스타뉴스 이빛나리 기자] /사진='마녀의 게임' 방송화면'마녀의 게임'에서 한지완이 장서희, 김규선을 보며 질투를 드러냈다. 17일 오후 방송된 MBC 일일드라마 '마녀의 게임'에서 주세영(한지완 분)은 설유경(장서희 분)이 정혜수(김규선 분)를 챙기는 모습에 질투했다. 이날 주세영은 엄마 설유경에게 점심을 먹자고 제안했다. 주세영은 설유경에게 전화]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[미주, '치얼업' OST 주자 합류..'다재다능' 활약]]></title>
-        <id>https://v.daum.net/v/20221017183400317</id>
-        <link href="https://v.daum.net/v/20221017183400317"/>
-        <updated>2022-10-17T10:21:37.654Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 장예솔 인턴기자)&nbsp;미주가 ‘치얼업’ OST 주자로 참여한다.&nbsp; 미주는 17일 오후 6시, 각종 온라인 음원사이트를 통해 SBS 월화드라마 '치얼업' OST Part.3 'RINGING'을 발매한다. 한지현, 배인혁 주연의 '치얼업'은 50년 전통의 연희대학교 응원단에 모인 청춘들의 뜨거운 열정과 낭만을 담은 드라마다. 대학교 캠퍼스와 응원단]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[진선규, 속옷만 입고 활보.."부담됐지만 편하기도"]]></title>
-        <id>https://v.daum.net/v/20221017183124231</id>
-        <link href="https://v.daum.net/v/20221017183124231"/>
-        <updated>2022-10-17T10:21:37.655Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 하지원 기자) '몸값' 진선규의 변신에 관심이 쏠린다.&nbsp; 17일 티빙 오리지널 시리즈 '몸값' 온라인 제작발표회가 진행됐다. 이날 제작발표회에는 전우성 감독, 배우 진선규, 전종서, 장률이 참석했다. '몸값'은 서로의 ‘몸값’을 두고 흥정하던 세 사람이 지진으로 무너진 건물에 갇힌 후, 각자 마지막 기회를 붙잡기 위해 위험한 거래를 시작하며]]></content>
     </entry>
 </feed>
