@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2022-10-17T13:57:40.775Z</updated>
+    <updated>2022-10-17T14:36:31.297Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[송중기·임시완·남주혁..'브로맨스 전문' 이성민, 부담감이 낳은 디스크]]></title>
+        <id>https://v.daum.net/v/20221017230102188</id>
+        <link href="https://v.daum.net/v/20221017230102188"/>
+        <updated>2022-10-17T14:36:09.472Z</updated>
+        <content type="html"><![CDATA[[텐아시아=강민경 기자] 송중기, 임시완, 남주혁 등과 함께 케미를 뽐냈던 '브로맨스 전문' 배우 이성민이 80대 노인으로 변신했다. 바로 영화 '리멤버'를 통해서다. '리멤버'(감독 이일형)는 가족을 모두 죽게 만든 친일파를 찾아 60년간 계획한 복수를 감행하는 알츠하이머 환자 필주(이성민 역)와 의도치 않게 그의 복수에 휘말리게 된 20대 절친 인규]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[여진구·조이현 2022년 감성 '동감'.."새로운 색깔 보여주고파"]]></title>
         <id>https://v.daum.net/v/20221017190352458</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20221017172704781"/>
         <updated>2022-10-17T08:30:16.166Z</updated>
         <content type="html"><![CDATA[[TV리포트 = 하수나 기자] 오대환과 오윤아가 영화 ‘미스매치’에서 부부 코믹 케미를 선보인다.&nbsp; 영화 ‘미스매치’는 갑작스러운 사고를 겪은 ‘봉수’(오대환)가 깨어난 이후 기억의 오작동으로 모든 관계들이 미스매치되면서 벌어지는 대환장 코믹가족극이다.&nbsp; 다양한 분야에서 종횡무진 활약을 펼치고 있는 배우 오대환이 갑작스러운 사고로 황당한 인생 재부팅을 당하]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["런던아시아영화제, 적자에도 한국영화 알리기 멈출 수 없죠"]]></title>
-        <id>https://v.daum.net/v/20221017165749632</id>
-        <link href="https://v.daum.net/v/20221017165749632"/>
-        <updated>2022-10-17T08:30:16.167Z</updated>
-        <content type="html"><![CDATA[(서울=연합뉴스) 김정진 기자 = "매년 적자였지만 관객이 늘어나고 영화제가 발전하는 모습을 보면 멈출 수가 없어요. 작년보다 나을 거란 희망이 생기니까요. 올해는 흑자 전환이 목표입니다." 전혜정 런던아시아영화제 집행위원장은 최근 연합뉴스와 한 전화 인터뷰에서 영화제 개막을 앞두고 이 같은 각오를 밝혔다. 2015년부터 매년 10월 영국 런던에서 열린 이]]></content>
     </entry>
 </feed>
