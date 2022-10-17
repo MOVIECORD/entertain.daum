@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-10-17T18:29:42.718Z</updated>
+    <updated>2022-10-17T19:28:53.862Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[도경수, 멱살 잡혀도 돌직구..'진검승부' 사이다 장면3]]></title>
+        <id>https://v.daum.net/v/20221018040009418</id>
+        <link href="https://v.daum.net/v/20221018040009418"/>
+        <updated>2022-10-17T19:28:39.092Z</updated>
+        <content type="html"><![CDATA[[동아닷컴] [사진 제공=네오엔터테인먼트, 블라드스튜디오] KBS2 수목드라마 ‘진검승부’ 도경수가 통쾌한 명장면으로 카타르시스를 선사했다. ‘진검승부’(극본 임영빈, 연출 김성호)는 부와 권력이 만든 성역, 그리고 그 안에 살고 있는 악의 무리들까지 시원하게 깨부수는 불량 검사 액션 수사극으로 지난 13일 4회는 닐슨 코리아 기준 전국 시청률 5.0%]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[지승현·황우슬혜, 상위1% 재벌가 부부로 변신]]></title>
         <id>https://v.daum.net/v/20221018010009824</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20221017183124231"/>
         <updated>2022-10-17T10:21:37.655Z</updated>
         <content type="html"><![CDATA[(엑스포츠뉴스 하지원 기자) '몸값' 진선규의 변신에 관심이 쏠린다.&nbsp; 17일 티빙 오리지널 시리즈 '몸값' 온라인 제작발표회가 진행됐다. 이날 제작발표회에는 전우성 감독, 배우 진선규, 전종서, 장률이 참석했다. '몸값'은 서로의 ‘몸값’을 두고 흥정하던 세 사람이 지진으로 무너진 건물에 갇힌 후, 각자 마지막 기회를 붙잡기 위해 위험한 거래를 시작하며]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['진검승부' 도경수, 꼴통 검사만이 가능한 사이다 명장면 셋]]></title>
-        <id>https://v.daum.net/v/20221017183047210</id>
-        <link href="https://v.daum.net/v/20221017183047210"/>
-        <updated>2022-10-17T10:21:37.664Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 황수연 기자) 도경수가 대반전을 터트린 사이다 명장면으로 공감을 선사했다. KBS 2TV 수목드라마 ‘진검승부’는 부와 권력이 만든 성역, 그리고 그 안에 살고 있는 악의 무리들까지 시원하게 깨부수는 ‘불량 검사 액션 수사극’이다. 지난 13일에 방송된 ‘진검승부’ 4회는 닐슨 코리아 기준 전국 시청률 5.0%, 분당 최고 시청률은 6.2%를]]></content>
     </entry>
 </feed>

@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/variety</id>
     <title>다음 연예 ─ 뉴스 ─ 예능</title>
-    <updated>2022-10-17T18:29:42.723Z</updated>
+    <updated>2022-10-17T19:28:53.861Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[박성광♥이솔이, 마당有 단독주택→으리으리한 한강뷰家로 이사했다]]></title>
+        <id>https://v.daum.net/v/20221018040325454</id>
+        <link href="https://v.daum.net/v/20221018040325454"/>
+        <updated>2022-10-17T19:28:43.942Z</updated>
+        <content type="html"><![CDATA[[OSEN=김수형 기자] &nbsp;‘동상이몽2'에서 이솔이와 박성광 부부가 이사한 집을 최초공개, 오난미, 박민 그리고 박영진 부부와 회동했다. 17일 방송된 SBS 예능 '동상이몽 시즌2-너는 내 운명'에서 결혼 4일차가 된 오나미와 박민 부부가 그려졌다. ‘’동상이몽’ 새로운 부부로 첫 등장한 두 사람. 지난 9월 두 사람은 1년 7개월 열애 끝에 결혼에]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['재벌家' 윤태영, 상속유산이 450~500억원? ♥임유진엔 블랙카드 FELX!]]></title>
         <id>https://v.daum.net/v/20221018011635935</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20221018003019745"/>
         <updated>2022-10-17T16:31:43.292Z</updated>
         <content type="html"><![CDATA[[OSEN=최지연&nbsp;기자] '배우는 캠핑짱' 장혁이 신승환의 농담에 정색했다. 17일 방송된&nbsp;채널A, ENA채널 ‘배우는 캠핑짱’(이하 '캠핑짱')은 마지막 영업 겸 지인 특집으로 이뤄진 가운데 장혁이 신승환의 지인으로 양구를 찾았다가 정색해 눈길을 끌었다.&nbsp; 캠핑장 마지막 영업을 장식하고자 ‘지인 특집’을 기획한 ‘발이3’은 설레는 마음으로 손님들을 기]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오은영, 산후우울증 아내에 함께 눈물.."생명보험 알아봤다"]]></title>
-        <id>https://v.daum.net/v/20221018002708725</id>
-        <link href="https://v.daum.net/v/20221018002708725"/>
-        <updated>2022-10-17T16:31:43.293Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 이이진 기자) 정신건강의학과 전문의 오은영이 산후우울증을 앓는 아내의 마음에 공감해 눈물 흘렸다. 17일 방송된 MBC '오은영 리포트-결혼 지옥'에서는 오은영이 술만 마시면 다투는 '솔로 부부'와 상담하는 장면이 전파를 탔다. 이날 술을 마시면 욕을 하며 싸우는 '솔로 부부'가 등장했다. 아내는 전업주부로서 쌍둥이 육아를 담당했고, 남편은]]></content>
     </entry>
 </feed>
