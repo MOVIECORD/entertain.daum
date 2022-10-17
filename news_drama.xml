@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-10-17T20:17:35.638Z</updated>
+    <updated>2022-10-17T21:14:53.999Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[난해한 넷플릭스 '글리치?' 조금 이상해도 괜찮아]]></title>
+        <id>https://v.daum.net/v/20221018060104663</id>
+        <link href="https://v.daum.net/v/20221018060104663"/>
+        <updated>2022-10-17T21:14:39.104Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 박정민 기자] 넷플릭스 '글리치'는 여러 장르가 뒤섞인 난해한 드라마다. SF물인 줄 알고 봤더니 갑자기 사이비 종교의 진실을 파헤친다. 후반부에 가서야 '글리치'는 서로를 지켜보고, 지켜주는 두 여자 지효(전여빈 분)와 보라(나나 분)의 버디물이자 성장사라는 걸 깨닫게 된다. 안정적인 직장, 오래 만난 남자친구, 능력 있는 새 엄마까지 있는]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[미주 '치얼업' OST 주자 합류, 페퍼톤스 신재평 곡 작업]]></title>
         <id>https://v.daum.net/v/20221018050458028</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20221017193900705"/>
         <updated>2022-10-17T11:17:07.430Z</updated>
         <content type="html"><![CDATA[[TV리포트=이혜미 기자] 한지완이 김규선과 결혼을 앞둔 오창석을 유혹했다. 17일 방송된 MBC ‘마녀의 게임’에선 지호(오창석 분)를 혜수(김규선 분)에게 줄 수 없다며 강제로 입을 맞추는 세영(한지완 분)의 모습이 그려졌다. 지호와 결혼을 앞둔 혜수가 현실의 벽에 부딪친 가운데 유경(장서희 분)은 직접 지호 모 공숙을 만나 “우리 혜수, 제겐 딸 같은]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['마녀의 게임' 한지완, 김규선 예단 준비하는 장서희에 '분노']]></title>
-        <id>https://v.daum.net/v/20221017193424592</id>
-        <link href="https://v.daum.net/v/20221017193424592"/>
-        <updated>2022-10-17T11:17:07.430Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 이빛나리 기자] /사진='마녀의 게임' 방송화면'마녀의 게임'에서 한지완이 장서희, 김규선을 보며 질투를 드러냈다. 17일 오후 방송된 MBC 일일드라마 '마녀의 게임'에서 주세영(한지완 분)은 설유경(장서희 분)이 정혜수(김규선 분)를 챙기는 모습에 질투했다. 이날 주세영은 엄마 설유경에게 점심을 먹자고 제안했다. 주세영은 설유경에게 전화]]></content>
     </entry>
 </feed>
