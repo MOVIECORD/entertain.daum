@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/variety</id>
     <title>다음 연예 ─ 뉴스 ─ 예능</title>
-    <updated>2022-10-18T16:28:19.332Z</updated>
+    <updated>2022-10-18T17:34:00.725Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['벌교 박보검', 배달 6시간만 15만원 벌어서.."32평 아파트 전세, 월 수입 700만원"]]></title>
+        <id>https://v.daum.net/v/20221019022600073</id>
+        <link href="https://v.daum.net/v/20221019022600073"/>
+        <updated>2022-10-18T17:33:48.830Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 김나라 기자] '고딩엄빠2'에서 월 수입 700만 원에 세 자녀를 둔 '다둥이' 고딩엄빠가 등장했다. 18일 오후 방송된 MBN, K-STAR '고딩엄빠2'에선 김수연, 이연호 부부의 사연이 소개됐다. 김수연은 고등학교 재학 시절, 소개팅 남성에게 위협당할 뻔한 위기에서 구해준 1세 연상의 복학생 남사친(남자 사람 친구) 이연호에게 빠져]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[비 신곡 'DOMESTIC' 최종 안무는 위댐보이즈..안무 디렉터+가산점 획득]]></title>
         <id>https://v.daum.net/v/20221019012358869</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20221018234135132"/>
         <updated>2022-10-18T15:20:09.108Z</updated>
         <content type="html"><![CDATA[[OSEN=박근희 기자] '신발 벗고 돌싱포맨’ 김병현이 월드시리즈 2회 우승을 언급했다. 18일 전파를 탄 SBS '신발 벗고 돌싱포맨'에 야구 레전드 홍성흔, 김병현, 유희관이 출연했다. 야구에 애정이 많은 탁재훈은 “(연예인 야구단) ‘재미삼아’ 출신이다. 동대문 야구장에서 홈런을 쳤다”라며 남다른 야구사랑의 면모를 보였다. 바람의 아들 이종범과]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[홍성흔 "포수 신인상? 40년 동안 단 3명 뿐"]]></title>
-        <id>https://v.daum.net/v/20221018234118129</id>
-        <link href="https://v.daum.net/v/20221018234118129"/>
-        <updated>2022-10-18T15:20:09.109Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 오수정 기자) '돌싱포맨'에서 홍성흔이 포수로 신인상을 받은 것에 대해 자부심을 드러냈다.&nbsp; 18일 방송된 SBS 예능 프로그램 '신발 벗고 돌싱포맨'에는 '야구계 레전드' 홍성흔, 김병현, 유희관이 출연해 이야기를 나눴다.&nbsp; 이날 월드시리즈 2회 우승을 한 김병현은 "2001년도 월드시리즈 우승하고 부시 대통령 만나러 백악관에 갔었다. 그런]]></content>
     </entry>
 </feed>
