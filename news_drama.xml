@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-10-23T19:16:08.984Z</updated>
+    <updated>2022-10-23T20:16:56.160Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["혼담 끊겨" 이가은, 약 손댄 과거 폭로 위기에 벌벌 '디 엠파이어']]></title>
+        <id>https://v.daum.net/v/20221024051624240</id>
+        <link href="https://v.daum.net/v/20221024051624240"/>
+        <updated>2022-10-23T20:16:39.764Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 서유나 기자] 이가은이 약에 손댄 과거가 드러났다. 10월 23일 방송된 JTBC 토일드라마 '디 엠파이어: 법의 제국'(극본 오가규, 연출 유현기) 10회에서는 극소수만 알고 있는 장지이(이가은 분)의 치명적인 약점이 드러났다. 이날 고원경(김형묵 분)은 죽은 홍난희(주세빈 분)과 자신의 아들 한강백(권지우 분)이 교제했다는 소문이 퍼지기]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['워케이션' 오션뷰에 노천탕까지..의뢰인의 최종 선택은?]]></title>
         <id>https://v.daum.net/v/20221024014044908</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20221023222223948"/>
         <updated>2022-10-23T13:39:12.606Z</updated>
         <content type="html"><![CDATA[보검군 김민기가 모친 김가은이 붙여준 개인교사를 거부했다. 10월 23일 방송된 tvN 토일드라마 ‘슈룹’ 4회(극본 박바라/연출 김형식)에서 태소용(김가은 분)은 아들 보검군(김민기 분)에게 개인교사를 붙였다. 태소용은 아들 보검군이 세자의 배동을 뽑는 시험에서 1차 합격 복시까지 노리게 되자 개인 과외교사를 붙이려 했다. 하지만 오히려 보검군이 심]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김선아, 남편 안재욱 방황에 울분..독설 작렬]]></title>
-        <id>https://v.daum.net/v/20221023221512890</id>
-        <link href="https://v.daum.net/v/20221023221512890"/>
-        <updated>2022-10-23T13:39:12.607Z</updated>
-        <content type="html"><![CDATA[[동아닷컴] 사진 출처: 셀트리온엔터테인먼트, SLLJTBC 토일드라마 '디 엠파이어 : 법의 제국' 김선아가 안재욱과 권지우 방황에 울분을 터뜨린다. 23일 ‘디 엠파이어: 법의 제국’(극본 오가규, 연출 유현기)에서는 홍난희(주세빈 분)로 인해 견고했던 철옹성이 더없이 흔들리며 법복 가족 간의 균열이 더욱 커진다. 한혜률(김선아 분)은 인생에서 1순위]]></content>
     </entry>
 </feed>
