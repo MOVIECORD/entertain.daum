@@ -2,11 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-10-23T16:21:30.563Z</updated>
+    <updated>2022-10-23T17:25:09.166Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[조나단X파트리샤, '홈즈' 최초 남매 코디로 출격..랩·댄스·노래까지]]></title>
+        <title type="html"><![CDATA['워케이션' 오션뷰에 노천탕까지..의뢰인의 최종 선택은?]]></title>
+        <id>https://v.daum.net/v/20221024014044908</id>
+        <link href="https://v.daum.net/v/20221024014044908"/>
+        <updated>2022-10-23T17:24:52.522Z</updated>
+        <content type="html"><![CDATA[(사진=MBC ‘구해줘! 홈즈’)[이데일리 스타in 조태영 인턴기자] 배우 이원종과 방송인 조나단·파트리샤 남매가 열정 코디로 변신한 가운데, 일과 휴가를 동시에 누릴 수 있는 ‘워케이션’ 하우스를 구하기 위한 대결이 펼쳐졌다. 23일 방송된 MBC ‘구해줘! 홈즈’(이하 ‘홈즈’)에서는 한 달 단기 임대 집을 찾는 1인 가구 의뢰인이 등장했다. 현재 의]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[조나단X파트리샤, '홈즈' 최초 남매 코디로 출격..콩트에 랩까지]]></title>
         <id>https://v.daum.net/v/20221024012051855</id>
         <link href="https://v.daum.net/v/20221024012051855"/>
         <updated>2022-10-23T16:21:14.564Z</updated>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20221023221512890"/>
         <updated>2022-10-23T13:39:12.607Z</updated>
         <content type="html"><![CDATA[[동아닷컴] 사진 출처: 셀트리온엔터테인먼트, SLLJTBC 토일드라마 '디 엠파이어 : 법의 제국' 김선아가 안재욱과 권지우 방황에 울분을 터뜨린다. 23일 ‘디 엠파이어: 법의 제국’(극본 오가규, 연출 유현기)에서는 홍난희(주세빈 분)로 인해 견고했던 철옹성이 더없이 흔들리며 법복 가족 간의 균열이 더욱 커진다. 한혜률(김선아 분)은 인생에서 1순위]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['슈룹' 김의성, 김해숙 찾아가 역모 모의.."강찬희에 힘 실어달라"]]></title>
-        <id>https://v.daum.net/v/20221023220351793</id>
-        <link href="https://v.daum.net/v/20221023220351793"/>
-        <updated>2022-10-23T13:39:12.607Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 이시호 기자] /사진=tvN '슈룹' 방송 화면 캡처'슈룹' 배우 김의성이 김해숙을 찾아가 역모를 꾀했다. 23일 오후 방송된 tvN 토일드라마 '슈룹'에서는 영의정 황원형(김의성 분)이 대비(김해숙 분)를 찾아갔다. 황원형은 20년 전 태인 세자가 살아 있을 당시 대비가 택현을 관철시켜달라 찾아왔던 것을 언급하며 대비를 협박했다. 당시]]></content>
     </entry>
 </feed>
