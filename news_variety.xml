@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/variety</id>
     <title>다음 연예 ─ 뉴스 ─ 예능</title>
-    <updated>2022-10-25T07:39:40.118Z</updated>
+    <updated>2022-10-25T08:28:21.331Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[전현무 "나랑 김숙만 없는 단톡방 존재" 서운함 폭발]]></title>
+        <id>https://v.daum.net/v/20221025172003224</id>
+        <link href="https://v.daum.net/v/20221025172003224"/>
+        <updated>2022-10-25T08:28:09.993Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 이슬 기자) 전현무, 김숙이 자신들만 없는 대화방에 서운함을 드러냈다. 24일 방송된 JTBC '톡파원 25시'에는 세계의 궁을 주제로 한 프랑스, 독일, 덴마크 랜선 여행부터 일본의 미식 도시 후쿠오카의 유명 맛집을 소개하는 시간을 가졌다. 이날 오프닝을 열며 전현무는 "요즘 시청률도 엄청 오르고, 상승세다"라면서 "그게 중요한 게 아니다"]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['호적메이트' 오늘 결방, 플레이오프 2차전 중계 여파]]></title>
+        <id>https://v.daum.net/v/20221025171115900</id>
+        <link href="https://v.daum.net/v/20221025171115900"/>
+        <updated>2022-10-25T08:28:09.993Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 박수인 기자] '호적메이트'가 오늘(25일) 결방된다. 10월 25일 MBC 편성표에 따르면 이날 오후 9시 방송될 예정이었던 MBC '호적메이트'는 야구 중계로 결방된다. 방송 시간이 포함된 오후 6시 10분부터 9시 50분까지는 키움 VS LG의 MBC스포츠 2022 KBO 포스트시즌 플레이오프 2차전이 생중계된다. 이에 '호적메이트'는 오는]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[시즌2 돌아온 논란의 '에덴2' 과감한 포스터 공개 "거침없는 본능 주의"]]></title>
         <id>https://v.daum.net/v/20221025162313110</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20221025151643199"/>
         <updated>2022-10-25T07:39:29.090Z</updated>
         <content type="html"><![CDATA[[뉴스엔 박정민 기자] 개그맨 김수영이 예비 신부와 러브 스토리를 공개했다. 10월 25일 방송된 SBS 파워FM '두시탈출 컬투쇼'에서는 결혼을 앞둔 김수영이 예비 신부와 함께 출연했다. 11월 5일 결혼식을 앞두고 있는 김수영은 "선배님들에게 직접 청첩장을 드리려고 왔다"며 '컬투쇼' 스튜디오를 방문했다. 김수영은 유민상에게 "선배님도 빨리 가야 하]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["정우성·이정재 무인도 가도 존대 할까?" 100회 '안다행' PD의 목표]]></title>
-        <id>https://v.daum.net/v/20221025150819776</id>
-        <link href="https://v.daum.net/v/20221025150819776"/>
-        <updated>2022-10-25T06:11:53.425Z</updated>
-        <content type="html"><![CDATA[[OSEN=연휘선 기자] "'청담 부부'라고도 불리는 정우성 씨와 이정재 씨가 과연 아무도 없는 무인도에서 척박한 상황에도 서로 존댓말을 할 수 있을까요? 절친들의 '찐친' 순간이 너무 궁금해요". '안 싸우면 다행이야' PD가 100회를 맞아 끊임없는 호기심과 섭외 의지를 밝혔다.&nbsp; MBC 예능 프로그램 '안 싸우면 다행이야(약칭 안다행)'가 지난 2]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["아들 잘 부탁해"..故 김자옥, ♥오승근에 남긴 마지막 말]]></title>
-        <id>https://v.daum.net/v/20221025144959949</id>
-        <link href="https://v.daum.net/v/20221025144959949"/>
-        <updated>2022-10-25T06:11:53.427Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 최혜진 기자] /사진=TV조선 건강한 집가수 오승근이 아내인 배우 故 김자옥을 향한 그리움을 드러냈다. 지난 24일 방송된 TV조선 교양 프로그램 '건강한 집'에서는 오승근이 출연해 청주에 위치한 자택을 공개했다. 이날 오승근은 청주에 정착하게 된 이유를 밝혔다. 그는 "더 많은 이들이 아내를 오랫동안 기억해주길 바라는 마음으로 추모관을]]></content>
     </entry>
 </feed>

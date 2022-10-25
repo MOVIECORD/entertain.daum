@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2022-10-25T07:39:40.114Z</updated>
+    <updated>2022-10-25T08:28:21.328Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['폴:600미터', 제작 비하인드..톰 크루즈 스턴트팀 함께한 등반 액션]]></title>
+        <id>https://v.daum.net/v/20221025171924213</id>
+        <link href="https://v.daum.net/v/20221025171924213"/>
+        <updated>2022-10-25T08:27:59.814Z</updated>
+        <content type="html"><![CDATA[(서울=뉴스1) 정유진 기자 = '47미터' 제작진의 사상 최초 고공 서바이벌 '폴: 600미터'(감독 스콧 만) 측이 개봉 기대감을 배가시키는 촬영 비하인드 스토리를 공개했다. '폴: 600미터' 측은 25일 영화에 대한 기대감을 자아내는 촬영 비하인드 스토리를 공개했다. '폴: 600미터'는 내려갈 길이 끊겨버린 600m TV 타워 위에서 두 명의]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[서현우 '세이레' 11월 개봉 확정..금기를 깨다]]></title>
+        <id>https://v.daum.net/v/20221025165105110</id>
+        <link href="https://v.daum.net/v/20221025165105110"/>
+        <updated>2022-10-25T08:27:59.814Z</updated>
+        <content type="html"><![CDATA[‘세이레’가 11월 개봉을 확정하고 티저 포스터를 공개했다. 영화 ‘세이레’(감독 박강)는 태어난 지 21일이 채 되지 않은 아기의 아빠 우진(서현우)이 외부의 출입을 막고 부정한 것을 조심해야 하는 세이레의 금기를 깨고, 과거의 연인 세영(류아벨)의 장례식장에 다녀온 뒤부터 벌어지는 기이한 일들을 그린 미스터리 심리 스릴러. 제26회 부산국제영화제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['20세기 소녀' 김유정 "풋풋한 첫사랑 경험 있지만..사랑보다 우정!"]]></title>
         <id>https://v.daum.net/v/20221025163639592</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20221025141533656"/>
         <updated>2022-10-25T06:11:42.107Z</updated>
         <content type="html"><![CDATA[[스포츠조선 조지영 기자] 뮤지컬 영화 '인생은 아름다워'(최국희 감독, 더 램프 제작)가 개봉 28일 만에 100만 관객을 돌파했다. 역대급 눈물버튼 영화로 극장가에 뜨거운 입소문 열풍을 일으키며 화제를 모은 '인생은 아름다워'가 25일 오후 12시 49분 100만 관객을 돌파했다. 지난 9월 28일 개봉과 동시에 관객들의 호평 속 각종 눈]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[일용직 전전하는 부부, 우리 시대 '가난의 풍경']]></title>
-        <id>https://v.daum.net/v/20221025141501634</id>
-        <link href="https://v.daum.net/v/20221025141501634"/>
-        <updated>2022-10-25T06:11:42.108Z</updated>
-        <content type="html"><![CDATA[[김상목 기자] 어느 평범한 '불안정노동세대' 가족의 일상 &nbsp;        ▲ "낮에는 덥고 밤에는 춥고" 스틸&nbsp;영화 스틸 이미지    ⓒ 필름다빈  &nbsp; 정희와 영태 부부는 각자의 하루 일을 마치고 소주 한잔 기울여가며 저녁을 먹는다. 둘은 서로 안 해본 아르바이트가 없다며 각자 경력들을 쭉 늘어놓기 시작한다. 영태는 냉동 창고, 공사장, 택배, 각종 배달]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['인생은 아름다워' 100만 돌파..류승룡X염정아X박세완X옹성우 친필메시지 공개]]></title>
-        <id>https://v.daum.net/v/20221025141048518</id>
-        <link href="https://v.daum.net/v/20221025141048518"/>
-        <updated>2022-10-25T06:11:42.108Z</updated>
-        <content type="html"><![CDATA[[마이데일리 = 양유진 기자] 국내 최초 주크박스 뮤지컬 영화이자 관객들의 호평 속 뜨거운 입소문 열풍을 일으킨 화제작 '인생은 아름다워'가 100만 관객을 돌파했다. '인생은 아름다워'는 자신의 생일선물로 첫사랑을 찾아 달라는 황당한 요구를 한 아내 세연과 마지못해 그녀와 함께 전국 곳곳을 누비며 과거로의 여행을 떠나게 된 남편 진봉이 흥겨운 리듬과 멜]]></content>
     </entry>
 </feed>
