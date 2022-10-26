@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-10-26T21:14:33.005Z</updated>
+    <updated>2022-10-26T22:17:35.421Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘글리치’서 ‘욘더’까지…호불호 갈리는 국내 SF, 왜?]]></title>
+        <id>https://v.daum.net/v/20221027063023135</id>
+        <link href="https://v.daum.net/v/20221027063023135"/>
+        <updated>2022-10-26T22:16:33.773Z</updated>
+        <content type="html"><![CDATA[글리치(왼쪽)·욘더. 사진제공｜넷플릭스·티빙 OTT(온라인 동영상 서비스)를 통해 경쟁력을 키우는 케이(K)드라마가 오리지널 SF 시리즈들만큼은 좀처럼 주목을 받지 못하고 있다. SF물의 장르적 특징을 살리지 못했다는 일부 평가도 나온다. SF 휴먼 멜로물을 표방한 티빙 오리지널 시리즈 ‘욘더’는 영화 ‘왕의 남자’, ‘사도’ 이준익 감독이 연출하고 신]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘욘더’ 이준익 감독 “보고나면 포만감 드는 세이빙 타임 작품 됐으면”]]></title>
+        <id>https://v.daum.net/v/20221027063021132</id>
+        <link href="https://v.daum.net/v/20221027063021132"/>
+        <updated>2022-10-26T22:16:33.787Z</updated>
+        <content type="html"><![CDATA[‘굿바이! 러닝 타임’ 장편 영화 연출만 해오던 이준익 감독이 ‘욘더’를 통해 “극장에서 미처 보지 못했던 다양한 세계를 느껴보고 싶었다”고 말했다. 사진제공｜티빙 “새 경험이 새로운 길을 열어줄 거라 믿었어요.” ‘왕의 남자’ 이준익 감독(63)이 1993년 연출 데뷔 29년 만에 전혀 색다른 도전에 나섰다. 티빙 오리지널 시리즈 ‘욘더’를 14일 세상]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이혜리, 망자의 소원에 흔들리는 모습 → 이준영, 이혜리 비밀 알게 되나?]]></title>
         <id>https://v.daum.net/v/20221027060205750</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20221026193830939"/>
         <updated>2022-10-26T11:13:10.998Z</updated>
         <content type="html"><![CDATA[[TV리포트=이혜미 기자] 오창석이 한지완에 눈이 멀어 김규선과 딸 권단아를 버렸다. 26일 방송된 MBC ‘마녀의 게임’에선 혜수(김규선 분)에 이별을 호소하는 지호(오창석 분)의 모습이 그려졌다. 이날 범석(선우재덕 분)은 지호와 혜수의 관계를 깬 장본인이 세영(한지완 분)임을 알고 분노, “너 도대체 뭐하고 다니는 거야. 천하그룹 손주 며느리 되겠다는]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['마녀의 게임' 장서희, 한지완 대신 김규선에 '사죄']]></title>
-        <id>https://v.daum.net/v/20221026192916816</id>
-        <link href="https://v.daum.net/v/20221026192916816"/>
-        <updated>2022-10-26T11:13:11.000Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 이빛나리 기자] /사진='마녀의 게임' 방송화면 '마녀의 게임' 장서희가 자신의 딸 한지완을 대신해 김규선에게 용서를 빌었다. 26일 오후 방송된 MBC 일일드라마 '마녀의 게임'에서 설유경(장서희 분)이 강한별(권단아 분)의 생일을 축하해 주기 위해 정혜수(김규선 분)집에 방문했다. 이날 강한별은 엄마를 후원해 준 설유경에 감사 인사를 전했]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[권상우x지승현, 이토록 완벽한 슈트핏..재벌가 변신]]></title>
-        <id>https://v.daum.net/v/20221026191451623</id>
-        <link href="https://v.daum.net/v/20221026191451623"/>
-        <updated>2022-10-26T10:16:01.931Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 최혜진 기자] /사진=빅토리콘텐츠'커튼콜'의 배우 권상우와 지승현이 완벽한 슈트핏을 자랑했다. 오는 31일 첫 방송되는 KBS 2TV 새 월화드라마 '커튼콜'(극본 조성걸·연출 윤상호)은 시한부 할머니 자금순(고두심 분)의 소원을 이루어주기 위한 전대미문의 특명을 받은 한 남자(강하늘 분)의 지상 최대 사기극에 얽힌 사람들의 이야기를 담은 드라]]></content>
     </entry>
 </feed>
