@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2022-10-26T20:17:32.886Z</updated>
+    <updated>2022-10-26T21:14:33.017Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[원조 할리우드스타, 김윤진 "촬영 때 일부러 불편한 속옷 착용...그 이유는"]]></title>
+        <id>https://v.daum.net/v/20221027060012599</id>
+        <link href="https://v.daum.net/v/20221027060012599"/>
+        <updated>2022-10-26T21:13:36.774Z</updated>
+        <content type="html"><![CDATA[[스포츠서울 | 조은별기자]“원작보다 더 뜨거운 스릴러물이라 자부한다.” 26일 개봉한 영화 ‘자백’의 주인공인 배우 김윤진이 2년 여 기다림 끝에 개봉한 작품에 대해 이같은 자부심을 표했다. 스페인 영화 ‘인비저블 게스트’가 원작인 ‘자백’은 밀실 살인사건의 진실을 추적하는 스릴러물이다. 김윤진은 극중 승률 100]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[노숙인으로 파격 변신한 정일우…영화 '고속도로 가족']]></title>
         <id>https://v.daum.net/v/20221026231735844</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20221026172425673"/>
         <updated>2022-10-26T09:14:26.084Z</updated>
         <content type="html"><![CDATA[[스타뉴스 용산CGV=김나연 기자] 배우 백현진, 라미란, 이상문 감독, 배우 김슬기, 정일우가 26일 오후 서울 CGV용산아이파크몰에서 진행된 영화 '고속도로 가족'(감독 이상문) 언론시사회에 참석해 포즈를 취하고 있다.  인생은 놀이, 삶은 여행처럼 고속도로 휴게소에서 살아가는 한 가족이 우연히 한 부부를 만나면서 예기치 못한 사건을 겪게 되는 이야기를]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["북 가족 수용소 갈까 걱정" 양영희 감독의 '뚝심']]></title>
-        <id>https://v.daum.net/v/20221026171801444</id>
-        <link href="https://v.daum.net/v/20221026171801444"/>
-        <updated>2022-10-26T08:19:33.665Z</updated>
-        <content type="html"><![CDATA[[하성태 기자] ▲ &nbsp;양영희 감독의 에세이 &lt;카메라를 크고 씁니다&gt; 속 7살 소녀 양영희.    ⓒ 마음산책  &nbsp; 1971년 일본 니카타항, 7살 꼬마 양영희는 당황스러웠을 거다. 북송선 만경봉호엔 세 오빠가 타고 있었다. 주변엔 만세 소리가 울려 퍼졌고, 부모님과 사람들은 "영광스러운 조국"을 연호 중이었다. 7살 꼬마가 꽃가루가 날리고 김]]></content>
     </entry>
 </feed>
