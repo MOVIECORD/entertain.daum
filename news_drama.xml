@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-11-01T12:32:12.844Z</updated>
+    <updated>2022-11-01T13:44:42.960Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[체리블렛 채린, 우아한 비주얼+임팩트 연기]]></title>
+        <id>https://v.daum.net/v/20221101220506138</id>
+        <link href="https://v.daum.net/v/20221101220506138"/>
+        <updated>2022-11-01T13:44:25.922Z</updated>
+        <content type="html"><![CDATA[[동아닷컴] 그룹 체리블렛 채린이 tvN ‘슈룹’에서 짧은 등장에도 시청자들에게 큰 임팩트를 남겼다. 채린은 tvN 토일드라마 ‘슈룹’에서 주인공 화령(김혜수 분)의 20년 전 과거 시절을 연기한다. 화령은 극 전반을 이끌어가는 인물인 만큼 방영 내내 화령의 서사에 대한 관심이 모이고 있다. 지난달 30일 방영된 ‘슈룹’ 6회에서는 중전 화령과 대비(김해]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[시한부 인생 고두심, 오열 1초전]]></title>
         <id>https://v.daum.net/v/20221101213005053</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20221101151202100"/>
         <updated>2022-11-01T06:24:54.976Z</updated>
         <content type="html"><![CDATA[[텐아시아=강민경 기자] 배우 주원, 수애, 이다희, 김옥빈, 김성오 등 배우들이 신생 고스트 스튜디오(Ghost Stuido)와 새로운 출발에 나선다. 11월 1일 고스트 스튜디오 최명규 대표는 "긴 시간 동안 서로를 믿고 의지 해온 배우들과 새로운 시작을 하게 되어 감회가 새롭다"며 "각양각색의 매력과 탄탄한 연기력, 폭넓은 스펙트럼을 가진 배우들이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[고두심 대성통곡 1초 전 포착 “심금 울릴 손님 찾아온다”]]></title>
-        <id>https://v.daum.net/v/20221101150253672</id>
-        <link href="https://v.daum.net/v/20221101150253672"/>
-        <updated>2022-11-01T06:24:54.988Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 박아름 기자] '커튼콜' 고두심의 눈물샘을 자극할 특별한 손님이 등장한다. KBS 2TV 월화드라마 ‘커튼콜’(연출 윤상호/극본 조성걸) 측은 11월 1일 자금순(고두심 분)이 오열하기 직전 모습을 공개했다. 앞서 호텔 낙원 설립자인 자금순은 자신의 남은 생이 3개월뿐이라는 시한부 인생을 선고 받았다. 그의 오른팔이자 호텔 낙원 전 지배인인 정상]]></content>
     </entry>
 </feed>
