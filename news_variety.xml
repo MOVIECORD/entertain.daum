@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/variety</id>
     <title>다음 연예 ─ 뉴스 ─ 예능</title>
-    <updated>2022-11-01T05:45:35.833Z</updated>
+    <updated>2022-11-01T06:25:26.917Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘우리들의 쇼10’ 1일 결방 확정 “국가적 애도 분위기에 따라”]]></title>
+        <id>https://v.daum.net/v/20221101152247626</id>
+        <link href="https://v.daum.net/v/20221101152247626"/>
+        <updated>2022-11-01T06:25:07.129Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 박아름 기자] '우리들의 쇼10'이 이태원 참사 여파로 결방한다. MBN 측은 11월 1일 예능 프로그램 '우리들의 쇼10' 결방 소식을 알렸다. '우리들의 쇼10'은 11월 2일 방송 예정이었지만 지난 10월 29일 발생한 이태원 대규모 압사 사고로 인한 국가적 애도 분위기에 따라 결방을 결정했다. 이에 MBN 측은 "기다려주신 시청자분들께 너]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“35세쯤 50억 원 갖는 게 목표”..19살 아내 취업 반대하는 남편]]></title>
         <id>https://v.daum.net/v/20221101142029793</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20221101121840909"/>
         <updated>2022-11-01T04:08:03.589Z</updated>
         <content type="html"><![CDATA[[뉴스엔 이슬기 기자] ‘무엇이든 물어보세요’ 가수 한혜진이 이태원 참사에 대한 깊은 애도를 전했다. 한혜진은 11월 1일 방송된 KBS 1TV ‘무엇이든 물어보세요’에 게스트로 참여, 안전 대처법에 대한 주제로 방송에 함께했다. 이날 한혜진은 이태원 참사와 관련해 “말만 들어도 너무 안타깝다”라며 희생자들에게 깊은 애도를 표했다. 비통함을 감추지 못한]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김종현 "합동분향소 많이 생겨, 가까운 곳 방문하길"]]></title>
-        <id>https://v.daum.net/v/20221101115533081</id>
-        <link href="https://v.daum.net/v/20221101115533081"/>
-        <updated>2022-11-01T04:08:03.590Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 이예진 기자) '라디오쇼' 김종현 아나운서가 이태원 참사에 대해 애도를 표했다. 1일 방송된 KBS 쿨FM '박명수의 라디오쇼(이하 '라디오쇼')'에서는 김종현 아나운서가 스페셜 DJ로 자리를 채웠다. 이날 김종현 아나운서는 "마음이 어수선해서 힐링 산책했다. 가을 단풍이 예쁘더라"라는 청취자의 메시지에 공감했다. 그는 "밖에 단풍이 예쁘게]]></content>
     </entry>
 </feed>

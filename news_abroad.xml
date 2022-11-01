@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2022-11-01T05:45:35.840Z</updated>
+    <updated>2022-11-01T06:25:26.924Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[일본판 ‘해리포터’ 말포이役 성우, 9월 허혈성 심부전으로 사망]]></title>
+        <id>https://v.daum.net/v/20221101145930442</id>
+        <link href="https://v.daum.net/v/20221101145930442"/>
+        <updated>2022-11-01T06:25:24.113Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 박수인 기자] 일본 배우 겸 성우 모로즈미 켄이치가 사망한 사실이 뒤늦게 알려졌다. 소속사 측은 최근 "모로즈미 켄이치가 9월 1일 허혈성 심부전으로 사망했다"고 밝혔다. 향년 67세. 이어 "생전 후의에 사죄드리며 삼가 알려드린다. 장례식은 고인의 뜻에 따라 가족장으로 진행됐다. 보고가 늦어진 점 양해 부탁드린다"고 전했다. 한편 모로즈미 켄이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“괴물+좀비 가면 썼다” 디카프리오♥지지 하디드, 대놓고 핼러윈 데이트]]></title>
         <id>https://v.daum.net/v/20221101141913760</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20221101061807134"/>
         <updated>2022-10-31T22:16:44.336Z</updated>
         <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]‘록키’ ‘람보’ 시리즈의 실베스터 스탤론(76)이 사업가 아내 제니퍼 플래빈(54)과 이혼소송 이후 한달 만에 재결합한 소감을 전했다. 그는 30일(현지시간) 선데이 타임즈와의 인터뷰에서 “그때는 매우 격동의 시간이었다. 무엇보다 소중한 것이 무엇인지를 다시 깨닫게 되다. 그것은 가족에 대한 사랑이다. 그것은 내 일보다 우]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“울버린 질문 지긋지긋하다” 고백, ‘해리포터’ 다니엘 래드클리프 “제발 그만해”]]></title>
-        <id>https://v.daum.net/v/20221101060706037</id>
-        <link href="https://v.daum.net/v/20221101060706037"/>
-        <updated>2022-10-31T21:15:38.801Z</updated>
-        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]‘해리포터’ 다니엘 래드클리프(33)가 ‘울버린’ 질문이 지겹다고 말했다. 휴 잭맨(54)이 ‘로건’을 끝으로 ‘울버린’ 캐릭터를 내려놓은 이후, 그는 언제나 캐스팅 1순위였다. 비록 휴 잭맨이 ‘데드풀3’로 복귀하지만, 그것은 1회성 이벤트로 그칠 가능성이 크다. 마블은 휴 잭맨을 대체할 젊은 울버린을 물색하는 중이다.]]></content>
     </entry>
 </feed>
