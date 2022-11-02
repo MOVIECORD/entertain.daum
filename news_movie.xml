@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2022-11-02T03:54:46.630Z</updated>
+    <updated>2022-11-02T04:59:13.685Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[SF스릴러 '트랜스', 트랜스휴먼이 되기 위한 모든 것]]></title>
+        <id>https://v.daum.net/v/20221102135722672</id>
+        <link href="https://v.daum.net/v/20221102135722672"/>
+        <updated>2022-11-02T04:58:51.996Z</updated>
+        <content type="html"><![CDATA[[OSEN=김보라 기자]&nbsp;SF 스릴러 '트랜스'가 이달 17일 개봉을 앞두고 인류 진화 프로젝트의 필수 단서가 담긴 30초 예고편을 공개했다. '트랜스'(감독 도내리, 제작 네거티브필름, 배급 마노엔터테인먼트)는 두뇌 전기충격을 통해 트랜스휴먼을 꿈꾸던 민영이 자신을 괴롭히던 마태용의 살인범으로 지목되자 진실을 밝히기 위해 타임루프를 헤매며 고군분투하는]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[서울프라이드영화제 11월 3일 개막...축하공연은 취소]]></title>
+        <id>https://v.daum.net/v/20221102135102495</id>
+        <link href="https://v.daum.net/v/20221102135102495"/>
+        <updated>2022-11-02T04:58:52.003Z</updated>
+        <content type="html"><![CDATA[‘2022 서울국제프라이드영화제’(이하 프라이드영화제)가 오는 11월 3일부터 9일까지 총 7일간 메가박스 성수에서 개최된다. 다만 지난 주말 이태원에서 발생한 참사에 애도의 마음을 담아 개막식의 축하 공연을 취소하고 참석한 게스트들과 함께 추모의 뜻을 전하기로 했다.전 세계 39개국 133편의 역대 최다 상영작을 공개하며 훨씬 더 다양하고 풍성한 프로그램]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["미식축구 그만둬" 지젤 번천·톰 브래디, 13년만 이혼 내막]]></title>
         <id>https://v.daum.net/v/20221102120002216</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20221102093029044"/>
         <updated>2022-11-02T01:18:27.914Z</updated>
         <content type="html"><![CDATA[[스타뉴스 김나연 기자] 이시다 잇세이 / 사진=이시다 잇세이 인스타그램일본 배우 이시다 잇세이가 27살 연하 비연예인과 열애를 인정했다. 2일 일본 매체 도쿄 스포츠에 따르면 이시다 잇세이는 한 여성의 손을 잡고 핼러윈 데이로 떠들썩한 롯폰기의 거리를 활보했다. 이시다 잇세이는 곧바로 열애 사실을 인정했다. 이시다 잇세이에 따르면 여자친구는 20살]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[악마가 된 곰돌이 푸→소름돋는 피터팬..동심파괴 공포영화 나온다]]></title>
-        <id>https://v.daum.net/v/20221102091721466</id>
-        <link href="https://v.daum.net/v/20221102091721466"/>
-        <updated>2022-11-02T01:18:27.915Z</updated>
-        <content type="html"><![CDATA[[OSEN=최나영 기자] 동심파괴 공포영화&nbsp;'곰돌이 푸:블러드 앤 허니(Winnie-The-Pooh: Blood and Honey, 2023)'의 감독이&nbsp;이제는&nbsp;어린이들의 고전 '피터팬'을 소름끼치게 만들 계획이다. 데일리메일의 1일(현지시간) 보도에 따르면 '곰돌이 푸:블러드 앤 허니'의 감독은 '네버랜드 나이트메어(Neverland Nightmare]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘자백’ 1위 선전에도...극장가 침울]]></title>
-        <id>https://v.daum.net/v/20221102090602022</id>
-        <link href="https://v.daum.net/v/20221102090602022"/>
-        <updated>2022-11-02T01:18:27.920Z</updated>
-        <content type="html"><![CDATA[영화 ‘자백’이 6일 연속 박스오피스 정상을 지켰지만 극장가는 고요하다.2일 영화진흥위원회 영화관입장권 통합전산망에 따르면 ‘자백’은 전날 2만 7239명의 관객을 동원해 박스오피스 1위를 차지했다. 누적관객수는 31만 1766명이다.‘자백’은 밀실 살인 사건의 유일한 용의자로 지목된 유망한 사업가 ‘유민호’와 그의 무죄를 입증하려는 승률 100% 변호사]]></content>
     </entry>
 </feed>
