@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/variety</id>
     <title>다음 연예 ─ 뉴스 ─ 예능</title>
-    <updated>2022-11-02T19:12:02.731Z</updated>
+    <updated>2022-11-02T20:16:44.365Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김창열, 연예인급 미모 아내 공개 "첫 만남? 영화 같았다"]]></title>
+        <id>https://v.daum.net/v/20221103051006721</id>
+        <link href="https://v.daum.net/v/20221103051006721"/>
+        <updated>2022-11-02T20:16:33.055Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 고향미 기자] 그룹 DJ DOC 김창열이 아내 장채희를 공개했다. 김창열, 장채희 부부는 2일 오후 방송된 종합편성채널 MBN '겉과 속이 다른 해석남녀'(이하 '해석남녀')에 출연했다. 이날 방송에서 김창열은 "올해 결혼 20주년이다"라고 밝혔다. 이에 이상민은 "친구지만 제수씨를 오늘 처음 뵀거든"이라고 서운함을 드러냈고, 채연은 "너]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['47세' 현영, ♥남편에 "상남자 헐크···셋째도 낳을 수 있어"]]></title>
         <id>https://v.daum.net/v/20221103032017948</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20221102232014911"/>
         <updated>2022-11-02T14:22:04.564Z</updated>
         <content type="html"><![CDATA[[OSEN=오세진 기자] ‘나는 솔로’ 11기 영자가 모델 같은 미모로 시선을 사로잡았다. 2일 방영된 SBS 예능 ‘나는 솔로’(이하 ‘나는솔로’)에서는 11기 영자의 모델 같은 모습에 모두 눈을 크게 떴다. 데프콘은 "송해나 사촌 언니 아니냐"라고 할 정도. 피디는 "닮은 사람이 있는데, 누구 닮았다는 소리 많이 듣지 않냐"라고 묻자 영자는 "밀라요]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“너무 어두워 안 보일까봐” 안혜경, 현영민에 스카프 선물]]></title>
-        <id>https://v.daum.net/v/20221102231423872</id>
-        <link href="https://v.daum.net/v/20221102231423872"/>
-        <updated>2022-11-02T14:22:04.564Z</updated>
-        <content type="html"><![CDATA[불나방이 현영민 감독에게 스카프를 선물했다. 11월 2일 방송된 SBS ‘골 때리는 그녀들’에서는 불나방 vs 원더우먼 경기가 펼쳐졌다. 이날 경기는 야간 경기로 펼쳐졌다. 경기 전 불나방 홍수아는 이전 불나방 감독 하석주와 문자를 주고받은 이야기를 꺼내며 친근감을 드러냈다. 현재 하석주 감독은 원더우먼을 맡아 과거 제자들과 현재 제자들의 승부를 지켜]]></content>
     </entry>
 </feed>
