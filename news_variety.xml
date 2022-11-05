@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/variety</id>
     <title>다음 연예 ─ 뉴스 ─ 예능</title>
-    <updated>2022-11-05T05:13:16.206Z</updated>
+    <updated>2022-11-05T06:17:38.788Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[갑자기 쌍욕하는 김민희..변영주 감독도 깜짝 "미친거 아냐?"]]></title>
+        <id>https://v.daum.net/v/20221105151543152</id>
+        <link href="https://v.daum.net/v/20221105151543152"/>
+        <updated>2022-11-05T06:17:25.030Z</updated>
+        <content type="html"><![CDATA[[OSEN=김나연 기자] 변영주 감독이 영화 '화차'의 자막 오류에 충격을 받았다. 4일 방송된 SBS '지선씨네마인드'에서는 변영주 감독이 직접 출연해 영화 '화차'에 대한 이야기를 나눴다. 이날 변영주 감독은 극 말미에 장문호(이선균 분)가 차경선(김민희 분)에게 "더이상 찾지 않을테니까 가. 그냥 너로 살아. 절대 붙잡히지 마"라고 말하는 장면에]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘그로신’ 설민석, 유혹하는 왕비 연기…한가인X유병재 입틀막]]></title>
         <id>https://v.daum.net/v/20221105133748715</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20221105101319556"/>
         <updated>2022-11-05T03:18:25.480Z</updated>
         <content type="html"><![CDATA[[뉴스엔 이민지 기자] '배틀트립2' 첫 국내 여행 우승팀은 누구일까. 11월 5일 방송되는 KBS 2TV '배틀트립2'에서는 AB6IX(에이비식스) 전웅과 김동현이 설계한 '웅동투어'와 함께 두 번째 우승팀이 공개된다. 강원도 양구 여행 둘째날 전웅과 김동현은 폐교를 리모델링한 캠핑장에서 모닝커피를 마시며 하루를 시작한다. 이어 '곰신카페'에서 추천한]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['히든싱어7' 결방 안 했던 이유…故김현식이 선사한 위로와 사랑]]></title>
-        <id>https://v.daum.net/v/20221105100510450</id>
-        <link href="https://v.daum.net/v/20221105100510450"/>
-        <updated>2022-11-05T01:12:28.646Z</updated>
-        <content type="html"><![CDATA[[OSEN=장우영 기자] 故김현식과 모창 능력자들이 ‘히든싱어7’ 마지막 대결을 전율로 물들였다. 지난 4일 방송된 JTBC ‘히든싱어7’(기획 조승욱)에서는 대한민국 대중음악사를 이끈 전설적인 가수 故김현식이 모창 능력자들과 함께 세월을 거스르는 뭉클한 대결을 완성, 최종 우승까지 거머쥐며 시즌 7의 피날레를 장식했다. 열두 번째 원조 가수 故김현식은]]></content>
     </entry>
 </feed>
