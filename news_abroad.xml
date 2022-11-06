@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2022-11-06T01:10:57.007Z</updated>
+    <updated>2022-11-06T03:21:41.071Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['원조 美초통령' 아론 카터, 자택서 사망…향년 34세]]></title>
+        <id>https://v.daum.net/v/20221106101113763</id>
+        <link href="https://v.daum.net/v/20221106101113763"/>
+        <updated>2022-11-06T03:21:40.401Z</updated>
+        <content type="html"><![CDATA[[스포츠조선 정빛 기자] 미국 팝스타 아론 카터가 생을 마감했다. CNN, 데일리메일 등 미국 매체들은 5일(현지시간) 아론 카터가 캘리포니아 랭카스터에 있는 자택 욕실에서 숨진 채 발견됐다고 했다. 향년 34세. 보도에 따르면, 경찰은 아론 카터가 욕조에서 익사했다는 신고를 받고 출동했다. 유족 측은 아론 카터의 사망을 발표했지만 사인 등]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[美 팝 아이콘 아론 카터, 자택서 숨진 채 발견 '충격']]></title>
         <id>https://v.daum.net/v/20221106091323741</id>
@@ -27,7 +34,7 @@
         <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]유명 팝스타 아론 카터가 캘리포니아 자택에서 사망했다. 향년 34세. 소속사 측은 5일(현지시간) 페이지식스에 “아론 카터가 오늘 오전 캘리포니아 팜데일에 있는 그의 집에서 무반응으로 발견되었음을 확인하게 되어 매우 유감스럽게 생각한다”고 말했다. 이어 “가족들은 연락을 받았고 로스앤젤레스로 갈 것이다. 아론은 좋은 아버지가]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[‘BSB 닉 카터 동생’ 아론 카터, 자택서 숨진 채 발견..팝스타→성인 배우, 파란만장한 삶]]></title>
+        <title type="html"><![CDATA[아론 카터, 자택서 숨진 채 발견..팝스타→성인 배우, 파란만장한 삶]]></title>
         <id>https://v.daum.net/v/20221106084302295</id>
         <link href="https://v.daum.net/v/20221106084302295"/>
         <updated>2022-11-06T01:10:56.171Z</updated>
@@ -95,12 +102,5 @@
         <link href="https://v.daum.net/v/20221105135015791"/>
         <updated>2022-11-05T05:13:15.337Z</updated>
         <content type="html"><![CDATA[[OSEN=김보라 기자]&nbsp;영화감독 쿠엔틴 타란티노가 마블 영화의 연출과 관련, “‘스타트렉’ 연출을 고민한 적은 있었지만 그렇다고 해서 마블 시네마틱 유니버스(MCU) 연출까지 고민했던 것은 아니다”라고 소신을 밝혔다. 쿠엔틴 타란티노 감독은 4일(현지 시간) 로스앤젤레스 타임스와의 인터뷰에서 “마블 영화 연출자는 단순히 고용된 사람이다. 나는 그런 역]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[셀레나 고메즈 “저스틴 비버와 결별, 내 인생에서 가장 좋은 일”]]></title>
-        <id>https://v.daum.net/v/20221105112057295</id>
-        <link href="https://v.daum.net/v/20221105112057295"/>
-        <updated>2022-11-05T03:18:36.064Z</updated>
-        <content type="html"><![CDATA[[OSEN=지민경 기자] 가수 겸 배우 셀레나 고메즈가 전 남자친구 저스틴 비버와 결별에 대해 언급했다. 셀레나 고메즈는 새 애플 TV+ 다큐멘터리&nbsp;'마이&nbsp;마인드 앤 미(My Mind and Me)’에서 2018년 저스틴 비버와 이별 당시 심경을 공개했다. 셀레나 고메즈는 모든 것이 세간의 주목을 받는 것이 이별을 더 힘들게 만들었다며 “모든 것이 너무]]></content>
     </entry>
 </feed>
