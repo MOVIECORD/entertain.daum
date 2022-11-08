@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2022-11-08T03:23:58.388Z</updated>
+    <updated>2022-11-08T04:39:04.357Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["韓 첫 스타워즈 입성"…'애콜라이트' 이정재, K무비의 자부심]]></title>
+        <id>https://v.daum.net/v/20221108123024739</id>
+        <link href="https://v.daum.net/v/20221108123024739"/>
+        <updated>2022-11-08T04:38:41.612Z</updated>
+        <content type="html"><![CDATA[[OSEN=김보라 기자]&nbsp;이정재가 ‘애콜라이트’의 주인공으로 전격 캐스팅 확정됐다. 우리나라 배우들 중 인기 영화 ‘스타워즈’ 시리즈에 처음 입성했다는 점에서 자축할 일이 분명하다. 디즈니+ 측은 8일 오전(한국 시각) 새 오리지널 시리즈 ‘애콜라이트’(감독 레슬리 헤드랜드)에 넷플릭스 드라마 ‘오징어 게임’(극본·연출 황동혁)으로 전세계적 주목을 받은]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“풋풋하고 강렬하게”…‘3인칭 복수’ 新 하이틴물이 온다]]></title>
         <id>https://v.daum.net/v/20221108122220517</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20221108112406886"/>
         <updated>2022-11-08T03:23:35.956Z</updated>
         <content type="html"><![CDATA[‘제2의 미나리’가 떴다. 작지만 강한 울림으로 전 세계를 사로 잡고 있는, 영화 ‘짜장면...고맙습니다’(감독 신성훈·박영혜)를 두고 하는 말이다.신성훈·박영혜 감독은 지난 5일 미국 할리우드에서 개최된 최대 규모의 영화제인 ‘제13회 LA웹페스트’에서 ‘짜장면 고맙습니다’ 로 당당히 작품성을 인정 받아 베스트 작품상을 수상했다. 이들은 약 50여개의 해]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김래원→이종석·차은우 '데시벨', 남는 건 제복 입은 비주얼]]></title>
-        <id>https://v.daum.net/v/20221108111702529</id>
-        <link href="https://v.daum.net/v/20221108111702529"/>
-        <updated>2022-11-08T03:23:35.969Z</updated>
-        <content type="html"><![CDATA[[텐아시아=강민경 기자] 영화 '데시벨'이 소음에 반응하는 폭탄을 앞세워 110분간 테러 액션을 선보인다. 액션보다 강렬하게 남는 건 해군 제복을 입은 배우들의 비주얼이다. '데시벨'(감독 황인호)은 '소음에 반응하는 폭탄'이라는 독특한 소재로 한 영화. 소음이 커지는 순간 폭발하는 특수 폭탄으로 도심을 점거하려는 폭탄 설계자(이종석 역)와 그의 타깃이]]></content>
     </entry>
 </feed>
