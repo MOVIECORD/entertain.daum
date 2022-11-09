@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/variety</id>
     <title>다음 연예 ─ 뉴스 ─ 예능</title>
-    <updated>2022-11-09T10:14:57.803Z</updated>
+    <updated>2022-11-09T11:13:41.296Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[9번째 의뢰인 “유방암 4기..가족들 안락하게 지냈으면”, 입원 전 신청]]></title>
+        <id>https://v.daum.net/v/20221109195526163</id>
+        <link href="https://v.daum.net/v/20221109195526163"/>
+        <updated>2022-11-09T11:13:29.707Z</updated>
+        <content type="html"><![CDATA[[OSEN=박하영 기자] ‘신박한 정리2’ 9번째 의뢰인의 안타까운 사연이 전해졌다. 9일 방송된 tvN ‘신박한 정리2 : 절박한 정리’(이하 '신박한정리2') 마지막 회에는 9번째 의뢰인의 집이 공개됐다. 이날 9번째 의뢰인 한윤아 씨는 “남편과 함께 6살, 2살과 함께 살고 있다. 제가 1년 동안 집을 비우고 있다. 여러 사람이 돌아가서 정리하는 까]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김밥 파는 뉴욕대 이서진?..'서진이네' 메뉴가 길거리 분식이라니]]></title>
+        <id>https://v.daum.net/v/20221109194119962</id>
+        <link href="https://v.daum.net/v/20221109194119962"/>
+        <updated>2022-11-09T11:13:29.713Z</updated>
+        <content type="html"><![CDATA[[OSEN=박소영 기자] 이서진이 상무에서 전무로, 전무에서 사장으로 초고속 승진했다. 이번엔 ‘윤식당’이 아닌 자신의 이름을 내건 한국식 길거리 음식점이다. tvN 측은 9일 '윤식당' 시리즈의 스핀오프 예능 '서진이네(가제)' 론칭 소식을 알렸다. 소문만 무성했던 ‘윤식당’의 새 시즌은 시즌3가 아닌 스핀오프가 된 것. 사장도 윤여정이 아닌 이서진이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[나영석, 또 이서진 손잡았다…제목부터 '서진이네']]></title>
         <id>https://v.daum.net/v/20221109191002481</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20221109173126923"/>
         <updated>2022-11-09T09:14:09.963Z</updated>
         <content type="html"><![CDATA[[스타뉴스 한해선 기자] /사진=IHQ '원조 식신' 정준하가 '돈쭐내러 왔습니다2'에 출격한다. 10일 오후 8시 방송되는 채널 IHQ 예능 프로그램 '돈쭐내러 왔습니다2' 32회에서는 경기도 파주시 금촌동에 위치한 한 짬뽕 맛집에서 '돈쭐(돈으로 혼쭐)' 작전을 펼치는 먹피아 조직의 모습이 공개된다. 이날 이영자, 제이쓴은 스페셜 먹요원으로 '원]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['결혼에 진심' 지주희, 무슨 폭탄발언이길래..성시경까지 대리상처]]></title>
-        <id>https://v.daum.net/v/20221109172951842</id>
-        <link href="https://v.daum.net/v/20221109172951842"/>
-        <updated>2022-11-09T09:14:09.964Z</updated>
-        <content type="html"><![CDATA[[OSEN=하수정 기자] 결심남녀들이 ‘여자 정보 공개 데이트’와 ‘1:1 매칭 데이트’로 설레는 하루를 보낸다. 10일 방송되는 JTBC ‘결혼에 진심’에서는 아직 끝나지 않은 ‘여자 정보 공개 데이트’와 결심남녀들(결혼에 진심인 남녀들)의 설레는 첫 ‘1:1 매칭 데이트’가 펼쳐진다. 결심녀들의 직업과 나이가 공개되면서 결심남들의 마음이 한 발 멀어]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[유키스 수현, 세월이 야속한 OPPA "오랜 팬 아기 데려와"]]></title>
-        <id>https://v.daum.net/v/20221109172920823</id>
-        <link href="https://v.daum.net/v/20221109172920823"/>
-        <updated>2022-11-09T09:14:09.984Z</updated>
-        <content type="html"><![CDATA[[OSEN=연휘선 기자]&nbsp;‘대한외국인’에서 그룹 유키스 수현이 팬 사인회 일화를 공개한다. 오늘(9일) 방송되는&nbsp;MBC에브리원 예능 프로그램 ‘대한외국인’은&nbsp;‘노력 끝에 전성기를 맞은 스타들’&nbsp;특집으로 개그맨 남창희,&nbsp;가수 최예나,&nbsp;유키스 수현,&nbsp;개그맨 출신 배우 이명훈이 출연해 퀴즈 대결을 펼친다. 수현은&nbsp;2008년 그룹&nbsp;‘유키스’의 리더 겸 메인 보]]></content>
     </entry>
 </feed>

@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2022-11-09T10:14:57.809Z</updated>
+    <updated>2022-11-09T11:13:41.305Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[40대 된 캡틴 아메리카..크리스 에반스 "몸 예전 같지 않아"]]></title>
+        <id>https://v.daum.net/v/20221109200712431</id>
+        <link href="https://v.daum.net/v/20221109200712431"/>
+        <updated>2022-11-09T11:13:19.272Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 김나연 기자] 크리스 에반스 / 사진=/AFPBBNews=뉴스1=스타뉴스2022년 가장 섹시한 남자 1위로 선정된 배우 크리스 에반스가 나이를 실감하고 있다고 밝혔다. 크리스 에반스는 8일(현지시간) 피플과의 인터뷰를 통해 10년 동안 캡틴 아메리카를 연기하면서 슈퍼히어로의 몸매를 유지했다. 이제는 내가 먹는 것과 운동하는 방법에 더 주의를]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["서울독립영화제, 가장 새롭고 젊은 창작자들 만나는 장"]]></title>
+        <id>https://v.daum.net/v/20221109194257993</id>
+        <link href="https://v.daum.net/v/20221109194257993"/>
+        <updated>2022-11-09T11:13:19.274Z</updated>
+        <content type="html"><![CDATA[(서울=연합뉴스) 양정우 기자 = "서울독립영화제는 역사적 무게가 느껴지는 오래된 전통의 영화제이면서, 한국 영화의 가장 새롭고 젊은 감독과 배우·창작자들을 만나는 자리입니다." 김동현 서울독립영화제 집행위원장은 9일 충무아트센터에서 열린 기자회견에서 다음 달 개막하는 제48회 서울독립영화제의 의미를 이같이 소개했다. 그는 "올해 1천574편이 출품해 역대]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["빨간 머리 마동석"..'압꾸정', 11월 30일 개봉]]></title>
         <id>https://v.daum.net/v/20221109190217354</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20221109174809529"/>
         <updated>2022-11-09T09:13:59.266Z</updated>
         <content type="html"><![CDATA[[SBS 연예뉴스 | 김지혜 기자] 올해로 데뷔 27년 차를 맞은 소지섭은 스릴러 영화도 처음이며 악역을 맡은 것도 처음이라고 했다. 그동안 TV와 영화를 통해 이 배우의 다양한 모습을 봐왔다고 생각했지만 영화 '자백'(감독 윤종석) 속 모습은 완전히 낯설 얼굴이었다. 그 낯섦은 극의 몰입을 도왔다. 관점과 시점에 따라 캐릭터가 미묘하게 변화하는 영화의 특]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['데시벨' 김래원 "한석규 조언, 엄청난 자극됐다"]]></title>
-        <id>https://v.daum.net/v/20221109171313192</id>
-        <link href="https://v.daum.net/v/20221109171313192"/>
-        <updated>2022-11-09T08:19:35.573Z</updated>
-        <content type="html"><![CDATA[[티브이데일리 김종은 기자] 영화 '데시벨'의 배우 김래원이 자신에게 진심어린 조언과 격려를 건네 준 선배 한석규를 향한 고마운 마음을 드러냈다. 김래원은 9일 오후 서울 종로구 삼청동 모처의 한 카페에서 진행된 영화 '데시벨'(감독 황인호·제작 이스트드림시노펙스) 개봉 기념 인터뷰에서 "한석규 선배의 조언이 큰 자극이 됐다"고 말했다. 지난 1997년]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[숀 펜, 오스카 트로피 우크라 대통령에 전달 "더 강해지길"]]></title>
-        <id>https://v.daum.net/v/20221109170630945</id>
-        <link href="https://v.daum.net/v/20221109170630945"/>
-        <updated>2022-11-09T08:19:35.573Z</updated>
-        <content type="html"><![CDATA[[TV리포트=김영재 기자] 배우 숀 펜이 오스카 트로피를 볼로디미르 젤렌스키 우크라이나 대통령에게 건넸다. 무슨 사연일까? 8일(현지시간) CNN 등 외신은 숀 펜이 그가 우크라이나를 지지한다는 상징으로 오스카 트로피를 직접 우크라이나에 전달했다고 보도했다. 숀 펜이 우크라이나를 방문한 것은 이번이 세 번째다. 우크라이나 수도 키이우에서 숀 펜은 자신이 가]]></content>
     </entry>
 </feed>
