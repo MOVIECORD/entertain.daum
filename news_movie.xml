@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2022-11-12T08:16:59.905Z</updated>
+    <updated>2022-11-12T09:13:54.992Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['동감' 여진구 "90년대에 스무살이셨던 형님들, 영화 보고 코 끝 찡해지실 것"]]></title>
+        <id>https://v.daum.net/v/20221112180151436</id>
+        <link href="https://v.daum.net/v/20221112180151436"/>
+        <updated>2022-11-12T09:13:33.143Z</updated>
+        <content type="html"><![CDATA[개기월식이 일어난 날, 시간을 뛰어 넘어 오래된 무전기를 통해 기적처럼 연결된 '용'과 '무늬'가 서로의 사랑과 우정을 이야기하며 특별한 감정을 쌓아가는 청춘 로맨스 '동감'의 주인공 여진구를 만났다. 여진구는 극중에서 사랑을 꿈꾸는 95학번 '용'을 맡아 첫눈에 반한 신입생 '한솔'에게 자신의 마음을 고백하려는 기계공학과 학생을 연기했다. 1997년]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[명절마다 몸무게 재는 시댁, 며느리는 목걸이를 뜯었다]]></title>
         <id>https://v.daum.net/v/20221112171502878</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20221112093651235"/>
         <updated>2022-11-12T01:08:16.771Z</updated>
         <content type="html"><![CDATA[[이데일리 스타in 박미애 기자] 개봉 영화를 소개합니다. ◇블랙 팬서:와칸다 포에버 와칸다는 국왕이자 블랙팬서인 티찰라(고 채드윅 보스만 분)의 죽음 이후 수많은 강대국으로부터 위협을 받게 된다. 라몬다(안젤라 바셋 분)와 슈리(레티티아 라이트 분), 나키아(루피타 뇽오 분), 오코예(다나이 구리라 분) 그리고 음바쿠(윈스턴 듀크 분)는 각자 사명감을]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['블랙팬서', 3일째 1위…누적 관객수 45만↑]]></title>
-        <id>https://v.daum.net/v/20221112091333000</id>
-        <link href="https://v.daum.net/v/20221112091333000"/>
-        <updated>2022-11-12T01:08:16.794Z</updated>
-        <content type="html"><![CDATA[(서울=뉴스1) 황미현 기자 = 영화 '블랙팬서: 와칸다 포에버'가 개봉 3일째 1위를 차지했다. 12일 영화진흥위원회 영화관 입장권 통합 전산망에 따르면 '블랙팬서: 와칸다 포에버'는 지난 11일 하루 16만442명을 동원해 박스오피스 1위를 차지했다. 누적관객수는 45만3859명이다. '블랙팬서: 와칸다 포에버'는 이번 주말 더욱 많은 관객을 모아]]></content>
     </entry>
 </feed>
