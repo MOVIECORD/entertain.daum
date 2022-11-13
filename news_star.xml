@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2022-11-13T04:27:38.543Z</updated>
+    <updated>2022-11-13T05:15:00.439Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['소방서 옆 경찰서' 생생한 현장 일지, 장점이자 약점]]></title>
+        <id>https://v.daum.net/v/20221113133124973</id>
+        <link href="https://v.daum.net/v/20221113133124973"/>
+        <updated>2022-11-13T05:14:54.988Z</updated>
+        <content type="html"><![CDATA[[티브이데일리 황서연 기자] '소방서 옆 경찰서'가 소방과 경찰의 공동대응 현장 일지를 생생하게 그려내며 시청자들의 이목을 집중시켰다. 세세한 현장 묘사는 몰입감을 높이는 요소가 되기도 했지만, 오히려 사건을 답답하게 전개하는 요소가 되기도 했다. 12일 첫 방송한 SBS 새 금토드라마 '소방서 옆 경찰서'(극본 민지은·연출 신경수) 1회에서는 피의자 과잉]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[경찰+소방 팀플레이 통했다… ‘소방서 옆 경찰서’ 인상적 시청률]]></title>
         <id>https://v.daum.net/v/20221113125458523</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20221113112528299"/>
         <updated>2022-11-13T03:23:33.721Z</updated>
         <content type="html"><![CDATA[[뉴스엔 이해정 기자] '라디오쇼' 박명수가 신혼부부에게 분가를 강력히 추천했다. 11월 13일 방송된 KBS 쿨FM '박명수의 라디오쇼'는 청취자들의 문자로 꾸며졌다. 한 청취자는 "시부모님이 살림을 가르쳐준다고 2년은 같이 살자고 하는데 저는 분가해서 살고 싶다. 어떻게 해야 할지 머리가 아프다"라고 문자를 보냈다. 박명수는 "똑같은 경우를 제가]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박명수, 일부 자전거 동호회에 일침 “1, 2차선으로 달려”]]></title>
-        <id>https://v.daum.net/v/20221113111904208</id>
-        <link href="https://v.daum.net/v/20221113111904208"/>
-        <updated>2022-11-13T03:23:33.723Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 이해정 기자] '라디오쇼' 박명수가 일부 자전거 동호회 회원들에게 일침을 가했다. 11월 13일 방송된 KBS 쿨FM '박명수의 라디오쇼'는 청취자들의 문자로 꾸며졌다. 한 청취자는 "요즘 자전거 동호회 활동 중이다. 다이어트 목적인데 회원들이랑 운동하고 먹는 밥이 꿀맛이다"라고 문자를 보냈다. 박명수는 "저는 자전거 안 타고 바이크 탄다.]]></content>
     </entry>
 </feed>
