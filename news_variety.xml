@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/variety</id>
     <title>다음 연예 ─ 뉴스 ─ 예능</title>
-    <updated>2022-11-16T16:28:23.074Z</updated>
+    <updated>2022-11-16T17:26:07.245Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[조혜련 "김구라 아내, 배우 박주미 스타일…외모 봤더라"]]></title>
+        <id>https://v.daum.net/v/20221117020005718</id>
+        <link href="https://v.daum.net/v/20221117020005718"/>
+        <updated>2022-11-16T17:25:56.816Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 박윤진 기자] 개그우먼 조혜련이 절친 김구라의 아내를 본 적 있다며 미모를 극찬했다. 16일 방송된 MBC '라디오스타'는 '지치면 가만 안 두겠어~' 특집으로 꾸며져 배우 송일국·배해선, 가수 정동원, 개그우먼 조혜련, 댄서 트릭스가 게스트로 출연했다. 이날 조혜련은 "구라의 부인을 촬영장에서 본 적 있는데, 또 다른 배우가 왔나 했]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['신랑수업' 모태범, ♥임사랑과 첫키스 장소 전혀 기억하지 못해]]></title>
+        <id>https://v.daum.net/v/20221117013023597</id>
+        <link href="https://v.daum.net/v/20221117013023597"/>
+        <updated>2022-11-16T17:25:56.821Z</updated>
+        <content type="html"><![CDATA[[OSEN=오세진 기자] ‘신랑수업’ 모태범이 임사랑과의 첫키스 장소를 기억하지 못했다. 16일 방송한 채널A ‘요즘 남자 라이프-신랑수업(이하&nbsp;‘신랑수업’)’에서는 개그맨 이상준이 신입생으로 등장했다. 신봉선은 오랜만에 만난 후배 이상준에게 "요즘도 이상형 어때?"라며 장난스럽게 말을 걸었다. 이에&nbsp;이상준은 “솔직히 나쁘지 않다. 솔직히 누나가 연하였]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[영숙, 집 3채 보유 "하는 일은 사업" 단아한 능력녀 등극]]></title>
         <id>https://v.daum.net/v/20221117011745554</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20221117001456105"/>
         <updated>2022-11-16T16:28:11.157Z</updated>
         <content type="html"><![CDATA[[마이데일리 = 임유리 기자] 11기 영철이 정숙에게 자신이 육촌 동생임을 밝혔다. 16일 밤 방송된 케이블채널 ENA PLAY·SBS PLUS ‘나는 SOLO &lt;나는 솔로&gt;’(이하 ‘나는 솔로’)에서는 여성 출연자들이 자기소개를 하는 모습이 그려졌다. 이날 자신의 직업이 변리사라고 소개한 정숙은 “삼 남매 중 장녀로 남동생이 두 명 있다”라고 가족]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[유해진, 의상학과 입학→비데공장 알바…트리플 천만 배우 되기까지]]></title>
-        <id>https://v.daum.net/v/20221117000007890</id>
-        <link href="https://v.daum.net/v/20221117000007890"/>
-        <updated>2022-11-16T15:13:44.463Z</updated>
-        <content type="html"><![CDATA[[마이데일리 = 박윤진 기자] 배우 유해진이 트리플 천만 배우의 열정적 연기 인생을 전했다. 16일 방송된 케이블채널 tvN '유 퀴즈 온 더 블럭' 168회는 '해내야죠' 특집으로 유해진이 출연했다. 25년 차 배우 유해진은 무려 60여 편의 필모그래피를 보유하고, 영화 '왕의 남자' '베테랑' '택시운전사'로 트리플 천만 배우에 등극했다. 중학교]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['나는 솔로' 훈남 영철, 순자 이상형에 "내가 만능 블록남" 자신감 드러내]]></title>
-        <id>https://v.daum.net/v/20221116235248819</id>
-        <link href="https://v.daum.net/v/20221116235248819"/>
-        <updated>2022-11-16T15:13:44.463Z</updated>
-        <content type="html"><![CDATA[[OSEN=오세진 기자] ‘나는 솔로’ 훈남으로 인기몰이 중인 영철이 순자의 이상형에 부합하는 멘트를 던져 설렘을 선보였다. 16일 방영된 SBS 예능 ‘나는 솔로’(이하 ‘나는솔로’)에서는 지난 회에 이어 여성 출연자들의 자기 소개 시간이 이루어졌다. 영숙은 단아한 외모에 청순한 이미지와 다르게 품이 큰 일을 해내고 있었다. 바로 주방 기기 철거 및]]></content>
     </entry>
 </feed>
