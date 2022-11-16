@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2022-11-16T01:14:20.188Z</updated>
+    <updated>2022-11-16T03:14:14.951Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[BTS, 3년 연속·K팝 최초 그래미 3개 후보…"영광이고 감사"]]></title>
+        <id>https://v.daum.net/v/20221116113350558</id>
+        <link href="https://v.daum.net/v/20221116113350558"/>
+        <updated>2022-11-16T03:14:14.242Z</updated>
+        <content type="html"><![CDATA[(서울=연합뉴스) 이태수 안정훈 기자 = 그룹 방탄소년단(BTS)이 K팝 가수 최초로 미국 최고 권위의 대중음악 시상식인 '그래미 어워즈'(Grammy Awards)에서 3개 부문 후보에 올랐다고 소속사 빅히트뮤직이 밝혔다. 가요계에서는 3년 연속으로 그라모폰(그래미 트로피)에 도전하는 방탄소년단이 K팝 가수 최초로 수상까지 이뤄낼지 비상한 관심이 쏠리고]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[머라이어 캐리, 돈 벌려고 ‘크리스마스의 여왕’ 상표 등록하려다 실패]]></title>
         <id>https://v.daum.net/v/20221116095019835</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20221115132025498"/>
         <updated>2022-11-15T05:12:46.969Z</updated>
         <content type="html"><![CDATA[(엑스포츠뉴스 이창규 기자) 미국의 유명 코미디언이자 토크쇼 진행자인 제이 레노가 자동차 화재 사고로 화상을 입었다. 14일(현지시간) 미국 NBC 등 다수 매체는 제이 레노가&nbsp;지난 12일 캘리포니아주 버뱅크에 있는 개인 차고에서 작업을 하다가 자동차에서 불이 나면서 얼굴을 다쳤다고 보도했다. 제이 레노는 공식 성명서를 내며 "화재 때문에 심각한 화상을 입]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[내일 새벽 그래미 후보 발표…BTS 3년 연속 지명될까]]></title>
-        <id>https://v.daum.net/v/20221115130006073</id>
-        <link href="https://v.daum.net/v/20221115130006073"/>
-        <updated>2022-11-15T04:18:51.245Z</updated>
-        <content type="html"><![CDATA[(서울=연합뉴스) 이태수 기자 = 미국 대중음악계 최고 권위를 지닌 시상식인 제65회 '그래미 어워즈'(Grammy Awards) 후보 명단이 한국 시각으로 16일 오전 2시께 공개된다. 가요계는 그룹 방탄소년단(BTS)이 '베스트 팝 듀오 그룹 퍼포먼스' 부문에서 3년 연속으로 후보 명단에 포함될지에 촉각을 곤두세우고 있다. 일각에선 블랙핑크와 스트레이키]]></content>
     </entry>
 </feed>
