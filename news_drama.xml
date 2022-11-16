@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-11-16T21:12:20.288Z</updated>
+    <updated>2022-11-16T22:12:49.186Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘얼룩’ 차학연 “꿈꿔왔던 작품…이렇게 몰입한 적 처음”]]></title>
+        <id>https://v.daum.net/v/20221117063017814</id>
+        <link href="https://v.daum.net/v/20221117063017814"/>
+        <updated>2022-11-16T22:12:31.798Z</updated>
+        <content type="html"><![CDATA[배우 차학연이 16일 열린 ‘드라마 스페셜 2022’ 온라인 제작발표회 무대에 올라 포즈를 취하고 있다. 사진제공｜KBS “새로워지고 싶어요!” 배우 차학연(32)이 눈을 반짝였다. 잠시라도 멈춰있던 적이 있었나 싶을 만큼 변화무쌍한 길을 걸어온 그다운 말이다. 차학연은 2012년 그룹 빅스의 리더로 가요계에 데뷔해 8년 가까이 ‘엔’이라는 예명으로 불렸]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[신예 배우들 안방극장 점령]]></title>
+        <id>https://v.daum.net/v/20221117063011801</id>
+        <link href="https://v.daum.net/v/20221117063011801"/>
+        <updated>2022-11-16T22:12:31.798Z</updated>
+        <content type="html"><![CDATA[웨이브 오리지널 시리즈 ‘약한 영웅 Class1’의 홍경·최현욱·박지훈 등 신인 배우들이 드라마 주연 자리를 잇달아 꿰차고 있다. 사진제공｜웨이브최근 낯선 신예 배우들이 잇따라 드라마의 주·조연으로 나서며 눈길을 끌고 있다. 톱스타들의 티켓파워가 드라마 흥행에 절대적 영향을 미쳤던 과거와 달리 이야기나 장르적 매력을 중요시 하는 OTT(온라인 동영상 서비]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이혜리, 이준영 향한 마음 확인..."미치게 챙겨주고 싶고 설레"]]></title>
         <id>https://v.daum.net/v/20221117060203427</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20221116195123571"/>
         <updated>2022-11-16T11:11:08.777Z</updated>
         <content type="html"><![CDATA[[스타뉴스 이빛나리 기자] /사진='마녀의 게임' 방송화면'마녀의 게임'에서 한지완이 오창석과 결혼을 하기 위해 반효정을 협박했다. 16일 오후 방송된 MBC 일일드라마 '마녀의 게임'에서 강지호(오창석 분)는 사랑하는 주세영(한지완 분)을 위해  주세영의 죄를 뒤집어썼다. 강지호는 마현덕(반효정 분)에 정민자(오윤홍 분)를 죽였다며 도움을 청했다. 자]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박지훈·최현욱·홍경 '약한영웅', 전율 부르는 OTT 웰메이드 명작의 탄생]]></title>
-        <id>https://v.daum.net/v/20221116193403228</id>
-        <link href="https://v.daum.net/v/20221116193403228"/>
-        <updated>2022-11-16T11:11:08.777Z</updated>
-        <content type="html"><![CDATA[[스포츠한국 모신정 기자]&nbsp;박지훈과 최현욱, 홍경, 이연, 신승호가 주연을 맡은 웨이브 오리지널 '약한영웅 Class1'이 베일을 벗었다.&nbsp; 오는 18일 오전 11시 8회차 전회 공개를 앞두고 있는 '약한영웅 Class1'(이하 '약한영웅'/ 유수민 감독)이 16일 오후 2시 서울 용산구 용산아이파크몰에서 1~3회 언론시사회를 열고 그 면모를 선보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['마녀의 게임' 한지완, 의식 깨어난 오윤홍 밀쳐 사망]]></title>
-        <id>https://v.daum.net/v/20221116192957139</id>
-        <link href="https://v.daum.net/v/20221116192957139"/>
-        <updated>2022-11-16T11:11:08.778Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 이빛나리 기자] /사진='마녀의 게임' 방송화면'마녀의 게임'에서 한지완이 의식이 깨어난 오윤홍을 밀쳐 죽음에 이르게 했다. 16일 오후 방송된 MBC 일일드라마 '마녀의 게임'에서 주세영(한지완 분)이 정민자(오윤홍 분)의 사고 현장을 발견했다. 마현덕(반효정 분)은 자신을 찾아온 정민자를 뿌리치다가 정민자가 계단 아래로 추락했다. 이를]]></content>
     </entry>
 </feed>
