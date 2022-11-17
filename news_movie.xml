@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2022-11-17T12:27:17.783Z</updated>
+    <updated>2022-11-17T13:31:00.658Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[유흥식 추기경, 바티칸서 영화 '탄생' 제작진 위해 미사 집전]]></title>
+        <id>https://v.daum.net/v/20221117220849562</id>
+        <link href="https://v.daum.net/v/20221117220849562"/>
+        <updated>2022-11-17T13:30:40.683Z</updated>
+        <content type="html"><![CDATA[(바티칸=연합뉴스) 박수현 통신원 = 유흥식 추기경이 바티칸을 방문한 영화 '탄생' 제작진을 위한 미사를 집전했다. 유 추기경은 17일(현지시간) 바티칸 성 베드로 대성전 지하에 있는 성 베드로 무덤 경당에서 영화 '탄생' 제작진 30명이 참석한 가운데 미사를 집전했다. 그는 전날 프란치스코 교황 알현과 바티칸 뉴 시노드 홀에서 열린 영화 시사회를 언급하며]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[유흥식 추기경 "바티칸서 韓영화 '탄생' 상영해 감동..'탄생'팀 축복"]]></title>
         <id>https://v.daum.net/v/20221117212604982</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20221117183304138"/>
         <updated>2022-11-17T10:13:57.583Z</updated>
         <content type="html"><![CDATA[[OSEN=김보라 기자]&nbsp;새로운 스타일의 스릴러 '올빼미'가 치열하게 고민하며 촬영했던 순간들을 담은 제작기 영상을 공개했다. '올빼미'(감독 안태진, 배급 NEW, 제작 씨제스엔터테인먼트 영화사 담담)는 밤에만 앞이 보이는 맹인 침술사 경수(류준열 분)가 소현세자(김성철 분)의 죽음을 목격한 후 진실을 밝히기 위해 벌이는 하룻밤의 사투를 그린 스릴러.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["관에 들어간 내 모습, 흥미로워"…'세이레', 새롭고 독특한 무속신앙 스릴러]]></title>
-        <id>https://v.daum.net/v/20221117183003061</id>
-        <link href="https://v.daum.net/v/20221117183003061"/>
-        <updated>2022-11-17T10:13:57.593Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 황수연 기자) 배우 서현우, 류아벨, 심은우가 세이레라는 무속신앙으로 흥미로운 미스터리 심리 스릴러를 선보인다.&nbsp; 17일 서울 용산구 CGV 용산아이파크몰에서 영화 '세이레'(감독 박강) 언론시사회가 열렸다. 이 자리에는 배우 서현우, 류아벨, 심은우와 박강 감독이 참석했다.&nbsp; '세이레'는 태어난 지 21일이 채 되지 않은 아기의 아빠 우진(]]></content>
     </entry>
 </feed>
