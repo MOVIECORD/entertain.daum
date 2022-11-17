@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/variety</id>
     <title>다음 연예 ─ 뉴스 ─ 예능</title>
-    <updated>2022-11-17T16:18:18.825Z</updated>
+    <updated>2022-11-17T17:15:32.880Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이용진 "곽튜브는 금기어, 언급하면 좋아하는 줄 알아"]]></title>
+        <id>https://v.daum.net/v/20221118014023425</id>
+        <link href="https://v.daum.net/v/20221118014023425"/>
+        <updated>2022-11-17T17:15:21.926Z</updated>
+        <content type="html"><![CDATA[[OSEN=김채연 기자] 우주소녀 설아가 즐겨보는 유튜브 채널로 곽튜브를 언급했다. 17일 유튜브 채널 ‘용진건강원’에는 ‘걸그룹 금기 토크... 이거 괜찮겠죠?’라는 제목으로 새 영상이 게재됐다. 이날 즐겨보는 유튜브 채널을 묻는 질문에 설아는 “저 그거 진짜 많이 봐요. 곽튜브”라고 말했고, 이용진은 “아… 여기선 안돼. 여기선 금기다”라고 말해 주]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[박하선 "산후 6개월까지 아파 못 걸었다"→♥류수영 몰래 휴식]]></title>
         <id>https://v.daum.net/v/20221118011159320</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20221118000504493"/>
         <updated>2022-11-17T15:13:38.743Z</updated>
         <content type="html"><![CDATA[[마이데일리 = 박서연 기자] 4남매를 홀로 키우고 있는 싱글대디가 안타까운 사연을 밝힌다. 오는 18일 오후 8시 방송되는 종합편성채널 채널A '요즘 육아 - 금쪽같은 내새끼'에서는 엄마를 잃은 4남매와 싱글 대디의 사연이 공개된다. 이날 녹화는 108회 출연했던 금쪽 가족이 보내온 따뜻한 소식으로 시작한다. 뇌전증으로 '케톤식이'를 하며 기름을 먹어]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박지성, 용인 빌딩 250억 시세 vs 손흥민 연봉 150억]]></title>
-        <id>https://v.daum.net/v/20221118000403467</id>
-        <link href="https://v.daum.net/v/20221118000403467"/>
-        <updated>2022-11-17T15:13:38.744Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 한해선 기자] /사진=KBS 2TV '연중 플러스' 방송 캡처 /사진=KBS 2TV '연중 플러스' 방송 캡처 축구선수 박지성과 손흥민이 실력과 재력을 모두 겸비한 넘사벽 스펙을 자랑했다. 17일 방송된 KBS 2TV '연중 플러스'의 '라이벌 VS' 코너에서는 월드 클래스 축구 스타 손흥민과 박지성의 국가 대표 경력부터 몸값, 소유 중인]]></content>
     </entry>
 </feed>
