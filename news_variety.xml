@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/variety</id>
     <title>다음 연예 ─ 뉴스 ─ 예능</title>
-    <updated>2022-11-17T10:14:20.973Z</updated>
+    <updated>2022-11-17T11:11:42.815Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['난임 극복' 지소연, 괌에서 셀프 만삭 사진 도전…아름다운 D라인]]></title>
+        <id>https://v.daum.net/v/20221117200401834</id>
+        <link href="https://v.daum.net/v/20221117200401834"/>
+        <updated>2022-11-17T11:11:30.836Z</updated>
+        <content type="html"><![CDATA[[텐아시아=차혜영 기자] 임신 중인 배우 지소연이 셀프 만삭 사진을 도전했다. 지소연은 17일 "#셀프만삭사진 을 위한 준비"라고 적었다. 이어 "1. 날씬할 때 입었던 텐션 좋은 원피스를 준비한다. 2. 남편에게 부탁하기 그러니까 삼각대와 리모컨을 준비한다. 3. 역광으로 나오는 스팟을 찾는다"라며 일련의 순서를 공개했다. 또 "4. 최대한 많은 래]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김광규, 논란 후…무주택자 벗어났는데 '집값 폭락']]></title>
         <id>https://v.daum.net/v/20221117185010524</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20221117164213952"/>
         <updated>2022-11-17T08:18:25.678Z</updated>
         <content type="html"><![CDATA[[스타뉴스 김노을 기자] /사진=JTBC한 여고생의 인생을 마비시킨 무리한 칼치기 영상이 공개된다. 17일 오후 방송되는 JTBC 교통 공익 버라이어티 '한문철의 블랙박스 리뷰'(이하 '한블리')에서는 버스를 상대로 칼치기를 한 트럭으로 인해 버스에 탄 승객 중 한 여고생이 불운의 교통사고를 당하는 안타까운 사연이 소개된다. '한블리'에서는 앞서 다양한]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김현숙 "10년째 사기 트라우마...죽을 때까지 갈 것 같아"]]></title>
-        <id>https://v.daum.net/v/20221117164100892</id>
-        <link href="https://v.daum.net/v/20221117164100892"/>
-        <updated>2022-11-17T08:18:25.680Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 이경호 기자] '뻥크루트'에 출연한 김현숙./사진=IHQ '바바요' 개그우먼이자 연기자 김현숙이 사기 트라우마를 고백했다. 17일 IHQ의 OTT(온라인 동영상 서비스) 플랫폼 '바바요'(babayo)의 '뻥크루트' 6회가 공개됐다. '뻥크루트'는 이수지가 거리에서 시민을 만나고 특별 게스트를 인터뷰하며 속이 뻥 뚫리는 '쾌변토크'를 선보이는]]></content>
     </entry>
 </feed>
