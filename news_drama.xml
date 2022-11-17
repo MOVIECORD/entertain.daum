@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-11-17T15:13:50.874Z</updated>
+    <updated>2022-11-17T16:18:18.819Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[노상현, 가짜 손자 강하늘 덜미 잡으러 등판]]></title>
+        <id>https://v.daum.net/v/20221118010007141</id>
+        <link href="https://v.daum.net/v/20221118010007141"/>
+        <updated>2022-11-17T16:18:01.543Z</updated>
+        <content type="html"><![CDATA[[동아닷컴] 사진 제공: 빅토리콘텐츠KBS2 월화드라마 ‘커튼콜’ 노상현이 고두심의 진짜 손자로 등장한다. ‘커튼콜’(연출 윤상호/극본 조성걸)은 연극배우 유재헌(강하늘 분)이 시한부 할머니 자금순(고두심 분)의 가짜 손자 역을 맡아 마지막 소원을 이뤄주는 과정을 그린 드라마다. 유재헌의 가짜 손자 연기가 회를 거듭하면서 물이 오를수록 진짜 손자의 본]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['바달집4', 독립운동가 이상룡 선생 생가로…뜻깊은 안동 여행]]></title>
         <id>https://v.daum.net/v/20221117232548088</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20221117180820437"/>
         <updated>2022-11-17T09:13:21.551Z</updated>
         <content type="html"><![CDATA[[OSEN=김채연 기자] 신예&nbsp;윤정훈이 웨이브 오리지널 드라마 ‘약한영웅 Class 1’에 캐스팅됐다. 웨이브 오리지널 드라마 '약한영웅 Class 1'(이하 '약한영웅', 연출 및 극본 유수민, 제작 플레이리스트, 쇼트케이크)은 상위 1% 모범생 연시은이 처음으로 친구가 된 수호, 범석과 함께 수많은 폭력에 맞서나가는 과정을 그린 약한 소년의 강한 액션]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["10대→40대까지 연기"..송중기표 회귀물 '재벌집 막내아들', 주3회 편성 이유]]></title>
-        <id>https://v.daum.net/v/20221117180638402</id>
-        <link href="https://v.daum.net/v/20221117180638402"/>
-        <updated>2022-11-17T09:13:21.554Z</updated>
-        <content type="html"><![CDATA[[OSEN=김나연 기자] '주 3회 편성'이라는 초강수를 둔 송중기표 회귀물 '재벌집 막내아들'이 베일을 벗는다. 17일 오후 서울 영등포구 여의도동 페어몬트 앰배서더 서울에서는 JTBC 새 금토일 드라마 ‘재벌집 막내아들’ 제작발표회가 진행됐다. 제작발표회에는 정대윤 감독, 배우 송중기, 이성민, 신현빈이 자리했다. 동명의 웹소설을 원작으로 하는 ‘재]]></content>
     </entry>
 </feed>
