@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2022-11-17T17:15:32.896Z</updated>
+    <updated>2022-11-17T18:16:00.916Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["축구가 뭐길래" 세계인의 축제 월드컵 明과 暗]]></title>
+        <id>https://v.daum.net/v/20221118024504532</id>
+        <link href="https://v.daum.net/v/20221118024504532"/>
+        <updated>2022-11-17T18:15:54.510Z</updated>
+        <content type="html"><![CDATA[기사내용 요약 KBS '이슈 PICK 쌤과 함께' 류청 축구 강연 [서울=뉴시스]장지윤 인턴 기자 = '이슈 PICK 쌤과 함께'가 2022 카타르 월드컵 특집을 방송한다. 오는 20일 오후 7시 10분 KBS 1TV에서 방송되는 '이슈 PICK 쌤과 함께'에서는 스포츠 스토리텔러 류청 히든K 편집장을 '쌤'으로 초대해 월드컵의 이모저모를 알아본다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김이나 "故 샤이니 종현, 주기 세어지지 않아…진공상태로 머무른 느낌"]]></title>
+        <id>https://v.daum.net/v/20221118024002529</id>
+        <link href="https://v.daum.net/v/20221118024002529"/>
+        <updated>2022-11-17T18:15:54.512Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 오승현 인턴기자) 작사가 김이나가 故 샤이니 종현을 향한 그리움을 표했다. 18일 김이나는 "방송에서 종현 이야기를 망설임없이 잘 꺼내는 편인데 몇 주 전부터 목에서 턱턱 걸리는 것이 또 그 시기가 왔구나 싶다. 뜬금없이 종현이가 사무치는 시기"라며 종현을 그리워하는 장문의 글과 함께 영상을 게재했다. 김이나는 종현을 그리워하며 라이브 영상을]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['국가부' 정선아·백형훈·김보경 활약, 뮤지컬부 승리]]></title>
         <id>https://v.daum.net/v/20221118012607352</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20221117234100191"/>
         <updated>2022-11-17T15:13:44.500Z</updated>
         <content type="html"><![CDATA[(서울=뉴스1) 박하나 기자 = 배우 심진화가 '원하는대로'에서 어머니의 투병 소식을 전하며 눈물을 흘렸다. 17일 오후 방송된 MBN 예능 프로그램 '원하는대로' 최종회에서는 여행 메이트 심진화, 정주리, 인턴 가이드 인피니트 이성종과 함께하는 강원도 양양·속초 여행기가 이어졌다. 이날 심진화는 신애라의 "요즘 마음이 어때?"라고 질문을 듣고, 감정을]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['이동국 딸' 재시, 16세인데 비행기 '골드 등급'..마일리지 자랑]]></title>
-        <id>https://v.daum.net/v/20221117233857179</id>
-        <link href="https://v.daum.net/v/20221117233857179"/>
-        <updated>2022-11-17T15:13:44.500Z</updated>
-        <content type="html"><![CDATA[[스포츠조선 조윤선 기자] 이동국 딸 재시가 비행기 마일리지를 자랑했다. 17일 재시의 유튜브 채널 '지금 몇시? 재시!'에는 '프로 해외 출장러는 무엇을 챙겨갈까? 왓츠인마이캐리어'라는 제목으로 영상이 게재됐다. 재시는 "밀라노에 와있다. 패션쇼 서게 돼서 왔는데 최대한 예쁜 옷을 가져와 보려고 노력했다"며 캐리어 속 물건들을 공개하겠다고]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘나솔사계’ 4기 영수X국화, 최종 커플 탄생 “정속주행으로 알아가고파”]]></title>
-        <id>https://v.daum.net/v/20221117233500140</id>
-        <link href="https://v.daum.net/v/20221117233500140"/>
-        <updated>2022-11-17T15:13:44.500Z</updated>
-        <content type="html"><![CDATA[[TV리포트 = 하수나 기자] ‘나는 솔로, 그 후 사랑은 계속된다’의 솔로 민박 특집에선 4기 영수와 국화가 커플로 탄생했다.&nbsp; 17일 방송된 SBS플러스 ‘나는 솔로, 그 후 사랑은 계속된다’에서는 ‘성악가’ 1기 영호, ‘조섹츤’ 4기 영수, ‘한량 미생’ 8기 영수가 뭉친 ‘솔로 민박’ 특집의 최종 선택이 공개되며 눈길을 모았다.&nbsp; 이날 최종선택을]]></content>
     </entry>
 </feed>
