@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2022-11-17T01:07:14.138Z</updated>
+    <updated>2022-11-17T03:09:42.482Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[58살 브래드 피트 “열애중”, 29살 이혼녀 사업가 어깨에 손 올리고 친근한 데이트]]></title>
+        <id>https://v.daum.net/v/20221117111416053</id>
+        <link href="https://v.daum.net/v/20221117111416053"/>
+        <updated>2022-11-17T03:09:41.942Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]할리우드 스타 브래드 피트(58)가 폴 웨슬리(40)의 전처이자 주얼리 사업가인 이네스 드 라몬(29)과 데이트를 즐기는 모습이 포착됐다. 16일(현지시간) 페이지식스는 피트가 라몬과 함께 지난 주말 로스엔젤레스에서 열린 보노의 콘서트에서 함께 있는 영상을 공개했다. 피트는 흰색 티셔츠, 회색 재킷, 청바지, 흰색 운동화,]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[브래드 피트, 졸리 다 잊었나..27세 연하 새 ♥︎여친 생겼다]]></title>
         <id>https://v.daum.net/v/20221117091911468</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20221116122921411"/>
         <updated>2022-11-16T04:19:54.533Z</updated>
         <content type="html"><![CDATA[[OSEN=김보라 기자] 절친을 넘어 연예계 동반자로서 '청담 부부'라는 별칭까지 얻은 정우성과 이정재. 올 봄 이정재가 75회 칸 국제영화제에서 첫 연출작 '헌트'를 선보이며 배우 겸 감독으로서 전세계 관객들과 만나더니, 2022년을 45일여 남겨놓고 정우성 역시 첫 연출작 '보호자'로 글로벌 신고식을 치렀다. 그야말로 '부창부수' 커플이다. 정우성은]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BTS, 3년 연속·K팝 최초 그래미 3개 후보…"영광이고 감사"]]></title>
-        <id>https://v.daum.net/v/20221116113350558</id>
-        <link href="https://v.daum.net/v/20221116113350558"/>
-        <updated>2022-11-16T03:14:14.242Z</updated>
-        <content type="html"><![CDATA[(서울=연합뉴스) 이태수 안정훈 기자 = 그룹 방탄소년단(BTS)이 K팝 가수 최초로 미국 최고 권위의 대중음악 시상식인 '그래미 어워즈'(Grammy Awards)에서 3개 부문 후보에 올랐다고 소속사 빅히트뮤직이 밝혔다. 가요계에서는 3년 연속으로 그라모폰(그래미 트로피)에 도전하는 방탄소년단이 K팝 가수 최초로 수상까지 이뤄낼지 비상한 관심이 쏠리고]]></content>
     </entry>
 </feed>
