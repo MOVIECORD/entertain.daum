@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2022-11-17T20:14:21.768Z</updated>
+    <updated>2022-11-17T21:12:06.263Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[쿠엔틴 타란티노, 2023년 8부작 드라마 연출 예고]]></title>
+        <id>https://v.daum.net/v/20221118061002445</id>
+        <link href="https://v.daum.net/v/20221118061002445"/>
+        <updated>2022-11-17T21:12:05.703Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 이창규 기자) 쿠엔틴 타란티노 감독이 신작 촬영 계획에 대해 언급했다. 지난 17일(현지시간) 타란티노는 미국 뉴욕에서 열린 행사장에서 최근 발매된 자신의 새 에세이를 홍보하면서 내년 8부작 시리즈를 촬영할 것임을 언급했다. 다만 제목 등 세부사항에 대해서는 언급하지 않았다. 그는 2005년 'CSI' 시즌5의 24, 25회를 연출하기도 하면]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[티모시 샬라메 “밥 딜런 영화, 아직 진행중…내게 가장 큰 선물”]]></title>
         <id>https://v.daum.net/v/20221117205339521</id>
@@ -95,12 +102,5 @@
         <link href="https://v.daum.net/v/20221117062633764"/>
         <updated>2022-11-16T22:12:48.543Z</updated>
         <content type="html"><![CDATA[(로스앤젤레스=연합뉴스) 정윤섭 특파원 = 미국의 티켓 재판매 사이트에서 팝스타 테일러 스위프트의 공연 표 판매 희망가가 4천700만 원을 기록했다고 16일(현지시간) CNN 방송이 보도했다. 스위프트의 2023년 미국 투어 티켓은 전날 1장당 49∼449달러(6만5천 원∼60만 원)에 사전 판매가 이뤄졌고, 티켓 재판매 사이트 스텁허브에서는 이 콘서트 관]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“영국서 남성 성범죄 7건 추가 기소” 63살 케빈 스페이시, “모두 12건 재판”]]></title>
-        <id>https://v.daum.net/v/20221117060909601</id>
-        <link href="https://v.daum.net/v/20221117060909601"/>
-        <updated>2022-11-16T21:12:19.537Z</updated>
-        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]영국 검찰은 배우 케빈 스페이시(63)가 7건의 성범죄 혐의로 추가 기소될 것이라고 밝혔다. 15일(현지시간) 버라이어티에 따르면, 새로운 혐의는 강제추행 3건, 성폭행 3건, 동의 없는 성행위 1건이다. 모두 한 명의 남성 고소인과 관련이 있으며, 폭행 혐의는 2001년부터 2004년까지 일어났다. 스페이시는 이미 2023년]]></content>
     </entry>
 </feed>
