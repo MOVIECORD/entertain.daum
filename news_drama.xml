@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-11-18T16:17:39.469Z</updated>
+    <updated>2022-11-18T17:13:34.625Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
     <entry>
@@ -32,6 +32,13 @@
         <link href="https://v.daum.net/v/20221119001104473"/>
         <updated>2022-11-18T15:13:17.754Z</updated>
         <content type="html"><![CDATA[[마이데일리 = 강다윤 기자] 윤현우(송중기)가 재벌가의 막내로 눈을 떴다. 18일 방송된 종합편성채널 JTBC '재벌집 막내아들'(극본 김태희 장은재 연출 정대윤 김상호)에서는 윤현우가 순양그룹 기획조정본부 산하 미래자산관리팀장에서 재벌가의 막내가 됐다. 이날 윤현우는 순양그룹 기획조정본부 산하 미래자산관리팀장으로 등장했다. 그는 진양철(이성민)의 흉상]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[송중기, 1995년 재벌 3세로 회귀]]></title>
+        <id>https://v.daum.net/v/20221119001021466</id>
+        <link href="https://v.daum.net/v/20221119001021466"/>
+        <updated>2022-11-18T17:13:19.868Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 강다윤 기자] 윤현우(송중기)가 1995년의 진도준(김강훈)으로 회귀했다. 18일 방송된 종합편성채널 JTBC '재벌집 막내아들'(극본 김태희 장은재 연출 정대윤 김상호)에서는 윤현우가 총살당한 뒤 1995년도의 진도준(송중기)로 눈을 떴다. 이날 윤현우는 진성준(김남희)의 명령을 받아 해외에서 비자금 6억 달러를 회수했다. 그러나 이내]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[첫방 ‘재벌집 막내아들’ 순양家에 살해된 송중기, 이성민 손자 됐다]]></title>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20221118224419799"/>
         <updated>2022-11-18T14:13:00.958Z</updated>
         <content type="html"><![CDATA[김래원이 손호준, 공승연과 이웃사촌이 됐다. 18일 방송된 SBS '소방서 옆 경찰서'에서는 진호개(김래원)가 봉도진(손호준), 송설(공승연)과 같은 층에 살게 된 모습이 그려졌다. 이날 경찰서로 전입온 진호개는 월세가 싼 집을 계약하고, 계약한 아파트로 향했다. 닫히는 엘리베이터를 급하게 잡아타자 봉도진과 송설이 엘리베이터 안에 있었다. 진호개는]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["6억 달러 입금"..송중기, 첫 등장부터 귀티]]></title>
-        <id>https://v.daum.net/v/20221118223921769</id>
-        <link href="https://v.daum.net/v/20221118223921769"/>
-        <updated>2022-11-18T14:13:00.960Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 최혜진 기자] /사진=JTBC'재벌집 막내아들'에서 송중기가 첫 등장했다. 18일 방송된 JTBC 금토일드라마 '재벌집 막내아들'에서는 해외 은행을 방문한 윤현우(송중기 분)의 모습이 그려졌다. 이날 은행원은 윤현우의 서명을 받은 후 그에게 카드를 내밀었다. 그러면서 "윤현우 씨 계좌로 6억 달러 입금됐다"고 말했다. 은행원은 윤현우에게]]></content>
     </entry>
 </feed>
