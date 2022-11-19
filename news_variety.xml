@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/variety</id>
     <title>다음 연예 ─ 뉴스 ─ 예능</title>
-    <updated>2022-11-19T16:16:25.136Z</updated>
+    <updated>2022-11-19T17:14:01.770Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['전참시' +15kg 한해, 40~150만 원 와인까지 소개···여진구 "초대해주세요"]]></title>
+        <id>https://v.daum.net/v/20221120020259295</id>
+        <link href="https://v.daum.net/v/20221120020259295"/>
+        <updated>2022-11-19T17:13:50.767Z</updated>
+        <content type="html"><![CDATA[[OSEN=오세진 기자] ‘전지적 참견 시점’ 한해의 와인 사랑이 수줍음 많은 여진구를 불타게 만들었다. 19일 방영된 MBC 예능 ‘전지적 참견 시점’(이하 ‘전참시’)에서는 여진구와 한해의 일대기가 그려졌다. 여진구는 16년 째 함께 하고 있는 매니저에게 고마움을 표했다. 딱 봐도 친하다 못해 가족 같은 두 사람. 여진구의 동료 배우들에게도 인정을]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[송승헌 “홀애비 냄새 나냐고? 존잘 냄새 난다”]]></title>
         <id>https://v.daum.net/v/20221120011307142</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20221119235518753"/>
         <updated>2022-11-19T15:12:55.155Z</updated>
         <content type="html"><![CDATA[문주란이 사업실패를 고백했다. 11월 19일 방송된 MBN ‘속풀이쇼 동치미’에서 가수 문주란은 활동 중단 후 사업을 했다고 털어놨다. 이날 방송에서 문주란은 “저는 큰 빚을 져본 적은 없었다. 한 번 제가 활동 중단하고 중소기업을 했다”고 말했다. 최은경이 “데뷔하고 한참 있다가?”라고 질문하자 문주란은 “93년도에 했다. 음식물 쓰레기 처리 사업을]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김호중→이동국, 끊긴 산길+모터보트 스펙터클 식사‥밤전 식감에 깜짝]]></title>
-        <id>https://v.daum.net/v/20221119235421746</id>
-        <link href="https://v.daum.net/v/20221119235421746"/>
-        <updated>2022-11-19T15:12:55.156Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 이하나 기자] 정호영, 김호중, 이동국이 보트를 타고 비수구미 마을로 식사를 하러 갔다. 11월 19일 방송된 KBS 2TV ‘배틀트립2’에서 정호영, 이동국, 김호중은 강원도 화천으로 여행을 갔다. 호호이(정호영, 김호중, 이동국) 팀은 팬들이 추천한 장소로 강원도 화천 여행을 시작했다. 내비게이션대로 식당을 찾아온 세 사람은 길이 끊긴 채]]></content>
     </entry>
 </feed>
