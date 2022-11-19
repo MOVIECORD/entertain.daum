@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2022-11-19T09:12:45.097Z</updated>
+    <updated>2022-11-19T10:14:11.179Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['놀면 뭐하니?' 이이경, 집 손님=여친 의혹에 "여자 없다"]]></title>
+        <id>https://v.daum.net/v/20221119190103036</id>
+        <link href="https://v.daum.net/v/20221119190103036"/>
+        <updated>2022-11-19T10:14:04.785Z</updated>
+        <content type="html"><![CDATA[[스포츠투데이 서지현 기자] '놀면 뭐하니?' 이이경이 여자친구 의혹에 휩싸였다. 19일 방송된 MBC '놀면 뭐하니?'에서는 유재석이 '우당탕탕 전원 탑승' 미션을 받고, 멤버 전원을 정해진 시간 내 픽업하러 모습이 그려졌다. 이날 유재석은 제일 먼저 이이경에게 전화해 "간단하게 들어라. 3시간 안에 멤버들을 다 모아야 한다. 내가 집 앞에 가면 바로 나]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['불후' 황치열, 관객과 함께 완성한 '매일 듣는 노래']]></title>
+        <id>https://v.daum.net/v/20221119185038959</id>
+        <link href="https://v.daum.net/v/20221119185038959"/>
+        <updated>2022-11-19T10:14:04.785Z</updated>
+        <content type="html"><![CDATA[(서울=뉴스1) 이아영 기자 = 황치열이 찾아가는 팬서비스로 관객을 열광케 했다. 19일 방송된 KBS 2TV '불후의 명곡'에서는 경북 의성에서 펼쳐진 로맨틱 홀리데이 특집 2부가 공개됐다. 이날 바비킴이 '고래의 꿈'으로 포문을 열었다. 이어서 황치열이 무대에 올랐다. 신동엽은 "누구보다 로맨틱하다"며 "예전에 전재산이 25만 원일 때도 여자친구를]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김구라, 부상에도 촬영 강행→늦둥이 딸 등장에 '아빠 미소']]></title>
         <id>https://v.daum.net/v/20221119180716498</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20221119151605687"/>
         <updated>2022-11-19T07:11:57.969Z</updated>
         <content type="html"><![CDATA[[서울=뉴시스]이윤진 기자 = 케이블 음악 채널 엠넷 '쇼미더머니' 시즌 11 탈락 후보였던 래퍼 이영지가 실력으로 흐름을 뒤바꿨다. 18일 방송된 '쇼미더머니 11'에서는 팀 그릴즈(릴보이X그루비룸), 알젓(저스디스X알티), 콰이올린(더콰이엇X릴러말즈), 슬레이(박재범X슬롬)가 함께 한 '게릴라 비트 싸이퍼' 미션이 그려졌다. 라이브 드럼&amp;퍼커션]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김구라 늦둥이 딸, 촬영장 깜짝 등장.."말 잘한다" 함박웃음]]></title>
-        <id>https://v.daum.net/v/20221119150714595</id>
-        <link href="https://v.daum.net/v/20221119150714595"/>
-        <updated>2022-11-19T06:15:39.863Z</updated>
-        <content type="html"><![CDATA[[OSEN=김나연 기자] 김구라가 늦둥이 딸을 향한 '팔불출' 면모를 드러냈다. 18일 유튜브 채널 '그리구라'에는 "김구라 부상에도 촬영 강행... 아들아 울지마라 이게 프로다...(ft.김구라 딸)"라는 제목의 영상이 업로드 됐다. 이날 김구라와 아들 그리(김동현)는 설문동에 있는 한 음식점을 찾았다. 팔에 보호대를 착용하고 등장한 김구라는 "얼마전]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘재벌집 막내아들’ 이성민 흔들 불청객 등판]]></title>
-        <id>https://v.daum.net/v/20221119141910161</id>
-        <link href="https://v.daum.net/v/20221119141910161"/>
-        <updated>2022-11-19T06:15:39.868Z</updated>
-        <content type="html"><![CDATA[[티브이데일리 이기은 기자] '재벌집 막내아들' 이성민의 삶을 뒤흔들게 될 불청객들이 등장한다. 19일 JTBC 금토일드라마 ‘재벌집 막내아들’(극본 김태희·연출 정대윤) 측은 심상치 않은 분위기가 감도는 순양가의 잔치 현장을 공개했다. 핏줄이라는 이름의 불청객과 마주한 진양철(이성민)이 어떤 반응을 보일까. '재벌집 막내아들'은 첫 방송부터 뜨거운 반응을]]></content>
     </entry>
 </feed>
