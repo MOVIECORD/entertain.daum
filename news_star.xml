@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2022-11-20T16:17:18.298Z</updated>
+    <updated>2022-11-20T17:11:46.178Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['미우새' 탁재훈, 이상민 부반장 재임명장 '갈기 갈기'…본격 '가을 소풍' 예고]]></title>
+        <id>https://v.daum.net/v/20221121015400639</id>
+        <link href="https://v.daum.net/v/20221121015400639"/>
+        <updated>2022-11-20T17:11:40.711Z</updated>
+        <content type="html"><![CDATA[[SBS연예뉴스 | 김효정 에디터] 탁재훈이 이상민의 부반장 재임명을 무효화했다. 20일에 방송된 SBS '미운 우리 새끼'(이하 '미우새')에서는 가을 소풍 떠난 미우새들의 모습이 그려졌다. 이날 방송에서 이상민은 품에서 무언가를 꺼내 보였다. 이는 바로 지난 방송 때 김준호가 작성한 이상민 부반장 임명장이었던 것. 특히 임명장에는 현재 부반장인 김종국의]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[지민·슈가도 "멋있다" 감격…방탄소년단 정국, 카타르 월드컵 열었다]]></title>
         <id>https://v.daum.net/v/20221121003004811</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20221120234410254"/>
         <updated>2022-11-20T15:12:38.473Z</updated>
         <content type="html"><![CDATA[배우 전종서가 맡은 캐릭터들은 유난히 불안의 아이콘으로 해석되곤 했다. '버닝'에서 노을을 보며 자신을 감싸고 있던 것을 벗어던지는 모습, 또 '콜'에서 욕망으로 가득한 싸이코패스를 입었던 모습이 쉽사리 지워지지 않는다. 이처럼 전종서는 가늠할 수 없고 또 정해진 길을 따르지 않는 방황하는 청춘을 대변하는 인물을 주로 소화했다. '몸값'에서의 모습도 마찬가]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["하루하루가 선물 같아" 최동환♥이소라, 진심의 사랑 확인]]></title>
-        <id>https://v.daum.net/v/20221120232924186</id>
-        <link href="https://v.daum.net/v/20221120232924186"/>
-        <updated>2022-11-20T15:12:38.474Z</updated>
-        <content type="html"><![CDATA[(서울=뉴스1) 안태현 기자 = '돌싱글즈 외전-괜찮아 사랑해' 최동환과 이소라가 서로에 대한 진심의 사랑을 다졌다. 20일 오후 방송된 MBN '돌싱글즈 외전-괜찮아 사랑해' 최종회에서는 최동환과 이소라의 여행 마지막 날의 모습이 그려졌다. 이날 이소라, 최동환은 저녁 식사를 마치고 마주 앉아서 '가상 결혼 게임'을 진행했다. 카드에 적힌 질문들에 서]]></content>
     </entry>
 </feed>
