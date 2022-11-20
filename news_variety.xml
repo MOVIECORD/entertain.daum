@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/variety</id>
     <title>다음 연예 ─ 뉴스 ─ 예능</title>
-    <updated>2022-11-20T18:14:56.771Z</updated>
+    <updated>2022-11-20T19:10:48.936Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["백화점이야?" 조세호, 한강뷰 집→명품多 드레스룸·초고가 시계 공개]]></title>
+        <id>https://v.daum.net/v/20221121041005430</id>
+        <link href="https://v.daum.net/v/20221121041005430"/>
+        <updated>2022-11-20T19:10:38.611Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 박서연 기자] 개그맨 조세호가 명품이 가득한 집을 공개했다. 20일 방송된 KBS 2TV 예능 프로그램 '홍김동전'에서는 '동전세끼 홈스테이' 특집이 그려졌다. 이날 홍진경, 김숙, 조세호, 주우재, 우영은 동전을 던져 앞면이 나오면 호스트가 되어 자신의 집으로 멤버들을 초대해야 했다. 호스트의 의무는 식사 한 끼 대접, 세간 살림 공]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이소라 "과거 신경 안써"→최동환 "바람 싫다"..식겁한 이유는?]]></title>
         <id>https://v.daum.net/v/20221121011751250</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20221120231319136"/>
         <updated>2022-11-20T15:12:33.616Z</updated>
         <content type="html"><![CDATA[(엑스포츠뉴스 이슬 기자) '돌싱글즈3' 이소라, 최동환이 결혼에 대한 생각을 밝혔다. 20일 방송된 MBN '돌싱글즈 외전-괜찮아, 사랑해'(이하 '돌싱외전2')에서는 이소라, 최동환 커플의 춘천 촌캉스가 공개됐다. 이소라는 최동환에게 '가상 결혼 게임'을 제안했다. 카드에 적힌 결혼에 관한 질문에 솔직히 답하는 게임이다. 최동환은 "가상 결혼 해봤자 우]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한가인 “♥연정훈, 통금시간 어기면 스킨십 금지… 이젠 일부러 늦는 듯”]]></title>
-        <id>https://v.daum.net/v/20221120231235135</id>
-        <link href="https://v.daum.net/v/20221120231235135"/>
-        <updated>2022-11-20T15:12:33.617Z</updated>
-        <content type="html"><![CDATA[[마이데일리 = 임유리 기자] 배우 한가인이 연정훈이 지금은 일부러 통금시간을 어기는 것 같다고 털어놨다. 20일 밤 방송된 SBS 예능 프로그램 ‘미운 우리 새끼’(이하 ‘미우새’)에는 배우 한가인이 게스트로 출연했다. 이날 신동엽은 앞서 남편 연정훈이 ‘미우새’에 출연했을 때 했던 말을 언급하며 “한가인은 통금시간을 어기면 스킨십 제한을 한다고]]></content>
     </entry>
 </feed>

@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2022-11-20T18:14:56.768Z</updated>
+    <updated>2022-11-20T19:10:48.888Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[티빙 시리즈 ‘몸값’… “돈과 거짓말에 관한 이야기”]]></title>
+        <id>https://v.daum.net/v/20221121040415366</id>
+        <link href="https://v.daum.net/v/20221121040415366"/>
+        <updated>2022-11-20T19:10:43.429Z</updated>
+        <content type="html"><![CDATA[말 그대로 ‘몸값’ 흥정이 이뤄지는 현장. 한 남성의 신장을 걸고 경매가 한창인 도시 외곽의 어느 호텔에서 갑자기 지진이 일어난다. 불법으로 장기를 사려 했던 구매자들도, 두 눈 뜨고 신장을 뺏길 뻔한 남성도, 장기매매 경매사도 이제 생존이란 한 가지 목표를 향해 달려간다. 누구를 믿어야 할지 알 수 없지만 살기 위해 누군가와 손을 잡아야만 한다. 티빙]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['미우새' 탁재훈, 이상민 부반장 재임명장 '갈기 갈기'…본격 '가을 소풍' 예고]]></title>
         <id>https://v.daum.net/v/20221121015400639</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20221120234800271"/>
         <updated>2022-11-20T15:12:38.472Z</updated>
         <content type="html"><![CDATA[[마이데일리 = 박서연 기자] 배우 고성희(33)가 오늘 웨딩마치를 올렸다. 20일 고성희는 서울 중구의 한 호텔에서 비연예인 남성과 결혼식을 올렸다. 예식은 신랑을 배려해 비공개로 진행됐다. 이날 결혼식에는 배구선수 김연경(35), 모델 강승현(36), 그룹 와썹 출신 송다인 등이 참석해 고성희의 인생 2막을 응원했다. 특히 송다인은 "가나요 그대]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[전종서 "해방감 주는 배우 되고파"]]></title>
-        <id>https://v.daum.net/v/20221120234410254</id>
-        <link href="https://v.daum.net/v/20221120234410254"/>
-        <updated>2022-11-20T15:12:38.473Z</updated>
-        <content type="html"><![CDATA[배우 전종서가 맡은 캐릭터들은 유난히 불안의 아이콘으로 해석되곤 했다. '버닝'에서 노을을 보며 자신을 감싸고 있던 것을 벗어던지는 모습, 또 '콜'에서 욕망으로 가득한 싸이코패스를 입었던 모습이 쉽사리 지워지지 않는다. 이처럼 전종서는 가늠할 수 없고 또 정해진 길을 따르지 않는 방황하는 청춘을 대변하는 인물을 주로 소화했다. '몸값'에서의 모습도 마찬가]]></content>
     </entry>
 </feed>
