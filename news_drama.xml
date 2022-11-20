@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-11-20T03:14:57.726Z</updated>
+    <updated>2022-11-20T04:18:29.720Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['재벌집' 송중기, 2회만 10% 돌파 목전..'나의해방일지' 꺾은 최고 화제작]]></title>
+        <id>https://v.daum.net/v/20221120122821635</id>
+        <link href="https://v.daum.net/v/20221120122821635"/>
+        <updated>2022-11-20T04:18:12.335Z</updated>
+        <content type="html"><![CDATA[[OSEN=하수정 기자] 단 2회만에 시청률 9.8%를 돌파한 '재벌집 막내아들' 송중기, 신현빈이 과거에서 다시 만난다. &nbsp; JTBC 금토일드라마 ‘재벌집 막내아들’(연출 정대윤, 극본 김태희∙장은재, 제작 SLL∙래몽래인∙재벌집막내아들문화산업전문회사)은 20일, 대학생이 되어 다시 마주한 진도준(송중기 분), 서민영(신현빈 분)의 모습을 포착했다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[소름끼치는 '송중기+1987 현대사'..'재벌집' JTBC 기대작 맞네!]]></title>
         <id>https://v.daum.net/v/20221120121139449</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20221120091445494"/>
         <updated>2022-11-20T01:10:22.165Z</updated>
         <content type="html"><![CDATA[(엑스포츠뉴스 이창규 기자) '재벌집 막내아들' 송중기, 신현빈이 과거에서 다시 만난다. &nbsp; JTBC 금토일드라마 ‘재벌집 막내아들’ 측은 20일, 대학생이 되어 다시 마주한 진도준(송중기 분), 서민영(신현빈)의 모습을 공개했다. 한 사람만이 알아보는 이들의 재회에 어떤 일이 일어난 것인지 궁금증을 자극한다.&nbsp; 지난 2회 방송에서는 순양가의 경계선 너머로]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[송중기 '재벌집 막내아들' 2회만에 8.8%, 동시간대 1위]]></title>
-        <id>https://v.daum.net/v/20221120090109344</id>
-        <link href="https://v.daum.net/v/20221120090109344"/>
-        <updated>2022-11-20T01:10:22.166Z</updated>
-        <content type="html"><![CDATA[[스포츠한국 조은애 기자] '재벌집 막내아들'이 단 2회만에 시청률 10% 돌파를 눈앞에 뒀다. 닐슨코리아에 따르면 19일 방송된 JTBC 금토일드라마 '재벌집 막내아들' 2회는 전국 8.8%, 수도권 9.8%의 시청률로 동시간대 1위를 기록했다. 또 수도권 기준 분당 최고 시청률은 12.4%를 돌파했고, 2049 시청률에서도 4.2%로 전 채널]]></content>
     </entry>
 </feed>
