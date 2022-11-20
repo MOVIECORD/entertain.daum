@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-11-20T15:12:44.287Z</updated>
+    <updated>2022-11-20T16:17:18.296Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“순양의 주인 될 것” 송중기, 분당 땅으로 번 240억 이용→복수 시작]]></title>
+        <id>https://v.daum.net/v/20221121005216001</id>
+        <link href="https://v.daum.net/v/20221121005216001"/>
+        <updated>2022-11-20T16:17:00.521Z</updated>
+        <content type="html"><![CDATA[[OSEN=박하영 기자] ‘재벌집 막내아들’ 송중기가 ‘순양의 주인’이 되겠다고 선언했다. 20일 방송된 JTBC 금토일 드라마 ‘재벌집 막내아들’(극본 김태희 장은재, 연출 정대윤, 제작 SLL·래몽래인·재벌집막내아들문화산업전문회)에는&nbsp;진도준(송중기 분)이 진양철(이성민 분)에게 선물 받은 분당 5만평으로 돈방석에 앉은 모습이 그려졌다. 앞서 퀴즈의 답]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['미우새' 완전체 가을 소풍…복불복 회비 내기]]></title>
+        <id>https://v.daum.net/v/20221121003041819</id>
+        <link href="https://v.daum.net/v/20221121003041819"/>
+        <updated>2022-11-20T16:17:00.525Z</updated>
+        <content type="html"><![CDATA[(사진=SBS ‘미운 우리 새끼’ 방송 캡처)[이데일리 스타in 조태영 인턴기자] ‘미우새’ 아들들의 가을 소풍이 공개됐다. 20일 방송된 SBS ‘미운 우리 새끼’(이하 ‘미우새’)에서는 가을을 맞아 ‘미우새’ 아들들이 가을 소풍을 떠나 시청자들에게 짜릿한 웃음을 선사했다. 이날 반장 김준호의 주도로 ‘미우새’ 아들들 11명이 단체로 ‘제1회 미우새 가]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘1박 2일’ 나인우, 초호화 여행 전 제주行 벌칙…"오메기떡 만들러"]]></title>
         <id>https://v.daum.net/v/20221121001155586</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20221120223530910"/>
         <updated>2022-11-20T14:11:09.235Z</updated>
         <content type="html"><![CDATA[[TV리포트=이혜미 기자] 김혜수와 김해숙이 세자빈 간택을 두고 대립했다. 오예주를 세자빈으로 세우며 김혜수는 그와 문상민을 지킬 것이라 선언했다. 20일 방송된 tvN ‘슈룹’에선 성남대군(문상민 분)과 윤청하(오예주 분)의 혼례가 그려졌다. 대비(김해숙 분)의 황원형(김의성 분)의 공작에도 성남대군이 택현을 통해 당당히 왕세자로 등극한 가운데 임화령(김]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['슈룹' 문상민♥오예주 혼인→합방 거부…전혜원 출산에 김혜수 발칵]]></title>
-        <id>https://v.daum.net/v/20221120223517908</id>
-        <link href="https://v.daum.net/v/20221120223517908"/>
-        <updated>2022-11-20T14:11:09.235Z</updated>
-        <content type="html"><![CDATA[[마이데일리 = 오윤주 기자] '슈룹' 얽히고설킨 계략 속 왕세자와 인연이 있는 여인이 세자빈 자리에 올랐다. 20일 오후 방송된 케이블채널 tvN 토일드라마 '슈룹'(극본 박바라 연출 김형식) 12회는 성남대군(문상민)의 세자 책봉 이후 모습이 그려졌다. 중전 화령(김혜수)은 세자로서 첫 날을 맞이한 성남대군에게 무릎보호대를 선물했다. "대군일 때보다]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['슈룹' 오예주, 세자빈 간택 성공..김혜수 "내가 방패막 되겠다"]]></title>
-        <id>https://v.daum.net/v/20221120223401900</id>
-        <link href="https://v.daum.net/v/20221120223401900"/>
-        <updated>2022-11-20T14:11:09.245Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 이시호 기자] /사진=tvN '슈룹' 방송 화면 캡처'슈룹' 배우 오예주가 문상민의 아내로 간택됐다. 20일 오후 방송된 tvN 토일드라마 '슈룹'에서는 왕세자가 된 성남대군(문상민 분)의 모습이 그려졌다. 중전 임화령(김혜수 분)은 왕세자 의복을 갖춰 입은 성남대군의 훤칠한 모습에 미소를 감추지 못했다. 임화령은 "이 어미는 세자 얼굴만]]></content>
     </entry>
 </feed>
