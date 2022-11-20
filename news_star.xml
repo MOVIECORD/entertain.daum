@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2022-11-20T12:22:42.926Z</updated>
+    <updated>2022-11-20T13:23:34.028Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[서지훈, 드라마 '사주왕' 남주인공 캐스팅…'열일' 행보ing]]></title>
+        <id>https://v.daum.net/v/20221120215750675</id>
+        <link href="https://v.daum.net/v/20221120215750675"/>
+        <updated>2022-11-20T13:23:28.795Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 하지원 기자) 배우 서지훈이 새 드라마 '사주왕'에 출연한다. 20일 엑스포츠뉴스 취재 결과 서지훈은 OTT 드라마 '사주왕'(이선주 박선재 극본, 박선재 연출, 프로듀서 권기덕) 남주인공으로 캐스팅됐다. '사주왕'은 글로벌 콘텐츠 스튜디오 (주)테라핀의 웹소설 '천재 역술인이 되었다(작가: 섬마을김씨)'를 원작으로 한다. 서양의 점성술 못지]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[한가인 "♥연정훈, 통금 시간 10분 늦으면 '1일 스킨십 금지'..."]]></title>
+        <id>https://v.daum.net/v/20221120212922473</id>
+        <link href="https://v.daum.net/v/20221120212922473"/>
+        <updated>2022-11-20T13:23:28.795Z</updated>
+        <content type="html"><![CDATA[[스포츠조선닷컴 김준석 기자] 배우 연정훈의 아내이자 배우 한가인이 자신만의 밀당법을 공개한다. 20일 방송된 SBS '미운 우리 새끼'에서는 '원조 국민 첫 사랑'으로 불리는 배우 한가인이 출연해 거침없는 솔직 입담을 선보인다. 이날 토니의 엄마는 한가인을 보고 "내가 옛날에 진짜 좋아했다. 근데 시집을 갑자기 간다고]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['삼남매가 용감하게' 이하나X임주환, 양가 반대에도 혼인신고]]></title>
         <id>https://v.daum.net/v/20221120212202431</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20221120195200754"/>
         <updated>2022-11-20T11:10:34.424Z</updated>
         <content type="html"><![CDATA[[TV리포트=이혜미 기자] 서울에서 부산 찍고 서울로 그리고 다시 제주로, 나인우가 최악의 여행코스를 소화했다. 20일 방송된 KBS 2TV ‘1박2일’에선 하지원과 강하늘이 함께한 텐션 업 여행이 펼쳐졌다. 게스트로 나섰던 하지원과 강하늘이 ‘커튼콜’ 촬영을 위해 취침 없이 ‘1박2일’과 안녕을 고한 가운데 멤버들은 다도 체험관을 찾아 순무차를 맛봤다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['싱포골드' 박진영, 튀김소보체에 "무대 좋았지만 오페라 본 느낌"…TOP10 진출팀은?]]></title>
-        <id>https://v.daum.net/v/20221120194504689</id>
-        <link href="https://v.daum.net/v/20221120194504689"/>
-        <updated>2022-11-20T11:10:34.426Z</updated>
-        <content type="html"><![CDATA[[SBS연예뉴스 | 김효정 에디터] TOP10 진출팀이 모두 공개됐다. 20일에 방송된 SBS '싱포골드'에서는 TOP10이 결정됐다. 이날 방송에서는 지난 경연에서 폭발적인 무대를 선보인 튀김소보체에 대한 평가가 공개됐다. 박진영과 김형석은 심사에 앞서 "이거 어떻게 해야 되냐"라며 고민에 빠진 모습을 보였다. 그리고 박진영은 어렵게 말문을 열었다. 그는]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘복면가왕’ 신이 내린 목소리, 갓벽한 2연승...정승제→신유미 정체 공개]]></title>
-        <id>https://v.daum.net/v/20221120194337681</id>
-        <link href="https://v.daum.net/v/20221120194337681"/>
-        <updated>2022-11-20T11:10:34.428Z</updated>
-        <content type="html"><![CDATA[‘복면가왕’ 엔믹스 릴리·정승제·류승주·신유미가 정체를 공개했다. 20일 오후 방송된 MBC 예능프로그램 ‘복면가왕’에서는 가왕 신이 내린 목소리에 도전하는 복면 가수 4인의 노래 대결이 전파를 탔다. 이날 2라운드 첫 번째 대결은 돈쭐과 신애라가 붙었다. 돈쭐은 아이유 ‘Celebrity’를 선곡해 특유의 소울 가득한 목소리로 독특한 무대를 선사했]]></content>
     </entry>
 </feed>
