@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2022-11-20T19:10:48.888Z</updated>
+    <updated>2022-11-20T20:13:27.143Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[한가인 "수능 400점 만점에 380점…비결? 수업에 집중"]]></title>
+        <id>https://v.daum.net/v/20221121051004075</id>
+        <link href="https://v.daum.net/v/20221121051004075"/>
+        <updated>2022-11-20T20:13:21.394Z</updated>
+        <content type="html"><![CDATA[(서울=뉴스1) 이아영 기자 = 한가인이 공부를 잘했던 비결을 밝혔다. 지난 20일 방송된 SBS '미운 우리 새끼'에는 배우 한가인이 출연했다. 최근 한가인은 예능 프로그램에 출연하며 활발하게 활동 중이다. 신비주의 콘셉트를 지키느라 힘들었다고 한다. 한가인은 "실제 성격과 방송에서 보이는 모습이 차이가 있다 보니 회사에서는 '예능에 안 나가고, 조용]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['런닝맨' 김종국, "나는 폭탄 설계자"…승리 위해 승부수 띄웠지만 '최종 패배']]></title>
+        <id>https://v.daum.net/v/20221121045700718</id>
+        <link href="https://v.daum.net/v/20221121045700718"/>
+        <updated>2022-11-20T20:13:21.396Z</updated>
+        <content type="html"><![CDATA[[SBS연예뉴스 | 김효정 에디터] 설계자들이 패배했다. 20일에 방송된 SBS '런닝맨'에서는 '작전: 폭탄 돌리기' 레이스가 펼쳐졌다. 이날 방송에는 영화 '데시벨'의 주역인 배우 김래원, 박병은, 정상훈이 출연해 멤버들과 레이스를 진행했다. 폭탄을 설계한 설계자를 찾아 한 팀에 두지 않으면 승리하는 레이스에 전소민은 최종 선택에서 팀원이었던 김종국과]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[티빙 시리즈 ‘몸값’… “돈과 거짓말에 관한 이야기”]]></title>
         <id>https://v.daum.net/v/20221121040415366</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20221120235806332"/>
         <updated>2022-11-20T15:12:38.470Z</updated>
         <content type="html"><![CDATA[[티브이데일리 최하나 기자] '재벌집 막내아들' 송중기가 순양을 향한 야욕을 본격적으로 드러냈다. 20일 밤 방송된 JTBC 금토일드라마 '재벌집 막내아들'(극본 김태희·연출 정대윤) 3회에서는 진도준(송중기)이 미래 정보를 이용해 자신의 사람을 포섭하기 시작했다. 이날 진도준은 필름마켓에서 만난 오세현(박혁권)의 투자 감각을 알아보고 자신의 사람으로]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['돌싱글즈 외전' 이소라, ♥최동환에 "당장 재혼 생각까지는 없어" 고백]]></title>
-        <id>https://v.daum.net/v/20221120235404306</id>
-        <link href="https://v.daum.net/v/20221120235404306"/>
-        <updated>2022-11-20T15:12:38.471Z</updated>
-        <content type="html"><![CDATA[[스포츠투데이 백지연 기자] '돌싱글즈 외전' 이소라가 재혼에 대한 솔직한 심경을 털어놨다. 20일 밤 방송된 MBN 예능프로그램 '돌싱글즈 외전' 마지막 회가 방송도 돼 이소라, 최동환 커플의 이야기가 전파를 탔다. 이날 방송에서 이소라는 최동환과 대화를 하던 중 "재혼까지 마음을 잡는데 많은 생각이 들 거 같긴 하다. 이혼 후에 결혼에 대한 환상과]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["제일 예쁜 신부" 고성희, 오늘 결혼…김연경X강승현 참석]]></title>
-        <id>https://v.daum.net/v/20221120234800271</id>
-        <link href="https://v.daum.net/v/20221120234800271"/>
-        <updated>2022-11-20T15:12:38.472Z</updated>
-        <content type="html"><![CDATA[[마이데일리 = 박서연 기자] 배우 고성희(33)가 오늘 웨딩마치를 올렸다. 20일 고성희는 서울 중구의 한 호텔에서 비연예인 남성과 결혼식을 올렸다. 예식은 신랑을 배려해 비공개로 진행됐다. 이날 결혼식에는 배구선수 김연경(35), 모델 강승현(36), 그룹 와썹 출신 송다인 등이 참석해 고성희의 인생 2막을 응원했다. 특히 송다인은 "가나요 그대]]></content>
     </entry>
 </feed>
