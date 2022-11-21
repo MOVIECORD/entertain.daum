@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-11-21T08:18:03.233Z</updated>
+    <updated>2022-11-21T09:14:26.050Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['재벌집 막내아들' 누구나 한 번쯤 해봤을 상상]]></title>
+        <id>https://v.daum.net/v/20221121181247304</id>
+        <link href="https://v.daum.net/v/20221121181247304"/>
+        <updated>2022-11-21T09:14:09.567Z</updated>
+        <content type="html"><![CDATA[[서울경제] 드라마, 예능의 속살을 현혜선 기자의 시점으로 들여다 봅니다.    '재벌집 막내아들'의 반응이 심상치 않다. 6.1%(이하 닐슨코리아/전국 유료 기준)로 시작해 3회 만에 10%를 돌파한 작품은 그야말로 폭발적인 상승 곡선을 그리고 있다. 시청자들의 상상을 실현한 소재부터 복수극의 카타르시스, 배우들의 열연까지 '재벌집 막내아들'의 시작은]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["닮은 점 많아"…서지원, 26년 만에 아바타로 소환]]></title>
+        <id>https://v.daum.net/v/20221121172342704</id>
+        <link href="https://v.daum.net/v/20221121172342704"/>
+        <updated>2022-11-21T09:14:09.578Z</updated>
+        <content type="html"><![CDATA[고인의 친동생 박병훈 씨(왼쪽)와 서지원 아바타.[이데일리 스타in 김현식 기자] “울컥하고 많이 보고 싶어지네요.” 26년 전 하늘의 별이 된 고(故) 가수 서지원(본명 박병철)의 아바타, 이른바 ‘아바(AVA) 서지원’을 지켜본 고인의 친동생 박병훈 씨의 말이다. 박병훈 씨는 21일 서울 강남구 청담동 일지아트홀에서 열린 서지원 아바타 기자간담회에서]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[송중기의 선택, ‘재벌집 막내아들’ 심상치 않은 상승세]]></title>
         <id>https://v.daum.net/v/20221121171508403</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20221121132830151"/>
         <updated>2022-11-21T05:12:38.068Z</updated>
         <content type="html"><![CDATA[[TV리포트=박설이 기자]디즈니+ 오리지널 시리즈 '3인칭 복수' 김유진 감독이 제목에 담긴 의미부터 배우에 대한 깊은 애정, 메시지까지 모두 전했다. 디즈니+의 오리지널 시리즈 &lt;3인칭 복수&gt;는 쌍둥이 오빠의 죽음에 얽힌 진실을 찾아 나선 ‘찬미’와 불공평한 세상에 맞서 복수 대행을 시작한 ‘수헌’이 인생을 뒤흔든 충격적인 사건에 휘말리면서 벌어지는 高자]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘사장님을 잠금해제’ 박성웅 채종협 서은수, 본격 하이브리드 공조]]></title>
-        <id>https://v.daum.net/v/20221121123522156</id>
-        <link href="https://v.daum.net/v/20221121123522156"/>
-        <updated>2022-11-21T04:21:47.036Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 박수인 기자] '사장님을 잠금해제' 예고 영상이 공개됐다. 오는 12월 7일 첫 방송되는 ENA 수목드라마 ‘사장님을 잠금해제’(연출 이철하, 극본 김형민, 기획 KT스튜디오지니, 제작 하이지음스튜디오·스튜디오N, 원작 네이버웹툰사장님을 잠금해제(작가 박성현))는 수상한 사건에 휘말려 스마트폰에 갇혀버린 사장 김선주(박성웅 분)와 그 이상한 스마]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['재벌집' 티파니 영, 송중기 조력자로 첫 드라마 데뷔]]></title>
-        <id>https://v.daum.net/v/20221121121003617</id>
-        <link href="https://v.daum.net/v/20221121121003617"/>
-        <updated>2022-11-21T03:13:42.480Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 황수연 기자) 그룹 소녀시대의 멤버 티파니 영이 '재벌집 막내아들'로 첫 안방극장 데뷔를 성공적으로 마쳤다.&nbsp; 20일 방송된 JTBC 드라마 '재벌집 막내아들' 3회에서 티파니 영은 극중 오세현(박혁권 분)과 뉴욕필름마켓에 등장하는 레이첼로 분했다. 이날 방송에서 진도준(송중기)은 서울대 법대에 수석 합격한 이후 남는 시간을 이용해 영화사를]]></content>
     </entry>
 </feed>
