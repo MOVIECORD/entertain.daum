@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2022-11-21T19:11:24.620Z</updated>
+    <updated>2022-11-21T20:14:08.625Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김용건 "子, 벌써 황보라 편들어"…며느리와 새참준비]]></title>
+        <id>https://v.daum.net/v/20221122045003049</id>
+        <link href="https://v.daum.net/v/20221122045003049"/>
+        <updated>2022-11-21T20:14:02.073Z</updated>
+        <content type="html"><![CDATA[(서울=뉴스1) 박하나 기자 = '회장님네 사람들' 김용건이 며느리 황보라와 함께 새참 준비에 나섰다. 지난 21일 오후 방송된 tvN STORY 예능프로그램 '회장님네 사람들'에서는 시아버지 김용건과 며느리 황보라의 새참 준비가 담겼다. 이날 김용건은 "며느리 참 잘 봤다"라는 김수미, 박정수의 칭찬에 흐뭇해하는 모습으로 시선을 모았다. 이어 김수미가]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[마이클 잭슨, 세기의 명반 '스릴러' 40주년 기념 재발매]]></title>
         <id>https://v.daum.net/v/20221122013016119</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20221121234404297"/>
         <updated>2022-11-21T15:14:25.279Z</updated>
         <content type="html"><![CDATA[[스포츠투데이 서지현 기자] '연예인 매니저로 살아남기' 이서진과 주현영의 관계의 베일이 벗겨지기 시작했다. 21일 밤 방송된 tvN '연예인 매니저로 살아남기'(이하 '연매살')에서는 불륜 관계로 오해받은 마태오(이서진)-소현주(주현영) 모습이 그려졌다. 이날 천제인(곽선영)은 이상욱(노상현)과 하룻밤을 보낸 뒤 마음을 감추지 못했다. 이는 이상욱도]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[엄지윤 "정체성 잃어 회의감 든다‥카메라 무서워"]]></title>
-        <id>https://v.daum.net/v/20221121233842276</id>
-        <link href="https://v.daum.net/v/20221121233842276"/>
-        <updated>2022-11-21T15:14:25.280Z</updated>
-        <content type="html"><![CDATA[[OSEN=최지연 기자] 코미디언 엄지윤이 실버버튼을 언박싱했다.&nbsp; 21일, 엄지윤의 부캐 엄지렐라는 유튜브 채널 '엄지렐라'를 통해&nbsp;'굿바이.. 엄지렐라..'라는 제목의 영상을 업로드했다. 영상 속 그는&nbsp;“제가 오늘은 10만 구독자 기념 골드 버튼 언박싱을 해보려고 합니다"라며 인사를 건넸다. 엄지윤은 "골드 버튼으로 달라고 배송 요청 메시지에 그렇게]]></content>
     </entry>
 </feed>
