@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2022-11-21T01:07:11.788Z</updated>
+    <updated>2022-11-21T03:13:59.753Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[BTS, '아메리칸 뮤직 어워즈' 2관왕…5년 연속 수상]]></title>
+        <id>https://v.daum.net/v/20221121114605838</id>
+        <link href="https://v.daum.net/v/20221121114605838"/>
+        <updated>2022-11-21T03:13:59.142Z</updated>
+        <content type="html"><![CDATA[(서울=연합뉴스) 이태수 안정훈 기자 = 그룹 방탄소년단(BTS)이 미국 3대 대중음악 시상식으로 꼽히는 '아메리칸 뮤직 어워즈'(American Music Awards)에서 2관왕에 오르며 5년 연속 수상에 성공했다. 방탄소년단은 20일(현지시간) 미국 로스앤젤레스에서 열린 이 시상식에서 '페이보릿 팝 듀오 오어 그룹'(Favorite Pop Duo or]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘블랙팬서2’ 글로벌 5억달러 돌파, “로튼토마토 신선도 84%”]]></title>
         <id>https://v.daum.net/v/20221121100146119</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20221120154754722"/>
         <updated>2022-11-20T07:11:54.257Z</updated>
         <content type="html"><![CDATA[(엑스포츠뉴스 이창규 기자) 일본의 아이돌 그룹 AKB48 팀A 소속 오카다 나나가 열애설에 휩싸인 가운데, 총감독이자 팀 캡틴 무카이치 미온이 사과했다. 오카다 나나는 20일 "걱정과 폐를 끼쳐서 정말 죄송하다. AKB48에 연애금지라는 룰은 없다고는 해도, 과거 총선거에서의 발언 등을 감안하면 여러가지 모순되어 있다고 느끼는 사람이 많을 거라 생각한다"]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[올리비아 와일드, '10살 연하' 해리 스타일스와 2년 만 결별]]></title>
-        <id>https://v.daum.net/v/20221120133530540</id>
-        <link href="https://v.daum.net/v/20221120133530540"/>
-        <updated>2022-11-20T05:12:16.307Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 이창규 기자) 배우 겸 감독 올리비아 와일드(38)와 원 디렉션(One Direction) 출신 가수 겸 배우 해리 스타일스(28)가 열애 2년여 만에 결별한 것으로 전해졌다. 지난 18일(현지시간) 미국 피플지는 복수의 소식통을 인용해 올리비아 와일드와 해리 스타일스가 그들의 관계를 잠시 멈추기로 결정했다고 보도했다. 소식통에 따르면 두 사]]></content>
     </entry>
 </feed>
