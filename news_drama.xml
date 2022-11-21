@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-11-21T03:13:59.892Z</updated>
+    <updated>2022-11-21T04:22:04.479Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘사장님을 잠금해제’ 박성웅 채종협 서은수, 본격 하이브리드 공조]]></title>
+        <id>https://v.daum.net/v/20221121123522156</id>
+        <link href="https://v.daum.net/v/20221121123522156"/>
+        <updated>2022-11-21T04:21:47.036Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 박수인 기자] '사장님을 잠금해제' 예고 영상이 공개됐다. 오는 12월 7일 첫 방송되는 ENA 수목드라마 ‘사장님을 잠금해제’(연출 이철하, 극본 김형민, 기획 KT스튜디오지니, 제작 하이지음스튜디오·스튜디오N, 원작 네이버웹툰사장님을 잠금해제(작가 박성현))는 수상한 사건에 휘말려 스마트폰에 갇혀버린 사장 김선주(박성웅 분)와 그 이상한 스마]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['재벌집' 티파니 영, 송중기 조력자로 첫 드라마 데뷔]]></title>
         <id>https://v.daum.net/v/20221121121003617</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20221121103652537"/>
         <updated>2022-11-21T03:13:42.501Z</updated>
         <content type="html"><![CDATA[(서울=연합뉴스) 강애란 기자 = 김혜수, 송중기, 김래원 등 스타들이 이끄는 주말드라마가 각축전을 벌이고 있다. 21일 시청률 조사회사 닐슨 코리아에 따르면 전날 방송된 김혜수 주연의 tvN 토일드라마 '슈룹' 12회 시청률은 13.4%(비지상파 유료가구)로 집계됐다. 자체 최고 시청률이다. 지난달 15일 첫 방송을 한 '슈룹'은 총 16부작으로 4회]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[최시원, 이다희와 열애에 케이크 싸대기 ‘역대급 후폭풍’]]></title>
-        <id>https://v.daum.net/v/20221121100732374</id>
-        <link href="https://v.daum.net/v/20221121100732374"/>
-        <updated>2022-11-21T03:13:42.504Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 박수인 기자] '얼어죽을 연애따위' 최시원이 '케이크 싸대기'를 맞는다. ENA 수목드라마 ‘얼어죽을 연애따위’(극본 김솔지/ 연출 최규식/ 기획 KT스튜디오지니/ 제작 스토리티비/ 이하 얼죽연) 12회에서는 극중 구여름(이다희)과 박재훈(최시원)이 서로에 대한 진심을 확인한 후 격정적인 키스와 로맨틱한 동침을 하는 모습이 그려졌다. 이와 관련,]]></content>
     </entry>
 </feed>
