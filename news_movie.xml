@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2022-11-22T06:16:55.440Z</updated>
+    <updated>2022-11-22T07:15:05.226Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[오나라 "'압꾸정'서 '여자 마동석'으로 활약…에너지 벌크업했다"]]></title>
+        <id>https://v.daum.net/v/20221122155522844</id>
+        <link href="https://v.daum.net/v/20221122155522844"/>
+        <updated>2022-11-22T07:14:39.947Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 양유진 기자] 배우 정경호와 오나라가 '압꾸정' 홍보 요정으로 변신했다. 22일 MBC FM4U 라디오 '두시의 데이트 뮤지, 안영미입니다'에는 영화 '압꾸정' 주역 정경호, 오나라가 출연했다. '압꾸정'은 샘솟는 사업 아이디어로 입만 살아있는 압구정 토박이 '대국'이 실력 TOP 성형외과 의사 '지우'와 손잡고 K-뷰티의 시조새가 된]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["정성화가 '영웅'의 안중근이다" 윤제균 감독의 진정성]]></title>
         <id>https://v.daum.net/v/20221122145801268</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20221122124100378"/>
         <updated>2022-11-22T04:15:57.508Z</updated>
         <content type="html"><![CDATA[[뉴스엔 배효주 기자] 오정세가 '스위치'를 통해 이중 매력을 발산한다. 1월 개봉하는 영화 '스위치'(감독 마대윤)는 캐스팅 0순위 천만배우이자 자타공인 스캔들 메이커, 화려한 싱글 라이프를 만끽하던 톱스타 ‘박강’이 크리스마스에 인생이 180도 뒤바뀌는 순간을 맞이하면서 벌어지는 이야기를 담은 작품. 캐릭터 장인 오정세가 '스위치'를 통해 1인 2색]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['연참' 재연 배우→박유천 상대역..이진리는 변태 중]]></title>
-        <id>https://v.daum.net/v/20221122123001270</id>
-        <link href="https://v.daum.net/v/20221122123001270"/>
-        <updated>2022-11-22T04:15:57.510Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 김나연 기자] 이진리 / 사진=DND엔터테인먼트 "진리는 변태 중" 배우 이진리가 5년 동안 바꾸지 않은 상태명이다. 연기에 대한 꿈 하나로 묵묵히 달려오고 있는 그는 어떠한 도전도 마다하지 않을 생각이다. 22일 서울시 종로구 소격동의 한 카페에서 영화 '악에 바쳐'의 주연을 맡은 배우 이진리와 만나 다양한 이야기를 나눴다. '악에 바쳐']]></content>
     </entry>
 </feed>
