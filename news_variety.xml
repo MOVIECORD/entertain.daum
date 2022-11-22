@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/variety</id>
     <title>다음 연예 ─ 뉴스 ─ 예능</title>
-    <updated>2022-11-22T08:18:23.707Z</updated>
+    <updated>2022-11-22T09:13:52.077Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[장민호 “박현빈보다 선배지만…중요하게 생각하지 않아”]]></title>
+        <id>https://v.daum.net/v/20221122174235085</id>
+        <link href="https://v.daum.net/v/20221122174235085"/>
+        <updated>2022-11-22T09:13:38.686Z</updated>
+        <content type="html"><![CDATA[‘미스터라디오’ 장민호가 유쾌한 입담을 펼쳤다. 22일 오후 방송된 KBS Cool FM ‘윤정수 남창희의 미스터라디오’(이하 ‘미스터라디오’)에서는 트로트가수 장민호가 게스트로 출연했다. 이날 장민호는 “개인 콘서트는 작년에 이어 두 번째다. 작년에 8개 도시를 돌았다. 마지막 도시를 (코로나로 인해)못했다. 지금은 2개 도시가 끝났다. 창원, 부산, 성]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[폴킴·정승환·김민석 조합이라니..고막소년단 "남편소년단 될때까지"]]></title>
         <id>https://v.daum.net/v/20221122161124515</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20221122143817397"/>
         <updated>2022-11-22T06:16:44.778Z</updated>
         <content type="html"><![CDATA[[OSEN=김채연 기자] 개그우먼 장도연, 모델 이현이가 탁재훈과 ‘2022 SBS 연예대상’ MC로 나선다. 22일 SBS 측은 OSEN에 “개그우먼 장도연, 모델 이현이가 ‘2022 연예대상’ MC를 맡는 것이 맞다”고 밝혔다. 두 사람은 앞서 MC로 발탁된 방송인 탁재훈과 함께 연예대상을 이끌어 갈 예정이다. 특히 장도연과 이현이는 앞서 ‘DNA싱어]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[도윤진 개그우먼일까? 성시경 “2022년 최고의 발견” 극찬]]></title>
-        <id>https://v.daum.net/v/20221122143549301</id>
-        <link href="https://v.daum.net/v/20221122143549301"/>
-        <updated>2022-11-22T06:16:44.779Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 박아름 기자] 성시경이 도윤진을 극찬한다. 11월 23일 방송되는 JTBC ‘인생 리셋 재데뷔쇼-스타 탄생’(이하 ‘스타 탄생’)에서는 ‘고음 자판기’ 도윤진, ‘섹시 빌런’ 강두석, ‘꽃보다 경호원’ 한명주, ‘청순 트롯돌’ 연화, ‘국보급 목소리’ 김한솔의 도전이 공개된다. 이날 도윤진은 등장부터 범상치 않은 비주얼과 입담으로 시선을 사로잡]]></content>
     </entry>
 </feed>
