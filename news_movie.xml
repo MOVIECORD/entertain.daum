@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2022-11-23T12:24:27.504Z</updated>
+    <updated>2022-11-23T13:27:16.754Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["캐릭터가 스타" 쿠엔틴 타란티노, 마블 저격..'샹치' 시무 리우 반박]]></title>
+        <id>https://v.daum.net/v/20221123221617373</id>
+        <link href="https://v.daum.net/v/20221123221617373"/>
+        <updated>2022-11-23T13:26:54.504Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 김나연 기자] 쿠엔틴 타란티노, 시무 리우 / 사진=/AFPBBNews=뉴스1=스타뉴스쿠엔틴 타란티노 감독이 마블 영화를 저격한 가운데, '샹치와 텐 링즈의 전설'에 출연한 배우 시무 리우가 이를 반박했다. 22일(현지시간) 버라이어티 등 현지 매체에 따르면 쿠엔틴 타란티노 감독은 최근 한 팟캐스트에 출연해 "난 마블 영화를 싫어하지 않지만]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[韓 영화인 다 된 탕웨이·너무 떨려 당황한 아이유]]></title>
+        <id>https://v.daum.net/v/20221123212702610</id>
+        <link href="https://v.daum.net/v/20221123212702610"/>
+        <updated>2022-11-23T13:26:54.507Z</updated>
+        <content type="html"><![CDATA[[텐아시아=최지예 기자] 배우 탕웨이는 한국어 소감에 이어 투병 중인 선배 안성기까지 살뜰히 챙기며 국내 영화계 '인싸'의 면모를 보였고, 영화 배우로서는 신인의 위치에서 상을 받은 아이유는 본인도 당황스러울 만큼 떨었다. 제42회 영평상 시상식은 23일 오후 5시 서울 여의도 중소기업중앙회 KBIZ홀에서 열렸다. 1980년부터 한국영화평론가협회에서 매]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['시력 1.5' 류준열, 맹인 침술사 되더니…아직도 돌아오지 않는 초점]]></title>
         <id>https://v.daum.net/v/20221123210501270</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20221123194430596"/>
         <updated>2022-11-23T11:10:53.708Z</updated>
         <content type="html"><![CDATA[` (엑스포츠뉴스 김예은 기자) 김대건 신부의 이야기를 담은 '탄생'이 관객들을 찾아간다. 23일 오후 서울 용산구 CGV용산아이파크몰에서 영화 '탄생'(감독 박흥식) 언론시사회가 진행됐다. 이날 박흥식 감독과 배우 윤시윤, 이문식, 이호원, 송지연, 하경, 임현수, 박지훈이 참석했다.&nbsp; ‘탄생’은 조선 근대의 길을 열어젖힌 개척자 청년 김대건의 위대한 여]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“윤시윤=성인의 얼굴” 교황도 극찬한 ‘탄생’‥“거룩한 사명으로”]]></title>
-        <id>https://v.daum.net/v/20221123194355578</id>
-        <link href="https://v.daum.net/v/20221123194355578"/>
-        <updated>2022-11-23T11:10:53.710Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 글 배효주 기자/사진 정유진 기자] 윤시윤이 '청년 김대건'으로 분했다. 윤시윤은 "부담됐지만, 거룩한 사명을 갖고 도전했다"는 소감을 밝혔다. 영화 '탄생'(감독 박흥식) 언론 시사회가 11월 23일 서울 용산구 CGV용산아이파크몰에서 열렸다. 영화 상영 후 진행된 간담회에는 박흥식 감독과 윤시윤, 이문식, 이호원, 송지연, 하경, 임연수,]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['탄생' 이문식 "교황님, 윤시윤에게 성인의 얼굴을 가졌다고.."]]></title>
-        <id>https://v.daum.net/v/20221123194254562</id>
-        <link href="https://v.daum.net/v/20221123194254562"/>
-        <updated>2022-11-23T11:10:53.711Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 CGV용산=김미화 기자] 배우 윤시윤이 11일 오전 서울 CGV용산아이파크몰에서 진행된 영화 '탄생'(감독 박흥식) 제작발표회에 참석해 포즈를 취하고 있다.  한국인 첫 사제 김대건 신부의 일대기를 다룬 영화 ‘탄생’은 오는 30일 개봉한다. /2022.11.11 /사진=이동훈 기자 photoguy@ 배우 이문식이 영화 '탄생'의 바티칸 시사 비]]></content>
     </entry>
 </feed>
