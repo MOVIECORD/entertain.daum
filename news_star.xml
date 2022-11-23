@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2022-11-23T18:14:46.725Z</updated>
+    <updated>2022-11-23T19:10:20.844Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[온화함 벗은 최원영 “금수저·슈룹 모두 욕망 캐릭터”]]></title>
+        <id>https://v.daum.net/v/20221124040431205</id>
+        <link href="https://v.daum.net/v/20221124040431205"/>
+        <updated>2022-11-23T19:10:15.882Z</updated>
+        <content type="html"><![CDATA[가난을 극도로 혐오하고 인간보다 돈이 우선인 사람. MBC 드라마 ‘금수저’에 등장하는 도신그룹 황현도 회장은 자본주의의 ‘끝판왕’ 같은 인물이다. 그를 이해하는 세 가지는 시간, 질서, 돈이다. 핏줄도, 인간의 생명도 돈보다 절대적이지 않다. 그는 가난히 대대로 물려주는 돌림병이라는 말까지 서슴없이 내뱉는다. 배우 최원영은 황현도의 그릇된 욕망을 잔인하]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[쏟아지는 OTT 대작… 연말 대목 극장가에 도전장]]></title>
         <id>https://v.daum.net/v/20221124030318909</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20221123225705828"/>
         <updated>2022-11-23T14:12:22.318Z</updated>
         <content type="html"><![CDATA[‘유퀴즈’가 ‘신입사원’ 특집으로 꾸며졌다. 23일 방송된 tvN 예능프로그램 ‘유 퀴즈 온 더 블럭’(이하 ‘유퀴즈’)에서는 가수 션, 신입사원 조혜송, 신입 타일공 유택근, 52세에 신입사원이 된 로이스 킴 자기님이 출연하는 모습이 그려졌다. 이날 ‘네이버’ 신입 개발자 조혜송 씨는 “근무한 지는 8개월 정도 됐다. 저는 클라우드 홈페이지의 화면을 개발]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[11기 영철, 옥순 직진에도 "순자와 더 알아보고 싶다" 고백]]></title>
-        <id>https://v.daum.net/v/20221123224944756</id>
-        <link href="https://v.daum.net/v/20221123224944756"/>
-        <updated>2022-11-23T14:12:22.321Z</updated>
-        <content type="html"><![CDATA[(서울=뉴스1) 박하나 기자 = '나는 솔로' 11기 영철이 옥순의 호감 표현에도 순자에 대한 마음을 고백했다. 23일 오후 방송된 ENA PLAY·SBS Plus 예능 프로그램 '나는 SOLO &lt;나는 솔로&gt;'에서는 11기 솔로 남녀들의 이야기가 계속됐다. 순자, 옥순과 영철의 첫 데이트, 순자와 대화를 끝낸 영철이 옥순과의 20분 대화를 시작했다. 미]]></content>
     </entry>
 </feed>
