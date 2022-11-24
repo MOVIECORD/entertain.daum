@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2022-11-24T09:12:40.699Z</updated>
+    <updated>2022-11-24T10:15:35.112Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[나를 망치러온 나의 구원자? 뮤즈가 관계를 뒤집는 방법 '팬텀 스레드']]></title>
+        <id>https://v.daum.net/v/20221124184822592</id>
+        <link href="https://v.daum.net/v/20221124184822592"/>
+        <updated>2022-11-24T10:15:15.225Z</updated>
+        <content type="html"><![CDATA[[서울경제] 직접 맛보고 추천하는 향긋한 작품 한 잔! 세상의 OTT 다 보고 싶은 ‘OTT다방’ 보통의 유쾌한 사랑 이야기는 아니다. 서로를 아프게 하면서까지 가지려 하는 미친 사랑에 가깝다. 영화는 130분간의 이야기를 통해 집착과 광기의 사랑, 미묘한 관계의 전복을 물 흐르듯 그려낸다. 영화 ‘팬텀 스레드’(2017)는 ‘매그놀리아’, ‘펀]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이 배우들이 모두 한 집에 살았었다고?]]></title>
         <id>https://v.daum.net/v/20221124175320112</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20221124150001651"/>
         <updated>2022-11-24T06:15:37.253Z</updated>
         <content type="html"><![CDATA[배우 황정민·염정아·전혜진이 뭉친 영화 ‘크로스’(감독 이명훈, 제작 사나이픽처스)가 4개여월간의 촬영을 마치고 크랭크업 했다. ‘크로스’는 과거를 숨기고 착실한 가정주부로 살아가는 전직 요원 ‘강무’(황정민)와 카리스마 넘치는 강력범죄수사대 에이스이자 집안의 실세 ‘미선’(염정아), 두 부부 앞에 갑자기 나타난 ‘희주’(전혜진)가 몰고 온 사건으로 인해]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘올빼미’ 개봉 이틀만에 시작된 입소문‥관객 리뷰 보니]]></title>
-        <id>https://v.daum.net/v/20221124143108501</id>
-        <link href="https://v.daum.net/v/20221124143108501"/>
-        <updated>2022-11-24T06:15:37.263Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 배효주 기자] '올빼미'가 극장 필람 영화로 흥행 열기를 보여주고 있는 가운데, 박스오피스 1위를 기념한 관객 리뷰 포스터를 공개했다. 영화 '올빼미'(감독 안태진)는 밤에만 앞이 보이는 맹인 침술사가 세자의 죽음을 목격한 후 진실을 밝히기 위해 벌이는 하룻밤의 사투를 그린 스릴러. 개봉과 함께 박스오피스 1위를 기록한 '올빼미' 리뷰 포스터는]]></content>
     </entry>
 </feed>
