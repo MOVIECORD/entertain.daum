@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2022-11-23T23:12:48.526Z</updated>
+    <updated>2022-11-24T01:05:34.489Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[카니예 웨스트, 2024 대선 출마 진짜인가..트럼프 섭외]]></title>
+        <id>https://v.daum.net/v/20221124085418117</id>
+        <link href="https://v.daum.net/v/20221124085418117"/>
+        <updated>2022-11-24T01:05:33.907Z</updated>
+        <content type="html"><![CDATA[[OSEN=박소영 기자] 래퍼 카니예 웨스트가 2024년 미국 대통령 선거 출마 선언을 한 뒤 도널드 트럼프 전 대통령을 만났다. 23일(현지시각) 외신 보도에 따르면 카니예 웨스트는 이날 팜비치의 마라라고에서 트럼프 전 대통령과 재회했다. 두 사람은 트럼프 대통령 재임 시절 몇 차례 만난 적이 있다. 카니예 웨스트는 앞서 대선 출사표를 던진 상황. 그]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[밥 딜런 서명 한정본이라더니…팬들이 밝힌 美출판사의 '거짓말']]></title>
         <id>https://v.daum.net/v/20221124081155125</id>
@@ -95,12 +102,5 @@
         <link href="https://v.daum.net/v/20221123100937622"/>
         <updated>2022-11-23T02:42:57.377Z</updated>
         <content type="html"><![CDATA[(엑스포츠뉴스 이창규 기자) 미국의 래퍼 겸 배우 아이스 큐브(본명 오셰이 잭슨)가 900만 달러(한화 약 121억 4730만원)를 벌어들일 기회를 날려 주목을 받는다. 지난 20일(현지시간) 아이스 큐브는 팟캐스트 '밀리언 달러즈 워스 오브 게임'에 출연, 900만 달러의 출연료를 포기한 사연을 공개했다. 앞서 2021년 10월 아이스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[80살 해리슨 포드 “‘인디아나 존스5’서 디에이지 기슬로 젊게 등장, 으스스했다” 소감]]></title>
-        <id>https://v.daum.net/v/20221123093224970</id>
-        <link href="https://v.daum.net/v/20221123093224970"/>
-        <updated>2022-11-23T00:59:35.734Z</updated>
-        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]할리우드 스타 해리슨 포드(80)가 ‘인디아나 존스5’에서 젊은 모습으로 등장한다. 그는 1944년 배경의 영화 오프닝 장면에서 디에이지 기슬을 통해 젊은 시절로 되돌아간다. 프로듀서 캐슬린 케네디는 “우리는 인디아나가 찾고 있는 모험에 여러분을 빠뜨린다. 당신은 그 영상을 보는 즉시 ‘나는 인디아나 존스 영화 안에 있다’]]></content>
     </entry>
 </feed>
