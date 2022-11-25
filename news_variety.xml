@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/variety</id>
     <title>다음 연예 ─ 뉴스 ─ 예능</title>
-    <updated>2022-11-25T03:34:01.285Z</updated>
+    <updated>2022-11-25T04:15:26.794Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘소식좌’ 코드쿤스트, 홍어 먹고 입에 경련까지]]></title>
+        <id>https://v.daum.net/v/20221125131152472</id>
+        <link href="https://v.daum.net/v/20221125131152472"/>
+        <updated>2022-11-25T04:15:14.937Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 배효주 기자] ‘나 혼자 산다’ 코드 쿤스트가 하이 레벨 음식인 ‘홍어‘ 먹기에 도전한다. 11월 25일 오후 10시 50분에 방송되는 MBC ‘나 혼자 산다’에서는 다이나믹 듀오 최자에게 ‘먹 트레이닝‘을 받는 코드 쿤스트의 ‘대식좌’ 도전기가 공개된다. 코드 쿤스트는 다이나믹 듀오를 상대로 늦가을 나들이 사기극(?)을 펼친다. 소화도 시킬]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“4년 기다렸다”‥‘놀면 뭐하니?’ 멤버들, 우루과이전 함께 봤다]]></title>
+        <id>https://v.daum.net/v/20221125130606382</id>
+        <link href="https://v.daum.net/v/20221125130606382"/>
+        <updated>2022-11-25T04:15:14.951Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 배효주 기자] ‘놀면 뭐하니?’ 멤버들의 월드컵 축구 응원 현장이 공개된다. 11월 26일 방송되는 MBC 예능 ‘놀면 뭐하니?’에서는 지난 24일 진행된 대한민국과 우루과이의2022 카타르 월드컵H조 1차전을 함께 응원하는 멤버들의 모습이 그려진다. 이와 관련 유봉두(유재석) 선생의 집에 모인 아이들 준하, 하하, 미나(신봉선), 진주, 이경,]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['동생 대신 인형 때려라' 母에…오은영 "아이 폭력성 높여"]]></title>
         <id>https://v.daum.net/v/20221125121048735</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20221125110604648"/>
         <updated>2022-11-25T02:39:32.465Z</updated>
         <content type="html"><![CDATA[[텐아시아=신지원 기자] 오늘(25일) 채널A ‘요즘 육아 - 금쪽같은 내새끼’에서는 4살 언어 천재 아들의 폭력성으로 고민인 엄마의 사연이 공개된다. 이날 스튜디오에는 36개월 아들과 9개월 딸을 키우는 동갑내기 부부가 등장한다. 엄마는 호기심이 많고 언어능력이 뛰어난 아이라며 금쪽이를 소개하는데. 한편 70개가 넘는 제보 영상과 사진을 보내왔다는 엄마]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘싱크로드’ 에스파 첫 리얼리티, 불꽃 튀는 승부욕에 팀워크까지]]></title>
-        <id>https://v.daum.net/v/20221125110509621</id>
-        <link href="https://v.daum.net/v/20221125110509621"/>
-        <updated>2022-11-25T02:39:32.467Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 박수인 기자] 그룹 에스파의 첫 리얼리티가 공개된다. 에스파의 첫 단독 리얼리티 '에스파의 싱크로드'는 오는 12월 14일 오전11시‘Wavve(웨이브)’를 통해 첫 공개될 예정이다. 공개된 포스터에는 신비로운 분위기를 풍기는 여행 로드와 의문의 열쇠를 배경으로 완성형 비주얼을 자랑하는 에스파 멤버(카리나, 윈터, 지젤, 닝닝)들의 모습이 담겨]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[동생 대신 인형을 때리라는 엄마…오은영 "아이 폭력성 높여" 일침]]></title>
-        <id>https://v.daum.net/v/20221125105540282</id>
-        <link href="https://v.daum.net/v/20221125105540282"/>
-        <updated>2022-11-25T02:39:32.468Z</updated>
-        <content type="html"><![CDATA[[마이데일리 = 이승길 기자] 채널A '요즘 육아-금쪽같은 내새끼'에서는 길바닥에 드러눕는 언어 천재 4세 아들의 사연이 공개된다. 이날 스튜디오에는 36개월 아들과 9개월 딸을 키우는 동갑내기 부부가 등장한다. 엄마는 호기심이 많고 언어능력이 뛰어난 아이라며 금쪽이를 소개하는데. 한편 70개가 넘는 제보 영상과 사진을 보내왔다는 엄마는 "금쪽이가 시도]]></content>
     </entry>
 </feed>
