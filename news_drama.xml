@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-11-26T17:11:27.051Z</updated>
+    <updated>2022-11-26T18:14:06.577Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['소옆경' 지우, 위기 속 '위조 문서 감정' 성공…김래원-손호준과 '증액재대출' 사건 해결]]></title>
+        <id>https://v.daum.net/v/20221127025402152</id>
+        <link href="https://v.daum.net/v/20221127025402152"/>
+        <updated>2022-11-26T18:13:50.231Z</updated>
+        <content type="html"><![CDATA[[SBS연예뉴스 | 김효정 에디터] 소방과 경찰의 공조가 또 한 번 성공했다. 26일 방송된 SBS '소방서 옆 경찰서'(이하 '소옆경')에서는 함정 수사 중 목숨 잃을 위기에 처한 진호개의 모습이 그려졌다. 이날 진호개는 건물에 설치된 폭발물의 폭발을 막기 위해 범인을 도발했다. 하지만 그는 정체가 탄로 났고, 이에 감금되었다. 겨우 결박을 풀어낸 진호개]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['소옆경' 김래원, "누구 목숨 값이 이렇게 비싸?"…함정 수사 시작]]></title>
         <id>https://v.daum.net/v/20221127011801648</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20221126230724743"/>
         <updated>2022-11-26T14:10:10.263Z</updated>
         <content type="html"><![CDATA[[스타뉴스 최혜진 기자] /사진=JTBC'재벌집 막내아들' 송중기가 과거에서 서정연을 만났다. 26일 방송된 JTBC 금토일드라마 '재벌집 막내아들'에서는 진도준(송중기 분)의 모습으로 어머니(서정연 분)를 찾아간 윤현우(송중기 분)의 모습이 그려졌다. 이날 윤현우는 어머니의 가게를 찾아가 김칫국을 주문했다. 그러나 윤현우를 알아보지 못하는 어머니는]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[송중기 “IMF에서 살아남은 사람, 오직 나”‥위기에 놓인 이성민]]></title>
-        <id>https://v.daum.net/v/20221126225509587</id>
-        <link href="https://v.daum.net/v/20221126225509587"/>
-        <updated>2022-11-26T14:10:10.263Z</updated>
-        <content type="html"><![CDATA[[OSEN=박하영 기자] ‘재벌집 막내아들’ 송중기가 IMF 외환위기에서 살아남았다. 26일 방송된 JTBC 금토일드라마 ‘재벌집 막내아들’(연출 정대윤, 극본 김태희, 장은재)에서는 IMF 위기에 대비한 진도준(송중기 분)의 모습이 그려졌다. 이날 IMF 외환위기가 터지자 순양그룹도 위기를 면치 못했다. 유일하게 이 상황을 예상하고 대비한 진도준은 이를]]></content>
     </entry>
 </feed>
