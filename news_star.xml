@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2022-11-26T16:15:38.228Z</updated>
+    <updated>2022-11-26T17:11:27.054Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[임영웅, '멜론 뮤직 어워드' 주인공…아이브·뉴진스 공동신인상]]></title>
+        <id>https://v.daum.net/v/20221127013120765</id>
+        <link href="https://v.daum.net/v/20221127013120765"/>
+        <updated>2022-11-26T17:11:21.016Z</updated>
+        <content type="html"><![CDATA[기사내용 요약 임영웅, '올해의 아티스트' '올해의 앨범' 등 5관왕 아이브, '올해의 베스트송' 등 4관왕 방탄소년단, '올해의 레코드' 등 4관왕 아이유, '스테이지 오브 더 이어' 등 3관왕 4세대 또 다른 간판 걸그룹 '르세라핌', 핫트렌드상 [서울=뉴시스]이재훈 기자 = 스타 가수 임영웅이 '멜론 뮤직 어워드(MMA) 2022' 주인공]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘불후의 명곡’ 고우림 “♥김연아, 포레스텔라 늘 응원 관심가져 줘”]]></title>
         <id>https://v.daum.net/v/20221127011329622</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20221126233032947"/>
         <updated>2022-11-26T15:11:29.684Z</updated>
         <content type="html"><![CDATA[(서울=뉴스1) 고승아 기자 = 송중기의 아진자동차 인수 계획에 위기가 생긴 가운데, 집착하는 이유를 밝혔다. 26일 방송된 JTBC 금토일드라마 '재벌집 막내아들'에서는 진도준(송중기)이 아진자동차 인수를 위해 진양철(이성민)을 만나러 가겠다고 말하는 모습이 그려졌다. 이날 진도준은 진양철과 만났다. 진양철은 진도준에게 오세현(박혁권)과 만나고 있냐고]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[선우은숙 "♥4살 연하 유영재와 늦둥이 준비? 너무 달달"]]></title>
-        <id>https://v.daum.net/v/20221126231559854</id>
-        <link href="https://v.daum.net/v/20221126231559854"/>
-        <updated>2022-11-26T15:11:29.684Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 김현정 기자) '동치미' 선우은숙이 유영재 아나운서와의 달달한 결혼 생활을 언급했다. 26일 방송한 MBN '속풀이쇼 동치미'에서&nbsp;전 야구선수 양준혁은 아내와의 동반 출연에 대해 "솔직히 긴장이 많이 된다"라고 밝혔다. 양준혁보다 19살 어린 박현선은 ""우리는 나이 차를 크게 체감하고 살고 있지는 않다. 표현이 약간 그렇지만 (정신 연령의)]]></content>
     </entry>
 </feed>
