@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-11-26T19:09:50.637Z</updated>
+    <updated>2022-11-26T20:12:28.159Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['소방서 옆 경찰서' 이도엽, 김래원 계획 눈치챘다 "제거해야지"]]></title>
+        <id>https://v.daum.net/v/20221127050001799</id>
+        <link href="https://v.daum.net/v/20221127050001799"/>
+        <updated>2022-11-26T20:12:10.784Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 이시호 기자] /사진=SBS '소방서 옆 경찰서' 방송 화면 캡처'소방서 옆 경찰서' 배우 김래원이 위기에 처했다. 26일 방송된 SBS 금토드라마 '소방서 옆 경찰서'에서는 진호개(김래원 분)가 범죄자로 변신했다. 진호개는 이날 특수분장까지 하며 범죄 모의 현장에 향했다. 그 시각 마태화(이도엽 분)는 양치영(조희봉 분)을 불러 "약쟁이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['소옆경' 지우, 위기 속 '위조 문서 감정' 성공…김래원-손호준과 '증액재대출' 사건 해결]]></title>
         <id>https://v.daum.net/v/20221127025402152</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20221126230745748"/>
         <updated>2022-11-26T14:10:10.263Z</updated>
         <content type="html"><![CDATA[(엑스포츠뉴스 장예솔 인턴기자) '재벌집 막내아들' 이성민이 철없는 자식들에 실망했다.&nbsp; 26일 방송된 JTBC '재벌집 막내아들'에서는 아진 자동차 인수를 결정하는 진양철(이성민 분)의 모습이 그려졌다.&nbsp; 이날 업계 2위인 아진 자동차가 대출 상환 압박을 견디지 못해 법정 관리 수순을 밟게 됐다는 뉴스를 본 진양철은 아진 자동차의 인수를 결정했다.&nbsp; 대출]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['재벌집 막내아들' 송중기, 서정연 가게 방문.."단골들만 아는데"]]></title>
-        <id>https://v.daum.net/v/20221126230724743</id>
-        <link href="https://v.daum.net/v/20221126230724743"/>
-        <updated>2022-11-26T14:10:10.263Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 최혜진 기자] /사진=JTBC'재벌집 막내아들' 송중기가 과거에서 서정연을 만났다. 26일 방송된 JTBC 금토일드라마 '재벌집 막내아들'에서는 진도준(송중기 분)의 모습으로 어머니(서정연 분)를 찾아간 윤현우(송중기 분)의 모습이 그려졌다. 이날 윤현우는 어머니의 가게를 찾아가 김칫국을 주문했다. 그러나 윤현우를 알아보지 못하는 어머니는]]></content>
     </entry>
 </feed>
