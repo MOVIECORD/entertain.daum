@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2022-11-27T21:10:58.730Z</updated>
+    <updated>2022-11-27T22:12:02.495Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[입소문 터진 '올빼미', 개봉 첫 주말 1위…81만 돌파]]></title>
+        <id>https://v.daum.net/v/20221128071103314</id>
+        <link href="https://v.daum.net/v/20221128071103314"/>
+        <updated>2022-11-27T22:11:44.120Z</updated>
+        <content type="html"><![CDATA[(서울=뉴스1) 장아름 기자 = 영화 '올빼미'가 개봉 첫 주말 박스오피스 1위를 지키며 81만 관객수를 돌파했다. 28일 영화진흥위원회 영화관입장권통합전산망의 집계에 따르면 '올빼미'는 지난 27일 1533개 스크린에서 25만2638명의 관객을 동원하며 누적관객수 81만7825명을 기록, 박스오피스 1위를 수성했다. '올빼미'는 밤에만 앞이 보이는]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[150억 대작 ‘탄생’…종교영화 한계 극복할까?]]></title>
+        <id>https://v.daum.net/v/20221128063020882</id>
+        <link href="https://v.daum.net/v/20221128063020882"/>
+        <updated>2022-11-27T22:11:44.124Z</updated>
+        <content type="html"><![CDATA[배우 윤시윤은 한국인 첫 가톨릭 사제 김대건 신부를 “호기심 많은 청년이자 선각자로 그려내고자 했다”고 밝혔다. 사진제공｜민영화사 한국 최초의 가톨릭 사제 김대건 신부의 일대기를 그린 영화 ‘탄생’이 30일 개봉한다. 종교영화로는 이례적으로 150억 원의 막대한 제작비와 윤시윤, 안성기, 김강우 등이 출연한 영화는 개봉에 앞서 바티칸 교황청에서 최초 공개]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[6년만에 '한한령' 빗장 열리나...연예계 "中시장은 아직" 신중론 대세]]></title>
         <id>https://v.daum.net/v/20221128060005398</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20221127101426377"/>
         <updated>2022-11-27T03:01:21.871Z</updated>
         <content type="html"><![CDATA[[OSEN=김보라 기자]&nbsp;상영 첫날부터 4일째 1위를 기록한 영화 ‘올빼미’는 관객들로부터 열띤 호평을 얻으며 순항 중이다. 극장에서 본 실관객들이 “올해 본 한국영화 중에서 제일 재미있게 봤다” “너무 재밌다. 시간 가는 줄 모르고 봄” “기대 안 하고 봤는데 진짜 재미있네요” “장점이 많은 좋은 영화” “몰입감이 최강이다” 등 호평을 내놓고 있기 때]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[D-3 ‘압꾸정’, 마동석의 귀환]]></title>
-        <id>https://v.daum.net/v/20221127093901748</id>
-        <link href="https://v.daum.net/v/20221127093901748"/>
-        <updated>2022-11-27T01:04:19.354Z</updated>
-        <content type="html"><![CDATA[‘스크린 히어로’ 마동석이 온다. 이번엔 ‘괴물형사’가 아닌 ‘압구정 토박이’로 화려하게 귀환한다. 오는 30일 개봉하는 ‘압꾸정’(감독 임진순)은 압구정 토박이가 한 성형외과 의사와 함께 이른바 K-뷰티 사업의 세계화를 노리며 벌어지는 이야기를 그린다. 마동석이 압구정 토박이 대국 역을, 정경호가 잘나가던 성형외과 의사 지우를 연기했다. 여기에 배우 오나]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['올빼미' 개봉 나흘 째 50만 돌파…주말 하루 26만명↑]]></title>
-        <id>https://v.daum.net/v/20221127091825518</id>
-        <link href="https://v.daum.net/v/20221127091825518"/>
-        <updated>2022-11-27T01:04:19.355Z</updated>
-        <content type="html"><![CDATA[(서울=뉴스1) 안은재 기자 = 영화 '올빼미'(감독 안태진)가 개봉 나흘째 56만 관객을 동원해 박스오피스 1위에 올랐다. 27일 영화진흥위원회 영화관 입장권 통합전산망에 따르면 '올빼미'는 전날 하루 동안 26만529명의 관객들과 만나며 박스오피스 1위에 올랐다. 누적 관객수는 56만5197명이다. 이로써 '올빼미'는 개봉 4일차에 50만 관객을]]></content>
     </entry>
 </feed>
