@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2022-11-28T17:11:52.906Z</updated>
+    <updated>2022-11-28T18:15:45.138Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[배우 이도아의 또다른 도전 “연기 고픈 이들 위해 ‘밥상’ 차렸다”]]></title>
+        <id>https://v.daum.net/v/20221129030353614</id>
+        <link href="https://v.daum.net/v/20221129030353614"/>
+        <updated>2022-11-28T18:15:39.134Z</updated>
+        <content type="html"><![CDATA[구슬은 차고 넘친다. 몸매 역시 우월한 유전자라는 말이 절로 나온다. 슈퍼모델 출신 배우 이도아를 이르는 말로, 그의 필모그래피는 수많은 드라마와 영화들로 가득하다. 스타보다 연기, 인기보다 실력 데뷔한 지 10년 가까이 지났지만 170㎝의 키에 몸무게 48㎏인 이도아의 모델 포스는 여전하다. 그는 “배고픈 게 제일 힘들다”며 “원래 22살 때]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["아쉽지만 졌잘싸!"…★들, 가나전 치른 대표팀에 응원 물결]]></title>
+        <id>https://v.daum.net/v/20221129025721433</id>
+        <link href="https://v.daum.net/v/20221129025721433"/>
+        <updated>2022-11-28T18:15:39.134Z</updated>
+        <content type="html"><![CDATA[(서울=뉴스1) 고승아 기자 = 연예계 스타들이 가나 전을 치른 축구 국가대표팀에 격려와 응원의 메시지를 전했다. 파울루 벤투 감독이 이끄는 한국 축구국가대표팀은 이날 오후 10시 카타르 알라이얀 에듀케이션 시티 스타디움에서 가나를 상대로 2022 국제축구연맹(FIFA) 카타르 월드컵 H조 조별리그 2차전을 치렀다. 이날 경기는 2대3으로 아쉽게 패배했]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[서장훈, "이제 헤어질 때 됐다"에도 타격감 없는 의뢰인에 '황당']]></title>
         <id>https://v.daum.net/v/20221129005604487</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20221128234111018"/>
         <updated>2022-11-28T15:12:10.563Z</updated>
         <content type="html"><![CDATA[[스포츠투데이 백지연 기자] '뜨겁게 안녕' 김현중이 우울증과 공황장애로 힘든 시기를 보냈다고 밝혔다. 28일 밤 방송된 MBN 예능프로그램 '뜨겁게 안녕'에 김현중이 게스트로 등장했다. 이날 방송에서 유진은 과거 김현중이 전 여자 친구 폭행 논란에 휩싸이고 5년여 만에 무죄를 받았던 때를 언급했다. 이에 김현중은 "지금은 너무 괜찮다. 한편으로는 궁지]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['돌싱글즈3' 조예영♥한정민, 패션부터 먹성까지 '도플갱어']]></title>
-        <id>https://v.daum.net/v/20221128232705744</id>
-        <link href="https://v.daum.net/v/20221128232705744"/>
-        <updated>2022-11-28T15:12:10.565Z</updated>
-        <content type="html"><![CDATA[[OSEN=최지연 기자] '돌싱글즈3' 조예영과 한정민이 다정한 모습으로 눈길을 끌었다.&nbsp; 28일, 조예영은&nbsp;“햄버거를 기다리는 자세&nbsp;#올인커플&nbsp;#조예영&nbsp;#한정민&nbsp;#데이트&nbsp;#럽스타그램&nbsp;#행복&nbsp;#가로수길"이라는 글과 함께 한 장의 사진(왼쪽)을 업로드했다. 공유한 사진 속 조예영과 한정민은 여유로운 웃음과 함께 카메라를 응시하고 있다. 특히 한정민은 나이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김현중 "군 복무 중 반려견 맡아준 지인, 돈 빌리고 학대·방치"]]></title>
-        <id>https://v.daum.net/v/20221128231831565</id>
-        <link href="https://v.daum.net/v/20221128231831565"/>
-        <updated>2022-11-28T15:12:10.566Z</updated>
-        <content type="html"><![CDATA[(서울=뉴스1) 박하나 기자 = '뜨겁게 안녕'에 출연한 가수 겸 배우 김현중이 지인이 반려견을 학대한 사실을 고백했다. 28일 오후 방송된 MBN 예능프로그램 '뜨겁게 안녕'에서는 가수 겸 배우 김현중이 '안녕하우스'를 찾아왔다. 김현중이 약 8년 만에 만난 은지원과 장보기에 나섰다. 김현중은 여행을 자주 가냐는 질문에 반려견 때문에 해외여행을 가지]]></content>
     </entry>
 </feed>
