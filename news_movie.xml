@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2022-11-28T20:13:59.959Z</updated>
+    <updated>2022-11-28T21:11:31.806Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[입소문 난 ‘올빼미’ 6일 연속 1위‥곧 100만 돌파]]></title>
+        <id>https://v.daum.net/v/20221129052049732</id>
+        <link href="https://v.daum.net/v/20221129052049732"/>
+        <updated>2022-11-28T21:11:10.235Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 배효주 기자] '올빼미'가 100만 관객 돌파를 앞두고 있다. 11월 29일 영화진흥위원회 통합전산망 집계에 따르면 28일 영화 '올빼미'(감독 안태진)가 7만5,330명을 모으며 6일 연속 전체 박스오피스 1위를 차지했다. '올빼미'의 누적 관객은 89만3,033명으로, 곧 100만 돌파를 앞두고 있다. 한편 지난 23일 개봉한 '올빼미'는 밤]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["특별한 작품"...'20년 지기' 마동석·정경호의 유쾌한 말맛, '압꾸정']]></title>
         <id>https://v.daum.net/v/20221129000047320</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20221128174926449"/>
         <updated>2022-11-28T09:13:09.873Z</updated>
         <content type="html"><![CDATA[[뉴스엔 허민녕 기자] ‘귀멸의 칼날’ 부러울 것 없다, 우리에겐 ‘신비 아파트’가 있으니. 극장판만 벌써 3번째. ‘신비 아파트 극장판 차원 도깨비와 7개의 세계’가 12월14일 개봉한다. 경쟁작은 무려 ‘아바타.’ 출사표 격인 특별영상은 ‘신비 아파트’의 충실한 고객 아동에게 철저히 맞춰졌다. 어린이의 최애돌로 꼽히는 유튜버 민쩌미가 그 주인공.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[9.11 테러 직후 벌어진 끔찍한 사건, 미국의 술책이었나]]></title>
-        <id>https://v.daum.net/v/20221128174805400</id>
-        <link href="https://v.daum.net/v/20221128174805400"/>
-        <updated>2022-11-28T09:13:09.877Z</updated>
-        <content type="html"><![CDATA[[김형욱 기자] ▲ &nbsp;넷플릭스 오리지널 다큐멘터리 &lt;탄저균의 습격&gt; 포스터.    ⓒ 넷플릭스  &nbsp; 2011년 9월 11일, 세계의 중심이자 미국의 중심 뉴욕 한복판 세계무역센터 쌍둥이 빌딩이 항공기 테러로 무너진다. 전 세계가 지켜보는 가운데 너무나 비현실적인 모습이 연출된 것인데, 절대적인 강대국 미국의 시대가 저물었음을 시사했다. 그런데]]></content>
     </entry>
 </feed>
