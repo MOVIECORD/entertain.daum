@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2022-11-28T07:11:57.470Z</updated>
+    <updated>2022-11-28T08:16:50.765Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[HKT48 1기생, 그룹 졸업 발표 “내년 여름 활동 종료”]]></title>
+        <id>https://v.daum.net/v/20221128165655798</id>
+        <link href="https://v.daum.net/v/20221128165655798"/>
+        <updated>2022-11-28T08:16:50.038Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 박수인 기자] HKT48 팀K4 모토무라 아오이가 그룹 졸업을 발표했다. HKT48 측은 최근 공식 홈페이지를 통해 모토무라 아오이의 졸업 발표 소식을 알렸다. 소속사 측은 "모토무라 아오이의 뜻을 존중해 와 졸업 관련 논의를 거듭한 결과, 2023년 여름경 HKT48 활동을 종료하게 됐다"고 밝혔다. 이어 "팬 여러분들께 갑작스러운 발표를 하게]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[밥 딜런 "자필 아닌 기계 사용해 책에 서명…깊이 후회"]]></title>
         <id>https://v.daum.net/v/20221128111650945</id>
@@ -32,12 +39,5 @@
         <link href="https://v.daum.net/v/20221127175147825"/>
         <updated>2022-11-27T09:11:41.687Z</updated>
         <content type="html"><![CDATA[[OSEN=지민경 기자] 팝스타 머라이어 캐리가 어린 시절 가족들에게 당한 학대를 간접 언급했다. 머라이어 캐리는 최근 한 매거진과의 인터뷰를 통해 크리스마스의 여왕이라고 불리는 것에 대한 이야기를 나눴다. 머라이어 캐리는 “사람들이 나를 보고 늘 축제 분위기다, 크리스마스의 소녀다 등등으로 부르는 것을 알고 있다. 사람들은 내가 공주 같은 삶을 살았을]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[일론 머스크, 자신의 트위터 인수 예측한 '심슨 가족' 인정]]></title>
-        <id>https://v.daum.net/v/20221127161616315</id>
-        <link href="https://v.daum.net/v/20221127161616315"/>
-        <updated>2022-11-27T08:14:42.319Z</updated>
-        <content type="html"><![CDATA[[OSEN=최나영 기자]&nbsp;일론 머스크 테슬라 최고경영자(CEO)가&nbsp;10월 트위터를 인수한 가운데 자신의 트위터 인수를 예측한 '심슨 가족'의 공로(?)를 인정했다. 일론 머스크는 26일(현지시간) 자신의 트위터에 본인이&nbsp;트위터 인수 한다는 것을 '심슨 가족'이 예측했다는 글과 함께 사진을 한 장 공유했다. 공개된 사진은 '심슨 가족'&nbsp;2015년 1월에]]></content>
     </entry>
 </feed>
