@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-11-29T08:16:57.291Z</updated>
+    <updated>2022-11-29T09:12:44.089Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[강하늘, 고두심 손 잡고 잔 사연?]]></title>
+        <id>https://v.daum.net/v/20221129181005460</id>
+        <link href="https://v.daum.net/v/20221129181005460"/>
+        <updated>2022-11-29T09:12:28.202Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]‘커튼콜’ 강하늘이 자나 깨나 할머니 고두심을 걱정한다. 오늘 29일(화) 밤 9시 50분 방송되는 KBS 2TV 월화드라마 ‘커튼콜’(연출 윤상호/극본 조성걸/제작 빅토리콘텐츠) 8회에서는 북에서 온 가짜 손자를 연기 중인 유재헌(강하늘 분)이 시한부 인생을 사는 할머니 자금순(고두심 분)을 조심스럽게 들여다보는 찐손자 이상]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[송중기 "대학생 연기, 죄의식 느껴"→이성민의 질투?]]></title>
+        <id>https://v.daum.net/v/20221129180407293</id>
+        <link href="https://v.daum.net/v/20221129180407293"/>
+        <updated>2022-11-29T09:12:28.204Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 오승현 인턴기자) '재벌집 막내아들' 송중기·이성민·신현빈이 드라마를 함께 보며 느낀점을 이야기했다. 29일 JTBC는 금토일 드라마 '재벌집 막내아들' 3, 4회를 코멘터리하는 배우들의 모습을 공개했다. 이날 이성민은 대학생을 연기하는 송중기와 신현빈을 보며 "연기하기 힘들었겠다"며 "중년의 삶의 기억을 가지고 20대 얼굴을 연기했다"며 감]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['커튼콜' 강하늘, 시한부 고두심에 애틋...정지소 독수공방 신세?]]></title>
         <id>https://v.daum.net/v/20221129170801409</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20221129162122609"/>
         <updated>2022-11-29T08:16:37.545Z</updated>
         <content type="html"><![CDATA[[마이데일리 = 강다윤 기자] 배우 한석규가 요리 실력에 자신감을 드러냈다. 29일 오후 왓챠 '오늘은 좀 매울지도 몰라'(각본 연출 이호재) 온라인 제작발표회가 열렸다. 행사에는 이호재 감독을 비롯해 배우 한석규, 김서형, 진호은이 참석했다. 이날 한석규는 "실제 요리 실력은 잘하면 수우미양가 중 '우' 정도는 될 것 같다. 나쁘지 않다. 사형제 막]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["한석규가 한석규했고 김서형이 김서형했다" 보기드문 따뜻한 드라마 '오늘은 좀 매울지도 몰라']]></title>
-        <id>https://v.daum.net/v/20221129161020107</id>
-        <link href="https://v.daum.net/v/20221129161020107"/>
-        <updated>2022-11-29T07:11:35.852Z</updated>
-        <content type="html"><![CDATA[[서울경제] 식구의 본래 의미는 한집에서 함께 살며 끼니를 같이하는 사람이다. 식구라는 단어가 무색해져버린 이혼 직전 중년 부부의 소원해진 관계는 회복될 수 있을까. 가족과 음식의 상관관계를 따스하게 다룬 작품이 추운 겨울 시청자들의 마음에 어떤 위로를 건넬지 주목된다. 29일 오후 왓챠 오리지널 드라마 ‘오늘은 좀 매울지도 몰라’(극본/감독 이호재) 제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['2년 만 컴백' 한석규, '오매라' 만둣국 대신 김치밥 제안한 이유]]></title>
-        <id>https://v.daum.net/v/20221129155519361</id>
-        <link href="https://v.daum.net/v/20221129155519361"/>
-        <updated>2022-11-29T07:11:35.853Z</updated>
-        <content type="html"><![CDATA[[OSEN=장우영 기자] 배우 한석규가 ‘오늘은 좀 매울지도 몰라’ 마지막 에피소드, 마지막 음식으로 어머니와 추억이 묻은 만둣국이 아닌 김치밥을 제안한 이유는 무엇일까. 29일 왓챠 오리지널 드라마 ‘오늘은 좀 매울지도 몰라’ 제작발표회가 온라인을 통해 진행됐다. ‘오늘은 좀 매울지도 몰라’는 이혼 후 대장암 선고를 받은 아내를 위해 밥상을 차리는 남]]></content>
     </entry>
 </feed>
