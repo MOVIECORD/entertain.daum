@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-11-29T03:22:58.744Z</updated>
+    <updated>2022-11-29T04:15:50.067Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김선영, '일타 스캔들' 출연…전도연·정경호와 호흡]]></title>
+        <id>https://v.daum.net/v/20221129131028792</id>
+        <link href="https://v.daum.net/v/20221129131028792"/>
+        <updated>2022-11-29T04:15:32.245Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 김예은 기자) 배우 김선영이 ‘일타 스캔들’에 출연한다. tvN 새 토일드라마 ‘일타 스캔들’은 사교육 전쟁터에서 펼쳐지는 국가대표 반찬가게 열혈 사장과 대한민국 수학 일타 강사의 달콤 쌉싸름한 로맨스를 그린다. ‘고교 처세왕’, ‘오 나의 귀신님’ 이후 오랜만에 다시 뭉친 유제원 감독과 양희승 작가가 그려낼 또 하나의 가슴 따뜻한 로맨스 작]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김명수, 해병대 전역 후 복귀작은 ‘회계법인’?.."긍정 검토 중"]]></title>
+        <id>https://v.daum.net/v/20221129123520280</id>
+        <link href="https://v.daum.net/v/20221129123520280"/>
+        <updated>2022-11-29T04:15:32.246Z</updated>
+        <content type="html"><![CDATA[[OSEN=김채연 기자] 가수 겸 배우 김명수(엘)가 MBC ‘회계법인’ 출연을 긍정 검토 중이다. 29일 김명수의 소속사 매니지먼트 이상 측은 OSEN에 “배우 김명수가 MBC 드라마 ‘회계법인’ 출연을 긍정적으로 검토하고 있다”고 밝혔다. 드라마 '회계법인'은 회계법인을 둘러싼 이야기를 다룬 작품으로, 김명수는 극중 '태일회계법인'에 입사한 최초이자]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘재벌집 막내아들’ 어디까지 올라가나? 시청률+화제성+OTT 올킬]]></title>
         <id>https://v.daum.net/v/20221129120337671</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20221129095124898"/>
         <updated>2022-11-29T01:00:03.977Z</updated>
         <content type="html"><![CDATA[[OSEN=박소영 기자] tvN&nbsp;‘환혼’ part 2의 부제,&nbsp;빛과 그림자의 숨은 의미에 관심이 쏠리고 있다. 오는&nbsp;12월&nbsp;10일(토)&nbsp;첫 방송되는&nbsp;tvN&nbsp;새 토일드라마&nbsp;‘환혼:&nbsp;빛과 그림자’(연출 박준화/극본 홍정은 홍미란/제작 스튜디오드래곤&nbsp;TS나린시네마)(이하. ‘환혼’)는&nbsp;역사에도 지도에도 존재하지 않은 대호국을 배경으로,&nbsp;영혼을 바꾸는&nbsp;‘환혼술]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[강하늘, 또 위기..하지원 말고 정유진에 먼저 들키나]]></title>
-        <id>https://v.daum.net/v/20221129094820772</id>
-        <link href="https://v.daum.net/v/20221129094820772"/>
-        <updated>2022-11-29T01:00:03.979Z</updated>
-        <content type="html"><![CDATA[[OSEN=박소영 기자] ‘커튼콜’ 강하늘이 사면초가 위기에 빠진다. 오늘 29일(화) 밤 9시 50분 방송되는 KBS 2TV 월화드라마 ‘커튼콜’(연출 윤상호/극본 조성걸/제작 빅토리콘텐츠) 8회에서는 연극배우 출신의 가짜 손자를 연기 중인 유재헌(강하늘 분)이 과거 애인 역할 대행으로 만났던 스튜어디스이자 박세연(하지원 분)의 지인인 송효진(정유진]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘빨간풍선’ 측 “이보희X정보석 현실부부 뺨치는 연기, 카타르시스 안긴다”]]></title>
-        <id>https://v.daum.net/v/20221129094254563</id>
-        <link href="https://v.daum.net/v/20221129094254563"/>
-        <updated>2022-11-29T01:00:03.980Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 박아름 기자] ‘빨간 풍선’ 이보희와 정보석이 실감나는 앙숙 부부 케미를 예고했다. TV CHOSUN 새 주말미니시리즈 ‘빨간 풍선’(극본 문영남/연출 진형욱) 측은 11월 29일 배우 이보희, 정보석 스틸을 공개했다. 12월 17일 첫 방송될 '빨간 풍선'은 우리 모두가 시달리는 상대적 박탈감, 그 배 아픈 욕망의 목마름, 그 목마름을 달래려]]></content>
     </entry>
 </feed>

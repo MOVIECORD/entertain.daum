@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2022-11-29T03:22:58.741Z</updated>
+    <updated>2022-11-29T04:15:50.062Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['쌍천만 위엄' MCU는 어디로…흔들리는 '마블민국']]></title>
+        <id>https://v.daum.net/v/20221129125003420</id>
+        <link href="https://v.daum.net/v/20221129125003420"/>
+        <updated>2022-11-29T04:15:26.431Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 이창규 기자) '마블민국'의 위용이 최근 주춤하다. '어벤져스:인티니티 워'(2018), '어벤져스:엔드게임'(2019) 등 '쌍천만' 신화를 이뤄낸 마블 시네마틱 유니버스(MCU)의 위기다.&nbsp; MCU는 영화들을 각각의 '페이즈'로 나눠서 줄거리를 크게 구분지으며, 이런 페이즈들을 모아 '사가'라는 하나의 막(幕)으로 정리한다. 2008년 ']]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['아바타2'·'영웅' VS '더 글로리'·'카지노'…극장과 OTT, 연말 야심작으로 격돌]]></title>
         <id>https://v.daum.net/v/20221129121826034</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20221129095021852"/>
         <updated>2022-11-29T00:59:58.527Z</updated>
         <content type="html"><![CDATA[[OSEN=김보라 기자]&nbsp;전세계가 기다리는 2022년 최고의 기대작 '아바타: 물의 길'이 새로운 종족 멧케이나족의 등장으로 광활한 바다에서 펼쳐질 이야기에 대한 기대감이 커지고 있다. 2009년 혁신적인 기술력으로 신드롬을 일으키며 월드와이드 역대 흥행 순위 1위를 기록하고 있는 '아바타'의 후속편 '아바타: 물의 길'(감독 제임스 카메론, 수입배급]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['올빼미' 6일 연속 1위…100만 돌파 향해 속도]]></title>
-        <id>https://v.daum.net/v/20221129092050707</id>
-        <link href="https://v.daum.net/v/20221129092050707"/>
-        <updated>2022-11-29T00:59:58.532Z</updated>
-        <content type="html"><![CDATA[[스포츠한국 조은애 기자] 영화 '올빼미'가 100만 돌파를 향해 속도를 내고 있다. 29일 영진위 통합전산망 집계에 따르면 '올빼미'는 전날&nbsp;7만5330명의 관객을 모아 박스오피스 1위를 기록했다. 누적 관객 수는&nbsp;89만3033명이다. 유해진, 류준열 주연의 '올빼미'는 밤에만 앞이 보이는 맹인 침술사가 세자의 죽음을 목격한 후 진실을 밝히기]]></content>
     </entry>
 </feed>
