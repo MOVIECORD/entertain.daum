@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-11-29T14:12:30.829Z</updated>
+    <updated>2022-11-29T15:14:20.113Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['연매살' 곽선영, 퇴사 위기 모면..톱스타 김지훈 데려왔다]]></title>
+        <id>https://v.daum.net/v/20221130001139299</id>
+        <link href="https://v.daum.net/v/20221130001139299"/>
+        <updated>2022-11-29T15:14:03.380Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 이빛나리 기자] /사진='연예인 매니저로 살아남기' 방송화면'연예인 매니저로 살아남기'에서 곽선영이 퇴사 위기를 모면했다. 29일 오후 방송된 tvN 월화드라마 '연예인 매니저로 살아남기'에서 메쏘드엔터 새 대표를 맡게 된 구해준(허성태 분)이 천제인(곽선영 분)에 라이벌 회사 스타미디어에서 톱스타 김지훈(김지훈 분)을 데려오라고 지시했다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['연매살' 새 대표 허성태, 직원들에 파격 제안 "성과급 천만 원"]]></title>
+        <id>https://v.daum.net/v/20221129232159741</id>
+        <link href="https://v.daum.net/v/20221129232159741"/>
+        <updated>2022-11-29T15:14:03.382Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 이빛나리 기자] /사진='연예인 매니저로 살아남기' 방송화면'연예인 매니저로 살아남기'에서 허성태가 직원들에 파격적인 성과급에 대해 언급했다. 29일 오후 방송된 tvN 월화드라마 '연예인 매니저로 살아남기'에서 구해준(허성태 분)이 메쏘드엔터 새 대표를 맡게 됐다. 이날 구해준은 소속 배우 김소현(김소현 분)과 손준호(손준호 분)이 라이벌]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['연매살' 허성태, 회사 대표 됐다 "수익 극대화" 호언장담]]></title>
         <id>https://v.daum.net/v/20221129230522603</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20221129190122824"/>
         <updated>2022-11-29T10:13:35.550Z</updated>
         <content type="html"><![CDATA[[OSEN=박소영 기자] SBS&nbsp;금토 드라마&nbsp;‘소방서 옆 경찰서’가 색다른 공조 히어물의 탄생을 알리며 마니아층의 열광을 이끌 수밖에 없는 이유를 공개했다. 지난&nbsp;11월&nbsp;12일(토)&nbsp;첫 방송된&nbsp;SBS&nbsp;금토 드라마&nbsp;‘소방서 옆 경찰서’(극본 민지은/연출 신경수/제작 메가몬스터)는 범인 잡는&nbsp;‘경찰’과 화재 잡는&nbsp;‘소방’의&nbsp;‘공동대응’&nbsp;현장일지를 담은 드라]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['아하아' 김설현, 만취해 흑역사 생성..임시완 당황]]></title>
-        <id>https://v.daum.net/v/20221129184821533</id>
-        <link href="https://v.daum.net/v/20221129184821533"/>
-        <updated>2022-11-29T10:13:35.553Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 최혜진 기자] /사진=지니TV지니TV 오리지널 드라마 '아무것도 하고 싶지 않아'(이하 '아하아')에서는 만취한 김설현과 당황한 임시완의 한밤중 만남이 그려진다. 29일 방송되는 지니 TV 오리지널 드라마 '아무것도 하고 싶지 않아' 4회에서는 여름(김설현 분)이 잃어버린 돈다발을 찾기 위한 소동이 벌어진다. 만취한 여름과 함께 있었던 대범(임]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[만취한 설현X당황한 임시완…한밤 중 생긴 일]]></title>
-        <id>https://v.daum.net/v/20221129184442413</id>
-        <link href="https://v.daum.net/v/20221129184442413"/>
-        <updated>2022-11-29T10:13:35.558Z</updated>
-        <content type="html"><![CDATA[[마이데일리 = 강다윤 기자] 만취한 여름(설현)과 당황한 대범(임시완_의 한밤중 만남이 그려진다. 29일 방송되는 지니 TV 오리지널 드라마 '아무것도 하고 싶지 않아'(극본 홍문표 이윤정 연출 이윤정 홍문표) 4회에서는 여름이 잃어버린 돈다발을 찾기 위한 소동이 벌어진다. 만취한 여름과 함께 있었던 대범도 사건에 얽히는 등 안곡마을을 발칵 뒤집은 사건]]></content>
     </entry>
 </feed>
