@@ -2,11 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2022-11-29T10:13:52.985Z</updated>
+    <updated>2022-11-29T11:11:24.080Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA['크리스마스 캐럴' 박진영 "1인 2역? 불안할 뿐 스트레스 無"]]></title>
+        <title type="html"><![CDATA[김민하, ‘파친코’로 제32회 고담어워즈 참석…신작 시리즈 우수연기상 후보]]></title>
+        <id>https://v.daum.net/v/20221129192953383</id>
+        <link href="https://v.daum.net/v/20221129192953383"/>
+        <updated>2022-11-29T11:11:02.844Z</updated>
+        <content type="html"><![CDATA[[헤럴드경제 = 서병기 선임기자]배우 김민하가 미국 고담어워즈에 참석했다. 김민하는 지난 28일(현지시간) 미국 뉴욕에서 열린 제32회 고담어워즈(The Gotham Awards)에서 신작 시리즈 부문 우수연기상(Outstanding Performance in a new series) 후보에 올라 시상식에 참여했다. ‘고담어워즈’는 미국 최대의 독립영화]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['크리스마스 캐럴' 박진영 "1인 2역 도전? 스트레스 無"]]></title>
         <id>https://v.daum.net/v/20221129191132034</id>
         <link href="https://v.daum.net/v/20221129191132034"/>
         <updated>2022-11-29T10:13:29.803Z</updated>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20221129170829421"/>
         <updated>2022-11-29T08:16:30.941Z</updated>
         <content type="html"><![CDATA[[동아닷컴] 가수 겸 배우 박진영(갓세븐)이 원톱 주연 영화 ‘크리스마스 캐럴’로 영화계 세대교체 신호탄을 쐈다. 전혀 다른 결의 쌍둥이 일우와 월우 2개 역할을 완벽하게 소화하며 약 130분을 몰입감있게 끌고 갔다. '크리스마스 캐럴'(각본/감독 김성수)은 주원규 작가의 동명 소설을 원작으로한 작품으로 쌍둥이 동생 월우가 죽은 후, 복수를 위해 스스로]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김동휘, ‘재미’ 실언 자체 해명 “영화 몰입해서 봤다”]]></title>
-        <id>https://v.daum.net/v/20221129170010086</id>
-        <link href="https://v.daum.net/v/20221129170010086"/>
-        <updated>2022-11-29T08:16:30.945Z</updated>
-        <content type="html"><![CDATA[[동아닷컴] 영화 '크리스마스 캐럴' 김동휘가 논란(?)에 대해 해명했다. 29일 서울 강남구 메가박스 코엑스에선 영화 '크리스마스 캐럴' 언론 시사회 및 기자간담회가 진행됐다. 김동휘는 이날 “일우와 월우(박진영 분)의 연기를 보면 자연스럽게 영화에 몰입하게 될 것 같다"라고 말했다. 그러면서 "앞선 제작발표회 때 영화를 보지도 않고 ‘재미있지는]]></content>
     </entry>
 </feed>
