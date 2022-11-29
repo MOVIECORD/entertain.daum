@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/variety</id>
     <title>다음 연예 ─ 뉴스 ─ 예능</title>
-    <updated>2022-11-29T09:12:44.092Z</updated>
+    <updated>2022-11-29T10:13:52.976Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[소유진, ♥백종원과 첫 영화 시사회 참석 "마동석 초대로"]]></title>
+        <id>https://v.daum.net/v/20221129184301365</id>
+        <link href="https://v.daum.net/v/20221129184301365"/>
+        <updated>2022-11-29T10:13:40.967Z</updated>
+        <content type="html"><![CDATA[[텐아시아=이준현 기자] 배우 소유진이 남편 백종원과 영화 시사회에 참석했다. 소유진은 29일 "마동석 선배님의 초대로 #압꾸정 영화 응원하러 시사회~ 남편과 처음으로 #영화시사회 함께. 너무 좋았다. 영화도 진짜진짜 재밌고 대박 나세요!"라고 적었다. 사진 속에는 영화 '압꾸정' 시사회를 찾은 소유진, 백종원의 모습이 담겼다. 소유진, 백종원은 마동석]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[홍현희, 눈앞에 펼쳐진 황진이 시조에 ‘동공지진’]]></title>
         <id>https://v.daum.net/v/20221129180623342</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20221129163651256"/>
         <updated>2022-11-29T08:16:43.999Z</updated>
         <content type="html"><![CDATA[[뉴스엔 박아름 기자] '에덴2' 이서연이 김강래♥손서아에 돌직구 질문을 던진다. 11월 29일 방송되는 채널 IHQ 연애 리얼리티 '에덴2' 3회에서는 '진실의 밤'에 돌입하는 청춘남녀 8인의 모습이 공개된다. 이날 데이트를 하게 된 조이건-라나, 김강래-손서아는 한층 가까워진 모습을 보인다. 특히 김강래-손서아의 파격적인 커플 요가 자세를 보게 된 이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘집사부일체’ 측 “마음고생 중인 이승기 없이 녹화 시작, 기다리겠다”]]></title>
-        <id>https://v.daum.net/v/20221129163633245</id>
-        <link href="https://v.daum.net/v/20221129163633245"/>
-        <updated>2022-11-29T08:16:44.001Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 이민지 기자] 가수 겸 배우 이승기가 '집사부일체2'에 당분간 합류하지 않는다. SBS '집사부일체' 관계자는 11월 29일 뉴스엔에 "제작진은 이승기를 기다리면서 기존 멤버들로 녹화를 시작할 예정"이라고 밝혔다. 이어 "이승기의 합류 시기는 미정이나, 제작진 및 출연진들은 마음고생 중인 이승기가 모든 게 잘 해결되고 하루 빨리 복귀하기를 바]]></content>
     </entry>
 </feed>
