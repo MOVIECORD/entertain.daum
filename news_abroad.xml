@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2022-11-30T20:13:36.230Z</updated>
+    <updated>2022-11-30T21:11:52.809Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘크리스 록 폭행’ 윌 스미스, “내 안의 분노 표출…끔찍한 밤” 눈물 흘려]]></title>
+        <id>https://v.daum.net/v/20221201060404982</id>
+        <link href="https://v.daum.net/v/20221201060404982"/>
+        <updated>2022-11-30T21:11:52.005Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]지난 3월 제94회 아카데미 시상식에서 크리스 록(57)을 폭행한 윌 스미스(54)가 후회의 눈물을 흘렸다. 그는 29일(현지시간) ‘데일리 쇼’의 트레버 노아에게 “당신이 상상할 수 있듯이 그날 밤은 끔찍했다”면서 “많은 뉘앙스와 복잡성이 있다”고 운을 뗐다. 윌 스미스는 아카데미 시상식에서 크리스 록이 아내 제이다 핀켓]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[니콜 키드먼이 휴 잭맨의 모자를 1억에 산 이유]]></title>
         <id>https://v.daum.net/v/20221130232800101</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20221130092824558"/>
         <updated>2022-11-30T01:01:18.025Z</updated>
         <content type="html"><![CDATA[[OSEN=강서정 기자] 칸예 웨스트와 킴 카다시안의 이혼이 드디어 마무리 됐다. 29일(현지 시간) 미국 현지매체 보도에 따르면 칸예 웨스트와 킴 카다시안이 자녀 양육권과 재산 관련 문제를 모두 해결했다. 두 사람은 4명의 자녀에 평등한 접근과 공동 양육권을 가지게 됐다. 하지만 카다시안 측근은 카다시안이 아이들과 더 많은 시간을 보낼 거라고 전했다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[은근히 드러내거나 완벽히 감추거나 ’MAMA AWARDS' 레드카펫 빛낸 드레스 열전]]></title>
-        <id>https://v.daum.net/v/20221130084816131</id>
-        <link href="https://v.daum.net/v/20221130084816131"/>
-        <updated>2022-11-30T01:01:18.026Z</updated>
-        <content type="html"><![CDATA[[OSEN=일본(오사카), 박판석 기자]&nbsp;’2022 MAMA AWARDS’가 3년만에 일본에서 막을 열었다. 화려한 막을 올린 레드카펫에서 아이돌들과 배우들은 노출이 있는 드레스를 입거나 그 반대로 완벽하게 가리면서 자신만의 패션 센스를 자랑했다. 이날 레드카펫에서 노출을 선택한 스타들은 과감한 노출 보다는 몸매의 장점을 부각하는 드레스를 선택했다. M]]></content>
     </entry>
 </feed>

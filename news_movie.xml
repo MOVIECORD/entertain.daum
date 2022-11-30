@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2022-11-30T20:13:36.229Z</updated>
+    <updated>2022-11-30T21:11:52.818Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[피날레 장식한 '아바타2' "최고의 관람경험 선사"]]></title>
+        <id>https://v.daum.net/v/20221201060042806</id>
+        <link href="https://v.daum.net/v/20221201060042806"/>
+        <updated>2022-11-30T21:11:29.866Z</updated>
+        <content type="html"><![CDATA[[싱가포르=이데일리 스타in 박미애 기자]제임스 카메론 감독의 최고 역작으로 꼽히는 ‘아바타’가 13년 만에 속편으로 돌아온다. 내달 개봉하는 ‘아바타:물의 길’을 통해 황홀한 판도라 행성에서의 새로운 모험이 펼쳐진다. 월트디즈니컴퍼니(이하 디즈니)는 30일 싱가포르 마리나 베이 샌즈 엑스포&amp;컨벤션 센터에서 열린 ‘2022 디즈니 콘텐츠 쇼케이스’를 통해]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘올빼미’, 마동석 신작 개봉에도 굳건한 1위]]></title>
+        <id>https://v.daum.net/v/20221201053203367</id>
+        <link href="https://v.daum.net/v/20221201053203367"/>
+        <updated>2022-11-30T21:11:29.866Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 배효주 기자] '올빼미'가 신작 개봉에도 불구하고 박스오피스 1위 자리를 지켰다. 12월 1일 영화진흥위원회 통합전산망 집계에 따르면 11월 30일 영화 '올빼미'(감독 안태진)가 13만7,668명을 모아 전체 박스오피스 정상을 지켰다. 지난달 23일 개봉한 '올빼미'의 누적 관객은 112만7,320명으로, 8일 연속 박스오피스 1위를 굳건히]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['귀못' 최우수 촬영감독상…ECA·NYCA 2관왕]]></title>
         <id>https://v.daum.net/v/20221130235540282</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20221130184806251"/>
         <updated>2022-11-30T10:13:26.507Z</updated>
         <content type="html"><![CDATA[[서울경제] 월트디즈니가 창립 100주년을 맞아 아태지역 기자들을 싱가포르로 초청했습니다. 11월 30일부터 12월 1일까지 싱가포르 마리나베이샌즈에서 '디즈니 콘텐츠 쇼케이스 2022'가 열립니다. 이번 행사의 특징은 전 세계를 사로잡고 있는 K-콘텐츠를 전면에 내세웠다는 점입니다. 한 세기를 물들인 디즈니의 새로운 미래와 그 속에 K-콘텐츠가 어떻게]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['압꾸정' 사랑꾼 오나라 "22년 열애 ♥김도훈, 아직도 설레서 문제"]]></title>
-        <id>https://v.daum.net/v/20221130183322966</id>
-        <link href="https://v.daum.net/v/20221130183322966"/>
-        <updated>2022-11-30T10:13:26.507Z</updated>
-        <content type="html"><![CDATA[[OSEN=장우영 기자] 배우 오나라가 22년째 열애 중인 연인 김도훈에 대한 여전한 애정을 보였다. 22년째 사귀고 있음에도 여전히 좋고, 아직도 설렌다는 오나라는 “진짜 문제가 있는 것 같다”면서도 행복한 미소를 보였다. 오나라는 29일 서울 종로구 소격동의 한 카페에서 영화 ‘압꾸정’ 인터뷰를 가졌다. ‘압꾸정’(감독 임진순, 제공배급 쇼박스, 제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오나라 "22년 연인 김도훈, 닮고 싶은 사람···결혼 안 하는 이유 없어"]]></title>
-        <id>https://v.daum.net/v/20221130181815556</id>
-        <link href="https://v.daum.net/v/20221130181815556"/>
-        <updated>2022-11-30T10:13:26.507Z</updated>
-        <content type="html"><![CDATA[[서울경제] 해피 바이러스가 가득한 배우 오나라가 지금의 자신을 있게 한 오랜 연인, 배우 김도훈에 대해 이야기했다. 오나라는 30일 오후 서울 종로구의 한 카페에서 영화 ‘압꾸정’(감독 임진순) 개봉 기념 인터뷰를 진행했다. ‘압꾸정’은 타고난 말빨의 압구정 토박이 대국(마동석)이 한때 잘나가던 성형외과 의사 지우(정경호)를 만나, 압구정을 아시아를 대]]></content>
     </entry>
 </feed>
