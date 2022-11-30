@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/variety</id>
     <title>다음 연예 ─ 뉴스 ─ 예능</title>
-    <updated>2022-11-30T07:12:20.894Z</updated>
+    <updated>2022-11-30T08:16:20.071Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[BTS 덕 본 디즈니+, 또 다큐멘터리 공개…"피·땀·눈물 담겨"]]></title>
+        <id>https://v.daum.net/v/20221130171002240</id>
+        <link href="https://v.daum.net/v/20221130171002240"/>
+        <updated>2022-11-30T08:16:09.846Z</updated>
+        <content type="html"><![CDATA[디즈니+에서 그룹 방탄소년단의 새로운 음악 다큐멘터리를 선보인다. 월트디즈니 컴퍼니(TWDC, 이하 디즈니)는 30일(현지시간) 오후 싱가포르 마리나 베이 샌즈에서 아시아태평양 지역(APAC) 콘텐츠 쇼케이스를 개최했다. 이날 디즈니 측은 "한국 콘텐츠로는 K팝을 빼놓을 수 없다"며 새로운 음악 다큐멘터리로 슈퍼주니어, NCT 127, 방탄소년단의 콘텐츠]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['더 아이돌 밴드', 밴드 오디션의 新 패러다임 '기대↑']]></title>
+        <id>https://v.daum.net/v/20221130161303890</id>
+        <link href="https://v.daum.net/v/20221130161303890"/>
+        <updated>2022-11-30T08:16:09.848Z</updated>
+        <content type="html"><![CDATA[[텐아시아=차혜영 기자] &nbsp; ‘더 아이돌 밴드’가 밴드 오디션의 새로운 패러다임을 기대시킨다. &nbsp; 오는 12월 6일 첫 방송되는 SBS M 서바이벌 프로그램 ‘THE IDOL BAND : BOY’S BATTLE’(더 아이돌 밴드 : 보이즈 배틀, 이하 ‘더 아이돌 밴드’) 측이 첫 방송을 일주일 앞두고 관전 포인트를 공개했다. &nbsp; ‘더 아이돌 밴드’는 전]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['13년만 재회' 이순재·진지희, '라디오스타' 출격…'갈매기' 홍보]]></title>
         <id>https://v.daum.net/v/20221130160108318</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20221130143829873"/>
         <updated>2022-11-30T06:15:47.297Z</updated>
         <content type="html"><![CDATA[[뉴스엔 김명미 기자] 트로트 오디션 우승자들이 '미스터트롯2'로 다시 한번 서바이벌에 도전한다. TV조선 새 예능프로그램 '미스터트롯2' 측은 11월 30일 메인 티저 영상을 통해 이번 시즌 참가자들의 모습을 최초 공개했다. '미스터트롯'은 임영웅을 포함해 영탁, 이찬원, 김호중, 정동원, 장민호, 김희재 등 트로트 스타들을 배출한 TV조선의 대표적 오]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[윤시윤 “‘탄생’ 로마 바티칸서 시사회, 교황님도 알현”]]></title>
-        <id>https://v.daum.net/v/20221130143052496</id>
-        <link href="https://v.daum.net/v/20221130143052496"/>
-        <updated>2022-11-30T06:15:47.298Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 서유나 기자] 배우 윤시윤이 '탄생'의 특별한 시사회 현장을 자랑했다. 11월 30일 방송된 SBS 파워FM '두시탈출 컬투쇼'(이하 '컬투쇼')에서는 가수 이정이 스페셜 DJ를 맡은 가운데 영화 '탄생'(감독 박흥식)의 주역 윤시윤, 이호원이 게스트로 출연했다. 이날 윤시윤은 영화 시사회를 아주 특별한 곳에서 했다며 "로마 바티칸에 가서 교]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[피파도 주목..‘골때녀’ 조혜련·이현이→윤태진, 카타르서 직접 응원]]></title>
-        <id>https://v.daum.net/v/20221130141846939</id>
-        <link href="https://v.daum.net/v/20221130141846939"/>
-        <updated>2022-11-30T06:15:47.299Z</updated>
-        <content type="html"><![CDATA[[OSEN=김채연 기자] ‘골때녀’ 멤버들이 12번째 태극전사로 변신한다. 30일 방송되는 SBS&nbsp;‘골(Goal) 때리는 그녀들’ 월드컵 특집 편에서는 2022 카타르 월드컵 ‘대한민국VS우루과이전’ 현장을 찾은 ‘골때녀’ 멤버들의 뜨거운 응원 모습을 공개한다. 2022년 카타르 월드컵이 성황리에 개막한 가운데, 태극전사들을 응원하기 위해 ‘골때녀’ 멤]]></content>
     </entry>
 </feed>
