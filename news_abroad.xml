@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2022-11-30T06:15:57.186Z</updated>
+    <updated>2022-11-30T07:12:20.895Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[카다시안, 예와 최종 이혼합의…양육비 매월 2억6천만원 받는다]]></title>
+        <id>https://v.daum.net/v/20221130161037750</id>
+        <link href="https://v.daum.net/v/20221130161037750"/>
+        <updated>2022-11-30T07:12:20.053Z</updated>
+        <content type="html"><![CDATA[(서울=연합뉴스) 오진송 기자 = 미국의 모델 겸 패션사업가인 킴 카다시안은 전남편인 힙합 가수 '예'(카녜이 웨스트)와 이혼 조정에 합의했다. 30일(현지시간) AP통신에 따르면 두 사람은 전날 로스앤젤레스 고등법원에 이혼 조정 신청서를 제출했다. 신청서에 따르면 이들은 예가 매달 카다시안에게 양육비 20만 달러(약 2억6천만원)를 지불하는 데 합의했다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[케서린 헤이글 “한국인 입양 딸과 멀어질까 두려웠었다” 울컥]]></title>
+        <id>https://v.daum.net/v/20221130151804637</id>
+        <link href="https://v.daum.net/v/20221130151804637"/>
+        <updated>2022-11-30T07:12:20.057Z</updated>
+        <content type="html"><![CDATA[[스포츠조선닷컴 박아람 기자] 미국 배우 케서린 헤이글(44)이 자신의 바쁜 일정 때문에 한국인 입양 딸 네이리(14)과 멀어질까 두려웠었다고 털어놨다. 지난 28일(현지시간) 방송된 미국 ABC 토크쇼 '더 뷰(The View)'에서 케서린 헤이글은 드라마 '그레이 아나토미'의 바쁜 일정 때문에 큰딸 네이리와 유대감을 만드는 것에 어려움을]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“디카프리오, 미술계 거물되나” 그림 쇼핑 적극 나서]]></title>
         <id>https://v.daum.net/v/20221130150823208</id>
@@ -81,12 +95,5 @@
         <link href="https://v.daum.net/v/20221129165802965"/>
         <updated>2022-11-29T08:16:56.580Z</updated>
         <content type="html"><![CDATA[[뉴스엔 박수인 기자] 일본 톱배우 토다 에리카, 마츠자카 토리가 결혼 발표 2년 만 부모가 된다. 토다 에리카 측은 11월 28일 공식 홈페이지를 통해 첫 아이 임신 소식을 알렸다. 소속사 측은 "이번에 새로운 생명을 얻게 된 것을 보고드린다. 지금은 심신이 평온한 하루하루를 보내고 있으며 아이가 무사히 태어나길 바라고 있다. 앞으로도 따뜻하게 지켜봐]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘파친코’ 고담어워즈 작품상 쾌거, 김민하는 수상 불발]]></title>
-        <id>https://v.daum.net/v/20221129155707446</id>
-        <link href="https://v.daum.net/v/20221129155707446"/>
-        <updated>2022-11-29T07:11:52.685Z</updated>
-        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]애플 TV+의 ‘파친코’가 제32회 고담어워즈 트로피를 거머쥐었다. 28일(현지시간) 뉴욕에서 열린 제32회 고담어워즈에서 ‘파친코’는 ‘40분 이상 상영되는 획기적인 시리즈’부문에서 에서 작품상을 받았다. ‘파친코’는 ‘세브란스’(애플+), ‘스테이션 일레븐’(HBO 맥스), ‘디스 이즈 고잉 투 허트’(AMC+), ‘옐]]></content>
     </entry>
 </feed>
