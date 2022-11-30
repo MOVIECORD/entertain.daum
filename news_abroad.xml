@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2022-11-30T21:11:52.809Z</updated>
+    <updated>2022-11-30T22:12:32.563Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“37살 가수, 결혼식 몇 시간 후에 잠자다 사망” 충격]]></title>
+        <id>https://v.daum.net/v/20221201061304203</id>
+        <link href="https://v.daum.net/v/20221201061304203"/>
+        <updated>2022-11-30T22:12:31.899Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]미국의 컨트리 가수 제이크 플린트가 지난 주말 갑잡스럽게 사망했다. 향년 37세. 매니저 브렌다 클라인은 지난 11월 27일(현지시간) 페이스북에 “제이크 플린트가 비극적으로 세상을 떠났다는 것을 가슴 아파하면서 깊은 슬픔에 빠져 전한다”고 썼다. 이어 “내 경력에서 내가 함께 일했던 가장 재미있고, 열심히 일하고, 헌신적]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘크리스 록 폭행’ 윌 스미스, “내 안의 분노 표출…끔찍한 밤” 눈물 흘려]]></title>
         <id>https://v.daum.net/v/20221201060404982</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20221130092910588"/>
         <updated>2022-11-30T01:01:18.023Z</updated>
         <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]영화 ‘탑건’ ‘다이하드’ 등에 출연했던 배우이자 학자인 클레런스 길야드 주니어가 세상을 떠났다. 향년 66세. 데드라인은 29일(현지시간) “길야드가 영화와 연극 교수로 재직했던 라스베이거스 대학이 그의 사망 소식을 알렸다”면서 “사인은 밝혀지지 않았다”고 보도했다. 길야드는 영화, 텔레비전, 연극 분야에서 30년 이상을]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[킴 카다시안, 칸예 웨스트와 드디어 이혼 마무리..매달 양육비 2억 6천만원 받는다]]></title>
-        <id>https://v.daum.net/v/20221130092824558</id>
-        <link href="https://v.daum.net/v/20221130092824558"/>
-        <updated>2022-11-30T01:01:18.025Z</updated>
-        <content type="html"><![CDATA[[OSEN=강서정 기자] 칸예 웨스트와 킴 카다시안의 이혼이 드디어 마무리 됐다. 29일(현지 시간) 미국 현지매체 보도에 따르면 칸예 웨스트와 킴 카다시안이 자녀 양육권과 재산 관련 문제를 모두 해결했다. 두 사람은 4명의 자녀에 평등한 접근과 공동 양육권을 가지게 됐다. 하지만 카다시안 측근은 카다시안이 아이들과 더 많은 시간을 보낼 거라고 전했다.]]></content>
     </entry>
 </feed>
