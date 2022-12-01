@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/variety</id>
     <title>다음 연예 ─ 뉴스 ─ 예능</title>
-    <updated>2022-12-01T09:13:02.067Z</updated>
+    <updated>2022-12-01T10:14:06.218Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["母, 여친처럼 대할 걸"…양준혁→장우혁, 소년·소녀된 부모 만났다]]></title>
+        <id>https://v.daum.net/v/20221201191002249</id>
+        <link href="https://v.daum.net/v/20221201191002249"/>
+        <updated>2022-12-01T10:13:55.157Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 오승현 인턴기자) '효자촌' 양준혁을 비롯한 '효도 5인방'이 촬영하며 발견한 부모의 새로운 모습을 밝혔다. 1일 오후 서울 마포구 스탠포드호텔 그랜드볼룸에서 ENA 신규 예능 프로그램 '효자촌' 제작발표회가 진행됐다. 이 자리에는 남규홍 PD를 비롯해 MC 데프콘과 양치승, '효도 5인방' 양준혁, 장우혁, 윤기원, 유재환, 신성이 참석했다]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김정임, 과메기에 부부싸움 화풀이 “홍성흔 생각했더니 뼈밖에 안 남아”]]></title>
         <id>https://v.daum.net/v/20221201180813001</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20221201162945401"/>
         <updated>2022-12-01T08:16:42.091Z</updated>
         <content type="html"><![CDATA[[마이데일리 = 강다윤 기자] 작곡가 겸 가수 유재환이 '효자촌'으로 초대하고 싶은 이를 꼽았다. 1일 오후 서울 마포구 상암동 스탠퍼드 호텔 그랜드볼룸에서 케이블채널 ENA '효자촌' 제작발표회가 열렸다. 행사에는 남규홍 PD를 비롯해 MC 데프콘, 양치승과 양준혁, 장우혁, 윤기원, 유재환, 신성이 참석했다. 이날 유재환은 '효자촌'에 초대하고 싶은]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["그럴 정신없다"…정형돈, 호흡 곤란 금쪽이에 꾀병 의혹 제기?]]></title>
-        <id>https://v.daum.net/v/20221201162501218</id>
-        <link href="https://v.daum.net/v/20221201162501218"/>
-        <updated>2022-12-01T08:16:42.101Z</updated>
-        <content type="html"><![CDATA[[텐아시아=차혜영 기자] 정형돈이 호흡 곤란 경험을 전하며 금쪽이의 꾀병을 의심한다. 2일 방송되는 채널A ‘요즘 육아 - 금쪽같은 내새끼’에서는 지난 123회에 출연해 화제가 되었던 엄마를 잃은 4남매와 싱글 대디 이야기가 공개된다. 신애라는 “전국의 모든 시청자분들이 눈물 흘리시고 뭔가 도울 길이 없나 생각하셨다”라며 운을 띄우고, 스튜디오를 눈물바다로]]></content>
     </entry>
 </feed>

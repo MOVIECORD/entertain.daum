@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-12-01T09:13:02.074Z</updated>
+    <updated>2022-12-01T10:14:06.215Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["스며들었다" 이성경♥김영광 로맨스에 빠져버린 감독 '자신감 통제불능']]></title>
+        <id>https://v.daum.net/v/20221201183301628</id>
+        <link href="https://v.daum.net/v/20221201183301628"/>
+        <updated>2022-12-01T10:13:49.636Z</updated>
+        <content type="html"><![CDATA[[텐아시아=김지원 기자] 김영광, 이성경이 밝은 로코가 아닌 '스며드는' 사랑 이야기로 첫 호흡을 맞췄다. 디즈니플러스 '사랑이라 말해요'를 통해서다. 이광영 감독은 두 배우의 새로운 얼굴을 보게 될 것이라며 배우들을 향한 애정을 감추지 않았다. 1일 싱가포르 마리나베이샌즈 컨벤션 센터에서 전날에 이어 '디즈니 콘텐츠 쇼케이스 2022'가 열렸다. 오후]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[디즈니+, 최민식·손석구·정해인 업고 잭팟 터뜨릴까]]></title>
         <id>https://v.daum.net/v/20221201180801991</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20221201154639476"/>
         <updated>2022-12-01T07:11:57.395Z</updated>
         <content type="html"><![CDATA[디즈니+ ‘카지노’의 허성태, 강윤성 감독, 이동휘(사진=월트디즈니컴퍼니)[싱가포르=이데일리 스타in 박미애 기자] “차무식(배역) 잘 표현할 수 있는 사람 최민식 외에는 없다.” ‘카지노’의 제작진과 출연진이 한 목소리로 최민식에 대한 존경의 마음을 표현했다. 1일 싱가포르 마리나 베이 샌즈에서 ‘디즈니 콘텐츠 쇼케이스 2022’가 마련한 디즈니+ 새]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["최애민식♥"..'카지노' 강윤성 감독, 왜 최민식이어야 했나?]]></title>
-        <id>https://v.daum.net/v/20221201154248274</id>
-        <link href="https://v.daum.net/v/20221201154248274"/>
-        <updated>2022-12-01T07:11:57.397Z</updated>
-        <content type="html"><![CDATA[[OSEN=싱가포르, 하수정 기자] '범죄도시' 강윤성 감독과 최민식이 만나 어떤 작품을 내놓을까. 1일 오후(현지시간) 싱가포르 마리나 베이 샌즈(MBS) 지하 2층 메인 행사장에서는 '디즈니 아시아태평양지역(APAC) 오리지널 콘텐츠 기자간담회'가 열렸다. 이 자리에는 '카지노'의 각본과 연출을 맡은 강윤성 감독, 배우 이동휘, 허성태 등이 참석했다]]></content>
     </entry>
 </feed>
