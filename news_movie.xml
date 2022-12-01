@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2022-12-01T10:14:06.221Z</updated>
+    <updated>2022-12-01T11:11:14.254Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['하얼빈' 현빈, 자랑스러운 안중근 役…1월25일 라트비아 촬영]]></title>
+        <id>https://v.daum.net/v/20221201192720501</id>
+        <link href="https://v.daum.net/v/20221201192720501"/>
+        <updated>2022-12-01T11:10:54.469Z</updated>
+        <content type="html"><![CDATA[[OSEN=김보라 기자] 새 영화 ‘하얼빈’을 통해 역사적 위인 안중근을 연기하는 배우 현빈이 내달 25일 라트비아 촬영에 본격 들어간다. 이에 따라 설 연휴까지 국내에서 보내게 됐다. 현빈이 안중근 역할로 캐스팅 된 우민호 감독의 신작 ‘하얼빈’은 2023년 1월 25일 라트비아에서 현지 촬영을 본격 시작하는 것으로 1일 OSEN 취재 결과 확인됐다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[제임스 카메론 "'아바타' 6∙7편 계획, 그 때쯤 89세..흥행 실패하면 중단"]]></title>
         <id>https://v.daum.net/v/20221201181622249</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20221201153031605"/>
         <updated>2022-12-01T07:11:52.239Z</updated>
         <content type="html"><![CDATA[[스타뉴스 싱가포르=전형화 기자] 허성태와 강윤성 감독, 이동휘가 1일 싱가포르 마리나베이 샌즈에서 열린 '디즈니 콘텐츠 쇼케이스 2022'에 참석해 디즈니플러스 '카지노'에 대해 설명했다. 사진제공=월트디즈니컴퍼니"최민식의 복귀작, 손석구의 차기작, 그리고 저도 나옵니다." 배우 이동휘가 디즈니 플러스 시리즈 '카지노'의 매력으로 꼽은 점이다. 1일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['블랙 팬서2'도 구하지 못했다…스산했던 11월 극장가]]></title>
-        <id>https://v.daum.net/v/20221201153004555</id>
-        <link href="https://v.daum.net/v/20221201153004555"/>
-        <updated>2022-12-01T07:11:52.240Z</updated>
-        <content type="html"><![CDATA[텅 비어버린 극장가의 구원투수로 '블랙 팬서 2'가 출격했지만, 역부족이었다. 11월 전체 관객 수는 637만 6950명으로, 팬데믹 이전 2019년 11월 관객 수 1860만 679명에 비해 세 배 정도 적은 수치다. 팬데믹을 맞은 첫 해였던 2020년 11월 359만 5310명보다는 늘었지만 2021년 11월 651만 2815명보다는 줄어들었다. 202]]></content>
     </entry>
 </feed>
