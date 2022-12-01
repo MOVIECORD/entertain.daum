@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2022-12-01T16:26:09.214Z</updated>
+    <updated>2022-12-01T17:15:20.635Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['딱한번간다면' 후발대 차서원, "판타지 영화 속에 떨어진 것 같은 기분"…찐친들 무사히 만날까?]]></title>
+        <id>https://v.daum.net/v/20221202015100801</id>
+        <link href="https://v.daum.net/v/20221202015100801"/>
+        <updated>2022-12-01T17:15:15.603Z</updated>
+        <content type="html"><![CDATA[[SBS연예뉴스 | 김효정 에디터] 찐친 후발대 차서원이 호주에 도착했다. 1일 방송된 SBS '찐친 이상 출발, 딱 한 번 간다면'(이하 '딱 한 번')에서는 후발대로 찐친들을 만나러 온 차서원의 모습이 그려졌다. 이날 방송에서 찐친들은 하트섬의 아름다운 광경에 감탄했다. 그리고 낭만적인 장소에서 연애와 프러포즈에 대한 이야기들을 나눴다. 임지연은 이상이]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022 MAMA 어워즈가 남긴 것. ‘케이팝 세계 시민의식’ 내세워 공감 선사]]></title>
+        <id>https://v.daum.net/v/20221202013317767</id>
+        <link href="https://v.daum.net/v/20221202013317767"/>
+        <updated>2022-12-01T17:15:15.603Z</updated>
+        <content type="html"><![CDATA[[헤럴드경제 = 서병기 선임기자]K-POP 어워즈 ‘2022 MAMA AWARDS(2022 마마 어워즈)’가 국경, 인종, 세대를 뛰어넘어 ‘K-POP 세계시민의식’으로 하나되는 축제의 장을 만들어냈다. 지난 29~30일 일본 오사카 교세라돔에서 열린 ‘2022 MAMA AWARDS’는 최고의 아티스트가 만들어내는 아이코닉 씬(Iconic Scene)과,]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[노홍철,  월매출 5천만원→이젠 해외에서 사업추진? '도전ing']]></title>
         <id>https://v.daum.net/v/20221202010121471</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20221201234912569"/>
         <updated>2022-12-01T15:13:25.684Z</updated>
         <content type="html"><![CDATA[[OSEN=박하영 기자] 배우 공유가 자상한 면모를 드러냈다. 1일 유투브 채널 ‘매니지먼트 숲’에서는 ‘공유의 3번째 낚시 여행. 근데 이제 라면을 곁들인’이라는 제목으로 영상을 공개했다. 이날 공유는 낚시를 마친 후 스태프들과 이야기를 나눴다. 공유는 무늬오징어회를 보여주며 “오늘 잡은 무늬오징어와 한치다”라고 설명했다. 그러곤 “특별히 너희를 위해]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[지민주 누구…'월드컵★' 조규성 맞팔 열애설…"사실 아냐"]]></title>
-        <id>https://v.daum.net/v/20221201234848563</id>
-        <link href="https://v.daum.net/v/20221201234848563"/>
-        <updated>2022-12-01T15:13:25.689Z</updated>
-        <content type="html"><![CDATA[[OSEN=장우영 기자] 월드컵 스타로 떠오른 조규성과 ‘맞팔(맞팔로우)’ 했다는 점에서 열애설까지 제기됐다. 모델 지민주의 이야기로, 지민주의 소속사 측은 사생활이라 잘 모르겠다는 입장 후에 “사실이 아니다”라고 입장을 급히 바꿨다. 모델 지민주와 축구선수 조규성의 열애설이 제기됐다. 온라인 커뮤니티를 통한 열애설 의혹으로, 두 사람이 SNS를 ‘맞팔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[제이쓴, ♥홍현희 질투하겠네! "子 똥별이, 아빠 진짜 좋아해!"]]></title>
-        <id>https://v.daum.net/v/20221201233726483</id>
-        <link href="https://v.daum.net/v/20221201233726483"/>
-        <updated>2022-12-01T15:13:25.691Z</updated>
-        <content type="html"><![CDATA[[OSEN=김예솔 기자] 제이쓴이 아들 연준범군과의 일상을 공개했다.&nbsp; 1일, 제이쓴은 태명 똥별이인 아들 연준범군과 다정한 일상을 전했다.&nbsp; 공개된 영상&nbsp;속에서 제이쓴과 아들은 서로 눈을 맞추고 환한 웃음을 보이고 있다. 다정한 부자의 모습에 보는 이들 역시 기분 좋아지는 영상. 제이쓴은 "우리 벼리 아빠 진짜 진짜 좋아해"라고 글을 남겨 사랑받는 아]]></content>
     </entry>
 </feed>
