@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2022-12-01T20:12:18.199Z</updated>
+    <updated>2022-12-01T21:11:04.489Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“영원한 총각” 48살 디카프리오, 여친 없이 여성모델들과 호화 파티]]></title>
+        <id>https://v.daum.net/v/20221202060704070</id>
+        <link href="https://v.daum.net/v/20221202060704070"/>
+        <updated>2022-12-01T21:11:03.394Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]할리우드 스타 레오나르도 디카프리오(48)가 여친 지지 하디드(27)가 불참한 가운데 호화 파티를 벌였다. 페이지식스는 11월 30일(현지시간) 디카프리오가 마이애미에서 열린 '스톤 아일랜드'의 40주년 기념 파티에서 모델들에게 둘러싸여 파티를 즐겼다고 전했다. 이날 파티에는 30년 지기 친구인 토비 맥과이어와 ‘조커’ 자]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘크리스 록 폭행’ 윌 스미스 첫 공개석상, 영화 ‘해방’ 레드카펫서 아내와 밝은 미소]]></title>
         <id>https://v.daum.net/v/20221201162311151</id>
@@ -74,12 +81,5 @@
         <link href="https://v.daum.net/v/20221201061304203"/>
         <updated>2022-11-30T22:12:31.899Z</updated>
         <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]미국의 컨트리 가수 제이크 플린트가 지난 주말 갑잡스럽게 사망했다. 향년 37세. 매니저 브렌다 클라인은 지난 11월 27일(현지시간) 페이스북에 “제이크 플린트가 비극적으로 세상을 떠났다는 것을 가슴 아파하면서 깊은 슬픔에 빠져 전한다”고 썼다. 이어 “내 경력에서 내가 함께 일했던 가장 재미있고, 열심히 일하고, 헌신적]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘크리스 록 폭행’ 윌 스미스, “내 안의 분노 표출…끔찍한 밤” 눈물 흘려]]></title>
-        <id>https://v.daum.net/v/20221201060404982</id>
-        <link href="https://v.daum.net/v/20221201060404982"/>
-        <updated>2022-11-30T21:11:52.005Z</updated>
-        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]지난 3월 제94회 아카데미 시상식에서 크리스 록(57)을 폭행한 윌 스미스(54)가 후회의 눈물을 흘렸다. 그는 29일(현지시간) ‘데일리 쇼’의 트레버 노아에게 “당신이 상상할 수 있듯이 그날 밤은 끔찍했다”면서 “많은 뉘앙스와 복잡성이 있다”고 운을 뗐다. 윌 스미스는 아카데미 시상식에서 크리스 록이 아내 제이다 핀켓]]></content>
     </entry>
 </feed>

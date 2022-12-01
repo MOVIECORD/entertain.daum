@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2022-12-01T20:12:18.205Z</updated>
+    <updated>2022-12-01T21:11:04.569Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[신작 제친 ‘올빼미’ 9일째 1위‥누적 120만 돌파]]></title>
+        <id>https://v.daum.net/v/20221202052244089</id>
+        <link href="https://v.daum.net/v/20221202052244089"/>
+        <updated>2022-12-01T21:10:40.018Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 배효주 기자] '올빼미'가 120만 돌파했다. 12월 2일 영화진흥위원회 통합전산망 집계에 따르면 지난 1일 영화 '올빼미'(감독 안태진)가 8만3,231명을 모아 전체 박스오피스 정상을 지켰다. 지난달 23일 개봉한 '올빼미'의 누적 관객은 121만551명으로, 9일 연속 박스오피스 1위를 굳건히 유지 중이다. 마동석 주연 신작 '압꾸정'(감독]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["표 값 하는 영화"...주지훈X박성웅의 이유 있는 자신감, '젠틀맨']]></title>
         <id>https://v.daum.net/v/20221202000011700</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20221201154907595"/>
         <updated>2022-12-01T07:11:52.237Z</updated>
         <content type="html"><![CDATA[(서울=뉴스1) 정유진 기자 = 배우 마동석이 영화 속에서 압구정 '인싸'로 변신하기 위해 기울인 노력에 대해 밝혔다. 1일 영화 '압꾸정'(감독 임진순)의 배급사 쇼박스 측이 공개한 서면 인터뷰에 따르면 마동석은 이번 영화에 대해 "8년 전에 처음 기획을 시작해 아주 오랫동안 준비한 영화다, 드디어 관객분들께 선보이게 되어 기쁘고 감사하다"며 "범죄]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[잃어버린걸까, 버린걸까... MP3가 던진 뜻밖의 질문]]></title>
-        <id>https://v.daum.net/v/20221201153901063</id>
-        <link href="https://v.daum.net/v/20221201153901063"/>
-        <updated>2022-12-01T07:11:52.237Z</updated>
-        <content type="html"><![CDATA[[조영준 기자] ▲ &nbsp;영화 &lt;창밖은 겨울&gt; 메인포스터    ⓒ 영화사 진진  *주의! 이 기사에는 영화의 스포일러가 포함돼 있습니다. 01. 현실의 시간은 결코 뒤로 돌아서는 법이 없다. 이미 지나온 길에는 미련 따위 없다는 듯 항상 앞만 바라보고 걷는다. 지금까지 그래 왔고 앞으로도 그럴 것이다. 사람은 다르다. 잠시 멈추는 법도 없이 나아]]></content>
     </entry>
 </feed>
