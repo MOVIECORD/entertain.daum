@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-12-01T13:31:25.617Z</updated>
+    <updated>2022-12-01T14:12:47.115Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[성동일·김희원의 후배 사랑…'어하루즈' 위한 인생 조언·요리]]></title>
+        <id>https://v.daum.net/v/20221201225041092</id>
+        <link href="https://v.daum.net/v/20221201225041092"/>
+        <updated>2022-12-01T14:12:30.723Z</updated>
+        <content type="html"><![CDATA[(사진=tvN ‘바퀴 달린 집4’ 방송 캡처)[이데일리 스타in 조태영 인턴기자] ‘찐친’ 로운·김혜윤·이재욱의 옥천 고래마을 단풍숲 여행 두 번째 이야기가 펼쳐졌다. 1일 방송된 tvN ‘바퀴 달린 집4’ 8회에서는 ‘바달집’ 형님들 성동일·김희원과 드라마 ‘어쩌다 발견한 하루’(이하 ‘어하루’)를 통해 절친이 된 로운·김혜윤·이재욱의 훈훈한 우정 여행]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[혜리 “설레고 좋아해요” 고백→이준영 “불편해” 거절]]></title>
         <id>https://v.daum.net/v/20221201221919858</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20221201171022961"/>
         <updated>2022-12-01T08:16:36.708Z</updated>
         <content type="html"><![CDATA[[OSEN=싱가포르, 하수정 기자] '사랑이라 말해요' 김영광, 이성경의 로맨스 케미가 감독과 스태프까지 오해하게 만들었다. 1일 오후(현지시간) 싱가포르 마리나 베이 샌즈(MBS) 지하 2층 메인 행사장에서는 '디즈니 아시아태평양지역(APAC) 오리지널 콘텐츠 기자간담회'가 열렸다. 이날 행사에는 '사랑이라 말해요'의 주연 배우 김영광, 이성경, 이광]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[최윤제, '슈룹'→'일당백집사'까지 맹활약…연기력+비주얼 되는 기대주]]></title>
-        <id>https://v.daum.net/v/20221201170702835</id>
-        <link href="https://v.daum.net/v/20221201170702835"/>
-        <updated>2022-12-01T08:16:36.724Z</updated>
-        <content type="html"><![CDATA[[텐아시아=이준현 기자] 배우 최윤제가 '슈룹'부터 '일당백집사'까지 맹활약을 이어가고 있다. 최윤제는 지난 11월 30일 방송된 MBC 수목드라마 '일당백집사' 9회에서 죽음을 맞이하고 동주(이혜리 분)를 만난 서린의 짝사랑 태형 역으로 등장했다. 최윤제는 훤칠한 키와 훈훈한 비주얼에 서린을 괴롭히는 학생들을 제지하는 정의로운 모습으로 이목을 집중시켰다.]]></content>
     </entry>
 </feed>
