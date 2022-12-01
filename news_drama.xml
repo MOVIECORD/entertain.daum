@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-12-01T08:16:53.770Z</updated>
+    <updated>2022-12-01T09:13:02.074Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[디즈니+, 최민식·손석구·정해인 업고 잭팟 터뜨릴까]]></title>
+        <id>https://v.daum.net/v/20221201180801991</id>
+        <link href="https://v.daum.net/v/20221201180801991"/>
+        <updated>2022-12-01T09:12:46.323Z</updated>
+        <content type="html"><![CDATA[미이케 타카시 감독, 정해인, 고경표, 김혜준(사진=월트디즈니컴퍼니)[싱가포르=이데일리 스타in 박미애 기자]월트디즈니컴퍼니(이하 디즈니)가 K배우를 등에 업고 OTT콘텐츠 경쟁력을 강화한다. 디즈니는 지난 30일과 1일 이틀간 싱가포르에서 아태지역 미디어를 상대로 개최한 ‘디즈니 콘텐츠 쇼케이스’를 통해 새 라인업을 공개했다. 디즈니는 첫째 날인 30일]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[구혜선 측 "'여배우 진술서' 원본 있어…유튜버 무혐의에 항고"]]></title>
+        <id>https://v.daum.net/v/20221201173936013</id>
+        <link href="https://v.daum.net/v/20221201173936013"/>
+        <updated>2022-12-01T09:12:46.323Z</updated>
+        <content type="html"><![CDATA[사진=이데일리DB[이데일리 스타in 김가영 기자] 배우 구혜선이 지인인 여배우가 작성했다는 진술서의 위조 의혹을 제기한 유튜버의 무혐의에 항고한다. 구혜선 법률대리인 법무법인 리우는 1일 “구혜선 씨의 고소 사건 결과와 관련해 최근 오해, 억측, 2차 가해 등이 발생하고 있어 이를 바로잡고자 구혜선 씨의 입장을 밝힌다”며 “구혜선 씨가 유튜버 이진호 씨를]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["김영광·이성경, 사귀는거 아니냐 말 나와"..'사말' 감독도 의심]]></title>
         <id>https://v.daum.net/v/20221201171022961</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20221201154248274"/>
         <updated>2022-12-01T07:11:57.397Z</updated>
         <content type="html"><![CDATA[[OSEN=싱가포르, 하수정 기자] '범죄도시' 강윤성 감독과 최민식이 만나 어떤 작품을 내놓을까. 1일 오후(현지시간) 싱가포르 마리나 베이 샌즈(MBS) 지하 2층 메인 행사장에서는 '디즈니 아시아태평양지역(APAC) 오리지널 콘텐츠 기자간담회'가 열렸다. 이 자리에는 '카지노'의 각본과 연출을 맡은 강윤성 감독, 배우 이동휘, 허성태 등이 참석했다]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘묻고 시즌2로 가’ 최민식 ‘카지노’]]></title>
-        <id>https://v.daum.net/v/20221201153839047</id>
-        <link href="https://v.daum.net/v/20221201153839047"/>
-        <updated>2022-12-01T07:11:57.398Z</updated>
-        <content type="html"><![CDATA[[싱가포르=뉴스엔 허민녕 기자] 25년만에 드라마 복귀, 따라서 오래 붙잡아 둘 필요는 있었던 듯. 최민식의 안방극장 컴백작으로 화제인 글로벌 OTT 디즈니 플러스 오리지널 시리즈 ‘카지노’가 시즌2도 준비 중인 것으로 확인됐다. ‘카지노’를 쓰고 연출한 감독 강윤성은 12월1일 싱가포르 마리나베이샌즈에서 열린 ‘디즈니 콘텐트 쇼케이스 APAC 2022]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["햄버거 세트처럼"…최민식·손석구에 이동휘까지 든든한 '카지노']]></title>
-        <id>https://v.daum.net/v/20221201153101640</id>
-        <link href="https://v.daum.net/v/20221201153101640"/>
-        <updated>2022-12-01T07:11:57.399Z</updated>
-        <content type="html"><![CDATA[디즈니+ '카지노'가 배우 최민식, 손석구 등 막강한 라인업과 사실감 있는 이야기를 자신했다. 월트디즈니 컴퍼니는 1일(현지시간) 오후 싱가포르 마리나 베이 샌즈에서 디즈니+ '카지노' 기자간담회를 개최했다. 이날 현장에는 강윤성 감독과 이동휘, 허성태가 참석했다. 진행은 방송인 류시현이 맡았다. '카지노'는 돈도 빽도&nbsp;없이 필리핀에서 카지노의 전설이 된]]></content>
     </entry>
 </feed>
