@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/variety</id>
     <title>다음 연예 ─ 뉴스 ─ 예능</title>
-    <updated>2022-12-02T10:13:52.865Z</updated>
+    <updated>2022-12-02T11:08:21.795Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[빅데이터 랭킹 맛집 족발, 서울 최고 인기 족발 Top5]]></title>
+        <id>https://v.daum.net/v/20221202195701843</id>
+        <link href="https://v.daum.net/v/20221202195701843"/>
+        <updated>2022-12-02T11:08:10.544Z</updated>
+        <content type="html"><![CDATA[[텐아시아=신지원 기자] ‘생방송투데이’ 서울 최고의 인기 족발 TOP5가 눈길을 끌었다. 12월 2일 방송된 SBS ‘생방송투데이’ 속 코너 ‘빅데이터 랭킹 맛집’에서는 서울 최고의 족발 TOP5가 소개됐다. 5위는 서울시 서대문구에 위치한 맛집으로 입안 한 가득 두툼함을 선사하는 족발이 특징이였다. 또한 새콤 아삭한 콩나물 파무침과 뜨끈한 수제비가]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[첫사랑, '러브티콘'으로 데뷔 첫 1위…카라·레드벨벳·있지 컴백]]></title>
         <id>https://v.daum.net/v/20221202184824099</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20221202170158920"/>
         <updated>2022-12-02T08:14:41.409Z</updated>
         <content type="html"><![CDATA[[마이데일리 = 오윤주 기자] 스페인 합창 월드컵을 향해 달려가고 있는 SBS '싱포골드' TOP3의 주인공은 누가 될까. 오는 4일 방송되는 '싱포골드'에는 스페인 합창 월드컵에 도전할 우승자를 가릴 마지막 라운드가 펼쳐진다. 이날 방송에는 지난주에 이어 파이널 배틀의 A조 경연이 계속된다. A조에는 '모여라'로 또 한 번 전원 기립박수를 자아내며 역사]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘런닝맨’ 김종국, 가나전 응원하다 눈물→유재석 “카타르 가라”]]></title>
-        <id>https://v.daum.net/v/20221202165508757</id>
-        <link href="https://v.daum.net/v/20221202165508757"/>
-        <updated>2022-12-02T08:14:41.410Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 김명미 기자] '런닝맨' 멤버들이 과몰입 응원을 펼친다. 12월 4일 방송되는 SBS ‘런닝맨’에서는 지난달 28일에 펼쳐진 ‘2022 카타르 월드컵’ 가나전의 뜨거웠던 열기를 담은 ‘런닝맨표’ 과몰입 응원 현장이 공개된다. 그동안 ‘런닝맨’ 멤버들은 축구에 대한 사랑을 드러내며 꾸준하게 월드컵 단체 관람을 소망해 왔는데, 이에 대한 예고편이 공]]></content>
     </entry>
 </feed>
