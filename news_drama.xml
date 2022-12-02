@@ -2,11 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-12-02T09:11:50.072Z</updated>
+    <updated>2022-12-02T10:13:52.872Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA['금혼령' 박주현 "김영대-김우석과 또래, 잘 들어주고 공감해 줘"]]></title>
+        <title type="html"><![CDATA[조현영→박초롱, 만남·이별 담은 웹드라마 '러브로큰' 티저 공개]]></title>
+        <id>https://v.daum.net/v/20221202190205246</id>
+        <link href="https://v.daum.net/v/20221202190205246"/>
+        <updated>2022-12-02T10:13:37.034Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 장예솔 인턴기자) 옴니버스 멜로 웹드라마 '러브로큰'이 티저 영상을 공개했다.&nbsp; '러브로큰' 은 서로 다른 성향을 가진 다섯 커플의 짧은 만남과 이별의 순간을 그린 옴니버스 멜로 웹드라마로 여자 아이돌 출신 배우 조현영(레인보우), 박초롱(에이핑크), 윤채경(에이프릴), 정예인(러블리즈), 예량(프리티지)이 주연으로서 연기 대결을 펼치게 된다]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['금혼령' 박주현 "김영대-김우석과 또래, 잘 들어주고 공감해줘"]]></title>
         <id>https://v.daum.net/v/20221202180000287</id>
         <link href="https://v.daum.net/v/20221202180000287"/>
         <updated>2022-12-02T09:11:33.769Z</updated>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20221202134519896"/>
         <updated>2022-12-02T05:10:55.666Z</updated>
         <content type="html"><![CDATA[[OSEN=강서정 기자] KBS ‘드라마 스페셜 2022’의 세 번째 단막극 ‘프리즘’이 흔들리는 꿈과 우정, 사랑을 담은 10대들의 불완전한 이야기와 대반전 엔딩으로 안방극장을 충격에 빠뜨렸다.&nbsp; 지난 1일 방송된 KBS 2TV ‘드라마 스페셜 2022’ 세 번째 단막극 ‘프리즘(연출 이대경 ,극본 위재화)’에서는 부상에서 돌아온 날개 꺾인 백조 최낙]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[팔로알토 ‘소방서 옆 경찰서’ OST 불렀다]]></title>
-        <id>https://v.daum.net/v/20221202134011780</id>
-        <link href="https://v.daum.net/v/20221202134011780"/>
-        <updated>2022-12-02T05:10:55.666Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 박아름 기자] 팔로알토가 ‘소방서 옆 경찰서’ 네 번째 OST 주자로 나선다. 다날엔터테인먼트 측에 따르면 12월 2일 오후 6시 각종 온라인 음원사이트를 통해 가수 팔로알토가 참여한 SBS 금토드라마 ‘소방서 옆 경찰서’ OST Part.4 ‘구해(Rescue)’가 공개된다. ‘구해(Rescue)’는 힙합 장르로, 음악의 시작을 알리는 브라스]]></content>
     </entry>
 </feed>
