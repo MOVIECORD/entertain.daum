@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-12-02T12:21:35.540Z</updated>
+    <updated>2022-12-02T13:19:22.421Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[손호준, 위험 무릅쓰고 화재 진압]]></title>
+        <id>https://v.daum.net/v/20221202221002424</id>
+        <link href="https://v.daum.net/v/20221202221002424"/>
+        <updated>2022-12-02T13:19:07.377Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 오수정 기자) '소방서 옆 경찰서'에서 손호준이 위험을 무릅쓰고 화재 진압에 나섰다.&nbsp; 2일 방송된 SBS 금토드라마 '소방서 옆 경찰서' 6회에서는 컨테이너 함바집 화재조사를 벌이는 진호개(김래원 분)의 모습이 그려졌다.&nbsp; 이날 봉도진(손호준)은 화재 신고를 받고 소방 대원들과 함께 컨테이너 함바집으로 향했다.&nbsp; 불길은 쉽게 잡히지 않았다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AI 앵커부터 음성기자…아리랑TV, MAX프로젝트 시연회]]></title>
         <id>https://v.daum.net/v/20221202211557922</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20221202171701309"/>
         <updated>2022-12-02T09:11:33.778Z</updated>
         <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]KBS ‘드라마 스페셜 2022’의 세 번째 단막극 ‘프리즘’이 흔들리는 꿈과 우정, 사랑을 담은 10대들의 불완전한 이야기와 대반전 엔딩으로 안방극장을 충격에 빠뜨렸다. 어제(1일) 방송된 KBS 2TV ‘드라마 스페셜 2022’ 세 번째 단막극 ‘프리즘(연출 이대경 / 극본 위재화)’에서는 부상에서 돌아온 날개 꺾인 백조]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이보영 '대행사', JTBC '재벌집' 후속 확정…내년 1월 7일 첫방]]></title>
-        <id>https://v.daum.net/v/20221202164951654</id>
-        <link href="https://v.daum.net/v/20221202164951654"/>
-        <updated>2022-12-02T08:14:36.281Z</updated>
-        <content type="html"><![CDATA[[이데일리 스타in 김보영 기자] JTBC 드라마 ‘재벌집 막내아들’의 후속작으로 이보영 주연의 ‘대행사’가 확정됐다. ‘대행사’가 JTBC 새 토일드라마로 2023년 1월 7일(토) 오후 10시 30분 첫 방송을 확정 지었다. 이에 오늘(2일) 그 시작을 알리는 1차 티저 영상을 전격 공개했다. JTBC 새 토일드라마 ‘대행사’(연출 이창민 / 극본]]></content>
     </entry>
 </feed>
