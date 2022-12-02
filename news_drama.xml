@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-12-02T02:20:14.333Z</updated>
+    <updated>2022-12-02T03:17:04.156Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[아티스트컴퍼니 "신예 유정후, 임성한 신작 '선녀 두리안' 논의 중"]]></title>
+        <id>https://v.daum.net/v/20221202120418074</id>
+        <link href="https://v.daum.net/v/20221202120418074"/>
+        <updated>2022-12-02T03:16:49.625Z</updated>
+        <content type="html"><![CDATA[[OSEN=연휘선 기자] 배우 유정후가 임성한 작가의 신작 '선녀 두리안' 출연을 논의 중이다.&nbsp; 2일 소속사 아티스트컴퍼니 관계자는 OSEN에 "유정후 배우가 감사하게도 '선녀 두리안' 제작진으로부터 섭외&nbsp;제안을 받은 게 맞다. 현재 출연을 논의 중이다"라고 공식입장을 밝혔다.&nbsp; '선녀 두리안'은 '결혼작사 이혼작곡' 일명 '결사곡' 시리즈를 성공시킨]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘커튼콜’ 강하늘, 실제인지 연기인지 구분 안 될 찐 손주 모멘트]]></title>
+        <id>https://v.daum.net/v/20221202120349063</id>
+        <link href="https://v.daum.net/v/20221202120349063"/>
+        <updated>2022-12-02T03:16:49.630Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 박수인 기자] '커튼콜' 8회 비하인드 영상이 공개됐다. 지난 11월 29일 공개된 KBS 2TV 월화드라마 ‘커튼콜’(연출 윤상호/극본 조성걸/제작 빅토리콘텐츠) 8회 방송은 가짜 손자를 연기 중인 유재헌(강하늘 분)이 호텔 낙원의 막내 손녀 박세연(하지원 분)으로부터 정체가 발각된 회차로 충격과 공포를 동시에 안기는 소름 엔딩으로 화제를 모은]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[아이칠린 지윤, 설현X임시완 '아하아'로 첫 OST 도전..'난 기다릴게요' 오늘 발매]]></title>
         <id>https://v.daum.net/v/20221202111225401</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20221202095236040"/>
         <updated>2022-12-02T00:56:46.871Z</updated>
         <content type="html"><![CDATA[(엑스포츠뉴스 오승현 인턴기자) '술꾼도시여자들2' 이선빈, 한선화, 정은지가 케미 가득한 촬영 비하인드를 전했다. 9일 첫 공개되는 티빙 오리지널 '술꾼도시여자들2'(극본 위소영, 연출 박수원/이하 '술도녀2')의 주연 이선빈(안소희 역), 한선화(한지연), 정은지(강지구)가 촬영 에피소드와 연기 호흡 점수를 공개했다. '술도녀'에서 이선빈, 한선화, 정]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘빨간풍선’ 이성재 이상우 윤주상, 제사상 뒤엎어질 뻔한 이유]]></title>
-        <id>https://v.daum.net/v/20221202095000943</id>
-        <link href="https://v.daum.net/v/20221202095000943"/>
-        <updated>2022-12-02T00:56:46.871Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 박수인 기자] '빨간 풍선' 혼란의 제삿날이 포착됐다. 오는 12월 17일 첫 방송되는 TV CHOSUN 새 주말미니시리즈 ‘빨간 풍선’(극본 문영남/연출 진형욱/제작 초록뱀 미디어, 하이그라운드)에서 이성재-이상우-윤주상은 각각 없는 집 장남으로 태어나 데릴사위로 처절한 처월드에 입성한 고물상(윤주상)의 사위 지남철 역, 출중한 외모와 선한 마]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘재벌집 막내아들’ 송중기, “할아버지, 돈에도 도의는 필요합니다”]]></title>
-        <id>https://v.daum.net/v/20221202094802870</id>
-        <link href="https://v.daum.net/v/20221202094802870"/>
-        <updated>2022-12-02T00:56:46.872Z</updated>
-        <content type="html"><![CDATA[[OSEN=김재동 객원기자]&nbsp;‘정도경영(正道經營)’ JTBC 금토일드라마 ‘재벌집 막내아들’의 배경이 되는 순양그룹의 모토이자 윤현우 시절 송중기의 롤모델인 창업주 진양철(이성민 분)회장의 경영철학이다. 고졸출신 흙수저로 순양그룹의 오너일가를 관리하는 미래자산 관리팀 팀장 윤현우가 순양가에 충성한 데에는 이같은 창업정신에 대한 공감도 한 몫했다. 4-2]]></content>
     </entry>
 </feed>
