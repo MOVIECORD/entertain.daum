@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2022-12-03T17:10:02.665Z</updated>
+    <updated>2022-12-03T18:14:33.145Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['연매살', 나영석 PD 섭외 가능했던 이유…"이서진 요청"]]></title>
+        <id>https://v.daum.net/v/20221204030015920</id>
+        <link href="https://v.daum.net/v/20221204030015920"/>
+        <updated>2022-12-03T18:14:26.616Z</updated>
+        <content type="html"><![CDATA[[서울=뉴시스]송윤세 기자 = tvN '연예인 매니저로 살아남기' 제작진이 나영석 PD를 섭외한 비하인드를 밝혔다. 지난 3일 제작진은 매회 화제를 일으켰던 화려한 배우들이 드라마 에피소드 주인공으로 출연한 비결을 공개했다. 이 드라마에선 실제 스타 배우들이 자신의 실명 그대로 출연, 실제와 허구 사이를 묘하게 줄타기한다. 지금까지 배우 조여정, 진선]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[故 염동헌, 투병 중 별세..김선아⋅윤세아 추모 "편히 잠드소서"]]></title>
         <id>https://v.daum.net/v/20221204004019542</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20221203232812236"/>
         <updated>2022-12-03T15:12:13.404Z</updated>
         <content type="html"><![CDATA[[스포츠투데이 백지연 기자] '재벌집 막내아들' 송중기가 김도현에게 자신의 계획을 들려줬다. 3일 밤 방송된 JTBC 금토일드라마 '재벌집 막내아들'(극본 김태희·연출 정대윤)에서는 진도준(송중기)이 최창제(김도현)를 대통령으로 만들 거라고 알렸다. 이날 방송에서 최창제와 오세현(박혁권)은 진도준 덕에 위기를 넘기는 데 성공했다. 이에 최창제는 진도준에]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘슈룹’ 강찬희, 김해숙 사주에 친부 김재범 죽였다]]></title>
-        <id>https://v.daum.net/v/20221203231801214</id>
-        <link href="https://v.daum.net/v/20221203231801214"/>
-        <updated>2022-12-03T15:12:13.406Z</updated>
-        <content type="html"><![CDATA[강찬희가 친부인 김재범을 자신의 손으로 죽였다. 3일 방송된 tvN ‘슈룹’에서 중전(김혜수)은 태인세자의 검안서를 찾고 있는 이익현(김재범) 앞에 나타났다. 중전은 이익현에게 “의관이 된 것도, 이 궁에 들어온 것도, 그 모든 것이 결국 복수를 위함이더냐”고 물었다. 이익현은 “처음부터 복수를 하려던 건 아니었다. 시작은 내 형님이 어떻게 죽었는지 밝히기]]></content>
     </entry>
 </feed>
