@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2022-12-03T22:10:54.511Z</updated>
+    <updated>2022-12-03T23:11:43.395Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['올빼미' 11일 연속 1위…150만 관객 돌파]]></title>
+        <id>https://v.daum.net/v/20221204080835874</id>
+        <link href="https://v.daum.net/v/20221204080835874"/>
+        <updated>2022-12-03T23:11:22.370Z</updated>
+        <content type="html"><![CDATA[(서울=뉴스1) 안태현 기자 = 영화 '올빼미'(감독 안태진)가 11일 연속 박스오피스 정상에 올랐다. 4일 영화진흥위원회 영화관 입장권 통합전산망 집계에 따르면 '올빼미'는 지난 3일 하루동안 23만5140명의 관객을 동원하면서 박스오피스 1위를 차지했다. 누적관객수는 154만1540명이다. 지난달 23일 개봉한 '올빼미'는 이로써 11일째 박스오피스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['올빼미' 11일 연속 1위…154만 동원]]></title>
+        <id>https://v.daum.net/v/20221204074754707</id>
+        <link href="https://v.daum.net/v/20221204074754707"/>
+        <updated>2022-12-03T23:11:22.371Z</updated>
+        <content type="html"><![CDATA[[OSEN=김보라 기자]&nbsp;영화 ‘올빼미’가 개봉 후 11일째 1위를 차지했다. 4일 영화진흥위원회 영화관입장권 통합전산망 집계를 보면 전날(3일) ‘올빼미’는 23만 5140명을 동원해 일별 박스오피스 1위에 올랐다. 지난달 23일부터 상영을 시작해 11일 동안 1위를 지킨 것이다. ‘올빼미’(감독 안태진, 제공배급 NEW, 제작 씨제스엔터테인먼트·영화]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['아바타2'·'영웅' 온다…12월 대작에 기대건 극장가]]></title>
         <id>https://v.daum.net/v/20221204070035383</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20221203112450081"/>
         <updated>2022-12-03T03:12:50.242Z</updated>
         <content type="html"><![CDATA[[OSEN=하수정 기자] 전 세계가 기다려온 로봇 군단의 화려한 귀환 '트랜스포머: 비스트의 서막'이 2023년 6월 개봉을 확정 짓고 1차 포스터와 예고편을 공개했다. 2007년 획기적인 캐릭터, 차원이 다른 액션과 볼거리로 전 세계 극장가를 강타하며 시리즈의 성공적인 신호탄을 쏘아 올린 데 이어 매 작품마다 세계적인 신드롬과 흥행 돌풍을 일으켰던 ']]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[극장서 배우 연기력보단 줄거리 보는 세대]]></title>
-        <id>https://v.daum.net/v/20221203110035881</id>
-        <link href="https://v.daum.net/v/20221203110035881"/>
-        <updated>2022-12-03T02:09:39.145Z</updated>
-        <content type="html"><![CDATA[올해 '외계+인'과 '비상선언'의 흥행 실패는 더 이상 배우들의 이름값에 작품이 기댈 수 없다는 걸 확인 시켜줬다. 하지만 흥행 실패가 배우들만의 탓으로도 돌릴 수 없다. 팬데믹 이후 진입장벽이 높아진 극장가는 회복이 쉽사리 이뤄지지 않고 있으며 콘텐츠 소비습관들도 바뀌고 있다. 영화 제작진이 OTT로 넘어가면서 영화와 드라마 시리즈 콘텐츠의 완성도 차이도]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[봉준호 감독의 애니메이션 꿈]]></title>
-        <id>https://v.daum.net/v/20221203094741140</id>
-        <link href="https://v.daum.net/v/20221203094741140"/>
-        <updated>2022-12-03T00:53:49.937Z</updated>
-        <content type="html"><![CDATA[[곽명동의 씨네톡] 그것이 꿈이든, 연인이든 첫사랑의 추억은 날카롭다. 인생의 한 축을 뒤흔드는 사건이었을테니까. 누구에게나 “평생을 좌우할 한 순간”이 있다. 그 순간을 지나면 과거로 되돌아갈 수 없다. 새로운 세상이 펼쳐지고, 경험하지 못한 인생이 열린다. 누구는 가는 길에 힘든 일을 겪으며 포기하겠지만, 또 다른 누군가는 강을 건너고 산을 넘어 끝내]]></content>
     </entry>
 </feed>
