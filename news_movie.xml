@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2022-12-03T00:54:12.241Z</updated>
+    <updated>2022-12-03T02:09:58.993Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[극장서 배우 연기력보단 줄거리 보는 세대]]></title>
+        <id>https://v.daum.net/v/20221203110035881</id>
+        <link href="https://v.daum.net/v/20221203110035881"/>
+        <updated>2022-12-03T02:09:39.145Z</updated>
+        <content type="html"><![CDATA[올해 '외계+인'과 '비상선언'의 흥행 실패는 더 이상 배우들의 이름값에 작품이 기댈 수 없다는 걸 확인 시켜줬다. 하지만 흥행 실패가 배우들만의 탓으로도 돌릴 수 없다. 팬데믹 이후 진입장벽이 높아진 극장가는 회복이 쉽사리 이뤄지지 않고 있으며 콘텐츠 소비습관들도 바뀌고 있다. 영화 제작진이 OTT로 넘어가면서 영화와 드라마 시리즈 콘텐츠의 완성도 차이도]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[봉준호 감독의 애니메이션 꿈]]></title>
         <id>https://v.daum.net/v/20221203094741140</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20221202180335407"/>
         <updated>2022-12-02T09:11:28.661Z</updated>
         <content type="html"><![CDATA[[SBS 연예뉴스 | 김지혜 기자] "기괴한 멜로드라마를 만들고 싶었다. 또한 소통하고 싶고 내 마음을 알아주는 사람을 찾아가는 과정을 담았다" '썸바디'를 만든 정지우 감독의 변이다. 지난달 18일 넷플릭스를 통해 공개된 '썸바디'는 시청자들의 격렬한 저항과 부딪히고 있다. '무슨 이야기를 하려고 하는지 모르겠다', '관계 묘사가 너무 극단적이고 불편하다]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[일본 자동차 산업을 흔든 외국인, 그가 도망간 까닭]]></title>
-        <id>https://v.daum.net/v/20221202180000288</id>
-        <link href="https://v.daum.net/v/20221202180000288"/>
-        <updated>2022-12-02T09:11:28.661Z</updated>
-        <content type="html"><![CDATA[[김형욱 기자] ▲ &nbsp;넷플릭스 오리지널 다큐멘터리 &lt;도망자&gt; 포스터.    ⓒ 넷플릭스  &nbsp; 2019년 마지막 날, 레바논에서 믿기 힘든 상황이 연출된다. 르노, 닛산, 미쓰비시 3사의 전 회장 '카를로스 곤'이 일본에서 탈출해 레바논에 와 있다는 것이었다. 그는 직접 성명을 냈다. 유죄가 전제되고 차별이 만연하고 기본적 인권이 무시되는 일본]]></content>
     </entry>
 </feed>
