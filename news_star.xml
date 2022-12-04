@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2022-12-04T17:11:22.652Z</updated>
+    <updated>2022-12-04T18:14:15.577Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['런닝맨' 전소민, "연애할 때 버스 타는 것 좋아"…'행운의 숫자 레이스' 시작]]></title>
+        <id>https://v.daum.net/v/20221205030000438</id>
+        <link href="https://v.daum.net/v/20221205030000438"/>
+        <updated>2022-12-04T18:14:09.792Z</updated>
+        <content type="html"><![CDATA[[SBS연예뉴스 | 김효정 에디터] 행운의 숫자는 누구의 편? 4일 방송된 SBS '런닝맨'에서는 행운의 숫자 레이스가 펼쳐졌다. 이날 방송에서 멤버들은 월드컵 가나전을 단체 시청했다. 두 손을 꼭 쥐고 기도하며 시청을 했지만 결과는 아쉽게도 패배. 그럼에도 멤버들은 16강 진출에 대한 희망을 버리지 않았고 실제로 우리 대표팀은 포르투갈을 꺾고 16강 진출]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['미우새' 조영남, 이효춘에 "사귀다가 졸혼하자"…이효춘, "남자 씨가 말라도 안 돼"]]></title>
         <id>https://v.daum.net/v/20221205002400541</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20221204230305041"/>
         <updated>2022-12-04T14:10:13.419Z</updated>
         <content type="html"><![CDATA[(서울=뉴스1) 이아영 기자 = '재벌집 막내아들' 송중기가 이병준과 손을 잡고 순양을 견제했다. 4일 방송된 JTBC 금토일드라마 '재벌집 막내아들'(극본 김태희, 장은재/연출 정대윤, 김상호)에서는 진도준(송중기 분)이 멋진 반격에 성공했다. 진도준은 진성준(김남희 분)을 찾아갔다. 진성준은 미라클이 DMC 사업을 포기할 거라 생각하고 "끝이 정해진]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[송은이, '레전드 하객룩' 비하인드 "쌍꺼풀 수술 후 부기 덜 빠진 상태"]]></title>
-        <id>https://v.daum.net/v/20221204225933024</id>
-        <link href="https://v.daum.net/v/20221204225933024"/>
-        <updated>2022-12-04T14:10:13.420Z</updated>
-        <content type="html"><![CDATA[[스포츠조선 조윤선 기자] 송은이가 '레전드 하객룩'의 비하인드 스토리를 공개했다. 4일 방송된 SBS '미운 우리 새끼'에는 스페셜 MC로 송은이가 출연했다. 이날 '미우새 왕대장'으로 불린 송은이는 "남자한테 아예 관심이 없는 거냐"는 질문에 "그렇지는 않다. 근데 그 부분에 있어서 기능이 떨어진다"고 답했다. 이어 "안 믿으시겠지만 몇]]></content>
     </entry>
 </feed>
