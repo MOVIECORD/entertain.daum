@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2022-12-04T00:57:22.323Z</updated>
+    <updated>2022-12-04T02:18:20.213Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['子이태성'보다 잘나가는 박영혜 감독 '짜장면 고맙습니다' 총 53관왕]]></title>
+        <id>https://v.daum.net/v/20221204102753595</id>
+        <link href="https://v.daum.net/v/20221204102753595"/>
+        <updated>2022-12-04T02:17:55.447Z</updated>
+        <content type="html"><![CDATA[[OSEN=김보라 기자] '짜장면 고맙습니다'가 제2회 일본 도쿄영화상에서 3개 부문을 수상하면서 현재까지 '53관왕'을 달성했다. 단편영화 '짜장면 고맙습니다'(제작 라이트픽처스)를 연출한 신성훈 감독과 박영혜 감독은 지난 3일 일본 도쿄 이케부크로에 위치한 씨네마 로사극장에서 열린 제2회 일본 도쿄영화상에서 베스트 드라마상, 베스트 디렉터상, 베스트]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['올빼미' 11일 연속 1위…150만 관객 돌파]]></title>
         <id>https://v.daum.net/v/20221204080835874</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20221203133757944"/>
         <updated>2022-12-03T05:10:26.552Z</updated>
         <content type="html"><![CDATA[[스타뉴스 이경호 기자] 배우 고(故) 염동헌./사진=스타빌리지엔터테인먼트"연기를 사랑하고 열정적이었던 염동헌" 배우 염동헌이 세상을 떠났다. 3일 스타빌리지엔터테인먼트는 공식입장을 통해 "배우 염동헌씨가 2022년 12월 2일 밤 11시 50분경 향년 55세의 나이로 별세하셨습니다"고 밝혔다. 이와 함께 "스타빌리지엔터테인먼트는 연기를 사랑하고 열]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['트랜스포머: 비스트의 서막' 내년 6월 개봉 확정..예고편 최초 공개]]></title>
-        <id>https://v.daum.net/v/20221203112450081</id>
-        <link href="https://v.daum.net/v/20221203112450081"/>
-        <updated>2022-12-03T03:12:50.242Z</updated>
-        <content type="html"><![CDATA[[OSEN=하수정 기자] 전 세계가 기다려온 로봇 군단의 화려한 귀환 '트랜스포머: 비스트의 서막'이 2023년 6월 개봉을 확정 짓고 1차 포스터와 예고편을 공개했다. 2007년 획기적인 캐릭터, 차원이 다른 액션과 볼거리로 전 세계 극장가를 강타하며 시리즈의 성공적인 신호탄을 쏘아 올린 데 이어 매 작품마다 세계적인 신드롬과 흥행 돌풍을 일으켰던 ']]></content>
     </entry>
 </feed>
