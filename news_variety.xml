@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/variety</id>
     <title>다음 연예 ─ 뉴스 ─ 예능</title>
-    <updated>2022-12-04T03:13:26.207Z</updated>
+    <updated>2022-12-04T04:14:06.965Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['싱포골드' 한가인, 'Pride of Korea' 무대 극찬 "국뽕 차오른다"]]></title>
+        <id>https://v.daum.net/v/20221204131217570</id>
+        <link href="https://v.daum.net/v/20221204131217570"/>
+        <updated>2022-12-04T04:13:56.387Z</updated>
+        <content type="html"><![CDATA[[OSEN=장우영 기자] ‘싱포골드’ 한가인의 마음 속에 ‘국뽕’이 차오른다. 4일 저녁 6시 30분 방송되는 SBS ‘싱포골드’에는 파이널 배틀 B조 경연이 펼쳐진다. 파이널 배틀 B조에는 하모나이즈, 이퀄, 바르카롤레, 리하모니, 디어뮤즈가 속했다. 세계 챔피언 하모나이즈는 퍼포먼스 합창이 표현할 수 있는 끝을 보여주겠다는 각오를 내비쳐 경쟁 팀들을]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[오은영 "본인 결핍을 아이에게"..율희, 자녀 교육비 800만원? ♥최민환과 갈등 '눈물']]></title>
         <id>https://v.daum.net/v/20221204120854081</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20221204101510444"/>
         <updated>2022-12-04T02:18:07.235Z</updated>
         <content type="html"><![CDATA[[스타뉴스 윤상근 기자] /사진제공=SBS '런닝맨'이  예능 프로그램 브랜드평판 2022년 12월 빅데이터 분석결과 1위에 올랐다. 한국기업평판연구소는 2022년 11월 4일부터 2022년 12월 4일까지 국민들에게 사랑받는 예능프로그램 50개의 브랜드 빅데이터 103,595,020개를 분석, 소비자들의 브랜드 참여와 소통량, 미디어소비, 브랜드 확산]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[탁재훈 막말? 100억 연봉 이지영에 “남자 좋아하게 생겼다”]]></title>
-        <id>https://v.daum.net/v/20221204101419429</id>
-        <link href="https://v.daum.net/v/20221204101419429"/>
-        <updated>2022-12-04T02:18:07.235Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 김명미 기자] 방송인 탁재훈이 일타강사 이지영에게 "남자를 좋아하게 생겼다"고 말했다. 12월 1일 유튜브 채널 '노빠꾸 탁재훈'에는 '100억대 연봉 일타강사 이지영에게 플러팅 갈긴 탁재훈'이라는 제목의 영상이 업로드됐다. 이날 탁재훈은 이지영에게 "어떻게 이렇게 일만 하냐"고 질문했다. 이에 이지영은 "그래서 이제 비혼주의로 살기로 했다"고]]></content>
     </entry>
 </feed>
