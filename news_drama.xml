@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-12-06T10:12:54.028Z</updated>
+    <updated>2022-12-06T11:10:18.936Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['썸바디' 강해림, 캐릭터와 배우가 일치했을 때]]></title>
+        <id>https://v.daum.net/v/20221206193033245</id>
+        <link href="https://v.daum.net/v/20221206193033245"/>
+        <updated>2022-12-06T11:10:02.203Z</updated>
+        <content type="html"><![CDATA[[서울경제] 배우 강해림을 실제로 만난다면 깜짝 놀랄 것이다. ‘썸바디’ 속 김섬이 그대로 튀어나온 듯하다. 쉽게 감정을 읽을 수 없는 딱딱한 말투, 무표정일 때와 극명하게 대비되는 싱그러운 미소. 만들어낸 것이 아닌 강해림의 진짜 모습이다. 자신을 투영한 캐릭터를 만나 날개를 단 신예의 이야기가 시작됐다. 강해림의 첫 주연작인 넷플릭스 오리지널 ‘썸바디]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이선빈 "현타 오는 신들 많았다"…다 내려놓은 '술도녀2']]></title>
+        <id>https://v.daum.net/v/20221206193002238</id>
+        <link href="https://v.daum.net/v/20221206193002238"/>
+        <updated>2022-12-06T11:10:02.205Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 최희재 기자) '술도녀2' 이선빈, 한선화, 정은지가 모든 걸 내려놨다고 전했다. 티빙 '술꾼도시여자들2'(이하 '술도녀2')는 6일 오후, 온라인을 통해 제작발표회를 진행했다. 자리에는 연출을 맡은 박수원 감독과 배우 이선빈, 한선화, 정은지, 최시원이 함께했다. '술도녀2'는 하루 끝의 술 한 잔이 인생의 신념인 세 여자의 일상을 그린 본]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['약한영웅' 최현욱의 치열한 성장은 낭만이 된다]]></title>
         <id>https://v.daum.net/v/20221206184238556</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20221206164112064"/>
         <updated>2022-12-06T08:15:11.191Z</updated>
         <content type="html"><![CDATA[[OSEN=장우영 기자] ‘커튼콜’ 할머니 고두심과 진짜 손자 노상현이 드디어 한자리에서 만난다. 6일 밤 9시 50분 방송되는 KBS2 월화드라마 ‘커튼콜’(극본 조성걸, 연출 윤상호, 제작 빅토리콘텐츠) 10회에서는 호텔 낙원의 창립자 자금순(고두심)과 북에서 온 진짜 손자 리문성(노상현)의 극적 상봉이 이뤄진다. 앞서 자금순은 전쟁 이후 남쪽으로]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[조승연→서재규, 조용히 판 흔든다…급상승 5인방 활약 예고]]></title>
-        <id>https://v.daum.net/v/20221206163202733</id>
-        <link href="https://v.daum.net/v/20221206163202733"/>
-        <updated>2022-12-06T08:15:11.193Z</updated>
-        <content type="html"><![CDATA[[텐아시아=차혜영 기자] ‘소방서 옆 경찰서’ 조승연, 서현철, 우미화, 손지윤, 서재규가 판을 뒤흔든다. SBS 금토 드라마 ‘소방서 옆 경찰서’는 범인 잡는 ‘경찰’과 화재 잡는 ‘소방’의 ‘공동대응’ 현장일지를 담은 드라마이다. 스피드한 전개가 돋보이는 강렬한 사건의 향연으로 ‘참 트루 대 유잼 드라마’라는 찬사를 받고 있다. 특히 지난 7회에서는]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['금혼령' 박주현, 발칙한 궁궐 사기극..김영대・김우석과 꿀조합]]></title>
-        <id>https://v.daum.net/v/20221206161408095</id>
-        <link href="https://v.daum.net/v/20221206161408095"/>
-        <updated>2022-12-06T08:15:11.194Z</updated>
-        <content type="html"><![CDATA[[OSEN=박판석 기자]&nbsp;‘금혼령, 조선 혼인 금지령’이 전무후무한 청춘 로맨스를 예고하며 기대감을 끌어올리고 있다. 오는 9일(금) 첫 방송 예정인 MBC 새 금토드라마 ‘금혼령, 조선 혼인 금지령’(연출 박상우, 정훈/ 극본 천지혜/ 제작 본팩토리, 이하 ‘금혼령’)은 박주현을 비롯 김영대, 김우석 등 안방극장을 사로잡을 청춘 배우들의 호연과 ‘금혼]]></content>
     </entry>
 </feed>
