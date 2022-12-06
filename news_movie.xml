@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2022-12-06T09:11:48.828Z</updated>
+    <updated>2022-12-06T10:12:54.025Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["8년 만에 복귀"…윤제균 감독 '영웅', 2022 연말 흥행 마지막 주자 될까]]></title>
+        <id>https://v.daum.net/v/20221206184918671</id>
+        <link href="https://v.daum.net/v/20221206184918671"/>
+        <updated>2022-12-06T10:12:30.512Z</updated>
+        <content type="html"><![CDATA[[OSEN=김보라 기자]&nbsp;윤제균 감독이 8년 만의 연출작 ‘영웅’으로 이달 스크린 컴백한다. 지난 2014년 개봉해 1426만여 관객들을 불러모은 ‘국제시장’ 이후 8년 만의 연출 차기작이다. 그간 ‘히말라야’(2015), ‘그것만이 내 세상’(2018), ‘담보’(2020), ‘공조’ 시리즈(2017~2022) 등의 영화 제작에 참여하며 흥행기록을 세]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["매우 기쁘다" 이승기, 후크와 갈등 속 공예 홍보 나섰다]]></title>
         <id>https://v.daum.net/v/20221206175902501</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20221206142902999"/>
         <updated>2022-12-06T06:14:50.699Z</updated>
         <content type="html"><![CDATA[[텐아시아=강민경 기자] 배우 류준열과 안태진 감독이 함께하는 영화 '올빼미' GV가 개최된다. 6일 배급사 NEW에 따르면 오는 9일 오후 7시 30분 CGV용산아이파크몰에서 '올빼미' GV가 열린다. '올빼미' GV는 장성란 영화 저널리스트의 진행하에 영화를 연출한 안태진 감독과 진실에 눈 뜬 맹인 침술사 경수를 연기한 류준열이 직접 참여해 영화에]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[디지털로 돌아온 전설의 단편영화··· “초심을 다시 볼 수 있었다”]]></title>
-        <id>https://v.daum.net/v/20221206141530456</id>
-        <link href="https://v.daum.net/v/20221206141530456"/>
-        <updated>2022-12-06T06:14:50.699Z</updated>
-        <content type="html"><![CDATA[[서울경제] “‘시인 구보씨의 하루’가 벌써 30년이 훨씬 넘은 영화예요. 기억을 더듬고 싶지는 않았던 영화인데, 상영된 덕분에 소환돼 나왔습니다. 지금 보니까 여러 감정이 드는데, 20대 후반에 영화를 처음 접하던 초심이 느껴지는 기분이었습니다.” 지난 5일 서울 강남구 CGV압구정, 유하 감독은 자신이 1990년에 만든 단편 ‘시인 구보씨의 하루’를]]></content>
     </entry>
 </feed>
