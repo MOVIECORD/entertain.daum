@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/variety</id>
     <title>다음 연예 ─ 뉴스 ─ 예능</title>
-    <updated>2022-12-06T03:13:36.034Z</updated>
+    <updated>2022-12-06T04:14:03.465Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[다나카 “샤기컷 헤어스타일? 안재욱 참고했다”]]></title>
+        <id>https://v.daum.net/v/20221206130631652</id>
+        <link href="https://v.daum.net/v/20221206130631652"/>
+        <updated>2022-12-06T04:13:51.681Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 박아름 기자] 유튜브 스타 다나카가 안재욱 헤어스타일을 참고했다고 고백한다. 12월 7일 방송되는 MBC ‘라디오스타’(기이하 라스)에는 안재욱, 신성우, 윤병희, 다나카(본명 김경욱)가 출연한다. 다나카는 트레이드마크인 일본어 억양이 섞인 서툰 한국어 발음과 중독성 강한 세기말 Y2K 패션으로 화제를 모으고 있다. ‘라스’를 처음 찾은 다나카]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["고개 들어요. 멋졌습니다"...제이홉→지드래곤, 태극전사 향한 격려]]></title>
+        <id>https://v.daum.net/v/20221206125004390</id>
+        <link href="https://v.daum.net/v/20221206125004390"/>
+        <updated>2022-12-06T04:13:51.681Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 이예진 기자) 그룹 방탄소년단 제이홉부터 지드래곤까지, 2022 카타르 월드컵에서 최선을 다한 대한민국 축구 대표팀을 격려했다. 한국 축구 대표팀이 6일(한국시간) 카타르 도하 스타디움 974에서 열린 브라질과의 2022 카타르 월드컵 16강 맞대결에서 1-4로 패배했으며 16강에서 탈락, 월드컵 여정을 마무리했다.&nbsp; 한국 대표팀은 2022]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[나비 “16강으로 훌륭‥태극전사들 덕분에 겨울 따뜻해져”]]></title>
         <id>https://v.daum.net/v/20221206121020942</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20221206113002496"/>
         <updated>2022-12-06T03:13:26.217Z</updated>
         <content type="html"><![CDATA[[OSEN=장우영 기자] 가수 츄가 ‘좋아하면 울리는 짝!짝!짝!’ MC로 나서는 소감을 전했다. 웨이브(Wavve)와 카카오엔터테인먼트가 손잡은 ‘좋아하면 울리는 짝!짝!짝!’(이하 ‘좋알람’)이 오는 9일 첫 공개되는 가운데, MC 진영X이은지X츄의 인터뷰가 공개돼 본방송에 대한 관심을 끌어올린다. ‘좋아하면 울리는 짝!짝!짝!’은 천계영 작가가 카]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[고3 임신시킨 30대 남편 “처가살이 힘들어”…장인어른과 1대1 면담]]></title>
-        <id>https://v.daum.net/v/20221206112201158</id>
-        <link href="https://v.daum.net/v/20221206112201158"/>
-        <updated>2022-12-06T03:13:26.220Z</updated>
-        <content type="html"><![CDATA[[OSEN=김나연 기자]&nbsp;MBN ‘어른들은 모르는 고딩엄빠2’(이하&nbsp;‘고딩엄빠2’)에 출연하는&nbsp;11세 연상 남편이 장인어른과의&nbsp;1대1&nbsp;면담을 통해&nbsp;‘처가살이’의 고충을 나눈다. 6일(오늘)&nbsp;밤&nbsp;10시&nbsp;20분 방송하는&nbsp;MBN ‘어른들은 모르는 고딩엄빠2’(이하&nbsp;‘고딩엄빠2’) 27회에서는&nbsp;19세에 임신해&nbsp;16개월 된 아들을 키우고 있는&nbsp;‘인싸맘’&nbsp;박은지와]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박은혜X은혁X강승윤X다영 교복 입고 소울리스좌 패러디]]></title>
-        <id>https://v.daum.net/v/20221206112113118</id>
-        <link href="https://v.daum.net/v/20221206112113118"/>
-        <updated>2022-12-06T03:13:26.229Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 박아름 기자] 박은혜, 은혁, 강승윤, 김성원, 다영이 '소울리스좌'를 패러했다. E채널, MBN ‘방과 후 코리아: 수학여행’(이하 수학여행) 측은 12월 6일 MC인 배우 박은혜, 슈퍼주니어 은혁, 위너 강승윤, 개그맨 김성원, 우주소녀 다영이 교복을 입고 ‘에버랜드 소울리스좌’를 패러디한 티저 영상을 공개했다. 공개된 영상은 “앞에 있는]]></content>
     </entry>
 </feed>
