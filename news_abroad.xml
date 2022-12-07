@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2022-12-07T05:11:17.299Z</updated>
+    <updated>2022-12-07T06:15:31.622Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘더 마블스’ 박서준, 캡틴 마블 남편 얀 왕자役 스포일러..개봉전 뜨거운 관심]]></title>
+        <id>https://v.daum.net/v/20221207145020109</id>
+        <link href="https://v.daum.net/v/20221207145020109"/>
+        <updated>2022-12-07T06:15:30.910Z</updated>
+        <content type="html"><![CDATA[[OSEN=박판석 기자]&nbsp;배우 박서준이 영화 ‘더 마블스’에서 브리 라슨의 남편 역을 맡았다는 보도가 나왔다. 지난 5일(이하 현지시각) 미국 매체 코믹북무비닷컴, 헤로익 할리우드 등은 믿을 만한 소식통으로 알려진 다니엘 리치먼이 박서준이 캡튼 마블 역을 맡은 캐롤 댄버스의 남편 얀 왕자를 연기한다고 보도했다. 얀 왕자는 소통하기 위해 노래를 하는 행성]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘아바타2’ 외신 첫반응 “경이롭다, 믿을 수 없을 정도로 매혹적” 최고영화 탄생]]></title>
         <id>https://v.daum.net/v/20221207101519171</id>
@@ -60,12 +67,5 @@
         <link href="https://v.daum.net/v/20221206155207176"/>
         <updated>2022-12-06T07:11:13.466Z</updated>
         <content type="html"><![CDATA[[티브이데일리 김종은 기자] 미국 유명 배우 커스티 앨리가 사망했다. 커스티 앨리 측은 6일(한국시간) 트위터를 통해 "전 세계에 있는 친구들에게 슬픈 소식을 전하게 돼 마음이 아프다. 우리의 용감하고 사랑스러웠던 어머니가 암과 싸우다 세상을 떠나셨다"고 알렸다. "커스티 앨리는 가족들이 지켜보는 와중에 눈을 감았다"라고 전한 관계자는 "그는 살아생전 잊히]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[드웨인 존슨 ‘블랙아담’ 폭망, 글로벌 4억달러 못 벌어 “굴욕”]]></title>
-        <id>https://v.daum.net/v/20221206151355833</id>
-        <link href="https://v.daum.net/v/20221206151355833"/>
-        <updated>2022-12-06T06:15:12.104Z</updated>
-        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]할리우드 스타 드웨인 존슨(50)이 체면을 구겼다. DC 슈퍼 히어로의 권력 서열을 바꾸겠다며 호기롭게 주연을 맡은 ‘블랙아담’이 글로벌 흥행에서 참패했다. 버라이어티는 5일(현지시간) “‘블랙아담’은 7주만에 전 세계적으로 3억 8,700만 달러(약 5,077억)를 벌어들이며 흥행에서 영웅적인 환영을 받지 못했다”고 보도했]]></content>
     </entry>
 </feed>
