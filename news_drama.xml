@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-12-07T20:12:43.068Z</updated>
+    <updated>2022-12-07T21:12:00.345Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['3인칭 복수' 신예은 "자신감 얻게 해준 작품…마인드 건강한 배우 되고파"]]></title>
+        <id>https://v.daum.net/v/20221208060003337</id>
+        <link href="https://v.daum.net/v/20221208060003337"/>
+        <updated>2022-12-07T21:11:43.358Z</updated>
+        <content type="html"><![CDATA[[스포츠서울 | 김민지기자]“마인드가 건강한 배우가 되고 싶다. 사회의 트렌드를 잘 따라가는 것도 좋지만 너무 휘둘리지 않고 내가 가진 재능과 매력을 어디서든 잘 살릴 수 있는 배우가 되고자 한다.” 배우 신예은이 지난달 9일 첫 공개된 디즈니 플러스 드라마 ‘3인칭 복수’에서 옥찬미 역으로 분했다. 옥찬미는 고등학교 사격선수 출신으로,]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘우영우’ ‘파친코’, 미국 크리틱스 초이스 어워즈 후보]]></title>
         <id>https://v.daum.net/v/20221208003011550</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20221207182023255"/>
         <updated>2022-12-07T10:13:06.620Z</updated>
         <content type="html"><![CDATA[[OSEN=김나연 기자]&nbsp;배우 김가은이 “‘슈룹’을 하길 잘했다”는&nbsp;소감을 전했다. 7일 오후 프레인TPC 사옥에서는 tvN 토일드라마 ‘슈룹’에서 태소용 역을 맡았던 배우 김가은의 종영 인터뷰가 진행됐다. ‘슈룹’은 사고뭉치 왕자들을 위해 치열한 왕실 교육 전쟁에 뛰어드는 중전의 파란만장 궁중 분투기를 그린 드라마. 극중 김가은은 중궁전 시녀 출신 승]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘환혼2’ 부활한 이재욱, 괴물 잡는 괴물됐다]]></title>
-        <id>https://v.daum.net/v/20221207175629474</id>
-        <link href="https://v.daum.net/v/20221207175629474"/>
-        <updated>2022-12-07T09:11:41.135Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 박정민 기자] 배우 이재욱이 '환혼2'로 돌아온다. 12월 10일 첫 방송되는 tvN 토일드라마 '환혼: 빛과 그림자'(극본 홍정은·홍미란/연출 박준화/이하 '환혼2')는 영혼을 바꾸는 환혼술로 인해 운명이 비틀린 주인공들이 이를 극복하고 성장해가는 판타지 로맨스 드라마다. 앞서 '환혼'에서는 목숨을 잃은 장욱(이재욱 분)이 부활하는 파격적인]]></content>
     </entry>
 </feed>
