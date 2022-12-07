@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2022-12-07T21:12:00.339Z</updated>
+    <updated>2022-12-07T22:11:44.028Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[기다리던 '아바타2'·'영웅' 온다… 극장가, 모처럼 들썩]]></title>
+        <id>https://v.daum.net/v/20221208063108827</id>
+        <link href="https://v.daum.net/v/20221208063108827"/>
+        <updated>2022-12-07T22:11:24.186Z</updated>
+        <content type="html"><![CDATA[(서울=연합뉴스) 양정우 김정진 기자 = 올 연말 영화 '아바타: 물의 길'('아바타 2')과 '영웅' 등 대작 두 편이 잇따라 개봉하면서 그간 침체기를 겪었던 극장가가 모처럼 활기를 띨 것으로 보인다. 극장들은 올해 최고 기대작으로 꼽히는 '아바타 2' 개봉에 앞서 3D 상영을 위한 장비를 확충하고 특별관을 새로 단장하는 등 관객 맞을 채비에 들뜬 분위기]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[팩션 사극 ‘올빼미’, 어떻게 역사왜곡 논란 대신 호평 얻었나]]></title>
+        <id>https://v.daum.net/v/20221208063012800</id>
+        <link href="https://v.daum.net/v/20221208063012800"/>
+        <updated>2022-12-07T22:11:24.187Z</updated>
+        <content type="html"><![CDATA[역사적 사실에 상상력을 더한 스릴러 사극 ‘올빼미’가 역사 왜곡 논란 없이 흥행 순항 중이다. 사진은 유해진이 연기한 인조의 모습을 담은 영화의 한 장면. 사진제공｜NEW 11월 23일 개봉한 영화 ‘올빼미’가 2주 만인 7일 200만 관객에 육박하며 호평을 얻고 있다. 이날 영화관입장권통합전산망 집계에 따르면 ‘올빼미’는 6일 6만8000여명의 관객을]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[장외전도 후끈…'아바타2'·'영웅' 12월 극장가 붐업 일으킬까]]></title>
         <id>https://v.daum.net/v/20221208060006345</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20221207171039248"/>
         <updated>2022-12-07T08:15:18.843Z</updated>
         <content type="html"><![CDATA[[뉴스엔 허민녕 기자] 드림웍스의 귀환, 어쩌면 블랙 히어로의 원형이라고 할 수 있는 ‘장화신은 고양이’ 후속편이 새해 극장가 첫 포문을 연다. ‘장화신은 고양이:끝내주는 모험’이 그것. 목숨이 여러 개인 설정과도 맞물려 ‘장화신은 고양이’는 드림웍스 레전드 애니메이션 ‘슈렉’ 출신으로 가장 끈질긴 생명력을 자랑하고도 있는 ‘금강불괴’ 캐릭터. 2023]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘2022 여성영화인축제’, 12월15일 개최 …강수연상 신설]]></title>
-        <id>https://v.daum.net/v/20221207170009949</id>
-        <link href="https://v.daum.net/v/20221207170009949"/>
-        <updated>2022-12-07T08:15:18.843Z</updated>
-        <content type="html"><![CDATA[‘2022 여성영화인축제’가 오는 15일 씨네큐브 광화문 1관에서 개최된다. 올해로 23주년을 맞은 ‘2022 여성영화인축제’는 이날 오후 7시부터 여성영화인모임과 한국영화성평등센터 든든의 활동을 결산하고 축제의 하이라이트인 ‘2022 올해의 여성영화인상’ 시상식을 진행한다. 사회는 배우 문소리가 맡았다. 여성영화인축제를 주최하는 (사)여성영화인모임은 여성]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['천만배우' 마동석의 굴욕, '압꾸정' 제작비 회수도 어렵다]]></title>
-        <id>https://v.daum.net/v/20221207164806600</id>
-        <link href="https://v.daum.net/v/20221207164806600"/>
-        <updated>2022-12-07T08:15:18.843Z</updated>
-        <content type="html"><![CDATA[[티브이데일리 김종은 기자] 배우 마동석의 코미디 신작 '압꾸정'의 흥행 부진이 이어지고 있다. 이대로라면 제작비 회수도 어려운 상태다. 마동석의 '흥행 보증 수표' '천만 배우' 수식어가 민망해지는 순간이다. 그간 마동석은 출연하는 작품마다 연달아 대박을 기록하며 흥행 보증 수표로 거듭났다. '시동'(2019) '백두산'(2019) '이터널스'(2021]]></content>
     </entry>
 </feed>
