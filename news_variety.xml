@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/variety</id>
     <title>다음 연예 ─ 뉴스 ─ 예능</title>
-    <updated>2022-12-07T10:13:23.776Z</updated>
+    <updated>2022-12-07T11:10:08.851Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘SBS 가요대전’ MC 티저 영상 공개...키X안유진X차은우, 달콤한 초대]]></title>
+        <id>https://v.daum.net/v/20221207195407501</id>
+        <link href="https://v.daum.net/v/20221207195407501"/>
+        <updated>2022-12-07T11:09:57.864Z</updated>
+        <content type="html"><![CDATA[‘2022 SBS 가요대전’의 MC 티저 영상이 공개됐다. 7일 공개된 ‘2022 SBS 가요대전’ MC 티저 영상에서는 샤이니 키, 아스트로 차은우, 아이브 안유진이 등장했다. 영상 속에서 올해 가요대전은 12월 24일이라고 전달받은 안유진은 “가요대전을 크리스마스 이브에?”라며 놀란 표정을 감추지 못했다. 이어 일상 속 이곳 저곳에서 숫자 24를 발견한]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[신지, 내년 결혼 선언하더니 드디어 데이트 시작? "하고 싶었던 거 다 하는 중♥"]]></title>
+        <id>https://v.daum.net/v/20221207192201937</id>
+        <link href="https://v.daum.net/v/20221207192201937"/>
+        <updated>2022-12-07T11:09:57.865Z</updated>
+        <content type="html"><![CDATA[[텐아시아=차혜영 기자] 그룹 코요태 멤버 신지가 가수 홍자와 데이트를 즐겼다. 신지는 7일 "오래간만에 하는 데이트니까~ 하고 싶었던 거 다하는 중!♥ 또 뭐하지?"라고 적었다. 사진 속에는 신지가 홍자와 카페를 찾아 여유로운 시간을 보내고 있다. 두 사람은 카페를 시작으로 사진 촬영 맛집 탐방까지 알뜰한 데이트를 즐겨 눈길을 사로잡는다. 신지는 최]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[양미라, ♥남편·아이들 없이 홀로 日 여행…가족 마음에 걸린다더니 '폴짝폴짝']]></title>
         <id>https://v.daum.net/v/20221207185901416</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20221207165838876"/>
         <updated>2022-12-07T08:15:28.511Z</updated>
         <content type="html"><![CDATA[(엑스포츠뉴스 이예진 기자) 도합 400만 구독자를 보유한 크리에이터 김계란과 풍자가 '세치혀'에서 빅매치를 펼친다. 11일 첫 방송되는 MBC 신규 파일럿 예능 '혓바닥 종합격투기 세치혀'(이하 '세치혀')는 대한민국 예능 최초 링 위에서 펼쳐지는 '썰 스포츠'로 나이, 직업, 장르를 불문한 썰의 고수들이 스토리텔링 맞대결을 펼쳐 대한민국 세치혀 계 최강]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[에어라인→룹스 ‘WET!’ 국내 최정상 DJ 레이블 9팀 베일 벗었다]]></title>
-        <id>https://v.daum.net/v/20221207163534220</id>
-        <link href="https://v.daum.net/v/20221207163534220"/>
-        <updated>2022-12-07T08:15:28.513Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 박아름 기자] 국내 초대형 DJ 서바이벌 ‘WET!’이 최정상 레이블 9팀의 치열한 ‘머니 배틀’을 예고했다. 웨이브, 채널S ‘WET! : World EDM Trend (이하 WET!)’ 측은 12월 7일 공식 SNS를 통해 티저 영상을 공개했다. 이와 함께 ‘WET!’에 참가하는 9팀 레이블을 소개했다. 공개된 티저에서는 국내 최정상 레이블이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[몬스타엑스 민혁, 손우현과 특급 케미…‘슛 아웃’ 합동무대까지]]></title>
-        <id>https://v.daum.net/v/20221207163348166</id>
-        <link href="https://v.daum.net/v/20221207163348166"/>
-        <updated>2022-12-07T08:15:28.514Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 황혜진 기자] 그룹 몬스타엑스(MONSTA X) 멤버 민혁이 배우 손우현이 진행자와 게스트로 만나 특급 케미스트리를 뽐냈다. 12월 6일 민혁이 진행하는 네이버 NOW. ‘보그싶쇼 시즌 2’에 스타쉽엔터테인먼트에서 한솥밥을 먹고 있는 손우현이 출연했다. 민혁이 호스트로 활약하고 있는 ‘보그싶쇼 시즌 2’는 호스트와 게스트가 그림을 그리며 다양한]]></content>
     </entry>
 </feed>
