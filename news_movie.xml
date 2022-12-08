@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2022-12-08T03:15:07.240Z</updated>
+    <updated>2022-12-08T04:14:34.113Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['올빼미' 유해진X류준열, 200만 관객 돌파…"완성도 높은 서스펜스 사극"]]></title>
+        <id>https://v.daum.net/v/20221208120251976</id>
+        <link href="https://v.daum.net/v/20221208120251976"/>
+        <updated>2022-12-08T04:14:13.812Z</updated>
+        <content type="html"><![CDATA[[스포츠조선 안소윤 기자] 영화 '올빼미'가 2주 연속 박스오피스 1위를 기록하며 극장가를 휩쓸고 있는 가운데, 200만 관객을 돌파했다. 8일 영화관 입장권 통합전산망에 따르면 이날 오전 10시 기준, '올빼미'는 누적 관객수 200만 395명을 기록하며 200만 관객을 돌파했다. '올빼미' 주역들은 200만 관객 돌파 인증 사진을 공개]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['영상 유출 사건' 이후 그녀는 왜 춤을 췄을까]]></title>
         <id>https://v.daum.net/v/20221208114801229</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20221208112101859"/>
         <updated>2022-12-08T03:14:48.706Z</updated>
         <content type="html"><![CDATA[[텐아시아=강민경 기자] 배우 윤시윤이 영화 '탄생'에서 붙이고 나온 수염에 대해 언급했다. 윤시윤은 8일 오전 서울 종로구 삼청동 한 카페에서 영화 '탄생'(감독 박흥식)에 대한 다양한 이야기를 들려줬다. '탄생'은 조선 근대의 길을 열어젖힌 개척자 청년 김대건(윤시윤 역)의 위대한 여정을 그린 대서사 어드벤처. 학구열 넘치는 모험가이자 다재다능한]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[윤시윤 "'혈액암 투병' 안성기, 인생 롤모델이자 나의 영웅"]]></title>
-        <id>https://v.daum.net/v/20221208111208418</id>
-        <link href="https://v.daum.net/v/20221208111208418"/>
-        <updated>2022-12-08T02:18:00.416Z</updated>
-        <content type="html"><![CDATA[[텐아시아=강민경 기자] 배우 윤시윤이 영화 '탄생'에서 호흡을 맞춘 안성기에 대해 언급했다. 윤시윤은 8일 오전 서울 종로구 삼청동 한 카페에서 영화 '탄생'(감독 박흥식)에 대한 다양한 이야기를 들려줬다. '탄생'은 조선 근대의 길을 열어젖힌 개척자 청년 김대건(윤시윤 역)의 위대한 여정을 그린 대서사 어드벤처. 학구열 넘치는 모험가이자 다재다능한]]></content>
     </entry>
 </feed>
