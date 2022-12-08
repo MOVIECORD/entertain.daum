@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-12-08T09:12:22.706Z</updated>
+    <updated>2022-12-08T10:13:20.880Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['금혼령' 만화 찢고 나온 김영대…"만장일치 캐스팅"]]></title>
+        <id>https://v.daum.net/v/20221208185018572</id>
+        <link href="https://v.daum.net/v/20221208185018572"/>
+        <updated>2022-12-08T10:13:03.076Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 황수연 기자) '금혼령' 제작진이 만장일치로 김영대를 캐스팅했다는 비하인드를 밝혔다. 8일 서울 용산구 CGV용산아이파크몰에서 MBC 새 금토드라마 '금혼령, 조선 혼인 금지령'(이하 '금혼령') 제작발표회가 진행됐다. 이 자리에는 박상우 감독과 배우 박주현, 김영대, 김우석이 참석했다. '금혼령'은 7년 전 세자빈을 잃고 금혼령을 내린 왕]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['치얼업' 장규리, 비하인드 꽉 채우는 안구정화 '꽃 미모']]></title>
         <id>https://v.daum.net/v/20221208175146184</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20221208154901264"/>
         <updated>2022-12-08T07:11:19.519Z</updated>
         <content type="html"><![CDATA[[OSEN=박판석 기자] 배우 박소진이 tvN ‘환혼’에 이어 part2 ‘환혼: 빛과 그림자’로 돌아온다. 오는 10일 첫 방송되는 tvN 새 토일드라마 ‘환혼: 빛과 그림자’(연출 박준화, 극본 홍정은·홍미란, 제작 스튜디오드래곤·TS나린시네마)는 역사에도 지도에도 존재하지 않은 대호국을 배경으로, 영혼을 바꾸는 ‘환혼술’로 인해 운명이 비틀린 주]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['세치혀' 한승훈 PD "전현무, 연예대상 유력후보다운 퍼포먼스"]]></title>
-        <id>https://v.daum.net/v/20221208154729209</id>
-        <link href="https://v.daum.net/v/20221208154729209"/>
-        <updated>2022-12-08T07:11:19.519Z</updated>
-        <content type="html"><![CDATA[[이데일리 스타in 김보영 기자] 대한민국 최초의 썰스포츠, ‘혓바닥 종합격투기 세치혀’의 출범이 임박했다. ‘혀’를 소재로 새로운 스포츠 장르를 만든 프로그램 수장 한승훈 PD가 예사롭지 않은 세치혀를 자랑하며 “유튜브에도 없는 ‘21세기 전기수’를 찾고 싶었다”고 전하며 기대감을 당부했다. MBC 신규 파일럿 예능 ‘혓바닥 종합격투기 세치혀’(이하 세]]></content>
     </entry>
 </feed>
