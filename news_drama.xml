@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-12-09T12:21:00.605Z</updated>
+    <updated>2022-12-09T13:19:22.818Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김래원, 의식 되찾았다...공승연 '미소']]></title>
+        <id>https://v.daum.net/v/20221209221543530</id>
+        <link href="https://v.daum.net/v/20221209221543530"/>
+        <updated>2022-12-09T13:19:07.115Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 오수정 기자) '소방서 옆 경찰서'에서 김래원이 의식을 찾았다.&nbsp; 9일 방송된 SBS 금토드라마 '소방서 옆 경찰서' 8회에서는 진호개(김래원 분)가 의식을 되찾는 모습이 그려졌다.&nbsp; 지난 방송에서 진호개가 마태화(이도엽)의 긴급체포에 성공했지만, 극한의 몸싸움 후 의식불명에 빠져 충격에 빠졌다.&nbsp; 송설(공승연)은 진호개 곁을 계속 지키고 있]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['태풍의신부' 지수원, 박하나에 "기억 찾는 일 도와 달라"]]></title>
         <id>https://v.daum.net/v/20221209204629399</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20221209155909075"/>
         <updated>2022-12-09T07:11:15.110Z</updated>
         <content type="html"><![CDATA[[OSEN=강서정 기자] KBS ‘드라마 스페셜 2022’의 다섯 번째 단막극 ‘낯선 계절에 만나’가 낯선 격리 병동에서 피워낸 동화 같은 심쿵 로맨스로 안방극장을 설렘으로 물들였다.&nbsp; 지난 8일 방송된 KBS 2TV ‘드라마 스페셜 2022’ 다섯 번째 단막극 ‘낯선 계절에 만나(연출 이민수, 극본 여명재)’는 코로나19에 확진된 두 주인공이 격리 병]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['소방서 옆 경찰서' 축 "김래원이 숨기고 있던 사연 드러난다"]]></title>
-        <id>https://v.daum.net/v/20221209155636010</id>
-        <link href="https://v.daum.net/v/20221209155636010"/>
-        <updated>2022-12-09T07:11:15.112Z</updated>
-        <content type="html"><![CDATA[[마이데일리 = 오윤주 기자] SBS 금토드라마 '소방서 옆 경찰서'(극본 민지은 연출 신경수) 서프라이즈 파티 현장이 공개됐다. '소방서 옆 경찰서'는 범인 잡기에 목숨을 건 경찰 진호개(김래원)와 피해자들을 살리기 위해 사선으로 뛰어드는 소방 봉도진(손호준), 송설(공승연)이 벌이는 고군분투 이야기로 매회 진한 감동과 스펙터클한 긴장감을 선사하고 있다]]></content>
     </entry>
 </feed>
