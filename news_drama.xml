@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-12-10T06:14:38.497Z</updated>
+    <updated>2022-12-10T07:14:29.832Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['금혼령' 박주현, 왕 김영대와 겸상 '궁궐 분투기' 시작]]></title>
+        <id>https://v.daum.net/v/20221210153037497</id>
+        <link href="https://v.daum.net/v/20221210153037497"/>
+        <updated>2022-12-10T07:14:13.506Z</updated>
+        <content type="html"><![CDATA[[OSEN=연휘선 기자]&nbsp;‘금혼령, 조선 혼인 금지령’ 속 박주현의 궁중 생활이 본격 시작된다. 10일 방송되는 MBC 금토드라마 ‘금혼령, 조선 혼인 금지령’(연출 박상우 정훈,&nbsp;극본 천지혜, 이하 ‘금혼령’) 2회에서는 소랑(박주현 분)이&nbsp;어디로 튈지 모르는 행동으로 신선한 재미를 선사한다. 갑작스럽게 궁에 입성하게 된 소랑은 특유의 발랄하고 소탈한]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[아이즈원 출신 김민주 ‘금혼령’ 세자빈으로 성공적 배우 첫발]]></title>
         <id>https://v.daum.net/v/20221210143526123</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20221210113126707"/>
         <updated>2022-12-10T03:12:26.007Z</updated>
         <content type="html"><![CDATA[[OSEN=연휘선 기자] '재벌집 막내아들'과 '소방서 옆 경찰서'가 양분할 줄 알았던 느슨해진 금토극 시장에&nbsp;'금혼령'과 '술도녀2'가 통통 튀는 발랄함으로 긴장감을 선사하고 있다.&nbsp; MBC 금토드라마 '금혼령, 조선 혼인 금지령(약칭 금혼령)'과 티빙 오리지널 드라마 '술꾼 도시 여자들 2(약칭 술도녀2)'가 9일 나란히 첫 방송을 시작했다.&nbsp; 먼저]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘재벌집 막내아들’ 진화영의 수난시대, 배우 김신록의 ‘화양연화’]]></title>
-        <id>https://v.daum.net/v/20221210112427650</id>
-        <link href="https://v.daum.net/v/20221210112427650"/>
-        <updated>2022-12-10T03:12:26.020Z</updated>
-        <content type="html"><![CDATA[[OSEN=김재동 객원기자]&nbsp;재벌가 천방지축·안하무인 고명딸 진화영(김신록 분)에게 닥친 위기가 참 고소하다. 9일 방송된 JTBC 금토일드라마 ‘재벌집 막내아들’ 9회는 닷컴버블에 휘말려 주식투자로 거액을 탕진한 순양백화점 진화영대표의 위기가 그려졌다. 조카 무서운 줄 모르고 진도준(송중기 분)의 어머니 이해인(정혜영 분)을 불러 VIP룸 피팅모델을]]></content>
     </entry>
 </feed>
