@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2022-12-11T18:14:58.407Z</updated>
+    <updated>2022-12-11T19:09:34.663Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[제임스 카메론 감독 “‘아바타2’는 환경 보존, 가족에 대한 메시지”]]></title>
+        <id>https://v.daum.net/v/20221212040634695</id>
+        <link href="https://v.daum.net/v/20221212040634695"/>
+        <updated>2022-12-11T19:09:29.125Z</updated>
+        <content type="html"><![CDATA[“‘아바타: 물의 길’(아바타2)은 탐험, 가족, 드라마가 담겨있다. 우리에게 무언가 가르치기보다 느끼게 하는 영화, 한 번 보고 끝나는게 아니라 잔상으로 남아 계속 생각하게 하는 영화다.” 영화 ‘아바타2’ 개봉을 앞두고 한국을 방문한 제임스 카메론 감독이 9일 서울 여의도 콘래드 호텔에서 열린 기자간담회에서 이같이 밝혔다. 이번 영화에는 바다에 대한]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[안정환♥이혜원 子, 또 겹경사..美카네기홀→"의원상 받아"]]></title>
+        <id>https://v.daum.net/v/20221212040020654</id>
+        <link href="https://v.daum.net/v/20221212040020654"/>
+        <updated>2022-12-11T19:09:29.126Z</updated>
+        <content type="html"><![CDATA[[OSEN=김수형 기자] 이혜원이 이번엔 아들 리환군이 의원상을 받은 겹경사를 전했다. 앞서 국가대표 축구선수 출신 안정환 아들 리환 군이 어느새 성장해 15살에 미국 뉴욕 카네기홀에서 최연소 트럼펫 연주자로 무대에 올랐던 바. &nbsp;안정환 아내 이혜원은 최근&nbsp;“2022년 12월 7일 리환 군의 카네기홀의 첫 무대. 실수 없이 잘 마치고, 늠름하게 걸어가는]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['런닝맨' 전소민, 적재 등장에 '소녀팬' 모드…하하도 비오에 '팬심 폭발']]></title>
         <id>https://v.daum.net/v/20221212013900295</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20221211230408805"/>
         <updated>2022-12-11T14:10:17.424Z</updated>
         <content type="html"><![CDATA[(서울=뉴스1) 황미현 기자 = 배우 최진혁과 임원희가 '미우새' 내 '바보 트리오' 김종민과 함께 코요태 공연 게스트로 무대에 올랐다. 11일 오후 9시5분 방송된 SBS '미운우리새끼'에는 최진혁과 임원희가 김종민이 속한 코요태 공연에 게스트로 초대되는 모습이 담겼다. 이날 김종민은 한 짬뽕집에서 임원희, 최진혁을 불러 식사를 대접했다. 임원희,]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['재벌집 막내아들' 이성민, 의사는 "코마 상태"…사실은 멀쩡]]></title>
-        <id>https://v.daum.net/v/20221211230210795</id>
-        <link href="https://v.daum.net/v/20221211230210795"/>
-        <updated>2022-12-11T14:10:17.425Z</updated>
-        <content type="html"><![CDATA[(서울=뉴스1) 이아영 기자 = '재벌집 막내아들' 송중기와 이성민이 교통사고에도 크게 다치지 않았다. 11일 방송된 JTBC 금토일드라마 '재벌집 막내아들'(극본 김태희, 장은재/연출 정대윤, 김상호)에서는 진도준(송중기 분)과 진양철(이성민 분)이 교통사고를 당했다. 순양은 지주회사를 만드는 작업을 진행 중이었다. 겉보기엔 금융그룹이지만 승계 작업의]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘환혼2’ 이재욱, 낙수 고윤정 또 구했다 “혼인 했습니다”]]></title>
-        <id>https://v.daum.net/v/20221211225501779</id>
-        <link href="https://v.daum.net/v/20221211225501779"/>
-        <updated>2022-12-11T14:10:17.429Z</updated>
-        <content type="html"><![CDATA[‘환혼 : 빛과 그림자’ 이재욱이 고윤정과 혼인했다 밝혔다. 11일 오후 방송된 tvN 주말드라마 ‘환혼 : 빛과 그림자’에서는 진요원의 후계로 평생 갇힐 위기에 몰린 고윤정을 구하기 위해 혼인했다 밝히는 이재욱의 모습이 전파를 탔다. 이날 하고 싶지 않은 혼례에서 자신을 구해준 장욱(이재욱)을 끌어안은 진부연(고윤정)은 “네가 와줘서 정말 기뻐”라]]></content>
     </entry>
 </feed>
