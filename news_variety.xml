@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/variety</id>
     <title>다음 연예 ─ 뉴스 ─ 예능</title>
-    <updated>2022-12-11T02:46:17.848Z</updated>
+    <updated>2022-12-11T03:17:47.718Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[지휘자 박진영·반주자 김형석·매니저 한가인…'싱포골드' 세계 합창대회 도전]]></title>
+        <id>https://v.daum.net/v/20221211121657949</id>
+        <link href="https://v.daum.net/v/20221211121657949"/>
+        <updated>2022-12-11T03:17:36.238Z</updated>
+        <content type="html"><![CDATA[[OSEN=장우영 기자] ‘싱포골드’ 박진영, 김형석, 한가인, 리아킴, 이무진이 세계 합창 월드컵 출전 소감을 밝혔다. 11일 SBS ‘싱포골드’의 두 번째 챕터가 시작된다. 최종 우승팀과 다섯 명의 MC가 하나의 팀이 되어 세계 합창 월드컵에 도전하는 모습이 그려질 예정이다. ‘싱포골드’ 팀은 스페인 바르셀로나에서 열린 세계 합창 월드컵(The Wo]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["내 인생 없었다"…김민경, 사격 대회 후 심경 고백]]></title>
+        <id>https://v.daum.net/v/20221211115519475</id>
+        <link href="https://v.daum.net/v/20221211115519475"/>
+        <updated>2022-12-11T03:17:36.239Z</updated>
+        <content type="html"><![CDATA[[OSEN=장우영 기자] 개그우먼 김민경이 사격 국가대표로 대회에 출전한 소감 등 솔직한 마음을 밝혔다. 최근 김민경의 유튜브 채널 ‘민경장군’에는 ‘사격 경기 마친 후 코로나 자가격리 중. 잠들기 전에 보세요. 아플 때 먹는 죽이 제일 맛있지’라는 제목의 영상이 공개됐다. 김민경은 지난 18일 오전 인천 중구 운서동 인천국제공항 제1여객터미널을 통해]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[짐 캐리, 사망한 아버지 관에 100억원 수표 넣으며 오열한 사연]]></title>
         <id>https://v.daum.net/v/20221211114240320</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20221211104951402"/>
         <updated>2022-12-11T02:46:07.011Z</updated>
         <content type="html"><![CDATA[[OSEN=박판석 기자] 가수 비오와 적재가 '런닝맨'에 출연한다. 오늘(11일) 방송되는 SBS ‘런닝맨’에서는 ‘신흥 음원 강자’ 가수 비오, 적재가 출격해 특별한 연말 파티를 펼친다. 최근 진행된 녹화에서 멤버들은 별들의 연말 파티에 맞춰 화려한 의상을 입고 등장해 눈길을 끌었고, 이어 ‘대세 스타’ 비오와 적재가 출격해 레전드 무대를 선사했다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['재혼' 선우은숙 "이젠 내 옆에 ♥유영재뿐…아들엔 더이상 지원 안 해"]]></title>
-        <id>https://v.daum.net/v/20221211104001258</id>
-        <link href="https://v.daum.net/v/20221211104001258"/>
-        <updated>2022-12-11T02:46:07.013Z</updated>
-        <content type="html"><![CDATA[[텐아시아=김지원 기자] 신혼 생활 중인 선우은숙이 유영재에게 밥을 해먹이느라 고단하다고 토로했다. 지난 10일 방송된 MBN '동치미'에서는 노후 대책과 관련, 쇼핑 등 소비 습관을 주제로 이야기를 나눴다. 얼마 전 4살 연하의 유영재 아나운서와 재혼한 선우은숙은 이야기 도중 갑자기 한숨을 쉬더니 "아유, 내가 밥해서 먹이느라 지쳐서 그런다. 그 사]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[러블리즈 탄 열기구, 상공 700m서 충돌→현지인들은 “키스”]]></title>
-        <id>https://v.daum.net/v/20221211103929252</id>
-        <link href="https://v.daum.net/v/20221211103929252"/>
-        <updated>2022-12-11T02:46:07.015Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 박아름 기자] 러블리즈 출신 멤버들이 열기구 충돌에 당황했다. 지난 12월 10일 방송된 채널 IHQ '트래블리' 18회에서는 과거 러블리즈로 함께 활동했던 유지애·류수정·정예인의 튀르키예 방문기가 공개됐다. 이들은 튀르키예 카파도키아 필수 여행 코스로도 불리는 열기구 비행 체험에 나섰다. 류수정은 열기구에 탑승하기 전 "긴장해서 배 아파요"라고]]></content>
     </entry>
 </feed>

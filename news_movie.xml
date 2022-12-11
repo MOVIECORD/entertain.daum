@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2022-12-11T02:46:17.853Z</updated>
+    <updated>2022-12-11T03:17:47.721Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김성철 "순박한 짝사랑남 넘어 보여드릴 모습 무궁무진해"]]></title>
+        <id>https://v.daum.net/v/20221211121608930</id>
+        <link href="https://v.daum.net/v/20221211121608930"/>
+        <updated>2022-12-11T03:17:25.951Z</updated>
+        <content type="html"><![CDATA[[스포츠한국 모신정 기자]&nbsp;2014년 뮤지컬 '사춘기'로 데뷔해 어느덧 9년차 배우로 활약 중이다. 이후 뮤지컬 '베르테르', '스위니토드', '로미오와 줄리엣', '미스터 마우스', '빅 피쉬' 등을 선보이며 배우 조승우가 '나를 자극시키는 후배'로 꼽을 정도로 주목 받으며 뮤지컬 배우로서 위치를 확고히 했고 올해 '데스노트' 엘(L)역으로 엄청난]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김성철 "유해진 선배의 소름 돋았다는 칭찬, 한없이 감사해"]]></title>
+        <id>https://v.daum.net/v/20221211120008553</id>
+        <link href="https://v.daum.net/v/20221211120008553"/>
+        <updated>2022-12-11T03:17:25.951Z</updated>
+        <content type="html"><![CDATA[[스포츠한국 모신정 기자]&nbsp;2014년 뮤지컬 '사춘기'로 데뷔해 어느덧 9년차 배우로 활약 중이다. 이후 뮤지컬 '베르테르', '스위니토드', '로미오와 줄리엣', '미스터 마우스', '빅 피쉬' 등을 선보이며 배우 조승우가 '나를 자극시키는 후배'로 꼽을 정도로 주목 받으며 뮤지컬 배우로서 위치를 확고히 했고 올해 '데스노트' 엘(L)역으로 엄청난]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["결과보다 과정 중요" 신예은, 성장과 도전]]></title>
         <id>https://v.daum.net/v/20221211112401030</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20221211080007097"/>
         <updated>2022-12-10T23:11:25.561Z</updated>
         <content type="html"><![CDATA[(서울=연합뉴스) 김정진 기자 = 싸움 실력만으로 '최강의 여직원'이 될 수 있는 세계. 언뜻 보면 평온하기만 한 회사인 미쓰후지 상사의 이면에는 말 그대로 피 튀기는 전쟁이 벌어지고 있다. 영화 '지옥의 화원'은 주먹 서열이 곧 사내 서열이 된다는 엉뚱한 상상을 코믹하게 그린 작품이다. 영화는 학원 액션물의 구조를 충실히 따라간다. 힘으로 서열이 결정되는]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘아바타2’, 새 레전드의 아우라]]></title>
-        <id>https://v.daum.net/v/20221211073604975</id>
-        <link href="https://v.daum.net/v/20221211073604975"/>
-        <updated>2022-12-10T23:11:25.562Z</updated>
-        <content type="html"><![CDATA[올해의 피날레를 장식할 ‘아바타: 물의 길’(이하 ‘아바타2’)의 귀환에 전 세계 극장가가 들썩이고 있다. 티켓 오픈 동시에 예매율은 단연 압도적 1위, 먼저 작품을 감상한 국내·외 평단의 반응은 폭발적이다. 13년의 기다림이 아깝지 않은, 황홀한 무비 파티의 시작이다. 2009년 혁신적인 기술력으로 신드롬을 일으키며 월드와이드 역대 흥행 순위 1위를 기록]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘악에 바쳐’ 이진리 “박유천 이슈 부담 NO, 연기할 수 있어 행복”]]></title>
-        <id>https://v.daum.net/v/20221211073600974</id>
-        <link href="https://v.daum.net/v/20221211073600974"/>
-        <updated>2022-12-10T23:11:25.563Z</updated>
-        <content type="html"><![CDATA[배우 이진리(33)가 영화 ‘악에 바쳐’ 홍단을 만나 행복했다며 앞으로도 오래오래 연기하고 싶다고 밝혔다. 이진리는 영화 ‘악에 바쳐’(감독 김시우)에서 처음부터 잃을 게 없던 여자 홍단 역을 맡아 열연했다. ‘악에 바쳐’는 모든 것을 잃은 한 남자와 처음부터 잃을 게 없던 한 여자가 나락의 끝에서 마주하는 이야기를 담는다. 가수 겸 배우 박유천의 복귀작으]]></content>
     </entry>
 </feed>
