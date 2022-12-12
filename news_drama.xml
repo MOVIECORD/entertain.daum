@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-12-12T20:11:55.369Z</updated>
+    <updated>2022-12-12T21:11:47.188Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이현석, 김규선 무죄 증명 결심...반효정, '한지완=진범' 알았다]]></title>
+        <id>https://v.daum.net/v/20221213060201267</id>
+        <link href="https://v.daum.net/v/20221213060201267"/>
+        <updated>2022-12-12T21:11:30.205Z</updated>
+        <content type="html"><![CDATA[[텐아시아=신지원 기자]'마녀의 게임' 반효정이 한지완이 진범임을 밝히기로 했다. 12일 오후 방송된 MBC 일일드라마 '마녀의 게임'에서 마현덕(반효정 분)이 유인하(이현석 분)을 민 범인이 주세영(한지완 분)이라는 사실에 분노하는 장면이 그려졌다. 이날 유인하는 마현덕이 진범 영상을 확인한 사실을 알고 진실을 밝히겠다고 마음 먹었다. 한편 이 사실]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['커튼콜' 성동일, 말투 바뀐 강하늘에 당황 "표준어 많이 늘었네"]]></title>
+        <id>https://v.daum.net/v/20221213054002977</id>
+        <link href="https://v.daum.net/v/20221213054002977"/>
+        <updated>2022-12-12T21:11:30.209Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 이빛나리 기자] /사진='커튼콜' 방송화면'커튼콜'에서 성동일이 하지원 앞에서 표준어를 쓰는 강하늘을 보고 당황했다. 지난 12일 오후 방송된 KBS 2TV 월화드라마 '커튼콜'에서 박세연(하지원 분)은 리문성(노상현 분)을 연기하는 유재헌(강하늘 분)에 화를 냈다. 박세연은 유재헌에 "네가 뭔데?"라고 물었다. 유재헌은 "누나 '뭐냐'고 했]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['연매살' 이순재, 치매의심..하차 위기→ 곽선영·노상현 재회]]></title>
         <id>https://v.daum.net/v/20221213050001405</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20221212231501847"/>
         <updated>2022-12-12T15:12:38.374Z</updated>
         <content type="html"><![CDATA[[텐아시아=신지원 기자]'치얼업' 한지현이 배인혁의 손을 잡았다. 12월 12일 밤 방송된 SBS 월화드라마 '치얼업'에서는 도해이의 탈퇴를 막고자 테이아 멤버들이 깜짝 일일호프를 준비하는 모습이 그려졌다. 이날 테이아 일일호프를 보던 배영웅(양동근 분)은 "덕분에 분위기 전환이 확실해 된 것 같다"라고 안심했고 박정우(배인혁 분) 역시 "모두들 분위기]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이순재, 치매 증상에 하차 위기…감독 못 알아보고 "누구신지?"]]></title>
-        <id>https://v.daum.net/v/20221212231253845</id>
-        <link href="https://v.daum.net/v/20221212231253845"/>
-        <updated>2022-12-12T15:12:38.375Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 오승현 인턴기자) '연예인 매니저로 살아남기' 배우 이순재가 희미해지는 기억력에 하차 위기에 처했다. 12일 방송된 tvN 월화드라마 '연예인 매니저로 살아남기'(이하 '연매살') 11회에서는 원로배우 이순재(이순재 분)의 이야기가 담겼다. 이날 이순재는 연기를 어려워하는 어린 배우가 대사를 자꾸 틀리자, 그 배우의 대사를 그대로 읊으며 "내]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['연매살' 주현영, 3개월 수습에서 신인 개발 팀장 승진]]></title>
-        <id>https://v.daum.net/v/20221212230612824</id>
-        <link href="https://v.daum.net/v/20221212230612824"/>
-        <updated>2022-12-12T14:12:19.748Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 이상은 기자] /사진=tvN 월화드라마 '연예인 매니저로 살아남기' 방송화면 '연예인 매니저로 살아남기'에서 주현영이 초고속 승진했다. 12일 오후 방송된 tvN 월화드라마 '연예인 매니저로 살아남기'에서 메쏘드엔터 새 대표 구해준(허성태 분)이 신인 개발 팀장을 발표하는 모습이 담겼다. 이날 회의실에 직원들을 소집한 구해준은 "드디어 신인]]></content>
     </entry>
 </feed>

@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2022-12-12T20:11:55.361Z</updated>
+    <updated>2022-12-12T21:11:47.169Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[제2의 김고은? 정지우 감독이 택한  미스터리한 그녀 강해림]]></title>
+        <id>https://v.daum.net/v/20221213060002127</id>
+        <link href="https://v.daum.net/v/20221213060002127"/>
+        <updated>2022-12-12T21:11:24.659Z</updated>
+        <content type="html"><![CDATA[[스포츠서울 | 조은별기자]600:1의 경쟁률, 6개월에 걸친 심층 면접… ‘해피엔드’, ‘은교’를 만든 정지우 감독의 첫 드라마 도전작 넷플릭스 오리지널 시리즈 ‘썸바디’의 여주인공 강해림(26)의 말간 얼굴을 보면 왜 그가 ‘제2의 김고은’ 자리를 꿰찼는지 고개를 끄덕이게 된다. 느릿느릿하지만 주관이 뚜렷한 그의 이야기를 듣고]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[정성화 "韓뮤지컬 영화의 확산 시발점 되길"]]></title>
         <id>https://v.daum.net/v/20221213050026477</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20221212160500813"/>
         <updated>2022-12-12T07:11:47.882Z</updated>
         <content type="html"><![CDATA[[뉴스엔 배효주 기자] '아바타: 물의 길' 제임스 카메론 감독, 존 랜도 프로듀서, 샘 워싱턴, 조 샐다나, 시고니 위버, 스티븐 랭의 내한 소식에 국내 팬들이 다 모였다. 12월 14일 개봉하는 영화 '아바타: 물의 길'(감독 제임스 카메론)은 전편에 이어 제임스 카메론 감독이 13년 만에 선보이는 영화로, 판도라 행성에서 ‘제이크 설리’와 ‘네이티리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“증명하고 싶다”‥‘14년째 안중근’ 정성화, 이제 무대 밖 스크린으로]]></title>
-        <id>https://v.daum.net/v/20221212154923270</id>
-        <link href="https://v.daum.net/v/20221212154923270"/>
-        <updated>2022-12-12T07:11:47.885Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 배효주 기자] 무대 위에서 무려 14년 째 '안중근'으로 살고 있는 정성화. 개봉을 앞둔 영화 '영웅'을 통해 스크린에서도 그 얼굴을 그려내는 소감으로 "단연코 후회 없이 노력했다"는 열정을 밝혔다. 영화 '영웅'(감독 윤제균)에 출연한 정성화는 12월 12일 서울 종로구 삼청동 모처에서 진행된 인터뷰를 통해 지난 14년 간 뮤지컬에서 안중근으로]]></content>
     </entry>
 </feed>
