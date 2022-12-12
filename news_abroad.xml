@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2022-12-12T22:11:41.886Z</updated>
+    <updated>2022-12-12T23:12:23.752Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['트윈픽스' 작곡가 안젤로 바달라멘티 별세…향년 85세]]></title>
+        <id>https://v.daum.net/v/20221213075035461</id>
+        <link href="https://v.daum.net/v/20221213075035461"/>
+        <updated>2022-12-12T23:12:23.172Z</updated>
+        <content type="html"><![CDATA[(뉴욕=연합뉴스) 고일환 특파원 = 데이비드 린치 감독의 TV 드라마 '트윈픽스'의 주제가로 유명한 미국의 작곡가 안젤로 바달라멘티가 별세했다. 향년 85세. 미국의 음악 웹진 피치포크는 12일(현지시간) 바달라멘티가 전날 뉴저지주(州) 자택에서 가족들이 지켜보는 가운데 숨을 거뒀다고 보도했다. 사인은 자연사로 전해졌다. 바달라멘티가 음악계에 이름을 알린]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[제임스 맥어보이, 은퇴하나? “일보다 가족”]]></title>
         <id>https://v.daum.net/v/20221212215500386</id>
@@ -53,19 +60,5 @@
         <link href="https://v.daum.net/v/20221212084050564"/>
         <updated>2022-12-12T00:58:38.158Z</updated>
         <content type="html"><![CDATA[[스포츠조선 문지연 기자] '당나귀 귀' 김우리가 새로운 보스로 등장했다. 11일 방송된 KBS 2TV 예능 '사장님 귀는 당나귀 귀'(이하 '당나귀 귀') 185회에는 새로운 보스 '장사의 신' 김우리의 첫 이야기가 그려졌다. 27년차 스타일리스트로서 7년 만에 연 매출 100억 원을 달성한 소셜 미디어 커머스 기업 보스로 변신한 김우리는]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[빅토리아 베컴 “코 성형수술한적 없어, 자연산이야” 발끈]]></title>
-        <id>https://v.daum.net/v/20221212081108018</id>
-        <link href="https://v.daum.net/v/20221212081108018"/>
-        <updated>2022-12-11T23:12:05.014Z</updated>
-        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]세계적 스타 데이비드 베컴(47)의 부인이자 사업가인 빅토리아 베컴(48)이 코 성형수술 의혹을 부인했다. 그는 11일(현지시간) 메이크업 전문가 샬럿 틸버리와 함께 유튜브에 출연해 자신의 코는 자연산이라고 강조했다. ‘빅토리아 베컴과의 대화: 뷰티 기프트의 비밀’이라는 제목의 이 영상에서 이들은 미용 제품을 선물하는 것의]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[43살 케이티 홈즈, 드레스 밑에 청바지 입는 올드패션에 경악 “스타일리스트가 없나?”]]></title>
-        <id>https://v.daum.net/v/20221212074946712</id>
-        <link href="https://v.daum.net/v/20221212074946712"/>
-        <updated>2022-12-11T23:12:05.016Z</updated>
-        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]톰 크루즈(60)의 전 부인 케이티 홈즈(43)가 Y2K패션으로 주목을 끌었다. 그는 11일(현지시간) 뉴욕 매디슨 스퀘어에서 열린 한 행사에 참석했다. 사진 속 홈즈는 부츠컷 청바지와 검은색 운동화 위에 끈 없는 미니 드레스를 입었다. 느슨한 웨이브 스타일의 코 링과 검은 숄더백으로 룩을 완성했다. 미국 네티즌은 “나는]]></content>
     </entry>
 </feed>
