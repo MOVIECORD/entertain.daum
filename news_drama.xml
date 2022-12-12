@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-12-12T09:12:36.065Z</updated>
+    <updated>2022-12-12T10:13:39.639Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["맞고·구르고·뛰고" 신예은, 도전으로 남을 '3인칭 복수']]></title>
+        <id>https://v.daum.net/v/20221212190020420</id>
+        <link href="https://v.daum.net/v/20221212190020420"/>
+        <updated>2022-12-12T10:13:24.666Z</updated>
+        <content type="html"><![CDATA[[서울경제] 통통 튀는 매력으로 시청자를 사로잡았던 배우 신예은이 '3인칭 복수'를 통해 연기 변신에 성공했다. 묵묵하면서 과감한 그의 얼굴은 복수를 쫓는 캐릭터와 어우러져 독특한 분위기를 내기 충분했다. 여기에 사격, 액션, 오토바이까지 강렬한 매력을 선보인 그에게 작품은 도전이라는 이름으로 남는다. 디즈니+ 오리지널 시리즈 '3인칭 복수'(극본 이희명]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[콘티와 99% 싱크로율 자랑한다는 '커넥트']]></title>
         <id>https://v.daum.net/v/20221212180930595</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20221212161823298"/>
         <updated>2022-12-12T08:15:41.911Z</updated>
         <content type="html"><![CDATA[[OSEN=박판석 기자]&nbsp;배우 박은혜가 또 한 번&nbsp;‘환혼’과의&nbsp;‘환혼’을 알렸다. tvN&nbsp;토일드라마&nbsp;'환혼:&nbsp;빛과 그림자'(극본 홍정은,&nbsp;홍미란/연출 박준화)에서 박은혜가 진요원의 원장 진호경으로 또 한 번 등장해 팽팽한 긴장감으로 드라마의 서막을 활짝 열었다. 지난&nbsp;‘환혼’&nbsp;시즌1에서 진호경은 한 여인으로서 한결같은 연모와 남편을 향한 원망의 마음을]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘커넥트’ 김혜준 “호불호 이해…父, 내 모든 작품 보면서 졸았다”]]></title>
-        <id>https://v.daum.net/v/20221212161020043</id>
-        <link href="https://v.daum.net/v/20221212161020043"/>
-        <updated>2022-12-12T07:11:53.142Z</updated>
-        <content type="html"><![CDATA[[OSEN=김나연 기자]&nbsp;배우 김혜준이 ‘커넥트’를 본 주변인들의 반응을 전했다. 12일 오후 서울 종로구 삼청동의 한 카페에서는 디즈니+ 오리지널 드라마 ‘커넥트’(감독 미이케 타카시) 주연 배우 김혜준의 인터뷰가 진행됐다. 이날 김혜준은 ‘커넥트’를 시청한 소감을 묻자 “저도 3부 이후부터는 처음 보는거라서 공개된 후에 새롭게 봤다”며 “제가 나와서]]></content>
     </entry>
 </feed>
