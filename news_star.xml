@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2022-12-12T18:14:53.124Z</updated>
+    <updated>2022-12-12T19:13:25.107Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘인생캐 성남이’ 문상민 “붓 잡는 법, 서책 읽는 속도까지 연습”]]></title>
+        <id>https://v.daum.net/v/20221213040515148</id>
+        <link href="https://v.daum.net/v/20221213040515148"/>
+        <updated>2022-12-12T19:13:19.598Z</updated>
+        <content type="html"><![CDATA[“사극은 처음이라 사전에 공부를 좀 했어요. 붓을 잡는 법이라든지 서책을 보는 속도, 읽는 법도 미리 생각해봤죠.” 지난 4일 종영한 tvN 드라마 ‘슈룹’에서 성남대군을 열연한 배우 문상민을 지난 2일 서울 여의도 국민일보사에서 만났다. 190㎝ 훤칠한 키의 문상민은 세자를 연기할 때 보여준 근엄한 표정과 달리 20대 초반의 발랄함이 그대로 느껴지는 얼]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['동상이몽2' 아유미, ♥권기범 편드는 엄마에 "엄마가 더 정리 안 해" 폭로]]></title>
+        <id>https://v.daum.net/v/20221213033301069</id>
+        <link href="https://v.daum.net/v/20221213033301069"/>
+        <updated>2022-12-12T19:13:19.598Z</updated>
+        <content type="html"><![CDATA[[SBS연예뉴스 | 김효정 에디터] 아유미가 정리하지 못하는 남편에 불만을 터뜨렸다. 12일 방송된 SBS '동상이몽 시즌2-너는 내 운명'(이하 '동상이몽2')에서는 아유미 부부의 일상이 공개됐다. 이날 방송에서 아유미는 집을 방문한 친정어머니에게 남편의 만행을 폭로했다. 필요하지 않은 물건들을 쌓아두고 정리하지 않는다는 것. 아유미는 "이게 다 오빠 물]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[박찬욱 '헤어질 결심', 골든글로브 비영어권 영화상 후보]]></title>
         <id>https://v.daum.net/v/20221213031005045</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20221212235214027"/>
         <updated>2022-12-12T15:12:48.239Z</updated>
         <content type="html"><![CDATA[‘더 아이돌 밴드’ 씨엔블루 이정신과 엔플라잉 김재현이 자신들을 롤모델로 꼽은 참가자들이 등장해 웃음 꽃을 피운다. 오는 13일 오후 9시 방송되는 SBS M, SBS FiL 서바이벌 프로그램 ‘THE IDOL BAND : BOY’S BATTLE’(더 아이돌 밴드 : 보이즈 배틀, 이하 ‘더 아이돌 밴드’)에서는 지난 방송에 이어 ‘프로듀서 캐스팅전’]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[거미 "♥조정석 1시간에 1번씩 전화…천재적이면서 바보같아"]]></title>
-        <id>https://v.daum.net/v/20221212235021023</id>
-        <link href="https://v.daum.net/v/20221212235021023"/>
-        <updated>2022-12-12T15:12:48.240Z</updated>
-        <content type="html"><![CDATA[[스포츠조선닷컴 이지현 기자] 가수 거미가 남편 조정석의 사랑꾼 모습을 자랑했다. 12일 방송된 SBS '동상이몽2 - 너는 내 운명'(이하 '동상이몽2')에서는 스폐셜 MC로 결혼 5년차 거미가 출연했다. 이날 거미는 "남편도 노래 잘하지 않냐, 현재 콘서트 중인데 남편이 자꾸 듀엣 하자고 한다던데"라는 질문에 "노래 너무 잘한다. 제 노래]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이순재, 치매 의심에 영화 하차 위기→후배 덕 극복…심소영 복직]]></title>
-        <id>https://v.daum.net/v/20221212234940019</id>
-        <link href="https://v.daum.net/v/20221212234940019"/>
-        <updated>2022-12-12T15:12:48.241Z</updated>
-        <content type="html"><![CDATA[[스포츠조선닷컴 이우주 기자] '연매살' 이순재의 선한 조언이 연기 인생 위기를 극복하는데 도움이 됐다. 12일 방송된 tvN '연예인 매니저로 살아남기'에서는 기억을 점점 잃어가는 배우 이순재의 이야기가 공개됐다. 88세 배우 이순재는 아직도 후배들의 대사까지 모두 외우고 있었다. 이순재는 까마득한 후배 배우에게 "상대방 대사까지 몽땅]]></content>
     </entry>
 </feed>
