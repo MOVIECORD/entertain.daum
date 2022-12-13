@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/variety</id>
     <title>다음 연예 ─ 뉴스 ─ 예능</title>
-    <updated>2022-12-13T16:16:17.535Z</updated>
+    <updated>2022-12-13T17:10:36.382Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['돌싱포맨' 윤시윤, 교황에게 인증 받은 미모→지극정성 연애 스타일까지]]></title>
+        <id>https://v.daum.net/v/20221214013120472</id>
+        <link href="https://v.daum.net/v/20221214013120472"/>
+        <updated>2022-12-13T17:10:25.286Z</updated>
+        <content type="html"><![CDATA[[OSEN=오세진 기자] '신발 벗고 돌싱포맨' 윤시윤이 화려한 연애담을 자랑했다. 13일 방영한 SBS 예능 '신발 벗고 돌싱포맨'(이하 '돌싱포맨')에서는 영화 '탄생'의 주역인 윤시윤, 그리고 함께 출연하는 이문식이 등장했다. 2022 카타르 월드컵 대한민국의 16강전을 응원하기 위해 모였던 돌싱들은 이들의 등장에 월드컵 응원 전 홍보 목적으로 출]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[윤시윤 "혼자가 편해...결혼 생각 아예 없어서 고민"]]></title>
         <id>https://v.daum.net/v/20221214005002219</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20221213233253669"/>
         <updated>2022-12-13T15:15:22.063Z</updated>
         <content type="html"><![CDATA[탁재훈이 이상민 집이 멀다고 토로했다. 12월 13일 방송된 SBS ‘신발 벗고 돌싱포맨’에서는 탁재훈, 임원희, 이상민, 김준호가 이상민 집에서 모였다. 이날 탁재훈, 임원희, 이상민, 김준호는 함께 카타르 월드컵 브라질전을 이상민 집에서 보기로 했다. 탁재훈은 “여기 오는 게 카타르 가는 것과 똑같다. 진짜 멀다”고 하소연했다. 김준호는 “주무시]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[메이크업 아티스트→10억 CEO… 입 떡 벌어지는 ‘공개의 밤’]]></title>
-        <id>https://v.daum.net/v/20221213233115659</id>
-        <link href="https://v.daum.net/v/20221213233115659"/>
-        <updated>2022-12-13T15:15:22.064Z</updated>
-        <content type="html"><![CDATA[[OSEN=박근희 기자] '에덴2’ 공개의 밤을 통해 멤버들의 신상이 공개됐다. 13일 오후 방송딘 채널 IHQ 예능프로그램 '에덴2’에서는 '공개의 밤'을 이어가는 청춘남녀 8인, 김강래 김도현 김수민 조이건 라나 손서아 이서연 현채희 모습이 공개됐다. 러시아에서 온 라나는 “한국어를 독학하다가 너무 좋아서 공격적으로 배우러 왔다. 성균관대학교 정치외]]></content>
     </entry>
 </feed>
