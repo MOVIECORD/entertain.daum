@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-12-15T14:12:12.770Z</updated>
+    <updated>2022-12-15T15:12:52.346Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['일당백집사' 송덕호, 진실 알아챈 이혜리 목 졸라 "어떻게 알았어"]]></title>
+        <id>https://v.daum.net/v/20221215233708537</id>
+        <link href="https://v.daum.net/v/20221215233708537"/>
+        <updated>2022-12-15T15:12:35.922Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 이빛나리 기자] /사진='일당백집사' 방송화면'일당백집사'에서 송덕호가 자신의 범인으로 의심하는 이혜리를 압박했다. 15일 오후 방송된 MBC 수목드라마 '일당백집사'에서는 백동주(이혜리 분)가 서해안(송덕호 분)을 의심하는 장면이 담겼다. 이날 백동주는 고인이 된 서영철(최재환 분)을 만나 "2년 전에 교통사고 낸 거 기억하세요?"라고 물었]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['일당백집사' 이혜리, 최재환 동료와 만남..수상한 송덕호]]></title>
         <id>https://v.daum.net/v/20221215230029352</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20221215201444222"/>
         <updated>2022-12-15T12:21:41.666Z</updated>
         <content type="html"><![CDATA[(엑스포츠뉴스 김현숙 인턴기자) '태풍의 신부' 오승아가 만년필 수리점을 간 사람이란 게 밝혀졌다.&nbsp; 15일 방송된 KBS 2TV 일일드라마 '태풍의 신부'에서는 강바다(오승아 분)가 은서연(박하나), 윤산들(박윤재)이 찾는 만년필 녹음 파일을 가져가는 장면이 전파를 탔다.&nbsp; 강바다는 은서연과 윤산들이 만년필에 대해 이야기하는 걸 들은 후 수리점으로 향했다]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[문태유, '사랑의 이해' 캐스팅…유연석과 호흡]]></title>
-        <id>https://v.daum.net/v/20221215200346030</id>
-        <link href="https://v.daum.net/v/20221215200346030"/>
-        <updated>2022-12-15T11:15:50.724Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 황수연 기자) 배우 문태유가 드라마 '사랑의 이해'로 올겨울 안방극장을 찾아온다. JTBC 새 수목드라마 '사랑의 이해'는 각기 다른 이해(利害)를 가진 이들이 서로를 만나 진정한 '사랑'의 의미를 이해(理解)하게 되는 이야기를 담은 멜로 드라마. 다양한 전작을 통해 여러 차례 탄탄한 연기력을 입증한 문태유의 합류 소식과 보는 이들에게 짙은]]></content>
     </entry>
 </feed>
