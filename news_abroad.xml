@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2022-12-15T02:22:58.758Z</updated>
+    <updated>2022-12-15T03:19:05.537Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[헨리 카빌 “‘슈퍼맨’ 복귀 무산, 슬픈 뉴스…그것이 인생이다”]]></title>
+        <id>https://v.daum.net/v/20221215115441061</id>
+        <link href="https://v.daum.net/v/20221215115441061"/>
+        <updated>2022-12-15T03:19:04.974Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]헨리 카빌(39)의 ‘슈퍼맨’ 복귀가 무산됐다. 그는 14일(현지시간) 인스타그램에 DC 스튜디오의 공동 회장 견 CEO로 선임된 제임스 건, 피터 사프란과 미팅을 가졌다고 밝히면서 “‘슈퍼맨’으로 돌아오지 않을 것이다”라고 말했다. 이어“슬픈 뉴스이지만, 그것이 인생이다. 나는 제임스와 피터가 만들어야 할 우주를 가지고]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[휴 잭맨 합류 ‘데드풀3’ 어떨까, “대담한 폭력+하드코어+재미 추구” R등급 유지]]></title>
         <id>https://v.daum.net/v/20221215112004774</id>
