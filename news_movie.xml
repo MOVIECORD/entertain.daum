@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2022-12-15T11:16:07.441Z</updated>
+    <updated>2022-12-15T12:21:56.975Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['아바타: 물의 길' 192분·티켓값 장애물 넘고 천만 동원할까]]></title>
+        <id>https://v.daum.net/v/20221215205022932</id>
+        <link href="https://v.daum.net/v/20221215205022932"/>
+        <updated>2022-12-15T12:21:36.535Z</updated>
+        <content type="html"><![CDATA[[OSEN=김보라 기자]&nbsp;올 겨울 기대작으로 손꼽힌 영화 ‘아바타: 물의 길’이 개봉 첫날인 어제(14일) 관객들의 선택을 받아 박스오피스 1위를 달성했다. 15일 영진위 영화관입장권 통합전산망 집계를 보면 전날 ‘아바타: 물의 길’은 35만 9260명을 동원하며 일별 박스오피스 1위에 올랐다. 첫날 누적 관객수는 36만 16명. 지난 2009년 개봉한]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[전편 뛰어넘는 영상미…  3시간 동안 수중비경에 홀린다]]></title>
+        <id>https://v.daum.net/v/20221215204309793</id>
+        <link href="https://v.daum.net/v/20221215204309793"/>
+        <updated>2022-12-15T12:21:36.540Z</updated>
+        <content type="html"><![CDATA[에메랄드빛 바다가 눈앞에서 출렁인다. 푸른 피부를 가진 소년은 고래를 닮은 생명체 ‘툴쿤’과 교감하며 바닷속을 유영한다. 3D 안경을 낀 관객들은 순식간에 영화 속 세계와 일체를 이룬다. 13년 전 역대 글로벌 박스오피스 1위(28억2291만달러)를 기록하며 3D 열풍을 일으켰던 제임스 캐머런 감독 영화 ‘아바타’가 한층 더 진보된 시각 효과로 새로운 영화]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['아바타2', 예매량 100만 장 돌파…新 흥행 기록 세우나]]></title>
         <id>https://v.daum.net/v/20221215194225656</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20221215171547268"/>
         <updated>2022-12-15T09:11:51.639Z</updated>
         <content type="html"><![CDATA[[스타뉴스 김나연 기자] 서지훈 / 사진=월트디즈니컴퍼니 코리아배우 서지훈이 신예은과 두 번째 호흡을 맞춘 소감을 밝혔다. 15일 서울시 종로구 소격동의 한 카페에서 디즈니+ 오리지널 시리즈 '3인칭 복수'의 서지훈과 만나 다양한 이야기를 나눴다. '3인칭 복수'는 쌍둥이 오빠의 죽음에 얽힌 진실을 찾아 나선 '찬미'(신예은 분)와 불공평한 세상에 맞서]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['영웅' 션x이영표 관람→독립유공자 후손 주거개선 815만원 기부]]></title>
-        <id>https://v.daum.net/v/20221215170954073</id>
-        <link href="https://v.daum.net/v/20221215170954073"/>
-        <updated>2022-12-15T08:15:35.718Z</updated>
-        <content type="html"><![CDATA[[OSEN=하수정 기자] 세대를 뛰어넘는 실력파 배우들의 앙상블, 공연 그 이상의 감동을 선사하는 스토리와 볼거리로 뜨거운 호평을 불러일으키고 있는 영화 '영웅'이 ‘815런’에 기부금을 전하고 가수 션과 ‘815러너스’를 대상으로 한 시사회까지 진행하며 화제를 모으고 있다. '영웅'(감독 윤제균, 제공배급 CJ ENM, 제작 (주)JK필름, 공동제작]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['신비아파트 극장판 차원도깨비와 7개의 세계' 호평 릴레이, "TV보다 더 실감나고 재미있어"]]></title>
-        <id>https://v.daum.net/v/20221215170630954</id>
-        <link href="https://v.daum.net/v/20221215170630954"/>
-        <updated>2022-12-15T08:15:35.718Z</updated>
-        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]TV 시리즈를 시작으로 뮤지컬, 게임, 완구, 웹드라마까지 큰 사랑을 받고 있는 대한민국 NO.1 애니메이션 ‘신비아파트’의 세 번째 이야기 '신비아파트 극장판 차원도깨비와 7개의 세계'가 스페셜 시사 이후 관객들의 뜨거운 호평이 담긴 리뷰 영상을 공개했다. 다른 평행세계로 사라진 ‘두리’와 ‘금비’를 찾고, 새로운 악당 ‘어]]></content>
     </entry>
 </feed>
