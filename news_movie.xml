@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2022-12-16T22:11:08.024Z</updated>
+    <updated>2022-12-16T23:11:32.555Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[영화에서 내가 찾고자 했던 것은…전수일 감독의 '마지막 필름']]></title>
+        <id>https://v.daum.net/v/20221217080011147</id>
+        <link href="https://v.daum.net/v/20221217080011147"/>
+        <updated>2022-12-16T23:11:09.901Z</updated>
+        <content type="html"><![CDATA[(서울=연합뉴스) 양정우 기자 = 연극영화학과 교수이자 영화감독인 상민은 빚쟁이에 쫓기며 사는 처량한 신세다. 어느 날 그 앞에 자신을 영화로 찍으면 빚을 모두 갚아주겠다는 사채업자 만복이 나타난다. 상민과 만복은 동행에 나서고 꿈과 현실을 오가듯 다양한 일을 겪는다. 상민은 만복의 일상을 마치 카메라에 담아가는 듯하지만, 그 과정은 자신의 내면을 진지하]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘아바타:물의 길’ 3일만에 100만 돌파‥시리즈 저력 발휘]]></title>
+        <id>https://v.daum.net/v/20221217080005131</id>
+        <link href="https://v.daum.net/v/20221217080005131"/>
+        <updated>2022-12-16T23:11:09.904Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 배효주 기자] '아바타: 물의 길'이 개봉 3일 만에 100만 관객을 돌파하며 저력을 발휘하고 있다. 12월 17일 영화진흥위원회 통합전산망 집계에 따르면 16일 기준 영화 '아바타: 물의 길'(감독 제임스 카메론)이 누적 관객 106만5,840명으로 개봉 3일째 100만 돌파했다. 2009년 혁신적인 기술력으로 신드롬을 일으키며 월드와이드 역대]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['아바타: 물의 길' 3일째 흥행 선두…100만 넘었다]]></title>
         <id>https://v.daum.net/v/20221217070027740</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20221216153906402"/>
         <updated>2022-12-16T08:14:08.945Z</updated>
         <content type="html"><![CDATA[‘아바타’&nbsp;영화 시리즈의 제임스 카메론 감독. ‘B tv 이동진의 파이아키아’ 캡처  &nbsp; 최근 속편이 개봉하며 전 세계적으로 크게 흥행중인 ‘아바타’&nbsp;영화 시리즈의 제임스 카메론(68·캐나다) 감독이 3~5편의 개봉에는 오랜 시간이 걸리지 않을 것이라고 밝혔다. 카메론 감독은 ‘아바타: 물의 길’의 국내 개봉일이기도 했던 지난 14일 유튜브 채널 ‘]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[윤제균 감독 야심작 ‘영웅’ 흥행 예고하는 결정적 단서는 이것]]></title>
-        <id>https://v.daum.net/v/20221216152850077</id>
-        <link href="https://v.daum.net/v/20221216152850077"/>
-        <updated>2022-12-16T07:10:08.375Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 허민녕 기자] 올해 흥행작에서 빼놓을 수 없는 필승 키워드가 있다면 그건 ‘팬덤.’ 개봉 후 자연발생적으로 형성되는 게 일반적이긴 하지만 화제작 ‘영웅’의 경우 좀 다를 것 같다. 동명 원작 뮤지컬을 기반으로 한 두텁고도 충성도 높은 팬 층이 존재하기 때문. 영화 개봉일인 12월21일에 맞춰 원작 뮤지컬도 함께 상연에 들어가는 가운데, ‘영웅’]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[광대였던 유해진, 300만 항해 중 '올빼미'로 가장 높은 곳에 '안착']]></title>
-        <id>https://v.daum.net/v/20221216145904012</id>
-        <link href="https://v.daum.net/v/20221216145904012"/>
-        <updated>2022-12-16T06:14:16.754Z</updated>
-        <content type="html"><![CDATA[[텐아시아=강민경 기자] 배우 유해진이 12월 영화배우 브랜드 평판 1위에 올랐다. 광대의 신분으로 가장 낮은 자리에 섰던 그가 처음으로 곤룡포를 입고 높은 자리에 올랐다. 이는 영화 '올빼미'(감독 안태진) 덕분이었다. 16일 소속사 키이스트에 따르면 유해진은 12월 영화배우 브랜드 평판 1위를 차지했다. 한국기업평판연구소는 "2022년 12월 영화배]]></content>
     </entry>
 </feed>
