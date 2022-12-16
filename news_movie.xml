@@ -2,11 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2022-12-16T06:14:38.523Z</updated>
+    <updated>2022-12-16T07:10:29.900Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[광대였던 유해진, 300만 향해 중 '올빼미'로 가장 높은 곳에 '안착']]></title>
+        <title type="html"><![CDATA[윤제균 감독 야심작 ‘영웅’ 흥행 예고하는 결정적 단서는 이것]]></title>
+        <id>https://v.daum.net/v/20221216152850077</id>
+        <link href="https://v.daum.net/v/20221216152850077"/>
+        <updated>2022-12-16T07:10:08.375Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 허민녕 기자] 올해 흥행작에서 빼놓을 수 없는 필승 키워드가 있다면 그건 ‘팬덤.’ 개봉 후 자연발생적으로 형성되는 게 일반적이긴 하지만 화제작 ‘영웅’의 경우 좀 다를 것 같다. 동명 원작 뮤지컬을 기반으로 한 두텁고도 충성도 높은 팬 층이 존재하기 때문. 영화 개봉일인 12월21일에 맞춰 원작 뮤지컬도 함께 상연에 들어가는 가운데, ‘영웅’]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[광대였던 유해진, 300만 항해 중 '올빼미'로 가장 높은 곳에 '안착']]></title>
         <id>https://v.daum.net/v/20221216145904012</id>
         <link href="https://v.daum.net/v/20221216145904012"/>
         <updated>2022-12-16T06:14:16.754Z</updated>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20221216113515249"/>
         <updated>2022-12-16T03:12:13.958Z</updated>
         <content type="html"><![CDATA[[OSEN=김채연 기자] 영화 ‘영웅’의 윤제균 감독이 영화감독으로 데뷔하게 된 계기를 밝혔다. 16일 오전 방송된 SBS 파워FM ‘박하선의 씨네타운’에서는 영화 ‘영웅’의 윤제균 감독, 배우 정성화가 출연해 영화에 대한 이야기를 나눴다. 이날 한 청취자는 윤제균 감독에게 “광고회사 다니시다가 IMF 무급휴직으로 인해 영화감독이 되셔다고 들었다. 또 광]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['영웅' 윤제균 감독 "경제학 전공, IMF로 광고회사 무급휴직 중 얼결에 데뷔"]]></title>
-        <id>https://v.daum.net/v/20221216113220151</id>
-        <link href="https://v.daum.net/v/20221216113220151"/>
-        <updated>2022-12-16T03:12:13.960Z</updated>
-        <content type="html"><![CDATA[[마이데일리 = 김나라 기자] '박하선의 씨네타운'에서 '영웅'의 윤제균 감독이 연출 데뷔 전 과거를 회상했다. 16일 오후 방송된 SBS 파워FM '박하선의 씨네타운'에는 영화 '영웅'의 윤제균 감독과 주연 정성화가 게스트로 등장했다. 이날 윤제균 감독은 "제 전공은 경제학과다. 광고회사의 전략기획팀에서 4년 동안 있었다. 근데 IMF가 터졌고, 결혼하]]></content>
     </entry>
 </feed>
