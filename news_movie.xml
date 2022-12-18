@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2022-12-17T23:10:34.487Z</updated>
+    <updated>2022-12-18T00:53:59.459Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["'아바타'보다 빠르다"…'아바타2' 개봉 5일차 200만 돌파 성공..제대로 터진 화력]]></title>
+        <id>https://v.daum.net/v/20221218091407292</id>
+        <link href="https://v.daum.net/v/20221218091407292"/>
+        <updated>2022-12-18T00:53:39.367Z</updated>
+        <content type="html"><![CDATA[[스포츠조선 조지영 기자] SF 영화 '아바타: 물의 길'(이하 '아바타2', 제임스 카메론 감독)이 개봉 5일 차 200만 관객을 돌파하며 박스오피스를 완벽하게 제압했다. '아바타2'가 개봉 5일 차에 200만 관객을 돌파하며 흥행에 박차를 가하고 있다. 영화관입장권 통합전산망에 따르면 '아바타2'가 18일 오전 7시 기준 누적 관객수 2]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['아바타: 물의 길' 개봉 5일 만에 200만 돌파… 흥행 레이스 가동]]></title>
+        <id>https://v.daum.net/v/20221218081512772</id>
+        <link href="https://v.daum.net/v/20221218081512772"/>
+        <updated>2022-12-18T00:53:39.369Z</updated>
+        <content type="html"><![CDATA[[OSEN=김보라 기자]&nbsp;개봉과 함께 압도적으로 박스오피스 1위를 기록하며 다시 한번 전세계적인 신드롬을 예고한 영화 '아바타: 물의 길'이 개봉 5일차인 오늘 200만 관객을 돌파하며 박스오피스를 완벽하게 제압했다.&nbsp; 영화 '아바타: 물의 길'(감독 제임스 카메론, 수입배급 월트디즈니컴퍼니 코리아)이 개봉 5일 차에 200만 관객을 돌파하며 흥행에 박]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['아바타' 4일 연속 1위…오늘 200만 돌파한다]]></title>
         <id>https://v.daum.net/v/20221218075909622</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20221217111535048"/>
         <updated>2022-12-17T03:11:44.321Z</updated>
         <content type="html"><![CDATA[[성하훈 기자] ▲ &nbsp;&lt;헤어질 결심&gt; 한 장면    ⓒ CJ ENM  올해 최고의 한국영화는 지난 6월 개봉한 박찬욱 감독의 &lt;헤어진 결심&gt;이었다. 누적 관객 189만을 기록하면서 손익분기점을 살짝 웃도는 흥행을 기록한 &lt;헤어질 결심&gt;은 연말 영화상 시상식이 마무리된 가운데, 주요 부문인 작품상, 감독상, 남녀주연상, 남녀조연상, 각본상, 신]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“내 이름을 써도 괜찮아요”…‘미투’ 물결이 시작됐다]]></title>
-        <id>https://v.daum.net/v/20221217110017867</id>
-        <link href="https://v.daum.net/v/20221217110017867"/>
-        <updated>2022-12-17T02:06:02.727Z</updated>
-        <content type="html"><![CDATA[☞한겨레S 뉴스레터 무료 구독. 검색창에 ‘에스레터’를 쳐보세요. “하비 와인스틴은 수십년간 성폭력 고발자들에게 합의금을 지불했다.” 2017년 10월5일. 미국 사회를 발칵 뒤집어놓았고 이후 세계적으로 #미투(#나도 말한다) 운동을 촉발시킨 한편의 기사가 &lt;뉴욕 타임스&gt;에 게재됐다. 기사는 이렇게 시작한다. “20년 전 할리우드의 제작자 하비 와인스틴은]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘아바타2’, 첫 주말 흥행 본격 시동]]></title>
-        <id>https://v.daum.net/v/20221217104200674</id>
-        <link href="https://v.daum.net/v/20221217104200674"/>
-        <updated>2022-12-17T02:06:02.727Z</updated>
-        <content type="html"><![CDATA[지난 14일 개봉한 글로벌 기대작 ‘아바타: 물의 길’(이하 ‘아바타2’)이 첫 주말을 맞아 본격적인 흥행몰이에 나선다. 16일 영화진흥위원회 영화관입장권 통합전산망에 따르면 ‘아바타2’는 개봉 날 35만 9290명, 둘째 날인 15일에는 29만 1484명을 동원해 누적관객수 65만1488명을 기록했다. 3일째인 이날 오후 5시께 100만 돌파에 성공했다.]]></content>
     </entry>
 </feed>
