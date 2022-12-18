@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2022-12-18T19:09:08.301Z</updated>
+    <updated>2022-12-18T20:11:06.689Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['삼남매' 장미희, 안지혜 폭로에 민성욱 의심 시작]]></title>
+        <id>https://v.daum.net/v/20221219051006766</id>
+        <link href="https://v.daum.net/v/20221219051006766"/>
+        <updated>2022-12-18T20:11:01.199Z</updated>
+        <content type="html"><![CDATA[(서울=뉴스1) 이아영 기자 = '삼남매가 용감하게' 장미희가 민성욱을 의심하기 시작했다. 18일 방송된 KBS 2TV 주말드라마 '삼남매가 용감하게'(극본 김인영/연출 박만영)에서는 이장미(안지혜 분)가 장세란(장미희 분) 앞에 나타났다. 나은주(정수영 분)는 스트레스 때문에 수면유도제를 처방받았다. 나은주는 "그 여자 죽여버리고 싶다. 미쳐버릴 것]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['당나귀 귀' 이금희, 김우리 감동케 한 따뜻한 말 한마디]]></title>
+        <id>https://v.daum.net/v/20221219045002454</id>
+        <link href="https://v.daum.net/v/20221219045002454"/>
+        <updated>2022-12-18T20:11:01.199Z</updated>
+        <content type="html"><![CDATA[(서울=뉴스1) 이아영 기자 = '당나귀 귀' 김우리가 이금희의 말을 듣고 감동받았다. 18일 방송된 KBS 2TV '사장님 귀는 당나귀 귀'에는 스페셜 MC로 이금희가 출연했다. 소셜 미디어 커머스 대표 김우리는 직원들과 강원도 영월로 출장을 갔다. 직원들은 김우리 대표의 집 앞에서 김우리를 기다리고 있었다. 김우리는 직원들이 빨리 온 것이라고 해명했]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['런닝맨' 적재, "기억이 안 난다"…아쉬운 기억력으로 '허당미' 발산]]></title>
         <id>https://v.daum.net/v/20221219040603315</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20221218232309880"/>
         <updated>2022-12-18T15:10:48.175Z</updated>
         <content type="html"><![CDATA[[스포츠투데이 백지연 기자] '재벌집 막내아들' 신현빈이 송중기에 실망했다. 18일 방송된 JTBC 금토일드라마 '재벌집 막내아들'에서는 진도준(송중기)과 서민영(신현빈)이 갈등을 빚었다. 이날 방송에서 서민영은 이필옥(김현)이 해외로 도피했다는 사실을 알게 됐고, 진도준을 찾아갔다. 서민영은 "네 할머니. 살인교사 사건 피의자 이필옥. 해외로 도주시킨]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RM "전 방탄소년단서 14.2%…'무거운 왕관' 운명에 맞서고파"]]></title>
-        <id>https://v.daum.net/v/20221218232235878</id>
-        <link href="https://v.daum.net/v/20221218232235878"/>
-        <updated>2022-12-18T15:10:48.178Z</updated>
-        <content type="html"><![CDATA[기사내용 요약 'KBS 뉴스9' 심층 인터뷰 코너 '뉴스를 만나다' 출연 "그룹 BTS RM·개인 김남준 사이에서 균형 잘 잡아가고 싶어" "'모노.'랑 '인디고'는 2부작" 입대 진, 맏형다운 소감 남겨 [서울=뉴시스]이재훈 기자 = "클리셰적인 표현이지만 '왕관을 쓰는 자 무게를 견뎌라'라는 말이 있잖아요. 실제로 방탄소년단, BTS라는 왕관]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['재벌집 막내아들' 송중기, 이성민 진짜 뜻 알았다 "날 가장 닮은 손주"]]></title>
-        <id>https://v.daum.net/v/20221218231007809</id>
-        <link href="https://v.daum.net/v/20221218231007809"/>
-        <updated>2022-12-18T15:10:48.181Z</updated>
-        <content type="html"><![CDATA[[티브이데일리 김종은 기자] '재벌집 막내아들' 송중기가 이성민이 남긴 유산의 진짜 뜻을 알게 됐다. 18일 밤 방송된 JTBC 금토일드라마 '재벌집 막내아들'(극본 김태희·연출 정대윤) 14회에서는 순양을 사기 위한 진도준(송중기)의 작전이 펼쳐졌다. 이날 진도준은 순양생명의 대표 선임을 눈앞에 두고 발목이 잡혔다. 진성준(김남희)이 진도준은 진양철(]]></content>
     </entry>
 </feed>
