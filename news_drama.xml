@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-12-18T08:13:34.886Z</updated>
+    <updated>2022-12-18T09:11:07.986Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['빨간 풍선' 홍수현, 똑단발 비주얼에 연기 변신까지…시선 집중]]></title>
+        <id>https://v.daum.net/v/20221218171525634</id>
+        <link href="https://v.daum.net/v/20221218171525634"/>
+        <updated>2022-12-18T09:10:50.899Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 김예은 기자) 배우 홍수현이 돌아왔다. 17일 첫 방송된 TV조선 새 주말미니시리즈 '빨간 풍선'에서 홍수현이 한바다 캐릭터로 파격적인 변신을 시도하며 인생 드라마, 인생 캐릭터의 탄생을 알렸다. ‘빨간 풍선’은 우리 모두가 시달리는 상대적 박탈감, 그 배 아픈 욕망의 목마름, 그 목마름을 달래려 몸부림치는 우리들의 아슬아슬하고]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김현진 "'짝녀' 한지현과 등댓불 돌아가는 내내 키스…'치얼업'으로 대학 로망 실현"]]></title>
         <id>https://v.daum.net/v/20221218170002464</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20221218134958956"/>
         <updated>2022-12-18T05:10:03.924Z</updated>
         <content type="html"><![CDATA[[엔터미디어=정덕현] 왜 굳이 정소민에서 고윤정으로 여주인공을 교체했는지 알겠다. 그건 tvN 토일드라마 &lt;환혼: 빛과 그림자(이하 환혼2)&gt;가 하려는 이야기에 꼭 필요한 설정이기 때문이다. 되돌아보면 이 설정은 애초 혼을 바꾸는 '환혼술'을 소재로 가져온 이 드라마에 피할 수 없는 선택이었다는 생각이 든다. 초절정의 수기를 가진 살수였던 낙수(고윤정)는]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['환혼' 이재욱♥︎고윤정, 뜨거운 포옹으로 운명 로맨스 불붙었다]]></title>
-        <id>https://v.daum.net/v/20221218133829854</id>
-        <link href="https://v.daum.net/v/20221218133829854"/>
-        <updated>2022-12-18T05:10:03.931Z</updated>
-        <content type="html"><![CDATA[[OSEN=박판석 기자]&nbsp;tvN ‘환혼: 빛과 그림자’ 이재욱과 고윤정이 뜨겁게 포옹하며 운명 로맨스를 본격 점화한다. tvN 토일드라마 ‘환혼: 빛과 그림자’(연출 박준화/극본 홍정은 홍미란/제작 스튜디오드래곤 TS나린시네마)(이하. ‘환혼’) 측이 4회 방송에 앞서 장욱(이재욱 분)과 진부연(고윤정 분)의 포옹이 담긴 스틸을 공개하며 안방극장의 로맨]]></content>
     </entry>
 </feed>
