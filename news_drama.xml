@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-12-18T10:11:19.411Z</updated>
+    <updated>2022-12-18T11:09:06.225Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[3회 남은 '재벌집', 이성민 벌써 사망?…죽어도 못 보내]]></title>
+        <id>https://v.daum.net/v/20221218193831387</id>
+        <link href="https://v.daum.net/v/20221218193831387"/>
+        <updated>2022-12-18T11:08:51.860Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 김예은 기자) 종영까지 3회가 남았는데, 이성민이 벌써 '재벌집 막내아들'에서 퇴장했다.&nbsp; 17일 방송된 JTBC 금토일드라마 '재벌집 막내아들' 13회에서는 순양그룹 회장 진양철(이성민 분)이 건강 악화로 사망하는 모습이 그려졌다. 아직 3회가 더 남았는데, 주인공인 진앙철이 일찍이 퇴장해버린 것.&nbsp; 지병이 있었던 진양철은 아내 이필옥(김현]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“커플 다 죽었으면” ’셋셋남녀’ 이유진, 김소은♥︎강병훈 커플 싸움에 혼자 상처]]></title>
         <id>https://v.daum.net/v/20221218182028547</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20221218140620213"/>
         <updated>2022-12-18T05:10:03.909Z</updated>
         <content type="html"><![CDATA[[OSEN=최나영 기자]&nbsp;TV CHOSUN&nbsp;주말미니시리즈&nbsp;‘빨간 풍선’이 ‘문영남표 가족극’다운 서막을 열었다. 지난&nbsp;17일&nbsp;방송된&nbsp;TV CHOSUN&nbsp;주말미니시리즈&nbsp;‘빨간 풍선’(극본 문영남/연출 진형욱/제작 초록뱀 미디어,&nbsp;하이그라운드) 1회는&nbsp;닐슨코리아 기준 전국 시청률&nbsp;3.7%를 기록,&nbsp;분당 최고 시청률은&nbsp;4.4%. ‘빨간 풍선’ 1회에서는 고등학]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['재벌집' 이성민, 죽어서도 반전…"송중기 유산 없다" 충격 유언장]]></title>
-        <id>https://v.daum.net/v/20221218135348009</id>
-        <link href="https://v.daum.net/v/20221218135348009"/>
-        <updated>2022-12-18T05:10:03.917Z</updated>
-        <content type="html"><![CDATA[[OSEN=장우영 기자] 이성민은 마지막까지 만만치 않았다. JTBC 금토일드라마 '재벌집 막내아들' 12회에서 양철(이성민)은 항재(정희태)에게 도준(송중기)을 위해 유언장을 수정하겠다고 지시했다. 며칠 뒤 정심재 2층에서 쓰러진 채 발견된 그는 끝내 일어나지 못했다. 양철이 죽기 전 진씨 일가는 양철의 유언장 내용을 함께 들었다. 양철은 성준(김남희]]></content>
     </entry>
 </feed>
