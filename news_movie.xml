@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2022-12-18T04:13:23.933Z</updated>
+    <updated>2022-12-18T05:10:20.989Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['왕의 남자'후 17년..쫄깃한 스릴러 사극 '올빼미' 나오기까지]]></title>
+        <id>https://v.daum.net/v/20221218140000064</id>
+        <link href="https://v.daum.net/v/20221218140000064"/>
+        <updated>2022-12-18T05:09:58.504Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 김미화 기자] 영화 '올빼미' 안태진 감독이 15일 오후 서울 종로구 삼청동의 한 카페에서 진행된 인터뷰를 위해 포즈를 취하고 있다.  '올빼미'는 밤에만 앞이 보이는 맹인 침술사가 세자의 죽음을 목격한 후 진실을 밝히기 위해 벌이는 하룻밤의 사투를 그린 스릴러다. 오는 23일 개봉. / 사진제공 = NEW /사진=김창현 기자 chmt@ 영화 ']]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[안중근役 14년..'영웅' 정성화가 내디딘 '꿈'의 첫발]]></title>
         <id>https://v.daum.net/v/20221218130012460</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20221218075820617"/>
         <updated>2022-12-17T23:10:13.727Z</updated>
         <content type="html"><![CDATA[[OSEN=최나영 기자] 감독 제임스 카메론(68)이 영화&nbsp;'타이타닉'의 이른바 레오나르도 디카프리오 사망 논쟁 종식(?)에 나선다. 카메론은 '타이타닉'의 마지막에 그려진 잭 도슨(레오나르도 디카프리오)의 죽음에 대한 팬들의 반발 이론을&nbsp;잠재울 준비가 돼 있다. 카메론은 최근 포스트미디어와의 인터뷰에서 '타이타닉'에서 타이타닉 호가 침몰한 후 계속 논]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이호원 “母도 반대한 ‘스맨파’, 자신 있었죠”]]></title>
-        <id>https://v.daum.net/v/20221218073304515</id>
-        <link href="https://v.daum.net/v/20221218073304515"/>
-        <updated>2022-12-17T23:10:13.732Z</updated>
-        <content type="html"><![CDATA[(인터뷰①에 이어) 2010년 그룹 인피니트로 데뷔한 이호원은 2017년 팀에서 탈퇴했다. 2012년 tvN 드라마 ‘응답하라 1997’를 시작으로 ‘가면’ ‘자체발광 오피스’ ‘투깝스’, 영화 ‘히야’ ‘서울괴담’ 등에 출연하며 배우로 활발하게 활동 중이다. 최근엔 Mnet 남성 댄스 크루 서바이벌 ‘비 엠비셔스’에 이어 ‘스트릿 맨 파이터’(이하 스맨파]]></content>
     </entry>
 </feed>
