@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-12-18T03:12:40.790Z</updated>
+    <updated>2022-12-18T04:13:24.027Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘아무것도 하고 싶지 않아’ 김설현, 할머니 위한 한글 선생님 변신]]></title>
+        <id>https://v.daum.net/v/20221218123034131</id>
+        <link href="https://v.daum.net/v/20221218123034131"/>
+        <updated>2022-12-18T04:13:08.534Z</updated>
+        <content type="html"><![CDATA[[OSEN=박판석 기자]&nbsp;‘아무것도 하고 싶지 않아’ 김설현이 할머니의 한글 선생님이 된다. 지니 TV 오리지널 드라마 ‘아무것도 하고 싶지 않아’(연출 이윤정 홍문표/극본 홍문표 이윤정/기획 KT스튜디오지니/제작 지티스트)가 입소문을 타며 시청자들을 사로잡고 있다. 특히 이방인 같던 여름(김설현 분)이 점점 안곡마을 주민들과 관계를 맺는 과정은 힐링을]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['금혼령' 김우석, 김영대·박주현과 미묘한 기류…삼각관계 본격 신호탄]]></title>
         <id>https://v.daum.net/v/20221218120356806</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20221218095737827"/>
         <updated>2022-12-18T02:08:33.438Z</updated>
         <content type="html"><![CDATA[[OSEN=장우영 기자] ‘빨간 풍선’의 배우 서지혜가 차분한 눈빛과 짙은 목소리로 강렬한 존재감을 뽐냈다. TV조선 주말드라마 ‘빨간 풍선’(극본 문영남, 연출 진형욱, 제작 초록뱀 미디어, 하이그라운드)은 우리 모두가 시달리는 상대적 박탈감, 그 배 아픈 욕망의 목마름, 그 목마름을 달래려 몸부림치는 우리들의 아슬아슬한 이야기를 다룬 작품이다. 서지]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[송중기 or 이성민…연기 대상도 순양家 집안 싸움]]></title>
-        <id>https://v.daum.net/v/20221218093017474</id>
-        <link href="https://v.daum.net/v/20221218093017474"/>
-        <updated>2022-12-18T00:53:44.316Z</updated>
-        <content type="html"><![CDATA[[OSEN=장우영 기자] 순양그룹 승계 전쟁이 살벌하게 펼쳐지고 있는 가운데 연기 전쟁도 살벌하다. 연기 구멍 없는 배우들의 열연이 시청자들의 시간을 순간 삭제 시키고 있는 가운데 벌써부터 백상예술대상 트로피의 주인공의 이름도 거론되고 있다. 지난달 18일 첫 방송된 JTBC 금토일드라마 ‘재벌집 막내아들’(극본 김태희 장은재, 연출 정대윤 김상호)의]]></content>
     </entry>
 </feed>
