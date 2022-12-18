@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2022-12-18T17:09:30.117Z</updated>
+    <updated>2022-12-18T18:12:36.740Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['싱포골드' 헤리티지 매스콰이어, 세계 합창 대회서 '성공적 무대'…박진영, "후회 없다" 뭉클]]></title>
+        <id>https://v.daum.net/v/20221219030601636</id>
+        <link href="https://v.daum.net/v/20221219030601636"/>
+        <updated>2022-12-18T18:12:30.947Z</updated>
+        <content type="html"><![CDATA[[SBS연예뉴스 | 김효정 에디터] 헤리티지가 성공적으로 무대를 마쳤다. 18일 방송된 SBS '싱포골드'에서는 스페인 세계 합창 대회에 출전한 헤리티지 매스콰이어와 싱포골드팀의 모습이 그려졌다. 이날 대회에 앞서 헤리티지 매스콰이어는 마지막 리허설에 나섰다. 안무를 위해 마이크를 사이드로 빼고 진행된 리허설에서는 여러 가지 문제가 발생했다. 우여곡절 끝에]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['재벌집 막내아들' 송중기, 이성민으로부터 추적 불가 비자금 받았다…순양 주인될까]]></title>
         <id>https://v.daum.net/v/20221219001902220</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20221218225809774"/>
         <updated>2022-12-18T14:09:22.512Z</updated>
         <content type="html"><![CDATA[[스포츠투데이 백지연 기자] '재벌집 막내아들' 조한철과 윤제문이 순양의 최대 주주로 부상했다. 18일 밤 방송되는 JTBC 금토일 드라마 '재벌집 막내아들'에서 순양의 지분을 차지한 진영기(윤제문)와 진동기(조한철)의 모습이 그려졌다. 이날 방송에서 진영기와 진동기가 각 30%의 지분을 차지하고 희열을 느꼈다. 진동기가 진영기에게 "도준이(송중기) 우]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘뉴스9’ RM, 진 입대→BTS 1막 넘어갔다 “빠른 시일 내에 모일 것”]]></title>
-        <id>https://v.daum.net/v/20221218225024752</id>
-        <link href="https://v.daum.net/v/20221218225024752"/>
-        <updated>2022-12-18T14:09:22.514Z</updated>
-        <content type="html"><![CDATA[[OSEN=박하영 기자] RM이 ‘방탄소년단(BTS)’로 사는 것에 대한 생각을 밝혔다. 18일 방송된 KBS 1TV ‘KBS 뉴스 9시’에서는 방탄소년단 RM이 출연했다. 이날 RM은 “2년 전 뉴스 스튜디오에 멤버들과 다함께 나온 적은 있었는데 혼자 나온 것은 처음이다. 굉장히 어색하다”라며 출연 소감을 전했다. 이에 이재석 앵커는 “며칠 전 멤버 가]]></content>
     </entry>
 </feed>
