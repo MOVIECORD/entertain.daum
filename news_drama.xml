@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-12-19T15:14:26.240Z</updated>
+    <updated>2022-12-19T16:17:59.393Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['아바드림' 故 김환성 추억…노유민 "항상 그리워"]]></title>
+        <id>https://v.daum.net/v/20221220002446165</id>
+        <link href="https://v.daum.net/v/20221220002446165"/>
+        <updated>2022-12-19T16:17:42.031Z</updated>
+        <content type="html"><![CDATA[(사진=TV조선 ‘아바드림’ 방송 캡처)[이데일리 스타in 조태영 인턴기자] ‘아바드림’이 그룹 NRG의 멤버 고(故) 김환성을 추억했다. 19일 오후 10시 방송된 TV조선 ‘아바드림’ 10회에서는 지난 2000년 6월 하늘의 별이 된 NRG의 막내 故 김환성과 함께하는 ‘트리뷰트’ 무대가 펼쳐졌다. 이날 방송에서는 NRG 멤버 천명훈, 노유민이 드리머]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[고수·허준호, 다시 '망자' 보인다! 김동휘 대면→新영혼마을 발견]]></title>
         <id>https://v.daum.net/v/20221219235926950</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20221219215420222"/>
         <updated>2022-12-19T13:18:06.966Z</updated>
         <content type="html"><![CDATA[(엑스포츠뉴스 이이진 기자) '미씽: 그들이 있었다2' 고수가 다시 귀신이 보인다는 사실을 알고 충격에 빠졌다. 19일 첫 방송된 tvN '미씽: 그들이 있었다2'(이하 '미씽2') 1회에서는 김욱(고수 분)이 망자 오일용(김동휘)을 본 모습이 그려졌다. 이날 오일용은 김욱과 부딪혔고, 김욱의 팔을 붙잡았다. 김욱은 전날 카페에서 마주쳤던 오일영을 알아봤고]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['미씽2' 고수 "실속만 챙겨"..보이스피싱범 제압 '용감한 시민상']]></title>
-        <id>https://v.daum.net/v/20221219212744998</id>
-        <link href="https://v.daum.net/v/20221219212744998"/>
-        <updated>2022-12-19T13:18:06.968Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 이상은 기자] /사진=tvN 월화드라마 '미씽: 그들이 있었다2’ 방송화면 '미씽2'에서 탈 정의를 외치던 고수가 보이스피싱범을 제압해 용감한 시민상을 받았다. 19일 오후 방송된 tvN 월화드라마 '미씽: 그들이 있었다2'(미씽2)에서는 공무원을 때려치우고 전당포를 운영하는 이종아(안소희 분)에게 김욱(고수 분)과 장판석(허준호 분)가 구박당]]></content>
     </entry>
 </feed>
