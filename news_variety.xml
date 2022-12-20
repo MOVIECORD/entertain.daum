@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/variety</id>
     <title>다음 연예 ─ 뉴스 ─ 예능</title>
-    <updated>2022-12-20T10:12:42.925Z</updated>
+    <updated>2022-12-20T11:09:43.995Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘불타는 트롯맨’ 서혜진 대표 “임영웅→이찬원처럼…이번에도 스타 발굴 자신”]]></title>
+        <id>https://v.daum.net/v/20221220200605199</id>
+        <link href="https://v.daum.net/v/20221220200605199"/>
+        <updated>2022-12-20T11:09:31.700Z</updated>
+        <content type="html"><![CDATA[트로트 열풍을 이끌었던 서혜진 대표가 새로운 트로트 오디션을 선보인다. 서혜진 대표는 SBS에서 TV조선으로 이적 후 ‘미스트롯’을 시작으로 ‘미스터트롯’, ‘국민가수’까지 성공적으로 이끌었다. 특히 ‘미스터트롯’은 35.7%(닐슨코리아 전국 유료가구 기준)를 기록하며, 비지상파 최고 시청률을 갈아치웠다. 미다스의 손이라고 불리던 서혜진 대표는 TV조선을]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['18세 임신' 김다정, 2살 子 독박육아.."애 아빠와 헤어졌어?"]]></title>
         <id>https://v.daum.net/v/20221220181202348</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20221220160330015"/>
         <updated>2022-12-20T07:10:48.925Z</updated>
         <content type="html"><![CDATA[[뉴스엔 황혜진 기자] 보이그룹 크래비티(세림, 앨런, 정모, 우빈, 원진, 민희, 형준, 태영, 성민)가 회식 분위기 콘텐츠를 선보였다. 크래비티는 12월 19일 공식 유튜브 채널을 통해 '크래비티 파크(CRAVITY PARK) 시즌6(이하 '비티파크')' 프로덕션 특집 2편을 공개했다. 에피소드1에서 ‘비티프로덕션’의 회사원들로 변신해 각기 다른 직급]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[히잡 둘러싼 의문사, 이란 뒤흔든 논쟁]]></title>
-        <id>https://v.daum.net/v/20221220155608685</id>
-        <link href="https://v.daum.net/v/20221220155608685"/>
-        <updated>2022-12-20T07:10:48.927Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 박수인 기자] '벌거벗은 세계사가' 히잡을 둘러싼 이슬람 사회의 오랜 갈등의 역사를 알아본다 12월 20일 방송되는 tvN ‘벌거벗은 세계사’(연출 김형오, 이윤호, 서용석) 78회에는 국내 최고의 중동 전문가, 서강대학교 유로메나연구소의 박현도 교수가 출연, 이슬람 사회의 뜨거운 감자인 히잡과 관련된 역사를 폭넓게 다룬다. 박 교수는 최근 이란]]></content>
     </entry>
 </feed>
