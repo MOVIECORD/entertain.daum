@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-12-20T19:09:45.210Z</updated>
+    <updated>2022-12-20T20:12:46.950Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘트롤리’ 박희순, 산 넘어 산..피의자 극단 선택에 또 위기]]></title>
+        <id>https://v.daum.net/v/20221221051016131</id>
+        <link href="https://v.daum.net/v/20221221051016131"/>
+        <updated>2022-12-20T20:12:30.333Z</updated>
+        <content type="html"><![CDATA[[OSEN=지민경 기자] ‘트롤리’ 박희순에게 또 다른 위기가 찾아왔다. 20일 오후 방송된 SBS&nbsp;월화드라마&nbsp;‘트롤리’에서는 세상을 떠난 아들 남지훈(정택현 분)의 아이를 가졌다고 찾아온 김수빈(정수빈 분)의 등장에 갈등하는 김혜주(김현주 분)과 남중도(박희순 분)의 모습이 그려졌다. 중도는 세상을 떠난 아들에게서 대포폰과 필로폰이 발견됐다는 사실이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['트롤리' 박희순 "디지털성범죄 바로 잡을 것"→피의자 의대생 투신]]></title>
         <id>https://v.daum.net/v/20221221011517068</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20221220204007763"/>
         <updated>2022-12-20T12:20:43.883Z</updated>
         <content type="html"><![CDATA[[스타뉴스 김옥주 인턴기자] /사진=KBS 2TV 일일드라마 '태풍의 신부' 방송 화면 캡쳐'태풍의 신부' 손창민이 본색을 드러냈다 20일 오후 방송된 KBS 2TV 일일드라마 '태풍의 신부'에서는 강백산(손창민 분)에게 술주정을 부리는 강바다(오승아 분)의 모습이 그려졌다. 이날 강바다는 술에 취해 강백산을 찾아가 "아버지 때문에 제 인생이 엉망이 되]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘뷔아이퓌셜’ 팀장과 전남친 커플 사이에서 영화 볼 확률은?]]></title>
-        <id>https://v.daum.net/v/20221220203900738</id>
-        <link href="https://v.daum.net/v/20221220203900738"/>
-        <updated>2022-12-20T12:20:43.885Z</updated>
-        <content type="html"><![CDATA[[OSEN=지민경 기자] ‘뷔아이퓌셜’ 박주원이 영화관 명당자리 예매에 성공했다. 20일 유튜브 채널 숏플리에는 ‘영화관 대혼돈의 멀티버스 [뷔.아이.피셜] 1화’ 영상이 공개됐다. 회사에서 용산 아이맥스관 명당 자리 예매에 성공한 온영(박주원 분)은 먼저 퇴근해 영화를 보러왔다. 온영은 “욕 먹더라도 별 수 없다. 용아맥 최고의 명당 J열 23을 확보]]></content>
     </entry>
 </feed>
