@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2022-12-21T03:12:49.846Z</updated>
+    <updated>2022-12-21T04:14:19.630Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['아바타: 물의 길', CG로 감싼 허술한 내러티브...70%대로 주저 앉은 예매율]]></title>
+        <id>https://v.daum.net/v/20221221125707539</id>
+        <link href="https://v.daum.net/v/20221221125707539"/>
+        <updated>2022-12-21T04:13:56.395Z</updated>
+        <content type="html"><![CDATA[[텐아시아=최지예 기자] ≪최지예의 별몇개≫ 최지예 텐아시아 기자가 개봉 전 먼저 본 영화의 별점을 매기고, 한줄평을 남깁니다. 영화표 예매 전 꼭 확인하세요. 당신의 시간은 소중하니까! &nbsp; '아바타: 물의 길' 별몇개? = ★★★☆☆ '아바타: 물의 길' 한줄평 = 포장지는 화려한데 알맹이가 허술하네 영화 '아바타: 물의 길'(감독 제임스 카메론, 이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['인어공주' 감독 "모든 인종 오디션 봤지만..할리 베일리 신선"]]></title>
         <id>https://v.daum.net/v/20221221115001054</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20221221100316278"/>
         <updated>2022-12-21T02:07:56.727Z</updated>
         <content type="html"><![CDATA[[마이데일리 = 양유진 기자] 넷플릭스가 배우 고(故) 강수연의 유작 '정이' 공개일을 2023년 1월 20일로 확정 지으며 티저 포스터와 티저 예고편을 공개했다. 한국형 좀비 장르물의 새로운 이정표를 세우며 한국을 넘어 전세계의 폭발적인 반응을 일으켰던 '부산행'과 '반도', 넷플릭스와 손잡고 초자연적 현상과 사후 세계에 대한 인간의 공포를 그린 '지]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[故강수연x연상호 감독 '정이' 넷플릭스 1월20일 공개 확정]]></title>
-        <id>https://v.daum.net/v/20221221100133226</id>
-        <link href="https://v.daum.net/v/20221221100133226"/>
-        <updated>2022-12-21T02:07:56.727Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 전형화 기자] 연상호 감독의 신작 '정이'가 2023년 1월20일 넷플릭스에서 공개된다. 21일 넷플릭스는 이 같은 소식을 전했다. '정이'는 급격한 기후변화로 폐허가 된 지구를 벗어나 이주한 쉘터에서 발생한 전쟁을 끝내기 위해 전설적인 용병 정이의 뇌를 복제, 최고의 전투 AI를 개발하려는 사람들의 이야기. 한국형 좀비 장르물의 새로운 이정표]]></content>
     </entry>
 </feed>
