@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-12-22T13:18:42.143Z</updated>
+    <updated>2022-12-22T14:10:54.783Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['사랑의 이해' 문가영, 유연석과 오해.."미안했던 것 맞냐고요"]]></title>
+        <id>https://v.daum.net/v/20221222230812047</id>
+        <link href="https://v.daum.net/v/20221222230812047"/>
+        <updated>2022-12-22T14:10:37.937Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 이상은 기자] /사진=JTBC 드라마 '사랑의 이해’ 방송화면 '사랑의 이해'에서 문가영과 유연석 사이에 오해가 생겼다. 22일 방송된 JTBC 수목드라마 '사랑의 이해'에서는 KCU은행 영포점 종합상담팀 3년 차 계장 하상수(유연석 분)는 동호회 하키 경기 중 예금창구 4년 차 주임 안수영(문가영 분)과의 오해에 괴로워했다. 하상수는 회식을]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[차예련 "♥주상욱 위해 발 마사지도 한다"…알콩달콩 부부]]></title>
         <id>https://v.daum.net/v/20221222215006438</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20221222184349283"/>
         <updated>2022-12-22T10:12:07.726Z</updated>
         <content type="html"><![CDATA[[스포츠한국 조은애 기자]&nbsp; 배우 차은우가 '아일랜드'의 요한 캐릭터에 끌렸다고 밝혔다.&nbsp; 차은우는 22일 서울 영등포구 콘래드호텔에서 열린 티빙 오리지널 시리즈 '아일랜드' 제작발표회에서 출연을 결심한 이유를 말했다.&nbsp; 그는 "원작 만화를 알기 전 대본을 먼저 봤다"며 "요한이란 캐릭터에 끌려 꼭 연기해보고 싶었고 매력을 느껴서 도전해 보고]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[서예지 지운 '아일랜드', 이다희에겐 간절했던 인생작]]></title>
-        <id>https://v.daum.net/v/20221222175119898</id>
-        <link href="https://v.daum.net/v/20221222175119898"/>
-        <updated>2022-12-22T09:11:06.257Z</updated>
-        <content type="html"><![CDATA[[OSEN=박소영 기자] 배우 이다희가 서예지의 그림자를 완벽하게 지우며 ‘아일랜드’에 상륙했다. 이다희는 30일 공개를 앞둔 티빙 오리지널 ‘아일랜드’에서 재벌 3세이자 교사 원미호 캐릭터를 맡았다. 원미호는 자신의 운명을 알지 못한 채 제주도에서 원치 않는 자숙생활을 하게 되는 인물. 반인반요 반(김남길 분)을 만나 슬프고도 기이한 여정에 동행하게]]></content>
     </entry>
 </feed>
