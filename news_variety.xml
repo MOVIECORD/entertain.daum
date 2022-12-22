@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/variety</id>
     <title>다음 연예 ─ 뉴스 ─ 예능</title>
-    <updated>2022-12-22T18:14:22.543Z</updated>
+    <updated>2022-12-22T19:09:11.985Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["시세차익만 330억원↑" 이효리.송혜교도 제치고 재태크 1위인 '이✭']]></title>
+        <id>https://v.daum.net/v/20221223035725268</id>
+        <link href="https://v.daum.net/v/20221223035725268"/>
+        <updated>2022-12-22T19:09:00.741Z</updated>
+        <content type="html"><![CDATA[[OSEN=김수형 기자] ‘연중 플러스’에서 이효리, 송혜교를 제친 부동산 재테크 1위 스타로 서태지가 꼽혔다. 22일 방송된 KBS 2TV 예능 ‘연중플러스’에서 2022년 성공적인 재테그 스타 주인공에 대해 알아봤다. 가장 큰 재태크 수익을 올린 스타로 첫번재 주인공은 서태지. 2002년 논현동 한 건물을 약 50억원애 매입한 그는 매입 후 지상 6]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[사랑꾼 최수종 변했나..하희라에 "끝장이다 진짜" 살벌]]></title>
         <id>https://v.daum.net/v/20221223025719917</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20221222235122235"/>
         <updated>2022-12-22T15:13:13.441Z</updated>
         <content type="html"><![CDATA[[뉴스엔 이하나 기자] ‘히든싱어7’ 왕중왕전에서 우승했던 박성온이 ‘미스터트롯2’에서도 올하트를 받았다. 12월 22일 방송된 TV조선 ‘미스터트롯2-새로운 전설의 시작’(이하 ‘미스터트롯2’)에서는 유소년부 마스터 예심이 진행 됐다. 유소년부 박성온은 무대에 올라 “울산에서 온, 송가인 누나를 이기고 온, 박성온이다. 13살 감성이 무엇인지 보여드리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['미스터트롯2' 원혁, "이용식 딸 이수민 남자친구, 결혼 허락 받고파" 눈물의 무대]]></title>
-        <id>https://v.daum.net/v/20221222235102234</id>
-        <link href="https://v.daum.net/v/20221222235102234"/>
-        <updated>2022-12-22T15:13:13.441Z</updated>
-        <content type="html"><![CDATA[[OSEN=김예솔 기자] 이용식의 딸 이수민의 남자친구 원혁이 등장했다.&nbsp; 22일에 방송된 TV조선 '미스터트롯2-새로운 전설의 시작'에서는 1라운드가 진행된 가운데 독종부에서 코미디언 이용식 딸 이수민의 남자친구가 등장해 눈길을 끌었다.&nbsp; 앞서 이날 독종부의 이찬성이 등장했다. 이찬성은 과거 '미스터트롯' 출연 당시 한 시간 전부터 소변을 참아서 제]]></content>
     </entry>
 </feed>

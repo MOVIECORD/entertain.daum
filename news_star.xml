@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2022-12-22T18:14:22.537Z</updated>
+    <updated>2022-12-22T19:09:11.990Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[악의 세력에 맞서 싸우는 이들의 이야기 ‘아일랜드’]]></title>
+        <id>https://v.daum.net/v/20221223040630326</id>
+        <link href="https://v.daum.net/v/20221223040630326"/>
+        <updated>2022-12-22T19:09:06.336Z</updated>
+        <content type="html"><![CDATA[“세상의 악귀들은 오래전부터 탐라에 잡아뒀다.” 세상을 멸망시키려는 악의 세력에 맞서 싸우는 이들의 이야기를 다룬 티빙 오리지널 ‘아일랜드’가 오는 30일 공개된다. 아름다운 제주도를 배경으로 반인반요(반은 인간, 반은 요괴), 사제, 신녀가 세상을 지키기 위해 고군분투하는 모습을 신화적으로 풀어나갈 예정이다. 이 작품은 국내뿐만 아니라 내년에 아마존 프]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['음주운전' 김새론·곽도원·신혜성→'마약 투약' 돈스파이크, 올해 사건사고]]></title>
         <id>https://v.daum.net/v/20221223011303779</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20221223000820456"/>
         <updated>2022-12-22T15:13:18.388Z</updated>
         <content type="html"><![CDATA[[스포츠조선 조윤선 기자] '효자촌' 유재환이 가슴 아픈 가족사를 고백했다. 22일 방송된 ENA '효자촌'에서는 부모-자식이 서로에 대해 소개하는 '자기소개 시간'이 펼쳐졌다. 이날 '효도 5인방' 양준혁, 장우혁, 윤기원, 유재환, 신성은 자기소개 시간을 앞두고 각자 아버지, 어머니와 준비를 시작했다. 유재환은 "난 엄마 소개할 게 너무]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[무려 1년만에…'에이프릴 前멤버' 이현주, 근황 공개됐다]]></title>
-        <id>https://v.daum.net/v/20221223000507428</id>
-        <link href="https://v.daum.net/v/20221223000507428"/>
-        <updated>2022-12-22T15:13:18.398Z</updated>
-        <content type="html"><![CDATA[[마이데일리 = 이승록 기자] 걸그룹 에이프릴 전 멤버 이현주(24)가 1년 만에 근황을 공개했다. 이현주는 22일 자신의 유튜브채널 '현주소'에 일본 여행 브이로그 영상을 게재했다. 직전 게시물이 지난해 11월 올린 것으로 1년여 만의 새 영상이다. 이현주는 영상 소개를 통해 "안녕하세요 현주소의 이현주입니다. 정말 오랜만에 인사드려요"라고 인사하며 "]]></content>
     </entry>
 </feed>
