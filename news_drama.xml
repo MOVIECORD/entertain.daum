@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-12-23T03:12:47.171Z</updated>
+    <updated>2022-12-23T04:13:55.101Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[오예주 "비 대표님의 '슈룹' 카메오 출연, 든든했죠…상대역 대사까지 같이 연습"]]></title>
+        <id>https://v.daum.net/v/20221223130102318</id>
+        <link href="https://v.daum.net/v/20221223130102318"/>
+        <updated>2022-12-23T04:13:38.862Z</updated>
+        <content type="html"><![CDATA[[텐아시아=류예지 기자]"비 대표님이 '슈룹' 8화에 카메오 출연을 해주셨어요. 제가 비중 있는 역할이 처음이다 보니 힘을 실어주고자 우정 출연을 해주신 거죠. 한 신이었음에도 불구하고 촬영하기 전 여러 번 같이 맞춰봤어요. 대표님이 있어 더 편안하고 든든했죠" 최근 텐아시아 사옥에서 tvN '슈룹' 배우 오예주(청하 역)와의 인터뷰가 진행됐다. 오예주는]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이성민 떠난 '재벌집 막내아들', '부부의 세계' 넘어 신기록 쓸까]]></title>
         <id>https://v.daum.net/v/20221223121005714</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20221223103805626"/>
         <updated>2022-12-23T02:09:58.419Z</updated>
         <content type="html"><![CDATA[[OSEN=장우영 기자] 현실 멜로의 정석을 선보인 문가영의 비하인드 스틸이 공개됐다. JTBC 새 수목드라마 ‘사랑의 이해’(극본 이서현 이현정, 연출 조영민, 제작 SLL)에서 더욱 짙어진 감성으로 다층적 감정 연기를 선보이고 있는 문가영의 극명한 온도차가 느껴지는 현장 사진을 공개해 눈길을 모으고 있다. 지난 21일 첫 방송 이후 현실적이고 공감]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['재벌집 막내아들' 승계 전쟁 마지막장…송중기, 순양 주인 될까]]></title>
-        <id>https://v.daum.net/v/20221223103356513</id>
-        <link href="https://v.daum.net/v/20221223103356513"/>
-        <updated>2022-12-23T02:09:58.426Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 하지원 기자) '재벌집 막내아들'이 승계 전쟁의 최종장에 들어섰다. JTBC 금토일드라마 ‘재벌집 막내아들’이 종영까지 단 2회만을 남겨두고 있다. 진양철(이성민 분)의 사망은 순양가에 거대한 지각 변동을 불러왔다. 무엇도 상속받지 못하며 후계 구도에서 밀려나는 듯했던 진도준(송중기)은 지주사 설립을 무산시키는 파격적인 행보로 순양에 치명타를]]></content>
     </entry>
 </feed>
