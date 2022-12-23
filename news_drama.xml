@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-12-23T21:10:20.796Z</updated>
+    <updated>2022-12-23T22:11:01.590Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김래원X공승연, 피어나는 로맨스...손호준의 짝사랑]]></title>
+        <id>https://v.daum.net/v/20221224071008350</id>
+        <link href="https://v.daum.net/v/20221224071008350"/>
+        <updated>2022-12-23T22:10:44.460Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 오수정 기자) '소방서 옆 경찰서'에서 김래원과 공승연의 로맨스가 피어올랐고, 손호준은 공승연을 짝사랑 하는 마음을 드러냈다.&nbsp; 지난 23일 방송된 SBS 금토드라마 '소방서 옆 경찰서' 11회에서는 힘들어하는 진호개(김래원 분)를 위로하는 송설(공승연)과, 송설을 짝사랑하는 봉도진(손호준)의 모습이 그려졌다.&nbsp; 이날 방송에서 진호개는 죽은]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['베스트 액터' 이준영 "남은 20대 불태워보고 싶어요"]]></title>
         <id>https://v.daum.net/v/20221224060014756</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20221223210210769"/>
         <updated>2022-12-23T12:19:39.774Z</updated>
         <content type="html"><![CDATA[[동아닷컴]  MBC 수목드라마 ‘일당백집사’(연출 심소연 박선영 극본 이선혜)가 22일 방송을 끝으로 종영했다. 저주라 여겼던 백동주(이혜리 분) 기묘한 능력은 기적 같은 선물이었다. 도움이 필요한 이들에게 장례지도사와 의사로 희망과 위안을 나누는 삶을 택한 백동주, 김태희(이준영 분)의 아름다운 행보는 아름다운 결말로 남았다. ‘무엇이든 들어주고 도와]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박하나, 죽은 박윤재 자리로 복귀 "손창민, 파멸시킬 것"]]></title>
-        <id>https://v.daum.net/v/20221223205003637</id>
-        <link href="https://v.daum.net/v/20221223205003637"/>
-        <updated>2022-12-23T12:19:39.778Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 장예솔 인턴기자) '태풍의 신부' 사랑하는 이들을 죽음으로 몰고 간 손창민을 향해 박하나의 복수가 시작됐다. 23일 방송된 KBS 2TV '태풍의 신부'에서는 윤산들(박윤재 분)의 죽음을 알게 된 은서연(박하나)의 모습이 그려졌다.&nbsp; 이날 은서연은 환자복을 입은 채로 윤산들의 납골당을 찾아 오열했다.&nbsp; 은서연은 "지금 이것 다 거짓말이지? 나]]></content>
     </entry>
 </feed>
