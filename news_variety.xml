@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/variety</id>
     <title>다음 연예 ─ 뉴스 ─ 예능</title>
-    <updated>2022-12-23T16:14:50.498Z</updated>
+    <updated>2022-12-23T17:10:45.782Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['쇼미더머니11' 허성현·블라세·던말릭·이영지, 결승 진출…우승은 누구에게?]]></title>
+        <id>https://v.daum.net/v/20221224011651868</id>
+        <link href="https://v.daum.net/v/20221224011651868"/>
+        <updated>2022-12-23T17:10:34.207Z</updated>
+        <content type="html"><![CDATA[[OSEN=김예솔 기자] 허성현, 블라세, 던말릭, 이영지가 결승에 진출했다.&nbsp; 23일 방송된 Mnet '쇼미더머니11'에서는 8명의 래퍼들의 세미파이널 무대가 진행된 가운데 허성현, 블라세, 던말릭, 이영지가 최종 결승 무대에 진출했다.&nbsp; 이날 릴보이와 그루비룸 팀의 블라세는 칸과의 대결에 나섰다. 블라세는 "블라세라는 이름을 건 무대를 빨리 보여드리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["음식 앞에선 하나" 전현무X박나래X이장우, 의견충돌無 '달랏 미식여행']]></title>
         <id>https://v.daum.net/v/20221224011008840</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20221224001203462"/>
         <updated>2022-12-23T16:14:40.006Z</updated>
         <content type="html"><![CDATA[[텐아시아=신지원 기자]규현이 인생 첫 닭발 맛에 혼란스러워했다. 23일 오후 10시 30분 방송된 tvN '내 어깨를 봐 탈골됐잖아'에서는 전주 '성지술례' 2탄으로 은지원, 규현, 송민호와 게스트 딘딘이 함께하는 모습이 그려졌다. 이날 닭발 튀김이 나오자 은지원은 "나 이거 못 보겠어. 규현이 앞에 갖다놔줘라"라며 "제대로 살리셨네"라고 규현 앞에]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["기안84 느낌" 조규성, 초간단 세수→믹서기째 흡입]]></title>
-        <id>https://v.daum.net/v/20221224001002448</id>
-        <link href="https://v.daum.net/v/20221224001002448"/>
-        <updated>2022-12-23T15:11:34.360Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 원민순 기자) 축구선수 조규성이 초간단 세수와 믹서기째 흡입으로 기안84 느낌을 보여줬다. 23일 방송된 MBC '나 혼자 산다'에서는 조규성의 싱글 라이프가 공개돼 눈길을 끌었다. 이날 조규성은 거위인형을 안고 자다가 머리에 까치집을 한 상태로 기상을 했다. 조규성은 거위 인형에 대해 군 제대하고 큰누나가 집들이 선물로 사준 것이라고 설명했]]></content>
     </entry>
 </feed>
