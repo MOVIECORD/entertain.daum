@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/variety</id>
     <title>다음 연예 ─ 뉴스 ─ 예능</title>
-    <updated>2022-12-24T08:14:18.834Z</updated>
+    <updated>2022-12-24T09:10:50.059Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘이용식 딸’ 이수민, 김학래子 이용했나…'결혼할 남친' 있으면서 양다리 논란]]></title>
+        <id>https://v.daum.net/v/20221224175502799</id>
+        <link href="https://v.daum.net/v/20221224175502799"/>
+        <updated>2022-12-24T09:10:40.207Z</updated>
+        <content type="html"><![CDATA[[텐아시아=류예지 기자] '이용식 딸' 이수민이 유명세를&nbsp;얻기도 전에 스스로 부작용을 낳았다. 다른 남성과 이미 진지하게 교제 중이었지만 '방송용 썸남'을 이용해 이름을 알렸다는 것. 시청자를 기만했다는 의혹을 받고 있다. 21일 첫 방송 된 TV조선 ‘미스터트롯2’에서 독종부에 원혁이 출연에 사연을 공개했다. 원혁은 “한 여자의 사랑을 지키기 위해]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['당나귀귀' 박명수, 라디오 DJ 인생 최대 위기에 몰렸다..꼰대즈 아슬아슬 토크]]></title>
+        <id>https://v.daum.net/v/20221224173004495</id>
+        <link href="https://v.daum.net/v/20221224173004495"/>
+        <updated>2022-12-24T09:10:40.208Z</updated>
+        <content type="html"><![CDATA[[OSEN=박판석 기자]&nbsp;박명수가 DJ 인생 최대 위기를 맞았다. 25일 KBS 2TV 예능 ‘사장님 귀는 당나귀 귀’(이하 ‘당나귀 귀’)에서는 박명수의 라디오쇼에 출연한 ‘꼰대즈’의 긴장되는 첫 라이브 공연 비하인드가 공개된다. '당나귀 귀'를 통해 전격 결성된 신인 중년 그룹 ‘꼰대즈’(허재, 김병현, 김정태, 이대형, 유희관, 정호영, 곽범)는]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['이솔이♥' 박성광 "고민 끝 이사, 반월세 살이 중"]]></title>
         <id>https://v.daum.net/v/20221224171120301</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20221224133923616"/>
         <updated>2022-12-24T05:10:04.968Z</updated>
         <content type="html"><![CDATA[[OSEN=박판석 기자]&nbsp;‘불후의 명곡’ 포레스텔라 고우림이 귓가를 때리는 중저음 감탄으로 웃음을 줬다. 오늘(24일) 방송되는 ‘불후의 명곡’ 586회는 ‘2022 왕중왕전’ 특집으로 꾸며진다. 이번 특집에는 정홍일, 옥주현, 환희, 몽니&amp;오은철, 스테파니, 소란, 에일리, 서은광&amp;김기태, 김재환, 포레스텔라 등이 출연자 라인업에 이름을 올려 최고의]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘불후’ 포레스텔라 고우림, 퀄리티 다른 중저음 감탄]]></title>
-        <id>https://v.daum.net/v/20221224133529595</id>
-        <link href="https://v.daum.net/v/20221224133529595"/>
-        <updated>2022-12-24T05:10:04.970Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 이민지 기자] 포레스텔라 고우림이 퀄리티가 다른 중저음 감탄을 선보인다. 12월 24일 방송되는 KBS 2TV '불후의 명곡' 2022 왕중왕전에는 정홍일, 옥주현, 환희, 몽니&amp;오은철, 스테파니, 소란, 에일리, 서은광&amp;김기태, 김재환, 포레스텔라 등이 출연한다. 포레스텔라는 8연속 ‘왕중왕전’ 출연 중 5연속 우승이라는 기록을 가진 그룹.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[유재석 꺾은 기안84, "대책없지만 편견 없어, 이시언과 다퉈 난감했죠"]]></title>
-        <id>https://v.daum.net/v/20221224133201550</id>
-        <link href="https://v.daum.net/v/20221224133201550"/>
-        <updated>2022-12-24T05:10:04.971Z</updated>
-        <content type="html"><![CDATA[[텐아시아=태유나 기자] "망한 여행의 즐거움을 주고 싶었어요. 우리 프로그램은 거창하면서도 대책이 없거든요." 김지우 PD가 MBC 새 예능 '태어난 김에 세계일주'(이하 '태계일주')에 대해 이렇게 말했다.&nbsp; '태계일주'는 가방 하나 달랑 메고 무작정 남미로 떠난 기안84와 그를 위해 지구 반대편으로 달려온 이시언, 여행 유튜버 빠니보틀의 현지 밀]]></content>
     </entry>
 </feed>

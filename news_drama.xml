@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-12-24T08:14:18.831Z</updated>
+    <updated>2022-12-24T09:10:50.060Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[박성훈, 익명 협박범에 “누구야 너” 분노‥‘유포자들’ 예고 영상 공개]]></title>
+        <id>https://v.daum.net/v/20221224172708466</id>
+        <link href="https://v.daum.net/v/20221224172708466"/>
+        <updated>2022-12-24T09:10:35.454Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 이하나 기자] 디지털 성범죄 사건을 다룬 KBS 2TV ‘드라마 스페셜 2022-TV시네마’의 두 번째 영화 ‘유포자들’이 안방극장을 찾는다. 12월 28일 밤 9시 50분 방송 예정인 KBS 2TV ‘드라마 스페셜 2022-TV시네마’ 두 번째 영화 ‘유포자들(연출 홍석구 / 극본 정우철)’은 한순간의 실수로 순식간에 삶이 엉망이 된 한 남자의]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘뉴연플리’ 오유진, 유정후·이하민 동시 고백에 ‘혼란’..누구 선택할까]]></title>
         <id>https://v.daum.net/v/20221224164210063</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20221224124101282"/>
         <updated>2022-12-24T04:13:13.179Z</updated>
         <content type="html"><![CDATA[[OSEN=장우영 기자] ‘드라마 스페셜 2022-TV시네마’의 두 번째 영화 ‘유포자들’ 예고 영상이 공개됐다. 오는 28일 밤 9시 50분 방송 예정인 KBS2 ‘드라마 스페셜 2022-TV시네마’ 두 번째 영화 ‘유포자들(극본 정우철, 연출 홍석구)’은 한순간의 실수로 순식간에 삶이 엉망이 된 한 남자의 처절한 추격 이야기로 익명의 사이버 공간에서]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘금혼령’ 김우석, 김영대와 팽팽한 대립 “전하의 사심은 어디에 있습니까”]]></title>
-        <id>https://v.daum.net/v/20221224114800924</id>
-        <link href="https://v.daum.net/v/20221224114800924"/>
-        <updated>2022-12-24T03:12:10.054Z</updated>
-        <content type="html"><![CDATA[‘금혼령’ 김영대와 김우석이 박주현을 두고 대립을 펼쳤다. 지난 23일 오후 방송된 MBC 금토드라마 ‘금혼령, 조선 혼인 금지령’(연출 박상우, 정훈·극본 천지혜·제작 본팩토리, 이하 ‘금혼령’) 5회에서는 소랑(박주현 분)과 이헌(김영대 분), 이신원(김우석 분)의 삼각관계 본격화와 함께 연이은 위기들이 이어지면서 극 전개에 불이 붙기 시작하며 시청률]]></content>
     </entry>
 </feed>
