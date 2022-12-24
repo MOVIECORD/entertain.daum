@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-12-24T07:10:04.655Z</updated>
+    <updated>2022-12-24T08:14:18.831Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘뉴연플리’ 오유진, 유정후·이하민 동시 고백에 ‘혼란’..누구 선택할까]]></title>
+        <id>https://v.daum.net/v/20221224164210063</id>
+        <link href="https://v.daum.net/v/20221224164210063"/>
+        <updated>2022-12-24T08:14:02.358Z</updated>
+        <content type="html"><![CDATA[[OSEN=지민경 기자] ‘뉴연플리’ 오유진이 유정후와 이하민 사이에서 마음을 정했다. 플레이리스트는 23일 공식 유튜브 채널을 통해 ‘날 더 신경 쓰이게 하는 사람이 있다 [뉴연플리] 11화’ 영상을 공개했다. 도윤(유정후 분)은 자신의 마음을 자각한 이후 민주(오유진 분)에게 직진했다. 태용(배현준 분)의 집에서 친구들과 술을 마시는 자리에서 도윤은]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김현주X박희순, 평온한 일상 파고든 균열]]></title>
         <id>https://v.daum.net/v/20221224160027760</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20221224114800924"/>
         <updated>2022-12-24T03:12:10.054Z</updated>
         <content type="html"><![CDATA[‘금혼령’ 김영대와 김우석이 박주현을 두고 대립을 펼쳤다. 지난 23일 오후 방송된 MBC 금토드라마 ‘금혼령, 조선 혼인 금지령’(연출 박상우, 정훈·극본 천지혜·제작 본팩토리, 이하 ‘금혼령’) 5회에서는 소랑(박주현 분)과 이헌(김영대 분), 이신원(김우석 분)의 삼각관계 본격화와 함께 연이은 위기들이 이어지면서 극 전개에 불이 붙기 시작하며 시청률]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘법쩐’ 거액의 자본가 이선균, 어두웠던 과거사 포착]]></title>
-        <id>https://v.daum.net/v/20221224114215888</id>
-        <link href="https://v.daum.net/v/20221224114215888"/>
-        <updated>2022-12-24T03:12:10.055Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 이민지 기자] 이선균과 김홍파의 첫 만남이 포착됐다. 2023년 1월 6일 방송되는 SBS 새 금토드라마 ‘법쩐’(극본 김원석/연출 이원태)은 법과 쩐의 카르텔에 맞서 싸우는 ‘돈 장사꾼’ 은용과 ‘법률 기술자’ 준경의 통쾌한 복수극이다. 극중 이선균은 얼굴 없는 헤지펀드 매니저로 천문학적 수익을 올리는 ‘은둔형 돈 장사꾼’ 은용 역을, 김홍]]></content>
     </entry>
 </feed>
