@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2022-12-24T04:13:28.544Z</updated>
+    <updated>2022-12-24T05:10:14.890Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2022년을 보내며, 영화의 디지털 소장과 강박증에 대하여]]></title>
+        <id>https://v.daum.net/v/20221224140134835</id>
+        <link href="https://v.daum.net/v/20221224140134835"/>
+        <updated>2022-12-24T05:09:55.407Z</updated>
+        <content type="html"><![CDATA[영화 ‘헌트’ 포스터.  &nbsp; 2022년도 얼마 남지 않았다. 한 해를 돌아보며, 어떤 영화를 소장할지 고민 중이다.&nbsp;잡지, 음악 CD, 영화 비디오테이프나 DVD 등을 수집했던 습관 때문인지, 개인적으로 특별한 영화는 소장하고 싶기 때문이다. 이번 칼럼에선&nbsp;그 이야기를 하고 싶다. 아직은 답을 찾지 못한 고민이라, 좀 어수선할 수 있겠다.&nbsp;&nbsp; 요즘은]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[배우 연기? 음악?…다 무시하고 ‘스토리’만 챙긴다]]></title>
+        <id>https://v.daum.net/v/20221224135600755</id>
+        <link href="https://v.daum.net/v/20221224135600755"/>
+        <updated>2022-12-24T05:09:55.410Z</updated>
+        <content type="html"><![CDATA[콘텐츠가 과잉 공급되자, 사람들은 가성비 있는 소비를 추구한다. 트렌드에 뒤처지지 않으려면 봐야 할 것도 확인할 것도 너무나 많다. 여기에 코로나19로 비대면 문화가 일상 속을 파고들면서 '가성비' 콘텐츠들이 성장했다. 그 중 가장 급성장한 콘텐츠가 단연 영화 리뷰 유튜브 채널이다. 이렇게 만들어진 영화 리뷰를 두고 패스트 무비라는 신조어가 생기기도 했다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["'올빼미'는 내 자부심" 조윤서의 배움과 성장]]></title>
         <id>https://v.daum.net/v/20221224130002359</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20221224085017032"/>
         <updated>2022-12-24T00:49:31.199Z</updated>
         <content type="html"><![CDATA[[OSEN=김보라 기자]&nbsp;적수 없는 흥행 강세로 연일 압도적 박스오피스 1위를 유지하며 올 연말 극장가를 점령하고, 다시 한 번 전세계적인 신드롬을 예고하는 영화 '아바타: 물의 길'이 400만 관객을 돌파하며 그야말로 흥행 저력을 보여주고 있다. 영화 '아바타: 물의 길'이 오늘 400만 관객을 돌파하는 기염을 토해냈다. 지난 2009년 혁신적인 기술]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[400만↑ ‘아바타: 물의 길’, 연말 특수 일조]]></title>
-        <id>https://v.daum.net/v/20221224084206982</id>
-        <link href="https://v.daum.net/v/20221224084206982"/>
-        <updated>2022-12-24T00:49:31.201Z</updated>
-        <content type="html"><![CDATA[[티브이데일리 이기은 기자] 영화 '아바타: 물의 길'(감독 제임스 카메론)이 400만 관객을 돌파했다. 24일 오전 7시 기준 영화관입장권 통합전산망에 따르면 '아바타: 물의 길'은 개봉 11일 차만에 400만 관객을 돌파하며 전체 박스오피스 1위를 지켰다. 또한 같은 시각 기준 예매량 124만장을 기록하며 개봉 2주차에도 예매량 100만장을 돌파한 상황]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['아바타', 10일 연속 1위 굳건…오늘 400만 돌파]]></title>
-        <id>https://v.daum.net/v/20221224083112923</id>
-        <link href="https://v.daum.net/v/20221224083112923"/>
-        <updated>2022-12-24T00:49:31.201Z</updated>
-        <content type="html"><![CDATA[(서울=뉴스1) 황미현 기자 = '아바타: 물의 길'이 10일 연속 박스오피스 정상을 지켰다. '아바타: 물의 길'은 24일 400만 관객을 돌파한다. 24일 영화진흥위원회 영화관입장권통합전산망의 집계에 따르면 '아바타: 물의 길'은 지난 23일 하루 동안 32만9792명의 관객을 동원했다. 누적 관객수는 399만9785명이다. 이로써 '아바타: 물의]]></content>
     </entry>
 </feed>

@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2022-12-24T04:13:28.537Z</updated>
+    <updated>2022-12-24T05:10:14.900Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['조선의 사랑꾼' PD "박수홍 무작정 기다려서 만나, 러브스토리에 눈물"]]></title>
+        <id>https://v.daum.net/v/20221224132842531</id>
+        <link href="https://v.daum.net/v/20221224132842531"/>
+        <updated>2022-12-24T05:10:09.628Z</updated>
+        <content type="html"><![CDATA['조선의 사랑꾼'의 이승훈 PD가 박수홍 섭외 비하인드를 밝혔다. 24일 TV조선 예능프로그램 '조선의 사랑꾼' 측은 이승훈 PD의 일문일답을 공개했다. '조선의 사랑꾼'은 결혼이라는 강렬한 경험을 날것 그대로 보여주는 예능프로그램이다. 연인과 평생을 함께하기로 마음먹은 뒤, 결혼에 골인하기까지의 '비밀의 구간'을 하이퍼리얼리즘 다큐처럼 보여주는 프로그램이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[후크 "이승기 모델료 편취? 사실 무근…여론몰이 유감"]]></title>
         <id>https://v.daum.net/v/20221224130602406</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20221224113804851"/>
         <updated>2022-12-24T03:12:20.913Z</updated>
         <content type="html"><![CDATA[[스포츠투데이 송오정 기자] '놀면 뭐하니?' 멤버들이 미션 성공을 위해 고군분투하는 모습이 공개됐다. 24일 방송되는 MBC 예능 '놀면 뭐하니?'(연출 박창훈, 김진용, 장우성, 왕종석, 신현빈·작가 최혜정)에서는 지난주 짜릿한 재미를 안겼던 '우당탕탕 전원탑승' 재도전이 이어진다. 유재석이 정준하, 하하, 신봉선, 박진주, 이이경, 이미주를 차에 태워]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[조규성 “잘생겼다는 말 좋아, 샤워 후 뿌듯해” 최고 10.6%]]></title>
-        <id>https://v.daum.net/v/20221224113202792</id>
-        <link href="https://v.daum.net/v/20221224113202792"/>
-        <updated>2022-12-24T03:12:20.914Z</updated>
-        <content type="html"><![CDATA[‘나 혼자 산다’가 준비한 크리스마스 선물, 축구 국가대표 조규성의 일상과 믿고 보는 조합 팜유 라인의 ‘제1회 팜유 세미나’가 시청자들의 취향을 제대로 저격했다. ‘나 혼자 산다’는 금요일 예능 1위 자리를 28주 연속으로 지켰다. &nbsp; 조규성은 끊임없이 노력하며 다음을 준비하는 대한민국 축구의 미래다운 모습과 흔한 25살 MZ세대 청춘 그 자체의 모습]]></content>
     </entry>
 </feed>
