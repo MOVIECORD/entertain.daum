@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-12-24T16:14:25.838Z</updated>
+    <updated>2022-12-24T17:09:49.343Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["활약 못한 후보들에 감사" 신동엽, 10년 만에 대상 품었다]]></title>
+        <id>https://v.daum.net/v/20221225012103952</id>
+        <link href="https://v.daum.net/v/20221225012103952"/>
+        <updated>2022-12-24T17:09:35.733Z</updated>
+        <content type="html"><![CDATA[[이데일리 스타in 김현식 기자] 신동엽이 10년 만에 KBS 연예대상 트로피를 다시 품었다. 신동엽은 24일 서울 여의도 KBS 신관공개홀에서 열린 ‘2022 KBS 연예대상’에서 대상 수상자로 호명됐다. 함께 후보에 오른 김숙, 전현무, 김종민, 이경규를 제치고 영예를 안았다. 신동엽은 2012년 출발한 장수 프로그램인 ‘불후의 명곡’ 현장 MC를]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이재욱 “너 때문에 돌겠다”, 고윤정=낙수 발견하고 ‘혼란’]]></title>
         <id>https://v.daum.net/v/20221225005025786</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20221224232851207"/>
         <updated>2022-12-24T15:10:24.488Z</updated>
         <content type="html"><![CDATA[[마이데일리 = 강다윤 기자] 진도준(송중기)이 대선 자금 불법 혐의로 긴급 체포됐다. 24일 방송된 종합편성채널 JTBC '재벌집 막내아들'(극본김태희 장은재 연출 정대윤 김상호)에서는 진도준이 서민영(신현빈)과 담당 검사와 피의자로 재회하는 모습이 그려졌다. 이날 진도준은 거액의 불법 대선 자금을 전달한 혐의로 긴급체포됐다. 그의 긴급 체포는 증거]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[신현빈, 송중기 체포했다…"검사와 피의자로 다시 만났네"]]></title>
-        <id>https://v.daum.net/v/20221224231613139</id>
-        <link href="https://v.daum.net/v/20221224231613139"/>
-        <updated>2022-12-24T15:10:24.490Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 오승현 인턴기자) '재벌집 막내아들' 신현빈이 송중기를 체포했다. 24일 방송된 JTBC 금토일 드라마 '재벌집 막내아들'(이하 '재벌집')에서는 진도준(송중기 분)과 서민영(신현빈)이 검사와 피의자로 재회했다. 법무부 장관이 된 최창제(김도현)는 "법무부와 검찰은 불법 대선자금 수사에 전력을 다 하겠다"고 발표한 뒤 순양가를 찾았고, 진동기]]></content>
     </entry>
 </feed>
