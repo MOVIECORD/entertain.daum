@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2022-12-24T17:09:49.344Z</updated>
+    <updated>2022-12-24T18:13:12.398Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['KBS 연예대상', 故 송해 잊지 않았다…대상 신동엽도 "존경하고 사랑해"]]></title>
+        <id>https://v.daum.net/v/20221225021238121</id>
+        <link href="https://v.daum.net/v/20221225021238121"/>
+        <updated>2022-12-24T18:13:06.851Z</updated>
+        <content type="html"><![CDATA['2022 KBS 연예대상'은 故 송해를 잊지 않았다. 대상을 받은 방송인 신동엽도 故 송해를 향한 존경심을 내비쳤다. 24일 서울 영등포구 여의도동 KBS홀에서 '2022 KBS 연예대상'이 진행됐다. 문세윤 설인아 찬희가 MC로 나섰다. MC들은 '수상 소감 100초 룰'이 생겼다고 전했다. 문세윤은 "감사할 분도 많고 생각나는 장면도 많을 거다. 하지]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[신동엽, 세번째 KBS연예대상…"활약 못 한 다른 후보에 감사"]]></title>
+        <id>https://v.daum.net/v/20221225021226119</id>
+        <link href="https://v.daum.net/v/20221225021226119"/>
+        <updated>2022-12-24T18:13:06.851Z</updated>
+        <content type="html"><![CDATA[(서울=연합뉴스) 오명언 기자 = 방송인 신동엽이 십 년 만에 세 번째 KBS 연예대상의 영예를 안았다. 신동엽은 24일 오후부터 25일 오전까지 서울 영등포구 여의도동 KBS 신관 공개홀에서 열린 '2022 KBS 연예대상'에서 김숙, 김종민, 이경규, 전현무 등을 제치고 대상을 받았다. 신동엽은 2011년부터 KBS 음악 경연 프로그램 '불후의 명곡'을]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['10년 주기설' 신동엽, 또 10년 만에 대상 수상]]></title>
         <id>https://v.daum.net/v/20221225020022094</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20221225010000824"/>
         <updated>2022-12-24T16:14:20.294Z</updated>
         <content type="html"><![CDATA[방송인 신동엽이 20주년을 맞은 ‘2022 KBS 연예대상’에서 대상을 수상했다. 24일 오후 서울 여의도 KBS에서 ‘2022 KBS 연예대상’이 열렸다. 방송인 문세윤, 배우 설인아, SF9 찬희가 진행을 맡았다. ‘불후의 명곡’ 신동엽은 무대에 올라 “참 얄궂다. 아주 간혹 올해는 뭔가 내가 받아도 크게 이상하지 않을텐데 했을 때는 단 한 번도 못 받]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[10년 주기설 맞았다…신동엽, '불후'로 10년 만에 또 대상]]></title>
-        <id>https://v.daum.net/v/20221225005950823</id>
-        <link href="https://v.daum.net/v/20221225005950823"/>
-        <updated>2022-12-24T16:14:20.295Z</updated>
-        <content type="html"><![CDATA[(서울=뉴스1) 김민지 기자 = '2022 KBS 연예대상'의 주인공은 '불후의 명곡' MC 신동엽이었다. 24일 오후 서울 영등포구 여의공원로 KBS신관 공개홀에서는 '2022 KBS 연예대상'이 생방송으로 진행됐다. 올해로 20주년을 맞은 'KBS 연예대상'은 OTT, 유튜브 등 플랫폼에 마음을 빼앗긴 시청자들의 마음을 돌리고자 했다. 문세윤과 딘딘]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[신동엽, 대상 수상 '10년 주기설 적중'..'불후의 명곡' 최고의 프로그램상]]></title>
-        <id>https://v.daum.net/v/20221225005413810</id>
-        <link href="https://v.daum.net/v/20221225005413810"/>
-        <updated>2022-12-24T16:14:20.299Z</updated>
-        <content type="html"><![CDATA[[스포츠조선닷컴 정유나 기자] 방송인 신동엽이 '2022 KBS 연예대상'에서 최고의 영예 '대상'을 수상했다. 24일 서울 영등포구 여의도 KBS홀에서 '2022 KBS 연예대상' 시상식이 열렸다. 문세윤, 설인아, 찬희가 MC를 맡았다. 이날 영예의 대상은 12년간 꾸준히 '불후의 명곡'을 진행해온 신동엽이 차지했다. 앞서 신동엽은 200]]></content>
     </entry>
 </feed>
