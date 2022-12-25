@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-12-25T03:12:09.695Z</updated>
+    <updated>2022-12-25T04:13:37.123Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘재벌집’ 송중기 향한 또 한번의 테러, 오버랩 되는 옛 장면들]]></title>
+        <id>https://v.daum.net/v/20221225125131906</id>
+        <link href="https://v.daum.net/v/20221225125131906"/>
+        <updated>2022-12-25T04:13:21.590Z</updated>
+        <content type="html"><![CDATA[[OSEN=김재동 객원기자]&nbsp;“누구 때문에? 내가 누구 때문에 그렇게 했는데 세상천지 어느 어미가 제 자식 밥그릇 남에게 넘겨주는 사람이 있어? 넌 알아야지!” “어머니도 도준이한테 순양을 물려주려던 아버지 용서 못하셨죠. 저도 그러네요. 내 아들 성준이가 가져야 될 순양, 도준이한테 넘겨버린 어머니가 용서가 안되네요.” 이상은 JTBC 금토일드라마 ‘]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이성민x송중기도 인정한 강기둥 표 진형준 "돈 때문에 지옥서 살진 말아요" 종영소감]]></title>
         <id>https://v.daum.net/v/20221225120721509</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20221225094102380"/>
         <updated>2022-12-25T00:56:48.336Z</updated>
         <content type="html"><![CDATA[[텐아시아=김지원 기자] '빨간 풍선' 서지혜가 이상우를 향한 마음이 커졌다. 지난 24일 방송된 TV조선 '빨간 풍선' 3회에서는 조은강(서지혜 분)이 고차원(이상우 분)에게 빠져드는 모습이 그려졌다. 조은강은 한껏 차려입고 고차원이 근무하는 피부과에 방문해 진료를 받았다. 이내 조은강은 한바다(홍수현 분)의 부탁을 받고 고차원과 함께 여전희(이상숙]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[순양家 쥐락펴락..김도현, 법무부 장관→불법대선자금 수사에 전세역전]]></title>
-        <id>https://v.daum.net/v/20221225092519199</id>
-        <link href="https://v.daum.net/v/20221225092519199"/>
-        <updated>2022-12-25T00:56:48.337Z</updated>
-        <content type="html"><![CDATA[[OSEN=김채연 기자] ‘재벌집 막내아들’&nbsp;김도현의 짜릿한 역전을 펼쳤다. 지난&nbsp;24일 방영된 JTBC 금토일드라마 '재벌집 막내아들' 15회에서는 법무부장관에 임명된 최창제의 역전극이 펼쳐졌다.&nbsp;이날 방송에서는 불법대선자금과 관련된 수사가 진행되며 순양가 사람들의 살얼음판을 걷는 듯 총성 없는 전쟁이 그려졌다.&nbsp;최창제는 수사지휘권을 발동,&nbsp;해당 수사를]]></content>
     </entry>
 </feed>
