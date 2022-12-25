@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-12-25T07:09:59.536Z</updated>
+    <updated>2022-12-25T08:14:04.268Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[지상파의 꽃 연기대상?..3사 더해도 송중기x김혜수에 밀리네]]></title>
+        <id>https://v.daum.net/v/20221225160921951</id>
+        <link href="https://v.daum.net/v/20221225160921951"/>
+        <updated>2022-12-25T08:13:49.050Z</updated>
+        <content type="html"><![CDATA[[OSEN=박소영 기자] JTBC&nbsp;금토일드라마&nbsp;‘재벌집&nbsp;막내아들’이 종영 1회를 앞두고 마침내 수도권 시청률 28%를 넘어섰다. 1회 시청률 6.1%로 시작해 무려 4배 이상을 넘어선 시청률이다. JTBC 연기대상 시상식이 없다는 게 아쉬울 따름. 이쯤 되니 지상파 3사 연기대상 후보작들이 더 머쓱해지는 연말이다. 올해도 어김없이(?) 지상파 3사는 연]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[정소민 아닌 고윤정 쓰담쓰담..이재욱 손길에 애정 뚝뚝]]></title>
         <id>https://v.daum.net/v/20221225154923654</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20221225113856037"/>
         <updated>2022-12-25T03:11:54.357Z</updated>
         <content type="html"><![CDATA[[뉴스엔 박아름 기자] '빨간 풍선' 홍수현이 시어머니에게 참아왔던 설움을 터트리며 시청자들의 공감을 불러일으켰다. 12월 24일 방송된 TV 조선 주말미니시리즈 '빨간 풍선'(극본 문영남/연출 진형욱)에서는 시어머니 윤미라와 파란만장한 고부간 대립을 보여주며 긴장감을 선사하는 홍수현의 모습이 그려졌다. 이날 한바다(홍수현 분)는 재벌 사모님과 예물 상담]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['법쩐' 이선균·문채원, 친남매 아냐? 고깔 모자까지 쓴 생일파티]]></title>
-        <id>https://v.daum.net/v/20221225113818033</id>
-        <link href="https://v.daum.net/v/20221225113818033"/>
-        <updated>2022-12-25T03:11:54.359Z</updated>
-        <content type="html"><![CDATA[[OSEN=하수정 기자] “우리 편이잖아” SBS ‘법쩐’ 이선균과 문채원이 반달 눈웃음이 꼭 닮은 ‘고깔 모자 생일파티’ 현장을 선보였다. 2023년 1월 6일 첫 방송되는 SBS 새 금토드라마 ‘법쩐’(극본 김원석/연출 이원태/제작 레드나인 픽쳐스)은 ‘법’과 ‘쩐’의 카르텔에 맞서 싸우는 ‘돈 장사꾼’ 은용과 ‘법률 기술자’ 준경의 통쾌한 복수극이]]></content>
     </entry>
 </feed>
