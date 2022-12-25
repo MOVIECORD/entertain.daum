@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2022-12-25T04:13:37.127Z</updated>
+    <updated>2022-12-25T05:10:34.776Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["불구덩이 뛰어들었다"..'영웅' 윤제균 감독, 다시 선 시작점]]></title>
+        <id>https://v.daum.net/v/20221225140006831</id>
+        <link href="https://v.daum.net/v/20221225140006831"/>
+        <updated>2022-12-25T05:10:12.540Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 김나연 기자] 윤제균 감독 / 사진=CJ ENM한국 영화 최초의 도전, 그리고 사명감. 윤제균 감독이 그 무게감을 안고 달린 오랜 여정 끝 '영웅'으로 돌아왔다. 최근 서울시 종로구 소격동의 한 카페에서 영화 '영웅'의 윤제균 감독과 만나 다양한 이야기를 나눴다. '영웅'은 1909년 10월, 하얼빈에서 이토 히로부미를 사살한 뒤 일본 법정의]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[크리스마스 때마다 사랑받는 이 영화... 결국 명불허전]]></title>
         <id>https://v.daum.net/v/20221225111202670</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20221225070045097"/>
         <updated>2022-12-24T22:09:49.110Z</updated>
         <content type="html"><![CDATA[[서울경제] 직접 맛보고 추천하는 향긋한 작품 한 잔! 세상의 OTT 다 보고 싶은 'OTT다방'    자고로 범죄 느와르 장르는 속도감이 생명 아니던가. 조금 지겨울 순 있다. 하지만 우리에게는 '10초 앞으로' 버튼이 있다. 몇 번만 누르다 보면 디즈니플러스 오리지널 시리즈 '카지노'(극본/연출 강윤성)의 세계에 빠지기엔 충분하다. 차무식(최민식)이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘아바타:물의 길’, 우리는 신화의 세계에 살고 있다]]></title>
-        <id>https://v.daum.net/v/20221224174000611</id>
-        <link href="https://v.daum.net/v/20221224174000611"/>
-        <updated>2022-12-24T09:10:30.529Z</updated>
-        <content type="html"><![CDATA[[곽명동의 씨네톡] 1966년, 심리학자 조지 타마린은 이스라엘에서 한가지 실험을 했다. 8살부터 14살까지의 어린이들에게 ‘성경’에 나오는 여호수아의 여리고 성 함락 일화를 들려주었다. 여호수아는 도시를 약탈하고 불을 지르고 남자든, 여자든, 어린아이든, 노인이든, 가축이든 모두 죽이라고 부추겼다. 타마린은 아이들에게 “여러분은 여호수아의 이스라엘 사람]]></content>
     </entry>
 </feed>
