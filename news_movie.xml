@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2022-12-25T05:10:34.776Z</updated>
+    <updated>2022-12-25T06:13:37.011Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['압꾸정' 폭망, 잽도 못 날린 천만배우 마동석]]></title>
+        <id>https://v.daum.net/v/20221225145601846</id>
+        <link href="https://v.daum.net/v/20221225145601846"/>
+        <updated>2022-12-25T06:13:14.877Z</updated>
+        <content type="html"><![CDATA[[텐아시아=최지예 기자] ≪최지예의 시네마톡≫ 최지예 텐아시아 기자가 영화 이야기를 전합니다. 현장 속 생생한 취재를 통해 영화의 면면을 분석하고, 날카로운 시각이 담긴 글을 재미있게 씁니다. 배우 마동석(Don Lee, 51)의 영화 '압꾸정'(감독 임진순)이 폭삭 내려앉았다. '마동석의 구강액션'이라는 카피와 함께 야심차게 내놓은 '압꾸정'은 잽도 날]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["불구덩이 뛰어들었다"..'영웅' 윤제균 감독, 다시 선 시작점]]></title>
         <id>https://v.daum.net/v/20221225140006831</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20221225070109105"/>
         <updated>2022-12-24T22:09:49.109Z</updated>
         <content type="html"><![CDATA[(서울=연합뉴스) 양정우 김정진 기자 = 2023년 계묘년(癸卯年)에는 올해와 마찬가지로 최신작은 물론 코로나19 사태로 창고에 쌓여있던 영화들이 대거 관객을 만난다. 스타 감독과 배우들의 앙상블이 기대되는 대작은 물론 다양한 장르로 무장한 한국 영화들이 스크린에 오를 전망이다. 할리우드 대작도 시리즈물을 중심으로 극장가 공세에 나선다. 영화 팬들 입장에]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이순신 말고, 최민식의 새 인생 캐릭터가 탄생할 것만 같은 '카지노']]></title>
-        <id>https://v.daum.net/v/20221225070045097</id>
-        <link href="https://v.daum.net/v/20221225070045097"/>
-        <updated>2022-12-24T22:09:49.110Z</updated>
-        <content type="html"><![CDATA[[서울경제] 직접 맛보고 추천하는 향긋한 작품 한 잔! 세상의 OTT 다 보고 싶은 'OTT다방'    자고로 범죄 느와르 장르는 속도감이 생명 아니던가. 조금 지겨울 순 있다. 하지만 우리에게는 '10초 앞으로' 버튼이 있다. 몇 번만 누르다 보면 디즈니플러스 오리지널 시리즈 '카지노'(극본/연출 강윤성)의 세계에 빠지기엔 충분하다. 차무식(최민식)이]]></content>
     </entry>
 </feed>
