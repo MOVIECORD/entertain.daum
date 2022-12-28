@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2022-12-28T03:13:02.369Z</updated>
+    <updated>2022-12-28T04:14:05.546Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["설리 가족은 하나"…'아바타2' 가족의 성장 통한 성찰]]></title>
+        <id>https://v.daum.net/v/20221228130305378</id>
+        <link href="https://v.daum.net/v/20221228130305378"/>
+        <updated>2022-12-28T04:13:44.015Z</updated>
+        <content type="html"><![CDATA[[OSEN=김보라 기자]&nbsp;적수 없는 흥행 강세로 연일 압도적 박스오피스 1위를 유지하며 올 연말 극장가를 점령하고, 다시 한번 전세계적인 신드롬을 예고한 영화 '아바타: 물의 길'이 가족의 사랑과 성장을 담은 보편적인 이야기로 공감을 일으키며 연말 유일한 가족 영화로 많은 관객들의 선택을 받고 있다.&nbsp; 2009년 혁신적인 기술력으로 신드롬을 일으키며 월]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[채수빈 "이상형? 코드 맞는 사람..물론 외모도 봐요"]]></title>
+        <id>https://v.daum.net/v/20221228123010883</id>
+        <link href="https://v.daum.net/v/20221228123010883"/>
+        <updated>2022-12-28T04:13:44.024Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 김나연 기자] 배우 채수빈이 28일 오전 서울 종로구의 한 카페에서 진행된 넷플릭스 오리지널 시리즈 '더 패뷸러스' 관련 인터뷰를 취해 포즈를 취하고 있다.  채수빈은 극 중 명품 브랜드 홍보 대행사 과장 표지은 역을 맡아 열연했다.  '더 패뷸러스'는 패션(fashion)이라 쓰고 열정(passion)이라 읽는 패션계에 인생을 바친 청춘들의 꿈]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['더 패뷸러스' 채수빈 "최민호, 배울 점 多..키스신은 어색"]]></title>
         <id>https://v.daum.net/v/20221228120901503</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20221228102130296"/>
         <updated>2022-12-28T02:09:15.881Z</updated>
         <content type="html"><![CDATA[[뉴스엔 배효주 기자] '영웅'이 개봉 8일째 100만 관객을 돌파했다. 영화진흥위원회 통합전산망 집계에 따르면 12월 28일 오전 9시 30분 기준 영화 '영웅'(감독 윤제균)이 100만 관객을 돌파하는 쾌거를 거뒀다. 이는 뮤지컬 영화 '맘마미아!'(최종 관객수 455만명)와 동일한 속도로 이목을 집중시킨다. 뿐만 아니라 전 세계적인 사랑을 받은 음악]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“‘유포자들’ 극장 버전·TV 버전 달라…비교 재미有”]]></title>
-        <id>https://v.daum.net/v/20221228095404098</id>
-        <link href="https://v.daum.net/v/20221228095404098"/>
-        <updated>2022-12-28T02:09:15.883Z</updated>
-        <content type="html"><![CDATA[‘유포자들’의 관전 포인트가 소개됐다. 28일 오후 방송되는 KBS2 ‘드라마 스페셜 2022-TV시네마’의 두 번째 영화 ‘유포자들(연출 홍석구 / 극본 정우철)’은 한순간의 실수로 순식간에 삶이 엉망이 된 한 남자의 처절한 추격 이야기로, 핸드폰으로부터 자유로울 수 없는 현대사회에서 무심코 촬영한 영상들이 어떻게 인간을 파멸로 이끌 수 있는지 디지털 범]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[주지훈X박성웅 연기 열전..'젠틀맨', 오늘 개봉]]></title>
-        <id>https://v.daum.net/v/20221228095327070</id>
-        <link href="https://v.daum.net/v/20221228095327070"/>
-        <updated>2022-12-28T00:54:05.462Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 김나연 기자] 젠틀맨 / 사진=웨이브'젠틀맨'이 개봉하는 가운데 극의 재미를 배가시킬 관람 포인트 세 가지를 공개했다. 28일 개봉한 '젠틀맨'은 성공률 100% 흥신소 사장 '지현수'(주지훈 분)가 실종된 의뢰인을 찾기 위해 검사 행세를 하며 불법, 합법 따지지 않고 나쁜 놈들을 쫓는 범죄 오락 영화. #1. 올 연말 유일한 범죄 오락 영화]]></content>
     </entry>
 </feed>
