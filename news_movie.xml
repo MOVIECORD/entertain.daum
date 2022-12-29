@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2022-12-29T02:11:50.223Z</updated>
+    <updated>2022-12-29T03:12:39.276Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[구교환 측 "영화 '왕을 찾아서', 긍정 검토 중"]]></title>
+        <id>https://v.daum.net/v/20221229120430860</id>
+        <link href="https://v.daum.net/v/20221229120430860"/>
+        <updated>2022-12-29T03:12:16.882Z</updated>
+        <content type="html"><![CDATA[[TV리포트=신은주 기자] 배우 구교환이 영화 '왕을 찾아서' 출연을 긍정적으로 검토 중이다. 29일 소속사 나무엑터스는 TV리포트에 "구교환 배우가 원신연 감독의 신작 '왕을 찾아서' 출연 제의를 받고 긍정 검토 중이다"라고 밝혔다. 영화 '왕을 찾아서'는 대한민국 현대사 중 가장 비극적인 시대, 역사의 비극마저도 가슴에 묻어야 했던 그 시절 한 청년과]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[칸 물들인 한국영화·극장가 한국영화 부진·'아바타2'의 귀환·강수연 사망]]></title>
         <id>https://v.daum.net/v/20221229110128995</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20221229092007965"/>
         <updated>2022-12-29T00:55:46.010Z</updated>
         <content type="html"><![CDATA[[뉴스엔 배효주 기자] '영웅'이 8일 연속 한국영화 박스오피스 최정상을 지키고 있는 가운데, 좌석 판매율 역시 연일 상승 중이다. 영화진흥위원회 통합전산망 집계에 따르면 12월 29일 오전 7시 기준 영화 '영웅'(감독 윤제균)이 누적 관객 106만9,196명을 동원, 한국영화 박스오피스 1위를 기록하며 흔들림 없는 흥행 저력을 보여주고 있다. '젠틀]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[강수연 유작 '정이', 한국서 본적 없는 SF영화..신기원 열까]]></title>
-        <id>https://v.daum.net/v/20221229091908927</id>
-        <link href="https://v.daum.net/v/20221229091908927"/>
-        <updated>2022-12-29T00:55:46.011Z</updated>
-        <content type="html"><![CDATA[[OSEN=하수정 기자] 넷플릭스가 연상호 감독의 신작 '정이'의 메인 포스터를 공개했다. 기후변화로 폐허가 된 지구를 벗어나 이주한 쉘터에서 발생한 전쟁을 끝내기 위해 전설적인 용병 정이의 뇌를 복제, 최고의 전투 A.I.를 개발하려는 사람들의 이야기를 그린 SF 영화 '정이'가 독보적인 비주얼과 강렬한 액션, 독창적인 스토리를 기대케 하는 메인 포스]]></content>
     </entry>
 </feed>
