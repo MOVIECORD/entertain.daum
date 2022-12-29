@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-12-29T12:20:01.786Z</updated>
+    <updated>2022-12-29T13:16:12.764Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이이경, 이미주와 무슨 사이? "노코멘트"]]></title>
+        <id>https://v.daum.net/v/20221229220355179</id>
+        <link href="https://v.daum.net/v/20221229220355179"/>
+        <updated>2022-12-29T13:15:55.693Z</updated>
+        <content type="html"><![CDATA[사진=화면 캡처[이데일리 스타in 김가영 기자] 배우 이이경이 이미주와 묘한 분위기를 풍겼다. 29일 오후 서울 상암동 MBC사옥에서 열린 ‘2022 MBC 방송연예대상’은 전현무, 강민경, 이이경의 사회로 진행됐다. 이날 ‘놀면 뭐하니?’ 이이경, ‘나 혼자 산다’ 이장우가 인기상을 수상했다. 이이경은 ‘놀면 뭐하니?’ 멤버들에게 고마운 마음을 전하다]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[박하나, 지수원 정체 깨달았다…눈물의 '모녀 상봉']]></title>
         <id>https://v.daum.net/v/20221229205438984</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20221229175423099"/>
         <updated>2022-12-29T09:10:51.984Z</updated>
         <content type="html"><![CDATA[[OSEN=김채연 기자] ‘법쩐’&nbsp;문채원과 박훈이 검찰청 조사실에서 살벌 눈빛 대치를 이룬 모습으로 폭풍전야 긴장감을 일으킨다. 오는 1월 6일 첫 방송되는&nbsp;SBS&nbsp;새 금토드라마&nbsp;‘법쩐’(극본 김원석/연출 이원태/제작 레드나인 픽쳐스)은&nbsp;‘법’과&nbsp;‘쩐’의 카르텔에 맞서 싸우는&nbsp;‘돈 장사꾼’&nbsp;은용과&nbsp;‘법률 기술자’&nbsp;준경의 통쾌한 복수극이다.&nbsp; 드라마&nbsp;‘여왕]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이성민 오늘 ‘뉴스룸’ 출격, ‘재벌집 막내아들’ 진양철 비화 공개]]></title>
-        <id>https://v.daum.net/v/20221229172721272</id>
-        <link href="https://v.daum.net/v/20221229172721272"/>
-        <updated>2022-12-29T09:10:51.985Z</updated>
-        <content type="html"><![CDATA[[동아닷컴] 결말은 최악이지만, 그나마 이성민을 남긴 JTBC 금토일드라마 ‘재벌집 막내아들’(연출 정대윤 김상호, 극본 김태희 장은재). 그 ‘유산’ 이성민이 뉴스 생방송에 출연한다. JTBC는 29일 “‘재벌집 막내아들’에서 진양철 회장을 연기한 이성민이 금일 저녁 7시 50분 방송되는 ‘뉴스룸’에 출연한다”며 “이성민이 ‘재벌집 막내아들’ 비화를 직]]></content>
     </entry>
 </feed>
