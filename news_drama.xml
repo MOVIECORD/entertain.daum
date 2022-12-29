@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-12-29T07:10:42.897Z</updated>
+    <updated>2022-12-29T08:14:31.823Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[손석구→허성태, 핫 배우들 '카지노'에 모두 모인 이유…'최민식' 있었다]]></title>
+        <id>https://v.daum.net/v/20221229171107790</id>
+        <link href="https://v.daum.net/v/20221229171107790"/>
+        <updated>2022-12-29T08:14:17.473Z</updated>
+        <content type="html"><![CDATA[[텐아시아=이준현 기자] ‘카지노’가 손석구, 이동휘, 허성태, 이규형, 진선규, 조한철 등 시상식을 방불케 하는 화려한 라인업으로 화제를 모으고 있다. 디즈니+의 오리지널 시리즈 ‘카지노’는 돈도 빽도 없이 필리핀에서 카지노의 전설이 된 남자 ‘차무식’이 살인사건에 휘말리면서 인생의 벼랑 끝 목숨 건 최후의 베팅을 시작하게 되는 강렬한 이야기를 그린 작품]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['아일랜드' 김남길→차은우 밝힌 관전포인트 #액션 #제주도 #캐릭터]]></title>
         <id>https://v.daum.net/v/20221229154350914</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20221229134445755"/>
         <updated>2022-12-29T05:10:44.092Z</updated>
         <content type="html"><![CDATA[[OSEN=박소영 기자] tvN&nbsp;‘환혼:&nbsp;빛과 그림자’가 유준상,&nbsp;오나라,&nbsp;유인수,&nbsp;아린의&nbsp;4인&nbsp;2색 러브라인으로 시청자의 혈당 지수를 높이며 로맨스 맛집이 면모를 입증하고 있다. tvN&nbsp;토일드라마&nbsp;‘환혼:&nbsp;빛과 그림자’(연출 박준화/극본 홍정은 홍미란/제작 스튜디오드래곤&nbsp;TS나린시네마)(이하. ‘환혼’)가 장욱(이재욱 분)과 진부연(고윤정 분)의 원앤]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['유포자들' 박성훈·김소은, 결국 파혼 선언…강렬한 교훈 선사]]></title>
-        <id>https://v.daum.net/v/20221229133839572</id>
-        <link href="https://v.daum.net/v/20221229133839572"/>
-        <updated>2022-12-29T05:10:44.094Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 황수연 기자) ‘드라마 스페셜 2022-TV시네마’의 두 번째 영화 ‘유포자들’이 익명의 사이버 공간에서 행해지는 사이버 폭력, 디지털 성범죄 사건의 실체를 담아 안방극장에 강렬한 교훈을 선사했다. 28일 방송된 KBS 2TV ‘드라마 스페셜 2022-TV시네마’ 두 번째 영화 ‘유포자들’은 한순간의 실수로 순식간에 삶이 엉망이 된 한 남자의]]></content>
     </entry>
 </feed>
