@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-12-30T09:11:09.286Z</updated>
+    <updated>2022-12-30T10:11:51.050Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[MBC는 이종석, SBS·KBS는 오리무중…연기대상은 누구에게]]></title>
+        <id>https://v.daum.net/v/20221230183901900</id>
+        <link href="https://v.daum.net/v/20221230183901900"/>
+        <updated>2022-12-30T10:11:36.887Z</updated>
+        <content type="html"><![CDATA[단 2일이 남은 2022년, 30일과 31일 양일간 지상파 3사에서 연기대상이 열린다. 영광의 트로피는 누구에게로 향할까. 먼저 MBC 연기대상이 열린다. 30일 오후 8시 30분 생방송으로 진행된다. 하루 뒤인 31일에는 저녁 8시 35분 SBS 연기대상, 밤 9시 KBS 연기대상이 차례로 열린다. ◆ MBC 연기대상, 어차피 우승은 이종석? MBC 연기]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이승기, "KBS 연기대상 뜬다"..후크 갈등 후 첫 공식석상]]></title>
         <id>https://v.daum.net/v/20221230180839646</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20221230141939533"/>
         <updated>2022-12-30T06:14:29.885Z</updated>
         <content type="html"><![CDATA[[스타뉴스 한해선 기자] /사진=MBC 김정현과 임수향이 설렘과 코믹을 오가는 로맨스 케미로 보는 이들의 광대 미소를 유발 중이다. 2023년 1월 27일 금요일 밤 9시 50분에 첫 방송되는 MBC 새 금토드라마 '꼭두의 계절'(극본 강이헌, 허준우/ 연출 백수찬, 김지훈/ 제작 피플스토리컴퍼니, 스토리티비)에서 2차 티저 영상을 공개, 티격태격 로맨스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘소옆경’ 손지윤 진짜 부검의 아니었어? “많이 배우고 느꼈다”]]></title>
-        <id>https://v.daum.net/v/20221230141029255</id>
-        <link href="https://v.daum.net/v/20221230141029255"/>
-        <updated>2022-12-30T05:11:06.813Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 박아름 기자] 손지윤이 '소방서 옆 경찰서' 종영 소감을 밝혔다. SBS 금토드라마 ‘소방서 옆 경찰서’에서 국과수 부검의 윤홍으로 분해 열연을 펼친 배우 손지윤 종영 소감이 12월 30일 공개됐다. 손지윤은 걸크러시 면모를 지닌 법의관의 모습뿐 아니라 봉도진(손호준 분)과 미묘한 분위기까지 형성, 통쾌함과 설렘을 선사하며 강렬한 존재감을 드러]]></content>
     </entry>
 </feed>

@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/variety</id>
     <title>다음 연예 ─ 뉴스 ─ 예능</title>
-    <updated>2022-12-30T09:11:09.291Z</updated>
+    <updated>2022-12-30T10:11:51.057Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[전현무·박나래·이장우 "케이크가 왜 고추참치 맛?"]]></title>
+        <id>https://v.daum.net/v/20221230181952746</id>
+        <link href="https://v.daum.net/v/20221230181952746"/>
+        <updated>2022-12-30T10:11:41.358Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 김현정 기자)&nbsp;‘나 혼자 산다’ 전현무, 박나래, 이장우의 ‘제1회 팜유 세미나’가 더 뜨거워진다. 처음 보는 케이크를 두고 원재료 분석을 위한 신중한 연구와 심층 토론을 나누는 것이다. 팜유 대장 전현무는 ‘2022 MBC 방송연예대상’에서 베스트 커플상 수상 후 “지난주 팜유 세미나는 티저에 불과했다”며 살벌한 먹방 본편을 예고했다. 30]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['런닝맨', 신년 특집 '패밀리가 떴다' 레이스 "그때 그 감성"]]></title>
         <id>https://v.daum.net/v/20221230175618443</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20221230160733355"/>
         <updated>2022-12-30T07:10:37.085Z</updated>
         <content type="html"><![CDATA[[서울경제] 대한민국에 트롯 오디션의 열풍을 불고 온 서혜진 PD가 '불타는 트롯맨'으로 '미스터트롯2'와 정면 승부에 나섰다. 그가 강조한 건 스타 탄생으로 이를 뒷받침하기 위해서는 팬덤을 모을 수 있는 콘텐츠다. TV조선을 나와 제작사를 설립한 것도 콘텐츠의 무한한 확장성을 염두에 뒀기 때문이었다. MBN 예능프로그램 '불타는 트롯맨'은 트로트 쾌남들]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[인교진♥︎소이현 두 딸 "아침에 일어나 스스로 침대∙반려견 배변패드 정리" 감탄]]></title>
-        <id>https://v.daum.net/v/20221230160723354</id>
-        <link href="https://v.daum.net/v/20221230160723354"/>
-        <updated>2022-12-30T07:10:37.085Z</updated>
-        <content type="html"><![CDATA[[OSEN=최나영 기자] 연예계 대표 딸바보 배우 인교진이 한국 아빠로 출격해 ‘물 건너온 아빠들’&nbsp;최초 자매 육아를 공개한다.&nbsp;그는 첫째 하은,&nbsp;둘째 소은 사이의 질투가 엄청나다며&nbsp;“매일 살얼음판”이라고 고백해 이목을 집중시킨다. 내년 1월&nbsp;1일 오후&nbsp;9시&nbsp;10분에 방송되는&nbsp;MBC ‘물 건너온 아빠들’(연출 임찬) 14회에서는 한국 아빠 인교진이&nbsp;8살]]></content>
     </entry>
 </feed>
