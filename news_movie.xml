@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2022-12-31T03:12:32.161Z</updated>
+    <updated>2022-12-31T04:13:53.561Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['카지노', 기다리다 목 빠진다]]></title>
+        <id>https://v.daum.net/v/20221231130001949</id>
+        <link href="https://v.daum.net/v/20221231130001949"/>
+        <updated>2022-12-31T04:13:32.295Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 김나연 기자] [편집자주] 영화·OTT를 보는 김나연 기자의 사적인 시선. 카지노 / 사진=디즈니플러스공개 초반만 본다면 제목을 '카지노'가 아닌 '차무식'으로 바꿔도 될 듯하다. 위기에 빠진 디즈니+를 살릴 구원 투수로 주목받았던 '카지노'가 공개 초반에는 큰 반향을 일으키지 못하고 있는 가운데, 촘촘히 쌓은 서사로 거대한 '카지노 왕국'을]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[故커트 코베인 아내 "브래드 피트가 날 영화서 잘라..권력 휘둘러" 무슨 일?]]></title>
         <id>https://v.daum.net/v/20221231115216450</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20221231080727377"/>
         <updated>2022-12-30T23:11:10.276Z</updated>
         <content type="html"><![CDATA[[스타뉴스 윤상근 기자] /사진='아바타:물의 길' 포스터 영화 '아바타:물의 길'이 누적 관객 700만명을 돌파하며 2022년의 대미를 화려하게 장식했다. 31일 오전 7시 영화관입장권 통합전산망 기준 '아바타:물의 길'은 누적 관객 714만 347명을 동원하는 데 성공했다. 이로써 '아바타: 물의 길'은 개봉 18일 만에 700만 관객을 돌파하는]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['아바타: 물의 길' 700만 관객 돌파, 새해 천만 가나..3시간 12분 이겨내는 관객들]]></title>
-        <id>https://v.daum.net/v/20221231080716376</id>
-        <link href="https://v.daum.net/v/20221231080716376"/>
-        <updated>2022-12-30T23:11:10.282Z</updated>
-        <content type="html"><![CDATA[[OSEN=최나영 기자]&nbsp;압도적 박스오피스 1위를 유지하며 다시 한번 전 세계적인 신드롬을 일으키고 있는 영화 '아바타: 물의 길'(수입/배급: 월트디즈니컴퍼니 코리아 | 감독: 제임스 카메론 | 출연: 샘 워싱턴, 조 샐다나, 시고니 위버, 스티븐 랭, 케이트 윈슬렛 외)이 700만 관객을 돌파하며 2022년의 대미를 화려하게 장식했다.&nbsp; '아바타:]]></content>
     </entry>
 </feed>

@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-12-31T03:12:32.156Z</updated>
+    <updated>2022-12-31T04:13:53.573Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['용감한 형사들2' "결혼하자"는 여친 토막 살인한 군인 남친]]></title>
+        <id>https://v.daum.net/v/20221231125514923</id>
+        <link href="https://v.daum.net/v/20221231125514923"/>
+        <updated>2022-12-31T04:13:37.655Z</updated>
+        <content type="html"><![CDATA[‘용감한 형사들2’[이데일리 스타in 김가영 기자] ‘용감한 형사들2’가 끔찍한 범죄의 전말을 밝혔다. 지난 30일 방송된 티캐스트 E채널 ‘용감한 형사들2’(연출 이지선)에는 지난주에 이어 강화경찰서 이교호 형사, 김영규 형사와 대구 동부경찰서 안용준 형사와 전·현 대구 수성경찰서 안재경, 권순우가 출연해 직접 발로 뛴 사건 일지를 공개했다. 먼저 강화]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[올해도 깜짝 대상?..'2022 KBS 연기대상' 주인공 누가될까]]></title>
         <id>https://v.daum.net/v/20221231113717353</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20221231095528323"/>
         <updated>2022-12-31T02:07:34.753Z</updated>
         <content type="html"><![CDATA[[뉴스엔 박수인 기자] '빨간 풍선' 서지혜가 설정환을 응징하기 위해 나선다. 12월 31일 방송될 TV CHOSUN 주말미니시리즈 ‘빨간 풍선’(극본 문영남/연출 진형욱/제작 초록뱀 미디어, 하이그라운드) 5회에서는 서지혜-이보희-정보석-최대철이 설정환을 향해 무서운 반격을 가하는 ‘끝장 육탄전’이 예고됐다. 극중 권태기(설정환)가 일하는 구청으로 양]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[공승연, '소옆경' 설이 보내서 아쉽지만…"시즌2 기다려"]]></title>
-        <id>https://v.daum.net/v/20221231095228301</id>
-        <link href="https://v.daum.net/v/20221231095228301"/>
-        <updated>2022-12-31T00:53:16.254Z</updated>
-        <content type="html"><![CDATA[[OSEN=장우영 기자] 배우 공승연이 성실한 도전으로 시청자들의 뜨거운 응원을 받으며 유종의 미를 거뒀다. SBS 금토드라마 ‘소방서 옆 경찰서’가 지난 30일 12부를 끝으로 시즌1을 마무리했다. 첫 방송부터 치밀한 연기로 자신만의 ‘공감 만렙’ 송설을 완성시킨 공승연은 결말에 이르기까지 장르 퀸 면모를 제대로 증명하며 안방극장을 사로잡았다. 공승연]]></content>
     </entry>
 </feed>
