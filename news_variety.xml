@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/variety</id>
     <title>다음 연예 ─ 뉴스 ─ 예능</title>
-    <updated>2022-12-31T07:10:10.352Z</updated>
+    <updated>2022-12-31T08:13:45.591Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['런닝맨', 살벌한 눈싸움.."눈밭에서 구르겠다" 약속 성사]]></title>
+        <id>https://v.daum.net/v/20221231171017945</id>
+        <link href="https://v.daum.net/v/20221231171017945"/>
+        <updated>2022-12-31T08:13:34.684Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 최혜진 기자] /사진=SBS'런닝맨'에서는 멤버들의 살벌한 눈과의 전쟁이 펼쳐진다. 오는 1월 1일 방송되는 SBS 예능 프로그램에서는 눈싸움을 벌이는 멤버들의 모습이 그려진다. 앞서 '런닝맨'은 지난해 개최된 '2022 SBS 연예대상'에서 "눈밭에 구르겠다"는 말을 남겼다. 이후 멤버들은 실제로 눈밭에서 구르며 새해 첫날부터 큰 웃음을]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이찬원, '해체 위기' 꼰대즈에 러브콜 "콘서트 예정"]]></title>
         <id>https://v.daum.net/v/20221231160650460</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20221231130807015"/>
         <updated>2022-12-31T04:13:42.792Z</updated>
         <content type="html"><![CDATA[[뉴스엔 박수인 기자] 기안84, 빠니보틀 중 잠수 대결의 승자는 누구일까. 1월 1일 방송되는 MBC ‘태어난 김에 세계일주’(연출 김지우 박동빈, 이하 '태계일주') 4회에서는 기안84, 이시언, 빠니보틀이 라라야 전망대를 향하던 중 온천을 방문하는 모습이 공개된다. 해발 고도 4,000m 이상에 있는 유황 온천에서 피로를 푸는 중 기안84는 빠니보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["앨범 내겠다" 이영지, '고등래퍼3' 이어 '쇼미11' 우승 신기록]]></title>
-        <id>https://v.daum.net/v/20221231122521755</id>
-        <link href="https://v.daum.net/v/20221231122521755"/>
-        <updated>2022-12-31T04:13:42.793Z</updated>
-        <content type="html"><![CDATA[[OSEN=최나영 기자]&nbsp;Mnet 'Show Me The Money 11 (이하 쇼미더머니 11)' 사상 최초의 여성 우승자가 탄생했다. '쇼미더머니 11'의 NEW ONE, 최종 우승의 주인공은 이영지였다.&nbsp; 30일 생방송으로 진행된 '쇼미더머니 11' 파이널 무대에서 이영지가 1억 원의 상금과 함께 우승의 영예를 안았다. 이영지는&nbsp;역대 시즌 최다 도]]></content>
     </entry>
 </feed>
