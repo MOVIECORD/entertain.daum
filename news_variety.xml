@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/variety</id>
     <title>다음 연예 ─ 뉴스 ─ 예능</title>
-    <updated>2022-12-31T19:08:57.043Z</updated>
+    <updated>2022-12-31T20:10:57.003Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[윤승열 “독박 육아 불만 BUT ♥김영희, 자랑스럽고 존경스러워”]]></title>
+        <id>https://v.daum.net/v/20230101044719367</id>
+        <link href="https://v.daum.net/v/20230101044719367"/>
+        <updated>2022-12-31T20:10:46.029Z</updated>
+        <content type="html"><![CDATA[[OSEN=박하영 기자] ‘동치미’ 야구선수 출신 코치 윤승열이 김영희를 향한 애정을 드러냈다. 24일 방송된 MBN ‘속풀이쇼 동치미’(이하 ‘동치미’)에서는&nbsp;김영희, 윤승열 부부가 서로를 향한 폭로전을 펼쳤다. 이날 김영희는 잔소리에 대해 “연하라서 잔소리를 하면 자존심 상해 한다. 남편도 반주를 하는데 한 번은 집들이 왔을때 야구 선수들이 엄청 왔다]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['동치미' 김혜정, 소개팅남에게 성희롱 문자 받아 "전율 흘렀다"]]></title>
         <id>https://v.daum.net/v/20230101040001239</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230101005003588"/>
         <updated>2022-12-31T16:14:28.728Z</updated>
         <content type="html"><![CDATA[(엑스포츠뉴스 김현숙 인턴기자) 이효리가 연예인으로서의 삶의 고충을 털어놨다.&nbsp; 31일 방송된 tvN '캐나다 체크인'에서는 이효리가 함께 캐나다로 떠난 지인과 함께 첫 캠핑을 즐기는 모습이 그려졌다.&nbsp; 이날 이효리와 지인은 된장 홍합탕, 버터칼릭새우, 연어스테이크를 만들었다. 저녁식사를 하던 중, 두 사람은 속마음을 이야기하는 시간을 가졌다.&nbsp; 이효리는]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['천변' 남궁민, 디렉터즈 어워드 "사랑하는 ♥진아름 고마워"]]></title>
-        <id>https://v.daum.net/v/20230101004546548</id>
-        <link href="https://v.daum.net/v/20230101004546548"/>
-        <updated>2022-12-31T16:14:28.737Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 이창규 기자) 남궁민이 디렉터즈 어워드를 손에 넣었다. 31일 서울 마포구 상암동 SBS 프리즘타워에서 '2022 SBS 연기대상'이 생방송으로 진행됐다. MC는 방송인 신동엽, 배우 안효섭, 김세정이 맡았다. 디렉터즈 어워드는 '천원짜리 변호사' 남궁민에게 돌아갔다. 남궁민은 "연기할 때는 긴장을 안 하는 편인데 이상하게 이런 곳만 나오면]]></content>
     </entry>
 </feed>
