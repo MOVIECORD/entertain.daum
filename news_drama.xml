@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-12-31T05:10:16.456Z</updated>
+    <updated>2022-12-31T06:13:59.608Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[송가인, 2022년의 스타]]></title>
+        <id>https://v.daum.net/v/20221231145305752</id>
+        <link href="https://v.daum.net/v/20221231145305752"/>
+        <updated>2022-12-31T06:13:43.878Z</updated>
+        <content type="html"><![CDATA[사진=송가인[이데일리 스타in 김가영 기자] 가수 송가인이 2022년 한 해를 꽉 채웠다. TV조선 ‘미스트롯’ 진으로 선발되며 실력을 입증, 화려하게 ‘트롯 퀸’ 자리에 오른 송가인은 2022년 특히 활발한 활동을 하며 가요계와 방송계를 주름 잡았다. 송가인은 지난 2월 설 특집 방송 KBS2 ‘조선팝 어게인 송가인’을 통해 2022년을 화려하게 시작했]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[왕자보다 망나니, 이토록 다크한 김은숙과 송혜교라니]]></title>
+        <id>https://v.daum.net/v/20221231143930647</id>
+        <link href="https://v.daum.net/v/20221231143930647"/>
+        <updated>2022-12-31T06:13:43.881Z</updated>
+        <content type="html"><![CDATA[[엔터미디어=정덕현] "난 왕자님은 필요 없어요. 난 왕자가 아니라 나랑 같이 칼춤 춰줄 망나니가 필요하거든요." 문동은(송혜교)이 주여정(이도현)에게 선을 긋는 이 대사는 넷플릭스 오리지널 드라마 &lt;더 글로리&gt;의 색깔을 분명히 드러낸다. 그리고 이건 그간 판타지와 멜로를 오가는 작품을 줄곧 써왔던 김은숙 작가와 멜로 퀸으로 자리매김해온 송혜교가 이 작품을]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[아마존 선택한 첫 SBS 드라마 ‘법쩐’ 글로벌 팬 만난다]]></title>
         <id>https://v.daum.net/v/20221231133430155</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20221231100947528"/>
         <updated>2022-12-31T02:07:34.744Z</updated>
         <content type="html"><![CDATA[[스타뉴스 윤상근 기자] /사진=스타뉴스 2022년 대미를 장식할 KBS SBS 연기대상 영예의 주인공은 누가 될까. 2022 KBS 연기대상과 2022 SBS 연기대상은 31일 나란히 개최된다. 두 시상식 모두 역시나 대상 수상의 영예가 누구에게 돌아갈 지가 큰 관심사가 될 전망이다. 먼저 다수의 히트작을 알리며 올해 선전한 SBS 드라마로는 남]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['소방서 옆 경찰서' 12.3% 최고 기록 엔딩…"시즌2 더 폭발적일 것"]]></title>
-        <id>https://v.daum.net/v/20221231100444467</id>
-        <link href="https://v.daum.net/v/20221231100444467"/>
-        <updated>2022-12-31T02:07:34.744Z</updated>
-        <content type="html"><![CDATA[[마이데일리 = 오윤주 기자] SBS 금토드라마 '소방서 옆 경찰서'(극본 민지은 연출 신경수) 김래원-손호준-공승연이 시즌1을 마무리 지었다. 지난 30일 방송된 '소방서 옆 경찰서' 최종회는 닐슨 코리아 기준 수도권 10.9%, 최고 12.3%를 기록, 동시간대 시청률 1위를 차지하며 유종의 미를 거뒀다. 2049 시청률은 4.0%로 시즌1에 이어 시]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['SBS 연기대상' 2관왕 나올까…남궁민→김래원, 유력 후보만 다섯]]></title>
-        <id>https://v.daum.net/v/20221231100011385</id>
-        <link href="https://v.daum.net/v/20221231100011385"/>
-        <updated>2022-12-31T02:07:34.745Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 이슬 기자) 김남길, 이준기, 서현진, 남궁민이 수상 후보로 거론되고 있는 '2022 SBS 연기대상'이 오늘(31일) 결정된다. 31일 '2022 SBS&nbsp;연기대상'이 진행된다. MC로는 신동엽, 안효섭, 김세정이 함께한다. 유력한 대상 후보로는 '악의 마음을 읽는 자들' 김남길, '어게인 마이 라이프' 이준기', '왜 오수재인가' 서현진,]]></content>
     </entry>
 </feed>
