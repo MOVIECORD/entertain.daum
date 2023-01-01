@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2023-01-01T15:11:14.465Z</updated>
+    <updated>2023-01-01T16:14:12.677Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['좋알람짝' 인기남 꽃사슴, 자스민 '핑크 라이'에 속고 팅커벨에 분노..수난시대]]></title>
+        <id>https://v.daum.net/v/20230102003011675</id>
+        <link href="https://v.daum.net/v/20230102003011675"/>
+        <updated>2023-01-01T16:14:07.045Z</updated>
+        <content type="html"><![CDATA[웨이브 '좋아하면 울리는 짝!짝!짝!에서 공식 커플처럼 여겨지던 꽃사슴과 백장미 사이에 자스민이 등장하면서, 대혼돈 러브라인이 형성됐다. 지난 12월 30일 공개된 웨이브 오리지널 예능 ‘좋아하면 울리는 짝!짝!짝!’ 5, 6회에서는 외판원에게 산 미션 카드를 적극적으로 활용해 '하트 쟁탈'에 나선 출연자 8인의 러브라인이 펼쳐지면서 시청자들의 시간을]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["♥아이유=강단이" 이종석, 불화설 아닌 10년만에 이룬 짝사랑이었다]]></title>
         <id>https://v.daum.net/v/20230102000523566</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230101221647098"/>
         <updated>2023-01-01T14:09:49.131Z</updated>
         <content type="html"><![CDATA[(서울=뉴스1) 이아영 기자 = 벌칙으로 몸무게를 재게 된 신동이 키 측정으로 멤버들에게 복수했다. 1일 방송된 SBS '미운 우리 새끼'에서는 슈퍼주니어가 금일봉 100만 원을 걸고 단합대회를 열었다. '신동 체중계 올라가기' 벌칙에 결국 걸리고 말았다. 신동은 조심스럽게 체중계에 올라갔다. 그런데 110kg이 넘었다. 신동은 깜짝 놀랐다. 그런데 알]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['미우새' 슈퍼주니어 려욱, 은혁 발냄새에 충격 "진짜 신세계"]]></title>
-        <id>https://v.daum.net/v/20230101221403072</id>
-        <link href="https://v.daum.net/v/20230101221403072"/>
-        <updated>2023-01-01T13:14:38.315Z</updated>
-        <content type="html"><![CDATA[[스포츠투데이 임시령 기자] '미운 우리 새끼' 려욱이 은혁의 발냄새를 맡고 경악했다. 1일 방송된 SBS 예능프로그램 '미운 우리 새끼'(이하 '미우새')에서는 지난주에 이어 그룹 슈퍼주니어의 크리스마스 파티 현장이 공개됐다. 이날 신동은 "회사에 얘기해서 100만 원 상당의 금일봉을 받아왔다"며 4대 4 팀전을 제안했다. 장기말 게임을 진행하던 슈]]></content>
     </entry>
 </feed>
