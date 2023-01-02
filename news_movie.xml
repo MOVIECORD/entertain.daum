@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-01-02T09:12:03.976Z</updated>
+    <updated>2023-01-02T10:12:33.413Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[송태섭의 이야기로 시작하는 '슬램덩크' 감상법]]></title>
+        <id>https://v.daum.net/v/20230102182103537</id>
+        <link href="https://v.daum.net/v/20230102182103537"/>
+        <updated>2023-01-02T10:12:12.626Z</updated>
+        <content type="html"><![CDATA[[김형욱 기자] &nbsp;        ▲ &nbsp;&lt;더 퍼스트 슬램덩크&gt; 포스터.？    ⓒ NEW  &nbsp; 1990년대 초중반 일본과 한국 양국의 만화계, 아니 문화계 전반을 지배했던 &lt;슬램덩크&gt;는 21세기가 한창인 지금도 여전히 크나큰 인기를 끌고 있거니와 영향력도 끼치고 있다. 최근 일본의 앙케이트 조사에서 가장 좋아하는 만화 순위 최상단에 위치했고, 역시 최근에 모]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['컬투쇼' 이민정 "'이병헌이 나보다 싸잖아' 극 중 대사 직접 허락받아"]]></title>
         <id>https://v.daum.net/v/20230102172706984</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230102144609227"/>
         <updated>2023-01-02T06:14:13.130Z</updated>
         <content type="html"><![CDATA[[티브이데일리 김종은 기자] '컬투쇼'에서 배우 이민정이 이병헌과 문세윤 사이에 있었던 사연을 듣고 웃음을 터트렸다. 2일 오후 방송된 SBS 파워FM '두시탈출 컬투쇼'(이하 '컬투쇼')에는 영화 '스위치'(감독 마대윤)의 배우 권상우, 이민정이 출연해 이야기를 나눴다. 이날 스페셜 DJ 문세윤은 이민정의 출연에 맞춰 그의 남편 이병헌과 있었던 일을 들]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['두뇌공조' 차태현 "하이라이트가 제일 재밌을까봐 걱정, 오랜만에 코미디라 편하게 했다"]]></title>
-        <id>https://v.daum.net/v/20230102143946844</id>
-        <link href="https://v.daum.net/v/20230102143946844"/>
-        <updated>2023-01-02T06:14:13.132Z</updated>
-        <content type="html"><![CDATA[[스포츠조선 정빛 기자] KBS2 새 월화드라마 '두뇌공조' 차태현이 작품의 재미를 예고했다. 차태현은 2일 '두뇌공조' 온라인 제작발표회에서 "하이라이트가 제일 재밌을까봐 걱정이다"라며 "오랜만에 코미디로 편하게 할 수 있었다"고 했다. 이날 먼저 하이라이트 영상을 선보인 이진서 감독은 "배우들 스태프들 고생시켰던 기억 때문에 잘 안 나오면]]></content>
     </entry>
 </feed>
