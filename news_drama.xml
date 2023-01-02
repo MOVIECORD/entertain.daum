@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-01-02T12:20:40.455Z</updated>
+    <updated>2023-01-02T13:18:19.390Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['미씽2' 김동휘, 고수 목숨 구했다 '살벌']]></title>
+        <id>https://v.daum.net/v/20230102221320076</id>
+        <link href="https://v.daum.net/v/20230102221320076"/>
+        <updated>2023-01-02T13:18:02.863Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 이이진 기자) '미씽: 그들이 있었다2' 고수가 김동휘의 정체를 의심했다. 2일 방송된 tvN 월화드라마 '미씽: 그들이 있었다2'(이하 '미씽2') 5회에서는 김욱(고수 분)이 오일용(김동휘)을 추궁하는 모습이 그려졌다. 이날 김욱은 "너 뭐야? 보이스피싱범 살인, 웨딩드레스 입은 여자 납치, 살인 세영이 납치까지. 그때마다 네가 있었어.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[정수환, "보고가 아니라 고자질"...배누리 실수 언급하는 최윤라에 팩폭]]></title>
         <id>https://v.daum.net/v/20230102211908391</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230102172836016"/>
         <updated>2023-01-02T09:11:49.204Z</updated>
         <content type="html"><![CDATA[[서울경제] 배우 신현승에게 '연예인 매니저로 살아남기'는 운명처럼 다가온 작품이다. 스케줄 문제로 참여할 수 없을 뻔했지만, 다행히 정리되면서 순조롭게 출연하게 됐다. 그는 이번 작품을 통해 많은 것을 배웠고, 한층 성장한 자신을 느끼고 있다. tvN 월화드라마 '연예인 매니저로 살아남기'(극본 박소영/연출 백승룡/이하 '연매살')는 메쏘드엔터를 배경으]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[윤지원, 사랑스러운 여교사로 '미씽2' 합류]]></title>
-        <id>https://v.daum.net/v/20230102170725444</id>
-        <link href="https://v.daum.net/v/20230102170725444"/>
-        <updated>2023-01-02T08:15:09.426Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 이경호 기자] 배우 윤지원./사진제공=윌엔터테인먼트배우 윤지원이 tvN 월화드라마 '미씽: 그들이 있었다2'에 합류한다. 2일 소속사 윌엔터테인먼트는 윤지원이 tvN 드라마 '미씽: 그들이 있었다2'(이하 '미씽2')에 합류한다고 전했다. '미씽2'는 사라진 사람들, 새로운 영혼 마을, 그들의 간절함에 오지랖 재발동한 '영혼 보는 콤비'의 판]]></content>
     </entry>
 </feed>
