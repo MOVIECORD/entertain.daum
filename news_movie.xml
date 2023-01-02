@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-01-02T08:15:27.770Z</updated>
+    <updated>2023-01-02T09:12:03.976Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['컬투쇼' 이민정 "'이병헌이 나보다 싸잖아' 극 중 대사 직접 허락받아"]]></title>
+        <id>https://v.daum.net/v/20230102172706984</id>
+        <link href="https://v.daum.net/v/20230102172706984"/>
+        <updated>2023-01-02T09:11:44.558Z</updated>
+        <content type="html"><![CDATA[(사진=SBS 파워FM)[이데일리 스타in 김보영 기자] 배우 이민정이 남편 이병헌이 언급되는 영화 속 대사 장면을 직접 허락받은 일화를 공개해 웃음을 자아냈다. 이민정은 권상우와 함께 2일 오후 방송된 SBS 파워FM ‘두시탈출 컬투쇼’에 영화 ‘스위치’(감독 마대윤) 개봉을 앞두고 출연해 입담을 과시했다. 이민정은 오는 4일 개봉하는 ‘스위치’를]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[권상우의 '스위치', 자극 없는 코미디 힐링극 …새해 첫 영화로 안성맞춤]]></title>
         <id>https://v.daum.net/v/20230102163555351</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230102143946844"/>
         <updated>2023-01-02T06:14:13.132Z</updated>
         <content type="html"><![CDATA[[스포츠조선 정빛 기자] KBS2 새 월화드라마 '두뇌공조' 차태현이 작품의 재미를 예고했다. 차태현은 2일 '두뇌공조' 온라인 제작발표회에서 "하이라이트가 제일 재밌을까봐 걱정이다"라며 "오랜만에 코미디로 편하게 할 수 있었다"고 했다. 이날 먼저 하이라이트 영상을 선보인 이진서 감독은 "배우들 스태프들 고생시켰던 기억 때문에 잘 안 나오면]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이민정 "'이병헌 싸잖아' 애드리브, 모든 男관객이 좋아하더라"]]></title>
-        <id>https://v.daum.net/v/20230102143629725</id>
-        <link href="https://v.daum.net/v/20230102143629725"/>
-        <updated>2023-01-02T06:14:13.155Z</updated>
-        <content type="html"><![CDATA[[마이데일리 = 양유진 기자] 배우 이민정이 남편인 배우 이병헌을 언급했다. 2일 방송된 SBS 파워FM 라디오 '두시탈출 컬투쇼'에는 영화 '스위치' 개봉을 앞둔 배우 권상우, 이민정이 출연했다. 마대윤 감독이 각본, 연출을 겸한 '스위치'는 캐스팅 0순위 천만 배우이자 자타공인 스캔들 메이커, 화려한 싱글 라이프를 만끽하던 박강이 크리스마스에 인생]]></content>
     </entry>
 </feed>
