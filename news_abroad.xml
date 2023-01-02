@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-01-02T02:11:45.856Z</updated>
+    <updated>2023-01-02T03:12:56.395Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[日 국민배우 와타나베 켄, 21살 어린 불륜女와 재혼 계획]]></title>
+        <id>https://v.daum.net/v/20230102112730375</id>
+        <link href="https://v.daum.net/v/20230102112730375"/>
+        <updated>2023-01-02T03:12:55.663Z</updated>
+        <content type="html"><![CDATA[[TV리포트=박설이 기자]암 투병 중인 아내를 두고 불륜을 저질렀던 일본의 국민배우 와타나베 켄(63)이 올해 재혼을 계획 중이라고 일본 매체가 보도했다. 1일 일본 스포니치 아넥스 보도에 따르면 와타나베 켄은 2013년부터 교제 중인 21살 연하의 비연예인 여성과 나가노에서 동거 중이다. 8년째 교제 중인 두 사람은 지난 2019년 열린 와타나베 켄의 환]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[43세 여성 래퍼, 사망한 채 발견.."아직 원인 몰라"]]></title>
         <id>https://v.daum.net/v/20230102104520309</id>
@@ -88,12 +95,5 @@
         <link href="https://v.daum.net/v/20230101132034663"/>
         <updated>2023-01-01T05:10:59.462Z</updated>
         <content type="html"><![CDATA[[스포츠조선닷컴 박아람 기자] 미국 드라마 '워킹데드' 배우 타일러 샌더스가 사망한지 6개월 만에 그의 사인이 밝혀졌다. 지난해 12월 29일(현지시각) 로스앤젤레스(LA)타임스, TMZ 등에 따르면 LA카운티 검시관은 타일러 샌더스가 마약성 진통제인 펜타닐 중독으로 사망했다고 밝혔다. 타일러 샌더스는 지난해 6월 LA 자택에서 숨진 채 발]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BTS 제이홉, 美 새해맞이쇼도 찢었다…빗속에서도 빛난 무대장인]]></title>
-        <id>https://v.daum.net/v/20230101120539715</id>
-        <link href="https://v.daum.net/v/20230101120539715"/>
-        <updated>2023-01-01T03:17:29.806Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 황혜진 기자] 그룹 방탄소년단(BTS) 멤버 제이홉이 빗줄기 속에서도 무대 장인 면모를 증명했다. 제이홉은 12월 31일(현지시간) 미국 뉴욕 타임스스퀘어 무대에서 진행된 ABC-TV '딕 클라크스 뉴이어스 로킹 이브(DICK CLARK’S NEW YEAR’S ROCKIN EVE, 이하 뉴이어스 로킹 이브)'에 출연했다. 이번 공연 참석을 위해]]></content>
     </entry>
 </feed>
