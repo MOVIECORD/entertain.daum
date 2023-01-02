@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-01-02T06:14:33.896Z</updated>
+    <updated>2023-01-02T07:10:59.645Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["'이병헌 싸잖아' 대사 걱정"..'컬투쇼' 권상우·이민정, 이렇게 솔직할 수가]]></title>
+        <id>https://v.daum.net/v/20230102153747316</id>
+        <link href="https://v.daum.net/v/20230102153747316"/>
+        <updated>2023-01-02T07:10:38.559Z</updated>
+        <content type="html"><![CDATA[[OSEN=하수정 기자] 배우 권상우와 이민정이 '컬투쇼'에서 물오른 입담을 선보였다. 2일 오후 방송된 SBS 파워FM '두시탈출 컬투쇼'에는 영화 '스위치'의 주연 배우 권상우, 이민정이 출연했다. 오는 4일 개봉하는 '스위치'(감독 마대윤, 제작 ㈜하이브미디어코프, 제공배급 롯데엔터테인먼트)는 캐스팅 0순위 천만배우이자 자타공인 스캔들 메이커, 화]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘기생충’ 다음 ‘브로커’ 3글자 K-무비는 진리]]></title>
+        <id>https://v.daum.net/v/20230102151850546</id>
+        <link href="https://v.daum.net/v/20230102151850546"/>
+        <updated>2023-01-02T07:10:38.560Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 허민녕 기자] ‘기생충’ 그리고 ‘브로커’ 3글자 K-무비가 주는 남다른 감동. 해외 순차 개봉에 나선 영화 ‘브로커’가 뜨거운 현지 반응으로 화제를 모으고 있다. 지난 연말 북미 전역에 선보인 이후 대표 관객평점으로 꼽히는 로튼 토마토 신선도 및 팝콘 지수가 최대 95%대까지 치솟은 데 이어 유수 언론은 만점에 가까운 별점과 아울러 극찬을 쏟]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[배두나·정주리 화제작 ‘다음 소희’ 2월 개봉]]></title>
         <id>https://v.daum.net/v/20230102150601062</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230102133645559"/>
         <updated>2023-01-02T05:11:05.836Z</updated>
         <content type="html"><![CDATA[[스타뉴스 김나연 기자] 카지노 / 사진=디즈니플러스'카지노' 속 배우들의 극과 극 활약에 이목이 집중되고 있다. '카지노'는 돈도 빽도 없이 필리핀에서 카지노의 전설이 된 남자 '차무식'이 살인사건에 휘말리면서 인생의 벼랑 끝 목숨 건 최후의 베팅을 시작하게 되는 강렬한 이야기를 그린 작품. '범죄도시2'를 통해 절대적 빌런 '강해상'으로 활약하며]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘슬램덩크’ ‘장화신은 고양이’…겨울 극장가, 신작 애니도 탄탄]]></title>
-        <id>https://v.daum.net/v/20230102133603533</id>
-        <link href="https://v.daum.net/v/20230102133603533"/>
-        <updated>2023-01-02T05:11:05.843Z</updated>
-        <content type="html"><![CDATA[막강한 애니메이션 신작들이 겨울방학 극장가를 찾는다. 오는 4일 개봉하는 ‘슬램덩크’의 신작 영화 ‘더 퍼스트 슬램덩크’는 전국 제패를 꿈꾸는 북산고 농구부 5인방의 꿈과 열정, 멈추지 않는 도전을 그린 영화다. 1990년부터 1996년까지 ‘주간 소년 점프’(슈에이샤)에서 연재된 만화 ‘슬램덩크’는 한 번도 농구를 해본 적 없는 풋내기 강백호가 북산고교]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[거물 친구의 초대장, 섬에 모인 사람들의 꿍꿍이]]></title>
-        <id>https://v.daum.net/v/20230102120001620</id>
-        <link href="https://v.daum.net/v/20230102120001620"/>
-        <updated>2023-01-02T03:12:35.118Z</updated>
-        <content type="html"><![CDATA[[김동근 기자] &nbsp;        ▲ &nbsp;영화 &lt;나이브스 아웃: 글래스 어니언&gt; 포스터    ⓒ 넷플릭스  &nbsp; 살면서 의도치 않게 관계를 맺어야 하는 사람들이 있다. 친구라고 부를 수도 있고, 동료라고 부를 수도 있을 것이다. 사실 그 관계가 어떤 방향으로 나아갈지 알 수 없다. 특히나 성인이 되어서 만난 사람들과의 관계는 아주 깊어지기 쉽지 않다. 각자 생각]]></content>
     </entry>
 </feed>
