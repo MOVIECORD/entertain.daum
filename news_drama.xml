@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-01-02T15:12:14.259Z</updated>
+    <updated>2023-01-02T16:14:49.845Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[정용화, 불법 뇌 적출로 사내 퇴출...차태현과 한 팀 결성]]></title>
+        <id>https://v.daum.net/v/20230103004002886</id>
+        <link href="https://v.daum.net/v/20230103004002886"/>
+        <updated>2023-01-02T16:14:33.201Z</updated>
+        <content type="html"><![CDATA[[텐아시아=신지원 기자]'두뇌공조' 정용화가 차태현과 한 팀이 됐다. 2일 첫 방송된 KBS 2TV 월화드라마 '두뇌공조'에서는 신하루(정용화 분)가 회사에서 퇴출당한 후 금명세(차태현 분)과 설소정(곽선영 분)팀에 자문 위원으로 합류했다. 이날 신하루는 사이코패스의 뇌를 갖고 싶어했고 살인 중독인 사이코패스에게 "네가 죽일 수 있는 건 네 자신이다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['트롤리' 김현주, 이름과 고향 버린 진짜 이유 드러났다…박희순에게 들킬까?]]></title>
         <id>https://v.daum.net/v/20230103000901779</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230102222334163"/>
         <updated>2023-01-02T14:10:24.888Z</updated>
         <content type="html"><![CDATA[(엑스포츠뉴스 오승현 인턴기자) '두뇌공조' 각자 다른 뇌를 가진 차태현과 예지원의 캐릭터가 소개됐다. 2일 첫 방송된 KBS 2TV 월화드라마 '두뇌공조'에서는 경사 금명세(차태현 분)이 김모란(예지원) 앞에 등장했다. 이날 혼자 술을 마시던 금명세는 '전처' 김모란에게 전화가 오자 "진동소리까지 아주 요망하다. 재수없다"며 "내가 이걸 받으면 네 남편이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['미씽2' 김동휘, 고수 목숨 구했다 '살벌']]></title>
-        <id>https://v.daum.net/v/20230102221320076</id>
-        <link href="https://v.daum.net/v/20230102221320076"/>
-        <updated>2023-01-02T13:18:02.863Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 이이진 기자) '미씽: 그들이 있었다2' 고수가 김동휘의 정체를 의심했다. 2일 방송된 tvN 월화드라마 '미씽: 그들이 있었다2'(이하 '미씽2') 5회에서는 김욱(고수 분)이 오일용(김동휘)을 추궁하는 모습이 그려졌다. 이날 김욱은 "너 뭐야? 보이스피싱범 살인, 웨딩드레스 입은 여자 납치, 살인 세영이 납치까지. 그때마다 네가 있었어.]]></content>
     </entry>
 </feed>
