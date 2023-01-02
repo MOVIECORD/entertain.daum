@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/variety</id>
     <title>다음 연예 ─ 뉴스 ─ 예능</title>
-    <updated>2023-01-02T18:13:51.679Z</updated>
+    <updated>2023-01-02T19:09:53.169Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[유재석 또 미담제조기..오나미가 펑펑 운 이유는?]]></title>
+        <id>https://v.daum.net/v/20230103040817571</id>
+        <link href="https://v.daum.net/v/20230103040817571"/>
+        <updated>2023-01-02T19:09:41.494Z</updated>
+        <content type="html"><![CDATA[[OSEN=김수형 기자] '조선의 사랑꾼'에서 유재석이 또 한 번 미담의 주인공이 됐다.&nbsp; 2일 방송된 TV조선 예능 '조선의 사랑꾼'이 전파를 탔다. 오나미의 결혼식 모습이 그려졌다. 남편 박민과 함께 등장한 오나미. 시작부터 웨딩카를 준비한 매니저를 보며 울컥, 눈물 흘렸다. 이어 훤칠한 박민이 등장, 웨딩드레스입은 오나미에 한 눈에 반했다. 이어]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[유재석 등장에 눈물 펑펑…'모태솔로' 오나미, 감동 가득 웨딩마치]]></title>
         <id>https://v.daum.net/v/20230103005002918</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230102234853605"/>
         <updated>2023-01-02T15:12:03.604Z</updated>
         <content type="html"><![CDATA[서하얀이 남편 임창정의 끝나지 않은 금주선언에 한숨을 내쉬었다. 2일 방송된 '동상이몽2-너는 내 운명'에서는 임창정♥서하얀 부부의 모습이 그려졌다. 이날 임창정은 몸이 안좋은 듯 침대에 누워 골골대고 있었다. 서하얀은 임창정에게 녹음 일정에 대해 물었고, 임창정은 "컨디션이 안 좋아서 내일 해야할 것 같다"고 답했다. 안 좋은 컨디션이 사실인듯 임]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[서하얀, "♥임창정, 매일 음주에 고음 안 올라가…주사는 화장실 취침"]]></title>
-        <id>https://v.daum.net/v/20230102234636593</id>
-        <link href="https://v.daum.net/v/20230102234636593"/>
-        <updated>2023-01-02T15:12:03.610Z</updated>
-        <content type="html"><![CDATA[[OSEN=김예솔 기자] 서하얀이 임창정의 주사를 공개했다.&nbsp; 2일 방송된 SBS '동상이몽2-너는 내 운명'에서는 임창정이 금주를 선언했지만 쉽게 끊지 못하는 모습을 보여 눈길을 끌었다.&nbsp; 서하얀은 주당인 남편 임창정의 이야기를 전하며 "뮤지컬 할 때는 한 잔도 안 마셨는데 끝나고 나서는 매일 마셨다. 지금 앨범 녹음 중인데 술 때문에 고음이 안 올라]]></content>
     </entry>
 </feed>
