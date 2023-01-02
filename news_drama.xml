@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-01-02T03:12:56.398Z</updated>
+    <updated>2023-01-02T04:13:51.952Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[계묘년 여는 1월 신작 드라마, 대작 쏟아진다]]></title>
+        <id>https://v.daum.net/v/20230102131107830</id>
+        <link href="https://v.daum.net/v/20230102131107830"/>
+        <updated>2023-01-02T04:13:36.857Z</updated>
+        <content type="html"><![CDATA[아이즈 ize 한수진 기자계묘년의 해가 밝았다. 지난 2년 간&nbsp;K-드라마는 호황이라 할 만했다. TV채널뿐 아니라 OTT 등&nbsp;플랫폼의 다양화로 작품들이 봇물을 이뤘다. 치열해진 플랫폼&nbsp;경쟁은 K-드라마에&nbsp;독창성과 다양성을 더하며 작품성에&nbsp;긍정적인&nbsp;영향까지 끼쳤다. 덕분에 국내와 아시아를 넘어 세계적으로&nbsp;큰 관심을 받으며 에미상과 같은 유의미한 성과를 거두기]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['대행사' 작가 "이보영→전혜진, 100% 신뢰…대본 빨리 써야겠다 생각"]]></title>
         <id>https://v.daum.net/v/20230102115707563</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230102104041092"/>
         <updated>2023-01-02T02:11:29.458Z</updated>
         <content type="html"><![CDATA[[스타뉴스 김수진 기자] 배우 이재욱이 드라마 '환혼: 빛과 그림자'에서 애절한 로맨스 연기로 시청자를 흡입했다. 지난 1일 방송된 tvN 토일드라마 '환혼: 빛과 그림자'에서 진부연(고윤정 분) 눈 속 환혼인 자국을 발견한 장욱(이재욱 분)의 모습이 공개, 앞으로의 전개에 대한 기대감을 고조시켰다. 입맞춤으로 서로의 마음을 확인한 장욱과 부연.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[문가영 멜로 여신 될까? 결코 평온하지 않을 사랑]]></title>
-        <id>https://v.daum.net/v/20230102103806987</id>
-        <link href="https://v.daum.net/v/20230102103806987"/>
-        <updated>2023-01-02T02:11:29.459Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 박아름 기자] 배우 문가영이 멜로 여신의 존재감을 드러낼까. 배우 문가영은 JTBC 수목드라마 ‘사랑의 이해’(극본 이서현, 이현정/연출 조영민)에서 가면 뒤에 여린 마음을 숨기고 있는 KCU 은행 영포지점 여신 안수영으로 열연 중이다. 안수영은 사랑은 반짝이지만 한 순간에 무너질 수 있는 모래성이라 생각하는 인물로 하상수(유연석 분), 정종현]]></content>
     </entry>
 </feed>
