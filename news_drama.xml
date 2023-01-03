@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-01-03T09:11:48.934Z</updated>
+    <updated>2023-01-03T10:12:42.597Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[송혜교 재회 불발?..이응복 감독 하차설에 "'자백의 대가' 연출자 확정 NO"]]></title>
+        <id>https://v.daum.net/v/20230103183713276</id>
+        <link href="https://v.daum.net/v/20230103183713276"/>
+        <updated>2023-01-03T10:12:23.032Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 김노을 기자] 배우 송혜교(왼쪽), 이응복 감독 /사진=스타뉴스DB배우 송혜교의 차기작으로 알려진 드라마 '자백의 대가' 연출 물망에 올랐던 이응복 감독의 하차설에 제작사가 입장을 밝혔다. 제작사 스튜디오드래곤 관계자는 3일 스타뉴스에 "이응복 감독이 '자백의 대가' 연출자로 의사 타진 중인 후보군인 것은 사실이나 확정된 바는 없다"고 밝혔다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[송혜교·한소희, 이응복 감독 빠진 ‘자백의 대가’ 출연할까]]></title>
         <id>https://v.daum.net/v/20230103180806637</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230103161657323"/>
         <updated>2023-01-03T08:14:30.958Z</updated>
         <content type="html"><![CDATA[[스타뉴스 최혜진 기자] 영화 '영화의 거리'(감독 김민근) 주연배우 이완이 9일 오전 온라인으로 진행된 인터뷰를 위해 포즈를 취하고 있다.  '영화의 거리'는 영화 로케이션 매니저와 감독으로 부산에서 재회한 선화와 도영의 이야기를 그리는 작품으로 오는 16일 개봉 예정이다. /사진제공=씨네소파 2021.09.09 /사진=이동훈 기자 photoguy@배우]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[백서빈 ‘성스러운 아이돌’ 출연, 소속사 실장 된다]]></title>
-        <id>https://v.daum.net/v/20230103160419929</id>
-        <link href="https://v.daum.net/v/20230103160419929"/>
-        <updated>2023-01-03T07:10:48.021Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 박수인 기자] 배우 백서빈이 ‘성스러운 아이돌’에 출연한다. 소속사 판타지오는 1월 2일 “백서빈이 tvN 새 드라마 ‘성스러운 아이돌’에 출연을 확정 지었다”고 전했다. ‘성스러운 아이돌’(연출 박소연/ 극본 이천금/ 기획 스튜디오드래곤/ 제작 피타팻스튜디오 하이그라운드)은 하루 아침에 무명 아이돌이 된 이 세계의 대신관 램브러리의 성스럽고 망]]></content>
     </entry>
 </feed>
