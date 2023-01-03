@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-01-03T06:13:12.055Z</updated>
+    <updated>2023-01-03T07:11:03.920Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“사귀는건 아니지만” 디카프리오, 25세 연하와 새해파티]]></title>
+        <id>https://v.daum.net/v/20230103154153129</id>
+        <link href="https://v.daum.net/v/20230103154153129"/>
+        <updated>2023-01-03T07:11:03.287Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 이민지 기자] 레오나르도 디카프리오가 25살 연하 배우와 새해 파티를 즐겼다. 페이지식스는 1월 2일(현지시간) 레오나르도 디카프리오가 새해에 세인트 바츠 요트에서 시간을 보냈고 이 자리에 23세 배우 빅토리아 라마가 함께 했다고 보도했다. 두 사람은 공식적으로 친구사이라고 선을 그었으나 한달여간 4번 가량 함께 있는 모습이 포착돼 눈길을 끈]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘워킹데드’ 배우→래퍼 갱스터 부 사망, 사인은 펜타닐 중독?]]></title>
+        <id>https://v.daum.net/v/20230103153409833</id>
+        <link href="https://v.daum.net/v/20230103153409833"/>
+        <updated>2023-01-03T07:11:03.292Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 황혜진 기자] 미국 래퍼 갱스터 부(본명 롤라 미첼)가 펜타닐 중독 사망설에 휩싸였다. 1월 2일(현지시간) 미국 뉴욕타임즈는 "갱스터 부가 43세 나이로 사망했다"고 전했다. 보도에 따르면 현지 경찰은 숨진 채 발견된 갱스터 부의 사망 원인을 조사 중이다. 정확한 사인은 밝혀지지 않았다. 이 가운데 미국 매체 TMZ는 갱스터 부에게서 펜타닐 성]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[日 배우 노이리 토시키, 계단서 넘어져 뇌출혈 사망..향년 33세]]></title>
         <id>https://v.daum.net/v/20230103151024863</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230103100717037"/>
         <updated>2023-01-03T02:09:52.694Z</updated>
         <content type="html"><![CDATA[[OSEN=강서정 기자] 미국 인기 래퍼인 쓰리 식스 마피아의 전 멤버 갱스터 부가 약물과다 복용으로 사망했을 가능성이 있다는 것이 밝혀졌다. 2일(현지시간) 페이지 식스 등 미국 매체 보도에 따르면 고(故) 갱스터 부 측근은 갱스터 부는 사망 전날 친오빠와 테네시주 멤피스에서 열린 콘서트에 참석했고 친오빠가 약물 과다 복용으로 입원치료가 필요하다고 했]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘호크아이’ 제레미 레너, 제설 작업 중 부상 “수술 필요해”]]></title>
-        <id>https://v.daum.net/v/20230103085001147</id>
-        <link href="https://v.daum.net/v/20230103085001147"/>
-        <updated>2023-01-03T00:54:47.973Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 이민지 기자] 배우 제레미 레너가 부상 당했다. 1월 2일(현지시간) CNN 보도에 따르면 배우 제레미 레너가 제설 작업 중 사고로 중상을 입었다. 제레미 레너 대변인 측은 "제레미가 눈을 치우다 기상 관련 사고를 겪은 후 부상을 당했다. 중상을 입었으나 현재는 안정적인 상태다. 가족이 그와 함께 있다"라고 전했다. 제레미 레너는 이번 부상]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[브래드 피트♥29살 연하 여친, 달콤한 멕시코 여행 “매우 행복한 커플”]]></title>
-        <id>https://v.daum.net/v/20230103083243766</id>
-        <link href="https://v.daum.net/v/20230103083243766"/>
-        <updated>2023-01-03T00:54:47.978Z</updated>
-        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]할리우드 톱스타 브래드 피트(59)가 새로운 여친 이네스 드 라몬(30)과 멕시코에서 새해를 맞이했다. 연예매체 피플은 2일(현지시간) “이들은 휴일 주말을 앞두고 카보 산 루카스에 도착해 멕시코 바하 캘리포니아 반도의 유명 관광지에서 새해 전야를 함께 축하했다”고 보도했다. 한 소식통은 피플에 “그들은 데이트를 하고 재미]]></content>
     </entry>
 </feed>
