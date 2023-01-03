@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-01-03T14:10:54.585Z</updated>
+    <updated>2023-01-03T15:12:44.793Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[조관우 "2번 이혼에 빚 있고 집 없어..전처에 위자료 보내달라 연락와"]]></title>
+        <id>https://v.daum.net/v/20230103234648443</id>
+        <link href="https://v.daum.net/v/20230103234648443"/>
+        <updated>2023-01-03T15:12:44.117Z</updated>
+        <content type="html"><![CDATA[[스포츠조선닷컴 정유나 기자] '돌싱포맨' 조관우가 새 돌싱 멤버로 합류했다. 3일 방송된 SBS '신발 벗고 돌싱포맨'에서는 '오징어 게임' 에미상 수상을 기념해 연예계 대표 돌싱들이 다시 만난 모습이 그려졌다. 이날 두 번의 이혼을 한 '돌돌싱' 새로운 멤버가 등장해 눈길을 끌었다. 제작진은 새로운 멤버에 대해 "지인의 배신으로 빚의 늪에]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[톰 크루즈, ‘천 억 시대’ 열었다.. 2022 할리우드 수익 1위]]></title>
         <id>https://v.daum.net/v/20230103215000714</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230103134556902"/>
         <updated>2023-01-03T05:10:47.865Z</updated>
         <content type="html"><![CDATA[(엑스포츠뉴스 이창규 기자) 제설 작업을 하다 부상을 입은 '호크아이' 제레미 레너의 현황이 전해졌다. 2일(현지시간) 미국 데드라인은 제레미 레너의 대변인을 통해 "제레미 레너가 흉부 외상과 정형외과적 부상을 당해 1차 수술을 마쳤으며, 집중 치료실에서 치료를 받고 있다"고 보도했다. 이와 함께 "그는 위독하지만 안정된 상태로 있다"고]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[33세 日 배우, 계단서 넘어져 급사.."뇌출혈 때문"]]></title>
-        <id>https://v.daum.net/v/20230103125917652</id>
-        <link href="https://v.daum.net/v/20230103125917652"/>
-        <updated>2023-01-03T04:13:55.595Z</updated>
-        <content type="html"><![CDATA[[OSEN=선미경 기자] 일본의 배우 노이리 토시키가 계단에서 넘어져 급사했다. 향년 33세. 2일(현지시각) 일본 매체 보도에 따르면 노이리 토시키는 지난 달 29일 밤 도쿄 내의 음식점 계단에서 잘못 넘어져 뇌출혈로 사망했다. 보도에 따르면 노이리 토시키는 계단에서 넘어져 머리를 다쳤고, 곧바로 응급실에서 치료를 받았지만 1월 2일 새벽에 결국 사망]]></content>
     </entry>
 </feed>
