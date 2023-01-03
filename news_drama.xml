@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-01-03T12:22:15.326Z</updated>
+    <updated>2023-01-03T13:18:31.551Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[조각미남 최시원, 100kg 거구로 완성한 인생캐]]></title>
+        <id>https://v.daum.net/v/20230103215022726</id>
+        <link href="https://v.daum.net/v/20230103215022726"/>
+        <updated>2023-01-03T13:18:15.310Z</updated>
+        <content type="html"><![CDATA[[OSEN=선미경 기자] 그룹 슈퍼주니어 멤버이자 배우인 최시원이 파격적인 변신으로 인생 캐릭터를 만들어가고 있다. 파격적인 변신도, 망가지는 코믹 연기도 거침 없다. 티빙 오리지널 ‘술꾼도시여자들2’에 출연하고 있는 최시원이 몸을 사리지 않는 열연으로 시청자들을 사로잡고 있다. 반듯하게 잘생긴 비주얼이지만 거침 없이 망가졌고, 몸을 던져 웃음을 줬다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['미씽2' 고수, 첫사랑 임선우와 재회…최명빈 친부 아니었다]]></title>
         <id>https://v.daum.net/v/20230103211844462</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230103183713276"/>
         <updated>2023-01-03T10:12:23.032Z</updated>
         <content type="html"><![CDATA[[스타뉴스 김노을 기자] 배우 송혜교(왼쪽), 이응복 감독 /사진=스타뉴스DB배우 송혜교의 차기작으로 알려진 드라마 '자백의 대가' 연출 물망에 올랐던 이응복 감독의 하차설에 제작사가 입장을 밝혔다. 제작사 스튜디오드래곤 관계자는 3일 스타뉴스에 "이응복 감독이 '자백의 대가' 연출자로 의사 타진 중인 후보군인 것은 사실이나 확정된 바는 없다"고 밝혔다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[송혜교·한소희, 이응복 감독 빠진 ‘자백의 대가’ 출연할까]]></title>
-        <id>https://v.daum.net/v/20230103180806637</id>
-        <link href="https://v.daum.net/v/20230103180806637"/>
-        <updated>2023-01-03T09:11:32.292Z</updated>
-        <content type="html"><![CDATA[[동아닷컴]  애초 올해 제작을 목표로 기획 중인 새 드라마 ‘자백의 대가’ 선장(연출자) 자리가 공석이다. 작품 기획 단계부터 함께한 것으로 알려진 이응복 감독이 선장 후보에서 빠지면서다. 제작사 스튜디오드래곤 측은 3일 동아닷컴에 “이응복 감독은 ‘자백의 대가’ 연출자로 연출 의사 타진 중인 후보였으나 확정된 바 없다. 아직 크랭크인(촬영 시작)까지는]]></content>
     </entry>
 </feed>
