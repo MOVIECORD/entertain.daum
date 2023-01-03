@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-01-03T00:54:48.725Z</updated>
+    <updated>2023-01-03T02:09:53.244Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘워킹데드’ 18살 배우→43살 女래퍼까지 펜타닐 약물중독으로 사망 ‘충격’]]></title>
+        <id>https://v.daum.net/v/20230103100717037</id>
+        <link href="https://v.daum.net/v/20230103100717037"/>
+        <updated>2023-01-03T02:09:52.694Z</updated>
+        <content type="html"><![CDATA[[OSEN=강서정 기자] 미국 인기 래퍼인 쓰리 식스 마피아의 전 멤버 갱스터 부가 약물과다 복용으로 사망했을 가능성이 있다는 것이 밝혀졌다. 2일(현지시간) 페이지 식스 등 미국 매체 보도에 따르면 고(故) 갱스터 부 측근은 갱스터 부는 사망 전날 친오빠와 테네시주 멤피스에서 열린 콘서트에 참석했고 친오빠가 약물 과다 복용으로 입원치료가 필요하다고 했]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘호크아이’ 제레미 레너, 제설 작업 중 부상 “수술 필요해”]]></title>
         <id>https://v.daum.net/v/20230103085001147</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230102154212498"/>
         <updated>2023-01-02T07:10:58.994Z</updated>
         <content type="html"><![CDATA[(엑스포츠뉴스 이창규 기자) '호크아이' 제레미 레너가 제설작업을 하다 심각한 부상을 입었다. 1일(현지시간) 미국 버라이어티 등 다수 매체는 제레미 레너가 제설 작업을 하던 중 부상을 입었다고 보도했다. 제레미 레너의 대변인은 매체에 "제레미 레너가 오전에 제설 작업 중 기상 관련 사고로 부상을 입었다"면서 "위험하지만 안정적인 상태"라고 전했다. 그러면]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['호크 아이' 제레미 레너, 제설 작업 중 심각 부상]]></title>
-        <id>https://v.daum.net/v/20230102153526222</id>
-        <link href="https://v.daum.net/v/20230102153526222"/>
-        <updated>2023-01-02T07:10:58.995Z</updated>
-        <content type="html"><![CDATA[[티브이데일리 김종은 기자] 할리우드 배우 제레미 레너가 큰 부상을 당했다. 제레미 레너 대변인은 1일(현지시간) 미국 연예매체 버라이어티와의 인터뷰를 통해 "이날 오전 제레미가 눈을 치우다 심각한 사고를 당해 병원으로 호송됐다. 다행히 현재는 안정적인 상태로 가족들의 보살핌을 받고 있다"고 말했다. 제레미 레너는 네바다주 와슈 카운티 인근에서 거주 중이]]></content>
     </entry>
 </feed>
