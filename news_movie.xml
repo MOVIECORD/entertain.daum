@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-01-03T03:12:44.094Z</updated>
+    <updated>2023-01-03T04:13:56.298Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘더 퍼스트 슬램덩크’ 주인공 강백호 아닌 송태섭‥원작자 겸 감독 밝힌 이유]]></title>
+        <id>https://v.daum.net/v/20230103125951669</id>
+        <link href="https://v.daum.net/v/20230103125951669"/>
+        <updated>2023-01-03T04:13:30.851Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 배효주 기자] '슬램덩크' 원작자가 영화 '더 퍼스트 슬램덩크'를 연출한 이유를 밝혔다. 전국 제패를 꿈꾸는 북산고 농구부 5인방의 꿈과 열정, 멈추지 않는 도전을 그린 영화 '더 퍼스트 슬램덩크'의 원작 만화 ‘슬램덩크’는 1990년부터 1996년까지 ‘주간 소년 점프’(슈에이샤)에서 연재되며 누적 발행부수 1억 2천만 부를 돌파한 레전드 작품]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[군기 잡다 사람 죽인 군대... 법정에 선 대령의 말실수]]></title>
         <id>https://v.daum.net/v/20230103115704496</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230103101517337"/>
         <updated>2023-01-03T02:09:30.593Z</updated>
         <content type="html"><![CDATA[[OSEN=김보라 기자]&nbsp;OTT 공개 작품들이 관객들의 사랑을 받는 시대가 도래했지만, 극장은 결코 사라지지 않을 플랫폼이다. 영화를 가장 영화스럽게 볼 수 있는 공간이기 때문이다. 아마도 관객들과 새 영화가 존재하는 한, 극장은 오랜 역사와 가치를 그 시대의 변화상에 맞춰 이어나갈 것이다. 2023년 1월에도 어김없이 찾아와 관객들을 만날 시간만 기다]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['정이' 김현주x故강수연 연기 변신→한국SF 신기원 열 연상호 감독]]></title>
-        <id>https://v.daum.net/v/20230103100659019</id>
-        <link href="https://v.daum.net/v/20230103100659019"/>
-        <updated>2023-01-03T02:09:30.595Z</updated>
-        <content type="html"><![CDATA[[OSEN=하수정 기자] 넷플릭스가 연상호 감독의 신작 '정이'의 보도스틸을 공개했다. '정이'는 기후변화로 폐허가 된 지구를 벗어나 이주한 쉘터에서 발생한 전쟁을 끝내기 위해 전설적인 용병 정이의 뇌를 복제, 최고의 전투 A.I.를 개발하려는 사람들의 이야기를 그린 SF 영화. 이번에 공개된 보도스틸은 연합군 소속 전설적인 용병이었을 때의 과거 정이(]]></content>
     </entry>
 </feed>
