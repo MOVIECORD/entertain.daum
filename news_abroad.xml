@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-01-04T02:14:15.474Z</updated>
+    <updated>2023-01-04T03:12:52.004Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[역시 어벤져스! 제레미 레너, 가족+이웃 위해 눈 치우다 봉변..셀카로 안심]]></title>
+        <id>https://v.daum.net/v/20230104111820353</id>
+        <link href="https://v.daum.net/v/20230104111820353"/>
+        <updated>2023-01-04T03:12:51.382Z</updated>
+        <content type="html"><![CDATA[[OSEN=박소영 기자] 제레미 레너가 제설작업 중 사고를 당해 두 차례 수술을 받고 회복 중인 가운데 미담이 알려져 팬들을 더욱 안타깝게 만들고 있다. 3일(현지시각) 외신 보도에 따르면 제레미 레너는 지난 1일 네바다주 리노에 있는 집에서 가족들과 휴가를 보냈다. 이후 가족들이 떠날 수 있게 집 앞 차도에서 눈을 치우고 있었고 주민들을 위해 진입로를]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[안젤리나 졸리, 21살 연하 배우와 데이트...딸도 함께]]></title>
         <id>https://v.daum.net/v/20230104111032967</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230103171820344"/>
         <updated>2023-01-03T09:11:48.347Z</updated>
         <content type="html"><![CDATA[[OSEN=유수연 기자] 팝스타 아델이 최근 건강 이상을 호소해 우려를 자아내고 있다. 2일(현지 시간) 영국 매체 메트로는 새해 전날 진행된 라스베이거스 콘서트 중 아델의 심상치 않은 움직임을 포착했다고 보도했다. 더불어 데일리 스타가 공개한 영상에 따르면, 아델이 다음 곡을 위해 무대 반대편으로 빠르게 움직여야 하자 “무대 반대편으로 가야 한다. 최]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[톰 크루즈, 윌 스미스·디카프리오 다 제치고 할리우드 수익 1위]]></title>
-        <id>https://v.daum.net/v/20230103165531664</id>
-        <link href="https://v.daum.net/v/20230103165531664"/>
-        <updated>2023-01-03T08:14:46.851Z</updated>
-        <content type="html"><![CDATA[[OSEN=연휘선 기자] 톰 크루즈가 2022년 가장 많은 돈을 번 남자 배우로 꼽혔다.&nbsp; 최근 할리우드 연예 매체들은 지난달 28일(현지 시간) Study Finds가 발표한 자료를 빌려 2022년 한 해 동안 영화 캐릭터로 가장 많은 수익을 거둔&nbsp;남자 배우 5명을 발표했다.&nbsp; 그 중에서도 1위는 톰 크루즈가 차지했다. 톰 크루즈는 지난해 영화 '탑건]]></content>
     </entry>
 </feed>
