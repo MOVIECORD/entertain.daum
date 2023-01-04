@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-01-04T19:11:13.870Z</updated>
+    <updated>2023-01-04T20:12:30.513Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['머슴 바울'·'탄생'·'이태석'…극장가에 부는 '종교 영화' 바람]]></title>
+        <id>https://v.daum.net/v/20230105050020810</id>
+        <link href="https://v.daum.net/v/20230105050020810"/>
+        <updated>2023-01-04T20:12:08.610Z</updated>
+        <content type="html"><![CDATA[지난해 연말, 극장가에 꾸준히 개봉하는 종교 영화들 이목 집중&nbsp; [더팩트｜원세나 기자] 이태석 신부의 진정한 마지막 이야기를 그린 다큐멘터리 영화 '이태석'(감독 이우석)이 '탄생', '머슴 바울'과 함께 극장가에 종교 영화의 바람을 불러 일으킬 것으로 보여 관객들의 이목을 집중시키고 있다. 극장가에 종교 영화가 잇따라 개봉하고 있어 관객들의 눈길을]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[대중들 무장 해제시키는 솔직한 입담]]></title>
         <id>https://v.daum.net/v/20230105000009154</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230104171801427"/>
         <updated>2023-01-04T09:11:33.407Z</updated>
         <content type="html"><![CDATA[[이선필 기자] &nbsp;        ▲ &nbsp;영화 &lt;영웅&gt;에서 안중근 모친 조마리아를 연기한 배우 나문희.    ⓒ CJ ENM  &nbsp; "엄마라면 내 자식이 10살이든 쉰살이든 우선이거든. 근데 마리아 여사는 아들에게 의병대장으로 끝까지 싸워라, 목숨도 바치라고 하잖나. 생각은 쉽지만 그걸 행하는 게 정말 어려운 일이다. 내가 가진 능력으로 그분을 끝까지 표현하려]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[나문희 "틱톡 해보니 재밌더라, 젊은 애들이 '호박고구마'라고" ②]]></title>
-        <id>https://v.daum.net/v/20230104165035532</id>
-        <link href="https://v.daum.net/v/20230104165035532"/>
-        <updated>2023-01-04T08:14:48.155Z</updated>
-        <content type="html"><![CDATA[(사진=CJ ENM)[이데일리 스타in 김보영 기자] 81세 배우 나문희가 MZ세대의 SNS ‘틱톡’에 푹 빠진 근황을 전했다. 나문희는 14일 오후 서울 종로구 삼청동의 한 카페에서 진행한 취재진과의 인터뷰에서 ‘영웅’의 조마리아 여사 역으로 첫 뮤지컬 영화에 도전한 소감과 촬영 후일담, 배우로서의 인생 철학을 전했다. 나문희는 이날 인터뷰에서 요즘]]></content>
     </entry>
 </feed>
