@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-01-05T12:21:57.981Z</updated>
+    <updated>2023-01-05T13:22:11.249Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[최윤라, "난 오빠를 되찾을거야"...백성현 향한 집착X광기 시작]]></title>
+        <id>https://v.daum.net/v/20230105212302218</id>
+        <link href="https://v.daum.net/v/20230105212302218"/>
+        <updated>2023-01-05T13:21:52.656Z</updated>
+        <content type="html"><![CDATA[[텐아시아=신지원 기자]'내 눈에 콩깍지' 최윤라가 백성현에 집착했다. 5일 오후 방송된 KBS1TV 일일드라마 '내 눈에 콩깍지'에서는 김해미(최윤라 분)이 장경준(백성현 분)에게 과거 사진을 보내며 광기를 드러냈다. 이날 서화경(이아현 분)은 김해미 방문을 두드리며 "아직도 그렇게 누워만 있는거야? 밥도 안 먹고 그렇게 누워만 있으면 어떡해. 딸 이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘태풍의 신부’ 손창민, 기억 찾은 지수원 납치→박하나 오열 ‘충격 엔딩’]]></title>
         <id>https://v.daum.net/v/20230105203500512</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230105165631139"/>
         <updated>2023-01-05T08:15:15.378Z</updated>
         <content type="html"><![CDATA[[마이데일리 = 박윤진 기자] 대한민국 최고의 일타 강사 최치열 역에 도전하는 배우 정경호가 작품에 대한 솔직한 이야기를 전했다. 케이블채널 tvN 새 토일드라마 ‘일타 스캔들’(극본 양희승 연출 유제원)은 사교육 전쟁터에서 펼쳐지는 국가대표 반찬가게 열혈 사장과 대한민국 수학 일타 강사의 달콤 쌉싸름한 로맨스를 그리는 작품. 정경호는 극 중 연봉도, 인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[송혜교만 낯설어? '더 글로리' 흥행 속 이무생→신예은의 재발견]]></title>
-        <id>https://v.daum.net/v/20230105165601123</id>
-        <link href="https://v.daum.net/v/20230105165601123"/>
-        <updated>2023-01-05T08:15:15.379Z</updated>
-        <content type="html"><![CDATA[[텐아시아=태유나 기자] 넷플릭스 시리즈 '더 글로리' 속 배우들의 열연이 연일 화제다. 무엇보다 기존의 이미지를 벗고 완전히 새로운 얼굴로 갈아 끼운 배우들의 변신이 '재발견'되고 있다. 극의 중심에는 복수를 향해 조용하지만 치열하게 나아가는 송혜교가 있지만, 이러한 서사에 힘을 실어준 건 아역들부터 짧은 특별출연까지 소름을 유발하는 배우들의 열연이 있]]></content>
     </entry>
 </feed>
