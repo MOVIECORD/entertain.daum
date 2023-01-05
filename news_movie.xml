@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-01-05T09:12:31.088Z</updated>
+    <updated>2023-01-05T10:13:18.749Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“나와 닮아”...정가은 스크린 도전 ‘별볼일 없는 인생’]]></title>
+        <id>https://v.daum.net/v/20230105190000551</id>
+        <link href="https://v.daum.net/v/20230105190000551"/>
+        <updated>2023-01-05T10:12:56.263Z</updated>
+        <content type="html"><![CDATA[방송인이자 배우 정가은이 첫 스크린 주연 도전에 나선 ‘별 볼일 없는 인생’이 스크린을 찾는다. 5일 오후 서울 롯데시네마 건대입구에서 영화 ‘별 볼일 없는 인생’ 시사회 및 간담회가 열렸다. 서동현 감독과 배우 정가은 곽필제가 참석했다. ‘별 볼일 없는 인생’은 죽음을 눈앞에 두고 시간 여행을 떠나게 된 한 여자의 이야기를 담은 타임슬림 판타지 멜로다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[원작자가 재해석 한 '슬램덩크'... 심상찮은 분위기]]></title>
         <id>https://v.daum.net/v/20230105175706028</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230105162502123"/>
         <updated>2023-01-05T08:15:09.784Z</updated>
         <content type="html"><![CDATA[[뉴스엔 허민녕 기자] 단 한마디 예고도 없이 극장에 정말 불쑥 나타나 자신의 신작을 보러 와준 관객들에게 90도로 인사하는 이런 톱스타 본 적 있는가. 실제 있다, 권상우라고. 권상우가 새 영화 ‘스위치’ 개봉과 함께 게릴라 무대인사에 나서 화제가 될 전망이다. 신작 개봉 2일째 벌어진 일로, 권상우는 1월5일 오후1시 전후 서울 롯데시네마 월드타워에]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[정가은 "'8등신 송혜교', 죄송하지만 좋아요…다시 태어난다면 블랙핑크 제니로"]]></title>
-        <id>https://v.daum.net/v/20230105162401085</id>
-        <link href="https://v.daum.net/v/20230105162401085"/>
-        <updated>2023-01-05T08:15:09.786Z</updated>
-        <content type="html"><![CDATA[[텐아시아=강민경 기자] 배우 정가은이 '8등신 송혜교' 수식어가 좋고, 걸그룹 블랙핑크 멤버 제니로 다시 태어나고 싶다고 밝혔다. 정가은은 5일 오후 서울 광진구 롯데시네마 건대입구에서 영화 '별&nbsp;볼일&nbsp;없는 인생'(감독 서동헌)에 대한 다양한 이야기를 들려줬다. '별&nbsp;볼일&nbsp;없는 인생'은 죽기 직전 과거로 떠나게 된 ‘이선’이 자신의 옛 연인들을 마주]]></content>
     </entry>
 </feed>
