@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-01-05T04:14:23.542Z</updated>
+    <updated>2023-01-05T05:11:19.292Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[살해 당한 아이를 위하여... 여배우가 출연 결심한 사연]]></title>
+        <id>https://v.daum.net/v/20230105134802792</id>
+        <link href="https://v.daum.net/v/20230105134802792"/>
+        <updated>2023-01-05T05:10:58.542Z</updated>
+        <content type="html"><![CDATA[[김성호 기자] 핵가족을 넘어 1인가구가 넘쳐나는 21세기다. 할아버지, 할머니, 수많은 형제들과 북적이며 살던 모습은 지난 시대의 무엇이 되어 버렸다. 30년 뒤면 전체 가구 가운데 최소 40%가 1인가구가 될 거라는 전망도 더는 새롭지 않게 들려온다. 그때가 되면 가족의 의미 역시 전혀 다른 것이 될지 모를 일이다. 그러나 사람에게서만 얻을 수 있는 위]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이민정 “육아는 이병헌이, 전 무대인사 가야죠”]]></title>
+        <id>https://v.daum.net/v/20230105133005362</id>
+        <link href="https://v.daum.net/v/20230105133005362"/>
+        <updated>2023-01-05T05:10:58.542Z</updated>
+        <content type="html"><![CDATA[배우 이민정이 ‘아내’ ‘엄마’란 수식어를 잠시 내려두고 스크린 앞에 선다. 영화 ‘스위치’(감독 마대윤) 개봉에 맞춰 무대인사를 돌며 관객들과 만난다. “1월1일에 무대인사를 했어요. 행복하더라고요. 영화 홍보하는 사이 육아는 남편 이병헌 몫이고요. 하하. 이번에도 아들이 운동경기 참가하고 싶대서, 남편이 마스크 하고 신청서도 직접 내러 갔죠. 가족]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“가족이 요새야” 800만명 기억에 남은 ‘아바타:물의 길’ 명대사]]></title>
         <id>https://v.daum.net/v/20230105130653804</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230105105439678"/>
         <updated>2023-01-05T02:16:15.388Z</updated>
         <content type="html"><![CDATA[[OSEN=김보라 기자] 영화 '영웅'이 관객들에게 긴 여운을 남긴 명장면 BEST 4를 공개했다. #1. 안중근과 동지들의 뜨거운 재회 '영웅'(감독 윤제균, 제공배급 CJ ENM, 제작 JK필름, 공동제작 에이콤・CJ ENM)은 1909년 10월 하얼빈에서 이토 히로부미를 사살한 뒤 일본 법정의 사형 판결을 받고 순국한 안중근 의사가 거사를 준비하던]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[30대의 추억 여행…'더 퍼스트 슬램덩크', 화려한 신고식]]></title>
-        <id>https://v.daum.net/v/20230105104329223</id>
-        <link href="https://v.daum.net/v/20230105104329223"/>
-        <updated>2023-01-05T02:16:15.392Z</updated>
-        <content type="html"><![CDATA[(사진=NEW)[이데일리 스타in 김보영 기자] “포기하는 순간 그 경기는 끝나는 겁니다.” ‘슬램덩크’ 안 선생님의 명대사가 26년 만에 살아있는 음성으로 3040 관객들의 마음을 적셨다. 1990년대, 시간과 세대를 뛰어넘어 2023년 스크린으로 재탄생한 영화 ‘더 퍼스트 슬램덩크’(감독 이노우에 다케히코)가 일본 열도를 넘어 한국에서도 원작 만화의]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['영웅' 나문희, 취재진 앞에서 부른 노래]]></title>
-        <id>https://v.daum.net/v/20230105102659481</id>
-        <link href="https://v.daum.net/v/20230105102659481"/>
-        <updated>2023-01-05T02:16:15.392Z</updated>
-        <content type="html"><![CDATA['영웅' 속 조마리아 여사는 관객들은 물론 배우 나문희에게도 깊은 여운을 남겼다. 인터뷰 중 나문희는 갑자기 노래를 시작했다. 그가 안중근을 향한 조마리아의 마음을 담은 '사랑하는 내 아들, 도마'를 부르는 동안 그곳에 있던 모두가 나문희에게 주목했다. 나문희는 지난 4일 서울 종로구 삼청동 한 카페에서 진행된 인터뷰를 통해 뮤지컬 영화 '영웅'에 대한 다]]></content>
     </entry>
 </feed>
