@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-01-05T22:11:31.887Z</updated>
+    <updated>2023-01-05T23:13:18.633Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['제설사고' 제레미 레너, 중환자실 근황..멍든 얼굴에도 가족과 유쾌 "안도"]]></title>
+        <id>https://v.daum.net/v/20230106073222276</id>
+        <link href="https://v.daum.net/v/20230106073222276"/>
+        <updated>2023-01-05T23:13:17.865Z</updated>
+        <content type="html"><![CDATA[[OSEN=최나영 기자] 배우 제레미 레너가&nbsp;병원에서 호전된 근황을 공개했다. 제레미 레너는 5일(현지시간) 자신의 SNS에 병원에서 그의 어머니와 여동생에게 따뜻한 케어를 받고 있는 영상을 공개했다. 영상 속&nbsp;레너의 여동생은 그의&nbsp;머리를 마사지하며 "섹시하다"라고 너스레를 떨고&nbsp;모친은 미소짓고 있다.&nbsp;레너는&nbsp;"내 기운을 북돋아주는 스파 순간"이라는 글]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“테일러 스위프트 고양이, 1232억 벌었다”, 세계에서 세번째 비싼 애완동물]]></title>
         <id>https://v.daum.net/v/20230106060906268</id>
@@ -20,7 +27,7 @@
         <content type="html"><![CDATA[[TV리포트=이수연 기자] 넷플릭스 인기 시리즈 '기묘한 이야기'의 주연 배우 세이디 싱크(20)가 마지막 시즌 촬영을 앞두고 소감을 전했다. 4일(현지 시간) 미국 NBC 유명 토크쇼 '투데이'에서 세이디 싱크는 '기묘한 이야기'의 마지막이자 다섯 번째 시즌을 촬영하는 소감에 대해 입을 열었다. 그는 "끔찍할 것이다. 모든 출연진들과 스태프들은 가족이]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA['웬즈데이' 엠마 마이어스 "세븐틴 팬, 15살 때부터"]]></title>
+        <title type="html"><![CDATA['웬즈데이' 엠마 마이어스 "세븐틴 팬, 15세 때부터"]]></title>
         <id>https://v.daum.net/v/20230106050013256</id>
         <link href="https://v.daum.net/v/20230106050013256"/>
         <updated>2023-01-05T20:13:14.972Z</updated>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230105121029853"/>
         <updated>2023-01-05T03:12:39.777Z</updated>
         <content type="html"><![CDATA[[OSEN=최나영 기자] 영국 해리 왕자가&nbsp;형 윌리엄 왕세자가&nbsp;자신의 아내인 메건 마클을 두고 욕을 했으며 본인을 신체적으로 공격했다고 주장했다. 4일(현지시간) 가디언에 따르면 해리 왕자는 10일 발간되는 그의 새 회고록 '스페어'에서 윌리엄 왕세자가&nbsp;자신을 물리적으로 공격했다고 폭로했다. 이 매체가 입수한 발췌문에서&nbsp;해리 왕자는&nbsp;윌리엄 왕세자가&nbsp;자신]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[흑인 논란 '인어공주' 전체 관람가 등급 못받았다…부모 지도 요구]]></title>
-        <id>https://v.daum.net/v/20230105110217065</id>
-        <link href="https://v.daum.net/v/20230105110217065"/>
-        <updated>2023-01-05T02:16:37.510Z</updated>
-        <content type="html"><![CDATA[[OSEN=김보라 기자]&nbsp;영화 ‘인어공주’가 전체 관람가 등급을 받지 못했다. 5일(한국 시간) 미국 필름 레이팅스닷컴에 따르면 ‘인어공주’는 PG 등급을 받았다. ‘PG 등급’은 연령제한은 없으나, 부모나 보호자의 지도가 요구되는 영화다. 이는 영화 중 일부 소재와 내용이 청소년들에게 부적합할 수 있다는 의미다. ‘인어공주’가 어린이만을 위한 애니메이]]></content>
     </entry>
 </feed>
