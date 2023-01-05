@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2023-01-05T17:11:27.967Z</updated>
+    <updated>2023-01-05T18:14:29.119Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[SF9 다원, 심정지 환자 응급조치…"일정 취소하고 휴식"]]></title>
+        <id>https://v.daum.net/v/20230106023004226</id>
+        <link href="https://v.daum.net/v/20230106023004226"/>
+        <updated>2023-01-05T18:14:22.770Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 박윤진 기자] 그룹 SF9 멤버 다원이 심정지 환자의 응급조치를 도왔다. 5일 소속사 FNC엔터테인먼트는 SF9 팬카페를 통해 다원이 이날 예정된 팬 이벤트에 불참한다고 알렸다. 소속사는 공지를 통해 "다원이 이날 평소 이용하는 사우나에서 목욕을 하던 중, 심정지 상태의 환자를 목격했다. 유선상으로 전달받은 구급대원의 지시에 따라 최선]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["임신=탈퇴" 안영미, 이대로 셀럽파이브 해체? '결별'한 김신영도 재소환]]></title>
         <id>https://v.daum.net/v/20230106005219894</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230105234130408"/>
         <updated>2023-01-05T15:13:39.145Z</updated>
         <content type="html"><![CDATA[[스포츠조선 조윤선 기자] 가수 겸 배우 이승기가 못다 한 소감을 밝혔다. 5일 방송된 KBS 2TV '연중 플러스'의 '연예가 헤드라인' 코너에서는 이승기의 독점 인터뷰가 공개됐다. 이승기는 지난해 12월 31일 '2022 KBS 연기대상'에서 주상욱과 함께 대상을 공동 수상했다. 최근 전 소속사와 분쟁 소식을 알린 후 첫 공식 석상에]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['연중플러스' 차예련, 후크와 분쟁 中 이승기에 "이겨야 돼" 응원]]></title>
-        <id>https://v.daum.net/v/20230105234003402</id>
-        <link href="https://v.daum.net/v/20230105234003402"/>
-        <updated>2023-01-05T15:13:39.146Z</updated>
-        <content type="html"><![CDATA[[스포츠투데이 백지연 기자] '연중플러스'에서 KBS 연기대상 무대 밖 이야기를 공개했다. 차예련이 후크 엔터와 분쟁 중인 이승기를 응원했다. 5일 방송된 KBS 2TV 예능 '연중 플러스' 114회에서는 '2022 KBS 연기대상'에서 대상을 수상한 가수 겸 배우 이승기의 인터뷰가 공개됐다. 이날 이승기는 '연중 플러스' 측에 "감사드린다. 열심히 하겠]]></content>
     </entry>
 </feed>
