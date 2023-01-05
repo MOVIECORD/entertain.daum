@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-01-05T03:12:40.422Z</updated>
+    <updated>2023-01-05T04:14:23.542Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“가족이 요새야” 800만명 기억에 남은 ‘아바타:물의 길’ 명대사]]></title>
+        <id>https://v.daum.net/v/20230105130653804</id>
+        <link href="https://v.daum.net/v/20230105130653804"/>
+        <updated>2023-01-05T04:13:59.949Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 배효주 기자] 800만 관객을 돌파한 '아바타: 물의 길' 명대사 TOP3를 꼽아봤다. #1. “I See you” 전편 '아바타'에 이어 '아바타: 물의 길'에서도 “I See you”라는 대사를 만나볼 수 있다. 이는 상대에 대한 존중을 표하는 인사로 전편에선 ‘제이크 설리’와 ‘네이티리’가 서로에게 인사를 건네며 많은 관객들을 감동하게 했다]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이동휘 측 "'수사반장1963' 캐스팅? 사실 아냐"]]></title>
+        <id>https://v.daum.net/v/20230105124100363</id>
+        <link href="https://v.daum.net/v/20230105124100363"/>
+        <updated>2023-01-05T04:13:59.949Z</updated>
+        <content type="html"><![CDATA[[TV리포트=신은주 기자] 배우 이동휘가 '수사반장1963'에 캐스팅됐다는 소식이 사실이 아닌 것으로 확인됐다. 5일 이동휘 소속사 키이스트 관계자는 TV리포트에 "이동휘 배우는 '수사반장1963'에 캐스팅되지 않았다. 보도된 내용은 사실이 아니다"라고 밝혔다. 앞서 한 매체는 이동휘가 MBC 새 드라마 '수사반장 1963'(가제)에서 형사 캐릭터를 맡는다]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[참패 '쌍천만' 최동훈 감독→'샛별' 아이유·박진영·차은우]]></title>
         <id>https://v.daum.net/v/20230105115601348</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230105102659481"/>
         <updated>2023-01-05T02:16:15.392Z</updated>
         <content type="html"><![CDATA['영웅' 속 조마리아 여사는 관객들은 물론 배우 나문희에게도 깊은 여운을 남겼다. 인터뷰 중 나문희는 갑자기 노래를 시작했다. 그가 안중근을 향한 조마리아의 마음을 담은 '사랑하는 내 아들, 도마'를 부르는 동안 그곳에 있던 모두가 나문희에게 주목했다. 나문희는 지난 4일 서울 종로구 삼청동 한 카페에서 진행된 인터뷰를 통해 뮤지컬 영화 '영웅'에 대한 다]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[황정민, 요르단에서 오이지 담그고 된장찌개 끓이고]]></title>
-        <id>https://v.daum.net/v/20230105102538443</id>
-        <link href="https://v.daum.net/v/20230105102538443"/>
-        <updated>2023-01-05T02:16:15.392Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 배효주 기자] '교섭' 팀이 험난했던 요르단 현지 촬영 비하인드를 공개했다. 1월 18일 개봉하는 영화 '교섭'(감독 임순례)은 최악의 피랍사건으로 탈레반의 인질이 된 한국인들을 구하기 위해 아프가니스탄으로 향한 외교관과 현지 국정원 요원의 교섭 작전을 그린 작품이다. 한국 영화 최초 스크린에 이국적이면서도 낯선 혼돈의 땅인 아프가니스탄을 펼쳐보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['더 글로리' 정성일에 빠져든다..송혜교와 사약 케미 발산]]></title>
-        <id>https://v.daum.net/v/20230105102351359</id>
-        <link href="https://v.daum.net/v/20230105102351359"/>
-        <updated>2023-01-05T02:16:15.394Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 김나연 기자] 정성일 / 사진=넷플릭스넷플릭스 시리즈 '더 글로리' 정성일이 '어른 섹시'의 정석으로 여심을 흔들고 있다. '더 글로리'에서 언제부터인가 일상에 스며든 동은(송혜교 분)으로 인해 아내 연진(임지연 분)의 판도라의 상자를 마주하고 복수의 소용돌이에 휘말리게 되는 하도영 역을 맡은 정성일은 단정하면서도 묘한 분위기와 깊은 눈빛으로]]></content>
     </entry>
 </feed>
