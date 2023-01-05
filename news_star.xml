@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2023-01-05T18:14:29.119Z</updated>
+    <updated>2023-01-05T19:09:47.858Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘사막의 왕’ 양동근 “20년 만에 내 연기 보며 울었습니다”]]></title>
+        <id>https://v.daum.net/v/20230106040626644</id>
+        <link href="https://v.daum.net/v/20230106040626644"/>
+        <updated>2023-01-05T19:09:42.344Z</updated>
+        <content type="html"><![CDATA[배우 양동근은 배우이면서 아빠였다. 왓챠 시리즈 ‘사막의 왕’에서 그가 맡은 역할은 죽음을 앞두고 딸과 마지막 시간을 보내는 아빠였다. 그는 “20년 만에 내 연기를 보면서 울었다”고 말할 정도로 감명을 깊게 받은 작품이라고 털어놨다. ‘사막의 왕’은 ‘D.P’로 유명한 김보통 작가가 집필하고 연출에 참여한 블랙 코미디다. 사람들이 돈(자본)을 대하는 삶]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SF9 다원, 심정지 환자 응급조치…"일정 취소하고 휴식"]]></title>
         <id>https://v.daum.net/v/20230106023004226</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230105234726444"/>
         <updated>2023-01-05T15:13:39.145Z</updated>
         <content type="html"><![CDATA[[티브이데일리 황서연 기자] '미스터트롯2' 예선의 승자가 가려졌다. 5일 밤 방송한 TV조선 예능프로그램 '미스터트롯2'에서는 예선을 마무리 지은 119명 참가자들의 모습이 그려졌다. 이날 추가 합격자가 정해진 끝에 총 119명 중 73명의 참가자들이 본선 1차 무대에 진출했다. 그 중에서도 참가자들의 이목은 예선 1, 2, 3등을 가리는 진선미 발표였다]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이승기, 주상욱♥차예련 "이겨야 돼" 응원에 미소→못다 한 소감]]></title>
-        <id>https://v.daum.net/v/20230105234130408</id>
-        <link href="https://v.daum.net/v/20230105234130408"/>
-        <updated>2023-01-05T15:13:39.145Z</updated>
-        <content type="html"><![CDATA[[스포츠조선 조윤선 기자] 가수 겸 배우 이승기가 못다 한 소감을 밝혔다. 5일 방송된 KBS 2TV '연중 플러스'의 '연예가 헤드라인' 코너에서는 이승기의 독점 인터뷰가 공개됐다. 이승기는 지난해 12월 31일 '2022 KBS 연기대상'에서 주상욱과 함께 대상을 공동 수상했다. 최근 전 소속사와 분쟁 소식을 알린 후 첫 공식 석상에]]></content>
     </entry>
 </feed>
