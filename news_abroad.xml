@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-01-05T07:10:51.589Z</updated>
+    <updated>2023-01-05T08:15:32.160Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[각트 "투병 중 유서 썼다...목소리 안 나오고 머리 빠져"]]></title>
+        <id>https://v.daum.net/v/20230105170130350</id>
+        <link href="https://v.daum.net/v/20230105170130350"/>
+        <updated>2023-01-05T08:15:31.498Z</updated>
+        <content type="html"><![CDATA[[TV리포트=박설이 기자]중증 질환으로 활동을 중단했던 일본 가수 각트가 투병 당시 상황을 전했다. 4일 일본 주간지 여성자신은 각트와의 인터뷰를 공개했다. 지난 2021년 9월 지병인 신경계 질환이 생명이&nbsp;위험할 정도로 악화돼 무기한 활동 중단을 발표했던 각트의 복귀 인터뷰여서 많은 이들의 관심이 쏠렸다.&nbsp; 각트는 이 인터뷰에서 1년여 만에 방송에 복귀한]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“‘6550kg 제설기 사고’ 제레미 레너, 빨리 회복해” 어벤져스 동료들 힘찬 응원물결]]></title>
+        <id>https://v.daum.net/v/20230105163812603</id>
+        <link href="https://v.daum.net/v/20230105163812603"/>
+        <updated>2023-01-05T08:15:31.499Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]‘호크아이’ 제레미 레너(51)가 눈을 치우다 제설기에 깔리는 사고를 당한 가운데 ‘어벤져스’ 동료들의 응원 물결이 이어지고 있다. 와슈 카운티 보안관 다린 발람은 지난 3일 기자회견에서 레너가 피스턴 벌리라고 불리는 "최소 1만4330파운드(약 6,500kg)" 무게의 "극도로 큰 제설 장비"에 치였다고 밝혔다. 지난 1일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[에드워드 노튼, 포카혼타스 직계 후손이었다]]></title>
         <id>https://v.daum.net/v/20230105154047354</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230105100620677"/>
         <updated>2023-01-05T02:16:37.519Z</updated>
         <content type="html"><![CDATA[[OSEN=최나영 기자] '백만장자 쌍둥이'의 애슐리 올슨(36)이 화가 겸 사진작가&nbsp;루이스 아이스너(34)와 비밀 결혼식을 올렸다. TV 스타에서 패션계의 거물이 된&nbsp;애슐리 올슨이 지난 해 12월 28일(현지시간)&nbsp;미국 캘리포니아 벨에어에서 루이스 아이스너와 비밀 결혼식을 올리고 백년가약을 맺었다고 페이지식스가 4일 전했다. 해당 결혼식에는 50명 정]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아델, 건강이상설 직접 언급 "심각한 좌골신경통 앓고 있어"]]></title>
-        <id>https://v.daum.net/v/20230105092319795</id>
-        <link href="https://v.daum.net/v/20230105092319795"/>
-        <updated>2023-01-05T00:57:13.797Z</updated>
-        <content type="html"><![CDATA[[OSEN=연휘선 기자] 영국의 팝스타 아델이 건강이상설에 휩싸인 가운데&nbsp;좌골신경통에 대해 밝혔다. 5일(현지시간) 미국 방송사 ABC는 아델이 매우 나쁜 '좌골신경통(sciatica)'을 앓고 있다고 보도했다.&nbsp; 아델은 새해 전날 진행된 라스베이거스 콘서트에서 건강이상설에 휩싸였다. 무대 반대편으로 이동하던 와중 뒤뚱거리며 제대로 걷지 못하는 모습을]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[제레미 레너 “6550kg 제설기에 깔려 완전히 으스러져, 피도 많이 흘려” 긴박했던 순간 공개]]></title>
-        <id>https://v.daum.net/v/20230105080034562</id>
-        <link href="https://v.daum.net/v/20230105080034562"/>
-        <updated>2023-01-04T23:11:44.102Z</updated>
-        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]‘호크아이’ 제레미 레너(51)가 제설기에 깔릴 당시의 긴박했던 순간이 공개됐다. 연예매체 TMZ가 4일(현지시간) 입수한 911 통화 기록에 따르면, 제레미 레너는 이번 주 초 제설기가 그를 덮친 후 “완전히 으스러졌다”고 전해졌다. 통화할 당시, 레너는 가슴이 무너지고 상체가 찌그러지는 등 ‘극심한 호흡’을 하고 있었다]]></content>
     </entry>
 </feed>
