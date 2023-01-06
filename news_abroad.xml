@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-01-06T03:13:39.088Z</updated>
+    <updated>2023-01-06T04:14:11.201Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['가오갤' 데이브 바티스타 "드랙스 역 그만하고 싶다"]]></title>
+        <id>https://v.daum.net/v/20230106130900362</id>
+        <link href="https://v.daum.net/v/20230106130900362"/>
+        <updated>2023-01-06T04:14:10.433Z</updated>
+        <content type="html"><![CDATA[[TV리포트=이수연 기자] 할리우드 배우 데이브 바티스타가 마블 영화 '가디언즈 오브 갤럭시' 출연에 대한 생각을 밝혔다. 4일(현지 시간) 데이브는 GQ 매거진과의 인터뷰를 통해 "드랙스 역에서 벗어나고 싶다"라고 밝혔다. 이어 그는 "인기 있는 마블 영화에서 캐릭터를 연기한 것에 대해 감사하지만 그것을 내 유산으로 남기고 싶진 않다"라고 솔직한 심정을]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[휴 잭맨 "브라이언 싱어가 '엑스맨' 오점? 어떻게 답해야할지…"]]></title>
         <id>https://v.daum.net/v/20230106104252061</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230105143517733"/>
         <updated>2023-01-05T06:13:37.319Z</updated>
         <content type="html"><![CDATA[(엑스포츠뉴스 김유진 기자) 디즈니 실사 영화 '인어공주(The Little Mermaid)'(감독 롭 마셜)가 전체 관람가 등급을 받지 못했다. 최근 미국 영화 사이트 필름레이팅스닷컴에 따르면 '인어공주'는 PG 등급을 받았다. PG 등급은 보호자 지도가 요구되는 등급으로, "액션과 위험요소가 있고 일부 공포스러운 이미지가 포함됐다"고 설명했다. 보통 애]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["형이 나치 옷 입혀"...英 해리 왕자 관련 충격 폭로]]></title>
-        <id>https://v.daum.net/v/20230105135430985</id>
-        <link href="https://v.daum.net/v/20230105135430985"/>
-        <updated>2023-01-05T05:11:18.623Z</updated>
-        <content type="html"><![CDATA[[TV리포트=박설이 기자]영국의 해리 왕자가 형 윌리엄 왕자 커플의 강요로 나치 의상을 입었던 사실이 드러났다. 4일(현지시간) 미국 페이지식스는 소식통을 빌려 윌리엄 왕세자와 그의 아내인 케이트 미들턴이 동생인 해리 왕자에게 나치 유니폼을 입게 했다고 보도했다. 사건이 벌어진 건 지난 2005년. 이 소식통은 한 파티에서 나치 제복을 입은 해리 왕자를 본]]></content>
     </entry>
 </feed>
