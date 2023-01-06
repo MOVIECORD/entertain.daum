@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-01-06T22:11:28.544Z</updated>
+    <updated>2023-01-06T23:12:19.752Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[니콜라스 케이지, 드라큘라 연기 도전...섬뜩 비주얼]]></title>
+        <id>https://v.daum.net/v/20230107073031022</id>
+        <link href="https://v.daum.net/v/20230107073031022"/>
+        <updated>2023-01-06T23:11:54.241Z</updated>
+        <content type="html"><![CDATA[[TV리포트=이수연 기자] 영화 '렌필드'가 오는 4월 개봉을 앞두고 예고편과 포스터를 공개했다. 할리우드 배우 니콜라스 케이지는 '렌필드'에서 자기애가 가득한 보스인 드라큘라 역을 맡았다. 같이 출연하는 배우 니콜라스 홀트는 드라큘라의 고문을 받는 보좌관 렌필드를 연기한다. 예고편은 "지독한 관계에서 이제 벗어나고 싶다"라는 렌필드의 대사로 시작된다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘젠틀맨’ 최성은 “괴물신예? 스스로 더 행복하게 연기하고파”]]></title>
         <id>https://v.daum.net/v/20230107070302780</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230106171202837"/>
         <updated>2023-01-06T08:15:06.974Z</updated>
         <content type="html"><![CDATA[[성하훈 기자] ▲ &nbsp;12월 23일 한국경영인증원에서 진행된 부패방지 경영시스템 ISO 37001 수여식. 왼쪽부터 한국경영인증원 황윤주 원장, 영진위 박기용 위원장    ⓒ 영진위 제공  &nbsp; 6일로 박기용 영화진흥위원회 위원장(영진위원장)의 임기 절반이 넘어섰다. 박기용 위원장은 지난해 1월 7일 호선을 통해 위원장으로 선임됐다. 영진위원장]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['더 글로리' 송혜교, 멜로의 알 깨고 세상으로 나오다]]></title>
-        <id>https://v.daum.net/v/20230106170930776</id>
-        <link href="https://v.daum.net/v/20230106170930776"/>
-        <updated>2023-01-06T08:15:06.976Z</updated>
-        <content type="html"><![CDATA[[SBS 연예뉴스 | 김지혜 기자] "새는 알을 깨고 나온다. 알은 세상이다" 현남(염혜란)은 동은(송혜교)에게 삶은 달걀을 건네며 고전 문학 속 글귀를 읊는다. 그리곤 딸이 읽은 책 '래미안'이라고 소개한다. 그러자 동은은 무심한 표정을 지으며 "알은 세상 밖으로 못 나와요. 삶았잖아요. 그리고 그 책은 '래미안'이 아니라 '데미안'이에요"라고 반응한다.]]></content>
     </entry>
 </feed>
