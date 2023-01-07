@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-01-07T09:10:41.491Z</updated>
+    <updated>2023-01-07T10:11:20.146Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김현주·박희순 반박불가 연기 디테일]]></title>
+        <id>https://v.daum.net/v/20230107185546205</id>
+        <link href="https://v.daum.net/v/20230107185546205"/>
+        <updated>2023-01-07T10:11:02.156Z</updated>
+        <content type="html"><![CDATA[[동아닷컴] 김현주, 박희순이 높은 시너지를 내고 있다. SBS 월화드라마 ‘트롤리’(연출 김문교, 극본 류보리) 제작진은 7일 오랜 비밀이 밝혀지며 새로운 국면을 맞은 김혜주(김현주 분), 남중도(박희순 분) 스틸 컷을 공개했다. 회를 거듭할수록 충격과 반전을 더해지는 가운데 두 인물을 연기하는 김현주, 박희순 열연도 빛나고 있다. 제작진에 따르면]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[제나 오르테가 또 본다..넷플릭스 '웬즈데이' 시즌2 제작 확정]]></title>
         <id>https://v.daum.net/v/20230107173005583</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230107130915406"/>
         <updated>2023-01-07T04:13:18.907Z</updated>
         <content type="html"><![CDATA[[뉴스엔 이민지 기자] '대행사'가 더 높은 자리로 올라 성공하려는 욕망을 가진 대기업 임원들의 살벌한 사내 전쟁과 치열한 수 싸움을 그린다. 최근 진행된 JTBC 새 토일드라마 ‘대행사’(극본 송수한/연출 이창민) 제작발표회에서 이보영과 조성하는 서로를 “높은 자리를 놓고 경쟁하는 적대적 관계, 그래서 서로가 불편한 관계”라고 표현했다. 극 중 이보영]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[첫방 '대행사' 이보영, 전례없이 독하다 "피도 눈물도 없고, 내가 제일 잘나"]]></title>
-        <id>https://v.daum.net/v/20230107115401767</id>
-        <link href="https://v.daum.net/v/20230107115401767"/>
-        <updated>2023-01-07T03:12:14.223Z</updated>
-        <content type="html"><![CDATA[[마이데일리 = 강다윤 기자] 종합편성채널 JTBC 새 토일드라마 '대행사'(극본 송수한 연출 이창민)에서 주인공 고아인 역을 맡은 배우 이보영이 7일 첫 방송을 앞두고, 재미있게 즐기기 위한 필수 지침서를 전했다. '대행사'는 VC그룹 최초로 여성 임원이 된 '고아인'이 최초를 넘어 최고의 위치까지 자신의 커리어를 만들어가는 모습을 그린 우아하게 처절]]></content>
     </entry>
 </feed>
