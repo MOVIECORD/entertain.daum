@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-01-07T08:14:11.397Z</updated>
+    <updated>2023-01-07T09:10:41.491Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[제나 오르테가 또 본다..넷플릭스 '웬즈데이' 시즌2 제작 확정]]></title>
+        <id>https://v.daum.net/v/20230107173005583</id>
+        <link href="https://v.daum.net/v/20230107173005583"/>
+        <updated>2023-01-07T09:10:27.035Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 김노을 기자] /사진=넷플릭스넷플릭스 드라마 '웬즈데이'가 두 번째 시즌으로 돌아온다. 6일(현지시간) 넷플릭스에 따르면 '웬즈데이' 시즌2 제작이 확정됐다. 지난해 11월 23일 첫 공개된 '웬즈데이'는 아담스 패밀리의 장녀 웬즈데이 아담스가 네버모어 아카데미에 입학해 연쇄 살인 사건을 조사하며 벌어지는 이야기를 담은 넷플릭스 시리즈다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['금혼령' 김영대, 박주현에 커지는 마음…진심 전할 수 있을까]]></title>
+        <id>https://v.daum.net/v/20230107172406541</id>
+        <link href="https://v.daum.net/v/20230107172406541"/>
+        <updated>2023-01-07T09:10:27.043Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 강다윤 기자] MBC 금토드라마 '금혼령, 조선 혼인 금지령'(극본 천지혜 연출 박상우 정훈) 속 인물들 간의 애정전선이 본격적으로 펼쳐진다. 앞서 '금혼령, 조선 혼인 금지령' 7회 방송에서는 이헌(김영대)이 금혼령 시대 사랑의 도피를 한 연인들의 일상을 지켜주는 '공냥촌'의 존재를 알게 되면서 올해 내로 반드시 금혼령을 철회하겠다고 결]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['법쩐' 이선균, 몽골로 떠났던 이유 밝혀진다]]></title>
         <id>https://v.daum.net/v/20230107170710437</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230107115401767"/>
         <updated>2023-01-07T03:12:14.223Z</updated>
         <content type="html"><![CDATA[[마이데일리 = 강다윤 기자] 종합편성채널 JTBC 새 토일드라마 '대행사'(극본 송수한 연출 이창민)에서 주인공 고아인 역을 맡은 배우 이보영이 7일 첫 방송을 앞두고, 재미있게 즐기기 위한 필수 지침서를 전했다. '대행사'는 VC그룹 최초로 여성 임원이 된 '고아인'이 최초를 넘어 최고의 위치까지 자신의 커리어를 만들어가는 모습을 그린 우아하게 처절]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['법쩐' 이선균, 10년 만의 귀환 엔딩…시청률 8.7% 출발]]></title>
-        <id>https://v.daum.net/v/20230107112338456</id>
-        <link href="https://v.daum.net/v/20230107112338456"/>
-        <updated>2023-01-07T03:12:14.225Z</updated>
-        <content type="html"><![CDATA[[마이데일리 = 강다윤 기자] SBS 새 금토드라마 '법쩐'(극본 김원석 연출 이원태)이 첫 회부터 숨 쉴 틈 없이 몰아치는 고밀도 복수극의 탄생을 알렸다. 6일 첫 방송된 '법쩐' 첫 회분이 수도권 시청률 9.6%, 전국 시청률 8.7%를 기록하며 동시간대 및 금토드라마 시청률 1위를 달성했다. 특히 최고 시청률 10.8%까지 치솟으며, 첫 회만에 10]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[노민우, '금혼령' 특별 출연…일촉즉발 위기 조성→강렬한 존재감]]></title>
-        <id>https://v.daum.net/v/20230107111023329</id>
-        <link href="https://v.daum.net/v/20230107111023329"/>
-        <updated>2023-01-07T02:12:21.106Z</updated>
-        <content type="html"><![CDATA[[OSEN=장우영 기자] 배우 겸 가수 노민우가 '금혼령, 조선 혼인 금지령'에 신선한 재미를 더했다. 노민우는 지난 6일 방송된 MBC 금토드라마 '금혼령, 조선 혼인 금지령'(극본 천지혜, 연출 박상우 정훈, 제작 본팩토리, 이하 '금혼령') 7회에 특별출연했다. 이날 방송에서 노민우는 공냥촌 단주 반란탄으로 등장했다. 앞서 소랑(박주현)은 공냥촌이]]></content>
     </entry>
 </feed>
