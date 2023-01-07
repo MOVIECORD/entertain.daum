@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-01-07T02:12:37.419Z</updated>
+    <updated>2023-01-07T03:12:29.790Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[첫방 '대행사' 이보영, 전례없이 독하다 "피도 눈물도 없고, 내가 제일 잘나"]]></title>
+        <id>https://v.daum.net/v/20230107115401767</id>
+        <link href="https://v.daum.net/v/20230107115401767"/>
+        <updated>2023-01-07T03:12:14.223Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 강다윤 기자] 종합편성채널 JTBC 새 토일드라마 '대행사'(극본 송수한 연출 이창민)에서 주인공 고아인 역을 맡은 배우 이보영이 7일 첫 방송을 앞두고, 재미있게 즐기기 위한 필수 지침서를 전했다. '대행사'는 VC그룹 최초로 여성 임원이 된 '고아인'이 최초를 넘어 최고의 위치까지 자신의 커리어를 만들어가는 모습을 그린 우아하게 처절]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['법쩐' 이선균, 10년 만의 귀환 엔딩…시청률 8.7% 출발]]></title>
+        <id>https://v.daum.net/v/20230107112338456</id>
+        <link href="https://v.daum.net/v/20230107112338456"/>
+        <updated>2023-01-07T03:12:14.225Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 강다윤 기자] SBS 새 금토드라마 '법쩐'(극본 김원석 연출 이원태)이 첫 회부터 숨 쉴 틈 없이 몰아치는 고밀도 복수극의 탄생을 알렸다. 6일 첫 방송된 '법쩐' 첫 회분이 수도권 시청률 9.6%, 전국 시청률 8.7%를 기록하며 동시간대 및 금토드라마 시청률 1위를 달성했다. 특히 최고 시청률 10.8%까지 치솟으며, 첫 회만에 10]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[노민우, '금혼령' 특별 출연…일촉즉발 위기 조성→강렬한 존재감]]></title>
         <id>https://v.daum.net/v/20230107111023329</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230107090726931"/>
         <updated>2023-01-07T00:54:43.991Z</updated>
         <content type="html"><![CDATA[[뉴스엔 이슬기 기자] '더 글로리' 김은숙 작가가 송혜교, 이도현의 러브라인에 대해 입을 열었다. 1월 6일 넷플릭스 코리아 공식 유튜브 채널에서는 '김은숙 작가 안길호 감독, 배우들의 비하인드 코멘터리' 영상이 게재됐다. 안길호 감독, 김은숙 작가 그리고 배우 송혜교, 이도현, 임지연, 염혜란은 한자리에 모여 ‘더 글로리’를 감상하며 비하인드 스토리를]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘더글로리’ 송혜교 “미친X 됐다…연기 칭찬? 내가 그동안 뭘 했나 반성”]]></title>
-        <id>https://v.daum.net/v/20230107090525909</id>
-        <link href="https://v.daum.net/v/20230107090525909"/>
-        <updated>2023-01-07T00:54:43.991Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 이슬기 기자] '더 글로리' 송혜교가 연기력 칭찬에 대한 자신의 생각을 전했다. 1월 6일 넷플릭스 코리아 공식 유튜브 채널에서는 '김은숙 작가 안길호 감독, 배우들의 비하인드 코멘터리' 영상이 게재됐다. 안길호 감독, 김은숙 작가 그리고 배우 송혜교, 이도현, 임지연, 염혜란은 한자리에 모여 ‘더 글로리’를 감상하며 비하인드 스토리를 이야기했다]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['더 글로리' 학폭씬, 청주 고데기 실화 모티브 삼았을까?]]></title>
-        <id>https://v.daum.net/v/20230107090030805</id>
-        <link href="https://v.daum.net/v/20230107090030805"/>
-        <updated>2023-01-07T00:54:43.991Z</updated>
-        <content type="html"><![CDATA[#알쓸TMI; 알아두면 쓸모 있는 대중문화 속 TMI 체크 [TV리포트=신은주 기자] '더 글로리'에서 잔혹한 학교 폭력 장면으로 연출된 '고데기 학폭'이 실제 있었던 사건이어서 안타까움을 안기고 있다. 넷플릭스는 '더 글로리'는 유년시절 당한 학교 폭력으로 영혼까지 부서진 한 여자가 온 생을 걸어 준비한 복수와 그 소용돌이 빠져드는 이들의 이야기를 그린]]></content>
     </entry>
 </feed>
