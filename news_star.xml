@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2023-01-07T17:10:14.368Z</updated>
+    <updated>2023-01-07T18:13:13.749Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[첫방 '대행사' 일에 미친 이보영, 최초 女임원 됐다]]></title>
+        <id>https://v.daum.net/v/20230108023528189</id>
+        <link href="https://v.daum.net/v/20230108023528189"/>
+        <updated>2023-01-07T18:13:07.499Z</updated>
+        <content type="html"><![CDATA[[티브이데일리 황서연 기자] '대행사'에서 이보영이 첫 여성 임원 자리에 오르는 과정이 그려졌다. 7일 밤 첫 방송한 JTBC 새 토일드라마 '대행사'(극본 연출)에서는 고아인(이보영)이 여성 최초로 VC기획 상무로 승진하는 모습이 그려졌다. 일에 푹 빠져 사는 워커홀릭 고아인은 성공을 위해서라면 피도 눈물도 없는 인물이었다. 그는 후배들을 도구로 사용하는]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘대상’ 방탄소년단 4관왕→아이브 3관왕… 4세대 걸그룹 신인상 싹쓸이]]></title>
         <id>https://v.daum.net/v/20230108015149161</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230107235606868"/>
         <updated>2023-01-07T15:11:00.819Z</updated>
         <content type="html"><![CDATA[그룹 아이브가 '37회 골든디스크 어워즈 with 틱톡'에서 디지털 음원 부문 대상을 수상했다. 7일 방송된 '37회 골든디스크 어워즈 with 틱톡'은 이다희·성시경·박소담·닉쿤의 진행하에 태국 방콕 라자망갈라 스타디움에서 개최됐다. 일본·말레이시아·중국에 이어 8년 만의 해외 개최다. 팬데믹 이후 3년 만에 대면 시상식을 진행했다. 디지털 음원]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[첫방 '대행사' 이보영=돈시오패스, 첫 여성 임원 발탁]]></title>
-        <id>https://v.daum.net/v/20230107235105841</id>
-        <link href="https://v.daum.net/v/20230107235105841"/>
-        <updated>2023-01-07T15:11:00.820Z</updated>
-        <content type="html"><![CDATA[[스포츠투데이 서지현 기자] '대행사' 이보영이 자신의 능력으로 첫 여성 임원 자리를 꿰찼다. 7일 밤 첫 방송된 JTBC 새 토일드라마 '대행사'에서는 VC기획 상무 자리에 앉은 고아인(이보영) 모습이 그려졌다. 이날 고아인은 게임 회사 PT를 따낸 뒤 의기양양하게 복귀했다. 그러나 고아인의 능력과 달리, 그를 향한 회사 동료들의 평판은 엉망진창이었]]></content>
     </entry>
 </feed>
