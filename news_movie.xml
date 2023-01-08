@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-01-08T20:12:00.862Z</updated>
+    <updated>2023-01-08T21:10:02.669Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[나문희, 클래식 음악 듣고 틱톡하는 80대 국민엄마]]></title>
+        <id>https://v.daum.net/v/20230109060009078</id>
+        <link href="https://v.daum.net/v/20230109060009078"/>
+        <updated>2023-01-08T21:09:41.143Z</updated>
+        <content type="html"><![CDATA[윤제균 감독은 안중근 의사 일대기를 그린 뮤지컬 영화 ‘영웅’에 대해 “어머니의 영화”라고 단언했다. 영화에서 안중근 의사의 모친 조마리아(1862~1927)여사는 사형선고를 받은 아들에게 “목숨을 구걸하지 말고 죽어라”고 편지에 적어 보낸다. 극 중 조마리아 여사 역을 연기한 배우 나문희는 아들에게 보낼 수의를 짓는 장면에서]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘아바타2’ 877만·‘영웅’ 222만 돌파]]></title>
+        <id>https://v.daum.net/v/20230109051948792</id>
+        <link href="https://v.daum.net/v/20230109051948792"/>
+        <updated>2023-01-08T21:09:41.152Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 배효주 기자] '아바타: 물의 길'이 877만 관객을 돌파했다. 1월 9일 영화진흥위원회 통합전산망 집계에 따르면 지난 주말 기간(6일~8일) 영화 '아바타: 물의 길'(감독 제임스 카메론)이 59만2,005명을 동원하며 전체 박스오피스 1위를 차지했다. '아바타: 물의 길'의 누적 관객은 877만6,660명으로, 곧 900만 돌파를 앞두고 있어]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[사상 최악의 작전…아프가니스탄에선 무슨 일이 있었나?]]></title>
         <id>https://v.daum.net/v/20230109000003241</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230108105924787"/>
         <updated>2023-01-08T02:21:53.130Z</updated>
         <content type="html"><![CDATA[영화 ‘헤어질 결심’(감독 박찬욱)이 영국 아카데미를 조준한다. 영국 아카데미 시상식을 주관하는 영국영화TV 예술아카데미(BAFTA)는 6일(현지시각) “‘헤어질 결심’이 감독상·외국어영화상·편집상·오리지널 각본상 등 4개 부문의 예비후보로 선정됐다”고 밝혔다. 영국 아카데미 시상식은 영국영화티브이예술아카데미가 주관하는 행사로, 미국 골든글로브상,]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['아바타: 물의 길' 25일 연속 1위, 855만 돌파]]></title>
-        <id>https://v.daum.net/v/20230108090729165</id>
-        <link href="https://v.daum.net/v/20230108090729165"/>
-        <updated>2023-01-08T00:59:28.091Z</updated>
-        <content type="html"><![CDATA[[티브이데일리 김종은 기자] 영화 '아바타: 물의 길'이 25일 연속 박스오피스 1위에 올랐다. 8일 영화진흥위원회 통합전산망에 따르면 '아바타: 물의 길'(감독 제임스 카메론·배급 월트디즈니 컴퍼니 코리아)이 지난 7일 25만1730명의 관객을 동원하며 박스오피스 1위를 기록했다. 누적 관객수는 855만4123명이다. '아바타: 물의 길'은 판도라 행성에]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['아바타: 물의 길' 25일 연속 1위…누적 855만↑]]></title>
-        <id>https://v.daum.net/v/20230108083614799</id>
-        <link href="https://v.daum.net/v/20230108083614799"/>
-        <updated>2023-01-08T00:59:28.096Z</updated>
-        <content type="html"><![CDATA[(서울=뉴스1) 고승아 기자 = 영화 '아바타: 물의 길'이 개봉 25일째 박스오피스 1위 자리를 수성했다. 8일 오전 영화진흥위원회 영화관입장권 통합전산망 집계에 따르면 '아바타: 물의 길'은 지난 7일 하루 동안 25만1730명이 관람하며 박스오피스 1위에 올랐다. 누적 관객수는 855만4123명이다. 이로써 지난달 14일 개봉한 '아바타: 물의 길]]></content>
     </entry>
 </feed>
