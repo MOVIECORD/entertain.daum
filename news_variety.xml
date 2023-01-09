@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/variety</id>
     <title>다음 연예 ─ 뉴스 ─ 예능</title>
-    <updated>2023-01-09T18:15:02.532Z</updated>
+    <updated>2023-01-09T19:10:15.679Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['4조원설' 서장훈, 빌딩부자다운 부동산 지식 "1년 뒤.."]]></title>
+        <id>https://v.daum.net/v/20230110040023496</id>
+        <link href="https://v.daum.net/v/20230110040023496"/>
+        <updated>2023-01-09T19:10:06.179Z</updated>
+        <content type="html"><![CDATA[[OSEN=김수형 기자] '무엇이든 물어보살'에서 4조원설이 돌 정도로 엄청난 재력가로 알려진 서장훈이, 부동산에 대해서도 박학다식한 면모를 뽐냈다.&nbsp; 9일 방송된 KBS 조이 예능 '무엇이든 물어보살'에서 서장훈이 부동산 지식을 뽐냈다.&nbsp; 회사 동료라는 남녀 사연자가 출연, 남성 출연 주는 2년 후 결혼을 하는 것에 대해 언급, 신혼집 위치에 대해 고]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[서장훈, 이제 대놓고 헌팅포차行..이수근에 "같이갈래?" 폭소]]></title>
         <id>https://v.daum.net/v/20230110030721417</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230110001022634"/>
         <updated>2023-01-09T15:17:12.292Z</updated>
         <content type="html"><![CDATA[[OSEN=최지연 기자] ‘동상이몽2’ 이윤미가 사기를 당했다고 고백했다.&nbsp; 9일&nbsp;방송된 SBS 예능프로그램 ‘동상이몽2-너는 내 운명’(이하 ‘동상이몽2’)에서는 스페셜 MC로 이윤미가 출연한 가운데 그가 제주 땅을 사려다 사기를 당했다고 전해 눈길을 끌었다.&nbsp; 이날 서장훈은&nbsp;“주영훈은 저작권 협회에 등록된 곡 수만 466개라더라. 그런데 저작권료부터]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[시부모, 아내에 ‘요리→청소 지적’에 “넌 성인 ADHD"]]></title>
-        <id>https://v.daum.net/v/20230110000530598</id>
-        <link href="https://v.daum.net/v/20230110000530598"/>
-        <updated>2023-01-09T15:17:12.295Z</updated>
-        <content type="html"><![CDATA[‘네 탓 부부’의 사연이 공개됐다. 9일 방송된 MBC ‘오은영 리포트 - 결혼 지옥’에서는 아들 셋을 키우는 결혼 11년 차 ‘네 탓 부부’가 스튜디오에 등장했다. ‘네 탓 부부’의 주말, 남편이 조기축구회에 나간 사이 아내 혼자 집안 살림과 세 아들을 돌보는 모습이 그려졌다. 남편, 그리고 시댁과의 갈등을 겪고 있는 아내는 갑자기 시부모가 집에]]></content>
     </entry>
 </feed>
