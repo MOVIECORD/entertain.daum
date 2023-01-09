@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-01-09T02:13:46.374Z</updated>
+    <updated>2023-01-09T03:13:09.908Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[유명 아역스타 출신 배우 사망, 향년 54세…“약물 과다복용으로 죽을뻔한 적도”]]></title>
+        <id>https://v.daum.net/v/20230109115643123</id>
+        <link href="https://v.daum.net/v/20230109115643123"/>
+        <updated>2023-01-09T03:13:09.131Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]미국 ABC 드라마 '아들과 딸들'(Eight is Enough)에서 니콜라스 브래드포드 역으로 유명세를 얻은 아역스타 출신 배우 애덤 리치가 세상을 떠났다. 향년 54세. 8일(현지시간) 버라이어티 등 외신에 따르면, 리치의 죽음에 대한 자세한 내용은 현재 확인되지 않고 있지만, 법 집행 기관이 타살의 징후를 발견하지 못한]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['그래미 수상자' 마크 캡스, 경찰 총 맞고 사망...향년 54세]]></title>
+        <id>https://v.daum.net/v/20230109115630120</id>
+        <link href="https://v.daum.net/v/20230109115630120"/>
+        <updated>2023-01-09T03:13:09.132Z</updated>
+        <content type="html"><![CDATA[[TV리포트=이수연 기자] 미국 오디오 엔지니어이자 음악 프로듀서인 마크 캡스가 아내와 의붓딸을 인질로 잡고 위협하다가 경찰이 쏜 총에 맞고 사망했다. 7일(현지 시간) 미국 매체 ABC는 마크 캡스(54)가 경찰관이 쏜 총에 맞고 죽었다고 보도했다. 그는 6일 60세 아내와 23세 의붓딸에게 총을 겨누고 테네시주 내슈빌에 있는 자택에 그들을 가둔 협의를]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[70년대 美 아역 스타, 54세 일기로 사망…"타살 흔적 無"]]></title>
         <id>https://v.daum.net/v/20230109094237664</id>
@@ -32,12 +46,5 @@
         <link href="https://v.daum.net/v/20230108225830060"/>
         <updated>2023-01-08T14:10:29.638Z</updated>
         <content type="html"><![CDATA[[TV리포트=이혜미 기자] 팝스타 저스틴 비버의 아내 헤일리 비버가 피임약 부작용으로 인한 투병과 그 후유증을 전했다. 비버는 지난 7일(현지시간) 'Run-Through With Vogue' 팟캐스트에 출연해 "피임약 부작용으로 뇌졸중 증상을 겪은 후 PTSD에 시달리고 있다"고 고백했다. 지난해 혈전으로 인한 뇌졸중 증상으로 병원 치료를 받았던 비버는]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['워머신' 돈 치들 "'아이언맨2' 합류, 2시간 안에 결정했어야 했다"]]></title>
-        <id>https://v.daum.net/v/20230108111607140</id>
-        <link href="https://v.daum.net/v/20230108111607140"/>
-        <updated>2023-01-08T02:22:15.135Z</updated>
-        <content type="html"><![CDATA[[티브이데일리 김종은 기자] 할리우드 배우 돈 치들이 마블시네마틱유니버스 합류 배경을 들려줬다. 돈 치들은 최근 GQ매거진과의 인터뷰에서 "단 2시간 안에 '아이언맨2'와 이어진 6개의 작품 출연을 결정해야만 했다"고 고백했다. 돈 치들은 '아이언맨' 1편 이후 제임스 로드 역에서 하차한 테렌스 하워드를 대신해 '아이언맨2'에 합류하며 본격적으로 마블시네마]]></content>
     </entry>
 </feed>
