@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/variety</id>
     <title>다음 연예 ─ 뉴스 ─ 예능</title>
-    <updated>2023-01-09T10:14:16.673Z</updated>
+    <updated>2023-01-09T11:10:50.999Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[강하나, 손창민에 복수하려 강지섭에 청혼... "오빠 마음 이용하려해"]]></title>
+        <id>https://v.daum.net/v/20230109200904221</id>
+        <link href="https://v.daum.net/v/20230109200904221"/>
+        <updated>2023-01-09T11:10:38.751Z</updated>
+        <content type="html"><![CDATA[[텐아시아=신지원 기자]'태풍의 신부' 강하나가 강지섭에게 청혼한 이유를 밝혔다. 6일 방송된 KBS 2TV 일일드라마 '태풍의 신부'에서는 강태풍(강지섭 분)에게 프로포즈하는 은서연(박하나 분)의 모습이 담겼다. 이날 은서연은 강태풍에게 프러포즈를 하는 이유를 밝히며 "그러려면 방법은 하나야. 나와 결혼해줘"라며 "알아 오빠한테 잔인한 말들이라는 거.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘이별 리콜’ 성유리, 역대급 대반전 전개에 뒷목 “너무 재밌다”]]></title>
         <id>https://v.daum.net/v/20230109185542092</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230109162325605"/>
         <updated>2023-01-09T08:15:22.461Z</updated>
         <content type="html"><![CDATA[(엑스포츠뉴스 황수연 기자) 국내 최초 버추얼 걸그룹 데뷔 서바이벌 '소녀 리버스'가 걸그룹 메인 댄서들의 불꽃 튀는 승부를 예고했다. 9일 공개되는 '소녀 리버스(RE:VERSE)'3회에서는 버추얼 걸그룹 메인 댄서 자리를 차지하기 위한 ‘소녀V’들의 뜨거운 경쟁이 펼쳐진다. 30명 소녀들의 첫 예선 무대인 1:1 데스매치가 이어지는 가운데, 운명의 장난]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[허성태-이시언-안보현-곽튜브, 류호진PD ‘니가 가라 시드니’ 출연]]></title>
-        <id>https://v.daum.net/v/20230109161054186</id>
-        <link href="https://v.daum.net/v/20230109161054186"/>
-        <updated>2023-01-09T07:11:20.156Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 김명미 기자] 류호진, 윤인회PD가 새로운 여행 예능 '니가 가라 시드니(가제)를 선보인다. tvN '니가 가라 시드니'(가제/연출 류호진, 윤인회)는 부산 출신 4인방이 호주로 워킹 홀리데이를 떠나는 리얼리티 예능 프로그램이다. 출연진으로는 부산이 고향이라는 공통점이 있는 동향인 4인방으로, 배우 허성태, 이시언, 안보현과 여행 유튜버 곽튜브]]></content>
     </entry>
 </feed>
