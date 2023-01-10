@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2023-01-10T16:17:46.283Z</updated>
+    <updated>2023-01-10T17:12:52.325Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[주상욱, 겁도 대상감! 100마리 소떼 보고 기겁]]></title>
+        <id>https://v.daum.net/v/20230111020010259</id>
+        <link href="https://v.daum.net/v/20230111020010259"/>
+        <updated>2023-01-10T17:12:45.738Z</updated>
+        <content type="html"><![CDATA[[동아닷컴] 사진 제공 :  KBS 2TV 새 예능프로그램 &lt;세컨 하우스&gt;KBS2 예능 '세컨 하우스' 주상욱과 조재윤이 송아지와 힐링 산책을 한다. 오는 12일 KBS2 예능 프로그램 ‘세컨 하우스’에서는 전남 강진에서 전원생활을 만끽 중인 주상욱과 조재윤이 송아지와의 산책에 도전하는 모습이 그려진다. 지난주 셀프 연못 만들기로 진땀을 흘렸던 두 사]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['임신' 안영미, 3개월차 배 맞아? 벌써 'D라인' 볼록]]></title>
         <id>https://v.daum.net/v/20230111010718205</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230110230959206"/>
         <updated>2023-01-10T14:13:54.202Z</updated>
         <content type="html"><![CDATA[주식회사 엠피엠지의 레이블 감사제 ‘MPMG WEEK 2023’이 트레일러 영상과 함께 공연라인업을 발표하며 본격적인 시작을 알렸다. 지난 9일 SNS를 통해 공개된 ‘MPMGWEEK 2023(이하 ‘엠피엠지 위크’)’ 트레일러 영상에서는 엠피엠지 소속 아티스트인 Lacuna(라쿠나)의 보컬장경민, SURL(설)의 베이시스트 이한빈과 함께 터치드(TO]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘당결안’ 배정근♥김단하, 실제 부부싸움→촬영중단 “감정의 쓰레기통 아냐”]]></title>
-        <id>https://v.daum.net/v/20230110230930203</id>
-        <link href="https://v.daum.net/v/20230110230930203"/>
-        <updated>2023-01-10T14:13:54.203Z</updated>
-        <content type="html"><![CDATA[[TV리포트=이혜미 기자] 개그맨 배정근 김단하 부부가 ‘당결안’ 합숙에도 여전한 갈등을 보였다. 10일 방송된 SBS PLUS ‘당신의 결혼은 안녕하십니까’에선 배정근 김단하 부부의 이야기가 펼쳐졌다. 앞서 김단하는 “남편과 살면서 자존감을 무너트린 말은 ‘생각을 하고 얘기해’라는 것이었다. 무시당한 마음에 감정이 너무 무너졌다”고 토로했던 바. 이날 부]]></content>
     </entry>
 </feed>
