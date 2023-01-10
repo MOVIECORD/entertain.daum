@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-01-10T02:21:58.980Z</updated>
+    <updated>2023-01-10T03:14:04.372Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['유령' 박소담 vs 박해수, 지지 않는 신경전]]></title>
+        <id>https://v.daum.net/v/20230110115821387</id>
+        <link href="https://v.daum.net/v/20230110115821387"/>
+        <updated>2023-01-10T03:13:42.932Z</updated>
+        <content type="html"><![CDATA[[OSEN=김보라 기자] 이해영 감독의 스파이 액션 영화 '유령' 측이 박소담과 박해수의 팽팽한 신경전이 느껴지는 스틸을 공개했다.&nbsp; '유령'(감독 이해영, 제작 더 램프, 제공배급 CJ ENM)은 1933년 경성 조선총독부에 항일조직이 심어 놓은 스파이 유령으로 의심받으며 외딴 호텔에 갇힌 용의자들이 의심을 뚫고 탈출하기 위해 벌이는 사투와 진짜 유령]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“우린 ‘슬램덩크’ 덕후다”...아빠들의 행복한 커밍아웃]]></title>
+        <id>https://v.daum.net/v/20230110113906557</id>
+        <link href="https://v.daum.net/v/20230110113906557"/>
+        <updated>2023-01-10T03:13:42.932Z</updated>
+        <content type="html"><![CDATA[3040 남성 관객들의 심장이 제대로 어택 당했다. ‘더 퍼스트 슬램덩크’(감독 이노우에 다케히코)의 신드롬이 새해 극장가를 덮친 가운데 역주행에 성공하며 박스오피스 2위를 거머쥐었다. 10일 영화진흥위원회 통합전산망에 따르면 ‘더 퍼스트 슬램덩크’는 ‘영웅’을 제치고 ‘아바타: 물의 길’에 이어 박스오피스 2위에 올랐다. 현재 오전 11시 30분 기준,]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['유령' 박소담vs박해수, 야심 위해 맞선다..날 선 신경전 포착]]></title>
         <id>https://v.daum.net/v/20230110112116701</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230110082647910"/>
         <updated>2023-01-10T00:58:35.902Z</updated>
         <content type="html"><![CDATA[[뉴스엔 배효주 기자] '교섭'을 특별관에서도 만날 수 있다. 1월 18일 개봉하는 영화 '교섭'(감독 임순례)은 최악의 피랍사건으로 탈레반의 인질이 된 한국인들을 구하기 위해 아프가니스탄으로 향한 외교관과 현지 국정원 요원의 교섭 작전을 그린 작품이다. '교섭'은 3차원 공간에 소리의 움직임을 정확히 배치한 ‘돌비 애트모스(Dolby Atmos®)’를]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[권상우X이민정 ‘스위치’, 입꼬리 승천형까지 N가지 관객 유형]]></title>
-        <id>https://v.daum.net/v/20230110082032794</id>
-        <link href="https://v.daum.net/v/20230110082032794"/>
-        <updated>2023-01-10T00:58:35.904Z</updated>
-        <content type="html"><![CDATA[[OSEN=강서정 기자] 신박한 재미, 유쾌한 웃음, 따뜻한 감동으로 새해 극장가의 해피 무비로 떠오른 ‘스위치’가 각양각색 관객 유형을 공개한다. ♦︎ 재밌어서 한 번! 사랑스러워서 또 한 번! 러닝타임 내내 내려갈 줄 모르는 입꼬리 승천형 첫 번째 유형은 권상우, 오정세, 이민정, 박소이, 김준까지 등 웃음버튼 배우들의 대활약에 속수무책 터지는 ‘입]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘영웅’ 깊은 감동 명대사 명장면을 단 한 컷에]]></title>
-        <id>https://v.daum.net/v/20230110081702739</id>
-        <link href="https://v.daum.net/v/20230110081702739"/>
-        <updated>2023-01-10T00:58:35.905Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 배효주 기자] '영웅'의 명대사를 담은 스틸이 공개됐다. 영화 '영웅'(감독 윤제균)은 1909년 10월, 하얼빈에서 이토 히로부미를 사살한 뒤 일본 법정의 사형 판결을 받고 순국한 안중근 의사가 거사를 준비하던 때부터 죽음을 맞이하던 순간까지, 잊을 수 없는 마지막 1년을 그린 작품이다. 공개된 명대사 스틸은 관객들에게 진한 인상을 남긴 장면과]]></content>
     </entry>
 </feed>
