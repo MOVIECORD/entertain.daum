@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-01-10T13:20:42.124Z</updated>
+    <updated>2023-01-10T14:14:00.563Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['두뇌공조' 정용화, 뇌파 보고 살인사건 진범 찾기 성공]]></title>
+        <id>https://v.daum.net/v/20230110224616051</id>
+        <link href="https://v.daum.net/v/20230110224616051"/>
+        <updated>2023-01-10T14:13:42.600Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 이경호 기자] KBS 2TV 월화드라마 '두뇌공조'./사진=KBS 2TV 월화드라마 '두뇌공조' 방송 화면 캡처 '두뇌공조'에서 정용화가 뇌파 분석으로 살인 사건을 해결했다. 10일 오후 방송된 KBS 2TV 월화드라마 '두뇌공조'에서는 금명세(차태현 분)가 신하루(정용화 분)와 함께 '불에 탄 시신' 사건의 용의자 찾기에 나섰다. 이날 금]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['두뇌공조' 홍아름, 출국 직전 차태현에 붙잡혀]]></title>
+        <id>https://v.daum.net/v/20230110222546843</id>
+        <link href="https://v.daum.net/v/20230110222546843"/>
+        <updated>2023-01-10T14:13:42.602Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 이경호 기자] KBS 2TV 월화드라마 '두뇌공조'./사진=KBS 2TV 월화드라마 '두뇌공조' 방송 화면 캡처'두뇌공조'에서 홍아름이 출국하려다 차태현, 정용화에게 붙잡혔다. 10일 오후 방송된 KBS 2TV 월화드라마 '두뇌공조'에서는 신하루(정용화 분)와 금명세(차태현 분)가 한국으로 시집온 베트남 여자의 '불에 탄 시신' 사건과 관련한]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[서지혜, '빨간풍선' 흑화 시작]]></title>
         <id>https://v.daum.net/v/20230110220301666</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230110175343307"/>
         <updated>2023-01-10T10:12:33.191Z</updated>
         <content type="html"><![CDATA[(엑스포츠뉴스 최희재 기자) ‘미씽: 그들이 있었다2’ 고수와 김동휘가 남현우와 대치한다. tvN 월화드라마 ‘미씽: 그들이 있었다2’(이하 ‘미씽2’)는 사라진 사람들, 새로운 영혼 마을, 그들의 간절함에 오지랖 재발동한 '영혼 보는 콤비'의 판타지 추적극. 지난 방송에서는 오일용(김동휘 분)의 과거가 드러나 이목을 집중시켰다. 과거 오일용은 모친의 병원]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["사랑스러운 매력 엄청나"...김향기의 기대]]></title>
-        <id>https://v.daum.net/v/20230110175013229</id>
-        <link href="https://v.daum.net/v/20230110175013229"/>
-        <updated>2023-01-10T10:12:33.192Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 황수연 기자) '유세풍' 시즌2에 강영석, 우다비, 백성철이 합류한다. 김향기는 "매력이 엄청나다"며 기대를 더했다. 10일 온라인을 통해 tvN 새 수목드라마 '조선 정신과 의사 유세풍2' 제작발표회가 진행됐다. 이 자리에는 박원국 감독, 김민재, 김향기가 참석했다.&nbsp; '조선 정신과 의사 유세풍'은 침 못 놓는 천재의원 유세풍(김민재 분)이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['트롤리' 박희순, 김현주 위해 나섰다..심상찮은 움직임]]></title>
-        <id>https://v.daum.net/v/20230110173526872</id>
-        <link href="https://v.daum.net/v/20230110173526872"/>
-        <updated>2023-01-10T10:12:33.194Z</updated>
-        <content type="html"><![CDATA[[OSEN=하수정 기자] ‘트롤리’ 김현주, 박희순에게 미묘한 변화가 감지된다. SBS 월화드라마 ‘트롤리’(연출 김문교, 극본 류보리, 제작 스튜디오S) 측은 8회 방송을 앞둔 10일, 김혜주(김현주 분)와 김수빈(정수빈 분)의 빗속 만남을 공개했다. 또다시 뉴스에 출연한 남중도(박희순 분)의 결연한 눈빛도 포착해 궁금증을 더한다. 지난 방송에서 김혜]]></content>
     </entry>
 </feed>
