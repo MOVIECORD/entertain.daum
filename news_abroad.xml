@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-01-10T08:15:18.886Z</updated>
+    <updated>2023-01-10T10:12:47.453Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[일본 OTT, 韓·日 아이돌 연습생 합숙 연애 시킨다]]></title>
+        <id>https://v.daum.net/v/20230110185530610</id>
+        <link href="https://v.daum.net/v/20230110185530610"/>
+        <updated>2023-01-10T10:12:46.592Z</updated>
+        <content type="html"><![CDATA[[TV리포트=성민주 기자] 데뷔를 꿈꾸는 한국와 일본의 고등학생들의 연애를 다룬 예능이 나온다. 최근 일본 오리콘 뉴스는 일본 OTT 플랫폼 아베마에서 한일(韓日) 고등학생 연애 프로그램 '로맨스는 데뷔 전에' 정규 방영이 결정됐다고 보도했다. 아베마TV는 일본에서 큰 인기를 끈 연애 리얼리티 프로그램 '늑대' 시리즈를 제작한 곳으로, 10대 타깃 오리지널]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[피케 화상 인터뷰에 포착된 불륜녀 “샤키라 절망했다”]]></title>
         <id>https://v.daum.net/v/20230110151627436</id>
@@ -74,26 +81,5 @@
         <link href="https://v.daum.net/v/20230109195000902"/>
         <updated>2023-01-09T11:10:50.335Z</updated>
         <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]할리우드 톱스타 브래드 피트(59)가 은퇴설에 휩싸인 가운데 최근 보석상으로 일하는 이네스 드 라몬(30)과 수영장 데이트를 즐겨 관심을 끌고 있다. 피트는 지난해 6월 22일 GQ와 인터뷰에서 “나는 내가 경력이 다 되어간다고 생각한다. 마지막 한학기 또는 3개월. 이것은 어떻게 될까. 그리고 어떻게 할 디자인할까?”라고]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[英 가디언 “‘헤어질 결심’ 탕웨이, 설득력 있는 집착의 대상” 극찬]]></title>
-        <id>https://v.daum.net/v/20230109185530088</id>
-        <link href="https://v.daum.net/v/20230109185530088"/>
-        <updated>2023-01-09T10:14:15.882Z</updated>
-        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]영국 정론지 가디언이 본격적인 시상식 시즌을 앞두고 ‘헤어질 결심’의 탕웨이 연기를 극찬했다. 가디언은 8일(현지시간) “이번 시상식 시즌에 충분한 관심을 받지 못한 뛰어난 연기가 있다”면서 ‘헤어질 결심’의 탕웨이를 언급했다. 이 매체는 “서양 관객들은 15년전 이안 감독의 ‘색,계’ 이후 탕웨이를 너무 적게 보았다”면서]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['대마 논란' 가진동, 촬영 중 드론 폭발로 심각한 얼굴 부상]]></title>
-        <id>https://v.daum.net/v/20230109182230462</id>
-        <link href="https://v.daum.net/v/20230109182230462"/>
-        <updated>2023-01-09T10:14:15.883Z</updated>
-        <content type="html"><![CDATA[[TV리포트=박설이 기자]대마 흡연으로 물의를 빚었던 중화권 스타 가진동이 촬영 중 얼굴을 다쳤다. 9일 다수 대만 현지 매체 보도에 따르면 가진동은 지난달 27일 대만 넷플릭스 오리지널 시리즈 '더 엑소시스트' 촬영 중 드론이 폭발해 얼굴에 파편을 맞는 사고로 심각한 안면 부상을 당했다.&nbsp; 제작진 측은 현지 매체에 "가진동의 얼굴 광대뼈 부위에 드론 파편]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[휴 잭맨 "'데드풀 3' 위해 6개월 간 몸 만들 것"]]></title>
-        <id>https://v.daum.net/v/20230109175918858</id>
-        <link href="https://v.daum.net/v/20230109175918858"/>
-        <updated>2023-01-09T09:12:44.245Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 이창규 기자) 호주 출신 배우 휴 잭맨이 마블 시네마틱 유니버스(MCU) 영화 '데드풀 3'와 관련해 입을 열었다. 휴 잭맨은&nbsp;HBO 맥스의 '누가 크리스 월러스에게 말하고 있나'(Who's Talking to Chris Wallace)에 출연해 울버린 역을 묘사하기 위해 얼마나 시간을 쏟아야 하는지에 대해 이야기했다. 그는 "나는 서두를 수]]></content>
     </entry>
 </feed>
