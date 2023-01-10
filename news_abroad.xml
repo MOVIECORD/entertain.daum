@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-01-10T00:58:56.508Z</updated>
+    <updated>2023-01-10T02:21:58.971Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[섬뜩한 로봇 인형 '메건'…Z세대 겨냥 美 공포영화 '깜짝 흥행']]></title>
+        <id>https://v.daum.net/v/20230110102336937</id>
+        <link href="https://v.daum.net/v/20230110102336937"/>
+        <updated>2023-01-10T02:21:58.351Z</updated>
+        <content type="html"><![CDATA[(로스앤젤레스=연합뉴스) 정윤섭 특파원 = 섬뜩한 소녀 형상의 인공지능(AI) 로봇 인형을 주인공으로 내세운 미국 공포 영화 '메건'이 할리우드의 예상을 깨고 깜짝 흥행에 성공해 화제를 모으고 있다. 9일(현지시간) 뉴욕타임스(NYT)와 영화 전문매체 데드라인 등에 따르면 메건은 지난 주말 북미 극장가에서 '아바타2'에 이어 흥행 2위에 올랐다. 영화 산업]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘대마 논란’ 가진동, 드론 폭발 사고로 얼굴 부상.."심각한 상처"]]></title>
+        <id>https://v.daum.net/v/20230110100414213</id>
+        <link href="https://v.daum.net/v/20230110100414213"/>
+        <updated>2023-01-10T02:21:58.353Z</updated>
+        <content type="html"><![CDATA[[OSEN=지민경 기자] 대만 배우 가진동이 촬영 중 드론 폭발로 얼굴에 부상을 입었다. 지난 9일 중국 매체 시나연예는 가진동이 최근 영화 촬영 중 드론 폭발 사고로 안면 부상을 당했다고 밝혔다. 보도에 따르면 가진동은 넷플릭스 영화 ‘계신(乩身)’ 촬영 중 드론으로 얼굴 부분 클로즈업을 찍고 있던 도중 갑자기 드론이 고장나는 사고가 발생했다. 드론은]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[브래드 피트, 인생의 러브신? 졸리 아니다.."15세 여친 샤레인 맥콜과의 드라마"]]></title>
         <id>https://v.daum.net/v/20230110092317582</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230109133031781"/>
         <updated>2023-01-09T05:11:39.359Z</updated>
         <content type="html"><![CDATA[[TV리포트=이수연 기자] 가수 빌리 아일리시(21)의 부모가 소유하고 있는 LA 지역의 자택에 침입한 용의자가 체포됐다. 지난 6일(현지 시간) 미국 주간지 피플에 따르면 5일  LA 경찰이 오후 9시 15분경 한 남자가 울타리를 넘어 집 마당에 뛰어든다는 신고를 받고 출동했다. 체포 당시 용의자는 검은색 상하의와 검은색 마스크를 착용하고 있던 것으로]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['아들과 딸들' 배우 아담 리치, 54세 나이로 사망]]></title>
-        <id>https://v.daum.net/v/20230109122200631</id>
-        <link href="https://v.daum.net/v/20230109122200631"/>
-        <updated>2023-01-09T05:11:39.361Z</updated>
-        <content type="html"><![CDATA[[TV리포트=이수연 기자] 할리우드 배우 아담 리치가 54세의 나이로 생을 마감했다. 8일(현지 시간) 미국 연예매체 TMZ는 인기 드라마 '아들과 딸들(Eight Is Enough)'에 출연한 배우 아담 리치가 사망했다고 보도했다. 아담 리치의 가족은 아담이 7일 LA의 자택에서 사망했다고 밝혔으나 구체적인 사망 원인은 언급하지 않았다. 아담 리치는 '아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[유명 아역스타 출신 배우 사망, 향년 54세…“약물 과다복용으로 죽을뻔한 적도”]]></title>
-        <id>https://v.daum.net/v/20230109115643123</id>
-        <link href="https://v.daum.net/v/20230109115643123"/>
-        <updated>2023-01-09T03:13:09.131Z</updated>
-        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]미국 ABC 드라마 '아들과 딸들'(Eight is Enough)에서 니콜라스 브래드포드 역으로 유명세를 얻은 아역스타 출신 배우 애덤 리치가 세상을 떠났다. 향년 54세. 8일(현지시간) 버라이어티 등 외신에 따르면, 리치의 죽음에 대한 자세한 내용은 현재 확인되지 않고 있지만, 법 집행 기관이 타살의 징후를 발견하지 못한]]></content>
     </entry>
 </feed>
