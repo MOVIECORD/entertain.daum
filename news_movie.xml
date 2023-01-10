@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-01-10T03:14:04.372Z</updated>
+    <updated>2023-01-10T04:15:07.786Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘유령’ 1월18일 개봉 기념 무대인사→메가토크 GV 개최]]></title>
+        <id>https://v.daum.net/v/20230110122340277</id>
+        <link href="https://v.daum.net/v/20230110122340277"/>
+        <updated>2023-01-10T04:14:39.484Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 배효주 기자] '유령'이 개봉일 무대인사와 메가토크 GV로 관객과 만난다. 영화 '유령'(감독 이해영)은 1933년 경성, 조선총독부에 항일조직이 심어 놓은 스파이 '유령'으로 의심받으며 외딴 호텔에 갇힌 용의자들이 의심을 뚫고 탈출하기 위해 벌이는 사투와 진짜 ‘유령’의 멈출 수 없는 작전을 그리는 작품이다. 1월 18일 메가박스 성수 2관,]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['우영우' 주종혁 측 "한국이 싫어서' 출연"...고아성과 로맨스]]></title>
+        <id>https://v.daum.net/v/20230110121530032</id>
+        <link href="https://v.daum.net/v/20230110121530032"/>
+        <updated>2023-01-10T04:14:39.495Z</updated>
+        <content type="html"><![CDATA[[TV리포트=신은주 기자] 배우 주종혁이 차기작 '한국이 싫어서'에서 배우 고아성과 로맨스 호흡을 맞춘다. 10일 BH엔터테인먼트는 TV리포트에 "주종혁이 영화 '한국이 싫어서'에 출연한다"라고 밝혔다. 영화 '한국이 싫어서'는 장강명 작가의 동명 소설을 원작으로 한 작품이다. 20대 후반의 주인공 계나가 한국이 싫어서 직장, 남자친구를 떠나 홀로 뉴질랜드]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['유령' 박소담 vs 박해수, 지지 않는 신경전]]></title>
         <id>https://v.daum.net/v/20230110115821387</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230110090321873"/>
         <updated>2023-01-10T00:58:35.901Z</updated>
         <content type="html"><![CDATA[■ ‘아바타’ 독주 막을 ‘교섭’ · ‘유령’ 18일 개봉 최근 10년간 관객수 분석 결과 ‘7번방의 선물’ ‘검사외전’ 등 국내영화 총 8번의 왕좌 차지 올 ‘교섭’ ‘유령’ 흥행 예상 속 가족 단위 관객들 몰리는 명절 ‘아바타’ ‘슬램덩크’ 등 변수로 올해 설 연휴(1월 21∼24일) 극장가에서 어떤 영화가 웃게 될까. 코로나19 팬데]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘아바타2’ 900만 초읽기...‘슬램덩크’ 2위]]></title>
-        <id>https://v.daum.net/v/20230110084201264</id>
-        <link href="https://v.daum.net/v/20230110084201264"/>
-        <updated>2023-01-10T00:58:35.901Z</updated>
-        <content type="html"><![CDATA[‘아바타: 물의 길’(이하 ‘아바타2’)가 900만 돌파를 앞둔 가운데 ‘더 퍼스트 슬램덩크’가 2위에 오르며 신드롬급 인기를 과시했다. 10일 영화진흥위원회 영화관입장권 통합전산망에 따르면 ‘아바타2’는 전날 7만 520명의 관객을 동원해 박스오피스 왕좌를 지켰다. 누적관객수 884만 7174명. ‘더 퍼스트 슬램덩크’는 같은 날 4만 3230명 관객을]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘교섭’ 아프가니스탄 현지에 있는 느낌 그대로‥돌비 애트모스 상영]]></title>
-        <id>https://v.daum.net/v/20230110082647910</id>
-        <link href="https://v.daum.net/v/20230110082647910"/>
-        <updated>2023-01-10T00:58:35.902Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 배효주 기자] '교섭'을 특별관에서도 만날 수 있다. 1월 18일 개봉하는 영화 '교섭'(감독 임순례)은 최악의 피랍사건으로 탈레반의 인질이 된 한국인들을 구하기 위해 아프가니스탄으로 향한 외교관과 현지 국정원 요원의 교섭 작전을 그린 작품이다. '교섭'은 3차원 공간에 소리의 움직임을 정확히 배치한 ‘돌비 애트모스(Dolby Atmos®)’를]]></content>
     </entry>
 </feed>

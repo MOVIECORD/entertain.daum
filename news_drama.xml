@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-01-10T03:14:04.368Z</updated>
+    <updated>2023-01-10T04:15:07.776Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이선균X문채원 '법쩐', 동시간대 1위로 출발…"통쾌함 안길 것"]]></title>
+        <id>https://v.daum.net/v/20230110130856070</id>
+        <link href="https://v.daum.net/v/20230110130856070"/>
+        <updated>2023-01-10T04:14:46.274Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 오윤주 기자] SBS 새 금토드라마 '법쩐'(극본 김원석 연출 이원태)이 첫 방송부터 전 채널 동시간대 시청률 1위에 올랐다. '법쩐'은 '법'과 '쩐'의 카르텔에 맞서 싸우는 '돈 장사꾼' 은용과 '법률 기술자' 준경의 통쾌한 복수극이다. 이원태 감독의 뛰어난 영상미와 김원석 작가의 쫄깃한 스토리, 이선균-문채원-강유석-박훈-김홍파 등]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이종혁, tvN '청춘월담' 출연..데뷔 후 첫 왕 역할]]></title>
         <id>https://v.daum.net/v/20230110113739487</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230110102920179"/>
         <updated>2023-01-10T02:21:42.542Z</updated>
         <content type="html"><![CDATA[[OSEN=김채연 기자] 위너 김진우가 가수이자 배우로서 열일 행보를 이어간다. 10일 소속사 YG엔터테인먼트는 “김진우가 '순정복서'의 한재민 역으로 출연을 확정했다"고 밝혔다. KBS 2TV 새 드라마 '순정복서'(극본 김민주, 연출 최상열·홍은미, 제작 에이스메이커무비웍스·코너스톤·헬로우아이엠뉴토피아)는 추종남 작가의 소설 '순정복서 이권숙'을 원]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김영웅, '꼭두의 계절' 합류…김정현·임수향·김다솜과 호흡]]></title>
-        <id>https://v.daum.net/v/20230110101538632</id>
-        <link href="https://v.daum.net/v/20230110101538632"/>
-        <updated>2023-01-10T02:21:42.544Z</updated>
-        <content type="html"><![CDATA[[OSEN=장우영 기자] 배우 김영웅이 MBC 새 금토드라마 ‘꼭두의 계절’에 합류한다. ‘꼭두의 계절’(극본 강이헌 허준우, 연출 백수찬 김지훈, 제작 피플스토리컴퍼니, 스토리티비)은 99년마다 인간에게 천벌을 내리러 이승에 내려오는 사신(死神) ‘꼭두’(김정현)가 신비한 능력을 가진 왕진의사 ‘한계절’(임수향)을 만나 벌이는 판타지 로맨스다. 극 중]]></content>
     </entry>
 </feed>
