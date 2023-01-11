@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-01-11T19:12:08.184Z</updated>
+    <updated>2023-01-11T20:12:38.386Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘아바타:물의 길’ 곧 900만 돌파‥올해 첫 천만 보인다]]></title>
+        <id>https://v.daum.net/v/20230112051048410</id>
+        <link href="https://v.daum.net/v/20230112051048410"/>
+        <updated>2023-01-11T20:12:16.497Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 배효주 기자] '아바타: 물의 길'이 900만 돌파한다. 1월 12일 영화진흥위원회 통합전산망 집계에 따르면 11일 영화 '아바타: 물의 길'(감독 제임스 카메론)이 5만6,890명을 모으며 누적 896만7,427명을 기록했다. 같은 날 2위는 영화 '더 퍼스트 슬램덩크'(감독 이노우에 다케히코)로 4만7,240명을 모아 누적 54만9,103명을]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['스톰 보이', 귀요미 집사와 펠리컨의 특별한 우정...2월 개봉]]></title>
+        <id>https://v.daum.net/v/20230112050530356</id>
+        <link href="https://v.daum.net/v/20230112050530356"/>
+        <updated>2023-01-11T20:12:16.508Z</updated>
+        <content type="html"><![CDATA[[TV리포트=이수연 기자] 영화 '스톰 보이'가 오는 2월로 개봉을 변경, 확정했다. 영화 '스톰 보이'는 세상 가장 특별한 친구와의 소중한 우정을 그린 작품으로 오는 2월로 국내에 개봉된다. '스톰 보이'는 펠리컨 삼둥이의 귀요미 집사 ‘마이클’과 어느 날 찾아온 펠리컨과의 생애 가장 소중하고 특별한 우정을 완성해가는 이야기를 그린 감동 드라마로 많은 기]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[마블, '블랙팬서3' 만든다..."이미 작업 들어가"]]></title>
         <id>https://v.daum.net/v/20230112010530117</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230111180000331"/>
         <updated>2023-01-11T09:13:48.709Z</updated>
         <content type="html"><![CDATA[[TV리포트=성민주 기자] 영화 '유령' 시사회가 눈물바람이 됐다. 배우 박소담과 이하늬, 이해영 감독은 11일 오후 서울 용산구 CGV용산아이파크몰에서 진행된 영화 '유령' 언론시사회 및 기자간담회에서 눈물을 쏟아 이목을 집중시켰다. 발단은 이하늬의 칭찬이었다. 이하늬는 "박소담과 처음 만났는데 살아있는 기백이 너무 좋았다. 박소담은 누구를 만나도 단단한]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['유령' 박소담, 눈물의 고백 "'살라'는 이하늬 대사에 위안 받아"]]></title>
-        <id>https://v.daum.net/v/20230111175544217</id>
-        <link href="https://v.daum.net/v/20230111175544217"/>
-        <updated>2023-01-11T09:13:48.718Z</updated>
-        <content type="html"><![CDATA[[서울경제] 영화 '유령' 갑상선 유두암 진단을 받고 회복에 전념했던 박소담이 복귀했다. 그는 촬영 당시, 선배들로 인해 좋은 에너지를 받았다며 감사의 눈물을 흘렸다. 11일 오후 서울 용산구 CGV용산아이파크몰에서 '유령'(감독 이해영) 언론배급시사회 및 기자간담회가 진행됐다. 이해영 감독, 설경구, 이하늬, 박소담, 박해수, 서현우가 참석해 작품에 대]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[작품·감독상 쥔 스필버그 '골든글로브 2관왕']]></title>
-        <id>https://v.daum.net/v/20230111175425178</id>
-        <link href="https://v.daum.net/v/20230111175425178"/>
-        <updated>2023-01-11T09:13:48.722Z</updated>
-        <content type="html"><![CDATA[[서울경제] 올해 골든 글로브 어워즈에서 스티븐 스필버그 감독이 ‘더 페이블맨스’로 역대 5번째 작품상을 거머쥐었다. 관심을 모았던 박찬욱 감독의 ‘헤어질 결심’은 비영어 작품상 후보에 올랐으나 수상하지는 못했다. 할리우드외신기자협회(HFPA) 주최로 10일(현지시간) 미국 베벌리 힐스에서 열린 제80회 골든글로브 어워즈에서 ‘더 페이블맨스’는 드라마부문]]></content>
     </entry>
 </feed>
