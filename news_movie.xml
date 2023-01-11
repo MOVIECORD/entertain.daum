@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-01-11T10:15:40.316Z</updated>
+    <updated>2023-01-11T11:10:35.529Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[박소담의 하극상...이하늬 "네가 봐도 심했지?"]]></title>
+        <id>https://v.daum.net/v/20230111195002561</id>
+        <link href="https://v.daum.net/v/20230111195002561"/>
+        <updated>2023-01-11T11:10:13.797Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 오승현 기자) '유령' 박소담이 설경구와 이하늬에게 선보인 자신의 하극상 캐릭터에 대해 언급했다. 11일 오후 서울 용산구 CGV용산아이파크몰에서 영화 '유령'(감독 이해영) 언론시사회가 진행됐다. 이 자리에는 이해영 감독과 배우 설경구, 이하늬, 박소담, 박해수, 서현우가 참석했다. '유령'은 1933년 경성, 조선총독부에 항일조직이 심어놓]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[해리 스타일스, '타노스 동생' 역으로 마블 영화 계속 출연]]></title>
         <id>https://v.daum.net/v/20230111190030799</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230111175120106"/>
         <updated>2023-01-11T09:13:48.725Z</updated>
         <content type="html"><![CDATA[박소담의 복귀작이자 스파이 액션 영화 ‘유령’이 설 연휴 극장가를 찾는다. 11일 오후 서울 용산구 CGV 용산아이파크몰에서 열린 영화 ‘유령’ 시사회 및 간담회가 열렸다. 이해영 감독과 배우 설경구 이하늬 박소담 박해수 서현우가 참석했다. ‘유령’은 1933년 경성, 조선총독부에 항일조직이 심어놓은 스파이 유령으로 의심받으며 외딴 호텔에 갇힌 용의자들이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[파인 다이닝 셰프의 완벽하고 섬뜩한 계획이란?]]></title>
-        <id>https://v.daum.net/v/20230111175106087</id>
-        <link href="https://v.daum.net/v/20230111175106087"/>
-        <updated>2023-01-11T09:13:48.726Z</updated>
-        <content type="html"><![CDATA[[김형욱 기자] ▲ &nbsp;영화 &lt;더 메뉴&gt; 포스터.？    ⓒ 월트 디즈니 컴퍼니 코리아  &nbsp; 미국 캘리포니아 호손, 외딴 섬의 특별한 레스토랑에 12명의 손님이 초대 받는다. 초대는 받았지만 공짜는 아니고 1인당 거금 1250달러를 들여야 한다. 돈만 있다고 아무나 갈 수 없기에 초대 받은 사람들은 하나같이 들떠 있다. 도대체 얼마나 대단하고]]></content>
     </entry>
 </feed>
