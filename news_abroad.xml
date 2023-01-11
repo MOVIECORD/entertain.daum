@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-01-11T22:12:34.668Z</updated>
+    <updated>2023-01-11T23:12:01.325Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['시크함의 상징' 원조 슈퍼모델 타타나 파티츠 사망, 향년 56세.."유방암"]]></title>
+        <id>https://v.daum.net/v/20230112071322862</id>
+        <link href="https://v.daum.net/v/20230112071322862"/>
+        <updated>2023-01-11T23:12:00.624Z</updated>
+        <content type="html"><![CDATA[[OSEN=최나영 기자] 독일 태생&nbsp;슈퍼모델 타타나&nbsp;파티츠가 사망했다. 향년 56세. 11일(현지시간)&nbsp;보그, 페이지식스 등 외신은 이 같은 비보를 전했다. 페이지식스는 고인의 사망 원인과 시간은 아직 밝혀지지 않았다고 전했으나 데일리메일은 "파티츠가 유방암으로 사망했다고&nbsp;에이전트가 확인했다"라고 밝혔다. 원조 슈퍼모델 중 한 명인&nbsp;파티츠는 80년대와]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[30살 셀레나 고메즈, 딸 같은 9살 이부 여동생과 행복한 포즈 “닮았네”]]></title>
         <id>https://v.daum.net/v/20230112060904130</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230111141303862"/>
         <updated>2023-01-11T06:18:34.967Z</updated>
         <content type="html"><![CDATA[(로스앤젤레스=연합뉴스) 정윤섭 특파원 = 할리우드의 거장 스티븐 스필버그 감독이 연출한 영화 '더 페이블맨스'가 10일(현지시간) 미국 양대 영화상인 골든글로브 어워즈에서 작품상과 감독상을 받았다. '더 페이블맨스'는 이날 베벌리힐스의 베벌리힐튼 호텔에서 열린 제80회 골든글로브 시상식에서 극영화 부문 작품상과 감독상 수상의 영예를 안았다. 이 작품은 스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[제나 오르테가 "'웬즈데이2'? 제안 못 받았다"]]></title>
-        <id>https://v.daum.net/v/20230111140030370</id>
-        <link href="https://v.daum.net/v/20230111140030370"/>
-        <updated>2023-01-11T05:11:18.297Z</updated>
-        <content type="html"><![CDATA[[TV리포트=이수연 기자] 배우 제나 오르테가가 넷플릭스 '웬즈데이 2'에 대한 자신의 생각을 밝혔다. 10일(현지 시간) 미국 매체 버라이어티는 '제 80회 골든 글로브 시상식'에 참여한 제나 오르테가와의 인터뷰 영상을 공개했다. 제나 오르테가는 넷플릭스 시리즈 '웬즈데이'가 '틱톡 열풍'에 뛰어든 것에 대해 "정말 이상하다"라며 말문을 열였다. 이어]]></content>
     </entry>
 </feed>
