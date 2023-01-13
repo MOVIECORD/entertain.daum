@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-01-13T13:21:15.020Z</updated>
+    <updated>2023-01-13T14:14:12.735Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[카녜이 웨스트, 패션 디자이너와 전격 결혼 “카다시안과 이혼 두달만에”]]></title>
+        <id>https://v.daum.net/v/20230113225217818</id>
+        <link href="https://v.daum.net/v/20230113225217818"/>
+        <updated>2023-01-13T14:14:11.990Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]세계적 래퍼 카녜이 웨스트(45)가 패션 디자이너 비앙카 센소리와 결혼했다. 연예매체 TMZ은 12일(현지시간) 카녜이 웨스트가 패션 브랜드 ‘이지’에서 디자이너로 일하는 비앙카 센소리와 라스베이거스에서 결혼했다고 보도했다. 이들은 결혼증명서를 제출하지 않고, 반지를 교환한 것으로 알려졌다. 이 커플은 같은 날 월도프 아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[기네스 펠트로, 또 실언 논란 "자녀들이 결혼 생활 망친다"]]></title>
         <id>https://v.daum.net/v/20230113200530190</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230113115543318"/>
         <updated>2023-01-13T03:19:49.917Z</updated>
         <content type="html"><![CDATA[[OSEN=지민경 기자] 엘비스 프레슬리의 외동딸 리사 마리 프레슬리가 심장 마비로 사망했다. 12일(현지 시간) 미국 매체 버라이어티 등 다수의 외신 보도에 따르면 리사 마리 프레슬리는 이날 오전 심장 마비로 급히 병원으로 이송됐지만 숨을 거뒀다. 이날 오전 미국 캘리포니아에 위치한 자택에서 의식 없이 쓰러진 리사 마리 프레슬리를 가정부가 처음 발견했]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['엘비스 프레슬리 딸' 리사 마리 프레슬리, 향년 54세로 사망]]></title>
-        <id>https://v.daum.net/v/20230113115330240</id>
-        <link href="https://v.daum.net/v/20230113115330240"/>
-        <updated>2023-01-13T03:19:49.920Z</updated>
-        <content type="html"><![CDATA[[TV리포트=성민주 기자] '전설적인 가수' 고(故) 엘비스 프레슬리의 외동딸이자 고(故) 마이클 잭슨의 전 부인이기도 했던 리사 마리 프레슬리가 12일(현지시각) 향년 54세로 사망했다고 13일 미국 버라이어티 지가 보도했다. 그의 어머니 프리실라 프레슬리와 함께 '2023 골든글로브 시상식'에 참석한 지 불과 이틀 만에 전해진 비보에 프레슬리 가족은 "]]></content>
     </entry>
 </feed>
