@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-01-13T14:14:12.735Z</updated>
+    <updated>2023-01-13T15:13:16.256Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[카녜이 웨스트, 킴 카다시안과 이혼 2개월 만에 비밀 결혼]]></title>
+        <id>https://v.daum.net/v/20230113234152008</id>
+        <link href="https://v.daum.net/v/20230113234152008"/>
+        <updated>2023-01-13T15:13:15.644Z</updated>
+        <content type="html"><![CDATA[[OSEN=지민경 기자] 래퍼 카녜이 웨스트(예)가 킴 카다시안과 이혼 두 달 만에 새로운 연인과 결혼했다. 13일(현지 시간) 미국 매체 TMZ 보도에 따르면 카녜이 웨스트는 최근 새로운 연인과 비공개 결혼식을 올렸다. 보도에 따르면 카녜이 웨스트와 결혼한 여성은 자신의 브랜드 Yeezy에서 수 년 간 건축 디자이너로 일한 비앙카 센소리(Bianca]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[카녜이 웨스트, 패션 디자이너와 전격 결혼 “카다시안과 이혼 두달만에”]]></title>
         <id>https://v.daum.net/v/20230113225217818</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230113121508710"/>
         <updated>2023-01-13T03:19:49.917Z</updated>
         <content type="html"><![CDATA[(서울=연합뉴스) 오진송 기자 = '로큰롤의 황제' 엘비스 프레슬리(1935∼1977)의 외동딸이자 가수인 리사 마리 프레슬리가 12일(현지시간) 54세의 일기로 별세했다고 AP통신이 보도했다. 고인의 어머니인 프리실라 프레슬리는 리사가 이날 심장마비로 캘리포니아의 병원 중환자실에 입원했다가 세상을 떠났다고 밝혔다. 앞서 미국 연예매체 TMZ는 익명의 소식]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘엘비스 프레슬리 딸’ 리사 마리, 심장마비로 끝내 사망..향년 54세]]></title>
-        <id>https://v.daum.net/v/20230113115543318</id>
-        <link href="https://v.daum.net/v/20230113115543318"/>
-        <updated>2023-01-13T03:19:49.917Z</updated>
-        <content type="html"><![CDATA[[OSEN=지민경 기자] 엘비스 프레슬리의 외동딸 리사 마리 프레슬리가 심장 마비로 사망했다. 12일(현지 시간) 미국 매체 버라이어티 등 다수의 외신 보도에 따르면 리사 마리 프레슬리는 이날 오전 심장 마비로 급히 병원으로 이송됐지만 숨을 거뒀다. 이날 오전 미국 캘리포니아에 위치한 자택에서 의식 없이 쓰러진 리사 마리 프레슬리를 가정부가 처음 발견했]]></content>
     </entry>
 </feed>
