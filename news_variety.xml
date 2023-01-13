@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/variety</id>
     <title>다음 연예 ─ 뉴스 ─ 예능</title>
-    <updated>2023-01-13T16:18:44.316Z</updated>
+    <updated>2023-01-13T17:11:26.776Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘나 혼자 산다’ 기안84, 전 여자친구 이별 문자 발견 “이 쓰레기 같은 놈”]]></title>
+        <id>https://v.daum.net/v/20230114013025677</id>
+        <link href="https://v.daum.net/v/20230114013025677"/>
+        <updated>2023-01-13T17:11:14.830Z</updated>
+        <content type="html"><![CDATA[기안84가 30대 마지막 날 모습을 공개했다. 13일(금) 방송된 MBC 예능 프로그램 ‘나 혼자 산다’ 478회에서는 천정명의 ‘서래마을 차차차! 천 반장이 떴다’, 기안84의 ‘불혹 카운트다운’ 편이 전파를 탔다. 이날 기안84는 “오늘이 2022년 12월 31일, 30대 마지막 날이다”라고 말했다. 불혹을 맞아 기상천외한 집 청소부터 기념사진 촬]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['순정파이터 스페셜' 추성훈, '김아무개'에 "부산 추성훈"]]></title>
         <id>https://v.daum.net/v/20230114005956571</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230113235259065"/>
         <updated>2023-01-13T15:13:05.292Z</updated>
         <content type="html"><![CDATA[[뉴스엔 이하나 기자] 오은영이 영지 모녀의 기질 궁합이 최악이라고 분석했다. 1월 13일 방송된 채널A ‘오은영의 금쪽상담소’에서 영지는 엄마 유수현에게 어색함을 느낀다고 털어놨다. 영지 모녀는 집에서도 전화로 대화하고, 서로 다른 화법 때문에 다투는 일이 잦았다. 최근에도 대화를 하다 감정이 상한 두 사람은 한 달 동안 같은 집에서 얼굴을 보지 않]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[9개월째 등교 거부하는 금쪽이 "나가면 母 생각 나" 오열]]></title>
-        <id>https://v.daum.net/v/20230113235002054</id>
-        <link href="https://v.daum.net/v/20230113235002054"/>
-        <updated>2023-01-13T15:13:05.294Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 황수연 기자) 금쪽이가 돌아가신 엄마의 부재에 힘든 마음을 토로했다. 13일 방송된 채널A '요즘 육아 금쪽같은 내 새끼'(이하 '금쪽같은')에서는 영재반 우등생에서 9개월째 은둔 생활 중인 중2 아들의 사연이 전파를 탔다. 이날 금쪽이 아버지는 "혼자 육아를 한 지 9개월째"라며 7살 딸과 15살 아들을 키우고 있다고 말했다. 금쪽이인 중2]]></content>
     </entry>
 </feed>
