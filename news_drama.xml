@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-01-14T03:12:51.352Z</updated>
+    <updated>2023-01-14T04:13:52.781Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[선우정아, 이보영 주연 '대행사' OST 가창…오늘 '말해요' 발매]]></title>
+        <id>https://v.daum.net/v/20230114124026254</id>
+        <link href="https://v.daum.net/v/20230114124026254"/>
+        <updated>2023-01-14T04:13:38.163Z</updated>
+        <content type="html"><![CDATA[[OSEN=장우영 기자] 가수 선우정아가 드라마 '대행사' OST의 두 번째 주자로 나선다. 선우정아가 가창에 참여한 JTBC 주말드라마 '대행사(극본 송수한, 연출 이창민, 제공 SLL, 제작 하우픽쳐스·드라마하우스스튜디오)'의 두 번째 OST '말해요'가 14일 오후 6시 각종 온라인 음원사이트를 통해 발매된다. '말해요'는 담담한 피아노 연주와 스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[사극 is Back…셰어하우스·변호사→고려사까지]]></title>
+        <id>https://v.daum.net/v/20230114121617151</id>
+        <link href="https://v.daum.net/v/20230114121617151"/>
+        <updated>2023-01-14T04:13:38.168Z</updated>
+        <content type="html"><![CDATA[[OSEN=장우영 기자] 시청자들의 흥미를 자극하는 사극이 2023년에도 안방을 수놓는다. 셰어하우스, 변호사를 다루는 퓨전사극부터 고려사를 다루는 대하사극까지, 형태가 다양한 만큼 기대가 높다. 먼저 ‘더 글로리’에서 재평가를 받으며 주목 받고 있는 신예은 주연의 SBS 새 드라마 ‘꽃선비 열애사’가 안방을 찾아온다. ‘꽃선비 열애사’는 모든 고정관념]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['빨간 풍선' 서지혜, '친구 남편' 이상우와 키스 1초 전]]></title>
         <id>https://v.daum.net/v/20230114113900871</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230114092527428"/>
         <updated>2023-01-14T00:53:41.298Z</updated>
         <content type="html"><![CDATA[[마이데일리 = 김나라 기자] '법쩐'에서 이선균-문채원-강유석이 심상찮은 '펜트하우스 회동'을 선보이면서, 거악 박훈과 김홍파를 박살 내는 '같은 편'이 될 수 있을지 기대감과 호기심을 일으켰다. 13일 밤 방송된 SBS 금토드라마 '법쩐'(극본 김원석/연출 이원태/) 3회분은 닐슨 코리아 기준 수도권 시청률 8.9%, 전국 시청률 8.7%를 기록했다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘대행사’ 이보영의 상식 밖 파격 행보, 미친 X처럼 행동 개시]]></title>
-        <id>https://v.daum.net/v/20230114091122286</id>
-        <link href="https://v.daum.net/v/20230114091122286"/>
-        <updated>2023-01-14T00:53:41.299Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 이민지 기자] 이보영이 '미친X처럼 행동'을 개시한다. JTBC 토일드라마 ‘대행사’(극본 송수한/연출 이창민) 지난 방송에서는 고아인(이보영)이 그토록 바라며 힘겹게 오른 ‘상무’ 자리가 1년짜리 시한부 임원이라는 사실이 밝혀지면서 그 패배감이 그녀의 생존 본능을 자극, 살아남기 위해 더 높은 곳을 욕망하는 과정이 그려졌다. 1월 14일 공]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[폭풍전야 '더 글로리', 파트2 기다려지는 이유]]></title>
-        <id>https://v.daum.net/v/20230114082601737</id>
-        <link href="https://v.daum.net/v/20230114082601737"/>
-        <updated>2023-01-14T00:53:41.299Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 최혜진 기자] /사진=넷플릭스차분하고 고요하지만 폭풍전야 같다. 그렇기에 더 아슬아슬하고 눈을 뗄 수 없다. 넷플릭스 오리지널 시리즈 '더 글로리'(극본 김은숙, 연출 안길호)의 이야기다. '더 글로리'는 유년 시절 폭력으로 영혼까지 부서진 한 여자가 온 생을 걸어 치밀하게 준비한 처절한 복수와 그 소용돌이에 빠져드는 이들의 이야기를 그린다.]]></content>
     </entry>
 </feed>
