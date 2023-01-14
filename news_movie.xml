@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-01-14T05:10:35.178Z</updated>
+    <updated>2023-01-14T06:13:43.574Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['에브리씽 에브리웨어 올 앳 원스' 3월 국내 재개봉]]></title>
+        <id>https://v.daum.net/v/20230114145619105</id>
+        <link href="https://v.daum.net/v/20230114145619105"/>
+        <updated>2023-01-14T06:13:21.548Z</updated>
+        <content type="html"><![CDATA[[OSEN=김보라 기자] 지난해 국내 관객과 영화업계에서 가장 뜨거운 작품이었던 '에브리씽 에브리웨어 올 앳 원스'가 10일(현지 시각) 미국 LA에서 열린 제80회 골든 글로브시상식에서 여우주연상(뮤지컬코미디 부문)과 남우조연상을 석권하며 시상식 무대의 주인공으로 기록됐다. 이날 남우조연상을 수상한 웨이먼드 역의 배우 키 호이 콴은 무대에 올라 올해]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['유령' 이하늬 "연기와 육아, 49대 51의 싸움이죠"]]></title>
+        <id>https://v.daum.net/v/20230114141402825</id>
+        <link href="https://v.daum.net/v/20230114141402825"/>
+        <updated>2023-01-14T06:13:21.548Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 김나연 기자] 영화 '유령'(감독 이해영)의 주연배우 이하늬가 12일 오전 진행된 개봉 인터뷰를 위해 포즈를 취하고 있다. 1933년 경성, 조선총독부에 항일조직이 심어놓은 스파이 '유령'으로 의심받으며 외딴 호텔에 갇힌 용의자들이 의심을 뚫고 탈출하기 위해 벌이는 사투와 진짜 '유령'의 멈출 수 없는 작전을 그린 영화 '유령'은 오는 18일 개]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[변성현X설경구 3번째 협업 '길복순', 베를린 국제영화제 초청]]></title>
         <id>https://v.daum.net/v/20230114134546643</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230114093257527"/>
         <updated>2023-01-14T00:53:36.885Z</updated>
         <content type="html"><![CDATA[[곽명동의 씨네톡] 한강의 ‘서시’ 1연은 이렇게 시작한다. “어느 날 운명이 찾아와/나에게 말을 붙이고/내가 네 운명이란다, 그동안/내가 마음에 들었니, 라고 묻는다면/나는 조용히 그를 끌어안고/오래 있을거야/눈물을 흘리게 될지, 마음이/한없이 고요해져 이제는/아무것도 필요하지 않다고 느끼게 될지는 잘 모르겠어.” 박혁지 감독의 ‘시간을 꿈꾸는 소녀’는]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[전도연·설경구 '길복순', 베를린영화제 초청…변성현 감독 "굉장히 의외"]]></title>
-        <id>https://v.daum.net/v/20230114092106393</id>
-        <link href="https://v.daum.net/v/20230114092106393"/>
-        <updated>2023-01-14T00:53:36.885Z</updated>
-        <content type="html"><![CDATA[[텐아시아=강민경 기자] 넷플릭스 영화 '길복순'(감독 변성현)이 제73회 베를린국제영화제 스페셜 부문에 공식 초청됐다. 14일 넷플릭스는 "'길복순'이 오는 2월 16일부터 26일까지 개최되는 제73회 베를린 영화제의 메인 섹션인 베를리날레 스페셜(Berlinale Special) 섹션에 공식 초청됐다"고 밝혔다. '길복순'은 청부살인업계의 전설적인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['아바타2' 31일째 독주…2위 '더퍼스트 슬램덩크' 65만↑]]></title>
-        <id>https://v.daum.net/v/20230114091030277</id>
-        <link href="https://v.daum.net/v/20230114091030277"/>
-        <updated>2023-01-14T00:53:36.886Z</updated>
-        <content type="html"><![CDATA[(서울=뉴스1) 장아름 기자 = 영화 '아바타: 물의 길'의 독주가 계속되고 있다. 14일 영화진흥위원회 영화관입장권통합전산망의 집계에 따르면 '아바타: 물의 길'은 지난 13일 1376개 스크린에서 7만4489명의 관객을 동원하며 누적관객수 909만6596명을 기록, 박스오피스 1위를 수성했다. '아바타: 물의 길'은 지난해 12월14일 개봉 이후]]></content>
     </entry>
 </feed>
