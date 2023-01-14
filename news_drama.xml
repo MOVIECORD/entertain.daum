@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-01-14T04:13:52.781Z</updated>
+    <updated>2023-01-14T05:10:35.180Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘금혼령’ 박주현X김우석, 낯선 공간에서 애틋한 만남]]></title>
+        <id>https://v.daum.net/v/20230114140717775</id>
+        <link href="https://v.daum.net/v/20230114140717775"/>
+        <updated>2023-01-14T05:10:20.022Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 이민지 기자] 박주현과 김우석이 서로를 향한 애틋함을 드러낸다. 1월 14일 방송되는 MBC 금토드라마 ‘금혼령, 조선 혼인 금지령’(극본 천지혜/연출 박상우, 정훈) 10회에서는 소랑(박주현 분)과 이신원(김우석 분)의 묘한 만남이 그려진다. 지난 방송에서는 소랑(박주현 분)이 예현선이었다는 사실과 함께, 신기가 없다는 것까지 모든 실체가]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[선우정아, 이보영 주연 '대행사' OST 가창…오늘 '말해요' 발매]]></title>
         <id>https://v.daum.net/v/20230114124026254</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230114092818458"/>
         <updated>2023-01-14T00:53:41.295Z</updated>
         <content type="html"><![CDATA[[OSEN=최나영 기자]&nbsp;JTBC ‘대행사’&nbsp;이보영이 남의 눈치 보지 않는&nbsp;‘상식 밖’&nbsp;파격 행보를 예고했다. “제 일이 상식이라는 고정관념과의 싸움”이라는 그녀가 제작본부장으로서 가진&nbsp;‘힘’을 제대로 발휘하며,&nbsp;인사 개혁을 시도한다.&nbsp;더 높은 자리에&nbsp;오르기 위한 전략 구상을 마친 이보영이&nbsp;‘미친X처럼 행동’을 개시하며 전쟁터를 방불케 하는 살벌한 사내]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이선균X문채원 '법쩐', 최고 10.7% '전 채널 동시간대 1위']]></title>
-        <id>https://v.daum.net/v/20230114092527428</id>
-        <link href="https://v.daum.net/v/20230114092527428"/>
-        <updated>2023-01-14T00:53:41.298Z</updated>
-        <content type="html"><![CDATA[[마이데일리 = 김나라 기자] '법쩐'에서 이선균-문채원-강유석이 심상찮은 '펜트하우스 회동'을 선보이면서, 거악 박훈과 김홍파를 박살 내는 '같은 편'이 될 수 있을지 기대감과 호기심을 일으켰다. 13일 밤 방송된 SBS 금토드라마 '법쩐'(극본 김원석/연출 이원태/) 3회분은 닐슨 코리아 기준 수도권 시청률 8.9%, 전국 시청률 8.7%를 기록했다.]]></content>
     </entry>
 </feed>
