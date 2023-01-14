@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-01-14T11:09:03.165Z</updated>
+    <updated>2023-01-14T12:18:57.469Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“불복종을 찬양하라” 세계의 질서 부수는 나무토막]]></title>
+        <id>https://v.daum.net/v/20230114204501785</id>
+        <link href="https://v.daum.net/v/20230114204501785"/>
+        <updated>2023-01-14T12:18:37.244Z</updated>
+        <content type="html"><![CDATA[☞한겨레S 뉴스레터를 구독해주세요. 검색창에 ‘에스레터’를 쳐보세요. “옛날 옛날에 나무토막 하나가 있었습니다.” 1881년, 이탈리아 동화작가 카를로 콜로디는 &lt;피노키오의 모험&gt;의 연재를 시작하면서 이렇게 썼다. 그야말로 나무토막으로부터 피노키오가 탄생하는 순간이었다. 피노키오를 전세계적인 캐릭터로 만든 건 월트 디즈니였다. 그는 1940년에 가족용 장]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이상한 나라의 '돌봄'.... 성미산 마을 방과후 교사의 고백]]></title>
         <id>https://v.daum.net/v/20230114163014884</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230114093646563"/>
         <updated>2023-01-14T00:53:36.883Z</updated>
         <content type="html"><![CDATA[(사진=넷플릭스)[이데일리 스타in 김보영 기자] 전도연, 설경구 주연 넷플릭스 영화 ‘길복순’(감독 변성현)이 오는 2월 열릴 제73회 베를린 국제영화제에 공식 초청됐다. 넷플릭스 측은 14일 “영화 ‘길복순’이 오는 2월 16일부터 26일까지 개최되는 제73회 베를린 영화제의 메인 섹션인 베를리날레 스페셜(Berlinale Special) 섹션에 공식]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[설경구·전도연 ‘길복순’ 베를린 국제영화제 스페셜 부문 초청]]></title>
-        <id>https://v.daum.net/v/20230114093411539</id>
-        <link href="https://v.daum.net/v/20230114093411539"/>
-        <updated>2023-01-14T00:53:36.883Z</updated>
-        <content type="html"><![CDATA[[일간스포츠 김다은 기자] ‘길복순’의 작품성이 세계에 통했다. 14일 넷플릭스 측은 영화 ‘길복순’이 제73회 베를린 국제영화제 스페셜(Berlinale Special) 부문에 공식 초청됐다고 밝혔다. 이에 따르면 ‘길복순’은 오는 2월 16일부터 26일까지 개최되는 제73회 베를린 영화제의 메인 섹션인 베를리날레 스페셜(Berlinale Specia]]></content>
     </entry>
 </feed>
