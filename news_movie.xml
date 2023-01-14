@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-01-14T00:53:55.537Z</updated>
+    <updated>2023-01-14T02:08:53.565Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[목숨이 아홉개인 고양이, 그가 죽음을 피하는 방법]]></title>
+        <id>https://v.daum.net/v/20230114105100461</id>
+        <link href="https://v.daum.net/v/20230114105100461"/>
+        <updated>2023-01-14T02:08:04.968Z</updated>
+        <content type="html"><![CDATA[[김동근 기자] &nbsp;        ▲ &nbsp;영화 &lt;장화신은 고양이: 끝내주는 모험&gt; 포스터    ⓒ 유니버설 픽쳐스  &nbsp; 만약 나의 목숨이 여러 개라면 죽음을 두려워하게 될까. 죽음은 나라는 존재의 소멸을 의미하기도 한다. 완전히 소멸해 버린다는 두려움은 살아있는 모든 존재에게 당연한 것이다. 그런데 죽었지만 다시 살아날 수 있다면 조금은 더 용감하게 위험한 일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[전도연x설경구 '길복순', 베를린영화제 베를리날레 스페셜 섹션 진출]]></title>
         <id>https://v.daum.net/v/20230114095019714</id>
@@ -80,7 +87,7 @@
         <id>https://v.daum.net/v/20230114082357713</id>
         <link href="https://v.daum.net/v/20230114082357713"/>
         <updated>2023-01-14T00:53:36.887Z</updated>
-        <content type="html"><![CDATA[[서울경제] 이번 주 눈길 끌었던 연예 현장의 비하인드 컷 대방출!    박소담이 눈물 어린 진심을 전했다. 배우 박소담은 지난 11일 오후 서울 용산구 CGV용산아이파크몰에서 열린 영화 ‘유령’(감독 이해영) 언론배급시사회 및 기자간담회에 참석했다. 박소담은 지난 2021년 말 갑상선 유두암 진단을 받고 활동을 중단한 후 치료에 전념해 왔다. 이후]]></content>
+        <content type="html"><![CDATA[[서울경제] 이번 주 눈길 끌었던 연예 현장의 비하인드 샷 대방출!    박소담이 눈물 어린 진심을 전했다. 배우 박소담은 지난 11일 오후 서울 용산구 CGV용산아이파크몰에서 열린 영화 ‘유령’(감독 이해영) 언론배급시사회 및 기자간담회에 참석했다. 박소담은 지난 2021년 말 갑상선 유두암 진단을 받고 활동을 중단한 후 치료에 전념해 왔다. 이후]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[황정민·현빈 '교섭', 폭발하는 범죄 액션…모든 장면이 하이라이트]]></title>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230114071856261"/>
         <updated>2023-01-13T23:11:40.606Z</updated>
         <content type="html"><![CDATA[[스타뉴스 김나연 기자] 사진=각 영화 포스터'아바타: 물의 길'이 천만 관객을 향해 질주하고 있다. 14일 영화진흥위원회 통합전산망에 따르면 전날 '아바타: 물의 길'은 7만 4484명의 관객을 동원해 박스오피스 1위를 기록했다. 누적 관객 수는 909만 6591명. 개봉 30일 만에 900만 관객을 돌파한 '아바타: 물의 길'은 전편에 이어 제임]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘정이’ 갈듯 말듯]]></title>
-        <id>https://v.daum.net/v/20230114071200221</id>
-        <link href="https://v.daum.net/v/20230114071200221"/>
-        <updated>2023-01-13T23:11:40.606Z</updated>
-        <content type="html"><![CDATA[장·단점이 명확하다. 비주얼은 기대 이상, 김현주의 변신은 딱 기대만큼, 여전히 ‘모성’을 벗어나지 못한 진부한 스토리는 기대만 못하다. 무엇보다 ‘원조 월드스타’ 고(故) 강수연과의 만남은 반갑지만 아쉽다. 그녀의 유작, ‘정이’(감독 연상호)다. 오는 20일 넷플릭스를 통해 전 세계 공개되는 연상호 감독의 SF 영화 ‘정이’는 기후변화로 폐허가 된 지구]]></content>
     </entry>
 </feed>
