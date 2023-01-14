@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-01-14T06:13:43.577Z</updated>
+    <updated>2023-01-14T07:10:12.663Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['미스터트롯2'에 밀린 비운의作…문가영, '로코퀸'→'멜로퀸'으로의 성장사]]></title>
+        <id>https://v.daum.net/v/20230114152901422</id>
+        <link href="https://v.daum.net/v/20230114152901422"/>
+        <updated>2023-01-14T07:09:56.159Z</updated>
+        <content type="html"><![CDATA[[텐아시아=태유나 기자] 고구마 100개를 먹어도 이렇게 답답할까 싶다. 너무나도 현실적인 사랑의 모습에 보는 내내 가슴을 치게 만든다. 그런데도 계속해서 다음 이야기가 궁금하게 만드는 데에는 표정 없는 얼굴에서도 다채롭게 드러나는 여자 주인공의 섬세한 눈빛 열연이 있었다. JTBC 수목드라마 '사랑의 이해'를 통해 '로코퀸'에서 '멜로퀸'으로 새로운 얼]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[홍수현x이상우, 말 한마디에 '갑분싸']]></title>
         <id>https://v.daum.net/v/20230114151117271</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230114104102383"/>
         <updated>2023-01-14T02:08:10.038Z</updated>
         <content type="html"><![CDATA[[텐아시아=김지원 기자] 개성 넘치는 연기로 주인공만큼 작품에 꼭 필요한 배우들이 있다. 이동휘 역시 그 중 하나. 이동휘는 디즈니플러스 '카지노'를 통해 또 한 번 능청 연기의 장인 면모를 뽐냈다. '카지노'는 돈도 빽도 없이 필리핀에서 카지노의 전설이 된 남자 차무식(최민식 분)이 살인사건에 휘말리면서 인생의 벼랑 끝 목숨 건 최후의 베팅을 시작하게]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[서지혜, 눈 내리던 날 이상우와 애틋+아찔 입맞춤…그림 속 한 장면]]></title>
-        <id>https://v.daum.net/v/20230114103402293</id>
-        <link href="https://v.daum.net/v/20230114103402293"/>
-        <updated>2023-01-14T02:08:10.038Z</updated>
-        <content type="html"><![CDATA[[텐아시아=강민경 기자] 서지혜와 이상우가 애절한 키스로 서로를 향한 마음을 확인한다. 14일 TV조선 주말 미니시리즈 '빨간 풍선' 측은 서지혜, 이상우의 스틸을 공개했다. 앞서 방송된 '빨간 풍선' 8회에서는 조은강(서지혜&nbsp;역)이 차곡차곡 세워둔 치밀한 큰 그림대로 한바다(홍수현 역)와 고차원(이상우 역) 사이를 오가며 갈등을 유발했다. 두 사람]]></content>
     </entry>
 </feed>
