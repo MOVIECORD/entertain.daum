@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-01-15T01:00:04.383Z</updated>
+    <updated>2023-01-15T02:21:07.231Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['아바타2' 천만 카운트 다운..슬램덩크 맹추격]]></title>
+        <id>https://v.daum.net/v/20230115103352882</id>
+        <link href="https://v.daum.net/v/20230115103352882"/>
+        <updated>2023-01-15T02:20:46.659Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 김미화 기자] /사진='아바타 : 물의길', '더 퍼스트 슬램덩크' '아바타: 물의 길'이 900만을 넘어서 천만 카운트 다운을 시작했다. 이런가운데 '슬램덩크'가 맹추격 중이다. 15일 영화진흥위원회 통합전산망에 따르면 전날 '아바타: 물의 길'은 지난 14일 16만 9046명의 관객을 동원했다. 누적관객수는 926만 5629명이다. '아바타]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이하늬, 출산 후 복귀작 '유령' 흥행할까]]></title>
         <id>https://v.daum.net/v/20230115095050206</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230114134546643"/>
         <updated>2023-01-14T05:10:15.232Z</updated>
         <content type="html"><![CDATA[[마이데일리 = 김나라 기자] 넷플릭스 영화 '길복순'이 제73회 베를린 국제영화제에 공식 초청되었다. 넷플릭스 측은 14일 "'길복순'이 제73회 베를린 영화제의 메인 섹션인 베를리날레 스페셜(Berlinale Special) 섹션에 공식 초청됐다"라고 밝혔다. '길복순'은 청부살인업계의 전설적인 킬러 길복순(전도연)이 회사와 재계약 직전, 죽거나 또는]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[천만 관객 목전 ‘아바타’, 주말 분수령]]></title>
-        <id>https://v.daum.net/v/20230114124915275</id>
-        <link href="https://v.daum.net/v/20230114124915275"/>
-        <updated>2023-01-14T04:13:33.419Z</updated>
-        <content type="html"><![CDATA[[티브이데일리 이기은 기자] 영화 '아바타: 물의 길'이 장기 독주를 예고하는 가운데, 다양한 경쟁작들이 뒤를 쫓고 있다. 14일 영화진흥위원회 영화관입장권통합전산망 집계에 따르면 '아바타: 물의 길'(감독 제임스 카메론)은 지난 13일 1376개 스크린에서 7만4489명의 관객을 불러 모으며 박스오피스 1위를 지켰다. 누적관객수 909만6596명으로 관객]]></content>
     </entry>
 </feed>
