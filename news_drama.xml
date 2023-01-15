@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-01-15T06:14:04.387Z</updated>
+    <updated>2023-01-15T07:10:31.416Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘일타 스캔들’ 전도연 입시맘 변신 프로젝트…첫 번째 미션은?]]></title>
+        <id>https://v.daum.net/v/20230115153448583</id>
+        <link href="https://v.daum.net/v/20230115153448583"/>
+        <updated>2023-01-15T07:10:14.893Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 김명미 기자] ‘일타 스캔들’ 전도연에게 변화가 일어난다. tvN 토일드라마 ‘일타 스캔들’(연출 유제원, 극본 양희승, 제작 스튜디오드래곤)이 한시도 눈을 뗄 수 없게 만드는 흥미진진한 전개로 첫 방송부터 화제를 모은 가운데, ‘국가대표 반찬가게’ 식구들을 총집합 시킨 전도연의 모습이 포착돼 기대감을 높인다. 공개된 스틸에는 남행선과 동업자이자]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘일타 스캔들’ 강나언, 투명한 여우로 활약..노윤서와 성적 경쟁]]></title>
         <id>https://v.daum.net/v/20230115142059194</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230115100819509"/>
         <updated>2023-01-15T02:20:51.641Z</updated>
         <content type="html"><![CDATA[[스타뉴스 김노을 기자] /사진=TV조선'빨간 풍선' 서지혜가 이상우를 향한 들끓는 욕망에 서늘한 독기 충만 본색을 드러냈다. 15일 시청률조사회사 닐슨코리아에 따르면 지난 14일 방송된 TV CHOSUN 주말미니시리즈 '빨간 풍선'(극본 문영남, 연출 진형욱) 9회는 전국 시청률 6.7%를 기록했고, 분당 최고 시청률은 7.1%까지 치솟았다. 이날 방]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[주말 연기파배우 3파전…1위는 '법쩐'이선균, 전도연 '일타스캔들' 꼴찌]]></title>
-        <id>https://v.daum.net/v/20230115100802504</id>
-        <link href="https://v.daum.net/v/20230115100802504"/>
-        <updated>2023-01-15T02:20:51.644Z</updated>
-        <content type="html"><![CDATA[[스포츠서울 | 조은별기자]‘재벌집’과 ‘황혼’이 떠난 빈자리를 연기파 배우들이 채웠다. 믿고 보는 배우들의 각축전 속 이선균 주연 SBS ‘법쩐’이 시청률 1위를 차지했다. 시청률조사회사 닐슨코리아에 따르면 14일 방송된 SBS ‘법쩐’은 9.6%의 전국 시청률을 기록, 동시간대 시청률 1위를 차지했다. 이보영 주연 JTBC ‘대행사’는 6]]></content>
     </entry>
 </feed>
