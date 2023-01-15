@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2023-01-15T05:10:42.387Z</updated>
+    <updated>2023-01-15T06:14:04.388Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["김종서, '아름다운 구속' 14분만에 만들었다더라…뮤지션 사이에서도 존경받아"]]></title>
+        <id>https://v.daum.net/v/20230115150603097</id>
+        <link href="https://v.daum.net/v/20230115150603097"/>
+        <updated>2023-01-15T06:13:59.137Z</updated>
+        <content type="html"><![CDATA[[스포츠조선 고재완 기자] 가수 정모가 K팝 추억 이야기 속으로 청취자들을 초대했다. 정모는 15일 방송한 KBS Cool FM '이기광의 가요광장'(이하 '가요광장')의 '이 노래 기억나니?' 코너에 등장했다. 이날 "한층 더 텐션을 높여서 왔다"라며 포문을 연 정모는 '피구왕 통키' 등 다양한 추억의 만화를 이야기하는가 하면, "'피구왕]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘더글로리’ 차마 못 보겠네..학폭 가해 스타들]]></title>
         <id>https://v.daum.net/v/20230115135119692</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230115120006122"/>
         <updated>2023-01-15T03:12:40.276Z</updated>
         <content type="html"><![CDATA[[스포티비뉴스=유은비 기자] 엄마가 된 이하늬가 드디어 스크린에 돌아왔다. 변함없는 모습으로, 그러나 조금은 달라진 마음으로. 오는 18일 개봉을 앞둔 '유령'은 1933년 경성, 조선총독부에 항일조직이 심어 놓은 스파이 '유령'으로 의심받으며 외딴 호텔에 갇힌 용의자들이 의심을 뚫고 탈출하기 위해 벌이는 사투와 진짜 ‘유령’의 멈출 수 없는 작전을]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뉴진스 민지, 대세 됐다..1월 걸그룹 개인 브랜드평판 1위]]></title>
-        <id>https://v.daum.net/v/20230115115247041</id>
-        <link href="https://v.daum.net/v/20230115115247041"/>
-        <updated>2023-01-15T03:12:40.277Z</updated>
-        <content type="html"><![CDATA[[OSEN=선미경 기자] 그룹 뉴진스 멤버 민지가 1월 걸그룹 개인 브랜드평판 1위를 차지했다.&nbsp; 한국기업평판연구소는 걸그룹 개인 브랜드평판&nbsp;2023년&nbsp;1월 빅데이터 분석을 위해&nbsp;2022년&nbsp;12월&nbsp;15일부터&nbsp;2023년&nbsp;1월&nbsp;15일까지 걸그룹 개인&nbsp;579명의 브랜드 빅데이터&nbsp;127,998,488개를 추출하여 걸그룹 개인 브랜드에 대한 소비자들 행동분석을]]></content>
     </entry>
 </feed>
