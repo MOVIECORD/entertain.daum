@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/variety</id>
     <title>다음 연예 ─ 뉴스 ─ 예능</title>
-    <updated>2023-01-16T09:12:50.936Z</updated>
+    <updated>2023-01-16T10:13:18.598Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['하하♥' 별, 소통전문가 김창옥도 당황한 질문 뭐길래]]></title>
+        <id>https://v.daum.net/v/20230116190042180</id>
+        <link href="https://v.daum.net/v/20230116190042180"/>
+        <updated>2023-01-16T10:13:07.447Z</updated>
+        <content type="html"><![CDATA[[OSEN=연휘선 기자] ‘일타강사’가 불통을 소통으로 만드는 힘을 전수한다. 18일 방송되는 MBC 예능&nbsp;프로그램 ‘일타강사’에서는 소통전문가 김창옥이 출연, 더 나은 인간관계를 위한 소통 스킬을 전격 공개한다.&nbsp; 이날 방송에서 김창옥은 수강생들의 환호 속에 등장한다. 특히 안현모는 그의 강의를 듣고 있으면 웃다가 고민이 해결되는 매력이 있다며 찐팬임]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김진수, ♥6살 연상과 결혼 생활 공개..조규성 깜짝 등장]]></title>
+        <id>https://v.daum.net/v/20230116181814419</id>
+        <link href="https://v.daum.net/v/20230116181814419"/>
+        <updated>2023-01-16T10:13:07.449Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 최혜진 기자] /사진=SBS2022 카타르 월드컵에 출전했던 국가대표 선수 김진수가 6살 연상 아내와의 결혼 생활을 최초 공개한다. 16일 방송되는 SBS 예능 프로그램 '동상이몽2 - 너는 내 운명'(이하 '동상이몽2') 카타르 월드컵 16강의 주역 김진수가 아내와 함께하는 일상을 최초로 공개한다. 최근 진행된 녹화에서 김진수는 6살 연상]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['일타강사' 김창옥, 이용진 입담에 당황 "이런 집단 처음"]]></title>
         <id>https://v.daum.net/v/20230116180018916</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230116151154922"/>
         <updated>2023-01-16T06:15:31.481Z</updated>
         <content type="html"><![CDATA[[OSEN=강서정 기자] ‘옥탑방의 문제아들’에 ‘워킹 다둥맘’ 가수 별과 ‘새 신부’&nbsp;서인영이 함께 출연할 것으로 알려져 화제다. 오는 25일 방송되는 KBS 2TV 예능프로그램 ‘옥탑방의 문제아들’에 2월 결혼을 앞둔 ‘새신부’&nbsp;서인영과 최근 하하와 결혼 10주년을 맞이한 다둥이 맘 별이 출격한다. 2002년 걸그룹 쥬얼리의 새 멤버로 데뷔해 활동하]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[강소라 "사내 연애 중 이별?...제 발로 나가게 해야" 화끈 입담]]></title>
-        <id>https://v.daum.net/v/20230116151002860</id>
-        <link href="https://v.daum.net/v/20230116151002860"/>
-        <updated>2023-01-16T06:15:31.484Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 이나영 인턴기자) 배우 강소라, 장승조가 시원시원한 입담을 뽐냈다. 16일 방송된 MBC FM4U '정오의 희망곡 김신영입니다'에는 드라마 '남이 될 수 있을까'의 장승조, 강소라가 게스트로 출연했다.&nbsp; 김신영은 "두 분 모두 연예계의 비담(비주얼 담당)이다. 리딩할 때 처음 만났나?"라며 첫 만남에 대해서 물었다.&nbsp; 이에 강소라는 "리딩 전]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[정성화 “‘영웅’ 한 시즌 빼고 모두 출연…초연 때보다 깊어졌다”]]></title>
-        <id>https://v.daum.net/v/20230116150329607</id>
-        <link href="https://v.daum.net/v/20230116150329607"/>
-        <updated>2023-01-16T06:15:31.486Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 박정민 기자] 배우 정성화, 정재은이 유쾌한 입담으로 '두데'를 꽉 채웠다. 1월 16일 방송된 MBC FM4U '두시의 데이트 뮤지, 안영미입니다'(이하 '두데')에서는 '영웅' 주역 정성화, 정재은이 게스트로 출연했다. 뮤지컬 '영웅'은 1909년 10월, 하얼빈에서 이토 히로부미를 사살한 뒤 일본 법정의 사형 판결을 받고 순국한 안중근 의]]></content>
     </entry>
 </feed>

@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-01-16T09:12:50.840Z</updated>
+    <updated>2023-01-16T10:13:18.601Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['트롤리' 김현주, 병원 이송..한달음에 등장한 박희순]]></title>
+        <id>https://v.daum.net/v/20230116184644024</id>
+        <link href="https://v.daum.net/v/20230116184644024"/>
+        <updated>2023-01-16T10:13:02.213Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 최혜진 기자] /사진=스튜디오S'트롤리' 김현주에 대한 박희순의 진심은 무엇일까. 16일 SBS 월화드라마 '트롤리'(극본 류보리, 연출 김문교) 측은 9회 방송을 앞두고 갑작스럽게 병원에 이송된 김혜주(김현주 분)의 모습이 담긴 스틸컷을 공개했다. 그 소식을 듣고 한달음에 온 남중도(박희순 분), 현여진(서정연 분)의 달라진 분위기도 포착됐다]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['박신혜♥' 최태준, 인간부터 요괴까지 완벽 소화 "'아일랜드' 차은우와 호흡 즐거워"]]></title>
         <id>https://v.daum.net/v/20230116181115245</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230116162551707"/>
         <updated>2023-01-16T08:15:17.317Z</updated>
         <content type="html"><![CDATA[[뉴스엔 박아름 기자] JTBC 드라마가 '재벌집 막내아들'에 이어 '대행사'까지 상승세를 타고 있다. 1월 16일 시청률 조사회사 닐슨코리아에 따르면 수도권 유료방송가구 기준 JTBC 토일드라마 ‘대행사’(연출 이창민/극본 송수한)는 방송 4회 만에 시청률 9.3%를 기록했다. 벌써 10% 고지를 바라보게 된 '대행사. 이는 전작인 JTBC 금토일드라]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[6주 어떻게 기다려..파트1 끝낸 '아일랜드' 해외 반응↑]]></title>
-        <id>https://v.daum.net/v/20230116162205542</id>
-        <link href="https://v.daum.net/v/20230116162205542"/>
-        <updated>2023-01-16T08:15:17.324Z</updated>
-        <content type="html"><![CDATA[[스포츠조선 문지연 기자] '아일랜드', 해외에서도 알아봤다. 전 세계 OTT 플랫폼에 공개된 콘텐츠의 순위를 확인할 수 있는 플릭스패트롤(FlixPatrol)에 따르면 티빙 오리지널 시리즈 '아일랜드'(오보현(키트프로젝트) 극본, 배종 연출)는 지난 15일 기준 글로벌 TV Shows Top10 부문에서 3주 연속 TOP 10에 오르는 쾌]]></content>
     </entry>
 </feed>
