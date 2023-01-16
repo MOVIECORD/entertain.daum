@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-01-16T10:13:18.601Z</updated>
+    <updated>2023-01-16T11:10:15.831Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[100kg 됐던 최시원 "'술도녀2' 강북구 서사 공개=소중한 시간" 종영소감]]></title>
+        <id>https://v.daum.net/v/20230116193724676</id>
+        <link href="https://v.daum.net/v/20230116193724676"/>
+        <updated>2023-01-16T11:09:58.951Z</updated>
+        <content type="html"><![CDATA[[OSEN=박소영 기자] ‘술꾼도시여자들2’ 최시원(에스엠엔터테인먼트 소속)이 시즌&nbsp;2의 긴 여정을 마무리 짓는 소감을 밝혔다. 지난&nbsp;13일 최시원이 남들의 시선은 신경 쓰지 않고 마이웨이의 삶을 사는 예능PD&nbsp;‘강북구’ 역으로 눈부신 활약을 펼쳤던 티빙 오리지널 ‘술꾼도시여자들2’(극본 위소영,&nbsp;연출 박수원,&nbsp;제공 티빙,&nbsp;제작 본팩토리)의 최종화가 공]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['마녀의 게임' 오창석, 한지완 배신 "김시헌 배후 한지완이라고 진술해"]]></title>
+        <id>https://v.daum.net/v/20230116192603554</id>
+        <link href="https://v.daum.net/v/20230116192603554"/>
+        <updated>2023-01-16T11:09:58.953Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 이빛나리 기자] /사진='마녀의 게임' 방송화면'마녀의게임'에서 오창석이 김상구를 협박했다. 16일 오후 방송된 MBC 일일드라마 '마녀의 게임'에서 강지호(오창석 분)가 안희영(주새벽 분)의 도움으로 죽은 유민성(송영규 분) 대표의 운전기사를 알아냈다. 이날 강지호는 김상구를 납치해 유민성 차 브레이크 조작했다는 사실을 알고 있다며 김상구]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['트롤리' 김현주, 병원 이송..한달음에 등장한 박희순]]></title>
         <id>https://v.daum.net/v/20230116184644024</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230116164018326"/>
         <updated>2023-01-16T08:15:17.314Z</updated>
         <content type="html"><![CDATA[[OSEN=박소영 기자] 가수 겸 배우 정은지가 ‘술꾼도시여자들2’ 감사 인사가 담긴 일문일답을 공개했다. 정은지는 지난 13일 최종화를 공개한 티빙 오리지널 ‘술꾼도시여자들2’(극본 위소영, 연출 박수원, 제공 티빙, 제작 본팩토리)에서 시니컬한 성격의 강지구 역을 맡아 캐릭터 밀착 연기로 시청자들의 호평을 자아냈다. ‘술꾼도시여자들’은 하루 끝의 술]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['꼭두의 계절' 김다솜 "감정 숨기는 캐릭터, 표정 덜어내는 연습해"]]></title>
-        <id>https://v.daum.net/v/20230116162805812</id>
-        <link href="https://v.daum.net/v/20230116162805812"/>
-        <updated>2023-01-16T08:15:17.316Z</updated>
-        <content type="html"><![CDATA[[이데일리 스타in 김보영 기자] 배우 김다솜과 안우연이 ‘꼭두의 계절’을 만끽할 수 있는 관전포인트를 18일 직접 전했다. 오는 27일(금) 오후 9시 50분에 첫 방송될 MBC 새 금토드라마 ‘꼭두의 계절’(극본 강이헌, 허준우/ 연출 백수찬, 김지훈/ 제작 피플스토리컴퍼니, 스토리티비)은 99년마다 인간에게 천벌을 내리러 이승에 내려오는 사신(死神)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘재벌집 막내아들’에 ‘대행사’까지 터졌다 JTBC 함박웃음]]></title>
-        <id>https://v.daum.net/v/20230116162551707</id>
-        <link href="https://v.daum.net/v/20230116162551707"/>
-        <updated>2023-01-16T08:15:17.317Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 박아름 기자] JTBC 드라마가 '재벌집 막내아들'에 이어 '대행사'까지 상승세를 타고 있다. 1월 16일 시청률 조사회사 닐슨코리아에 따르면 수도권 유료방송가구 기준 JTBC 토일드라마 ‘대행사’(연출 이창민/극본 송수한)는 방송 4회 만에 시청률 9.3%를 기록했다. 벌써 10% 고지를 바라보게 된 '대행사. 이는 전작인 JTBC 금토일드라]]></content>
     </entry>
 </feed>
