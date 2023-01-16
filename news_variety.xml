@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/variety</id>
     <title>다음 연예 ─ 뉴스 ─ 예능</title>
-    <updated>2023-01-16T07:11:43.838Z</updated>
+    <updated>2023-01-16T08:15:33.880Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[서인영 "♥예비신랑에 먼저 고백"…초고속 결혼→2세 계획 공개]]></title>
+        <id>https://v.daum.net/v/20230116161403189</id>
+        <link href="https://v.daum.net/v/20230116161403189"/>
+        <updated>2023-01-16T08:15:22.667Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 박서연 기자] 가수 서인영이 예비신랑과의 러브스토리를 밝힌다. 오는 25일 오후 8시 30분에 방송되는 KBS 2TV 예능 프로그램 ‘옥탑방의 문제아들’에 2월 결혼을 앞둔 ‘새신부’ 서인영과 최근 하하와 결혼 10주년을 맞이한 ‘다둥이 맘’ 가수 별이 출연한다. 2002년 걸그룹 쥬얼리의 새 멤버로 데뷔해 활동하기 시작한 서인영은 20]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['연봉 14억 7000만원' 김진수, 마사지룸까지 갖춘 럭셔리 하우스]]></title>
+        <id>https://v.daum.net/v/20230116161201109</id>
+        <link href="https://v.daum.net/v/20230116161201109"/>
+        <updated>2023-01-16T08:15:22.668Z</updated>
+        <content type="html"><![CDATA[[텐아시아=류예지 기자] 2022 카타르 월드컵 국가대표 선수 김진수가 6살 연상 아내와의 결혼 생활을 최초 공개한다. &nbsp; 16일(월) 밤 11시 10분 방송되는 SBS ‘동상이몽2 - 너는 내 운명’(이하 ‘너는 내 운명’)에서는 카타르 월드컵 16강의 주역 김진수가 아내와 함께하는 일상을 최초로 공개한다. &nbsp; 앞서 진행된 녹화에서 김진수는 6살]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[25세 미용실 인턴, 3년 동안 4번 퇴사한 이유는?]]></title>
         <id>https://v.daum.net/v/20230116160721920</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230116144601841"/>
         <updated>2023-01-16T06:15:31.498Z</updated>
         <content type="html"><![CDATA[[뉴스엔 황혜진 기자] 연말 대상을 수상한 방송인 전현무가 패션 롤모델인 프로듀서 코드쿤스트와 새로운 예능을 선보인다. 1월 30일 tvN 새 예능 '내친나똑(내 친구들은 나보다 똑똑하다)'가 첫 방송된다. tvN '더 지니어스', '문제적 남자', '대탈출'을 잇는 새로운 두뇌 퀴즈 예능이다. '내친나똑'은 국내 최초 두뇌 렌털 퀴즈쇼 콘셉트 예능이다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘우영우→나는솔로’ 다음은? ENA, 여운혁PDX김태희 작가 ‘명동사랑방’ 론칭]]></title>
-        <id>https://v.daum.net/v/20230116144414772</id>
-        <link href="https://v.daum.net/v/20230116144414772"/>
-        <updated>2023-01-16T06:15:31.498Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 박아름 기자] 여운혁PD, 김태희 작가, ENA가 의기투합한 '명동사랑방'이 론칭을 앞두고 있다. 방송을 앞둔 ENA 새 예능 '명동사랑방'은 예능계 흥행 불패 제작진이 의기투합해 주목받고 있다. 특히 드라마 '이상한 변호사 우영우', 예능 '나는 솔로' 성공으로 인지도가 수직 상승한 ENA 채널의 신규 프로그램으로 주목받고 있는 상황. 이와 관]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['나는솔로'는 약과였네..주현영, 'MZ오피스'로 대박난 근황]]></title>
-        <id>https://v.daum.net/v/20230116143620431</id>
-        <link href="https://v.daum.net/v/20230116143620431"/>
-        <updated>2023-01-16T06:15:31.498Z</updated>
-        <content type="html"><![CDATA[[OSEN=박소영 기자] 배우 주현영이&nbsp;‘SNL&nbsp;시즌3’에서 한계 없는 변신과 함께 올라운더 배우로 활약 중이다. 지난&nbsp;14일 방송된 쿠팡플레이&nbsp;‘SNL&nbsp;코리아’에서는 각 콩트마다 천의 얼굴로 전혀 다른 매력을 폭발시킨 주현영의 모습이 포착되어 대중들의 호평이 이어지고 있다. ‘MZ오피스’와&nbsp;‘금쪽같은 내 남편’, ‘고지전’&nbsp;등 여러 코너를 통해 극과]]></content>
     </entry>
 </feed>
