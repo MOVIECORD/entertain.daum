@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-01-17T11:11:05.309Z</updated>
+    <updated>2023-01-17T12:24:30.375Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[톰 크루즈 ‘탑건3’ 제작 가능, “지금은 아냐”]]></title>
+        <id>https://v.daum.net/v/20230117202538224</id>
+        <link href="https://v.daum.net/v/20230117202538224"/>
+        <updated>2023-01-17T12:24:29.640Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]할리우드 스타 톰 크루즈(60) 주연의 ‘탑건3’제작에 관심이 높아지는 가운데 제작진은 아직은 시기상조라는 입장이다. 제작자 제리 브룩하이머(79)은 최근 버라이어티의 BAFTA 어워드에서 ‘탑건’의 성공과 미래에 대해 언급했을 때, 본질적으로 조심스럽게 낙관적이었다. 그는 “톰 크루즈가 ‘미션 임파서블’ 시리즈를 촬영 중]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[제니퍼 로페즈♥벤 애플렉, 파혼 18년 만에 재혼 "경이로운 해 보냈다"]]></title>
         <id>https://v.daum.net/v/20230117180814665</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230117112637710"/>
         <updated>2023-01-17T03:12:39.387Z</updated>
         <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]록그룹 ‘오아시스’의 노엘 갤러거(55)와 아내 사라 맥도널드(51)가 동거 8년, 결혼 12년만에 이혼했다. 아들 도노반(15)과 소니(12)를 공유하는 전 오아시스 멤버와 맥도날드는 16일(현지시간) 연예매체 피플에 보낸 성명에서 이혼할 것이라고 밝혔다. 이들은 “우리는 우선순위로 남아있는 아이들을 계속 돌볼 것이다. 우]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['아메리칸 아이돌' 출신 C.J. 해리스, 31세 일기로 요절…사인 불명]]></title>
-        <id>https://v.daum.net/v/20230117110516630</id>
-        <link href="https://v.daum.net/v/20230117110516630"/>
-        <updated>2023-01-17T02:14:30.810Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 이창규 기자) '아메리칸 아이돌' 시즌13에 출연했던 가수 C.J. 해리스가 세상을 떠나 충격을 안긴다. 16일(현지시간) 미국 버라이어티는 C.J. 해리스가 응급 상황에 놓여 앨라배마주 재스퍼의 워커 침례병원으로 이송되었으나 사망했다고 보도했다. 향년 31세. 아직 사인에 대해서 밝혀진 내용은 없다. 2010년 '아메리칸 아이돌'에 처음 출]]></content>
     </entry>
 </feed>
