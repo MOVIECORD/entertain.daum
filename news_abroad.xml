@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-01-17T04:14:15.649Z</updated>
+    <updated>2023-01-17T05:11:31.244Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['오아시스' 노엘 갤러거, 20년 함께한 아내와 '이혼']]></title>
+        <id>https://v.daum.net/v/20230117140530917</id>
+        <link href="https://v.daum.net/v/20230117140530917"/>
+        <updated>2023-01-17T05:11:30.510Z</updated>
+        <content type="html"><![CDATA[[TV리포트=이수연 기자] 영국을 대표하는 록밴드 '오아시스'의 전 멤버 노엘 갤러거(55)가 아내 사라 맥도널드(51)와 결혼 12년 만에 파경을 맞았다. 16일(현지 시간) 미국 피플지에 따르면 노엘 갤러거와 사라 맥도널드가 이혼한다. 둘은 슬하에 15살과 12살의 두 아들을 두고 있다. 부부의 대변인은 "노엘과 사라는 계속해서 아이들을 우선순위로 함께]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['성추행 혐의' 케빈 스페이시, 6년 만에 공식석상…인터뷰는 거절]]></title>
         <id>https://v.daum.net/v/20230117113241002</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230116171607566"/>
         <updated>2023-01-16T09:12:50.090Z</updated>
         <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]세계적 거장 제임스 카메론(68) 감독이 레오나르도 디카프리오(48)에게 러브콜을 보냈다. 이들은 ‘타이타닉’에서 케이트 윈슬렛(47)과 함께 호흡을 맞춘 바 있다. 윈슬렛은 ‘아바타:물의 길’에 출연했다. 카메론 감독은 15일(현지시간) 크리틱스 초이스 레드카펫에서 엑세스 할리우드 기자와 만나 “나는 윈슬렛에게 디카프리오]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[제임스 카메론 "'아바타3', 완전히 새로운 부족 등장할 것"]]></title>
-        <id>https://v.daum.net/v/20230116171253453</id>
-        <link href="https://v.daum.net/v/20230116171253453"/>
-        <updated>2023-01-16T08:15:33.288Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 이창규 기자) 제임스 카메론 감독이 영화 '아바타 3'에 대한 이야기를 전했다. 15일(현지시간)&nbsp;미국 로스앤젤레스 페어몬트 센추리 플라자 호텔에서 열린 제28회 크티릭스 초이스 어워즈에 참석한 제임스 카메론 감독은 데드라인과의 레드카펫 인터뷰에서 '아바타 3'와 관련된 이야기를 전했다. 그는 "불은 작품에서 상징적인 목적을 가지고 있고, 그]]></content>
     </entry>
 </feed>
