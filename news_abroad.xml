@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-01-17T20:11:57.367Z</updated>
+    <updated>2023-01-17T21:10:44.170Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘카녜이 웨스트 극비재혼’ 27살 호주여성, 멜버른대학교 석사 출신 건축 디자이너]]></title>
+        <id>https://v.daum.net/v/20230118060705901</id>
+        <link href="https://v.daum.net/v/20230118060705901"/>
+        <updated>2023-01-17T21:10:43.286Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]세계적 래퍼 카녜이 웨스트(45)가 극비 재혼한 가운데 비앙카 센소리(27)에 대한 관심이 높아지고 있다. 이들은 최근 캘리포니아 비벌리힐스에서 비공개 결혼식을 올렸다. 이 커플은 유타주의 아망기리 리조트로 신혼여행을 다녀왔다. 부부는 결혼을 합법화하기 위해 결혼증명서를 발급받지는 않았지만 약지에 반지를 착용하는 모습이 목격]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[또 흑인 배우 캐스팅 논란...이번엔 드라마 '더 라스트 오브 어스']]></title>
         <id>https://v.daum.net/v/20230118050530249</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230117140530917"/>
         <updated>2023-01-17T05:11:30.510Z</updated>
         <content type="html"><![CDATA[[TV리포트=이수연 기자] 영국을 대표하는 록밴드 '오아시스'의 전 멤버 노엘 갤러거(55)가 아내 사라 맥도널드(51)와 결혼 12년 만에 파경을 맞았다. 16일(현지 시간) 미국 피플지에 따르면 노엘 갤러거와 사라 맥도널드가 이혼한다. 둘은 슬하에 15살과 12살의 두 아들을 두고 있다. 부부의 대변인은 "노엘과 사라는 계속해서 아이들을 우선순위로 함께]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['성추행 혐의' 케빈 스페이시, 6년 만에 공식석상…인터뷰는 거절]]></title>
-        <id>https://v.daum.net/v/20230117113241002</id>
-        <link href="https://v.daum.net/v/20230117113241002"/>
-        <updated>2023-01-17T03:12:39.382Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 이창규 기자)&nbsp;동성 배우와 미성년자를 성추행한 혐의로 활동을 중단했던 케빈 스페이시가 처음으로 공식 석상에 모습을 비췄다. 16일(현지시간) 미국 버라이어티는 케빈 스페이시가&nbsp;이날 이탈리아 토리노에 위치한 이탈리아 국립영화박물관에서 마스터 클래스를 열기 전 평생공로상을 수상하면서 매니저 에반 로웬스타인을 칭찬했다고 보도했다. 이날 스페이시는]]></content>
     </entry>
 </feed>
