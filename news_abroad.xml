@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-01-17T19:10:21.275Z</updated>
+    <updated>2023-01-17T20:11:57.367Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[또 흑인 배우 캐스팅 논란...이번엔 드라마 '더 라스트 오브 어스']]></title>
+        <id>https://v.daum.net/v/20230118050530249</id>
+        <link href="https://v.daum.net/v/20230118050530249"/>
+        <updated>2023-01-17T20:11:56.676Z</updated>
+        <content type="html"><![CDATA[[TV리포트=이수연 기자] 디즈니 실사 영화 '인어공주'에 이어 흑인 배우를 캐스팅해 논란이 된 작품이 있다. 최근 할리우드 배우 니코 파커는 동명의 인기 있는 비디오 게임을 기반한 HBO 드라마 시리즈 '더 라스트 오브 어스'의 사라 역을 맡았다. 비디오 게임 '더 라스트 오브 어스'의 팬들은 드라마 제작 소식에 열광했으나, 일부는 니코 파커의 캐스팅에]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[톰 크루즈 ‘탑건3’ 제작 가능, “지금은 아냐”]]></title>
         <id>https://v.daum.net/v/20230117202538224</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230117113241002"/>
         <updated>2023-01-17T03:12:39.382Z</updated>
         <content type="html"><![CDATA[(엑스포츠뉴스 이창규 기자)&nbsp;동성 배우와 미성년자를 성추행한 혐의로 활동을 중단했던 케빈 스페이시가 처음으로 공식 석상에 모습을 비췄다. 16일(현지시간) 미국 버라이어티는 케빈 스페이시가&nbsp;이날 이탈리아 토리노에 위치한 이탈리아 국립영화박물관에서 마스터 클래스를 열기 전 평생공로상을 수상하면서 매니저 에반 로웬스타인을 칭찬했다고 보도했다. 이날 스페이시는]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“첫눈에 반했는데” 오아시스 노엘 갤러거, 아내와 12년만에 이혼]]></title>
-        <id>https://v.daum.net/v/20230117112637710</id>
-        <link href="https://v.daum.net/v/20230117112637710"/>
-        <updated>2023-01-17T03:12:39.387Z</updated>
-        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]록그룹 ‘오아시스’의 노엘 갤러거(55)와 아내 사라 맥도널드(51)가 동거 8년, 결혼 12년만에 이혼했다. 아들 도노반(15)과 소니(12)를 공유하는 전 오아시스 멤버와 맥도날드는 16일(현지시간) 연예매체 피플에 보낸 성명에서 이혼할 것이라고 밝혔다. 이들은 “우리는 우선순위로 남아있는 아이들을 계속 돌볼 것이다. 우]]></content>
     </entry>
 </feed>
