@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-01-17T09:11:59.125Z</updated>
+    <updated>2023-01-17T10:15:33.581Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘대선후보♥’ 이지아 처절한 복수, ‘판도라’ 대본리딩 현장]]></title>
+        <id>https://v.daum.net/v/20230117191314097</id>
+        <link href="https://v.daum.net/v/20230117191314097"/>
+        <updated>2023-01-17T10:15:15.936Z</updated>
+        <content type="html"><![CDATA[[동아닷컴]  tvN 새 드라마 ‘판도라 : 조작된 낙원’(크리에이터 김순옥, 연출 최영훈, 극본 현지민) 제작진은 17일 대본리딩 현장을 공개했다. ‘판도라 : 조작된 낙원’은 누구나 부러워하는 인생을 사는 여성이 잃어버렸던 과거의 기억을 회복하면서 자신의 운명을 멋대로 조작한 세력을 응징하기 위해 펼치는 복수극이다. ‘원더우먼’, ‘굿캐스팅’ 등의 최]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[유인수 ‘나쁜 엄마’ 출연확정, 라미란·이도현·안은진과 호흡]]></title>
         <id>https://v.daum.net/v/20230117173007408</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230117140646953"/>
         <updated>2023-01-17T05:11:13.653Z</updated>
         <content type="html"><![CDATA[[OSEN=연휘선 기자]&nbsp;배우 김인권과 차청화가 저승계 환장의 짝꿍&nbsp;‘옥신각신’으로 변신한다.&nbsp;&nbsp;&nbsp; 27일 첫 방송될&nbsp;MBC&nbsp;새 금토드라마&nbsp;‘꼭두의 계절’(극본 강이헌&nbsp;허준우,&nbsp;연출 백수찬&nbsp;김지훈)은&nbsp;99년마다 인간에게 천벌을 내리러 이승에 내려오는 사신(死神)&nbsp;꼭두가 신비한 능력을 가진 왕진의사 한계절을 만나 벌이는 판타지 로맨스 드라마다. 극 중 까]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘트롤리’ 측 “김균하, 정수빈과 어떤 관계? 후반부 전개 변화 주목”]]></title>
-        <id>https://v.daum.net/v/20230117135452554</id>
-        <link href="https://v.daum.net/v/20230117135452554"/>
-        <updated>2023-01-17T05:11:13.661Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 박아름 기자] ‘트롤리’ 김수빈(정수빈 분)과 심상치 않은 관계를 짐작게 한 김균하 정체에 궁금증이 쏠린다. SBS 월화드라마 ‘트롤리’(연출 김문교/극본 류보리) 측은 10회 방송을 앞둔 1월 17일, 의문의 청년과 만남을 갖는 김혜주(김현주 분)를 공개했다. 지난 방송에서는 남중도(박희순 분)의 숨겨져 있던 얼굴이 드러나 반전을 선사했다. 김]]></content>
     </entry>
 </feed>
