@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-01-18T11:10:14.231Z</updated>
+    <updated>2023-01-18T12:21:22.594Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['교섭' 임순례 감독 "국민 책임지는 건 국가의 의무, 당연하잖나"]]></title>
+        <id>https://v.daum.net/v/20230118204802779</id>
+        <link href="https://v.daum.net/v/20230118204802779"/>
+        <updated>2023-01-18T12:21:04.119Z</updated>
+        <content type="html"><![CDATA[[이선필 기자] &nbsp;        ▲ &nbsp;영화 &lt;교섭&gt;을 연출한 임순례 감독.    ⓒ 메  &nbsp; &nbsp;5년 전 발표한 영화와 지금의 이 영화의 온도차가 꽤 크다. &lt;리틀 포레스트&gt;로 잔잔한 감독과 여운을 준 임순례 감독이 170억 원대 대작 &lt;교섭&gt;의 연출자로 관객과 만나게 됐기에 그렇다. 한국 여성 감독이 대규모 블록버스터 기획에 참여한 첫 사례라는 점에서도 그]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['유령' 서현우 "박소담과 학과 선후배 사이, 이하늬와 동갑이지만 누나 같아"]]></title>
         <id>https://v.daum.net/v/20230118182629307</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230118153533194"/>
         <updated>2023-01-18T07:11:26.582Z</updated>
         <content type="html"><![CDATA[(서울=뉴스1) 정유진 기자 = 배우 이하늬가 출산 7개월 만에 빠르게 몸을 회복할 수 있었던 비결을 밝혔다. 이하늬는 18일 오후 방송된 SBS 파워FM '두시탈출 컬투쇼'(이하 '컬투쇼')에 출연해 "애를 낳으시고 나서 더 예뻐졌다"는 DJ 김태균의 칭찬에 "그렇지 않은데 누가 낳아준 아이로 뻥을 친다는 얘기를 하더라"라면서 농담으로 받아쳤다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘1박2일’ 접수 유선호 ‘참, 잘했어요!’로 스크린 데뷔]]></title>
-        <id>https://v.daum.net/v/20230118152304642</id>
-        <link href="https://v.daum.net/v/20230118152304642"/>
-        <updated>2023-01-18T07:11:26.582Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 박아름 기자] 유선호가 스크린에 데뷔한다. 소속사 측은 1월 18일 "배우 유선호가 '참, 잘했어요!' 주연으로 나서 강미나, 유인수 등 청춘 배우들과 함께 호흡한다"고 전했다. 올 하반기 극장 개봉 예정인 '참, 잘했어요!'는 꿈도 희망도 없이 살아가던 최하위층 소년이 우연한 기회에 '돈'이라는 권력을 손에 쥐고 거침없이 질주하는 학원 액션 영]]></content>
     </entry>
 </feed>
