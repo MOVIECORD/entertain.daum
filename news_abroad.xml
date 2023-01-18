@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-01-18T08:15:06.375Z</updated>
+    <updated>2023-01-18T09:11:48.713Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['친중' 견자단, 본격 정치 행보?...中 정협위원 됐다]]></title>
+        <id>https://v.daum.net/v/20230118171530163</id>
+        <link href="https://v.daum.net/v/20230118171530163"/>
+        <updated>2023-01-18T09:11:47.584Z</updated>
+        <content type="html"><![CDATA[[TV리포트=박설이 기자]세계적인 액션 배우 견자단이 중국 정계에 본격적으로 발을 들였다. 17일 중국 신화통신에 따르면 견자단은 이날 공개된 중국 전국정협위원 명단에 이름을 올렸다. 이날 발표된 중국인민정치협상회의 제14회 전국위원회 위원 명단의 인원은 총 2172명으로, 제30회 전국귀원회 상무위원회 제25차 회의에서 통과된 사안이다. 견자다는 정협위원]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[30살 셀레나 고메즈♥33살 체인스모커스 멤버, 볼링장 데이트 현장 포착]]></title>
         <id>https://v.daum.net/v/20230118160832547</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230118095920221"/>
         <updated>2023-01-18T02:21:02.660Z</updated>
         <content type="html"><![CDATA[[OSEN=강서정 기자] 배우 제레미 레너가 제설사고로 심각한 부상을 입었지만 병원에서 퇴원했다. 17일(현지시간) 미국 연예매체 TMZ 보도에 따르면 제레미 레너가 끔찍한 제설차 사고를 당한 후 여전히 회복과정에 있지만 퇴원해 집으로 돌아갔다. 제레미 레너는 이날 “회복 중인 상황에서 가족과 함께 집에서 201화를 보게 돼 매우 기뻤다”며 출연 중인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[빈 디젤, ‘아바타’ 출연한다고 설레발치더니…“헛물켰다”]]></title>
-        <id>https://v.daum.net/v/20230118095903204</id>
-        <link href="https://v.daum.net/v/20230118095903204"/>
-        <updated>2023-01-18T02:21:02.660Z</updated>
-        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]‘분노의 질주’ 시리즈의 빈 디젤이 ‘아바타’ 시리즈 출연을 강력하게 희망했지만, 끝내 무산됐다. 그는 2019년 ‘아바타2’ 세트장에 제임스 카메론과 함께 있는 모습을 인스타그램 영상에 올리면서 출연설에 불을 붙였다. 디젤은 “할리우드에는 내가 항상 함께 일하고 배우고 싶어했던 한 사람이 있다, 그래서 모든 것은 기다리는]]></content>
     </entry>
 </feed>
