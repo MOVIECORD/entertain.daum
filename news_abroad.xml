@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-01-18T21:10:44.359Z</updated>
+    <updated>2023-01-18T22:12:28.776Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['아바타2', '스파이더맨' 제치고 역대 흥행 6위 올라]]></title>
+        <id>https://v.daum.net/v/20230119061134107</id>
+        <link href="https://v.daum.net/v/20230119061134107"/>
+        <updated>2023-01-18T22:12:28.101Z</updated>
+        <content type="html"><![CDATA[(로스앤젤레스=연합뉴스) 정윤섭 특파원 = 제임스 캐머런 감독의 영화 '아바타:물의 길'('아바타2')이 '스파이더맨:노 웨이 홈'('스파이더맨')을 제치고 역대 흥행 6위 영화에 올랐다. 디즈니는 18일(현지시간) 아바타2가 작년 12월 개봉 이후 전 세계적으로 19억3천만 달러(2조3천700억 원) 누적 박스오피스를 달성했다고 발표했다. 이로써 아바타2]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[중국, 3년 7개월 만에 마블 슈퍼히어로 영화 개봉 허용]]></title>
         <id>https://v.daum.net/v/20230119055201753</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230118151030093"/>
         <updated>2023-01-18T06:15:15.806Z</updated>
         <content type="html"><![CDATA[[TV리포트=이수연 기자] 마블 영화에서 호크아이 역으로 열연을 펼쳤던 배우 제레미 레너(51)가 제설기 사고 후 2주 만에 집으로 돌아왔다. 17일 제레미 레너는 자신의 트위터에 글을 게재하며 퇴원했음을 밝혔다. 제레미 레너는 그가 출연한 파라마운트 플러스 시리즈 '메이어 오브 킹스타운'(Mayor of Kingstown)을 가족과 함께 집에서 시청할 수]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[걸그룹 출신 미혼모 가수, 악플러 사과문 공개…"법적 조치"]]></title>
-        <id>https://v.daum.net/v/20230118145700459</id>
-        <link href="https://v.daum.net/v/20230118145700459"/>
-        <updated>2023-01-18T06:15:15.807Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 이슬 기자) 걸그룹 써니데이즈 출신 중국 가수 장비천이 악플러의 사과문을 공개했다. 18일 장비천 측은 웨이보에 "발언도 개인의 자유지만 한계와 경계를 넘어서는 안 된다"라며 장문의 글을 올렸다. 함께 게재된 사진에는 악플러가 장비천에게 자필로 쓴 사과문이 담겼다.&nbsp; 장비천 측은 "이전에 일부 인터넷 사용자가 웨이보 플랫폼에서 장비천을 비방하]]></content>
     </entry>
 </feed>
