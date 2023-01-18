@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-01-18T03:14:02.854Z</updated>
+    <updated>2023-01-18T04:14:40.772Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[장나라, 가구 브랜드 대표 된다!..'해피엔드' 주연 확정]]></title>
+        <id>https://v.daum.net/v/20230118125625937</id>
+        <link href="https://v.daum.net/v/20230118125625937"/>
+        <updated>2023-01-18T04:14:23.763Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 이경호 기자] 배우 장나라/사진제공=라원문화/사진=이동훈 기자 photoguy@ 배우 장나라가 새 드라마 '해피엔드'(가제)를 통해 가구 브랜드 대표로 변신한다. 18일 스타뉴스 취재 결과, 장나라는 새 드라마 '해피엔드'에 여주인공으로 출연을 확정했다. '해피엔드'는 불우한 어린 시절을 보낸 여주인공이 성공에 취해 인생을 내달린 후, 욕]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['경찰' 된 표예진, 반전 근황 공개]]></title>
         <id>https://v.daum.net/v/20230118120800089</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230118110228042"/>
         <updated>2023-01-18T02:20:48.683Z</updated>
         <content type="html"><![CDATA[[스타뉴스 최혜진 기자] /사진=스타뉴스배우 송강, 김유정이 '마이데몬'에서 호흡을 맞추게 될까. 18일 송강의 소속사 나무액터스 관계자는 스타뉴스에 "마이데몬'은 제안받은 작품 중 하나"라고 밝혔다. 김유정의 소속사 어썸이앤티  관계자 역시 "'마이데몬'은 검토 중인 작품"이라고 전했다. '마이데몬'은 사방이 적인 재벌 상속녀 도도희와 하루아침]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[윤소희, 금수저 투자자 변신.. ‘가슴이 뛴다’ 옥태연x원지안과 호흡]]></title>
-        <id>https://v.daum.net/v/20230118105300567</id>
-        <link href="https://v.daum.net/v/20230118105300567"/>
-        <updated>2023-01-18T02:20:48.683Z</updated>
-        <content type="html"><![CDATA[[OSEN=김채연 기자] 배우 윤소희가 드라마&nbsp;‘가슴이 뛴다’에 출연을 확정했다. KBS 2TV 새 월화드라마 '가슴이 뛴다'(연출 이현석, 이민수 / 극본 김하나, 정승주 / 제작 위매드, 몬스터유니온)는 100년 중 하루 차이로 인간이 되지 못한 반인 뱀파이어 선우혈과 인간미라고는 찾아볼 수 없는 여자 주인해가 어쩌다 동거를 시작하며, 진정한 온기를]]></content>
     </entry>
 </feed>
