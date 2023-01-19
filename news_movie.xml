@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-01-19T05:11:50.737Z</updated>
+    <updated>2023-01-19T06:15:16.689Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[마이클 잭슨 영화 제작 확정...'보헤미안 랩소디' 인기 이을까]]></title>
+        <id>https://v.daum.net/v/20230119144030994</id>
+        <link href="https://v.daum.net/v/20230119144030994"/>
+        <updated>2023-01-19T06:14:53.648Z</updated>
+        <content type="html"><![CDATA[[TV리포트=이수연 기자] '팝의 황제' 가수 마이클 잭슨의 전기 영화가 제작된다. 18일(현지 시간) 미국의 더할리우드리포터에 따르면 안톤 후쿠아 감독이 '마이클'이라는 제목의 마이클 잭슨 전기 영화를 연출한다. 안톤 후쿠아는 "마이클 잭슨의 음악과 이미지는 내 세계관의 일부이며 그의 음악과 이야기를 스크린을 통해 전할 수 있는 기회를 얻게 되어 기쁘다]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["韓최초 아프가니스탄 배경"…황정미X현빈 '교섭', 알고 보면 더 재밌는 관전 포인트]]></title>
         <id>https://v.daum.net/v/20230119140420517</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230119105451702"/>
         <updated>2023-01-19T02:21:44.800Z</updated>
         <content type="html"><![CDATA[[뉴스엔 김명미 기자] 배우 차은우가 '벌크' 출연 물망에 올랐다. 차은우 소속사 판타지오 측은 1월 19일 "영화 '벌크'는 차은우가 섭외 제안 받고, 검토중인 작품 중 하나"라고 밝혔다. 이어 "정해진 내용이 없어 자세히 말씀드리기 어려운 점 양해 부탁드린다"고 덧붙였다. '벌크'는 강남의 밤을 배경으로 경찰과 주류 세계에 몸 담고 있던 해결사, 그리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[차은우, OTT 영화 '벌크' 출연하나? "제안 받고 검토中"]]></title>
-        <id>https://v.daum.net/v/20230119105437687</id>
-        <link href="https://v.daum.net/v/20230119105437687"/>
-        <updated>2023-01-19T02:21:44.806Z</updated>
-        <content type="html"><![CDATA[[스포츠조선 조지영 기자] 배우 차은우가 OTT 영화 '벌크'(박누리 감독, 사나이픽처스 제작) 출연을 제안 받았다. 차은우의 소속사 판타지오는 19일 오전 "차은우가 영화 '벌크' 섭외 제안 받았다. 검토중인 작품 중 하나로 정해진 내용이 없어 자세히 말씀 드리기 어려운 점 양해 부탁드린다"고 전했다. '벌크'는 강남의 밤을 배경으로 경찰과]]></content>
     </entry>
 </feed>
