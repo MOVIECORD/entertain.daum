@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-01-19T06:15:16.692Z</updated>
+    <updated>2023-01-19T07:11:22.484Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘사랑의 이해’ 사랑보다 높은 계급의 벽이란]]></title>
+        <id>https://v.daum.net/v/20230119152010723</id>
+        <link href="https://v.daum.net/v/20230119152010723"/>
+        <updated>2023-01-19T07:11:06.107Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 박정민 기자] 좋아하는 마음만으로 사랑할 수 있는 시간은 생각보다 그리 길지 않다. 나이가 들수록, 또 결혼을 앞두게 되면 사랑하는 마음만큼이나 다른 것들을 눈여겨보게 된다. 상대방의 집안은 어떤지, 직업은 무엇인지 등등. JTBC 수목드라마 '사랑의 이해'(극본 이서현 이현정/연출 조영민)는 사랑 앞에서도 이해관계를 따질 수밖에 없는 현실]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“제발 사랑하지 않게 해주세요” 김옥빈X유태오 ‘연애대전’ 스틸]]></title>
         <id>https://v.daum.net/v/20230119150134983</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230119115353436"/>
         <updated>2023-01-19T03:15:04.747Z</updated>
         <content type="html"><![CDATA[[마이데일리 = 오윤주 기자] SBS 금토드라마 '모범택시2'(극본 오상호 연출 이단)가 단짝 '주임즈' 장혁진-배유람의 근황을 공개했다. 오는 2월 17일 첫 방송되는 '모범택시2'는 "정의가 실종된 사회, 전화 한 통이면 오케이" 베일에 가려진 택시회사 무지개 운수와 택시기사 김도기가 억울한 피해자를 대신해 복수를 완성하는 사적 복수 대행극이다. 동명]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박용우-정유미, 50억 이혼 소송 톱스타 커플 변신]]></title>
-        <id>https://v.daum.net/v/20230119115007332</id>
-        <link href="https://v.daum.net/v/20230119115007332"/>
-        <updated>2023-01-19T03:15:04.748Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 김명미 기자] 박용우 정유미가 특급 응원 출연을 했다. 1월 18일 지니 TV, 티빙 공개 및 ENA 오후 9시에 첫 방영되는 지니 TV 오리지널 드라마 ‘남이 될 수 있을까’(연출 김양희/작가 박사랑/기획 KT스튜디오지니/제작 웨스트월드스토리) 1회에 박용우 정유미가 이혼을 앞둔 톱스타 커플로 특급 응원 출연을 해 화제를 모으고 있다. 이혼 소]]></content>
     </entry>
 </feed>
