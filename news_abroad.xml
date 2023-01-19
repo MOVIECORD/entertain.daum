@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-01-19T09:12:57.171Z</updated>
+    <updated>2023-01-19T10:13:57.259Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[유덕화 "하루에 커피 20잔 넘게 마셔...컨트롤 안 된다"]]></title>
+        <id>https://v.daum.net/v/20230119190530867</id>
+        <link href="https://v.daum.net/v/20230119190530867"/>
+        <updated>2023-01-19T10:13:56.504Z</updated>
+        <content type="html"><![CDATA[[TV리포트=박설이 기자]홍콩 스타 유덕화가 하루에 커피를 20잔 이상 마신다고 밝혀 화제다. 중국 SF 영화 '유랑지구2'에 출연, 최근 홍보 활동에 열중하고 있는 유덕화는 17일 중국의 한 프로그램에 출연해 동안 유지 비결을 밝혔다. 이날 '유랑지구2'의 주역들이 모인 가운데 연출자인 곽범(궈판) 감독은 하루에 커피 5~6잔을 마신다고 밝혔다. 이를 들]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[英 줄리안 샌즈, 등산 중 실종됐다…"기상 악화로 수색 어려워"]]></title>
+        <id>https://v.daum.net/v/20230119184906498</id>
+        <link href="https://v.daum.net/v/20230119184906498"/>
+        <updated>2023-01-19T10:13:56.506Z</updated>
+        <content type="html"><![CDATA[[스포츠조선 안소윤 기자] 영화 '전망 좋은 방'에서 주연을 맡은 영국 배우 줄리안 샌즈(65)가 등산 중 실종됐다. 18일(현지시간) 미국 매체 버라이어티는 줄리안 샌즈가 지난 13일 남부 캘리포니아 발디 볼에서 하이킹을 하던 중 실종됐다고 보도했다. 이날 보도에 따르면 줄리안 샌즈의 실종 신고가 이뤄진 직후, 경찰은 구조대원들과 함께 수색]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[65세 英배우, 등산하다 실종…드론 이용해 수색 중]]></title>
         <id>https://v.daum.net/v/20230119180711349</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230119093407960"/>
         <updated>2023-01-19T00:58:50.804Z</updated>
         <content type="html"><![CDATA[[티브이데일리 김종은 기자] 애플TV+의 인기 코미디 시리즈 '테드 래소'가 시즌3로 돌아온다. 미국 연예매체 버라이어티는 18일(현지시간) "테드 래소' 세 번째 시즌이 2023년 봄 방송된다"라고 밝히며 시즌2 엔딩에서 라이벌이 된 테드(제이슨 서데이키스)와 네이선(닉 모하메드)의 맞대면 스틸을 공개했다. 알려진 바에 따르면 시즌3는 '테드 래소'의]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[킴 카다시안, 故다이애나 펜던트 구매 위해 2.4억 플렉스]]></title>
-        <id>https://v.daum.net/v/20230119091606337</id>
-        <link href="https://v.daum.net/v/20230119091606337"/>
-        <updated>2023-01-19T00:58:50.810Z</updated>
-        <content type="html"><![CDATA[[티브이데일리 김종은 기자] 미국의 인기 모델 킴 카다시안이 '플렉스'가 무엇인지를 보여줬다. 미국 연예매체 피플은 18일(현지시간) "킴 카다시안이 경매에 참여, 다이애나 스펜서 왕세자비가 착용한 것으로 알려진 펜던트를 19만7453달러(한화 약 2억4430만 원)에 구매했다"고 보도했다. 해당 펜던트는 다이아몬드가 박힌 십자가 펜던트로, 5.25캐럿의]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[세븐틴 정한, 파리 홀린 조각 미모…호시 덕 풀린 하트금지]]></title>
-        <id>https://v.daum.net/v/20230119083416159</id>
-        <link href="https://v.daum.net/v/20230119083416159"/>
-        <updated>2023-01-19T00:58:50.811Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 황혜진 기자] 그룹 세븐틴 멤버 정한이 프랑스 파리에서 조각 같은 미모를 선보였다. 정한은 1월 17일(현지시간) 파리에서 진행된 패션위크 행사에 참석했다. 정한은 해당 브랜드 의상을 착용한 채 현지 취재진의 뜨거운 스포트라이트를 받았다. 트레이드 마크가 된 장발과 시크한 검은색 의상을 소화해 감탄을 불러일으켰다. 행사 이후에는 패션위크 참석 차]]></content>
     </entry>
 </feed>

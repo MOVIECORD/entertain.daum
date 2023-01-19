@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-01-19T09:12:57.175Z</updated>
+    <updated>2023-01-19T10:13:57.261Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이재욱, 스스로를 '신인 배우'라 부르는 이유]]></title>
+        <id>https://v.daum.net/v/20230119191201038</id>
+        <link href="https://v.daum.net/v/20230119191201038"/>
+        <updated>2023-01-19T10:13:41.253Z</updated>
+        <content type="html"><![CDATA[[SBS연예뉴스 | 강선애 기자] 신인 배우에게는 작품에 출연할 기회를 한 번 잡는 것도 쉬운 일이 아니다. 그러니 단역, 조연을 넘어 주연 반열까지 올라가는 길은 더 멀고 험하다. 그런데 그 힘든 일이, 배우 이재욱에게 만큼은 예외인 듯 하다. 이재욱은 데뷔 후 계속 승승장구 중이다. 2018년 드라마 '알함브라 궁전의 추억'으로 데뷔하자마자 악역 마르꼬]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['환혼' 이끈 이재욱, 긴 호흡으로 얻은 것]]></title>
+        <id>https://v.daum.net/v/20230119183041056</id>
+        <link href="https://v.daum.net/v/20230119183041056"/>
+        <updated>2023-01-19T10:13:41.260Z</updated>
+        <content type="html"><![CDATA[[서울경제] \배우 이재욱이 '환혼'의 대장정을 성공적으로 이끌었다. 도전하는 마음으로 임한 '환혼'은 그에게 많은 것을 남겼다. 퓨전 사극, CG 액션, 캐릭터의 변화 등은 그가 처음 겪는 것이었다. 특히 파트가 넘어가면서 여자 주인공이 바뀌었는데, 그가 중심을 잡아준 덕에 시청자들이 몰입할 수 있었다. tvN 토일드라마 '환혼'(극본 홍정은 홍미란]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[송영규, '대행사' 특별출연..이보영과 신경전 예고]]></title>
         <id>https://v.daum.net/v/20230119180724351</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230119143249700"/>
         <updated>2023-01-19T06:14:59.361Z</updated>
         <content type="html"><![CDATA[[엔터미디어=정덕현] 사실 tvN 수목드라마 &lt;조선 정신과 의사 유세풍2&gt;는 대단한 기획의도나 메시지를 담고 있는 작품이라고 보긴 어렵다. 하지만 한 시간 이 세계 속에 눈을 담고 있으면, 어딘가 복잡한 현실에서 잠시 벗어나 있는 듯한 느낌을 준다. 굉장한 거대 담론의 서사는 없어도 민초들이 부대끼며 살아가는 소박한 삶이 보인다. 그리고 그 삶이 그들에게는]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘사랑의 이해’ 문가영, 로코-장르물-멜로까지 다 된다]]></title>
-        <id>https://v.daum.net/v/20230119142020114</id>
-        <link href="https://v.daum.net/v/20230119142020114"/>
-        <updated>2023-01-19T06:14:59.363Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 김명미 기자] 한 마디로 변신의 귀재다. 배우 문가영은 JTBC 수목 드라마 ‘사랑의 이해’(극본 이서현 이현정 / 연출 조영민 / 제작 SLL)에서 사랑과 현실 사이 각기 다른 이해 차이로 유연석(하상수 역)과 가까워졌다, 멀어지기를 반복하며 혼란스러워하는 안수영 역을 맡아 시청자들의 몰입도를 끌어올리고 있다. 문가영은 어떤 장르와 역할도 자신]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김남길･이다희･차은우 ‘아일랜드’ 파트2, 2월 24일까지 어떻게 기다리나]]></title>
-        <id>https://v.daum.net/v/20230119135706215</id>
-        <link href="https://v.daum.net/v/20230119135706215"/>
-        <updated>2023-01-19T05:11:32.835Z</updated>
-        <content type="html"><![CDATA[[OSEN=강서정 기자] 티빙 오리지널 시리즈 ‘아일랜드’가 해외에서 폭발적인 반응을 얻으며 파트2에 대한 기대감을 고조시키고 있다. 티빙 오리지널 시리즈 ‘아일랜드’(연출 배종, 극본 오보현(키트프로젝트))는 한국 콘텐츠 최초로 아마존프라임비디오 글로벌 TV 쇼 톱10 부문에서 3주 연속 톱10(1월 15일 기준, 플릭스패트롤 제공)에 오르며 연일 신]]></content>
     </entry>
 </feed>
