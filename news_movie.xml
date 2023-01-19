@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-01-19T03:15:20.935Z</updated>
+    <updated>2023-01-19T04:14:49.135Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2월로 날 받은 진선규 흥행 ‘카운트’ 시작]]></title>
+        <id>https://v.daum.net/v/20230119121459085</id>
+        <link href="https://v.daum.net/v/20230119121459085"/>
+        <updated>2023-01-19T04:14:28.475Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 허민녕 기자] 알고 보면 엄청난 고타율. 신흥 흥행 청부사로도 불릴 만한 진선규가 ‘엑시트’ ‘너의 결혼식’ 제작진과 손잡고 2월 극장가에 출격한다. 영화 ‘카운트’가 그것. ‘카운트’는 ‘극한직업’으로 시작 ‘공조2:인터내셔날’로 만개한 진선규가 명실상부한 원톱 주연으로 충분한 예열을 마치고 내놓는 야심작. 이는 ‘엑시트’ ‘너의 결혼식’ 제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[차은우 측, "영화 '벌크' 섭외 제안, 검토 중"]]></title>
         <id>https://v.daum.net/v/20230119115452461</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230119105002462"/>
         <updated>2023-01-19T02:21:44.807Z</updated>
         <content type="html"><![CDATA[(엑스포츠뉴스 김유진 기자) 영화 '유령'(감독 이해영)이 18일 개봉을 시작으로 설 연휴까지 부지런히 관객들을 마주하며 본격적인 입소문 올리기에 나선다. '유령'은 1933년 경성, 조선총독부에 항일조직이 심어놓은 스파이 유령으로 의심받으며 외딴 호텔에 갇힌 용의자들이 의심을 뚫고 탈출하기 위해 벌이는 사투와 진짜 유령의 멈출 수 없는 작전을 그린 영화로]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[기댈 곳 없는 열여덟 살 아이, 어떻게 어른이 되는가]]></title>
-        <id>https://v.daum.net/v/20230119103301600</id>
-        <link href="https://v.daum.net/v/20230119103301600"/>
-        <updated>2023-01-19T02:21:44.811Z</updated>
-        <content type="html"><![CDATA[[김성호 기자] &nbsp;        ▲ 열여덟, 어른이 되는 나이&nbsp;포스터    ⓒ 필름다빈  &nbsp; 의도치 않게 사람을 상하게 하는 일이 있다. 그럴 때 나서 '미안하다' 사과하고 문제를 바로잡는 건 결코 쉽지 않은 일이다. 특히나 나 혼자만의 잘못은 아닐 때, 이곳 생리가 본래 그렇고 그렇게 돌아가는 것이라면 쉽게 사과가 나오지는 않는 것이다. 하물며 내가 그러]]></content>
     </entry>
 </feed>
