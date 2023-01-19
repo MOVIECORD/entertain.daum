@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-01-19T13:20:55.379Z</updated>
+    <updated>2023-01-19T14:12:18.989Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['유령' 설경구→이하늬, 설 극장가 완전체 출격 '무대인사 확정']]></title>
+        <id>https://v.daum.net/v/20230119222823971</id>
+        <link href="https://v.daum.net/v/20230119222823971"/>
+        <updated>2023-01-19T14:11:57.927Z</updated>
+        <content type="html"><![CDATA[[OSEN=하수정 기자] '유령'의 주역들이 설&nbsp;연휴 극장가에 뜬다 끝까지 긴장을 놓을 수 없는 스토리와 호쾌한 장르 변주, 통쾌한 액션으로 폭풍처럼 휘몰아치는 스파이 액션 영화라는 호평을 받고 있는 이해영 감독의 '유령'이 1월 28일, 29일 개봉 2주차 경기 무대인사를 확정했다.&nbsp; 1933년 경성, 조선총독부에 항일조직이 심어 놓은 스파이 유령으로]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['비상선언' 임시완, '폰 떨어뜨렸을 뿐인데'서 또 악역 변신]]></title>
         <id>https://v.daum.net/v/20230119204530371</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230119170713000"/>
         <updated>2023-01-19T08:14:54.828Z</updated>
         <content type="html"><![CDATA[[OSEN=강서정 기자] 끝까지 긴장을 놓을 수 없는 스토리와 호쾌한 장르 변주, 통쾌한 액션으로 폭풍처럼 휘몰아치는 스파이 액션 영화라는 호평을 받고 있는 이해영 감독의&nbsp;‘유령’이 개봉 기념 메가토크 GV를 성황리에 마쳤다. 1933년 경성, 조선총독부에 항일조직이 심어 놓은 스파이 '유령'으로 의심받으며 외딴 호텔에 갇힌 용의자들이 의심을 뚫고 탈출]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[견자단 "60세에 무협액션, 톰 크루즈도 하니 나도 할수있다"]]></title>
-        <id>https://v.daum.net/v/20230119170340862</id>
-        <link href="https://v.daum.net/v/20230119170340862"/>
-        <updated>2023-01-19T08:14:54.830Z</updated>
-        <content type="html"><![CDATA[(서울=뉴스1) 장아름 기자 = '천룡팔부: 교봉전' 견자단이 60대에도 무협 액션 영화를 찍을 수 있었던 원동력에 대해 밝혔다. 견자단은 19일 서울 광진구 자양동 롯데시네마 건대입구에서 열린 영화 '천룡팔부: 교봉전' 언론시사회에서 "41년동안 액션 영화를 찍었다"며 "액션영화를 찍다 보면 부상을 입으 수밖에 없는데 부상을 최소화하는 데 힘을 쏟고]]></content>
     </entry>
 </feed>
