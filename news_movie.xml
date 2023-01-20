@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-01-20T03:15:10.029Z</updated>
+    <updated>2023-01-20T04:15:02.154Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[박찬욱 ‘헤어질 결심’ 英 아카데미 시상식 감독상·외국어영화상 후보]]></title>
+        <id>https://v.daum.net/v/20230120125748333</id>
+        <link href="https://v.daum.net/v/20230120125748333"/>
+        <updated>2023-01-20T04:14:40.875Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 배효주 기자] 영화 '헤어질 결심'이 영국 아카데미 시상식에서 2개 부문 후보에 올랐다. 1월 19일(현지 시각) 영국영화TV예술아카데미(BAFTA)가 발표한 제76회 영국 아카데미 시상식의 최종 후보 명단에 따르면, 박찬욱 감독 연출작 '헤어질 결심'이 감독상과 외국어영화상 부문에 후보로 올랐다. 감독상 부문에서는 영화 '서부 전선 이상 없다']]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“윤정희, 언제나 소녀 같았다” 알츠하이머 투병 중 사망‥영화계 애도]]></title>
+        <id>https://v.daum.net/v/20230120123425869</id>
+        <link href="https://v.daum.net/v/20230120123425869"/>
+        <updated>2023-01-20T04:14:40.876Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 배효주 기자] '1세대 여배우 트로이카' 윤정희가 영화 같은 삶을 마무리했다. 향년 79세. 1월 20일 영화계에 따르면 윤정희는 19일(현지시간) 프랑스 파리에서 영면에 들었다. 고인은 오랜 기간 알츠하이머를 앓아왔다. 윤정희의 사망 전 국내 공식 일정 참석은 지난 2018년 열린 제38회 영평상 시상식에서다. 남편이자 피아니스트 백건우와 함께]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[견자단 "김종국, 지석진이 중국어로 환대, 송지효가 좋아한다고 해줘서 고마워"]]></title>
         <id>https://v.daum.net/v/20230120121254437</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230120105739098"/>
         <updated>2023-01-20T02:21:00.821Z</updated>
         <content type="html"><![CDATA[[스포츠조선 안소윤 기자] 60년대를 풍미했던 영화배우 윤정희가 향년 79세로 눈을 감았다. 지난 2017년 알츠하이머 진단을 받은 고인은 남편인 피아니스트 백건우, 딸과 함께 프랑스에서 거주하던 중 20일(한국시간) 세상을 떠났다. 영화배우 문희, 남정희와 함께 '여배우 트로이카'로 불렸던 故 윤정희는 1960대 한국 영화의 황금기를 이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이태성 母' 박영혜 vs 신성훈 고소로 파국…진흙탕 싸움 시작]]></title>
-        <id>https://v.daum.net/v/20230120105302879</id>
-        <link href="https://v.daum.net/v/20230120105302879"/>
-        <updated>2023-01-20T02:21:00.827Z</updated>
-        <content type="html"><![CDATA[[텐아시아=강민경 기자] 이태성 어머니로 알려진 박영혜 감독과 신성훈 감독이 영화 '짜장면 고맙습니다'로 의기투합했다. 하지만 두 사람은 맞고소로 파국을 맞았다. 이제 진흙탕 싸움이 시작됐다. 19일 신성훈 감독 소속사 라이트 픽처스에 따르면 박영혜 감독은 법무 법인 광덕을 통해 신성훈 감독에게 내용 증명을 보냈고, 고소했다. 이에 신성훈 감독도 '짜장]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이하늬, 애엄마라 가능?..3.9kg 장총 들고 완벽한 액션하늬]]></title>
-        <id>https://v.daum.net/v/20230120104621639</id>
-        <link href="https://v.daum.net/v/20230120104621639"/>
-        <updated>2023-01-20T02:21:00.827Z</updated>
-        <content type="html"><![CDATA[[OSEN=박소영 기자] 액션 장학생 배우 이하늬의 남다른 노력을 엿볼 수 있는 '유령' 제작기 영상이 공개됐다. 이하늬 주연의 영화 '유령'은 1933년 경성, 조선총독부에 항일조직이 심어 놓은 스파이 '유령'으로 의심받으며 외딴 호텔에 갇힌 용의자들이 의심을 뚫고 탈출하기 위해 벌이는 사투와 진짜 '유령'의 멈출 수 없는 작전을 그린 영화다. 이하늬]]></content>
     </entry>
 </feed>
