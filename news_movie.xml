@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-01-20T11:11:21.869Z</updated>
+    <updated>2023-01-20T12:22:12.554Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[故 윤정희, 장례는 프랑스서 가족장..파리에 잠든다]]></title>
+        <id>https://v.daum.net/v/20230120204403521</id>
+        <link href="https://v.daum.net/v/20230120204403521"/>
+        <updated>2023-01-20T12:21:52.695Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 김미화 기자]  배우 윤정희가 22일 오후 서울 마포구 상암동 한국영상자료원 시네마테크 KOFA에서 열린 배우 윤정희 데뷔 50주년 '스크린, 윤정희라는 색채로 물들다' 행사에서 인사말을 하고 있다. /사진=김창현 기자 chmt@ 배우 윤정희가 알츠하이머 투병 중 별세했다. 고(故) 윤정희의 장례는 프랑스서 가족장으로 치러질 예정이다. 20]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['유령' 서현우 "이해영 감독, 강박적으로 미장센에 신경 써"]]></title>
         <id>https://v.daum.net/v/20230120192159267</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230120162503508"/>
         <updated>2023-01-20T08:15:17.195Z</updated>
         <content type="html"><![CDATA[[텐아시아=강민경 기자] 영화 '소울메이트'(감독 민용근) 론칭 영상이 공개됐다. 20일 배급사 NEW는 '소울메이트' 론칭 영상을 공개했다. '소울메이트'는 첫 만남부터 서로를 알아본 두 친구 미소(김다미 역)와 하은(전소니 역) 그리고 진우(변우석&nbsp;역)가 기쁨, 슬픔, 설렘, 그리움까지 모든 것을 함께 한 이야기다. 공개된 론칭 영상에는 작품 속]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['두시의 데이트' 서현우, 김신영에 욕먹은 사연은? "한 큐에 보내더라"]]></title>
-        <id>https://v.daum.net/v/20230120161912383</id>
-        <link href="https://v.daum.net/v/20230120161912383"/>
-        <updated>2023-01-20T08:15:17.195Z</updated>
-        <content type="html"><![CDATA[[티브이데일리 김종은 기자] '두시의 데이트'에서 서현우가 김신영과의 인연을 들려줬다. 20일 오후 방송된 MBC FM4U '두시의 데이트 뮤지, 안영미입니다'(이하 '두시의 데이트')에서는 영화 '유령'의 배우 박소담, 서현우가 출연해 입담을 뽐냈다. 이날 DJ 뮤지는 게스트로 나온 서현우를 바라보며 '두시의 데이트' 첫 출연이지만 남 같지가 않다. 왜]]></content>
     </entry>
 </feed>
