@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2023-01-20T16:16:20.626Z</updated>
+    <updated>2023-01-20T17:11:32.601Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[박영혜 감독, 허위사실유포·비방으로 신성훈 감독→ 법적 대응]]></title>
+        <id>https://v.daum.net/v/20230121011853726</id>
+        <link href="https://v.daum.net/v/20230121011853726"/>
+        <updated>2023-01-20T17:11:26.944Z</updated>
+        <content type="html"><![CDATA[박영혜 감독이 신성훈 감독과의 불화설에 대한 입장문을 공개했다. 박영혜 감독 법률 대리인 법무법인 ‘광덕’ 이원희 변호사는 20일 스포츠경향에 “신성훈 님의 박영혜 님에 대한 입장 발표 및 관련 기사 게재와 관련하여 입장을 밝힌다”고 알렸다. 그는 “신성훈 님이 지난 1월 19일, ‘박영혜 측으로부터 고소를 당했다, 이에 박영혜를 상대로 맞고소하였다]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘나혼산’ 기안84, 코쿤X이주승과 대성리 MT→이종원, 사진 취미 공개]]></title>
         <id>https://v.daum.net/v/20230121010900691</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230120234810208"/>
         <updated>2023-01-20T15:13:45.690Z</updated>
         <content type="html"><![CDATA[[스포츠조선 조윤선 기자] 제이쓴이 부모님, 아들 준범이와 함께 행복한 시간을 보냈다. 20일 방송된 KBS 2TV '슈퍼맨이 돌아왔다'에서는 제이쓴이 준범이를 보려고 역귀성 한 부모님을 위해 손수 떡만둣국을 준비하는 모습이 그려졌다. 제이쓴은 역귀성 하는 부모님을 기다리며 집안 청소를 했다. 그러나 준범이는 아빠 품에서 떨어질 줄을 몰랐]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['나혼산' 코드 쿤스트 "올해 기안84 대상 만들 것"]]></title>
-        <id>https://v.daum.net/v/20230120234123199</id>
-        <link href="https://v.daum.net/v/20230120234123199"/>
-        <updated>2023-01-20T15:13:45.695Z</updated>
-        <content type="html"><![CDATA[[티브이데일리 최하나 기자] ‘나 혼자 산다’ 코드 쿤스트그 기라인을 자처했다. 20일 밤 방송된 MBC ‘나 혼자 산다’에서는 이장우가 출연해 다양한 이야기를 나눴다. 이날 박나래는 “무지개 회원 두명을 두고 이상형 투표가 뜨겁게 진행 중이더라. 이장우와 코드 쿤스트더라”고 말했다. 이에 전현무는 “내가 봤는데 이장우가 좀 더 많더라”고 했다. 이를]]></content>
     </entry>
 </feed>
