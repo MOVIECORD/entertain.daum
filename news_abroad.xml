@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-01-20T00:57:56.053Z</updated>
+    <updated>2023-01-20T02:21:23.184Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['미국 포크록의 전설' 데이비드 크로스비 81세로 별세]]></title>
+        <id>https://v.daum.net/v/20230120102925025</id>
+        <link href="https://v.daum.net/v/20230120102925025"/>
+        <updated>2023-01-20T02:21:22.464Z</updated>
+        <content type="html"><![CDATA[(서울=연합뉴스) 김지연 김동호 기자 = 미국 포크록의 '산 증인'으로 불린 싱어송라이터 데이비드 크로스비가 19일(현지시간) 81세를 일기로 별세했다. 미국 연예 매체 버라이어티와 CNN 방송, 로이터 통신 등에 따르면 이날 고인의 부인 잰 댄스는 "우리가 사랑하는 데이비드 크로스비가 오랜 투병 끝에 세상을 떠나 매우 슬프다"고 밝혔다. 1941년 8월]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['포크록의 전설' 데이비드 크로스비, 81세 일기로 별세…사인은 불명]]></title>
         <id>https://v.daum.net/v/20230120094706333</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230119205934607"/>
         <updated>2023-01-19T12:22:15.397Z</updated>
         <content type="html"><![CDATA[(서울=연합뉴스) 유한주 기자 = 영화 '전망 좋은 방'(1985)으로 잘 알려진 영국 배우 줄리언 샌즈(65)가 지난주 미국 캘리포니아주(州)의 산으로 하이킹을 하러 갔다가 실종됐다고 영국 BBC 방송이 18일(현지시간) 보도했다. 보도에 따르면 샌즈는 13일 샌 게이브리얼 산맥으로 하이킹을 나갔다가 오후 7시 30분께 이 산맥의 볼디 볼 지역에서 실종됐]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[로버트 패틴슨 "봉준호 감독의 '미키17' 완전 미쳤다, 전혀 다른 경험"]]></title>
-        <id>https://v.daum.net/v/20230119205416520</id>
-        <link href="https://v.daum.net/v/20230119205416520"/>
-        <updated>2023-01-19T12:22:15.397Z</updated>
-        <content type="html"><![CDATA[[OSEN=하수정 기자] 할리우드 배우 로버트 패틴슨이 봉준호 감독의 신작 '미키17'(Mickey17)에 대해 "미쳤다"고 표현해 기대감을 높이고 있다. 로버트 패틴슨 최근 ES매거진과의 인터뷰에서 자신의 차기작인 미키17을 언급하면서 "이 영화는 정말 미쳤다. 전혀 다른 방식으로 작업했다"고 밝혔다. 그는 "'기생충'의 봉준호 감독과 찍어서 그동안]]></content>
     </entry>
 </feed>
