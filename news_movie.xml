@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-01-20T17:11:32.604Z</updated>
+    <updated>2023-01-20T18:14:26.041Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김다미X전소니 '소울메이트', 런칭 영상 공개...잔잔한 감성]]></title>
+        <id>https://v.daum.net/v/20230121030531102</id>
+        <link href="https://v.daum.net/v/20230121030531102"/>
+        <updated>2023-01-20T18:14:07.712Z</updated>
+        <content type="html"><![CDATA[[TV리포트=이수연 기자] 배우 김다미 주연의 영화 '소울메이트'가 런칭 영상을 공개했다. 20일 영화 '소울메이트'측이 3월 개봉을 확정 짓고 런칭 포스터 공개 후 예비 관객들로부터 뜨거운 반응을 불러일으키고 있는 가운데 런칭 영상을 공개했다. '소울메이트'는 첫 만남부터 서로를 알아본 미소(김다미 분), 하은(전소니 분) 두 친구와 진우(변우석 분)이]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘설 밥상’처럼 푸짐한 콘텐츠, 골라 보니 더 재밌네]]></title>
+        <id>https://v.daum.net/v/20230121030033959</id>
+        <link href="https://v.daum.net/v/20230121030033959"/>
+        <updated>2023-01-20T18:14:07.718Z</updated>
+        <content type="html"><![CDATA[이 얼마 만인가. 아직은 조심스럽다 해도, 찜찜함 덜고 눈치 보지 않으며 가족 친지와 함께 보낼 수 있는 설 연휴다. 이제는 일상의 일부가 된 OTT(온라인 동영상 서비스)들이 설 밥상처럼 푸짐한 콘텐츠를 차려냈다.&lt;&lt;b&gt;표&gt; 골라 보는 재미에 맛 들이면 연휴가 짧게 느껴질지도 모른다. ◇모두 행복한 춤과 노래 ‘뮤지컬 마틸다’ :넷플릭스 영국 국민 작가]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘유령’, 뜨거운 감정을 담은 첩보 액션의 향연]]></title>
         <id>https://v.daum.net/v/20230121004920600</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230120164844047"/>
         <updated>2023-01-20T08:15:17.195Z</updated>
         <content type="html"><![CDATA[[스타뉴스 김노을 기자]  /AFPBBNews=뉴스1영화 촬영장에서 총기 사망 사고를 낸 할리우드 배우 알렉 볼드윈이 비자발적 과실치사 혐의로 기소될 예정이다. 19일(현지시간) BBC 등 외신에 따르면 알렉 볼드윈은 지난 2021년 10월 멕시코 뉴멕시코주 산타페 목장에서 영화 '러스트' 리허설 도중 소품 총이 발사돼 촬영감독 할리나 허트친스가 사망한]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['두데' 박소담 "안영미 출산 전 함께 여행 가고파"]]></title>
-        <id>https://v.daum.net/v/20230120164406953</id>
-        <link href="https://v.daum.net/v/20230120164406953"/>
-        <updated>2023-01-20T08:15:17.195Z</updated>
-        <content type="html"><![CDATA[[티브이데일리 김종은 기자] '두시의 데이트'에서 박소담이 안영미를 향한 애정을 드러냈다. 20일 오후 방송된 MBC FM4U '두시의 데이트 뮤지, 안영미입니다'(이하 '두시의 데이트')에서는 영화 '유령'의 배우 박소담, 서현우가 출연해 입담을 뽐냈다. 이날 박소담은 일정에 함께하지 않은 설경구와 이하늬에 대해 말했다. 박소담은 "'유령'의 남자 선배]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[윤정희, 그녀가 시가 되었던 작품을 기억한다]]></title>
-        <id>https://v.daum.net/v/20230120163608748</id>
-        <link href="https://v.daum.net/v/20230120163608748"/>
-        <updated>2023-01-20T08:15:17.195Z</updated>
-        <content type="html"><![CDATA[[김성호 기자] 배우에게 최고의 영광은 무엇일까. 출연한 작품이 대중들에게 널리 사랑받는 것일 수도 있고, 모두가 지켜보는 가운데 반짝이는 트로피를 받는 일일 수도 있겠다. 어쩌면 감독이며 작가가 이 배우가 아니면 안 된다고, 그를 염두에 두고 쓴 작품을 가져와 출연을 요청하는 일일지도 모른다. 곰곰이 따져보니 '어쩌면'이 아니다. 동료의 인정, 작품 전체]]></content>
     </entry>
 </feed>
