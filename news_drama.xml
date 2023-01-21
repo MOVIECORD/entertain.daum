@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-01-21T03:12:32.524Z</updated>
+    <updated>2023-01-21T04:13:56.764Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[송혜교는 물론 이보영·문가영도, 힘 있는 양반들 대신 싸우는 이것]]></title>
+        <id>https://v.daum.net/v/20230121130618426</id>
+        <link href="https://v.daum.net/v/20230121130618426"/>
+        <updated>2023-01-21T04:13:40.425Z</updated>
+        <content type="html"><![CDATA[[엔터미디어=정덕현의 네모난 세상] 우리 사회에서 태생적으로 그 미래를 결정하는 선은 어디에나 존재하는 걸까. 최근 등장한 드라마들 속 여주인공을 보면 저마다 그들 앞에 그어져 있는 선이 보인다. 넷플릭스 오리지널 드라마 &lt;더 글로리&gt;의 문동은(송혜교), JTBC 토일드라마 &lt;대행사&gt;의 고아인(이보영) 그리고 JTBC 수목드라마 &lt;사랑의 이해&gt;의 안수영(문]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[테러 당한 전도연x정경호..결국 갔다 경.찰.서]]></title>
         <id>https://v.daum.net/v/20230121115120819</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230121090102896"/>
         <updated>2023-01-21T00:56:55.631Z</updated>
         <content type="html"><![CDATA[[텐아시아=류예지 기자] 텐아시아는 2023년 새로운 출발을 준비하는 12명의 스타를 만났다. 설레는 귀성, 귀경길을 연예계를 대표하는 스타들과 라이징을 준비하는 신인들의 새해 포부로 채워진 인터뷰 시리즈로 채워 보길 제안한다. "드라마 2개에 연극 1개, 1년에 3개 작품을 했어요. 엄청 바쁘게 살았죠. 연극은 드럼 치는 역할이라 드라마 촬영 안]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['더 패뷸러스' 박희정 "모델로 진출한 해외, 연기로 도전하고파"]]></title>
-        <id>https://v.daum.net/v/20230121090018845</id>
-        <link href="https://v.daum.net/v/20230121090018845"/>
-        <updated>2023-01-21T00:56:55.633Z</updated>
-        <content type="html"><![CDATA[박희정(사진=고스트에이전시)[이데일리 스타in 김가영 기자] “모델로 외국 무대에서 활동을 했는데, 기회가 된다면 배우로도 도전해보고 싶어요.” 모델에서 배우로 활동 영역을 넓힌 박희정이 이같이 포부를 밝혔다. 최근 이데일리와 만나 인터뷰를 진행한 박희정은 “모델 활동을 하며 매거진과 인터뷰를 한 적이 있는데, 그때도 해외에서 연기를 해보고 싶다는 얘길]]></content>
     </entry>
 </feed>
