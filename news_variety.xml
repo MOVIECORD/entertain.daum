@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/variety</id>
     <title>다음 연예 ─ 뉴스 ─ 예능</title>
-    <updated>2023-01-21T17:09:58.035Z</updated>
+    <updated>2023-01-21T18:13:07.402Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[선우은숙 “아들 부부, 매주 처가댁 가도 안 서운..난 손주 못 봐줘”]]></title>
+        <id>https://v.daum.net/v/20230122021726566</id>
+        <link href="https://v.daum.net/v/20230122021726566"/>
+        <updated>2023-01-21T18:12:57.260Z</updated>
+        <content type="html"><![CDATA[[OSEN=김채연 기자] 선우은숙이 손주 케어에 대해 솔직한 생각을 전했다. 21일 방송된 MBN ‘속풀이쇼 동치미’에 출연한 선우은숙은 매주 처가댁에 가는 아들 부부에 대해 입을 열었다. 이날 선우은숙은 “아이가 있으면, 부부만 있을 때랑 또 다르다. 우리 아들도 시간만 나면 주말마다 처가댁에 간다. 어쩔 때는 차를 끌고 가고, 힘들면 기차를 타고 처]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[최정원 "♥남편, 차례·제사 안 지내서 편하다고 했는데…"]]></title>
         <id>https://v.daum.net/v/20230122011010467</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230121235235143"/>
         <updated>2023-01-21T15:11:14.381Z</updated>
         <content type="html"><![CDATA[[OSEN=최지연 기자] '전참시' 카더가든이 4글자 예명의 고충을 토로했다.&nbsp; 21일 방송된 MBC 예능프로그램 ‘전지적 참견 시점’(이하 '전참시')에서는 이국주, 카더가든이 참견인으로 출연한 가운데 카더가든이 4글자 예명 때문에 겪은 웃지 못할 에피소드를 전했다.&nbsp; 이날 전현무는 무더가든으로 변신해 ‘명동콜링’을 부르며 카더가든을 반겼다. 이를 들]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["내 팔자 거둬살리기" 김지민, ♥김준호 간접 언급 '폭소']]></title>
-        <id>https://v.daum.net/v/20230121235231142</id>
-        <link href="https://v.daum.net/v/20230121235231142"/>
-        <updated>2023-01-21T15:11:14.386Z</updated>
-        <content type="html"><![CDATA[[OSEN=최지연 기자] 코미디언 김지민이 김준호를 에둘러 언급했다.&nbsp; 21일 방송된 JTBC 예능 프로그램 '아는 형님'(이하 '아형')에는 설날 특집으로&nbsp;김지민, 박미선, 조혜련, 홍지윤, 미미, 유아, 신비, 은하가 게스트로 출연한 가운데 김지민이 공개 연애 중인 김준호를 간접적으로 언급해 눈길을 끌었다.&nbsp; 이날 신동은 최종 짝꿍 선택의 시간 전]]></content>
     </entry>
 </feed>
