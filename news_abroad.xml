@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-01-21T00:57:12.042Z</updated>
+    <updated>2023-01-21T02:14:43.659Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘억만장자’ 킴 카다시안, 이혼 후 ‘핫’한 행보..하버드 대학 강사로 활동]]></title>
+        <id>https://v.daum.net/v/20230121095934605</id>
+        <link href="https://v.daum.net/v/20230121095934605"/>
+        <updated>2023-01-21T02:14:43.066Z</updated>
+        <content type="html"><![CDATA[[OSEN=강서정 기자] 모델 겸 배우 킴 카다시안이 하버드 대학 객원강사로 활동하고 있다. 20일(현지시간) 미국 연예매체 TMZ 보도에 따르면 성공한 사업가인 킴 카다시안이 아이비 리그 학생들에게 강의를 했다. 카다시안은 이날 하버드 대학교의 경영대학원 하버드 비즈니스 스쿨에 강의를 위해 등장했고 2시간 동안 학생들에 자신의 회사에 대해 강의했다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['7일째 실종' 줄리안 샌즈, 항공 수색 재개.."눈사태 위험 有"]]></title>
+        <id>https://v.daum.net/v/20230121095904602</id>
+        <link href="https://v.daum.net/v/20230121095904602"/>
+        <updated>2023-01-21T02:14:43.076Z</updated>
+        <content type="html"><![CDATA[[OSEN=박소영 기자] 등산 중 실종된 영국 배우 줄리안 샌즈를 찾기 위한 항공 수색이 재개됐다. 20일(현지시각) BBC&nbsp;보도에 따르면 미국 캘리포니아 당국은 줄리안 샌즈에 대한 항공 수색을 재개한 상태다. 다만 지상 수색은 열악한 도로 상황으로 여전히 멈춰 있다. 줄리안 샌즈는 지난 13일 로스앤젤레스 북쪽, 가브리엘 산맥의 발디 보울 지역에서 마]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[LA타임스 “박찬욱 ‘헤어질 결심’, 아카데미 국제영화상 최종후보” 예측]]></title>
         <id>https://v.daum.net/v/20230121095217539</id>
@@ -81,12 +95,5 @@
         <link href="https://v.daum.net/v/20230120123521889"/>
         <updated>2023-01-20T04:15:01.429Z</updated>
         <content type="html"><![CDATA[[OSEN=박소영 기자] 싱어송라이터 겸 기타리스트 데이비드 크로스비가 별세했다. 19일(현지시각) 외신 보도에 따르면 데이비드 크로스비의 대변인 측은 전설의 사망 소식을 전했다. 향년 81세. 하지만 사망 원인은 밝혀지지 않았다. 데이비드 크로스비는 최근까지도 트위터를 통해 팬들과 소통했다. 사망 전날에는 천국에 대한 농담 메시지를 남겨 눈길을 끌었다]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['미국 포크록의 전설' 데이비드 크로스비 81세로 별세]]></title>
-        <id>https://v.daum.net/v/20230120102925025</id>
-        <link href="https://v.daum.net/v/20230120102925025"/>
-        <updated>2023-01-20T02:21:22.464Z</updated>
-        <content type="html"><![CDATA[(서울=연합뉴스) 김지연 김동호 기자 = 미국 포크록의 '산 증인'으로 불린 싱어송라이터 데이비드 크로스비가 19일(현지시간) 81세를 일기로 별세했다. 미국 연예 매체 버라이어티와 CNN 방송, 로이터 통신 등에 따르면 이날 고인의 부인 잰 댄스는 "우리가 사랑하는 데이비드 크로스비가 오랜 투병 끝에 세상을 떠나 매우 슬프다"고 밝혔다. 1941년 8월]]></content>
     </entry>
 </feed>
