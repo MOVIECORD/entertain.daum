@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2023-01-22T03:12:57.667Z</updated>
+    <updated>2023-01-22T04:13:49.284Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['천룡팔부' 견자단 "무협은 낭만적 재즈..액션은 하나의 음표"]]></title>
+        <id>https://v.daum.net/v/20230122130001825</id>
+        <link href="https://v.daum.net/v/20230122130001825"/>
+        <updated>2023-01-22T04:13:43.405Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 한해선 기자] 중국 배우 견자단이 19일 오후 서울 광진구 롯데시네마 건대입구점에서 진행된 영화 '천룡팔부: 교봉전' 언론시사회 및 기자간담회에 참석해 포즈를 취하고 있다.  '천룡팔부: 교봉전'은 북송 초기 송나라와 거란족의 요나라가 갈등을 겪던 시기를 배경으로, 거지 패거리 개방에 들어가 우두머리인 방주가 된 '교봉'(견자단 분)이 음모에 휩]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[스크린 속편대세는 to be continued…'노량''독전'부터 '미임파''듄'까지]]></title>
+        <id>https://v.daum.net/v/20230122122006607</id>
+        <link href="https://v.daum.net/v/20230122122006607"/>
+        <updated>2023-01-22T04:13:43.409Z</updated>
+        <content type="html"><![CDATA[[스포티비뉴스=유은비 기자] '노량', '독전', '미션 임파서블', '듄', '트랜스포머', '가디언스 오브 갤럭시'… 나열하기 입 아픈 속편 대전이 2023년 내내 펼쳐진다. 관객들에게 큰 사랑을 받았던 영화들이 속편으로 우리 곁을 찾는다. 1200만 관객을 돌파하며 신드롬 적 인기를 일으켰던 '범죄도시2'부터 현빈, 유해진, 다니엘 헤니의 삼각]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["츄, 스태프 먼저 챙겨주는 천사"…'지켜츄' 제작진도 자막 인증]]></title>
         <id>https://v.daum.net/v/20230122120133486</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230122104046715"/>
         <updated>2023-01-22T02:20:22.403Z</updated>
         <content type="html"><![CDATA[(서울=뉴스1) 장아름 기자 = '동상이몽2 - 너는 내 운명' 이지혜가 남편 문재완의 일일 매니저로 변신해 세무 영업까지 나선다. 오는 23일 오후 11시 방송되는 SBS '동상이몽2 - 너는 내 운명'(이하 '동상이몽2')에서는 남편의 일일 매니저가 된 이지혜와 문재완의 방송국 방문기가 그려진다. 최근 녹화 당시, 이지혜는 진행하던 라디오 프로그램에]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[송골매가 선사한 시간 여행, 엄마는 세 번 감탄했다]]></title>
-        <id>https://v.daum.net/v/20230122101804508</id>
-        <link href="https://v.daum.net/v/20230122101804508"/>
-        <updated>2023-01-22T02:20:22.404Z</updated>
-        <content type="html"><![CDATA[[이현파 기자] &nbsp;        ▲ &nbsp;KBS2 '설 대기획 송골매 콘서트 - 40년 만의 비행'    ⓒ KBS  &nbsp; "젊은 친구들이 우리 부모님 세대는 트로트만 좋아한다고 오해하는데, 사실 저희 세대가 가장 록 음악을 많이 들었던 세대거든요." KBS2 '설 대기획 송골매 콘서트 - 40년 만의 비행' 기자간담회에서 배철수가 한 말이다. KBS 대기획 콘]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['집사부일체2' 추신수, 녹화 中 SOS 요청 "도와주세요" 이유는?]]></title>
-        <id>https://v.daum.net/v/20230122100804404</id>
-        <link href="https://v.daum.net/v/20230122100804404"/>
-        <updated>2023-01-22T02:20:22.405Z</updated>
-        <content type="html"><![CDATA[[스포츠투데이 백지연 기자] '집사부일체' 야구계 레전드 이대호와 추신수가 세기의 맞대결을 펼친다. 22일 오후 4시 50분 방송되는 SBS ‘집사부일체’에는 야구계 살아있는 역사 추신수가 출연한다. 또한 그의 아내 하원미가 특별 출연해 특급 관리 비법을 공개할 예정이다. 이날 ‘집사부일체’ 양세형, 김동현, 은지원, 도영, 이대호, 뱀뱀은 “3가지의 가르]]></content>
     </entry>
 </feed>
