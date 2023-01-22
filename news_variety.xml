@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/variety</id>
     <title>다음 연예 ─ 뉴스 ─ 예능</title>
-    <updated>2023-01-22T18:14:18.084Z</updated>
+    <updated>2023-01-22T19:09:55.517Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['재혼' 장작가 "'김승현♥ 딸 수빈, 내게 언니라 호칭..데면데면 관계"]]></title>
+        <id>https://v.daum.net/v/20230123040524463</id>
+        <link href="https://v.daum.net/v/20230123040524463"/>
+        <updated>2023-01-22T19:09:44.191Z</updated>
+        <content type="html"><![CDATA[[OSEN=김수형 기자]‘걸어서 환장 속으로’에서 김승현 아내 장작가가 출연, 김승현 딸 수빈이에 대해 언급했다.&nbsp; 22일 방송된 KBS2TV 예능 ‘걸어서 환장 속으로’에서 김승현 부부가 출연했다.&nbsp; 두 사람 일상이 그려졌다. 김승현은 조심스럽게 “여행을 가족과 갈까 싶다”며 언급, 얼마 전 유럽으로&nbsp; 뒤늦게 신혼여행을 다녀왔기에 장작가는 이해하지 못]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[장우혁 母 "어딜 다녀도 내 아들 같은 사람 없어"]]></title>
         <id>https://v.daum.net/v/20230123011002373</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230122233412078"/>
         <updated>2023-01-22T15:10:43.853Z</updated>
         <content type="html"><![CDATA[배기성이 데뷔 30년만 길바닥 취침에 당황했다. 1월 22일 방송된 TV조선 여행 버라이어티 ‘낭만비박 집단가출’에서는 배기성이 첫 길바닥 취침에 도전했다. 이날 방송에서는 허영만, 신현준, 류시원, 배기성이 광주 여행을 계속했다. 배기성이 만든 족발찜과 류시원이 준비한 군고구마로 저녁식사를 한 이들은 곧 취침시간을 맞았다. 신현준은 “얘들아, 놀라]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[유재환, 공황장애 후유증→수면 삼매경…母 “안쓰럽다” 뭉클]]></title>
-        <id>https://v.daum.net/v/20230122233020059</id>
-        <link href="https://v.daum.net/v/20230122233020059"/>
-        <updated>2023-01-22T15:10:43.855Z</updated>
-        <content type="html"><![CDATA[[OSEN=유수연 기자]&nbsp;‘효자촌’ 가수 유재환의 먹먹한 사연이 눈길을 끌었다. 22일 방송된 ENA ‘효자촌’에서는 ‘효자 오락관’ 이후 집으로 귀가한 유재환과 그의 어머니의 모습이 담겼다. 캔 맥주를 마신 유재환은 “이렇게 녹작지근할 때 잠들어야 한다"며 그대로 취침에 들었다. 이후 잠에서 깬 유재환의 어머니는 홀로 효자촌에 남은 양준혁의 아버지를]]></content>
     </entry>
 </feed>
