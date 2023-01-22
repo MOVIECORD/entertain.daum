@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-01-22T00:59:48.748Z</updated>
+    <updated>2023-01-22T02:20:27.378Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[박환희가 이선균 누나? 10대→20대 다 되는 동안 끝판왕 재등장]]></title>
+        <id>https://v.daum.net/v/20230122104010713</id>
+        <link href="https://v.daum.net/v/20230122104010713"/>
+        <updated>2023-01-22T02:20:13.352Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 박아름 기자] 박환희가 10대에서 20대를 아우르는 캐릭터를 연기하며 동안 비주얼을 뽐냈다. 배우 박환희는 지난 1월 21일 방송된 SBS 금토드라마 ‘법쩐’(극본 김원석/연출 이원태) 6회에 은지희 10대 시절 모습으로 재등장했다. 은지희는 극 중 은용(이선균 분) 친누나이자 장태춘(강유석 분) 엄마다. 이날 방송에서 은지희는 경찰서에 갇힌]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘이슈픽 쌤과함께’ 120년 전 하와이로 간 한국 사람들]]></title>
+        <id>https://v.daum.net/v/20230122103155633</id>
+        <link href="https://v.daum.net/v/20230122103155633"/>
+        <updated>2023-01-22T02:20:13.353Z</updated>
+        <content type="html"><![CDATA[사진=KBS[이데일리 스타in 유준하 기자] 한국을 떠나 전 세계에 퍼져 사는 재외동포가 730만명에 달하는 가운데 우리나라 최초의 이민은 언제, 어떻게 시작된 것일까? KBS ‘이슈 PICK 쌤과 함께’는 이진영 인하대 국제관계연구소장을 초대해 ‘코리안 디아스포라’의 시작인 120년 전 인천과 하와이를 집중 조명한다. 지구촌 한인과 공공외교 전문가인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[박주현♥김영대, 드디어 결혼…꽉 닫힌 해피엔딩]]></title>
         <id>https://v.daum.net/v/20230122095538207</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230122083821401"/>
         <updated>2023-01-22T00:59:34.352Z</updated>
         <content type="html"><![CDATA[[OSEN=김채연 기자] 이보영이 조성하의 계략을 미리 알아채고 손나은을 이용했다. 21일 방송된 JTBC 토일드라마 ‘대행사’에서는 강한나(손나은 분)의 상무 취임 이후 본격적으로 고아인(이보영 분)과 최창수(조성하 분)가 ‘VC기획’ 내에서 힘싸움을 이어갔다. 상무 첫 취임과 함께 고아인에게 한방을 먹은 강한나는 돌아서는 고아인에게 “고아인 상무님?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['일타 스캔들' 전도연, 정경호 정체 알고 돌변..뜬금 취중 고백]]></title>
-        <id>https://v.daum.net/v/20230122083244357</id>
-        <link href="https://v.daum.net/v/20230122083244357"/>
-        <updated>2023-01-22T00:59:34.352Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 최혜진 기자] /사진=tvN'일타 스캔들' 전도연과 정경호의 관계에 새로운 변화가 찾아왔다. 22일 시청률 조사회사 닐슨코리아에 따르면 지난 21일 방송된 tvN 토일드라마 '일타 스캔들'(극본 양희승, 연출 유제원) 3회는 평균 5.1%, 최고 6.2%(이하 전국 유료플랫폼기준)를 나타냈다. 2049 시청률은 평균 2.5%, 최고 3%를 기록]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이보영은 다르다…"차원이 다른 힘" 손나은까지 대차게 이용]]></title>
-        <id>https://v.daum.net/v/20230122082935320</id>
-        <link href="https://v.daum.net/v/20230122082935320"/>
-        <updated>2023-01-22T00:59:34.353Z</updated>
-        <content type="html"><![CDATA[[OSEN=장우영 기자] 대행사’ 이보영의 크리에이티브한 예측 불허 전략은 끝이 없었다. 손나은까지 대차게 이용, 또다시 대행사를 발칵 뒤집은 것. 회를 거듭할수록 흥미진진해지는 전개로 시청률은 수도권 6.5%, 전국 5.9%를 기록했다. (닐슨코리아 제공, 유료가구 기준) 지난 21일 방송된 JTBC 토일드라마 ‘대행사’(극본 송수한, 연출 이창민.]]></content>
     </entry>
 </feed>
