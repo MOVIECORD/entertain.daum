@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-01-23T07:11:19.161Z</updated>
+    <updated>2023-01-23T08:16:03.291Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['교섭' 개봉 첫 주말 흥행 1위…'더 퍼스트 슬램덩크' 2위]]></title>
+        <id>https://v.daum.net/v/20230123162324509</id>
+        <link href="https://v.daum.net/v/20230123162324509"/>
+        <updated>2023-01-23T08:15:40.354Z</updated>
+        <content type="html"><![CDATA[[스포츠한국 조은애 기자] 영화 '교섭'이 개봉 첫 주말 극장가를 완벽히 사로잡았다. 23일 영진위 통합전산망 집계에 따르면 '교섭'은 지난 주말 3일동안(20~22일)&nbsp;48만6703명의 관객을 모아 박스오피스 1위를 차지했다. 누적 관객 수는&nbsp;66만691명이다. 이로써 '교섭'은 지난 18일 개봉 첫날 '아바타: 물의 길'을 꺾고 전체 박스오피]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘유령’ 설경구 “‘지천명 아이돌’ 감사...난 복 받은 사람”]]></title>
         <id>https://v.daum.net/v/20230123160900384</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230123113503319"/>
         <updated>2023-01-23T03:12:22.629Z</updated>
         <content type="html"><![CDATA[‘계묘년 토끼해’라 토끼 영화를 골랐느냐고? 딩동댕! 귀여운 외모의 토끼는 예부터 지혜롭고 민첩한 동물로 통한다. 반려동물인 개, 고양이 못지않게 동화·드라마·영화에서 주인공으로 자주 등장하기도 한다. 온라인동영상서비스(OTT)에서 설맞이 가족영화를 찾고 있다면 참고하시라! &lt;피터 래빗&gt;(2018) &lt;피터 래빗 2:파 프롬 가든&gt;(2022) 1920]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['유령'으로 돌아온 박소담…비 온 뒤 굳은 땅처럼 단단하게]]></title>
-        <id>https://v.daum.net/v/20230123110759080</id>
-        <link href="https://v.daum.net/v/20230123110759080"/>
-        <updated>2023-01-23T02:13:20.821Z</updated>
-        <content type="html"><![CDATA[2021년 12월 영화 '특송' 개봉을 앞두고 갑상선 유두암 진단을 받아 모든 활동을 중단했던 박소담이 차기작 '유령'과 함께 더 단단해진 모습으로 돌아왔다. '유령'은 1933년 경성, 조선총독부에 항일조직이 심어놓은 스파이 유령으로 의심받으며 외딴 호텔에 갇힌 용의자들이 의심을 뚫고 탈출하기 위해 벌이는 사투와 진짜 유령의 멈출 수 없는 작전을 그린 스]]></content>
     </entry>
 </feed>
