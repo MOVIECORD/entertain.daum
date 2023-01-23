@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2023-01-23T20:12:40.027Z</updated>
+    <updated>2023-01-23T21:10:27.590Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘더 퍼스트 슬램덩크’ 설 연휴 극장가 역주행 덩크슛 성공]]></title>
+        <id>https://v.daum.net/v/20230124060004983</id>
+        <link href="https://v.daum.net/v/20230124060004983"/>
+        <updated>2023-01-23T21:10:21.895Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 김범석 전문기자] 일본 애니메이션 ‘더 퍼스트 슬램덩크’가 계묘년 설 연휴 극장가 최대 복병이 됐다. 당초 ‘유령’ ‘교섭’에 밀릴 것이란 예상을 깨고 1월 19일부터 놀라운 역주행을 보여주며 연휴 기간 박스 2~3위를 지켰다. 1위는 '교섭'이었다. 지난 1월 4일 개봉한 ‘더 퍼스트 슬램덩크’는 ▲12세 관람가에 ▲스포츠 소재 ▲만화 영화라는]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이지혜, 문재완에 하차 경험 고백…예능국 열혈 홍보]]></title>
         <id>https://v.daum.net/v/20230124051002752</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230123235419194"/>
         <updated>2023-01-23T15:12:38.765Z</updated>
         <content type="html"><![CDATA[[스포츠조선닷컴 김준석 기자] 가수 겸 배우 임창정과 아내 서하얀이 '사업' 때문에 또 갈등 상황을 맞았다. 23일 방송된 SBS '동상이몽2 - 너는 내 운명'에서는 임창정, 서하얀 부부가 사찰을 방문하는 모습이 그려졌다. 이날 임창정과 서하얀은 서울 도심의 한 사찰을 찾았다. 불상 앞에서 108배를 하고 있던 임창정 옆에는 개그]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[양은지 "♥이호, 은퇴 후 갑자기 집안일해서 부담"]]></title>
-        <id>https://v.daum.net/v/20230123233603150</id>
-        <link href="https://v.daum.net/v/20230123233603150"/>
-        <updated>2023-01-23T15:12:38.766Z</updated>
-        <content type="html"><![CDATA[[스포츠투데이 송오정 기자] 양은지가 남편 이호의 현역 선수 은퇴 후 고충을 고백했다. 23일 방송된 SBS '동상이몽2-너는 내 운명'(이하 '동상이몽2')에 스페셜MC로 양은지가 출연했다. 양은지는 축구선수 이호의 아내이자, '골 때리는 그녀들'에서 국대패밀리 골키퍼로 활약 중이다. 2009년 결혼해 세 딸을 키우며 15년째 알콩달콩 결혼 생활을 이어가]]></content>
     </entry>
 </feed>
