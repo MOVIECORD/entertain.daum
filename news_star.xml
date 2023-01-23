@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2023-01-23T17:11:51.426Z</updated>
+    <updated>2023-01-23T18:13:18.351Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['동상이몽2' 임창정, 템플 스테이 중에도 '사업 아이템' 구상…절친 윤택과 '찰떡 케미']]></title>
+        <id>https://v.daum.net/v/20230124030301607</id>
+        <link href="https://v.daum.net/v/20230124030301607"/>
+        <updated>2023-01-23T18:13:13.234Z</updated>
+        <content type="html"><![CDATA[[SBS연예뉴스 | 김효정 에디터] 임창정이 윤택과 찰떡 케미를 뽐냈다. 23일 방송된 SBS '동상이몽 시즌2-너는 내 운명'(이하 '동상이몽2')에서는 템플 스테이를 떠난 임창정 서하얀 부부의 모습이 그려졌다. 이날 방송에서 임창정 부부와 윤택은 뽕잎밥부터 유부만두까지 건강한 반찬이 가득한 공양을 했다. 하지만 임창정은 풀만 가득한 밥상에 불만족스러워하]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['동상이몽2' 양은지, "남편 이호, 해외팀으로 가버렸으면" 불만 토로]]></title>
         <id>https://v.daum.net/v/20230124013300526</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230123233152128"/>
         <updated>2023-01-23T15:12:38.773Z</updated>
         <content type="html"><![CDATA[(서울=뉴스1) 박하나 기자 = '동상이몽2' 서하얀이 남편 임창정의 습관을 폭로했다. 23일 오후에 방송된 SBS 예능 프로그램 '동상이몽2-너는 내 운명'(이하 '동상이몽2')에서 축구선수 이호의 아내이자 '골때녀' 국대패밀리 골키퍼로 활약 중인 가수 양은지가 스페셜 MC로 함께했다. 양은지는 이호의 손발톱을 직접 관리한다고 전하며 "하얗게 자라나는]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[양은지 "남편 이호, 은퇴 후 출퇴근…멀리 갔으면" 고백]]></title>
-        <id>https://v.daum.net/v/20230123232040103</id>
-        <link href="https://v.daum.net/v/20230123232040103"/>
-        <updated>2023-01-23T15:12:38.774Z</updated>
-        <content type="html"><![CDATA[(서울=뉴스1) 박하나 기자 = 가수 양은지가 '동상이몽2'에 출연해 남편인 축구선수 이호와의 근황을 전했다. 23일 오후에 방송된 SBS 예능 프로그램 '동상이몽2-너는 내 운명'(이하 '동상이몽2')에서 축구선수 이호의 아내이자 '골때녀' 국대패밀리 골키퍼로 활약 중인 가수 양은지가 스페셜 MC로 함께했다. 양은지는 현재 남편 이호가 축구 선수 은]]></content>
     </entry>
 </feed>
