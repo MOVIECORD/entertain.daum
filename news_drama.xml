@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-01-23T06:14:34.242Z</updated>
+    <updated>2023-01-23T07:11:19.163Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["그렇게 웃지 마" 송혜교 절규·이도현 오열...'더 글로리' 파트2 예고]]></title>
+        <id>https://v.daum.net/v/20230123160900383</id>
+        <link href="https://v.daum.net/v/20230123160900383"/>
+        <updated>2023-01-23T07:11:03.704Z</updated>
+        <content type="html"><![CDATA[[TV리포트 = 하수나 기자] ‘더 글로리' 파트2 예고 영상이 공개된 가운데 송혜교의 절규하는 장면이 포착돼 궁금증을 고조시키고 있다.&nbsp; 23일 넷플릭스 코리아 유튜브 채널에는 ‘더 글로리 스페셜 영상: 그리운 연진에게“라는 제목의 영상이 공개됐다.&nbsp; 영상에는 “그리운 연진에게”로 시작해 문동은이 학창시절 자신을 괴롭혔던 박연진에게 쓰는 마지막 편지가 공]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['사랑의 이해', 현실 공감 멜로의 정수]]></title>
         <id>https://v.daum.net/v/20230123142844618</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230123104224846"/>
         <updated>2023-01-23T02:13:25.999Z</updated>
         <content type="html"><![CDATA[[뉴스엔 박아름 기자] 김혜화가 '법쩐' 시청자들의 뜨거운 지지를 받고 있다. 배우 김혜화는 SBS 금토드라마 ‘법쩐’(극본 김원석/연출 이원태)에서 워싱턴 로비스트 출신 사모펀드 ‘체인지’ 대표 홍한나 역으로 열연 중이다. 홍한나는 자본 시장 및 정재계를 아우르는 마당발을 자랑해 일명 ‘홍마당’이라 불리며 돈 장사꾼 은용(이선균 분)과 완벽한 파트너십]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[손나은 각성 "앞으로 우유에 빨대 안 꽂아 주셔도 된다"]]></title>
-        <id>https://v.daum.net/v/20230123104219844</id>
-        <link href="https://v.daum.net/v/20230123104219844"/>
-        <updated>2023-01-23T02:13:26.000Z</updated>
-        <content type="html"><![CDATA[[OSEN=최나영 기자] '대행사' 손나은이 반격을 예고하며 재미와 흥미를 유발했다. 손나은은 JTBC 토일드라마 '대행사(극본 송수한, 연출 이창민)' 5, 6회에서 VC 기획 SNS 본부장으로서 본격적인 활약을 기대하게 했다. 강한나(손나은 분)는 손익 계산을 앞세운 고아인(이보영 분)의 제안을 받아들여 업계 혁신에 앞장서는 인물로 인터뷰를 하며 성]]></content>
     </entry>
 </feed>
