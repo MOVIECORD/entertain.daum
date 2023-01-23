@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-01-23T04:14:28.724Z</updated>
+    <updated>2023-01-23T05:11:49.053Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[AI처럼 차갑게 굴던 강수연이 눈물을 쏟아낼 때]]></title>
+        <id>https://v.daum.net/v/20230123133652215</id>
+        <link href="https://v.daum.net/v/20230123133652215"/>
+        <updated>2023-01-23T05:11:26.861Z</updated>
+        <content type="html"><![CDATA[[엔터미디어=정덕현의 그래서 우리는] (본문 중 영화 내용의 누설이 있습니다. 영화를 관람하실 분들은 참고 바랍니다.) 2194년 기후변화로 인해 해수면이 상승되면서 인류는 우주로 나간다. 지구와 달의 궤도면 사이에 인류가 살 수 있는 쉘터가 마련되고 수십 년에 걸쳐 그 곳으로 사람들이 이주한다. 하지만 일부 쉘터가 스스로를 아드리안 자치국으로 선언하며 지]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[정우성→옹성우 '유령' 극장 관람 호평 "어마어마하다"]]></title>
+        <id>https://v.daum.net/v/20230123132510102</id>
+        <link href="https://v.daum.net/v/20230123132510102"/>
+        <updated>2023-01-23T05:11:26.864Z</updated>
+        <content type="html"><![CDATA[[OSEN=김보라 기자]&nbsp;끝까지 긴장을 놓을 수 없는 스토리와 호쾌한 장르 변주, 통쾌한 액션으로 폭풍처럼 휘몰아친 스파이 액션 영화라는 호평을 받은 이해영 감독의 '유령'이 개봉 첫 주 한국영화 박스오피스 2위를 기록했다. 이에 개봉 2주차에도 흥행세를 이어갈 전망이다. 영화 '유령'(감독 이해영,&nbsp;제공배급 CJ ENM, 제작 더 램프)은 1933년]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['AI 그녀'가 춤을 추면 살인이 시작된다…영화 '메간']]></title>
         <id>https://v.daum.net/v/20230123131105020</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230123100045349"/>
         <updated>2023-01-23T02:13:20.826Z</updated>
         <content type="html"><![CDATA[[스타뉴스 김미화 기자] /사진=더 글로리 배우 송혜교가 훨훨 날고 있다. 지난해 연말 넷플릭스를 통해 전세계에 공개 된 '더 글로리'는 '넷플릭스 TOP 10 웹사이트'에서 누적 1억 4800만 시청 시간을 기록하며 3주 연속 TOP 10 진입했다. 공개 3주 차에도 대한민국을 포함한 8개국에서 1위를 달리며 K-콘텐츠의 저력을 전 세계에 보여주고 있다]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['아바타2' 전세계 역대 흥행 톱6 영화 등극..카메론 해냈다 '속편GO']]></title>
-        <id>https://v.daum.net/v/20230123094018075</id>
-        <link href="https://v.daum.net/v/20230123094018075"/>
-        <updated>2023-01-23T00:54:55.032Z</updated>
-        <content type="html"><![CDATA[[OSEN=최나영 기자] 제임스 카메론이 입증했다! 제임스 카메론 감독의 서사 SF 영화 '아바타 : 물의 길'(이하 아바타2)이 흥행 수익 20억 달러(2조 4,700억 원)를 돌파한 가운데&nbsp;'역대 6번째로 높은 수익을 올린 영화'가 됐다. '아바타2'는&nbsp;시각 효과 기술의 혁신으로 찬사를 받은 후 6주 만에 전 세계 박스 오피스에서 수익 20억 달러를]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["살아있다고 느껴"..'열일'하는 서현우, 장르 불문 존재감]]></title>
-        <id>https://v.daum.net/v/20230123090005500</id>
-        <link href="https://v.daum.net/v/20230123090005500"/>
-        <updated>2023-01-23T00:54:55.032Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 김나연 기자] 배우 서현우가 19일 오전 서울 용산구 아이파크몰 CGV에서 진행된 영화 '유령' 제작보고회에 참석해 인사말을 하고 있다.  '유령'은 1933년 경성, 조선총독부에 항일조직이 심어놓은 스파이 '유령'으로 의심받으며 외딴 호텔에 갇힌 용의자들이 의심을 뚫고 탈출하기 위해 벌이는 사투와 진짜 '유령'의 멈출 수 없는 작전을 그린다.]]></content>
     </entry>
 </feed>
