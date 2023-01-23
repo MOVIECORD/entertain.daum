@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/variety</id>
     <title>다음 연예 ─ 뉴스 ─ 예능</title>
-    <updated>2023-01-23T03:12:44.580Z</updated>
+    <updated>2023-01-23T04:14:28.731Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['두발로 티켓팅' 주지훈→민호, 공개 하자마자 터졌다…화제성↑]]></title>
+        <id>https://v.daum.net/v/20230123123455759</id>
+        <link href="https://v.daum.net/v/20230123123455759"/>
+        <updated>2023-01-23T04:14:17.432Z</updated>
+        <content type="html"><![CDATA[[OSEN=김보라 기자]&nbsp;하정우, 주지훈, 민호(최민호), 여진구가 색다른 매력을 대방출하며 뜨거운 화제를 모으고 있다. 설 연휴를 앞둔 지난 20일(금) 첫 공개된 티빙 오리지널 예능 '두발로 티켓팅'은 공개 당일 실시간 인기프로그램 순위 1위를 찍으며 인기를 입증했다. 특히 설 연휴 기간 티빙 전체 오리지널 중 시청UV 1위를 기록, 폭발적인 화제성]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[하정우X주지훈X최민호X여진구 ‘두발로 티켓팅’ 설 연휴 시청 UV 1위]]></title>
+        <id>https://v.daum.net/v/20230123121635682</id>
+        <link href="https://v.daum.net/v/20230123121635682"/>
+        <updated>2023-01-23T04:14:17.432Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 박아름 기자] 배우 하정우, 주지훈, 최민호, 여진구 반전매력이 통했다. 설 연휴를 앞두고 지난 1월 20일 첫 공개된 티빙 오리지널 '두발로 티켓팅'은 공개 당일 실시간 인기프로그램 순위 1위를 차지했다. 특히 설 연휴 기간 티빙 전체 오리지널 중 시청UV 1위에 등극하기도 했다. '두발로 티켓팅' 1, 2화에서는 '여행보내Dream단(이하 ']]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘태계일주’ 시즌1 유종의 미…기안84, 다음 여행지 북한? '기대감 UP']]></title>
         <id>https://v.daum.net/v/20230123121220668</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230123105540961"/>
         <updated>2023-01-23T02:13:31.209Z</updated>
         <content type="html"><![CDATA[[OSEN=유수연 기자] 박술녀가 가족을 향한 미안함을 고백한다. 24일 방송되는 KBS2 '박원숙의 같이 삽시다'에서는 자매들이&nbsp;손님맞이를 위해 꽃꽂이하는 등 분주한 모습을 보이며 특별한 손님의 방문을 예고했다.&nbsp;박원숙이 버선발로 달려 나가 맞이한 손님의 정체는 바로 한복 명인&nbsp;박술녀. 박원숙은&nbsp;박술녀와 손을 꼭 맞잡으며 두 사람의 특별한 인연을 밝혔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[임창정, 또 새 사업 추진? 서하얀 "비상금이 있냐" 정색]]></title>
-        <id>https://v.daum.net/v/20230123105040923</id>
-        <link href="https://v.daum.net/v/20230123105040923"/>
-        <updated>2023-01-23T02:13:31.211Z</updated>
-        <content type="html"><![CDATA[[OSEN=장우영 기자] ‘동상이몽2-너는 내 운명’ 서하얀이 임창정을 위한 특단의 조치에 돌입한다. 23일 방송되는 SBS ‘동상이몽2 - 너는 내 운명’에서는 임창정, 서하얀 부부가 사찰을 방문하는 모습이 그려진다. 최근 임창정, 서하얀 부부가 서울 도심의 한 사찰을 찾았다. 올해로 만 50세가 된 임창정은 사업, 취미, 음주 가무 등 본업보다 열심]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['장보리 비단이' 김지영, 빚투 의혹…前남친·이상재 폭로→댓글 삭제ing]]></title>
-        <id>https://v.daum.net/v/20230123105002919</id>
-        <link href="https://v.daum.net/v/20230123105002919"/>
-        <updated>2023-01-23T02:13:31.212Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 이예진 기자) 아역배우 출신 김지영이 '빚투' 의혹에 휩싸였다. 22일 김지영의 전 남자친구라고 밝힌 A씨는 "폭로 안 하려고 했다가 6개월 고민하고 올린다. 동거 했었다"며 김지영을 언급했다. 이어 "친구가 가정폭력을 당해서 집에 빚이 몇억이 있는데도 불구하고 저희 어머니 아버지가 빚내서 지영이 자취방 잡아줬다. 월세도 물론 저희 부모님이]]></content>
     </entry>
 </feed>
