@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-01-24T00:59:37.020Z</updated>
+    <updated>2023-01-24T02:16:12.063Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['섭식장애' 테일러 스위프트 "살쪄 사이즈 0→6, 더 행복해"..레이디 가가 응원]]></title>
+        <id>https://v.daum.net/v/20230124102624074</id>
+        <link href="https://v.daum.net/v/20230124102624074"/>
+        <updated>2023-01-24T02:16:11.373Z</updated>
+        <content type="html"><![CDATA[[OSEN=최나영 기자] 가수&nbsp;테일러 스위프트가 섭식 장애로 고통받은 이야기를 솔직히 털어놓은 가운데 가수 겸 배우 레이디 가가가 응원을 보냈다.&nbsp; 2020년 공개된 테일러&nbsp;스위프트가 주인공인 넷플릭스 오리지널 다큐멘터리 ‘미스 아메리카나’에서&nbsp;스위프트는 자신의 섭식장애에 대해 솔직히 고백했는데 가가는 이에 공개적으로&nbsp;박수를 보낸 것. 가가는 최근 이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[벤 애플렉 전∙현 아내 '두 제니퍼', 가족행사 쿨한 만남..딸 음악회]]></title>
         <id>https://v.daum.net/v/20230124080419190</id>
@@ -60,12 +67,5 @@
         <link href="https://v.daum.net/v/20230123123200752"/>
         <updated>2023-01-23T04:14:28.145Z</updated>
         <content type="html"><![CDATA[[TV리포트=박설이 기자]일본 주간지가 아무로 나미에의 복귀설을 제기한 가운데, 또 다른 매체가 복귀설을 일축하는 보도를 냈다. 최근 일본 매체 주간여성은 1월초 현지 가십지인 여성자신이 아무로 나미에가 한국 엔터사와 복귀를 위해 물밑 작업 중이라고 보도한 데 아무로 나미에 측 입장을 전했다. 한 방송 관계자는 주간여성에 "아무로 나미에도 복귀 보도에 놀란]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[알렉 볼드윈, 총기 사망 사고에도 영화 출연 강행..“안전 감독관 의무화”]]></title>
-        <id>https://v.daum.net/v/20230123102956701</id>
-        <link href="https://v.daum.net/v/20230123102956701"/>
-        <updated>2023-01-23T02:13:41.296Z</updated>
-        <content type="html"><![CDATA[[OSEN=지민경 기자] 할리우드 배우 알렉 볼드윈이 총기 사망 사고로 과실 치사 혐의를 받고 있는 가운데 영화 ‘Rust’ 제작을 강행한다. 22일(현지 시간) 미국 매체 엔터테인먼트 투나잇 보도에 따르면 알렉 볼드윈은 총기 사망 사고가 발생한 영화 ‘Rust’에 계속 출연한다. ‘Rust’는 몇 달 안에 제작이 재개될 예정이다. ‘Rust’ 제작사의]]></content>
     </entry>
 </feed>
