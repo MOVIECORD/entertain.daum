@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2023-01-24T10:12:32.269Z</updated>
+    <updated>2023-01-24T11:10:06.604Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["♥주진모 때문에 보톡스→성형해도 몰라" '미쓰와이프', 거침 없는 폭로]]></title>
+        <id>https://v.daum.net/v/20230124195127221</id>
+        <link href="https://v.daum.net/v/20230124195127221"/>
+        <updated>2023-01-24T11:10:00.840Z</updated>
+        <content type="html"><![CDATA[[스포츠조선닷컴 이우주 기자] '미쓰와이프'들이 거침없는 남편 폭로로 분위기를 달궜다. 24일 방송된 MBC 예능프로그램 '미쓰와이프'에서는 본격 남편 자랑이 시작됐다. '미쓰 와이프'들은 넘버원이 되기 위해 각자 남편의 자랑을 하기로 했다. 민혜연은 "저희 남편이 거칠어 보이지만 되게 감성적이고 친절한 팩폭남"이라며 "'기분 나쁘게 생각]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["첫 시상식에 단체상"..김신비, '대상' 김남길 포옹받은 신예]]></title>
         <id>https://v.daum.net/v/20230124190752878</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230124165207195"/>
         <updated>2023-01-24T08:14:42.340Z</updated>
         <content type="html"><![CDATA[[티브이데일리 황서연 기자] ‘순정 파이터’에서 자존심을 건 1대 1 대결이 펼쳐진다. 25일 방송하는 SBS 예능프로그램 ‘순정 파이터’에서는 ‘격투계의 월드 클래스’ 추성훈 김동현 정찬성 최두호 4인방이 준비한 지옥의 합숙 훈련이 공개된다. 특별히 생생한 현장감을 전달하기 위해 각 팀의 히든 서포터즈인 김민경, 박나래가 정찬성, 김동현과 함께 스튜디오에]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이시영, 안전불감증 논란 불구..'子 업고 등산' 또 SNS 게재]]></title>
-        <id>https://v.daum.net/v/20230124162051849</id>
-        <link href="https://v.daum.net/v/20230124162051849"/>
-        <updated>2023-01-24T08:14:42.342Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 한해선 기자] /사진=이시영/사진=이시영 배우 이시영이 아이를 업고 한라산에 오른 사진을 추가로 공개했다. 이시영은 24일 "한라산 새해맞이♡"라며 사진을 다수 공개했다. 사진 속에는 이시영이 아들 정윤 군을 등에 업고 한라산을 등반한 모습이 담겨 있었다. 이시영은 한라산의 설산을 힘겹게 오르면서도 뿌듯해하는 미소를 짓고 있었다. 이시영은]]></content>
     </entry>
 </feed>
