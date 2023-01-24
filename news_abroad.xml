@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-01-24T21:10:52.468Z</updated>
+    <updated>2023-01-24T22:10:55.760Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[500억 광고빨?…멀티밤 ‘가히’ 재기 신화의 실체]]></title>
+        <id>https://v.daum.net/v/20230125071003252</id>
+        <link href="https://v.daum.net/v/20230125071003252"/>
+        <updated>2023-01-24T22:10:55.099Z</updated>
+        <content type="html"><![CDATA[화장품 론칭 1년반 만에 총판매량 1500만개. 당신은 화장품 브랜드 ‘가히’(KAHI)'에 대해 얼마나 아는가. 스틱형 멀티밤? 배우 김고은? 인기 드라마 ‘이상한 변호사 우영우’ 간접광고(PPL)? …. 그럴까봐 준비했다.&nbsp; ‘가히’ 판매업체 코리아테크 창업자의 재기 신화에 가려진 지배구조를 들춰보면 얘기는 더 풍성해진다. 한 해 많게는 500억원에 달]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[아시안 파워 '에브리씽', 美 아카데미상 11개 최다 후보]]></title>
         <id>https://v.daum.net/v/20230125030611289</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230124102624074"/>
         <updated>2023-01-24T02:16:11.373Z</updated>
         <content type="html"><![CDATA[[OSEN=최나영 기자] 가수&nbsp;테일러 스위프트가 섭식 장애로 고통받은 이야기를 솔직히 털어놓은 가운데 가수 겸 배우 레이디 가가가 응원을 보냈다.&nbsp; 2020년 공개된 테일러&nbsp;스위프트가 주인공인 넷플릭스 오리지널 다큐멘터리 ‘미스 아메리카나’에서&nbsp;스위프트는 자신의 섭식장애에 대해 솔직히 고백했는데 가가는 이에 공개적으로&nbsp;박수를 보낸 것. 가가는 최근 이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[벤 애플렉 전∙현 아내 '두 제니퍼', 가족행사 쿨한 만남..딸 음악회]]></title>
-        <id>https://v.daum.net/v/20230124080419190</id>
-        <link href="https://v.daum.net/v/20230124080419190"/>
-        <updated>2023-01-23T23:11:29.584Z</updated>
-        <content type="html"><![CDATA[[OSEN=최나영 기자] 벤의 '두 젠'이 만났다. 데일리메일의 23일(현지시간) 보도에 따르면 가수 겸 배우 제니퍼 로페즈와 그의 남편인 배우 겸 감독 벤 애플렉은 최근 애플렉의 전 부인인 배우 제니퍼 가너와 함께 가족 행사를 참여했다. 이들은 지난 일요일 미국 캘리포니아 산타모니카의 한 공연장에&nbsp;그들의 아이들과 함께 있는 것이 목격됐다. 이 만남은]]></content>
     </entry>
 </feed>
