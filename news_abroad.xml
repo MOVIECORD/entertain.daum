@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-01-25T19:09:37.402Z</updated>
+    <updated>2023-01-25T20:12:27.199Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[美 매체 "하이브 아메리카 단독 CEO에 스쿠터 브라운"]]></title>
+        <id>https://v.daum.net/v/20230126043632381</id>
+        <link href="https://v.daum.net/v/20230126043632381"/>
+        <updated>2023-01-25T20:12:26.503Z</updated>
+        <content type="html"><![CDATA[(로스앤젤레스=연합뉴스) 정윤섭 특파원 = 그룹 방탄소년단(BTS)과 뉴진스 등을 거느린 엔터테인먼트 기업 하이브의 미국 현지법인이 스쿠터 브라운 단독 최고경영자(CEO) 체제로 변경됐다고 25일(현지시간) 미 연예매체 버라이어티가 보도했다. 버라이어티는 브라운이 하이브의 윤석준 글로벌 CEO와 함께 하이브 아메리카에서 공동 CEO로 활동했으나 현재 단독]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["48세 디카프리오, 여전히 클럽 다녀 좋더라" 美 여배우 고백]]></title>
         <id>https://v.daum.net/v/20230125230005578</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230125131002063"/>
         <updated>2023-01-25T04:14:37.738Z</updated>
         <content type="html"><![CDATA[(엑스포츠뉴스 명희숙 기자) 구준엽과 서희원(시쉬위안) 부부가 이혼 한다는 루머가 중국에서 등장했다. 최근 동방일보 등 중국 현지언론은 중화권 유튜브를 중심으로 구준엽이 서희원에게 이혼을 요구했다는 루머가 퍼지고 있다고 보도했다. 해당 영상에서는 구준엽이 서희원과의 결혼을 후회하고 있으며, 이에 서희원에게 이혼을 요구했다는 내용을 담고 있다.&nbsp; 아무런 근거]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[스물아홉 저스틴 비버, 290여곡 저작권 2억 달러에 매각]]></title>
-        <id>https://v.daum.net/v/20230125130703998</id>
-        <link href="https://v.daum.net/v/20230125130703998"/>
-        <updated>2023-01-25T04:14:37.738Z</updated>
-        <content type="html"><![CDATA[캐나다 출신 팝스타 저스틴 비버(29)가 290개 이상 자신의 음악 저작권을 2억 달러(약 2470억원) 넘는 가격에 팔아넘겼다. 얼마 전부터 유명 팝스타들이 앞다퉈 저작권이나 인접권 등을 음악 전문 회사에 양도하고 있는데 21세기 가장 많이 팔리는 아티스트 중의 한 명이며 이제 스물아홉 밖에 안된 비버가 그 대열에 합류한 것이다. 연예 매체 버라이어티와]]></content>
     </entry>
 </feed>
