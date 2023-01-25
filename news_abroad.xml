@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-01-25T05:11:15.939Z</updated>
+    <updated>2023-01-25T06:14:59.649Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[中 누리꾼 “양자경, 중국 설 축하 안 해?”…설날 표기에 ’발끈’]]></title>
+        <id>https://v.daum.net/v/20230125145221090</id>
+        <link href="https://v.daum.net/v/20230125145221090"/>
+        <updated>2023-01-25T06:14:59.007Z</updated>
+        <content type="html"><![CDATA[[OSEN=유수연 기자]&nbsp;배우 양자경을 포함한 할리우드에서 활동 중인 중국계 배우들이 설 인사 후 중국 누리꾼들로부터 비난을 받고 있다. 24일 말레이시아 중문 매체 성주망 등은 디즈니플러스 새 시리즈인 ‘아메리칸 본 차이니즈'의 주인공인 배우 양자경과 다니엘 우(오언조)가 명절을 맞아 공개한 영상 인사에서 ‘차이니즈 뉴 이어'(Chinese New Y]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[저스틴 비버, 2466억원에 291곡 저작권 넘겼다]]></title>
         <id>https://v.daum.net/v/20230125140236438</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230125030611289"/>
         <updated>2023-01-24T18:14:11.411Z</updated>
         <content type="html"><![CDATA[(로스앤젤레스=연합뉴스) 정윤섭 특파원 = 아시아계 배우들이 열연을 펼친 SF 코미디 영화 '에브리씽 에브리웨어 올 앳 원스'(이하 '에브리씽')가 미국 아카데미상(오스카상) 최다 후보에 올랐다. '에브리씽'은 24일(현지시간) 미 영화예술과학아카데미(AMPAS)가 공개한 제95회 시상식 후보 명단에서 10개 부문 11개 후보(여우조연상 부문서 후보 2명)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[드류 배리모어 "48세 디카프리오, 여전히 클럽 다니며 총각생활..난 좋다"]]></title>
-        <id>https://v.daum.net/v/20230124194026142</id>
-        <link href="https://v.daum.net/v/20230124194026142"/>
-        <updated>2023-01-24T11:10:05.971Z</updated>
-        <content type="html"><![CDATA[[OSEN=최나영 기자] 배우 드류 배리모어(47)가 배우&nbsp;레오나르도 디카프리오(48)의&nbsp;거친(?) 독신 생활에&nbsp;호감을 드러냈다. 드류 베리모어는 최근&nbsp;자신이 진행하는 '드류 배리모어' 토크쇼에서 신보 발매를 앞둔 영국 출신 가수 샘 스미스(30)와 이야기를 나눴다. 대화 중&nbsp;배리모어는 '총각' 레오나르도 디카프리오의 분주한 사회 생활에 대해 농담을 했]]></content>
     </entry>
 </feed>
