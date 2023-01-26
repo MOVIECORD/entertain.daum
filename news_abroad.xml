@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-01-26T07:11:27.734Z</updated>
+    <updated>2023-01-26T08:15:00.616Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['뼈 30개 골절' 제레미 레너, 알고보니 성인 조카 구하려다 사고]]></title>
+        <id>https://v.daum.net/v/20230126164418921</id>
+        <link href="https://v.daum.net/v/20230126164418921"/>
+        <updated>2023-01-26T08:14:59.938Z</updated>
+        <content type="html"><![CDATA[[OSEN=최나영 기자] '호크아이' 제레미 레너(52)가 알고보니&nbsp;조카를 구하려다 제설차&nbsp;사고를 당했다. 미국 네바다주 당국이 발표한 사건 보고서에 따르면 제레미 레너는 조카가&nbsp;제설기에 치이지 않도록 구하려 했다고 25일(현지시간) CNN이 보도했다. 사고는 레너가&nbsp;가슴 외상과 정형외과적 부상을&nbsp;입고 30개 이상의 뼈가 부러지는 결과를 가져왔다. 보고]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[英 줄리안 샌즈, 실종 2주째…친동생 "형의 죽음 받아들이기로"]]></title>
         <id>https://v.daum.net/v/20230126155115884</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230125230005578"/>
         <updated>2023-01-25T14:11:09.159Z</updated>
         <content type="html"><![CDATA[할리우드 배우 드류 배리모어(47)가 레오나르도 디카프리오(48)의 거침 없는 독신 생활에 대한 호감을 드러냈다. 드류 배리모어는 지난 23일(현지시간) 자신이 진행하는 토크쇼 '드류 배리모어 쇼'에서 신보 발매를 앞둔 영국 출신 가수 샘 스미스(30)와 이야기를 나눴다. 이날 방송에서는 풍선을 터뜨린 뒤 안에 들어있는 질문에 답하는 '팝 퀴즈' 코너]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[줄리안 샌즈, 실종 2주째... 친동생 “이미 사망한 듯” 절망]]></title>
-        <id>https://v.daum.net/v/20230125213130716</id>
-        <link href="https://v.daum.net/v/20230125213130716"/>
-        <updated>2023-01-25T13:19:21.261Z</updated>
-        <content type="html"><![CDATA[[TV리포트=이혜미 기자] 하이킹 중 실종된 할리우드 배우 줄리안 샌즈의 행방이 여전히 오리무중이다. 25일(현지시간) 현지 매체들에 따르면 지난 13일 미국 캘리포니아 주 샌 게이브리얼 산맥으로 하이킹을 나섰던 샌즈가 볼디 볼 지역에서 실종된 가운데 같은 지역에서 실종됐던 등산객이 생존 상태로 발견됐다. 그러나 샌즈의 행방은 여전히 묘연한 상황으로 당국이]]></content>
     </entry>
 </feed>
