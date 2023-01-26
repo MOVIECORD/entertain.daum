@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-01-25T23:13:04.921Z</updated>
+    <updated>2023-01-26T01:05:22.746Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[브리트니 팬들, 경찰에 "상태 봐달라" 직접 신고..7번째 SNS계정 삭제 이유]]></title>
+        <id>https://v.daum.net/v/20230126094520014</id>
+        <link href="https://v.daum.net/v/20230126094520014"/>
+        <updated>2023-01-26T01:05:22.081Z</updated>
+        <content type="html"><![CDATA[[OSEN=최나영 기자] 가수 브리트니 스피어스(41)가 또 인스타그램 계정을&nbsp;삭제한 가운데 팬들이&nbsp;경찰에 그의 복지 점검을 요청했다. 스피어스의 팬들은 스피어스가&nbsp;1년도 채 되지 않아 7번째로 인스타그램을 삭제,&nbsp;우려를 촉발시키자&nbsp;경찰에 직접 전화를 걸어 그에 대한 상태 체크, 복지 조사를 실시하게 했다고 TMZ가 25일(현지시간) 전했다. 보도에 따]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[엠마 로버츠 "몽유병 심해...아들에 유전될까 두려워"]]></title>
         <id>https://v.daum.net/v/20230126060530710</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230125132618380"/>
         <updated>2023-01-25T05:11:15.212Z</updated>
         <content type="html"><![CDATA[[OSEN=지민경 기자] 팝스타 저스틴 비버가 자신의 음악 저작권을 2억 달러(우리돈 약 2460억 원)에 매각했다. 24일(현지 시간) 미국 매체 버라이어티는 저스틴 비버가 힙노시스 송스 캐피털에 2억 달러를 받고 자신의 음악 저작권을 팔았다고 밝혔다. 이날 회사가 낸 발표문에 따르면 “힙노시스는 저스틴 비버가 2021년 12월 31일 이전에 발매한]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[저스틴 비버, 290곡 저작권 2470억 원에 매각]]></title>
-        <id>https://v.daum.net/v/20230125132318309</id>
-        <link href="https://v.daum.net/v/20230125132318309"/>
-        <updated>2023-01-25T05:11:15.212Z</updated>
-        <content type="html"><![CDATA[[티브이데일리 김종은 기자] 팝 가수 저스틴 비버가 자신의 곡 저작권을 2억 달러(한화 약 2465억 운)에 팔았다. 미국 빌보드는 24일(현지시간) "힙노시스 송스 캐피털이 저스틴 비버의 290개 곡 저작권과 로열티를 2억 달러에 사들였다"라고 보도했다. 보도에 따르면 계약에 해당하는 곡은 저스틴 비버가 2021년 12월 31일 이전까지 발매한 곡들이다]]></content>
     </entry>
 </feed>
