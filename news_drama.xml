@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-01-26T20:11:52.437Z</updated>
+    <updated>2023-01-26T21:10:25.907Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[마약 유통→약쟁이…팔수록 놀라운 김히어라, 재발견된 존재감]]></title>
+        <id>https://v.daum.net/v/20230127053301195</id>
+        <link href="https://v.daum.net/v/20230127053301195"/>
+        <updated>2023-01-26T21:10:08.551Z</updated>
+        <content type="html"><![CDATA[[텐아시아=김지원 기자] 《김지원의 넷추리》 김지원 텐아시아 기자가 수많은 콘텐츠로 가득한 넷플릭스, 티빙 등 OTT 속 알맹이만 골라드립니다. 꼭 봐야 할 명작부터 기대되는 신작까지 방구석 1열에서 즐길 수 있는 작품들을 추천합니다. &nbsp; 드라마를 시작한 건 2021년부터지만 굵직한 작품들로 단번에 대중에게 얼굴을 알렸다. 넷플릭스 '더 글로리'에 출연한]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['사랑의 이해' 금새록, 문가영에 사과.."네 마음 불편하라고"]]></title>
         <id>https://v.daum.net/v/20230127010022583</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230126202930759"/>
         <updated>2023-01-26T12:23:04.600Z</updated>
         <content type="html"><![CDATA[[TV리포트 = 하수나 기자] 박윤재가 박하나 앞에서 오승아와의 결혼을 선언했다.&nbsp; 26일 방송된 KBS2 '태풍의 신부‘에선 서연(박하나 분)과 태풍(강지섭 분), 산들(박윤재 분)의 관계가 파란을 맞았다.&nbsp; 서연은 트라우마에 힘들어하는 태풍을 목격했고 그를 꼭 껴안으며 눈물을 보였다. 정신을 잃고 있으면서도 자신의 이름을 부르는 태풍을 보며 “왜 날 찾]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['태풍의 신부' 박하나, 강지섭에 오열 "이용해서 미안해"]]></title>
-        <id>https://v.daum.net/v/20230126201606529</id>
-        <link href="https://v.daum.net/v/20230126201606529"/>
-        <updated>2023-01-26T12:23:04.601Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 이상은 기자] /사진=KBS 2TV 일일드라마 '태풍의 신부' 방송화면'태풍의 신부' 박하나가 아픈 강지섭을 보며 오열했다. 26일 오후 방송된 KBS 2TV 일일드라마 '태풍의 신부'에서는 은서연(박하나 분)이 계약 결혼한 남편이자 르블랑의 장남 강태풍(강지섭 분)을 간호하는 모습이 담겼다. 이날 아픈 강태풍은 무의식중에 "바람아(박하나 분]]></content>
     </entry>
 </feed>

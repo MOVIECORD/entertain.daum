@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-01-26T20:11:52.435Z</updated>
+    <updated>2023-01-26T21:10:25.914Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['유령' 이해영 감독이 말하는 이하늬·박소담·설경구·박해수]]></title>
+        <id>https://v.daum.net/v/20230127060012657</id>
+        <link href="https://v.daum.net/v/20230127060012657"/>
+        <updated>2023-01-26T21:10:02.955Z</updated>
+        <content type="html"><![CDATA[[스포츠서울|조은별기자]열 손가락 깨물어 안 아픈 손가락이 없다지만 영화 ‘유령’을 연출한 이해영 감독은 작품 속 네명의 주연배우에 각별한 애정을 갖고 있다. 네 배우 모두 섭외부터 촬영, 그리고 작품이 완성돼 홍보에 이르기까지 남다른 사연을 갖고 있다. 지난 18일 개봉한 영화 ‘유령’은 1933년 경성을 배경으로 ‘유령’이라 불리는 조선]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["100만 돌파시 韓 재방문"...'상견니' 가가연·허광한·시백우, 꿈같은 내한]]></title>
         <id>https://v.daum.net/v/20230127000023181</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230126182031512"/>
         <updated>2023-01-26T10:12:57.110Z</updated>
         <content type="html"><![CDATA[[TV리포트=이수연 기자] 팝스타 마돈나의 전기 영화가 엎어졌다. 24일(현지 시간) 미국 연예 매체 버라이어티는 마돈나(66)의 전기 영화 제작이 중단됐다고 보도했다. 해당 영화는 유니버설 픽쳐스가 제작하고 마돈나가 직접 감독을 맡을 예정이었다. 해당 매체는 "마돈나가 지난주 뉴욕, 런던, 파리 및 기타 도시에서 몇 분 만에 매진된 월드투어에 집중하고 싶]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["드라마 흥행 잇길"···'상견니' 허광한·가가연·시백우, 감격의 내한]]></title>
-        <id>https://v.daum.net/v/20230126181737421</id>
-        <link href="https://v.daum.net/v/20230126181737421"/>
-        <updated>2023-01-26T10:12:57.110Z</updated>
-        <content type="html"><![CDATA[[서울경제] 전 세계적으로 큰 인기를 끌었던 드라마 '상견니'가 영화로 탄생했다. 한국에서도 사랑을 받은 만큼, 주연 배우 3명이 내한해 국내 팬들과 만나며 홍보에 열을 올리고 있는 상황이다. '상견니'가 드라마의 인기를 넘어 스크린에서도 사랑받을 수 있을지 주목된다. 26일 오후 서울 용산구 CGV용산아이파크몰에서 '상견니'(감독 황천인) 내한 기자간담]]></content>
     </entry>
 </feed>
