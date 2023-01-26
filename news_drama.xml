@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-01-26T12:23:22.499Z</updated>
+    <updated>2023-01-26T13:20:45.543Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["9등신 같은데"…김고은, 소멸할듯 작은 머리에 긴 다리 '비율 女神 이었네']]></title>
+        <id>https://v.daum.net/v/20230126220005240</id>
+        <link href="https://v.daum.net/v/20230126220005240"/>
+        <updated>2023-01-26T13:20:30.190Z</updated>
+        <content type="html"><![CDATA[[스포츠조선 고재완 기자] 배우 김고은이 '넘사벽' 비율을 자랑했다. 김고은은 25일 자신의 개인 계정에 사진 몇 장을 공개했다. 사진 속 김고은은 체크무늬 와이드 팬츠와 슬립리스 톱으로 패션 센스를 자랑했다. 특히 167cm의 키에도 작은 얼굴과 긴 팔다리로 8등신을 넘어 9등신에 가까운 비율을 자랑하고 있다. 한편 지난 달 김고은은 축]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['마녀의 게임' 오창석 살아있었다..반효정 팔순잔치서 등장]]></title>
         <id>https://v.daum.net/v/20230126204231030</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230126171007896"/>
         <updated>2023-01-26T08:14:45.200Z</updated>
         <content type="html"><![CDATA[[OSEN=하수정 기자] '더 패뷸러스' 박희정이 자신을 향한 혹평도 받아들일 수 있다며 쿨한 태도를 보였다. 모델 겸 배우 박희정은 최근 진행된 OSEN과의 인터뷰에서 넷플릭스 오리지널 시리즈 '더 패뷸러스'의 출연 소감 및 비하인드 등을 공개했다. '더 패뷸러스'는 패션(fashion)이라 쓰고 열정(passion)이라 읽는 패션계에 인생을 바친 청]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['금혼령' 김우석 "김영대·박주현 시원시원해...실제라면 사랑보다 우정"]]></title>
-        <id>https://v.daum.net/v/20230126165031137</id>
-        <link href="https://v.daum.net/v/20230126165031137"/>
-        <updated>2023-01-26T08:14:45.201Z</updated>
-        <content type="html"><![CDATA[[OSEN=연휘선 기자] 배우 김우석이 '금혼령'에서 김영대, 박주현과 호흡한 소감을 털어놨다.&nbsp; 김우석은 26일 OSEN에&nbsp;최근 종영한 MBC 금토드라마 '금혼령, 조선 혼인 금지령(약칭 금혼령)'에 출연한 소감을 밝혔다.&nbsp; '금혼령'은&nbsp;7년 전 세자빈을 잃고 금혼령을 내린 왕 이헌(김영대 분) 앞에 죽은 세자빈으로 빙의할 수 있다는 혼인 사기꾼 소랑]]></content>
     </entry>
 </feed>
