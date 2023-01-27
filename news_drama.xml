@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-01-27T14:11:05.331Z</updated>
+    <updated>2023-01-27T15:12:04.084Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[문채원, 의식불명에서 깨어났다…이선균 변호사로 등장]]></title>
+        <id>https://v.daum.net/v/20230127235006170</id>
+        <link href="https://v.daum.net/v/20230127235006170"/>
+        <updated>2023-01-27T15:11:48.314Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 김현숙 인턴기자) '법쩐' 문채원이 의식불명에서 깨어났다. 27일 방송된 SBS 금토드라마 '법쩐'에서는 박준경(문채원 분)이 깨어나 은용(이선균)의 변호사로 등장하는 모습이 전파를 탔다. 이날 은용은 과거 명인주 회장(김홍파)의 운전수로 일했던 때를 회상했다. 그는 집을 담보로 주식에 투자했지만 자신이 투자한 주식이 폭락됐다는 이야기를 듣게]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[첫방 '꼭두의 계절' 김정현, 사망→꼭두로 부활? 임수향 목 조르며 "죽여버려"]]></title>
+        <id>https://v.daum.net/v/20230127232045959</id>
+        <link href="https://v.daum.net/v/20230127232045959"/>
+        <updated>2023-01-27T15:11:48.315Z</updated>
+        <content type="html"><![CDATA[[OSEN=김예솔 기자] 김정현이 꼭두로 부활했다.&nbsp; 27일에 방송된 MBC 새 금토드라마 ‘꼭두의 계절’에서는 한계절(임수향)과 함께 어머니의 의료사고의 진실을 파헤치던 도진우(김정현)가 꼭두(김정현)로 다시 태어났다.&nbsp; 이날 도진우는 한계절을 낙하산으로 채용했다. 도진우는 한계절을 채용한 이유에 대해 도진우를 둘러싼 의료사고의 비밀을 한계절이 알고]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['꼭두의 계절' 임수향, 자기 못 알아본 김정현에 "쌍둥이세요?"]]></title>
         <id>https://v.daum.net/v/20230127230153894</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230127194805399"/>
         <updated>2023-01-27T11:10:07.928Z</updated>
         <content type="html"><![CDATA[[스타뉴스 김옥주 인턴기자] /사진=MBC 일일드라마 '마녀의 게임' 방송 화면 캡쳐 '마녀의 게임' 장서희가 반효정에게 오창석의 진실을 폭로했다. 27일 방송된 MBC 일일드라마 '마녀의 게임'에서는 살아 돌아온 유지호(강지호, 오창석 분)의 모습이 그려졌다. 이날 마현덕(반효정 분)은 팔순잔치 자리에 중대발표를 하겠다며 모두를 불렀다. 이어 새 회장]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['마녀의 게임' 오창석 생존..그룹 후계자 됐다]]></title>
-        <id>https://v.daum.net/v/20230127193237187</id>
-        <link href="https://v.daum.net/v/20230127193237187"/>
-        <updated>2023-01-27T11:10:07.932Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 김옥주 인턴기자] /사진=MBC 일일드라마 '마녀의 게임' 방송 화면 캡쳐'마녀의 게임' 살아돌아온 오창석이 반효정의 후계자가 됐다. 27일 방송된 MBC 일일드라마 '마녀의 게임'에서는 살아 돌아온 유지호(강지호, 오창석 분)의 모습이 그려졌다. 이날 마현덕(반효정 분)은 팔순잔치 자리에 중대발표를 하겠다며 모두를 불러냈다. 이어 새 회장]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[90도 인사로 사과한 김정현, '꼭두의 계절' 첫방 호평 받을까?]]></title>
-        <id>https://v.daum.net/v/20230127191025884</id>
-        <link href="https://v.daum.net/v/20230127191025884"/>
-        <updated>2023-01-27T10:12:09.560Z</updated>
-        <content type="html"><![CDATA[[OSEN=하수정 기자] 외톨이 의사 임수향이 김정현의 낙하산 픽(PICK)으로 등극한다. 오늘(27일) 밤 9시 50분 첫 방송될 MBC 새 금토드라마 ‘꼭두의 계절(극본 강이헌, 허준우/ 연출 백수찬, 김지훈/ 제작 피플스토리컴퍼니, 스토리티비)’에서는 외톨이 의사 한계절(임수향 분)에게 손을 내미는 도진우(김정현 분)의 모습으로 가슴 떨리는 첫 포]]></content>
     </entry>
 </feed>
