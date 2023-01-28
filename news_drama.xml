@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-01-28T06:13:57.489Z</updated>
+    <updated>2023-01-28T07:10:30.499Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘빨간풍선’ 갈림길에 선 이성재 정유민, 직진인가 이별인가]]></title>
+        <id>https://v.daum.net/v/20230128152837529</id>
+        <link href="https://v.daum.net/v/20230128152837529"/>
+        <updated>2023-01-28T07:10:16.559Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 박수인 기자] '빨간 풍선' 이성재, 정유민이 의미심장한 고급 레스토랑 데이트를 즐긴다. 1월 28일 방송되는 TV CHOSUN 주말미니시리즈 ‘빨간 풍선’(극본 문영남/연출 진형욱/제작 초록뱀 미디어, 하이그라운드) 11회에서는 지남철(이성재)와 조은산(정유민)이 오피스텔 캠핑장 밖으로 당당히 나와 데이트를 즐기는 ‘둘만의 만찬’이 포착됐다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[다정했던 김정현, '안하무인 저승神' 빙의..임수향 '당황']]></title>
+        <id>https://v.daum.net/v/20230128152636515</id>
+        <link href="https://v.daum.net/v/20230128152636515"/>
+        <updated>2023-01-28T07:10:16.561Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 한해선 기자] /사진=MBC 김정현과 임수향이 달콤살벌 로맨스에 시동을 건다. 28일 MBC 금토드라마 '꼭두의 계절'(극본 강이헌, 허준우/ 연출 백수찬, 김지훈/ 제작 피플스토리컴퍼니, 스토리티비)이 이날 방송되는 2회 선공개 영상을 통해 도진우(김정현 분) 몸속에 기거하게 된 꼭두(김정현 분)와 그의 실체를 모르는 한계절(임수향 분)의 만]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['꼭두의 계절' 김정현X임수향, 이름값 하는 달콤살벌 로맨스]]></title>
         <id>https://v.daum.net/v/20230128151227397</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230128104201022"/>
         <updated>2023-01-28T02:18:29.385Z</updated>
         <content type="html"><![CDATA[시공간을 넘나들며 이어진 김정현과 임수향의 길고 긴 인연의 서사가 시작됐다. 지난 27일 첫 방송된 MBC 금토드라마 ‘꼭두의 계절’(극본 강이헌, 허준우/ 연출 백수찬, 김지훈/ 제작 피플스토리컴퍼니, 스토리티비) 1회 시청률은 수도권 기준 4.8%를 기록했다.(닐슨코리아 수도권 가구 기준) 한계절이 면접 후 도진우(김정현 분)에게 연락을 받는 장면은 순]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[정경호, 일타강사의 몰래 과외 문제 될까…지동희 표정 눈길]]></title>
-        <id>https://v.daum.net/v/20230128095626426</id>
-        <link href="https://v.daum.net/v/20230128095626426"/>
-        <updated>2023-01-28T00:57:34.733Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 이슬기 기자] ‘일타 스캔들’ 정경호가 전도연과 비밀리에 협악을 맺는 가운데, 긴장감 가득한 스틸이 공개됐다. tvN 토일드라마 ‘일타 스캔들’(연출 유제원, 극본 양희승, 제작 스튜디오드래곤)은 사교육 전쟁터에서 펼쳐지는 국가대표 반찬가게 열혈 사장과 대한민국 수학 일타 강사의 달콤 쌉싸름한 로맨스를 그린 드라마다. 그중에서도 서로에게 조금씩]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[살기 어린 눈빛의 김정현…'꼭두의 계절', 4.8%로 출발]]></title>
-        <id>https://v.daum.net/v/20230128095316394</id>
-        <link href="https://v.daum.net/v/20230128095316394"/>
-        <updated>2023-01-28T00:57:34.734Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 조혜진 기자) '꼭두의 계절' 김정현과 임수향의 길고 긴 인연의 서사시가 첫 장을 넘겼다. 지난 27일 첫 방송된 MBC 금토드라마 '꼭두의 계절'(극본 강이헌 허준우, 연출 백수찬 김지훈) 1회 시청률은 닐슨코리아 수도권 가구 기준 4.8%를 기록했다. 또한 한계절(임수향 분)이 면접 후 도진우(김정현)에게 연락을 받는 장면은 순간 시청률]]></content>
     </entry>
 </feed>

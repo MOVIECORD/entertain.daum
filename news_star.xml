@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2023-01-28T06:13:57.487Z</updated>
+    <updated>2023-01-28T07:10:30.501Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[하이브, 멜론 톱10 70% 지분…멀티레이블 전략 통했다]]></title>
+        <id>https://v.daum.net/v/20230128154534662</id>
+        <link href="https://v.daum.net/v/20230128154534662"/>
+        <updated>2023-01-28T07:10:25.373Z</updated>
+        <content type="html"><![CDATA[기사내용 요약 28일 오후 3시 기준…뉴진스·투바투·르세라핌 하이브 레이블즈 4세대 그룹들, 음원 차트 최상위권 장악 음반 차트서도 강세 방탄소년단 지민도 협업곡으로 두각 [서울=뉴시스]이재훈 기자 = 그룹 '투모로우바이투게더'(TXT·투바투), '르세라핌(LE SSERAFIM)', '뉴진스(NewJeans)' 등 하이브 레이블즈의 4세대 그룹들이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[유모차 탄 아이에 울었던 진태현♥박시은 "'동상이몽2' 출연, 걱정 있었지만…"]]></title>
         <id>https://v.daum.net/v/20230128151002383</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230128111546557"/>
         <updated>2023-01-28T02:18:39.219Z</updated>
         <content type="html"><![CDATA[[스포티비뉴스=김원겸 기자]27일 방송된 MBC ‘나 혼자 산다’ (연출 허항 강지희 박수빈)에서는 기안84의 기라인 영입 단합대회 두 번째 이야기와 배다빈의 가족애 넘치는 일상이 그려졌다. 기안84의 솔선수범 리더십이 결국은 통했다. 코드 쿤스트와 이주승은 조금은 특별하지만 동생들을 위해 노력한 기안84에게 고마워하며 "기라인을 그만둘 수 없다"고]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[넷플릭스의 배신..‘더 글로리’ 파트2 흥행, 계정공유 유료화 영향 받을까]]></title>
-        <id>https://v.daum.net/v/20230128111420543</id>
-        <link href="https://v.daum.net/v/20230128111420543"/>
-        <updated>2023-01-28T02:18:39.231Z</updated>
-        <content type="html"><![CDATA[[OSEN=강서정 기자] 글로벌 온라인동영상서비스(OTT) 넷플릭스가&nbsp;계정공유 유료화를 결정했다. ‘더 글로리’ 파트2가 공개되는 3월에 유료화를 시행한다는 입장을 밝힌 가운데 ‘더 글로리’가 이에 영향을 받을지 관심이 모아지고 있는 상황. 넷플릭스의 가장 큰 매력은 계정공유였다. 그런데 넷플릭스는 지난해 4분기 실적 발표 이후 보낸 주주 서한에서 “1]]></content>
     </entry>
 </feed>
