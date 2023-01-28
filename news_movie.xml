@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-01-28T02:18:44.723Z</updated>
+    <updated>2023-01-28T03:12:34.735Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘슬램덩크’ 예견된 1위, N차 관람 열풍]]></title>
+        <id>https://v.daum.net/v/20230128113121732</id>
+        <link href="https://v.daum.net/v/20230128113121732"/>
+        <updated>2023-01-28T03:12:15.887Z</updated>
+        <content type="html"><![CDATA[[티브이데일리 이기은 기자] 일본 애니메이션 영화 '더 퍼스트 슬램덩크'(감독 이노우에 다케히코), 진격의 인기로 독주를 시작했다. 28일 영화진흥위원회 영화관입장권 통합전산망 집계에 따르면 '더 퍼스트 슬램덩크'는 지난 27일 하루동안 4만1798명의 관객을 불러 모았고, 박스오피스 1위를 기록했다. 누적관객수는 171만5315명으로 집계됐다. 영화는 전]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘유랑의 달’, 당신이 누구든 얼마나 외롭든]]></title>
         <id>https://v.daum.net/v/20230128105937301</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230128073301245"/>
         <updated>2023-01-27T23:11:17.233Z</updated>
         <content type="html"><![CDATA[배우 김현주가 톱 여전사로 파격 변신했다. 연상호 감독표 SF 영화 ‘정이’를 통해서다. 김현주는 최근 삼청동의 한 카페에서 진행된 넷플릭스 신작 ‘정이’의 언론 인터뷰에서 “전 세계의 관심이 쏠려 얼떨떨 하다. 한국적인 감성을 해외에서는 이색적으로 느끼신 것  같다”며 웃었다. ‘정이’는 기후변화로 폐허가 된 지구를 벗어나 이주한 쉘터에서 발생한 전쟁을]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['불륜' 홍상수♥김민희→설경구·유태오…베를린으로 헤쳐 모여]]></title>
-        <id>https://v.daum.net/v/20230128071001079</id>
-        <link href="https://v.daum.net/v/20230128071001079"/>
-        <updated>2023-01-27T22:10:44.474Z</updated>
-        <content type="html"><![CDATA[[텐아시아=강민경 기자] 제73회 베를린국제영화제에서 한국 작품과 배우들을 만날 수 있다. 한국 영화들이 공식 초청을 받았기 때문. 오는 2월 16일부터 26일까지 열리는 제73회 베를린국제영화제는 칸 영화제, 베니스 영화제와 함께 세계 3대 영화제로 꼽힌다. 베를린국제영화제에서 홍상수, 김민희, 설경구, 유태오, 최성원의 모습을 볼 수 있을 전망이다.]]></content>
     </entry>
 </feed>
