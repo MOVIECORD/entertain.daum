@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2023-01-28T04:13:49.787Z</updated>
+    <updated>2023-01-28T05:11:24.200Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[진태현♥박시은, '동상이몽2' 재출연 심경 "많은 고민...비슷한 아픔 나눌 것"]]></title>
+        <id>https://v.daum.net/v/20230128135135725</id>
+        <link href="https://v.daum.net/v/20230128135135725"/>
+        <updated>2023-01-28T05:11:18.504Z</updated>
+        <content type="html"><![CDATA[[OSEN=연휘선 기자] 배우 진태현이 '동상이몽2'에 다시 등장하는 소감을 밝혔다.&nbsp; 진태현은 28일 SNS에 사진 한 장을 게재했다. 공개된 사진에는 SBS 예능 프로그램 '동상이몽 시즌2-너는 내 운명(약칭 동상이몽2)' 대기실에서 스튜디오 촬영을 준비 중인 진태현의 모습이 담겼다.&nbsp;이와 함께 진태현은 장문의 심경글을 게재했다.&nbsp; 그는 "다음주 월]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘놀토’ 이하늬·박소담, 美친 댄스]]></title>
+        <id>https://v.daum.net/v/20230128131406509</id>
+        <link href="https://v.daum.net/v/20230128131406509"/>
+        <updated>2023-01-28T05:11:18.505Z</updated>
+        <content type="html"><![CDATA[[티브이데일리 이기은 기자] '놀토' 이하늬, 박소담이 출격해 '케미'를 과시한다. 오늘(28일) 방송되는 방송되는 tvN 예능프로그램 '놀라운 토요일'(이하 '놀토')에는 영화 '유령'의 배우 이하늬와 박소담이 출연해 입담을 과시한다. 최근 녹화에서 이하늬는 남다른 승부욕을 자랑해 눈길을 끌었다. 과거 예능 프로그램에서 열정적으로 게임을 하다 손가락 깁스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[아빠와 대화 거부하는 '금쪽이', 어떻게 마음 열었을까]]></title>
         <id>https://v.daum.net/v/20230128124203316</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230128111017495"/>
         <updated>2023-01-28T02:18:39.247Z</updated>
         <content type="html"><![CDATA[(서울=연합뉴스) 이태수 기자 = ▲ 르세라핌 스포티파이 누적 재생 수 5억회 돌파 = 걸그룹 르세라핌이 세계 최대 스트리밍 플랫폼 스포티파이에서 데뷔 이래 발매한 세 장의 음반으로 누적 재생 횟수 5억건을 돌파했다고 소속사 쏘스뮤직이 28일 밝혔다. 이들은 지난해 5월 미니음반 '피어리스'(FEARLESS)로 데뷔해 '안티프래자일'(ANTIFRAGILE)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“4개국어 가능” 박주호 딸 나은→사유리 아들 젠 ‘언어천재 베이비들’]]></title>
-        <id>https://v.daum.net/v/20230128110921486</id>
-        <link href="https://v.daum.net/v/20230128110921486"/>
-        <updated>2023-01-28T02:18:39.248Z</updated>
-        <content type="html"><![CDATA[[OSEN=강서정 기자] 방송인 사유리 아들 젠은 2개국어, 축구선수 박주호 딸 나은은 무려 4개국어가 가능한 ‘언어천재’다. 어린 아이들이 입에서 여러 가지 언어가 튀어 나와 시청자들을 놀라게 하고 있다. 지난 27일 방송된 KBS 2TV ‘슈퍼맨이 돌아왔다’(이하 ‘슈돌’)에서 사유리 아들 젠이 2개국어에 능통한 모습을 보여 눈길을 끌었다. 이날 사]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['난임 극복' 송재희,  딸 품에 안고 감격 소감 "퇴원 전 주마등처럼"]]></title>
-        <id>https://v.daum.net/v/20230128110804472</id>
-        <link href="https://v.daum.net/v/20230128110804472"/>
-        <updated>2023-01-28T02:18:39.249Z</updated>
-        <content type="html"><![CDATA[[스포츠투데이 송오정 기자] 배우 송재희가 딸을 품에 안은 애틋한 소감을 전했다. 28일 송재희는 자신의 SNS에 "지금은 아내와 뽁뽁이와 조리원에서 잘 지내고 있습니다"라고 근황을 전했다. 이어 "조리원에 오기 전, 그러니까 아가가 세상에 나오고 병원 퇴원 전, 마지막으로 산부인과 진료실에 앉았는데 지난 몇 년 동안의 여러 순간들이 주마등처럼 지나가더라고]]></content>
     </entry>
 </feed>

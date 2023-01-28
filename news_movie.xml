@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-01-28T04:13:49.785Z</updated>
+    <updated>2023-01-28T05:11:24.163Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[상친자 몰고다닌 '상견니', 4일만에 10만 돌파]]></title>
+        <id>https://v.daum.net/v/20230128134102661</id>
+        <link href="https://v.daum.net/v/20230128134102661"/>
+        <updated>2023-01-28T05:11:02.691Z</updated>
+        <content type="html"><![CDATA[[OSEN=하수정 기자] 멀티버스 판타지 로맨스 '상견니'의 주연배우 가가연, 허광한, 시백우가 각종 내한 일정에 ‘구름 떼 상친자’를 몰고 다니며 화제를 모으는 가운데 개봉 4일 만에 누적관객수 10만 명을 돌파해 이목을 끈다. 2009년, 리쯔웨이와 황위쉬안이 우연히 만나 묘하게 가슴 설레는 기시감을 느끼면서 시작되는 멀티버스 판타지 로맨스 영화 ']]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[화려해서 아름답고, 황홀해서 위태로운 ‘바빌론’]]></title>
         <id>https://v.daum.net/v/20230128130203432</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230128075350325"/>
         <updated>2023-01-27T23:11:17.230Z</updated>
         <content type="html"><![CDATA[[스타뉴스 김미화 기자] /사진='영웅' 300만 돌파 영화 '영웅'(감독 윤제균)이 누적관객수 300만 명을 돌파했다. '영웅'은 1909년 10월, 하얼빈에서 이토 히로부미를 사살한 뒤 일본 법정의 사형 판결을 받고 순국한 안중근 의사가 거사를 준비하던 때부터 죽음을 맞이하던 순간까지, 잊을 수 없는 마지막 1년을 그린 영화. 28일 영진위 영화관]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['슬램덩크', '교섭' 제치고 박스오피스 1위…'영웅' 300만 돌파]]></title>
-        <id>https://v.daum.net/v/20230128074728300</id>
-        <link href="https://v.daum.net/v/20230128074728300"/>
-        <updated>2023-01-27T23:11:17.231Z</updated>
-        <content type="html"><![CDATA[(서울=연합뉴스) 김정진 기자 = 일본 애니메이션 '더 퍼스트 슬램덩크'가 개봉 23일 만에 박스오피스 정상에 올랐다. 28일 영화진흥위원회 영화관입장권 통합전산망에 따르면 '더 퍼스트 슬램덩크'는 전날 황정민·현빈 주연의 '교섭'을 제치고 박스오피스 1위를 차지했다. 전날까지 누적 관객수는 171만5천여 명이다. 지난 18일 개봉 이후 줄곧 박스오피스 선]]></content>
     </entry>
 </feed>
