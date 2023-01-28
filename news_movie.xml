@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-01-28T07:10:30.411Z</updated>
+    <updated>2023-01-28T08:14:13.464Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[천만 넘은 '아바타2'..흥행 어디까지 갈까]]></title>
+        <id>https://v.daum.net/v/20230128171217367</id>
+        <link href="https://v.daum.net/v/20230128171217367"/>
+        <updated>2023-01-28T08:13:53.392Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 김미화 기자] /사진='아바타 : 물의길' ○...제임스 카메론의 '아바타 : 물의길'이 개봉 42일 만에 천만 관객을 돌파했다. '아바타 : 물의길'은 팬데믹 이후 첫 천만 돌파 외화의 탄생을 알렸다. '아바타'의 후속편 '아바타: 물의 길'은 전편에 이어 제임스 카메론 감독이 13년 만에 선보이는 영화로, 판도라 행성에서 '제이크 설리'와 ']]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["韓 SF 이제 시작"..'정이'의 의미 있는 도전]]></title>
+        <id>https://v.daum.net/v/20230128170114276</id>
+        <link href="https://v.daum.net/v/20230128170114276"/>
+        <updated>2023-01-28T08:13:53.394Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 김나연 기자] 정이 / 사진=넷플릭스한국형 SF 영화의 한계일까. 새로운 시작점일까. 공개 이후 넷플릭스 글로벌 1위에 등극한 '정이'는 호불호 평가에 직면했지만, '도전' 그 자체로 의미가 있다는 점에서는 어떤 이견도 없다. 급격한 기후변화로 지구는 폐허가 되고, 인류는 우주에 새로운 터전 '쉘터'를 만들어 이주한다. 수십 년째 이어지는 내]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['슬램덩크', 韓영화 '교섭' 꺾고 첫 1위를 하다니 '대반전']]></title>
         <id>https://v.daum.net/v/20230128142417985</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230128081654546"/>
         <updated>2023-01-28T00:57:29.461Z</updated>
         <content type="html"><![CDATA[[스타뉴스 김미화 기자] /사진='더 퍼스트 슬램덩크' 영화 '더 퍼스트 슬램덩크'가 박스오피스 1위로 다시 올라섰다. 28일 영진위 영화관입장권 통합전산망에 따르면 '더 퍼스트 슬램덩크'는 지난 27일 4만 1798명의 관객을 모았다. 누적관객수는 171만 5315명으로 200만 돌파 카운트다운을 시작했다. '더 퍼스트 슬램덩크'는 1위 '교섭'을 꺾]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘영웅’, 300만 관객 돌파..‘라라랜드’보다 빠른 속도]]></title>
-        <id>https://v.daum.net/v/20230128081009506</id>
-        <link href="https://v.daum.net/v/20230128081009506"/>
-        <updated>2023-01-27T23:11:17.227Z</updated>
-        <content type="html"><![CDATA[[OSEN=강서정 기자] 우리 모두가 기억해야 할 영웅 안중근 의사의 뜨거웠던 마지막 1년을 그리며 대한민국 국민 모두에게 위로와 응원의 메시지를 전하는 영화&nbsp;‘영웅’이 지난 27일 300만 관객을 돌파했다. 영웅&gt;은 1909년 10월, 하얼빈에서 이토 히로부미를 사살한 뒤 일본 법정의 사형 판결을 받고 순국한 안중근 의사가 거사를 준비하던 때부터 죽음]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[현실과 상상을 오가는 불길함…오컬트 호러 '트윈']]></title>
-        <id>https://v.daum.net/v/20230128080010374</id>
-        <link href="https://v.daum.net/v/20230128080010374"/>
-        <updated>2023-01-27T23:11:17.229Z</updated>
-        <content type="html"><![CDATA[(서울=연합뉴스) 양정우 기자 = 쌍둥이 아들을 잃고서 남편 앤서니(스티븐 크리 분)의 고향으로 이사 오게 된 레이첼(테레사 팔머) 가족. 핀란드 작은 마을에 정착한 가족은 떠나보낸 '네이트'를 잊어보려 노력하지만, 쌍둥이 동생 '엘리엇'이 이상 행동을 보이면서 힘든 시간을 맞는다. 레이첼은 엘리엇이 형 네이트인 척을 하고, 마치 형과 함께 놀이하는 것처럼]]></content>
     </entry>
 </feed>
