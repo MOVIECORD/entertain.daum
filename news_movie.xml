@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-01-28T03:12:34.735Z</updated>
+    <updated>2023-01-28T04:13:49.785Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[화려해서 아름답고, 황홀해서 위태로운 ‘바빌론’]]></title>
+        <id>https://v.daum.net/v/20230128130203432</id>
+        <link href="https://v.daum.net/v/20230128130203432"/>
+        <updated>2023-01-28T04:13:31.553Z</updated>
+        <content type="html"><![CDATA[음악과 사랑, 영화가 공존한다. 데이미언 셔젤 감독은 전작 ‘위플래시’에서 음악, ‘라라랜드’에서 로맨스를 중심으로 풀어냈다. 이번엔 영화다. ‘바빌론’은 영화가 어떤 의미인지, 얼마나 사랑하는지 보여주는 데 188분을 통째로 바친다. 더없이 화려하고 아름답다. 정신없이 매혹한다. ‘바빌론’(감독 데이미언 셔젤)은 무성영화에서 유성영화로 넘어가던 지난]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘슬램덩크’ 예견된 1위, N차 관람 열풍]]></title>
         <id>https://v.daum.net/v/20230128113121732</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230128074728300"/>
         <updated>2023-01-27T23:11:17.231Z</updated>
         <content type="html"><![CDATA[(서울=연합뉴스) 김정진 기자 = 일본 애니메이션 '더 퍼스트 슬램덩크'가 개봉 23일 만에 박스오피스 정상에 올랐다. 28일 영화진흥위원회 영화관입장권 통합전산망에 따르면 '더 퍼스트 슬램덩크'는 전날 황정민·현빈 주연의 '교섭'을 제치고 박스오피스 1위를 차지했다. 전날까지 누적 관객수는 171만5천여 명이다. 지난 18일 개봉 이후 줄곧 박스오피스 선]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김현주 “‘정이’ 전세계 호응은 한국적 감성 덕분..故강수연, 칭찬 해주셨을 텐데”]]></title>
-        <id>https://v.daum.net/v/20230128073301245</id>
-        <link href="https://v.daum.net/v/20230128073301245"/>
-        <updated>2023-01-27T23:11:17.233Z</updated>
-        <content type="html"><![CDATA[배우 김현주가 톱 여전사로 파격 변신했다. 연상호 감독표 SF 영화 ‘정이’를 통해서다. 김현주는 최근 삼청동의 한 카페에서 진행된 넷플릭스 신작 ‘정이’의 언론 인터뷰에서 “전 세계의 관심이 쏠려 얼떨떨 하다. 한국적인 감성을 해외에서는 이색적으로 느끼신 것  같다”며 웃었다. ‘정이’는 기후변화로 폐허가 된 지구를 벗어나 이주한 쉘터에서 발생한 전쟁을]]></content>
     </entry>
 </feed>
