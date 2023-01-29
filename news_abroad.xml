@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-01-29T22:10:47.737Z</updated>
+    <updated>2023-01-29T23:12:02.063Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['24' 여배우 애니 워싱, 암 투병 끝 사망..향년 45세]]></title>
+        <id>https://v.daum.net/v/20230130071916676</id>
+        <link href="https://v.daum.net/v/20230130071916676"/>
+        <updated>2023-01-29T23:12:01.437Z</updated>
+        <content type="html"><![CDATA[[OSEN=최나영 기자] 액션 드라마 '24'에서 FBI 요원 르네 워커를 연기한 것으로 가장 잘 알려진 배우 애니 워싱이 사망했다. 향년 45세. 워싱이 암 투병 끝&nbsp;29일(현지시간)&nbsp;오전 미국&nbsp;로스앤젤레스에서 사망했다고 워싱 측이 페이지식스에 밝혔다. 워싱의 남편 스티븐 풀도 데드라인에 이 슬픈 소식을 공유했다. 그는 "오늘날 가족의 영혼에는 동굴]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[아카데미 여우주연상 '깜짝 후보'에 할리우드 '와글와글']]></title>
         <id>https://v.daum.net/v/20230130060959929</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230129142315930"/>
         <updated>2023-01-29T06:14:12.409Z</updated>
         <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]양자경(60)은 1980년대 ‘예스마담’ 시리즈로 한 시대를 풍미했다. 당시 한국에선 성룡, 홍금보, 원표 삼총사의 액션영화가 유행이었다. 어느날 홀연히 나타난 양자경은 우아하면서도 파워풀한 액션으로 스크린을 장악했다. 여성 액션도 충분히 흥행할 수 있다는 사실을 증명했다. 영국 왕립무용학교에서 발레 배워 말레이시아 출신 양]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[숀 펜, 32세 연하 아내와 이혼→29세 연하女와 데이트 포착]]></title>
-        <id>https://v.daum.net/v/20230129140918713</id>
-        <link href="https://v.daum.net/v/20230129140918713"/>
-        <updated>2023-01-29T05:11:07.764Z</updated>
-        <content type="html"><![CDATA[[OSEN=유수연 기자]&nbsp;배우 숀 펜이 29세 연하의 여성과 데이트를 하는 모습이 포착됐다. 29일(한국 시각) 영국 데일리메일 등의 보도에 따르면, 숀 펜(62)은 최근 아트 갤러리 디렉트 타르카 러셀(33)과 미국 산타 모니카의 한 고급 식당에서 데이트를 했다. 외신은 “두 사람이 근사한 저녁을 먹은 후 무척 기분이 좋아 보였다"라며 "러셀은 빨개진]]></content>
     </entry>
 </feed>
