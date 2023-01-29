@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-01-29T07:10:27.491Z</updated>
+    <updated>2023-01-29T08:14:31.759Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[셀레나 고메즈, '손 떨린다' 팬 지적에 "루푸스 부작용" 인정 안타까움]]></title>
+        <id>https://v.daum.net/v/20230129161521064</id>
+        <link href="https://v.daum.net/v/20230129161521064"/>
+        <updated>2023-01-29T08:14:30.982Z</updated>
+        <content type="html"><![CDATA[[OSEN=최나영 기자] 가수 겸 배우 셀레나 고메즈(30)가&nbsp;루푸스 약물의 부작용으로 손이 떨리는&nbsp;증상인 수전증을 앓고 있음을&nbsp;털어놨다. 셀레나 고메즈는 최근 본인의 메이크업과 스킨케어 루틴을 보여주는 동영상을 공유했는데 팬들은 그의&nbsp;손이 흔들리는 것을 포착했다.&nbsp;영상에서 고메즈는 스펀지에 물을 바르려고 했지만 흔들리는 손이 불안정해 보인 것. 고메즈]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["연예인은 절대 안돼"…마돈나·메간 폭스 등 데뷔 반대한 할리우드★의 부모들]]></title>
         <id>https://v.daum.net/v/20230129160351832</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230129073613425"/>
         <updated>2023-01-28T23:11:24.216Z</updated>
         <content type="html"><![CDATA[[OSEN=최나영 기자] 가수 카니예 웨스트가 자신을 몰래 촬영한&nbsp;여성이 중단을 거부하자 그의 손에서 휴대전화를 빼내 던진 혐의로 조사를 받고 있다. 페이지식스가 28일(현지시간) 전한 바이럴 비디오에 따르면, 웨스트는 이날 딸 노스의 농구 경기를 보고 떠나던 중 그가 파파차리에게 미행당하고 있다는 것을 알아차렸다. 그 파파라치 여성이 미디어인지&nbsp;단순히]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[카니예 웨스트, 파파라치 휴대전화 던졌다 조사 중.."혼자 있게 해줘"]]></title>
-        <id>https://v.daum.net/v/20230128232734664</id>
-        <link href="https://v.daum.net/v/20230128232734664"/>
-        <updated>2023-01-28T15:11:25.236Z</updated>
-        <content type="html"><![CDATA[[OSEN=선미경 기자] 뮤지션 카니예 웨스트가 파파라치의 휴대전화를 던진 혐의로 조사받고 있다. 27일(현지시각) 외신 보도에 따르면 카니예 웨스트는 한 여성의 휴대전화를 빼내 던진 혐의로 조사를 받고 있는 상황이다. 해당 여성이 자신을 촬영하자 촬영 중단을 요청했지만, 이를 거부하자 휴대전화를 던진 것. 보도에 따르면 해당 여성이 카니예 웨스트의 팬]]></content>
     </entry>
 </feed>

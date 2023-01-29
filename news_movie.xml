@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-01-29T07:10:27.494Z</updated>
+    <updated>2023-01-29T08:14:31.752Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[SF 영화 ‘정이’, 신파와 휴머니즘 사이]]></title>
+        <id>https://v.daum.net/v/20230129170237965</id>
+        <link href="https://v.daum.net/v/20230129170237965"/>
+        <updated>2023-01-29T08:14:09.663Z</updated>
+        <content type="html"><![CDATA[※스포일러 있습니다[헤럴드 경제=서병기 선임기자]연상호 감독의 넷플릭스 SF영화 ‘정이’가 지난 20일 공개 이후 나흘간 세계 1위를 차지하는 등 글로벌 반응이 나왔다. 하지만 국내의 영화 관련 사이트 리뷰 평점은 그리 좋은 편이 아니다. 혹평의 이유는 신파라는 점이다. 신파라는 단어는 포괄적이고 막연하다. ‘정이’의 신파성을 좀 더 자세히 볼 필요가 있다]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['아바타: 물의 길' 전세계 수익 4위..'타이타닉' 제칠까]]></title>
         <id>https://v.daum.net/v/20230129154846567</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230129100757126"/>
         <updated>2023-01-29T02:24:37.022Z</updated>
         <content type="html"><![CDATA[[OSEN=김보라 기자]&nbsp;배우 서현우가 영화&nbsp;‘유령’을 통해 강렬하면서도 파격적인 변신을 감행했다. 지난 18일 개봉한 영화 '유령'(감독 이해영, 제공배급 CJ ENM, 제작 더 램프)은&nbsp;1933년 경성 조선총독부에 항일조직이 심어 놓은 스파이&nbsp;유령으로 의심받으며 외딴 호텔에 갇힌 용의자들이 의심을 뚫고 탈출하기 위해 벌이는 사투와 진짜&nbsp;유령의 멈출]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[현빈·황정민 제친 강백호…'더 퍼스트 슬램덩크' 박스오피스 1위]]></title>
-        <id>https://v.daum.net/v/20230129093402509</id>
-        <link href="https://v.daum.net/v/20230129093402509"/>
-        <updated>2023-01-29T01:01:32.069Z</updated>
-        <content type="html"><![CDATA[[스포츠서울|조은별기자]강백호가 현빈과 황정민을 제쳤다. 일본 애니메이션 ‘더 퍼스트 슬램덩크’(이하 ‘슬램덩크’)가 개봉 23일만에 국내 박스오피스 1위에 등극했다. 28일 영화진흥위원회 영화관입장권 통합전산망에 따르면 ‘슬램덩크’는 이날 누적관객 182만 4,457명을 동원, 136만4,076명을 기록한 현빈·황정민 주연 ‘교섭’을 제치고]]></content>
     </entry>
 </feed>
