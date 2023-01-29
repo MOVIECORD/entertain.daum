@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/variety</id>
     <title>다음 연예 ─ 뉴스 ─ 예능</title>
-    <updated>2023-01-29T18:12:52.074Z</updated>
+    <updated>2023-01-29T19:09:36.785Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['구박덩어리' 된 아빠 문희준…"어떻게 해야 할지 모르겠다"]]></title>
+        <id>https://v.daum.net/v/20230130040005758</id>
+        <link href="https://v.daum.net/v/20230130040005758"/>
+        <updated>2023-01-29T19:09:24.646Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 김나라 기자] '오은영 게임'이 좋은 아빠가 되고 싶은 배우 안재욱·정준호·인교진·가수 문희준·전 야구선수 이대호를 위한 놀이를 처방한다. 최근 공개된 ENA '오은영 게임' 2회 예고편은 어디선가 들려오는 전화 소리와 함께 미스터리한 분위기 속에 시작된다. 오은영 박사가 전화를 받자 좋은 아빠가 되고 싶은 아빠들의 '아우성'이 들렸다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[임원희, 진짜 여자친구 생겼나? BTS도 푹 빠졌다는 '이것' 도전]]></title>
         <id>https://v.daum.net/v/20230130031020694</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230129232325879"/>
         <updated>2023-01-29T15:11:04.360Z</updated>
         <content type="html"><![CDATA[[OSEN=김수형 기자] ‘미우새’에서 이경규가 '공로상'에 대해 언급한 가운데 딘딘을 향한 각별한 애정을 드러냈다.&nbsp; 29일 방송된 '미운 우리새끼(미우새)'에서 이경규가 출연했다.&nbsp; 이날 이경규가 등장,&nbsp;'미우새' 첫 출연 계기를 묻자&nbsp; 이경규는 "스튜디오 직접 보고 싶었다, 2~3년 마다 게스트로 나온다,&nbsp; 어디 물갈이 할 때가 있나"라면서&nbsp;"동엽]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[유세윤, 리모델링한 집 공개 “홈파티 위해 거실↔주방 대공사”]]></title>
-        <id>https://v.daum.net/v/20230129231839869</id>
-        <link href="https://v.daum.net/v/20230129231839869"/>
-        <updated>2023-01-29T15:11:04.362Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 서유나 기자] 유세윤이 리모델링한 집의 모습을 공개했다. 1월 29일 방송된 MBC 예능 '구해줘! 홈즈'(이하 '홈즈') 188회에서는 동생의 오랜 유학 생활로 16년 만에 재회한 자매가 신사역까지 자차 1시간 이내, 용인 동백역까지 대중교통 1시간 이내 지역의 함께 살 전셋집을 찾아 나섰다. 이날 복팀 코디 유세윤과 장동민은 성남시 분당구]]></content>
     </entry>
 </feed>

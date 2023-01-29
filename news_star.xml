@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2023-01-29T18:12:52.070Z</updated>
+    <updated>2023-01-29T19:09:36.784Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[열망과 욕망의 할리우드는 황홀하고 위태로운 ‘바빌론’]]></title>
+        <id>https://v.daum.net/v/20230130040423784</id>
+        <link href="https://v.daum.net/v/20230130040423784"/>
+        <updated>2023-01-29T19:09:30.187Z</updated>
+        <content type="html"><![CDATA[1920년대 꿈과 환락의 무대 할리우드, 잭 콘래드(브래드 피트)는 누구나 한 번쯤 만나고 싶어하는 당대 최고의 배우다. 가난한 배우 지망생 넬리 라로이(마고 로비)는 어느 날 파티에 갔다가 우연히 영화에 캐스팅되고, 벼락스타로 떠오른다. 영화에 대한 열정으로 가득찬 이민자 출신 마누엘 토레스(디에고 칼바)는 제작사 직원으로 할리우드에 입성한다. 무성 영]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['대행사' 이보영, PT 일격으로 '기적' 쓸까]]></title>
         <id>https://v.daum.net/v/20230130002006203</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230129225550797"/>
         <updated>2023-01-29T14:10:20.763Z</updated>
         <content type="html"><![CDATA[[스포츠조선닷컴 이지현 기자] 서정희, 장복숙 모녀가 '룩생룩사' 때문에 분노가 폭발했다. 29일 방송된 KBS2 '걸어서 환장 속으로'에서는 서정희, 서동주, 장복숙 3대 싱글 모녀의 대만 여행 3일 차가 그려졌다. 이날 세 모녀는 폭포를 보기 위해 나섰다. 하지만 예상 외로 너무 길고 가파른 계단과 마주해 설계자 서동주는 당황했다. 포기하]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['일타스캔들' 전도연·정경호 두근두근 더 가까워졌다…비밀과외 위기]]></title>
-        <id>https://v.daum.net/v/20230129225007762</id>
-        <link href="https://v.daum.net/v/20230129225007762"/>
-        <updated>2023-01-29T14:10:20.764Z</updated>
-        <content type="html"><![CDATA[(서울=뉴스1) 윤효정 기자 = '일타 스캔들' 정경호와 전도연이 더 가까워지는 가운데, 두 사람의 비밀 약속이 들통날 위기에 처했다. 29일 밤 방송된 tvN 주말드라마 '일타 스캔들'(극본 양희승/연출 유제원) 6회에서 최치열(정경호 분)과 남행선(전도연 분)의 비밀 과외 약속이 점점 더 많은 이들에게 알려졌다. 앞서 술을 마시고 남행선의 집에서]]></content>
     </entry>
 </feed>
