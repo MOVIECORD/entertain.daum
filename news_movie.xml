@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-01-29T10:11:45.089Z</updated>
+    <updated>2023-01-29T11:09:52.134Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['정이' 김현주 "실패해도 한참 뒤엔 아무것도 아니더라고요"]]></title>
+        <id>https://v.daum.net/v/20230129195941506</id>
+        <link href="https://v.daum.net/v/20230129195941506"/>
+        <updated>2023-01-29T11:09:28.821Z</updated>
+        <content type="html"><![CDATA[[서울경제] 배우 김현주는 변화하고 있다. 시대를 대표하는 ‘멜로퀸’에서 장르물속 여성 서사를 쌓는 주역이 됐다. 나아가 액션 연기를 바탕으로 SF물 주인공까지 꿰찼다. 도전하고 이루고 성장하기를 반복하는 그는 현재진행형이다. 김현주가 타이틀롤을 맡은 넷플릭스 영화 ‘정이’(감독 연상호)는 급격한 기후변화로 폐허가 된 지구를 벗어나 이주한 쉘터에서 발생한]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[레오나르도 디카프리오, 사이비 교주된다..파격 변신]]></title>
         <id>https://v.daum.net/v/20230129183633613</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230129120309155"/>
         <updated>2023-01-29T03:13:20.286Z</updated>
         <content type="html"><![CDATA[[김성호 기자] 마지막으로 장애인을 만나본 게 언제인가. 대화를 해본 건 언제인가. 함께 식사를 한 건 언제인가. 인사를 나눈 건 또 언제인가. 기억이 마땅히 떠오르지 않는 이들이 바로 답할 수 있는 이보다 훨씬 더 많은 것이 오늘의 한국이다. 많은 이들이 한국엔 장애인이 얼마 되지 않는다고 믿는다. 학교에서, 일터에서, 일상에서, 심지어는 거리에서조차 장]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['중꺾마' 정신 '슬램덩크', 200만 목전…'영웅' 300만 돌파]]></title>
-        <id>https://v.daum.net/v/20230129103956593</id>
-        <link href="https://v.daum.net/v/20230129103956593"/>
-        <updated>2023-01-29T02:24:37.019Z</updated>
-        <content type="html"><![CDATA[[스포츠조선 안소윤 기자] 영화 '더 퍼스트 슬램덩크'가 신작들을 제치고 박스오피스 1위를 차지했다. 29일 영화진흥위원회 영화관입장권통합전산망에 따르면, '더 퍼스트 슬램덩크'는 전날 10만 9145명의 관객을 동원하며 박스오피스 1위 자리에 올랐다. 현재까지 누적 관객수는 182만 4457명이다. 2위는 8만 9329명 관객을 동원한]]></content>
     </entry>
 </feed>
