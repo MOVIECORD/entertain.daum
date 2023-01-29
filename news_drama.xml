@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-01-29T14:10:26.410Z</updated>
+    <updated>2023-01-29T15:11:15.407Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[정경호, 전도연 어깨에 기댔다..'제자 사망' 과거사 충격→비밀과외 발각?]]></title>
+        <id>https://v.daum.net/v/20230129235921998</id>
+        <link href="https://v.daum.net/v/20230129235921998"/>
+        <updated>2023-01-29T15:10:59.453Z</updated>
+        <content type="html"><![CDATA[[OSEN=김나연 기자]&nbsp;'일타스캔들' 정경호와 전도연이 서로에게 한발 더 가까워졌다. 29일 방송된 tvN 토일드라마 '일타스캔들' 6회에서는 최치열(정경호 분)의 과거사가 드러난 가운데, 남행선(전도연 분)에게 자신의 속내를 털어놨다. 이날 최치열은 남행선의 집에서 외박한 사실을 김영주(이봉련 분), 지동희(신재하 분)에게 들키면서 남해이(노윤서 분]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['일타 스캔들' 정경호, 전도연 위로에 되찾은 기운..로맨스 시작?]]></title>
         <id>https://v.daum.net/v/20230129224821753</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230129202525720"/>
         <updated>2023-01-29T12:19:12.153Z</updated>
         <content type="html"><![CDATA[[OSEN=박근희 기자] '삼남매가 용감하게’ 이하나가 안지혜의 머리채를 잡았다. 29일 전파를 탄 KBS2 주말드라마 ‘삼남매가 용감하게’에서는 이장미(안지혜 분)를 만난 김태주(이하나 분)의 모습이 그려졌다. 길에서 우연히 이장미를 만난 김태주는 “나 알죠?”라고 질문을 던졌고, 이장미는 “아직 정신 안 돌았나봐요. 기분 좋아보이시네”라며 비아냥거렸]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['삼남매' 왕빛나, 이유진 교통사고 소리에 충격 '눈물']]></title>
-        <id>https://v.daum.net/v/20230129201812666</id>
-        <link href="https://v.daum.net/v/20230129201812666"/>
-        <updated>2023-01-29T12:19:12.155Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 이이진 기자) '삼남매가 용감하게' 이유진이 교통사고를 당할 위기에 놓였다. 29일 방송된 KBS 2TV 주말드라마 '삼남매가 용감하게' 37회에서는 장현정(왕빛나 분)이 김건우(이유진)를 걱정하는 모습이 그려졌다. 이날 김건우는 장현정과 통화하던 중 교통사고를 당할 위기에 놓였다. 장현정은 갑작스럽게 전화가 끊기자 당황했고, 김건우를 찾기]]></content>
     </entry>
 </feed>
