@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2023-01-29T15:11:15.411Z</updated>
+    <updated>2023-01-29T16:14:30.346Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['대행사' 이보영, PT 일격으로 '기적' 쓸까]]></title>
+        <id>https://v.daum.net/v/20230130002006203</id>
+        <link href="https://v.daum.net/v/20230130002006203"/>
+        <updated>2023-01-29T16:14:23.856Z</updated>
+        <content type="html"><![CDATA[[티브이데일리 황서연 기자] '대행사'의 이보영이 일격을 준비했다. 29일 밤 방송한 JTBC 토일드라마 '대행사'(극본 송수한·연출 이창민)에서는 우원그룹 PT 준비를 전두지휘하는 고아인(이보영)의 모습이 그려졌다. 이날 방송에서 최창수(조성하)는 프리랜서 카피라이터를 고용하며 칼을 갈았다. 고아인 팀원들은 위기를 느꼈지만, 고아인은 최창수 팀이 메시지를]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[제이쓴, ♥홍현희와 꽁냥꽁냥 라면 셔틀 “이것도 안 해주면 결혼 왜 해?”]]></title>
         <id>https://v.daum.net/v/20230130000926163</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230129225007762"/>
         <updated>2023-01-29T14:10:20.764Z</updated>
         <content type="html"><![CDATA[(서울=뉴스1) 윤효정 기자 = '일타 스캔들' 정경호와 전도연이 더 가까워지는 가운데, 두 사람의 비밀 약속이 들통날 위기에 처했다. 29일 밤 방송된 tvN 주말드라마 '일타 스캔들'(극본 양희승/연출 유제원) 6회에서 최치열(정경호 분)과 남행선(전도연 분)의 비밀 과외 약속이 점점 더 많은 이들에게 알려졌다. 앞서 술을 마시고 남행선의 집에서]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김종국 "母 몸 안 좋아서 병원 많이 다녀..지금은 회복 중"]]></title>
-        <id>https://v.daum.net/v/20230129224020713</id>
-        <link href="https://v.daum.net/v/20230129224020713"/>
-        <updated>2023-01-29T14:10:20.764Z</updated>
-        <content type="html"><![CDATA[[스포츠조선 조윤선 기자] '미우새' 김종국이 편찮으셨던 어머니를 위해 깜짝 요리 이벤트를 준비했다. 29일 방송된 SBS '미운 우리 새끼'에서는 어머니를 위한 요리 이벤트를 준비하는 김종국의 모습이 그려졌다. 이날 김종국의 집에는 이상민과 김희철, 딘딘이 찾아왔다. 이상민은 "효자 종국이가 어머님 때문에 나한테 요리를 배우겠다고 했다"며]]></content>
     </entry>
 </feed>
