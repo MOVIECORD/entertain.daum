@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/variety</id>
     <title>다음 연예 ─ 뉴스 ─ 예능</title>
-    <updated>2023-01-30T16:15:48.271Z</updated>
+    <updated>2023-01-30T17:11:27.074Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[살아있는 딸 사망신고 요구한 전남편…25세 무속인, 충격 폭로]]></title>
+        <id>https://v.daum.net/v/20230131020004427</id>
+        <link href="https://v.daum.net/v/20230131020004427"/>
+        <updated>2023-01-30T17:11:15.275Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 박윤진 기자] 채널S 고민상담 토크쇼 ‘진격의 언니들-고민커트살롱’에 자식의 사망신고를 요구하는 등 듣도 보도 못한 만행을 저지르는 전남편 때문에 눈물을 쏟아내는 사연자가 찾아온다. 최근 진행된 ‘진격의 언니들’ 녹화에는 20대 초반부터 무속인의 길을 걷게 된 25세 사연자가 출연해 “악연은 어떻게 끊을 수 있냐”라며 언니들에게 조언을 구]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['결혼지옥' 아내, 원인 없는 통증? 오은영, "신체화 장애, 부부 각방 추천"]]></title>
         <id>https://v.daum.net/v/20230131010917344</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230130235838838"/>
         <updated>2023-01-30T15:12:51.268Z</updated>
         <content type="html"><![CDATA[[OSEN=김보라 기자]&nbsp;배우 강남길이 “세 번 죽을 뻔했다”고 밝혔다. 강남길은 30일 오후 방송된 MBN 예능 ‘당신 참 좋다’에서 “41살, 49살, 59살에 목숨이 위태로웠다”며 이같이 말했다. 이날 강남길은 “41살에 심근경색이 왔다. 근데 골든타임 3분 안에 119가 와서 살았다. 그건 약과였다”고 했다. 이어 그는 “그 후 49살에 영국에서]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[진태현, 떠나보낸 아기에 먹먹한 마음..."시간이 깨져버린 기분"]]></title>
-        <id>https://v.daum.net/v/20230130235101804</id>
-        <link href="https://v.daum.net/v/20230130235101804"/>
-        <updated>2023-01-30T15:12:51.290Z</updated>
-        <content type="html"><![CDATA[[텐아시아=신지원 기자]진태현이 떠나보인 아기에 대한 먹먹한 마음을 전했다. 30일 방송된 SBS '동상이몽2-너는 내 운명'에서는 진태현-박시은 부부가 근황을 전하는 모습이 그려졌다. 지난 8월 출산 20여 일을 앞두고 검사를 받으러 간 박시은은 갑작스럽게 아이의 심장이 뛰지 않는다는 청천벽력같은 소리를 들었다.  박시은은 "우여곡절이 많이 있었지만]]></content>
     </entry>
 </feed>
