@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-01-30T02:11:52.582Z</updated>
+    <updated>2023-01-30T03:13:29.912Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘아바타2’ 21억 달러 돌파, ‘타이타닉’ 잡고 역대흥행 3위 노린다]]></title>
+        <id>https://v.daum.net/v/20230130112013098</id>
+        <link href="https://v.daum.net/v/20230130112013098"/>
+        <updated>2023-01-30T03:13:29.027Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]제임스 카메론 감독의 ‘아바타:물의 길’(이하 ‘아바타2’)가 21억 달러를 돌파했다. 버라이어티는 29일(현지시간) “‘아바타2’가 북미에서 6억 2,000만 달러를 포함해 전 세계적으로 21억 1,700만 달러(약 2조 6,030억)를 돌파했다”고 보도했다. 역대 흥행순위는 다음과 같다. 1. ‘아바타’ 29억 2,0]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['라스트 오브 어스' 성우 애니 워싱, 암 투병 중 사망]]></title>
         <id>https://v.daum.net/v/20230130104915335</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230129161521064"/>
         <updated>2023-01-29T08:14:30.982Z</updated>
         <content type="html"><![CDATA[[OSEN=최나영 기자] 가수 겸 배우 셀레나 고메즈(30)가&nbsp;루푸스 약물의 부작용으로 손이 떨리는&nbsp;증상인 수전증을 앓고 있음을&nbsp;털어놨다. 셀레나 고메즈는 최근 본인의 메이크업과 스킨케어 루틴을 보여주는 동영상을 공유했는데 팬들은 그의&nbsp;손이 흔들리는 것을 포착했다.&nbsp;영상에서 고메즈는 스펀지에 물을 바르려고 했지만 흔들리는 손이 불안정해 보인 것. 고메즈]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["연예인은 절대 안돼"…마돈나·메간 폭스 등 데뷔 반대한 할리우드★의 부모들]]></title>
-        <id>https://v.daum.net/v/20230129160351832</id>
-        <link href="https://v.daum.net/v/20230129160351832"/>
-        <updated>2023-01-29T07:10:26.917Z</updated>
-        <content type="html"><![CDATA[[스포츠조선 고재완 기자] 한국에서나 미국에서나 부모에게 자녀들은 '걱정스런 존재'인가보다. "연예인을 하고 싶다"는 자녀들을 반대하는 일은 미국에서도 비일비재하니 말이다. 미국의 한 온라인 연예 사이트는 '부모가 경력을 망친 스타'라는 제목의 글을 통해 연예계 데뷔를 반대했던 스타의 부모님에 대해 분석했다. 할리우드 톱스타 제니퍼 로페즈는]]></content>
     </entry>
 </feed>
