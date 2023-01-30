@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-01-30T10:12:57.495Z</updated>
+    <updated>2023-01-30T11:10:31.262Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['태풍의 신부' 손창민 "지수원, 지하실에서 나갈 수 없어"]]></title>
+        <id>https://v.daum.net/v/20230130200629665</id>
+        <link href="https://v.daum.net/v/20230130200629665"/>
+        <updated>2023-01-30T11:10:13.654Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 이상은 기자] /사진=KBS 2TV 일일드라마 '태풍의 신부' 방송화면'태풍의 신부' 손창민이 병세가 악화된 지수원을 철저히 지하실에 가뒀다. 30일 오후 방송된 KBS 2TV 일일드라마 '태풍의 신부'에서는 르블랑 회장 강백산(손창민 분)이 어머니 박용자(김영옥 분)와 함께 지하실에 간 모습이 담겼다. 이날 강백산은 납치한 S 그룹 대표 서]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['일타 스캔들' 이채민, 달달함 한도초과]]></title>
         <id>https://v.daum.net/v/20230130191131602</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230130155359541"/>
         <updated>2023-01-30T07:12:49.229Z</updated>
         <content type="html"><![CDATA[[뉴스엔 박정민 기자] 로맨스가 없어도 충분하다. '대행사'가 상승세를 보이고 있다. '재벌집 막내아들' 후속작인 JTBC 토일드라마 '대행사'(극본 송수한/연출 이창민)는 VC그룹 최초로 여성 임원이 된 고아인(이보영 분)이 최초를 넘어 최고의 위치까지 자신의 커리어를 만들어가는 모습을 그린 우아하게 처절한 광고대행사 오피스 드라마. 첫 시작은 아쉬웠]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[송중기, 英 여친 케이티와 한 달 만 혼인신고…임신·재혼설 맞았다]]></title>
-        <id>https://v.daum.net/v/20230130153126417</id>
-        <link href="https://v.daum.net/v/20230130153126417"/>
-        <updated>2023-01-30T07:12:49.229Z</updated>
-        <content type="html"><![CDATA[송중기(왼쪽) 케이티 루이스 사운더스(사진=이데일리DB)[이데일리 스타in 김가영 기자] 배우 송중기가 영국인 여자친구 케이티 루이스 사운더스와 부부가 됐다. 혼인신고 사실을 직접 알리며 임신까지 발표한 송중기. 결국 그를 둘러싼 ‘설’들이 사실로 확인됐다. 송중기는 지난해 12월 26일 케이티 루이스 사운더스와 열애를 인정했다. 소속사인 하이지음스튜디오]]></content>
     </entry>
 </feed>

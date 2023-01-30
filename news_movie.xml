@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-01-30T10:12:57.499Z</updated>
+    <updated>2023-01-30T11:10:31.263Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['아바타: 물의 길' 韓개봉 영화 역대 3위-전세계 흥행 톱4]]></title>
+        <id>https://v.daum.net/v/20230130200338610</id>
+        <link href="https://v.daum.net/v/20230130200338610"/>
+        <updated>2023-01-30T11:10:08.018Z</updated>
+        <content type="html"><![CDATA[[OSEN=김보라 기자]&nbsp;올 겨울 전세계적&nbsp;흥행 신드롬을 일으키고 있는 영화 '아바타: 물의 길'이 팬데믹 이후 개봉작 중 최고 매출액을 기록했던 '범죄도시2'를 넘으며 국내 개봉작 역대 매출액 3위를 달성한 동시에, 전세계 역대 흥행 수익 TOP 4로 등극했다.&nbsp; 2009년 혁신적인 기술력으로 신드롬을 일으키며 월드와이드 역대 흥행 순위 1위를 기록하]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['소울메이트' 변우석, 순수함 지닌 남자]]></title>
+        <id>https://v.daum.net/v/20230130193622148</id>
+        <link href="https://v.daum.net/v/20230130193622148"/>
+        <updated>2023-01-30T11:10:08.021Z</updated>
+        <content type="html"><![CDATA[[OSEN=김보라 기자] 배우 변우석이 영화 '소울메이트'를 통해 '소울메이트'(감독 민용근, 배급 NEW, 제작 클라이맥스 스튜디오・앤드마크 스튜디)는 첫 만남부터 서로를 알아본 두 친구 미소(김다미 분)와 하은(전소니 분), 그리고 진우(변우석 분)가 기쁨, 슬픔, 설렘, 그리움까지 모든 것을 함께한 이야기다. 30일 공개된 변우석의 캐릭터 스틸은]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['아바타2', 마동석 '범죄도시2' 꺾고 팬데믹 이후 최고 매출 기록..전세계 역대 흥행 4위]]></title>
         <id>https://v.daum.net/v/20230130183237942</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230130145754979"/>
         <updated>2023-01-30T06:15:30.652Z</updated>
         <content type="html"><![CDATA[[스타뉴스 김미화 기자] 송중기, 케이티 루이스 사운더스 /사진=스타뉴스 /AFPBBNews=뉴스1=스타뉴스 송중기가 남편이자, 아빠가 된다. 송중기는 영국인 여자친구 케이티 루이스 사운더스와의 혼인신고를 했다는 소식과 함께 새 생명이 찾아왔다고 알렸다. 송중기는 30일 자신의 팬카페에 글을 남기고 결혼 소식을 전했다. 송중기는 "제 인생에서 무엇보다]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["임신설, 루머 아닌 사실"..송중기, 英여친 케이티와 재혼]]></title>
-        <id>https://v.daum.net/v/20230130144031340</id>
-        <link href="https://v.daum.net/v/20230130144031340"/>
-        <updated>2023-01-30T06:15:30.654Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 김미화 기자] 송중기, 케이티 루이스 다운더스 /사진=스타뉴스 /AFPBBNews=뉴스1 송중기 영국인 여자친구의 임신설은 루머가 아닌 사실이었다. 송중기는 영국인 여자친구 케이티 루이스 사운더스와의 재혼 소식과 함께 새 생명이 찾아왔다고 알렸다. 송중기는 30일 자신의 팬카페에 글을 남기고 결혼 소식을 알렸다. 송중기는 "제 인생에서 무엇보다]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['카운트' 첫 단독 주연 진선규 "꽉 잡고 싶었던 영화"]]></title>
-        <id>https://v.daum.net/v/20230130142240727</id>
-        <link href="https://v.daum.net/v/20230130142240727"/>
-        <updated>2023-01-30T06:15:30.668Z</updated>
-        <content type="html"><![CDATA[(서울=연합뉴스) 양정우 기자 = 그동안 팔색조 연기를 펼쳐왔던 진선규가 첫 단독 주연작 '카운트'에서 다시 한번 연기 변신을 시도한다. '카운트'는 올림픽 복싱 금메달리스트지만 지금은 평범한 고교 체육 교사가 반항기 가득한 학생들과 복싱부를 끌어가며 좌충우돌 벌이는 이야기를 그린다. 진선규는 영화 '범죄도시'의 조선족 조폭, '극한직업'의 마약반 형사,]]></content>
     </entry>
 </feed>
