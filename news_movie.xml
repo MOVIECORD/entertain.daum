@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-01-30T18:14:40.790Z</updated>
+    <updated>2023-01-30T19:09:59.204Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘오늘밤’ ‘슬램덩크’… 신년 극장가 달구는 일본 영화들]]></title>
+        <id>https://v.daum.net/v/20230131040625924</id>
+        <link href="https://v.daum.net/v/20230131040625924"/>
+        <updated>2023-01-30T19:09:35.645Z</updated>
+        <content type="html"><![CDATA[연초 극장가는 국내 기대작뿐만 아니라 일본, 대만 등 해외 영화·애니메이션이 관객의 발길을 끌어모으고 있다. 특히 ‘오늘 밤 세계에서 이 사랑이 사라진다 해도’는 일본 영화로선 21년 만에 국내에서 100만 관객을 넘겼다. 30일 영화관입장권 통합전산망에 따르면 지난해 11월 30일 개봉한 이 영화는 누적 관객 수 100만966명(29일 기준)을 기록했다]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[현재 가장 '과소평가'된 넷플릭스 韓영화는? 외신 선정]]></title>
         <id>https://v.daum.net/v/20230130234523784</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230130161124446"/>
         <updated>2023-01-30T07:12:44.751Z</updated>
         <content type="html"><![CDATA[[티브이데일리 김지현 기자] '영화처럼 살다 간 사람' 누군가의 묘비명에 이 같은 글귀가 새겨졌다면, 혹자들은 고인의 생애가 꽤 낭만적이었다고 생각할지도 모른다. 일상의 비루함이 도무지 떠오르지 않는 화려한 수식어지만 당신이 익히 아는 것 처럼 산다는 건 녹록치 않다. 무덤가에 그득 핀 잡초처럼 질긴 사연으로 채워진 것이 우리의 삶이다. 원로 배우 윤정희]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[파리서 詩가 된 윤정희, '詩 인연' 이창동 감독 마지막길 배웅]]></title>
-        <id>https://v.daum.net/v/20230130160605165</id>
-        <link href="https://v.daum.net/v/20230130160605165"/>
-        <updated>2023-01-30T07:12:44.756Z</updated>
-        <content type="html"><![CDATA[(파리=연합뉴스) 현혜란 특파원 = 한국 영화사에 한 획을 남긴 고(故) 윤정희(본명 손미자)가 반평생을 살았던 프랑스 파리 외곽 도시 뱅센에 30일(현지시간) 영원히 잠든다. 이날 1시간 정도 이어지는 장례식에는 16년만의 스크린 복귀작이자 생전 마지막 작품이 된 영화 '시'(詩)로 인연을 맺은 이창동 감독이 함께해 고인의 마지막 길을 배웅한다. 2010]]></content>
     </entry>
 </feed>
