@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-01-31T00:59:48.713Z</updated>
+    <updated>2023-01-31T02:23:18.990Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[원조 보이그룹 '뉴키즈온더블록', 재결성 15주년 대규모 팬미팅]]></title>
+        <id>https://v.daum.net/v/20230131100707509</id>
+        <link href="https://v.daum.net/v/20230131100707509"/>
+        <updated>2023-01-31T02:23:18.378Z</updated>
+        <content type="html"><![CDATA[(시카고=연합뉴스) 김현 통신원 = 1980~90년대 전세계적으로 폭발적인 인기를 모은 원조 보이그룹 '뉴키즈온더블록'(New Kids On The Block)이 재결성 15주년을 기념한 대규모 팬미팅 행사를 연다. 미국의 5인조 그룹 뉴키즈온더블록은 30일(현지시간) 공식 홈페이지를 통해 "오는 5월26일부터 28일까지 사흘간 시카고에서 팬 컨벤션(팬]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘벤 애플렉과 이혼’ 50살 제니퍼 가너, 6살 연하 CEO와 열애중]]></title>
         <id>https://v.daum.net/v/20230131092936990</id>
@@ -34,7 +41,7 @@
         <content type="html"><![CDATA[[OSEN=최나영 기자] 다프네 브리저튼이 떠났다. 넷플릭스 인기 시리즈 '브리저튼'의 스타 피비 디네버(27)가 시즌 3에 돌아오지 않을 것이라고 발표해 팬들을 충격에 빠뜨렸다. '브리저튼' 시즌 1의 여자 주인공으로&nbsp;브리저튼 가문의 넷째이자&nbsp;장녀 다프네 역을 맡은 디네버는 최근 스크린 랜트에&nbsp;"슬프게도 시즌 3에는 없다. 하지만 시즌 3를&nbsp;난 시청자]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA["알렉 볼드윈, 과실치사 징역 18개월" vs "청상 참작 확신"]]></title>
+        <title type="html"><![CDATA["알렉 볼드윈, 과실치사 징역 18개월" vs "정상참작 자신"]]></title>
         <id>https://v.daum.net/v/20230131080542690</id>
         <link href="https://v.daum.net/v/20230131080542690"/>
         <updated>2023-01-30T23:14:12.269Z</updated>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230130162833059"/>
         <updated>2023-01-30T08:15:39.043Z</updated>
         <content type="html"><![CDATA[[스포츠조선 정빛 기자] 미국 배우 애니 워싱이 암 투병 중 세상을 떠났다. 29일(현지 시간) AP통신, CNN 등 현지 매체에 따르면, 애니 워싱은 이날 오전 미국 로스앤젤레스에서 생을 마감했다. 향년 45세. 2020년 암을 진단받은 애니 워싱은 암 투병 중에서도 계속해서 배우 생활을 이어왔다. 최근에는 TV 시리즈 '스타 트렉: 피카드]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[무명 배우가 '오스카' 여주 후보?...'웬즈데이' 출연자, 작심 비판]]></title>
-        <id>https://v.daum.net/v/20230130155430577</id>
-        <link href="https://v.daum.net/v/20230130155430577"/>
-        <updated>2023-01-30T07:13:02.219Z</updated>
-        <content type="html"><![CDATA[[TV리포트=이수연 기자] 넷플릭스 '웬즈데이'에 출연했던 배우 크리스티나 리치가 '제 95회 미국 아카데미 시상식'(아카데미) 여우주연상 후보 논란에 입을 열었다. 30일(현지 시간) 크리스티나 리치는 여우주연상 후보를 재검토하겠다는 입장을 밝힌 '아카데미'에 대해 "엘리트주의적이고 배타적이다"라고 비판했다. 지난 29일 한 인디 영화에 출연한 영국 배우]]></content>
     </entry>
 </feed>
