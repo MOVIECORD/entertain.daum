@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-01-31T06:16:29.349Z</updated>
+    <updated>2023-01-31T07:11:07.290Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[다프네 없는 ‘브리저튼3’ 피비 디네버 “시청자로 볼 것”]]></title>
+        <id>https://v.daum.net/v/20230131152906127</id>
+        <link href="https://v.daum.net/v/20230131152906127"/>
+        <updated>2023-01-31T07:11:06.694Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 이민지 기자] '브리저튼3'에서 다프네를 볼 수 없을 전망이다. 1월 30일(현지시간) 버라이어티 등 외신에 따르면 배우 피비 디네버가 넷플릭스 시리즈 '브리저튼' 시즌3에 출연하지 않는다. 넷플릭스 인기 시리즈 '브리저튼'에서 다프네 브리저튼을 연기해 큰 사랑을 받은 피비 디네버는 "나는 그 캐릭터로 내가 하고 싶었던 것을 했다"며 캐릭터와]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[아카데미 깜짝 후보지명 英 배우, 부정행위 의혹…후보지명 철회?]]></title>
         <id>https://v.daum.net/v/20230131144708397</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230131080031597"/>
         <updated>2023-01-30T23:14:12.270Z</updated>
         <content type="html"><![CDATA[[TV리포트=박설이 기자] 홍콩 배우 양조위가 중국판 틱톡인 더우인 계정을 개설했다. 양조위는 30일 자신의 SNS 인스타그램 스토리를 통해 "2023년 1월 30일 양조위 저우인 독점 개설"이라는 글이 적힌 포스터를 게재, 더우인 개설 소식을 직접 알렸다. 공개된 포스터에서 정장 차림의 양조위는 자신의 얼굴이 크게 새겨진 커튼을 젖히고 걸어 나오는 모습이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['아바타2' 제임스 카메론 "OTT는 이제 그만, 극장으로 돌아가자"]]></title>
-        <id>https://v.daum.net/v/20230131010531324</id>
-        <link href="https://v.daum.net/v/20230131010531324"/>
-        <updated>2023-01-30T16:15:47.645Z</updated>
-        <content type="html"><![CDATA[[TV리포트=이수연 기자] '아바타' 시리즈의 감독 제임스 카메론은 관객들이 OTT 서비스가 아닌 극장으로 가야한다고 피력했다. 10일(현지 시간) 미국 LA 비버리 힐튼 호텔에서 개최된 '제 80회 골든글로브 시상식'(이하 '골든글로브')에 '아바타' 시리즈의 감독 제임스 카메론이 참석했다. 버라이어티지와 인터뷰에서 그는 "사회가 'OTT 스트리밍 서비]]></content>
     </entry>
 </feed>
