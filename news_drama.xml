@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-01-31T14:11:20.146Z</updated>
+    <updated>2023-01-31T15:12:31.190Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[종영 '미씽2' 고수, 새 영혼 마을 찾고 열린 결말…임시완 깜짝 등장]]></title>
+        <id>https://v.daum.net/v/20230131233002226</id>
+        <link href="https://v.daum.net/v/20230131233002226"/>
+        <updated>2023-01-31T15:12:14.381Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 이이진 기자) '미씽: 그들이 있었다2' 고수가 새로운 영혼 마을을 찾았다. 31일 방송된 tvN 월화드라마 '미씽: 그들이 있었다2'(이하 '미씽2') 14회(최종회)에서는 김욱(고수 분), 장판석(허준호), 이종아(안소희)가 노윤구(김태우)로부터 오일용(김동휘)을 지킨 모습이 그려졌다. 이날 노윤구는 오일용을 납치했고, 이종아는 미리 숨겨]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['미씽2' 의식 찾은 김동휘, 결국 경찰에 자수→김태우 탈옥..시즌2 종영]]></title>
         <id>https://v.daum.net/v/20230131224729025</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230131181327964"/>
         <updated>2023-01-31T10:12:28.832Z</updated>
         <content type="html"><![CDATA[[스타뉴스 김노을 기자] 배우 송덕호가 19일 오후 온라인으로 진행된 MBC 수목드라마 '일당백집사' 제작발표회에 참석해 포즈를 취하고 있다.  '일당백집사'는 고인의 청을 들어주는 장례지도사 '백동주(이혜리 분)'와 생활 서비스 업체 일당백 '김집사(이준영 분)'’의 상부상조 프로젝트를 그린다. / 사진제공 = MBC /사진=김창현 기자 chmt@병역면탈]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[배우 송덕호, 병역 비리 인정→드라마 하차까지]]></title>
-        <id>https://v.daum.net/v/20230131180439721</id>
-        <link href="https://v.daum.net/v/20230131180439721"/>
-        <updated>2023-01-31T09:11:57.464Z</updated>
-        <content type="html"><![CDATA[송덕호(사진=MBC)[이데일리 스타in 유준하 기자] 배우 송덕호가 병역 비리 의혹을 인정하면서 캐스팅된 프로그램 하차 등 논란이 일었다. 이에 송덕호 소속사 측은 사과와 함께 남은 검찰 조사에도 성실히 임하겠다고 밝혔다. 비스터스엔터테인먼트는 31일 “송덕호는 지난해 여름경 군입대 시기 연기를 위해 인터넷으로 관련 정보를 알아보던 중 A씨가 운영하던 블]]></content>
     </entry>
 </feed>
