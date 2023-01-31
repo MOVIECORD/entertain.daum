@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/variety</id>
     <title>다음 연예 ─ 뉴스 ─ 예능</title>
-    <updated>2023-01-31T03:14:49.186Z</updated>
+    <updated>2023-01-31T04:14:06.510Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이찬원 ‘옥문아’ 단독 게스트 출격, 신곡 최초 공개]]></title>
+        <id>https://v.daum.net/v/20230131131314203</id>
+        <link href="https://v.daum.net/v/20230131131314203"/>
+        <updated>2023-01-31T04:13:56.078Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 박아름 기자] 이찬원이 '옥문아'에 출연한다. KBS 2TV 예능프로그램 ‘옥탑방의 문제아들’(이하 옥문아) 측은 1월 31일 가수 이찬원 출연 소식을 알렸다. 오는 2월 20일 첫 정규앨범 앨범 ‘ONE(원)’으로 컴백을 앞둔 이찬원은 '옥문아'에 단독 게스트로 출연해 ‘인간 비타민’다운 활기찬 에너지와 상큼한 매력으로 시청자들의 마음을 사로잡]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘알쓸인잡’ PD “RM 준비성→진행실력에 놀라, 바르고 건강한 사람”]]></title>
+        <id>https://v.daum.net/v/20230131121959340</id>
+        <link href="https://v.daum.net/v/20230131121959340"/>
+        <updated>2023-01-31T04:13:56.079Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 박수인 기자] 양정우, 전혜림 PD가 방탄소년단(BTS) RM(김남준)을 '알쓸인잡' MC로 섭외한 이유를 밝혔다. 양정우, 전혜림 PD는 1월 31일 서울 마포구 CJ ENM 센터에서 진행된 tvN '알아두면 쓸데없는 신비한 인간잡학사건'(이하 '알쓸인잡') 종영 인터뷰에서 RM을 섭외하기까지 과정을 털어놨다. 최근 9부작으로 종영된 '알쓸인잡]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[한혜진 "빨리 동거하고 싶다...진짜를 보고 싶었다"]]></title>
         <id>https://v.daum.net/v/20230131121002108</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230131112220872"/>
         <updated>2023-01-31T03:14:38.674Z</updated>
         <content type="html"><![CDATA[[OSEN=김채연 기자] JTBC&nbsp;신규 예능&nbsp;‘뭉쳐야 뜬다’&nbsp;새 시즌의 촬영을 위해 김용만,&nbsp;김성주,&nbsp;안정환,&nbsp;정형돈이 스페인으로 뜬다. 31일&nbsp;JTBC&nbsp;측은&nbsp;“’뭉쳐야 뜬다’&nbsp;새로운 시즌의 첫 여행지는 스페인이다”라며&nbsp;“기존 패키지여행과는 전혀 다른 방식으로 스페인을 경험을 하게 될&nbsp;‘뭉뜬&nbsp;4인방’의 모습을 기대해 주시길 바란다”라고 전했다.&nbsp;&nbsp; 지난&nbsp;]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[01:00부터 23:00까지…'피크타임' 23팀 실루엣 티저 공개]]></title>
-        <id>https://v.daum.net/v/20230131111736636</id>
-        <link href="https://v.daum.net/v/20230131111736636"/>
-        <updated>2023-01-31T02:23:06.522Z</updated>
-        <content type="html"><![CDATA[[OSEN=장우영 기자] '피크타임' 참가팀들이 실루엣 티저로 출사표를 던졌다. 지난 1일부터 21일까지 JTBC '피크타임(PEAK TIME)'(기획 윤현준, 연출 마건영·박지예)에 출연하는 23팀의 실루엣 티저 영상이 공개됐다. 실루엣 티저는 얼굴과 정체를 가린 남자 아이돌 그룹들 각 팀의 보컬 또는 퍼포먼스 커버 영상으로 이뤄졌다. 23팀은 엑스원]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘피지컬: 100’ 소방관 신동국, 추성훈과 세기의 맞대결]]></title>
-        <id>https://v.daum.net/v/20230131111355462</id>
-        <link href="https://v.daum.net/v/20230131111355462"/>
-        <updated>2023-01-31T02:23:06.525Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 김명미 기자] 넷플릭스(Netflix) 예능 '피지컬: 100'이 화제를 모으고 있다. '피지컬: 100'은 1월 31일 3-4화를 공개한다. 선공개된 예고 영상에는 긴장감이 흐르는 분위기 속 1:1 데스매치의 대결 상대를 지목하는 출연자들의 모습이 담겨 있다. 자신감 넘치는 표정으로 가장 강한 상대를 찾아 정면승부하려는 모습부터 살아남는 것이]]></content>
     </entry>
 </feed>
