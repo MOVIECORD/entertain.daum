@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-01-31T02:23:18.990Z</updated>
+    <updated>2023-01-31T03:14:49.173Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[故 마이클 잭슨 조카, 전기 영화서 마이클 잭슨 된다]]></title>
+        <id>https://v.daum.net/v/20230131114154945</id>
+        <link href="https://v.daum.net/v/20230131114154945"/>
+        <updated>2023-01-31T03:14:48.391Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 이민지 기자] 고(故) 마이클 잭슨 조카가 마이클 잭슨을 연기한다. 데드라인은 1월 30일(현지시간) 마이클 잭슨 조카 자파 잭슨이 안톤 후쿠아 감독 새 영화에서 팝의 황제 마이클 잭슨 역을 맡는다고 보도했다. 올해 26세인 자파 잭슨은 잭슨5 멤버이자 마이클 잭슨의 형인 저메인 잭슨의 아들로 12살 때부터 노래와 춤을 췄다. 자파 잭슨은]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[원조 보이그룹 '뉴키즈온더블록', 재결성 15주년 대규모 팬미팅]]></title>
         <id>https://v.daum.net/v/20230131100707509</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230130172118809"/>
         <updated>2023-01-30T09:13:16.015Z</updated>
         <content type="html"><![CDATA[[OSEN=최나영 기자] NBC 인기 TV시리즈 '프렌즈'의 스타 매기 휠러는 함께 호흡을 맞춘 매튜 페리의 회고록을 슬퍼서 읽기 힘들었다고 솔직하게 밝혔다. '프렌즈'에서 페리가 분한 챈들러의&nbsp;여자친구 재니스 역을 맡아 뜨거운 화제를 모은 휠러는 28일(현지시간) 페이지식스에&nbsp;"매튜가 그의 중독을 해결하기 위해 수년간 겪은 방법에 대해 너무나 많은 놀]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[얼마 전에 '스타트렉' 나왔는데…애니 워싱, 암 투병 중 끝내 사망]]></title>
-        <id>https://v.daum.net/v/20230130162833059</id>
-        <link href="https://v.daum.net/v/20230130162833059"/>
-        <updated>2023-01-30T08:15:39.043Z</updated>
-        <content type="html"><![CDATA[[스포츠조선 정빛 기자] 미국 배우 애니 워싱이 암 투병 중 세상을 떠났다. 29일(현지 시간) AP통신, CNN 등 현지 매체에 따르면, 애니 워싱은 이날 오전 미국 로스앤젤레스에서 생을 마감했다. 향년 45세. 2020년 암을 진단받은 애니 워싱은 암 투병 중에서도 계속해서 배우 생활을 이어왔다. 최근에는 TV 시리즈 '스타 트렉: 피카드]]></content>
     </entry>
 </feed>
