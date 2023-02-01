@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/variety</id>
     <title>다음 연예 ─ 뉴스 ─ 예능</title>
-    <updated>2023-02-01T16:16:06.249Z</updated>
+    <updated>2023-02-01T17:11:31.481Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['신병캠프', '가짜사나이X강철부대X푸른거탑' 韓 최초 군대 예능 다 모였다]]></title>
+        <id>https://v.daum.net/v/20230202020005044</id>
+        <link href="https://v.daum.net/v/20230202020005044"/>
+        <updated>2023-02-01T17:11:21.066Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 김나라 기자] '신병캠프'에 대한민국 최초로 군대 콘텐츠의 아이콘들이 모두 모였다. 크리에이터 장삐쭈 원작 화제 드라마 '신병'의 예능 스핀오프이다. ENA 새 예능 '신병캠프'는 누적 조회 수 2억 5,000만 뷰에 달하는 메가 히트 웹 애니메이션인 장삐쭈의 '신병'을 원작으로 한 화제의 드라마 '신병'의 예능 스핀오프이자 대한민국을 강]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[아이돌 미모 변은지, 유산 걱정에 넷째 갖기 망설여져]]></title>
         <id>https://v.daum.net/v/20230202011025952</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230202000007365"/>
         <updated>2023-02-01T15:12:44.168Z</updated>
         <content type="html"><![CDATA[[마이데일리 = 김나라 기자] '유 퀴즈 온 더 블럭'에서 '일타 강사' 조정식이 현실판 '일타 스캔들' 최치열(정경호)의 삶으로 이목을 끌었다. 1일 오후 방송된 케이블채널 tvN '유 퀴즈 온 더 블럭'에는 7년재 영어 일타 강사 조정식, 국어 최초 여성 일타 강사 김민정이 게스트로 등장했다. 이날 조정식은 "짬 나면 계속 공부한다. 지금도 운전해 주]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[곽튜브 "벤투 앞 월드컵 경기 관람, 욕쟁이더라" 폭로]]></title>
-        <id>https://v.daum.net/v/20230201235806347</id>
-        <link href="https://v.daum.net/v/20230201235806347"/>
-        <updated>2023-02-01T15:12:44.171Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 오수정 기자) '라디오스타'에서 여행 유튜버 곽튜브가 벤투 감독 앞자리에서 2022 카타르 월드컵 경기를 관람한 이야기를 전했다. &nbsp; 1일 방송된 MBC 예능프로그램 '라디오스타'는 '부캐 체크인' 특집으로 꾸며져 박세리, 이수지, 김해준, 곽튜브가 출연해 이야기를 나눴다.&nbsp; 이날 132만 구독자를 보유한 곽튜브는 여행 유튜버가 된 계기에 대]]></content>
     </entry>
 </feed>
