@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-02-01T02:53:08.222Z</updated>
+    <updated>2023-02-01T03:22:13.601Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[박희순, 아들 정택현 사망 당일 만났다…수상한 행적 '반전']]></title>
+        <id>https://v.daum.net/v/20230201120945042</id>
+        <link href="https://v.daum.net/v/20230201120945042"/>
+        <updated>2023-02-01T03:21:55.213Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 이예진 기자) ‘트롤리’ 박희순의 수상한 행적이 포착됐다. 지난 31일 방송된 SBS 월화드라마 ‘트롤리’ 12회에서는 아들 남지훈(정택현 분)이 생전 성폭행을 했다는 사실을 접한 김혜주(김현주), 남중도(박희순)가 혼란과 갈등에 휩싸였다. 남중도는 김수빈(정수빈)이 찾아와 협박했다고 주장했고, 김혜주는 되려 그의 진심을 의심했다. 하지만 여]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘유세풍2’ 김민재 김향기 김상경 위기, 빌런 백성철과 재대립]]></title>
         <id>https://v.daum.net/v/20230201115035438</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230201092503840"/>
         <updated>2023-02-01T01:03:58.784Z</updated>
         <content type="html"><![CDATA[[OSEN=장우영 기자] 배우 황지아가 드라마 ‘남이 될 수 있을까’에 캐스팅됐다. 지니TV 오리지널 ‘남이 될 수 있을까(극본 박사랑 연출 김양희)’는 이혼은 쉽고 이별은 어려운 이혼 전문 변호사들의 사랑과 인생 성장기를 그린 드라마로, 배우 강소라, 장승조 등 주연 배우들의 열연과 탄탄한 스토리, 감각적인 연출로 인기리에 방영되고 있다. 극 중 황지]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['귀신 보는' 윤찬영·'영혼' 방민아..'딜리버리맨' 페어 포스터 공개]]></title>
-        <id>https://v.daum.net/v/20230201092219751</id>
-        <link href="https://v.daum.net/v/20230201092219751"/>
-        <updated>2023-02-01T01:03:58.784Z</updated>
-        <content type="html"><![CDATA[[OSEN=김나연 기자]&nbsp;'딜리버리맨' 윤찬영, 방민아가 신박한 콤비 플레이를 펼친다.&nbsp; 오는 3월 1일 첫 방송 예정인 지니 TV 오리지널 ‘딜리버리맨’(연출 강솔·박대희, 극본 주효진·박혜영·한보경, 기획 스튜디오지니, 제작 코탑미디어) 측은 1일, 귀신 보는 택시기사 서영민(윤찬영 분)과 사건 쫓는 영혼 강지현(방민아 분)의 비범한 시너지가 호기심]]></content>
     </entry>
 </feed>

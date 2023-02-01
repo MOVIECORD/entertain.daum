@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-02-01T02:53:08.218Z</updated>
+    <updated>2023-02-01T03:22:13.606Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[벌써 흥행 시동 건 ‘분노의 질주’ 5월17일 개봉 확정]]></title>
+        <id>https://v.daum.net/v/20230201115909696</id>
+        <link href="https://v.daum.net/v/20230201115909696"/>
+        <updated>2023-02-01T03:21:49.412Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 허민녕 기자] 벌써 10번째. 21세기엔 단연 최고 시리즈일 수밖에 없는 ‘분노의 질주’가 ‘라이드 오어 다이’(Ride or Die)란 결연한 부제를 달고 오는 5월 출격한다. 개봉 날짜도 5월17일로 일찌감치 못박는 등 10번째란 기념비적인 숫자에 걸맞는 조기 홍보전에 나선 모양새다. 분노의 숫자 X ‘분노의 질주:라이드 오어 다이’에는 회]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['분노의 질주' 10번째 시리즈, 5월 17일 국내 개봉]]></title>
         <id>https://v.daum.net/v/20230201113538862</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230201094208577"/>
         <updated>2023-02-01T02:52:46.102Z</updated>
         <content type="html"><![CDATA[[SBS 연예뉴스 | 김지혜 기자] 영화 '분노의 질주' 시리즈의 10번째 영화 '분노의 질주:라이드 오어 다이'가 오는 5월 17일 국내 개봉한다. '라이드 오어 다이'는 '분노의 질주' 시리즈를 대표하는 명대사다. 10번째 영화에서 이를 인용하며 시리즈의 정체성을 드러냈다. 뿐만 아니라 '분노의 질주: 라이드 오어 다이'의 역대급 배우진과 제작진도 이목]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DC, 헨리 카빌 해고→새 슈퍼맨 2025년 7월 나온다..배트맨도 '대 변화' 공개]]></title>
-        <id>https://v.daum.net/v/20230201093818407</id>
-        <link href="https://v.daum.net/v/20230201093818407"/>
-        <updated>2023-02-01T01:03:53.349Z</updated>
-        <content type="html"><![CDATA[[OSEN=최나영 기자] 'DC 스튜디오&nbsp;재편성과 함께 오는 배트맨과 슈퍼맨.' 배트맨과 슈퍼맨의 새로운&nbsp;길을 열어주는 슈퍼히어로 영화들의 DC 영화 슬레이트가 공개됐다. 작가이자 감독인 제임스 건과 프로듀서인 피터 사프란은 워너 브라더스의&nbsp;DC 필름스로 알려진 DC 스튜디오&nbsp;새로운 공동 CEO가 됐다. 지난 해 10월, 이들은 디즈니의 마블 스튜디오와]]></content>
     </entry>
 </feed>
