@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-02-01T13:21:08.089Z</updated>
+    <updated>2023-02-01T14:11:35.063Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['유세풍2' 강영석, 거짓 상소로 김민재♥김향기 이간질 "거리 둬라"]]></title>
+        <id>https://v.daum.net/v/20230201230407019</id>
+        <link href="https://v.daum.net/v/20230201230407019"/>
+        <updated>2023-02-01T14:11:17.304Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 이이진 기자) '조선 정신과 의사 유세풍2' 강영석이 김향기에게 김민재와 거리를 두라고 당부했다. 1일 방송된 tvN 수목드라마 '조선 정신과 의사 유세풍2'(이하 '유세풍2') 7회에서는 전강일(강영석 분)이 유세풍(김민재)과 서은우(김향기)를 이간질하는 모습이 그려졌다. 이날 전강일은 안학수(백성처)를 부추겨 상소문을 쓰게 만들었고, 결국]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[박하나, 천산화 행방 알았다…母 지수원과 '눈물의 재회']]></title>
         <id>https://v.daum.net/v/20230201204729317</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230201173520062"/>
         <updated>2023-02-01T09:12:29.484Z</updated>
         <content type="html"><![CDATA[[OSEN=하수정 기자] 디즈니+의 오리지널 시리즈 '사랑이라 말해요'(연출 이광영, 제공 월트디즈니컴퍼니 코리아, 제작 아크미디어)가 세 가지 키워드로 보는 필수 시청 포인트를 공개했다. KEYWORD 1. 복수 만나지 말았어야 할 두 사람이 ‘복수’로 엮이다! 오는 2월 22일 공개를 앞둔 '사랑이라 말해요'는 복수에 호기롭게 뛰어든 여자 우주와 복]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['미씽2' 김동휘 "울컥하고 감동받는 순간 많아…성장의 시간"]]></title>
-        <id>https://v.daum.net/v/20230201172627716</id>
-        <link href="https://v.daum.net/v/20230201172627716"/>
-        <updated>2023-02-01T09:12:29.486Z</updated>
-        <content type="html"><![CDATA[사진=김동휘[이데일리 스타in 김가영 기자] ‘미씽:그들이 있었다2’ 배우 김동휘가 미스터리부터 휴머니티까지 다채로운 얼굴을 선보이며 첫 주연작을 성공적으로 마쳤다. 지난달 31일 14부를 끝으로 종영한 tvN 월화드라마 ‘미씽: 그들이 있었다2’(연출 민연홍·이예림, 극본 반기리·정소영, 제작 메이스엔터테인먼트·두프레임, 이하 ‘미씽2’)에서 김동휘는]]></content>
     </entry>
 </feed>
