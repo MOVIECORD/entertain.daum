@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-02-01T20:12:38.232Z</updated>
+    <updated>2023-02-01T21:12:41.333Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘더 퍼스트 슬램덩크’ 200만 돌파‥3040 이끈 입소문의 힘]]></title>
+        <id>https://v.daum.net/v/20230202052754477</id>
+        <link href="https://v.daum.net/v/20230202052754477"/>
+        <updated>2023-02-01T21:12:19.834Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 배효주 기자] '더 퍼스트 슬램덩크'가 개봉 29일째 200만 관객을 돌파했다. 2월 2일 영화진흥위원회 통합전산망 집계에 따르면 1일 영화 '더 퍼스트 슬램덩크'(감독 이노우에 다케히코)가 누적 관객 203만6,484명을 기록했다. 지난 1월 4일 개봉한 '더 퍼스트 슬램덩크'는 전국 제패를 꿈꾸는 북산고 농구부 5인방의 꿈과 열정, 멈추지 않]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['타이타닉', 3D로 돌아온다...제임스 카메론 '아바타2' 흥행 이을까]]></title>
         <id>https://v.daum.net/v/20230202010030857</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230201172016519"/>
         <updated>2023-02-01T09:12:23.923Z</updated>
         <content type="html"><![CDATA[(서울=연합뉴스) 김정진 기자 = 아영(정은채 분)과 준호(이동휘)는 오래된 커플이다. 대학생 시절부터 함께해 온 두 사람은 서른이 넘어서도 서로의 곁을 지키고 있다. 그러나 관계의 안정감과 사랑의 크기는 시간에 비례하지 않는다. 몇 년째 공무원 시험에 낙방한 준호, 그를 뒷바라지 하기 위해 꿈을 포기한 채 부동산 중개업에 뛰어든 아영. 두 사람은 서로에게]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[브리 라슨X제이슨 모모아 합류 '분노의 질주: 라이드 오어 다이', 5월 17일 개봉]]></title>
-        <id>https://v.daum.net/v/20230201171511364</id>
-        <link href="https://v.daum.net/v/20230201171511364"/>
-        <updated>2023-02-01T08:15:20.548Z</updated>
-        <content type="html"><![CDATA[[마이데일리 = 김나라 기자] 영화 '분노의 질주: 라이드 오어 다이'가 5월 17일 국내 개봉한다. '분노의 질주: 라이드 오어 다이'는 전 세계 66억 달러 이상의 수익을 낸 지상 최고의 액션 블록버스터 '분노의 질주' 시리즈의 10번째 작품. 팬들의 오랜 기다림 끝에 오는 5월 17일로 화려한 컴백을 확정 짓고 대한민국 공식 제목을 발표했다. 공개]]></content>
     </entry>
 </feed>
