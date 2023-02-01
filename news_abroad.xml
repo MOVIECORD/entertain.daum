@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-02-01T21:12:41.336Z</updated>
+    <updated>2023-02-01T22:11:58.802Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['총기 사고' 알렉 볼드윈, 실형 살면 자녀 7명 어쩌나]]></title>
+        <id>https://v.daum.net/v/20230202070530806</id>
+        <link href="https://v.daum.net/v/20230202070530806"/>
+        <updated>2023-02-01T22:11:58.231Z</updated>
+        <content type="html"><![CDATA[[TV리포트=이수연 기자] 할리우드 배우 알렉 볼드윈이 영화 촬영 중 소품용 총기를 만지다 감독을 사망케 한 혐의로 결국 기소됐다. 31일(현지 시간) 미국 매체 페이지식스에 따르면 미국 뉴멕시코주 검사는 영화 '러스트' 촬영장에서 발생한 총격 사건에 대해 알렉 볼드원과 함께 소품 무기 담당자 한나 구티에레즈 리드를 기소했다. 두 사람은 모두 비자발적 과]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[美아카데미, 오스카상 후보 '깜짝지명' 논란 英여배우 자격 유지]]></title>
         <id>https://v.daum.net/v/20230202034648633</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230201155841558"/>
         <updated>2023-02-01T07:11:24.712Z</updated>
         <content type="html"><![CDATA[[스포츠조선 정빛 기자] 할리우드 배우 애슈턴 커처가 전 부인인 할리우드 배우 데미 무어를 언급했다. 애슈턴 커처는 1월 31일(현지 시간) 미국 매거진 에스콰이어와 인터뷰에서 전처 데미 무어와의 이혼에 대해 회상했다. 애슈턴 커처는 15살 연상 데미 무어와 2003년에 만나, 교제 2년 만인 2005년에 결혼했다. 특히 데미 무어가 전 남편]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['폭행 논란' 윌 스미스, 1년 만에 재기 성공]]></title>
-        <id>https://v.daum.net/v/20230201154410977</id>
-        <link href="https://v.daum.net/v/20230201154410977"/>
-        <updated>2023-02-01T07:11:24.718Z</updated>
-        <content type="html"><![CDATA[[티브이데일리 김종은 기자] 아카데미 시상식에서의 폭행으로 연예계 은퇴까지 거론됐던 윌 스미스가 1년도 안 돼 완벽히 재기하는 데 성공했다. 최근 애플TV+ '해방'을 통해 복귀한 데 이어 '알라딘2'와 '나쁜 녀석들4'까지 연달아 캐스팅되며 전성기 때와 같은 '이름값'을 해내고 있다. 지난해 3월 27일(이하 현지시간) 세계에서 가장 유명한 영화 시상식]]></content>
     </entry>
 </feed>
