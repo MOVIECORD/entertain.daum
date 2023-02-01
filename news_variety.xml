@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/variety</id>
     <title>다음 연예 ─ 뉴스 ─ 예능</title>
-    <updated>2023-02-01T09:12:46.892Z</updated>
+    <updated>2023-02-01T10:13:43.140Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[빅뱅 대성, ‘결혼 말고 동거’ 출연…4년만 활동 재개]]></title>
+        <id>https://v.daum.net/v/20230201184152672</id>
+        <link href="https://v.daum.net/v/20230201184152672"/>
+        <updated>2023-02-01T10:13:30.800Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 박정민 기자] 그룹 빅뱅 대성이 '결혼 말고 동거'에 출연한다. 채널A '결혼 말고 동거' 측은 2월 1일 뉴스엔에 "대성, 서은광, 신우, 조윤우가 오늘 촬영을 마쳤다. 방송일은 아직 미정"이라고 밝혔다. 이어 "어떤 출연자와 인연으로 나오는지 기대해달라"라고 귀띔했다. 대성이 얼굴을 비추는 건 약 4년 만이다. 대성은 전역 직후 대성 소유]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이대형 "결혼? 열심히 노력 중"…뜻밖의 이상형 고백]]></title>
         <id>https://v.daum.net/v/20230201180431882</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230201170009884"/>
         <updated>2023-02-01T08:15:30.727Z</updated>
         <content type="html"><![CDATA[[스타뉴스 목동=김노을 기자] /사진=ENA대체 여기가 '효자촌'인지 솔로나라인지 도무지 알 수가 없다. 프로그램과 전혀 상관이 없는 쌩뚱맞은 인물들이 섭외된 '효자촌' 게릴라 시사회 이야기다. 1일 오후 서울 양천구 목동 방송회관에서 ENA 예능 프로그램 '효자촌' 10회 게릴라 시사회가 열린 가운데 남규홍 PD와 '나는 솔로' 출연자인 2기 영자, 4]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[전 야구선수 이대형 "결혼 아직 못했다, 열심히 노력중"]]></title>
-        <id>https://v.daum.net/v/20230201165150632</id>
-        <link href="https://v.daum.net/v/20230201165150632"/>
-        <updated>2023-02-01T08:15:30.729Z</updated>
-        <content type="html"><![CDATA[[OSEN=김보라 기자] 전 야구선수 이대형이 개그우먼 이영자를 이상형으로 택한다.&nbsp; 오는&nbsp;2일 방송되는 채널&nbsp;IHQ&nbsp;예능 프로그램&nbsp;'돈쭐내러 왔습니다' 72회에서는 서울시 강서구 마곡동에 위치한 돈가스 맛집 사장과 맞대결을 펼치는 '먹피아' 조직의 모습이 전파를 탄다.&nbsp; 최근 진행된 녹화에서 스페셜 '먹요원'으로 등장한 전 프로야구 선수 이대형은&nbsp;"선]]></content>
     </entry>
 </feed>
