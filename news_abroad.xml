@@ -2,11 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-02-02T10:13:35.360Z</updated>
+    <updated>2023-02-02T11:11:04.761Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[졸리, "무능해" UN과 인연 끊어→집단학살 생존자들 만났다]]></title>
+        <title type="html"><![CDATA[키아누 리브스, 이정도로 열정적일 줄야.."'콘스탄틴2' 제작? 17년간 끈질기게 요청"]]></title>
+        <id>https://v.daum.net/v/20230202193645232</id>
+        <link href="https://v.daum.net/v/20230202193645232"/>
+        <updated>2023-02-02T11:11:04.004Z</updated>
+        <content type="html"><![CDATA[[스포츠조선 안소윤 기자] 할리우드 배우 키아누 리브스(58)가 영화 '콘스탄틴2'에 쏟은 열정을 고백했다. 2일(한국시간) 영국 데일리 메일 등 외신에 따르면 키아누 리브스는 최근 토털 필름과의 인터뷰에서 "워너브러더스 측이 '콘스탄틴2' 제작을 확정할 때까지 매년 괴롭혔다"고 전했다. 2005년에 개봉한 '콘스탄틴'은 인간의 형상을 한]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[졸리, UN과 인연 끊어 "무능해"→집단학살 생존자들 만났다]]></title>
         <id>https://v.daum.net/v/20230202191019820</id>
         <link href="https://v.daum.net/v/20230202191019820"/>
         <updated>2023-02-02T10:13:34.789Z</updated>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230202103115990"/>
         <updated>2023-02-02T02:20:22.019Z</updated>
         <content type="html"><![CDATA[[OSEN=최나영 기자] 가수 겸 배우 제시카 심슨(42)이 톱 영화배우와 비밀 연애를 했었다고 밝혔다. 제시카 심슨은 1일(현지시간) 출판된 책에서&nbsp;어마어마한&nbsp;영화 배우와 비밀리에 사귀었다고 털어놨다. 그는 해당 배우와의 섹시하면서도 '모욕적인' 관계를 자세히 설명했다. 그는&nbsp;2001년 MTV 비디오 뮤직 어워드에서 이 '핫'한 톱스타의 시선을 두고&nbsp;]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘아바타2’ 북미서 ‘어벤져스’ 꺾었다. “한국은 글로벌 흥행 4위”]]></title>
-        <id>https://v.daum.net/v/20230202101350099</id>
-        <link href="https://v.daum.net/v/20230202101350099"/>
-        <updated>2023-02-02T02:20:22.020Z</updated>
-        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]제임스 카메론 감독의 ‘아바타:물의 길’(이하 ‘아바타2)이 북미에서 '어벤져스'를 꺾었다. 버라이어티는 1일(현지시간) “'아바타2'가 북미 박스오피스에서 6억 2,350만 달러를 벌어들여 ‘어벤져스’(6억 2,340만 달러)를 제치고 역대 북미 흥행랭킹 10위에 올랐다”고 보도했다. 이 영화는 글로벌 박스오피스에서 21]]></content>
     </entry>
 </feed>
