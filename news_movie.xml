@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-02-02T20:12:42.673Z</updated>
+    <updated>2023-02-02T21:10:40.081Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[고레에다 히로카즈의 가족은 진화 중]]></title>
+        <id>https://v.daum.net/v/20230203055908001</id>
+        <link href="https://v.daum.net/v/20230203055908001"/>
+        <updated>2023-02-02T21:10:17.876Z</updated>
+        <content type="html"><![CDATA[기사내용 요약 넷플릭스 드라마 '마이코네 행복한 밥상' [서울=뉴시스] 손정빈 기자 = 일본 거장 고레에다 히로카즈 감독이 만든 넷플릭스 드라마 '마이코네 행복한 밥상'은 그 명성과는 다소 거리가 있는 평범한 작품이다. 고레에다 감독 특유의 잔인할 정도로 정확한 현실 인식은 찾아보기 힘들고, 사람과 사람 간 관계에 관한 통찰도 거의 보이지 않는다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['내한' 가가연·허광한·시백우 "영화 '상견니', 드라마와 내용 다르다"]]></title>
         <id>https://v.daum.net/v/20230203050530629</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230202175011271"/>
         <updated>2023-02-02T09:11:41.392Z</updated>
         <content type="html"><![CDATA[(엑스포츠뉴스 윤현지 기자) '앤트맨3'의 조나단 메이저스가 함께 출연한 배우에 경의를 표했다. 2일 오후 온라인으로 영화 '앤트맨과 와스트: 퀀텀매니아'(감독 페이튼 리드)의 기자간담회가 진행됐다. 이날 간담회에는 배우 폴 러드와 조나단 메이저스가 참석했다. '앤트맨과 와스프: 퀀텀매니아'는 미지의 세계 '양자 영역'에 빠져버린 앤트맨 패밀리가 MCU 사]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[폴 러드 "가족愛 + 스케일 확장···'앤트맨3' 기대해도 좋다"]]></title>
-        <id>https://v.daum.net/v/20230202174758205</id>
-        <link href="https://v.daum.net/v/20230202174758205"/>
-        <updated>2023-02-02T09:11:41.392Z</updated>
-        <content type="html"><![CDATA[[서울경제] “‘앤트맨’ 시리즈 속의 유머와 가족애를 즐겁게 보셨다면 ‘앤트맨과 와스프: 퀀텀매니아’(이하 ‘앤트맨3’)도 실망하지 않을 겁니다. 마블 시네마틱 유니버스(MCU)에서 앤트맨 시리즈를 독창적 프랜차이즈로 만든 요소가 유머, 가족애입니다. 이번 신작은 전편들의 요소를 대체했다기보다는 갖고 있던 것들을 많이 확장했다고 보면 됩니다.” 앤트맨]]></content>
     </entry>
 </feed>
