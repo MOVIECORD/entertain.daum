@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-02-02T12:22:19.168Z</updated>
+    <updated>2023-02-02T13:21:17.634Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['더 글로리', 파트2 앞두고 복습...이 캐릭터 주목]]></title>
+        <id>https://v.daum.net/v/20230202215003264</id>
+        <link href="https://v.daum.net/v/20230202215003264"/>
+        <updated>2023-02-02T13:20:59.581Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 윤현지 기자) 넷플릭스 오리지널 시리즈 '더 글로리' 파트2가 공개되기까지 약 한 달여의 시간을 앞둔 가운데 숨은 캐릭터들의 활약이 기대를 모은다.&nbsp; '더 글로리' 시즌1의 공개일이 벌써 한 달이 지났다. 작품의 인기가 사그러들 법도 하건만, 출연 배우의 예능 출연부터 각종 패러디가 끊임이 없고, 현재 콘텐츠 이슈화의 기준점이 될 정도로 매일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[박하나 "약속 지킬 필요 없어"…손창민 앞에서 서류 파쇄]]></title>
         <id>https://v.daum.net/v/20230202211002823</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230202173054691"/>
         <updated>2023-02-02T09:11:46.710Z</updated>
         <content type="html"><![CDATA[(엑스포츠뉴스 황수연 기자) LG유플러스의 ‘STUDIO X+U’가 제작하는 새 오디오 드라마, ‘썸타임즈’ 첫 번째 에피소드 ‘헤어져서 팝니다’의 주인공 ‘이준표’ 역으로 열연을 선보인 배우 김재영이 “주변에서 일어날 것 같은 친근함에 감정이입이 쉬울 것”이라며 리스너들의 ‘과몰입’에 자신감을 보였다.&nbsp; ‘이준표’는 최고의 몸값을 달리는 인재이자 IT 개]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[배우 전수진, 츄 공개지지…"또 한 명 이 바닥에서 보내려고"]]></title>
-        <id>https://v.daum.net/v/20230202171526229</id>
-        <link href="https://v.daum.net/v/20230202171526229"/>
-        <updated>2023-02-02T09:11:46.711Z</updated>
-        <content type="html"><![CDATA[(사진=전수진 SNS)[이데일리 스타in 김보영 기자] 배우 전수진이 소속사 블록베리크리에이티브(이하 ‘블록베리’)와 분쟁을 겪고 있는 츄를 공개 지지했다. 전수진은 2일 자신의 SNS에 “연매협 혹은 국내 대형 기획사들이 공식, 비공식적으로 보내버린 배우나 가수가 얼마나 많은지 모르실 것”이라며 “이번 츄 사태를 보면서 또 저렇게 한 명 더 이 바닥]]></content>
     </entry>
 </feed>
