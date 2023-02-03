@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-02-03T05:11:33.435Z</updated>
+    <updated>2023-02-03T06:15:38.596Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['미끼' 장근석, 5년만의 복귀에도 호평 터졌다]]></title>
+        <id>https://v.daum.net/v/20230203143521733</id>
+        <link href="https://v.daum.net/v/20230203143521733"/>
+        <updated>2023-02-03T06:15:22.449Z</updated>
+        <content type="html"><![CDATA[[OSEN=하수정 기자] 장근석, 허성태, 이엘리야 주연의 범죄 스릴러 '미끼'가 1, 2화 공개 직후 쿠팡플레이 인기작 1위에 등극했다. 압도적 호평으로 시청자들을 사로잡고 있는 가운데, 드디어 오늘 저녁 8시 3, 4화가 쿠팡플레이에서 공개된다. '미끼'는 유사 이래 최대 사기 사건의 범인이 사망한 지 8년 후, 그가 살인 사건의 용의자로 지목되면서]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['꼭두의 계절'은 김정현 기억에 남을까? 2.2% 시청률 반토막]]></title>
         <id>https://v.daum.net/v/20230203141004855</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230203115123856"/>
         <updated>2023-02-03T03:15:45.618Z</updated>
         <content type="html"><![CDATA[[OSEN=김채연 기자] 배우 김남길이 액션 드라마 ’EXECUTION’ 출연을 제안받았다. 3일 소속사 길스토리이엔티 측은 김남길의 드라마 ’EXECUTION’ 출연과 관련해 “제안받은 작품 중 하나로, 결정된 바 없다”고 밝혔다. 드라마 'EXECUTION'은 쿠팡플레이 오리지널 시리즈 '미끼'를 집필한 김진욱 작가와 영화 '도둑들', '베를린',]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['사랑의 이해' 유연석 문가영의 정공법 사랑이 두드린 묵직한 감성]]></title>
-        <id>https://v.daum.net/v/20230203114802742</id>
-        <link href="https://v.daum.net/v/20230203114802742"/>
-        <updated>2023-02-03T03:15:45.618Z</updated>
-        <content type="html"><![CDATA[JTBC ‘사랑의 이해’ 출처 | JTBC [스포츠서울 | 박효실기자] 답답할 정도로 느린데, 느리다 못해 멈춰설지라도 묵묵히 심장이 가리키는 방향으로 걸어가는 정공법식 사랑이 안방극장을 물들이고 있다. 16부작 최종 2회분을 남겨둔 JTBC 수목극 ‘사랑의 이해’는 긴 호흡으로 달려온 사랑과 엇갈림]]></content>
     </entry>
 </feed>
