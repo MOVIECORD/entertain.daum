@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2023-02-03T17:11:18.513Z</updated>
+    <updated>2023-02-03T18:14:57.006Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘고등래퍼2’ 윤병호, 마약 근절 외쳤으나..대마·필로폰 투약 혐의로 징역 4년]]></title>
+        <id>https://v.daum.net/v/20230204021721061</id>
+        <link href="https://v.daum.net/v/20230204021721061"/>
+        <updated>2023-02-03T18:14:51.400Z</updated>
+        <content type="html"><![CDATA[[OSEN=김채연 기자] ‘고등래퍼2’ 출신 래퍼 윤병호(활동명 불리 다 바스타드)가 마약을 투약한 혐의로 실형을 선고받았다. 지난 2일 수원지방법원 여주지원 형사부(조정웅 부장판사)는 윤병호의 마약류 관리에 관한 법률상 향정·대마 와 특수상해 등 혐의에 대해 징역 4년의 실형과 40시간의 약물 중독 재범 예방교육 프로그램 이수를 선고했다. 또 추징금 1]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[유재석 '꼭두의 계절' 출연, 임수향과 대사 '티키타카']]></title>
         <id>https://v.daum.net/v/20230204012807946</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230203234927178"/>
         <updated>2023-02-03T15:12:10.282Z</updated>
         <content type="html"><![CDATA[[OSEN=김채연 기자] 그룹 CIX 멤버 배진영이 왕따설에 휩싸인 가운데, 소속사에서 정확한 사실 관계를 설명하며 이를 해명했다. 3일 오후 소속사 C9엔터테인먼트 측 관계자는 OSEN에 “배진영이 멤버들에게 배척을 당한다는 소문은 사실이 아니다”라고 밝혔다. 앞서 온라인 커뮤니티를 기반으로 배진영이 멤버들에게 배척을 당하는 것이 아니냐는 ‘왕따설’이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['47살' 전현무 "설날 엄마랑 싸워, 이제 장가가란 소리도 안 한다"]]></title>
-        <id>https://v.daum.net/v/20230203234638161</id>
-        <link href="https://v.daum.net/v/20230203234638161"/>
-        <updated>2023-02-03T15:12:10.284Z</updated>
-        <content type="html"><![CDATA[[스포츠조선닷컴 이지현 기자] 방송인 전현무가 지난 명절 근황을 밝혔다. 3일 방송된 MBC '나 혼자 산다'에서는 팜유 대장 전현무가 평창으로 디톡스 여행을 떠났다. 이날 전현무는 70도 효소 찜질을 즐겼다. 김이 모락모락 나는 된장 비주얼 흙 이불을 덮은 전현무는 "시골 할머니 된장 냄새다. 콩나물 된장국 냄새가 난다"고 이야기했다. 그런]]></content>
     </entry>
 </feed>
