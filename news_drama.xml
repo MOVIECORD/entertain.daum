@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-02-03T10:13:07.208Z</updated>
+    <updated>2023-02-03T11:10:49.686Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['태풍의 신부' 박하나, 손창민에 "천산화 계발서? 내 머릿속에.."]]></title>
+        <id>https://v.daum.net/v/20230203200357288</id>
+        <link href="https://v.daum.net/v/20230203200357288"/>
+        <updated>2023-02-03T11:10:31.361Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 이상은 기자] /사진=KBS 2TV 일일드라마 '태풍의 신부' 방송화면'태풍의 신부' 박하나가 손창민 앞에서 계발서를 파쇄하고 협박했다. 3일 오후 방송된 KBS 2TV 일일드라마 '태풍의 신부'에서는 천산화 계발서의 반쪽을 가진 은서연(박하나 분)이 르블랑 회장 강백산(손창민 분)을 찾아간 장면이 담겼다. 이날 은서연은 강백산의 눈앞에서 천]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김우석이 '금혼령'을 통해 이룬 첫 번째 목표]]></title>
         <id>https://v.daum.net/v/20230203181147884</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230203135503249"/>
         <updated>2023-02-03T05:11:16.404Z</updated>
         <content type="html"><![CDATA[[동아닷컴] tvN 새 월화드라마 ‘청춘월담’(극본 정현정 연출 이종재) 속 강렬한 개성을 가진 조선의 다섯 청춘이 신분과 성별을 뛰어넘어 무지개처럼 아름다운 조화를 그려낼 예정이다. 제작진은 운명을 벗어나고자 함께 손발을 맞출 청춘들 관계성을 정리했다. ● 이환·한성온 벗에서 적이 되다, 저주 경보 발령! 제작진에 따르면 왕세자 이환(박형식 분)과 병]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이제훈의 자신감…'모범택시2', 시청률 16% 넘어설까]]></title>
-        <id>https://v.daum.net/v/20230203135002105</id>
-        <link href="https://v.daum.net/v/20230203135002105"/>
-        <updated>2023-02-03T05:11:16.406Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 최희재 기자) 드라마 '모범택시'가 시즌2 시동을 걸고 있다. 지난 2021년 5월 종영한 SBS '모범택시'가 오는 17일, 약 2년 만에 시즌2로 돌아온다. 시즌2에는 이제훈, 김의성, 표예진, 장혁진, 배유람이 재결합, 신재하가 막내로 합류한다. 동명의 웹툰을 원작으로 한 '모범택시'는 "정의가 실종된 사회, 전화 한 통이면 오케이" 베]]></content>
     </entry>
 </feed>

@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-02-03T10:13:07.205Z</updated>
+    <updated>2023-02-03T11:10:49.671Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['제3의 성' 선언 배우, 수상 거부..."男女 중 뭘로 상 받을지 고르라 해"]]></title>
+        <id>https://v.daum.net/v/20230203195000092</id>
+        <link href="https://v.daum.net/v/20230203195000092"/>
+        <updated>2023-02-03T11:10:49.088Z</updated>
+        <content type="html"><![CDATA[[TV리포트=이수연 기자] 브로드웨이 뮤지컬 배우 저스틴 데이비드 설리번이 미국 연극계 권위를 자랑하는 '토니상' 후보 지명을 거절했다. 지난 1일(현지 시간) 저스틴 데이비드 설리번이 성별을 구분해 시상하는 '토니상' 시상식에 불참하겠다는 의사를 표했다. 저스틴은 앞서 자신의 성 정체성에 대해 남자도 여자도 아닌 '제3의 성'인 논바이너리라고 밝힌 바 있]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘전설의 배우’ 찰리 채플린 손녀, ‘아바타3’서 나비족 빌런으로 등장]]></title>
+        <id>https://v.daum.net/v/20230203193305907</id>
+        <link href="https://v.daum.net/v/20230203193305907"/>
+        <updated>2023-02-03T11:10:49.090Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]‘전설의 코미디 배우’로 불리는 찰리 채플린의 손녀 우나 채플린(36)이 ‘아바타3’서 나비족 빌런으로 등장한다. ‘아바타’ 시리즈의 프로듀서 존 랜도는 2일(현지시간) 영화매체 엠파이어와 인터뷰에서 ‘아바타3’부터 ‘아바타5’까지 주요 내용을 언급했다. 이미 제임스 카메론 감독은 ‘아바타3’에서 나비족의 한 부족인 ‘불의]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[제임스 카메론, '타이타닉' 실험해 보니 잭 살아..."미안하다"]]></title>
         <id>https://v.daum.net/v/20230203190530609</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230203105030571"/>
         <updated>2023-02-03T02:25:41.339Z</updated>
         <content type="html"><![CDATA[[TV리포트=박설이 기자]성폭행으로 징역형을 받은 엑소 출신 크리스(중국명 우이판)에 대한 또 다른 폭로가 나왔다. 2일 중국 현지 언론은 한 네티즌이 크리스의 성폭행에 대한 주장을 내놓았다고 보도했다.&nbsp; 글쓴이는 최근 여러 차례 자신의 SNS 웨이보 계정을 통해 "크리스가 매독에 걸린 것이 확실하다"고도 폭로하는가 하면, 피해 여성의 월경 기간 강제로 성]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DC, '사생활 논란' 에즈라 밀러 손 안 놓는다…위험한 동행 계속]]></title>
-        <id>https://v.daum.net/v/20230203100806191</id>
-        <link href="https://v.daum.net/v/20230203100806191"/>
-        <updated>2023-02-03T02:25:41.345Z</updated>
-        <content type="html"><![CDATA[[티브이데일리 김종은 기자] DC스튜디오가 에즈라 밀러와의 동행을 이어갈 것으로 보인다. 2일(이하 현지시간) 미국 연예매체 버라이어티에 따르면 DC유니버스는 오는 13일 진행되는 '제57회 슈퍼볼'에서 영화 '더 플래시'의 예고편을 공개할 예정이다. '더 플래시'는 빛보다 빠르게 달릴 수 있는 플래시(에즈라 밀러)의 이야기를 그린 작품으로, 올해 6월]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“눈썹 끝이 위로 올라갔다”, 킴 카다시안 성형수술 의혹 제기]]></title>
-        <id>https://v.daum.net/v/20230203091041175</id>
-        <link href="https://v.daum.net/v/20230203091041175"/>
-        <updated>2023-02-03T01:00:29.582Z</updated>
-        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]세계적 셀럽 킴 카다시안(42)이 성형수술 의혹에 휘말렸다. 팬들은 킴 카다시안이 지난달 28일 아나스타시아 비버리 힐스 25주년 만찬에 참석했을 때 약간 달라 보였다고 지적했다. 2일(현지시간) 쉬파인즈는 “팬들은 킴 카다시안의 눈이 외모 변화의 가장 큰 요인으로 생각한다”고 보도했다. 한 네티즌은 “그녀는 분명히 눈에]]></content>
     </entry>
 </feed>
