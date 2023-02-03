@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-02-03T11:10:49.671Z</updated>
+    <updated>2023-02-03T12:21:27.881Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[테일러 스위프트 전 남친, 칸예의 조롱에 같이 웃었던 것 후회]]></title>
+        <id>https://v.daum.net/v/20230203204030732</id>
+        <link href="https://v.daum.net/v/20230203204030732"/>
+        <updated>2023-02-03T12:21:27.239Z</updated>
+        <content type="html"><![CDATA[[TV리포트=이수연 기자] 2일(현지 시간) 미국 매체 페이지식스에 따르면 영화 '트와일라잇' 시리즈에서 '늑대인간' 제이콥 역을 맡아 스타덤에 오른 테일러 로트너는 시간을 돌릴 수 있다면 2009년 VMA 현장으로 가고 싶다고 말했다. 그는 전 연인인 테일러 스위프트가 수상할 당시 칸예 웨스트가 방해한 사건을 언급한 것으로 보인다. 테일러 로트너는 "테]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['오스카상' 후보 오른 배우, 카페·레스토랑 알바 계속...겸손하네]]></title>
+        <id>https://v.daum.net/v/20230203201530401</id>
+        <link href="https://v.daum.net/v/20230203201530401"/>
+        <updated>2023-02-03T12:21:27.241Z</updated>
+        <content type="html"><![CDATA[[TV리포트=이수연 기자] '오스카상' 후보로 오른 배우 제임스 마틴이 여전히 아르바이트를 하고 있었다. 2일(현지 시간) 영국 데일리메일은 영화 '언 아이리쉬 굿바이'로 '제 95회 미국 아카데미 시상식' 단편 영화 부문에 후보로 오른 배우 제임스 마틴이 유명세를 얻은 후에도 카페와 식당 아르바이트를 그만두지 않고 연기와 병행 중이라고 보도했다. 전 세계]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['제3의 성' 선언 배우, 수상 거부..."男女 중 뭘로 상 받을지 고르라 해"]]></title>
         <id>https://v.daum.net/v/20230203195000092</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230203134530955"/>
         <updated>2023-02-03T05:11:32.870Z</updated>
         <content type="html"><![CDATA[(엑스포츠뉴스 조혜진 기자) 엑소 출신 중국 가수 겸 배우 크리스(우이판)의 성병을 폭로하는 글이 중국 현지에서 확산되고 있다. 2일 중국 현지 매체에 따르면 중국 내 한 누리꾼이 크리스의 성폭행을 주장하고 있다. 이 누리꾼은 최근 자신의 웨이보 계정을 통해 "크리스가 매독에 걸린 게 확실하다"며 월경 기간에 강제로 성관계를 맺고, 영상까지 몰래 찍었다고도]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[말런 브랜도가 쓴 '이별 편지' 경매에…예상가 1천800만원]]></title>
-        <id>https://v.daum.net/v/20230203115622018</id>
-        <link href="https://v.daum.net/v/20230203115622018"/>
-        <updated>2023-02-03T03:16:00.058Z</updated>
-        <content type="html"><![CDATA[(서울=연합뉴스) 이주영 기자 = 배우 겸 영화감독 말런 브랜도(1924~2004)가 신인 시절 애인이었던 프랑스 무용수 겸 배우 솔랑주 포델에게 보낸 '이별 편지'가 경매에 올랐다고 영국 일간 더타임스가 2일(현지시간) 보도했다. 경매업체 RR옥션은 브랜도가 1940년대 말 포델에게 쓴 3쪽짜리 이별 편지의 경매를 오는 8일까지 진행한다며 낙찰 예상가는]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['징역 13년' 크리스, 성병 폭로 나왔다 "매독 환자"]]></title>
-        <id>https://v.daum.net/v/20230203105030571</id>
-        <link href="https://v.daum.net/v/20230203105030571"/>
-        <updated>2023-02-03T02:25:41.339Z</updated>
-        <content type="html"><![CDATA[[TV리포트=박설이 기자]성폭행으로 징역형을 받은 엑소 출신 크리스(중국명 우이판)에 대한 또 다른 폭로가 나왔다. 2일 중국 현지 언론은 한 네티즌이 크리스의 성폭행에 대한 주장을 내놓았다고 보도했다.&nbsp; 글쓴이는 최근 여러 차례 자신의 SNS 웨이보 계정을 통해 "크리스가 매독에 걸린 것이 확실하다"고도 폭로하는가 하면, 피해 여성의 월경 기간 강제로 성]]></content>
     </entry>
 </feed>
