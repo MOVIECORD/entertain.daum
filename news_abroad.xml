@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-02-03T04:14:45.009Z</updated>
+    <updated>2023-02-03T05:11:33.439Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['징역 13년' 크리스, 화학적 거세 가능성→"매독 환자" 폭로까지]]></title>
+        <id>https://v.daum.net/v/20230203134530955</id>
+        <link href="https://v.daum.net/v/20230203134530955"/>
+        <updated>2023-02-03T05:11:32.870Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 조혜진 기자) 엑소 출신 중국 가수 겸 배우 크리스(우이판)의 성병을 폭로하는 글이 중국 현지에서 확산되고 있다. 2일 중국 현지 매체에 따르면 중국 내 한 누리꾼이 크리스의 성폭행을 주장하고 있다. 이 누리꾼은 최근 자신의 웨이보 계정을 통해 "크리스가 매독에 걸린 게 확실하다"며 월경 기간에 강제로 성관계를 맺고, 영상까지 몰래 찍었다고도]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[말런 브랜도가 쓴 '이별 편지' 경매에…예상가 1천800만원]]></title>
         <id>https://v.daum.net/v/20230203115622018</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230202174032013"/>
         <updated>2023-02-02T09:12:02.562Z</updated>
         <content type="html"><![CDATA[[TV리포트=이수연 기자] '하이틴 명작'이라 평가 받는 영화 '클루리스'가 27년 만에 돌아왔다. 10대였던 여자 주인공 알리시아 실버스톤은 현재 46세다. 1995년 개봉해 큰 인기를 얻은 영화 '클루리스'의 주인공 셰어 호로위츠 역의 알리시아 실버스톤이 27년 만에 '레전드' 장면을 재현했다. 알리시아 실버스톤은 한 광고에 출연해 셰어의 시그니처인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DC에 아시아계 '빌런' 탄생...해리 슘 주니어 "안 믿긴다"]]></title>
-        <id>https://v.daum.net/v/20230202174030012</id>
-        <link href="https://v.daum.net/v/20230202174030012"/>
-        <updated>2023-02-02T09:12:02.564Z</updated>
-        <content type="html"><![CDATA[[TV리포트=이수연 기자] 미국 인기 시리즈 '글리', '그레이 아나토미'에 출연한 배우 해리 슘 주니어가 DC 유니버스에 합류하게 된 소감을 밝혔다. DC 스튜디오의 애니메이션 '리전 오브 슈퍼 히어로즈'에 성우로 출연하게 된 해리 슘 주니어는 1일(현지 시간) 기쁜 마음을 담아 소감을 전했다. 그는 'DC판 애니메이션 어벤져스'인 '리전 오브 슈퍼 히어]]></content>
     </entry>
 </feed>
