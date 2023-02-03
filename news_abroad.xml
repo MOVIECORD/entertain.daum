@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-02-03T15:12:16.540Z</updated>
+    <updated>2023-02-03T16:15:10.835Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[日 톱스타 “한국 여배우 좋아했는데..3년 전 얼굴과 다르더라” 얼평 논란]]></title>
+        <id>https://v.daum.net/v/20230204003816722</id>
+        <link href="https://v.daum.net/v/20230204003816722"/>
+        <updated>2023-02-03T16:15:10.259Z</updated>
+        <content type="html"><![CDATA[[OSEN=김채연 기자] 일본의 톱스타 나카이 마사히로가 한국 여배우를 언급하며 얼평을 해 논란이 커지고 있다. 최근 닛폰테레비 ‘더 세계 교텐뉴스’에 출연한 나카이 마사히로는 “쉬고 있을 때 영화나 드라마 같은 걸 많이 봤다. 한국 드라마에 빠졌다”라고 말문을 열었다. 지난해 건강 문제로 활동을 중단했던 나카이 마사히로는 휴식을 취하며 한국드라마를 봤]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['大배우' 매튜 맥커너히 "내 성공은 점쟁이 덕분"]]></title>
         <id>https://v.daum.net/v/20230203222030726</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230203150824792"/>
         <updated>2023-02-03T06:15:37.782Z</updated>
         <content type="html"><![CDATA[[OSEN=강서정 기자] 요즘 가장 핫한 TV시리즈 중 하나인 HBO ‘유포리아’의&nbsp;배우 클로이 체리가&nbsp;고향인 펜실베니아주 랭커스터에 있는 가게에서 28달러짜리 블라우스를 훔친 절도 혐의로 기소됐다. 2일(현지시간) 미국 연예매체 페이지 식스 보도에 따르면 쇼핑몰 직원은 지난 12월 27일 블라우스를 입고 탈의실에 들어가는 모습이 담긴 증거를 경찰에 보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['48세' 디카프리오, 이번엔 19세 여친?..금발 모델과 파티 데이트]]></title>
-        <id>https://v.daum.net/v/20230203144915182</id>
-        <link href="https://v.daum.net/v/20230203144915182"/>
-        <updated>2023-02-03T06:15:37.786Z</updated>
-        <content type="html"><![CDATA[[OSEN=선미경 기자] 할리우드 배우 레오나르도 디카프리오가 이번엔 19살의 이스라엘 모델과 새로운 로맨스를 예고하고 있다. 25세 이하 여자친구의 규칙을 깨더니 더욱 어려진 모습이다. 2일(현지시각) 데일리메일은 레오나르도 디카프리오가 빅토리아 라마와의 새로운 로맨스 속에 최근 LA에서 열린 파티에서 이스라엘의 모델 에덴 폴라니와 함께 웃고 있는 모]]></content>
     </entry>
 </feed>
