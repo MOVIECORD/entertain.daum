@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-02-03T21:10:29.898Z</updated>
+    <updated>2023-02-03T22:11:37.240Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘시사기획 창’의 폐지수집노동 취재기…‘GPS와 리어카’]]></title>
+        <id>https://v.daum.net/v/20230204070006346</id>
+        <link href="https://v.daum.net/v/20230204070006346"/>
+        <updated>2023-02-03T22:11:19.832Z</updated>
+        <content type="html"><![CDATA[사진=KBS시사 유튜브 캡쳐[이데일리 스타in 유준하 기자] KBS1 ‘시사기획 창’의 폐지수집노동 취재기는 누구나 살면서 한 번쯤 지나치는 폐지수집 노인들을 향한 따스한 시선이 담겨있다. ‘시사기획 창’은 기자들이 만드는 시사다큐프로그램으로 지난 2006년부터 방송됐다. 373회차인 ‘폐지수집노동 실태 보고서: GPS와 리어카’는 위치추적기(GPS)를]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['법쩐' 강유석, 이선균에 "삼촌, 이제 연락하지 마…대한민국서 제일 높은 검사 안 하겠다" 선언]]></title>
         <id>https://v.daum.net/v/20230204060900027</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230203211006105"/>
         <updated>2023-02-03T12:21:10.630Z</updated>
         <content type="html"><![CDATA[(엑스포츠뉴스 장예솔 인턴기자) '태풍의 신부' 박하나가 손창민에게 복수를 다짐했다.&nbsp; 3일 방송된 KBS 2TV '태풍의 신부'에는 정모연(지수원 분)을 구출하는 데 성공하는 은서연(박하나)의 모습이 그려졌다.&nbsp; 이날 윤산들(박윤재)은 천산화 개발서를 두고 은서연과 거래를 시도했다.&nbsp; 윤산들은 "강 회장이 아니라 나랑 거래를 해야 할 거다. 정 대표님이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['태풍의 신부' 박하나, 지수원 구출 성공 "우리가 지킬게"]]></title>
-        <id>https://v.daum.net/v/20230203205019832</id>
-        <link href="https://v.daum.net/v/20230203205019832"/>
-        <updated>2023-02-03T12:21:10.631Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 이상은 기자] /사진=KBS 2TV 일일드라마 '태풍의 신부' 방송화면'태풍의 신부' 박하나가 지수원 구출에 성공했다. 3일 오후 방송된 KBS 2TV 일일드라마 '태풍의 신부'에서는 윤산들(박윤재 분)과 르블랑 딸 강바다(오승아 분)의 사주를 받은 흥신소장 마대근(차광수 분)이 서윤희(지수원 분)를 빼돌린 장면이 담겼다. 이날 윤산들과 강바]]></content>
     </entry>
 </feed>

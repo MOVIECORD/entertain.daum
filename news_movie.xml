@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-02-03T21:10:29.902Z</updated>
+    <updated>2023-02-03T22:11:37.236Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[n차 관람·응원 상영… ‘슬램덩크’, 팬덤 타고 불꽃 흥행]]></title>
+        <id>https://v.daum.net/v/20230204070214434</id>
+        <link href="https://v.daum.net/v/20230204070214434"/>
+        <updated>2023-02-03T22:11:14.456Z</updated>
+        <content type="html"><![CDATA[영화 ‘더 퍼스트 슬램덩크’(감독 이노우에 다케히코)의 불꽃이 꺼지지 않고 있다. 지난달 4일 개봉한 이후 정확히 한달. 열기는 여전히 뜨겁다. 일주일 연속 박스오피스 1위(이하 3일 기준)를 수성하고 전체 예매율과 좌석 점유율에서도 1위를 차지했다. 207만 관객을 돌파하며 역대 일본 애니메이션 흥행 5위에 올랐다. 추억에서 불타오른 ‘슬램덩크’ 열풍]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['슬램덩크'→'오세이사'…예상 밖 日 영화 흥행]]></title>
         <id>https://v.daum.net/v/20230204060024835</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230203162711066"/>
         <updated>2023-02-03T08:14:38.023Z</updated>
         <content type="html"><![CDATA[2017년 1월, 전주에서 대기업 통신회사의 콜센터로 현장실습을 나갔던 고등학생이 3개월 만에 스스로 목숨을 끊었다. 이 일을 모티브로 한 영화 '다음 소희'에서 ‘소희’의 자취를 되짚는 형사 '오유진'을 연기한 배우 배두나를 만났다. 상업영화 예술영화는 물론이고 드라마로도 할리우드에 진출하며 경계없는 글로벌 배우로 활동하고 있는 배두나는 '도희야'에]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[1920년대 할리우드 벌어진 일, 그리고 2023년 한국에서도]]></title>
-        <id>https://v.daum.net/v/20230203162258934</id>
-        <link href="https://v.daum.net/v/20230203162258934"/>
-        <updated>2023-02-03T08:14:38.024Z</updated>
-        <content type="html"><![CDATA[[엔터미디어=정덕현의 그래서 우리는] 말을 태워 옮기는 트럭이 멈춰서고 운전수가 내려 그를 기다리고 있는 매니 토레스(디에고 칼바)에게 트럭을 불렀냐고 묻는다. 그러자 매니는 말이 아니라 코끼리라고 말한다. 말도 안되는 이야기라며 화를 내던 운전수는 그러나 뒤편에 서 있는 진짜 코끼리를 보며 깜짝 놀란다. 절대 안된다는 운전수에게 매니는 할리우드 인사들이]]></content>
     </entry>
 </feed>
