@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2023-02-03T16:15:10.847Z</updated>
+    <updated>2023-02-03T17:11:18.513Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[유재석 '꼭두의 계절' 출연, 임수향과 대사 '티키타카']]></title>
+        <id>https://v.daum.net/v/20230204012807946</id>
+        <link href="https://v.daum.net/v/20230204012807946"/>
+        <updated>2023-02-03T17:11:12.267Z</updated>
+        <content type="html"><![CDATA[[티브이데일리 황서연 기자] '놀면 뭐하니' 유재석 정준하 이미주가 '꼭두의 계절'에 출연했다. 3일 방송한 MBC 금토드라마 '꼭두의 계절'(극본 허준우·연출 백수찬)에서는 한계절(임수향)이 꼭두(김정현)의 계약 연애 제안을 받은 가운데, 명인을 찾아가 창업 자금을 지원 받으려는 모습이 그려졌다. 한계절이 찾아간 곳은 전통 고추장 명인의 집. 유재석 정준]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[태연, 키X창섭과 함께 초호화 반려견 생일 파티.. 키에 "X랄 하네" 찐친 모드까지]]></title>
         <id>https://v.daum.net/v/20230204010403844</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230203234638161"/>
         <updated>2023-02-03T15:12:10.284Z</updated>
         <content type="html"><![CDATA[[스포츠조선닷컴 이지현 기자] 방송인 전현무가 지난 명절 근황을 밝혔다. 3일 방송된 MBC '나 혼자 산다'에서는 팜유 대장 전현무가 평창으로 디톡스 여행을 떠났다. 이날 전현무는 70도 효소 찜질을 즐겼다. 김이 모락모락 나는 된장 비주얼 흙 이불을 덮은 전현무는 "시골 할머니 된장 냄새다. 콩나물 된장국 냄새가 난다"고 이야기했다. 그런]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CIX 측, 배진영 왕따설에 "허위사실 유포 시 법적대응 예정"]]></title>
-        <id>https://v.daum.net/v/20230203233604131</id>
-        <link href="https://v.daum.net/v/20230203233604131"/>
-        <updated>2023-02-03T15:12:10.288Z</updated>
-        <content type="html"><![CDATA[[스포츠투데이 서지현 기자] 그룹 워너원 출신이자 현재 CIX로 활동 중인 배진영이 배척설에 휘말렸으나 소속사 측이 부인했다. 3일 소속사 C9엔터테인먼트는 CIX 공식 팬카페를 통해 "공연장 내에서 촬영된 특정 영상과 관련하여 배포되고 있는 허위의 내용들과 이에 대한 사실을 정리하여 드린다"는 글을 공개했다. 이날 소속사 측은 CIX의 두 번째 월드 투어]]></content>
     </entry>
 </feed>
