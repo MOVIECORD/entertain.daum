@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2023-02-04T20:12:11.011Z</updated>
+    <updated>2023-02-04T21:10:29.229Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[홍현희, 남편 팔뚝벨트 차지한 子 "내 자리였는데…" 아쉬움 가득]]></title>
+        <id>https://v.daum.net/v/20230205060029861</id>
+        <link href="https://v.daum.net/v/20230205060029861"/>
+        <updated>2023-02-04T21:10:23.564Z</updated>
+        <content type="html"><![CDATA[코미디언 홍현희의 남편 제이쓴(오른쪽)과 아들 연준범. 출처 | 홍현희 채널 [스포츠서울 | 박효실기자] 코미디언 홍현희가 남편 제이쓴의 우람한 팔뚝에 편안히 안겨있는 아들 준범의 모습을 공개했다. 홍현희는 4일 “하...내자리였는데.... 쮼버미한테 양보하께 ㅋㅋㅋ 장영란 이모 고맙습니다. 또 놀러오세요”라는 글을 올렸다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['전참시' 태양, 대성·고경표·주원 만나 MZ세대 아는 척]]></title>
         <id>https://v.daum.net/v/20230205051003509</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230205004951895"/>
         <updated>2023-02-04T16:14:38.731Z</updated>
         <content type="html"><![CDATA[[스포츠조선닷컴 정유나 기자] '동치미' 장가현이 이혼 후 열애를 고백했다. 1일 방송된 MBN '속풀이쇼 동치미'에서 출연진들은 '나이 들어서 사랑하는 게 죄는 아니잖아?'라는 주제로 이야기를 나눴다. 이날 장가현은 이혼 후 만났던 과거 연인을 언급해 눈길을 끌었다. 장가현은 "친한 친구의 소개로 한 남자를 만나게 됐다. 저는 제 사랑,]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[백종원의 재래시장 살리기가 대박 난 비결]]></title>
-        <id>https://v.daum.net/v/20230205004456886</id>
-        <link href="https://v.daum.net/v/20230205004456886"/>
-        <updated>2023-02-04T16:14:38.731Z</updated>
-        <content type="html"><![CDATA[[헤럴드경제 = 서병기 선임기자]전통시장 개발 모델이 나왔다. 백종원의 예산 구도심지역 상생 프로젝트의 일환으로 추진된 예산재래시장 살리기 ‘백종원 시장이 되다’다. 백종원은 어릴때 추억이 묻어있는 고향인 충남 예산 재래시장 가게 5곳을 개발했는데, 대박이 났다. 오픈한 날부터 보름 동안 무려 3만여명이 시장을 다녀갔다고 한다. 많은 유튜버들이 이 곳을 찾]]></content>
     </entry>
 </feed>
