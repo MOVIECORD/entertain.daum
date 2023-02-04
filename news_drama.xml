@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-02-04T21:10:29.226Z</updated>
+    <updated>2023-02-04T22:10:41.007Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["정경호의 저주" 글 올린 '스카이맘' 카페, 실제 존재한다]]></title>
+        <id>https://v.daum.net/v/20230205070001364</id>
+        <link href="https://v.daum.net/v/20230205070001364"/>
+        <updated>2023-02-04T22:10:25.023Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 한해선 기자] /사진=tvN '일타 스캔들' 방송 캡처 '일타 스캔들' 속 스카이맘 카페는 진짜 존재할까. tvN 토일드라마 '일타 스캔들'이 11%의 시청률까지 오르며 6회 만에 인기드라마 반열에 올랐다. '일타 스캔들'은 사교육 전쟁터에서 펼쳐지는 국가대표 반찬가게 열혈 사장과 대한민국 수학 일타 강사의 달콤 쌉싸름한 로맨스로, 독특한 소재]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이보영, 잠옷차림으로 아파트 벤치에서 깨어나‥몽유병 '의심']]></title>
+        <id>https://v.daum.net/v/20230205065425348</id>
+        <link href="https://v.daum.net/v/20230205065425348"/>
+        <updated>2023-02-04T22:10:25.023Z</updated>
+        <content type="html"><![CDATA[[OSEN=최지연 기자] '대행사' 이보영이 몽유병을 겪었다.&nbsp; 4일 방송된 JTBC 토일드라마 ‘대행사’(극본 송수한, 연출 이창민)에서는 우원그룹 PT에서 승리한 고아인(이보영 분)이 아파트 벤치에서 깨어나 충격을 선사했다.&nbsp; 이날 강한나(손나은 분)는 최창수(조성하 분)과 고아인에게 우원PT 리뷰를 요구했다. 그러나 고아인은 영상이 제작되지 않았다]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“친자확인 후 혼인신고” 이경진, 며느리 왕빛나에 독설]]></title>
         <id>https://v.daum.net/v/20230205060424956</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230205002648841"/>
         <updated>2023-02-04T16:14:27.288Z</updated>
         <content type="html"><![CDATA[[스타뉴스 김옥주 인턴기자] /사진=MBC 금토드라마 '꼭두의 계절' 방송 화면 캡텨'꼭두의 계절' 임수향이 김정현과의 과거인연을 깨달았다. 4일 방송된 MBC 금토드라마 '꼭두의 계절'에서는 꼭두(김정현 분)와의 인연을 알아챈 한계절(임수향 분)의 모습이 그려졌다. 이날 한계절은 꼭두에게 "나도 여잔데 먼저 말 꺼내기가 쉽지는 않아요"라고 말했다. 이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박훈, 김홍파 대신 이선균과 한 배 탔다...내부 고발]]></title>
-        <id>https://v.daum.net/v/20230205000217727</id>
-        <link href="https://v.daum.net/v/20230205000217727"/>
-        <updated>2023-02-04T15:11:33.471Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 오수정 기자) '법쩐'에서 박훈이 이선균의 손을 잡았다.&nbsp; 4일 방송된 SBS 금토드라마 '법쩐' 10회에서는 명회장(김홍파 분) 대신 은용(이선균)과 손을 잡는 모습이 그려졌다.&nbsp; 지난 방송에서 명회장은 검찰부장의 손을 잡고 목공장 살인 사건의 가해자이자 결정적 증인이기도 한 김성태(이건명)를 살해했다.&nbsp; 이어 '바우펀드' 사태 책임자로 둔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이보영, 300억 PT 승리→승승장구 앞두고 치명적 '수면장애']]></title>
-        <id>https://v.daum.net/v/20230204235921672</id>
-        <link href="https://v.daum.net/v/20230204235921672"/>
-        <updated>2023-02-04T15:11:33.472Z</updated>
-        <content type="html"><![CDATA[[OSEN=최지연 기자] '대행사' 이보영이 불면증 약의 부작용에 시달리기 시작했다.&nbsp; 4일 방송된 JTBC 토일드라마 ‘대행사’(극본 송수한, 연출 이창민)에서는 우원그룹 PT에서 승리한 고아인(이보영 분)의 모습이 그려진 가운데 고아인이 아파트 벤치에서 깨어나 눈길을 끌었다.&nbsp; 이날 최창수(조성하 분)는 강한나(손나은 분)와 앞서 약속한 시간에 리뷰]]></content>
     </entry>
 </feed>
