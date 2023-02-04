@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2023-02-04T06:13:50.685Z</updated>
+    <updated>2023-02-04T07:10:52.277Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[’오빠 오빠 차 있어?’ 알고보니 안소미 목소리..“남편도 몰랐다”]]></title>
+        <id>https://v.daum.net/v/20230204154524345</id>
+        <link href="https://v.daum.net/v/20230204154524345"/>
+        <updated>2023-02-04T07:10:46.301Z</updated>
+        <content type="html"><![CDATA[[OSEN=김채연 기자] 유튜브에 올라와 천만이 넘는 조회수를 기록한 ‘오빠 차 있어?’ 영상 속 여자 목소리가 개그우먼 안소미로 밝혀져 이목이 집중됐다. 4일 안소미는 OSEN과 전화인터뷰를 통해 해당 곡을 녹음하게 된 계기부터 일화를 털어놨다. 앞서 지난 2021년 2월 유튜브 채널 ‘왕간다’에는 ‘오빠오빠 차있어?’란 제목의 영상이 게재됐고, 이후]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[송혜교, 왜 갑자기 7개월전 파리여행 사진 공개했을까]]></title>
+        <id>https://v.daum.net/v/20230204151818106</id>
+        <link href="https://v.daum.net/v/20230204151818106"/>
+        <updated>2023-02-04T07:10:46.312Z</updated>
+        <content type="html"><![CDATA[[OSEN=강서정 기자] 배우 송혜교가 갑자기 7개월 전 프랑스 파리에 다녀왔던 사진들을 공개했다. 송혜교는 4일 “My last paris trip”이라고 지난해 다녀왔던 파리여행 사진들을 공유했다. 사진 속에서 송혜교는 15살 어린 절친인 모델 신현지와 장난기 가득한 표정을 지으며 사진을 찍고 있고, 파리의 한 다리에서 한 남자가 자신의 어깨에 손을]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['재혼+임신' 송중기♥케이티, 사촌 결혼식 참석 당시 '볼록 D라인' 포착]]></title>
         <id>https://v.daum.net/v/20230204142612471</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230204120005362"/>
         <updated>2023-02-04T03:12:57.090Z</updated>
         <content type="html"><![CDATA[[스포티비뉴스=장진리 기자] "그분이 오셨다!" 펜타곤 후이가 엠넷 '보이즈 플래닛'에 등장하자 스튜디오 글라이드 연습생 성한빈이 외친 말이다. 미리 공개된 테마송 '난 빛나' 영상으로 K그룹 첫 센터라는 사실이 알려진 성한빈은 후이의 등장에 깜짝 놀랐고, 젤리피쉬 소속 장여준, 박현빈은 "최종 보스"라고 입을 모았다. '보이즈 플래닛'을 통해 본명]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“한 올이라도 덜 빠지게”…‘모내기클럽’ 박명수X김광규, 천만 탈모인 위해 뭉쳤다]]></title>
-        <id>https://v.daum.net/v/20230204115546331</id>
-        <link href="https://v.daum.net/v/20230204115546331"/>
-        <updated>2023-02-04T03:12:57.092Z</updated>
-        <content type="html"><![CDATA[코미디언 박명수와 장도연, 배우 김광규가 천만 탈모인의 고충을 대변하기 위해 뭉쳤다. MBN-LG헬로비전 공동제작 ‘모내기클럽’ 온라인 제작발표회가 4일 오전 진행됐다. 이날 행사에는 김성 PD를 비롯해 장도연, 박명수, 김광규가 참석했다. ‘모내기클럽’은 각계를 대표하는 탈모인들이 한자리에 모여 ‘모(毛)내기 지원금’을 두고 펼치는 예능프로그램이다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[편의점은, 당신의 감정 쓰레기통이 아닙니다]]></title>
-        <id>https://v.daum.net/v/20230204115101310</id>
-        <link href="https://v.daum.net/v/20230204115101310"/>
-        <updated>2023-02-04T03:12:57.093Z</updated>
-        <content type="html"><![CDATA[[이준목 기자] 항상 사람을 상대해야 하지만, 그래서 사람이 두려워지는 공간이 있다. 공정거래위원회와 통계청에 따르면, 2021년 기준으로 대한민국 전국에 편의점 개수는 5만점을 넘어섰고, 국민들의 편의점 1주일 평균 방문 횟수는 2.7회에 이르며, 약 180만 명의 초단시간 노동자가 편의점에서 근무한다고 한다. 남녀노소를 불문하고 불특정 다수의 사람들이]]></content>
     </entry>
 </feed>
