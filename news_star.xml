@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2023-02-05T03:16:25.251Z</updated>
+    <updated>2023-02-05T04:13:43.177Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이승윤 정규 2집 , 더할 나위 없다]]></title>
+        <id>https://v.daum.net/v/20230205130903898</id>
+        <link href="https://v.daum.net/v/20230205130903898"/>
+        <updated>2023-02-05T04:13:36.925Z</updated>
+        <content type="html"><![CDATA[[유재은 기자] ▲ &nbsp;이승윤 정규 2집 &lt;꿈의 거처&gt; 티저 이미지ⓒ 마름모&nbsp; 음악인 이승윤이&nbsp;약 9개월 정도의 제작 기간 끝에&nbsp;지난 1월 26일 정규 2집 &lt;꿈의 거처&gt;를 발표했다. 2집에는 동명 타이틀곡 '꿈의 거처'를 포함한 총 열두 곡이 수록되어있다. 이 글은 전문성을 띤 평론이 아닌,&nbsp;음악적 지식이 없는 한 사람의 청자로서 작성해본 음반 감상문이다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[영조의 '화완옹주 사랑'이 불러온 후폭풍]]></title>
+        <id>https://v.daum.net/v/20230205130300828</id>
+        <link href="https://v.daum.net/v/20230205130300828"/>
+        <updated>2023-02-05T04:13:36.931Z</updated>
+        <content type="html"><![CDATA[[김종성 기자] ▲ &nbsp;tvN &lt;조선 정신과 의사 유세풍 2&gt;의 한 장면.ⓒ tvN&nbsp; tvN 사극 &lt;조선 정신과 의사 유세풍 2&gt;에 나오는 옹주 이서이(우다비 분)는 신분을 앞세워 거만하게 행동하면서도 혈통 콤플렉스를 드러낼 때가 있다. 공주가 아닌 옹주라는 사실이 그를 그렇게 만든다. 이 옹주는 어머니가 천출이었다는 사실에 열등감을 갖고 있다. 사대부 가문]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["영리하지 못한 정의는..." '법쩐'이 던진 묵직한 질문]]></title>
         <id>https://v.daum.net/v/20230205120002950</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230205110004016"/>
         <updated>2023-02-05T02:46:34.399Z</updated>
         <content type="html"><![CDATA[[스포티비뉴스=장진리 기자] '일타 스캔들' 결말이 나왔다. 5일 스포티비뉴스 취재에 따르면 tvN 토일드라마 '일타 스캔들'(극본 양희승, 연출 유제원)은 이날 모든 촬영을 마친다. '일타 스캔들'은 지난 여름부터 촬영을 시작, 겨울의 끝이 보이는 2월 초 대장정을 마무리 하게 됐다. 특히 더 큰 화력이 붙어가는 인기 속 드라마가 어떤 마무리로]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[기적 이룬 '대행사', 설마 이보영의 '불치병'? '흙수저 반란기'였는데 건강 문제로 '좌절'이라면…]]></title>
-        <id>https://v.daum.net/v/20230205105438929</id>
-        <link href="https://v.daum.net/v/20230205105438929"/>
-        <updated>2023-02-05T02:46:34.399Z</updated>
-        <content type="html"><![CDATA[[스포츠조선 이정혁 기자]기적을 이룬 '대행사' 용두사미되나? 급 불치병 암시에 '혹시나' '행여나'하는 시청자들의 불안은 커지고 있다. '대행사' 이보영이 법으로도 해결하지 못했던 일을 광고로 해내는 기적을 일으켰다. JTBC 토일드라마 '대행사'(연출 이창민/극본 송수한/제공 SLL/제작 하우픽쳐스, 드라마하우스 스튜디오) 9회에서 예상]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이수혁, 일면식 없는 팬에 70만원대 고가 선물…역시 도파민좌]]></title>
-        <id>https://v.daum.net/v/20230205105017883</id>
-        <link href="https://v.daum.net/v/20230205105017883"/>
-        <updated>2023-02-05T02:46:34.400Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 최희재 기자) 배우 이수혁이 한 팬에게 고가의 음향기기를 선물, 화제를 모으고 있다. 이수혁은 지난 2일 "스태프 동생이 알려줬는데, 구입 예정 날짜 알려주세요"라는 글과 함께 사진을 올렸다. 해당 사진에는 한 커뮤니티의 글이 캡처되어있다. 이수혁의 팬으로 보이는 누리꾼 A씨는 "이수혁씨 지금 인스타 폭주 중이다. 게시글 3만원, 스토리 만원]]></content>
     </entry>
 </feed>
