@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2023-02-05T15:10:57.961Z</updated>
+    <updated>2023-02-05T16:14:19.600Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[혼자는 어찌 할 수 없네]]></title>
+        <id>https://v.daum.net/v/20230206010018990</id>
+        <link href="https://v.daum.net/v/20230206010018990"/>
+        <updated>2023-02-05T16:14:14.310Z</updated>
+        <content type="html"><![CDATA[기사내용 요약 #오늘의 곡 : 하헌진 '카드빚 블루스' [서울=뉴시스]이재훈 기자 = "오랜만에 친구를 찾네 / 오랜만에 친구를 찾네 / 혼자는 어찌 할 수 없네 / 난생 처음 빚을 졌네 / 난생 처음 빚을 졌네 / 혼자는 어찌 할 수 없네" 지난 4일 오후 이태원역 4번 출구 앞 클럽 오프 더 레코드. 수십명의 관객 앞에서 블루스 싱어송라이터 하헌진이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[방탄소년단, 오늘 美 그래미 3번째 도전…K팝 새 역사 쓸까]]></title>
         <id>https://v.daum.net/v/20230206000103723</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230205223904356"/>
         <updated>2023-02-05T14:10:24.885Z</updated>
         <content type="html"><![CDATA[(서울=뉴스1) 윤효정 기자 = '일타 스캔들' 정경호와 전도연의 비밀 과외가 끝이 났다. 5일 밤 방송된 tvN 주말드라마 '일타 스캔들'(극본 양희승/연출 유제원) 8회에서 최치열(정경호 분)과 남행선(전도연 분)의 비밀 과외가 올케어반 학부모들에게 들통 났다. 이날 최치열은 남행선의 어머니가 운영하던 식당이 자신이 과거에 자주 갔던 단골식당이라]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘일타 스캔들’ 정경호, 다친 전도연에 한달음...비밀과외 들켰다]]></title>
-        <id>https://v.daum.net/v/20230205223823354</id>
-        <link href="https://v.daum.net/v/20230205223823354"/>
-        <updated>2023-02-05T14:10:24.886Z</updated>
-        <content type="html"><![CDATA[‘일타 스캔들’ 정경호의 비밀과외가 들켰다. 5일 오후 방송된 tvN 주말드라마 ‘일타 스캔들’에서는 전도연에게 은혜 갚기를 하며 흔들리던 정경호가 비밀과외가 들키는 장면이 전파를 탔다. 이날 최치열(정경호)은 정영순(김미경)이 과거 운영했던 가게를 남행선(전도연)과 함께 찾았다. 주변을 둘러본 그는 주방 위치부터 데이블까지 하나도 변하지 않은 모습]]></content>
     </entry>
 </feed>
