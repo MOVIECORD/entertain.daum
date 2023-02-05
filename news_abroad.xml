@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-02-05T01:01:40.666Z</updated>
+    <updated>2023-02-05T02:46:39.644Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['카니발리즘 의혹' 아미 해머 "13살 목사에게 성학대"]]></title>
+        <id>https://v.daum.net/v/20230205112006380</id>
+        <link href="https://v.daum.net/v/20230205112006380"/>
+        <updated>2023-02-05T02:46:39.015Z</updated>
+        <content type="html"><![CDATA[[티브이데일리 김지현 기자] 카니발리즘(동종의 생명을 먹는 문화, 식인) 및 성폭행 의혹에 휩싸인 할리우드 배우 아미 해머가 어린시절 불우한 일을 겪었다고 밝혔다. 아미 해머는 4일(현지시간) 미국 매체 에어메일과 인터뷰에서 "불과 13살 때 청년 목사에게 성적 학대를 당했다"고 주장했다. 그는 “그 사건 이후로 내 삶에서 성적인 것을 완전히 통제할 수 없]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘식인취향’ 아미 해머, “로버트 다우니 주니어가 재활 도와줬다” 감사인사]]></title>
+        <id>https://v.daum.net/v/20230205101809433</id>
+        <link href="https://v.daum.net/v/20230205101809433"/>
+        <updated>2023-02-05T02:46:39.015Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]식인 취향과 성폭행 의혹 등으로 할리우드에서 퇴출된 아미 해머(36)가 자신을 도와준 ‘아이언맨’ 로버트 다우니 주니어(57)에 고마움 마음을 전했다. 배니티 페어는 지난해 '아이언맨' 배우가 아미 해머의 치료비를 지불하고 그가 다시 일어설 수 있도록 추가적인 재정 지원과 머물 곳을 제공했다고 보도했다. 해머는 4일(현지시간]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["루푸스→체중증가∙수전증→연적과 포옹" 셀레나 고메즈, ♥︎받는 이유]]></title>
         <id>https://v.daum.net/v/20230205095519037</id>
@@ -74,19 +88,5 @@
         <link href="https://v.daum.net/v/20230204142922509"/>
         <updated>2023-02-04T06:13:49.987Z</updated>
         <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]영화 '테이큰'의 리암 니슨(70)이 같은 아일랜드 출신의 UFC스타 코너 맥그리거(34)를 저격했다. 코너 맥그리거는 UFC 최초 두 체급 동시 챔피언이라는 타이틀을 얻어 역사에 이름을 남긴 유명 스타다. 그는 3일(현지시간) 맨즈헬스와 인터뷰에서 “UFC를 참을 수 없다. 그것은 나에게 술집 싸움과 같다. 맥주병을 잡고]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“‘오징어게임’ 리얼리티쇼는 재앙이었다” 참가자들, 제작사에 소송 검토]]></title>
-        <id>https://v.daum.net/v/20230204114218256</id>
-        <link href="https://v.daum.net/v/20230204114218256"/>
-        <updated>2023-02-04T03:13:02.785Z</updated>
-        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]전 세계에서 큰 인기를 얻은 넷플릭스 인기 드라마 ‘오징어게임’을 기반으로 한 리얼리티쇼 출연자들이 제작사를 상대로 소송에 나선다. 영국 베드포드셔주 카딩턴 스튜디오에서 진행되고 있는 ‘오징어 게임: 더 챌린지’ 리얼리티 쇼는  세계 각국에서 온 456명이 456만달러(약 56억3000만 원)의 상금을 놓고 경쟁하는 프로그램]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[블랙핑크·던·제이홉, 롤링스톤 선정 '스타일리시 뮤지션']]></title>
-        <id>https://v.daum.net/v/20230204113432183</id>
-        <link href="https://v.daum.net/v/20230204113432183"/>
-        <updated>2023-02-04T03:13:02.799Z</updated>
-        <content type="html"><![CDATA[(서울=연합뉴스) 이태수 기자 = 걸그룹 블랙핑크, 가수 던, 그룹 방탄소년단(BTS)의 제이홉 등 K팝 스타들이 미국 대중음악지 롤링스톤 선정 '2023년 가장 스타일리시한 뮤지션 25인'에 이름을 올렸다. 4일 가요계에 따르면 롤링스톤은 최근 블랙핑크(6위), 던(16위), 제이홉(21위)이 포함된 순위를 공개했다. 이 명단에는 이들 외에도 두아 리파,]]></content>
     </entry>
 </feed>
