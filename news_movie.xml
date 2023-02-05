@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-02-05T02:46:39.646Z</updated>
+    <updated>2023-02-05T03:16:25.250Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['슬램덩크', '귀멸의 칼날' 꺾고 역대 3위…'하울의 움직이는 성' 넘을까]]></title>
+        <id>https://v.daum.net/v/20230205115721931</id>
+        <link href="https://v.daum.net/v/20230205115721931"/>
+        <updated>2023-02-05T03:16:02.986Z</updated>
+        <content type="html"><![CDATA[[OSEN=김보라 기자]&nbsp;영화 ‘더 퍼스트 슬램덩크’가 국내 개봉한 일본 애니메이션 가운데 역대 3위를 기록했다. 개봉 전 예상하지 못 했지만, 입소문을 타고 이른바 ‘슬친자(슬램덩크에 미친자)’ 열풍이 불면서 국내 흥행에 성공한 모양새다. 이에 앞으로 써 내려갈 기록에 관심이 집중되고 있다. 5일 영화진흥위원회 영화관입장권 통합전산망 집계를 보면 전날]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[신카이 마코토 '스즈메의 문단속', '더 퍼스트 슬램덩크' 인기 이을까]]></title>
         <id>https://v.daum.net/v/20230205114557781</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230205080006743"/>
         <updated>2023-02-04T23:10:55.859Z</updated>
         <content type="html"><![CDATA[[이데일리 스타in 김보영 기자] 개봉 영화를 소개합니다. ◇바빌론 황홀하면서도 위태로운 고대 도시, ‘바빌론’에 비유되던 할리우드. ‘꿈’ 하나만을 위해 모인 사람들이 이를 쟁취하기 위해 벌이는 강렬하면서도 매혹적인 이야기. ‘위플래시’, ‘라라랜드’의 데이미언 셔젤 감독이 전작 ‘라라랜드’(2016)에 이어 7년 만에 LA가 배경인 작품으로 다시]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[원하는 대로 죽을 자유를 말하다…영화 '안녕, 소중한 사람']]></title>
-        <id>https://v.daum.net/v/20230205075007695</id>
-        <link href="https://v.daum.net/v/20230205075007695"/>
-        <updated>2023-02-04T23:10:55.859Z</updated>
-        <content type="html"><![CDATA[(서울=연합뉴스) 김정진 기자 = "우리는 죽음에 관해 이야기해야만 해요. 삶의 끝은 금기가 되어서는 안 됩니다." 8일 개봉하는 영화 '안녕, 소중한 사람'은 죽음을 피하지 않으려는 시한부 환자 엘렌(비키 크리프스 분)과 사랑하는 사람을 떠나보내고 싶지 않은 마티외(가스파르 울리엘)의 이야기다. 에밀리 아테프 감독은 최근 연합뉴스와의 이메일 인터뷰에서 "]]></content>
     </entry>
 </feed>
