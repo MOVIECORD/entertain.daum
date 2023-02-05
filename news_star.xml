@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2023-02-05T18:13:09.601Z</updated>
+    <updated>2023-02-05T19:10:08.956Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[나인뮤지스 민하, 5월의 신부된다 "흔들리던 20대에 만나 3년 연애"]]></title>
+        <id>https://v.daum.net/v/20230206040008594</id>
+        <link href="https://v.daum.net/v/20230206040008594"/>
+        <updated>2023-02-05T19:10:02.793Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 이승길 기자] 그룹 나인뮤지스 출신 민하(31·박민하)가 5월의 신부가 된다. 민하는 5일 "항상 응원해 주시는 많은 분들께 마음을 담아 전하고 싶은 이야기가 있어 오랜만에 손편지를 써봅니다"로 시작되는 글을 남겼다. 그는 "제가 사랑하는 계절인 봄, 다가오는 5월에 결혼을 합니다. 많이 흔들리고 무너지던 20대 끝자락에 만나 지난 3년간]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[리메이크…규현·NCT드림·아이유·조정석]]></title>
         <id>https://v.daum.net/v/20230206030020229</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230205225309419"/>
         <updated>2023-02-05T14:10:24.884Z</updated>
         <content type="html"><![CDATA[(서울=뉴스1) 이아영 기자 = 이상민의 요리 아바타가 된 김종국이 비록 생선을 태우기는 했지만 추어탕을 완성했다. 5일 방송된 SBS '미운 우리 새끼'에서는 김종국이 어머니를 위해 직접 요리를 준비했다. 김종국의 어머니가 오랜만에 출연했다. 다들 건강한 모습을 보고 반가워했다. 김종국의 어머니는 아들들이 꾸며놓은 걸 보고 좋아했다. 이상민은 김종국이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['대행사' 이보영, 약 부작용 몽유병→맨발 배회 "나도 내가 무서워"]]></title>
-        <id>https://v.daum.net/v/20230205225212417</id>
-        <link href="https://v.daum.net/v/20230205225212417"/>
-        <updated>2023-02-05T14:10:24.884Z</updated>
-        <content type="html"><![CDATA[[스포츠투데이 임시령 기자] '대행사' 이보영이 자신의 수면장애에 두려움을 토로했다. 5일 방송된 JTBC 토일드라마 '대행사'(극본 송수한·연출 이창민)에서는 고아인(이보영)이 자신이 수면제 부작용을 앓고 있는 것을 알았다. 이날 고아인은 잠옷 차림으로 아파트 벤치에서 아침을 맞이했다. 이 상황이 당황스러운 고아인은 지난밤 행적을 살피기 위해 아파트 C]]></content>
     </entry>
 </feed>
