@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2023-02-05T16:14:19.600Z</updated>
+    <updated>2023-02-05T17:10:16.996Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['런닝맨' 장혁, "김종국 집에 주차를 해둬서"…절친의 놀림에도 '웃은 이유' 눈길]]></title>
+        <id>https://v.daum.net/v/20230206020300167</id>
+        <link href="https://v.daum.net/v/20230206020300167"/>
+        <updated>2023-02-05T17:10:11.378Z</updated>
+        <content type="html"><![CDATA[[SBS연예뉴스 | 김효정 에디터] 장혁이 김종국의 공격에도 웃은 이유는? 5일 방송된 SBS '런닝맨'에서는 '컬러풀 무림고수' 레이스가 펼쳐졌다. 이날 방송에는 특별한 게스트가 등장해 눈길을 끌었다. 양세찬이 앞서 잡혀있던 일정으로 촬영에 빠지면서 런닝맨의 식구 같은 장혁이 게스트로 찾아온 것. 이에 멤버들은 또 다른 게스트 견자단에 맞춤 캐스팅이라며]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[혼자는 어찌 할 수 없네]]></title>
         <id>https://v.daum.net/v/20230206010018990</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230205225017407"/>
         <updated>2023-02-05T15:10:52.187Z</updated>
         <content type="html"><![CDATA[[OSEN=김보라 기자]&nbsp;‘일타 스캔들’ 정경호와 전도연의 ‘썸’이 엄마들에게 들통났다. 5일 오후 방송된 tvN 토일드라마 ‘일타 스캔들’(극본 양희승, 연출 유제원) 8회는 ‘인연이 운명이 되는 귀납적 추론’이라는 부제로 그려진 가운데 최치열(정경호 분)과 남행선(전도연 분)이 서로에게 호감을 느끼고 있음이 드러났다. 이날 최치열은 과거 임용고시생]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['일타 스캔들' 정경호·전도연 비밀과외 들통…진짜 스캔들 터졌다]]></title>
-        <id>https://v.daum.net/v/20230205223904356</id>
-        <link href="https://v.daum.net/v/20230205223904356"/>
-        <updated>2023-02-05T14:10:24.885Z</updated>
-        <content type="html"><![CDATA[(서울=뉴스1) 윤효정 기자 = '일타 스캔들' 정경호와 전도연의 비밀 과외가 끝이 났다. 5일 밤 방송된 tvN 주말드라마 '일타 스캔들'(극본 양희승/연출 유제원) 8회에서 최치열(정경호 분)과 남행선(전도연 분)의 비밀 과외가 올케어반 학부모들에게 들통 났다. 이날 최치열은 남행선의 어머니가 운영하던 식당이 자신이 과거에 자주 갔던 단골식당이라]]></content>
     </entry>
 </feed>
