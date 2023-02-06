@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-02-06T20:13:26.989Z</updated>
+    <updated>2023-02-06T21:11:26.834Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['더 퍼스트 슬램덩크', 영광의 시대는 지금]]></title>
+        <id>https://v.daum.net/v/20230207061001180</id>
+        <link href="https://v.daum.net/v/20230207061001180"/>
+        <updated>2023-02-06T21:11:05.174Z</updated>
+        <content type="html"><![CDATA[영화 ‘더 퍼스트 슬램덩크’ 공식 포스터. 제공 | 에스엠지홀딩스㈜ [스포츠서울 | 심언경기자] “영감님의 영광의 시대는 언제였죠? 난 지금입니다!” 영화 ‘더 퍼스트 슬램덩크’(감독 이노우에 다케히코)가 극 중 강백호처럼 바로 지금 영광의 시대를 맞이한 분위기다. ‘더 퍼스트 슬램덩크’는 전국 제패를 꿈꾸는 북산고 농구부 5인방의 꿈과]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[화제와 혹평 사이…그럼에도 볼만한 이유]]></title>
         <id>https://v.daum.net/v/20230207000121026</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230206160835936"/>
         <updated>2023-02-06T07:16:10.759Z</updated>
         <content type="html"><![CDATA[(서울=연합뉴스) 김정진 기자 = 뿌리기만 하면 모든 사람이 나를 좋아하게 되는 향수가 있다면 어떨까. 오는 8일 개봉을 앞둔 영화 '우리 사랑이 향기로 남을 때'는 한 남자가 정체 모를 향수를 손에 넣으면서 몇 년째 짝사랑해왔던 여자와 연인이 되는 이야기를 그린다. 일도 사랑도 맘처럼 되지 않는 창수를 연기한 윤시윤은 6일 종로구 삼청동 한 카페에서 진행]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["비혼주의 NO"…'우사향' 윤시윤, ♥ 용기 부족한 37세 순수 청년]]></title>
-        <id>https://v.daum.net/v/20230206160519788</id>
-        <link href="https://v.daum.net/v/20230206160519788"/>
-        <updated>2023-02-06T07:16:10.762Z</updated>
-        <content type="html"><![CDATA[[OSEN=김보라 기자]&nbsp;배우 윤시윤(37)이 “데이트하면서 맛있는 거 드시러 가기 전에 극장에서 가볍게 보셨으면 좋겠다”고 새 영화 ‘우리 사랑이 향기로 남을 때’의 예비 관객들에게 당부의 말을 건넸다. 윤시윤은 6일 오후 서울 삼청동의 한 카페에서 진행된 인터뷰에서 “개봉 이후에 영화가 OTT 플랫폼으로 간다고 해도 관객들이 부담 없이 재미있게 보실]]></content>
     </entry>
 </feed>

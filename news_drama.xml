@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-02-06T20:13:26.987Z</updated>
+    <updated>2023-02-06T21:11:26.831Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[출소 후 치킨·경호원과 사랑?, '재벌집'만 있나? '대행사' 속 재벌 흔적찾기]]></title>
+        <id>https://v.daum.net/v/20230207060002906</id>
+        <link href="https://v.daum.net/v/20230207060002906"/>
+        <updated>2023-02-06T21:11:10.508Z</updated>
+        <content type="html"><![CDATA[JTBC 주말극 ‘대행사’ 출처 | JTBC [스포츠서울 | 조은별기자] 재벌총수는 출소 후 치킨 한 마리를 시켜 이미지 반전을 꾀한다. 철없는 재벌 3세는 소셜미디어계정 라이브 방송 중 부친이 요거트 뚜껑을 핥아먹는지 알아보자며 ‘몰카’를 찍는다. 시청률 10%를 넘어선 JTBC 주말드라마 ‘대행사’ 속 숨겨진 재벌가 에피소드들이 극]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['오아시스', 장동윤X설인아X추영우 청춘 케미 예고...3월 6일 첫방]]></title>
         <id>https://v.daum.net/v/20230207020530586</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230206205100451"/>
         <updated>2023-02-06T12:31:08.115Z</updated>
         <content type="html"><![CDATA[살인사건 용의자 전소니의 모습이 포착됐다. 6일 첫 방송될 tvN 새 월화드라마 ‘청춘월담’(극본 정현정/ 연출 이종재/ 제작 글앤그림미디어/ 기획 스튜디오드래곤)은 미스터리한 저주에 걸린 왕세자와 하루아침에 일가족 살인사건의 범인으로 지목된 천재 소녀의 이야기를 담은 청춘 구원 로맨스다. 극 중 명망 높은 양반집 규수 민재이(전소니 분)는 혼인을 얼마 남]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['태풍의 신부' 박하나, 손창민 악행에 오열 "죽여 버릴 거야"]]></title>
-        <id>https://v.daum.net/v/20230206204640400</id>
-        <link href="https://v.daum.net/v/20230206204640400"/>
-        <updated>2023-02-06T12:31:08.115Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 이상은 기자] /사진=KBS 2TV 일일드라마 '태풍의 신부' 방송화면'태풍의 신부' 박하나가 손창민이 지수원에게 저지른 악행을 알고 오열했다. 6일 오후 방송된 KBS 2TV 일일드라마 '태풍의 신부'에서는 은서연(박하나 분)이 엄마 서윤희(지수원 분)의 몸에서 CCTV 녹화 메모리칩을 발견한 장면이 담겼다. 이날 은서연은 녹화 파일을 통해]]></content>
     </entry>
 </feed>
