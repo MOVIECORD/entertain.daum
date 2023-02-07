@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-02-07T09:12:16.244Z</updated>
+    <updated>2023-02-07T10:13:21.201Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[짐 캐리, '은퇴' 언급 후 363억 저택 내놔..."노후 대비"]]></title>
+        <id>https://v.daum.net/v/20230207190031973</id>
+        <link href="https://v.daum.net/v/20230207190031973"/>
+        <updated>2023-02-07T10:13:20.427Z</updated>
+        <content type="html"><![CDATA[[TV리포트=이수연 기자] 배우 겸 코미디언 짐 캐리(61)가 30년간 지낸 집을 2,890만 달러(한화 약 363억 원)에 내놓으면서 은퇴 후 노후 준비에 들어갔다. 6일(현지 시간) 미국 월스트리트저널에 따르면 짐 캐리가 1994년부터 약 30년간 살던 약 350평의 로스앤젤레스의 저택을 2,890만 달러(한화 약 363억 원)에 내놓았다. 짐 캐리는]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘앤트맨3’ 외신 첫반응 “창의적이고 훌륭한 액션 가득, 쿠키영상 2개도 좋다” 극찬]]></title>
         <id>https://v.daum.net/v/20230207180738893</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230207085913004"/>
         <updated>2023-02-07T00:57:50.423Z</updated>
         <content type="html"><![CDATA[(워싱턴=연합뉴스) 이상헌 특파원 = 조 바이든 미국 대통령이 이번 국정연설에서 연방정부의 부채한도 상향 문제는 협상할 수 없는 사안이라는 점을 분명히 밝힐 것이라고 브라이언 디스 국가경제위원회(NEC) 위원장이 밝혔다. 디스 위원장은 6일(현지시간) 백악관 브리핑에서 바이든 대통령이 다음날인 7일 예정된 국정연설에서 부채한도 상향 문제를 의회가 협상 카드]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“비욘세 꺾은 해리 스타일스+64살 마돈나 충격의 성형”, 그래미어워드 시청률 30% 증가]]></title>
-        <id>https://v.daum.net/v/20230207084930727</id>
-        <link href="https://v.daum.net/v/20230207084930727"/>
-        <updated>2023-02-07T00:57:50.424Z</updated>
-        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]제65회 그래미 어워드가 각종 화제를 불러 일으키며 시청률 대박을 터트렸다. 버라이어티는 6일(현지시간) “그래미어워드는 총 시청자 수 1,240만명을 기록하여 2020년 이후 가장 높은 시청률을 기록했다”면서 “이는 지난해보다 30% 증가한 것이다”라고 보도했다. 또한 “그래미어워드의 라이브 스트리밍 수치는 지난해보다 3]]></content>
     </entry>
 </feed>

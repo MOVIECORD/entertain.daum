@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/variety</id>
     <title>다음 연예 ─ 뉴스 ─ 예능</title>
-    <updated>2023-02-07T09:12:16.247Z</updated>
+    <updated>2023-02-07T10:13:21.195Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[한가인 "소개팅·미팅, 딱 한번 해봤다..필살기는 미모" 너스레]]></title>
+        <id>https://v.daum.net/v/20230207182936435</id>
+        <link href="https://v.daum.net/v/20230207182936435"/>
+        <updated>2023-02-07T10:13:09.817Z</updated>
+        <content type="html"><![CDATA[[OSEN=하수정 기자] ‘손 없는 날’ 한가인이 뜻밖의 직업병을 공개한다. JTBC 예능 ‘손 없는 날’(연출 김민석 박근형/작가 노진영)은 낯선 곳으로의 새로운 출발을 꿈꾸는 시민들이 이사를 결심하기까지의 인생 스토리를 담아 가는 프로그램. 결혼 후 분가, 인생 첫 독립, 가족의 증가와 축소 등 삶의 오르막과 내리막의 정점에서의 ‘이사’에 얽힌 현재]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[안문숙, 지상렬 VS 차인표 중 이상형은?]]></title>
         <id>https://v.daum.net/v/20230207180909921</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230207165130648"/>
         <updated>2023-02-07T08:14:51.616Z</updated>
         <content type="html"><![CDATA[[뉴스엔 박수인 기자] 인지심리학자 김경일이 '어쩌다 어른' MC이자 강연자로 등판한다. 2월 7일 방송되는 tvN STORY ‘어쩌다 어른’(연출 정민식) 2화에서는 ‘어쩌다 어른’ 홈페이지를 통해 어른들의 궁금증을 접수했을 당시 MC 김경일과 제작진들까지 놀라게 한 일관적인 테마에 대해 강연 예정이다. “마음을 파악하는 게 너무너무 힘들어요”, “꼰]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['피지컬:100' 장호기 PD "빌런 없는 서바이벌, 서로가 박수치고 맞절하는 모습에 감명받아"]]></title>
-        <id>https://v.daum.net/v/20230207164109285</id>
-        <link href="https://v.daum.net/v/20230207164109285"/>
-        <updated>2023-02-07T08:14:51.618Z</updated>
-        <content type="html"><![CDATA[전 세계적인 관심을 받고 있는 넷플릭스 예능 '피지컬: 100'을 연출한 장호기 PD를 만났다. 서바이벌 게임 예능을 통해 성별, 체급, 나이 불문하고 오직 '피지컬'만으로 승부를 보는 이 예능은 공개와 동시에 전 세계 33개국에서 TOP 10에 오르며 '근징어게임'이라는 별명까지 붙으며 화제가 되고 있다. 대단한 피지컬을 가진 인물들이 출연하는 프로]]></content>
     </entry>
 </feed>
