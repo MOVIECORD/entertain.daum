@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-02-08T00:58:21.104Z</updated>
+    <updated>2023-02-08T02:22:22.922Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[브렌든 프레이저 “아들 자폐아 진단, 뒤통수에 야구방망이 맞은 듯”]]></title>
+        <id>https://v.daum.net/v/20230208100617394</id>
+        <link href="https://v.daum.net/v/20230208100617394"/>
+        <updated>2023-02-08T02:22:22.235Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]영화 ‘미이사’ 시리즈로 유명한 브렌든 프레이저(54)가 아들 그리핀이 자폐아 진단을 받았을 당시의 심경을 전했다. 그는 7일(현지시간) ‘하워드 스턴 쇼’에 출연해 “22개월이나 24개월에 내 아이가 자폐아 진단을 받았을 때 낙담했다”고 말했다. 이어 “나는 이것을 어떻게 고치는지 알고 싶었다. 치료법이 무엇이고, 이것이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["나 같은 사람에겐"...해리 스타일스, 그래미 수상소감 ‘인종차별’ 논란 점화]]></title>
         <id>https://v.daum.net/v/20230208091237226</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230207190031973"/>
         <updated>2023-02-07T10:13:20.427Z</updated>
         <content type="html"><![CDATA[[TV리포트=이수연 기자] 배우 겸 코미디언 짐 캐리(61)가 30년간 지낸 집을 2,890만 달러(한화 약 363억 원)에 내놓으면서 은퇴 후 노후 준비에 들어갔다. 6일(현지 시간) 미국 월스트리트저널에 따르면 짐 캐리가 1994년부터 약 30년간 살던 약 350평의 로스앤젤레스의 저택을 2,890만 달러(한화 약 363억 원)에 내놓았다. 짐 캐리는]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘앤트맨3’ 외신 첫반응 “창의적이고 훌륭한 액션 가득, 쿠키영상 2개도 좋다” 극찬]]></title>
-        <id>https://v.daum.net/v/20230207180738893</id>
-        <link href="https://v.daum.net/v/20230207180738893"/>
-        <updated>2023-02-07T09:12:15.392Z</updated>
-        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]마블 페이즈5의 첫 서막을 여는 ‘앤트맨과 와스프:퀀텀매니아’가 6일(현지시간) 미국에서 첫 공개된 가운데 외신의 호평이 쏟아졌다. 미국 유력 매체 버라이어티의 재즈 탕케이는 이날 트위터에 “‘앤트맨과 와스프:권텀매니아’를 보는 것은 정말 재미있다. 창의적이고, 거부할 수 없을 정도로 에너지가 넘치고, 몇몇 훌륭한 액션 장면]]></content>
     </entry>
 </feed>
