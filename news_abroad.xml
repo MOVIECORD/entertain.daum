@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-02-09T10:12:33.837Z</updated>
+    <updated>2023-02-09T11:11:20.950Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['브리저튼2' 시몬 애슐리 "피부 검은 내가 배드신 찍을 수 있어 감사"]]></title>
+        <id>https://v.daum.net/v/20230209200030502</id>
+        <link href="https://v.daum.net/v/20230209200030502"/>
+        <updated>2023-02-09T11:11:20.357Z</updated>
+        <content type="html"><![CDATA[[TV리포트=이수연 기자] 넷플릭스 '브리저튼 2'의 시몬 애슐리가 배드신에 대해 솔직한 심경을 드러냈다. 7일(현지 시간) 미국 매체 피플에 따르면 배우 시몬 애슐리는 한 인터뷰를 통해 '브리저튼 2'의 배드신 촬영 비하인드를 공개했다. 시몬 애슐리는 "11개월간의 촬영 중 일주일 만에 모든 배드신을 촬영했다"라며 "우리는 모든 배드신 촬영을 마친 후 샴]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[애슐리 그레이엄 "모유 수유 안 해도 애들 건강해...참견 그만"]]></title>
         <id>https://v.daum.net/v/20230209191030636</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230209092734464"/>
         <updated>2023-02-09T00:56:45.444Z</updated>
         <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]지난 1월 제설기에 치여 중상을 입은 ‘호크아이’ 제레미 레너(51)가 빠른 속도로 회복하고 있다. ‘앤트맨과 와스프:퀀텀매니아’의 에반젤린 릴리(43)는 8일(현지시간) 엑세스와 인터뷰에서 “그는 휠체어를 타고 있었다”면서 “레너는 용감하고 강하다”고 말했다. 이어 “그는 친구들과 함께 웃으며 몸을 움직였다. 그것은 기적]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[마돈나, '성괴' 비난에 "여성혐오"→32세 연하男과 공개 딥키스 도발]]></title>
-        <id>https://v.daum.net/v/20230209082215699</id>
-        <link href="https://v.daum.net/v/20230209082215699"/>
-        <updated>2023-02-09T00:56:45.446Z</updated>
-        <content type="html"><![CDATA[[OSEN=최나영 기자] '팝의 여왕' 마돈나가 성형 논란에도 아랑곳하지 않고 32세 연하남과 공개 딥키스하는 모습을 선보였다. 지난 6일 미국 로스앤젤레스 크립토닷컴 아레나에서 열린 제 65회 그래미 어워즈에 참석한 마돈나는 ‘베스트 팝 듀오/그룹 퍼포먼스’ 부문 시상자로 나와 샘 스미스와 킴 페트라스를 소개했다. 샘 스미스는 동성애자, 킴 페트라스는]]></content>
     </entry>
 </feed>
