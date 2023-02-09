@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2023-02-09T18:15:31.571Z</updated>
+    <updated>2023-02-09T19:10:22.228Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“‘카지노’는 욕망 쫓는 불나방 같은 사람들 이야기”]]></title>
+        <id>https://v.daum.net/v/20230210040824736</id>
+        <link href="https://v.daum.net/v/20230210040824736"/>
+        <updated>2023-02-09T19:10:16.310Z</updated>
+        <content type="html"><![CDATA[“이건 ‘카지노’라는 랜턴에 모여드는 불나방들의 이야기다. 욕망을 쫓아 몰려든 사람들이 빛에 부딪쳐 불타죽는 모습을 그리고 싶었다. ‘그런 세상과 그런 인물들이 존재한다’는 걸 사람들에게 보여주고자 했다.” 지난달 30일 서울 종로구 한 카페에서 만난 강윤성(51) 감독이 이같이 밝혔다. ‘범죄도시’와 ‘롱 리브 더 킹: 목포 영웅’ 등을 만든 강 감독은]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['지옥법정' 다둥맘 김혜연, "아이 둘 키우면 힘든 게 반으로 줄고 행복은 무한대"]]></title>
         <id>https://v.daum.net/v/20230210025406247</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230209233909162"/>
         <updated>2023-02-09T15:13:02.571Z</updated>
         <content type="html"><![CDATA[[스포츠조선닷컴 이게은기자] 그룹 UN 출신 최정원과의 불륜 의혹이 불거졌던 30대 여성 B 씨가 카메라 앞에 섰다. 불륜 의혹을 완강히 부인하며 억울함을 드러냈다. 9일 방송된 KBS2 연예 정보 프로그램 '연중플러스'에서는 최정원의 불륜 의혹이 전파를 탔다. 앞서 지난달 불륜 피해 남성이라고 주장한 A 씨는 최정원이 아내 B 씨에게 "보고]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[제이홉 "'군 입대' 진 그리워… 로우라이즈 패션, 솔직히 당황" 고백]]></title>
-        <id>https://v.daum.net/v/20230209233903160</id>
-        <link href="https://v.daum.net/v/20230209233903160"/>
-        <updated>2023-02-09T15:13:02.572Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 이나영 인턴기자) 그룹 방탄소년단(BTS) 제이홉이 솔직한 입담을 뽐냈다.&nbsp; 9일 유튜브 채널 '문명특급'에는 'BTS는 언제 자고 언제 일어나지? 산독기 월드스타 제이홉의 24시간을 낱낱이 파헤쳐보자 따라하게^^ 정국인 근데 왜 울었대요?'라는 제목의 영상이 업로드됐다. 제이홉은 재재의 높은 텐션에 당황스러했지만, 곧 세세하게 모든 것을 알]]></content>
     </entry>
 </feed>

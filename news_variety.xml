@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/variety</id>
     <title>다음 연예 ─ 뉴스 ─ 예능</title>
-    <updated>2023-02-09T18:15:31.566Z</updated>
+    <updated>2023-02-09T19:10:22.345Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['사망설' 백종원·박근형→'재혼발표' 송중기까지..가짜뉴스 '골머리']]></title>
+        <id>https://v.daum.net/v/20230210035922640</id>
+        <link href="https://v.daum.net/v/20230210035922640"/>
+        <updated>2023-02-09T19:10:10.945Z</updated>
+        <content type="html"><![CDATA[[OSEN=김수형 기자] ‘연중 플러스’에서 스타들의 가짜뉴스에 대한 심각성을 전했다.&nbsp; 9일 &nbsp;방송된 KBS 2TV 예능 ‘연중플러스’에서&nbsp; 스타들의 가짜뉴스 문제에 대해 다뤘다. 최근 충격적인 가짜뉴스 피해자는 백종원. 때아닌 사망설이 퍼진 것.&nbsp;사건의 정황도 구체적으로 기록해 혼선을 줬던 바다.&nbsp;가짜뉴스가 퍼지던 날, 백종원은 외국 촬영 중이었다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이승기♥이다인, 4월 7일 강남 호텔서 비공개 결혼식]]></title>
         <id>https://v.daum.net/v/20230210023206200</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230210000003306"/>
         <updated>2023-02-09T15:12:57.288Z</updated>
         <content type="html"><![CDATA[(엑스포츠뉴스 황수연 기자) 무속인이 된 중견 배우 김주영이 가족들의 응원을 받았다고 털어놨다.&nbsp; 9일 방송된 MBN '특종세상'에는 사극에서 활약했던 50년 차 배우 김주영이 2년 차 무속인이 된 사연이 전파를 탔다. 이날 김주영은 "몸이 안 아픈 데가 없었다. 정신이 흔들리고 어지럽고 자꾸 다른 소리가 들렸다. 남들이 생각하지 않는 걸 생각하고 봐야 했]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김향기, 김민재에 시계 선물..."언제까지 함께하고 싶어서"]]></title>
-        <id>https://v.daum.net/v/20230209235603276</id>
-        <link href="https://v.daum.net/v/20230209235603276"/>
-        <updated>2023-02-09T15:12:57.290Z</updated>
-        <content type="html"><![CDATA[[텐아시아=신지원 기자]'유세풍2' 김민재가 김향기에게 입맞춤을 했다. 9일 방송된 tvN 수목드라마 '조선 정신과 의사 유세풍 2'에서는 유세풍이 서은우에게 시계 선물을 받는 모습이 그려졌다. 이날 서은우는 유세풍에게 시계를 선물했고 유세풍은 "이 귀한 것을 나한테 준 연유가 궁금하다"라고 말했다. 이에 서은우는 "우선 첫 녹봉을 받았다"라며 "의미]]></content>
     </entry>
 </feed>
