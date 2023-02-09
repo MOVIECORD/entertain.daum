@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-02-09T05:11:50.649Z</updated>
+    <updated>2023-02-09T06:20:56.998Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['앤트맨3' 주역들, '제설 사고' 제레미 레너 근황 공개…"믿을 수 없을 정도"]]></title>
+        <id>https://v.daum.net/v/20230209151935604</id>
+        <link href="https://v.daum.net/v/20230209151935604"/>
+        <updated>2023-02-09T06:20:56.381Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 이창규 기자) 제설 작업 중 조카를 구하려다 사고를 겪은 '호크아이' 제레미 레너의 근황이 전해졌다. 8일(현지시간) 마블 시네마틱 유니버스(MCU) 영화 '앤트맨과 와스프: 퀀텀매니아'(감독 페이튼 리드)의 개봉을 앞두고 진행된 할리우드 액세스와의 인터뷰에서 에반젤린 릴리가 제레미 레너의 근황을 전했다. 릴리는 "난 그의 집에 가서 소름이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[44세 앤디 샘버그, 71세 진 스마트와 '연인 연기']]></title>
         <id>https://v.daum.net/v/20230209133031406</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230208175002081"/>
         <updated>2023-02-08T09:13:14.721Z</updated>
         <content type="html"><![CDATA[(엑스포츠뉴스 오승현 기자) 할리우드 배우 레오나르도 디카프리오 측이 19세 모델 에덴 폴라니와의 열애설을 부인했다.&nbsp; 8일 (현지시간) 해외매체 피플은 레오나르도 디카프리오 측의 말을 빌려 "레오나르도 디카프리오가 19세 모델인 에덴 폴라니와 만남을 가진다는 설은 사실이 아니다"라고 밝혔다. 피플은 "우연히 둘이 옆자리에 앉았고 어울렸을 뿐이다"라고 덧붙]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[포스트 말론, 반쪽 된 얼굴에 '건강이상설'…관계자 "건강하다" 해명]]></title>
-        <id>https://v.daum.net/v/20230208171006855</id>
-        <link href="https://v.daum.net/v/20230208171006855"/>
-        <updated>2023-02-08T08:15:46.109Z</updated>
-        <content type="html"><![CDATA[[티브이데일리 김종은 기자] 팝 가수 포스트 말론이 급격히 살이 빠진 모습으로 건강 이상설에 휘말렸다. 미국 연예매체 TMZ는 7일(현지시간) 호주 투어 무대에 오른 포스트 말론의 모습을 공유했다. 공개된 사진 속 포스트 말론은 이전과는 전혀 다른 모습으로 팬들 앞에 서있어 시선을 사로잡았다. 살짝 통통했던 이전과 달리 홀쭉해진 모습으로 돌아왔기 때문.]]></content>
     </entry>
 </feed>
