@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-02-10T20:14:13.697Z</updated>
+    <updated>2023-02-10T21:10:44.516Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이동휘 "평범함 속 비현실적인 이야기에 끌려"]]></title>
+        <id>https://v.daum.net/v/20230211060017199</id>
+        <link href="https://v.daum.net/v/20230211060017199"/>
+        <updated>2023-02-10T21:10:22.728Z</updated>
+        <content type="html"><![CDATA[배우 이동휘(사진=안성진 작가)[이데일리 스타in 윤기백 기자] “평범한 상황 속에 비현실 한 스푼이 들어가는 이야기에 주로 끌리는 편이죠.” 지난 8일 개봉한 영화 ‘어쩌면 우린 헤어졌는지 모른다’(감독 형슬우)로 스크린에 복귀한 배우 이동휘가 작품 선택 기준을 묻는 질문에 이같이 답했다. 이동휘는 최근 서울 종로구 소격동 한 카페에서 진행한 인터뷰에서]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘살수’ 신현준 “60세 전 액션 소망, 이뤄졌다”]]></title>
         <id>https://v.daum.net/v/20230210214103747</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230210170919831"/>
         <updated>2023-02-10T08:15:09.346Z</updated>
         <content type="html"><![CDATA[(엑스포츠뉴스 김유진 기자) 신현준이 '살수'를 통해 액션을 비롯해 연기를 향한 여전한 열정을 녹여냈다. 10일 서울 광진구 롯데시네마 건대입구에서 영화 '살수'(감독 곽정덕) 언론시사회가 열렸다. 이 자리에는 곽정덕 감독과 배우 신현준, 이문식, 김민경, 홍은기가 참석했다. '살수'는 혼돈의 세상, 거스를 수 없는 운명의 앞에 놓인 조선 최고의 살수 이난]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김옥빈X유태오 극과 극 로맨스..'연애대전', 오늘 공개]]></title>
-        <id>https://v.daum.net/v/20230210170759780</id>
-        <link href="https://v.daum.net/v/20230210170759780"/>
-        <updated>2023-02-10T08:15:09.346Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 김나연 기자] 연애대전 / 사진=넷플릭스'연애대전'이 공개를 앞두고 이야기를 더욱 찰지게 즐길 수 있는 관전포인트 TOP3를 공개했다. 10일 베일을 벗는 '연애대전'은 남자에게 병적으로 지기 싫어하는 여자와 여자를 병적으로 의심하는 남자가 전쟁 같은 사랑을 겪으며 치유받는 로맨틱 코미디로 달콤한 밸렌타인데이 시즌에 걸맞는 이야기와 분위기로 주]]></content>
     </entry>
 </feed>
