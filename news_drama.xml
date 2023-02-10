@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-02-10T21:10:44.515Z</updated>
+    <updated>2023-02-10T22:12:26.466Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[차태현♥곽선영, 작정하고 연애 시작…뽀뽀 포착]]></title>
+        <id>https://v.daum.net/v/20230211070007742</id>
+        <link href="https://v.daum.net/v/20230211070007742"/>
+        <updated>2023-02-10T22:12:08.258Z</updated>
+        <content type="html"><![CDATA[[동아닷컴] [사진 제공= 삼화네트웍스]KBS2 월화드라마 ‘두뇌공조’ 차태현과 곽선영이 첫 입맞춤을 한다. ‘두뇌공조’(극본 박경선, 연출 이진서 구성준) 지난 10회에서는 금명세(차태현 분)가 설소정(곽선영 분)의 고백에 화답하면서 두 사람의 연애가 본격적으로 시작되는 장면이 담겼다. 하지만 설소정이 “짜릿한 기억 한 번 만들어 볼까요?”라며 금명세]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[시사교양 PD가 만든 화제작 '피지컬:100'… 흥행 비결 '셋']]></title>
         <id>https://v.daum.net/v/20230211060011188</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230210223405320"/>
         <updated>2023-02-10T14:11:59.483Z</updated>
         <content type="html"><![CDATA[[스타뉴스 이상은 기자] /사진=SBS 금토드라마 '법쩐' 방송 화면 캡쳐 '법쩐' 이선균이 박훈과 독대에서 경고했다. 10일 방송된 SBS 금토드라마 '법쩐'에서는 은용(이선균 분)이 손승진(조영진 분) 후보 특별 기자회견을 마친 황기석(박훈 분)을 만난 모습이 그려졌다. 이날 은용은 "표정 죽이던데, 나도 깜빡 속을 뻔했어. 수고 많았어"라며 맥주를]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이선균, 박훈에 "몸 조심해. 넌 이제 내 거잖아"]]></title>
-        <id>https://v.daum.net/v/20230210223346317</id>
-        <link href="https://v.daum.net/v/20230210223346317"/>
-        <updated>2023-02-10T14:11:59.483Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 오수정 기자) '법쩐'에서 이선균이 박훈과 마주했다.&nbsp; 10일 방송된 SBS 금토드라마 '법쩐' 11회에서는 은용(이선균 분)과 마주한 황기석(박훈)의 모습이 그려졌다.&nbsp; 은용은 황기석이 바우펀드와 관련된 내용을 기자회견장에서 말하던 모습을 떠올리면서 "표정 죽이던데? 나도 속을 뻔했어"라고 말했다.&nbsp; 황기석은 "복잡한 얘기 해봐야 먹고 살기]]></content>
     </entry>
 </feed>
