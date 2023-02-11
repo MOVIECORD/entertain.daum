@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-02-10T23:12:34.577Z</updated>
+    <updated>2023-02-11T00:53:30.856Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘애프터썬’. 그해 여름 아빠의 촉감]]></title>
+        <id>https://v.daum.net/v/20230211095154353</id>
+        <link href="https://v.daum.net/v/20230211095154353"/>
+        <updated>2023-02-11T00:53:09.078Z</updated>
+        <content type="html"><![CDATA[[곽명동의 씨네톡] 영화가 시작되면, 캠코더를 작동시키는 소리와 함께 빛바랜 영상들이 스크린을 채운다. 20여 년 전 튀르키예에서 아빠 캘럼(폴 메스칼)와 보낸 소피(프랭키 코리오)의 여름이 재생될 참이다. 남매 사이로 오해받을 만큼 나이 차가 크지 않은 부녀, 어떤 이유인지 모르지만, 아빠 캘럼은 고향인 스코틀랜드를 떠나 런던에 자리를 잡으려 애쓰는 중]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['더 퍼스트 슬램덩크', 15일 연속 1위…260만 돌파 눈앞]]></title>
+        <id>https://v.daum.net/v/20230211081833409</id>
+        <link href="https://v.daum.net/v/20230211081833409"/>
+        <updated>2023-02-11T00:53:09.079Z</updated>
+        <content type="html"><![CDATA[(서울=뉴스1) 김민지 기자 = 일본 애니메이션 '더 퍼스트 슬램덩크'(감독 이노우에 다케히코)가 15일 연속 박스오피스 1위에 올랐다. 11일 영화진흥위원회 영화관입장권 통합전산망 집계에 따르면 '더 퍼스트 슬램덩크'는 전날 6만4905명의 관객을 동원하며 박스오피스 1위에 올랐다. 누적관객수는 259만6746명이다. 지난달 4일 개봉한 '더 퍼스트]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['슬램덩크', 오늘 7년만에 '하울의 움직이는 성' 기록 깬다]]></title>
         <id>https://v.daum.net/v/20230211081116376</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230210183901152"/>
         <updated>2023-02-10T10:13:38.360Z</updated>
         <content type="html"><![CDATA[[스타뉴스 김나연 기자] 배우 유아인이 2일 오후 서울 강서구 등촌동 KBS 아레나에서 열린 2021 Asia Artist Awards (2021 아시아 아티스트 어워즈, 2021 AAA) 시상식에서 AAA 올해의 배우 영화 부문을 수상하고 소감을 전하고 있다.  스타뉴스가 주최하고 AAA 조직위원회가 주관하는 AAA는 어디에서도 보지 못했던 새로운 무대를]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[신현준 "황장군, 슬픈 캐릭터인데…웃긴 짤로 돌아다녀"]]></title>
-        <id>https://v.daum.net/v/20230210183011035</id>
-        <link href="https://v.daum.net/v/20230210183011035"/>
-        <updated>2023-02-10T10:13:38.362Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 김유진 기자) 신현준이 '살수'를 통해 56세의 나이에도 날렵한 액션을 보여주며 연기 열정을 내비쳤다. 10일 서울 광진구 롯데시네마 건대입구에서 영화 '살수'(감독 곽정덕) 언론시사회가 열렸다. 이 자리에는 곽정덕 감독과 배우 신현준, 이문식, 김민경, 홍은기가 참석했다. '살수'는 혼돈의 세상, 거스를 수 없는 운명의 앞에 놓인 조선 최고]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[유아인, 프로포폴→대마 수사로 확대?…차기작 관계자들 "예의주시"]]></title>
-        <id>https://v.daum.net/v/20230210180705585</id>
-        <link href="https://v.daum.net/v/20230210180705585"/>
-        <updated>2023-02-10T09:12:22.960Z</updated>
-        <content type="html"><![CDATA[[이데일리 스타in 김보영 기자] 프로포폴 불법 투약 의혹을 받는 유아인의 경찰 조사가 대마 흡연 혐의 조사로 확대될지 주목된다. 넷플릭스 등 공개를 앞두고 있던 유아인의 차기작 관계자들은 입장 표명을 아낀 채 상황을 주시 중이다. 유아인의 차기작인 영화 ‘승부’, 오리지널 시리즈 ‘종말의 바보’를 맡은 넷플릭스 측은 10일 오후 이데일리에 “관련 기사]]></content>
     </entry>
 </feed>
