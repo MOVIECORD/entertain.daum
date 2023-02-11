@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-02-11T06:14:20.672Z</updated>
+    <updated>2023-02-11T07:10:30.398Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘빨간풍선’ 서지혜 이상우, 불륜 발각 후 무슨 일이]]></title>
+        <id>https://v.daum.net/v/20230211155850330</id>
+        <link href="https://v.daum.net/v/20230211155850330"/>
+        <updated>2023-02-11T07:10:14.005Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 박수인 기자] '빨간 풍선' 서지혜, 이상우가 예사롭지 않은 기류에 휩싸인다. 2월 11일 방송되는 TV CHOSUN 주말미니시리즈 ‘빨간 풍선’(극본 문영남/연출 진형욱/제작 초록뱀 미디어, 하이그라운드)에서는 조은강(서지혜)와 고차원(이상우)가 냉랭한 분위기 속에서 스쳐 지나가는 ‘반전 마주침’ 장면이 담긴다. 극 중 고차원의 아파트 마당에]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['저승신' 김정현, 눈앞 응급환자에 '의사 가면' 벗을까]]></title>
+        <id>https://v.daum.net/v/20230211153400109</id>
+        <link href="https://v.daum.net/v/20230211153400109"/>
+        <updated>2023-02-11T07:10:14.005Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 한해선 기자] /사진=MBC 김정현이 기억이 돌아왔다는 거짓말을 들킬 위기에 처한다. 11일 방송될 MBC 금토드라마 '꼭두의 계절(극본 강이헌, 허준우/ 연출 백수찬, 김지훈/ 제작 피플스토리컴퍼니, 스토리티비)' 6회에서는 인간 도진우(김정현 분)의 몸에 빙의하고 있는 꼭두(김정현 분)가 몸의 주인 도진우의 정신까지 빌리며 뜻밖의 수난을 맞]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[의사 탈 쓴 저승신 김정현, 기억 돌아왔다는 거짓말 들킬 위기]]></title>
         <id>https://v.daum.net/v/20230211150312851</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230211105008991"/>
         <updated>2023-02-11T02:14:18.812Z</updated>
         <content type="html"><![CDATA[(엑스포츠뉴스 윤현지 기자) 배우 정가람이 군 생활 후 바뀐 모습을 설명했다. 정가람은 지난해 4월 제대 이후 첫 작품으로 '사랑의 이해'를 만났다. 정가람은 "군대 후 첫 작품이다 보니 욕심도 났고 새로 시작하는 마음이 들었다. 군대에서 에너지도 채워왔고 돌아왔다는 것을 보여주고 싶었다"고 설명했다. "2년 만에 카메라를 서니까 '내가 지금 하는 게 맞나]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['사랑의 이해' 정가람 "문가영의 미소, 어미새가 아기새 보듯…"]]></title>
-        <id>https://v.daum.net/v/20230211105003987</id>
-        <link href="https://v.daum.net/v/20230211105003987"/>
-        <updated>2023-02-11T02:14:18.813Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 윤현지 기자) 배우 정가람이 '사랑의 이해' 종영 소감을 전했다. '사랑의 이해'는 각기 다른 이해(利害)를 가진 이들이 만나 진정한 사랑의 의미를 이해(理解)하게 되는 이야기를 담은 멜로 드라마다. 정가람은 극 중 KCU 은행 영포점의 은행 경비원이자 경찰 공무원 고시생 정종현 역을 맡아 활약하고 있다. 정가람은 "맡은 역할에 욕도 많이 먹]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘대행사’ 손나은 vs 조복래 VC그룹 승계 다툼, 이보영 선택은]]></title>
-        <id>https://v.daum.net/v/20230211104813963</id>
-        <link href="https://v.daum.net/v/20230211104813963"/>
-        <updated>2023-02-11T02:14:18.814Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 박수인 기자] '대행사' 이보영이 선택의 기로에 놓였다. JTBC 토일드라마 ‘대행사’(연출 이창민/극본 송수한/제공 SLL/제작 하우픽쳐스, 드라마하우스 스튜디오) 11회 예고 영상을 보면 이 선택에 대한 궁금증이 더욱 증폭된다. “한나랑 박차장(한준우) 사이가 100%가 돼야 한나가 차기 부회장이 될 확률이 0%가 된다”며 두 사람의 관계를]]></content>
     </entry>
 </feed>
