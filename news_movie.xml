@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-02-11T22:11:07.037Z</updated>
+    <updated>2023-02-11T23:11:52.136Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['궁지에 몰린 쥐' 유키사다 감독 "잃어버린 순수 되찾아준 작품"]]></title>
+        <id>https://v.daum.net/v/20230212080008924</id>
+        <link href="https://v.daum.net/v/20230212080008924"/>
+        <updated>2023-02-11T23:11:28.548Z</updated>
+        <content type="html"><![CDATA[(서울=연합뉴스) 김정진 기자 = 영화 '세상의 중심에서 사랑을 외치다'(2004)의 유키사다 이사오 감독이 퀴어 영화로 돌아왔다. 지난 8일 개봉한 영화 '궁지에 몰린 쥐는 치즈 꿈을 꾼다'는 두 남자의 아슬아슬하면서도 농도 짙은 사랑을 그린다. 미즈시로 세토나의 만화 '쥐는 치즈의 꿈을 꾼다'를 각색한 작품이다. 교이치(오쿠라 다다요시 분)는 7년 만에]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['더 퍼스트 슬램덩크' 누적 273만↑…'하울' 꺾고 역대 日 애니 흥행 2위]]></title>
+        <id>https://v.daum.net/v/20230212074226834</id>
+        <link href="https://v.daum.net/v/20230212074226834"/>
+        <updated>2023-02-11T23:11:28.548Z</updated>
+        <content type="html"><![CDATA[[스포츠한국 조은애 기자] '더 퍼스트 슬램덩크'가 300만 돌파를 향해 속도를 내고 있다. 12일 영진위 통합전산망 집계에 따르면 '더 퍼스트 슬램덩크'는 전날&nbsp;13만4990명의 관객을 동원, 압도적 박스오피스 1위를 차지했다. 누적 관객 수는&nbsp;273만1731명이다. 이로써 '더 퍼스트 슬램덩크'는 '하울의 움직이는 성'(누적 261만 명)을]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[진선규, 캐릭터 장인의 귀환…'카운트' 더 기대되는 이유]]></title>
         <id>https://v.daum.net/v/20230212070042505</id>
@@ -81,12 +95,5 @@
         <link href="https://v.daum.net/v/20230211081833409"/>
         <updated>2023-02-11T00:53:09.079Z</updated>
         <content type="html"><![CDATA[(서울=뉴스1) 김민지 기자 = 일본 애니메이션 '더 퍼스트 슬램덩크'(감독 이노우에 다케히코)가 15일 연속 박스오피스 1위에 올랐다. 11일 영화진흥위원회 영화관입장권 통합전산망 집계에 따르면 '더 퍼스트 슬램덩크'는 전날 6만4905명의 관객을 동원하며 박스오피스 1위에 올랐다. 누적관객수는 259만6746명이다. 지난달 4일 개봉한 '더 퍼스트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['슬램덩크', 오늘 7년만에 '하울의 움직이는 성' 기록 깬다]]></title>
-        <id>https://v.daum.net/v/20230211081116376</id>
-        <link href="https://v.daum.net/v/20230211081116376"/>
-        <updated>2023-02-10T23:12:11.629Z</updated>
-        <content type="html"><![CDATA[[OSEN=하수정 기자] '더 퍼스트 슬램덩크'가 '하울의 움직이는 성'의 흥행을 오늘(11일) 뛰어 넘을 것으로 보인다. 11일 영화진흥위원회 영화관입장권통합전산망 집계에 따르면, '더 퍼스트 슬램덩크'는 지난 10일 하루 956개 스크린에서 6만 4,905명을 동원해 누적관객수 259만 6,746명을 기록, 박스오피스 1위를 했다. 이날 '타이타닉']]></content>
     </entry>
 </feed>
