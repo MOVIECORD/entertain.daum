@@ -2,11 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-02-11T03:12:52.097Z</updated>
+    <updated>2023-02-11T04:14:20.781Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[‘19살 모델 열애설’ 디카프리오, 뉴욕서 모델들과 파티 “새벽 3시까지”]]></title>
+        <title type="html"><![CDATA[“키아누 리브스 ‘콘스탄틴2’ 각본 작업중”, 취소 안됐다]]></title>
+        <id>https://v.daum.net/v/20230211121539747</id>
+        <link href="https://v.daum.net/v/20230211121539747"/>
+        <updated>2023-02-11T04:14:20.194Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]DC 스튜디오의 공동 CEO 제임스 건과 피터 샤프란이 DC 라인업을 리셋하고 있는 가운데 키아누 리브스가 이끄는 ‘콘스탄틴2’는 계속 작업중인 것으로 알려졌다. IGN은 10일(현지시간) “‘콘스탄틴’의 후속작은 2022년 9월 리브스, 프랜시스 로렌스 감독, 제작자 아키바 골드스먼과 함께 진행 중인 것으로 확인됐다. 골드]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘19살 모델 열애설’ 디카프리오, 뉴욕서 패션모델들과 파티 “새벽 3시까지”]]></title>
         <id>https://v.daum.net/v/20230211094515270</id>
         <link href="https://v.daum.net/v/20230211094515270"/>
         <updated>2023-02-11T00:53:30.230Z</updated>
