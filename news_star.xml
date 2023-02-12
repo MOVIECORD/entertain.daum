@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2023-02-12T03:15:52.746Z</updated>
+    <updated>2023-02-12T04:14:26.986Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[유재석 “내가 마음 가면 걔들은 돌아이”… 최고 7.2%]]></title>
+        <id>https://v.daum.net/v/20230212130102869</id>
+        <link href="https://v.daum.net/v/20230212130102869"/>
+        <updated>2023-02-12T04:14:22.086Z</updated>
+        <content type="html"><![CDATA[‘놀면 뭐하니?’ 단체 줄넘기를 하며 전우애를 쌓는 모습으로 케미를 발산했다. 지난 11일 방송된 MBC 예능 ‘놀면 뭐하니?’은 ‘놀뭐 체육대학교’ 동기들 유재석, 정준하, 하하, 신봉선, 박진주, 이이경, 이미주의 ‘2023 동계훈련’ 두 번째 이야기와, 단체 줄넘기 이벤트에 당첨된 멤버들의 모습이 그려졌다.&nbsp; 도전에 도전을 거듭하며 쌓여가는 전우애]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["타인 생각하고 베푸는 사람"..진선욱, ♥야옹이 탈세 의혹 두둔→댓글 삭제]]></title>
+        <id>https://v.daum.net/v/20230212121717471</id>
+        <link href="https://v.daum.net/v/20230212121717471"/>
+        <updated>2023-02-12T04:14:22.089Z</updated>
+        <content type="html"><![CDATA[[스포츠조선 문지연 기자] 웹툰작가 야옹이(본명 김나영)의 남편인 웹툰작가 전선욱이 아내의 탈세 의혹에 대해 두둔하는 글을 올랐다가 삭제했다. 전선욱은 11일 자신의 유튜브 채널 댓글을 통해 야옹이 작가가 입장문을 올렸음을 언급하며 탈세 의혹과 관련해서도 두둔했다. 전선욱은 "제 입장에서 말씀드리면 현재 과장되거나 오해가 될만한 기사까지 퍼지]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[나나 "가식적으론 못해"…연기에 타투로 더한 개성]]></title>
         <id>https://v.daum.net/v/20230212121003384</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230212103744892"/>
         <updated>2023-02-12T02:45:05.536Z</updated>
         <content type="html"><![CDATA[[서울=뉴시스]이윤진 기자 = 홍수현이 서지혜와 이상우를 향해 분노의 따귀 세례와 사이다 일갈을 날린다. 12일 오후 9시10분 방송되는 TV CHOSUN 주말미니시리즈 '빨간 풍선' 15회에서 한바다(홍수현)는 여자 손님들이 꽉 들어찬 카페로 조은강(서지혜)을 불러냈고 반갑게 인사하며 오는 조은강을 향해 따귀를 갈겨버렸다. 바닥에 쓰러진 조은강은]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['일타 스캔들' 정경호, 전도연 향한 고백 "혼자 좋아했다"…10.4%]]></title>
-        <id>https://v.daum.net/v/20230212102850766</id>
-        <link href="https://v.daum.net/v/20230212102850766"/>
-        <updated>2023-02-12T02:45:05.538Z</updated>
-        <content type="html"><![CDATA[(서울=뉴스1) 고승아 기자 = '일타 스캔들'에서 정경호가 전도연을 향해 간접적으로 공개 고백했다. tvN 주말드라마 '일타 스캔들'(극본 양희승/연출 유제원)에서 마침내 치열(정경호 분)이 행선(전도연 분)을 향한 사랑을 각성하며 진한 설렘을 전달했다. 지난 9회 시청률은 전국 기준 평균 10.4%, 최고 11.7%를 기록하며 지상파를 포함한 전채널]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['환갑' 배종옥, 20대 때 미모 소름...아이유 뺨치는 리즈 시절 화제]]></title>
-        <id>https://v.daum.net/v/20230212102059654</id>
-        <link href="https://v.daum.net/v/20230212102059654"/>
-        <updated>2023-02-12T02:45:05.540Z</updated>
-        <content type="html"><![CDATA[중견 배우 배종옥의 과거 사진이 온라인상에서 화제다. 최근 SNS에는 "배종옥 20대 때 미모 봐..ㄷㄷ"이라는 게시글이 올라와 네티즌들의 뜨거운 반응을 모으고 있다. &nbsp; 해당 사진에서 배종옥은 상큼한 단발 헤어스타일에 동그란 눈과 오똑한 코로 깜찍한 매력을 발산하고 있었다. 영화 '칠수와 만수' 때 모습인데, 지금 봐도 시크하고 세련된 분위기가 감탄]]></content>
     </entry>
 </feed>
