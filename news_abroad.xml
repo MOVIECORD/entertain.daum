@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-02-12T10:12:25.209Z</updated>
+    <updated>2023-02-12T11:10:28.107Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[스필버그 감독 “‘해리포터’ 연출 거절 후회하지 않아, 가족이 중요”]]></title>
+        <id>https://v.daum.net/v/20230212192758404</id>
+        <link href="https://v.daum.net/v/20230212192758404"/>
+        <updated>2023-02-12T11:10:27.544Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]세계적 거장 스티븐 스필버그(76) 감독이 ‘해리포터’ 연출 제안을 거절했다고 밝혔다. 그는 11일(현지시간) 인도영화 ‘RRR’을 만든 SS 라자몰리 감독과 인터뷰에서 “내가 만들지 않기로 선택한 영화들이 몇 편 있다”고 운을 뗐다. 이어 “나는 첫 번째 ‘해리포터’를 거절하기로 결정했다. 어린 아이들이 자라고 있었다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[디카프리오, '19세 모델'과 열애설에 동료들도…"소름 끼치는 패턴"]]></title>
         <id>https://v.daum.net/v/20230212190002173</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230211213859296"/>
         <updated>2023-02-11T13:16:28.409Z</updated>
         <content type="html"><![CDATA[[OSEN=연휘선&nbsp;기자] 할리우드 배우 코디 롱고가 갑작스럽게 세상을 떠났다.&nbsp; 10일(현지시각) 미국 연예 매체들에 따르면 코디 롱고가&nbsp;사망했다. 향년 34세. 외신들은 코디 롱고가 이날&nbsp;텍사스주 오스틴의 한 주택에서 숨진 채 발견했다고 보도했다. 구체적인 사인은 알려지지 않았다.&nbsp; 다만 코디 롱고는 앞서 가족들과 연락이 닿지 않았다. 이에 불안감을]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[크리스틴 스튜어트, 양성애자 소설가 전기영화 출연]]></title>
-        <id>https://v.daum.net/v/20230211191530339</id>
-        <link href="https://v.daum.net/v/20230211191530339"/>
-        <updated>2023-02-11T11:09:46.510Z</updated>
-        <content type="html"><![CDATA[[TV리포트=이혜미 기자] 미국 소설가 수전 손택의 일생을 그린 전기 영화가 제작을 확정한 가운데 배우 크리스틴 스튜어트가 주연으로 발탁됐다. 11일(현지시간) LA타임즈 보도에 따르면 스튜어트는 영화 ‘손택’에 주인공으로 캐스팅 됐다. ‘손택’은 제목 그대로 수전 손택의 일대기를 그린 작품으로 생전 수전 손택은 20세기 후반 미국을 대표하는 작가이자 평론]]></content>
     </entry>
 </feed>
