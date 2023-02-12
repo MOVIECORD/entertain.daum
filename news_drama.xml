@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-02-12T02:45:11.940Z</updated>
+    <updated>2023-02-12T03:15:52.748Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘사랑의 이해’ 정가람 “사랑? 제 밥그룻부터 챙길 줄 알아야”]]></title>
+        <id>https://v.daum.net/v/20230212120003148</id>
+        <link href="https://v.daum.net/v/20230212120003148"/>
+        <updated>2023-02-12T03:15:35.887Z</updated>
+        <content type="html"><![CDATA[[동아닷컴]  어딘가 있을 법한 가장 현실에 부합하는 인물이다. 그래서 더 많은 욕을 먹는다. 관점에 따라 애틋하기도 애잔하기도 안타깝기도 하다. JTBC 수목드라마 ‘사랑의 이해’(극본 이서현 이현정, 연출 조영민) 속 정종현 캐릭터가 그렇다. 정종현은 KCU 은행 영포점 청경(청원 경찰)이자 경찰공무원 수험생이다. 극 초반 안수영(문가영 분)과 풋풋한]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[서지혜, 이상우와의 관계 탄로 났다 "압도적 열연"]]></title>
+        <id>https://v.daum.net/v/20230212115845132</id>
+        <link href="https://v.daum.net/v/20230212115845132"/>
+        <updated>2023-02-12T03:15:35.888Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]‘빨간 풍선’의 배우 서지혜가 압도적인 연기로 몰입도를 높였다. 서지혜(조은강 역)는 11일(어제) 방송된 TV조선 주말드라마 ‘빨간 풍선’ 15회에서 고차원(이상우 분)과의 관계가 탄로 나 위기를 맞은 조은강 역으로 열연을 펼쳤다. 이날 서지혜는 방송 시작부터 부끄러움과 죄책감 등 다채로운 감정을 드러내며 극적 긴장감을 끌]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이보영, “조복래-손나은 공공의 적이 되라” 지령 받아]]></title>
         <id>https://v.daum.net/v/20230212111152484</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230212092450765"/>
         <updated>2023-02-12T01:01:27.031Z</updated>
         <content type="html"><![CDATA[[뉴스엔 박아름 기자] '꼭두의 계절' 김정현이 티격태격 로맨스에 불을 지피며 로코 장인의 면모를 과시했다. 지난 2월 10, 11일 방송된 MBC 금토드라마 '꼭두의 계절'(극본 강이헌, 허준우/연출 백수찬, 김지훈) 5, 6회에서는 꼭두(김정현 분)가 계절(임수향 분)에게 점점 스며드는 모습이 그려졌다. 꼭두는 계절이 자신의 저주를 풀어줄 설희(임수향]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘역시’ 김호중 , ‘불후’ 첫 출연한 에스페로에 ‘우승 트로피’ 선사]]></title>
-        <id>https://v.daum.net/v/20230212092326759</id>
-        <link href="https://v.daum.net/v/20230212092326759"/>
-        <updated>2023-02-12T01:01:27.038Z</updated>
-        <content type="html"><![CDATA[11일 방송된 KBS2TV 불후의 명곡[이데일리 강경록 기자] KBS ‘불후의 명곡’ 김호중이 후배 에스페로에게 ‘불후의 명곡 첫 출연 우승’이라는 영광의 타이틀을 물려줬다. 시청률 조사기관 닐슨코리아에 따르면 ‘불후의 명곡’ 593회는 전국 8.2%, 수도권 7.4% 시청률을 기록했다. 이는 동 시간대 시청률 8주 연속 1위로 토요 최고 예능의 변함없는]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘청춘월담’ 박형식X전소니, 살인사건서 새로운 정황 발견…궁금증 고조]]></title>
-        <id>https://v.daum.net/v/20230212091659679</id>
-        <link href="https://v.daum.net/v/20230212091659679"/>
-        <updated>2023-02-12T01:01:27.042Z</updated>
-        <content type="html"><![CDATA[[OSEN=유수연 기자]&nbsp;왕세자 박형식과 살인사건 용의자 전소니의 인연을 잇는 연결고리에 새로운 의문점이 발견됐다. 본격적인 미스터리의 서막을 올린&nbsp;tvN&nbsp;‘청춘월담’(극본 정현정/&nbsp;연출 이종재/&nbsp;기획 스튜디오드래곤/&nbsp;제작 글앤그림미디어)에서 운명의 소용돌이에 휘말린 이환(박형식 분)과 민재이(전소니 분)가 마침내 서로를 마주했다.&nbsp;지난밤 민재이로부터]]></content>
     </entry>
 </feed>

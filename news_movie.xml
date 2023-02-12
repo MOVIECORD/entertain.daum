@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-02-12T02:45:11.938Z</updated>
+    <updated>2023-02-12T03:15:52.740Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[시리아, 튀르키예의 비극... 재난영화는 경고했다]]></title>
+        <id>https://v.daum.net/v/20230212120902370</id>
+        <link href="https://v.daum.net/v/20230212120902370"/>
+        <updated>2023-02-12T03:15:30.765Z</updated>
+        <content type="html"><![CDATA[[김성호 기자] 시리아와 튀르키예를 뒤흔든 대지진 가운데서 무력한 정부의 책임론이 떠오른다. 사망자만 수만에 이른다는 지진 뒤 생존자 구호를 위한 골든타임이 흘러가는 가운데 정부의 조치가 적절치 못하다는 비난이 국제사회는 물론 자국 내에서도 들끓고 있는 것이다. 지난 6일 새벽 4시께(현지시각) 진도 7.8 규모 강진이 튀르키예와 시리아 국경지대에서 발생했]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['성추행⋅절도' 에즈라 밀러 감싼 '더 플래시', 첫 포스터 공개.."최고의 슈퍼히어로"]]></title>
         <id>https://v.daum.net/v/20230212114020911</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230212080008924"/>
         <updated>2023-02-11T23:11:28.548Z</updated>
         <content type="html"><![CDATA[(서울=연합뉴스) 김정진 기자 = 영화 '세상의 중심에서 사랑을 외치다'(2004)의 유키사다 이사오 감독이 퀴어 영화로 돌아왔다. 지난 8일 개봉한 영화 '궁지에 몰린 쥐는 치즈 꿈을 꾼다'는 두 남자의 아슬아슬하면서도 농도 짙은 사랑을 그린다. 미즈시로 세토나의 만화 '쥐는 치즈의 꿈을 꾼다'를 각색한 작품이다. 교이치(오쿠라 다다요시 분)는 7년 만에]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['더 퍼스트 슬램덩크' 누적 273만↑…'하울' 꺾고 역대 日 애니 흥행 2위]]></title>
-        <id>https://v.daum.net/v/20230212074226834</id>
-        <link href="https://v.daum.net/v/20230212074226834"/>
-        <updated>2023-02-11T23:11:28.548Z</updated>
-        <content type="html"><![CDATA[[스포츠한국 조은애 기자] '더 퍼스트 슬램덩크'가 300만 돌파를 향해 속도를 내고 있다. 12일 영진위 통합전산망 집계에 따르면 '더 퍼스트 슬램덩크'는 전날&nbsp;13만4990명의 관객을 동원, 압도적 박스오피스 1위를 차지했다. 누적 관객 수는&nbsp;273만1731명이다. 이로써 '더 퍼스트 슬램덩크'는 '하울의 움직이는 성'(누적 261만 명)을]]></content>
     </entry>
 </feed>

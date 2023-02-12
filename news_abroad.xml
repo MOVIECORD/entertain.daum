@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-02-12T02:45:11.944Z</updated>
+    <updated>2023-02-12T03:15:52.743Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘커밍아웃’ 샘 스미스, 브릿어워드 과도한 의상 논란 “관종이야?”]]></title>
+        <id>https://v.daum.net/v/20230212115355076</id>
+        <link href="https://v.daum.net/v/20230212115355076"/>
+        <updated>2023-02-12T03:15:51.925Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]세계적 싱어송라이터 샘 스미스(30)가 과도한 의상으로 논란의 중심에 섰다. 그는 11일(현지시간) 영국 런던의 O2 아레나에서 열린 2023 브릿 어워드 레드카펫에서 부풀어 오른 검은색 라텍스 의상을 입었다. 스미스는 헐렁한 바지와 어깨 패드를 특징으로 하는 디자이너 해리의 쿠튀르 앙상블로 시선을 끌었다. 뉴욕포스트는]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['우리생애나날들' 코디 롱고, 34세 나이로 사망]]></title>
         <id>https://v.daum.net/v/20230212093711940</id>
@@ -95,12 +102,5 @@
         <link href="https://v.daum.net/v/20230211133825226"/>
         <updated>2023-02-11T05:11:09.303Z</updated>
         <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]마블 히어로 무비 ‘앤트맨과 와스프:퀀텀매니아’의 폴 러드(53)가 과거 아들이 아빠가 무슨 일을 하는지 잘 몰랐다고 말했다. 그는 시나리오 작가 겸 프로듀서인 줄리 야거와의 사이에서 아들 잭(17)과 딸 다비(13)를 키우고 있다. 러드는 10일(현지시간)  NBC ‘투데이’와 인터뷰에서 “아들이 4~5살 즈음에 같이 극장]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“키아누 리브스 ‘콘스탄틴2’ 각본 작업중”, 취소 안됐다]]></title>
-        <id>https://v.daum.net/v/20230211121539747</id>
-        <link href="https://v.daum.net/v/20230211121539747"/>
-        <updated>2023-02-11T04:14:20.194Z</updated>
-        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]DC 스튜디오의 공동 CEO 제임스 건과 피터 샤프란이 DC 라인업을 리셋하고 있는 가운데 키아누 리브스가 이끄는 ‘콘스탄틴2’는 계속 작업중인 것으로 알려졌다. IGN은 10일(현지시간) “‘콘스탄틴’의 후속작은 2022년 9월 리브스, 프랜시스 로렌스 감독, 제작자 아키바 골드스먼과 함께 진행 중인 것으로 확인됐다. 골드]]></content>
     </entry>
 </feed>
