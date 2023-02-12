@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2023-02-12T15:11:43.671Z</updated>
+    <updated>2023-02-12T16:14:48.040Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘무대 위 악동’ 뮤직 토크쇼 틀을 깨다]]></title>
+        <id>https://v.daum.net/v/20230213010345485</id>
+        <link href="https://v.daum.net/v/20230213010345485"/>
+        <updated>2023-02-12T16:14:42.185Z</updated>
+        <content type="html"><![CDATA[“호스트 박재범입니다. 반갑습니다. 오늘도 재미난 추억을 만들어드리겠습니다.” 지난달 17일 오후 7시 서울 여의도 KBS 신관 공개홀. 객석은 울산, 대전을 비롯해 제주도, 중국 웨이하이와 상하이에서 왔다는 사람들로 가득했다. 심지어 일부는 계단까지 차지하고 앉아 정면 무대만 바라보고 있었다. 오후 7시3분. 래퍼 겸 방송인 박재범이 등장하자 사람들은 환]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['놀뭐'·'미트2' 특명, 고정층 이탈을 막아라]]></title>
+        <id>https://v.daum.net/v/20230213004100390</id>
+        <link href="https://v.daum.net/v/20230213004100390"/>
+        <updated>2023-02-12T16:14:42.187Z</updated>
+        <content type="html"><![CDATA[[TV리포트=이혜미 기자] 2월 셋째 주 안방에선 MBC '놀면 뭐하니?'와 TV조선 '미스터트롯2'가 곡절의 항해를 이어갈 전망이다. 이들의 공통점은 고정 시청층을 갖춘 각 방송사의 대표 예능이라는 것. 그러나 '놀면 뭐하니?'는 장기 프로젝트 종료 후 이렇다 할 화제성을 끌어내지 못하고 있는 상황으로 '미스터트롯2' 역시 견고한 콘크리트 마니아를 갖추고]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[임영웅만 한 스타가 다시 나올 수 없는 이유]]></title>
         <id>https://v.daum.net/v/20230213000027190</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230212224202876"/>
         <updated>2023-02-12T14:10:16.901Z</updated>
         <content type="html"><![CDATA[(서울=뉴스1) 고승아 기자 = 정경호가 전도연을 향한 마음을 정리하려고 한 가운데, 노윤서가 직접 '스캔들'에 대한 해명에 나섰다. 12일 오후 방송된 tvN 주말드라마 '일타 스캔들'(극본 양희승/연출 유제원)에서는 최치열(정경호 분)이 남행선(전도연 분)을 향한 마음을 고백한 뒤 정리하려고 하는 모습이 그려졌다. 이날 최치열은 토크쇼에서 "일방적으]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['일타 스캔들' 노윤서, 정경호에 진실 고백 "전도연, 내 친모 아냐"]]></title>
-        <id>https://v.daum.net/v/20230212224006873</id>
-        <link href="https://v.daum.net/v/20230212224006873"/>
-        <updated>2023-02-12T14:10:16.902Z</updated>
-        <content type="html"><![CDATA[[티브이데일리 김종은 기자] '일타 스캔들' 노윤서가 정경호에게 진실을 털어놨다. 12일 밤 방송된 tvN 토일드라마 '일타 스캔들'(극본 양희승·연출 유제원) 10회에서는 최치열(정경호)이 마침내 남행선(전도연)의 진실을 알게 됐다. 앞서 지난 방송에서 최치열은 남행선이 홀로 스캔들 피해를 고스란히 받자, 좋아한 건 본인 혼자라고 고백하며 의혹을 해명]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘일타 스캔들’ 노윤서, 전도연 미혼 고백 “스캔들 아닌 로맨스”]]></title>
-        <id>https://v.daum.net/v/20230212223706867</id>
-        <link href="https://v.daum.net/v/20230212223706867"/>
-        <updated>2023-02-12T14:10:16.904Z</updated>
-        <content type="html"><![CDATA[‘일타 스캔들’ 노윤서가 출생 비밀을 밝혔다. 12일 오후 방송된 tvN 주말드라마 ‘일타 스캔들’에서는 핵인싸맨 방송에 전도연이 미혼이라고 밝히는 노윤서의 모습이 전파를 탔다. 이날 최치열(정경호)은 토크 콘서트에서 남행선(전도연)을 일방적으로 좋아한 사람은 자신이라고 고백했다. 영상을 보던 이미옥(황보라)은 “일방적으로 좋아해? 해이(노윤서)]]></content>
     </entry>
 </feed>
