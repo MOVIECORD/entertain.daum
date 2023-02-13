@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-02-13T21:11:59.046Z</updated>
+    <updated>2023-02-13T22:12:28.865Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘연애대전’ 유태오 “컸던 공허함, 연기로 채웠죠”]]></title>
+        <id>https://v.daum.net/v/20230214063018965</id>
+        <link href="https://v.daum.net/v/20230214063018965"/>
+        <updated>2023-02-13T22:12:14.629Z</updated>
+        <content type="html"><![CDATA[넷플릭스 오리지널 시리즈 ‘연애대전’의 주연한 유태오가 “아내인 사진작가 리키 리를 떠올리며 로맨스 연기에 몰입했다”고 밝혔다. 사진제공｜넷플릭스 배우 유태오(김치훈·42)는 긴 무명 생활을 보냈다. 영화 ‘여배우들’에서 단역으로 데뷔한 2009년부터 10여 년간 미국, 태국, 베트남 등에서 다양한 영화를 찍었지만 좀처럼 빛을 보지 못했다. 2019년 주]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[성범죄 다룬 ‘트롤리’ 이 가혹한 드라마의 힘겨운 완주]]></title>
         <id>https://v.daum.net/v/20230214060006460</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230213202400260"/>
         <updated>2023-02-13T12:22:33.134Z</updated>
         <content type="html"><![CDATA[‘마녀의 게임’에서 김규선이 오창석의 프러포즈을 받았다. 13일 오후 방송된 MBC 일일드라마 ‘마녀의 게임’에서는 정혜수(김규선 분)가 유지호(오창석 분)의 프러포즈를 받고 고민하는 모습이 전파를 탔다. 마현덕(반효정 분)은 정혜수에게 유인하(이현석 분)의 사랑을 반대하며 유지호와 결혼하라고 말했다. 그러면서 “넌 유지호를 뺏어서 결혼하는 걸로 복수해”라]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['마녀의 게임' 오창석, 이현석에 "김규선은 내 여자"]]></title>
-        <id>https://v.daum.net/v/20230213202230245</id>
-        <link href="https://v.daum.net/v/20230213202230245"/>
-        <updated>2023-02-13T12:22:33.136Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 이빛나리 기자] /사진='마녀의 게임' 방송화면'마녀의 게임'에서 오창석이 이현석을 제압했다. 13일 오후 방송된 MBC 일일드라마 '마녀의 게임'에서는 강지호(오창석 분)가 정혜수(김규선 분)에 프러포즈하는 장면이 담겼다. 이날 마현덕(반효정 분)은 정혜수에 강지호와 결혼하라고 말했다. 마현덕은 정혜수에 "난 네 유 씨 가문의 적통이 필요하]]></content>
     </entry>
 </feed>
