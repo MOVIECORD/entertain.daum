@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-02-13T11:11:29.002Z</updated>
+    <updated>2023-02-13T12:22:50.254Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘아바타:물의 길’, 개봉작 매출액 역대 2위‥‘명량’ 넘겼다]]></title>
+        <id>https://v.daum.net/v/20230213204336528</id>
+        <link href="https://v.daum.net/v/20230213204336528"/>
+        <updated>2023-02-13T12:22:27.789Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 배효주 기자] '아바타: 물의 길'이 전체 개봉작 중 역대 매출액 2위를 기록, '명량'도 넘었다. 2월 13일 영화진흥위원회 통합전산망 집계에 따르면 영화 '아바타: 물의 길'(감독 제임스 카메론)이 국내 누적 관객수 1,067만9,520명, 국내 누적 매출액 1,361억5,567만4,839원을 돌파했다. 이는 2014년 개봉한 '명량'의 국내]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[눈물 흘린 진선규..'카운트'에 담은 진심]]></title>
         <id>https://v.daum.net/v/20230213200000920</id>
@@ -13,7 +20,7 @@
         <content type="html"><![CDATA[[스타뉴스 CGV용산=김미화 기자] 배우 성유빈, 진선규, 오나라, 장동주, 고창석이 13일 오후 서울 CGV용산아이파크몰에서 진행된 영화 '카운트'(감독 권혁재) 언론시사회에 참석해 포즈를 취하고 있다.  10년 전 올림픽에서 금메달을 수상한 메달리스트였지만 지금은 고집 밖에 안 남은 고등학교 체육 선생으로 평범한 나날을 보내는 주인공 박시헌을 중심으로]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA['아바타2' 해냈다, '명량' 꺾고 역대 국내 매출액 2위…"글로벌 2조 8300억 돌파"]]></title>
+        <title type="html"><![CDATA['아바타2' 어디까지 갈까, '명량' 꺾고 역대 국내 매출액 2위…"글로벌 2조 8300억 돌파"]]></title>
         <id>https://v.daum.net/v/20230213195128834</id>
         <link href="https://v.daum.net/v/20230213195128834"/>
         <updated>2023-02-13T11:11:07.936Z</updated>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230213172403573"/>
         <updated>2023-02-13T09:12:49.673Z</updated>
         <content type="html"><![CDATA[[김형욱 기자] ▲ &nbsp;넷플릭스 오리지널 다큐멘터리 &lt;가면 사기&gt; 포스터.ⓒ 넷플릭스&nbsp; '전기통신금융사기'라는 법적 용어로 통일한, 통상적으로 '보이스피싱'으로 불리는 통신매체금융사기는 어느새 가장 경계해야 하는 범죄로 성장(?)했다. 피해건수와 피해액이 기하급수적으로 늘고 있는 까닭인데, 코로나 팬데믹으로 인해 비대면 시대가 도래하면서 이전에 비할 데 없이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['첫 원톱' 진선규, 눈물로 전한 고백…'카운트'의 꺾이지 않는 마음]]></title>
-        <id>https://v.daum.net/v/20230213172024461</id>
-        <link href="https://v.daum.net/v/20230213172024461"/>
-        <updated>2023-02-13T09:12:49.678Z</updated>
-        <content type="html"><![CDATA[배우 진선규가 꺾이지 않는 마음으로 감동의 '카운트'를 날린다. 13일 오후 서울 용산구 아이파크몰 CGV에서는 영화 '카운트' 언론배급시사회 및 기자간담회가 진행돼 권혁재 감독, 진선규, 오나라, 성유빈, 고창석, 장동주가 참석했다. '카운트'는 금메달리스트 출신, 한번 물면 절대 놓지 않는 마이웨이 선생 시헌이 오합지졸 핵아싸 제자들을 만나 세상을 향해]]></content>
     </entry>
 </feed>

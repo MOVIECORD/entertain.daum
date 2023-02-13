@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-02-13T11:11:28.995Z</updated>
+    <updated>2023-02-13T12:22:50.256Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[메간 폭스, 불륜으로 이혼하더니…그때 그 불륜남도 바람피웠나]]></title>
+        <id>https://v.daum.net/v/20230213201556149</id>
+        <link href="https://v.daum.net/v/20230213201556149"/>
+        <updated>2023-02-13T12:22:49.665Z</updated>
+        <content type="html"><![CDATA[[스포츠조선 정빛 기자] 불륜으로 전 남편과 이혼했던 배우 메간 폭스(메간 드니즈 폭스)가 약혼남의 바람으로 결별했다는 소식이 전해졌다. 12일(현지 시간) 피플 등 현지 매체 보도에 따르면, 메간 폭스는 약혼남인 래퍼 머신 건 켈리와 헤어져, 최근 개인 계정에 있던 머신 건 켈리 사진을 모두 삭제했다. 또 자신의 개인 계정을 비활성화했다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[벤 애플렉♥제니퍼 로페즈, 530억에 헌집 팔고 440억에 새집 산다]]></title>
         <id>https://v.daum.net/v/20230213195701894</id>
@@ -27,7 +34,7 @@
         <content type="html"><![CDATA[미국 팝스타 리아나(35)가 슈퍼볼 하프타임쇼로 5년 만에 무대에 복귀했다. 불룩 솟아오른 배로 공연을 마친 리아나 측은 둘째 임신이 맞다고 밝혀 팬들의 축하를 받았다. 딱 한 사람, 트럼프 전 미국 대통령은 ‘반(反)트럼프’ 대표 연예인 리아나의 무대에 “최악의 슈퍼볼 하프타임쇼”라며 맹비난했다. 12일(현지시간) 리아나는 미국 애리조나주 글렌데일 스테이]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[제이지♥︎비욘세 11세 딸, 엄마 빼닮은 얼굴로 폭풍성장..'슈퍼리치 키즈']]></title>
+        <title type="html"><![CDATA[제이지♥︎비욘세 11세 딸, 선글라스 써도 엄마 붕어빵..키 큰 '슈퍼리치 키즈']]></title>
         <id>https://v.daum.net/v/20230213181221089</id>
         <link href="https://v.daum.net/v/20230213181221089"/>
         <updated>2023-02-13T09:13:12.168Z</updated>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230213160030972"/>
         <updated>2023-02-13T07:12:00.487Z</updated>
         <content type="html"><![CDATA[[TV리포트=이수연 기자] 인기 시리즈 '글리'의 배우 앰버 라일리가 '탈 다이어트' 선언을 했다. 10일 앰버 라일리는 자신의 소셜네트워크서비스에 샐러드를 만드는 영상을 올리면서 다이어트에 관한 소신을 적었다. 앰버 라일리는 "많은 사람들이 나에게 다이어트에 대해 묻는다. 나는 다이어트를 하지 않는다"라면서 "나는 내 몸에 귀 기울이면서 직관적으로 먹고]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['오징어게임' 이정재, 시즌 2서 경비원 되나]]></title>
-        <id>https://v.daum.net/v/20230213154531443</id>
-        <link href="https://v.daum.net/v/20230213154531443"/>
-        <updated>2023-02-13T07:12:00.492Z</updated>
-        <content type="html"><![CDATA[[TV리포트=이수연 기자] 지난 2021년 전 세계를 강타한 넷플릭스 오리지널 '오징어 게임'이 2024년 후속작을 공개하는 가운데 어떤 스토리가 이어질지 저마다 다양한 추측을 쏟아내고 있다. 13일(한국 시간) 미국 연예 전문 매체 스크린랜트(screenrant)는 '오징어 게임'의 수수께끼 프런트맨 황인호(이병헌 분)가 시즌 2의 어두운 주제를 이끌 주]]></content>
     </entry>
 </feed>
