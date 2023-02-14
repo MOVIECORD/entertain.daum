@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-02-14T08:16:11.068Z</updated>
+    <updated>2023-02-14T09:13:06.374Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[40대 영화배우 음주운전 오보, 무고한 배우들만 2차 피해]]></title>
+        <id>https://v.daum.net/v/20230214173714183</id>
+        <link href="https://v.daum.net/v/20230214173714183"/>
+        <updated>2023-02-14T09:12:44.247Z</updated>
+        <content type="html"><![CDATA[[티브이데일리 최하나 기자] 40대 남자 영화배우 A씨가 음주운전으로 경찰에 입건됐다는 소식이 전해진 가운데, 해당 보도가 오보로 판명됐다. A씨라고 언급된 배우들의 피해가 막심하다. 14일 경찰에 따르면 이날 40대 남자 영화배우가 음주운전으로 경찰에 입건됐다는 보도는 동명이인을 착각해 잘못 알려진 것으로 파악됐다. 앞서 이날 아시아경제는 40대 영화]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘앤트맨3’→‘가오갤3’, 시작된 마블러쉬]]></title>
         <id>https://v.daum.net/v/20230214165706730</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230214115002696"/>
         <updated>2023-02-14T03:15:54.849Z</updated>
         <content type="html"><![CDATA[(엑스포츠뉴스 윤현지 기자) 배우 김민희와 홍상수 감독이 프랑스 시네마테크 프랑세즈(국립영상원)에서 열린 회고전에 참석했다. 지난 13일(현지 시간) 연합뉴스에 따르면 홍상수 감독은 이날 오후 파리 시네마테크 프랑세즈에서 열린 개막식에서 김민희와 함께 무대에 올랐다. 김민희는 홍 감독이 연출한 영화 '소설가의 영화'에 출연했다.&nbsp; 홍 감독은 "영화를 만들]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[파격적 형식이 주는 새로움, 다시 본 원작의 품격]]></title>
-        <id>https://v.daum.net/v/20230214113307074</id>
-        <link href="https://v.daum.net/v/20230214113307074"/>
-        <updated>2023-02-14T03:15:54.849Z</updated>
-        <content type="html"><![CDATA[[김성호 기자] 단목사라는 이가 있었다. 이름보다는 자인 자공으로 더 널리 알려진 인물이다. 자공은 공자의 손꼽는 제자 가운데 하나로, 그와 얽힌 일화가 많다. &lt;사마천&gt; 사기에 따르면 그는 큰 부자로 일가를 일궜는데, 노나라와 위나라에서 재상을 지냈고 집에 천금을 쌓아둘 만큼 성취가 있었다고 한다. 실력이 있고 언변이 뛰어나며 돈이 많은 데다 따르는 이까]]></content>
     </entry>
 </feed>
