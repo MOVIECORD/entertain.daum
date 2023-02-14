@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-02-14T21:12:03.053Z</updated>
+    <updated>2023-02-14T22:12:04.125Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['블랙팬서' 마이클 B. 조던 "가벼운 연애 이제 안 할 것"]]></title>
+        <id>https://v.daum.net/v/20230215070530099</id>
+        <link href="https://v.daum.net/v/20230215070530099"/>
+        <updated>2023-02-14T22:12:03.191Z</updated>
+        <content type="html"><![CDATA[[TV리포트=이수연 기자] 배우 마이클 B. 조던이 이별 후유증을 겪고 있다. 13일(현지 시간) 미국 롤링스톤과 진행한 인터뷰에서 마이클 B. 조던은 연애 관계에 대해 "책임감을 갖고 싶다"고 밝혔다. 마이클 B. 조던은 "물론 연애를 할 생각이지만 확실하게 책임감을 갖는 노력을 하고 싶다"면서 "일어날 일은 일어날 것이다"라고 말해 연애에 대해 조심스러]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[또 펜타닐 복용?…美 아역스타 출신 20대, 노숙자 시설서 사망]]></title>
         <id>https://v.daum.net/v/20230215040103593</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230214121052399"/>
         <updated>2023-02-14T03:16:16.282Z</updated>
         <content type="html"><![CDATA[[OSEN=김보라 기자] 영화 '어메이징 모리스'가 국내 영화계와 방송계 인사들로부터 뜨거운 호평을 얻고 있다. 지난 10일(금) 메가박스 코엑스에서 진행된 '어메이징 모리스' 일반시사회에는 영화계, 방송계 인사들이 참석해 자리를 빛낸 가운데 “어린 시절, 우리가 꿈꿨던 어드벤처, 어메이징 모리스”('시동'&nbsp;최정열 감독), “유쾌하면서도 뭉클한 ‘팀 모]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[실베스터 스탤론, '가오갤 3' 출연한다..."왕년 액션 스타의 컴백"]]></title>
-        <id>https://v.daum.net/v/20230214120530309</id>
-        <link href="https://v.daum.net/v/20230214120530309"/>
-        <updated>2023-02-14T03:16:16.284Z</updated>
-        <content type="html"><![CDATA[[TV리포트=이수연 기자] 영화 '록키', '람보'로 알려진 할리우드 배우 실베스터 스탤론이 '가디언즈 오브 갤럭시 3'에 출연한다. 지난 11일(현지 시간) 미국 다이렉트지에 따르면 실베스터 스탤론이 '가디언즈 오브 갤럭시 3'(이하 '가오갤 3')의 예고편이나 마케팅에서는 아직 모습을 드러내지 않았지만 온라인 포스터에 그의 이름이 출연진으로 올라가 있다]]></content>
     </entry>
 </feed>
