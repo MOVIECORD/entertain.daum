@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-02-14T06:16:31.892Z</updated>
+    <updated>2023-02-14T07:12:43.610Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[노윤서가 주목받는 이유, 스캔들도 로맨스 만드는 키플레이어]]></title>
+        <id>https://v.daum.net/v/20230214161019809</id>
+        <link href="https://v.daum.net/v/20230214161019809"/>
+        <updated>2023-02-14T07:12:26.767Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 박아름 기자] '일타 스캔들' 노윤서가 주목받고 있다. 배우 노윤서는 tvN 토일드라마 ‘일타 스캔들’에서 사연이 많은 가정 형편 속에서도 학업을 꿋꿋하게 이어가는 자기주도학습형 모범생이자 남행선(전도연 분)의 마음을 헤아리는 진중한 딸 남해이 역을 맡아 열연 중이다. 지난 방송에서 남해이는 청량 학원물 로맨스를 이끄는 청정 매력녀이자 자신으로]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[금새록 "유연석, 스태프들 무거운 장비까지 옮겨주는 멋진 선배"]]></title>
         <id>https://v.daum.net/v/20230214150802037</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230214114702603"/>
         <updated>2023-02-14T03:16:00.341Z</updated>
         <content type="html"><![CDATA[[뉴스엔 박수인 기자] '유괴의 날' 캐스팅이 확정됐다. 올해 하반기 방송 예정인 ENA 오리지널 드라마 ‘유괴의 날’(연출 박유영, 극본 김제영)은 어설픈 유괴범과 11살 천재 소녀의 세상 특별한 공조를 담은 감성 버디 스릴러다. 무엇보다 연기파 배우들의 시너지에 이목이 집중된다. 윤계상은 어설프고 마음 약한 유괴범 ‘김명준’ 역으로 일찌감치 출연을]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['궁' 리메이크작, 내년에 돌아온다]]></title>
-        <id>https://v.daum.net/v/20230214114131404</id>
-        <link href="https://v.daum.net/v/20230214114131404"/>
-        <updated>2023-02-14T03:16:00.342Z</updated>
-        <content type="html"><![CDATA[[TV리포트=신은주 기자] 드라마 '궁'의 리메이크가 확정됐다. 리메이크작은 내년 공개될 예정이다. 14일 제작사 그룹에이트 관계자는 TV리포트에 "드라마 '궁'이 리메이크된다"라며 "올해 하반기 제작을 목표로 하고 있고 내년 방송 목표다"라고 밝혔다. 또한 "리메이크이다 보니 2006년 공개된 '궁'과는 변화된 부분이 있을 것"이라고 덧붙였다. 지난 20]]></content>
     </entry>
 </feed>
