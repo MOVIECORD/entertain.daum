@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-02-14T01:00:48.672Z</updated>
+    <updated>2023-02-14T02:25:34.353Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[아카데미 “윌 스미스 ‘크리스 록 폭행 사건’, 적절히 대응 못해” 인정]]></title>
+        <id>https://v.daum.net/v/20230214101034272</id>
+        <link href="https://v.daum.net/v/20230214101034272"/>
+        <updated>2023-02-14T02:25:33.762Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]영화예술과학아카데미(AMPAS)가 지난해 벌어진 윌 스미스(54)의 크리스 록(58) 폭행 사건을 적절하게 대처하지 못했다고 인정했다. AMPAS 재닛 양 회장은 13일(현지시간) 오스카상 후보 만찬회에서 “여러분 모두가 오스카에서 전례 없는 사건을 경험했다는 것을 기억할 것이라고 확신한다”고 운을 뗐다. 이어 “무대에서]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘둘째 임신’ 리한나, 슈퍼볼 공연 이후 스트리밍 640% 증가 “완벽한 컴백”]]></title>
         <id>https://v.daum.net/v/20230214095542609</id>
@@ -27,7 +34,7 @@
         <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]할리우드 톱스타 레오나르도 디카프리오(48)가 지난해부터 사귀었던 모델 지지 하디드(27)와 만났지만, 한마디도 하지 않아 그 배경에 관심이 쏠린다. 이들은 미국 뉴욕 패션위크 기간 중 파이낸셜 디스트릭트 회원 클럽인 카사 치프리아니에서 우연히 만났다. 페이지식스는 13일(현지시간) “지지 하디드는 클럽 오너의 테이블에 많]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA['흑인 인어공주' 개봉 앞두고 루머?..할리 베일리, 남친과 결별설 부인]]></title>
+        <title type="html"><![CDATA['흑인 인어공주' 개봉 전 웬 루머?..할리 베일리, 남친과 결별설 부인]]></title>
         <id>https://v.daum.net/v/20230214080232175</id>
         <link href="https://v.daum.net/v/20230214080232175"/>
         <updated>2023-02-13T23:12:50.885Z</updated>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230213181221089"/>
         <updated>2023-02-13T09:13:12.168Z</updated>
         <content type="html"><![CDATA[[OSEN=최나영 기자] 영향력 있는 힙합 뮤지션 제이지(53)와&nbsp;비욘세(41)의 장녀인 블루 아이비 카터(11)가&nbsp;슈퍼볼 LVII에 참석해 남다른 비주얼로 시선을 모았다. 비욘세와 제이지의 딸 블루 아이비 카터가 12일(현지시간) 미국 애리조나주 글렌데일에서 열린 슈퍼볼 LVII에 아버지 제이지와 함께 참석, 폭풍 성장한 면모를 뽐냈다.&nbsp; 키가 6피트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['마블 사장' 케빈 파이기 "'앤트맨3'서 다음 어벤져스 예고"]]></title>
-        <id>https://v.daum.net/v/20230213181200078</id>
-        <link href="https://v.daum.net/v/20230213181200078"/>
-        <updated>2023-02-13T09:13:12.168Z</updated>
-        <content type="html"><![CDATA[[TV리포트=이수연 기자] 마블 스튜디오의 사장 케빈 파이기가 곧 개봉하는 '앤트맨과 와스프: 퀀텀매니아'가 '어벤져스: 엔드게임' 이후 가장 중요한 영화가 될 것이라고 밝혔다. 지난 10일(현지 시간) 로튼 토마토와 진행한 인터뷰에서 케빈 파이기는 새로운 영화 '앤트맨과 와스프: 퀀텀매니아'(이하 '앤트맨 3')가 '어벤져스: 엔드게임'(이하 '엔드게임']]></content>
     </entry>
 </feed>
