@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/variety</id>
     <title>다음 연예 ─ 뉴스 ─ 예능</title>
-    <updated>2023-02-14T17:12:57.165Z</updated>
+    <updated>2023-02-14T18:15:21.796Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[홍윤화 "'맛녀석' 문세윤의 '이것', 넋 놓고 보게 돼" 정체는?]]></title>
+        <id>https://v.daum.net/v/20230215030306308</id>
+        <link href="https://v.daum.net/v/20230215030306308"/>
+        <updated>2023-02-14T18:15:12.190Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 양유진 기자] ‘라디오스타’ 홍윤화가 ‘맛있는 녀석들’에 함께 출연 중인 문세윤의 ‘이것’을 볼 때마다 항상 신기하다고 이야기해 과연 정체가 무엇일지 궁금증을 불러 모은다. 15일 밤 10시 30분 방송 예정인 MBC ‘라디오스타’는 장영란, 안현모, 홍윤화, 김보름이 출연하는 ‘에너지옥’ 특집으로 꾸며진다. 홍윤화는 ‘라디오스타’에 출연]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[남친과 썸 타고 있었다는 친구의 고백…김숙 "난 양보할 듯"]]></title>
         <id>https://v.daum.net/v/20230215020205089</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230214235111325"/>
         <updated>2023-02-14T15:12:50.310Z</updated>
         <content type="html"><![CDATA[[스타뉴스 이빛나리 기자] /사진='신발 벗고 돌싱포맨' 방송화면'신발 벗고 돌싱포맨' 다나카가 본캐 김경욱의 비난에 당황했다. 14일 오후 방송된 SBS 예능프로그램 '신발 벗고 돌싱포맨'(이하 '돌싱포맨')에서 다나카, 정이랑, 김지민이 게스트로 출연했다. 이날 MC 탁재훈은 다나카에 "요새 바쁘지? 거절하는 거 없이 나가던데"라고 물었다. 다나카]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이지혜, 황영웅X손태진 '비나리'에 눈물..."남편 말고 전 남친 생각나서"]]></title>
-        <id>https://v.daum.net/v/20230214234702308</id>
-        <link href="https://v.daum.net/v/20230214234702308"/>
-        <updated>2023-02-14T15:12:50.311Z</updated>
-        <content type="html"><![CDATA[[텐아시아=신지원 기자]이지혜가 황영웅X손태진 무대에 눈물을 흘렸다. 14일 밤 방송된 MBN 예능 '불타는 트롯맨'에서는 준결승 1R 듀엣전으로 '황금손' 황영웅과 손태진의 무대가 펼쳐졌다. 이날 황금손은 심수봉의 '비나리'를 선택해 진한 여운이 감도는 무대를 꾸며 객석에서의 박수갈채를 받았다. 노래를 듣다가 울컥한 이지혜는 "지금 남편 말고 옛날 남]]></content>
     </entry>
 </feed>
