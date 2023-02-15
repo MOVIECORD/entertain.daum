@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-02-15T13:22:41.236Z</updated>
+    <updated>2023-02-15T14:12:58.996Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['서브여주'가 서러운 시대는 끝났다…박지현→차주영→금새록, 올바른 '서브' 활용법]]></title>
+        <id>https://v.daum.net/v/20230215224602414</id>
+        <link href="https://v.daum.net/v/20230215224602414"/>
+        <updated>2023-02-15T14:12:41.947Z</updated>
+        <content type="html"><![CDATA[[텐아시아=류예지 기자] 주인공보다 매력적이다. '서브여주'가 서러운 시대는 지났다. 이젠 누가 뭐라 해도 '서브여주'의 시대가 도래했다. 서브(Sub) 여주를 피하는 분위기가 있었던 과거와 달리 요즘 드라마계에서는 매력적인 서브를 차지하기 위해 치열하게 노력한다. 그 결과 주인공 못지 않은, 아니 그 이상의 존재감을 발휘하는 것. 최근 서브여주 황금]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘내 눈에 콩깍지’ 백성현, 정수환-배누리 남편 죽음 연관 사실 알았다]]></title>
         <id>https://v.daum.net/v/20230215211801463</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230215164924126"/>
         <updated>2023-02-15T08:17:07.568Z</updated>
         <content type="html"><![CDATA[[뉴스엔 김명미 기자] 설인아가 위풍당당 ‘쌍절곤 소녀’로 변신한다. 오는 3월 6일 첫 방송되는 KBS 2TV 새 월화드라마 ‘오아시스’(연출 한희 / 극본 정형수 / 제작 세이온미디어㈜, ㈜래몽래인) 측은 2월 15일 오정신(설인아 분)의 캐릭터 스틸을 공개했다. ‘오아시스’는 1980년대부터 1990년대까지 이어지는 격변의 대한민국을 배경으로, 자신]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘성스러운 아이돌’ 김민규, 복근 철통방어 왜?…’똘기 충만’ 전개 예고]]></title>
-        <id>https://v.daum.net/v/20230215160152193</id>
-        <link href="https://v.daum.net/v/20230215160152193"/>
-        <updated>2023-02-15T07:11:44.502Z</updated>
-        <content type="html"><![CDATA[[OSEN=유수연 기자]&nbsp;‘성스러운 아이돌’&nbsp;김민규의 복근 철통방어 스틸이 공개돼 첫 방송에 대한 기대감을 끌어올린다. 오늘(15일)&nbsp;첫 방송하는&nbsp;tvN&nbsp;새 수목드라마&nbsp;‘성스러운 아이돌’(연출 박소연/&nbsp;극본 이천금/&nbsp;기획 스튜디오드래곤/&nbsp;제작 피타팻스튜디오 하이그라운드)은&nbsp;하루 아침에 대한민국 무명 아이돌이 된,&nbsp;이세계 대신관 램브러리의 성스럽고 망측한]]></content>
     </entry>
 </feed>
