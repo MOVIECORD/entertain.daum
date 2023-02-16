@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-02-16T12:22:38.007Z</updated>
+    <updated>2023-02-16T13:22:47.372Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이제훈 “기억남는 에피소드? 학교폭력→現대세배우가 된 '최현욱' 등장”]]></title>
+        <id>https://v.daum.net/v/20230216220329802</id>
+        <link href="https://v.daum.net/v/20230216220329802"/>
+        <updated>2023-02-16T13:22:30.428Z</updated>
+        <content type="html"><![CDATA[[OSEN=박근희 기자] '모범택시 리턴즈-운행 재개 스페셜’ 이제훈이 기억에 남는 에피소드로 학교폭력 편을 언급했다. 16일 오후 SBS '모범택시 리턴즈-운행 재개 스페셜'이 전파를 탔다. 모범택시를 정의 내려달란 질문에 김의성은 “한마디로 이야기하면 사람들을 위로해주는 판타지. 실제로 있을 수도 있어서도 안 되는 법을 넘어선 복수를 해주는 거다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이제훈 “시즌1 촬영? 너무 힘들었다… 고향에 돌아온 기분” 울컥]]></title>
         <id>https://v.daum.net/v/20230216211658189</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230216160157391"/>
         <updated>2023-02-16T07:11:48.575Z</updated>
         <content type="html"><![CDATA[사진=KWSunflower(김완선), 사람엔터테인먼트(엄정화), TEO(이효리), SM엔터테인먼트(보아), RBW엔터테인먼트(화사)[이데일리 스타in 김가영 기자] 대한민국 레전드 아티스트 김완선 엄정화 이효리 보아 화사가 뭉친다. 김태호PD와 함께 tvN ‘댄스가수 유랑단’으로 돌아오는 것이다. tvN ‘댄스가수 유랑단(가제, 연출 김태호·강령미, 작가]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이지아, 딸과 함께 포착…우아한 드레스 자태]]></title>
-        <id>https://v.daum.net/v/20230216155529154</id>
-        <link href="https://v.daum.net/v/20230216155529154"/>
-        <updated>2023-02-16T07:11:48.575Z</updated>
-        <content type="html"><![CDATA[[마이데일리 = 강다윤 기자] 이지아가 사랑하는 가족을 지키기 위해 목숨까지 내던진다. 오는 3월 11일 첫 방송되는 케이블채널 tvN 새 토일드라마 '판도라 : 조작된 낙원'(극본 현지민 연출 최영훈 크리에이터 김순옥) 측은 16일 잃어버린 기억을 되찾으면서 비극이 시작되는 홍태라로 분한 이지아의 캐릭터 스틸컷을 공개했다. 홍태라는 뇌신경 스마트패치]]></content>
     </entry>
 </feed>
