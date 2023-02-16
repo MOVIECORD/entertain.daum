@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-02-16T21:11:33.190Z</updated>
+    <updated>2023-02-16T22:12:30.062Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“시즌3 언제하지?” 이제훈…. 시즌2 시작도 전인데 다음 시즌 예고 ‘깜짝’]]></title>
+        <id>https://v.daum.net/v/20230217065618185</id>
+        <link href="https://v.daum.net/v/20230217065618185"/>
+        <updated>2023-02-16T22:12:12.663Z</updated>
+        <content type="html"><![CDATA[[OSEN=박근희 기자] '모범택시 리턴즈-운행 재개 스페셜’ 이제훈이 모범택시에 대한 남다른 애정을 보였다. 16일 오후 SBS '모범택시 리턴즈-운행 재개 스페셜'이 전파를 탔다. 김의성은 “시즌2가 시작한다고 하니까 시청자분들이 궁금한 것들을 많이 보내셨다. 그래서 이렇게 모였다”라고 모인 이유를 설명했다. 김의성은 “장성철 역할을 맡았던 김의성이]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['성스러운 아이돌' 김민규, 대신관→아이돌 결심..고보결 은인]]></title>
+        <id>https://v.daum.net/v/20230217063012945</id>
+        <link href="https://v.daum.net/v/20230217063012945"/>
+        <updated>2023-02-16T22:12:12.664Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 이상은 기자] /사진=tvN 수목드라마 '성스러운 아이돌' 방송화면'성스러운 아이돌' 김민규가 원래의 세계로 돌아가기 위해 아이돌 생활을 결심했다. 16일 오후 방송된 tvN 수목드라마 '성스러운 아이돌'에서는 망돌(망한 아이돌) 우연우가 된 램브러리(김민규 분)가 레드린(차주영 분) 신의 세계로 돌아가기 위한 방법을 모색했다. 이날 우연우(]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[금새록 "답답했던 '사랑의 이해'? 비밀 일기장 같았어요"]]></title>
         <id>https://v.daum.net/v/20230217060014407</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230216203651564"/>
         <updated>2023-02-16T12:22:21.371Z</updated>
         <content type="html"><![CDATA[[스타뉴스 이상은 기자] /사진=KBS 2TV 일일드라마 '태풍의 신부' 방송화면'태풍의 신부' 박하나가 지수원에게 혼란스러운 마음을 고백했다. 16일 오후 방송된 KBS 2TV 일일드라마 '태풍의 신부'에서는 은서연(박하나 분)이 병원에서 퇴원한 엄마 서윤희(지수원 분)에게 모습이 담겼다. 이날 서윤희는 "결혼이라니 어떻게 태풍씨(강지섭 분)랑 결혼을]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘태풍의 신부’ 최수린, 박하나 정체 알고 분노의 따귀 “복수하려 들어와”]]></title>
-        <id>https://v.daum.net/v/20230216203500548</id>
-        <link href="https://v.daum.net/v/20230216203500548"/>
-        <updated>2023-02-16T12:22:21.373Z</updated>
-        <content type="html"><![CDATA[[TV리포트 = 하수나 기자] 최수린이 박하나가 지수원의 친딸이란 사실을 알고 충격에 빠졌다.&nbsp; 16일 KBS2 일일드라마 ‘태풍의 신부’에선 시한부 선고를 받은 윤산들(박윤재 분)이 은서연(박하나 분)을 멀리하는 모습이 그려졌다.&nbsp; 은서연은 윤산들이 서윤희가 있던 곳을 알려주며 자신을 도왔다는 것을 알게 됐고 그와 포옹을 나눴다. 그러나 이 모습을 강태풍]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['태풍의 신부' 강지섭, 박하나 껴안은 윤산들에 분노]]></title>
-        <id>https://v.daum.net/v/20230216200956147</id>
-        <link href="https://v.daum.net/v/20230216200956147"/>
-        <updated>2023-02-16T11:10:42.014Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 이상은 기자] /사진=KBS 2TV 일일드라마 '태풍의 신부' 방송화면'태풍의 신부' 강지섭이 박하나와 윤산들이 포옹한 모습에 분노했다. 16일 오후 방송된 KBS 2TV 일일드라마 '태풍의 신부'에서는 윤산들(박윤재 분)이 옛 연인 은서연(박하나 분)을 껴안은 모습이 담겼다. 이 모습을 지켜본 르블랑 장남 강태풍(강지섭 분)은 분노했다. 강]]></content>
     </entry>
 </feed>
