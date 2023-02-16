@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-02-16T09:13:13.051Z</updated>
+    <updated>2023-02-16T10:14:06.287Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['브리저튼' 돌연 사라진 여섯째...행방 찾았다]]></title>
+        <id>https://v.daum.net/v/20230216183030278</id>
+        <link href="https://v.daum.net/v/20230216183030278"/>
+        <updated>2023-02-16T10:14:05.475Z</updated>
+        <content type="html"><![CDATA[[TV리포트=이수연 기자] 넷플릭스 오리지널 '브리저튼'에서 갑자기 사라진 배우 루비 스톡스가 드디어 입을 열였다. 지난 14일(현지 시간) 영국 배우 루비 스톡스는 미국 연예 매체 버라이어티(Variety)와의 인터뷰를 통해 '브리저튼' 시리즈를 사랑해 준 많은 팬들에게 작별 인사를 고했다. 루비 스톡스는 '브리저튼'에서 브리저튼 가문의 여섯째 프란체스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['드래곤 길들이기' 시리즈도 실사화…2025년 3월 개봉]]></title>
         <id>https://v.daum.net/v/20230216174953260</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230216110112793"/>
         <updated>2023-02-16T02:27:08.365Z</updated>
         <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]세계적 거장 스티븐 스필버그(76) 감독이 ‘탑건2’의 톰 크루즈(60)에게 고마움을 전했다. 이들은 지난 13일(현지시간) 미국 캘리포니아주 베벌리힐스 힐튼 호텔에서 열린 제95회 오스카상(아카데미) 후보 오찬에 참석했다. 지난 14일 할리우드 리포터에 따르면, 이 자리에서 스필버그는 크루즈에게 “당신이 할리우드를 구했다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[스필버그 "'해리포터' 연출 거절, 가족들이 이유…후회 NO"]]></title>
-        <id>https://v.daum.net/v/20230216105514464</id>
-        <link href="https://v.daum.net/v/20230216105514464"/>
-        <updated>2023-02-16T02:27:08.366Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 이창규 기자) 스티븐 스필버그 감독이 영화 '해리포터' 시리즈의 연출직을 거절했던 이유를 밝혔다. 스필버그는 지난 10일(현지시간) 영화 'RRR: 라이즈 로어 리볼트'의 연출을 맡은 S.S. 라자몰리 감독과의 화상 인터뷰에서 "내가 연출하지 않기로 한 작품들이 몇 있다"고 입을 열었다. 그는 "첫 번째 '해리 포터' 영화를 연출하지 않기로]]></content>
     </entry>
 </feed>
