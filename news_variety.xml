@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/variety</id>
     <title>다음 연예 ─ 뉴스 ─ 예능</title>
-    <updated>2023-02-16T17:11:01.847Z</updated>
+    <updated>2023-02-16T18:14:16.372Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[실종 42일만에 시신으로 발견…반전의 母子 살인사건]]></title>
+        <id>https://v.daum.net/v/20230217030505573</id>
+        <link href="https://v.daum.net/v/20230217030505573"/>
+        <updated>2023-02-16T18:14:05.743Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 박윤진 기자] 반전의 모자 살인사건 전말이 공개된다. 17일 방송되는 티캐스트 E채널 ‘용감한 형사들2’ 17회에서는 김면중 형사, 김재기 형사가 출연해 직접 발로 뛴 사건을 생생하게 전한다. 첫 번째 이야기는 2013년 8월 인천의 한 지구대에 20대 남성이 찾아와 등산에 갔다는 어머니가 4일 째 돌아오지 않는다며 실종 신고를 한 것에서]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김종민, 케이크 잘라주는 박명수에 "진짜 츤데레"]]></title>
         <id>https://v.daum.net/v/20230217020504385</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230216235156649"/>
         <updated>2023-02-16T15:13:17.943Z</updated>
         <content type="html"><![CDATA[(엑스포츠뉴스 김현숙 인턴기자) 개그맨 허경환이 연예계의 숨은 재력가 스타 1위를 차지했다. 16일 방송된 KBS 2TV '연중 플러스'에서는 연예계의 숨은 의외의 재력가 스타의 순위가 공개됐다.&nbsp; 이날 5위에는 아나운서 출신 방송인 장성규가 순위에 올랐다. 장성규는 방송인이 된 지 3년 만에 강동구 아파트를 마련했다고. 이뿐만 아니라 장성규는 강남구 청담]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[하이브 "이수만 개인활동 관여NO" 외쳤으나..SM입장은?]]></title>
-        <id>https://v.daum.net/v/20230216235115642</id>
-        <link href="https://v.daum.net/v/20230216235115642"/>
-        <updated>2023-02-16T15:13:17.945Z</updated>
-        <content type="html"><![CDATA[[OSEN=김수형 기자] ‘연중 플러스’에서 SM엔터테인먼트 전 총괄 프로듀서&nbsp;이수만과 현재 SM 대표이사인 이성수에 대해 언급했다.&nbsp; 16일 방송된 KBS 2TV 예능 ‘연중플러스’에서&nbsp;SM엔터테이먼트의 경영권 논란에 대해 다뤘다. SM엔터테인먼트의 이성수 대표가 이수만 전 총괄 프로듀서에게 비리가 있다고 폭로한&nbsp;가운데 최근 하이브 측에서 인수에 뛰어]]></content>
     </entry>
 </feed>

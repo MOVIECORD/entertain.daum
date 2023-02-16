@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2023-02-16T17:11:01.842Z</updated>
+    <updated>2023-02-16T18:14:16.379Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[처조카 이성수 SM 대표, 이수만 겨냥 '폭로전'은 하이브와 '명분싸움']]></title>
+        <id>https://v.daum.net/v/20230217025959414</id>
+        <link href="https://v.daum.net/v/20230217025959414"/>
+        <updated>2023-02-16T18:14:10.542Z</updated>
+        <content type="html"><![CDATA[기사내용 요약 "이수만 전 총괄, 부동산 욕심에 에스파까지 동원" 주장 K팝 '선한 영향력'이 커지면서 요구되는 도덕성 파고들어 이 전 총괄 몰아낸 명분 쌓으며 소액주주 설득 해석 SM, 디어유 매각설에 "비핵심자산 매각은 검토하지만 디어유는 대상 아냐" [서울=뉴시스]이재훈 기자 = 이수만 전 SM엔터테인먼트 총괄·하이브(HYBE) 동맹과 SM]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[오은영 박사 "틱, ○○이 되면 참을 수 있다"…금쪽이의 SOS]]></title>
         <id>https://v.daum.net/v/20230217014459345</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230216233803560"/>
         <updated>2023-02-16T15:13:22.636Z</updated>
         <content type="html"><![CDATA[[스포츠서울 | 남서영기자] 허경환이 의외의 재력가 스타 1위에 올랐다. 16일 방송된 KBS2 ‘연중 플러스’ 속 ‘연중리스트’에서는 ‘의외의 재력가 스타’를 공개했다. 의외의 재력가 스타 1위는 사업가 겸 방송인 허경환이 올랐다. 2010년에 사업을 시작한 허경환은 동업자에게 사기를 당하는 등 어려운 시기도 보냈다. 하지만]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[KCM, 비에게 팩폭? “너도 밖에서 그렇게 튀는 얼굴은 아니야”]]></title>
-        <id>https://v.daum.net/v/20230216233705553</id>
-        <link href="https://v.daum.net/v/20230216233705553"/>
-        <updated>2023-02-16T15:13:22.636Z</updated>
-        <content type="html"><![CDATA[[마이데일리 = 임유리 기자] 가수 KCM에 비와 외모 순위를 놓고 티격태격하는 모습을 보였다. 16일 유튜브 채널 ‘시즌비시즌’에는 최근 신곡을 발표한 M.O.M의 멤버 지석진, KCM, 박재정, 원슈타인이 출연한 영상이 게재됐다. 영상에서 비와 M.O.M 멤버들은 이 중에서 외모 순위 4등을 지목해달라는 제작진의 요청에 각자 손가락으로 자신이 생]]></content>
     </entry>
 </feed>
