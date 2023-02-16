@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-02-16T08:15:40.579Z</updated>
+    <updated>2023-02-16T09:13:13.051Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['드래곤 길들이기' 시리즈도 실사화…2025년 3월 개봉]]></title>
+        <id>https://v.daum.net/v/20230216174953260</id>
+        <link href="https://v.daum.net/v/20230216174953260"/>
+        <updated>2023-02-16T09:13:12.366Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 이창규 기자) 드림웍스의 인기 애니메이션 '드래곤 길들이기' 시리즈가 실사 영화로 제작된다. 15일(현지시간) 미국 버라이어티 등 다수 매체는 '드래곤 길들이기' 시리즈의 각본과 연출을 맡았던 딘 데블로이스가 '드래곤 길들이기' 실사판의 각본과 연출을 담당한다고 보도했다. 작품의 개봉일은 2025년 3월 14일로 정해졌다. 지난 2010년 개]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[테일러 스위프트 1182억 벌었다, “가장 돈 많이 번 여성 연예인 1위”]]></title>
         <id>https://v.daum.net/v/20230216165038296</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230216105514464"/>
         <updated>2023-02-16T02:27:08.366Z</updated>
         <content type="html"><![CDATA[(엑스포츠뉴스 이창규 기자) 스티븐 스필버그 감독이 영화 '해리포터' 시리즈의 연출직을 거절했던 이유를 밝혔다. 스필버그는 지난 10일(현지시간) 영화 'RRR: 라이즈 로어 리볼트'의 연출을 맡은 S.S. 라자몰리 감독과의 화상 인터뷰에서 "내가 연출하지 않기로 한 작품들이 몇 있다"고 입을 열었다. 그는 "첫 번째 '해리 포터' 영화를 연출하지 않기로]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[셀레나 고메즈 "디즈니가 '이 말' 하는 것 금지 시켰다" 폭로]]></title>
-        <id>https://v.daum.net/v/20230216101522836</id>
-        <link href="https://v.daum.net/v/20230216101522836"/>
-        <updated>2023-02-16T02:27:08.372Z</updated>
-        <content type="html"><![CDATA[[OSEN=최나영 기자] 가수 겸 배우 셀레나 고메즈(30)가 과거 디즈니로부터 '이 말'을 하는 것을 금지당했다고 밝혔다. 아역 스타 출신인 고메즈는 최근 베니티 페어에 디즈니가 자신에게&nbsp;"What the hell?(도대체 뭐야?(왜?)"이라는 문구를 말하지 말라고 했다고 주장했다. 그는 "나는 여러 면에서 문제아는 아니었지만 디즈니에 있었기 때문에]]></content>
     </entry>
 </feed>
