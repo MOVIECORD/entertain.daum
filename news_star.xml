@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2023-02-16T16:17:03.316Z</updated>
+    <updated>2023-02-16T17:11:01.842Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[오은영 박사 "틱, ○○이 되면 참을 수 있다"…금쪽이의 SOS]]></title>
+        <id>https://v.daum.net/v/20230217014459345</id>
+        <link href="https://v.daum.net/v/20230217014459345"/>
+        <updated>2023-02-16T17:10:55.228Z</updated>
+        <content type="html"><![CDATA[[서울=뉴시스]정진아 인턴 기자 = 집에서는 이상 행동을 보이지만 밖에서는 틱을 참는 금쪽이, 틱이 맞을까. 17일 오후 방송되는 채널A '요즘 육아 - 금쪽같은 내새끼'에서는 문제를 틀리면 이상한 동작과 소리를 내는 초6 아들이 등장한다. 이날 스튜디오에는 13살, 11살 두 아들을 둔 엄마와 외할머니가 출연한다. 결혼 이후부터 쭉 대가족으로 지내왔]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['성스러운 아이돌' 고보결 매니저→김민규 '망돌' 인생 시작]]></title>
         <id>https://v.daum.net/v/20230217005923116</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230216233705553"/>
         <updated>2023-02-16T15:13:22.636Z</updated>
         <content type="html"><![CDATA[[마이데일리 = 임유리 기자] 가수 KCM에 비와 외모 순위를 놓고 티격태격하는 모습을 보였다. 16일 유튜브 채널 ‘시즌비시즌’에는 최근 신곡을 발표한 M.O.M의 멤버 지석진, KCM, 박재정, 원슈타인이 출연한 영상이 게재됐다. 영상에서 비와 M.O.M 멤버들은 이 중에서 외모 순위 4등을 지목해달라는 제작진의 요청에 각자 손가락으로 자신이 생]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘미트2’ 대장전 송민준, 악조건에도 반전의 감성 무대...박선주 “깊은 울림”]]></title>
-        <id>https://v.daum.net/v/20230216233501544</id>
-        <link href="https://v.daum.net/v/20230216233501544"/>
-        <updated>2023-02-16T15:13:22.637Z</updated>
-        <content type="html"><![CDATA[[TV리포트 = 하수나 기자] 메들리 팀 미션에서 1라운드 5위에 그친 뽕플릭스의 대장 송민준이 ‘대장전’에서 마스터들의 마음을 사로잡았다. 16일 TV조선 예능 ‘미스터트롯2-새로운 전설의 시작’에서는 메들리 팀 미션에서 TOP 5 최수호, 안성훈, 송민준, 박지현, 김용필이 팀의 운명을 걸고 ‘대장전’에 나선 모습이 공개됐다.&nbsp; 메들리 팀 미션에선 진기]]></content>
     </entry>
 </feed>
