@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-02-16T05:12:47.741Z</updated>
+    <updated>2023-02-16T06:15:48.158Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[송중기, 영화 촬영도 아내 케이티·뱃속 아기와 함께…헝가리 출국]]></title>
+        <id>https://v.daum.net/v/20230216151200009</id>
+        <link href="https://v.daum.net/v/20230216151200009"/>
+        <updated>2023-02-16T06:15:33.585Z</updated>
+        <content type="html"><![CDATA[송중기(왼쪽) 케이티 루이스 사운더스(사진=이데일리DB, SNS)[이데일리 스타in 김가영 기자] 배우 송중기가 아내 케이티, 뱃속 아기와 함께 헝가리로 출국했다. 송중기는 16일 오후 넷플릭스 영화 ‘로기완’의 촬영을 위해 헝가리로 떠났다. 이날 인천국제공항에는 아내 케이티 루이스 사운더스, 반려견과 함께 등장했다. 송중기는 혼자가 아닌, 아내와 함께]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[정예빈, 손나은 라이벌다운 럭셔리 분위기]]></title>
         <id>https://v.daum.net/v/20230216135848872</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230216114721054"/>
         <updated>2023-02-16T03:15:46.056Z</updated>
         <content type="html"><![CDATA[[엔터미디어=정덕현의 네모난 세상] 언젠가부터 K드라마에서 멜로가 시들해진 건 여러 가지 이유가 겹쳐 있어서다. 먼저 여주인공이 너무 천편일률적이었다. 캔디거나 신데렐라거나 혹은 그 변주 어디쯤에 있는 캐릭터들이 대부분이라 "아직도 저래?"하며 채널이 돌아가곤 했던 것. 게다가 남자주인공들도 잘 생기고 잘 나가는 것으로 뭇 여성들을 무조건 설레게 만든다는]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['지우학' 윤찬영, 미드 '존경하는 재판장님' 한국판 출연]]></title>
-        <id>https://v.daum.net/v/20230216114318886</id>
-        <link href="https://v.daum.net/v/20230216114318886"/>
-        <updated>2023-02-16T03:15:46.057Z</updated>
-        <content type="html"><![CDATA[배우 윤찬영이 미국 드라마 '존경하는 재판장님' 한국판에 출연한다. 16일 iMBC연예 취재 결과 윤찬영은 '존경하는 재판장님'(연출 표민수)에 주연 캐스팅을 제안받고 긍정 검토 중이다. '존경하는 재판장님'은 동명의 미국 인기 시리즈 '존경하는 재판장님(유어 아너, Your Honor)' 원작 이스라엘 드라마 '크보도(Kvodo)'의 한국판이다. 존]]></content>
     </entry>
 </feed>
