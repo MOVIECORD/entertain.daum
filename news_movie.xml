@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-02-17T07:11:40.575Z</updated>
+    <updated>2023-02-17T08:15:56.071Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[우리 사랑은, 삶은 아름답기에..‘그대 어이가리’]]></title>
+        <id>https://v.daum.net/v/20230217165703948</id>
+        <link href="https://v.daum.net/v/20230217165703948"/>
+        <updated>2023-02-17T08:15:35.896Z</updated>
+        <content type="html"><![CDATA[‘당신, 참말로 고마웠어요.’ 인생의 마지막을 앞둔 노부부를 통해 인간이라면 고민할 수 밖에 없는 ‘삶과 죽음’에 대해 돌이켜보는 이야기다. 다큐멘터리 못지 않은 리얼한 연출, 덤덤함으로 묵직한 울림을 선사한다. 세계인을 뜨겁게 울린 이창열 감독의 영화, ‘그대 어이가리’다. 30년 넘게 남편 ‘동혁’과 가족들을 위해 살아온 아내 ‘연희’. 국악인으로 전국]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘카운트’ 진선규→장동주, ‘아는형님’ 출격‥유쾌한 사제 케미 예고]]></title>
+        <id>https://v.daum.net/v/20230217162203191</id>
+        <link href="https://v.daum.net/v/20230217162203191"/>
+        <updated>2023-02-17T08:15:35.897Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 배효주 기자] '카운트' 주역 진선규, 성유빈, 고창석, 장동주가 '아는 형님'에 출동한다. 2월 22일 개봉하는 영화 '카운트'(감독 권혁재)는 금메달리스트 출신, 한번 물면 절대 놓지 않는 마이웨이 선생 ‘시헌’(진선규)이 오합지졸 핵아싸 제자들을 만나 세상을 향해 유쾌한 한 방을 날리는 이야기를 그린 작품이다. 영화의 주역인 진선규, 성유빈]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[마블·아바타·스타워즈 … 할리우드도 세계관 확장 경쟁]]></title>
         <id>https://v.daum.net/v/20230217160001548</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230217143030670"/>
         <updated>2023-02-17T06:15:23.685Z</updated>
         <content type="html"><![CDATA[[TV리포트=이수연 기자] 마블 영화 '앤트맨과 와스프: 퀀텀매니아'가 상영 중인 가운데 타노스에 대적할 만한 빌런 정복자 캉의 등장에 이목이 쏠리고 있다. 지난해 7월 마블 스튜디오는 샌디에이고에서 개최된 코믹콘에서 '어벤져스' 시리즈의 다섯 번째 작품인 '어벤져스: 캉 다이너스티'(이하 '어벤져스 5')를 발표한 바 있다. 영화 제목에서 알 수 있듯 ']]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이틀 연속 1위 ‘앤트맨3’‥케빈 파이기 “특별한 시도, 확신했다”]]></title>
-        <id>https://v.daum.net/v/20230217142757559</id>
-        <link href="https://v.daum.net/v/20230217142757559"/>
-        <updated>2023-02-17T06:15:23.685Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 배효주 기자] '앤트맨과 와스프: 퀀텀매니아'가 이틀 연속 박스오피스 1위를 차지했다. 영화 '앤트맨과 와스프: 퀀텀매니아'(감독 페이튼 리드)는 미지의 세계 ‘양자 영역’에 빠져버린 ‘앤트맨 패밀리’가 MCU 사상 가장 강력한 빌런이자 무한한 우주를 다스리는 정복자 ‘캉’을 마주하며 시공간을 초월한 최악의 위협에 맞서는 2023년 첫 마블 블록]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이주영, 칸→베를린 영화제 2년 연속 글로벌 행보]]></title>
-        <id>https://v.daum.net/v/20230217142049315</id>
-        <link href="https://v.daum.net/v/20230217142049315"/>
-        <updated>2023-02-17T06:15:23.685Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 박아름 기자] 이주영이 주연작 ‘그린 나이트’로 베를린에 간다. 영화 ‘그린 나이트(GREEN NIGHT)’(감독 한슈아이)가 ‘제73회 베를린국제영화제’(이하 ‘베를린영화제’) 파노라마 부문에 진출, 주연 배우 이주영은 영화제 공식 초청을 받아 2월 21일 독일 베를린으로 출국한다. 이로써 이주영은 지난해 영화 ‘브로커’(감독 고레에다 히로카즈]]></content>
     </entry>
 </feed>
