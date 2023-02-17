@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-02-17T06:15:43.631Z</updated>
+    <updated>2023-02-17T07:11:40.579Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[셀레나 고메즈 “살 쪘다고? 루푸스 약 때문..나는 모델이 아니다”]]></title>
+        <id>https://v.daum.net/v/20230217152125484</id>
+        <link href="https://v.daum.net/v/20230217152125484"/>
+        <updated>2023-02-17T07:11:39.928Z</updated>
+        <content type="html"><![CDATA[[OSEN=지민경 기자] 팝스타 셀레나 고메즈가 최근 불어난 몸무게로 비판을 받았던 것에 대한 자신의 생각을 밝혔다. 16일(현지 시간) 미국 매체 엔터테인먼트 투나잇 보도에 따르면 셀레나 고메즈는 이날 라이브 방송을 통해 최근 골든 글로브 시상식 참석 후 쏟아진 살쪘다는 악플에 대해 루푸스로 인한 약 복용 때문이라고 밝혔다. 그는 “나는 수분으로 인한]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[폴 러드 계약은 3편까지...'앤트맨4' 안 나올 가능성↑]]></title>
         <id>https://v.daum.net/v/20230217150030859</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230217075934070"/>
         <updated>2023-02-16T23:13:04.035Z</updated>
         <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]19살 모델과 열애설로 대중의 비난을 받은 할리우드 스타 레오나르도 디카프리오(48)가 비난을 의식한 듯 여자를 멀리하고 있다. 메일리메일은 15일(현지시간) “디카프리오가 14일 LA 클리퍼스 경기를 관람했다”면서 “경기가 끝난 후 남자들과 어울렸다”고 보도했다. 이 매체는 “그는 이스라엘 출신의 19살 모델 에덴 폴라니]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['실어증 은퇴' 브루스 윌리스, 치매였다…가족 발표 "명확한 진단 받게돼 다행"]]></title>
-        <id>https://v.daum.net/v/20230217072837634</id>
-        <link href="https://v.daum.net/v/20230217072837634"/>
-        <updated>2023-02-16T23:13:04.037Z</updated>
-        <content type="html"><![CDATA[[스포츠조선 고재완 기자] 할리우드 스타 브루스 윌리스가 결국 치매 진단을 받았다. 윌리스의 가족들은 17일(한국 시각) 윌리스의 최근 진단에 대한 성명을 발표했다. 윌리스는 현재 전두측두엽 치매 판정을 받았다. 이들은 "2022년 봄에 윌리스의 실어증 진단을 발표한 이후 그의 상태는 더욱 악화돼 이제 전두측두엽 치매(FTD)라는 보다 구체적]]></content>
     </entry>
 </feed>
