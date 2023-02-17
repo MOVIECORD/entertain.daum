@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-02-17T04:14:45.412Z</updated>
+    <updated>2023-02-17T05:11:47.079Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['앤트맨3' 에반젤린 릴리 "'엑스맨'·'원더우먼' 출연 거절했었어"]]></title>
+        <id>https://v.daum.net/v/20230217141111951</id>
+        <link href="https://v.daum.net/v/20230217141111951"/>
+        <updated>2023-02-17T05:11:46.398Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 이창규 기자) 할리우드 배우 에반젤린 릴리가 '엑스맨' 시리즈와 DC 확장 유니버스(DCEU)의 '원더우먼'과 관련된 비하인드를 공개했다. 지난 15일(현지시간) 조쉬 허로위츠의 팟캐스트 '해피 새드 컨퓨드즈'에 출연한 에반젤린 릴리는 '엑스맨'을 비롯해 '원더우먼'에 대한 비화를 밝혔다. 이날 에반젤린 릴리는&nbsp;'원더우먼'의 출연과 관련해 조]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“넷째 낳고 매우 흥분, 환상적인 나날” 라이언 레이놀즈 부부 대만족]]></title>
+        <id>https://v.daum.net/v/20230217133928056</id>
+        <link href="https://v.daum.net/v/20230217133928056"/>
+        <updated>2023-02-17T05:11:46.399Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]할리우드 잉꼬부부 라이언 레이놀즈(46)와 블레이크 라이블리(35)가 넷째를 낳은 이후 행복한 일상을 전했다. 페이지식스는 16일(현지시간) “레이놀즈와 라이블리 부부는 신생아에 대해 매우 흥분하고 있다”고 보도했다. 레이놀즈는 “우리가 좋아하지 않았다면 이런 일을 네 번 하지 않았을 것”이라고 말했다. 이어 “모두 잘 지]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['다이하드' 브루스 윌리스, 실어증 1년 만에 치매 판정]]></title>
         <id>https://v.daum.net/v/20230217111332609</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230216222530994"/>
         <updated>2023-02-16T14:11:52.974Z</updated>
         <content type="html"><![CDATA[[TV리포트=이수연 기자] 마블이 페이즈 4에서 벌인 실수를 바로잡고자 한다. 2019년 디즈니+의 출시는 마블 스튜디오가 관객들과 만날 수 있는 새로운 길을 열였고 디즈니는 이를 통해 더 많은 이야기를 제작했다. 특히 페이즈 4의 대다수는 디즈니+를 통해 공개됐을 정도로 스트리밍 서비스는 디즈니의 전체 계획에서 큰 역할을 했다. 하지만 매년 늘어나는 마]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[14조 수익 낸 '해리포터' 12년만에 새 시리즈?.."'저주받은 아이' 영화화"]]></title>
-        <id>https://v.daum.net/v/20230216200854134</id>
-        <link href="https://v.daum.net/v/20230216200854134"/>
-        <updated>2023-02-16T11:10:57.278Z</updated>
-        <content type="html"><![CDATA[[OSEN=박소영 기자] 영화 ‘해리포터’의 새 시리즈 제작설이 불거졌다. 15일(현지시각) 외신 보도에 따르면 워너브라더스 스튜디오의 고위 경영진은 ‘해리포터와 저주받은 아이’ 영화화 계획을 꾸리고 있다. 이 작품은 지난 몇 년간 런던과 멜버른 등에서 연극으로 제작돼 관객들을 만났다. 한 소식통은 “연극 ‘해리포터와 저주받은 아이’가 런던 웨스트엔드에]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘크리스 록 폭행’ 윌 스미스, ‘나는 전설이다2’로 복귀]]></title>
-        <id>https://v.daum.net/v/20230216191638091</id>
-        <link href="https://v.daum.net/v/20230216191638091"/>
-        <updated>2023-02-16T11:10:57.279Z</updated>
-        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]지난해 제94회 아카데미 시상식에서 크리스 록(58)을 폭행해 파문을 일으킨 배우 윌 스미스(54)가 ‘나는 전설이다2’로 복귀한다. 그는 속편에서 ‘블랙팬서’에 출연했던 마이클 B. 조던과 함께 공동 주연을 맡을 예정이다. 2007년 제작된 ‘나는 전설이다’는 전 인류가 멸망하고 인간들이 식인성 돌연변이체로 변한 가운데]]></content>
     </entry>
 </feed>
