@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-02-17T12:23:19.037Z</updated>
+    <updated>2023-02-17T13:21:14.838Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[첫방 '모범택시2' 이제훈, 죄수복 입고 등장···복근에 이두까지 공개]]></title>
+        <id>https://v.daum.net/v/20230217221511145</id>
+        <link href="https://v.daum.net/v/20230217221511145"/>
+        <updated>2023-02-17T13:20:38.399Z</updated>
+        <content type="html"><![CDATA[[OSEN=오세진 기자] ‘모범택시2’ 이제훈이 교도소에서 사적 복수를 시작했다. 17일 첫 방영된 SBS 금토드라마 ‘모범택시2’(제작 스튜디오S·그룹에이트, 극본 오상호, 연출 이단)에서는 '김도기'(이제훈 분)가 아닌 '5283'으로 불리면서 나타났다. 그는 제련이라도 한 듯 칼 같은 상체 탈의 신을 선보여 압도적인 시즌2 시작을 알리기도 했다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[송혜교 母 서사→박성훈 노출…'더 글로리' 파트2, 지옥행 시작]]></title>
         <id>https://v.daum.net/v/20230217211002411</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230217171441457"/>
         <updated>2023-02-17T08:15:40.866Z</updated>
         <content type="html"><![CDATA[[스타뉴스 김미화 기자] 이승기, 이다인 /사진=스타뉴스 중견 배우 견미리가 예비 사위 이승기와 딸 이다인을 위해 나섰다. 견미리는 17일 각종 의혹에 대한 공식입장을 밝힘과 동시에 13년 만에 인터뷰를 진행하며 해명을 전했다. 견미리와 소속사 위너스미디어의 법률대리인 법무법인 대호는 17일 오전 공식입장을 내고 견미리 가족을 둘러싼 의혹에 대한 입장을]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['더 글로리' 시즌2 숨멎 모먼트…명오야 살아있니?]]></title>
-        <id>https://v.daum.net/v/20230217170815270</id>
-        <link href="https://v.daum.net/v/20230217170815270"/>
-        <updated>2023-02-17T08:15:40.867Z</updated>
-        <content type="html"><![CDATA[아이즈 ize 한수진 기자"시즌2, 파멸해가는 과정에서 카타르시스를 느낄 수 있을 것."눈시울이 붉어진 동은(송혜교), 기겁한 모습의&nbsp;연진(임지연), 죽은 줄 알았던 명오(김건우)의 모습까지. 내달 10일 오픈을&nbsp;앞둔 넷플릭스 인기 시리즈 '더 글로리'(극본 김은숙, 연출 안길호)가 시즌2에 담길 스틸컷을 공개했다. 카타르시스를 예고한 안길호 감독의 발언도]]></content>
     </entry>
 </feed>
