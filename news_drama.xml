@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-02-17T09:13:00.300Z</updated>
+    <updated>2023-02-17T10:13:14.977Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[운행 시작 ‘모범택시2’….케미 폭발→’포복절도’ 제작발표회]]></title>
+        <id>https://v.daum.net/v/20230217190723660</id>
+        <link href="https://v.daum.net/v/20230217190723660"/>
+        <updated>2023-02-17T10:12:58.124Z</updated>
+        <content type="html"><![CDATA[[OSEN=유수연 기자] 출연진들의 폭발하는 케미로 ‘모범택시2’ 제작발표회 현장에서는 기분 좋은 웃음이 끊이질 않았다. 17일 오후 서울 양천구 SBS 목동 사옥에서 SBS 드라마 ‘모범택시2’ 제작발표회가 진행된 가운데, 이단 감독과 배우 이제훈, 김의성, 표예진, 장혁진, 배유람, 신재하가 참석했다. 이들의 케미는 시작부터 심상치 않았다. 본격적인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['우리가 사랑했던 모든 것' 조준영, '스피릿 핑거스' 주인공 발탁]]></title>
         <id>https://v.daum.net/v/20230217175402419</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230217154720249"/>
         <updated>2023-02-17T07:11:24.244Z</updated>
         <content type="html"><![CDATA[[OSEN=유수연 기자]&nbsp;‘모범택시2’ 이제훈이 캐릭터 준비를 위해 노력한 점을 언급했다. 17일 오후 서울 양천구 SBS 목동 사옥에서 SBS 드라마 ‘모범택시2’ 제작발표회가 진행된 가운데, 프로그램을 연출한 이단 감독과 배우 이제훈, 김의성, 표예진, 장혁진, 배유람, 신재하가 참석했다. 동명의 웹툰을 원작으로 한 '모범택시' 시리즈는 악당을 사냥]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[갓도기의 귀환…이제훈→신재하 ‘모범택시2’ 운행 재개]]></title>
-        <id>https://v.daum.net/v/20230217154353144</id>
-        <link href="https://v.daum.net/v/20230217154353144"/>
-        <updated>2023-02-17T07:11:24.244Z</updated>
-        <content type="html"><![CDATA[‘모범택시’가 악당을 향한 강력해진 복수를 위한 운행을 재개한다. SBS ‘모범택시2’ 제작발표회가 17일 오후 서울시 양천구 SBS에서 진행됐다. 이날 현장에는 이단 PD를 비롯해 배우 이제훈, 김의성, 표예진, 장혁진, 배유람, 신재하가 참석했다. ‘모범택시2’는 베일에 가려진 택시회사 무지개 운수와 택시 기사 김도기(이제훈)가 억울한 피해자를 대]]></content>
     </entry>
 </feed>
