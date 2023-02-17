@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-02-17T16:16:21.365Z</updated>
+    <updated>2023-02-17T17:11:50.024Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[첫방 '모범택시2' 이제훈, 해외까지 나가다→시즌1에 이은 박진감]]></title>
+        <id>https://v.daum.net/v/20230218011920030</id>
+        <link href="https://v.daum.net/v/20230218011920030"/>
+        <updated>2023-02-17T17:11:34.581Z</updated>
+        <content type="html"><![CDATA[[OSEN=오세진 기자] ‘모범택시2’ 시즌1의 명성을 시즌2도 그대로 이을 듯하다. 17일 첫 방영된 SBS 금토드라마 ‘모범택시2’(제작 스튜디오S·그룹에이트, 극본 오상호, 연출 이단)에서는 헤어진 지 2년 후의 이야기가 그려졌다. 장성철(김의성 분)은&nbsp;“여러분 덕에 시작했고, 여러분 덕에 멈출 수 있었다. 자기 자리로 돌아갈 수 있는 사람도 있고]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['모범택시2' 이제훈, 도박 조직에 납치→복수 각오한 심소영]]></title>
         <id>https://v.daum.net/v/20230218000015662</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230217190723660"/>
         <updated>2023-02-17T10:12:58.124Z</updated>
         <content type="html"><![CDATA[[OSEN=유수연 기자] 출연진들의 폭발하는 케미로 ‘모범택시2’ 제작발표회 현장에서는 기분 좋은 웃음이 끊이질 않았다. 17일 오후 서울 양천구 SBS 목동 사옥에서 SBS 드라마 ‘모범택시2’ 제작발표회가 진행된 가운데, 이단 감독과 배우 이제훈, 김의성, 표예진, 장혁진, 배유람, 신재하가 참석했다. 이들의 케미는 시작부터 심상치 않았다. 본격적인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['우리가 사랑했던 모든 것' 조준영, '스피릿 핑거스' 주인공 발탁]]></title>
-        <id>https://v.daum.net/v/20230217175402419</id>
-        <link href="https://v.daum.net/v/20230217175402419"/>
-        <updated>2023-02-17T09:12:44.546Z</updated>
-        <content type="html"><![CDATA[배우 조준영이 인기 동명 웹툰을 원작으로 한 드라마 '스피릿 핑거스' 주인공을 맡는다. 17일 한경닷컴 취재에&nbsp;다르면 조준영은 새 드라마 '스피릿 핑거스'의 주인공 '남기정'을 연기한다. 앞서 티빙 '우리가 사랑했던 모든 것'의 주인공으로 발탁돼 기대를 모았던 조준영은 '만찢남(만화를 찢고 나온 듯한 남자)' 청춘스타로서 활약을 이어간다. '스피릿 핑거스]]></content>
     </entry>
 </feed>
