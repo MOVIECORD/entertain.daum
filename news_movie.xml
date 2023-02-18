@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-02-18T06:14:59.758Z</updated>
+    <updated>2023-02-18T07:11:19.960Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['베를린 行' 전도연 "배우·엄마 모습 공존, '길복순'에 녹아있어"]]></title>
+        <id>https://v.daum.net/v/20230218155615171</id>
+        <link href="https://v.daum.net/v/20230218155615171"/>
+        <updated>2023-02-18T07:10:57.673Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 김나연 기자] 길복순 / 사진=넷플릭스배우 전도연이 '길복순'을 통해 베를린영화제에 참석한 가운데, 외신과 인터뷰를 진행했다. 17일(현지시간) 할리우드 리포터는 전도연과 인터뷰를 진행했다. 할리우드 리포터는 "한국 영화계에서 전도연은 대스타이면서 존경받는 배우다. 25년이 넘는 세월 동안 한국 드라마와 20편이 넘는 영화에 출연했다. 이제는]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[어디에나 녹아드는 이동휘의 개성]]></title>
         <id>https://v.daum.net/v/20230218140137390</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230218100008330"/>
         <updated>2023-02-18T02:18:33.828Z</updated>
         <content type="html"><![CDATA[[스타뉴스 김나연 기자] 배우 배두나가 2일 오후 서울 종로구 소격동의 한 카페에서 진행된 영화 '다음 소희' 개봉 관련 인터뷰를 위해 포즈를 취하고 있다.  배두나는 극 중 소희의 사건을 되짚어 나가는 복직한 형사 유진 역을 맡았다.  '다음 소희'는 당찬 열여덟 고등학생 소희(김시은 분)가 현장실습에 나가면서 겪게 되는 사건과 이를 조사하던 형사 유진(]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['개' 귀엽긴 한데..'멍뭉이']]></title>
-        <id>https://v.daum.net/v/20230218100004316</id>
-        <link href="https://v.daum.net/v/20230218100004316"/>
-        <updated>2023-02-18T02:18:33.830Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 김나연 기자] [편집자주] 영화를 보는 김나연 기자의 사적인 시선. 사진='멍뭉이' 스틸컷명확한 목적지를 향해 잘 향해가는 듯하다가도 종종 방지턱에 걸려 덜컹거리고 만다. 웃음도, 눈물도 있는데 어딘가 2% 부족하다. 장점도, 단점도 분명한 영화 '멍뭉이'다. '멍뭉이'는 집사 인생 조기 로그아웃 위기에 처한 민수(유연석 분)와 인생 자체가]]></content>
     </entry>
 </feed>
