@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-02-18T07:11:19.958Z</updated>
+    <updated>2023-02-18T08:14:22.010Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['빨간풍선' 서지혜∙이상우, 술자리 폭발..제작진 "전혀 예상 못한 국면으로"]]></title>
+        <id>https://v.daum.net/v/20230218165023019</id>
+        <link href="https://v.daum.net/v/20230218165023019"/>
+        <updated>2023-02-18T08:14:05.118Z</updated>
+        <content type="html"><![CDATA[[OSEN=최나영 기자]&nbsp;“끝까지 가보고 싶다던 조은강,&nbsp;한계에 도달했다?!” TV CHOSUN&nbsp;주말미니시리즈&nbsp;‘빨간 풍선’&nbsp;서지혜와 이상우가 감정의 냉온차를 넘나드는&nbsp;‘술자리 폭발 투샷’으로 아슬아슬한 분위기를 드리운다. TV CHOSUN&nbsp;주말미니시리즈&nbsp;‘빨간 풍선’(극본 문영남/연출 진형욱/제작 초록뱀 미디어,&nbsp;하이그라운드)은 우리 모두가 시달리는]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['더 글로리' 송혜교, 벽에 붙인 학폭 친구들 사진 다 뗐다…임지연?]]></title>
+        <id>https://v.daum.net/v/20230218161303420</id>
+        <link href="https://v.daum.net/v/20230218161303420"/>
+        <updated>2023-02-18T08:14:05.118Z</updated>
+        <content type="html"><![CDATA[[OSEN=김보라 기자]&nbsp;‘더 글로리’ 송혜교가 벽에 붙였던 학폭 가해자들의 사진을 모두 떼어버렸다. 파트1 엔딩에서 연진(임지연 분)이 동은(송혜교 분)의 집에 몰래 쳐들어가 벽을 발견했던 만큼, 그녀가 벌인 짓일 수도 있다. 스틸 사진 한 장만으로도 여러 가지 추측과 상상을 해볼 수 있기 때문에 드라마를 기다리는 시청자들은 “3월이 오기만 기다리고]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[차태현, ♥곽선영과 이별…사직서 제출]]></title>
         <id>https://v.daum.net/v/20230218155503167</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230218120402544"/>
         <updated>2023-02-18T03:12:53.536Z</updated>
         <content type="html"><![CDATA[[마이데일리 = 박서연 기자] ‘빨간 풍선’ 서지혜가 홍수현과 똑같은 모습으로 파격 변신한다. 종합편성채널 TV조선 주말미니시리즈 ‘빨간 풍선’(극본 문영남 연출 진형욱) 16회에서는 조은강(서지혜)이 무시당하고 짓밟히자 다시 서늘하게 흑화하며 긴장감을 높였다. 고물상(윤주상)에게 “내 아들 욕심내지 말어. 넌 함량미달이여”라는 독설을 들은 조은강은 싸늘]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[정수빈, '트롤리'로 얻은 연기의 해답]]></title>
-        <id>https://v.daum.net/v/20230218114701420</id>
-        <link href="https://v.daum.net/v/20230218114701420"/>
-        <updated>2023-02-18T03:12:53.555Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 최혜진 기자] 2023.02.07 배우 정수빈 인터뷰 /사진=이동훈 기자 photoguy@무거운 소재를 다룬 SBS 월화드라마 '트롤리'는 배우 정수빈에게 큰 과제였다. 작품 출연에도 큰 용기가 필요했고 임신, 유산에 대해 연기를 할 때도 신중함이 필요했다. 이에 매 순간 연기에 대한 고민을 해야 했던 정수빈은 작품을 통해 그 해답을 찾아냈다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[전도연, 정경호 품에 쏙…본격 쌍방 로맨스에 달달 치사량]]></title>
-        <id>https://v.daum.net/v/20230218112753264</id>
-        <link href="https://v.daum.net/v/20230218112753264"/>
-        <updated>2023-02-18T03:12:53.556Z</updated>
-        <content type="html"><![CDATA[[마이데일리 = 박서연 기자] ‘일타 스캔들’ 전도연과 정경호가 진한 포옹으로 쌍방 로맨스의 시작을 알린다. 18일 오후 9시 10분 방송되는 케이블채널 tvN 토일드라마 ‘일타 스캔들’(극본 양희승 연출 유제원)이 전도연과 정경호의 애틋한 로맨틱 모멘트를 포착해 이목을 집중시킨다. 둘 사이를 가로막았던 큰 장벽을 무너뜨린 전도연과 정경호의 로맨틱 케미가]]></content>
     </entry>
 </feed>

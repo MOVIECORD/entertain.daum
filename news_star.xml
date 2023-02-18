@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2023-02-18T07:11:19.961Z</updated>
+    <updated>2023-02-18T08:14:22.014Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['4세대 메타돌' 메이브, 하이엔드 비주얼…화제성 치트키 입증]]></title>
+        <id>https://v.daum.net/v/20230218170905278</id>
+        <link href="https://v.daum.net/v/20230218170905278"/>
+        <updated>2023-02-18T08:14:16.136Z</updated>
+        <content type="html"><![CDATA[[OSEN=장우영 기자] 글로벌 메타 아이돌 MAVE: (메이브)가 하이엔드급 비주얼과 퍼포먼스로 눈도장을 찍었다. MAVE: (메이브, 시우·제나·타이라·마티)는 18일 방송된 MBC 음악 프로그램 ‘쇼! 음악중심’에 출연해 첫 번째 싱글 앨범의 타이틀곡 ‘PANDORA’(판도라)로 특별한 무대를 선보였다. 이날 MAVE: (메이브)는 3주 만에 재출]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['미스터트롯2' 최수호, 新 트롯 스타 탄생]]></title>
+        <id>https://v.daum.net/v/20230218164207894</id>
+        <link href="https://v.daum.net/v/20230218164207894"/>
+        <updated>2023-02-18T08:14:16.136Z</updated>
+        <content type="html"><![CDATA[[티브이데일리 김한길 기자] '트롯 밀크남' 최수호가 '미스터트롯2' 본선 2차에 이어 3차까지 진(眞)에 등극했다. 그야말로 트롯계 새로운 스타의 탄생이다. 16일 밤 방송된 TV CHOSUN 트롯 오디션 프로그램'미스터트롯2-새로운 전설의 시작'(이하 '미스터트롯2')에서는 본선 3차 메들리 팀미션의 2라운드, 각 팀 대장들의 자존심을 건 진검승부 대]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[박애리, 3중 추돌사고 피해..♥팝핀현준 심장이 "벌렁"]]></title>
         <id>https://v.daum.net/v/20230218161016374</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230218130004891"/>
         <updated>2023-02-18T05:11:25.658Z</updated>
         <content type="html"><![CDATA[최고의 팝스타 샘 스미스의 ‘파격 행보’에 전 세계 팬들의 이목이 집중되고 있다. 샘 스미스는 지난 11일(현지시간) 영국 런던 O2 아레나에서 열린 ‘제43회 브릿 어워즈 2023’레드카펫에서 검정색의 라텍스 의상을 입고 등장했다. 마치 풍선을 입은 것처럼 어깨가 돋보이는 패션으로, 당시 사진과 영상이 공개되자 “충격적”이라는 반응이 줄을 이었다. 의]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[만족감 선사한 '모범택시2'... 첫 회부터 가속 페달 밟다]]></title>
-        <id>https://v.daum.net/v/20230218125100854</id>
-        <link href="https://v.daum.net/v/20230218125100854"/>
-        <updated>2023-02-18T05:11:25.658Z</updated>
-        <content type="html"><![CDATA[[김상화 기자] ▲ &nbsp;지난 17일 첫 방영된 SBS '모범택시2'의 한 장면ⓒ SBS&nbsp; "5283 운행 시작합니다." 지난 2021년 뜨거운 사랑을 받았던 SBS 금토드라마 &lt;모범택시&gt;가 시즌2로 돌아왔다. 지난 17일 오후 첫 방영된 &lt;모범택시2&gt;는 전작에 이어 이제훈, 김의성, 표예진, 장혁진, 배유람 등 기존 무지개운수 식구들이 다시 모이면서 틀을 마]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이거지!…'모범택시2' 이제훈, '갓도기'의 귀환을 기다린 이유]]></title>
-        <id>https://v.daum.net/v/20230218122559720</id>
-        <link href="https://v.daum.net/v/20230218122559720"/>
-        <updated>2023-02-18T05:11:25.659Z</updated>
-        <content type="html"><![CDATA[[스포티비뉴스=장진리 기자] 배우 이제훈이 '갓도기'로 돌아왔다. 시즌1에 이어 시즌2로 '모범택시'가 재운행하면서, 막힌 속까지 뚫어주는 이제훈의 활약이 다시 본격적으로 시작됐다. '모범택시'는 베일에 가려진 택시회사 무지개 운수와 택시기사 김도기가 억울한 피해자를 대신해 복수를 완성하는 사적 복수 대행극을 그린다. 2021년 방송돼 SBS 역대]]></content>
     </entry>
 </feed>
