@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-02-18T09:11:19.488Z</updated>
+    <updated>2023-02-18T10:12:13.149Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['앤트맨3' 개봉 첫 주말 북미 수익 1억 달러 전망…2편 기록 넘을까]]></title>
+        <id>https://v.daum.net/v/20230218185200346</id>
+        <link href="https://v.daum.net/v/20230218185200346"/>
+        <updated>2023-02-18T10:11:49.999Z</updated>
+        <content type="html"><![CDATA[[OSEN=김보라 기자]&nbsp;마블영화 ‘앤트맨과 와스프: 퀀텀매니아’가 개봉 첫 주말 북미에서 약 1억 달러(1300억 원)의 수익을 낼 것으로 전망된다. 17일(현지 시간) 미국 영화매체들은 “‘앤트맨3’가 개봉 첫 주말 국내에서 9500만 달러에서 1억 달러를 벌어들일 것으로 예상된다”고 보도했다. ‘앤트맨과 와스프: 퀀텀매니아’(감독 페이튼 리드, 수]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['첫 퀴어영화'… 日 멜로거장의 색다른 도전]]></title>
         <id>https://v.daum.net/v/20230218180024823</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230218100615468"/>
         <updated>2023-02-18T02:18:33.825Z</updated>
         <content type="html"><![CDATA[[스타뉴스 김나연 기자] 홍상수 김민희 / 사진=/AFPBBNews=뉴스1=스타뉴스베를린국제영화제가 개막한 가운데 한국의 스타들도 베를린으로 향했다. 홍상수 감독의 29번째 작품인 '물안에서'가 16일 개막한 제73회 베를린국제영화제 인카운터(ENCOUNTERS)부문에 공식 초청됐다. 인카운터 부문은 새로운 영화적 비전을 보여주기 위해 2022년에 신설]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[리암 니슨 '스타워즈' 스핀오프들 혹평 "너무多..미스터리∙마법 빼앗아"]]></title>
-        <id>https://v.daum.net/v/20230218100422438</id>
-        <link href="https://v.daum.net/v/20230218100422438"/>
-        <updated>2023-02-18T02:18:33.826Z</updated>
-        <content type="html"><![CDATA[[OSEN=최나영 기자] 배우 리암 니슨(70)이 프랜차이즈 '스타워즈'의 스핀오프들을 혹평했다. 리암 니슨은 디즈니가 최근 몇 년 동안 '만들어온 '스타워즈'의 모든 스핀오프에 만족하지 않는다. 니슨은 최근' Watch What Happens Live with host Andy Cohen'에 출연, "스타워즈의 스핀오프가 너무 많다"라고 언급했다. 이]]></content>
     </entry>
 </feed>
