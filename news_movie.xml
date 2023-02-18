@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-02-18T22:10:58.498Z</updated>
+    <updated>2023-02-18T23:11:34.091Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['앤트맨과 와스프: 퀀텀매니아' 4일째 독보적 1위…개봉 첫 주말 장악]]></title>
+        <id>https://v.daum.net/v/20230219075234731</id>
+        <link href="https://v.daum.net/v/20230219075234731"/>
+        <updated>2023-02-18T23:11:12.193Z</updated>
+        <content type="html"><![CDATA[[스포츠한국 조은애 기자] '앤트맨과 와스프: 퀀텀매니아'가 4일 연속 흥행 선두를 달리고 있다. 19일 영진위 통합전산망 집계에 따르면 '앤트맨과 와스프: 퀀텀매니아'는 전날&nbsp;25만9178명의 관객을 모아 박스오피스 1위를 차지했다. 누적 관객 수는&nbsp;64만8814명이다. '앤트맨과 와스프: 퀀텀매니아'는 마블 페이즈5를 여는 작품으로 미지의 세]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[봉준호·박찬욱·황동혁, 월드 클래스 韓 감독들 근황은]]></title>
         <id>https://v.daum.net/v/20230219070029279</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230218111522164"/>
         <updated>2023-02-18T02:18:33.814Z</updated>
         <content type="html"><![CDATA[[OSEN=김보라 기자] '아임 히어로 더 파이널' 측이 영화 속 임영웅의 다채로운 모습을 담은 스틸사진을 공개했다. 18일 공개된 스틸 컷에서는 화려한 무대 위 임영웅의 공연뿐만 아니라, 하늘색 불빛을 손에 들고 고척스카이돔을 빼곡히 채운 2만여 명의 관객들과 완벽히 호흡을 맞추는 벅찬 순간을 엿볼 수 있다. 무대 위 대형 스크린에는 팬들의 환호에 응]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['멍뭉이' 김주환 감독 "미장센보다 강아지 안전이 더 중요"]]></title>
-        <id>https://v.daum.net/v/20230218110012004</id>
-        <link href="https://v.daum.net/v/20230218110012004"/>
-        <updated>2023-02-18T02:18:33.825Z</updated>
-        <content type="html"><![CDATA[(서울=연합뉴스) 김정진 기자 = 영화 '멍뭉이'의 시작은 김주환 감독의 반려견 루니와 레이였다. 김 감독은 10여 년을 함께하다 세상을 떠난 두 강아지를 생각하며 시나리오를 집필했다. 자매였던 루니와 레이는 주인공 민수(유연석 분)가 오랫동안 함께했던 반려견, 진국(차태현)이 작은아버지로부터 돌봄을 부탁받은 강아지의 이름으로 각각 영화 속에 남게 됐다.]]></content>
     </entry>
 </feed>
