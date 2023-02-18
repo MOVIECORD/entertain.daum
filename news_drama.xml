@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-02-18T15:11:42.799Z</updated>
+    <updated>2023-02-18T16:14:36.147Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['모범택시2' 경찰 박성근, 불법 조직 회장..총격 사망 '충격']]></title>
+        <id>https://v.daum.net/v/20230219004334944</id>
+        <link href="https://v.daum.net/v/20230219004334944"/>
+        <updated>2023-02-18T16:14:19.852Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 정은채 인턴기자] /사진='모범택시2' 방송화면 캡쳐 '모범택시2' 해외 불법 도박 조직의 회장이 표예진의 경찰 상사 박성근이었다. 18일 방송된 SBS 금토드라마 '모범택시2'에서는 김도기(이제훈 분)가 의뢰 받은 사건을 해결하기 위해 해외 불법 도박 사이트 운영조직에 잠입했다가 조직원들에 의해 감금되는 장면이 그려졌다. 방에서 몰래 탈]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이보영, 장현성 배신에 '충격'→손나은·한준우 결국 이별]]></title>
         <id>https://v.daum.net/v/20230219000202824</id>
@@ -87,7 +94,7 @@
         <id>https://v.daum.net/v/20230218230830543</id>
         <link href="https://v.daum.net/v/20230218230830543"/>
         <updated>2023-02-18T14:10:08.028Z</updated>
-        <content type="html"><![CDATA[[TV리포트=이혜미 기자] 이제훈과 표예진이 무지개 운수로 다시 뭉쳤다. 18일 SBS ‘모범택시2’에선 취업 사기에 휘말린 실종 남성을 찾고자 나선 도기(이제훈 분)와 고은(표예진 분)의 공조가 그려졌다. 이날 도기는 해외 불법도박 사이트를 운영 중인 조직을 소탕하고자 인질을 자처한 바. 그런데 안경에 설치된 카메라를 통해 상황을 지켜보던 고은은 조직을]]></content>
+        <content type="html"><![CDATA[[TV리포트=이혜미 기자] 이제훈과 표예진이 무지개 운수로 다시 뭉쳤다. 18일 SBS ‘모범택시2’에선 취업 사기에 휘말린 실종 남성을 찾고자 나선 도기(이제훈 분)와 고은(표예진 분)의 공조가 그려졌다. 이날 도기는 해외 불법도박 사이트를 운영 중인 조직을 소탕하고자 미끼를 자처한 바. 그런데 안경에 설치된 카메라를 통해 상황을 지켜보던 고은은 조직을]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA['모범택시2' 해외불법도박 대표=경찰 간부, 이제훈 총에 죽었다→표예진 사표, 신재하 합류]]></title>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230218225050433"/>
         <updated>2023-02-18T14:10:08.031Z</updated>
         <content type="html"><![CDATA[[스타뉴스 정은채 인턴기자] /사진='모범택시2' 방송화면 캡쳐 '모범택시2' 이제훈이 표예진의 목소리를 듣고 반가워했다. 18일 방송된 SBS 금토드라마 '모범택시2'에서는 김도기(이제훈 분)가 의뢰 받은 사건을 해결하기 위해 해외 불법 도박 사이트 운영조직에 잠입했다가 조직원들에 의해 작은 방에 감금되는 장면이 그려졌다. 방에서 몰래 탈출한 김도기]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['일타스캔들' 신재하, 쇠구슬 범인? 전도연 향한 적개심]]></title>
-        <id>https://v.daum.net/v/20230218224913413</id>
-        <link href="https://v.daum.net/v/20230218224913413"/>
-        <updated>2023-02-18T14:10:08.032Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 김나연 기자] 사진=tvN 일타스캔들'일타 스캔들'에서 신재하가 전도연을 향한 적개심을 드러냈다. 18일 방송된 tvN 토일드라마 '일타 스캔들'에서는 남해이(노윤서 분)가 남행선(전도연 분)은 엄마가 아닌 이모라고 고백하며 스캔들을 잠재운 뒤 이야기가 그려졌다. 이에 최치열(정경호 분)은 남행선과 서로 마음을 확인했고, 불륜남에서 로맨티]]></content>
     </entry>
 </feed>
