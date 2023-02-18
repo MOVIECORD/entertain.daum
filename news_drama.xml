@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-02-18T19:09:28.539Z</updated>
+    <updated>2023-02-18T20:12:04.746Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['모범택시2' 이제훈, "5283 운행 종료합니다"…'불법도박 사이트 운영' 조직서 피해자 구출]]></title>
+        <id>https://v.daum.net/v/20230219043600197</id>
+        <link href="https://v.daum.net/v/20230219043600197"/>
+        <updated>2023-02-18T20:11:47.760Z</updated>
+        <content type="html"><![CDATA[[SBS연예뉴스 | 김효정 에디터] 다시 한번 무지개 운수의 모범택시 운행이 시작됐다. 18일 방송된 SBS 금토 드라마 '모범택시 시즌2'(이하 '모범택시2')에서는 김도기가 무사히 의뢰를 수행했다. 이날 김도기는 소란을 피워 조직의 상부로 갔다. 그리고 그곳에서 회장의 존재를 확인한 안고은은 놀라움을 감추지 못했다. 불법 도박 사이트 운영 조직에서 회장]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['모범택시2' 이제훈, "우리는 반드시 여기서 나갈 것"…피해자들과 본격적인 탈출 계획]]></title>
         <id>https://v.daum.net/v/20230219034500123</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230218232545621"/>
         <updated>2023-02-18T15:11:26.932Z</updated>
         <content type="html"><![CDATA[[OSEN=유수연 기자]&nbsp;‘일타 스캔들’ 전도연과 정경호의 본격 ‘쌍방’ 로맨스가 시작된 가운데, 김태정이 쇠구슬 테러 용의자에 올랐다. 18일 방송된 tvN ‘일타 스캔들’에서는 남해이(노윤서 분)가 인터넷 라이브방송을 통해 모친 남행선(전도연)이 사실 이모이며 미혼이라는 사실을 고백한 장면이 그려졌다. 이후 집 앞에서 행선을 마주친 치열은 “진작 말]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[장현성 "먹여 살려야 할 사람=원동력"…母 만난 이보영에 조언]]></title>
-        <id>https://v.daum.net/v/20230218231010553</id>
-        <link href="https://v.daum.net/v/20230218231010553"/>
-        <updated>2023-02-18T15:11:26.934Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 장예솔 인턴기자) '대행사' 이보영과 장현성이 훈훈한 선후배 케미를 자랑했다. 18일 방송된 JTBC '대행사'에는 고아인(이보영 분)과 유정석(장현성)에게 위로를 받는 모습이 그려졌다.&nbsp; 이날 고아인은 유정석을 만나 35년 만에 친모를 만난 소회를 털어놨다.&nbsp; 잘됐다는 유정석에 고아인은 "잘 되긴 뭐가 잘 되냐. 먹여 살려야 할 사람이 하나]]></content>
     </entry>
 </feed>
