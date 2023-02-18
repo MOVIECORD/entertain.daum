@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/variety</id>
     <title>다음 연예 ─ 뉴스 ─ 예능</title>
-    <updated>2023-02-18T16:14:36.150Z</updated>
+    <updated>2023-02-18T17:11:17.548Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['놀라운 토요일' 김영광, 이성경과 촬영 중 힘들어→키 "김영광 잘 몰라"]]></title>
+        <id>https://v.daum.net/v/20230219011517994</id>
+        <link href="https://v.daum.net/v/20230219011517994"/>
+        <updated>2023-02-18T17:11:06.883Z</updated>
+        <content type="html"><![CDATA[[OSEN=오세진 기자] ‘놀라운 토요일' 김영광이 남다른 내향적 성격을 자랑했다. 18일 방영된 tvN 예능 ‘놀라운 토요일’(이하 '놀토')에서는&nbsp;2월 22일 공개되는 디즈니+ 드라마 ‘사랑이라 말해요’(연출 이광영)의 주연 김영광과 이성경이 등장했다. 남다른 기럭지를 지닌 두 사람은 모델 출신이었다. 각각 180cm, 170cm가 넘는 훤칠한 키로]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이국주 , 매니저 위한 생일상+명품시계 FLEX..감동의 눈물바다]]></title>
         <id>https://v.daum.net/v/20230219011035989</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230218235943788"/>
         <updated>2023-02-18T15:11:32.072Z</updated>
         <content type="html"><![CDATA[미자가 모친 전성애를 보고 경제활동을 놓지 말아야겠다는 결심을 했다고 말했다. 2월 18일 방송된 MBN ‘속풀이쇼 동치미’에서는 ‘난 엄마처럼은 안 살아’ 속풀이가 펼쳐졌다. 이날 방송에서 미자는 “엄마를 보면서 이렇게 살지 말아야지 했던 게 돈이 너무 없었다. 아빠는 경제활동을 하고 본인이 돈 관리를 하니까 늘 돈이 있어서 맛있는 것도 사서 드시는]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[정태우, 전영미X김효진 자랑…"누나들 덕 ♥장안희에 프러포즈"]]></title>
-        <id>https://v.daum.net/v/20230218235503773</id>
-        <link href="https://v.daum.net/v/20230218235503773"/>
-        <updated>2023-02-18T15:11:32.074Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 이이진 기자) 배우 정태우가 코미디언 전영미, 김효진과 친분을 자랑했다. 18일 방송된 KBS 2TV '살림하는 남자들 시즌2'(이하 '살림남2')에서는 정태우와 장인희가 전영미와 김효진을 집에 초대한 장면이 전파를 탔다. 이날 장인희는 손님을 맞이하기 위해 식사를 준비했고, "오빠가 누나들이랑 좀 많이 친한데 그중에서도 저희 연애할 때부터]]></content>
     </entry>
 </feed>
