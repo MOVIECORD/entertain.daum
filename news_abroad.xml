@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-02-19T11:09:51.532Z</updated>
+    <updated>2023-02-19T12:21:10.224Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[불륜 가해자에서 피해자가 된 메간 폭스]]></title>
+        <id>https://v.daum.net/v/20230219203230752</id>
+        <link href="https://v.daum.net/v/20230219203230752"/>
+        <updated>2023-02-19T12:21:09.395Z</updated>
+        <content type="html"><![CDATA[[TV리포트=이혜미 기자] 불륜 가해자에서 피해자로, 할리우드 배우 메간 폭스 이야기다. 지난 17일(현지시간) 페이지 식스 등 외신들은 메간 폭스와 머신 건 켈리의 결별을 일제히 보도했다. 결별 사유는 켈리의 외도다. 보도에 따르면 폭스는 켈리의 휴대폰 메시지와 DM 등을 통해 외도 증거를 찾았으며 켈리의 외도는 둘이 연인이 된 지난 2020년부터 시작된]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘탑건2’ 감독, “스필버그가 톰 크루즈에 영화계 구했다는 말 듣고 감동받아”]]></title>
         <id>https://v.daum.net/v/20230219193039254</id>
@@ -81,12 +88,5 @@
         <link href="https://v.daum.net/v/20230219084826192"/>
         <updated>2023-02-19T01:00:29.416Z</updated>
         <content type="html"><![CDATA[[OSEN=박소영 기자] 동성애자 샘 스미스가 열애설 상대와 또다시 거리 데이트를 즐겼다. 샘 스미스는 18일(현지시각) 3살 연하인 동성 패션 디자이너와 커피를 마시며 뉴욕 거리를 걸었다. 공개된 파파라치 사진을 보면 그는 블루 PK티셔츠에 점퍼를 걸쳤다. 파트너인 크리스티안은 모자와 후드티로 멋을 냈다. 이들은 지난달 파파라치 카메라에 포착돼 열애설]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[리한나 폭행하더니 ‘인종차별’ 프레임 짠 크리스 브라운]]></title>
-        <id>https://v.daum.net/v/20230218210030548</id>
-        <link href="https://v.daum.net/v/20230218210030548"/>
-        <updated>2023-02-18T12:20:16.717Z</updated>
-        <content type="html"><![CDATA[[TV리포트=이혜미 기자] 미국 가수 크리스 브라운이 '폭행범' 딱지에 대한 불만을 토로했다. 브라운은 전 여자 친구 리한나를 폭행해 법원으로부터 유죄 판정을 받은 바 있다. 18일(현지시각) 페이지식스 보도에 따르면 브라운은 최근 자신의 계정에 "내가 과거에 저지른 '실수'로 아직도 나를 미워한다면 내 엉덩이에 키스를 해 달라. 난 33살이다. 나는 이]]></content>
     </entry>
 </feed>
