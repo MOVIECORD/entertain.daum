@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/variety</id>
     <title>다음 연예 ─ 뉴스 ─ 예능</title>
-    <updated>2023-02-19T17:11:22.134Z</updated>
+    <updated>2023-02-19T18:13:56.579Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['소이현♥' 인교진 "장모님과 현관 비밀번호 공유, 처가도 비번 누르고 들어가"]]></title>
+        <id>https://v.daum.net/v/20230220030006819</id>
+        <link href="https://v.daum.net/v/20230220030006819"/>
+        <updated>2023-02-19T18:13:45.070Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 강다윤 기자] 배우 인교진이 장모님과 현관문 비밀번호를 공유한다고 고백했다. 19일 방송된 MBC '물 건너온 아빠들' 21회에서는 주부 3년 차 일본 아빠와 실사판 짱구 6살 아들 리온이의 일상이 공개됐다. 이날 처음 육아반상회를 찾은 일본 아빠는 과거 선술집, 일본 음식점을 운영한 일식 셰프이자, 지금은 집에서 육아와 살림을 담당]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[한해 "편하고 긴장감 떨어지는 연애 추구해"]]></title>
         <id>https://v.daum.net/v/20230220020005597</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230219235008028"/>
         <updated>2023-02-19T15:11:25.420Z</updated>
         <content type="html"><![CDATA[(엑스포츠뉴스 이나영 인턴기자) '걸어서 환장 속으로' 나태주가 고모들에게 한 방을 날렸다. 19일 방송된 KBS 2TV '걸어서 환장 속으로'에서는 그룹 슈퍼주니어의 투어로 불참한 규현 대신 한혜진이 스페셜 MC로 출연했다. 박나래가 방송을 봤냐고 묻자 봤다고 답한 한혜진은 명장면으로 김승현 가족의 파리 여행기를 꼽았다. 한혜진은 "가족들이랑 절대 파리에]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김부자, '30억 사기 피해' 언급 "꺼내고 싶지 않은 일"]]></title>
-        <id>https://v.daum.net/v/20230219235004026</id>
-        <link href="https://v.daum.net/v/20230219235004026"/>
-        <updated>2023-02-19T15:11:25.421Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 이나영 인턴기자) 가수 김부자가 30억 사기 피해를 언급했다. 19일 방송된 TV조선 '스타다큐 마이웨이'(이하 '마이웨이')에서는 많은 가수들의 '리메이크 0순위'인 국민노래 '달타령'의 원조 가수 김부자의 근황이 공개됐다. 이날 방송에서는 오래된 절친 동료 가수들과의 만남이 그려지기도 했다. '산 너머 남촌에는'으로 가요계를 뒤흔들었던 박]]></content>
     </entry>
 </feed>
