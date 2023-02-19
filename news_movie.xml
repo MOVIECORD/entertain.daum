@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-02-19T02:26:07.094Z</updated>
+    <updated>2023-02-19T03:16:50.791Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[아버지와 딸의 튀르기예 여행, 찬사와 비판 사이]]></title>
+        <id>https://v.daum.net/v/20230219121201760</id>
+        <link href="https://v.daum.net/v/20230219121201760"/>
+        <updated>2023-02-19T03:16:29.282Z</updated>
+        <content type="html"><![CDATA[[김성호 기자] &nbsp;▲ 애프터썬&nbsp;포스터ⓒ 그린나래미디어(주)&nbsp; 튀르키예로 여행을 떠난 아버지와 딸, 이렇다 할 사건 없이 놀고 즐기는 여정이 펼쳐진다. 캠코더로 녹화된 여행의 기록들은 이십 여 년이 흐른 뒤 딸의 손에서 재생된다. 아버지는 곁에 없고 딸의 삶도 그리 즐겁기만 하지는 않은 모양, 영화는 오래 전 튀르키예에서 보낸 부녀의 여행기다. 이 영화를 두]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[타노스가 에피타이저라고? '앤트맨3' 新빌런 '캉' 전투력 거품이네]]></title>
         <id>https://v.daum.net/v/20230219110101521</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230218235002752"/>
         <updated>2023-02-18T15:11:21.524Z</updated>
         <content type="html"><![CDATA[(엑스포츠뉴스 오승현 기자) 배우 박서준의 할리우드 진출작으로 많은 기대를 받고 있는 마블 영화 '더 마블스'의 개봉이 또 한 번 미뤄졌다. 17일(현지시각) 제작사 마블 스튜디오는 공식 계정을 통해 '더 마블스(The Marvels)'의 새 티저 포스터와 함께 개봉일을 발표했다. 마블 스튜디오는 "더 높게, 더 나아가서, 더 빠르게, 함께"라는 말과 함께]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['데뷔 20년' 유연석 "연기 겁내지 않아, 댄디한 이미지 부수고파"]]></title>
-        <id>https://v.daum.net/v/20230218215601034</id>
-        <link href="https://v.daum.net/v/20230218215601034"/>
-        <updated>2023-02-18T13:16:13.896Z</updated>
-        <content type="html"><![CDATA[[텐아시아=최지예 기자]"'멍뭉이'는 강아지가 주연 배우이고, 의미가 중요한 작품이죠." 배우 유연석은 최근 진행된 영화 '멍뭉이'(감독 김주환) 인터뷰에서 어쩐지 어색한 듯한 미소로 입을 열었다. 최근 '멍뭉이' 시사회에서 감정을 주체하지 못하고 뜨거운 눈물을 쏟았던 기억 때문이었다. "공식석상에서 울었던 건 처음이라서 당황했어요. 이 영화에 제가 가]]></content>
     </entry>
 </feed>
