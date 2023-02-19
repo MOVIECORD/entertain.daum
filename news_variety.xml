@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/variety</id>
     <title>다음 연예 ─ 뉴스 ─ 예능</title>
-    <updated>2023-02-19T16:14:36.045Z</updated>
+    <updated>2023-02-19T17:11:22.134Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[한해 "편하고 긴장감 떨어지는 연애 추구해"]]></title>
+        <id>https://v.daum.net/v/20230220020005597</id>
+        <link href="https://v.daum.net/v/20230220020005597"/>
+        <updated>2023-02-19T17:11:11.026Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 강다윤 기자] 가수 한해가 자신의 연애 스타일에 대해 이야기한다. 20일 방송되는 KBS 2TV '이별도 리콜이 되나요?'에서는 '백 가지 장점과 한 가지 단점'이라는 주제로 리콜녀의 사연이 공개된다. 일일 리콜플래너로는 한해와 AB6IX 박우진이 함께한다. 어느 때보다 현실적인 연애 고민 사연으로 시청자들의 많은 공감을 불러일으킬 전망이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["이러니까 차이지" …미르, '복분자집 딸' 전여친 소환]]></title>
         <id>https://v.daum.net/v/20230220011003420</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230219235004026"/>
         <updated>2023-02-19T15:11:25.421Z</updated>
         <content type="html"><![CDATA[(엑스포츠뉴스 이나영 인턴기자) 가수 김부자가 30억 사기 피해를 언급했다. 19일 방송된 TV조선 '스타다큐 마이웨이'(이하 '마이웨이')에서는 많은 가수들의 '리메이크 0순위'인 국민노래 '달타령'의 원조 가수 김부자의 근황이 공개됐다. 이날 방송에서는 오래된 절친 동료 가수들과의 만남이 그려지기도 했다. '산 너머 남촌에는'으로 가요계를 뒤흔들었던 박]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이승윤, 하다하다 변기 샤워건 들고 신곡 홍보‥이찬원 후회]]></title>
-        <id>https://v.daum.net/v/20230219234501990</id>
-        <link href="https://v.daum.net/v/20230219234501990"/>
-        <updated>2023-02-19T15:11:25.423Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 서유나 기자] 이승윤의 열혈 홍보 속 발품에만 집중한 이찬원이 뒤늦게 후회했다. 2월 19일 방송된 MBC 예능 '구해줘! 홈즈'(이하 '홈즈') 191회에서는 이승윤이 열혈 신곡 홍보를 보여줬다. 이날 이승윤은 "오늘 집을 위해 나오셨다. 홍보 이런 것 다 필요없지 않냐"는 질문에 "집은 상관 없고 홍보만 하러 나왔다"라고 파격 답변을 하며]]></content>
     </entry>
 </feed>
