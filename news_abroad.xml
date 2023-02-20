@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-02-20T22:11:48.208Z</updated>
+    <updated>2023-02-20T23:13:15.578Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[강형욱, '성추행' 가짜 뉴스에 "줘새끼 같은 놈들" 발끈…"그 놈도 나쁜데, 만드는 놈도 나빠!"]]></title>
+        <id>https://v.daum.net/v/20230221075318934</id>
+        <link href="https://v.daum.net/v/20230221075318934"/>
+        <updated>2023-02-20T23:13:14.634Z</updated>
+        <content type="html"><![CDATA[[스포츠조선 이정혁 기자]강형욱도 '성추행 가짜뉴스'에 당했다. 반려견 훈련 전문가 강형욱이 최근 성추행 훈련사에 대한 이니셜 기사에 분노하며 직접 부인했다. 강형욱은 20일 자신의 개인계정에 "나 아님. 나는 남양주 주민. 보듬도 남양주에 있음"이라는 메시지와 함께 대화창 캡처샷을 올렸다. 그의 동생은 반려견 훈련사 성추행 기]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['주토피아2'에서 닉과 주디가 '연애'하면 안 되는 이유]]></title>
+        <id>https://v.daum.net/v/20230221073030608</id>
+        <link href="https://v.daum.net/v/20230221073030608"/>
+        <updated>2023-02-20T23:13:14.635Z</updated>
+        <content type="html"><![CDATA[[TV리포트=이수연 기자] '주토피아 2'에서 닉과 주디의 로맨스가 펼쳐질까. 지난 8일 디즈니 CEO 밥 아이거는 "애니메이션 스튜디오에서 가장 인기 있는 프랜차이즈인 '겨울왕국', '토이 스토리', '주토피아'의 제작 소식을 알리게 돼 기쁘다"라며 '주토피아 2'가 제작 중에 있음을 밝혔다. 2016년 개봉한 '주토피아'의 후속작 소식에 전 세계 영화]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['촬영장 총격' 알렉 볼드윈, 5년 이상 옥살이 위기 모면]]></title>
         <id>https://v.daum.net/v/20230221061116601</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230220174130906"/>
         <updated>2023-02-20T09:13:20.364Z</updated>
         <content type="html"><![CDATA[[TV리포트=이수연 기자] 박스오피스를 장악한 디즈니가 벌써 올 한 해 수익 1조 원을 돌파했다. 북미 박스오피스에 따르면 디즈니는 새해가 시작된 지 6주 만에 이미 전 세계적으로 누적 수익 10억 달러(한화 약 1조 3천억 원)을 돌파했고, 20일까지 12억 8300만 달러(한화 약 1조 7천억 원)를 벌어들였다. 다른 주요 스튜디오라면 최대 12개월이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['가정폭력' 논란 브래드 피트, 딸 샤일로에 용서받았다]]></title>
-        <id>https://v.daum.net/v/20230220173030504</id>
-        <link href="https://v.daum.net/v/20230220173030504"/>
-        <updated>2023-02-20T09:13:20.367Z</updated>
-        <content type="html"><![CDATA[[TV리포트=이수연 기자] 배우 브래드 피트의 '꽃길'이 다시 시작될까. 브래드 피트(59)의 여자친구는 '싱글'이 되기 위해 현재 남편과 이혼을 신청했고, 딸 샤일로 피트는 아버지를 용서했다. 17일(현지 시간) 피플 등 다수의 외신 매체에 따르면 브래드 피트의 여자친구 이네스 드 라몬(30)은 남편인 폴 웨슬리(40)와 공식적 이혼 절차를 밟기 시작했다]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[스즈키 아야네, 노기자카46 10년만 졸업 발표]]></title>
-        <id>https://v.daum.net/v/20230220165442140</id>
-        <link href="https://v.daum.net/v/20230220165442140"/>
-        <updated>2023-02-20T08:16:52.227Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 박수인 기자] 노기자카46 스즈키 아야네가 그룹을 졸업한다. 스즈키 아야네는 최근 공식 블로그를 통해 노기자카46 가입 10주년 기념일인 3월 27일자로 그룹에서 졸업한다고 발표했다. 스즈키 아야네는 "3월 28일자로 노기자카46을 졸업한다. 32집 싱글에는 참여하지 않기로 했다. 오래 전부터 졸업을 생각하고 있었지만 좋아하는 노기자카46과 헤어]]></content>
     </entry>
 </feed>
