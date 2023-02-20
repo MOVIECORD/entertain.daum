@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-02-20T07:12:01.945Z</updated>
+    <updated>2023-02-20T08:16:52.996Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[스즈키 아야네, 노기자카46 10년만 졸업 발표]]></title>
+        <id>https://v.daum.net/v/20230220165442140</id>
+        <link href="https://v.daum.net/v/20230220165442140"/>
+        <updated>2023-02-20T08:16:52.227Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 박수인 기자] 노기자카46 스즈키 아야네가 그룹을 졸업한다. 스즈키 아야네는 최근 공식 블로그를 통해 노기자카46 가입 10주년 기념일인 3월 27일자로 그룹에서 졸업한다고 발표했다. 스즈키 아야네는 "3월 28일자로 노기자카46을 졸업한다. 32집 싱글에는 참여하지 않기로 했다. 오래 전부터 졸업을 생각하고 있었지만 좋아하는 노기자카46과 헤어]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[카게야마 유카, 히나타자카46 졸업 발표 “새로운 자신 찾기 위해”]]></title>
         <id>https://v.daum.net/v/20230220153300400</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230220075847302"/>
         <updated>2023-02-19T23:12:09.866Z</updated>
         <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]박찬욱 감독의 ‘헤어질 결심’이 미국 아카데미 국제영화상 최종 후보에 탈락한데 이어 영국 아카데미에서도 고배를 마셨다. 76회 영국 아카데미 시상식(British Academy of Film and Television Arts, BAFTA)이 19일 오후 7시(현지시각) 영국 런던 사우스뱅크 센터 로열 페스티벌 홀에서 열렸다]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[정호연, L사 명품 스트랩리스 드레스 입고 시크한 매력 “英 아카데미 여신미모”]]></title>
-        <id>https://v.daum.net/v/20230220073600873</id>
-        <link href="https://v.daum.net/v/20230220073600873"/>
-        <updated>2023-02-19T23:12:09.868Z</updated>
-        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]배우 정호연이 제76회 영국 아카데미 시상식의 레드카펫을 빛냈다. 정호연은 19일 오후 7시(현지시각) 영국 런던 사우스뱅크 센터 로열 페스티벌 홀에서 열린 제76회 영국 아카데미 시상식(British Academy of Film and Television Arts, BAFTA)의 레드카펫 행사에 참석했다. 명품 L사의 스]]></content>
     </entry>
 </feed>
