@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-02-20T10:14:55.852Z</updated>
+    <updated>2023-02-20T11:10:59.763Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[오스틴 버틀러 "아이스크림 전자레인지에 돌려 마셔...살찌기 힘들어"]]></title>
+        <id>https://v.daum.net/v/20230220200530025</id>
+        <link href="https://v.daum.net/v/20230220200530025"/>
+        <updated>2023-02-20T11:10:59.037Z</updated>
+        <content type="html"><![CDATA[[TV리포트=이수연 기자] 할리우드 배우 오스틴 버틀러가 엘비스 프레슬리로 완벽 변신하기 위해 감행한 노력 소개했다. 16일(현지 시간) 미국 연예 매체 버라이어티의 한 팟캐스트에는 영화 '엘비스'로 '제95회 미국 아카데미 시상식' 남우주연상 후보에 오른 배우 오스틴 버틀러가 출연했다. 오스틴 버틀러는 영화 '엘비스'의 촬영 비하인드를 소개하며 "에이전]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['아바타' 제임스 카메론 "인구 반 없앤 타노스...지지한다"]]></title>
         <id>https://v.daum.net/v/20230220190530098</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230220123530848"/>
         <updated>2023-02-20T04:15:25.157Z</updated>
         <content type="html"><![CDATA[[TV리포트=이수연 기자] 배우 수키 워터하우스가 '현 남친' 로버트 패튼슨과 '전 남친' 브래들리 쿠퍼와 관계를 솔직하게 고백했다. 19일(현지 시간) 영국 타임스와 진행한 인터뷰에서 수키 워터하우스(31)는 유명인 여자친구의 삶에 대해 털어놨다. '전 남친' 브래들리 쿠퍼(48)와는 힘들었고, '현 남친' 로버트 패틴슨(36)과의 관계는 충격이라고 전했]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['눈의 꽃' 나카시마 미카, 이혼 5년 만에 재혼]]></title>
-        <id>https://v.daum.net/v/20230220115100957</id>
-        <link href="https://v.daum.net/v/20230220115100957"/>
-        <updated>2023-02-20T03:18:44.888Z</updated>
-        <content type="html"><![CDATA[[TV리포트=박설이 기자]'눈의 꽃' 원곡을 부른 일본 가수 나카시마 미카가 이혼 5년 만에 재혼을 발표했다. 19일 일본 닛칸스포츠 등 현지 언론은 나카시마 미카가 자신의 생일인 이날 기타리스트 우마타니 이사무와 결혼을 발표했다고 보도했다. 나카시마 미카는 이날 일본의 각 언론사에 팩스를 통해 결혼 사실을 알리면서 "라이브 밴드 멤버로서 응원해준 우마타니]]></content>
     </entry>
 </feed>
