@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-02-20T02:29:12.758Z</updated>
+    <updated>2023-02-20T03:18:45.729Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['눈의 꽃' 나카시마 미카, 이혼 5년 만에 재혼]]></title>
+        <id>https://v.daum.net/v/20230220115100957</id>
+        <link href="https://v.daum.net/v/20230220115100957"/>
+        <updated>2023-02-20T03:18:44.888Z</updated>
+        <content type="html"><![CDATA[[TV리포트=박설이 기자]'눈의 꽃' 원곡을 부른 일본 가수 나카시마 미카가 이혼 5년 만에 재혼을 발표했다. 19일 일본 닛칸스포츠 등 현지 언론은 나카시마 미카가 자신의 생일인 이날 기타리스트 우마타니 이사무와 결혼을 발표했다고 보도했다. 나카시마 미카는 이날 일본의 각 언론사에 팩스를 통해 결혼 사실을 알리면서 "라이브 밴드 멤버로서 응원해준 우마타니]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['플래시' 리처드 벨저, 향년 78세에 사망]]></title>
         <id>https://v.daum.net/v/20230220111500353</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230219132059435"/>
         <updated>2023-02-19T05:11:19.530Z</updated>
         <content type="html"><![CDATA["Despite strong performances from the cast, 'Quantumania' is dull and exhausting to sit through. Marvel’s glory days might be behind us and I’m really not looking forward to the rest of Phase Five."(출]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[디카프리오, 27살 싱글맘 모델 지지 하디드와 결별 “더 이상 안만나”]]></title>
-        <id>https://v.daum.net/v/20230219123750003</id>
-        <link href="https://v.daum.net/v/20230219123750003"/>
-        <updated>2023-02-19T04:14:11.357Z</updated>
-        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]할리우드 스타 레오나르도 디카프리오(48)가 싱글맘 모델 지지 하디드(27)와 최종 결별했다. 한 소식통은 18일(현지시간) 연예매체 피플에 “지지는 한동안 레오를 만나지 못했다”면서 “그녀는 단지 레오와 끝났다고 결정했다”고 말했다. 이어 “그들은 인생에서 다른 장소에 있다. 지지는 엄마가 되는 것을 우선시하다”고 밝혔다]]></content>
     </entry>
 </feed>
