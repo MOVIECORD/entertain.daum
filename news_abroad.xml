@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-02-20T21:11:07.602Z</updated>
+    <updated>2023-02-20T22:11:48.208Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['촬영장 총격' 알렉 볼드윈, 5년 이상 옥살이 위기 모면]]></title>
+        <id>https://v.daum.net/v/20230221061116601</id>
+        <link href="https://v.daum.net/v/20230221061116601"/>
+        <updated>2023-02-20T22:11:47.489Z</updated>
+        <content type="html"><![CDATA[(로스앤젤레스=연합뉴스) 정윤섭 특파원 = 영화 촬영장 총격 사건과 관련한 과실치사 혐의로 기소된 미국 배우 알렉 볼드윈이 5년 이상 옥살이를 할 수도 있었던 위기 상황에서 일단 벗어났다. 미국 뉴멕시코주 검찰은 20일(현지시간) 볼드윈에게 적용했던 형사 사건 혐의 가운데 일부를 변경했고, 유죄 확정시 선고가 가능한 징역형 기간도 최소 5년에서 최대 18개]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[케이트 블란쳇 "배우 은퇴할 뻔...영화 촬영 '군대' 같았다"]]></title>
         <id>https://v.daum.net/v/20230221060530524</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230220165442140"/>
         <updated>2023-02-20T08:16:52.227Z</updated>
         <content type="html"><![CDATA[[뉴스엔 박수인 기자] 노기자카46 스즈키 아야네가 그룹을 졸업한다. 스즈키 아야네는 최근 공식 블로그를 통해 노기자카46 가입 10주년 기념일인 3월 27일자로 그룹에서 졸업한다고 발표했다. 스즈키 아야네는 "3월 28일자로 노기자카46을 졸업한다. 32집 싱글에는 참여하지 않기로 했다. 오래 전부터 졸업을 생각하고 있었지만 좋아하는 노기자카46과 헤어]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[카게야마 유카, 히나타자카46 졸업 발표 “새로운 자신 찾기 위해”]]></title>
-        <id>https://v.daum.net/v/20230220153300400</id>
-        <link href="https://v.daum.net/v/20230220153300400"/>
-        <updated>2023-02-20T07:12:01.232Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 박수인 기자] 히나타자카46 카게야마 유카가 팀 졸업을 발표했다. 카게야마 유카는 최근 공식 블로그를 통해 다음 싱글 활동을 끝으로 히나타자카46을 졸업한다고 밝혔다. 카게야마 유카는 "1년도 전부터 앞으로의 일에 생각해왔고 2022년 여름에 마음을 정했다. 이유로는 라이브 활동 중 심리적 장애를 극복할 수 없다고 느꼈기 때문이다. 그로 인해 쌓]]></content>
     </entry>
 </feed>
