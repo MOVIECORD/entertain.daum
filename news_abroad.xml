@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-02-20T04:15:25.844Z</updated>
+    <updated>2023-02-20T05:12:22.572Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘은하철도 999’ 마츠모토 레이지 타계, 향년 85세 “별의 바다로 여행 떠났다”]]></title>
+        <id>https://v.daum.net/v/20230220135945593</id>
+        <link href="https://v.daum.net/v/20230220135945593"/>
+        <updated>2023-02-20T05:12:21.955Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]‘우주전한 야마토’ ‘은하철도 999’ 등 우주와 모험을 주제로 한 장대한 SF 작품으로 유명한 만화가 마츠모토 레이지가 세상을 떠났다. 향년 85세. NHK는 20일 “마츠모토 레이지가 지난 13일 급성 급성 심부전으로 도쿄의 한 병원에서 사망했다”고 보도했다. 애니메이션 제작사 레이지샤는 이날 트위터에 “여러분께 많은]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘타르’ 케이트 블란쳇, 英 아카데미 여우주연상 수상 “오스카도 받을 결심”]]></title>
+        <id>https://v.daum.net/v/20230220132902647</id>
+        <link href="https://v.daum.net/v/20230220132902647"/>
+        <updated>2023-02-20T05:12:21.956Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]영화 ‘타르’의 케이트 블란쳇(53)이 영국 아카데미 시상식에서 여우주연상을 거머쥐었다. 그는 19일 오후 7시(현지시각) 영국 런던 사우스뱅크 센터 로열 페스티벌 홀에서 열린 제76회 영국 아카데미 시상식(British Academy of Film and Television Arts, BAFTA)에서 여우주연상을 받았다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[수키 워터하우스 "로버트 패티슨과 5년째 연애 중...여전히 설레"]]></title>
         <id>https://v.daum.net/v/20230220123530848</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230219165511865"/>
         <updated>2023-02-19T09:11:56.684Z</updated>
         <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]배우 키아누 리브스(58)는 1986년 데뷔작 ‘영블러드’로 강렬한 인상을 남긴 이후 수십년 동안 할리우드가 사랑하는 아이콘이 됐다. ‘엑설런트 어드벤처(1989)’의 얼빠진 십대 테드 역으로 스타덤에 오른 그는 이후 ‘아이다호’ ‘폭풍속으로’(1991), ‘스피드’(1994), ‘매트릭스’(1999), ‘콘스탄틴’(2005)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[48세 디카프리오, 27세 지지 하디드와 결별 "흐지부지"]]></title>
-        <id>https://v.daum.net/v/20230219165214826</id>
-        <link href="https://v.daum.net/v/20230219165214826"/>
-        <updated>2023-02-19T09:11:56.687Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 김현정 기자) 배우 레오나르도 디카프리오가 모델 지지 하디드와 결별한 것으로 알려졌다. 연예매체 피플 등 외신은&nbsp;18일(현지시간) 디카프리오가 지지 하디드와 이별했다고 보도했다. 소식통은 "두 사람이 한동안 만나지 못했다. 그렇게 심각했던 적은 없고 그냥 관계가 흐지부지됐다. 그들은 인생에서 다른 장소에 있다. 지지는 엄마가 되는 것을 우선시]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[브래드 피트, 29세 연하와 재혼 임박?…여친도 전남편과 이혼 절차]]></title>
-        <id>https://v.daum.net/v/20230219164712733</id>
-        <link href="https://v.daum.net/v/20230219164712733"/>
-        <updated>2023-02-19T09:11:56.688Z</updated>
-        <content type="html"><![CDATA[[스포츠조선 정빛 기자] 할리우드 배우 브래드 피트의 현재 연인인 이네스 드 라몬이 이혼 소송 중이다. 19일 피플 등 외신에 따르면, 이네스 드 라몬의 남편 폴 웨슬리는 이혼 소송을 제기했다. 두 사람의 이혼 사유는 화해할 수 없는 성격 차이이며, 이들의 별거는 이미 5개월 전에 이뤄졌다. 정확한 이혼 시기와 이들의 재산 분할은 향후 재]]></content>
     </entry>
 </feed>
