@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-02-20T05:12:22.572Z</updated>
+    <updated>2023-02-20T06:16:37.613Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['골든글로브 수상' 스텔라 스티븐스, 항년 84세로 사망]]></title>
+        <id>https://v.daum.net/v/20230220150830443</id>
+        <link href="https://v.daum.net/v/20230220150830443"/>
+        <updated>2023-02-20T06:16:36.743Z</updated>
+        <content type="html"><![CDATA[[TV리포트=이수연 기자] 배우 스텔라 스티븐스가 향년 84세에 숨을 거뒀다. 17일(현지 시간) 연예매체 버라이어티와 데드라인은 스텔라 스티븐스가 알츠하이머병을 오랜 기간 투병한 끝에 이날 로스앤젤레스에서 사망했다고 보도했다. 스텔라 스티븐스의 매니저 마리아 칼라브레즈는 "스텔라 스티븐스는 내가 함께 일한 사람 중 가장 훌륭하고 재능 있는 사람 중 한 명]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['라이언 일병' 톰 시즈모어, 뇌동맥류로 병원 이송..."위독"]]></title>
+        <id>https://v.daum.net/v/20230220144400253</id>
+        <link href="https://v.daum.net/v/20230220144400253"/>
+        <updated>2023-02-20T06:16:36.747Z</updated>
+        <content type="html"><![CDATA[[TV리포트=이수연 기자] 배우 톰 시즈모어가 뇌동맥류로 위독하다. 19일(현지 시간) 피플에 따르면 톰 시즈모어가 18일 새벽 로스앤젤레스의 집에서 병원으로 급히 이송됐다. 그는 현재 집중 치료를 받고 있는 것으로 알려졌다. 톰 시즈모어의 매니저 찰스 라고는 그의 상태에 대해 "톰이 뇌동맥류로 중환자실에 입원한 것이 맞다. 그는 현재 위독한 상태며 상황을]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘은하철도 999’ 마츠모토 레이지 타계, 향년 85세 “별의 바다로 여행 떠났다”]]></title>
         <id>https://v.daum.net/v/20230220135945593</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230219193039254"/>
         <updated>2023-02-19T11:09:50.897Z</updated>
         <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]영화 ‘탑건:매버릭’의 조셉 코신스키(48)이 스티븐 스필버그(76) 감독에게 감사 인사를 전했다. 스필버그 감독은 지난 13일 미국 캘리포니아주 베벌리힐스 힐튼 호텔에서 열린 제95회 오스카상(아카데미) 후보 오찬에 참석해 크루즈에게 “당신이 할리우드를 구했다. ‘탑건2’가 영화계 전체를 살렸다”고 말했다. 이에 대해 코신]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[디카프리오, 27살 싱글맘 지지 하디드와 결국 결별 “관계 흐지부지 됐다”]]></title>
-        <id>https://v.daum.net/v/20230219165823906</id>
-        <link href="https://v.daum.net/v/20230219165823906"/>
-        <updated>2023-02-19T09:11:56.683Z</updated>
-        <content type="html"><![CDATA[[OSEN=강서정 기자] 배우 레오나르도 디카프리오(48)와 모델 지지 하디드(27)의 관계가 끝났다. 19일(현지시간) 미국 연예매체 보도에 따르면 레오나르도 디카프리오와 지지 하디드가 짧은 열애설 후 더 이상 함께 시간을 보내지 않는다. 하디드 소식통은 “두 사람 관계가 흐지부지 됐다”고 전했다. 이 소식통은 “하디드는 한동안 디카프리오를 보지 못했]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[키아누 리브스, “어떻게 전세계인이 사랑하는 배우가 됐나”]]></title>
-        <id>https://v.daum.net/v/20230219165511865</id>
-        <link href="https://v.daum.net/v/20230219165511865"/>
-        <updated>2023-02-19T09:11:56.684Z</updated>
-        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]배우 키아누 리브스(58)는 1986년 데뷔작 ‘영블러드’로 강렬한 인상을 남긴 이후 수십년 동안 할리우드가 사랑하는 아이콘이 됐다. ‘엑설런트 어드벤처(1989)’의 얼빠진 십대 테드 역으로 스타덤에 오른 그는 이후 ‘아이다호’ ‘폭풍속으로’(1991), ‘스피드’(1994), ‘매트릭스’(1999), ‘콘스탄틴’(2005)]]></content>
     </entry>
 </feed>
