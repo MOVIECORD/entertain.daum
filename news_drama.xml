@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-02-20T03:18:45.733Z</updated>
+    <updated>2023-02-20T04:15:25.852Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['일타'·'대행사·'모범2' 10%대인데…'꼭두의 계절' 1.4% 어쩌나]]></title>
+        <id>https://v.daum.net/v/20230220123006782</id>
+        <link href="https://v.daum.net/v/20230220123006782"/>
+        <updated>2023-02-20T04:15:07.492Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 김현정 기자) 금, 토 드라마들이 시청률 상승세를 기록하며 호조를 띄지만, '꼭두의 계절'만 울상이다. 매주 주말 오후 10시 30분에 방영하는 JTBC 드라마 '대행사'와 매주 주말 오후 9시 10분에 방송하는 tvN '일타스캔들', 그리고 최근 첫 방송을 시작해 매주 금, 토요일에 전파를 타는 SBS 드라마 '모범택시'까지 비슷한 시간대에]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[홍수현, 흑화 후 서지혜에 반격…"바퀴벌레는 놔주는 게 아냐"]]></title>
         <id>https://v.daum.net/v/20230220121014521</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230220103604693"/>
         <updated>2023-02-20T02:28:55.755Z</updated>
         <content type="html"><![CDATA[‘빨간 풍선’ 서지혜가 홍수현과 바다 여행을 떠났다. 서지혜(조은강 역)는 19일 방송된 TV조선 주말드라마 ‘빨간풍선’ 18회에서 조은강 그 자체로 변신, 극 흐름을 주도적으로 이끌어갔다. 이날 방송에서 조은강은 상간녀 꼬리표로 힘겨운 시간을 갖던 중 고차원(이상우 분)의 연락을 받고 급하게 달려나갔다. 고차원을 본 그녀는 극도의 불안감을 느꼈지만, 예상]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[문가영 "수영과 상수는 함께 돈가스 먹었을 것, 중요한 건 방향"]]></title>
-        <id>https://v.daum.net/v/20230220103002472</id>
-        <link href="https://v.daum.net/v/20230220103002472"/>
-        <updated>2023-02-20T02:28:55.756Z</updated>
-        <content type="html"><![CDATA[JTBC 드라마 ‘사랑의 이해’에서 주인공 안수영 역을 맡은 배우 문가영. 제공 | 키이스트          JTBC 드라마 ‘사랑의 이해’에서 주인공 안수영 역을 맡은 배우 문가영. 제공 | 키이스트 [스포츠서울 | 조은별기자] “드라마가 끝나니 사랑이 정말 어렵다는 걸 알게 됐다. 진심으로 최선을 다해도 상대가 준비가 안됐다면 이뤄지]]></content>
     </entry>
 </feed>
