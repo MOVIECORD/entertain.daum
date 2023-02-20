@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-02-20T12:22:50.513Z</updated>
+    <updated>2023-02-20T13:21:13.240Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[제임스 카메론 감독, “인구 절반 날리는 타노스에 공감한다”]]></title>
+        <id>https://v.daum.net/v/20230220221132585</id>
+        <link href="https://v.daum.net/v/20230220221132585"/>
+        <updated>2023-02-20T13:21:12.587Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]‘아바타’ 시리즈의 제임스 카메론(68) 감독이 마블 시네마틱 유니버스에서 인구 절반을 없애 균형을 유지하려는 빌런 타노스(조쉬 브롤린)에 공감의 뜻을 나타냈다. MCU에서 타노스는 ‘타이탄’ 행성에 살았는데, 인구증가와 자원고갈로 결국 멸망에 이르렀다. 그는 타이탄과 같은 비극이 일어나지 않으려면 인구의 절반을 몰살하고 과]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[메간 폭스, '약혼자' 머신 건 켈리 불륜설 의식하나? "그냥 내버려 둘 필요 있어"]]></title>
         <id>https://v.daum.net/v/20230220210921890</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230220144400253"/>
         <updated>2023-02-20T06:16:36.747Z</updated>
         <content type="html"><![CDATA[[TV리포트=이수연 기자] 배우 톰 시즈모어가 뇌동맥류로 위독하다. 19일(현지 시간) 피플에 따르면 톰 시즈모어가 18일 새벽 로스앤젤레스의 집에서 병원으로 급히 이송됐다. 그는 현재 집중 치료를 받고 있는 것으로 알려졌다. 톰 시즈모어의 매니저 찰스 라고는 그의 상태에 대해 "톰이 뇌동맥류로 중환자실에 입원한 것이 맞다. 그는 현재 위독한 상태며 상황을]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘은하철도 999’ 마츠모토 레이지 타계, 향년 85세 “별의 바다로 여행 떠났다”]]></title>
-        <id>https://v.daum.net/v/20230220135945593</id>
-        <link href="https://v.daum.net/v/20230220135945593"/>
-        <updated>2023-02-20T05:12:21.955Z</updated>
-        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]‘우주전한 야마토’ ‘은하철도 999’ 등 우주와 모험을 주제로 한 장대한 SF 작품으로 유명한 만화가 마츠모토 레이지가 세상을 떠났다. 향년 85세. NHK는 20일 “마츠모토 레이지가 지난 13일 급성 급성 심부전으로 도쿄의 한 병원에서 사망했다”고 보도했다. 애니메이션 제작사 레이지샤는 이날 트위터에 “여러분께 많은]]></content>
     </entry>
 </feed>
