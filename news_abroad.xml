@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-02-21T04:15:03.125Z</updated>
+    <updated>2023-02-21T05:11:35.022Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['에미상 후보만 6번' 바바라 보슨, 향년 83세에 사망]]></title>
+        <id>https://v.daum.net/v/20230221140031614</id>
+        <link href="https://v.daum.net/v/20230221140031614"/>
+        <updated>2023-02-21T05:11:34.413Z</updated>
+        <content type="html"><![CDATA[[TV리포트=이수연 기자] 할리우드 1980년대 스타 바바라 보슨이 향년 83세의 나이로 세상을 떠났다. 19일 바바라 보슨의 아들 제시 보츠코는 자신의 소셜네트워크서비스를 통해 어머니의 작고를 알렸다. 고인의 정확한 사인은 밝혀지지 않았다. 제시 보츠코는 "당신의 사랑은 의심할 여지 없이 느껴졌다"라며 "영원히 우리 마음속에 있을 것이다"라고 고인을 추모]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[패리스 힐튼, 성대한 42살 생일 파티...재벌의 인생이란]]></title>
         <id>https://v.daum.net/v/20230221123030504</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230221060530524"/>
         <updated>2023-02-20T21:11:06.923Z</updated>
         <content type="html"><![CDATA[[TV리포트=이수연 기자] 배우 케이트 블란쳇이 배우 은퇴를 고민했다고 털어놨다. 19일(현지 시간) 영국 런던에서 개최된 제76회 영국 아카데미 시상식에서 케이트 블란쳇이 '타르'로 여우주연상을 수상했다. 그는 수상소감에서 역할에 대해 "매우 위험했고 배우 커리어를 끝낼 수 있었다"라고 말했다. 그는 이어 "영국 아카데미에 감사드린다. 올해는 여성에게 특]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['아바타2' 감독, 갑분 타노스 응원?.."인구 절반 사라져도"]]></title>
-        <id>https://v.daum.net/v/20230221054123120</id>
-        <link href="https://v.daum.net/v/20230221054123120"/>
-        <updated>2023-02-20T21:11:06.923Z</updated>
-        <content type="html"><![CDATA[[OSEN=박소영 기자]&nbsp;‘아바타2’로 전 세계 역대 흥행 수익 3위를 기록한 제임스 카메론 감독이 세계 인구 절반을 사라지게 만들었던 마블 빌런 타노스를 치켜세웠다. 제임스 카메론 감독은 19일(현지시각) 매체 인터뷰를 통해 “나는 타노스에 공감한다. 꽤 실행 가능한 대답을 갖고 있다고 생각한다. 문제는 (지구에서 사라질) 절반이 되겠다고 자원하는 사]]></content>
     </entry>
 </feed>
