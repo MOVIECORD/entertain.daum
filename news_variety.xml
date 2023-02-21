@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/variety</id>
     <title>다음 연예 ─ 뉴스 ─ 예능</title>
-    <updated>2023-02-21T10:13:57.073Z</updated>
+    <updated>2023-02-21T11:11:10.737Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[원미연 "4개월만에 -12kg감량+44사이즈"..현재는 '00바이러스' 노출 충격]]></title>
+        <id>https://v.daum.net/v/20230221195324141</id>
+        <link href="https://v.daum.net/v/20230221195324141"/>
+        <updated>2023-02-21T11:10:58.848Z</updated>
+        <content type="html"><![CDATA[[OSEN=김수형 기자] ‘기적의 습관’에서 가수 겸 배우 원미연이 출연, 4개월만에 무려 12키로 감량한 사실을 공개한 가운데 ㅣㅂ만 바이러스에 노출됐다는 말에 깜짝 놀라게 했다. 21일 방송된 TV조선 ‘기적의 습관’에서 가수 겸 배우 원미연이 출연했다. 원조 발라드 퀸이자 탑골 아이유로 불리는 원미연이 최근 신곡발표 소식을 전했다. 그는 “2AM]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[광희랑 다르다!..홍현희, 양주와 무릎까지 내준 헌신적인 '네고왕']]></title>
         <id>https://v.daum.net/v/20230221184915057</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230221164222410"/>
         <updated>2023-02-21T08:15:43.756Z</updated>
         <content type="html"><![CDATA[[OSEN=유수연 기자]&nbsp;갈 길을 잃은 ‘조선의 사랑꾼’이 시청자와의 공감대 형성에 실패한 모양새다. 지난 20일 방송된 TV조선 ‘조선의 사랑꾼’에서는 박수홍 부부의 결혼식이 공개됐다. 유재석, 박경림, 김국진, 김수용, 지석진 등, 연예계 인맥이 총출동한 가운데, 제작진이 특별히 초대한 가수 김호중의 축가 장면까지 그려졌다. 제작진 측은 부부의 아름]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[신현준 "정준호, 너무 안 맞아…꼴 보기 싫어" 폭소]]></title>
-        <id>https://v.daum.net/v/20230221162321751</id>
-        <link href="https://v.daum.net/v/20230221162321751"/>
-        <updated>2023-02-21T08:15:43.757Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 장예솔 인턴기자) '두데' 배우 신현준이 절친 정준호를 언급했다. 21일 방송된 MBC FM4U '두시의 데이트 뮤지, 안영미입니다'(이하 '두데')에는 영화 '살수'로 돌아온 배우 신현준이 출연했다.&nbsp; 이날 신현준은 절친 사이로 유명한 배우 정준호와 여행 유튜브를 찍었다고 밝혔다. 신현준은 "제가 사실 20~30대 때부터 준호를 알았는데 5]]></content>
     </entry>
 </feed>
