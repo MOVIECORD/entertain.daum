@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2023-02-21T17:11:57.888Z</updated>
+    <updated>2023-02-21T18:15:38.786Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['상암동 7층 신사옥 소개' 송은이-김숙, 8년 고생 헛되지 않은 결실]]></title>
+        <id>https://v.daum.net/v/20230222030803671</id>
+        <link href="https://v.daum.net/v/20230222030803671"/>
+        <updated>2023-02-21T18:15:33.028Z</updated>
+        <content type="html"><![CDATA[출처 | 유튜브 ‘비보티비’ [스포츠서울 | 김소인기자] 코미디언 송은이와 김숙 그들의 노력이 결실을 맺었다. 지난 21일 유튜브 채널 ‘비보티비’에는 ‘최초 공개 VIVO 송대표와 숙이사의 랜선 오피스 투어’라는 제목의 영상이 업로드되었다. 개그우먼이자 사업가인 송은이는]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[한영 "박군 쥐어박고 싶어"...신혼부부 위기에 '동상이몽' 시청률 치솟아]]></title>
         <id>https://v.daum.net/v/20230222020530308</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230222000006672"/>
         <updated>2023-02-21T15:13:08.898Z</updated>
         <content type="html"><![CDATA[[마이데일리 = 김나라 기자] 하이브가 SM엔터테인먼트 인수와 관련 "적대적 M&amp;A(인수합병)가 아니다"라는 입장을 강조했다. 하이브 박지원 CEO(최고경영자)는 21일 오후 열린 지난해 4분기 실적 발표 콘퍼런스콜에서 "우리는 SM엔터테인먼트의 지분 인수를 적대적 인수·합병이라고 생각하지 않는다. 최대 주주(이수만)의 지분을 상호 합의로 인수했다. 소액]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘돌싱포맨’ 별 “하하와 술 문제로 자주 다퉈, 취한 사람 대처법 몰라”]]></title>
-        <id>https://v.daum.net/v/20230221235701654</id>
-        <link href="https://v.daum.net/v/20230221235701654"/>
-        <updated>2023-02-21T15:13:08.899Z</updated>
-        <content type="html"><![CDATA[[TV리포트=이혜미 기자] 하하와 별이 ‘거품 낀 잉꼬부부’라는 소문에 정면으로 반박했다. 그러면서도 별은 하하의 음주 문제로 신혼 초 부부싸움을 하기도 했다며 관련 사연을 소개했다. 21일 SBS ‘신발 벗고 돌싱포맨’에선 하하와 별이 게스트로 출연해 결혼생활을 공개했다. 하하와 별은 결혼 12년차의 잉꼬부부다. 이날 하하는 “잉꼬 이미지가 거품이라는 소]]></content>
     </entry>
 </feed>
