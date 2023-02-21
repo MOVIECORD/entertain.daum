@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2023-02-21T16:15:02.001Z</updated>
+    <updated>2023-02-21T17:11:57.888Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[한영 "박군 쥐어박고 싶어"...신혼부부 위기에 '동상이몽' 시청률 치솟아]]></title>
+        <id>https://v.daum.net/v/20230222020530308</id>
+        <link href="https://v.daum.net/v/20230222020530308"/>
+        <updated>2023-02-21T17:11:51.551Z</updated>
+        <content type="html"><![CDATA[[TV리포트=이수연 기자] 박군, 한영의 신혼 민낯과 폭로전을 담은 SBS '동상이몽2-너는 내 운명'(이하 '동상이몽')이 월요병을 책임졌다. 시청률 조사 회사 닐슨코리아에 따르면 20일 방송된 SBS '동상이몽'의 수도권 가구 시청률은 6.8%, 화제성과 경쟁력 지표인 2049 타깃 시청률은 2.3%로 시청률 상승세를 그리며 동시간대 1위는 물론 월요]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김진우 “부모 이혼으로 힘든 시간, 결혼한 지금이 제일 행복” 뭉클]]></title>
+        <id>https://v.daum.net/v/20230222020008292</id>
+        <link href="https://v.daum.net/v/20230222020008292"/>
+        <updated>2023-02-21T17:11:51.554Z</updated>
+        <content type="html"><![CDATA[[동아닷컴] 사진 제공=채널A ‘요즘 남자 라이프-신랑수업’채널A 예능 '신랑수업' 이규한이 절친이자 유부남 선배인 배우 김진우와 육아 및 결혼에 대한 이야기를 나눈다. 22일 ‘요즘 남자 라이프-신랑수업’ 52회에서는 51개월 조카와 풀빌라 여행을 간 이규한의 실전편 ‘육아 수업’ 현장이 펼쳐진다. 이날 이규한은 조카와 처음으로 단둘이 시간을 보내며]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘손 없는 날’ 한가인 “연정훈과 예능으로 지방순회 중, 역마살 있나..”]]></title>
         <id>https://v.daum.net/v/20230222002800950</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230221235701654"/>
         <updated>2023-02-21T15:13:08.899Z</updated>
         <content type="html"><![CDATA[[TV리포트=이혜미 기자] 하하와 별이 ‘거품 낀 잉꼬부부’라는 소문에 정면으로 반박했다. 그러면서도 별은 하하의 음주 문제로 신혼 초 부부싸움을 하기도 했다며 관련 사연을 소개했다. 21일 SBS ‘신발 벗고 돌싱포맨’에선 하하와 별이 게스트로 출연해 결혼생활을 공개했다. 하하와 별은 결혼 12년차의 잉꼬부부다. 이날 하하는 “잉꼬 이미지가 거품이라는 소]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한혜진, 하드 다이어트 도전... 스태프 야식파티에도 “냄새만”]]></title>
-        <id>https://v.daum.net/v/20230221232700522</id>
-        <link href="https://v.daum.net/v/20230221232700522"/>
-        <updated>2023-02-21T15:13:08.899Z</updated>
-        <content type="html"><![CDATA[[TV리포트=이혜미 기자] 한혜진이 눈물의 다이어트로 톱모델의 자세를 보였다. 스태프들이 야식 파티를 벌이는 와중에도 한혜진은 프로틴으로 주린 배를 채웠다. 21일 한혜진의 공식 유튜브 채널에는 ‘한혜진이 스키 타다 비명 지른 이유’라는 제목의 영상이 업로드 됐다. 이날 유튜브 촬영에 나선 한혜진은 저장되지 않은 번호의 전화가 걸려온 상황에 “우리 오빤가?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[별 "♥하하의 최애 프로? 일단 '놀면 뭐하니'는 제외"]]></title>
-        <id>https://v.daum.net/v/20230221232542512</id>
-        <link href="https://v.daum.net/v/20230221232542512"/>
-        <updated>2023-02-21T15:13:08.907Z</updated>
-        <content type="html"><![CDATA[[스포츠조선 조윤선 기자] 별이 남편 하하의 '최애 프로그램'을 꼽았다. 21일 방송된 SBS '신발 벗고 돌싱포맨'에는 연예계 대표 사랑꾼 부부 하하♥별이 출연했다. 이날 방송에서는 하하와 별의 '거품 잉꼬부부' 소문에 대해 파헤쳐보는 시간을 가졌다. '돌싱포맨'은 과거 하하가 이이경에게 "집이 크건 작건 상관없다. 너 혼자 사]]></content>
     </entry>
 </feed>
