@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-02-20T23:13:15.578Z</updated>
+    <updated>2023-02-21T01:01:50.454Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘촬영장 총격 사망’ 알렉 볼드윈, 5년→18개월 형량 줄어 “검찰의 법적 오류”]]></title>
+        <id>https://v.daum.net/v/20230221091622113</id>
+        <link href="https://v.daum.net/v/20230221091622113"/>
+        <updated>2023-02-21T01:01:49.718Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]영화 ‘러스트’ 촬영장 총격 사건과 관련한 과실치사 혐의로 기소된 미국 배우 알렉 볼드윈(64)의 형량이 5년에서 18개월로 줄어들었다. 20일(현지시간) 버라이어티에 따르면, 미국 뉴멕시코주 검찰은 알렉 볼드윈과 그에게 실탄이 장전된 총을 건네준 한나 구티에레즈-리드에 대한 5년 구형을 철회했다. 이는 피고 측이 ‘러스트’]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[강형욱, '성추행' 가짜 뉴스에 "줘새끼 같은 놈들" 발끈…"그 놈도 나쁜데, 만드는 놈도 나빠!"]]></title>
         <id>https://v.daum.net/v/20230221075318934</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230220183016279"/>
         <updated>2023-02-20T10:14:55.194Z</updated>
         <content type="html"><![CDATA[(엑스포츠뉴스 이창규 기자) 메간 폭스가 최근 결별설이 돌았던 약혼남 머신 건 켈리의 불륜설에 대해 그를 옹호하는 글을 올렸다. 메간 폭스는 19일(현지시간) "우리의 관계에 제3자가 끼어들거나 한 적이 없다. 그게 사람이든 DM이든 AI 봇이든 서큐버스 악마든 간에 말이다"라며 "당신에게서 근거 없이 보도되는, 챗GPT로 작성된 게 훨씬 정확했을 법한 뉴]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[디즈니, '앤트맨3' 혹평에도 수익 1조 원 돌파]]></title>
-        <id>https://v.daum.net/v/20230220174130906</id>
-        <link href="https://v.daum.net/v/20230220174130906"/>
-        <updated>2023-02-20T09:13:20.364Z</updated>
-        <content type="html"><![CDATA[[TV리포트=이수연 기자] 박스오피스를 장악한 디즈니가 벌써 올 한 해 수익 1조 원을 돌파했다. 북미 박스오피스에 따르면 디즈니는 새해가 시작된 지 6주 만에 이미 전 세계적으로 누적 수익 10억 달러(한화 약 1조 3천억 원)을 돌파했고, 20일까지 12억 8300만 달러(한화 약 1조 7천억 원)를 벌어들였다. 다른 주요 스튜디오라면 최대 12개월이]]></content>
     </entry>
 </feed>
