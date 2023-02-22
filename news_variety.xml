@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/variety</id>
     <title>다음 연예 ─ 뉴스 ─ 예능</title>
-    <updated>2023-02-22T10:13:40.392Z</updated>
+    <updated>2023-02-22T11:10:44.918Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[서장훈 "못 들은 걸로 하겠습니다" 발끈...왜?]]></title>
+        <id>https://v.daum.net/v/20230222191801134</id>
+        <link href="https://v.daum.net/v/20230222191801134"/>
+        <updated>2023-02-22T11:10:35.199Z</updated>
+        <content type="html"><![CDATA[[텐아시아=차혜영 기자] '명동사랑방' 서장훈이 출연자에 발끈해 그 이유에 관심이 집중된다. 오는 23일 방송되는 ENA 예능 프로그램 '명동사랑방' 4회에서는 MZ대학생 16인의 초대형 단체미팅이 그려진다. '명동사랑방'은 우정과 사랑 사이, 1박 2일간 숨 가쁘게 펼쳐지는 커플 매칭을 그린 초대형 미팅 프로그램이다. 이번 프로그램은 대학생들의 거침]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[걸그룹 출신·축구 선수 친누나 합류...탑걸X국대패밀리, 새 멤버 누구?]]></title>
         <id>https://v.daum.net/v/20230222191207016</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230222171744072"/>
         <updated>2023-02-22T09:12:59.225Z</updated>
         <content type="html"><![CDATA[[OSEN=박소영 기자] 개그계 대표 부부 강재준-이은형 부부는 매주 수요일 밤 10시 방송되는 TV CHOSUN &lt;부부 선수촌-이번 생은 같은 편&gt;에 출연하고 있다. 이생편은 부부 3대 금기사항 ‘함께 운동하기’를 시작한 연예계 대표 부부들의 우여곡절 스포츠 도전기를 보여준다. 용인대 체육학과 출신 운동 천재 강재준과 긴 팔다리에 어울리지 않게 운동신]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['221cm' 하승진, 美 NBA서 웃픈 일화…"한동안 오해 받았다"]]></title>
-        <id>https://v.daum.net/v/20230222171043822</id>
-        <link href="https://v.daum.net/v/20230222171043822"/>
-        <updated>2023-02-22T08:16:14.657Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 오승현 기자) '라디오스타' 허재와 하승진이 과거 농구 선수 시절 일화를 밝힌다. 22일 방송하는 MBC 예능 프로그램 ‘라디오스타’에는 박항서, 이천수, 허재, 하승진이 출연하는 ‘일타 슛캔들’ 특집이 담긴다. 허재는 농구 레전드 중 최초로 선수 시절과 지도자 시절에 모두 챔피언을 거머쥔 기록을 보유하고 있는 농구 대통령이다. 최근에는 예능]]></content>
     </entry>
 </feed>
