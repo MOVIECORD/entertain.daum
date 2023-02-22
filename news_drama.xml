@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-02-22T14:11:45.540Z</updated>
+    <updated>2023-02-22T15:13:07.952Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[마왕 이장우, 김민규 훼방…"이 세상서도 즐겁게 놀아보자"]]></title>
+        <id>https://v.daum.net/v/20230223000217998</id>
+        <link href="https://v.daum.net/v/20230223000217998"/>
+        <updated>2023-02-22T15:12:50.674Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 이이진 기자) '성스러운 아이돌' 이장우가 김민규의 정체를 알고 있었다. 22일 방송된 tvN 수목드라마 '성스러운 아이돌' 3회에서는 마왕(이장우 분)이 램브러리(김민규)를 지켜보는 모습이 그려졌다. 이날 램브러리는 김달에게 "오늘 내가 쓰러진 이유는 아마 그 신성한 계약 때문일 게다. 원래 세계에 있는 우연우와 계약을 했다. 와일드 애니멀]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['성스러운 아이돌' 고보결, 김민규에 "매력이 없다"]]></title>
         <id>https://v.daum.net/v/20230222230622552</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230222181003617"/>
         <updated>2023-02-22T09:12:54.822Z</updated>
         <content type="html"><![CDATA[(엑스포츠뉴스 최희재 기자) 가수 겸 배우 차은우가 연기에 대한 애정과 목표에 대해 전했다. 티빙 오리지널 시리즈 '아일랜드'는 세상을 멸망시키려는 악에 대항해 싸워야 하는 운명을 가진 인물들의 여정을 그린 드라마. 파트1은 지난해 12월 30일 공개됐으며 파트2는 오는 24일 공개된다. 차은우는 극중 바티칸 최연소 구마사제 요한 역을 맡아 열연을 펼쳤다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[최민식, 끝없는 위기…민회장 살인사건 전말 밝혀진다]]></title>
-        <id>https://v.daum.net/v/20230222175045063</id>
-        <link href="https://v.daum.net/v/20230222175045063"/>
-        <updated>2023-02-22T09:12:54.826Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 윤현지 기자) 최민식이 끝나지 않는 위기에 놓인다. 지난 15일 민회장(김홍파) 살인사건 발생으로 충격 엔딩을 안긴 '카지노' 시즌 2가 오늘 4화에서 살인사건의 전말을 밝힐 예정이다.&nbsp; 사건의 강력한 용의자로 거론된 차무식(최민식)은 자신의 무고함을 주장하지만, 그를 용의자로 만들고자 짜여진 덫에 철저히 빠지게 되고 이에 자취를 감춘다. 해]]></content>
     </entry>
 </feed>
