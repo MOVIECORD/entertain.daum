@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-02-22T09:13:09.203Z</updated>
+    <updated>2023-02-22T10:13:40.395Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[최수종♥하희라도 가짜뉴스 피해…소속사 "선처없이 법적대응"]]></title>
+        <id>https://v.daum.net/v/20230222185222597</id>
+        <link href="https://v.daum.net/v/20230222185222597"/>
+        <updated>2023-02-22T10:13:24.153Z</updated>
+        <content type="html"><![CDATA[[이데일리 스타in 김보영 기자] 최수종, 하희라 부부 측이 이혼설 등 가짜뉴스에 강경 대응을 예고했다. 최수종 하희라의 소속사 아센디오 측은 22일 이데일리에 “최근 온라인상에서 최수종, 하희라 씨의 명예를 훼손하는 터무니없는 가짜뉴스가 지속적으로 업로드되고 있는 것을 확인했다”며 “이에 허위사실을 무차별적으로 유포하고 배우의 명예를 실추하는 행위에]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['아일랜드' 차은우 "요한 役 '편해 보였다'는 반응, 신기하고 좋았어요"]]></title>
         <id>https://v.daum.net/v/20230222181134654</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230222155211597"/>
         <updated>2023-02-22T07:11:45.574Z</updated>
         <content type="html"><![CDATA[[OSEN=연휘선 기자] 배우 김성규의 소속사가 '파친코2' 출연 소식에 조심스러운 입장을 보였다.&nbsp; 22일 소속사 사람엔터테인먼트 관계자는 OSEN에 "김성규 배우의 '파친코2' 출연 소식과 관련해서는 현재로서는 드릴 말씀이 없다. 양해 부탁드린다"라고 밝혔다.&nbsp; 이날 오후 한 매체는 김성규가 애플TV+ 오리지널 시리즈 '파친코' 시즌2에 출연한다고]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['청춘월담' 허원서, 눈에 띄는 루키…까칠·엉뚱·허당 매력]]></title>
-        <id>https://v.daum.net/v/20230222151332909</id>
-        <link href="https://v.daum.net/v/20230222151332909"/>
-        <updated>2023-02-22T06:16:17.260Z</updated>
-        <content type="html"><![CDATA[[OSEN=장우영 기자] 신예 허원서가 까칠한 모습 뒤 허당 반전 매력으로 극의 긴장감을 풀어주고 있다. tvN 월화드라마 '청춘월담'(극본 정현정, 연출 이종재)에서 늘 세자의 뒤를 그림자처럼 따르는 세자익위사 소속 무사 최태강 역을 맡은 허원서가 허당기를 더한 까칠한 호위무사 캐릭터를 유쾌하게 소화해 내며 극을 더욱 풍성하게 살리고 있다. 극 중 최]]></content>
     </entry>
 </feed>
