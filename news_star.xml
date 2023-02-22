@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2023-02-22T16:16:33.229Z</updated>
+    <updated>2023-02-22T17:11:47.736Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[하하 "유재석 꼴 보기 싫을 때 있다"...'돌싱포맨' 시청률 1위]]></title>
+        <id>https://v.daum.net/v/20230223020530661</id>
+        <link href="https://v.daum.net/v/20230223020530661"/>
+        <updated>2023-02-22T17:11:41.877Z</updated>
+        <content type="html"><![CDATA[[TV리포트=이수연 기자] SBS '신발 벗고 돌싱포맨'이 연예계 대표 사랑꾼 부부 하하, 별의 솔직 입담으로 화요 예능 1위를 차지했다. 닐슨 코리아에 따르면, 21일 '신발 벗고 돌싱포맨'은 화제성 경쟁력 지표인 2049 타깃 시청률에서 2.1%로 화요 예능 1위를 차지하고, 수도권 가구시청률은 5.2%, 최고 분당 가구시청률은 5.8%를 기록했다. 이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[방송중단 시고  '유퀴즈' "큰 실수로 물의 빚어, 장미란에 죄송" 사과]]></title>
         <id>https://v.daum.net/v/20230223005325378</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230222233028747"/>
         <updated>2023-02-22T15:13:02.028Z</updated>
         <content type="html"><![CDATA[[스포츠조선 이유나 기자]"3년 전 게시글 너무 후회, 죄송" vs "한마디에 추락, 한국 캔슬컬쳐 심해" 가나 출신 방송인 샘 오취리가 한국 방송과 미국 채널 방송에서 극명한 온도차가 느껴지는 해명이 진성성 논란으로 번지고 있다. 지난 21일 방송된 채널S '진격의 언니들'에서는 한국의 대중이 화가 난 부분에 일일이 해명하며 사죄의 모습을]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['나는 솔로' 인기남 영철, 영숙 선택…첫인상 매칭 커플 無]]></title>
-        <id>https://v.daum.net/v/20230222232205695</id>
-        <link href="https://v.daum.net/v/20230222232205695"/>
-        <updated>2023-02-22T15:13:02.030Z</updated>
-        <content type="html"><![CDATA[(서울=뉴스1) 박하나 기자 = '나는 솔로' 첫인상 인기남 영철이 영숙을 선택했다. 22일 오후 방송된 ENA·SBS Plus 예능 프로그램 '나는 SOLO &lt;나는 솔로&gt;'에서는 '솔로나라 13번지' 개성파 특집 13기의 이야기가 이어졌다. 지난주, 순자, 정숙, 영자, 옥순에게 첫인상 선택 4표를 받으며 인기남에 등극한 영철의 첫인상 선택이 담겼다.]]></content>
     </entry>
 </feed>

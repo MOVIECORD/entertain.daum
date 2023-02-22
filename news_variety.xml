@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/variety</id>
     <title>다음 연예 ─ 뉴스 ─ 예능</title>
-    <updated>2023-02-22T16:16:33.230Z</updated>
+    <updated>2023-02-22T17:11:47.733Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['고딩엄빠3' 미혼부 하상민 딸, 12살 차 새엄마에 "버려질까 무서워"]]></title>
+        <id>https://v.daum.net/v/20230223013020573</id>
+        <link href="https://v.daum.net/v/20230223013020573"/>
+        <updated>2023-02-22T17:11:36.632Z</updated>
+        <content type="html"><![CDATA[[OSEN=오세진 기자]&nbsp;MBN ‘어른들은 모르는 고딩엄빠3’(이하 ‘고딩엄빠3’) 하혜나 양이 어릴 적의 기억으로 힘겨워 하는 모습을 보였다. 22일 방영한 ‘고딩엄빠3’에서는 최초로 미혼부가 등장했다. 바로 19살에 고딩아빠가 된 하상민 씨. 상민 씨는 어린 나이에도 책임을 다하고자 했으나 아이의 친모는 상민 씨와의 삶을 포기했다. 상민 씨는 군 생]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘유퀴즈’ 장미란 편 방송 중단 사고 “편집 과정서 오류, 3월 1일 방송”]]></title>
         <id>https://v.daum.net/v/20230223011432504</id>
@@ -41,7 +48,7 @@
         <content type="html"><![CDATA[‘나는 솔로’ 13기 영식이 자기소개를 했다. 22일(수) 방송된 ENA와 SBS플러스가 공동 제작하는 ‘나는 SOLO’ 85회에서 13기 솔로남들이 자기소개하는 모습이 공개됐다. 이날 영식은 나이에 대해 87년생, 37세라고 밝혔다. 그는 “부산에 있는 체육고등학교에서 역도부 학생들을 지도하고 있는 역도 지도자”라며 직업에 대해 소개했다. 그러자 영]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[‘의사’ 영수→'역도 지도' 영철 "아파트 두 채 보유"..男 직업 공개]]></title>
+        <title type="html"><![CDATA[‘의사’ 영수→'역도 지도' 영식 "아파트 두 채 보유"..男 직업 공개]]></title>
         <id>https://v.daum.net/v/20230223005315377</id>
         <link href="https://v.daum.net/v/20230223005315377"/>
         <updated>2023-02-22T16:16:21.578Z</updated>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230223002501245"/>
         <updated>2023-02-22T16:16:21.586Z</updated>
         <content type="html"><![CDATA[[텐아시아=신지원 기자]'나는 솔로' 13기 영수의 반전 스펙이 밝혀졌다. 22일 방송된 SBS PLUS, ENA PLAY '나는 솔로'에서는 13기 남자 출연자들의 스펙이 공개됐다. 이날 영수는 첫인상 선택으로 옥순을 선택했다. 제작진과의 인터뷰에서 영수는 "도도해 보이는데 걱정해주는 모습에서 인간미가 느껴지더라"라며 "제가 그런 부분에서 약한 편이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['알바돌' 팀 11시, '피크타임' 우승 후보 등극..송민호 "코피 나"]]></title>
-        <id>https://v.daum.net/v/20230223002044220</id>
-        <link href="https://v.daum.net/v/20230223002044220"/>
-        <updated>2023-02-22T16:16:21.588Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 김나연 기자] 사진=JTBC 피크타임'피크타임'의 팀 11시가 1라운드에 이어 라이벌 대결에서도 극찬을 받았다. 22일 방송된 JTBC '피크타임'에서는 치열한 서바이벌 라운드에서 살아남은 16팀이 불꽃 튀는 라이벌 대결을 펼쳤고, 이날 팀 24시와 11시가 맞붙었다. 1라운드에서 극찬을 받은 바 있는 팀 11시는 "그동안 청량한 콘셉트를]]></content>
     </entry>
 </feed>
