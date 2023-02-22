@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-02-22T03:16:23.760Z</updated>
+    <updated>2023-02-22T04:15:06.767Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[정경호♥전도연, 열선 커플이라더니..훈훈 아닌 후끈한 로맨스]]></title>
+        <id>https://v.daum.net/v/20230222122817984</id>
+        <link href="https://v.daum.net/v/20230222122817984"/>
+        <updated>2023-02-22T04:14:49.306Z</updated>
+        <content type="html"><![CDATA[[OSEN=박소영 기자] ‘일타&nbsp;스캔들’이 각양각색 매력을 지닌 다채로운 로맨스로 극의 재미를 한층 극대화하고 있다. tvN&nbsp;토일드라마 ‘일타&nbsp;스캔들’(연출 유제원,&nbsp;극본 양희승,&nbsp;제작 스튜디오드래곤)은 사교육 전쟁터에서 펼쳐지는 국가대표 반찬가게 열혈 사장과 대한민국 수학&nbsp;일타&nbsp;강사의 달콤 쌉싸름한 로맨스다.&nbsp;지난 방송에서는 행선(전도연)과 치열(정경]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[플레이리스트, 훌루와 손 잡고 '플레이, 플리’ 제작..日 진출 신호탄]]></title>
         <id>https://v.daum.net/v/20230222121504776</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230222103013951"/>
         <updated>2023-02-22T02:21:08.320Z</updated>
         <content type="html"><![CDATA[방탄소년단 뷔(사진=tvN)[이데일리 스타in 김가영 기자] 방탄소년단 뷔가 ‘서진이네’ 참여한 소감을 밝혔다. 22일 오전 온라인으로 생중계된 tvN ‘서진이네’ 제작발표회에는 이서진, 정유미, 박서준, 최우식, 방탄소년단 뷔가 참석했다. 새롭게 인턴으로 합류한 뷔는 “많은 기대를 하고 촬영을 했다. 한번도 경험하지 못할 것을 나영석 PD님이 경험시켜줬]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['서진이네' 이서진 "나이 있는데 누구 밑에서 일할 수 없어 독립"]]></title>
-        <id>https://v.daum.net/v/20230222102022483</id>
-        <link href="https://v.daum.net/v/20230222102022483"/>
-        <updated>2023-02-22T02:21:08.324Z</updated>
-        <content type="html"><![CDATA[이서진(사진=tvN)[이데일리 스타in 김가영 기자] 배우 이서진이 창업 소감을 밝혔다. 22일 오전 온라인으로 생중계된 tvN ‘서진이네’ 제작발표회에는 이서진, 정유미, 박서준, 최우식, 방탄소년단 뷔가 참석했다. ‘서진이네’를 통해 사장으로 승진한 이서진은 “저도 나이가 있는데 언제까지 누구 밑에서 일할 순 없다”고 소감을 밝혔다. 이어 “고민을 해]]></content>
     </entry>
 </feed>
