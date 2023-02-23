@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-02-23T12:24:38.928Z</updated>
+    <updated>2023-02-23T13:23:01.804Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이도군, '카지노' 시즌2 꼬마役 합류…긴장감 더하는 신스틸러 활약]]></title>
+        <id>https://v.daum.net/v/20230223212742600</id>
+        <link href="https://v.daum.net/v/20230223212742600"/>
+        <updated>2023-02-23T13:22:45.086Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 김유진 기자) 배우 이도군이 '카지노2'에서 극에 긴장감을 더하는 신스틸러로 활약해 시청자들에게 눈도장을 찍었다. 디즈니+의 오리지널 시리즈 '카지노'가 시즌2로 돌아온 가운데 이도군이 삼합회 부두목 꼬마 역으로 새롭게 합류, 허성태(서태석 역)와 대립구도를 형성하며 극의 긴장감을 높이고 있다. 지난 15일 공개된 '카지노2' 1회에서는 이도]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘내 눈에 콩깍지’ 배누리, 백성현에 이별 통보 “당신 지울 것”]]></title>
         <id>https://v.daum.net/v/20230223210600316</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230223172811562"/>
         <updated>2023-02-23T09:12:32.171Z</updated>
         <content type="html"><![CDATA[(엑스포츠뉴스 이예진 기자) ‘일타 스캔들’이 가슴 두근거리는 설렘과 건강한 웃음, 그리고 마음을 따뜻하게 하는 힐링을 선사하는 드라마의 대표주자로 사랑을 듬뿍 받고 있다. tvN 토일드라마 ‘일타 스캔들’이 뜨거운 흥행 열풍을 이어가고 있다. 로맨스는 기본, 적재적소에 배치된 코미디와 때로는 가슴 뭉클하게 만드는 힐링을 선사하며 시청자들을 매료시킨 것.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[신현준 소속사, 전 매니저 징역형 집유에 “믿어주신 많은 분들께 감사”]]></title>
-        <id>https://v.daum.net/v/20230223165738523</id>
-        <link href="https://v.daum.net/v/20230223165738523"/>
-        <updated>2023-02-23T08:16:00.983Z</updated>
-        <content type="html"><![CDATA[사진=이데일리 DB[이데일리 스타in 유준하 기자] 배우 신현준의 갑질과 프로포폴 의혹을 제기한 전매니저 A씨가 23일 징역형 집행유예를 확정받은 가운데 신 씨 소속사가 입장문을 내놨다. 이날 에이치제이필름은 “최근 신현준 배우에 대해 명예훼손을 한 김 모씨에 대해 서부지방법원 형사 항소심에서 유죄 판결이 선고, 확정됐다”면서 “결국 진실이 밝혀졌지만 그]]></content>
     </entry>
 </feed>
