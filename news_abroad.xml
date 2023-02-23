@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-02-23T10:13:35.119Z</updated>
+    <updated>2023-02-23T11:10:52.355Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“英 아카데미 수상자 49명 전원 백인”, 비난 쏟아져]]></title>
+        <id>https://v.daum.net/v/20230223191827365</id>
+        <link href="https://v.daum.net/v/20230223191827365"/>
+        <updated>2023-02-23T11:10:51.668Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]“수상자 49명 모두 백인이었다!” 지난 19일 영국 런던 사우뱅크센터 로열페스티벌홀에서 열린 제76회 영국 아카데미 시상식 수상자 49명 모두가 백인으로 선정된 것에 대한 비난 여론이 들끓고 있다. BBC는 22일(현지시간) “영국 아카데미 수상자 전원이 백인이라는 이유로 반발에 직면하고 있다”고 보도했다. 연기상 최종]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[마블, '이터널스 2' 제작 확정...마동석 돌아올까]]></title>
         <id>https://v.daum.net/v/20230223191026244</id>
@@ -48,7 +55,7 @@
         <content type="html"><![CDATA[[OSEN=최나영 기자] 톱모델 지젤 번천(42)이&nbsp;전 미식축구 선수 톰 브래디와&nbsp;이혼한 후 첫 매거진&nbsp;표지에서 완벽히 달라진 모습을 선보였다. 지젤 번천은 최근 이혼 후 첫 보그 잡지 표지를 위해 나서며 커리어를 위해 앞으로 나아가고 있다. 전 빅토리아 시크릿 모델인 번천은&nbsp;'보그' 이탈리아의 2023년 3월호에서&nbsp;붉은 색 헤어,&nbsp;입술과 눈썹,&nbsp;극적인]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[日 사토 히토미·호소가이 케이, 이혼 발..."코로나 때문"]]></title>
+        <title type="html"><![CDATA[日 사토 히토미·호소가이 케이, 이혼 발표 "코로나 때문"]]></title>
         <id>https://v.daum.net/v/20230223162530291</id>
         <link href="https://v.daum.net/v/20230223162530291"/>
         <updated>2023-02-23T08:16:16.795Z</updated>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230223134031298"/>
         <updated>2023-02-23T05:12:15.298Z</updated>
         <content type="html"><![CDATA[[TV리포트=이수연 기자] '여왕벌' 역할을 맡는 레이첼 맥아담스를 볼 수 없게 됐다. 22일(현지 시간) 미국 연예 매체 페이지식스(Page Six)에 따르면 영화 '퀸카로 살아남는 법'이 다시 돌아올 계획이었으나 무산됐다. 2004년에 개봉해 하이틴 영화계의 톱으로 불리며 여전히 뜨거운 사랑을 받고 있는 '퀸카로 살아남는 법'은 OTT 플랫폼 파라마]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["구준엽 배신에 입원"...서희원, 가짜뉴스에 범죄기록 서류 공개]]></title>
-        <id>https://v.daum.net/v/20230223123300765</id>
-        <link href="https://v.daum.net/v/20230223123300765"/>
-        <updated>2023-02-23T04:16:13.830Z</updated>
-        <content type="html"><![CDATA[[TV리포트=박설이 기자]대만 스타 서희원이 남편 구준엽에 관한 가짜뉴스에 적극 대응했다. 22일 서희원 측은 중국 웨이보 계정에 "구준엽은 2022년 4월 한국 당국으로부터 범죄가 없다는 기록을 발급 받았다"며 "또 다시 유언비어와 허위사실, 사회 질서에 영향을 끼치는 악의적 글이나 영상이 유포될 법적 조치를 취할 것"이라는 입장문을 올렸다. 이는 앞서]]></content>
     </entry>
 </feed>
