@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-02-23T09:12:49.104Z</updated>
+    <updated>2023-02-23T10:13:35.119Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[마블, '이터널스 2' 제작 확정...마동석 돌아올까]]></title>
+        <id>https://v.daum.net/v/20230223191026244</id>
+        <link href="https://v.daum.net/v/20230223191026244"/>
+        <updated>2023-02-23T10:13:34.476Z</updated>
+        <content type="html"><![CDATA[[TV리포트=이수연 기자] 마블의 '이터널스 2' 제작이 확정됐다. 22일 마블 관계자 KC 월시는 자신의 소셜네트워크서비스를 통해 '이터널스 2'가 마블의 제작 일정에 추가됐다고 밝혔다. 지난 2021년 11월 '이터널스'가 개봉한 이후 속편 제작 소식이 들리지 않다가 이번에 '이터널스 2' 제작이 확정되면서 팬들의 반가움을 샀다. '이터널스'는 코로나]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[68세 성룡, 30세 여배우와 러브라인?...中 누리꾼 "역겹다"]]></title>
         <id>https://v.daum.net/v/20230223180030605</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230223123300765"/>
         <updated>2023-02-23T04:16:13.830Z</updated>
         <content type="html"><![CDATA[[TV리포트=박설이 기자]대만 스타 서희원이 남편 구준엽에 관한 가짜뉴스에 적극 대응했다. 22일 서희원 측은 중국 웨이보 계정에 "구준엽은 2022년 4월 한국 당국으로부터 범죄가 없다는 기록을 발급 받았다"며 "또 다시 유언비어와 허위사실, 사회 질서에 영향을 끼치는 악의적 글이나 영상이 유포될 법적 조치를 취할 것"이라는 입장문을 올렸다. 이는 앞서]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['오스카' 측, 제2의 '뺨 폭행' 사건 안 일어나도록 '위기 대응팀' 신설]]></title>
-        <id>https://v.daum.net/v/20230223121401477</id>
-        <link href="https://v.daum.net/v/20230223121401477"/>
-        <updated>2023-02-23T03:15:04.959Z</updated>
-        <content type="html"><![CDATA[[TV리포트=이수연 기자] 오는 3월 개최되는 2023년 오스카 시상식은 제2의 '뺨 폭행' 사건을 대비해 만발의 준비 중이다. 22일(현지 시간) 미국 연예 매체 버라이어티(Variety)에 따르면 아카데미 최고경영자(CEO) 빌 크레이머는 오는 3월 개최되는 '제95회 아카데미 시상식'을 위해 '위기 대응 팀'을 신설해 모든 비상 상황에 신속하게 대비할]]></content>
     </entry>
 </feed>
