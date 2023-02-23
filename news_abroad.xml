@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-02-22T23:11:59.238Z</updated>
+    <updated>2023-02-23T00:57:02.473Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['최고령 본드걸' 모니카 벨루치, 팀 버튼 감독과 열애설 일파만파]]></title>
+        <id>https://v.daum.net/v/20230223084427950</id>
+        <link href="https://v.daum.net/v/20230223084427950"/>
+        <updated>2023-02-23T00:57:01.847Z</updated>
+        <content type="html"><![CDATA[[OSEN=박소영 기자] 팀 버튼 감독이 모델 배우 모니카 벨루치와 열애설에 휩싸였다. 22일(현지시각) 외신 보도에 따르면 두 사람은 2006년 칸의 팔레 데 페스티벌 계단에서 조우한 지 16년 만인 지난해 10월 뤼미에르 영화제에서 다시 만났다. 당시 모니카 벨루치는 팀 버튼 감독에게 공로상을 전달했다. 이날 영화제 파티에서 이들은 나란히 앉아 인연]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[서희원, ♥구준엽 무범죄 증명서 공개 초강수…굳건한 세기의 사랑]]></title>
         <id>https://v.daum.net/v/20230223081038172</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230222160437157"/>
         <updated>2023-02-22T07:12:02.320Z</updated>
         <content type="html"><![CDATA[[스포츠조선 안소윤 기자] 할리우드 배우 리암 니슨(71)이 영화 '007' 시리즈 출연을 거절한 이유를 밝혔다. 리암 니슨은 지난 20일(현지시간) 미국 음악 전문 매거진 롤링스톤과의 인터뷰에서 "'007' 시리즈의 제작자 바바라 브로콜리가 90년대에 자신에 제임스 본드 역을 여러 차례 제안했었다"고 밝혔다. 영화 '쉰들러 리스트'(19]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[50살 주드 로, 7번째 아이 출산 “애기엄마는 모두 4명”]]></title>
-        <id>https://v.daum.net/v/20230222153137702</id>
-        <link href="https://v.daum.net/v/20230222153137702"/>
-        <updated>2023-02-22T07:12:02.322Z</updated>
-        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]유명 배우 주르 로(50)가 7번째 아이를 얻었다. 연예매체 페이지식스는 21일(현지시간) “주드 로가 아내 필리파 코헨(35)과 함께 유모차 두 대를 끌고 런던 히드로 공항을 통과하는 모습이 사진에 찍혔다”고 보도했다. 코언은 부부의 첫 아이를 태운 유모차 한 대를 밀었고, 신원을 알 수 없는 여성은 다른 아기를 태운 두]]></content>
     </entry>
 </feed>
