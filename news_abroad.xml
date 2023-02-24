@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-02-24T03:16:25.231Z</updated>
+    <updated>2023-02-24T04:15:00.118Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[영화 '반지의 제왕' 시리즈, 추가 제작…피터 잭슨도 '긍정적']]></title>
+        <id>https://v.daum.net/v/20230224124541263</id>
+        <link href="https://v.daum.net/v/20230224124541263"/>
+        <updated>2023-02-24T04:14:59.454Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 이창규 기자) 영화 '반지의 제왕' 시리즈가 추가로 제작된다. 23일(현지시간) 미국 할리우드 리포터(THR)는&nbsp;이날 데이비드 자슬라브 워너브라더스 디스커버리 CEO가 2022년 4/4분기 실적 공개 후 가진 컨퍼런스 콜에서 자회사인 뉴라인 시네마를 통해 '반지의 제왕' 시리즈의 신작을 내놓겠다고 발표했다고 보도했다. 이들은 뉴라인 시네마가]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[마돈나, 41살 연하 모델과 결별…"상처받진 않아"]]></title>
         <id>https://v.daum.net/v/20230224115327002</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230223191827365"/>
         <updated>2023-02-23T11:10:51.668Z</updated>
         <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]“수상자 49명 모두 백인이었다!” 지난 19일 영국 런던 사우뱅크센터 로열페스티벌홀에서 열린 제76회 영국 아카데미 시상식 수상자 49명 모두가 백인으로 선정된 것에 대한 비난 여론이 들끓고 있다. BBC는 22일(현지시간) “영국 아카데미 수상자 전원이 백인이라는 이유로 반발에 직면하고 있다”고 보도했다. 연기상 최종]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[마블, '이터널스 2' 제작 확정...마동석 돌아올까]]></title>
-        <id>https://v.daum.net/v/20230223191026244</id>
-        <link href="https://v.daum.net/v/20230223191026244"/>
-        <updated>2023-02-23T10:13:34.476Z</updated>
-        <content type="html"><![CDATA[[TV리포트=이수연 기자] 마블의 '이터널스 2' 제작이 확정됐다. 22일 마블 관계자 KC 월시는 자신의 소셜네트워크서비스를 통해 '이터널스 2'가 마블의 제작 일정에 추가됐다고 밝혔다. 지난 2021년 11월 '이터널스'가 개봉한 이후 속편 제작 소식이 들리지 않다가 이번에 '이터널스 2' 제작이 확정되면서 팬들의 반가움을 샀다. '이터널스'는 코로나]]></content>
     </entry>
 </feed>
