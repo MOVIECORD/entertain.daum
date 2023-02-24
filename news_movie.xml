@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-02-24T08:15:52.830Z</updated>
+    <updated>2023-02-24T09:13:31.621Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[몇 번이고 보러올게요, ‘스즈메의 문단속’]]></title>
+        <id>https://v.daum.net/v/20230224180901259</id>
+        <link href="https://v.daum.net/v/20230224180901259"/>
+        <updated>2023-02-24T09:13:08.332Z</updated>
+        <content type="html"><![CDATA[문 너머에는, 모든 시간이 있었다. 과거, 현재, 미래를 잇는 이야기다. 빛의 마술사다운 황홀한 미장센, 눈호강 작화와 섬세한 연출, 뇌리에 남는 몽환적 OST, 꿈같은 판타지 안에 녹여낸 희망과 용기의 메시지까지. 신카이 마코토 감독의 세계관과 그 장점을 집대성 한, ‘스즈메의 문단속’이다. 규수의 한적한 마을. 평범한 소녀 ‘스즈메’는 등교하던 중 폐허]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['스즈메의 문단속' 지진폐허 속 오열하며 엄마찾는 4살 아이..희망을 보았다]]></title>
+        <id>https://v.daum.net/v/20230224174530799</id>
+        <link href="https://v.daum.net/v/20230224174530799"/>
+        <updated>2023-02-24T09:13:08.333Z</updated>
+        <content type="html"><![CDATA[[OSEN=최나영 기자] 애니메이션 영화 '너의 이름은', '날씨의 아이'로 전세계적 열풍을 불러일으킨 감독 신카이 마코토가 자신의 세계관을 더욱 집대성한 작품으로 돌아왔다. 바로 '스즈메의 문단속(수입제공 미디어캐슬, 공동제공 로커스, 배급 쇼박스)'. 일본 장편 애니메이션 영화로는 '센과 치히로의 행방불명'(2002) 황금공상 수상 이후 무려 21년]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['스즈메의 문단속' 신카이 마코토와 함께 하는 치유의 여정 ★★★★]]></title>
         <id>https://v.daum.net/v/20230224170619830</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230224131230739"/>
         <updated>2023-02-24T04:14:38.746Z</updated>
         <content type="html"><![CDATA[[스포츠조선 조지영 기자] 배우 고준이 단편 스릴러 영화 'Faith'의 주역으로 활약했다. 고준이 영화 '곡성', '추격자', '황해' 등을 연출한 나홍진 감독과 삼성전자가 협업하여 갤럭시 S23 울트라로 촬영한 단편 스릴러 영화 'Faith'의 주연으로 출연했다. 단편 스릴러 영화 'Faith'는 총 11분 38초의 러닝타임으로 자신의 신]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['리바운드' 안재홍→정건주, 4월 극장 개봉 확정]]></title>
-        <id>https://v.daum.net/v/20230224131026704</id>
-        <link href="https://v.daum.net/v/20230224131026704"/>
-        <updated>2023-02-24T04:14:38.747Z</updated>
-        <content type="html"><![CDATA[[OSEN=김보라 기자]&nbsp;장항준 감독이 전하는 감동 실화 '리바운드'가 오는 4월 개봉을 확정짓고 티저 포스터와 예고편을 공개했다. '리바운드'(감독 장항준, 제공 넥슨코리아, 제작 비에이엔터테인먼트・워크하우스컴퍼니, 공동제공 배급 바른손이앤에이)는 2012년 전국 고교농구대회, 아무도 주목하지 않았던 최약체 농구부의 신임 코치와 6명의 선수가 쉼 없이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['낙태권'을 다시 생각하다…영화 '콜 제인']]></title>
-        <id>https://v.daum.net/v/20230224124707278</id>
-        <link href="https://v.daum.net/v/20230224124707278"/>
-        <updated>2023-02-24T04:14:38.750Z</updated>
-        <content type="html"><![CDATA[(서울=연합뉴스) 양정우 기자 = 1968년 미국 시카고에서 유능한 변호사 남편과 딸을 둔 중산층 가정의 전업주부 '로이'가 임신 중 심근병증 진단과 함께 시한부 선고를 받는다. 그가 살아날 유일한 방법은 임신을 중단하는 것이다. 하지만 남성 중심의 병원 이사회는 로이의 임신 중절을 허용하지 않는다. 절망에 빠진 로이는 우연히 알게 된 '제인스'라는 공동]]></content>
     </entry>
 </feed>
