@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-02-25T19:09:51.554Z</updated>
+    <updated>2023-02-25T20:12:23.216Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“정신과 약 밥먹듯 복용” 이보영 병력, 대표 꽃길行 장애물 되나]]></title>
+        <id>https://v.daum.net/v/20230226050908244</id>
+        <link href="https://v.daum.net/v/20230226050908244"/>
+        <updated>2023-02-25T20:12:07.649Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 서유나 기자] 이보영의 정신과 약물 치료 기록이 조성하의 손에 들어가며 긴장감을 자아냈다. 2월 25일 방송된 JTBC 토일드라마 '대행사'(극본 송수한, 연출 이창민) 15회에서는 고아인(이보영 분)이 강한나(손나은 분), 박영우(한준우 분)과 손을 잡고 강한수(조복래 분)에게 복수할 기회를 노렸다. 앞서 강한수는 자신에게 맞선 고아인에게]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['대행사' 박지일, 이보영 위해 중단된 광고 집행.."매출 50% 달성"]]></title>
         <id>https://v.daum.net/v/20230226001626752</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230225224407423"/>
         <updated>2023-02-25T14:10:36.870Z</updated>
         <content type="html"><![CDATA[노윤서가 신재하에게 쫓기다가 교통사고를 당했다. 2월 25일 방송된 tvN 토일드라마 ‘일타 스캔들’ 13회(극본 양희승 여은호/연출 유제원)에서는 남해이(노윤서 분)가 사라졌다. 이희재(김태정 분)는 법정에서 자신이 진이상(지일주 분) 살인범이 아닌 목격자라 말했다. 이희재는 자신이 돌보던 길고양이들이 쇠구슬에 맞아 다치거나 사망하는 사건들이 벌어져]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[신재하에 쫓기던 노윤서, 교통사고 당했다. 정경호, 신재하 정체의심]]></title>
-        <id>https://v.daum.net/v/20230225224401422</id>
-        <link href="https://v.daum.net/v/20230225224401422"/>
-        <updated>2023-02-25T14:10:36.871Z</updated>
-        <content type="html"><![CDATA[tvN ‘일타스캔들’ 출처 | tvN [스포츠서울 | 박효실기자] 쇠구슬 살인사건 범인 신재하가 노윤서를 노렸고, 노윤서가 교통사고를 당했다. 25일 방송된 tvN 토일극 ‘일타스캔들’에서 구속영장 실질심사를 받게된 이희재(김태정 분)는 판사 앞에서 자신은 쇠구슬 살인사건의]]></content>
     </entry>
 </feed>
