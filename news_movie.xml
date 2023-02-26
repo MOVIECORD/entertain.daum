@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-02-26T20:12:21.263Z</updated>
+    <updated>2023-02-26T21:10:58.378Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘멍뭉이’ 유연석이 밝힌 동물을 사랑하는 감독들]]></title>
+        <id>https://v.daum.net/v/20230227055127823</id>
+        <link href="https://v.daum.net/v/20230227055127823"/>
+        <updated>2023-02-26T21:10:39.531Z</updated>
+        <content type="html"><![CDATA[때로는 영화가 삶을 바꿀 때가 있다. 배우 유연석도 영화 ‘멍뭉이’를 통해 자신의 삶을 바꿨다. 유기견인 리타를 입양하기로 마음먹은 것이다. 최근 서울 삼청동 한 카페에서 만난 유연석은 “유기견 입양을 결정하기까지 많은 고민이 있었다”며 “영화를 찍으면서 유기견 이야기를 다루다보니 용기를 낼 수 있었다. 진돗개 이상 중대형견은 입양이 잘 안 돼서 ‘큰]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['그알' 같은 공포영화 '마루이 비디오', 원작은 훨씬 진지했던 '목두기 비디오']]></title>
         <id>https://v.daum.net/v/20230226191226803</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230226101536451"/>
         <updated>2023-02-26T02:54:17.601Z</updated>
         <content type="html"><![CDATA[[뉴스엔 배효주 기자] 홍상수 감독이 베를린 국제영화제 4년 연속 수상에 실패했다. 제73회 베를린 국제영화제가 2월 26일(이하 현지시간) 폐막하는 가운데, 시상식이 25일 독일 베를린 베를리날레 팔라스트에서 열렸다. 홍상수 감독의 신작이자, 연인 김민희가 제작실장으로 참여한 영화 '물 안에서'가 인카운터 경쟁 부문에 후보로 올랐으나, 수상은 불발됐다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["액션 도전부터 딸 득녀까지"…'살수' 신현준, 50대에 다시 쓴 '인생 2막']]></title>
-        <id>https://v.daum.net/v/20230226101208387</id>
-        <link href="https://v.daum.net/v/20230226101208387"/>
-        <updated>2023-02-26T02:54:17.601Z</updated>
-        <content type="html"><![CDATA[[스포츠조선 안소윤 기자] 배우 신현준이 말하는 대로 이뤄내는 기적을 보여줬다. 조선 최고의 살수이자 뛰어난 검술 실력의 소유자 이난을 연기하며 환갑 전 액션 영화에 도전하고 싶다는 바람을 현실로 이뤄냈기 때문. 22일 개봉한 영화 '살수'는 혼돈의 세상, 거스를 수 없는 운명의 앞에 놓인 조선 최고의 살수 이난의 이야기를 그린 조선 액션]]></content>
     </entry>
 </feed>
