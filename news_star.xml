@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2023-02-26T03:23:52.563Z</updated>
+    <updated>2023-02-26T04:14:49.916Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[유아인, 1년에 프로포롤 73회, 제3의 마약까지…OTT·영화계 파장에 '발동동']]></title>
+        <id>https://v.daum.net/v/20230226130005835</id>
+        <link href="https://v.daum.net/v/20230226130005835"/>
+        <updated>2023-02-26T04:14:44.401Z</updated>
+        <content type="html"><![CDATA[[스포티비뉴스=김현록 기자]마약류 투악 혐의를 받고 있는 배우 유아인(엄홍식)에 대한 구체적 혐의가 보도를 통해 속속 알려지고 있다. 25일 채널A는 식품의약품안전처가 경찰에 유아인에 대한 수사를 의뢰하며 2021년 1월 4일부터 12일 23일까지 총 73회에 걸쳐 프로포폴을 투약한 것으로 집계됐다고 보도했다. 한 달 평균 6회를 투약한 셈이다. 또]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[데이트 폭행 자비없다]]></title>
+        <id>https://v.daum.net/v/20230226123345572</id>
+        <link href="https://v.daum.net/v/20230226123345572"/>
+        <updated>2023-02-26T04:14:44.402Z</updated>
+        <content type="html"><![CDATA[데이트 폭행에 자비는 없다. 블랭키 영빈이 데이트 폭행 논란 하루 만에 소속사에서 초고속 퇴출됐다. 지난 25일 새벽 한 온라인 커뮤니티에는 ‘아이돌 데이트 폭행’이라는 글이 올라왔다. 글 작성자 A씨는 “제 친구와 아이돌 B씨는 세 달 정도 연애했고 제 친구가 이별을 고하자 폭행을 가했다. 친구의 멱살을 잡고 골목길로 끌고 가 휴대폰을 뺏어 던지려고]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[남궁민‧이하늬‧이세영…사극명가 MBC, '믿보배'와 명성 잇는다]]></title>
         <id>https://v.daum.net/v/20230226120008049</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230226104800911"/>
         <updated>2023-02-26T02:54:33.657Z</updated>
         <content type="html"><![CDATA[[김종성 기자] 지난 24일, 채널A &lt;금쪽같은 내새끼&gt;에서는 '문제를 틀리면 이상한 동작과 소리를 내는 초6 아들' 두 번째 편이 방송됐다. 앞서 금쪽이는 스트레스가 심해지면 10가지에 달하는 틱 증상을 보였다. 금쪽이는 죽을 때까지 틱을 할까봐 두렵다며 도움을 요청했다. 솔루션을 통해 조금씩 회복되나 싶었는데, 새로운 문제 행동이 포착됐다. 과연 오은영]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['일타 스캔들' 노윤서가 사라졌다…배후는 두 얼굴 신재하? 시청률 11.4%]]></title>
-        <id>https://v.daum.net/v/20230226104328856</id>
-        <link href="https://v.daum.net/v/20230226104328856"/>
-        <updated>2023-02-26T02:54:33.658Z</updated>
-        <content type="html"><![CDATA[(서울=뉴스1) 안은재 기자 = '일타 스캔들'에서 노윤서가 사라지면서 전도연에게 새로운 위기가 찾아왔다. 지난 25일 오후 9시10분 방송된 tvN 토일드라마 '일타 스캔들'(극본 양희승/연출 유제원)에서 행선(전도연 분)과 치열(정경호 분)의 달콤한 연애모드와 함께 쇠구슬 사건의 진범인 동희(신재하 분)가 숨겨왔던 진짜 얼굴을 드러내면서 장르물의 매]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[8년 차 구조견 소백이, 은퇴 결정 "사람으로 따지면 70대"]]></title>
-        <id>https://v.daum.net/v/20230226104127835</id>
-        <link href="https://v.daum.net/v/20230226104127835"/>
-        <updated>2023-02-26T02:54:33.659Z</updated>
-        <content type="html"><![CDATA[[스포츠투데이 서지현 기자] 구조견 소백이가 은퇴를 결정했다. 26일 오전 방송된 SBS '동물농장'에서는 은퇴를 앞둔 119 인명 구조견 소백이의 이야기가 그려졌다. 이날 김성환 소방장은 "저희 중앙119구조본부의 에이스 구조견 소백이다. 베테랑 구조견이고, 지금 훈련견들이 훈련받을 때 한 번씩 시범을 보여준다"고 설명했다. 앞서 소백이는 지난해 발]]></content>
     </entry>
 </feed>

@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/variety</id>
     <title>다음 연예 ─ 뉴스 ─ 예능</title>
-    <updated>2023-02-26T03:23:52.561Z</updated>
+    <updated>2023-02-26T04:14:49.918Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[유재석, 토론 중 아들과의 일화 대방출 "나는 지호랑…"]]></title>
+        <id>https://v.daum.net/v/20230226130518912</id>
+        <link href="https://v.daum.net/v/20230226130518912"/>
+        <updated>2023-02-26T04:14:38.680Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 양유진 기자] 방송인 유재석이 아들 지호와 관련된 에피소드를 대방출한다. 26일 방송되는 SBS ‘런닝맨’에서는 예능계 토론 역사의 새로운 한 획을 그을 ‘레전드 토론’이 탄생한다. 최근 진행된 녹화는 시청자들의 사연을 받아 사연 속 물건을 팔 것인지, 말 것인지 함께 고민하는 토론도 함께 하게 됐는데 주제가 공개될 때마다 멤버들은 리액]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[드라마 소품으로 쓰였던 진짜 시체‥알고보니 유명 은행 강도]]></title>
         <id>https://v.daum.net/v/20230226120102135</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230226104320852"/>
         <updated>2023-02-26T02:54:28.043Z</updated>
         <content type="html"><![CDATA[[OSEN=강서정 기자] '배틀트립2'가 배우 인교진, 소이현 부부의 두 번째 허니문으로 감동을 줬다. 지난 25일 방송된 KBS 2TV '배틀트립2'는 '부부특집 두 번째 허니문'을 주제로 꾸며져 여행 설계자 인교진, 소이현 부부의 필리핀 세부 여행을 소개했다. 인교진은 '우정 투어'라는 이름에 대해 "우정으로 산다는 느낌이 아니다. 아내 본명이 조우]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[신수지 “前 남친들에 가격표도 안 보고 명품 선물 자주했다”]]></title>
-        <id>https://v.daum.net/v/20230226103810797</id>
-        <link href="https://v.daum.net/v/20230226103810797"/>
-        <updated>2023-02-26T02:54:28.046Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 박아름 기자] 신수지가 전 남자친구들에게 명품 선물을 자주 했다고 고백한다. 2월 27일 방송되는 KBS 2TV ‘이별도 리콜이 되나요?’에서는 ‘다 너 잘되라고 하는 소리야’라는 주제로 리콜녀의 사연이 소개된다. 이날 일일 리콜플래너 신수지는 ‘이별도 리콜이 되나요?’ 애청자임을 밝히며 “24회 ‘고기 굽지 않는 남자’ 편을 보면서 공감이 많]]></content>
     </entry>
 </feed>
