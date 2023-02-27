@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-02-27T20:14:22.247Z</updated>
+    <updated>2023-02-27T21:11:39.150Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['대행사'도 성공…이보영, '경단녀'·'워킹맘' 아닌 '믿보배']]></title>
+        <id>https://v.daum.net/v/20230228060016231</id>
+        <link href="https://v.daum.net/v/20230228060016231"/>
+        <updated>2023-02-27T21:11:22.282Z</updated>
+        <content type="html"><![CDATA[‘대행사’ 스틸컷(사진=JTBC)[이데일리 스타in 김가영 기자] ‘경력 단절녀’, ‘워킹맘’ 타이틀은 어울리지 않다. 배우 이보영이 결혼, 출산 후에도 여전한 연기력과 작품을 이끌어가는 힘으로 ‘믿고 보는 배우’ 타이틀을 지키며 독보적인 존재감을 확인시켰다. 이보영이 주인공을 맡아 이끈 JTBC 토일드라마 ‘대행사’는 지난 26일 방송된 마지막회에서 시]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AXN, 美 화제작 ‘팬핸들’ 국내 최초 방영]]></title>
         <id>https://v.daum.net/v/20230227230738904</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230227192738901"/>
         <updated>2023-02-27T11:11:00.671Z</updated>
         <content type="html"><![CDATA[[스타뉴스 이빛나리 기자] /사진='마녀의 게임' 방송화면'마녀의 게임' 오창석이 주새벽을 시켜 김규선을 납치했다. 27일 오후 방송된 MBC 일일드라마 '마녀의 게임'에서 강지호(오창석 분)가 정혜수(김규선 분), 유인하(이현석 분)가 개최한 기자회견을 방해했다. 이날 안희영(주새벽 분)은 강지호에 정혜수와 유인하가 기자회견을 준비 중이라고 전했다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["황민현·조규성 Let's Go!"...'걘 역시 북방계' 진아진, CC 꿈은 꿀 수 있잖아요]]></title>
-        <id>https://v.daum.net/v/20230227183059529</id>
-        <link href="https://v.daum.net/v/20230227183059529"/>
-        <updated>2023-02-27T10:14:27.656Z</updated>
-        <content type="html"><![CDATA[[OSEN=연휘선 기자] '걘 역시 북방계'에서 황민연, 조규성 같은 북방계 미남상에 대한 로망이 드러났다.&nbsp; 27일 플레이리스트 공식 유뷰트 채널을 통해&nbsp;새 숏츠 드라마 '걘 역시 북방계'가 공개됐다.&nbsp; ‘걘 역시 북방계’에서 1화에서는 남방희(진아진 분)가 오지라(배지혜 분)와 함께 게임동아리를 찾은 모습이 그려졌다.&nbsp; 이날 남방희는 캠퍼스 커플의]]></content>
     </entry>
 </feed>

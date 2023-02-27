@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-02-27T20:14:22.235Z</updated>
+    <updated>2023-02-27T21:11:39.159Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[헤일리 비버, 저스틴 비버와 여전히 신혼..."사이 너무 좋다"]]></title>
+        <id>https://v.daum.net/v/20230228060727485</id>
+        <link href="https://v.daum.net/v/20230228060727485"/>
+        <updated>2023-02-27T21:11:38.525Z</updated>
+        <content type="html"><![CDATA[[TV리포트=이수연 기자] 모델 헤일리 비버가 남편 저스틴 비버에 대한 각별한 애정을 드러냈다. 26일(현지 시간) 보그 호주와 진행한 인터뷰에서 헤일리 비버는 저스틴 비버와 함께하는 6년 차 결혼 생활에 대해 털어놨다. 결혼 후 장점에 대해 묻는 질문에 헤일리 비버는 "결혼 생활에서 제일 좋은 것은 '우리가 동반자라는 느낌'이다. 남편은 세상에서 가장 친]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['계모' 메간 폭스, 남편이 데려온 아이 사랑으로 품었다]]></title>
         <id>https://v.daum.net/v/20230228050726783</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230227162128836"/>
         <updated>2023-02-27T08:16:54.578Z</updated>
         <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]제임스 카메론 감독의 ‘아바타:물의 길’이 글로벌 3조원을 돌파했다. 26일(현지시간) 박스오피스 모조에 따르면, 이 영화는 북미에서 6억 6,538만 달러, 해외에서 16억 168만 달러를 벌어들여 모두 22억 6,707만 달러(3조 4억 6,714만원)의 수익을 기록했다. 스크린랜트는 “지난해 말 개봉한 ‘아바타2’는]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[레이디 가가's 개 절도녀, 적반하장 19억 손해배상 소송 왜?]]></title>
-        <id>https://v.daum.net/v/20230227145908074</id>
-        <link href="https://v.daum.net/v/20230227145908074"/>
-        <updated>2023-02-27T06:16:27.890Z</updated>
-        <content type="html"><![CDATA[[OSEN=박소영 기자] 레이디 가가의 반려견을 훔쳤던 여성이 오히려 사례금을 요구하며 고소장을 접수했다. 26일(현지시각) 외신 보도에 따르면 제니퍼 맥브라이드는 “당시 레이디 가가는 반려견을 돌려주면 50만 달러(6억 5900만 원)를 주겠다고 했는데 아직까지 주지 않고 있다”며 레이디 가가를 고소했다. 제니퍼 맥브라이드는 2021년 발생한 레이디]]></content>
     </entry>
 </feed>
