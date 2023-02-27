@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-02-27T21:11:39.159Z</updated>
+    <updated>2023-02-27T22:12:44.059Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[美 배우, 행사장 MC된 '학폭 가해자'에 일침...통쾌한 복수]]></title>
+        <id>https://v.daum.net/v/20230228070726158</id>
+        <link href="https://v.daum.net/v/20230228070726158"/>
+        <updated>2023-02-27T22:12:43.450Z</updated>
+        <content type="html"><![CDATA[[TV리포트=이수연 기자] 넷플릭스 드라마 '더 글로리'의 인기로 학교 폭력에 대한 인식이 전 세계적으로 높아지고 있다. 이런 가운데 공식 석상에서 학창 시절 학교 폭력 가해자를 만난 할리우드 배우가 통쾌하게 복수를 해 이목을 끈다. 최근 할리우드 배우 마이클 B. 조던은 마블 시리즈 '정복자 캉'의 조나단 메이저스와 호흡을 맞춘 영화 '크리드 3' 시사회]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[헤일리 비버, 저스틴 비버와 여전히 신혼..."사이 너무 좋다"]]></title>
         <id>https://v.daum.net/v/20230228060727485</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230227162326933"/>
         <updated>2023-02-27T08:16:54.577Z</updated>
         <content type="html"><![CDATA[[TV리포트=이수연 기자] 영화 '캐리비안의 해적 6' 제작이 확정된 가운데 잭 스패로우 역의 조니 뎁의 복귀 소식은 여전히 깜깜무소식이다. 최근 '캐리비안의 해적' 시리즈의 제작자 제리 브룩하이머는 매체 데드라인과의 인터뷰에서 시즌 6와 조니 뎁에 대해 언급했다. 그는 "조니 뎁은 자신이 하는 일을 너무 잘하고 배우들은 연기를 하며 회복한다"라며 조니]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘아바타:물의 길’ 글로벌 3조원 돌파, “유럽에서 1편 기록 깨고 승승장구”]]></title>
-        <id>https://v.daum.net/v/20230227162128836</id>
-        <link href="https://v.daum.net/v/20230227162128836"/>
-        <updated>2023-02-27T08:16:54.578Z</updated>
-        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]제임스 카메론 감독의 ‘아바타:물의 길’이 글로벌 3조원을 돌파했다. 26일(현지시간) 박스오피스 모조에 따르면, 이 영화는 북미에서 6억 6,538만 달러, 해외에서 16억 168만 달러를 벌어들여 모두 22억 6,707만 달러(3조 4억 6,714만원)의 수익을 기록했다. 스크린랜트는 “지난해 말 개봉한 ‘아바타2’는]]></content>
     </entry>
 </feed>
