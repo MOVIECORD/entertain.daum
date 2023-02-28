@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/variety</id>
     <title>다음 연예 ─ 뉴스 ─ 예능</title>
-    <updated>2023-02-28T03:17:26.315Z</updated>
+    <updated>2023-02-28T04:16:11.762Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘불트’ 상해전과 황영웅 편집 無 선언→결승전 홍보 “문자 투표 50%”]]></title>
+        <id>https://v.daum.net/v/20230228131242325</id>
+        <link href="https://v.daum.net/v/20230228131242325"/>
+        <updated>2023-02-28T04:16:02.161Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 김명미 기자] 황영웅을 품고 가기로 결정한 ‘불타는 트롯맨’ 제작진이 결승전 홍보에 나섰다. MBN ‘불타는 트롯맨’(이하 ‘불트’) 측은 2월 28일 공식 보도자료를 통해 "결승전에서 TOP8을 향한 국민 대표단과 시청자의 의견을 보다 폭넓게 수용하는 운영 방식을 적용한다"고 밝혔다. ‘불트’ 결승전은 총 2주에 걸쳐 생방송으로 진행되며, 1차]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘라스’ 전혜빈, 아들 출산 후 방송 복귀…연예계 육아 동지 공개]]></title>
+        <id>https://v.daum.net/v/20230228130323208</id>
+        <link href="https://v.daum.net/v/20230228130323208"/>
+        <updated>2023-02-28T04:16:02.163Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 김명미 기자] 배우 전혜빈이 아들을 출산한 후 ‘라디오스타’를 통해 방송에 복귀한다. 오는 3월 1일 오후 10시 30분 방송 예정인 고품격 토크쇼 MBC ‘라디오스타’(기획 강영선/연출 이윤화)는 강수지, 전혜빈, 정샘물, 빽가가 출연하는 ‘손남매가 용감하게’ 특집으로 꾸며진다. 전혜빈은 연기, 예능, 노래 등 다양한 분야에서 남다른 재능을 뽐]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘불타는 트롯맨’ 측 “황영웅 결승전서 편집없이 방송..추가입장 無”]]></title>
         <id>https://v.daum.net/v/20230228121629594</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230228111427236"/>
         <updated>2023-02-28T02:23:48.747Z</updated>
         <content type="html"><![CDATA[[스타뉴스 최혜진 기자] /사진=MBN'불타는 트롯맨'의 결승전 방송을 앞둔 가운데 최근 폭행, 학폭 의혹에 휘말린 참가자 황영웅 분량이 무편집 돼 그대로 방송 된다. 28일 스타뉴스 취재 결과 MBN 경연 프로그램 '불타는 트롯맨' 측은 이날 방송되는 결승전에 황영웅의 분량을 편집하지 않고 내보내기로 결정했다. 이와 관련해 '불타는 트롯맨' 제작진]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[23년째 손금보는 장인, 서장훈에 "연분 없어" 돌직구]]></title>
-        <id>https://v.daum.net/v/20230228111003065</id>
-        <link href="https://v.daum.net/v/20230228111003065"/>
-        <updated>2023-02-28T02:23:48.748Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 김현숙 인턴기자) '물어보살' 서장훈이 연애운이 없다는 말에 깡생수를 마셨다. 지난 27일 방송된 KBS Joy '무엇이든 물어보살'에서는 취미로 손금을 23년째 봐주고 있다는 의뢰인이 등장했다.&nbsp; 이날 의뢰인은 "군대 있을 때 독학으로 배웠다. 독학해 부대원들 손금을 봐줬는데 주변에 소문이 나기 시작했다. 맞히는 확률이 높아져 저한테 예의없]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘골때녀’ 새 시즌 맞이 감독 드래프트..FC발라드림에 NEW 감독 뜬다!]]></title>
-        <id>https://v.daum.net/v/20230228110927038</id>
-        <link href="https://v.daum.net/v/20230228110927038"/>
-        <updated>2023-02-28T02:23:48.749Z</updated>
-        <content type="html"><![CDATA[[OSEN=김채연 기자] ‘골때녀’의 새 시즌맞이는 감독부터 시작된다. 오는 3월 1일 방송되는 SBS ‘골(Goal) 때리는 그녀들’에서는 제3회 슈챌리그를 맞이한 ‘FC발라드림’의 새 단장 소식이 공개된다. 제3회 슈챌리그의 막이 열리며 두 시즌 같은 팀을 맡았던 총 다섯 명의 감독이 드래프트 됐다. 지난 회차에서 ‘FC탑걸’과 ‘FC국대패밀리’의]]></content>
     </entry>
 </feed>
