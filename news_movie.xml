@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-02-28T19:10:41.356Z</updated>
+    <updated>2023-02-28T20:13:28.142Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[오스카 최다 후보 '에브리씽', 3월 1일 재개봉으로 열기 이어간다]]></title>
+        <id>https://v.daum.net/v/20230301050227869</id>
+        <link href="https://v.daum.net/v/20230301050227869"/>
+        <updated>2023-02-28T20:13:06.153Z</updated>
+        <content type="html"><![CDATA[[TV리포트=이수연 기자] 전 세계에 신드롬을 일으킨 '에브리씽 에브리웨어 올 앳 원스+'가 재개봉으로 다시 만난다. 오는 3월 1일 재개봉을 앞둔 '에브리씽 에브리웨어 올 앳 원스+'(이하 '에에올')의 반응이 벌써부터 심상치 않다. 사전 예매량이 6천5백여 장에 임박, 재개봉으로는 믿기 어려울 정도로 신작 개봉만큼의 화제성을 장식하고 있다. 이러한 사전]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["아들이 당한 일, 온 세상에 알려야해"...인종차별 영화 '틸', 22일 개봉]]></title>
         <id>https://v.daum.net/v/20230301040726671</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230228181635526"/>
         <updated>2023-02-28T10:14:22.052Z</updated>
         <content type="html"><![CDATA[배우 전소니가 청춘 시절을 연기한 것에 대한 소감을 밝혔다. 전소니는 28일 오후 서울 광진구 롯데시네마 건대입구에서 진행된 영화 ‘소울메이트’ 언론시사회에서 “청춘을 연기할 수 있는 시간은 배우한테 짧다고 생각한다”고 말했다. 이날 전소니는 “저희가 빛나는 시절을 연기할 수 있었던 것에 감사하다”며 “소울메이트 같은 이야기를 꼭 해보고 싶었다”라고]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘소울메이트’ 김다미 “전소니, 처음 만났을 때부터 편해”]]></title>
-        <id>https://v.daum.net/v/20230228181419441</id>
-        <link href="https://v.daum.net/v/20230228181419441"/>
-        <updated>2023-02-28T10:14:22.128Z</updated>
-        <content type="html"><![CDATA[배우 김다미가 전소니와 함께 연기한 소감을 밝혔다. 김다미는 28일 서울 광진구 롯데시네마 건대입구에서 진행된 영화 ‘소울메이트’ 언론시사회에서 “전소니와 처음 만났을 때부터 편했다”고 말했다. 이날 김다미는 전소니와 연기 호흡에 대해 “촬영 전부터 서로 통하는 부분이 있었다”고 말했다. 이어 “서로 굳이 누가 먼저 노력하지 않아도 마음이 통했다”]]></content>
     </entry>
 </feed>

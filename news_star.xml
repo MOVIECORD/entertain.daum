@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2023-02-28T19:10:41.360Z</updated>
+    <updated>2023-02-28T20:13:28.138Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[황영웅, 논란 속 '불트' 1위 질주…하차 없이 결승 2차行]]></title>
+        <id>https://v.daum.net/v/20230301051007974</id>
+        <link href="https://v.daum.net/v/20230301051007974"/>
+        <updated>2023-02-28T20:13:22.103Z</updated>
+        <content type="html"><![CDATA[(서울=뉴스1) 박하나 기자 = '불타는 트롯맨' 황영웅이 과거 논란 속에도 결승 1차전 1위로 마지막 결승 2차전에 진출한다. 지난 28일 오후에 방송된 MBN 예능 프로그램 '불타는 트롯맨'에서는 TOP8(황영웅, 민수현, 박민수, 손태진, 공훈, 에녹, 신성, 김중연) 결승전 무대가 펼쳐졌다. 국민 투표 1위, 준결승 1위로 결승에 진출한 황영웅이]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['청춘월담' 박형식 "널 믿었어야 했다"…전소니에 사과]]></title>
+        <id>https://v.daum.net/v/20230301045002775</id>
+        <link href="https://v.daum.net/v/20230301045002775"/>
+        <updated>2023-02-28T20:13:22.103Z</updated>
+        <content type="html"><![CDATA[(서울=뉴스1) 박하나 기자 = '청춘월담' 박형식이 전소니를 믿지 못하고 쫓아낸 일을 사과했다. 지난 28일 오후 8시 50분에 방송된 tvN 월화드라마 '청춘월담'(극본 정현정/연출 이종재 김정욱)에서는 민재이(전소니 분)에게 사과하는 왕세자 이환(박형식 분)의 모습이 담겼다. 앞서 민재이의 정인으로 소문난 심영(김우석 분)의 유서가 발견됐고, 이에]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[동룡, 석구, 정팔… ‘어디든 있을 법한’ 배우 이동휘]]></title>
         <id>https://v.daum.net/v/20230301040546647</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230228234227625"/>
         <updated>2023-02-28T15:13:25.523Z</updated>
         <content type="html"><![CDATA[[스포츠투데이 송오정 기자] 개그맨 김준호가 김지민과 전화 연결을 시도했다. 28일 방송된 SBS '신발벗고 돌싱포맨'(이하 '돌싱포맨')에 신혼을 만끽하고 있는 선우은숙, 최성국, 아유미가 출연했다. 신혼 4개월 차인 선우은숙은 유영재에게 전화를 걸어 "나한테 뭐 할 얘기 없냐"고 물었다. 이에 유영재는 "늘 사랑한다는 얘기지"라고 곧바로 답했다. 앞서]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘두뇌공조’ 정용화 차태현 브로맨스, 해피엔딩 결말]]></title>
-        <id>https://v.daum.net/v/20230228233726599</id>
-        <link href="https://v.daum.net/v/20230228233726599"/>
-        <updated>2023-02-28T15:13:25.524Z</updated>
-        <content type="html"><![CDATA[[티브이데일리 이기은 기자] '두뇌공조' 정용화, 차태현의 코믹 휴먼 공조극이 해피엔딩으로 마무리 됐다. 28일 밤 방송된 KBS 월화드라마 ‘두뇌공조’(극본 박경선‧연출 이진서) 최종회 16회에서는 등장인물 신하루(정용화), 금명세(차태현), 황동우(정동환) 등을 둘러싼 수사 공조극 결말이 그려졌다. 신하루는 이날 자신과 유사한 형태의 뇌를 가진 황동우(]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아유미, 억울함에 실제 주민등록증 공개 "전주 이씨 한국인"]]></title>
-        <id>https://v.daum.net/v/20230228232727552</id>
-        <link href="https://v.daum.net/v/20230228232727552"/>
-        <updated>2023-02-28T15:13:25.525Z</updated>
-        <content type="html"><![CDATA[[스포츠투데이 송오정 기자] 그룹 슈가 출신 아유미가 주민등록증을 공개하며 한국인임을 강조했다. 28일 방송된 SBS '신발벗고 돌싱포맨'(이하 '돌싱포맨')에 신혼을 만끽하고 있는 선우은숙, 최성국, 아유미가 출연했다. 소개팅으로 만난 남편과 열애 3개월 만에 결혼에 골인한 아유미의 러브스토리를 들은 탁재훈은 "아유미가 한국사람처럼 사랑하는 게 희한하다"]]></content>
     </entry>
 </feed>
