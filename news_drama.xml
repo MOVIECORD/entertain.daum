@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-02-28T09:13:44.877Z</updated>
+    <updated>2023-02-28T10:14:45.484Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['딜리버리맨' 방민아, 8살 연하 윤찬영과 로맨스? "오! 좋았다"]]></title>
+        <id>https://v.daum.net/v/20230228185002132</id>
+        <link href="https://v.daum.net/v/20230228185002132"/>
+        <updated>2023-02-28T10:14:27.610Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 황수연 기자) 방민아가 8살 연하 윤찬영과의 로맨스 호흡에 만족감을 드러냈다.&nbsp; 28일 서울 구로구 디큐브시티 더 세인트에서 지니 TV 오리지널 '딜리버리맨' 제작발표회가 진행됐다. 이 자리에는 강솔 감독, 배우 윤찬영, 방민아, 김민석이 참석했다. '딜리버리맨'은 생계형 택시기사 서영민(윤찬영 분)과 기억상실 영혼 강지현(방민아)이 펼치는]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['피지컬:100' PD "매끄럽지 않은 진행 죄송하지만…"]]></title>
+        <id>https://v.daum.net/v/20230228182553723</id>
+        <link href="https://v.daum.net/v/20230228182553723"/>
+        <updated>2023-02-28T10:14:27.610Z</updated>
+        <content type="html"><![CDATA[장호기PD.(사진=넷플릭스)[이데일리 스타in 유준하 기자] 최근 종영한 넷플릭스 시리즈 ‘피지컬: 100’이 연이은 논란에 휩싸이고 있다. 특히 결승전 재경기 논란에 대해 정해민 선수가 입장을 내놓은 가운데 장호기 PD는 “조심스럽게 입장을 정리하고 있다”고 28일 밝혔다. 장호기 PD는 이날 이데일리와의 통화에서 “정해민 선수의 인터뷰를 봤다”고 운을]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[에이티즈 종호, 오늘 '청춘월담' OST 발매..박형식♥︎전소니 마음 노래]]></title>
         <id>https://v.daum.net/v/20230228180727215</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230228161738010"/>
         <updated>2023-02-28T08:16:24.061Z</updated>
         <content type="html"><![CDATA[[마이데일리 = 박서연 기자] 배우 이은형이 반전 매력을 예고했다. 오는 3월 14일 첫 방송 되는 KBS 2TV 새 일일드라마 ‘비밀의 여자’(극본 이정대 연출 신창석)는 남편과 내연녀로 인해 시력을 잃고 ‘락트-인 증후군(의식이 있는 전신 마비)’에 빠진 여자가 복수를 통해 사랑과 정의를 찾아가는 이야기를 그린 작품이다. 이은형은 극 중 정겨울(신고]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['딜리버리맨' 윤찬영 "첫 성인연기…좀비 아닌 귀신과 소통"]]></title>
-        <id>https://v.daum.net/v/20230228161537952</id>
-        <link href="https://v.daum.net/v/20230228161537952"/>
-        <updated>2023-02-28T08:16:24.063Z</updated>
-        <content type="html"><![CDATA[(서울=연합뉴스) 강애란 기자 이승미 인턴기자 = 지난해 넷플릭스 히트작 '지금 우리 학교는'으로 대중들에게 얼굴을 알린 윤찬영(22)이 로맨스 드라마 주연을 맡았다. 윤찬영은 28일 서울 신도림 디큐브시티에서 지니TV 오리지널 드라마 '딜리버리맨' 제작발표회에서 "첫 성인 연기 도전이라 정말 열심히 해보고 싶은 마음, 책임감, 사명감으로 연기에 임했다"]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[서준영·윤다영→이윤성·김시은, '금이야 옥이야' 황금 라인업]]></title>
-        <id>https://v.daum.net/v/20230228161127795</id>
-        <link href="https://v.daum.net/v/20230228161127795"/>
-        <updated>2023-02-28T07:11:53.955Z</updated>
-        <content type="html"><![CDATA[[OSEN=장우영 기자] ‘금이야 옥이야’의 ‘첫 대본 리딩’ 현장이 공개됐다. ‘내 눈에 콩깍지’ 후속으로 오는 3월 27일 첫 방송을 앞둔 KBS1 새 일일드라마 ‘금이야 옥이야’(극본 채혜영 유상영 백은정, 연출 최지영, 제작 몬스터유니온)는 싱글대디 금강산과 입양아 옥미래를 중심으로 금이야 옥이야 자식을 키우며 성장해가는 가족들의 유쾌하고 가슴]]></content>
     </entry>
 </feed>
