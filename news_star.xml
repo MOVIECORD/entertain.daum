@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2023-02-28T16:17:20.657Z</updated>
+    <updated>2023-02-28T17:12:15.968Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['불트' 황영웅, 결승 1차전 1위 등극.."우승하면 상금 사회에 기부하겠다"]]></title>
+        <id>https://v.daum.net/v/20230301012148167</id>
+        <link href="https://v.daum.net/v/20230301012148167"/>
+        <updated>2023-02-28T17:12:09.387Z</updated>
+        <content type="html"><![CDATA[황영웅이 각종 논란에도 불구하고 '불타는 트롯맨' 결승 1차전에서 1위에 등극해 우승에 바짝 다가갔다. 2월 28일에서 3월 1일에 걸쳐 무려 3시간 30분 넘게 방송된 MBN '불타는 트롯맨' 결승 1차전에서는 톱8(신성, 김중연, 손태진, 공훈, 에녹, 민수현, 박민수, 황영웅)의 경연이 1라운드와 2라운드에 걸쳐 진행된 가운데, 실시간 문자투표]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['불타는 트롯맨' 無편집 황영웅, 결승 1차전 1위 "상금 사회에 기부하고파"]]></title>
         <id>https://v.daum.net/v/20230301011127147</id>
@@ -24,7 +31,7 @@
         <id>https://v.daum.net/v/20230301010330067</id>
         <link href="https://v.daum.net/v/20230301010330067"/>
         <updated>2023-02-28T16:17:14.416Z</updated>
-        <content type="html"><![CDATA[[TV리포트=이혜미 기자] 뚝심일까, 오기일까. 상해 치사 전과에 학폭까지, 끝없는 논란에도 ‘불타는 트롯맨’이 기어이 황영웅을 감싸 안았다. 28일 MBN ‘불타는 트롯맨’에선 황영웅 논란에도 대망의 결승전이 무 편집으로 펼쳐졌다. 최근 황영웅은 폭행 전과가 폭로된데 이어 학교 폭력, 데이트 폭력, 나아가 부실 복무 의혹까지 불거지며 논란의 중심에 선 바]]></content>
+        <content type="html"><![CDATA[[TV리포트=이혜미 기자] 뚝심일까, 오기일까. 상해 치사 전과에 학폭까지, 끝없는 논란에도 ‘불타는 트롯맨’이 기어이 황영웅을 감싸 안았다. 28일 MBN ‘불타는 트롯맨’에선 황영웅 논란 속 대망의 결승전이 펼쳐졌다. 최근 황영웅은 폭행 전과가 폭로된데 이어 학교 폭력, 데이트 폭력, 나아가 부실 복무 의혹까지 불거지며 논란의 중심에 선 바. 이날 전파]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[‘불트’ 황영웅, 결승 1R 압도적 1위→2위 손태진... 3위 신성]]></title>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230228232006511"/>
         <updated>2023-02-28T15:13:25.526Z</updated>
         <content type="html"><![CDATA[[스포츠조선닷컴 정유나 기자] '돌싱포맨' 선우은숙이 남편 유영재와의 초고속 재혼 스토리를 공개했다. 28일 방송된 SBS '신발 벗고 돌싱포맨'에서는 행복한 신혼을 즐기고 있는 선우은숙, 최성국, 아유미가 출연했다. 이날 선우은숙은 4살 연하 남편 유영재와의 초스피드 재혼 스토리를 공개해 '돌싱포맨'의 관심을 불러일으켰다. 특히 선우은숙은]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[고은아, "탈모 아니라고" 억울함 호소.. 미용 목적으로 심은 것]]></title>
-        <id>https://v.daum.net/v/20230228231627481</id>
-        <link href="https://v.daum.net/v/20230228231627481"/>
-        <updated>2023-02-28T15:13:25.527Z</updated>
-        <content type="html"><![CDATA[[TV리포트=이지민 기자] 배우 고은아가 탈모 오해에 대한 해명을 털어놨다. 지난 27일 유튜브 채널 '방가네'에 '술주정하는 고은아 때문에 엄마가 무언가로 변신할 것 같다...'라는 제목의 영상이 업로드됐다. 공개된 영상 속 고은아는 술을 마시다 갑자기 요리를 시작했다. 미르는 "왜 술만 먹으면 요리를 하는 거야? 고기를 잴 수 있는 컨디션은 아니지]]></content>
     </entry>
 </feed>

@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/variety</id>
     <title>다음 연예 ─ 뉴스 ─ 예능</title>
-    <updated>2023-02-28T16:17:20.653Z</updated>
+    <updated>2023-02-28T17:12:15.964Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[결승도 안 끝났는데? 황영웅 "우승=상금기부"..설레발도 1위]]></title>
+        <id>https://v.daum.net/v/20230301012827183</id>
+        <link href="https://v.daum.net/v/20230301012827183"/>
+        <updated>2023-02-28T17:12:04.088Z</updated>
+        <content type="html"><![CDATA[[OSEN=김수형 기자] ‘불타는 트롯맨’에서 황영웅이 결승1차전 최종1위가 된 가운데, 실시간 생중계 방송에서 논란을 의식한 소감을 전했다.&nbsp; 28일 MBN 예능 ‘불타는 트롯맨’ 의 결승전 1차 최종 1위가 발표됐다. 이변없이 황영웅이었다.&nbsp; 이날&nbsp; ‘트롯맨’ 톱8을 소개,&nbsp;기호 1번 김중연, 2번 신성, 3번 에녹, 4번 공훈, 5번 손태진, 6번]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[황영웅, 손태진 누르고 결승 1차전 1위 차지..."죄송하고 감사해, 기부하고파"]]></title>
         <id>https://v.daum.net/v/20230301010502106</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230228234002620"/>
         <updated>2023-02-28T15:13:20.367Z</updated>
         <content type="html"><![CDATA[(엑스포츠뉴스 장예솔 인턴기자) '오은영 게임' 이대호의 아들 예승이 선생님의 선물을 거부하는 사태가 벌여졌다.&nbsp; 28일 방송된 ENA '오은영 게임'에서는 원활한 소통의 시작이 되는 아이의 '정서 이해'에 대해 알아보는 시간을 가졌다.&nbsp; 이날 아이들에게 상상도 못한 선물을 주고 반응을 지켜보는 실험카메라가 진행됐다.&nbsp; 가장 먼저 등장한 안재욱의 딸 수현.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[신동엽, 전국방방곡곡 출장덕에 보름달에 빈 소원..."2시간 거리 출장이길"]]></title>
-        <id>https://v.daum.net/v/20230228233902616</id>
-        <link href="https://v.daum.net/v/20230228233902616"/>
-        <updated>2023-02-28T15:13:20.370Z</updated>
-        <content type="html"><![CDATA[[텐아시아=신지원 기자]'손 없는 날' 신동엽이 보름달에 빈 소원을 밝혔다. 28일 방송된 JTBC 예능프로그램 '손 없는 날에서는 신동엽과 한가인이 부모님을 위해 전남 영암에 귀농한 의뢰인을 찾았다. 이날 신동엽은 "이곳이 전남 영암이다"라며 "마침 보름달이 떠서 '손 없는 날' 촬영 다 좋은데 가급적이면 서울에서 두 시간 이내의 거리로 해달라고"라고]]></content>
     </entry>
 </feed>
