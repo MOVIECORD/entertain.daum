@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-03-01T09:13:35.334Z</updated>
+    <updated>2023-03-01T10:14:36.925Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[브루스 윌리스, 치매 치료 위해…전처·현처 모두 간병]]></title>
+        <id>https://v.daum.net/v/20230301184636320</id>
+        <link href="https://v.daum.net/v/20230301184636320"/>
+        <updated>2023-03-01T10:14:36.088Z</updated>
+        <content type="html"><![CDATA[[스포츠조선 정빛 기자] 전두측두엽 치매 진단을 받은 할리우드 대표 배우 브루스 윌리스의 치료 근황이 전해졌다. 28일(현지시간) 피플, 데일리 메일 등 외신에 따르면, 브루스 윌리스의 아내 엠마 헤밍 윌리스는 치매 진단을 받은 브루스 윌리스를 위해  전두측두엽 치매에 대해 가능한 모든 것을 배우고 있다. 엠마 헤밍 윌리스는 자신의 개인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[브래드 피트♥︎보석상 여친 "미래 함께..졸리 신경안써, 30살 나이차 문제無"]]></title>
         <id>https://v.daum.net/v/20230301180321671</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230301072627308"/>
         <updated>2023-02-28T23:12:34.023Z</updated>
         <content type="html"><![CDATA[[OSEN=최나영 기자] 배우&nbsp;제니퍼 애니스톤(54)이 18세 대녀(代女)&nbsp;옆에 기대어 눈물을 흘렸다. 미국드라마 '프렌즈' 시리즈 등으로&nbsp;유명한 애니스톤이 친구를 위해 나섰다. 그가 '프렌즈'에서 함께 호흡을 맞춘 배우 코트니 콕스가 지난 달 27일(현지시간) 미국 캘리포니아 할리우드에서 열린 할리우드 명예의 전당 스타 시상식에서 수상의 영예를 안은]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[윌 스미스에 폭행당한 크리스 록, 1년만에 통쾌한 반격 “넷플릭스서 4일 라이브 방송”]]></title>
-        <id>https://v.daum.net/v/20230301070705144</id>
-        <link href="https://v.daum.net/v/20230301070705144"/>
-        <updated>2023-02-28T22:12:30.363Z</updated>
-        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]지난해 제94회 아카데미 시상식에서 윌 스미스(54)에게 폭행당한 크리스 록(58)의 반격이 시작된다. 지난해 3월 27일 아카데미 시상식 도중 윌 스미스는 크리스 록이 아내 제이다 핀켓 스미스(51)의 탈모증을 놀렸다는 이유로 단상에 올라가 그의 뺨을 때렸다. 자리에 돌아와선 “내 아내의 이름을 꺼내지 마”라고 두 번이나]]></content>
     </entry>
 </feed>
