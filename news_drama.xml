@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-03-01T06:17:04.875Z</updated>
+    <updated>2023-03-01T07:12:51.581Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘성스러운 아이돌’ 김민규, 깨물하트 애교 특훈에 죽상]]></title>
+        <id>https://v.daum.net/v/20230301160247431</id>
+        <link href="https://v.daum.net/v/20230301160247431"/>
+        <updated>2023-03-01T07:12:33.581Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 이민지 기자] 김민규가 아이돌 애교 특훈을 받는다. tvN 수목드라마 ‘성스러운 아이돌’(극본 이천금/연출 박소연) 측은 3월 1일 ‘애교지옥’에 빠진 우연우(램브러리, 김민규 분)와 김달(고보결 분) 투샷을 공개했다. 극 중 아이돌이 된 대신관 우연우(램브러리)는 매니저 김달과 함께 아이돌 적응기를 보내고 있다. 춤과 댄스 연습뿐만 아니라]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[대가들도 다시 출격…새롭게 ‘인기 장르’ 된 막장 드라마]]></title>
         <id>https://v.daum.net/v/20230301144427835</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230301095926474"/>
         <updated>2023-03-01T01:05:48.166Z</updated>
         <content type="html"><![CDATA[[OSEN=최나영 기자]&nbsp;“아찔하고 기막힌 인연이 시작된다!” SBS&nbsp;새 월화드라마&nbsp;‘꽃선비 열애사’&nbsp;신예은과 려운이&nbsp;180도 다른&nbsp;‘극과 극 표정’을 드러낸&nbsp;‘얼렁뚱땅’&nbsp;이화원 입주 현장을 선보인다. 오는&nbsp;3월&nbsp;20일&nbsp;첫 방송될&nbsp;SBS&nbsp;새 월화드라마&nbsp;‘꽃선비 열애사’(극본 권음미,&nbsp;김자현,&nbsp;연출 김정민,&nbsp;제작&nbsp;㈜아폴로픽쳐스,&nbsp;㈜팬엔터테인먼트,&nbsp;스튜디오]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['불타는 트롯맨'이 또… 집계오류로 공훈 4위→6위 번복]]></title>
-        <id>https://v.daum.net/v/20230301095748450</id>
-        <link href="https://v.daum.net/v/20230301095748450"/>
-        <updated>2023-03-01T01:05:48.169Z</updated>
-        <content type="html"><![CDATA[(사진=‘불타는 트롯맨’ 방송화면)[이데일리 스타in 윤기백 기자] ‘불타는 트롯맨’이 황영웅 밀어주기 논란 속 결승 1차전 집계 오류로 순위가 뒤바뀌는 사고가 발생했다. ‘불타는 트롯맨’ 제작진은 1일 새벽 3월 1일 00시 6분, MC 도경완 님의 투표 마감 멘트에 맞춰 문자 투표가 정상적으로 마감됐고, 총 투표수 191만2814 중 유효 투표수 14]]></content>
     </entry>
 </feed>
