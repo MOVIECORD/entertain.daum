@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-03-02T20:13:54.303Z</updated>
+    <updated>2023-03-02T21:11:30.021Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[조영남 "'그림대작 논란'  해명 인터뷰 안한 이유? 조수 욕하기 싫었다"]]></title>
+        <id>https://v.daum.net/v/20230303061004155</id>
+        <link href="https://v.daum.net/v/20230303061004155"/>
+        <updated>2023-03-02T21:11:12.999Z</updated>
+        <content type="html"><![CDATA[[스포츠서울 | 남서영기자] 조영남이 '그림대작 사건'에 대해 입을 열었다. 2일 '호걸언니_이경실'에는 '조영남, 조수 대작사건! 최초 심경&amp;진실 공개! 욕하기 싫었다! | 차라리 감옥살이를 할걸! 후회하는 이유 | 진중권, 조영남을 위해 나섰다가 지쳤다?'라는 제목의 영상이 게재됐다. 영상 속 조영남은 논란이 됐던 '그림대작'과 관련해 공개]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['성스러운 아이돌' 김민규, 고보결 위로 "아픔 껴안지 마"]]></title>
         <id>https://v.daum.net/v/20230303005053999</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230302202626692"/>
         <updated>2023-03-02T12:21:42.426Z</updated>
         <content type="html"><![CDATA[[스타뉴스 이상은 기자] /사진=KBS 2TV 일일드라마 '태풍의 신부' 방송화면'태풍의 신부' 강지섭이 복잡한 심경을 드러냈다. 2일 오후 방송된 KBS 2TV 일일드라마 '태풍의 신부'에서는 윤산들(박윤재 분)이 르블랑 장남이자 친구 강태풍(강지섭 분)을 찾아간 장면이 담겼다. 이날 강태풍은 반지를 보며 은서연(박하나 분)과 이혼에 마음 아파했다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[강지섭, 이혼으로 박하나 지켰다… "할 수 있는 모든 일 할 것"]]></title>
-        <id>https://v.daum.net/v/20230302202000630</id>
-        <link href="https://v.daum.net/v/20230302202000630"/>
-        <updated>2023-03-02T12:21:42.429Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 이나영 인턴기자) '태풍의 신부' 박윤재와 강지섭이 박하나를 지키기 위해 노력했다. 2일 방송된 KBS 2TV 일일드라마 '태풍의 신부'에서는 은서연(박하나 분)을 지키기 위해 노력하는 강태풍(강지섭)과 윤산들(박윤재)의 모습이 전파를 탔다.&nbsp; 강백산(손창민)은 은서연(전 강바람, 박하나)을 찾아왔지만, 강태풍(강지섭)이 추가로 붙인 경호원으]]></content>
     </entry>
 </feed>
