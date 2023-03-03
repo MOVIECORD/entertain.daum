@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-03-03T05:16:56.661Z</updated>
+    <updated>2023-03-03T06:15:56.874Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[제이홉, 'j-hope IN THE BOX' 성장 멈추지 않는다]]></title>
+        <id>https://v.daum.net/v/20230303151455083</id>
+        <link href="https://v.daum.net/v/20230303151455083"/>
+        <updated>2023-03-03T06:15:38.126Z</updated>
+        <content type="html"><![CDATA[[OSEN=김보라 기자] 디즈니+ 측이 'j-hope IN THE BOX' 스페셜 스틸 6종을 공개했다. 'j-hope IN THE BOX'(제작 HYBE)는 200여 일간 아티스트 제이홉의 ‘Jack In The Box’ 앨범 제작 및 활동기를 담아낸 하이브 제작 다큐멘터리. 지난 2월 17일 전세계 동시 공개 직후 디즈니+ 영화 부문 월드 차트 TO]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[조진웅, '대외비' 홍보에 진심]]></title>
         <id>https://v.daum.net/v/20230303140726844</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230303110023327"/>
         <updated>2023-03-03T02:50:20.074Z</updated>
         <content type="html"><![CDATA[김한민 감독의 이순신 3부작 중 '명량'에 이은 두 번째 작품 '한산: 용의 출현'이 3월 16일 일본에서 개봉을 확정 지었다. '한산: 용의 출현'은 조선이 임진왜란 발발 15일 만에 한양을 빼앗긴 위기에서 56척의 조선 배가 73척 왜선과 맞서 47척을 격파하며 대승한 이순신 장군의 한산대첩을 그린 영화로, 항일 콘텐츠가 일본에서 선보일 시 대체적으로]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘멍뭉이’는 노‘카운트’, ‘대외비’마저..韓영화 줄초상 위기]]></title>
-        <id>https://v.daum.net/v/20230303103900409</id>
-        <link href="https://v.daum.net/v/20230303103900409"/>
-        <updated>2023-03-03T02:50:20.075Z</updated>
-        <content type="html"><![CDATA[한국 신상 영화들의 줄초상 위기에 놓였다. 진선규의 ‘카운트’는 일찌감치 KO당했고, ‘멍뭉이’는 완전히 길을 잃었다. 야심차게 출발한 ‘대외비’마저 하루 만에 (관객수가) 반의 반토막이 났다. 반면 신상 일본 애니 ‘귀멸의 칼날:상현집결, 그리고 도공 마을로’와 ‘더 퍼스트 슬램덩크’는 각각 박스오피스 1위와 4위에 오르며 승승장구 중이다. 다음주 ‘너의]]></content>
     </entry>
 </feed>
