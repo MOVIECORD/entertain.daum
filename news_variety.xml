@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/variety</id>
     <title>다음 연예 ─ 뉴스 ─ 예능</title>
-    <updated>2023-03-03T19:11:12.282Z</updated>
+    <updated>2023-03-03T20:13:14.799Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["셋 다 비만?" '나혼산', 전현무→박나래 팜유라인 건강 검진行 …결과는?]]></title>
+        <id>https://v.daum.net/v/20230304044029241</id>
+        <link href="https://v.daum.net/v/20230304044029241"/>
+        <updated>2023-03-03T20:13:03.835Z</updated>
+        <content type="html"><![CDATA[[OSEN=김예솔 기자] '나 혼자 산다' 전현무, 박나래, 이장우가 건강 검진을 받았다.&nbsp; 3일에 방송된 MBC ‘나 혼자 산다’에서는 팜유라인 전현무, 박나래, 이장우가 건강 검진을 받기 위해 병원으로 향하는 모습이 공개되며 '제 1회 팜유 피지컬 심포지엄'이 예고돼 눈길을 끌었다.&nbsp; 앞서 전현무는 팜유라인의 건강을 염려하며 "팜유 세미나 건강 검진]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[박남정, 다 큰 딸들에 과한 집착 "00도 따라와" 경악]]></title>
         <id>https://v.daum.net/v/20230304040727200</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230304002301578"/>
         <updated>2023-03-03T16:15:36.254Z</updated>
         <content type="html"><![CDATA[[텐아시아=신지원 기자]이제훈과 표예진이 신혼부부로 나섰다. 3일 방송된 SBS 금토드라마 '모범택시2'에서는 김도기(이제훈 분)과 안고은(표예진 분)이 신혼부부 행세를 하다 들통날 위기에 처했다. 이날 김도기, 안고은, 온하준(신재하 분)은 집을 보러 다니다 차 앞으로 뛰어든 여자 아이를 칠 뻔했다. 그 아이는 김도기에게 "저 소망이한테 가야 돼요]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[백화점 맨발 난동女 "조울증으로 입원중"..김구라 "동정유도?" 의심]]></title>
-        <id>https://v.daum.net/v/20230304001328522</id>
-        <link href="https://v.daum.net/v/20230304001328522"/>
-        <updated>2023-03-03T16:15:36.255Z</updated>
-        <content type="html"><![CDATA[[OSEN=김나연 기자] 백화점 맨발 난동으로 사회적 이슈가 됐던 진상 고객이 '진상월드'에 모습을 드러냈다. 3일 방송된 MBN '진상월드'는 '자연인' 이승윤이 게스트로 출연한 가운데 '판매직'을 주제로 이야기를 나눴다. 이날 방송에는 다양한 분야에서 판매직으로 일하고 있는 직원들이 게스트로 출연해 진상 에피소드를 공유했다. 그러던 중 큰 화제를 모]]></content>
     </entry>
 </feed>

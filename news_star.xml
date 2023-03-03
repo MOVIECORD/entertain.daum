@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2023-03-03T19:11:12.266Z</updated>
+    <updated>2023-03-03T20:13:14.803Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['모범택시2' 이제훈 "결혼해줄래요?"…표예진과 신혼부부 변신]]></title>
+        <id>https://v.daum.net/v/20230304051003343</id>
+        <link href="https://v.daum.net/v/20230304051003343"/>
+        <updated>2023-03-03T20:13:08.956Z</updated>
+        <content type="html"><![CDATA[(서울=뉴스1) 박하나 기자 = '모범택시2' 이제훈, 표예진이 의뢰를 위해 신혼부부를 연기했다. 지난 3일 오후 10시에 방송된 SBS 금토드라마 '모범택시2'(극본 오상호/연출 이단)에서는 불법 청약 브로커에 접근하기 위해 신혼부부로 변신한 김도기(이제훈 분), 안고은(표예진 분)의 모습이 담겼다. 동생 소망이를 찾는 의문의 아이 황서연(안채흠 분)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이서진 "'서진이네'에 노조는 용납 불가"…복장 단속까지]]></title>
+        <id>https://v.daum.net/v/20230304045126253</id>
+        <link href="https://v.daum.net/v/20230304045126253"/>
+        <updated>2023-03-03T20:13:08.956Z</updated>
+        <content type="html"><![CDATA[(서울=뉴스1) 박하나 기자 = '서진이네' 이서진이 사장에 과몰입한 모습으로 웃음을 안겼다. 지난 3일 오후 방송된 tvN 예능 프로그램 '서진이네'에서는 최우식의 합류와 함께 멕시코 바칼라르에서 영업을 시작한 '서진이네'의 두 번째 이야기가 담겼다. 영업 둘째 날 아침, 이서진은 직원의 복장을 단속하는 모습으로 시선을 모았다. 이서진은 "유니폼이다,]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[황영웅의 '반쪽짜리 하차'..결승전 통편집→VOD는 "그대로 송출"]]></title>
         <id>https://v.daum.net/v/20230304033016164</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230303235235348"/>
         <updated>2023-03-03T15:13:02.734Z</updated>
         <content type="html"><![CDATA[(서울=뉴스1) 이지현 기자 = 이유진이 본가를 찾았다. 3일 오후 방송된 MBC 예능 프로그램 '나 혼자 산다'에서는 배우 이유진의 일상이 공개된 가운데 아버지이자 선배 배우인 이효정을 만나 시선을 끌었다. 이날 이유진은 '본가 털이'를 하러 나섰다. 집에서는 아버지 혼자 취미 생활인 그림을 그리고 있었다. 이유진은 "아시는 분들은 아시는데 아버]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['나 혼자 산다' 이유진 "父=배우 이효정"…작은 아빠는 이기영]]></title>
-        <id>https://v.daum.net/v/20230303235204346</id>
-        <link href="https://v.daum.net/v/20230303235204346"/>
-        <updated>2023-03-03T15:13:02.735Z</updated>
-        <content type="html"><![CDATA[[스포츠투데이 서지현 기자] '나 혼자 산다' 이유진이 역대급 배우 집안임을 고백했다. 3일 밤 방송된 MBC '나 혼자 산다'에서는 배유 이유진이 무지개 라이브 게스트로 출연했다. 이날 이유진은 "제가 자주 터는 곳간"이라며 본가로 향했다. 이어 "30~40분 거리에 있어서 2주에 1번 간다. 자취생들은 먹을 게 중요하지 않냐. 오늘은 식량을 구하러]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['모범택시2' 김도윤, "당신들 부부 아니지?"…이제훈-표예진, 정체 발각 위기]]></title>
-        <id>https://v.daum.net/v/20230303235132343</id>
-        <link href="https://v.daum.net/v/20230303235132343"/>
-        <updated>2023-03-03T15:13:02.737Z</updated>
-        <content type="html"><![CDATA[[SBS연예뉴스 | 김효정 에디터] 이제훈과 표예진이 위기에 처했다. 3일 방송된 SBS '모범택시 시즌2' (이하 '모범택시2')에서는 정체 발각 위기에 처한 김도기, 안고은의 모습이 그려졌다. 이날 무지개 운수에는 누군가에게 쫓기는 서연이라는 아이가 들어왔다. 그리고 무지개 운수 사람들은 아이의 얼굴도 모르는 부모, 그리고 정체불명의 삼촌들에 혼란스러워]]></content>
     </entry>
 </feed>
