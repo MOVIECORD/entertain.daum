@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-03-03T12:23:06.142Z</updated>
+    <updated>2023-03-03T13:20:20.012Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘나혼산’ 이유진, 알고 보니 이효정 아들…“아빠는 일산 이연복”]]></title>
+        <id>https://v.daum.net/v/20230303221802736</id>
+        <link href="https://v.daum.net/v/20230303221802736"/>
+        <updated>2023-03-03T13:20:04.263Z</updated>
+        <content type="html"><![CDATA[3일 방송되는 MBC 예능프로그램 ‘나 혼자 산다’에서는 ‘본가 털이’에 나선 1년 차 자취생 배우 이유진의 모습이 그려진다. 이유진은 자취하는 집에서 30~40분 거리에 있는 본가를 방문한다. 비밀번호를 누르고 들어간 본가에선 낯익은 인물이 이유진을 반긴다. 이유진은 “아시는 분들은 아시겠지만, 우리 아버지가 배우 이효정”이라고 소개한다. 본가 곳곳엔 청]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[손창민, 박하나 이어 자식들에 배신 당하나]]></title>
         <id>https://v.daum.net/v/20230303205001652</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230303173648290"/>
         <updated>2023-03-03T09:14:28.566Z</updated>
         <content type="html"><![CDATA[(엑스포츠뉴스 최희재 기자) 배우 정재성이 새 드라마 '판도라'에 출연한다. 소속사 인연엔터테인먼트는 3일 “정재성이 tvN 새 토일드라마 ‘판도라 : 조작된 낙원’(이하 '판도라')에서 한민당의 수장이자 정치 9단 한경록 역으로 출연한다”고 밝혔다. ‘판도라 : 조작된 낙원’은 누구나 부러워하는 인생을 사는 여성이 잃어버렸던 과거의 기억을 회복하면서 자신]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[정재성, '판도라: 조작된 낙원' 출연 확정…명품 연기 기대↑]]></title>
-        <id>https://v.daum.net/v/20230303171741647</id>
-        <link href="https://v.daum.net/v/20230303171741647"/>
-        <updated>2023-03-03T09:14:28.566Z</updated>
-        <content type="html"><![CDATA[[마이데일리 = 강다윤 기자] 배우 정재성이 김순옥 사단에 합류한다. 3일 소속사 인연엔터테인먼트는 "정재성이 tvN 새 토일드라마 '판도라 : 조작된 낙원'에서 한민당의 수장이자 정치 9단 한경록 역으로 출연한다"고 밝혔다. 정재성이 케이블채널 tvN 새 토일드라마 '판도라 : 조작된 낙원'(극본 현지민 연출 최영훈 크리에이터 김순옥)에서 한민당의 수장]]></content>
     </entry>
 </feed>
