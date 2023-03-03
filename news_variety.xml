@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/variety</id>
     <title>다음 연예 ─ 뉴스 ─ 예능</title>
-    <updated>2023-03-03T18:16:03.411Z</updated>
+    <updated>2023-03-03T19:11:12.282Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[박남정, 다 큰 딸들에 과한 집착 "00도 따라와" 경악]]></title>
+        <id>https://v.daum.net/v/20230304040727200</id>
+        <link href="https://v.daum.net/v/20230304040727200"/>
+        <updated>2023-03-03T19:11:00.104Z</updated>
+        <content type="html"><![CDATA[[OSEN=김수형 기자] &nbsp;'금쪽상담소'에서 박남정이 딸들에게 집착(?)한다는 제보에 이어 아르바이트도 반대했던 일화를 전했다.&nbsp; 3일 방송된 채널A 예능 '오은영의 금쪽 상담소'에서 ‘아빠를 고발합니다’ 타임을 가졌다. 이날 딸들은 박남정에 대해 “아빠만큼 딸들한테 충실(?)한 사람 없어 걱정이 많다 , 친구들 여행도 짐 들어줄 사람 필요없냐고 따라왔]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[백화점 맨발 난동女, '진상월드' 직접 출연.."조울증때문, 진심으로 죄송"]]></title>
         <id>https://v.daum.net/v/20230304012327810</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230304001328522"/>
         <updated>2023-03-03T16:15:36.255Z</updated>
         <content type="html"><![CDATA[[OSEN=김나연 기자] 백화점 맨발 난동으로 사회적 이슈가 됐던 진상 고객이 '진상월드'에 모습을 드러냈다. 3일 방송된 MBN '진상월드'는 '자연인' 이승윤이 게스트로 출연한 가운데 '판매직'을 주제로 이야기를 나눴다. 이날 방송에는 다양한 분야에서 판매직으로 일하고 있는 직원들이 게스트로 출연해 진상 에피소드를 공유했다. 그러던 중 큰 화제를 모]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이유진, "父=배우 이효정" 셀프 인테리어→월세 35만원 나를 아끼는 삶]]></title>
-        <id>https://v.daum.net/v/20230304001146514</id>
-        <link href="https://v.daum.net/v/20230304001146514"/>
-        <updated>2023-03-03T15:12:58.233Z</updated>
-        <content type="html"><![CDATA[[OSEN=김예솔 기자] 이유진이 자신의 집을 공개했다.&nbsp; 3일에 방송된 MBC ‘나 혼자 산다’에서는 배우 이유진이 등장한 가운데 아버지인 배우 이효정도 함께 등장했다.&nbsp; 이날 이유진은 월세 35만원에 반지하방에 살고 있지만 셀프 인테리어로 감성 인테리어를 선보여 눈길을 끌었다. 인테리어를 마친 이유진은 밖으로 나와 트럭을 탔다. 코드쿤스트는 "솔직히]]></content>
     </entry>
 </feed>

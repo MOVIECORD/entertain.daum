@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2023-03-03T18:16:03.406Z</updated>
+    <updated>2023-03-03T19:11:12.266Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[황영웅의 '반쪽짜리 하차'..결승전 통편집→VOD는 "그대로 송출"]]></title>
+        <id>https://v.daum.net/v/20230304033016164</id>
+        <link href="https://v.daum.net/v/20230304033016164"/>
+        <updated>2023-03-03T19:11:05.816Z</updated>
+        <content type="html"><![CDATA[[OSEN=김나연 기자] 황영웅이 MBN '불타는 트롯맨'에서 하차하는 가운데,&nbsp;VOD에서는 편집 없이 그대로 송출된다. 일본 방송에서도 별도의 편집이 이루어지지 않을 예정이다. 앞서 황영웅은 지난 2일 자신의 인스타그램에 직접 장문의 글을 올리고 하차 의사를 밝혔다. 그는 "더 늦으면 안될 것 같아서 제작진과 상의 끝에 말씀을 드리고자한다"며 "저는]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["뉴진스 민지+한가인 닮은 꼴" KCM, 베일에 가려진 미모의 아내 '궁금↑']]></title>
         <id>https://v.daum.net/v/20230304011127794</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230303235132343"/>
         <updated>2023-03-03T15:13:02.737Z</updated>
         <content type="html"><![CDATA[[SBS연예뉴스 | 김효정 에디터] 이제훈과 표예진이 위기에 처했다. 3일 방송된 SBS '모범택시 시즌2' (이하 '모범택시2')에서는 정체 발각 위기에 처한 김도기, 안고은의 모습이 그려졌다. 이날 무지개 운수에는 누군가에게 쫓기는 서연이라는 아이가 들어왔다. 그리고 무지개 운수 사람들은 아이의 얼굴도 모르는 부모, 그리고 정체불명의 삼촌들에 혼란스러워]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[배우 이상원, 영화 ‘대외비’ 안 실장 역 출연]]></title>
-        <id>https://v.daum.net/v/20230303233224266</id>
-        <link href="https://v.daum.net/v/20230303233224266"/>
-        <updated>2023-03-03T15:13:02.738Z</updated>
-        <content type="html"><![CDATA[배우 이상원이 영화 ‘대외비’에  출연했다. 3일 소속사 워크하우스컴퍼니는 “이상원이 영화 ‘대외비’에 안실장 역으로 등장한다”고 전했다. 현재 박스오피스 1위로 순항 중인 영화 ‘대외비(감독 이원태)’는 1992년 부산, 만년 국회의원 후보 해웅(조진웅)과 정치판의 숨은 실세 순태(이성민), 행동파 조폭 필도(김무열)가 대한민국을 뒤흔들 비밀문서를]]></content>
     </entry>
 </feed>
