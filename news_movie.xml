@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-03-04T06:15:03.979Z</updated>
+    <updated>2023-03-04T07:11:09.073Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[유아인 ‘마약 혐의’, 피해는 동료 몫..김영웅→현봉식 “아쉽다”]]></title>
+        <id>https://v.daum.net/v/20230304161015734</id>
+        <link href="https://v.daum.net/v/20230304161015734"/>
+        <updated>2023-03-04T07:10:47.928Z</updated>
+        <content type="html"><![CDATA[배우 유아인의 마약 투약 혐의로 차기작들에 ‘비상’이 걸린 가운데, 함께 작품에 출연했던 배우들이 아쉬운 마음을 토로하고 나섰다. 4일 넷플릭스 영화 ‘승부’에 출연한 배우 현봉식은 자신의 인스타그램에 “안타까움과 아쉬움이 교차된다”며 “영화 ‘승부’가 보고 싶다. 정말 보고 싶다. 이번엔 거짓이 아니다”라는 글을 적었다. 함께 게재한 사진에는 일본 만]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[가가연x허광한x시백우 '상견니', 찐친 케미 통했다…누적 관객 35만]]></title>
         <id>https://v.daum.net/v/20230304142517619</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230304081328049"/>
         <updated>2023-03-04T00:57:22.387Z</updated>
         <content type="html"><![CDATA[[OSEN=김보라 기자] 제73회 베를린 국제영화제 경쟁 부문 공식 초청에 이어 국내 언론과 예비 관객들에게 뜨거운 호평을 얻고 있는 영화 '스즈메의 문단속'이 개봉을 앞두고 전체 예매율 1위에 올랐다. '스즈메의 문단속'(감독 신카이 마코토, 수입 미디어캐슬, 배급 쇼박스)은 우연히 재난을 부르는 문을 열게 된 소녀 스즈메가 일본 각지에서 발생하는 재]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이성민 "배우는 평생 무지개를 좇는 사람"]]></title>
-        <id>https://v.daum.net/v/20230304080012901</id>
-        <link href="https://v.daum.net/v/20230304080012901"/>
-        <updated>2023-03-03T23:12:37.995Z</updated>
-        <content type="html"><![CDATA["연기는 해도 해도 끝이 없어요. 잡힐 듯 잡히지 않는 무지개 같아요. 배우는 평생 무지개를 좇는 사람들이죠. 말하고 보니 꽤 멋지네요? 허허허." 배우 이성민(54)은 연기 철학을 이같이 말했다. '연기'란 단어만 나오면 진지해지면서 엷은 미소가 번진다. 버릴 경험은 없다고 했던가. 배고픔은 지금의 그를 있게 한 원동력이다. 숨 돌릴 틈이 없이 달려왔다.]]></content>
     </entry>
 </feed>
