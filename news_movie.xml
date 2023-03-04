@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-03-04T21:10:42.495Z</updated>
+    <updated>2023-03-04T22:11:08.106Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[조진웅X이성민 통했다..'대외비', 개봉 첫 주말 1위]]></title>
+        <id>https://v.daum.net/v/20230305070758831</id>
+        <link href="https://v.daum.net/v/20230305070758831"/>
+        <updated>2023-03-04T22:10:46.283Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 김미화 기자] /사진='대외비' 포스터 영화 '대외비'가 개봉 후 첫 주말 1위에 올랐다. 5일 영진위 영화관 입장권 통합전산망에 따르면 영화 '대외비'는 지난 4일 11만 1647명의 관객을 모으며 박스오피스 1위에 올랐다. 누적관객수는 40만 134명이다. 지난 1일 개봉한 '대외비'는 개봉 첫날 박스오피스 1위에 올랐으나, 다음날 개봉한]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[유연석, 개 털 묻히고 다니는 배우라니]]></title>
+        <id>https://v.daum.net/v/20230305070101716</id>
+        <link href="https://v.daum.net/v/20230305070101716"/>
+        <updated>2023-03-04T22:10:46.286Z</updated>
+        <content type="html"><![CDATA[[텐아시아=최지예 기자] "아, 리타 털이 묻었네요. 이거 제 옷이거든요." 배우 유연석은 인터뷰 중 옷에 묻은 반려견 리타의 털을 털어내며 웃었다. 옷에 묻어있는 반려견의 털. 개털 묻히고 다니는 배우라니, '이건 찐이다' 싶었다. 아기를 키우는 엄마의 옷에 항상 아기의 침 자국이 묻어 있는 것과 비슷한 느낌이었다.&nbsp; 유연석은 영화 '멍뭉이'(감독]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[임영웅, 히어로급 팬사랑…글로벌 영웅시대에 전달]]></title>
         <id>https://v.daum.net/v/20230305060901203</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230304102738499"/>
         <updated>2023-03-04T02:18:11.110Z</updated>
         <content type="html"><![CDATA[영화 제목도 모른 채 티켓을 예매한 적이 있는가. 작품에 대한 정보 없이 영화관을 찾게 만드는 '비밀 상영회'가 극장가의 랜덤박스 같은 역할을 하고 있다. 관객들도 뜨거운 반응을 보이는 중이다. 첫 비밀 상영회는 지난달 23일 롯데시네마 월드타워, 건대입구, 신림에서 개최됐다. 이 상영회에서는 영화 '대외비'가 준비됐는데 이원태 감독과 조진웅은 롯데시네마]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['스즈메의 문단속', 日 애니 열풍의 정점 찍을까]]></title>
-        <id>https://v.daum.net/v/20230304100157209</id>
-        <link href="https://v.daum.net/v/20230304100157209"/>
-        <updated>2023-03-04T02:18:11.111Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 김나연 기자] [편집자주] 영화를 보는 김나연 기자의 사적인 시선. 사진='스즈메의 문단속' 스틸컷한국 극장가에서 일본 애니메이션 영화의 선전이 이어지고 있다. 한국 영화가 주춤한 사이, '더 퍼스트 슬램덩크'는 열풍을 불러왔고, 그 기세를 '귀멸의 칼날: 상현집결, 그리고 도공 마을로'가 이어받았다. 여기에 '스즈메의 문단속'까지 출격을 알리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['스즈메의 문단속']]></title>
-        <id>https://v.daum.net/v/20230304100143202</id>
-        <link href="https://v.daum.net/v/20230304100143202"/>
-        <updated>2023-03-04T02:18:11.111Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 김나연 기자] 스즈메의 문단속 / 사진=영화 포스터영화 '더 퍼스트 슬램덩크'의 인기는 개봉 두 달째에도 식을 줄 모르고 있다. '더 퍼스트 슬램덩크'는 장기 흥행을 이어가며 국내 개봉 일본 영화 중 관객 수 1위를 기록 중인 '너의 이름은.'(380만)의 자리까지 넘보고 있다. 여기에 한국 영화들은 부진을 이어가고 있고, 지난 2일 개봉한 '귀]]></content>
     </entry>
 </feed>
