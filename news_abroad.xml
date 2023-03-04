@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-03-04T20:12:28.272Z</updated>
+    <updated>2023-03-04T21:10:42.497Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[영화 '에이리언' 9번째 작품 제작…이달부터 촬영 시작]]></title>
+        <id>https://v.daum.net/v/20230305054528936</id>
+        <link href="https://v.daum.net/v/20230305054528936"/>
+        <updated>2023-03-04T21:10:41.817Z</updated>
+        <content type="html"><![CDATA[(로스앤젤레스=연합뉴스) 정윤섭 특파원 = 미국 월트디즈니 산하의 영화 제작사 20세기 스튜디오가 영화 '에이리언' 시리즈의 9번째 작품을 제작한다. 20세기 스튜디오는 오는 9일(이하 현지시간)부터 '에이리언' 시리즈의 새로운 작품에 대한 촬영 작업을 헝가리 부다페스트에서 시작한다고 4일 발표했다. 연예매체 버라이어티 등에 따르면 아직 제목이 정해지지 않]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[76살 셰어, ‘40살 연하’ 래퍼와 열애 축하에 "감사합니다" 소감]]></title>
         <id>https://v.daum.net/v/20230305003230099</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230304130316672"/>
         <updated>2023-03-04T04:14:48.610Z</updated>
         <content type="html"><![CDATA[[OSEN=유수연 기자]&nbsp;레오나르도 디카프리오가 또 한 번 금발 모델과 함께 있는 장면이 목격됐다. 2일(현지 시각) 영국 매체 데일리 메일 등 외신에 따르면, 디카프리오(48)는 프랑스 파리에 있는 한 고급 레스토랑에서 열린 파티에 참석했다. 외신은 “레오는 모델 로즈 버트램(28)와 동시에 파티장에 도착한 후, 몇 분 후에 함께 떠났다”라며 “마스크]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘탑건2’ 톰 크루즈, 제작자로 아카데미상 거머쥘까]]></title>
-        <id>https://v.daum.net/v/20230304121428430</id>
-        <link href="https://v.daum.net/v/20230304121428430"/>
-        <updated>2023-03-04T04:14:48.611Z</updated>
-        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]할리우드 배우 톰 크루즈(60)가 ‘탑건:매버릭’ 제작자로 아카데미를 정조준한다. 지난 1월 아카데미는 ‘탑건:매버릭’을 작품상, 각색상, 주제가상, 음향상, 편집상, 시각효과상 등 6개 후보에 지명했다. 비록 남우주연상 후보에 오르지 못했지만, 그는 이제 제작자로 당당하게 아카데미를 노크하게 됐다. 그는 이전에 '7월 4]]></content>
     </entry>
 </feed>
