@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-03-04T00:57:40.594Z</updated>
+    <updated>2023-03-04T02:18:32.828Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['특파원보고 세계는 지금' 튀르키예·시리아 지진 그 이후]]></title>
+        <id>https://v.daum.net/v/20230304110854919</id>
+        <link href="https://v.daum.net/v/20230304110854919"/>
+        <updated>2023-03-04T02:18:16.294Z</updated>
+        <content type="html"><![CDATA[사진=KBS[이데일리 스타in 유준하 기자] 초대형 지진이 튀르키예와 시리아를 휩쓸고 지나간 지 3주가 지났다. KBS ‘특파원보고 세계는 지금’은 살아남은 기쁨도 잠시, 사투를 벌이고 있는 시리아인들과 고통 속에서도 희망을 잃지 않고 살아가는 지진 피해 아동들의 실상을 취재해서 전한다. 현지 시각으로 지난달 24일 기준 튀르키예의 누적 사망자 수 4만4]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[조승우, '비밀의 숲'과는 다를 '신성한, 이혼'…3연속 히트 미션]]></title>
+        <id>https://v.daum.net/v/20230304104327645</id>
+        <link href="https://v.daum.net/v/20230304104327645"/>
+        <updated>2023-03-04T02:18:16.296Z</updated>
+        <content type="html"><![CDATA[[OSEN=장우영 기자] 배우 조승우가 JTBC 드라마 3연속 히트의 미션을 받고 안방에 돌아온다. JTBC 새 토일드라마 ‘신성한, 이혼’(극본 유영아, 연출 이재훈)이 오늘(4일) 밤 10시 30분 첫 방송된다. ‘신성한, 이혼’은 현기증 나도록 예민한 아티스트 출신의 이혼 전문 변호사 신성한(조성우)이 마주하는 상상 이상의 이혼 의뢰들과 부질없이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['일타 스캔들' 정경호, 전도연 보자마자 '와락'..사랑담은 도시락 배달에 로맨틱 지수 UP]]></title>
         <id>https://v.daum.net/v/20230304095218026</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230304080623003"/>
         <updated>2023-03-03T23:12:43.233Z</updated>
         <content type="html"><![CDATA[(엑스포츠뉴스 윤현지 기자) '모범택시2' 이제훈-표예진이 '아파트 불법 청약 브로커'에게 접근하기 위해 신혼부부로 위장했다가 정체를 발각당할 위기에 놓였다. '모범택시2'는 최고 시청률 19.7%, 수도권 16.3%, 전국 14.7%로 매주 자체 최고 시청률을 경신하는 폭발적 상승세를 이어갔다. 또한 채널 경쟁력과 화제성을 가늠하는 핵심 지표인 2049]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이제훈, 표예진에 깜짝 프러포즈…김도윤 급습에 '당황']]></title>
-        <id>https://v.daum.net/v/20230304080002884</id>
-        <link href="https://v.daum.net/v/20230304080002884"/>
-        <updated>2023-03-03T23:12:43.234Z</updated>
-        <content type="html"><![CDATA[[텐아시아=강민경 기자] 이제훈, 표예진이 '아파트 불법 청약 브로커'에게 접근하기 위해 신혼부부로 위장했다. 지난 3일 방송된 SBS 금토 드라마 '모범택시2' 5회에서는 김도기(이제훈 역)와 안고은(표예진&nbsp;역)이 신혼부부 행세를 하는 모습이 그려졌다. 이날 방송에서 김도기, 장 대표(김의성 역), 안고은, 최 주임(장혁진 역), 박 주임(배유람 역]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['모범택시2' 이제훈X표예진 깜짝 결혼에…최고 19.7% 독보적 1위]]></title>
-        <id>https://v.daum.net/v/20230304075230860</id>
-        <link href="https://v.daum.net/v/20230304075230860"/>
-        <updated>2023-03-03T23:12:43.236Z</updated>
-        <content type="html"><![CDATA[[마이데일리 = 오윤주 기자] SBS 금토드라마 '모범택시2'(극본 오상호 연출 이단) 이제훈-표예진이 신혼부부로 위장했다 위기에 놓였다. '모범택시2'는 최고 시청률 19.7%, 수도권 16.3%, 전국 14.7%로 매주 자체 최고 시청률을 경신하는 폭발적 상승세를 이어갔다. 채널 경쟁력과 화제성을 가늠하는 핵심 지표인 2049 시청률 역시 수도권 기준]]></content>
     </entry>
 </feed>
