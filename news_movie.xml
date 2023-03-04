@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-03-04T05:11:29.429Z</updated>
+    <updated>2023-03-04T06:15:03.979Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[가가연x허광한x시백우 '상견니', 찐친 케미 통했다…누적 관객 35만]]></title>
+        <id>https://v.daum.net/v/20230304142517619</id>
+        <link href="https://v.daum.net/v/20230304142517619"/>
+        <updated>2023-03-04T06:14:42.463Z</updated>
+        <content type="html"><![CDATA[[OSEN=김보라 기자] 멀티버스 판타지 로맨스 '상견니'가 누적 관객 35만 돌파를 기념해 촬영장 비하인드를 담은 메이킹 영상을 공개했다. '상견니'(감독 황천인, 각본 여안현, 수입 오드, 제공배급 오드・리바이브콘텐츠주식회사, 공동배급 CJ CGV)는 2009년 리쯔웨이와 황위쉬안이 우연히 만나 묘하게 가슴 설레는 기시감을 느끼면서 시작되는 멀티버스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘귀멸의 칼날’ 1위, 내주 ‘스즈메’ 경쟁각]]></title>
         <id>https://v.daum.net/v/20230304130126655</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230304080012901"/>
         <updated>2023-03-03T23:12:37.995Z</updated>
         <content type="html"><![CDATA["연기는 해도 해도 끝이 없어요. 잡힐 듯 잡히지 않는 무지개 같아요. 배우는 평생 무지개를 좇는 사람들이죠. 말하고 보니 꽤 멋지네요? 허허허." 배우 이성민(54)은 연기 철학을 이같이 말했다. '연기'란 단어만 나오면 진지해지면서 엷은 미소가 번진다. 버릴 경험은 없다고 했던가. 배고픔은 지금의 그를 있게 한 원동력이다. 숨 돌릴 틈이 없이 달려왔다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['소울메이트' 그 시절의 미소, 청춘의 온도가 그립다면]]></title>
-        <id>https://v.daum.net/v/20230304080006890</id>
-        <link href="https://v.daum.net/v/20230304080006890"/>
-        <updated>2023-03-03T23:12:37.996Z</updated>
-        <content type="html"><![CDATA[[이데일리 스타in 김보영 기자] 개봉 영화를 소개합니다. 소울메이트 1998년, 처음 만났다. 2004년, 첫사랑이 생겼다. 2010년, 각자 어른이 되어간다. 2014년, 흔적을 따라간다. 지금, 그리움을 그린다. 중국의 인기 원작 ‘안녕, 소울메이트’를 리메이크한 영화 ‘소울메이트’가 개봉을 앞뒀다. 제주도의 아름다운 풍광과 1990년대 추억의]]></content>
     </entry>
 </feed>
