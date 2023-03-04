@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-03-04T19:09:54.836Z</updated>
+    <updated>2023-03-04T20:12:28.277Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["하도영 불임? 동은 용서 엔딩?"..'더 글로리2' 궁예글 들킨 것 있다]]></title>
+        <id>https://v.daum.net/v/20230305050501752</id>
+        <link href="https://v.daum.net/v/20230305050501752"/>
+        <updated>2023-03-04T20:12:11.648Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 한해선 기자] /사진=넷플릭스 '더 글로리' 배우들이 파트2에 대한 다양한 추측들을 함께 봤다. 4일 유튜브 채널 Netflix K-Content 채널에는 '파트2 궁예글 중에 진짜가 있다?'라는 제목으로 영상이 올라왔다. 영상에는 손명오 역의 김건우, 이사라 역의 김히어라, 전재준 역 박성훈, 최혜정 역의 차주영 하도영 역의 정성일이 한]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['첫방' 한혜진 외도+상간남 동영상···조승우 "이혼 재판 이기겠다"]]></title>
         <id>https://v.daum.net/v/20230305012103321</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230304222623503"/>
         <updated>2023-03-04T14:10:48.363Z</updated>
         <content type="html"><![CDATA[[OSEN=유수연 기자]&nbsp;야구선수 유희관이 결혼에 대한 의지를 드러냈다. 4일 방송된 KBS2 예능 ‘살림하는 남자들 시즌2’(이하 ‘살림남2’)에서는 후배 선수인 유희관과 함께 전지 훈련을 떠난 아들을 찾아간 홍성흔의 모습이 담겼다. 이날 홍성흔은 “화철이가 지금 6주관 전지훈련을 떠났다. 야구 선수에게 필요한 게 제구력인데, 유희관이 제구력의 마술사]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘30년 친구’ 조승우·김성균·정문성, 아지트를 잃어버린다면?]]></title>
-        <id>https://v.daum.net/v/20230304221627463</id>
-        <link href="https://v.daum.net/v/20230304221627463"/>
-        <updated>2023-03-04T13:16:41.085Z</updated>
-        <content type="html"><![CDATA[[동아닷컴] 사진 제공: SLLJTBC 새 토일드라마 '신성한, 이혼' 조승우, 김성균, 정문성 일상에 반갑지 않은 뉴스가 찾아온다. 오늘(4일) 첫 방송되는 ‘신성한, 이혼(극본 유영아/ 연출 이재훈)’에서는 마흔두 살 30년 지기 세 친구인 신성한(조승우 분)과 장형근(김성균 분), 조정식(정문성 분) 앞에 믿을 수 없는 일이 펼쳐진다. 공개된 사진]]></content>
     </entry>
 </feed>
