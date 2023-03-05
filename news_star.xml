@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2023-03-05T18:13:54.821Z</updated>
+    <updated>2023-03-05T19:09:49.367Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[카카오의 다음 행보… 공개매수 선언, 하이브와 제휴?]]></title>
+        <id>https://v.daum.net/v/20230306040828438</id>
+        <link href="https://v.daum.net/v/20230306040828438"/>
+        <updated>2023-03-05T19:09:43.908Z</updated>
+        <content type="html"><![CDATA[SM엔터테인먼트 인수전의 2막이 올랐다. 카카오의 SM엔터 지분 인수가 무산되면서 하이브가 승기를 잡은 가운데 수세에 몰린 카카오의 행보에 가요계와 증권가의 시선이 쏠리고 있다. 서울동부지법 민사합의21부는 지난 3일 이수만 전 SM 총괄 프로듀서가 SM을 상대로 낸 신주 및 전환사채 발행 금지 가처분에 대해 인용 결정을 내렸다. 유상증자와 전환사채 발행]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['런닝맨' 지석진, 멤버들과 제작진들 위해 "시원하게 회식 전액 결제"]]></title>
+        <id>https://v.daum.net/v/20230306033000337</id>
+        <link href="https://v.daum.net/v/20230306033000337"/>
+        <updated>2023-03-05T19:09:43.909Z</updated>
+        <content type="html"><![CDATA[[SBS연예뉴스 | 김효정 에디터] 지석진이 시원하게 멤버들과 제작진을 위해 쐈다. 5일 방송된 SBS '런닝맨'에서는 지석진이 쏜다 회식 편이 공개됐다. 이날 회식에 앞서 멤버들은 차태현, 유연석과의 레이스를 갈무리하며 유연석의 허당미를 지적했다. 그리고 지석진은 차태현을 향해 "얘는 사기꾼이다"라고 했다. 이에 차태현은 "끊을 수 없다"라며 배신에 중독]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['미우새' 탁재훈 '드라마 첫 방 축하' 파티…"우리에겐 형이 주인공"]]></title>
         <id>https://v.daum.net/v/20230306030601283</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230305230316423"/>
         <updated>2023-03-05T14:10:45.205Z</updated>
         <content type="html"><![CDATA[[스포츠조선 조윤선 기자] 전도연과 정경호가 쌍방 프러포즈를 하며  꽉 닫힌 해피엔딩을 맞았다. 5일 방송된 tvN 토일드라마 '일타스캔들' 최종화에서는 해피엔딩을 맞은 남행선(전도연)과 최치열(정경호)의 모습이 그려졌다. 해이(노윤서)는 엄마 행자(배해선)가 치열에게 돈을 빌리려고 한다는 것을 알고 퇴원 축하 파티에서 "엄마 따라 일본]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['미우새' 임원희, 김종서X박완규에 노래 배운 성공한 덕후]]></title>
-        <id>https://v.daum.net/v/20230305230227421</id>
-        <link href="https://v.daum.net/v/20230305230227421"/>
-        <updated>2023-03-05T14:10:45.208Z</updated>
-        <content type="html"><![CDATA[(서울=뉴스1) 이아영 기자 = 로커를 꿈꾼 임원희가 김종서와 박완규로부터 노래를 배웠다. 5일 방송된 SBS '미운 우리 새끼'에서 임원희 김희철 딘딘이 가수 김종서의 집에 놀러 갔다. 임원희는 김종서를 만나자 매우 쑥스러워했다. 임원희는 "제 원래 꿈이 록밴드 보컬이었다"고 말했다. 임원희는 김종서와 박완규에게 노래를 배우고 싶다고 조심스럽게 말했다]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[탁재훈, 상처만 남은 '드라마 첫방 파티'…" 1, 2회에 안 나와"]]></title>
-        <id>https://v.daum.net/v/20230305230209420</id>
-        <link href="https://v.daum.net/v/20230305230209420"/>
-        <updated>2023-03-05T14:10:45.208Z</updated>
-        <content type="html"><![CDATA[[스포츠조선닷컴 김준석 기자] 탁재훈이 드라마 출연과 관련해 아들들에게 고백했다. 5일 방송된 SBS '미운 우리 새끼'에는 탁재훈의 첫방 파티를 위해 아들들이 뭉쳤다. 이날 이상민에 집에 모인 아들들은 탁재훈이 오랜만에 드라마 주연을 맡은 걸 축하해주기 위해 모인 것. 김종민은 "재훈이형은 얼마나 떨리겠냐. 첫 방송인데"라며 걱정했고, 김준]]></content>
     </entry>
 </feed>
