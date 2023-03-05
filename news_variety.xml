@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/variety</id>
     <title>다음 연예 ─ 뉴스 ─ 예능</title>
-    <updated>2023-03-05T02:57:52.897Z</updated>
+    <updated>2023-03-05T03:26:43.339Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘전참시’ 박성광, 송이 매니저와 재회…성숙해진 멘트 “미안한 마음”]]></title>
+        <id>https://v.daum.net/v/20230305121200330</id>
+        <link href="https://v.daum.net/v/20230305121200330"/>
+        <updated>2023-03-05T03:26:33.387Z</updated>
+        <content type="html"><![CDATA[‘전참시’ 박성광과 송이 매니저가 뭉클한 재회를 하며 감동을 선사했다. 지난 4일 오후 방송된 MBC 예능프로그램 ‘전지적 참견 시점’(이하 ‘전참시’) 237회에서는 송이 매니저와 함께한 박성광의 영화감독 데뷔 현장과 송은이와 참견인들의 시끌벅적 신사옥들이가 그려졌다. 이날 방송에서는 전참시 개국공신이자 ‘조무래기’ 박성광이 송이 매니저와 오랜만에 재회했]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘복면가왕’ 황치열 응원하는 복면가수 누굴까 “케이팝 미래 책임지는 분”]]></title>
+        <id>https://v.daum.net/v/20230305120917277</id>
+        <link href="https://v.daum.net/v/20230305120917277"/>
+        <updated>2023-03-05T03:26:33.387Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 김명미 기자] 황치열이 '복면가왕'에 힌트 요정으로 등장한다. 3월 5일 방송되는 MBC '복면가왕'에서는 우승 트로피에 맞설 복면 가수 8인의 듀엣곡 대결이 펼쳐진다. 특히 이날 방송에는 가수 황치열이 깜짝 등장한다. 그는 바쁜 일정에도 불구하고 특별한 인연이 있는 복면 가수를 위해 판정단과의 전화 연결에 흔쾌히 응했다. 특히 “이분은 케이팝의]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이찬원x장민호에 故송해 등장까지..KBS 수신료 아깝지 않은 '불후' 특집]]></title>
         <id>https://v.daum.net/v/20230305115427940</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230305105406885"/>
         <updated>2023-03-05T02:57:41.615Z</updated>
         <content type="html"><![CDATA[[마이데일리 = 양유진 기자] '나 혼자 산다' 전현무, 박나래, 이장우가 나란히 비만 판정을 받았다. 지난 3일 방송된 MBC '나 혼자 산다' 말미에는 제1회 팜유 건강 검진에 나선 '팜유 라인' 전현무, 박나래, 이장우의 예고편이 전파를 탔다. 달랏 세미나 이후 건강 검진을 위해 한데 모인 '팜유 라인'. 유일한 대장 내시경 경험자인 전현무는 박]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘연봉 100억 일타 강사’ 이지영 만난 이상민 반응은? ‘사심 가득’]]></title>
-        <id>https://v.daum.net/v/20230305104027654</id>
-        <link href="https://v.daum.net/v/20230305104027654"/>
-        <updated>2023-03-05T02:57:41.617Z</updated>
-        <content type="html"><![CDATA[[OSEN=강서정 기자] SBS ‘미운 우리 새끼’에서는 ‘미우새’ 대표 브레인 탁재훈, 임원희, 이상민, 김종민이 대한민국 대표 일타강사 이지영을 만나 만학도에 도전한다. 이날, 탁재훈은 대치동의 한 강의실에 모인 아들들에게 자신의 부탁으로 유명한 강사님을 모셨다며 우쭐했다. 더욱이 “’미우새’에 못 배운 사람들이 너무 많다”며 학습의 중요성을 강조한]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘배틀트립2’ 박성광♥이솔이, 요트 위 로맨틱한 이벤트 “해피엔딩”]]></title>
-        <id>https://v.daum.net/v/20230305103901619</id>
-        <link href="https://v.daum.net/v/20230305103901619"/>
-        <updated>2023-03-05T02:57:41.618Z</updated>
-        <content type="html"><![CDATA[‘배틀트립2’ 박성광과 이솔이가 로맨틱한 이벤트가 더해진 알콩달콩한 여행을 선보였다. 지난 4일 오후 방송된 KBS2 예능프로그램 ‘배틀트립2’에서는 ‘부부특집 두 번째 허니문’을 주제로 여행 설계자 박성광, 이솔이 부부의 태국 푸켓 여행이 소개됐다. 앞서 인교진, 소이현 부부의 필리핀 세부 여행 ‘우정 투어’가 공개된 가운데 박성광, 이솔이 부부는 ‘반쪽]]></content>
     </entry>
 </feed>

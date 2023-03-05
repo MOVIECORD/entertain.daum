@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-03-05T02:57:52.910Z</updated>
+    <updated>2023-03-05T03:26:43.424Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[세뇌-공포가 만들어낸 끔찍한 비극, 이 다큐가 준 충격]]></title>
+        <id>https://v.daum.net/v/20230305121801418</id>
+        <link href="https://v.daum.net/v/20230305121801418"/>
+        <updated>2023-03-05T03:26:24.093Z</updated>
+        <content type="html"><![CDATA[[장혜령 기자] ▲ &nbsp;넷플릭스 오리지널 &lt;나는 신이다: 신이 배신한 사람들&gt; 포스터ⓒ 넷플릭스 넷플릭스 다큐멘터리 중 실화를 바탕으로 한 이야기에 매료된 적이 종종 있다. 한국 작품은 외국 작품보다 피부로 느끼는 부분이 엄청나다. 시리즈 &lt;레인코트 킬러: 유영철을 추격하다&gt;, 영화 &lt;사이버 지옥: N번방을 무너뜨려라&gt; 등 한국 사회의 충격적인 사건을 담은]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[한국에서 가장 뜨거운 두 배우, 한 테이블에 앉혔더니]]></title>
         <id>https://v.daum.net/v/20230305114502817</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230305070758831"/>
         <updated>2023-03-04T22:10:46.283Z</updated>
         <content type="html"><![CDATA[[스타뉴스 김미화 기자] /사진='대외비' 포스터 영화 '대외비'가 개봉 후 첫 주말 1위에 올랐다. 5일 영진위 영화관 입장권 통합전산망에 따르면 영화 '대외비'는 지난 4일 11만 1647명의 관객을 모으며 박스오피스 1위에 올랐다. 누적관객수는 40만 134명이다. 지난 1일 개봉한 '대외비'는 개봉 첫날 박스오피스 1위에 올랐으나, 다음날 개봉한]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[유연석, 개 털 묻히고 다니는 배우라니]]></title>
-        <id>https://v.daum.net/v/20230305070101716</id>
-        <link href="https://v.daum.net/v/20230305070101716"/>
-        <updated>2023-03-04T22:10:46.286Z</updated>
-        <content type="html"><![CDATA[[텐아시아=최지예 기자] "아, 리타 털이 묻었네요. 이거 제 옷이거든요." 배우 유연석은 인터뷰 중 옷에 묻은 반려견 리타의 털을 털어내며 웃었다. 옷에 묻어있는 반려견의 털. 개털 묻히고 다니는 배우라니, '이건 찐이다' 싶었다. 아기를 키우는 엄마의 옷에 항상 아기의 침 자국이 묻어 있는 것과 비슷한 느낌이었다.&nbsp; 유연석은 영화 '멍뭉이'(감독]]></content>
     </entry>
 </feed>
