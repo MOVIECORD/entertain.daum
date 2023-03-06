@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-03-06T09:13:28.972Z</updated>
+    <updated>2023-03-06T10:14:47.853Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[웨딩드레스에 사인한 아델...신부 "꿈 이뤄졌다"]]></title>
+        <id>https://v.daum.net/v/20230306190827961</id>
+        <link href="https://v.daum.net/v/20230306190827961"/>
+        <updated>2023-03-06T10:14:46.913Z</updated>
+        <content type="html"><![CDATA[[TV리포트=성민주 기자] 가수 아델(Adele)이 결혼식 직후 공연에 참석한 신혼부부에게 특급 팬서비스를 뽐냈다. 5일(현지시간) 미국 라스베이거스에서 콘서트를 진행한 아델은 객석을 돌아다니며 자신의 히트곡 'When We Were Young'을 열창하다가 웨딩드레스와 턱시도를 입은 관객을 만났다. 이날 결혼식을 올렸다는 신혼부부의 말에 아델은 노래 도중]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘흑인 인어공주’ 할리 베일리, 몸통 컷아웃된 복숭아색 점프슈트로 매력 발산]]></title>
         <id>https://v.daum.net/v/20230306174522906</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230306091937387"/>
         <updated>2023-03-06T01:00:31.793Z</updated>
         <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]할리우드 스타 안젤리나 졸리(47)와 둘째 아들 팍스(19)가 LA에서 장을 보는 드문 장면을 연출했다. 할리우드 라이프가 5일(현지시간) 공개한 사진에 따르면, 팍스는 지난 3일 LA 지역 시장에서 식료품 쇼핑하는 모습이 포착됐다. 팍스는 빨간색 후드 스웨트 셔츠, 검은색 야구 모자, 검은색 바지를 착용했다. 불과 3일 전]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘소녀 리버스’, 오늘 최종회..데뷔 멤버 5인 버추얼 걸그룹 탄생!]]></title>
-        <id>https://v.daum.net/v/20230306084427172</id>
-        <link href="https://v.daum.net/v/20230306084427172"/>
-        <updated>2023-03-06T01:00:31.794Z</updated>
-        <content type="html"><![CDATA[국내 최초 버추얼 걸그룹 서바이벌 ‘소녀 리버스’의 최종 데뷔 멤버 5인이 오늘 드디어 공개된다. 대망의 파이널 무대만을 남겨두고 있는 ‘소녀 리버스’는 6일 결선 무대의 승자를 가리며 서바이벌 생존자 최종 5인을 발표한다. 벌써부터 온라인상에서는 ‘최애’ 캐릭터를 응원하는 팬들의 목소리가 높아지는 등 과연 어떤 소녀들이 끝까지 살아남아 버추얼 걸그룹 데]]></content>
     </entry>
 </feed>
