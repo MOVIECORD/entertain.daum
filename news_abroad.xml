@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-03-06T23:12:58.558Z</updated>
+    <updated>2023-03-07T01:04:46.106Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“디카프리오와 결별” 지지 하디드, “전 남편과 딸 공동육아 행복해”]]></title>
+        <id>https://v.daum.net/v/20230307092230659</id>
+        <link href="https://v.daum.net/v/20230307092230659"/>
+        <updated>2023-03-07T01:04:45.363Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]최근 할리우드 배우 레오나르도 디카프리오(48)와 결별한 미국 모델 지지 하디드(27)가 전 남편 제인 말릭(30)과의 공동육아가 “행복하다”고 밝혔다. 하디드와 말릭은 2020년 9월에 딸을 품에 안았고, 이듬해 10월 헤어졌다. 하디드는 6일(현지시간) ‘타임스 오브 런던’과 인터뷰에서 “딸 카이가 아빠와 함께 있을 때]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['치매' 브루스 윌리스 아내 "남편에게 소리치지마" 파파라치에 간청]]></title>
         <id>https://v.daum.net/v/20230307075222263</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230306163209195"/>
         <updated>2023-03-06T08:16:37.470Z</updated>
         <content type="html"><![CDATA[(서울=연합뉴스) 윤종석 기자 = 코로나19 팬데믹 이후 인도에서 한국 드라마가 심상찮은 인기몰이를 하고 있다고 영국 방송 BBC가 6일 보도했다. 다소 과장된 로맨스를 중심으로 한 과감한 장르섞기, 그 속에서 돋보이는 당찬 여주인공 등 한국 드라마의 특징이 인도의 발리우드 드라마와 여러모로 닮아 인도인들의 취향을 저격했기 때문이라고 한다. 한국 드라마가]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['타이타닉' 로즈·잭, 천국서 만나...엔딩에 새로운 해석 나왔다]]></title>
-        <id>https://v.daum.net/v/20230306152030888</id>
-        <link href="https://v.daum.net/v/20230306152030888"/>
-        <updated>2023-03-06T07:12:07.967Z</updated>
-        <content type="html"><![CDATA[[TV리포트=이수연 기자] 잭과 로즈는 천국에서 다시 만났을까? 1998년 개봉한 제임스 카메론의 영화 '타이타닉'은 1912년 타이타닉 호가 빙산에 충돌하며 탑승자 중 1,514명이 사망한 안타까운 실화를 바탕으로 각색한 작품으로 비극 속에서 피어난 두 남녀의 가슴 절절한 사랑 이야기를 더해 여전히 명작으로 남아있다. 영화는 타이타닉 호에 가라앉은 보물들]]></content>
     </entry>
 </feed>
