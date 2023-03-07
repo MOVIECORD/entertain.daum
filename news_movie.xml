@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-03-07T09:13:46.693Z</updated>
+    <updated>2023-03-07T10:14:19.854Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김다미·전소니 '소울메이트' 감독, "내 인생의 한 사람 찾길"]]></title>
+        <id>https://v.daum.net/v/20230307184930910</id>
+        <link href="https://v.daum.net/v/20230307184930910"/>
+        <updated>2023-03-07T10:13:57.654Z</updated>
+        <content type="html"><![CDATA[[OSEN=김보라 기자]&nbsp;“오랜 시간을 돌고 돌아 ‘아, 그 사람이구나’라고 깨닫게 되는 순간이 있다. 영화 속에 흐른 감정이 관객의 마음에 스며들길 바란다.” 민용근 감독은 7일 오후 서울 성수동의 한 카페에서 진행된 OSEN과의 인터뷰에서 “모두가 내 인생의 단 한 사람을 찾기를 원하고, 내 옆에 있는 사람이 바로 그 사람이길 원할 거다. 요즘에는]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[지창욱 측 "전도연과 '리볼버' 출연? 제안받고 검토 중"]]></title>
+        <id>https://v.daum.net/v/20230307182226381</id>
+        <link href="https://v.daum.net/v/20230307182226381"/>
+        <updated>2023-03-07T10:13:57.655Z</updated>
+        <content type="html"><![CDATA[[OSEN=연휘선 기자] 배우 지창욱이 영화 '리볼버' 출연을 제안받고 검토 중이다.&nbsp; 7일 소속사 글로리어스 엔터테인먼트 관계자는 OSEN에 "지창욱 배우가 영화&nbsp;'리볼버'&nbsp;출연을 제안받고 검토 중이다"라고 공식입장을 밝혔다.&nbsp; '리볼버'는 전직 경찰이 오직 하나의 목적과 목표를 향해 직진하는 이야기를 그린 영화다. '무뢰한'을 연출한 오승욱 감독이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['소울메이트' 감독 "배우들에게 '원작 한 번 보라'는 얘기 안 했다"]]></title>
         <id>https://v.daum.net/v/20230307175131421</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230307152100534"/>
         <updated>2023-03-07T07:11:01.038Z</updated>
         <content type="html"><![CDATA[[이정희 기자] 거머리처럼 살아남아 언젠가 이 판을 뒤집어야지. 2019년 개봉한 &lt;우먼 인 할리우드&gt; 속 케이트 블란쳇의 말이다. 누군가의 여자 친구 역할만을 맡던 신인 시절 했던 다짐이란다. 그리고 그녀는 끝내 그 다짐을 실현했다. 영화 &lt;타르&gt;로 2023년 76회 영국 아카데미상 여우주연상을 손에 쥐었다. 여우주연상, 아니 주연상에 걸맞은&nbsp; &nbsp;▲ &nbsp;타]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["동은아 파트2에 기대해" 임지연, '더 글로리' 과몰입 ing]]></title>
-        <id>https://v.daum.net/v/20230307151531263</id>
-        <link href="https://v.daum.net/v/20230307151531263"/>
-        <updated>2023-03-07T07:11:01.039Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 김나연 기자] 임지연 / 사진=유튜브 채널 보그 코리아배우 임지연이 '더 글로리' 속 기억에 남는 장면들과 비하인드를 밝혔다. 지난 3일 유튜브 채널 '보그 코리아'에는 '넷플릭스 '더 글로리' 박연진을 연기한 배우 임지연에게 가장 어려웠던 장면은?'이라는 제목의 영상이 공개됐다. 임지연은 '더 글로리' 배우들의 과몰입에 대해 "방영이 시]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["14일 경찰 소환, 포토라인 선다"…'프로포폴→코카인' 유아인, 오늘 자택 압수수색]]></title>
-        <id>https://v.daum.net/v/20230307151354192</id>
-        <link href="https://v.daum.net/v/20230307151354192"/>
-        <updated>2023-03-07T06:15:36.138Z</updated>
-        <content type="html"><![CDATA[[스포츠조선 조지영 기자] 경찰이 프로포폴부터 코카인까지 4종의 마약 투약 혐의를 받고 있는 배우 유아인의 자택을 압수수색했다. 7일 서울경찰청 마약범죄수사대는 서울 용산구 한남동에 위치한 유아인의 자택을 비롯한 주거지 2곳을 압수수색에 나섰다. 또한 경찰은 유아인에게 14일 소환 조사를 통보했다. 앞서 유아인은 지난 2021년 초부터 서울]]></content>
     </entry>
 </feed>
