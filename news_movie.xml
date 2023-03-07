@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-03-07T02:56:28.151Z</updated>
+    <updated>2023-03-07T03:26:40.854Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김다미·전소니·변우석, 14일 '소울메이트' 개봉 전야 무대 인사]]></title>
+        <id>https://v.daum.net/v/20230307120102580</id>
+        <link href="https://v.daum.net/v/20230307120102580"/>
+        <updated>2023-03-07T03:26:17.800Z</updated>
+        <content type="html"><![CDATA[[텐아시아=강민경 기자] 배우 김다미, 전소니, 변우석, 민용근 감독이 영화 '소울메이트' 개봉 전야 무대 인사를 통해 관객과 만난다. 7일 배급사 NEW에 따르면 김다미, 전소니, 변우석, 민용근 감독이 오는 14일 개봉 전야를 맞아 깜짝 무대인사에 나선다. 특별 이벤트로 진행되는 이번 무대인사에는 김다미, 전소니, 변우석, 민용근 감독까지 '소울메]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[송혜교가 완성할 복수..'더 글로리' 파트2가 선사할 카타르시스]]></title>
+        <id>https://v.daum.net/v/20230307115701418</id>
+        <link href="https://v.daum.net/v/20230307115701418"/>
+        <updated>2023-03-07T03:26:17.804Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 김나연 기자] 더 글로리 / 사진=넷플릭스'더 글로리' 파트2의 관전 포인트 9가지를 공개했다. 6일 넷플릭스 코리아는 공식 인스타그램 계정에 "이제 4일 남았어, 연진아"라며 "'더 글로리' 파트2 보기 전 기억해야 할 파트1의 떡밥들 다시 한번 체크해봐요. 재주행과 함께"라는 글과 함께 '더 글로리' 파트2의 기대포인트를 밝혔다. '더]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이나영 컴백작 ‘박하경 여행기’, 韓·日 동시 공개]]></title>
         <id>https://v.daum.net/v/20230307114202912</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230307095859135"/>
         <updated>2023-03-07T01:04:20.380Z</updated>
         <content type="html"><![CDATA[[스타뉴스 김미화 기자] /사진='아임 히어로 더 파이널' '아임 히어로 더 파이널'이 관객들의 호평과 극찬 속, 고척돔의 황홀함을 그대로 재현한 '영시봉 상영회' 앵콜 진행을 확정했다. 가수 임영웅의 전국 투어 앵콜 공연 'IM HERO'를 담은 영화 '아임 히어로 더 파이널'이 개봉 첫 주 13만 명을 동원했다. 지난 1일 개봉한 '아임 히어로 더]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[손석구 ‘댓글부대’ 촬영 돌입‥“좋은 작품 만들겠다”]]></title>
-        <id>https://v.daum.net/v/20230307095104777</id>
-        <link href="https://v.daum.net/v/20230307095104777"/>
-        <updated>2023-03-07T01:04:20.381Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 배효주 기자] 손석구가 영화 '댓글부대'로 스크린에 돌아온다. 3월 6일 크랭크인한 영화 '댓글부대'(가제, 감독 안국진)는 온라인 여론 조작에 대한 제보로 ‘댓글부대’의 존재를 알게 된 기자 ‘임상진’이 그들을 취재하는 과정에서 거대한 실체와 마주하며 벌어지는 범죄 드라마다. 손석구는 대기업의 횡포를 고발하는 기사를 쓰고 정직 당한 뒤 복직을]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘임영웅 영화’ 영시봉 상영회 앙코르, 영웅시대 성원 통했다]]></title>
-        <id>https://v.daum.net/v/20230307094031347</id>
-        <link href="https://v.daum.net/v/20230307094031347"/>
-        <updated>2023-03-07T01:04:20.383Z</updated>
-        <content type="html"><![CDATA[가수 임영웅의 전국 투어 앙코르 공연 ‘IM HERO(2022.12.10-11, 고척스카이돔)’를 담은 영화 ‘아임 히어로 더 파이널’이 개봉 첫 주 13만 명을 동원하며 호평을 이끌어냈다. 지난 1일 개봉된 ‘아임 히어로 더 파이널’은 개봉 전부터 폭발적인 팬덤의 관심과 함께 12만 장 이상의 사전 예매량을 기록했다. 개봉 첫날 박스오피스 4위를 차]]></content>
     </entry>
 </feed>
