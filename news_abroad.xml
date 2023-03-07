@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-03-07T06:15:57.064Z</updated>
+    <updated>2023-03-07T07:11:25.852Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“홍콩 시위=폭동” 견자단, 친중 발언에 결국 ‘오스카 시상자 철회’ 청원]]></title>
+        <id>https://v.daum.net/v/20230307160918836</id>
+        <link href="https://v.daum.net/v/20230307160918836"/>
+        <updated>2023-03-07T07:11:25.085Z</updated>
+        <content type="html"><![CDATA[[OSEN=임혜영 기자] 배우 견자단이 친중 발언으로 뭇매를 맞고 있다. 견자단은 최근 영국 매거진 GQ와의 인터뷰에서 자신이 ‘100% 중국인’이라고 설명하며 중국인이라는 사실이 자랑스럽다고 밝혔다. 견자단은 최근 미국 시민권을 포기한 바 있다. 당시 인터뷰에서 견자단은 중국의 발전에 놀라음을 표하며 “중국 밖에 있는 사람들은 대부분 이를 보지 못한다]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["홍콩 시위는 폭동" 견자단 '친중발언' 후폭풍…'오스카 시상자 철회' 청원 등장]]></title>
         <id>https://v.daum.net/v/20230307140945838</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230307025431505"/>
         <updated>2023-03-06T18:16:06.205Z</updated>
         <content type="html"><![CDATA[(로스앤젤레스=연합뉴스) 임미나 특파원 = 아시아계 배우들의 열연으로 주목받은 SF 영화 '에브리씽 에브리웨어 올 앳 원스'(이하 '에브리씽')가 할리우드 4대 조합 시상식을 전부 휩쓸었다. '에브리씽'은 지난 5일(현지시간) 미국작가조합(WGA)이 주최한 영화 시상식에서 핵심 부문인 오리지널 각본상을 받았다. 이 영화의 각본 집필과 연출을 모두 함께한 대]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[40대 싱글맘과 20대 청년의 사랑의 작대기...심지어 '모자 지간' 쇼였다]]></title>
-        <id>https://v.daum.net/v/20230307010726357</id>
-        <link href="https://v.daum.net/v/20230307010726357"/>
-        <updated>2023-03-06T16:17:04.931Z</updated>
-        <content type="html"><![CDATA[[TV리포트=이예은 기자] 미국에서 충격적인 리얼리티 쇼가 방영돼 논란이 일고 있다.&nbsp; 지난 1월 15일부터 미국 방송사 TLC에서 방영되고 있는 '밀프의 저택(MILF Manor)'은 40대에서 60대 사이 8명의 미혼 여성과 8명의 20대 미혼 청년이 멕시코 한 저택에 모여 아슬아슬하고 위태로운 사랑을 그려가는 리얼리티쇼다. 특히 모자지간이 함께 출연한]]></content>
     </entry>
 </feed>
