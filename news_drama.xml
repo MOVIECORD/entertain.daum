@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-03-07T20:13:50.273Z</updated>
+    <updated>2023-03-07T21:12:04.561Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['라스' 늦깎이 대학생 구혜선 "후배들과 어울리려 '이것' 연구"]]></title>
+        <id>https://v.daum.net/v/20230308055837956</id>
+        <link href="https://v.daum.net/v/20230308055837956"/>
+        <updated>2023-03-07T21:11:45.982Z</updated>
+        <content type="html"><![CDATA[배우 구혜선이 '라디오스타'에서 캠퍼스 생활에 대해 이야기한다. 8일 방송되는 MBC 예능프로그램 '라디오스타'(이하 '라스')는 구혜선, 정이랑, 이은지, 이광기가 출연하는 '변신강림' 특집으로 꾸며진다. '라스' 측에 따르면 구혜선은 최근 진행된 녹화에서 '늦깎이 대학생' 근황을 공개했다. 마흔의 나이에 대학교 4학년에 재학 중인 구혜선은 학과 교수들에]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[장동윤·설인아 입맞춤...'오아시스' 첫방부터 8.2% 기록]]></title>
         <id>https://v.daum.net/v/20230308020530209</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230307200349186"/>
         <updated>2023-03-07T11:11:28.000Z</updated>
         <content type="html"><![CDATA[(엑스포츠뉴스 이나영 인턴기자) '태풍의 신부' 강지섭이 손창민과 절연했다. 7일 방송된 KBS 2TV '태풍의 신부'에서는 아버지 강백산(손창민 분)과 절연하는 강태풍(강지섭)의 모습이 그려졌다.&nbsp; 은서연(전 강바람, 박하나)의 문자로 비자금 장부를 확보했다는 것을 알게 된 강태풍은 떠나려고 짐을 쌌다. 자신을 말리는 남인순(최수린)에 강태풍은 "나 이제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['마녀의게임' 오창석, 반효정 치매환자 몰아 요양원에 가뒀다]]></title>
-        <id>https://v.daum.net/v/20230307195107929</id>
-        <link href="https://v.daum.net/v/20230307195107929"/>
-        <updated>2023-03-07T11:11:28.017Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 이빛나리 기자] /사진='마녀의 게임' 방송화면'마녀의 게임'에서 오창석이 반효정을 요양원에 가뒀다. 7일 오후 방송된 MBC 일일드라마 '마녀의 게임'에서 강지호(오창석 분)는 자신이 천하그룹 손자가 아니라는 사실이 밝혀지자, 천하그룹 임원들에 마현덕(반효정 분)이 현재 알츠하이머에 걸렸다고 거짓말했다. 이날 천하그룹 회장을 맡고 있는 강]]></content>
     </entry>
 </feed>
