@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-03-07T13:23:44.272Z</updated>
+    <updated>2023-03-07T14:12:07.593Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['오아시스' 추영우, 장동윤♥설인아 사이 알고 배신감 폭발]]></title>
+        <id>https://v.daum.net/v/20230307223727954</id>
+        <link href="https://v.daum.net/v/20230307223727954"/>
+        <updated>2023-03-07T14:11:52.048Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 이지현 기자] /사진='오아시스' 방송 화면'오아시스'에서 추영우가 설인아에게 배신감을 느꼈다. 7일 방송된 KBS 2TV 월화드라마 '오아시스'에서는 최철웅(추영우 분)이 오정신(설인아 분)과 이두학(장동윤 분)이 사귀는 사실을 알게 돼 분노하는 장면이 그려졌다. 깡패들과 싸워 얼굴을 다친 최철웅에게 오정신이 "철웅아 약국이라도 가서 상처라]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['청춘월담' 박형식, 전소니에 숨긴 애틋한 속마음…'보고 싶었다']]></title>
         <id>https://v.daum.net/v/20230307221232802</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230307193559659"/>
         <updated>2023-03-07T11:11:28.025Z</updated>
         <content type="html"><![CDATA[[스타뉴스 이빛나리 기자] /사진='마녀의 게임' 방송화면'마녀의 게임'에서 천하그룹 회장을 맡고 있는 오창석이 살아남기 위해 반효정을 배신했다. 7일 오후 방송된 MBC 일일드라마 '마녀의 게임'에서 천하그룹 명예회장 마현덕(반효정 분)이 천하그룹 임원들이 모인 자리에서 강지호(오창석 분)는 자신의 손자가 아니라고 밝혔다. 이에 강지호는 임원들에 마현]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘청춘월담’ 표예진, 스승 이태선 ‘기 살리기’ 프로젝트 돌입]]></title>
-        <id>https://v.daum.net/v/20230307181436160</id>
-        <link href="https://v.daum.net/v/20230307181436160"/>
-        <updated>2023-03-07T10:14:03.044Z</updated>
-        <content type="html"><![CDATA[[OSEN=유수연 기자]&nbsp;제자 표예진이 스승 이태선의 기를 살려주기 위한 조치를 취한다. 오늘(7일)&nbsp;방송되는&nbsp;tvN&nbsp;월화드라마&nbsp;‘청춘월담’(극본 정현정/&nbsp;연출 이종재/&nbsp;기획 스튜디오드래곤/&nbsp;제작 글앤그림미디어) 10회에서는 스승 김명진(이태선 분)의 천적인 이조판서 댁 셋째 딸(장여빈 분)이 만연당에 출몰,&nbsp;매몰찬 독설을 퍼부으며 제자 장가람(표예진]]></content>
     </entry>
 </feed>
