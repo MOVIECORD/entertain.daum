@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/variety</id>
     <title>다음 연예 ─ 뉴스 ─ 예능</title>
-    <updated>2023-03-08T08:16:44.662Z</updated>
+    <updated>2023-03-08T09:14:19.690Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[애슐리, 10주년 맞은 레이디스코드…故권리세·고은비 완전체 회상]]></title>
+        <id>https://v.daum.net/v/20230308181102041</id>
+        <link href="https://v.daum.net/v/20230308181102041"/>
+        <updated>2023-03-08T09:14:09.532Z</updated>
+        <content type="html"><![CDATA[[텐아시아=차혜영 기자] 그룹 레이디스 코드 멤버 애슐리(최빛나)가 데뷔 10주년을 자축했다. 애슐리는 8일 "레이디스코드 10주년. 10년 동안 옆에서 함께 해준 멤버들 너무너무 고맙고 사랑해♥ 우리 평생 가자"라고 적었다. 함께 공개한 사진 속에는 애슐리가 레이디스 코드 멤버 이소정, 주니와 함께 다양한 포즈를 취하고 있는 모습이 담겼다. 이들은 큰]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[구혜선 '눈물 셀카' 해명.."원해서 찍은 것 아냐"]]></title>
+        <id>https://v.daum.net/v/20230308180228701</id>
+        <link href="https://v.daum.net/v/20230308180228701"/>
+        <updated>2023-03-08T09:14:09.533Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 윤성열 기자] /사진='라디오스타''라디오스타'에서 배우 구혜선이 '스키 로봇' 영상과 '눈물 셀카' 사진의 뒷이야기를 전한다. MBC 예능 프로그램 '라디오스타'(기획 강영선, 연출 이윤화) 측은 8일 방송을 앞두고 '구혜선에게 스키 로봇, 눈물 셀카를 묻다' 에피소드가 담긴 영상을 네이버 TV를 통해 선공개했다. 공개된 영상에서 구혜선]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이영자 "한혜진처럼 먹으라고? 차라리 지옥 갈래"]]></title>
         <id>https://v.daum.net/v/20230308170535458</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230308145727949"/>
         <updated>2023-03-08T06:16:24.131Z</updated>
         <content type="html"><![CDATA[[OSEN=임혜영 기자] 가수 신지민이 공백기를 가진 지 2년 만에 솔로로 돌아왔다. 8일 MBC FM4U '정오의 희망곡 김신영입니다’에는 가수 신지민이 출연했다. 이날 방송에서 최근 첫 EP 앨범 'BOXES(박시스)'를 발매하며 복귀한 신지민이 앨범 홍보에 열을 올렸으며 그간의 근황에 대해 전했다. 신지민은 쉬는 동안 살이 많이 올라 다이어트를 했]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘명동사랑방’ 양세찬 “이건 대형 사고” 멘붕→박하선도 “끝났네”]]></title>
-        <id>https://v.daum.net/v/20230308145109657</id>
-        <link href="https://v.daum.net/v/20230308145109657"/>
-        <updated>2023-03-08T06:16:24.132Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 김명미 기자] '명동사랑방' 양세찬이 멘붕에 빠졌다. 3월 9일 방송되는 ENA 예능프로그램 '명동사랑방' 6회에서는 2기 16인의 단체 미팅 현장이 공개된다. '명동사랑방'은 우정과 사랑 사이, 1박2일간 숨 가쁘게 펼쳐지는 커플 매칭을 그린 초대형 미팅 프로그램이다. MZ세대 버전'사랑의 스튜디오'라 불리며 매회 온라인을 뜨겁게 달구고 있다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[신지민 "2년 공백기? 멈춰 있지 않았다…과거 떠나보낼 것"]]></title>
-        <id>https://v.daum.net/v/20230308145008585</id>
-        <link href="https://v.daum.net/v/20230308145008585"/>
-        <updated>2023-03-08T06:16:24.133Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 장예솔 인턴기자) '정희' 그룹 AOA 출신 신지민이 솔로 앨범을 발매한 심경을 고백했다.&nbsp; 8일 방송된 MBC FM4U '정오의 희망곡 김신영입니다'(이하 '정희')에는 솔로 앨범 'BOXES'로 돌아온 가수 신지민이 출연했다.&nbsp; 이날 DJ 김신영은 "많은 분들이 '랩으로 나오지 않을까' 했는데 앨범 전체가 락이다"라며 앨범 소개를 부탁했다]]></content>
     </entry>
 </feed>

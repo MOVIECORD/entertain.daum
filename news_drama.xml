@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-03-08T08:16:44.667Z</updated>
+    <updated>2023-03-08T09:14:19.796Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["이렇게 잘했는데"…전도연의 자신감 그리고 자부심]]></title>
+        <id>https://v.daum.net/v/20230308175002068</id>
+        <link href="https://v.daum.net/v/20230308175002068"/>
+        <updated>2023-03-08T09:14:05.024Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 최희재 기자) "이렇게 잘했는데 또 들어오지 않겠어요?" 지난 5일 종영한 tvN 토일드라마 '일타 스캔들'은 입시지옥에 뒤늦게 입문한 국가대표 반찬가게 열혈 여사장과 대한민국 사교육 1번지에서 별이 된 일타강사의 달콤쌉싸름한 스캔들을 그린 드라마. 극중 전도연은 핸드볼 국가대표 출신, 반찬가게 사장 남행선 역을 맡아 열연했다. 오랜만에 '로]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[윤찬영X방민아, 드라이브 잘하다가 이게 무슨 일]]></title>
         <id>https://v.daum.net/v/20230308171127645</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230308130025933"/>
         <updated>2023-03-08T04:15:03.660Z</updated>
         <content type="html"><![CDATA[[뉴스엔 황혜진 기자] 배우 노정의, 이채민이 새 드라마 '하이라키' 출연을 검토 중이다. 노정의 소속사 나무엑터스 측은 3월 8일 뉴스엔에 "'하이라키'는 검토 중인 작품 중 하나"라고 밝혔다. 이채민 소속사 골드메달리스트 측은 뉴스엔에 "'하이라키' 출연을 긍정적으로 검토 중이다"고 말했다. '하이라키'는 스튜디오드래곤이 제작하는 신작이다. 넷플릭스를]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박하나, 르블랑서 손창민 무너뜨렸다 “죽을 때까지 감옥에”]]></title>
-        <id>https://v.daum.net/v/20230308122436453</id>
-        <link href="https://v.daum.net/v/20230308122436453"/>
-        <updated>2023-03-08T04:15:03.664Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 이슬기 기자] 박하나가 손창민을 르블랑 회장 자리에서 끌어내렸다. 3월 7일 방송된 KBS 2TV 일일드라마'태풍의 신부'(연출 박기현, 극본 송정림)에서는 은서연(박하나 분)이 강백산(손창민 분)을 회장 자리에서 끌어내렸다. 서연이 백산의 비자금 장부를 손에 넣은 후 강태풍(강지섭 분)과 윤산들(박윤재 분)은 마대근(차광수 분)으로부터 백산의]]></content>
     </entry>
 </feed>
