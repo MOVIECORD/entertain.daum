@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/variety</id>
     <title>다음 연예 ─ 뉴스 ─ 예능</title>
-    <updated>2023-03-08T19:11:25.191Z</updated>
+    <updated>2023-03-08T20:13:34.846Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[박미선 “내가 평생 그러고 살았잖아” 고딩아빠 행동에 분노]]></title>
+        <id>https://v.daum.net/v/20230309050828810</id>
+        <link href="https://v.daum.net/v/20230309050828810"/>
+        <updated>2023-03-08T20:13:22.926Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 임유리 기자] 박미선이 고딩아빠의 철없는 행동에 진심으로 분노했다. 8일 밤 방송된 종합편성채널 MBN ‘고딩엄빠3’에서는 아들 셋을 키우고 있는 고딩엄빠 송이와 지섭의 사연이 소개됐다. 이날 지섭은 술을 함께 마신 친구들을 모두 데리고 집으로 와 모두의 분노를 샀다. 사태 파악을 못하는 남편은 아내를 향해 “애들이랑 가볍게 먹을]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[영철 “영식한테는 영숙 양보할 수 있어” 영자로 노선 변경?]]></title>
         <id>https://v.daum.net/v/20230309014628619</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230309002615213"/>
         <updated>2023-03-08T16:16:48.931Z</updated>
         <content type="html"><![CDATA[[스타뉴스 이지현 기자] /사진='나는 솔로' 방송 화면 '나는 솔로' 13기 솔로남녀들이 랜덤 데이트를 했다. 8일 오후 방송된 SBS플러스, ENA 연애 리얼리티 프로그램 '나는 솔로' 13기 '개성 특집'에서는 역대급 랜덤 데이트가 펼쳐졌다. 이날 솔로 남녀들은 능력, 성격, 외모, 직업, 학벌, 집안 등 각자가 결혼에 있어 중요하게 생각하는 가치]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[최양락, 유재석과 함께한 개그 코너 회상 “코미디 정말 사랑했다”]]></title>
-        <id>https://v.daum.net/v/20230309002321186</id>
-        <link href="https://v.daum.net/v/20230309002321186"/>
-        <updated>2023-03-08T16:16:48.933Z</updated>
-        <content type="html"><![CDATA[최양락과 유재석이 과거 개그 코너를 함께했던 시절을 떠올렸다. 8일(수) 방송된 tvN ‘유 퀴즈 온 더 블럭’ 184화 ‘괜찮아유’ 특집에서는 엑셀 강사 박성희, 배드민턴 선수 안세영, 천 원 식당 사장 김윤경, 코미디언 최양락이 출연해 MC 유재석, 조세호와 토크 릴레이를 펼쳤다. 이날 ‘코미디의 황제’ 최양락이 자기님으로 출연해 화려한 개그 인생]]></content>
     </entry>
 </feed>
