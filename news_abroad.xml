@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-03-08T09:14:19.693Z</updated>
+    <updated>2023-03-08T10:14:30.343Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[64세 마돈나, 20대 아들뻘 복싱 코치와 열애 인정…뜨거운 키스 포착]]></title>
+        <id>https://v.daum.net/v/20230308184834225</id>
+        <link href="https://v.daum.net/v/20230308184834225"/>
+        <updated>2023-03-08T10:14:29.565Z</updated>
+        <content type="html"><![CDATA[[스포츠조선 정빛 기자] 팝스타 마돈나(64)와 35세 연하 복싱 코치 조쉬 포퍼(29)의 연애는 사실이었다. 7일 영국 데일리 메일 등 외신에 따르면, 마돈나는 조쉬 포퍼와의 교제 사실을 인정했다. 마돈나는 이날 자신의 개인 채널에 조쉬 포퍼와 키스하는 사진을 공개, 열애를 공식화했다. 사진 속 두 사람은 검은색 옷을 입고, 검은색 마스크]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[美 콘서트 도중 압사해 2명 사망...잘못 들은 총소리 때문]]></title>
         <id>https://v.daum.net/v/20230308181001999</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230308135625486"/>
         <updated>2023-03-08T05:12:19.329Z</updated>
         <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]‘마블의 수장’ 케빈 파이기가 제작하는 새로운 ‘스타워즈’ 시리즈가 취소됐다. 루카스필름은 ‘스타워즈’ 유니버스의 새판 짜기에 돌입했다. 버라이어티는 7일(현지시간) “마블 스튜디오의 수장 케빈 파이기가 제작할 가능성이 있는 ‘스타워즈’ 영화는 더 이상 루카스필름에서 개발되지 않고 있다”고 보도했다. 2019년 9월 파이기]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[獨 과학자들, 새 항균물질에 키아누 리브스 이름 따 명명]]></title>
-        <id>https://v.daum.net/v/20230308135133349</id>
-        <link href="https://v.daum.net/v/20230308135133349"/>
-        <updated>2023-03-08T05:12:19.330Z</updated>
-        <content type="html"><![CDATA[(로스앤젤레스=연합뉴스) 임미나 특파원 = 독일 과학자들이 새로 발견한 항균 물질에 할리우드 배우 키아누 리브스의 이름을 딴 명칭을 붙였다고 미 일간 워싱턴포스트(WP) 등이 7일(현지시간) 전했다. 보도에 따르면 독일 과학자들은 인간과 식물에 해로운 균을 죽이는 화합물을 새로 발견하고, 키아누 리브스의 영화 속 캐릭터들처럼 전투력이 강하다는 의미로 '키아]]></content>
     </entry>
 </feed>
