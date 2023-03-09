@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-03-09T05:12:04.045Z</updated>
+    <updated>2023-03-09T06:16:44.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[양자경, 아시아계 최초 '오스카 여주상' 앞두고 '취소' 위기]]></title>
+        <id>https://v.daum.net/v/20230309151227446</id>
+        <link href="https://v.daum.net/v/20230309151227446"/>
+        <updated>2023-03-09T06:16:43.276Z</updated>
+        <content type="html"><![CDATA[[TV리포트=이수연 기자] 백인 중심의 할리우드 시상식을 공개적으로 비난한 배우 양자경이 아카데미 규칙 위반 논란에 휩싸였다. 8일 제95회 아카데미 시상식(오스카)에서 아시아계 배우 최초로 여우주연상 후보에 오른 양자경은 자신의 소셜네트워크서비스를 통해 패션지 보그의 기사 일부분을 공유했다. 양자경이 공유한 기사에는 "오스카에서 비백인 여우주연상 수상자가]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘탑건:매버릭’ 레이디 가가, 오스카 시상식 무대서 노래하지 않는 이유]]></title>
+        <id>https://v.daum.net/v/20230309142428109</id>
+        <link href="https://v.daum.net/v/20230309142428109"/>
+        <updated>2023-03-09T06:16:43.278Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]영화 ‘탑건:매버릭’에서 ‘홀드 마이 핸드(Holy my hand)’를 불러 제95회 아카데미 시상식에서 주제가상 후보에 오른 레이디 가가(36)가 무대에 오르지 않을 예정이다. 아카데미 프로듀서 글렌 와이스는 8일(현지시간) “레이디 가가와 좋은 관계를 맺고 있지만, 지금 가가는 ‘조커2’를 촬영 중이다”라고 전했다. 이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“브래드 피트, 30살 보석상과 임신 계획” 전부인 제니퍼 애니스톤 고통]]></title>
         <id>https://v.daum.net/v/20230309133014913</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230309070327352"/>
         <updated>2023-03-08T22:12:47.370Z</updated>
         <content type="html"><![CDATA[[TV리포트=이수연 기자] '더 우먼 킹', '에브리씽 에브리웨어 올 앳 원스', '스크림' 등 여성 배우를 주연으로 한 작품이 박스오피스 1위를 차지하며 극찬을 받고 있으나 여전히 할리우드는 남성이 주인공으로 나오는 영화에 더 많은 기대를 건다. 최근 샌디에이고 주립 대학에서 발표한 '텔레비전 및 영화에서의 여성에 대한 보고서'에 따르면 2022년 북미]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[모자지간 연애 매칭...수위 높은 미션까지 경악]]></title>
-        <id>https://v.daum.net/v/20230309060130523</id>
-        <link href="https://v.daum.net/v/20230309060130523"/>
-        <updated>2023-03-08T21:12:00.137Z</updated>
-        <content type="html"><![CDATA[[TV리포트=이예은 기자] 엄마와 아들이 함께 출연하는 미국 연애 프로그램이 연일 화제다. 여기에 수위 높은 이야기를 나누며 민망한 수위의 미션까지 수행해 파장이 일고 있다. 미국 TLC '밀프의 저택'(MILF Manor)은 화제성과 더불어 납득하기 어려운 관계성과 선정성으로 주목을 받고 있다. '밀프의 저택'은 8명의 40~60대 미혼 여성과 8명의]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['존 윅' 키아누 리브스 이름 딴 새 항균물질 나왔다..獨 과학자들 명명]]></title>
-        <id>https://v.daum.net/v/20230309053026025</id>
-        <link href="https://v.daum.net/v/20230309053026025"/>
-        <updated>2023-03-08T21:12:00.139Z</updated>
-        <content type="html"><![CDATA[[OSEN=최나영 기자] 독일 과학자들이 새로 발견한 항균 물질에 배우 키아누 리브스의 이름을 딴 명칭을 붙여 화제다. 액션 영화 '존 윅'의 키아누 리브스는 과학자들이 새로운 곰팡이를 죽이는 항균물질의 이름을 짓는데 영감을 주었다고&nbsp;미국 워싱턴포스트(WP) 등이 7일(현지시간) 전했다.&nbsp; 보도에 따르면 독일 라이프니츠 천연물 연구 및 감염 생물학 연구]]></content>
     </entry>
 </feed>
