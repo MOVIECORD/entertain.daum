@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-03-09T11:11:30.177Z</updated>
+    <updated>2023-03-09T12:24:10.238Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['스즈메의 문단속' 여고생 스즈메, 빌런과 싸우는 빛나는 히어로]]></title>
+        <id>https://v.daum.net/v/20230309203928336</id>
+        <link href="https://v.daum.net/v/20230309203928336"/>
+        <updated>2023-03-09T12:23:51.009Z</updated>
+        <content type="html"><![CDATA[[OSEN=김보라 기자]&nbsp;여고생 스즈메(하라 나노카)는 기존의 규칙을 쉽게 수용하지 않는, 정의를 위한 기세 좋은 적극적인 마음이 있다. 아직은 어른들의 보호와 보살핌을 받아야 하는 청소년기 학생이지만 자신을 기꺼이 희생하고 공동체를 구하기 위해 용감하게 싸운다. 보는 이들의 마음을 단박에 사로잡은 소녀 스즈메의 내면엔 귀여운 외모보다 훨씬 더 화사하고]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['더 글로리' 차주영 "송혜교 배려심 多, 함께한 신 희열 느껴"]]></title>
         <id>https://v.daum.net/v/20230309200130796</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230309160101712"/>
         <updated>2023-03-09T07:11:48.400Z</updated>
         <content type="html"><![CDATA[[텐아시아=최지예 기자]배우 전종서의 첫 할리우드 진출작 영화 '모나리자와 블러드 문'(감독 애나 릴리 아미푸르)가 오는 3월 22일 국내 개봉한다.&nbsp; 이에 '모나리자와 블러드 문'은 오는 12일 시사회를 개최하며 홍보에 나선다. 그러나 이번 작품의 주연으로 나선 전종서의 간담회나 인터뷰 등은 진행되지 않을 전망이다. 이와 관련 수입 배급사 측과 전종서]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아카데미 후보 '이니셰린의 밴시', 韓 개봉 전 시사회 예고]]></title>
-        <id>https://v.daum.net/v/20230309160028688</id>
-        <link href="https://v.daum.net/v/20230309160028688"/>
-        <updated>2023-03-09T08:16:23.725Z</updated>
-        <content type="html"><![CDATA[[스포츠투데이 서지현 기자] '이니셰린의 밴시'를 개봉 전 만난다. 11일부터 12일 양일간 롯데시네마에서 영화 '이니셰린의 밴시' 프리미어 시사회 및 큐레이션을 진행한다. 프리미어 시사회는 이틀에 걸쳐 롯데시네마 월드타워, 광복, 동성로, 건대입구, 신림, 김포공항, 평촌, 수원 총 8곳에서 진행된다. 또한 11일 오후 4시 롯데시네마 건대입구에서는 김]]></content>
     </entry>
 </feed>
