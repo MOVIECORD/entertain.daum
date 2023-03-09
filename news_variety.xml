@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/variety</id>
     <title>다음 연예 ─ 뉴스 ─ 예능</title>
-    <updated>2023-03-09T18:15:47.950Z</updated>
+    <updated>2023-03-09T19:10:55.131Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[임성은 "제일 잘한 게 이혼…전남편에 돈 많이 주고 이혼도장 받아"]]></title>
+        <id>https://v.daum.net/v/20230310040229226</id>
+        <link href="https://v.daum.net/v/20230310040229226"/>
+        <updated>2023-03-09T19:10:45.508Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 양유진 기자] 혼성그룹 영턱스클럽 출신 임성은이 전남편의 과소비를 폭로했다. 9일 방송된 종합편성채널 MBN '특종세상'에서는 필리핀 보라카이에서 17년째 스파 리조트를 운영 중인 임성은의 근황이 공개됐다. 1996년 가요계에 발 들인 임성은은 1년 만에 팀에서 돌연 탈퇴한 뒤 보라카이로 떠났다. "많이 지쳤다. 우연찮게 놀러온 곳이 보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이게 머리카락이 아니라고? 지코도 빵 터진 기상천외한 모자 뭐길래!]]></title>
         <id>https://v.daum.net/v/20230310030620141</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230309235002187"/>
         <updated>2023-03-09T15:14:28.721Z</updated>
         <content type="html"><![CDATA[(엑스포츠뉴스 김현숙 인턴기자) '보이즈 플래닛' 윤종우가 팀 내 1등을 차지했다. 9일 방송된 Mnet '보이즈 플래닛' 5회에서는 살아남은 연습생들의 듀얼 포지션 배틀이 그려졌다.&nbsp; 연습생들은 각자 보컬&amp;랩, 보컬&amp;댄스, 랩&amp;댄스 분야 미션곡 중 하나를 선택해 무대에 오른다.&nbsp; 이날 무대에 오른 스타 마스터 이민혁은 "오늘 이 미]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박지현, 장윤정 칭찬에 울컥 “다음 시즌서 인기곡으로 소개될 듯”]]></title>
-        <id>https://v.daum.net/v/20230309234633168</id>
-        <link href="https://v.daum.net/v/20230309234633168"/>
-        <updated>2023-03-09T15:14:28.722Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 이하나 기자] 박지현이 장윤정의 평가에 울컥했다. 3월 9일 방송된 TV조선 ‘미스터트롯2-새로운 전설의 시작’에서는 TOP7 결정전이 펼쳐졌다. 7번 박지현은 황찬희, 최민지 작곡가의 ‘깜박이를 키고 오세요’를 선곡했다. 박지현은 “제 운명이 걸린 무대인 만큼 모든 걸 불태우고 다 쏟아 내버리고 오겠다”라고 각오를 밝힌 뒤 여유로운 무대 매]]></content>
     </entry>
 </feed>
