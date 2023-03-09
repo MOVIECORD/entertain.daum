@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-03-09T10:13:43.360Z</updated>
+    <updated>2023-03-09T11:11:30.179Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김유석·전혜연→서한결·정우연·진주형 ‘하늘의 인연’ 출연확정]]></title>
+        <id>https://v.daum.net/v/20230309191327937</id>
+        <link href="https://v.daum.net/v/20230309191327937"/>
+        <updated>2023-03-09T11:11:12.855Z</updated>
+        <content type="html"><![CDATA[[동아닷컴] 김유석, 전혜연, 서한결, 정우연, 진주형이 MBC 새 일일드라마 ‘하늘의 인연’(극본 여정미 연출 김진형)에 출연한다. 4월 첫 방송되는 ‘하늘의 인연’은 아버지의 그릇된 욕망이 만들어낸 비극으로 원수가 되어버린 부녀가 마침내 천륜의 사랑을 깨닫는 이야기다. 제작진에 따르면 김유석은 극 중 돈과 권력이 법보다 강하다고 믿는 탐욕의 화신 강치]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[장서희 복수극 '마녀의 게임', 3일 연속 결방...WBC 중계 여파]]></title>
         <id>https://v.daum.net/v/20230309184627539</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230309152827103"/>
         <updated>2023-03-09T07:11:53.604Z</updated>
         <content type="html"><![CDATA[[스타뉴스 이승훈 기자] 배우 김남주/사진제공=더퀸AMC배우 김남주가 5년 만에 안방극장으로 돌아온다. 9일 스타뉴스 단독 취재 결과, 김남주가 새 드라마 '원더풀 월드'(가제) 출연을 검토 중인 것으로 확인됐다. '원더풀 월드'는 억울하게 어린 아들을 잃은 여자 주인공이 법의 용서를 받은 가해자를 상대로 복수를 하며 상처를 치유해나가는 서스펜스 복]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['홍김동전' PD "언니쓰 민효린, 첫방 후 바로 연락…놀러오길" ③]]></title>
-        <id>https://v.daum.net/v/20230309151944752</id>
-        <link href="https://v.daum.net/v/20230309151944752"/>
-        <updated>2023-03-09T07:11:53.605Z</updated>
-        <content type="html"><![CDATA[[이데일리 스타in 이영훈 기자] KBS2 ‘홍김동전’ 박인석 PD 인터뷰[이데일리 스타in 김가영 기자] “언니쓰를 함께한 민효린 씨는 첫방송을 보고 바로 연락이 왔어요.” KBS2 ‘홍김동전’ 박인석 PD가 ‘언니들의 슬램덩크’를 함께한 민효린의 반응을 전했다. 최근 이데일리와 진행한 인터뷰에서 박 PD는 “민효린 씨에게 매일 놀러 오라고 한다”며 “]]></content>
     </entry>
 </feed>
