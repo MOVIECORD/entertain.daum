@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/variety</id>
     <title>다음 연예 ─ 뉴스 ─ 예능</title>
-    <updated>2023-03-09T16:16:49.865Z</updated>
+    <updated>2023-03-09T17:11:58.827Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[홍진경, '으리으리' 평창동 대저택 공개…♥사업가 남편·딸 사진 눈길]]></title>
+        <id>https://v.daum.net/v/20230310020105848</id>
+        <link href="https://v.daum.net/v/20230310020105848"/>
+        <updated>2023-03-09T17:11:48.176Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 양유진 기자] '홍김동전' 홍진경이 서울 종로구 평창동에 위치한 대저택을 공개했다. 9일 방송된 KBS 2TV '홍김동전'에서는 동전 던지기 앞면의 야생 '김숙 캠프', 뒷면의 기생 '홍진경 생가'가 펼쳐졌다. 지난해 '홍김동전'을 통해 3층 규모의 집을 소개해 뜨거운 화제를 모았던 홍진경은 술렁이는 분위기에 "지금 기분 좋은데 평창동]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[안성훈, 준결승전 압도적 1위 "꿈만 같아"...송민준·추혁진·송도현 탈락]]></title>
+        <id>https://v.daum.net/v/20230310012003739</id>
+        <link href="https://v.daum.net/v/20230310012003739"/>
+        <updated>2023-03-09T17:11:48.178Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 노수린 기자) 안성훈이 준결승전 1위에 올랐다. 9일 방송된 TV조선 '미스터트롯2-새로운 전설의 시작(이하 '미스터트롯2')'에서는 결승에 진출할 TOP7 참가자가 가려졌다. 준결승 신곡 미션을 통해 마스터 점수와 시청자 문자 투표를 합산한 결과 10명의 준결승 진출자들의 등수가 가려졌다. 1위는 안성훈, 2위는 박지현, 3위는 나상도, 4]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["안성훈 1위→송민준 탈락"..'미스터트롯2' TOP7 '문자투표' 희비 교차]]></title>
         <id>https://v.daum.net/v/20230310010627677</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230309233954128"/>
         <updated>2023-03-09T15:14:28.723Z</updated>
         <content type="html"><![CDATA[[뉴스엔 서유나 기자] 개그우먼 김혜선이 독일인 남편과의 러브스토리를 공개했다. 3월 9일 방송된 KBS 2TV 예능 '연중 플러스' 123회에서는 국제부부 스타들이 소개됐다. 이날 국제부부가 소개되는 가운데 김혜선, 그녀의 독일인 남편 스테판 지겔이 직접 출연해 그들의 러브스토리를 들려줬다. "2018년도 결혼해 햇수로 6년 차"라는 부부. 남편 스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[도경수=다나카상 변신..'수수행' 흑역사? 복불복 여행 시작]]></title>
-        <id>https://v.daum.net/v/20230309233627110</id>
-        <link href="https://v.daum.net/v/20230309233627110"/>
-        <updated>2023-03-09T15:14:28.724Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 한해선 기자] /사진=SBS '수학 없는 수학여행' 방송 캡처 그룹 엑소 멤버 도경수(디오)가 꾸러기, 다나카상으로 완벽 변신했다. 끝없는 복불복 게임으로 KBS 2TV '1박 2일' 향기가 나지만 '92즈' 멤버 조합이 또 다른 포인트에서 유쾌한 '수수행'이다. 9일 첫 방송된 SBS 예능프로그램 '수학 없는 수학여행'(이하 '수수행')에]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[조진웅 “나 지금 심쿵했어”… 권율 때문에 설렌 이유?]]></title>
-        <id>https://v.daum.net/v/20230309232830048</id>
-        <link href="https://v.daum.net/v/20230309232830048"/>
-        <updated>2023-03-09T15:14:28.725Z</updated>
-        <content type="html"><![CDATA[[마이데일리 = 임유리 기자] 조진웅이 스페인에 닭볶음탕 집이 있는 줄 알고 설레어했다. 9일 밤 방송된 케이블채널 tvN 예능 프로그램 ‘텐트 밖은 유럽 스페인 편’에서는 피레네 산맥 근처에서 하룻밤을 보낸 배우 조진웅, 최원영, 박명훈, 권율이 점심 식사를 할 식당을 찾아 나섰다. 이날 피레네 산맥 근처의 마을에서 점심을 먹기로 결정한 이들은 이]]></content>
     </entry>
 </feed>
