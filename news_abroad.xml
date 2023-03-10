@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-03-09T23:13:47.837Z</updated>
+    <updated>2023-03-10T01:01:38.847Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["젤렌스키, 아카데미 시상식 원격출연 제안했다 퇴짜"]]></title>
+        <id>https://v.daum.net/v/20230310090956924</id>
+        <link href="https://v.daum.net/v/20230310090956924"/>
+        <updated>2023-03-10T01:01:38.123Z</updated>
+        <content type="html"><![CDATA[(로스앤젤레스=연합뉴스) 임미나 특파원 = 볼로디미르 젤렌스키 우크라이나 대통령이 미 할리우드의 최대 축제로 꼽히는 아카데미상(오스카상) 시상식에 원격 출연을 요청했으나 2년째 거절당했다고 미 연예매체 버라이어티가 9일(현지시간) 보도했다. 이 매체는 젤렌스키 대통령이 할리우드 대형 에이전시인 WME의 유력 에이전트 마이크 심프슨을 통해 코미디 배우 출신인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['아바타 2', 전세계 3위지만 '탑건2'는 못 꺾어]]></title>
         <id>https://v.daum.net/v/20230310070600416</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230309153521447"/>
         <updated>2023-03-09T07:12:08.692Z</updated>
         <content type="html"><![CDATA[(서울=연합뉴스) 윤종석 기자 = 뮤지컬과 영화 '지붕위의 바이올린'으로 잘 알려진 이스라엘 배우 하임 토폴(예명 토폴)이 9일(현지시간) 텔아비브에서 별세했다. 향년 87세. 그는 최근 수년간 알츠하이머병을 앓았다. 더타임스 오브 이스라엘 등 현지 매체들과 AP·로이터 통신에 따르면 이츠하크 헤르초그 이스라엘 대통령은 "이스라엘의 가장 걸출한 배우 중 하]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[양자경, 아시아계 최초 '오스카 여주상' 앞두고 '취소' 위기]]></title>
-        <id>https://v.daum.net/v/20230309151227446</id>
-        <link href="https://v.daum.net/v/20230309151227446"/>
-        <updated>2023-03-09T06:16:43.276Z</updated>
-        <content type="html"><![CDATA[[TV리포트=이수연 기자] 백인 중심의 할리우드 시상식을 공개적으로 비난한 배우 양자경이 아카데미 규칙 위반 논란에 휩싸였다. 8일 제95회 아카데미 시상식(오스카)에서 아시아계 배우 최초로 여우주연상 후보에 오른 양자경은 자신의 소셜네트워크서비스를 통해 패션지 보그의 기사 일부분을 공유했다. 양자경이 공유한 기사에는 "오스카에서 비백인 여우주연상 수상자가]]></content>
     </entry>
 </feed>
