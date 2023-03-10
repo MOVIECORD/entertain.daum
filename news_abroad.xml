@@ -2,16 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-03-10T02:53:33.215Z</updated>
+    <updated>2023-03-10T03:23:30.095Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[샤론 스톤 "'원초적 본능' 찍었다고 아들 양육권 뺏겨"]]></title>
-        <id>https://v.daum.net/v/20230310114533882</id>
-        <link href="https://v.daum.net/v/20230310114533882"/>
-        <updated>2023-03-10T02:53:32.486Z</updated>
-        <content type="html"><![CDATA[(로스앤젤레스=연합뉴스) 임미나 특파원 = 영화 '원초적 본능'으로 유명한 할리우드 배우 샤론 스톤(65)이 이 영화를 찍은 탓에 전남편과의 소송에서 아들 양육권을 빼앗겼다고 토로했다. 9일(현지시간) 미 연예 매체 할리우드리포터 등에 따르면 스톤은 지난 6일 한 팟캐스트 인터뷰에서 이같이 주장하며 당시 재판을 맡았던 판사를 원망했다. 스톤은 "판사가 내]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[“아내 살해 혐의” 로버트 블레이크 심장병으로 사망, 향년 89세]]></title>
         <id>https://v.daum.net/v/20230310112230064</id>
@@ -109,5 +102,12 @@
         <link href="https://v.daum.net/v/20230309163849581"/>
         <updated>2023-03-09T08:16:47.819Z</updated>
         <content type="html"><![CDATA[[뉴스엔 배효주 기자] 할리우드 배우 브루스 윌리스가 치매 진단을 받았다는 소식이 전해진 가운데, 전처 데미 무어가 병간호를 위해 동거 중이라는 소문에 휩싸였다. 이에 대해 브루스 윌리스의 현처인 엠마 헤밍은 반박했다. 데일리 메일 등 다수의 해외 매체는 데미 무어(60)가 브루스 윌리스(67)의 간호를 위해 동거 중이라는 루머에 아내 엠마 헤밍(44)이]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[티모시 샬라메, ‘윌리 웡카’로 완벽 변신…12월 북미 개봉 예정]]></title>
+        <id>https://v.daum.net/v/20230309160712087</id>
+        <link href="https://v.daum.net/v/20230309160712087"/>
+        <updated>2023-03-10T03:23:29.450Z</updated>
+        <content type="html"><![CDATA[[OSEN=유수연 기자] 배우 티모시 샬라메가 윌리 웡카로 돌아온다. 지난 1일(현지시각) 남미 매체 ‘BOLAVIP’에 따르면, 티모시 샬라메가 등장하는 영화 ‘웡카’가 오는 12월 15일 북미 극장가에서 개봉될 예정이다. 다만, 국내 개봉일은 알려지지 않았다. ‘웡카’는 판타지 뮤지컬 장르로 영화 ‘찰리와 초콜릿 공장’(감독 팀 버튼 2005)의 주]]></content>
     </entry>
 </feed>
