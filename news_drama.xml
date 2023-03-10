@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-03-10T10:14:19.871Z</updated>
+    <updated>2023-03-10T11:10:53.908Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['더 글로리' 안길호 PD 학폭 의혹, 새 국면 맞나..폭로자 지인 등장]]></title>
+        <id>https://v.daum.net/v/20230310200945319</id>
+        <link href="https://v.daum.net/v/20230310200945319"/>
+        <updated>2023-03-10T11:10:36.210Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 안윤지 기자] 안길호 감독 /사진=이동훈 기자 photoguy@넷플릭스 오리지널 '더 글로리'를 연출한 안길호 PD의 학교 폭력(이하 학폭) 의혹이 새로운 국면을 맞았다. 최근 온라인 커뮤니티에는 '더 글로리 드라마 PD 학폭 가해자'란 글이 게재됐다. 해당 글 작성자 A씨는 "안길호 PD는 당시 필리핀 로컬 학교에 다니는 고3이었고 폭행당한]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[KBS "김도형 교수 언급 JMS 신도 PD·통역사, 현재 소속 아냐"]]></title>
         <id>https://v.daum.net/v/20230310190827115</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230310165427002"/>
         <updated>2023-03-10T08:16:02.636Z</updated>
         <content type="html"><![CDATA[‘나는 신이다’ 조성현 PD(사진=넷플릭스)[이데일리 스타in 김가영 기자] ‘나는 신이다’가 공개 이후 엄청난 파급력을 보여주고 있다. 사이비 종교 교주들에 대한 행보부터 신도들의 신상까지 관심을 모으며 방송 이후, 사회적으로 영향을 미치고 있다. 지난 3일 넷플릭스를 통해 공개된 ‘나는 신이다:신이 배신한 사람들’은 대한민국 현대사 속 ‘메시아’]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[전도연 "내가 웃는 게 이렇게 예뻤나? 밝은 역할, 주변서 더 좋아해"]]></title>
-        <id>https://v.daum.net/v/20230310164512771</id>
-        <link href="https://v.daum.net/v/20230310164512771"/>
-        <updated>2023-03-10T08:16:02.638Z</updated>
-        <content type="html"><![CDATA[[텐아시아=류예지 기자]배우 전도연이 스스로의 밝은 매력에 푹 빠졌다. 6일 서울 마포구 합정동의 한 카페에서 tvN '일타스캔들' 전도연과의 인터뷰가 진행됐다. 이날 전도연은 "17년 만에 로맨스를 하게 됐다. 내가 이렇게 웃는 게 예뻤는지 몰랐다"라고 말했다. 이어 "이번 작품은 나보다 주변 지인들이 더 좋아하더라. 그동안 대중이 기억하는 전도연은]]></content>
     </entry>
 </feed>
