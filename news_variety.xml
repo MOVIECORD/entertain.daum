@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/variety</id>
     <title>다음 연예 ─ 뉴스 ─ 예능</title>
-    <updated>2023-03-10T09:13:39.449Z</updated>
+    <updated>2023-03-10T10:14:19.863Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[제이홉, 부모님 반대에 부딪힌 사연 “공부 안하고 춤만 췄다”]]></title>
+        <id>https://v.daum.net/v/20230310185640865</id>
+        <link href="https://v.daum.net/v/20230310185640865"/>
+        <updated>2023-03-10T10:14:08.918Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 박수인 기자] '더 시즌즈-박재범의 드라이브'가 심야 음악 프로그램 최초 관객 토크를 진행한다. 3월 12일 방송되는 KBS 2TV 뮤직 토크쇼 '더 시즌즈-박재범의 드라이브'에는 가수 권진아, 구만, 방탄소년단의 제이홉이 출연한다. 방탄소년단 제이홉은 출연해 최근 발매한 싱글 'on the street(온 더 스트리트)(with J. Cole)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[전현무, 허리둘레 36.9인치 “이장우보다 0.1인치 얇다” 환호]]></title>
+        <id>https://v.daum.net/v/20230310185016716</id>
+        <link href="https://v.daum.net/v/20230310185016716"/>
+        <updated>2023-03-10T10:14:08.928Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 박수인 기자] 팜유 대장 전현무가 이장우보다 허리둘레가 0.1인치 얇게 측정되자 “내 배 홀쭉하네”라며 환호했다. 3월 10일 방송되는 MBC ‘나 혼자 산다’(연출 허항 강지희 박수빈)에서는 제1회 팜유 피지컬 심포지엄에 나선 전현무, 박나래, 이장우와 고향 여주 고모 댁을 찾은 기안84의 이야기가 그려진다. 선공개된 영상에는 대장 팜유 전현무]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[손나은 ‘복면가왕’ 깜짝 등장, 인연 있는 복면가수 힌트 제공]]></title>
         <id>https://v.daum.net/v/20230310180614877</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230310172931900"/>
         <updated>2023-03-10T09:13:28.085Z</updated>
         <content type="html"><![CDATA[(엑스포츠뉴스 최희재 기자) 배우 노윤서가 첫 예능으로 '런닝맨'에 출격한다. 오는 12일 방송되는 SBS ‘런닝맨’에서는 유재석과 지석진이 예능 일타 강사로 변신한다.&nbsp; 이날은 '32년 지기' 유재석과 지석진이 일타 강사로 변신해 특별한 예능 수업을 진행한다. 유재석은 교과서 같은 스타일의 ‘예능 정석러’로, 지석진은 순간의 끌림을 중요시하는 ‘본능 예능]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[노윤서, 졸업식 포기하고 '런닝맨' 출격…유재석 당황 시킨 일침]]></title>
-        <id>https://v.daum.net/v/20230310172829870</id>
-        <link href="https://v.daum.net/v/20230310172829870"/>
-        <updated>2023-03-10T09:13:28.088Z</updated>
-        <content type="html"><![CDATA[[마이데일리 = 오윤주 기자] 드라마 '일타 스캔들'에서 활약한 배우 노윤서가 SBS '런닝맨'에 출격한다. 오는 12일 방송되는 '런닝맨'에서는 유재석과 지석진이 예능 일타 강사로 변신한다. 이날은 32년 지기 예능 형제 유재석과 지석진이 일타 강사로 변신해 특별한 예능 수업을 진행한다. 유재석은 교과서 같은 스타일의 '예능 정석러'로, 지석진은 순간의]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이대 출신 노윤서, 첫 예능 ‘런닝맨’ 출연 위해 졸업식까지 포기]]></title>
-        <id>https://v.daum.net/v/20230310172534807</id>
-        <link href="https://v.daum.net/v/20230310172534807"/>
-        <updated>2023-03-10T09:13:28.092Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 박수인 기자] 배우 노윤서가 첫 예능에 출격한다. 3월 12일 방송되는 SBS ‘런닝맨’에서는 유재석과 지석진이 일타 강사로 변신해 특별한 예능 수업을 진행한다. 유재석은 교과서 같은 스타일의 ‘예능 정석러’로, 지석진은 순간의 끌림을 중요시하는 ‘본능 예능러’로 자신만의 예능학개론을 자랑하며 수강생 모집을 위해 치열한 신경전을 벌였다는 후문이다]]></content>
     </entry>
 </feed>
