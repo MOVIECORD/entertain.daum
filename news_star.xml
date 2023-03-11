@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2023-03-11T04:14:17.403Z</updated>
+    <updated>2023-03-11T05:11:06.043Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[선정성조차 납득시킨 '나는 신이다' 조성현 PD의 진심]]></title>
+        <id>https://v.daum.net/v/20230311135126798</id>
+        <link href="https://v.daum.net/v/20230311135126798"/>
+        <updated>2023-03-11T05:11:00.689Z</updated>
+        <content type="html"><![CDATA[[엔터미디어=정덕현의 네모난 세상] "정명석씨와 메이플의 녹취를 공개한 것에 대해 말이 많은 거로 알고 있다. 이 녹취를 두고 JMS 안에서는 'AI로 조작한 거다'라고 이야기하고 있다. 나체 장면 또한 모자이크된 상태로 여러 번 공개된 바 있는 영상이다. 이것에 대해선 '몸 파는 여자들이 돈을 받고 조작해서 저런 영상을 만들었다'라고 하더라. 있는 그대로]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TNX, 어디까지 올라가는 거예요?]]></title>
+        <id>https://v.daum.net/v/20230311131628562</id>
+        <link href="https://v.daum.net/v/20230311131628562"/>
+        <updated>2023-03-11T05:11:00.690Z</updated>
+        <content type="html"><![CDATA[[이달의 스타] 꼭 알면 좋을 것 같은, 혹은 알아야만 하는 스타를 조명하고 소개합니다. 데뷔 후 첫 컴백을 맞고 나날이 상승세를 보이는 이들이 있다. 그룹 TNX가 그 주인공이다. ‘싸이가 제작한 보이그룹’ 혹은 ‘피네이션 첫 번째 보이그룹’이라는 타이틀과 함께 가요계에 첫발을 내디딘 TNX. 이들은 첫 번째 미니앨범 ‘웨이 업’(WAY UP)으로]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2000평 스파 CEO→월매출 3억 카페 사장…임성은·이중성, 동남아에서 새 인생]]></title>
         <id>https://v.daum.net/v/20230311130901529</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230311113126740"/>
         <updated>2023-03-11T03:12:39.051Z</updated>
         <content type="html"><![CDATA[영화의 매력은 작품 안에서 이야기가 끝나지 않고 확장된다는 점 아닐까요. 좋은 영화 한 편이 촉발한 감상과 의미를 다른 분야의 예술과 접목해 풀어보고자 합니다. ‘환승연예’는 영화, 음악, 도서, 미술 등 대중예술의 여러 분야를 경계 없이 넘나들며 이야기하는 코너입니다. MBC가 만들고 넷플릭스에서 공개된 범죄 다큐멘터리 ‘나는 신이다:신이 배신한 사람]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["홍대서 밀려 정착한 이곳, 70대 노인도 공연 즐기러 와"]]></title>
-        <id>https://v.daum.net/v/20230311112732716</id>
-        <link href="https://v.daum.net/v/20230311112732716"/>
-        <updated>2023-03-11T03:12:39.051Z</updated>
-        <content type="html"><![CDATA[음악의 길을 택해 꾸준히 나아가는 이들을 만나러 갑니다. 몇몇 대형 기획사 중심의 글로벌 성과와는 별개로 자꾸만 좁아지고 획일화되는 것 같은 국내 음악 시장에서 노래, 연주, 혹은 프로듀싱과 유통 등으로 저변을 넓혀가는 이들을 응원합니다. 지속하는 이 음악인들의 속마음을 전하려 합니다. &lt;기자말&gt; [이선필, 이정민 기자] &nbsp;▲ 하이미스터메모리(박기혁)&nbsp;하이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[남창희, 높은 층고→'펜트하우스'급 집 공개..유재석 "이제 용돈 안줘야"]]></title>
-        <id>https://v.daum.net/v/20230311112727713</id>
-        <link href="https://v.daum.net/v/20230311112727713"/>
-        <updated>2023-03-11T03:12:39.052Z</updated>
-        <content type="html"><![CDATA[[OSEN=김나연 기자] '핑계고'에서 남창희의 집이 공개됐다. 11일 유튜브 채널 '뜬뜬'에는 "수란은 핑계고" 영상이 업로드 됐다. 이날 영상에서 유재석은&nbsp;남창희의 집을 찾았다. 등장부터 "수요없는 공급"이라고 말한 유재석은 남창희의 집 내부를 보더니 "어유 야 집이..야 너무 좋다.&nbsp;펜트하우슨데?"라며 감탄을 쏟아냈다. 남창희는 "저 이렇게 삽니다]]></content>
     </entry>
 </feed>
