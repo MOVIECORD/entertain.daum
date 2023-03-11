@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-03-11T21:09:55.659Z</updated>
+    <updated>2023-03-11T22:10:29.823Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김소은♥김승수, 나이차 극복 혼인신고···오희은은 경찰 신고]]></title>
+        <id>https://v.daum.net/v/20230312065317860</id>
+        <link href="https://v.daum.net/v/20230312065317860"/>
+        <updated>2023-03-11T22:10:13.650Z</updated>
+        <content type="html"><![CDATA[[OSEN=오세진 기자] ‘삼남매가 용감하게’ 김소은이 김승수와 혼인신고를 했다. 11일 방영한 KBS2 주말드라마 ‘삼남매가 용감하게’(극본 김인영, 연출 박만영, 제작 지앤지프로덕션)는 신지혜(김지안 분)이 신무영(김승수 분)에 대한 사랑을 깨닫는 과정, 그리고 김소림(김소은 분)이 용기를 내 신무영과 혼인신고를 했다고 밝히는 모습 등이 그려졌다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['판도라' 이상윤, 기억 잃은 ♥이지아에 로맨틱 키스 "과거 상관없어"]]></title>
         <id>https://v.daum.net/v/20230312060131430</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230312050706040"/>
         <updated>2023-03-11T20:11:21.205Z</updated>
         <content type="html"><![CDATA[[마이데일리 = 강다윤 기자] 15년 만에 기억을 찾은 홍태라(이지아)가 자신이 대통령 당선인 살인범임을 알게 됐다. 11일 방송된 케이블채널 토일드라마 tvN '판도라 : 조작된 낙원'(극본 현지민 연출 최영훈 크리에이터 김순옥)에서는 홍태라가 기억을 되찾는 모습이 그려졌다. 이날 표재현(이상윤)은 VR의료기기인 뇌 연동 스마트 패치 클로버를 선보였다]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['판도라' 이지아, 6kg 빼고 귀 찢어지고…킬러 액션 본격 시작]]></title>
-        <id>https://v.daum.net/v/20230312045523968</id>
-        <link href="https://v.daum.net/v/20230312045523968"/>
-        <updated>2023-03-11T20:11:21.207Z</updated>
-        <content type="html"><![CDATA[[OSEN=장우영 기자] ‘판도라:조작된 낙원’ 이지아가 본격적인 액션을 보여줄 것으로 기대를 모은다. 11일 첫 방송된 tvN 새 토일드라마 ‘판도라:조작된 낙원’(극본 현지민, 연출 최영훈)에서는 자신이 킬러 ‘50(오영)’이었다는 점을 사실을 기억해 낸 홍태라(이지아)의 모습이 그려졌다. 홍태라는 15년 전 사고로 기억을 잃었지만 언니 홍유라(한수]]></content>
     </entry>
 </feed>
