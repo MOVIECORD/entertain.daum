@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2023-03-11T20:11:37.389Z</updated>
+    <updated>2023-03-11T21:09:55.654Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[유재석, '대치동 이사설' 3번째 해명 "너무 황당해…내 이름 부르며 찾는다고"]]></title>
+        <id>https://v.daum.net/v/20230312060531512</id>
+        <link href="https://v.daum.net/v/20230312060531512"/>
+        <updated>2023-03-11T21:09:49.865Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 강다윤 기자] 코미디언 유재석이 '대치동 이사' 가짜뉴스 세 번째 해명에 나섰다. 11일 유튜브 채널 '뜬뜬 DdeunDdeun'에는 '수란은 핑계고'라는 제목의 영상이 게재됐다. 공개된 영상에서 유재석은 조세호, 이동욱이 남창희의 집을 찾아 이야기를 나눴다. 한참 이야기를 나누던 중 유재석은 "요즘 이 가짜뉴스가 상당히…"라며 운을 띄웠]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘일타 스캔들’ 전도연 “이런 로코 왜 못 만났나 싶었죠”]]></title>
+        <id>https://v.daum.net/v/20230312060301478</id>
+        <link href="https://v.daum.net/v/20230312060301478"/>
+        <updated>2023-03-11T21:09:49.866Z</updated>
+        <content type="html"><![CDATA[오랜만에 보는 모습이었다. 맑게 웃으며 씩씩하게 나아가는 평범한 여자. 무겁거나 냉혹한 드라마거나, 엄청난 사연을 숨긴 인물도 아니었다. tvN ‘일타 스캔들’ 남행선은 배우 전도연의 일상적인 얼굴이 도드라진 작품이다. 당차게 살아가는 남행선은 전도연에게도 잊고 있던 뭔가를 들춰냈다. 17년 만에 선보인 로맨틱 코미디 드라마(이하 로코). 전도연은 마음]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['살림남' 이천수, 건강 적신호→관리한다더니 술 약속]]></title>
         <id>https://v.daum.net/v/20230312051003050</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230312001526466"/>
         <updated>2023-03-11T16:15:12.608Z</updated>
         <content type="html"><![CDATA[[티브이데일리 황서연 기자] '모범택시2' 이제훈이 불길을 뚫고 탈출해 악인을 처단했다. 11일 밤 방송한 SBS 금토드라마 '모범택시 시즌2'(극본 오상호·연출 이단) 6회에서는 무지개 히어로즈가 강필승(김도윤)을 처단하고 아이들을 구하는 모습이 그려졌다. 이날 방송에서 무지개 히어로즈는 동생을 찾아 달라는 아이의 의뢰를 받고 조사를 시작했다. 이들은 악]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김새론, 카페엔 민폐·생활고 호소는 물거품 위기]]></title>
-        <id>https://v.daum.net/v/20230312000417437</id>
-        <link href="https://v.daum.net/v/20230312000417437"/>
-        <updated>2023-03-11T15:11:09.665Z</updated>
-        <content type="html"><![CDATA[[OSEN=장우영 기자] 배우 김새론이 ‘생활고’를 어필하며 동정 여론을 얻으려 했지만 이마저도 물거품이 될 위기다. 오히려 위생 논란이 불거지면서 또 다른 위기를 자초했고, 해당 프랜차이즈 카페 측에도 민폐를 끼쳤다. 음주운전으로 인한 피해 보상금으로 그동안 번 돈을 다 써서 생활고에 시달리고 있다는 김새론이 카페 아르바이트 중인 근황을 공개했다. 김]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['전참시' 유태오 "바텐더 시절, '영끌'로 ♥니키리에 명품백 선물"]]></title>
-        <id>https://v.daum.net/v/20230311235703362</id>
-        <link href="https://v.daum.net/v/20230311235703362"/>
-        <updated>2023-03-11T15:11:09.666Z</updated>
-        <content type="html"><![CDATA[[스포츠투데이 서지현 기자] '전지적 참견 시점' 유태오가 아내 니키리를 향한 애정을 드러냈다. 11일 밤 방송된 MBC '전지적 참견 시점'(이하 '전참시')에서는 배우 유태오와 서홍진 매니저, 배창현 매니저의 일상이 그려졌다. 이날 유태오는 "내가 결혼 초기에는 '잘 나가는 배우 유태오'가 아니라 '바텐더 유태오'랑 결혼한 거였다"고 아내 니키리와]]></content>
     </entry>
 </feed>
