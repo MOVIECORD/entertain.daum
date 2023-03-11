@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/variety</id>
     <title>다음 연예 ─ 뉴스 ─ 예능</title>
-    <updated>2023-03-11T19:09:43.439Z</updated>
+    <updated>2023-03-11T20:11:37.384Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[재하 "母 임주리 할부금 1000만 원 갚아줬다" 고백]]></title>
+        <id>https://v.daum.net/v/20230312050002975</id>
+        <link href="https://v.daum.net/v/20230312050002975"/>
+        <updated>2023-03-11T20:11:26.430Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 최희재 기자) 가수 재하가 임주리의 할부금을 갚아줬다고 전했다. 지난 11일 방송된 MBN '속풀이쇼 동치미'(이하 '동치미')에는 '아들은 엄마의 미래다?'라는 주제로 이야기를 나눴다. 이날 재하는 수입, 월급 관리를 어떻게 하고 있냐는 질문에 "저는 엄마한테 정확한 액수는 얘기 안 한다"고 답했다. 박수홍은 "얘기 안 하는 이유가 얘기하면]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[빽가 母 "시집살이에 빵 사다 식사 차려" 파격적 입담]]></title>
         <id>https://v.daum.net/v/20230312013530659</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230311235128348"/>
         <updated>2023-03-11T15:11:05.263Z</updated>
         <content type="html"><![CDATA[(엑스포츠뉴스 최희재 기자) 빽가 어머니 차희정이 아들과의 노후에 대해 전했다. 11일 방송된 MBN '속풀이쇼 동치미'(이하 '동치미')에서는 '아들은 엄마의 미래다?' 라는 주제로 이야기를 나눴다. 이날 선우은숙은 아들 이상원에 대해 "우리 아들이 연기하겠다고 하지 않았나. 사업하기 전에 배우한다고 미국에서 대학을 나오고 한국에 와서 대학을 또 들어갔다]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[유태오, ♥니키리 비교에 선 긋기…홍현희와 “많이 다르다” 단호]]></title>
-        <id>https://v.daum.net/v/20230311234926345</id>
-        <link href="https://v.daum.net/v/20230311234926345"/>
-        <updated>2023-03-11T15:11:05.265Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 이슬기 기자] '전참시' 유태오가 홍현희의 아내 니키리 언급에 "많이 다르다"고 선을 그었다. 3월11일 방송된 MBC ‘전지적 참견 시점’(이하 전참시)에서는 게스트로 유태오가 출연해 일상을 전했다. 이날 방송서 홍현희는 유태오의 방문을 환영했다. 그는 유태오의 과거 '전참시' 출연을 말하면서 "그때는 내가 스튜디오에 없었다. 너무 잘생기셨다"]]></content>
     </entry>
 </feed>
