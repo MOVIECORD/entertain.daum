@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-03-12T02:24:30.796Z</updated>
+    <updated>2023-03-12T03:13:55.094Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[진선규의 꺽이지 않는 마음…"주연과 조연 구분 짓고 싶지 않아"]]></title>
+        <id>https://v.daum.net/v/20230312115134623</id>
+        <link href="https://v.daum.net/v/20230312115134623"/>
+        <updated>2023-03-12T03:13:34.689Z</updated>
+        <content type="html"><![CDATA[배우 진선규는 2004년 연극 무대로 데뷔해 오랜 무명 시간을 견뎌 '범죄도시'로 눈도장을 찍은 후 영화 '극한직업', '승리호', 티빙 '몸값' 시리즈 등 많은 작품에 다채롭게 스며들었다. 그리고 '카운트'로 데뷔 후 처음으로 단독 주연 자리를 꿰찼다. '카운트'의 시헌이란 인물과 영화가 주는 메시지는 여러모로 진선규와 많이 닮아 있었다. '중요한 건 꺾]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[민용근 감독, ♥유다인 출산 예정·개봉 겹경사 "영화처럼 희로애락"]]></title>
         <id>https://v.daum.net/v/20230312105602658</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230311130004474"/>
         <updated>2023-03-11T04:13:55.537Z</updated>
         <content type="html"><![CDATA[이미 공개된 애니메이션을 스크린으로 옮겨놓았을 뿐인데, 사람들은 왜 극장으로 향할까. ‘귀멸의 칼날’ 찐팬(열성 팬)에게도 드는 생각이지만 영화를 한 번 보고 나면 모든 의문이 해결된다. 10일 영화진흥위원회 영화관입장권 통합전산망에 따르면 지난 2일 개봉한 일본 애니메이션 ‘귀멸의 칼날: 상현집결, 그리고 도공 마을로’(‘귀멸의 칼날’)는 누적 관객수]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["'나는 신이다' 아가 동산편 내려갈 수도, 꼭 봐달라"]]></title>
-        <id>https://v.daum.net/v/20230311124202414</id>
-        <link href="https://v.daum.net/v/20230311124202414"/>
-        <updated>2023-03-11T04:13:55.540Z</updated>
-        <content type="html"><![CDATA[[장혜령 기자] ▲ &nbsp;'나는 신이다: 신이 배신한 사람들' 조성현 PDⓒ 넷플릭스&nbsp; &nbsp; 지난 3월 10일 넷플릭스 오리지널 시리즈 &lt;나는 신이다: 신이 배신한 사람들&gt;을 만든 조성현 PD의 기자간담회가 서울의 한 호텔에서 열렸다. 연일 추가 폭로가 이어지는 가운데 날 선 질문이 한 시간 동안 오고 갔다. 이 글은 당시 나왔던 질문과 답변을 정리한 것이다.]]></content>
     </entry>
 </feed>
