@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2023-03-12T15:12:03.363Z</updated>
+    <updated>2023-03-12T16:14:06.615Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[제이홉 "군대 잘 다녀올게요"…'드라이브'에서 군입대 첫 언급]]></title>
+        <id>https://v.daum.net/v/20230313005126371</id>
+        <link href="https://v.daum.net/v/20230313005126371"/>
+        <updated>2023-03-12T16:14:00.521Z</updated>
+        <content type="html"><![CDATA[[스포츠조선닷컴 이지현 기자] 방탄소년단 제이홉이 입대 전 마지막 인사를 전했다. 12일 방송된 KBS2 음악 프로그램 '더 시즌즈 박재범의 드라이브'에서는 제이홉이 출연했다. 이날 관객석에 앉은 박재범은 "30년 동안 하면서 관객석에서 소개한 건 처음이다"라며 "당일까지 게스트가 비공개다. 이 분이 나온다고 했을 때 난리가 났다. 나와주실까]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘드라이브’ BTS 제이홉 “제이콜은 나의 뮤즈, 영상 편지로 진심 고백”]]></title>
         <id>https://v.daum.net/v/20230313001130196</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230312232230843"/>
         <updated>2023-03-12T15:11:57.706Z</updated>
         <content type="html"><![CDATA[[TV리포트=이지민 기자] 개그우먼 김민경, 박소영이 오나미의 신혼여행을 따라갔다. 12일 KBS2 예능프로그램 ‘걸어서 환장속으로’에서는 발리로 신혼여행을 떠난 오나미♥박민 부부의 모습이 전파를 탔다. 여행 다음날, 오나미와 박민 부부는 수중 조식을 먹기 시작했다. 음식을 먹여주는 박민을 보고 박나래는 “신생아가 따로 없다"라고 말해 웃음을 자아냈다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['걸환장' 오나미-박민, 발리 왕족 스타일로 현지서 두번째 결혼식..'비주얼 충격']]></title>
-        <id>https://v.daum.net/v/20230312231222787</id>
-        <link href="https://v.daum.net/v/20230312231222787"/>
-        <updated>2023-03-12T15:11:57.712Z</updated>
-        <content type="html"><![CDATA[오나미-박민 부부가 발리 왕족으로 변신한 깜짝 결혼식(?)으로 큰 웃음을 선사했다. 12일 방송된 KBS2 예능 프로그램 '걸어서 환장 속으로'에서는 발리로 신혼여행을 떠난 오나미, 박민 부부의 모습이 펼쳐졌다. 특히 결혼식을 제대로 즐기지 못한 아내를 위해 남편 박민은 물론 찐친 박소영, 김민경이 똘똘 뭉쳐 깜짝 이벤트를 해줘서 훈훈함을 안겼다.]]></content>
     </entry>
 </feed>
