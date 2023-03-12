@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/variety</id>
     <title>다음 연예 ─ 뉴스 ─ 예능</title>
-    <updated>2023-03-12T03:13:55.093Z</updated>
+    <updated>2023-03-12T04:14:06.792Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['금수저' 윤태영 "영구 맹구 다음 '왕초' 맨발"]]></title>
+        <id>https://v.daum.net/v/20230312130523794</id>
+        <link href="https://v.daum.net/v/20230312130523794"/>
+        <updated>2023-03-12T04:13:57.266Z</updated>
+        <content type="html"><![CDATA[[OSEN=박소영 기자] 3월&nbsp;10일(금)&nbsp;저녁&nbsp;8시&nbsp;20분&nbsp;tvN STORY에서 방영한&nbsp;‘운탄고도 마을호텔&nbsp;2’ 3화에서는 손님으로 윤태영이 방문해 허당끼부터 진솔함 가득한 모습까지 다양한 매력을 발산하며 폭소탄과 함께 감동까지 선사했다. 엄홍길 대장,&nbsp;박상원 촌장,&nbsp;오민석 실장이 운영하는 운탄고도 마을호텔의&nbsp;2일차 손님인 윤태영은 등장부터 예사롭지]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[장윤정, 한글 떼고 3년 선행학습까지? 딸 또래 교육에 식겁 "하영이 큰일"]]></title>
         <id>https://v.daum.net/v/20230312114126496</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230312103534342"/>
         <updated>2023-03-12T02:24:19.126Z</updated>
         <content type="html"><![CDATA[[뉴스엔 박아름 기자] 노윤서가 업그레이드 된 딸기 게임을 깜짝 공개한다. 3월 12일 방송되는 SBS 예능 ‘런닝맨’에서는 멤버들의 ‘MZ세대 따라잡기’가 펼쳐진다. 최근 진행된 녹화에는 배우 노윤서, 모델 주우재가 참여했다. 노윤서는 “요즘 게임 많이 한다”고 운을 띄웠고, 업그레이드 딸기 게임을 선보이며 멤버들을 리드했다. 이어 주우재도 리듬감과 순]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김민경, 최진혁과 사격하다 눈 맞나? 자세 잡아주다 묘한 분위기]]></title>
-        <id>https://v.daum.net/v/20230312102632170</id>
-        <link href="https://v.daum.net/v/20230312102632170"/>
-        <updated>2023-03-12T02:24:19.128Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 박아름 기자] 김민경과 그의 이상형 최진혁의 깜짝 팬미팅이 성사됐다. 3월 12일 방송되는 SBS 예능 ‘미운 우리 새끼’(이하 미우새)에서는 평소 최진혁이 이상형이라고 밝힌 김민경을 위해 깜짝 팬미팅 자리를 마련하는 김준호 김지민 커플의 모습이 공개된다. 이날 팬미팅 자리에서 김민경은 “최진혁을 만날 생각에 긴장돼 한숨도 못 잤다”며 얼굴을 붉]]></content>
     </entry>
 </feed>
