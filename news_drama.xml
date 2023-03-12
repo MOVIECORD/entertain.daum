@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-03-12T05:11:00.890Z</updated>
+    <updated>2023-03-12T06:14:18.120Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['일타' 이봉련 "전도연과 시밀러룩?..맞춘 건 아닌데 러블리+큐티"]]></title>
+        <id>https://v.daum.net/v/20230312151329435</id>
+        <link href="https://v.daum.net/v/20230312151329435"/>
+        <updated>2023-03-12T06:14:01.448Z</updated>
+        <content type="html"><![CDATA[[OSEN=박소영 기자] 최근 시청자들의 박수를 받으며 종영한 tvN ‘일타 스캔들’의 인기비결 중 하나는 버릴 것 하나 없는 캐릭터의 향연이었다. 남행선 역의 전도연과 최치열 역의 정경호, 두 사람의 메인 러브라인 뿐만 아니라 등장인물 모두가 각자의 서사로 자신의 이야기를 풀어간 덕분이다. ‘일타 스캔들’을 뒷받침 한 서브 러브라인도 그중 하나다. 남]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['꼭두의 계절' 임수향, 두려움→애절함 시청자心 붙잡은 열연]]></title>
+        <id>https://v.daum.net/v/20230312150526221</id>
+        <link href="https://v.daum.net/v/20230312150526221"/>
+        <updated>2023-03-12T06:14:01.449Z</updated>
+        <content type="html"><![CDATA[[OSEN=하수정 기자] 임수향이 전생을 떠올렸다.&nbsp; MBC 금토드라마 ‘꼭두의 계절’(극본 강이헌, 허준우/연출 백수찬, 김지훈)에서 임수향이 연인 김정현의 실체를 직면하는 모습이 펼쳐졌다. 애써 부정해온 것들이 모두 진실로 밝혀지며 충격에 휩싸인 상황. 설상가상으로 자신의 전생까지 떠올리게 되면서 비극적인 사랑에 가슴 앓이 하는 모습으로 안방에 깊은]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[표예진, 이제훈과 초고속 결혼부터 이혼까지..잉꼬부부 케미]]></title>
         <id>https://v.daum.net/v/20230312140726816</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230312115003609"/>
         <updated>2023-03-12T03:13:39.652Z</updated>
         <content type="html"><![CDATA[(엑스포츠뉴스 최희재 기자) 배우 장영남이 '일타 스캔들' 비하인드를 전했다. 장영남은 10일 서울시 강남구 신사동에 위치한 앤드마크 사옥에서 엑스포츠뉴스와 만나 tvN 토일드라마 '일타 스캔들' 종영 인터뷰를 나눴다. 지난 5일 종영한 '일타 스캔들'은 입시지옥에 뒤늦게 입문한 국가대표 반찬가게 열혈 사장 남행선(전도연 분)과 대한민국 사교육 1번지에서]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['더 글로리' 시즌2, 하루 만에 넷플릭스 월드 랭킹 3위]]></title>
-        <id>https://v.daum.net/v/20230312113002307</id>
-        <link href="https://v.daum.net/v/20230312113002307"/>
-        <updated>2023-03-12T03:13:39.654Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 이창규 기자) 넷플릭스 오리지널 시리즈 '더 글로리'(감독 안길호) 파트2가 공개 후 많은 화제를 모으고 있는 가운데, 세계적으로도 주목을 받고 있다. OTT 콘텐츠 순위 제공 웹사이트 플릭스패트롤(FlixPatrol)에 따르면 '더 글로리'는 지난 11일 기준 넷플릭스 오리지널 시리즈 순위에서&nbsp;'너의 모든 것'(You), 'MH370'에 이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박형식, 카메라 꺼졌을 때 뭐하나?..잔망 폭발 왕세자]]></title>
-        <id>https://v.daum.net/v/20230312112243201</id>
-        <link href="https://v.daum.net/v/20230312112243201"/>
-        <updated>2023-03-12T02:24:13.763Z</updated>
-        <content type="html"><![CDATA[[OSEN=하수정 기자] 조선에서 가장 당찬 청춘 박형식, 전소니, 표예진, 윤종석, 이태선의 휴식시간이 포착됐다. 매주 월, 화 저녁 8시 50분에 방송되는 tvN 월화드라마 ‘청춘월담’(극본 정현정/ 연출 이종재/ 기획 스튜디오드래곤/ 제작 글앤그림미디어)에서 박형식(이환 역), 전소니(민재이 역), 표예진(장가람 역), 윤종석(한성온 역), 이태선]]></content>
     </entry>
 </feed>
