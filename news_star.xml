@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2023-03-13T17:11:21.671Z</updated>
+    <updated>2023-03-13T18:14:34.955Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['일타' 노윤서 출연에 '런닝맨' 1위 탈환...대세는 다르네]]></title>
+        <id>https://v.daum.net/v/20230314030630778</id>
+        <link href="https://v.daum.net/v/20230314030630778"/>
+        <updated>2023-03-13T18:14:28.990Z</updated>
+        <content type="html"><![CDATA[[TV리포트=이수연 기자] '런닝맨'에 라이징스타 노윤서가 찾아왔다. 지난 12일 공개된 '런닝맨'은 2049 시청률 3.2%(이하 닐슨코리아 수도권, 가구 기준)를 기록하면서 동시간대 1위 탈환, 이날 방송된 드라마, 예능 등 프로그램 통틀어 '2049 TOP 3'에 포함됐다. 이날 방송은 '일타수(手)캔들' 레이스로 꾸며져 배우 노윤서, 모델 주우재가]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['동상이몽2' 허니제이, 힙스터 연하 남편에 "모델 출신의 끼돌이…웨이브 너무 잘해"]]></title>
+        <id>https://v.daum.net/v/20230314021500466</id>
+        <link href="https://v.daum.net/v/20230314021500466"/>
+        <updated>2023-03-13T18:14:28.990Z</updated>
+        <content type="html"><![CDATA[[SBS연예뉴스 | 김효정 에디터] 허니제이가 힙스터 남편을 공개했다. 13일 방송된 SBS '동상이몽 시즌2-너는 내 운명'(이하 '동상이몽2')에서는 댄서 허니제이가 스페셜 MC로 등장했다. 이날 방송에서 서장훈은 허니제이에게 "남편이 키가 180이 넘는 훈남에 패션업계 종사자인데 결혼식에서 홀리뱅과 춤을 준비해 모두를 놀라게 했다더라. 어떻게 된 거냐]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김세정, I.O.I 신년회 언급 “전소미 캠코더 보고 따라 샀다”]]></title>
         <id>https://v.daum.net/v/20230314005043158</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230313234917700"/>
         <updated>2023-03-13T15:12:23.136Z</updated>
         <content type="html"><![CDATA[[티브이데일리 이기은 기자] ‘동상이몽2’ 왕지원 박종석 부부, 시청자들을 제대로 홀렸다. 13일 밤 방송된 SBS 예능프로그램 ‘동상이몽2-너는 내 운명’에서는 배우 겸 발레리나 왕지원, 남편 발레리노 박종석 결혼 생활이 공개됐다. 두 사람은 발레 업계에서 알아주는 금슬 좋은 신혼 부부다. 같을 일을 하기에 누구보다 서로를 이해했고, 아름답고 고운 비주얼]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[10기 현숙♥영철, 재혼 임박했나 “2세 계획”]]></title>
-        <id>https://v.daum.net/v/20230313234606679</id>
-        <link href="https://v.daum.net/v/20230313234606679"/>
-        <updated>2023-03-13T15:12:23.140Z</updated>
-        <content type="html"><![CDATA[[티브이데일리 이기은 기자] '나는 SOLO'(나는 솔로) 10기 현숙, 영철 재혼이 임박한 모양새다. 현숙, 영철은 SBS plus 예능프로그램 '나는 솔로' 10기 돌싱 특집에서 만나 커플로 성사돼, 현재 연애를 이어가고 있다. 두 사람은 유튜브 채널 '최고여갱'을 통해 방송을 함께 하며, 연애 상황을 팬들에게 전격 공개하며 근황을 전한다. 이들은 최근]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['동상이몽2' 박종석 "♥왕지원 민낯+안경 낀 모습 너무 귀엽고 좋아" [TV캡처]]></title>
-        <id>https://v.daum.net/v/20230313234307663</id>
-        <link href="https://v.daum.net/v/20230313234307663"/>
-        <updated>2023-03-13T15:12:23.143Z</updated>
-        <content type="html"><![CDATA[[스포츠투데이 백지연 기자] '동상이몽 2' 발레리노 박종석이 아내 왕지원에 남다른 애정을 보였다. 13일 밤 방송된 SBS 예능프로그램 '동상이몽 2'에서 엘리트 발레 커플 왕지원, 박종석의 일상이 공개됐다. 이날 방송에서 박종석은 포스 넘치는 발레리노의 모습과 달리 왕지원 앞에서는 애교가 넘치는 모습이었다. 화려한 모습을 뒤로하고 두 사람 모두 잠]]></content>
     </entry>
 </feed>
