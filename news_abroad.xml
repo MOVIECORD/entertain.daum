@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-03-14T06:16:52.004Z</updated>
+    <updated>2023-03-14T07:13:07.865Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[오스카 여우주연상 양자경, “쿵푸로 유리천장 깼다”]]></title>
+        <id>https://v.daum.net/v/20230314160629182</id>
+        <link href="https://v.daum.net/v/20230314160629182"/>
+        <updated>2023-03-14T07:13:07.180Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]영화 ‘에브리씽 에브리웨어 올 앳 원스’로 아시아 배우 최초로 아카데미 여우주연상을 받은 양자경(60)이 수상 이후 외신기자들과 만나 자세한 소감을 전했다. 13일(현지시간) 연예매체 피플에 따르면, 양자경은 “이것은 역사적인 순간이며, 다양성과 진정한 대표성을 인정하고 포용해준 아카데미에 감사를 표하고 싶다”고 말했다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“호평 터졌다”, 키아누 리브스 ‘존윅4’ 로튼토마토 신선도 87% “극찬”]]></title>
+        <id>https://v.daum.net/v/20230314154117005</id>
+        <link href="https://v.daum.net/v/20230314154117005"/>
+        <updated>2023-03-14T07:13:07.183Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]키아누 리브스 주연의 액션영화 ‘존윅4’에 호평이 쏟아지고 있다. 14일 현재 세계적 영화비평 사이트 로튼토마토에서 ‘존윅4’의 신선도 지수는 87%를 기록 중이다. BBC는 “2시간 49분 동안 상영되는 이 영화는 더 좋거나 나쁘지 않고 모든 면에서 이전 영화보다 더 커졌다”고 극찬했다. 버라이어티는 “‘존윅4’는 클린]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['루푸스' 셀레나 고메즈 "뚱뚱하다 악플 신경안써? 실제론 눈 붓도록 울어"]]></title>
         <id>https://v.daum.net/v/20230314144527516</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230314010630246"/>
         <updated>2023-03-13T16:16:00.270Z</updated>
         <content type="html"><![CDATA[[TV리포트=이수연 기자] 오스카 시상식에서 20년 만에 비백인 여우주연상 수상자가 나왔다. 12일(현지 시간) 미국 로스앤젤레스 돌비극장에서 열린 '제95회 아카데미(오스카) 시상식'에서 배우 양자경(60)은 영화 '에브리씽 에브리웨어 올 앳 원스(Everything Everywhere All at Once)'로 여우주연상을 수상하는 영예를 안았다. 'C]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[휴 그랜트, 무례한 인터뷰 매너→최악의 레드카펫 비난]]></title>
-        <id>https://v.daum.net/v/20230313221730003</id>
-        <link href="https://v.daum.net/v/20230313221730003"/>
-        <updated>2023-03-13T13:21:36.648Z</updated>
-        <content type="html"><![CDATA[[TV리포트=이혜미 기자] 배우 휴 그랜트가 무례한 인터뷰 매너로 구설에 올랐다. 13일(현지시간) CNN은 “2023 오스카 레드카펫에서 가장 어색했던 상황은 그랜트에 의해 연출됐다. 그랜트가 TV진행자 애슐리 그레이엄과의 레드카펫 인터뷰에서 성의 없는 모습으로 시청자들을 화나게 했다”고 보도했다. 이날 ABC ‘Countdown to the Oscars]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“역경을 이겨낸 감동의 인간 드라마”, 역대 최고의 오스카 시상식]]></title>
-        <id>https://v.daum.net/v/20230313221034929</id>
-        <link href="https://v.daum.net/v/20230313221034929"/>
-        <updated>2023-03-13T13:21:36.652Z</updated>
-        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]역대급 감동의 드라마였다. 12일(현지시간) 미국 LA 돌비씨어터에서 열린 제95회 아카데미 시상식은 역경을 이겨낸 배우들에게 바치는 축제였다. 지난해 윌 스미스가 크리스 록을 폭행한 아픈 기억은 저 멀리 사라졌다. 이날 ‘에브리씽 에브리웨어 올 앳 원스’의 키 호이 콴(남우조연상), 양자경(여우주연상), ‘더 웨일’의 브]]></content>
     </entry>
 </feed>
