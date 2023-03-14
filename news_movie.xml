@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-03-14T20:15:58.428Z</updated>
+    <updated>2023-03-14T21:11:04.338Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[MCU 대적할 DCEU의 미래, ‘샤잠! 신들의 분노’]]></title>
+        <id>https://v.daum.net/v/20230315060216363</id>
+        <link href="https://v.daum.net/v/20230315060216363"/>
+        <updated>2023-03-14T21:10:45.365Z</updated>
+        <content type="html"><![CDATA[변화는 대개 급작스럽기 마련이다. 하루아침에 신의 힘을 얻어 슈퍼히어로 샤잠(제커리 리바이)이 된 빌리(애셔 앤젤) 역시 그렇다. 그는 위탁가정에 함께 속한 친구들과 초능력을 나눠 가질 정도로 그들을 아낀다. 아픈 가족사를 가진 그에게 이 가정은 너무도 소중하다. 언제나 “모두 함께”를 강조하는 그에게 피할 수 없는 순간이 찾아온다. 예언서 속 여신들이]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘샤잠!-신들의 분노’ 앞으로 어쩔거니…]]></title>
+        <id>https://v.daum.net/v/20230315060102271</id>
+        <link href="https://v.daum.net/v/20230315060102271"/>
+        <updated>2023-03-14T21:10:45.366Z</updated>
+        <content type="html"><![CDATA[마블스튜디오가 ‘어벤져스’로 슈퍼 히어로 영화의 문법을 새롭게 바꾼 지 11년. 약속이나 한 듯 세계적인 슈퍼 히어로물의 명가 마블스튜디오와 DC스튜디오의 현재 상황은 혼란스럽다. ‘어벤져스:엔드게임’으로 기록적인 흥행을 기록한 마블은 이후 후속작에서 먼저 간 아이언맨(로버트 다우니 주니어)과 캡틴 아메리카(크리스 에반스)의 공백을 제대로 메우지 못하]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[공포영화 '곰돌이 푸: 피와 꿀', 4월 개봉...살인광 '푸' 모습은?]]></title>
         <id>https://v.daum.net/v/20230315050327660</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230314175302311"/>
         <updated>2023-03-14T09:13:29.418Z</updated>
         <content type="html"><![CDATA[박성웅→이이경·최민수, 탄탄한 연기력+끈끈한 팀워크...22일 개봉 [더팩트｜박지윤 기자] 박성광이 '웅남이'와 함께 개그맨이 아닌 영화감독으로서 대중들과 만날 준비를 마쳤다. 영화 '웅남이'(감독 박성광) 언론 시사회 및 기자간담회가 14일 오후 서울 CGV용산아이파크몰에서 열렸다. 현장에는 박성광 감독을 비롯해 배우 박성웅 이이경 최민수가 참석해 질]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['감독 데뷔' 박성광 "원래 꿈...제자리 찾아간 것"]]></title>
-        <id>https://v.daum.net/v/20230314175011182</id>
-        <link href="https://v.daum.net/v/20230314175011182"/>
-        <updated>2023-03-14T09:13:29.419Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 김유진 기자) 박성광이 상업 영화 감독으로 데뷔한 소감을 전했다. 14일 오후 서울 용산구 CGV용산아이파크몰에서 영화 '웅남이'(감독 박성광) 언론시사회가 진행됐다. 이 자리에는 박성광 감독과 배우 박성웅, 이이경, 최민수가 참석했다. '웅남이'는 '웅남이'는 반달곰이라는 특별한 비밀을 가진 사나이가 특유의 짐승 같은 능력으로 국제 범죄 조]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘웅남이’ 최민수 “이젠 몸이 옛날같지 않아...액션신에 박성웅 친형도 등장”]]></title>
-        <id>https://v.daum.net/v/20230314173343528</id>
-        <link href="https://v.daum.net/v/20230314173343528"/>
-        <updated>2023-03-14T09:13:29.421Z</updated>
-        <content type="html"><![CDATA[배우 최민수가 영화 ‘웅남이’ 액션 비하인드 스토리를 밝혔다. 14일 최민수 배우는 서울 용산구 CGV 용산아이파크몰에서 열린 ‘웅남이’ 기자간담회에서 “박성광 감독이 현장에서 키가 제일 작았는데 ‘웅남이’를 연출하며 주저함이나 망설임 없이 훌륭히 해냈다고 생각한다”고 밝혔다. &nbsp; 최민수는 “(함께 한 제작진이) 만나서 대중 앞에 작품을 선보일 때 부끄]]></content>
     </entry>
 </feed>
