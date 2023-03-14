@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-03-14T10:14:33.405Z</updated>
+    <updated>2023-03-14T11:12:00.142Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[디카프리오, '진짜 사랑' 찾았나...'재결합' 지지 하디드와 밤새 함께]]></title>
+        <id>https://v.daum.net/v/20230314191933901</id>
+        <link href="https://v.daum.net/v/20230314191933901"/>
+        <updated>2023-03-14T11:11:59.468Z</updated>
+        <content type="html"><![CDATA[[TV리포트=이수연 기자] '20대 모델 킬러'라 불리는 할리우드 배우 레오나르도 디카프리오가 '진짜' 사랑을 찾을 수 있을까. 13일(현지 시간) 영국 매체 데일리 메일에 따르면 디카프리오와 하디드는 지난 10일 진행된 오스카 식전 파티에서 함께 시간을 보낸데 이어 12일 베니티 페어 오스카 파티도 같이 참석했다. 두 사람은 함께 비욘세 무대를 관람한 것]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[윌 스미스, '출석 금지' 오스카 갈 일 생겼다]]></title>
         <id>https://v.daum.net/v/20230314180300738</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230314113827004"/>
         <updated>2023-03-14T03:13:20.879Z</updated>
         <content type="html"><![CDATA[[OSEN=지민경 기자] 미국 애리조나 주의 글렌데일의 이름이 팝가수 테일러 스위프트의 이름을 딴 ‘스위프트 시티(Swift City)’로 바뀐다. 지난 13일(현지 시간) 미국 매체 빌보드 보도에 따르면 미국 애리조나 주의 글렌데일 시장은 이번 주말에 열리는 테일러 스위프트의 콘서트 투어 ‘The Eras Tour’의 시작을 기념해 공식적으로 도시 이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[무대 중 의식 잃은 ’28세’ 유명 래퍼, 결국 사망…현장 영상 ‘일파만파’]]></title>
-        <id>https://v.daum.net/v/20230314091431661</id>
-        <link href="https://v.daum.net/v/20230314091431661"/>
-        <updated>2023-03-14T10:14:32.778Z</updated>
-        <content type="html"><![CDATA[[OSEN=유수연 기자]&nbsp;남아프리카공화국 출신 유명 래퍼 코스타 티치(본명 콘스탄티노스 소바노글루)가 공연 중&nbsp;무대에 쓰러져 끝내 사망하는 사건이 발생했다. 12일(현지 시각) 영국 BBC 뉴스 등 외신은 코스타 티치가 향년 28세의 나이로 사망했다고 보도했다. 앞서 코스타 티치는 지난 11일 요하네스버그에서 열린 한 콘서트에서 공연을 하던 도중 중심을]]></content>
     </entry>
 </feed>
