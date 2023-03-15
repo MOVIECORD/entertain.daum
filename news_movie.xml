@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-03-15T03:12:55.611Z</updated>
+    <updated>2023-03-15T04:14:26.479Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['독전2' 주인공 된 오승훈..송강호x변요한 '삼식이 삼촌' 전격 합류]]></title>
+        <id>https://v.daum.net/v/20230315124518711</id>
+        <link href="https://v.daum.net/v/20230315124518711"/>
+        <updated>2023-03-15T04:14:05.657Z</updated>
+        <content type="html"><![CDATA[[OSEN=박소영 기자] 배우 오승훈이 새 드라마 시리즈&nbsp;'삼식이 삼촌'에 출연 소식을 전해 이목을 사로잡고 있다. 오승훈의 소속사 저스트엔터테인먼트는&nbsp;15일 공식 보도자료를 통해&nbsp;“오승훈이&nbsp;'삼식이 삼촌'을 통해 새로운 연기 변신을 선보일 예정이니 많은 기대를 부탁드린다”고 전했다. '삼식이 삼촌'은&nbsp;1960년대 초 격동기를 살아낸 삼식이 삼촌 송강호]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[톰 크루즈, 오스카 불참은 니콜 키드먼 아닌 조롱 때문?…이유 있는 루머]]></title>
         <id>https://v.daum.net/v/20230315120308979</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230315094711396"/>
         <updated>2023-03-15T02:13:35.656Z</updated>
         <content type="html"><![CDATA[(엑스포츠뉴스 김유진 기자) 영화 '리바운드'(감독 장항준)가 오는 4월 5일로 개봉을 확정 짓고 메인 포스터와 메인 예고편을 공개했다. '리바운드'는 2012년 전국 고교농구대회, 아무도 주목하지 않았던 최약체 농구부의 신임 코치와 6명의 선수가 쉼 없이 달려간 8일간의 기적 같은 이야기를 그린 영화다.&nbsp; '리바운드'는 2012년 대한농구협회장기 전국 중]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[영화관산업협회, '리바운드'→'드림' 4월 韓 작품 개봉 지원 사격]]></title>
-        <id>https://v.daum.net/v/20230315093837966</id>
-        <link href="https://v.daum.net/v/20230315093837966"/>
-        <updated>2023-03-15T00:58:05.689Z</updated>
-        <content type="html"><![CDATA[[이데일리 스타in 김보영 기자] 한국영화관산업협회(협회장 김진선)가 멀티플렉스 3사(CGV, 롯데시네마, 메가박스)와 함께 한국영화산업 활성화를 위해 4월 개봉하는 한국영화들을 지원 사격한다. 한국영화관산업협회와 멀티플렉스 3사(CGV, 메가박스, 롯데시네마)는 최근 배급사들과 협의해 4월 개봉하는 국내 영화 ‘리바운드’, ‘킬링로맨스’, ‘드림’ 세]]></content>
     </entry>
 </feed>
