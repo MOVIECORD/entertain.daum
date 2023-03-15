@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-03-15T10:13:11.383Z</updated>
+    <updated>2023-03-15T11:10:31.547Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[美 유명 배우, '아카데미' 대중교통 타고 가..."환경 보호 위해"]]></title>
+        <id>https://v.daum.net/v/20230315194427764</id>
+        <link href="https://v.daum.net/v/20230315194427764"/>
+        <updated>2023-03-15T11:10:30.924Z</updated>
+        <content type="html"><![CDATA[[TV리포트=이예은 기자] 제95회 미국 아카데미 시상식에 버스와 지하철을 타고 등장한 부녀가 있다.&nbsp; 바로 배우 에드 베글리 주니어와 그의 딸 헤이든 카슨 베글리이다.&nbsp;이들은 다른 유명인들처럼 기사가 운전해 주는 차를 타거나, 우버를 부르거나, 직접 운전을 하는 대신 대부분의 시민들이 출근하는 것처럼 대중교통을 이용했다.&nbsp; 1978년 이후로 배우 활동을]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[기네스 팰트로, 자식 덜 먹게하는 "아몬드 엄마" 비난 쇄도..왜?]]></title>
         <id>https://v.daum.net/v/20230315173926934</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230315113200752"/>
         <updated>2023-03-15T03:12:54.903Z</updated>
         <content type="html"><![CDATA[[TV리포트=박설이 기자]배우 판빙빙의 친동생이자 가수 겸 배우인 판청청이 루머에 불편한 심기를 드러냈다. 판청청은 14일 자신의 소셜 미디어 계정에 "입 닥치지?"라는 메시지로 심경을 드러냈다. 이와 함께 근접 셀카를 올렸다. 루머는 13일 중국 온라인에서 시작됐다. 미혼인 1982년생 배우 자링에가 아이가 있으며, 아이의 친부가 판청청이라는 루머였다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[쿠엔틴 타란티노, 마지막 연출작 확정…70년대 女평론가 일대기]]></title>
-        <id>https://v.daum.net/v/20230315105125627</id>
-        <link href="https://v.daum.net/v/20230315105125627"/>
-        <updated>2023-03-15T02:13:58.782Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 이창규 기자) 쿠엔틴 타란티노 감독의 마지막 연출작이 정해졌다. 14일(현지시간) 미국 할리우드 리포터(THR)는 쿠엔틴 타란티노가 현재 '영화 평론가'(The Movie Critic)라는 가제를 가진 각본을 완성한 상태로, 오는 가을 촬영을 진행할 예정이라고 단독보도했다. 자세한 내용은 알려지지 않았으나, 이 작품은 1970년대 미국 캘리포]]></content>
     </entry>
 </feed>
