@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-03-16T13:21:46.422Z</updated>
+    <updated>2023-03-16T14:12:28.341Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['성스러운 아이돌' 김민규, ♥고보결 향한 사랑 자각]]></title>
+        <id>https://v.daum.net/v/20230316225202775</id>
+        <link href="https://v.daum.net/v/20230316225202775"/>
+        <updated>2023-03-16T14:12:10.686Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 이이진 기자) '성스러운 아이돌' 김민규가 고보결을 향한 사랑을 깨달았다. 16일 방송된 tvN 수목드라마 '성스러운 아이돌' 10회에서는 램브러리(김민규 분)가 김달(고보결)을 향한 마음을 자각한 모습이 그려졌다. 이날 램브러리는 마왕이 한 말을 떠올렸다. 앞서 마왕은 "네가 리즐 리를 살렸잖아. 네가 좋아하는 여자애 흑마법도 풀어주고. 네]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["임지연→박성훈 학폭 검증"..'더 글로리' 가짜뉴스와 진실]]></title>
         <id>https://v.daum.net/v/20230316220526301</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230316173732428"/>
         <updated>2023-03-16T09:12:37.012Z</updated>
         <content type="html"><![CDATA[[OSEN=연휘선 기자] 배우 김선호가 '해시의 신루'에 출연하지 않는다.&nbsp; 16일 소속사 솔트엔터테인먼트 관계자는 OSEN에 "김선호 배우의&nbsp;'해시의 신루' 출연을 논의 했었으나, 출연하지 않기로 제작사와 합의했다"라고 공식입장을 표명했다.&nbsp; '해시의 신루'는 세종대왕 시절 별을 사랑한 천재 과학자 왕세자 이향과 미래를 보는 신비한 여인 해루의 이야기]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김선호, 방송 복귀는 아직? '해시의 신루' 불발→'망내인' 논의]]></title>
-        <id>https://v.daum.net/v/20230316173600353</id>
-        <link href="https://v.daum.net/v/20230316173600353"/>
-        <updated>2023-03-16T09:12:37.012Z</updated>
-        <content type="html"><![CDATA[[스포츠조선 문지연 기자] 배우 김선호의 방송 복귀는 다시 미뤄질 전망이다. 전 여자친구와의 사생활 논란 이후 방송 복귀작으로 드라마 '해시의 신루'를 택하는 듯 보였던 김선호의 출연이 최종적으로 불발됐다. 16일 김선호의 소속사인 솔트엔터테인먼트는 스포츠조선에 "출연을 논의하던 중 최종적으로 출연하지 않기로 결정됐다"고 밝혔다. 이에 따라]]></content>
     </entry>
 </feed>
