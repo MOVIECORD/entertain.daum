@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-03-16T02:15:03.205Z</updated>
+    <updated>2023-03-16T03:13:09.263Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[위기의 DC, 마블 감독 모셔와...'가오갤' 감독이 '슈퍼맨' 찍는다]]></title>
+        <id>https://v.daum.net/v/20230316113627903</id>
+        <link href="https://v.daum.net/v/20230316113627903"/>
+        <updated>2023-03-16T03:13:08.549Z</updated>
+        <content type="html"><![CDATA[[TV리포트=유비취 기자] 마블 '가디언즈 오브 갤럭시' 시리즈의 감독 제임스 건이 DC '슈퍼맨'의 메가폰을 잡는다. 15일(현지 시간) 미국 할리우드 리포터는 제임스 건 감독이 '슈퍼맨: 레거시'의 연출을 맡았다고 보도했다. 이는 제임스 건이 지난해 11월 DC 스튜디오의 공동 대표로 역임하면서 맡게 되는 첫 연출작이다. '슈퍼맨: 레거시'는 DC 스튜]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['워너원 출신' 옹성우, 4월 17일 현역 입대.."국방의 의무 수행"]]></title>
+        <id>https://v.daum.net/v/20230316112207228</id>
+        <link href="https://v.daum.net/v/20230316112207228"/>
+        <updated>2023-03-16T03:13:08.549Z</updated>
+        <content type="html"><![CDATA[[스포츠조선 문지연 기자] 워너원 출신 배우 옹성우가 군입대한다. 옹성우의 소속사 판타지오는 16일 "옹성우가 4월 17일 훈련소에서 기초군사훈련을 받은 뒤 육군 현역으로 국방의 의무를 이행할 예정"이라며 "신병교육대 입소식은 비공개로 별도의 공식 행사는 진행하지 않을 예정이니 양해 부탁드리며, 입대 당일 현장의 혼잡을 최소화하기 위해 방문을]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“1만원 아르간 오일로 진한 화장 빨리 지워”, 레이디 가가 비법 공개]]></title>
         <id>https://v.daum.net/v/20230316104740544</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230315210726684"/>
         <updated>2023-03-15T12:22:32.469Z</updated>
         <content type="html"><![CDATA[[TV리포트=이예은 기자] 희대의 SF 명작, 영화 '블레이드 러너'의 후속편이 아마존 프라임 비디오 오리지널 콘텐츠로 제작된다.&nbsp; 14일(현지 시간) 외신 매체 데드라인에 따르면,&nbsp;지난 2011년 드라마 시리즈 '블레이드 러너 2099'의 제작사인 알콘 엔터테인먼트(이하 '알콘 엔터')는 원작 영화 '블레이드 러너'(1993) 속편을 제작할 수 있는 저작]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美 유명 배우, '아카데미' 대중교통 타고 가..."환경 보호 위해"]]></title>
-        <id>https://v.daum.net/v/20230315194427764</id>
-        <link href="https://v.daum.net/v/20230315194427764"/>
-        <updated>2023-03-15T11:10:30.924Z</updated>
-        <content type="html"><![CDATA[[TV리포트=이예은 기자] 제95회 미국 아카데미 시상식에 버스와 지하철을 타고 등장한 부녀가 있다.&nbsp; 바로 배우 에드 베글리 주니어와 그의 딸 헤이든 카슨 베글리이다.&nbsp;이들은 다른 유명인들처럼 기사가 운전해 주는 차를 타거나, 우버를 부르거나, 직접 운전을 하는 대신 대부분의 시민들이 출근하는 것처럼 대중교통을 이용했다.&nbsp; 1978년 이후로 배우 활동을]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[기네스 팰트로, 자식 덜 먹게하는 "아몬드 엄마" 비난 쇄도..왜?]]></title>
-        <id>https://v.daum.net/v/20230315173926934</id>
-        <link href="https://v.daum.net/v/20230315173926934"/>
-        <updated>2023-03-15T09:12:57.665Z</updated>
-        <content type="html"><![CDATA[[OSEN=최나영 기자] '구설수 여왕' 배우 기네스 팰트로가 이번에는 '아몬드 엄마'라는 뭇매를 맞고 있다. 팰트로는 최근 팟캐스트 인터뷰 이후 다이어트, 적게먹는 식습관 등을 중요시하고 아이들에게도 강요하는 신조어인&nbsp;'아몬드 엄마(almond&nbsp;mom)'라는 비난에 직면한 것. 그는 최근 팟캐스트 '잘 지내는 기술'에 출연해 자신의 일상적인 건강 습관]]></content>
     </entry>
 </feed>
