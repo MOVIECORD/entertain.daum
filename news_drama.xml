@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-03-16T14:12:28.341Z</updated>
+    <updated>2023-03-16T15:13:11.509Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['성스러운 아이돌' 김민규, 고보결에 "널 좋아하지 않아"]]></title>
+        <id>https://v.daum.net/v/20230316233456102</id>
+        <link href="https://v.daum.net/v/20230316233456102"/>
+        <updated>2023-03-16T15:12:56.456Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 이이진 기자) '성스러운 아이돌' 김민규가 고보결에게 거리를 뒀다. 16일 방송된 tvN 수목드라마 '성스러운 아이돌' 10회에서는 사감재(박상남 분)가 램브러리(김민규)의 신성력을 되찾기 위해 김달(고보결)을 죽여야 한다고 주장하는 모습이 그려졌다. 이날 김달은 스폰서 논란에 휩싸인 램브러리를 돕겠다고 나섰고, 램브러리는 "왜 이렇게까지 나]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['성스러운 아이돌' 김민규, ♥고보결 향한 사랑 자각]]></title>
         <id>https://v.daum.net/v/20230316225202775</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230316174150592"/>
         <updated>2023-03-16T09:12:37.012Z</updated>
         <content type="html"><![CDATA[[OSEN=하수정 기자] 디즈니+의 오리지널 시리즈 ‘카지노’ 시즌2 최민식이 갈 데까지 갔다. 모든 사건의 끝장을 보려는 그의 폭주는 더욱 큰 위기를 자초했다. 돌아갈 수 없는 강을 건넌 그의 마지막 이야기에 대한 기대와 궁금증이 절정으로 치달았다. 지난 15일 공개된 ‘카지노’(연출/각본 강윤성, 제작 아크미디어, 씨제스엔터테인먼트, BA엔터테인먼트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김선호 측 "'해시의 신루' 논의 끝에 출연하지 않기로"]]></title>
-        <id>https://v.daum.net/v/20230316173732428</id>
-        <link href="https://v.daum.net/v/20230316173732428"/>
-        <updated>2023-03-16T09:12:37.012Z</updated>
-        <content type="html"><![CDATA[[OSEN=연휘선 기자] 배우 김선호가 '해시의 신루'에 출연하지 않는다.&nbsp; 16일 소속사 솔트엔터테인먼트 관계자는 OSEN에 "김선호 배우의&nbsp;'해시의 신루' 출연을 논의 했었으나, 출연하지 않기로 제작사와 합의했다"라고 공식입장을 표명했다.&nbsp; '해시의 신루'는 세종대왕 시절 별을 사랑한 천재 과학자 왕세자 이향과 미래를 보는 신비한 여인 해루의 이야기]]></content>
     </entry>
 </feed>
