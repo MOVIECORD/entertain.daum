@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-03-16T05:11:41.824Z</updated>
+    <updated>2023-03-16T06:15:25.043Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[기네스 팰트로, 몸에 '독성가스' 주입한다며 건강비결 공개...비판 ↑]]></title>
+        <id>https://v.daum.net/v/20230316143627039</id>
+        <link href="https://v.daum.net/v/20230316143627039"/>
+        <updated>2023-03-16T06:15:24.383Z</updated>
+        <content type="html"><![CDATA[[TV리포트=이수연 기자] 할리우드 배우 기네스 팰트로가 또 구설수에 올랐다. 최근 기네스 팰트로는 팟 캐스트 'The Art of Being Well'에 출연해 다소 이상한 자신만의 건강 비결에 대해 공개했다. "꽤 이상하지만 매우 도움이 됐다"고 말문을 연 그는 '오존 요법(ozone therapy)'에 대해 말했다. '오존 요법'은 질병이나 상처를 치]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[기네스 팰트로, 이번엔 이상한 건강법 구설수 "직장에 오존요법"]]></title>
         <id>https://v.daum.net/v/20230316140630800</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230316101326097"/>
         <updated>2023-03-16T02:15:02.530Z</updated>
         <content type="html"><![CDATA[[TV리포트=유비취 기자] 거장 쿠엔틴 타란티노가 약속한 은퇴작이 제작된다. 14일(현지 시간) 미국 할리우드 리포터는 할리우드 거장 쿠엔틴 타란티노(59)가 새로운 영화 작업에 착수했다고 보도했다. 쿠엔틴 타란티노의 새 영화 가제는 'The Movie Critic'이다. 관계자에 따르면 'The Movie Critic'는 쿠엔틴 타란티노가 각본과 연출을]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['해리포터' 조앤 롤링 "트랜스젠더 비하 발언 후회 안해"]]></title>
-        <id>https://v.daum.net/v/20230316100726778</id>
-        <link href="https://v.daum.net/v/20230316100726778"/>
-        <updated>2023-03-16T02:15:02.532Z</updated>
-        <content type="html"><![CDATA[[TV리포트=이예은 기자] 소설 '해리포터'의 작가 조앤 롤링이 과거 성소수자 혐오 발언 논란에 대해 입을 열었다.&nbsp; 14일(현지 시간) 공개된 애플 팟캐스트 'The Witch Trials of J.K. Rowling'에서 조앤 롤링은 2019년 성소수자 혐오 발언으로 논란이 된 트위터 글에 대해 언급했다.&nbsp; 2019년 롤링은 자신의 트위터에 트랜스젠더]]></content>
     </entry>
 </feed>
