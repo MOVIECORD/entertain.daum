@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-03-16T20:13:16.956Z</updated>
+    <updated>2023-03-16T21:10:51.573Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“기존 멜로·로코와 다르지 않아”…BL물 ‘비의도적 연애담’ 힐링 예고]]></title>
+        <id>https://v.daum.net/v/20230317060016857</id>
+        <link href="https://v.daum.net/v/20230317060016857"/>
+        <updated>2023-03-16T21:10:34.946Z</updated>
+        <content type="html"><![CDATA[티빙 BL물 ‘비의도적 연애담’ 배우들과 제작진이 작품에 대해 성별을 떠난 ‘사랑 이야기’라고 강조했다. B1A4 멤버이자 배우 공찬은 “앞서 화제가 됐던 ’시멘틱 에러’, 영화 ‘콜 미 바이 유어 네임’ 등 유명한 BL 작품들도 봤는데 ‘비의도적 연애담’을 포함해 이들 모두 우리가 알고 있는 멜로 장르와 다르지 않다”고 말했다.&nbsp; 16일 서울 서대문구]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['은퇴언급' 김혜수 떠나면 韓영화 어쩌나.."외롭고 힘들었다"]]></title>
         <id>https://v.daum.net/v/20230317050217958</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230316183622207"/>
         <updated>2023-03-16T10:14:13.396Z</updated>
         <content type="html"><![CDATA[[OSEN=장우영 기자] ‘더 글로리’가 3일째 글로벌 1위를 이어가고 있는 가운데 뜻하지 않은 오해로 곤혹스러운 상황에 놓인 이들도 있다. 바둑 자문으로 참여한 배우 윤세아의 어머니와 차주영의 대역으로 출연한 모델 이도연이다. ‘더 글로리’ 송혜교의 차가운 복수가 글로벌을 강타했다. ‘더 글로리’ 파트2는 단 3일 만에 넷플릭스 글로벌 TOP 10 T]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[하지원·지창욱도 못 받았다! KBS 드라마 4편 재방송료 10억원 미지급…방실협 "그야말로 갑질"]]></title>
-        <id>https://v.daum.net/v/20230316181201529</id>
-        <link href="https://v.daum.net/v/20230316181201529"/>
-        <updated>2023-03-16T10:14:13.397Z</updated>
-        <content type="html"><![CDATA[KBS2 드라마 ‘커튼콜’ 포스터. 제공|KBS          KBS2 드라마 ‘당신이 소원을 말하면’ 포스터. 제공|KBS [스포츠서울 | 조은별기자]공영방송 KBS가 외주제작사로부터 방영권만 구입한 드라마 재방송료를 지급하지 않으면서 한국방송실연자권리협회(이하 방실협)와 갈등을 빚고 있다. ‘재방송료’는 본방송 외 드라마가 재방송될]]></content>
     </entry>
 </feed>
