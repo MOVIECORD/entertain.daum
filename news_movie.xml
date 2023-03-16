@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-03-16T19:09:58.838Z</updated>
+    <updated>2023-03-16T20:13:16.945Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“연극 그대로를 스크린에 담아낸 최초의 영화”]]></title>
+        <id>https://v.daum.net/v/20230317050232983</id>
+        <link href="https://v.daum.net/v/20230317050232983"/>
+        <updated>2023-03-16T20:12:54.269Z</updated>
+        <content type="html"><![CDATA[감정 노동의 착취를 다루며 화제를 모았던 연극 ‘불멸의 여자’를 원작으로 한 영화 &lt;불멸의 여자&gt;가 오는 4월 5일 개봉을 앞둔 가운데, 3월 21일 연극 출신의 영화 배우들이 함께 하는 스페셜 시사회를 전격 개최한다. 끊임없는 서비스 착취로 노동자의 삶과 자본의 폭압적 구조를 폭로한 연극 ‘불멸의 여자’를 원작으로 한 영화 &lt;불멸의 여자&gt;가 “연극 그대]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['던전 앤 드래곤: 도적들의 명예' 다채로운 크리처, 귀엽지만 무서워]]></title>
+        <id>https://v.daum.net/v/20230317050029813</id>
+        <link href="https://v.daum.net/v/20230317050029813"/>
+        <updated>2023-03-16T20:12:54.275Z</updated>
+        <content type="html"><![CDATA[[OSEN=김보라 기자] 액션 어드벤처 블록버스터 '던전 앤 드래곤: 도적들의 명예'가 가지 작가와의 협업물을 공개했다. '던전 앤 드래곤: 도적들의 명예'(감독 조나단 골드스타인・존 프란시스 데일리, 수입배급 롯데엔터테인먼트)는 이유는 다르지만 하나의 목표로 모인 에드긴과 팀원들이 각자의 특별한 능력을 발휘하며 고군분투하는 유쾌한 모험을 그린 롤플레잉]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[장항준·안재홍 '리바운드', 메인 예고편 공개..."우리는 누구보다 빛났다"]]></title>
         <id>https://v.daum.net/v/20230317030630371</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230316161845893"/>
         <updated>2023-03-16T08:15:27.663Z</updated>
         <content type="html"><![CDATA[[서울경제] 로맨스 영화가 극장가에서 보이지 않는다. 영화 ‘접속’, ‘8월의 크리스마스’, ‘클래식’ 등 로맨스 영화가 한국 영화의 한 축을 이루던 시대는 분명 있었다. 반면 ‘환승연애’, ‘체인지 데이즈’, ‘나는 솔로’ 등 지난해부터 이어진 연애 예능 대세론은 여전히 건재하다. 연애 예능의 원조 격이라고 할 수 있는 채널A ‘하트시그널’은 최근 시]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['던전 앤 드래곤' 크리처 백과사전..지금껏 본 적 없는 녀석들]]></title>
-        <id>https://v.daum.net/v/20230316161328630</id>
-        <link href="https://v.daum.net/v/20230316161328630"/>
-        <updated>2023-03-16T08:15:27.666Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 김미화 기자] /사진='던전 앤 드래곤' 십장생도 '던전 앤 드래곤 : 도적들의 명예'가 지금껏 본 적 없는 독특하고 다채로운 크리처를 공개했다. '던전 앤 드래곤: 도적들의 명예'는 이유는 다르지만 하나의 목표로 모인 '에드긴'과 팀원들이 각자의 특별한 능력을 발휘하며 고군분투하는 유쾌한 모험을 그린 롤플레잉 액션 어드벤처 무비다. 로튼 토]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['스즈메의 문단속', 일본 애니 흥행 릴레이 완벽 바통터치]]></title>
-        <id>https://v.daum.net/v/20230316160608245</id>
-        <link href="https://v.daum.net/v/20230316160608245"/>
-        <updated>2023-03-16T07:11:46.867Z</updated>
-        <content type="html"><![CDATA[[티브이데일리 최하나 기자] ‘스즈메의 문단속’이 ‘더 퍼스트 슬램덩크’에서 ‘귀멸의 칼날: 상현집결, 그리고 도공마을로’로 이어졌던 일본 애니메이션 흥행 바통을 완벽하게 이어받았다. 국내 개봉 애니메이션 흥행 1위를 갈아치운 영화 ‘더 퍼스트 슬램덩크’와 ‘귀멸의 칼날: 상현집결, 그리고 도공마을로’가 이끌고 있던 일본 애니메이션 열풍이 영화 ‘스즈메의]]></content>
     </entry>
 </feed>
