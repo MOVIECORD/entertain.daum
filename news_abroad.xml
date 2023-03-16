@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-03-16T09:12:53.085Z</updated>
+    <updated>2023-03-16T10:14:32.943Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['켄달 제너 열애설' 배드 버니 "아리아나 그란데 너무 좋아"]]></title>
+        <id>https://v.daum.net/v/20230316182630910</id>
+        <link href="https://v.daum.net/v/20230316182630910"/>
+        <updated>2023-03-16T10:14:32.055Z</updated>
+        <content type="html"><![CDATA[[TV리포트=이수연 기자] 켄달 제너의 새 남자친구라고 추측되는 래퍼 배드 버니가 아리아나 그란데의 '찐 팬'임을 고백했다. 15일 The Late Late Show에 출연한 배드 버니는 진행자 제임스 코든과 차를 타며 토크를 진행하는 코너, 'Carpool Karaoke' 시간을 가졌다. 이날 배드 버니(본명 베니토 안토니오 마르티네스 오카시오)는 자신이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[美 타임지, SBS 양자경 소감 편집 비판..."한국의 반페미니즘 때문"]]></title>
         <id>https://v.daum.net/v/20230316174500702</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230316140437724"/>
         <updated>2023-03-16T05:11:41.096Z</updated>
         <content type="html"><![CDATA[[TV리포트=유비취 기자] 레이디 가가는 민낯으로 있을 때 더 빛나는 가수였다. 지난 12일(현지 시간) 제95회 아카데미 시상식(이하 '오스카')에 참여한 가수 겸 배우 레이디 가가는 '오스카' 무대에 민낯으로 올라 이목을 끌었다. '탑건: 매버릭'의 수록곡 'Hold My Hand'를 부른 레이디 가가는 '오스카' 주제가상의 후보로 올랐다. 그는 화려한]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘디카프리오♥’ 지지 하디드 “난 금수저 맞아, 보톡스 맞을 수도 있어”]]></title>
-        <id>https://v.daum.net/v/20230316135728402</id>
-        <link href="https://v.daum.net/v/20230316135728402"/>
-        <updated>2023-03-16T05:11:41.096Z</updated>
-        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]할리우드 스타 레오나르도 디카프리오(48)와 재결합설에 휘말린 미국 모델 지지 하디드(27)가 자신이 금수저라고 인정했다. 그는 억만장자 부동산 개발업자 모하메드 하디드와 TV스타 욜란다 하디드 부부의 딸이다 하디드는 최근 타임스 오브 런던과의 인터뷰에서 "엄밀히 말하면 나는 네포티즘 베이비(금수저)"라고 말했다. 이어 “나]]></content>
     </entry>
 </feed>
