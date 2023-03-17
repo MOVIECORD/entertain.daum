@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-03-17T22:11:18.068Z</updated>
+    <updated>2023-03-17T23:11:40.368Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘존 윅4’ 배우, 집에서 숨진 채 발견 “향년 60세”]]></title>
+        <id>https://v.daum.net/v/20230318080027721</id>
+        <link href="https://v.daum.net/v/20230318080027721"/>
+        <updated>2023-03-17T23:11:39.670Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]TV시리즈 ‘더 와이어’ ‘프린지’, 영화 ‘존 윅4’를 포함한 시리즈로 유명한 배우 랜스 레드딕이 세상을 떠났다. 향년 60세. 연예매체 TMZ은 17일(현지시간) “랜스 레드딕이 금요일 아침 미국 LA 스튜디오 시티 자택에서 숨진 채 발견됐”고 보도했다. 버라이어티는 “관계자들을 통해 그가 자연사로 사망한 것으로 확인했]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[킴 카다시안 '아스널 FC' 축구 경기에 등장...관객석 술렁]]></title>
         <id>https://v.daum.net/v/20230317193630490</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230317153601282"/>
         <updated>2023-03-17T07:11:46.098Z</updated>
         <content type="html"><![CDATA[[TV리포트=유비취 기자] 마블이 연이은 위기에 숨 고르기에 나섰다. 16일(현지 시간) 미국 연예매체 다이렉트는 마블 페이즈 5의 작품이 줄줄이 연기됐다고 보도했다. 디즈니 플러스 공식 홈페이지에서 마블 TV 시리즈의 출시 기간이 삭제되고 '공개 예정'으로 바뀌었기 때문이다. 다수의 시리즈가 연기되면서 일부는 올해 공개 라인업에서 밀려날 것으로 예측된다]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[휴 그랜트 "드류 베리모어 노래 못 해...개 짖는 소리가 낫다"]]></title>
-        <id>https://v.daum.net/v/20230317144830728</id>
-        <link href="https://v.daum.net/v/20230317144830728"/>
-        <updated>2023-03-17T06:14:04.371Z</updated>
-        <content type="html"><![CDATA[[TV리포트=유비취 기자] 배우 휴 그랜트가 '그 여자 작사 그 남자 작곡'의 드류 베리모어를 공개 저격했다. 14일 미국 잡지 와이어드의 소셜네트워크서비스를 통해 공개된 인터뷰에서 휴 그랜트는 드류 베리모어의 노래가 끔찍했기 때문에 후보정을 예상보다 많이 해야 했다고 밝혔다. 와이어드 인터뷰에는 휴 그랜트와 함께 영화 '던전 앤 드래곤: 도적들의 명예'에]]></content>
     </entry>
 </feed>
