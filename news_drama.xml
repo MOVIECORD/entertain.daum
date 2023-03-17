@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-03-17T19:10:09.312Z</updated>
+    <updated>2023-03-17T20:13:01.053Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['모범택시2' 이제훈, "믿음이 부족하면 채워야"…사이비 교주 잡는 '박수무당' 변신]]></title>
+        <id>https://v.daum.net/v/20230318050300215</id>
+        <link href="https://v.daum.net/v/20230318050300215"/>
+        <updated>2023-03-17T20:12:42.046Z</updated>
+        <content type="html"><![CDATA[[SBS연예뉴스 | 김효정 에디터] 이제훈이 사이비 잡는 무당이 되었다. 17일 방송된 SBS '모범택시 시즌2'(이하 '모범택시2')에서는 사이비 종교에 빠진 의뢰인 가족을 구출하기 위해 무당이 된 김도기의 모습이 그려졌다. 이날 의뢰인은 사이비 종교 순백교에 빠진 언니를 찾기 위해 그들의 공동체로 향했다. 하지만 언니는 자신을 만나주지 않았고, 급기야]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["'더 글로리' 송혜교의 복수 비용? 6천만원 이상"]]></title>
         <id>https://v.daum.net/v/20230318005307603</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230317201757055"/>
         <updated>2023-03-17T12:21:37.664Z</updated>
         <content type="html"><![CDATA[[스타뉴스 이지현 기자] /사진='마녀의 게임' 방송 화면[이지현 스타뉴스 인턴 기자] '마녀의 게임' 장서희가 유언장을 찾기 위해 혈안이 됐다. 17일 오후 방송된 MBC 일일드라마 '마녀의 게임'에서는 설유경(장서희 분)이 마현덕(반효정 분)의 자필 유언장을 찾으려고 하는 장면이 그려졌다. 설유경은 정혜수(김규선 분)로부터 마현덕이 직접 유언장을 작]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[신고은, 한기웅 강압적 태도에 분노…"가만있지 않겠다"]]></title>
-        <id>https://v.daum.net/v/20230317200933915</id>
-        <link href="https://v.daum.net/v/20230317200933915"/>
-        <updated>2023-03-17T12:21:37.673Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 장예솔 인턴기자) '비밀의 여자' 신고은이 한기웅의 강압적인 행동에 분노했다. 17일 방송된 KBS 2TV '비밀의 여자'에서는 남유진(한기웅 분)에게 철저히 무시당하는 정겨울(신고은)의 모습이 그려졌다. 이날 남유진은 임신을 핑계로 정겨울을 억지로 침대에 눕혀 잠자리를 가지려 했다.&nbsp; 거부하는 정겨울에 남유진은 "애 갖고 싶어서 아무 상관도]]></content>
     </entry>
 </feed>

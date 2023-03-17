@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2023-03-17T19:10:09.210Z</updated>
+    <updated>2023-03-17T20:13:01.066Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘더 글로리’ 차주영 노출, CG는 맞았고 대역 정체는 오해였다]]></title>
+        <id>https://v.daum.net/v/20230318045820166</id>
+        <link href="https://v.daum.net/v/20230318045820166"/>
+        <updated>2023-03-17T20:12:54.197Z</updated>
+        <content type="html"><![CDATA[[OSEN=김채연 기자] 말도 많고 탈도 많았던 ‘더 글로리 차주영 노출씬’과 관련해 모든 진실이 밝혀졌다. 지난 15일 차주영은 서울 종로구 소격동의 한 카페에서 넷플릭스 ‘더 글로리’와 관련해 인터뷰를 진행했다. 차주영은 ‘더 글로리’에서 학교폭력 가해자 무리 중 한 명으로 등장해, 집안 환경과 재력은 전재준, 박연진, 이사라에 비해 못 미치지만 스튜]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이서진, 목표 매출 달성에 '서진이네' 휴무…복지 2호 발령]]></title>
+        <id>https://v.daum.net/v/20230318045003160</id>
+        <link href="https://v.daum.net/v/20230318045003160"/>
+        <updated>2023-03-17T20:12:54.198Z</updated>
+        <content type="html"><![CDATA[(서울=뉴스1) 박하나 기자 = '서진이네'가 목표 매출을 달성하고 휴무를 결정했다. 지난 17일 오후 방송된 tvN 예능 프로그램 '서진이네'에서는 목표 매출을 달성하고 휴일을 즐기는 직원들의 모습이 담겼다. 주말 대목을 맞이한 영업 3일 차, '서진이네'는 몰려드는 손님으로 인해 눈코 뜰 새 없는 날을 보냈다. 결국 재료 소진으로 '서진이네'는 일찍]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘나혼산’ 기안84, 고향 고모 댁 방문... 농사일→김치전·튀김 먹방까지]]></title>
         <id>https://v.daum.net/v/20230318011801720</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230317235032266"/>
         <updated>2023-03-17T15:12:34.142Z</updated>
         <content type="html"><![CDATA[[스포츠조선닷컴 이지현 기자] 방송인 정형돈이 아내가 쌍둥이 출산 후 겪은 고민에 대해 털어 놓았다. 17일 방송된 채널A '오은영의 금쪽상담소'에는 만 45세로 연예계 최고령 임산부가 된 베니와 안용준이 출연했다. 9살 연하 안용준과 결혼 8년 차인 베니는 만 45세로 연예계 최고령 임산부다. "결혼 8년 만에 아이를 출산하게 됐다. 폐경이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['모범택시2' 이제훈, 사이비 교주에 접근→"요절할 운명" 경고]]></title>
-        <id>https://v.daum.net/v/20230317234703245</id>
-        <link href="https://v.daum.net/v/20230317234703245"/>
-        <updated>2023-03-17T15:12:34.143Z</updated>
-        <content type="html"><![CDATA[[스포츠투데이 송오정 기자] '모범택시2' 이제훈이 무당으로 변신해 사이버 교주에게 접근했다. 17일 방송된 SBS 금토드라마 '모범택시2'에서는 사이비 종교로 인해 무너진 한 자매의 이야기가 그려졌다. 여동생(김은비)는 '순백교'라고 불리는 사이비 종교에 입교한 언니를 되찾아달라며 무지개 모범택시에 복수 대행 서비스를 의뢰했다. 해당 종교는 병원치료를 받]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['나혼산' 전현무 67kg→박나래 45kg, 깡마른 팜유라인 대반전 과거]]></title>
-        <id>https://v.daum.net/v/20230317233451179</id>
-        <link href="https://v.daum.net/v/20230317233451179"/>
-        <updated>2023-03-17T15:12:34.144Z</updated>
-        <content type="html"><![CDATA[[스포츠조선닷컴 이게은기자] '팜유 라인' 전현무, 박나래, 이장우의 반전 과거가 공개됐다. 17일 방송된 MBC 예능 프로그램 '나 혼자 산다'에서는 전현무, 박나래, 이장우의 하루가 전파를 탔다. 전현무, 박나래, 이장우는 나란히 건강검진을 앞두고 한데 모여 문진표를 작성했다. 그런 가운데 이장우는 생애 첫 건강검진이라고 밝혀 놀라움을 안]]></content>
     </entry>
 </feed>
