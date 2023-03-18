@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-03-18T16:14:10.204Z</updated>
+    <updated>2023-03-18T17:10:05.843Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김소은, ♥김승수와 동거 결정→마지막화 결혼식장에서]]></title>
+        <id>https://v.daum.net/v/20230319012420755</id>
+        <link href="https://v.daum.net/v/20230319012420755"/>
+        <updated>2023-03-18T17:09:49.129Z</updated>
+        <content type="html"><![CDATA[[OSEN=오세진 기자] ‘삼남매가 용감하게’ 김소은이 김승수와의 본격적인 동거를 결심했다. 18일 방영한 KBS2 주말드라마 ‘삼남매가 용감하게’(극본 김인영, 연출 박만영, 제작 지앤지프로덕션)는 장영식(민성욱 분)이 마침내 잘못을 인정하는 모습, 고뇌에 시달리는 장세란(장미희 분)의 모습, 이상준(임준환 분)과 김태주(이하나 분)의 깊어진 사랑의]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['모범택시2' 이제훈 '빙의 연기→작두 타기', 사이비 교주 속여 '응징' 성공]]></title>
         <id>https://v.daum.net/v/20230319011200743</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230318223955145"/>
         <updated>2023-03-18T14:10:13.594Z</updated>
         <content type="html"><![CDATA[[스타뉴스 이시호 기자] /사진=tvN '판도라' 방송 화면 캡처[이시호 스타뉴스 기자] 배우 장희진이 이지아의 정체를 알게 됐다. 18일 오후 방송된 tvN 토일드라마 '판도라'에서는 표재현(이상윤 분)이 기자회견서 대선 출마를 선언했다. 홍태라(이지아 분)는 이날 표재현이 기자회견서 대선 출마를 선언한 데 이어 딸 지우(김시우 분)와 자신의 존재까]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김의성 "사이비 종교 신도들, 믿음의 뿌리를 흔들어야 해"]]></title>
-        <id>https://v.daum.net/v/20230318223622130</id>
-        <link href="https://v.daum.net/v/20230318223622130"/>
-        <updated>2023-03-18T14:10:13.595Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 오수정 기자) '모범택시2'에서 무지개 히어로즈가 사이비 종교 신도들의 믿음의 뿌리를 흔들 계획을 세웠다.&nbsp; 18일 방송된 SBS 금토드라마 '모범택시 시즌2' 8회에서는 사이비 종교단체 '순백교'의 교주 옥주만(안상우 분)을 처단하려는 무지개 히어로즈의 모습이 그려졌다.&nbsp; 옥주만은 병을 낫게 해주고 고통으로부터 구원해준다는 감언이설로 신도들]]></content>
     </entry>
 </feed>
