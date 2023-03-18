@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-03-18T05:10:41.619Z</updated>
+    <updated>2023-03-18T06:14:28.506Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[샤론 스톤 “재산 절반 날려”]]></title>
+        <id>https://v.daum.net/v/20230318144608573</id>
+        <link href="https://v.daum.net/v/20230318144608573"/>
+        <updated>2023-03-18T06:14:27.785Z</updated>
+        <content type="html"><![CDATA[[티브이데일리 이기은 기자] 샤론 스톤이 은행 파산으로 최근 재산 절반 가량을 잃은 것으로 나타났다. 18일(한국시간) 미국 연예매체 할리우드 리포터 등 외신에 따르면 할리우드 배우 샤론 스톤(65)은 지난 목요일 밤 여성 암 연구 기금 모음 행사에 참석해 자신의 근황을 전했다. 그는 기금 모음을 독려하며 "돈을 문자로 보내는 방법을 알아내는 것은 어렵다는]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘쥬라기 공원’ 그랜트 박사 샘 닐, 혈액암 3기 투병 중]]></title>
         <id>https://v.daum.net/v/20230318140919275</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230318082918982"/>
         <updated>2023-03-18T00:56:45.441Z</updated>
         <content type="html"><![CDATA[[OSEN=강서정 기자] 배우 랜스 레드딕이 영화 ‘존 윅4’ 개봉을 앞두고 사망했다. 향년 60세. 17일(현지시간) 페이지식스 보도에 따르면 미국 드라마 ‘더 와이어’ 스타 랜드 레드딕이 지난 금요일 사망했다고 대변인이 밝혔다. 레드딕은 캘리포니아에 있는 그의 집에서 발견됐다. 사망 원인은 알려지지 않았지만 자연스럽게 사망한 것으로 전해졌다. 레드딕]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“SVB은행 파산으로 재산 절반 잃었다” 65살 유명배우, 안타까운 근황]]></title>
-        <id>https://v.daum.net/v/20230318081809908</id>
-        <link href="https://v.daum.net/v/20230318081809908"/>
-        <updated>2023-03-18T00:56:45.443Z</updated>
-        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]‘원초적 본능’으로 유명한 배우 샤론 스톤(65)이 미국 실리콘밸리은행(SVB) 파산으로 재산 절반을 잃었다. 17일(현지시간) 페이지식스에 따르면, 그는 여성암연구기금(WCRF)의 모금 행사에서 용기상을 수상하며 이같은 소식을 전했다. 스톤은 “돈을 문자로 보내는 방법을 알아내야 하는 것이 어렵다는 것을 알고 있다. 나는]]></content>
     </entry>
 </feed>
