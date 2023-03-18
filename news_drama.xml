@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-03-18T09:11:11.850Z</updated>
+    <updated>2023-03-18T10:11:54.920Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[부캐에 진심인 이제훈..'돌+아이' 무당까지 완벽 소화]]></title>
+        <id>https://v.daum.net/v/20230318184040671</id>
+        <link href="https://v.daum.net/v/20230318184040671"/>
+        <updated>2023-03-18T10:11:37.634Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 이승훈 기자] /사진=SBS '모범택시2'[이승훈 스타뉴스 기자] 배우 이제훈이 '똘끼충만' 무당으로 충격 변신했다. 17일 방송된 SBS 금토 드라마 '모범택시2' 7회에서는 김도기(이제훈 분)가 반인륜적 범죄를 저지르는 사이비 교단의 교주 옥주만(안상우 분)을 응징하기 위해 무당으로 변신, 화려한 비주얼로 시선을 모으며 시청자들의 감탄을 자]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘더 글로리’ 이도현, ‘다정한 미친놈’ 주여정 그 자체]]></title>
         <id>https://v.daum.net/v/20230318162432584</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230318134936092"/>
         <updated>2023-03-18T05:10:27.646Z</updated>
         <content type="html"><![CDATA[[뉴스엔 이민지 기자] 한혜진 얼굴에 또다시 그늘이 포착됐다. 3월 18일 방송되는 JTBC 토일드라마 ‘신성한, 이혼’(극본 유영아/ 연출 이재훈) 5회에서는 조정식(정문성 분)이 변호사 사무실에서 일하게 된 이서진(한혜진 분)에게 꽃다발을 선물하면서 파장이 생긴다. 앞서 이서진은 이혼 소송에 승소하며 어렵사리 양육권을 확보했다. 양육을 위해 다시 생]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김희정, 이선호와 가깝고도 어려원 ‘찐’ 모자 케미]]></title>
-        <id>https://v.daum.net/v/20230318134510050</id>
-        <link href="https://v.daum.net/v/20230318134510050"/>
-        <updated>2023-03-18T05:10:27.648Z</updated>
-        <content type="html"><![CDATA[[OSEN=강서정 기자] ‘비밀의 여자’의 배우 김희정이 탄탄한 연기력으로 존재감을 뽐냈다.&nbsp; KBS 2TV 일일드라마 ‘비밀의 여자’(연출 신창석, 극본 이정대)는 시력을 잃고 ‘락트-인 증후군(의식이 있는 전신 마비)’에 빠지게 된 여자가 상속녀와 엮여, 자신을 둘러싼 진실을 밝히고 처절한 복수를 통해 사랑과 정의를 찾는 이야기를 그린 작품이다. 김]]></content>
     </entry>
 </feed>

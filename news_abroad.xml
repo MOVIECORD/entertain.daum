@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-03-18T09:11:11.839Z</updated>
+    <updated>2023-03-18T10:11:54.922Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘존윅4’ 랜스 레드딕, 사망 전날 섬뜩한 발언 “약물중독으로…”]]></title>
+        <id>https://v.daum.net/v/20230318185227745</id>
+        <link href="https://v.daum.net/v/20230318185227745"/>
+        <updated>2023-03-18T10:11:54.273Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]‘존윅4’의 랜스 레드딕(60)이 돌연사로 사망한 가운데 그가 죽기 하루 전날 과거 약물중독으로 세상을 떠난 동료 배우를 언급한 사실이 알려졌다. 레드딕은 17일(현지시간) 아침 로스앤젤레스(LA) 자택에서 돌연 숨을 거뒀다. 홍보담당자는 그의 사망 원인이 자연사라고 했다. 그는 사망 전날인 16일 한 라디오 프로그램에 출연]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[랜스 레드딕, ‘존 윅4’ 개봉 앞두고 사망... 키아누 리브스 “깊은 슬픔”]]></title>
         <id>https://v.daum.net/v/20230318180730439</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230318112402966"/>
         <updated>2023-03-18T03:12:51.536Z</updated>
         <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]할리우드 스타 레오나르도 디카프리오(48)와 4년간 사귀다 지난해 헤어진 모델 겸 배우 카밀라 모로네(25)가 홈스쿨링으로 10대 시절을 보냈다고 밝혔다. 그는 17일(현지시간) ‘인스타일 호주’와 인터뷰에서 “모델 경력을 쌓기 위해 10대 시절 고등학교를 자퇴하고 홈스쿨링을 했다”면서 “그 경험이 매우 소외된 느낌으로 남아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[키아누 리브스, '존윅4’ 개봉 앞두고 랜스 레드딕 사망에 “가슴 아파..이 영화 바친다”]]></title>
-        <id>https://v.daum.net/v/20230318105018581</id>
-        <link href="https://v.daum.net/v/20230318105018581"/>
-        <updated>2023-03-18T02:10:53.452Z</updated>
-        <content type="html"><![CDATA[[OSEN=강서정 기자] 배우 랜드 레드딕이 영화 ‘존 윅4’ 개봉을 앞두고 사망해 함께 호흡을 맞춘 배우 키아누 리브스를 비롯해 동료들의 추모가 이어지고 있다. 17일(현지시간) 페이지식스 보도에 따르면 미국 드라마 ‘더 와이어’ 스타 랜드 레드딕이 지난 금요일 사망했다고 대변인이 밝혔다. 레드딕은 캘리포니아에 있는 그의 집에서 발견됐다. 사망 원인은]]></content>
     </entry>
 </feed>
