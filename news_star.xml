@@ -2,16 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2023-03-19T04:14:17.233Z</updated>
+    <updated>2023-03-19T05:10:58.355Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[시우는 왜 학대받는 사실을 알리지 못했나]]></title>
-        <id>https://v.daum.net/v/20230319130601584</id>
-        <link href="https://v.daum.net/v/20230319130601584"/>
-        <updated>2023-03-19T04:14:10.685Z</updated>
-        <content type="html"><![CDATA[[이준목 기자] 웃는 모습이 유난히 밝고 예뻤던 아이였다. 붙임성있는 성격에, 동네에서는 부잣집 아들내미로 널리 알려져 있었다. 본인도 한창 친구들과 놀러다니고 싶었을 나이에도 자신보다 어린 동생들을 살뜰히 챙기던 어른스러운 아이이기도 했다. 그랬던 아이가 언제부터인가 사람들의 시야에서 사라졌다. 등교하는 모습도, 동생들과 놀아주던 모습도 볼 수 없었다.]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[온유 '파라다이스'→김제형 '원 세컨드', 3월의 발견①]]></title>
         <id>https://v.daum.net/v/20230319130005489</id>
@@ -109,5 +102,12 @@
         <link href="https://v.daum.net/v/20230319103559435"/>
         <updated>2023-03-19T02:43:31.596Z</updated>
         <content type="html"><![CDATA[[스포티비뉴스=김현록 기자]‘판도라 : 조작된 낙원’ 장희진이 이지아가 킬러 오영이었다는 것을 알고 충격에 휩싸였다. 18일 방송된 tvN 토일드라마 ‘판도라 : 조작된 낙원’(크리에이터 김순옥, 극본 현지민, 연출 최영훈, 기획 스튜디오드래곤, 제작 초록뱀미디어) 3회는 가족과 다름 없는 홍태라(이지아)와 고해수(장희진)의 비극적인 운명이 그려졌다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['마이웨이' 오미연. 김영옥과 팬심 대결]]></title>
+        <id>https://v.daum.net/v/20230319101309088</id>
+        <link href="https://v.daum.net/v/20230319101309088"/>
+        <updated>2023-03-19T05:10:51.753Z</updated>
+        <content type="html"><![CDATA[[티브이데일리 최하나 기자] '스타다큐 마이웨이' 오미연이 김호중을 향한 팬심을 고백했다. 19일 저녁 7시 50분 방송되는 TV조선 '스타다큐 마이웨이'(이하 '마이웨이')에서는 올해 50주년을 맞이한 배우 오미연이 '콘텐츠 크리에이터'로의 변신한 모습이 공개된다. 오미연은 1973년 MBC 공채 탤런트로 데뷔 후 한국 드라마 역사에서 사랑받는 엄마 배]]></content>
     </entry>
 </feed>
