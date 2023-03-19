@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-03-19T01:05:11.133Z</updated>
+    <updated>2023-03-19T02:43:37.097Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["루프탑에서 영화 상영, 지하에선 춤" MZ세대도 열광]]></title>
+        <id>https://v.daum.net/v/20230319111223034</id>
+        <link href="https://v.daum.net/v/20230319111223034"/>
+        <updated>2023-03-19T02:43:18.287Z</updated>
+        <content type="html"><![CDATA[코로나19 팬데믹 이후 극장 산업이 위축됐다는 위기의식이 팽배해진 요즈음, 국내에 몇 안 되는 독립예술영화 전용관들은 더욱 어려운 상황에 처해 있습니다. 출구가 보이지 않을 것만 같은 침체기에서도 나름의 자구책, 반짝이는 아이디어로 명맥을 이어가고 있는 예술영화 전용관들을 소개합니다. &lt;편집자말&gt; [이선필, 이정민 기자] &nbsp;▲ 에무시네마 양인모 프로그래머&nbsp;]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['존윅4'→'블랙팬서' 자연사·암 투병…갑작스러운 이별 '충격']]></title>
+        <id>https://v.daum.net/v/20230319101201059</id>
+        <link href="https://v.daum.net/v/20230319101201059"/>
+        <updated>2023-03-19T02:43:18.287Z</updated>
+        <content type="html"><![CDATA[[텐아시아=강민경 기자] 영화 '존윅4', '블랙팬서', '트라이앵글 오브 새드니스'에는 공통점이 있다. 바로 출연 배우가 세상과 빠르게 이별을 한 것. 17일(현지시각) 미국 매체 버라이어티 등 다수에 따르면 '더 와이어', '프린지', '보쉬', 영화 '존 윅4' 등에 출연한 랜스 레딕이 세상을 떠났다. 향년 60세. 랜스 레딕은 로스앤젤레스 스튜]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['충무로 오호대장군' 전도연-설경구의 50년 내공 액션, '길복순']]></title>
         <id>https://v.daum.net/v/20230319100006811</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230318135441159"/>
         <updated>2023-03-18T05:10:23.038Z</updated>
         <content type="html"><![CDATA[(서울=연합뉴스) 김정진 기자 = ▲ '패왕별희' 장국영 20주기 재개봉 = 영화 '패왕별희'가 주연배우 장궈룽(장국영·1956~2003)의 20주기를 맞아 내달 1일 재개봉한다고 배급사 제이엔씨미디어그룹이 전했다. '패왕별희'는 경극을 사랑한 두 남자의 사랑과 질투를 그린 작품으로 1993년 칸국제영화제에서 황금종려상을 받았다. 장궈룽, 공리, 장펑이 등]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["멋지다 혜정아"..'더 글로리', 차주영, 쿨하게 밝힌 가슴 CG·대역]]></title>
-        <id>https://v.daum.net/v/20230318130000681</id>
-        <link href="https://v.daum.net/v/20230318130000681"/>
-        <updated>2023-03-18T04:13:43.132Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 김미화 기자] 넷플릭스 오리지널 드라마 '더 글로리'의 배우 차주영이 15일 오전 진행된 인터뷰를 위해 포즈를 취하고 있다. /사진제공=넷플릭스 2023.03.15 /사진=이동훈 기자 photoguy@ [김미화 스타뉴스 기자] 배우 차주영이 '더 글로리'의 혜정이와 다른 매력으로 자신의 이야기를 풀어놨다. 차주영은 최근 서울 종로구 삼청동 한]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[적수 없는 ‘스즈메의 문단속’, 日 애니 명맥]]></title>
-        <id>https://v.daum.net/v/20230318124207572</id>
-        <link href="https://v.daum.net/v/20230318124207572"/>
-        <updated>2023-03-18T04:13:43.140Z</updated>
-        <content type="html"><![CDATA[[티브이데일리 이기은 기자] 적수가 없다. '스즈메의 문단속'이 10일 연속 1위 자리를 지키는 가운데, 상당한 장기 독주가 예고됐다. 18일 영화진흥위원회 영화관입장권 통합전산망 집계에 따르면 일본 애니메이션 '스즈메의 문단속'(감독 신카이 마코토)은 전날 10만1727명의 관객을 불러 모아 박스오피스 1위에 올랐다. 누적관객수는 134만406명으로 집계]]></content>
     </entry>
 </feed>
