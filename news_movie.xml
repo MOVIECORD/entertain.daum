@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-03-19T09:11:43.600Z</updated>
+    <updated>2023-03-19T10:11:47.819Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['샤잠2' 흥행 폭망, 감독 "놀랍지 않아" 발언 논란→"농담" 급 해명]]></title>
+        <id>https://v.daum.net/v/20230319190817823</id>
+        <link href="https://v.daum.net/v/20230319190817823"/>
+        <updated>2023-03-19T10:11:26.695Z</updated>
+        <content type="html"><![CDATA[[OSEN=최나영 기자]&nbsp;액션 블록버스터 영화 '샤잠!&nbsp;신들의 분노'(이하 '샤잠2')가 흥행 폭망 조짐을 보이는 가운데 감독의 이와 관련된 언급이 논란이 됐다. 최근 '샤잠2' 박스오피스 관련 기사에 전편에 이어 이번 작품도 연출을 맡은&nbsp;데이비드&nbsp;F.&nbsp;샌드버그&nbsp;감독은 "걱정마세요. 이것이 놀랄 일은 아니다. 나는 이것이 오래 전에 어디로 향하고 있는지]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[신혜선·이준영 '용감한 시민' 예고편 유출..빠르게 확산 중]]></title>
+        <id>https://v.daum.net/v/20230319184949625</id>
+        <link href="https://v.daum.net/v/20230319184949625"/>
+        <updated>2023-03-19T10:11:26.698Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 김노을 기자] 배우 신혜선(왼쪽), 이준영 /사진=스타뉴스[김노을 스타뉴스 기자] 배우 신혜선, 이준영 주연의 영화 '용감한 시민' 예고편이 유출됐다. 19일 스타뉴스 취재 결과, 영화 '용감한 시민'(감독 박진표) 예고편이 유출돼 온라인상 빠르게 확산되고 있다. 최근 트위터에는 '용감한 시민' 예고편 화면이 촬영된 영상이 게재됐다. 해당 영]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['웅남이' 박성광 "강주은이 있어야 최민수와의 촬영 일사천리로 진행"]]></title>
         <id>https://v.daum.net/v/20230319160159854</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230319100006811"/>
         <updated>2023-03-19T01:04:51.155Z</updated>
         <content type="html"><![CDATA['정승민의 정감록(鄭監錄)'은 개봉을 앞두거나 새로 공개된&nbsp;영화, 드라마 등 작품의 간략한 줄거리와 함께 솔직한 리뷰를 담습니다. (MHN스포츠 정승민 인턴기자) '일타 스캔들'에서 행복한 결말로 작별을 고한 전도연이 핏빛의 레드 립을 바른&nbsp;세계관 최강 싱글맘 킬러&nbsp;'길복순'으로 변신했다. '길복순'은 청부살인업계의 전설적인 킬러 길복순(전도연]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['스즈메의 문단속' 200만 동원 거뜬…'슬램덩크' 넘고 1위 탈환할까]]></title>
-        <id>https://v.daum.net/v/20230319093421428</id>
-        <link href="https://v.daum.net/v/20230319093421428"/>
-        <updated>2023-03-19T01:04:51.157Z</updated>
-        <content type="html"><![CDATA[[OSEN=김보라 기자] 영화 ‘스즈메의 문단속’이 오늘 200만 관객을 동원할 수 있을지 관심이 모인다. 그러나 일요일에는 토요일보다 관객수가 비교적 적게 들기 때문에 내일(월)까지 시간이 더 필요할 전망이다. 19일 영화진흥위원회 영화관입장권 통합전산망 집계를 보면 전날(18일) ‘스즈메의 문단속’은 31만 4494명을 동원해 일별 박스오피스 1위를]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[홍상수♥김민희 '물안에서', 4월 12일 극장 개봉 확정]]></title>
-        <id>https://v.daum.net/v/20230319091941210</id>
-        <link href="https://v.daum.net/v/20230319091941210"/>
-        <updated>2023-03-19T01:04:51.158Z</updated>
-        <content type="html"><![CDATA[[OSEN=김보라 기자] 홍상수 감독의 신작 '물안에서'가 오는 4월 극장 개봉을 확정했다. 홍상수 감독의 신작 '물안에서'(제작 영화제작전원사, 배급 영화제작전원사・콘텐츠판다)는 내달 12일 극장 개봉을 준비 중이라고 배급사 측이 18일 밝혔다. 지난 2월 22일 제73회 베를린 국제영화제 월드 프리미어 상영을 통해 첫 공개된 '물안에서'는 외신으로부]]></content>
     </entry>
 </feed>
