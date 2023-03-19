@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/variety</id>
     <title>다음 연예 ─ 뉴스 ─ 예능</title>
-    <updated>2023-03-19T19:09:52.845Z</updated>
+    <updated>2023-03-19T20:12:34.784Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[은지원, '성인 ADHD' 의심…정신건강 전문의 "진지한 상담 추천"]]></title>
+        <id>https://v.daum.net/v/20230320050408231</id>
+        <link href="https://v.daum.net/v/20230320050408231"/>
+        <updated>2023-03-19T20:12:23.925Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 양유진 기자] 그룹 젝스키스 출신 가수 은지원이 성인 주의력 결핍 과잉행동 장애(ADHD) 의심 진단을 받았다. 19일 방송된 SBS '집사부일체'에는 정신건강의학과 전문의 양재진, 양재웅 형제가 사부로 등장했다. 양재웅은 '성인 ADHD가 있다는 걸 알았다. 검사라도 받아봐야 될 것 같다. 상당히 불안하다'는 익명의 고민을 접하고 피식]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[최시원, 결혼할 상대 있나? 돌연 "아이 가져도 난 환갑" 고민]]></title>
+        <id>https://v.daum.net/v/20230320050020972</id>
+        <link href="https://v.daum.net/v/20230320050020972"/>
+        <updated>2023-03-19T20:12:23.925Z</updated>
+        <content type="html"><![CDATA[[OSEN=김수형 기자] '미우새'에서 최시원이 기부라이딩을 리드한 가운데 결혼에 대한 깜짝 생각을 밝혀 눈길을 끌었다.&nbsp; 19일 방송된 SBS '미운 우리새끼(미우새)'에서 기부 라이딩이 그려졌다.&nbsp; 허경환과 이상민, 김준호 모습이 그려졌다.&nbsp; 최시원이 세 사람을 불렀던 것.이상민은 "시원이가 대단한 것&nbsp; 자전거 타자고 하고 퀵으로 사이클복도 보내줬다]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이상민, '17년만 빚 청산' 예고 후 23억 제주 대저택 구경 "뉴라이프 시작"]]></title>
         <id>https://v.daum.net/v/20230320040311573</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230319232925531"/>
         <updated>2023-03-19T15:11:04.811Z</updated>
         <content type="html"><![CDATA[[OSEN=최지연 기자] 그룹 트와이스 멤버 쯔위가 동생이었으면 얄미웠을 멤버로 정연을 지목했다.&nbsp; 지난 11일, 유튜브 채널 ‘아이돌 인간극장’에는 ‘8년 만에 처음으로 연습 째고 OO한 트와이스?!’라는 제목의 영상이 업로드 됐다. 이날 트와이스 멤버들은 질문 카드를 뽑고 그에 잘 어울리는 이미지를 가진 사람을 지목하는 게임을 진행했다. 지효는 ‘동]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[조승우, 여동생 공현지 묘 찾아 "계속 이렇게 살아야 하나"]]></title>
-        <id>https://v.daum.net/v/20230319231326486</id>
-        <link href="https://v.daum.net/v/20230319231326486"/>
-        <updated>2023-03-19T15:11:04.813Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 김현숙 인턴기자) '신성한, 이혼' 조승우가 공현지의 묘를 찾았다.&nbsp; 19일 방송된 JTBC 드라마 '신성한, 이혼' 6회에서는 신성한(조승우 분)이 생일을 맞은 죽은 여동생 신주화(공현지)의 무덤을 찾은 모습이 전파를 탔다.&nbsp; 이날 신성한은 부모님과 여동생 묘 앞에 꽃과 초콜릿 잼을 놓았다. 그는 "엄마 아빠는 꽃만 받아요]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['미우새' 임원희X정석용, 차은우→박새로이 가발 도전 '폭소']]></title>
-        <id>https://v.daum.net/v/20230319225913419</id>
-        <link href="https://v.daum.net/v/20230319225913419"/>
-        <updated>2023-03-19T14:10:24.159Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 이시호 기자] /사진=SBS '미운 우리 새끼' 방송 화면 캡처[이시호 스타뉴스 기자] 배우 임원희와 정석용이 가발 착용에 도전했다. 19일 방송된 SBS 예능 프로그램 '미운 우리 새끼'(이하 '미우새')에서는 임원희와 정석용이 탈모 고민을 밝혔다. 임원희는 이날 "어금니가 세로로 갈라졌다. 종국이한테 딱밤을 맞은 날부터 아팠는데 그것때]]></content>
     </entry>
 </feed>
