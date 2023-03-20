@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-03-20T06:16:09.995Z</updated>
+    <updated>2023-03-20T07:11:58.643Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘웅남이’ 박성웅 “14살 아들, ♥︎신은정 키 넘어서…친구처럼 지낸다”]]></title>
+        <id>https://v.daum.net/v/20230320161014659</id>
+        <link href="https://v.daum.net/v/20230320161014659"/>
+        <updated>2023-03-20T07:11:39.609Z</updated>
+        <content type="html"><![CDATA[[OSEN=유수연 기자] 배우 박성웅이 아들에 대한 애정을 드러냈다. 박성웅은 20일 오후 서울 종로구 삼청동의 한 카페에서 진행된 인터뷰에서 “아들이 지금 열네 살이다. 키는 현재 엄마(신은정)를 넘어섰다. 한 165 정도 되는 것 같다”라며 “요즘 살이 좀 빠지기도 했고, 한창 더 클 것 같다”라고 언급했다. 이어 “원래는 ‘힘으로 다스려야 겠다’라]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘슬램덩크’ ‘스즈메’ 日 애니메이션, “한국 극장가 먹여살린다”]]></title>
+        <id>https://v.daum.net/v/20230320160753527</id>
+        <link href="https://v.daum.net/v/20230320160753527"/>
+        <updated>2023-03-20T07:11:39.611Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]‘더 퍼스트 슬램덩크’와 ‘스즈메의 문단속’이 없었으면 극장가는 어쩔 뻔 했나. 지난 1월 개봉한 ‘더 퍼스트 슬램덩크’가 장기상영에 성공하며 400만 관객을 돌파한데 이어 신카이 마코토 감독의 ‘스즈메의 문단속’도 200만 관객을 목전에 두고 있다. ‘귀멸의 칼날: 상현집결, 그리고 도공 마을로’ 역시 50만 관객을 목전에]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["여기가 만만한가" 평론가 3점 주고 혹평…'감독' 박성광 대답은]]></title>
         <id>https://v.daum.net/v/20230320145859503</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230320121202525"/>
         <updated>2023-03-20T04:14:10.043Z</updated>
         <content type="html"><![CDATA[[텐아시아=강민경 기자] 배우 박성웅이 영화 '웅남이'를 연출한 박성광에 관해 이야기했다. 박성웅은 20일 서울 종로구 삼청동 한 카페에서 개봉을 앞둔 영화 '웅남이'(감독 박성광)와 관련해 다양한 이야기를 들려줬다. '웅남이'는 반달곰이라는 특별한 비밀을 가진 사나이가 특유의 짐승 같은 능력으로 국제 범죄 조직에 대항하여 공조 수사를 벌어지는 코믹]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[홍상수X김민희 ‘물안에서’ 4월12월 개봉]]></title>
-        <id>https://v.daum.net/v/20230320120901454</id>
-        <link href="https://v.daum.net/v/20230320120901454"/>
-        <updated>2023-03-20T03:12:12.390Z</updated>
-        <content type="html"><![CDATA[오는 4월 12일, 홍상수 감독의 신작 ‘물안에서’를 만난다. 20일 ‘물안에서’의 포스터와 예고편이 공개됐다. 앞서 제73회 베를린국제영화제 인카운터 섹션에서 월드 프리미어를 통해 첫 공개된 후 국내에서는 반가운 새 소식이다. 영화 공개 후 현지에서는 뜨거운 호평을 내놓았다. “‘물안에서’는 창조적 과정에 대한 승리의 송가다…홍상수 감독은 여전히 그의 힘]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['웅남이' 박성웅 "박성광은 배우 복 많은 감독…염혜란→이이경, 모두 큰 힘 돼"]]></title>
-        <id>https://v.daum.net/v/20230320120732422</id>
-        <link href="https://v.daum.net/v/20230320120732422"/>
-        <updated>2023-03-20T03:12:12.391Z</updated>
-        <content type="html"><![CDATA[[스포츠조선 안소윤 기자] 배우 박성웅이 영화 '웅남이'를 연출한 박성광 감독에 대한 애정을 드러냈다. 박성웅은 20일 서울 종로구 삼청동 한 카페에서 스포츠조선과 만나 "현장에서 본 박성광은 영리한 감독이었다"라고 했다. 오는 22일 개봉하는 '웅남이'는 반달곰이라는 특별한 '비밀'을 가진 사나이가 특유의 짐승 같은 능력으로 국제 범죄]]></content>
     </entry>
 </feed>
