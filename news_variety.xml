@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/variety</id>
     <title>다음 연예 ─ 뉴스 ─ 예능</title>
-    <updated>2023-03-20T18:15:02.162Z</updated>
+    <updated>2023-03-20T19:10:26.760Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["그립다 방탄"…'슈취타' 슈가X지민, 술 한 잔+속 깊은 토크 예고]]></title>
+        <id>https://v.daum.net/v/20230321040820677</id>
+        <link href="https://v.daum.net/v/20230321040820677"/>
+        <updated>2023-03-20T19:10:15.125Z</updated>
+        <content type="html"><![CDATA[[OSEN=김예솔 기자] 방탄소년단 지민과 슈가가 만난다.&nbsp; 20일, 유튜브 채널 '방탄TV'에서는 슈취타 일곱번째 이야기로 방탄소년단 지민의 출연 예고가 공개돼 눈길을 끌었다.&nbsp; 슈가는 "애청자님이 와주셨다"라며 "드디어 솔로 앨범이 나온다고 하더라"라고 말했다. 이에 지민은 "형이 다 알고 있다. 나한테 관심이 있는 형이었다"라고 행복해해 웃음을 자]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[홍현희 "신동엽, 친분 없었는데…父 돌아가셨을 때 부조"]]></title>
         <id>https://v.daum.net/v/20230321010006939</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230320235027529"/>
         <updated>2023-03-20T15:12:31.147Z</updated>
         <content type="html"><![CDATA[[OSEN=김수형 기자] ‘오은영 리포트-결혼지옥’에서 시댁으로부터 상처를 받은 아내가 당시 아픔을 고백했다.&nbsp; 20일 방송된&nbsp;MBC ‘오은영 리포트-결혼지옥’에서 철벽부부가 그려졌다.&nbsp; 안방에서만 생활하는 아내, 남편은 거실에서만 생활하는 부부가 그려졌다. 남편을 투명인간 취급하듯, 인사도 안 하는 모습. 아내는 남편과 대화를 거부하며 철벽을 치기도]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[X "사이비 종교에 빠진 리콜남”, 상상못한 진짜 이별 이유]]></title>
-        <id>https://v.daum.net/v/20230320235019528</id>
-        <link href="https://v.daum.net/v/20230320235019528"/>
-        <updated>2023-03-20T15:12:31.151Z</updated>
-        <content type="html"><![CDATA[[OSEN=박하영 기자] ‘이별리콜’ 리콜남의 진짜 이별 사유가 ‘사이비 종교’ 때문이라는 사실이 드러났다. 20일 방송된 KBS2TV ‘이별도 리콜이 되나요’(이하 ‘이별리콜’)에서는 ‘맞춰주는 연애’라는 주제로 리콜남의 사연이 공개된 가운데 래퍼 한해와 그룹 SF9의 재윤이 일일 리콜플래너로 함께했다. 이날 리콜남은 2년 전 헤어진 X와 연애 시절을]]></content>
     </entry>
 </feed>
