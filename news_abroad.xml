@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-03-20T13:22:40.192Z</updated>
+    <updated>2023-03-20T14:12:35.533Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[태극기 든 해리 스타일스 "한국 와서 행복"…1만5천명 떼창 열광]]></title>
+        <id>https://v.daum.net/v/20230320224533129</id>
+        <link href="https://v.daum.net/v/20230320224533129"/>
+        <updated>2023-03-20T14:12:34.880Z</updated>
+        <content type="html"><![CDATA[(서울=연합뉴스) 이태수 안정훈 기자 = "(한국어로) 안녕하세요! 한국에 온 것은 처음인데 이렇게 따뜻하게 맞아주셔서 정말 감사합니다. 오늘 밤 여러분을 즐겁게 하기 위해 최선을 다하겠다고 약속할게요!" 영국 출신 팝스타 해리 스타일스는 20일 오후 서울 올림픽공원 KSPO돔에서 열린 첫 내한 공연에서 한국어로 "감사합니다"라고 외치며 이렇게 말했다. 2]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[마돈나, 여섯 자녀 키우는 교육관 5가지 공개]]></title>
         <id>https://v.daum.net/v/20230320210500957</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230320154603517"/>
         <updated>2023-03-20T07:11:57.938Z</updated>
         <content type="html"><![CDATA[[TV리포트=이수연 기자] 할리우드 배우 브루스 윌리스가 치매 진단 후 첫 생일을 맞았다. 20일 브루스 윌리스의 아내 엠마 헤밍 윌리스는 자신의 소셜네트워크서비스에 브루스 윌리스의 68번째 생일을 축하하는 영상을 올렸다. 그는 "오늘은 비통과 슬픔을 느끼는 날이다. 하지만 내 남편과 우리 가족을 향한 여러분의 따뜻함과 사랑을 느낄 수 있는 것은 행운이다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[겨울왕국 '올라프'... "흑인 인어공주 비판, 한심해"]]></title>
-        <id>https://v.daum.net/v/20230320154211359</id>
-        <link href="https://v.daum.net/v/20230320154211359"/>
-        <updated>2023-03-20T07:11:57.939Z</updated>
-        <content type="html"><![CDATA[[TV리포트=이예은 기자] 영화 '겨울왕국'의 '올라프'를 연기한 배우 조시 개드가 영화 흑인 인어공주 논란에 대해 입을 열었다.&nbsp; 지난 12일(현지 시간) 영화 '인어공주'의 공식 예고편이 공개되자, 원작과 다른 주인공 에리엘의 모습에 다시 한번 논란이 일었다.&nbsp;유튜브에 올라온 공식 예고편은 역대 최다 '싫어요'인 300만 개 받은 것은 물론 일부 네티즌]]></content>
     </entry>
 </feed>
