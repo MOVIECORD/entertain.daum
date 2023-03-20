@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-03-20T11:10:47.438Z</updated>
+    <updated>2023-03-20T12:22:51.427Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[마돈나, 여섯 자녀 키우는 교육관 5가지 공개]]></title>
+        <id>https://v.daum.net/v/20230320210500957</id>
+        <link href="https://v.daum.net/v/20230320210500957"/>
+        <updated>2023-03-20T12:22:50.749Z</updated>
+        <content type="html"><![CDATA[[TV리포트=유비취 기자] 전설적인 팝스타 마돈나도 여느 어머니와 다르지 않았다. 19일 마돈나(64)는 소셜네트워크서비스를 통해 '우리 집 규칙' 다섯 가지를 공개했다. 여섯 자녀를 키우는 마돈나가 육아를 위해 규칙을 세워 공개한 것이다. 마돈나가 들고 있는 표지판에는 '우리 집 규칙'이라는 글씨 아래 5가지의 간단한 규칙이 적혀 있었다. 5가지 규칙은]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["아는 한국어는 씨에씨에"…日 아이돌, 한국 조롱 논란]]></title>
         <id>https://v.daum.net/v/20230320201002992</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230320154211359"/>
         <updated>2023-03-20T07:11:57.939Z</updated>
         <content type="html"><![CDATA[[TV리포트=이예은 기자] 영화 '겨울왕국'의 '올라프'를 연기한 배우 조시 개드가 영화 흑인 인어공주 논란에 대해 입을 열었다.&nbsp; 지난 12일(현지 시간) 영화 '인어공주'의 공식 예고편이 공개되자, 원작과 다른 주인공 에리엘의 모습에 다시 한번 논란이 일었다.&nbsp;유튜브에 올라온 공식 예고편은 역대 최다 '싫어요'인 300만 개 받은 것은 물론 일부 네티즌]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘캣츠’ 앤드류 로이드 웨버, “43살 큰아들 위암으로 위독한 상태” 안타까움]]></title>
-        <id>https://v.daum.net/v/20230320144501973</id>
-        <link href="https://v.daum.net/v/20230320144501973"/>
-        <updated>2023-03-20T06:16:09.302Z</updated>
-        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]‘캣츠’ ‘오페라의 유령’ 등으로 유명한 뮤지컬계의 거장 앤드류 로이드 웨버(74)가 큰아들이 위암으로 위독한 상태라고 전했다. 웨버는 19일(현지시간) 성명을 통해 “아들 니콜라스 로이드 웨버(43)가 지난 18개월 동안 위암으로 싸우고 있다”면서 “아들은 현재 병원에 입원해 있다”고 말했다. 이어 “최근 ‘나쁜 신데렐라]]></content>
     </entry>
 </feed>
