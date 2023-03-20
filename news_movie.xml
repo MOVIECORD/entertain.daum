@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-03-20T20:12:27.047Z</updated>
+    <updated>2023-03-20T21:10:10.524Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘웅남이’, 첫술에 배부르랴]]></title>
+        <id>https://v.daum.net/v/20230321060204833</id>
+        <link href="https://v.daum.net/v/20230321060204833"/>
+        <updated>2023-03-20T21:09:51.453Z</updated>
+        <content type="html"><![CDATA[100일 동안 쑥과 마늘을 먹고 인간이 된 곰. 영화 ‘웅남이’(감독 박성광)는 단군 신화를 요즘 시대에 맞게 재해석한 코미디 액션 장르극이다. 곰에서 사람이 된 웅남(박성웅)은 동물적인 감각과 뛰어난 신체 능력을 살려 경찰로 일하지만, 수명이 얼마 남지 않았다는 말에 상심해 백수의 삶을 택한다. 그러던 어느 날, 웅남은 자신과 똑같이 생긴 테러 조직원]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["꼭 알아야할 한국 배우 10명"…아르헨 신문, 한류스타 집중조명]]></title>
+        <id>https://v.daum.net/v/20230321051626383</id>
+        <link href="https://v.daum.net/v/20230321051626383"/>
+        <updated>2023-03-20T21:09:51.453Z</updated>
+        <content type="html"><![CDATA[(부에노스아이레스=연합뉴스) 김선정 통신원 = 아르헨티나의 유명 일간지가 20일(현지시간) 한국 대세 배우 10명을 집중 조명해 화제가 되고 있다. 아르헨티나의 라나시온지는 이날 "할리우드 밖에도 스타들이 있다: 꼭 알아야 할 한국 배우 10명"이라는 제하의 기사에서 10명의 'K드라마 스타'를 한 사람씩 상세하게 소개했다. 이 신문이 뽑은 한국의 '10대]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[3월 극장가, 각양각색 감독 신작 총출동]]></title>
         <id>https://v.daum.net/v/20230321000036604</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230320174346978"/>
         <updated>2023-03-20T09:13:36.664Z</updated>
         <content type="html"><![CDATA[배우 유아인 (사진=연합뉴스)[이데일리 스타in 김보영 기자] 코카인을 비롯해 4종 마약류를 투약한 혐의를 받는 배우 유아인(본명 엄홍식)이 오는 24일 오전 경찰에 피의자 신분으로 출석해 조사를 받는다. 지난 2월 공항에 입국해 신체 압수수색 조사를 받은 지 약 40여 일 만이다. 경찰이 유아인의 자택 및 병원 등을 압수수색해 혐의와 관련한 증거물들을]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[홀로 기차 여행 중 소울메이트를 만난다면?]]></title>
-        <id>https://v.daum.net/v/20230320172700319</id>
-        <link href="https://v.daum.net/v/20230320172700319"/>
-        <updated>2023-03-20T09:13:36.671Z</updated>
-        <content type="html"><![CDATA[[김형욱 기자] ▲ &nbsp;영화 &lt; 6번 칸 &gt; 포스터.ⓒ 사이더스&nbsp; 러시아 모스크바에서 유학 중인 핀란드인 라우라, 그녀는 러시아 현지인 여교수 이리나와 사귀고 있다. 몸을 섞는 사이이기도 하니 꽤 깊은 관계인 것 같다. 그런데 정작 고대 암각화를 보기 위해 무르만스크까지 머나먼 여정을 떠나는 건 라우라 혼자다. 원래 이리나와 함께 가기로 했는데 이리나에게 일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박성웅 “‘웅남이’, 첫 대본보다 500%가량 잘 나와…사활 걸고 촬영”]]></title>
-        <id>https://v.daum.net/v/20230320172521254</id>
-        <link href="https://v.daum.net/v/20230320172521254"/>
-        <updated>2023-03-20T09:13:36.671Z</updated>
-        <content type="html"><![CDATA[[OSEN=유수연 기자] 배우 박성웅이 영화 ‘웅남이’에 대한 이야기를 나눴다. 20일 오후 서울 종로구 삼청동의 한 카페에서는 영화 ‘웅남이’의 주역 배우 박성웅의 인터뷰가 진행됐다. 오는 22일 개봉 예정인 ‘웅남이’는 인간을 초월하는 짐승 같은 능력으로 국제 범죄 조직에 맞서는 웅남(박성웅 분)의 좌충우돌 코미디 영화다. 단군신화에 나오는 '쑥과]]></content>
     </entry>
 </feed>

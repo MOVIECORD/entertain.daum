@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-03-20T20:12:27.030Z</updated>
+    <updated>2023-03-20T21:10:10.515Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['꽃선비 열애사' 신예은X인교진 "이화원 별채는 안돼"]]></title>
+        <id>https://v.daum.net/v/20230321053001436</id>
+        <link href="https://v.daum.net/v/20230321053001436"/>
+        <updated>2023-03-20T21:09:55.985Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 이빛나리 기자] /사진='꽃선비 열애사' 방송화면 [이빛나리 스타뉴스 인턴기자] '꽃선비 열애사'에서 신예은과 인교진이 별채를 보려는 빚쟁이들을 막아섰다. 지난 20일 첫 방송된 SBS 새 월화드라마 '꽃선비 열애사'에서는 객주 이화원의 주인 윤단오(신예은 분)가 빚쟁이들에 위협받는 모습이 담겼다. 윤단오는 어린 시절 자신의 집에 숨어든 이설]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[학교 폭력만?…'더 글로리', 송혜교 복수 스토리 채운 사회적 문제]]></title>
         <id>https://v.daum.net/v/20230321050031945</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230320204831622"/>
         <updated>2023-03-20T12:22:34.465Z</updated>
         <content type="html"><![CDATA[(엑스포츠뉴스 장예솔 인턴기자) '비밀의 여자' 신고은이 자신을 속인 이채영에 분노했다.&nbsp; 20일 방송된 KBS 2TV '비밀의 여자'에서는 정겨울(신고은)이 남유진(한기웅)과 주애라(이채영)의 사이를 의심하는 모습이 그려졌다.&nbsp; 이날 서태양(이선호)은 도시 생활이 답답하다는 핑계로 원양어선을 다시 타겠다고 결정했다.&nbsp; 서정혜(김희정)는 "급하게 생각하지]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['비밀의 여자' 신고은, "리조트 안 갔다" 거짓말하는 이채영에 분노]]></title>
-        <id>https://v.daum.net/v/20230320204047494</id>
-        <link href="https://v.daum.net/v/20230320204047494"/>
-        <updated>2023-03-20T12:22:34.467Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 이빛나리 기자] /사진='비밀의 여자' 방송화면 [스타뉴스 이빛나리 인턴기자] '비밀의 여자'에서 신고은이 이채영의 거짓말을 알아챘다. 20일 오후 방송된 KBS 2TV 일일드라마 '비밀의 여자'에서 정겨울(신고은 분)은 남편 남유진(한기웅 분)과 함께 묵었던 리조트 객실에서 주애라(이채영 분)의 귀걸이를 발견했다. 이날 정겨울은 주애라가]]></content>
     </entry>
 </feed>
