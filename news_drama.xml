@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-03-20T09:14:01.793Z</updated>
+    <updated>2023-03-20T10:14:06.043Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[송혜교→김건우 '더 글로리' 6人 차기작은? 기대만발 라인업]]></title>
+        <id>https://v.daum.net/v/20230320181547923</id>
+        <link href="https://v.daum.net/v/20230320181547923"/>
+        <updated>2023-03-20T10:13:48.693Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 윤상근 기자] /사진=하퍼스바자 [윤상근 스타뉴스 기자] 넷플릭스 '더 글로리' 주역들의 차기작이 공개됐다. 하퍼스바자 코리아는 20일 '더 글로리'의 주역 6명의 차기작을 예고하고 "나 너무 떨려 연진아,, 너를 또 만날 수 있어서,,#더글로리  동은이, 연진이와 친구들의 차기작을 소개합니다. 드라마가 끝나 아쉬웠던 사람들에게 반가운 소식이네]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['청춘월담' 표예진, 비단옷 입고 대갓집 아가씨 완벽 변신]]></title>
         <id>https://v.daum.net/v/20230320180314590</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230320160001062"/>
         <updated>2023-03-20T07:11:44.308Z</updated>
         <content type="html"><![CDATA[[스타뉴스 이경호 기자] 배우 신예은/사진=김창현 기자 chmt@[이경호 스타뉴스 기자] '더 글로리'의 인기 후광을 톡톡히 보고 있는 신예은이 이번엔 '꽃선비 열애사로 안방극장에 출격한다. '더 글로리'로 인기 몰이 중인 신예은이 안방극장에 출격한다. 이번엔 '꽃선비 열애사'로 월화극 점령에 나선다. 20일 오후 10시 첫 방송되는 SBS 새 월화드]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['판도라' 봉태규가 착할 리 없지…불륜·배신에 본격 흑화]]></title>
-        <id>https://v.daum.net/v/20230320155338827</id>
-        <link href="https://v.daum.net/v/20230320155338827"/>
-        <updated>2023-03-20T07:11:44.308Z</updated>
-        <content type="html"><![CDATA[[OSEN=장우영 기자] 배우 봉태규가 ‘판도라’에서 변화무쌍한 감정 연기로 극을 이끌었다. 봉태규는 지난 18일과 19일 방송된 tvN 토일드라마 ‘판도라 : 조작된 낙원’(크리에이터 김순옥, 극본 현지민, 연출 최영훈, 제작 스튜디오드래곤, 초록뱀미디어)(이하 ‘판도라’) 3, 4회에서 강렬한 연기력으로 다양한 감정을 표현해내며 존재감을 발산했다.]]></content>
     </entry>
 </feed>
