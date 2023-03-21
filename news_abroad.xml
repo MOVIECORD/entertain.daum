@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-03-21T22:09:59.786Z</updated>
+    <updated>2023-03-21T23:11:35.818Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[스키사고 목격자 "기네스 펠트로 뺑소니 맞아" 72세 남성 뇌손상+골절]]></title>
+        <id>https://v.daum.net/v/20230322073421120</id>
+        <link href="https://v.daum.net/v/20230322073421120"/>
+        <updated>2023-03-21T23:11:35.154Z</updated>
+        <content type="html"><![CDATA[[OSEN=최나영 기자] "그는 얼굴을 아래로 향하고 있고, 그 위에 기네스가 있었다!"&nbsp; 뺑소니 의혹 스키 추락 사고의 유일한 목격자가 입을 열었다. 배우 기네스 팰트로(50)가 스키장서 '뺑소니' 사고를 낸 의혹과 관련해&nbsp;30만 달러(한화 약 4억 원)의 손해 배상 소송을 당했한 가운데 목격자가 등장했다. 21일(현지시각) 영국 데일리 메일에&nbsp;따르면]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“11살 때 성적대상화되고 살아남은 내 자신이 놀랍다” 브룩 쉴즈, 눈물 흘려]]></title>
+        <id>https://v.daum.net/v/20230322073256091</id>
+        <link href="https://v.daum.net/v/20230322073256091"/>
+        <updated>2023-03-21T23:11:35.158Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]미국의 유명배우 브룩 쉴즈(57)가 어렸을 때의 끔찍한 경험을 털어 놓았다. 21일(현지시간) 페이지식스에 따르면, 그는 수십 년간 스포트라이트를 받아온 자신의 경력을 탐구하는 2부작 다큐멘터리 ‘프리티 베이비’ 예고편에서 “성인 섹슈얼리티의 세계에 빠져 들었던” 기억을 떠올리며 눈물을 흘렸다. 다큐멘터리를 위해 인터뷰한]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['해리포터' 고블린 은행장 폴 그랜트, 뇌사 판정 3일 만에 사망]]></title>
         <id>https://v.daum.net/v/20230322065130562</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230321172731229"/>
         <updated>2023-03-21T09:12:28.523Z</updated>
         <content type="html"><![CDATA[[TV리포트=이수연 기자] 할리우드 배우 카메론 디아즈가 은퇴 선언 후 4년 만에 복귀할 예정이었으나 무산됐다. 20일(현지 시간) 영국 매체 더선에 따르면 카메론 디아즈의 복귀작으로 알려졌던 넷플릭스 코미디 영화 '백 인 액션(Back In Action)'이 경찰의 조사에 의해 촬영을 중단했다. 영화 관계자 중 한 명이 카메론 디아즈의 상대역 제이미 폭]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[디카프리오가 거절한 영화, ‘스파이더맨’ ‘스타워즈’ ‘매트릭스’]]></title>
-        <id>https://v.daum.net/v/20230321171304794</id>
-        <link href="https://v.daum.net/v/20230321171304794"/>
-        <updated>2023-03-21T08:15:20.411Z</updated>
-        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]할리우드 스타 레오나르도 디카프리오(48)는 ‘레버넌트’로 아카데미 남우주연상을 수상한 최고의 배우 중 한 명이다. 유명 감독들의 수많은 러브콜이 쏟아졌지만, 그는 마음에 들지 않는 작품은 출연하지 않았다. 미국매체 무비웹은 20일(현지시간) 디카프리오가 거절했거나 인연이 닿지 않아 출연하지 못한 영화 베스트 10을 뽑았다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['92세' 루퍼트 머독, 26살 어린 모델 출신 언론인과 약혼]]></title>
-        <id>https://v.daum.net/v/20230321170830650</id>
-        <link href="https://v.daum.net/v/20230321170830650"/>
-        <updated>2023-03-21T08:15:20.412Z</updated>
-        <content type="html"><![CDATA[[TV리포트=박설이 기자]언론 재벌 루퍼트 머독(92)이 모델 출신의 언론인 앤 레슬리 스미스(66)와 약혼을 발표했다. 20일(현지시간) 뉴욕포스트에 따르면 루퍼트 머독은 자신보다 26살 어린 모델 출신의 앤 레슬리 스미스와 9월 정식으로 결혼한다. 머독은 성 패트릭의 날인 지난 3월 17일 스미스에게 다이아몬드 반지를 건네며 청혼한 것으로 알려졌다. 매]]></content>
     </entry>
 </feed>
