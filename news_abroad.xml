@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-03-21T21:10:48.371Z</updated>
+    <updated>2023-03-21T22:09:59.786Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['해리포터' 고블린 은행장 폴 그랜트, 뇌사 판정 3일 만에 사망]]></title>
+        <id>https://v.daum.net/v/20230322065130562</id>
+        <link href="https://v.daum.net/v/20230322065130562"/>
+        <updated>2023-03-21T22:09:59.020Z</updated>
+        <content type="html"><![CDATA[[OSEN=연휘선 기자] 영화 '해리 포터와 마법사의 돌'에 출연했던 배우 폴 그랜트가 사망했다.&nbsp; 20일(현지시간) 영국 매체들은 폴 그랜트가 세상을 떠났다고 밝혔다. 향년 56세. 외신들에 따르면 폴 그랜트는 지난 16일 영국 런던의 킹스 크로스 역에서 쓰러졌다. 그는 인근 병원으로 급하게 이송됐으나, 뇌사 판정을 받았다. 이후 19일 가족들이 생명]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[브루스 윌리스, '치매 진단' 후 첫 생일…아내 "눈물로 하루 시작"]]></title>
+        <id>https://v.daum.net/v/20230322063818435</id>
+        <link href="https://v.daum.net/v/20230322063818435"/>
+        <updated>2023-03-21T22:09:59.021Z</updated>
+        <content type="html"><![CDATA[[머니투데이 류원혜 기자] 치매 판정을 받은 할리우드 배우 브루스 윌리스(67)가 가족들과 함께 행복한 생일을 보냈다. 브루스 윌리스의 아내인 엠마 헤밍 윌리스는 지난 19일(현지시간) 인스타그램에 "오늘은 슬픔을 느끼는 날이다. 그러나 내 남편과 우리 가족을 향한 따뜻함과 사랑을 느낄 수 있어 행운"이라며 "내가 할 수 있는 말은 감사하다는 것뿐"이라고]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['뺨 맞은' 크리스 록 "트럼프가 체포되길 원한다? 멍청한 얘기"]]></title>
         <id>https://v.daum.net/v/20230322051000453</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230321170830650"/>
         <updated>2023-03-21T08:15:20.412Z</updated>
         <content type="html"><![CDATA[[TV리포트=박설이 기자]언론 재벌 루퍼트 머독(92)이 모델 출신의 언론인 앤 레슬리 스미스(66)와 약혼을 발표했다. 20일(현지시간) 뉴욕포스트에 따르면 루퍼트 머독은 자신보다 26살 어린 모델 출신의 앤 레슬리 스미스와 9월 정식으로 결혼한다. 머독은 성 패트릭의 날인 지난 3월 17일 스미스에게 다이아몬드 반지를 건네며 청혼한 것으로 알려졌다. 매]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['지지 하디드 동생' 벨라 하디드, 금주 축하 파티 개최]]></title>
-        <id>https://v.daum.net/v/20230321165530218</id>
-        <link href="https://v.daum.net/v/20230321165530218"/>
-        <updated>2023-03-21T08:15:20.413Z</updated>
-        <content type="html"><![CDATA[[TV리포트=유비취 기자] 모델 벨라 하디드가 '금주 5개월 축하 파티'를 열었다. 지난 19일 벨라 하디드는 소셜네트워크서비스를 통해 '금주 5개월'을 알리면서 라스베이거스에서 연 파티 현장을 공개했다. 알려진 바에 따르면 그는 불안감을 호소하면서 정신 건강을 이유로 절주와 금주를 실천하고 있다. 2022년 1월 벨라 하디드는 술 때문에 자신을 통제할 수]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['겟 아웃' 조던 필 감독, 4번째 영화 2024년 크리스마스 개봉]]></title>
-        <id>https://v.daum.net/v/20230321164812983</id>
-        <link href="https://v.daum.net/v/20230321164812983"/>
-        <updated>2023-03-21T08:15:20.416Z</updated>
-        <content type="html"><![CDATA[[OSEN=김보라 기자]&nbsp;조던 필 감독의 새 영화가 내년 크리스마스 연휴에 맞춰 극장 개봉할 예정이다. 20일(현지 시간) 배급사 유니버설 픽처스 측은 “내년 개봉 일정에 조던 필 감독의 4번째 영화를 추가했다”고 밝혔다. 그동안 유니버설 픽처스는 조던 필 감독의 영화 ‘겟 아웃’(2017) ‘어스’(2019) ‘놉’(2022)의 개봉을 맡아왔다. 또한]]></content>
     </entry>
 </feed>
