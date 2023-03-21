@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-03-21T11:10:45.832Z</updated>
+    <updated>2023-03-21T12:21:25.542Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['길복순' 전도연 "몸 부서지더라도 해내고 싶었던 액션"]]></title>
+        <id>https://v.daum.net/v/20230321204537094</id>
+        <link href="https://v.daum.net/v/20230321204537094"/>
+        <updated>2023-03-21T12:21:01.955Z</updated>
+        <content type="html"><![CDATA[(서울=연합뉴스) 김정진 기자 = "내 몸이 부서지는 한이 있어도 이건 꼭 해내야 한다는 생각이 있었어요." 배우 전도연이 넷플릭스 영화 '길복순'으로 정통 액션에 도전한 소감을 밝혔다. 그는 21일 강남구 삼성동 인터컨티넨탈 파르나스 호텔에서 열린 '길복순' 제작보고회에서 "(액션 연기가) 되게 무섭고 두려웠다"면서도 "해냈을 때의 쾌감도 매우 컸다"고]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['길복순' 전도연, "베를린 국제영화제 참석, 너무나 감동적"]]></title>
         <id>https://v.daum.net/v/20230321182433986</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230321165002028"/>
         <updated>2023-03-21T08:14:59.574Z</updated>
         <content type="html"><![CDATA[(엑스포츠뉴스 윤현지 기자) '길복순' 전도연, 설경구, 구교환이 액션에 임한 소감을 전했다. 21일 오전 그랜드 인터컨티넨탈 파르나스 그랜드볼룸홀에서 넷플릭스 오리지널 영화 '길복순'(감독 변성현)의 제작보고회가 열렸다. 현장에는 배우 전도연, 설경구, 김시아, 이솜, 구교환과 변성현 감독이 참석했다. '길복순'은 청부살인업계의 전설적인 킬러 길복순이 회]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['길복순'과 전도연, 변성현 감독의 측면승부]]></title>
-        <id>https://v.daum.net/v/20230321164152755</id>
-        <link href="https://v.daum.net/v/20230321164152755"/>
-        <updated>2023-03-21T08:14:59.576Z</updated>
-        <content type="html"><![CDATA[(서울=뉴스1) 권현진 기자 = 배우 이솜(왼쪽 위부터 시계방향)과 구교환, 변성현 감독, 김시아, 전도연, 설경구가 21일 서울 강남구 그랜드 인터컨티넨탈 서울 파르나스에서 진행된 넷플릭스 오리지널 영화 '길복순' 제작보고회에서 인사를 하고 있다. '길복순'은 청부살인 업계의 전설적인 킬러 길복순(전도연 분)이 회사와 재계약 직전, 죽거나 또]]></content>
     </entry>
 </feed>
