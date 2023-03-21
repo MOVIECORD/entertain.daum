@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/variety</id>
     <title>다음 연예 ─ 뉴스 ─ 예능</title>
-    <updated>2023-03-21T18:14:30.825Z</updated>
+    <updated>2023-03-21T19:09:48.417Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[용인일가족 살인 피해자, 최초 심경고백한다]]></title>
+        <id>https://v.daum.net/v/20230322040826844</id>
+        <link href="https://v.daum.net/v/20230322040826844"/>
+        <updated>2023-03-21T19:09:36.737Z</updated>
+        <content type="html"><![CDATA[[OSEN=김수형 기자] ‘진격의 언니들’에서 박미선이 예고편에서 눈물을 흘리는 모습을 공개, 특히&nbsp;용인 일가족 살해사건의 피해자가 방송에서 최초로 당시 증언을 생생하게 고백할 것이라 전해졌다.&nbsp; 21일 방송된 채널 S ‘진격의 언니들’의 예고편이 그려졌다.&nbsp; 이날 예고편에선 유명 BJ 안솜이이 출연, 성인방송 BJ가 됐다는 고민과 함께 형사소송까지 진]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[한채아 "배우 데뷔 당시 프로필 나이 속였다"]]></title>
         <id>https://v.daum.net/v/20230322011002178</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230321235003715"/>
         <updated>2023-03-21T15:10:59.900Z</updated>
         <content type="html"><![CDATA[(엑스포츠뉴스 이예진 기자) 배우 방은희가 2번의 이혼에 대해 언급했다. 21일 방송된 KBS 2TV 예능 프로그램 '박원숙의 같이 삽시다'(이하 '같이 삽시다')에서는 방은희가 자매들(박원숙·혜은이·안소영·안문숙)을 찾아와 다양한 이야기를 나눴다. 이날 박원숙은 방은희에게 "그 사이에 훈장을 두 개나 달았냐"라며 두 번의 이혼에 대해 이야기했다. 이에 방]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[특제 소스 돈카츠, 오므라이스, 나폴리탄… 일본풍 양식의 매력]]></title>
-        <id>https://v.daum.net/v/20230321234453672</id>
-        <link href="https://v.daum.net/v/20230321234453672"/>
-        <updated>2023-03-21T15:10:59.901Z</updated>
-        <content type="html"><![CDATA[대통령만 먹나. 지난 16일 일본 도쿄(東京)에서 윤석열 대통령이 갔던 식당 렌가테이(煉瓦亭) 돈카츠 얘기다. 대한민국 서울에도 못지않은 맛집이 있으니, 이름도 맛있는 로얄싸롱(Royal Saloon). 일본식 양식, 즉 요쇼쿠(洋食) 메뉴는 렌가테이가 원조격이라지만, 로얄싸롱은 기본에 충실하면서도 자기만의 특제 소스 등을 더해 특유의 풍미와 매력을 갖췄다]]></content>
     </entry>
 </feed>
