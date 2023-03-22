@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-03-22T22:09:34.268Z</updated>
+    <updated>2023-03-22T23:09:46.891Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[닉 라세이, 파파라치와 싸움 후 "분노조절-알코올 중독 치료 중"]]></title>
+        <id>https://v.daum.net/v/20230323075100734</id>
+        <link href="https://v.daum.net/v/20230323075100734"/>
+        <updated>2023-03-22T23:09:46.285Z</updated>
+        <content type="html"><![CDATA[[TV리포트=유비취 기자] 가수 겸 배우 닉 라세이가 지난해 파파라치와 싸움을 벌인 후 정신 문제를 극복하고 있다고 근황을 전했다. 21일(현지 시간) 미국 피플지는 닉 라세이(49)가 분노 조절 관리와 알코올 중독 치료에 전념하고 있다고 보도했다. 닉 라세이는 2022년 파파라치와 난동을 일으킨 이후 기소 당하는 대신 해당 프로그램에 참여하고 있는 것으로]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘머니볼’ 작가 “뇌졸중으로 죽을뻔했다, 담배 끊고 매일 운동중”]]></title>
+        <id>https://v.daum.net/v/20230323073433528</id>
+        <link href="https://v.daum.net/v/20230323073433528"/>
+        <updated>2023-03-22T23:09:46.289Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]‘소셜 네트워크’ ‘머니볼’의 작가 아론 소킨(61)이 지난해 11월 뇌졸종으로 죽을 고비를 넘겼다고 밝혔다. 그는 22일(현지시간) 뉴욕타임스와 인터뷰에서 “의사는 내가 혈압이 너무 높아서 죽을 수 있다고 했다”고 운을 뗐다. 이어 “나는 원하는 무엇이든 먹을 수 있고, 원하는 만큼 담배를 피울 수 있는 사람 중 하나라고]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[톰 크루즈 "사이언톨로지 때문에 이혼, 딸 수리와 멀어졌다" 인정]]></title>
         <id>https://v.daum.net/v/20230323065221971</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230322195630888"/>
         <updated>2023-03-22T11:10:09.846Z</updated>
         <content type="html"><![CDATA[[TV리포트=이예은 기자] 브라질 싱어송라이터이자 인플루언서 MC 피포킨하(21)가 콘서트 도중 갑자기 무대에 올라온 팬과 수위 높은 스킨십을 선보여 관객을 충격에 빠뜨렸다.&nbsp; 13일(현지 시간) 외신 매체 말카는 MC 피포킨하가 콘서트에서 공연을 하는데 한 여성 팬이 난데없이 무대 위로 난입했다고 보도했다.&nbsp; 보도에 따르면 MC 피포킨하와 여성 팬은 갑자]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[카메론 디아즈, 재은퇴 "영원히"..男배우 촬영장서 급발진 영향?]]></title>
-        <id>https://v.daum.net/v/20230322184014120</id>
-        <link href="https://v.daum.net/v/20230322184014120"/>
-        <updated>2023-03-22T10:12:51.430Z</updated>
-        <content type="html"><![CDATA[[OSEN=최나영 기자] 배우 카메론 디아즈가 연기를 다시 그만둔다. 카메론 디아즈는 더 이상 '다시 활동'하지 않을 것이라고 페이지식스가 21일(현지시간) 전했다. 보도에 따르면 3살 된 딸 래딕스의 엄마인 디아즈는&nbsp;배우&nbsp;제이미 폭스와 함께 주연을 맡고 세스 고든이 메가폰을 잡은&nbsp;넷플릭스 코미디 영화 '백 인 액션(Back in Action)'을 마무]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[59살 브래드 피트♥30살 돌싱 보석상, “둘 다 이혼으로 공감대 형성”]]></title>
-        <id>https://v.daum.net/v/20230322180706229</id>
-        <link href="https://v.daum.net/v/20230322180706229"/>
-        <updated>2023-03-22T09:11:58.250Z</updated>
-        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]할리우드 스타 브래드 피트(59)와 스위스 보석 브랜드 아니타 코의 부사장 이네스 드 라몬(30)이 둘 다 이혼의 아픔을 겪으며 공감대를 넓혀가고 있다. 이들은 지난해 LA에서 열린 영화 ‘바빌론’ 프리미어 시사회에서 데이트를 즐겼다. 소식통은 “커플은 손님들과 어울리고, 때때로 그들의 팔을 서로 껴안았다”고 전했다. 또한]]></content>
     </entry>
 </feed>
