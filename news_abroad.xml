@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-03-22T03:12:16.610Z</updated>
+    <updated>2023-03-22T04:13:51.575Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[바바라 팔빈, 결혼한다..5년 열애 남친과 약혼]]></title>
+        <id>https://v.daum.net/v/20230322124329935</id>
+        <link href="https://v.daum.net/v/20230322124329935"/>
+        <updated>2023-03-22T04:13:50.809Z</updated>
+        <content type="html"><![CDATA[[OSEN=선미경 기자] 모델 바바라 팔빈이 남자친구인 배우 딜런 스프라우스와 결혼을 약속했다. 21일(현지시각) 외신 보도에 따르면 바바라 팔빈과 딜런 스프라우스는 최근 약혼했다. 이들은 지인들에게 약혼 반지를 보여주며 기쁨을 나누고 있는 것으로 전해졌다. 관계자는 매체를 통해 “두 사람은 항상 서로를 사랑하고 서로의 곁을 지키지만 평소보다 훨씬 더]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[톰 크루즈, 왕래 끊은 딸 수리 대학 학비 댄다]]></title>
         <id>https://v.daum.net/v/20230322120246135</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230321210617376"/>
         <updated>2023-03-21T12:21:24.755Z</updated>
         <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]모두 12명의 아이를 낳은 미국판 ‘복면가왕’의 진행자인 닉 캐논(42)이 전 부인 머라이어 캐리(53)에 대한 사랑을 전했다. 그는 20일(현지시간) ‘더 셰이드 룸’과 인터뷰에서 “머라이어 캐리는 내 인생의 사랑”이라고 밝혔다. 이어 “나는 12살 때 머라이어 캐리 사진을 벽에 걸었는데, 결국 내 아내가 되었다. 그리고]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["뇌손상+갈비뼈 4개 골절" 기네스 팰트로, '스키장 뺑소니 혐의'로 법정 선다]]></title>
-        <id>https://v.daum.net/v/20230321204121056</id>
-        <link href="https://v.daum.net/v/20230321204121056"/>
-        <updated>2023-03-21T12:21:24.757Z</updated>
-        <content type="html"><![CDATA[[스포츠조선 안소윤 기자] 할리우드 배우 기네스 팰트로(50)가 스키장에서 뺑소니 사고를 내 거액의 손해 배상 소송을 당했다. 20일(현지시간) 영국 매체 데일리 익스프레스 등 외신 보도에 따르면 기네스 팰트로는 지난 2016년 유타 주에서 발생한 스키장 사고에 대한 재판에서 자신의 입장을 밝힐 예정이다. 보도에 따르면 당시 사고 피해자인]]></content>
     </entry>
 </feed>
