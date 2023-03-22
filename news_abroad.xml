@@ -2,11 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-03-21T23:11:35.818Z</updated>
+    <updated>2023-03-22T00:54:24.382Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[스키사고 목격자 "기네스 펠트로 뺑소니 맞아" 72세 남성 뇌손상+골절]]></title>
+        <title type="html"><![CDATA[“기네스 펠트로, 통제불능 상태로 스키타다 추돌사고낸 뒤 뺑소니” 4억 소송당해]]></title>
+        <id>https://v.daum.net/v/20230322093737401</id>
+        <link href="https://v.daum.net/v/20230322093737401"/>
+        <updated>2023-03-22T00:54:23.488Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]‘어벤져스’ 기네스 펠트로(50)가 스키를 타다 추돌사고를 일으킨 뒤 뺑소니를 했다는 혐의로 30만 달러(약 4억)의 손해배상 소송을 당했다. 21일(현지시간) 연예매체 피플에 따르면, 펠트로는 2019년 1월 은퇴한 안과의사 테리 샌더슨(72)이 자신을 상대로 제기한 소송에 대한 민사 재판에 8일 동안 진행될 예정인 파크]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[스키사고 목격자 "기네스 팰트로 뺑소니 맞아" 72세 남성 뇌손상+골절]]></title>
         <id>https://v.daum.net/v/20230322073421120</id>
         <link href="https://v.daum.net/v/20230322073421120"/>
         <updated>2023-03-21T23:11:35.154Z</updated>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230321173316428"/>
         <updated>2023-03-21T09:12:28.523Z</updated>
         <content type="html"><![CDATA[(엑스포츠뉴스 이창규 기자) 할리우드 배우 크리스티나 리치가 과거 부당한 대우를 받았다고 털어놨다. 크리스티나 리치는 지난 16일(현지시간) ABC 채널의 토크쇼 '더 뷰'(The View)에 드라마 '옐로우재킷' 시즌2 홍보를 위해 출연했다. 이날 리치는 촬영장에서 주요 배역들의 아역을 연기하는 젊은 여배우들이 촬영장에서 더 많은 목소리를 내고 자신들을]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[카메론 디아즈, 9년 만 복귀 무산...은퇴 입장 고수하나]]></title>
-        <id>https://v.daum.net/v/20230321172731229</id>
-        <link href="https://v.daum.net/v/20230321172731229"/>
-        <updated>2023-03-21T09:12:28.523Z</updated>
-        <content type="html"><![CDATA[[TV리포트=이수연 기자] 할리우드 배우 카메론 디아즈가 은퇴 선언 후 4년 만에 복귀할 예정이었으나 무산됐다. 20일(현지 시간) 영국 매체 더선에 따르면 카메론 디아즈의 복귀작으로 알려졌던 넷플릭스 코미디 영화 '백 인 액션(Back In Action)'이 경찰의 조사에 의해 촬영을 중단했다. 영화 관계자 중 한 명이 카메론 디아즈의 상대역 제이미 폭]]></content>
     </entry>
 </feed>
