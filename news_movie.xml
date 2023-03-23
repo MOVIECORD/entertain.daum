@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-03-23T09:11:53.266Z</updated>
+    <updated>2023-03-23T10:13:56.182Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘웅남이’로 꿈 이룬 박성광 “혹평도 감사하죠”]]></title>
+        <id>https://v.daum.net/v/20230323190702122</id>
+        <link href="https://v.daum.net/v/20230323190702122"/>
+        <updated>2023-03-23T10:13:33.472Z</updated>
+        <content type="html"><![CDATA[코미디언 박성광은 지난해 두 가지 자아로 살았다. KBS2 ‘개승자’에서 어수룩한 연기를 하다가도 다음날이면 배우와 스태프 수십 명 앞에서 “오케이, 액션!”을 외쳤다. 배우들 역시 희극 무대에서 연기하는 감독 모습이 퍽 이질적이었단다. 무엇이 진짜 ‘나’인지 고민하며 달린 지 반년. 인고의 시간 끝에 박성광은 첫 상업 장편 영화 ‘웅남이’로 감독 신고]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['에어 조던'이 이렇게 탄생하게 됐다고?]]></title>
         <id>https://v.daum.net/v/20230323175106312</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230323140802182"/>
         <updated>2023-03-23T05:10:53.244Z</updated>
         <content type="html"><![CDATA[[뉴스엔 배효주 기자] 개그맨 박성광의 장편 상업영화 데뷔작 '웅남이'가 개봉 첫날 동시기 개봉작 및 한국영화 박스오피스 1위를 차지했다. 영화 '웅남이'(감독 박성광)는 인간을 초월하는 짐승 같은 능력으로 국제 범죄 조직에 맞서는 ‘웅남이’의 좌충우돌 코미디로, 개봉 첫날인 3월 22일 3만1,559명의 관객을 동원하며 한국영화 박스오피스 1위에 올랐다]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['인어공주' 할리 베일리 "수중촬영만 13시간 했다"]]></title>
-        <id>https://v.daum.net/v/20230323134131974</id>
-        <link href="https://v.daum.net/v/20230323134131974"/>
-        <updated>2023-03-23T05:10:53.245Z</updated>
-        <content type="html"><![CDATA[[TV리포트=이예은 기자] 오는 5월 개봉을 앞둔 영화 '인어공주'의 주인공 에리엘을 연기한 할리 베일리가 촬영 비하인드를 전했다. 22일(현지 시간) 외신 매체 버라이어티에 따르면, 할리 베일리는 최근 잡지 프로필 인터뷰를 통해 "이번 영화에서 에리엘은 그저 남자 하나만을 바라보고 바다를 떠나지 않는다. 그녀를 다른 관점으로 해석하는 영화이기 때문에 더]]></content>
     </entry>
 </feed>
