@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-03-23T10:13:56.182Z</updated>
+    <updated>2023-03-23T11:10:38.743Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['흑인 인어공주' 할리 베일리 "유색인종 소녀들 반응에 눈물"]]></title>
+        <id>https://v.daum.net/v/20230323193057594</id>
+        <link href="https://v.daum.net/v/20230323193057594"/>
+        <updated>2023-03-23T11:10:16.088Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 윤현지 기자) 실사판 '인어공주' 주인공을 맡은 가수 겸 배우 할리 베일리가 심경을 밝혔다. 지난 20일(현지시간) 할리 베일리는 '흑인 인어공주'를 둘러싼 논란에 대한 심경을 밝혔다. 흑인 배우인 베일리가 원작에서는 백인으로 설정된 주인공 역할을 맡게 되자 일각에서는 인어공주가 덴마크 동화라는 점을 근거로 흑인 주인공을 반대한다는 여론이 들]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘웅남이’로 꿈 이룬 박성광 “혹평도 감사하죠”]]></title>
         <id>https://v.daum.net/v/20230323190702122</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230323143001190"/>
         <updated>2023-03-23T06:14:14.319Z</updated>
         <content type="html"><![CDATA[[스포츠조선 조지영 기자] 코미디 휴먼 영화 '웅남이'(박성광 감독, 영화사 김치·스튜디오 타겟 제작)가 개봉 첫날 한국 영화, 동시기 개봉작 박스오피스는 물론, 좌석점유율까지 1위에 오르며 극장가에 새로운 활력을 불어 넣고 있다. '웅남이'가 개봉 즉시 한국 영화 박스오피스 1위에 등극하며 흥행 질주에 시동을 걸었다. 영화진흥위원회 영화관입]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[평론가 혹평 받은 ‘웅남이’ 성적은‥개봉일 한국영화 박스오피스 1위]]></title>
-        <id>https://v.daum.net/v/20230323140802182</id>
-        <link href="https://v.daum.net/v/20230323140802182"/>
-        <updated>2023-03-23T05:10:53.244Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 배효주 기자] 개그맨 박성광의 장편 상업영화 데뷔작 '웅남이'가 개봉 첫날 동시기 개봉작 및 한국영화 박스오피스 1위를 차지했다. 영화 '웅남이'(감독 박성광)는 인간을 초월하는 짐승 같은 능력으로 국제 범죄 조직에 맞서는 ‘웅남이’의 좌충우돌 코미디로, 개봉 첫날인 3월 22일 3만1,559명의 관객을 동원하며 한국영화 박스오피스 1위에 올랐다]]></content>
     </entry>
 </feed>
