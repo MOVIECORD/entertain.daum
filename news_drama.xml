@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-03-24T09:11:52.461Z</updated>
+    <updated>2023-03-24T10:12:45.740Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['내 눈에 콩깍지' 정수환 "종영하니 만감 교차..과분한 보상"]]></title>
+        <id>https://v.daum.net/v/20230324184115825</id>
+        <link href="https://v.daum.net/v/20230324184115825"/>
+        <updated>2023-03-24T10:12:31.777Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 안윤지 기자] /사진제공=KBS 1TV '내 눈에 콩깍지'[안윤지 스타뉴스 기자] 배우 정수환이 '내 눈에 콩깍지' 종영 소감을 밝혔다. 24일 정수환은 이날 KBS 1TV 일일 드라마 '내 눈에 콩깍지'(극본 나승현, 연출 고영탁) 종영을 앞두고 소속사 윌엔터테인먼트를 통해 일문일답 인터뷰를 전했다. 그는 극 중 이재(김승욱 분)와 윤희(경숙]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['내 눈에 콩깍지' 정수환 "좋은 분위기, 덕분에 성장할 수 있었다"]]></title>
         <id>https://v.daum.net/v/20230324180712222</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230324155019278"/>
         <updated>2023-03-24T07:10:21.613Z</updated>
         <content type="html"><![CDATA[[서울경제] 배우 정성일이 넷플릭스 오리지널 시리즈 ‘더 글로리’ 인기로 인해 달라진 주변의 관심에 대해 이야기했다. 24일 서울 종로구의 한 카페에서 ‘더 글로리’(극본 김은숙/연출 안길호) 하도영 역의 정성일 인터뷰가 진행됐다. 하도영은 유년 시절 학교 폭력(학폭)으로 문동은(송혜교)의 인생을 망가뜨린 박연진(임지연)의 남편이다. 한 치의 흐트러짐 없]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이채영X이선호, 충격적인 과거 서사 "심상치 않은 분위기"]]></title>
-        <id>https://v.daum.net/v/20230324154801206</id>
-        <link href="https://v.daum.net/v/20230324154801206"/>
-        <updated>2023-03-24T07:10:21.615Z</updated>
-        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]‘비밀의 여자’의 이채영과 이선호의 충격적인 과거 서사가 밝혀진다. 24일(오늘) 저녁 7시 50분에 방송되는 KBS 2TV 일일드라마 ‘비밀의 여자’(연출 신창석 / 극본 이정대 / 제작 셀트리온 엔터테인먼트) 9회에서는 주애라(이채영 분)와 서태양(이선호 분)의 과거 인연이 공개된다. 앞선 방송에서 과거 한 노모의 아들을]]></content>
     </entry>
 </feed>
