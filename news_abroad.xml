@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-03-24T21:10:13.852Z</updated>
+    <updated>2023-03-24T22:11:01.210Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['트와일라잇' 테일러 로트너, 아내와 동반 타투 공개...사랑꾼이네]]></title>
+        <id>https://v.daum.net/v/20230325061000605</id>
+        <link href="https://v.daum.net/v/20230325061000605"/>
+        <updated>2023-03-24T22:11:00.492Z</updated>
+        <content type="html"><![CDATA[[TV리포트=유비취 기자] 영화 '트와일라잇' 시리즈로 인기를 끌었던 배우 테일러 로트너는 아내와 함께 타투까지 하는 '사랑꾼'이었다. 지난 22일 테일러 로트너(31)는 자신의 소셜네트워크서비스를 통해 아내 테일러 돔(26)과 같은 타투를 새기는 영상을 공개했다. 부부는 팔뚝에 '11.11.22'를 새겨 그들의 결혼기념일을 영원히 남겼다. 아내 테일러 돔]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['캡틴 마블' 브리라슨 "마블 합류, 너무 유명해질까 두려웠다"]]></title>
         <id>https://v.daum.net/v/20230325051630191</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230324160430802"/>
         <updated>2023-03-24T07:10:34.727Z</updated>
         <content type="html"><![CDATA[[TV리포트=이수연 기자] 모델 겸 배우 카다시안 가족이 미국 대규모 패션 행사 '멧 갈라'에 참석할 수 있을지 이목이 집중되고 있다. 23일(현지 시간) 영국 매체 미러에 따르면 킴 카다시안 일가족이 올해 '멧 갈라(Met Gala)'에 출석 금지 통보를 받았다는 소문에 "당황스럽다"는 입장을 밝혔다. 앞서 3월 초 보그 편집자 안나 원투어는 '멧 갈]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['더 배트맨' 콜린 파렐, 5년 만난 애인과 결별..."바쁜 일정 탓"]]></title>
-        <id>https://v.daum.net/v/20230324154838224</id>
-        <link href="https://v.daum.net/v/20230324154838224"/>
-        <updated>2023-03-24T07:10:34.733Z</updated>
-        <content type="html"><![CDATA[[TV리포트=유비취 기자] 할리우드 배우 콜린 파렐이 결별 소식을 전했다. 23일(현지 시간) 연예매체 더 선은 콜린 파렐이 바쁜 스케줄로 인해 여자친구 켈리 맥나마라와 5년의 연애를 끝냈다고 보도했다. 내부 관계자에 따르면 콜린 파렐이 영화 '이니셰린의 밴시'를 촬영하면서 여자친구와 이별한 것으로 알려졌다. 관계자는 "콜린 파렐은 '더 배트맨'에서 펭귄]]></content>
     </entry>
 </feed>
