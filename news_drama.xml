@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-03-25T09:11:21.247Z</updated>
+    <updated>2023-03-25T10:11:10.447Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[한혜진, 노부부 앞 고개 숙였다…얼굴에 드리워진 그늘]]></title>
+        <id>https://v.daum.net/v/20230325185609856</id>
+        <link href="https://v.daum.net/v/20230325185609856"/>
+        <updated>2023-03-25T10:10:56.536Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 이예진 기자) 한혜진이 의뢰인 가족을 찾아 병원으로 향한다. 25일 방송되는 JTBC 토일드라마 ‘신성한, 이혼’ 7회에서는 신성한(조승우 분) 사무실에서 상담실장으로 재직 중인 이서진(한혜진) 앞에 근심 가득한 사건이 벌어질 예정이다. 라디오 DJ 출신 이서진은 전 국민이 다 아는 동영상 스캔들을 겪고 남편과 이혼했다. 다행히 양육권을 얻어]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김다솜 "'꼭두의 계절' 8개월, 기억에 남을 것"]]></title>
         <id>https://v.daum.net/v/20230325180326405</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230325134356730"/>
         <updated>2023-03-25T05:10:36.408Z</updated>
         <content type="html"><![CDATA[[OSEN=강서정 기자] 한혜진이 의뢰인 가족을 찾아 병원으로 향한다. JTBC&nbsp;토일드라마&nbsp;‘신성한,&nbsp;이혼(극본 유영아, 연출 이재훈)’ 7회에서는 신성한(조승우 분)&nbsp;사무실에서 상담실장으로 재직 중인 이서진(한혜진 분)&nbsp;앞에 근심 가득한 사건이 벌어질 예정이다. 라디오&nbsp;DJ&nbsp;출신 이서진은 전 국민이 다 아는 동영상 스캔들을 겪고 남편과 이혼했다.&nbsp;다행]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이 BL드라마가 담은 다양한 삶과 사랑에 대한 지지]]></title>
-        <id>https://v.daum.net/v/20230325134250726</id>
-        <link href="https://v.daum.net/v/20230325134250726"/>
-        <updated>2023-03-25T05:10:36.409Z</updated>
-        <content type="html"><![CDATA[[엔터미디어=정덕현] "아무 거나 주세요. 다 똑같아 보이는데." 자신이 묵고 있던 펜션에서 사장님이 아끼는 그릇을 실수로 깬 원영(공찬)은 그릇을 사기 위해 찾아간 태준(차서원)의 가게에서 그렇게 말한다. 원영의 눈에는 그 가게 있는 도자기 그릇들이 다 거기서 거기로 보인 모양이다. 하지만 그런 원영의 말에 태준이 다가와 그릇들 하나하나를 가리켜가며 이야]]></content>
     </entry>
 </feed>
