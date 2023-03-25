@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-03-25T10:11:10.442Z</updated>
+    <updated>2023-03-25T11:09:31.805Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“전 남친의 아내를 향한 증오를 멈춰주세요” 셀레나 고메즈의 호소]]></title>
+        <id>https://v.daum.net/v/20230325192230102</id>
+        <link href="https://v.daum.net/v/20230325192230102"/>
+        <updated>2023-03-25T11:09:30.967Z</updated>
+        <content type="html"><![CDATA[[TV리포트=이혜미 기자] 가수 겸 배우 셀레나 고메즈가 전 연인의 아내를 위해 나섰다. 무슨 사연일까. 고메즈는 24일(현지시간) 자신의 계인 계정을 통해 저스틴 비버의 아내 헤일리 비버를 향한 위협을 멈춰 달라고 호소했다. 그는 “헤일리가 내게 연락해 살해 협박을 비롯해 증오에 찬 메시지를 받고 있음을 알려줬다”면서 “누구도 혐오와 괴롭힘을 경험해선 안]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[리즈 위더스푼, 두 번째 이혼... 12년 결혼생활 종지부]]></title>
         <id>https://v.daum.net/v/20230325181800505</id>
@@ -95,19 +102,5 @@
         <link href="https://v.daum.net/v/20230325011100498"/>
         <updated>2023-03-24T16:15:22.620Z</updated>
         <content type="html"><![CDATA[[TV리포트=이예은 기자] 넷플릭스 시리즈 '기묘한 이야기'의 맥스 역으로 단숨에 스타덤에 오른 배우 세이디 싱크가 오스카 수상작 영화 '더 웨일'에도 나온다.&nbsp; 영화 '더 웨일'은 272kg의 거구로 세상을 거부한 채 살아가는 대학 강사 찰스가 9년 만에 만난 10대 딸 엘리와 함께 쓰는 마지막 에세이를 담은 작품이다.&nbsp;세이디 싱크는 아빠에게 버림받아 상]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['결혼 4번' 주드 로, 전 아내끼리 친목 모임...다정한 셀카 공개]]></title>
-        <id>https://v.daum.net/v/20230324194930826</id>
-        <link href="https://v.daum.net/v/20230324194930826"/>
-        <updated>2023-03-24T11:10:06.061Z</updated>
-        <content type="html"><![CDATA[[TV리포트=이수연 기자] 할리우드 배우 주드 로의 전 아내들이 뭉쳤다. 배우 새디 프로스트는 23일 자신의 소셜네트워크서비스에 동료 배우 시에나 밀러와 함께한 사진을 공개했다. 두 배우의 공통점은 모두 주드 로의 전 아내라는 것. 같은 전 남편을 두고 있음에도 어색한 기색 없이 오히려 친해 보이는 두 사람이 함께 찍은 사진에 네티즌의 반응이 뜨겁다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['애 둘 엄마' 리한나 집에 침입한 괴한 "프러포즈 하려고 했다"]]></title>
-        <id>https://v.daum.net/v/20230324193100554</id>
-        <link href="https://v.daum.net/v/20230324193100554"/>
-        <updated>2023-03-24T11:10:06.061Z</updated>
-        <content type="html"><![CDATA[[TV리포트=이예은 기자] 팝 가수 겸 배우 리한나가 자신의 집에 침입한 괴한에게 프러포즈를 받았다는 소식이 전해졌다. 24일(현지 시간) 외신 매체 메일 온라인에 따르면, 지난 23일(현지 시간) 미국 LA에 위치한 리한나의 저택에 정체불명의 괴한이 등장했다.&nbsp;신원 미상의 남자는 리한나에게 프러포즈를 하기 위해 저택에 침입한 것으로 알려졌다. 빨간색]]></content>
     </entry>
 </feed>
