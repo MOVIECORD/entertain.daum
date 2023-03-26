@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2023-03-26T16:13:46.738Z</updated>
+    <updated>2023-03-26T17:09:51.567Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['런닝맨' 캠핑 레이스, 텐트치기에 '진땀'…'새삥'→'러브 다이브', 해외 팬미팅 무대 '선공개']]></title>
+        <id>https://v.daum.net/v/20230327015100109</id>
+        <link href="https://v.daum.net/v/20230327015100109"/>
+        <updated>2023-03-26T17:09:45.614Z</updated>
+        <content type="html"><![CDATA[[SBS연예뉴스 | 김효정 에디터] 런닝맨의 순천 캠핑은 무사히 마무리될까? 26일 방송된 SBS '런닝맨'에서는 순천 딱지치기 캠핑 레이스가 펼쳐졌다. 이날 멤버들은 캠핑 음식을 걸고 미션을 펼쳤다. 그 결과 삼겹살과 토마호크, 모둠 조개술찜을 만들어야 하는 것. 그리고 멤버들은 시장팀과 텐트팀으로 일을 분담해 진행했다. 이에 멤버들은 지난 패떴 레이스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[노들섬서 4월 15∼16일 감성 가수들 공연 외]]></title>
         <id>https://v.daum.net/v/20230327010108964</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230326233125564"/>
         <updated>2023-03-26T15:10:29.268Z</updated>
         <content type="html"><![CDATA[[OSEN=최지연 기자] 배우 김건우가 차주영에게 마음을 고백했다.&nbsp; 26일, 김건우는&nbsp;“퍼스트 클래스 태워준다고 혜정아”라는 글과 함께 여러 장의 사진을 공유했다. 사진 속 김건우와 차주영은 함께 장난스러운 미소를 띄고 있어 눈길을 끌었다.&nbsp; 이는 앞서 공개된 화보 촬영 중 쉬는 시간으로 보인다. 김건우가 적은 '퍼스트 클래스 태워준다고 혜정아'는 최]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['미우새' 이상민 "빚 곧 청산, 저작권 사후 상속도 가능"]]></title>
-        <id>https://v.daum.net/v/20230326232806555</id>
-        <link href="https://v.daum.net/v/20230326232806555"/>
-        <updated>2023-03-26T15:10:29.269Z</updated>
-        <content type="html"><![CDATA[[티브이데일리 황서연 기자] 가수 이상민이 소개팅에서 빚을 거의 다 갚았다고 털어놨다. 26일 밤 방송한 SBS 예능프로그램 '미운 우리 새끼'(이하 '미우새')에서는 이상민이 김준호의 주선으로 소개팅에 나서는 모습이 그려졌다. 이날 김준호는 김민경의 지인인 김유리 씨를 이상민에게 소개 시켜줬다. 제대로 소개팅을 해본 적이 한 번도 없다는 이상민은 어색하게]]></content>
     </entry>
 </feed>

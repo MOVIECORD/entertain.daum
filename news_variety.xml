@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/variety</id>
     <title>다음 연예 ─ 뉴스 ─ 예능</title>
-    <updated>2023-03-26T16:13:46.735Z</updated>
+    <updated>2023-03-26T17:09:51.564Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[파이터 박형근 "밖에선 절대 안 싸워, 도망간 적도…"]]></title>
+        <id>https://v.daum.net/v/20230327020103113</id>
+        <link href="https://v.daum.net/v/20230327020103113"/>
+        <updated>2023-03-26T17:09:39.876Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 박윤진 기자] 채널S 고민상담 토크쇼 ‘진격의 언니들-고민커트살롱’에 로드FC 종합격투기선수 박형근이 출연한다. 박형근은 최근 진행된 녹화에서 “파이터로서 남다른 승부욕 때문에 고민이다”라는 고민을 털어놨다. 친구들과 놀던 중에도 들끓는 승부욕으로 친구들을 당황시킨다는 박형근에게 박미선은 “길거리나 술자리에서 싸움이 붙을 수 있을 것 같]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김민경, 손흥민 닮은 男과 소개팅…"센스있고 몸도 상당히 좋아"]]></title>
         <id>https://v.daum.net/v/20230327010005958</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230326232302535"/>
         <updated>2023-03-26T15:10:23.900Z</updated>
         <content type="html"><![CDATA[[텐아시아=신지원 기자]'물 건너온 아빠들' 영국 아빠 피터가 런던 명문대 투어에 나섰다. 26일 오후 방송된 MBC 예능프로그램 '물 건너온 아빠들'에서는 영국 아빠 피터가 아이들과 명문대 투어를 하는 모습이 담겼다. 이날 피터는 자신의 모교 킹스칼리지런던과 그 옆 라이벌 대학교인 LSE(런전정치경제대학교)를 아이들에게 보여줬다. 이어 그는 "우리 LS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["치욕스럽다" 주우재, 연인과 '작업실' 의심→진땀흘려]]></title>
-        <id>https://v.daum.net/v/20230326232105532</id>
-        <link href="https://v.daum.net/v/20230326232105532"/>
-        <updated>2023-03-26T15:10:23.901Z</updated>
-        <content type="html"><![CDATA[[OSEN=김수형 기자] '미우새'에서 주우재가 출연, 주우재가 화제가 된 키,&nbsp;몸무게부터 반자취에 대해 언급했다.&nbsp; 26일 방송된 SBS '미운 우리새끼(미우새)'에서 주우재가 출연했다.&nbsp; 이날 스페셜MC로 주우재가 등장, 모델 워킹으로 비주얼을 뽐냈다.&nbsp; 특히&nbsp;키가 188cm에 57kg란 소문에&nbsp;주우재는 "몸무게 60kg 중후반 57kg는 아니다"며]]></content>
     </entry>
 </feed>
