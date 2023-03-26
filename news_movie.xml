@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-03-26T08:14:05.488Z</updated>
+    <updated>2023-03-26T09:10:34.458Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[제인 폰다 "제니퍼 로페즈, 반지 낀 채로 뺨 때려…사과한 적 없다"]]></title>
+        <id>https://v.daum.net/v/20230326175023168</id>
+        <link href="https://v.daum.net/v/20230326175023168"/>
+        <updated>2023-03-26T09:10:12.061Z</updated>
+        <content type="html"><![CDATA[[OSEN=김보라 기자]&nbsp;배우 제인 폰다가 제니퍼 로페즈와의 촬영 뒷이야기를 전했다. 지난 24일(현지 시간) 제인 폰다는 ‘드류 베리모어 쇼’(The Drew Barrymore Show)에 출연해 “제니퍼 로페즈와 뺨을 때리는 장면을 찍고 나서 눈 위에 상처가 생겼다”고 밝혔다. 제니퍼 로페즈와 제인 폰다는 2005년 개봉한 영화 ‘퍼펙트 웨딩’(감독]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[아카데미 당나귀 학대 논란, 동물권을 바라보는 할리우드의 이중성]]></title>
         <id>https://v.daum.net/v/20230326163221964</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230326090003704"/>
         <updated>2023-03-26T00:59:20.922Z</updated>
         <content type="html"><![CDATA[영상 콘텐츠에는 짧은 장면일지라도 그 안에 의미심장한 장치가 보석처럼 숨어 있습니다. 의도한 것이든, 의도하지 않은 것이든 이런 재미를 찾아보는 것이 바로 영상 콘텐츠의 매력입니다. 1초 만에 지나간 그 장면 속 의미를 짚어보고 깊이 있게 맛볼 수 있도록 ‘1초의 미장센’을 소개합니다. “똑같이 그리다보면 그 사람이 아니라 내 마음이 보여.” 영화 ‘]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[톰 크루즈, 종교 탓 딸 수리와 10년간 단절 外]]></title>
-        <id>https://v.daum.net/v/20230326090003709</id>
-        <link href="https://v.daum.net/v/20230326090003709"/>
-        <updated>2023-03-26T00:59:20.931Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 김나연 기자] 톰 크루즈 / 사진=/AFPBBNews=뉴스1=스타뉴스 ○..배우 톰 크루즈가 딸 수리 크루즈와 10년 넘게 단절된 것으로 알려졌다. 지난 22일(현지시간) 미국 현지 매체 페이지 식스는 "60세의 톰 크루즈가 아주 오랫동안 16세의 딸 수리 크루즈를 보지 못했다. 톰 크루즈는 수리의 삶의 일부가 아니다"라고 보도했다. 수리 크루즈]]></content>
     </entry>
 </feed>
