@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-03-26T21:09:46.929Z</updated>
+    <updated>2023-03-26T22:10:45.992Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['스즈메의 문단속' 19일 연속 압도적 1위…300만 돌파 목전]]></title>
+        <id>https://v.daum.net/v/20230327070933565</id>
+        <link href="https://v.daum.net/v/20230327070933565"/>
+        <updated>2023-03-26T22:10:26.260Z</updated>
+        <content type="html"><![CDATA[(서울=뉴스1) 장아름 기자 = 일본 애니메이션 '스즈메의 문단속'이 19일 연속 박스오피스 1위를 수성했다. 27일 영화진흥위원회 영화관입장권통합전산망의 집계에 따르면 '스즈메의 문단속'은 지난 26일 1572개 스크린에서 30만9269명의 관객을 동원하며 누적관객수 296만4844명을 기록, 박스오피스 1위를 지켰다. '스즈메의 문단속'은 우연히]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[日애니 ‘스즈메의 문단속’…300만 돌파 눈앞]]></title>
+        <id>https://v.daum.net/v/20230327063011091</id>
+        <link href="https://v.daum.net/v/20230327063011091"/>
+        <updated>2023-03-26T22:10:26.260Z</updated>
+        <content type="html"><![CDATA[사진제공｜쇼박스일본 애니메이션 영화 ‘스즈메의 문단속’(사진)이 올해 개봉작 중 가장 빠른 속도로 관객을 끌어 모으며 300만 명 돌파를 눈앞에 뒀다. 개봉 시기에 운영을 시작한 컬래버레이션 카페에도 팬들의 발길이 몰리는 등 영화의 인기에 힘을 보태고 있다. 26일 영화관입장권통합전산망에 따르면 8일 개봉한 ‘스즈메의 문단속’은 25일까지 박스오피스 1]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[별을 추억하며…다시 '해피 투게더']]></title>
         <id>https://v.daum.net/v/20230327000022653</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230326123822154"/>
         <updated>2023-03-26T04:12:59.065Z</updated>
         <content type="html"><![CDATA[[OSEN=김보라 기자] 한국영화 ‘리바운드’, ‘킬링 로맨스’, ‘드림’이 내달 순차적으로 극장 개봉하는 가운데 흥행에 성공할 수 있을지 귀추가 주목된다. 세 작품 모두 인기 배우들을 캐스팅했고 각각 흥행작을 보유한 감독들이 만나 의기투합했지만 영화의 가장 중요한 재미를 확보했을지가 관건이다. 세 작품 나란히 흥행에 성공해 한국영화의 저력을 보여줄지]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[부산에서 세균실험? 이 다큐의 충격고발]]></title>
-        <id>https://v.daum.net/v/20230326103600252</id>
-        <link href="https://v.daum.net/v/20230326103600252"/>
-        <updated>2023-03-26T02:13:42.887Z</updated>
-        <content type="html"><![CDATA[[김성호 기자] ▲ 8부두&nbsp;스틸컷ⓒ 반짝다큐페스티발&nbsp; 해양수산부 산하 한국해양수산연수원에서 항해사 교육을 받은 일이 있다. 3급 항해사 자격 취득을 위해 2년 가까운 시간을 들여야 하는 국책 프로그램이었는데, 그중 몇 개월을 부산 남구 감만동의 감만시민부두에서 지냈다. 이곳은 연수원 실습선이 정박된 모항으로, 실습생들 선상생활을 익히기 위해 항해를 하지 않]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[타노스 잇는 빌런이라더니..조나단 메이저스, 女 폭행 혐의로 체포]]></title>
-        <id>https://v.daum.net/v/20230326102859121</id>
-        <link href="https://v.daum.net/v/20230326102859121"/>
-        <updated>2023-03-26T02:13:42.899Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 김나연 기자] 조나단 메이저스 / 사진=월트디즈니컴퍼니 코리아[김나연 스타뉴스 기자] MCU(마블 시네마틱 유니버스)에서 캉 역으로 활약 중인 배우 조나단 메이저스가 여성 폭행 혐의로 체포됐다. 25일(현지시간) 버라이어티 등 다수의 매체는 조나단 메이저스가 30세 여성과 말다툼을 벌인 후 폭력 혐의로 뉴욕에서 체포됐다고 보도했다. 30세의]]></content>
     </entry>
 </feed>
