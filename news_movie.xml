@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-03-27T11:10:38.213Z</updated>
+    <updated>2023-03-27T13:20:42.263Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['물안에서' 내달 韓시사회 개최..홍상수X김민희는 또 불참]]></title>
+        <id>https://v.daum.net/v/20230327210557477</id>
+        <link href="https://v.daum.net/v/20230327210557477"/>
+        <updated>2023-03-27T13:20:22.755Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 김미화 기자] 홍상수 감독 김민희 /사진=/AFPBBNews=뉴스1=스타뉴스 [김미화 스타뉴스 기자] 홍상수 감독의 신작영화 '물안에서'가 내달 개봉을 앞두고 국내 시사회를 개최한다. 이번에도 홍상수 감독과 김민희는 시사회에 참석하지 않는다. 홍상수 감독의 29번째 장편영화 '물안에서'가 오는 4월 3일 CGV용산아이파크몰에서 언론배급 시사회를]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['감독 데뷔' 손미나 "산티아고에 흠뻑 빠졌다...용기 얻길"]]></title>
+        <id>https://v.daum.net/v/20230327203005014</id>
+        <link href="https://v.daum.net/v/20230327203005014"/>
+        <updated>2023-03-27T13:20:22.757Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 오승현 기자) 손미나 작가가 아나운서에서 작가, 다큐 감독으로 변신한 소감을 전했다. 아나운서 출신 방송인에서 여행 작가로, 유튜브 크리에이터로 활동하고 있는 손미나 작가가 2022년 봄, 800km에 달하는 스페인 산티아고 순례길을 걸었다. 손미나는 해당 여정을 힐링 다큐 '엘 카미노'에 담았다.&nbsp; '엘 카미노'는 손미나 작가가 산티아고 순]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[또 소문난 日애니강림, ‘거울 속 외딴 성’]]></title>
         <id>https://v.daum.net/v/20230327200900766</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230327174754135"/>
         <updated>2023-03-27T09:12:45.974Z</updated>
         <content type="html"><![CDATA[[스포츠서울 | 조은별기자]일본 애니메이션 거장 신카이 마코토 감독이 신작 ‘스즈메의 문단속’ 300만 관객 돌파를 기념해 다시 한국을 찾을 예정이다. 27일 영화관입장권통합전산망에 따르면 8일 개봉한 ‘스즈메의 문단속’은 이날 오후 관객 296만 명을 동원하며 조만간 300만 돌파가 확실시 될 것으로 보인다. 앞서 신카이 마코토 감독은 영화 개봉 전]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘스즈메’ 300만 돌파! 신카이 마코토 감독 내한까지 경사]]></title>
-        <id>https://v.daum.net/v/20230327174056939</id>
-        <link href="https://v.daum.net/v/20230327174056939"/>
-        <updated>2023-03-27T09:12:45.975Z</updated>
-        <content type="html"><![CDATA[일본 애니메이션 영화 ‘스즈메의 문단속’이 누적 관객 수 300만을 넘어서는 대기록을 썼다. 27일 영화관입장권 통합전산망에 따르면 신카이 마코토 감독의 ‘스즈메의 문단속’은 이날 오후 4시 30분 기준 누적 관객 수 300만 명을 돌파했다. 앞서 ‘더 퍼스트 슬램덩크’가 올해 개봉한 영화 가운데 처음으로 누적 관객 수를 넘어선 상황에서 ‘스즈메의 문단]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['스즈메의 문단속' 300만 돌파…신카이 마코토, 4월 말 韓 또 온다]]></title>
-        <id>https://v.daum.net/v/20230327173822872</id>
-        <link href="https://v.daum.net/v/20230327173822872"/>
-        <updated>2023-03-27T09:12:45.976Z</updated>
-        <content type="html"><![CDATA[[OSEN=김보라 기자]&nbsp;신카이 마코토 감독이 4월 말 한국 관객들을 만난다. ‘스즈메의 문단속’이 300만 관객을 동원하면서 다시 내한하겠다는 약속을 지키기 위해서다. 27일 OSEN 취재 결과 신카이 마코토 감독은 4월 말께 다시 한 번 한국을 찾아 영화 ‘스즈메의 문단속’을 사랑해준 한국 관객들에게 고마운 마음을 전달한다. 신카이 마코토 감독이 현]]></content>
     </entry>
 </feed>
