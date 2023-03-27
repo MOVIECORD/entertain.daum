@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-03-27T05:11:37.753Z</updated>
+    <updated>2023-03-27T06:15:39.830Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[미군 떠난 뒤 또 벼랑 내몰린 아프칸 여성들]]></title>
+        <id>https://v.daum.net/v/20230327144801091</id>
+        <link href="https://v.daum.net/v/20230327144801091"/>
+        <updated>2023-03-27T06:15:16.764Z</updated>
+        <content type="html"><![CDATA[[정병진 기자] 탈레반(Taliban)은 아프가니스탄의 극단주의 무장 단체입니다. 이 단체는 1994년 이슬람 성직자 출신 무하마르 오마르가 칸다하르 부근 마을에서 민병대를 조직한 데서 출발한 것으로 알려졌습니다. 탈레반은 1996년에 아프가니스탄의 정권을 장악하였고, "엄격한 이슬람 국가 건설과 샤리아법 시행을 목표"로 내세우며 2001년 미국의 침공 때]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["300만 넘으면 내한"..'스즈메' 신카이 마코토 감독, 공약 지킨다]]></title>
         <id>https://v.daum.net/v/20230327134400812</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230327105027533"/>
         <updated>2023-03-27T02:04:25.666Z</updated>
         <content type="html"><![CDATA[[OSEN=김보라 기자]&nbsp;신카이 마코토 감독이 국내 관객들의 성원에 보답하기 위해 또 한 번 한국을 찾는다. 27일 OSEN 취재 결과 신카이 마코토 감독은 4월 말께 다시 한 번 내한해 영화 ‘스즈메의 문단속’을 사랑해준 한국 관객들에게 고마운 마음을 전할 예정이다. ‘스즈메의 문단속’(수입제공 미디어캐슬, 공동제공 로커스, 배급 쇼박스)은 우연히 재]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“기억할게”‥‘소울메이트’만의 청춘 감성]]></title>
-        <id>https://v.daum.net/v/20230327104223199</id>
-        <link href="https://v.daum.net/v/20230327104223199"/>
-        <updated>2023-03-27T02:04:25.669Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 배효주 기자] '소울메이트'의 따뜻한 감성과 여운을 느낄 수 있는 제작 비하인드 영상이 공개됐다. 영화 '소울메이트'(감독 민용근)는 첫 만남부터 서로를 알아본 두 친구 ‘미소(김다미)’와 ‘하은(전소니)’ 그리고 ‘진우(변우석)’가 기쁨, 슬픔, 설렘, 그리움까지 모든 것을 함께 한 이야기다. 제작기 영상에서는 ‘미소’, ‘하은’, ‘진우‘에]]></content>
     </entry>
 </feed>
