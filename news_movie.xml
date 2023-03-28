@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-03-28T11:11:04.206Z</updated>
+    <updated>2023-03-28T12:22:32.041Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[차은우 ‘벌크’ 출연 무산 “검토 끝에 출연하지 않기로”]]></title>
+        <id>https://v.daum.net/v/20230328204345904</id>
+        <link href="https://v.daum.net/v/20230328204345904"/>
+        <updated>2023-03-28T12:22:09.507Z</updated>
+        <content type="html"><![CDATA[[동아닷컴] 아스트로 차은우의 영화 ‘벌크’ 출연이 무산됐다. 소속사 판타지오는 28일 동아닷컴에 “차은우가 ‘벌크’ 출연을 검토했으나, 협의 끝에 출연하지 않기로 했다”고 말했다. ‘벌크’는 경찰과 주류 세계에 몸 담고 있던 해결사, 검사가 한 팀을 이뤄 블랙 커넥션을 쫓는 이야기를 다루는 범죄 영화다. 영화 ‘신세계’, ‘남자가 사랑할 때’, ‘무뢰한]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[장항준 "'리바운드' 성공해 배우들 싸가지 없어지길"]]></title>
         <id>https://v.daum.net/v/20230328193005307</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230328170033067"/>
         <updated>2023-03-28T08:15:27.356Z</updated>
         <content type="html"><![CDATA[[뉴스엔 글 배효주 기자/사진 정유진 기자] 장항준 감독이 "유작이 될지 몰라 떨린다"고 말한 '리바운드'가 베일을 벗었다. 영화 '리바운드'(감독 장항준) 언론 시사회가 3월 28일 서울 용산구 CGV용산아이파크몰에서 열렸다. 장항준 감독과 안재홍, 이신영, 정진운, 김택, 정건주, 김민, 안지호가 참석했다. 오는 4월 5일 개봉 예정인 영화 '리바운드]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['리바운드' 장항준 감독 "'슬램덩크'와 경쟁, 우리만의 강점 있다"]]></title>
-        <id>https://v.daum.net/v/20230328165714860</id>
-        <link href="https://v.daum.net/v/20230328165714860"/>
-        <updated>2023-03-28T08:15:27.359Z</updated>
-        <content type="html"><![CDATA[[SBS 연예뉴스 | 김지혜 기자] 영화 '리바운드'를 연출한 장항준 감독이 '더 퍼스트 슬램덩크'와의 경쟁을 앞두고 포부를 밝혔다. 28일 오후 서울 용산 CGV에서 열린 영화 '리바운드' 언론시사회에 참석한 장항준 감독은 '더 퍼스트 슬램덩크'를 비롯한 스포츠 영화들과의 경쟁 구도에 대해 "앞에서도 얘기했지만 우리 영화의 개봉 시기는 예전부터 정해져 있]]></content>
     </entry>
 </feed>
