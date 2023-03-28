@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-03-28T20:12:50.513Z</updated>
+    <updated>2023-03-28T21:10:39.693Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘펜트하우스’ 아류작? 김순옥 사단 ‘판도라’ 시청률 ‘뚝’..이유는?]]></title>
+        <id>https://v.daum.net/v/20230329060016158</id>
+        <link href="https://v.daum.net/v/20230329060016158"/>
+        <updated>2023-03-28T21:10:22.788Z</updated>
+        <content type="html"><![CDATA[‘시청률 보증수표’ 김순옥 작가의 이름을 내건 tvN 토일드라마 ‘판도라: 조작된 낙원’(이하 ‘판도라’, 크리에이터 김순옥, 연출 최영훈, 극본 현지민)이 시청률 고전을 면치 못하고 있다. ‘판도라’는 신드롬을 일으켰던 ‘펜트하우스’ 김순옥 작가를 포함해 배우 이지아, 봉태규 등 소위 ‘김순옥 사단’이 총출동했으나 허술하고 난해한 전개와 ‘펜트하우스’의]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['꽃선비 열애사' 강훈 정체 공개..신예은이 찾던 '폐세손 이설']]></title>
+        <id>https://v.daum.net/v/20230329053501904</id>
+        <link href="https://v.daum.net/v/20230329053501904"/>
+        <updated>2023-03-28T21:10:22.794Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 이지현 기자] /사진='꽃선비 열애사' 방송 화면 [이지현 스타뉴스 인턴기자] '꽃선비 열애사' 강훈의 정체가 밝혀졌다. 28일 오후 방송된 SBS 월화드라마 '꽃선비 열애사'에서 김시열(강훈 분)이 윤단오(신예은 분)가 찾던 폐세손 이설이라는 사실이 드러났다. 윤단오는 장태화(오만석 분)에게 진 빚을 갚기 위해 이설을 찾아다녔다. 이를 본]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['꽃선비 열애사' 려운, 신예은에 깊어지는 마음..애정가득 눈빛]]></title>
         <id>https://v.daum.net/v/20230328235432646</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230328212538988"/>
         <updated>2023-03-28T13:20:59.467Z</updated>
         <content type="html"><![CDATA[[스타뉴스 이빛나리 기자] /사진='청춘월담' 방송 화면 [이빛나리 스타뉴스 인턴기자] '청춘월담' 전소니의 고백을 박형식이 눈치채지 못했다. 28일 방송된 tvN 월화드라마 '청춘월담'에서는 왕세자 이환(박형식 분)이 동궁전에서 일하는 민재이(전소니 분)를 불러 앉힌 장면이 그려졌다. 이날 이환은 민재이에게 "누구냐. 네가 연모하는 그 띨빵한 자가.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['청춘월담' 박형식, 전소니 정인 의식.."누구든 무슨 상관이야"]]></title>
-        <id>https://v.daum.net/v/20230328211717733</id>
-        <link href="https://v.daum.net/v/20230328211717733"/>
-        <updated>2023-03-28T12:22:15.581Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 이빛나리 기자] /사진='청춘월담' 방송 화면 [이빛나리 스타뉴스 인턴기자] '청춘월담' 박형식이 전소니의 정인에 호기심을 느꼈다. 28일 방송된 tvN 월화드라마 '청춘월담'에서는 왕세자 이환(박형식 분)이 민재이(전소니 분)의 말을 떠올리는 장면이 그려졌다. 이날 이환은 혼인을 하지 않겠다는 민재이의 말을 떠올렸다. 이환의 기억 속 민재이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['청춘월담' 박형식, ♥전소니 마음 모른 채 '질투 폭발']]></title>
-        <id>https://v.daum.net/v/20230328211538670</id>
-        <link href="https://v.daum.net/v/20230328211538670"/>
-        <updated>2023-03-28T12:22:15.588Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 이이진 기자) '청춘월담' 박형식이 전소니가 자신을 좋아한다는 사실을 모른 채 질투심을 느꼈다. 28일 방송된 tvN 월화드라마 '청춘월담' 16회에서는 이환(박형식 분)이 민재이(전소니)를 위해 집을 구한 모습이 그려졌다. 이날 이환은 태강(허원서)을 시켜 민재이가 살 집을 구했고, 태강은 "혹 이 집에 살 여인이 고 내관입니까? 정혼자가]]></content>
     </entry>
 </feed>

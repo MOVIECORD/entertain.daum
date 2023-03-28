@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-03-28T20:12:50.517Z</updated>
+    <updated>2023-03-28T21:10:39.695Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[안재홍 개인기에 기댄 '리바운드'…농놀 품은 코미디]]></title>
+        <id>https://v.daum.net/v/20230329060257380</id>
+        <link href="https://v.daum.net/v/20230329060257380"/>
+        <updated>2023-03-28T21:10:16.931Z</updated>
+        <content type="html"><![CDATA['라이터를 켜라'(2002)로 영화 연출을 시작해 예능프로그램에서 활약해온 장항준(53) 감독이 국내 첫 농구 소재 스포츠 영화 '리바운드'에 도전했다. 코미디에서 장기를 발휘해온 장 감독의 도전은 관객에게 어떤 평가를 받을까. 어깨가 무겁다. 4월 첫 주자로 나서는 영화가 한국영화의 신뢰를 회복하고 극장가에 활력을 불어넣을지 주목된다. 장 감독은 28일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[차은우 ‘벌크’ 출연 무산 “검토 끝에 출연하지 않기로”]]></title>
         <id>https://v.daum.net/v/20230328204345904</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230328170421253"/>
         <updated>2023-03-28T08:15:27.354Z</updated>
         <content type="html"><![CDATA[(사진=뉴스1)[이데일리 스타in 김보영 기자] 배우 안재홍이 영화 ‘리바운드’의 배우들 중 최연장자로서 참여한 소감과 실화 속 주인공인 강양현 코치 역을 소화하기 위해 기울인 노력들을 털어놨다. 28일 오후 서울 용산구 CGV용산아이파크몰점에서 열린 영화 ‘리바운드’(감독 장항준) 기자간담회에서는 장항준 감독을 비롯해 배우 안재홍, 이신영, 정진운,]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“유작될까 겁나” 감독 장항준의 ‘리바운드’‥‘슬램덩크’ 맞대결엔 “日과 협의된 것 아냐”]]></title>
-        <id>https://v.daum.net/v/20230328170033067</id>
-        <link href="https://v.daum.net/v/20230328170033067"/>
-        <updated>2023-03-28T08:15:27.356Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 글 배효주 기자/사진 정유진 기자] 장항준 감독이 "유작이 될지 몰라 떨린다"고 말한 '리바운드'가 베일을 벗었다. 영화 '리바운드'(감독 장항준) 언론 시사회가 3월 28일 서울 용산구 CGV용산아이파크몰에서 열렸다. 장항준 감독과 안재홍, 이신영, 정진운, 김택, 정건주, 김민, 안지호가 참석했다. 오는 4월 5일 개봉 예정인 영화 '리바운드]]></content>
     </entry>
 </feed>
