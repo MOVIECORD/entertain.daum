@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-03-28T13:21:17.334Z</updated>
+    <updated>2023-03-28T14:13:21.959Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['꽃선비 열애사' 려운, 신예은과 묘한 기류 "넌 눈치가 없구나"]]></title>
+        <id>https://v.daum.net/v/20230328224718907</id>
+        <link href="https://v.daum.net/v/20230328224718907"/>
+        <updated>2023-03-28T14:13:03.258Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 이지현 기자] /사진='꽃선비 열애사' 방송 화면 [이지현 스타뉴스 인턴기자] '꽃선비 열애사' 려운과 신예은이 묘한 기류를 형성했다. 28일 오후 방송된 SBS 월화드라마 '꽃선비 열애사'에서는 윤단오(신예은 분)를 걱정하는 강산(려운 분)의 모습이 그려졌다. 윤단오는 빚을 갚기 위해 폐세손 이설을 찾아다녔고 강산은 이를 돕겠다고 나섰다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[신예은, 이설 찾기 시동…려운·정건주·강훈 도움 수락]]></title>
+        <id>https://v.daum.net/v/20230328222729586</id>
+        <link href="https://v.daum.net/v/20230328222729586"/>
+        <updated>2023-03-28T14:13:03.258Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 이나영 인턴기자) '꽃선비 열애사' 신예은이 꽃선비들의 제안을 수락했다. 28일 방송된 SBS 월화드라마 '꽃선비 열애사'에는 꽃선비들의 제안을 수락하는 윤단오(신예은 분)의 모습이 전파를 탔다.&nbsp; 옥진을 찾으려고 온 윤단오에게 강산(려운)은 "옥진을 찾지 말거라. 죽고 싶지 않으면"이라고 경고했다. 하지만 자신의 목을 벤다고 해도 그럴 수]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['청춘월담' 이태선 "허원서는 쌍생"→박형식, 전소니에 '질투']]></title>
         <id>https://v.daum.net/v/20230328221527318</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230328194509596"/>
         <updated>2023-03-28T11:10:45.657Z</updated>
         <content type="html"><![CDATA[[스타뉴스 윤상근 기자] /사진=스타뉴스 [윤상근 스타뉴스 기자] 배우 유재명과 조우진이 드라마 '착한 사나이'에 합류한다. 스타뉴스 취재 결과, 유재명과 조우진은 드라마 '착한 사나이'(가제)에 합류할 예정이다. '착한 사나이'는 할아버지 건달, 아버지 건달, 아들 건달로 내려오는 건달 3대 집안의 장손 석철이 가족과 직장, 사랑을 지키기 위해 겪는]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['마녀의 게임' 한지완, 오창석에 "장서희를 들러리로 세워"]]></title>
-        <id>https://v.daum.net/v/20230328193541403</id>
-        <link href="https://v.daum.net/v/20230328193541403"/>
-        <updated>2023-03-28T11:10:45.657Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 이빛나리 기자] /사진='마녀의 게임' 방송화면 [이빛나리 스타뉴스 인턴기자] '마녀의 게임' 한지완이 오창석과 거래를 했다. 28일 오후 방송된 MBC 일일드라마 '마녀의 게임'에는 위기에 처한 강지호(오창석 분)가 주세영(한지완 분)을 겨냥하기 위해 SNS에 폭로하는 장면이 담겼다. 이날 강지호는 주세영이 설유경(장서희 분) 부회장을 속이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김태희X임지연 '마당이 있는 집' 6월 ENA 방송 확정]]></title>
-        <id>https://v.daum.net/v/20230328192341192</id>
-        <link href="https://v.daum.net/v/20230328192341192"/>
-        <updated>2023-03-28T11:10:45.658Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 윤상근 기자] /사진=스타뉴스 [윤상근 스타뉴스 기자] 배우 김태희, 임지연이 합류를 결정한 드라마 '마당이 있는 집'이 오는 6월 ENA 방송을 확정했다. 28일 스타뉴스 취재 결과, '마당 있는 집'은 오는 6월 방송을 확정하고 세부 일정을 논의하고 있다. '마당 있는 집'은 ENA 방송과 함께 지니 오리지널에서도 방송될 예정이다. ']]></content>
     </entry>
 </feed>
