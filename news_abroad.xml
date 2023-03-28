@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-03-28T02:08:32.436Z</updated>
+    <updated>2023-03-28T03:12:50.987Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[日톱스타 각트 "다나카와 유튜브 촬영했다"...세계관 충돌 예고]]></title>
+        <id>https://v.daum.net/v/20230328115115687</id>
+        <link href="https://v.daum.net/v/20230328115115687"/>
+        <updated>2023-03-28T03:12:50.340Z</updated>
+        <content type="html"><![CDATA[[OSEN=유수연 기자] 일본의 톱 가수 각트(GACKT)가 다나카(김경욱)와의 만남의 예고해 눈길을 끌고 있다. 지난&nbsp;주말 콘서트를 가졌던 각트는 가수 K(케이, 본명 강윤성)와 무대를 가졌다. 이날 각트는 이야기를 나누던 중 "최근에 다나카오 만나 유튜브를 찍었다"라고 언급해 눈길을 끌었다. 또한 각트는 "(나는) 누가 뭐래도 친한파다", "나의 몸]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[일론 머스크 전부인, 헤어지더니..딸 이름 바꿨다]]></title>
         <id>https://v.daum.net/v/20230328110541663</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230328050830212"/>
         <updated>2023-03-27T20:13:36.506Z</updated>
         <content type="html"><![CDATA[[TV리포트=이예은 기자] 영화 '분노의 질주'의 주역 드웨인 존슨이 핑크 립스틱칠에도 함박웃음을 지으며 딸바보임을 입증했다.&nbsp; 지난 25일(현지 시간) 배우 드웨인 존슨은 자신의 소셜네트워크서비스를 통해 7살의 재스민과 4살의 티아나, 두 딸에게 메이크업을 받은 근황을 공개했다. 드웨인 존슨은 "아빠, 저희가 화장시켜줘도 돼요?"라는 딸들의 물음에 "안]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[톰 크루즈, 종교 때문에 동료 배우 브룩 쉴즈 공개 비난]]></title>
-        <id>https://v.daum.net/v/20230328041500463</id>
-        <link href="https://v.daum.net/v/20230328041500463"/>
-        <updated>2023-03-27T20:13:36.508Z</updated>
-        <content type="html"><![CDATA[[TV리포트=이수연 기자] 할리우드 배우 톰 크루즈가 종교 사이언톨로지로 인해 딸과 10년간 연락이 끊긴 것으로 알려진 가운데 그의 종교 때문에 동료 배우와 갈등을 빚었던 일화가 다시금 수면 위로 떠올랐다. 26일(현지 시간) 영국 매체 미러(Mirror)에 따르면 배우 브룩 쉴즈는 과거 톰 크루즈가 항우울제를 복용한 자신을 공개적으로 비난한 일을 언급하]]></content>
     </entry>
 </feed>
