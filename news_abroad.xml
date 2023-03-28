@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-03-28T22:11:17.877Z</updated>
+    <updated>2023-03-28T23:11:20.358Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[지젤 번천은 제2의 전성기, 톰 브래디는 은퇴...이혼 후 엇갈린 행보]]></title>
+        <id>https://v.daum.net/v/20230329080201074</id>
+        <link href="https://v.daum.net/v/20230329080201074"/>
+        <updated>2023-03-28T23:11:19.707Z</updated>
+        <content type="html"><![CDATA[[TV리포트=이예은 기자] 슈퍼 모델 지젤 번천(42)이 이혼 후 제2의 전성기를 다시 누리고 있는 반면, 그의 전 남편이자 미국 미식축구 선수인 톰 브레디(45)는 '영원한' 은퇴를 선언했다.&nbsp; 최근 지젤 번천의 루이비통 화보 촬영 사진이 공개됐다.&nbsp;사진 속 지젤은 명품 루이비통 로고가 박힌 수영복을 입고 해변가에 서있다.&nbsp;이외에도 지젤 번천은 수많은 브]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['천억대 자산가' 방송인, 성형수술 후회..."부질 없다"]]></title>
         <id>https://v.daum.net/v/20230329061331554</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230328161020600"/>
         <updated>2023-03-28T07:12:10.801Z</updated>
         <content type="html"><![CDATA[(엑스포츠뉴스 이창규 기자) '인디아나 존스: 운명의 다이얼'(인디아나 존스 5, 감독 제임스 맨골드)이 칸 영화제에서 공개된다. 27일(현지시간) 미국 할리우드 리포터는&nbsp;5월 16일부터 27일까지 진행되는 제76회 칸 영화제에서 2~3일째에 상영할 예정이라고 보도했다. 앞서 2008년 개봉한 '인디아나 존스와 크리스탈 해골의 왕국'(인디아나 존스4) 또한]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘화양연화’ 양조위, 베니스영화제 평생공로상 수상 “카리스마 넘치는 배우”]]></title>
-        <id>https://v.daum.net/v/20230328160117195</id>
-        <link href="https://v.daum.net/v/20230328160117195"/>
-        <updated>2023-03-28T08:15:50.132Z</updated>
-        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]영화 ‘화양연화’로 유명한 양조위(60)가 베니스국제영화제 평생공로상을 수상했다. 베니스국제영화제 측은 27일(현지시간) “양조위와 릴리아나 카바니 감독을 평생공로상 수상자로 선정했다”고 밝혔다. 양조위가 주연을 맡은 ‘비정성시’(1989), ‘씨클로’(1995), ‘색, 계’(2007)는 베니스국제영화제에서 황금사자상을]]></content>
     </entry>
 </feed>
