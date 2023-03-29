@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-03-29T20:11:59.491Z</updated>
+    <updated>2023-03-29T21:11:40.950Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[전도연 “母, ‘해피엔드’ 촬영 전 시집 못 간다고 우셔..광고도 끊겼다”]]></title>
+        <id>https://v.daum.net/v/20230330061017357</id>
+        <link href="https://v.daum.net/v/20230330061017357"/>
+        <updated>2023-03-29T21:11:18.325Z</updated>
+        <content type="html"><![CDATA[[스포츠서울 | 남서영기자] 전도연이 영화 ‘해피엔드’ 피하인드를 공개했다. 29일 방송된 tvN ‘유 퀴즈 온 더 블럭’에는 배우 전도연이 출연했다. 이날 전도연의 필모그래피를 짚던 중 19992년 영화 ‘해피엔드’에 대한 이야기가 나왔다. 전도연은 “꿈이 현모양처라고 했었는데 제 꿈을 깨는 선택이었다”고 돌아봤다. 전도연은 “엄마를 설득할 때 그렇]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[박성광 감독, 누군가의 '인생작'을 만들 때까지]]></title>
         <id>https://v.daum.net/v/20230330000058384</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230329160549611"/>
         <updated>2023-03-29T07:15:58.151Z</updated>
         <content type="html"><![CDATA[[이데일리 스타in 김보영 기자] 영화 ‘리바운드’(감독 장항준)로 관객들을 만나는 배우 안재홍이 장항준 감독과 보낸 특별한 추억을 털어놨다. 안재홍은 29일 오후 서울 종로구의 한 카페에서 영화 ‘리바운드’ 개봉을 앞두고 취재진과 인터뷰를 진행했다. 안재홍이 주연을 맡은 영화 ‘리바운드’가 오는 4월 5일 개봉해 4월 극장가의 첫 주자로 관객 몰이에]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박성광 '웅남이', "여기가 만만하냐" 혹평 뚫고 해외 50개국 선판매 쾌거]]></title>
-        <id>https://v.daum.net/v/20230329155712209</id>
-        <link href="https://v.daum.net/v/20230329155712209"/>
-        <updated>2023-03-29T07:15:58.152Z</updated>
-        <content type="html"><![CDATA[[마이데일리 = 김나라 기자] 개그맨 박성광의 첫 장편 연출작 '웅남이'가 해외 50개국 선판매 쾌거를 거뒀다. '웅남이'는 인간을 초월하는 짐승 같은 능력으로 국제 범죄 조직에 맞서는 웅남이(박성웅)의 좌충우돌 코미디 영화. 해외 각지 배급사 관계자들의 관심 속에 다양한 국가에 판매되는 쾌거를 이뤘다. 배급사 CJ CGV 측은 29일 "'웅남이'는 50]]></content>
     </entry>
 </feed>
