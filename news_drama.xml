@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-03-29T03:12:11.784Z</updated>
+    <updated>2023-03-29T04:14:05.767Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김채은, '모범택시2' 출연..최강 빌런 클럽 MD '윈디' 변신]]></title>
+        <id>https://v.daum.net/v/20230329131123387</id>
+        <link href="https://v.daum.net/v/20230329131123387"/>
+        <updated>2023-03-29T04:13:48.179Z</updated>
+        <content type="html"><![CDATA[[OSEN=지민경 기자]&nbsp;배우 김채은이&nbsp;‘모범택시&nbsp;2’&nbsp;윈디역으로 출연해 최강빌런으로 활약할 예정이다. SBS&nbsp;금토드라마&nbsp;‘모범택시2’(극본 오상호 연출 이단 제작 스튜디오S,&nbsp;그룹에이트)는&nbsp;베일에 가려진 택시회사 무지개 운수와 택시기사 김도기가 억울한 피해자를 대신해 복수를 완성하는 사적 복수 대행극이다.&nbsp; 동명의 웹툰을 원작으로 한&nbsp;‘모범택시’&nbsp;시리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[장동윤♥설인아, 쌍방 키스 '눈물'…멜로 텐션 폭발했다]]></title>
         <id>https://v.daum.net/v/20230329121002197</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230329111948542"/>
         <updated>2023-03-29T02:20:31.752Z</updated>
         <content type="html"><![CDATA[[OSEN=강서정 기자] ‘가면의 여왕’의 김선아, 오윤아, 신은정, 유선이 핏빛 복수를 본격 시작한다.&nbsp; 채널A 새 월화드라마 ‘가면의 여왕’(연출 강호중, 극본 임도완)은 성공한 세 명의 친구들 앞에 10년 전 그녀들의 거짓말로 살인자가 된 옛 친구가 나타나 가면에 감춰진 진실이 드러나게 되고, 한 남자로 인해 인생의 소용돌이를 맞게 된 네 명의 친]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['母 살해' 진범 다가섰던 윤찬영x방민아, 의문의 경찰서 行]]></title>
-        <id>https://v.daum.net/v/20230329111226175</id>
-        <link href="https://v.daum.net/v/20230329111226175"/>
-        <updated>2023-03-29T02:20:31.754Z</updated>
-        <content type="html"><![CDATA[[OSEN=장우영 기자] ‘딜리버리맨’ 윤찬영, 방민아에게 찾아온 위기는 무엇일까. 지니 TV 오리지널 ‘딜리버리맨’(극본 주효진 박혜영 한보경, 연출 강솔 박대희, 기획 KT스튜디오지니, 제작 코탑미디어) 측은 29일, 경찰서 유치장에 갇힌 서영민(윤찬영)과 강지현(방민아)의 모습을 포착했다. 진범에 다가서는 듯했던 이들에게 어떤 변수가 닥친 것인지]]></content>
     </entry>
 </feed>
