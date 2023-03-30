@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-03-30T20:12:24.562Z</updated>
+    <updated>2023-03-30T21:10:33.961Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[1%대 후속작 ‘조선변호사’ 침체된 MBC 드라마 살릴까]]></title>
+        <id>https://v.daum.net/v/20230331060904324</id>
+        <link href="https://v.daum.net/v/20230331060904324"/>
+        <updated>2023-03-30T21:10:17.858Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 김명미 기자] '조선변호사'가 침체된 MBC 드라마에 활기를 불어넣을 수 있을까. MBC 새 금토드라마 '조선변호사'(연출 김승호 이한준, 극본 최진영)는 3월 31일 오후 9시 50분 첫 방송된다. '조선변호사'는 부모님을 죽게 한 원수에게 재판으로 복수하는 조선시대 변호사 외지부의 이야기를 그리는 작품. 진정한 복수는 의로운 일을 할 때 가치]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김동욱X진기주, 시간 여행자됐다]]></title>
         <id>https://v.daum.net/v/20230330224602803</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230330164730934"/>
         <updated>2023-03-30T08:15:03.800Z</updated>
         <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]‘진짜가 나타났다!’가 현실 가득 ‘진짜’ 이야기로 주말 안방극장을 제대로 저격했다. 방송 첫 주부터 시청률 20.8%(닐슨코리아 제공, 전국 기준)를 기록하며 주말 안방극장을 뜨겁게 달군 KBS 2TV 주말드라마 KBS 2TV 주말드라마 ‘진짜가 나타났다!’(연출 한준서 / 극본 조정주/ 제작 빅토리콘텐츠)가 화제성과 시청률]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['방과 후 전쟁활동', 또 하나의 스타 등용문 될까]]></title>
-        <id>https://v.daum.net/v/20230330163058258</id>
-        <link href="https://v.daum.net/v/20230330163058258"/>
-        <updated>2023-03-30T08:15:03.801Z</updated>
-        <content type="html"><![CDATA[아이즈 ize 이덕행 기자학원·학교를 다룬 학원물 드라마는 스타들의 등용문으로 불려 왔다. 다수의 젊은 배우들이 함께 모여 연기를 펼치기 때문이다. '학교' 시리즈가 대표적이다. 시청자들은 스타로 성장한 배우의 과거 모습을 찾거나 전혀 접점이 없어 보이던 배우들이 한 작품에 출연했다는 사실을 발굴해내며 또 다른 재미를 찾기도 했다.티빙 오리지널 '방과 후]]></content>
     </entry>
 </feed>
