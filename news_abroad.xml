@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-03-30T17:11:21.841Z</updated>
+    <updated>2023-03-30T18:13:49.483Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[니콜라스 케이지, 31살 연하 아내와 나들이]]></title>
+        <id>https://v.daum.net/v/20230331031130743</id>
+        <link href="https://v.daum.net/v/20230331031130743"/>
+        <updated>2023-03-30T18:13:48.807Z</updated>
+        <content type="html"><![CDATA[[TV리포트=이수연 기자] 니콜라스 케이지가 31살 연하 일본인 아내와 시사회 나들이에 나섰다. 28일(현지 시간) 니콜라스 케이지(59)가 일본인 아내 시바타 리코(28)과 함께 미국 캘리포니아 주 로스앤젤레스에서 열린 영화 '렌필드(Renfield)' 시사회에 참석했다. 니콜라스 케이지와 시바타 리코는 2020년 영화 '고스트랜드' 촬영 당시 일본에서]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[배드 버니 "첫 키스는 남자와...여자 많이 만난 벌 받아"]]></title>
         <id>https://v.daum.net/v/20230331021101346</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230330174117246"/>
         <updated>2023-03-30T09:13:36.629Z</updated>
         <content type="html"><![CDATA[[OSEN=연휘선 기자] 할리우드 배우 드류 베리모어가 폐경을 고백했다.&nbsp; 드류 베리모어는 지난 27일(현지 시간) 미국 방송사 CBS 토크쇼 '드류 베리모어 쇼'에 진행자로 출연해 또 다른 할리우드 배우 제니퍼 애니스톤, 애덤 샌들러를 만났다.&nbsp; 이날 드류 베리모어는 인터뷰 도중 재킷을 벗고 손부채질을 하며 열감을 호소했다. 이와 관련 그는 "너무 덥]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['존 윅' 키아누 리브스, 스태프에게 사망 횟수 적힌 티셔츠 선물]]></title>
-        <id>https://v.daum.net/v/20230330170330736</id>
-        <link href="https://v.daum.net/v/20230330170330736"/>
-        <updated>2023-03-30T08:15:21.859Z</updated>
-        <content type="html"><![CDATA[[TV리포트=이수연 기자] 할리우드 배우 키아누 리브스가 '존 윅 4' 스턴트 배우들에게 극중 사망 횟수가 적힌 티셔츠를 선물했다고 전해져 이목을 끈다. 29일(현지 시간) 미국 연예매체 버라이어티에 따르면 키아누 리브스는 '존 윅 4'에서 함께 액션 호흡을 맞춘 스턴트 배우들에게 특별한 선물을 했다. 모든 스턴트 배우가 작품 속에서 자신이 얼마나 많이 목]]></content>
     </entry>
 </feed>
