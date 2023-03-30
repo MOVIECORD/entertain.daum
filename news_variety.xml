@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/variety</id>
     <title>다음 연예 ─ 뉴스 ─ 예능</title>
-    <updated>2023-03-30T16:15:09.334Z</updated>
+    <updated>2023-03-30T17:11:21.844Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['소년판타지' 김우석 "친누나가 아이돌, 사랑스러운 월드스타 되고파"]]></title>
+        <id>https://v.daum.net/v/20230331012504219</id>
+        <link href="https://v.daum.net/v/20230331012504219"/>
+        <updated>2023-03-30T17:11:10.720Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 박윤진 기자] MBC 글로벌 보이그룹 오디션 ‘소년판타지-방과후 설렘 시즌2’(이하 ‘소년판타지’)에서 참가자 김우석이 상큼한 모습으로 프로듀서들을 사로잡았다. 30일 밤 첫 방송된 ‘소년판타지’에서 MC 동방신기 최강창민, 프로듀서 2PM 우영, 진영, 위너 강승윤, (여자)아이들 소연이 심사 아래 입학 평가 무대가 그려졌다. 이날 방송]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[하이브 연습생 유준원 1등급…아이들 소연 "日 히카루 완벽"]]></title>
         <id>https://v.daum.net/v/20230331011007173</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230330235041430"/>
         <updated>2023-03-30T15:12:25.416Z</updated>
         <content type="html"><![CDATA[[뉴스엔 박수인 기자] '퇴근 후 한 끼' 김구라가 매운 것을 좋아하지 않는 이유를 밝혔다. 3월 30일 방송된 JTBC 신규 파일럿 예능 프로그램 '퇴근 후 한 끼'에서는 김구라, 한혜진, 샘 해밍턴이 서울 마포구의 한 즉석 떡볶이집을 찾은 모습이 공개됐다. 이날 김구라는 떡볶이 맵기 정도를 묻는 질문에 "저는 매운 거 별로 안 좋아한다. 인생 자체가]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[방탄 지민 "조세호 결혼하면? 축의금 2~300만원"]]></title>
-        <id>https://v.daum.net/v/20230330235002426</id>
-        <link href="https://v.daum.net/v/20230330235002426"/>
-        <updated>2023-03-30T15:12:25.417Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 김현숙 인턴기자) 그룹 방탄소년단(BTS) 멤버 지민이 예능감을 뽐냈다.&nbsp; 30일 방송된 KBS 2TV 예능 프로그램 '홍김동전'에서는 KBS 공영방송 50주년을 맞아 '홍김동전X위험한 초대' 특집이 전파를 탄 가운데 방탄소년단 멤버 지민이 게스트로 출연했다.&nbsp; 이날 토크버라이어티 단독 MC로 김숙이 나섰고, 다른 멤버들은 벌칙 자리에 앉게]]></content>
     </entry>
 </feed>
