@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2023-03-31T16:13:18.992Z</updated>
+    <updated>2023-03-31T17:10:47.260Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘1Day 1Korea’ 한덕수 국무총리 “2030 부산엑스포 유치, 대한민국 역할 부각시킬 것”]]></title>
+        <id>https://v.daum.net/v/20230401012850776</id>
+        <link href="https://v.daum.net/v/20230401012850776"/>
+        <updated>2023-03-31T17:10:41.454Z</updated>
+        <content type="html"><![CDATA[아리랑TV 데일리 문화정보프로그램 ‘1Day 1Korea(원데이 원코리아)’가 2030 월드 엑스포 개최지 선정을 위한 국제박람회기구(BIE) 실사단의 부산 방문 기간(4월 3일~4월 7일)에 맞춰 특집 방송을 준비했다. 부산 현지의 뜨거운 분위기에서부터, 향토 음식, 영화, 무대 공연 등 다양한 부산의 문화적 매력을 매일 오전 실사단에게 전달할 예정]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[손담비 "바람피우면? 한 번은 봐줘"→♥이규혁, 쿨한 아내에 "오 땡큐"]]></title>
         <id>https://v.daum.net/v/20230401010006620</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230331232810999"/>
         <updated>2023-03-31T15:12:16.129Z</updated>
         <content type="html"><![CDATA[[스포츠투데이 서지현 기자] '나 혼자 산다' 천정명-기안84 라인이 새롭게 탄생했다. 31일 밤에 방송된 MBC '나 혼자 산다'에서는 배우 천정명의 일상이 그려졌다. 이날 기안84는 스튜디오를 찾은 천정명에게 "'기라인'을 끝내고 '천기라인'이 됐다"고 말했다. 이를 들은 코드 쿤스트는 "'기라인' 피해자 보상하라"고 농담했다. 이어 박나래가 "']]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김현철 딸 "우리 가족 죽지 않기", 만 8세 소원에 충격]]></title>
-        <id>https://v.daum.net/v/20230331232631991</id>
-        <link href="https://v.daum.net/v/20230331232631991"/>
-        <updated>2023-03-31T15:12:16.130Z</updated>
-        <content type="html"><![CDATA[[TV리포트=이지민 기자] 31일 채널A '오은영의 금쪽상담소'에서는 개그맨 김현철과 아내 최은경이 오은영 박사를 찾아 고민 상담을 나눴다. 김현철은 "개그 하는 지휘자 겸 지휘하는 개그맨이다"라 인사하며 13세 차이 아내와 소중한 딸 봄봄이를 소개했다. 이어 김현철은 "아내가 답답한 곳을 힘들어해서 제주살이를 시작한 지 4년이 넘었다"고 전했다. 김현]]></content>
     </entry>
 </feed>
