@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-03-31T09:11:47.304Z</updated>
+    <updated>2023-03-31T10:12:59.894Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[아~ 옛날이여! 흔들리는 마블]]></title>
+        <id>https://v.daum.net/v/20230331182553066</id>
+        <link href="https://v.daum.net/v/20230331182553066"/>
+        <updated>2023-03-31T10:12:36.705Z</updated>
+        <content type="html"><![CDATA[한국에선 유난히 영화 마블을 사랑하는 마블 찐팬이 많습니다. '어벤져스' 시리즈의 경우 1천만 관객을 돌파하며 큰 인기를 끌었는데요. 그런데 최근 들어 마블 영화에 대한 평가, 예전 같지 않습니다. 왜 그런건지 [배달잇슈]에서 자세히 정리했습니다. #마블 #어벤져스 #아이언맨 #타노스 #디즈니 ==================== "우린 모두 패했어]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[전주국제영화제, 도전과 확장 예고…'거장' 다르덴 신작으로 포문]]></title>
         <id>https://v.daum.net/v/20230331180017581</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230331121959285"/>
         <updated>2023-03-31T04:13:54.936Z</updated>
         <content type="html"><![CDATA[[이데일리 스타in 김보영 기자] 영화 ‘리바운드’로 돌아온 장항준 감독이 앞서 극장가에 농구 신드롬을 일으킨 ‘더 퍼스트 슬램덩크’(감독 이노우에 다케히코)를 향한 고마움을 전했다. 장항준 감독은 31일 오전 서울 종로구의 한 카페에서 신작 ‘리바운드’의 개봉을 앞두고 취재진과 인터뷰를 진행했다. 영화 ‘리바운드’가 4월 극장가 개봉작 첫 주자로 관]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이신영 "'리틀 김수현' 놀랍고 감사해..롤모델은 손석구"]]></title>
-        <id>https://v.daum.net/v/20230331121926276</id>
-        <link href="https://v.daum.net/v/20230331121926276"/>
-        <updated>2023-03-31T04:13:54.936Z</updated>
-        <content type="html"><![CDATA[[스포츠조선 조지영 기자] 배우 이신영(25)이 "연기도 잘하고 잘생긴 김수현과 닮았다는 칭찬 듣고 감사했다"고 말했다. 스포츠 휴먼 영화 '리바운드'(장항준 감독, 비에이엔터테인먼트·워크하우스컴퍼니 제작)에서 주목받던 천재 선수였지만 슬럼프에 빠진 가드 천기범 역을 연기한 이신영이 31일 오전 서울 종로구 삼청동에서 스포츠조선과 만나 '리바]]></content>
     </entry>
 </feed>
