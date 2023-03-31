@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2023-03-31T19:09:51.101Z</updated>
+    <updated>2023-03-31T20:12:00.183Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['조선변호사' 김지연, 공주 신분 숨기고 몸종 행색]]></title>
+        <id>https://v.daum.net/v/20230401051003334</id>
+        <link href="https://v.daum.net/v/20230401051003334"/>
+        <updated>2023-03-31T20:11:53.982Z</updated>
+        <content type="html"><![CDATA[(서울=뉴스1) 박하나 기자 = '조선변호사' 김지연이 백성들을 도우려고 신분을 숨겼다. 지난 31일 오후 9시 50분에 방송된 MBC 금토드라마 '조선변호사'(극본 최진영/연출 김승호 이한준)에서는 정체를 숨기고 소원각을 운영하는 이연주(김지연 분)의 모습이 담겼다. 선왕의 딸 이연주는 번화가 마포나루에 '소원각'이라는 여각을 열었다. 그러나 객주는]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[박서준, 몰려든 '서진이네' 주문에 방전…"집 가고 싶어요"]]></title>
+        <id>https://v.daum.net/v/20230401045003224</id>
+        <link href="https://v.daum.net/v/20230401045003224"/>
+        <updated>2023-03-31T20:11:53.985Z</updated>
+        <content type="html"><![CDATA[(서울=뉴스1) 박하나 기자 = '서진이네' 주방장 박서준이 몰려든 주문을 소화하고 녹초가 된 모습으로 눈길을 끌었다. 지난 31일 오후 방송된 tvN 예능 프로그램 '서진이네'에서는 몰려든 주문에도 완벽하게 소화하는 '요리왕 부장' 박서준의 모습이 담겼다. 이날 '서진이네'는 주말보다 몰려든 손님에 이서진, 정유미, 박서준, 최우식, 뷔(김태형)가 분]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘1Day 1Korea’ 한덕수 국무총리 “2030 부산엑스포 유치, 대한민국 역할 부각시킬 것”]]></title>
         <id>https://v.daum.net/v/20230401012850776</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230331234200081"/>
         <updated>2023-03-31T15:12:16.121Z</updated>
         <content type="html"><![CDATA[[TV리포트 = 하수나 기자] 모델 한혜진이 일 년에 라면을 두 번만 먹는다고 밝혔다.&nbsp; 31일 유튜브 채널 ‘한혜진’에선 ‘살벌한 야생캠핑 한혜진의 벚굴구이 먹방 with 리랑온에어 (직화대파라면, 산수유막걸리, 한우투쁠)’이라는 제목의 영상이 업로드 됐다.&nbsp; 영상에는 리랑온에어와 야생캠핑에 나선 한혜진의 모습이 담겼다. 한혜진은 리랑온에어에게 야생 캠핑]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[기안84, '기라인' 통폐합 선언…코드쿤스트 "피해자 보상해야" 폭소]]></title>
-        <id>https://v.daum.net/v/20230331233147016</id>
-        <link href="https://v.daum.net/v/20230331233147016"/>
-        <updated>2023-03-31T15:12:16.129Z</updated>
-        <content type="html"><![CDATA[(서울=뉴스1) 이지현 기자 = 기안84가 '기라인'의 통폐합을 선언(?)했다. 31일 오후 방송된 MBC 예능 프로그램 '나 혼자 산다'에서는 절친한 사이로 발전한 기안84, 천정명이 함께한 일상을 공개했다. 이날 오프닝에서 천정명은 "오랜만에 나왔다, 그동안 어떻게 지냈냐"라는 물음에 "잘 지냈다. 건강하게 잘 지내고 있었다"라며 근황을 전했다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['나 혼자 산다' 천정명·기안84, '천기라인' 완성…"사석에서 술 먹고 친해져"]]></title>
-        <id>https://v.daum.net/v/20230331232810999</id>
-        <link href="https://v.daum.net/v/20230331232810999"/>
-        <updated>2023-03-31T15:12:16.129Z</updated>
-        <content type="html"><![CDATA[[스포츠투데이 서지현 기자] '나 혼자 산다' 천정명-기안84 라인이 새롭게 탄생했다. 31일 밤에 방송된 MBC '나 혼자 산다'에서는 배우 천정명의 일상이 그려졌다. 이날 기안84는 스튜디오를 찾은 천정명에게 "'기라인'을 끝내고 '천기라인'이 됐다"고 말했다. 이를 들은 코드 쿤스트는 "'기라인' 피해자 보상하라"고 농담했다. 이어 박나래가 "']]></content>
     </entry>
 </feed>

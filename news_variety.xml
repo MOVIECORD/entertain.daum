@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/variety</id>
     <title>다음 연예 ─ 뉴스 ─ 예능</title>
-    <updated>2023-03-31T19:09:51.118Z</updated>
+    <updated>2023-03-31T20:12:00.164Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[박나래 폐소공포증 “죽을 것 같은 공포, 비행 때 수면제 챙겨”고백]]></title>
+        <id>https://v.daum.net/v/20230401051008335</id>
+        <link href="https://v.daum.net/v/20230401051008335"/>
+        <updated>2023-03-31T20:11:48.463Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 이하나 기자] 박나래가 폐소공포증을 앓고 있다고 고백했다. 3월 31일 방송된 채널A ‘오은영의 금쪽상담소’에서는 김현철의 아내 최은경이 극심한 폐소공포증을 겪고 있는 상황을 공개했다. 최은경이 폐소공포증으로 인해 비행기를 탈 때도 어려움을 겪는다는 고민을 털어놓자, 박나래는 “얘기만 들어도 손에 땀이 난다. 저도 폐소공포증이 심한 편이다”라]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["빽가母 선 넘는다"..방송불가할 정도로 욕설 '삑-처리']]></title>
         <id>https://v.daum.net/v/20230401035726142</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230401001339336"/>
         <updated>2023-03-31T16:13:07.198Z</updated>
         <content type="html"><![CDATA[[스타뉴스 이빛나리 기자] /사진='나 혼자 산다' 방송화면[이빛나리 스타뉴스 인턴 기자] 배우 천정명이 열심히 주짓수를 배우는 기안84를 칭찬했다. 31일 오후 방송된 MBC 예능프로그램 '나 혼자 산다'에서 기안84가 주짓수 고수 천정명에게 주짓수를 배웠다. 이날 천정명과 기안84는 도복을 차려입고 체육관에 등장했다. 천정명은 기안84에게 주짓수를]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["뜻깊은 시간" 사부 천정명X화백 기안84, 재능 나눈 '천기형제']]></title>
-        <id>https://v.daum.net/v/20230401001019309</id>
-        <link href="https://v.daum.net/v/20230401001019309"/>
-        <updated>2023-03-31T15:12:10.112Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 원민순 기자) 천정명과 기안84가 재능을 나눴다. 31일 방송된 MBC '나 혼자 산다'에서는 천정명과 기안84가 재능을 나누는 모습이 전파를 탔다. 이날 기안84는 천정명이 주짓수를 하는 체육관에 등장해 궁금증을 자아냈다. 기안84는 이번이 두 번째 방문이라고 했다. 천정명&nbsp;때문에 이미 간 적이 있었다고. 기안84는 천정명]]></content>
     </entry>
 </feed>
