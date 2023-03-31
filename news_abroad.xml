@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-03-31T03:12:43.728Z</updated>
+    <updated>2023-03-31T04:14:17.301Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[기네스 팰트로, '스키 뺑소니' 승소...달랑 '1300원' 배상금 받는다]]></title>
+        <id>https://v.daum.net/v/20230331125700105</id>
+        <link href="https://v.daum.net/v/20230331125700105"/>
+        <updated>2023-03-31T04:14:16.549Z</updated>
+        <content type="html"><![CDATA[[TV리포트=유비취 기자] 할리우드 인기 배우 기네스 팰트로가 '스키 뺑소니' 재판에서 승소해 '1달러'(한화 약 1300원)의 손해 배상금을 받는다. 30일(현지 시간) 미국 유타주 배심원단은 기네스 팰트로(50)가 테리 샌더슨(76)과의 충돌에서 잘못이 없다고 결정하면서 평결을 발표했다. 이로써 기네스 팰트로는 '1달러'의 손해 배상을 받게 됐다. 평결]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[톰 크루즈·니콜 키드먼 딸, 대중에 모습 드러내...파격 헤어 눈길]]></title>
         <id>https://v.daum.net/v/20230331120230863</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230331041030887"/>
         <updated>2023-03-30T20:12:23.856Z</updated>
         <content type="html"><![CDATA[[TV리포트=이예은 기자] 디즈니가 마블을 인수하면서 시행한 정리해고는 회사의 최고 지위에 있는 경영진조차 피하지 못했다.&nbsp; 30일(현지 시간) 미국 연예 매체 버라이어티사는 마블이 디즈니에 인수되면서 마블 엔터테인먼트 회장인 아이작 펄머터(80)가 해임됐다고 보도했다.&nbsp;공동 사장인 롭 스테픈스와 수석 변호사 존 투릿진까지 해임된 것으로 알려졌다.&nbsp;단, 부]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[니콜라스 케이지, 31살 연하 아내와 나들이]]></title>
-        <id>https://v.daum.net/v/20230331031130743</id>
-        <link href="https://v.daum.net/v/20230331031130743"/>
-        <updated>2023-03-30T18:13:48.807Z</updated>
-        <content type="html"><![CDATA[[TV리포트=이수연 기자] 니콜라스 케이지가 31살 연하 일본인 아내와 시사회 나들이에 나섰다. 28일(현지 시간) 니콜라스 케이지(59)가 일본인 아내 시바타 리코(28)과 함께 미국 캘리포니아 주 로스앤젤레스에서 열린 영화 '렌필드(Renfield)' 시사회에 참석했다. 니콜라스 케이지와 시바타 리코는 2020년 영화 '고스트랜드' 촬영 당시 일본에서]]></content>
     </entry>
 </feed>
