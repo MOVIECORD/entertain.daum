@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-04-01T22:10:37.346Z</updated>
+    <updated>2023-04-01T23:10:27.932Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['스즈메의 문단속' 25일 연속 1위…356만 동원]]></title>
+        <id>https://v.daum.net/v/20230402072919794</id>
+        <link href="https://v.daum.net/v/20230402072919794"/>
+        <updated>2023-04-01T23:10:05.314Z</updated>
+        <content type="html"><![CDATA[[OSEN=김보라 기자] 영화 ‘스즈메의 문단속’이 한 달 가깝게 박스오피스 1위 자리를 지키며 장기 흥행을 이어가고 있다. 2일 영화진흥위원회 영화관입장권 통합전산망 집계를 보면 전날(1일) ‘스즈메의 문단속’은 27만 8357명을 동원해 일별 박스오피스 1위를 유지했다. ‘스즈메의 문단속’(감독 신카이 마코토, 수입 미디어캐슬, 배급 쇼박스)은 우연]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[아이유 '브로커' 이어 '드림'으로…스크린도 꽉 잡는다]]></title>
         <id>https://v.daum.net/v/20230402070047615</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230401100111117"/>
         <updated>2023-04-01T02:02:43.911Z</updated>
         <content type="html"><![CDATA[[서울경제] ‘존 윅’이라는 이름만으로 모든 설명은 끝났다. 존 윅(키아누 리브스 분)은 총을 쏘고, 칼로 베고, 주먹을 휘두르면서 앞으로 전진한다. 한편으로는 고전적인 ‘최고회의’ 시스템과 얽혀 숙명을 마주한 21세기 기사(騎士)를 그려내는 것 같다. 4년 만에 극장으로 돌아온 영화 ‘존 윅 4’는 박진감 넘치는 액션을 선보이며 관객들이 ‘존 윅’에 바]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[정호연, 나홍진호 탑승..'오겜' 이후 첫 韓 영화 外]]></title>
-        <id>https://v.daum.net/v/20230401100002042</id>
-        <link href="https://v.daum.net/v/20230401100002042"/>
-        <updated>2023-04-01T02:02:43.913Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 김미화 기자] 정호연 / 사진=사람 엔터테인먼트 [김미화 기자] ○...배우 정호연이 나홍진 호에 탑승했다. 정호연은 나홍진 감독의 신작 영화 '호프'에 경찰 '성애' 역으로 캐스팅됐다. 영화 '호프'는 고립된 항구마을 호포항에서 시작된 의문의 공격에 맞서는 주민들의 이야기. 마을 외곽에서 미지의 존재가 목격된 후, 그 실체를 수색하다 마을이 파]]></content>
     </entry>
 </feed>
