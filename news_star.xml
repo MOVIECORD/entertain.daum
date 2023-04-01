@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2023-04-01T20:11:15.267Z</updated>
+    <updated>2023-04-01T21:10:19.691Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[분노·결핍·혼돈…조승우의 ‘유령’]]></title>
+        <id>https://v.daum.net/v/20230402060203103</id>
+        <link href="https://v.daum.net/v/20230402060203103"/>
+        <updated>2023-04-01T21:10:12.858Z</updated>
+        <content type="html"><![CDATA[배우 조승우는 20대 초반 뮤지컬 ‘오페라의 유령’ 오디션을 봐 라울 역에 합격했지만 정작 무대에 오르지는 못했다. 공연 제작사 신입직원이 실수로 오디션 결과를 반대로 전한 탓이었다. 조승우는 뮤지컬 대신 영화 ‘후아유’(감독 최호)에 출연했다. 그 후 20여년. 충무로 흥행 왕으로 자리매김한 그가 마침내 ‘오페라의 유령’ 무대에 섰다. 이번엔 라울이]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[거북이 터틀맨, 오늘 15주기…여전히 그리운 목소리]]></title>
+        <id>https://v.daum.net/v/20230402060006010</id>
+        <link href="https://v.daum.net/v/20230402060006010"/>
+        <updated>2023-04-01T21:10:12.870Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 황혜진 기자] 혼성그룹 거북이 리더 고(故) 터틀맨(본명 임성훈)이 세상을 떠난 지 15년이 흘렀다. 터틀맨은 2008년 4월 2일 자택에서 급성 심근경색으로 세상을 떠났다. 향년 38세. 고인은 사망 후 경기도 안성에 위치한 한 추모관에 안치됐다. 터틀맨은 2001년 거북이 1집 앨범 'Go! Boogi!'(고! 부기!)로 가요계 데뷔했다. 이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['전참시' 풍자, '자존감 지킴이' 절친 김대영과 훈훈한 우정]]></title>
         <id>https://v.daum.net/v/20230402051003781</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230402001804500"/>
         <updated>2023-04-01T16:13:18.315Z</updated>
         <content type="html"><![CDATA[[스타뉴스 한해선 기자] /사진=고소영 [한해선 스타뉴스 기자] 배우 고소영이 MZ세대 패션을 완벽 소화했다. 고소영은 1일 한 명품 매장에 방문해 의상을 시착해본 근황을 공개했다. 사진 속 고소영은 롱코트에 조거팬츠, 운동화를 매치하고 힙한 분위기를 선보였다. /사진=고소영/사진=고소영 또 다른 사진에서 그는 크롭톱을 입고 늘씬한 허리를 자랑하기]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[장항준, '김은희 판박이' 딸 자랑 "청소년문학상서 수상"]]></title>
-        <id>https://v.daum.net/v/20230402001203482</id>
-        <link href="https://v.daum.net/v/20230402001203482"/>
-        <updated>2023-04-01T16:13:18.315Z</updated>
-        <content type="html"><![CDATA[[스포츠투데이 송오정 기자] 영화감독 장항준이 엄마·아빠 DNA를 물려받은 자랑스러운 딸을 언급했다. 1일 방송된 MBC '전지적 참견 시점'(이하 '전참시')에서는 장항준이 딸 자랑을 늘어놓았다. 영화감독 장항준은 작가 김은희와 결혼해 슬하에 딸 윤서 양을 두고 있다. 딸 역시 글쓰기에 재능을 보인다는 이야기가 언급되자, 장항준은 "어릴 때부터 책 보는]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[리사, 26번째 생일 자축‥비율 좋으니 이런 옷까지 소화해]]></title>
-        <id>https://v.daum.net/v/20230402000314455</id>
-        <link href="https://v.daum.net/v/20230402000314455"/>
-        <updated>2023-04-01T15:11:04.942Z</updated>
-        <content type="html"><![CDATA[[OSEN=최지연 기자] 블랙핑크 멤버 리사가 생일을 자축했다.&nbsp; 1일, 리사는&nbsp;“Sweet 26th"라는 글과 함께 여러 장의 사진을 업로드 했다. 공유한 사진 속 그는 머리에 빨간 리본을 두른 것에 더해 드레스마저 리본이 포인트인 것을 입어 눈길을 끌었다. 이는 자신의 생일을 자축하는 패션으로 보이는데. 리사는 1997년 3월 27일 생으로 알려져]]></content>
     </entry>
 </feed>
