@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-04-02T00:57:30.657Z</updated>
+    <updated>2023-04-02T02:05:36.206Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김지연이 곧 '조선변호사'…매력 포텐 터진 '1인2역' 엔딩]]></title>
+        <id>https://v.daum.net/v/20230402104633342</id>
+        <link href="https://v.daum.net/v/20230402104633342"/>
+        <updated>2023-04-02T02:05:19.073Z</updated>
+        <content type="html"><![CDATA[[OSEN=장우영 기자] ‘조선변호사’ 김지연이 매력 포텐을 터트렸다. 지난 1일 방송된 MBC 금토드라마 ‘조선변호사’(극본 최진영, 연출 김승호 이한준, 제작 피플스토리컴퍼니, 원콘텐츠) 2회에서 김지연은 복수를 위해 신분을 숨긴 조선의 공주 ‘이연주’ 역으로 분해 연주의 당당한 매력을 선보이며 흐뭇하게 했다. 이날 연주와 강한수(우도환)가 함께 장]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘모범택시2’ 이제훈, 신변 위협 무릎 쓴 복수대행 착수…최고 21.6%]]></title>
         <id>https://v.daum.net/v/20230402095701476</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230402080007006"/>
         <updated>2023-04-01T23:10:10.649Z</updated>
         <content type="html"><![CDATA[[스타뉴스 김노을 기자] 배우 백성현 인터뷰 /사진=김창현 기자 chmt@[김노을 스타뉴스 기자] 배우 백성현이 달라졌다. 사랑하는 아내와 단란한 가정을 꾸리고, 두 아이를 얻으며 연기 인생에도 터닝포인트를 맞은 것. 작품에서도 현실에서도 제대로 '콩깍지'가 씐 그가 어느 때보다 편안하게 속내를 털어놨다. 백성현은 최근 서울 강남구 신사동의 한 카페에서]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['진짜가 나타났다' 백진희, 혼전 임신 폭로됐다…안재현과 '막말 신경전']]></title>
-        <id>https://v.daum.net/v/20230402080003992</id>
-        <link href="https://v.daum.net/v/20230402080003992"/>
-        <updated>2023-04-01T23:10:10.651Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 이이진 기자) '진짜가 나타났다' 백진희와 안재현이 악연으로 얽혔다. 1일 방송된 KBS 2TV 주말드라마 '진짜가 나타났다' 3회에서는 오연두(백진희 분)와 공태경(안재현)이 서로에게 막말하는 모습이 그려졌다. 이날 오연두는 임신중절수술을 받기로 했고, 공태경은 초음파 검사로 태아 상태를 확인했다. 공태경은 "아이가 안 보여요. 아이가 없어]]></content>
     </entry>
 </feed>
