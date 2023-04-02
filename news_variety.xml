@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/variety</id>
     <title>다음 연예 ─ 뉴스 ─ 예능</title>
-    <updated>2023-04-02T19:08:25.942Z</updated>
+    <updated>2023-04-02T20:11:29.682Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[BTS 인기 실감.. 모로코에서도 '아미' 만났다]]></title>
+        <id>https://v.daum.net/v/20230403044620203</id>
+        <link href="https://v.daum.net/v/20230403044620203"/>
+        <updated>2023-04-02T20:11:18.307Z</updated>
+        <content type="html"><![CDATA[[OSEN=김수형 기자] '장사천재 백사장'에서 BTS(방탄소년단)의 글로벌 인기를 또 한 번 실감하게 했다.&nbsp; 2일 방송된 tvN 예능 '장사천재 백사장'이 전파를 탔다. 이날 모로코에서 장사를 시작한 백종원은 주변 상권을 보더니&nbsp; "부엌 조리과정 보여주면서 관심 끌 것, 우린 보여주기로 가야한다"며 전략을&nbsp;새롭게 세웠다. 특히 호객이 심하면 더 부정]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김승혜, 사심 가득 이상형 공개 "좋아하는 스타일? 김종국"]]></title>
+        <id>https://v.daum.net/v/20230403044038173</id>
+        <link href="https://v.daum.net/v/20230403044038173"/>
+        <updated>2023-04-02T20:11:18.309Z</updated>
+        <content type="html"><![CDATA[[OSEN=최지연 기자] '미우새' 김승혜가 김종국에 호감을 표현했다.&nbsp; 2일 방송된 SBS '미운 우리 새끼'(이하 '미우새')에는 '골 때리는 그녀들'에서 활약 중인 'F개벤져스'와 'FC미우새'의 빅 매치가 성사된 가운데 김종국과 김승혜가 만나 눈길을 끌었다.&nbsp; 이날&nbsp;김종국과 김승혜 사이에 러브라인이 만들어졌다. 알고 보니 조혜련이&nbsp;앞서 한 방송에]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[신동엽 "난 국민MC 아냐‥강호동, 유재석보다 훨씬 편해"]]></title>
         <id>https://v.daum.net/v/20230403031522899</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230402234728122"/>
         <updated>2023-04-02T15:10:14.504Z</updated>
         <content type="html"><![CDATA[[OSEN=김수형 기자] '장사천재 백사장'에서 백종원이 창업을 시작한 가운데, 모코로의 한 소년이 제작진도 모르는 가짜뉴스(?)를 퍼뜨려 눈길을 끌었다.&nbsp; 2일 방송된 tvN 예능 '장사천재 백사장'에서 백종원이 첫 장사 중단 위기에 놓였다.&nbsp; 이날 백종원이 어느 나라로 가는지 정보도 알지 못한 채 공항으로 나섰다.&nbsp;백종원은 "거기서 찾아보는게 낫다"]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['문희준♥소율 딸' 잼잼, 아이돌DNA 폭발 "꿈도 가수"]]></title>
-        <id>https://v.daum.net/v/20230402233548074</id>
-        <link href="https://v.daum.net/v/20230402233548074"/>
-        <updated>2023-04-02T15:10:14.506Z</updated>
-        <content type="html"><![CDATA[[OSEN=김수형 기자] &nbsp;'걸어서 환장 속으로' 에서 문희준과 소율이 딸 희율이의 아이돌 꿈을 전해 눈길을 끌었다.&nbsp; 2일 방송된 KBS2TV 예능 '걸어서 환장 속으로'에서 문희준 가족이 그려졌다.&nbsp;&nbsp; 이날 소율과 문희준이 부부가 출연, &nbsp;괌에 도착한 가족이 그려졌다.&nbsp;문희준은 "아이들 위한 여행"이라며 계획, 아이들도 직접 케어하겠다고 했다.&nbsp;혼자]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[문희준♥소율 "딸 희율, 엄마아빠보다 더 인기 많은 가수 될 거라고"]]></title>
-        <id>https://v.daum.net/v/20230402233128057</id>
-        <link href="https://v.daum.net/v/20230402233128057"/>
-        <updated>2023-04-02T15:10:14.507Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 최희재 기자) 문희준, 소율 부부가 딸 희율의 꿈에 대해 말했다. 2일 방송된 KBS 2TV '걸어서 환장 속으로'(이하 '걸환장')에는 문희준, 소율 부부의 여행 근황이 그려졌다. 이날 문희준, 소율 부부는 딸 희율, 동생 가족과 함께 괌 관광에 나섰다. 뉴진스의 'OMG'에 맞춰 춤을 추는 부녀(父女)의 모습이 눈길을 끌었다. 이에 박나래]]></content>
     </entry>
 </feed>
