@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2023-04-03T18:14:08.037Z</updated>
+    <updated>2023-04-03T19:08:56.362Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[방탄소년단 지민, K팝 그룹·솔로 모두 빌보드 '핫100' 첫 1위]]></title>
+        <id>https://v.daum.net/v/20230404034259774</id>
+        <link href="https://v.daum.net/v/20230404034259774"/>
+        <updated>2023-04-03T19:08:50.309Z</updated>
+        <content type="html"><![CDATA[기사내용 요약 솔로곡 '라이크 크레이지', 8일 자 '핫100' 정상 그간 방탄소년단 멤버로 6곡 '핫100' 1위 올려 [서울=뉴시스]이재훈 기자 = 글로벌 슈퍼 그룹 '방탄소년단'(BTS) 멤버 지민(28·박지민)이 K팝 솔로 처음으로 미국 빌보드 메인 싱글차트 '핫100'에서 1위를 차지했다. 3일(현지시간) 빌보드 차트 예고 기사에 따르면, 지]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[방탄소년단 지민, K팝 솔로 첫 빌보드 '핫100' 1위]]></title>
         <id>https://v.daum.net/v/20230404031220730</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230404000103597"/>
         <updated>2023-04-03T15:11:48.006Z</updated>
         <content type="html"><![CDATA['내 눈의 콩깍지' 영이 역…종방연 '눈물의 에피소드' "잘 살아라 영이야 잘 살았어 영이야" [더팩트ㅣ이한림 기자] 배누리는 과거 인터뷰에서 여러 차례 가족을 언급한 바 있다. 친언니가 무작정 광고 모델에 지원서를 넣어 합격한 것이 데뷔 일화이기도 하고, 그간 본인이 출연한 작품들을 봐주고 피드백을 해준 사람 중에 늘 가족이 크게 자리하고 있어서다]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[배누리 "성장과 배움의 시간…영이와 나, 많이 닮아"①]]></title>
-        <id>https://v.daum.net/v/20230404000014567</id>
-        <link href="https://v.daum.net/v/20230404000014567"/>
-        <updated>2023-04-03T15:11:48.006Z</updated>
-        <content type="html"><![CDATA[KBS 일일극 '내 눈에 콩깍지' 영이 역 열연 중장년 층 인기 몰이 실감 [더팩트ㅣ이한림 기자] 배우 배누리가 KBS1 일일드라마 '내 눈에 콩깍지'로 평일 저녁을 책임진 소감을 밝혔다. 데뷔 15년 만에 공중파 일일극 주연을 맡아 감성을 쏟아내는 열연으로 배우로서 성장한 것은 물론, 자신을 알아봐 주는 중장년 팬들이 늘어난 것에 대해 행복감을 감]]></content>
     </entry>
 </feed>
