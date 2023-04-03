@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-04-03T00:53:13.670Z</updated>
+    <updated>2023-04-03T02:00:05.557Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[테일러 스위프트, 콘서트 도중 셀레나 고메즈 9살 이부 여동생에 모자 선물]]></title>
+        <id>https://v.daum.net/v/20230403100403725</id>
+        <link href="https://v.daum.net/v/20230403100403725"/>
+        <updated>2023-04-03T02:00:04.830Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]세계적 팝스타 테일러 스위프트(33)가 절친 셀레나 고메즈(30)의 이부 여동생 그레이시 엘리엇 티핏(9)에게 콘서트 도중 모자를 선물했다. 2일(현지시간) 연예매체 피플에 따르면, 스위프트는 1일 토요일 텍사스 알링턴에서 에라스 투어 콘서트를 열었다. 이 자리에서 그는 셀레나 고메즈의 이부 여동생 그레이시 엘리엇 티핏에게]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[크리스 록 형제 "톱배우들, '폭행 가해자' 윌 스미스 위로해 상처..직접 사과無"]]></title>
         <id>https://v.daum.net/v/20230403093822543</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230402121001819"/>
         <updated>2023-04-02T03:11:26.938Z</updated>
         <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]세계적 가수 브리트니 스피어스(41)와 남편 샘 아스가리(29)의 불화설은 사실이 아닌 것으로 나타났다. 페이지식스는 1일(현지시간) “스피어스가 결혼 반지를 끼지 않은 채로 목격된 지 며칠 후인 토요일 푸에르토리코에서 신원을 알 수 없는 남성과 함께 있는 모습이 목격됐다”고 전했다. 그러나 한 소식통은 그 남성이 팝스타의]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['전 부부' 톰 크루즈∙니콜 키드먼 30세 딸, 베일 벗은 근황.."사이언톨로지 아티스트"]]></title>
-        <id>https://v.daum.net/v/20230402111720915</id>
-        <link href="https://v.daum.net/v/20230402111720915"/>
-        <updated>2023-04-02T03:11:26.940Z</updated>
-        <content type="html"><![CDATA[[OSEN=최나영 기자] 배우 니콜 키드먼과 톰 크루즈의 딸이&nbsp;셀카로 오랜만에 근황 공개를 해 시선을 모았다. 30세의 벨라 키드먼 크루즈는 최근 자신의 SNS를 통해 공개한&nbsp;사진 속에서&nbsp;새 헤어스타일을 자랑하며 만족스러움을 드러내고 있다. 벨라는 그림을 그리며 자신의 이름을 내건 웹사이트를 운영, 공개 아티스트로 활동 중이다. 그녀는 예술 작업을 하는]]></content>
     </entry>
 </feed>
