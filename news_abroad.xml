@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-04-03T20:11:27.534Z</updated>
+    <updated>2023-04-03T21:10:00.619Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[스테파니 밀스 "연예계 마약하는 사람 많아, 난 안 해서 장수 중"]]></title>
+        <id>https://v.daum.net/v/20230404060530215</id>
+        <link href="https://v.daum.net/v/20230404060530215"/>
+        <updated>2023-04-03T21:09:59.977Z</updated>
+        <content type="html"><![CDATA[[TV리포트=유비취 기자] 뮤지컬 배우 스테파니 밀스가 치열한 할리우드에서 오랫동안 활동할 수 있었던 비결을 공개했다. 지난 달 31일(현지 시간) 미국 연예매체 페이지식스와 진행한 인터뷰에서 스테파니 밀스(66)는 오랜 기간 연예계에서 활동하면서 많은 이들에게 마약 권유를 받았지만 모두 거절했다고 털어놨다. 스테파니 밀스는 마약을 하는 주변인들에 휘둘리지]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['카다시안 家' 막내 딸 카일리 제너, 아들 얼굴 공개]]></title>
         <id>https://v.daum.net/v/20230404050030302</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230403151130670"/>
         <updated>2023-04-03T06:15:19.702Z</updated>
         <content type="html"><![CDATA[[TV리포트=이예은 기자] 할리우드 배우 톰 홀랜드와 젠데이아가 사랑싸움을 벌였다는 소식이 전해졌다. 외신 매체 말카는 지난 31일(현지 시간) 인도 뭄바이 갈라에서 열린 한 문화 행사에 참석한 할리우드 대표 커플 톰 홀랜드와 젠데이아가 평소와 달리 냉랭한 모습이었다고 보도했다. 행사 당일 팬들은 두 사람 사이에 미묘한 기류가 흐르고 있다며 평소와는 다]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[결혼반지 뺀 브리트니 스피어스, 낯선 남자와 휴가 즐겼다]]></title>
-        <id>https://v.daum.net/v/20230403145836900</id>
-        <link href="https://v.daum.net/v/20230403145836900"/>
-        <updated>2023-04-03T06:15:19.703Z</updated>
-        <content type="html"><![CDATA[[TV리포트=이예은 기자] 파혼설에 휩싸인 팝 가수 브리트니 스피어스(41)가 지난 1일 푸에르토리코에서 정체불명의 남자와 어울리는 모습이 포착됐다.&nbsp; 외신 연예 매체 페이지 식스는 1일(현지 시간) 브리트니 스피어스와 함께 놀고 있던 남자는 보디가드임을 확인했다고 보도했다.&nbsp;포착된 브리트니 스피어스는 검은색 오프숄더 드레스를 입고 도라도 해변 마을의 스타]]></content>
     </entry>
 </feed>
