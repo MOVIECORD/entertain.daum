@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-04-03T03:11:55.299Z</updated>
+    <updated>2023-04-03T04:13:18.611Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[정진운 "단종된 농구화, 중고마켓에서...본드 붙여가며"]]></title>
+        <id>https://v.daum.net/v/20230403131003369</id>
+        <link href="https://v.daum.net/v/20230403131003369"/>
+        <updated>2023-04-03T04:12:57.084Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 김유진 기자) 가수 겸 배우 정진운이 '리바운드' 속 실존 인물 연기를 위해 노력했던 사연을 전했다. 정진운은 3일 오전 서울 종로구 소격동의 한 카페에서 열린 영화 '리바운드'(감독 장항준) 인터뷰에서 다양한 이야기를 전했다. '리바운드'에서 정진운은 실력파 선수였지만 발목 부상으로 농구를 그만두고 길거리 내기 농구를 전전하던 중 강양현 코]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[설경구 "'길복순' 속 전도연에 눈먼 사랑"]]></title>
         <id>https://v.daum.net/v/20230403114847467</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230403095858419"/>
         <updated>2023-04-03T01:59:39.990Z</updated>
         <content type="html"><![CDATA[[OSEN=김보라 기자] 배우&nbsp;설경구가 독보적인 캐릭터 차민규로 또 한 번 전세계 시청자들을 공략한다. 넷플릭스 영화 '길복순'(감독 변성현, 제작 씨앗필름)은 청부살인업계의 전설적인 킬러이자&nbsp;10대 딸의 싱글맘&nbsp;길복순(전도연 분)이 회사와 재계약을 앞두고 죽거나 또는 죽이거나,&nbsp;피할 수 없는 대결에 휘말리는 이야기를 그린 액션 영화. 설경구가 분한 차]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['스즈메의 문단속', '너의 이름은' 꺾고 400만 눈앞…4주간 주말 '1위']]></title>
-        <id>https://v.daum.net/v/20230403095132132</id>
-        <link href="https://v.daum.net/v/20230403095132132"/>
-        <updated>2023-04-03T00:52:51.115Z</updated>
-        <content type="html"><![CDATA[[OSEN=김보라 기자]&nbsp;‘스즈메의 문단속’이 400만 관객 돌파를 앞두고 있다. 3일 영화진흥위원회 영화관입장권 통합전산망 집계를 보면 전날(2일) ‘스즈메의 문단속’은 21만 7807명을 동원해 일별 박스오피스 1위 자리를 굳건히 지켰다. 지난달 8일 국내 극장에서 개봉해 어제까지 무려 26일 연속으로 일별 박스오피스 1위를 지키며, 누적 관객수 3]]></content>
     </entry>
 </feed>
