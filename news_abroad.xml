@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-04-04T10:12:46.540Z</updated>
+    <updated>2023-04-04T11:10:01.112Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘해리포터’ 드라마 되나? JK 롤링과 긍정 협상 중]]></title>
+        <id>https://v.daum.net/v/20230404192031439</id>
+        <link href="https://v.daum.net/v/20230404192031439"/>
+        <updated>2023-04-04T11:10:00.302Z</updated>
+        <content type="html"><![CDATA[[TV리포트=이혜미 기자] JK 롤링의 유명 판타지 소설 ‘해리포터’를 TV시리즈로 볼 수 있을까. 현재 전망은 희망적이다. 4일(현지시간) 데드라인 등 외신들에 따르면 워너브러더스 디스커버리는 ‘해리포터’를 기반으로 한 TV시리즈 제작을 논의 중이다. 드라마 화 되는 ‘해리포터’는 각 시즌 당 시리즈 책 한 권의 내용을 담는 장기 프로젝트가 될 전망. 워]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[서희원 소송 중인데...母 설레발 "전남편과 화해하길"]]></title>
         <id>https://v.daum.net/v/20230404184600659</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230404123731072"/>
         <updated>2023-04-04T04:14:13.849Z</updated>
         <content type="html"><![CDATA[[TV리포트=이수연 기자] 할리우드 배우 레오나르도 디카프리오가 또 모델과 데이트하는 모습이 포착됐다. 다른 여성과 열애설이 불거진 지 일주일도 안된 시점에서다. 3일(현지 시간) 영국 매체 더선은 디카프리오가 28세 모델 마야 자마와 열애 중이라고 보도했다. 마야 자마는 미국의 인기 예능 '러브 아일랜드'의 호스트이기도 하다. 두 사람은 지난 2월 파리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[드웨인 존슨, 하와이에서 '모아나' 실사 영화 제작 발표]]></title>
-        <id>https://v.daum.net/v/20230404123446044</id>
-        <link href="https://v.daum.net/v/20230404123446044"/>
-        <updated>2023-04-04T04:14:13.849Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 이창규 기자) 디즈니의 애니메이션 '모아나'가 실사 영화로 제작된다. 3일(현지시간) 드웨인 존슨은 하와이의 오아후 섬에서 "'모아나'의 아름다운 이야기를 실사 영화로 만들어 대형 스크린에서 선보일 수 있어 기쁘다"고 밝힌 영상을 공개했다. 그는 "마우이는 내 인생을 바꿨다"며 "디즈니와 손잡고 폴리네시아인으로서의 정체성이 담긴 음악과 춤을]]></content>
     </entry>
 </feed>
