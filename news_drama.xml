@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-04-04T20:12:22.507Z</updated>
+    <updated>2023-04-04T21:10:29.217Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['청춘월담' 박형식vs윤종석, 본격 삼각관계…살인 누명 쓴 전소니 구할까]]></title>
+        <id>https://v.daum.net/v/20230405060001065</id>
+        <link href="https://v.daum.net/v/20230405060001065"/>
+        <updated>2023-04-04T21:10:12.173Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 이이진 기자) '청춘월담' 박형식과 윤종석이 전소니를 두고 삼각관계에 놓였다. 4일 방송된 tvN 월화드라마 '청춘월담' 18회에서는 민재이(전소니 분)가 누명을 쓸 위기에 처한 모습이 그려졌다. 이날 계비(홍수현)는 한성온(윤종석)에게 고순돌이 민재이라는 사실이 적힌 투서를 건넸다. 한성온은 "아닐 것입니다. 아니 옵니다"라며 못박았고, 계]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[서지혜 “‘어쩌다 마주친, 그대’=달콤+쓸쓸 쌍화차”]]></title>
         <id>https://v.daum.net/v/20230405040006943</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230404193517752"/>
         <updated>2023-04-04T11:09:44.655Z</updated>
         <content type="html"><![CDATA[[OSEN=박소영 기자] ‘보라!&nbsp;데보라’&nbsp;유인나,&nbsp;윤현민이 대환장 첫 만남을 갖는다. 오는&nbsp;4월&nbsp;12일 첫 방송되는&nbsp;ENA&nbsp;새 오리지널 드라마&nbsp;‘보라!&nbsp;데보라’(연출 이태곤·서민정,&nbsp;극본 아경,&nbsp;기획&nbsp;KT스튜디오지니,&nbsp;제작 풍년전파상·오즈아레나)측은&nbsp;4일,&nbsp;첫 만남부터 티격태격 케미를 예고한 연애코치&nbsp;‘데보라’(유인나 분)와 출판기획자&nbsp;‘이수혁’(윤현]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['마녀의 게임' 주새벽, 오창석 협박 "판도라 상자 열겠다"]]></title>
-        <id>https://v.daum.net/v/20230404192209488</id>
-        <link href="https://v.daum.net/v/20230404192209488"/>
-        <updated>2023-04-04T11:09:44.657Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 이빛나리 기자] /사진='마녀의 게임' 방송화면[이빛나리 스타뉴스 인턴 기자] '마녀의 게임' 주새벽이 오창석을 협박했다. 4일 오후 방송된 MBC 일일드라마 '마녀의 게임'에서 안희영(주새벽 분)이 강지호(오창석 분)를 협박하는 모습이 담겼다. 이날 안희영은 강지호 사무실에 설치된 카메라를 찾아냈다. 안희영은 사무실로 들어오는 강지호에 "회]]></content>
     </entry>
 </feed>
