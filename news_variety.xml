@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/variety</id>
     <title>다음 연예 ─ 뉴스 ─ 예능</title>
-    <updated>2023-04-04T19:09:17.076Z</updated>
+    <updated>2023-04-04T20:12:22.503Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[박원숙 "재혼 가정 계부, 딸 성폭력 너무 화나" 분노 폭발]]></title>
+        <id>https://v.daum.net/v/20230405050405531</id>
+        <link href="https://v.daum.net/v/20230405050405531"/>
+        <updated>2023-04-04T20:12:10.112Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 박서연 기자] 배우 박원숙이 재혼 가정에서 발생한 성폭력 문제에 대해 분노했다. 지난 4일 방송된 KBS 2TV '박원숙의 같이 삽시다'에는 관계 상담 전문가 손경이가 출연했다. 이날 박원숙은 "요즘 보면 재혼 가정에서 계부가 성폭력 하는 게 너무 화가 난다. 그런 건 어떻게 해야 하나"라며 목소리를 높였다. 이에 손경이 상담 전문가]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["첫 美비밀 데이트날, 결혼약속" 유지태, ♥김효진 한정 '사랑꾼']]></title>
+        <id>https://v.daum.net/v/20230405041524050</id>
+        <link href="https://v.daum.net/v/20230405041524050"/>
+        <updated>2023-04-04T20:12:10.115Z</updated>
+        <content type="html"><![CDATA[[OSEN=김수형 기자] &nbsp;‘돌싱포맨’에서 유지태와 김효진의 풋풋한 러브스토리가 대리 설렘을 안겼다.&nbsp; 4일 &nbsp;방송된 SBS 예능 ‘돌싱포맨’에서 러브스토리가 전해졌다.&nbsp; 이날 유지태가 김준호 절친으로 출연, 모두 "정말 절친같지 않다 확실한 증거가 있나"고 물었다. 이에 김준호는 &nbsp;"친한사이는 닮는다고 해 나와 지태의 '평행이론'이 있다"며&nbsp; &nbsp;특히]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[바다, 에스파 덕분에 해외 팬들 눈도장? 과연 무슨 일이]]></title>
         <id>https://v.daum.net/v/20230405040608003</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230405000641154"/>
         <updated>2023-04-04T15:12:07.745Z</updated>
         <content type="html"><![CDATA[(엑스포츠뉴스 오승현) 유재석이 솔직한 밸런스 게임을 하며 과거를 회상했다. 4일 유튜브 채널 '플레이유 레벨업'에는 '유재석, 어디까지 참을 수 있나?'라는 제목의 영상이 올라왔다. 이날 유재석은 '해본 적 있다 vs 없다'를 진행했다. 유재석은 '카페에서 음료 1잔 시키고 4시간 이상 수다 떤 적'에 대해 "그런 적 있다. 우리가 어느 정도 사장님이 이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[싱글 강경헌 “결혼 할 생각도 안 할 생각도 별로 없어”]]></title>
-        <id>https://v.daum.net/v/20230405000132069</id>
-        <link href="https://v.daum.net/v/20230405000132069"/>
-        <updated>2023-04-04T15:12:07.745Z</updated>
-        <content type="html"><![CDATA[강경헌이 결혼 안 한 이유를 말했다. 4월 4일 방송된 SBS ‘신발 벗고 돌싱포맨’에서는 김준호의 대학 동기 배우 유지태, 강경헌이 출연했다. 임원희는 강경헌 출연에 ‘미운우리새끼’에서 일방적인 썸을 탄 것을 언급하며 화이트데이 꽃다발까지 선물 호감을 드러냈다. 이상민도 “처음 뵀는데 진짜 아름다우시다”고 강경헌의 미모에 찬사를 보냈다. 이어 탁재]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[천하의 유지태인데..유튜브 폭망? "조회수가 겨우..".]]></title>
-        <id>https://v.daum.net/v/20230404235933014</id>
-        <link href="https://v.daum.net/v/20230404235933014"/>
-        <updated>2023-04-04T15:12:07.746Z</updated>
-        <content type="html"><![CDATA[[OSEN=김수형 기자] &nbsp;‘돌싱포맨’에서 유지태가 유튜브 채널을 폭망(?)한 일화로 웃음을 안겼다.&nbsp; 4일 &nbsp;방송된 SBS 예능 ‘돌싱포맨’이 전파를 탔다.&nbsp; 이날 서울 한 시네마테크에서 모인 멤버들이 그려졌다.&nbsp;알고보니 김준호가 절친이자 톱스타 배우 유지태를 섭외한 것.&nbsp; 마침 유지태와 강경헌이 도착했다.&nbsp;김준호는 "내 절친 지태"라며 인사,&nbsp;모두]]></content>
     </entry>
 </feed>
