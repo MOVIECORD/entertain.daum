@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/variety</id>
     <title>다음 연예 ─ 뉴스 ─ 예능</title>
-    <updated>2023-04-04T09:11:29.105Z</updated>
+    <updated>2023-04-04T10:12:46.537Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[릴러말즈, 이사배에게 데모곡 들려주더니 “꺼져”]]></title>
+        <id>https://v.daum.net/v/20230404185819905</id>
+        <link href="https://v.daum.net/v/20230404185819905"/>
+        <updated>2023-04-04T10:12:33.968Z</updated>
+        <content type="html"><![CDATA[[OSEN=김채연 기자] 래퍼 릴러말즈가 이사배에게 데모곡을 들려주고 꺼졌다. 3일 유튜브 채널 ‘KODE 코드’에는 ‘릴러말즈 데모곡 들으러 "꺼져"’라는 제목으로 영상이 게재됐다. ‘셀폰 KODE’는 비슷한 코드를 가진 사람과 상대방을 모르는 상태에서 메신저로 대화를 나누며 서로의 취향에 대해 알아가는 콘텐츠로, 이날에는 래퍼 릴러말즈와 메이크업 아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[데뷔 못한 10년 차 아이돌 연습생 여친, 결국 소속사 퇴출]]></title>
+        <id>https://v.daum.net/v/20230404183322370</id>
+        <link href="https://v.daum.net/v/20230404183322370"/>
+        <updated>2023-04-04T10:12:33.970Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 윤성열 기자] /사진제공='연애의 참견'[윤성열 스타뉴스 기자] 10년 차 아이돌 연습생과 사귀는 남자의 사연이 '연애의 참견'을 통해 공개된다. 4일 오후 방송되는 KBS Joy 예능프로그램 '연애의 참견' 170회에서는 아이돌 연습생 여자친구와 2년째 연애 중인 직장인 고민남의 사연이 공개된다. 고민남 커플은 바깥에서 만날 때면 늘 거]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[장항준 "피곤해도 ♥김은희가 부탁하면"…사랑받는 이유 있었네]]></title>
         <id>https://v.daum.net/v/20230404181002763</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230404170916760"/>
         <updated>2023-04-04T08:14:14.118Z</updated>
         <content type="html"><![CDATA[(엑스포츠뉴스 윤현지 기자) 배우 고두심이 김성환과의 여행 중 특별한 손님을 만난다. 4일 방송되는 채널A '엄마의 여행 고두심이 좋아서' 49회에서는 고두심이 가수 겸 배우 김성환과의 전북 군산시 여행 중 동료 배우 김수미를 만난 사연이 공개된다. 고두심은 이날 한 드라마에서 부부로 함께 출연했던 김성환과 군산으로 여행을 떠난다. 군산은 김성환의 고향으로]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘진격의 언니들’ 오늘 종영 “알찬 재정비 시간 가질 것”]]></title>
-        <id>https://v.daum.net/v/20230404165959397</id>
-        <link href="https://v.daum.net/v/20230404165959397"/>
-        <updated>2023-04-04T08:14:14.120Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 김명미 기자] 채널S 고민상담 토크쇼 ‘진격의 언니들-고민커트살롱’이 종영한다. '진격의 언니들' 측은 4월 4일 "채널S 대표 브랜드로 자리잡은 '진격 시리즈'로, 시청자들에게 공감과 위로를 선사했던 '진격의 언니들-고민커트살롱'이 아쉽게 4일 방송을 마지막으로 종영하게 됐다"고 밝혔다. 이어 "'진격의 할매'와 '진격의 언니들'까지 '진격 시]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[하하♥별, '희소병 투병' 막내 송이도 함께..'하하버스' 오늘 첫방]]></title>
-        <id>https://v.daum.net/v/20230404165837344</id>
-        <link href="https://v.daum.net/v/20230404165837344"/>
-        <updated>2023-04-04T08:14:14.123Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 안윤지 기자] /사진제공=ENA '하하버스'[안윤지 스타뉴스 기자] 하하-별 가족의 완전체 첫 예능 '하하버스'가 오늘(4일) 첫 운행을 시작한다. 4일 방송되는 새 예능프로그램 '하하버스'(제작 ENA, AXN, K-STAR)는 막내 송이로 인해 모든 것이 변한 하하 가족이 송이를 위해 마련한 특별한 여행프로젝트로, 낡은 마을버스를 고쳐 타고]]></content>
     </entry>
 </feed>

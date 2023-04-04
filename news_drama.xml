@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-04-04T09:11:29.094Z</updated>
+    <updated>2023-04-04T10:12:46.533Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["장근석·허성태·이엘리야 울릉도 갔다"…미끼 던진 '미끼']]></title>
+        <id>https://v.daum.net/v/20230404191122209</id>
+        <link href="https://v.daum.net/v/20230404191122209"/>
+        <updated>2023-04-04T10:12:26.952Z</updated>
+        <content type="html"><![CDATA[[OSEN=장우영 기자] 배우 허성태가 ‘미끼’ 파트2에 대한 미끼를 던졌다. 허성태는 4일 오후 서울 종로구의 한 카페에서 OSEN과 만나 오는 7일 공개 되는 쿠팡플레이 오리지널 ‘미끼’ 파트2에 대해 이야기를 나눴다. ‘미끼’는 유사 이래 최대 사기 사건의 범인이 사망한 지 8년 후, 그가 살인 사건의 용의자로 지목되면서 이를 둘러싼 비밀을 추적하]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[입소문 난 '홍김동전', OTT 드라마틱한 역주행…77위→8위 껑충]]></title>
+        <id>https://v.daum.net/v/20230404183100315</id>
+        <link href="https://v.daum.net/v/20230404183100315"/>
+        <updated>2023-04-04T10:12:26.954Z</updated>
+        <content type="html"><![CDATA[‘홍김동전’[이데일리 스타in 김가영 기자] KBS2 목요 예능의 전통을 계승하는 ‘홍김동전’이 뜨거운 입소문과 함께 드라마틱한 역주행으로 화제를 모으고 있다. KBS2 예능 ‘홍김동전’(연출 박인석)은 홍진경, 김숙, 조세호, 주우재, 우영이 출연해 동전으로 운명을 체인지하는 피땀눈물의 구개념 버라이어티로 시청자의 입소문이 이어지며 매회 핫한 화제를 모]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[허성태 "'미끼' 노상천, '밀정' 하일수보다 나쁘다"]]></title>
         <id>https://v.daum.net/v/20230404180617685</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230404165509203"/>
         <updated>2023-04-04T08:14:09.214Z</updated>
         <content type="html"><![CDATA[[OSEN=최나영 기자]&nbsp;‘비밀의 여자’의 최재성, 방은희가 처한 답답한 현실이 안쓰러움을 자극한다. 4일(오늘) 오후 7시 50분에 방송되는 KBS 2TV 일일드라마 ‘비밀의 여자’(연출 신창석 / 극본 이정대 / 제작 셀트리온 엔터테인먼트) 15회에서는 윤길자(방은희 분)가 손녀를 잃어버렸다는 딸 정겨울(신고은 분) 소식에 좌절하고, 구치소에 수감]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['근짱' 장근석 "데뷔 31년차인데 '연기 수업' 받았죠…적당한 긴장감 생겨 좋아요"]]></title>
-        <id>https://v.daum.net/v/20230404164901969</id>
-        <link href="https://v.daum.net/v/20230404164901969"/>
-        <updated>2023-04-04T08:14:09.227Z</updated>
-        <content type="html"><![CDATA[[텐아시아=류예지 기자] "이 작품을 하기 전에 스스로도 많이 굳어있어서 몇 달 정도 연기 레슨을 받았죠. 주변에서 의아해하기는 했어요. 그런데 운전 10년 하던 사람이 1년만 안 해도 어색하고 깜빡이 위치가 헷갈리지 않나요. 저도 마찬가지로 세포들을 깨우고 꺼내는 작업이 필요하다고 생각했어요. 일종의 스트레칭하는 기분이었죠" "호흡법부터 다 하면서 대]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이미숙 ‘눈물의 여왕’ 합류…김수현·김지원과 호흡]]></title>
-        <id>https://v.daum.net/v/20230404164742917</id>
-        <link href="https://v.daum.net/v/20230404164742917"/>
-        <updated>2023-04-04T08:14:09.229Z</updated>
-        <content type="html"><![CDATA[[동아닷컴] 배우 이미숙이 tvN 새 드라마 ‘눈물의 여왕’(극본 박지은 연출 장영우 김희원)에 출연한다. 동아닷컴 취재 결과, 이미숙은 ‘눈물의 여왕’을 통해 안방극장에 복귀한다. ‘돈꽃’을 통해 메인 연출자로 입봉한 김희원 감독과 재회한다. ‘눈물의 여왕’은 ‘사랑의 불시착’, ‘별에서 온 그대’, ‘푸른 바다의 전설’ 등을 집필한 흥행 보증 수표 박]]></content>
     </entry>
 </feed>
