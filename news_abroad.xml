@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-04-05T10:13:31.024Z</updated>
+    <updated>2023-04-05T11:11:15.455Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[마돈나 "내 삶에서 가장 영향력 있는 남자"...故시모어 스타인 추모]]></title>
+        <id>https://v.daum.net/v/20230405200100279</id>
+        <link href="https://v.daum.net/v/20230405200100279"/>
+        <updated>2023-04-05T11:11:14.633Z</updated>
+        <content type="html"><![CDATA[[TV리포트=이예은 기자] '팝의 여왕' 마돈나가 무명 시절 자신에게 도움의 손길을 내밀었던 기업가 시모언 스타인의 죽음을 추모했다.&nbsp; 미국 연예 매체 버라이어티에 따르면, 지난 2일(현지 시간) 시모어 스타인은 암과의 오랜 투병 끝에 향년 80세의 나이로 세상을 떠났다.&nbsp; 시모어 스타인은 1983년 마돈나를 시어 레코드의 영입한 후, 그가 가수가 되는 데]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[마돈나, 남친의 전 여친 문제로 '골머리'...35세 연하 만나기 쉽지 않네]]></title>
         <id>https://v.daum.net/v/20230405190200090</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230405151534569"/>
         <updated>2023-04-05T07:11:40.060Z</updated>
         <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]할리우드 스타 브래드 피트(59)의 전 여친 에밀리 라타이코프스키(31)가 세계적 팝스타 해리 스타일스(29)와 두 달째 열애중이라는 사실을 암시했다. 이들은 지난달 24일 도쿄 길거리의 대형차 옆에서 서로 격렬하게 키스했다. 주위에 여러 사람이 있고, 특히 행인이 그들 바로 옆을 지나가고 있는데도 이들은 전혀 개의치 않고]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[탕웨이♥김태용, 딸과 함께 가족 행사 참석...불화설 '완벽 일축']]></title>
-        <id>https://v.daum.net/v/20230405151348497</id>
-        <link href="https://v.daum.net/v/20230405151348497"/>
-        <updated>2023-04-05T06:14:51.950Z</updated>
-        <content type="html"><![CDATA[[OSEN=유수연 기자]&nbsp;탕웨이 김태용 부부의 중국 근황이 공개됐다. 최근 중국의 SNS 웨이보에는&nbsp;탕웨이와 김태용 감독 부부가 딸 썸머와 함께 가족 행사에 참석한 영상이 게재돼 화제를 모았다. 공개된 영상 속에는 야구 모자를 쓴 탕웨이와 그 옆에 나란히 앉은 김태용 감독의 모습이 담겼다.&nbsp;특히 중국에서 지내고 있는 것으로 알려진 딸 썸머의 모습이 눈길]]></content>
     </entry>
 </feed>
