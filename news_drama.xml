@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-04-05T04:14:10.258Z</updated>
+    <updated>2023-04-05T05:10:56.464Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘카지노’ 이도군, 최민식과 네번째 재회 “대사 주고받을 수 있어 기뻤다”]]></title>
+        <id>https://v.daum.net/v/20230405134838190</id>
+        <link href="https://v.daum.net/v/20230405134838190"/>
+        <updated>2023-04-05T05:10:39.489Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 박수인 기자] 배우 이도군이 '카지노' 종영 소감을 전했다. 이도군은 지난 2월 15일 공개된 디즈니 플러스 ‘카지노’에서 삼합회 두목 ‘꼬마’를 연기하며, 연기와 비주얼로 시청자들의 이목을 끌어냈다. ‘카지노’에서 차무식(최민식 분)을 서태석(허성태 분)으로부터 구하는가 하면, 서태석을 뱀에 물려 죽음에 이르게 하며 ‘카지노 시즌2’의 초반 충]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['미끼' 이엘리야 "장근석 온·오프 확실…이래서 프로구나"]]></title>
         <id>https://v.daum.net/v/20230405131115251</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230405113819885"/>
         <updated>2023-04-05T03:11:34.400Z</updated>
         <content type="html"><![CDATA[[뉴스엔 김명미 기자] ‘딜리버리맨’ 김민석의 악행이 더욱 거세진다. 지니 TV 오리지널 ‘딜리버리맨’(연출 강솔·박대희, 극본 주효진·박혜영·한보경, 기획 KT스튜디오지니, 제작 코탑미디어) 측은 4월 5일 문제의 휴대폰을 둘러싼 서영민(윤찬영 분), 강지현(방민아 분), 도규진(김민석 분)의 대치를 포착했다. 지난 방송에서는 강지현과 김진숙(이혜은 분]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박형식 보러 갔다가 윤종석·이태선에게 마음 빼앗겼다네]]></title>
-        <id>https://v.daum.net/v/20230405113501752</id>
-        <link href="https://v.daum.net/v/20230405113501752"/>
-        <updated>2023-04-05T03:11:34.401Z</updated>
-        <content type="html"><![CDATA[[엔터미디어=정덕현의 네모난 세상] 제목처럼 청춘들의 매력이 담을 넘는 느낌이다. tvN 월화드라마 &lt;청춘월담&gt;에는 '귀신의 서'라는 저주와 맞서는 왕세자 이환(박형식), 가족을 살해했다는 누명을 쓰고 그 진실을 밝히려 왕세자의 내관 행세를 하는 민재이(전소니), 영의정의 막내아들이지만 중수무원록 같은 당대의 과학수사에 관심이 깊어 만연당을 세운 김명진(이]]></content>
     </entry>
 </feed>
