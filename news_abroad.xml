@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-04-06T02:34:37.299Z</updated>
+    <updated>2023-04-06T03:11:44.691Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['카다시안 家' 셋째, 밥 먹듯 외도한 애 아빠와 데이트...용서했나]]></title>
+        <id>https://v.daum.net/v/20230406120230499</id>
+        <link href="https://v.daum.net/v/20230406120230499"/>
+        <updated>2023-04-06T03:11:43.948Z</updated>
+        <content type="html"><![CDATA[[TV리포트=유비취 기자] 카다시안 집안의 셋째 클로이 카다시안이 외도를 반복한 애 아빠와 만남을 가졌다. 지난 4일(현지 시간) 클로이 카다시안(38)이 전 애인 트리스탄 톰슨(32)과 미국 캘리포니아에 위치한 패스트푸드점 드라이브스루에서 함께 목격됐다고 미국 연예매체 페이지식스는 보도했다. 패스트푸드점 직원이 촬영한 영상에서 클로이 카다시안은 조수석에]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[가수 니베아 "전 남편들이 '연애 프로' 참가 응원해줘"]]></title>
         <id>https://v.daum.net/v/20230406112101654</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230405230300871"/>
         <updated>2023-04-05T14:12:07.495Z</updated>
         <content type="html"><![CDATA[[TV리포트=이예은 기자] HBO 시리즈 '유포리아'의 배우 바비 페레이라(26)가 시즌 3에서 하차한 이유를 밝혔다.&nbsp; 바비 페레이라는 '유포리아'에서 캣 헤르난데즈 역으로 전 세계적으로 이름을 알렸으나, 지난 8월에 하차 소식을 알려 대중들의 아쉬움을 자아냈다.&nbsp; 지난 3일 팻캐스트 암체어 익스퍼트에 출연한 바비 페레이는 9개월 만에 하차한 이유에 대해]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['TLC' 칠리 "히트곡 1위 해도 흑인이라 잡지 커버 못해"]]></title>
-        <id>https://v.daum.net/v/20230405220131224</id>
-        <link href="https://v.daum.net/v/20230405220131224"/>
-        <updated>2023-04-05T13:23:56.060Z</updated>
-        <content type="html"><![CDATA[[TV리포트=유비취 기자] 1990년대를 대표하는 알앤비 그룹 TLC의 멤버 칠리가 인종차별 피해를 폭로했다. 4일(현지 시간) '레거시 어워드'에 참석한 TLC의 멤버 칠리가 음악 산업에서 유색 인종 여성으로서 겪었던 차별과 이뤄낸 성취에 대해 연설했다. 칠리는 유색 인종 여성으로서 음악 산업에 종사하는 것은 '그 자체로 엄청난 투쟁'이라고 말문을 열었다]]></content>
     </entry>
 </feed>
