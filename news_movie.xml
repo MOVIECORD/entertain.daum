@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-04-06T20:11:34.267Z</updated>
+    <updated>2023-04-06T21:10:06.141Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[스크린 탈환! 4월, 한국 영화의 역습]]></title>
+        <id>https://v.daum.net/v/20230407060803512</id>
+        <link href="https://v.daum.net/v/20230407060803512"/>
+        <updated>2023-04-06T21:09:42.977Z</updated>
+        <content type="html"><![CDATA[한국 영화가 다시 자존심을 세울 수 있을까. 일본 애니메이션이 박스오피스에서 수개월째 파워를 과시하고 있는 가운데 관객들의 호응이 기대되는 한국 영화들이 속속 개봉에 나서며 반격을 예고하고 있다. 특히 다채로운 장르가 돋보인다. 감동적인 실화를 바탕으로 한 장항준 감독의 ‘리바운드’부터 특유의 유머 감각으로 탄탄한 마니아층을 보유한 이원석 감독의 신]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이탈리아 거장 줄줄이 꿴 봉준호 감독, 피렌체 사로잡았다]]></title>
+        <id>https://v.daum.net/v/20230407053006957</id>
+        <link href="https://v.daum.net/v/20230407053006957"/>
+        <updated>2023-04-06T21:09:42.977Z</updated>
+        <content type="html"><![CDATA[(피렌체=연합뉴스) 신창용 특파원 = "몇 년 전, 프랑스 리옹에서 우연히 마르코 벨로키오 감독님을 식사자리에서 뵌 적이 있어요. 떨렸어요. 말을 걸어보고 싶었는데 무척 조용하시더군요. 계속 그분을 바라보면서 수프를 먹었습니다." 세계적인 거장 반열에 올라선 봉준호 감독이 이탈리아 영화감독 벨로키오를 만났을 때의 일화를 숟가락으로 수프를 떠먹는 동작을 취하]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["이쯤 되면 '무지성' 인증"…김래원→최정윤, 반복되는 상영 중 불법촬영 논란史]]></title>
         <id>https://v.daum.net/v/20230407045413456</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230406165803013"/>
         <updated>2023-04-06T08:14:13.297Z</updated>
         <content type="html"><![CDATA[지난달 15일 개봉한 영화 ‘샤잠! 신들의 분노’(감독 데이비드 F. 샌드버그)는 열흘 만에 박스오피스 10위권에서 자취를 감췄다. 개봉 9일 차 순위는 13위. 지금까지 ‘샤잠! 신들의 분노’가 국내서 모은 총 관객 수는 7만 8626명(6일 영화진흥위원회 영화관입장권 통합전산망 집계)이다. 현재 박스오피스 1위인 ‘스즈메의 문단속’(감독 신카이 마코]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘소울메이트’ 메이킹 다이어리까지 입소문 “초판 수량 소진, 2쇄 제작 돌입”]]></title>
-        <id>https://v.daum.net/v/20230406165558953</id>
-        <link href="https://v.daum.net/v/20230406165558953"/>
-        <updated>2023-04-06T08:14:13.297Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 배효주 기자] '소울메이트'의 여운을 이어갈 메이킹 다이어리가 출간됐다. 영화 '소울메이트'(감독 민용근)는 첫 만남부터 서로를 알아본 두 친구 ‘미소(김다미)’와 ‘하은(전소니)’ 그리고 ‘진우(변우석)’가 기쁨, 슬픔, 설렘, 그리움까지 모든 것을 함께 한 이야기. 메이킹 다이어리가 지난 4월 3일 출간됐다. 총 5개 파트로 구성된 메이킹]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["전도연의 벼랑 끝 연기…저렇게까지 가능하다니"]]></title>
-        <id>https://v.daum.net/v/20230406164127444</id>
-        <link href="https://v.daum.net/v/20230406164127444"/>
-        <updated>2023-04-06T08:14:13.298Z</updated>
-        <content type="html"><![CDATA[변성현 감독이 '길복순' 전도연의 연기에 감탄했던 순간을 회상했다. 6일 변성현 감독은 서울 종로구 삼청동의 한 카페에서 iMBC연예와 넷플릭스 오리지널 영화 '길복순'(감독 변성현) 인터뷰를 진행했다. '길복순'은 청부살인업계의 전설적 킬러이자 싱글맘 길복순(전도연)이 딸을 위해 은퇴를 결심하며 벌어지는 이야기를 그린 영화다. 전도연, 설경구, 김시]]></content>
     </entry>
 </feed>
