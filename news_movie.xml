@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-04-06T19:09:15.264Z</updated>
+    <updated>2023-04-06T20:11:34.267Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["이쯤 되면 '무지성' 인증"…김래원→최정윤, 반복되는 상영 중 불법촬영 논란史]]></title>
+        <id>https://v.daum.net/v/20230407045413456</id>
+        <link href="https://v.daum.net/v/20230407045413456"/>
+        <updated>2023-04-06T20:11:10.706Z</updated>
+        <content type="html"><![CDATA[[스포츠조선 조지영 기자] 이쯤 되면 실수가 아닌 무지성이다. 잊을 만하면 떠오르는 상영 중 불법 촬영이 배우 최정윤을 통해 다시 논란이 되면서 관객의 눈살을 찌푸리게 했다. 최정윤은 지난 5일 개인 계정을 통해 자신이 출연한 스포츠 휴먼 영화 '리바운드'(장항준 감독, 비에이엔터테인먼트·워크하우스컴퍼니 제작) VIP 시사회에 참석한 소회를]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘소울메이트’ 민용근 감독 “인생의 단 한 사람에 관한 이야기”]]></title>
         <id>https://v.daum.net/v/20230407040812264</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230406164127444"/>
         <updated>2023-04-06T08:14:13.298Z</updated>
         <content type="html"><![CDATA[변성현 감독이 '길복순' 전도연의 연기에 감탄했던 순간을 회상했다. 6일 변성현 감독은 서울 종로구 삼청동의 한 카페에서 iMBC연예와 넷플릭스 오리지널 영화 '길복순'(감독 변성현) 인터뷰를 진행했다. '길복순'은 청부살인업계의 전설적 킬러이자 싱글맘 길복순(전도연)이 딸을 위해 은퇴를 결심하며 벌어지는 이야기를 그린 영화다. 전도연, 설경구, 김시]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["캐릭터 이상""선배님이 그래요"…도끼 든 전도연 탄생한 배경]]></title>
-        <id>https://v.daum.net/v/20230406163056113</id>
-        <link href="https://v.daum.net/v/20230406163056113"/>
-        <updated>2023-04-06T08:14:13.299Z</updated>
-        <content type="html"><![CDATA[지난달 종영한 드라마 ‘일타스캔들’(tvN)에서 유쾌한 ‘로코(로맨틱 코미디)의 여왕’으로 등극했던 전도연(50)이 ‘죽여주는’ 액션으로 돌아왔다. 킬러로 변신한 넷플릭스 영화 ‘길복순’(감독 변성현)이 지난달 31일 출시 후 사흘 만에 1961만 시청 시간을 기록하며 넷플릭스 글로벌 비영어 영화 부문 1위에 올랐다. 1992년 드라마 ‘우리들의 천국]]></content>
     </entry>
 </feed>
