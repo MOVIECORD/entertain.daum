@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/variety</id>
     <title>다음 연예 ─ 뉴스 ─ 예능</title>
-    <updated>2023-04-06T18:13:38.518Z</updated>
+    <updated>2023-04-06T19:09:15.277Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[전현무, 외로움 노골적 호소 "사랑이 고픈.."]]></title>
+        <id>https://v.daum.net/v/20230407035723178</id>
+        <link href="https://v.daum.net/v/20230407035723178"/>
+        <updated>2023-04-06T19:09:03.031Z</updated>
+        <content type="html"><![CDATA[[OSEN=김수형 기자] ‘노머니 노아트’에서 전현무가 외로움을 호소해 눈길을 끌었다.&nbsp; 6일 방송된 KBS 2TV ‘노머니 노아트’가 전파를 탔다.&nbsp; 이날 여성작가들을 소개, 제각기 다른 개성의 작가들이었다. 먼저 첫번째로 아’이라최의 작품을 소개, 그는 이미 ‘펜트하우스’와 ‘굿와이프’등 드라마 촬영현장 배경 인테리어로 작품을 선보이기도 했다. 최작]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[윤세아, 지진에도 참돔 낚아온 킹태곤에 감탄→이태곤, "바다의 미녀 보여줄게"]]></title>
         <id>https://v.daum.net/v/20230407003903386</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230406233004777"/>
         <updated>2023-04-06T15:11:57.210Z</updated>
         <content type="html"><![CDATA[(엑스포츠뉴스 황수연 기자) 홍진경이 '홍김동전'의 낮은 시청률에 위기감을 느꼈다.&nbsp; 6일 방송된 KBS 2TV '홍김동전'은 KBS 예능 방송 오마주 특집 3탄으로 '스타 골든벨'을 오마주한 '동전 골든벨'이 펼쳐졌다. 이날 홍진경은 지난 방송의 반응이 좋았다는 이야기에 "재밌었던 것에 비해 시청률이 안 나오더라. 우리 긴급 대책 회의 같은 거 하면 안]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[강승윤, "여기 춤 선생님이 계신다"...2등급 시류 춤에 호평]]></title>
-        <id>https://v.daum.net/v/20230406232003671</id>
-        <link href="https://v.daum.net/v/20230406232003671"/>
-        <updated>2023-04-06T15:11:57.211Z</updated>
-        <content type="html"><![CDATA[[텐아시아=신지원 기자]'소년판타지’ 강승윤이 시류의 춤을 높게 평가했다. 6일 방송된 MBC 예능프로그램 ‘소년판타지- 방과후 설렘 시즌2'에서는 우영, 진영, 강승윤, 소연이 '아이돌 DNA' 등급 재조정을 하는 모습이 담겼다. 이날 1등급과 2등급 친구들이 등장하자 강승윤은 "확실히 1등급 친구들이 표정이 밝다"라고 인정했고 우영 역시 "2등급은]]></content>
     </entry>
 </feed>
