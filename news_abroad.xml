@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-04-07T09:11:30.267Z</updated>
+    <updated>2023-04-07T10:11:52.249Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['온몸 골절' 제레미 레너, 폭설 사고 경위 밝혀졌다.."조카 위해"]]></title>
+        <id>https://v.daum.net/v/20230407185224027</id>
+        <link href="https://v.daum.net/v/20230407185224027"/>
+        <updated>2023-04-07T10:11:51.632Z</updated>
+        <content type="html"><![CDATA[[OSEN=박소영 기자] 지난 1월 제설 사고를 당한 배우 제레미 레너가 사고 당시를 떠올렸다. 제레미 레너는 최근 매체 인터뷰를 통해 “27살 조카 알렉스와 함께 제설차를 사용해 제설 작업을 하고 있었다. 알렉스는 눈에 파묻힌 차를 견인하고 나서 제설기에 연결한 체인을 분리했다. 나는 제설차에 타고 있었는데 빙판 위에서 미끄러지기 시작했다”고 말했다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[아담 샌들러, 데뷔 초 하루에 '1만원' 벌어...무명 시절 영상 확산 중]]></title>
+        <id>https://v.daum.net/v/20230407184631894</id>
+        <link href="https://v.daum.net/v/20230407184631894"/>
+        <updated>2023-04-07T10:11:51.634Z</updated>
+        <content type="html"><![CDATA[[TV리포트=이수연 기자] 지금은 할리우드 대표 배우가 된 아담 샌들러가 과거 꿈을 위해 고군분투했던 영상이 공개됐다. 최근 인터넷상에는 아담 샌들러가 스탠드업 코미디를 하던 시절 영상이 빠르게 확산되고 있다. 온라인 미디어 래드바이블(ladbible)에 따르면 그는 당시 하루에 10달러(한화 약 1만 3,170 원) 남짓 벌었다. 그는 뉴욕에서 스탠드업]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[잭 블랙, 중학생 아들 2명 때문에 속상..."나와 멀어지려 해"]]></title>
         <id>https://v.daum.net/v/20230407172701836</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230407112622057"/>
         <updated>2023-04-07T02:28:34.614Z</updated>
         <content type="html"><![CDATA[[OSEN=강서정 기자] 래퍼 칸예 웨스트가 그가 세운 학교에 근무했던 직원 두 명에게 인종차별 및 부당해고로 고소 당했다. 6일(현지시간) 페이지 식스 보도에 따르면 세실리아 헤일리와 체카리 바이어스 교사는 자신들이 인종차별을 받았고 불법적으로 임금지불이 보류됐으며 규정위반 신고에 대한 보복으로 지난 3월 해고됐다고 주장했다. 헤일리와 바이어스는 자신]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[맷 데이먼, “마이클 조던 ‘에어’ 4월 5일 개봉일과 소름돋는 우연”]]></title>
-        <id>https://v.daum.net/v/20230407112441982</id>
-        <link href="https://v.daum.net/v/20230407112441982"/>
-        <updated>2023-04-07T02:28:34.617Z</updated>
-        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]영화 ‘에어’의 맷 데이먼(52)이 ‘농구황제’ 마이클 조던(60)과 자신과의 소름돋는 우연을 언급했다. 벤 애플렉 감독의 ‘에어’는 1984년, 업계 꼴찌 나이키를 최고의 브랜드로 만들기 위해 NBA 신인 선수였던 마이클 조던에게 모든 것을 걸었던 게임체인저의 드라마틱한 성공 전략을 그린 작품. 당시 마이클 조던은 아디다스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[반년전 급사 美래퍼 쿨리오 사인 알고보니 '펜타닐 과다복용']]></title>
-        <id>https://v.daum.net/v/20230407110835221</id>
-        <link href="https://v.daum.net/v/20230407110835221"/>
-        <updated>2023-04-07T02:28:34.618Z</updated>
-        <content type="html"><![CDATA[(서울=연합뉴스) 황철환 기자 = 작년 9월 갑작스레 세상을 떠난 미국의 유명 래퍼 쿨리오(59·본명 아티스 리언 아이비 주니어)의 사인이 '좀비 마약'으로 불리는 펜타닐 과다복용 탓이었던 것으로 드러났다. 6일(현지시간) AP 통신과 로이터 통신 등에 따르면 쿨리오의 전 매니저인 자레즈 포시는 이날 로스앤젤레스(LA) 카운티 검시관실로부터 이러한 검사결과]]></content>
     </entry>
 </feed>
