@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-04-07T08:14:02.897Z</updated>
+    <updated>2023-04-07T09:11:30.267Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[잭 블랙, 중학생 아들 2명 때문에 속상..."나와 멀어지려 해"]]></title>
+        <id>https://v.daum.net/v/20230407172701836</id>
+        <link href="https://v.daum.net/v/20230407172701836"/>
+        <updated>2023-04-07T09:11:29.580Z</updated>
+        <content type="html"><![CDATA[[TV리포트=유비취 기자] 배우 잭 블랙도 사춘기 아들을 둔 어쩔 수 없는 부모였다. 6일(현지 시간) 미국 피플에서 공개한 인터뷰에서 잭 블랙은 사춘기를 겪고 있는 아들 때문에 고민이라고 고백했다. 그는 각각 14살, 16살의 아들에 대해 "여느 10대와 마찬가지로 부모와 멀어지기를 원한다"라고 털어놨다. 잭 블랙은 아들이 아빠와 거리를 두고 싶어 하는]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['카다시안 家' 셋째 "외로워...데이트 앱으로 남자 만나고파"]]></title>
+        <id>https://v.daum.net/v/20230407171530565</id>
+        <link href="https://v.daum.net/v/20230407171530565"/>
+        <updated>2023-04-07T09:11:29.583Z</updated>
+        <content type="html"><![CDATA[[TV리포트=유비취 기자] 카다시안 집안의 셋째 클로이 카다시안이 새로운 사랑을 찾고 있다. 6일(현지 시간) '제니퍼 허드슨 쇼'에 출연한 클로이 카다시안(38)은 새로운 연인을 찾기 위해 데이트 앱을 이용할 의향이 있다고 밝혔다. 클로이 카다시안은 현재 애인이 없는 솔로라고 전했다. 솔로로서 데이트 앱을 사용해 본 적 있냐는 질문에 그는 아직 없지만 사]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['스파이더맨' 스핀오프 작품은..."예상보다 더 어두울 것"]]></title>
         <id>https://v.daum.net/v/20230407170030194</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230407110835221"/>
         <updated>2023-04-07T02:28:34.618Z</updated>
         <content type="html"><![CDATA[(서울=연합뉴스) 황철환 기자 = 작년 9월 갑작스레 세상을 떠난 미국의 유명 래퍼 쿨리오(59·본명 아티스 리언 아이비 주니어)의 사인이 '좀비 마약'으로 불리는 펜타닐 과다복용 탓이었던 것으로 드러났다. 6일(현지시간) AP 통신과 로이터 통신 등에 따르면 쿨리오의 전 매니저인 자레즈 포시는 이날 로스앤젤레스(LA) 카운티 검시관실로부터 이러한 검사결과]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[제임스 건 감독, “DC×마블 크로스오버 가능성 더 커졌다”]]></title>
-        <id>https://v.daum.net/v/20230407102842398</id>
-        <link href="https://v.daum.net/v/20230407102842398"/>
-        <updated>2023-04-07T01:58:03.140Z</updated>
-        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]슈퍼히어로무비 팬들의 오랜 숙원이었던 DC와 마블의 크로스오버 가능성이 현실화될 전망이다. 마블 히어로 무비 ‘가디언즈 오브 갤럭시’ 시리즈의 제임스 건 감독은 지난해 11월 DC 스튜디오 CEO가 됐다. 마블과 DC를 두루 경험한 그는 양사의 크로스오버에 긍정적 전망을 내놓았다. 그는 6일(현지시간) 영화매체 엠파이어와]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['존 윅' 故 랜스 레딕, 사망보고서 공개…사인은 허혈성 심장질환·동맥경화]]></title>
-        <id>https://v.daum.net/v/20230407102800364</id>
-        <link href="https://v.daum.net/v/20230407102800364"/>
-        <updated>2023-04-07T01:58:03.145Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 이창규 기자) 최근 갑작스럽게 세상을 떠난 故 랜스 레딕의&nbsp;사인이 밝혀졌다. 6일(현지시간) 미국 TMZ는 랜스 레딕의 사망진단서를 입수, 그의 사인이 허혈성 심장질환과 동맥경화성 관상동맥질환(동맥경화)이라고 보도했다. 지난달 18일 스튜디오 시티에 위치한 랜스 레딕의 자택 뒷마당에서 그가 쓰러져 있는 것을 아내 스테파니가 발견하고 신고했으나]]></content>
     </entry>
 </feed>
