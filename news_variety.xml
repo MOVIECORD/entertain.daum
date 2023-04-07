@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/variety</id>
     <title>다음 연예 ─ 뉴스 ─ 예능</title>
-    <updated>2023-04-07T18:12:59.823Z</updated>
+    <updated>2023-04-07T19:09:05.532Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이연복 "이찬원, 연애하지?" 돌직구 질문→이찬원 '배시시']]></title>
+        <id>https://v.daum.net/v/20230408033720039</id>
+        <link href="https://v.daum.net/v/20230408033720039"/>
+        <updated>2023-04-07T19:08:54.237Z</updated>
+        <content type="html"><![CDATA[[OSEN=최지연 기자] '신상출시 편스토랑' 이연복 세프가 이찬원에게 연애 중이냐고 물었다.&nbsp; 7일 방송된 KBS 2TV '신상출시 편스토랑'(이하 '편스토랑')에는&nbsp;이찬원이 녹음에 열중하는 모습이 그려져 눈길을 끌었다.&nbsp;이날 이찬원은 집안인을 하며 정규 1집 노래를 연습 했다. 그러다 이찬원은 "중요한 사람들과 중요한 일이 있다"라며 냉장고에서 식재]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“둘러싸고 발로 차” 원슈타인 학폭 피해‥오은영, 현실 문동은들에게 위로]]></title>
         <id>https://v.daum.net/v/20230408030505002</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230408001201500"/>
         <updated>2023-04-07T16:13:43.311Z</updated>
         <content type="html"><![CDATA[[텐아시아=신지원 기자]'결혼 말고 동거' 한혜진이 3인 동거인에 오해했다. 7일 방송된 MBN 예능 프로그램 ‘결혼 말고 동거’에서는 방송 최초 3인 동거인이 새로운 팀으로 합류했다. 이날 3개의 침대가 등장하자 패널들은 술렁댔다. 아이키 역시 "셋이 살 수 있구나"라면서도 당황한 기색을 감추지 못했다. 이후 기자출신 쇼호스트이자 N잡러인 동거녀는 "]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['결말동' 최초 3인 동거…커플 사이에 낀 동거녀 '보디 프로필도 함께']]></title>
-        <id>https://v.daum.net/v/20230408001007487</id>
-        <link href="https://v.daum.net/v/20230408001007487"/>
-        <updated>2023-04-07T15:11:03.618Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 명희숙 기자) '결혼 말고 동거' 최고 3인 동거 커플이 등장했다.&nbsp; 7일 방송된 채널A '결혼 말고 동거'에는 새로운 동거 커플이 등장했다. 태훈과 희수는 주말 아침 평범한 대화를 나눴다. 이후 상희가 등장했고, 태훈 옆에 앉아 커플의 분위기를 내며 의문을 자아냈다.&nbsp; 태훈과 상희가 커플이었고, 희수는 상희의 친동생. 상희는 "태훈이 3년차]]></content>
     </entry>
 </feed>
