@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/variety</id>
     <title>다음 연예 ─ 뉴스 ─ 예능</title>
-    <updated>2023-04-07T16:13:53.622Z</updated>
+    <updated>2023-04-07T17:10:03.059Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[키, "아! 신분증!" 양식조리기능사 필기 시험장서 당황… 시험 결과는? "합격"]]></title>
+        <id>https://v.daum.net/v/20230408013000769</id>
+        <link href="https://v.daum.net/v/20230408013000769"/>
+        <updated>2023-04-07T17:09:51.315Z</updated>
+        <content type="html"><![CDATA[[OSEN=김예솔 기자] 키가 양식조리기능사 필기 시험에 나섰다.&nbsp; 7일에 방송된 MBC '나 혼자 산다'에서는 키가 양식조리기능사 필기 시험장에 갔지만 신분증을 깜빡해 웃음을 자아냈다.&nbsp; 키는 양식조리기능사 자격증 필기 시험을 앞두고 "수능보다 몇 배는 긴장한 것 같다"라고 말했다. 키는 머리에 좋다는 견과류와 바나나 음료를 준비하고 아보카도 샌드위치]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[키, 양식조리기능사 필기 합격...태연 "정말 열심히 산다"]]></title>
         <id>https://v.daum.net/v/20230408011003725</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230408001002484"/>
         <updated>2023-04-07T15:11:03.619Z</updated>
         <content type="html"><![CDATA[(엑스포츠뉴스 노수린 기자) 오은영이 빽가母 차희정에게 일침을 가했다. 7일 방송된 채널A '오은영의 금쪽상담소'에서는 빽가와 엄마 차희정이 출연해 고민을 전했다. 빽가의 고민은 "엄마의 욕이 심각한 수준"이라는 것이었다. 그는 "중학교 때 엄마가 집에 불을 지른 적이 있다"고 폭로했다. 빽가는 "동생과 싸웠을 때였다. 혼내도 혼내도 말을 듣지 않자 '불]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['나혼산' 송민호 "전현무는 태가 안 나"..패션 대전 자신감]]></title>
-        <id>https://v.daum.net/v/20230408000243452</id>
-        <link href="https://v.daum.net/v/20230408000243452"/>
-        <updated>2023-04-07T15:11:03.620Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 이빛나리 기자] /사진='나 혼자 산다' 방송화면[이빛나리 스타뉴스 인턴 기자] '나 혼자 산다' 그룹 위너 멤버 송민호가 패션 대전에 자신감을 보였다. 7일 오후 방송된 MBC 예능 프로그램 '나 혼자 산다'에는 위너 멤버 송민호가 '전현무·코드 쿤스트' 대 '기안84·송민호' 패션 대전을 준비하는 모습이 담겼다. 이날 송민호는 제작진과의]]></content>
     </entry>
 </feed>
