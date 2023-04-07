@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-04-07T21:09:24.317Z</updated>
+    <updated>2023-04-07T22:10:10.179Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[관객 빗장 풀기 어렵네…호평일색 '리바운드'도 초반 난항]]></title>
+        <id>https://v.daum.net/v/20230408070016124</id>
+        <link href="https://v.daum.net/v/20230408070016124"/>
+        <updated>2023-04-07T22:09:51.001Z</updated>
+        <content type="html"><![CDATA[(서울=뉴스1) 장아름 기자 = 장항준 감독의 신작 '리바운드'가 개봉 첫주 기대보다 아쉬운 성적표를 받았다. 지난 5일 개봉한 '리바운드'는 2012년 전국 고교농구대회, 아무도 주목하지 않았던 최약체 농구부의 신임 코치와 6명의 선수가 쉼 없이 달려간 8일간의 기적 같은 이야기를 그린 감동 실화. 장항준 감독이 연출을 맡고 그의 아내이자 '킹덤' ']]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['스즈메의 문단속' 31일 만에 400만 관객 돌파…역대 애니메이션 TOP 8위]]></title>
+        <id>https://v.daum.net/v/20230408070010115</id>
+        <link href="https://v.daum.net/v/20230408070010115"/>
+        <updated>2023-04-07T22:09:51.001Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 김유진 기자) 최장기간 박스오피스 1위 기록을 경신 중인 영화 '스즈메의 문단속'(감독 신카이 마코토)이 개봉 31일째인 7일 400만 관객을 돌파했다. 영진위 통합전산망에 따르면 지난 달 8일 개봉한 '스즈메의 문단속'은 7일 오후 10시 누적 관객 수 400만156명을 동원하며 개봉 31일 만에 400만 관객을 돌파했다.&nbsp; 특히 이 기록은]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['스즈메의 문단속' 400만 돌파…'슬램덩크' 넘어설까]]></title>
         <id>https://v.daum.net/v/20230407230801138</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230407171031456"/>
         <updated>2023-04-07T08:13:40.748Z</updated>
         <content type="html"><![CDATA[(서울=뉴스1) 정유진 기자 = 영화감독들이 '정당한 보상권'을 요구하는 저작권법 개정을 촉구하는 게릴라 시위를 열었다. 한국영화감독조합(DGK) 소속 영화 감독들은 7일 오후 마포구 상담동 스탠포드 호텔 앞에서 피켓 시위를 진행했다. 시위에 참석한 감독들은 '영상창작자에게 정당한 보상을' '창작자와 함께 하는 세계일류 문화매력국가' 등의 슬로건이 적]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[살인마를 압도한 활자의 힘 '보스턴 교살자']]></title>
-        <id>https://v.daum.net/v/20230407170334269</id>
-        <link href="https://v.daum.net/v/20230407170334269"/>
-        <updated>2023-04-07T08:13:40.752Z</updated>
-        <content type="html"><![CDATA[[서울경제] 오늘 영화는 이거! ‘오영이’ 보스턴 일대에서 세 명의 여성이 목 졸려 살해당한다. 이 세 건의 살인을 시작으로 1960년대 약 3년간 연달아 13명의 피해자들이 교살된다. 약자만을 대상으로 한 비열한 살인마, 그를 쫓기 위해 두 여성 저널리스트들이 활자라는 무기를 들고 나선다. 평소 레코드 아메리칸에서 패션, 다이어트 팁, 금]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이하늬 ‘킬링 로맨스’ 위해 비 섭외했다‥‘레이니즘’ 패러디 MV 공개]]></title>
-        <id>https://v.daum.net/v/20230407164539821</id>
-        <link href="https://v.daum.net/v/20230407164539821"/>
-        <updated>2023-04-07T08:13:40.756Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 배효주 기자] '킬링 로맨스' 개봉을 앞둔 이하늬가 홍보를 위해 직접 기획하고 촬영한 '레이니즘' 패러디 뮤직비디오가 화제를 모으고 있다. 4월 6일 유튜브 채널 ‘하늬모하늬’를 통해 이하늬의 ‘여래이즘’ 뮤직비디오가 공개됐다. ‘여래이즘’은 영화 ‘킬링 로맨스’(감독 이원석)에서 이하늬가 맡은 은퇴한 여배우 '황여래'의 리즈 시절을 대변하는 노]]></content>
     </entry>
 </feed>
