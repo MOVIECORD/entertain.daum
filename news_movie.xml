@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-04-08T22:10:08.284Z</updated>
+    <updated>2023-04-08T23:10:54.016Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['길복순' 감독의 '일베 논란', 어떻게 봐야할까]]></title>
+        <id>https://v.daum.net/v/20230409080036847</id>
+        <link href="https://v.daum.net/v/20230409080036847"/>
+        <updated>2023-04-08T23:10:32.201Z</updated>
+        <content type="html"><![CDATA[(서울=뉴스1) 정유진 기자 = 영화 '킹메이커'에는 우리나라 지역 감정의 시초를 설명하는 인상적인 장면이 나온다. 1970년대, 당시 젊은 정치인 김운범(설경구 분)을 국회의원으로 만든 선거 캠프 참모 서창대(이선균 분)는 김운범과의 가치관 차이로 끝내 그의 선거 캠프에서 나와 여당과 손을 잡는다. 당시 유력한 대통령 후보였던 김운범을 잡기 위한 여당]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[성덕된 변성현 감독 “믿었던 전도연, 갓벽 ‘길복순’으로”]]></title>
         <id>https://v.daum.net/v/20230409070302450</id>
@@ -95,19 +102,5 @@
         <link href="https://v.daum.net/v/20230408081137713"/>
         <updated>2023-04-08T00:50:04.751Z</updated>
         <content type="html"><![CDATA[[스포츠조선 안소윤 기자] 영화 '스즈메의 문단속'이 400만 관객을 돌파했다. 영화관입장권 통합전산망에 따르면 '스즈메의 문단속'은 7일 오후 10시 기준, 누적 관객 수 400만 156명을 동원하며 개봉 31일 만에 400만 관객을 돌파했다. 이 기록은 2023년 개봉작 가운데 가장 빠른 속도로, 100만(6일), 200만(13일),]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['스즈메의 문단속' 31일째 400만 돌파…굳건한 1위]]></title>
-        <id>https://v.daum.net/v/20230408081005703</id>
-        <link href="https://v.daum.net/v/20230408081005703"/>
-        <updated>2023-04-07T23:11:18.865Z</updated>
-        <content type="html"><![CDATA[(서울=뉴스1) 고승아 기자 = 일본 애니메이션 영화 '스즈메의 문단속'(감독 신카이 마코토)이 400만 관객을 돌파했다. 8일 영화진흥위원회 영화관입장권통합전산망의 집계에 따르면 '스즈메의 문단속'은 지난 7일 하루 동안 6만2626명의 관객을 동원하며 박스오피스 1위를 차지했다. 누적관객수는 400만1748명이다. 지난달 8일 개봉한 '스즈메의 문단]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[수인이, 동수, 예진이...세월호 아이들이 엄마를 입고 무대 위로]]></title>
-        <id>https://v.daum.net/v/20230408080506674</id>
-        <link href="https://v.daum.net/v/20230408080506674"/>
-        <updated>2023-04-07T23:11:18.871Z</updated>
-        <content type="html"><![CDATA[☞한겨레S 뉴스레터를 구독해주세요. 검색창에 ‘에스레터’를 쳐보세요. 세월호 9주기다. 때 맞춰 ‘4·16 가족극단 노란리본’의 활동을 담은 다큐멘터리 &lt;장기자랑&gt;이 개봉했다. 극장 불이 꺼지고 다큐가 시작될 때 손수건을 잊었다는 사실이 떠올랐다. “곤란하네. 분명 눈물 콧물 다 흘릴 텐데, 마스크 속이 또 무참해지겠어” 싶었다. 엔딩 자막이 올라가고 극장]]></content>
     </entry>
 </feed>
