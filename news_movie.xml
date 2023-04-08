@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-04-08T02:23:51.308Z</updated>
+    <updated>2023-04-08T03:11:18.483Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["나랑 결혼해 줄래"..이승기♥이다인, 영화 같은 행복한 결혼식]]></title>
+        <id>https://v.daum.net/v/20230408120001967</id>
+        <link href="https://v.daum.net/v/20230408120001967"/>
+        <updated>2023-04-08T03:10:55.451Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 김미화 기자] /사진=결혼 화보[김미화 스타뉴스 기자] ○...배우 이승기가 연인 이다인과 영화 같은 결혼식을 올렸다. 이승기와 이다인은 지난 7일 오후 서울의 한 호텔에서 시상식을 방풀케 하는 화려한 예식을 진행했다. 이날 결혼식 1부 사회는 개그맨 유재석, 2부는 이수근이 맡았으며 축가는 가수 이적이 불렀다. 배우 손지창이 배우 견미리와 인연]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['길복순' 전도연, 그녀는 멋있었다]]></title>
         <id>https://v.daum.net/v/20230408110002428</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230407205009295"/>
         <updated>2023-04-07T12:18:44.832Z</updated>
         <content type="html"><![CDATA[(액스포츠뉴스 이창규 기자) '나는 여기에 있다' 정태우가 아내에 대한 애정을 드러냈다. 7일 오후 서울 광진구 롯데시네마 건대입구에서 영화 '나는 여기에 있다'(감독 신근호)의 언론배급시사회가 진행됐다. 이날 현장에는 배우 조한선, 정진운, 정태우, 노수산나, 신근호 감독이 참석했다. '나는 여기에 있다'는&nbsp;살인 용의자 규종(정진운 분)과 강력팀 형사 선]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['인디아나 존스' 시즌 5가 마지막...더이상 제작 안 한다]]></title>
-        <id>https://v.daum.net/v/20230407200030480</id>
-        <link href="https://v.daum.net/v/20230407200030480"/>
-        <updated>2023-04-07T11:09:10.758Z</updated>
-        <content type="html"><![CDATA[[TV리포트=이예은 기자] 디즈니가 영화 '인디아나 존스' 시즌 5가 시리즈의 마지막이 될 것이라고 공식 발표했다. 6일(현지 시간) 외신 매체 더 디렉트에 따르면, 디즈니는 최신 보도 자료를 통해 "영화 '인디아나 존스: 운명의 다이얼'(이하 '인디아나 존스 5')은 대중의 사랑을 받는 시리즈의 마지막 작품"이라고 보도했다.&nbsp;배우 해리슨 포드가 한 번 더]]></content>
     </entry>
 </feed>
