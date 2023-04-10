@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/variety</id>
     <title>다음 연예 ─ 뉴스 ─ 예능</title>
-    <updated>2023-04-10T18:14:00.062Z</updated>
+    <updated>2023-04-10T19:09:14.183Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["나 좀 살려달라고.." 심형탁, 환청 시달린 '2년 공백' 밝힌다]]></title>
+        <id>https://v.daum.net/v/20230411035323591</id>
+        <link href="https://v.daum.net/v/20230411035323591"/>
+        <updated>2023-04-10T19:09:02.283Z</updated>
+        <content type="html"><![CDATA[[OSEN=김수형 기자] '조선의 사랑꾼'에서 심형탁이 그 동안 잠적했던 속내를 공개할 것이라 알리며 눈물을 보였다.&nbsp; 10일 방송된 TV조선 '조선의 사랑꾼'에서 예고편이 그려졌다.&nbsp; 이날 심형탁이 예비신부를 깜짝 공개한 가운데, 방송말미 그가 잠적했던 이유에 대해 운을 떼는 모습이 그려졌다.&nbsp;심형탁은 "어느날 편지한 통이 와, 민사소송이었다,&nbsp; 제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["키스하게 망 봐달라고"..중학생 때 괴롭힘당한 사연 '뒷목']]></title>
         <id>https://v.daum.net/v/20230411030316439</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230410235649702"/>
         <updated>2023-04-10T15:09:54.816Z</updated>
         <content type="html"><![CDATA[[OSEN=최지연 기자] 배우 이봉련이 배우자 이규회와의 연애일화를 밝혔다.&nbsp; 10일 방송된 SBS '동상이몽2-너는 내 운명'(이하 '동상이몽2')에서는 배우 이봉련이 스페셜 게스트로 자리한 가운데 이규회와의 연애 시절을 공개해 눈길을 끌었다.&nbsp; 이날 MC김숙은 "드라마 '이상한 변호사 우영우', '수리남', 최근에는 '일타스캔들'까지 데뷔 18년 만]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김정화, 어제 같은 과거사진 공개 “고등학교 때 노안”]]></title>
-        <id>https://v.daum.net/v/20230410235508696</id>
-        <link href="https://v.daum.net/v/20230410235508696"/>
-        <updated>2023-04-10T15:09:54.818Z</updated>
-        <content type="html"><![CDATA[김정화가 과거 노안이라 현재 동안이 됐다고 말했다. 4월 10일 방송된 SBS ‘동상이몽 시즌2-너는 내 운명’에서는 배우 김정화 유은성 부부가 합류했다. 김정화가 스튜디오에 첫 출연하자 과거와 비교 “하나도 안 변했다”며 동안 칭찬이 쏟아졌다. 김정화는 대표작 ‘뉴논스톱’에 대해 “제가 그 때 이미 노안이었어서. 제 나이를 찾아가고 있다. 그 때 고]]></content>
     </entry>
 </feed>
