@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2023-04-11T18:13:20.465Z</updated>
+    <updated>2023-04-11T19:09:52.293Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[5년 만에 돌아온 장근석 “‘미끼’는 기존 이미지 깨부순 망치질”]]></title>
+        <id>https://v.daum.net/v/20230412040821622</id>
+        <link href="https://v.daum.net/v/20230412040821622"/>
+        <updated>2023-04-11T19:09:45.206Z</updated>
+        <content type="html"><![CDATA[밤샘 근무를 한 듯 까칠한 피부에 아무렇게나 자라있는 수염, 덥수룩한 머리. ‘아시아 프린스’ ‘꽃미남의 정석’으로 불리던 배우 장근석이 5년 만에 돌아왔다. 그는 로맨틱 코미디 주인공이 아닌 범죄 스릴러물의 거친 형사 역을 택했다. 쿠팡플레이 시리즈 ‘미끼’에서 장근석이 맡은 형사 구도한은 희대의 사기 사건을 벌인 노상천(허성태)을 둘러싸고 벌어지는 연]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘음주운전’ 곽도원, 김새론 이어 나란히 벌금형…1천만 원 약식기소]]></title>
         <id>https://v.daum.net/v/20230412013026085</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230411233911483"/>
         <updated>2023-04-11T15:12:08.864Z</updated>
         <content type="html"><![CDATA[[스포츠투데이 백지연 기자] '돌싱포맨' 배우 엄정화가 임원희와 인연을 공개했다. 11일 방송된 SBS 예능프로그램 '신발 벗고 돌싱포맨'에는 엄정화와 김병철이 게스트로 출연했다. 이날 방송에서 엄정화는 멤버들에게 "안녕"이라며 인사했다. 엄정화는 임원희에게 "뭐야 잘 있었냐고"라며 친근함을 표했다. 엄정화는 임원희를 손을 잡고 끌어당겼고 이를 본 이상민은]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['불타는 장미단' 박민수, 육군 조교 출신…PT 체조 리드]]></title>
-        <id>https://v.daum.net/v/20230411233609466</id>
-        <link href="https://v.daum.net/v/20230411233609466"/>
-        <updated>2023-04-11T15:12:08.865Z</updated>
-        <content type="html"><![CDATA[(서울=뉴스1) 박하나 기자 = '불타는 장미단' 박민수가 육군 조교 출신다운 모습을 보였다. 11일 오후에 방송된 MBN 예능 프로그램 '불타는 장미단'에서는 말레이시아 호텔에서 즐거운 한때를 보내는 장미단(손태진 신성 민수현 김중연 박민수 공훈 에녹)의 모습이 담겼다. 장미단이 호텔 프라이빗 수영장에서 물놀이를 즐기는 모습이 공개됐다. 수영장에 들어]]></content>
     </entry>
 </feed>
