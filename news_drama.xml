@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-04-11T14:12:03.378Z</updated>
+    <updated>2023-04-11T15:12:14.988Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['오아시스' 장동윤, 살아 돌아왔다..설인아와 눈물의 재회]]></title>
+        <id>https://v.daum.net/v/20230412000100619</id>
+        <link href="https://v.daum.net/v/20230412000100619"/>
+        <updated>2023-04-11T15:11:57.302Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 이지현 기자] /사진='오아시스' 방송 화면[이지현 스타뉴스 인턴 기자] '오아시스' 장동윤이 설인아와 재회했다. 11일 방송된 KBS 2TV 월화드라마 '오아시스'에서는 이두학(장동윤 분)이 살아서 한국에 돌아와 오정신(설인아 분)을 만나는 장면이 그려졌다. 한국에 돌아온 장동윤은 친구들을 찾아왔다. 이들은 죽은 줄 알았던 이두학을 보고 눈]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['오아시스' 설인아, 추영우에 거리 두기 "선 넘지 마"]]></title>
+        <id>https://v.daum.net/v/20230411231918347</id>
+        <link href="https://v.daum.net/v/20230411231918347"/>
+        <updated>2023-04-11T15:11:57.329Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 이지현 기자] /사진='오아시스' 방송 화면[이지현 스타뉴스 인턴 기자] '오아시스' 설인아가 추영우의 도움에도 거리를 뒀다. 11일 방송된 KBS 2TV 월화드라마 '오아시스'에서는 오정신(설인아 분)이 최철웅(추영우 분)에게 도움을 받는 장면이 담겼다. 최철웅은 영화사를 개업한 오정신을 찾아와 개업 선물이라며 보고서를 건넸다. 최철웅은 "]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['오아시스' 장동윤, 한국 돌아와 복수 다짐 "다 돌려놓을 것"]]></title>
         <id>https://v.daum.net/v/20230411230730283</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230411185009714"/>
         <updated>2023-04-11T10:12:07.889Z</updated>
         <content type="html"><![CDATA[(엑스포츠뉴스 최희재 기자) 배우 이덕화가 새로운 가발에 도전한 소감을 전했다. 11일 오후, tvN 새 수목드라마 '스틸러: 일곱 개의 조선통보'(이하 '스틸러')는 온라인을 통해 제작발표회를 진행했다. 자리에는 최준배 감독, 배우 주원, 이주우, 조한철, 김재원, 최화정, 이덕화가 참석했다. '스틸러'는 베일에 싸인 문화재 도둑 스컹크와 비공식 문화재]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[정채율 사망에 ‘웨딩 임파서블’ 측 “일정 내부 논의 단계”]]></title>
-        <id>https://v.daum.net/v/20230411184558662</id>
-        <link href="https://v.daum.net/v/20230411184558662"/>
-        <updated>2023-04-11T10:12:07.889Z</updated>
-        <content type="html"><![CDATA[배우 정채율이 사망한 가운데 그가 출연할 예정이었던 드라마 ‘웨딩 임파서블’ 측이 추후 일정에 대한 입장을 냈다. ‘웨딩 임파서블’ 관계자는 11일 일간스포츠에 “향후 일정에 대해서는 현재 내부 논의를 진행하고 있다”고 밝혔다. 모델 출신 배우 정채윤은 이날 향년 26세의 나이로 세상을 떠났다. 고인의 소속사 매니지먼트에스 관계자는 “정채율이 우리 곁을]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['좋좋소'·'찐따록' 이태동 감독 "진용진이 '유튜브 봉준호'라고 해줘요"]]></title>
-        <id>https://v.daum.net/v/20230411180609771</id>
-        <link href="https://v.daum.net/v/20230411180609771"/>
-        <updated>2023-04-11T09:11:54.246Z</updated>
-        <content type="html"><![CDATA[[OSEN=연휘선 기자] 한국 웹드라마 최초 칸 국제 시리즈 페스티벌에 초청받은 '좋좋소'와 인기 유튜버 곽튜브와 함께 하는 '찐따록'까지 '유튜브계 봉준호'로 통하는 이태도 감독을 만나봤다.&nbsp; 이태동 감독은 11일 오후 서울시 강남구 논현동의 3Y코퍼레이션 사무실에서 국내 취재진을 만났다. 그는 현재 곽튜브의 유튜브 채널에서 '찐따록: 인간 곽준빈(약]]></content>
     </entry>
 </feed>
