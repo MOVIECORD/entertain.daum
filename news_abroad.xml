@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-04-11T22:10:31.228Z</updated>
+    <updated>2023-04-11T23:11:00.503Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['해리 스타일스' 연인 에밀리, 쿨한 性관념 고백]]></title>
+        <id>https://v.daum.net/v/20230412080030423</id>
+        <link href="https://v.daum.net/v/20230412080030423"/>
+        <updated>2023-04-11T23:10:59.856Z</updated>
+        <content type="html"><![CDATA[[TV리포트=이예은 기자] 해리 스타일스의 '도쿄 키스녀'로 얼굴을 알린 에밀리(31)가 자신의 개방적인 성관념을 솔직하게 드러냈다.&nbsp;&nbsp; 얼마 전 에밀리 라타이고프스키는 해리 스타일스(29)와 일본 도쿄에서 진한 스킨십을 나누는 모습이 포착돼 열애설에 휩싸였다. 지난 4일(현지 시간) 이들은 열애설을 인정, 사귄 지 2개월 만에 할리우드 공식 커플로 등극했]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘당당한 불륜’ 피케와 결별 샤키라, “두 아이 사생활 보호해달라” 호소]]></title>
         <id>https://v.daum.net/v/20230411195344069</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230411114550349"/>
         <updated>2023-04-11T03:11:45.122Z</updated>
         <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]‘호크아이’ 제레미 레너(52)가 최근 ABC방송과 인터뷰에서 지난 1월 제설기에 깔리는 모습을 애니메이션 영상으로 재연했다. 레너는 지난 1월 1일 제설기가 미끄러져 조카를 덮치는 것을 막으려다 중상을 입었다. 레너는 제설기로 조카의 트럭이 들어올 진입로를 만들고 있었다. 그러나 주차 브레이크를 밟지 않고 차량에서 내려 제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[故 현미, 눈물 속 영결식 “따뜻한 사랑과 호탕한 웃음 지울 수 없어”]]></title>
-        <id>https://v.daum.net/v/20230411105809106</id>
-        <link href="https://v.daum.net/v/20230411105809106"/>
-        <updated>2023-04-11T02:34:23.924Z</updated>
-        <content type="html"><![CDATA[[스포츠서울 | 정하은기자] ‘밤안개’처럼 떠난 고(故) 현미(본명 김명선)의 영결식과 발인이 엄수된 가운데 이자연, 이용식 등 동료와 후배들이 고인의 마지막 길을 배웅했다. 11일 오전 9시 서울 동작구 흑석동 중앙대학교병원 장례식장에서 현미의 영결식이 엄수됐다. 이날 영결식 사회는 코미디언 이용식 맡았고, 대한가수협회장 이자연이 조사를 낭독했다.]]></content>
     </entry>
 </feed>
