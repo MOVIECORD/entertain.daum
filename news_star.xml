@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2023-04-11T16:14:28.214Z</updated>
+    <updated>2023-04-11T17:10:04.544Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘음주운전’ 곽도원, 김새론 이어 나란히 벌금형…1천만 원 약식기소]]></title>
+        <id>https://v.daum.net/v/20230412013026085</id>
+        <link href="https://v.daum.net/v/20230412013026085"/>
+        <updated>2023-04-11T17:09:58.433Z</updated>
+        <content type="html"><![CDATA[[OSEN=유수연 기자]&nbsp;곽도원이 음주운전 혐의로 벌금 1000만원에 약식기소됐다. 11일 제주지방검찰청은 도로교통법 위반(음주운전) 혐의를 받는 곽도원을 벌금 1000만원에 약식기소했다고 밝혔다. 약식기소는 검찰이 정식 재판 대신 서면 심리만으로 벌금이나 과태료를 부과해달라고 법원에 청구하는 절차다. 당사자나 법원이 정식 재판 회부 의사를 밝히지 않으]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘종이달’, 김서형이 6년을 좇은 이유]]></title>
         <id>https://v.daum.net/v/20230412010133973</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230411233609466"/>
         <updated>2023-04-11T15:12:08.865Z</updated>
         <content type="html"><![CDATA[(서울=뉴스1) 박하나 기자 = '불타는 장미단' 박민수가 육군 조교 출신다운 모습을 보였다. 11일 오후에 방송된 MBN 예능 프로그램 '불타는 장미단'에서는 말레이시아 호텔에서 즐거운 한때를 보내는 장미단(손태진 신성 민수현 김중연 박민수 공훈 에녹)의 모습이 담겼다. 장미단이 호텔 프라이빗 수영장에서 물놀이를 즐기는 모습이 공개됐다. 수영장에 들어]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[윤수현X김경필, 무속인·저축오적 썰로 승리..전현무 "재벌회장 아냐" 혼쭐]]></title>
-        <id>https://v.daum.net/v/20230411233208449</id>
-        <link href="https://v.daum.net/v/20230411233208449"/>
-        <updated>2023-04-11T15:12:08.867Z</updated>
-        <content type="html"><![CDATA[[스포츠조선닷컴 정유나 기자] '세치혀' 윤수현과 김경필이 빅매치 결과 승리했다. 11일 방송된 MBC '혓바닥 종합격투기 세치혀'에서는 예상하지 못한 사상 초유의 썰배틀이 공개됐다. 첫 라운드에서는 유튜브의 대세 오프 대세이자 신조어 '킹반인'을 만들어낸 장본인 '팔로미 세치혀' 주디와 트로트 역주행의 주인공 '천태만상 세치혀' 윤수현이]]></content>
     </entry>
 </feed>
