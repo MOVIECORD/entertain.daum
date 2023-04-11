@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-04-11T03:11:45.849Z</updated>
+    <updated>2023-04-11T04:13:03.536Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["연기가 곧 권력" 김희애X문소리 '퀸메이커', 왕좌 차지할까]]></title>
+        <id>https://v.daum.net/v/20230411121435484</id>
+        <link href="https://v.daum.net/v/20230411121435484"/>
+        <updated>2023-04-11T04:12:41.302Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 용산CGV=김나연 기자] 배우 류수영, 문소리, 서이숙, 김희애가 11일 오전 서울 CGV용산아이파크몰에서 진행된 넷플릭스 오리지널 시리즈 '퀸메이커' 제작발표회에 참석해 포즈를 취하고 있다.  이미지 메이킹의 귀재이자 대기업 전략기획실을 쥐락펴락하던 황도희(김희애)가 정의의 코뿔소라 불리며 잡초처럼 살아온 인권변호사 오경숙(문소리)을 서울 시장]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘퀸메이커’ 문소리 “김희애, 처음엔 조심스러웠다”]]></title>
         <id>https://v.daum.net/v/20230411120441290</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230411105347905"/>
         <updated>2023-04-11T02:01:18.906Z</updated>
         <content type="html"><![CDATA[[마이데일리 = 김나라 기자] 영화 '킬링 로맨스'가 3일간의 개봉주 무대인사를 확정했다. '킬링 로맨스'는 섬나라 재벌 조나단(이선균)과 운명적 사랑에 빠져 돌연 은퇴를 선언한 톱스타 여래(이하늬)가 팬클럽 3기 출신 사수생 범우(공명)를 만나 기상천외한 컴백 작전을 모의하게 되는 이야기를 다룬 영화. 오는 14일 개봉일을 포함해 15일, 16일 개봉]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘혈액암 투병’ 안성기 근황, 윤시윤과 ‘탄생’ 관람]]></title>
-        <id>https://v.daum.net/v/20230411105235860</id>
-        <link href="https://v.daum.net/v/20230411105235860"/>
-        <updated>2023-04-11T02:01:18.911Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 배효주 기자] 혈액암 투병 중인 안성기가 영화 '탄생'을 관람했다는 근황이 전해졌다. 안성기는 4월 8일 아트나인에서 박흥식 감독, 윤시윤을 비롯해 ‘탄생’ 팀과 함께 영화를 관람했다. 영화 ‘탄생’(감독 박흥식)은 조선 근대의 길을 열어젖힌 개척자 조선 최초의 사제 청년 김대건의 위대한 여정을 그린 작품이다. 안성기는 김대건 일행에게 중국어를]]></content>
     </entry>
 </feed>
