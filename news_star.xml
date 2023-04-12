@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2023-04-12T18:14:01.442Z</updated>
+    <updated>2023-04-12T19:09:44.005Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[교복 입고 총든 아이들… “입시 전쟁 투영한 풍자극”]]></title>
+        <id>https://v.daum.net/v/20230413040421729</id>
+        <link href="https://v.daum.net/v/20230413040421729"/>
+        <updated>2023-04-12T19:09:37.748Z</updated>
+        <content type="html"><![CDATA[교복을 입은 학생들이 펜 대신 총을 잡는다. 교복 셔츠 위엔 군복을 덧입었다. 학교에서 공부해야 할 이들은 군대처럼 합숙 훈련을 시작한다. 티빙 오리지널 시리즈 ‘방과 후 전쟁활동’은 학원 밀리터리물이다. 인간을 공격하는 괴생명체(구체)가 나타나 입시 전쟁에 시달리던 고3이 진짜 전쟁에 동원되는 내용이다. 어른들은 “훈련에 참여하면 가산점을 준다”고 아이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[신정환, 탁재훈 '수익배분' 언급 해명…"짜고 치는 고스톱 아냐"]]></title>
         <id>https://v.daum.net/v/20230413021003215</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230413000606680"/>
         <updated>2023-04-12T15:12:37.407Z</updated>
         <content type="html"><![CDATA[‘라디오스타’ 전진이 MC 자리에 야망을 터트렸다. 12일 오후 방송된 MBC 예능프로그램 ‘라디오스타’에서는 ‘세상에서 가장 치명적인 허세, 세치허!’ 특집으로 추성훈, 강형욱, 전진, 덱스가 출연했다. 이날 1년 만에 ‘라스’를 찾은 추성훈은 최근에 달라진 게 있다며 “요즘 ‘피지컬 : 100’ 때문에 세계에서 팬이 엄청나게 늘었다. SNS 팔로]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['라스' 전진 "혼수상태서 깨어나 며칠 만에 '드림팀' 왕중왕전 출연"]]></title>
-        <id>https://v.daum.net/v/20230412232803311</id>
-        <link href="https://v.daum.net/v/20230412232803311"/>
-        <updated>2023-04-12T15:12:37.409Z</updated>
-        <content type="html"><![CDATA[[스포츠투데이 송오정 기자] 가수 전진이 생사가 오가는 상황에서도 엄청난 승부욕을 드러냈던 순간을 고백했다. 12일 방송된 MBC '라디오스타'(이하 '라스')에서는 추성훈, 강형욱, 전진, 덱스와 함께 했다. 전진은 과거 스포츠 버라이어티 '출발 드림팀'의 핵심 멤버로 출연했다. 다른 멤버들이 탈락한 뒤에도 마지막까지 살아남았을 정도로 운동신경이 남달랐던]]></content>
     </entry>
 </feed>

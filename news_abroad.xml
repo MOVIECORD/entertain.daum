@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-04-12T18:14:01.427Z</updated>
+    <updated>2023-04-12T19:09:44.002Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[푸시캣돌스 전 멤버 "낙태 강요 받았다"]]></title>
+        <id>https://v.daum.net/v/20230413040031701</id>
+        <link href="https://v.daum.net/v/20230413040031701"/>
+        <updated>2023-04-12T19:09:43.148Z</updated>
+        <content type="html"><![CDATA[[TV리포트=유비취 기자] 미국의 인기 걸그룹 푸시캣돌스의 전 멤버가 낙태를 강요당했다고 뒤늦게 폭로했다. 지난 10일(현지 시간) 푸시캣돌스의 전 멤버 카야 존스(38)는 폭스 네이션 'Tucker Carlson Today(터커 칼슨 투데이)'에 출연해 임신 중절 수술을 강요받았다고 고백했다. 그는 활동을 위해 임신 중절 수술을 할 수밖에 없었다고 밝혔]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['왕좌의 게임' 페드로 파스칼 "무명 시절, 사라 폴슨이 먹이고 입혀줬다"]]></title>
         <id>https://v.daum.net/v/20230413030031280</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230412154111515"/>
         <updated>2023-04-12T07:10:29.315Z</updated>
         <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]세계적 팝스타 테일러 스위프트(33)가 6년간 연애를 즐긴 영국배우 조 알윈(32)에게 먼저 결별선언을 했다는 주장이 나왔다. 한 소식통은 11일(현지시간) 엔터테인먼트 투나잇과 인터뷰에서 “테일러와 조는 지금 인생에서 완전히 다른 곳에 있다”고 운을 뗐다. 이어 “헤어지기로 한 것은 테일러의 결정이었지만, 둘 다 서로에게]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[드류 베리모어 "엄마가 내 남친들과 데이트해"]]></title>
-        <id>https://v.daum.net/v/20230412152034652</id>
-        <link href="https://v.daum.net/v/20230412152034652"/>
-        <updated>2023-04-12T07:10:29.320Z</updated>
-        <content type="html"><![CDATA[[TV리포트=이수연 기자] 할리우드 배우 드류 베리모어는 엄마의 사랑이 고프다. 11일 드류 베리모어의 토크쇼 'The Drew Barrymore Show'에는 브룩 쉴즈가 게스트로 함께했다. 이날 드류 베리모어와 브룩 쉴즈 모두 어머니와 관련된 씁쓸한 일화를 털어놓았다. 과거 엄마가 자신의 파트너와 데이트한 적이 있다고 밝힌 드류 베리모어는 브룩 쉴즈에]]></content>
     </entry>
 </feed>
