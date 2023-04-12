@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/variety</id>
     <title>다음 연예 ─ 뉴스 ─ 예능</title>
-    <updated>2023-04-12T17:11:05.097Z</updated>
+    <updated>2023-04-12T18:14:01.420Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['나 혼자 산다', 10주년에 'N차 전성기' 비결은?]]></title>
+        <id>https://v.daum.net/v/20230413030405461</id>
+        <link href="https://v.daum.net/v/20230413030405461"/>
+        <updated>2023-04-12T18:13:49.100Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 양유진 기자] 금요일 밤 시청자들의 웃음 보장 불금 메이트 ‘나 혼자 산다’가 10주년을 맞이했다. 2013년 3월 첫 방송된 ‘나 혼자 산다’는 10년이면 강산도 변한다는데, 식상하기보다 트렌디하고 새롭다는 반응을 끌어내며 N차 전성기를 보내고 있다. “트렌드를 알려면 ‘나 혼자 산다’를 봐야 한다”는 말이 있을 정도다. 시청률과 화제성]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김지혜 "♥박준형 닮은 딸, 안면 돌출 교정…헤드기어 착용하고 취침"]]></title>
         <id>https://v.daum.net/v/20230413020206210</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230413000110539"/>
         <updated>2023-04-12T15:12:31.707Z</updated>
         <content type="html"><![CDATA[[마이데일리 = 양유진 기자] '옥탑방의 문제아들' 염경환이 두피 문신 시술을 고백했다. 12일 방송된 KBS 2TV '옥탑방의 문제아들'에는 홈쇼핑 쇼호스트로 활약 중인 김지혜와 염경환이 출연했다. 김지혜, 염경환이 '매출 30억', '홈쇼핑계의 유재석'이란 소개와 함께 등장했다. 김지혜는 "쇼핑에는 지혜가 필요하다", 염경환은 "그동안 예능에서 보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[추성훈→덱스까지, 세계관 최강자의 자랑 "문재인 전 대통령도 뵈었다"]]></title>
-        <id>https://v.daum.net/v/20230413000028509</id>
-        <link href="https://v.daum.net/v/20230413000028509"/>
-        <updated>2023-04-12T15:12:31.709Z</updated>
-        <content type="html"><![CDATA[[OSEN=오세진 기자] ‘라디오스타’ 열의가 넘치는 네 남자가 등장했다. 12일 방영된 MBC 예능 ‘라디오스타’에서는 추성훈, 전진, 강형욱 등이 등장했다. 최근 강형욱은 'KBS를 빛낸 50인'에 이름을 올렸다고 밝혀 모두를 감탄시켰다. BTS, 아이유, 송혜교, 이경규, 송해 등 저명한 인사들과 한데 어깨를 나란히 한 강형욱은 어쩔 줄 몰라하면서]]></content>
     </entry>
 </feed>
