@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-04-12T19:09:44.002Z</updated>
+    <updated>2023-04-12T20:11:38.102Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[리한나, 둘째 출산 앞두고 278억 펜트하우스 매입했다]]></title>
+        <id>https://v.daum.net/v/20230413050530341</id>
+        <link href="https://v.daum.net/v/20230413050530341"/>
+        <updated>2023-04-12T20:11:37.286Z</updated>
+        <content type="html"><![CDATA[[TV리포트=유비취 기자] 할리우드 팝 스타 리한나가 둘째 출산을 앞두고 펜트하우스를 마련했다. 12일(현지 시간) 영국 매체 데일리메일은 리한나(35)가 이미 살고 있는 집 건물의 40층 펜트하우스를 2100만 달러(한화 약 278억 원)에 사들였다고 보도했다. 이번에 리한나가 구매한 주택은 약 260평으로 침실 4개와 욕실이 6개 있는 것으로 알려졌다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[푸시캣돌스 전 멤버 "낙태 강요 받았다"]]></title>
         <id>https://v.daum.net/v/20230413040031701</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230412171030262"/>
         <updated>2023-04-12T08:14:16.373Z</updated>
         <content type="html"><![CDATA[[TV리포트=이수연 기자] 카다시안-제너 가족이 지난 주말 자택에서 부활절 축하 행사를 연 가운데 가정의 불화를 의심할 만한 정황이 포착됐다. 지난 10일 카다시안 가문의 행사 장식 및 디자인을 도맡은 한 예술가는 자신의 소셜네트워크서비스에 카다시안-제너 가족의 이름이 적힌 29개의 부활절 계란 바구니를 공개했다. 이를 본 네티즌은 바구니에서 스콧 디식의]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“테일러 스위프트, 조 알윈에 먼저 결별 선언” 6년 열애하고 너무 안맞아]]></title>
-        <id>https://v.daum.net/v/20230412154111515</id>
-        <link href="https://v.daum.net/v/20230412154111515"/>
-        <updated>2023-04-12T07:10:29.315Z</updated>
-        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]세계적 팝스타 테일러 스위프트(33)가 6년간 연애를 즐긴 영국배우 조 알윈(32)에게 먼저 결별선언을 했다는 주장이 나왔다. 한 소식통은 11일(현지시간) 엔터테인먼트 투나잇과 인터뷰에서 “테일러와 조는 지금 인생에서 완전히 다른 곳에 있다”고 운을 뗐다. 이어 “헤어지기로 한 것은 테일러의 결정이었지만, 둘 다 서로에게]]></content>
     </entry>
 </feed>
