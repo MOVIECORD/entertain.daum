@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-04-12T21:10:33.969Z</updated>
+    <updated>2023-04-12T22:10:43.726Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['존 윅 4' 첫 날 1위…스즈메, 36일만에 정상 내줘]]></title>
+        <id>https://v.daum.net/v/20230413070633966</id>
+        <link href="https://v.daum.net/v/20230413070633966"/>
+        <updated>2023-04-12T22:10:20.031Z</updated>
+        <content type="html"><![CDATA[기사내용 요약 개봉일 11만3147명 박스오피스 평정 '존 윅 4' 흥행세 주말까지 이어질 듯 [서울=뉴시스] 손정빈 기자 = 할리우드 액션 블록버스터 '존 윅 4'가 공개 첫 날 10만명이 넘는 관객을 끌어모으며 박스오피스 정상에 올랐다. 지난달 8일 개봉 이후 단 하루도 1위 자리를 내준 적이 없는 일본 애니메이션 영화 '스즈메의 문단속'은 3]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘킬링 로맨스’, 이하늬는 바로 이렇게 쓰는 것이다 ②]]></title>
         <id>https://v.daum.net/v/20230413060503212</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230412180155130"/>
         <updated>2023-04-12T09:10:56.870Z</updated>
         <content type="html"><![CDATA[지금까지 보지 못한 색다른 텐션과 설정의 영화 '킬링 로맨스'로 파격적인 변신을 한 배우 이선균을 만났다. 돈도 땅도 자기애도 광기와 집착까지 넘쳐흐를 정도로 많은 '조나단 나'(JOHN NA, 이후 '존나')를 연기한 이선균은 영화에서 헤어스타일부터 가짜 콧수염, 화려한 패턴의 트레이닝복까지 장착하며 '이런 것도 어울린다고?'라는 놀라움을 자아냈다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[신소율 "분장했지만 귀신 NO"…귀신보다 더한 공포들]]></title>
-        <id>https://v.daum.net/v/20230412175019736</id>
-        <link href="https://v.daum.net/v/20230412175019736"/>
-        <updated>2023-04-12T09:10:56.895Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 오승현 기자) 공포영화 '옥수역 귀신'에는 다양한 공포가 등장한다. 12일 오후 서울 용산구 CGV 용산아이파크몰에서 영화 '옥수역 귀신'(감독 정용기) 언론시사회가 진행됐다. 이 자리에는 정용기 감독과 배우 김보라, 김재현, 신소율이 참석했다. '옥수역 귀신'은 옥수역에서 의문의 죽음이 연이어 일어나자 특종을 감지한 기자 나영이 취재를 시작]]></content>
     </entry>
 </feed>
