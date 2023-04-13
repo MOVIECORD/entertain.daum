@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-04-13T08:14:27.097Z</updated>
+    <updated>2023-04-13T09:11:46.665Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['J팝 거물'의 두 얼굴, 소속 가수들의 뒤늦은 성폭력 폭로]]></title>
+        <id>https://v.daum.net/v/20230413175530394</id>
+        <link href="https://v.daum.net/v/20230413175530394"/>
+        <updated>2023-04-13T09:11:46.009Z</updated>
+        <content type="html"><![CDATA[[TV리포트=하장수 기자] 일본 아이돌 그룹 '쟈니즈 주니어'의 전 멤버가 쟈니 키타가와 전 사장에게 성폭력을 당했다고 기자회견을 열면서 전 사장의 행보가 수면 위로 다시 떠올랐다.&nbsp; 지난 12일 일본 현지언론에 따르면 '쟈니즈 주니어'의 전 멤버 오카모토 가우안은 '쟈니즈 사무소'에 소속된 2012~2016년까지 쟈니 키타가와 전 사장에게 약 15~20]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[블랙핑크 로제, 마약 루머에 선 그었다 “명백한 허위사실”]]></title>
+        <id>https://v.daum.net/v/20230413173443545</id>
+        <link href="https://v.daum.net/v/20230413173443545"/>
+        <updated>2023-04-13T09:11:46.011Z</updated>
+        <content type="html"><![CDATA[[스포츠서울 | 정하은기자] 그룹 블랙핑크 로제가 측이 마약 투약 의혹에 대해 “허위사실”이라고 입장을 밝혔다. 13일 소속사 YG엔터테인먼트 측은 스포츠서울에 “일부 온라인 커뮤니티, SNS 등에 확산되고 있는 블랙핑크 로제와 관련된 루머는 명백한 허위사실”이라고 선을 그었다. 앞서 지난 12일(현지시간) 시나연예 등 중국 현지 매체는 로제가 불법]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[테일러 스위프트, 전 남친과 재결합했나?...팬들이 찾은 증거]]></title>
         <id>https://v.daum.net/v/20230413164531656</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230413095320273"/>
         <updated>2023-04-13T02:01:26.105Z</updated>
         <content type="html"><![CDATA[[OSEN=최나영 기자] 배우 케이티 홈즈(44)는 파파라치로 가득 찬 어린 시절을 보낸 딸 수리를 '보호'하고자 하는 책임감이 있다. 케이티 홈즈는 최근&nbsp;'글래머'와의 인터뷰에서&nbsp;"딸이 어렸을 때 눈에 띄었기 때문에 딸과 함께 사는&nbsp;내게 정말 중요한 것은, 내가 딸을 보호하자 한다는&nbsp;것"이라고 말했다. 인터뷰에서 16살 된 딸 수리에&nbsp;대해 언급을 아끼]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['해리포터', 드라마 제작 확정...조앤 롤링 작가도 참여]]></title>
-        <id>https://v.daum.net/v/20230413093600527</id>
-        <link href="https://v.daum.net/v/20230413093600527"/>
-        <updated>2023-04-13T00:52:13.652Z</updated>
-        <content type="html"><![CDATA[[TV리포트=이예은 기자] 전 세계적인 사랑을 받은 '해리 포터'가 영화를 넘어 드라마로 돌아온다.&nbsp; 미국 엔터테인먼트 워너 브라더스 디스커버리는 지난 12일(현지 시간) 새 스트리밍 플랫폼 '맥스' 출시를 발표하면서&nbsp;'해리 포터' 드라마 제작 소식을 공식적으로 발표했다.&nbsp; 이날 HBO 맥스는 "드라마 '해리 포터'는 알려진 것과 동일한 서사에 기반해 10]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[톰 크루즈×케이티 홈즈 이혼탓, “16살 딸 수리 관심 더 높아져”]]></title>
-        <id>https://v.daum.net/v/20230413092011902</id>
-        <link href="https://v.daum.net/v/20230413092011902"/>
-        <updated>2023-04-13T00:52:13.656Z</updated>
-        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]할리우드 스타 톰 크루즈(60)와 이혼한 케이티 홈즈(44)가 파파라치들의 감시를 받고 자란 딸 수리(16)를 보호하고 싶다고 말했다. 그는 12일(현지시간) ‘글래머’와 인터뷰에서 “딸이 어린 나이에 너무 눈에 띄었기 때문에 딸을 보호하고 싶다”고 밝혔다. 이어 “수리는 놀라운 사람”이라면서 “수리의 엄마가 되어 감사하다]]></content>
     </entry>
 </feed>
