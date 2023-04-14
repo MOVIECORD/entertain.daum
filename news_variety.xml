@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/variety</id>
     <title>다음 연예 ─ 뉴스 ─ 예능</title>
-    <updated>2023-04-14T18:13:53.535Z</updated>
+    <updated>2023-04-14T19:09:38.984Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[박나래·코쿤, 오늘부터 1일인가요…와인바 핑크빛 데이트 예고!]]></title>
+        <id>https://v.daum.net/v/20230415040521366</id>
+        <link href="https://v.daum.net/v/20230415040521366"/>
+        <updated>2023-04-14T19:09:28.407Z</updated>
+        <content type="html"><![CDATA[[OSEN=김예솔 기자] 박나래와 코드쿤스트의 데이트가 예고 됐다.&nbsp; 14일에 방송된 MBC '나 혼자 산다'에서는 박나래와 코드쿤스트의 핑크빛 데이트가 예고돼 눈길을 끌었다.&nbsp; 앞서 코드쿤스트는 기라인 단합식 당시 '박나래와 1일 데이트권'을 뽑았다. 이에 코드쿤스트는 "최고의 추억을 만들어 줄 수 있다"라고 호언장담했고 박나래 역시 코드쿤스트와의 데]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[원슈타인, 학교폭력 피해 고백 "가해자 20~30명"]]></title>
         <id>https://v.daum.net/v/20230415020204126</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230414235748660"/>
         <updated>2023-04-14T15:11:13.831Z</updated>
         <content type="html"><![CDATA[(엑스포츠뉴스 이나영 기자) '결말동' 한혜진이 동거남 때문에 일을 하지 못하는 동거녀의 사연에 분노했다. 14일 방송된 채널A '결혼 말고 동거'(이하 '결말동')에서는 7개월 째 동거 중인 한중 국제커플의 이야기가 이어졌다.&nbsp; 동거녀 조나윤의 DJ 활동을 두고 계속해서 입장 차이를 보이던 중 다행히 의견 조율이 됐다. 박시원은 조나윤이 DJ 공연을 가는]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[기안84, 전현무에 前여친 한혜진 언급 “이참에 연락해라”]]></title>
-        <id>https://v.daum.net/v/20230414235546645</id>
-        <link href="https://v.daum.net/v/20230414235546645"/>
-        <updated>2023-04-14T15:11:13.832Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 김명미 기자] 기안84가 전현무 앞에서 전(前) 여자친구 한혜진을 언급했다. 4월 14일 방송된 MBC 예능프로그램 '나 혼자 산다'에서는 전현무와 코드 쿤스트, 기안84와 송민호의 패션 대전 그 두 번째 이야기가 공개됐다. 한껏 꾸미고 대결 장소인 해장국집에 모인 전현무와 기안84. 두 사람은 서로의 의상을 스캔한 후 놀리며 신경전을 벌였다.]]></content>
     </entry>
 </feed>
