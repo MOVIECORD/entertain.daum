@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-04-14T08:13:54.874Z</updated>
+    <updated>2023-04-14T09:11:16.318Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[티모시 샬라메, '싱글맘' 카일리 제너 집으로 초대해...열애 맞나?]]></title>
+        <id>https://v.daum.net/v/20230414172030058</id>
+        <link href="https://v.daum.net/v/20230414172030058"/>
+        <updated>2023-04-14T09:11:15.679Z</updated>
+        <content type="html"><![CDATA[[TV리포트=이수연 기자] 할리우드 배우 티모시 샬라메가 새로운 열애설에 휩싸였다. 상대는 억만장자 명단에 오른 카일리 제너다. 13일(현지 시간) 영국 데일리 메일은 티모시 샬라메의 자택에 들어가고 있는 카일리 제너의 사진을 공개했다. 카일리 제너의 차가 베벌리 힐스에 있는 티모시 샬라메 자택 앞에서 포착돼 두 사람의 열애설에 더욱 불을 지폈다. 앞서]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[헤일리 비버, 요리쇼 론칭…셀레나 고메즈와 같은 행보]]></title>
         <id>https://v.daum.net/v/20230414162530447</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230414080030549"/>
         <updated>2023-04-13T23:11:35.466Z</updated>
         <content type="html"><![CDATA[[TV리포트=이예은 기자] '비버리힐즈 90210'로 국내에서도 큰 인기를 끌었던 섀넌 도허티가 유방암 말기(4기)와 사투를 벌이고 있는 가운데 12일 52번째 생일을 맞이했다.&nbsp; 섀넌 도허티는 2015년 8월에 처음으로 유방암 진단을 받았다.&nbsp;그는 공식적으로 투병 사실을 알린 뒤 자신의 소셜네트워크를 통해 근황을 전해오다, 2017년엔 암이 치료됐다고 밝]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[女→男 성전환 '인셉션' 엘리엇 페이지, "나는 감사하다" 투어 발표]]></title>
-        <id>https://v.daum.net/v/20230414072821072</id>
-        <link href="https://v.daum.net/v/20230414072821072"/>
-        <updated>2023-04-13T23:11:35.468Z</updated>
-        <content type="html"><![CDATA[[OSEN=최나영 기자] 성전환 수술을 해 유명한 배우 엘리엇 페이지가&nbsp;곧 출간될 회고록 '나는 감사하다' 투어 일정을 발표했다. 페이지가 '페이지보이'라는 제목의 회고록을&nbsp;오는 6월 6일 공개하는 가운데 그는&nbsp;사람들에게 자신의 이야기뿐만 아니라 다른 이상한 사람들과 트랜스젠더들의 이야기를 지지하기 위해 책 투어를 펼친다. 이 책의 출판사에 따르면 '페]]></content>
     </entry>
 </feed>
