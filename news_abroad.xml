@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-04-15T00:56:22.755Z</updated>
+    <updated>2023-04-15T02:02:53.853Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[톰 크루즈, '사이언톨로지' 탈퇴?..."홍보 대사 활동 NO"]]></title>
+        <id>https://v.daum.net/v/20230415105409024</id>
+        <link href="https://v.daum.net/v/20230415105409024"/>
+        <updated>2023-04-15T02:02:53.156Z</updated>
+        <content type="html"><![CDATA[[OSEN=유수연 기자] 배우 톰 크루즈가 종교 사이언톨로지로부터 탈교했다는 주장이 나왔다. 14일(현지시각) 인디펜던트 등 외신에 따르면,&nbsp;알렉스 기브니 감독은 최근 롤링스톤즈와의 인터뷰를 통해 "톰 크루즈와 사이언톨로지의 현재 관계를 추정한 후 놀랐다"라고 언급했다. 알렉스 기브니 감독은 지난 2015년 사이언톨로지의 위험성을 폭로한 다큐멘터리 '고]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[카디비, 소탈 일상에 팬들 놀라...'쎈언니' 래퍼 아닌 엄마]]></title>
         <id>https://v.daum.net/v/20230415090030741</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230414194530208"/>
         <updated>2023-04-14T11:10:14.854Z</updated>
         <content type="html"><![CDATA[[TV리포트=이수연 기자] 팝스타 리한나가 아기용품을 구매한 근황이 포착됐다. 13일(현지 시간) 영국 데일리 메일은 리한나가 둘째 아기의 성별에 대해 큰 힌트를 줬다고 보도했다. 최근 리한나는 배가 부푼 상태로 아기 옷을 쇼핑하고 있는 모습이 포착됐다. 특히 리한나가 분홍색 옷을 골라 딸일 거라는 추측이 확산하고 있다. 리한나와 래퍼 에이셉 라키는 2]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['기묘한 이야기' 여주, 결혼 반지 '1억'...19살 '영앤리치' 인증]]></title>
-        <id>https://v.daum.net/v/20230414193900082</id>
-        <link href="https://v.daum.net/v/20230414193900082"/>
-        <updated>2023-04-14T11:10:14.854Z</updated>
-        <content type="html"><![CDATA[[TV리포트=이수연 기자] 19세 아역배우 밀리 바비 브라운의 깜짝 약혼 소식이 온라인을 뜨겁게 달구는 가운데 약혼반지 또한 주목받고 있다. 지난 11일(현지 시간) 미국 연예매체 페이지 식스는 밀리 바비 브라운의 약혼반지를 분석했다. 반지의 정보가 밝혀지지 않았지만 다수의 다이아몬드 전문가들은 밀리의 반지가 둥글게 잘려 있는 센터 스톤을 특징으로 하고 있]]></content>
     </entry>
 </feed>
