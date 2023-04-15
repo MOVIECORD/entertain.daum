@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-04-15T22:09:54.846Z</updated>
+    <updated>2023-04-15T23:10:38.187Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이원석 감독 "고상함 무너뜨리며 희열 느껴요"]]></title>
+        <id>https://v.daum.net/v/20230416080030313</id>
+        <link href="https://v.daum.net/v/20230416080030313"/>
+        <updated>2023-04-15T23:10:15.736Z</updated>
+        <content type="html"><![CDATA[영화 '남자사용설명서'(2013)는 기막히게 웃긴 코미디로 10년째 회자되고 있다. 처음 봤을 때의 충격을 잊을 수 없다. 당시 '감독이 미쳤다'는 소리가 절로 나올 만큼 시대를 앞서간 영화로 기억된다. 영화는 개성 강한 이원석(49) 감독과 똑 닮았다. 충무로에서 가장 엣지 있는 연출자, 키치한 감독으로 사랑받는 그가 어른들의 동화를 표방한 '킬링 로맨스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[길복순이라는 물 만난 활어, 구교환]]></title>
         <id>https://v.daum.net/v/20230416070208930</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230415151817309"/>
         <updated>2023-04-15T07:09:45.457Z</updated>
         <content type="html"><![CDATA[[OSEN=최나영 기자] '해리 포터' TV 시리즈를 제작되는 가운데 유색인종 배우가&nbsp;주인공을&nbsp;맡을 지 주목된다. 데드라인, 버라이어티 등 외신들에 따르면 HBO Max는 새로운 출연진을 캐스팅해 '해리 포터' 시리즈를 리부트한다. 워너 브라더스와 맥스(이전의 HBO Max)는 완전히 새로운 출연진과 책을 더 충실하게 각색하기 위한 10년 계획으로 '해]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[취향 저격 코미디의 진가]]></title>
-        <id>https://v.daum.net/v/20230415143023796</id>
-        <link href="https://v.daum.net/v/20230415143023796"/>
-        <updated>2023-04-15T06:13:25.096Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 김유진 기자) 영화 '킬링 로맨스'(감독 이원석)가 관객들에게 다양한 즐거움을 선사하는 취향 저격 코미디로 개봉 첫 주 관객들을 가까이에서 만나며 아낌없는 영화 알리기에 나선다. 14일 개봉한 '킬링 로맨스'는 섬나라 재벌 조나단(이선균 분)과 운명적 사랑에 빠져 돌연 은퇴를 선언한 톱스타 여래(이하늬)가 팬클럽 3기 출신 사수생 범우(공명)]]></content>
     </entry>
 </feed>
