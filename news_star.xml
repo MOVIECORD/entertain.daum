@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2023-04-16T18:12:59.533Z</updated>
+    <updated>2023-04-16T19:09:12.954Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘방과 후 전쟁활동’ 신현수 “로맨스물 국한된 이미지 벗어난 기회”]]></title>
+        <id>https://v.daum.net/v/20230417040528958</id>
+        <link href="https://v.daum.net/v/20230417040528958"/>
+        <updated>2023-04-16T19:09:06.208Z</updated>
+        <content type="html"><![CDATA[고3의 입시 전쟁을 괴생명체와 전쟁에 빗댄 티빙 오리지널 시리즈 ‘방과 후 전쟁활동’으로 배우 신현수가 주목을 받고 있다. 이 작품은 구체에서 흩어져 나온 괴생명체의 공격을 받는 전시 상황에서 고3 학생이 수능 가산점을 빌미로 군대에 동원되면서 벌어지는 사투를 다뤘다. 지난달 31일 파트1이 공개됐고, 21일 파트2의 이야기가 시작된다. 신현수가 연기한]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘뒤태 여신’ 설현, 날렵한 콧날+옆태도 예뻐..청순美 가득]]></title>
         <id>https://v.daum.net/v/20230417002534332</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230416225547912"/>
         <updated>2023-04-16T14:09:25.762Z</updated>
         <content type="html"><![CDATA[(서울=뉴스1) 이아영 기자 = 김종민이 사주에서 들은 수명보다 더 오래 산 어르신의 얘기를 듣고 기뻐했다. 16일 방송된 SBS '미운 우리 새끼'에서는 김종민이 허경환, 딘딘과 함께 전남 구례에 갔다. 김종민은 장수마을에 가서 장수 비결을 들어보자고 했다. 마을 어르신들은 김종민을 반겼다. 어르신들은 '1박 2일' 촬영인 줄 알고 "왜 셋만 왔냐]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘미우새’ 김종국·이상민 솔직 고백 “뭘 위해 사나 현타”]]></title>
-        <id>https://v.daum.net/v/20230416225100881</id>
-        <link href="https://v.daum.net/v/20230416225100881"/>
-        <updated>2023-04-16T14:09:25.764Z</updated>
-        <content type="html"><![CDATA[김종국과 이상민이 고민을 털어놨다. 16일 방송된 SBS ‘미운 우리 새끼’(이하 ‘미우새’)에서 김종국, 이상민이 정신건강의학과 전문의인 양재진, 양재웅 형제를 만났다. 이상민은 김종국에 대해 운동 강박이 있고, 자기 생각과 다르면 뭐라고 한다고 말했다. 김종국은 미리 그린 자화상을 보였다. 이를 본 양재진은 “써있다. 강박, 강박, 강박”이라고 말해 웃]]></content>
     </entry>
 </feed>
