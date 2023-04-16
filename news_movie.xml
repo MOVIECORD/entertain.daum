@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-04-16T21:09:44.025Z</updated>
+    <updated>2023-04-16T22:10:20.301Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['존 윅4' 개봉 첫 주말 완벽 장악…누적 72만↑]]></title>
+        <id>https://v.daum.net/v/20230417070450748</id>
+        <link href="https://v.daum.net/v/20230417070450748"/>
+        <updated>2023-04-16T22:09:59.573Z</updated>
+        <content type="html"><![CDATA[[스포츠한국 조은애 기자] '존 윅4'가 개봉 첫 주말 극장가를 점령했다. 17일 영진위 통합전산망 집계에 따르면 '존 윅4'는 지난 주말 3일동안(14~16일)&nbsp;49만8592명의 관객을 동원, 박스오피스 1위를 차지했다. 누적 관객 수는&nbsp;72만6267명이다. 키아누 리브스 주연의 '존 윅4'는 자유를 위해 모든 것을 건 반격을 준비하는 존 윅이]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“BTS 지원사격까지”…안방·스크린 공략 나선 韓애니메이션]]></title>
+        <id>https://v.daum.net/v/20230417063012338</id>
+        <link href="https://v.daum.net/v/20230417063012338"/>
+        <updated>2023-04-16T22:09:59.574Z</updated>
+        <content type="html"><![CDATA[일본 애니메이션의 돌풍을 잠재울 ‘국산’ 기대작들이 잇달아 공개된다. 방탄소년단이 메인 테마곡을 부른 ‘베스티언즈’, ‘아기공룡 둘리: 얼음별 대모험’, ‘아머드 사우루스: 기계공룡제국의 침략’(왼쪽부터) 등 관객의 시선을 끌 채비를 마쳤다. 사진제공｜티모스미디어·워터홀컴퍼니·대원미디어 ‘스즈메의 문단속’, ‘더 퍼스트 슬램덩크’ 등 일본 애니메이션이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[벌써 촬영 끝낸 ‘아포칼립스’ 시리즈 4편, 어떤 이야기 담길까 ②]]></title>
         <id>https://v.daum.net/v/20230417055801856</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230416104855390"/>
         <updated>2023-04-16T02:08:09.266Z</updated>
         <content type="html"><![CDATA[[스타뉴스 김미화 기자] /사진='존윅4' [김미화 스타뉴스 기자] 2시간 49분의 긴 러닝타임을 자랑하는 '존 윅4'가 박스오피스에서 압도적인 1위를 지키고 있다. 지난 12일 개봉한 '존 윅4'는  지난 15일 22만 명이 넘는 관객을 모으며 개봉 4일 연속 압도적 박스오피스 1위에 올랐다. '존 윅4'는 누적관객수 총 55만 명을 넘어서며 흥행세를]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[영화보다 현실이 더 잔혹? 실화로 쌓아 올린 긴장감]]></title>
-        <id>https://v.daum.net/v/20230416103602185</id>
-        <link href="https://v.daum.net/v/20230416103602185"/>
-        <updated>2023-04-16T02:08:09.267Z</updated>
-        <content type="html"><![CDATA[[양형석 기자] &lt;접속&gt; &lt;편지&gt; &lt;약속&gt; 등 90년대 후반 한국의 멜로 영화는 두 글자 제목이 유행했다. 이는 멜로뿐 아니라 다른 장르에도 번졌고, 1999년 한국영화 흥행기록을 세웠던 강제규 감독의 &lt;쉬리&gt;와 2001년 800만 관객을 돌파했던 &lt;친구&gt; 역시 두 글자 제목을 사용한 바 있다(영화관입장권 통합전산망 기준). 천만 관객을 돌파한 영화 중에서]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["日영화 최초"..'스즈메의 문단속' 감독, 이유있는 첫 500만 예고]]></title>
-        <id>https://v.daum.net/v/20230416103025116</id>
-        <link href="https://v.daum.net/v/20230416103025116"/>
-        <updated>2023-04-16T02:08:09.269Z</updated>
-        <content type="html"><![CDATA[[OSEN=하수정 기자] '스즈메의 문단속'이 일본 애니메이션 최초로 누적 500만 관객을 달성을 앞두고 있다. 국내 개봉된 일본 실사 영화를 모두 더해도 전무후무한 기록으로 신카이 마코토 감독은 자신의 기록을 직접 넘어섰다.&nbsp; 지난 3월 8일 개봉한 '스즈메의 문단속'은 2023년 국내 개봉작 가운데 가장 빠르게 100만(6일), 200만(13일),]]></content>
     </entry>
 </feed>
