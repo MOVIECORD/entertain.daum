@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/variety</id>
     <title>다음 연예 ─ 뉴스 ─ 예능</title>
-    <updated>2023-04-17T18:13:58.967Z</updated>
+    <updated>2023-04-17T19:08:17.062Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이장원, ♥배다해 상황극에 눈물 글썽 "너무 싫더라고요"]]></title>
+        <id>https://v.daum.net/v/20230418032522910</id>
+        <link href="https://v.daum.net/v/20230418032522910"/>
+        <updated>2023-04-17T19:08:05.969Z</updated>
+        <content type="html"><![CDATA[[OSEN=최지연 기자] 배다해와 이장원이 기억상실을 가정했다.&nbsp; 17일 방송된 SBS '동상이몽2 - 너는 내 운명'(이하 '동상이몽2')에서는 배다해-이장원 부부가 서로의 삶에서 서로를 잊게 되는 기억상실을 가정하고는 슬퍼해 눈길을 끌었다. 이날 배다해는 드라마 '빨간 풍선'을 몰입해 시청했다. 이에 이장원은 끊임없이 질문, 배다해는 계속 답해주다]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이수근 "아내 박지연, 볼일볼 때 화장실 들어와"..서장훈 '경악']]></title>
         <id>https://v.daum.net/v/20230418025820614</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230418000108050"/>
         <updated>2023-04-17T15:12:36.266Z</updated>
         <content type="html"><![CDATA[[마이데일리 = 오윤주 기자] 배우 심형탁이 마음의 병으로 공백기를 가졌었다며 어머니와 얽힌 금전 문제를 고백했다. 17일 밤 방송된 종합편성채널 TV조선 '조선의 사랑꾼'에는 심형탁과 18세 연하의 일본인 예비신부 히라이 사야의 이야기가 그려졌다. 이날 심형탁은 2년 공백기를 가졌던 이유에 대해 어렵게 입을 열었다. "방송을 통해 사람들이 이 이야기를]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["용변볼 때 따라오는 남편"…'결벽남' 서장훈 경악 "적당히 해"]]></title>
-        <id>https://v.daum.net/v/20230418000107049</id>
-        <link href="https://v.daum.net/v/20230418000107049"/>
-        <updated>2023-04-17T15:12:36.266Z</updated>
-        <content type="html"><![CDATA[[마이데일리 = 오윤주 기자] 방송인 서장훈이 '껌딱지 신혼부부'의 고민에 기겁했다. 17일 오후 방송된 KBS 조이 '무엇이든 물어보살'에는 지나치게 붙어있어 고민이라는 결혼 1년 차 신혼부부가 의뢰인으로 등장했다. 이날 의뢰인은 남편이 너무 붙어있어서 고민이라며 "응가할 때도 옆에 있는다. 이젠 좀 떨어지고 싶다. 이것 때문에 치질까지 왔다"고 털어놓]]></content>
     </entry>
 </feed>
