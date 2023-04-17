@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/variety</id>
     <title>다음 연예 ─ 뉴스 ─ 예능</title>
-    <updated>2023-04-17T17:11:02.099Z</updated>
+    <updated>2023-04-17T18:13:58.967Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이수근 "아내 박지연, 볼일볼 때 화장실 들어와"..서장훈 '경악']]></title>
+        <id>https://v.daum.net/v/20230418025820614</id>
+        <link href="https://v.daum.net/v/20230418025820614"/>
+        <updated>2023-04-17T18:13:47.198Z</updated>
+        <content type="html"><![CDATA[[OSEN=김수형 기자] '무엇이든 물어보살'에서 껌딱지 남편으로 고민인 아내가 출연, 이에 이수근도 결혼생활 에피소드를 전했다.&nbsp; 17일 방송된 KBS 조이 '무엇이든 물어보살'에서 31세인 동갑내기 신혼부부가 등장했다.&nbsp; 이날 아내는 "남편이 너무 붙어있어, 연애부터 쭉 떨어져있지 않는다&nbsp; 대변볼 때도 옆에 있다, 이제 좀 떨어지고 싶다"며 화장실]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[한영, ♥박군 '절약' 고집에 가출선언 "집 나갈거야"]]></title>
         <id>https://v.daum.net/v/20230418005231362</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230418000107049"/>
         <updated>2023-04-17T15:12:36.266Z</updated>
         <content type="html"><![CDATA[[마이데일리 = 오윤주 기자] 방송인 서장훈이 '껌딱지 신혼부부'의 고민에 기겁했다. 17일 오후 방송된 KBS 조이 '무엇이든 물어보살'에는 지나치게 붙어있어 고민이라는 결혼 1년 차 신혼부부가 의뢰인으로 등장했다. 이날 의뢰인은 남편이 너무 붙어있어서 고민이라며 "응가할 때도 옆에 있는다. 이젠 좀 떨어지고 싶다. 이것 때문에 치질까지 왔다"고 털어놓]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[유세윤, "♥아내 향한 예쁜 사랑노래 대신 저격 디스곡만 떠"]]></title>
-        <id>https://v.daum.net/v/20230418000102048</id>
-        <link href="https://v.daum.net/v/20230418000102048"/>
-        <updated>2023-04-17T15:12:36.266Z</updated>
-        <content type="html"><![CDATA[[텐아시아=신지원 기자]뼈그맨 유세윤이 아내 저격 디스곡의 탄생 일화를 밝혔다. 17일 방송된 SBS '동상이몽2 - 너는 내 운명'에서는 유세윤이 스페셜MC로 출연했다. 이날 서장훈은 "유세윤과 박군의 결혼 생활에 평행이론이 있다"라며 "둘 다 연상이랑 결혼했고 엄마 같은 여자랑 했다고"라고 운을 뗐다. 이에 유세윤은 "연상의 아내라는 장점이 편안함이]]></content>
     </entry>
 </feed>
