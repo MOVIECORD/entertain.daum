@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2023-04-17T16:14:42.108Z</updated>
+    <updated>2023-04-17T17:11:02.101Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['JMS' 추가 폭로 이어져…'성 상납 주도' J 언니는 누구인가]]></title>
+        <id>https://v.daum.net/v/20230418011805520</id>
+        <link href="https://v.daum.net/v/20230418011805520"/>
+        <updated>2023-04-17T17:10:54.932Z</updated>
+        <content type="html"><![CDATA[[서울=뉴시스]정진아 인턴 기자 = MBC 'PD수첩'이 'JMS'를 집중 조명한다. 18일 오후 9시 방송하는 MBC 시사 프로그램 'PD수첩'에서는 '색마 교주' 정명석의 충격적 행태에 대한 추가 폭로를 심층 취재한다. 기독교복음선교회(이하 JMS)의 교주 정명석은 2009년 강간치상 등의 혐의로 징역 10년형을 선고받았다. 그리고 2018년 출소]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[노리플라이, 새 앨범 선공개 곡 ‘랑데뷰 ’ 21일 발매]]></title>
         <id>https://v.daum.net/v/20230418005636379</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230417235222966"/>
         <updated>2023-04-17T15:12:42.189Z</updated>
         <content type="html"><![CDATA[[스포츠조선닷컴 이우주 기자] '결혼지옥' 만7세 딸이 신청까지 권유했던 부부의 사연이 공개됐다. 17일 방송된 MBC '오은영 리포트 결혼지옥'에서는 딸의 신청으로 출연한 금쪽이 부부가 등장했다. 남편의 직업은 비닐하우스 제작 CEO. 아내는 전업주부였다. 서울-광주 장거리 연애 8개월 만에 아이가 생겨 결혼 10년차라는 부부. 아내는]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['60억 건물주' 기안84 "친구 퇴사할 때 차 선물"]]></title>
-        <id>https://v.daum.net/v/20230417234809942</id>
-        <link href="https://v.daum.net/v/20230417234809942"/>
-        <updated>2023-04-17T15:12:42.190Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 최혜진 기자] /사진=유튜브 인생84[최혜진 스타뉴스 기자] 웹툰작가 겸 방송인 기안84가 친구에게 차를 선물한 일화를 공개했다. 17일 유튜브 채널 '인생84'에는 '배달 대행 기사의 하루'라는 제목의 영상이 게재됐다. 영상 속 기안84는 배달대행 기사로 일하고 있는 친구 김상겸 씨의 일상을 공개했다. 기안84는 김상겸 씨에 대해 "]]></content>
     </entry>
 </feed>
