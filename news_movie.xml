@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-04-17T21:10:43.724Z</updated>
+    <updated>2023-04-17T22:10:11.517Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[똑같이 1만 5천원인데 日 애니는 어떻게 흥행했을까]]></title>
+        <id>https://v.daum.net/v/20230418065019837</id>
+        <link href="https://v.daum.net/v/20230418065019837"/>
+        <updated>2023-04-17T22:09:49.456Z</updated>
+        <content type="html"><![CDATA[[OSEN=김보라 기자]&nbsp;일본 애니메이션 ‘더 퍼스트 슬램덩크’(슬램덩크)와 ‘스즈메의 문단속’(스즈메)이 국내 관객몰이를 꾸준히 이어가며 나란히 흥행에 성공했다. 각각 누적관객수 450만, 470만을 동원하며 500만 돌파를 앞두고 있는 것. 극장 개봉 영화의 티켓값을 1만 5천 원으로 책정했는데 한국영화는 왜 안 되고, 일본 애니메이션은 어떻게 흥행]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[지루할 틈 없는 3시간…‘존 윅4’ 박스오피스 1위 질주]]></title>
+        <id>https://v.daum.net/v/20230418063012658</id>
+        <link href="https://v.daum.net/v/20230418063012658"/>
+        <updated>2023-04-17T22:09:49.459Z</updated>
+        <content type="html"><![CDATA[영화 ‘존 윅4’ 스틸. 사진제공｜㈜레드아이스 엔터테인먼트 키아누 리브스가 주연한 할리우드 액션 영화 ‘존 윅4’가 입소문을 타고 흥행 속도를 올리고 있다. 특히 청소년관람불가 등급과 긴 러닝타임 등의 약점에도 불구하고 박스오피스 1위를 지켜 눈길을 끈다. 17일 영화관입장권통합전산망에 따르면 ‘존 윅4’가 12일 개봉해 16일까지 나흘간 누적관객수 7]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['드림' 박서준 "축구 장면 CG 느낌? 노력 많이 했다"]]></title>
         <id>https://v.daum.net/v/20230418054601045</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230417184645493"/>
         <updated>2023-04-17T10:12:23.435Z</updated>
         <content type="html"><![CDATA[[스타뉴스 김나연 기자] 잠 / 사진=루이스픽쳐스 [김나연 스타뉴스 기자] 영화 '잠'이 올해 칸 국제영화제 비평가주간에 초청됐다. 17일 오전 11시(현지시간) 비평가주간 집행위원회는 '잠'을 칸 국제영화제 비평가주간에 공식 초청한다고 발표했다. '잠'은 행복한 신혼부부 현수와 수진을 악몽처럼 덮친 남편 현수의 수면 중 이상행동, 잠드는 순간 시작되는]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[정유미X이선균 ‘잠’ 칸 영화제 비평가주간 공식 초청]]></title>
-        <id>https://v.daum.net/v/20230417182601052</id>
-        <link href="https://v.daum.net/v/20230417182601052"/>
-        <updated>2023-04-17T10:12:23.438Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 김명미 기자] 정유미 이선균 주연의 '잠'이 올해 칸 국제영화제 비평가주간에 초청됐다. 4월 17일 오전 11시(현지시각) 비평가주간 집행위원회는 영화 '잠'(각본 감독 유재선)을 칸 국제영화제 비평가주간에 공식 초청한다고 발표했다. '잠'은 행복한 신혼부부 현수와 수진을 악몽처럼 덮친 남편 현수의 수면 중 이상행동, 잠드는 순간 시작되는 끔찍]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['드림' 박서준·아이유, '이병헌 장르' 성공적 입성…말맛·감동 다 잡다]]></title>
-        <id>https://v.daum.net/v/20230417182400016</id>
-        <link href="https://v.daum.net/v/20230417182400016"/>
-        <updated>2023-04-17T10:12:23.439Z</updated>
-        <content type="html"><![CDATA[(사진=뉴스1)[이데일리 스타in 김보영 기자] ‘이병헌 장르’에 도전한 박서준과 아이유의 시너지가 4월 극장가에 희망을 안겨줄까. 17일 오후 서울 메가박스 코엑스점에서 열린 영화 ‘드림’(감독 이병헌) 기자간담회에서는 이병헌 감독을 비롯해 박서준, 아이유, 김종수, 고차억, 정승길, 허준석, 이현우, 양현민, 홍완표가 참석해 작품에 대한 이야기를 나]]></content>
     </entry>
 </feed>
