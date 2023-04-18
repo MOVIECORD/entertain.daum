@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-04-18T17:11:00.853Z</updated>
+    <updated>2023-04-18T19:10:17.212Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[코첼라, 통행금지 시간 어겨...벌금 '1억' 문다]]></title>
+        <id>https://v.daum.net/v/20230419040030035</id>
+        <link href="https://v.daum.net/v/20230419040030035"/>
+        <updated>2023-04-18T19:10:16.322Z</updated>
+        <content type="html"><![CDATA[[TV리포트=이수연 기자] '코첼라 벨리 뮤직 앤드 아츠 페스티벌'(이하 '코첼라')이 미국 캘리포니아의 밤을 뜨겁게 달구고 있는 가운데 안타까운 소식이 전해졌다. 17일(현지 시간) 매체 TMZ에 따르면 코첼라는 캘리포니아주 인디오에 11만 7천 달러(한화 약 1억 5,426만 4,500 원)를 벌금으로 지불해야 한다. 통행금지 시간을 어겼기 때문이다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘앤트맨2’ 조나단 메이저스, 뜨자마자 나락? 사생활 이슈로 퇴출위기]]></title>
         <id>https://v.daum.net/v/20230418195230437</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230418140226915"/>
         <updated>2023-04-18T05:11:14.920Z</updated>
         <content type="html"><![CDATA['가오갤' 시리즈 10년의 대서사시를 마무리 한다. 18일 오전 서울 영등포구 여의도동 콘래드 서울에서 '가디언즈 오브 갤럭시: volume3'(이하 '가오갤3' 내한 기자간담회가 진행, 제임스 건 감독, 배우 크리스 프랫, 카렌 길런, 폼 클레멘티에프가 참석했다. '가디언즈 오브 갤럭시: Volume 3'는 가모라를 잃고 슬픔에 빠져 있던 피터 퀼이 위기]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['폭행혐의' 조나단 메이저스, 매니지먼트 퇴출…"개인사 때문"]]></title>
-        <id>https://v.daum.net/v/20230418135517557</id>
-        <link href="https://v.daum.net/v/20230418135517557"/>
-        <updated>2023-04-18T12:20:40.485Z</updated>
-        <content type="html"><![CDATA[[티브이데일리 김종은 기자] 폭력 혐의로 체포된 바 있는 할리우드 배우 조나단 메이저스가 소속 매니지먼트에서 퇴출됐다. 미국 연예매체 17일(현지시간) 데드라인은 "배우 매니지먼트 회사 엔터테인먼트360가 최근 조나단 메이저스와의 계약을 해지했다"라고 보도했다. 보도에 따르면 이번 계약 해지는 최근 불거진 조나단 메이저스의 폭력 혐의 때문이 아닌 개인적인]]></content>
     </entry>
 </feed>
