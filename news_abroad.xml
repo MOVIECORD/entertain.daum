@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-04-18T21:10:57.317Z</updated>
+    <updated>2023-04-18T22:10:24.114Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[故아론 카터, 5개월만에 사인 밝혀졌다..부검결과 가스+약물복용]]></title>
+        <id>https://v.daum.net/v/20230419063819733</id>
+        <link href="https://v.daum.net/v/20230419063819733"/>
+        <updated>2023-04-18T22:10:23.465Z</updated>
+        <content type="html"><![CDATA[[OSEN=강서정 기자] 가수 고(故) 아론 카터 사망 원인이 그가 하늘나라로 떠난 지 5개월여 만에 드디어 밝혀졌다. 18일(현지시간) 페이지 식스 보도에 따르면 고 아론 카터는 부검 결과&nbsp;무색의 가스 디플루오로에탄과 향정신성약물인 알프라졸람의 영향으로 사망했다.&nbsp;디플루오로에탄은 냉매 및 가스 살포기 및 스프레이 제품에 사용되는 것으로 알려졌다. 고인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['존 윅 4' 드라마로 이어서 본다...'더 콘티넨탈', 9월 공개]]></title>
         <id>https://v.daum.net/v/20230419050030360</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230418144031588"/>
         <updated>2023-04-18T06:14:59.137Z</updated>
         <content type="html"><![CDATA[[TV리포트=유비취 기자] 걸그룹 리틀 믹스의 전 멤버 제시 넬슨이 정신 건강과 인간관계에 대해 뒤늦게 고백했다. 17일(현지 시간) 영국 매체 더 선과 진행한 인터뷰에서 제시 넬슨(31)은 2020년 그룹 리틀 믹스를 탈퇴해야 했던 이유와 탈퇴 후 멤버들과 겪었던 갈등을 털어놨다. 제시 넬슨은 탈퇴 이유에 대해 걸그룹 활동에 대한 끊임없는 압박감과 기대에]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[테일러 스위프트, 남친과 6년 만에 이별..."그래도 난 괜찮다"]]></title>
-        <id>https://v.daum.net/v/20230418142030683</id>
-        <link href="https://v.daum.net/v/20230418142030683"/>
-        <updated>2023-04-18T06:14:59.137Z</updated>
-        <content type="html"><![CDATA[[TV리포트=이수연 기자]  전 세계를 뜨겁게 달구고 있는 팝스타 테일러 스위프트가 결별 이후 처음 대중 앞에 섰다. 17일(현지 시간) 미국 연예매체 페이지 식스에 의하면 테일러 스위프트는 걱정하는 팬들에 '괜찮다'는 사인을 보냈다. 최근 테일러 스위프트는 플로리다주 탬파에서 월드 투어 '더 에라 투어'를 진행했다. 'Delicate'를 부르는 동안]]></content>
     </entry>
 </feed>
