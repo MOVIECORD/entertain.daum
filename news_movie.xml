@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-04-18T20:12:24.226Z</updated>
+    <updated>2023-04-18T21:10:57.310Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['드림' 박서준, "아이유 다가가기 쉽진 않았어요"]]></title>
+        <id>https://v.daum.net/v/20230419060102243</id>
+        <link href="https://v.daum.net/v/20230419060102243"/>
+        <updated>2023-04-18T21:10:34.507Z</updated>
+        <content type="html"><![CDATA[[텐아시아=최지예 기자]"혹평 받을지언정 도전하는 결정을 하고 싶어요." 깔끔한 헤어스타일에 니트를 입은 배우 박서준은 그 정갈함에서 운동선수 같은 느낌이 풍겨났다. 18일 서울 종로구 소격동 한 카페에서 영화 '드림'(감독 이병헌) 인터뷰에 나선 박서준은 벌써 4년 전에 촬영 완료된 캐릭터 홍대의 모습을 꺼내놨다.&nbsp; 박서준은 극중 축구선수 출신 홈리스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['인어공주', 화려한 CG로 무장한 새 예고편 공개...상반 반응 '속출']]></title>
         <id>https://v.daum.net/v/20230419005215369</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230418171002906"/>
         <updated>2023-04-18T08:14:29.452Z</updated>
         <content type="html"><![CDATA[(엑스포츠뉴스 오승현 기자) '가디언즈 오브 갤럭시3' 팀이 내한 소감과 함께 한국에 대한 애정을 드러냈다. 18일 오전 서울 영등포구의 한 호텔에서 '가디언즈 오브 갤럭시:Volume 3'(감독 제임스 건) 내한 기자간담회가 열렸다. 이 자리에는 제임스 건 감독과 배우 크리스 프랫, 카렌 길런, 폼클레멘티에프가 참석했다. '가디언즈 오브 갤럭시:Volum]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['소풍' 나문희·김영옥·박근형 캐스팅..시니어벤저스 뭉쳤다]]></title>
-        <id>https://v.daum.net/v/20230418170034582</id>
-        <link href="https://v.daum.net/v/20230418170034582"/>
-        <updated>2023-04-18T08:14:29.455Z</updated>
-        <content type="html"><![CDATA[[OSEN=하수정 기자] 나문희, 김영옥, 박근형 이름만으로도 든든한 80대 현역으로 맹활약하는 최고의 배우들이 로케트필름이 제작하는 영화 ‘소풍(가제)’에 동반 출연해 스크린 실버 파워를 선보일 예정이다. 이미 캐스팅을 확정 짓고 지난 4일, 영화의 주요 배경인 남해에서 첫 촬영에 들어가 벌써부터 최상의 호흡을 기대하게 하고 있다. 시니어벤저스 배우들]]></content>
     </entry>
 </feed>
