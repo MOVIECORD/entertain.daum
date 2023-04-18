@@ -2,16 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-04-18T11:10:34.736Z</updated>
+    <updated>2023-04-18T12:20:41.166Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[릴리로즈 뎁, 남자 댄서들과 과감한 안무...'더 아이돌' 선정성 논란↑]]></title>
-        <id>https://v.daum.net/v/20230418200930761</id>
-        <link href="https://v.daum.net/v/20230418200930761"/>
-        <updated>2023-04-18T11:10:33.863Z</updated>
-        <content type="html"><![CDATA[[TV리포트=이수연 기자] 조니 뎁의 딸이자 배우인 릴리 로즈 뎁. 그가 출연하는 '더 아이돌'의 선정성 논란은 끊이지 않고 있다. 블랙핑크 제니의 출연으로 국내에서도 주목받고 있는 HBO 드라마 '더 아이돌(The Idol)'이 18일 네 번째 트레일러를 공개했다. 앞서 공개된 티저 영상으로 선정성 논란에 휩싸였던 '더 아이돌'은 이번 티저 영상에서도 주]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[‘앤트맨2’ 조나단 메이저스, 뜨자마자 나락? 사생활 이슈로 퇴출위기]]></title>
         <id>https://v.daum.net/v/20230418195230437</id>
@@ -109,5 +102,12 @@
         <link href="https://v.daum.net/v/20230418140226915"/>
         <updated>2023-04-18T05:11:14.920Z</updated>
         <content type="html"><![CDATA['가오갤' 시리즈 10년의 대서사시를 마무리 한다. 18일 오전 서울 영등포구 여의도동 콘래드 서울에서 '가디언즈 오브 갤럭시: volume3'(이하 '가오갤3' 내한 기자간담회가 진행, 제임스 건 감독, 배우 크리스 프랫, 카렌 길런, 폼 클레멘티에프가 참석했다. '가디언즈 오브 갤럭시: Volume 3'는 가모라를 잃고 슬픔에 빠져 있던 피터 퀼이 위기]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['폭행혐의' 조나단 메이저스, 매니지먼트 퇴출…"개인사 때문"]]></title>
+        <id>https://v.daum.net/v/20230418135517557</id>
+        <link href="https://v.daum.net/v/20230418135517557"/>
+        <updated>2023-04-18T12:20:40.485Z</updated>
+        <content type="html"><![CDATA[[티브이데일리 김종은 기자] 폭력 혐의로 체포된 바 있는 할리우드 배우 조나단 메이저스가 소속 매니지먼트에서 퇴출됐다. 미국 연예매체 17일(현지시간) 데드라인은 "배우 매니지먼트 회사 엔터테인먼트360가 최근 조나단 메이저스와의 계약을 해지했다"라고 보도했다. 보도에 따르면 이번 계약 해지는 최근 불거진 조나단 메이저스의 폭력 혐의 때문이 아닌 개인적인]]></content>
     </entry>
 </feed>
