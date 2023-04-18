@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-04-18T10:12:30.124Z</updated>
+    <updated>2023-04-18T11:10:34.720Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[홍상수X김민희, '우리의 하루'로 6년 만에 칸 간다]]></title>
+        <id>https://v.daum.net/v/20230418194209139</id>
+        <link href="https://v.daum.net/v/20230418194209139"/>
+        <updated>2023-04-18T11:10:10.362Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 | 김미화 기자] 홍상수 감독, 김민희 / /사진=/AFPBBNews=뉴스1=스타뉴스 홍상수 감독의 30번째 영화 '우리의 하루'가 제76회 칸국제영화제 칸 감독주간(55th edition of the Directors' Fortnight)에 공식 초청됐다. 18일 해외 배급사인 ㈜화인컷에 따르면 이날 칸 감독주간 집행위원회는 홍상수 감독의 3]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["굳이 잘해야 하나"…박서준, 희망과 용기를 '드림']]></title>
         <id>https://v.daum.net/v/20230418184928856</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230418160823695"/>
         <updated>2023-04-18T07:10:43.839Z</updated>
         <content type="html"><![CDATA[영화 '청년경찰', 드라마 '이태원 클라쓰' 그리고 할리우드 진출작 '더 마블스'로 이제는 대한민국이 아닌 세계인의 배우가 된 박서준을 만났다. 박서준은 이병헌 감독의 영화 '드림'에서 전직 축구선수이지만 상황에 떠밀려 반강제로 계획에도 없는 홈리스 국가대표축구팀의 감독을 맡게 된 축구선수 '홍대'를 맡아 놀라운 피지컬과 케미를 선보이며 작품을 이끌어 갔다]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘킬링 로맨스’ 팬덤 집결‥개봉 2주차 무대인사 확정]]></title>
-        <id>https://v.daum.net/v/20230418160115333</id>
-        <link href="https://v.daum.net/v/20230418160115333"/>
-        <updated>2023-04-18T07:10:43.848Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 배효주 기자] '킬링 로맨스'가 2주차 무대인사를 확정했다. 4월 22일 영화 '킬링 로맨스(감독 이원석)의 주역인 이선균, 배유람, 이원석 감독이 무대인사에 참여한다. 롯데시네마 노원을 시작으로 CGV중계, CGV상봉, 메가박스 상봉, 롯데시네마 청량리, CGV압구정, 메가박스 코엑스, 롯데시네마 월드타워에서 영화를 지지해주는 관객들과의 만남]]></content>
     </entry>
 </feed>
