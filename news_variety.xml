@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/variety</id>
     <title>다음 연예 ─ 뉴스 ─ 예능</title>
-    <updated>2023-04-19T18:14:18.303Z</updated>
+    <updated>2023-04-19T19:09:49.438Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[영탁, 허리 부상에도 "형이 옆에서 든든하게 있어줘야" 에릭 '응원 투혼']]></title>
+        <id>https://v.daum.net/v/20230420033004045</id>
+        <link href="https://v.daum.net/v/20230420033004045"/>
+        <updated>2023-04-19T19:09:37.603Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 고향미 기자] 트로트 가수 영탁이 허리 부상에도 영보이즈 팀 파트너인 아이돌 그룹 더보이즈 에릭을 직접 응원하는 투혼을 펼쳤다. 19일 오후 방송된 SBS '편먹고 공치리5 : 승부사들'(이하 '공치리5')에서는 4강 진출 데스매치가 펼쳐졌다. 이날 방송에서 영탁은 직전 경기에서 허리 부상을 입었음에도 1홀 그린으로 향했다. 이어 "이 홀]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김지영, 전화 100통 집착 이유 "남편, 노래방에서 여자랑 있었다"]]></title>
         <id>https://v.daum.net/v/20230420030107714</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230420000858191"/>
         <updated>2023-04-19T15:11:35.090Z</updated>
         <content type="html"><![CDATA[[스타뉴스 | 이지현 기자] /사진='라디오스타' 방송 화면'라디오스타'에서 풍자가 개그우먼 신기루와 관련된 일화를 공개했다. 19일 방송된 MBC 예능 프로그램 '라디오스타'는 박해미, 유인영, 박기웅, 풍자가 출연해 '방과 후 모범 시민' 특집으로 꾸며졌다. 이날 풍자는 센 이미지와 관련된 이야기를 하던 중 신기루가 떠오른다고 말했다. 이어 "지금]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['라스' 박해미, 무속인도 이긴 氣 "날 보면 땀 흘려"]]></title>
-        <id>https://v.daum.net/v/20230420000806187</id>
-        <link href="https://v.daum.net/v/20230420000806187"/>
-        <updated>2023-04-19T15:11:35.093Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 | 이지현 기자] /사진='라디오스타' 방송 화면'라디오스타'에서 박해미가 무속인과 관련된 일화를 공개했다. 19일 방송된 MBC 예능 프로그램 '라디오스타'는 박해미, 유인영, 박기웅, 풍자가 출연해 '방과 후 모범 시민' 특집으로 꾸며졌다. 이날 박해미는 "어느 날 제가 무속 신앙에 관심이 생겨서 점집에 가게 됐어요. 그런데 '당신이 다]]></content>
     </entry>
 </feed>
