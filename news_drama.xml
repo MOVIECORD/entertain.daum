@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-04-19T20:12:07.307Z</updated>
+    <updated>2023-04-19T21:10:04.610Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘모범택시2’ 김채은 “이제훈 먼저 다가와 조언 ‘나만 잘하면 돼’ 결심”]]></title>
+        <id>https://v.daum.net/v/20230420060843743</id>
+        <link href="https://v.daum.net/v/20230420060843743"/>
+        <updated>2023-04-19T21:09:49.168Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 하지원 기자] (인터뷰①에 이어) '모범택시2' 김채은은 주변의 도움으로 윈디만의 매력을 더욱 극대화할 수 있었다. 김채은은 4월 19일 서울 강남구 뉴스엔 사옥에서 진행된 SBS '모범택시2'(극본 오상호/연출 이단) 종영 인터뷰에서 '블랙썬 에피소드'를 함께 채워나간 동료 배우들에 감사한 마음을 털어놨다. 김채은이 윈디로 열연을 펼친 '블랙썬]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘모범택시2’ 윈디 김채은 “과분한 관심 감사, 터닝포인트 작품”]]></title>
+        <id>https://v.daum.net/v/20230420060655728</id>
+        <link href="https://v.daum.net/v/20230420060655728"/>
+        <updated>2023-04-19T21:09:49.169Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 하지원 기자] 배우 김채은이 '모범택시2'로 연기 인생의 전환점을 맞이했다. 김채은은 4월 19일 서울 강남구 뉴스엔 사옥에서 SBS '모범택시2'(극본 오상호/연출 이단) 종영 인터뷰를 진행했다. 김채은에 '모범택시2'는 연기 인생의 전환점이 된 작품이다. 그는 "대본을 받았을 때 설레지만 두려운 마음도 있었다. 당연히 아쉬운 점도 있지만 도전]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[백진희♥안재현, 계약 로맨스를 시작하기까지]]></title>
         <id>https://v.daum.net/v/20230420020009619</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230419192159441"/>
         <updated>2023-04-19T11:10:08.719Z</updated>
         <content type="html"><![CDATA[[스타뉴스 | 김수진 기자] SBS 월화드라마 '꽃선비 열애사' 강훈이 려운의 파수꾼이었다는 '충격 대반전 결과'를 안겼다. 지난 18일에 방송된 SBS 월화드라마 '꽃선비 열애사'(극본 권음미, 김자현, 연출 김정민, 제작 ㈜아폴로픽쳐스, ㈜팬엔터테인먼트, 스튜디오S) 10회는 수도권 시청률 4.0%, 최고 시청률 5.3%를 차지, 휘몰아치는 계책과 화]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['모범택시2' 이단 감독 "시즌제 반가운 일, 못다한 이야기 기약해요"]]></title>
-        <id>https://v.daum.net/v/20230419183028284</id>
-        <link href="https://v.daum.net/v/20230419183028284"/>
-        <updated>2023-04-19T10:12:19.593Z</updated>
-        <content type="html"><![CDATA[[서울경제] 인기 있는 작품의 시즌2를 제작하는 건 부담스러운 일이다. 시청자들이 열광했던 부분은 가져오면서, 세계관을 확장해야 되기 때문. '모범택시2'에 투입된 이단 감독은 수많은 노력과 고민 끝에 시즌2를 성공적으로 이끌었다. SBS 금토드라마 '모범택시2'(극본 오상호/연출 이단)는 베일에 가려진 택시회사 무지개 운수와 택시기사 김도기(이제훈)가]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[윤종석 "즐겁고 행복했던 '청춘월담',  과정의 가치 알려줘"]]></title>
-        <id>https://v.daum.net/v/20230419182949259</id>
-        <link href="https://v.daum.net/v/20230419182949259"/>
-        <updated>2023-04-19T10:12:19.594Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 | 최혜진 기자] /사진=김창현 기자배우 윤종석이 tvN 월화드라마 '청춘월담'(극본 정현정, 연출 이종재)를 응원해 준 시청자들에게 감사 인사를 전했다. 윤종석은 19일 스타뉴스 사옥에서 '청춘월담' 종영 인터뷰를 진행했다. '청춘월담'은 저주에 걸린 왕세자 이환(박형식 분)와 살인사건 범인으로 지목된 천재소녀 민재이(전소니 분)의 이야기를]]></content>
     </entry>
 </feed>

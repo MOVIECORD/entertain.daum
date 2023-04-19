@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-04-19T20:12:07.305Z</updated>
+    <updated>2023-04-19T21:10:04.607Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['비프'→'라이스보이 슬립스'…美 영화계는 왜 韓 이민자에 열광하나]]></title>
+        <id>https://v.daum.net/v/20230420060005442</id>
+        <link href="https://v.daum.net/v/20230420060005442"/>
+        <updated>2023-04-19T21:09:44.231Z</updated>
+        <content type="html"><![CDATA[[이데일리 스타in 김보영 기자] 난폭 운전을 하며 온갖 분노를 쏟아내는 미국의 한인 2세 노동자, 1990년 아들과 단둘이 낯선 캐나다 땅을 밟은 한국인 엄마, 한국에서 어린 시절을 보내다 20여년 후 뉴욕에서 다시 만난 두 남녀. 요즘 북미 콘텐츠 시장을 사로잡은 드라마 및 영화의 주인공들이다. 영화산업의 중심 할리우드가 ‘한국’에 흠뻑 매료됐다. 한]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['가오갤3' 폼 클레멘티에프 "한국은 특별, 어머니의 나라"]]></title>
+        <id>https://v.daum.net/v/20230420052602080</id>
+        <link href="https://v.daum.net/v/20230420052602080"/>
+        <updated>2023-04-19T21:09:44.234Z</updated>
+        <content type="html"><![CDATA['가오갤3'에서 맨티스로 활약했던 할리우드 배우 폼 클레멘티에프가 한국에 대한 남다른 애정을 드러냈다. 폼 클레멘티에프는 18일 서울시 영등포구 콘래드호텔에서 진행된 영화 '가디언즈 오브 갤럭시:Volume 3'(이하 '가오갤3') 내한 기자간담회에서 "한국은 어머니의 나라"라며 "저에겐 특별할 수밖에 없는 곳"이라고 말했다. '가오갤' 시리즈는 기존 히어]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘스즈메의 문단속’ 신카이 마코토 감독 재방한]]></title>
         <id>https://v.daum.net/v/20230420003011293</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230419181817967"/>
         <updated>2023-04-19T10:12:14.364Z</updated>
         <content type="html"><![CDATA[[스타뉴스 | 김미화 기자] (서울=뉴스1) 이동해 기자 = 19일 서울 중구 프레스센터에서 열린 제4회 4·19 민주평화상 시상식에서 수상자로 선정된 배우 안성기가 미소 짓고 있다. 2023.4.19/뉴스1  Copyright (C) 뉴스1. All rights reserved. 무단 전재 및 재배포 금지. 혈액암 투병 중인 배우 안성기가 밝은 미소로]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['존 윅'이 선보이는 액션종합선물세트]]></title>
-        <id>https://v.daum.net/v/20230419181801952</id>
-        <link href="https://v.daum.net/v/20230419181801952"/>
-        <updated>2023-04-19T10:12:14.365Z</updated>
-        <content type="html"><![CDATA[[김형욱 기자] &nbsp;▲ &nbsp;영화 &lt;존 윅 4&gt; 포스터.？ⓒ 레드아이스 엔터테인먼트&nbsp; &lt;매트릭스&gt; 시리즈의 스턴트 코디네이터를 비롯해 키아누 리브스의 스턴트 더블(전속 스턴트맨)으로 오랫동안 활동해 오다가 2014년 &lt;존 윅&gt;을 통해 전격적으로 연출 신고식를 치른 '채드 스타헬스키' 감독은 이후 &lt;캡틴 아메리카: 시빌 워&gt;의 조감독으로 멋드러진 액션 시퀀스를 탄]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['건강회복' 안성기 "4·19 민주평화상 과분…남은삶 사회위한 신명 바칠것"]]></title>
-        <id>https://v.daum.net/v/20230419175905444</id>
-        <link href="https://v.daum.net/v/20230419175905444"/>
-        <updated>2023-04-19T09:15:18.517Z</updated>
-        <content type="html"><![CDATA[(서울=뉴스1) 장아름 기자 = 배우 안성기가 4·19 민주평화상 수상 영예를 안으며 "남아있는 제 삶에서 열정을 다해 우리 사회의 행복지수를 높일 수 있는 일이 무엇인지 찾아 신명을 바치려는 희망을 버리지 않겠다"는 소감을 전했다. 19일 서울 중구 태평로 한국프레스센터에서는 제4회 4·19 민주평화상 시상식이 진행됐다. 4.19 민주평화상은 2020]]></content>
     </entry>
 </feed>
