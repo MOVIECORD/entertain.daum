@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/variety</id>
     <title>다음 연예 ─ 뉴스 ─ 예능</title>
-    <updated>2023-04-19T19:09:49.438Z</updated>
+    <updated>2023-04-19T20:12:07.321Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘피크타임’ 배너, 눈물의 최종 우승..상금 3억원 주인공 됐다]]></title>
+        <id>https://v.daum.net/v/20230420051019761</id>
+        <link href="https://v.daum.net/v/20230420051019761"/>
+        <updated>2023-04-19T20:11:56.103Z</updated>
+        <content type="html"><![CDATA[[OSEN=지민경 기자] 그룹 배너가 MASC와 경합 끝에 ‘피크타임’ 최종 우승을 차지해 3억원 상금의 주인공이 됐다. 지난 19일 방송된 JTBC ‘피크타임(PEAK TIME)’에서는 피날레를 장식할 최종 우승팀이 탄생하는 파이널 라운드가 생방송으로 진행됐다. 팀&nbsp;7시,&nbsp;팀&nbsp;8시,&nbsp;팀&nbsp;11시,&nbsp;팀&nbsp;13시,&nbsp;팀&nbsp;20시,&nbsp;팀&nbsp;24시가 톱6에 오르며 최종]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김재중 “정신적 원인=목소리 안 나와→원형탈모 온 적도” 취중 고백]]></title>
+        <id>https://v.daum.net/v/20230420043022245</id>
+        <link href="https://v.daum.net/v/20230420043022245"/>
+        <updated>2023-04-19T20:11:56.108Z</updated>
+        <content type="html"><![CDATA[[OSEN=박하영 기자] ‘신랑수업’ 김재중과 박태환이 특급 우정을 뽐냈다. 19일 방송된 채널A 예능 ‘요즘 남자 라이프-신랑수업’(이하 ‘신랑수업’)에서는 김재중과 박태환이 단합 데이를 갖는 모습이 그려졌다. 이날 박태환은 김재중을 치과로 이끌었다. 바로 김재중의 사랑니 때문. 하지만 김재중은 사랑니 발치를 고민 끝에 하지 않고 결정, 곧바로 박태환과]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[영탁, 허리 부상에도 "형이 옆에서 든든하게 있어줘야" 에릭 '응원 투혼']]></title>
         <id>https://v.daum.net/v/20230420033004045</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230420001257218"/>
         <updated>2023-04-19T16:14:19.214Z</updated>
         <content type="html"><![CDATA[[OSEN=지민경 기자] 그룹 배너가 ‘피크타임’ 최종 우승을 차지했다. 19일 방송된 JTBC ‘피크타임(PEAK TIME)’에서는 피날레를 장식할 최종 우승팀이 탄생하는 파이널 라운드가 생방송으로 진행됐다. 앞서 팀&nbsp;7시,&nbsp;팀&nbsp;8시,&nbsp;팀&nbsp;11시,&nbsp;팀&nbsp;13시,&nbsp;팀&nbsp;20시,&nbsp;팀&nbsp;24시가 톱6에 오른 가운데 이날 6팀은 최종 우승을 향한 마지막&nbsp; 무대를]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[’LG 트윈스’ 출신 경수→’제조업체 사장’ 영식, 14기男 직업 공개]]></title>
-        <id>https://v.daum.net/v/20230420001100208</id>
-        <link href="https://v.daum.net/v/20230420001100208"/>
-        <updated>2023-04-19T15:11:35.089Z</updated>
-        <content type="html"><![CDATA[[OSEN=박하영 기자] ‘나는 솔로’ 14기 남자들의 직업이 공개됐다. 19일 방송된 SBS PLUS, ENA PLAY 예능 ‘나는 SOLO’(이하 ‘나는솔로’)에서는 ‘골드미스&amp;미스터 특집’으로 14기 솔로남녀들의 첫인상 선택 결과가 공개됐다. 이날 옥순은 첫인상 선택 결과 무려 3표 몰표를 받았다. 이어 영철과 상철은 정숙을 선택했고, 광수와 경수가]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[풍자 "신기루, 주차 차단기에 맞아..차량으로 인식" 폭소]]></title>
-        <id>https://v.daum.net/v/20230420000858191</id>
-        <link href="https://v.daum.net/v/20230420000858191"/>
-        <updated>2023-04-19T15:11:35.090Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 | 이지현 기자] /사진='라디오스타' 방송 화면'라디오스타'에서 풍자가 개그우먼 신기루와 관련된 일화를 공개했다. 19일 방송된 MBC 예능 프로그램 '라디오스타'는 박해미, 유인영, 박기웅, 풍자가 출연해 '방과 후 모범 시민' 특집으로 꾸며졌다. 이날 풍자는 센 이미지와 관련된 이야기를 하던 중 신기루가 떠오른다고 말했다. 이어 "지금]]></content>
     </entry>
 </feed>
