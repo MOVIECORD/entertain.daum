@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-04-19T13:16:21.922Z</updated>
+    <updated>2023-04-19T14:16:12.913Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["韓팬 만나 행복"..'가오갤' 크리스 프랫→제임스 건, 완벽한 팬서비스]]></title>
+        <id>https://v.daum.net/v/20230419221718145</id>
+        <link href="https://v.daum.net/v/20230419221718145"/>
+        <updated>2023-04-19T14:15:49.973Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 | 김미화 기자] 크리스 프랫, 폼 클레멘티에프가 19일 오후 서울 동대문디자인플라자에서 진행된 영화 '가디언즈 오브 갤럭시:Volume 3'(감독 제임스 건) 레드카펫 행사에서 기념촬영을 하고 있다. /2023.04.19 /사진=이동훈 기자 photoguy@ '가오갤' 주역들이 한국 팬들과 만나 완벽한 팬서비스를 펼쳤다. 19일 오후 서울]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘가오갤3’ 피날레 장식할 로켓의 과거]]></title>
         <id>https://v.daum.net/v/20230419213603322</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230419164316550"/>
         <updated>2023-04-19T09:15:18.525Z</updated>
         <content type="html"><![CDATA[[서울=뉴시스]문예빈 인턴 기자 = 영화 '러브 달바'가 국내 개봉을 앞두고 제10회 마리끌레르 영화제에 초청됐다. 신인 감독 엠마누엘 니코는 주목할 만한 사회적 문제를 각본과 연출에 섬세하게 녹여냈으며 독특한 거리감으로 원초적인 현장감과 인물에 대한 몰입감을 극대화한 촬영 방식, 그리고 전문 배우 출신이 아닌 아역배우 젤다 샘슨의 날 것 그대로의 연]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[홍상수 감독·김민희, '우리의 하루'로 칸 공식 초청]]></title>
-        <id>https://v.daum.net/v/20230419160544798</id>
-        <link href="https://v.daum.net/v/20230419160544798"/>
-        <updated>2023-04-19T09:15:18.530Z</updated>
-        <content type="html"><![CDATA[홍상수 감독과 김민희가 칸 초청을 받으면서 두 사람이  7년 만에 칸 국제 영화제에 참석할지 영화계의 이목이 집중된다. 18일 해외 배급사 화인컷에 따르면 칸 감독주간 집행위원회는 홍상수 감독의 30번째 신작 '우리의 하루'는 칸 감독주간 폐막작으로 공식 초청했다고 발표했다. 칸 감독주간 집행위원장인 쥴리앙 레지는 "영화는 자연스럽게 삶의 온갖 즐거움들을]]></content>
     </entry>
 </feed>
