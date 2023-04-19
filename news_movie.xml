@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-04-19T03:14:37.001Z</updated>
+    <updated>2023-04-19T04:17:01.172Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“‘김어준 다스뵈이다’ 독점 공개 영상 속 오류...김정숙 여사 인터뷰 참여 안했다”]]></title>
+        <id>https://v.daum.net/v/20230419121502802</id>
+        <link href="https://v.daum.net/v/20230419121502802"/>
+        <updated>2023-04-19T04:16:39.938Z</updated>
+        <content type="html"><![CDATA[영화 ‘문재인입니다’ 제작사 다이스필름 김성우 대표가 ‘김어준의 다스뵈이다’를 통해 공개된 영화 관련 영상에 잘못된 정보가 있음을 지적, 정정을 요구했다. 김 대표는 “지난 14일 ‘김어준의 다스뵈이다’를 통해 독점 공개된 영상에 대한 잘못된 정보가 확산되고 있어 정정을 부탁드린다”며 “해당 방송에서 공개된 영상은 ‘문재인입니다’를 제작하며 촬영된 영상이지]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[현실 공포에 사연 한 스푼 ‘옥수역 귀신’]]></title>
         <id>https://v.daum.net/v/20230419121204737</id>
@@ -20,7 +27,7 @@
         <content type="html"><![CDATA[[스타뉴스 | 메가박스 성수=김나연 기자] 배우 김보라, 김우석, 황석정, 정민성, 김준호, 장도윤이 19일 오전 서울 성동구 메가박스 성수에서 진행된 시네마천국 드라마 '핀란드 파파' 제작발표회에 참석해 포즈를 취하고 있다.  '핀란드 파파'는 남다른 사연으로 가족 연습이 필요한 사람들이 모인 수상한 카페 ‘핀란드 파파’의 신입 유리와 사라진 첫사랑 우현]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[할머니 약손같아..김보라♥김우석의 ‘핀란드 파파’]]></title>
+        <title type="html"><![CDATA[할머니 약손, 밥집 맛집 같은..김보라♥김우석의 ‘핀란드 파파’]]></title>
         <id>https://v.daum.net/v/20230419120001321</id>
         <link href="https://v.daum.net/v/20230419120001321"/>
         <updated>2023-04-19T03:14:15.718Z</updated>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230419094607222"/>
         <updated>2023-04-19T03:14:15.728Z</updated>
         <content type="html"><![CDATA[[티브이데일리 최하나 기자] 영화 ‘존 윅4’가 박스오피스 1위를 수성했다. 19일 영화진흥위원회 통합전산망에 따르면 영화 '존 윅 4'(감독 채드 스타헬스키)가 지난 18일 4만9022명의 관객을 동원하며 박스오피스 1위를 기록했다. 누적 관객수는 83만383명이다. ‘존 윅4’는 ‘최고 회의'를 쓰러트릴 방법을 찾아낸 존 윅(키아누 리브스)이 최후의 반]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[경쟁은 없지만...간판은 홍상수, 올해 칸 가는 韓영화는]]></title>
-        <id>https://v.daum.net/v/20230419094514194</id>
-        <link href="https://v.daum.net/v/20230419094514194"/>
-        <updated>2023-04-19T03:14:15.728Z</updated>
-        <content type="html"><![CDATA[올해도 간판은 홍상수 감독, 기세 등등한 한국 영화들이다. 비록 영화제의 꽃인 경쟁 부문에는 초청되지 못했지만 홍 감독이 감독주간의 마지막을 장식하는 한편, 비경쟁부문·주목할만한 시선 등 주요 섹션에 초청 받아 K콘텐츠의 위상을 떨친다. 지난 13일 오전(한국시간 13일 오후) 프랑스 파리 UGC 노르망디(Normandie) 극장에서 제76회 칸 국제영화제]]></content>
     </entry>
 </feed>
