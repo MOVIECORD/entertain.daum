@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-04-19T15:11:45.864Z</updated>
+    <updated>2023-04-19T16:14:30.394Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘스즈메의 문단속’ 신카이 마코토 감독 재방한]]></title>
+        <id>https://v.daum.net/v/20230420003011293</id>
+        <link href="https://v.daum.net/v/20230420003011293"/>
+        <updated>2023-04-19T16:14:08.099Z</updated>
+        <content type="html"><![CDATA[사진제공 | 쇼박스올해 최고 흥행 영화 ‘스즈메의 문단속’을 연출한 신카이 마코토 감독이 관객들에게 감사인사를 전하기 위해 한국을 찾는다. 19일 수입사 미디어캐슬에 따르면 신카이 마코토 감독은 27일과 28일 각각 서울 CGV용산아이파크몰점과 부산 메가박스 부산대점에서 GV(관객과의 대화)와 무대 인사를 진행한다. 29일에는 이례적으로 제주도에 방문해]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['8년째 불륜' 홍상수·김민희, 칸 동행하나? '우리의 하루' 감독주간 폐막작 선정]]></title>
         <id>https://v.daum.net/v/20230420000307117</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230419175905444"/>
         <updated>2023-04-19T09:15:18.517Z</updated>
         <content type="html"><![CDATA[(서울=뉴스1) 장아름 기자 = 배우 안성기가 4·19 민주평화상 수상 영예를 안으며 "남아있는 제 삶에서 열정을 다해 우리 사회의 행복지수를 높일 수 있는 일이 무엇인지 찾아 신명을 바치려는 희망을 버리지 않겠다"는 소감을 전했다. 19일 서울 중구 태평로 한국프레스센터에서는 제4회 4·19 민주평화상 시상식이 진행됐다. 4.19 민주평화상은 2020]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[여래이즘 현실로?…'킬링 로맨스', 여래바래 4기 창단식 개최]]></title>
-        <id>https://v.daum.net/v/20230419172837464</id>
-        <link href="https://v.daum.net/v/20230419172837464"/>
-        <updated>2023-04-19T09:15:18.520Z</updated>
-        <content type="html"><![CDATA[[이데일리 스타in 김보영 기자] B급 병맛과 Z세대 취향을 저격하는 유머 코드로 매일 새로운 화제를 불러모으고 있는 영화 ‘킬링 로맨스’(감독 이원석)가 지난 18일(화) 롯데시네마 건대입구에서 여래바래 4기 창단식을 성황리에 개최했다. 백은하 배우연구소 소장과 진행된 ‘킬링 로맨스’ 여래바래 4기 창단식은 화제의 주역 배우 이하늬와 이원석 감독이 관객]]></content>
     </entry>
 </feed>
