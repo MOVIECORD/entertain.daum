@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-04-19T21:10:04.607Z</updated>
+    <updated>2023-04-19T22:10:38.243Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘킬링 로맨스’ 극강의 호불호가 입소문으로…마니아 팬덤 결집]]></title>
+        <id>https://v.daum.net/v/20230420063011992</id>
+        <link href="https://v.daum.net/v/20230420063011992"/>
+        <updated>2023-04-19T22:10:15.871Z</updated>
+        <content type="html"><![CDATA[이선균·이하늬 주연의 ‘킬링 로맨스’가 독특하고 신선한 유머를 내세워 마니아 관객을 끌어당기고 있다. 사진은 영화의 한 장면. 사진제공｜롯데엔터테인먼트 B급 코미디의 정수를 보여준 ‘킬링 로맨스’에 대한 관객의 반응이 엇갈리고 있다. 만화 같은 캐릭터와 이야기, 지나치게 독특한 유머 코드에 “공감하기 힘들다”는 의견과 “이제껏 보지 못했던 진짜 코미디”라]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[크리스 프랫 ‘미국 발음’에도 마리오에 열광하는 이유..마블 작곡가의 추억버튼]]></title>
+        <id>https://v.daum.net/v/20230420061503812</id>
+        <link href="https://v.daum.net/v/20230420061503812"/>
+        <updated>2023-04-19T22:10:15.871Z</updated>
+        <content type="html"><![CDATA[닌텐도의 최고 IP로 꼽히는 ‘마리오’ 영화에 전세계 팬들이 뜨거운 반응을 보이고 있다. 특히 미국에서 흥행 열풍이 강하게 불고 있다. 박스오피스 모조에 따르면 18일(현지시간) 기준 ‘슈퍼 마리오 브라더스’의 누적 매출액은 3억 5900만 달러(약 4734억원)로, 마블의 ‘앤트맨과 와스프: 퀀텀매니아’(2억1300만 달러)를 넘어섰다. 올해 미국에서]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['비프'→'라이스보이 슬립스'…美 영화계는 왜 韓 이민자에 열광하나]]></title>
         <id>https://v.daum.net/v/20230420060005442</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230419185440775"/>
         <updated>2023-04-19T10:12:14.362Z</updated>
         <content type="html"><![CDATA[제4회 4·19 민주평화상 수상자인 배우 안성기가 19일 서울 중구 프레스센터에서 열린 시상식에서 출연한 작품을 보고 있다. (사진=뉴스1)[이데일리 스타in 김보영 기자] 혈액암 투병 중인 배우 안성기가 한결 건강해진 안색과 밝은 미소로 공식 석상에 섰다. 안성기는 19일 오후 서울 중구 태평로 한국프레스센터에서 열린 제4회 4.19 민주평화상 시상식에]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[홍상수♥김민희, 6년 만에 칸 동행...당당한 연인 모드]]></title>
-        <id>https://v.daum.net/v/20230419185003666</id>
-        <link href="https://v.daum.net/v/20230419185003666"/>
-        <updated>2023-04-19T10:12:14.363Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 오승현 기자) 홍상수 감독의 신작 '우리의 하루'가 제76회 칸 국제영화제에 공식 초정됐다. 18일(현지시간) 오전, 칸 감독주간 집행위원회는 '우리의 하루'(감독 홍상수)를 칸 감독주간 폐막작으로 선정했다. 쥴리앙 레지(Julien Rejl) 칸 감독주간 집행위원장은 "어떻게 단순함과 미니멀리즘의 힘을 증가시켜나가고 있는지, 두 아파트의 방]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['혈액암 투병' 안성기, 백발에도 환한 미소..건강해진 얼굴]]></title>
-        <id>https://v.daum.net/v/20230419181817967</id>
-        <link href="https://v.daum.net/v/20230419181817967"/>
-        <updated>2023-04-19T10:12:14.364Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 | 김미화 기자] (서울=뉴스1) 이동해 기자 = 19일 서울 중구 프레스센터에서 열린 제4회 4·19 민주평화상 시상식에서 수상자로 선정된 배우 안성기가 미소 짓고 있다. 2023.4.19/뉴스1  Copyright (C) 뉴스1. All rights reserved. 무단 전재 및 재배포 금지. 혈액암 투병 중인 배우 안성기가 밝은 미소로]]></content>
     </entry>
 </feed>
