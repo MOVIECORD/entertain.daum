@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-04-19T04:17:01.172Z</updated>
+    <updated>2023-04-19T05:25:20.943Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이하늬 "팬들의 사랑, 부모님 다음"…'킬링 로맨스' 여래바래 4기 창단식 성료]]></title>
+        <id>https://v.daum.net/v/20230419135207878</id>
+        <link href="https://v.daum.net/v/20230419135207878"/>
+        <updated>2023-04-19T05:24:58.617Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 양유진 기자] 영화 '킬링 로맨스'가 여래바래 4기 창단식을 성황리에 개최했다. 백은하 배우연구소 소장과 진행된 '킬링 로맨스' 여래바래 4기 창단식은 화제의 주역 배우 이하늬와 이원석 감독이 관객들과 함께 영화에 대한 다양한 이야기를 나누는 시간이었다. 특히 '킬링 로맨스' 속 여래의 다양한 매력을 선보이며 매일 새로운 팬들을 모으고]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['스즈메'→'존윅4'…새 판 된 박스오피스에 여전히 위축된 한국 영화]]></title>
+        <id>https://v.daum.net/v/20230419132351059</id>
+        <link href="https://v.daum.net/v/20230419132351059"/>
+        <updated>2023-04-19T05:24:58.617Z</updated>
+        <content type="html"><![CDATA['더 퍼스트 슬램덩크'에 이어 '스즈메의 문단속'까지 연이어 일본 애니메이션이 사랑 받고 '존 윅4'가 새로운 박스오피스 정상으로 떠올랐지만, 여전히 한국 영화의 흥행은 감감무소식이다. 19일 영화진흥원 통합전산망에 따르면 '존 윅4'는 18일 1418개의 스크린에서 4만 9022명의 관객을 모아 박스오피스 1위를 기록 중이다. 누적 관객 수는 83만 38]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“‘김어준 다스뵈이다’ 독점 공개 영상 속 오류...김정숙 여사 인터뷰 참여 안했다”]]></title>
         <id>https://v.daum.net/v/20230419121502802</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230419101925875"/>
         <updated>2023-04-19T03:14:15.727Z</updated>
         <content type="html"><![CDATA[홍상수 감독과 배우 김민희가 불륜을 인정한 지난 2017년 이후 국내 그 어느 공식석상에도 얼굴을 내비치지 않았지만, 제76회 칸국제영화제 초청엔 흔쾌히 응답했다. 영화 ‘우리의 하루’로 제76회 칸국제영화제 칸 감독주간(55th edition of the Directors’ Fortnight)에 공식 초청됐다고 18일 전격 발표했다. 해외 배급사인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한국 ♥ 강조한 '가오갤3', 추락한 '마블민국' 위상 되찾을까]]></title>
-        <id>https://v.daum.net/v/20230419101802805</id>
-        <link href="https://v.daum.net/v/20230419101802805"/>
-        <updated>2023-04-19T03:14:15.728Z</updated>
-        <content type="html"><![CDATA[[텐아시아=강민경 기자] 《강민경의 인서트》 영화 속 중요 포인트를 확대하는 인서트 장면처럼 강민경 텐아시아 기자가 영화계 이슈를 집중 조명합니다. 입체적 시각으로 화젯거리의 앞과 뒤를 세밀하게 살펴보겠습니다. 한국에서는 '마블 민국(대한민국+마블)'이라는 말이 생길 만큼 마블 히어로 영화가 큰 인기를 끌었다. 하지만 어느 순간부터 '마블 민국'의 위상은]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['존 윅4' 1위 수성, 누적 83만 돌파]]></title>
-        <id>https://v.daum.net/v/20230419094607222</id>
-        <link href="https://v.daum.net/v/20230419094607222"/>
-        <updated>2023-04-19T03:14:15.728Z</updated>
-        <content type="html"><![CDATA[[티브이데일리 최하나 기자] 영화 ‘존 윅4’가 박스오피스 1위를 수성했다. 19일 영화진흥위원회 통합전산망에 따르면 영화 '존 윅 4'(감독 채드 스타헬스키)가 지난 18일 4만9022명의 관객을 동원하며 박스오피스 1위를 기록했다. 누적 관객수는 83만383명이다. ‘존 윅4’는 ‘최고 회의'를 쓰러트릴 방법을 찾아낸 존 윅(키아누 리브스)이 최후의 반]]></content>
     </entry>
 </feed>
