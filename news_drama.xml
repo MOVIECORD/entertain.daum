@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-04-20T06:14:40.502Z</updated>
+    <updated>2023-04-20T07:14:00.235Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['진짜가 나타났다', 엔딩 맛집 등극한 모음집 넷]]></title>
+        <id>https://v.daum.net/v/20230420161138100</id>
+        <link href="https://v.daum.net/v/20230420161138100"/>
+        <updated>2023-04-20T07:13:42.666Z</updated>
+        <content type="html"><![CDATA[[스포츠한국 김두연 기자] '진짜가 나타났다'가 손에 땀을 쥐게 하는 엔딩 맛집으로 등극했다. 매주 토, 일요일 저녁 8시 5분 방송되는 KBS 2TV '진짜가 나타났다!'(연출 한준서/ 극본 조정주/ 제작 빅토리콘텐츠)는 배 속 아기 '진짜'를 둘러싼 미혼모와 비혼남의 가짜 계약 로맨스를 다룬 이야기로 임신-출산-육아를 통해 '애벤져스'로 거듭나]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[새단장 ‘맛있는 녀석들’… 이수지 “시어머니, 빨리 나으시길” 눈물]]></title>
+        <id>https://v.daum.net/v/20230420151724725</id>
+        <link href="https://v.daum.net/v/20230420151724725"/>
+        <updated>2023-04-20T07:13:42.666Z</updated>
+        <content type="html"><![CDATA[‘맛있는 녀석들’ (왼쪽부터) 데프콘, 유민상, 이지혜 PD, 홍유나 PD, 이수지, 김해준[이데일리 스타in 유준하 기자] “어머니가 일주일 전부터 아프셔서 전날 통화서 ‘그땐 웃어’ 하셨거든요. 첫 방송 나가면 되게 행복해하실 것 같은데 빨리 나으셨으면 좋겠습니다.” 20일 서울시 마포구의 한 호텔에서 열린 IHQ ‘맛있는 녀석들’ 제작발표회에서 코미]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[유인나, 돌발 행동…아찔한 만취 스피치]]></title>
         <id>https://v.daum.net/v/20230420144707411</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230420114656915"/>
         <updated>2023-04-20T03:11:31.668Z</updated>
         <content type="html"><![CDATA[[뉴스엔 박수인 기자] 배우 최태환이 ‘꽃선비 열애사’ 웃음 캐릭터로 활약 중이다. SBS 월화드라마 ‘꽃선비 열애사’(극본 권음미, 김자현, 연출 김정민, 제작 ㈜아폴로픽쳐스, ㈜팬엔터테인먼트, 스튜디오S)는 모든 고정관념을 타파한 하숙집 ‘객주 이화원’의 주인 윤단오(신예은 분)와 비밀을 품은 하숙생 꽃선비 3인방 강산(려운 분), 김시열(강훈 분),]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['보라 데보라' 유인나X황찬성, 쓰레기 배틀 끝 이별 "사랑 아냐"]]></title>
-        <id>https://v.daum.net/v/20230420113427449</id>
-        <link href="https://v.daum.net/v/20230420113427449"/>
-        <updated>2023-04-20T02:35:07.761Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 | 안윤지 기자] /사진=ENA '보라! 데보라' 방송 캡처'보라! 데보라' 유인나, 황찬성의 동상이몽 연애가 끝났다. 지난 19일 방송된 ENA 수목드라마 '보라! 데보라'(극본 아경, 연출 이태곤·서민정, 기획 KT스튜디오지니, 제작 풍년전파상·오즈아레나) 3회에서는 믿었던 연인 노주완(황찬성 분)의 배신으로 이별을 맞이한 데보라(유인나 분]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[티빙 '운수 오진 날'·'우씨왕후', 파라마운트+에서도 본다]]></title>
-        <id>https://v.daum.net/v/20230420112959243</id>
-        <link href="https://v.daum.net/v/20230420112959243"/>
-        <updated>2023-04-20T02:35:07.762Z</updated>
-        <content type="html"><![CDATA[[OSEN=김보라 기자] 티빙과 파라마운트+가 파트너십을 맺고 글로벌 시장을 공략한다. 티빙은 20일 오리지널 시리즈 '운수 오진 날'과 '우씨왕후'가 파라마운트+ 파트너십 작품으로 선정됐다고 밝혔다. 지난 11일 파라마운트+를 통해 글로벌에 공개된 '욘더', 공개 예정인 '몸값'에 이은 양사의 전략적 파트너십의 일환이다. '운수 오진 날'과 '우씨왕후]]></content>
     </entry>
 </feed>
