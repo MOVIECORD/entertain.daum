@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-04-20T02:01:35.211Z</updated>
+    <updated>2023-04-20T02:35:24.824Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["삼가 고인의 명복을 빕니다"…아이유, 후배 문빈 비보에 '드림' 홍보 중단→인터뷰 엠바고 요청]]></title>
+        <id>https://v.daum.net/v/20230420113125327</id>
+        <link href="https://v.daum.net/v/20230420113125327"/>
+        <updated>2023-04-20T02:35:02.400Z</updated>
+        <content type="html"><![CDATA[[스포츠조선 조지영 기자] 보이그룹 아스트로의 멤버 문빈의 갑작스러운 사망 소식에 가요계는 물론 영화계 역시 충격과 안타까움을 금치 못했다. 특히 선배인 가수 겸 배우 아이유 또한 큰 슬픔에 빠지며 신작 홍보 활동을 잠시 멈췄다. 아이유는 20일 오전 11시부터 오후 4시까지 서울 종로구 삼청동에서 휴먼 영화 '드림'(이병헌 감독, 옥토버시네]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["건강 회복→컴백 의지 강해"… 모자 벗고 백발 된 안성기, 열정으로 이겨낸 '혈액암 투병']]></title>
+        <id>https://v.daum.net/v/20230420110600135</id>
+        <link href="https://v.daum.net/v/20230420110600135"/>
+        <updated>2023-04-20T02:35:02.400Z</updated>
+        <content type="html"><![CDATA[[스포츠조선 조지영 기자] 혈액암 투병으로 활동을 중단한 '국민 배우' 안성기가 다시 건강한 모습으로 국내 관객을 맞을 준비에 나섰다. 안성기는 지난 19일 오후 서울 중구 태평로 한국프렌스센터에서 열린 제4회 4·19 민주평화상 시상식에서 4·19 민주평화상을 받았다. 이날 안성기는 행사에 참석, 전보다 건강하고 밝은 모습으로 등장해 모두의]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[강길우X이상희, 전주국제영화제 폐막식 사회자 선정]]></title>
         <id>https://v.daum.net/v/20230420104245026</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230420082103729"/>
         <updated>2023-04-20T00:53:08.303Z</updated>
         <content type="html"><![CDATA[지난해 장애인 연인의 실화를 바탕으로 한 따뜻한 사랑 이야기를 공동 연출해 주목 받은 박영혜 감독이첫 단독 제작에 나선다. 이번에는 장애인 소재 그림동화를 영화화 한다. 평소 자원봉사 단체인 매직아동극단 ‘마구마구’를 이끌고 있는 박 감독은 20일 매일경제 스타투데이에 “시간이 날 때 마다 서점에 들러 동화책을 둘러보는 습관이 있다. 지난해 가을 우연히 동]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박서준 “K무비 인기? ‘기생충’ 특별출연한 날 알아봐”]]></title>
-        <id>https://v.daum.net/v/20230420074655907</id>
-        <link href="https://v.daum.net/v/20230420074655907"/>
-        <updated>2023-04-19T23:10:49.671Z</updated>
-        <content type="html"><![CDATA[배우 박서준이 국경을 넘나들며 활발한 활약을 펼치고 있다. MCU(마블 씨네마틱 유니버스) 새 영화 ‘더 마블스’에 합류하는가 하면, 이병헌 감독 신작 ‘드림’으로 4년만에 국내 영화 팬들도 만난다. 해외에서 K컬처가 얼마나 인기 높은지, 제대로 체감했을 그였다. “해외에 체류하면서 우리나라 촬영 현장도 훨씬 발전했다는 생각이 들었어요. 국내에만 있을]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['존 윅4' 8일 연속 1위 유지…이번 주말 100만 돌파 전망]]></title>
-        <id>https://v.daum.net/v/20230420073654759</id>
-        <link href="https://v.daum.net/v/20230420073654759"/>
-        <updated>2023-04-19T23:10:49.672Z</updated>
-        <content type="html"><![CDATA[[OSEN=김보라 기자] 영화 ‘존 윅4’가 관객들의 선택을 받고 있다. 20일 영화진흥위원회 영화관입장권 통합전산망 집계를 보면 전날(19일) ‘존 윅4’는 4만 3411명을 동원해 일별 박스오피스 1위를 차지했다. 이날까지 ‘존 윅4’의 누적 관객수는 87만 3796명이다. ‘존 윅4’(감독 체드 스타헬스키, 수입 제이앤씨미디어그룹・조이앤시네마, 제]]></content>
     </entry>
 </feed>
