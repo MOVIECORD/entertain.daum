@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-04-20T21:10:00.169Z</updated>
+    <updated>2023-04-20T22:11:15.047Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[배두나, 믿고 보는 패셔니스타 '하늘하늘한 파격 시스루']]></title>
+        <id>https://v.daum.net/v/20230421070811558</id>
+        <link href="https://v.daum.net/v/20230421070811558"/>
+        <updated>2023-04-20T22:10:51.511Z</updated>
+        <content type="html"><![CDATA[(MHN스포츠 이지숙 기자) 지난 20일 오후 서울 용산구 CGV용산아이파크몰에서 제10회 마리끌레르 영화제 포토콜이 진행됐다. 이날 행사에 배우 배두나가 참석했다. 배두나는 러플 디테일이 돋보이는 블랙 시스루 미니&nbsp;원피스로&nbsp;패셔니스타다운 면모를 자랑했다.&nbsp; 제10회 마리끌레르 영화제에서는 배우 배두나의 특별전이]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[로맨스 대신 공포…봄날, 호러가 뜬다]]></title>
+        <id>https://v.daum.net/v/20230421063012109</id>
+        <link href="https://v.daum.net/v/20230421063012109"/>
+        <updated>2023-04-20T22:10:51.512Z</updated>
+        <content type="html"><![CDATA[영화 ‘옥수역 귀신’ 포스터. 사진제공｜㈜스마일이엔티 ‘공포=여름 영화’라는 공식은 깨진지 오래다. 이제는 ‘봄날의 호러’가 뜬다. 봄 극장가의 빈틈을 노리는 각국의 다양한 호러 영화들이 잇달아 관객을 만난다. 대규모 블록버스터들이 여름 성수기 극장을 독점하면서 상대적으로 작은 규모의 호러 영화들이 비수기 봄 극장을 택하고 있기 때문이다. 국산 호러 ‘]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[재미·감동 다 잡은 ‘홈리스 월드컵’… 침체 늪 한국영화 흥행골 터뜨릴까]]></title>
         <id>https://v.daum.net/v/20230420204959343</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230420121129820"/>
         <updated>2023-04-20T04:13:12.144Z</updated>
         <content type="html"><![CDATA[(샌프란시스코=연합뉴스) 김태종 특파원 = 배우 이병헌(49)이 미국 스탠퍼드대에서 학생, 청중들과 만남의 시간을 가졌다. 19일(현지시간) 미 캘리포니아주 스탠퍼드대 맥카우홀에서 열린 '한류의 미래'(The Future of Hallyu) : 글로벌 무대의 한국 영화' 콘퍼런스에서다. 스탠퍼드대 월터 쇼렌스틴 아시아태평양연구소(소장 신기욱 교수)가 주최하]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["모든 음악에는 끝이 있어"…'가오갤3', 뜨거운 마지막 장]]></title>
-        <id>https://v.daum.net/v/20230420121005804</id>
-        <link href="https://v.daum.net/v/20230420121005804"/>
-        <updated>2023-04-20T03:11:26.425Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 오승현 기자) '가디언즈 오브 갤럭시 3'가 '가오갤'의 마지막 장을 제대로 장식한다. 17일 오전 서울 메가박스 코엑스에서는 국내 취재진을 상대로 '가디언즈 오브 갤럭시: Volume 3'(감독 제임스 건) 풋티지(footage) 상영회가 진행됐다. '가디언즈 오브 갤럭시:Volume 3'(이하 '가오갤3')는 가모라(조 샐다나 분)를 잃고]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['킬링 로맨스' 이하늬의 확신 "이 영화는 역사에 남을 것"]]></title>
-        <id>https://v.daum.net/v/20230420114928047</id>
-        <link href="https://v.daum.net/v/20230420114928047"/>
-        <updated>2023-04-20T03:11:26.427Z</updated>
-        <content type="html"><![CDATA[[서울경제] 배우 이하늬가 영화 '킬링 로맨스'를 향한 강한 확신을 드러냈다. 지난 14일 서울 종로구에 위치한 한 카페에서 '킬링 로맨스'(감독 이원석)의 주연 배우인 이하늬와의 인터뷰가 진행됐다. '킬링 로맨스'는 섬나라 재벌 조나단(이선균)과 사랑에 빠져 은퇴한 톱스타 여래(이하늬)가 다시금 연기 경력을 되찾기 위해 입시생 범우(공명)와 함께 작전을]]></content>
     </entry>
 </feed>
