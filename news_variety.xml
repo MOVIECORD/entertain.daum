@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/variety</id>
     <title>다음 연예 ─ 뉴스 ─ 예능</title>
-    <updated>2023-04-20T19:09:18.340Z</updated>
+    <updated>2023-04-20T20:14:38.111Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김숙, 소개팅남 스펙에 작가들도 술렁‥올해 시집가나]]></title>
+        <id>https://v.daum.net/v/20230421051009194</id>
+        <link href="https://v.daum.net/v/20230421051009194"/>
+        <updated>2023-04-20T20:14:26.171Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 서유나 기자] 김숙의 소개팅이 예고돼 시청자들의 기대감을 높였다. 4월 20일 방송된 KBS 2TV 예능 '홍김동전' 33회 말미에는 김숙의 소개팅이 예고됐다. 이날 조세호와 2 대 2 소개팅을 마친 주우재는 김숙의 소개팅을 앞두고 "이제 메인 스테이지 가야하지 않냐. 사실 여기까진 전초전이었고 지금부턴 진짜 혼인을 위한 (것)"이라고 너스레]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[위너 김진우, 깔끔한 참돔 손질에 입꼬리 승천...이태곤, "나보다 더 잘해"]]></title>
+        <id>https://v.daum.net/v/20230421050201010</id>
+        <link href="https://v.daum.net/v/20230421050201010"/>
+        <updated>2023-04-20T20:14:26.172Z</updated>
+        <content type="html"><![CDATA[[텐아시아=신지원 기자]'도시횟집' 위너 김진우가 이태곤의 칭찬에 입꼬리가 승천했다. 20일 오후 10시 30분에 방송된 채널A 예능 프로그램 '나만 믿고 먹어봐, 도시횟집'에서는 극한 알바생으로 위너의 김진우와 이승윤이 출격했다. 이날 이덕화는 두 사람에게 앞치마를 하사하며 "승윤아, 너 평생 이런 알바는 못 해 볼거다.  속으로 후회할지도 모른다"라]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[소울, 공동 1등 베네핏 배분에 아쉬움 “왜 나눠 가지냐고”]]></title>
         <id>https://v.daum.net/v/20230421010612911</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230420233533292"/>
         <updated>2023-04-20T15:11:26.428Z</updated>
         <content type="html"><![CDATA[[OSEN=김수형 기자]&nbsp;&nbsp;‘노머니 노아트’에서 호랑이 작가가 최종 작품으로 선정됐으며 최정 낙찰가는 천70만원으로 책정됐다. 20일&nbsp;방송된 KBS2TV ‘노머니 노아트’에서 아빠들 특집이 그려졌다.&nbsp; 이날 전현무는 “오늘 작가들의 공통점은 작가이자 아빠들”이라며 ‘아빠특집’을 소개했다. 본격적으로 작품을 소개했다. 먼저 성낙진 작가의 작품을 소개, 그]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이태곤♥윤세아, 낚시하다 갑자기 백허그‥핑크빛 기류]]></title>
-        <id>https://v.daum.net/v/20230420233517291</id>
-        <link href="https://v.daum.net/v/20230420233517291"/>
-        <updated>2023-04-20T15:11:26.429Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 서유나 기자] 이태곤과 윤세아가 낚시를 가르치고 배우다가 백허그를 했다. 4월 20일 방송된 채널A 예능 '나만 믿고 따라와, 도시어부'(이하 '도시어부')의 스핀오프 '나만 믿고 먹어봐, 도시횟집'(이하 '도시횟집') 5회에서는 4일 차 횟집 영업을 준비하는 도시어부들의 고군분투가 그려졌다. 이날 윤세아는 이태곤, 이덕화와 함께 참돔, 부시리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“립싱크만 해야하는 수준” 강승윤→김규래… 방탄소년단 상남자 중간 평가에 '충격']]></title>
-        <id>https://v.daum.net/v/20230420233324284</id>
-        <link href="https://v.daum.net/v/20230420233324284"/>
-        <updated>2023-04-20T15:11:26.429Z</updated>
-        <content type="html"><![CDATA[[OSEN=박근희 기자] '소년판타지-방과후 설렘 시즌2’ 강승윤이 김규래의 라이브 실력에 일침을 가했다. 20일 오후 방송된 MBC '소년판타지-방과후 설렘 시즌2'(이하 '소년판타지')에서는 2학기 비주얼 미션 경연 무대가 이어졌다. ‘상남자’ 팀의 연습이 이어졌다. 설렘 파트 담당 김규래의 노래를 들은 보컬 트레이너는 “규래는 지금 설레지가 않는데]]></content>
     </entry>
 </feed>
