@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-04-20T11:10:12.337Z</updated>
+    <updated>2023-04-20T12:20:24.606Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[재미·감동 다 잡은 ‘홈리스 월드컵’… 침체 늪 한국영화 흥행골 터뜨릴까]]></title>
+        <id>https://v.daum.net/v/20230420204959343</id>
+        <link href="https://v.daum.net/v/20230420204959343"/>
+        <updated>2023-04-20T12:20:02.395Z</updated>
+        <content type="html"><![CDATA[4월이 다 지나가고 있지만 올해 아직까지 한국영화 중 ‘홈런’을 친 작품은 없다. 그래서 곧 개봉하는 스포츠 영화 ‘드림’이 한국영화의 성적을 끌어올릴 ‘구원투수’로 특별히 더 주목을 받고 있다. 신년 개봉작 중에선 유난히 스포츠를 소재로 삼은 영화가 많았다. 국내 영화 중에선 권투를 소재로 한 ‘카운트’, 농구를 소재로 한 ‘리바운드’가 있고, 외국 영화]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['분노의 질주10', 목숨 건 마지막 사투…시리즈 최고의 쾌감]]></title>
         <id>https://v.daum.net/v/20230420180905670</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230420114928047"/>
         <updated>2023-04-20T03:11:26.427Z</updated>
         <content type="html"><![CDATA[[서울경제] 배우 이하늬가 영화 '킬링 로맨스'를 향한 강한 확신을 드러냈다. 지난 14일 서울 종로구에 위치한 한 카페에서 '킬링 로맨스'(감독 이원석)의 주연 배우인 이하늬와의 인터뷰가 진행됐다. '킬링 로맨스'는 섬나라 재벌 조나단(이선균)과 사랑에 빠져 은퇴한 톱스타 여래(이하늬)가 다시금 연기 경력을 되찾기 위해 입시생 범우(공명)와 함께 작전을]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["삼가 고인의 명복을 빕니다"…아이유, 후배 문빈 비보에 '드림' 홍보 중단→인터뷰 엠바고 요청]]></title>
-        <id>https://v.daum.net/v/20230420113125327</id>
-        <link href="https://v.daum.net/v/20230420113125327"/>
-        <updated>2023-04-20T02:35:02.400Z</updated>
-        <content type="html"><![CDATA[[스포츠조선 조지영 기자] 보이그룹 아스트로의 멤버 문빈의 갑작스러운 사망 소식에 가요계는 물론 영화계 역시 충격과 안타까움을 금치 못했다. 특히 선배인 가수 겸 배우 아이유 또한 큰 슬픔에 빠지며 신작 홍보 활동을 잠시 멈췄다. 아이유는 20일 오전 11시부터 오후 4시까지 서울 종로구 삼청동에서 휴먼 영화 '드림'(이병헌 감독, 옥토버시네]]></content>
     </entry>
 </feed>
