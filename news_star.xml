@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2023-04-20T17:10:07.141Z</updated>
+    <updated>2023-04-20T18:13:12.976Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[1600만 흥행 감독의 ‘홈리스 월드컵’… 한국 영화 구할 ‘강슛’되긴 역부족]]></title>
+        <id>https://v.daum.net/v/20230421030430220</id>
+        <link href="https://v.daum.net/v/20230421030430220"/>
+        <updated>2023-04-20T18:13:06.753Z</updated>
+        <content type="html"><![CDATA[이 영화의 주인공은 박서준도 아이유도 아니다. 아마 한 번도 누군가에게 환호를 받아본 적이 없을 노숙인들이다. 영화 ‘극한직업’으로 1600만 관객을 동원했던 이병헌 감독이 ‘홈리스 월드컵’을 소재로 한 신작 ‘드림’으로 돌아왔다. 홈리스 월드컵은 전 세계 50국 500여 노숙인이 국가대표 축구 선수로 출전하는 국제 대회. 2010년 브라질 홈리스 월드컵에]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[송윤아, 20년 전 '클럽行' 폭로에 당황 "이제 기억나"]]></title>
         <id>https://v.daum.net/v/20230421011519936</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230420234035310"/>
         <updated>2023-04-20T15:11:31.281Z</updated>
         <content type="html"><![CDATA[[스포츠조선 조윤선 기자] 그룹 아스트로 멤버들이 故문빈의 마지막 가는 길을 함께하기 위해 모였다. 문빈은 19일 오후 8시 10분께 서울 강남구 자택에서 숨진 채 발견됐다. 매니저가 발견해 경찰에 신고했으며, 경찰은 문빈이 극단적인 선택을 한 것으로 추정하고 정확한 사망 원인을 조사 중이다. 소속사 판타지오는 "19일 아스트로 멤버 문빈]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김준현, 손가락 화상 입고 이경규에 분노 “다 형 때문이야”]]></title>
-        <id>https://v.daum.net/v/20230420233809304</id>
-        <link href="https://v.daum.net/v/20230420233809304"/>
-        <updated>2023-04-20T15:11:31.290Z</updated>
-        <content type="html"><![CDATA[개그맨 김준현이 요리 도중 손가락 화상을 입었다.&nbsp; 20일 방송된 채널A 예능 ‘나만 믿고 따라와, 도시어부’(이하 ‘도시어부’) 5회에서는 멤버들의 우당탕탕 횟집 영업기가 이어졌다.&nbsp; 이날 김준현은 김치찜을 조리하던 중 “국물이 다 존다”는 이경규의 재촉에 황급히 집게를 집다가 화상을 입었다. 오랜 시간 화구옆에 놓여 있었던 집게를 아무 생각 없이]]></content>
     </entry>
 </feed>
