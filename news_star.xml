@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2023-04-22T15:11:21.782Z</updated>
+    <updated>2023-04-22T16:13:33.360Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘임창정♥’ 서하얀 “시터 3명 고용은 오해, 子들 유학비 보내려면 열심히 돈 벌어야”]]></title>
+        <id>https://v.daum.net/v/20230423002901388</id>
+        <link href="https://v.daum.net/v/20230423002901388"/>
+        <updated>2023-04-22T16:13:27.421Z</updated>
+        <content type="html"><![CDATA[[TV리포트=이혜미 기자] 임창정의 아내 서하얀이 '동상이몽' 출연 후 소감과 그로인해 불거진 오해에 대해 해명했다. 서하얀은 22일 자신의 유튜브 채널에 "처음 밝히는 논란에 대한 진실"이라는 제목의 영상을 업로드 했다. 서하얀은 지난 2017년 임창정과 결혼 후 슬하에 5남을 두게 된 바. SBS '동상이몽-너는 내 운명'을 통해 임창정과의 결혼생활을]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[손태진 "동거? 순기능도 있어"vs에녹,신성 "동거는 반대"]]></title>
+        <id>https://v.daum.net/v/20230423002830387</id>
+        <link href="https://v.daum.net/v/20230423002830387"/>
+        <updated>2023-04-22T16:13:27.423Z</updated>
+        <content type="html"><![CDATA[[TV리포트=김유진 기자]불타는 트롯맨들이 결혼, 동거에 대한 솔직한 생각을 털어놨다. 22일 방영된 MBN '속풀이쇼 동치미'는 지난주에 이어 '불타는 트롯맨' 특집이 전파를 탄다. 이날 신성은 "누나가 많으면 결혼이 힘들지 않냐"는 질문에 "결혼을 한다면 중간에서 내가 역할을 잘하면 된다"고 말했다. 이어 "혼하면 돈 관리는 본인이 해야한다고 생각하냐"]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘전참시’ 유인나 “아이유와 듀엣무대 호평, 앨범 발매 알아봐야...”]]></title>
         <id>https://v.daum.net/v/20230423000630280</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230422224900795"/>
         <updated>2023-04-22T14:09:23.497Z</updated>
         <content type="html"><![CDATA[[OSEN=박하영 기자] 가수 조현아가 미주에게 고마움을 전했다. 조현아는 22일 “새치 뽑아주는 예쁜 미주”라며 여러 장의 사진을 공개했다. 사진 속 조현아는 완성된 뿌까 머리 헤어스타일로 꾸며진 가운데 미주의 도움을 받고 있는 모습이 담겨있다. 바로 미주가 조현아의 새치를 하나씩 뽑고 있던 것. 이에 미주는 조현아의 머리에 집중하며 열심히 새치를 뽑]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘누나만 넷’ 신성, 아내 아침밥 필수 질문에 대답은?]]></title>
-        <id>https://v.daum.net/v/20230422224010758</id>
-        <link href="https://v.daum.net/v/20230422224010758"/>
-        <updated>2023-04-22T14:09:23.498Z</updated>
-        <content type="html"><![CDATA[[동아닷컴] ‘누나만 넷’ 신성, 아내 아침밥 필수 질문에 대답은? (동치미) 가수 신성이 결혼하고 싶다고 고백한다. 22일 방송되는 MBN ‘속풀이쇼 동치미’는 지난주에 이어 ‘불타는 트롯맨’ 특집 편으로 진행된다. 신성-에녹-손태진이 출연해 ‘남자는 울지 않는다’라는 주제로 이야기를 펼친다. 이날 신성은 누나가 많으면 결혼이 힘들지 않냐는 질문에 “결]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘살림남’ 이천수 아내, 현진영 아내에 동질감 “13년이나 기회가 있었는데..”]]></title>
-        <id>https://v.daum.net/v/20230422224000754</id>
-        <link href="https://v.daum.net/v/20230422224000754"/>
-        <updated>2023-04-22T14:09:23.506Z</updated>
-        <content type="html"><![CDATA[[TV리포트=이혜미 기자] 현진영의 아내 오서운 씨와 이천수의 아내 심하은 씨가 악동 남편을 둔 아내의 공감대를 형성했다. 22일 KBS 2TV ‘살림남’에선 현진영과 이천수의 만남이 펼쳐졌다. 현진영과 이천수는 각각 가요계와 축구계를 대표하는 악동들. 이에 따라 아내 오서운 씨와 심하은 씨 사이엔 공감대가 형성됐다. 이 자리에서 오서운 씨가 “둘 다 성격]]></content>
     </entry>
 </feed>
