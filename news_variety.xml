@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/variety</id>
     <title>다음 연예 ─ 뉴스 ─ 예능</title>
-    <updated>2023-04-22T17:10:16.435Z</updated>
+    <updated>2023-04-22T18:13:19.283Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['전참시' 유인나, 절친 아이유 언급→매니저 명품 가방+탈모 이식 수술 지원]]></title>
+        <id>https://v.daum.net/v/20230423025202594</id>
+        <link href="https://v.daum.net/v/20230423025202594"/>
+        <updated>2023-04-22T18:13:07.429Z</updated>
+        <content type="html"><![CDATA[[OSEN=오세진 기자] ‘전지적 참견 시점’ 유인나가 절친 아이유를 언급했다. 22일 방영된 MBC 예능 ‘전지적 참견 시점’(이하 ‘전참시’)에서는 매니저와 13년 째 함께 일하는 유인나가 등장했다.&nbsp;양세형은 “‘볼륨을 높여요’에서 정말 연애 상담을 잘해주셨다. 이번 드라마에서도 연애 코치, 연애 칼럼 전문가로 등장한다더라”라며 유인나가 새로 들어가]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['살림남2' 트로트 프린스 김수찬, 세상에 이런 건실한 청년이 있다니]]></title>
         <id>https://v.daum.net/v/20230423012921531</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230422235523171"/>
         <updated>2023-04-22T15:11:10.641Z</updated>
         <content type="html"><![CDATA[[OSEN=박하영 기자] ‘동치미’ 누나만 4명인 신성이 결혼하고 싶다고 밝혔다. 22일에 방송된 MBN ‘속풀이쇼 동치미’(이하 ‘동치미’)에서는 지난 주에 이어 ‘불타는 트롯맨’ 특집으로 진행된 가운데 신성, 에녹, 손태진이 출연해 입담을 뽐냈다. 이날 신성은 ‘누나가 4명인 남자는 결혼하기 힘들다?’라는 주제에 대해 홀로 X를 들었다. 박수홍은 “]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[에녹 “아침밥 만들어 먹어, 결혼하면 2인분 어렵지 않아”]]></title>
-        <id>https://v.daum.net/v/20230422235409166</id>
-        <link href="https://v.daum.net/v/20230422235409166"/>
-        <updated>2023-04-22T15:11:10.641Z</updated>
-        <content type="html"><![CDATA[에녹이 결혼하면 아내의 아침밥도 만들어 주겠다고 말했다. 4월 22일 방송된 MBN ‘속풀이쇼 동치미’에서는 ‘불타는 트롯맨’ 손태진, 신성, 에녹 두 번째 이야기가 펼쳐졌다. 이날 방송에서 “결혼하면 아내가 해주는 아침밥은 필수다?”라는 질문에 신성은 아침밥은 필수가 아니라며 장가를 가고 싶다고 어필했다. 손태진은 “아침밥을 해주면 너무 감사하지만]]></content>
     </entry>
 </feed>
