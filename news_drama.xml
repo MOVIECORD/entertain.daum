@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-04-23T07:09:50.716Z</updated>
+    <updated>2023-04-23T08:13:21.288Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[견미리 야구방망이로…실체 충격, “더러운 피로 감히”]]></title>
+        <id>https://v.daum.net/v/20230423165723434</id>
+        <link href="https://v.daum.net/v/20230423165723434"/>
+        <updated>2023-04-23T08:13:04.703Z</updated>
+        <content type="html"><![CDATA[[동아닷컴]  견미리 실체가 드러나 충격을 안겼다. 22일 방송된 tvN 토일드라마 ‘판도라 : 조작된 낙원’(크리에이터 김순옥, 연출 최영훈, 극본 현지민) 13회에서는 과거 장도진(박기웅 분)을 음해했던 민영휘(견리미 분) 실체가 드러났다. 이날 민영휘는 주주총회(약칭 주총)에 참석하지 않은 아들 장교진(홍우진 분)을 다그쳤다. 민영휘는 “어떻게 된]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이지아 총 맞았다→견미리 실체 사악했네]]></title>
         <id>https://v.daum.net/v/20230423160037441</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230423100859683"/>
         <updated>2023-04-23T02:13:34.230Z</updated>
         <content type="html"><![CDATA[[뉴스엔 박아름 기자] 많은 명언들을 쏟아낸 김사부가 시즌3에서는 또 어떤 명대사로 시청자들을 감동시킬까. SBS 새 금토드라마 ‘낭만닥터 김사부3’(극본 강은경, 임혜민/연출 유인식, 강보승) 측은 4월 23일 시즌1, 2 ‘김사부 명언록’을 공개했다. 4월 28일 첫 방송되는 '낭만닥터 김사부3'는 지방의 초라한 돌담병원을 배경으로 벌어지는 ‘진짜 닥]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한석규의 '촌철살인' 명대사 TOP7 모아보기]]></title>
-        <id>https://v.daum.net/v/20230423100301581</id>
-        <link href="https://v.daum.net/v/20230423100301581"/>
-        <updated>2023-04-23T02:13:34.231Z</updated>
-        <content type="html"><![CDATA[[텐아시아=류예지 기자]‘낭만닥터 김사부3’ 한석규가 김사부 명언록의 위엄을 다시 한번 예고한다. &nbsp; 4월 28일 첫 방송되는 SBS 새 금토드라마 ‘낭만닥터 김사부3’(극본 강은경, 임혜민/연출 유인식, 강보승/제작 삼화네트웍스, 스튜디오S)는 지방의 초라한 돌담병원을 배경으로 벌어지는 ‘진짜 닥터’ 이야기를 그린 드라마다. 2016년 시즌1으로 시작]]></content>
     </entry>
 </feed>
