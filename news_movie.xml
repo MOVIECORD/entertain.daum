@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-04-23T08:13:21.293Z</updated>
+    <updated>2023-04-23T09:10:21.085Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[올 성수기 해외대작 대공습···괴물형사가 '반격 서막' 열까]]></title>
+        <id>https://v.daum.net/v/20230423172852935</id>
+        <link href="https://v.daum.net/v/20230423172852935"/>
+        <updated>2023-04-23T09:09:58.858Z</updated>
+        <content type="html"><![CDATA[[서울경제] 어려움을 겪고 있는 한국 영화계의 기대작들이 5월부터 극장가를 찾아온다. 하지만 이에 맞서는 해외 대작 영화들도 개봉을 앞두고 있어 한국 영화들이 위기를 이겨 내고 좋은 실적을 낼 수 있을지 업계의 이목이 집중되고 있다. 특히 올해 성수기까지 국내 스크린에 걸리는 외화들은 대부분 인기 프랜차이즈 영화들의 후속작이어서 큰 흥행이 예상된다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[마블 영화에서 이제 스칼렛 요한슨 못본다…“탈퇴 선언” 왜?]]></title>
         <id>https://v.daum.net/v/20230423170720610</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230423073301981"/>
         <updated>2023-04-22T23:10:38.479Z</updated>
         <content type="html"><![CDATA[천만 영화 ‘극한 직업’으로 코믹한 매력을 마음껏 발산했던 배우 이하늬(40)가 새로운 맛의 코미디로 돌아왔다. 이하늬는 영화 ‘킬링 로맨스’(감독 이원석)에서 톱스타 황여래 역을 연기했다. ‘킬링 로맨스’는 섬나라 재벌 조나단(이선균)과 운명적 사랑에 빠져 돌연 은퇴를 선언한 톱스타 황여래가 팬클럽3기 출신 사수생 범우(공명)를 만나 기상천외한 컴백 작전]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[제2의 '미나리'? '성난 사람들'→'라이스보이', 달라진 한국인들]]></title>
-        <id>https://v.daum.net/v/20230423060030089</id>
-        <link href="https://v.daum.net/v/20230423060030089"/>
-        <updated>2023-04-22T21:09:27.426Z</updated>
-        <content type="html"><![CDATA[(서울=뉴스1) 정유진 기자 = 달라진 '한국인'의 위상이 미디어를 통해 확인되고 있다. '한국산 작품'이 아닌 작품에서 다채롭고 입체적인 한국인(혹은 한국계 이민자) 캐릭터들이 등장하고 있다. 영화 '미나리'(2021, 감독 정이삭)의 스티븐 연이 아시아계 배우 최초로 아카데미 남우주연상 후보에 오르고, 윤여정이 한국 배우 최초로 같은 시상식에서 여]]></content>
     </entry>
 </feed>
