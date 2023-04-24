@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/variety</id>
     <title>다음 연예 ─ 뉴스 ─ 예능</title>
-    <updated>2023-04-24T19:09:42.503Z</updated>
+    <updated>2023-04-24T20:11:56.222Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[황광희 "임시완, 연습생 때 내 머리 감겨줘"→임시완 "그야 네가 난리치니까"]]></title>
+        <id>https://v.daum.net/v/20230425041622613</id>
+        <link href="https://v.daum.net/v/20230425041622613"/>
+        <updated>2023-04-24T20:11:44.371Z</updated>
+        <content type="html"><![CDATA[[OSEN=최지연 기자] 황광희와 임시완이 추억을 이야기했다.&nbsp; 24일, 황광희가 진행하는&nbsp;유튜브 채널 ‘캐릿’에는 ‘[EN] 맑은 눈의 광인 임시완...에게 후드려맞는 황광희 어떤데ㅣ[가내조공업 Ep.01]’이라는 제목의 영상이 업로드 됐다.&nbsp; 이날 황광희와 임시완은 서로 “오랜만이다”라며 어색하게 인사해 웃음을 안겼다. 둘은 그룹 '제국의 아이들'로]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[미얀마 출신 찬찬 남편, "아내, 자기 입으로 공인이라고" 부부 갈등 고백]]></title>
         <id>https://v.daum.net/v/20230425040219505</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230425000356418"/>
         <updated>2023-04-24T15:11:40.013Z</updated>
         <content type="html"><![CDATA[왕지원♥박종석 부부가 갈등을 겪었다. 24일 방송된 SBS '동상이몽2-너는 내 운명'에서는 발레로 인해 갈등을 겪는 왕지원♥박종석 부부의 모습이 그려졌다. 이날 왕지원은 대학원생이 됐음을 밝히며 창작 무용 만들기에 대한 이야기를 꺼냈다. 현역 무용수 박종석은 아내 왕지원에게 파트너로 본인을 쓰라고 어필했고 왕지원은 수석 무용수 남편에 대해 부담스러워]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["둘이 뭐해"…박종석, 왕지원X유희웅 1열 감시 '질투 폭발']]></title>
-        <id>https://v.daum.net/v/20230425000142355</id>
-        <link href="https://v.daum.net/v/20230425000142355"/>
-        <updated>2023-04-24T15:11:40.014Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 원민순 기자) 박종석이 왕지원과 유희웅을 1열에서 감시했다. 24일 방송된 SBS '동상이몽2 - 너는 내 운명'에서는 왕지원과 박종석이 함께 발레연습을 하는 모습이 전파를 탔다. 이날 왕지원과 박종석은 발레 연습실에서 등장했다. 왕지원은 최근 대학원에 다니기 시작했다는 사실을 전하면서 졸업요건이&nbsp;논문 또는 공연 중 하나를 해야 한다고 설명했]]></content>
     </entry>
 </feed>
