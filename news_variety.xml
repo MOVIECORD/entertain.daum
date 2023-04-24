@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/variety</id>
     <title>다음 연예 ─ 뉴스 ─ 예능</title>
-    <updated>2023-04-24T18:13:51.708Z</updated>
+    <updated>2023-04-24T19:09:42.503Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[미얀마 출신 찬찬 남편, "아내, 자기 입으로 공인이라고" 부부 갈등 고백]]></title>
+        <id>https://v.daum.net/v/20230425040219505</id>
+        <link href="https://v.daum.net/v/20230425040219505"/>
+        <updated>2023-04-24T19:09:31.037Z</updated>
+        <content type="html"><![CDATA[[OSEN=김예솔 기자] 미얀마 출신의 작가 찬찬의 남편이 부부 갈등을 고백을 예고해 눈길을 끌었다.&nbsp; 24일 방송된 MBC '오은영 리포트 결혼 지옥'에서는 미얀마 출신의 작가 찬찬과 남편의 이야기가 예고돼 눈길을 끌었다.&nbsp; 이날 예고편에서 남편은 "자기 입으로 공인 인플루언서라고 이야기하는데 나는 그게 듣기 싫다"라고 말해 눈길을 끌었다. 남편의 아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["효도는 돈으로 하는 거지" 강남, 母 없이 홀로 효자촌 입성]]></title>
         <id>https://v.daum.net/v/20230425013024894</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230425000142355"/>
         <updated>2023-04-24T15:11:40.014Z</updated>
         <content type="html"><![CDATA[(엑스포츠뉴스 원민순 기자) 박종석이 왕지원과 유희웅을 1열에서 감시했다. 24일 방송된 SBS '동상이몽2 - 너는 내 운명'에서는 왕지원과 박종석이 함께 발레연습을 하는 모습이 전파를 탔다. 이날 왕지원과 박종석은 발레 연습실에서 등장했다. 왕지원은 최근 대학원에 다니기 시작했다는 사실을 전하면서 졸업요건이&nbsp;논문 또는 공연 중 하나를 해야 한다고 설명했]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[왕지원 “나이 먹고 대학원 다니려니 머리 아파” ♥박종석과 부부싸움]]></title>
-        <id>https://v.daum.net/v/20230424235753280</id>
-        <link href="https://v.daum.net/v/20230424235753280"/>
-        <updated>2023-04-24T15:11:40.015Z</updated>
-        <content type="html"><![CDATA[왕지원이 대학원을 위해 남편 박종석과 함께 발레연습을 하다가 갈등을 빚었다. 4월 24일 방송된 SBS ‘동상이몽 시즌2-너는 내 운명’에서 왕지원 박종석 부부는 함께 발레 연습을 했다. 왕지원은 “이 나이 먹고 대학원 다니려니까 머리 아프다”며 “좋은 교육 기관에서 좋은 교육을 하고 싶어서 부족한 걸 채우고 싶어서 하게 됐는데 쉽지 않더라”고 대학원]]></content>
     </entry>
 </feed>
