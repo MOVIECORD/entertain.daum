@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2023-04-24T16:13:58.884Z</updated>
+    <updated>2023-04-24T17:10:51.294Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[백종원, 아내 소유진 가수인 거 몰랐어...애창곡은 '파라파라 퀸']]></title>
+        <id>https://v.daum.net/v/20230425020030975</id>
+        <link href="https://v.daum.net/v/20230425020030975"/>
+        <updated>2023-04-24T17:10:45.024Z</updated>
+        <content type="html"><![CDATA[[TV리포트=이수연 기자] MC 박재범이 특별한 무대와 함께 마지막 드라이브를 성공적으로 마쳤다. 23일 KBS2 '더 시즌즈-박재범의 드라이브'에는 타이거 JK, 제시, 백종원, pH-1, 식 케이, HAON, BIG Naughty, 우디 고차일드, 그루비룸 규정‧휘민, 정찬성이 함께했다. '국힙 레전드' 타이거 JK가 히트곡 메들리로 현장 분위기를 뜨겁]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[백진희, 안재현과 동거 시작...최고 25.6%]]></title>
         <id>https://v.daum.net/v/20230425010030753</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230424235858288"/>
         <updated>2023-04-24T15:11:45.367Z</updated>
         <content type="html"><![CDATA[[스포츠조선닷컴 정안지 기자] 윤기원의 결혼식 현장이 공개됐다. 24일 방송된 TV CHOSUN '조선의 사랑꾼'에서는 아내, 아들과 함께 새로운 가정을 이룬 배우 윤기원의 뜻 깊은 결혼식 현장이 공개됐다. 이날 윤기원은 김광규, 심현섭, 최성국, 김찬우을 만나 청첩장을 건넸다. 윤기원은 "두 번째 결혼이라 사람이 없다"고 했다. 그러자 김찬]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[범죄심리학자 박지선 교수, 결혼 7년 만에 임신]]></title>
-        <id>https://v.daum.net/v/20230424235755281</id>
-        <link href="https://v.daum.net/v/20230424235755281"/>
-        <updated>2023-04-24T15:11:45.368Z</updated>
-        <content type="html"><![CDATA[[스포츠서울 | 김태형기자] 범죄심리학자 박지선 교수가 결혼 7년 만에 임신 소식을 전했다. 24일 방송된 SBS ‘동상이몽 2 - 너는 내 운명’에는 박지선 교수가 스페셜 MC로 출연했다. 서장훈은 박지선 교수에게 “결혼 7년 만에 임신을 했다”라며 축하했다. 박지선은 결혼 7년 만에 임신했다고 밝혔다. 하지만 직업 특성상 범죄물을 볼 일이 많]]></content>
     </entry>
 </feed>
