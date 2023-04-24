@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-04-24T20:11:56.217Z</updated>
+    <updated>2023-04-24T21:09:58.890Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[박서준 "안정은 없어요…계속 도전할 거예요"]]></title>
+        <id>https://v.daum.net/v/20230425060307793</id>
+        <link href="https://v.daum.net/v/20230425060307793"/>
+        <updated>2023-04-24T21:09:35.663Z</updated>
+        <content type="html"><![CDATA[기사내용 요약 영화 '드림' 기로 선 축구선수 '홍대' 역 홈리스축구팀 이끌고 월드컵 가는 감독 "이병헌 감독 영화라면 꼭 하고 싶었다" "다시 한 번 기회 주는 메시지에 공감" 드라마 성공 글로벌 스타 마블 영화도 "무모해도 도전하고 최선 다하고 싶어" [서울=뉴시스] 손정빈 기자 = 영화 '드림'은 홈리스 축구 월드컵에 국가대표로 참가한]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['드림' 아이유 "나 너무 배은망덕" 왜?]]></title>
         <id>https://v.daum.net/v/20230425050036814</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230424180602874"/>
         <updated>2023-04-24T09:11:33.135Z</updated>
         <content type="html"><![CDATA[[이선필 기자] ▲ &nbsp;24일 서울 용산구 CGV용산아이파크몰에서 열린 영화 '리턴 투 서울' 언론시사회 및 기자간담회에서 데이비 추 감독(왼쪽부터), 배우 박지민, 오광록이 포즈를 취하고 있다.ⓒ 연합뉴스&nbsp; 국제입양인의 약 절반이 한국 출신이라는 분석이 있다. 한국전쟁 이후 세계 10대 경제대국이 됐지만 여전히 입양에서만큼은 제대로 된 국내 통계가 없는 현]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['드림' 아이유 "박서준, 놀라운 배우..친해질 만하면 촬영 중단"]]></title>
-        <id>https://v.daum.net/v/20230424180201782</id>
-        <link href="https://v.daum.net/v/20230424180201782"/>
-        <updated>2023-04-24T09:11:33.137Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 | 김나연 기자] 영화 '드림'(감독 이병헌)의 주연배우 아이유가 개봉 인터뷰를 위해 포즈를 취하고 있다. /사진제공=EDAM엔터테인먼트 2023.04.24 /사진=이동훈 기자 photoguy@배우 아이유가 박서준과 호흡을 맞춘 소감을 밝혔다. 20일 영화 '드림'(감독 이병헌)의 개봉을 앞두고 주연 배우 아이유와 화상 인터뷰를 진행했다. ']]></content>
     </entry>
 </feed>
