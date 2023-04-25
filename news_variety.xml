@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/variety</id>
     <title>다음 연예 ─ 뉴스 ─ 예능</title>
-    <updated>2023-04-25T16:14:14.862Z</updated>
+    <updated>2023-04-25T17:10:27.439Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[황석정, '연애 스킬' 공개…"위험한 여자로 보이면 안 돼"]]></title>
+        <id>https://v.daum.net/v/20230426015002743</id>
+        <link href="https://v.daum.net/v/20230426015002743"/>
+        <updated>2023-04-25T17:10:16.763Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 이이진 기자) 배우 황석정이 연애를 잘하게 된 방법을 공개했다. 26일 방송된 SBS '신발 벗고 돌싱포맨'(이하 '돌싱포맨')에서는 황석정이 연애를 잘하는 방법을 밝힌 장면이 전파를 탔다. 이날 이상민은 "황석정 씨는 연애의 초고수라고 한다"라며 궁금해했고, 황석정은 "저는 진짜 왕초보인데 제 친구 중에 굉장한 고수가 있었다. 굉장히 '찐친]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[탁재훈, 김완선에 호감 고백…"어렸을 때부터 내 거"]]></title>
         <id>https://v.daum.net/v/20230426011002613</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230425232701796"/>
         <updated>2023-04-25T15:11:32.197Z</updated>
         <content type="html"><![CDATA[[OSEN=박근희 기자] '혓바닥 종합격투기 세치혀’ 이운규 변호사고 사법고시를 9개월만에 패스한 비결을 언급했다.&nbsp; 25일 오후 방송된 MBC 예능 프로그램 ‘혓바닥 종합격투기 세치혀’(이하 ‘세치혀’)에서는 치열한 혓바닥 전쟁이 공개됐다. 사법고시를 9개월 만에 패스한 ‘밑줄쫙 세치혀’ 이운규는 “게임광이다. 학생 때는 어느정도였냐면, 프로게이머 연]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“바퀴벌레 만도 못 해” ‘당결안’ 빨강 아내, 남편 폭언에 충격]]></title>
-        <id>https://v.daum.net/v/20230425232541787</id>
-        <link href="https://v.daum.net/v/20230425232541787"/>
-        <updated>2023-04-25T15:11:32.198Z</updated>
-        <content type="html"><![CDATA[[OSEN=지민경 기자] ‘당결안’ 세 쌍의 부부들이 서로가 받은 상처에 대해 허심탄회하게 이야기하는 시간을 가졌다. 25일 오후 방송된 SBS 플러스 ’당신의 결혼은 안녕하십니까 시즌2(이하 당결안)’에서는 3쌍의 부부들이 각각 배우자에게 가장 상처받았던 기억을 꺼내놓으며 서로의 상처를 보듬었다. 빨강 남편은 자신의 상처받았던 기억에 대해 “서로 이혼]]></content>
     </entry>
 </feed>
