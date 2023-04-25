@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-04-25T15:11:43.672Z</updated>
+    <updated>2023-04-25T16:14:14.860Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['오아시스', 장동윤X설인아 복수 성공→추영우와 화해]]></title>
+        <id>https://v.daum.net/v/20230426001446345</id>
+        <link href="https://v.daum.net/v/20230426001446345"/>
+        <updated>2023-04-25T16:13:58.466Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 | 이지현 기자] /사진='오아시스' 방송 화면'오아시스' 장동윤과 설인아가 결국 추영우와 화해했다. 25일 방송된 KBS 2TV 월화드라마 '오아시스' 최종화에서는 이두학(장동윤 분)과 오정신(설인아 분)이 복수에 성공하고 최철웅(추영우 분)과 화해하는 장면이 그려졌다. 이두학은 오정신(설인아 분)에게 "나를 간첩으로 모는 이유야. 이게 내]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['패밀리' 감독 "장혁X장나라 호흡 기대 이상..더할 나위 없이 든든"]]></title>
         <id>https://v.daum.net/v/20230425234336918</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230425194016207"/>
         <updated>2023-04-25T11:09:16.429Z</updated>
         <content type="html"><![CDATA[[스타뉴스 | 이지현 기자] /사진='하늘의 인연' 방송 화면'하늘의 인연'의 김유석이 김시하의 입양 사실을 알게 됐다. 25일 방송된 MBC 일일드라마 '하늘의 인연'에서는 강치환(김유석 분)이 해인(김시하 분)의 입양 사실을 알고 놀라는 장면이 그려졌다. 이날 채영은(조미령 분)은 강치환과 전미강(고은미 분)에 "나 비서 조카 해인이 우리가 입양하기]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[천우희 이런 모습 처음…카지노 씹어먹네]]></title>
-        <id>https://v.daum.net/v/20230425192114785</id>
-        <link href="https://v.daum.net/v/20230425192114785"/>
-        <updated>2023-04-25T11:09:16.430Z</updated>
-        <content type="html"><![CDATA[[동아닷컴] 배우 천우희가 연기 변신을 선보인다. tvN 새 월화드라마 ‘이로운 사기’(극본 한우주 연출 이수현)는 공감 불능 사기꾼과 과공감 변호사, 너무나 다른 두 사람의 절대 악을 향한 복수극이자 짜릿한 공조 사기극이다. 제작진은 공감 불능 사기꾼 이로움 역으로 분한 천우희의 캐릭터 스틸 컷을 25일 공개했다. 극 중 이로움(천우희 분)은 공감]]></content>
     </entry>
 </feed>
