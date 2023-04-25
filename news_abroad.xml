@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-04-25T10:11:57.459Z</updated>
+    <updated>2023-04-25T11:09:31.767Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["BTS 지민처럼 V라인!"..캐나다 배우, 韓 병원서 성형 후 사망]]></title>
+        <id>https://v.daum.net/v/20230425192416848</id>
+        <link href="https://v.daum.net/v/20230425192416848"/>
+        <updated>2023-04-25T11:09:31.107Z</updated>
+        <content type="html"><![CDATA[[OSEN=박소영 기자] 22세 캐나다 배우가 방탄소년단 지민과 닮은 외모를 위해 성형수술을 감행했다가 사망했다. 24일(현지시각) 외신 보도에 따르면 세인트 본 콜루치는 이틀 전 수술 합병증으로 한국의 한 병원에서 사망했다. 관계자는 “콜루치가 지난해 11월 턱에 삽입한 보형물을 제거하기 위해 지난 21일 밤 수술대에 올랐다. 하지만 감염에 의한 합병]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['슬램덩크' 개봉한 中 극장가, 1열서 대놓고 불법 촬영]]></title>
         <id>https://v.daum.net/v/20230425185530257</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230425114530645"/>
         <updated>2023-04-25T03:11:49.857Z</updated>
         <content type="html"><![CDATA[[TV리포트=유비취 기자] 전 세계를 열광시키고 있는 가수 테일러 스위프트가 콘서트 도중 부상을 입었다. 지난 23일(현지 시간) 미국 텍사스주 휴스턴에서 투어 공연을 진행하던 테일러 스위프트(33)는 낙상 사고로 손에 부상을 입고 피를 흘리면서 등장했다. 공연이 끝나고 테일러 스위프트는 소셜네트워크서비스를 통해 팬들의 걱정에 답했다. 그는 "손이 어떻게]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[스칼렛 요한슨 "마블에 남자만 너무 많아...소시지 파티다"]]></title>
-        <id>https://v.daum.net/v/20230425104930925</id>
-        <link href="https://v.daum.net/v/20230425104930925"/>
-        <updated>2023-04-25T02:03:43.654Z</updated>
-        <content type="html"><![CDATA[[TV리포트=유비취 기자] 인기 할리우드 배우 스칼렛 요한슨이 마블의 불균등한 성비를 폭로했다. 지난 18일(현지 시간) 팟캐스트 'Goop(구프)'에 출연한 스칼렛 요한슨(38)은 마블에서 함께 여성 히어로로 활약한 기네스 펠트로(50)와의 추억을 회상했다. 스칼렛 요한슨은 마블에서 압도적인 남성 배우 비율에 '소시지 파티'라는 농담을 건네기도 했다. 스]]></content>
     </entry>
 </feed>
