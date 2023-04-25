@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-04-25T05:10:53.626Z</updated>
+    <updated>2023-04-25T06:15:04.203Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[제니퍼 애니스톤, 전 남편과 재회...'열애설' 데이빗 쉼머는 어쩌고]]></title>
+        <id>https://v.daum.net/v/20230425145100920</id>
+        <link href="https://v.daum.net/v/20230425145100920"/>
+        <updated>2023-04-25T06:15:03.385Z</updated>
+        <content type="html"><![CDATA[[TV리포트=이수연 기자] 인기 할리우드 배우 제니퍼 애니스톤이 전 남편과 재회했다. 24일(현지 시간) 영국 데일리 메일은 제니퍼 애니스톤이 전 남편 저스틴 서룩스와 뉴욕에서 저녁 식사를 하는 모습을 공개했다. 두 사람은 만나자마자 반가운 듯 서로를 껴안았다. 자리에는 배우 제이슨 베이트먼과 그의 아내 아만다 앙카도 함께 있어 마치 더블데이트를 연상케]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[니콜라스 케이지, 빚 80억 다 갚아...일본인 아내와 행복할 일만 남았네]]></title>
         <id>https://v.daum.net/v/20230425124530086</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230425045558731"/>
         <updated>2023-04-24T20:11:55.345Z</updated>
         <content type="html"><![CDATA[(로스앤젤레스=연합뉴스) 임미나 특파원 = 영국과 미국에서 큰 인기를 누린 TV 춤 예능 프로그램 심사위원 렌 굿맨이 별세했다. 향년 78세. 굿맨의 에이전트 재키 길은 굿맨이 지난 22일(현지시간) 영국 켄트에 있는 호스피스 시설에서 가족들이 지켜보는 가운데 숨을 거뒀다고 24일 밝혔다. 영국 방송 BBC와 미 일간 뉴욕타임스(NYT) 등에 따르면 굿맨은]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘톰 홀랜드♥’ 젠데이아, 블랙핑크 공연했던 코첼라 페스티벌 “찢었다”]]></title>
-        <id>https://v.daum.net/v/20230424192127511</id>
-        <link href="https://v.daum.net/v/20230424192127511"/>
-        <updated>2023-04-24T11:10:21.345Z</updated>
-        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]‘스파이더맨’ 톰 홀랜드(26)와 열애중인 젠데이아(26)가 코첼라 뮤직페스티벌을 강타했다. 코첼라는 걸그룹 블랙핑크가 환호를 받아 국내 팬들에게도 낯익은 페스티벌이다. 연예매체 피플은 23일(현지시간) “7년 만에 처음으로 라이브 공연을 선보인 젠데이아는 라브린스 세트의 마지막 두 곡인 'I'm Tired'와 'All fo]]></content>
     </entry>
 </feed>
