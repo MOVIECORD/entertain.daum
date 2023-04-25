@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-04-25T09:12:11.347Z</updated>
+    <updated>2023-04-25T10:11:57.459Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['슬램덩크' 개봉한 中 극장가, 1열서 대놓고 불법 촬영]]></title>
+        <id>https://v.daum.net/v/20230425185530257</id>
+        <link href="https://v.daum.net/v/20230425185530257"/>
+        <updated>2023-04-25T10:11:56.816Z</updated>
+        <content type="html"><![CDATA[[TV리포트=이수연 기자] 중국에서도 일본 애니메이션 영화 '슬램덩크' 열풍이 불고 있다. 그러나 그와 동시에 불법 복제에 대한 문제가 함께 부상하고 있다. 25일(현지 시간) 대만 매체 ET 투데이는 중국에서 영화 '더 퍼스트 슬램덩크'(이하 '슬램덩크')의 열풍으로 더욱 심각해진 불법 복제 문제에 대해 다뤘다. 현재 중국 극장에서는 '슬램덩크' 관람]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[기네스 팰트로, 마블 복귀?..."아이언맨 죽었지만 나는 살아 있다"]]></title>
+        <id>https://v.daum.net/v/20230425182030397</id>
+        <link href="https://v.daum.net/v/20230425182030397"/>
+        <updated>2023-04-25T10:11:56.819Z</updated>
+        <content type="html"><![CDATA[[TV리포트=이수연 기자] 할리우드 배우 기네스 팰트로가 마블에 다시 출연하는 것에 긍정적인 반응을 보였다. 최근 기네스 팰트로(50)는 스칼렛 요한슨(38)과 함께 팟캐스트 'Goop'에서 마블 복귀에 대한 입장을 전했다. 그동안 기네스 팰트로가 맡은 페퍼 포츠는 마블 시네마틱 유니버스(MCU)에서 많은 활약을 펼친 바 있다. 페퍼 포츠는 아이언맨 토니]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['댄싱 위드 더 스타' 심사위원 렌 굿맨, 골종양 투병 중 별세…향년 78세]]></title>
         <id>https://v.daum.net/v/20230425174708248</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230425104930925"/>
         <updated>2023-04-25T02:03:43.654Z</updated>
         <content type="html"><![CDATA[[TV리포트=유비취 기자] 인기 할리우드 배우 스칼렛 요한슨이 마블의 불균등한 성비를 폭로했다. 지난 18일(현지 시간) 팟캐스트 'Goop(구프)'에 출연한 스칼렛 요한슨(38)은 마블에서 함께 여성 히어로로 활약한 기네스 펠트로(50)와의 추억을 회상했다. 스칼렛 요한슨은 마블에서 압도적인 남성 배우 비율에 '소시지 파티'라는 농담을 건네기도 했다. 스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[리차드 루이스, 은퇴 발표..."파킨슨병 앓고 있다"]]></title>
-        <id>https://v.daum.net/v/20230425102900997</id>
-        <link href="https://v.daum.net/v/20230425102900997"/>
-        <updated>2023-04-25T02:03:43.659Z</updated>
-        <content type="html"><![CDATA[[TV리포트=유비취 기자] 배우 겸 코미디언 리차드 루이스가 파킨슨병 투병을 고백하면서 은퇴 선언까지 했다. 지난 23일 리차드 루이스(75)는 자신의 소셜네트워크서비스를 통해 은퇴를 발표하면서 파킨슨병을 앓고 있다고 밝혔다. 리차드 루이스는 2년 전에 진단받은 파킨슨병으로 여러 차례 수술을 받아야 했고 최근 몇 년간 무대에서 설 수 없었다고 설명했다. 그]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[테일러 스위프트, 옷 갈아입다 넘어져 손바닥 부상 “난 괜찮아”]]></title>
-        <id>https://v.daum.net/v/20230425102101632</id>
-        <link href="https://v.daum.net/v/20230425102101632"/>
-        <updated>2023-04-25T02:03:43.665Z</updated>
-        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]세계적 팝가스 테일러 스위프트(33)가 공연 도중 손바닥 부상을 입었다. 그는 24일(현지시간) 트위터에 “손이 어떻게 베였냐고 물어보시는 분들을 위해 말하자면 전적으로 내 잘못이다”라면서 “드레스 자락에 걸려 넘어져서 부상을 입었다. 난 괜찮다”고 전했다. 이날 페이지식스에 따르면, 사고는 스위프트가 에라스 투어를 위해]]></content>
     </entry>
 </feed>
