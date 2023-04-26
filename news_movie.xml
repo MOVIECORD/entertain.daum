@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-04-26T09:11:40.841Z</updated>
+    <updated>2023-04-26T10:11:59.828Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[미지근, 그러나 뜨뜻한 ‘드림’]]></title>
+        <id>https://v.daum.net/v/20230426183602269</id>
+        <link href="https://v.daum.net/v/20230426183602269"/>
+        <updated>2023-04-26T10:11:39.666Z</updated>
+        <content type="html"><![CDATA[축구선수 윤홍대(박서준)는 지친 청춘이다. 세상을 호령하는 축구선수가 되고픈 그에게 신은 필요 이상의 재능을 주지 않았다. 미칠 듯 노력해도 따라잡을 수 없는 1등 선수가 눈앞에 있다. 아무리 달려도 1등과의 거리는 점점 멀어진다. 좌절하던 그는 반전을 꾀하기 위해 다큐멘터리 PD 이소민(아이유)과 손잡고 홈리스 월드컵 감독에 도전한다. 동상이몽을 가진]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['리바운드', 장항준이 판을 깔았고 안재홍은 뛰어놀았다]]></title>
+        <id>https://v.daum.net/v/20230426182727062</id>
+        <link href="https://v.daum.net/v/20230426182727062"/>
+        <updated>2023-04-26T10:11:39.668Z</updated>
+        <content type="html"><![CDATA[[SBS 연예뉴스 | 김지혜 기자] 장항준 감독과 안재홍, 코미디 감각이 남다른 두 사람의 조합은 절묘했다. 영화 '리바운드'가 표방하는 온기 넘치는 웃음에 적합한 감독과 배우의 만남이었다. 지난 4월 5일 개봉한 '리바운드'는 26일까지 전국 61만 명을 동원했다. 손익분기점까지는 갈 길이 멀지만 이 영화를 향한 관객들의 애정과 만족도는 수치를 능가하는]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[장동윤, 데뷔 전 강도 잡고 표창 받았는데…"'반듯한 이미지' 고민"]]></title>
         <id>https://v.daum.net/v/20230426180101196</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230426153106002"/>
         <updated>2023-04-26T07:14:36.412Z</updated>
         <content type="html"><![CDATA[[TV리포트=이수연 기자] 마동석이 무더운 여름을 날릴 시원한 액션과 함께 돌아온다. 26일 대한민국 대표 범죄 액션 영화 '범죄도시3'가 오는 5월 31일(수) 개봉을 확정하고 티저포스터 및 티저 예고편을 선보였다. '범죄도시3'는 대체불가 괴물 형사 '마석도'(마동석 분)가 서울 광수대로 이동 후, 신종 마약 범죄 사건의 배후인 '주성철'(이준혁 분)과]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[마동석표 맨주먹·新 빌런 이준혁 온다…'범죄도시3', 5월 31일 개봉]]></title>
-        <id>https://v.daum.net/v/20230426152201628</id>
-        <link href="https://v.daum.net/v/20230426152201628"/>
-        <updated>2023-04-26T07:14:36.415Z</updated>
-        <content type="html"><![CDATA[[텐아시아=강민경 기자] 영화 '범죄도시3'(감독 이상용)가 5월 31일 개봉을 확정했다. 26일 배급사 에이비오엔터테인먼트에 따르면 '범죄도시3'가 오는 5월 31일 개봉을 확정 지었다. 이와 함께 티저 포스터를 공개했다. '범죄도시3'는 괴물 형사 마석도(마동석 역)가 서울 광수대로 이동 후, 신종 마약 범죄 사건의 배후인 주성철(이준혁 역)과 마]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[충무로 구원투수 마동석이 온다, '범죄도시3' 5월 31일 개봉 확정]]></title>
-        <id>https://v.daum.net/v/20230426151640384</id>
-        <link href="https://v.daum.net/v/20230426151640384"/>
-        <updated>2023-04-26T07:14:36.419Z</updated>
-        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]대한민국 대표 범죄 액션 영화 '범죄도시3'가 오는 5월 31일(수) 개봉을 확정하고 티저 포스터 및 티저 예고편을 전격 공개했다. '범죄도시3'는 대체불가 괴물형사 ‘마석도’(마동석)가 서울 광수대로 이동 후, 신종 마약 범죄 사건의 배후인 ‘주성철’(이준혁)과 마약 사건에 연루된 또 다른 빌런 ‘리키’(아오키 무네타카)를]]></content>
     </entry>
 </feed>

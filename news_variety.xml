@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/variety</id>
     <title>다음 연예 ─ 뉴스 ─ 예능</title>
-    <updated>2023-04-26T09:11:40.847Z</updated>
+    <updated>2023-04-26T10:11:59.831Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[박은석 등에 고소 남발한 캐스팅디렉터, 공갈 혐의 징역 2년 실형]]></title>
+        <id>https://v.daum.net/v/20230426185407727</id>
+        <link href="https://v.daum.net/v/20230426185407727"/>
+        <updated>2023-04-26T10:11:49.367Z</updated>
+        <content type="html"><![CDATA[[SBS 연예뉴스 ㅣ 강경윤 기자] 배우 박은석 등 유명인들에게 고소나 소송을 남발하고, 온라인에 글을 쓴 누리꾼들까지 무더기로 고소하겠다고 협박해 합의를 조건으로 금전적 이득을 취하려고 한 50대 캐스팅 디렉터(섭외 전문가)가 1심에서 실형을 선고받았다. 서울남부지방법원은 공갈, 강요미수 등 혐의로 구속 기소된 캐스팅 디렉터 조 모 씨에 대해서 징역 2년]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[나PD 없는 강호동 표 음식 예능…벌써 위기?]]></title>
+        <id>https://v.daum.net/v/20230426185002596</id>
+        <link href="https://v.daum.net/v/20230426185002596"/>
+        <updated>2023-04-26T10:11:49.367Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 윤현지 기자) 강호동이 새로운 음식예능으로 등장했다. 결과는 어떨까. 지난 11일 첫 방송된 채널A 예능프로그램 '고기서 만나'는 집 프로그램 최초로 오직 고기만 다루는 프로그램이다. 다양한 지역의 고기 맛집과 고기를 즐기는 방법 등 고기에 대한 모든 것을 생생하게 전한다. 지난 25일까지 총 3회차를 거친 '고기서 만나'는 첫 방송 0.6%]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[한석규 "재수 없다"는 유쾌·박지민 "와꾸"는 불쾌한 이유…공사 구분 못하다간 꼴볼견]]></title>
         <id>https://v.daum.net/v/20230426180402296</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230426155257944"/>
         <updated>2023-04-26T07:14:46.472Z</updated>
         <content type="html"><![CDATA[[스포츠조선 안소윤 기자] '낭만닥터 김사부3' 한석규가 배우 김민재의 군 입대를 깜짝 언급했다. 김민재는 26일 오후 서울 양천구 목동 SBS 사옥에서 열린 SBS 새 금토드라마 '낭만닥터 김사부3' 제작발표회에서 "'낭만닥터 김사부3'가 제 20대 마지막 작품이 될 것"이라고 밝혔다. 이날 한석규는 김민재에 대한 이야기를 하던 중 "(]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[유재석 '플레이유 레벨업', 첫 라이브에 '110만건 응원']]></title>
-        <id>https://v.daum.net/v/20230426154429614</id>
-        <link href="https://v.daum.net/v/20230426154429614"/>
-        <updated>2023-04-26T07:14:46.474Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 | 한해선 기자] /사진=카카오엔터테인먼트 25일 첫 라이브를 진행한 '플레이유 레벨업 : 빌런이 사는 세상'(이하 플레이유 레벨업)이 유재석의 쉬지 않는 수다는 물론, 세계관 서사와 빌런 대전까지 한층 업그레이드된 재미와 웃음을 탑재하고 돌아왔다. '플레이유 레벨업'은 첫 라이브인만큼 특별히 카카오페이지를 비롯해 유튜브, 티빙까지 3개 플랫폼]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[시청자에게 능동적인 노력 요구하는 '듣고 보니 그럴싸', 그게 가능할까]]></title>
-        <id>https://v.daum.net/v/20230426154353584</id>
-        <link href="https://v.daum.net/v/20230426154353584"/>
-        <updated>2023-04-26T07:14:46.476Z</updated>
-        <content type="html"><![CDATA[[엔터미디어=최영균의 듣보잡('듣'고 '보'고 '잡'담하기)] JTBC &lt;듣고 보니 그럴싸&gt;는 근래 쏟아져 나온 스토리텔링 예능 중 가장 도전적인 프로그램이다. 영화감독 장항준, 배우 서현철과 박하선, 크리에이터 문상훈, 성우 김보민, 개그맨 이은지 등이 사회적으로 이슈가 된 사건들을 라디오 드라마 형식으로 시청자들에게 전달한다. 지난달 15일 시작해 6회]]></content>
     </entry>
 </feed>
