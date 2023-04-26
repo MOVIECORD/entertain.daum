@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-04-26T20:10:34.039Z</updated>
+    <updated>2023-04-26T21:10:36.988Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[얘는 착하고, 얘는 귀여워!]]></title>
+        <id>https://v.daum.net/v/20230427060310772</id>
+        <link href="https://v.daum.net/v/20230427060310772"/>
+        <updated>2023-04-26T21:10:11.795Z</updated>
+        <content type="html"><![CDATA[[서울=뉴시스] 손정빈 기자 = 4월 5주차 개봉 영화 및 최신 개봉작 간단평을 정리했다. 틀린 말은 아니지만…드림(★★☆) '드림'은 예상을 벗어나지 않는다. 한 때 노숙자였던 이들이 인생 재기를 꿈꾸며 홈리스 월드컵에 나간다는 실화를 영화로 만들기로 했을 때 어느 정도는 정해진 수순이었을 것이다. 좋게 보면 기승전결이 안정적이라고 할 수 있지만, 반]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘드림’ 이병헌 감독 “한국영화 위기? 너나없이 응원하는 마음”]]></title>
+        <id>https://v.daum.net/v/20230427054602399</id>
+        <link href="https://v.daum.net/v/20230427054602399"/>
+        <updated>2023-04-26T21:10:11.801Z</updated>
+        <content type="html"><![CDATA[영화 ‘드림’의 이병헌 감독이 한국 영화를 응원했다. 이병헌 감독은 최근 ‘드림’ 개봉을 앞두고 서울 종로구의 한 카페에서 진행한 인터뷰에서 “요즘 한국 영화가 위기인데 부담감이 없느냐”는 질문에 “그것보다는 요즘은 모두 내 영화, 네 영화 할 것 없이 서로 응원해 주는 마음이 큰 것 같다”고 답했다. 이병헌 감독은 ‘드림’을 오래 전부터 구상했다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘범죄도시3’ 이준혁×아오키 무네타카, 쌍빌런으로 마동석과 한판대결]]></title>
         <id>https://v.daum.net/v/20230426201252806</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230426155725131"/>
         <updated>2023-04-26T07:14:36.406Z</updated>
         <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]앞으로 2년 뒤에 AI(인공지능)가 만다는 영화가 나올 전망이다. ‘어벤져스:엔드게임’의 조 루소 감독은 25일(현지시간) 영화매체 콜라이더와 인터뷰에서 “나는 몇 개의 AI회사의 이사회에 참여하고 있다”고 운을 뗐다. 이어 “그 회사들의 이사회에 참여한 경험을 바탕으로 말하자면, AI로부터 여러분을 보호하기 위해 AI를]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[할리우드 내 무분별한 성차별, 케이트 윈슬렛의 일침]]></title>
-        <id>https://v.daum.net/v/20230426155703100</id>
-        <link href="https://v.daum.net/v/20230426155703100"/>
-        <updated>2023-04-26T07:14:36.408Z</updated>
-        <content type="html"><![CDATA[[박예송 기자] ▲ &nbsp;케이트 윈슬렛이 조쉬 호로비츠와 인터뷰를 하고 있다.ⓒ 유튜브 조쉬 호로비츠 채널&nbsp; "여배우가 레드카펫 위를 걸어가면, 사람들은 그녀가 무슨 옷을 입었는지 눈여겨 봐요. 그리고 '(몸매가) 잘 빠졌다'는 끔찍한 소리를 하죠. 그런 말 하지 마세요. 남자에게 그렇게 말하지 않잖아요." 지난 23일(현지 시각) 배우 케이트 윈슬렛은 인스타]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["확 쓸어버린다" 마동석x빌런 이준혁 '범죄도시3' 5월31일 개봉 확정]]></title>
-        <id>https://v.daum.net/v/20230426154120496</id>
-        <link href="https://v.daum.net/v/20230426154120496"/>
-        <updated>2023-04-26T07:14:36.412Z</updated>
-        <content type="html"><![CDATA[(서울=뉴스1) 장아름 기자 = 영화 '범죄도시3'가 오는 5월31일 개봉한다. '범죄도시3'는 대체불가 괴물형사 마석도(마동석 분)가 서울 광수대로 이동 후, 신종 마약 범죄 사건의 배후인 주성철(이준혁 분)과 마약 사건에 연루된 또 다른 빌런 리키(아오키 무네타카 분)를 잡기 위해 펼치는 통쾌한 범죄 소탕 작전을 그린 범죄 액션 영화다. 이 작품은]]></content>
     </entry>
 </feed>
