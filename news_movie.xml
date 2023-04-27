@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-04-27T19:09:45.765Z</updated>
+    <updated>2023-04-27T20:12:10.582Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[아프리카 이주민 아이들 삶 다룬 영화 ‘토리와 로키타’]]></title>
+        <id>https://v.daum.net/v/20230428040933666</id>
+        <link href="https://v.daum.net/v/20230428040933666"/>
+        <updated>2023-04-27T20:11:44.312Z</updated>
+        <content type="html"><![CDATA[마스크와 사회적 거리두기로부터 완전히 자유로워진 영화제가 찾아왔다. 지난해 완화된 거리두기 속에서 3년 만에 오프라인 행사를 열었던 전주국제영화제는 올해 엔데믹 분위기 속에 개최됐다. 개막식을 찾은 영화 팬들은 설레는 표정으로 환호성을 질렀다. 하지만 여전히 영화의거리 곳곳은 한산한 분위기였다. 영화관을 찾는 관객이 줄고, 영화제에 관한 관심도 작아졌던]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["위기감·부담감 but 열심히" 이병헌·박서준·아이유가 직접 밝힌 '드림' 흥행]]></title>
         <id>https://v.daum.net/v/20230427230102046</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230427181957915"/>
         <updated>2023-04-27T10:11:41.655Z</updated>
         <content type="html"><![CDATA[(사진=미디어캐슬)[이데일리 스타in 김보영 기자] “‘스즈메의 문단속’과 ‘더 퍼스트 슬램덩크’의 흥행을 지켜보며 일본의 애니메이션이 한국을 비롯한 전 세계에 하나의 장르로서 힘을 갖고 있다는 생각이 들어 기뻤습니다.” 지난 3월 내건 300만 관객 돌파 공약을 지키러 한 달 반 만에 한국을 다시 찾은 ‘스즈메의 문단속’ 신카이 마코토 감독이 500만]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['드림' 자존심 지켰지만…'범죄도시3', 韓 영화 유일한 희망?]]></title>
-        <id>https://v.daum.net/v/20230427181002512</id>
-        <link href="https://v.daum.net/v/20230427181002512"/>
-        <updated>2023-04-27T10:11:41.655Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 이창규 기자) 영화 '드림'(감독 이병헌)이 박스오피스 1위를 차지하면서 오랜만에 한국 영화의 자존심을 지켰다. 지난 26일 개봉한 '드림'은 개념 없는 전직 축구선수 홍대(박서준 분)와 열정 없는 PD 소민(아이유)이 집 없는 오합지졸 국대 선수들과 함께 불가능한 꿈에 도전하는 이야기를 그린 영화다. 이날 '드림'은 9만 3417명의 관객을]]></content>
     </entry>
 </feed>
