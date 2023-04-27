@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-04-27T03:11:52.876Z</updated>
+    <updated>2023-04-27T04:13:14.584Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘나쁜엄마’ 냉혈검사 된 이도현, 정웅인과 살벌 대면]]></title>
+        <id>https://v.daum.net/v/20230427130903321</id>
+        <link href="https://v.daum.net/v/20230427130903321"/>
+        <updated>2023-04-27T04:12:55.105Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 이민지 기자] 이도현이 달라진다. JTBC 수목드라마 ‘나쁜엄마’(극본 배세영/연출 심나연)  측은 4월 27일 검사가 된 강호(이도현 분)의 의미심장 행보를 담은 스틸컷을 공개했다. 사랑하는 남편 해식(조진웅 분)의 죽음으로 행복만이 가득했던 영순(라미란 분)의 인생은 변곡점을 맞았다. 하나뿐인 아들 강호를 힘 있고 강한 사람, 그리고 훌륭한]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['스타트렉: SNW' 시즌2, 6월 공개 확정…'오스카 위너' 양자경도 세계관 합류]]></title>
         <id>https://v.daum.net/v/20230427113724822</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230427104619965"/>
         <updated>2023-04-27T02:02:57.309Z</updated>
         <content type="html"><![CDATA[(엑스포츠뉴스 최희재 기자) 배우 정수교가 ‘구미호뎐1938’ 출연을 확정했다. 26일 소속사 WS엔터테인먼트는 “변신의 귀재인 정수교가 ‘구미호뎐1938’에 출연해 극의 몰입감을 높이는 캐릭터로 열연을 선보일 예정이니 많은 기대 부탁드린다”고 밝혔다. tvN 새 토일드라마 ‘구미호뎐1938’은 1938년 혼돈의 시대에 불시착한 구미호 이연이 현대로 돌아가]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['엄마' 손예진, 현빈과 함께 日여행→출산 후 활동 재개]]></title>
-        <id>https://v.daum.net/v/20230427104610951</id>
-        <link href="https://v.daum.net/v/20230427104610951"/>
-        <updated>2023-04-27T02:02:57.310Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 | 김미화 기자]  배우 손예진이 9일 오후 서울 종로구 광화문 포시즌스호텔에서 진행된 tvN 새 토일드라마 '사랑의 불시착' 제작발표회에 참석해 포즈를 취하고 있다. /사진=김휘선 기자 hwijpg@ 배우 손예진이 출산 후 활동을 재개했다. 손예진은 지난해 3월 배우 현빈과 결혼식을 올렸고, 그해 11월 아들을 출산했다. 이후 손예진은 육아]]></content>
     </entry>
 </feed>

@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-04-27T03:11:52.879Z</updated>
+    <updated>2023-04-27T04:13:14.581Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[박하선 '어디로 가고 싶으신가요' 6월 개봉 확정→티저 포스터 공개]]></title>
+        <id>https://v.daum.net/v/20230427130334188</id>
+        <link href="https://v.daum.net/v/20230427130334188"/>
+        <updated>2023-04-27T04:12:49.199Z</updated>
+        <content type="html"><![CDATA[영화 '어디로 가고 싶으신가요'가 6월 개봉을 확정하고 티저 포스터를 공개했다. [각본/감독: 김희정  출연: 박하선, 김남희, 전석호, 문우진  원작: 김애란 [어디로 가고 싶으신가요]  제공: ㈜엔케이컨텐츠  제작: ㈜인벤트스톤, ㈜틀, SERCE  배급: ㈜디스테이션  개봉: 2023년 6월] 박하선, 김남희, 전석호, 문우진 주연의 영화 '어디로]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[전신환, 영화 '스프린터' 육상부 코치役 합류..열일 행보]]></title>
         <id>https://v.daum.net/v/20230427120037773</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230427092700088"/>
         <updated>2023-04-27T00:56:11.144Z</updated>
         <content type="html"><![CDATA[박서준 아이유 그리고 이병헌 감독의 후광 효과는 대단했다. 영화 ‘드림’이 박스오피스 1위를 차지하며  ‘대외비’(감독 이원태) 이후 50일 만에 한국 영화의 자존심을 지켰다. 27일 영화진흥위원회 영화관입장권 통합전산망 집계를 보면 ‘드림’은 개봉 일인 전날, 9만 3420명을 동원해 누적 관객수 10만 1280명을 기록했다. 같은 날 맞장 개봉한 ‘슈퍼]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['수능, 출제의 비밀' 이선빈·유재명·김영민·전석호 캐스팅 확정]]></title>
-        <id>https://v.daum.net/v/20230427092022846</id>
-        <link href="https://v.daum.net/v/20230427092022846"/>
-        <updated>2023-04-27T00:56:11.146Z</updated>
-        <content type="html"><![CDATA[[OSEN=김보라 기자] 영화 '수능, 출제의 비밀'이 캐스팅을 확정짓고 지난 24일 전격 크랭크인했다. '수능, 출제의 비밀'(감독 이용재, 제공 KC벤처스 바른손이앤에이, 배급 바른손이앤에이, 제작 조이래빗)은 2급 국가기밀인 수능 출제위원단에 어쩌다 합류한 국어교사 맹보람(이선빈 분)이 외부차단 합숙생활을 하면서 겪는 40일 간의 파란만장한 이야기]]></content>
     </entry>
 </feed>
