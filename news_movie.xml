@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-04-27T12:19:32.240Z</updated>
+    <updated>2023-04-27T13:15:05.144Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["새롭게, 경계無" 박해일·박중훈·이수혁 ★과 개막]]></title>
+        <id>https://v.daum.net/v/20230427214438935</id>
+        <link href="https://v.daum.net/v/20230427214438935"/>
+        <updated>2023-04-27T13:14:42.365Z</updated>
+        <content type="html"><![CDATA[전주영화제가 화려한 영화인들의 잔치를 알리는 스물네번째 장막을 걷었다. '우리는 늘 선을 넘지'라는 슬로건을 걸고 열흘간 영화 축제에 돌입했다. 27일 오후 전주시 완산구 고사동 한국소리문화의전당 모악당에서 제24회 전주영화제 개막식이 열렸다. 이날 집행위원장 정준호를 비롯해 배우 박해일, 박중훈, 신현준, 이수혁, 이동휘, 이주승, 박인환, 김재경, 이]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["선을 넘는 영화들"…전주국제영화제 개막식, 열흘간 영화 여행]]></title>
+        <id>https://v.daum.net/v/20230427213329747</id>
+        <link href="https://v.daum.net/v/20230427213329747"/>
+        <updated>2023-04-27T13:14:42.367Z</updated>
+        <content type="html"><![CDATA[기사내용 요약 5월 6일까지 전주 영화의거리에서 42개국 247편의 영화 관객 만나 [전주=뉴시스]이동민 기자 = "제24회 전주국제영화제 개막을 선언합니다." '우리는 늘 선을 넘지'라는 슬로건으로 열리는 제24회 전주국제영화제가 27일 개막식을 열고 열흘간의 영화 여행에 돌입했다. 이날 오후 8시 전주시 덕진구 한국소리문화의전당 모악당에서 열린 개]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["경계 없는 상상력"…박해일→신현준·박중훈·자우림, ★들 함께 JIFF 개막]]></title>
         <id>https://v.daum.net/v/20230427210536080</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230427175030804"/>
         <updated>2023-04-27T10:11:41.658Z</updated>
         <content type="html"><![CDATA[[OSEN=김보라 기자]&nbsp;신카이 마코토 감독이 영화 ‘스즈메의 문단속’이 국내 개봉한 일본 애니메이션 가운데 1위에 오른 것과 관련 “(수입제공사) 미디어캐슬에서 ‘너의 이름은.’을 넘기 위해 매우 열심히 노력해 주셨다고 생각한다”라고 말문을 열었다. 신카이 마코토은 27일 오후 노보텔 스위트 앰배서더 서울 용산에서 열린 국내 취재진과의 인터뷰에서 “한]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['스즈메' 신카이 마코토 감독 "여고생을 주인공으로 그린 이유"]]></title>
-        <id>https://v.daum.net/v/20230427175025803</id>
-        <link href="https://v.daum.net/v/20230427175025803"/>
-        <updated>2023-04-27T10:11:41.659Z</updated>
-        <content type="html"><![CDATA[[OSEN=김보라 기자]&nbsp;(인터뷰①에 이어) 신카이 마코토 감독이 '재난 3부작'의 주인공을 여고생으로 삼은 이유를 설명했다.&nbsp; 신카이 마코토은 27일 오후 노보텔 스위트 앰배서더 서울 용산에서 열린 국내 취재진과의 인터뷰에서 “저희 이번 작품에는 역시나 여고생들이 많다. 좋게 봐주시는 분들도 계시지만 비판하시는 분들도 더러 있었다”라고 말문을 열었다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[신카이 마코토 "동일본 대지진 다룬 '스즈메'…트라우마 있는 관객 위해 경보 울려"]]></title>
-        <id>https://v.daum.net/v/20230427174814731</id>
-        <link href="https://v.daum.net/v/20230427174814731"/>
-        <updated>2023-04-27T10:11:41.659Z</updated>
-        <content type="html"><![CDATA[[마이데일리 = 양유진 기자] 신카이 마코토 감독이 '스즈메의 문단속'을 제작하며 염두에 둔 부분을 짚었다. 27일 서울 용산구 노보텔 스위트 앰배서더에서 일본 애니메이션 영화 '스즈메의 문단속'을 연출한 신카이 마코토 감독을 만났다. '스즈메의 문단속'은 우연히 재난을 부르는 문을 열게 된 소녀 스즈메가 일본 각지에서 발생하는 재난을 막기 위해 필사]]></content>
     </entry>
 </feed>
