@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-04-27T11:09:21.361Z</updated>
+    <updated>2023-04-27T12:19:32.236Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[80살 해리슨 포드 “‘인디아나 존스5’가 마지막, TV시리즈 참여 안해”]]></title>
+        <id>https://v.daum.net/v/20230427204113575</id>
+        <link href="https://v.daum.net/v/20230427204113575"/>
+        <updated>2023-04-27T12:19:31.614Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]할리우드 배우 해리슨 포드(80)가 ‘인디아나 존스:운명의 다이얼’을 끝으로 더 이상 고고학자 캐릭터를 연기하지 않겠다고 밝혔다. 그는 26일(현지시간) 토탈필름과 인터뷰에서 “이번 영화가 시리즈의 마지막 영화이며, 내가 이 캐릭터를 연기하는 것도 이번이 마지막이 될 것이다”라고 말했다. 이어 “‘인디아나 존스’ 텔레비전]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['드라이브 마이 카' 니시지마 히데토시, 美 CAA와 계약…윤여정·이정재와 한솥밥]]></title>
         <id>https://v.daum.net/v/20230427175522968</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230427111530556"/>
         <updated>2023-04-27T03:11:52.265Z</updated>
         <content type="html"><![CDATA[[TV리포트=이수연 기자] 대한민국 스타들이 한자리에 모인다. 오는 28일 오후 5시 30분 '제59회 백상예술대상' 무대에 지난해 수상의 영광을 안았던 스타들과 내년 노미네이트를 노리는 스타들이 모두 모인다. 지난해 영화 부문에서 대상을 수상한 류승완 감독은 '베테랑2' 촬영과 신작 '밀수' 개봉 준비로 바쁜 나날을 보내고 있지만 1년 만에 다시 백상]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BTS 지민 닮으려 성형하다 사망…알고 보니 '가짜뉴스'?]]></title>
-        <id>https://v.daum.net/v/20230427110014751</id>
-        <link href="https://v.daum.net/v/20230427110014751"/>
-        <updated>2023-04-27T02:03:14.019Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 이창규 기자)&nbsp;방탄소년단(BTS) 지민을 닮기 위해 3억원을 들여 12번의 성형 수술을 감행한 캐나다 배우가 사망했다는 소식이 전해졌던 가운데, 해당 소식이 가짜뉴스일 가능성이 제기됐다. 26일(이하 현지시간) 아이하트라디오(iHeartRadio) 캐나다판은&nbsp;배우 세인트 본 콜루치의 사망 소식을 단독 보도했던 영국 데일리메일이 해당 기사를 이]]></content>
     </entry>
 </feed>
