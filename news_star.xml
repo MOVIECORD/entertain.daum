@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2023-04-27T16:12:54.301Z</updated>
+    <updated>2023-04-27T17:11:00.002Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[박혜경, 주가조작 연루 의혹에 "임창정이 투자 권유 NO..나도 당했다"]]></title>
+        <id>https://v.daum.net/v/20230428013129789</id>
+        <link href="https://v.daum.net/v/20230428013129789"/>
+        <updated>2023-04-27T17:10:54.025Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 | 최혜진 기자] 가수 박혜경 /사진=임성균 기자 tjdrbs23@가수 박혜경이 임창정과 함께 주가조작 일당에 가담한 투자자라는 의혹이 불거진 가운데 박혜경이 이를 직접 해명했다. 박혜경은 28일 라이브방송을 통해 "임창정은 내게 절대 투자를 권한 적이 없다. 심지어 투자 이야기를 나눠본 적도 없다"고 전했다. 이어 "작년에 아는 지인 언니]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[박혜경 "임창정 투자 권유한 적 없어, 4천만원 맡겼다 손해" 직접 해명]]></title>
         <id>https://v.daum.net/v/20230428004947418</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230427235330539"/>
         <updated>2023-04-27T15:12:16.680Z</updated>
         <content type="html"><![CDATA[우아하거나 시크하거나. ‘제24회 전주국제영화제’는 우아하거나 시크한, 각자의 개성을 드러낸 스타들의 의상으로 화려하게 수놓아졌다. 27일 전주시 덕진구 한국소리문화의전당 모악당에서는 ‘제24회 전주국제영화제’의 개막식이 진행됐다. 본격적인 개막식 행사 시작에 앞서 공동집행위원장인 정준호를 비롯해 영화제에 초대된 많은 스타들이 레드카펫을 밟았다. ◇ 드]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[추위 잊게 한 뜨거운 열기… ‘24th JIFF’ 10일의 대장정 시작]]></title>
-        <id>https://v.daum.net/v/20230427235048507</id>
-        <link href="https://v.daum.net/v/20230427235048507"/>
-        <updated>2023-04-27T15:12:16.682Z</updated>
-        <content type="html"><![CDATA[일교차가 큰 쌀쌀한 날씨에도 레드카펫엔 열기가 가득했다. 올해로 24회를 맞은 ‘전주국제영화제’가 15일간의 대장정을 뜨겁게 시작했다. 27일 전주시 덕진구 한국소리문화의전당 모악당에서는 ‘제24회 전주국제영화제’의 개막식이 진행됐다. 코로나19의 긴 터널을 뚫고 정상 개최된 만큼 올해 영화제의 열기는 그 어느 때보다 뜨거웠다, 우범기 전주시장을 비롯해]]></content>
     </entry>
 </feed>
