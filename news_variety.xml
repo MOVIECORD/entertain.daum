@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/variety</id>
     <title>다음 연예 ─ 뉴스 ─ 예능</title>
-    <updated>2023-04-28T17:10:02.784Z</updated>
+    <updated>2023-04-28T18:13:23.780Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[천하의 한혜진이 "자괴감 들어..펑펑 울었다" 무슨 일?]]></title>
+        <id>https://v.daum.net/v/20230429031123891</id>
+        <link href="https://v.daum.net/v/20230429031123891"/>
+        <updated>2023-04-28T18:13:11.751Z</updated>
+        <content type="html"><![CDATA[[OSEN=김수형 기자]‘결혼말고 동거’에서 서울 상경에 첫 에이언시에 도전한 동거녀가 그려졌고, 모델 선배인 한혜진도 격한 공감을 전했다.&nbsp; 28일 방송된 채널A 예능 ‘결혼말고 동거(결말동)’에서 부산출신 뮤지컬배우 동거남과 광고모델 동거녀가 그려졌다. 상경한지 3개월차인 두 사람. 특히 동거녀가 처음으로 에이전시 투어로 첫 미팅하는 날이었다. 동거]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[우도환, '나 혼자 산다' 출격..'식물 사랑' 반전 취미 공개]]></title>
         <id>https://v.daum.net/v/20230429005245276</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230428234544688"/>
         <updated>2023-04-28T15:11:05.580Z</updated>
         <content type="html"><![CDATA[(엑스포츠뉴스 이예진 기자) 넷플릭스 '더 글로리'가 3관왕을 차지한 가운데, 배우들의 수상소감이 이목을 모으고 있다. 28일 제59회 백상예술대상이 인천 파라다이스시티에서 열렸다. 신동엽, 수지, 박보검이 MC를 맡았고 TV, 영화, 연극 각 분야에서 활약한 대중문화 예술인들이 참석해 자리를 빛냈다. 이날 넷플릭스 '더 글로리' 팀의 첫 번째 수상자는 임]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이상아, '3번 이혼' 이유 밝히다 오열…"복수심에 재혼하기도"]]></title>
-        <id>https://v.daum.net/v/20230428234500686</id>
-        <link href="https://v.daum.net/v/20230428234500686"/>
-        <updated>2023-04-28T15:11:05.590Z</updated>
-        <content type="html"><![CDATA[배우 이상아가 세 번의 이혼이 언급되자 눈물을 쏟았다. 28일 방송된 채널A 예능 프로그램 '오은영의 금쪽 상담소'에는 이상아가 출연해 정신건강의학과 전문의 오은영 박사를 만났다. 이날 방송에서 이상아는 가족들과 길게 대화하지 않는다며 "가족도 3번 이혼의 사유를 모른다"고 고백하며 눈물을 쏟았다. 이상아는 "내가 선택해서 결혼했고, 내가 합의해]]></content>
     </entry>
 </feed>
