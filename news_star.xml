@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2023-04-28T16:13:56.312Z</updated>
+    <updated>2023-04-28T17:10:02.783Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[비비지 신비, 故 문빈 추모 "같이 늙어갈줄 알았는데" 먹먹]]></title>
+        <id>https://v.daum.net/v/20230429012120471</id>
+        <link href="https://v.daum.net/v/20230429012120471"/>
+        <updated>2023-04-28T17:09:56.639Z</updated>
+        <content type="html"><![CDATA[[스포츠한국 김두연 기자] 비비지 신비가 절친이었던 故 문빈의 추모공간에 편지를 남겼다. 27일 비비지 신비는 판타지오 사옥에 마련된 문빈의 추모 공간에 편지를 통해 "거긴 좀 어때? 네가 좋아하는 것들로 가득해? 부디 그랬으면 좋겠다. 우리 참 오래 봤지? 어렸을 때부터 말이야. 근데 18년을 알고 지내면서 서로 뭐가 그리 낯간지러워서 툴툴대고]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[박나래, 코쿤 앞에서 오열 "남자한테 돈만 써봤지 이런 데이트 처음"]]></title>
         <id>https://v.daum.net/v/20230429010500380</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230429000125799"/>
         <updated>2023-04-28T15:11:11.061Z</updated>
         <content type="html"><![CDATA[레드벨벳 조이, 컨디션 난조로 활동 중단 [더팩트｜박지윤 기자] 친근한 이미지로 대중들에게 많은 사랑을 받았던 가수 겸 배우가 주가 조작 사태에 연루됐다는 의혹이 불거지면서 대중들에게 큰 실망을 안겼습니다. 그런가 하면 최근 컨디션 난조를 보였던 걸그룹 멤버가 결국 활동을 잠시 중단하고 건강 회복에 집중하기로 했습니다. 또한 여배우는 아버지를 하늘로 떠]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['K-POP 신기록' 세운 세븐틴...브레이브걸스, 완전체로 2막]]></title>
-        <id>https://v.daum.net/v/20230429000050790</id>
-        <link href="https://v.daum.net/v/20230429000050790"/>
-        <updated>2023-04-28T15:11:11.064Z</updated>
-        <content type="html"><![CDATA[박서준X아이유 '드림', 박스오피스 1위로 '기분 좋은 출발' [더팩트｜박지윤 기자] 전 세계를 무대로 뻗어나가고 있는 보이 그룹이 신보 발매 단 하루 만에 초동 판매량 신기록을 세웠습니다. '마의 7년'을 넘기지 못하고 해체 수순을 밟는 줄 알았던 걸그룹은 새 소속사와 함께 가수 2막을 예고했습니다. 그런가 하면 '천만 감독'과 톱스타가 뭉친 영화는]]></content>
     </entry>
 </feed>
