@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-04-29T17:09:32.272Z</updated>
+    <updated>2023-04-29T18:12:28.152Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["임신한 사람 마음 모르잖아요" 백진희, 유산 아픔 겪은 윤주희에 말실수]]></title>
+        <id>https://v.daum.net/v/20230430023043172</id>
+        <link href="https://v.daum.net/v/20230430023043172"/>
+        <updated>2023-04-29T18:12:12.333Z</updated>
+        <content type="html"><![CDATA[[OSEN=최지연 기자] ‘진짜가 나타났다!’ 백진희가 윤주희에 말실수를 했다.&nbsp; 29일 방송된 KBS2 주말드라마 '진짜가 나타났다!'(극본 조정주, 연출 한준서)에는 염수정(윤주희 분)의 유산을 모르고 말실수 한 오연두(백진희 분)의 모습이 담겨 눈길을 끌었다.&nbsp; 이날 염수정은 은금실(강부자 분)의 제사 준비 지시에 오연두를 찾았다. 염수정은 오연두]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[한석규, 정전 위기 극복→탈북자 수술 성공..이홍내, 돌담병원 지원]]></title>
         <id>https://v.daum.net/v/20230430005026030</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230429230641390"/>
         <updated>2023-04-29T14:09:29.922Z</updated>
         <content type="html"><![CDATA[(엑스포츠뉴스 이이진 기자) '낭만닥터 김사부3' 안효섭이 이경영과 신경전을 벌였다. 29일 방송된 SBS 새 금토드라마 '낭만닥터 김사부3' 2회에서는 차진만(이경영 분)이 차은재(이성경)의 남자친구인 서우진(안효섭)과 신경전을 벌인 모습이 그려졌다. 이날 차진만은 박민국(김주헌)과 함께 돌담병원을 찾았고, 딸 차은재와 재회했다. 차은재는 과거 차은재 어]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['닥터 차정숙' 김병철, 기절한 엄정화 가장 먼저 챙겼다..명세빈 '실망']]></title>
-        <id>https://v.daum.net/v/20230429225931351</id>
-        <link href="https://v.daum.net/v/20230429225931351"/>
-        <updated>2023-04-29T14:09:29.922Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 | 정은채 기자] /사진='닥터 차정숙' 방송화면 캡쳐'닥터 차정숙' 배우 김병철이 기절한 엄정화를 챙겼다. 29일 오후 방송된 JTBC 토일드라마 '닥터 차정숙'에서는 차정숙(엄정화 분)이 CPR 중 감전되어 기절하는 장면이 그려졌다. 이날 기절 후 눈을 뜬 차정숙 앞에는 아들 서정민(송지호 분)과 전소라(조아람 분)가 함께 서있었다. 전]]></content>
     </entry>
 </feed>

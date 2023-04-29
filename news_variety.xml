@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/variety</id>
     <title>다음 연예 ─ 뉴스 ─ 예능</title>
-    <updated>2023-04-29T17:09:32.261Z</updated>
+    <updated>2023-04-29T18:12:28.156Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['동치미' 김시덕 "승무원 아내, 재취업 복직 성공" 박수홍 축의금까지 전달]]></title>
+        <id>https://v.daum.net/v/20230430025946188</id>
+        <link href="https://v.daum.net/v/20230430025946188"/>
+        <updated>2023-04-29T18:12:17.237Z</updated>
+        <content type="html"><![CDATA[[OSEN=오세진 기자] '속풀이쇼 동치미' 김시덕이 결혼 15년 차의 소감을 전했다. 29일 방영한 MBN '속풀이쇼 동치미'(이하 '동치미')에서는 코미디언 김시덕, 함익병의 아내 강미형이 등장했다. 강미형은 무척이나 오랜만에 스튜디오에 나타나 모두를 깜짝 놀라게 만들었다. 선우은숙은 “평상시에 함익병에게 인사를 하면 엄청나게 반갑게 맞아주는데, 오]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김시덕 "결혼 15년째 밥 하는 중···박수홍 축의금 주러 나왔다"]]></title>
         <id>https://v.daum.net/v/20230430015948151</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230429235144740"/>
         <updated>2023-04-29T15:10:33.193Z</updated>
         <content type="html"><![CDATA[(엑스포츠뉴스 이이진 기자) '돌싱글즈2' 출신 윤남기의 부모님이 방송 최초로 공개됐다. 29일 방송된 KBS 2TV '살림하는 남자들 시즌2'(이하 '살림남2')에서는 윤남기 아버지와 윤남기 어머니가 등장한 장면이 전파를 탔다. 이날 남다은은 윤남기의 생일을 맞아 파티를 열었다. 더 나아가 남다은은 시부모님에게 식사를 대접하기 위해 정신없이 요리했고, 이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['전참시' 강수지, 러브하우스 공개.."프로방스 뺨치는 플랜테리어"]]></title>
-        <id>https://v.daum.net/v/20230429234559707</id>
-        <link href="https://v.daum.net/v/20230429234559707"/>
-        <updated>2023-04-29T15:10:33.195Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 | 이시호 기자] /사진=MBC '전지적 참견 시점' 방송 화면 캡처'전참시' 방송인 강수지가 김국진과의 러브 하우스를 공개했다. 29일 방송된 MBC 예능 프로그램 '전지적 참견 시점'(이하 전참시)에서는 원조 청순 요정, 강수지의 일상이 공개됐다. 강수지는 이날 햇살이 쏟아지는 거실에 앉아 바느질을 하는 모습으로 등장해 눈길을 모았다.]]></content>
     </entry>
 </feed>
