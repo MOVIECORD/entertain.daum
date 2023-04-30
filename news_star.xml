@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2023-04-30T18:12:24.987Z</updated>
+    <updated>2023-04-30T19:08:44.759Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[신카이 마코토 감독 “신화같은 애니메이션 만들고 싶었다”]]></title>
+        <id>https://v.daum.net/v/20230501040331307</id>
+        <link href="https://v.daum.net/v/20230501040331307"/>
+        <updated>2023-04-30T19:08:39.165Z</updated>
+        <content type="html"><![CDATA[“실제로 일어난 재해를 이야기로 만들고 영화화하기 위해서는 어느 정도 시간이 지나야 했다. 2011년 동일본 대지진이 발행한 지 12년 후에 작품이 나왔는데 그만큼의 세월이 필요했다고 본다. 4~5년밖에 지나지 않았다면 너무 생생해서 만들기 어려웠을 것이다.” 영화 ‘스즈메의 문단속’을 만든 신카이 마코토 감독이 지난 28일 서울 용산구 노보텔 스위트 앰]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[임창정, 주가조작 의혹 투자자 행사 또 갔나 "재정적 어려움에 거절 못해"]]></title>
         <id>https://v.daum.net/v/20230501002544532</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230430224242851"/>
         <updated>2023-04-30T14:09:22.371Z</updated>
         <content type="html"><![CDATA[[OSEN=연휘선 기자] 가수 임창정 측이 주가조작 의혹과 관련해 투자자들의 행사에 추가로 참석했다는 보도에 대해 해명했다.&nbsp; 30일 임창정 측 관계자는 OSEN에 "보도된 영상은 지난해 12월 20일 전라남도 여수의 한 골프장에서 진행된 것"이라며 "라덕연 대표에게 수년간 파트너로 투자한 VIP 고객들을 대상으로 진행된 골프 자선 행사였으며, 임창정은]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[탁재훈 "난 온전하지 못한 아빠…아이들에게 미안해"]]></title>
-        <id>https://v.daum.net/v/20230430224042840</id>
-        <link href="https://v.daum.net/v/20230430224042840"/>
-        <updated>2023-04-30T14:09:22.378Z</updated>
-        <content type="html"><![CDATA[[스포츠조선닷컴 김준석 기자] 탁재훈이 자녀들에게 미안한 감정을 공개했다. 30일 방송된 SBS '미운 우리 새끼'에서는 오랜만에 단둘이 만난 이상민과 탁재훈의 특별한 '종로 데이트'가 공개됐다. 이날 이상민은 지난 상담 당시, '주변 사람들부터 먼저 만나라'는 조언을 듣고 첫 상대로 탁재훈에게 '종로 데이트'를 신청했다. 이상민은 탁재훈을]]></content>
     </entry>
 </feed>
