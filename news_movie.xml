@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-05-01T00:57:15.093Z</updated>
+    <updated>2023-05-01T02:05:20.660Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['스즈메', '겨울왕국' 잇는 국민 애니 등극..역대 흥행 톱3]]></title>
+        <id>https://v.daum.net/v/20230501103044787</id>
+        <link href="https://v.daum.net/v/20230501103044787"/>
+        <updated>2023-05-01T02:04:58.683Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 | 김미화 기자] /사진='스즈메의 문단속' 신카이 마코토 감독의 '스즈메의 문단속'이 한국에서 개봉한 애니메이션 중 역대 흥행 톱3에 올랐다. '스즈메의 문단속'은 우연히 재난을 부르는 문을 열게 된 소녀 '스즈메'가 일본 각지에서 발생하는 재난을 막기 위해 필사적으로 문을 닫아가는 이야기. 1일 영화관입장권 통합전산망에 따르면 '스즈메의]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['슈퍼마리오', 입소문 타고 주말 박스오피스 1위..'드림' 2위]]></title>
+        <id>https://v.daum.net/v/20230501100423173</id>
+        <link href="https://v.daum.net/v/20230501100423173"/>
+        <updated>2023-05-01T02:04:58.686Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 | 김미화 기자] /사진='슈퍼 마리오 브라더스' '슈퍼마리오 브라더스'가 입소문을 타고 주말 박스오피스 1위를 지켰다. 1일 영진위 영화관입장권 통합전산망에 따르면 '슈퍼마리오 브라더스'는 지난 4월 30일 25만 4512명의 관객을 동원했다. 누적관객수 76만 9114명. 입소문을 탄 '슈퍼마리오 브라더스'는 개봉 첫 주말 이틀 연속 박스오]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이선균 "'킬링 로맨스', 제한 없이 연기할 수 있어 좋았다"]]></title>
         <id>https://v.daum.net/v/20230501095439872</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230501000033343"/>
         <updated>2023-04-30T15:10:26.330Z</updated>
         <content type="html"><![CDATA[박서준X아이유 티키타카부터 홈리스 월드컵 실화의 감동까지 '천만 감독' 이병헌, 4년 만의 복귀작으로 韓 영화 구원 투수 될까 [더팩트｜박지윤 기자] 결과적으로 2% 아쉬움이 남는 '슛'이다. 홈리스 월드컵에 특유의 말맛을 녹여냈지만, 소외계층의 이야기를 다루다 보니 웃음도 감동도 일정 이상의 선을 넘지 않는다. 어디에 초점을 두고 작품을 보느냐에 따라]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“주인공 상처 치유하는 과정, 韓 관객 마음 움직인 듯”]]></title>
-        <id>https://v.daum.net/v/20230430220145485</id>
-        <link href="https://v.daum.net/v/20230430220145485"/>
-        <updated>2023-04-30T13:11:31.427Z</updated>
-        <content type="html"><![CDATA[“300만 관객이 넘으면 한국에 다시 오겠다고 약속했는데, 순식간에 400만명을 넘어서고 지금 500만명이라고 들었습니다. 반은 신기한 마음이고 반은 감격하고 있습니다.” 일본 애니메이션 거장 신카이 마코토 감독이 한국을 다시 찾았다. ‘스즈메의 문단속’으로 일본 애니메이션 흥행 신화를 써 내려 가는 신카이 감독은 영화 개봉 당시 내한해 “관객 300만명을]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[너무 비싼 푯값... 그럼에도 내가 영화관에 가는 이유]]></title>
-        <id>https://v.daum.net/v/20230430195400404</id>
-        <link href="https://v.daum.net/v/20230430195400404"/>
-        <updated>2023-04-30T11:08:45.570Z</updated>
-        <content type="html"><![CDATA[한국 영화가 역사상 최고의 위기를 겪고 있습니다. 손익분기점은 커녕, 100만 관객을 모으는 영화도 찾아보기가 어려운 실정입니다. 관객들은 티켓값을 내려야 한다고 지적하지만, 극장가와 영화계의 입장은 각기 다릅니다. 표류하고 있는 한국 영화의 현재를 짚어봅니다.  &lt;편집자말&gt; [원종빈 기자] ▲ &nbsp;영화 '아바타: 물의 길'(아바타2)이 1천만 관객을 돌파한]]></content>
     </entry>
 </feed>
