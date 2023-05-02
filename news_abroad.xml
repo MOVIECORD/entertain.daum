@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-05-02T07:11:02.469Z</updated>
+    <updated>2023-05-02T08:13:51.643Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['인간 샤넬' 제니, 美패션계 최대행사 '메트 갈라' 데뷔]]></title>
+        <id>https://v.daum.net/v/20230502161613190</id>
+        <link href="https://v.daum.net/v/20230502161613190"/>
+        <updated>2023-05-02T08:13:50.971Z</updated>
+        <content type="html"><![CDATA[(서울=연합뉴스) 이지헌 기자 = 패션계에서 가장 유명한 행사 중 하나로 꼽히는 뉴욕 '메트 갈라'에 블랙핑크 제니, 배우 송혜교 등 K-팝, K-드라마 스타들이 등장해 전 세계의 이목을 끌었다. 1일(현지시간) 뉴욕타임스, 로이터 통신 등 외신에 따르면 제니는 이날 뉴욕 맨해튼 메트로폴리탄 미술관에서 열린 '메트 갈라 2023' 행사장에 모습을 드러냈다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[케이티 페리, '아메리칸 아이돌' 잠정 하차...망언 논란 여파]]></title>
         <id>https://v.daum.net/v/20230502151530288</id>
@@ -13,7 +20,7 @@
         <content type="html"><![CDATA[[TV리포트=유비취 기자] 가수 케이티 페리가 진행하던 간판 프로그램에서 잠정적으로 하차한다. 1일(현지 시간) 미국 연예매체 페이지식스에 따르면 케이티 페리(38)가 대표 심사위원으로 활약하고 있는 ABC '아메리칸 아이돌'에서 일시적으로 하차한다. 그는 오는 6일 영국 윈저 성에서 열릴 예정인 찰스 왕 대관식을 위해 스케줄을 정리한 것이다. '아메리칸]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[리한나, 새 신부? 머리까지 뒤덮은 흰 장미..'맷 갈라'서 웨딩드레스룩]]></title>
+        <title type="html"><![CDATA[리한나, 새 신부? 머리까지 뒤덮은 흰 장미..'멧 갈라'서 웨딩드레스룩]]></title>
         <id>https://v.daum.net/v/20230502145322202</id>
         <link href="https://v.daum.net/v/20230502145322202"/>
         <updated>2023-05-02T06:14:37.697Z</updated>
@@ -81,12 +88,5 @@
         <link href="https://v.daum.net/v/20230502071444653"/>
         <updated>2023-05-01T23:12:30.384Z</updated>
         <content type="html"><![CDATA[[OSEN=최나영 기자] 많은 스타들이 '이혼'을&nbsp;하고 입장문을 내지만 특히 그&nbsp;입장문이 세간의 화제를 모은 경우가 있다. 입장문 하나에서도 전 부부였던 두 사람의 가치관과 두 사람이 어떻게 결혼 생활을 했는지가 그러난다. 유명했던 할리우드 두 여성 스타를 살펴봤다. 배우 기네스 팰트로가 그 첫 번째 주인공.&nbsp; 팰트로는&nbsp;2014년 3월 자신의 웹사이트에]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[쟈니스 性학대, 이번엔 그냥 안 넘어간다...불매 조짐까지]]></title>
-        <id>https://v.daum.net/v/20230501164530141</id>
-        <link href="https://v.daum.net/v/20230501164530141"/>
-        <updated>2023-05-01T08:14:01.251Z</updated>
-        <content type="html"><![CDATA[쟈니스 性학대, 이번엔 못 넘어간다...불매 운동 조짐까지 [TV리포트=박설이 기자]고(故) 쟈니 기타가와 쟈니스 사무소 창립자의 성범죄 파문이 이번에는 쉽게 사그라들지 않을 전망이다. 1일 일본 도요게이자이는 쟈니스 소속 연예인이 광고 등에 출연하는 일본의 스폰서 기업, 공적기관 등 116개사와 6개 방송사에 실시한 앙케트에서 각 기업이 답한 응답을 보도]]></content>
     </entry>
 </feed>
