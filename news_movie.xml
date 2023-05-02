@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-05-02T13:14:35.657Z</updated>
+    <updated>2023-05-02T14:11:02.155Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘가오갤3’ 우주 별종들의 뜨거운 안녕]]></title>
+        <id>https://v.daum.net/v/20230502225100055</id>
+        <link href="https://v.daum.net/v/20230502225100055"/>
+        <updated>2023-05-02T14:10:41.363Z</updated>
+        <content type="html"><![CDATA[이 사랑스러운 오합지졸, 우주의 별종들을 떠나보내야 할 때가 왔다. ‘가디언즈 오브 갤럭시’의 10년 여정이 피날레를 맞이한 것. 영화 ‘가디언즈 오브 갤럭시: 볼륨 3’(감독 제임스 건)는 가모라(조 샐더나)를 잃고 슬픔에 빠져 있던 피터 퀼(크리스 프랫)이 위기에 처한 은하계와 동료를 지키기 위해 다시 한번 가디언즈 팀과 힘을 모으고, 성공하지 못할 경]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['가오갤3', 팀 가디언즈 다운 피날레]]></title>
         <id>https://v.daum.net/v/20230502213002969</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230502170318547"/>
         <updated>2023-05-02T08:13:30.880Z</updated>
         <content type="html"><![CDATA[(서울=뉴스1) 정유진 기자 = 이창재 감독이 자신의 신작 '문재인입니다'를 "휴먼 다큐"라고 강조했다. 이창재 감독은 2일 오후 서울 성동구 왕십리로 메가박스 성수에서 진행된 다큐멘터리 영화 '문재인입니다'(감독 이창재)의 언론배급시사회 및 기자간담회에서 "오십 분이 넘는 분을 인터뷰 했다, 실질적으로 인터뷰 내용을 보니 A4로 1500페이지가 나왔다]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“문 전 대통령, 개봉 후 ‘내돈내산’ 하겠다고” 편집본도 안 봤다]]></title>
-        <id>https://v.daum.net/v/20230502163847362</id>
-        <link href="https://v.daum.net/v/20230502163847362"/>
-        <updated>2023-05-02T08:13:30.880Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 배효주 기자] 다큐멘터리 '문재인입니다'를 연출한 이창재 감독이 "편집의 자율권이 보장된 작품"이라고 자부했다. 또한, 문재인 전 대통령을 섭외하기까지 겪은 여러 어려움을 전하기도 했다. 이창재 감독은 5월 2일 서울 성동구 메가박스 성수에서 열린 영화 '문재인입니다' 언론 시사회 후 간담회를 통해 "'문재인입니다'는 저의 30년 다큐멘터리 인생]]></content>
     </entry>
 </feed>
