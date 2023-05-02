@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-05-02T10:11:46.852Z</updated>
+    <updated>2023-05-02T11:09:47.978Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[中서 마동석 프사 바꾸기 열풍 "불친절 서비스 해결"]]></title>
+        <id>https://v.daum.net/v/20230502192144402</id>
+        <link href="https://v.daum.net/v/20230502192144402"/>
+        <updated>2023-05-02T11:09:47.191Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 명희숙 기자) 중국에서 SNS 프로필 사진을 배우 마동석으로 바꾸는 누리꾼들이 늘어나고 있다.&nbsp; 최근 중국 SNS인 웨이보와 위챗, 샤오홍슈를 중심으로 마동석 사진을 프로필로 등록하는 사람들이 늘어나며 새로운 유행이 되고 있다.&nbsp; 중국 커뮤니티 사이트에는 "여자 사진을 프로필로 해놨을 땐 고객 서비스 센터에서 무시를 당했는데 마동석으로 사진을]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“♥티모시 샬라메가 반할만하네” 카일리 제너, 멧갈라를 찢어놓은 새빨간 컷아웃 드레스]]></title>
         <id>https://v.daum.net/v/20230502190719090</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230502094043427"/>
         <updated>2023-05-02T00:55:27.745Z</updated>
         <content type="html"><![CDATA[[OSEN=최나영 기자] 전 부부인 배우 톰 크루즈와 니콜 키드먼의 아들 코너 크루즈가 희귀한 근황 사진을 공개해 화제다. 이혼한 톱스타들&nbsp;톰 크루즈와 니콜 키드먼의 아들인 28세의 코너 크루즈는 지난 달 30일(현지시간) 미국 플로리다 벨라이어의 펠리컨 골프 클럽에서 즐거운 하루를 기념하면서 자신의 인스타그램에 사진을 공유했다. 이 같은 근황 공개는]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[에드 시런 “임신한 아내 암 걸려, 치료방법 없어 끔찍했다” 눈물 쏟아]]></title>
-        <id>https://v.daum.net/v/20230502084044068</id>
-        <link href="https://v.daum.net/v/20230502084044068"/>
-        <updated>2023-05-02T00:55:27.745Z</updated>
-        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]세계적 가수 에드 시런(32)이 2022년 2월 임신한 아내 체리 시번(30)이 암 진단을 받았을 때의 경험을 털어놓았다. 그는 오는 3일 공개 예정인 디즈니+ 다큐 시리즈 ‘에드 시런: 더 섬 오브 잇 올’에서 아내와 함께 암 진단을 받은 후 느꼈던 심경을 전했다. 시번은 “암 진단을 받았는데, 정말 큰 시련이었다. 암]]></content>
     </entry>
 </feed>
