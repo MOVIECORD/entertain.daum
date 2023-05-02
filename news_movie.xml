@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-05-02T12:20:28.830Z</updated>
+    <updated>2023-05-02T13:14:35.657Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['가오갤3', 팀 가디언즈 다운 피날레]]></title>
+        <id>https://v.daum.net/v/20230502213002969</id>
+        <link href="https://v.daum.net/v/20230502213002969"/>
+        <updated>2023-05-02T13:14:10.517Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 윤현지 기자) '가디언즈 오브 갤럭시3'가 팀 가디언즈 다운 피날레를 장식했다. '가디언즈 오브 갤럭시:Volume 3'(이하 '가오갤3')는 가모라(조 샐다나 분)를 잃고 슬픔에 빠져 있던 피터 퀼(크리스 프랫)이 위기에 처한 은하계와 동료를 지키기 위해 다시 한번 가디언즈 팀과 힘을 모으고, 성공하지 못할 경우 그들의 마지막이 될지도 모르]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[아이유, 스크린서는 힘 못 쓰네…김시은에 뺏기고 '마리오'에 밀리고]]></title>
         <id>https://v.daum.net/v/20230502210101419</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230502163847362"/>
         <updated>2023-05-02T08:13:30.880Z</updated>
         <content type="html"><![CDATA[[뉴스엔 배효주 기자] 다큐멘터리 '문재인입니다'를 연출한 이창재 감독이 "편집의 자율권이 보장된 작품"이라고 자부했다. 또한, 문재인 전 대통령을 섭외하기까지 겪은 여러 어려움을 전하기도 했다. 이창재 감독은 5월 2일 서울 성동구 메가박스 성수에서 열린 영화 '문재인입니다' 언론 시사회 후 간담회를 통해 "'문재인입니다'는 저의 30년 다큐멘터리 인생]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['문재인입니다' 이창재 감독 "논란 된 영상 편집? 완성본엔 없던 내용"]]></title>
-        <id>https://v.daum.net/v/20230502162631701</id>
-        <link href="https://v.daum.net/v/20230502162631701"/>
-        <updated>2023-05-02T08:13:30.894Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 이창규 기자) '문재인입니다' 이창재 감독이 논란을 불러왔던 선공개 영상에 대해 해명했다. 2일 오후 서울 성동구 메가박스 성수에서 영화 '문재인입니다'(감독 이창재) 언론배급시사회가 열렸다. 현장에는 이창재 감독과 김성우 프로듀서가 참석했다. '문재인입니다'는&nbsp;모두가 알지만 누구도 한 단어로 정의하지 못한 사람, 어디서도]]></content>
     </entry>
 </feed>
