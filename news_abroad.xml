@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-05-02T02:02:21.114Z</updated>
+    <updated>2023-05-02T03:11:42.330Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['백투더퓨처' 마이클J폭스, 파킨슨병 사투 "매혹적인 삶"]]></title>
+        <id>https://v.daum.net/v/20230502115716065</id>
+        <link href="https://v.daum.net/v/20230502115716065"/>
+        <updated>2023-05-02T03:11:41.706Z</updated>
+        <content type="html"><![CDATA[(서울=연합뉴스) 김동호 기자 = "감사해할 것을 발견할 수 있다면, 무언가 기대할 것을 찾아낸다면 앞으로 나아갈 수 있습니다." 할리우드 배우 마이클 J. 폭스(61)는 지난달 30일 미국 CBS 방송 인터뷰에서 30여년에 걸친 자신의 파킨슨병 투병 경험과 관련해 "나는 낙관주의가 지속 가능하다는 것을 깨달았다"며 이같이 밝혔다. 폭스는 1985∼1990]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[오스카상 후보작 홍보 규정 손질…"투표 독려·물품 제공 안돼"]]></title>
+        <id>https://v.daum.net/v/20230502112643793</id>
+        <link href="https://v.daum.net/v/20230502112643793"/>
+        <updated>2023-05-02T03:11:41.710Z</updated>
+        <content type="html"><![CDATA[(로스앤젤레스=연합뉴스) 임미나 특파원 = 오스카상을 주관하는 미국 영화예술과학아카데미(AMPAS)가 1일(현지시간) 내년 시상식부터 적용할 홍보 규정을 확정해 발표했다. AMPAS는 "아카데미 수상 자격이 있는 영화와 관련해 영화사와 개인 회원들이 영화와 성과 등을 어떻게 홍보할 수 있는지 명시한 규정"이라며 "1994년에 (규정이) 개시된 이래 가장 대]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[日 배우 나카죠 아야미, 11세 연상 IT기업 대표와 결혼…"활동 이어갈 것"]]></title>
         <id>https://v.daum.net/v/20230502094145466</id>
@@ -60,12 +74,5 @@
         <link href="https://v.daum.net/v/20230501123514918"/>
         <updated>2023-05-01T04:14:02.220Z</updated>
         <content type="html"><![CDATA[[OSEN=박소영 기자] 아놀드 슈왈제네거가 사위인 크리스 프랫을 자랑스러워했다. 아놀드 슈왈제네거는 30일(현지시각) 트위터를 통해 “어젯밤 ‘가디언즈 오브 갤럭시: Volume 3’를 봤다. 와우. 크리스 프랫이 대단했다. 논스톱, 코미디와 액션의 완벽한 조화. 난 빠져들었다. 그가 너무 자랑스럽다”는 글을 남겼다. 크리스 프랫은 2007년 코미디]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["탕웨이도 당했어"...유인나 드라마, 中서 화제인 이유]]></title>
-        <id>https://v.daum.net/v/20230501112530437</id>
-        <link href="https://v.daum.net/v/20230501112530437"/>
-        <updated>2023-05-01T03:12:12.774Z</updated>
-        <content type="html"><![CDATA[[TV리포트=박설이 기자]'보라! 데보라'에 배우 탕웨이의 이름이 나와 중국인들의 이목을 집중시켰다. 지난달 30일 중국 온라인에서는 한국 드라마에 탕웨이의 사기 피해가 언급됐다는 내용의 글과 사진이 확산됐다. 해당 작품은 스튜디오지니 드라마인 유인나 주연의 '보라! 데보라'의 6회 방송. 이날 방송에는 연보라 역의 유인나가 보이스 피싱으로 사기 피해를 당]]></content>
     </entry>
 </feed>
