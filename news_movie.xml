@@ -2,15 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-05-03T02:01:29.252Z</updated>
+    <updated>2023-05-03T02:35:28.488Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA['펜트하우스 민설아' 조수민, 박해일과 한솥밥]]></title>
+        <title type="html"><![CDATA['트랜스포머: 비스트의 서막', 뉴욕→페루 달린다...더 커진 스케일 예고]]></title>
+        <id>https://v.daum.net/v/20230503112215370</id>
+        <link href="https://v.daum.net/v/20230503112215370"/>
+        <updated>2023-05-03T02:35:05.183Z</updated>
+        <content type="html"><![CDATA[[TV리포트=이수연 기자] '트랜스포머'가 극장가로 돌아온다. 3일 '트랜스포머: 비스트의 서막'이 전 세계가 기다려온 로봇 군단의 화려한 귀한을 예고한 가운데 업그레이드된 관람 포인트 BEST 3를 공개했다. '트랜스포머: 비스트의 서막'은 강력한 빌런의 등장에 맞서 오토봇과 맥시멀이 힘을 합쳐 펼치는 거대한 전투를 그린 영화다. #1. 신선한 영화적]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[박해일 소속사 메이크스타, 조수민 합류 '공고한 배우 라인업 완성']]></title>
         <id>https://v.daum.net/v/20230503105802001</id>
         <link href="https://v.daum.net/v/20230503105802001"/>
         <updated>2023-05-03T02:01:06.759Z</updated>
-        <content type="html"><![CDATA[[텐아시아=최지예 기자] 배우 조수민이 메이크스타와 새출발한다. 조수민은 최근 메이크스타와 전속 계약을 맺으며 멀티테이너로서 새로운 챕터의 시작을 알렸다. 조수민의 합류 소식과 함께 박해일, 송새벽 등 메이크스타 배우 라인업의 마지막 퍼즐이 맞춰지게 됐다. 조수민은 지난 2006년 드라마 '서울 1945'를 통해 7세 아역 배우로 데뷔했다. 뒤이어 '투]]></content>
+        <content type="html"><![CDATA[[텐아시아=최지예 기자] 배우 박해일 소속사 메이크스타가 배우 조수민의 합류로 더욱 공고한 배우 라인업을 완성했다. 조수민은 최근 메이크스타와 전속 계약을 맺으며 멀티테이너로서 새로운 챕터의 시작을 알렸다. 조수민의 합류 소식과 함께 박해일, 송새벽 등 메이크스타 배우 라인업의 마지막 퍼즐이 맞춰지게 됐다. 조수민은 지난 2006년 드라마 '서울 194]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[“괴물 형사X괴물 빌런” 마동석→이준혁 ‘범죄도시3’ 포스터]]></title>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230503091359341"/>
         <updated>2023-05-03T00:54:42.552Z</updated>
         <content type="html"><![CDATA[(로스앤젤레스=연합뉴스) 임미나 특파원 = 할리우드 영화와 방송 프로그램 작가들로 구성된 미국작가조합(WGA)이 2일(현지시간) 파업에 들어가면서 인기 TV 토크쇼 등이 잇달아 결방한다고 AP통신과 CNN 등이 전했다. NBC 채널의 '더 투나잇 쇼', ABC의 '지미 키멀 라이브', CBS의 '더 레이트 쇼' 등 심야 토크쇼 프로그램들이 이번 주 신규 방]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘가오갤3’, 유머+액션+감동이 모두 폭발하는 시리즈 최고의 유쾌한 피날레]]></title>
-        <id>https://v.daum.net/v/20230503090547031</id>
-        <link href="https://v.daum.net/v/20230503090547031"/>
-        <updated>2023-05-03T00:54:42.573Z</updated>
-        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]‘어벤져스: 엔드게임’ 이후 ‘가오갤’ 팀은 행성 노웨어에 본부를 차리고 평화롭게 지난다. 한 가지 골칫거리는 가모라(조 샐다나)를 잊지 못해 매일 술에 빠져 사는 피터 퀼(크리스 프랫)이다. 어느날 유전자 조작을 일삼는 빌런인 하이 에볼루셔너리(추쿠디 이우지)의 명령을 받은 아담 워록(윌 포터)이 뇌에 비밀을 품고 있는 로켓]]></content>
     </entry>
 </feed>

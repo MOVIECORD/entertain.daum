@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-05-03T02:01:29.260Z</updated>
+    <updated>2023-05-03T02:35:28.485Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[엠마 왓슨, 5년 공백기 이유 "행복하지 않았어"]]></title>
+        <id>https://v.daum.net/v/20230503113144809</id>
+        <link href="https://v.daum.net/v/20230503113144809"/>
+        <updated>2023-05-03T02:35:27.634Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 이창규 기자) 영국 출신 배우 엠마 왓슨이 5년 간 연기 활동을 쉰 이유를 밝혔다. 엠마 왓슨은&nbsp;최근 파이낸셜 타임즈와의 인터뷰에서 5년 간 공백기가 있던 이유에 대해 "별로 행복하지 않았다"고 밝혔다. 그는 "나는 마치 감옥에 갇힌 기분이 들었다. 정말 힘들었던 것은 (연기를 하는 것이 마치) 내가 그다지 통제하지 못하는 것을 팔아야 한다는]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[68살 케빈 코스트너, 결혼 18년만에 이혼소송 당해 “자녀만 모두 7명”]]></title>
         <id>https://v.daum.net/v/20230503103220661</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230502200944523"/>
         <updated>2023-05-02T12:20:28.244Z</updated>
         <content type="html"><![CDATA[[OSEN=최나영 기자] 베우 앤 해서웨이가 '멧&nbsp;갈라'에서 베르사체의 옷핀(안전핀, safety pin)&nbsp;드레스를 입어 보는 이들을 아찔하게 만들었다. 앤 해서웨이는 1일(현지시간)&nbsp;미국 뉴욕&nbsp;메트로폴리탄 미술관에서 열린 2023년 메트로폴리탄 갈라 행사 '칼 라거펠트: 아름다움의 선'에 참석했다 40세의 해서웨이는 금색 옷핀이 포인트인 드레스를 입고]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[中서 마동석 프사 바꾸기 열풍 "불친절 서비스 해결"]]></title>
-        <id>https://v.daum.net/v/20230502192144402</id>
-        <link href="https://v.daum.net/v/20230502192144402"/>
-        <updated>2023-05-02T11:09:47.191Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 명희숙 기자) 중국에서 SNS 프로필 사진을 배우 마동석으로 바꾸는 누리꾼들이 늘어나고 있다.&nbsp; 최근 중국 SNS인 웨이보와 위챗, 샤오홍슈를 중심으로 마동석 사진을 프로필로 등록하는 사람들이 늘어나며 새로운 유행이 되고 있다.&nbsp; 중국 커뮤니티 사이트에는 "여자 사진을 프로필로 해놨을 땐 고객 서비스 센터에서 무시를 당했는데 마동석으로 사진을]]></content>
     </entry>
 </feed>
