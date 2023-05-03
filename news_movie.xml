@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-05-03T21:10:46.444Z</updated>
+    <updated>2023-05-03T22:11:17.507Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘킬링 로맨스’ 이원석 감독이 매일 작가의 집 앞으로 찾아간 이유]]></title>
+        <id>https://v.daum.net/v/20230504061116792</id>
+        <link href="https://v.daum.net/v/20230504061116792"/>
+        <updated>2023-05-03T22:10:56.062Z</updated>
+        <content type="html"><![CDATA[영화 ‘남자사용설명서’를 본 사람들은 놀라겠지만 ‘킬링 로맨스’의 각본은 이원석 감독이 쓰지 않았다. 하지만 노골적인 웃음 포인트들과 현실을 과장해 웃음을 일으키는 방식은 딱 이원석 감독의 전작 ‘남자사용설명서’를 떠올리게 한다. 이원석 감독은 최근 서울 종로구 한 카페에서 가진 인터뷰에서 “사실 내가 처음 시나리오를 받았을 때와 영화로 만들어진 결과물이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[식지 않는 불꽃, 아이유의 ‘드림’]]></title>
         <id>https://v.daum.net/v/20230504060202630</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230503173130485"/>
         <updated>2023-05-03T09:10:24.722Z</updated>
         <content type="html"><![CDATA[[뉴스엔 배효주 기자] 디즈니 실사 뮤지컬 영화 '인어공주'의 스틸이 공개돼 눈길을 끈다. 5월 개봉하는 영화 '인어공주'(감독 롭 마샬)는 늘 바다 너머의 세상을 꿈꾸던 모험심 가득한 인어공주 ‘에리얼’이 조난당한 ‘에릭 왕자’를 구해주며 자신의 마음의 소리를 따라 금지된 인간 세상으로 나아가는 모험을 그린 디즈니 실사 뮤지컬. 5월 3일 공개된 보도스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[안효섭, '전지적 독자 시점'으로 스크린 데뷔? "제안 받고 검토 중"]]></title>
-        <id>https://v.daum.net/v/20230503171802061</id>
-        <link href="https://v.daum.net/v/20230503171802061"/>
-        <updated>2023-05-03T09:10:24.723Z</updated>
-        <content type="html"><![CDATA[[텐아시아=강민경 기자] 배우 안효섭이 동명 웹소설을 원작으로 한 영화 '전지적 독자 시점' 주인공인 김독자 역으로 스크린에 데뷔할까. 3일 소속사 더프레젠트컴퍼니 관계자는 텐아시아에 "안효섭이 영화 '전지적 독자 시점' 김독자 역을 제안받고 검토 중"이라고 밝혔다. 원작 소설인 '전지적 독자 시점'은 평범한 회사원인 김독자가 자신이 10년 넘게 읽던]]></content>
     </entry>
 </feed>
