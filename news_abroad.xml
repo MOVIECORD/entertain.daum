@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-05-04T12:20:13.931Z</updated>
+    <updated>2023-05-04T13:14:05.077Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['제임스 코든쇼' 경영진 "매년 265억 적자…감당하기 어려웠다"]]></title>
+        <id>https://v.daum.net/v/20230504220216719</id>
+        <link href="https://v.daum.net/v/20230504220216719"/>
+        <updated>2023-05-04T13:14:04.493Z</updated>
+        <content type="html"><![CDATA[[TV리포트=유비취 기자] 미국 인기 프로그램 '제임스 코든 쇼'에서 폭로가 터져 나왔다. 4일(현지 시간) 영국 매체 데일리메일에 따르면 CBS '레이트 레이트 쇼 위드 제임스 코든(이하 '제임스 코든 쇼')'의 경영진이 매년 2천만 달러(한화 약 265억 원)의 손실을 보고 있었다고 밝혔다. 해당 프로그램의 진행자인 제임스 코든이 하차하면서 폭로가 나온]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['플래시' 제작진 "에즈라 밀러 '성추행⋅절도' 논란? 개봉하면 다 잊어" 자신감]]></title>
         <id>https://v.daum.net/v/20230504205043758</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230504145400522"/>
         <updated>2023-05-04T06:14:24.043Z</updated>
         <content type="html"><![CDATA[[TV리포트=이수연 기자] 팝스타 테일러 스위프트가 새 사랑을 찾았다. 3일(현지 시간) 매체 더선은 "테일러 스위프트가 또 다른 영국인 매튜(매티) 힐리와 데이트 중이다"라고 보도했다. 매튜 힐리는 영국의 록밴드 The 1975의 프론트맨이다. 이는 테일러 스위프트가 6년간 만나온 배우 조 알윈과 결별했다는 사실이 알려진 지 단 한 달 만이다. 한 측근]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[기네스 팰트로 “전남친 브래드 피트 vs 벤 애플렉, 누가 더 키스 잘하냐고?”]]></title>
-        <id>https://v.daum.net/v/20230504143345718</id>
-        <link href="https://v.daum.net/v/20230504143345718"/>
-        <updated>2023-05-04T06:14:24.044Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 배효주 기자] 할리우드 배우 기네스 팰트로가 전 연인이었던 브래드 피트와 벤 애플렉의 스킨십 기술(?)을 비교해 현지에서 화제를 모으고 있다. 기네스 팰트로는 최근 팟캐스트 '콜 헐 대디'(Call Her Daddy)에 출연했다. 이 방송에서 기네스 팰트로는 1995년 영화 '세븐' 촬영장에서 브래드 피트를 만났던 것을 회상하며 "첫 눈에 반했다]]></content>
     </entry>
 </feed>
