@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-05-04T11:10:51.188Z</updated>
+    <updated>2023-05-04T12:20:13.931Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['플래시' 제작진 "에즈라 밀러 '성추행⋅절도' 논란? 개봉하면 다 잊어" 자신감]]></title>
+        <id>https://v.daum.net/v/20230504205043758</id>
+        <link href="https://v.daum.net/v/20230504205043758"/>
+        <updated>2023-05-04T12:20:13.114Z</updated>
+        <content type="html"><![CDATA[[OSEN=유수연 기자] 배우 에즈라 밀러가 주연을 맡은 영화 '플래시' 제작진 측이 배우를 둘러싼 논란에 대한 입장을 밝혔다. 최근 CBC는 영화 '플래시'의&nbsp;프로덕션 디자이너인 폴 오스터베리와의 인터뷰를 공개했다. 그는 주연 배우 에즈라 밀러를 둘러싼 논란에 대해 걱정하지 않느냐는 질문에&nbsp;"(개봉하면) 사람들은 그 사실을 잊을 것"이라고 대꾸했다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[자밀라 자밀, '멧 갈라' 비판…"범죄자 옹호 행사"]]></title>
         <id>https://v.daum.net/v/20230504200215977</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230504143345718"/>
         <updated>2023-05-04T06:14:24.044Z</updated>
         <content type="html"><![CDATA[[뉴스엔 배효주 기자] 할리우드 배우 기네스 팰트로가 전 연인이었던 브래드 피트와 벤 애플렉의 스킨십 기술(?)을 비교해 현지에서 화제를 모으고 있다. 기네스 팰트로는 최근 팟캐스트 '콜 헐 대디'(Call Her Daddy)에 출연했다. 이 방송에서 기네스 팰트로는 1995년 영화 '세븐' 촬영장에서 브래드 피트를 만났던 것을 회상하며 "첫 눈에 반했다]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[日 개그맨 망원시장 위생테러‥‘라빗’, 사과 대신 ‘조용히 편집’]]></title>
-        <id>https://v.daum.net/v/20230504142519360</id>
-        <link href="https://v.daum.net/v/20230504142519360"/>
-        <updated>2023-05-04T06:14:24.046Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 장다희 기자] 한국 망원시장을 방문한 일본 유명 개그맨 야마조에 히로시가 TBS 아침정보 프로그램 '라빗!' 촬영 중 비위생적인 행동으로 비난을 받고 있는 가운데, 해당 프로그램 측이 아무런 입장 없이 문제 된 부분을 조용히 편집했다. 여론이 악화되자 부랴부랴 뒷수습을 하는 모양새다. 최근 야마조에 히로시 등이 한국 망원시장을 방문해 닭강정을]]></content>
     </entry>
 </feed>
