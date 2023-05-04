@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-05-04T02:34:18.543Z</updated>
+    <updated>2023-05-04T03:11:40.326Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[기네스 팰트로 "디카프리오와는 안 사귀었다, 19살때부터 바람둥이"]]></title>
+        <id>https://v.daum.net/v/20230504114042421</id>
+        <link href="https://v.daum.net/v/20230504114042421"/>
+        <updated>2023-05-04T03:11:39.673Z</updated>
+        <content type="html"><![CDATA[[OSEN=최나영 기자] 배우 기네스 팰트로(50)는 여러 남자 스타들과&nbsp;핑크빛 관계를 맺었지만 배우 레오나르도 디카프리오와는 사귀지 않았음을 분명히했다.&nbsp; 기네스 팰트로는 레오나르도 디카프리오의 바람둥이 '명성' 때문에 그와의 데이트를 거절했다고 말했다. 최근 팰트로는 팟캐스트 '콜 허 대디'에 출연했다.&nbsp;진행자 알렉산드라 쿠퍼는 팰트로에게 교제했던]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['멧 갈라'에 고양이 세 마리 등장한 이유는?]]></title>
         <id>https://v.daum.net/v/20230504090216788</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230503185530840"/>
         <updated>2023-05-03T10:11:19.881Z</updated>
         <content type="html"><![CDATA[[TV리포트=유비취 기자] 디즈니가 '아이언맨' 15주년을 기념하며 특별한 영상을 공개했다. 2일 디즈니+는 소셜네트워크서비스를 통해 '아이언맨' 15주년을 기념해 새로 편집한 특별 영상을 공개했다. 공개된 영상 속 '아이언맨' 시리즈 3부작의 로버트 다우니 주니어는 명불허전이었다. 디즈니+가 새로 편집한 '아이언맨' 3부작 특별 영상에서는 로버트 다우니]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美 경찰, 키아누 리브스 집 찾아갔다...실종 사건 연루?]]></title>
-        <id>https://v.daum.net/v/20230503184215576</id>
-        <link href="https://v.daum.net/v/20230503184215576"/>
-        <updated>2023-05-03T10:11:19.887Z</updated>
-        <content type="html"><![CDATA[[TV리포트=이수연 기자] 할리우드 배우 키아누 리브스가 최근 황당한 일을 겪었다. 2일(현지 시간) 미국 매체 TMZ는 경찰이 키아누 리브스 자택의 현관문을 두드렸다고 보도했다. 경찰은 27세 여성의 행방을 묻는 신고로 현장에 출동한 것이라고 설명했다. 신고자는 여성이 한동안 연락이 안 돼 걱정된다고 경찰에 신고한 것으로 알려졌다. 경찰에 의하면 신고]]></content>
     </entry>
 </feed>
