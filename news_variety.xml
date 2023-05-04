@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/variety</id>
     <title>다음 연예 ─ 뉴스 ─ 예능</title>
-    <updated>2023-05-04T07:11:00.081Z</updated>
+    <updated>2023-05-04T08:14:34.145Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['소년판타지'가 또?..‘REALLY REALLY’ 팀, '6일 '음중' 출격]]></title>
+        <id>https://v.daum.net/v/20230504165642146</id>
+        <link href="https://v.daum.net/v/20230504165642146"/>
+        <updated>2023-05-04T08:14:21.948Z</updated>
+        <content type="html"><![CDATA[[OSEN=박소영 기자] ‘소년판타지’ 유준원을 필두로 구성된 ‘Monster’ 팀과 홍성민을 필두로 구성된 ‘REALLY REALLY’ 팀이 ‘쇼! 음악중심’ 무대에 오른다. MBC ‘소년판타지 - 방과후 설렘 시즌2’(이하 ‘소년판타지’)의 ‘Monster’(몬스터) 팀과 ‘REALLY REALLY’(릴리릴리) 팀이 오는 6일 오후 3시 15분 방송]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[서정희, 오은영 만난다…故 서세원 사망 전 ‘금쪽상담소’ 녹화]]></title>
+        <id>https://v.daum.net/v/20230504165606134</id>
+        <link href="https://v.daum.net/v/20230504165606134"/>
+        <updated>2023-05-04T08:14:21.948Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 김명미 기자] 방송인 서정희가 채널A '오은영의 금쪽상담소'(이하 금쪽상담소)에 출연한다. 채널A 측 관계자는 5월 4일 뉴스엔에 "서정희 씨가 '금쪽상담소'에 출연하는 것이 맞다"며 "앞서 모친과 녹화를 진행했다"고 밝혔다. 서정희는 지난 4월 20일 캄보디아 프놈펜 소재 한인병원에서 링거 주사를 맞다 심정지로 사망한 고(故) 서세원의 전(前)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[어린이날 특집 ‘컬투쇼’ 상금 100만원 건 장기자랑, 리틀 슈가→싸이 등장]]></title>
         <id>https://v.daum.net/v/20230504160147337</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230504134401014"/>
         <updated>2023-05-04T05:10:31.457Z</updated>
         <content type="html"><![CDATA[[텐아시아=태유나 기자]홍콩댁 강수정이 홈파티를 연다. 오는 5일 방송되는 KBS2 예능 ‘신상출시 편스토랑’(이하 ‘편스토랑’)에서는 지난 방송에 이어 새로운 편셰프 강수정의 홍콩 미식 라이프가 공개된다. 강수정은 2시간 동안 무려 10인분의 요리를 완성하며 남다른 요리 실력을 입증한다. 또 강수정이 전한 한식의 맛이 글로벌한 입맛을 사로잡을 수 있을지]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[주우재·조세호, 베스트커플 결별 위기]]></title>
-        <id>https://v.daum.net/v/20230504133643789</id>
-        <link href="https://v.daum.net/v/20230504133643789"/>
-        <updated>2023-05-04T05:10:31.462Z</updated>
-        <content type="html"><![CDATA[[OSEN=장우영 기자] ‘홍김동전’에서 주우재가 조세호에게 서운했던 사연을 폭로해 관심이 집중된다. OTT 플랫폼 웨이브 기준 KBS 비드라마 부문 5주째 1위를 기록하며 입소문 파워를 발휘하는 KBS2 예능 ‘홍김동전’(연출 박인석)은 홍진경, 김숙, 조세호, 주우재, 우영이 출연해 동전으로 운명을 체인지하는 피땀눈물의 구개념 버라이어티. ‘홍김동전]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘홍콩댁’ 강수정, 홈파티 여왕 입증…10인분 요리 뚝딱]]></title>
-        <id>https://v.daum.net/v/20230504133550760</id>
-        <link href="https://v.daum.net/v/20230504133550760"/>
-        <updated>2023-05-04T05:10:31.463Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 김명미 기자] ‘신상출시 편스토랑’ 홍콩댁 강수정이 홈파티를 연다. 5월 5일 방송되는 KBS 2TV ‘신상출시 편스토랑’(이하 ‘편스토랑’)에서는 지난 방송에 이어 NEW 편셰프 강수정의 홍콩 미식 라이프가 공개된다. 강수정은 2시간 동안 무려 10인분의 요리를 완성하며 남다른 요리 실력을 입증한다. 뿐만 아니라 강수정이 전한 한식의 맛이 글로]]></content>
     </entry>
 </feed>
