@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-05-04T22:10:38.038Z</updated>
+    <updated>2023-05-04T23:12:27.929Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['가디언즈 오브 갤럭시3' 이틀째 흥행 1위…누적 36만 돌파]]></title>
+        <id>https://v.daum.net/v/20230505073843059</id>
+        <link href="https://v.daum.net/v/20230505073843059"/>
+        <updated>2023-05-04T23:12:03.591Z</updated>
+        <content type="html"><![CDATA[[스포츠한국 조은애 기자] '가디언즈 오브 갤럭시: Volume3'(이하 '가오갤3')가 이틀 연속 극장가 정상에 등극했다. 5일 영진위 통합전산망 집계에 따르면 '가오갤3'는 전날&nbsp;20만881명의 관객을 모아 박스오피스 1위를 차지했다. 누적 관객 수는&nbsp;36만5462명이다. 이로써 '가오갤3'는 3일 개봉 후 압도적인 기세로 이틀째 흥행 선두에]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["악역 위해 19kg 증량"…이준혁, 벌크업NO 살크업 "햄버거·피자·치킨 좀 먹었다"]]></title>
+        <id>https://v.daum.net/v/20230505072614973</id>
+        <link href="https://v.daum.net/v/20230505072614973"/>
+        <updated>2023-05-04T23:12:03.596Z</updated>
+        <content type="html"><![CDATA[[스포츠조선 고재완 기자] '벌크업이 아니라 살크업을 했다.' 배우 이준혁이 4일 얼루어 코리아 공식 유튜브 채널에 등장했다. 영화 '범죄도시3'에서 빌런 주성철 역을 맡은 이준혁은 "몸이 많이 아프더라. 지금까지 극단적인 악역이라고 말할 수 있는 것은 '범죄도시3'가 처음인 것 같다"며 "주성철은 제가 맡았던 캐릭터 중에 엄청나게 자신감이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['토리와 로키타', 보이지 않는 곳에서도 꽃은 피어난다]]></title>
         <id>https://v.daum.net/v/20230505070124703</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230504185144369"/>
         <updated>2023-05-04T10:11:15.525Z</updated>
         <content type="html"><![CDATA[(엑스포츠뉴스 김유진 기자) 유지애가 '바람개비'로 스크린에 데뷔한 소감을 전했다. 4일 오후 서울 용산구 CGV용산아이파크몰에서 영화 '바람개비'(감독 이상훈) 언론시사회가 열렸다. 이 자리에는 이상훈 감독과 배우 차선우, 유지애, 김소희, 이원석이 참석했다. '바람개비'에서 유지애는 자신을 구해준 정훈에게 호감을 느끼며 연인으로 발전하는 승희 역을 연기]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘바람개비’ 차선우 “진지한 액션 도전해보고 싶었다”]]></title>
-        <id>https://v.daum.net/v/20230504184805278</id>
-        <link href="https://v.daum.net/v/20230504184805278"/>
-        <updated>2023-05-04T10:11:15.525Z</updated>
-        <content type="html"><![CDATA[‘바람개비’ 차선우가 출연 이유를 밝혔다. 4일 오후 서울 CGV 용산아이파크몰에서 영화 ‘바람개비’ 시사회 및 간담회가 열렸다. 이상훈 감독과 배우 차선우 유지애 김소희 이원석이 참석했다. 차선우는 “작년 촬영했는데 드디어 개봉해서 기쁘다”며 말문을 열었다. 이어 출연 이유에 대해 “아버지에 대한 원망, 그것에 대한 반성이 제일 먼저 눈에 들어와서 정훈이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['바람개비' 차선우 "유지애·김소희·이원석과 첫 작업, 좋은 에너지"]]></title>
-        <id>https://v.daum.net/v/20230504184344180</id>
-        <link href="https://v.daum.net/v/20230504184344180"/>
-        <updated>2023-05-04T10:11:15.525Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 김유진 기자) 차선우가 유지애, 김소희, 이원석과 '바람개비'를 함께 한 소감을 전했다. 4일 오후 서울 용산구 CGV용산아이파크몰에서 영화 '바람개비'(감독 이상훈) 언론시사회가 열렸다. 이 자리에는 이상훈 감독과 배우 차선우, 유지애, 김소희, 이원석이 참석했다. '바람개비'에서 차선우는 폭력을 일삼던 아버지와는 다른 삶을 살기 위해 착실]]></content>
     </entry>
 </feed>
