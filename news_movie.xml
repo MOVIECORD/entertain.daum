@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-05-04T20:11:47.921Z</updated>
+    <updated>2023-05-04T21:10:27.763Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['가오갤3'는 달랐다…위기의 MCU 구할까]]></title>
+        <id>https://v.daum.net/v/20230505060021144</id>
+        <link href="https://v.daum.net/v/20230505060021144"/>
+        <updated>2023-05-04T21:10:08.196Z</updated>
+        <content type="html"><![CDATA[(서울=뉴스1) 장아름 기자 = 영화 '가디언즈 오브 갤럭시: Volume3'(이하 '가오갤3')가 박스오피스 1위로 출발했다. 4일 영화진흥위원회 영화관입장권통합전산망의 집계에 따르면 '가오갤3'는 개봉 당일인 지난 3일 16만3340명의 관객을 동원하며 누적관객수 16만3340명을 기록, 박스오피스 1위에 올랐다. 2위인 '슈퍼 마리오 브라더스'가]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['활동명 통일' 아이유, 편안함에 이르른 30대]]></title>
         <id>https://v.daum.net/v/20230505000032482</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230504180901262"/>
         <updated>2023-05-04T09:11:18.957Z</updated>
         <content type="html"><![CDATA[[김성호 기자] &nbsp;▲ &nbsp;&lt;오키쿠와 세계&gt; 포스터ⓒ Jeonju IFF&nbsp; 가장 낮은 자에게 아름다움을 찾으려 한 감독이 있다. 그가 쇄국정책이 한창이던 19세기 중엽, 일본 에도를 배경으로 영화 한 편을 기획했다. 돈도 시간도 얼마 되지 않아, 3년에 걸쳐 단 12일 동안 한 편의 작품을 찍었다. 제24회 전주국제영화제에서 소개된 영화 &lt;오키쿠와 세계&gt; 이야]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[서울대 간 사촌동생, 깐족대는 그를 누른 '빽도']]></title>
-        <id>https://v.daum.net/v/20230504180631197</id>
-        <link href="https://v.daum.net/v/20230504180631197"/>
-        <updated>2023-05-04T09:11:18.959Z</updated>
-        <content type="html"><![CDATA[[조영준 기자] 빽도(Back-Do) 한국단편경쟁 섹션 한국 / 2023 / 16분 / 컬러 /&nbsp; 감독 : 차경민 출연 : 이도은, 정용훈, 태경 *주의! 이 글에는 영화의 스포일러가 포함돼 있습니다. &nbsp;▲ &nbsp;제 24회 전주국제영화제 상영작 &lt;빽도&gt; 스틸컷ⓒ 전주국제영화제01. 설날, 친척 가족들이 모두 모인 자리에서 정민(정용훈 분)과 수민(이도은 분)]]></content>
     </entry>
 </feed>
