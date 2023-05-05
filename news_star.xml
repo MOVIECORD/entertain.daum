@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2023-05-05T17:10:10.679Z</updated>
+    <updated>2023-05-05T18:12:53.719Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['나혼산' 이창섭, 전현무와 다른 캠핑 취향 "실용주의 추구"]]></title>
+        <id>https://v.daum.net/v/20230506030314451</id>
+        <link href="https://v.daum.net/v/20230506030314451"/>
+        <updated>2023-05-05T18:12:47.804Z</updated>
+        <content type="html"><![CDATA[[스포츠투데이 백지연 기자] '나혼자산다' 그룹 비투비 이창섭이 전현무와 정반대의 캠핑 취향을 밝혔다. 5일 방송된 MBC 예능프로그램 '나 혼자 산다'에서는 그룹 비투비 이창섭이 반려견 구리와 캠핑을 떠난 모습이 그려졌다. 이날 이창섭은 "오늘은 구리랑 캠핑 가는 날"이라며 "구리 만나기 전부터 캠핑을 좋아했었다. 아무도 저한테 관심을 안 가지니까 나만]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이장우, 요트 면허 땄다 "세계 일주가 꿈"...이창섭은 '강아지 캠핑' 떠나]]></title>
         <id>https://v.daum.net/v/20230506010130185</id>
@@ -13,7 +20,7 @@
         <content type="html"><![CDATA[[TV리포트=김유진 기자]이장우가 요트 조종 면허를 땄다. 5일 방영된 MBC 예능 '나 혼자 산다'에서는 배우 이장우가 요트 면허를 따고 연수를 받는 장면이 전파를 탔다. 이장우는 "키 회원님이 양식 조리사 자격증 딴 것을 보고 자극을 받았다. 필기시험은 50개 중에 2개 틀렸다"고 자랑했다.&nbsp; 이장우는 한강에서 연수를 받는 도중 중견배우 이승현도 만났다]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[‘나혼산’ 이장우, 10년 만 버킷리스트→이창섭, 반려견 구리와 ‘나홀로 캠핑’]]></title>
+        <title type="html"><![CDATA[‘나혼산’ 이장우, 10년 만 버킷리스트 달성→이창섭, 반려견 구리와 ‘캠핑’]]></title>
         <id>https://v.daum.net/v/20230506005400158</id>
         <link href="https://v.daum.net/v/20230506005400158"/>
         <updated>2023-05-05T16:13:31.918Z</updated>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230505230010629"/>
         <updated>2023-05-05T14:10:52.049Z</updated>
         <content type="html"><![CDATA[[동아닷컴] 엄정화 없는 엄정화 작전? 김병철, 긴급 가족회의 (닥터 차정숙) ‘닥터 차정숙’ 김병철이 엄정화를 두고 가족들과 비밀 작전을 펼친다. JTBC 토일드라마 ‘닥터 차정숙’(연출 김대진·김정욱, 극본 정여랑, 제작 ㈜스튜디오앤뉴·SLL·JCN) 측은 5일, 차정숙(엄정화 분) 모르게 열린 긴급 가족회의 현장을 공개했다. 차정숙이 절대 알아서는]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[서정희 눈물 고백 "전남편 故서세원, 보지말라는 건 안 봐...子, 이단 교도 같다고"]]></title>
-        <id>https://v.daum.net/v/20230505225544615</id>
-        <link href="https://v.daum.net/v/20230505225544615"/>
-        <updated>2023-05-05T14:10:52.051Z</updated>
-        <content type="html"><![CDATA[[스포츠조선닷컴 정안지 기자] 서정희가 "아들이 저보고 이단 교도 같다더라"며 눈물을 흘렸다. 5일 방송된 채널A '오은영의 금쪽상담소' 방송 말미에는 다음주 서정희 예고편이 공개됐다. 서정희는 "다 털어놓고 싶었다"며 32년간 겪었던 기나긴 악몽을 떠올렸다. 서정희의 어머니는 "어려서 너무 예뻤다"면서 "그때 기억을 단 하나도 못 잊었다.]]></content>
     </entry>
 </feed>
