@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-05-05T10:11:51.972Z</updated>
+    <updated>2023-05-05T11:09:43.378Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['하늘의 인연' 김유석, 친딸 김시하 탄 차 들이받아...천륜 저버렸다]]></title>
+        <id>https://v.daum.net/v/20230505195231782</id>
+        <link href="https://v.daum.net/v/20230505195231782"/>
+        <updated>2023-05-05T11:09:27.668Z</updated>
+        <content type="html"><![CDATA[[TV리포트 = 하수나 기자] 김유석이 자신의 친딸인 김시하를 교통사고로 위장해 제거하려는 모습으로 충격을 안겼다.&nbsp;&nbsp; 5일 MBC 일일드라마 ‘하늘의 인연’에선 치환(김유석 분)이 정임(조은숙 분)과 해인(김시하 분)이 탄 택시를 일부러 들이받는 모습이 그려졌다.&nbsp; 치환은 해인이 자신의 친딸이란 사실이 드러날까 불안감을 감추지 못했고 정임과 해인이 윤모(]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[응급환자 보고 얼어붙은 안효섭, '패닉'의 이유는?]]></title>
         <id>https://v.daum.net/v/20230505180115300</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230505114849425"/>
         <updated>2023-05-05T03:11:35.486Z</updated>
         <content type="html"><![CDATA[[뉴스엔 박수인 기자] 배우 이도현이 극과 극을 오가는 연기 스펙트럼을 보여줬다. 5월 3일 방송된 JTBC 수목드라마 '나쁜엄마' 3회에서는 뜻밖의 사고로 아이가 된 강호(이도현 분)의 모습이 그려졌다. 자칫 목숨까지 잃을 뻔했지만, 기적처럼 의식을 찾고 퇴원한 강호는 식음을 전폐해 영순(라미란 분)의 걱정을 사기도. 강호는 영순의 호통에 "배부르면 잠]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['믿보배' 이도현의 저력]]></title>
-        <id>https://v.daum.net/v/20230505113344233</id>
-        <link href="https://v.daum.net/v/20230505113344233"/>
-        <updated>2023-05-05T03:11:35.486Z</updated>
-        <content type="html"><![CDATA[[OSEN=김보라 기자] 배우&nbsp;이도현이 환상적인 캐릭터 플레이로 안방극장을 장악했다. 이도현은 지난 3~4일 방송된 JTBC 수목드라마 '나쁜엄마'(극본 배세영, 연출 심나연) 3~4회에서 극과 극을 오가는 연기 스펙트럼으로 극의 흐름을 이끌어갔다. 이전까지 보여준 냉혈 검사의 비정함과 달리, 순수하면서도 천진난만한 모습까지 디테일하게 묘사해 뜨거운 호]]></content>
     </entry>
 </feed>
