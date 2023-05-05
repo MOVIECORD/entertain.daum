@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/variety</id>
     <title>다음 연예 ─ 뉴스 ─ 예능</title>
-    <updated>2023-05-05T02:29:17.984Z</updated>
+    <updated>2023-05-05T03:11:51.847Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[슬리피 "이제 소식좌 NO…현재 70kg 후반, 인생 최대 몸무게"]]></title>
+        <id>https://v.daum.net/v/20230505115517481</id>
+        <link href="https://v.daum.net/v/20230505115517481"/>
+        <updated>2023-05-05T03:11:40.505Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 강다윤 기자] 가수 슬리피가 소식좌가 아님을 선언했다. 4일 방송된 케이블채널 채널 IHQ '돈쭐내러왔습니다' 85회에서는 제주 금능해수욕장 앞에 위치한 양식 전문점에서 '먹투력(먹방 전투력)'을 뽐내는 먹피아 조직의 모습이 공개됐다. 이날 방송에서는 연예계 대표 소식좌로 알려진 슬리피가 더 이상 소식좌가 아님을 선언했다. 슬리피는 "]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[시청률 7% 돌파..이도현·안은진 재회에 라미란 행복찾기]]></title>
+        <id>https://v.daum.net/v/20230505113643297</id>
+        <link href="https://v.daum.net/v/20230505113643297"/>
+        <updated>2023-05-05T03:11:40.506Z</updated>
+        <content type="html"><![CDATA[[스포츠조선 문지연 기자] '나쁜엄마' 이도현, 안은진의 운명적 재회로 '행복 찾기'가 본격적으로 시작됐다. 지난 4일 방송된 JTBC 수목드라마 '나쁜엄마'(배세영 극본, 심나연 연출) 4회에서 영순(라미란), 강호(이도현) 모자는 사고로 달라진 삶을 하늘이 주신 기회라고 받아들이며 그들만의 잃어버린 행복 찾기에 나섰다. 이와 함께 강호와]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[혜리, 마라탕 먹방에 울먹 “안 행복해”]]></title>
         <id>https://v.daum.net/v/20230505112409079</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230505102202254"/>
         <updated>2023-05-05T01:58:39.482Z</updated>
         <content type="html"><![CDATA[[텐아시아=강민경 기자] 개그맨 이용식 딸 이수민이 고민을 털어놓는다. 5일 방송되는 채널A '오은영의 금쪽상담소'에는 49년 차 개그맨 이용식과 딸 이수민 부녀의 고민이 공개된다. 이날 이용식은 상담 시작 전부터 뼈그맨 타이틀에 걸맞게 오은영 박사 특유의 온화한 표정을 따라 지으며 오은영 박사 표정 모사를 선보여 상담소를 웃음바다로 만든다. 딸 이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[세븐틴 ‘출장 십오야2’ 출격, 나영석도 당황시킨 급다른 예능돌]]></title>
-        <id>https://v.daum.net/v/20230505101546126</id>
-        <link href="https://v.daum.net/v/20230505101546126"/>
-        <updated>2023-05-05T01:58:39.484Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 황혜진 기자] 예능 폭주 기관차 세븐틴이 tvN ‘출장 십오야2’에 뜬다. 5월 5일 오후 10시 방송되는 ‘출장 십오야2’(연출 신효정)에는 본업은 무대를 찢어놓는 아이돌이지만 무대 아래에서는 그 누구보다 개그에 진심인 세븐틴이 13인 완전체로 등장한다. 세븐틴은 자체 유튜브 콘텐츠를 통해 각종 게임부터 토크쇼, 콩트 등을 섭렵한 예능꾼들인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[홍진영, 돌아온 배터리 누나…"하루 행사 8개"]]></title>
-        <id>https://v.daum.net/v/20230505101116043</id>
-        <link href="https://v.daum.net/v/20230505101116043"/>
-        <updated>2023-05-05T01:58:39.485Z</updated>
-        <content type="html"><![CDATA[[OSEN=장우영 기자] 가수 홍진영이 ‘행사 여왕’ 면모를 보인다. 5일 밤 8시 방송되는 TV CHOSUN ‘식객 허영만의 백반기행’에서는 ‘흥신흥왕’ 인간 배터리 가수 홍진영과 함께 역사가 살아 숨 쉬는 ‘대구 달서구’ 밥상을 찾아 떠난다. 노래 ‘사랑의 배터리’로 트로트 앨범 첫 발매와 동시에 대중에게 눈도장을 찍은 홍진영은 이후 ‘산다는 건’,]]></content>
     </entry>
 </feed>
