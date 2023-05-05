@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-05-05T00:49:51.430Z</updated>
+    <updated>2023-05-05T01:58:50.812Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['나쁜엄마' 7살 된 이도현, 동거했던 전 연인 안은진과 재회]]></title>
+        <id>https://v.daum.net/v/20230505101304081</id>
+        <link href="https://v.daum.net/v/20230505101304081"/>
+        <updated>2023-05-05T01:58:34.182Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 | 최혜진 기자] /사진=JTBC'나쁜엄마' 이도현, 안은진이 운명 같은 재회를 했다. 5일 시청률 조사회사 닐슨코리아에 따르면 지난 4일 방송된 JTBC 수목드라마 '나쁜엄마'(극본 배세영, 연출 심나연)는 평균 시청률 7%(이하 전국유료가구기준)를 기록, 자체 최고 시청률을 경신했다. 이날 영순(라미란 분), 강호(이도현 분) 모자는 사]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['보라! 데보라' 송민지, 주상욱 뼈 때리는 독설]]></title>
         <id>https://v.daum.net/v/20230505094915687</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230505081216474"/>
         <updated>2023-05-05T00:49:33.725Z</updated>
         <content type="html"><![CDATA[[OSEN=유수연 기자] ‘어쩌다&nbsp;마주친, 그대’가 시간 여행기부터 연쇄살인 사건까지 다양한 스토리로 시청자들의 추리력을 자극했다. 이번 주 방송된 KBS2&nbsp;월화드라마 ‘어쩌다&nbsp;마주친, 그대’(연출 강수연, 이웅희 / 극본 백소연 / 제작 아크미디어) 1, 2회에서는 자기를 죽인 범인을 찾기 위해 시간 여행자가 된 윤해준(김동욱 분)이 엄마를 한순간에]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[윤현민, '황찬성과 재이별 목표' 유인나와 키스 "힘든 것도 지나가"]]></title>
-        <id>https://v.daum.net/v/20230505080601407</id>
-        <link href="https://v.daum.net/v/20230505080601407"/>
-        <updated>2023-05-04T23:12:09.521Z</updated>
-        <content type="html"><![CDATA[[텐아시아=강민경 기자] 유인나와 윤현민이 마침내 입을 맞췄다. 4일 방송된 ENA 수목드라마 '보라! 데보라' 8회에서는 입맞춤과 함께 터닝 포인트를 맞는 데보라(유인나&nbsp;역)와 이수혁(윤현민 역)의 모습이 그려졌다. 이날 데보라는 아찔한 실수 이후 그토록 피하고 싶었던 이수혁과 만났다. 일부러 그를 피하고 있다는 사실을 들킨 뒤, 얼떨결에 상황을 무]]></content>
     </entry>
 </feed>
