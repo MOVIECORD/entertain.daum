@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-05-05T23:11:24.720Z</updated>
+    <updated>2023-05-06T00:49:56.971Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘인어공주’ 할리 베일리 2만원짜리 인형 폭발적 인기, “아마존 1위 등극”]]></title>
+        <id>https://v.daum.net/v/20230506094645062</id>
+        <link href="https://v.daum.net/v/20230506094645062"/>
+        <updated>2023-05-06T00:49:56.233Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]‘인어공주’ 할리 베일리(23)의 인형이 폭발적 인기를 누리고 있다. 엔터테인먼트 위클리는 최근 “지난 4월 23일 출시된 인어공주 에리얼 인형이 아마존 베스트셀러 1위에 올랐다”면서 “베일리를 닮아 화제가 된 이 한정판 인형은 영화 개봉일에 가까워질수록 매진될 것으로 예상되니 기회가 있을 때 구입하는 것을 추천한다”고 보도]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[60대 마돈나→멕 라이언, 성형 부작용으로 몸살.."얼굴 복원 필사적"]]></title>
         <id>https://v.daum.net/v/20230506074243736</id>
@@ -74,12 +81,5 @@
         <link href="https://v.daum.net/v/20230505100415933"/>
         <updated>2023-05-05T01:58:50.246Z</updated>
         <content type="html"><![CDATA[[뉴스엔 황혜진 기자] 영국 가수 에드 시런(Ed Sheeran)이 표절 의혹 소송에서 승소했다. 5월 4일(현지시간) 미국 매체 피플 보도에 따르면 에드 시런 표절 의혹 소송 배심원단은 이날 미국 법원에서 진행된 공판에서 에드 시런의 손을 들어줬다. 에드 시런은 지난해 저작권 침해 의혹으로 피소됐다. 에드 시런이 표절 의혹을 받은 노래는 2016년 미국]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[에드 시런 "은퇴 안 해도 된다"...'1340억' 표절 의혹 소송 승소]]></title>
-        <id>https://v.daum.net/v/20230505093744515</id>
-        <link href="https://v.daum.net/v/20230505093744515"/>
-        <updated>2023-05-05T00:49:50.591Z</updated>
-        <content type="html"><![CDATA[[OSEN=유수연 기자] 표절 시비에 휘말렸던 영국의 팝스타 에드 시런이 소송에서 승리했다. 4일(현지시간) 버라이어티의 보도에&nbsp;따르면, 에드 시런은 2주간의 재판 끝에 표절에 대해 무죄를 선고받았다. 배심원단은 3시간의 치열한 숙의 끝에 '싱킹 아웃 라우드'는 게이의 곡 '렛츠 겟 잇 온(Let's Get It On)'과 무관하게 독립적으로 창작된 작]]></content>
     </entry>
 </feed>
