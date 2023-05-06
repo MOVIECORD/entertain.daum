@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-05-06T09:10:56.583Z</updated>
+    <updated>2023-05-06T10:10:57.115Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['구미호뎐1938' 오늘 첫 방송…이동욱, 1938년 불시착 속 첫 미션 시작]]></title>
+        <id>https://v.daum.net/v/20230506183227674</id>
+        <link href="https://v.daum.net/v/20230506183227674"/>
+        <updated>2023-05-06T10:10:39.529Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 김유진 기자) '구미호뎐1938' 이동욱의 첫 번째 미션이 시작된다. 6일 첫 방송 되는 tvN 새 토일드라마 '구미호뎐1938' 측은 자비 없는 사냥의 시간, 1938년에 들어선 이연(이동욱 분)의 모습을 공개했다. 그를 이 시대에 옭아맨 미션의 정체가 무엇일지 호기심이 증폭된다. '구미호뎐1938'은 1938년 혼돈의 시대에 불시착한 구미]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['구미호뎐1938' 이동욱, 영훈과 살떨리는 신경전]]></title>
         <id>https://v.daum.net/v/20230506173316135</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230506121946702"/>
         <updated>2023-05-06T04:12:15.709Z</updated>
         <content type="html"><![CDATA[[뉴스엔 이슬기 기자] 빨간불 켜진 김병철 패밀리에 시선이 쏠린다. JTBC 토일드라마 ‘닥터 차정숙’(연출 김대진·김정욱, 극본 정여랑, 제작 ㈜스튜디오앤뉴·SLL·JCN) 측은 최근 차정숙(엄정화 분) 모르게 열린 긴급 가족회의 현장을 공개했다. 차정숙이 절대 알아서는 안 될 가족들의 비밀 작전은 무엇일지 궁금해진다. 지난 방송에서는 좋은 의사로 한]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[우도환, 최무성 살해 혐의 벗었다]]></title>
-        <id>https://v.daum.net/v/20230506120145575</id>
-        <link href="https://v.daum.net/v/20230506120145575"/>
-        <updated>2023-05-06T03:11:03.628Z</updated>
-        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]MBC ‘조선변호사’의 우도환이 거듭되는 위기 상황 속 반전 전개를 이끌어냈다. 5일(어제) 방송된 MBC 금토드라마 ‘조선변호사’(연출 김승호, 이한준/ 극본 최진영/ 제작 피플스토리컴퍼니, 원콘텐츠) 11회에서는 대립과 갈등이 최고조에 달한 강한수(우도환 분)와 이연주(김지연 분)의 모습이 그려졌다. 앞선 10회 방송에서는]]></content>
     </entry>
 </feed>
