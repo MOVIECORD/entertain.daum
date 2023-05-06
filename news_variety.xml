@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/variety</id>
     <title>다음 연예 ─ 뉴스 ─ 예능</title>
-    <updated>2023-05-06T06:13:45.253Z</updated>
+    <updated>2023-05-06T07:11:02.245Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[트라이비, 여행만 갔는데 꿀잼…국민손녀 등극]]></title>
+        <id>https://v.daum.net/v/20230506154945249</id>
+        <link href="https://v.daum.net/v/20230506154945249"/>
+        <updated>2023-05-06T07:10:48.857Z</updated>
+        <content type="html"><![CDATA[[OSEN=장우영 기자] 그룹 트라이비(TRI.BE)가 꿀잼 여행기로 웃음을 선사했다. 트라이비는 지난 5일 오후 공식 유튜브 채널을 통해 자체 제작 콘텐츠 ‘트라이비! 어디가?’ Ep.03 고령 편 영상을 공개했다. 이날 공개된 영상에서는 지난주 2편에 이어 경북 고령으로 여행을 떠난 트라이비의 모습이 그려졌다. 시장 투어에 나선 멤버들은 보기만 해도]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김해준, 한입만 없애자는 데프콘에 “역대급으로 얄미워” 버럭]]></title>
+        <id>https://v.daum.net/v/20230506151843011</id>
+        <link href="https://v.daum.net/v/20230506151843011"/>
+        <updated>2023-05-06T07:10:48.858Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 박수인 기자] 김해준이 '한입만'을 없애자는 말에 버럭했다. 5월 5일 방송된 IHQ '맛있는 녀석들'에서는 MZ 세대들이 즐겨먹는 마라요리와 꼬치요리 먹방이 펼쳐졌다. 이날 첫 번째 메뉴인 마라탕집에서의 쪼는맛 게임은 상자 속 물건을 촉각으로 맞히는 방식으로 김해준이 한입만 멤버로 선정됐다. 마라탕을 시식한 이수지와 데프콘은 국물과 옥수수면에]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['당결안' 측 "노랑부부='고딩엄빠2' 출연 맞다…직접 신청"]]></title>
         <id>https://v.daum.net/v/20230506145315794</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230506134816305"/>
         <updated>2023-05-06T05:10:09.622Z</updated>
         <content type="html"><![CDATA[[스타뉴스 | 안윤지 기자] /사진=JTBC '팬텀싱어4' 방송 캡처'팬텀싱어4' 본선 4라운드 '4중창 대결'이 극락의 하모니 향연을 펼쳤다. 지난 5일 방송된 JTBC '팬텀싱어4'(기획 김형중·김희정, 연출 전수경) 9회에서는 본선 4라운드 4중창 대결 결과와 본선 5라운드 진출자가 가려졌다. 뜨거운 호평 속 9회 시청률은 전국 3.0% 수도권 2.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[노홍철, 하와이서 '무한도전' 인연 만났다 "날 알아봐요?"]]></title>
-        <id>https://v.daum.net/v/20230506134515292</id>
-        <link href="https://v.daum.net/v/20230506134515292"/>
-        <updated>2023-05-06T05:10:09.623Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 | 안윤지 기자] /사진제공=ENA '지구마불 세계여행'방송인 노홍철이 하와이에서 특별한 인연과 10년 만에 재회한다. 6일 방송되는 ENA 예능 프로그램 '주사위 한 번에 대륙이동-지구마불 세계여행'(연출 김태호 김훈범 작가 최혜정, 이하 '지구마불 세계여행')에서는 '인간 황금열쇠' 노홍철과 빠니보틀, 곽튜브, 원지의 5라운드 하와이 여행기]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김다예, ♥박수홍과 불 붙었다‥심형탁 아내에 “나처럼 살지마”]]></title>
-        <id>https://v.daum.net/v/20230506133549204</id>
-        <link href="https://v.daum.net/v/20230506133549204"/>
-        <updated>2023-05-06T05:10:09.624Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 박수인 기자] 박수홍, 김다예 부부가 제대로 불 붙었다. 최근 공개된 TV조선 '조선의 사랑꾼' 예고편에서는 박수홍-김다예 부부, 심형탁-사야 예비 부부가 바비큐 파티에 나서는 모습이 그려졌다. 영상 속 박수홍은 고기를 굽는 김다예에게 "(그릴) 뚜껑 닫고 온도를 올려놔야지"라고 훈수를 뒀고 "불 끌 때 뚜껑 닫는 건데?"라는 김다예 말에 "아니]]></content>
     </entry>
 </feed>
