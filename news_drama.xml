@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-05-06T19:08:41.919Z</updated>
+    <updated>2023-05-06T20:11:11.669Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“엄마도 알아요?” 김병철, 가족에 불륜 들통 예고 ‘닥터 차정숙’]]></title>
+        <id>https://v.daum.net/v/20230507050547383</id>
+        <link href="https://v.daum.net/v/20230507050547383"/>
+        <updated>2023-05-06T20:10:53.120Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 서유나 기자] 김병철의 불륜을 알게 된 가족들의 반응이 예고돼 이목을 집중시켰다. 5월 6일 방송된 JTBC 토일드라마 '닥터 차정숙'(극본 정여랑 / 연출 김대진, 김정욱) 7회 말미 공개된 예고편에서는 서인호(김병철 분)의 불륜을 가족들이 알게 되는 모습이 그려졌다. 예고편에서 서인호는 최승희(명세빈 분)의 딸이자 자신의 혼외자 최은서(소]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['낭만닥터 김사부3' 한석규, 안효섭에 반기 드는 이신영에 "너 같은 놈들 조지는 게 내 전공" 쓴소리]]></title>
         <id>https://v.daum.net/v/20230507015101129</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230506230541017"/>
         <updated>2023-05-06T17:09:05.738Z</updated>
         <content type="html"><![CDATA[(엑스포츠뉴스 김현숙 기자) '닥터 차정숙' 김병철이 차정숙에게 병원을 그만 두라는 이야기를 건넸다. 6일 방송된 JTBC 드라마 '닥터 차정숙' 7회에서는 서인호(김병철 분)가 차정숙(엄정화)에게 병원을 그만 두라고 이야기했다. 이날 차정숙은 집 앞에서 로이킴(민우혁)과 만났고, 로이킴이 할 말을 하려는 순간 곽애심(박준금)이 나타나 집으로 돌아가게 됐다]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['김사부3' 한석규, 막말하는 이신영에 분노 "수술실 출입 금지"]]></title>
-        <id>https://v.daum.net/v/20230506230212012</id>
-        <link href="https://v.daum.net/v/20230506230212012"/>
-        <updated>2023-05-06T14:09:01.010Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 이이진 기자) '낭만닥터 김사부3' 한석규가 이신영에게 분노했다. 6일 방송된 SBS 새 금토드라마 '낭만닥터 김사부3' 4회에서는 김사부(한석규 분)가 장동화(이신영)에게 독설하는 모습이 그려졌다. 이날 김사부는 "수술실은 딱 두 종류의 의사만 들어갈 수 있어. 살리겠다는 놈 그리고 배우겠다는 놈. 그런 마음 없이 함부로 칼 잡고 수술대 앞]]></content>
     </entry>
 </feed>
