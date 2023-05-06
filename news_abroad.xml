@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-05-06T22:09:41.858Z</updated>
+    <updated>2023-05-06T23:11:01.390Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘조 알윈과 결별’ 테일러 스위프트, 콘서트장서 ♥매티 힐리에 “사랑해”]]></title>
+        <id>https://v.daum.net/v/20230507074217469</id>
+        <link href="https://v.daum.net/v/20230507074217469"/>
+        <updated>2023-05-06T23:11:00.674Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]영국배우 조 알윈(32)과 결별한 세계적 가수 테일러 스위프트(33)가 밴드 ‘1975’의 매티 힐리(34)와 사랑에 빠졌다. 조 알윈과는 6년간 비밀스러운 열애를 즐겼던 그는 매티 힐리와는 대놓고 사랑을 외치고 있다. 6일(현지시간) 페이지식스에 따르면, 그는 지난 5일 테네시주 내슈빌에서 열린 에라스 투어 공연에서 카메라]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[추자현 “과거 너무 힘들었다”…中 오디션 등장→첫 무대 후 눈물]]></title>
         <id>https://v.daum.net/v/20230506214144984</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230506094645062"/>
         <updated>2023-05-06T00:49:56.233Z</updated>
         <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]‘인어공주’ 할리 베일리(23)의 인형이 폭발적 인기를 누리고 있다. 엔터테인먼트 위클리는 최근 “지난 4월 23일 출시된 인어공주 에리얼 인형이 아마존 베스트셀러 1위에 올랐다”면서 “베일리를 닮아 화제가 된 이 한정판 인형은 영화 개봉일에 가까워질수록 매진될 것으로 예상되니 기회가 있을 때 구입하는 것을 추천한다”고 보도]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[60대 마돈나→멕 라이언, 성형 부작용으로 몸살.."얼굴 복원 필사적"]]></title>
-        <id>https://v.daum.net/v/20230506074243736</id>
-        <link href="https://v.daum.net/v/20230506074243736"/>
-        <updated>2023-05-05T23:11:23.976Z</updated>
-        <content type="html"><![CDATA[[OSEN=최나영 기자] 성형 중독으로 얼굴이 변한 해외 스타들이 대중에게 충격을 주고 있다. 최근 할리우드 배우 멕 라이언(61)의 놀랄 만한&nbsp;근황이 공개돼 화제를 모았다. 5일(한국시간) 영국 데일리 메일 등 외신에 따르면 라이언은 지난 목요일 미국 뉴욕에 있는 한 행사장에서 진행된 절친인 동료 배우 마이클 J. 폭스의 새 다큐멘터리 상영회에 참석했]]></content>
     </entry>
 </feed>
