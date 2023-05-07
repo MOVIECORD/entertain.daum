@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-05-07T03:12:21.406Z</updated>
+    <updated>2023-05-07T04:12:43.608Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이동욱이 이동욱 했다..1인2역에 코믹+액션 여우연기까지 '올킬']]></title>
+        <id>https://v.daum.net/v/20230507124642492</id>
+        <link href="https://v.daum.net/v/20230507124642492"/>
+        <updated>2023-05-07T04:12:26.955Z</updated>
+        <content type="html"><![CDATA[[OSEN=박소영 기자] 이동욱이 ‘구미호뎐1938’ 첫 방송부터 감탄을 불렀다. 지난 6일 첫 방송된 tvN 새 토일드라마 ‘구미호뎐1938’(연출 강신효, 극본 한우리, 제작 스튜디오드래곤∙하우픽쳐스)에서&nbsp;이동욱이 구미호 ‘이연’으로 귀환했다. 삼도천의 결계인 수호석을 되찾기 위해 1938년으로 간 이연의 속도감 있는 이야기는 뜨거운 반응을 불러왔다]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[강훈X조혜주, 이대로 헤어질까…붉어진 눈시울]]></title>
         <id>https://v.daum.net/v/20230507121146974</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230507092249402"/>
         <updated>2023-05-07T00:57:23.598Z</updated>
         <content type="html"><![CDATA[[OSEN=박소영 기자] ‘구미호뎐1938’이 시작부터&nbsp;‘K-판타지 액션 활극’의 강렬한 귀환을 알렸다. tvN&nbsp;토일드라마&nbsp;‘구미호뎐1938’(연출 강신효,&nbsp;극본 한우리,&nbsp;제작 스튜디오드래곤∙하우픽쳐스)이 뜨거운 호평 속에서 첫 방송 됐다.&nbsp;사랑하는 여인과 함께 행복한 삶을 이어가던 이연(이동욱 분)은 위기에 빠진 내세출입국사무소를 구하기 위해&nbsp;1938]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한석규, 호통으로 '돌담 금쪽이' 이신영 참교육…최고 14.4%]]></title>
-        <id>https://v.daum.net/v/20230507091444313</id>
-        <link href="https://v.daum.net/v/20230507091444313"/>
-        <updated>2023-05-07T00:57:23.602Z</updated>
-        <content type="html"><![CDATA[[스포츠조선 안소윤 기자] '낭만닥터 김사부3' 한석규가 '돌담 금쪽이' 이신영을 참교육했다. 6일 방송된 SBS 금토드라마 '낭만닥터 김사부3'(강은경·임혜민 극본, 유인식·강보승 연출) 4회에서는 서우진(안효섭)에게 반기를 드는 돌담병원의 혈압유발자 '장금쪽이' 막내 장동화(이신영)의 모습이 그려졌다. 엇나가던 장동화의 정신을 번쩍 들게]]></content>
     </entry>
 </feed>
