@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2023-05-07T18:12:23.725Z</updated>
+    <updated>2023-05-07T19:08:51.992Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“신선한 구성·자본주의 메타포, 칸에서 통했다”]]></title>
+        <id>https://v.daum.net/v/20230508040614487</id>
+        <link href="https://v.daum.net/v/20230508040614487"/>
+        <updated>2023-05-07T19:08:46.292Z</updated>
+        <content type="html"><![CDATA[티빙 오리지널 ‘몸값’이 지난달 16일(현지시간) 국내 온라인 동영상 서비스(OTT) 시리즈 중 처음으로 프랑스 칸 뤼미에르 대극장 스크린을 채웠다. 제6회 칸 국제 시리즈페스티벌에서 이 작품은 장편 경쟁부문 각본상을 받았다. ‘몸값’의 연출을 맡은 전우성 감독과 극본을 쓴 곽재민·최병윤 작가를 지난 4일 서울 종로구의 한 카페에서 만났다. 세 사람은 밝]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[양세찬 “양세형 인문계야, 무시하지 마”]]></title>
         <id>https://v.daum.net/v/20230508014245028</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230507231201302"/>
         <updated>2023-05-07T15:10:42.818Z</updated>
         <content type="html"><![CDATA[[스포츠조선 조윤선 기자] 배우 김건우가 '더 글로리' 비하인드 스토리를 공개했다. 김건우가 7일 방송된 SBS '미운 우리 새끼'에서 '더 글로리' 비하인드 스토리를 공개했다. 이날 김건우는 친구들을 집으로 초대해 이야기를 나눴다. 친구들은 김건우가 출연한 '더 글로리'를 언급하며 "송혜교 선배 만난 썰 좀 풀어달라"고 말했다. 이에 김건우]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘홈즈’ 정주리 “다자녀 청약으로 한강뷰 아파트 마련”]]></title>
-        <id>https://v.daum.net/v/20230507230415264</id>
-        <link href="https://v.daum.net/v/20230507230415264"/>
-        <updated>2023-05-07T14:09:07.422Z</updated>
-        <content type="html"><![CDATA[[TV리포트=이혜미 기자] 개그우먼 정주리가 다자녀 청약으로 내 집 마련에 성공했다며 비화를 공개했다. 7일 MBC ‘구해줘! 홈즈’에선 정주리가 인턴코디로 출연했다. 정주리는 슬하에 4남을 둔 연예계 대표 다둥이 맘이다. 이날 정주리는 “방송과 육아를 병행하기 힘들지 않나?”라는 질문에 “그래서 남편과 ‘여보는 얼마 정도 벌어? 난 이 정도 벌 것 같아’]]></content>
     </entry>
 </feed>
