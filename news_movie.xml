@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-05-07T08:12:40.129Z</updated>
+    <updated>2023-05-07T09:10:46.619Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["'마블민국' 저력 입증"…'가오갤3', 개봉 4일 만에 130만 돌파]]></title>
+        <id>https://v.daum.net/v/20230507180554952</id>
+        <link href="https://v.daum.net/v/20230507180554952"/>
+        <updated>2023-05-07T09:10:25.335Z</updated>
+        <content type="html"><![CDATA[[스포츠조선 안소윤 기자] 마블 새 영화 '가디언즈 오브 갤럭시:Volume 3'(이하 '가오갤3')가 흥행 신드롬을 예고했다. 7일 영화관입장권 통합전산망에 따르면, '가오갤3'는 지난 6일 43만 1478명 관객을 동원하며 누적 관객수 130만 6522명을 기록했다. 국내 개봉 이후 4일 연속 박스오피스 1위를 기록한 것은 물론, 올해]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[로켓이 ‘마블민국’ 움직였다...‘가오갤’ 개봉 4일만에 100만관 관객 돌파]]></title>
         <id>https://v.daum.net/v/20230507171016080</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230507061302931"/>
         <updated>2023-05-06T22:09:21.044Z</updated>
         <content type="html"><![CDATA[[텐아시아=최지예 기자]"이현우 배우의 신에서 찡했어요. 작품을 통해 감독님이 하고 싶었던 메시지가 드러나는 것 같았죠." 아이유는 지난달 20일 서울 종로구 소격동 한 카페에서 영화 '드림'(감독 이병헌) 인터뷰에 나섰다.&nbsp; 이날 아이유는 4년 전 촬영 완료된 '드림'에 대한 기억을 짚으며 기자의 질문에&nbsp;성의껏 답했다. 아이유가 열정 없는 다큐멘터리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[도경수, 꼴통 불량 검사→우주에 고립된 사나이…4년만 스크린 컴백]]></title>
-        <id>https://v.daum.net/v/20230507060102789</id>
-        <link href="https://v.daum.net/v/20230507060102789"/>
-        <updated>2023-05-06T21:09:33.397Z</updated>
-        <content type="html"><![CDATA[[텐아시아=강민경 기자] 그룹 엑소 멤버 겸 배우 도경수(D.O.)가 영화 '더 문'(감독 김용화)으로 4년 만에 스크린으로 돌아온다. 배급사 CJ ENM에 따르면 '더 문'이 오는 8월 2일 개봉을 확정 지었다. '더 문'은 사고로 인해 홀로 달에 고립된 우주 대원 선우(도경수 역)와 필사적으로 그를 구하려는 전 우주센터장 재국(설경구&nbsp;역)의 사투를]]></content>
     </entry>
 </feed>
