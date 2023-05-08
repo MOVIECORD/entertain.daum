@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-05-08T05:10:39.533Z</updated>
+    <updated>2023-05-08T06:14:31.249Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[제임스 건, 영화 '슈퍼맨'에 '가오갤' 배우 캐스팅한다]]></title>
+        <id>https://v.daum.net/v/20230508150047786</id>
+        <link href="https://v.daum.net/v/20230508150047786"/>
+        <updated>2023-05-08T06:14:30.634Z</updated>
+        <content type="html"><![CDATA[[TV리포트=이예은 기자] 마블 감독에서 DC의 CEO로 거듭난 제임스 건이 영화 '슈퍼맨: 레거시'에 '가오갤' 배우를 캐스팅한다고 밝혔다.&nbsp; 제임스 건은 7일 소셜네트워크서비스에서 영화 '가디언즈 오브 갤럭시'(이하 '가오갤') 출연진이 '슈퍼맨'에 출연하는지에 대한 질문을 받고 "그렇다"라고 답변했다.&nbsp; 지난 1월 제임스 건은 '가오갤' 배우들과의 재]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[크리스 브라운, 스승 어셔와 몸다툼 벌여...유혈 사태까지]]></title>
+        <id>https://v.daum.net/v/20230508142216241</id>
+        <link href="https://v.daum.net/v/20230508142216241"/>
+        <updated>2023-05-08T06:14:30.634Z</updated>
+        <content type="html"><![CDATA[[TV리포트=유비취 기자] 가수 크리스 브라운이 스승이자 오랜 친구로 알려진 어셔와 몸싸움을 벌였다. 지난 6일(현지 시간) 미국 연예매체 TMZ에 따르면 크리스 브라운(34)이 미국 라스베이거스에서 생일 파티를 즐기는 동안 어셔(44)와 몸싸움을 벌였다. 지난 5일 자신의 생일 파티에서 크리스 브라운은 가수 테야나 테일러(32)와 말다툼을 먼저 벌인 것으]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[에드 시런, 표절 소송 무죄..."나는 잘못 없다"]]></title>
         <id>https://v.daum.net/v/20230508140715732</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230508083818854"/>
         <updated>2023-05-08T00:52:29.709Z</updated>
         <content type="html"><![CDATA[[OSEN=강서정 기자] 가수 테일러 스위프트와 영국 밴드 더 1975 보컬 매티&nbsp;힐리가 함께 차를 타고 숙소까지 들어가는 모습이 포착됐다.&nbsp; 7일(현지시간) 데일리 메일 보도에 따르면 두 사람이 지난 6일 테네시주 내슈빌에서 열린 테일러 스위프트의 콘서트가 끝난 후 새벽 12시 30분에 테일러의 콘도에 도착하는 모습이 포착됐다.&nbsp; 두 사람이 차량 뒷좌]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['가오갤3' 첫주 전세계 수입 3천700억원…'침체' 마블 살릴까]]></title>
-        <id>https://v.daum.net/v/20230508081928349</id>
-        <link href="https://v.daum.net/v/20230508081928349"/>
-        <updated>2023-05-08T00:52:29.710Z</updated>
-        <content type="html"><![CDATA[(로스앤젤레스=연합뉴스) 임미나 특파원 = 디즈니 마블 스튜디오의 블록버스터 신작 '가디언즈 오브 갤럭시: 볼륨 3'가 개봉 첫 주 미국을 비롯한 전 세계에서 약 3천700억원을 벌어들였다. 7일(현지시간) 박스오피스 집계 사이트 모조에 따르면 미국에서 지난 5일 개봉된 이 영화는 이틀 만에 미국에서만 1억1천400만달러(약 1천513억원)의 티켓 수입을]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘가오갤3’ 글로벌 3742억 오프닝, “장기흥행에 성공할 것” 낙관적 전망]]></title>
-        <id>https://v.daum.net/v/20230508081217195</id>
-        <link href="https://v.daum.net/v/20230508081217195"/>
-        <updated>2023-05-08T00:52:29.712Z</updated>
-        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]마블 히어로 무비 ‘가디언즈 오브 갤럭시3’가 산뜻한 출발을 알렸다. 버라이어티는 7일(현지시간) “‘가오갤3’가 북미에서 데뷔 첫 주말 1억 1,400만 달러(약 1,512억원)의 수익을 올렸다”고 보도했다. 이는 1억 4,600만 달러의 ‘슈퍼마리오 브라더스’에 이어 올해 주말 개봉작 가운데 두 번째로 높은 기록이다.]]></content>
     </entry>
 </feed>
