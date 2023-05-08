@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-05-08T20:11:09.473Z</updated>
+    <updated>2023-05-08T21:10:21.457Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['가오갤3'는 어떻게 민심을 회복했나]]></title>
+        <id>https://v.daum.net/v/20230509060410889</id>
+        <link href="https://v.daum.net/v/20230509060410889"/>
+        <updated>2023-05-08T21:09:58.307Z</updated>
+        <content type="html"><![CDATA[기사내용 요약 "망했다"던 마블 영화 '가오갤3'로 반전 개봉 첫 주에 3700억원 벌어들여 성공 흥행 수치 뿐 아니라 완성도에도 호평 "예전 마블 영화 같다" 관객 한목소리 멀티버스 강박 벗어나자 간결·명확해져 스토리·캐릭터 등에 집중할 수 있게 돼 시리즈 정체성 끝까지 지킨 뚝심 인정 [서울=뉴시스] 손정빈 기자 = 최근 기대에 미치지]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['엑소시스트: 더 바티칸', 실화 공포 흥행이을까]]></title>
         <id>https://v.daum.net/v/20230509000029505</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230508170102074"/>
         <updated>2023-05-08T08:14:34.291Z</updated>
         <content type="html"><![CDATA[[텐아시아=최지예 기자]영화감독들이 스크린이 아닌 넷플릭스로 향하고 있다. 영화가 아닌 시리즈물이다.&nbsp; 이병헌 감독은 넷플릭스 오리지널 시리즈 '닭강정'의 연출과 극본을 직접 맡아 촬영을 마쳤다.&nbsp;'닭강정'은 어느 날 닭강정으로 변한 딸 최민아를 되찾기 위한 아빠 최선만과 그녀를 짝사랑하는 남자 고백중의 고군분투를 다룬다. 코믹 미스터리 장르로 동명의 웹]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["둘리 지지했던 그 시절로"…27년만에 다시 만나는 '아기공룡 둘리']]></title>
-        <id>https://v.daum.net/v/20230508164832483</id>
-        <link href="https://v.daum.net/v/20230508164832483"/>
-        <updated>2023-05-08T08:14:34.292Z</updated>
-        <content type="html"><![CDATA[(서울=뉴스1) 고승아 기자 = '아기공룡 둘리'의 아빠인 김수정 감독이 1996년도에 선보인 극장판 '아기공룡 둘리 : 얼음별 대모험'을 4K 리마스터링해서 돌아왔다. 김 감독은 40년을 맞이한 둘리에 대한 소회와 한국 애니메이션 업계에 대한 솔직한 생각을 밝혔다. 8일 오후 서울 중구 CGV명동역 씨네라이브러리에서 영화 '아기공룡 둘리 : 얼음별 대]]></content>
     </entry>
 </feed>
