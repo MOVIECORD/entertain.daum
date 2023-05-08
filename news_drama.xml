@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-05-08T13:13:47.797Z</updated>
+    <updated>2023-05-08T14:10:32.004Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[1987년으로 돌아간 진기주, 엄마와 상사의 같은반 친구되다]]></title>
+        <id>https://v.daum.net/v/20230508230015096</id>
+        <link href="https://v.daum.net/v/20230508230015096"/>
+        <updated>2023-05-08T14:10:15.027Z</updated>
+        <content type="html"><![CDATA[[TV리포트=김유진 기자]진기주가 고3인 엄마와 2021년 상사인 고미숙과 같은반 친구가 되었다. 8일 방영된 KBS 드라마 '어쩌나 마주친, 그대'에서는 백윤영(진기주)이 2021년에서 직장 상사인 고미숙(김혜은)이 엄마와 같은 반 친구였고 엄마가 쓴 소설을 미숙이 빼앗아 자기 이름으로 출간했다는 사실에 충격을 받는다. 윤영은 윤해준(김동욱)에게 198]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[장나라 앞에 김남희 등장..."내가 누군지 잊었나봐"]]></title>
         <id>https://v.daum.net/v/20230508221016817</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230508164648415"/>
         <updated>2023-05-08T08:14:40.032Z</updated>
         <content type="html"><![CDATA[[OSEN=강서정 기자] ‘어쩌다 마주친, 그대’의 김동욱과 이원정이 사제지간이 되면서 묘한 관계성을 그린다. 8일 방송되는 KBS 2TV 월화드라마 ‘어쩌다 마주친, 그대’(연출 강수연, 이웅희, 극본 백소연) 3회에서는 윤해준(김동욱 분)이 백윤영(진기주 분)의 훗날 아버지인 희섭(이원정 분)의 담임 선생님을 맡게 되고, 두 사람은 범상치 않은 인연]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[과거 숨긴 장나라, 남편과 결혼 생활 위기…동지에서 적 됐다]]></title>
-        <id>https://v.daum.net/v/20230508163602994</id>
-        <link href="https://v.daum.net/v/20230508163602994"/>
-        <updated>2023-05-08T08:14:40.034Z</updated>
-        <content type="html"><![CDATA[[텐아시아=태유나 기자]tvN 월화드라마 ‘패밀리’가 본격적인 스토리 확장으로 더욱 쫄깃하고 유쾌한 2막을 연다. ‘패밀리’는 평범한 직장인으로 신분을 위장한 국정원 블랙 요원 남편과 완벽한 가족을 꿈꾸는 달콤살벌한 아내의 아슬아슬한 가족 사수 첩보 코미디. 1막에서는 권가네 패밀리를 중심으로 유쾌한 전개가 주를 이뤘다면, 2막에서는 '권가네 서열 1위]]></content>
     </entry>
 </feed>
