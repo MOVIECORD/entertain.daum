@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-05-08T12:20:49.785Z</updated>
+    <updated>2023-05-08T13:13:47.815Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[에드 시런 "찰스 3세 대관식 공연, 거절한 적 없어...오히려 쫓겨난 것"]]></title>
+        <id>https://v.daum.net/v/20230508220030712</id>
+        <link href="https://v.daum.net/v/20230508220030712"/>
+        <updated>2023-05-08T13:13:47.200Z</updated>
+        <content type="html"><![CDATA[[TV리포트=이수연 기자] 영국 출신 싱어송라이터 에드 시런이 찰스 3세 대관식 관련 거짓 뉴스에 입을 열었다. 7일(현지 시간) 영국 매체 미러는 에드 시런이 찰스 3세 대관식 콘서트에서 푸대접을 받지 않았다고 보도했다. 애초에 에드 시런은 초대받은 적이 없는 것으로 드러났다. 에드 시런은 자신이 찰스 3세 영국 국왕과 카밀라 왕비를 위한 곡을 연주할]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[마돈나 만난 후배 女가수, 응급실 실려가...대체 왜?]]></title>
         <id>https://v.daum.net/v/20230508210030992</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230508163030800"/>
         <updated>2023-05-08T08:14:57.834Z</updated>
         <content type="html"><![CDATA[[TV리포트=유비취 기자] 가수 에드 시런이 저작권 재판에서 승소한 후 깜짝 버스킹 공연을 열었다. 지난 5일(현지 시간) 에드 시런(32)은 미국 뉴욕시 그의 최신 앨범 팝업스토어에 들렀고 수백 명의 팬을 위해 즉석 공연을 벌였다. 에드 시런은 지난 4일 표절 논란의 저작권 소송에서 승소했다. 에드 시런은 등장과 함께 주위 팬들에게 둘러싸여 환호를 받았다]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[크리스 브라운, 어셔와 몸싸움…"女가수에게 무시당하자 분노"]]></title>
-        <id>https://v.daum.net/v/20230508160515629</id>
-        <link href="https://v.daum.net/v/20230508160515629"/>
-        <updated>2023-05-08T07:11:10.043Z</updated>
-        <content type="html"><![CDATA[[티브이데일리 김종은 기자] 미국 R&amp;B 가수 크리스 브라운이 어셔와 몸싸움을 벌였다. 미국 연예매체 TMZ는 6일(이하 현지시간) "크리스 브라운과 어셔가 롤러스케이트장에서 난투극을 벌였다"라고 보도하며 두 사람의 모습이 담긴 영상을 공개했다. 보도에 따르면 크리스 브라운은 테야나 테일러가 자신의 말을 무시하자 화를 냈고, 어셔는 이를 말리려 했다.]]></content>
     </entry>
 </feed>
