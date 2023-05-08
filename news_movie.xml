@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-05-08T06:14:31.251Z</updated>
+    <updated>2023-05-08T07:11:10.652Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['아기공룡 둘리' 감독 "40주년 둘리, 대하는 마음은 여전해"]]></title>
+        <id>https://v.daum.net/v/20230508160417599</id>
+        <link href="https://v.daum.net/v/20230508160417599"/>
+        <updated>2023-05-08T07:10:48.187Z</updated>
+        <content type="html"><![CDATA[(서울=뉴스1) 고승아 기자 = 김수정 감독이 40주년을 맞이한 둘리에 대한 소회를 전했다. 8일 오후 서울 중구 CGV명동역 씨네라이브러리에서 영화 '아기공룡 둘리 : 얼음별 대모험 리마스터링' 언론배급 시사회 및 기자간담회가 열려 김수정 감독이 참석했다. 이날 김수정 감독은 "둘리가 태어난지 40주년이 됐다, 지난 4월24일이 만 40주년이었다"라며]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘문재인입니다’ 韓영화 예매율 1위, “185만 동원 ‘노무현입니다’ 흥행 이을까”]]></title>
         <id>https://v.daum.net/v/20230508143617788</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230508101150215"/>
         <updated>2023-05-08T02:03:25.562Z</updated>
         <content type="html"><![CDATA[[뉴스엔 배효주 기자] 안성기가 故강수연과의 추억을 회고했다. 안성기와 박중훈은 5월 7일 오후 서울 성동구 메가박스 성수에서 열린 故강수연 1주기 추모전 '강수연, 영화롭게 오랫동안' 개막식에 참석했다. 혈액암 투병했으나, 건강을 회복했다는 소식을 알린 안성기는 고인과의 추억을 돌아보기 위해 걸음했다. 관객 앞에 선 안성기는 "다 나았다고는 하지만 목소]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘가오갤3’, 개봉 5일 만에 163만…압도적 1위]]></title>
-        <id>https://v.daum.net/v/20230508100608953</id>
-        <link href="https://v.daum.net/v/20230508100608953"/>
-        <updated>2023-05-08T02:03:25.562Z</updated>
-        <content type="html"><![CDATA[영화 ‘가디언즈 오브 갤럭시: Volume 3’가 압도적 주말 박스오피스 1위를 차지했다. 국내외 언론의 뜨거운 호평이 쏟아지고 있는 영화 ‘가디언즈 오브 갤럭시: Volume 3’가 개봉 첫 주말 박스오피스 1위를 차지했다. 영화진흥위원회 통합전산망에 따르면 ‘가디언즈 오브 갤럭시: Volume 3’는 개봉 첫 주말인 5월 5일~5월 7일 126만 5천]]></content>
     </entry>
 </feed>
