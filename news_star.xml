@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2023-05-09T18:13:25.933Z</updated>
+    <updated>2023-05-09T19:10:19.329Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[마동석표 액션 영화 ‘범죄도시3’ 침체된 극장가 살릴까]]></title>
+        <id>https://v.daum.net/v/20230510040529962</id>
+        <link href="https://v.daum.net/v/20230510040529962"/>
+        <updated>2023-05-09T19:10:13.475Z</updated>
+        <content type="html"><![CDATA[‘범죄도시3’는 침체에 빠진 한국 영화에 구원투수가 될까. 시리즈 첫 영화인 ‘범죄도시’(2017)는 688만명의 관객을 동원하며 ‘친구’(2001)와 ‘내부자들’(2015)에 이어 역대 청소년관람불가 영화 흥행 톱3에 올랐다. 지난해 최고의 흥행작인 ‘범죄도시2’는 코로나19 팬데믹 이후 처음 1000만 관객을 돌파한 한국 영화로 아직도 그 기록이 깨지]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2만 관객 함께한 ‘힙합플레이야 페스티벌 2023’ 성료]]></title>
         <id>https://v.daum.net/v/20230510014811420</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230509233408808"/>
         <updated>2023-05-09T15:11:36.799Z</updated>
         <content type="html"><![CDATA[(서울=뉴스1) 이지현 기자 = 김태현이 '돌싱포맨' 출연을 망설였던 이유를 고백했다. 9일 오후 방송된 SBS 예능 프로그램 '신발벗고 돌싱포맨'에서는 개그맨 김태현, 미자 부부와 김태현의 장모인 배우 전성애가 게스트로 출연해 눈길을 끌었다. 이 자리에서 이상민은 "장모님 앞에서 사위가 말을 잘 못하지 않냐"라고 물었다. 김태현은 "말을 못하는 경]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[장동선 "최근 죽음 보도 접해 힘들었다, 주변인 9명 떠나고 죄책감 커"]]></title>
-        <id>https://v.daum.net/v/20230509232946777</id>
-        <link href="https://v.daum.net/v/20230509232946777"/>
-        <updated>2023-05-09T15:11:36.803Z</updated>
-        <content type="html"><![CDATA[[스포츠조선닷컴 이게은기자] 뇌과학자 장동선이 극단적 선택의 트라우마를 털어놨다. 9일 방송된 MBC '혓바닥 종합격투기 세치혀'에서는 장동선이 '나를 180도 바꾼 최후의 선택! 죽음의 문턱에서 알게 된 충격적인 진실'이라는 주제로 이야기를 했다. 장동선은 "12살부터 22살까지 9번의 죽음을 봤다"고 말해 놀라움을 안겼다. 이어 "가까운]]></content>
     </entry>
 </feed>
