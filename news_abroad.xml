@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-05-09T15:11:42.128Z</updated>
+    <updated>2023-05-09T16:14:31.370Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[79살 로버트 드 니로, “7번째 아기 낳았다” 깜짝 발표]]></title>
+        <id>https://v.daum.net/v/20230510004945291</id>
+        <link href="https://v.daum.net/v/20230510004945291"/>
+        <updated>2023-05-09T16:14:30.547Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]할리우드를 대표하는 연기파배우 로버트 드 니로(79)가 7번째 아기의 아빠가 됐다. 그는 9일(현지시간) ET 캐나다와 인터뷰에서 7명의 자녀가 있다고 언급하고 “방금 아기를 낳았다”고 말했다. 그러나 아기의 성별과 함께 엄마가 누구인지는 밝히지 않았다. 페이지식스는 영화 ‘인턴’으로 인연을 맺었던 여자친구인 티파니 첸이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[비욘세, 월드투어로 '3조 4천억' 번다...테일러 보다 '8천억' 많아]]></title>
         <id>https://v.daum.net/v/20230509233030785</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230509164548427"/>
         <updated>2023-05-09T08:13:53.344Z</updated>
         <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]미국에서 디즈니 실사영화 ‘인어공주’의 첫반응이 나왔다. 일각에서 우려를 자아냈던 흑인 인어공주 할리 베일리(23)에 대한 호평이 이어졌다. ‘인어공주’ 프리미어 시사회가 8일(현지시간) 미국 LA 돌비씨어터에서 열렸다. 버라이어티는 이날 “첫 반응은 대체로 영화에서 아리엘 역을 맡은 베일리를 칭찬했다”고 전했다. ‘판당]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[브리트니, 할리우드 스타 2명과 불륜 '충격'…자서전 출간 잠정중단]]></title>
-        <id>https://v.daum.net/v/20230509160750923</id>
-        <link href="https://v.daum.net/v/20230509160750923"/>
-        <updated>2023-05-09T07:10:29.908Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 이창규 기자) 미국의 팝스타 브리트니 스피어스가 집필 중인 자서전의 제작이 갑작스럽게 중단돼 이목이 집중된다. 8일(현지시간) 영국의 타블로이드 더 선은 브리트니 스피어스의 자서전이 두 할리우드 스타의 불륜을 주장하는 내용에 대한 우려로 인해 출간이 잠정 중단됐다고 단독보도했다. 한 소식통은 해당 내용에 대해 "브리트니는&nbsp;잔인할 정도로 솔직하]]></content>
     </entry>
 </feed>
