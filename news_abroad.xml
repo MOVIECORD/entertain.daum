@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-05-09T09:11:04.393Z</updated>
+    <updated>2023-05-09T10:12:11.124Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[대니얼 대 킴 "또 총기난사 비극"...한인 가족 희생에 비통]]></title>
+        <id>https://v.daum.net/v/20230509181915800</id>
+        <link href="https://v.daum.net/v/20230509181915800"/>
+        <updated>2023-05-09T10:12:10.327Z</updated>
+        <content type="html"><![CDATA[[TV리포트=박설이 기자]한국계 할리우드 배우 대니얼 대 킴이 미국 시카고 총기 참사에 비통한 심경을 드러냈다. 인기 시리즈 '로스트' 등에 출연한 할리우드 배우 겸 제작자 대니얼 대 킴은 9일(한국시간) 자신의 소셜 미디어 계정에 미국 텍사스 주 댈러스 교외 쇼핑몰에서 벌어진 총기난사 사건의 희생자 사진을 올리며 이들을 추모했다. 한인 가족 희생자의 사진]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[마블 '가오갤3' 폼 미쳤다…전세계 2억↑ 달러 흥행 수익]]></title>
         <id>https://v.daum.net/v/20230509175816161</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230509151042365"/>
         <updated>2023-05-09T06:14:30.201Z</updated>
         <content type="html"><![CDATA[[OSEN=박소영 기자] "굳이 마블을 내가?" 누군가에겐 꿈의 직장이지만 누군가에겐 그저 구미가 당기지 않는 판타지 월드일 뿐이다. 마블은 마블일 뿐, 나는 나만의 길을 간다는 할리우드 배우들이 여기 있다. 자의든 타의든 히어로 무비와 연이 닿지 않은 셈인데, 마블 천하인 할리우드에서 마이웨이를 선언한 배우들을 모아봤다.&nbsp; #톰 크루즈 로다주 이전에]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['인어공주' 논란 정면돌파?..할리 베일리, 진짜 인어 드레스 입었다]]></title>
-        <id>https://v.daum.net/v/20230509143416436</id>
-        <link href="https://v.daum.net/v/20230509143416436"/>
-        <updated>2023-05-09T06:14:30.202Z</updated>
-        <content type="html"><![CDATA[[OSEN=박소영 기자] 디즈니 실사판 ‘인어공주’의 주인공 할리 베일리가 진짜 인어 드레스를 입었다. 8일(현지시각) 할리우드 돌비 극장에서 ‘인어공주’ 라이브 액션 프리미어 시사회가 열렸다. 레드카펫 행사에 배우들이 참석했는데 할리 베일리의 드레스 자태가 단연 돋보였다. 그는 실버블루 컬러의 머메이드 드레스를 입고 현실 인어의 자태를 뽐냈다. 디즈니]]></content>
     </entry>
 </feed>
