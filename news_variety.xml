@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/variety</id>
     <title>다음 연예 ─ 뉴스 ─ 예능</title>
-    <updated>2023-05-09T16:14:31.366Z</updated>
+    <updated>2023-05-09T17:10:21.647Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['88개 한정판' 지디 운동화가 4000만원에…태양 "난 팔지 않았어"]]></title>
+        <id>https://v.daum.net/v/20230510013917406</id>
+        <link href="https://v.daum.net/v/20230510013917406"/>
+        <updated>2023-05-09T17:10:10.622Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 박윤진 기자] 그룹 빅뱅의 태양이 재치 넘치는 입담을 뽐냈다. 지난 6일 웹예능 '동네스타K3'에는 '태양형 지드래곤 운동화 4000 받고 팔았어?? (ft. 블랙핑크 리사)'라는 제목의 영상이 게재됐다. MC 조나단은 "지디가 88명한테만 선물한 한정판 운동화가 최근에 4000만원에 거래됐다고 하더라"고 운을 떼며 "아마 이걸 태양 형]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘돌싱포맨’ 김태현 “장모님, 내 이름 ‘개그맨 김태현’으로 저장”..전성애 “오늘 바꿀게”]]></title>
         <id>https://v.daum.net/v/20230510011115347</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230509234452876"/>
         <updated>2023-05-09T15:11:31.768Z</updated>
         <content type="html"><![CDATA[이상민이 탁재훈의 스포일러를 꼬집었다. 5월 9일 방송된 SBS ‘신발 벗고 돌싱포맨’에서 탁재훈은 영화 ‘존윅’ 결말을 노출할 뻔 했다. 이상민은 “다음 달이면 2023년이 반이 지나간다. 다들 잘 살았냐”고 질문했고 탁재훈은 “며칠 전에 ‘존윅’을 봤다. 금방 끝날 줄 알았는데 3시간을 하더라”며 영화 대사로 답을 대신했다. 이상민은 “‘존윅’을]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[광희 질투하겠네..하하 막내딸 송 "이이경 삼촌이 더 좋아"]]></title>
-        <id>https://v.daum.net/v/20230509233035786</id>
-        <link href="https://v.daum.net/v/20230509233035786"/>
-        <updated>2023-05-09T15:11:31.769Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 | 김지은 인턴기자] /사진= '하하버스' 화면 캡처가수 하하, 별 부부의 둘째 아들 소울이 배우 이이경에 대한 애정을 표현했다. 9일 방송된 ENA, AXN, K-STAR 예능 '하하버스'에서는 이이경이 하하 가족의 경주 여행에 합류한 모습이 그려졌다. 소울은 이야기를 잘 들어주는 이이경에게 "이름이 뭐예요?"라며 관심을 보였다. 이이경은]]></content>
     </entry>
 </feed>
