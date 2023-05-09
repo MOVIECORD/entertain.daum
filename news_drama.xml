@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-05-09T03:12:14.283Z</updated>
+    <updated>2023-05-09T04:12:47.002Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[임성한 작가, 판타지 멜로 드라마 ‘아씨 두리안’으로 귀환]]></title>
+        <id>https://v.daum.net/v/20230509130954309</id>
+        <link href="https://v.daum.net/v/20230509130954309"/>
+        <updated>2023-05-09T04:12:31.658Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 박수인 기자] 피비(임성한) 작가가 판타지 멜로 드라마로 귀환한다. 오는 6월 첫 방송될 TV조선 새 주말미니시리즈 ‘아씨 두리안’(극본 피비(Phoebe,임성한)/연출 신우철, 정여진 /제작 바른손스튜디오, 하이그라운드)은 기묘하고 아름다운 판타지 멜로 드라마다. ‘아씨 두리안’은 단씨 집안의 별장에서 성대한 파티가 열리고 때마침 월식이 진행된]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['우영우' 제작사 에이스토리, 라인업 발표…글로벌 활약 예고]]></title>
         <id>https://v.daum.net/v/20230509115915627</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230509104409253"/>
         <updated>2023-05-09T02:04:04.331Z</updated>
         <content type="html"><![CDATA[[스타뉴스 | 김나연 기자] 멤피스 / 사진=쇼노트뮤지컬 '멤피스'가 오는 7월 20일 충무아트센터 대극장에서 한국 초연의 막을 올린다. 뮤지컬 '멤피스'는 1950년대 흑인 음악을 백인 사회에 널리 알린 전설적인 인물, DJ 듀이 필립스(Deway Philips)의 실화를 바탕으로 한다. 1950년대 흑인과 백인이 분리된 미국 남부 도시 멤피스를 배경으]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김선아, "복수 향한 거침없는 질주"]]></title>
-        <id>https://v.daum.net/v/20230509104316225</id>
-        <link href="https://v.daum.net/v/20230509104316225"/>
-        <updated>2023-05-09T02:04:04.333Z</updated>
-        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]‘가면의 여왕’의 김선아와 오윤아가 ‘가면맨’ 이정진의 실체를 밝히기 위해 손잡았다. 지난 8일 밤 방송된 채널A 월화드라마 ‘가면의 여왕’(연출 강호중/ 극본 임도완/ 제작 더그레이트쇼, 래몽래인/ 기획 채널A) 5회에서는 10년 전 ‘가면맨’이 쓴 피 묻은 가면을 손에 넣은 도재이(김선아 분)가 송제혁(이정진 분)을 향해]]></content>
     </entry>
 </feed>
