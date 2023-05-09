@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-05-09T14:11:43.930Z</updated>
+    <updated>2023-05-09T15:11:42.128Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[비욘세, 월드투어로 '3조 4천억' 번다...테일러 보다 '8천억' 많아]]></title>
+        <id>https://v.daum.net/v/20230509233030785</id>
+        <link href="https://v.daum.net/v/20230509233030785"/>
+        <updated>2023-05-09T15:11:41.476Z</updated>
+        <content type="html"><![CDATA[[TV리포트=유비취 기자] 월드 투어 수익에서 가수 비욘세가 테일러 스위프트의 수익을 뛰어넘을 것으로 예상된다. 8일(현지 시간) 미국 경제매체 포브스에 따르면 비욘세의 '르네상스 월드 투어'가 역대급으로 불린 테일러 스위프트의 '에라스 투어'보다 약 6억 달러(한화 약 7,950억 원) 더 벌어들인다. 비욘세(41)는 오는 10일 스웨덴 스톡홀롬 프렌즈]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[톰 행크스, 차기 제임스 본드로 '흑인 배우' 지목]]></title>
         <id>https://v.daum.net/v/20230509223215467</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230509160750923"/>
         <updated>2023-05-09T07:10:29.908Z</updated>
         <content type="html"><![CDATA[(엑스포츠뉴스 이창규 기자) 미국의 팝스타 브리트니 스피어스가 집필 중인 자서전의 제작이 갑작스럽게 중단돼 이목이 집중된다. 8일(현지시간) 영국의 타블로이드 더 선은 브리트니 스피어스의 자서전이 두 할리우드 스타의 불륜을 주장하는 내용에 대한 우려로 인해 출간이 잠정 중단됐다고 단독보도했다. 한 소식통은 해당 내용에 대해 "브리트니는&nbsp;잔인할 정도로 솔직하]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[영화 촬영 중 사망한 故 레이 리오타...1년 만에 사인 밝혀졌다]]></title>
-        <id>https://v.daum.net/v/20230509160716910</id>
-        <link href="https://v.daum.net/v/20230509160716910"/>
-        <updated>2023-05-09T07:10:29.911Z</updated>
-        <content type="html"><![CDATA[[TV리포트=이수연 기자] 할리우드 배우 레이 리오타의 사인이 1년 만에 공개됐다. 8일(현지 시간) 미국 매체 TMZ는 레이 리오타의 사인을 공개했다. 레이 리오타는 지난해 5월 26일 영화 '댄저러스 워터스' 촬영을 위해 머물고 있던 도미니칸 공화국에서 사망했다. 잠을 자고 있던 도중 숨을 거둔 것으로 알려졌다. 향년 68세. 도미니칸 공화국 측은 그]]></content>
     </entry>
 </feed>
