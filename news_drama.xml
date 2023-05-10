@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-05-10T20:13:44.159Z</updated>
+    <updated>2023-05-10T21:11:54.247Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘역사스테이 시즌3’ 성명주 PD “역사와 여행의 밸런스 맞췄죠”]]></title>
+        <id>https://v.daum.net/v/20230511060219776</id>
+        <link href="https://v.daum.net/v/20230511060219776"/>
+        <updated>2023-05-10T21:11:36.032Z</updated>
+        <content type="html"><![CDATA[10일 오후 서울 마포구 TBS 사옥서 성명주 PD와 김수인 PD가 인터뷰를 진행하고 있다. (사진=TBS)[이데일리 스타in 유준하 기자] “이번 시즌서 차별점은 역사 얘기를 하지만 여행의 요소를 좀 담았어요. 이전 시즌에서는 역사 하나만 집중했다면 이번에는 달샤벳 수빈 씨나 안젤리나 씨를 섭외해 좀 더 다양한 면을 보여드리고자 합니다.” 10일 오후]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['스틸러' 주원♥이주우, 위기 속 러브라인 급물살]]></title>
+        <id>https://v.daum.net/v/20230511053144407</id>
+        <link href="https://v.daum.net/v/20230511053144407"/>
+        <updated>2023-05-10T21:11:36.033Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 이이진 기자) '스틸러: 일곱 개의 조선통보' 주원이 이주우에게 자신이 스컹크라는 사실을 밝혔다. 10일 방송된 tvN '스틸러: 일곱 개의 조선통보' 9회에서는 최민우(이주우 분)가 황대명(주원)이 스컹크라는 사실을 알게 된 모습이 그려졌다. 이날 황대명은 스컹크로 변장한 채 무궁화 재단 연수원에 잠입했다. 최민우는 황대명과 동행했고, 황대]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이도현 "아이유 보다 더 예뻐"…라미란에 특급 애교]]></title>
         <id>https://v.daum.net/v/20230511002144872</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230510214058014"/>
         <updated>2023-05-10T15:10:50.757Z</updated>
         <content type="html"><![CDATA[[스타뉴스 | 이빛나리 기자] /사진='비밀의 여자' 방송화면'비밀의 여자' 최윤영이 이채영을 협박했다. 10일 오후 방송된 KBS 2TV 일일드라마 '비밀의 여자'에서 오세린(최윤영 분)은 주애라(이채영 분)가 남유진(한기웅 분)을 잡기 위해 가짜 교통사고를 꾸몄다는 사실을 알았다. 이날 오세린은 주애라에 음성파일 하나를 공개했다. 음성파일에는 자신]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김시후, 윤다영 두고 다른여자와 하룻밤...아버지 미행에 딱 걸렸다]]></title>
-        <id>https://v.daum.net/v/20230510210715475</id>
-        <link href="https://v.daum.net/v/20230510210715475"/>
-        <updated>2023-05-10T12:20:29.285Z</updated>
-        <content type="html"><![CDATA[[TV리포트=김유진 기자]김시후가 윤다영을 두고 다른 여자와 하룻밤을 보냈다. 10일 방영된 KBS '금이야옥이야' 33회에서는 주혁이 다른 여자와 밀회를 즐기는 모습이 전파를 탔다. 주혁은 옥미래(윤다영)과 통화하며 "사랑해"라며 전화를 끊자마자 다른 여자와 함께 어디론가 향했다. 옆에 있던 여자는 "다정하네? 라면서도 이거!"라며 열쇠를 건넸고 이어 "]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['하늘의 인연' 김시하, 김유석 친父 사실 알고 '충격']]></title>
-        <id>https://v.daum.net/v/20230510203310592</id>
-        <link href="https://v.daum.net/v/20230510203310592"/>
-        <updated>2023-05-10T12:20:29.286Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 | 김지은 인턴기자] /사진='하늘의 인연' 화면 캡처'하늘의 인연' 김시하가 김유석이 친부라는 사실을 알게 됐다. 10일 오후 방송된 MBC 일일드라마 '하늘의 인연' 18회에서는 이해인(김시하 분)이 본인을 살해하려한 강치환(김유석 분)이 친아빠라는 이야기를 듣게 됐다. 이날 잠든 이해인을 업고 산길을 걷던 윤이창(이훈 분)과 나정임(조은]]></content>
     </entry>
 </feed>
