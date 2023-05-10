@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-05-10T08:13:32.102Z</updated>
+    <updated>2023-05-10T09:11:37.551Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘스파이더맨’ 톰 홀랜드, 알코올중독 벗어나 “1년 4개월간 금주했다”]]></title>
+        <id>https://v.daum.net/v/20230510175643918</id>
+        <link href="https://v.daum.net/v/20230510175643918"/>
+        <updated>2023-05-10T09:11:36.947Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]‘스파이더맨’ 톰 홀랜드(26)가 1년 4개월간 금주했다고 밝혔다. 그는 2020년 4월 지미 키밀 라이브에 출연했을 때 술을 끊고 싶다고 말한 바 있다. 홀랜드는 9일(현지시간) 엔터테인먼트 위클리와 인터뷰에서 1년 4개월째 술을 마시지 않았다고 밝히며 새로운 작품에서 본인의 정신건강을 돌아봤다고 말했다. 그는 애플 TV]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[톰 홀랜드, 드라마 찍으며 멘탈 붕괴 “머리 빡빡 밀까 고민”]]></title>
+        <id>https://v.daum.net/v/20230510174145479</id>
+        <link href="https://v.daum.net/v/20230510174145479"/>
+        <updated>2023-05-10T09:11:36.958Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 배효주 기자] 톰 홀랜드가 1년 4개월 동안 금주했다고 밝혔다. 5월 10일(현지시간) 해외 매체 엔터테인먼트 위클리에 따르면, 톰 홀랜드는 애플TV+ 드라마 '더 크라우디드 룸(The Crowded Room)'에 출연하면서 정신 건강에 대해 깨우치게 됐다고 밝혔다. 극중 톰 홀랜드는 본인이 저지르지 않은 범죄로 체포돼 곤경에 처한 '대니 설리번]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[에드 시런, '표절 소송' 승소 결정적 이유 밝혔다]]></title>
         <id>https://v.daum.net/v/20230510171030443</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230510141716363"/>
         <updated>2023-05-10T06:14:20.121Z</updated>
         <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]아카데미 남우주연상에 빛나는 배우 로버트 드 니로(79)가 7번째 아이를 낳은 것에 대한 소감을 전했다. 그는 9일(현지시간) 페이지식스와 인터뷰에서 79살에 다시 아빠가 된 것에 대해 놀랐냐는 질문에 “아니다”라고 단호하게 말했다. 이어 “어떻게 그런 일을 계획하지 않을 수 있겠는가?”라고 되물었다. 그는 아직 아기의]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“톰 크루즈, 14세 연하 샤키라에 반해 꽃 보냈다”]]></title>
-        <id>https://v.daum.net/v/20230510140548859</id>
-        <link href="https://v.daum.net/v/20230510140548859"/>
-        <updated>2023-05-10T05:10:38.061Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 이민지 기자] 배우 톰 크루즈가 가수 샤키라에게 빠졌다는 보도가 나왔다. 페이지식스는 5월 9일(현지시간) 톰 크루즈가 14세 연하 샤키라를 쫓아다닌다고 전했다. 톰 크루즈와 샤키라는 지난 주말 마이애미에서 열린 F1 그랑프리에서 함께 어울리는 모습이 포착됐다. 한 소식통은 "톰 크루즈가 샤키라에게 매우 관심이 있다"라고 전했다. 또 "톰]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["서희원, 돈 많이 줘도 배우 복귀 NO"…♥구준엽 내조 전념]]></title>
-        <id>https://v.daum.net/v/20230510132255532</id>
-        <link href="https://v.daum.net/v/20230510132255532"/>
-        <updated>2023-05-10T05:10:38.062Z</updated>
-        <content type="html"><![CDATA[대만 배우 서희원이 연예계에 복귀하지 않고 남편 구준엽 내조에만 전념할 것으로 알려졌다. 10일 대만 징저우칸 보도에 따르면 서희원 동생 서희제는 한 제작발표회에서 언니 서희원의 연예계 복귀 가능성에 대한 입장을 밝혔다. 서희제는 서희원의 배우 컴백에 대해 "아무리 돈을 많이 받아도 안 할 것"이라며 "연기에 대한 애착이 큰 편은 아니다"고 답했다.]]></content>
     </entry>
 </feed>
