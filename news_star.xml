@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2023-05-10T15:11:09.293Z</updated>
+    <updated>2023-05-10T17:10:48.469Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['나는 SOLO' 14기 옥순vs현숙, 영수 쟁탈전]]></title>
+        <id>https://v.daum.net/v/20230511001744842</id>
+        <link href="https://v.daum.net/v/20230511001744842"/>
+        <updated>2023-05-10T17:10:42.850Z</updated>
+        <content type="html"><![CDATA[[티브이데일리 이기은 기자] '나는 SOLO' 14기 옥순, 현숙 기싸움이 시작됐다. 10일 밤 방송된 SBS 플러스 예능프로그램 ‘나는 SOLO'(나는 솔로)에서는 40대 골드미스, 미스터 14기 영수, 광수, 영호, 영철, 옥순, 영숙, 정숙, 순자, 영자, 현숙 등의 썸 과정이 드러났다. 이날 영수 향한 관심을 표출하는 여성은 옥순, 현숙 두 명이었다]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘라스’ 손준호, ‘♥김소현’ 쇼윈도 부부 해명 “호캉스 갔다 오해 받아”]]></title>
         <id>https://v.daum.net/v/20230511000901768</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230510232831356"/>
         <updated>2023-05-10T15:11:03.282Z</updated>
         <content type="html"><![CDATA[[TV리포트=이혜미 기자] 배우 안효섭이 “잠자는 시간이 아깝다”는 발언으로 이성경을 놀라게 했다. 10일 ‘SBS Catch’ 채널에는 “안효섭X이성경, 치아가 쏟아질 것 같아요”라는 제목의 영상이 업로드 됐다. 영상 속 안효섭과 이성경은 각각 의사와 환자 콘셉트로 상황극에 나선 모습. 이 자리에서 환자 역의 이성경은 “은재에게 우진이란?”이란 질문을 받]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[손준호♥김소현 '쇼윈도 부부설' 해명…"호캉스 갔다가 오해받아" 억울]]></title>
-        <id>https://v.daum.net/v/20230510232754347</id>
-        <link href="https://v.daum.net/v/20230510232754347"/>
-        <updated>2023-05-10T15:11:03.283Z</updated>
-        <content type="html"><![CDATA[(서울=뉴스1) 이지현 기자 = 손준호가 아내와의 '쇼윈도 부부설'에 대해 해명했다. 10일 오후 방송된 MBC 예능 프로그램 '라디오스타'에서는 뮤지컬 배우 손준호가 게스트로 출연한 가운데 아내이자 동료인 김소현을 언급했다. MC들이 먼저 "쇼윈도 부부설이 있었다던데"라는 질문을 하자, 손준호가 입을 열었다. 그는 "가족끼리 호캉스(호텔+바캉스의]]></content>
     </entry>
 </feed>

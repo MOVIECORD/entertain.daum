@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-05-10T15:11:09.289Z</updated>
+    <updated>2023-05-10T17:10:48.470Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이도현 "아이유 보다 더 예뻐"…라미란에 특급 애교]]></title>
+        <id>https://v.daum.net/v/20230511002144872</id>
+        <link href="https://v.daum.net/v/20230511002144872"/>
+        <updated>2023-05-10T17:10:32.652Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 오승현 기자) '나쁜엄마' 이도현이 반려견을 키우기 위해 라미란에게 특급 애교를 선보였다. 10일 방송한 JTBC 수목드라마 '나쁜엄마' 5회에서는 7살이 된 강호(이도현 분)가 영순(라미란)에게 강아지를 갖고 싶다고 떼를 썼다. "나 갖고 싶은 것이 있다. 강아지다"라고 고백한 강호는 계속 영순에게 떼를 썼다. 자신을 빤히 바라보는 강호에]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['나쁜엄마' 정웅인, 대선 준비로 예민 "이도현 정리하자"]]></title>
         <id>https://v.daum.net/v/20230511000807762</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230510203310592"/>
         <updated>2023-05-10T12:20:29.286Z</updated>
         <content type="html"><![CDATA[[스타뉴스 | 김지은 인턴기자] /사진='하늘의 인연' 화면 캡처'하늘의 인연' 김시하가 김유석이 친부라는 사실을 알게 됐다. 10일 오후 방송된 MBC 일일드라마 '하늘의 인연' 18회에서는 이해인(김시하 분)이 본인을 살해하려한 강치환(김유석 분)이 친아빠라는 이야기를 듣게 됐다. 이날 잠든 이해인을 업고 산길을 걷던 윤이창(이훈 분)과 나정임(조은]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[최윤영, 이채영 뺑소니 조작 눈치챘다…"누구 찾아?"]]></title>
-        <id>https://v.daum.net/v/20230510201439177</id>
-        <link href="https://v.daum.net/v/20230510201439177"/>
-        <updated>2023-05-10T12:20:29.288Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 김현숙 기자) '비밀의 여자' 이채영이 최윤영한테 한 방을 먹였다. 10일 방송된 KBS 2TV 일일드라마 '비밀의 여자'에서는 주애라(이채영 분)가 오세린(최윤영)보다 한 발 앞서 계획에 실행한 모습이 전파를 탔다. 오세린은 주애라가 남유진(한기웅)에게 사망자의 신상이라며 건넸던 실종자 전단지를 발견했다. 하지만 이 사람은 봉사활동 당시 무]]></content>
     </entry>
 </feed>
