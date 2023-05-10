@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-05-10T22:12:52.102Z</updated>
+    <updated>2023-05-10T23:11:32.527Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“신장 이식 받고도 술 안 끊어” 셀레나 고메즈, 기증해준 절친에 손절]]></title>
+        <id>https://v.daum.net/v/20230511074044961</id>
+        <link href="https://v.daum.net/v/20230511074044961"/>
+        <updated>2023-05-10T23:11:31.880Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 이민지 기자] 셀레나 고메즈가 친구에게 손절 당한 이유가 공개됐다. TMZ는 5월 9일(현지시간) 셀레나 고메즈가 친구 프란시아 레이사에게 신장 이식을 받은 후에도 술을 마셨다고 보도했다. 셀레나 고메즈와 프란시아 레이사는 2007년부터 친구로 지내왔으며 서로를 자매라 부를 정도로 절친한 사이였다. 특히 프란시아 레이사는 셀레나 고메즈가 투병]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[스칼렛 요한슨 "제레미 레너 병문안 가...다신 못 보는 줄"]]></title>
         <id>https://v.daum.net/v/20230511070216508</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230510175643918"/>
         <updated>2023-05-10T09:11:36.947Z</updated>
         <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]‘스파이더맨’ 톰 홀랜드(26)가 1년 4개월간 금주했다고 밝혔다. 그는 2020년 4월 지미 키밀 라이브에 출연했을 때 술을 끊고 싶다고 말한 바 있다. 홀랜드는 9일(현지시간) 엔터테인먼트 위클리와 인터뷰에서 1년 4개월째 술을 마시지 않았다고 밝히며 새로운 작품에서 본인의 정신건강을 돌아봤다고 말했다. 그는 애플 TV]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[톰 홀랜드, 드라마 찍으며 멘탈 붕괴 “머리 빡빡 밀까 고민”]]></title>
-        <id>https://v.daum.net/v/20230510174145479</id>
-        <link href="https://v.daum.net/v/20230510174145479"/>
-        <updated>2023-05-10T09:11:36.958Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 배효주 기자] 톰 홀랜드가 1년 4개월 동안 금주했다고 밝혔다. 5월 10일(현지시간) 해외 매체 엔터테인먼트 위클리에 따르면, 톰 홀랜드는 애플TV+ 드라마 '더 크라우디드 룸(The Crowded Room)'에 출연하면서 정신 건강에 대해 깨우치게 됐다고 밝혔다. 극중 톰 홀랜드는 본인이 저지르지 않은 범죄로 체포돼 곤경에 처한 '대니 설리번]]></content>
     </entry>
 </feed>
