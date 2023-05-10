@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-05-10T03:12:15.669Z</updated>
+    <updated>2023-05-10T04:13:18.688Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['바람개비' 서지후, 차선우-유지애와 삼각구도 형성]]></title>
+        <id>https://v.daum.net/v/20230510130145051</id>
+        <link href="https://v.daum.net/v/20230510130145051"/>
+        <updated>2023-05-10T04:12:52.400Z</updated>
+        <content type="html"><![CDATA[[OSEN=김보라 기자] 배우 서지후가 영화 '바람개비'에서 무공해 매력으로 관객의 마음을 두드린다. '바람개비'(감독 이상훈, 배급 디스테이션, 제작 한류닷컴・오예스)는 추억과 상처로 뒤얽힌 청춘들의 밝지 만은 않은 삶과 사랑을 그린 청춘 누와르 영화. 음악영화 '아이윌 송'(2021)을 통해 청춘들의 이야기를 그렸던 이상훈 감독이 메가폰을 잡았다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['택배기사' 조의석 감독 "디스토피아 세계관, '정이'·'사냥의 시간'과 달라"]]></title>
         <id>https://v.daum.net/v/20230510115911742</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230510111344254"/>
         <updated>2023-05-10T02:34:39.533Z</updated>
         <content type="html"><![CDATA[[OSEN=김보라 기자]&nbsp;디즈니 실사 뮤지컬 영화 '인어공주'가 로스앤젤레스에서 진행된 월드 프리미어에서 최초 공개된 이후 폭발적인 리액션을 얻고 있다. '인어공주'(감독 롭 마샬, 수입배급 월트디즈니 컴퍼니 코리아)는 늘 바다 너머의 세상을 꿈꾸던 모험심 가득한 인어공주 에리얼(할리 베일리)이 조난당한 에릭 왕자(조나 하우어 킹)를 구해주며 자신의 마]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김강현x차선우 '안나푸르나', 6월 8일 극장 개봉 확정]]></title>
-        <id>https://v.daum.net/v/20230510110344810</id>
-        <link href="https://v.daum.net/v/20230510110344810"/>
-        <updated>2023-05-10T02:34:39.534Z</updated>
-        <content type="html"><![CDATA[[OSEN=김보라 기자] 영화 '안나푸르나'가 내달 8일 개봉 확정과 함께 메인 포스터를 전격 공개했다. '안나푸르나'(감독 황승재, 제작 필름 인시즌, 배급 시네마뉴원)는 선배 강현이 막 제대한 후배 선우를 오랜만에 만나 함께 산행을 하며 이루지 못한 사랑과 미성숙했던 관계를 복기하는 이야기를 그린다. 10일 공개된 메인 포스터는 온통 초록빛 봄 햇살]]></content>
     </entry>
 </feed>
