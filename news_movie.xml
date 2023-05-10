@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-05-10T06:14:20.753Z</updated>
+    <updated>2023-05-10T07:12:24.411Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[한국인은 공감하지 못하는 '한국 귀신' 이야기]]></title>
+        <id>https://v.daum.net/v/20230510155104114</id>
+        <link href="https://v.daum.net/v/20230510155104114"/>
+        <updated>2023-05-10T07:12:01.733Z</updated>
+        <content type="html"><![CDATA[[윤일희 기자] 지인이나 친구들과 얘기하다 보면, 참 사는 게 다르구나 하다가도 한 지점에서 만나지는 경우가 있다. 자신들의 엄마나 현재 자신들의 엄마 됨에 관한 주제에서다. 물론 이 또한 격차가 크지만, 그 지난함과 가해와 피해가 중첩된 애증이 교차하는 지점에서 공통된 감정을 만나게 된다. 나 또한, 아들에게 허용한 자유와 꿈을 딸인 내게는 허락하지 않은]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[방탄소년단 지민, 할리우드 블록버스터 영화 OST 크레딧에 있는 이름]]></title>
+        <id>https://v.daum.net/v/20230510154502893</id>
+        <link href="https://v.daum.net/v/20230510154502893"/>
+        <updated>2023-05-10T07:12:01.734Z</updated>
+        <content type="html"><![CDATA[[텐아시아=강민경 기자] 그룹 방탄소년단 지민의 이름이 개봉을 앞둔 영화 '분노의 질주: 라이드 오어 다이' OST에 참여했다. 그는 마블 영화 '이터널스'에 이어 두 번째로 할리우드 블록버스터 영화 OST 크레딧에 이름을 올리게 됐다. 10일 '분노의 질주: 라이드 오어 다이(이하 분노의 질주 10)' 배급사 유니버설 픽쳐스에 따르면 지민이 OST ']]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[자연과 즐기는 영화부터 동굴 속으로 떠나는 여행…'이 중에 네가 좋아하는 영화제 하나는 있겠지']]></title>
         <id>https://v.daum.net/v/20230510150922318</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230510115911742"/>
         <updated>2023-05-10T03:11:52.316Z</updated>
         <content type="html"><![CDATA[[스포츠조선 문지연 기자] '택배기사'가 디스토피아 세계관 속 차별점을 언급했다. 넷플릭스 새 오리지널 시리즈 '택배기사'(조의석 극본, 연출) 제작발표회가 10일 오전 서울 영등포구의 프로보크 서울에서 진행됐다. 행사에는 김우빈, 송승헌, 강유석, 이솜, 조의석 감독이 참석했다. 최근 디스토피아적 세계관을 담아낸 작품이 줄이어 등장했지만,]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘택배기사’ 김우빈 “이솜과 12년만에 재회, 잘 살아남았구나 싶었다”]]></title>
-        <id>https://v.daum.net/v/20230510115815713</id>
-        <link href="https://v.daum.net/v/20230510115815713"/>
-        <updated>2023-05-10T03:11:52.321Z</updated>
-        <content type="html"><![CDATA[배우 김우빈이 이솜과 12년 만에 OTT플랫폼 넷플릭스 시리즈 ‘택배기사’로 재회한 반가운 마음을 표현했다. 김우빈은 10일 오전 서울 영등포구 프로보크 서울에서 진행된 ‘택배기사’ 제작발표회에서 ‘화이트 크리스마스’(2011) 이후 이솜과 다시 만난 소감을 묻자 “너무나 반가운 마음이 컸다. 이솜과 많은 얘기 나눴는데, ‘우리가 잘 살아남았구나’ 싶]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['택배기사' 강유석 "감독님, '액션 괴물 되면 좋겠다'고..쉬운 일 아냐"]]></title>
-        <id>https://v.daum.net/v/20230510115344570</id>
-        <link href="https://v.daum.net/v/20230510115344570"/>
-        <updated>2023-05-10T03:11:52.339Z</updated>
-        <content type="html"><![CDATA[[스포츠조선 문지연 기자] 배우 강유석이 액션 소감을 밝혔다. 넷플릭스 새 오리지널 시리즈 '택배기사'(조의석 극본, 연출) 제작발표회가 10일 오전 서울 영등포구의 프로보크 서울에서 진행됐다. 행사에는 김우빈, 송승헌, 강유석, 이솜, 조의석 감독이 참석했다. 강유석은 "작품을 하기로 하고 처음 하신 말씀이 '액션 괴물이 되면 좋겠다'고]]></content>
     </entry>
 </feed>
