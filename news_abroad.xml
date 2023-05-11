@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-05-11T21:09:50.384Z</updated>
+    <updated>2023-05-11T22:10:12.102Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['토막 살해' 애비 초이, 못 찾은 부위 3D프린터로 재건한다]]></title>
+        <id>https://v.daum.net/v/20230512061714877</id>
+        <link href="https://v.daum.net/v/20230512061714877"/>
+        <updated>2023-05-11T22:10:11.479Z</updated>
+        <content type="html"><![CDATA[[TV리포트=박설이 기자]토막 살해를 당해 홍콩 사회에 큰 충격을 안긴 모델 애비 초이의 장례식이 6월 치러진다. 10일 홍콩 다수 매체 보도에 따르면 애비 초이의 장례식은 오는 6월 18일 진행되며, 다음날 발인해 홍콩 포푹힐 추모관에 안치된다. 애비 초이 측은 홍콩 매체에 고인의 장례식에서는 일반 조문을 받지는 않을 예정이며, 외부인 출입을 막기 위해]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['아쿠아맨' 돌프 룬드그렌..."8년 암 투병에도 영화 촬영했다"]]></title>
         <id>https://v.daum.net/v/20230512040714233</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230511161216294"/>
         <updated>2023-05-11T08:14:00.754Z</updated>
         <content type="html"><![CDATA[[TV리포트=이예은 기자] 할리우드 배우 린제이 로한이 '프리키 프라이데이' 후속작으로 돌아온다.&nbsp; 외신 연예 매체 버라이어티는 10일(현지 시간) 배우 린제이 로한과 제이미 리 커티스가 영화 '프리키 프라이데이' 후속작으로 복귀를 논의 중이라고 보도했다.&nbsp; '프리키 프라이데이'는 테스 콜만 박사(제이미 리 커터스 분)와 고등학교에 다니는 딸 애나(린제이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[셀레나 고메즈에 신장 주고 팬들 악플에 시달리고 “고통스러워”]]></title>
-        <id>https://v.daum.net/v/20230511153745555</id>
-        <link href="https://v.daum.net/v/20230511153745555"/>
-        <updated>2023-05-11T07:11:01.971Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 이민지 기자] 셀레나 고메즈에게 장기 기증한 옛 절친이 악플 테러를 받고 있다. 최근 TMZ 보도에 따르면 셀레나 고메즈에게 신장을 기증한 친구 프란시아 레이사가 셀레나 고메즈 팬들의 악플에 시달리고 있다. 프란시아 레이사는 셀레나 고메즈에게 신장을 기증했으나 두 사람 사이가 틀어지며 절교한 상태다. 프란시아 레이사는 "상황이 너무 나빠져]]></content>
     </entry>
 </feed>
