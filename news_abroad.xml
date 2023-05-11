@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-05-11T08:14:01.341Z</updated>
+    <updated>2023-05-11T09:11:33.400Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[제이미 폭스, 한 달째 입원..."생각보다 심각한 상태"]]></title>
+        <id>https://v.daum.net/v/20230511175215096</id>
+        <link href="https://v.daum.net/v/20230511175215096"/>
+        <updated>2023-05-11T09:11:32.598Z</updated>
+        <content type="html"><![CDATA[[TV리포트=이수연 기자] 할리우드 배우 제이미 폭스가 건강 악화로 인해 병원에서 입원 치료를 이어가고 있다. 9일(현지 시간) 매체 레이다온라인은 "제이미 폭스가 완전히 회복할 것이라는 희망을 품고 있지만 측근들은 '최악의 상황'을 준비하고 있다"고 보도했다. 지난달 폭스는 넷플릭스 오리지널 영화 '백 인 액션' 촬영 중 건강이 급격하게 악화돼 입원]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['자녀 12명' 닉 캐논 "매년 '천억' 버니까 걱정하지 마"]]></title>
+        <id>https://v.daum.net/v/20230511171715928</id>
+        <link href="https://v.daum.net/v/20230511171715928"/>
+        <updated>2023-05-11T09:11:32.598Z</updated>
+        <content type="html"><![CDATA[[TV리포트=이수연 기자] 머라이어 캐리의 전 남편 닉 캐논이 연 수입을 공개했다. 현지 매체 로스앤젤레스 타임즈는 폴리아모리(다자 연애)로 12명 자녀의 아빠가 된 닉 캐논과의 인터뷰를 공개했다. 그는 6명의 여성들로부터 얻은 11명의 자녀를 육아하고 있는 것에 대해 "내 생활 방식에 대해 생각하면, 나는 적어도 1년에 1억 달러(한화 약 1325억 40]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[토르X로켓 조합 다시 못 보나...제임스 건 "그렇다"]]></title>
         <id>https://v.daum.net/v/20230511170317452</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230511095015760"/>
         <updated>2023-05-11T00:54:01.307Z</updated>
         <content type="html"><![CDATA[[OSEN=박소영 기자] 휘트니 포트가 또다시 레오나르도 디카프리오와 썸 탔던 때를 언급했다. 휘트니 포트는 최근 한 프로그램에 출연해 “과거 클럽에서 디카프리오를 우연히 만나 번호를 교환했다. 6개월 동안 문자를 주고 받으며 인연을 맺었다. 정말 정말 즐거웠다”고 회상했다. 이어 그는 “어느 날 클럽에서 디카프리오가 나를 집으로 불렀다. 나는 엄마에게]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[브리트니, 콜렌 파렐과 불륜설에 입연다…하룻밤 루머 언급]]></title>
-        <id>https://v.daum.net/v/20230511092848747</id>
-        <link href="https://v.daum.net/v/20230511092848747"/>
-        <updated>2023-05-11T00:54:01.310Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 황혜진 기자] 미국 가수 브리트니 스피어스(Britney Spears)가 아일랜드 출신 배우 콜린 파렐(Colin Farrell)과의 불륜설에 입을 열 예정이다. 영국 일간지 더 선(THE SUN)은 5월 9일(현지시간) "브리트니 스피어스가 자서전에서 2003년 콜린 파렐과의 로맨스에 대해 언급할 것"이라고 전했다. 보도에 따르면 브리트니 스피]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘아쿠아맨’ 65살 배우 “신장암 투병중, 2~3년밖에 못산다는 말들어” 안타까움]]></title>
-        <id>https://v.daum.net/v/20230511092116445</id>
-        <link href="https://v.daum.net/v/20230511092116445"/>
-        <updated>2023-05-11T00:54:01.311Z</updated>
-        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]영화 ‘록키4’ ‘아쿠아맨’ 등으로 유명한 돌프 룬드그렌(65)이 신장암 투병 소식을 전했다. 10일(현지시간) 페이지식스에 따르면, 그는 ‘그레이엄 베싱어와 함께하는 인뎁스’ 에피소드에 출연해 2015년에 신장암 진단을 받았다고 밝혔다. 그는 “신장에서 종양을 발견하고 제거했지만 생검을 해보니 암이었다”면서 “그 후 6개]]></content>
     </entry>
 </feed>
