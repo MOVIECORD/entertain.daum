@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-05-11T06:15:55.446Z</updated>
+    <updated>2023-05-11T07:11:02.856Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이연희, 예쁨 내려놓고 '열혈 직장인' 변신]]></title>
+        <id>https://v.daum.net/v/20230511155243243</id>
+        <link href="https://v.daum.net/v/20230511155243243"/>
+        <updated>2023-05-11T07:10:43.731Z</updated>
+        <content type="html"><![CDATA[[OSEN=박소영 기자] 배우 이연희가&nbsp;‘열혈 직장인’으로 완벽 변신,&nbsp;인생 캐릭터 경신을 예고했다. 배우 이연희가 디즈니+의 오리지널 시리즈&nbsp;‘레이스’에서 열정 가득한 홍보인으로 변신,&nbsp;성공적인 첫 출발을 알렸다. ‘레이스’는 스펙은 없지만 열정 하나로 대기업에 입사하게 된 박윤조(이연희 분)가 채용 스캔들에 휘말리며,&nbsp;버라이어티한 직장 생활에서 살아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[방탄소년단 타이틀곡 부른 ‘베스티언즈’ 미국 방영 확정]]></title>
         <id>https://v.daum.net/v/20230511145619473</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230511113514741"/>
         <updated>2023-05-11T03:11:20.783Z</updated>
         <content type="html"><![CDATA[[엔터미디어=정덕현] "부모 자식이 그런 거여. 가타부타 말 안혀도 낯빛만 보면 다 알재. 내 속으로 난 새끼가 어느 날 딱 나타났는디, 서방 놈 바람 나 도망가고 빚쟁이들한테 집안 풍비박산 나서 눈앞이 캄캄했던 그 때 내 얼굴이 돼서 돌아왔어. 근디.. 어떻게 모르겄어... 얼마나 힘들었냐?" JTBC 수목드라마 &lt;나쁜 엄마&gt;에서 정씨(강말금)는 갑자기]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[시청자 취향 다변화..‘약한영웅’→‘모범택시2’, 비로맨스·시즌제 해외에서 通했다]]></title>
-        <id>https://v.daum.net/v/20230511113016497</id>
-        <link href="https://v.daum.net/v/20230511113016497"/>
-        <updated>2023-05-11T03:11:20.784Z</updated>
-        <content type="html"><![CDATA[[OSEN=김채연 기자] K-드라마를 소비하는 글로벌 시청자의 취향이 다변화·다양화되고 있다. 11일 글로벌&nbsp;OTT&nbsp;플랫폼 라쿠텐 비키(Rakuten Viki)에 따르면 최근 미주와 유럽,&nbsp;오세아니아 및 중동·인도 등에서&nbsp;'약한 영웅'과&nbsp;'방과 후 전쟁활동', '어쩌다 마주친 그대'&nbsp;등의 비(非)&nbsp;로맨스 장르를 비롯해&nbsp;'모범택시', '낭만닥터 김사부'&nbsp;]]></content>
     </entry>
 </feed>
