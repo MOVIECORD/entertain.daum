@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-05-11T09:11:33.403Z</updated>
+    <updated>2023-05-11T10:12:00.559Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[송중기·제니만 있나‥영화 학도들 작품 두 편도 칸 초청]]></title>
+        <id>https://v.daum.net/v/20230511184945568</id>
+        <link href="https://v.daum.net/v/20230511184945568"/>
+        <updated>2023-05-11T10:11:35.858Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 배효주 기자] 한국 장편영화 다섯 편이 칸 국제영화제에 초청된 가운데, 학생들의 졸업 작품 두 편도 칸에서 선을 보인다. 5월 16일부터 27일까지 프랑스 칸에서 열리는 제76회 칸 국제영화제 '라 시네프' 부문에 한국영화 2편이 초청됐다. 전 세계 영화학교 학생들의 작품을 선보이는 부문으로, 지난 2021년 윤대원 감독 연출작 '매미'가 2등]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['무명' 청얼 감독과 양조위의 만남 "양조위, 액션 대역 쓰지 않아···순수한 액션신 탄생"]]></title>
+        <id>https://v.daum.net/v/20230511184615482</id>
+        <link href="https://v.daum.net/v/20230511184615482"/>
+        <updated>2023-05-11T10:11:35.874Z</updated>
+        <content type="html"><![CDATA[[서울경제] 영화 ‘무명’의 연출을 맡은 청얼 감독이 주연 배우 양조위에 대한 칭찬을 아끼지 않았다. 지난 2일 '무명'의 청얼 감독과의 인터뷰가 서면으로 진행됐다. '무명'은 일본이 진주만을 공격하고 상하이를 점령하던 시대 이에 맞서 일본 조직 내 침투한 비밀 결사 조직원들의 이야기를 담고 있다. 숨 막히는 첩보 작전과 그 사이에서 벌어지는 심리적인 묘]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["1편의 영화가 10번의 세미나보다 감동" 환경영화제의 포부]]></title>
         <id>https://v.daum.net/v/20230511180908616</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230511153502419"/>
         <updated>2023-05-11T07:10:37.418Z</updated>
         <content type="html"><![CDATA[(엑스포츠뉴스 김유진 기자) 배우 최민식이 제27회 부천국제판타스틱영화제(BIFAN, 집행위원장 신철)의 배우 특별전 주인공으로 선정됐다. 11일 부천국제판타스틱영화제 측은 "올해 배우 특별전 주인공으로 배우 최민식을 선정했다"고 밝혔다. BIFAN 측은 "최민식은 한국영화를 대표하는 얼굴, 한국영화 그 자체"라고 전하며 "출연한 매 작품마다 스스로의 한계]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김향기X안동구 주연 영화 ‘옆에서 숨만 쉬어도 좋아’ 크랭크인]]></title>
-        <id>https://v.daum.net/v/20230511153353362</id>
-        <link href="https://v.daum.net/v/20230511153353362"/>
-        <updated>2023-05-11T07:10:37.438Z</updated>
-        <content type="html"><![CDATA[[동아닷컴] 김향기X안동구 주연 영화 ‘옆에서 숨만 쉬어도 좋아’ 크랭크인 [공식] 영화 ‘옆에서 숨만 쉬어도 좋아’ (제작 : 오프너필름 | 명필름, 공동제작 : ㈜그리고픽처스)가 지난 1일 크랭크인했다. ‘옆에서 숨만 쉬어도 좋아’는 옆에 있기만 해도 좋은 청춘 커플이 만만찮은 현실로부터 그들의 꿈과 사랑을 지켜내려는 이야기. 김향기가 웹툰 작가가 되]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[블랙핑크 제니, '더 아이돌'로 22일 칸 영화제 참석]]></title>
-        <id>https://v.daum.net/v/20230511152806978</id>
-        <link href="https://v.daum.net/v/20230511152806978"/>
-        <updated>2023-05-11T07:10:37.439Z</updated>
-        <content type="html"><![CDATA[[텐아시아=강민경 기자] 걸그룹 블랙핑크 멤버 제니가 제76회 칸 국제영화제에 참석한다. 11일 블랙핑크 소속사 YG엔터테인먼트 관계자는 텐아시아에 "제지는 오는 22일 제76회 칸 국제영화제에 참석한다"라고 밝혔다. 제니는 미국 HBO 드라마 시리즈 '더 아이돌(The Idol)'에 출연했다. '더 아이돌'은 이번 칸 국제영화제 비경쟁 부문에 공식]]></content>
     </entry>
 </feed>

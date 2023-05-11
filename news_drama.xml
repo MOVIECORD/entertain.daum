@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-05-11T09:11:33.412Z</updated>
+    <updated>2023-05-11T10:12:00.558Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이시우, '아스달연대기2' 출연...이준기X신세경 만난다]]></title>
+        <id>https://v.daum.net/v/20230511181714796</id>
+        <link href="https://v.daum.net/v/20230511181714796"/>
+        <updated>2023-05-11T10:11:41.770Z</updated>
+        <content type="html"><![CDATA[[OSEN=연휘선 기자] 배우 이시우가 '아스달연대기2'에 출연한다. 11일 tvN 새 드라마 '아스달연대기2' 관계자는 OSEN에 "이시우 배우가 눈별 역으로 '아스달연대기2'에 출연한다"라고 공식입장을 밝혔다.&nbsp; '아스달연대기'는&nbsp;태고의 땅 아스에서 서로 다른 전설을 써가는 영웅들의 운명적인 이야기를 담은 시리즈 드라마다. '육룡이 나르샤', '뿌리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["이연희X홍종현이 직장인 거리에 왜 나와?"...'레이스' 커피차 깜짝 방문]]></title>
         <id>https://v.daum.net/v/20230511173145413</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230511143417499"/>
         <updated>2023-05-11T06:15:37.119Z</updated>
         <content type="html"><![CDATA[[마이데일리 = 이승길 기자] 배우 강말금이 안방극장에 뭉클함을 전했다. JTBC 수목드라마 '나쁜엄마'는 자식을 위해 악착같이 나쁜 엄마가 될 수밖에 없었던 엄마 영순(라미란)과 뜻밖의 사고로 아이가 되어버린 아들 강호(이도현)가 잃어버린 행복을 찾아가는 감동의 힐링 코미디. 지난 방송 정씨(강말금)를 통해 강호가 사고를 당한 소식을 접한 미주(안은진)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘나쁜엄마’ 멱살 잡힌 이도현 보고 사색된 라미란 포착]]></title>
-        <id>https://v.daum.net/v/20230511142342964</id>
-        <link href="https://v.daum.net/v/20230511142342964"/>
-        <updated>2023-05-11T06:15:37.120Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 배효주 기자] ‘나쁜엄마’ 라미란, 이도현, 안은진이 뜻밖의 삼자대면을 한다. JTBC 수목드라마 ‘나쁜엄마’(연출 심나연/극본 배세영) 측은 6회 방송을 앞둔 5월 11일 어쩌다 읍내에서 조우한 영순(라미란 분), 강호(이도현 분), 미주(안은진 분)를 포착했다. 미주를 바라보는 강호의 아련한 눈빛과 함께, 이유 모를 멱살잡이에 당황한 표정도]]></content>
     </entry>
 </feed>
