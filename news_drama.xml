@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-05-11T15:12:23.110Z</updated>
+    <updated>2023-05-11T16:14:12.999Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['스틸러' 주원, 父 살해한 김재철 정체 깨달았다 '절규']]></title>
+        <id>https://v.daum.net/v/20230512005007523</id>
+        <link href="https://v.daum.net/v/20230512005007523"/>
+        <updated>2023-05-11T16:13:53.727Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 이이진 기자) '스틸러: 일곱 개의 조선통보' 주원이 김재철의 정체를 깨달았다. 11일 방송된 tvN 수목드라마 '스틸러: 일곱 개의 조선통보' 10회에서는 황대명(주원 분)이 김영수(이덕화)에게 이용당한 모습이 그려졌다. 이날 최민우는 트랩을 뚫기 위해 도자기를 깨야 한다고 말했고, 황대명은 "잠깐만요. 이거 진품이에요. 잃어버린 문화재를]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['스틸러' 이덕화, 주원에 총 겨눴다…이주우 총상 입고 실신]]></title>
+        <id>https://v.daum.net/v/20230512002842430</id>
+        <link href="https://v.daum.net/v/20230512002842430"/>
+        <updated>2023-05-11T16:13:53.728Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 이이진 기자) '스틸러: 일곱 개의 조선통보' 이주우가 이덕화가 쏜 총에 맞았다. 11일 방송된 tvN 수목드라마 '스틸러: 일곱 개의 조선통보' 10회에서는 김영수(이덕화 분)가 황대명(주원)에게 총을 겨눈 모습이 그려졌다. 이날 황대명과 최민우(이주우)는 여러 트랩을 뚫고 수장고에 잠입했다. 김영수는 총을 들고 수장고로 달려갔고, "너 천]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['나쁜엄마' 라미란, 위암 4기 판정..이도현에 싸늘한 태도]]></title>
         <id>https://v.daum.net/v/20230512000954337</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230511201802470"/>
         <updated>2023-05-11T12:20:48.552Z</updated>
         <content type="html"><![CDATA[[스타뉴스 | 이빛나리 기자] /사진='비밀의 여자' 방송화면'비밀의 여자'에서 최윤영이 이은형의 의심을 받았다. 11일 오후 방송된 KBS 2TV 일일드라마 '비밀의 여자'에서 정겨울(신고은 분)과 영혼이 바뀐 오세린(최윤영 분)은 식당에서 쓰러진 엄마 윤길자(방은희 분)를 발견했다. 이날 오세린은 쓰러진 윤길자를 보고 놀라 "엄마"라고 외쳤다. 뒤늦]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['하늘의인연' 이훈, 조은숙에 과거 '마약전과' 밝혔다]]></title>
-        <id>https://v.daum.net/v/20230511201747462</id>
-        <link href="https://v.daum.net/v/20230511201747462"/>
-        <updated>2023-05-11T12:20:48.557Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 | 김지은 인턴기자] /사진= '하늘의 인연' 화면 캡처'하늘의 인연' 이훈이 억울한 일을 겪었던 과거를 조은숙에게 털어놨다. 11일 오후 방송된 MBC 일일드라마 '하늘의 인연' 19회에서는 윤이창(이훈 분)이 나정임(조은숙 분)에게 마약전과를 밝힌 모습이 그려졌다. 이날 방송에서 나정임은 이해인(김시하 분)과 이해인 친부 사이의 비밀을 윤]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[최윤영, 방은희에 "엄마"…이은형 "놀라서 한 말?" 의심]]></title>
-        <id>https://v.daum.net/v/20230511200643268</id>
-        <link href="https://v.daum.net/v/20230511200643268"/>
-        <updated>2023-05-11T11:09:16.107Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 김현숙 기자) '비밀의 여자' 이은형이 최윤영을 의심하기 시작했다. 11일 방송된 KBS 2TV 일일드라마 '비밀의 여자'에서는 정영준(이은형 분)이 오세린(최윤영)의 정체를 의심하는 모습이 전파를 탔다. 이날 오세린은 윤길자(방은희)에게 스카프를 받으러 가게에 들렀지만, 윤길자가 쓰러져 있는 것을 보고 "엄마"라고 소리쳤다. 그 소리를 뒤에]]></content>
     </entry>
 </feed>
