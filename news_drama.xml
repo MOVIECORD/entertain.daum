@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-05-12T03:11:59.964Z</updated>
+    <updated>2023-05-12T04:13:43.263Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘사냥개들’ 포스터X예고편 속 음주운전 김새론 삭제했지만]]></title>
+        <id>https://v.daum.net/v/20230512121849863</id>
+        <link href="https://v.daum.net/v/20230512121849863"/>
+        <updated>2023-05-12T04:13:25.132Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 이민지 기자] '음주운전' 김새론 출연작이 6월 공개된다. 5월 12일 넷플릭스에 따르면 새 시리즈 '사냥개들'이 6월 7일 공개를 확정했다. 동명 웹툰을 원작으로 한 '사냥개들'은 사람 목숨보다 돈이 먼저인 사채업의 세계에 휘말린 두 청년이 거대한 악의 세력에 맞서 목숨 걸고 싸우는 이야기이다. 넷플릭스 측은 "'사냥개들'은 주먹만큼은 자]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘오! 영심이’ 송하윤 이동해 캐릭터 소개 영상, 뒤바뀐 갑과 을]]></title>
         <id>https://v.daum.net/v/20230512115243192</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230512101145953"/>
         <updated>2023-05-12T01:59:38.928Z</updated>
         <content type="html"><![CDATA[[뉴스엔 박수인 기자] ‘가슴이 뛴다’의 첫 티저 영상이 공개됐다. 오는 6월 26일 첫 방송되는 KBS 2TV 새 월화드라마 ‘가슴이 뛴다’(연출 이현석, 이민수 / 극본 김하나, 정승주 / 제작 위매드, 몬스터유니온)는 100년 중 하루 차이로 인간이 되지 못한 반인뱀파이어 선우혈과 인간미라고는 찾아볼 수 없는 여자 주인해가 어쩌다 동거를 시작하며,]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[임윤아 끌어안은 이준호, 티저부터 설레네]]></title>
-        <id>https://v.daum.net/v/20230512100643732</id>
-        <link href="https://v.daum.net/v/20230512100643732"/>
-        <updated>2023-05-12T01:59:38.929Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 황혜진 기자] 배우 이준호와 임윤아가 흥미로운 로맨틱 코미디를 예고했다. 6월 17일 첫 방송되는 JTBC 새 토일드라마 ‘킹더랜드’ 측은 5월 12일 2차 티저 영상을 공개하며 킹호텔 본부장 구원(이준호 분)과 스마일 퀸 천사랑(임윤아 분) 사이 운명적인 사랑의 서막을 열었다. 공개된 영상은 킹호텔에서 우연처럼 만나 서로에게 빠져드는 구원과 천]]></content>
     </entry>
 </feed>
