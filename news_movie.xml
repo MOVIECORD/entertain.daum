@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-05-12T04:13:43.236Z</updated>
+    <updated>2023-05-12T05:10:58.202Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['가오갤3' 개봉 9일 만에 200만 돌파, 시리즈 최고 기록 넘을까]]></title>
+        <id>https://v.daum.net/v/20230512140944248</id>
+        <link href="https://v.daum.net/v/20230512140944248"/>
+        <updated>2023-05-12T05:10:33.317Z</updated>
+        <content type="html"><![CDATA[[티브이데일리 최하나 기자] ‘가디언즈 오브 갤럭시: Volume 3’가 200만 관객을 돌파하며 폭발적인 흥행 신드롬을 일으키고 있다. 시리즈 최고 기록을 넘을 수 있을지 기대를 모으고 있다. 지난 3일 개봉된 영화 '가디언즈 오브 갤럭시: Volume 3'(감독 제임스 건, 이하 '가오갤3')는 가모라를 잃고 슬픔에 빠져 있던 피터 퀼이 위기에 처한]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[감옥을 행복한 천국으로 바꾼 '가오갤3'의 메시지]]></title>
         <id>https://v.daum.net/v/20230512121501784</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230512093146344"/>
         <updated>2023-05-12T00:53:08.291Z</updated>
         <content type="html"><![CDATA[[티브이데일리 최하나 기자] 영화 ‘가디언즈 오브 갤럭시: Volume 3’가 박스오피스 1위를 기록했다. 12일 영화진흥위원회 통합전산망에 따르면 영화 ‘가디언즈 오브 갤럭시: Volume 3’(감독 제임스 건)가 지난 11일 8만6994명의 관객을 동원하며 박스오피스 1위를 기록했다. 누적 관객수는 201만4182명이다. ‘가디언즈 오브 갤럭시: Vo]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[부국제 측 "허문영 집행위원장, 최근 사의 표명…추측성 기사 유감"]]></title>
-        <id>https://v.daum.net/v/20230512092616145</id>
-        <link href="https://v.daum.net/v/20230512092616145"/>
-        <updated>2023-05-12T00:53:08.292Z</updated>
-        <content type="html"><![CDATA[허문영 집행위원장.[이데일리 스타in 김보영 기자] 허문영 부산국제영화제(BIFF) 집행위원장이 돌연 사의를 표명했다. 오는 10월 앞둔 제28회 부산국제영화제를 불과 5개월 남겨두고서다. 2021년부터 부산국제영화제의 운영을 도맡아온 수장의 사임에 올해 영화제가 제대로 열릴 수 있을지 우려의 목소리가 나온다. 부산국제영화제 관계자는 12일 이데일리에]]></content>
     </entry>
 </feed>
