@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-05-12T02:32:27.762Z</updated>
+    <updated>2023-05-12T03:11:59.975Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[허문영 부산국제영화제 집행위원장 사의 표명‥영화제 5달 앞두고]]></title>
+        <id>https://v.daum.net/v/20230512115346242</id>
+        <link href="https://v.daum.net/v/20230512115346242"/>
+        <updated>2023-05-12T03:11:36.958Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 배효주 기자] 허문영 부산국제영화제 집행위원장이 사의를 표명했다. 5월 12일 부산국제영화제 측에 따르면 허문영 집행위원장은 전날인 11일 사의를 표명했다. 사유에 대해서 영화제 측은 "알 수 없다"고 전했다. 허문영 집행위원장은 이달 말까지만 근무하고 부산국제영화제를 떠나겠다는 뜻을 전달한 것으로 알려졌다. 허문영 집행위원장은 지난 2021년]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['가오갤3' 올해 최단기간 200만 돌파..'드림' 100만 넘어서]]></title>
         <id>https://v.daum.net/v/20230512112904302</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230512090901544"/>
         <updated>2023-05-12T00:53:08.292Z</updated>
         <content type="html"><![CDATA[‘가오갤3’가 9일 연속 1위를 지킨 가운데, 200만을 돌파하며 흥행 질주 중이다. 12일 영화진흥위원회 영화관입장권 통합전산망에 따르면 영화 ‘가디언즈 오브 갤럭시: 볼륨3’(이하 ‘가오갤3’)는 지난 11일 8만 6994명의 관객을 동원해 박스오피스 1위를 차지했다. 누적 관객수는 201만 4182명이다. 지난 3일 개봉한 ‘가오갤3’은 2014년 ‘]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['가오갤3' 개봉 9일 만에 200만 관객 돌파 "2023년 최단기간 기록"]]></title>
-        <id>https://v.daum.net/v/20230512085815212</id>
-        <link href="https://v.daum.net/v/20230512085815212"/>
-        <updated>2023-05-12T00:53:08.292Z</updated>
-        <content type="html"><![CDATA[영화 '가디언즈 오브 갤럭시: Volume 3'가 200만 관객을 돌파했다. [원제: Guardians of the Galaxy Volume 3, 감독: 제임스 건, 주연: 크리스 프랫, 조 샐다나, 데이브 바티스타, 카렌 길런, 폼 클레멘티에프, 빈 디젤, 브래들리 쿠퍼, 윌 폴터 외 수입/배급: 월트디즈니 컴퍼니 코리아] 가슴을 울리는 뭉클한 서사]]></content>
     </entry>
 </feed>
