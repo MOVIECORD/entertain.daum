@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-05-12T21:09:33.552Z</updated>
+    <updated>2023-05-12T22:10:23.055Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이도현, 인간 리트리버 등극...'나쁜엄마'서 연기 포텐 터졌다]]></title>
+        <id>https://v.daum.net/v/20230513070030392</id>
+        <link href="https://v.daum.net/v/20230513070030392"/>
+        <updated>2023-05-12T22:10:05.227Z</updated>
+        <content type="html"><![CDATA[[TV리포트=이수연 기자] 배우 이도현이 다시 한번 연기력을 증명했다. 이도현은 지난 10~11일 JTBC 수목드라마 '나쁜엄마' 5, 6회를 통해 섬세한 표현력이 돋보이는 연기로 '힐링 아이콘'에 등극했다. 이번 주 방송에서 강호는 기억을 잃고 재회한 미주(안은진 분)에게 본능적으로 시선이 갔다. 동네 강아지를 예뻐하는 미주를 본 강호는 돼지 농장의 아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이신영 움직인 한석규 한 마디 "존중 받는 의사 되길"]]></title>
+        <id>https://v.daum.net/v/20230513065144299</id>
+        <link href="https://v.daum.net/v/20230513065144299"/>
+        <updated>2023-05-12T22:10:05.229Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 오수정 기자) '낭만닥터 김사부3'에서 한석규가 이신영의 마음을 움직였다.&nbsp; 지난 12일 방송된 SBS 금토드라마 '낭만닥터 김사부3' 5회에서는 김사부(한석규 분)이 진심으로 장동화(이신영)에게 조언을 하는 모습이 그려졌다.&nbsp; 앞선 방송에서 장동화는 궂은 일, 험한 일은 싫어하는 철없고 뺀질거리는 모습을 보인 바 있다. 특히 &nbsp;선배 서우진(]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘종이달’ 이시우 “늘 스스로에게 솔직하고 싶다… 연기는 그 연장선”]]></title>
         <id>https://v.daum.net/v/20230513060118213</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230512232346311"/>
         <updated>2023-05-12T15:10:42.459Z</updated>
         <content type="html"><![CDATA[[뉴스엔 서유나 기자] 돌담 외상센터에서 시작부터 의료 사고가 발생하며 위기가 터졌다. 5월 12일 방송된 SBS 금토드라마 '낭만닥터 김사부 3'(극본 강은경, 임혜민 / 연출 유인식, 강보승) 5회에서는 돌담병원 외상센터가 처음부터 위기에 빠졌다. 이날 서우진(안효섭 분)은 돌담병원의 웬만한 인력이 전부 외상센터로 차출되자 돌담 응급실을 얼마 안]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘김사부3’ 안효섭, 이경영 때문에 이성경과 다툼..“내가 창피해? 모자라?”]]></title>
-        <id>https://v.daum.net/v/20230512231117182</id>
-        <link href="https://v.daum.net/v/20230512231117182"/>
-        <updated>2023-05-12T15:10:42.461Z</updated>
-        <content type="html"><![CDATA[[OSEN=김채연 기자] 이성경과 안효섭이 돌담병원에 온 이경영 때문에 다툼이 일었다. 12일 방송된 SBS 금토드라마 ‘낭만닥터 김사부3’에서는 서우진(안효섭 분)과 차은재(이성경 분)이 다투는 모습이 전파를 탔다. 이날 서우진은 차진만(이경영 분)에게 돌담병원에서 신입 의사들과 함께 환자를 돌봐야하는 김사부(한석규 분)가 걱정돼 권역외상센터에서 빠진]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['김사부3' 안효섭, 이성경과 말다툼 "내가 창피해?"]]></title>
-        <id>https://v.daum.net/v/20230512225510030</id>
-        <link href="https://v.daum.net/v/20230512225510030"/>
-        <updated>2023-05-12T14:09:59.099Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 | 이빛나리 기자] /사진='낭만닥터 김사부 3' 방송화면'낭만닥터 김사부 3' 안효섭이 이성경과 말다툼했다. 12일 방송된 SBS 금토드라마 '낭만닥터 김사부 3'에서 차은채(이성경 분)는 외상센터에서 빠지겠다고 말한 서우진(안효섭 분)을 걱정했다. 이날 차은채는 서우진에 "너 진짜로 외상팀에서 빠질 거니?"라고 물었다. 서우진은 "응.]]></content>
     </entry>
 </feed>
