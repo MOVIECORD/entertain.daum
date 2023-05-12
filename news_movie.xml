@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-05-12T06:13:50.490Z</updated>
+    <updated>2023-05-12T07:10:23.833Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뉴진스 다니엘, 영화 ‘인어공주’ 더빙 버전 주인공 낙점]]></title>
+        <id>https://v.daum.net/v/20230512160445198</id>
+        <link href="https://v.daum.net/v/20230512160445198"/>
+        <updated>2023-05-12T07:10:01.615Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 김명미 기자] 뉴진스(NewJeans)의 다니엘이 영화 '인어공주' 한국어 더빙 버전 주인공 에리열 역에 캐스팅됐다. 월트디즈니 컴퍼니 코리아 측은 5월 12일 "다니엘이 ‘에리얼’ 역을 맡아 더빙 연기와 OST 가창을 소화하며 색다른 모습을 보여줄 예정”이라고 밝혔다. 이어 “영화 속 ‘에리얼’과 나이대가 비슷한 데다 명랑한 이미지까지 닮은]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[강기영 측 "'신인류 전쟁: 부활남', 긍정 검토 중"]]></title>
+        <id>https://v.daum.net/v/20230512152744221</id>
+        <link href="https://v.daum.net/v/20230512152744221"/>
+        <updated>2023-05-12T07:10:01.615Z</updated>
+        <content type="html"><![CDATA[[OSEN=연휘선 기자] 배우 강기영이 영화 '신인류 전쟁: 부활남' 출연을 검토 중이다.&nbsp; 12일 소속사 나무엑터스 관계자는 OSEN에 "강기영이&nbsp;'신인류 전쟁: 부활남'(감독 백종열) 출연을 제안받고 현재 긍정적으로 검토 중이다"라고 공식입장을 밝혔다.&nbsp; '신인류 전쟁: 부활남'은 만년 취준생 석환이 죽은 뒤 3일 후에 부활하는 능력이 있다는 것을]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘가오갤’ 3편이 마지막, 가모라는 떠난다 “나머지 멤버들은?”]]></title>
         <id>https://v.daum.net/v/20230512143017089</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230512095711259"/>
         <updated>2023-05-12T01:59:33.503Z</updated>
         <content type="html"><![CDATA[[스포츠조선 안소윤 기자] 할리우드 배우 멜리사 맥카시가 디즈니 실사 뮤지컬 영화 '인어공주'에서 색다른 변신을 예고했다. '인어공주'는 늘 바다 너머의 세상을 꿈꾸던 모험심 가득한 인어공주 에리얼이 조난당한 에릭 왕자를 구해주며 자신의 마음의 소리를 따라 금지된 인간 세상으로 나아가는 모험을 그린 디즈니 실사 뮤지컬 영화다. 영화 '내 여]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘귀공자’ 김선호, 6월에 찾아옵니다]]></title>
-        <id>https://v.daum.net/v/20230512095401128</id>
-        <link href="https://v.daum.net/v/20230512095401128"/>
-        <updated>2023-05-12T01:59:33.503Z</updated>
-        <content type="html"><![CDATA[배우 김선호가 ‘마녀’ 시리즈의 박훈정 감독과 함께 ‘귀공자’로 스크린을 찾는다. 박훈정 감독의 신작 ‘귀공자’는 필리핀 불법 경기장을 전전하는 복싱 선수 마르코 앞에 정체불명의 남자 귀공자를 비롯한 각기 다른 목적을 지닌 세력들이 나타나 광기의 추격을 펼치는 이야기를 담았다. 사생활 논란 후 지난해 7월 연극 ‘터칭 더 보이드’(Touching the V]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘가오갤3’ 마블 심폐소생 성공, 박서준 ‘더 마블스’ 흥행열기 이어갈까]]></title>
-        <id>https://v.daum.net/v/20230512095245085</id>
-        <link href="https://v.daum.net/v/20230512095245085"/>
-        <updated>2023-05-12T00:53:08.291Z</updated>
-        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]마블 시네마틱 유티버스는 2019년 ‘어벤져스:엔드게임’을 끝으로 전성기가 지났다는 평을 받았다. 이후 개봉한 ‘블랙 위도우’ ‘토르:러브 앤 썬더’ ‘이터널스’에 이어 지난 2월의 ‘앤트맨과 와스프:퀀텀매니아’까지 모두 흥행에 실패했다. 일각에서 ‘슈퍼히어로 피로감’이 작용한 결과라는 분석을 내놓았다. 이러한 위기 상황에서]]></content>
     </entry>
 </feed>
