@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-05-12T05:10:58.207Z</updated>
+    <updated>2023-05-12T06:13:50.488Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[송민지, 이혼한 주상욱에 묵직한 팩트 폭격 "넌 항상 비겁해"]]></title>
+        <id>https://v.daum.net/v/20230512141254350</id>
+        <link href="https://v.daum.net/v/20230512141254350"/>
+        <updated>2023-05-12T06:13:33.524Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 | 김노을 기자] /사진=ENA배우 송민지가 '보라! 데보라!'에서 전 남편 주상욱과 티키타카로 존재감을 드러냈다. 지난 11일 방송된 ENA 오리지널 드라마 '보라! 데보라'(극본 아경, 연출 이태곤·서민정)에서는 아직 앙금이 남아있는 이혼한 커플 서수진(송민지 분)과 한상진(주상욱 분)의 재회가 그려졌다. 클럽에서 우연히 다시 만나게 된 두]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘임신’ 백진희에 닥친 위기..응급실서 차주영과 마주했다]]></title>
         <id>https://v.daum.net/v/20230512135042600</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230512110843485"/>
         <updated>2023-05-12T02:32:08.975Z</updated>
         <content type="html"><![CDATA[[뉴스엔 김명미 기자] ‘조선변호사’ 우도환이 김지연을 향한 달라진 태도를 보인다. MBC 금토드라마 ‘조선변호사’(연출 김승호, 이한준/ 극본 최진영/ 제작 피플스토리컴퍼니, 원콘텐츠) 13회에서는 강한수(우도환 분)와 이연주(김지연 분)가 아련한 만남을 갖는다. 토지 송사가 펼쳐진 앞선 방송에서는 온전히 농민을 위하는 마음으로 송사에 임한 한수와 편법]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[송혜교, 또 글로리한 선행..美 유명미술관 한국어 안내서 기증]]></title>
-        <id>https://v.daum.net/v/20230512110159196</id>
-        <link href="https://v.daum.net/v/20230512110159196"/>
-        <updated>2023-05-12T02:32:08.976Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 | 김미화 기자] 서경덕 교수, 송혜교 배우 송혜교가 또 한번 글로리한 선행을 펼쳤다. 12일 서경덕 성신여대 교수는 송혜교와 함께 한 셀카를 게재하며 최근 활동을 알렸다. 서경덕 교수는 "지난 12년간 혜교씨와 함께 전 세계 곳곳에 남아있는 대한민국 독립운동 유적지에 한국어 안내서, 한글 간판, 부조작품 등을 지금까지 33곳에 기증해 왔다.]]></content>
     </entry>
 </feed>
