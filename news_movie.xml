@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-05-13T20:10:43.408Z</updated>
+    <updated>2023-05-13T21:09:15.010Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[경쟁 불발 아쉽지만…'첫 입성' 송중기·제니→'N차 초청' 송강호·홍상수 '관전 포인트 多']]></title>
+        <id>https://v.daum.net/v/20230514060601164</id>
+        <link href="https://v.daum.net/v/20230514060601164"/>
+        <updated>2023-05-13T21:08:56.498Z</updated>
+        <content type="html"><![CDATA[[텐아시아=최지예 기자] 오는 16일부터 27일까지 열리는 제76회 칸 영화제에는 우리 영화가 경쟁 부문에 진출하지 못하면서 아쉬움이 존재하지만, 눈여겨 볼 포인트들도 적지 않다.&nbsp; 먼저 칸 영화제의 초청을 받은 우리 영화는 총 7편. '주목할만한 시선'에 '화란'(감독 김창훈), 비경쟁 부문 비경쟁에 '거미집'(감독 김지운), 미드나잇 스크리닝에 '탈]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["잇츠 굿" 이선균, 코미디 살리고 재난·스릴러로 칸行]]></title>
+        <id>https://v.daum.net/v/20230514060121052</id>
+        <link href="https://v.daum.net/v/20230514060121052"/>
+        <updated>2023-05-13T21:08:56.519Z</updated>
+        <content type="html"><![CDATA[(서울=뉴스1) 고승아 기자 = 배우 이선균의 '열일' 행보가 눈에 띈다. 영화 '킬링 로맨스'에서 B급 코미디의 맛을 십분 살린 이선균은 '탈출: 프로젝트 사일런스(PROJECT SILENCE)'(감독 김태곤)와 '잠'(감독 유재선)까지 두 편의 작품을 안고 프랑스 칸으로 향한다. 이선균은 지난달 개봉한 '킬링 로맨스'(감독 이원석)를 통해 섬나라 재]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[신카이 마코토 감독이 밝힌 '스즈메의 문단속' A to Z]]></title>
         <id>https://v.daum.net/v/20230514000019068</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230513100003271"/>
         <updated>2023-05-13T02:00:08.804Z</updated>
         <content type="html"><![CDATA[[편집자주] 영화·OTT를 보는 김나연 기자의 사적인 시선. [스타뉴스 | 김나연 기자] 사진=영화 스틸컷안녕이 영원한 헤어짐이 아니었으면 한다. '가디언즈 오브 갤럭시' 시리즈가 아름다운 피날레를 장식하며 관객과 작별 인사를 나눴다. 이 엉뚱하고 사랑스러운 히어로들의 다음을 볼 수 없다니. 끝인상이 완벽하기에 더욱 아쉽게 느껴지는 '가디언즈 오브 갤럭시:]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박유나 “아이돌 연습생 출신, 연기가 더 재밌어요”]]></title>
-        <id>https://v.daum.net/v/20230513094310107</id>
-        <link href="https://v.daum.net/v/20230513094310107"/>
-        <updated>2023-05-13T00:51:17.400Z</updated>
-        <content type="html"><![CDATA[배우 박유나는 독특한 색이 있다. 민트색 머리 때문만은 아니다. 중저음 목소리와 까무잡잡한 피부가 묘하게 어울려 반항적인 느낌을 빚는다. 아이돌 연습생 출신이란 꼬리표도 눈길을 끈다. “2015년 ‘발칙하게 고고’란 치어리딩 드라마로 데뷔했어요. 연습생 당시 댄스 파트였는데, ‘발칙하게 고고’ 감독이 ‘춤 추는 캐릭터가 있는데 연기 한 번 해볼래?’라]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[시끌시끌 '인어공주'...'블랙 워싱' 논란, 작품으로 잠재울까]]></title>
-        <id>https://v.daum.net/v/20230513093715053</id>
-        <link href="https://v.daum.net/v/20230513093715053"/>
-        <updated>2023-05-13T00:51:17.410Z</updated>
-        <content type="html"><![CDATA[(서울=뉴스1) 정유진 기자 = 캐스팅 발표 순간부터 계속해 일부 관객들의 불만 섞인 반응을 얻어야 했던 '인어공주'(감독 롭 마샬)가 작품의 매력으로 상황을 뒤집을 수 있을까. 국내에서 오는 24일 개봉 예정인 '인어공주'는 늘 바다 너머의 세상을 꿈꾸던 모험심 가득한 인어공주 에리얼이 조난당한 에릭 왕자를 구해준 후 자신의 마음의 소리를 따라 금지된]]></content>
     </entry>
 </feed>
