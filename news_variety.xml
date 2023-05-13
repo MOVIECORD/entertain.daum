@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/variety</id>
     <title>다음 연예 ─ 뉴스 ─ 예능</title>
-    <updated>2023-05-13T18:13:34.137Z</updated>
+    <updated>2023-05-13T19:08:57.648Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[정승제, '메이저리그' 뺨치는 연봉..."100억 보다 위"]]></title>
+        <id>https://v.daum.net/v/20230514040201631</id>
+        <link href="https://v.daum.net/v/20230514040201631"/>
+        <updated>2023-05-13T19:08:46.250Z</updated>
+        <content type="html"><![CDATA[[텐아시아=신지원 기자]'일타강사' 정승제가 100억 넘는 연봉을 밝혀 눈길을 끌었다. 13일 방송된 JTBC '아는 형님'에는 대한민국 일타스타 정승제, 주혜연, 김민정이 출연했다. 이날 정승제는 자신의 수입을 솔직하게 털어놨다. 정승제는 EBS 수입에 대해서 "내 전체 수입의 1% 정도다"라고 밝혔다. 또한 그는 연봉에 대해서 "직접 이야기하기는 애]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[던, 역대급 소식좌 등장···반전 야성미 복근 공개]]></title>
         <id>https://v.daum.net/v/20230514013816466</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230513235346053"/>
         <updated>2023-05-13T15:09:52.820Z</updated>
         <content type="html"><![CDATA[[뉴스엔 장예솔 기자] 개그우먼 엄지윤이 선배들의 기강을 잡았다. 5월 13일 방송된 KBS 2TV '배틀트립2'에서는 김원훈, 엄지윤, 조진세가 스리랑카로 여행을 떠났다. 이날 세 사람은 2시간밖에 못 잔 상태에서 세계 8대 불가사의인 시기리야로 향했다. 시기리야는 해발 349m의 바위로, 아버지를 살해한 왕이 형제들의 보복이 두려워 피신한 바위로]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[유영재, ♥선우은숙에 난방비·식비 잔소리 “내 돈이니 허락 받아”]]></title>
-        <id>https://v.daum.net/v/20230513235216048</id>
-        <link href="https://v.daum.net/v/20230513235216048"/>
-        <updated>2023-05-13T15:09:52.826Z</updated>
-        <content type="html"><![CDATA[[OSEN=임혜영 기자] 배우 선우은숙이 신혼여행을 준비하며 남편 유영재와 투닥거렸다. 13일 방송된 MBN ‘속풀이쇼 동치미’(이하 동치미)는 막강한 부부 특집으로 진행되었으며 미자-김태현 부부, 심진화-김원효 부부, 함익병-강민형 부부, 송기윤-김숙진 부부가 게스트로 출연했다. 선우은숙은 결혼 8개월차에 남편과 뉴질랜드로 신혼여행을 다녀왔으며 ‘동치]]></content>
     </entry>
 </feed>
