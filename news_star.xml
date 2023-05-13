@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2023-05-13T02:00:30.733Z</updated>
+    <updated>2023-05-13T02:31:34.658Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["민주당, 새누리당, 공산당" '지구오락실2' 미미의 초대형 폭탄]]></title>
+        <id>https://v.daum.net/v/20230513111216066</id>
+        <link href="https://v.daum.net/v/20230513111216066"/>
+        <updated>2023-05-13T02:31:28.732Z</updated>
+        <content type="html"><![CDATA[[김상화 기자] ▲ &nbsp;지난 12일 첫 방영된 tvN '뿅뿅 지구오락실 2'의 한 장면.ⓒ CJ ENM&nbsp; &lt;뿅뿅 지구오락실2&gt;(지락실2)가 첫 회부터 시청자들에게 쉴 틈없는 웃음을 선사하면서 성공적으로 돌아왔다. 지난 12일 방영된 tvN &lt;지구오락실2&gt;는 지난해 9월 종영 후 새 시즌으로 찾아온 '지구용사' 4인방 이은지-미미-이영지-안유진의 변함없는 깨방]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[돌아온 '지락실2' 첫방, 폭소도 텐션도 시청률도 터졌다]]></title>
         <id>https://v.daum.net/v/20230513104015723</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230513093118981"/>
         <updated>2023-05-13T00:51:34.774Z</updated>
         <content type="html"><![CDATA[(서울=뉴스1) 황미현 기자 = 배우 서정희가 전 남편인 고(故) 서세원과의 삶에 대해 고백했다. 서정희는 지난 12일 채널A 예능 프로그램 '오은영의 금쪽 상담소'에 어머니와 함께 출연했다. 이날 서정희는 불안의 원천이었던 결혼 생활에 대해 심도 있는 고백을 하며 오은영 박사를 비롯한 패널들을 놀라게 만들었다. 이날 서정희는 집 안 살림에 과도하게]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['차정숙' 김병철, 취중 폭탄 발언에 엄정화·민우혁 '동공지진']]></title>
-        <id>https://v.daum.net/v/20230513092805933</id>
-        <link href="https://v.daum.net/v/20230513092805933"/>
-        <updated>2023-05-13T00:51:34.777Z</updated>
-        <content type="html"><![CDATA[[스포츠조선 이정혁 기자]김병철이 폭탄 발언으로 모두를 놀라게 한다. JTBC 토일드라마 '닥터 차정숙'(연출 김대진·김정욱, 극본 정여랑, 제작 ㈜스튜디오앤뉴·SLL·JCN) 측은 13일, 만취한 서인호(김병철 분)의 돌발 행동에 깜짝 놀란 차정숙(엄정화 분), 로이킴(민우혁 분)의 모습을 공개했다. 지난 방송에서 차정숙은 서인호, 최승희(]]></content>
     </entry>
 </feed>
