@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-05-13T22:09:58.832Z</updated>
+    <updated>2023-05-13T23:10:35.309Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['가오갤3' 11일 연속 박스오피스 1위…247만 동원]]></title>
+        <id>https://v.daum.net/v/20230514074314034</id>
+        <link href="https://v.daum.net/v/20230514074314034"/>
+        <updated>2023-05-13T23:10:14.655Z</updated>
+        <content type="html"><![CDATA[[OSEN=김보라 기자]&nbsp;영화 ‘가디언즈 오브 갤럭시: Volume 3’(‘가오갤3’)가 11일 연속 1위에 올랐다. 14일 영화진흥위원회 영화관입장권 통합전산망 집계를 보면 전날(13일) ‘가디언즈 오브 갤럭시: Volume 3’는 30만 7177명을 동원해 일별 박스오피스 1위에 올랐다. ‘가디언즈 오브 갤럭시: Volume 3’(감독 제임스 건,]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['가디언즈 오브 갤럭시3' 11일 연속 1위…누적 247만↑]]></title>
+        <id>https://v.daum.net/v/20230514071909851</id>
+        <link href="https://v.daum.net/v/20230514071909851"/>
+        <updated>2023-05-13T23:10:14.655Z</updated>
+        <content type="html"><![CDATA[[스포츠한국 조은애 기자] '가디언즈 오브 갤럭시: Volume3'(이하 '가오갤3')가 11일째 흥행 독주를 이어가고 있다. 14일 영진위 통합전산망 집계에 따르면 '가오갤3'는 전날&nbsp;30만7177명의 관객을 동원하며 박스오피스 1위를 기록했다. 누적 관객 수는&nbsp;247만383명이다. '가오갤3'는 가모라를 잃고 슬픔에 빠져 있던 피터 퀼이 위기]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[마블·韓극장 살린 '가오갤3', 이유 있는 독주…원인은?]]></title>
         <id>https://v.daum.net/v/20230514070217650</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230513120301499"/>
         <updated>2023-05-13T03:10:41.694Z</updated>
         <content type="html"><![CDATA[[김성호 기자] ▲ 슬픔의 삼각형&nbsp;포스터ⓒ  그린나래미디어㈜&nbsp; 매년 쏟아지는 수많은 작품 가운데 반드시 보아야 할 영화를 고르는 기준이 몇 가지 있다. 개중 하나는 믿을 만한 이들의 추천인데, 걸출한 심사위원들이 고르고 또 골라 선정한 영화제 수상작 또한 그와 같다 하겠다. 칸영화제는 현존하는 유수의 영화제 가운데 독보적인 권위를 자랑한다. 유럽 3대 영화]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["비성우 더빙 도전? 몰입감 살리는 연기 고민했으면"]]></title>
-        <id>https://v.daum.net/v/20230513114216310</id>
-        <link href="https://v.daum.net/v/20230513114216310"/>
-        <updated>2023-05-13T03:10:41.695Z</updated>
-        <content type="html"><![CDATA[인터뷰②에 이어 [TV리포트=박설이 기자] 최근 디즈니 '인어공주' 실사판 주인공 에리얼의 목소리를 성우가 아닌 뉴진스 다니엘이 맡았다는 소식이 전해지자 더빙 팬들에게서 우려의 목소리가 나왔다. 2017년 '너의 이름은.' 사태를 기억하는 이들은 또 한번 비슷한 상황이 벌어질까 걱정하고 있다. 유명 성우인 심규혁은 '너의 이름은.' 더빙 캐스팅 논란 당시]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[블랙핑크 제니, 칸 영화제 참석→뉴진스 다니엘, 韓 '인어공주'로]]></title>
-        <id>https://v.daum.net/v/20230513110001890</id>
-        <link href="https://v.daum.net/v/20230513110001890"/>
-        <updated>2023-05-13T02:31:12.231Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 | 김미화 기자] 제니 ○...그룹 블랙핑크 멤버 제니가 제76회 칸 국제영화제에 참석한다. 제니의 소속사 YG엔터테인먼트는 제니가 올해 칸 국제영화제에 참석한다고 밝혔다. 제니는 처음 배우로서 연기를 한 미국 HBO 오리지널 드라마 'The Idol'(더 아이돌)로 오는 22일 오후 10시 30분(현지 시각) 칸영화제 공식 상영 일정에 참석한다]]></content>
     </entry>
 </feed>
