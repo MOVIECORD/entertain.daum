@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-05-13T07:10:35.624Z</updated>
+    <updated>2023-05-13T08:12:54.826Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['위독설' 제이미 폭스, 퇴원 후 근황..병명은 여전히 비공개]]></title>
+        <id>https://v.daum.net/v/20230513161915230</id>
+        <link href="https://v.daum.net/v/20230513161915230"/>
+        <updated>2023-05-13T08:12:32.601Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 | 김미화 기자] 제이미 폭스 /사진=/AFPBBNews=뉴스1=스타뉴스 할리우드 영화배우 제이미 폭스가 건강을 회복 후 퇴원 한 것으로 알려졌다. 12일(현지시각) 제이미 폭스의 딸은 아빠가 퇴원 후 상태가 호전 중이며 집에서 피클볼을 할 정도로 컨디션이 좋다고 말했다. 제이미 폭스가 또 위독하다는 이야기가 나온 가운데, 딸이 직접 아빠의 건]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘문재인입니다’ 역주행 박스오피스 2위 등극, ‘노무현입니다’ 흥행 잇는다]]></title>
         <id>https://v.daum.net/v/20230513151644459</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230513091615818"/>
         <updated>2023-05-13T00:51:17.421Z</updated>
         <content type="html"><![CDATA[[OSEN=하수정 기자] '가디언즈 오브 갤럭시3'(이하 가오갤3)가 1위를 지킨 가운데, 다큐멘터리 '문재인입니다'가 역주행으로 깜짝 흥행 2위에 올랐다. 13일 영화진흥위원회 영화관입장권통합전산망 집계에 따르면, '가디언즈 오브 갤럭시3'(가오갤3)는 지난 12일 하루 1,691개 스크린에서 14만 9,117명을 끌어 모아 누적관객수 216만 3,2]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘가오갤3’, 하이 에볼루셔너리와 타노스는 닮은꼴 빌런]]></title>
-        <id>https://v.daum.net/v/20230513090717697</id>
-        <link href="https://v.daum.net/v/20230513090717697"/>
-        <updated>2023-05-13T00:51:17.421Z</updated>
-        <content type="html"><![CDATA[[곽명동의 씨네톡] ‘가디언즈 오브 갤럭시3’의 흥행 성공 이유 중 하나는 강렬한 빌런 하이 에볼루셔너리(추쿠디 이우지)의 등장이다. 제작 초기에 캐스팅 논란이 불거졌을 때 제임스 건 감독은 “나는 최고의 배우와 그 역할에 가장 적합한 배우를 선택했다. 추쿠디 이우지가 어떤 민족이고, 인종인지 신경도 안 쓴다. 그가 왜 캐스팅됐는지에 대한 인종 차별적인]]></content>
     </entry>
 </feed>
