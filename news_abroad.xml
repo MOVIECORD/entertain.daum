@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-05-13T23:10:35.307Z</updated>
+    <updated>2023-05-14T00:56:28.969Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[벤 애플렉 “짜증났다” VS 제니퍼 로페즈 “슬펐다”…부부싸움의 진실은?]]></title>
+        <id>https://v.daum.net/v/20230514093044312</id>
+        <link href="https://v.daum.net/v/20230514093044312"/>
+        <updated>2023-05-14T00:56:28.384Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]할리우드 커플 벤 애플렉(50)과 제니퍼 로페즈(53)가 최근 부부싸움을 하는 모습이 목격된 가운데 이들의 당시 상황에 대한 자세한 내용이 알려졌다. 13일(현지시간) 데일리메일에 따르면, 사진과 동영상을 촬영한 관광객은 애플렉이 "좌절하거나 짜증이 난" 것처럼 보였고 로페즈는 "소심해 보였고" "약간 슬퍼 보였다"고 말했다]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[드웨인 존슨 ‘분노의 질주: 라이드 오어 다이’ 깜짝 출연, “빈 디젤과 싸우고 안나온다더니”]]></title>
         <id>https://v.daum.net/v/20230514070147633</id>
@@ -53,12 +60,5 @@
         <link href="https://v.daum.net/v/20230513103745697"/>
         <updated>2023-05-13T02:00:29.923Z</updated>
         <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]할리우드 배우 힐러리 더프(35)가 기네스 팰트로(50)의 ‘굶는 다이어트’에 공감한다고 밝혔다. 그는 12일(현지시간) ‘립스틱 온 더 림’ 팟캐스트에 출연해 “팰트로가 그런 말을 해서 곤경에 처했지만, 가끔은 나도 아침에 커피를 마시고 다른 것은 먹지 않는다”고 말했다. 이어 “정말 배가 고파서 깨어난 적도 있다”고 전]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[스칼렛 요한슨, 여성 임금차별에 분노 “‘어벤져스’ 男 동료보다 적어”]]></title>
-        <id>https://v.daum.net/v/20230513093643046</id>
-        <link href="https://v.daum.net/v/20230513093643046"/>
-        <updated>2023-05-13T00:51:40.406Z</updated>
-        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]할리우드 배우 스칼렛 요한슨(38)이 할리우드의 남녀 임금차별을 비판했다. 그는 최근 버라이어티와 인터뷰에서 “어머니는 ‘비슷한 출연 시간이나 노력으로 같은 금액을 벌어야한다. 넌 가치가 있다'고 말했다”면서 “우리 집에서 공정성은 당연한 것이었다”고 밝혔다. 할리우드는 역사적으로 여성보다 남성에게 더 많은 돈을 지불해 왔]]></content>
     </entry>
 </feed>
