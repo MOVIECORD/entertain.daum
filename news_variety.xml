@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/variety</id>
     <title>다음 연예 ─ 뉴스 ─ 예능</title>
-    <updated>2023-05-14T18:12:45.371Z</updated>
+    <updated>2023-05-14T19:08:39.995Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["한 인물 했다"…현정화, '올림픽 미인 2위' 김연아→하지원급]]></title>
+        <id>https://v.daum.net/v/20230515040615378</id>
+        <link href="https://v.daum.net/v/20230515040615378"/>
+        <updated>2023-05-14T19:08:28.595Z</updated>
+        <content type="html"><![CDATA[[OSEN=장우영 기자] ‘사장님 귀는 당나귀 귀’ 현정화가 미모부심을 보였다. 14일 방송된 KBS2 ‘사장님 귀는 당나귀 귀’에서는 현정화가 새로운 보스로 합류하는 모습이 그려졌다. 이날 새로운 보스로 합류한 현정화는 과거 인기에 대해 “탁구공이 없어서 못 팔 정도”라고 말했다. 전현무도 “탁구장 없는 동네가 없었다”고 현정화의 인기를 증명했다. 현]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘17세 연하♥’ 미나... “형님? 나보다 20살 어려” 깜짝]]></title>
         <id>https://v.daum.net/v/20230515013415902</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230514230418281"/>
         <updated>2023-05-14T14:10:08.516Z</updated>
         <content type="html"><![CDATA[[OSEN=김수형 기자] '미우새'에서 김선영이 그려진 가운데 허경환이 조카를 깜짝 공개했다. 14일 방송된 SBS 예능 '미운우리새끼(미우새)'이 그려졌다.&nbsp; MC들은 "'미우새' 적이라 할 수 없지만&nbsp;드라마 '일타스캔들'로 시청률이 흔들렸다"고 하자김선영은 &nbsp;"그럼 정경호, 전도연한테 사과 받아라"고 말해 웃음짓게 했다. &nbsp; 또 이날 김선영은 전도연]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[인교진 “집에 잠깐 갔다 와야 될 거 같다” 안절부절… 무슨 일?]]></title>
-        <id>https://v.daum.net/v/20230514225718207</id>
-        <link href="https://v.daum.net/v/20230514225718207"/>
-        <updated>2023-05-14T14:10:08.517Z</updated>
-        <content type="html"><![CDATA[[마이데일리 = 임유리 기자] 배우 인교진이 관계 전문가 김지윤의 조언을 듣고 반성했다. 14일 밤 방송된 MBC 예능 프로그램 ‘물 건너온 아빠들’에는 관계 전문가 김지윤이 출연했다. 이날 김지윤은 “약간 부모님들이 실수할 때가 뭐냐면 정서 수용을 해주다가 ‘그래도 언니니까 조금만 더 참아’ 이런다. 진짜 잔인한 거다”라며 그런 말은 절대 금물이라]]></content>
     </entry>
 </feed>
