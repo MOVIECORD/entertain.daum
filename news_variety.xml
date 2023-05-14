@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/variety</id>
     <title>다음 연예 ─ 뉴스 ─ 예능</title>
-    <updated>2023-05-14T16:12:47.979Z</updated>
+    <updated>2023-05-14T17:09:08.716Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘17세 연하♥’ 미나... “형님? 나보다 20살 어려” 깜짝]]></title>
+        <id>https://v.daum.net/v/20230515013415902</id>
+        <link href="https://v.daum.net/v/20230515013415902"/>
+        <updated>2023-05-14T17:08:57.078Z</updated>
+        <content type="html"><![CDATA[[OSEN=박근희 기자] '걸어서 환장 속으로’ 미나가 최근에 새로 생긴 형님이 본인보다 20살 어리다고 밝혔다. 14일 오후 방송된 KBS 2TV '걸어서 환장 속으로’에서는 결혼 6년 차의 17살 연상연하 부부 미나-류필립이 황혼 재혼 5년 차인 미나의 부모님 장무식-나기수, 그리고 여동생 심성미와 함께 싱가포르 갓성비 가족 여행을 떠났다. 스페셜]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[운 좋으면 집에서 돌고래도…애월바다 뷰 주택에 가비도 깜짝]]></title>
         <id>https://v.daum.net/v/20230515011144861</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230514225718207"/>
         <updated>2023-05-14T14:10:08.517Z</updated>
         <content type="html"><![CDATA[[마이데일리 = 임유리 기자] 배우 인교진이 관계 전문가 김지윤의 조언을 듣고 반성했다. 14일 밤 방송된 MBC 예능 프로그램 ‘물 건너온 아빠들’에는 관계 전문가 김지윤이 출연했다. 이날 김지윤은 “약간 부모님들이 실수할 때가 뭐냐면 정서 수용을 해주다가 ‘그래도 언니니까 조금만 더 참아’ 이런다. 진짜 잔인한 거다”라며 그런 말은 절대 금물이라]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['미우새' 김선영 "청소는 한 달에 한 번..남편도 마찬가지"]]></title>
-        <id>https://v.daum.net/v/20230514225331198</id>
-        <link href="https://v.daum.net/v/20230514225331198"/>
-        <updated>2023-05-14T14:10:08.531Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 | 정은채 기자] /사진='미운 우리 새끼' 방송화면 캡쳐배우 김선영이 물건을 제자리에 두는 게 가장 어려운 일이라고 고백했다. 14일 방송된 SBS 예능 프로그램 '미운 우리 새끼'에서는 흥행 보장 연기파 배우 김선영이 게스트로 출연했다. 이날 김선영이 살림을 잘하지 못한다며 가장 어려운 일은 물건을 제자리에 두는 것이라고 고백했다. 이에]]></content>
     </entry>
 </feed>
