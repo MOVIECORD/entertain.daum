@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-05-15T11:09:45.613Z</updated>
+    <updated>2023-05-15T13:15:10.317Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['스파이더맨: 어크로스 더 유니버스' 6월 21일 개봉 확정, "스페셜 포스터 3종 공개"]]></title>
+        <id>https://v.daum.net/v/20230515213019470</id>
+        <link href="https://v.daum.net/v/20230515213019470"/>
+        <updated>2023-05-15T13:14:47.449Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]영화 '스파이더맨: 어크로스 더 유니버스'(수입/배급: 소니 픽쳐스)가 6월 21일(수) 개봉을 확정 짓고 스페셜 포스터 3종을 공개했다. 영화 '스파이더맨: 어크로스 더 유니버스'는 새로운 스파이더맨 ‘마일스 모랄레스’(샤메익 무어)가 수많은 스파이더맨들과 함께 멀티버스 세계 속 다중 우주의 질서를 잡기 위해 빌런과 대결하]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['우영우' 신드롬 탄생시킨 문지원, 또 장애 소재? 영화 감독 데뷔]]></title>
         <id>https://v.daum.net/v/20230515200101388</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230515161502092"/>
         <updated>2023-05-15T08:13:34.133Z</updated>
         <content type="html"><![CDATA[[성하훈 기자] ▲ &nbsp;이용관 부산국제영화제 이사장이 15일 오후 부산 해운대구 영화의전당에서 기자간담회를 열고 사의를 표명하고 있다. 이 이사장은 허문영 영화제 집행위원장 사의 표명과 관련해 책임을 지고 이사장직에서 물러나겠다고 밝혔다. ⓒ 연합뉴스&nbsp; 부산영화제 이용관 이사장이 15일 기자간담회를 열고 최근 조종국 운영위원장 선임과 허문영 집행위원장 사임에]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['유턴 노쇼' 유아인에 뿔난 경찰, 체포영장 칼 빼드나]]></title>
-        <id>https://v.daum.net/v/20230515160101445</id>
-        <link href="https://v.daum.net/v/20230515160101445"/>
-        <updated>2023-05-15T07:11:08.946Z</updated>
-        <content type="html"><![CDATA[[텐아시아=최지예 기자]마약 상습 투약 혐의를 받는 배우 유아인(본명 엄홍식·37)에 경찰이 체포 영장의 칼을 빼들지 주목된다.&nbsp; 15일 열린 정례 기자간담회에서 우종수 경찰청 국가수사본부장은 유아인의 마약 혐의 수사 일정과 관련 "소환조사는 일정을 조율해 조속한 시일 내에 하겠다"고 밝혔다.&nbsp; 우 본부장은 시일을 묻는 질문에 "피의조사자 측에서 소환]]></content>
     </entry>
 </feed>
