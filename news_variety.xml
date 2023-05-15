@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/variety</id>
     <title>다음 연예 ─ 뉴스 ─ 예능</title>
-    <updated>2023-05-15T03:11:34.751Z</updated>
+    <updated>2023-05-15T04:13:13.094Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[10CM 권정열 “유죄 인간? 칭찬인데 어감 별로, 범죄자 같아”]]></title>
+        <id>https://v.daum.net/v/20230515122844025</id>
+        <link href="https://v.daum.net/v/20230515122844025"/>
+        <updated>2023-05-15T04:13:02.535Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 하지원 기자] 가수 10CM(십센치) 권정열이 '유죄 인간' 별명에 대한 생각을 밝혔다. 5월 15일 방송된 MBC FM4U '정오의 희망곡 김신영입니다'에는 10CM 권정열이 게스트로 출연했다. 이날 김신영은 10CM의 데뷔 13주년을 축하했다. 권정열은 "몇 주년 이런 걸 잘 안 챙긴다. 머쓱하다"며 "기분이 되게 좋지는 않다"고 민망해했다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘환승연애’ 日 리메이크→유럽 진출까지…6월15일 글로벌 공개]]></title>
+        <id>https://v.daum.net/v/20230515122348957</id>
+        <link href="https://v.daum.net/v/20230515122348957"/>
+        <updated>2023-05-15T04:13:02.540Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 김명미 기자] 티빙 오리지널 '환승연애'가 오는 6월 일본 리메이크 버전으로 재탄생한다. 5월 15일 티빙은 오리지널 예능 '환승연애(EXchange)'의 일본 리메이크 '러브 트랜짓(Love Transit)'이 6월 15일 아마존 프라임 비디오를 통해 전 세계에 공개된다고 밝혔다. '러브 트랜짓(Love Transit)'은 출연자들이 서로의 전]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[신동엽 "♥선혜윤, 연애 당시 신입 PD였는데 단둘이서 회의했다"]]></title>
         <id>https://v.daum.net/v/20230515115715368</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230515105505638"/>
         <updated>2023-05-15T02:06:27.371Z</updated>
         <content type="html"><![CDATA[[스타뉴스 | 이경호 기자]  'TV CHOSUN 조선의 사랑꾼'에서 이용식 가족과 원혁이 여행을 떠난 모습이 공개된다./사진제공='TV CHOSUN 조선의 사랑꾼''조선의 사랑꾼'에서 '용암 니슨' 이용식이 딸의 남자친구 원혁에게 제대로 '돌직구'를 던진다. 15일 방송될 TV CHOSUN 순도 100% 리얼 다큐예능 '조선의 사랑꾼'에서는 여행 가이드]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김선영 "전도연=빛, 훔쳐보다 대본 넘기는 것도 까먹어"]]></title>
-        <id>https://v.daum.net/v/20230515105145487</id>
-        <link href="https://v.daum.net/v/20230515105145487"/>
-        <updated>2023-05-15T02:06:27.371Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 장인영 기자) 배우 김선영이 '일타스캔들'에서 함께 호흡을 맞춘 전도연에게 감탄했다.&nbsp; 지난 14일 방송된 SBS 예능 프로그램 '미운 우리 새끼'(이하 '미우새')에서는 김선영이 스페셜 MC로 출연해 다양한 이야기를 나눴다.&nbsp; 이날 신동엽은 김선영에게 "적이라곤 할 수 없지만 한때 드라마 '일타스캔들' 때문에 굳건히]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[백종원 장사 꼴찌 탈출…‘백사장’ 타깃 시청률 전채널 1위]]></title>
-        <id>https://v.daum.net/v/20230515104651220</id>
-        <link href="https://v.daum.net/v/20230515104651220"/>
-        <updated>2023-05-15T02:06:27.371Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 황혜진 기자] tvN ‘장사천재 백사장’ 백종원이 ‘장사꼴찌’ 탈출에 이어 매출 상승, 시청률 상승세도 이뤘따. 5월 14일 방송된 ‘장사천재 백사장’(연출 이우형) 7회는 자체 최고 시청률을 경신했다. 수도권 평균 6.4%, 최고 8.6%, 전국 가구 평균 5.8%, 최고 7.6%를 나타내며, 케이블-종편 포함 동시간대 1위 자리를 지켰다.]]></content>
     </entry>
 </feed>
