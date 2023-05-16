@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-05-16T14:10:23.583Z</updated>
+    <updated>2023-05-16T16:20:32.251Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['어쩌다 마주친 그대' 김동욱, 새 용의자에 깜짝 "이제야 말이 맞네"]]></title>
+        <id>https://v.daum.net/v/20230516232113579</id>
+        <link href="https://v.daum.net/v/20230516232113579"/>
+        <updated>2023-05-16T16:20:12.048Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 | 이빛나리 기자] /사진='어쩌다 마주친, 그대' 방송화면'어쩌다 마주친, 그대' 김동욱이 진기주가 지목한 용의자의 이름을 듣고 깜짝 놀랐다. 16일 방송된 KBS 2TV 월화드라마 '어쩌다 마주친, 그대'에서 백윤영(진기주 분)이 윤해준(김동욱 분)에 연쇄 살인 사건 유력 용의자인 파란 모자에 대해 물었다. 이날 윤해준은 파란 모자의 정체]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[파란모자 쓴 연쇄살인범..."희섭이 아니라 형 유섭이라고?"]]></title>
         <id>https://v.daum.net/v/20230516230514414</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230516195241439"/>
         <updated>2023-05-16T11:09:03.512Z</updated>
         <content type="html"><![CDATA[[스타뉴스 | 김지은 인턴기자] /사진='하늘의 인연' 화면 캡처정한용이 정우연에 대한 깊은 애정을 드러냈다. 16일 오후 방송된 MBC 일일드라마 '하늘의 인연' 22회에서 샤인 코스메틱 10주년 행상 진행 중 기절한 강세나(정우연 분)가 병원에서 회복 후 백화점에서 쇼핑을 하는 모습이 담겼다. 강세나는 자신이 짝사랑하는 하진우(서한결 분)에게 선물]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘하늘의 인연’ 고은미, 조미령에 독설.. “남편들이 친구라고 우리도 친구?” 모멸감 줘]]></title>
-        <id>https://v.daum.net/v/20230516195114406</id>
-        <link href="https://v.daum.net/v/20230516195114406"/>
-        <updated>2023-05-16T11:09:03.513Z</updated>
-        <content type="html"><![CDATA[[TV리포트=이혜미 기자] 조미령이 고은미의 막말에 모멸감을 느꼈다. 16일 MBC ‘하늘의 인연’에선 오랜 친구 영은(조미령 분)을 ‘삼월이’라 칭하는 것으로 모멸감을 주는 미강(고은미 분)의 모습이 그려졌다. 이날 영은은 친구들이 모인 자리에서 미강의 차가운 태도를 꾸짖곤 “사람 어디 쉽게 변하니. 전에도 얼음 공주였잖아. 그땐 나이나 어렸으니 공주지,]]></content>
     </entry>
 </feed>
