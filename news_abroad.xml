@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-05-16T20:11:24.241Z</updated>
+    <updated>2023-05-16T22:11:31.230Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘누드사진 게재’ 브리트니 스피어스, “문자 보내도 두 아들이 답장 안해” 분노]]></title>
+        <id>https://v.daum.net/v/20230517065616174</id>
+        <link href="https://v.daum.net/v/20230517065616174"/>
+        <updated>2023-05-16T22:11:30.345Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]세계적 팝스타 브리트니 스피어스(41)가 지난해 두 아들이 자신의 보낸 문자에 답장을 안한 것을 두고 화를 낸 것으로 알려졌다. 연예매체 TMZ 프로듀서 케이티 헤이즈는 15일(현지시간) “지난해 두 아들이 엄마의 문자에 답장조차 하지 않았고, 결국 스피어스는 분노했다”고 말했다. 한 소식통은 이날 페이지식스에 스피어스가]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[크리스 헴스워스, 연기 위해 몸에 불 붙여...CG 아니었다]]></title>
         <id>https://v.daum.net/v/20230517040216441</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230516142316031"/>
         <updated>2023-05-16T06:21:02.549Z</updated>
         <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]‘인어공주’ 할리 베일리(23)가 싱그러운 미소로 시선을 사로 잡았다. 그는 15일(현지시간) 영국 런던에서 열린 디즈니 실사영화 ‘인어공주’ 프리미어 시사회에 참석했다. 베일리는 하늘색 프릴과 은색 스팽글로 장식된 흰색 튤 드레스를 입고 아름다움을 뽐냈다. 또한  구슬이 박힌 헤드 피스를 착용하고 다이아몬드와 진주 드롭]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘위독설’ 제이미 폭스, 퇴원→’뇌 손상’ 재활 전문 치료센터 입소]]></title>
-        <id>https://v.daum.net/v/20230516141914853</id>
-        <link href="https://v.daum.net/v/20230516141914853"/>
-        <updated>2023-05-16T06:21:02.552Z</updated>
-        <content type="html"><![CDATA[[OSEN=유수연 기자] 의학적 합병증으로 병원에 입원한 제이미 폭스가 퇴원 후 재활센터에 입소했다. 15일(현지시각) 연예 매체 TMZ 등의 보도에 따르면 제이미 폭스는 현재 시카고에 위치한 재활치료센터에 입소했다. 앞서 폭스는 &nbsp;지난달 새 영화 촬영장에서 심한 정신적 붕괴와 육체적 변화를&nbsp;겪은 것으로 알려졌다. 이후 그는 4월 중순 ‘의료적 합병증’]]></content>
     </entry>
 </feed>
