@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-05-16T12:25:51.643Z</updated>
+    <updated>2023-05-16T13:15:33.848Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[제레미 스트롱 "아버지가 나 대신 교통사고 당해...두 다리 부러져"]]></title>
+        <id>https://v.daum.net/v/20230516220216636</id>
+        <link href="https://v.daum.net/v/20230516220216636"/>
+        <updated>2023-05-16T13:15:33.082Z</updated>
+        <content type="html"><![CDATA[[TV리포트=유비취 기자] 배우 제레미 스트롱이 어릴 적 죽을 뻔했던 교통사고를 회고했다. 지난 14일(현지 시간) CBS '선데이 모닝'에 출연한 제레미 스트롱(44)은 8살 때 과속 차량에 치여 죽을 뻔했다고 고백했다. 제레미 스트롱은 보스턴에서 살던 시절 공원 앞에서 횡단보도를 건너다가 속도를 줄이지 않은 차량에 치일 뻔했다고 말문을 열었다. 이를]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['분노의 질주10' 제이슨 모모아 "아쉬운 점 하나 있어"]]></title>
         <id>https://v.daum.net/v/20230516210030858</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230516130215621"/>
         <updated>2023-05-16T04:14:30.398Z</updated>
         <content type="html"><![CDATA[[TV리포트=이예은 기자] 벌써 두 아이의 엄마가 된 리한나(35)가 남자친구 에이셉 라키(35)와의 결혼을 미루고 있다.&nbsp; 외신 매체 레이더스 온라인닷컴은 14일(현지 시간) 세계적인 팝가수 리한나가 결혼을 서두르지 않고 있다고 보도했다.&nbsp;&nbsp; 외신에 따르면 리한나는 결혼이 두 사람 간의 조화로운 관계를 깨뜨리고, 삶을 더 복잡하게 만들 거라고 생각해 두려]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[에드워드 펄롱, 역변한 외모도 충격인데‥“폭행 전여친과 재결합”]]></title>
-        <id>https://v.daum.net/v/20230516115846292</id>
-        <link href="https://v.daum.net/v/20230516115846292"/>
-        <updated>2023-05-16T03:11:55.565Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 배효주 기자] '역변의 아이콘'에 등극한 배우 에드워드 펄롱의 근황이 공개됐다. 스플래시 닷컴은 지난 달 미국 LA 모처에서 포착된 에드워드 펄롱의 사진을 공개했다. 해당 매체에 따르면 에드워드 펄롱은 10년 전 교제했던 전 여자친구 모니카 키나와 함께였다. 에드워드 펄롱은 10년 전인 2013년 모니카 키나를 폭행한 혐의로 실형을 선고받고 6]]></content>
     </entry>
 </feed>
