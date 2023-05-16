@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2023-05-16T18:13:28.312Z</updated>
+    <updated>2023-05-16T19:09:19.786Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[웃다 보면 서늘함과 주름이… 블랙코미디 ‘슬픔의 삼각형’]]></title>
+        <id>https://v.daum.net/v/20230517040718489</id>
+        <link href="https://v.daum.net/v/20230517040718489"/>
+        <updated>2023-05-16T19:09:14.163Z</updated>
+        <content type="html"><![CDATA[“오만한 브랜드의 패션쇼를 위한 오디션인가요, 아니면 상냥한 브랜드의 모델을 뽑는 오디션인가요. 자, 발렌시아가 표정을 지어보세요. 도도하게. 이번엔 덜 비싼 브랜드 에이치엔앰 표정, 그렇죠. 활짝 웃으세요. 다시 발렌시아가, 에이치엔엠, 발렌시아가….” 웃옷을 벗은 남성 모델들이 오디션을 준비하고 있다. 마이크를 든 리포터는 칼(해리스 디킨슨)을 비롯한]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘낭만닥터’시즌3가 시즌1·2와 달라진 것…의사의 신념·가치 생각하게 해]]></title>
         <id>https://v.daum.net/v/20230517025315076</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230517000047068"/>
         <updated>2023-05-16T16:20:24.897Z</updated>
         <content type="html"><![CDATA[[스포츠서울 | 유다연인턴기자] 배우 안재욱이 ‘돌싱’들의 순서 정하기를 이해하지 못했다. 16일 방송된 SBS ‘신발벗고 돌싱포맨’에 배우 안재욱과 가수 이홍기가 출연했다. 안재욱은 “왜 너희(돌싱포맨)끼리 서열을 정하는지 모르겠다”라고 일침했다. 이를 듣던 이상민은 “탁재훈은 여기서 1위를 하는 것에 희열을 느낀다”라고 이른다. 이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[안재욱 "♥최현주 감기 가져가려고 키스"..탁재훈 '질투 폭발']]></title>
-        <id>https://v.daum.net/v/20230517000042063</id>
-        <link href="https://v.daum.net/v/20230517000042063"/>
-        <updated>2023-05-16T16:20:24.899Z</updated>
-        <content type="html"><![CDATA[[스포츠조선닷컴 정유나 기자] '돌싱포맨' 안재욱의 사랑꾼 일화가 전해졌다. 16일 방송된 SBS '신발벗고 돌싱포맨'에서는 만능 엔터테이너 안재욱, 이홍기가 출연했다. 이날 멤버들은 안재욱이 '허세 사랑꾼'이라는 의혹을 제기했다. 먼저 안재욱이 잠든 아내 최현주가 너무 예뻐서 해 뜰 때까지 쳐다만 봤다는 일화가 전해졌다. 이에 안재욱은 "]]></content>
     </entry>
 </feed>
