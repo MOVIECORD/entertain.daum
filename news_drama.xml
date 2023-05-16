@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-05-16T09:12:06.382Z</updated>
+    <updated>2023-05-16T10:11:13.086Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['가면의 여왕' 분열 시작된 김선아X오윤아의 공조]]></title>
+        <id>https://v.daum.net/v/20230516183016619</id>
+        <link href="https://v.daum.net/v/20230516183016619"/>
+        <updated>2023-05-16T10:10:56.326Z</updated>
+        <content type="html"><![CDATA[사진=채널A[이데일리 스타in 유준하 기자] ‘가면의 여왕’이 속고 속이는 팽팽한 복수 심리전으로 안방극장을 사로잡았다. 지난 15일 방송된 채널A 월화드라마 ‘가면의 여왕’ 7회에서는 도재이(김선아 분)와 고유나(오윤아 분)의 복수 공조가 분열을 일으키기 시작, 시청자들의 손에 땀을 쥐게 했다. 이날 방송에서 재이는 경찰과 함께 엔젤스 클럽의 비밀]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[넷플릭스 측 "'오징어 게임3'까지 동시 촬영? 시즌2 준비 매진"]]></title>
+        <id>https://v.daum.net/v/20230516181333177</id>
+        <link href="https://v.daum.net/v/20230516181333177"/>
+        <updated>2023-05-16T10:10:56.327Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 | 최혜진 기자] 오징어 게임/사진=넷플릭스 넷플릭스 측이 오리지널 시리즈 '오징어 게임'이 시즌2, 3가 동시 제작된다는 보도에 대한 입장을 밝혔다. 16일 넷플릭스 관계자는 스타뉴스에 "팬 여러분께 즐거움을 드리는 작품을 만들기 위해 현재 '오징어 게임' 제작진은 시즌 2 제작 준비에 매진하고 있다"고 밝혔다. 그러면서도 "아직 초기]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['화밤' 나상도 父, 며느리감 공개 구혼…홍자 "돈·집 마련됐다" 어필]]></title>
         <id>https://v.daum.net/v/20230516180433946</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230516155144141"/>
         <updated>2023-05-16T07:17:56.237Z</updated>
         <content type="html"><![CDATA[(엑스포츠뉴스 황수연 기자) 조선통보 환수에 실패한 팀 ‘카르마’가 이제는 흥(興)으로 돌격할 예정이다. tvN 수목드라마 ‘스틸러: 일곱 개의 조선통보’에서 현재 팀 ‘카르마’가 김영수(이덕화 분)의 계략에 빠져 열세에 몰렸다. 궁지에 빠질 때마다 기막힌 전술을 선보였던 이들이 이번에는 어떤 카드를 꺼내 들지 궁금해지고 있다. 이에 창단 이후 하루도 바람]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[논란 덮은 '닥터 차정숙', 승승장구…주말극 4연속 성공]]></title>
-        <id>https://v.daum.net/v/20230516153144231</id>
-        <link href="https://v.daum.net/v/20230516153144231"/>
-        <updated>2023-05-16T07:17:56.243Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 김유진 기자) 반환점을 돈 JTBC 토일드라마 '닥터 차정숙'이 10회 만에 최고 시청률을 기록하며 승승장구 중이다. 지난 14일 방송된 '닥터 차정숙' 10회는 18%(닐슨코리아 제공, 전국 유료 가구 기준)의 시청률로 자체 최고 수치를 경신했다. 이는 올해 JTBC 최고 기록이기도 하다. '닥터 차정숙'은 20년 차 가정주부에서 1년 차]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘어쩌다 마주친, 그대’ 서지혜, 무공해 청정 매력]]></title>
-        <id>https://v.daum.net/v/20230516152442899</id>
-        <link href="https://v.daum.net/v/20230516152442899"/>
-        <updated>2023-05-16T07:17:56.245Z</updated>
-        <content type="html"><![CDATA[[OSEN=김채연 기자] ’어쩌다 마주친, 그대’&nbsp;서지혜가 숨겨진 원석에서 빛나는 보석으로 거듭나고 있다. KBS 2TV 월화드라마 ‘어쩌다 마주친, 그대’가 많은 호평 속에서 상승 기류를 타고 있다. TV 화제성 분석 전문 기관 굿데이터코퍼레이션이 발표한 5월 1주 차 TV-OTT 종합 화제성 부문에 6위로 첫 진입하는 등 나날이 치솟는 인기를 실감케]]></content>
     </entry>
 </feed>

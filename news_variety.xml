@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/variety</id>
     <title>다음 연예 ─ 뉴스 ─ 예능</title>
-    <updated>2023-05-16T09:12:06.385Z</updated>
+    <updated>2023-05-16T10:11:13.088Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[전현무 대상, 솔비 덕분이었나…"내 일처럼 기뻐"한 이유]]></title>
+        <id>https://v.daum.net/v/20230516190110251</id>
+        <link href="https://v.daum.net/v/20230516190110251"/>
+        <updated>2023-05-16T10:11:01.742Z</updated>
+        <content type="html"><![CDATA[[텐아시아=태유나 기자] 방송인 솔비가 전현무의 대상 소식을 기뻐한 이유를 밝혔다. 16일 방송된 SBS 파워FM '최화정의 파워타임'에는 솔비가 게스트로 출연했다. 이날 한 청취자는 "작년에 솔비 작가님 작품을 구매하고 저희 아들이 서울대에 합격했다"는 소식을 전했다. 이에 솔비는 "이런 소식 들을 때마다 정말 행복하다. 작업하고 나서 기도를 해서]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[황제성, '킹스미스' 화보 비화 밝혔다…"영정사진 될 뻔했다"]]></title>
         <id>https://v.daum.net/v/20230516180619994</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230516160255603"/>
         <updated>2023-05-16T07:18:02.701Z</updated>
         <content type="html"><![CDATA[[뉴스엔 황혜진 기자] tvN 역사 예능 ‘벌거벗은 세계사’가 자이니치 코리안의 생존 역사를 다룬다. 5월 16일 방송되는 ‘벌거벗은 세계사’ 99회에서 출연진은 일본에 거주 중인 한국인 ‘자이니치 코리안’의 역사를 통해 우익의 표적이 된 과정을 짚어본다. 이를 위해 건국대학교 일어교육과 박삼헌 교수가 강연에 나선다. ‘메이지 유신’, ‘이토 히로부미’,]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[유재석, 재입대 위기 처했다 "훈련소에서 뵙겠다"]]></title>
-        <id>https://v.daum.net/v/20230516160045491</id>
-        <link href="https://v.daum.net/v/20230516160045491"/>
-        <updated>2023-05-16T07:18:02.705Z</updated>
-        <content type="html"><![CDATA[[마이데일리 = 강다윤 기자] 코미디언 유재석이 갑작스러운 재입대 위기에 처했다. 16일 진행되는 '플레이유 레벨업' 라이브에서는  유재석이 '나라의 부름'을 받고 군입대를 앞둔 입영예정자로 등장한다. 앞선 라이브에서 고3 수험생, 재수생을 거쳐 당당히 입시에 성공, 명문대 패션디자인학과에 입학하며 시청자 '유'들의 축하 세례가 쏟아졌던 터, 갑작스러운]]></content>
     </entry>
 </feed>
