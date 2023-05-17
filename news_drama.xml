@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-05-17T15:11:27.072Z</updated>
+    <updated>2023-05-17T16:15:40.035Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[대한민국은 '차정숙' 열풍...JTBC 역대 4위로 우뚝]]></title>
+        <id>https://v.daum.net/v/20230518010030598</id>
+        <link href="https://v.daum.net/v/20230518010030598"/>
+        <updated>2023-05-17T16:15:21.629Z</updated>
+        <content type="html"><![CDATA[[TV리포트=이수연 기자] 엄정화 표 '굳센 엄마' 연기가 전국을 장악하고 있다. JTBC 토일드라마 '닥터 차정숙'이 차정숙(엄정화 분)이 남편 서인호(김병철 분)의 모든 비밀을 알게 되면서 새 국면을 맞은 가운데, 매회 신기록을 경신하며 신드롬급 열풍을 이끌고 있다. 지난 14일 10회 시청률은 자체 최고인 전국 18.0% 수도권 18.9%, 분당 최]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[송혜교X한소희 '자백의 대가' 무산됐지만.."그래두 내꺼" 찐우정]]></title>
         <id>https://v.daum.net/v/20230518000001042</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230517201642797"/>
         <updated>2023-05-17T12:21:30.425Z</updated>
         <content type="html"><![CDATA[(엑스포츠뉴스 장인영 기자) '비밀의 여자' 이채영이 해외 지사로 발령났다.&nbsp;&nbsp; 17일 방송된 KBS 2TV 일일드라마 '비밀의 여자'에서는 주애라(이채영 분)의 해외 발령에 환호하는 남유진(한기웅)의 모습이 전파를 탔다.&nbsp; 이날 정겨울(신고은)의 오빠 정영준(이은형)은 오세린(최윤영)의 육체에 동생의 영혼이 들어갔음을 알게 됐고, "보고 싶었어. 겨울아"]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["대본 수정 이견有" 송혜교·한소희, '자백의 대가' 출연 불발 속사정]]></title>
-        <id>https://v.daum.net/v/20230517200102481</id>
-        <link href="https://v.daum.net/v/20230517200102481"/>
-        <updated>2023-05-17T11:09:33.793Z</updated>
-        <content type="html"><![CDATA[[텐아시아=태유나 기자] 배우 송혜교와 한소희의 투샷을 볼 수 없게 됐다. 드라마 ‘자백의 대가’에 출연이 불발되면서다. 이 배경에는 제작사와의 작품 방향성에 대한 이견이 존재했다. 17일 텐아시아 취재 결과 배우 송혜교와 한소희, 심나연 감독은 ‘자백의 대가’에 참여하지 않기로 가닥을 잡았다.&nbsp; '자백의 대가'는 살인사건을 둘러싼 두 여성의 핏빛 연]]></content>
     </entry>
 </feed>
