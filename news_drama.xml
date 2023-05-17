@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-05-17T20:11:24.895Z</updated>
+    <updated>2023-05-17T21:09:44.615Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['비인두암 극복' 김우빈 "흡연신=CG…환우들에게 내 존재가 힘 되길"]]></title>
+        <id>https://v.daum.net/v/20230518060101592</id>
+        <link href="https://v.daum.net/v/20230518060101592"/>
+        <updated>2023-05-17T21:09:27.313Z</updated>
+        <content type="html"><![CDATA[[텐아시아=김지원 기자] "제가 밝은 옷이 더 잘 어울려요. 제작발표회 날도 다들 검정색을 입지 않을까 싶어서 검정색도 준비해갔는데 오전에 스타일리스트 누나와 얘기해보고 카키색을 입은 거죠. 하하." 화사한 베이지톤의 슈트를 차려입고 인터뷰에 나온 김우빈은 밝은 얼굴로 인사했다. 비인두암을 극복하고 건강하게 돌아온 김우빈은 지난 12일 공개된 넷플릭스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['닥터차정숙' 제작진이 밝힌 인기 비결 "코미디+의드=문턱 낮췄다"]]></title>
         <id>https://v.daum.net/v/20230518044946534</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230517202915030"/>
         <updated>2023-05-17T12:21:30.415Z</updated>
         <content type="html"><![CDATA[[스타뉴스 | 김지은 인턴기자] /사진='하늘의 인연' 화면 캡처김유석은 정우연을 모델로 한 브랜드 '세라'를 홍보하기 위해 댓글 조작을 지시했다. 17일 오후 방송된 MBC 일일드라마 '하늘의 인연' 23회에서 강치환(김유석 분)이 이중적인 모습으로 인터뷰를 하는 장면이 담겼다. 취재 기자가 강치환에게 리더십 비결에 대해 묻자 "신뢰다. 직원들이 저]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['하늘의 인연' 진주형, 母에 정우연 향한 마음 숨겨]]></title>
-        <id>https://v.daum.net/v/20230517202719014</id>
-        <link href="https://v.daum.net/v/20230517202719014"/>
-        <updated>2023-05-17T12:21:30.424Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 | 김지은 인턴기자] /사진='하늘의 인연' 화면 캡처진주형이 정우연에 대한 사랑의 감정을 숨겼다. 17일 오후 방송된 MBC 일일드라마 '하늘의 인연' 23회에서 오화순(김난희 분)이 아들 문도현(진주형 분)에게 추문하는 모습이 담겼다. 오화순은 문도현에게 "왜 하필 세나(정우연 분)를 안고 병원을 데리고 갔냐. 하나도 숨기지 말고 네 감정]]></content>
     </entry>
 </feed>
