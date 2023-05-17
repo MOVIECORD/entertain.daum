@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-05-17T13:14:50.498Z</updated>
+    <updated>2023-05-17T14:11:02.603Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['스틸러' 이주우, 주원에 "우린 가족이잖아" 애틋]]></title>
+        <id>https://v.daum.net/v/20230517230242583</id>
+        <link href="https://v.daum.net/v/20230517230242583"/>
+        <updated>2023-05-17T14:10:45.894Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 이이진 기자) '스틸러: 일곱 개의 조선통보' 이주우가 주원을 설득했다. 17일 방송된 tvN '스틸러: 일곱 개의 조선통보' 11회에서는 최민우(이주우 분)가 황대명(주원)을 위로하는 모습이 그려졌다. 이날 황대명은 조흰달(김재철)이 자신의 부모를 죽였다는 사실을 깨달았고, 김영수(이덕화)로부터 사주를 받았다는 것을 알았다. 최민우는 복수하]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김호영 "혼사 앞두고 자식들끼리 연애질"...조향기 "막장드라마에 개족보네"]]></title>
         <id>https://v.daum.net/v/20230517210900781</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230517181822806"/>
         <updated>2023-05-17T10:12:18.687Z</updated>
         <content type="html"><![CDATA[‘마당이 있는 집’[이데일리 스타in 김가영 기자] 배우 임지연이 ‘더 글로리’의 학폭 가해자 박연진에서 ‘마당이 있는 집’의 피해자 추상은으로 돌아온다. 지니 TV 오리지널 ‘마당이 있는 집’(연출 정지현 극본 지아니 기획 KT스튜디오지니 제작 스튜디오드래곤, 영화사 도로시)은 동명의 베스트셀러 소설을 원작으로 한 드라마로 뒷마당에서 나는 수상한 냄새로]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[송지효, 9억 못 받고도 사비 털어 직원들 도와준 뒷이야기]]></title>
-        <id>https://v.daum.net/v/20230517181439693</id>
-        <link href="https://v.daum.net/v/20230517181439693"/>
-        <updated>2023-05-17T10:12:18.697Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 | 김미화 기자] 송지효 배우 송지효가 9억원의 정산금을 받지 못하고도 사비를 털어 직원들을 도왔다. 평소에도 자신과 함께 일하는 팀을 살뜰히 챙긴 송지효의 진심이 느껴진다. 17일 송지효 측근 관계자는 스타뉴스에 "송지효 배우가 월급을 정산 받지 못하고, 개인 카드로 회사 지출을 한 직원들을 위해 사비를 털었다"라며 "직원들이 어렵다는 이야기]]></content>
     </entry>
 </feed>
