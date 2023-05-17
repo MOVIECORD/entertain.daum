@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-05-17T21:09:44.608Z</updated>
+    <updated>2023-05-17T22:10:31.658Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['조커2' 레이디 가가, 저택에 경찰 출동..스토커 무단침입?]]></title>
+        <id>https://v.daum.net/v/20230518063944273</id>
+        <link href="https://v.daum.net/v/20230518063944273"/>
+        <updated>2023-05-17T22:10:31.001Z</updated>
+        <content type="html"><![CDATA[[OSEN=박소영 기자] 레이디 가가의 집에 경찰이 출동했다. 15일(현지시각) 외신보도에 따르면 미국 로스앤젤레스에 있는 레이디 가가의 저택에 무단침입 신고가 접수됐다. 지난 11일 정체불명의 남성이 레이디 가가의 집에 나타나 꽃다발을 두고 간 것. 보안팀이 저지하기 전까지 이 남성은 레이디 가가의 저택 진입로에 들어선 걸로 알려졌다. 사건 당시 레이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[에드 시런, '언어 장애' 고백...안타까운 개인사]]></title>
         <id>https://v.daum.net/v/20230518040216121</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230517153216749"/>
         <updated>2023-05-17T08:15:33.719Z</updated>
         <content type="html"><![CDATA[[TV리포트=유비취 기자] 전설적인 밴드 오아시스의 전 멤버 노엘 갤러거가 백인 중년 여성을 향한 욕설을 내뱉었다. 16일(현지 시간) 연예매체 더 미러에 따르면 노엘 갤러거(55)는 '워키즘'(각성주의, 깨어있는 척하기)이 걱정된다고 밝혔다. 그는 백인 중년 여성에 의해 젊은 남성들이 피해를 입는다고 주장했다. 노엘 갤러거는 자신의 10대 두 아들과 형제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[마이클 더글라스 늦둥이 20살 딸, 칸 영화제 데뷔‥우아한 드레스 자태]]></title>
-        <id>https://v.daum.net/v/20230517145846083</id>
-        <link href="https://v.daum.net/v/20230517145846083"/>
-        <updated>2023-05-17T06:15:55.191Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 배효주 기자] 마이클 더글라스와 캐서린 제타 존스 부부의 딸 캐리스 제타 더글라스가 칸 국제영화제를 통해 얼굴을 알렸다. 마이클 더글라스(78)와 캐서린 제타 존스(53) 부부는 5월 16일(현지시간) 프랑스 칸에서 열린 제76회 칸 국제영화제 개막식 레드카펫에 올랐다. 딸 캐리스 제타 더글라스와 함께였다. 무엇보다 캐리스 제타 더글라스의 화려한]]></content>
     </entry>
 </feed>
