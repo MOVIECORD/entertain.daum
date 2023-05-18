@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-05-18T04:13:29.697Z</updated>
+    <updated>2023-05-18T05:11:09.132Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘미친 영화와 뇌절 사이’…‘분노의 질주10’, 화제 속 1위]]></title>
+        <id>https://v.daum.net/v/20230518133006050</id>
+        <link href="https://v.daum.net/v/20230518133006050"/>
+        <updated>2023-05-18T05:10:46.733Z</updated>
+        <content type="html"><![CDATA[‘미친 영화’의 탄생이다. 영화 ‘분노의 질주: 라이드 오어 다이’(감독 루이스 리터리어, 이하 ‘분노의 질주10’)가 개봉과 동시에 13만명 이상의 관객을 동원하며 1위 질주의 스타트를 끊었다. 18일 영화진흥위원회 영화관입장권 통합전산망 집계결과 ‘분노의 질주10’은 전날 13만2520명을 모아 박스오피스 1위를 차지했다. ‘분노의 질주10’은]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[아파트를 장만했다, 비극이 시작됐다]]></title>
+        <id>https://v.daum.net/v/20230518133001036</id>
+        <link href="https://v.daum.net/v/20230518133001036"/>
+        <updated>2023-05-18T05:10:46.734Z</updated>
+        <content type="html"><![CDATA[[이선필 기자] &nbsp;▲ &nbsp;영화 &lt;드림팰리스&gt; 관련 이미지.ⓒ 인디스토리&nbsp; '당신이 사는 곳이 당신을 말해줍니다'라는 유명 광고 카피가 있었다. 한 대형 건설사의 아파트 브랜드 광고에 나온 이 문구는 여러 의미로 논란이 됐지만, 그 자체로 현재 한국 사회 저변에 깔린 불특정 다수의 욕망을 건드리는 것임은 분명해 보였다. 집이 사는 곳이 아닌 신분의 증명 수단이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['택배기사' 송승헌 "빌런 도전..악에 가깝지만, 연민가는 캐릭터"]]></title>
         <id>https://v.daum.net/v/20230518130002307</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230518105004770"/>
         <updated>2023-05-18T02:03:18.808Z</updated>
         <content type="html"><![CDATA[(엑스포츠뉴스 오승현 기자) 영화 '분노의 질주: 라이드 오어 다이'(감독 루이스 리터리어)가 더욱 아찔해진 액션으로 돌아왔다. 17일 개봉한 '분노의 질주: 라이드 오어 다이'는 도미닉 토레토(빈 디젤 분) 패밀리가 운명의 적 단테 레이예스 (제이슨 모모아)에 맞서 목숨을 건 마지막 질주를 담은 액션 블록버스터 영화로 단테에 의해 흩어진 패밀리들의 강렬한]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[조니 뎁이 또? 칸 국제영화제 공식 행사 40분 지각에 구설수]]></title>
-        <id>https://v.daum.net/v/20230518104544580</id>
-        <link href="https://v.daum.net/v/20230518104544580"/>
-        <updated>2023-05-18T02:03:18.810Z</updated>
-        <content type="html"><![CDATA[[티브이데일리 최하나 기자] 할리우드 배우 조니 뎁이 또 다시 구설수에 올랐다. 복귀 무대였던 칸 국제영화제 공식 행사에서 지각하면서 논란의 중심이 됐다. 조니 뎁은 지난 17일(현지시간) 제76회 칸국제영화제의 영화 ‘잔 뒤 바리’ 행사에 지각했다. 영화제 측은 교통체증으로 인해 조니 뎁이 늦자 행사를 20여 분 미뤘으나, 결국 조니 뎁은 약 40분]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘아바타’ 편집감독 담관암 사망‥“마지막까지 3편 편집했다”]]></title>
-        <id>https://v.daum.net/v/20230518104045315</id>
-        <link href="https://v.daum.net/v/20230518104045315"/>
-        <updated>2023-05-18T02:03:18.812Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 배효주 기자] '아바타' 시리즈 편집감독 존 리포어가 사망했다. 향년 58세. 5월 16일(현지시간) 해외 매체 할리우드리포터 보도에 따르면 '아바타'(2009)와 '아바타: 물의 길'(2022)를 작업한 편집감독 존 리포어가 담관암으로 사망했다. 그는 2022년 초 암 진단을 받은 것으로 알려졌다. 그의 아내인 세레나 벨 리포어는 SNS를 통해]]></content>
     </entry>
 </feed>
