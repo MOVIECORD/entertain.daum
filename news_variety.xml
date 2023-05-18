@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/variety</id>
     <title>다음 연예 ─ 뉴스 ─ 예능</title>
-    <updated>2023-05-18T15:11:02.390Z</updated>
+    <updated>2023-05-18T16:15:24.760Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김호중, 박성온과 도플갱어 케미..."아빠와 아들 같아"]]></title>
+        <id>https://v.daum.net/v/20230519003144691</id>
+        <link href="https://v.daum.net/v/20230519003144691"/>
+        <updated>2023-05-18T16:15:13.782Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 노수린 기자) 김호중이 박성온과 닮은꼴 케미를 뽐냈다. 18일 방송된 TV조선 '미스터로또'에서는 TOP7(안성훈, 박지현, 진해성, 나상도, 최수호, 진욱, 박성온)과 박서진, 김용필, 재하, 송가인, 김호중, 영기, 나태주가 출연해 팬들을 위한 무대를 꾸몄다. 이날 방송은 '안.사.모(안성훈을 사랑하는 사람들의 모임)' 특집. 김호중은 안]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[윤송아, NFT 1억 원 작가 등판..."미술=역도, 금메달 아니면 먹고 살기 힘들어"]]></title>
+        <id>https://v.daum.net/v/20230519001102591</id>
+        <link href="https://v.daum.net/v/20230519001102591"/>
+        <updated>2023-05-18T16:15:13.783Z</updated>
+        <content type="html"><![CDATA[[텐아시아=신지원 기자]'노머니 노아트' NFT 1억 원의 작가이자 배우인 윤송아가 등장했다. 18일 방송된 '노머니 노아트'에 아트테이너 윤송아 작가가 출연했다. 이날 윤송아가 등장하자 김지민은 "나 저 분 안다. 드라마에서 봤었다"라고 반가워했다. 윤송아 작가의 그림은 드라마 '괜찮아 사랑이야' 등에 등장하는 등 드라마에서도 조명되며 '미디어가 사랑한]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[故서세원 사망 원인=프로포폴..간호사가 고백한 진실]]></title>
         <id>https://v.daum.net/v/20230519000203452</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230518225844996"/>
         <updated>2023-05-18T14:10:02.537Z</updated>
         <content type="html"><![CDATA[[뉴스엔 이하나 기자] 오현태가 홍성민이 무대를 준비할 때 사랑에 대해서 알려줬다고 고백했다. 5월 18일 방송된 MBC ‘소년판타지-방과후 설렘 시즌2’에서는 투모로우바이투게더의 ‘Sugar Rush Ride’를 선곡한 팀의 무대가 공개 됐다. 강이랑을 방출한 투모로우바이투게더의 ‘Sugar Rush Ride’(태선, 홍성민, 히카루, 유준원, 오현]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한가인, "몸 예쁘면 옷 안 입어도…" 깜짝 발언]]></title>
-        <id>https://v.daum.net/v/20230518225418966</id>
-        <link href="https://v.daum.net/v/20230518225418966"/>
-        <updated>2023-05-18T14:10:02.539Z</updated>
-        <content type="html"><![CDATA[[OSEN=장우영 기자] 배우 한가인이 예쁜 몸매에 대한 환상을 드러냈다. 18일 방송된 MBN ‘신들의 사생활2-그리스 로마 신화’에서는 설민석이 아르테미스에 대해 이야기를 펼쳤다. 이날 도슨트 이창용은 ‘그리스 로마 신화’에 나오는 여신들을 옷으로 구분할 수 있다고 밝혔다. 그는 헤라, 아테나, 아프로디테, 아르테미스의 특징을 옷으로 구분하며 각종]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한우 앞에 드러난 팀워크…조세호 "배신하면 1년간 태양 안 봐"]]></title>
-        <id>https://v.daum.net/v/20230518225008942</id>
-        <link href="https://v.daum.net/v/20230518225008942"/>
-        <updated>2023-05-18T14:10:02.543Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 장인영 기자) '홍김동전' 조세호가 연이은 배신에 결국 태양과의 우정을 걸었다. 18일 방송된 KBS 2TV 예능 프로그램 '홍김동전'에서는 이왜진(이게 왜 진짜임) 특집으로 가수 태양이 게스트로 출연했다.&nbsp; 앞서 소고기 한상차림을 걸고 '텔레파시 의리 게임'을 진행했다. 눈 앞에 한우를 먹을지, 안 먹을지 택한 뒤 모두 먹지 않으면 한상차림]]></content>
     </entry>
 </feed>
