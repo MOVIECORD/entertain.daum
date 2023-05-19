@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-05-19T19:09:06.287Z</updated>
+    <updated>2023-05-19T20:11:33.853Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[한석규 무너지나‥손목 이상 포착 위기 ‘김사부3’]]></title>
+        <id>https://v.daum.net/v/20230520051045272</id>
+        <link href="https://v.daum.net/v/20230520051045272"/>
+        <updated>2023-05-19T20:11:16.607Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 서유나 기자] 한석규의 손목 이상이 포착돼 불안감을 고조시켰다. 5월 19일 방송된 SBS 금토드라마 '낭만닥터 김사부 3'(극본 강은경, 임혜민 / 연출 유인식, 강보승) 7회에서는 김사부(한석규 분)이 자신을 돌담병원 권역외상센터에 끌어들인 이유를 추측하던 차진만(이경영 분)이 김사부의 손목 이상을 감지했다. 이날 김사부는 외상센터로 총기]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['낭만닥터 김사부3' 이경영, "너 무너지고 있는 거냐"…한석규의 불편한 손 '포착']]></title>
         <id>https://v.daum.net/v/20230520024800858</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230519204715184"/>
         <updated>2023-05-19T12:18:55.578Z</updated>
         <content type="html"><![CDATA[[TV리포트 = 하수나 기자] 이채영이 한기웅 집안의 가사도우미가 된 김가연의 등장에 충격을 받는 모습을 보였다.&nbsp; 19일 KBS2 일일드라마 ‘비밀의 여자’에선 주애라(이채영 분)가 소희를 유괴했던 서경숙(김가연 분)에게 협박을 받는 모습이 그려졌다. 주애라는 서경숙이 남유진(한기웅 분) 집안의 가사도우미로 들어온 모습에 충격을 받았다. 서경숙은 “도우]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['비밀의 여자' 이채영, 김가연에 무릎 꿇었다 "살려주세요"]]></title>
-        <id>https://v.daum.net/v/20230519204327125</id>
-        <link href="https://v.daum.net/v/20230519204327125"/>
-        <updated>2023-05-19T12:18:55.586Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 | 이빛나리 기자] /사진='비밀의 여자' 방송화면'비밀의 여자' 이채영이 김가연 앞에서 무릎을 꿇었다. 19일 오후 방송된 KBS 2TV 일일드라마 '비밀의 여자'에서 서경숙(김가연 분)은 가짜 손녀딸 소희를 찾았다며 YJ 그룹 집안에 들어온 주애라를 협박했다. 이날 서경숙은 주애라에 진짜 소희가 어디에 있는지 알고 싶으면 돈을 마련하라고]]></content>
     </entry>
 </feed>
