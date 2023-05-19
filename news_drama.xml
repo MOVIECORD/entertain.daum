@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-05-19T15:11:28.399Z</updated>
+    <updated>2023-05-19T16:14:00.077Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[유인식, 취중 프로포즈 거절 당해..."미주야, 아윌비백이여"]]></title>
+        <id>https://v.daum.net/v/20230520010030649</id>
+        <link href="https://v.daum.net/v/20230520010030649"/>
+        <updated>2023-05-19T16:13:44.373Z</updated>
+        <content type="html"><![CDATA[[TV리포트=이예은 기자] 배우 유인수가 안은진에게 취중 직진 고백을 했다. JTBC '나쁜엄마'는 자식을 위해 악착같이 나쁜 엄마가 될 수밖에 없었던 영순(라미란 분)과&nbsp;7살이 된 아들 강호(이도현 분)가 잃어버린 행복을 찾아가는 감동의 힐링 코미디 드라마다.&nbsp; 극 중 안은진은 강호의 옛 연인 미주 역으로, 유인수는 미주를 짝사랑하는 삼식이 역으로 출연한]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["어머님 사랑해요 여자로서" 임성한 신작 '아씨 두리안', 이게 된다고?]]></title>
         <id>https://v.daum.net/v/20230520000016308</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230519202546882"/>
         <updated>2023-05-19T12:18:55.589Z</updated>
         <content type="html"><![CDATA[[스타뉴스 | 김지은 인턴기자] /사진='하늘의 인연' 화면 캡처정우연이 김난희와 마찰을 빚었다. 19일 오후 방송된 MBC 일일드라마 '하늘의 인연' 25회에서 강세나(정우연 분)가 하진우(서한결 분)을 오해하고 분노했다. 이날 하진우는 이창(이훈 분)의 집에서 신세를 졌고, 강세나는 하진우에게 통화를 시도했다. 전화기 너머로 해인(전혜연 분)의 "]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['비밀의 여자' 김가연, 이채영 협박 "진실 알고 싶으면 돈 마련해"]]></title>
-        <id>https://v.daum.net/v/20230519201016640</id>
-        <link href="https://v.daum.net/v/20230519201016640"/>
-        <updated>2023-05-19T12:18:55.591Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 | 이빛나리 기자] /사진='비밀의 여자' 방송화면'비밀의 여자' 김가연이 이채영을 협박했다. 19일 오후 방송된 KBS 2TV 일일드라마 '비밀의 여자'에서 YJ 그룹 가정부로 들어온 서경숙(김가연 분)이 주애라(이채영 분)를 협박했다. 이날 당분간 YJ 그룹 집안에서 함께 살기로 한 주애라는 서경숙을 보고 놀라 "여기를 어떻게 온 거예요?]]></content>
     </entry>
 </feed>
