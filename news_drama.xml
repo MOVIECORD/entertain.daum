@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-05-20T10:10:32.695Z</updated>
+    <updated>2023-05-20T11:08:58.815Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘낭만닥터 김사부3’ 안효섭, 총기난사범과 ‘일촉즉발 대치’]]></title>
+        <id>https://v.daum.net/v/20230520194706442</id>
+        <link href="https://v.daum.net/v/20230520194706442"/>
+        <updated>2023-05-20T11:08:43.579Z</updated>
+        <content type="html"><![CDATA[‘낭만닥터 김사부3’에서 안효섭이 총기난사범과 마주하는 상황에 처한다. 20일 방송되는 SBS 금토드라마 ‘낭만닥터 김사부3’ 8회에서는 도주 중인 총기난사범이 병원 내에 있다는 소식이 전해지며 아수라장이 된 돌담병원의 모습이 펼쳐진다. 지난 7회에서는 돌담병원 인근 군부대에서 총기사건이 벌어지며 총상환자들이 외상센터로 실려왔다. 군의관뿐 아니라 무장한 군]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['나폴리' 영웅 김민재 출격…'장사천재' 백종원, 연매출 5억 달성할까]]></title>
         <id>https://v.daum.net/v/20230520181416228</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230520131815758"/>
         <updated>2023-05-20T05:10:30.396Z</updated>
         <content type="html"><![CDATA[[OSEN=하수정 기자] ‘낭만닥터 김사부3’ 안효섭이 총기난사범과 마주하는 일촉즉발 상황에 처한다. 5월 20일 방송되는 SBS 금토드라마 ‘낭만닥터 김사부3’(극본 강은경, 임혜민/연출 유인식, 강보승/제작 삼화네트웍스, 스튜디오S) 8회에서는 도주 중인 총기난사범이 병원 내에 있다는 소식이 전해지며 아수라장이 된 돌담병원의 모습이 펼쳐진다. 지난]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['닥터차정숙' 다섯번째 OST, 아 그 목소리?..주인공은 바버렛츠 안신애]]></title>
-        <id>https://v.daum.net/v/20230520115216206</id>
-        <link href="https://v.daum.net/v/20230520115216206"/>
-        <updated>2023-05-20T03:11:41.604Z</updated>
-        <content type="html"><![CDATA[[OSEN=박소영 기자] ‘싱어송라이터 안신애가 참여한 '닥터&nbsp;차정숙'의 다섯 번째 OST가 오늘 20일 18시 각종 음원 사이트를 통해 발매된다. JTBC 토일드라마 '닥터&nbsp;차정숙'의 다섯 번째 OST 주자로 참여한 싱어송라이터 안신애는 레트로 음악 특유의 정서와 독보적인 색깔을 지닌 보컬그룹 '바버렛츠'의 멤버로 사랑받아왔다. 또한, 이하이의 '홀로]]></content>
     </entry>
 </feed>
