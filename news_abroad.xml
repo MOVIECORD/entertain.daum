@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-05-20T08:13:38.204Z</updated>
+    <updated>2023-05-20T09:09:56.178Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[두아 리파, ♥41살 프랑스 남친과 칸 레드카펫 데뷔 “허리 감싸”]]></title>
+        <id>https://v.daum.net/v/20230520180155019</id>
+        <link href="https://v.daum.net/v/20230520180155019"/>
+        <updated>2023-05-20T09:09:55.571Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]그래미상을 세 번이나 수상한 세계적 가수 두아 리파(27)가 프랑스 영화감독인 남자친구 로메인 가브라스(41)와 제76회 칸 국제영화제 레드카펫에 데뷔했다. 이들은 19일(현지시간) 칸의 팔레 데 페스티벌에서 열린 영화 ‘더 킹 오브 앨지어스’ 레드카펫 행사에 참석했다. 리파는 컷아웃과 긴 슬릿이 있는 시크한 블랙 원숄더]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[헤일리 비버 "♥저스틴 비버와 아이 원하지만…대중 험담 두려워"]]></title>
         <id>https://v.daum.net/v/20230520165552018</id>
@@ -74,19 +81,5 @@
         <link href="https://v.daum.net/v/20230519193216872"/>
         <updated>2023-05-19T11:09:29.122Z</updated>
         <content type="html"><![CDATA[[TV리포트=이예은 기자] 올해 팔순에 접어든 배우 해리슨 포드가 칸 영화제에서 명예 황금 종려상을 수상하고 끝내 눈물을 보였다.&nbsp; 외신 연예 매체 버라이어티는 19일(현지 시간) 프랑스 남부 지방 칸에서 열린 제76회 칸 국제영화제에&nbsp;해리슨 포드가 '인디아나 존스: 운명의 다이얼'로 초청받아 모습을 드러냈다고 보도했다.&nbsp; 아내인 칼리스타 플록하트와 함께]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[해리 스타일스, 모델과 또 열애설]]></title>
-        <id>https://v.daum.net/v/20230519172944300</id>
-        <link href="https://v.daum.net/v/20230519172944300"/>
-        <updated>2023-05-19T09:10:57.817Z</updated>
-        <content type="html"><![CDATA[[티브이데일리 김종은 기자] 팝 가수 해리 스타일스가 또 다른 열애설에 휘말렸다. 영국 매체 더 선은 18일(현지시간) 해리 스타일스와 남아프리카공화국 출신 모델 캔디스 스와네포엘과의 열애설을 보도했다. 캔디스 스와네포엘은 1988년생 빅토리아 시크릿 출신 모델로, 헤르만 니콜리와 2005년 결혼해 두 아들을 품에 안았으나 2008년 이혼했다. 해리 스타]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[다니엘 크레이그 아내, 유산 경험 고백..."여성의 경험일 뿐"]]></title>
-        <id>https://v.daum.net/v/20230519172216113</id>
-        <link href="https://v.daum.net/v/20230519172216113"/>
-        <updated>2023-05-19T09:10:57.820Z</updated>
-        <content type="html"><![CDATA[[TV리포트=이수연 기자] '제임스 본드' 다니엘 크레이그의 아내 레이첼 와이즈가 유산을 겪었다고 털어놨다. 지난 17일(현지 시간) 레이첼 와이즈는 팟캐스트 '뉴 에이전트'에서 유산을 경험한 바 있다고 고백했으나 구체적인 내용은 밝히지 않았다. 그는 1988년 공포 영화 '데드 링거'의 리메이크 드라마 시리즈에서 산부인과 의사를 맡았다. 그는 드라마 시]]></content>
     </entry>
 </feed>
