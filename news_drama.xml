@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-05-20T19:08:23.859Z</updated>
+    <updated>2023-05-20T20:11:40.053Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['김사부3' 소주연, 김민재에 "사랑하면 이해 못할 과거 없어" 뭉클]]></title>
+        <id>https://v.daum.net/v/20230521050114102</id>
+        <link href="https://v.daum.net/v/20230521050114102"/>
+        <updated>2023-05-20T20:11:23.197Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 | 이시호 기자] /사진=SBS '낭만닥터 김사부3' 방송 화면 캡처 '김사부3' 배우 김민재와 소주연이 서로의 과거를 고백했다. 20일 오후 첫 방송된 SBS 금토드라마 '낭만닥터 김사부3'에서는 박은탁(김민재 분)의 과거가 공개됐다. 앞서 오토바이 사고로 실려온 최석구(김균하 분)는 박은탁을 보자마자 시비를 걸어 긴장감을 높였다. 최석]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['낭만닥터 김사부3' 김민재, 마약성 진통제 내놓으라는 김균하에 '분노']]></title>
         <id>https://v.daum.net/v/20230521035400931</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230520231100313"/>
         <updated>2023-05-20T15:10:12.843Z</updated>
         <content type="html"><![CDATA[[TV리포트=김유진 기자]도주 중인 총기난사범이 병원 내에 있다는 소식이 전해지며 돌담병원이 아수라장이 됐다. 20일 방영된 SBS 드라마 '낭만닥터 김사부3' 8화는 박은탁(김민재)가 구타와 협박을 당하면서 시작됐다.&nbsp; 오토바이 사고를 당해 병원에 온 최석구(김균하)는 은탁을 으슥한 곳으로 불러내 구타를 하기 시작했다. 석구는 "너네 병원에 좋은 약 맞지]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[엄정화, 명세빈X김병철과 삼자대면…"한 달 안에 병원 그만둬"]]></title>
-        <id>https://v.daum.net/v/20230520230945308</id>
-        <link href="https://v.daum.net/v/20230520230945308"/>
-        <updated>2023-05-20T15:10:12.844Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 이나영 기자) '닥터 차정숙' 엄정화가 명세빈, 김병철과 삼자대면을 했다. 20일 방송된 JTBC '닥터 차정숙'에서는 최승희(명세빈 분), 서인호(김병철)와의 삼자대면하는 차정숙(엄정화)의 모습이 전파를 탔다. 불륜 사실을 알고도 어쩔 수 없어 출근했던 차정숙은 괴로워하던 중 참지 못하고 최승희를 찾아갔다. 최승희의 방으로 간 차정숙은 "서]]></content>
     </entry>
 </feed>
