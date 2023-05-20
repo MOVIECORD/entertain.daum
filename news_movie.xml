@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-05-20T04:12:56.533Z</updated>
+    <updated>2023-05-20T05:10:50.349Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["투병 이후 더 깊어져"..'택배기사' 조의석 감독, 김우빈 향한 신뢰]]></title>
+        <id>https://v.daum.net/v/20230520140002022</id>
+        <link href="https://v.daum.net/v/20230520140002022"/>
+        <updated>2023-05-20T05:10:24.278Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 | 김나연 기자] 조의석 감독 / 사진=넷플릭스'택배기사'를 통해 첫 시리즈물에 도전한 조의석 감독이  독특한 세계관을 바탕으로 디스토피아에서 유토피아를 꿈꾸는 사람들의 이야기를 그렸다. 특히 '마스터' 이후 다시 만난 김우빈에 대한 신뢰를 더해서다. 15일 서울시 종로구 소격동의 한 카페에서 넷플릭스 오리지널 시리즈 '택배기사'의 조의석 감]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘가오갤3’ 잡은 '분노의 질주‘, 주말 접전]]></title>
         <id>https://v.daum.net/v/20230520131023702</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230520070101293"/>
         <updated>2023-05-19T22:10:03.601Z</updated>
         <content type="html"><![CDATA[[텐아시아=강민경 기자] '분노의 시리즈: 라이드 오어 다이'의 흥행 질주가 시작됐다. 마블 '가디언즈 오브 갤럭시: Volume 3'를 제치고 1위로 올라서더니 이제 개봉 첫 주말 왕좌를 정조준한다. '분노의 질주: 라이드 오어 다이(이하 분노의 질주10)'는 5월 17일 전 세계 최초 한국에서 개봉했다. 개봉 첫날 13만 2517명을 동원했다. 시사]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['가오갤3'·'분노의질주10' 이어 '인어공주' 온다…외화 강세 지속]]></title>
-        <id>https://v.daum.net/v/20230520063114046</id>
-        <link href="https://v.daum.net/v/20230520063114046"/>
-        <updated>2023-05-19T22:10:03.602Z</updated>
-        <content type="html"><![CDATA[(서울=뉴스1) 장아름 기자 = 5월 중순 박스오피스도 여전히 외화 강세가 지속되고 있는 분위기다. 19일 영화진흥위원회 영화관입장권통합전산망 집계 기준, 7위 '나는 여기에 있다'와 8위 '드림' 그리고 10위 '문재인입니다' 세 편을 제외하고 모두 외화가 박스오피스를 점령했다. 1위는 단연 할리우드 액션 블록버스터 '분노의 질주: 라이드 오어 다이]]></content>
     </entry>
 </feed>
