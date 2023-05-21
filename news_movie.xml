@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-05-21T19:09:10.113Z</updated>
+    <updated>2023-05-21T20:10:56.824Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[정유미 "이선균과 네 번째 작업, 나를 반성하게 만드는 배우"]]></title>
+        <id>https://v.daum.net/v/20230522044522739</id>
+        <link href="https://v.daum.net/v/20230522044522739"/>
+        <updated>2023-05-21T20:10:35.685Z</updated>
+        <content type="html"><![CDATA[배우 정유미가 벌써 네 번째 같은 작품에서 만난 이선균을 향해 신뢰를 표했다. 정유미는 감독은 21일(현지시간) 오후 프랑스 남부 칸 팔레 데 페스티발의 영화진흥위원회 부스에서 진행된 영화 '잠'의 라운드 인터뷰에서 이선균에 대해 "언제나 든든함이 느껴지는 배우"라고 말했다. '잠'은 행복한 신혼부부 현수(이선균 분)와 수진(정유미 분)을 악몽처럼 덮친]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['잠' 유재선 감독 "봉준호 감독, 나의 멘토이자 영화적 영웅"]]></title>
+        <id>https://v.daum.net/v/20230522043740687</id>
+        <link href="https://v.daum.net/v/20230522043740687"/>
+        <updated>2023-05-21T20:10:35.685Z</updated>
+        <content type="html"><![CDATA[유재선 감독이 봉준호 감독에게 존경과 감사의 마음을 표했다. 유재선 감독은 21일(현지시간) 오후 프랑스 남부 칸 팔레 데 페스티발의 영화진흥위원회 부스에서 진행된 영화 '잠'의 라운드 인터뷰를 진행했다. 유 감독은 영화 첫 번째 장편영화 '잠'으로 올해 칸 국제영화제 비평가 주간 초청 올해 황금 카메라 수상 후보에 오른 것에 대해 "데뷔 영화를 칸에서 상]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이선균 "칸 초청작 '잠'·'탈출', 작품성 인정 받은 것 같아 기뻐"]]></title>
+        <id>https://v.daum.net/v/20230522041647590</id>
+        <link href="https://v.daum.net/v/20230522041647590"/>
+        <updated>2023-05-21T20:10:35.687Z</updated>
+        <content type="html"><![CDATA[배우 이선균이 영화 '잠'과 '탈출: 프로젝트 사일런스' 두 편으로 칸을 찾은 소감을 밝혔다. 이선균은 21일(현지시간) 오후 프랑스 남부 칸 팔레 데 페스티발의 영화진흥위원회 부스에서 진행된 영화 '잠'의 라운드 인터뷰에서 "'잠' '탈출: 프로젝트 사일런스' 모두 칸에서 처음 보게 됐다. 두 작품은 상반된 영화로, 칸 영화제에서 초청을 받아 완성도를 인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['잠' 이선균 "정유미와 네 번째 호흡, 이젠 전 여친 느낌 들어"]]></title>
         <id>https://v.daum.net/v/20230522003634892</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20230521130001796"/>
         <updated>2023-05-21T04:12:33.333Z</updated>
         <content type="html"><![CDATA[[스타뉴스 | 김나연 기자] 배우 김우빈이 17일 오후 종로구 삼청동의 한 카페에서 진행된 넷플릭스 오리지널 '택배기사' 관련 인터뷰를 위해 포즈를 취하고 있다.  김우빈은 극 중 막강한 전투 실력을 가진 인물이자 낮에는 생존을 위한 산소와 생필품을 전달하고, 밤에는 세상의 질서를 바꾸려는 기사(Knight)로 변해 천명그룹의 비밀을 파고드는 인물 '5-8]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김혜수·설경구…여름 텐트폴 영화, 어깨가 무겁다]]></title>
-        <id>https://v.daum.net/v/20230521124552633</id>
-        <link href="https://v.daum.net/v/20230521124552633"/>
-        <updated>2023-05-21T04:12:33.334Z</updated>
-        <content type="html"><![CDATA[영화 '밀수'부터 '더 문' '콘크리트 유토피아'까지 여름 텐트폴 라인업이 어느 정도 완성됐다. 유독 올여름의 텐트폴 영화들은 책임감이 막중하다. 살아난 극장가의 수혜는 해외 작품들에게만 집중됐고 쏠림 현상이 극대화됐기 때문이다. 관객들이 국내 작품을 기피하는 이유는 단순하다. 지금의 개봉작들에 흥미를 느끼지 못했다는 여론이 지배적이다. 국내 영화계의 한]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[무인도에 떨어지자, 돈도 외모도 필요 없어진 사람들]]></title>
-        <id>https://v.daum.net/v/20230521122100370</id>
-        <link href="https://v.daum.net/v/20230521122100370"/>
-        <updated>2023-05-21T04:12:33.334Z</updated>
-        <content type="html"><![CDATA[[장혜령 기자] ▲ &nbsp;루벤 외스틀룬드 감독ⓒ 그린나래미디어(주)&nbsp; 일생에 한 번 받기도 힘든 황금종려상(최고상)을 2번 받은 감독이 있다. &lt;더 스퀘어&gt;(2017)와 &lt;슬픔의 삼각형&gt;(2022)으로 제75회 칸영화제 황금종려상을 받았다. 발표하는 작품마다 신선한 충격, 발상의 전환으로 다가오는 '루벤 외스틀룬드' 감독. &lt;슬픔의 삼각형&gt;은 스웨덴 출신 감독]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[홍상수 영화 촬영한 이곳, 김민희 좌석도 유명세]]></title>
-        <id>https://v.daum.net/v/20230521115409924</id>
-        <link href="https://v.daum.net/v/20230521115409924"/>
-        <updated>2023-05-21T03:11:28.073Z</updated>
-        <content type="html"><![CDATA[코로나19 팬데믹 이후 극장 산업이 위축됐다는 위기의식이 팽배해진 요즈음, 국내에 몇 안 되는 독립예술영화 전용관들은 더욱 어려운 상황에 처해 있습니다. 출구가 보이지 않을 것만 같은 침체기에서도 나름의 자구책, 반짝이는 아이디어로 명맥을 이어가고 있는 예술영화 전용관들을 소개합니다. &lt;편집자말&gt; [이선필, 이정민 기자] &nbsp;▲ 라이카시네마 문유정 이사&nbsp;라이]]></content>
     </entry>
 </feed>
