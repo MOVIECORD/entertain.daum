@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-05-21T20:10:56.824Z</updated>
+    <updated>2023-05-21T21:09:44.693Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이선균, ♥전혜진+두 아들과 칸 동행…"처음으로 영화 같이 본다"]]></title>
+        <id>https://v.daum.net/v/20230522060205949</id>
+        <link href="https://v.daum.net/v/20230522060205949"/>
+        <updated>2023-05-21T21:09:20.333Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 조혜진 기자) 배우 이선균이 가족과 칸을 찾았다. 21일(현지시간) 프랑스 뤼미에르 대극장에서 제76회 칸국제영화제 비평가 주간에 초청된 영화 '잠'(감독 유재선) 시사회가 진행됐다. 올해 한국 영화는 칸영화제 경쟁 부문에는 초청 받지 못했지만, 총 7편의 영화가 초청됐다. 그중 이선균은 '잠'과 '탈출: PROJECT SILENCE'(감독]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[정유미 "이선균과 네 번째 작업, 나를 반성하게 만드는 배우"]]></title>
         <id>https://v.daum.net/v/20230522044522739</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230521133004228"/>
         <updated>2023-05-21T05:10:15.376Z</updated>
         <content type="html"><![CDATA[박스오피스 톱5서 한국영화가 사라졌다. ‘드림’ ‘킬링로맨스’ ‘리바운드’ 등 5월 기대작들이 예상 외로 고전한 가운데, ‘가디언즈 오브 갤럭시: 볼륨3’ ‘슈퍼마리오 브라더스’ ‘분노의 질주: 라이드 오어 다이’ 등 강력한 신작들이 등장하며 ‘한국영화 전멸’이란 충격적 결과를 맞이했다. 21일 영화진흥위원회 영화관입장권 통합전산망 집계결과 ‘분노의]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["건강 잃어보니 더 소중"..'택배기사' 김우빈의 변화]]></title>
-        <id>https://v.daum.net/v/20230521130001796</id>
-        <link href="https://v.daum.net/v/20230521130001796"/>
-        <updated>2023-05-21T04:12:33.333Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 | 김나연 기자] 배우 김우빈이 17일 오후 종로구 삼청동의 한 카페에서 진행된 넷플릭스 오리지널 '택배기사' 관련 인터뷰를 위해 포즈를 취하고 있다.  김우빈은 극 중 막강한 전투 실력을 가진 인물이자 낮에는 생존을 위한 산소와 생필품을 전달하고, 밤에는 세상의 질서를 바꾸려는 기사(Knight)로 변해 천명그룹의 비밀을 파고드는 인물 '5-8]]></content>
     </entry>
 </feed>
