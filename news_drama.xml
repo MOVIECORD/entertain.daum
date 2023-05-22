@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-05-22T14:11:00.445Z</updated>
+    <updated>2023-05-22T15:12:06.240Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[정가희, 빨간 줄에 묶여 결국 살해...김동욱 "모든게 원점이다"]]></title>
+        <id>https://v.daum.net/v/20230522232930059</id>
+        <link href="https://v.daum.net/v/20230522232930059"/>
+        <updated>2023-05-22T15:11:48.354Z</updated>
+        <content type="html"><![CDATA[[TV리포트=김유진 기자]진기주와 김동욱이 또 한번의 위기에 직면했다. 22일 방영된 KBS 드라마 '어쩌다 마주친 그대' 7화에서는 우정리 연쇄살인사건 용의자로 추정되는 파란 모자를 쓴 남자가 희섭(이원정)이 아닌 유섭(홍승안)인 것으로 밝혀졌다. 윤해준(김동욱)은 어쩌면 처음부터 틀렸는지도 모른다는 생각에 다시 자료를 뒤지기 시작했다. 해준은 백윤영(진]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['패밀리' 김남희, 장혁에 "장나라가 위험해, 그들의 마지막 타깃"]]></title>
         <id>https://v.daum.net/v/20230522225002839</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230522191324519"/>
         <updated>2023-05-22T11:09:37.681Z</updated>
         <content type="html"><![CDATA[[스타뉴스 | 이승훈 기자] /사진=고스트 스튜디오 배우 류경수가 눈빛 하나로 시청자들의 공감을 이끌어냈다. 21일 방송된 '구미호뎐1938'에서는 무영(류경수 분)이 이연(이동욱 분), 홍주(김소연 분)와 옛 모습을 잠시나마 되찾는 모습이 그려졌다. 이날 무영은 이연과의 조우도 잠시 서로 검을 겨누며 팽팽한 접전을 벌였다. 이어 홍주까지 나타나 대검으]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['장사천재 백사장' 매출 1등 목전에 두고  웃지 못한 이유는?]]></title>
-        <id>https://v.daum.net/v/20230522182444420</id>
-        <link href="https://v.daum.net/v/20230522182444420"/>
-        <updated>2023-05-22T10:11:50.168Z</updated>
-        <content type="html"><![CDATA[사진=tvN[이데일리 스타in 유준하 기자] tvN ‘장사천재 백사장’ 나폴리 유사 이래 최초의 한식당 ‘백반집’이 문전성시를 이루며 매출이 가파르게 상승했다. 매출 1위까지 바라볼 수 있을 정도였지만, ‘장사천재’ 백종원은 웃지 못했다. ‘백반집’의 체계가 무너지기 시작했고, 손님들의 불만이 속출했기 때문이었다. 지난 21일 방송된 tvN ‘장사천재 백]]></content>
     </entry>
 </feed>
