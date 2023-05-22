@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-05-22T03:12:55.346Z</updated>
+    <updated>2023-05-22T04:13:24.964Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[양자경, '에에올' 속편은 없다..."아시아인 역 그만할 것"]]></title>
+        <id>https://v.daum.net/v/20230522131030257</id>
+        <link href="https://v.daum.net/v/20230522131030257"/>
+        <updated>2023-05-22T04:13:24.162Z</updated>
+        <content type="html"><![CDATA[[TV리포트=이수연 기자] 아카데미를 휩쓴 영화 '에브리씽 에브리웨어 올 앳 원스'의 후속작은 없다. 최근 양자경(Michelle Yeoh)은 제76회 칸 국제영화제 동안 열린 '케링 우먼 인 모션'(Kering Women in Motion) 시상식에 참석했다. 이날 그는 20여 년 전 영화 '와호장룡 - 운명의 검'을 통해 칸 국제영화제에 처음 왔을 때]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[디카프리오♥지지 하디드, 칸영화제 나란히 참석 “데이트할까”]]></title>
         <id>https://v.daum.net/v/20230522110248010</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230521165121421"/>
         <updated>2023-05-21T08:12:48.904Z</updated>
         <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]마틴 스콜세이지 감독의 ‘더 킬러스 오브 더 플라워 문’이 극찬을 받고 있는 가운데 레오나르도 디카프리오(48)가 인생 최고의 연기를 펼쳤다는 호평을 받았다. ‘킬러스 오브 더 플라워 문’은 20일(현지시간) 프랑스 칸의 팔레 데 페스티벌에서 첫 프리미어 시사회를 열었다. 버라이어티는 “3시간 26분짜리 드라마는 미국 역사]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[두아 리파, 14살 연상 감독 남친 생겼다‥칸 영화제서 애정 표현 포착]]></title>
-        <id>https://v.daum.net/v/20230521142745517</id>
-        <link href="https://v.daum.net/v/20230521142745517"/>
-        <updated>2023-05-21T06:13:54.637Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 배효주 기자] 두아 리파가 연인과 함께 칸 국제영화제 레드카펫에 올랐다. 가수 두아 리파(27)는 5월 19일(현지시간) 프랑스 칸에서 열린 영화 '더 킹 오브 알제'(Omar la fraise) 시사회 레드카펫에 남자친구이자 프랑스 출신 감독인 로메인 가브라스(41)와 함께 참석했다. 이날 두아 리파는 관능적인 매력을 돋보이게 하는 블랙 드레스]]></content>
     </entry>
 </feed>
