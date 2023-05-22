@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-05-22T09:11:39.643Z</updated>
+    <updated>2023-05-22T10:12:06.538Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['장사천재 백사장' 매출 1등 목전에 두고  웃지 못한 이유는?]]></title>
+        <id>https://v.daum.net/v/20230522182444420</id>
+        <link href="https://v.daum.net/v/20230522182444420"/>
+        <updated>2023-05-22T10:11:50.168Z</updated>
+        <content type="html"><![CDATA[사진=tvN[이데일리 스타in 유준하 기자] tvN ‘장사천재 백사장’ 나폴리 유사 이래 최초의 한식당 ‘백반집’이 문전성시를 이루며 매출이 가파르게 상승했다. 매출 1위까지 바라볼 수 있을 정도였지만, ‘장사천재’ 백종원은 웃지 못했다. ‘백반집’의 체계가 무너지기 시작했고, 손님들의 불만이 속출했기 때문이었다. 지난 21일 방송된 tvN ‘장사천재 백]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[사회 문제 다룬 '닥터 차정숙'...재미와 공감 모두 사로잡다]]></title>
         <id>https://v.daum.net/v/20230522180030844</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230522143043931"/>
         <updated>2023-05-22T06:14:34.587Z</updated>
         <content type="html"><![CDATA[[뉴스엔 이민지 기자] 서지혜, 주연우가 여관에서 포착됐다. 5월 22일 방송되는 KBS 2TV 월화드라마 '어쩌다 마주친, 그대'(극본 백소연/연출 강수연 이웅희) 7회에서 이순애(서지혜 분)가 유범룡(주연우 분)의 손에 이끌려 우정여관 앞에 도착한다. 지난 6회 방송에서 순애는 백윤영(진기주 분)에게 자신의 남자친구인 범룡보다 백희섭(이원정 분)에]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김동욱X진기주, 또 위기? 위험 빠진 홍나현 구출 작전]]></title>
-        <id>https://v.daum.net/v/20230522142919831</id>
-        <link href="https://v.daum.net/v/20230522142919831"/>
-        <updated>2023-05-22T06:14:34.588Z</updated>
-        <content type="html"><![CDATA[[마이데일리 = 박서연 기자] ‘어쩌다 마주친, 그대’ 김동욱과 진기주가 또 한 번의 위기에 처한다. 22일 오후 9시 50분에 방송되는 KBS 2TV 월화드라마 ‘어쩌다 마주친, 그대’(극본 백소연 연출 강수연 이웅희) 7회에서는 윤해준(김동욱)과 백윤영(진기주)이 위험에 빠진 이경애(홍나현)을 구하기 위해 온 몸을 던져 극적 긴장감을 높인다. 이날 공]]></content>
     </entry>
 </feed>
