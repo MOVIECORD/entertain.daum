@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2023-05-22T18:13:22.365Z</updated>
+    <updated>2023-05-22T19:09:03.334Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[변성현 감독 “전도연·설경구, 한 장면에 오래 담고 싶었다”]]></title>
+        <id>https://v.daum.net/v/20230523040436382</id>
+        <link href="https://v.daum.net/v/20230523040436382"/>
+        <updated>2023-05-22T19:08:57.278Z</updated>
+        <content type="html"><![CDATA[‘불한당: 나쁜 놈들의 세상’(2017), ‘킹메이커’(2022) 등을 통해 스타일리시한 연출을 보여 준 변성현 감독이 넷플릭스 영화 ‘길복순’을 선보였다. 주인공 길복순(전도연)이 살인청부업자이자 중학생 딸의 엄마로 살아가는 이야기다. 길복순의 두 얼굴을 보여주며 다양한 도구를 사용한 액션 장면이 눈길을 끌었다. 지난달 6일 서울 종로구 한 카페에서 만]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['탈출' 이선균 "칸서 상영, 기분 좋은 출발…가족과 와서 특별해"]]></title>
         <id>https://v.daum.net/v/20230523030528086</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230522235125196"/>
         <updated>2023-05-22T15:11:59.795Z</updated>
         <content type="html"><![CDATA[[스포츠조선닷컴 이우주 기자] '형제라면' 이승기, 강호동, 배인혁이 우당탕탕 첫 영업을 시작했다. 22일 첫 방송된 TV조선 '형제라면'에서는 일본 라멘에 도전장을 내민 강호동, 이승기, 배인혁의 모습이 담겼다. 강호동과 이승기는 8년 만에 재회를 앞두고 긴장하고 있었다. 오랜만에 만나자마자 웃음을 터뜨린 두 사람. 두 사람은 반갑게 서]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[디저트로 떡볶이+빙수 세트 먹는 김숙 클래스... 대구 여행 찢었다]]></title>
-        <id>https://v.daum.net/v/20230522234800179</id>
-        <link href="https://v.daum.net/v/20230522234800179"/>
-        <updated>2023-05-22T15:11:59.797Z</updated>
-        <content type="html"><![CDATA[[TV리포트=이혜미 기자] 방송인 김숙이 쉼 없는 먹방으로 대구 여행의 피날레를 장식했다. 22일 김숙이 운영하는 유튜브 채널엔 “대구 여행 필수 시청, 김숙의 친구들이 알려주는 로컬 맛집”이라는 제목의 영상이 업로드 됐다. 이날 대구여행에 나선 김숙은 기상과 동시에 집밥을 먹으며 행복을 만끽했다. 유채나물에 부추무침까지, 신선함과 건강까지 잡은 한 상에]]></content>
     </entry>
 </feed>
