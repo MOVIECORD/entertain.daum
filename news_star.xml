@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2023-05-23T16:16:17.677Z</updated>
+    <updated>2023-05-23T17:12:15.320Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[안정환, 테리우스 시절 클래스.. “책상 밑 서랍에 편지와 먹을 게 한가득”]]></title>
+        <id>https://v.daum.net/v/20230524012714838</id>
+        <link href="https://v.daum.net/v/20230524012714838"/>
+        <updated>2023-05-23T17:12:09.951Z</updated>
+        <content type="html"><![CDATA[[스포츠서울 | 김태형기자] ‘테리우스’ 안정환이 첫사랑 시절을 떠올렸다. 23일 유튜브 채널 ‘뭉친TV’에는 ‘마음이 간질간질해지는 형님들의 첫사랑 스토리! [용만, 성주, 정환, 형돈의 토크 맛집]’이라는 영상이 게재됐다. 안정환, 김성주, 김용만, 정형돈은 첫사랑을 주제로 이야기꽃을 피웠다. 김용만은 “먼저 짝사랑 얘기를 해보자”라고 제안했]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘예비 아빠’ 송중기, ♥아내 케이티와 첫 공식석상]]></title>
+        <id>https://v.daum.net/v/20230524012202827</id>
+        <link href="https://v.daum.net/v/20230524012202827"/>
+        <updated>2023-05-23T17:12:09.952Z</updated>
+        <content type="html"><![CDATA[배우 송중기가 아내 케이티 루이스 사운더스와 칸 영화제 공식 초청작 ‘화란’을 관람하는 것으로 두 사람이 처음 함께 공식석상에 모습을 드러낸다. 23일(현지시간) 송중기는 프랑스 칸 시내 한 호텔에서 국내 언론과 인터뷰를 진행했다. 송중기는 인터뷰에서 아내와 태어날 아기에 대한 여러 이야기를 숨김없이 취재진에게 털어놨다. 송중기는 “아직 영화를 보지 않았다]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[꺼지지 않는 ‘열정페이’ 논란... 결국 김태리 직접 나섰다]]></title>
         <id>https://v.daum.net/v/20230524010931795</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230523232648065"/>
         <updated>2023-05-23T15:13:50.141Z</updated>
         <content type="html"><![CDATA[(서울=뉴스1) 이지현 기자 = 12년차 기자 조정린이 예능계를 떠난 이유를 고백했다. 23일 오후 방송된 SBS 새 예능 프로그램 '강심장 리그'에서는 방송인 출신 기자 조정린이 11년만에 예능에 출연하며 이목을 끌었다. 이 자리에서 조정린은 "성대모사로 기자가 됐다는데 맞냐, 왜 예능인을 그만둔 거냐, 많이 힘들었냐"라는 질문을 받았다. 이에 대]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["이 결혼 왜했지?"..선우은숙♥︎유영재→세븐♥︎이다해, 위기의 신혼들]]></title>
-        <id>https://v.daum.net/v/20230523231222963</id>
-        <link href="https://v.daum.net/v/20230523231222963"/>
-        <updated>2023-05-23T15:13:50.142Z</updated>
-        <content type="html"><![CDATA[[OSEN=김나연 기자] 신혼의 민낯일까, 아니면 예능적인 연출일 뿐일까. 결혼한지 일년도 채 되지 않은 스타 부부들도 갈등을 피해가지 못했다. 지난 20일 방송된 MBN '속풀이쇼 동치미'에서는 신혼여행 중 다툼을 벌이는 선우은숙-유영재 부부의 모습이 그려졌다. 선우은숙은 지난 1981년 배우 이영하와 결혼했지만 26년만인 2007년 이혼했다. 이후]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘넝~담 쌤’ 허동원, 아내와 첫 만남에 로맨틱 한복 사진 찍어]]></title>
-        <id>https://v.daum.net/v/20230523231143957</id>
-        <link href="https://v.daum.net/v/20230523231143957"/>
-        <updated>2023-05-23T15:13:50.143Z</updated>
-        <content type="html"><![CDATA[[스포츠서울 | 김태형기자] 배우 허동원이 아내와의 첫 만남을 떠올렸다. 23일 첫 방송된 SBS ‘강심장 리그’에는 배우 허동원, 박지아, 심소영과 지승준, 조정린, 이효정, 하종선 변호사와 지석진 등이 출연해 강렬한 입담을 뽐냈다. 토크 코치로는 이승기 팀에 영탁, 이지혜, 손동표가 자리했고 강호동 팀에는 김동현, 김호영, 엄지윤이]]></content>
     </entry>
 </feed>
