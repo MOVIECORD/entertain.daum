@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/variety</id>
     <title>다음 연예 ─ 뉴스 ─ 예능</title>
-    <updated>2023-05-23T18:13:30.913Z</updated>
+    <updated>2023-05-23T19:14:56.422Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['11년 만에 복귀' 조정린, 돌연 예능계 떠나 기자된 이유]]></title>
+        <id>https://v.daum.net/v/20230524034824571</id>
+        <link href="https://v.daum.net/v/20230524034824571"/>
+        <updated>2023-05-23T19:14:41.997Z</updated>
+        <content type="html"><![CDATA[[OSEN=김수형 기자] ‘강심장리그’에서 기자가 된 조정린이 11년 만에 예능계를 떠난 이유를 전했다.&nbsp; 23일 방송된 SBS 예능 ‘강심장리그’에서 조정린이 오랜만에 예능에 보구기했다.&nbsp; 이날 이승기는 조정린에 대해&nbsp;강호동 피해자(?)라 언급, 강호동은 “피해자 일리 없다”며 “결정적으로 강호동 보고싶어 나왔다고 들었다”고 말했다. 이에 기자정신에]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['더글로리' 넝~담 배우, 미모의 아내 최초공개]]></title>
         <id>https://v.daum.net/v/20230524022917997</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230523235338244"/>
         <updated>2023-05-23T15:13:44.422Z</updated>
         <content type="html"><![CDATA[조정린이 임신을 고백했다. 5월 23일 방송된 SBS 신규 예능 ‘강심장리그’에서 조정린은 결혼과 임신까지 털어놨다. 이승기는 “3월의 신부가 됐다”며 조정린을 반겼고 강호동은 “중요한 건 만난 지 6개월 만에 결혼했다. 예쁘다는 한 마디에 결혼을 결심했다고?”라고 질문했다. 조정린은 “어렸을 때 이상형이 있다. 어린 마음에 조인성처럼 멋있는 남자]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[빨강 예비부부, 파혼 위기 극복…남편 "내년에 결혼하자" 깜짝 프러포즈]]></title>
-        <id>https://v.daum.net/v/20230523235002229</id>
-        <link href="https://v.daum.net/v/20230523235002229"/>
-        <updated>2023-05-23T15:13:44.422Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 장인영 기자) 빨강 예비부부가 깜짝 놀랄만한 소식을 발표했다.&nbsp; 23일 방송된 SBS Plus '당신의 결혼은 안녕하십니까'(이하 '당결안')에서는 배우자의 속마음을 듣는 빨강 부부의 모습이 전파를 탔다.&nbsp; 이날 부부들은 아내, 남편으로 나눠 3MC들과 함께 배우자의 상처를 이해하는 시간을 가졌다.&nbsp; 빨강 아내는 남편에게 서운한 점에 대해 "]]></content>
     </entry>
 </feed>

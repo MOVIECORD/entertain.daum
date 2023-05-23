@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2023-05-23T18:13:30.907Z</updated>
+    <updated>2023-05-23T19:14:56.427Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[따로 또 같이..이효리♥이상순, 동시에 전한 '희소식']]></title>
+        <id>https://v.daum.net/v/20230524041001687</id>
+        <link href="https://v.daum.net/v/20230524041001687"/>
+        <updated>2023-05-23T19:14:49.075Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 | 김노을 기자] (왼쪽부터) 이효리, 이상순 /사진=스타뉴스, JTBC가수 이효리, 이상순 부부가 동시에 반가운 소식을 전했다. 이효리는 본업인 댄스 가수로 컴백하고, 이상순은 카페를 오픈한 지 1년도 채 되지 않아 블루리본을 획득했다. 이효리는 오는 25일 첫 방송되는 tvN 예능 프로그램 '댄스가수 유랑단'에 출연한다. 이 프로그램은 댄스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[스윙스, 무료 전환 콘서트 예매 증가.."6천명 근처, 잘할게"]]></title>
+        <id>https://v.daum.net/v/20230524040001581</id>
+        <link href="https://v.daum.net/v/20230524040001581"/>
+        <updated>2023-05-23T19:14:49.083Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 | 이경호 기자] 래퍼 스윙스/사진=스윙스 인스타그램래퍼 스윙스가 자존심을 살렸다. 스윙스는 23일 자신의 인스타그램에 "3천명이 아니라 6천명 근처래!!! 너무 고마워 잘할게"라는 글을 게재했다. 스윙스는 CULTURE THINK의 공지 사항도 함께 게재했다. 공지 사항은 "THANK YOU. &lt;AP ALCHEMY COMPILATION]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[안정환, 테리우스 시절 클래스.. “책상 밑 서랍에 편지와 먹을 게 한가득”]]></title>
         <id>https://v.daum.net/v/20230524012714838</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230523233955156"/>
         <updated>2023-05-23T15:13:50.139Z</updated>
         <content type="html"><![CDATA[[스포츠서울 | 김태형기자] TV조선 기자로 변신한 방송인 출신 조정린이 임신 소식을 알렸다. 23일 첫 방송된 SBS ‘강심장 리그’에는 배우 허동원, 박지아, 심소영과 지승준, 조정린, 이효정, 하종선 변호사와 지석진 등이 출연해 강렬한 입담을 뽐냈다. 토크 코치로는 이승기 팀에 영탁, 이지혜, 손동표가 자리했고 강호동 팀에는]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['임신 발표' 조정린 "변호사 남편과 6개월 만에 결혼"]]></title>
-        <id>https://v.daum.net/v/20230523233307095</id>
-        <link href="https://v.daum.net/v/20230523233307095"/>
-        <updated>2023-05-23T15:13:50.140Z</updated>
-        <content type="html"><![CDATA[[스포츠투데이 서지현 기자] '강심장리그' 조정린이 11년 만에 예능에 돌아왔다. 23일 첫 방송된 SBS '강심장리그'에서는 '모범택시' 시리즈 심소영, '더 글로리' 시리즈 박지아, 허동원, 기자 조정린, 슛돌이 지승준, 그룹 피프티피프티 등이 출연해 이야기를 나눴다. 이날 조정린은 "시청자 여러분 안녕하십니까. 2012년 4월 '강심장'을 끝으로]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['12년차 기자' 조정린 "예능계 떠난 이유? 스스로 부족하다 느껴"]]></title>
-        <id>https://v.daum.net/v/20230523232648065</id>
-        <link href="https://v.daum.net/v/20230523232648065"/>
-        <updated>2023-05-23T15:13:50.141Z</updated>
-        <content type="html"><![CDATA[(서울=뉴스1) 이지현 기자 = 12년차 기자 조정린이 예능계를 떠난 이유를 고백했다. 23일 오후 방송된 SBS 새 예능 프로그램 '강심장 리그'에서는 방송인 출신 기자 조정린이 11년만에 예능에 출연하며 이목을 끌었다. 이 자리에서 조정린은 "성대모사로 기자가 됐다는데 맞냐, 왜 예능인을 그만둔 거냐, 많이 힘들었냐"라는 질문을 받았다. 이에 대]]></content>
     </entry>
 </feed>

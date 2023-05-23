@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-05-23T18:13:30.911Z</updated>
+    <updated>2023-05-23T19:14:56.429Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[어두운 피부에 레게 머리 ‘인어공주’ 흥행 성공할까]]></title>
+        <id>https://v.daum.net/v/20230524040909682</id>
+        <link href="https://v.daum.net/v/20230524040909682"/>
+        <updated>2023-05-23T19:14:28.018Z</updated>
+        <content type="html"><![CDATA[“따뜻한 모래 위에서 하루를 보내려면 어떻게 해야 하나. 그곳에선 이해해 줄거야, 나처럼 혼나지 않겠지. 헤엄치는 게 지겨운 나를 두 발로 딛고 설 수 있게 해줄거야. 난 인간들이 아는 걸 알고 싶어, 궁금한 걸 묻고 대답을 듣고 싶어.” 바다의 왕 트라이튼(하비에르 바르뎀)의 막내딸인 인어공주 에리얼(할리 베일리)이 노래한다. 인간들에게 아내를 잃은 아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[송중기 “노 개런티 화제돼 민망, 서브지만 재미있는 것 하고 싶었다”]]></title>
         <id>https://v.daum.net/v/20230523234508183</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230523170601017"/>
         <updated>2023-05-23T08:13:58.646Z</updated>
         <content type="html"><![CDATA[[이선필 기자] ▲ &nbsp;영화 &lt;인어공주&gt; 포스터ⓒ 월트디즈니 컴퍼니 코리아자사 애니메이션 콘텐츠 실사화 프로젝트 중 하나인 &lt;인어공주&gt;가 18일 국내 언론에 첫공개됐다. 한스 크리스티안 안데르센 원작 동화로 1989년 디즈니가 애니메이션으로 제작하며 전 세계적으로 사랑받았기에 그만큼 실사화 과정에서 여러 논란이 있기도 한 작품이다. 인간 세계에 지대한 관심을]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[송중기 ‘화란’ 칸에서 인기 폭발 “자리 없어 서서 볼 정도”]]></title>
-        <id>https://v.daum.net/v/20230523164831398</id>
-        <link href="https://v.daum.net/v/20230523164831398"/>
-        <updated>2023-05-23T08:13:58.651Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 배효주 기자] 송중기 출연작 '화란'이 칸에서 첫 상영을 앞두고 있는 가운데, 전 세계 영화 관계자들의 뜨거운 관심을 한몸에 받고 있다. 영화 '화란'(감독 김창훈)은 지옥 같은 현실에서 벗어나고 싶은 소년 ‘연규’(홍사빈)가 조직의 중간 보스 ‘치건’(송중기)을 만나 위태로운 세계에 함께 하게 되며 펼쳐지는 이야기를 그린 느와르 드라마다. 제]]></content>
     </entry>
 </feed>
