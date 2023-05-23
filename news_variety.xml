@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/variety</id>
     <title>다음 연예 ─ 뉴스 ─ 예능</title>
-    <updated>2023-05-23T19:14:56.422Z</updated>
+    <updated>2023-05-23T20:11:39.415Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[장민호 "48500원에 장보기 쉽지 않아"…지갑만 만지작]]></title>
+        <id>https://v.daum.net/v/20230524050009891</id>
+        <link href="https://v.daum.net/v/20230524050009891"/>
+        <updated>2023-05-23T20:11:27.880Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 강다윤 기자] 가수 장민호가 48,500원 장보기에 물가를 체감한다. 24일 첫 방송되는 공영방송 50주년 특별 기획 KBS 1TV '장바구니 집사들'에서는 정해진 장바구니 규칙에 맞추기 위해 고심하는 집사장들의 첫 장보기 도전이 펼쳐진다. 최근 진행된 녹화에서 스튜디오에 모인 집사장 3인방 장성규, 한혜진, 장민호는 부모의 도움 없이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['11년 만에 복귀' 조정린, 돌연 예능계 떠나 기자된 이유]]></title>
         <id>https://v.daum.net/v/20230524034824571</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230524000108317"/>
         <updated>2023-05-23T15:13:44.422Z</updated>
         <content type="html"><![CDATA[가수 이효리가 새 앨범을 낼 가능성에 대해 언급했다. 5월 23일 열린 tvN 예능 '댄스가수 유랑단' 제작발표회에서 김완선, 엄정화, 이효리는 새 앨범과 가수 활동 계획에 관해 질문받았다. 김완선은 "저는 취미 활동으로 계속 하고 있었다. 다만 알려지지 않았을 뿐인데 십 년 전부터 계속 곡을 발표하고 있었다. 계속 하게 될 것 같다"고 말했다. 엄정]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[조정린 임신고백 “변호사 남편과 6개월만 결혼, 곧 엄마 돼”]]></title>
-        <id>https://v.daum.net/v/20230523235338244</id>
-        <link href="https://v.daum.net/v/20230523235338244"/>
-        <updated>2023-05-23T15:13:44.422Z</updated>
-        <content type="html"><![CDATA[조정린이 임신을 고백했다. 5월 23일 방송된 SBS 신규 예능 ‘강심장리그’에서 조정린은 결혼과 임신까지 털어놨다. 이승기는 “3월의 신부가 됐다”며 조정린을 반겼고 강호동은 “중요한 건 만난 지 6개월 만에 결혼했다. 예쁘다는 한 마디에 결혼을 결심했다고?”라고 질문했다. 조정린은 “어렸을 때 이상형이 있다. 어린 마음에 조인성처럼 멋있는 남자]]></content>
     </entry>
 </feed>
