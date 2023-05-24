@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-05-24T13:15:47.562Z</updated>
+    <updated>2023-05-24T14:12:54.346Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['나쁜엄마' 라미란, 이도현 도움으로 SD카드 비밀번호 찾았다]]></title>
+        <id>https://v.daum.net/v/20230524225705970</id>
+        <link href="https://v.daum.net/v/20230524225705970"/>
+        <updated>2023-05-24T14:12:37.844Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 | 이빛나리 기자] /사진='나쁜엄마' 방송화면'나쁜엄마'에서 라미란이 SD카드 비밀번호를 알아냈다. 24일 방송된 JTBC 수목드라마 '나쁜엄마'에서 최강호(이도현 분)의 편지를 읽고 SD카드를 찾아낸 진영순(라미란 분)은 노트북에 SD카드를 꽂고 비밀번호를 추측했다. 이날 진영순은 최강호와 노트북을 바라보며 "뭘까 강호야? 뭐 생각나는]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김시후, 윤다영 집에서 무릎 꿇고 허락 구해...조향기 "길막 쩌네 쩔어"]]></title>
         <id>https://v.daum.net/v/20230524212800735</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230524171350194"/>
         <updated>2023-05-24T09:11:38.379Z</updated>
         <content type="html"><![CDATA[(엑스포츠뉴스 최희재 기자) 새 드라마 '가슴이 뛴다'가 3차 티저 영상을 공개했다. 오는 6월 26일 첫 방송 예정인 KBS 2TV ‘가슴이 뛴다’는 100년 중 하루 차이로 인간이 되지 못한 반인뱀파이어 선우혈(옥택연 분)과 인간미라고는 찾아볼 수 없는 여자 주인해(원지안)가 어쩌다 동거를 시작하며, 진정한 온기를 찾아가는 아찔한 목숨 담보 공생 로맨스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[유인나♥윤현민에 끼어든 구남친 황찬성..불붙은 삼각관계]]></title>
-        <id>https://v.daum.net/v/20230524170932030</id>
-        <link href="https://v.daum.net/v/20230524170932030"/>
-        <updated>2023-05-24T08:14:05.283Z</updated>
-        <content type="html"><![CDATA[[OSEN=하수정 기자] ‘보라! 데보라’ 유인나, 윤현민의 로맨스에 황찬성이 변수로 떠오른다. ENA 수목드라마 ‘보라! 데보라’(연출 이태곤·서민정, 극본 아경, 기획 KT스튜디오지니, 제작 풍년전파상·오즈아레나)측은 24일 데보라(유인나 분), 이수혁(윤현민 분), 노주완(황찬성 분)의 심상치 않은 분위기를 포착했다. 데보라와 이수혁 앞에 다시 나]]></content>
     </entry>
 </feed>
