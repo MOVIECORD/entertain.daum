@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-05-25T10:12:06.175Z</updated>
+    <updated>2023-05-25T11:10:04.564Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['비밀의 여자' 한기웅, 이채영에 또 속았다 "기억상실증이라고?"]]></title>
+        <id>https://v.daum.net/v/20230525200828652</id>
+        <link href="https://v.daum.net/v/20230525200828652"/>
+        <updated>2023-05-25T11:09:46.351Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 | 이빛나리 기자] /사진='비밀의 여자' 방송화면'비밀의 여자'에서 교통사고가 난 이채영은 기억상실증인 척 연기했다. 25일 오후 방송된 KBS 2TV 일일드라마 '비밀의 여자'에서 주애라(이채영 분)는 남유진(한기웅 분)의 마음을 얻기 위해 교통사고를 꾸몄다. 이날 주애라는 사람을 시켜 남유진을 위험에 빠뜨렸다. 주애라는 차에 치일 뻔한]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이채영, 교통사고+기억상실 자작극…한기웅에 "누구세요?"]]></title>
+        <id>https://v.daum.net/v/20230525200117502</id>
+        <link href="https://v.daum.net/v/20230525200117502"/>
+        <updated>2023-05-25T11:09:46.357Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 이나영 기자) '비밀의 여자' 이채영이 기억상실을 연기했다. 25일 방송된 KBS 2TV '비밀의 여자'에서는 남유진(한기웅 분)을 붙잡기 위해 기억상실인 척하는 주애라(이채영)의 모습이 전파를 탔다.&nbsp; 딸 소이의 사망 소식을 듣고 충격에 빠진 남유진은 술에 진탕 취해 길을 걷다가 사고를 당할 뻔했다. 몸을 날려 남유진을 구한 주애라. 남유진]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[윤박 "맥가이버 손을 갖고 싶다"...아이언맨 언급하자 '웃음']]></title>
         <id>https://v.daum.net/v/20230525185002584</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230525153217090"/>
         <updated>2023-05-25T07:10:54.073Z</updated>
         <content type="html"><![CDATA[‘이로운 사기’ 주연 배우들. 왼쪽부터 이연, 박소민, 천우희, 이수현 PD, 김동욱, 윤박(사진=tvN)[이데일리 스타in 유준하 기자] “제가 여기서 사기꾼으로 나오기 때문에 ‘천의 얼굴’이라는 별명이 참 좋네요. 마침 제 성도 천이라. 존속살인이라는 누명을 씌운 자들에게 복수하고자 극 중 사기행각을 벌이는데 그때마다 변하거든요. 이번 작품이 유난히]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["퍼즐처럼 '이로운 조합'"…천우희X김동욱, 시청자들에 전하는 '이로운 사기']]></title>
-        <id>https://v.daum.net/v/20230525152823902</id>
-        <link href="https://v.daum.net/v/20230525152823902"/>
-        <updated>2023-05-25T07:10:54.074Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 이창규 기자) 믿보배들의 조합으로 뭉친 '이로운 사기'가 안방극장을 찾는다. 25일 오후 tvN 새 월화드라마 '이로운 사기'(감독 이수현)의 온라인 제작발표회가 열렸다. 현장에는 배우 천우희, 김동욱,&nbsp;윤박, 박소진, 이연, 이수현 감독이 참석했다. '이로운 사기'는&nbsp;공감 불능 사기꾼과 과공감 변호사, 너무나 다른 두 사람]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘믿보배’ 꿈꾸는 이연희 “♥︎남편은 든든한 조력자, 결혼 후 마음 편해져”]]></title>
-        <id>https://v.daum.net/v/20230525152623824</id>
-        <link href="https://v.daum.net/v/20230525152623824"/>
-        <updated>2023-05-25T07:10:54.074Z</updated>
-        <content type="html"><![CDATA[[OSEN=김채연 기자] 배우 이연희가 ‘레이스’ 촬영을 마친 뒤 느낀 소감과 함께 배우 생활에 대해 입을 열었다. 지난 23일 이연희는 서울 종로구 소격동에 위치한 한 카페에서 OSEN과 디즈니+ 오리지널 시리즈 ‘레이스’ 인터뷰를 진행했다. 이연희는 내세울 스펙은 없지만 일에 대한 열정만큼은 누구에게도 뒤지지 않는 대기업 세용의 계약직 박윤조 역을]]></content>
     </entry>
 </feed>
