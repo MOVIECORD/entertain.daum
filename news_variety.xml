@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/variety</id>
     <title>다음 연예 ─ 뉴스 ─ 예능</title>
-    <updated>2023-05-25T03:11:56.029Z</updated>
+    <updated>2023-05-25T04:13:13.446Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[전현무, 10주년 무지개 회원들에 럭셔리 몽골 파인 다이닝 플렉스]]></title>
+        <id>https://v.daum.net/v/20230525130856552</id>
+        <link href="https://v.daum.net/v/20230525130856552"/>
+        <updated>2023-05-25T04:13:02.187Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 황혜진 기자] 방송인 전현무가 무지개 회원들에게 럭셔리 몽골 파인 다이닝을 플렉스(FLEX)한다. 5월 26일 방송되는 MBC ‘나 혼자 산다’에서 무지개 회원 8인의 몽골 패키지 투어 3탄이 공개된다. 먼저 ‘무지개 맏형’ 김광규가 고대한 ‘몽골 핫플(레이스)’ 투어가 펼쳐진다. 몽골인들의 상징이자 정신적 지주인 칭기즈칸의 기운이 느껴지는 이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이석훈 “송창식과 만남 영광, MC 하길 잘했다”]]></title>
         <id>https://v.daum.net/v/20230525120508288</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230525110409430"/>
         <updated>2023-05-25T02:04:23.846Z</updated>
         <content type="html"><![CDATA[[OSEN=강서정 기자] ‘뽕사활동’ 장송호가 카메라 감독으로 변신했다. 최근 SBS 미디어넷 유튜브 채널 트롯보라고 ‘뽕사활동’ 3회 촬영에서 ‘뽕사활동’ 멤버 이하준, 양지원, 성리, 강재수, 고정우, 장송호가 경기도 남양주시의 한 노래 교실을 습격했다. 이날 촬영에서 장송호는 노래 교실에 카메라 감독으로 잠입해 습격 작전의 신호탄을 쏘는 비밀 지령]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JTBC 새 예능 '웃는 사장' 이경규·박나래·강율 3MC 출격…6월 첫방송]]></title>
-        <id>https://v.daum.net/v/20230525110152327</id>
-        <link href="https://v.daum.net/v/20230525110152327"/>
-        <updated>2023-05-25T02:04:23.847Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 김유진 기자) '웃는 사장'이 6월 편성을 확정하며 3MC 이경규, 박나래, 강율의 캐스팅 소식을 함께 알렸다. 오는 6월 첫 방송 예정인 JTBC 새 예능 '웃는 사장'은 요리에 진심인 연예인들이 배달음식 전문점을 오픈, 사장이 되어 매출로 대결하는 배달음식 영업대결 프로그램이다. 연예인 사장 3인으로는 대한민국 예능 대부인 이경규, 박나래]]></content>
     </entry>
 </feed>
