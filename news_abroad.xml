@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-05-25T09:11:44.986Z</updated>
+    <updated>2023-05-25T10:12:06.169Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[故티나 터너, 생전 인터뷰 “믹 재거, 공연 중 내 치마 찢는 퍼포먼스”]]></title>
+        <id>https://v.daum.net/v/20230525184359375</id>
+        <link href="https://v.daum.net/v/20230525184359375"/>
+        <updated>2023-05-25T10:12:05.347Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 박수인 기자] 가수 티나 터너(Tina Turner)의 마지막 생전 인터뷰가 공개됐다. 티나 터너는 지난 4월 8일 가디언과 인터뷰에서 "롤링 스톤즈와 함께 투어할 때가 좋았다"고 말했다. 티나 터너와 롤링 스톤즈의 보컬 믹 재거(Mick Jagger)는 지난 1985년 영국 런던의 웸블리 스타디움에서 라이브 에이드 콘서트 무대에 함께 섰다. 당]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[故 티나 터너, 후손에 '5044억' 남겼다]]></title>
+        <id>https://v.daum.net/v/20230525182708859</id>
+        <link href="https://v.daum.net/v/20230525182708859"/>
+        <updated>2023-05-25T10:12:05.348Z</updated>
+        <content type="html"><![CDATA[[TV리포트=이수연 기자] '로큰롤의 여왕'이라 불리 티나 터너가 향년 83세의 일기로 별세했다. 24일(현지 시간) 로이터통신 등은 대변인의 말을 빌려 "티나 터너가 이날 오랜 투병 끝에 스위스 취리히 근처 퀴스나흐트에 있는 자택에서 평화롭게 숨을 거뒀다"고 보도했다. 이와 함께 "세상은 음악의 전설이자 롤 모델을 잃었다"는 말을 덧붙였다. 매체 N]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[탕웨이, '드레스' 입고 길거리 전력 질주...'칸 영화제' 지각?]]></title>
         <id>https://v.daum.net/v/20230525173207940</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230525124030018"/>
         <updated>2023-05-25T04:13:12.678Z</updated>
         <content type="html"><![CDATA[[TV리포트=유비취 기자] 팝스타 마일리 사이러스가 편안한 집을 두고 투어를 하지 않겠다고 선언했다. 24일 마일리 사이러스(30)가 소셜네트워크서비스를 통해 투어 공연을 하지 않는 이유를 밝혔다. 그는 집에서 편안함을 누리고 싶다고 솔직하게 고백했다. 앞서 마일리 사이러스는 콘서트와 같이 관중이 많은 대규모 공연장에서 노래를 부르지 않을 것이라고 발표했다]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['디 아이돌' 릴리로즈 뎁, 혹평 타격감無 "믿을 수 없을 만큼 기뻐"]]></title>
-        <id>https://v.daum.net/v/20230525123618932</id>
-        <link href="https://v.daum.net/v/20230525123618932"/>
-        <updated>2023-05-25T04:13:12.679Z</updated>
-        <content type="html"><![CDATA[[OSEN=최나영 기자] 배우 릴리 로즈 뎁은 행복하다. HBO 시리즈 '디 아이돌' 주연으로&nbsp;현재 진행 중인 제 76회 칸 국제영화제를 방문한 릴리 로즈 뎁은 작품 혹평 속에서도 행복한 감정을 숨기지 않았다. 릴리 로즈 뎁은 23일(현지시간) ET와의 인터뷰에서 우선 아빠인 배우 조니 뎁이 개막작 '잔 뒤 배리'를&nbsp;선보이고 기립박수를 받은 것에 대해]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“장벽 깬 아이콘이자 선구자” 티나 터너 별세, 할리우드 애도 물결]]></title>
-        <id>https://v.daum.net/v/20230525115345694</id>
-        <link href="https://v.daum.net/v/20230525115345694"/>
-        <updated>2023-05-25T03:11:55.314Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 이민지 기자] '로큰롤의 여왕' 티나 터너 별세에 동료들이 추모의 메시지를 남겼다. 5월 24일(현지시간) 할리우드리포터에 따르면 할리우드 스타들이 83세 나이로 세상을 떠난 디바 티나 터너를 추모하기 위해 글을 남겼다고 전했다. 티나 터너 측은 "티나 터너가 스위스 취리히 인근 쿠스나흐트에 있는 자택에서 오랜 투병 끝에 사망했다"고 발표했다]]></content>
     </entry>
 </feed>
