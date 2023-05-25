@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-05-25T08:14:56.912Z</updated>
+    <updated>2023-05-25T09:11:44.986Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[탕웨이, '드레스' 입고 길거리 전력 질주...'칸 영화제' 지각?]]></title>
+        <id>https://v.daum.net/v/20230525173207940</id>
+        <link href="https://v.daum.net/v/20230525173207940"/>
+        <updated>2023-05-25T09:11:44.239Z</updated>
+        <content type="html"><![CDATA[[TV리포트=유비취 기자] 배우 탕웨이가 드레스에 운동화 차림으로 프랑스 거리를 뛰어다녔다. 지난 19일(현지 시간) 탕웨이(44)가 프랑스 칸 제76회 칸 영화제(이하 '칸 영화제')에서 개최된 영화 '더 존 오브 인터레스트' 레드카펫에 모습을 드러냈다. 탕웨는 풍성한 드레스를 입고 레드카펫에서 일행에 합류하기 위해 달리는 모습이었다. 탕웨이는 하얀 드레]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[티나 터너 별세..가정 폭력∙건강 이상∙子 극단선택 '굴곡진 삶']]></title>
+        <id>https://v.daum.net/v/20230525172112571</id>
+        <link href="https://v.daum.net/v/20230525172112571"/>
+        <updated>2023-05-25T09:11:44.243Z</updated>
+        <content type="html"><![CDATA[[OSEN=최나영 기자] ‘로큰롤의 여왕’ 티나 터너가 별세했다. 24일(현지시각)&nbsp;티나 터너의 대변인은 소셜 미디어를 통해 이날 터너가 향년 83세의 나이로 사망했다고 공식 발표했다. 터너는 이날 오랜 투병 끝에 스위스 취리히 인근 자택에서 세상을 떠났다. 티나 터너 측은 성명을 통해 "티나 터너의 사망을 발표하게 돼&nbsp;매우 유감스럽게 생각한다"라며 "]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[릴리 로즈 뎁 "아빠 조니 뎁 복귀 기뻐"...'칸'서 부녀 조우]]></title>
         <id>https://v.daum.net/v/20230525170207915</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230525115345694"/>
         <updated>2023-05-25T03:11:55.314Z</updated>
         <content type="html"><![CDATA[[뉴스엔 이민지 기자] '로큰롤의 여왕' 티나 터너 별세에 동료들이 추모의 메시지를 남겼다. 5월 24일(현지시간) 할리우드리포터에 따르면 할리우드 스타들이 83세 나이로 세상을 떠난 디바 티나 터너를 추모하기 위해 글을 남겼다고 전했다. 티나 터너 측은 "티나 터너가 스위스 취리히 인근 쿠스나흐트에 있는 자택에서 오랜 투병 끝에 사망했다"고 발표했다]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["디카프리오, ♥지지 하디드와 연애하느라 포커칠 시간도 없어" 친구들 불만]]></title>
-        <id>https://v.daum.net/v/20230525102405371</id>
-        <link href="https://v.daum.net/v/20230525102405371"/>
-        <updated>2023-05-25T02:04:34.969Z</updated>
-        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]할리우드 스타 레오나르도 디카프리오(48)의 친구들이 미국 모델 지지 하디드(28)를 비난하고 있다는 보도가 나왔다. 24일(현지시간) 레이더온라인에 따르면, 한 내부 소식통은 디카프리오가 "포커 게임을 할 시간이 훨씬 줄어들었고, 친구들은 그의 모든 시간을 독점하는 지지 하디드에게 비난을 퍼붓고 있다"고 전했다. 소식통은]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['그래미 12관왕' 티나 터너, 투병 중 별세..향년 83세]]></title>
-        <id>https://v.daum.net/v/20230525094117327</id>
-        <link href="https://v.daum.net/v/20230525094117327"/>
-        <updated>2023-05-25T00:54:47.663Z</updated>
-        <content type="html"><![CDATA[[OSEN=박소영 기자] ‘로큰롤의 여왕’ 티나 터너가 별세했다. 24일(현지시각) 외신 보도에 따르면 티나 터너가 이날 오랜 투병 끝에 스위스 취리히 인근 자택에서 세상을 떠났다. 향년 83세. 티나 터너 측은 “세계는 음악의 전설이자 롤모델을 잃었다”며 안타까운 소식을 팬들에게 전했다. 티나 터너는 1939년 미국 테네시에서 태어났지만 스위스로 귀화]]></content>
     </entry>
 </feed>
