@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-05-25T20:11:45.940Z</updated>
+    <updated>2023-05-25T21:10:26.838Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['나쁜엄마' 이도현, 쌍둥이 아빠였다.."나 다시 검사할래"]]></title>
+        <id>https://v.daum.net/v/20230526060008334</id>
+        <link href="https://v.daum.net/v/20230526060008334"/>
+        <updated>2023-05-25T21:10:07.728Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 | 이빛나리 기자] /사진='나쁜엄마' 방송화면'나쁜엄마'에서 기소유, 박다온의 아빠가 밝혀졌다. 지난 25일 방송된 JTBC 수목드라마 '나쁜엄마'에서 진영순(라미란 분)은 송우벽(최무성 분)이 최강호(이도현 분)를 보복하는 악몽을 꿨다. 이날 진영순은 최강호가 위험에 빠지지 않게 하기 위해 최강호에게 돼지농장을 직접 운영하라고 전했다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[안은진 쌍둥이 아빠, 이도현이었다 “그때 아기들 가졌다고 말했어야 했어”]]></title>
+        <id>https://v.daum.net/v/20230526052610033</id>
+        <link href="https://v.daum.net/v/20230526052610033"/>
+        <updated>2023-05-25T21:10:07.729Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 임유리 기자] 안은진이 쌍둥이의 아빠가 이도현이라고 털어놨다. 25일 방송된 종합편성채널 JTBC 수목드라마 ‘나쁜엄마’ 10회에서는 이미주(안은진)가 자신의 엄마 정씨(강말금)에게 아이들의 아빠가 최강호(이도현)라고 밝혔다. 강호가 복수를 위해 눈물을 머금고 미주에게 이별을 고하고 난 뒤 쌍둥이를 임신하게 된 사실을 알게 된 미주는]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[안은진 아이 아빠=이도현.."그사람 인생 망치기 싫어" 임신 숨겼다]]></title>
         <id>https://v.daum.net/v/20230526010808508</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230525200828652"/>
         <updated>2023-05-25T11:09:46.351Z</updated>
         <content type="html"><![CDATA[[스타뉴스 | 이빛나리 기자] /사진='비밀의 여자' 방송화면'비밀의 여자'에서 교통사고가 난 이채영은 기억상실증인 척 연기했다. 25일 오후 방송된 KBS 2TV 일일드라마 '비밀의 여자'에서 주애라(이채영 분)는 남유진(한기웅 분)의 마음을 얻기 위해 교통사고를 꾸몄다. 이날 주애라는 사람을 시켜 남유진을 위험에 빠뜨렸다. 주애라는 차에 치일 뻔한]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이채영, 교통사고+기억상실 자작극…한기웅에 "누구세요?"]]></title>
-        <id>https://v.daum.net/v/20230525200117502</id>
-        <link href="https://v.daum.net/v/20230525200117502"/>
-        <updated>2023-05-25T11:09:46.357Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 이나영 기자) '비밀의 여자' 이채영이 기억상실을 연기했다. 25일 방송된 KBS 2TV '비밀의 여자'에서는 남유진(한기웅 분)을 붙잡기 위해 기억상실인 척하는 주애라(이채영)의 모습이 전파를 탔다.&nbsp; 딸 소이의 사망 소식을 듣고 충격에 빠진 남유진은 술에 진탕 취해 길을 걷다가 사고를 당할 뻔했다. 몸을 날려 남유진을 구한 주애라. 남유진]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[윤박 "맥가이버 손을 갖고 싶다"...아이언맨 언급하자 '웃음']]></title>
-        <id>https://v.daum.net/v/20230525185002584</id>
-        <link href="https://v.daum.net/v/20230525185002584"/>
-        <updated>2023-05-25T10:11:48.739Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 이창규 기자) '이로운 사기' 윤박이 남다른 언변으로 작품에 대한 기대치를 높였다. 25일 오후 tvN 새 월화드라마 '이로운 사기'(감독 이수현)&nbsp;온라인 제작발표회가 열렸다. 현장에는 배우 천우희, 김동욱,&nbsp;윤박, 박소진, 이연, 이수현 PD가 참석했다. '이로운 사기'는&nbsp;공감 불능 사기꾼과 과공감 변호사, 너무나 다른 두]]></content>
     </entry>
 </feed>
