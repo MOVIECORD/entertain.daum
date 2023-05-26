@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-05-26T20:11:45.046Z</updated>
+    <updated>2023-05-26T21:09:46.523Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이나영 복귀작 '박하경 여행기', 1%의 아쉬움]]></title>
+        <id>https://v.daum.net/v/20230527054001613</id>
+        <link href="https://v.daum.net/v/20230527054001613"/>
+        <updated>2023-05-26T21:09:19.768Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 | 안윤지 기자] /사진제공=웨이브배우 이나영이 4년 만에 복귀했다. 여행과 힐링을 키워드로 잡고 대대적으로 홍보한 '박하경 여행기'가 어쩐지 아쉬움을 자아낸다. 지난 24일 공개된 웨이브 오리지널 드라마 '박하경 여행기'(연출 이종필)는 사라져 버리고 싶을 때 토요일 딱 하루의 여행을 떠나는, 국어 선생님 박하경(이나영 분)의 예상치 못한 순]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[마고 로비, 경찰서 가나?...'바비' 예고편 전격 공개]]></title>
         <id>https://v.daum.net/v/20230527030030106</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230526173623212"/>
         <updated>2023-05-26T09:10:24.341Z</updated>
         <content type="html"><![CDATA[(서울=뉴스1) 정유진 기자 = 이유 있는 한국 사랑이 빛났다. 26일 오후 온라인으로 '트랜스포머: 비스트의 서막' 프레스 컨퍼런스가 열렸다. 이 자리에는 극중 노아를 연기한 앤서니 라모스, 엘레나를 연기한 도미니크 피시백, 릭을 연기한 토베 엔위그위, 스티븐 케이플 주니어 감독, 로렌조 디 보나벤츄라 프로듀서가 참석했다. '트랜스포머: 비스트의 서]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["인간도 전투 참여"…'트랜스포머'의 강렬한 귀환]]></title>
-        <id>https://v.daum.net/v/20230526170509426</id>
-        <link href="https://v.daum.net/v/20230526170509426"/>
-        <updated>2023-05-26T08:13:19.130Z</updated>
-        <content type="html"><![CDATA['트랜스포머: 비스트의 서막' 배우들의 표정은 밝았다. 프레스 컨퍼러스 진행자 박경림과 대화를 나누다 박장대소했고 기대가 가득 담긴 목소리로 작품을 소개했다. '트랜스포머: 비스트의 서막' 을 향한 자신감이 느껴지는 지점이었다. 26일 영화 '트랜스포머: 비스트의 서막'의 온라인 프레스 컨퍼런스가 진행됐다. 이 자리에는 스티븐 케이플 주니어 감독·로렌조 디]]></content>
     </entry>
 </feed>
