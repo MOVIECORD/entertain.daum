@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-05-26T21:09:46.523Z</updated>
+    <updated>2023-05-26T22:10:46.236Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[마동석 "'범죄도시3' 고민에 탈모까지..처남 차우진 각본 만족"]]></title>
+        <id>https://v.daum.net/v/20230527065325450</id>
+        <link href="https://v.daum.net/v/20230527065325450"/>
+        <updated>2023-05-26T22:10:24.289Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 | 김나연 기자] 마동석 / 사진=에이비오엔터테인먼트배우 마동석이 '범죄도시3'의 시나리오를 수십 번 수정하며 고충을 겪었다고 밝혔다. 24일 서울시 종로구 소격동의 한 카페에서 영화 '범죄도시3'(감독 이상용)의 주연 배우 마동석과 만나 다양한 이야기를 나눴다. '범죄도시3'(감독 이상용)는 대체불가 괴물형사 '마석도'(마동석 분)가 서울]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이나영 복귀작 '박하경 여행기', 1%의 아쉬움]]></title>
         <id>https://v.daum.net/v/20230527054001613</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230526173808250"/>
         <updated>2023-05-26T09:10:24.341Z</updated>
         <content type="html"><![CDATA[[OSEN=하수정 기자] 다시 태어난 '트랜스포머: 비스트의 서막'이 과거의 영광을 되찾을 수 있을까. 26일 오후 온라인 생중계를 통해 영화 '트랜스포머: 비스트의 서막' 프레스 컨퍼런스가 진행됐다. 이 자리에는 앤서니 라모스(노아 역), 도미니크 피시백(엘레나 역), 토베 엔위그위(릭 역) 스티븐 케이플 주니어 감독, 로렌조 디 보나벤츄라 프로듀서]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이병헌·'연모'·세계 최초 개봉…'트랜스포머6', 이유 있는 韓 사랑]]></title>
-        <id>https://v.daum.net/v/20230526173623212</id>
-        <link href="https://v.daum.net/v/20230526173623212"/>
-        <updated>2023-05-26T09:10:24.341Z</updated>
-        <content type="html"><![CDATA[(서울=뉴스1) 정유진 기자 = 이유 있는 한국 사랑이 빛났다. 26일 오후 온라인으로 '트랜스포머: 비스트의 서막' 프레스 컨퍼런스가 열렸다. 이 자리에는 극중 노아를 연기한 앤서니 라모스, 엘레나를 연기한 도미니크 피시백, 릭을 연기한 토베 엔위그위, 스티븐 케이플 주니어 감독, 로렌조 디 보나벤츄라 프로듀서가 참석했다. '트랜스포머: 비스트의 서]]></content>
     </entry>
 </feed>
