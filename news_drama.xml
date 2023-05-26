@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-05-26T03:11:43.355Z</updated>
+    <updated>2023-05-26T04:13:01.592Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[차은우, ‘원더풀 월드’ 출연에 “긍정 검토 중”]]></title>
+        <id>https://v.daum.net/v/20230526125553118</id>
+        <link href="https://v.daum.net/v/20230526125553118"/>
+        <updated>2023-05-26T04:12:44.058Z</updated>
+        <content type="html"><![CDATA[그룹 아스트로 멤버 겸 배우 차은우가 ‘원더풀 월드’ 출연을 제안받았다.&nbsp; 소속사 판타지오 측 관계자는 26일 일간스포츠에 “차은우에게 ‘원더풀 월드’ 출연 제안이 왔으며 긍정적으로 검토 중이다. 확정된 건 없다”라고 밝혔다.&nbsp; ‘원더풀 월드’는 억울하게 어린 아들을 잃은 여자 주인공이 법의 용서를 받은 가해자를 상대로 복수를 하며 상처를 치유해나가는]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['스틸러' 이주우 "10년간 활동, 연기 그만두고 싶던 적 없어"]]></title>
         <id>https://v.daum.net/v/20230526114603907</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230526103519096"/>
         <updated>2023-05-26T02:03:24.156Z</updated>
         <content type="html"><![CDATA[[뉴스엔 박수인 기자] '로맨스빌런' 티저 영상이 공개됐다. 오는 6월 5일 첫 방송되는 MBC드라마넷 새 오리지널 드라마 '로맨스빌런'은 캠퍼스 빌런들의 대환장 청춘 로맨스를 그린 드라마. 낭만 가득한 캠퍼스에서 사랑을 배워 가는 빌런들의 리얼리즘 로맨스 성장기를 보여줄 예정이다. 공개된 티저 영상에는 캐릭터 확실한 주인공 4인의 짧지만 중독성 강한 하]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['보라! 데보라' 유인나 "연애 서툰 편..이별 후 울기도"]]></title>
-        <id>https://v.daum.net/v/20230526103257972</id>
-        <link href="https://v.daum.net/v/20230526103257972"/>
-        <updated>2023-05-26T02:03:24.158Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 | 이경호 기자] 배우 유인나./사진=YG엔터테인먼트배우 유인나가 '로코 장인'의 면모를 한 번 더 입증했다. 유인나는 25일 종영한 ENA 수목드라마 '보라! 데보라'에서 대한민국 최고의 연애코치 '데보라' 역을 맡아 탄탄한 연기 내공으로 캐릭터의 흥망성쇠를 설득력 있게 그려내며 현실 공감을 이끌었다. 유인나는 실연 후 아픔을 담은 처절한]]></content>
     </entry>
 </feed>
