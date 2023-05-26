@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-05-26T17:11:07.367Z</updated>
+    <updated>2023-05-26T18:13:09.734Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김은희·김태리 손 잡은 '악귀', 베일 벗었다]]></title>
+        <id>https://v.daum.net/v/20230527030109120</id>
+        <link href="https://v.daum.net/v/20230527030109120"/>
+        <updated>2023-05-26T18:12:50.392Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 이승길 기자] 김은희 작가의 신작 SBS 새 금토드라마 '악귀'가 베일을 벗었다. '악귀(惡鬼)'는 악귀에 씐 여자와 그 악귀를 볼 수 있는 남자가 의문의 죽음을 파헤치는 한국형 오컬트 미스터리 드라마. ‘싸인’, ‘유령’, ‘시그널’, ‘킹덤’ 등을 집필하며 작품성과 흥행성을 동반한 ‘장르물의 대가’로 우뚝 선 김은희 작가의 신작으로 주]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['낭만닥터 김사부3' 안효섭, 철근에 '손 관통' 대위기…한석규, 안효섭 매몰 소식에 '충격']]></title>
+        <id>https://v.daum.net/v/20230527021801088</id>
+        <link href="https://v.daum.net/v/20230527021801088"/>
+        <updated>2023-05-26T18:12:50.392Z</updated>
+        <content type="html"><![CDATA[[SBS연예뉴스 | 김효정 에디터] 안효섭은 무사할까? 26일 방송된 SBS '낭만닥터 김사부 시즌3'에서는 위기에 처한 서우진의 모습이 그려졌다. 이날 돌담병원은 공동 재개발 구역의 노후된 건물 붕괴로 비상사태를 맞았다. 다수의 사상자가 예상되는 사고로 김사부는 "돌담병원을 거점 병원으로 해서 재난의료지원팀을 준비하라"하며 코드 오렌지를 선언했다. 코드]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김하늘·정지훈, 재벌과 보디가드로 만난다]]></title>
         <id>https://v.daum.net/v/20230527010031914</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230526204118461"/>
         <updated>2023-05-26T12:19:12.123Z</updated>
         <content type="html"><![CDATA[[스타뉴스 | 이빛나리 기자] /사진='비밀의 여자' 방송화면'비밀의 여자' 최윤영이 이채영의 속셈을 알아차렸다. 26일 오후 방송된 KBS 2TV 일일드라마 '비밀의 여자'에서 정겨울(신고은 분)과 영혼이 바뀐 오세린(최윤영 분)은 기억을 잃은 주애라(이채영 분)를 의심했다. 이날 남유진(한기웅 분)은 주애라에 "애라야. 우리 결혼하자. 내가 너 평]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['비밀의여자' 방은희, 한기웅 결혼 소식에 분노 "어떻게 이럴 수 있어"]]></title>
-        <id>https://v.daum.net/v/20230526203933442</id>
-        <link href="https://v.daum.net/v/20230526203933442"/>
-        <updated>2023-05-26T12:19:12.123Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 | 이빛나리 기자] /사진='비밀의 여자' 방송화면'비밀의 여자' 방은희가 한기웅의 결혼 소식을 듣고 분노했다. 26일 오후 방송된 KBS 2TV 일일드라마 '비밀의 여자'에서 남유진(한기웅 분)은 할아버지 남만중(임혁 분)과 아버지 남연석(이종원 분)에게 주애라(이채영 분)와 결혼을 하겠다고 말했다. 이날 주애라와의 결혼을 반대했던 남만중]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['하늘의 인연' 고은미, 김유석에 "유세 떨지 마" 격분]]></title>
-        <id>https://v.daum.net/v/20230526203820431</id>
-        <link href="https://v.daum.net/v/20230526203820431"/>
-        <updated>2023-05-26T12:19:12.124Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 | 김지은 인턴기자] /사진='하늘의 인연' 화면 캡처'하늘의 인연'에서 고은미가 김유석에게 분노를 표출했다. 26일 오후 방송된 MBC 일일드라마 '하늘의 인연' 29회에서는 전미강(고은미 분)이 강치환(김유석 분)과 대립하는 모습이 담겼다. 이날 방송에서 전미강은 마음이 헛헛해지는 결혼생활로 인해 홀로 양주를 마시며 슬픔과 외로움을 달랬]]></content>
     </entry>
 </feed>
