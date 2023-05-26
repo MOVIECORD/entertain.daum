@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-05-26T09:10:46.466Z</updated>
+    <updated>2023-05-26T10:12:05.411Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[故 티나 터너, 마지막 순간까지 가정 폭력 PTSD 시달렸다]]></title>
+        <id>https://v.daum.net/v/20230526183030333</id>
+        <link href="https://v.daum.net/v/20230526183030333"/>
+        <updated>2023-05-26T10:12:04.720Z</updated>
+        <content type="html"><![CDATA[[TV리포트=이수연 기자] '로큰롤의 여왕' 티나 터너가 마지막 순간까지 전 남편 아이크 터너에 시달려온 것이 밝혀졌다. 지난 24일(현지 시간) 티나 터너가 향년 83세의 일기로 별세했다. 대변인은 "티나 터너가 이날 오랜 투병 끝에 스위스 취리히 근처 퀴스나흐트에 있는 자택에서 평화롭게 숨을 거뒀다. 세상은 음악의 전설이자 롤 모델을 잃었다"고 전했다]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“남자도 여자도 아닌” 샘 스미스, 성대 이상 “콘서트 중단”]]></title>
         <id>https://v.daum.net/v/20230526180756905</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230526145018409"/>
         <updated>2023-05-26T06:14:55.781Z</updated>
         <content type="html"><![CDATA[[뉴스엔 박수인 기자] 캐나다 출신 배우 엘리엇 페이지(Elliot Page)가 성전환 수술 후 삶에 대한 감사함을 표했다. 엘리엇 페이지는 최근 미국 연예 매체 피플(People)과 회고록 '페이지보이'(PAGE BOY) 출간 기념 인터뷰를 진행했다. 지난 2020년 12월 성전환 수술을 했음을 고백한 엘리엇 페이지는 "분명히 매우 어려운 순간들이 있었]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[프리앙카 초프라 "감독이 속옷 보여 달라 요구…수치심 들었다"]]></title>
-        <id>https://v.daum.net/v/20230526144708274</id>
-        <link href="https://v.daum.net/v/20230526144708274"/>
-        <updated>2023-05-26T06:14:55.787Z</updated>
-        <content type="html"><![CDATA[[TV리포트=유비취 기자] 배우 프리앙카 초프라가 촬영 현장에서 당했던 성희롱을 폭로했다. 지난 23일(현지 시간) 매체 조 리포터와의 인터뷰에서 프리앙카 초프라(40)가 신인 시절 영화감독에게 모욕적인 발언을 들었다고 털어놨다. 한 영화감독이 현장에서 그에게 속옷을 보여달라고 요구했다는 것이다. 프리앙카 초프라는 성희롱을 한 감독의 이름은 밝히지 않았지만]]></content>
     </entry>
 </feed>
