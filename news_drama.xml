@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-05-27T10:10:34.782Z</updated>
+    <updated>2023-05-27T11:08:58.903Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['싱글대디' 최윤제, 딸 정서연 '길캐'에 당황]]></title>
+        <id>https://v.daum.net/v/20230527200109155</id>
+        <link href="https://v.daum.net/v/20230527200109155"/>
+        <updated>2023-05-27T11:08:42.011Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 강다윤 기자] 오동욱(최윤제)이 오수겸(정서연)의 길거리 캐스팅에 당황한다. 27일 방송되는 KBS 2TV 주말드라마 '진짜가 나타났다!'(극본 조정주 연출 한준서) 19회에서는 오동욱과 오수겸의 남다른 부녀 케미가 그려진다. 이날 방송에 앞서 공개된 스틸 속 동욱과 수겸은 길거리에서 마주하고 있다. 홀로 수겸을 키우고 있는 ‘싱글대디’]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김민 "'택배기사' 주경남 연기 그동안 수련한 무도 덕에 수월하게 촬영" ②]]></title>
         <id>https://v.daum.net/v/20230527171735784</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230527112419302"/>
         <updated>2023-05-27T03:11:21.160Z</updated>
         <content type="html"><![CDATA[[OSEN=강서정 기자] ‘낭만닥터 김사부3’&nbsp;안효섭과 김민재가&nbsp;2차 건물 붕괴 사고에 매몰되며,&nbsp;절체절명 위기에 처했다. 5월&nbsp;26일 방송된&nbsp;SBS&nbsp;금토드라마 ‘낭만닥터 김사부3’(극본 강은경,&nbsp;임혜민, 연출 유인식,&nbsp;강보승) 9회에서는 재난의료지원팀(DMAT)으로 출동한 돌담져스의 모습이 그려졌다.&nbsp;미리 대비하지 못한 건물 붕괴 사고가 안타까움을 자]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김소연 기억상실?..'구미호뎐1938' 측 "이동욱, 일제시대 日 요괴와 맞선다"]]></title>
-        <id>https://v.daum.net/v/20230527110909103</id>
-        <link href="https://v.daum.net/v/20230527110909103"/>
-        <updated>2023-05-27T03:11:21.162Z</updated>
-        <content type="html"><![CDATA[[OSEN=박소영 기자] ‘구미호뎐1938’&nbsp;이동욱,&nbsp;류경수가 김소연을 구할 수 있을까. tvN&nbsp;토일드라마&nbsp;‘구미호뎐1938’(연출 강신효,&nbsp;극본 한우리,&nbsp;제작 스튜디오드래곤∙하우픽쳐스)&nbsp;측은&nbsp;27일,&nbsp;서로에게 칼을 겨눈&nbsp;‘산신즈’&nbsp;이연(이동욱 분),&nbsp;류홍주(김소연 분),&nbsp;천무영(류경수 분)의 대치 상황을 포착했다.&nbsp;류홍주를 찾기 위해&nbsp;‘삿된 자들의 세]]></content>
     </entry>
 </feed>
