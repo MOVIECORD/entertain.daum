@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-05-27T21:09:39.367Z</updated>
+    <updated>2023-05-27T22:09:35.272Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[월드클래스 제니·사랑꾼 송중기·김민희 없는 홍상수]]></title>
+        <id>https://v.daum.net/v/20230528070859673</id>
+        <link href="https://v.daum.net/v/20230528070859673"/>
+        <updated>2023-05-27T22:09:13.289Z</updated>
+        <content type="html"><![CDATA[[텐아시아=최지예 기자]전 세계 영화와 스타들을 한데 모았던 제76회 칸 영화제가 27일로 12일간 대장정의 막을 내린다. 경쟁 부문에 진출한 작품이 없었던 이번 칸 영화제이지만, 영화 팬들의 시선을 끌 만한 요소들은 많았다. 그룹 블랙핑크 제니가 칸 영화제에서 화려한 배우 데뷔했고, 배우 송중기가 생애 처음 칸에 입성, 사랑꾼 면모를 발휘하며 축제를 즐]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['칸의 품격' 송강호·'배우 정점' 이선균, '기생충' 주역들 또 빛났다]]></title>
+        <id>https://v.daum.net/v/20230528070501627</id>
+        <link href="https://v.daum.net/v/20230528070501627"/>
+        <updated>2023-05-27T22:09:13.317Z</updated>
+        <content type="html"><![CDATA[[텐아시아=최지예 기자]오스카 4관왕에 빛나는 영화 '기생충'의 주역 배우 송강호와 이선균이 제76회 칸 영화제에서 또 한 번 빛났다. 전 세계 영화와 스타들을 한데 모았던 제76회 칸 영화제가 27일자로 대장정의 막을 내린다. 지난 16일부터 시작됐다. 올해 칸 영화제의 초청을 받은 우리 영화는 총 7편이었다. '화란'(감독 김창훈, 주목할만한 시선)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[다시 여성에게…쥐스틴 트리에 감독 칸 황금종려상]]></title>
         <id>https://v.daum.net/v/20230528052624404</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230527151356419"/>
         <updated>2023-05-27T07:09:28.263Z</updated>
         <content type="html"><![CDATA[[칸(프랑스)=뉴스엔 글 이재환 기자/사진 정유진 기자] 배우 송강호가 제76회 칸 국제영화제 폐막식 시상자 선정로 선정돼 3년 연속 폐막식에 참석하는 또 하나의 기록을 남기게 됐다. 송강호는 5월27일 폐막되는 제76회 칸 국제영화제 시상자로 결정됐다. 어떤 부문에 시상자로 나설지는 아직 알려지지 않았다. 송강호는 지난해 제75회 칸 영화제에서 영화]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[괴물 신인 강태주, ‘귀공자’로 충무로 블루칩 되나]]></title>
-        <id>https://v.daum.net/v/20230527140900715</id>
-        <link href="https://v.daum.net/v/20230527140900715"/>
-        <updated>2023-05-27T05:09:25.968Z</updated>
-        <content type="html"><![CDATA[배우 김선호도 극찬한 강태주가 ‘귀공자’로 스크린 데뷔한다. 강태주는 2020년 드라마 ‘미씽: 그들이 있었다’에서 전당포 알바생이자 아이돌 연습생인 강대성 역으로 데뷔했다. 이후 KBS 드라마 ‘안녕? 나야!’에서 안소니 전담 매니저 민경식 역으로 출연해 존재감을 알렸다. 다수의 광고에도 출연하며 유망주로 떠오른 그는 1980:1의 높은 경쟁률과 3차에]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이연희 "15년만 느낀 연기의 맛..♥남편=든든한 조력자"]]></title>
-        <id>https://v.daum.net/v/20230527140002619</id>
-        <link href="https://v.daum.net/v/20230527140002619"/>
-        <updated>2023-05-27T05:09:25.970Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 | 김나연 기자] 이연희 / 사진=월트디즈니컴퍼니 코리아배우 이연희가 이제서야 '연기의 맛'을 알게 됐다고 밝히며 '믿보배'에 대한 욕심을 드러냈다. 최근 서울시 종로구 소격동의 한 카페에서 디즈니+ 오리지널 시리즈 '레이스'의 배우 이연희와 만나 다양한 이야기를 나눴다. '레이스'는 스펙은 없지만 열정 하나로 대기업에 입사하게 된 '박윤]]></content>
     </entry>
 </feed>
