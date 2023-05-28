@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-05-28T04:12:12.740Z</updated>
+    <updated>2023-05-28T05:10:38.782Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[샤론 스톤, 과도한 노출 ‘디 아이돌’ 호평 “릴리-로즈 뎁 연기 잘하더라”]]></title>
+        <id>https://v.daum.net/v/20230528131329269</id>
+        <link href="https://v.daum.net/v/20230528131329269"/>
+        <updated>2023-05-28T05:10:37.973Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]‘디 아이돌’이 칸 국제영화제에서 혹평을 받은 가운데 누드연기로 비난을 받은 릴리-로즈 뎁(23)을 응원하는 목소리가 잇따라 나오고 있다. ‘디 아이돌’은 팝 아이돌 스타와 문화 산업의 어두운 면을 다룬 시리즈로, 팝스타 위켄드가 제작과 주연을 맡고 할리우드 배우 조니 뎁의 딸 릴리 로즈 뎁, 가수 트로이 시반이 출연했다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["감자튀김도 못하는데 셰프?" 브루클린 베컴, 금수저 요리사 논란 ing]]></title>
         <id>https://v.daum.net/v/20230528123025954</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230527150320313"/>
         <updated>2023-05-27T06:13:45.951Z</updated>
         <content type="html"><![CDATA[[뉴스엔 이민지 기자] 가수 셀린 디온이 건강 문제로 투어를 취소했다. 5월 26일(현지시간) BBC 등 외신은 셀린 디온이 건강 악화를 이유로 투어 전체를 취소했다고 보도했다. 셀린 디온은 지난해 자신이 '강직인간증후군(SPS)'을 앓고 있다며 이 병이 노래에 영향을 미쳤다고 밝힌 바 있다. 강직인간증후군은 근육 경직을 유발해 사람의 몸을 뻣뻣하게 만]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“온몸이 뻣뻣하게 굳어지는” 셀린 디온, 내년까지 투어 취소 “꼭 다시 돌아오겠다”]]></title>
-        <id>https://v.daum.net/v/20230527144309104</id>
-        <link href="https://v.daum.net/v/20230527144309104"/>
-        <updated>2023-05-27T06:13:45.959Z</updated>
-        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]온몸이 뻣뻣하게 굳어지는 ‘강직인간 증후군(SPS)’을 앓고 있는 세계적 가수 셀린 디온(55)이 2024년까지 남아있는 투어를 모두 취소했다. 그는 26일(현지시간) 트위터를 통해 “다시 한 번 모두를 실망시켜서 정말 죄송하다”면서 “비록 마음이 아프지만 무대에 다시 설 준비가 될 때까지 모든 것을 취소하는 것이 최선이다”]]></content>
     </entry>
 </feed>
