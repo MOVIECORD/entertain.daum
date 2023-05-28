@@ -2,11 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-05-28T08:12:37.208Z</updated>
+    <updated>2023-05-28T09:11:52.111Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[佛영화 최고상·시상대 위 송강호… 칸영화제 폐막]]></title>
+        <title type="html"><![CDATA['슈퍼 마리오 브라더스', '미니언즈2' 기록 꺾었다…장기 흥행]]></title>
+        <id>https://v.daum.net/v/20230528174713018</id>
+        <link href="https://v.daum.net/v/20230528174713018"/>
+        <updated>2023-05-28T09:11:29.155Z</updated>
+        <content type="html"><![CDATA[[OSEN=김보라 기자] 영화 '슈퍼 마리오 브라더스'가 오늘(28일) 227만 관객을 돌파하며 최근 4년 간 개봉한 할리우드 애니메이션 가운데 흥행 1위로 우뚝 섰다. 28일 영화진흥위원회 영화관입장권 통합전산망 집계에 따르면 '슈퍼 마리오 브라더스'(감독 아론 호바스・마이클 젤레닉, 수입배급 유니버설 픽처스)는 이날 오후 1시 30분 기준 누적 관객]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[佛영화 최고상·시상대 선 송강호… 칸영화제 폐막]]></title>
         <id>https://v.daum.net/v/20230528165158109</id>
         <link href="https://v.daum.net/v/20230528165158109"/>
         <updated>2023-05-28T08:12:15.663Z</updated>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230528120115608"/>
         <updated>2023-05-28T03:12:03.634Z</updated>
         <content type="html"><![CDATA[(칸=뉴스1) 고승아 기자 = 올해 한국영화는 5편의 장편과 2편의 단편 총 7편이 제76회 칸 국제영화제의 초청을 받았다. 국내 영화는 경쟁 부문에 진출하지 못했지만, 다양한 부문에서 소개돼 눈길을 끌었다. 지난해 남우주연상을 수상한 배우 송강호는 올해 8번 째 칸을 찾아 관록을 보여줬다. 여기에 K팝 스타들이 대거 참석해 화제성을 가져가기도 했다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[여성감독 작품, 역대 3번째 황금종려상…할리우드 스타들도 화제 ②]]></title>
-        <id>https://v.daum.net/v/20230528120110605</id>
-        <link href="https://v.daum.net/v/20230528120110605"/>
-        <updated>2023-05-28T03:12:03.641Z</updated>
-        <content type="html"><![CDATA[(칸=뉴스1) 고승아 기자 = 제76회 칸 국제영화제가 11박 12일간 여정의 막을 내렸다. 할리우드 스타들의 방문 속에서 칸의 단골인 거장 감독들과 여러 여성 감독들이 경쟁을 펼쳤고, 그 결과 영화 '아나토미 오브 어 폴'(ANATOMIE D'UNE CHUTE)이 황금종려상을 수상하는 영예를 안았다. 27일 오후(이하 현지시간, 한국시간 28일 오전)]]></content>
     </entry>
 </feed>
