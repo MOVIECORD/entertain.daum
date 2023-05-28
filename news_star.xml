@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2023-05-28T16:13:29.828Z</updated>
+    <updated>2023-05-28T17:09:22.637Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['미우새' 신세대 VS 구세대, SBS사장배 '미우새 봄소풍'…상품 획득할 팀은?]]></title>
+        <id>https://v.daum.net/v/20230529013600594</id>
+        <link href="https://v.daum.net/v/20230529013600594"/>
+        <updated>2023-05-28T17:09:16.688Z</updated>
+        <content type="html"><![CDATA[[SBS연예뉴스 | 김효정 에디터] 봄소풍에서 승리를 거둘 팀은? 28일 방송된 SBS '미운 우리 새끼'(이하 '미우새')에서는 미우새 아들들의 봄소풍이 공개됐다. 이날 미우새 아들들은 신세대와 구세대로 나뉘어 대결을 펼쳤다. SBS 사장님이 하사한 100만 원 상당의 상품권을 건 대결에 양 팀은 전의를 불태웠다. 그리고 아들들은 상대의 팀복에 대해 평가]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[god 박준형, 미모의 '승무원 아내♥ 닮은 딸'과 훈훈 투샷]]></title>
+        <id>https://v.daum.net/v/20230529012609543</id>
+        <link href="https://v.daum.net/v/20230529012609543"/>
+        <updated>2023-05-28T17:09:16.692Z</updated>
+        <content type="html"><![CDATA[[OSEN=김수형 기자] 박준형이 훌쩍 큰 딸과의 일상을 공유했다. 28일 박준형이 개인 계정을 통해 딸과의 투샷을 공유했다. 박준형은 "요오우~ 오늘은 비가&nbsp; 많이오니깐&nbsp; 며칠 전 날씨좋왓을때"라며&nbsp;인생 처음으로 운동회를 했다는 사진을 공개했다. 그는 "사진쓰 한장~ 다들 빗길조심쓰글구 나머지 주말쓰 안전하구 즐겁개~ 빼애앰!!!"이라며 특유의 유쾌한]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[천우희 “살 냄새에 자부심 있어, 향수 안 쓰는 이유”]]></title>
         <id>https://v.daum.net/v/20230529003508374</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230528234700061"/>
         <updated>2023-05-28T15:11:08.275Z</updated>
         <content type="html"><![CDATA[[TV리포트=이지민 기자] '걸환장' 가수 미나가 남편 류필립에게 미안함을 전하며 눈물을 흘렸다. 28일 KBS 2TV 예능 프로그램 '걸어서 환장 속으로'(이하 '걸환장')에서는 싱가포르의 한 바에서 서로의 속마음을 고백하는 미나, 류필립 부부의 모습이 담겼다. 이날 미나, 류필립 부부는 싱가포르의 분위기 있는 술집을 찾았다. 술집에 들어서자 미나는]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[명세빈, 김미경 병명 찾았다...엄정화에 “내 환자”]]></title>
-        <id>https://v.daum.net/v/20230528233357020</id>
-        <link href="https://v.daum.net/v/20230528233357020"/>
-        <updated>2023-05-28T15:11:08.276Z</updated>
-        <content type="html"><![CDATA[‘닥터 차정숙’ 명세빈이 김미경 상태를 진단했다. 28일 오후 방송된 JTBC 주말드라마 ‘닥터 차정숙’에서는 김미경 상태를 위해 노력하는 명세빈의 모습이 전파를 탔다. 이날 차정숙(엄정화)은 집에 가겠다는 오덕례(김미경)에게 치료를 받아야 한다고 말렸다. 오덕례는 “누가 치료 안 받는대? 널린 게 병원이야. 내 딸 아프게 한 연놈들 있는 데서 무]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['닥터 차정숙' 엄정화, 김병철에 이혼 요구 "당신은 유책 배우자"]]></title>
-        <id>https://v.daum.net/v/20230528233116006</id>
-        <link href="https://v.daum.net/v/20230528233116006"/>
-        <updated>2023-05-28T15:11:08.289Z</updated>
-        <content type="html"><![CDATA[[티브이데일리 김한길 기자] '닥터 차정숙' 엄정화가 김병철에 이혼 신고서를 내밀었다. 28일 밤 방송된 JTBC 토일드라마 '닥터 차정숙' 14회에서는 차정숙(엄정화)이 서인호(김병철)를 찾는 모습이 그려졌다. 이날 차정숙은 서인호에게 이혼 신고서를 건넸다. 차정숙은 "재판하는 것보단 합의가 편하지 않겠냐. 필요한 서류는 문자로 보내놓을 테니까 준비되면]]></content>
     </entry>
 </feed>
