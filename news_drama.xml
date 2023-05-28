@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-05-28T07:10:02.932Z</updated>
+    <updated>2023-05-28T08:12:37.202Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[류경수, 이동욱과 장산범의 신부' 김소연 구했다..시공간 초월 열연]]></title>
+        <id>https://v.daum.net/v/20230528163436898</id>
+        <link href="https://v.daum.net/v/20230528163436898"/>
+        <updated>2023-05-28T08:12:20.786Z</updated>
+        <content type="html"><![CDATA[[OSEN=최나영 기자]&nbsp;배우 류경수가 시공간을 초월한 열연으로&nbsp;60분을 순간 삭제시켰다. 지난&nbsp;27일 방송된&nbsp;tvN 토일드라마 ‘구미호뎐1938’에서는 무영(류경수 분)이 이연(이동욱 분)과 함께 장산범의 신부가 된 홍주(김소연 분)를 구하는 모습이 그려졌다. 이날 무영은 홍주를 구하기 위해 이연과 이승도 저승도 아닌&nbsp;'삿된 자들의 세상'으로 들어섰고]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이연희 "90년대생 직장인의 위치, 부담까지 고려하며 연기. 오피스물 대표작 되고파"]]></title>
+        <id>https://v.daum.net/v/20230528160949552</id>
+        <link href="https://v.daum.net/v/20230528160949552"/>
+        <updated>2023-05-28T08:12:20.787Z</updated>
+        <content type="html"><![CDATA[홍보 업무를 하는 직장인들의 리얼하고 버라이어티한 직장생활을 그린 '레이스'에서 학벌, 집안, 뭐 하나 내세울 것 없는 스펙 제로지만 열정 만렙, 일에서만큼은 진심인 ‘박윤조’를 통해 지금껏 보지 못한 털털한 생활연기로 성공적인 변신을 해 낸 이연희를 만났다. 아직까지 우리나라 시청자들에게 오피스 드라마의 대표작은 '미생'일 것. 그런 상황에서 어떤]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["백진희에 동거 깨자" 안재현, 차주영 만나 충격 발언]]></title>
         <id>https://v.daum.net/v/20230528160544503</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230528135351691"/>
         <updated>2023-05-28T05:10:21.300Z</updated>
         <content type="html"><![CDATA[[OSEN=최나영 기자]&nbsp;‘가면의 여왕’의 김선아, 오윤아, 신은정, 유선이 은밀하고 치밀한 작전을 펼친다.&nbsp; 오는 29일 오후&nbsp;10시 30분 방송 예정인 채널A 월화드라마 ‘가면의 여왕’(연출 강호중/ 극본 임도완/ 제작 더그레이트쇼, 래몽래인/ 기획 채널A) 11회에서는 송제혁(이정진 분)에 대한 복수를 위해 ‘가면퀸’ 4인방이 작당 모의를 한다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘낭만닥터 김사부3’ 이신영의 아노미 “내가 왜 이러는 지 몰라!”]]></title>
-        <id>https://v.daum.net/v/20230528135024656</id>
-        <link href="https://v.daum.net/v/20230528135024656"/>
-        <updated>2023-05-28T05:10:21.300Z</updated>
-        <content type="html"><![CDATA[[OSEN=김재동 객원기자]&nbsp;이건 정말 궁금했다. 그래서 물었다. “전요 어쩔 땐 선생님이 겁나리 대따리 열나리 무섭습니다. 선생님은 어떤 사람입니까?” 대꾸도 야리꾸리하다. “이건 또 뭔 개 코 씹어 먹는 소리야!” 개 풀 뜯어 먹는다는 소리는 들어봤지만 개 코 씹어먹다니.. 하여튼 이상한 사람이다. 아니 다 이상하다. 이 곳도 이상하고 여기 사람들도]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[가면퀸 김선아→오윤아, 이정진 복수 위한 작당모의]]></title>
-        <id>https://v.daum.net/v/20230528134759632</id>
-        <link href="https://v.daum.net/v/20230528134759632"/>
-        <updated>2023-05-28T05:10:21.300Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 김명미 기자] ‘가면의 여왕’ 김선아, 오윤아, 신은정, 유선이 은밀하고 치밀한 작전을 펼친다. 5월 29일 오후 10시 30분 방송 예정인 채널A 월화드라마 ‘가면의 여왕’(연출 강호중/ 극본 임도완/ 제작 더그레이트쇼, 래몽래인/ 기획 채널A) 11회에서는 송제혁(이정진 분)에 대한 복수를 위해 ‘가면퀸’ 4인방이 작당 모의를 한다. 앞서 제]]></content>
     </entry>
 </feed>
