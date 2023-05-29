@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2023-05-29T08:16:05.405Z</updated>
+    <updated>2023-05-29T09:11:32.318Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['송민호에게 연애조언' 받던 송단아, 美서 결혼→오빠와 입장+댄스]]></title>
+        <id>https://v.daum.net/v/20230529174411781</id>
+        <link href="https://v.daum.net/v/20230529174411781"/>
+        <updated>2023-05-29T09:11:26.616Z</updated>
+        <content type="html"><![CDATA[[OSEN=최나영 기자] 그룹 위너 송민호의 동생인 송단아가 미국 샌프란시스코에서 깜짝 결혼식을 올려 화제다. 송단아는 최근&nbsp;샌프란시스코에서 가족과 지인들의 축복 속 사랑스러운 결혼식을 올리고 이를 SNS를 통해 공개했다. 공개된 사진과 영상 속에서 송단아는 웨딩드레스를 입고 남편과 로맨틱한 포즈를 취하고 있다. 또&nbsp;동생의 결혼식을 위해&nbsp;샌프란시스코를&nbsp;]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘왕따설 극복’ CIX, 청춘의 아름다운 비극 “돔 입성하고파”]]></title>
         <id>https://v.daum.net/v/20230529171508354</id>
@@ -38,7 +45,7 @@
         <id>https://v.daum.net/v/20230529165016999</id>
         <link href="https://v.daum.net/v/20230529165016999"/>
         <updated>2023-05-29T08:15:59.695Z</updated>
-        <content type="html"><![CDATA[[스포츠서울 | 김현덕기자] ‘첫사랑의 아이콘’에서 ‘K직장인의 아이콘’이 됐다. 배우 이연희가 디즈니+ 오리지널 시리즈 ‘레이스’에서 대기업 바늘구멍을 뚫은 무스펙 계약직 사원 박윤조 역을 맡아 고군분투 직장 생존기를 그려가고 있다. 열정 하나로 대기업에 입사한 윤조는 채용 스캔들에 휘말리며 난관을 헤쳐나가고 있다. 녹록지 않은 회사와 조직 문화를]]></content>
+        <content type="html"><![CDATA[[스포츠서울 | 김현덕기자] ‘첫사랑의 아이콘’에서 ‘K직장인의 아이콘’이 됐다. 배우 이연희가 디즈니+ 오리지널 시리즈 ‘레이스’에서 대기업 채용 바늘구멍을 뚫은 무스펙 계약직 사원 박윤조 역을 맡아 고군분투 직장 생존기를 그려가고 있다. 열정 하나로 대기업에 입사한 윤조는 채용 스캔들에 휘말리며 난관을 헤쳐나가고 있다. 녹록지 않은 회사와 조직 문]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA['SBS 퇴사' 재재, 혹독하게 치른 '두데' DJ 신고식 "MBC 독하다"]]></title>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230529155104072"/>
         <updated>2023-05-29T07:10:44.808Z</updated>
         <content type="html"><![CDATA[SBS 파워FM '두시탈출 컬투쇼'에 김민경, 최성민, 강재준이 출연했다. 29일(월) 방송된 SBS 파워FM '두시탈출 컬투쇼'에서는 김민경, 최성민, 강재준이 '대환상파티' 코너에서 청취자들의 사연을 소개하고 이야기를 나눴다. 이날 DJ 김태균이 강재준에게 "살을 빼신 지 꽤 되었는데 계속 유지를 잘하시는 것 같다"라고 말하자 강재준이 "조심해야]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["취업 사기 아니에요?" 재재, 퇴사 후 혹독한 '두데' 신고식]]></title>
-        <id>https://v.daum.net/v/20230529154501999</id>
-        <link href="https://v.daum.net/v/20230529154501999"/>
-        <updated>2023-05-29T07:10:44.809Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 | 김노을 기자] /사진=MBC FM4U 보는 라디오'두시의 데이트' 새 DJ로 발탁된 방송인 재재(본명 이은재)가 호락호락하지 않은 신고식을 치렀다. 29일 오후 방송된 MBC FM4U '두시의 데이트 재재입니다'에서는 재재가 안영미, 뮤지에 이은 새 DJ로 청취자들과 첫 인사를 나눴다. 이날 재재는 "저는 최근 퇴사한 퇴사자다. 퇴사자 인]]></content>
     </entry>
 </feed>
