@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-05-29T05:11:14.491Z</updated>
+    <updated>2023-05-29T06:14:49.265Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['인어공주' 평점테러? 정작 할리 베일리는 일∙사랑 다 잡았다]]></title>
+        <id>https://v.daum.net/v/20230529150607412</id>
+        <link href="https://v.daum.net/v/20230529150607412"/>
+        <updated>2023-05-29T06:14:27.421Z</updated>
+        <content type="html"><![CDATA[[OSEN=최나영 기자] 공개된 디즈니 실사판 영화 '인어공주'(감독 롭 마샬, 수입배급 월트디즈니컴퍼니 코리아)가 개봉 전부터 흑인 인어공주에 대한 악플, 한국 등 몇몇 나라에서 리뷰-별점 테러를 받아 일각의 우려도 받는 상황이지만 정작 주인공인 할리 베일리(23)는 일과 사랑도 다 잡은 모습이다. 베일리는 최근 '인어공주'의 마지막 기자회견을 축하하]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['분노의 질주10' 13일만에 150만 터치다운..'슬램덩크' '존윅5'보다 빠른 흥행 질주]]></title>
         <id>https://v.daum.net/v/20230529135136178</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230529101757915"/>
         <updated>2023-05-29T02:10:18.412Z</updated>
         <content type="html"><![CDATA[영화 ‘범죄도시3’(감독 이상용)가 개봉 전부터 후끈하다. 개봉 이틀 전이지만 벌써부터 박스오피스 2위에 오르며 시리즈에 대한 기대감을 반영하고 있다. 29일 영화진흥위원회 영화관입장권 통합전산망 집계 결과 ‘범죄도시3’는 전날 16만1897명이 관람해 ‘분노의 질주: 라이드 오어 다이’(17만9180명)에 이어 2위를 기록했다. 오는 31일 개봉]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['범죄도시3', 마동석 핵주먹 신드롬 가동…개봉 전 박스오피스 2위]]></title>
-        <id>https://v.daum.net/v/20230529101508880</id>
-        <link href="https://v.daum.net/v/20230529101508880"/>
-        <updated>2023-05-29T02:10:18.413Z</updated>
-        <content type="html"><![CDATA[[스포티비뉴스=장진리 기자] 영화 '범죄도시3'가 정식 개봉 전부터 박스오피스 2위를 차지했다. 29일 영화진흥위원회 영화관입장권전산망에 따르면 '범죄도시3'(감독 이상용)는 28일 하루 동안 16만 1897명의 관객을 동원하며 박스오피스 2위에 올랐다. '범죄도시3'는 31일 개봉 예정이나 주말 동안 유료 상영회를 열면서 미리 관객 앞에 첫선을 보]]></content>
     </entry>
 </feed>

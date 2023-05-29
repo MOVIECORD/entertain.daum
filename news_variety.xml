@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/variety</id>
     <title>다음 연예 ─ 뉴스 ─ 예능</title>
-    <updated>2023-05-29T05:11:14.592Z</updated>
+    <updated>2023-05-29T06:14:49.260Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['1박2일' 빽가, 김종민 뒤통수 친 반전…웃음→힐링 선사]]></title>
+        <id>https://v.daum.net/v/20230529151352511</id>
+        <link href="https://v.daum.net/v/20230529151352511"/>
+        <updated>2023-05-29T06:14:38.011Z</updated>
+        <content type="html"><![CDATA[[OSEN=장우영 기자] ‘1박 2일’ 멤버들의 좌충우돌 힐링 여행기가 일요일 저녁을 사로잡았다. 28일 방송된 KBS2 ‘1박 2일 시즌4’(이하 ‘1박 2일’)에서는 180도 뒤바뀐 멤버들과 매니저의 여행이 그려지며 시청률 8.5%(닐슨코리아 제공, 전국 가구 기준)로 동시간대 1위를 차지했다. 특히 방송 말미 김종민이 멤버들 중 유일하게 요지부동해]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[강호동, 솔직한 꼬마 손님에 씁쓸…"아저씨 얼굴 커요?"→"커요"]]></title>
+        <id>https://v.daum.net/v/20230529145552183</id>
+        <link href="https://v.daum.net/v/20230529145552183"/>
+        <updated>2023-05-29T06:14:38.012Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 박서연 기자] ‘형제라면’ 강호동이 아기 손님의 예측불허 직설 답변에 당혹스러워한다. 29일 밤 10시 방송되는 TV조선-디스커버리 채널 코리아 ‘형제라면’ 2회에서는 ‘소통왕’ 강호동이 꼬마 손님과 대화하던 중, 꼬마 손님의 세상 솔직한 답변을 듣고 충격에 빠지는 모습으로 웃음을 자아낸다. 강호동은 꼬마 손님들이 등장하자 “귀엽다”는]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['두데' 재재 "직장인이었다가 근래 퇴사…골든아워 만들 것"]]></title>
         <id>https://v.daum.net/v/20230529140949429</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230529131712717"/>
         <updated>2023-05-29T05:11:03.792Z</updated>
         <content type="html"><![CDATA[[마이데일리 = 박서연 기자] ‘슈퍼맨이 돌아왔다’ 홍현희가 제이쓴을 능가하는 열혈 육아맘의 모습으로 시선을 끈다. 30일 오후 8시 30분에 방송되는 KBS 2TV ‘슈퍼맨이 돌아왔다’(이하 ‘슈돌’) 481회는 ‘나를 웃게하는 너’ 편으로 꾸며진다. 이중 홍현희-제이쓴-준범은 홍현희의 갑작스러운 스케줄 취소로 오랜만에 세 가족이 모두 뭉쳐 반가움을 선]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김용만X정형돈, 미운털 박혔나…계속된 외근에 불만 폭발]]></title>
-        <id>https://v.daum.net/v/20230529130944629</id>
-        <link href="https://v.daum.net/v/20230529130944629"/>
-        <updated>2023-05-29T04:13:07.417Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 황혜진 기자] 방송인 김용만과 정형돈이 계속된 외근에 불만을 표한다. 5월 29일 방송되는 MBC에브리원 ‘시골경찰 리턴즈’에서는 색다른 외근에 나선 신임 순경들의 근무기가 그려진다. 초보 경찰 티를 벗은 김용만, 김성주, 안정환, 정형돈에게 예상 밖 임무들이 주어져 호기심을 자극한다. 이날 방송에서 일명 ‘외근 붙박이’인 김용만과 정형돈을 위해]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘부산촌놈’ 측 “배정남 새 멤버 합류, 6월 5일부터 月 편성 편경”]]></title>
-        <id>https://v.daum.net/v/20230529130800609</id>
-        <link href="https://v.daum.net/v/20230529130800609"/>
-        <updated>2023-05-29T04:13:07.419Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 황혜진 기자] 모델 배정남이 tvN 예능 '부산촌놈 in 시드니' 새 멤버로 합류한다. 5월 28일 방송된 '부산촌놈 in 시드니' 6회에서 주말을 맞이한 부산 사나이들은 각각 여유로운 휴일과 강도 높은 노동을 맛보며 워킹 홀리데이를 알차게 물들였다. 안보현과 곽준빈은 평소보다 이른 새벽에 출근했지만 이미 바쁘게 돌아가고 있는 마켓 준비 현장에]]></content>
     </entry>
 </feed>
