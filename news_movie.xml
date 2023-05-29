@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-05-29T02:10:41.603Z</updated>
+    <updated>2023-05-29T03:11:51.991Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[올 여름 김혜수 염정아와 센 언니들이 男탕 극장가 접수한다!]]></title>
+        <id>https://v.daum.net/v/20230529120108731</id>
+        <link href="https://v.daum.net/v/20230529120108731"/>
+        <updated>2023-05-29T03:11:29.476Z</updated>
+        <content type="html"><![CDATA[아이즈 ize 김나라 기자남성 위주로 돌아가는 한국 영화계, 올여름에도 유리천장을 깨기 위한 여자배우들의 도전이 이어진다. 텐트폴 영화로는&nbsp;이례적으로 '여성 투톱' 김혜수와 염정아를 내세운 '밀수'가 앞장 서고 김희애,&nbsp;고아라, 박보영, 김형서(비비)가 남자 배우들 사이에서&nbsp;강렬한 존재감을 과시한다. &nbsp;충무로에서 여성 배우가 차지하는 비중은 여전히 남성 배]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['데뷔 16년' 홍종현이 꿈꾸는 '장기 레이스']]></title>
         <id>https://v.daum.net/v/20230529110005627</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230529083108347"/>
         <updated>2023-05-29T00:56:39.283Z</updated>
         <content type="html"><![CDATA[아이즈 ize 정수진(칼럼니스트)'범죄도시3'가 한국 프랜차이즈 영화의 새로운 이정표가 될 수 있을까? 마동석은 실베스터 스탤론을 능가하는 레전드 액션스타로 자리매김할 수 있을까? '범죄도시3'를 보고 난 이후, 두 질문에 대한 대답은 강력히 '예스'다. 영화에 대한 개개인의 만족도는 다를지라도, 마동석과 '범죄도시' 시리즈가 남긴 의의를 부정하긴 힘들 것]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PC논란 '인어공주', 개봉도 안 한 '범죄도시3'에 굴욕…비 내린 주말 불구 4위]]></title>
-        <id>https://v.daum.net/v/20230529081401140</id>
-        <link href="https://v.daum.net/v/20230529081401140"/>
-        <updated>2023-05-29T00:56:39.284Z</updated>
-        <content type="html"><![CDATA[[텐아시아=최지예 기자] 과도한 PC주의와 블랙워싱 논란으로 문제가 된 '인어공주'가 개봉 첫 주말 4위에 머무르며 아쉬움을 남겼다. 특히, 개봉도 전인 영화 '범죄도시3'에 밀리면서 굴욕을 맛봤다.&nbsp; 29일 영진위 영화관입장권통합전산망에 따르면 지난 26일부터 28일까지 주말에 걸쳐 '인어공주'는 일 '인어공주'는 1364개 스크린에서 26만8449명]]></content>
     </entry>
 </feed>
