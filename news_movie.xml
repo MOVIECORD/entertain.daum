@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-05-30T10:11:43.275Z</updated>
+    <updated>2023-05-30T11:09:29.850Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['익스트림 페스티벌' 감독 "'범죄도시3' 매진되면 차선으로..."]]></title>
+        <id>https://v.daum.net/v/20230530195003127</id>
+        <link href="https://v.daum.net/v/20230530195003127"/>
+        <updated>2023-05-30T11:09:07.579Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 윤현지 기자) '익스트림 페스티벌' 배우들이 작품을 극장에서 봐야하는 이유를 꼽았다. 30일 오후 서울 용산구 CGV용산아이파크몰에서 영화 '익스트림 페스티벌'(감독 김홍기)의 언론시사회가 진행됐다. 현장에는 배우 김재화, 조민재, 박강섭, 장세림, 감독 김홍기가 함께했다. '익스트림 페스티벌'은 망하기 일보 직전 지역 축제를 무사히 개최하기]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[先 캐스팅·後 시나리오…주연 4명의 매력은]]></title>
         <id>https://v.daum.net/v/20230530185003718</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230530171407813"/>
         <updated>2023-05-30T09:11:24.183Z</updated>
         <content type="html"><![CDATA[[스타뉴스 | 김나연 기자] 이상용 감독 / 사진=에이비오엔터테인먼트'범죄도시3'의 이상용 감독이 새로운 빌런 이준혁에 대해 밝혔다. 30일 서울시 종로구 소격동의 한 카페에서 영화 '범죄도시3'(감독 이상용)의 연출을 맡은 이상용 감독과 만나 다양한 이야기를 나눴다. '범죄도시3'는 대체불가 괴물형사 '마석도'(마동석 분)가 서울 광수대로 이동 후]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[반전의 ‘인어공주’ 뉴진스 다니엘 더빙판 호평, 첫주 2500억원 흥행수익 돌파]]></title>
-        <id>https://v.daum.net/v/20230530170211287</id>
-        <link href="https://v.daum.net/v/20230530170211287"/>
-        <updated>2023-05-30T08:14:14.187Z</updated>
-        <content type="html"><![CDATA[[스포츠서울 | 조은별기자] 디즈니 실사영화 ‘인어공주’의 한국어 더빙을 맡은 뉴진스 멤버 다니엘의 목소리 연기가 합격점을 받았다. 개봉 전 호주에서 자란 다니엘이 에리얼의 한국어 더빙을 맡게 된다는 소문에 우려도 제기됐지만, 한국어 OST ‘저 곳으로’(Part of Your World) 뮤직비디오에 이어 본편인 영화 개봉 후에는 아예 논란이 사그라]]></content>
     </entry>
 </feed>

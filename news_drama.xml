@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-05-30T10:11:43.290Z</updated>
+    <updated>2023-05-30T11:09:29.849Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['하늘의 인연' 정우연, 서한결에 "내가 전혜연 대용품?" 오열]]></title>
+        <id>https://v.daum.net/v/20230530200414446</id>
+        <link href="https://v.daum.net/v/20230530200414446"/>
+        <updated>2023-05-30T11:09:12.939Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 | 김지은 인턴기자] /사진='하늘의 인연' 화면 캡처'하늘의 인연'에서 정우연이 서한결에게 고백을 거절당한 후 오열했다. 30일 오후 방송된 MBC 일일드라마 '하늘의 인연' 31회에서는 강세나(정우연 분)와 하진우(서한결 분)가 대면하는 모습이 담겼다. 이날 방송에서 하진우는 자신에게 사랑을 고백한 강세나에게 이해인(전혜연 분)의 이야기를]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘하늘의 인연’ 정우연 밀어낸 서한결... 고은미VS조미령, 어른 싸움 됐다]]></title>
+        <id>https://v.daum.net/v/20230530195200173</id>
+        <link href="https://v.daum.net/v/20230530195200173"/>
+        <updated>2023-05-30T11:09:12.943Z</updated>
+        <content type="html"><![CDATA[[TV리포트=이혜미 기자] 정우연의 고백을 거절한 서한결의 행동이 고은미 대 조미령, 어른 싸움으로 번졌다. 30일 MBC ‘하늘의 인연’에선 미강(고은미 분)과 영은(조미령 분)의 다툼이 그려졌다. 진우에게 연심을 고백했으나 거절당한 세나는 폭식으로 울적한 마음을 달랜 바. 그런 세나에 안타까움을 느낀 미강은 진우에게 전화를 걸어 “우리 세나 왜 그러니?]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이엘X박효주 ‘행복배틀’서 만날 운명이었나 “작품 같이 하고 싶었다”]]></title>
         <id>https://v.daum.net/v/20230530182042033</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230530145857460"/>
         <updated>2023-05-30T06:14:35.249Z</updated>
         <content type="html"><![CDATA[[OSEN=박소영 기자] ‘믿고 보는’&nbsp;천우희가 돌아왔다. 공감불능 사기꾼 '이로움'으로 3년 만에 안방극장에 돌아온 그는 명불허전 연기력과 극의 중심을 잡는 독보적인 존재감으로 tvN 월화드라마 ‘이로운 사기’를 가득 채우며 앞으로의 활약에 대한 기대를 높이고 있다. 극중 이로움은 과거 ‘천재 소녀’로 불렸지만, 가족을 살해한 희대의 사이코패스로 낙인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘박하경 여행기’ 구교환→한예리, 이나영과 여행 인증샷 보니]]></title>
-        <id>https://v.daum.net/v/20230530145408247</id>
-        <link href="https://v.daum.net/v/20230530145408247"/>
-        <updated>2023-05-30T06:14:35.258Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 박수인 기자] '박하경 여행기' 회차별 특별 출연 배우 인증샷이 공개됐다. 웨이브 오리지널 드라마 '박하경 여행기'는 사라져 버리고 싶을 때 토요일 딱 하루의 여행을 떠나는, 국어선생님 박하경의 예상치 못한 순간과 기적 같은 만남을 그린 명랑 유랑기. 웨이브는 시청자들의 열띤 호응에 힘입어 ‘박하경’과의 만남을 엿볼 수 있는 특별 출연 배우들과의]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김동욱 vs 김동욱‥이로운 사기 vs 어마그, 둘다 시청률 4.6% 동점]]></title>
-        <id>https://v.daum.net/v/20230530144859017</id>
-        <link href="https://v.daum.net/v/20230530144859017"/>
-        <updated>2023-05-30T06:14:35.259Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 장다희 기자] 김동욱 vs 김동욱. 배우 김동욱이 '이로운 사기'와 '어쩌다 마주친 그대'로 월화 안방극장을 접수했다. 김동욱 주연 tvN 새 월화드라마 '이로운 사기'(극본 한우주, 연출 이수현)가 지난 5월 29일 첫 방송됐다. 이 작품은 공감 불능 사기꾼과 과공감 변호사, 너무나 다른 두 사람의 절대 악을 향한 복수극이자 짜릿한 공조 사]]></content>
     </entry>
 </feed>
