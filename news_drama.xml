@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-05-30T09:11:45.014Z</updated>
+    <updated>2023-05-30T10:11:43.290Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이엘X박효주 ‘행복배틀’서 만날 운명이었나 “작품 같이 하고 싶었다”]]></title>
+        <id>https://v.daum.net/v/20230530182042033</id>
+        <link href="https://v.daum.net/v/20230530182042033"/>
+        <updated>2023-05-30T10:11:25.880Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 박수인 기자] ‘행복배틀’ 배우들이 서로의 연기 호흡을 밝혔다. 5월 31일 방송되는 ENA 새 수목드라마 ‘행복배틀’(연출 김윤철/극본 주영하/기획KT스튜디오지니/제작HB엔터테인먼트)은 SNS에서 행복을 겨루던 엄마들 중 한 명이 의문투성이인 채 사망한 뒤, 비밀을 감추려는 이와 밝히려는 이의 싸움을 그리는 서스펜스 스릴러다. 이엘(장미호 역)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김윤우, tvN '이로운 사기' 합류..김동욱 어린 시절 연기]]></title>
+        <id>https://v.daum.net/v/20230530181708926</id>
+        <link href="https://v.daum.net/v/20230530181708926"/>
+        <updated>2023-05-30T10:11:25.880Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 | 윤성열 기자] /사진제공=웰스엔터테인먼트 배우 김윤우가 '이로운사기'에 합류한다. 30일 소속사 웰스엔터테인먼트에 따르면 김윤우는 tvN 새 월화드라마 '이로운 사기'(극본 한우주, 연출 이수현)에 출연한다. '이로운 사기'는 공감불능 사기꾼과 과(過) 공감 변호사, 너무나 다른 두 사람의 절대 악을 향한 복수극이자 짜릿한 공조 사기극 드]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['이로운 사기' 천우희, 숨 넘어가는 환자 앞에서 든 주사기…긴장감 폭발]]></title>
         <id>https://v.daum.net/v/20230530174437854</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230530144859017"/>
         <updated>2023-05-30T06:14:35.259Z</updated>
         <content type="html"><![CDATA[[뉴스엔 장다희 기자] 김동욱 vs 김동욱. 배우 김동욱이 '이로운 사기'와 '어쩌다 마주친 그대'로 월화 안방극장을 접수했다. 김동욱 주연 tvN 새 월화드라마 '이로운 사기'(극본 한우주, 연출 이수현)가 지난 5월 29일 첫 방송됐다. 이 작품은 공감 불능 사기꾼과 과공감 변호사, 너무나 다른 두 사람의 절대 악을 향한 복수극이자 짜릿한 공조 사]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['어그대' 김동욱X진기주, 반항아 김예지 운명까지 바꿀까]]></title>
-        <id>https://v.daum.net/v/20230530143756477</id>
-        <link href="https://v.daum.net/v/20230530143756477"/>
-        <updated>2023-05-30T06:14:35.261Z</updated>
-        <content type="html"><![CDATA[[OSEN=유수연 기자] ‘어쩌다 마주친, 그대’의 김동욱이 우정고 대표 반항아 김예지를 향해 진심 어린 조언을 건넨다. 30일(오늘) 방송되는 KBS2&nbsp;월화드라마 ‘어쩌다 마주친, 그대’(연출 강수연, 이웅희 / 극본 백소연 / 제작 아크미디어) 10회에서는 김이박 트리오 중 김해경(김예지 분)이 또 한 번 우정고등학교 안에서 소동을 일으켜 윤해준(김]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘가면의 여왕’ 김선아→오윤아, 이정진 죽인 진짜 살인범은]]></title>
-        <id>https://v.daum.net/v/20230530141059320</id>
-        <link href="https://v.daum.net/v/20230530141059320"/>
-        <updated>2023-05-30T06:14:35.262Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 박수인 기자] ‘가면의 여왕’ 이정진의 사망 원인은 무엇일까. 5월 30일 방송되는 채널A 월화드라마 ‘가면의 여왕’(연출 강호중/ 극본 임도완/ 제작 더그레이트쇼, 래몽래인/ 기획 채널A) 12회에서는 송제혁(이정진 분)을 죽인 진짜 범인을 쫓는 과정이 그려진다. 공개된 스틸에는 제혁이 사망하기 전 그를 만나러 간 도재이(김선아 분), 고유나(]]></content>
     </entry>
 </feed>

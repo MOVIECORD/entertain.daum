@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-05-30T09:11:45.020Z</updated>
+    <updated>2023-05-30T10:11:43.273Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[조니 뎁 발목 부상→밴드 美 투어 연기 “유럽투어까지 휴식 취하기로”]]></title>
+        <id>https://v.daum.net/v/20230530184500622</id>
+        <link href="https://v.daum.net/v/20230530184500622"/>
+        <updated>2023-05-30T10:11:42.540Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 박수인 기자] 조니 뎁(Johnny Depp)의 발목 부상으로 인해 밴드 할리우드 뱀파이어스(Hollywood Vampires)의 미국 투어가 연기됐다. 할리우드 뱀파이어스는 최근 공식 SNS를 통해 조니 뎁의 발목 부상으로 인한 미국 투어 연기 소식을 알렸다. 밴드 측은 "조니 뎁은 최근 발목 통증 부상을 입었고 의사로부터 여행을 하지 말라는]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[숀 멘데스♥카밀라 카베요, 재결합 후 테일러 스위프트 콘서트서 포착]]></title>
         <id>https://v.daum.net/v/20230530180530545</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230530111003928"/>
         <updated>2023-05-30T02:11:52.106Z</updated>
         <content type="html"><![CDATA[(엑스포츠뉴스 이창규 기자) 영국의 배우 베네딕트 컴버배치의 자택에 괴한이 습격한 것으로 전해져 충격을 안긴다. 29일(현지시간) 영국 데일리 메일과 더 선 등 다수 매체는 컴버배치가&nbsp;사는 영국 북부의 집에 괴한이 침입했다고 보도했다. 이들에 따르면 칼을 든 35세의 남성은 베네딕트 컴버배치의 집을 발로 차는가 하면 "당신이 여기로 이사 온 것을 안다. 불]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['환승연애 논란' 테일러 스위프트, 새 남친과 동거 계획 중]]></title>
-        <id>https://v.daum.net/v/20230530110418591</id>
-        <link href="https://v.daum.net/v/20230530110418591"/>
-        <updated>2023-05-30T02:11:52.107Z</updated>
-        <content type="html"><![CDATA[[티브이데일리 김종은 기자] 팝 가수 테일러 스위프트가 새 연인과 굳건한 사랑을 이어가고 있다. 영국 매체 데일리메일은 27일(현지시간) "영국 밴드 더1975의 멤버 매티 힐리가 곧 테일러 스위프트의 집으로 이사를 가 동거를 시작할 예정"이라고 보도했다. 보도에 따르면 매티 힐리는 몇 주 이내로 뉴욕에 있는 테일러 스위프트 자택으로 이사할 예정이며, 이]]></content>
     </entry>
 </feed>
