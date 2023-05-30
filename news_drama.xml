@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-05-30T12:22:13.917Z</updated>
+    <updated>2023-05-30T13:14:53.664Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['이로운 사기' 한무영, 천우희에 존속 살해 추궁 "진범 누구냐"]]></title>
+        <id>https://v.daum.net/v/20230530221407677</id>
+        <link href="https://v.daum.net/v/20230530221407677"/>
+        <updated>2023-05-30T13:14:36.709Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 | 김지은 인턴기자] /사진='이로운 사기' 화면 캡처'이로운 사기'에서 김동욱이 천우희와 관련된 존속 살해 사건의 진실에 대해 파고들었다. 30일 방송된 tvN 월화드라마 '이로운 사기' 2회에서는 공감불능 사기꾼 이로움(천우희 분)과 과공감 변호사 한무영(김동욱 분)이 대면하는 장면이 그려졌다. 이날 방송에서 한무영은 이로움이 들고 있던]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['비밀의여자' 최윤영, 이선호와 가슴 아픈 사랑→남소이 정체 알고 '충격']]></title>
         <id>https://v.daum.net/v/20230530210922519</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230530172642258"/>
         <updated>2023-05-30T09:11:29.238Z</updated>
         <content type="html"><![CDATA[[OSEN=김채연 기자] 배우&nbsp;김윤우가&nbsp;‘이로운사기’에 합류한다. 30일 소속사 웰스엔터테인먼트에 따르면&nbsp;김윤우는&nbsp;tvN&nbsp;새 월화드라마&nbsp;‘이로운 사기(극본 한우주,&nbsp;연출 이수현)’에 출연한다. ‘이로운 사기’는 공감불능 사기꾼과 과(過)&nbsp;공감 변호사,&nbsp;너무나 다른 두 사람의 절대 악을 향한 복수극이자 짜릿한 공조 사기극 드라마다. 김윤우는 극 중 과공감]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[만민→만국교회, 아이돌그룹·뮤지컬 배우 키웠나 "밀접한 관계"]]></title>
-        <id>https://v.daum.net/v/20230530172108063</id>
-        <link href="https://v.daum.net/v/20230530172108063"/>
-        <updated>2023-05-30T09:11:29.238Z</updated>
-        <content type="html"><![CDATA[‘PD수첩’[이데일리 스타in 김가영 기자] ‘PD수첩’에서 사이비 교주 이재록의 행보를 쫓는다. MBC ‘PD수첩’ 측은 “못 걷던 사람도 걷게 만들고, 짠물도 단물로 만든다던 희대의 사이비 교주 이재록. 2018년, 그는 여신도들을 성폭행한 혐의로 16년 형을 선고받고 수감된다. 그의 구속을 끝으로 만민교회의 역사도 저무는 듯했으나, 최근 MBC ‘P]]></content>
     </entry>
 </feed>
