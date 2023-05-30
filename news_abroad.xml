@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-05-30T19:09:23.915Z</updated>
+    <updated>2023-05-30T20:12:03.667Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['가오갤' 제임스 건, 알코올+마약 중독 고백]]></title>
+        <id>https://v.daum.net/v/20230531050030821</id>
+        <link href="https://v.daum.net/v/20230531050030821"/>
+        <updated>2023-05-30T20:12:03.032Z</updated>
+        <content type="html"><![CDATA[[TV리포트=이예은 기자] 마블 영화 '가디언즈 오브 갤럭시' 시리즈의 감독이자 DC의 수장으로 거듭난 제임스 건은 영화 덕에 삶이 긍정적으로 변했다.&nbsp; 지난 22일(현지 시간) 외신 매체 엘 파이스는 제임스 건과의 인터뷰를 통해 그가 영화로 인해 알코올과 마약 중독을 극복했다고 보도했다.&nbsp; 인터뷰에서 제임스 건은 "나란 악마는 수년에 걸쳐 변했다. 어렸을]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[코트니 카다시안 "억지로 난자 냉동했지만 임신 실패"]]></title>
         <id>https://v.daum.net/v/20230531030207107</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230530141207386"/>
         <updated>2023-05-30T06:14:51.519Z</updated>
         <content type="html"><![CDATA[[OSEN=박소영 기자] 성 전환 수술을 받은 배우 엘리엇&nbsp;페이지가 자서전에서 동성과 키스했던 순간을 털어놨다. 29일(현지시각) 외신 매체는 오는 6월 6일 발간 예정인 엘리엇 페이지의 회고록 ‘페이지보이’의 일부분을 공개했다. 엘리엇 페이지가 영화 ‘주노’ 시사회 전 한 퀴어 바에 방문해 아름다운 여성 파울라를 만나 사랑에 빠졌다는 것. 엘리엇 페이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['인어공주', 머리카락에만 2억 들어…"흑인 정체성을 위해"]]></title>
-        <id>https://v.daum.net/v/20230530140800214</id>
-        <link href="https://v.daum.net/v/20230530140800214"/>
-        <updated>2023-05-30T05:11:10.086Z</updated>
-        <content type="html"><![CDATA[[TV리포트=유비취 기자] 영화 '인어공주' 제작진은 주인공의 흑인 정체성을 지키기 위해 남다른 노력을 기울였다. '인어공주' 측은 개봉 전부터 흑인인 할리 베일리를 주인공 에리얼 역으로 캐스팅하며 이목을 끌었다. 지난 24일 개봉한 '인어공주'에는 할리 베일리의 정체성과 개성이 드러나 있다. 지난 26일(현지 시간) 연예매체 버라이어티와의 인터뷰에서 할리]]></content>
     </entry>
 </feed>
