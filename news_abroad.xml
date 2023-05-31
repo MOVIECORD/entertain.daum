@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-05-31T14:13:52.864Z</updated>
+    <updated>2023-05-31T15:20:22.097Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['퀸' 노래 '1조 3천억'에 팔린다...역사상 가장 큰 거래]]></title>
+        <id>https://v.daum.net/v/20230531233030639</id>
+        <link href="https://v.daum.net/v/20230531233030639"/>
+        <updated>2023-05-31T15:20:21.486Z</updated>
+        <content type="html"><![CDATA[[TV리포트=이수연 기자] 전설의 록밴드 퀸(Queen)이 역사상 가장 큰 거래를 성사할 수도 있다. 29일(현지 시간) 미국 CNN에 따르면 퀸의 음악 카탈로그는 10억 달러(한화 약 1조 3,265억 원) 이상에 팔릴 예정이다. 한 측근은 "유니버셜 뮤직 그룹과 디즈니 뮤직 그룹 사이의 퀸의 카탈로그를 인수하기 위한 논의가 잘 되고 있다"라고 설명했]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[제니퍼 가너, '전 남편' 아내 자녀까지 챙겨...여행 떠났다]]></title>
         <id>https://v.daum.net/v/20230531230207446</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230531162417675"/>
         <updated>2023-05-31T08:21:52.706Z</updated>
         <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]레오나르도 디카프리오를 비롯해 톰 브래디, 세레나 윌리엄스, 비너스 윌리엄스 등 유명 인사들이 지난 주말 억만장자 예술계 상속인 조 나흐마드와 모델 매디슨 헤드릭의 이탈리아 결혼식에 참석해 자리를 빛냈다. 30일(현지시간) 페이지식스에 따르면, 나흐마드와 헤드릭은 이탈리아 사르데냐의 코스타 스메랄다에서 1,290만 달러(약 1]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DCEU '플래시' 감독 "에즈라 밀러, 속편에도 기용하고파"]]></title>
-        <id>https://v.daum.net/v/20230531161758395</id>
-        <link href="https://v.daum.net/v/20230531161758395"/>
-        <updated>2023-05-31T08:21:52.711Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 이창규 기자) DC 확장 유니버스(DCEU) 영화 '플래시'의 감독 안드레스 무시에티가 에즈라 밀러와 다시 협업하기를 바란다고 전했다. 30일(현지시간) 안드레스 무시에티와 제작을 맡은 바바라 무시에티는 팟캐스트 '더 디스코스'에 출연, 6월 16일 개봉을 앞둔 '플래시'와 관련한 다양한 이야기를 전했다. 안드레스 무시에티는 추후 속편이 나올]]></content>
     </entry>
 </feed>
