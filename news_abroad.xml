@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-05-31T20:11:19.201Z</updated>
+    <updated>2023-05-31T21:10:16.408Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["조지 클루니 술만 밀어주고"…힙합거물 콤스, 주류업체 고소]]></title>
+        <id>https://v.daum.net/v/20230601060021320</id>
+        <link href="https://v.daum.net/v/20230601060021320"/>
+        <updated>2023-05-31T21:10:15.758Z</updated>
+        <content type="html"><![CDATA[(뉴욕=연합뉴스) 고일환 특파원 = '퍼프대디'라는 예명으로 유명한 힙합계의 거물 션 디디 콤스(53)가 세계적인 주류업체 디아지오를 고소했다. 월스트리트저널(WSJ)은 31일(현지시간) 콤스가 운영하는 주류업체 콤스 와인 앤드 스피리츠가 전날 뉴욕주 법원에 디아지오의 미국법인을 상대로 소송을 제기했다고 보도했다. 콤스와 디아지오는 지난 2013년 테킬라]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['퀸' 노래 '1조 3천억'에 팔린다...역사상 가장 큰 거래]]></title>
         <id>https://v.daum.net/v/20230531233030639</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230531164138475"/>
         <updated>2023-05-31T08:21:52.706Z</updated>
         <content type="html"><![CDATA[(엑스포츠뉴스 김유진 기자) 할리우드 배우 알 파치노가 54세 연하 여자친구와의 사이에서 늦둥이를 얻는다.&nbsp; 30일(현지시간) 미국 연예매체 TMZ 등의 보도에 따르면 알 파치노의 여자친구 누어 알팔라는 현재 임신 8개월 차에 접어든 것으로 전해졌다. 알 파치노는 다른 두 명의 여성과의 사이에서 3명의 자녀를 두고 있으며, TMZ는 "아이가 성인인 18세가]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[디카프리오, 이탈리아 호화 결혼식서 금발미녀와 시간 보내]]></title>
-        <id>https://v.daum.net/v/20230531162417675</id>
-        <link href="https://v.daum.net/v/20230531162417675"/>
-        <updated>2023-05-31T08:21:52.706Z</updated>
-        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]레오나르도 디카프리오를 비롯해 톰 브래디, 세레나 윌리엄스, 비너스 윌리엄스 등 유명 인사들이 지난 주말 억만장자 예술계 상속인 조 나흐마드와 모델 매디슨 헤드릭의 이탈리아 결혼식에 참석해 자리를 빛냈다. 30일(현지시간) 페이지식스에 따르면, 나흐마드와 헤드릭은 이탈리아 사르데냐의 코스타 스메랄다에서 1,290만 달러(약 1]]></content>
     </entry>
 </feed>
