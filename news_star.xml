@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2023-05-31T16:15:22.565Z</updated>
+    <updated>2023-05-31T17:11:21.586Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['골때녀' 액셔니 백지훈 감독, "준결승은 전쟁 영화 같을 것"…마지막에 웃을 팀은?]]></title>
+        <id>https://v.daum.net/v/20230601013600463</id>
+        <link href="https://v.daum.net/v/20230601013600463"/>
+        <updated>2023-05-31T17:11:15.103Z</updated>
+        <content type="html"><![CDATA[[SBS연예뉴스 | 김효정 에디터] 구척장신과 액셔니스타가 준결승에 대한 각오를 밝혔다. 31일 방송된 SBS '골 때리는 그녀들'(이하 '골때녀')에서는 FC액셔니스타와 FC구척장신의 준결승이 펼쳐졌다. 이날 경기에 앞서 진행된 프레스룸 기자회견에서 액셔니스타는 이혜정의 출장 여부에 따라 포메이션이 변경될 가능성을 밝혔다. 정상적인 컨디션이 아닌 이혜정은]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['골때녀' 구척장신, "액셔니 준비 잘됐지만 결승 진출은 구척이 할 것"]]></title>
         <id>https://v.daum.net/v/20230601011500383</id>
@@ -27,7 +34,7 @@
         <content type="html"><![CDATA[[TV리포트=이혜미 기자] 배우 고은아가 코 재수술을 위해 전문의 상담을 받았다. 중형차 한 대 값에 이르는 성형비에 고은아는 충격을 표했다. 31일 ‘방가네’ 유튜브 채널에는 “코 상담 받았는데 굉장히 어렵고 비용도 너무 비싸다”란 제목의 영상이 업로드 됐다. 영상 속 고은아는 동생 미르와 성형외과 투어에 나선 모습이다. 앞서 고은아는 코 구축으로 인한]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[‘나는 솔로’ 14기 영수·현숙, 상철·영자, 경숙·영숙... 최종 3커플 탄생]]></title>
+        <title type="html"><![CDATA[‘나는 솔로’ 14기 영수♥현숙→상철♥영자, 최종 3커플 탄생]]></title>
         <id>https://v.daum.net/v/20230601000900086</id>
         <link href="https://v.daum.net/v/20230601000900086"/>
         <updated>2023-05-31T15:20:16.180Z</updated>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230531232950621"/>
         <updated>2023-05-31T15:20:16.188Z</updated>
         <content type="html"><![CDATA[[스포츠조선 이정혁 기자]성해은 정현규 커플의 사랑이 'ing'임이 공개됐다. 최근 성해은은 파리 여행기를 담은 브이로그를 올렸다. 내용중 파리 H매장에서 선물을 산 장면이 담겨있는데, 정현규가 최근 이 H 브랜드의 넥타이를 한 인증샷을 올린 것. 이를 매의눈으로 포착한 네티즌들은 "정현규, 선물 자랑하고 싶어 저리 인증샷 올린듯" "둘이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[여에스더, 쁘띠 시술+우울증 고백 “치료 부작용으로 기억 상실 있다고”]]></title>
-        <id>https://v.daum.net/v/20230531232611599</id>
-        <link href="https://v.daum.net/v/20230531232611599"/>
-        <updated>2023-05-31T15:20:16.189Z</updated>
-        <content type="html"><![CDATA[[스포츠서울 | 김태형기자] 여에스더 박사가 우울증을 고백했다. 31일 방송된 MBC ‘라디오스타’에는 ‘(인)생방송 오늘 저녁 특집’으로 여에스더 박사, 조영구, MBC 아나운서 김대호, 박지민이 출연했다. 이날 여에스더는 우울증 치료 때문에 방송을 쉬고 있지만 ‘라디오스타’에는 꼭 출연하고 싶었다고 전했다. 그는 “못생겼다는 댓글이 많았]]></content>
     </entry>
 </feed>
