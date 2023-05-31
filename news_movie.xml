@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-05-31T11:11:29.945Z</updated>
+    <updated>2023-05-31T12:24:42.830Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["'분노의 질주' 시리즈 지겹다고? 이미 '조'단위 벌었다"]]></title>
+        <id>https://v.daum.net/v/20230531203030159</id>
+        <link href="https://v.daum.net/v/20230531203030159"/>
+        <updated>2023-05-31T12:24:19.093Z</updated>
+        <content type="html"><![CDATA[[TV리포트=유비취 기자] 배우 겸 래퍼 루다 크리스가 영화 '분노의 질주' 시리즈에 질렸다는 반응에 일침을 날렸다. 지난 26일(현지 시간) 팟캐스트 'All The Smoke(올 더 스모크)'에 출연한 루다크리스(45)가 '분노의 질주' 시리즈가 계속될 수 있는 이유는 돈이라고 솔직하게 밝혔다. 그는 '분노의 질주' 시리즈의 조연으로 활약하고 있다. 루]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[든든 측 “허문영 집행위원장 성폭력 의혹, 부산영화제 측에 권고 절차 수행예정”]]></title>
         <id>https://v.daum.net/v/20230531195302296</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230531171400737"/>
         <updated>2023-05-31T08:21:29.799Z</updated>
         <content type="html"><![CDATA[배우 송승헌(47)을 떠올리면 송아지 같은 눈망울이 먼저 연상된다. 멜로에서 늘 순정만화 주인공 같은 순애보를 연기하던 그가 웃음을 지우고 냉철한 악역으로 돌아왔다. 새로운 얼굴이 반갑다. 이제 연기를 즐기게 됐다면서, 더 큰 갈증을 느낀다고 털어놨다. 도전은 이제 시작이다. 송승헌은 최근 진행된 온라인동영상서비스(OTT) 시리즈 '택배기사'(감독 조의석]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['극한직업' 김종수, 부친상 "슬픔 속 빈소 지키는 중"]]></title>
-        <id>https://v.daum.net/v/20230531171301702</id>
-        <link href="https://v.daum.net/v/20230531171301702"/>
-        <updated>2023-05-31T08:21:29.812Z</updated>
-        <content type="html"><![CDATA[[텐아시아=최지예 기자]배우 김종수가 부친상을 당했다. 소속사 아티스트컴퍼니는 31일 텐아시아에 "김종수 배우의 부친께서 금일(31일) 별세하셨다"며 "김종수 배우는 현재 가족 분들과 슬픔 속에 빈소를 지키고 있다"고 밝혔다.&nbsp; 이어 "장례는 가족 및 친지분들과 조용하게 치를 예정이다, 유가족 분들께 깊은 위로와 애도의 마음을 전한다"라고 고인을 기렸다]]></content>
     </entry>
 </feed>
