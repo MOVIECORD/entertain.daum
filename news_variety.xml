@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/variety</id>
     <title>다음 연예 ─ 뉴스 ─ 예능</title>
-    <updated>2023-06-01T10:14:13.297Z</updated>
+    <updated>2023-06-01T11:09:55.526Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[엔하이픈, 아이들 꺾고 1위…'하이브 신인' 보이넥스트도어 데뷔]]></title>
+        <id>https://v.daum.net/v/20230601195158611</id>
+        <link href="https://v.daum.net/v/20230601195158611"/>
+        <updated>2023-06-01T11:09:43.196Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 김나연 기자) 그룹 엔하이픈이 '엠카' 1위를 차지했다. 1일 방송된 Mnet '엠카운트다운'(이하 '엠카') 6월 첫주의 1위 후보로는 그룹 (여자)아이들의 '퀸카(Queencard)'와 엔하이픈의 'Bite me'가 올랐다. 1위를 차지한 엔하이픈은 "엠카운트다운에서 1위를 하는 것은 처음"이라며 회사 식구들에게 감사의 인사를 전했다. 이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김수용, 트럭 사고로 심각한 얼굴 부상 "국군병원서 수술"]]></title>
         <id>https://v.daum.net/v/20230601184007083</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230601171208121"/>
         <updated>2023-06-01T08:13:55.944Z</updated>
         <content type="html"><![CDATA[[스타뉴스 | 이경호 기자] 채널A 예능프로그램 '나만 믿고 먹어봐, 도시횟집'에 송가인이 일일 알바생으로 나섰다(사진 맨 아래)./사진제공=채널A 예능프로그램 '나만 믿고 먹어봐, 도시횟집''나만 믿고 먹어봐, 도시횟집'에서 윤세아는 눈물을 보이고, 일일 알바생 송가인은 전문가 포스를 뽐낸다. 1일 오후 방송되는 채널A 예능프로그램 '나만 믿고 먹어봐,]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['캠핑 인 러브2', 고스펙 40대 '♥'로 돌아온다…11일 첫 방송]]></title>
-        <id>https://v.daum.net/v/20230601170438802</id>
-        <link href="https://v.daum.net/v/20230601170438802"/>
-        <updated>2023-06-01T08:13:55.945Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 오승현 기자) 중년들의 연애 세포를 자극했던 ‘다시 설렘, 캠핑 인 러브’가 시즌2로 돌아온다. MBN ‘다시 설렘, 캠핑 인 러브2’(이하 ‘캠핑 인 러브2’)가 11일 첫 방송을 확정지으며 티저 영상 두 편을 선공개했다. ‘캠핑 인 러브2’는 다시 설레고 싶은 40대 골드 미스, 골드 미스터들의 화끈한 연애 리얼리티 프로그램이다. 지난해]]></content>
     </entry>
 </feed>
