@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-06-02T10:12:12.811Z</updated>
+    <updated>2023-06-02T11:09:38.174Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[소아린 "'닥터 차정숙'은 10대의 마지막과 20대의 시작…작품서 라미란 만나고파"]]></title>
+        <id>https://v.daum.net/v/20230602195800856</id>
+        <link href="https://v.daum.net/v/20230602195800856"/>
+        <updated>2023-06-02T11:09:14.480Z</updated>
+        <content type="html"><![CDATA[[스포츠조선 정빛 기자] 배우 소아린이 뜨거운 연기 열정을 나타냈다. 소아린은 최근 서울 양천구 목동에 있는 스포츠조선 사옥에서 본지와 만나 "'닥터 차정숙'은 10대의 마지막과 20대의 시작을 함께한 작품이다"라며 "다음 작품에서 라미란 선배님을 만나고 싶다"라고 했다. 소아린은 현재 JTBC 주말드라마 '닥터 차정숙'에서 최승희(명세빈)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['범죄도시3' 고규필 "귀여움 비결? 한 살때부터 같은 얼굴" ②]]></title>
         <id>https://v.daum.net/v/20230602180507947</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230602154958181"/>
         <updated>2023-06-02T07:10:40.766Z</updated>
         <content type="html"><![CDATA[[텐아시아=강민경 기자] 배우 고규필이 영화 '범죄도시3'에서 선보인 스타일에 대해 언급했다. 고규필은 2일 오후 서울시 강남구에 위치한 한 카페에서 영화 '범죄도시3'(감독 이상용)에 대한 다양한 이야기를 들어줬다. '범죄도시3'는 서울 광수대로 이동한 마석도(마동석&nbsp;역)가 신종 마약 범죄 사건의 배후인 주성철(이준혁 역)과 마약 사건에 연루된 또]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[고규필 "칭찬 해주는 마동석, '범죄도시2' 본 날 '범죄도시3' 출연 제의 전화"]]></title>
-        <id>https://v.daum.net/v/20230602153959877</id>
-        <link href="https://v.daum.net/v/20230602153959877"/>
-        <updated>2023-06-02T07:10:40.767Z</updated>
-        <content type="html"><![CDATA[[텐아시아=강민경 기자] 배우 고규필이 마동석에게 영화 '범죄도시3' 출연 제의 전화를 받았다고 밝혔다. 고규필은 2일 오후 서울시 강남구에 위치한 한 카페에서 영화 '범죄도시3'(감독 이상용)에 대한 다양한 이야기를 들어줬다. '범죄도시3'는 서울 광수대로 이동한 마석도(마동석&nbsp;역)가 신종 마약 범죄 사건의 배후인 주성철(이준혁 역)과 마약 사건에]]></content>
     </entry>
 </feed>
