@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-06-02T09:11:17.234Z</updated>
+    <updated>2023-06-02T10:12:12.834Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[임지연 “학폭 가해자→가정폭력 피해자, 또 다른 도전”]]></title>
+        <id>https://v.daum.net/v/20230602184807626</id>
+        <link href="https://v.daum.net/v/20230602184807626"/>
+        <updated>2023-06-02T10:11:54.667Z</updated>
+        <content type="html"><![CDATA[[동아닷컴]  임지연이 연기 변신을 예고한다. 19일 첫 방송되는 지니TV 오리지널 ‘마당이 있는 집’(연출 정지현 극본 지아니))은 뒷마당에서 나는 수상한 냄새로 인해 완전히 다른 삶을 살던 두 여자가 만나 벌어지는 서스펜스 스릴러다. 동명의 인기 소설을 원작으로 한다. 김태희, 임지연, 김성오, 최재림 등이 출연한다. 임지연은 비루한 현실에서 탈출을]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['지드래곤 매형' 김민준, 재벌가 회장 어머니 신뢰를 한 몸에…임성한 남자됐다]]></title>
         <id>https://v.daum.net/v/20230602180207844</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230602155102233"/>
         <updated>2023-06-02T07:10:46.357Z</updated>
         <content type="html"><![CDATA[[뉴스엔 하지원 기자] 배우 이나영이 남편 원빈 복귀와 관련해 "나오시겠죠"라며 유쾌한 반응을 보였다. 6월 2일 오전 이나영은 서울 종로구 소격동 한 카페에서 웨이브 오리지널 '박하경 여행기'(감독 이종필) 관련 라운드 인터뷰를 통해 뉴스엔과 만나 이야기를 나눴다. 이날 이나영은 남편 원빈에 대한 질문을 받고 "왜 저한테 물어보는지 모르겠다"며 웃음 지]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[대세의 귀환…이준호 ‘킹더랜드’로 증명할 ‘로맨틱 킹’ 존재감]]></title>
-        <id>https://v.daum.net/v/20230602154404031</id>
-        <link href="https://v.daum.net/v/20230602154404031"/>
-        <updated>2023-06-02T07:10:46.359Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 황혜진 기자] 배우 이준호가 JTBC 새 토일드라마 '킹더랜드'로 '로맨틱 킹' 존재감을 입증한다. 이준호는 6월 17일 첫 방송되는 '킹더랜드'(극본 최롬(팀 하리마오)/연출 임현욱)를 통해 현대극 로코(로맨스코미디) 남주인공으로 돌아온다. '킹더랜드'는 웃음을 경멸하는 남자 구원(이준호 분)과 웃어야만 하는 스마일 퀸 천사랑(임윤아 분)이]]></content>
     </entry>
 </feed>
