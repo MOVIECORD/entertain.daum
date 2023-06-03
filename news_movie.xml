@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-06-03T06:13:50.120Z</updated>
+    <updated>2023-06-03T07:09:44.713Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“시원하게 응징하는 마동석 핵펀치” 또 통했다, ‘범죄도시3’ 300만 돌파]]></title>
+        <id>https://v.daum.net/v/20230603154909509</id>
+        <link href="https://v.daum.net/v/20230603154909509"/>
+        <updated>2023-06-03T07:09:21.981Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]마동석의 핵펀치가 또 통했다. 침체에 빠졌던 한국영화계를 구원해주는 시원한 액션에 관객이 열광적 반응을 보이고 있다. '범죄도시3'는 개봉 4일째인 3일 오후 2시 30분 300만 관객을 돌파했다. 지난해 개봉한 전편 '범죄도시2'가 개봉 4일째 300만을 돌파했던 기록보다 약 1일 빠른 수치다. 또한 올해 300만 관객을]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['범죄도시3' 4일째 300만 돌파..천만 '범죄도시2' 기록 앞당겼다]]></title>
         <id>https://v.daum.net/v/20230603151307164</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230603113601182"/>
         <updated>2023-06-03T03:11:48.700Z</updated>
         <content type="html"><![CDATA[[이진민 기자] ▲ &nbsp;&lt;인어공주&gt; 주인공 '에리얼'을 연기한 할리 베일리ⓒ 월트디즈니 컴퍼니 코리아&nbsp; &nbsp; 말 많던 '흑인' 인어공주가 찾아왔다. 2019년 디즈니가 &lt;인어공주&gt; 실사 영화 제작을 발표한 지 4년 만이다. 1989년에 제작된 애니메이션은 안데르센의 원작과 다르게 인어공주의 주체성을 보여주기 위한 OST &lt; Part of your world &gt;]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[톰 홀랜드 '스파이더맨4' 제작 중단.."인내심 가져야"]]></title>
-        <id>https://v.daum.net/v/20230603113307155</id>
-        <link href="https://v.daum.net/v/20230603113307155"/>
-        <updated>2023-06-03T03:11:48.700Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 | 김나연 기자] 톰 홀랜드 / 사진=스파이더맨: 노 웨이 홈 스틸컷할리우드 배우 톰 홀랜드가 '스파이더맨' 영화에 대해 언급했다. 1일(현지시간) 버라이어티에 따르면 톰 홀랜드는 애플TV+ '더 크라우디드 룸'의 시사회에 참석해 '스파이더맨' 시리즈에 대해 언급했다. 톰 홀랜드는 "구체적으로 말할 수는 없지만, 우리는 '스파이더맨' 다음]]></content>
     </entry>
 </feed>
