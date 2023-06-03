@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-06-03T03:12:11.519Z</updated>
+    <updated>2023-06-03T04:12:26.092Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이동욱의 짜릿한 빅픽처…"일본 요괴들과의 대결 본격 시작"]]></title>
+        <id>https://v.daum.net/v/20230603124003764</id>
+        <link href="https://v.daum.net/v/20230603124003764"/>
+        <updated>2023-06-03T04:12:11.270Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 황수연 기자) 이동욱의 짜릿한 빅픽처가 펼쳐진다. tvN 토일드라마 ‘구미호뎐1938’ 측은 9회 방송을 앞둔 3일, 반도호텔 생활을 시작한 이연(이동욱 분)의 모습을 공개했다. 그를 따라 총출동한 묘연각 패밀리까지 포착, 과연 그곳에서 무슨 일이 벌어질지 궁금증을 자극한다. 지난 방송에서 이연은 살벌한 사냥을 결심했다. 시간여행 중인 그는]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[종영 앞둔 ‘닥터 차정숙’ 정승환→빅마마 박민혜 참여 OST 발매]]></title>
+        <id>https://v.daum.net/v/20230603123459710</id>
+        <link href="https://v.daum.net/v/20230603123459710"/>
+        <updated>2023-06-03T04:12:11.271Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 박수인 기자] '닥터 차정숙' OST가 오늘(3일) 각종 음원 사이트를 통해 발매된다. JTBC 토일드라마 '닥터 차정숙'이 종영을 앞두고 스코어가 포함된 오리지널 사운드 트랙을 발매한다. '닥터차정숙'의 오리지널 사운드 트랙에는 독보적인 감성을 겸비한 실력파 보컬리스트들이 대거 참여했다. 오프닝 타이틀곡 안신애 '나를 위한 하루'부터 로시 '홀]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이동욱, 보물과 반도호텔行..묘연각 패밀리 결전 준비]]></title>
         <id>https://v.daum.net/v/20230603113509175</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230603085319332"/>
         <updated>2023-06-03T00:59:28.306Z</updated>
         <content type="html"><![CDATA[[동아닷컴] ‘낭만닥터 김사부3’ 이경영 리스크가 수면 위로 떠오르며, 돌담병원이 크게 술렁였다. 또 유연석의 귀환이 암시돼 기대감을 높였다. 지난 2일 방송된 SBS 금토드라마 ‘낭만닥터 김사부3’(극본 강은경, 임혜민/연출 유인식, 강보승/제작 삼화네트웍스, 스튜디오S) 11회에서는 돌담병원 내 차진만(이경영 분)의 해임을 원하는 이들이 생겨났고, 이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['나는 솔로' 옥순, 결국 짝 못찾았고 '눈물']]></title>
-        <id>https://v.daum.net/v/20230603084707299</id>
-        <link href="https://v.daum.net/v/20230603084707299"/>
-        <updated>2023-06-03T00:59:28.308Z</updated>
-        <content type="html"><![CDATA[‘나는 솔로’[이데일리 스타in 김가영 기자] ‘나는 솔로’ 옥순이 결국 짝을 못 찾았다. 지난달 31일 방송된 ENA, SBS PLUS ‘나는 솔로’에서는 최종 선택 모습이 그려졌다. 앞서 영수를 향해 호감을 보이던 옥순은 영수의 마음이 현숙에게로 향하자 그에 대한 마음을 접고 상철을 택한 상황. 오전 상철과 대화를 한 후 “마음이 정해졌다”, “내가]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['김사부3' 안효섭, 이성경 프러포즈 거절 "해치우는 식 싫어"]]></title>
-        <id>https://v.daum.net/v/20230603082415126</id>
-        <link href="https://v.daum.net/v/20230603082415126"/>
-        <updated>2023-06-03T00:59:28.309Z</updated>
-        <content type="html"><![CDATA[[OSEN=연휘선 기자] ‘낭만닥터 김사부3’에서 안효섭이 이성경의 프러포즈를 거절했다.&nbsp; 2일 밤 방송된 SBS 금토드라마 ‘낭만닥터 김사부3(약칭 김사부3)’에서는 11회 불확실성의 확실성 이야기가 펼쳐졌다.&nbsp; 이날 차은재(이겅경 분)는 엄마에게 서우진(안효섭 분)과 결혼 전 동거 사실을 들켰다. 갑작스럽게 합가 계획을 밝히며 들이닥친 엄마가 차은재]]></content>
     </entry>
 </feed>
