@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-06-03T10:10:59.198Z</updated>
+    <updated>2023-06-03T11:09:27.054Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김병철 또 석고대죄…엄정화 눈물, 이혼 철회할까]]></title>
+        <id>https://v.daum.net/v/20230603200041955</id>
+        <link href="https://v.daum.net/v/20230603200041955"/>
+        <updated>2023-06-03T11:09:10.840Z</updated>
+        <content type="html"><![CDATA[[동아닷컴]    엄정화가 김병철, 민우혁에게 거절할 수 없는 마음을 동시에 받는다. JTBC 토일드라마 ‘닥터 차정숙’(연출 김대진 김정욱, 극본 정여랑) 제작진은 3일 차정숙(엄정화 분)에게 각자의 진심을 전하는 서인호(김병철 분)와 로이킴(민우혁 분) 모습을 공개했다. 서인호, 로이킴의 제안에 차정숙이 어떤 결정을 내릴까. 앞서 차정숙이 남편 서인호]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이동욱 사냥 본격화…김소연도 달콤살벌 재가동]]></title>
+        <id>https://v.daum.net/v/20230603195707914</id>
+        <link href="https://v.daum.net/v/20230603195707914"/>
+        <updated>2023-06-03T11:09:10.840Z</updated>
+        <content type="html"><![CDATA[[동아닷컴]  이동욱의 짜릿한 빅픽처가 펼쳐진다. tvN 토일드라마 ‘구미호뎐1938’(연출 강신효, 극본 한우리) 제작진은 9회 방송을 앞둔 3일 반도호텔 생활을 시작한 이연(이동욱 분) 모습을 공개했다. 그를 따라 총출동한 묘연각 패밀리까지 포착, 과연 그곳에서 무슨 일이 벌어질까. 지난 방송에서 이연은 살벌한 사냥을 결심했다. 시간여행 중인 그는]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘구미호뎐’ 반도호텔에 묘연각 패밀리 총출동, 김소연 달콤살벌 본능 재가동]]></title>
         <id>https://v.daum.net/v/20230603185805358</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230603145220890"/>
         <updated>2023-06-03T06:13:33.460Z</updated>
         <content type="html"><![CDATA[(엑스포츠뉴스 최희재 기자) ([엑's 인터뷰③]에 이어) 배우 이나영이 남편 원빈과 아들과의 일상을 언급했다. 이나영은 2일 오전, 서울시 종로구에 위치한 한 카페에서 진행된 웨이브 오리지널 '박하경 여행기' 인터뷰에서 다양한 이야기를 전했다. '박하경 여행기'는 사라져 버리고 싶을 때 토요일 딱 하루의 여행을 떠나는, 국어선생님 박하경(이나영 분)의 예]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['박하경 여행기' 이나영 "한예리와 쳐다만 봐도 울어…희한한 감정"]]></title>
-        <id>https://v.daum.net/v/20230603145214889</id>
-        <link href="https://v.daum.net/v/20230603145214889"/>
-        <updated>2023-06-03T06:13:33.460Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 최희재 기자) ([엑's 인터뷰②]에 이어) 배우 이나영이 '박하경 여행기' 속 한예리와의 호흡에 대해 전했다. 이나영은 2일 오전, 서울시 종로구에 위치한 한 카페에서 진행된 웨이브 오리지널 '박하경 여행기' 인터뷰에서 다양한 이야기를 전했다. '박하경 여행기'는 사라져 버리고 싶을 때 토요일 딱 하루의 여행을 떠나는, 국어선생님 박하경(이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['박하경 여행기' 이나영 "구교환과 연기, 다 하고 싶어하지 않나요?"]]></title>
-        <id>https://v.daum.net/v/20230603145208888</id>
-        <link href="https://v.daum.net/v/20230603145208888"/>
-        <updated>2023-06-03T06:13:33.463Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 최희재 기자) ([엑's 인터뷰①]에 이어) 배우 이나영이 '박하경 여행기' 특별출연 배우들과의 연기 케미를 전했다. 이나영은 2일 오전, 서울시 종로구에 위치한 한 카페에서 진행된 웨이브 오리지널 '박하경 여행기' 인터뷰에서 다양한 이야기를 전했다. '박하경 여행기'는 사라져 버리고 싶을 때 토요일 딱 하루의 여행을 떠나는, 국어선생님 박하]]></content>
     </entry>
 </feed>
