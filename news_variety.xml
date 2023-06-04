@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/variety</id>
     <title>다음 연예 ─ 뉴스 ─ 예능</title>
-    <updated>2023-06-04T03:05:36.720Z</updated>
+    <updated>2023-06-04T04:12:45.387Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이경규·옹달샘·장도연 출연료 10억 미지급한 前회사 측 “대표 부친명의 집까지 팔아 변제…재기 뒤 반드시 갚겠다”]]></title>
+        <id>https://v.daum.net/v/20230604131012570</id>
+        <link href="https://v.daum.net/v/20230604131012570"/>
+        <updated>2023-06-04T04:12:32.910Z</updated>
+        <content type="html"><![CDATA[[스포츠서울 | 조은별기자]최근 배우 송지효가 전 소속사 우쥬록스로부터 출연료를 입급받지 못해 정산금 미지급 소송을 제기한 가운데 방송인 이경규, 옹달샘 장도연 등도 2년째 출연료를 받지 못한 사실이 뒤늦게 확인됐다. 이들이 받지 못한 출연료는 총 10억원에 육박한다. 지난 2020년 당시 이들의 소속사 겸 외주제작사인 A사 측 관계자는 5]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[장윤정 "첫째에게 양보하라 한 적 없어"…연우·하영 교육법에 감탄]]></title>
         <id>https://v.daum.net/v/20230604120511785</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230604110900768"/>
         <updated>2023-06-04T03:05:25.700Z</updated>
         <content type="html"><![CDATA[가수 이찬원이 MC로 활약 중인 ‘불후의 명곡’에서 우승을 차지했다. 이찬원은 지난 3일 오후 방송된 KBS 2TV 예능프로그램 ‘불후의 명곡’에 출연해 다섯 번째 순서로 무대에 올라 최종 우승의 주인공이 됐다. ‘불후의 명곡’에서 MC로 활약하고 있는 이찬원은 이날 ‘아티스트 진성 편’으로 펼쳐지자 본업으로 돌아와 경연자 라인업에 이름을 올렸다. 방송 시]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NCT 도영x'라라랜드' 음악감독→폴킴, 컬러풀 매력 후끈…특급무대]]></title>
-        <id>https://v.daum.net/v/20230604110209647</id>
-        <link href="https://v.daum.net/v/20230604110209647"/>
-        <updated>2023-06-04T03:05:25.700Z</updated>
-        <content type="html"><![CDATA[[마이데일리 = 이승길 기자] 'K-909'가 원앤온리 특급 무대가 펼쳐졌다. 3일 방송된 JTBC 'K-909'에서는 전 세계 음악인들이 공감할 수 있는 페스티벌급 극강의 라인업으로 구성된 오감 만족형 무대들로 60분간 풍성하게 채워졌다. 15회 첫 번째 무대는 ’K-909’ 감성 싱어송라이터 폴킴이 1년여 만에 발매한 신곡 ‘한강에서’와 JTBC 화제]]></content>
     </entry>
 </feed>
