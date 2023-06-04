@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-06-04T15:10:01.828Z</updated>
+    <updated>2023-06-04T16:12:50.781Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[엄정화, 김병철과 이혼 후 개인병원 차렸다→행복한 '싱글' 엔딩]]></title>
+        <id>https://v.daum.net/v/20230605005109468</id>
+        <link href="https://v.daum.net/v/20230605005109468"/>
+        <updated>2023-06-04T16:12:33.298Z</updated>
+        <content type="html"><![CDATA[[OSEN=박하영 기자] ‘닥터 차정숙’ 엄정화가 김병철의 간 이식을 받고 이혼한 가운데 민우혁의 고백도 거절했다. 4일 방송된 JTBC 토일드라마 ‘닥터 차정숙’(연출 김대진·김정욱, 극본 정여랑, 제작 (주)스튜디오앤뉴·SLL·JCN) 최종회에서는 간 이식 수술을 받은 차정숙(엄정화 분)가 새 인생을 살아가는 모습이 그려졌다. 이날 차정숙은 급성간부]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["혼자서 행복"..종영 '차정숙' 엄정화, 김병철과 이혼→병원장 자아실현..민우혁과는 '불발']]></title>
         <id>https://v.daum.net/v/20230604235429123</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230604225008847"/>
         <updated>2023-06-04T14:09:13.211Z</updated>
         <content type="html"><![CDATA[[OSEN=박하영 기자] ‘닥터 차정숙’ 엄정화가 간이식을 거절했다. 4일 방송된 JTBC 토일드라마 ‘닥터 차정숙’(연출 김대진·김정욱, 극본 정여랑, 제작 (주)스튜디오앤뉴·SLL·JCN) 최종회에서는 건강이 다시 악화된 차정숙(엄정화 분)이 서인호(김병철 분)과 로이킴(민우혁 분) 간을 선택하지 않았다. 이날 서인호와 로이킴은 간이식을 두고 서로]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[엄정화 "누구 간 받을 거냐고? 내 선택은 둘 다 아냐"]]></title>
-        <id>https://v.daum.net/v/20230604224812836</id>
-        <link href="https://v.daum.net/v/20230604224812836"/>
-        <updated>2023-06-04T14:09:13.214Z</updated>
-        <content type="html"><![CDATA[[마이데일리 = 이승길 기자] 차정숙(엄정화)이 간 이식에 대한 답을 내놨다. 4일 밤 JTBC 토일드라마 '닥터 차정숙'(극본 정여람 연출 김대진 김정욱) 마지막 회가 방송됐다. 레지던트 생활을 정리하고 결국 입원한 차정숙(엄정화). 서인호(김병철)는 지난날을 후회하며 용서를 구했지만, 차정숙은 부질없다며 선을 그었다. 차정숙은 간이식을 하겠다는 서인호]]></content>
     </entry>
 </feed>
