@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-06-04T21:09:25.499Z</updated>
+    <updated>2023-06-04T22:10:00.761Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[나탈리 포트만 남편과 불륜 25살 여성, "기후변화와 사회정의 위한 활동가"]]></title>
+        <id>https://v.daum.net/v/20230605070306208</id>
+        <link href="https://v.daum.net/v/20230605070306208"/>
+        <updated>2023-06-04T22:09:59.991Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]‘블랙스완’으로 아카데미 여우주연상을 받은 나탈리 포트만(41)의 남편 발레리노 벤자민 마일피드(45)와 바람을 피운 매력적인 젊은 환경 운동가인 카미유 에티엔(25)에 대한 관심이 높아지고 있다. 3일(현지시간) 페이지식스에 따르면, 에티엔은 인스타그램에 약 30만 명의 팔로워를 보유하고 있으며, 기후 변화와 사회 정의를]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[구준엽 “♥서희원과 20년 전 결별…내가 먼저 '헤어지자'고 했다”]]></title>
         <id>https://v.daum.net/v/20230604151022818</id>
@@ -81,12 +88,5 @@
         <link href="https://v.daum.net/v/20230604085812723"/>
         <updated>2023-06-04T01:10:24.249Z</updated>
         <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]세계적 팝가수 테일러 스위프트(33)가 콘서트를 찾은 성소수자들을 환영했다. 페이지식스 등 외신에 따르면, 그는 2일(현지시간) 시카고에서 열린 에라스 투어에서 “오늘밤 밖을 내다보니 진정성 있고 아름답게 살아가는 놀라운 사람들을 많이 볼 수 있었다”면서 “이곳은 여러분을 위한 안전한 공간이다”라고 말했다. 스위프트는 팬들]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“남편이 25살 여자와 바람 피웠지만” 나탈리 포트만, 아이들 봐서 참는다]]></title>
-        <id>https://v.daum.net/v/20230604070206763</id>
-        <link href="https://v.daum.net/v/20230604070206763"/>
-        <updated>2023-06-03T22:09:58.683Z</updated>
-        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]‘블랙스완’으로 아카데미 여우주연상을 수상한 나탈리 포트만(41)이 남편 발레리노 벤자민 마일피드(45)의 외도로 결혼생활에 위기를 맞고 있다. 페이지식스는 2일(현지시간) “2012년에 결혼한 두 사람은 지난해 별거했지만 관계를 극복하기 위해 노력하고 있다”면서 “그러나 최근 마일피드의 외도가 알려지면서 결혼생활이 흔들리고]]></content>
     </entry>
 </feed>
