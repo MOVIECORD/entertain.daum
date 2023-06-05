@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-06-05T09:11:36.789Z</updated>
+    <updated>2023-06-05T10:12:00.420Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[유선, 살인자 피의자 신분 전환 되나? 이정진과 100억 거래 수면 위로]]></title>
+        <id>https://v.daum.net/v/20230605185859123</id>
+        <link href="https://v.daum.net/v/20230605185859123"/>
+        <updated>2023-06-05T10:11:42.977Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 박수인 기자] ‘가면의 여왕’ 유선이 살인 피의자 신분 전환 위기에 처한다. 6월 5일 방송되는 채널A 월화드라마 ‘가면의 여왕’(연출 강호중/ 극본 임도완/ 제작 더그레이트쇼, 래몽래인/ 기획 채널A) 13회에서는 송제혁(이정진)의 살인 사건 조사 중 윤해미(유선)와 제혁 사이 100억원의 금전 거래 사실이 수면 위로 드러난다. 앞서 해미는 2]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[사라진 이정진 비자금 100억 원 행방은?]]></title>
         <id>https://v.daum.net/v/20230605180101052</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230605160343483"/>
         <updated>2023-06-05T07:10:48.305Z</updated>
         <content type="html"><![CDATA[[OSEN=장우영 기자] ‘어쩌다 마주친, 그대’의 지혜원이 우정고등학교에서 소설가로 데뷔한다. 5일 밤 9시 45분 방송되는 KBS2 월화드라마 ‘어쩌다 마주친, 그대’(극본 백소연, 연출 강수연 이웅희, 제작 아크미디어) 11회에서는 고미숙(지혜원)이 우정고등학교에서 최초 소설가로 데뷔한 소식이 퍼진다. 지난주 방송된 9, 10회에서 미숙은 백희섭(]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["강렬한 케미"…'가슴이 뛴다' 옥택연·원지안·박강현·윤소희, 단체 포스터]]></title>
-        <id>https://v.daum.net/v/20230605155801264</id>
-        <link href="https://v.daum.net/v/20230605155801264"/>
-        <updated>2023-06-05T07:10:48.306Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 황수연 기자) ‘가슴이 뛴다’가 배우 옥택연, 원지안, 박강현, 윤소희의 강렬한 비주얼이 담긴 단체 및 캐릭터 포스터 4종을 공개했다.&nbsp; 오는 26일 첫 방송 예정인 KBS 2TV 새 월화드라마 ‘가슴이 뛴다’는 100년 중 하루 차이로 인간이 되지 못한 반인뱀파이어 선우혈과 인간미라고는 찾아볼 수 없는 여자 주인해가 어쩌다 동거를 시작하며,]]></content>
     </entry>
 </feed>
