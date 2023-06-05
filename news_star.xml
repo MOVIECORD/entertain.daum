@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2023-06-05T17:10:07.579Z</updated>
+    <updated>2023-06-05T18:13:11.188Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[장성규·최수영·이은지, ‘2억9천:결혼전쟁’ MC 확정]]></title>
+        <id>https://v.daum.net/v/20230606030108355</id>
+        <link href="https://v.daum.net/v/20230606030108355"/>
+        <updated>2023-06-05T18:13:05.476Z</updated>
+        <content type="html"><![CDATA[[동아닷컴] 사진 제공 | tvN ‘2억9천 : 결혼전쟁’tvN 새 예능 ‘2억9천 : 결혼전쟁’이 장성규, 최수영, 이은지를 MC로 확정했다. ‘2억9천 : 결혼전쟁’(연출 이원웅/작가 강숙경)은 각양각색의 사연을 가진 열 커플이 서로의 믿음과 사랑을 증명하고 결혼이라는 결승점을 향해 달려가는 과정을 담은 압도적 규모의 리얼 커플 서바이벌이다. ‘강철]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['동상이몽2' 최병모, "어머니가 ♥이규인이 귀인이라 불러"…달라서 행복한 '흑백부부']]></title>
         <id>https://v.daum.net/v/20230606015400310</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230606000058824"/>
         <updated>2023-06-05T15:11:13.583Z</updated>
         <content type="html"><![CDATA[포르테나가 ‘팬텀싱어4’ 우승보다 더 값진 성과를 얻었다고 얘기했다. 포르테나는 5일 오후 서울 마포구 상암동 모처에서 스포츠경향과 만나 “주변에서 너무 늦게 만나서 아쉽다고 할 만큼 호흡이 잘 맞았다”고 ‘팬텀싱어4’ 준우승 소감을 밝혔다. 포르테나는 ‘팬텀싱어4’에서 유일하게 성악가로 이루어진 4중창 그룹이다. 이들은 ‘월드클래스 카운터테너’ 이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['동상이몽2' 배우 최병모, "아내는 하느님이 내게 주신 십자가…엉뚱하고 특이한 사람"]]></title>
-        <id>https://v.daum.net/v/20230605235700798</id>
-        <link href="https://v.daum.net/v/20230605235700798"/>
-        <updated>2023-06-05T15:11:13.585Z</updated>
-        <content type="html"><![CDATA[[SBS연예뉴스 | 김효정 에디터] 최병모가 아내를 소개했다. 5일 방송된 SBS '동상이몽 시즌2'(이하 '동상이몽2')에서는 배우 최병모가 아내와 함께 새로운 운명 커플로 등장했다. 이날 방송에서 최병모는 "27년 차 배우 최병모다. 나이는 52이고 한번 다녀와서 현재 결혼 7년 차이다"라고 소개했다. 그리고 그는 아내에 대해 "아내는 특이한 사람이다.]]></content>
     </entry>
 </feed>
