@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/variety</id>
     <title>다음 연예 ─ 뉴스 ─ 예능</title>
-    <updated>2023-06-05T03:14:10.060Z</updated>
+    <updated>2023-06-05T04:12:49.447Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[박세미, 사유리 子 젠 육아에 서준맘↔미혼 본캐 들락날락]]></title>
+        <id>https://v.daum.net/v/20230605130955628</id>
+        <link href="https://v.daum.net/v/20230605130955628"/>
+        <updated>2023-06-05T04:12:37.887Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 박수인 기자] ‘서준맘’ 박세미가 젠과 함께 현실 육아를 경험한다. 6월 6일 방송되는 KBS 2TV '슈퍼맨이 돌아왔다'(이하 ‘슈돌’) 482회는 ‘네가 있어 오늘도 맑음’ 편으로 꾸며지는 가운데 ‘서준맘’ 박세미가 젠을 만나 특급 육아를 펼친다. 박세미는 “한두 시간 안에 젠을 재울 수 있다”며 젠 재우기에 호기롭게 나선다. 박세미는 젠에게]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['댄스가수 유랑단', 세월 거슬러 무대 주인공으로 우뚝선 시간들]]></title>
         <id>https://v.daum.net/v/20230605112107994</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230605102759869"/>
         <updated>2023-06-05T02:26:46.674Z</updated>
         <content type="html"><![CDATA[[뉴스엔 김명미 기자] 엄정화, 김병철, 명세빈, 민우혁이 ‘짠당포’에 뜬다. 6월 13일 오후 10시 30분 첫 방송되는 JTBC 신규 예능 프로그램 ‘짠당포’에 최고의 화제작 ‘닥터 차정숙(연출 김대진·김정욱, 극본 정여랑, 제작 ㈜스튜디오앤뉴·SLL·JCN)’의 주연 배우 4인방 엄정화, 김병철, 명세빈, 민우혁이 출연한다. ‘짠당포’에 찾아온 ‘]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한 풀었다…딘딘 오프닝 무대, ‘1박2일’ 최고 시청률]]></title>
-        <id>https://v.daum.net/v/20230605102702824</id>
-        <link href="https://v.daum.net/v/20230605102702824"/>
-        <updated>2023-06-05T02:26:46.676Z</updated>
-        <content type="html"><![CDATA[‘1박 2일’ 딘딘의 오프닝 무대가 최고 시청률을 기록했다. 4일 방송된 KBS2 ‘1박 2일 시즌4’(이하 ‘1박 2일’)에서는 경치와 날씨도 좋은 경북 영양에서 펼쳐진 여행기가 그려지며 시청률 7.4%(닐슨코리아 제공, 전국 가구 기준)로 동시간대 1위를 차지했다. 특히 방송 말미 딘딘이 원 없이 한을 푼 현리마을 대잔치 오프닝 무대 장면은 분당 시청]]></content>
     </entry>
 </feed>
