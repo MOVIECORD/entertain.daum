@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-06-05T12:22:07.001Z</updated>
+    <updated>2023-06-05T13:15:31.442Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“25살 법칙은 진리” 디카프리오, 이번엔 22살 모델과 요트 파티]]></title>
+        <id>https://v.daum.net/v/20230605215319978</id>
+        <link href="https://v.daum.net/v/20230605215319978"/>
+        <updated>2023-06-05T13:15:30.593Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]할리우드 스타 레오나르도 디카프리오(48)는 ‘25살 법칙’으로 유명하다. 애인이 25살을 넘으면 헤어진다는 것. 실제 모델 카밀라 모로네와 5년간 공개 연애를 이어오다 지난해 8월 헤어졌다. 당시 모로네의 나이는 25살이었다. 4일(현지시간) 데일리메일 등 외신에 따르면, 디카프리오는 3일 스페인 이비자에서 요트를 타고 햇]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[티모시 샬라메, '카다시안 패밀리' 예능 나올까...카일리 제너와 진지]]></title>
         <id>https://v.daum.net/v/20230605210031495</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230605140733075"/>
         <updated>2023-06-05T05:10:40.483Z</updated>
         <content type="html"><![CDATA[[뉴스엔 배효주 기자] 브래드 피트와 안젤리나 졸리의 진흙탕 싸움이 계속되고 있다. 해외 매체 페이지 식스 등 다수의 외신에 따르면, 최근 브래드 피트는 안젤리나 졸리가 양육권 분쟁 중 자신에게 '복수를 하기 위해' 공동 소유한 프랑스의 와인밭 지분을 제3자에게 매각하는 비밀 음모를 꾸몄다면서 소송을 제기했다. 해당 매체가 입수한 소장에 따르면, 브래드]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“남편이 25살 여성과 불륜 저질렀지만” 나탈리 포트만, 활짝 웃는 모습 포착]]></title>
-        <id>https://v.daum.net/v/20230605110315163</id>
-        <link href="https://v.daum.net/v/20230605110315163"/>
-        <updated>2023-06-05T02:26:57.857Z</updated>
-        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]남편 벤자민 마일피드(45)가 25살 여성과 바람을 피워 속상할 법도 하지만, ‘블랙스완’ 나탈리 포트만(41)은 미소를 잃지 않았다. 페이지식스는 4일(현지시간) “남편 벤자민 마일피드의 불륜 스캔들이 불거진 가운데 나탈리 포트만이 3일 프랑스 파리에서 외출하는 동안 밝은 표정을 지었다”고 전했다. 포트만은 파르크 데 프]]></content>
     </entry>
 </feed>
