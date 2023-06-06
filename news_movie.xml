@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-06-06T10:11:32.665Z</updated>
+    <updated>2023-06-06T11:09:18.499Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘범죄도시3’ 600만 돌파]]></title>
+        <id>https://v.daum.net/v/20230606200507977</id>
+        <link href="https://v.daum.net/v/20230606200507977"/>
+        <updated>2023-06-06T11:08:55.900Z</updated>
+        <content type="html"><![CDATA[[동아닷컴] ‘범죄도시3’ 600만 돌파 [DA:박스] 영화 ‘범죄도시3’가 개봉 7일째인 6월 6일(화) 오후 7시 45분, 600만 관객을 돌파했다. 영진위 통합전산망 6일(화) 오후 7시 45분 기준, ‘범죄도시3’는 600만을 넘어서며 올해 최초로 600만 관객을 돌파한 작품이 됐다. 이와 같은 추이는 전편 ‘범죄도시2’가 개봉 12일째 600만]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[망해가는 지역 축제 살려라!..김재화, 생애 첫 주연작 '익스트림 페스티벌']]></title>
         <id>https://v.daum.net/v/20230606171508434</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230606095511906"/>
         <updated>2023-06-06T01:02:52.193Z</updated>
         <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]‘범죄도시3’ 이상용 감독은 ‘늦깎이’다. 원래는 나이가 들어서 머리를 깎고 스님이 된 사람을 뜻하는 말이었다. 지금은 나이가 들어서 일을 시작하거나 뭔가를 배우기 시작한 사람을 뜻한다. 데뷔를 늦게한 사람도 늦깎이로 부른다. 이상용 감독은 40살이었던 지난해 ‘범죄도시2’로 데뷔했다. 데뷔작으로 1,269만 관객을 동원하는]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘범죄도시3’ 강한별 “마동석과 호흡, 나 때문에 NG”]]></title>
-        <id>https://v.daum.net/v/20230606094707791</id>
-        <link href="https://v.daum.net/v/20230606094707791"/>
-        <updated>2023-06-06T01:02:52.197Z</updated>
-        <content type="html"><![CDATA[영화 ‘범죄도시’는 유독 조연들이 주목 받는 작품으로 유명하다. 범죄 액션물의 특성상 많은 조연과 카메오들이 나오는데, 이들 각각의 캐릭터를 잘 살리는 게 ‘범죄도시’ 시리즈의 특장점이다. 배우 강한별도 마찬가지다. 그는 지난해 말 ‘없는 영화’ 출연으로 일간스포츠와 만난 자리에서 개봉을 반년여 앞둔 ‘범죄도시3’에 대해 언급하며 기대감을 보인바 있다.]]></content>
     </entry>
 </feed>
