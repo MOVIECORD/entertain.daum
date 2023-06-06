@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-06-06T22:10:36.098Z</updated>
+    <updated>2023-06-06T23:10:32.094Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“불임이라더니” 83살 알 파치노, “29살 여친 임신 매우 특별하다” 첫 소감]]></title>
+        <id>https://v.daum.net/v/20230607072250708</id>
+        <link href="https://v.daum.net/v/20230607072250708"/>
+        <updated>2023-06-06T23:10:31.399Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]‘대부’ 시리즈의 알 파치노(83)가 여친 알팔라(29)의 임신에 처음으로 입장을 밝혔다. 6일(현지시간) 데일리메일이 입수한 영상에 따르면, 그는 “매우 특별하다”고 말했다. 파치노는 “항상 그랬다. 나는 아이가 많다. 하지만 이번 임신은 정말 특별하다”고 전했다. 파치노는 얀 태런트와 딸 줄리(33), 베벌리 단젤로와]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['이파네마의 소녀' 아스트루지 지우베르투 별세…향년 83세]]></title>
         <id>https://v.daum.net/v/20230607070410523</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230606090208185"/>
         <updated>2023-06-06T01:03:14.019Z</updated>
         <content type="html"><![CDATA[[TV리포트=유비취 기자] 팝스타 테일러 스위프트가 공개적으로 성소수자를 지지했다. 지난 2일(현지 시간) 테일러 스위프트(33)는 미국 시카고 콘서트 도중 성소수자(LGBTQIA+)를 공개적으로 응원했다. 테일러 스위프트는 '성소수자 프라이드의 달'인 6월을 축하하면서 성소수자를 향해 "진실하고 아름답게 살고 있는 사람들이 많다. 이 콘서트는 여러분에게]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘환승연애’ 테일러 스위프트, 매튜 힐리와 열애 한달만에 결별]]></title>
-        <id>https://v.daum.net/v/20230606072718222</id>
-        <link href="https://v.daum.net/v/20230606072718222"/>
-        <updated>2023-06-05T23:11:33.738Z</updated>
-        <content type="html"><![CDATA[[OSEN=강서정 기자] 가수 테일러 스위프트가 영국 밴드 더 1975의 보컬 매튜 힐리와 열애 한 달여 만에 헤어졌다.&nbsp; 5일(현지시간) 페이지식스 보도에 따르면 테일러 스위프트와 매튜 힐리가 폭풍 같은 로맨스 후 헤어졌다. 측근은 테일러 스위프트가 다시 ‘싱글’이라고 말했지만 결별 이유는 알려지지 않았다.&nbsp; 하지만 한 관계자는 스케줄과 성격차이가 원]]></content>
     </entry>
 </feed>
