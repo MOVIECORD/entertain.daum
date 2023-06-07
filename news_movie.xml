@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-06-07T21:10:38.479Z</updated>
+    <updated>2023-06-07T22:10:20.054Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘익스트림 페스티벌’ 김재화 “예전엔 착각 속에 살았다..내 역할 잘 해내고파”]]></title>
+        <id>https://v.daum.net/v/20230608063107221</id>
+        <link href="https://v.daum.net/v/20230608063107221"/>
+        <updated>2023-06-07T22:09:58.955Z</updated>
+        <content type="html"><![CDATA[배우 김재화가 첫 장편 주연 영화 ‘익스트림 페스티벌’로 관객 앞에 섰다. 지난 7일 개봉한 ‘익스트림 페스티벌’은 망하기 일보 직전 지역 축제를 무사히 개최하기 위해 고군분투하는 스타트업 청년들의 이야기를 그린 현실 격공 코미디. 극중 김재화는 스타트업 축제 대행사 ‘질투는 나의 힘’ 대표 혜수 역을 맡았다. 혜수는 망해가는 지역 축제를 성공적으로 개]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이게 마블이야, 트랜스포머야…'트랜스포머:비스트의 서막']]></title>
         <id>https://v.daum.net/v/20230608060910968</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230607160508646"/>
         <updated>2023-06-07T07:11:17.123Z</updated>
         <content type="html"><![CDATA[[티브이데일리 김종은 기자] 출연자 에즈라 밀러의 사생활 논란으로 제작 단계부터 수차례 구설수에 올랐던 영화 '플래시'가 마침내 극장에 상륙한다. 과연 '플래시'가 우려를 불식시키고 DC의 구원자가 될 수 있을지 귀추가 주목된다. 14일 개봉하는 '플래시'(감독 안드레스 무시에티·배급 워너 브러더스 코리아)는 빛보다 빠른 스피드를 지닌 플래시(에즈라 밀러)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['너의 눈을 들여다보면' 인생의 방향이 의심스러운 당신을 위한 위로와 공감의 영화 ★★★☆]]></title>
-        <id>https://v.daum.net/v/20230607155559208</id>
-        <link href="https://v.daum.net/v/20230607155559208"/>
-        <updated>2023-06-07T07:11:17.125Z</updated>
-        <content type="html"><![CDATA[▶ 줄거리 선천적 청각장애로 양쪽 귀가 들리지 않는 프로 복서 케이코. 재개발이 진행되고 있는 도쿄 도심의 작은 복싱 체육관에서 훈련을 거듭하며 다음 시합을 준비한다. 끊이지 않는 고민과 말로 표현할 수 없는 생각들이 마음에 쌓여만 가고, 체육관 회장에게 당분간 쉬고 싶다는 편지를 썼지만 끝내 보낼 수 없다. 그러던 어느 날, 케이코는 체육관이 문을 닫는다]]></content>
     </entry>
 </feed>
