@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/variety</id>
     <title>다음 연예 ─ 뉴스 ─ 예능</title>
-    <updated>2023-06-07T19:09:30.842Z</updated>
+    <updated>2023-06-07T20:11:34.143Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[백종원 4년 겪은 김성주도 화들짝…유정수 "100% 성공 장담"]]></title>
+        <id>https://v.daum.net/v/20230608051010139</id>
+        <link href="https://v.daum.net/v/20230608051010139"/>
+        <updated>2023-06-07T20:11:22.321Z</updated>
+        <content type="html"><![CDATA[[OSEN=장우영 기자] ‘손대면 핫플! 동네멋집’ 김성주도 놀란 유정수 대표의 손딱지 폭격이 시작됐다. 7일 첫 방송된 SBS 새 예능 ‘손대면 핫플! 동네멋집’에서는 서울 대학로의 카페를 살리고자 나선 유정수 대표와 김성주, 김지은, 몬스타엑스 주헌의 모습이 그려졌다. 카페 살리기 전문가로는 서울 익선동, 창신동, 대전 소제동 등의 핫플레이스를 만든]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[박효준 “'절친' 조인성, 술값 FLEX..권상우=인생의 은인” 미담]]></title>
         <id>https://v.daum.net/v/20230608033109547</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230607235718459"/>
         <updated>2023-06-07T15:11:39.871Z</updated>
         <content type="html"><![CDATA[[스타뉴스 | 김미화 기자] /사진='라디오스타'배우 박효준이 절친인 배우 조인성의 인성에 대해 밝혔다. 7일 방송된 MBC 예능프로그램 '라디오스타'는 '맑은 눈의 광인' 특집으로 배우 이상우, 박효준, 가수 솔비, 김아영 등이 출연했다. 이날 박효준은 평소 절인인 배우 조인성의 인성(?)을 폭로하겠다고 말했다. 박효준은 "조인성과 만나면 절대로 술]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이상우 “♥김소연, 톰 크루즈 닮았다고”→'맑눈광' 김아영, 쌍수 최초 고백]]></title>
-        <id>https://v.daum.net/v/20230607235208445</id>
-        <link href="https://v.daum.net/v/20230607235208445"/>
-        <updated>2023-06-07T15:11:39.874Z</updated>
-        <content type="html"><![CDATA[[OSEN=박하영 기자] ‘라디오스타’ 이상우가 4차원 매력을 뽐낸 가운데 김아영이 쌍커풀 수술을 했다고 고백했다. 7일에 방송된 MBC 예능 ‘라디오스타’에서는 ‘맑은 눈이 빛나는 밤에’ 특집으로 이상우, 솔비, 박효준, 김아영이 출연, 스페셜 MC로는 개그우먼 이수지가 함께했다. 이날 김국진은 “예능에서 보기 드문 이상우 씨다. 의문의 전화 한 통]]></content>
     </entry>
 </feed>
