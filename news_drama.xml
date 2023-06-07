@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-06-07T08:15:21.046Z</updated>
+    <updated>2023-06-07T09:11:31.625Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이나영 "원빈 복귀? 작품 보는 중···기다리면 나올 것"]]></title>
+        <id>https://v.daum.net/v/20230607173208395</id>
+        <link href="https://v.daum.net/v/20230607173208395"/>
+        <updated>2023-06-07T09:11:14.390Z</updated>
+        <content type="html"><![CDATA[[서울경제] '박하경 여행기' 배우 이나영이 남편인 원빈을 기다리고 있는 팬들에게 기다림을 부탁했다. 웨이브 오리지널 시리즈 '박하경 여행기'(극본 손미/연출 이종필)는 사라져 버리고 싶을 때 토요일 딱 하루의 여행을 떠나는, 국어 선생님 박하경(이나영)의 예상치 못한 순간과 기적 같은 만남을 그린 명랑 유랑기다. 이나영의 OTT 첫 도전작이다. "작품이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[전노민 "단치강, 여태까지 했던 역할과 달라"]]></title>
         <id>https://v.daum.net/v/20230607165658081</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230607144658327"/>
         <updated>2023-06-07T06:13:49.712Z</updated>
         <content type="html"><![CDATA[(엑스포츠뉴스 윤현지 기자) '나쁜엄마' 이도현, 안은진, 유인수가 뭉친다. JTBC 수목드라마 '나쁜엄마' 측은 13회 방송을 앞둔 7일, 강호(이도현 분)의 복수를 위해서 뜻밖의 공조에 돌입한 미주(안은진)와 삼식(유인수)의 모습을 공개했다. 조우리 동갑내기 3인방의 의기투합이 어떤 위기와 기회를 가져올지 궁금증을 유발한다. 지난 방송에서는 강호가 모든]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이도현, 복수 증거 찾았나? 안은진-유인수 공조 합류]]></title>
-        <id>https://v.daum.net/v/20230607144610298</id>
-        <link href="https://v.daum.net/v/20230607144610298"/>
-        <updated>2023-06-07T06:13:49.713Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 김명미 기자] 이도현, 안은진, 유인수가 뭉친다. JTBC 수목드라마 ‘나쁜엄마’(연출 심나연, 극본 배세영, 제작 드라마하우스스튜디오 SLL 필름몬스터) 측은 13회 방송을 앞둔 6월 7일, 강호(이도현 분)의 복수를 위해서 뜻밖의 공조에 돌입한 미주(안은진 분)와 삼식(유인수 분)의 모습을 공개했다. 조우리 동갑내기 3인방의 의기투합이 어떤]]></content>
     </entry>
 </feed>
