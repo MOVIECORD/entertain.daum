@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-06-08T19:10:52.218Z</updated>
+    <updated>2023-06-08T20:10:59.421Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[솔직 당당하고, 사랑 향해 직진..신혜선, 3년만에 돌아온다]]></title>
+        <id>https://v.daum.net/v/20230609050902392</id>
+        <link href="https://v.daum.net/v/20230609050902392"/>
+        <updated>2023-06-08T20:10:42.918Z</updated>
+        <content type="html"><![CDATA[재조명, RE(Re examination). 일이나 사물의 가치를 다시 들추어 살펴본다는 이 말을 스타에 대입해 보려 합니다. 아니, 스타보다는 한 인물을 재조명한다는 말이 더 적합하겠군요. TV·영화·연극·뮤지컬·OTT·뮤직비디오 등 다양한 콘텐츠에 등장한 인물 중 왠지 모르게 자꾸 생각나고, 떠오르는 사람들을 다시 들여다보고 소개하려 합니다. 리(re)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[유연석 등장으로 '김사부3' 부활...화제성 부문 1위]]></title>
         <id>https://v.daum.net/v/20230609020031285</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230608194818329"/>
         <updated>2023-06-08T11:10:54.809Z</updated>
         <content type="html"><![CDATA[[스타뉴스 | 김지은 인턴기자] /사진='하늘의 인연' 화면 캡처'하늘의 인연'에서 서한결이 진주형의 멱살을 잡았다. 8일 오후 방송된 MBC 일일드라마 '하늘의 인연' 38회에서는 하진우(서한결 분)와 문도현(진주형 분)이 대립하는 모습이 담겼다. 지난 방송에서 문도현은 하윤모(변우민 분)를 찾아가 선주 그룹 불법 비자금 조성 혐의로 강제 압수수색을]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘하늘의 인연’ 조미령, 검사 진주형 약점 잡았다 “김유석 1호 장학생”]]></title>
-        <id>https://v.daum.net/v/20230608194408249</id>
-        <link href="https://v.daum.net/v/20230608194408249"/>
-        <updated>2023-06-08T11:10:54.810Z</updated>
-        <content type="html"><![CDATA[[TV리포트 = 하수나 기자] 조미령이 변우민을 불법 비자금 혐의로 압수수색한 진주형의 약점을 잡았다.&nbsp; 8일 MBC 일일드라마 ‘하늘의 인연’에선 채영은(조미령 분)이 문도현(진주형 분)이 강치환(김유석 분)의 장학생이란 사실을 알게 된 모습이 그려졌다.&nbsp; 문도현은 하윤모(변우민 분)를 불법 비자금 혐의로 압수수색했고 채영은은 문도현의 엄마인 오화순(김난]]></content>
     </entry>
 </feed>
