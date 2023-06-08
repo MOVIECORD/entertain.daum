@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-06-08T11:11:12.486Z</updated>
+    <updated>2023-06-08T12:19:59.627Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["警영장 재신청 포기"…유아인, '프로포폴→코카인' 수사 마무리..내일 불구속 송치]]></title>
+        <id>https://v.daum.net/v/20230608210807697</id>
+        <link href="https://v.daum.net/v/20230608210807697"/>
+        <updated>2023-06-08T12:19:36.347Z</updated>
+        <content type="html"><![CDATA[[스포츠조선 조지영 기자] 경찰이 마약류관리법 위반 혐의를 받고 있는 배우 유아인을 불구속 상태로 송치하기로 했다. 서울경찰청 마약범죄수사대는 8일 마약 상습 투약 혐의를 받고 있는 유아인과 그와 함께 마약 투약 및 공모한 절친 최씨를 오는 9일 불구속 상태로 서울중앙지검에 송치한다고 밝혔다. 경찰은 지난달 24일 진행된 구속 전 피의자 심문]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[홍수아, 또 극적인 변신]]></title>
         <id>https://v.daum.net/v/20230608195707508</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230608175014420"/>
         <updated>2023-06-08T09:10:36.250Z</updated>
         <content type="html"><![CDATA[[OSEN=김보라 기자]&nbsp;배우 김선호와 강태주의 스크린 데뷔작 ‘귀공자’가 이달 극장 개봉하는 가운데 ‘범죄도시3’의 기운을 받아 흥행에 성공할지 귀추가 주목된다. 김선호는 8일 오후 서울 삼성동 코엑스 메가박스에서 열린 새 한국영화 ‘귀공자’의 언론배급시사회에서 “제가 강태주보다는 덜 달렸다. 총기 사용이나 카체이싱은 액션 팀과 상의하며 현장에서도 조]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김선호, 사활 건 '귀공자'…대중 맘 돌릴까]]></title>
-        <id>https://v.daum.net/v/20230608174507293</id>
-        <link href="https://v.daum.net/v/20230608174507293"/>
-        <updated>2023-06-08T09:10:36.252Z</updated>
-        <content type="html"><![CDATA[아이즈 ize 김나라 기자배우 김선호의 복귀작으로 화제를 모은 &nbsp;영화 '귀공자'가 드디어 베일을 벗었다.&nbsp; 8일 오후 언론시사를 통해 처음으로 공개된 영화 '귀공자'에서 김선호는&nbsp;광기의 빌런으로 폭발적 열연을 쏟아내며 야심찬 재기의 날갯짓을 시작했다.&nbsp; 호불호가 나뉘는 가운데 김선호의 연기에 대해선 대체적으로 호평이 이어지고 있다. 과연 김선호가 '귀공자']]></content>
     </entry>
 </feed>
