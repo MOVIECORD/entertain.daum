@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-06-08T13:15:31.873Z</updated>
+    <updated>2023-06-08T14:10:11.052Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['나쁜엄마' 이도현, 정웅인 압박 "최무성 재판 증인으로 서라"]]></title>
+        <id>https://v.daum.net/v/20230608225507080</id>
+        <link href="https://v.daum.net/v/20230608225507080"/>
+        <updated>2023-06-08T14:09:53.785Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 | 이빛나리 기자] /사진='나쁜엄마' 방송화면'나쁜엄마' 이도현이 정웅인을 압박했다. 8일 방송된 JTBC 수목드라마 '나쁜엄마'에서 오태수(정웅인 분)는 갑자기 나타난 최강호(이도현 분)를 보고 당황했다. 이날 오태수는 최강호에 "솔직히 좀 놀랬네. 갑작스러운 사고로 많이 다쳤다고 들었는데"라며 모른척했다. 최강호는 "사고가 아니라 사건]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['나쁜엄마' 이도현, 정웅인 손잡고 최무성 법정 세웠다..최후의 복수]]></title>
+        <id>https://v.daum.net/v/20230608225308071</id>
+        <link href="https://v.daum.net/v/20230608225308071"/>
+        <updated>2023-06-08T14:09:53.787Z</updated>
+        <content type="html"><![CDATA[[OSEN=선미경 기자] ‘나쁜 엄마’ 이도현이 정웅인 앞에 나섰다. 최무성을 함께 잡자고 제안하며 마지막 승부수를 띄웠다. 8일 오후에 방송된 종합편성채널 JTBC 수목드라마 ‘나쁜 엄마’(극본 배세영, 연출 심나연) 마지막 회에서는 최강호(이도현 분)가 오태수(정웅인 분)를 찾아가는 모습이 그려졌다. 오태수는 최강호의 등장에 놀랐고, 두 사람 사이에]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[조향기, 서준영 앞에 두고 "아버지 '제비족' 이란다" 이간질]]></title>
         <id>https://v.daum.net/v/20230608213708262</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230608180217833"/>
         <updated>2023-06-08T09:10:41.770Z</updated>
         <content type="html"><![CDATA[[서울경제] 배우 김병철이 '닥터 차정숙'을 통해 로맨틱 코미디의 새로운 강자로 떠올랐다. 두 여자의 사랑을 받는 캐릭터를 연기하면서 새로운 면모를 보여준 것이다. JTBC 토일드라마 '닥터 차정숙'(극본 정여랑/연출 김대진)은 20년 차 가정주부에서 1년 차 레지던트가 된 차정숙(엄정화)의 찢어진 인생 봉합기를 그린다. 김병철이 연기한 서인호는 대장항]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[우현 '마당이 있는 집'서 경비 변신..임지연과 호흡]]></title>
-        <id>https://v.daum.net/v/20230608173910105</id>
-        <link href="https://v.daum.net/v/20230608173910105"/>
-        <updated>2023-06-08T09:10:41.771Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 | 윤성열 기자]  배우 우현 /사진=김창현 기자 chmt@배우 우현이 지니TV 오리지널 '마당이 있는 집'에 출연한다. 소속사 퀀텀이엔앰은 8일 "우현이 지니TV 오리지널 '마당이 있는 집'에 경비 역으로 출연한다"고 밝혔다. '마당이 있는 집'(연출 정지현, 극본 지아니)은 동명의 베스트셀러 소설을 원작으로 한 드라마로, 뒷마당에서 나는]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['구미호뎐1938' 종영까지 단 2회, 배우들의 굿바이 비하인드]]></title>
-        <id>https://v.daum.net/v/20230608173759067</id>
-        <link href="https://v.daum.net/v/20230608173759067"/>
-        <updated>2023-06-08T09:10:41.772Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 황수연 기자) 이동욱, 김소연, 김범, 류경수가 마지막을 한층 뜨겁게 달군다. 종영까지 단 2회만을 남긴 tvN 토일드라마 ‘구미호뎐1938’ 측은 8일, K-판타지 액션 활극의 진수를 선보인 배우들의 ‘굿바이’ 비하인드 컷을 공개했다. 핍박받는 토종 요괴들의 처참한 현실을 마주한 이연(이동욱 분)은 산신으로서 시대에 진 빚을 갚고자 결심했다]]></content>
     </entry>
 </feed>
