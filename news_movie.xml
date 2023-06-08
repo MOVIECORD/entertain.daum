@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-06-08T02:34:17.681Z</updated>
+    <updated>2023-06-08T03:16:11.116Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[약속 잊지 않은 톰 크루즈, 1년 만에 11번째 내한 확정]]></title>
+        <id>https://v.daum.net/v/20230608113907098</id>
+        <link href="https://v.daum.net/v/20230608113907098"/>
+        <updated>2023-06-08T03:15:47.893Z</updated>
+        <content type="html"><![CDATA[할리우드 배우 톰 크루즈가 또 다시 한국 관객을 찾는다. 1년 만에 11번째 내한 약속을 지킨 톰 크루즈다. 톰 크루즈는 지난해 영화 ‘탑건: 매버릭’ 내한 당시 2023년에도 한국을 방문하겠다는 약속을 한 바 있다. 이에 톰 크루즈가 1년 뒤 약속을 지키기 위해 영화 ‘미션 임파서블: 데드 레코닝 PART ONE’(감독 크리스토퍼 맥쿼리)과 함께 내한한]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘귀공자’ 김선호→고아라, 오늘 무비앤뉴 유튜브서 ‘광기의 추격’ 라이브]]></title>
         <id>https://v.daum.net/v/20230608113227831</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230608092408874"/>
         <updated>2023-06-08T01:01:27.021Z</updated>
         <content type="html"><![CDATA[[이데일리 스타in 김보영 기자] 정유미, 이선균 주연 영화 ‘잠’(감독 유재선)이 제76회 칸 국제영화제를 통해 첫 공개된 후 해외 언론 및 평단의 열띤 호응이 이어지고 있다. 앞서 ‘잠’은 프랑스 현지 시각으로 지난 달 21일(일) 칸 영화제 비평가주간 월드 프리미어 상영회를 통해 처음 베일을 벗었다. ‘잠’은 행복한 신혼부부 현수(이선균 분)와 수]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[케미·연출·오락 다 갖췄다…김선호 '귀공자', 극장 필람 관전포인트]]></title>
-        <id>https://v.daum.net/v/20230608091413444</id>
-        <link href="https://v.daum.net/v/20230608091413444"/>
-        <updated>2023-06-08T01:01:27.022Z</updated>
-        <content type="html"><![CDATA[[이데일리 스타in 김보영 기자] 영화 ‘귀공자’(감독 박훈정)가 필수 관람 포인트 세 가지를 공개했다. 박훈정이 곧 장르, 반전에 통쾌함 더했다 한국 범죄 누아르의 새 지평을 연 영화 ‘신세계’부터 새로운 여성 캐릭터와 독창적인 액션으로 수많은 팬덤을 양산한 흥행 시리즈 ‘마녀’까지 한국영화계에서 꾸준히 자신만의 장르를 개척해온 박훈정 감독이 추격 액션]]></content>
     </entry>
 </feed>
