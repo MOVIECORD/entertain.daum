@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2023-06-08T18:13:03.376Z</updated>
+    <updated>2023-06-08T19:10:52.220Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“부부 사이, 이해보다 서로에 대한 인정이 중요”]]></title>
+        <id>https://v.daum.net/v/20230609041013757</id>
+        <link href="https://v.daum.net/v/20230609041013757"/>
+        <updated>2023-06-08T19:10:45.771Z</updated>
+        <content type="html"><![CDATA[독박 육아, 대화와 이해 부족. 부부가 위기를 맞는 이유는 다양하다. 티빙 오리지널 ‘결혼과 이혼 사이2’(‘결이사’)에는 각기 다른 이유로 이혼을 고민하는 네 쌍의 부부가 출연한다. ‘사이 하우스’라는 곳에서 일주일간 시간을 가지면서 이혼을 선택할지, 결혼 생활을 이어갈지 선택하는 과정을 담은 리얼리티다. 출연자들은 제3자의 입장에서 부부 관계를 객관적]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['관계자 외 출입금지' 누리호 3호 발사 성공…성공적인 비행에 나로우주센터 '감격']]></title>
         <id>https://v.daum.net/v/20230609020000283</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230608233707474"/>
         <updated>2023-06-08T15:11:04.891Z</updated>
         <content type="html"><![CDATA[[티브이데일리 황서연 기자] 배우 진선규가 아내 박보경과의 애정 전선을 과시했다. 8일 방송한 tvN 예능프로그램 '텐트 밖은 유럽 - 노르웨이 편' 5회에서는 노르웨이에서 스키를 타는 유해진 진선규 박지환 윤균상 모습이 그려졌다. 이날 방송에서 아침 일찍 기상한 멤버들은 숙소를 옮기기 전 마지막으로 피오르를 눈 앞에 두고 개인적인 시간을 보냈다. 진선규는]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이지혜, 남편 있는데 전 남친 근황 공개? "내가 어떻게 알았는지 아냐. 아니다"]]></title>
-        <id>https://v.daum.net/v/20230608231401266</id>
-        <link href="https://v.daum.net/v/20230608231401266"/>
-        <updated>2023-06-08T15:11:04.893Z</updated>
-        <content type="html"><![CDATA[[스포츠조선 이정혁 기자]알고보니 서지영과 베프였다. 샵 시절 불화설에 휘말렸던 이지혜-서지영이 지하상가에서 모자 쇼핑을 같이 할 정도로 친했던 사실이 공개됐다. 8일 방송인 이지혜의 유튜브 채널 '밉지않은 관종언니' 측은 '전남친 맛집에 현남편과 간다면?'이라는 제목으로 영상을 게재했다. 이날 이지혜는 가족과 함께 은마상가를 찾았다. "내]]></content>
     </entry>
 </feed>
