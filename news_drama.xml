@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-06-09T19:09:34.518Z</updated>
+    <updated>2023-06-09T20:11:42.269Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[박주미, 며느리와 현대로 불시착...'GD 매형' 김민준과 만난다]]></title>
+        <id>https://v.daum.net/v/20230610050030239</id>
+        <link href="https://v.daum.net/v/20230610050030239"/>
+        <updated>2023-06-09T20:11:25.313Z</updated>
+        <content type="html"><![CDATA[[TV리포트=이수연 기자] '아씨 두리안'이 티저부터 역대급 작품임을 암시했다. 오는 24일 첫 방송을 앞두고 있는 쿠팡플레이 새 토일드라마 '아씨 두리안' 측은 세 번에 걸쳐 공개한 티저 영상을 통해 예측 불허의 파격 전개와 방송계 파란을 일으킬 만한 강렬한 서사들을 예고하면서 올여름 최대 화제작으로 등극했다. '아씨 두리안'은 월식이 일어난 어느 밤]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김동욱 체포 ‘어쩌다 마주친, 그대’, 후반부 핵심 포인트3]]></title>
         <id>https://v.daum.net/v/20230610020209753</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230609221403484"/>
         <updated>2023-06-09T14:10:56.309Z</updated>
         <content type="html"><![CDATA[(엑스포츠뉴스 오수정 기자) '낭만닥터 김사부3'에서 이성경이 유연석을 언급했다.&nbsp; 9일 방송된 SBS 금토드라마 '낭만닥터 김사부3' 13회에서는 김사부(한석규 분)의 모난돌 제자 강동주(유연석)의 등장이 그려졌다.&nbsp; 이날 강동주가 다시 돌담병원으로 돌아온다는 사실은 모두에게 핫이슈였다. 주영미(보라)는 "돌담병원 오자마자 김사부와 주먹으로 맞짱을 떴다는]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['김사부3' 유연석 컴백 "여전히 이상한 돌담병원" 의미심장]]></title>
-        <id>https://v.daum.net/v/20230609221214470</id>
-        <link href="https://v.daum.net/v/20230609221214470"/>
-        <updated>2023-06-09T13:13:24.629Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 | 윤상근 기자] /사진=SBS '낭만닥터 김사부' '낭만닥터 김사부3'에서 유연석이 귀환을 알렸다. 9일 방송된 SBS 금토드라마 '낭만닥터 김사부'에서 강동주(유연석 분)의 돌담병원 컴백이 공개됐다. 이날 강동주의 돌담병원 컴백에 모두가 놀라움을 자아냈다. 차은재(김성경 분)는 강동주에 대해 "워낙 악으로 깡으로 유명했던 분"이라고 말하며]]></content>
     </entry>
 </feed>
