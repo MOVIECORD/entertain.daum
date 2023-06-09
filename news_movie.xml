@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-06-09T02:53:39.433Z</updated>
+    <updated>2023-06-09T03:19:33.110Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['범죄도시3' 이준혁, 선행 실천했다…'안녕 팝콘' 인세 전액 기부]]></title>
+        <id>https://v.daum.net/v/20230609115822588</id>
+        <link href="https://v.daum.net/v/20230609115822588"/>
+        <updated>2023-06-09T03:19:09.006Z</updated>
+        <content type="html"><![CDATA[[OSEN=김보라 기자] 배우 이준혁이 책의 인세 전액을 기부하며 선행을 실천했다. 비글구조네트워크(비구협)는 지난 8일 공식 SNS를 통해 “이준혁이 ‘안녕 팝콘’ 동화책 인세 전액을 후원해 주셨다”라며 “보내주신 후원금은 아이들 병원비로 사용될 예정이다. 후원해 주셔서 감사드린다”고 밝혔다. ‘안녕 팝콘’은 어린이들을 위한 동화책으로, 잃어버린 가족]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[흑인 ‘캡틴 아메리카’ 극장 정식 데뷔‥2024년 5월 개봉]]></title>
         <id>https://v.daum.net/v/20230609114600255</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230609100109850"/>
         <updated>2023-06-09T01:03:02.886Z</updated>
         <content type="html"><![CDATA[[OSEN=김보라 기자]&nbsp;(※이 기사에 스포일러가 있습니다.)&nbsp;필리핀의 한 빈민가. 먹고 살기 힘들어 아픈 엄마의 수술비도 내줄 수 없었던 마르코(강태주 분)는 판돈이 걸린 불법 복싱 경기를 뛴다. 한국인 아버지와 필리핀인 어머니 아래서 태어난 마르코는 비참한 운명에 커다란 슬픔을 느끼지만, 어느 날 아버지의 소식을 접한 뒤 한국행 비행기에 몸을 싣는다]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[마동석 '범죄도시3', 전세계 박스오피스 때려눕혔다…흥행 4위·328억 수익]]></title>
-        <id>https://v.daum.net/v/20230609095611599</id>
-        <link href="https://v.daum.net/v/20230609095611599"/>
-        <updated>2023-06-09T01:03:02.886Z</updated>
-        <content type="html"><![CDATA[[OSEN=김보라 기자] 범죄 오락 액션 영화 '범죄도시3'가 전세계 박스오피스 집계 사이트 컴스코어에서 흥행 4위(6월 7일(수) 기준)를 기록했다. '범죄도시3'(THE ROUNDUP : NO WAY OUT, 감독 이상용, 배급 에이비오엔터테인먼트・플러스엠 엔터테인먼트, 제작 빅펀치픽쳐스・홍필름・비에이엔터테인먼트)가 박스오피스 2538만 달러(328]]></content>
     </entry>
 </feed>

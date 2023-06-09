@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-06-09T02:53:39.446Z</updated>
+    <updated>2023-06-09T03:19:33.100Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[지영산, '8kg 감량' 재벌가 막내아들 비주얼 완성…'다정한 매력남']]></title>
+        <id>https://v.daum.net/v/20230609121058921</id>
+        <link href="https://v.daum.net/v/20230609121058921"/>
+        <updated>2023-06-09T03:19:14.759Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 김유진 기자) TV조선 새 주말드라마 '아씨 두리안'의 지영산이 능청스럽고 귀염성 많은, 미워할 수 없는 분위기 메이커 재벌가 막내아들로의 매력을 공개했다. 오는 24일 첫 방송될 '아씨 두리안'은 단씨 집안의 별장에서 성대한 파티가 열리고, 때마침 월식이 진행된 순간 등장한 정체 모를 두 여인과 단씨 일가의 기묘하고도 아름다운 시대를 초월한]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김태희 "키스신 때문에 데뷔 망설였다"..솔직 고백]]></title>
         <id>https://v.daum.net/v/20230609113506894</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230609102008740"/>
         <updated>2023-06-09T02:53:21.948Z</updated>
         <content type="html"><![CDATA[[OSEN=최나영 기자] 배우 이도현이 '나쁜엄마'의 마지막 페이지를 아름답게 장식했다. 이도현은 지난 8일 최종회가 방송된 JTBC 수목드라마 '나쁜엄마'에서 매 장면 몰입도를 최고조로 끌어올리는 용두용미(龍頭龍尾) 연기로 안방극장을 사로잡았다. '천의 얼굴'을 뛰어넘는 '현의 얼굴'의 진가를 발휘한 이도현은 마지막까지 극을 이끌어가는 힘을 보여주며]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BL드라마 '비의도적 연애담' 주연 차서원의 결혼에 팬들 반발, 손편지로 전한 진심]]></title>
-        <id>https://v.daum.net/v/20230609101651572</id>
-        <link href="https://v.daum.net/v/20230609101651572"/>
-        <updated>2023-06-09T02:53:21.953Z</updated>
-        <content type="html"><![CDATA['비의도적 연애담'이 스핀오프로 제작된다. 티빙 독점 공개 드라마 ‘비의도적 연애담’(극본 신지안/연출 장의순/제작 ㈜넘버쓰리픽쳐스/원작 피비)은 ‘시작은 의도적! 연애는 ‘비’의도적!’ 거짓말로 시작된 관계에서 진짜 사랑에 빠지게 된 두 남자의 이야기를 담은 신뢰 회복 심쿵 로맨스 드라마이다. '비의도적 연애담'은 지난 4월 둘째 주 TV-OTT 통합]]></content>
     </entry>
 </feed>

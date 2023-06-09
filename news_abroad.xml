@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-06-09T02:53:39.448Z</updated>
+    <updated>2023-06-09T03:19:33.101Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['日 국민배우' 히로스에 료코, 불륜 후 광고서도 사라져...은퇴하나]]></title>
+        <id>https://v.daum.net/v/20230609121400961</id>
+        <link href="https://v.daum.net/v/20230609121400961"/>
+        <updated>2023-06-09T03:19:32.191Z</updated>
+        <content type="html"><![CDATA[[TV리포트=유비취 기자] 불륜 스캔들이 터진 일본의 톱 배우 히로스에 료코가 광고에서도 잘렸다. 지난 7일 일본 매체 주간 문춘은 히로스에 료코(42)가 미슐랭 1스타 프렌치 레스토랑의 유명 오너 셰프와 불륜을 저질렀다고 보도했다. 이로 인해 일본에서 톱 배우로서 왕성히 활동하던 히로스에 료코의 이미지에는 큰 타격이 생겼다. 8일 기린맥주 측은 히로스에]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[니콜라스 홀트, 슈퍼맨으로 DCU 합류?…'슈퍼맨: 레거시' 오디션 진행]]></title>
         <id>https://v.daum.net/v/20230609110347501</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230608190209275"/>
         <updated>2023-06-08T10:11:41.590Z</updated>
         <content type="html"><![CDATA[[TV리포트=이수연 기자] 일본의 톱 배우 히로스에 료코(42)가 불륜 스캔들에 휩싸인 가운데 그의 남편이자 아티스트인 캔들 준(49)이 등판했다. 8일 캔들 준은 자신의 소셜네트워크서비스에 한 행사 사진을 올리며 "슬픔을 아는 사람들은 강하다. 후타바 마을 하늘에 많은 연이 솟아오르고 웃는 얼굴이 태어나는 날이 기대된다"라는 글을 남겼다. 캔들 준은 2]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['파킨슨병' 마이클 J 폭스, 공로상 수상]]></title>
-        <id>https://v.daum.net/v/20230608184530858</id>
-        <link href="https://v.daum.net/v/20230608184530858"/>
-        <updated>2023-06-08T10:11:41.591Z</updated>
-        <content type="html"><![CDATA[[TV리포트=이예은 기자] 30년째 파킨슨병 투병 중인 배우 마이클 J 폭스가 평생 공로상을 수상했다.&nbsp; 지난 6일(현지 시간) 올해 61세에 접어든 마이클 J 폭스는 뉴욕에서 열린 '2023 스프링 무빙 이미지 어워즈'에 아내 트레이시 폴란과 쌍둥이 딸 아퀴나와 슐러의 부축을 받아 공식 석상에 모습을 드러냈다.&nbsp;이날 그는 평생 공로상을 수상하는 영예를 안]]></content>
     </entry>
 </feed>
