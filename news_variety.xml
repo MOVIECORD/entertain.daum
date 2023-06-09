@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/variety</id>
     <title>다음 연예 ─ 뉴스 ─ 예능</title>
-    <updated>2023-06-09T10:11:34.832Z</updated>
+    <updated>2023-06-09T11:10:06.194Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['결혼 10주년' 이효리♥이상순, 스위스 여행서도 꿀 뚝뚝…미소까지 닮았네]]></title>
+        <id>https://v.daum.net/v/20230609195202518</id>
+        <link href="https://v.daum.net/v/20230609195202518"/>
+        <updated>2023-06-09T11:09:52.888Z</updated>
+        <content type="html"><![CDATA[[텐아시아=차혜영 기자] 이효리, 이상순 부부가 스위스로 여행을 떠났다. 이효리는 9일 별다른 멘트 없이 여러 장의 사진을 공개했다. 함께 공개한 사진 속에는 이상순과 여행 중인 이효리의 모습이 담겼다. 한 음식점을 찾은 두 사람은 카메라를 바라보며 환한 미소를 짓고 있다. 두 사람의 다정한 모습이 보는 이들까지 기분 좋게 한다. 또 이상순은 이효리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['놀면 뭐하니?' 정준하·신봉선 빠지면 시청률 반등할 수 있나?]]></title>
         <id>https://v.daum.net/v/20230609185209483</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230609173918606"/>
         <updated>2023-06-09T09:10:57.703Z</updated>
         <content type="html"><![CDATA[[OSEN=장우영 기자] ‘폭풍 먹방러’ 김민경, 신기루, 홍윤화, 풍자가 인력사무소에서 첫 대면해 심상치 않은 입담과 케미를 발산한다. 오는 14일 저녁 8시 첫 방송하는 ‘위장취업’(KBS Joy·채널S 공동 제작)에서는 남다른 먹력을 자랑하는 4인방이 인력사무소에서 만나 첫 취업지를 물색(?)하는 모습이 펼쳐진다. 이날 4인방은 인력사무소에 모여,]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[솔직함 100%…'태계일주2' 기안84·덱스·빠니보틀 "끝까지 간다"]]></title>
-        <id>https://v.daum.net/v/20230609173858573</id>
-        <link href="https://v.daum.net/v/20230609173858573"/>
-        <updated>2023-06-09T09:10:57.704Z</updated>
-        <content type="html"><![CDATA[태어난 김에 사는 남자, 기안84의 두 번째 여행이 시작된다. 덱스, 빠니보틀과 펼칠 무계획 밀착 인도 여행기에 기대가 모인다. 9일 오후 서울 마포구 상암 MBC 사옥에서 MBC 예능프로그램 '태어난 김에 세계일주2(이하 태계일주2)' 제작발표회가 진행됐다. 행사에는 기안84, 덱스, 빠니보틀과 김지우 PD가 참석했다. '태계일주2'는 삶과 죽음이]]></content>
     </entry>
 </feed>
