@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-06-10T05:10:39.220Z</updated>
+    <updated>2023-06-10T06:13:55.657Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이동욱 있어 가능했던 '구미호뎐1938']]></title>
+        <id>https://v.daum.net/v/20230610150941468</id>
+        <link href="https://v.daum.net/v/20230610150941468"/>
+        <updated>2023-06-10T06:13:38.457Z</updated>
+        <content type="html"><![CDATA[[OSEN=장우영 기자] 이동욱이 ‘구미호 이연’이라는 인생 캐릭터를 또다시 입증했다. tvN 토일드라마 ‘구미호뎐1938’(극본 한우리, 연출 강신효, 제작 스튜디오드래곤∙하우픽쳐스)에서 ‘이연’ 역으로 출연 중인 이동욱이 시청자들의 큰 호응을 이끌어내고 있다. 이동욱은 완벽한 캐릭터 소화력으로 매회 높은 몰입도를 선사한 것은 물론, 6월 1주 차 T]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['하트시그널4' 제작진 "김지민 노출 방송? 사실 아냐"]]></title>
         <id>https://v.daum.net/v/20230610135507820</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230610093158384"/>
         <updated>2023-06-10T00:57:49.275Z</updated>
         <content type="html"><![CDATA[(엑스포츠뉴스 이창규 기자) 배우 라미란이 '나쁜엄마'를 통해 큰 족적을 남긴 가운데, 작품 속 영순과의 차이점에 대해 전했다. 최근 서울 강남구의 한 카페에서 JTBC 수목드라마 '나쁜엄마' 라미란과의 인터뷰가 진행됐다. '나쁜엄마'는 자식을 위해 악착같이 나쁜 엄마가 될 수밖에 없었던 엄마 영순과 뜻밖의 사고로 아이가 되어버린 아들 강]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['김사부3' 안효섭 "왼손은 거들뿐"… 동시간대 1위 질주]]></title>
-        <id>https://v.daum.net/v/20230610093107372</id>
-        <link href="https://v.daum.net/v/20230610093107372"/>
-        <updated>2023-06-10T00:57:49.276Z</updated>
-        <content type="html"><![CDATA[(사진=SBS ‘낭만닥터 김사부3’ 방송화면)[이데일리 스타in 윤기백 기자] ‘낭만닥터 김사부3’ 안효섭과 유연석이 에이스 호흡부터 갈등까지 명장면을 만들며 시너지를 냈다. 9일 방송된 SBS 금토드라마 ‘낭만닥터 김사부3’ 13회에서는 강동주(유연석 분)가 외상센터 책임자로 오자마자 서우진(안효섭 분), 차은재(이성경 분)와 갈등하는 모습이 그려졌다.]]></content>
     </entry>
 </feed>
