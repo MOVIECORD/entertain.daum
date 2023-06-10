@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2023-06-10T16:13:06.693Z</updated>
+    <updated>2023-06-10T17:09:30.534Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[BTS 진 "과거 그룹 해체 고민...다 내려놓고 싶었다" 고백]]></title>
+        <id>https://v.daum.net/v/20230611011409415</id>
+        <link href="https://v.daum.net/v/20230611011409415"/>
+        <updated>2023-06-10T17:09:24.747Z</updated>
+        <content type="html"><![CDATA[[OSEN=유수연 기자] 그룹 방탄소년단(BTS) 멤버 진(본명 김석진)이 과거 고민을 털어놨다. 11일 방탄소년단 공식 유튜브 채널 '방탄TV'에서는 슈가가 진행하는 '슈취타' 콘텐츠에 진이 게스트로 등장했다. 앞서 진은 지난해 12월 군 입대를 앞두고 '슈취타'에 출연, 이날 영상에는 자막으로 '아티스트의 요청에 따라 따뜻한 6월 공개됐다'고 설명했]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘전참시’ 김재화, ♥남편과 러브 스토리 공개...“고백만 3번”]]></title>
         <id>https://v.daum.net/v/20230611004800360</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230610223119879"/>
         <updated>2023-06-10T14:09:09.816Z</updated>
         <content type="html"><![CDATA[[티브이데일리 김한길 기자] '낭만닥터 김사부3' 유연석이 이성경에게 경고장을 날렸다. 10일 방송된 SBS 금토드라마 '낭만닥터 김사부3(이하 '김사부3')'(극본 강은경·연출 유인식) 14회에서는 차은재(이성경)가 강동주(유연석)에게 맞서는 모습이 그려졌다. 이날 차은재는 강동주를 불러 세운 후 "수술실 안에서 있었던 일에 대해 지금 바로잡고 싶다. 월]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘김사부3’ 유연석 “한석규 이겨보려고 돌아왔다”]]></title>
-        <id>https://v.daum.net/v/20230610222857862</id>
-        <link href="https://v.daum.net/v/20230610222857862"/>
-        <updated>2023-06-10T14:09:09.816Z</updated>
-        <content type="html"><![CDATA[‘낭만닥터 김사부3’ 유연석이 한석규에게 도전한다. 10일 오후 방송된 SBS 금토드라마 ‘낭만닥터 김사부3’에서는 한석규를 이겨보고 싶다고 밝히는 유연석의 모습이 전파를 탔다. 이날 수술을 마치고 나가는 강동주(유연석)를 불러 세운 차은재(이성경)는 수술실 안에 있던 일을 바로 잡고 싶다고 따졌다. 뭘 바로 잡냐는 강동주에 차은재는 “월권하신 거]]></content>
     </entry>
 </feed>
