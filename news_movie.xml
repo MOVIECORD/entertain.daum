@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-06-10T02:16:35.007Z</updated>
+    <updated>2023-06-10T03:11:02.860Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[영화감독들 줄줄이 OTT 드라마로 갔다]]></title>
+        <id>https://v.daum.net/v/20230610120810131</id>
+        <link href="https://v.daum.net/v/20230610120810131"/>
+        <updated>2023-06-10T03:10:43.648Z</updated>
+        <content type="html"><![CDATA[[OSEN=김보라 기자]&nbsp;코로나 팬데믹을 거치면서 관객들의 눈높이가 한층 더 높아졌다. 이에 따라 흥행에 참패하는 극장 개봉 한국영화가 많아졌다. 예전에는 영화관에서만 볼 수 있었던 퀄리티 높은 작품을, OTT의 확대에 따라, 집에서 누워 스마트폰으로 편하게 볼 수 있게 되면서 편의성을 따지는 등 안목이 더더욱 깐깐해진 것이다. 중소규모 영화가 투자받아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘귀공자’ 맑은 눈의 추격자, 김선호가 쫓아온다]]></title>
+        <id>https://v.daum.net/v/20230610113107748</id>
+        <link href="https://v.daum.net/v/20230610113107748"/>
+        <updated>2023-06-10T03:10:43.649Z</updated>
+        <content type="html"><![CDATA[‘맑은 눈의 광인.’ 반짝이는 눈을 갖고 있지만, 알 수 없는 광기가 느껴지는 사람을 뜻한다. 게다가 무슨 생각을 하는지도 알 수 없다. 영화 ‘귀공자’에도 이런 인물이 한 명 등장한다. 쓰리피스 슈트에 한정판 명품 구두를 신고, 누구냐는 질문에 항상 “친구”라고 대답하는 귀공자 역의 김선호 이야기다. 영화는 병든 어머니를 돌보기 위해 필리핀의 불법 경]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['변론을 시작하겠습니다' 이대로 묻히기엔 아깝다]]></title>
         <id>https://v.daum.net/v/20230610102702086</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230610070358195"/>
         <updated>2023-06-09T22:10:17.570Z</updated>
         <content type="html"><![CDATA[▶ 줄거리 빛보다 빠른 스피드, 물체 투과, 전기 방출, 자체 회복, 천재적인 두뇌까지 갓벽한 능력을 자랑하지만 존재감은 제로, 저스티스 리그에서 궂은일을 도맡아 하는 히어로 ‘플래시’. 어느 날 자신에게 빛보다 빠른 속도로 달리면 시공간 이동 능력이 있음을 알게 된 그는 ‘브루스 웨인’의 만류를 무시한 채 끔찍한 상처로 얼룩진 과거를 바꾸기 위해 시간을]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['범죄도시3' 승승장구…3연속 흥행 강펀치 어떻게 가능했나]]></title>
-        <id>https://v.daum.net/v/20230610063117898</id>
-        <link href="https://v.daum.net/v/20230610063117898"/>
-        <updated>2023-06-09T22:10:17.572Z</updated>
-        <content type="html"><![CDATA[(서울=뉴스1) 정유진 기자 = 영화 '범죄도시3'(감독 이상용)가 요즘 극장가에서 마동석의 강펀치 만큼이나 큰 파급력을 발휘 중이다. 이번 주말 벌써 800만 돌파를 예고하고 있는 이 영화는 이달 안에 천만 관객 동원에 성공할 가능성도 높다. '범죄도시3'는 지난 5월31일 개봉 이래 약 2주간 지속적으로 새 기록을 써왔다. 개봉 첫날에는 74만874]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이준혁에게 듣는 ‘범죄도시3’ 그리고 그 후]]></title>
-        <id>https://v.daum.net/v/20230610060423750</id>
-        <link href="https://v.daum.net/v/20230610060423750"/>
-        <updated>2023-06-09T21:09:15.151Z</updated>
-        <content type="html"><![CDATA[이따금씩 삶은 사소한 계기 하나로 변화를 맞는다. 배우 이준혁에게는 전화 한 통이 그랬다. 사소한 고민이 눈덩이처럼 커지던 날, 그는 뜻밖의 인물에게 연락을 받았다. 내용은 단순했다. “어 준혁아, ‘범죄도시’ 3편을 만들 거야. 근데 네가 빌런(악당)을 맡아줬으면 해.” 홀린 듯 그가 내놓은 대답은 “알겠어요.” 2편이 나오지도 않은 상황이었다. 아무]]></content>
     </entry>
 </feed>
