@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-06-11T13:12:29.448Z</updated>
+    <updated>2023-06-11T14:09:20.176Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[54살 제니퍼 애니스톤 “나이에 비해 예쁘다는 칭찬, 참을 수 없어 미치겠다” 발끈]]></title>
+        <id>https://v.daum.net/v/20230611223210485</id>
+        <link href="https://v.daum.net/v/20230611223210485"/>
+        <updated>2023-06-11T14:09:19.564Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]할리우드 스타 제니퍼 애니스톤(54)이 나이에 대한 차별적인 칭찬을 들을 때 싫다고 인정했다. 그는 10일(현지시간) 영국 보그와 인터뷰에서 “나이에 비해 멋있다는 말을 참을 수 없다. 그것 때문에 미치겠다”고 말했다. 이어 “그건 우리 사회의 습관인데, '넌 지금 그 나이니까...'와 같은 표식을 붙이는 것"이라면서 “나]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[나오미 왓츠♥빌리 크루덥 결혼, 웨딩사진은 법원에서]]></title>
         <id>https://v.daum.net/v/20230611203707432</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230611094710720"/>
         <updated>2023-06-11T01:07:17.503Z</updated>
         <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]‘블랙스완’으로 아카데미 여우주연상을 수상한 나탈리 포트만(42)이 25살 환경운동가 여성과 바람을 피운 남편 벤자민 마일피드(46)에 화를 내는 모습이 포착됐다. 10일(현지시간) 페이지식스가 공개한 사진에 따르면, 포트만은 이날 공원 벤치에 앉아 남편과 격렬하게 대화를 나눴다. 대화 도중엔 눈물을 닦기도 했다. 마일피드]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘킹콩’ 55살 나오미 왓츠, ‘브레인 포그’ 핑계까지 대더니..♥︎빌리 크루덥과 재혼]]></title>
-        <id>https://v.daum.net/v/20230611073508199</id>
-        <link href="https://v.daum.net/v/20230611073508199"/>
-        <updated>2023-06-10T23:10:22.985Z</updated>
-        <content type="html"><![CDATA[[OSEN=강서정 기자] 배우 나오미 왓츠가 55살 동갑내기 배우 빌리 크루덥과 재혼했다.&nbsp; 10일(현지시간) 페이지식스 보도에 따르면 나오미 왓츠가 이날 빌리 크루덥과 법원 계단에서 찍은 사진을 공개하며 부부가 됐다는 걸 밝혔다. 기네스 펠트로 등 많은 사람이 두 사람의 결혼식을 축하했다.&nbsp; 왓츠와 크루덥은 결혼식 하루 전 뉴욕시 아파트로 돌아가는 것]]></content>
     </entry>
 </feed>
