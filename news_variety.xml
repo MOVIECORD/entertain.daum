@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/variety</id>
     <title>다음 연예 ─ 뉴스 ─ 예능</title>
-    <updated>2023-06-12T19:08:33.659Z</updated>
+    <updated>2023-06-12T20:11:34.577Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[강호동X이승기 창업각? "연예인 못 해도 식당 할 수 있어" 자신감]]></title>
+        <id>https://v.daum.net/v/20230613050108432</id>
+        <link href="https://v.daum.net/v/20230613050108432"/>
+        <updated>2023-06-12T20:11:23.090Z</updated>
+        <content type="html"><![CDATA[[OSEN=임혜영 기자] 이승기가 라면 가게에 엄청난 자신감을 드러냈다. 지난 12일 방송된 TV조선 ‘형제라면’에서는 에노시마 섬에서의 2~3일차 영업이 그려졌다. 이승기, 강호동, 배인혁은 영업 2일차부터 몰려드는 손님에 정신없이 바쁘게 요리를 하면서도 뿌듯한 마음을 드러냈다. 동해물라면, 갈비카레라면, 전주비빔면의 비주얼은 할 때마다 더욱 완성도가]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이봉원x박미선, 알고보니 "각집살이 중" 최초공개]]></title>
         <id>https://v.daum.net/v/20230613040609132</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230612235359065"/>
         <updated>2023-06-12T15:11:26.883Z</updated>
         <content type="html"><![CDATA[신메뉴 김치품은 삼겹라면이 호평을 받았다. 6월 12일 방송된 TV조선, 디스커버리 채널 코리아 '형제라면'에서는 3일 차 영업기가 담겼다. 이날 2일 차 영업을 마치고 메뉴 투표가 진행됐다  손님들이 주문한 3개의 메뉴 중 한 표라도 아쉽다는 의견이 있다면 해당 메뉴는 다음 날 판매하지 못 하는 게 룰이었다. 결국 동해물라면에서 한 표의 아쉽다가]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김정화♥유은성, 케냐 방문에 국빈급 환영행사 "대통령은 못 만나"]]></title>
-        <id>https://v.daum.net/v/20230612235211059</id>
-        <link href="https://v.daum.net/v/20230612235211059"/>
-        <updated>2023-06-12T15:11:26.883Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 원민순 기자) 김정화와 유은성이 케냐 방문으로 국빈급 환영행사를 받았다.&nbsp; 12일 방송된 SBS '동상이몽2 - 너는 내 운명'에서는 김정화-유은성 부부의 케냐 방문기가 전파를 탔다. 이날 김정화와 유은성은 아이들을 데리고 26시간에 걸쳐 케냐 바링고에 도착했다. 김정화 가족은 커피 사업에 대한 공로로 국빈급 환영식을 받으며 의문의 목걸이를]]></content>
     </entry>
 </feed>

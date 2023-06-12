@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-06-12T19:08:33.652Z</updated>
+    <updated>2023-06-12T20:11:34.569Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘차정숙’ 김예은 “선배들 많은 현장 좋았다..엄정화·명세빈 배려에 감동”]]></title>
+        <id>https://v.daum.net/v/20230613050120439</id>
+        <link href="https://v.daum.net/v/20230613050120439"/>
+        <updated>2023-06-12T20:11:16.967Z</updated>
+        <content type="html"><![CDATA[[OSEN=김채연 기자] 배우 김예은이 엄정화, 명세빈 등 선배들과 ‘닥터 차정숙’에서 호흡을 맞춘 소감을 전했다. 12일 김예은은 서울 마포구 합정동에 위치한 OSEN 사무실을 찾아 JTBC 토일드라마 ‘닥터 차정숙’ 종영에 대해 인터뷰를 나눴다. 김예은은 ‘닥터 차정숙’에서 내가 할 일은 남에게 미루는 게 몸에 밴 극도의 개인주의자이자, 90년대생]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['구미호뎐1938' 황희 "모든 순간들 보상받은 것 같아 행복" 종영 소감]]></title>
         <id>https://v.daum.net/v/20230613030112777</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230612193308547"/>
         <updated>2023-06-12T11:09:45.444Z</updated>
         <content type="html"><![CDATA[[OSEN=박소영 기자] 배우 이태란이 드디어&nbsp;‘이로운 사기’에 등판한다. 오늘(12일)&nbsp;저녁&nbsp;8시&nbsp;50분에 방송될&nbsp;tvN&nbsp;월화드라마&nbsp;‘이로운 사기(극본 한우주/&nbsp;연출 이수현/&nbsp;제작 스튜디오드래곤)’ 5회에 이태란이 순수한 악의 욕망을 가진 장경자 역으로 첫 출연해 극의 긴장감을 바짝 조일 예정이다. 이태란이 연기할 장경자 캐릭터는 극 중&nbsp;‘나비스웰빙’]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[진기주, 정신 잃은 서지혜 위해 진범 찾을까]]></title>
-        <id>https://v.daum.net/v/20230612185459051</id>
-        <link href="https://v.daum.net/v/20230612185459051"/>
-        <updated>2023-06-12T10:12:05.894Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 김명미 기자] ‘어쩌다 마주친, 그대’ 진기주와 이원정이 참을 수 없는 눈물을 흘린다. 6월 12일 오후 9시 45분 방송되는 KBS 2TV 월화드라마 ‘어쩌다 마주친, 그대’(연출 강수연, 이웅희 / 극본 백소연 / 제작 아크미디어) 13회에서는 이순애(서지혜 분)가 정신을 잃고 병원에 누워있자 백윤영(진기주 분)과 백희섭(이원정 분)은 물론]]></content>
     </entry>
 </feed>
