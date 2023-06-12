@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-06-12T11:10:05.493Z</updated>
+    <updated>2023-06-12T12:20:48.030Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[크리스 프랫 "슈퍼 마리오 속편 곧 제작된다"]]></title>
+        <id>https://v.daum.net/v/20230612210030636</id>
+        <link href="https://v.daum.net/v/20230612210030636"/>
+        <updated>2023-06-12T12:20:47.157Z</updated>
+        <content type="html"><![CDATA[[TV리포트=이예은 기자] 할리우드 배우 크리스 프랫이 영화 '슈퍼 마리오 브라더스'의 속편 제작을 예고했다.&nbsp; 영화 '슈퍼 마리오 브라더스'는 일루미네이션 엔터테인먼트와 닌텐도가 슈퍼 마리오 시리즈 IP(지적 재산권)을 기반으로 합작한 극장판 애니메이션 영화로,&nbsp;1933년 개봉했던 동명의 영화 이후에 30년 만에 제작이 이뤄졌다. 약 두 달 동안 전 세계]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[샤키라의 '인어공주' 콘셉트에 할리 베일리 팬들 분노..."왜 따라 해"]]></title>
         <id>https://v.daum.net/v/20230612200208984</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230612124208613"/>
         <updated>2023-06-12T04:13:48.348Z</updated>
         <content type="html"><![CDATA[[TV리포트=유비취 기자] 래퍼 니키 미나즈가 장난전화로 몸살을 앓았다. 그는 아동학대와 화재 신고까지 당했다. 11일(현지 시간) 연예매체 TMZ는 니키 미나즈(40)가 안티 팬의 장난전화 때문에 괴로워하고 있다고 보도했다. 보도에 따르면 그는 아동 학대 신고는 물론, 화재 신고까지 당했다. 니키 미나즈는 지난주에 수차례에 걸쳐 허위 신고를 당한 것으로]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[조니 뎁, 딸 출연 ‘디 아이돌’ 선정성 논란에도 “자랑스러워”]]></title>
-        <id>https://v.daum.net/v/20230612123951584</id>
-        <link href="https://v.daum.net/v/20230612123951584"/>
-        <updated>2023-06-12T04:13:48.349Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 박수인 기자] 할리우드 배우 조니 뎁(Johnny Depp)이 딸 릴리 로즈 뎁(Lily-Rose Melody Depp)이 출연한 '디 아이돌'(THE IDOL)에 대한 생각을 밝혔다. 최근 미국 연예매체 페이지 식스는 한 소식통을 통해 "조니 뎁은 릴리 로즈 뎁의 '디 아이돌' 출연이 딸의 경력에 있어 자랑스럽게 여긴다. 릴리는 대부분의 미국인]]></content>
     </entry>
 </feed>
