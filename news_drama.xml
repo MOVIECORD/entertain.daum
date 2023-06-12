@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-06-12T21:10:48.735Z</updated>
+    <updated>2023-06-12T22:10:35.363Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[재연배우 부부, 분식집 운영 근황 "수입 없어서 시작"]]></title>
+        <id>https://v.daum.net/v/20230613070508938</id>
+        <link href="https://v.daum.net/v/20230613070508938"/>
+        <updated>2023-06-12T22:10:18.830Z</updated>
+        <content type="html"><![CDATA[[이데일리 스타in 김현식 기자] 재연 프로그램에서 주로 활약해온 배우 홍승범, 권영경 부부가 분식집을 운영 중인 근황을 공개했다. 홍승범, 권영경 부부는 12일 방송한 MBC 예능프로그램 ‘오은영 리포트 - 결혼 지옥’에 출연했다. 이날 방송에서 홍승범은 “33년간 대본에 의해 합법적으로 바람도 피우고 사기도 좀 치며 악역을 많이 담당하고 있다”고]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[하준, '이 연애는 불가항력' 주연 확정…'만인의 연인' 훈남 보좌관役]]></title>
+        <id>https://v.daum.net/v/20230613070004812</id>
+        <link href="https://v.daum.net/v/20230613070004812"/>
+        <updated>2023-06-12T22:10:18.841Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 김유진 기자) 배우 하준이 JTBC 새 수목드라마 '이 연애는 불가항력' 주연으로 출연을 확정했다. '이 연애는 불가항력'은 300여 년 전 철저히 봉인됐던 금서를 얻게 된 녹지과 공무원 이홍조(조보아 분)와 그 금서의 희생양이 된 변호사 장신유(로운)의 불가항력적 로맨스다. 끊어낼 수 없는 운명에 휘말린 이들의 간절한 소원에서 시작된 달콤하]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘차정숙’ 김예은 “선배들 많은 현장 좋았다..엄정화·명세빈 배려에 감동”]]></title>
         <id>https://v.daum.net/v/20230613050120439</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230612200931079"/>
         <updated>2023-06-12T12:20:29.566Z</updated>
         <content type="html"><![CDATA[(엑스포츠뉴스 장인영 기자) '비밀의 여자' 신고은이 의식을 되찾아 모두를 놀라게 했다.&nbsp;&nbsp; 12일 방송된 KBS 2TV 일일드라마 '비밀의 여자'에서는 정겨울(신고은 분)이 의식을 되찾은 모습이 전파를 탔다.&nbsp; 이날 서태양(이선호)은 오세린(최윤영)에게 "당신이 안 깨어날까봐 엄청 무서웠어요. 그리고 누워 있는 당신보면서 얼마나 많은 생각을 했는지. 내가]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘하늘’ 조미령, 김유석 반대에도 새 대표 됐다... 정우연, 변우민 잡은 진주형 원망]]></title>
-        <id>https://v.daum.net/v/20230612200107973</id>
-        <link href="https://v.daum.net/v/20230612200107973"/>
-        <updated>2023-06-12T11:09:45.442Z</updated>
-        <content type="html"><![CDATA[[TV리포트=이혜미 기자] 조미령이 김유석을 몰아내고 샤인 코스메틱의 대표가 됐다. 정우연은 변우민을 압수수색한 진주형에 원망을 표했다. 12일 MBC ‘하늘의 인연’에선 치환(김유석 분)의 반대에도 샤인 코스메틱의 새 대표직을 달게 된 영은(조미령 분)의 모습이 그려졌다. 이날 영은은 진우(서한결 분)와 함께 직접 치환을 찾아 투자를 위한 필수 조건을 설]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이태란, 악역으로 컴백..'이로운 사기' 천우희랑 엮인 惡女]]></title>
-        <id>https://v.daum.net/v/20230612193308547</id>
-        <link href="https://v.daum.net/v/20230612193308547"/>
-        <updated>2023-06-12T11:09:45.444Z</updated>
-        <content type="html"><![CDATA[[OSEN=박소영 기자] 배우 이태란이 드디어&nbsp;‘이로운 사기’에 등판한다. 오늘(12일)&nbsp;저녁&nbsp;8시&nbsp;50분에 방송될&nbsp;tvN&nbsp;월화드라마&nbsp;‘이로운 사기(극본 한우주/&nbsp;연출 이수현/&nbsp;제작 스튜디오드래곤)’ 5회에 이태란이 순수한 악의 욕망을 가진 장경자 역으로 첫 출연해 극의 긴장감을 바짝 조일 예정이다. 이태란이 연기할 장경자 캐릭터는 극 중&nbsp;‘나비스웰빙’]]></content>
     </entry>
 </feed>
