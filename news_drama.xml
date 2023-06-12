@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-06-12T14:10:39.319Z</updated>
+    <updated>2023-06-12T15:11:38.387Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['비밀의 여자' 최윤영, 신고은 기억 되돌리기 위해 노력]]></title>
+        <id>https://v.daum.net/v/20230613000400250</id>
+        <link href="https://v.daum.net/v/20230613000400250"/>
+        <updated>2023-06-12T15:11:20.351Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 | 이빛나리 기자] /사진='비밀의 여자' 방송화면'비밀의 여자' 최윤영이 기억을 잃은 신고은을 챙겼다. 12일 방송된 KBS 2TV 일일드라마 '비밀의 여자'에서 오세린(최윤영 분)과 영혼이 바뀐 정겨울(신고은 분)이 깨어났다. 이날 윤말자(윤지숙 분)는 깨어난 정겨울을 반기며 "겨울아"라고 불렀다. 오세린과 영혼이 바뀐 정겨울은 "내가 겨]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['이로운사기' 천우희, 김동욱 배신..동맹 깨졌다 "자수해"]]></title>
         <id>https://v.daum.net/v/20230612221725508</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230612185408046"/>
         <updated>2023-06-12T10:12:05.899Z</updated>
         <content type="html"><![CDATA[[스타뉴스 | 김미화 기자] 명세빈 /사진=코스모엔터테인먼트 JTBC '닥터 차정숙'에서 불륜녀 최승희 역할로 다시 한번 전성기를 맞은 배우 명세빈이 '결혼 사칭'에 몸살을 앓고 있다. 명세빈은 이로 인한 피해가 없도록 당부했다. 명세빈은 12일 "2~3년 전부터 저와 곧 결혼한다는 이OO씨. 큰 사업을 한다고 여기저기 부동산 중개업소로부터 신혼집과 건]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['사냥개들' 김새론, 왜 손절 못 했나 알고 보니]]></title>
-        <id>https://v.daum.net/v/20230612185003984</id>
-        <link href="https://v.daum.net/v/20230612185003984"/>
-        <updated>2023-06-12T10:12:05.900Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 윤현지 기자) '사냥개들'의 김새론, 여러모로 민폐만 끼친 셈이다. 지난 9일 넷플릭스 오리지널 시리즈 '사냥개들'이 공개됐다. '사냥개들'은 사람 목숨보다 돈이 먼저인 사채업의 세계에 휘말린 두 청년 건우(우도환 분)와 우진(이상이)이 거대한 악의 세력에 맞서 목숨 걸고 싸우는 이야기를 담은 작품. 올해 초 공개 예정이었던 '사냥개들'은 주]]></content>
     </entry>
 </feed>
