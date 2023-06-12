@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-06-12T02:51:37.851Z</updated>
+    <updated>2023-06-12T03:17:40.548Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["폐 끼쳐, '괜찮다' 할 수 없지만"…김선호, '사생활 논란' 딛고 이 악문 '귀공자'로 컴백]]></title>
+        <id>https://v.daum.net/v/20230612115401752</id>
+        <link href="https://v.daum.net/v/20230612115401752"/>
+        <updated>2023-06-12T03:17:17.575Z</updated>
+        <content type="html"><![CDATA[[스포츠조선 조지영 기자] 배우 김선호(37)가 여러 우여곡절 속 2년간의 마음고생을 끝내고 스크린으로 컴백했다. 액션 누아르 영화 '귀공자'(박훈정 감독, 영화사 금월 제작)에서 코피노 출신 복싱 선수 마르코(강태주) 주변을 쑥대밭으로 만드는 정체불명 추격자 귀공자를 연기한 김선호. 그가 12일 오전 서울 종로구 삼청동에서 스포츠조선과 만나]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['귀공자' 김선호 "내 모습에 소리 지를 뻔…단점만 보게 된 듯"]]></title>
+        <id>https://v.daum.net/v/20230612115159698</id>
+        <link href="https://v.daum.net/v/20230612115159698"/>
+        <updated>2023-06-12T03:17:17.575Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 김유진 기자) 배우 김선호가 박훈정 감독의 작품으로 스크린에 데뷔한 소감을 전했다. 김선호는 12일 오전 서울 종로구 소격동의 한 카페에서 열린 영화 '귀공자'(감독 박훈정) 인터뷰에서 다양한 이야기를 전했다. 이날 김선호는 "('귀공자'에 참여하면서) 언론시사회라는 것도 처음 접하게 됐다. (완성된) 영화를 봤는데, 제 얼굴과 연기가 너무]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['전,란' 차승원, 박찬욱 감독과 첫 작업..선조役 8년만에 사극]]></title>
         <id>https://v.daum.net/v/20230612115048649</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230612110829655"/>
         <updated>2023-06-12T02:51:13.457Z</updated>
         <content type="html"><![CDATA[[스포츠조선 조지영 기자] 배우 김선호(37)가 "욕설 연기 어색해, 현장에서 많이 혼났다"고 말했다. 김선호가 12일 오전 액션 누아르 영화 '귀공자'(박훈정 감독, 영화사 금월 제작) 인터뷰에서 코피노 출신 복싱 선수 마르코(강태주) 주변을 쑥대밭으로 만드는 정체불명 추격자 귀공자를 연기한 소회를 전했다. 김선호는 첫 촬영을 떠올리며 "거]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[독주하는 '범죄도시3', 개봉 2주 만에 770만 돌파]]></title>
-        <id>https://v.daum.net/v/20230612110704592</id>
-        <link href="https://v.daum.net/v/20230612110704592"/>
-        <updated>2023-06-12T02:51:13.459Z</updated>
-        <content type="html"><![CDATA[[스포츠투데이 서지현 기자] '범죄도시3'가 박스오피스를 점령했다. 12일 영화진흥위원회 영화관입장권 통합전산망에 따르면 지난 주말(9일~11일) 영화 '범죄도시3'는 132만3113명이 관람하며 누적 778만2867명을 기록했다. 이로써 '범죄도시3'는 개봉 이후 맞이한 두 번째 주말에 770만을 돌파하며 800만 관객 동원을 눈앞에 두고 있다. 2위는]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김선호 "사생활 논란, 나를 돌아본 시간..폐 끼치지 않으려 노력"]]></title>
-        <id>https://v.daum.net/v/20230612110358432</id>
-        <link href="https://v.daum.net/v/20230612110358432"/>
-        <updated>2023-06-12T02:51:13.460Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 | 김나연 기자] 배우 김선호가 12일 오전 서울 종로구 삼청동의 한 카페에서 진행된 영화 '귀공자' 개봉 관련 인터뷰를 위해 포즈를 취하고 있다.  김선호는 극 중 마르코(강태주 분)를 쫓는, 갑자기 나타난 맑은 눈의 광인 '귀공자'(김선호 분) 역할을 맡았다.   '귀공자'는 필리핀 불법 경기장을 전전하는 복싱 선수 '마르코' 앞에 정체불명의]]></content>
     </entry>
 </feed>

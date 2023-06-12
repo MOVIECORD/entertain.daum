@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-06-12T02:51:37.860Z</updated>
+    <updated>2023-06-12T03:17:40.545Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[유인수 “미주보다 강경하영파, 안은진은 오랜 친구 느낌”]]></title>
+        <id>https://v.daum.net/v/20230612121558331</id>
+        <link href="https://v.daum.net/v/20230612121558331"/>
+        <updated>2023-06-12T03:17:22.779Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 글 박수인 기자/사진 이재하 기자] (인터뷰 ①에 이어) 배우 유인수가 '나쁜엄마' 출연 배우들에 대한 애정을 드러냈다. 유인수는 6월 12일 서울 강남구 뉴스엔 사옥에서 진행된 JTBC 수목드라마 ‘나쁜엄마’(극본 배세영/연출 심나연) 종영 인터뷰에서 이도현(최강호 역), 안은진(이미주 역), 장원영(청년회장 역), 서이숙(박씨 역) 등과 연기]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['구미호뎐1938' 김범 "커뮤니티 댓글 재밌고 신기해…행복했던 3년"]]></title>
+        <id>https://v.daum.net/v/20230612115258723</id>
+        <link href="https://v.daum.net/v/20230612115258723"/>
+        <updated>2023-06-12T03:17:22.779Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 황수연 기자) 배우 김범이 애정 가득한 ‘구미호뎐1938’ 종영 소감을 전했다. 김범은 지난 11일 종영한 tvN 토일드라마 ‘구미호뎐1938’에서 인간과 구미호 사이에서 태어난 반인반호 이랑 역으로 맹활약을 펼쳤다. 매회 캐릭터 그 자체로 분해 그가 아닌 이랑은 상상할 수 없게 만들었다. 김범은 비주얼은 물론, 섬세한 연기로 많은 이들의 호]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘사냥개들’ 최시원, 장면마다 충격 안긴 파격 열연]]></title>
         <id>https://v.daum.net/v/20230612114101329</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230612101902257"/>
         <updated>2023-06-12T02:51:19.370Z</updated>
         <content type="html"><![CDATA[[텐아시아=강민경 기자] 배우 유정후가 TV조선 '아씨 두리안'에서 다크호스 활약을 예고했다. 12일 TV조선 '아씨 두리안' 제작진은 재벌가 회장 백도이(최명길&nbsp;역)의 장손이자 단치강(전노민&nbsp;역)과 장세미(윤해영 역)의 아들인 단등명 역을 맡은 유정후의 스틸을 공개했다. '결혼작사 이혼작곡'으로 TV조선 드라마 역대 최고 시청률 터트린 피비 작가와]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이준호, 다른 男 품에 안긴 임윤아 보고 질투 폭발]]></title>
-        <id>https://v.daum.net/v/20230612101859252</id>
-        <link href="https://v.daum.net/v/20230612101859252"/>
-        <updated>2023-06-12T02:51:19.371Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 김명미 기자] 이준호 임윤아의 신박한 로맨스가 펼쳐진다. 오는 6월 17일 첫 방송될 JTBC 새 토일드라마 ‘킹더랜드’(극본 최롬(팀 하리마오), 연출 임현욱, 제작 앤피오엔터테인먼트, 바이포엠스튜디오, SLL)에서 하이라이트 영상을 공개, 천생 악연으로 시작해 달콤한 인연으로 변해가는 구원(이준호 분)과 천사랑(임윤아 분)의 모습으로 연애 세]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[유정후, 고부간 사랑 ‘아씨 두리안’ 다크호스 활약 예고 “임성한 작가에 놀라”]]></title>
-        <id>https://v.daum.net/v/20230612101801203</id>
-        <link href="https://v.daum.net/v/20230612101801203"/>
-        <updated>2023-06-12T02:51:19.372Z</updated>
-        <content type="html"><![CDATA[[OSEN=강서정 기자] TV CHOSUN&nbsp;새 주말미니시리즈&nbsp;‘아씨 두리안’&nbsp;유정후가 단등명 역으로 변신한&nbsp;‘판타지 비주얼’을 공개하며, ‘다크호스’&nbsp;활약을 예고했다. 오는&nbsp;24일 오후 &nbsp;9시&nbsp;10분에 첫 방송될&nbsp;TV CHOSUN&nbsp;새 주말미니시리즈&nbsp;‘아씨 두리안’(극본 피비(Phoebe,&nbsp;임성한), 연출 신우철,&nbsp;정여진)은 기묘하고 아름다운 판타지 멜로]]></content>
     </entry>
 </feed>
