@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-06-12T07:11:20.303Z</updated>
+    <updated>2023-06-12T08:15:53.816Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘성전환’ 엘리엇 페이지, “여자 옷 입으면 죽고싶다는 생각들어” 거부감 표출]]></title>
+        <id>https://v.daum.net/v/20230612163134461</id>
+        <link href="https://v.daum.net/v/20230612163134461"/>
+        <updated>2023-06-12T08:15:53.118Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]여자에서 남자로 성을 전환한 엘리엇 페이지(36)가 여성 드레스에 거부감을 표출했다. 11일(현지시간) 페이지식스에 따르면, 그는 최근 발간한 회고록 ‘페이지보이’에서 여성스러운 의상을 입으면 스스로를 ‘죽이고’ 싶다는 생각이 들어 대작영화 출연을 포기했다고 밝혔다. 페이지는 “19세기 중반의 여성 의상을 입은 내 모습을]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[릴 웨인 "기억력 감퇴...내 노래 구분도 못하는 수준"]]></title>
         <id>https://v.daum.net/v/20230612160209235</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230612100504683"/>
         <updated>2023-06-12T02:51:36.994Z</updated>
         <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]세계적 팝가수 브리트니 스피어스(41)가 자신을 필로폰 중독자로 묘사한 언론을 상대로 명예훼손 소송에 나섰다. 11일(현지시간) 페이지식스에 따르면, 스피어스의 변호사 매튜 로젠가트는 가짜기사를 보도한 데일리 메일에 법적 서한을 보냈다. 그는 “데일리 메일은 다프네 바락 기자를 통해 의뢰인 브리트니 스피어스와 관련된 수많은]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['활동 중단' 톰 홀랜드 "'스파이더맨4' 제작, 굉장히 신나"]]></title>
-        <id>https://v.daum.net/v/20230612095857355</id>
-        <link href="https://v.daum.net/v/20230612095857355"/>
-        <updated>2023-06-12T01:04:35.581Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 이창규 기자) 최근 활동 잠정 중단을 알린 배우 톰 홀랜드가 마블 시네마틱 유니버스(MCU) 영화 '스파이더맨4'에 대해 언급한 사실이 주목받고 있다. 톰 홀랜드는 지난 6일(현지시간) 미국 인버스와의 단독 인터뷰에서 MCU '스파이더맨4'에&nbsp;대해 많은 정보를 공개하진 않았지만, "어떤 일이 일어나고 있다"고 언급하면서 "굉장히 신난다"고 밝]]></content>
     </entry>
 </feed>
