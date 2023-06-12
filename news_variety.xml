@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/variety</id>
     <title>다음 연예 ─ 뉴스 ─ 예능</title>
-    <updated>2023-06-12T18:13:38.008Z</updated>
+    <updated>2023-06-12T19:08:33.659Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이봉원x박미선, 알고보니 "각집살이 중" 최초공개]]></title>
+        <id>https://v.daum.net/v/20230613040609132</id>
+        <link href="https://v.daum.net/v/20230613040609132"/>
+        <updated>2023-06-12T19:08:22.262Z</updated>
+        <content type="html"><![CDATA[[OSEN=김수형 기자] ‘동상이몽2’에서, 이봉원과 박미선 부부가 각집살이 중인 근황을 예고했다. 12일 방송된 SBS 예능 ‘동상이몽 시즌2- 너는 내 운명’에서&nbsp;‘올드앤 리치’로 불린 개그맨 김학래가 출연, 이젠 중식당 CEO가 된 그였다.&nbsp; 앞서 연매출 100억 사나이로 알려졌던 바. 김학래는 최근엔 매출 300억 신화를 이뤘다고 언급되기도 했다]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김호중, '드림콘서트 트롯' 무대 스포 "자주 안 했던 곡으로 준비했다"]]></title>
         <id>https://v.daum.net/v/20230613020004718</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230612235211059"/>
         <updated>2023-06-12T15:11:26.883Z</updated>
         <content type="html"><![CDATA[(엑스포츠뉴스 원민순 기자) 김정화와 유은성이 케냐 방문으로 국빈급 환영행사를 받았다.&nbsp; 12일 방송된 SBS '동상이몽2 - 너는 내 운명'에서는 김정화-유은성 부부의 케냐 방문기가 전파를 탔다. 이날 김정화와 유은성은 아이들을 데리고 26시간에 걸쳐 케냐 바링고에 도착했다. 김정화 가족은 커피 사업에 대한 공로로 국빈급 환영식을 받으며 의문의 목걸이를]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['형제라면'강호동, '국민MC' 日서도 입증된 인지도 "'아는 형님' 멤버중 제일 좋아']]></title>
-        <id>https://v.daum.net/v/20230612234415031</id>
-        <link href="https://v.daum.net/v/20230612234415031"/>
-        <updated>2023-06-12T15:11:26.883Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 | 김지은 인턴기자] /사진='형제라면' 화면 캡처강호동이 일본에서도 인지도를 입증해 이목이 집중됐다. 12일 방송된 TV조선 예능 프로그램 '형제라면' 4회에서는 2일 차 저녁 영업에 나선 강호동, 이승기, 배인혁의 모습이 전파를 탔다. 이날 방송에서 네 자리중 세 자리가 꽉 차며 가게는 굉장히 분주해졌다. 그때 젊은 세 명의 손님이 "]]></content>
     </entry>
 </feed>
