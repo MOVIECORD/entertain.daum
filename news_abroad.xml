@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-06-13T21:10:31.578Z</updated>
+    <updated>2023-06-13T22:10:57.712Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['왕좌의 게임' 페드로 파스칼, 도로에서 시비 붙어..."나한테 침 뱉었다"]]></title>
+        <id>https://v.daum.net/v/20230614070209688</id>
+        <link href="https://v.daum.net/v/20230614070209688"/>
+        <updated>2023-06-13T22:10:57.112Z</updated>
+        <content type="html"><![CDATA[[TV리포트=이예은 기자] '왕좌의 게임' 페드로 파스칼(48)이 도로에서 시비가 붙었던 일화를 밝혔다.&nbsp; 외신 연예 매체 버라이어티는 12일(현지 시간) 배우 페드로 파스칼과의 인터뷰 내용을 공개했다.&nbsp; 인터뷰에서 페드로 파스칼은 "세 번의 사고가 있었는데, 모두 내 잘못이었다"라고 고백하며 입을 열었다.&nbsp; 그는 가장 최근에 있었던 사고가 최악이었다며 "]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[조조 시와 "SNS 덕에 커밍아웃 쉬웠다…내 편 생긴 기분"]]></title>
         <id>https://v.daum.net/v/20230614060031828</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230613164159773"/>
         <updated>2023-06-13T08:14:26.180Z</updated>
         <content type="html"><![CDATA[[뉴스엔 박수인 기자] 캐나다 출신 배우 엘리엇 페이지(Elliot Page)가 10대 시절 남자 영화감독에게 그루밍 성범죄 피해를 당했다고 주장했다. 엘리엇 페이지는 최근 출간된 자신의 회고록 '페이지 보이'(PAGE BOY)를 통해 한 남자 영화감독과 저녁식사 도중 그루밍 성범죄(심리적으로 지배한 뒤 성폭력을 가하는 것) 피해를 당했던 경험을 털어놨]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[카니예 웨스트, '공포' 예배 모임…맨손으로 고기 먹는 게 규칙]]></title>
-        <id>https://v.daum.net/v/20230613163030299</id>
-        <link href="https://v.daum.net/v/20230613163030299"/>
-        <updated>2023-06-13T08:14:26.182Z</updated>
-        <content type="html"><![CDATA[[TV리포트=유비취 기자] 래퍼 카니예 웨스트의 공포스러운 예배가 이목을 끌고 있다. 지난 11일(현지 시간) 카니예 웨스트(46)가 미국 로스앤젤레스에서 예배 모임을 주최했다. 그러나 흡사 공포영화를 연상시키는 예배 모임 모습에 논란이 되고 있다. 카니예 웨스트의 예배 모임에는 전신을 하얀 예복으로 감싼 신도와 성가대원이 모여있었다. 또, 예배 모임에 참]]></content>
     </entry>
 </feed>
