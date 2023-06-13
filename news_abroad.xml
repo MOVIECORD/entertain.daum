@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-06-13T09:11:36.271Z</updated>
+    <updated>2023-06-13T10:12:06.724Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['양성애자' 릴리 로즈 뎁, 여친과 길에서 뜨거운 스킨십]]></title>
+        <id>https://v.daum.net/v/20230613190208313</id>
+        <link href="https://v.daum.net/v/20230613190208313"/>
+        <updated>2023-06-13T10:12:05.906Z</updated>
+        <content type="html"><![CDATA[[TV리포트=이수연 기자] 조니 뎁의 딸이자 배우인 릴리 로즈 뎁이 당당히 공개 데이트를 즐겼다. 12일(현지 시간) TMZ 등 현지 외신은 여자친구와 함께 뉴욕을 거닐고 있는 릴리 로즈 뎁을 포착했다. 앞서 릴리 로즈 뎁은 자신의 소셜네트워크서비스를 통해 래퍼 070 셰이크(25·본명 다니엘 발뷔에나)와 열애 중임을 밝혔다. 함께 공개된 사진 속 두 사]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['할리우드 문제아' 에즈라 밀러, 2년 만에 공식 석상 복귀]]></title>
         <id>https://v.daum.net/v/20230613180207687</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230613120559367"/>
         <updated>2023-06-13T03:12:20.013Z</updated>
         <content type="html"><![CDATA[[스포츠조선 문지연 기자] '사냥개들' 김주환 감독이 우도환과 이상이의 열연을 칭찬했다. 김주환 감독은 13일 오전 서울 종로구의 한 카페에서 스포츠조선과 만나 넷플릭스 오리지널 시리즈 '사냥개들'(김주환 극본, 연출)의 인터뷰에 임했다. '사냥개들'은 복싱부터 카체이싱까지 K액션의 진수를 보여준 작품이었다. 김주환 감독은 "액션은 다 힘들었]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['사냥개들' 김주환 감독 "김새론 '좋아요' 응원? 그 아이의 자유"]]></title>
-        <id>https://v.daum.net/v/20230613120032119</id>
-        <link href="https://v.daum.net/v/20230613120032119"/>
-        <updated>2023-06-13T03:12:20.015Z</updated>
-        <content type="html"><![CDATA[[스포츠조선 문지연 기자] '사냥개들' 김주환 감독이 김새론의 응원에 대해 답했다. 김주환 감독은 13일 오전 서울 종로구의 한 카페에서 스포츠조선과 만나 넷플릭스 오리지널 시리즈 '사냥개들'(김주환 극본, 연출)의 인터뷰에 임했다. 김주환 감독은 김새론의 하차 이후 촬영한 7회와 8회에 대해 "갓 쓴 게 제일 좋다. 그 이후에도 쓰는데 3]]></content>
     </entry>
 </feed>
