@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-06-13T13:14:17.173Z</updated>
+    <updated>2023-06-13T14:09:59.143Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['이로운 사기' 천우희, 김동욱 신뢰에 "같이하자" 협조]]></title>
+        <id>https://v.daum.net/v/20230613223708165</id>
+        <link href="https://v.daum.net/v/20230613223708165"/>
+        <updated>2023-06-13T14:09:42.308Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 | 김지은 인턴기자] /사진='이로운 사기' 화면 캡처'이로운 사기' 배우 천우희가 김동욱과 협조했다. 13일 방송된 tvN 월화드라마 '이로운 사기' 6회에서는 이로움(천우희 분)과 한무영(김동욱 분)이 대면하는 모습이 담겼다. 방송에서는 한무영이 변호사 배지를 내려놓고 이로움이 벌이는 사기 작전에 합류하겠다는 뜻을 밝혔다. 하지만 이로움은]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['이로운 사기' 천우희, 김동욱 父 도산시킨 장본인이었다]]></title>
         <id>https://v.daum.net/v/20230613221305931</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230613200209463"/>
         <updated>2023-06-13T11:09:03.833Z</updated>
         <content type="html"><![CDATA[[스타뉴스 | 김지은 인턴기자] /사진='하늘의 인연' 화면 캡처조미령이 김유석에 소리쳤다. 13일 오후 방송된 MBC 일일드라마 '하늘의 인연' 41회에서는 채영은(조미령 분)과 강치환(김유석 분)이 대립하는 모습이 담겼다. 이날 방송에서 채영은은 샤인코스메틱의 대표자리에 오른 후 '가사도우미 사건'의 진실을 공공연하게 해결하기 위해 회사 사이트에 ']]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["우 도환·좌 상이 덕분" 김주환 감독, '음주운전' 김새론 여파 이겨낸 방법]]></title>
-        <id>https://v.daum.net/v/20230613200101437</id>
-        <link href="https://v.daum.net/v/20230613200101437"/>
-        <updated>2023-06-13T11:09:03.834Z</updated>
-        <content type="html"><![CDATA[[텐아시아=강민경 기자] 김주환 감독은 OTT 드라마 첫 연출작 '사냥개들'을 통해 도전에 나섰다. 하지만 그의 도전은 시작과 함께 풍파를 겪었다. 출연 배우인 김새론이 음주운전으로 물의를 빚었기 때문.&nbsp; 전체를 지휘 해야 하는 감독이라는 중책을 맡은 김주환 감독은 어떻게라도 책임을 져야 했다. 그에게 남은 건 몸과 마음의 상처였다. 탈모 증상, 공황]]></content>
     </entry>
 </feed>
