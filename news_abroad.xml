@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-06-13T04:13:31.007Z</updated>
+    <updated>2023-06-13T05:10:51.463Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘폭행·절도’ 플래시 에즈라 밀러, 첫 공식석상 등장 “최고의 슈퍼히어로”]]></title>
+        <id>https://v.daum.net/v/20230613135206652</id>
+        <link href="https://v.daum.net/v/20230613135206652"/>
+        <updated>2023-06-13T05:10:50.810Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]각종 폭행과 절도 혐의를 받은 에즈라 밀러(30)가 논란 이후 공식석상에 첫 모습을 드러냈다. 그는 12일(현지시간) 로스앤젤레스 오베이션 할리우드에서 열린 DC 스튜디오의 새 영화 ‘플래시’ 시사회에서 레드카펫을 밟았다. 밀러는 ‘배트맨’ 역을 다시 맡은 벤 애플렉(50)과 함께 카펫에 올랐다. 밀러는 검은색 디테일의 흰색]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[마이클 잭슨 연기한 배우, 피부 하얗게 했다가 욕 먹어..."후회돼"]]></title>
         <id>https://v.daum.net/v/20230613120900415</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230612220208336"/>
         <updated>2023-06-12T13:14:46.516Z</updated>
         <content type="html"><![CDATA[[TV리포트=이예은 기자] 팝가수 테일러 스위프트가 또 스토커로 인해 신변을 위협 당했다.&nbsp; 외신 매체 CNN 9일(현지 시간) 테일러 스위프트가 지난 수개월 동안 한 스토커로부터 괴롭힘을 당했다고 보도했다.&nbsp; 스토커는 미국 인디애나주에 거주하던 36세 미첼 태벨이다.&nbsp;그는 지난 2일 테일러 스위프트를 스토킹, 협박, 사생활 침해, 괴롭힌 혐의로 카운티 교]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[크리스 프랫 "슈퍼 마리오 속편 곧 제작된다"]]></title>
-        <id>https://v.daum.net/v/20230612210030636</id>
-        <link href="https://v.daum.net/v/20230612210030636"/>
-        <updated>2023-06-12T12:20:47.157Z</updated>
-        <content type="html"><![CDATA[[TV리포트=이예은 기자] 할리우드 배우 크리스 프랫이 영화 '슈퍼 마리오 브라더스'의 속편 제작을 예고했다.&nbsp; 영화 '슈퍼 마리오 브라더스'는 일루미네이션 엔터테인먼트와 닌텐도가 슈퍼 마리오 시리즈 IP(지적 재산권)을 기반으로 합작한 극장판 애니메이션 영화로,&nbsp;1933년 개봉했던 동명의 영화 이후에 30년 만에 제작이 이뤄졌다. 약 두 달 동안 전 세계]]></content>
     </entry>
 </feed>
