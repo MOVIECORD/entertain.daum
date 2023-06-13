@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-06-13T20:11:58.830Z</updated>
+    <updated>2023-06-13T21:10:31.578Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[조조 시와 "SNS 덕에 커밍아웃 쉬웠다…내 편 생긴 기분"]]></title>
+        <id>https://v.daum.net/v/20230614060031828</id>
+        <link href="https://v.daum.net/v/20230614060031828"/>
+        <updated>2023-06-13T21:10:30.751Z</updated>
+        <content type="html"><![CDATA[[TV리포트=유비취 기자] 가수 조조 시와가 커밍아웃에 용기를 낼 수 있었던 이유를 털어놨다. 지난 11일(현지 시간) E! 뉴스와 진행한 인터뷰에서 조조 시와(20)는 소셜네트워크서비스 덕분에 용기를 얻고 성소수자로서의 성 정체성을 커밍아웃 할 수 있었다고 고백했다. 지난 2021년 조조 시와는 소셜네크워크서비스를 통해 성소수자임을 커밍아웃 했다. 이에]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[비틀스, AI 도움으로 신곡 완성…매카트니 "올해 말 공개"]]></title>
         <id>https://v.daum.net/v/20230614044130939</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230613163030299"/>
         <updated>2023-06-13T08:14:26.182Z</updated>
         <content type="html"><![CDATA[[TV리포트=유비취 기자] 래퍼 카니예 웨스트의 공포스러운 예배가 이목을 끌고 있다. 지난 11일(현지 시간) 카니예 웨스트(46)가 미국 로스앤젤레스에서 예배 모임을 주최했다. 그러나 흡사 공포영화를 연상시키는 예배 모임 모습에 논란이 되고 있다. 카니예 웨스트의 예배 모임에는 전신을 하얀 예복으로 감싼 신도와 성가대원이 모여있었다. 또, 예배 모임에 참]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[클로에 카다시안 "아이 이름, 바람난 전 남친 성 따를 것"]]></title>
-        <id>https://v.daum.net/v/20230613154707156</id>
-        <link href="https://v.daum.net/v/20230613154707156"/>
-        <updated>2023-06-13T07:11:25.219Z</updated>
-        <content type="html"><![CDATA[[TV리포트=이수연 기자] 할리우드 유명 셀럽 클로에 카다시안이 바람을 피워 결별한 전 남자친구 트리스탄 톰슨을 가족으로 받아들였다. 12일(현지 시간) 미국 매체 TMZ에 따르면 클로에 카다시안(38)은 지난 2022년 7월 대리모를 통해 낳은 둘째 아이 테이텀의 성을 카다시안에서 톰슨으로 변경했다. 클로에 카다시안은 NBA 선수 트리스탄 톰슨(32)과]]></content>
     </entry>
 </feed>
