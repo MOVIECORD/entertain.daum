@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-06-14T04:13:06.197Z</updated>
+    <updated>2023-06-14T05:11:10.545Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이도현 "오케이 인정! 난 연기 천재 아닌 노력형..아직도 연기 스터디 중"]]></title>
+        <id>https://v.daum.net/v/20230614140612510</id>
+        <link href="https://v.daum.net/v/20230614140612510"/>
+        <updated>2023-06-14T05:10:54.792Z</updated>
+        <content type="html"><![CDATA[[OSEN=박소영 기자] 합류하는 작품마다 인기를 끌었고, 맡는 캐릭터마다 완벽하게 소화했다. 이쯤 되면 연기계 미다스의 손 아닐까. 하지만 본인은 무조건 최선을 다해 노력할 뿐이라며 ‘연기 천재설(?)’에 손사래를 친다. 오늘보다 내일이 더 찬란할 배우 이도현의 이야기다. 이도현은 13일 오후, 강남의 한 카페에서 진행된 JTBC ‘나쁜 엄마’ 종영]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[라미란 문소리 측 “‘정년이’ 출연 제안 받고 긍정검토중”]]></title>
+        <id>https://v.daum.net/v/20230614133956290</id>
+        <link href="https://v.daum.net/v/20230614133956290"/>
+        <updated>2023-06-14T05:10:54.792Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 박수인 기자] 배우 라미란, 문소리가 '정년이'에 출연할까. 소속사 씨제스 스튜디오 측은 6월 14일 뉴스엔에 "라미란, 문소리가 '정년이' 출연을 제안 받고 긍정 검토 중"이라고 밝혔다. 새 드라마 '정년이'는 가진 것 없고 배운 것 없지만 소리 하나만큼은 타고난 목포 소녀 정년이 스타, 부자가 되고 싶어 여성 국극단에 들어가며 펼쳐지는 이야기]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘형사록2’ 이성민과 12년만 재회한 정진영 “연기에 감탄”]]></title>
         <id>https://v.daum.net/v/20230614131059684</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230614115703034"/>
         <updated>2023-06-14T03:11:56.859Z</updated>
         <content type="html"><![CDATA[[뉴스엔 박수인 기자] 배우 신은정이 '가면의 여왕' 종영 소감을 전했다. 신은정이 채널A 월화드라마 '가면의 여왕'에서 10년 전 사건의 중심에서 롤러코스터급 인생 격변을 맞는 영운 문화재단 이사장 주유정 역을 맡았다. 극의 무게감과 긴장감을 자유자재로 조절하는 신은정의 연기력에 시청자들의 호평이 잇따랐고, 이야기의 중심에서 흐름을 주도하며 극을 끝까지]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김동욱이 곧 장르..스릴러+로맨스+드라마 다 된다]]></title>
-        <id>https://v.daum.net/v/20230614115427945</id>
-        <link href="https://v.daum.net/v/20230614115427945"/>
-        <updated>2023-06-14T03:11:56.860Z</updated>
-        <content type="html"><![CDATA[[OSEN=박소영 기자] 배우&nbsp;김동욱이 장르 종합선물세트 같은 면모를 보이며 월화 안방극장을 정조준 하고 있다. KBS 2TV&nbsp;월화드라마&nbsp;‘어쩌다 마주친,&nbsp;그대’(연출 강수연,&nbsp;이웅희&nbsp;/&nbsp;극본 백소연&nbsp;/&nbsp;제작 아크미디어)에서&nbsp;김동욱은&nbsp;1987년에 갇혀 우정리 연쇄 살인 사건을 파헤치는 시간 여행자 윤해준 역을 맡아 작품 안에서 그야말로 장르 불문 열연을]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['악귀' 김태리 둘러싼 인물관계도..오정세 동거인 정체는?]]></title>
-        <id>https://v.daum.net/v/20230614115312888</id>
-        <link href="https://v.daum.net/v/20230614115312888"/>
-        <updated>2023-06-14T03:11:56.863Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 | 윤성열 기자] /사진제공=스튜디오S, BA엔터테인먼트 SBS 새 금토드라마 '악귀'(극본 김은희, 연출 이정림, 제작 스튜디오S·BA엔터테인먼트)가 14일 주연 배우 김태리를 둘러싼 인물 관계도를 공개했다. '악귀'에서 대한민국 N차 공시생 구산영(김태리 분)은 생활력이 부족한 엄마 윤경문(박지영 분)을 대신해 가장 노릇을 하며 낮에는 아]]></content>
     </entry>
 </feed>

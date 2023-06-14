@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-06-14T04:13:06.195Z</updated>
+    <updated>2023-06-14T05:11:10.551Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[韓 시나리오 작가들 "총파업, 美 국한 문제 아냐…'정당한 보상' 필요"]]></title>
+        <id>https://v.daum.net/v/20230614140307375</id>
+        <link href="https://v.daum.net/v/20230614140307375"/>
+        <updated>2023-06-14T05:10:49.681Z</updated>
+        <content type="html"><![CDATA[(사진=로이터)[이데일리 스타in 김보영 기자] 국내 작가들이 한 달 넘게 진행 중인 미국 작가들의 총파업에 지지를 선언하며 글로벌 OTT 업계에 불공정한 작가 계약 관행을 수정할 것을 촉구했다. 아울러 미국을 비롯한 전 세계 작가들이 불안정한 근무 환경에서 동일한 문제로 고통받고 있는 만큼, 우리나라에서도 작가들의 ‘정당한 보상’ 지급을 위한 저작권법]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["송강호X정호연X봉준호와 협업하고파"…'스파이더맨' 팀, 각별한 韓애정]]></title>
+        <id>https://v.daum.net/v/20230614134159350</id>
+        <link href="https://v.daum.net/v/20230614134159350"/>
+        <updated>2023-06-14T05:10:49.686Z</updated>
+        <content type="html"><![CDATA[[스포츠조선 안소윤 기자] 영화 '스파이더맨:어크로스 더 유니버스' 팀이 한국 영화에 관심과 애정을 드러냈다. 영화 '스파이더맨: 어크로스 더 유니버스' 기자간담회가 14일 오전 온라인 생중계로 진행됐다. 이날 자리에는 배우 샤메익 무어, 헤일리 스테인펠드와 켐프 파워 감독이 참석했다. 이날 켐프 파워 감독은 "배우들이 가장 중요한 역할을]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[경찰, 멀티플렉스·배급사 압수수색…관객수 조작 실체 드러나나]]></title>
         <id>https://v.daum.net/v/20230614131006661</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230614105709896"/>
         <updated>2023-06-14T02:15:28.059Z</updated>
         <content type="html"><![CDATA['스파이더맨: 어크로스 더 유니버스'의 켐프 파워 감독이 '어떤 영화에서도 보지 못했던' 요소들을 위해 노력했다고 밝혔다. 배우들은 작품의 매력을 제대로 느끼기 위해 100번은 관람해야 한다면서 자신감을 내비쳤다. 14일 영화 '스파이더맨: 어크로스 더 유니버스'의 화상 기자간담회가 진행됐다. 이 자리에는 켐프 파워 감독과 샤메익 무어, 그리고 헤일리 스테]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["송강호→정호연과 협업하고파"..'스더유' 감독이 밝힌 韓 사랑]]></title>
-        <id>https://v.daum.net/v/20230614105627874</id>
-        <link href="https://v.daum.net/v/20230614105627874"/>
-        <updated>2023-06-14T02:15:28.061Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 | 김나연 기자] 사진=소니 픽쳐스'스파이더맨: 어크로스 더 유니버스'의 켐프 파워 감독이 협업하고 싶은 한국 감독, 배우를 밝혔다. 14일 영화 '스파이더맨: 어크로스 더 유니버스'의 기자간담회가 온라인으로 개최됐다. 이 자리에는 샤메익 무어, 헤일리 스테인펠드, 켐프 파워 감독이 참석해 다양한 이야기를 나눴다. '스파이더맨: 어크로스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["새 스파이더맨 애니 100번 봐야 이해될 거예요"]]></title>
-        <id>https://v.daum.net/v/20230614105611861</id>
-        <link href="https://v.daum.net/v/20230614105611861"/>
-        <updated>2023-06-14T02:15:28.067Z</updated>
-        <content type="html"><![CDATA[[서울=뉴시스] 손정빈 기자 = "이 영화 속 캐릭터들을 제대로 이해하려면 100번 보셔야 할 거예요." 애니메이션 영화 '스파이더맨:어크로스 더 유니버스'에서 스파이더맨들 중 한 명인 '그웬 스테이시' 목소리 연기한 배우 헤일리 스타인펠드(Hailee Steinfeld·27)는 이번 영화에 대해 이렇게 설명했다. 100번을 봐야 이해가 될 만큼 어렵]]></content>
     </entry>
 </feed>
