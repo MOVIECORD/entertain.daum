@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-06-14T09:12:37.018Z</updated>
+    <updated>2023-06-14T10:11:37.827Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['레이스' 김정, 이연희의 워너비 상사.."멋짐 영향 받아 감사" 종영소감]]></title>
+        <id>https://v.daum.net/v/20230614181509965</id>
+        <link href="https://v.daum.net/v/20230614181509965"/>
+        <updated>2023-06-14T10:11:20.076Z</updated>
+        <content type="html"><![CDATA[[OSEN=박소영 기자] 배우&nbsp;김정이 종영을 앞두고 소감을 전했다. 디즈니+의 오리지널 시리즈&nbsp;‘레이스’에서&nbsp;김정은 세용 그룹 홍보3팀의 팀장이자 이연희의 직속상사로&nbsp;‘지은정’&nbsp;역을 맡아 열연을 펼치고 있다.&nbsp;실제 회사내에 존재하는 상사인 듯 한 착각을 불어 일으키는 안정적인 연기력과 더불어&nbsp;지독한 워커홀릭으로 강단 있고 진취적인&nbsp;‘지은정’&nbsp;캐릭터를 자]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['방과 후 전쟁활동’ 오세은, 티빙 '피라미드 게임' 확정..아이돌 덕후 된다]]></title>
         <id>https://v.daum.net/v/20230614180909784</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230614165003273"/>
         <updated>2023-06-14T08:14:04.702Z</updated>
         <content type="html"><![CDATA[(엑스포츠뉴스 최희재 기자) 배우 안보현이 드라마 '이번 생도 잘 부탁해'를 위해 8kg을 감량했다고 밝혔다. tvN 새 토일드라마 '이번 생도 잘 부탁해'(이하 '이생잘')는 14일 오후 온라인을 통해 제작발표회를 진행했다. 자리에는 신혜선, 안보현, 하윤경, 안동구, 이나정 감독이 참석했다. '이번 생도 잘 부탁해'는 전생을 기억하는 인생 19회차 ‘반]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[시모♥며느리 고부 동성애…맞네 판타지, 막장 판타지]]></title>
-        <id>https://v.daum.net/v/20230614160053169</id>
-        <link href="https://v.daum.net/v/20230614160053169"/>
-        <updated>2023-06-14T07:11:08.008Z</updated>
-        <content type="html"><![CDATA[[동아닷컴]  고부 갈등 아닌 ‘고부 동성애’를 그린 상상 그 이상의 작품이 방영을 앞둔다. TV CHOSUN 새 주말미니시리즈 ‘아씨 두리안’(극본 임성한 연출 신우철 정여진)이 바로 그 것. ‘아씨 두리안’은 기묘하고 아름다운 판타지 멜로 드라마로 단씨 집안의 별장에서 성대한 파티가 열리고 때마침 월식이 진행된 순간 등장한 정체 모를 두 여인과 단씨]]></content>
     </entry>
 </feed>
