@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-06-14T03:12:12.578Z</updated>
+    <updated>2023-06-14T04:13:06.195Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[경찰, 멀티플렉스·배급사 압수수색…관객수 조작 실체 드러나나]]></title>
+        <id>https://v.daum.net/v/20230614131006661</id>
+        <link href="https://v.daum.net/v/20230614131006661"/>
+        <updated>2023-06-14T04:12:43.044Z</updated>
+        <content type="html"><![CDATA[[티브이데일리 최하나 기자] 경찰이 영화 관객수 조작 의혹을 받는 멀티플렉스 3사와 배급사 3사에 대한 압수수색을 실시했다. 그동안 의혹으로만 제기됐던 관객수 조작의 실체가 드러날지 귀추가 주목된다. 서울경찰청 반부패·공공범죄수사대는 13일 오전 업무방해 혐의로 멀티플렉스 3사(CGV·메가박스·롯데시네마)와 영화 배급사 3곳(키다리스튜디오·롯데엔터테인먼트]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘귀공자’와 ‘라방’ 보고 ‘솜씻너’ 됐습니다…]]></title>
         <id>https://v.daum.net/v/20230614115608997</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230614105611861"/>
         <updated>2023-06-14T02:15:28.067Z</updated>
         <content type="html"><![CDATA[[서울=뉴시스] 손정빈 기자 = "이 영화 속 캐릭터들을 제대로 이해하려면 100번 보셔야 할 거예요." 애니메이션 영화 '스파이더맨:어크로스 더 유니버스'에서 스파이더맨들 중 한 명인 '그웬 스테이시' 목소리 연기한 배우 헤일리 스타인펠드(Hailee Steinfeld·27)는 이번 영화에 대해 이렇게 설명했다. 100번을 봐야 이해가 될 만큼 어렵]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[멀티버스 원조→콤비 액션 케미…DC '플래시' 관전 포인트]]></title>
-        <id>https://v.daum.net/v/20230614105212653</id>
-        <link href="https://v.daum.net/v/20230614105212653"/>
-        <updated>2023-06-14T02:15:28.069Z</updated>
-        <content type="html"><![CDATA[[이데일리 스타in 김보영 기자] DC 신작 영화 ‘플래시’가 ‘범죄도시3’, ‘엘리멘탈’ 등 쟁쟁한 경쟁작들을 제치고 전체 예매율 1위를 기록한 가운데, 오늘(14일) 개봉을 맞이해 장르별 관전 포인트를 공개했다. 코믹스 사상 최초의 스피드스터 히어로이자 DC 역사를 통틀어 가장 사랑받은 캐릭터 중 하나인 ‘플래시’가 첫 솔로 무비 ‘플래시’를 통해 슈]]></content>
     </entry>
 </feed>
