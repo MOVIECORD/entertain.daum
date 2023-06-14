@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-06-14T12:20:48.997Z</updated>
+    <updated>2023-06-14T13:14:02.075Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[신혜선·안보현, 환생 로맨스 기대 이유]]></title>
+        <id>https://v.daum.net/v/20230614220101849</id>
+        <link href="https://v.daum.net/v/20230614220101849"/>
+        <updated>2023-06-14T13:13:45.412Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 | 김수진 기자]  드라마 '이번 생도 잘 부탁해' 신혜선과 안보현이 완성형 케미스트리를 과시하고 있다. tvN 새 토일드라마 '이번 생도 잘 부탁해'(연출 이나정/극본 최영림, 한아름/기획 스튜디오드래곤/제작 스튜디오N, 화인컷)가 오는  17일(토)에 첫 방송되는  제작진은  신혜선(반지음 역)-안보현(문서하 역)의 커플 샷을 공개했다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김시은, 반민정에게 경고 "어디 함부로 우리 엄마 자리를 노리냐"]]></title>
         <id>https://v.daum.net/v/20230614210408836</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230614175158304"/>
         <updated>2023-06-14T09:12:16.788Z</updated>
         <content type="html"><![CDATA[(엑스포츠뉴스 오승현 기자) 우도환이 더욱 성장했다. 우도환은 14일 오전 서울 강남구의 한 카페에서 진행된 넷플릭스 오리지널 시리즈 '사냥개들' 우도환 인터뷰에서 다양한 이야기를 꺼냈다. '사냥개들'은 사람 목숨보다 돈이 먼저인 사채업의 세계에 휘말린 두 청년이 거대한 악의 세력에 맞서 목숨 걸고 싸우는 이야기를 그린 넷플릭스 시리즈로 우도환은 정의로운]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘사냥개들’ 우도환이 본 김새론 리스크 “눈앞 캄캄했지만 잘 이겨내”]]></title>
-        <id>https://v.daum.net/v/20230614175018243</id>
-        <link href="https://v.daum.net/v/20230614175018243"/>
-        <updated>2023-06-14T09:12:16.790Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 하지원 기자] 배우 우도환이 우여곡절 끝 공개된 넷플릭스 '사냥개들' 비하인드를 전했다. 6월 14일 오전 우도환은 서울 강남구 역삼동 한 카페에서 넷플릭스 '사냥개들'(극본/연출 김주환) 관련 라운드 인터뷰를 통해 뉴스엔과 만나 이야기를 나눴다. 9일 공개된 ‘사냥개들’은 사람 목숨보다 돈이 먼저인 사채업의 세계에 휘말린 두 청년이 거대한 악의]]></content>
     </entry>
 </feed>
