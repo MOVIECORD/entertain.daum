@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-06-15T04:13:12.135Z</updated>
+    <updated>2023-06-15T05:11:03.666Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘효심이네 각자도생’ 남보라 출연, 변호사 출신 배우 지망생 된다]]></title>
+        <id>https://v.daum.net/v/20230615140939270</id>
+        <link href="https://v.daum.net/v/20230615140939270"/>
+        <updated>2023-06-15T05:10:45.170Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 이민지 기자] 배우 남보라가 '효심이네 각자도생’에 출연한다. 남보라가 출연하는 KBS 2TV 새 주말드라마 ‘효심이네 각자도생’(극본 조정선/연출 김형일)은 타고난 착한 성품과 따뜻한 공감능력으로 평생 가족에게 헌신했던 딸 ‘효심’이 자신을 힘들게 했던 가족에게서 벗어나 독립적인 삶을, ‘효심’의 헌신과 희생에 기생했던 가족들은 각자의 주체적]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김혜수, ‘경소문’ PD 신작 출연 검토 중]]></title>
         <id>https://v.daum.net/v/20230615130707532</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230615104808243"/>
         <updated>2023-06-15T02:14:09.703Z</updated>
         <content type="html"><![CDATA[[OSEN=장우영 기자] 배우 임시완과 넷플릭스 측이 ‘오징어 게임2’ 캐스팅과 관련한 입장을 밝혔다. 15일 임시완의 소속사 풀럼에이앤씨는 OSEN에 “임시완의 ‘오징어 게임2’ 캐스팅과 관련해서는 확인 불가”라고 입장을 밝혔다. 넷플릭스 측도 OSEN에 “현재로서는 확인해드릴 수 있는 부분이 없다”고 설명했다. ‘오징어게임’은 456억 원의 상금이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[안효섭X이성경X유연석, 모난돌 선후배 갈등 봉합하고 한팀될까]]></title>
-        <id>https://v.daum.net/v/20230615104409095</id>
-        <link href="https://v.daum.net/v/20230615104409095"/>
-        <updated>2023-06-15T02:14:09.706Z</updated>
-        <content type="html"><![CDATA[[OSEN=강서정 기자] ‘낭만닥터 김사부3’&nbsp;안효섭,&nbsp;이성경,&nbsp;유연석이 산불 재난 위기에 맞서 싸운다. SBS&nbsp;금토드라마 ‘낭만닥터 김사부3’(극본 강은경,&nbsp;임혜민, 연출 유인식,&nbsp;강보승)가 최종회를&nbsp;2회 남겨두고 눈 뗄 수 없는 긴장감을 선사하고 있다.&nbsp;지난&nbsp;14회는 전국 가구&nbsp;14.9%,&nbsp;순간 최고&nbsp;17.3%(닐슨코리아 기준)로 자체 최고 시청률을]]></content>
     </entry>
 </feed>
