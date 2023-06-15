@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2023-06-15T18:13:19.942Z</updated>
+    <updated>2023-06-15T19:09:25.294Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['출입금지' 5만 원권 속 '신사임당 초상 원본' 공개…'우리 손으로 우리 지폐를 만드는' 사람들 조명]]></title>
+        <id>https://v.daum.net/v/20230616035400923</id>
+        <link href="https://v.daum.net/v/20230616035400923"/>
+        <updated>2023-06-15T19:09:19.659Z</updated>
+        <content type="html"><![CDATA[[SBS연예뉴스 | 김효정 에디터] 5만원 권 탄생 일화가 공개됐다. 15일 방송된 SBS '관계자 외 출입금지'(이하 '출입금지')에서는 국가 보안시설 '가'급 한국조폐공사를 파헤치는 멤버들의 모습이 그려졌다. 이날 멤버들은 한국조폐공사의 구석구석을 둘러보았다. 화폐의 디자인을 총괄하는 가성현 팀장은 멤버들을 반갑게 맞았다. 멤버들은 가성현 팀장에게 디자]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[엄정화, ‘포이즌’ 무대→ ‘차정숙 인기’에 울컥 “생일같아”]]></title>
         <id>https://v.daum.net/v/20230616002100144</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230615231610559"/>
         <updated>2023-06-15T15:11:24.693Z</updated>
         <content type="html"><![CDATA[[마이데일리 = 임유리 기자] 배우 이지훈이 여자친구에게 선물을 한 적이 없다고 밝혔다. 15일 유튜브 채널 ‘노빠꾸탁재훈’에는 오는 7월 개봉 예정인 영화 ‘빈틈없는 사이’의 배우 한승연, 이지훈이 출연한 영상이 게재됐다. 영상에서 탁재훈은 이지훈에게 “연애할 때 되게 찌질이로 변한다고 들었다”라며 이에 대해 물었다. 그러자 이지훈은 “내가 먼저]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한승연 “이지훈이 좋다고 고백하면 사귈 생각 있어”]]></title>
-        <id>https://v.daum.net/v/20230615230909525</id>
-        <link href="https://v.daum.net/v/20230615230909525"/>
-        <updated>2023-06-15T14:10:38.231Z</updated>
-        <content type="html"><![CDATA[[마이데일리 = 임유리 기자] 한승연이 배우 이지훈이 고백하면 사귈 생각이 있다고 밝혔다. 15일 유튜브 채널 ‘노빠꾸탁재훈’에는 오는 7월 개봉 예정인 영화 ‘빈틈없는 사이’의 배우 한승연, 이지훈이 출연한 영상이 게재됐다. 영상에서 탁재훈은 이지훈에게 “상대 배우 캐스팅 소식을 접했을 때는 어땠냐. 한승연 씨가 마음에 들었냐”고 물었다. 이에]]></content>
     </entry>
 </feed>
