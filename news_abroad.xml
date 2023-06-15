@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-06-15T00:59:48.610Z</updated>
+    <updated>2023-06-15T02:14:26.694Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“브래드 피트와 이혼” 제니퍼 애니스톤, “새로운 남자 만나길 희망한다”]]></title>
+        <id>https://v.daum.net/v/20230615111110482</id>
+        <link href="https://v.daum.net/v/20230615111110482"/>
+        <updated>2023-06-15T02:14:26.015Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]브래드 피트(59), 저스틴 서룩스(51)와 이혼한 제니퍼 애니스톤(54)이 여전히 자신에게 맞는 이성을 만나기를 희망하고 있다. 한 소식통은 14일(현지시간) US 위클리와 인터뷰에서 "제니퍼는 직감적으로 자신이 결국 올바른 사람을 만날 것이라고 믿고 있다"고 말했다. 그러면서 "혼자서도 괜찮기 때문에 연애가 성사되지 않더]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[日 톱배우, 내연남에 보낸 불륜 러브레터 공개 “당신을 원해”]]></title>
         <id>https://v.daum.net/v/20230615093100745</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230614180012511"/>
         <updated>2023-06-14T09:12:36.264Z</updated>
         <content type="html"><![CDATA[[OSEN=지민경 기자] 일본의 톱 배우 히로스에 료코가 자필 사과문을 발표하고 불륜을 인정했다. 히로스에 료코는 14일 매니저의 인스타그램 계정을 통해 자필 사과문을 게재했다. 그는 “저의 경솔한 행동으로 인해 많은 분들께 불편과 심려를 끼쳐드린 점 깊이 사과드린다”며 “일부 주간지에 보도된 대로 토바 씨와의 관계는 기사와 대체로 같다”고 불륜 사실을]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[비틀즈, 신곡 발매...故 존 레논 목소리 AI로 복제]]></title>
-        <id>https://v.daum.net/v/20230614174208989</id>
-        <link href="https://v.daum.net/v/20230614174208989"/>
-        <updated>2023-06-14T09:12:36.265Z</updated>
-        <content type="html"><![CDATA[[TV리포트=이수연 기자] 영국의 전설적인 록 밴드 비틀즈가 돌아온다. 폴 매카트니는 13일(현지 시간) BBC 라디오4 'Today'에 출연해 비틀즈 신보 발매 계획을 알렸다. 폴 매카트니는 인공지능(AI) 기술을 통해 존 레논과 조지 해리슨의 목소리를 되살릴 수 있었다고 말하며 덕분에 새로운 비틀즈 곡이 나올 것이라고 밝혔다. 그는 "비틀즈의 마지막]]></content>
     </entry>
 </feed>
