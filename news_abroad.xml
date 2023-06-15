@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-06-15T07:11:55.554Z</updated>
+    <updated>2023-06-15T08:14:05.588Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[톰 홀랜드, ♥젠데이아 일편단심 “여자 꼬시는 능력 필요없다”]]></title>
+        <id>https://v.daum.net/v/20230615170716251</id>
+        <link href="https://v.daum.net/v/20230615170716251"/>
+        <updated>2023-06-15T08:14:04.924Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 배효주 기자] 톰 홀랜드가 연인 젠데이아와의 굳건한 애정을 과시했다. 톰 홀랜드는 최근 해외 매체 버즈피드와의 인터뷰에서 공개 열애 중인 여자친구 젠데이아와의 관계에 "갇힌 상태"라고 말했다. 해당 인터뷰에서 톰 홀랜드는 '이성을 유혹하는 능력'에 대한 질문에 "나는 행복하고, 사랑에 빠졌기 때문에 그런 능력이 필요 없다"고 답했다. 이어 "나는]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['해리포터' 집 산 주인..."관광객 매일 찾아와" 고통 호소]]></title>
         <id>https://v.daum.net/v/20230615160208050</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230615093035738"/>
         <updated>2023-06-15T00:59:47.957Z</updated>
         <content type="html"><![CDATA[[OSEN=최나영 기자] 실제로도 위대한 개츠비다. 영화 '타이타닉', '위대한 개츠비', '레버넌트', '디파티드' 등에 출연한 할리우드 톱배우 레오나르도 디카프리오(48)가 소유한&nbsp;수백만 달러짜리 4개의 집 단지는 다섯 번째 단지까지로 확장, 현재 대대적인 개조 작업 중이다. 디카프리오의 미국 할리우드 힐스에 있는 호화로운 4개의 부동산 단지는&nbsp;그의]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['촬영장 총격사고' 수사검찰 "무기관리자 숙취상태로 실탄 장전"]]></title>
-        <id>https://v.daum.net/v/20230615090847995</id>
-        <link href="https://v.daum.net/v/20230615090847995"/>
-        <updated>2023-06-15T00:59:47.957Z</updated>
-        <content type="html"><![CDATA[(로스앤젤레스=연합뉴스) 임미나 특파원 = 영화 '러스트' 촬영장에서 실탄이 장전된 총의 격발로 촬영감독이 사망한 사건을 수사해온 미국 검찰이 무기 소품 관리자의 치명적인 과실 가능성을 제기했다고 미 CNN 방송이 14일(현지시간) 보도했다. 검찰은 최근 법원에 제출한 서류에서 영화 '러스트' 촬영장의 무기 소품 관리자였던 해나 쿠티에레즈 리드가 촬영 리허]]></content>
     </entry>
 </feed>
