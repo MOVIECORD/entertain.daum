@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-06-16T22:10:29.591Z</updated>
+    <updated>2023-06-16T23:11:02.273Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['김사부3' 한석규→이성경, 팀 돌담 첫 수술 마지막 될까…산불 덮쳐 '위기']]></title>
+        <id>https://v.daum.net/v/20230617075200642</id>
+        <link href="https://v.daum.net/v/20230617075200642"/>
+        <updated>2023-06-16T23:10:46.215Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 이이진 기자) '낭만닥터 김사부3' 한석규, 유연석, 안효섭, 이성경, 김민재가 한 팀이 되어 수술을 성공적으로 마쳤다. 16일 방송된 SBS 금토드라마 '낭만닥터 김사부3'(이하 '김사부3') 15회에서는 김사부(한석규 분), 강동주(유연석), 서우진(안효섭), 차은재(이성경), 박은탁(김민재)이 함께 수술하는 모습이 그려졌다. 이날 박민국]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['좋좋소' 사장 강성훈, 사채 회사 대표된다..'우아한 제국' 합류]]></title>
         <id>https://v.daum.net/v/20230617070004218</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230616232041660"/>
         <updated>2023-06-16T15:11:20.811Z</updated>
         <content type="html"><![CDATA[[뉴스엔 서유나 기자] 한석규에게 위기가 찾아왔다. 6월 16일 방송된 SBS 금토드라마 '낭만닥터 김사부 3'(극본 강은경, 임혜민 / 연출 유인식, 강보승) 15회에서는 산불로 인해 위기에 처한 돌담병원 및 외상센터의 모습이 그려졌다. 이날 외상센터 의료진들이 강동주(유연석 분)에 대한 보이콧으로 농성 중일 때 강원도에 산불이 발생, 이에 피해를 입]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['김사부3' 한석규, 움츠린 이홍내 위로 "아주 잘하고 있어"]]></title>
-        <id>https://v.daum.net/v/20230616225608382</id>
-        <link href="https://v.daum.net/v/20230616225608382"/>
-        <updated>2023-06-16T14:10:08.675Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 | 이빛나리 기자] /사진='낭만닥터 김사부 3' 방송화면'낭만닥터 김사부3' 한석규가 이홍내를 위로했다. 16일 방송된 SBS 금토드라마 '낭만닥터 김사부3'에서 김사부(한석규 분)가 움츠려있는 이선웅(이홍내 분)을 달랬다. 이날 김사부는 홀로 좌절하고 있는 이선웅(이홍내 분)을 발견했다. 김사부는 "야. 뭐해. 다 난리인데 왜 구겨져있어"]]></content>
     </entry>
 </feed>
