@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-06-16T02:17:20.817Z</updated>
+    <updated>2023-06-16T03:12:30.112Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[톱모델 바바라 팔빈, ♥1살 연상 배우와 비밀리에 약혼 "고향에서 결혼"]]></title>
+        <id>https://v.daum.net/v/20230616120750559</id>
+        <link href="https://v.daum.net/v/20230616120750559"/>
+        <updated>2023-06-16T03:12:29.284Z</updated>
+        <content type="html"><![CDATA[[OSEN=김보라 기자] 세계적인 톱모델 바바라 팔빈이 한 살 연상의 남배우 딜런 스프라우스와 약혼했다. 이들이 지난해 9월 비밀리에 약혼했지만 9개월이나 지나서 사람들에게 밝히게 된 것이다. 15일(현지 시간) 바바라 팔빈과 딜런 스프라우스는 한 매거진과의 인터뷰에서 약혼 사실을 공식화했다. 두 사람은 지난 2018년 정식으로 교제를 시작했는데, 사실]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['조니 뎁에 합의금 13억 지급' 엠버 허드, 스페인에서 행복한 나날 “환한 미소”]]></title>
         <id>https://v.daum.net/v/20230616102811642</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230615231411548"/>
         <updated>2023-06-15T15:11:30.661Z</updated>
         <content type="html"><![CDATA[[OSEN=최나영 기자] 이른바 '대타'로 캐스팅 돼 큰 성공을 거둔&nbsp;케이스는 비단 국내 뿐만이 아니다. 아니 오히려 배우 폭이 넓은 해외 스타들에게는 좀 더 빈번하게 발생하는&nbsp;일이라고 할 수 있다. 역할과 배우는 '인연'이라고도 하는데, 업계에서는 돌고 돌아서라도 할 사람이 정해져있다는 운명론을 거론하기도 했다. 수없이 많은 케이스들이 있지만 대표적으]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“‘유부남 셰프와 불륜’ 히로스에 료코 이혼하나” 남편, 결단 내리겠다]]></title>
-        <id>https://v.daum.net/v/20230615210208689</id>
-        <link href="https://v.daum.net/v/20230615210208689"/>
-        <updated>2023-06-15T12:20:32.461Z</updated>
-        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]영화 ‘철도원’ 등으로 유명한 일본 톱 여배우 히로스에 료코(42)가 내연남에게 보낸 러브레터가 공개돼 파문이 일고 있는 가운데 남편이 이혼을 결심할 수 있다는 주장이 제기됐다. 14일 일본 주간 슈칸분슌(週刊文春·주간문춘)은 내연남인 프렌치 레스토랑 '시오(sio)'의 오너 셰프 도바 슈사쿠(45)와 주고받은 러브레터와 두]]></content>
     </entry>
 </feed>
