@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/variety</id>
     <title>다음 연예 ─ 뉴스 ─ 예능</title>
-    <updated>2023-06-17T16:12:42.559Z</updated>
+    <updated>2023-06-17T17:09:34.045Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뱀뱀 예인 ‘비긴 어게인’ 같은 설렘 “선남선녀, 풋풋해”]]></title>
+        <id>https://v.daum.net/v/20230618011700812</id>
+        <link href="https://v.daum.net/v/20230618011700812"/>
+        <updated>2023-06-17T17:09:22.042Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 이하나 기자] 뱀뱀과 예인이 ‘비긴 어게인’ 같은 명장면을 남겼다. 6월 17일 방송된 KBS 2TV ‘배틀트립2’에서 뱀뱀과 예인은 태국 치앙마이를 여행했다. 여행 첫날 두 사람은 마지막 일정으로 치앙마이에서 가장 유명한 재즈바를 갔다. 이곳에서는 매주 화요일마다 일반인도 신청하면 노래를 부를 수 있는 잼 데이가 열렸고, 뱀뱀과 예인도 갑작]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["사건의 시작"…풍자, 6kg 감량하더니 "여배우 재질"]]></title>
         <id>https://v.daum.net/v/20230618010132789</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230617235000600"/>
         <updated>2023-06-17T15:10:00.134Z</updated>
         <content type="html"><![CDATA[[뉴스엔 이슬기 기자] '전참시' 민우혁이 매니저 연애를 폭로했다. 6월 17일 방송된 MBC ‘전지적 참견 시점’(이하 전참시)에는 배우 민우혁이 출연해 일상을 공개했다. 이날 민우혁은 매니저 백예리와 이동 중 '닥터 차정숙'에 대해 말했다. 민우혁은 "넌 거기서 남자친구 만났잖아. 넌 나를 못 속여"라고 해 시선을 끌었다. 결국 백예리는 "어떤 한 분]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['전참시' 민우혁, 로이 쌤 유부남이었어? "LPG 이세미와 결혼"]]></title>
-        <id>https://v.daum.net/v/20230617234808592</id>
-        <link href="https://v.daum.net/v/20230617234808592"/>
-        <updated>2023-06-17T15:10:00.134Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 | 이시호 기자] /사진=MBC '전지적 참견 시점' 방송 화면 캡처'전참시' 배우 민우혁이 아내 이세미와의 러브스토리를 공개했다. 17일 방송된 MBC 예능 프로그램 '전지적 참견 시점'(이하 전참시)에서는 '닥터 차정숙'에서 로이 킴 역으로 열연한 민우혁의 일상이 그려졌다. 민우혁은 이날 9살 아들 박이든의 포옹으로 잠에서 깼다. 홍현]]></content>
     </entry>
 </feed>
