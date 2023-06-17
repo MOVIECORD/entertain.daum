@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2023-06-17T19:08:36.234Z</updated>
+    <updated>2023-06-17T20:11:51.987Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[트랜스젠더 모델 최한빛, 열애 1년 만 결혼…오늘 품절녀 합류]]></title>
+        <id>https://v.daum.net/v/20230618043009909</id>
+        <link href="https://v.daum.net/v/20230618043009909"/>
+        <updated>2023-06-17T20:11:45.736Z</updated>
+        <content type="html"><![CDATA[[OSEN=장우영 기자] 가수 겸 모델 최한빛이 7살 연상의 사업가와 결혼, 품절녀 대열에 합류한다. 최한빛은 오늘(18일) 자신의 고향인 강원도 강릉에서 7살 연상의 사업가와 결혼식을 올린다. 결혼식이 열리는 이날은 최한빛과 예비 신랑이 만난 지 딱 1년이 되는 날이다. 최한빛은 “코로나19로 공연이 줄어들면서 강릉에 내려와 살다가 자연스러운 자리에서]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘전참시’ 민우혁 “♥이세미와 결혼 위해 회사 나왔다...항상 고마워”]]></title>
         <id>https://v.daum.net/v/20230618005101782</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230617232026533"/>
         <updated>2023-06-17T15:10:06.293Z</updated>
         <content type="html"><![CDATA[[티브이데일리 김종은 기자] '킹더랜드' 김선영이 이준호에 경고했다. 17일 밤 첫 방송된 JTBC 새 토일드라마 '킹더랜드'(극본 최롬(팀 하리마오)·연출 임현욱) 1회에서는 가족에게 환영받지 못하는 구원(이준호)의 모습이 그려졌다. 이날 구일훈(손병호)은 인턴 첫날부터 사고를 치고 돌아온 구원에 "밑바닥부터 배우라 했더니 하루도 못 버티고 나오냐"라]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[돌담 지킨 한석규, 안효섭→이성경에 청혼…서현진 복귀]]></title>
-        <id>https://v.daum.net/v/20230617231416509</id>
-        <link href="https://v.daum.net/v/20230617231416509"/>
-        <updated>2023-06-17T15:10:06.294Z</updated>
-        <content type="html"><![CDATA[[스포츠투데이 서지현 기자] '낭만닥터 김사부3' 한석규가 돌담을 지켰다. 17일 밤 방송된 SBS 금토드라마 '낭만닥터 김사부3'(이하 '김사부3') 최종회에서는 돌담을 지켜낸 김사부(한석규)와 한층 성장한 의사들의 모습이 그려졌다. 이날 돌담병원은 대형 산불로 인해 대피해야 하는 아찔한 상황에 처했다. 그러나 돌연 김사부가 모습을 감추며 긴장감을]]></content>
     </entry>
 </feed>
