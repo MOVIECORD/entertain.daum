@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-06-17T00:56:33.883Z</updated>
+    <updated>2023-06-17T02:09:24.824Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김태희 급 아내 두고 외도를?..미녀 배우들의 ‘남편 불륜’ 잔혹사]]></title>
+        <id>https://v.daum.net/v/20230617101211083</id>
+        <link href="https://v.daum.net/v/20230617101211083"/>
+        <updated>2023-06-17T02:09:24.135Z</updated>
+        <content type="html"><![CDATA[[OSEN=박소영 기자] 할리우드의 미녀 배우들이 남편의 외도로 가슴앓이를 하고 있다. 우리나라로 치면 아내가 김태희, 손예진, 한가인 급인데 바람을 피웠다니. 물론 우리의 비, 현빈, 연정훈은 그럴리 없지만 말이다. 할리우드 미녀 배우들의 ‘남편 불륜’ 잔혹사를 짚어봤다. #나탈리 포트만 영화 ‘레옹’, ‘블랙스완’으로 국내 팬들에게도 미녀 이미지가]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이혼 합의금 13억 받은 케빈 코스트너 아내 “집 안나가, 강요하지마”]]></title>
         <id>https://v.daum.net/v/20230617093609694</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230616164030559"/>
         <updated>2023-06-16T08:13:53.951Z</updated>
         <content type="html"><![CDATA[[TV리포트=이수연 기자] 미국 유명 스타이자 사업가인 카일리 제너가 소송에 휘말렸다. 15일(현지 시간) 미국 매체 TMZ에 따르면 카일리 제너의 회사는 한 모델에게 고소당했다. 화장품 광고 사진을 위해 고용된 모델은 급여를 받지 못했다고 주장하고 있다. 모델이 주장하는 바에 의하면 그는 카일리 제너 회사에 지난 2020년 6일 일일 촬영비 2000달]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[日 유명배우, 대마 소지 혐의로 체포 “소속사도 몰랐다”]]></title>
-        <id>https://v.daum.net/v/20230616162759200</id>
-        <link href="https://v.daum.net/v/20230616162759200"/>
-        <updated>2023-06-16T08:13:53.953Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 박수인 기자] 일본 배우 나가야마 켄토가 대마 소지 혐의로 경찰에 체포됐다. 6월 16일 일본 매체 ENCOUNT는 나가야마 켄토가 이날 새벽 도쿄의 자택에서 대마 단속법 위반(소지) 혐의로 경찰에 체포됐다고 보도했다. 나가야마 켄토의 소속사 측은 "우리도 뉴스를 통해 체포 사실을 알게 됐다"며 "현재 본인의 상태는 알지 못한다. 영화 개봉을 앞]]></content>
     </entry>
 </feed>
