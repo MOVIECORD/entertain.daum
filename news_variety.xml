@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/variety</id>
     <title>다음 연예 ─ 뉴스 ─ 예능</title>
-    <updated>2023-06-18T18:12:37.420Z</updated>
+    <updated>2023-06-18T19:08:42.901Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[그리, 천만 원 올드카 구매 후 "韓 가장 큰 동호회 가입"]]></title>
+        <id>https://v.daum.net/v/20230619034504091</id>
+        <link href="https://v.daum.net/v/20230619034504091"/>
+        <updated>2023-06-18T19:08:30.976Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 노한빈 기자] 래퍼 그리가 아버지인 방송인 김구라 몰래 구매한 올드카를 공개했다. 지난 16일 유튜브 채널 '그리구라'에는 '김구라도 앉으면 3인분은 기본으로 때리는 돼지고기 맛집 (삼겹살,목살,갈비살 +그리 올드카 몰카 후기)' 영상이 공개됐다. 앞서 그리는 김구라 몰래 1,000만 원의 가격의 올드카를 구매하면서 몰래카메라를 계획한 바]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[유재석 "양세찬x전소민 같은 차 타고 주차장에.." 또 '썸' 의혹]]></title>
         <id>https://v.daum.net/v/20230619011107694</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230618232527183"/>
         <updated>2023-06-18T15:10:35.670Z</updated>
         <content type="html"><![CDATA[[스타뉴스 | 정은채 기자] /사진='안하던 짓을 하고 그래' 방송화면 캡쳐'안하던 짓을 하고 그래' 전현무가 백상예술대상 수상 불발에 대해 언급했다. 18일 오후 방송된 MBC 새 예능프로그램 '안하던 짓을 하고 그래'에서는 게스트로 전현무가 출연했다. 이날 전현무는 수많은 예능 별명 중 자신의 최애 부캐이자 별명은 '팜유 대장'이라고 밝혔다. 이에]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[임영웅, LA에서 꽃단장 후 찾아간 곳은? “첫 자작곡 30분 만에 완성”]]></title>
-        <id>https://v.daum.net/v/20230618232458179</id>
-        <link href="https://v.daum.net/v/20230618232458179"/>
-        <updated>2023-06-18T15:10:35.671Z</updated>
-        <content type="html"><![CDATA[가수 임영웅이 첫 자작곡 ‘런던 보이’ 탄생 계기에 대해 밝혔다. 6월 18일(일) 방송된 KBS2 리얼리티 예능 ‘마이 리틀 히어로’(MY LITTLE HERO) 4화에서 임영웅이 LA 여행 중 현지 라디오 방송에 출연하는 모습이 그려졌다. 이날 꽃단장을 한 임영웅은 “보통 여행할 때 아무렇게나 프리하게 다니는데 오늘은 전문가들의 도움을 좀 받았다”]]></content>
     </entry>
 </feed>

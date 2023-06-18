@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2023-06-18T18:12:37.426Z</updated>
+    <updated>2023-06-18T19:08:42.900Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['런닝맨' 양세찬-전소민-하하 '황금 R코인' 획득…운수 좋았던 유재석, '꽝 엔딩']]></title>
+        <id>https://v.daum.net/v/20230619035400101</id>
+        <link href="https://v.daum.net/v/20230619035400101"/>
+        <updated>2023-06-18T19:08:37.170Z</updated>
+        <content type="html"><![CDATA[[SBS연예뉴스 | 김효정 에디터] 양세찬, 전소민, 하하가 황금 R코인을 획득했다. 18일 방송된 SBS '런닝맨'에서는 '운수 좋은 29일 레이스'가 진행됐다. 이날 방송에서 멤버들은 각각 0부터 9까지 좋아하는 숫자 정한 후 그 숫자를 기본으로 미션에서 획득한 숫자를 더해서 행운의 수 2와 9를 만들어가는 레이스를 시작했다. 2와 9중 최종 행운의 수]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['미우새' 명세빈, "어머니의 권유로 난자 냉동…나이 많아서 괜찮을지 걱정"]]></title>
         <id>https://v.daum.net/v/20230619012100709</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230618231158135"/>
         <updated>2023-06-18T15:10:41.393Z</updated>
         <content type="html"><![CDATA[가수 임영웅이 뮤직필름을 촬영하러 떠난 LA에서의 일상을 공개했다. 임영웅은 18일 방송된 KBS2 예능 ‘마이리틀 히어로’에서 뮤직 필름 촬영 차 LA로 떠나 보내는 하루하루를 공개하며 “팬들과 더 소통할 것”이라고 밝혔다. 먼저 LA의 한 빌딩 위로 향한 임영웅은 뮤직 필름 촬영을 위해 직접 찾은 곳이라는 설명과 함께 “시내가 높은 위치에서 내려]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["결혼했다가..." 명세빈, '이혼' 언급→과거 '삭발' 후 차인 사연]]></title>
-        <id>https://v.daum.net/v/20230618231127134</id>
-        <link href="https://v.daum.net/v/20230618231127134"/>
-        <updated>2023-06-18T15:10:41.396Z</updated>
-        <content type="html"><![CDATA[[스포츠조선 조윤선 기자] 배우 명세빈이 청순하면서도 털털한 반전 매력을 발산했다. 18일 방송된 SBS '미운 우리 새끼'에는 드라마 '닥터 차정숙'에서 얄미운 불륜녀 역할을 소화한 배우 명세빈이 스페셜 MC로 출연했다. 이날 명세빈은 인기를 실감하냐는 질문에 "주변에서 밉다고 하지만 너무 좋아해 준다. 욕 많이 먹을수록 드라마 인기가]]></content>
     </entry>
 </feed>
