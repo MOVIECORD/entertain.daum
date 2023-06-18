@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2023-06-18T16:13:07.612Z</updated>
+    <updated>2023-06-18T17:09:25.447Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['미우새' 명세빈, "어머니의 권유로 난자 냉동…나이 많아서 괜찮을지 걱정"]]></title>
+        <id>https://v.daum.net/v/20230619012100709</id>
+        <link href="https://v.daum.net/v/20230619012100709"/>
+        <updated>2023-06-18T17:09:19.703Z</updated>
+        <content type="html"><![CDATA[[SBS연예뉴스 | 김효정 에디터] 명세빈이 인기를 실감한다고 했다. 18일 방송된 SBS '미운 우리 새끼'(이하 '미우새')에서는 배우 명세빈이 스페셜 MC로 등장했다. 이날 방송에서 MC들은 최근 드라마 '닥터 차정숙'에서 활약한 명세빈에 대해 미워할 수만은 없는 악역이라고 소개했다. 이에 모벤져스는 "너무 잘해서 밉더라"라고 했고, 서장훈은 동시간대]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘최강야구’ 이광길 코치 부재→안도 김문호, 젊은 피 수혈받나?]]></title>
         <id>https://v.daum.net/v/20230619010208665</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230618231127134"/>
         <updated>2023-06-18T15:10:41.396Z</updated>
         <content type="html"><![CDATA[[스포츠조선 조윤선 기자] 배우 명세빈이 청순하면서도 털털한 반전 매력을 발산했다. 18일 방송된 SBS '미운 우리 새끼'에는 드라마 '닥터 차정숙'에서 얄미운 불륜녀 역할을 소화한 배우 명세빈이 스페셜 MC로 출연했다. 이날 명세빈은 인기를 실감하냐는 질문에 "주변에서 밉다고 하지만 너무 좋아해 준다. 욕 많이 먹을수록 드라마 인기가]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['임창정 주식 논란' 직격탄 맞은 미미로즈, 눈물의 다이어트로 '컴백' 의지]]></title>
-        <id>https://v.daum.net/v/20230618230803130</id>
-        <link href="https://v.daum.net/v/20230618230803130"/>
-        <updated>2023-06-18T14:09:53.741Z</updated>
-        <content type="html"><![CDATA[[스포츠조선 이정혁 기자]'임창정 주식 논란'으로 컴백 차질이 우려됐던 그룹 미미로즈가 눈물 다이어트로 컴백 의지를 다지고 있다. 미미로즈는 임창정이 대표곡 '소주 한 잔'을 비롯해 160곡의 저작권을 판 자금으로 구성한 걸그룹으로 화제를 모았던 바. 지난해 9월 가요계에 데뷔했으며 상반기 컴백을 준비하고 있다. 최근 공개된  미미로즈(최]]></content>
     </entry>
 </feed>
