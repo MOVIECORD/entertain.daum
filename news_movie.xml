@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-06-18T05:11:25.463Z</updated>
+    <updated>2023-06-18T06:13:20.284Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[더 흥해라, 타올라라, ‘엘리멘탈’이여]]></title>
+        <id>https://v.daum.net/v/20230618144201945</id>
+        <link href="https://v.daum.net/v/20230618144201945"/>
+        <updated>2023-06-18T06:12:58.058Z</updated>
+        <content type="html"><![CDATA[기발하고도 황홀하고 경이롭다. 탄탄한 스토리 안에 다양한 즐길거리를 꽉 꽉 채워 넣었다. 누구나 호불호 없이 매료될만한 웰 메이드다.  ‘애니’라는 장르 안에 결코 가둘 수 없는 퀄리티, ‘엘리멘탈’(감독 피터 손)이다. 지난 14일 개봉한 ‘엘리멘탈’은 불, 물, 공기, 흙 4원소가 사는 ‘엘리멘트 시티’의 이야기를 담은 디즈니·픽사의 신작이다. ‘불의]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["김새론 논란에 탈모→공황" 김주환 감독, 불굴의 '사냥개들']]></title>
         <id>https://v.daum.net/v/20230618140001124</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230618082700569"/>
         <updated>2023-06-18T01:06:23.089Z</updated>
         <content type="html"><![CDATA[글로벌 신드롬을 일으킨 넷플릭스 K-시리즈 ‘오징어 게임’의 두번째 시즌을 이끌 뉴페이스 명단이 공개됐다. 바로 임시완, 강하늘, 박성훈, 양동근이다. 넷플릭스는 17일(현지시간) 브라질 상파울루에서 열린 글로벌 팬 이벤트 투둠(Tudum)에서 공개한 영상을 통해 이 같은 사실을 알렸다. 앞서 ‘오징어 게임’ 시즌1으로 제74회 프라임타임 에미상 남우주연상]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘범죄도시3’ 868만 돌파‥천만 보인다]]></title>
-        <id>https://v.daum.net/v/20230618081700501</id>
-        <link href="https://v.daum.net/v/20230618081700501"/>
-        <updated>2023-06-18T01:06:23.089Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 배효주 기자] '범죄도시3'가 868만 관객을 돌파했다. 6월 18일 영화진흥위원회 통합전산망 집계에 따르면 17일 영화 '범죄도시3'(감독 이상용)가 27만8,732명을 동원하며 전체 1위를 차지했다. 누적 관객 868만603명을 기록하며 900만 돌파를 앞두고 있는 가운데, 1천만 돌파를 이뤄낼 수 있을지 주목된다. 앞서 '범죄도시3'는 올해]]></content>
     </entry>
 </feed>
