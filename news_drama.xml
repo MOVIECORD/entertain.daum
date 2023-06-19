@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-06-19T19:09:03.712Z</updated>
+    <updated>2023-06-19T20:12:10.269Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['마당이 있는 집'이 담은 임지연, '더 글로리'와 다르다]]></title>
+        <id>https://v.daum.net/v/20230620051001072</id>
+        <link href="https://v.daum.net/v/20230620051001072"/>
+        <updated>2023-06-19T20:11:50.736Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 | 안윤지 기자] 배우 임지연이 19일 오후 서울 마포구 상암동 스탠포드 호텔에서 진행된 지니 TV 오리지널 시리즈 '마당이 있는 집' 제작발표회에 참석해 포즈를 취하고 있다.  뒷마당에서 나는 수상한 냄새로 인해 완전히 다른 삶을 살던 두 여자가 만나 벌어지는 서스펜스 스릴러 '마당이 있는 집'은 오늘(19일) 공개된다. /2023.06.19]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[권나라, 주원·수애·이다희와 한솥밥… 고스트 스튜디오와 전속계약 체결]]></title>
         <id>https://v.daum.net/v/20230620024851093</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230619204331853"/>
         <updated>2023-06-19T12:21:38.418Z</updated>
         <content type="html"><![CDATA[[스타뉴스 | 이빛나리 기자] /사진='비밀의 여자' 방송화면'비밀의 여자' 이채영이 신고은에게 최윤영과 이선호가 진짜로 이별한 게 아니라고 거짓말했다. 19일 방송된 KBS 2TV 일일드라마 '비밀의 여자'에서 정영준(이은형 분)은 정겨울(신고은 분)로 살고 있는 오세린(최윤영 분)을 못마땅해했다. 이날 서태양(이선호 분)은 정영준에게 오세린의 협박으]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘비밀의 여자’ 이채영, 또 폭주... 이선호X최윤영X신고은, 호텔로 불렀다]]></title>
-        <id>https://v.daum.net/v/20230619202930633</id>
-        <link href="https://v.daum.net/v/20230619202930633"/>
-        <updated>2023-06-19T12:21:38.419Z</updated>
-        <content type="html"><![CDATA[[TV리포트=이혜미 기자] 이채영이 이선호와 최윤영을 함정에 빠트리기 위해 새로운 계략을 짰다. 19일 KBS 2TV ‘비밀의 여자’에선 겨울(최윤영 분)과 태양(이선호 분)을 동시에 호텔로 불러내 함정에 빠트리는 애라(이채영 분)의 모습이 그려졌다. 이날 세린(신고은 분)은 겨울이 함께한 자리에 태양을 불러내곤 “오빠가 많이 좋아했어?”라고 대놓고 물었다]]></content>
     </entry>
 </feed>
