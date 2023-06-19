@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-06-19T11:10:39.901Z</updated>
+    <updated>2023-06-19T12:21:55.466Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘엘리멘탈’ 이채연, “한국인 정서 담긴 이민자 이야기에 매력 느껴”]]></title>
+        <id>https://v.daum.net/v/20230619211209175</id>
+        <link href="https://v.daum.net/v/20230619211209175"/>
+        <updated>2023-06-19T12:21:33.183Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]디즈니 픽사 영화 ‘엘리멘탈’은 한국적 정서가 듬뿍 담긴 작품이다. 피터 손(45) 감독이 부모님의 실제 이야기에서 영감을 받아 영화를 만들었고, 유학을 떠나 픽사에 합류한 이채연(34) 애니메이터가 합류해 캐릭터의 생동감을 살렸다. '엘리멘탈'은 불·물·공기·흙 4원소가 살고 있는 엘리멘트 시티에서 재치 있고 불처럼 열정]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘범죄도시3’ 마동석→이준혁, 900만 앞두고 큰절 “감사합니다”]]></title>
         <id>https://v.daum.net/v/20230619200009206</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230619192406523"/>
         <updated>2023-06-19T11:10:16.118Z</updated>
         <content type="html"><![CDATA[[스타뉴스 | 김나연 기자] 배우 마동석이 9일 오전 서울 강남구 메가박스 코엑스에서 진행된 영화 '범죄도시3'(감독 이상용) 제작발표회에 참석해 질문에 답하고 있다.   대체불가 괴물형사 마석도(마동석)가 서울 광수대로 이동 후, 신종 마약 범죄 사건의 배후인 주성철(이준혁)과 마약 사건에 연루된 또 다른 빌런 리키(아오키 무네타카)를 잡기 위해 펼치는]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘범죄도시3’ 마동석, 900만 앞둔 소감 “무슨 말 필요하겠나, 예상치 못한 큰 사랑”]]></title>
-        <id>https://v.daum.net/v/20230619192308514</id>
-        <link href="https://v.daum.net/v/20230619192308514"/>
-        <updated>2023-06-19T11:10:16.120Z</updated>
-        <content type="html"><![CDATA[배우 마동석이 ‘범죄도시3’ 흥행 소감을 밝혔다. ‘범죄도시3’ 글로벌 흥행 감사 쇼케이스가 19일 서울 강남구 메가박스 코엑스에서 개최됐다. 현장에는 마동석, 이준혁과 김민재, 전석호, 안세호, 이상용 감독이 참석했다. 이날 마동석은 “무슨 말이 필요하겠나. 예상치 못하게 큰 사랑을 받고 있고 흥행하게 돼서 진심으로 감사드린다”고 말문을 열었다.]]></content>
     </entry>
 </feed>
