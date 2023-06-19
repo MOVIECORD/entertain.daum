@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/variety</id>
     <title>다음 연예 ─ 뉴스 ─ 예능</title>
-    <updated>2023-06-19T09:12:38.176Z</updated>
+    <updated>2023-06-19T10:12:12.560Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[신다은, ♥임성빈에 오빠라 불렀다 '깜짝' "아 뭐!"]]></title>
+        <id>https://v.daum.net/v/20230619185602040</id>
+        <link href="https://v.daum.net/v/20230619185602040"/>
+        <updated>2023-06-19T10:12:00.672Z</updated>
+        <content type="html"><![CDATA[[텐아시아=이준현 기자] 배우 신다은이 임성빈과 성수동 데이트를 즐겼다. 신다은은 19일 "연애할 때 성수동에서 데이트 많이 해서 그랬나 나 도모르게 오빠.. 라고 부름"이라고 적었다. 함께 공개한 사진 속에는 하얀 원피스를 입은 임성빈이 한 손에는 꽃다발을 들고 성수동 거리를 걷고 있다. 신다은은 여친짤을 따라 하듯 한 손을 임성빈에게 뻗으며 환하게]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[7년째 관계 無, 남편에겐 "오빠" 수상한 문자까지…아내 눈물펑펑]]></title>
+        <id>https://v.daum.net/v/20230619181502162</id>
+        <link href="https://v.daum.net/v/20230619181502162"/>
+        <updated>2023-06-19T10:12:00.673Z</updated>
+        <content type="html"><![CDATA[7년 넘게 '섹스리스'로 지내온 배우 홍승범 권영경 부부가 부부관계에 대한 고민을 털어놓는다. 19일 방송되는 MBC 예능 프로그램 '오은영 리포트-결혼 지옥'에서는 홍승범 권영범 부부가 출연해 정신건강의학과 전문의 오은영 박사에 게 또 다른 부부 갈등을 털어놓는다. 이들 부부는 과거 부부 관계에 관한 기록을 다이어리에 남길 정도로 부부 사이가 좋았]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[파트리샤 "김해준, 친오빠 조나단 이겼으면 좋겠다"]]></title>
         <id>https://v.daum.net/v/20230619180807970</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230619161107962"/>
         <updated>2023-06-19T07:12:07.010Z</updated>
         <content type="html"><![CDATA[[엔터미디어=김교석의 어쩌다 네가] MBC 예능 &lt;놀면 뭐하니?&gt;가 어려움을 겪는 진짜 이유를 아는가? 김태호 PD가 떠난 후 이어받은 제작진의 역량이나 멤버 역량 때문이 아니다. 리얼버라이어티식의 캐릭터쇼에 대한 환상이 빚은 결과다. 김태호 PD가 유산슬로 대박을 내고, 이후 '싹쓰리', '환불원정대' 등의 음악예능을 펼쳤을 때와 지금의 가장 큰 차이 또]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['세치혀' 일냈다, 유럽 6개국 수출.."'피지컬100' 아닌 '혓바닥100'"]]></title>
-        <id>https://v.daum.net/v/20230619160009403</id>
-        <link href="https://v.daum.net/v/20230619160009403"/>
-        <updated>2023-06-19T07:12:07.010Z</updated>
-        <content type="html"><![CDATA[[OSEN=박소영 기자] MBC 예능 프로그램 ‘혓바닥 종합격투기&nbsp;세치혀’(이하 ‘세치혀‘, 연출 한승훈, 김진경)가 유럽 주요 제작사들과 포맷 옵션 계약을 체결했다. ’세치혀‘는 다양한 장르에서 혓바닥으로 먹고 사는 입담꾼들이 오로지 이야기 하나만으로 겨루는 대한민국 최초의 ’썰 스포츠‘ 프로그램이다. 스토리텔링의 절정에서 이야기를 멈추는 ‘절단신공’]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[강산에 “제주도서 8년째 누리며 살아, 집도 짓고 있어”]]></title>
-        <id>https://v.daum.net/v/20230619154002584</id>
-        <link href="https://v.daum.net/v/20230619154002584"/>
-        <updated>2023-06-19T07:12:07.010Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 하지원 기자] 가수 강산에가 제주도에 집을 짓고 있다고 밝혔다. 6월 19일 방송된  SBS 파워FM '두시탈출 컬투쇼'(이하 컬투쇼)는 제주 특집으로 꾸며진 가운데, 가수 린, 이정, 강산에가 게스트로 출연했다. 강산에는 "제주도에서 8년째 살고 있다. 시간이 금방 간 것 같다. 하루하루 누리고 만끽하며 살고 있다"고 근황을 전했다. 강산에는]]></content>
     </entry>
 </feed>
