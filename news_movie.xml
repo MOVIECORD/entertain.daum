@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-06-19T12:21:55.466Z</updated>
+    <updated>2023-06-19T13:15:48.054Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김강우 "'귀공자'에서 지금껏 한 악역 중 가장 수위 센 악역 연기"]]></title>
+        <id>https://v.daum.net/v/20230619220134668</id>
+        <link href="https://v.daum.net/v/20230619220134668"/>
+        <updated>2023-06-19T13:15:26.357Z</updated>
+        <content type="html"><![CDATA[박훈정 감독의 신작 '귀공자'에서 '마르코'를 집요하게 쫓는 재벌 2세 '한이사'를 연기한 김강우를 만났다. 김강우는 필리핀 불법 경기장을 전전하는 복싱 선수 '마르코' 앞에 정체불명의 남자 '귀공자'를 비롯한 각기 다른 목적을 지닌 세력들이 나타나 광기의 추격을 펼치는 이야기 '귀공자'에서 어머니의 수술비 마련을 위해 한국으로 건너온 '마르코'를 집]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“픽사 감독 되고 싶어”…‘엘리멘탈’ 이채연 애니메이터]]></title>
+        <id>https://v.daum.net/v/20230619212343289</id>
+        <link href="https://v.daum.net/v/20230619212343289"/>
+        <updated>2023-06-19T13:15:26.358Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]‘엘리멘탈’의 이채연(34) 애니메이터는 대학을 졸업한 뒤 게임회사에서 일했다. 픽사 영화를 보고 애니메이션으로 감동을 주고 싶다는 생각에 11년전 캐나다로 유학을 떠났다. 소니픽처스에서 4년간 ‘스파이더맨:뉴 유니버스’ ‘앵그리버드2’ 등을 작업했다. 꿈을 이루기 위해 코로나 팬데믹 기간에 픽사로 자리를 옮겼다. 첫 작품인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘엘리멘탈’ 이채연, “한국인 정서 담긴 이민자 이야기에 매력 느껴”]]></title>
         <id>https://v.daum.net/v/20230619211209175</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230619192507540"/>
         <updated>2023-06-19T11:10:16.116Z</updated>
         <content type="html"><![CDATA[[TV리포트=김유진 기자]영화 범죄도시3가 누적관객수 900만을 앞두고 감사 쇼케이스를 열었다. 19일 naver NOW 에서는 범죄도시3 출연 배우들과 감독이 관객들의 질의응답에 대답하는 쇼케이스 현장이 공개됐다. 이날 행사는 박경림이 MC를 맡아 영화 범죄도시3에 출연하는 배우, 감독과 다양한 질문을 주고 받는 시간이었다. 박경림은 이상용 감독에게 "매]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['범죄도시3' 전석호 "장염하면 생각나는 男…흥행 처음이라 얼떨떨"]]></title>
-        <id>https://v.daum.net/v/20230619192437532</id>
-        <link href="https://v.daum.net/v/20230619192437532"/>
-        <updated>2023-06-19T11:10:16.117Z</updated>
-        <content type="html"><![CDATA[(서울=뉴스1) 고승아 기자 = 배우 전석호가 흥행에 대한 얼떨떨한 심경을 밝혔다. 19일 오후 서울 강남구 메가박스 코엑스에서 영화 '범죄도시3' 글로벌 흥행 감사 쇼케이스가 열려 마동석, 이준혁, 김민재, 전석호, 안세호, 이상용 감독이 참석했다. 이날 행사는 네이버 나우를 통해서도 생중계됐다. 이날 마동석은 "오늘 감기와 장염으로 인해 횡설수설 하]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[마동석 "'범죄도시3' 개봉 후 복싱 수강생 늘어..보여줄 액션 多"]]></title>
-        <id>https://v.daum.net/v/20230619192406523</id>
-        <link href="https://v.daum.net/v/20230619192406523"/>
-        <updated>2023-06-19T11:10:16.118Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 | 김나연 기자] 배우 마동석이 9일 오전 서울 강남구 메가박스 코엑스에서 진행된 영화 '범죄도시3'(감독 이상용) 제작발표회에 참석해 질문에 답하고 있다.   대체불가 괴물형사 마석도(마동석)가 서울 광수대로 이동 후, 신종 마약 범죄 사건의 배후인 주성철(이준혁)과 마약 사건에 연루된 또 다른 빌런 리키(아오키 무네타카)를 잡기 위해 펼치는]]></content>
     </entry>
 </feed>
