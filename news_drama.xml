@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-06-20T09:12:06.884Z</updated>
+    <updated>2023-06-20T10:12:15.390Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['가슴이 뛴다'는 목숨 바친 사랑 이야기…이현석 감독 '극찬' 세례]]></title>
+        <id>https://v.daum.net/v/20230620182144653</id>
+        <link href="https://v.daum.net/v/20230620182144653"/>
+        <updated>2023-06-20T10:11:58.411Z</updated>
+        <content type="html"><![CDATA[[OSEN=장우영 기자] ‘가슴이 뛴다’를 연출한 이현석 감독이 작품에 ‘진심’인 마음을 전했다. 오는 26일 밤 9시 45분 첫 방송 예정인 KBS2 새 월화드라마 ‘가슴이 뛴다’(극본 김하나 정승주, 연출 이현석 이민수, 제작 위매드, 몬스터유니온)는 100년 중 하루 차이로 인간이 되지 못한 반인뱀파이어 선우혈과 인간미라고는 찾아볼 수 없는 여자]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘어쩌다 마주친, 그대’ 지혜원 “악역이지만 애틋, 고마운 캐릭터” 종영소감]]></title>
         <id>https://v.daum.net/v/20230620181006335</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230620154019359"/>
         <updated>2023-06-20T07:10:35.541Z</updated>
         <content type="html"><![CDATA[[OSEN=유수연 기자]&nbsp;배우 우현진이 ‘구미호뎐1938’ 캐스팅을 위해 노력한 부분을 언급했다. ‘구미호뎐1938’에서 인간 어부인 아버지와 인어 어머니 사이에서 태어난 반쪽자리 인어 장여희 역을 맡아 열연을 펼친 우현진은 극중 라이브 가수로 분해 노래를 부르는 장면은 물론, 승마, 수중촬영, 액션 등 여러 분야의 연기를 소화해냈다. 우현진은 “작품]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['어그대' 오늘 최종회..김동욱X진기주, 타임머신 고쳐 2021년 돌아갈까]]></title>
-        <id>https://v.daum.net/v/20230620153301032</id>
-        <link href="https://v.daum.net/v/20230620153301032"/>
-        <updated>2023-06-20T07:10:35.543Z</updated>
-        <content type="html"><![CDATA[[OSEN=최나영 기자]&nbsp;‘어쩌다 마주친, 그대’의 김동욱과 진기주가 1987년을 떠나지 못하고 다시 머물게 되면서 특별한 시간을 보낸다. 20일(오늘) 방송되는 KBS 2TV 월화드라마 ‘어쩌다 마주친, 그대’(연출 강수연, 이웅희 / 극본 백소연 / 제작 아크미디어) 최종회에서는 ‘우정리 연쇄 살인사건’을 해결한 윤해준(김동욱 분)과 백윤영(진기주]]></content>
     </entry>
 </feed>
