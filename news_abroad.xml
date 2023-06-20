@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-06-20T10:12:15.392Z</updated>
+    <updated>2023-06-20T11:09:51.587Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[브리트니 스피어스, 배우 여동생과 아직도 불화...母 "제발 화해해"]]></title>
+        <id>https://v.daum.net/v/20230620192830135</id>
+        <link href="https://v.daum.net/v/20230620192830135"/>
+        <updated>2023-06-20T11:09:50.830Z</updated>
+        <content type="html"><![CDATA[[TV리포트=이수연 기자] 팝스타 브리트니 스피어스가 영화배우 동생 제이미 린 스피어스와 여전히 사이가 좋지 않다. 19일(현지 시간) 영국 데일리 메일에 따르면 브리트니 스피어스의 엄마 린 스피어스(68)는 두 딸의 관계 회복에 힘쓰고 있다. 브리트니 스피어스(41)는 2008년부터 2022년까지 약 13년간 성년 후견인 제도 하에 부친인 제이미 스피]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[제라드 피케, 불륜녀와 한 달 안에 결혼?‥전 부인 샤키라 반응 어떨까]]></title>
         <id>https://v.daum.net/v/20230620185256358</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230620142031262"/>
         <updated>2023-06-20T06:15:55.489Z</updated>
         <content type="html"><![CDATA[[TV리포트=유비취 기자] 가수 비비 렉사가 공연 중 관객의 무례한 행동에 부상까지 입었다. 지난 18일(현지 시간) 미국 뉴욕에서 콘서트 공연을 이어가던 비비 렉사(33)가 관객이 던진 휴대폰에 맞았다. 이로 인해 비비 렉사는 피멍에 들고 봉합술까지 받아야 했다. 무대 위에서 날아오는 휴대폰에 맞은 비비 렉사는 고통을 호소해 팬들의 우려를 샀다. 그는 휴]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[톰 크루즈 "배우라는 직업, 엄청난 '특혜' 받는다"]]></title>
-        <id>https://v.daum.net/v/20230620140031497</id>
-        <link href="https://v.daum.net/v/20230620140031497"/>
-        <updated>2023-06-20T05:11:54.625Z</updated>
-        <content type="html"><![CDATA[[TV리포트=유비취 기자] 할리우드 대표 배우 톰 크루즈가 직업적으로 받는 특혜에 대해 언급했다. 19일(현지 시간) 이탈리아 로마에서 톰 크루즈(60)는 '미션 임파서블: 데드 레코닝 PART ONE'(이하 '미션 임파서블 7') 시사회에 참석했다. 그는 버라이어티와의 인터뷰에서 자신의 직업이 특권을 누리고 있다고 고백했다. 톰 크루즈는 배우로서 전 세계]]></content>
     </entry>
 </feed>
