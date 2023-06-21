@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-06-21T09:11:21.759Z</updated>
+    <updated>2023-06-21T10:11:57.499Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["제발 만화로 남아줘"..1000억 들인 '원피스', 첫 항해부터 불안]]></title>
+        <id>https://v.daum.net/v/20230621185120567</id>
+        <link href="https://v.daum.net/v/20230621185120567"/>
+        <updated>2023-06-21T10:11:37.691Z</updated>
+        <content type="html"><![CDATA[[OSEN=장우영 기자] 역사상 최고의 만화로 손꼽히는 ‘원피스’의 실사화의 예고편이 공개된 가운데 극과 극으로 반응이 엇갈리고 있다. 괜한 실사화로 흑역사에 등재될지, 만화 만큼이나 역사에 남을 실사화 드라마로 기록에 남을지 궁금해진다. 오다 에이치로의 만화 ‘원피스’는 1997년 일본 주간 소년 점프에서의 연재를 시작으로 2023년 현재까지도 연재가]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘킹더랜드’ 단숨에 넷플릭스 글로벌 3위… ‘차정숙’ 열풍 이을까]]></title>
         <id>https://v.daum.net/v/20230621180009291</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230621145943154"/>
         <updated>2023-06-21T06:14:19.196Z</updated>
         <content type="html"><![CDATA[[뉴스엔 김명미 기자] ‘가슴이 뛴다’가 특별하고도 운명적인 관계성을 예고했다. 6월 26일 오후 9시 45분 첫 방송 예정인 KBS 2TV 새 월화드라마 ‘가슴이 뛴다’(연출 이현석, 이민수 / 극본 김하나, 정승주 / 제작 위매드, 몬스터유니온)는 100년 중 하루 차이로 인간이 되지 못한 반인뱀파이어 선우혈과 인간미라고는 찾아볼 수 없는 여자 주인해]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘어그대’ 정가희 종영소감 “선물같이 찾아온 친구”]]></title>
-        <id>https://v.daum.net/v/20230621145507937</id>
-        <link href="https://v.daum.net/v/20230621145507937"/>
-        <updated>2023-06-21T06:14:19.198Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 이민지 기자] 배우 정가희가 드라마 종영소감을 전했다. KBS 2TV 월화드라마 '어쩌다 마주친, 그대'에서 교생 이주영 역으로 출연한 배우 정가희가 6월 21일 애정 가득한 마지막 인사를 전했다. 정가희는 20일 종영한 '어쩌다 마주친, 그대'에서 우정리 연쇄살인사건의 첫번째 피해자 '이주영' 역할을 맡아 시청자들의 눈도장을 찍었다. 정가희는]]></content>
     </entry>
 </feed>
