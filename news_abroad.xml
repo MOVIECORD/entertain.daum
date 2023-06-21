@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-06-20T23:11:56.963Z</updated>
+    <updated>2023-06-21T01:00:32.483Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[히로스에 료코, '불륜' 해도 잘 나가...드라마 시청률 16.8%]]></title>
+        <id>https://v.daum.net/v/20230621095500256</id>
+        <link href="https://v.daum.net/v/20230621095500256"/>
+        <updated>2023-06-21T01:00:31.701Z</updated>
+        <content type="html"><![CDATA[[TV리포트=유비취 기자] 불륜으로 논란에 선 일본 배우 히로스에 료코가 방송 출연을 이어간다. 19일 NHK 측은 연속 드라마 '란만'에서 히로스에 료코(42) 등장 장면이 편집되지 않고 송출될 것이라고 발표했다. 최근 히로스에 료코는 유명 셰프와의 불륜을 인정하고 소속사로부터 무기한 근신 처분을 받았다. '란만'은 고치현 출신의 식물학자 마키노 토미타로]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[테일러 스위프트, 2024년 투어 일정 공개…日 포함·韓 제외]]></title>
         <id>https://v.daum.net/v/20230621074338494</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230620160502608"/>
         <updated>2023-06-20T07:10:52.038Z</updated>
         <content type="html"><![CDATA[(엑스포츠뉴스 오승현 기자) '헤이 마마' 노래로 한국에서도 유명한 미국 톱가수 비비 렉사(Bebe Rexha)가 공연 중 관객이 던진 휴대폰에 얼굴 부상을 입었다. 19일(현지시간) 미국 연예 매체 피플, CNN 등은 지난 18일 경 뉴욕에서 진행된 공연 '더 루프톱 앳 파이어 17'에서 무대에 오른 비비 렉사를 향해 한 관객이 휴대폰을 던졌다고 보도했다]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['비틀즈' 폴 매카트니 "故 존 레논, 힘들었던 삶...3살부터 아빠 없었다"]]></title>
-        <id>https://v.daum.net/v/20230620152030548</id>
-        <link href="https://v.daum.net/v/20230620152030548"/>
-        <updated>2023-06-20T07:10:52.038Z</updated>
-        <content type="html"><![CDATA[[TV리포트=유비취 기자] 전설적인 밴드 비틀즈 출신 폴 매카트니가 동료 존 레논에 대해 솔직한 심정을 털어놨다. 지난 15일(현지 시간) 팟캐스트 '코난 오브라이언은 친구가 필요해'에 출연한 폴 매카트니(81)가 고인이 된 동료 존 레논의 인생에 대해 안타까움을 전했다. 폴 매카트니는 오래전 비틀즈 사진에 대해 얘기하면서 존 레논을 언급했다. 폴 매카트]]></content>
     </entry>
 </feed>
