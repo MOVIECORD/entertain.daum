@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/variety</id>
     <title>다음 연예 ─ 뉴스 ─ 예능</title>
-    <updated>2023-06-21T16:21:43.662Z</updated>
+    <updated>2023-06-21T17:10:21.698Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['나는솔로' 변호사 15기 광수, 옥순x영자 삼각관계 가나]]></title>
+        <id>https://v.daum.net/v/20230622014540264</id>
+        <link href="https://v.daum.net/v/20230622014540264"/>
+        <updated>2023-06-21T17:10:10.329Z</updated>
+        <content type="html"><![CDATA[[OSEN=오세진 기자] ‘나는 솔로’ 15기 광수의 매력은 끝이 없는 듯하다. 21일 방영된 SBS 예능 ‘나는 솔로’(이하 ‘나는솔로’)에서는 첫 데이트가 이뤄졌다. 여성 선택의 첫 데이트였다. 여성들은 어떤 남성과 데이트를 할지 허심탄회하게 이야기를 나누었는데 그중 솔직함이 남달랐다.&nbsp;정숙은 “처음부터 호감을 보이면, 나중에 다른 사람도 궁금하다,]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[순자, 남이 마시던 음료도 상관없어? 이이경 “내 스타일” 감탄]]></title>
         <id>https://v.daum.net/v/20230622010005133</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230621234005351"/>
         <updated>2023-06-21T15:11:44.865Z</updated>
         <content type="html"><![CDATA[콜린 벨 감독이 ‘골때녀’에 떴다. 21일(수) 방송된 SBS ‘골 때리는 그녀들’ 98회에서는 FC액셔니스타(이영진, 이혜정, 정혜인, 이채영, 문지인, 박하나)와 FC월드클라쓰(에바, 사오리, 엘로디, 라라, 케시, 나티)의 대망의 결승전이 펼쳐졌다. 앞서 대한민국 여자축구 국가대표팀 감독 콜린 벨이 결승전을 직접 관전하기 위해 경기장을 찾았다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['라스' 신현수, 김구라 라인 자연 탑승.."본적이 인천"]]></title>
-        <id>https://v.daum.net/v/20230621233958348</id>
-        <link href="https://v.daum.net/v/20230621233958348"/>
-        <updated>2023-06-21T15:11:44.867Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 | 김지은 인턴기자] /사진='라디오스타' 화면 캡처배우 신현수가 '라디오스타'에 출연한 소감을 밝혔다. 21일 방송된 MBC 예능 프로그램 '라디오스타'에서는 '2023 방플릭스' 특집으로 최진혁, 김영재, 배유람, 신현수가 출연해 토크를 하는 모습이 담겼다. 신현수는 드라마 '황금빛 내 인생', '청춘시대' 등에 출연하면서 인지도를 쌓았고]]></content>
     </entry>
 </feed>
