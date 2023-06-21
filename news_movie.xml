@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-06-21T18:13:17.407Z</updated>
+    <updated>2023-06-21T19:09:10.315Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“깔끔하고 천진난만하지만 잔인한 캐릭터 표현했어요”]]></title>
+        <id>https://v.daum.net/v/20230622040819832</id>
+        <link href="https://v.daum.net/v/20230622040819832"/>
+        <updated>2023-06-21T19:08:45.387Z</updated>
+        <content type="html"><![CDATA[언뜻 보면 호감형에 깔끔한 인상을 주는 남자다. 슈트를 입고 머리를 곱게 빗어 넘긴 이 남자는 아이같이 천진난만한 웃음소리를 내며 무섭게 한 사람만 추격한다. 어디서도 보지못한, ‘깔끔하게 미친’ 독특한 캐릭터다. 오는 21일 개봉하는 영화 ‘귀공자’는 광기 가득한 추격자 귀공자(김선호)와 ‘쫓기는 놈’ 마르코(강태주), 맹수같이 잔인한 한이사(김강우)와]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이병헌 중심으로 모였다...'이병헌 유토피아' 혹은 '콘크리트 유토피아']]></title>
         <id>https://v.daum.net/v/20230622004005034</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230621165331960"/>
         <updated>2023-06-21T08:13:39.586Z</updated>
         <content type="html"><![CDATA[(엑스포츠뉴스 김유진 기자) 영화 '좋.댓.구(좋아요.댓글.구독)'(감독 박상민)가 어디서도 보지 못한 특별출연 라인업을 선보였다. '좋.댓.구'는 박찬욱 감독의 영화 '올드보이'의 오대수 아역으로 한 때 이름을 날렸던 배우 오태경(오태경 분)이 유튜브의 노예로 화려하게 '떡상' 길을 걷던 중 한순간에 주작 논란에 휩싸이면서 벌어지는 이야기를 담은 영화다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[英 배우 줄리안 샌즈, 여전히 행방불명 "수색 난항"]]></title>
-        <id>https://v.daum.net/v/20230621164535670</id>
-        <link href="https://v.daum.net/v/20230621164535670"/>
-        <updated>2023-06-21T08:13:39.586Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 | 김노을 기자] 줄리안 샌즈 / 사진=/AFPBBNews=뉴스1=스타뉴스실종된 영국 배우 줄리안 샌즈에 대한 수색 작업이 재개됐다. 20일(현지시간) CNN은 지난 1월 미국 캘리포니아주의 산에서 등산을 하다 실종돼 행방불명 상태인 줄리안 샌즈에 대한 수색이 최근 재개됐다고 보도했다. 보도에 따르면 구조 당국은 수색을 이어가는 동시에 서부]]></content>
     </entry>
 </feed>
