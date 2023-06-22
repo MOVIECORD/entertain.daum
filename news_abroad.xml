@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-06-22T04:12:56.528Z</updated>
+    <updated>2023-06-22T05:11:04.433Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[케빈 코스트너와 이혼한 아내 “아이 3명 한달 양육비 3억원 줘, 최소비용이야”]]></title>
+        <id>https://v.daum.net/v/20230622132912526</id>
+        <link href="https://v.daum.net/v/20230622132912526"/>
+        <updated>2023-06-22T05:11:03.572Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]할리우드 스타 케빈 코스트너(68)에 이혼소송을 제기한 아내 크리스틴 바움가르트너(49)가 매달 3억원의 양육비를 요구하는 것으로 알려졌다. 21일(현지시간) 페이지식스에 따르면 바움가르트너는 케이든 와이어트(16), 헤이즈 로건(14), 그레이스 에이버리(13)를 키우는데 한달에 24만 8,000달러(3억 2,029만원)가]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[해리 스타일스, 임신한 팬 힘들어하자 콘서트 중단…훈훈 미담]]></title>
         <id>https://v.daum.net/v/20230622122030037</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230622065724509"/>
         <updated>2023-06-21T22:10:17.887Z</updated>
         <content type="html"><![CDATA[[스포츠서울 | 김지윤기자] 구준엽과 서희원이 악성 루머에 시달리고 있다. 최근 구준엽과 서희원이 있는 대만에서는 미투(#MeToo·나도 고발한다) 운동이 번지고 있고, 이때 대만의 국민 MC 미키 황이 모든 의혹을 인정하고, 사과하며 극단적 선택을 해 병원에 실려 갔다. 그러나 이 과정에서 미키 황은 다른 연예인들에 대해 확인되지 않은 루머를 폭로했]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[구준엽♥서희원, 뜬금포 ‘마약 투약’ 의혹?…”법적 대응할 것” 성명]]></title>
-        <id>https://v.daum.net/v/20230621234322372</id>
-        <link href="https://v.daum.net/v/20230621234322372"/>
-        <updated>2023-06-21T15:11:55.239Z</updated>
-        <content type="html"><![CDATA[[OSEN=유수연 기자]&nbsp;구준엽의 아내인 대만 배우 서희원이 갑작스레 ‘마약 투약’ 의혹에 휩싸이자 즉각 반응했다. 19일(현지시각) 대만 현지 다수 매체에 따르면, 이날 오후 12시 40분께&nbsp;대만의 국민MC 미키 황이 극단적 선택을 해 병원에 실려갔다. 극단적 선택을 시도한 미키 황은 최근 대만의 ‘미투’ 폭로에 휩싸였다. 이날 대만 여성 A씨는 자신]]></content>
     </entry>
 </feed>
