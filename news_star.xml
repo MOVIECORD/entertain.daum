@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2023-06-22T16:14:02.284Z</updated>
+    <updated>2023-06-22T17:13:06.310Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['출입금지' 입법 조사관, "사명감을 갖고 국민의 삶과 직결되는 법과 정책 만들 것"]]></title>
+        <id>https://v.daum.net/v/20230623013000687</id>
+        <link href="https://v.daum.net/v/20230623013000687"/>
+        <updated>2023-06-22T17:13:00.142Z</updated>
+        <content type="html"><![CDATA[[SBS연예뉴스 | 김효정 에디터] 입법 조사관들이 앞으로의 각오를 밝혔다. 22일 방송된 SBS '관계자 외 출입금지'(이하 '관출금')에서는 세 번째 출입금지 구역인 국회의사당을 찾은 멤버들의 모습이 그려졌다. 이날 멤버들은 국회 곳곳을 돌아보고 입법 조사관들과 만났다. 입법 조사관들은 행정안전위원회 전체 회의를 주관하는 회의실로 김종국과 딘딘을 데려갔]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김준호 "신혼집 찾기" vs 김지민 "사회적 유부녀? 부담"]]></title>
         <id>https://v.daum.net/v/20230623003951476</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230622233914798"/>
         <updated>2023-06-22T15:11:16.004Z</updated>
         <content type="html"><![CDATA[(서울=뉴스1) 박하나 기자 = 가수 겸 배우 엄정화가 '댄스가수 유랑단'을 통해 팬 사인회를 진행했다. 22일 오후 방송된 tvN 예능 프로그램 '댄스가수 유랑단'에서는 팬들과 만난 유랑단(김완선, 엄정화, 이효리, 보아, 화사)의 모습이 담겼다. 이날 유랑단의 팬 사인회 현장이 공개됐다. 엄정화는 20년 이상 곁을 지켜온 팬들과 만나 눈길을 끌었다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['구해줘! 홈즈' 김대호, 新코너 론칭 '집 보러 왔는대호~']]></title>
-        <id>https://v.daum.net/v/20230622233806781</id>
-        <link href="https://v.daum.net/v/20230622233806781"/>
-        <updated>2023-06-22T15:11:16.005Z</updated>
-        <content type="html"><![CDATA[[티브이데일리 김진석 인턴기자] '구해줘! 홈즈'에서 '대세 자연인 아나운서' 김대호가 자신의 이름을 건 새 코너를 신설했다 22일 밤 방송된 MBC 예능프로그램 '구해줘! 홈즈'에서는 목요일로 시간대를 옮긴 기념, 새로운 코너 '집 보러 왔는 대호'를 론칭했다. 패널로 등장한 김대호는 "요즘 유행하는 5도 2촌에 대해 알고 계시냐?"며 운을 떼며 최근 유]]></content>
     </entry>
 </feed>
