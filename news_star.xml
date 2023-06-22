@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2023-06-22T18:13:06.545Z</updated>
+    <updated>2023-06-22T19:10:54.068Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“내 아내도 ‘우영우’ 팬… K콘텐츠 대단한 잠재력”]]></title>
+        <id>https://v.daum.net/v/20230623040433135</id>
+        <link href="https://v.daum.net/v/20230623040433135"/>
+        <updated>2023-06-22T19:10:48.391Z</updated>
+        <content type="html"><![CDATA[“제 아내도 ‘이상한 변호사 우영우’의 팬입니다.” 글로벌 온라인 동영상 서비스(OTT) 넷플릭스의 테드 서랜도스 넷플릭스 공동최고 경영 책임자(CEO)는 한국 콘텐츠 창작자들을 만난 자리에서 ‘우영우’를 비롯해 ‘오징어 게임’, ‘더 글로리’, ‘피지컬: 100’ 등 다양한 한국 콘텐츠를 언급했다. 그는 22일 서울 종로구 포시즌스 호텔 서울에서 열린]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['출입금지' 입법 조사관, "사명감을 갖고 국민의 삶과 직결되는 법과 정책 만들 것"]]></title>
         <id>https://v.daum.net/v/20230623013000687</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230622234024816"/>
         <updated>2023-06-22T15:11:16.001Z</updated>
         <content type="html"><![CDATA[[OSEN=김채연 기자] 장항준이 자신의 별명인 ‘신이 내린 꿀팔자’에 대해 이야기했다. 22일 유튜브 채널 ‘뜬뜬’에는 ‘미스터리는 핑계고’라는 제목으로 새 영상이 게재됐다. 해당 영상에는 장항준 감독, 김은희 작가 부부가 출연했다. 이날 유재석은 “형 별명 중에 하나가 ‘신이 내린 꿀팔자’ 아니야. 근데 이게 나름의 고충이 있을거야?”라고 물었고,]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[엄정화, 20년 이상 팬들과의 만남에 눈물…"예전보다 용기 생겨"]]></title>
-        <id>https://v.daum.net/v/20230622233914798</id>
-        <link href="https://v.daum.net/v/20230622233914798"/>
-        <updated>2023-06-22T15:11:16.004Z</updated>
-        <content type="html"><![CDATA[(서울=뉴스1) 박하나 기자 = 가수 겸 배우 엄정화가 '댄스가수 유랑단'을 통해 팬 사인회를 진행했다. 22일 오후 방송된 tvN 예능 프로그램 '댄스가수 유랑단'에서는 팬들과 만난 유랑단(김완선, 엄정화, 이효리, 보아, 화사)의 모습이 담겼다. 이날 유랑단의 팬 사인회 현장이 공개됐다. 엄정화는 20년 이상 곁을 지켜온 팬들과 만나 눈길을 끌었다.]]></content>
     </entry>
 </feed>
