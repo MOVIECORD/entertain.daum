@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-06-22T08:19:15.589Z</updated>
+    <updated>2023-06-22T09:10:48.488Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[박주미 "'아씨 두리안', 욕설+과일로 알더라"…임성한의 작명 센스]]></title>
+        <id>https://v.daum.net/v/20230622175002727</id>
+        <link href="https://v.daum.net/v/20230622175002727"/>
+        <updated>2023-06-22T09:10:31.812Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 오승현 기자) '파격의 대명사' 임성한 작가가 돌아왔다. 22일 오후 TV조선 미니 시리즈 '아씨 두리안'(극본 피비(Phoebe, 임성한), 연출 신우철·정여진) 온라인 제작발표회가 진행됐다. 이 자리에는 배우 박주미, 최명길, 김민준, 한다감, 전노민, 윤해영, 지영산, 유정후, 이다연과 신우철 감독이 참석했다. '아씨 두리안'은 단씨 집]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[타임 슬립→♥고부간 동성애까지…파격의 ‘아씨 두리안’]]></title>
         <id>https://v.daum.net/v/20230622170920388</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230622155237937"/>
         <updated>2023-06-22T07:10:14.509Z</updated>
         <content type="html"><![CDATA[[OSEN=최나영 기자]&nbsp;‘어쩌다&nbsp;마주친, 그대’의 배우 김동욱, 진기주, 서지혜, 이원정과 제작진이 애틋한&nbsp;종영 소감을 전했다. KBS 2TV 월화드라마 ‘어쩌다&nbsp;마주친, 그대’(연출 강수연, 이웅희 / 극본 백소연 / 제작 아크미디어)가 지난 20일&nbsp;대단원의 막을 내렸다.&nbsp; 진한 여운으로 아쉬움을 달래기 위해 ‘어쩌다&nbsp;마주친, 그대’의 주역 김동욱,]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['김사부3' PD "안효섭·이성경, 자문 의사도 혀 내두를 정도"]]></title>
-        <id>https://v.daum.net/v/20230622155050844</id>
-        <link href="https://v.daum.net/v/20230622155050844"/>
-        <updated>2023-06-22T07:10:14.509Z</updated>
-        <content type="html"><![CDATA[유인식 감독[이데일리 스타in 김가영 기자] ‘낭만닥터 김사부3’가 명품 메디컬 드라마로 남은 이유에는 유인식 PD와 배우들의 열정과 노력이 있었다. 지난 6월 17일 종영한 SBS ‘금토드라마 ‘낭만닥터 김사부3’(극본 강은경, 임혜민 연출 유인식, 강보승 제작 삼화네트웍스, 스튜디오S)는 지방의 초라한 돌담병원을 배경으로 벌어지는 ‘진짜 닥터’ 이야기]]></content>
     </entry>
 </feed>
