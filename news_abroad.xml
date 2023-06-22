@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-06-22T12:21:45.935Z</updated>
+    <updated>2023-06-22T13:14:20.741Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['캡아' 크리스 에반스 "동성애자 동생...내 최고의 친구"]]></title>
+        <id>https://v.daum.net/v/20230622213030400</id>
+        <link href="https://v.daum.net/v/20230622213030400"/>
+        <updated>2023-06-22T13:14:20.110Z</updated>
+        <content type="html"><![CDATA[[TV리포트=이예은 기자] '캡틴 아메리카' 크리스 에반스과 동생 스콧 에반스간의 우애는 남다르다.&nbsp; '캡틴 아메리카'의 동생이자 배우인 스콧 에반스는 최근 매거진 '애티튜드' 인터뷰에서 형과의 특별한 관계에 대해 설명했다.&nbsp; 인터뷰에서 그는 "어렸을 때 우리는 서로의 첫 번째 친구였다. 나이가 들 때도 그랬다. 그가 내 절친이 아니라고 느껴지지 않았던 적]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[마야 호크 "애인과 하룻밤 보내기 위해 아빠 에단 호크에 거짓말 "]]></title>
         <id>https://v.daum.net/v/20230622210030794</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230622164449403"/>
         <updated>2023-06-22T08:19:14.971Z</updated>
         <content type="html"><![CDATA[[스포츠서울 | 유다연인턴기자] ‘5대 제임스 본드’ 배우 피어스 브로스넌의 집에서 샤워한 침입자가 체포됐다. 21일(현지시각) 미국의 연예매체 TMZ는 “피어스 브로스넌의 저택에 한 남성이 침입해 LA 경찰들이 그를 체포했다”고 보도했다. 누군가 이웃집 뒷마당을 개인 화장실로 쓰고 있다는 신고를 받고 경찰은 출동했다. 해당 침입자는 쓰레기를 뒤진 후]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[스파이더맨 스핀오프 '엘 무에르토', 美 작가 총파업에 개봉 무기한 연기]]></title>
-        <id>https://v.daum.net/v/20230622154729649</id>
-        <link href="https://v.daum.net/v/20230622154729649"/>
-        <updated>2023-06-22T07:10:32.127Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 이창규 기자) 소니 스파이더맨 유니버스(SSU) 영화 '엘 무에르토'(감독 조나스 쿠아론)의 개봉일이 전미작가협회(WGA) 총파업의 여파로 연기됐다. 21일(현지시간) 미국 할리우드 리포터(THR)는 '엘 무에르토'의 개봉일이 기존의 2024년 1월 12일에서 연기되었다고 보도했다. 배급사인 소니 픽쳐스는 기존에 예고되었던 개봉일을 삭제했으나]]></content>
     </entry>
 </feed>
