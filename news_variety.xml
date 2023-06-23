@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/variety</id>
     <title>다음 연예 ─ 뉴스 ─ 예능</title>
-    <updated>2023-06-23T02:57:18.672Z</updated>
+    <updated>2023-06-23T03:27:53.144Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘스우파2’ 네임드→국적초월 8크루 라인업 공개, 글로벌 판 키웠다]]></title>
+        <id>https://v.daum.net/v/20230623122615166</id>
+        <link href="https://v.daum.net/v/20230623122615166"/>
+        <updated>2023-06-23T03:27:41.636Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 박수인 기자] '스우파2' 8크루 라인업이 공개됐다. 오는 8월 22일 첫 방송되는 Mnet '스우파2'는 6월 23일 공식 유튜브 채널 더 춤(The CHOOM)과 엠넷 플러스(Mnet Plus)를 통해 'K-POP 데스 매치 미션' 글로벌 대중 평가 오픈 공지와 동시에 여덟 크루의 라인업을 공개했다. 공개된 시즌2의 라인업은 더욱 화려해진 면]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[효린→비투비 서은광 이민혁 ‘퀸덤퍼즐’ 출격, 경연 심사 본다]]></title>
+        <id>https://v.daum.net/v/20230623121455947</id>
+        <link href="https://v.daum.net/v/20230623121455947"/>
+        <updated>2023-06-23T03:27:41.639Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 박수인 기자] '퀸덤퍼즐'이 PICK팀과 DROP팀의 치열한 경연을 예고한다. 6월 23일 공개된 Mnet ‘퀸덤퍼즐’ 3회 예고 영상에서는 ‘7:7 팀 배틀’ 승자의 자리를 둘러싸고 PICK팀과 DROP팀이 연습에 몰입하는 장면이 그려졌다. 이번 배틀은 시그널송 ‘SNAP’과 ‘Charismatic’별로 각각 두 팀씩 조합을 이뤄 퍼포먼스를 겨]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[다나카 "멜로망스 김민석, 조금만 다듬으면 제2의 정준하"]]></title>
         <id>https://v.daum.net/v/20230623115419256</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230623110105076"/>
         <updated>2023-06-23T02:57:06.307Z</updated>
         <content type="html"><![CDATA[[OSEN=장우영 기자] 이종격투기선수 추성훈이 KBS2 ‘사장님 귀는 당나귀 귀’ 최초 파이터 보스로 출연한다. 25일 방송되는 KBS2 ‘사장님 귀는 당나귀 귀’에서는 이종격투기선수 추성훈이 “보스의 정의를 제대로 보여드리겠다”는 강렬한 포부와 함께 ‘사당귀’의 새로운 보스로 본격적인 첫 등판을 알린다. 이날 추성훈은 “난 후배들에게 간섭 따위 절대]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['갑상선암 수술' 엄정화, 팬미팅서 눈물…"예전보다 용기 생겨"]]></title>
-        <id>https://v.daum.net/v/20230623105001642</id>
-        <link href="https://v.daum.net/v/20230623105001642"/>
-        <updated>2023-06-23T02:57:06.312Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 최희재 기자) 엄정화가 갑상선암 수술 이후 근황을 전하며 눈물을 보였다. 지난 22일 방송된 tvN 예능 '댄스가수 유랑단' 5회에서는&nbsp;유랑단의 여정을 간접 체험할 수 있는 특별한 공간에서 100명의 팬들과 첫 사인회 이벤트도 진행됐다. 갑상선암 수술 이후 처음으로 팬들과 만난다는 엄정화에게는 목 관련한 걱정과 안부가 쏟아졌다. 엄정화는 콘서]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김종민 “어린시절 보약 먹고 살쪄, 다이어트 위해 댄스 시작”]]></title>
-        <id>https://v.daum.net/v/20230623104738549</id>
-        <link href="https://v.daum.net/v/20230623104738549"/>
-        <updated>2023-06-23T02:57:06.313Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 박수인 기자] 코요태 김종민이 대게라면을 끓이며 어린 시절을 추억한다. 6월 24일 방송되는 티캐스트 E채널 '토요일은 밥이 좋아'에서는 토밥즈 멤버들이 '7번 국도 먹방 여행' 마지막 식사로 대게를 맛본다. 바닷내음 가득한 밑반찬으로 먹방의 포문을 연 멤버들은 뒤이어 나온 대게와 대게 내장 볶음밥, 대게 라면 등 다양한 방법으로 식사를 즐긴다.]]></content>
     </entry>
 </feed>
