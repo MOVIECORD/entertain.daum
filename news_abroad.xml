@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-06-23T10:14:12.621Z</updated>
+    <updated>2023-06-23T11:11:29.215Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['원 디렉션' 루이 톰린슨 공연장에 우박 떨어져...100명 부상]]></title>
+        <id>https://v.daum.net/v/20230623200700860</id>
+        <link href="https://v.daum.net/v/20230623200700860"/>
+        <updated>2023-06-23T11:11:28.260Z</updated>
+        <content type="html"><![CDATA[[TV리포트=유비취 기자] 그룹 원 디렉션 출신 가수 루이 톰린슨의 공연 중 골프공 크기의 우박이 떨어졌다. 지난 21일(현지 시간) 루이 톰린슨(31)은 미국 콜로라도 야외 공연장에서 공연을 할 예정이었는데 갑작스레 우박이 떨어졌다. 안타깝게도 이 때문에 수많은 팬들이 부상을 입었다. 최대 100명이 치료를 받은 것으로 전해진다. 콜로라도 응급 의료 단]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[사무엘 L. 잭슨, '어벤져스' 대본 도난당해...스포 걱정에 '아찔']]></title>
+        <id>https://v.daum.net/v/20230623200030765</id>
+        <link href="https://v.daum.net/v/20230623200030765"/>
+        <updated>2023-06-23T11:11:28.260Z</updated>
+        <content type="html"><![CDATA[[TV리포트=이예은 기자] 배우 사무엘 L. 잭슨이 보안에 민감한 마블 작품 대본을 잃어버렸던 아찔한 일화를 공개했다. 외신 매체 엔터테인먼트 위클리는 22일(현지 시간) 배우 사무엘 L. 잭슨과의 인터뷰를 공개했다.&nbsp;인터뷰에서 그는 '어벤져스' 대본을 마블 스튜디오의 제작 사무실에서 도난당했는데, 이후 온라인에 판매용으로 올라왔다고 고백했다. 사무엘은]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['81살' 해리슨 포드 "은퇴 계획 없다...배우가 내 천직"]]></title>
         <id>https://v.daum.net/v/20230623190530795</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230623094131053"/>
         <updated>2023-06-23T01:06:34.201Z</updated>
         <content type="html"><![CDATA[(엑스포츠뉴스 이창규 기자)&nbsp;'타이타닉' 제임스 카메론 감독이 심해 관광용 잠수정 타이탄호의 사고와 관련해 이야기를 전했다. 제임스 카메론은 22일(현지시간) 미국 ABC와의 인터뷰에서 "지역 사회의 많은 사람들이 이 잠수정에 대해 우려했고, 오션게이트 측에 편지를 보내 그들이 하고 있는 일이 너무나 실험적이고 인증을 받아야 한다고 말했다"고 밝혔다. 그는]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[제임스 카메론 “잠수정 5명 사망, 빙하 경고 무시한 타이타닉 참사와 유사한 비극”]]></title>
-        <id>https://v.daum.net/v/20230623093615866</id>
-        <link href="https://v.daum.net/v/20230623093615866"/>
-        <updated>2023-06-23T01:06:34.208Z</updated>
-        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]111년 전 침몰한 여객선 타이타닉호의 잔해를 보기 위한 잠수정 '타이탄'에 탔던 승객 5명이 모두 숨진 가운데 영화 ‘타이타닉’을 연출한 제임스 카메론 감독이 자신의 입장을 밝혔다. 미국 해안경비대는 22일(현지시각) 타이탄에 타고 있던 승객 5명이 모두 숨졌다고 발표했다. 심해로 내려가 타이타닉을 33번이나 직접 방문했]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“3개월 금주 끝났다” 올랜도 블룸♥케이티 페리, 다시 술 마셔]]></title>
-        <id>https://v.daum.net/v/20230623090100780</id>
-        <link href="https://v.daum.net/v/20230623090100780"/>
-        <updated>2023-06-23T01:06:34.213Z</updated>
-        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]지난 3월 3개월간 금주를 선언한 올랜도 블룸(46)과 케이티 페리(38) 부부가 다시 술을 즐긴다고 전했다. 페리는 22일(현지시간) 연예매체 피플과 인터뷰에서 “나에게는 재설정할 수 있는 기회였다”면서 “대통령의 날 이후 재설정했고, 몸미 조금씩 회복될 수 있는 좋은 기회였다”고 말했다. 이어 “균형을 찾는 것만으로도]]></content>
     </entry>
 </feed>
