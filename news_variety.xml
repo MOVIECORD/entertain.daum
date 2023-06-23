@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/variety</id>
     <title>다음 연예 ─ 뉴스 ─ 예능</title>
-    <updated>2023-06-23T04:14:49.602Z</updated>
+    <updated>2023-06-23T05:12:38.773Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['조혜원♥' 이장우, 전현무X박나래와 목포서 환상 먹궁합]]></title>
+        <id>https://v.daum.net/v/20230623135312063</id>
+        <link href="https://v.daum.net/v/20230623135312063"/>
+        <updated>2023-06-23T05:12:27.263Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 | 이경호 기자] MBC '나 혼자 산다'./사진제공=MBC'나 혼자 산다' 전현무, 박나래, 이장우가 '먹궁합' 100점 '팜유즈의 미식 탐구 코스'를 펼친다. 23일 오후 방송될 MBC '나 혼자 산다'에서는 '목포의 딸' 박나래가 기획한 '제2회 팜유 세미나 in 목포'가 공개된다. 박나래는 "30년 전통, 목포에선 스타트업"이라며 '맛]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['스우파2', 월드 클래스 8크루 라인업 공개…글로벌 대중 평가 시작]]></title>
         <id>https://v.daum.net/v/20230623130502728</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230623112438087"/>
         <updated>2023-06-23T02:57:06.298Z</updated>
         <content type="html"><![CDATA[[마이데일리 = 박윤진 기자] 백업 댄서와 국민 가수 코요태 멤버를 거쳐 전문 예능인 김종민을 탄생시킨 것은 다름 아닌 라면이었다. 24일 오후 방송되는 티캐스트 E채널 '토요일은 밥이 좋아'에서는 대게 라면을 끓이며 어린 시절 추억을 회상하는 김종민의 모습이 그려진다. 맛잘알 이영식PD의 엄선된 맛집 라인업을 따라 '7번 국도 먹방 여행' 2일 차를 맞]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['한블리', 10대 여학생 하굣길 참변..한문철 눈물]]></title>
-        <id>https://v.daum.net/v/20230623111858827</id>
-        <link href="https://v.daum.net/v/20230623111858827"/>
-        <updated>2023-06-23T02:57:06.299Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 | 이경호 기자] JTBC 교통 공익 버라이어티 '한문철의 블랙박스 리뷰'./사진제공=JTBC과속으로 돌진하던 차량에 하교하던 10대 여학생 두 명이 목숨을 잃은 안타까운 사고를 조명했다. 지난 22일 방송된 JTBC 교통 공익 버라이어티 '한문철의 블랙박스 리뷰'(이하 '한블리')에서는 충북 음성의 한 교차로에서 70대 운전자가 몰던 차량에]]></content>
     </entry>
 </feed>
