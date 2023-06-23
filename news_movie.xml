@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-06-23T03:27:53.141Z</updated>
+    <updated>2023-06-23T04:14:49.588Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[마동석 차기작=할리우드 '헬다이버'…주연 겸 제작 확정]]></title>
+        <id>https://v.daum.net/v/20230623131203895</id>
+        <link href="https://v.daum.net/v/20230623131203895"/>
+        <updated>2023-06-23T04:14:26.742Z</updated>
+        <content type="html"><![CDATA[[동아닷컴] 마동석 차기작=할리우드 '헬다이버'…주연 겸 제작 확정 [공식] 배우 마동석의 차기작이 확정됐다. 유명 소설의 실사 영화 ‘헬다이버’의 제작자이자 주연으로 나서는 것. 23일 빅펀치 엔터테인먼트에 따르면 마동석은 할리우드 영화 ‘헬 다이버’의 제작자 겸 출연자로 결정됐다. '헬 다이버(Hell Divers)'는 뉴욕타임스 베스트 셀러인 소설을]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[천만 질주 '범죄도시3'-역주행 '엘리멘탈'-김선호 '귀공자', 주말 삼파전]]></title>
+        <id>https://v.daum.net/v/20230623123752348</id>
+        <link href="https://v.daum.net/v/20230623123752348"/>
+        <updated>2023-06-23T04:14:26.749Z</updated>
+        <content type="html"><![CDATA[[스포티비뉴스=유은비 기자] 천만 질주를 이어가고 있는 '범죄도시3'와 흥행 역주행 '엘리멘탈', 그리고 김선호의 데뷔작 '귀공자'가 주말 삼파전을 펼친다. 23일 영화진흥위원회 영화관입장권 통합전산망에 따르면 '범죄도시3'는 지난 22일 하루 동안 7만 4283명의 관객을 불러 모으며 23일 연속 박스오피스 정상을 차지했다. 누적 관객수는 923만]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김선호 '귀공자', 관객 추격은 계속된다…2주 차 무대인사 확정]]></title>
         <id>https://v.daum.net/v/20230623121028814</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230623110005010"/>
         <updated>2023-06-23T02:56:55.386Z</updated>
         <content type="html"><![CDATA[[스타뉴스 | 김미화 기자]  가수 겸 배우 설리가 23일 오후 서울 강남구 현대백화점에서 진행된 스페인 브랜드 로에베 포토월에 참석해 포즈를 취하고 있다. /사진=김휘선 기자 hwijpg@ 안타깝게 세상을 떠난 걸그룹 f(x) 멤버 출신 설리(최진리)가 세상을 떠난지 4년이 지난 가운데, 그녀의 유작 '페르소나: 설리'를 볼 수 있을지 관심이 집중된다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[마동석, 차기작은 할리우드 영화 '헬다이버'…"제작자 겸 주연 합류"]]></title>
-        <id>https://v.daum.net/v/20230623105400778</id>
-        <link href="https://v.daum.net/v/20230623105400778"/>
-        <updated>2023-06-23T02:56:55.392Z</updated>
-        <content type="html"><![CDATA[[마이데일리 = 양유진 기자] 배우 마동석의 차기작이 정해졌다. 미국을 강타한 유명 소설의 실사 영화 '헬다이버' 제작자이자 주연으로 합류할 예정이다. 빅펀치 엔터테인먼트는 23일 미국 매체 데드라인의 단독 보도를 인용해 마동석이 할리우드 영화 '헬다이버'의 제작자 겸 출연자로 확정됐다고 밝혔다. '헬 다이버(Hell Divers)'는 뉴욕타임스 베스트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[마운틴무브먼트 스토리, 중화권 OTT 채널과 계약]]></title>
-        <id>https://v.daum.net/v/20230623105105688</id>
-        <link href="https://v.daum.net/v/20230623105105688"/>
-        <updated>2023-06-23T02:56:55.396Z</updated>
-        <content type="html"><![CDATA[글로벌 신드롬의 주이 된 K-콘텐츠가 마운틴무브먼트 스토리를 통해 중화권에 소개된다. 23일 마운틴무브먼트 스토리는 최근 중화권 대형 OTT들과 계약을 맺고 한국의 다양한 콘텐츠를 방송할 수 있는 독점 중개권을 부여받았다고 밝혔다. 마운틴무브먼트 스토리는 드라마 ‘맨투맨’, 영화 ‘치즈인더트랩’ 등을 제작하고 드라마 ‘별에서 온 그대’의 중국 유통사로 첫]]></content>
     </entry>
 </feed>
