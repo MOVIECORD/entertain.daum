@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-06-24T03:24:58.189Z</updated>
+    <updated>2023-06-24T04:15:57.318Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김은희 작가의 압도적 필력, 이토록 독특한 세계관을 펼쳐놓다니]]></title>
+        <id>https://v.daum.net/v/20230624130506879</id>
+        <link href="https://v.daum.net/v/20230624130506879"/>
+        <updated>2023-06-24T04:15:39.954Z</updated>
+        <content type="html"><![CDATA[[엔터미디어=정덕현] 김은희 작가는 오컬트 장르와 범죄스릴러를 겹쳐서 무슨 이야기를 하려한 걸까. 어찌 보면 죽음과 밀접한 이 두 장르의 결합은 더 강력한 극성을 떠올리게 한다. 귀신같은 초자연적인 존재가 등장하는 것만도 잔뜩 긴장하게 만드는데, 여기에 보이스피싱 사기부터 몰카범 같은 공분을 자아내게 만드는 범죄까지 더해지기 때문이다. 새로 시작한 SBS]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['아씨 두리안' 오늘 첫방…이제껏 본 적 없던 파격적인 드라마]]></title>
         <id>https://v.daum.net/v/20230624114502370</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230624092019845"/>
         <updated>2023-06-24T01:06:14.737Z</updated>
         <content type="html"><![CDATA[[OSEN=장우영 기자] SBS 금토드라마 ‘악귀’(극본 김은희, 연출 이정림, 제작 스튜디오S, BA엔터테인먼트)가 ‘김은희 장르’의 강렬한 귀환을 알렸다. 귀신을 보고 충격과 공포에 휩싸인 김태리 엔딩에 안방극장은 소름과 전율로 들썩였다. 시청률도 반응했다. 지난 23일 방영된 첫 회 시청률은 수도권 가구 10.8%, 전국 가구 9.9%, 순간 최고]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['하트시그널4' 김지영, 신민규 외면에 울컥…유지원 '본격 대시']]></title>
-        <id>https://v.daum.net/v/20230624091252787</id>
-        <link href="https://v.daum.net/v/20230624091252787"/>
-        <updated>2023-06-24T01:06:14.741Z</updated>
-        <content type="html"><![CDATA[‘하트시그널 시즌4’[이데일리 스타in 김가영 기자] ‘하트시그널4’가 8인의 입주자를 모두 공개하며 새로운 국면을 맞이했다. 지난 23일 밤 방송된 러브라인 추리게임 채널A ‘하트시그널4’에선 네 번째 여자 입주자의 등장과 더불어 복잡 미묘한 러브라인으로 뒤엉킨 시그널 하우스의 모습이 그려졌다. 이날 새로운 메기의 등장과 함께 완전해진 입주자들의 만남이]]></content>
     </entry>
 </feed>
