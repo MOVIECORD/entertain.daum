@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-06-24T02:55:22.672Z</updated>
+    <updated>2023-06-24T03:24:58.176Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘범죄도시3’ 24일째 장기 1위 기염]]></title>
+        <id>https://v.daum.net/v/20230624121007563</id>
+        <link href="https://v.daum.net/v/20230624121007563"/>
+        <updated>2023-06-24T03:24:31.021Z</updated>
+        <content type="html"><![CDATA[[티브이데일리 이기은 기자] 영화 '범죄도시3', 한 달 넘게 장기 1위를 수성할 전망이다. 24일 영화진흥위원회 영화관 입장권 통합전산망의 집계에 따르면 '범죄도시3'(감독 이상용)는 지난 23일 하루동안 9만4464명의 관객을 불러모았고, 이 또한 박스오피스 1위인 수치다. 누적관객수는 932만8707명이며 이는 24일 째 1위를 지킨 결과물이다. 앞서]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["톰 크루즈에게 배 걷어 차달라 간청했는데 거부"..'미션7' 여배우 고백]]></title>
         <id>https://v.daum.net/v/20230624113622314</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230624080015055"/>
         <updated>2023-06-23T23:11:35.680Z</updated>
         <content type="html"><![CDATA[(서울=연합뉴스) 오보람 기자 = K팝 가수들이 할리우드 대작 영화의 OST(오리지널 사운드트랙)에 참여하는 사례가 늘고 있다. 거대한 팬덤 덕에 영화 홍보 효과가 큰 데다, 가수 입장에서도 글로벌 이미지를 굳힐 수 있어 '윈윈'이기 때문이라는 분석이 나온다. 걸그룹 피프티 피프티가 부른 '바비 드림스'(Barbie Dreams)는 다음 달 19일 개봉하는]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['범죄도시' 시리즈 대박친 마동석, 한국은 좁다…할리우드 가는 '제작자']]></title>
-        <id>https://v.daum.net/v/20230624072101800</id>
-        <link href="https://v.daum.net/v/20230624072101800"/>
-        <updated>2023-06-23T23:11:35.681Z</updated>
-        <content type="html"><![CDATA[[텐아시아=강민경 기자] '제작자' 마동석이 이제 할리우드로 나간다. 청소년 관람 불가 등급 판정받은 '범죄도시'(688만 명)를 시작으로 '범죄도시2'(1269만 명)까지 연달아 성공했다. 현재 '범죄도시3'는 1000만 관객을 향해 순항 중이다. '범죄도시'를 떠올리면 가장 먼저 생각나는 건 배우 마동석이다. 마동석은 '범죄도시' 시리즈 공동 제작]]></content>
     </entry>
 </feed>
