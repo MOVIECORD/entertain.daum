@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-06-25T04:14:45.694Z</updated>
+    <updated>2023-06-25T05:12:12.119Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[켈리 클락슨 이혼 심경 “말도 못 할 정도로 울어”]]></title>
+        <id>https://v.daum.net/v/20230625140426629</id>
+        <link href="https://v.daum.net/v/20230625140426629"/>
+        <updated>2023-06-25T05:12:11.315Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 하지원 기자] 가수 켈리 클락슨이 이혼 심경을 털어놨다. 최근 켈리 클락슨은 애플 뮤직과 인터뷰에서 행복한 표정을 지으려고 노력했음에도 불구하고 "이혼을 잘 처리하지 못했다"고 말했다. 켈리 클락슨은 "나는 사람들이 어떻게 이혼을 이겨냈는지 모른다. (이혼을) 정상적으로 했다고 말하지 못한다"며 "말도 할 수 없을 정도로 심하게 울었다"고 회상했]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘아이언맨’ 로다주 “자동차 20대 소유, 마블이 선물한 벤틀리 좋아해”]]></title>
         <id>https://v.daum.net/v/20230625131256810</id>
@@ -81,26 +88,5 @@
         <link href="https://v.daum.net/v/20230624154549612"/>
         <updated>2023-06-24T07:11:17.659Z</updated>
         <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]‘슈퍼맨’ 헨리 카빌(40)이 제임스 본드가 될뻔한 사연이 밝혀졌다. ‘007 카지노 로얄’(2006)의 마틴 캠벨(72) 감독은 23일(현지시간) 익스프레스 UK와 인터뷰에서 헨리 카빌이 다니엘 크레이그(55)를 제치고 제임스 본드에 발탁될 수 있었다고 전했다. 그는 “카빌은 오디션에서 정말 멋있었고, 연기는 정말 대단했]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[7남매 낳은 알렉 볼드윈 아내 “남편 정관수술 아직 안 받아”]]></title>
-        <id>https://v.daum.net/v/20230624133032045</id>
-        <link href="https://v.daum.net/v/20230624133032045"/>
-        <updated>2023-06-24T05:11:31.830Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 이민지 기자] 힐라리아 볼드윈이 아이를 더 낳지 않겠다고 밝혔다. 6월 21일(현지시간) 롬퍼는 알렉 볼드윈 아내 힐라리아 볼드윈과의 인터뷰를 공개했다. 7남매의 엄마인 힐라리아 볼드윈은 "아마도, 거의 확실하게 마지막 아이일 것"이라며 지난해 9월 출산한 막내에 대해 이야기 했다. 이어 "항상 (임신하지 않을 것이라) 말하는게 두렵다. 임]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아담 샌들러, 결혼 20주년 자축..."더 많이 사랑할게"]]></title>
-        <id>https://v.daum.net/v/20230624132200994</id>
-        <link href="https://v.daum.net/v/20230624132200994"/>
-        <updated>2023-06-24T05:11:31.830Z</updated>
-        <content type="html"><![CDATA[[TV리포트=석태진 기자] 가수 겸 배우 아담 샌들러는 22일(현지 시간) 아내 재키 샌들러와 결혼 20주년을 기념하며 자신이 보기 드문 '보석' 임을 증명했다. 아담 샌들러는 "내 사랑 재키, 20주년 축하해! 당신의 'I do'(보통 청혼을 승낙할 때 쓰는 표현)는 내 인생 최고의 선물이었어요"라는 멘트를 자신의 트위터 계정에 올렸다. 또한 그는 결혼]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘냉동난자 실패→극적으로 넷째 임신’ 코트니 카다시안, “혼합가족이 좋아”]]></title>
-        <id>https://v.daum.net/v/20230624131453949</id>
-        <link href="https://v.daum.net/v/20230624131453949"/>
-        <updated>2023-06-24T04:15:56.627Z</updated>
-        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]‘카다시안’ 가족의 첫째 코트니 카다시안(44)이 냉동난자 실패 이후 임신에 성공한 가운데 처음으로 배가 나온 사진을 공개했다. 그는 23일(현지시간) 인스타그램 스토리에 배에 손을 얹고 있는 모습을 공유했다. 그러면서 2억 2,200만명의 팔로워들에게 가장 좋아하는 임신용 바디케어 제품이 무엇인지 물었다. 카다시안은 전남]]></content>
     </entry>
 </feed>
