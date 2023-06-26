@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-06-26T19:10:19.004Z</updated>
+    <updated>2023-06-26T20:12:56.875Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[박규영·조유리·김시은, 제2의 정호연?..'오겜2' 女배우 초미의 관심사]]></title>
+        <id>https://v.daum.net/v/20230627051201276</id>
+        <link href="https://v.daum.net/v/20230627051201276"/>
+        <updated>2023-06-26T20:12:40.948Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 | 최혜진 기자] 박규영(왼쪽부터), 조유리, 김시은/사진=스타뉴스넷플릭스 시리즈 '오징어 게임' 시즌2(이하 '오겜2') 여자 배우 출연 라인업에 관심이 쏠리고 있다. 최근 여배우들이 '오겜2' 출연 물망에 올랐다는 보도가 쏟아졌다. 23일 본지는 배우 박규영이 '오겜2'에 캐스팅됐다고 단독 보도했다. 이와 관련해 넷플릭스 측은 "조만간]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김태희, 최재림 살인자로 김성오 의심→진실 위해 임지연 찾았다]]></title>
         <id>https://v.daum.net/v/20230627005620090</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230626212030488"/>
         <updated>2023-06-26T12:23:22.705Z</updated>
         <content type="html"><![CDATA[[TV리포트 = 하수나 기자] 반민정이 서준영에게 마음을 열어달라고 구애했다.&nbsp; 26일 KBS1 일일드라마 ‘금이야 옥이야’에선 강산(서준영 분)에게 마음을 전하는 장호랑(반민정 분)의 모습이 그려졌다.&nbsp; 이날 미래(윤다영 분)의 오빠 옥재현(김동윤 분)에게 아내 수지(조향기 분)는 “주혁 씨 말이야. 이번에 죽개발 할아버님 앞에서 당신이 주도했다고 공을]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['응답하라' 이후 흥행작無…위기의 정우, '기적의 형제'로 인생캐 경신할까]]></title>
-        <id>https://v.daum.net/v/20230626205801189</id>
-        <link href="https://v.daum.net/v/20230626205801189"/>
-        <updated>2023-06-26T12:23:22.711Z</updated>
-        <content type="html"><![CDATA[[텐아시아=태유나 기자] 드라마 '응답하라 1994'로 '쓰레기 신드롬'을 일으킨 지도 10년. 이후 이렇다 할 흥행작을 내놓지 못하는 배우 정우가 안방극장에 복귀한다. 호평 속에 끝난 전작 '나쁜 엄마'의 바통을 이어받은 '기적의 형제'를 통해서다. 매 작품 인생 캐릭터를 경신할 수는 없지만, 계속되는 흥행 실패는 주연 배우에게는 큰 타격일 수밖에 없는]]></content>
     </entry>
 </feed>
