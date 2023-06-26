@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-06-26T18:15:34.517Z</updated>
+    <updated>2023-06-26T19:10:18.907Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘드림팰리스’ 이윤지 “엄마 된 경험 배우 인생에 필연적”]]></title>
+        <id>https://v.daum.net/v/20230627040812824</id>
+        <link href="https://v.daum.net/v/20230627040812824"/>
+        <updated>2023-06-26T19:09:55.954Z</updated>
+        <content type="html"><![CDATA[“언니, 우리 다시는 엮이지 말자.” 영화 ‘드림팰리스’에서 건조한 목소리로 대사를 내뱉는 배우 이윤지의 얼굴은 낯설었다. 수인은 혜정(김선영)과 같이 산업재해로 남편을 잃고 진상규명 시위를 시작한다. 혜정은 회사와 합의해 보상금을 받고 새 아파트를 분양받지만 수인은 두 아이를 데리고 계속해서 싸운다. 죽은 남편의 티셔츠를 입고, 딸의 양말을 신고 수인은]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['콘크리트 유토피아' 미술감독 "실제 건물 짓는 수준으로 세트장 구현"]]></title>
         <id>https://v.daum.net/v/20230627010031118</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230626180051389"/>
         <updated>2023-06-26T09:13:31.842Z</updated>
         <content type="html"><![CDATA[[서울경제] 오늘 영화는 이거! ‘오영이’ 배우 에즈라 밀러가 모두의 귀감이던 때가 있었다. 1992년 출생 이후 2008년 안토니오 캠포스 감독의 '애프터 스쿨'로 스크린 데뷔한 그는 이후 '시티 아일랜드'(2009), '케빈에 대하여'(2011), '월플라워'(2012) 등의 작품을 통해 다양한 역할의 연기를 선보였고 2016년부터 공]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘밀수’ 조인성, 얼굴 만큼이나 “품격 있는 액션”]]></title>
-        <id>https://v.daum.net/v/20230626175525179</id>
-        <link href="https://v.daum.net/v/20230626175525179"/>
-        <updated>2023-06-26T09:13:31.845Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 배효주 기자] 조인성이 '밀수'를 통해 새로운 얼굴을 보여줄 예정이다. 7월 26일 개봉하는 영화 '밀수'(감독 류승완)는 바다에 던져진 생필품을 건지며 생계를 이어가던 사람들 앞에 일생일대의 큰 판이 벌어지면서 휘말리는 해양범죄활극. 조인성이 맡은 ‘권 상사’는 사업가적인 면모와 악독한 기질로 부산을 장악하고 전국구 밀수 1인자가 되어 밀수판을]]></content>
     </entry>
 </feed>

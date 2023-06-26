@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/variety</id>
     <title>다음 연예 ─ 뉴스 ─ 예능</title>
-    <updated>2023-06-26T18:15:34.481Z</updated>
+    <updated>2023-06-26T19:10:18.901Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[윤남기♥이다은 "둘째? 조만간 보여드리겠다"]]></title>
+        <id>https://v.daum.net/v/20230627034506735</id>
+        <link href="https://v.daum.net/v/20230627034506735"/>
+        <updated>2023-06-26T19:10:07.435Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 노한빈 기자] '돌싱글즈 2' 출연자 윤남기, 이다은 부부가 둘째 계획을 밝혔다. 26일 유튜브 채널 '남다리맥'에는 '방송 중 내 사생활을 폭로하는 시청자가 나타났다'라는 제목의 영상이 업로드됐다. 이날 윤남기, 이다은 부부는 '남다리맥' 1주년 기념 라이브 방송을 진행했다. 한 구독자가 둘째 질물을 하자 윤남기는 "아직 확실하게는 모르]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[서장훈 눈물 "편찮으신 모친 생각나..잔소리 들을 때 잘 해라" 뼈침]]></title>
         <id>https://v.daum.net/v/20230627031322710</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230626234504523"/>
         <updated>2023-06-26T15:11:58.032Z</updated>
         <content type="html"><![CDATA[[스타뉴스 | 김지은 인턴기자] /사진='동상이몽2-너는 내 운명' 화면 캡처가수 자이언트핑크가 가수 스윙스와 닮은꼴로 시선을 모았다. 26일 오후 방송된 SBS 예능 프로그램 '동상이몽2-너는 내 운명'(이하 '동상이몽2')에서는 자이언트핑크, 한동훈 부부가 출연해 고민을 토로했다. 방송에서 자이언트핑크는 다이어트를 한 모습으로 나와 "너무 달라졌죠"]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["잊혀질까 두려운 직업, 앨범 내고파" 자이언트 핑크, 남편 사업확장 계획에 한숨]]></title>
-        <id>https://v.daum.net/v/20230626234121507</id>
-        <link href="https://v.daum.net/v/20230626234121507"/>
-        <updated>2023-06-26T15:11:58.033Z</updated>
-        <content type="html"><![CDATA[[마이데일리 = 노한빈 기자] 가수 자이언트 핑크가 맞벌이 위킹맘의 고충을 호소했다. 26일 방송된 SBS '동상이몽2 - 너는 내 운명'에서는 자이언트 핑크, 요식업 CEO 한동훈 부부의 일상이 그려졌다. 이날 식당을 운영 중인 한동훈은 현재 새롭게 일식 덮밥 가게를 구상 중이라고 밝혔고, 종일 덮밥만 생각하며 육아에는 소홀한 모습을 보였다. 운영 중인]]></content>
     </entry>
 </feed>
