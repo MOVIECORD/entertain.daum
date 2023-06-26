@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2023-06-26T17:11:19.619Z</updated>
+    <updated>2023-06-26T18:15:34.513Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['동상이몽2' 농구 레전드 문경은, "가위바위보 져서 아내와 커플"…첫 만남 스토리 공개]]></title>
+        <id>https://v.daum.net/v/20230627031500712</id>
+        <link href="https://v.daum.net/v/20230627031500712"/>
+        <updated>2023-06-26T18:15:28.178Z</updated>
+        <content type="html"><![CDATA[[SBS연예뉴스 | 김효정 에디터] 문경은이 아내와의 첫 만남을 공개했다. 26일 방송된 SBS '동상이몽 시즌2-너는 내 운명'(이하 '동상이몽2')에서는 농구 레전드 문경은이 스페셜 MC로 등장했다. 이날 방송에서는 대학 농구 전성기 연세대 독수리 오 형제 중 황금 리더였던 문경은이 등장해 눈길을 끌었다. 그의 등장에 패널들은 팬이라며 팬심을 드러냈고,]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘2023 서울 파크뮤직 페스티벌’ 24~25일 양일간 2만 6000명 동원]]></title>
         <id>https://v.daum.net/v/20230627015655334</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230627000030660"/>
         <updated>2023-06-26T15:12:03.427Z</updated>
         <content type="html"><![CDATA[[TV리포트=이혜미 기자] 배우 진선규의 ‘킹더랜드’ 카메오 출연 비화가 공개됐다. 26일 JTBC Drama 채널을 통해 ‘킹더랜드’ 메이킹 영상이 공개됐다. 공개된 영상엔 이준호 임윤아의 화보 촬영 현장이 담겼다. 작중 이들은 호텔 홍보영상 촬영을 위해 제주도를 찾았다는 설정. 스냅 촬영 리허설부터 화기애애한 분위기로 케미를 발산한 이준호와 임윤아는 본]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['이민호가 왜 거기서 나와' 이승기 회심의 찐친 찬스 "나, 기 살고 있어"]]></title>
-        <id>https://v.daum.net/v/20230626235326575</id>
-        <link href="https://v.daum.net/v/20230626235326575"/>
-        <updated>2023-06-26T15:12:03.427Z</updated>
-        <content type="html"><![CDATA[[스포츠조선 이유나 기자] 가수 겸 배우 이승기가 한류스타 이민호를 찐친 찬스로 사용했다. 26일 방송한 TV조선 '형제라면'에서는 영업 3일차를 맞은 라면집의 바쁜 하루가 공개됐다. 이날 이승기는 K-드라마 팬이라는 손님 말에 영상통화로 깜짝 선물을 선사하는 모습이 공개됐다. 외국인 손님은 "저희는 한국에 여러 번 갔었다"라며 "한국엔]]></content>
     </entry>
 </feed>
