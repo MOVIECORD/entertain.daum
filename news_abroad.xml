@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-06-26T01:13:43.626Z</updated>
+    <updated>2023-06-26T03:01:44.971Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[톰 크루즈, ‘블랙 위도우’ 스칼렛 요한슨과 영화 찍나 “신체 능력 뛰어나”]]></title>
+        <id>https://v.daum.net/v/20230626115308713</id>
+        <link href="https://v.daum.net/v/20230626115308713"/>
+        <updated>2023-06-26T03:01:44.253Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 배효주 기자] 톰 크루즈가 '블랙 위도우' 스칼렛 요한슨의 러브콜에 화답했다. 최근 해외 매체 피플 보도에 따르면, 영화 '미션 임파서블: 데드 레코닝 PART ONE' 개봉을 앞두고 홍보 인터뷰를 진행한 톰 크루즈는 "스칼렛 요한슨과 함께 영화를 찍고 싶다"고 밝혔다. 이어 "스칼렛 요한슨은 재능있는 배우"라며 "카리스마도 있고 다재다능하다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[33살 테일러 스위프트, “띠동갑 전남친 존 메이어 괴롭히지 말라” 호소]]></title>
         <id>https://v.daum.net/v/20230626095314008</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230625151114077"/>
         <updated>2023-06-25T06:15:46.300Z</updated>
         <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]톰 크루즈(60)의 전처 케이티 홈즈(44)가 길거리에서 에이전트와 포옹해 관심을 끌고 있다. 페이지식스는 24일(현지시간) “홈즈가 탤런트 에이전트인 제레미 바버와 산책 중 포옹하는 모습이 목격됐다”고 보도했다. 이어 “홈즈 측에 확인한 결과, 데이트는 아니었다”고 전했다. 흰색 티셔츠와 회색 플리츠 스커트, 아디다스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[톰 홀랜드 “목공 기술, 젠데이아와 사랑하는데 큰 도움”]]></title>
-        <id>https://v.daum.net/v/20230625143939322</id>
-        <link href="https://v.daum.net/v/20230625143939322"/>
-        <updated>2023-06-25T06:15:46.305Z</updated>
-        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]‘스파이더맨’ 톰 홀랜드(27)가 목공 기술이 젠데리아와 연애하는데 큰 도움이 됐다고 말했다. 그는 24일(현지시간) 유니래드와 인터뷰에서 “목공은 내가 정말 좋아하는 일”이라고 밝혔다. 이어 “얼마전 엄마의 식탁과 사무실을 만들었다. 침실의 모든 찬장도 내가 했다. 할아버지와 함께 작은 새집을 만들기도 했다. 연애 초기에]]></content>
     </entry>
 </feed>
