@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-06-26T08:22:14.968Z</updated>
+    <updated>2023-06-26T09:13:54.138Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[디카프리오, 흑발 모델과 또 데이트...진짜 취향 변했나]]></title>
+        <id>https://v.daum.net/v/20230626180000320</id>
+        <link href="https://v.daum.net/v/20230626180000320"/>
+        <updated>2023-06-26T09:13:53.296Z</updated>
+        <content type="html"><![CDATA[[TV리포트=박혜은 기자] 레오나르도 디카프리오(50)가 20세 연하의 모델 닐람 길과 함께 있는 모습이 또다시 목격됐다. 절친으로 유명한 디카프리오와 토비 맥과이어, 그리고 모델 닐람 길은 23일(현지 시간) 프랑스 수도의 호텔 코스테를 함께 떠나 리볼리 거리의 룰루에서 심야 식사를 즐겼다. 두 배우는 검은색 티셔츠와 짙은 청바지 차림으로 눈에 띄지 않으]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['탑건2' 존 햄, 17살 연하 배우와 결혼]]></title>
         <id>https://v.daum.net/v/20230626170104439</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230625234514234"/>
         <updated>2023-06-25T15:11:59.185Z</updated>
         <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]할리우드 스타 톰 크루즈(60)가 ‘블랙 위도우’ 스칼렛 요한슨(38)과 함께 영화를 만들고 싶다고 밝혔다. 요한슨은 지난주 ‘애스터로이드 시티' 프리미어 행사에서 함께 작업하고 싶은 배우를 묻는 질문에 즉각 "톰 크루즈"라고 답했다. 크루즈 역시 요한슨의 요청에 반가움을 전했다. 그는 최근 '미션 임파서블: 데드 레코닝]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[줄리안 샌즈, 실종 5개월 만에 추정 시신 발견... "신원 확인 중"]]></title>
-        <id>https://v.daum.net/v/20230625181330446</id>
-        <link href="https://v.daum.net/v/20230625181330446"/>
-        <updated>2023-06-25T10:12:21.596Z</updated>
-        <content type="html"><![CDATA[[TV리포트=이혜미 기자] 할리우드 배우 줄리안 샌즈가 하이킹 도중 실종된 가운데 그로 추정되는 유해가 발견돼 경찰이 신원 확인에 나섰다. 24일(현지시간) CNN 등 외신에 따르면 샌즈가 마지막으로 목격된 곳 근처에서 신원미상의 시신이 발견됐다. 등산객들에 의해 발견된 유해는 신원 확인을 위해 검시관 사무실로 이송됐으며 결과는 다음 주 중 나올 예정이다.]]></content>
     </entry>
 </feed>
