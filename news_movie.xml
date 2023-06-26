@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-06-26T15:12:09.152Z</updated>
+    <updated>2023-06-26T16:15:33.495Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['콘크리트 유토피아' 미술감독 "실제 건물 짓는 수준으로 세트장 구현"]]></title>
+        <id>https://v.daum.net/v/20230627010031118</id>
+        <link href="https://v.daum.net/v/20230627010031118"/>
+        <updated>2023-06-26T16:15:13.179Z</updated>
+        <content type="html"><![CDATA[[TV리포트=김연주 기자] 오는 8월 개봉을 앞둔 '콘크리트 유토피아' 속 생생한 재난 상황을 엿볼 수 있는 공개됐다. '콘크리트 유토피아'는 대지진으로 폐허가 된 서울, 유일하게 남은 황궁 아파트로 생존자들이 모여들며 시작되는 이야기를 그린 재난 드라마다. 엄태화 감독의 신작으로 배우 이병헌, 박서준, 박보영, 김선영, 박시후, 김도윤이 출연한다. 공개된]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["톰 크루즈는 다르네"..女배우가 밝힌 '미션 임파서블7' 액션]]></title>
         <id>https://v.daum.net/v/20230626213733635</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230626175525179"/>
         <updated>2023-06-26T09:13:31.845Z</updated>
         <content type="html"><![CDATA[[뉴스엔 배효주 기자] 조인성이 '밀수'를 통해 새로운 얼굴을 보여줄 예정이다. 7월 26일 개봉하는 영화 '밀수'(감독 류승완)는 바다에 던져진 생필품을 건지며 생계를 이어가던 사람들 앞에 일생일대의 큰 판이 벌어지면서 휘말리는 해양범죄활극. 조인성이 맡은 ‘권 상사’는 사업가적인 면모와 악독한 기질로 부산을 장악하고 전국구 밀수 1인자가 되어 밀수판을]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["말할 수 없어"…'악마들', 장동윤·오대환의 반전 범죄 스릴러]]></title>
-        <id>https://v.daum.net/v/20230626175220102</id>
-        <link href="https://v.daum.net/v/20230626175220102"/>
-        <updated>2023-06-26T09:13:31.847Z</updated>
-        <content type="html"><![CDATA[(서울=뉴스1) 정유진 기자 = 바디 체인지 플롯과 범죄 스릴러가 만난 '악마들'은 기존과 차별화되는 이야기로 관객들을 사로잡을 수 있을까. 26일 오후 서울 용산구 CGV 용산아이파크몰에서 영화 '악마들'(감독 김재훈)의 언론배급시사회 및 기자간담회가 열렸다. 이 자리에는 배우 장동윤과 오대환, 최귀화, 장재호, 김재훈 감독이 참석했다. '악마들'은]]></content>
     </entry>
 </feed>

@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-06-26T15:12:09.156Z</updated>
+    <updated>2023-06-26T16:15:33.500Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김태희, 최재림 살인자로 김성오 의심→진실 위해 임지연 찾았다]]></title>
+        <id>https://v.daum.net/v/20230627005620090</id>
+        <link href="https://v.daum.net/v/20230627005620090"/>
+        <updated>2023-06-26T16:15:18.172Z</updated>
+        <content type="html"><![CDATA[[OSEN=임혜영 기자] 김태희가 김성오를 의심하기 시작했고, 그 의심의 끝에 임지연을 찾아갔다. 26일 방송된 지니 TV 오리지널 드라마 '마당이 있는 집'에서는 남편 박재호(김성오 분)를 의심하는 문주란(김태희 분)의 모습이 그려졌다. 문주란, 박재호는 김윤범(최재림 분)의 장례식장을 찾았다. 장례식장에서 추상은(임지연 분)은 박재호에게 김윤범의 차]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[임지연, 김태희 붙들고 "당신 남편이 내 남편 죽였어" 분노]]></title>
         <id>https://v.daum.net/v/20230627001100929</id>
@@ -87,7 +94,7 @@
         <id>https://v.daum.net/v/20230626215801850</id>
         <link href="https://v.daum.net/v/20230626215801850"/>
         <updated>2023-06-26T13:21:50.549Z</updated>
-        <content type="html"><![CDATA[[텐아시아=류예지 기자]스타 작가의 주말 드라마 경쟁에서 승패가 확연하게 갈렸다. '악귀'를 집필한 김은희 작가가 승기를 잡게 됐고, 반편 '막장계의 대모' 임성한(피비) 작가는 굴욕을 면치 못하게 됐다. 김태리 주연의 SBS 금토 드라마 '악귀'가 2회 만에 시청률 10%를 돌파했다. '악귀'는 악귀에 씐 9급 공무원 준비생 구산영(김태리&nbsp;분)과 악귀의]]></content>
+        <content type="html"><![CDATA[[텐아시아=류예지 기자]스타 작가의 주말 드라마 경쟁에서 승패가 확연하게 갈렸다. '악귀'를 집필한 김은희 작가가 승기를 잡게 됐고, 반면 '막장계의 대모' 임성한(피비) 작가는 굴욕을 면치 못하게 됐다. 김태리 주연의 SBS 금토 드라마 '악귀'가 2회 만에 시청률 10%를 돌파했다. '악귀'는 악귀에 씐 9급 공무원 준비생 구산영(김태리&nbsp;분)과 악귀의]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA['금이야 옥이야' 반민정, 서준영에 본격 구애 "마음 열어줘, 결혼도 감당"]]></title>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230626205801189"/>
         <updated>2023-06-26T12:23:22.711Z</updated>
         <content type="html"><![CDATA[[텐아시아=태유나 기자] 드라마 '응답하라 1994'로 '쓰레기 신드롬'을 일으킨 지도 10년. 이후 이렇다 할 흥행작을 내놓지 못하는 배우 정우가 안방극장에 복귀한다. 호평 속에 끝난 전작 '나쁜 엄마'의 바통을 이어받은 '기적의 형제'를 통해서다. 매 작품 인생 캐릭터를 경신할 수는 없지만, 계속되는 흥행 실패는 주연 배우에게는 큰 타격일 수밖에 없는]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['하늘의 인연' 전혜연, 정우연에 "허위사실 유포로 고소할 것"]]></title>
-        <id>https://v.daum.net/v/20230626203051930</id>
-        <link href="https://v.daum.net/v/20230626203051930"/>
-        <updated>2023-06-26T12:23:22.713Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 | 김지은 인턴기자] /사진='하늘의 인연' 화면 캡처전혜연이 정우연에 경고했다. 26일 오후 방송된 MBC 일일드라마 '하늘의 인연' 50회에서는 윤솔(전혜연 분)과 강세나(정우연 분)가 대립하는 모습이 그려졌다. 이날 방송에서 나정임(조은숙 분)은 샤인코스메틱 회사에 강치환(김유석 분)이 다시 취업했다는 소식을 듣고 회사에서 근무 중인 윤]]></content>
     </entry>
 </feed>
