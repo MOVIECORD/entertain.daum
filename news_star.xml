@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2023-06-26T16:15:33.501Z</updated>
+    <updated>2023-06-26T17:11:19.619Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘2023 서울 파크뮤직 페스티벌’ 24~25일 양일간 2만 6000명 동원]]></title>
+        <id>https://v.daum.net/v/20230627015655334</id>
+        <link href="https://v.daum.net/v/20230627015655334"/>
+        <updated>2023-06-26T17:11:13.533Z</updated>
+        <content type="html"><![CDATA[‘2023 서울 파크뮤직 페스티벌’이 25일 헤드라이너 크러쉬의 화려한 무대로 마무리가 됐다. 올해 공연에는 ‘규현’, ‘크러쉬’, ‘선우정아’, ‘십센치’, ‘하이라이트’ 등 메이저 뮤지션들을 비롯하여 ‘즈스파’, ‘루트원’, ‘지셀’, ‘차우’, ‘김뜻돌’, ‘신인류’, ‘가호 앤 케이브’, ‘잭킹콩’ 등 다양한 장르의 젊은 뮤지션들과 ‘숀’, ‘]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘지구탐구생활’ 정동원 “특명! 집 나간 낙타를 잡아라!”]]></title>
         <id>https://v.daum.net/v/20230627005846103</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230626235326575"/>
         <updated>2023-06-26T15:12:03.427Z</updated>
         <content type="html"><![CDATA[[스포츠조선 이유나 기자] 가수 겸 배우 이승기가 한류스타 이민호를 찐친 찬스로 사용했다. 26일 방송한 TV조선 '형제라면'에서는 영업 3일차를 맞은 라면집의 바쁜 하루가 공개됐다. 이날 이승기는 K-드라마 팬이라는 손님 말에 영상통화로 깜짝 선물을 선사하는 모습이 공개됐다. 외국인 손님은 "저희는 한국에 여러 번 갔었다"라며 "한국엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[신동엽, '결혼 5년 차' 한채아 눈물에 ♥차세찌 소환 "빨리 합방하자고 해라"]]></title>
-        <id>https://v.daum.net/v/20230626233937502</id>
-        <link href="https://v.daum.net/v/20230626233937502"/>
-        <updated>2023-06-26T15:12:03.428Z</updated>
-        <content type="html"><![CDATA[[스포츠조선 조윤선 기자] 신동엽이 '결혼 5년 차' 한채아가 눈물을 보이자 남편 차세찌를 소환했다. 26일 방송된 MBN '쉬는 부부'에서는 워크숍 이튿날을 맞은 부부들의 모습이 그려졌다. 이날 '쉬는 아내' 콜택시와 구미호는 '프러포즈'에 대한 이야기를 나눴다. 콜택시는 "난 프러포즈를 콘텐츠로 받았다. 그거조차도 콘텐츠로 이용하더라.]]></content>
     </entry>
 </feed>
