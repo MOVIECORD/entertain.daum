@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-06-26T04:15:33.300Z</updated>
+    <updated>2023-06-26T05:12:19.635Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“아카데미 베스트 스턴트상 신설” 전망, ‘존윅’ 감독 꿈이 이루어진다]]></title>
+        <id>https://v.daum.net/v/20230626133402896</id>
+        <link href="https://v.daum.net/v/20230626133402896"/>
+        <updated>2023-06-26T05:12:18.989Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]‘존윅’ 시리즈의 채드 스타헬스키(54) 감독은 오래전부터 아카데미 시상식에 ‘베스트 스턴트상’이 신설되어야한다고 주장했다. 대부분의 영화에 액션이 포함되는데, 스턴트상이 없다는 것은 어불성설이라는게 그의 입장이었다. 이제 그의 꿈이 이루어질 전망이다. 스타헬스키 감독은 최근 코믹북닷컴과 인터뷰에서 “아카데미 회원들과 만나]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[톰 크루즈, ‘블랙 위도우’ 스칼렛 요한슨과 영화 찍나 “신체 능력 뛰어나”]]></title>
         <id>https://v.daum.net/v/20230626115308713</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230625151320121"/>
         <updated>2023-06-25T06:15:46.299Z</updated>
         <content type="html"><![CDATA[[OSEN=박소영 기자] 영국 배우 줄리안 샌즈가 하이킹 도중 실종된 지 5개월이 지난 가운데 안타까운 소식이 전해졌다. 24일(현지시각) 복수의 외신은 “줄리안 샌즈가 마지막으로 목격된 곳 근처에서 인간의 유해가 발견됐다”고 보도했다. 경찰 역시 CNN을 통해 “민간인 등산객들이 볼디산에서 인간의 유해를 발견한 후 폰타나 보안관에 신고했다”고 밝혔다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘톰 크루즈 전처’ 케이티 홈즈, 에이전트와 길거리서 포옹 “데이트는 아냐”]]></title>
-        <id>https://v.daum.net/v/20230625151114077</id>
-        <link href="https://v.daum.net/v/20230625151114077"/>
-        <updated>2023-06-25T06:15:46.300Z</updated>
-        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]톰 크루즈(60)의 전처 케이티 홈즈(44)가 길거리에서 에이전트와 포옹해 관심을 끌고 있다. 페이지식스는 24일(현지시간) “홈즈가 탤런트 에이전트인 제레미 바버와 산책 중 포옹하는 모습이 목격됐다”고 보도했다. 이어 “홈즈 측에 확인한 결과, 데이트는 아니었다”고 전했다. 흰색 티셔츠와 회색 플리츠 스커트, 아디다스]]></content>
     </entry>
 </feed>
