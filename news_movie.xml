@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-06-26T20:12:56.872Z</updated>
+    <updated>2023-06-26T21:11:19.282Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["韓 향기 느껴진다" 외신도 주목한 '엘리멘탈' 역주행]]></title>
+        <id>https://v.daum.net/v/20230627053500579</id>
+        <link href="https://v.daum.net/v/20230627053500579"/>
+        <updated>2023-06-26T21:11:00.363Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 | 김나연 기자] 엘리멘탈 / 사진=영화 포스터'엘리멘탈'이 관람객들의 호평에 힘입어 흥행 역주행을 달리고 있는 가운데, 외신도 한국에서의 흥행에 주목하고 있다. '엘리멘탈'은 불, 물, 공기, 흙 4원소가 살고 있는 '엘리멘트 시티'에서 재치 있고 불처럼 열정 넘치는 '앰버'가 유쾌하고 감성적이며 물 흐르듯 사는 '웨이드'를 만나 특별한 우]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘드림팰리스’ 이윤지 “엄마 된 경험 배우 인생에 필연적”]]></title>
         <id>https://v.daum.net/v/20230627040812824</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230626180205432"/>
         <updated>2023-06-26T09:13:31.838Z</updated>
         <content type="html"><![CDATA[[텐아시아=김세아 기자]배우 장동윤이 '악마들' 촬영 중 선한 얼굴 때문에 생긴 비화를 공개했다.&nbsp; 26일 오후 2시 서울 용산 아이파크몰CGV 에서 영화 '악마들'(감독 김재훈) 시사 및 기자간담회가 열린 가운데, 주연 배우 김재훈 감독, 장동윤, 오대환, 최귀화, 장재호가 참석했다. '악마들'에서 데뷔 첫 악역을 맡게 된 배우 장동윤은&nbsp;"어느 작품을]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[재미도 글쎄···에즈라 밀러 논란 덮기엔 부족한 완성도 '플래시']]></title>
-        <id>https://v.daum.net/v/20230626180051389</id>
-        <link href="https://v.daum.net/v/20230626180051389"/>
-        <updated>2023-06-26T09:13:31.842Z</updated>
-        <content type="html"><![CDATA[[서울경제] 오늘 영화는 이거! ‘오영이’ 배우 에즈라 밀러가 모두의 귀감이던 때가 있었다. 1992년 출생 이후 2008년 안토니오 캠포스 감독의 '애프터 스쿨'로 스크린 데뷔한 그는 이후 '시티 아일랜드'(2009), '케빈에 대하여'(2011), '월플라워'(2012) 등의 작품을 통해 다양한 역할의 연기를 선보였고 2016년부터 공]]></content>
     </entry>
 </feed>
