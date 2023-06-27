@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-06-27T21:10:53.484Z</updated>
+    <updated>2023-06-27T22:12:12.411Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[켄달 제너, 파격 패션에 반응 나뉘어..."기저귀 같다" 지적도]]></title>
+        <id>https://v.daum.net/v/20230628063030225</id>
+        <link href="https://v.daum.net/v/20230628063030225"/>
+        <updated>2023-06-27T22:12:11.513Z</updated>
+        <content type="html"><![CDATA[[TV리포트=이예은 기자] 유명 모델 켄달 제너(27)가 '기저귀 패션'으로 대중을 경악하게 만들었다.&nbsp; 켄달 제너는 26일(현지 시간) 프랑스 베르사유에서 열린 자크뮈스 패션쇼에서 흰 구름 모양의 버블 미니 드레스를 입고 런웨이를 걸었다.&nbsp; 이날 그는 다소 기상천외한 패션을 본인만의 스타일로 소화해냈다.&nbsp;또 여기에 하이힐을 신고 머리를 깔끔하게 묶은 번]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[노아 사이러스, 연애 2달 만에 결혼 약속..."아이를 원해?"]]></title>
         <id>https://v.daum.net/v/20230628030030229</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230627115422339"/>
         <updated>2023-06-27T02:57:24.946Z</updated>
         <content type="html"><![CDATA[[OSEN=박소영 기자] 제니퍼 로렌스가 크리스틴 스튜어트 대신 뱀파이어의 연인이 될 뻔했다. 제니퍼 로렌스는 최근 팟캐스트 인터뷰를 통해 ‘트와일라잇’ 오디션을 봤는데 바로 거절당했다. 콜백도 받지 못했다. 하지만 내 삶은 완전히 달라졌다. 1년 후 ‘헝거 게임’에 출연하게 됐으니까”라고 솔직하게 말했다. 이어 그는 “나는 ‘헝거 게임’으로 유명해졌다]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['타이타닉 명장면' 주인공...루 팰터, 향년 94세 사망]]></title>
-        <id>https://v.daum.net/v/20230627113500601</id>
-        <link href="https://v.daum.net/v/20230627113500601"/>
-        <updated>2023-06-27T02:57:24.948Z</updated>
-        <content type="html"><![CDATA[[TV리포트=안수현 기자] 제임스 카메론 감독의 '타이타닉'에서 백화점 재벌 이시도르 스트라우스 역을 연기한 베테랑 배우이자 존경받는 칼아츠 연극학교 교수였던 루 팰터(Lew Palter)가 향년 94세의 나이로 사망했다. 팰터는 지난 5월 21일(현지 시간) 미국 로스앤젤레스 자택에서 폐암으로 사망한 것으로 전해졌다. 루 팰터 소속 예술학교 측은 "루 팰]]></content>
     </entry>
 </feed>
