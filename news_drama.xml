@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-06-27T13:22:08.690Z</updated>
+    <updated>2023-06-27T14:11:22.528Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['가슴이 뛴다' 옥택연, 원지안에 최면술 실패..라면 먹고 혼절]]></title>
+        <id>https://v.daum.net/v/20230627223924970</id>
+        <link href="https://v.daum.net/v/20230627223924970"/>
+        <updated>2023-06-27T14:11:05.850Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 | 이경호 기자] KBS 2TV 월화드라마 '가슴이 뛴다'./사진=KBS 2TV 월화드라마 '가슴이 뛴다' 방송 화면 캡처'가슴이 뛴다'에서 옥택연이 원지안에게 쫓겨났다. 27일 오후 방송된 KBS 2TV 월화드라마 '가슴이 뛴다'에서는 인간이 되기 하루를 앞두고 잠에서 깬 선우혈(옥택연 분)이 주인해(원지안 분)와 티격태격 만남을 이어갔다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['이로운 사기' 천우희, 김태훈 손잡았다…김동욱과 갈등 예고]]></title>
         <id>https://v.daum.net/v/20230627221201707</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230627175943024"/>
         <updated>2023-06-27T09:12:18.430Z</updated>
         <content type="html"><![CDATA[[OSEN=장우영 기자] ‘행복배틀’ 차예련이 불륜녀 김희재를 만난다. ENA 수목드라마 ‘행복배틀’(극본 주영하, 연출 김윤철, 기획 KT스튜디오지니, 제작 HB엔터테인먼트)이 행복하게만 보였던 엄마들의 비밀을 하나씩 드러내며 흥미를 더하고 있다. 그중 사랑받는 아내의 삶을 자랑하던 김나영(차예련)은 보여지는 행복을 지키기 위해 남편 이태호(김영훈)의]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[더 강력해진 '소방서 옆 경찰서 그리고 국과수', 8월 4일 첫 방송]]></title>
-        <id>https://v.daum.net/v/20230627173109046</id>
-        <link href="https://v.daum.net/v/20230627173109046"/>
-        <updated>2023-06-27T09:12:18.435Z</updated>
-        <content type="html"><![CDATA[[마이데일리 = 오윤주 기자] SBS 새 금토드라마 '소방서 옆 경찰서' 시즌 2가 오는 8월 4일 금요일 첫 방송된다. '소방서 옆 경찰서 그리고 국과수'(극본 민지은 연출 신경수)는 화재 잡는 소방, 범죄 잡는 경찰 그리고 증거 잡는 국과수가 전대미문, 전무후무 사건과 맞서는 업그레이드 공조를 그리는 드라마다. '소방서 옆 경찰서' 시즌 1은 국내 드]]></content>
     </entry>
 </feed>
