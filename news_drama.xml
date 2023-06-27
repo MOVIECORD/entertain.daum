@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-06-27T02:57:25.560Z</updated>
+    <updated>2023-06-27T03:26:41.936Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[임성한 월드에 새로움 한 스푼, 박주미 美친 연기가 살린 ‘아씨 두리안’]]></title>
+        <id>https://v.daum.net/v/20230627120810928</id>
+        <link href="https://v.daum.net/v/20230627120810928"/>
+        <updated>2023-06-27T03:26:25.327Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 황혜진 기자] 배우 박주미가 관록과 열정이 묻어나는 열연으로 시청자들을 사로잡았다. TV CHOSUN에서 방송되고 쿠팡플레이에서 디지털 독점으로 공개되는 토일드라마‘아씨 두리안’은 6월 24일 첫 방송됐다. 주인공이자 타이틀롤 두리안 역을 맡은 박주미는 극 중 작품의 긴장감과 신선함을 전면에서 폭넓게 이끌며 시청자들에게 강렬한 인상을 남겼다. ‘]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['가슴이 뛴다' 옥택연·원지안, 심장 뛰는 만남..4.1% 첫 출발]]></title>
         <id>https://v.daum.net/v/20230627113031418</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230627101805933"/>
         <updated>2023-06-27T02:57:08.810Z</updated>
         <content type="html"><![CDATA[‘마당이 있는 집’ 김태희가 임지연과 드디어 만나며 강렬한 엔딩을 선사했다. 26일 오후 방송된 지니 TV 오리지널 드라마 ‘마당이 있는 집’(연출 정지현/극본 지아니/기획 KT스튜디오지니/제작 스튜디오드래곤, 영화사 도로시) 3회에서는 김윤범(최재림 분)의 장례식장에서 문주란(김태희 분)과 추상은(임지연 분)의 만남이 그려졌다. 3회에서 상은은 주란의 남]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이준호♥임윤아, 로맨스 케미 비결 여기있네! 비하인드 대방출]]></title>
-        <id>https://v.daum.net/v/20230627100951609</id>
-        <link href="https://v.daum.net/v/20230627100951609"/>
-        <updated>2023-06-27T02:57:08.813Z</updated>
-        <content type="html"><![CDATA[[마이데일리 = 박서연 기자] 배우 이준호와 임윤아의 화기애애한 ‘킹더랜드’ 촬영 현장이 공개됐다. 27일 종합편성채널 JTBC 토일드라마 ‘킹더랜드’(극본 최롬(팀 하리마오) 연출 임현욱)는 웃음꽃이 피어오르는 비하인드 스틸을 공개해 끈끈한 팀워크의 비결을 자랑했다. 먼저 이준호와 임윤아가 극 중 연애 초보 구원의 연애코치가 되어준 경찰 진선규와 함께]]></content>
     </entry>
 </feed>
