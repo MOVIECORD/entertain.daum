@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-06-27T06:16:14.016Z</updated>
+    <updated>2023-06-27T07:12:27.664Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["필모중 최고"..'밀수' 박정민, 김혜수가 극찬한 야망의 장도리]]></title>
+        <id>https://v.daum.net/v/20230627152004362</id>
+        <link href="https://v.daum.net/v/20230627152004362"/>
+        <updated>2023-06-27T07:12:04.857Z</updated>
+        <content type="html"><![CDATA[[OSEN=하수정 기자] 모든 역할들을 찰떡같이 소화하는 대체불가 배우 박정민이 영화 '밀수'(감독 류승완, 제작 ㈜외유내강, 제공배급 NEW)에서 순박한 청년에서 야망 가득한 인물로 변모하는 장도리 역을 맡아 지금까지 본 적 없는 매력을 발산한다.&nbsp; 영화 '밀수'는 바다에 던져진 생필품을 건지며 생계를 이어가던 사람들 앞에 일생일대의 큰 판이 벌어지면]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[강윤 “‘범죄도시3’ 연기 갈증 속 만난 물방울”]]></title>
         <id>https://v.daum.net/v/20230627151211973</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230627130002868"/>
         <updated>2023-06-27T04:14:41.422Z</updated>
         <content type="html"><![CDATA[[스타뉴스 | 용산CGV=김나연 기자] 배우 도경수가 27일 오전 서울 CGV용산아이파크몰에서 진행된 영화 '더 문'(감독 김용화) 제작발표회에 참석해 포즈를 취하고 있다.  사고로 인해 홀로 달에 고립된 우주 대원 선우와 필사적으로 그를 구하려는 전 우주센터장 재국의 사투를 그린 영화 '더 문'은 8월 2일 개봉한다. /2023.06.27 /사진=이동훈]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김용화 감독·설경구·도경수, '더 문'…체험형 우주 SF로 승부]]></title>
-        <id>https://v.daum.net/v/20230627125056733</id>
-        <link href="https://v.daum.net/v/20230627125056733"/>
-        <updated>2023-06-27T04:14:41.429Z</updated>
-        <content type="html"><![CDATA[김용화 감독이 설경구 도경수와 손 잡고 우주로 향한다. 27일 오전 서울 용산 아이파크몰 CGV에서는 김용화 감독 설경구, 도경수, 김희애가 참석한 가운데 영화 '더 문' 제작발표회가 진행됐다. '더 문'은 사고로 인해 홀로 달에 고립된 우주 대원 선우와 필사적으로 그를 구하려는 전 우주센터장 재국의 사투를 그린 영화다. 쌍천만 신화 ‘신과함께’ 시리즈 김]]></content>
     </entry>
 </feed>
