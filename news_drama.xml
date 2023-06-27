@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-06-27T15:12:40.702Z</updated>
+    <updated>2023-06-27T16:22:17.206Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김성오, 이수민 살해했나..임지연에 "최재림 왜죽였어요?"]]></title>
+        <id>https://v.daum.net/v/20230628010401964</id>
+        <link href="https://v.daum.net/v/20230628010401964"/>
+        <updated>2023-06-27T16:22:00.568Z</updated>
+        <content type="html"><![CDATA[[OSEN=김나연 기자] '마당이 있는 집' 김성오와 임지연이 최재림의 죽음을 두고 신경전을 벌였다. 27일 방송된 지니TV '마당이 있는 집' 4화에는 박재호(김성오 분)와 만나 거래를 하는 추상은(임지연 분)의 모습이 그려졌다. 이날 문주란(김태희 분)은&nbsp;해수(정운선 분)를 찾아가 박재호의 차량이 찍힌 CCTV를 보여줄 것을 요청했다. CCTV 영상]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김성오, 임지연에게 "최재림 왜 죽였냐 어떻게 옮겼냐" 추궁]]></title>
+        <id>https://v.daum.net/v/20230628002000731</id>
+        <link href="https://v.daum.net/v/20230628002000731"/>
+        <updated>2023-06-27T16:22:00.570Z</updated>
+        <content type="html"><![CDATA[[TV리포트=김유진 기자] 김태희가 친언니가 살해 당했을 때 옆집에 살던 남자를 다시 만났다. 27일 공개된 GenieTV 드라마 '마당이 있는 집' 4화는 문주란(김태희)이 아들 승재의 학교에 갔다가 임시 담임선생님을 소개받는다. 담임선생님은 친언니가 살해 당했을 때 옆집에 살던 남자였고 문주란은 충격에 빠진다. 문주란은 남편 박재호(김성오)에게 "승재]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[하정우는 긴장하라, 임지연 신들린 짜장면 먹방 '화제']]></title>
         <id>https://v.daum.net/v/20230628000001423</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230627201101439"/>
         <updated>2023-06-27T12:23:52.335Z</updated>
         <content type="html"><![CDATA[[텐아시아=태유나 기자] 이동건, 조윤희가 이혼 후 3년 만에 공백기를 깨고 배우로 본업 복귀한다. 호적상 남남이 된 두 사람이지만, 딸 로아의 부모라는 건 여전했다. 두 사람은 공식 석상에서도 딸에 대한 애정을 드러내며 깊은 책임감을 보여줬다. 이동건은 지난 26일 열린 넷플릭스 오리지널 시리즈 '셀러브리티' 제작발표회를 통해 오랜만에 공식 석상에 섰]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['하늘의 인연' 고은미, 이훈에 애원 "기회 달라"]]></title>
-        <id>https://v.daum.net/v/20230627200223287</id>
-        <link href="https://v.daum.net/v/20230627200223287"/>
-        <updated>2023-06-27T11:10:50.084Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 | 김지은 인턴기자] /사진='하늘의 인연' 화면 캡처'하늘의 인연'에서 고은미가 이훈에 애원했다. 27일 방송된 MBC 일일드라마 '하늘의 인연' 51회에서는 전미강(고은미 분)과 윤이창(이훈분)이 대화하는 모습이 담겼다. 이날 방송에서 전미강은 사죄하겠다며 윤이창을 소극장으로 불러냈다. 전미강은 윤이창에 "돌이켜보면 그때의 난 어른이 아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['하늘' 고은미, 이훈에 "마약누명 배후=김유석→친딸=정우연" 모든 진실 밝혔다]]></title>
-        <id>https://v.daum.net/v/20230627195100996</id>
-        <link href="https://v.daum.net/v/20230627195100996"/>
-        <updated>2023-06-27T11:10:50.089Z</updated>
-        <content type="html"><![CDATA[[TV리포트=이혜미 기자] 고은미가 이훈에게 모든 진실을 밝혔다. 27일 MBC ‘하늘의 인연’에선 미강(고은미 분)을 통해 세나(정우연 분)가 자신의 친딸임을 알고 큰 충격을 받는 이창(이훈 분)의 모습이 그려졌다. 미강은 진실을 찾고자 사라진 태용의 행방을 추적 중. 이날 옛 연인 이창을 만난 미강은 “그때 난 어른이 아니었어. 분명 이창 씨는 마약을]]></content>
     </entry>
 </feed>

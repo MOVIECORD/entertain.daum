@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-06-27T15:12:40.703Z</updated>
+    <updated>2023-06-27T16:22:17.210Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[설경구와 17년 인연+도경수 배우 인생 축복한 '쌍천만' 감독의 '더 문']]></title>
+        <id>https://v.daum.net/v/20230628002008733</id>
+        <link href="https://v.daum.net/v/20230628002008733"/>
+        <updated>2023-06-27T16:21:55.216Z</updated>
+        <content type="html"><![CDATA[(MHN스포츠 정승민 기자) '범죄도시3'가 '쌍천만'을 향해 달려가고 있는 지금, '원조 쌍천만' 김용화 감독이 설경구-도경수-김희애와 손을 잡고 극장가에 우주를 그린다. 27일 오전 서울 용산구 CGV 용산아이파크몰에서 영화 '더 문' 제작보고회가 열렸다. 이날은 설경구, 도경수, 김희애, 김용화 감독이 참석했으며 진행은 방송인 박경림이 맡았다]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘봉준호♥’ 아리 에스터 감독, “밤새도록 한국영화 얘기할 수 있어” 뜨거운 애정]]></title>
         <id>https://v.daum.net/v/20230627224424999</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230627182051808"/>
         <updated>2023-06-27T10:13:10.771Z</updated>
         <content type="html"><![CDATA[아리 에스터 감독[이데일리 스타in 윤기백 기자] “김기영, 이창동, 봉준호, 박찬욱, 홍상수, 나홍진…” 영화 ‘보 이즈 어프레이드’로 내한한 아리 에스터 감독이 좋아하는 한국 영화감독을 묻는 질문에 이같이 답했다. 아리 에스터 감독은 27일 서울 용산구 CGV용산아이파크몰에서 열린 영화 ‘보 이즈 어프레이드’ 기자간담회에서 “한국 영화의 엄청난 팬”이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘미드소마’ 아리 에스터 직접 밝혔다 “‘지구를 지켜라’ 참고는 와전”]]></title>
-        <id>https://v.daum.net/v/20230627182009787</id>
-        <link href="https://v.daum.net/v/20230627182009787"/>
-        <updated>2023-06-27T10:13:10.771Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 배효주 기자] 아리 에스터 감독이 "한국영화 이야기로 밤을 샐 수도 있다"며 각별한 애정을 드러냈다. 영화 '보 이즈 어프레이드'(감독 아리 에스터) 내한 기자간담회가 6월 27일 서울 용산구 CGV용산아이파크몰에서 열렸다. 개봉을 앞두고 내한한 아리 에스터 감독이 참여해 취재진과 대화를 나누었다. 오는 7월 5일 개봉하는 영화 '보 이즈 어프레]]></content>
     </entry>
 </feed>
