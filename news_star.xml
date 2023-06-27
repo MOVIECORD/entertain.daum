@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2023-06-27T18:15:01.511Z</updated>
+    <updated>2023-06-27T19:10:06.300Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이준혁 “범죄도시3는 슬럼프를 겪을 당시 만난 행운”]]></title>
+        <id>https://v.daum.net/v/20230628040514628</id>
+        <link href="https://v.daum.net/v/20230628040514628"/>
+        <updated>2023-06-27T19:09:59.989Z</updated>
+        <content type="html"><![CDATA[“이번 영화는 인생에 실패가 없었던 빌런의 ‘운수좋은 날’ 아니었을까요. 자신의 최고 전성기에 ‘하이라이트’가 되는 거래를 하고, 잘 풀릴 줄 알았는데 마석도(마동석)를 만난 거니까요.” 배우 이준혁이 지난달 30일 서울 종로구 한 카페에서 가진 인터뷰에서 이같이 말했다. 900만 관객을 돌파한 영화 ‘범죄도시3’에서 이준혁은 새로운 빌런 주성철을 연기했]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['유퀴즈' 200회 맞이했다...김연아·김용만 출연]]></title>
+        <id>https://v.daum.net/v/20230628040030584</id>
+        <link href="https://v.daum.net/v/20230628040030584"/>
+        <updated>2023-06-27T19:09:59.989Z</updated>
+        <content type="html"><![CDATA[[TV리포트=신은주 기자] '유 퀴즈 온 더 블럭'이 200회를 맞이한다. 28일, 지난 2018년 8월 첫 방송을 시작한 tvN '유 퀴즈 온 더 블럭(연출 이기연, 작가 이언주, 이하 '유퀴즈')'이 200회 방송을 선보인다. '유퀴즈'는 횟수로 200회, 약 5여 년의 시간동안 본방송과 재방송, 스페셜편 등 총 2640여 시간을 방송했다. '유퀴즈'는]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘스모킹건’ 행방불명된 5살 아이···CCTV도 목격자도 없다?]]></title>
         <id>https://v.daum.net/v/20230628003543820</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230627234844359"/>
         <updated>2023-06-27T15:12:34.551Z</updated>
         <content type="html"><![CDATA[[스포츠조선닷컴 이우주 기자] '짠당포' 민우혁이 야구선수 시절 당한 괴롭힘 피해에 모두가 분노했다. 27일 방송된 JTBC '짠당포'에서는 '닥터 차정숙'의 엄정화, 명세빈, 김병철, 민우혁이 게스트로 출연했다. '닥터 차정숙'의 어마어마에 엄정화는 "차정숙을 응원하시는 건지 엄정화를 응원하시는 건지 모를 정도로 큰 응원을 받았다. 저는]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[곽정은 "자존감의 시대는 끝났다. 이제는 00의 시대"]]></title>
-        <id>https://v.daum.net/v/20230627234801353</id>
-        <link href="https://v.daum.net/v/20230627234801353"/>
-        <updated>2023-06-27T15:12:34.552Z</updated>
-        <content type="html"><![CDATA[[TV리포트=이지민 기자] 27일 MBC '혓바닥 종합격투기 세치혀'에서는 시즌1 최종회가 그려졌다. '뇌슐랭 세치혀' 장동선과 '멘탈코치 세치혀' 곽정은이 마지막 대결 장면이 전파를 탔다. '멘탈코치 세치혀' 곽정은은 이날 '이번 생은 망했어! 좌절 자판기 당신을 위한 자존감 영끌법' 썰네임을 들고 썰대결을 펼쳤다. 곽정은은 "많은 사람들이 자존감을]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[송해나 "'골때녀' 시작하며 톱모델 남친과 이별, SBS가 남친 뺏어가"]]></title>
-        <id>https://v.daum.net/v/20230627233421282</id>
-        <link href="https://v.daum.net/v/20230627233421282"/>
-        <updated>2023-06-27T15:12:34.553Z</updated>
-        <content type="html"><![CDATA[[스포츠조선닷컴 이게은기자] 모델 송해나가 톱모델 A 씨와 4년간 열애한 이야기를 꺼냈다. 27일 방송된 SBS '강심장리그'에는 송해나가 출연했다. 송해나는 "그분도 아직 솔로일 것"이라면서 A 씨와 열애 이야기를 꺼내기 시작했다. 그는 "3년 전 '골 때리는 그녀들'을 시작할 때쯤 이별했다. SBS가 제 남자친구를 뺏어갔다. 일주일 중 5]]></content>
     </entry>
 </feed>
