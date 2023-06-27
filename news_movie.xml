@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-06-27T20:12:59.350Z</updated>
+    <updated>2023-06-27T21:10:53.495Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[실패 넘어 ‘귀공자’로… 강태주라는 발견]]></title>
+        <id>https://v.daum.net/v/20230628060227842</id>
+        <link href="https://v.daum.net/v/20230628060227842"/>
+        <updated>2023-06-27T21:10:30.322Z</updated>
+        <content type="html"><![CDATA[‘고생 끝에 낙이 온다.’ 신인배우 강태주의 지난날을 한 문장으로 말하면 이렇다. 1980대 1 경쟁률을 뚫고 영화 ‘귀공자’(감독 박훈정) 주연 자리를 꿰차기까지 수없이 많은 실패를 거쳤다. 탈락한 오디션만 100개가 넘는다. 고배만 마시던 그때, 네 차례에 걸쳐 오디션을 봤던 ‘귀공자’ 팀에서 낭보를 들었다. 마르코 역이라는 말에 그는 소리부터 질렀]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[톰 크루즈, '미션임파서블7' 감독과 오늘 입국…11번째 내한 약속 지켰다]]></title>
+        <id>https://v.daum.net/v/20230628060011667</id>
+        <link href="https://v.daum.net/v/20230628060011667"/>
+        <updated>2023-06-27T21:10:30.329Z</updated>
+        <content type="html"><![CDATA[(서울=뉴스1) 장아름 기자 = 할리우드 배우 톰 크루즈가 11번째로 한국에 온다. 톰 크루즈는 28일 낮 12시45분 서울김포비즈니스항공센터(SGBAC)를 통해 영화 '미션 임파서블: 데드 레코닝 파트 원(Part One)'의 감독 크리스토퍼 맥쿼리와 함께 국내 입국한다. 톰 크루즈의 이번 내한은 11번째다. 그는 지난 2022년 여름 개봉했던 ']]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[설경구와 17년 인연+도경수 배우 인생 축복한 '쌍천만' 감독의 '더 문']]></title>
         <id>https://v.daum.net/v/20230628002008733</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230627185517762"/>
         <updated>2023-06-27T10:13:10.769Z</updated>
         <content type="html"><![CDATA[[티브이데일리 이기은 기자] 줄리엣 비노쉬 주연 코미디 영화 '슬기로운 아내 수업'(감독 마르탱 프로보스트)이 7월 12일 개봉한다. '슬기로운 아내 수업'은 1960 년대 프랑스, '현모양처 양성 학교' 교장인 남편이 죽은 후 빚과 함께 학교 운영을 떠안은 폴레트가 진취적으로 변모하며 학교를 여성의 관점으로 바꿔나가는 이야기를 담은 영화다. 공개된 스틸도]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["내 영화 단순해" '첫 내한' 아리 에스터 직접 밝힌 '보 이즈 어프레이드']]></title>
-        <id>https://v.daum.net/v/20230627182648995</id>
-        <link href="https://v.daum.net/v/20230627182648995"/>
-        <updated>2023-06-27T10:13:10.769Z</updated>
-        <content type="html"><![CDATA[(서울=뉴스1) 고승아 기자 = 처음으로 한국을 찾은 아리 에스터 감독이 자신의 세 번째 연출작 '보 이즈 어프레이드'를 선보이며 작품에 대한 애정을 연신 드러냈다. 27일 오후 서울 용산구 CGV 용산아이파크몰에서 영화 '보 이즈 어프레이드' 언론시사회 및 간담회가 열려 아리 에스터 감독이 참석했다. 에스터 감독은 이번 영화를 통해 처음 내한했다. 앞]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아리 에스터 감독 "한국영화 특별해… 이창동·봉준호 등 존경"]]></title>
-        <id>https://v.daum.net/v/20230627182051808</id>
-        <link href="https://v.daum.net/v/20230627182051808"/>
-        <updated>2023-06-27T10:13:10.771Z</updated>
-        <content type="html"><![CDATA[아리 에스터 감독[이데일리 스타in 윤기백 기자] “김기영, 이창동, 봉준호, 박찬욱, 홍상수, 나홍진…” 영화 ‘보 이즈 어프레이드’로 내한한 아리 에스터 감독이 좋아하는 한국 영화감독을 묻는 질문에 이같이 답했다. 아리 에스터 감독은 27일 서울 용산구 CGV용산아이파크몰에서 열린 영화 ‘보 이즈 어프레이드’ 기자간담회에서 “한국 영화의 엄청난 팬”이]]></content>
     </entry>
 </feed>
