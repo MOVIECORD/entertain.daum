@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-06-27T09:12:35.411Z</updated>
+    <updated>2023-06-27T10:13:32.690Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘남편사망정식’ 2탄? 임지연 신들린 국밥 먹방 주목]]></title>
+        <id>https://v.daum.net/v/20230627184439505</id>
+        <link href="https://v.daum.net/v/20230627184439505"/>
+        <updated>2023-06-27T10:13:16.255Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 하지원 기자] '마당이 있는 집' 임지연이 짜장면에 이어 국밥 먹방으로 주목받고 있다. 6월 26일 방송된 지니 TV 오리지널 드라마 '마당이 있는 집' 3회에서는 남편 김윤범(최재림) 발인을 마치고 국밥을 먹는 추상은(임지연) 모습이 그려졌다. 추상은은 국밥에 밥을 말고 숟가락으로 한가득 퍼 먹었다. 추상은은 김치까지 올려 맛있게 먹어 시청자들]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[소희정, ‘기적의 형제’서 정우와 모자 케미]]></title>
         <id>https://v.daum.net/v/20230627180049099</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230627153729238"/>
         <updated>2023-06-27T07:12:10.481Z</updated>
         <content type="html"><![CDATA[‘킹더랜드’[이데일리 스타in 김가영 기자] 이준호, 임윤아 주연의 JTBC 새 토일드라마 ‘킹더랜드’가 로맨틱 코미디의 뻔함과 유치함을 딛고 승승장구 중이다. 시청률은 물론 화제성까지 싹쓸이하면서 안방 강자로 자리매김했다. ‘킹더랜드’는 웃음을 경멸하는 남자 구원과 웃어야만 하는 스마일 퀸 천사랑이 호텔리어들의 꿈인 VVIP 라운지 ‘킹더랜드’에서 진]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['어마그' 이원정 "지상파 첫 주연 부담감 多, 김동욱은 유죄인간"]]></title>
-        <id>https://v.daum.net/v/20230627153011866</id>
-        <link href="https://v.daum.net/v/20230627153011866"/>
-        <updated>2023-06-27T07:12:10.484Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 | 김노을 기자] 배우 이원정이 27일 오전 서울 종로구 스타뉴스 사옥에서 진행된 KBS 2TV 월화드라마 '어쩌다 마주친, 그대' 종영 인터뷰에 앞서 포즈를 취하고 있다.  이원정은 극 중 누구보다 꿈 많았던 매력적인 음악소년 백희섭 역을 맡아 시청자들의 눈길을 끌었다. 2023.06.27 /사진=김창현 기자 chmt@배우 이원정이 지상파 첫]]></content>
     </entry>
 </feed>

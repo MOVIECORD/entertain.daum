@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-06-27T09:12:35.418Z</updated>
+    <updated>2023-06-27T10:13:32.689Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[中 스타 차이쉬쿤 원나잇·임신 스캔들 “9천만원으로 중절수술 요구”]]></title>
+        <id>https://v.daum.net/v/20230627181235589</id>
+        <link href="https://v.daum.net/v/20230627181235589"/>
+        <updated>2023-06-27T10:13:32.047Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 하지원 기자] 중화권 스타 차이쉬쿤이 스캔들에 휘말렸다. 중국 시나연예 등 현지 언론은 6월 26일 차이쉬쿤이 여성 A씨와 원나잇 및 임신 중절 스캔들에 휘말렸다고 보도했다. 현지 언론에 따르면 여성 A씨는 2021년 7월 차이쉬쿤과 원나잇 관계로 만나 임신을 했고, 이후 차이쉬쿤 가족이 임신 중절을 요구하며 50만 위안(한화 약 9000만 원)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[블랙핑크 제니 화제성만 UP..말많탈많 '디 아이돌', 7월 급 종영]]></title>
         <id>https://v.daum.net/v/20230627151718237</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230627041003838"/>
         <updated>2023-06-26T19:10:18.115Z</updated>
         <content type="html"><![CDATA[(엑스포츠뉴스 이창규 기자)&nbsp;'토르: 러브 앤 썬더'의 감독 타이카 와이티티가 최근 다양성과 포용성을 추구하는 할리우드의 현황에 대해 비판했다. 타이카 와이티티는 지난달 31일(현지시간) 미국 할리우드 리포터(THR)의 '우리의 목소리 높이기'(Raising Our Voices) 오찬에서 무대에 올라 이야기를 전했다. 그는 "나는 '다양성'(diversit]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[킴 카다시안 성형수술 의혹, “이복 여동생 카일리 제너 닮아” 논란]]></title>
-        <id>https://v.daum.net/v/20230626214652724</id>
-        <link href="https://v.daum.net/v/20230626214652724"/>
-        <updated>2023-06-26T13:22:05.590Z</updated>
-        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]세계적 셀럽 킴 카다시안(42)이 또 다시 성형수술 의혹에 휩싸였다. 미국매체 쉬파인즈는 25일(현지시간) “킴 카다시안이 최근 새로운 옆 가르마 헤어스타일이 특징인 셀카 사진을 올려 큰 반향을 불러 일으켰다”면서 “팬들은 그의 어려보이는 외모와 윤곽이 잡힌 메이크업을 두고 수술 받은 것이 아니냐는 추측을 쏟아냈다”고 전했다]]></content>
     </entry>
 </feed>
