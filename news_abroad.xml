@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-06-28T09:12:48.385Z</updated>
+    <updated>2023-06-28T10:13:32.305Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['성희롱' 日 유명 배우, 90억 배상 위기]]></title>
+        <id>https://v.daum.net/v/20230628190030613</id>
+        <link href="https://v.daum.net/v/20230628190030613"/>
+        <updated>2023-06-28T10:13:31.545Z</updated>
+        <content type="html"><![CDATA[[TV리포트=유비취 기자] 일본의 인기 배우 이치카와 엔노스케가 자살 방조죄로 체포되면서 방송계 여파가 일고 있다. 28일 닛칸스포츠를 비롯한 다수 일본 매체에서는 이치카와 엔노스케(47)가 어머니의 극단적 선택을 도운 혐의로 체포됐다고 보도했다. 그는 성희롱 폭로를 당한 후 부모님과 함께 극단적인 시도를 했고 홀로 목숨을 건졌다. 지난달 18일 이치카와]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[기무라 타쿠야, 긴 머리 없이도 여전한 외모]]></title>
+        <id>https://v.daum.net/v/20230628182032093</id>
+        <link href="https://v.daum.net/v/20230628182032093"/>
+        <updated>2023-06-28T10:13:31.552Z</updated>
+        <content type="html"><![CDATA[[TV리포트=유비취 기자] 일본의 톱스타 기무라 타쿠야가 근황을 알리면서 활발한 활동을 예고했다. 27일 기무라 타쿠야(50)는 소셜네트워크서비스를 통해 상징이었던 긴 머리를 잘라내고 짧은 머리를 손질 중인 사진을 공개했다. 그는 짧은 머리에도 여전한 잘생긴 외모를 유지하고 있었다. 기무라 타쿠야는 영화의 코멘터리 촬영을 진행 중이라고 알렸다. 동시에 그는]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[스타에 '어머니 유골' 선물?...핑크, 공연하다 '당황']]></title>
         <id>https://v.daum.net/v/20230628180033332</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230628134030337"/>
         <updated>2023-06-28T05:11:59.378Z</updated>
         <content type="html"><![CDATA[[TV리포트=유비취 기자] 방송인 한나 버너가 약혼 과정에서 가수 찰리 푸스의 연락을 받았다고 폭로했다. 27일(현지 시간) 팟캐스트 'Giggly Squad(지글리 스쿼드)'에 출연한 한나 버너(31)는 약혼 직전에 찰리 푸스(31)에게 소셜네트워크서비스를 통해 연락을 받은 적이 있다고 밝혔다. 한나 버너는 약혼 전 파티 준비 중에 찰리 푸스의 연락을 받]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[인기 게임 '어몽어스', 애니화 확정…작가노조 파업 영향 無]]></title>
-        <id>https://v.daum.net/v/20230628114142430</id>
-        <link href="https://v.daum.net/v/20230628114142430"/>
-        <updated>2023-06-28T02:55:00.117Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 이창규 기자) 인기 게임 '어몽어스'가 애니메이션으로 제작된다. 27일(현지시간)&nbsp;미국 버라이어티는 파라마운트 산하 CBS 스튜디오가 '어몽어스'의 애니메이션 제작에 착수했다고 보도했다. 이들에 따르면 '빅 마우스', '스타트렉: 로워 덱스' 등을 제작한 티트머스도 제작에 함께 참여한다. 2018년 출시된 '어몽어스'는 2020년 코로나19]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[지민·에스파·피프티피프티 목소리가 할리우드 영화에]]></title>
-        <id>https://v.daum.net/v/20230628111026772</id>
-        <link href="https://v.daum.net/v/20230628111026772"/>
-        <updated>2023-06-28T02:55:00.124Z</updated>
-        <content type="html"><![CDATA[케이팝 가수들이 할리우드 대작 영화의 OST에 참여하며 영향력을 다시 한 번 입증하고 있다. 한국 가수들이 전 세계에서 인기를 얻으며 막대한 자본이 투입된 영화들의 오리지널 사운드 트랙에 유명 가수들과 어깨를 나란히 하는 일이 점점 늘어나고 있다. 마고 로비, 라이언 고슬링 주연의 영화 '바비'의 OST에는 피프티피프티가 참여해 '바비 드림스'를 불렀다.]]></content>
     </entry>
 </feed>
