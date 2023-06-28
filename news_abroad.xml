@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-06-28T14:11:44.537Z</updated>
+    <updated>2023-06-28T15:12:33.996Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[니키 미나즈, 母 때린 남자 총으로 쏜 10대 돕는다..."살인자 아닌 영웅"]]></title>
+        <id>https://v.daum.net/v/20230628233030468</id>
+        <link href="https://v.daum.net/v/20230628233030468"/>
+        <updated>2023-06-28T15:12:33.390Z</updated>
+        <content type="html"><![CDATA[[TV리포트=이수연 기자] 래퍼 니키 미나즈(40)가 엄마를 지키기 위해 살인을 저지른 소년의 사연에 소신을 전했다. 27일(현지 시간) 미국 매체 TMZ에 따르면 니키 미나즈는 살인을 저지른 14세 소년이 대학에 갈 수 있도록 돕겠다는 의사를 밝혔다. 해당 소년은 지난 18일 엄마 칼리시아 후드와 한 식당에 방문해 제레미 브라운(32)이라는 남성과 시비가]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[111년 전 침몰한 타이타닉의 저주?..관광 잠수정 사고→배우 사망]]></title>
         <id>https://v.daum.net/v/20230628230022274</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230628173014044"/>
         <updated>2023-06-28T09:12:47.554Z</updated>
         <content type="html"><![CDATA[[뉴스엔 하지원 기자] 배우 제니퍼 로렌스가 토크쇼 진행자 앤디 코헨과 입을 맞췄다. 6월 26일(현지 시간) 제니퍼 로렌스는 '와치 왓 해픈즈 라이브'에 출연했다. 제니퍼 로렌스는 앤디 코헨에게 "당신은 존 메이어와 키스했지만, 나에게는 한 번도 키스한 적이 없다"고 말했다. 이에 엔디 코헨은 "합의하고 당신에게 키스하고 싶다"고 이야기했고, 제니퍼 로]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['블랙 팬서' 故 채드윅 보스만, 할리우드 명예의 거리로 간다]]></title>
-        <id>https://v.daum.net/v/20230628172031643</id>
-        <link href="https://v.daum.net/v/20230628172031643"/>
-        <updated>2023-06-28T09:12:47.555Z</updated>
-        <content type="html"><![CDATA[[TV리포트=이수연 기자] 별이 된 할리우드 배우 채드윅 보스만이 할리우드 명예의 거리에 입성한다. 27일(현지 시간) 영국 데일리 메일에 따르면 채드윅 보스만은 2024년 할리우드 '명예의 거리'(Walk of Fame)에 유작으로 이름을 올린다. 이는 그가 세상을 떠난 지 3년 만이다.&nbsp; 같은 날 할리우드 명예의 거리 선정 위원회 측은 해당 사실을 알]]></content>
     </entry>
 </feed>
