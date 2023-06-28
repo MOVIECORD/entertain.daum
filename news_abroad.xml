@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-06-28T22:18:17.982Z</updated>
+    <updated>2023-06-28T23:17:02.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[64세 마돈나, 쓰러진 채 발견돼 중환자실까지 “치료 중”]]></title>
+        <id>https://v.daum.net/v/20230629075010651</id>
+        <link href="https://v.daum.net/v/20230629075010651"/>
+        <updated>2023-06-28T23:17:01.230Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 이민지 기자] 팝스타 마돈나가 쓰러졌다. 6월 28일(현지시간) 피플에 따르면 마돈나가 심각한 박테리아 감염 증상으로 쓰러진 채 발견돼 병원에 이송됐다. 마돈나 매니저이자 프로듀서 가이 오세리는 SNS를 통해 "마돈나가 건강 문제로 중환자실에 있었고 현재 회복 중"이라고 밝혔다. 그는 "24일 마돈나는 심각한 박테리아 감염으로 인해 중환자실에]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[켈리 클락슨 “이혼 후 항우울제 복용, 행복하지 않다”]]></title>
+        <id>https://v.daum.net/v/20230629072245224</id>
+        <link href="https://v.daum.net/v/20230629072245224"/>
+        <updated>2023-06-28T23:17:01.231Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 이민지 기자] 가수 켈리 클락슨이 이혼 후 우울증 증세를 고백했다. 버라이어티는 6월 28일(현지시간) 켈리 클락슨이 이혼 후 항우울제에 의존했다고 보도했다. 켈리 클락슨은 최근 팟캐스트에 출연해 "치료사와 만났고 눈물을 멈출 수 없었다. 울음을 멈출 수 없어 일정을 몇가지 취소해야 했다"고 이혼 후 우울증 증세를 고백했다. 그는 "두달여간]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[켈리 클락슨, “이혼 아픔 극복위해 항우울제 두달간 복용” 첫 고백]]></title>
         <id>https://v.daum.net/v/20230629064004658</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230628182032093"/>
         <updated>2023-06-28T10:13:31.552Z</updated>
         <content type="html"><![CDATA[[TV리포트=유비취 기자] 일본의 톱스타 기무라 타쿠야가 근황을 알리면서 활발한 활동을 예고했다. 27일 기무라 타쿠야(50)는 소셜네트워크서비스를 통해 상징이었던 긴 머리를 잘라내고 짧은 머리를 손질 중인 사진을 공개했다. 그는 짧은 머리에도 여전한 잘생긴 외모를 유지하고 있었다. 기무라 타쿠야는 영화의 코멘터리 촬영을 진행 중이라고 알렸다. 동시에 그는]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[스타에 '어머니 유골' 선물?...핑크, 공연하다 '당황']]></title>
-        <id>https://v.daum.net/v/20230628180033332</id>
-        <link href="https://v.daum.net/v/20230628180033332"/>
-        <updated>2023-06-28T09:12:47.540Z</updated>
-        <content type="html"><![CDATA[[TV리포트=석태진 기자] 가수 알레시아 베스 무어(일명 '핑크')가 무대에서 이상한 팬을 보고 공연을 멈췄다. 25일(현지 시간) 영국 서머 타임 페스티벌에 온 한 팬이 어머니의 유골이 담긴 봉투를 핑크의 무대에 던졌다. 핑크는 당황한 표정으로 봉투를 집어 들었다. 핑크는 유골을 던진 관중에게 "이분이 네 어머니냐"라고 물으며 "이 황당함을 어떻게 받아들]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[셀레나 고메즈, '지지 하디드→젠데이아' 스타 친구들 '언팔' 중]]></title>
-        <id>https://v.daum.net/v/20230628174030493</id>
-        <link href="https://v.daum.net/v/20230628174030493"/>
-        <updated>2023-06-28T09:12:47.541Z</updated>
-        <content type="html"><![CDATA[[TV리포트=이수연 기자] 팝스타 셀레나 고메즈가 스타 친구들과 불화설에 휩싸였다. 셀레나 고메즈는 최근 가수 제인 말리크, 모델 자매 지지 하디드와 벨라 하디드, 배우 젠데이아 등의 소셜네트워크서비스 팔로우를 취소하고 있는 것으로 전해진다. 이 가운데 26일(현지 시간) 미국 피플지는 한 측근의 말을 빌려 셀레나 고메즈가 팔로우를 해제한 스타들에게 '나]]></content>
     </entry>
 </feed>
