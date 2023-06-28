@@ -2,15 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-06-28T12:24:29.869Z</updated>
+    <updated>2023-06-28T13:22:28.761Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA["○○ 공포증 있는데" 연기 열정이 만든 '메소드 연기']]></title>
-        <id>https://v.daum.net/v/20230628211946811</id>
-        <link href="https://v.daum.net/v/20230628211946811"/>
-        <updated>2023-06-28T12:24:07.579Z</updated>
-        <content type="html"><![CDATA[[스포티비뉴스=유은비 기자] 온갖 두려움으로 가득 찬 상황에서도 작품에 대한 책임감과 열정으로 촬영을 마친 배우들이 있다. '귀공자' 김선호부터 '밀수' 김혜수, '악마들' 오대환까지 세 배우가 촬영 중 겪었던 어려움을 뒤늦게 토로했다. 공포증을 극복한 첫 번째 주인공은 '귀공자'의 김선호. 필리핀 불법 경기장을 전전하는 복싱 선수 마르코(강태주) 앞]]></content>
+        <title type="html"><![CDATA[아리 에스터 감독 “‘보 이즈 어프레이드’, 그리스 비극·구약 성서 등 영감”]]></title>
+        <id>https://v.daum.net/v/20230628215006337</id>
+        <link href="https://v.daum.net/v/20230628215006337"/>
+        <updated>2023-06-28T13:22:07.075Z</updated>
+        <content type="html"><![CDATA[[OSEN=유수연 기자] 영화 ‘보 이즈 어프레이드’ 감독 아리 에스터가 작품과 관련한 여러 이야기를 전했다. 28일 오후 서울시 광진구에 위치한 한 카페에서는 영화 ‘보 이즈 어프레이드’의 감독 아리 에스터의 라운드 인터뷰가 진행됐다. 영화 '유전' '미드소마' 등 작품을 통해 전 세계가 인정한 현대 호러 마스터로 자리매김한 아리 에스터 감독의 신작]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['결혼 7년차' 박하선 "출산 후 배역 변화? 작품 폭 넓어져…아쉬움 無"]]></title>
+        <id>https://v.daum.net/v/20230628215002334</id>
+        <link href="https://v.daum.net/v/20230628215002334"/>
+        <updated>2023-06-28T13:22:07.076Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 이창규 기자) '어디로 가고 싶으신가요'로 복귀한 박하선이 한 가정의 엄마로서, 그리고 배우로서의 이야기를 전했다. 28일 오후 서울 중구 한 카페에서 영화 '어디로 가고 싶으신가요'(감독 김희정) 박하선과의 인터뷰가 진행됐다. '어디로 가고 싶으신가요'는 갑작스러운 사고로 남편을 잃고 폴란드 바르샤바로 떠난 명지(박하선 분)와 같은 사고로]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[DC '슈퍼맨: 레거시', 데이빗 코렌스웻 캐스팅 확정]]></title>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230628180004282"/>
         <updated>2023-06-28T09:12:26.404Z</updated>
         <content type="html"><![CDATA[[스포티비뉴스=유은비 기자] '범죄도시3'의 천만 돌파가 가시화되며 두 번째 한국 쌍천만 시리즈 등극이 코앞으로 다가왔다. '범죄도시3'는 대체불가 괴물형사 ‘마석도’(마동석)가 서울 광역수사대로 이동 후, 신종 마약 범죄 사건의 배후인 ‘주성철’(이준혁)과 마약 사건에 연루된 또 다른 빌런 ‘리키’(아오키 무네타카)를 잡기 위해 펼치는 통쾌한 범죄]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박하선 "5개월 간 체중 관리…♥류수영 때문에 고충"]]></title>
-        <id>https://v.daum.net/v/20230628175017916</id>
-        <link href="https://v.daum.net/v/20230628175017916"/>
-        <updated>2023-06-28T09:12:26.406Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 이창규 기자) '어디로 가고 싶으신가요' 박하선이 남편 류수영 때문에 고충(?)이 많다고 전했다.&nbsp; 28일 오후 서울 중구 한 카페에서 영화 '어디로 가고 싶으신가요'(감독 김희정) 박하선과의 인터뷰가 진행됐다. '어디로 가고 싶으신가요'는 갑작스러운 사고로 남편을 잃고 폴란드 바르샤바로 떠난 명지(박하선 분)와 같은 사고로]]></content>
     </entry>
 </feed>
