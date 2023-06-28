@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-06-28T02:55:00.743Z</updated>
+    <updated>2023-06-28T03:23:52.191Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[영화 '라방' 박선호 "몰카 범죄, 하루빨리 사라지기를"]]></title>
+        <id>https://v.daum.net/v/20230628121607705</id>
+        <link href="https://v.daum.net/v/20230628121607705"/>
+        <updated>2023-06-28T03:23:29.835Z</updated>
+        <content type="html"><![CDATA[[티브이데일리 김진석 인턴기자] 배우 박선호가 영화의 소재인 몰카 범죄를 언급했다. 28일 오전 방송된 SBS 파워 FM '박하선의 씨네타운'의 코너 씨네 초대석엔 영화 '라방'의 박성웅과 박선호가 출연했다. '라방'은 프리랜서 PD 동주가 몰카 라이브 방송에 등장한 여자친구를 구하기 위해 라이브 방송에 참여해 1분 1초를 다투면서 실시간 라이브 추격전으]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[영화 '라방' 박성웅 "몰카 방송 이번에 처음 알았다"]]></title>
+        <id>https://v.daum.net/v/20230628121407669</id>
+        <link href="https://v.daum.net/v/20230628121407669"/>
+        <updated>2023-06-28T03:23:29.838Z</updated>
+        <content type="html"><![CDATA[[티브이데일리 김진석 인턴기자] 배우 박성웅이 영화 '라방'의 소재인 몰카 라이브 방송을 언급했다. 28일 오전 방송된 SBS 파워 FM '박하선의 씨네타운'의 코너 씨네 초대석에 영화 '라방'의 박성웅과 박선호가 출연했다. '라방'은 프리랜서 PD 동주가 몰카 라이브 방송에 등장한 여자친구를 구하기 위해 라이브 방송에 참여해 젠틀맨과 1분 1초를 다투면서]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2023 OTT 상반기 결산, '더 글로리' 넷플릭스는 강했다]]></title>
         <id>https://v.daum.net/v/20230628114804652</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230628090605147"/>
         <updated>2023-06-28T01:08:21.817Z</updated>
         <content type="html"><![CDATA[‘청년경찰’(2017)로 스크린에 화려하게 데뷔한 뒤 원톱 주연물 ‘사자’(2019)을 비롯해 최근작 ‘드림’(2023)까지 흥행 참패의 고배를 마신 박서준이 성수기 기대작 ‘콘크리트 유토피아’로 자존심 회복에 나선다. 박서준과 이병헌, 박보영의 만남으로 기대를 모으는 여름대전 참가자 ‘콘크리트 유토피아’는 대지진으로 폐허가 되어 버린 서울, 유일하게 남은]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[英 배우 줄리안 샌즈, 실종 5개월만 사망한 채 발견 "경위 조사"]]></title>
-        <id>https://v.daum.net/v/20230628090203019</id>
-        <link href="https://v.daum.net/v/20230628090203019"/>
-        <updated>2023-06-28T01:08:21.818Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 | 김노을 기자] 줄리안 샌즈 / 사진=/AFPBBNews=뉴스1=스타뉴스영국 배우 줄리안 샌즈가 실종 5개월 만에 주검으로 발견됐다. CNN, BBC 등 외신에 따르면 미국 캘리포니아주 샌버너디노 경찰은 27일(현지시간) 볼디산 인근 야생지대에서 발견된 유해가 줄리안 샌즈로 확인됐다고 밝혔다. 경찰 측은 "24일 볼디산에서 발견된 시신의 신]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[대체 불가 K-히어로, 마동석의 성공기]]></title>
-        <id>https://v.daum.net/v/20230628090118989</id>
-        <link href="https://v.daum.net/v/20230628090118989"/>
-        <updated>2023-06-28T01:08:21.818Z</updated>
-        <content type="html"><![CDATA[&lt;범죄도시&gt; 시리즈 주연배우이자 제작자 마동석이 말하는 성공 비하인드 스토리 영화 &lt;범죄도시3&gt;가 ‘천만 관객 돌파’ 고지를 앞두고 있다. 쟁쟁한 신작 개봉에도 굳건히 박스 오피스 1위를 지키고 있으며, 6월 18일 현재 누적 관객 수는 868만명을 돌파했다. 그뿐만 아니다. 올해 개봉작 중 최장 기간 박스 오피스 1위를 차지하고 있는 한국 영화라는 기]]></content>
     </entry>
 </feed>
