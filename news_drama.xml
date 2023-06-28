@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-06-28T13:22:28.750Z</updated>
+    <updated>2023-06-28T14:11:44.529Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['옥문아' 박선호 "보이프렌드·몬스타엑스 탈락 후 배우 전향"]]></title>
+        <id>https://v.daum.net/v/20230628222913941</id>
+        <link href="https://v.daum.net/v/20230628222913941"/>
+        <updated>2023-06-28T14:11:24.416Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 | 김지은 인턴기자] /사진='옥탑방의 문제아들' 화면 캡처배우 박선호가 과거 아이돌 연습생 시절을 회상했다. 28일 방영된 KBS2TV 예능 프로그램 '옥탑방의 문제아들'(이하 '옥문아')에서는 배우 박성웅, 박선호가 출연했다. 이날 방송에서 이찬원은 "무명 시절이 있었냐"며 박선호에 질문했다. 이에 박선호는 "저는 아직 알에서 깨어나지]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['옥문아' 박성웅 "♥신은정과 비밀 연애 중 키스신..엉덩이 쭉 빼"]]></title>
         <id>https://v.daum.net/v/20230628220033544</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230628175023920"/>
         <updated>2023-06-28T09:12:31.843Z</updated>
         <content type="html"><![CDATA[(엑스포츠뉴스 오승현 기자) '기적의 형제' 배우들이 박찬홍 감독의 페르소나를 꿈꾸며 경쟁에 열을 올렸다. 28일 오후 JTBC 새 수목드라마 '기적의 형제'(극본 김지우, 연출 박찬홍) 온라인 제작발표회가 진행됐다. 이 자리에는 박찬홍 감독과 배우 정우, 배현성, 박유림, 오만석, 이기우가 참석했다. '기적의 형제'는 윤동주가 되고 싶지만 현실은 빚뿐인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘산책’ 꼬장꼬장 독거노인 된 이순재, 명불허전 연기 내공]]></title>
-        <id>https://v.daum.net/v/20230628174338639</id>
-        <link href="https://v.daum.net/v/20230628174338639"/>
-        <updated>2023-06-28T09:12:31.843Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 박수인 기자] '오프닝 2023'의 두 번째 작품 '산책'의 포스터가 공개됐다. ‘O'PENing(오프닝) 2023’(이하 ‘오프닝 2023’)(기획 CJ ENM/제작 스튜디오드래곤)은 자유로운 형식과 참신한 시도가 돋보이는 7명의 신인 작가 작품으로 구성된 tvN X TVING 드라마 공동 프로젝트다. 오는 7월 16일(일) 밤 10시 40분]]></content>
     </entry>
 </feed>
