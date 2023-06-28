@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/variety</id>
     <title>다음 연예 ─ 뉴스 ─ 예능</title>
-    <updated>2023-06-28T18:15:03.163Z</updated>
+    <updated>2023-06-28T19:10:12.107Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘조인성 닮은꼴’ 박선호 “스타쉽의 1호 아이돌 연습생 출신” 반전 과거]]></title>
+        <id>https://v.daum.net/v/20230629033018876</id>
+        <link href="https://v.daum.net/v/20230629033018876"/>
+        <updated>2023-06-28T19:09:59.602Z</updated>
+        <content type="html"><![CDATA[[OSEN=박하영 기자] ‘옥탑방의 문제아들’ 박선호가 스타쉽의 초창기 연습생이라고 밝혔다. 28일 방영된 KBS2TV 예능 ‘옥탑방의 문제아들’(이하 ‘옥문아들’)에서는 ‘믿고 보는 악역 끝판왕’ 박성웅과 ‘꽃미남 비주얼 신예’ 박선호가 출연했다. 박선호는 '막돼먹은 영애씨 시즌14', '루갈' 등 다채로운 연기력을 선보였던&nbsp;신예 배우다.&nbsp; 이날 첫]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[영수, 순자에 대놓고 직진 시작? “앉으세요, 공주님”]]></title>
         <id>https://v.daum.net/v/20230629014005376</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230629001253057"/>
         <updated>2023-06-28T16:15:09.053Z</updated>
         <content type="html"><![CDATA[‘퀸연아’ 김연아가 은퇴 후 일상을 공개했다. 28일(수) 방송된 tvN ‘유 퀴즈 온 더 블럭’ 200회 특집에서는 신신예식장 백남문 사장, 코미디언 김용만, 피겨여왕 김연아가 출연해 MC 유재석, 조세호와 토크 릴레이를 펼쳤다. 이날 유재석이 김연아에게 하루 일과에 대해 물었다. 김연아는 “진짜 뭐 없다. 늦게 자고 늦게 일어난다”라고 답했다. 새]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['고딩맘' 김나라, 2분 거리를 택시로+과소비까지…박미선 '한숨']]></title>
-        <id>https://v.daum.net/v/20230629001204053</id>
-        <link href="https://v.daum.net/v/20230629001204053"/>
-        <updated>2023-06-28T15:12:22.656Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 장인영 기자) '고딩엄빠3' 박미선이 과소비에 쓸데없는 지출을 이어가는 고딩맘 김나라에게 잔소리를 폭발시켰다.&nbsp; 28일 방송된 MBN 예능 프로그램 '어른들은 모르는 고딩엄빠3'(이하 '고딩엄빠3')에서는 고딩맘 김나라의 일상이 전파를 탔다.&nbsp; 이날 고딩엄마 김나라의 일상이 공개됐다. 김나라는 "원룸 살 때 보증금하고 아르바이트하면서 모았던]]></content>
     </entry>
 </feed>
