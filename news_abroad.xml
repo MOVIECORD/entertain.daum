@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-06-28T10:13:32.305Z</updated>
+    <updated>2023-06-28T11:10:35.428Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[美 인기 시리즈 '산타바바라', 니콜라스 코스터 별세...향년 89세]]></title>
+        <id>https://v.daum.net/v/20230628193730740</id>
+        <link href="https://v.daum.net/v/20230628193730740"/>
+        <updated>2023-06-28T11:10:34.734Z</updated>
+        <content type="html"><![CDATA[[TV리포트=최은영 기자] 미국 드라마 '산타바바라'에서 라이오넬 록리지 역으로 유명한 베테랑 배우 니콜라스 코스터가 지난 26일(현지 시간)에 별세했다. 향년 89세. 코스터의 아들은 "나의 아버지, 배우 니콜라스 코스터가 오후 9시 1분 플로리다의 한 병원에서 세상을 떠났다"라며 "그가 진정한 배우의 배우였다는 것을 알아주세요! 항상 최선을 다했고, 훌]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['성희롱' 日 유명 배우, 90억 배상 위기]]></title>
         <id>https://v.daum.net/v/20230628190030613</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230628145207346"/>
         <updated>2023-06-28T06:16:00.699Z</updated>
         <content type="html"><![CDATA[[티브이데일리 김종은 기자] 영국 출신 배우 줄리안 샌즈(65세)가 실종된 지 5개월 만에 결국 주검으로 발견됐다. 미국 매체 CNN는 27일(현지시간) "최근 샌게이브리얼 산악지대 볼디산에서 발견된 유해의 신원이 줄리안 샌즈로 최종 확인됐다"라고 보도했다. 줄리안 샌즈는 앞서 지난 1월 13일 새벽 캘리포니아 샌가브리엘 산맥으로 등산을 떠났다 실종된]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[찰리 푸스, '약혼자' 있는 女에 대시?..."널 좋아해" DM]]></title>
-        <id>https://v.daum.net/v/20230628134030337</id>
-        <link href="https://v.daum.net/v/20230628134030337"/>
-        <updated>2023-06-28T05:11:59.378Z</updated>
-        <content type="html"><![CDATA[[TV리포트=유비취 기자] 방송인 한나 버너가 약혼 과정에서 가수 찰리 푸스의 연락을 받았다고 폭로했다. 27일(현지 시간) 팟캐스트 'Giggly Squad(지글리 스쿼드)'에 출연한 한나 버너(31)는 약혼 직전에 찰리 푸스(31)에게 소셜네트워크서비스를 통해 연락을 받은 적이 있다고 밝혔다. 한나 버너는 약혼 전 파티 준비 중에 찰리 푸스의 연락을 받]]></content>
     </entry>
 </feed>
