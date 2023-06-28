@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-06-28T04:18:46.167Z</updated>
+    <updated>2023-06-28T05:12:00.017Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[찰리 푸스, '약혼자' 있는 女에 대시?..."널 좋아해" DM]]></title>
+        <id>https://v.daum.net/v/20230628134030337</id>
+        <link href="https://v.daum.net/v/20230628134030337"/>
+        <updated>2023-06-28T05:11:59.378Z</updated>
+        <content type="html"><![CDATA[[TV리포트=유비취 기자] 방송인 한나 버너가 약혼 과정에서 가수 찰리 푸스의 연락을 받았다고 폭로했다. 27일(현지 시간) 팟캐스트 'Giggly Squad(지글리 스쿼드)'에 출연한 한나 버너(31)는 약혼 직전에 찰리 푸스(31)에게 소셜네트워크서비스를 통해 연락을 받은 적이 있다고 밝혔다. 한나 버너는 약혼 전 파티 준비 중에 찰리 푸스의 연락을 받]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[인기 게임 '어몽어스', 애니화 확정…작가노조 파업 영향 無]]></title>
         <id>https://v.daum.net/v/20230628114142430</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230628063030225"/>
         <updated>2023-06-27T22:12:11.513Z</updated>
         <content type="html"><![CDATA[[TV리포트=이예은 기자] 유명 모델 켄달 제너(27)가 '기저귀 패션'으로 대중을 경악하게 만들었다.&nbsp; 켄달 제너는 26일(현지 시간) 프랑스 베르사유에서 열린 자크뮈스 패션쇼에서 흰 구름 모양의 버블 미니 드레스를 입고 런웨이를 걸었다.&nbsp; 이날 그는 다소 기상천외한 패션을 본인만의 스타일로 소화해냈다.&nbsp;또 여기에 하이힐을 신고 머리를 깔끔하게 묶은 번]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[노아 사이러스, 연애 2달 만에 결혼 약속..."아이를 원해?"]]></title>
-        <id>https://v.daum.net/v/20230628030030229</id>
-        <link href="https://v.daum.net/v/20230628030030229"/>
-        <updated>2023-06-27T18:15:00.896Z</updated>
-        <content type="html"><![CDATA[[TV리포트=박지현 기자] 미국 가수 노아 사이러스(Noah Cyrus)가 이달 초 연인 핑커스(Pinkus)의 프러포즈를 받아들였다고 발표했다. 사이러스(23)는 지난 6월 26일 자신의 소셜 네트워크 서비스를 통해 다양한 데이트 장면이 담긴 커플 사진을 게시했다. 이와 함께 "당신의 약혼자가 된 지난 한 달은 너무 완벽했고, 앞으로도 함께 하고 싶다.]]></content>
     </entry>
 </feed>
