@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-06-29T18:17:06.119Z</updated>
+    <updated>2023-06-29T19:09:49.924Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘마당이 있는 집’ 음악감독 “내가 만들었지만 무서워, 자주 듣고 싶진 않다”]]></title>
+        <id>https://v.daum.net/v/20230630040007689</id>
+        <link href="https://v.daum.net/v/20230630040007689"/>
+        <updated>2023-06-29T19:09:33.910Z</updated>
+        <content type="html"><![CDATA[[동아닷컴] &lt;사진 제공&gt; KT스튜디오지니지니 TV 오리지널 드라마 '마당이 있는 집' 임하영 음악감독이 인터뷰를 통해 극강 서스펜스의 비밀을 밝혔다. ‘마당이 있는 집’(연출 정지현, 허석원/극본 지아니)은 밀도 높은 서사와 정지현 감독이 구현하는 소름 끼치는 미장센, 김태희(문주란 역)-임지연(추상은 역)-김성오(박재호 역)-최재림(김윤범 역)의 호연]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[빅뱅 탑 아닌 최승현, 사실상 은퇴 번복…'마약 혐의' 유아인 손절한 넷플릭스와 동행]]></title>
         <id>https://v.daum.net/v/20230629213303270</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230629175135235"/>
         <updated>2023-06-29T09:12:20.176Z</updated>
         <content type="html"><![CDATA[[스포츠한국 모신정 기자]&nbsp;'오징어 게임'의 주연 배우 이정재 측이 시즌2에 캐스팅된 빅뱅 출신 최승현(탑)의 캐스팅에 관여했다는 보도에 대해 전면 부인했다.&nbsp; 이정재의 소속사인 아티스트컴퍼니 측은 29일 오후 "이정재 배우가 '오징어 게임2' 캐스팅에 관여를 했다는 일부 보도는 사실이 아니다"라며 적극 부인했다.&nbsp; 이어 아티스트컴퍼니 측은 "작]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['오징어게임2' 탑 출연, 인맥 캐스팅이었나…이정재 측 "사실무근"]]></title>
-        <id>https://v.daum.net/v/20230629175002167</id>
-        <link href="https://v.daum.net/v/20230629175002167"/>
-        <updated>2023-06-29T09:12:20.176Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 윤현지 기자) 넷플릭스 시리즈 '오징어 게임' 시즌2의 캐스팅에 잡음이 불거지고 있다.&nbsp; 29일 넷플릭스는 '오징어 게임' 시즌2의 캐스팅을 공개했다. 박규영, 조유리, 원지안, 강애심, 이다윗, 이진욱, 최승현, 노재원의 캐스팅 소식을 전하며 지난 23일에는 대본 리딩도 마쳤다고 밝혔다. 앞서 넷플릭스는 글로벌 팬 이벤트 투둠(Tudum)을]]></content>
     </entry>
 </feed>
