@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-06-29T13:20:52.758Z</updated>
+    <updated>2023-06-29T14:12:11.858Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[메릴 스트립×제니퍼 로렌스 등 A급 배우 300명 파업 예고, “할리우드 올스톱” 비상]]></title>
+        <id>https://v.daum.net/v/20230629223633076</id>
+        <link href="https://v.daum.net/v/20230629223633076"/>
+        <updated>2023-06-29T14:12:10.942Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]아카데미 여우주연상에 빛나는 메릴 스트립, 제니퍼 로렌스 등 300여명의 할리우드 배우들이 파업을 예고하고 나서 할리우드에 비상이 걸렸다. 할리우드 A급 배우들은 스크린 배우 조합(SAG) 지도자들에게 부적절하다고 생각하는 영화 및 텔레비전 제작자 연합(AMPTP)과의 합의에 만족하지 말고 파업을 고려할 것을 촉구하고 있는]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[테일러 스위프트, 가수→감독? 오스카상 제작 단체에 초청 받았다]]></title>
         <id>https://v.daum.net/v/20230629220030684</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230629170030289"/>
         <updated>2023-06-29T08:19:49.568Z</updated>
         <content type="html"><![CDATA[[TV리포트=유비취 기자] 가수 베키 지가 젊은 여성으로서 오해와 편견을 받았다고 고백했다. 지난 27일(현지 시간) '투데이'에 출연한 베키 지(26)가 투자자로 참석한 행사에서 종업원으로 오해를 받은 일화를 공개했다. 그는 젊은 여성이라는 이유로 종업원이라는 오해를 샀다. 베키 지는 그가 투자자로 참여하고 있는 내셔널 여자 축구 리그의 새로운 로스앤젤레]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[윌 스미스 아들 "가족 다같이 환각제 복용...母부터 시작"]]></title>
-        <id>https://v.daum.net/v/20230629164036444</id>
-        <link href="https://v.daum.net/v/20230629164036444"/>
-        <updated>2023-06-29T08:19:49.569Z</updated>
-        <content type="html"><![CDATA[[TV리포트=유비취 기자] 윌 스미스의 아들 제이든 스미스가 가족을 위해 환각제를 복용한다고 고백했다. 지난 23일(현지 시간) 미국 덴버에서 열린 'Psychedelic Science(사이코델릭 사이언스)'에 참석한 제이든 스미스(24)는 자신의 가족이 환각제의 한 종류를 사용한다고 밝혔다. 제이든 스미스는 그의 어머니인 제이다 핀켓 스미스가 가족 중에]]></content>
     </entry>
 </feed>
