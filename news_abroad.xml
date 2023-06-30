@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-06-30T14:10:53.245Z</updated>
+    <updated>2023-06-30T15:11:56.715Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['의료적 합병증' 자취 감춘 제이미 폭스..측근 "옛날 모습 아냐"]]></title>
+        <id>https://v.daum.net/v/20230630231219337</id>
+        <link href="https://v.daum.net/v/20230630231219337"/>
+        <updated>2023-06-30T15:11:56.054Z</updated>
+        <content type="html"><![CDATA[[OSEN=최나영 기자] 배우 제이미 폭스가&nbsp;서서히 건강을 회복하고 있지만 아직 갈 길이 먼 것으로 알려졌다. 제이미 폭스는 지난 4월부터 의문의 '의료적 합병증'을 겪고 있는 가운데&nbsp;측근이&nbsp;"(제이미 폭스는) 여전히&nbsp;(투병으로 인해) 옛날 모습이 아니"라고 전했다. 현재 그의 상태에 대한 정확한 세부 사항이 공식적으로 발표되지 않았지만, 계속되는 건강]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[톰 크루즈, 스턴트 위해 '세계에서 가장 위험한 스포츠' 즐겨]]></title>
         <id>https://v.daum.net/v/20230630214031410</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230630174032066"/>
         <updated>2023-06-30T09:12:10.157Z</updated>
         <content type="html"><![CDATA[[TV리포트=박지현 기자] 미국 작가 테일러 암스트롱(52)이 첫 남편과 결혼하기 전의 비밀스러운 로맨스에 대해 밝혔다. 테일러 암스트롱은 넷플릭스 '베벌리 힐스의 진짜 주부들 시즌 11' 최신 에피소드에서 자신이 양성애자임을 밝히며, 한때 한 여성과의 장기 연애를 했다는 사실을 털어놨다. 프로그램 출연자 제니퍼 펜던트 리는 저녁 식사 중 테일러에게 "당]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[크리스 제너 "카다시안 딸들 유명세 저주 같아" 죄책감]]></title>
-        <id>https://v.daum.net/v/20230630174030065</id>
-        <link href="https://v.daum.net/v/20230630174030065"/>
-        <updated>2023-06-30T09:12:10.164Z</updated>
-        <content type="html"><![CDATA[[TV리포트=유비취 기자] 셀럽 카다시안 가족의 어머니 크리스 제너가 딸들의 유명세에 죄책감을 느낀다고 털어놨다. 29일(현지 시간) 훌루 '카다시안 패밀리'에 출연한 크리스 제너(67)는 카다시안 자매들의 유명세에 대해 솔직한 심정을 털어놨다. 그는 유명세가 저주 같다고 표현했다. 크리스 제너는 일명 카다시안 가족이라고 불리는 킴 카다시안, 코트니 카다시]]></content>
     </entry>
 </feed>
