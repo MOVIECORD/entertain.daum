@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-06-30T03:18:24.771Z</updated>
+    <updated>2023-06-30T04:14:13.472Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[펭수, 기자 변신…'미션 임파서블 7' 헤일리·폼 재회한다]]></title>
+        <id>https://v.daum.net/v/20230630123022929</id>
+        <link href="https://v.daum.net/v/20230630123022929"/>
+        <updated>2023-06-30T04:13:50.418Z</updated>
+        <content type="html"><![CDATA[[OSEN=김보라 기자]&nbsp;인기 캐릭터 펭수가 기자로 깜짝 변신한 가운데 해외 배우 헤일리 앳웰과 폼 클레멘티에프를 만난다. 헤일리 앳웰과 폼 클레멘티에프는 인기 유튜브 채널 ‘자이언트 펭TV’의 운영자 펭수와 30일 만나는 것으로 OSEN 취재 결과 확인됐다. 어제(29일) 오후 서울 신천동 롯데시네마 월드타워에서 진행된 새 시리즈 영화 ‘미션 임파서블]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[한승연 "'빈틈없는 사이', 카라 일정과 겹쳐 더 치열히…대본 깜지 쓰며 준비"]]></title>
         <id>https://v.daum.net/v/20230630121131543</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230630110547819"/>
         <updated>2023-06-30T02:47:50.930Z</updated>
         <content type="html"><![CDATA[박훈정 감독이 김선호의 새 얼굴을 발견한 것에 만족감을 드러냈다. 30일 오전 서울 종로구 한 카페에서 영화 ‘귀공자’ 박훈정 감독 인터뷰가 진행됐다. 이날 박훈정 감독은 김선호에 대해 “못 봤던 얼굴이라 좋았다. 김선호한테 그런 얼굴이 있었는데 아무도 안 쓰더라. 내가 써먹어야겠다고 생각했다”고 운을 뗐다. 김선호의 전작을 봤느냐는 질문에는 “캐스팅]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박훈정 감독 "'귀공자', 시작부터 우여곡절 많았던 작품…개봉하니 감회 새로워"]]></title>
-        <id>https://v.daum.net/v/20230630110442783</id>
-        <link href="https://v.daum.net/v/20230630110442783"/>
-        <updated>2023-06-30T02:47:50.930Z</updated>
-        <content type="html"><![CDATA[[스포츠조선 안소윤 기자] 박훈정 감독이 영화 '귀공자'를 개봉한 소감을 전했다. 박훈정 감독은 30일 서울 삼청동 한 카페에서 스포츠조선과 만나 "'귀공자'는 다른 작품과는 느낌이 다르다"라고 했다. 21일 개봉한 영화 '귀공자'는 필리핀 불법 경기장을 전전하는 복싱 선수 마르코 앞에 정체불명의 남자 귀공자를 비롯한 각기 다른 목적을 지]]></content>
     </entry>
 </feed>
