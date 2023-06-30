@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-06-30T13:19:06.503Z</updated>
+    <updated>2023-06-30T14:10:53.240Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['악귀' 홍경, 김태리에 날선 반응…”의심 받을 짓 하지마” 일침]]></title>
+        <id>https://v.daum.net/v/20230630223742133</id>
+        <link href="https://v.daum.net/v/20230630223742133"/>
+        <updated>2023-06-30T14:10:35.909Z</updated>
+        <content type="html"><![CDATA[[OSEN=유수연 기자]&nbsp;홍경이 수상한 김태리의 행적을 의심하기 시작했다. 30일 방송된 SBS ‘악귀’에서는 이상한 자살사건을 쫓는 강력범죄수사대 파트너 홍경(이홍새)와 김원해(서문춘)와 악귀 미스터리를 추적 중이던 김태리(구산영)와 염해상(오정세)가 마주치는 모습이 그려졌다. 이날 수소문 끝에 장진리에 살았던 인물인 이태영을 찾기 위해 김태리와 염해]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['비밀의 여자' 최윤영, 간이식 위해 하늘이 출생비밀 밝혀...한기웅 "뭐든 할 것"]]></title>
         <id>https://v.daum.net/v/20230630201930241</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230630162249760"/>
         <updated>2023-06-30T08:16:51.407Z</updated>
         <content type="html"><![CDATA[[뉴스엔 박수인 기자] 배우 정수빈이 '수사반장 1963'(가제)에 출연할까. MBC 측은 6월 30일 뉴스엔에 배우 정수빈의 MBC 새 드라마 '수사반장 1963'(가제) 출연 관련 "아직 정해진 바 없다"고 밝혔다. ‘수사반장 1963(가제)’(감독 김성훈/극본 김영신/크리에이터 박재범/제작 ㈜바른손스튜디오)은 대한민국 범죄 수사 드라마의 효시이자 최]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['악귀' 김태리, 오정세 손잡고 장진리 미스터리 추적 시작]]></title>
-        <id>https://v.daum.net/v/20230630161109423</id>
-        <link href="https://v.daum.net/v/20230630161109423"/>
-        <updated>2023-06-30T08:16:51.409Z</updated>
-        <content type="html"><![CDATA[[OSEN=최나영 기자]&nbsp;SBS ‘악귀’&nbsp;김태리가 오정세와 손잡고&nbsp;‘장진리’&nbsp;미스터리 추적을 시작한다.&nbsp;여기에 또 다른 중요한 단서인&nbsp;‘덕달이 나무’가 등장,&nbsp;눈길을 끈다. SBS&nbsp;금토드라마&nbsp;‘악귀’(극본 김은희,&nbsp;연출 이정림,&nbsp;제작 스튜디오S, BA엔터테인먼트)&nbsp;지난 방송에서 악귀가 누구인지 알아내기 위해 본격 공조를 예고한 산영(김태리)과 해상(오정]]></content>
     </entry>
 </feed>
