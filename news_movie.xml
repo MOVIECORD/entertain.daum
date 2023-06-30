@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-06-30T21:10:36.506Z</updated>
+    <updated>2023-06-30T22:11:30.810Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[아리 에스터 “봉준호 감독은 영웅, 송강호와 작업해보고파”]]></title>
+        <id>https://v.daum.net/v/20230701070301720</id>
+        <link href="https://v.daum.net/v/20230701070301720"/>
+        <updated>2023-06-30T22:11:08.031Z</updated>
+        <content type="html"><![CDATA[아리 에스터(36) 감독이 세 번째 연출작 ‘보 이즈 어프레이드’를 들고 한국을 찾았다. 아리 에스터 감독은 첫 장편 영화 ‘유전’으로 현대 호러 영화계에 괴물 감독의 등장을 알렸다. 두 번째 작품인 ‘미드소마’로 공포 걸작이라는 극찬과 함께 ‘현대 호러 마스터’라는 타이틀을 거머쥐었다. 7월 5일 개봉하는 ‘보 이즈 어프레이드’는 엄마를 만나러 가야 하는]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['미션7' 흥행 불패 잇나…톰 크루즈가 예열하는 극장가 여름 대전]]></title>
+        <id>https://v.daum.net/v/20230701070105677</id>
+        <link href="https://v.daum.net/v/20230701070105677"/>
+        <updated>2023-06-30T22:11:08.033Z</updated>
+        <content type="html"><![CDATA[(서울=뉴스1) 장아름 기자 = 지난해에 이어 올해도 '톰 아저씨' 톰 크루즈가 여름 극장가 예열에 나선다. 지난해 6월 개봉한 톰 크루즈 주연의 '탑건: 매버릭'(이하 '탑건2')은 누적관객수 819만 명을 기록, 흥행에 성공했다. 올해는 오는 7월12일, 톰 크루즈를 앞세운 영화 '미션 임파서블: 데드 레코닝 파트 원(PART ONE)'(이하 '미션]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['밀수' 김혜수부터 고민시까지...6인 6색 캐릭터 영상 공개]]></title>
         <id>https://v.daum.net/v/20230701010031936</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230630175740555"/>
         <updated>2023-06-30T09:11:49.221Z</updated>
         <content type="html"><![CDATA[영화는 스크린에만 머물지 않습니다. 1895년 처음 인류와 만난 영화는 태생부터 혼자 존재할 수 없는 예술이었습니다. 스크린을 바라보며 반응할 사람이 없다면, 그 영화는 상영되는 의미가 없기 때문입니다. 이제 한 편의 영화는 때와 장소를 가리지 않고 수도 없이 상영되면서 전 세계 어느 누구와도 만나는 소통의 창이 됐습니다. 영화는 영화 자체로도 이야기를 만]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BIFF 이사회 집행위원회 “영화제 차질 없이 치러낼 것”]]></title>
-        <id>https://v.daum.net/v/20230630175402462</id>
-        <link href="https://v.daum.net/v/20230630175402462"/>
-        <updated>2023-06-30T09:11:49.222Z</updated>
-        <content type="html"><![CDATA[부산국제영화제(BIFF) 측이 제28회 부산국제영화제를 차질 없이 치를 것이라는 의지를 밝혔다. 부산국제영화제 이사회와 집행위원회는 30일 입장문을 통해 “새로운 발전 방안을 도출할 혁신위원회를 원만하게 구성하겠다”고 밝혔다. 이어 “다 같이 힘을 모아 100여 일 앞으로 다가온 올해 영화제를 차질 없이 치러내겠다”며 “최대한 신속하게 혁신위의 얼개와 역할]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[미스캐스팅 논란 의식했나…'바비' 라이언 고슬링, 첫 내한 불발]]></title>
-        <id>https://v.daum.net/v/20230630175103318</id>
-        <link href="https://v.daum.net/v/20230630175103318"/>
-        <updated>2023-06-30T09:11:49.223Z</updated>
-        <content type="html"><![CDATA[[텐아시아=김세아 기자] 할리우드 스타 '바비' 라이언 고슬링의 생애 첫 내한이 취소됐다. 30일 영화 '바비' 측은 "'바비' 내한 행사에 배우 라이언 고슬링이 부득이한 사정으로 참석이 어렵게 됐다"고 밝혔다.&nbsp;이어 "라이언 고슬링은 다른 기회를 통해 곧 찾아뵙기를 바라고 있다. 라이언 고슬링의 내한을 기다렸을 많은 분들의 너른 양해 부탁드린다"고 덧]]></content>
     </entry>
 </feed>
