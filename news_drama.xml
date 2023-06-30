@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-06-30T18:15:01.933Z</updated>
+    <updated>2023-06-30T19:09:52.818Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['악귀' 김태리에 붙은 악귀, 오정세에 "오랜만이야" 섬뜩]]></title>
+        <id>https://v.daum.net/v/20230701040000363</id>
+        <link href="https://v.daum.net/v/20230701040000363"/>
+        <updated>2023-06-30T19:09:34.295Z</updated>
+        <content type="html"><![CDATA[[SBS연예뉴스 | 김효정 에디터] 오정세가 김태리의 악귀와 만났다. 30일 방송된 SBS 금토드라마 '악귀'에서는 자살귀를 좇는 구산영과 염해상의 모습이 그려졌다. 이날 구산영과 염해상은 자살귀 나무를 추적했고, 구산영은 장진리의 자살귀 나무가 있던 곳이 사채업자들의 아지트였다는 사실을 알아냈다. 그리고 구산영은 실종된 이태영의 친척 할아버지와 할머니가]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['악귀' 김태리-오정세, 진선규가 연구하던 '장진리의 비밀' 추적]]></title>
+        <id>https://v.daum.net/v/20230701033600357</id>
+        <link href="https://v.daum.net/v/20230701033600357"/>
+        <updated>2023-06-30T19:09:34.301Z</updated>
+        <content type="html"><![CDATA[[SBS연예뉴스 | 김효정 에디터] 김태리와 오정세가 댕기의 비밀을 추적했다. 30일 방송된 SBS 금토드라마 '악귀'에서는 구상모가 남긴 지도 속 장진리에 대해 조사하는 구산영과 염해상의 모습이 그려졌다. 이날 두 사람은 장진리에 대해 아는 어르신과 만났다. 어르신은 동생이 그곳에 살았다고 했다. 그리고 염해상이 보여주는 지도를 보며 "그래, 여기 장진리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[정승환, 이준호♥임윤아 ‘킹더랜드’ OST 참여…2일 공개]]></title>
         <id>https://v.daum.net/v/20230701010010930</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230630174323134"/>
         <updated>2023-06-30T09:11:54.508Z</updated>
         <content type="html"><![CDATA[(엑스포츠뉴스 이창규 기자) 배우 문가영이 드라마 '이로운 사기'에 특별출연한다. 30일 오후 문가영의 소속사 키이스트 측 관계자는 엑스포츠뉴스에 "문가영이 tvN 월화드라마 '이로운 사기'에 특별출연한다"고 전했다. 문가영은 '이로운 사기'의 연출을 맡은 이수현 감독과의 인연으로 특별출연한 것으로 알려졌다. 문가영은 지난 2020년 방송된 MBC 드라마]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김권, '국민사형투표' 출연…박해진·임지연과 호흡]]></title>
-        <id>https://v.daum.net/v/20230630172413617</id>
-        <link href="https://v.daum.net/v/20230630172413617"/>
-        <updated>2023-06-30T09:11:54.510Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 최희재 기자) 배우 김권이 새 드라마 '국민사형투표'에 출연한다. 30일 소속사 에이그라운드는 "김권이 SBS 새 드라마 '국민사형투표'에 출연을 확정했다"고 밝혔다. '국민사형투표'는 악질범들을 대상으로 국민사형투표를 진행하고 사형을 집행하는 '개탈'을 추적하는 이야기를 그린다. 카카오웹툰과 카카오페이지에서 연재돼 조회수 약 1억 3천만 회]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['금쪽같은' 동생 꼬집고 주먹으로 얼굴 가격…오은영, 뜻밖의 분석]]></title>
-        <id>https://v.daum.net/v/20230630172141554</id>
-        <link href="https://v.daum.net/v/20230630172141554"/>
-        <updated>2023-06-30T09:11:54.513Z</updated>
-        <content type="html"><![CDATA[‘금쪽 같은 내 새끼[이데일리 스타in 김가영 기자] ‘상처투성이로 살아가는 연년생 형제’의 이야기가 공개된다. 30일 방송되는 채널A ‘요즘 육아-금쪽같은 내새끼’에는 만 4세, 만 3세 천방지축 연년생 형제를 키우고 있는 다정한 부부가 등장한다. 소개 영상이 시작되고, 스튜디오는 동생을 사정없이 꼬집고 때리는 금쪽이의 모습에 충격에 빠졌다. 이에 엄마]]></content>
     </entry>
 </feed>

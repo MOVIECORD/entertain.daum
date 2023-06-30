@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/variety</id>
     <title>다음 연예 ─ 뉴스 ─ 예능</title>
-    <updated>2023-06-30T18:15:01.924Z</updated>
+    <updated>2023-06-30T19:09:52.811Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[허니제이 눈물 "말도 없이 떠나..날 싫어할 것 같아" 왜?]]></title>
+        <id>https://v.daum.net/v/20230701040723407</id>
+        <link href="https://v.daum.net/v/20230701040723407"/>
+        <updated>2023-06-30T19:09:40.331Z</updated>
+        <content type="html"><![CDATA[[OSEN=김수형 기자]'오은영의 금쪽 상담소'에서 편승엽 사연이 소개된 가운데, 예고편에서 허니제이와 제인이 고민을 전하며 눈물을 보였다.&nbsp; 30일 방송된 채널A 예능 '오은영의 금쪽 상담소'에서 예고편이 그려졌다.&nbsp; 이날 패널들은 “1남4녀로 자녀가 5명인 다복한 집안 , 사실 자녀분들에게 끌려왔다”며 소개, 원조 다둥이 아빠인 편승엽이었다.그는 ‘]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["발에 살찐 거 봐"…이장우, 102.5kg 등극→몸무게 세 자리 복귀]]></title>
         <id>https://v.daum.net/v/20230701013306031</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230630234945571"/>
         <updated>2023-06-30T15:11:46.625Z</updated>
         <content type="html"><![CDATA[(엑스포츠뉴스 장인영 기자) '하트시그널4' 신민수가 유인수의 마음을 받아줄까.&nbsp; 30일 방송된 채널A 예능 프로그램 '하트시그널 시즌4'에서는 유인수와 신민수의 첫 데이트 현장이 전파를 탔다.&nbsp; 이날 첫 데이트에 돌입한 새 입주자 유이수와 신민규는 한식당으로 향했다.&nbsp; 전골이 끓기를 기다리던 중, 유이수는 신민규에게 "가까이서 보니까 되게 뱀파이어 같다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["턱선 없어져" 이장우, 팜유세미나에 퉁퉁 붓는 비주얼]]></title>
-        <id>https://v.daum.net/v/20230630234722556</id>
-        <link href="https://v.daum.net/v/20230630234722556"/>
-        <updated>2023-06-30T15:11:46.625Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 원민순 기자) 이장우가 팜유세미나 여파로 퉁퉁 부어갔다. 30일 방송된 MBC '나 혼자 산다'에서는 이장우가 팜유세미나가 진행될수록 퉁퉁 부어가는 비주얼을 선보여 눈길을 끌었다. 이날 이장우는전현무, 박나래와 함께 목포의 디저트 맛집을 돌아다녔다. 박나래는 쑥굴레, 염통꼬치, 새우 바게트를 소개했다. 팜유즈는 유달산 팔각정에서 디저트 먹방을]]></content>
     </entry>
 </feed>
