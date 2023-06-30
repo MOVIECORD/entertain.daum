@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-06-30T04:14:13.476Z</updated>
+    <updated>2023-06-30T05:11:51.647Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[와타나베 켄, 21살 연하 불륜 상대와 세번째 결혼‥혼인신고 완료]]></title>
+        <id>https://v.daum.net/v/20230630140740980</id>
+        <link href="https://v.daum.net/v/20230630140740980"/>
+        <updated>2023-06-30T05:11:50.987Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 박수인 기자] 일본 배우 와타나베 켄이 불륜 상대와 세 번째 결혼했다. 6월 30일 일본 매체 스포니치 아넥스 보도에 따르면 와타나베 켄은 올 봄 21살 연하의 여성과 세 번째 결혼했다. 두 사람은 지난 2013년 여름에 만나 약 1년 후 교제를 시작했고 약 9년에 걸쳐 사랑을 키워온 끝에 올해 봄 혼인신고를 마쳤다. 와타나베 켄은 지난 2019]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['디 아이돌' 배우, 위켄드 '쉴드' 나섰다…"학대 없었다"]]></title>
+        <id>https://v.daum.net/v/20230630140030795</id>
+        <link href="https://v.daum.net/v/20230630140030795"/>
+        <updated>2023-06-30T05:11:50.989Z</updated>
+        <content type="html"><![CDATA[[TV리포트=유비취 기자] 선정성 논란에 시달린 HBO 드라마 '디 아이돌'의 배우 데이바인 조이 랜돌프가 주연 배우 겸 제작자인 위켄드를 옹호하고 나섰다. 29일(현지 시간) 연예 매체 버라이어티와 인터뷰에서 데이바인 조이 랜돌프는 '디 아이돌'에 대해 위켄드의 안목과 비전을 믿은 것이라고 밝혔다. '디 아이돌'은 선정성 및 노골적인 표현 등으로 숱한 논]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[앤워 하디드, 두아 리파와 헤어진 후 새로운 여친 찾았다]]></title>
         <id>https://v.daum.net/v/20230630130031234</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230629202030975"/>
         <updated>2023-06-29T12:22:52.795Z</updated>
         <content type="html"><![CDATA[[TV리포트=유비취 기자] DC '슈퍼걸'의 제작에 제동이 걸렸다. '슈퍼맨'과는 정반대의 행보를 보이고 있다. 지난 27일(현지 시간) 연예 매체 더 다이렉트에 따르면 DC 스튜디오의 '슈퍼걸' 제작이 어려워 보인다고 전망했다. 슈퍼걸 역에는 배우 사샤 카예가 캐스팅된 바 있다. 그는 425대 1의 경쟁률을 뚫고 합격해 에즈라 밀러의 플래시, 벤 애플렉]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['인디아나 존스 5', 개봉 동시 북미 박스오피스 1위… 한국은?]]></title>
-        <id>https://v.daum.net/v/20230629200030496</id>
-        <link href="https://v.daum.net/v/20230629200030496"/>
-        <updated>2023-06-29T11:12:47.520Z</updated>
-        <content type="html"><![CDATA[[TV리포트=유비취 기자] 15년 만에 돌아온 '인디아나 존스'가 개봉과 동시에 북미 박스오피스 1위를 달성했다. '인디아나 존스: 운명의 다이얼(이하 '인디아나 존스 5')'이 오는 30일(현지 시간) 북미 개봉을 앞두고 일찌감치 예매만으로 박스오피스 1위를 차지했다. '인디아나 존스 5'는 오는 30일부터 2일까지 주말 동안 북미 4,500개의 극장에서]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[제임스 건, 슈퍼맨은 확정이지만…"배트맨 캐스팅 멀었다"]]></title>
-        <id>https://v.daum.net/v/20230629194030888</id>
-        <link href="https://v.daum.net/v/20230629194030888"/>
-        <updated>2023-06-29T11:12:47.521Z</updated>
-        <content type="html"><![CDATA[[TV리포트=유비취 기자] DC의 '슈퍼맨'이 캐스팅을 확정 지은 가운데 '배트맨'은 아직 갈 길이 멀다. 지난 27일(현지 시간) DC 스튜디오가 영화 '슈퍼맨: 레거시'의 슈퍼맨 클라크 켄트 역으로 배우 데이비드 코렌스웻을 확정 지었다. 이에 28일 DC 스튜디오의 수장이자 감독인 제임스 건에게 배트맨에 대한 질문이 쏟아졌고 그는 시기 상조라고 답했다.]]></content>
     </entry>
 </feed>
