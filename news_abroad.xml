@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-06-30T16:15:21.472Z</updated>
+    <updated>2023-06-30T17:11:16.025Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[오스카 남우조연상 배우 앨런 아킨 별세…향년 89세]]></title>
+        <id>https://v.daum.net/v/20230701020147110</id>
+        <link href="https://v.daum.net/v/20230701020147110"/>
+        <updated>2023-06-30T17:11:15.203Z</updated>
+        <content type="html"><![CDATA[(로스앤젤레스=연합뉴스) 임미나 특파원 = 오스카 남우조연상을 받은 할리우드 배우 앨런 아킨이 별세했다. 향년 89세. 아킨의 아들 애덤·매슈·앤서니는 30일(현지시간) 성명을 통해 아버지의 별세 소식을 확인했다고 AP통신 등 미국 매체들이 전했다. 이들은 "아버지는 예술가이자 한 인간으로서 독보적인 재능을 지닌 분이었다"고 말했다. 시카고의 유명 극단 ']]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['의료적 합병증' 자취 감춘 제이미 폭스..측근 "옛날 모습 아냐"]]></title>
         <id>https://v.daum.net/v/20230630231219337</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230630182030115"/>
         <updated>2023-06-30T10:12:37.674Z</updated>
         <content type="html"><![CDATA[[TV리포트=이예은 기자] '인디아나 존스' 해리슨 포드는 '영웅'이라는 단어를 싫어한다.&nbsp; 외신 연예 매체 엔터테인먼트 투나잇은 27일(현지 시간) 배우 해리슨 포드와의 인터뷰를 공개했다.&nbsp; 이날 해리슨 포드는 "난 '영웅'이라는 단어는 잘못된 방향으로 시작될 수 있다고 생각하기 때문에 절대 사용하지 않는다"라고 고백했다.&nbsp; 그러면서 '인디아나 존스' 캐]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['베벌리 힐스의 진짜 주부들' 테일러 암스트롱, 양성애 고백]]></title>
-        <id>https://v.daum.net/v/20230630174032066</id>
-        <link href="https://v.daum.net/v/20230630174032066"/>
-        <updated>2023-06-30T09:12:10.157Z</updated>
-        <content type="html"><![CDATA[[TV리포트=박지현 기자] 미국 작가 테일러 암스트롱(52)이 첫 남편과 결혼하기 전의 비밀스러운 로맨스에 대해 밝혔다. 테일러 암스트롱은 넷플릭스 '베벌리 힐스의 진짜 주부들 시즌 11' 최신 에피소드에서 자신이 양성애자임을 밝히며, 한때 한 여성과의 장기 연애를 했다는 사실을 털어놨다. 프로그램 출연자 제니퍼 펜던트 리는 저녁 식사 중 테일러에게 "당]]></content>
     </entry>
 </feed>
