@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-06-30T22:11:30.817Z</updated>
+    <updated>2023-06-30T23:11:19.748Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[톰 홀랜드 “젠데이아와 사랑, 너무 자랑스러워” 달콤 로맨스]]></title>
+        <id>https://v.daum.net/v/20230701075941145</id>
+        <link href="https://v.daum.net/v/20230701075941145"/>
+        <updated>2023-06-30T23:11:19.075Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]‘스파이더맨’ 톰 홀랜드(27)가 젠데이아와 달콜한 로맨스를 즐기고 있다. 한 소식통은 6월 30일(현지시간) “톰과 젠데이아가 처음 데이트를 했을 때 그들은 로맨스를 감추기 위해 최선을 다했다”고 말했다. 이어 “두 사람은 서로를 만나기 전에는 항상 사적인 생활을 해왔다. 그들은 대중의 추측을 피하는 데 있어 같은 생각을]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[오스카 남우조연상 배우 앨런 아킨 별세…향년 89세]]></title>
         <id>https://v.daum.net/v/20230701020147110</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230630182034117"/>
         <updated>2023-06-30T10:12:37.671Z</updated>
         <content type="html"><![CDATA[[TV리포트=이수연 기자] 팝스타 마돈나의 상황이 심각하다. 29일(현지 시간) 미국 TMZ는 "마돈나(64)는 박테리아 감염으로 병원에 입원한 후 위기를 벗어난 것이 아니다. 마돈나는 여전히 병상에 누워 있다"고 보도했다. 이어 측근의 말을 빌려 "마돈나는 월드 투어를 시작할 수 있는 상태가 아니다"라고 덧붙였다. 지난 28일 현지 외신은 "마돈나가 의]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[해리슨 포드 "인디아나 존스, 영웅이라 부르지 마라"]]></title>
-        <id>https://v.daum.net/v/20230630182030115</id>
-        <link href="https://v.daum.net/v/20230630182030115"/>
-        <updated>2023-06-30T10:12:37.674Z</updated>
-        <content type="html"><![CDATA[[TV리포트=이예은 기자] '인디아나 존스' 해리슨 포드는 '영웅'이라는 단어를 싫어한다.&nbsp; 외신 연예 매체 엔터테인먼트 투나잇은 27일(현지 시간) 배우 해리슨 포드와의 인터뷰를 공개했다.&nbsp; 이날 해리슨 포드는 "난 '영웅'이라는 단어는 잘못된 방향으로 시작될 수 있다고 생각하기 때문에 절대 사용하지 않는다"라고 고백했다.&nbsp; 그러면서 '인디아나 존스' 캐]]></content>
     </entry>
 </feed>
