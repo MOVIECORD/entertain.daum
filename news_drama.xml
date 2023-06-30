@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-06-30T02:48:13.143Z</updated>
+    <updated>2023-06-30T03:18:24.778Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['알유넥스트' 박규리 "카라, 야생마처럼 자랐다"]]></title>
+        <id>https://v.daum.net/v/20230630115735053</id>
+        <link href="https://v.daum.net/v/20230630115735053"/>
+        <updated>2023-06-30T03:18:06.820Z</updated>
+        <content type="html"><![CDATA[[이데일리 스타in 김현식 기자] ‘알유넥스트’ 코치인 카라 박규리가 연습생 시절을 돌아봤다. 30일 오전 서울 마포구 상암동 스탠포드호텔 그랜드볼룸에서 JTBC ‘알유넥스트’(R U NEXT?) 제작발표회가 열렸다. 이날 박규리는 “정말 솔직히 말씀드리면 제가 연습생이었을 때는 지금과 같은 많은 케어를 받지 못 했다”고 말했다. 이어 “하이브 연습생들을]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['알유넥스트' 최수영 "연습생들 지켜보며 자극 받아"]]></title>
         <id>https://v.daum.net/v/20230630114651622</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230630090802007"/>
         <updated>2023-06-30T01:04:07.107Z</updated>
         <content type="html"><![CDATA[[텐아시아=강민경 기자] SBS '관계자 외 출입금지' 미미가 국산 전투기와 헬기가 탄생하는 KAI의 이색적 풍격과 압도적 스케일에 흥분을 감추지 못했다. 29일 방송된 SBS '관계자 외 출입금지(이하 관출금)' 5회는 대한민국 정치와 나라살림의 중심인 국회의사당 2편 그리고 국내 유일의 전투기 공장 한국항공우주(KAI) 1편으로 꾸며졌다. '관출금']]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘악귀’ 김태리, 오정세 손잡고  장진리 미스터리 추적]]></title>
-        <id>https://v.daum.net/v/20230630090558926</id>
-        <link href="https://v.daum.net/v/20230630090558926"/>
-        <updated>2023-06-30T01:04:07.110Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 이민지 기자] 김태리와 오정세가 장진리 미스터리 추적을 시작한다. SBS 금토드라마 ‘악귀’(극본 김은희/연출 이정림) 지난 방송에서 악귀가 누구인지 알아내기 위해 본격 공조를 예고한 산영(김태리 분)과 해상(오정세 분)에게 주어진 첫 번째 단서는 ‘장진리’였다. 산영은 할머니 석란(예수정 분)의 목숨을 앗아간 악귀의 시선으로 강모의 연구 노]]></content>
     </entry>
 </feed>
