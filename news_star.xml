@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2023-07-01T19:09:20.987Z</updated>
+    <updated>2023-07-01T20:11:37.914Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['이영자 매니저' 송성호, 이찬원 만든 곡 받았다…데뷔 임박]]></title>
+        <id>https://v.daum.net/v/20230702051002283</id>
+        <link href="https://v.daum.net/v/20230702051002283"/>
+        <updated>2023-07-01T20:11:31.608Z</updated>
+        <content type="html"><![CDATA[(서울=뉴스1) 이아영 기자 = 송성호 실장이 이찬원이 만든 곡을 받았다. 1일 방송된 MBC '전지적 참견 시점'에서는 이영자와 송성호 실장이 트로트 가수 이찬원을 만났다. 이찬원을 본 이영자는 "연락이 없어서 포기한 줄 알았다"며 반가워했다. 이찬원은 "이번 기획이 대단하다. 이 정도 투자에 곡을 못 살리면 앞으로 가요계에 발도 들이면 안 된다"고]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[유재석X이이경X주우재, 처음 본 여행객들에게 효자 노릇]]></title>
+        <id>https://v.daum.net/v/20230702045001235</id>
+        <link href="https://v.daum.net/v/20230702045001235"/>
+        <updated>2023-07-01T20:11:31.617Z</updated>
+        <content type="html"><![CDATA[(서울=뉴스1) 이아영 기자 = 유재석과 이이경, 주우재가 처음 본 여행객들에게 효자 노릇을 했다. 1일 방송된 MBC '놀면 뭐 하니?'에서는 처음 보는 사람들과 국내 패키지여행을 떠났다. 이날 멤버들은 단합대회라고 알고 제작진이 안내한 버스에 탔다. 그런데 버스에는 모르는 사람들이 이미 탑승해 있었다. 이들은 갯벌 체험을 하러 간다고 했다. 바로 국]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘전참시’ 정우 “‘응사’ 끝나고 몸과 마음 주저앉았다”]]></title>
         <id>https://v.daum.net/v/20230702010001058</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230701223115521"/>
         <updated>2023-07-01T14:10:32.288Z</updated>
         <content type="html"><![CDATA[(서울=뉴스1) 김민지 기자 = 개그맨 이상훈이 어마어마한 규모의 피규어 박물관을 공개했다. 1일 오후 방송된 KBS 2TV '살림하는 남자들 시즌2'(이하 '살림남2')에서 '스타워즈 덕후'로 유명한 강다니엘은 47만 '키덜트' 유튜버이자 개그맨 이상훈이 운영하는 경기도 양주의 피규어 박물관을 찾았다. 박물관에 간 강다니엘은 5000여 점의 피규어를]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[최예나, 위험했던 동경…'헤이트 로드리고' 제목 논란→일정도 취소]]></title>
-        <id>https://v.daum.net/v/20230701223005519</id>
-        <link href="https://v.daum.net/v/20230701223005519"/>
-        <updated>2023-07-01T14:10:32.290Z</updated>
-        <content type="html"><![CDATA[[스포티비뉴스=장진리 기자] 가수 최예나의 '헤이트 로드리고'가 문제적 신곡이 됐다. 최예나는 지난달 27일 '헤이트 엑스엑스'를 발표하고 타이틀곡 '헤이트 로드리고'로 활동을 시작했다. '헤이트 로드리고'는 선망의 대상에 대한 동경을 '나보다 잘나가는 애들은 다 싫어!'라는 귀여운 질투로 표현한 곡이다. 이 곡은 최예나가 작사, 작곡했다. 최예나]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이세창 "스트레스로 단기 기억상실증... 내 이름도 생각 안 나"]]></title>
-        <id>https://v.daum.net/v/20230701222400483</id>
-        <link href="https://v.daum.net/v/20230701222400483"/>
-        <updated>2023-07-01T14:10:32.293Z</updated>
-        <content type="html"><![CDATA[[TV리포트=이혜미 기자] 배우 이세창이 스트레스로 인한 단기 기억상실증을 고백했다. 1일 푸하하TV가 운영하는 웹 예능 ‘심야 신당’에선 이세창이 게스트로 출연했다. 원조 미남스타로 1990년대 활발하게 활동했던 이세창에 대해 정호근은 “마음에 불이 많다. 인내하지 못할 정도의 성격이 내재된 사람이다. 그것을 억누르고 살다 보면 몸에 데미지가 오게 될 것]]></content>
     </entry>
 </feed>
