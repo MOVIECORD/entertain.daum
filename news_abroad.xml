@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-07-01T11:09:29.121Z</updated>
+    <updated>2023-07-01T12:21:12.947Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[마돈나, “64살에 열정적으로 춤추다 병원 실려가”]]></title>
+        <id>https://v.daum.net/v/20230701204051632</id>
+        <link href="https://v.daum.net/v/20230701204051632"/>
+        <updated>2023-07-01T12:21:12.180Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]세계적 팝스타 마돈나(64)가 박테리아 감염으로 응급실에 실려간 가운데 친구들이 그의 건강을 걱정하고 나섰다. 한 친구는 1일(현지시간) 페이지식스와 인터뷰에서 “마돈나는 끊임없이 자신을 밀어붙이는 사람이고, 함께 일하는 사람들만큼이나 훌륭하지만 그들 중 다수는 훨씬 어리고 부상 경력이 없다는 것을 깨달아야한다”고 말했다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['오스카 명배우' 앨런 아킨, 美 자택서 사망... 향년 89세]]></title>
         <id>https://v.daum.net/v/20230701190700736</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230701075941145"/>
         <updated>2023-06-30T23:11:19.075Z</updated>
         <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]‘스파이더맨’ 톰 홀랜드(27)가 젠데이아와 달콜한 로맨스를 즐기고 있다. 한 소식통은 6월 30일(현지시간) US위클리와 인터뷰에서“톰과 젠데이아가 처음 데이트를 했을 때 그들은 로맨스를 감추기 위해 최선을 다했다”고 말했다. 이어 “두 사람은 서로를 만나기 전에는 항상 사적인 생활을 해왔다. 그들은 대중의 추측을 피하는]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오스카 남우조연상 배우 앨런 아킨 별세…향년 89세]]></title>
-        <id>https://v.daum.net/v/20230701020147110</id>
-        <link href="https://v.daum.net/v/20230701020147110"/>
-        <updated>2023-06-30T17:11:15.203Z</updated>
-        <content type="html"><![CDATA[(로스앤젤레스=연합뉴스) 임미나 특파원 = 오스카 남우조연상을 받은 할리우드 배우 앨런 아킨이 별세했다. 향년 89세. 아킨의 아들 애덤·매슈·앤서니는 30일(현지시간) 성명을 통해 아버지의 별세 소식을 확인했다고 AP통신 등 미국 매체들이 전했다. 이들은 "아버지는 예술가이자 한 인간으로서 독보적인 재능을 지닌 분이었다"고 말했다. 시카고의 유명 극단 ']]></content>
     </entry>
 </feed>
