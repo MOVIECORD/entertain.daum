@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-07-01T21:10:21.753Z</updated>
+    <updated>2023-07-01T22:10:21.617Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['더 문'→'콘크리트 유토피아', 2023 여름 대전 승자는]]></title>
+        <id>https://v.daum.net/v/20230702070023007</id>
+        <link href="https://v.daum.net/v/20230702070023007"/>
+        <updated>2023-07-01T22:09:58.310Z</updated>
+        <content type="html"><![CDATA[(서울=뉴스1) 정유진 기자 = '범죄도시3'에 이어 올 여름에도 천만 영화가 나올 수 있을까. 성수기라도 한국 영화의 흥행은 쉽지 않은 요즘이다. 지난해 여름에는 영화 '외계+인'과 '한산: 용의 출현' '비상선언' '헌트'까지 4편의 영화가 성수기라 부르는 7월과 8월 두 달에 걸쳐 개봉을 했지만 그보다 앞서 5월에 개봉한 천만 영화 '범죄도시2'에]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[제2의 진선규 등장?...믿고 보는 마동석 PICK]]></title>
         <id>https://v.daum.net/v/20230702000046873</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230701131202438"/>
         <updated>2023-07-01T04:13:41.316Z</updated>
         <content type="html"><![CDATA[‘신세계’ ‘마녀’ 시리즈 등 누아르에 특화된 박훈정 감독(48)이 이번엔 ‘귀공자’로 돌아왔다. 영화 ‘귀공자’는 필리핀 불법 경기장을 전전하는 복싱 선수 마르코(강태주 분) 앞에 정체불명의 남자 귀공자(김선호 분)를 비롯한 각기 다른 목적을 지닌 세력들이 나타나 광기의 추격을 펼치는 이야기를 담았다. ‘귀공자’는 당초 ‘슬픈 열대’로 알려졌으나, 제목을]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[배우·감독·관객 답한 인기비결과 숙제]]></title>
-        <id>https://v.daum.net/v/20230701130201368</id>
-        <link href="https://v.daum.net/v/20230701130201368"/>
-        <updated>2023-07-01T04:13:41.316Z</updated>
-        <content type="html"><![CDATA[383일. 새로운 1000만 영화가 탄생하기까지 걸린 시간이다. 영광의 주인공은 지난 5월31일 개봉한 영화 ‘범죄도시3’(감독 이상용). 전작 ‘범죄도시2’(감독 이상용)에 이어 후속 시리즈가 약 1년 만에 또 한 번 역사를 쓴 셈이다. ‘범죄도시3’는 개봉 32일차에 1000만 고지를 밟으며 국내 개봉작 중 30번째 1000만 영화로 이름 올렸다.]]></content>
     </entry>
 </feed>
