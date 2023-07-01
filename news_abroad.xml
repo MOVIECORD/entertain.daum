@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-07-01T04:14:03.091Z</updated>
+    <updated>2023-07-01T05:11:37.819Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“성형 위해 1억 이상 써” 케빈 코스트너 아내, 저택 떠난다]]></title>
+        <id>https://v.daum.net/v/20230701134130613</id>
+        <link href="https://v.daum.net/v/20230701134130613"/>
+        <updated>2023-07-01T05:11:37.082Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 박수인 기자] 어마어마한 양육비를 요구한 크리스틴 바움가트너(Christine Baumgartner)가 배우 및 감독 케빈 코스트너(Kevin Costner)의 저택을 떠난다. 최근 미국 연예 매체 페이지식스는 케빈 코스트너와 별거 중인 크리스틴 바움가트너가 세 자녀 중 두 명과 마을을 떠났다고 보도했다. 보도에 따르면 크리스틴 바움가트너는 케빈]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['그루밍 혐의' 에즈라 밀러, 임시 접근금지 명령 해체…"부당하게 지목돼"]]></title>
         <id>https://v.daum.net/v/20230701104421029</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230630210030789"/>
         <updated>2023-06-30T12:22:11.282Z</updated>
         <content type="html"><![CDATA[[TV리포트=유비취 기자] 카다시안 가족으로 유명한 방송인 코트니 카다시안이 결혼 후 남편의 성을 따랐다. 29일 코트니 카다시안은 소셜네트워크서비스를 통해 면허증에 새로 등록된 사진과 이름을 공개했다. 면허증 속 코트니 카다시안은 남편 성이 추가된 '코트니 카다시안 바커'였다. 지난 17일(현지 시간) 코트니 카다시안은 남편 트래비스 바커의 콘서트에서 임]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['하이큐' 성우 사이토 소마, 결혼 발표 "새로운 길 함께 걷기로"]]></title>
-        <id>https://v.daum.net/v/20230630204030560</id>
-        <link href="https://v.daum.net/v/20230630204030560"/>
-        <updated>2023-06-30T12:22:11.284Z</updated>
-        <content type="html"><![CDATA[[TV리포트=최은영 기자] '하이큐' 성우 사이토 소마 (32)가 소속사 공식 홈페이지를 통해 결혼 소식을 전했다. 사이토의 소속사 81프로덕션은 오늘(30일) 공식 홈페이지에 "평소 사이토 소우마 및 당사 소속 배우를 응원해 주셔서 감사하다"라며 "당사 소속 사이토 소우마가 혼인신고 했음을 알려드린다. 앞으로도 여러분들이 작품과 콘텐츠로 함께 즐기기 위해]]></content>
     </entry>
 </feed>
