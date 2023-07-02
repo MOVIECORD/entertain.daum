@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-07-02T03:00:05.973Z</updated>
+    <updated>2023-07-02T03:28:18.746Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["도합 6100만"..마동석의 MCU, 최다 천만배우의 힘]]></title>
+        <id>https://v.daum.net/v/20230702120147084</id>
+        <link href="https://v.daum.net/v/20230702120147084"/>
+        <updated>2023-07-02T03:27:57.419Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 | 김미화 기자] 영화 '범죄도시'의 마동석/사진제공=㈜키위미디어그룹 배우 마동석이 한국 배우 중 최다 천만 영화 5편의 기록을 보유하게 됐다. 특히 마동석은 자신이 직접 각본을 쓰고 제작에 참여한 '범죄도시' 시리즈 2편을 천만 영화에 올려놓으며 한국 영화계에 새로운 전설을 만들어 냈다. 지난 5월 개봉한 영화 '범죄도시3'가 지난 7일 누적]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[그래, 한국영화엔 최민식이 있었다]]></title>
         <id>https://v.daum.net/v/20230702115400782</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230702090301259"/>
         <updated>2023-07-02T01:09:04.752Z</updated>
         <content type="html"><![CDATA[배우 김선호가 돌아왔다. 김선호의 첫 스크린 데뷔작 ‘귀공자’(감독 박훈정)는 필리핀 불법 경기장을 전전하는 복싱 선수 마르코(강태주 분) 앞에 정체불명의 남자 귀공자(김선호 분)를 비롯한 각기 다른 목적을 지닌 세력들이 나타나 광기의 추격을 펼치는 이야기이다. 극 중 김선호는 의문의 추격자 귀공자 역을 맡았다. 슈트를 입고 깔끔하게, 맑은 눈의 광기를 보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박하선 “세상 떠난 동생 생각에 눈물, 감동 전해지길”]]></title>
-        <id>https://v.daum.net/v/20230702090024154</id>
-        <link href="https://v.daum.net/v/20230702090024154"/>
-        <updated>2023-07-02T01:09:04.753Z</updated>
-        <content type="html"><![CDATA[박하선이 배우로서 또 엄마로서 인생 2막을 열었다. 요즘 상업 영화보다 독립 영화에 좀 더 끌린다는 박하선은 “내가 재밌어하는 작품”을 찾아 관객을 만날 예정이다. 영화 ‘어디로 가고 싶으신가요’는 갑작스러운 사고로 남편을 잃고 폴란드 바르샤바로 떠난 명지(박하선)와 같은 사고로 동생을 잃은 지은(정민주), 단짝 친구와 이별한 해수(문우진)가 상처를 어]]></content>
     </entry>
 </feed>

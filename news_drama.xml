@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-07-02T03:00:05.983Z</updated>
+    <updated>2023-07-02T03:28:18.748Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['악귀' 김태리, 연기 내공 입증했다]]></title>
+        <id>https://v.daum.net/v/20230702120039944</id>
+        <link href="https://v.daum.net/v/20230702120039944"/>
+        <updated>2023-07-02T03:28:02.652Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 이승록 기자] SBS 금토드라마 ‘악귀’의 배우 김태리가 연기 내공이 돋보이는 열연을 선보였다. ‘악귀’는 악귀에 씐 산영(김태리 분)이 그 악귀를 보는 민속학 교수 해상(오정세 분)과 의문의 죽음을 파헤치는 한국형 오컬트 미스터리 드라마다. 김태리는 아빠 구강모(진선규 분)의 유품을 받아 서서히 악귀에 잠식되어 가는 구산영을 연기하며 안]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김태리 미소가 이렇게 오싹했나..'악귀' 씐 빙의 연기 美쳤다]]></title>
         <id>https://v.daum.net/v/20230702113522539</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230702091243363"/>
         <updated>2023-07-02T01:09:09.961Z</updated>
         <content type="html"><![CDATA[[마이데일리 = 박서연 기자] ‘킹더랜드’ 이준호와 임윤아가 핑크빛 로맨스 흐름을 제대로 탔다. 지난 1일 방송된 종합편성채널 JTBC 토일드라마 ‘킹더랜드’(극본 최롬(팀 하리마오) 연출 임현욱) 5회에서는 구원(이준호)과 천사랑(임윤아)이 마음을 담은 선물부터 저녁 데이트까지 즐기며 서로에게 더욱 스며들었다. 두 사람의 다정한 미소로 시청자들에게도 달]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['킹더랜드' 이준호, 고양이인 줄 알았는데 강아지였어!]]></title>
-        <id>https://v.daum.net/v/20230702091058339</id>
-        <link href="https://v.daum.net/v/20230702091058339"/>
-        <updated>2023-07-02T01:09:09.963Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 | 한해선 기자] /사진=JTBC 날로 진화하는 이준호의 직진 본능이 시청자들의 마음을 술렁이게 하고 있다. 이준호가 JTBC 토일드라마 '킹더랜드'(극본 최롬(팀 하리마오), 연출 임현욱, 제작 앤피오엔터테인먼트, 바이포엠스튜디오, SLL)에서 킹호텔 본부장 구원으로 열연하며 다정함과 능청스러움을 넘나드는 매력으로 사랑에 빠진 남자의 설렘을]]></content>
     </entry>
 </feed>
