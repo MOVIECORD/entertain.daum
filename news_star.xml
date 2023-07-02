@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2023-07-02T18:13:49.084Z</updated>
+    <updated>2023-07-02T19:09:27.143Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[천만 돌파 ‘범죄도시3’ 이상용 감독 “더 좋은 작품으로 보답”]]></title>
+        <id>https://v.daum.net/v/20230703040426418</id>
+        <link href="https://v.daum.net/v/20230703040426418"/>
+        <updated>2023-07-02T19:09:21.732Z</updated>
+        <content type="html"><![CDATA[영화 ‘범죄도시3’의 누적 관객 수가 개봉 32일만인 지난 1일 1000만명을 돌파하면서 ‘범죄도시’ 시리즈가 두 편 연속 1000만 관객을 달성하는 기록을 세웠다. ‘범죄도시3’는 1000만 관객을 돌파한 역대 21번째 한국 영화에 이름을 올렸다. 이상용 감독과 주연 배우 마동석 등은 2일 관객들에게 감사 인사를 전했다. 마동석은 “관객 여러분이 없었다]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['미우새' 이상민, "가장 무서운 것은 말일, 트라우마 남았다"…600개월 파티 '성료']]></title>
         <id>https://v.daum.net/v/20230703025700071</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230702235836615"/>
         <updated>2023-07-02T15:11:27.205Z</updated>
         <content type="html"><![CDATA[[스포츠조선 이정혁 기자]이준호가 직접 '데이트 폭로'에 나섰다. 이러니 드라마 잘 될 수 밖에, 주연배우로서 열혈 홍보에 나선 이준호의 모습에 절로 '채널 고정'하게 된다. 이준호가 자신만만 예고까지 할 정도니 얼마나 달달한 데이트가 펼쳐질까 기대지수도 확 올라간다. 이준호는 2일 드라마 '킹더랜드'의 파트너 임윤아와 나란히 포즈를 취한]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['킹더랜드' 이준호, 김영옥 첫 대면→임윤아에 직진 고백 "데이트 하자"]]></title>
-        <id>https://v.daum.net/v/20230702235303598</id>
-        <link href="https://v.daum.net/v/20230702235303598"/>
-        <updated>2023-07-02T15:11:27.207Z</updated>
-        <content type="html"><![CDATA[[스포츠투데이 임시령 기자] '킹더랜드' 이준호가 임윤아와 데이트를 약속했다. 2일 방송된 JTBC 토일드라마 '킹더랜드'에서는 천사랑(임윤아)에게 직진하는 구원(이준호)의 모습이 그려졌다. 이날 구원은 천사랑이 지린산 속에서 실종됐단 소식을 듣고 헬기를 띄웠다. 천사랑이 고립된 곳으로 향한 구원은 절벽 아래로 몸을 내던졌다. 깜짝 놀란 천사랑은 구원]]></content>
     </entry>
 </feed>

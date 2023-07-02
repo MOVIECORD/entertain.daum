@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/variety</id>
     <title>다음 연예 ─ 뉴스 ─ 예능</title>
-    <updated>2023-07-02T18:13:49.078Z</updated>
+    <updated>2023-07-02T19:09:27.141Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['열애설 난리' 김종민, 진짜 내년에 결혼? "축가는 김조한" 깜짝]]></title>
+        <id>https://v.daum.net/v/20230703040718443</id>
+        <link href="https://v.daum.net/v/20230703040718443"/>
+        <updated>2023-07-02T19:09:17.067Z</updated>
+        <content type="html"><![CDATA[[OSEN=김수형 기자]&nbsp; ‘미우새'에서 여자친구 소문이 자자했던 김종민이 결혼 축가도 부탁해 눈길을 사로 잡았다.&nbsp; 2일 방송된 SBS 예능 ‘미운우리새끼(미우새)’에서&nbsp; 이상민의 50세 생일파티 모습이 그려졌다. 이날 이상민에 대한 퀴즈를 진행, 연애경험을 묻자 그는 “데뷔 전 2명, 데뷔 후 2명”이라며 총 4명이라 대답했다.이때, 갑자기 분위기는]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["헬멧 쓰고 나랑 술 마시러 갔다"…뮤지, 탁재훈 폭로]]></title>
         <id>https://v.daum.net/v/20230703013206015</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230702230956420"/>
         <updated>2023-07-02T14:10:03.603Z</updated>
         <content type="html"><![CDATA[[뉴스엔 서유나 기자] 개그맨 이용진이 특별한 의미가 담긴 고가의 사복을 입고 등장했다. 7월 2일 방송된 MBC 예능 '안하던 짓을 하고 그래' 4회에서는 이용진이 패션으로 주목받았다. 이날 오프닝을 앞두고 멤버들은 뭔가 달라 보이는 이용진의 스타일에 주목했다. 주우재는 "옷이 꽤나 가격이 나간다"며 브랜드도 알아봤다. 이용진은 "제 옷인데 결혼기]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['미우새' 뮤지 "탁재훈 위해서라면..간 이식→2억 대부 가능" 깜짝]]></title>
-        <id>https://v.daum.net/v/20230702225945333</id>
-        <link href="https://v.daum.net/v/20230702225945333"/>
-        <updated>2023-07-02T14:10:03.609Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 | 이시호 기자] /사진=SBS '미운 우리 새끼' 방송 화면 캡처'미우새' 가수 뮤지가 탁재훈의 오른팔로써 충성심을 증명했다. 2일 방송된 SBS 예능 프로그램 '미운 우리 새끼'(이하 '미우새')에서는 김종국, 김종민이 이상민의 이사를 도왔다. 앞서 제주 투어를 다녔던 이상민은 다음 집은 "용산"이라 밝혀 웃음을 자아냈다. 김종민은 이에]]></content>
     </entry>
 </feed>
