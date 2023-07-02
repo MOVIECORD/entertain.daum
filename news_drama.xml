@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-07-02T09:10:54.330Z</updated>
+    <updated>2023-07-02T10:11:54.312Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['넘버스'에선 인피니트 아닌 배우 이성열..존재감 작렬]]></title>
+        <id>https://v.daum.net/v/20230702182552104</id>
+        <link href="https://v.daum.net/v/20230702182552104"/>
+        <updated>2023-07-02T10:11:38.286Z</updated>
+        <content type="html"><![CDATA[[OSEN=박소영 기자] 가수 겸 배우 이성열이 강렬한 연기로 안방극장에 긴장감을 높였다. 지난달&nbsp;30일과 지난&nbsp;1일 방송된&nbsp;MBC&nbsp;금토드라마 ‘넘버스&nbsp;:&nbsp;빌딩숲의 감시자들(연출 김칠봉&nbsp;/&nbsp;극본 정안,&nbsp;오혜석&nbsp;/&nbsp;제작 타이거스튜디오,&nbsp;에이투지엔터테인먼트/&nbsp;이하 ‘넘버스’)’에서 심형우(이성열 분)가 태일회계법인에서 파트너가 되기 위해 고군분투하는 모습이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['아씨 두리안' 박주미·최명길, 현생 재회한 전생 며느리와 시어머니]]></title>
         <id>https://v.daum.net/v/20230702180836865</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230702135044450"/>
         <updated>2023-07-02T05:11:46.903Z</updated>
         <content type="html"><![CDATA[[OSEN=연휘선 기자] ‘악귀’에서&nbsp;김은희 작가가 치밀하게 쌓아 올린 서사의 묘미가 회를 거듭할수록 그 진가를 발휘하고 있다.&nbsp; 최근 방송 중인 SBS&nbsp;금토드라마&nbsp;‘악귀’(극본 김은희,&nbsp;연출 이정림)의 산영(김태리)과 해상(오정세)은&nbsp;악귀의 정체를 밝히기 위해 미스터리의 열쇠를 하나씩 풀어가고 있다.&nbsp;그 과정에서 자살귀,&nbsp;객귀 등 귀신에게 얽힌 사건을]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['악귀' 김태리, 귀신 진선규 만났다… "아빠"]]></title>
-        <id>https://v.daum.net/v/20230702133613230</id>
-        <link href="https://v.daum.net/v/20230702133613230"/>
-        <updated>2023-07-02T05:11:46.904Z</updated>
-        <content type="html"><![CDATA[배우 홍경(왼쪽부터)과 김태리, 오정세가 지난달 23일 오후 서울 양천구 목동 SBS홀에서 진행된 SBS 새 금토드라마 '악귀'(연출 이정림/작가 김은희) 제작발표회에서 포즈를 취하고 있다. /사진=뉴스1드라마 '악귀'에서 김태리가 귀신이 된 아버지 진선규와 마주쳤다. 지난 1일 방송한 SBS TV 금토극 악귀 4회에서 '구산영'(김태리)과 민속학 교수 ']]></content>
     </entry>
 </feed>

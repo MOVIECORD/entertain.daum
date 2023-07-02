@@ -2,15 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-07-02T09:10:54.327Z</updated>
+    <updated>2023-07-02T10:11:54.313Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['엘리멘탈' 역주행 성공→200만 관객 돌파... "물 친구들과 기쁨의 파도타기"]]></title>
+        <id>https://v.daum.net/v/20230702181801980</id>
+        <link href="https://v.daum.net/v/20230702181801980"/>
+        <updated>2023-07-02T10:11:33.139Z</updated>
+        <content type="html"><![CDATA[[TV리포트=이혜미 기자] 영화 '엘리멘탈'이 역주행에 성공하며 200만 관객을 돌파했다. 2일 영화진흥위원회 통합전산망에 따르면 '엘리멘탈'은 이날 자정 기준 누적 관객수 208만 명을 기록했다. 개봉 19일 만에 이룬 쾌거다. '엘리멘탈'은 불, 물, 공기, 흙 4개의 원소들이 살고 있는 ‘엘리멘트 시티’를 배경으로 한 애니메이션으로 지난달 14일 개봉]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[5년만에 탄생한 ‘쌍천만’ 범죄도시, “마동석 형은 다 알고 있었어”]]></title>
         <id>https://v.daum.net/v/20230702180016734</id>
         <link href="https://v.daum.net/v/20230702180016734"/>
         <updated>2023-07-02T09:10:32.414Z</updated>
-        <content type="html"><![CDATA[[스포츠서울 | 조은별기자]딱 383일이 걸렸다. 지난 달 31일 개봉한 영화 ‘범죄도시3’(감독 이상용)가 개봉 32일만인 지난 1일, 1000만 관객을 넘어섰다. 지난해 유일한 1000만 영화였던 영화 ‘범죄도시2’에 이어 1년하고 18일이 지나 다시금 ‘1000만 관객 돌파’라는 새로운 금자탑을 쌓은 셈이다. 한국영화 중에서는 21번째 1000만]]></content>
+        <content type="html"><![CDATA[[스포츠서울 | 조은별기자]딱 383일이 걸렸다. 지난 5월31일 개봉한 영화 ‘범죄도시3’(감독 이상용)가 개봉 32일만인 지난 1일, 1000만 관객을 넘어섰다. 지난해 유일한 1000만 영화였던 영화 ‘범죄도시2’에 이어 1년하고 18일이 지나 다시금 ‘1000만 관객 돌파’라는 새로운 금자탑을 쌓은 셈이다. 한국영화 중에서는 21번째 1000만]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[이세호 "꿈 접은 동료들에 조바심 났지만…"]]></title>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230702111904313"/>
         <updated>2023-07-02T02:59:46.414Z</updated>
         <content type="html"><![CDATA[[뉴스엔 배효주 기자] '범죄도시3'가 개봉 32일째 천만 관객을 돌파한 가운데, 배우들이 관객들을 향한 감사 인사를 전했다. 영화 '범죄도시3'(감독 이상용)는 개봉 첫날 100만 돌파, 3일 200만, 4일 300만, 5일 400만, 6일 500만, 7일 600만, 11일 700만, 14일 800만, 21일 900만 돌파에 이어 32일 째인 7월 1일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['악마들' 장동윤 "술·담배에 커피까지 안 마시며 체력 관리"]]></title>
-        <id>https://v.daum.net/v/20230702105502800</id>
-        <link href="https://v.daum.net/v/20230702105502800"/>
-        <updated>2023-07-02T02:59:46.420Z</updated>
-        <content type="html"><![CDATA[[텐아시아=김세아 기자] 배우 장동윤이 촬영을 위해 커피와 술을 자제하며 자기관리했다. 29일 서울 삼청동 한 카페에서 배우 장동윤을 만났다. 장동윤은 이번 작품에서 연쇄살인마 '진혁'으로 분해 데뷔 후 첫 악역을 맡았다.&nbsp; "우리가 흔히 연쇄살인마라고 생각했을 때 덩치 크고 우락부락하고 싸움을 잘할 것 같은 인물이 아닌 경우가 많잖아요. 평범하게 생]]></content>
     </entry>
 </feed>
