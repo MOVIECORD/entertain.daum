@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2023-07-02T06:14:31.580Z</updated>
+    <updated>2023-07-02T07:10:29.560Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[방탄소년단 슈가, 오늘 친형 결혼식서 축사…형제애 '불타오르네']]></title>
+        <id>https://v.daum.net/v/20230702155640680</id>
+        <link href="https://v.daum.net/v/20230702155640680"/>
+        <updated>2023-07-02T07:10:23.840Z</updated>
+        <content type="html"><![CDATA[[스포츠조선 정빛 기자] 방탄소년단(BTS) 슈가(민윤기, 30)가 새 식구를 맞이했다. 스포츠조선 취재 결과, 슈가는 2일 오후 대구 모 호텔에서 열린 친형 결혼식에 참석해 직접 축사를 했다. 가까운 친지 및 지인들만 참석해 비공개로 치러진 이날 결혼식은 주례 없이 진행됐다. 대신 신랑 신부 양가 아버님들에 이어, 슈가가 직접 축사해 더]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[제로베이스원, 데뷔도 찬란한 '비주얼베이스원']]></title>
         <id>https://v.daum.net/v/20230702145422681</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230702120402141"/>
         <updated>2023-07-02T03:28:13.040Z</updated>
         <content type="html"><![CDATA[[스포츠투데이 임시령 기자] '태어난 김에 세계일주 시즌2' 기안84가 인도 기차에 오른다. 그는 기차 칸의 문이 열릴 때마다 달라지는 분위기에 "현실 버전 '설국열차' 같았다"고 해 궁금증을 더한다. 2일 방송되는 MBC 예능 '태어난 김에 세계일주 시즌2'(이하 '태계일주2')에서는 빠니보틀을 만나기 위해 뉴델리행 인도 기차를 타는 기안84와 덱스의]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[거리의 무법자 '까마귀'가 도시의 영웅이 된 사연..."여전히 기다리는 중"]]></title>
-        <id>https://v.daum.net/v/20230702114230613</id>
-        <link href="https://v.daum.net/v/20230702114230613"/>
-        <updated>2023-07-02T03:00:00.120Z</updated>
-        <content type="html"><![CDATA[[TV리포트=김유진 기자] 거리의 무법자로 변신한 까마귀의 이야기가 시선을 끈다. 2일 방영된 MBC '신비한TV 서프라이즈' 1071회는 카넉이라는 까마귀가 '거리의 무법자'가 된 사연을 전했다. 이야기는 까마귀가 태어났을 때로 전해진다. 2015년 벤쿠버 한 주택가 나무 둥지에서 까마귀 새끼가 떨어졌다. 한 소년인 죽기 직전의 카넉을 발견했고 평소 새]]></content>
     </entry>
 </feed>

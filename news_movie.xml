@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-07-02T06:14:31.575Z</updated>
+    <updated>2023-07-02T07:10:29.559Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['엘리멘탈' 관객들, 왜 K-장녀를 외칠까]]></title>
+        <id>https://v.daum.net/v/20230702155054557</id>
+        <link href="https://v.daum.net/v/20230702155054557"/>
+        <updated>2023-07-02T07:10:07.398Z</updated>
+        <content type="html"><![CDATA['엘리멘탈'은 미국 애니메이션이다. 그러나 한국 관객들은 이 작품 속 주인공을 보며 K-장녀를 떠올렸다고 말하곤 한다. '엘리멘탈'의 어떤 점이 이들의 공감을 이끌어낸 걸까. 불, 물, 공기, 흙 4원소가 살고 있는 엘리멘트 시티를 배경으로 하는 '엘리멘탈'은 불처럼 열정 넘치는 앰버를 중심으로 전개된다. 그는 물 흐르듯 사는 감성적인 웨이드를 만나 특별한]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["밥도·친구도 끊어"..'귀공자' 강태주, 눈물에 담긴 간절함]]></title>
         <id>https://v.daum.net/v/20230702150012771</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230702100258070"/>
         <updated>2023-07-02T01:09:04.724Z</updated>
         <content type="html"><![CDATA[[스타뉴스 | 김미화 기자] /사진='엘리멘탈' 역주행 1위를 지키고 있는 애니메이션 '엘리멘탈'이 박스오피스 1위를 지키고 있는 가운데, 누적관객수 200만을 돌파했다. 2일 영진위 영화관입장권 통합전산망에 따르면 '엘리멘탈'은 이날 오전 누적 관객수 208만 1828명을 기록, 200만 관객을 넘어섰다. 입소문을 탄 '엘리멘탈'은 박스오피스 1위를]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['악마들'-'빈틈없는 사이']]></title>
-        <id>https://v.daum.net/v/20230702100003974</id>
-        <link href="https://v.daum.net/v/20230702100003974"/>
-        <updated>2023-07-02T01:09:04.733Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 | 김나연 기자] 사진=영화 포스터초반보다 느려진 흥행 페이스에도 천만 돌파에는 문제가 없었다. '범죄도시3'가 개봉 32일 만에 천만 관객을 돌파했다. 한국 영화 중 '범죄도시2'(2022) 이후 첫 천만 영화이자 역대 30번째. 이렇듯 '범죄도시3'가 휩쓸고 간 자리에는 외화들이 등장했다. 입소문을 타고 흥행 역주행을 기록 중인 '엘리멘탈']]></content>
     </entry>
 </feed>
