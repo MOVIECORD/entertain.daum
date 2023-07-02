@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-07-02T11:09:47.112Z</updated>
+    <updated>2023-07-02T12:20:54.132Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['정신분열증' 아만다 바인즈, 정신병원 퇴원 "의료진이 지속적으로 상태 확인"]]></title>
+        <id>https://v.daum.net/v/20230702202130792</id>
+        <link href="https://v.daum.net/v/20230702202130792"/>
+        <updated>2023-07-02T12:20:53.517Z</updated>
+        <content type="html"><![CDATA[[TV리포트=이혜미 기자] 정신질환으로 힘겨운 시간을 보내고 있는 할리우드 배우 아만다 바인즈가 2주간의 입원 치료 끝에 퇴원했다. 2일(현지시간) TMZ 보도에 따르면 지난달 30일 정신과 시설에서 퇴원, 자택으로 귀가했다. 바인즈는 조울증 및 정신분열증으로 치료를 받았으며 독립적인 삶으로 돌아가기 위한 올바른 단계를 지나고 있다는 의료진의 판단 하에 퇴]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘바비’ 마고 로비 “톰 크루즈, 나도 ‘미션 임파서블7’ 볼게요” 훈훈한 동료애]]></title>
         <id>https://v.daum.net/v/20230702161242953</id>
@@ -32,12 +39,5 @@
         <link href="https://v.daum.net/v/20230702091458380"/>
         <updated>2023-07-02T01:09:26.173Z</updated>
         <content type="html"><![CDATA[[OSEN=선미경 기자] 정신 분열을 앓고 있는 배우 아만다 바인즈가 입원 2주 만에 시설에서 퇴원했다. 1일(현지시각) 외신은 아만다 바인즈가 지난 금요일 정신과 시설에서 퇴원했고, 회복 상태를 유지하기 위해 지킬 계획을 받았다고 보도했다. 보도에 따르면 의사들은 정신 분열증을 앓고 있는 아만다 바인즈는 병원에 있는 동안 주목할 만한 진전을 이뤘고,]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[마돈나, “64살에 열정적으로 춤추다 병원 실려가”]]></title>
-        <id>https://v.daum.net/v/20230701204051632</id>
-        <link href="https://v.daum.net/v/20230701204051632"/>
-        <updated>2023-07-01T12:21:12.180Z</updated>
-        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]세계적 팝스타 마돈나(64)가 박테리아 감염으로 응급실에 실려간 가운데 친구들이 그의 건강을 걱정하고 나섰다. 한 친구는 1일(현지시간) 페이지식스와 인터뷰에서 “마돈나는 끊임없이 자신을 밀어붙이는 사람이고, 함께 일하는 사람들만큼이나 훌륭하지만 그들 중 다수는 훨씬 어리고 부상 경력이 없다는 것을 깨달아야한다”고 말했다.]]></content>
     </entry>
 </feed>
