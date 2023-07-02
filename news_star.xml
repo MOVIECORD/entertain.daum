@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2023-07-02T03:28:18.758Z</updated>
+    <updated>2023-07-02T04:14:04.447Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이종석, 5년만 팬미팅에 울컥 “얼굴 보니 눈물 날뻔”]]></title>
+        <id>https://v.daum.net/v/20230702131022882</id>
+        <link href="https://v.daum.net/v/20230702131022882"/>
+        <updated>2023-07-02T04:13:57.505Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 황혜진 기자] 배우 이종석이 팬미팅에서 울컥했다. 이종석은 7월 2일 홍콩 아시아월드-엑스포(ASIAWORLD-EXPO)에서 '2023 팬미팅 투어 [Dear. My With]' 첫 시작을 알리고 홍콩 팬들과 만났다. 뜨거운 환호 속 모습을 드러낸 이종석은 훈훈한 비주얼과 감미로운 목소리로 '내게 와'를 열창해 팬들의 시선을 사로잡았다. 직접]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[재정비한 '놀면 뭐하니?' 주우재 합류 어땠나]]></title>
         <id>https://v.daum.net/v/20230702122106327</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230702104515646"/>
         <updated>2023-07-02T03:00:00.132Z</updated>
         <content type="html"><![CDATA[[OSEN=김채연 기자] 코요태가 컴백에 앞서 열광의 무대를 선보였다. 지난 1일 인천 인하대학교 특설무대에서 ‘2023 타임캡슐 슈퍼콘서트 인천’ 공연이 펼쳐진 가운데, 이날 코요태는 메가 히트곡들로 흥바람을 일으켰다. 그간 각종 축제 및 페스티벌을 섭렵하며 ‘섭외 0순위’로 자리 잡은 코요태는 화려한 퍼포먼스는 물론, 재치 넘치는 입담으로 관객들과]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[정수라 “큰 언니 장애인” 가정사 고백..“母 장례식에 와준 김수찬 고마워”]]></title>
-        <id>https://v.daum.net/v/20230702102722397</id>
-        <link href="https://v.daum.net/v/20230702102722397"/>
-        <updated>2023-07-02T03:00:00.133Z</updated>
-        <content type="html"><![CDATA[[스포츠조선닷컴 박아람 기자] 가수 정수라가 어머니가 돌아가셨을 때 김수찬이 조문해준 것에 대해 감사한 마음을 전했다. 지난 1일 방송된 KBS 2TV '살림하는 남자들 시즌2'(이하 '살림남')에서는 김수찬의 두 번째 MZ 투어, 현진영의 검정고시 도전기, 강다니엘의 일상 에피소드가 공개됐다. 시청률은 닐슨코리아 전국 기준 4]]></content>
     </entry>
 </feed>

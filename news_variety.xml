@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/variety</id>
     <title>다음 연예 ─ 뉴스 ─ 예능</title>
-    <updated>2023-07-02T03:28:18.756Z</updated>
+    <updated>2023-07-02T04:14:04.446Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[유재석이 유재석을 이겼다..'유퀴즈', '런닝맨' 꺾고 예능 평판 1위]]></title>
+        <id>https://v.daum.net/v/20230702130949867</id>
+        <link href="https://v.daum.net/v/20230702130949867"/>
+        <updated>2023-07-02T04:13:51.135Z</updated>
+        <content type="html"><![CDATA[[OSEN=박소영 기자] 유재석이 유재석을 이겼다. 한국기업평판연구소는&nbsp;2023년&nbsp;6월&nbsp;2일부터&nbsp;2023년&nbsp;7월&nbsp;2일까지 국민들에게 사랑받는 예능 프로그램&nbsp;50개의 브랜드 빅데이터&nbsp;99,362,502개를 분석하여 소비자들의 브랜드 참여와 소통량,&nbsp;미디어소비,&nbsp;브랜드 확산량,&nbsp;소비량을 측정했다.&nbsp;지난&nbsp;6월 예능 프로그램 브랜드 빅데이터&nbsp;94,819,989]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[전미도 눈 감아 '슬의생' 용석민 맞아?..문태유, '셀러브리티' 변신]]></title>
         <id>https://v.daum.net/v/20230702120926218</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230702111528250"/>
         <updated>2023-07-02T02:59:55.631Z</updated>
         <content type="html"><![CDATA[[OSEN=박소영 기자] ‘형제라면’&nbsp;이승기가 자신의 열혈 팬인&nbsp;83세 일본 할머니 손님의 가슴 아픈 사연을 전해 듣고 울컥하는 모습으로 현장을 숙연하게 만들었다. TV CHOSUN과 디스커버리 채널 코리아가 공동제작한&nbsp;‘형제라면’은 강호동,&nbsp;이승기,&nbsp;배인혁이 일본 유명 관광지에&nbsp;‘라면 가게’를 오픈,&nbsp;한국의 인스턴트 라면을 활용해 라멘에 익숙한 일본인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[현진영, “못 배웠다”는 악플에 상처..모의고사에 “한 문제도 못 풀어”]]></title>
-        <id>https://v.daum.net/v/20230702110455050</id>
-        <link href="https://v.daum.net/v/20230702110455050"/>
-        <updated>2023-07-02T02:59:55.632Z</updated>
-        <content type="html"><![CDATA[[OSEN=강서정 기자] 가수 강다니엘이 ‘키덜트 유튜버’ 이상훈을 만났다. 지난&nbsp;1일&nbsp;방송된&nbsp;KBS&nbsp;2TV&nbsp;'살림하는&nbsp;남자들&nbsp;시즌2'(이하&nbsp;'살림남')에서는&nbsp;김수찬의&nbsp;두&nbsp;번째&nbsp;MZ&nbsp;투어,&nbsp;현진영의&nbsp;검정고시&nbsp;도전기,&nbsp;강다니엘의&nbsp;일상&nbsp;에피소드가&nbsp;공개됐다.&nbsp;시청률은&nbsp;닐슨코리아&nbsp;전국&nbsp;기준&nbsp;4.3%를&nbsp;기록했다. 이날&nbsp;두&nbsp;번째&nbsp;출연인&nbsp;강다니엘은&nbsp;신곡&nbsp;안무&nbsp;연습&nbsp;]]></content>
     </entry>
 </feed>
