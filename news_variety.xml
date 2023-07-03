@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/variety</id>
     <title>다음 연예 ─ 뉴스 ─ 예능</title>
-    <updated>2023-07-03T02:55:44.096Z</updated>
+    <updated>2023-07-03T03:23:04.353Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[알바 근로계약서부터 돈 관리까지…실제 학교에서 못해본 경험]]></title>
+        <id>https://v.daum.net/v/20230703121453273</id>
+        <link href="https://v.daum.net/v/20230703121453273"/>
+        <updated>2023-07-03T03:22:51.631Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 윤현지 기자) 넷플릭스 예능 '19/20(열아홉 스물)'이 공개를 앞두고 프로그램의 두 메인 공간인 열아홉 학교와 스물 하우스의 콘셉트는 물론 제작 비하인드를 공개했다. 열아홉의 마지막 일주일과 스물의 첫 일주일 그 사이, 아직은 서툴고 풋풋한 Z세대들의 특별한 성장의 순간을 기록한 청춘 리얼리티 예능 '19/20'이 10대의 마지막 일주일을]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김원훈, 억대 수입 언급→엄지윤 실체 폭로.."SBS 살 수 있어"]]></title>
         <id>https://v.daum.net/v/20230703114630221</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230703110024927"/>
         <updated>2023-07-03T02:55:32.269Z</updated>
         <content type="html"><![CDATA[[뉴스엔 황혜진 기자] 방송인 김구라가 건강 보험료를 공개한다. 김구라는 7월 3일 티캐스트 E채널에 따르면 4일 오후 8시 50분 첫 방송되는 '쩐생연분'에 MC로 출연한다. '쩐생연분'의 첫 회 의뢰인으로 출연한 결혼 10년 차 개그맨 황영진, 김다솜 부부. 부부는 자산 관리 현황을 이야기 하다 "선배님은 자산 관리를 어떻게 하시는지 궁금하다. 돈 많]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['2억9천' 첫 미션부터 예비부부 3커플 탈락…갯벌 위 투혼]]></title>
-        <id>https://v.daum.net/v/20230703105426569</id>
-        <link href="https://v.daum.net/v/20230703105426569"/>
-        <updated>2023-07-03T02:55:32.270Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 황수연 기자) tvN ‘2억9천’이 첫 방송부터 이변이 속출하며 마지막까지 결과를 알 수 없는 박진감 넘치는 서바이벌로 안방극장을 발칵 뒤집었다. 특히, 첫 미션부터 3커플의 탈락을 예고해 7위가 되기 위한 갯벌 쟁탈전이 펼쳐지며 여름밤 소름돋는 빅잼을 선사했다. 지난 7월 2일 첫 방송된 tvN 예능 ‘2억9천’ 1회에서는 국내 최초 리얼]]></content>
     </entry>
 </feed>
