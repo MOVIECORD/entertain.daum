@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-07-04T22:12:21.315Z</updated>
+    <updated>2023-07-04T23:12:55.704Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘리틀 미스 선샤인’ 앨런 아킨 사망, 동료들 애도 물결]]></title>
+        <id>https://v.daum.net/v/20230705074117184</id>
+        <link href="https://v.daum.net/v/20230705074117184"/>
+        <updated>2023-07-04T23:12:54.994Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 이민지 기자] 배우 앨런 아킨이 세상을 떠났다. 최근 버라이어티, BBC 등 외신에 따르면 영화 '리틀 미스 선샤인'으로 오스카 남우조연상을 거머쥐었던 배우 앨런 아킨이 별세했다. 향년 89세. 앨런 아킨은 지난 6월 29일 미국 캘리포니아 칼스배드에 위치한 자택에서 사망했다. 자녀들은 성명서를 통해 "우리 아버지는 예술가로서, 사람으로서]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['글래디에이터' 속편 제작... 러셀 크로우 "난 출연 안 해"]]></title>
         <id>https://v.daum.net/v/20230705003100245</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230704180005633"/>
         <updated>2023-07-04T09:13:31.735Z</updated>
         <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]영화 ‘대부2’ ‘좋은 친구들’로 유명한 로버트 드 니로(79)가 손자 레안드로 드 니로 로드리게스(19)의 사망 이후 처음으로 모습을 드러냈다. 페이지식스는 3일(현지시간) “로버트 드 니로가 가족의 비극이 일어난 날인 일요일 어퍼 이스트 사이드에 있는 뉴욕시 아파트를 떠나는 모습이 포착됐다”고 보도했다. 로버트 드 니로]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["마고로비 13시간 기다렸다 하니 남편이 데리고 왔다" 열성팬 감동 사연]]></title>
-        <id>https://v.daum.net/v/20230704173019706</id>
-        <link href="https://v.daum.net/v/20230704173019706"/>
-        <updated>2023-07-04T09:13:31.736Z</updated>
-        <content type="html"><![CDATA[(서울=뉴스1) 김송이 기자 = 영화 '바비'(감독 그레타 거윅) 홍보차 내한한 할리우드 배우 마고 로비가 자신을 보기 위해 오랜 시간 기다린 팬에게 평생 잊을 수 없는 팬 서비스를 선사했다. 4일 영화 전문 커뮤니티 '익스트림무비'에는 '마고 로비 톰 애커리 부부 인성은 최고입니다(경험담)'라는 글이 올라왔다. 글쓴이 A씨는 "어제 행사 때 13시간]]></content>
     </entry>
 </feed>
