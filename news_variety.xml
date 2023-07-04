@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/variety</id>
     <title>다음 연예 ─ 뉴스 ─ 예능</title>
-    <updated>2023-07-04T19:10:23.127Z</updated>
+    <updated>2023-07-04T20:13:21.483Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['사야♥' 심형탁 "5살차 장모, 나 반대 안해…'부자' 장인어른은 통큰 선물"]]></title>
+        <id>https://v.daum.net/v/20230705042505063</id>
+        <link href="https://v.daum.net/v/20230705042505063"/>
+        <updated>2023-07-04T20:13:11.086Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 박서연 기자] 배우 심형탁이 일본인 아내와의 ‘신혼 모닝 루틴’을 공개한다. 5일 오후 9시 10분 방송되는 종합편성채널 채널A ‘요즘 남자 라이프-신랑수업’(이하 ‘신랑수업’) 71회에서는 배우 심형탁이 “더 멋진 신랑이 되기 위해 ‘신랑수업’을 받게 됐다”며 출사표를 던져 ‘신랑학교’ 멘토 이승철, 한고은, 장영란, 문세윤과 ‘신랑즈’]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['제니X송혜교 절친' 톱배우, 맨몸 교통사고→공황장애 '고백']]></title>
         <id>https://v.daum.net/v/20230705033719852</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230704233336647"/>
         <updated>2023-07-04T15:12:43.608Z</updated>
         <content type="html"><![CDATA[[스타뉴스 | 이승훈 기자] /사진=SBS '강심장리그'모델 겸 방송인 신현지가 세계적인 명품 브랜드 샤넬쇼 비하인드 스토리를 고백했다. 4일 오후 방송된 SBS '강심장리그'에서는 '샤X 쇼 직전, 교통사고 후 생긴 일' 썸네일을 공개한 신현지의 모습이 그려졌다. 이날 '강심장리그' 신현지는 동양인 최초로 샤넬 패션쇼 클로징 모델로 선 당시를 추억하]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['재벌설' 김원훈, 억대 수입 진짜? "SBS 얼마냐" FLEX]]></title>
-        <id>https://v.daum.net/v/20230704233149637</id>
-        <link href="https://v.daum.net/v/20230704233149637"/>
-        <updated>2023-07-04T15:12:43.608Z</updated>
-        <content type="html"><![CDATA[[OSEN=김수형 기자] '강심장리그'에서 개그맨 김원훈이 어마어마한 재력을 드러냈다.&nbsp; 4일 방송된 SBS 예능 '강심장리그'가 전파를 탔다. 이날&nbsp;개그맨 김원훈이 출연,&nbsp;현재 '장기연애'란 콘셉트로 유튜브 채널 257만명 구독자를 보유했다. &nbsp;수익이 억대라는 소문에 대해 언급,&nbsp;MC들은 "제작진에 의하면 '강심장' 녹화장을 얼마나 살 수 있냐더라"고]]></content>
     </entry>
 </feed>
