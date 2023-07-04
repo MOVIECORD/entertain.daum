@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-07-04T13:22:46.206Z</updated>
+    <updated>2023-07-04T14:11:54.998Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[브리트니 스피어스 두 아들, 母와 재회 여전히 거부중]]></title>
+        <id>https://v.daum.net/v/20230704230031474</id>
+        <link href="https://v.daum.net/v/20230704230031474"/>
+        <updated>2023-07-04T14:11:54.387Z</updated>
+        <content type="html"><![CDATA[[TV리포트=이수연 기자] 팝스타 브리트니 스피어스의 아들들이 엄마와 재회하는 것에 대해 고민하고 있다. 3일(현지 시간) 미국 매체 TMZ에 따르면 브리트니 스피어스의 전 남편 케빈 페더라인(45)은 두 아들이 하와이로 이주하기 전 엄마와 재회하도록 강요하지 않을 것이라고 전했다. 브리트니 스피어스는 현재 1년 넘게 아이들을 보지 못한 것으로 전해진다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['퍼팩트 맨' 헤더 로클리어, 난간서 혼잣말...안타까운 근황]]></title>
         <id>https://v.daum.net/v/20230704222030183</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230704172030376"/>
         <updated>2023-07-04T09:13:31.736Z</updated>
         <content type="html"><![CDATA[[TV리포트=이효경 기자] 히로스에 료코와 토바 슈사쿠의 불륜으로 영화 개봉에도 문제가 발생했다. 3일 다큐멘터리 영화 'sio(시오) 100년, 가게의 시작'이 아이치카리야 닛코에서 티켓 판매를 시작했다. 이 영화는 배우 히로스에 료코(42)와 셰프 토바 슈사쿠(44)의 불륜과 밀접한 관련이 있다. 때문에 영화 감독 모리타 유지 역시 개봉을 꺼렸다. 히로]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[패리스 힐튼, '630만원'짜리 유모차 끌며 '남다른' 육아]]></title>
-        <id>https://v.daum.net/v/20230704170030564</id>
-        <link href="https://v.daum.net/v/20230704170030564"/>
-        <updated>2023-07-04T08:16:06.789Z</updated>
-        <content type="html"><![CDATA[[TV리포트=유비취 기자] 가수 겸 사업가 패리스 힐튼이 남다른 '육아 아이템'을 공개했다. 패리스 힐튼(42)은 지난 2일 소셜네트워크서비스를 통해 아들과 함께 공원 산책을 즐기는 모습을 자랑했다. 사진 속 패리스 힐튼의 아들은 4,900달러(한화 약 638만 원) 상당의 명품 브랜드 디올 유모차 안에 있었다. 패리스 힐튼은 유모차도 명품 브랜드를 애용하]]></content>
     </entry>
 </feed>
