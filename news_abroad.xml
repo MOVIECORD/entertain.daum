@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-07-04T02:56:51.568Z</updated>
+    <updated>2023-07-04T03:26:20.552Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['결별' 디카프리오·지지 하디드, 이틀간 또 함께해...서로 못 잊었나]]></title>
+        <id>https://v.daum.net/v/20230704120038228</id>
+        <link href="https://v.daum.net/v/20230704120038228"/>
+        <updated>2023-07-04T03:26:19.759Z</updated>
+        <content type="html"><![CDATA[[TV리포트=유비취 기자] 결별과 만남을 반복해온 배우 레오나르도 디카프리오와 모델 지지 하디드가 또 재결합설에 휘말렸다. 3일(현지 시간) 연예 매체 페이지식스는 레오나르도 디카프리오(48)와 지지 하디드(28)가 파티를 즐기면서 영락없는 연인의 모습이었다고 보도했다. 이들은 지난 1~2일 이틀 내내 함께 지낸 것으로 전해졌다. 레오나르도 디카프리오와 지]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[베트남, 마고 로비 ‘바비’ 상영 금지 “왜 중국 영유권 주장 반영했나” 발끈]]></title>
         <id>https://v.daum.net/v/20230704111937351</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230703180031821"/>
         <updated>2023-07-03T09:12:50.463Z</updated>
         <content type="html"><![CDATA[[TV리포트=유비취 기자] 배우 제니퍼 로렌스가 남편에게 받은 청혼을 회상했다. 지난 30일 'Chicken Shop Date(치킨 숍 데이트)' 공식 소셜네트워크서비스에 공개된 영상에 제니퍼 로렌스(32)가 출연했다. 그는 현재 남편인 쿡 마로니의 청혼이 끔찍했다고 고백했다. 제니퍼 로렌스는 남편의 청혼이 끔찍했지만 재밌었다고 털어놨다. 그는 청혼을 받는]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[조니 뎁, 복귀 후 잘 나가네…영화제 예고편 등장]]></title>
-        <id>https://v.daum.net/v/20230703174030222</id>
-        <link href="https://v.daum.net/v/20230703174030222"/>
-        <updated>2023-07-03T09:12:50.467Z</updated>
-        <content type="html"><![CDATA[[TV리포트=유비취 기자] 배우 조니 뎁이 복귀 후 활발한 활동을 이어가고 있다. 지난 30일(현지 시간) '제57회 카를로비 바리 영화제' 개막식 예고편에 조니 뎁(60)이 등장했다. 그는 1년여 공백 이후 지난 5월 복귀했고, 이후 활동에 박차를 가하고 있다. 공개된 예고편 속 조니 뎁은 기타 케이스를 들고 인터뷰에 임하고 있었다. 그는 왜 상을 받지]]></content>
     </entry>
 </feed>
