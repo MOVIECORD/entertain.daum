@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2023-07-04T16:15:52.767Z</updated>
+    <updated>2023-07-04T17:11:45.755Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[스트레이키즈·NCT·이펙스·ATBO·싸이커스, ‘2023 K 글로벌 하트 드림 어워즈’ 뜬다]]></title>
+        <id>https://v.daum.net/v/20230705020041477</id>
+        <link href="https://v.daum.net/v/20230705020041477"/>
+        <updated>2023-07-04T17:11:39.850Z</updated>
+        <content type="html"><![CDATA[‘2030 부산 세계박람회(부산 엑스포)’ 유치를 기원하는 ‘2023 K 글로벌 하트 드림 어워즈(K GLOBAL HEART DREAM AWARDS)’에 K팝 한류 최전선에 있는 ‘슈퍼스타’들이 뜬다. ‘2023 K 글로벌 하트 드림 어워즈’ 조직위는 4일 그룹 스트레이키즈(Stray Kids), 엔시티(NCT) 태용, 이펙스(EPEX), 에이티비오(]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘The Globalists’ 큐레이터 버지니아 문 “BTS RM의 전시해설 목소리 재능기부에 감사”]]></title>
+        <id>https://v.daum.net/v/20230705013942456</id>
+        <link href="https://v.daum.net/v/20230705013942456"/>
+        <updated>2023-07-04T17:11:39.852Z</updated>
+        <content type="html"><![CDATA[5일 오후 5시 아리랑TV 특별기획 프로그램 ‘The Globalists’ 40회에는 ‘세계에 한국 미술의 다양성을 알린다!’는 주제로 진행자 손지애 이화여자대학교 국제대학원 초빙교수가 미국 로스앤젤레스카운티미술관(LACMA) ‘사이의 공간’ 展 통해 한국 근현대 미술 소개한 한국계 큐레이터 버지니아 문과 대화를 나눴다. 서구권에서 최초로 한국 근현대]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘日 7개 도시 15회 공연 전석 매진’ NiziU, 니쥬의 여름 축제 시작]]></title>
         <id>https://v.daum.net/v/20230705010853383</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230704234819792"/>
         <updated>2023-07-04T15:12:49.905Z</updated>
         <content type="html"><![CDATA[[스포츠서울 | 박효실기자] 적목 키드 위에 군림하던 악의 축 김종태가 비참하게 사망했다. 나비스 그룹을 정상에서 추락시킨 천우희의 사기극이 성공한 가운데, 베일에 싸인 회장이 직접 등판하며 경고에 나섰다. 4일 방송된 tvN 월화극 ‘이로운 사기’에서 이로움(천우희 분)은 한무영(김동욱 분)에게 “당신이지, 25번? 왜 말 안했어?”라며]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘성북스테이 흔적’ 한국예술종합학교에 숨겨진 비극의 역사 조명]]></title>
-        <id>https://v.daum.net/v/20230704233909738</id>
-        <link href="https://v.daum.net/v/20230704233909738"/>
-        <updated>2023-07-04T15:12:49.905Z</updated>
-        <content type="html"><![CDATA[역사가 머무는 공간을 기록하는 TBS ‘역사스테이 흔적(연출 성명주, 한성봉, 김한슬)’에서는 오는 6일 오후 8시, 수많은 스타를 배출한 한국예술종합학교(이하 한예종 )의 숨겨진 역사 이야기를 다룬다. 발로 뛰는 역사학자  MC 심용환과 역사 소녀 달샤벳 수빈이 함께 한다. 대학입시를 준비하던 시절 한예종 진학을 꿈꿨다고 밝힌 수빈은 방송으로 만나기]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['강심장리그' 신현지 "공황장애로 두달만 13kg 빠졌지만 일로는 최상 시기"]]></title>
-        <id>https://v.daum.net/v/20230704232807626</id>
-        <link href="https://v.daum.net/v/20230704232807626"/>
-        <updated>2023-07-04T15:12:49.906Z</updated>
-        <content type="html"><![CDATA[[스포츠투데이 백지연 기자] '강심장리그' 모델 신현지가 교통사고를 겪고도 샤넬 무대에 섰다고 말했다. 4일 밤 방송된 SBS 예능프로그램 '강심장리그'에서 신현지가 교통사고를 당하고도 쇼에 섰다고 알렸다. 이날 방송에서 신현지는 "2018년에 공황장애가 심했다. 힘든 시기가 있었다. 두 달 만에 13kg가 빠졌다. 모델로서는 일이 정말 잘 풀리더라"라]]></content>
     </entry>
 </feed>
