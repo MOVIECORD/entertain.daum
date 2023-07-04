@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/variety</id>
     <title>다음 연예 ─ 뉴스 ─ 예능</title>
-    <updated>2023-07-04T18:15:54.244Z</updated>
+    <updated>2023-07-04T19:10:23.127Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['제니X송혜교 절친' 톱배우, 맨몸 교통사고→공황장애 '고백']]></title>
+        <id>https://v.daum.net/v/20230705033719852</id>
+        <link href="https://v.daum.net/v/20230705033719852"/>
+        <updated>2023-07-04T19:10:12.502Z</updated>
+        <content type="html"><![CDATA[[OSEN=김수형 기자] '강심장리그'에서 톱배우 신현진이 출연, 아찔했던 교통사고를 떠올렸다.&nbsp; 4일 방송된 SBS 예능 '강심장리그'에서 신현진이 출연했다. 톱모델 신현진이 출연, 그는 블랙핑크 제니, 톱배우 송혜교와 절친으로 화제가 됐던 바다. 신현진는 2013년 만18세로 오디션프로 1등, 해외로 진출해 뉴욕, 파리, 밀라노, 런던인 4대 패션]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[제이쓴, 母와 이별에 오열 "후회와 미련으로 가득"]]></title>
         <id>https://v.daum.net/v/20230705030010548</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230704233149637"/>
         <updated>2023-07-04T15:12:43.608Z</updated>
         <content type="html"><![CDATA[[OSEN=김수형 기자] '강심장리그'에서 개그맨 김원훈이 어마어마한 재력을 드러냈다.&nbsp; 4일 방송된 SBS 예능 '강심장리그'가 전파를 탔다. 이날&nbsp;개그맨 김원훈이 출연,&nbsp;현재 '장기연애'란 콘셉트로 유튜브 채널 257만명 구독자를 보유했다. &nbsp;수익이 억대라는 소문에 대해 언급,&nbsp;MC들은 "제작진에 의하면 '강심장' 녹화장을 얼마나 살 수 있냐더라"고]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘장사의 신’ 은현장 “200억 치킨 브랜드 매각 후 우울증”]]></title>
-        <id>https://v.daum.net/v/20230704232717620</id>
-        <link href="https://v.daum.net/v/20230704232717620"/>
-        <updated>2023-07-04T15:12:43.610Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 장예솔 기자] '짠당포' 은현장이 치킨 브랜드를 매각할 당시의 심경을 고백했다. 7월 4일 방송된 JTBC '짠당포'에는 셀럽 사업가 3인방 장동민, 럭키, 은현장이 출연했다. 이날 은현장은 자본금 3,000만 원에서 시작해 200억 치킨 브랜드를 만들었다고 밝혔다. 치킨 브랜드 매각 후 은현장은 유튜브 채널 '장사의 신'을 통해 자영업자를]]></content>
     </entry>
 </feed>

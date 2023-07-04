@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2023-07-04T18:15:54.275Z</updated>
+    <updated>2023-07-04T19:10:23.079Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘재벌집’ 제작사 SLL “대중성 있는 드라마 제작에 집중할 것”]]></title>
+        <id>https://v.daum.net/v/20230705040725952</id>
+        <link href="https://v.daum.net/v/20230705040725952"/>
+        <updated>2023-07-04T19:10:17.166Z</updated>
+        <content type="html"><![CDATA[‘재벌집 막내아들’, ‘닥터 차정숙’ 등 최근 연달아 히트작을 내놓은 콘텐츠 제작사 SLL이 “대중성 있는 드라마 제작에 집중하겠다”는 계획을 밝혔다. SLL은 JTBC의 스튜디오 룰루랄라가 사명을 변경해 출범한 드라마·영화 콘텐츠 제작 스튜디오다. 산하에 15개의 제작 레이블이 있다. SLL은 4일 서울 중구 프레스센터에서 기자간담회를 열고 올 상반기]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[소이현♥인교진 "천생연분? YES…그럼에도 노력이 중요"]]></title>
         <id>https://v.daum.net/v/20230705023006525</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230704235144818"/>
         <updated>2023-07-04T15:12:49.904Z</updated>
         <content type="html"><![CDATA[[스포츠조선 이유나 기자] 뮤지컬 배우 정영주가 한쪽 귀 청력을 잃은 상태임을 최초로 고백했다. 4일 방송한 SBS '강심장리그'에서는 정영주가 청력을 잃은 과정을 첫 고백했고, 비슷한 핸디캡을 갖고 있는 노사연도 눈물을 흘렸다. 정영주는 "이 일은 가족도 모른다. 오늘 첫 고백이다"라며 "고등학교 때 오른쪽 청력을 잃었다"고 털어놨다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['짠당포' 장동민 "상금 130억 美 포커대회 출전, 올림픽 국가대표가 꿈"]]></title>
-        <id>https://v.daum.net/v/20230704234931798</id>
-        <link href="https://v.daum.net/v/20230704234931798"/>
-        <updated>2023-07-04T15:12:49.904Z</updated>
-        <content type="html"><![CDATA[[TV리포트=이혜미 기자] 방송인에서 사업가로 또 포커 선수로, 장동민이 새로운 도전의 이유를 소개했다. 4일 JTBC ‘짠당포’에선 장동민 럭키 은형장이 게스트로 출연해 사업 비법을 소개했다. 방송인 겸 사업가로 활발하게 활동했던 장동민은 “20년 전 대한민국 1호로 출장 세차 사업을 시작했다”면서 “보통 사업을 접으면 망했다고 생각하는데 운동선수가 은퇴]]></content>
     </entry>
 </feed>
