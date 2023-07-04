@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-07-04T09:13:32.629Z</updated>
+    <updated>2023-07-04T10:14:03.976Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[박해진 이렇게 달라졌어? 몸 사리지 않는 액션 예고]]></title>
+        <id>https://v.daum.net/v/20230704183544580</id>
+        <link href="https://v.daum.net/v/20230704183544580"/>
+        <updated>2023-07-04T10:13:47.685Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 김명미 기자] ‘국민사형투표’ 박해진의 파격 변신이 시작된다. 8월 10일 첫 방송되는 SBS 목요드라마 ‘국민사형투표’(극본 조윤영/연출 박신우/제작 ㈜팬엔터테인먼트, 스튜디오S)는 악질범들을 대상으로 국민사형투표를 진행하고 사형을 집행하는 정체미상 개탈을 추적하는 이야기를 그린 국민 참여 심판극이다. 장르물의 명가 SBS가 야심 차게 선보이는]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[명품 실컷 입은 박규영, '오징어게임2'로 '넷플릭스 딸' 인증…"부담되고 떨려"]]></title>
         <id>https://v.daum.net/v/20230704180101696</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230704153153385"/>
         <updated>2023-07-04T07:11:43.330Z</updated>
         <content type="html"><![CDATA[[스타뉴스 | 최혜진 기자] 이종혁 /사진=김창현 기자배우 이종혁이 '청담국제고등학교' 출연 전 부담감을 느낀 적이 있다고 고백했다. 지난 3일 이종혁은 서울 종로구 스타뉴스 사옥에서 진행된 인터뷰에서 최근 출연한 웨이브 오리지널 시리즈 '청담국제고등학교', 웹드라마 '우리 연애 시뮬레이션'(이하 '우연시') 등에 대한 이야기를 나눴다. '청담국제고등]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[옥택연, 원지안 근무 고등학교 방문…청소부 복장까지]]></title>
-        <id>https://v.daum.net/v/20230704152404036</id>
-        <link href="https://v.daum.net/v/20230704152404036"/>
-        <updated>2023-07-04T07:11:43.331Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 김명미 기자] 옥택연이 원지안이 근무 중인 고등학교를 찾아간다. 7월 4일 오후 9시 45분 방송되는 KBS 2TV 월화드라마 ‘가슴이 뛴다’(연출 이현석, 이민수 / 극본 김하나, 정승주 / 제작 위매드, 몬스터유니온) 4회에서는 반인뱀파이어 선우혈(옥택연 분)이 주인해(원지안 분)의 근무지로 찾아가면서 흥미진진한 서막을 예고한다. 3일 방송된]]></content>
     </entry>
 </feed>
