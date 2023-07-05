@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/variety</id>
     <title>다음 연예 ─ 뉴스 ─ 예능</title>
-    <updated>2023-07-05T19:10:20.384Z</updated>
+    <updated>2023-07-05T20:15:34.948Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[강리나, 아침부터 컵에 소주 콸콸 따르며 "좋았어~" 함박웃음]]></title>
+        <id>https://v.daum.net/v/20230706051506794</id>
+        <link href="https://v.daum.net/v/20230706051506794"/>
+        <updated>2023-07-05T20:15:22.509Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 고향미 기자] 90년대 섹시 스타 배우 출신 미술가 강리나가 근황을 공개했다. 강리나는 5일 오후 방송된 종합편성채널 TV조선 '퍼펙트 라이프'(이하 '퍼라')에 출연했다. 이날 방송에서 아침 식사 준비를 하던 강리나는 냉장고에서 소주병을 꺼냈다. 이어 미소 가득한 얼굴로 소주를 겁에 콸콸 따르더니 "좋았어~"라며 이를 불린 잡곡 위에 부]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이혜영 "결혼하고 1년 반 동안 고른 집…평생 살 것"]]></title>
         <id>https://v.daum.net/v/20230706031406121</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230706002208499"/>
         <updated>2023-07-05T16:16:28.433Z</updated>
         <content type="html"><![CDATA[[OSEN=박하영 기자] ‘고딩엄빠3’ 유소연이 이혼했던 남편과 재결합한 일상을 공개했다. 5일에 방송된 MBN ‘어른들은 모르는 고딩엄빠3’(이하 ‘고딩엄빠3’)에서는 크리에이터 임라라가 게스트로 함께한 가운데 26개월 된 딸을 키우는 ‘청소년 부모’ 유소연이 출연했다. 이날 재연 영상에는 2022년 1월 협의 이혼서를 작성하는 유소연과 심형규 모습이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['라스' 션 "네 자녀, 연예계 관심 無..뛰는 것 좋아해"]]></title>
-        <id>https://v.daum.net/v/20230705235640032</id>
-        <link href="https://v.daum.net/v/20230705235640032"/>
-        <updated>2023-07-05T15:13:23.142Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 | 김나연 기자] 사진=MBC 라디오스타가수 션이 네 자녀에 대해 언급했다. 5일 방송된 MBC 예능프로그램 '라디오스타'는 표창원, 박지훈, 션, 심형탁이 출연하는 '유부남 판타지' 특집으로 꾸며졌다. 이날 션은 "결혼한 지 며칠 됐냐"는 질문에 "6823일 됐다"고 정확하게 대답했다. 그는 "앱도 안 쓴다. 저한테는 자연스러운 일이다"]]></content>
     </entry>
 </feed>
