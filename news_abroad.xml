@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-07-04T23:12:55.704Z</updated>
+    <updated>2023-07-05T01:08:00.757Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[톰 홀랜드, 사내연애의 장점 "♥︎젠데이아, 내 인생에 있어 행운"]]></title>
+        <id>https://v.daum.net/v/20230705100720540</id>
+        <link href="https://v.daum.net/v/20230705100720540"/>
+        <updated>2023-07-05T01:08:00.054Z</updated>
+        <content type="html"><![CDATA[[OSEN=최나영 기자] 영화 '스파이더맨' 시리즈의 배우 톰 홀랜드(27)는 젠데이아&nbsp;콜먼(26)가 자신과 같은 업계에서 일하고 있고 자신의&nbsp;인생에 존재해서&nbsp;'운이 좋다'고 말하며 애정을 드러냈다. 톰 홀랜드는 최근&nbsp;제이슨 베이트먼, 숀 헤이스, 윌 아넷이 진행하는 팟캐스트 '스마트리스'에 출연, 여자친구인 젠데이아 콜먼과 호흡이 잘 맞는 이유를 설명]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘리틀 미스 선샤인’ 앨런 아킨 사망, 동료들 애도 물결]]></title>
         <id>https://v.daum.net/v/20230705074117184</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230704182030265"/>
         <updated>2023-07-04T10:14:03.269Z</updated>
         <content type="html"><![CDATA[[TV리포트=이수연 기자] 블랙핑크 제니의 출연으로 국내에서도 많은 관심을 받은 HBO '디 아이돌'(The Idol)이 종방했다. 3일(현지 시간) '디 아이돌'이 5화를 끝으로 막을 내렸다. 당초 6부작으로 알려졌지만 선정성 논란과 혹평 속에 결국 조기 종영을 했다. '디 아이돌'은 팝 아이돌 스타를 둘러싼 업계에 대한 작품으로 신경쇠약에서 회복 중인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[로버트 드 니로 19살 손자 사망, “마약 과다 복용”]]></title>
-        <id>https://v.daum.net/v/20230704180005633</id>
-        <link href="https://v.daum.net/v/20230704180005633"/>
-        <updated>2023-07-04T09:13:31.735Z</updated>
-        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]영화 ‘대부2’ ‘좋은 친구들’로 유명한 로버트 드 니로(79)가 손자 레안드로 드 니로 로드리게스(19)의 사망 이후 처음으로 모습을 드러냈다. 페이지식스는 3일(현지시간) “로버트 드 니로가 가족의 비극이 일어난 날인 일요일 어퍼 이스트 사이드에 있는 뉴욕시 아파트를 떠나는 모습이 포착됐다”고 보도했다. 로버트 드 니로]]></content>
     </entry>
 </feed>
