@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-07-05T22:12:41.764Z</updated>
+    <updated>2023-07-05T23:12:45.350Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[중화권 톱가수 코코리 사망 “몇 년간 우울증 심각했다”]]></title>
+        <id>https://v.daum.net/v/20230706072516269</id>
+        <link href="https://v.daum.net/v/20230706072516269"/>
+        <updated>2023-07-05T23:12:44.717Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 이민지 기자] 홍콩 출신 가수 코코리가 사망했다. 7월 5일(현지시간) BBC, 버라이어티 등 외신에 따르면 1990년대와 2000년대 큰 인기를 누렸던 가수 코코리가 사망했다. 향년 48세. 유가족은 "코코리가 지난 일요일 집에서 극단적 선택을 시도했고 병원으로 옮겨졌으나 깨어나지 못했다"고 밝혔다. 또 "코코리는 지난 몇 년간 우울증을 앓]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['프리재즈 거장' 페터 브뢰츠만 별세…극한의 색소폰 음색 추구]]></title>
         <id>https://v.daum.net/v/20230706061818460</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230705182230507"/>
         <updated>2023-07-05T10:14:24.157Z</updated>
         <content type="html"><![CDATA[[TV리포트=유비취 기자] 래퍼 카디 비가 남편과 갈등 중에 의미심장한 길거리 공연을 펼쳤다. 4일(현지 시간) 프랑스 파리에서 열린 패션쇼에 참석한 카디 비(30)가 갑작스러운 길거리 공연을 펼쳤다. 그는 휘트니 휴스턴의 'I Will Always Love You(아이 윌 올웨이즈 러브 유)'를 열창했다. 카디 비는 패션쇼로 향하던 도중 거리에서 이어지고]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['재산 천억' 코트니 카다시안, 임신을 '사업' 기회로...남다른 야망]]></title>
-        <id>https://v.daum.net/v/20230705180044965</id>
-        <link href="https://v.daum.net/v/20230705180044965"/>
-        <updated>2023-07-05T09:13:35.173Z</updated>
-        <content type="html"><![CDATA[[TV리포트=이수연 기자] 셀럽 카다시안 가족의 장녀인 코트니 카다시안이 사업에 대한 남다른 야망을 가지고 있다. 4일(현지 시간) 영국 매체 데일리 메일은 "코트니 카다시안은 임신 이후 자신의 브랜드에서 아동복 라인을 확장하고 건강 제품을 추가해 큰돈을 벌 예정이다"라고 보도했다. 코트니 카다시안은 2019년 라이프스타일 브랜드 푸쉬(Poosh)를 설립했]]></content>
     </entry>
 </feed>
