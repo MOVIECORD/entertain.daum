@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-07-05T03:25:35.491Z</updated>
+    <updated>2023-07-05T04:16:05.590Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김명민, 제작사 심스토리 전속 계약 "전폭적인 지원"]]></title>
+        <id>https://v.daum.net/v/20230705131106725</id>
+        <link href="https://v.daum.net/v/20230705131106725"/>
+        <updated>2023-07-05T04:15:47.014Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 | 윤상근 기자] /사진제공=심스토리 배우 김명민이 심스토리㈜ E&amp;M과 전속계약을 체결했다. 심스토리㈜는 5일 "다양한 작품에서 강렬한 존재감을 드러내며 인상깊은 캐릭터를 만들어낸 배우 김명민이 심스토리㈜ 와 전속계약을 체결, 활발한 활동을 예고했다"라고 밝혔다. 김명민은 '불멸의 이순신', '하얀거탑', '베토벤 바이러스', '육룡이 나르샤]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['셀러브리티' 박규영, 넷플릭스의 딸? "감사한 표현···부모님이 좋아해"]]></title>
         <id>https://v.daum.net/v/20230705120037936</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230705105415524"/>
         <updated>2023-07-05T02:55:43.193Z</updated>
         <content type="html"><![CDATA[[마이데일리 = 오윤주 기자] SBS 새 금토드라마 '소방서 옆 경찰서' 시즌 2 김래원이 강렬한 포스로 컴백을 알렸다. 오는 8월 4일 첫 방송될 '소방서 옆 경찰서 그리고 국과수'(극본 민지은 연출 신경수)는 화재 잡는 소방, 범죄 잡는 경찰 그리고 증거 잡는 국과수가 전대미문, 전무후무 사건과 맞서는 업그레이드 공조를 그리는 드라마다. '소방서 옆]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[정해인부터 손석구까지, 'D.P.' 시즌2 캐릭터 포스터 공개 "변화 진폭 크다"]]></title>
-        <id>https://v.daum.net/v/20230705104239911</id>
-        <link href="https://v.daum.net/v/20230705104239911"/>
-        <updated>2023-07-05T02:55:43.195Z</updated>
-        <content type="html"><![CDATA[[OSEN=연휘선 기자] 'D.P.(디피)' 시즌2&nbsp;캐릭터 포스터가&nbsp;포착됐다. 5일 넷플릭스 측은 오리지널 드라마 'D.P.' 시즌2 주역들의 캐릭터 포스터를 공개했다. 'D.P'는 군무 이탈 체포조(D.P.) 준호와 호열이 여전히 변한 게 없는 현실과 부조리에 끊임없이 부딪치며 벌어지는 이야기를 담은 넷플릭스 시리즈다. 공개된 포스터는시즌1을 이끌었던]]></content>
     </entry>
 </feed>

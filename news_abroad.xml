@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-07-05T03:25:35.497Z</updated>
+    <updated>2023-07-05T04:16:05.612Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['디 아이돌', 논란 속 종영에도 출연진은 '자축']]></title>
+        <id>https://v.daum.net/v/20230705123001749</id>
+        <link href="https://v.daum.net/v/20230705123001749"/>
+        <updated>2023-07-05T04:16:04.588Z</updated>
+        <content type="html"><![CDATA[[TV리포트=유비취 기자] 논란이 끊이지 않던 '디 아이돌'이 종영을 맞으면서 출연진은 자축했다. 4일 HBO '디 아이돌'의 주인공 릴리 로즈 뎁(24)이 소셜네트워크서비스를 통해 종영을 축하했다. 릴리 로즈 뎁을 비롯해 트로이 시반, 위켄드 등 여러 출연진이 '디 아이돌'의 마지막 방송을 기념했다. '디 아이돌'은 '제76회 칸 영화제'에서 첫 상영을]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[디카프리오x지지 하디드, 초호화 파티 참석 "따로 왔다가 각자 떠나"]]></title>
         <id>https://v.daum.net/v/20230705101822978</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230704192030524"/>
         <updated>2023-07-04T11:10:56.184Z</updated>
         <content type="html"><![CDATA[[TV리포트=최은영 기자] 영화 '미스 리틀 선샤인'으로 오스카상을&nbsp;받은 배우 앨런 아킨(Alan Arkin)이 지난달 29일(현지 시간) 별세했다. 향년 89세.&nbsp; 앨런은 1957년 영화 'Calypso Heat Wave'로 데뷔했다. 그는 '빅트러블'(1986) - 레너드 호프먼 역, '산타클로스3'(2006) - 버드 뉴먼 역, '겟 스마트'(2008]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[故줄리안 샌즈, 실종 직전 인터뷰 공개… "산에서 '초자연적' 경험"]]></title>
-        <id>https://v.daum.net/v/20230704190030063</id>
-        <link href="https://v.daum.net/v/20230704190030063"/>
-        <updated>2023-07-04T10:14:03.267Z</updated>
-        <content type="html"><![CDATA[[TV리포트=이수연 기자] 영국 출신 배우 줄리안 샌즈의 실종 직전 인터뷰가 공개됐다. 지난달 27일(현지 시간) 외신 보도에 따르면 줄리안 샌즈가 미국 캘리포니아주 산악지역에서 실종된 지 5개월 만에 사망한 것이 최종 확인됐다. 향년 65세. 샌버너디노 카운티 보안관은 성명을 통해 볼디 산 인근 야생 지대에서 발견된 시신의 신원 확인 결과, 줄리안 샌즈로]]></content>
     </entry>
 </feed>
