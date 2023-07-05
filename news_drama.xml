@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-07-05T11:11:05.132Z</updated>
+    <updated>2023-07-05T12:26:08.288Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[동주혁 내연녀, 결국 회사까지 찾아와 "날 불안하게 하지마" 압박]]></title>
+        <id>https://v.daum.net/v/20230705211630280</id>
+        <link href="https://v.daum.net/v/20230705211630280"/>
+        <updated>2023-07-05T12:25:49.826Z</updated>
+        <content type="html"><![CDATA[[TV리포트=김유진 기자]최재원이 서준영에게 윤다영을 언급했다. 5일 방영된 KBS 일일드라마 '금이야옥이야' 72화에서는 금선달(최재원)이 금강산(서준영)에게 혹시 옥미래(윤다영)에게 마음이 있냐고 떠보면서 시작됐다. 앞서 금강산을 좋아하는 장호랑(반민정)은 금선달, 마홍도(송채환)와 같이 식사를 하고 동생 장호식(안용준)에게 "절대 금강산을 포기하지 않]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['하늘의 인연' 전혜연, 父 이훈 살해 혐의로 체포..김유석 '미소']]></title>
+        <id>https://v.daum.net/v/20230705204450755</id>
+        <link href="https://v.daum.net/v/20230705204450755"/>
+        <updated>2023-07-05T12:25:49.827Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 | 김지은 인턴기자] /사진='하늘의 인연' 화면 캡처전혜연이 부모를 죽인 용의자로 경찰에 구속됐다. 5일 방송된 MBC 일일드라마 '하늘의 인연' 57회에서는 강치환(김유석 분)이 윤솔(전혜연 분)에 자신의 범행을 뒤집어씌우는 모습이 담겼다. 이날 방송에서 강치환은 나정임(조은숙 분)의 병실에 몰래 찾아와 나정임 근처를 두리번거리며 수상한]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['하늘의 인연' 조은숙, 김유석 멱살잡이 "네가 죽였잖아"]]></title>
         <id>https://v.daum.net/v/20230705200647044</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230705155410764"/>
         <updated>2023-07-05T07:15:07.460Z</updated>
         <content type="html"><![CDATA[[뉴스엔 김명미 기자] 박유림이 정우를 향해 의심의 화살을 겨냥한다. JTBC 수목드라마 ‘기적의 형제’(극본 김지우, 연출 박찬홍, 제작 MI, SLL) 지난 방송에서 육동주(정우)는 신원미상의 소년(배현성)이 갖고 있던 소설을 손에 넣고, 상황에 떠밀려 이를 출간했다. 그리고 그토록 원했던 베스트셀러 작가가 됐다. 하지만 그 호사도 잠시, 의문의 남]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[인간이 뱀파이어 무는 시대, 옥택연은 왜 굳이 인간을 꿈꿀까]]></title>
-        <id>https://v.daum.net/v/20230705144508948</id>
-        <link href="https://v.daum.net/v/20230705144508948"/>
-        <updated>2023-07-05T07:15:07.464Z</updated>
-        <content type="html"><![CDATA[[엔터미디어=정덕현] 개가 사람을 물면 아무 이야기도 안 되지만, 사람이 개를 물면 이야기가 된다 했던가. KBS 월화드라마 &lt;가슴이 뛴다&gt;는 적어도 이 기준으로 보면 말이 되는 이야기다. 인간을 무는 뱀파이어가 아니라, 뱀파이어를 물어버리는 인간으로 이야기를 시작하니 말이다. 100년 동안 관에서 보내면 인간이 될 수 있다는 천 년을 넘게 산 고양남(김인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘2시 15분’ 박소이X조민하, 베테랑 아역들 만났다‥어른들이 모르는 시간]]></title>
-        <id>https://v.daum.net/v/20230705140713390</id>
-        <link href="https://v.daum.net/v/20230705140713390"/>
-        <updated>2023-07-05T07:15:07.466Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 배효주 기자] 박소이와 기소유가 어른들은 모르는 비밀스러운 만남을 시작한다. ‘O'PENing(오프닝) 2023’은 자유로운 형식과 참신한 시도가 돋보이는 7명의 신인 작가 작품으로 구성된 tvN X TVING 드라마 공동 프로젝트다. 오는 8월 20일 오후 10시 40분 방송될 ‘오프닝 2023’ 여섯 번째 작품인 ‘2시 15분’은 열 살 아이]]></content>
     </entry>
 </feed>
