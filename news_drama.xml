@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-07-05T20:15:34.943Z</updated>
+    <updated>2023-07-05T21:11:37.832Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[박효주 죽던 날, 집에 누군가 더 있었다? 이규한 “당신이 죽였잖아”]]></title>
+        <id>https://v.daum.net/v/20230706055805059</id>
+        <link href="https://v.daum.net/v/20230706055805059"/>
+        <updated>2023-07-05T21:11:20.004Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 임유리 기자] 박효주가 죽던 날 집에 남편 이규한 말고 다른 한 사람이 더 있었던 것으로 밝혀졌다. 5일 오후 방송된 케이블채널 ENA 수목드라마 ‘행복배틀’ 11화에서는 택배 상자 안에 들어있던 열쇠가 아파트 창고 사물함 열쇠라는 걸 알게 된 장미호(이엘)가 이를 뒤지기 시작했다. 장미호는 오유진(박효주) 집의 사물함을 열어봤지만]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[차예련, 남편 불륜녀에 복수 시작? 임신 오해한 김희재 부들부들]]></title>
+        <id>https://v.daum.net/v/20230706054009938</id>
+        <link href="https://v.daum.net/v/20230706054009938"/>
+        <updated>2023-07-05T21:11:20.008Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 임유리 기자] 차예련이 남편의 불륜녀 김희재에게 복수를 시작했다. 5일 오후 방송된 케이블채널 ENA 수목드라마 ‘행복배틀’ 11화에서는 김나영(차예련)이 남편 이태호(김영훈)의 불륜녀 조아라(김희재)에게 복수를 하는 모습이 그려졌다. 이날 김나영은 산부인과에서 주워온 임신 테스트기를 화장실에 올려놓고 조아라에게 식사를 대접했다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[진서연, 남편 여자 문제 알게 됐다… 협박하는 남동생에 분노]]></title>
         <id>https://v.daum.net/v/20230706024139832</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230705161719736"/>
         <updated>2023-07-05T08:16:18.068Z</updated>
         <content type="html"><![CDATA[[OSEN=최나영 기자]&nbsp;배우 김성오가 완벽주의자적 캐릭터와 동기화돼&nbsp;안방극장을 공포로 몰아넣었다. 지난&nbsp;4일 방송된&nbsp;지니&nbsp;TV&nbsp;오리지널 드라마&nbsp;'마당이 있는 집'에서는 재호(김성오 분)가 가진 모든 것을 지키기 위해 저질렀던 일에 대해 낱낱이 드러나는 모습이 그려졌다. 이날 재호는 뒷마당을 파며 흥분한 주란(김태희 분)의 다그침과 죄책감에 시달리던 승]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이준호♥임윤아 ‘킹더랜드’ 2주 연속 TV-OTT 종합 화제성 1위]]></title>
-        <id>https://v.daum.net/v/20230705161450655</id>
-        <link href="https://v.daum.net/v/20230705161450655"/>
-        <updated>2023-07-05T07:15:07.455Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 김명미 기자] '킹더랜드’가 화제성 1위 독주 체제를 이어가고 있다. JTBC 토일드라마 ‘킹더랜드’(극본 최롬(팀 하리마오), 연출 임현욱, 제작 앤피오엔터테인먼트, 바이포엠스튜디오, SLL)가 자체 최고 시청률을 경신하는 동시에 화제성 순위까지 독차지하며 주말극 최강자 굳히기에 나선 것. ‘킹더랜드’는 K-콘텐츠 경쟁력 분석 전문 기관인 굿데]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이성민, 제대로 이 갈았다…확장된 세계관으로 돌아온 '형사록2']]></title>
-        <id>https://v.daum.net/v/20230705160658125</id>
-        <link href="https://v.daum.net/v/20230705160658125"/>
-        <updated>2023-07-05T07:15:07.457Z</updated>
-        <content type="html"><![CDATA['형사록'이 두 번째 시즌으로 금의환향했다. 5일 디즈니+ 오리지널 시리즈 '형사록 시즌2'(이하 '형사록2') 1, 2회가 공개됐다. '형사록2'는 협박범 '친구'의 숨은 배후를 쫓기 위해 다시 돌아온 강력계 형사 '택록'(이성민)의 마지막 반격을 그린 웰메이드 범죄 스릴러다. 지난해 10월 공개된 시즌1에서는 한 통의 전화와 함께 동료를 죽인 살]]></content>
     </entry>
 </feed>

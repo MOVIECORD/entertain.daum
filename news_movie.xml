@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-07-05T20:15:34.954Z</updated>
+    <updated>2023-07-05T21:11:37.843Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[허리 사라진 한국영화, 앞으로 전망은]]></title>
+        <id>https://v.daum.net/v/20230706060209274</id>
+        <link href="https://v.daum.net/v/20230706060209274"/>
+        <updated>2023-07-05T21:11:14.662Z</updated>
+        <content type="html"><![CDATA[“요즘은 중간이 없어요. 아주 크거나, 아니면 작거나.” 얼마 전 쿠키뉴스와 만난 배우 A씨는 이렇게 말했다. 그가 출연한 작품은 비교적 예산이 적게 들어간 속칭 ‘작은 영화’다. 한국영화의 양극화가 갈수록 심해지고 있다. 언제부턴가 극장가에선 규모가 큰 블록버스터와 저예산 영화 외 허리급 영화를 찾아보기 어려워졌다. 제작비 100억원 안팎이 투입되는]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이지훈 “DSP연습생 시절 ‘SS502’로 데뷔할 뻔한 과거때문에 캐릭터 공감, 갑질의혹은 오해”]]></title>
+        <id>https://v.daum.net/v/20230706060020110</id>
+        <link href="https://v.daum.net/v/20230706060020110"/>
+        <updated>2023-07-05T21:11:14.664Z</updated>
+        <content type="html"><![CDATA[[스포츠서울 | 조은별기자]“층간소음으로 이웃살해”, “연예인도 피해가지 못한 층간소음 분쟁” 하루가 멀다하고 공동주택의 ‘층간소음’, ‘벽간소음’이 신문 지상을 차지하고 있다. 소음으로 인한 갈등이 폭행과 살인을 부르고 유명 연예인들이 저격을 당하기도 한다. 이러한 공동주택의 소음 문제가 국내에서만 벌어지는 일은 아닌가 보다. 5일 개봉한 영화 ‘빈]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[역대급 내한 행사 속 유일한 오점된 'K-바비']]></title>
         <id>https://v.daum.net/v/20230706000059138</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230705164808263"/>
         <updated>2023-07-05T08:16:11.970Z</updated>
         <content type="html"><![CDATA[(엑스포츠뉴스 김유진 기자) 오태경이 '좋댓구'를 통해 유튜버로 변신한 연기를 선보이며 오랜만에 관객들과의 소통에 나선다. 5일 오후 서울 용산구 CGV용산아이파크몰에서 영화 '좋.댓.구(좋아요.댓글.구독)'(감독 박상민) 언론시사회가 열렸다. 이 자리에는 박상민 감독과 배우 오태경이 참석했다. '좋댓구'는 박찬욱 감독의 영화 '올드보이'의 오대수 아역으로]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['좋댓구' 유튜버로 돌아온 오태경…"박찬욱 감독께 죄송" 사과한 이유]]></title>
-        <id>https://v.daum.net/v/20230705164549152</id>
-        <link href="https://v.daum.net/v/20230705164549152"/>
-        <updated>2023-07-05T08:16:11.975Z</updated>
-        <content type="html"><![CDATA[(서울=뉴스1) 장아름 기자 = 배우 오태경이 '좋·댓·구'의 유튜버로 돌아왔다. 5일 서울 용산구 한강대로 CGV 용산아이파크몰에서는 영화 '좋·댓·구'(감독 박상민) 언론시사회가 진행됐다. 이날 자리에는 박상민 감독과 배우 오태경이 참석해 이야기를 나눴다. '좋·댓·구'는 박찬욱 감독 영화 '올드보이'의 '오대수' 아역으로 한때 이름 좀 날렸던]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["리얼함↑" '좋댓구' 오태경, 유튜버 됐다...'올드보이' 박찬욱 깨알 출연]]></title>
-        <id>https://v.daum.net/v/20230705163920784</id>
-        <link href="https://v.daum.net/v/20230705163920784"/>
-        <updated>2023-07-05T08:16:11.975Z</updated>
-        <content type="html"><![CDATA[[OSEN=김보라 기자]&nbsp;박찬욱 감독의 영화 ‘올드보이’(2003)에서 오대수의 젊은 시절을 연기했던 배우 오태경이 새 영화 ‘좋댓구’를 통해 유튜버로 변신했다. 전작의 캐릭터를 차용해 대중의 인지도를 높임과 동시에, 최근 새로운 장르로 떠오른 스크린 라이프 형식을 도입해 리얼리티를 살린 유튜브 영화를 완성한 것이다. 배우 오태경은 5일 오후 서울 이촌]]></content>
     </entry>
 </feed>
