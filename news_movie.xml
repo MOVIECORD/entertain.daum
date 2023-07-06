@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-07-06T03:28:32.807Z</updated>
+    <updated>2023-07-06T04:15:33.955Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["시리즈 최고 평점"…톰 크루즈 '미션 임파서블7' 로튼토마토 신선도 지수 98% 돌파]]></title>
+        <id>https://v.daum.net/v/20230706130651486</id>
+        <link href="https://v.daum.net/v/20230706130651486"/>
+        <updated>2023-07-06T04:15:11.055Z</updated>
+        <content type="html"><![CDATA[[스포츠조선 조지영 기자] 액션 블록버스터 '미션 임파서블: 데드 레코딩 PART ONE'(이하 '미션 임파서블7', 크리스토퍼 맥쿼리 감독)이 폭발적인 로튼토마토 지수를 기록 중이다. '미션 임파서블7'이 전 세계 엠바고가 해제된 6일부로 폭발적인 호평을 얻고 있다. 현재 글로벌 영화 평론 및 평점 사이트 로튼토마토에는 총 107개의 리뷰가]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[톰 크루즈 영혼 갈아 넣은 ‘미션임파서블7’ 역대 최고 호평 터졌다]]></title>
+        <id>https://v.daum.net/v/20230706125715270</id>
+        <link href="https://v.daum.net/v/20230706125715270"/>
+        <updated>2023-07-06T04:15:11.055Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 배효주 기자] '미션 임파서블: 데드 레코닝 PART ONE'이 폭발적인 로튼토마토 지수를 기록 중이다. 7월 12일 개봉하는 영화 '미션 임파서블: 데드 레코닝 PART ONE'(감독 크리스토퍼 맥쿼리)은 모든 인류를 위협할 새로운 무기가 잘못된 자의 손에 넘어가지 않도록 추적하던 ‘에단 헌트’(톰 크루즈)와 IMF팀이 미스터리하고 강력한 적을]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이지훈 "알바 끝나면 신문 배달…불안감 컸다"]]></title>
         <id>https://v.daum.net/v/20230706114543974</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230706101427395"/>
         <updated>2023-07-06T02:57:45.659Z</updated>
         <content type="html"><![CDATA[[스타뉴스 | 김나연 기자] 엘리멘탈 / 사진=영화 포스터'엘리멘탈'의 역주행 기세가 여전히 뜨겁다. 6일 영화진흥위원회 통합전산망에 따르면 전날 '엘리멘탈'은 10만 1678명의 관객을 동원해 박스오피스 1위를 기록했다. 누적 관객 수는 251만 643명. 유일하게 일일 관객 수 10만 명을 돌파한 '엘리멘탈'은 250만 관객을 넘어서며 올해 개봉]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[톰 크루즈에겐  불가능은 없다! 목숨 걸고 찍은 '미션7']]></title>
-        <id>https://v.daum.net/v/20230706100550942</id>
-        <link href="https://v.daum.net/v/20230706100550942"/>
-        <updated>2023-07-06T01:09:24.872Z</updated>
-        <content type="html"><![CDATA[아이즈 ize 김나라 기자할리우드 배우 톰 크루즈(61)에게 아무리 불가능은 없다고 하지만, 그의 나이도 어느새 환갑을 넘었다. 그간 워낙 고난도 리얼 액션을 보여주었어도 과연 &nbsp;일곱 번째 '미션 임파서블' 수행이 가능할까 싶었는데 이게 웬걸? 그동안의 극한 액션마저 애교 수준으로 만들고 또 레전드를 경신한 톰 크루즈다.'미션 임파서블: 데드 레코닝 파트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['비공식작전' 하정우x주지훈, 긴장+유머 박진감 넘친 액션]]></title>
-        <id>https://v.daum.net/v/20230706095849558</id>
-        <link href="https://v.daum.net/v/20230706095849558"/>
-        <updated>2023-07-06T01:09:24.874Z</updated>
-        <content type="html"><![CDATA[[OSEN=김보라 기자] 영화 '비공식작전' 측이 액션 스틸 5종을 공개했다. '비공식작전'(감독 김성훈, 제공배급 쇼박스, 제작 와인드업필름・와이낫필름)은 실종된 동료를 구하기 위해 레바논으로 떠난 외교관 민준(하정우 분)과 현지 택시기사 판수(주지훈 분)의 버디 액션 영화다.&nbsp;각자 뚜렷한 목표를 가진 이들이 1987년 베이루트에서 펼치는 비공식 작전]]></content>
     </entry>
 </feed>
