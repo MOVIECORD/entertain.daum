@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-07-06T14:12:38.955Z</updated>
+    <updated>2023-07-06T15:13:46.350Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[킴 카다시안, 칸예 반유대인 발언에 오열..."내 잘못이야?"]]></title>
+        <id>https://v.daum.net/v/20230707000030295</id>
+        <link href="https://v.daum.net/v/20230707000030295"/>
+        <updated>2023-07-06T15:13:45.483Z</updated>
+        <content type="html"><![CDATA[[TV리포트=이수연 기자] 셀럽 킴 카다시안이 전 남편 카니예 웨스트의 행보에 눈물을 보였다. 6일 방영된 Hulu '카다시안 패밀리 시즌 3' 새 에피소드에서 킴 카다시안(42)은 카니예 웨스트(46)의 반유대인 발언에 반응했다. 그는 동생 클로에 카다시안에게 카니예 웨스트에 대해 "너무 불쌍하다. 스스로 나쁜 일이라고 생각하지 않는 것 같고 알 방법]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['조 벨' 프로듀서 별세...마지막까지 영화계의 '후원자'로]]></title>
+        <id>https://v.daum.net/v/20230706234030113</id>
+        <link href="https://v.daum.net/v/20230706234030113"/>
+        <updated>2023-07-06T15:13:45.485Z</updated>
+        <content type="html"><![CDATA[[TV리포트=최은영 기자] 영화 '조 벨(Joe Bell)' 프로듀서 에바 마리아 다니엘스(Eva Maria Daniels)가 별세했다. 향년 43세. 다니엘스는 2020년 개봉한 마크 월버그(Mark Wahlberg) 주연의 영화 '조 벨'의 프로듀서이자 최근 HBO에서 개봉한 시드니 스위니(Sydney Sweeney) 주연의 영화 '리얼리티'의 EP를]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[앵커도 걸린 알츠하이머..."가족을 황폐화 시켰다"]]></title>
         <id>https://v.daum.net/v/20230706230031842</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230706190031232"/>
         <updated>2023-07-06T10:13:51.796Z</updated>
         <content type="html"><![CDATA[[TV리포트=유비취 기자] 성범죄 '미투 운동' 가해자로 지목된 대만 인기 아이돌 염아륜의 형량이 최대 30년까지 갈 수 있다. 5일(현지 시간) 다수의 대만 매체에 따르면 염아륜(37)의 성범죄가 사실이라면 최대 징역 30년형까지 가능하다. 염아륜은 미성년자를 상대로 성추행과 성관계 촬영 등을 한 혐의로 지목 당한 바 있다. 한 변호사는 염아륜이 의심 받]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[티모시 살라메가 연기한 '밥 딜런' 전기 영화...8월 크랭크인]]></title>
-        <id>https://v.daum.net/v/20230706182030450</id>
-        <link href="https://v.daum.net/v/20230706182030450"/>
-        <updated>2023-07-06T10:13:51.798Z</updated>
-        <content type="html"><![CDATA[[TV리포트=석태진 기자] 배우 티모시 샬라메가 연기하는 밥 딜런 전기영화 '컴플리트 언노운'이 8월에 촬영을 시작할 예정이다. 영화 '컴플리트 언노운'의 감독인 제임스 맨골드는 최근 인디와이어의 팟캐스트 '해피 새드 컨퓨즈드'에 출연해 '컴플리트 언노운'은 "사실 밥 딜런의 전기 영화가 아니라 1960년대 뉴욕의 포크 음악계의 '매우 특정한 순간'을 다룬]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['엑스맨' 레베카 로메인 "브라이언 싱어, 환상적인 감독…함께한 것 놀라운 일"]]></title>
-        <id>https://v.daum.net/v/20230706174732588</id>
-        <link href="https://v.daum.net/v/20230706174732588"/>
-        <updated>2023-07-06T09:13:35.493Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 이창규 기자) '엑스맨' 시리즈로 유명한 배우 레베카 로메인(로미즌)이 브렛 래트너 감독을 비판한 가운데, 브라이언 싱어 감독을 옹호하고 나섰다. 레베카 로메인은 지난 4일(현지시간) 영국 인디펜던트와의 인터뷰에서 "나는 ('엑스맨3'에서) 브렛 래트너 감독과&nbsp;일하는 것이 즐겁지 않았다. 하지만 그는 이제 지원을 받지 못한다"고 언급했다. 그]]></content>
     </entry>
 </feed>
