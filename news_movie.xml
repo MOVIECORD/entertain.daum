@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-07-06T07:12:58.893Z</updated>
+    <updated>2023-07-06T08:16:16.890Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[정우성, 하루에 영화 2개 동시 개봉…유해진♥김희선에 득일까 실일까]]></title>
+        <id>https://v.daum.net/v/20230706170103122</id>
+        <link href="https://v.daum.net/v/20230706170103122"/>
+        <updated>2023-07-06T08:15:55.507Z</updated>
+        <content type="html"><![CDATA[[텐아시아=류예지 기자]'범죄도시3' 신드롬이 스크린을 한바탕 휩쓴 가운데 '믿고 보는 배우'들이 여름 대전에 도전장을 내민다. 현재 '범죄도시3'를 제외한 영화계 성적은 전멸에 가깝다. 흥행 불패 신화를 써왔던 유해진과 김희선, 정우성이 '범죄도시3'에 맞서 존재감을 드러낼 수 있을까. 영화감독으로 변신한 정우성과 인생 첫 로맨스에 도전한 유해진이 같은]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[수많은 스파이더맨에게 내민 도전장, 도발이 먹혔다]]></title>
+        <id>https://v.daum.net/v/20230706161801436</id>
+        <link href="https://v.daum.net/v/20230706161801436"/>
+        <updated>2023-07-06T08:15:55.507Z</updated>
+        <content type="html"><![CDATA[[고광일 기자] ▲ &nbsp;영화 &lt;스파이더맨 어크로스 더 유니버스&gt; 스틸샷ⓒ 소니픽처스코리아*주의! 이 기사에는 스포일러가 포함돼 있습니다. 영화 &lt;스파이더맨: 어크로스 더 유니버스&gt;는 전작의 근간을 흔드는 도발적인 후속작이다. 1편 &lt;스파이더맨: 뉴 유니버스&gt;의 빌런인 킹핀은 차원이동기를 만들어 죽은 아내와 딸을 다른 멀티버스에서 데려오려고 한다. 멀티버스가]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["성룡, 외도로 낳은 동성애자 딸 버렸다" 비난 쇄도]]></title>
         <id>https://v.daum.net/v/20230706160023580</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230706125715270"/>
         <updated>2023-07-06T04:15:11.055Z</updated>
         <content type="html"><![CDATA[[뉴스엔 배효주 기자] '미션 임파서블: 데드 레코닝 PART ONE'이 폭발적인 로튼토마토 지수를 기록 중이다. 7월 12일 개봉하는 영화 '미션 임파서블: 데드 레코닝 PART ONE'(감독 크리스토퍼 맥쿼리)은 모든 인류를 위협할 새로운 무기가 잘못된 자의 손에 넘어가지 않도록 추적하던 ‘에단 헌트’(톰 크루즈)와 IMF팀이 미스터리하고 강력한 적을]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이지훈 "알바 끝나면 신문 배달…불안감 컸다"]]></title>
-        <id>https://v.daum.net/v/20230706114543974</id>
-        <link href="https://v.daum.net/v/20230706114543974"/>
-        <updated>2023-07-06T02:57:45.642Z</updated>
-        <content type="html"><![CDATA[배우 이지훈은 과거 불안함 속에서 하루하루를 보냈다. 또래들이 자신의 발전을 위해 노력할 때 자신만 제자리를 맴도는 듯하다는 생각이 들었단다. 연기 수업, 아르바이트에 이어 신문 배달까지 하면서 '내 인생이 어떻게 되려고 이럴까'라는 말을 수없이 곱씹었다. 꿈은 있는데 미래는 불투명했다. 이지훈이 비슷한 아픔을 갖고 있는 승진을 더욱 잘 이해할 수 있었던]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“이승만· 박정희에 편견… 사죄하며 그분들 영화 만듭니다”]]></title>
-        <id>https://v.daum.net/v/20230706114524958</id>
-        <link href="https://v.daum.net/v/20230706114524958"/>
-        <updated>2023-07-06T02:57:45.642Z</updated>
-        <content type="html"><![CDATA[“우리 현대사 공부를 다시 하면서 제가 편견으로 잘못된 국가관을 갖고 살았다는 것을 깨달았습니다. 그동안 왜곡된 역사관으로 잘못 알고 살았던 것을 반성하고 사죄하는 차원에서 이승만, 박정희 전 대통령 다큐멘터리 영화를 만들기로 했습니다. 우리 대한민국의 미래를 위해 청소년들에게 좋은 영향을 주는 작품을 남기고 싶습니다.” 이장호(78·사진) 감]]></content>
     </entry>
 </feed>
