@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-07-07T08:15:56.335Z</updated>
+    <updated>2023-07-07T09:12:59.708Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[아이유→허니제이 울린 '전화 공포증' 뭐길래?…"엄마랑도 힘들어"]]></title>
+        <id>https://v.daum.net/v/20230707175016333</id>
+        <link href="https://v.daum.net/v/20230707175016333"/>
+        <updated>2023-07-07T09:12:41.146Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 이예진 기자) 아이유에 이어 허니제이도 '콜포비아'임을 고백해 화제를 모으고 있다. 콜포비아(Call Phobia)는 전화를 의미하는 '콜'(Call)과 공포증 '포비아'(Phobia)의 합성어다. 즉, 전화 통화에 두려움을 느껴 기피하는 현상을 뜻한다. 기기가 발달함에 따라 이들은 전화 통화보다는 문자나 메신저 등을 선호하는 경향이 크다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[시그니처 지원, 배우 데뷔...'내짝남 날짝남' 출연]]></title>
         <id>https://v.daum.net/v/20230707170342188</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230707141606006"/>
         <updated>2023-07-07T06:15:59.990Z</updated>
         <content type="html"><![CDATA[[텐아시아=류예지 기자] 배우 안보현이 '이번 생도 잘 부탁해' 속 캐릭터의 매력을 극대화한 연기로 매주 주말 밤 시청자들의 설렘 지수를 높이고 있다. 지난 17일 첫 방영 이후 전생과 환생을 한 소재와 쾌속 전개로 화제를 끌고 있는 tvN 토일드라마 '이번 생도 잘 부탁해'(연출 이나정/극본 최영림, 한아름/기획 스튜디오드래곤/제작 스튜디오N, 화인컷]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[안동구, 첫사랑 기억 조작男 등극..하윤경과 설레는 첫만남은?]]></title>
-        <id>https://v.daum.net/v/20230707140137527</id>
-        <link href="https://v.daum.net/v/20230707140137527"/>
-        <updated>2023-07-07T05:12:01.942Z</updated>
-        <content type="html"><![CDATA[[OSEN=하수정 기자] 첫사랑 기억이 조작된다. ‘이번 생도 잘 부탁해’ 안동구가 설렘 가득한 첫사랑 비주얼로 시선을 사로잡았다. tvN 토일 드라마 ‘이번 생도 잘 부탁해’(연출 이나정, 극본 최영림·한아름)에서 겉으로는 차갑지만 속은 따뜻한 남자 하도윤으로 열연 중인 안동구의 첫사랑 기억 조작 스틸이 공개됐다.&nbsp; 안동구의 소속사 에이스팩토리의 공식]]></content>
     </entry>
 </feed>
