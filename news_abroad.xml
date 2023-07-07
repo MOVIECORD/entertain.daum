@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-07-07T03:24:05.849Z</updated>
+    <updated>2023-07-07T04:14:49.616Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[브리트니 "경호원이 얼굴 폭행" vs 농구선수 "스피어스인 줄 몰랐다"]]></title>
+        <id>https://v.daum.net/v/20230707125420681</id>
+        <link href="https://v.daum.net/v/20230707125420681"/>
+        <updated>2023-07-07T04:14:48.914Z</updated>
+        <content type="html"><![CDATA[[OSEN=박소영 기자] 한때 ‘팝의 요정’ 브리트니 스피어스가 농구계 스타 빅토르 웸반야마에게 접근했다가 경호원으로부터 폭행을 당해 사건이 커지고 있다. 당사자인 빅토르 웸반야마는 이러한 소동을 몰랐다고 해명했다. 브리트니 스피어스는 최근 미국 프로농구 스타 빅토르 웸반야마를 보고 사진을 찍기 위해 다가갔다. 그런데 이때 빅토르 웸반야마의 경호원이 브]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[킴 카다시안, '40억' 17캐럿 다이아 착용...배꼽 강조?]]></title>
         <id>https://v.daum.net/v/20230707120733016</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230707082922661"/>
         <updated>2023-07-07T01:09:23.474Z</updated>
         <content type="html"><![CDATA[[티브이데일리 김종은 기자] 미국 유명 모델 킴 카다시안이 전 남편 카녜이 웨스트(예)를 언급하며 눈물을 흘렸다. 최근 공개된 훌루 오리지널 '더 카다시안스'에서는 킴 카다시안이 이혼 후의 심경을 고백하는 모습이 담겼다. 이날 킴 카다시안은 전 남편 카녜이 웨스트의 반유대적 발언을 언급하며 "분명 내가 사랑해서 결혼한 사람인데, 어느새 내 기억 속과는 전혀]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[리키 마틴, 13세 연하 동성 남편과 결혼 6년만 이혼]]></title>
-        <id>https://v.daum.net/v/20230707080007079</id>
-        <link href="https://v.daum.net/v/20230707080007079"/>
-        <updated>2023-07-06T23:13:10.454Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 이민지 기자] 가수 리키 마틴이 결혼 6년만에 이혼했다. 피플은 7월 6일(현지시간) 리키 마틴과 제이완 요세프이 이혼한다고 보도했다. 리키 마틴과 제이완 요세프는 공동 성명서를 통해 "우리는 아이들에 대한 사랑, 존경, 존엄성으로 우리 결혼 생활을 끝내기로 결정했다. 우리가 부부로서 경험한 것들을 존중한다"고 결별 소식을 밝혔다. 2018년]]></content>
     </entry>
 </feed>
