@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-07-07T10:13:33.969Z</updated>
+    <updated>2023-07-07T11:11:04.083Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[안젤리나 졸리 "입양 딸, 피부색 때문에 '오진' 받아"...인종 차별 비판]]></title>
+        <id>https://v.daum.net/v/20230707194031436</id>
+        <link href="https://v.daum.net/v/20230707194031436"/>
+        <updated>2023-07-07T11:11:03.197Z</updated>
+        <content type="html"><![CDATA[[TV리포트=유비취 기자] 배우 안젤리나 졸리가 인종차별에 대한 목소리를 높였다. 지난 5일(현지 시간) 미국간호학잡지에 안젤리나 졸리(48)의 기사가 실렸다. 안젤리나 졸리는 자신이 입양한 자녀들이 피부색 때문에 오진을 받은 적이 있다면서 인종차별에 대한 의료계 문제를 지적했다. 안젤리나 졸리는 "유색 인종인 아이들이 피부색 때문에 오진을 받았다"라고 고]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[칸예가 설립한 학교, 또 논란..."유리 싫다며 창문에 안 달아"]]></title>
         <id>https://v.daum.net/v/20230707184030413</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230707140030476"/>
         <updated>2023-07-07T05:12:16.149Z</updated>
         <content type="html"><![CDATA[[TV리포트=유비취 기자] 일본의 인기 아이돌 기획사 쟈니스의 성 학대 폭로 이후 쟈니스 출신 연예인의 광고가 연이어 취소되고 있다. 6일 일본 매체 사이조는 쟈니스 출신 연예인의 광고가 줄줄이 취소되고 있다고 보도했다. 이는 쟈니스 사무소 창업자 쟈니 기타가와의 성 가해의 폭로에 따른 여파로 분석됐다. 기무라 타쿠야는 화장품 회사인 시세이도 광고 기용이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[브리트니 "경호원이 얼굴 폭행" vs 농구선수 "스피어스인 줄 몰랐다"]]></title>
-        <id>https://v.daum.net/v/20230707125420681</id>
-        <link href="https://v.daum.net/v/20230707125420681"/>
-        <updated>2023-07-07T04:14:48.914Z</updated>
-        <content type="html"><![CDATA[[OSEN=박소영 기자] 한때 ‘팝의 요정’ 브리트니 스피어스가 농구계 스타 빅토르 웸반야마에게 접근했다가 경호원으로부터 폭행을 당해 사건이 커지고 있다. 당사자인 빅토르 웸반야마는 이러한 소동을 몰랐다고 해명했다. 브리트니 스피어스는 최근 미국 프로농구 스타 빅토르 웸반야마를 보고 사진을 찍기 위해 다가갔다. 그런데 이때 빅토르 웸반야마의 경호원이 브]]></content>
     </entry>
 </feed>
