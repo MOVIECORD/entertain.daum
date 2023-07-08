@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-07-08T07:10:55.032Z</updated>
+    <updated>2023-07-08T08:14:16.073Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['넘버스' 김명수X최진혁X연우, 이 조합이면 승률 100%]]></title>
+        <id>https://v.daum.net/v/20230708170556996</id>
+        <link href="https://v.daum.net/v/20230708170556996"/>
+        <updated>2023-07-08T08:13:59.102Z</updated>
+        <content type="html"><![CDATA[[OSEN=연휘선 기자]&nbsp;‘넘버스&nbsp;:&nbsp;빌딩숲의 감시자들’이 원팀으로 뭉친 김명수(인피니트 엘),&nbsp;최진혁,&nbsp;연우의 스펙터클 활약을 예고했다.&nbsp; 8일 MBC&nbsp;금토드라마&nbsp;‘넘버스&nbsp;:&nbsp;빌딩숲의 감시자들’(극본 정안 오혜석, 연출 김칠봉, 약칭 넘버스) 측은&nbsp;한마음 한뜻으로 뭉친 김명수(엘),&nbsp;최진혁,&nbsp;연우의 스틸을 공개했다.&nbsp;세 사람이 한 프레임에 담긴 단체]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[천우희의 '이로운 사기' A to Z…이강현 미술감독, 미장센 비결 공개]]></title>
+        <id>https://v.daum.net/v/20230708165435885</id>
+        <link href="https://v.daum.net/v/20230708165435885"/>
+        <updated>2023-07-08T08:13:59.109Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 노한빈 기자] '이로운 사기'의 이강현 미술감독이 숨겨진 미장센의 비결을 공개했다. 매주 월, 화요일 오후 8시 50분 방송되는 케이블채널 tvN 월화드라마 ‘이로운 사기'(극본 한우주 연출 이수현)가 독특하고 이색적인 세트 공간으로 매 장면 흥미를 더하고 있다. '이로운 사기'의 미장센을 담당하는 이강현 미술감독은 작품을 처음 만난 순간]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["은퇴한 아이돌"..탑, '오징어 게임2' 캐릭터 스포]]></title>
+        <id>https://v.daum.net/v/20230708163302739</id>
+        <link href="https://v.daum.net/v/20230708163302739"/>
+        <updated>2023-07-08T08:13:59.110Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 | 이승훈 기자]  대마초 흡연(마약류 관리법 위반) 혐의로 불구속 기소된 빅뱅 탑 29일 오전 서울 서초구 중앙지방법원에서 진행되는 공판에 출석하던 중 취재진 질문에 답하고 있다. /사진=김창현 기자 chmt@보이 그룹 빅뱅 출신이자 마약 전과가 있는 탑(최승현)이 '오징어 게임2'에 캐스팅된 가운데, 그의 극중 캐릭터 역할이 눈길을 끈다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['임윤아♥' 이준호의 사랑의 라이벌 등장..'오겜' 아누팜 '킹더랜드' 출격]]></title>
+        <id>https://v.daum.net/v/20230708162124669</id>
+        <link href="https://v.daum.net/v/20230708162124669"/>
+        <updated>2023-07-08T08:13:59.110Z</updated>
+        <content type="html"><![CDATA[[OSEN=박소영 기자] 이준호를 긴장하게 만든 사랑의 라이벌이 등장한다. JTBC&nbsp;토일드라마&nbsp;‘킹더랜드’(극본 최롬(팀 하리마오),&nbsp;연출 임현욱,&nbsp;제작 앤피오엔터테인먼트,&nbsp;바이포엠스튜디오, SLL)에 넷플릭스 오리지널&nbsp;'오징어 게임'의 신스틸러 배우 아누팜(사미르 역)이 출연해 미친 존재감을 발산한다. 무엇보다&nbsp;'킹더랜드'는 이준호의 일일 연애 코치로]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“이유있는 대배우 캐스팅” 오정세 할머니 김해숙, 백발 카리스마로 본격 등판]]></title>
         <id>https://v.daum.net/v/20230708153016233</id>
@@ -81,33 +109,5 @@
         <link href="https://v.daum.net/v/20230708133810174"/>
         <updated>2023-07-08T05:11:05.403Z</updated>
         <content type="html"><![CDATA[[스타뉴스 | 김노을 기자] /사진제공=KBS'가슴이 뛴다' 짜릿한 이야기가 펼쳐지고 있다. KBS 2TV 월화드라마 '가슴이 뛴다'(연출 이현석, 이민수 / 극본 김하나, 정승주 / 제작 위매드, 몬스터유니온)는 그 어디서도 본 적 없는 반인뱀파이어와 인간의 아찔한 목숨 담보 공생 로맨스로 시청자들의 눈을 뗄 수 없게 만들었다. 특히 뱀파이어와 인간]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘오겜’ 아누팜, ‘킹더랜드’ 특별출연…이준호과 긴장케 할 아랍왕자]]></title>
-        <id>https://v.daum.net/v/20230708133457144</id>
-        <link href="https://v.daum.net/v/20230708133457144"/>
-        <updated>2023-07-08T05:11:05.403Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 이민지 기자] 아누팜이 이준호를 긴장하게 만든다. JTBC 토일드라마 ‘킹더랜드’(극본 최롬(팀 하리마오)/연출 임현욱)에 넷플릭스 오리지널 '오징어 게임'의 신스틸러 배우 아누팜(사미르 역)이 특별출연한다. '킹더랜드'는 이준호의 일일 연애 코치로 활약했던 배우 진선규, 킹호텔 면접자로 등장한 아나운서 이혜성, 승무원으로 변신한 배우 김성은]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[하윤경♥안동구, 초밀착 아이컨택→볼 쓰담 로맨스 청신호]]></title>
-        <id>https://v.daum.net/v/20230708130917944</id>
-        <link href="https://v.daum.net/v/20230708130917944"/>
-        <updated>2023-07-08T04:13:57.121Z</updated>
-        <content type="html"><![CDATA[[OSEN=하수정 기자] tvN ‘이번 생도 잘 부탁해’ 안동구가 하윤경의 마음을 흔드는 과감한 직진이 포착돼 안방극장에 휘몰아칠 가슴 두근거리는 설렘을 예고한다. tvN 토일드라마 ‘이번 생도 잘 부탁해’(연출 이나정/극본 최영림, 한아름/기획 스튜디오드래곤/제작 스튜디오N, 화인컷) 측은 7회 방송에 앞서 8일(토), 하윤경(윤초원 역)과 안동구(하]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["내가 다 죽였어"..김태리, 오정세x홍경도 놀란 '악귀' 미소 모먼트]]></title>
-        <id>https://v.daum.net/v/20230708124319783</id>
-        <link href="https://v.daum.net/v/20230708124319783"/>
-        <updated>2023-07-08T04:13:57.124Z</updated>
-        <content type="html"><![CDATA[[OSEN=박소영 기자] SBS&nbsp;금토드라마&nbsp;‘악귀’의 김태리가 무더위를 날리는 오싹한 악귀 연기로 안방극장에 서늘함을 선사하고 있다. 김태리는&nbsp;SBS&nbsp;금토드라마&nbsp;‘악귀’서 아버지 구강모(진선규 분)의 유품을 받고 서서히 악귀에 잠식되어 가는 구산영 역을 맡아 매 회 뜨거운 관심을 받고 있다.&nbsp;평단의 호평과 함께 또 한 번의 인생 캐릭터를 갱신하고 있는]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[신혜선 안보현, 입맞춤보다 얼굴 쓰다듬는 뜨거운 눈맞춤 포착‘이생잘’]]></title>
-        <id>https://v.daum.net/v/20230708114108345</id>
-        <link href="https://v.daum.net/v/20230708114108345"/>
-        <updated>2023-07-08T02:55:54.236Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 이민지 기자] 신혜선과 안보현의 뜨거운 눈맞춤이 포착됐다. tvN 토일드라마‘이번 생도 잘 부탁해’(극본 최영림 한아름/연출 이나정) 측은 7월 8일 신혜선과 안보현의 눈맞춤 스틸을 공개했다. 공개된 스틸 속 신혜선은 흠뻑 젖은 안보현을 수건으로 감싸주며 애정 어린 깊은 눈길로 쳐다보고 있다. 신혜선이 전하는 따뜻한 체온이 안보현의 몸에 스며드]]></content>
     </entry>
 </feed>

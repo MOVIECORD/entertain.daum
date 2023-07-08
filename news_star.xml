@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2023-07-08T07:10:55.034Z</updated>
+    <updated>2023-07-08T08:14:16.068Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["술값 200만원" 제인→"매일 위스키" 윤상…알코올 의존증, 극복해나가는 ★들]]></title>
+        <id>https://v.daum.net/v/20230708170102939</id>
+        <link href="https://v.daum.net/v/20230708170102939"/>
+        <updated>2023-07-08T08:14:10.352Z</updated>
+        <content type="html"><![CDATA[[텐아시아=김지원 기자] 연예계 생활은 힘들고 불규칙하다. 한꺼번에 많은 돈을 벌다 보면 사기꾼, 협잡꾼들이 들러붙기도 한다. 불면증, 불안감에 시달리다 술을 찾게 된다. 스타들이 쉽게 알코올 의존증에 빠질 수 있는 이유다. 댄스 크루 홀리뱅의 제인, 윤상, 자두 등은 알코올 의존증을 겪었다고 고백했다. 홀리뱅 제인은 최근 방송된 채널A '오은영의 금쪽]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[마동석, 대한민국 간판 액션배우로 우뚝 서다]]></title>
         <id>https://v.daum.net/v/20230708160804584</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230708125914865"/>
         <updated>2023-07-08T04:14:07.569Z</updated>
         <content type="html"><![CDATA[[뉴스엔 이슬기 기자] 박명수가 난임 치료에 대해 이야기했다. 7월 7일 방송된 KBS 쿨FM '박명수의 라디오쇼'에서는 청취자들의 사연을 읽는 시간이 진행됐다. 이날 한 청취자는 "난임센터에서 진료 대기 중이에요. 아침 일찍 예약하고 왔는데 늘 이렇게 오래오래 기다려야 합니다. 신난 노래 틀어주세요"라는 메시지를 보냈다. 박명수는 "진짜 참 난임센터에]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박명수 “졸혼 안 돼, 결국에는 부부뿐…자식들은 자기 살기 바빠”]]></title>
-        <id>https://v.daum.net/v/20230708125727844</id>
-        <link href="https://v.daum.net/v/20230708125727844"/>
-        <updated>2023-07-08T04:14:07.572Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 이슬기 기자] 박명수가 부부에 대해 이야기했다. 7월 7일 방송된 KBS 쿨FM '박명수의 라디오쇼'에서는 청취자들의 사연을 읽는 시간이 진행됐다. 이날 한 청취자는 "남편이 새치 염색약을 사왔습니다. 서로 염색을 해주는데 왠지 모르게 애틋한 마음이 생기네요"라는 메시지를 보냈다. 이에 박명수는 "결국 마지막에 남는 건 부부밖에 없습니다. 요즘]]></content>
     </entry>
 </feed>
