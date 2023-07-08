@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-07-08T08:14:16.073Z</updated>
+    <updated>2023-07-08T09:11:07.383Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["'마약' 빅뱅 탑, '오징어게임2' 은퇴 아이돌 역할"]]></title>
+        <id>https://v.daum.net/v/20230708172025145</id>
+        <link href="https://v.daum.net/v/20230708172025145"/>
+        <updated>2023-07-08T09:10:50.387Z</updated>
+        <content type="html"><![CDATA[그룹 빅뱅 탑이 '오징어게임2'에서 은퇴한 아이돌 역할을 맡는다는 소식이 전해졌다. 지난 7일 SBS는 빅뱅 출신 탑이 넷플릭스 '오징어게임' 시즌2에서 은퇴한 아이돌을 연기한다고 보도했다. 이에 따르면 탑은 극중 과거 가수 활동을 했다가 은퇴한 아이돌로 등장한다고. 캐릭터상 랩은 물론 춤을 출 수 있는 배우를 찾았다는 후문이다. 탑의 '오징어게임2]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['넘버스' 김명수X최진혁X연우, 이 조합이면 승률 100%]]></title>
         <id>https://v.daum.net/v/20230708170556996</id>
@@ -80,7 +87,7 @@
         <id>https://v.daum.net/v/20230708141006415</id>
         <link href="https://v.daum.net/v/20230708141006415"/>
         <updated>2023-07-08T05:11:05.397Z</updated>
-        <content type="html"><![CDATA[[엔터미디어=정덕현] "미치겠어요. 저도. 제가 생각해도 정상 아닌데, 아니지 싶은데... 입이 안 떨어져요. 나. 당신 안 사랑해. 어머님 사랑한다고... 며느리로서가 아니라 여자로서요. 무슨 뜻인지 아시죠?" TV조선 '아씨 두리안'은 며느리가 시어머니를 사랑한다는 기상천외한 고백으로 포문을 연다. 성소수자의 사랑을 다루는 서사야 그리 낯선 건 아니다.]]></content>
+        <content type="html"><![CDATA[[엔터미디어=정덕현] "미치겠어요. 저도. 제가 생각해도 정상 아닌데, 아니지 싶은데... 입이 안 떨어져요. 나. 당신 안 사랑해. 어머님 사랑한다고... 며느리로서가 아니라 여자로서요. 무슨 뜻인지 아시죠?" TV조선 &lt;아씨 두리안&gt;은 며느리가 시어머니를 사랑한다는 기상천외한 고백으로 포문을 연다. 성소수자의 사랑을 다루는 서사야 그리 낯선 건 아니다.]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[홍경, 오컬트 속 한줄기 로맨스 빛..♥김태리 지켜주나]]></title>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230708133826179"/>
         <updated>2023-07-08T05:11:05.402Z</updated>
         <content type="html"><![CDATA[SBS 금토드라마 ‘악귀’가 충격 반전 전개로 시청률 자체 최고 기록 경신 행진을 이어갔다.&nbsp; 지난 7일 방송된 ‘악귀’ 5회 시청률은 전회보다 상승, 수도권 가구 12.2%, 전국 가구 10.8%를 나타냈다. 수도권 기준, 시청률 12%를 돌파하며 또다시 자체 최고 기록을 경신했고, 순간 최고 14.3%까지 올랐다.(이하 닐슨코리아 기준) 원혼이 돼]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['가슴이 뛴다' 옥택연·원지안, 심쿵 입맞춤 명장면]]></title>
-        <id>https://v.daum.net/v/20230708133810174</id>
-        <link href="https://v.daum.net/v/20230708133810174"/>
-        <updated>2023-07-08T05:11:05.403Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 | 김노을 기자] /사진제공=KBS'가슴이 뛴다' 짜릿한 이야기가 펼쳐지고 있다. KBS 2TV 월화드라마 '가슴이 뛴다'(연출 이현석, 이민수 / 극본 김하나, 정승주 / 제작 위매드, 몬스터유니온)는 그 어디서도 본 적 없는 반인뱀파이어와 인간의 아찔한 목숨 담보 공생 로맨스로 시청자들의 눈을 뗄 수 없게 만들었다. 특히 뱀파이어와 인간]]></content>
     </entry>
 </feed>
