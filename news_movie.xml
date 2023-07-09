@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-07-09T05:12:01.470Z</updated>
+    <updated>2023-07-09T06:15:18.742Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[박규영 "원톱 주연→'오징어 게임2'..책임감 가져야죠"]]></title>
+        <id>https://v.daum.net/v/20230709150000117</id>
+        <link href="https://v.daum.net/v/20230709150000117"/>
+        <updated>2023-07-09T06:14:54.151Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 | 김나연 기자] 넷플릭스 오리지널 시리즈 '셀러브리티'의 주연배우 박규영이 4일 진행된 인터뷰를 위해 포즈를 취하고 있다. /사진제공=넷플릭스 2023.07.04 /사진=이동훈 기자 photoguy@'셀러브리티'의 원톱 주연으로 극을 이끈 박규영은 성장, 또 성장하고 있다. 부담감보다는 책임감을 느끼려고 한다는 박규영에게서는 단단함이 느껴졌다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[잘난 ‘오징어 게임2’, 기어이 ‘탑’ 품고 출항하나]]></title>
+        <id>https://v.daum.net/v/20230709141501384</id>
+        <link href="https://v.daum.net/v/20230709141501384"/>
+        <updated>2023-07-09T06:14:54.151Z</updated>
+        <content type="html"><![CDATA[‘오징어 게임’ 시즌2의 촬영이 임박한 가운데 ‘대마초 전과’ 후 자진 은퇴를 선언했던 빅뱅 출신 탑(최승현)은 그대로 품고 갈 모양새다. 출연 소식 만으로도 거센 비판 여론과 이병헌·이정재 관여설 등이 터져 나왔지만 넷플릭스와 제작사, 황동혁 감독은 침묵으로 일관 중이다. 국내 여론을 무시한 ‘시즌2’의 영광은 재현될까. 최근 연예가에 따르면 ‘오징어 게]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[봉준호 '열차'에 탑승한 할리우드 배우들... 이제 시작이다]]></title>
         <id>https://v.daum.net/v/20230709125702291</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230709084503422"/>
         <updated>2023-07-09T01:12:06.963Z</updated>
         <content type="html"><![CDATA[“제 연기가 베스트였는지 요즘 고민 중이에요. 아직 굵직한 대작에 참여한 적은 없는데 더 큰 책임을 져보고 싶다는 생각도 들어요. 훨씬 열심히 해야죠.(웃음)” 그룹 카라 출신 배우 한승연이 작품을 통해 배운 점을 묻자 이 같이 말했다. 영화 ‘빈틈없는 사이’로 첫 상업 영화 주연에 도전한 한승연은 최근 진행된 인터뷰에서 “연기자로 지낸 시간이 가수로]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[K신드롬 ‘엘리멘탈’, 300만 돌파]]></title>
-        <id>https://v.daum.net/v/20230709084201397</id>
-        <link href="https://v.daum.net/v/20230709084201397"/>
-        <updated>2023-07-09T01:12:06.963Z</updated>
-        <content type="html"><![CDATA[애니메이션 ‘엘리멘탈’(감독 피터 손)이 강력한 입소문의 힘으로 300만 관객을 돌파했다. 9일 영화진흥위원회 영화관입장권 통합전산망 집계에 따르면 ‘엘리멘탈’은 전날 33만4433명의 관객을 동원해 박스오피스 1위 자리를 지켰다. 누적 관객수는 308만 4879명이다. 지난달 14일 개봉한 ‘엘리멘탈’은 개봉 직후 ‘범죄도시’ 등에 밀렸다가 관객들의 입소]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['엘리멘탈', 33만↑ 동원하며 15일 연속 1위…308만 돌파]]></title>
-        <id>https://v.daum.net/v/20230709082655298</id>
-        <link href="https://v.daum.net/v/20230709082655298"/>
-        <updated>2023-07-09T01:12:06.964Z</updated>
-        <content type="html"><![CDATA[(서울=뉴스1) 김민지 기자 = 디즈니 픽사 애니메이션 '엘리멘탈'(감독 피터 손)이 308만 관객을 돌파했다. 9일 영화진흥위원회 영화관입장권 통합전산망 집계에 따르면 '엘리멘탈'은 전날 33만4433명의 관객을 동원하며 박스오피스 1위 자리를 지켰다. 누적관객수는 308만4879명이다. 지난달 14일 개봉한 '엘리멘탈'은 개봉 직후에는 '범죄도시'에]]></content>
     </entry>
 </feed>
