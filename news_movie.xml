@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-07-09T13:16:53.141Z</updated>
+    <updated>2023-07-09T14:10:19.888Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김혜수·설경구·하정우·이병헌·유해진·정우성, 마동석 이을 주인공은?]]></title>
+        <id>https://v.daum.net/v/20230709230221082</id>
+        <link href="https://v.daum.net/v/20230709230221082"/>
+        <updated>2023-07-09T14:09:57.532Z</updated>
+        <content type="html"><![CDATA[[OSEN=김보라 기자]&nbsp;바야흐로 여름이다. 여름 성수기에 개봉하면 천만 영화가 여러 편 나왔던, 흥행이 보장됐던 몇 년 전과 달리 포스트 코로나 시대에는 이른바 ‘티켓값’ 하는 작품에만 관객이 들고 입소문이 난다. 올해 여름 성수기 텐트폴 영화로 극장 개봉을 확정한 영화는 역시 4편이다. 여기에 2편이 여름 시장 추가 합류를 알려 뜨거운 경쟁이 예상된]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[한승연 "카라 활동? 올해도 뭔가 있을 것" ③]]></title>
         <id>https://v.daum.net/v/20230709221415881</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230709120206595"/>
         <updated>2023-07-09T03:03:27.493Z</updated>
         <content type="html"><![CDATA[[티브이데일리 김종은 기자] 픽사의 신작 '엘리멘탈'이 입소문을 제대로 탔다. 주를 거듭할수록 높아지는 인기에 힘입어 국내 관객 300만을 돌파한 데 이어 글로벌 매출도 2억 달러를 돌파한 것. '엘리멘탈'의 상승세가 언제까지 이어질지 궁금증을 자아낸다. 9일 영화진흥위원회 통합전산망에 따르면 '엘리멘탈'(감독 피터 손)은 전날인 8일 33만4433명의]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['범죄도시' 韓대표 시리즈 영화 등극…3편 도합 3천만 동원]]></title>
-        <id>https://v.daum.net/v/20230709113411092</id>
-        <link href="https://v.daum.net/v/20230709113411092"/>
-        <updated>2023-07-09T03:03:27.496Z</updated>
-        <content type="html"><![CDATA[[OSEN=김보라 기자] 범죄오락액션 '범죄도시'가 한국 시리즈 영화 사상 최초로 3천만 관객을 동원하는 기염을 토했다. 영화 '범죄도시3'(감독 이상용, 제공 에이비오엔터테인먼트, 배급 에이비오엔터테인먼트・플러스엠 엔터테인먼트, 제작 빅펀치픽쳐스・홍필름・비에이엔터테인먼트)는 개봉 첫날 100만, 3일 200만, 4일 300만, 5일 400만, 6일 5]]></content>
     </entry>
 </feed>
