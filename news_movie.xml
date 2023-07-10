@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-07-10T02:58:41.160Z</updated>
+    <updated>2023-07-10T03:29:14.767Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[박훈정 "'귀공자' 아프고 잔인한 이야기, 쓴웃음 짓게 하는 영화"]]></title>
+        <id>https://v.daum.net/v/20230710120152632</id>
+        <link href="https://v.daum.net/v/20230710120152632"/>
+        <updated>2023-07-10T03:28:51.022Z</updated>
+        <content type="html"><![CDATA[영화 '귀공자'로 돌아온 박훈정 감독을 만났다. 전 국민이 다 아는 영화 '신세계'부터 '마녀' 시리즈, 넷플릭스 '낙원의 밤'까지 직접 쓰고 연출하는 영화로 매력적인 캐릭터, 압도적인 액션 시퀀스를 이끌어온 박훈정 감독은 영화 '귀공자'로 지금껏 그가 만들어 왔던 모든 작품 중 가장 유머러스한 액션 서스펜스를 만들어 냈다. 오래전 '코피노'를 다룬]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[국내보다 해외에서 인정받는 영화제, 지원 왜 줄었나]]></title>
         <id>https://v.daum.net/v/20230710114202913</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230710095430008"/>
         <updated>2023-07-10T01:09:46.227Z</updated>
         <content type="html"><![CDATA[[스포티비뉴스=유은비 기자] '엘리멘탈'이 흥행 상승세를 제대로 탔다. '엘리멘탈'이 개봉 4주 차 주말 80만이 넘는 관객을 추가하며 장기 흥행 레이스에 청신호가 켜졌다. 10일 오전 영화관입장권통합전산망에 따르면 '엘리멘탈'은 지난 7일부터 9일까지 개봉 4주 차 주말 동안 80만 460명의 관객을 동원하며 3주 연속 주말 박스오피스 1위를 차지했]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[쌍천만 신화 김용화 감독 ‘더 문’ 올 여름 영화관서 달 위를 걷는 경험]]></title>
-        <id>https://v.daum.net/v/20230710095216931</id>
-        <link href="https://v.daum.net/v/20230710095216931"/>
-        <updated>2023-07-10T01:09:46.228Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 배효주 기자] 올여름 '더 문'을 통해 압도적인 영화적 체험을 할 수 있을 전망이다. 8월 2일 개봉하는 영화 '더 문'(감독 김용화)은 사고로 인해 홀로 달에 고립된 우주 대원 선우와 필사적으로 그를 구하려는 전 우주센터장 재국의 사투를 그린 작품이다. 국내 최초의 유인 달 탐사, 38.4만 Km 떨어진 달에 혼자 고립된 우주 대원의 귀환이라는]]></content>
     </entry>
 </feed>
