@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-07-10T11:11:18.489Z</updated>
+    <updated>2023-07-10T12:23:53.097Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[마이클 세라 "'바비' 출연진 중 나만 단톡방에 초대 안 됐다"]]></title>
+        <id>https://v.daum.net/v/20230710212031002</id>
+        <link href="https://v.daum.net/v/20230710212031002"/>
+        <updated>2023-07-10T12:23:52.262Z</updated>
+        <content type="html"><![CDATA[[TV리포트=유비취 기자] 영화 '바비'의 마이클 세라가 출연진 중 자신만 단체 메시지방에 초대되지 못했다고 고백했다. 9일(현지 시간) 영화 '바비' 출연진은 연예 매체 피플과의 인터뷰를 가졌다. 마이클 세라는 스마트폰이 아닌 폴더폰을 아직도 사용해 단체 메시지방에 들어가지 못했다고 털어놨다. 이날 인터뷰에서 시무 리우는 주연 배우 마고 로비에 대한 칭찬]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[블라세X이영지, 'Drop It'으로 강렬 컬래버..파워 래핑+드릴의 결정판]]></title>
         <id>https://v.daum.net/v/20230710201010160</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230710160030880"/>
         <updated>2023-07-10T07:12:40.641Z</updated>
         <content type="html"><![CDATA[[TV리포트=유비취 기자] 팝스타 마돈나가 중환자실로 이송된 이후 10일 만에 목격됐다. 9일(현지 시간) 연예 매체 페이지식스는 마돈나(64)가 퇴원 후 공원에서 산책까지 할 정도로 회복했다고 보도했다. 마돈나는 지난달 건강 이상으로 중환자실까지 가야 했다. 마돈나는 미국 뉴욕 어퍼이스트사이드 공원에서 친구와 함께 산책을 하는 모습이 포착됐다. 그는 모자]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[日 걸그룹, '9억' 버는 호스트와 반동거..."진지한 관계"]]></title>
-        <id>https://v.daum.net/v/20230710150031926</id>
-        <link href="https://v.daum.net/v/20230710150031926"/>
-        <updated>2023-07-10T06:17:11.477Z</updated>
-        <content type="html"><![CDATA[[TV리포트=이효경 기자]일본 아이돌 그룹 AKB48 출신 나가오 마리야(29)가 일본의 인기 호스트 A씨와 진지한 관계를 맺고 있다고 전해졌다. 보도에 따르면 나가오 마리야가 문신으로 뒤덮인 전 호스트 A씨와 함께 검은색&nbsp;차량을 타고 있다. 그는 매출 1억 엔(한화 약 9억 1300만 원)을 넘는 매우 인기 있는 가부키초의 호스트로 현재는 선수를 그만두고]]></content>
     </entry>
 </feed>
