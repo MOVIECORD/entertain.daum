@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-07-10T01:10:11.382Z</updated>
+    <updated>2023-07-10T02:58:41.169Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[브래드 피트, 포뮬러원 레이서 전격 변신 “나이를 잊은 배우” 감탄]]></title>
+        <id>https://v.daum.net/v/20230710105850869</id>
+        <link href="https://v.daum.net/v/20230710105850869"/>
+        <updated>2023-07-10T02:58:40.526Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]할리우드 스타 브래드 피트(59)가 포뮬러원 레이서로 전격 변신했다. 9일(현지시간) 페이지식스에 따르면, 브래드 피트는 이날 영국 그랑프리에서 전 세계 챔피언 루이스 해밀턴과 막스 베르스타펜, 동료배우 담슨 이드리스와 함께 촬영을 진행했다. 그는 ‘탑건2’의 조셉 코신스키 감독과 촬영 동선을 상의하는 등 열정적인 모습을]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['의학적 합병증' 제이미 폭스, 퇴원 후 대중 앞에 첫선…보트 타고 '브이']]></title>
         <id>https://v.daum.net/v/20230710095137901</id>
@@ -74,26 +81,5 @@
         <link href="https://v.daum.net/v/20230709121019778"/>
         <updated>2023-07-09T04:14:10.221Z</updated>
         <content type="html"><![CDATA[[OSEN=최나영 기자] 영화 '아쿠아맨' 시리즈 등에 출연한 배우 앰버 허드(37)가 할리우드를 떠난 이유가 공개됐다. 지난 해 전 남편인 배우 조니 뎁(69)과의 재판 이후 허드가 미국에서 떠난 이유가 공개됐다고 피플이 최근 전했다. 한 소식통은 사람들에게 죽음의 위협을 받고 잔인한 인터넷 밈의 대상이 된 그가 미국에서 너무 많은&nbsp;혼돈의 상태에 있었]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[마고 로비, ‘바비’와 똑같은 의상+포즈 “놀라워라”]]></title>
-        <id>https://v.daum.net/v/20230709114328230</id>
-        <link href="https://v.daum.net/v/20230709114328230"/>
-        <updated>2023-07-09T03:03:47.602Z</updated>
-        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]할리우드 스타 마고 로비(33)가 영화 ‘바비’ 속 인형과 똑같은 의상과 포즈로 주목을 끌었다. 그는 7일(현지시간) 멕시코시티 포시즌스 호텔에서 열린 포토콜 행사에서 몸에 꼭 맞는 푸치 디자인의 멀티컬러 프린트 미니드레스를 입고 있었다. 푸치 미니 드레스는 1960년대에서 영감을 받은 클래식한 프린트에 여러 가지 색상이 나]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["알랭 들롱, 동거인에게 학대 당했다"...세 자녀 고소장 제출]]></title>
-        <id>https://v.daum.net/v/20230709112837010</id>
-        <link href="https://v.daum.net/v/20230709112837010"/>
-        <updated>2023-07-09T03:03:47.604Z</updated>
-        <content type="html"><![CDATA[[OSEN=유수연 기자] 프랑스 원로 배우 알랭 드롱의 세 자녀가 아버지의 동거인을 학대 혐의로 고소했다. 지난 6일&nbsp;AFP 통신과 현지 언론 보도에 따르면 세 자녀는 일본인 동거인이 아버지를 정신적으로 괴롭히고 있다고 주장,&nbsp;소송을 제기했다. 보도에 따르면,&nbsp;66세인 히로미 롤린은&nbsp;2019년부터 뇌졸중을 앓는 들롱과 같은 집에서 동거하며 그의 회복을]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[브리트니 팬, 데뷔전 부진 19살 웸반야마 조롱 “스피어스가 널 이길거야”]]></title>
-        <id>https://v.daum.net/v/20230709105940508</id>
-        <link href="https://v.daum.net/v/20230709105940508"/>
-        <updated>2023-07-09T03:03:47.605Z</updated>
-        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]미국프로농구(NBA) 신인 드래프트 1순위로 샌안토니오 스퍼스에 입단한 빅토르 웸반야마(19)가 서머리그 데뷔전에서 다소 부진한 성적에 그치자 브리트니 스피어스(41)의 팬들이 조롱에 나섰다. 샌안토니오는 8일(한국시간) 미국 네바다주 라스베이거스의 토머스 앤드 맥센터에서 열린 2023 NBA 서머리그 샬럿 호니츠와 경기에서]]></content>
     </entry>
 </feed>
