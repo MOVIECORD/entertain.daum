@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-07-10T08:16:14.861Z</updated>
+    <updated>2023-07-10T09:13:26.761Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[테일러 스위프트, 전남친 콘서트 게스트+뮤비 출연…쿨한 우정]]></title>
+        <id>https://v.daum.net/v/20230710172030644</id>
+        <link href="https://v.daum.net/v/20230710172030644"/>
+        <updated>2023-07-10T09:13:26.115Z</updated>
+        <content type="html"><![CDATA[[TV리포트=유비취 기자] 팝스타 테일러 스위프트가 전 남자친구를 콘서트 게스트로 세우고 뮤직비디오까지 출연시켰다. 지난 7일(현지 시간) 테일러 스위프트는 미국 캔자스시티에서 월드 투어 공연 중 전 남자친구 테일러 로트너를 무대 위로 올렸다. 새로 공개되는 뮤직비디오에도 테일러 로트너가 출연한다고 스위프트는 발표했다. 공연 중 테일러 스위프트는 새로운 앨]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[가수 핑크, 당 떨어져 공연 중단 "초콜릿 좀 먹어야겠어"]]></title>
         <id>https://v.daum.net/v/20230710170630211</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230710095137901"/>
         <updated>2023-07-10T01:10:10.497Z</updated>
         <content type="html"><![CDATA[(엑스포츠뉴스 이창규 기자)&nbsp;의학적 합병증을 앓았던 배우 겸 가수 제이미 폭스가 뜻밖의 근황을 전했다. 9일(현지시간) 미국의 TMZ는 제이미 폭스가 보트를 타고 시카고 강을 건너는 모습을 공개했다. 공개된 영상에서 제이미 폭스는 건강한 모습으로 카메라를 향해 인사하며 웃고 있었다. 그가 대중 앞에 모습을 드러낸 것은 투병 이후 처음이다. 앞서 지난 4월]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[의학적 합병증 심각→행방 묘연 제이미 폭스, 보트 타고 밝은 근황]]></title>
-        <id>https://v.daum.net/v/20230710093135074</id>
-        <link href="https://v.daum.net/v/20230710093135074"/>
-        <updated>2023-07-10T01:10:10.500Z</updated>
-        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]‘의학적 합병증’을 앓다 입원했던 제이미 폭스(55)가 밝은 근황을 전했다. 연예매체 TMZ은 9일(현지시간) 제이미 폭스가 보트를 타고 시카고 강을 순항하는 모습을 공개했다. 폭스는 비행사 선글라스와 올 블랙 의상을 착용하고 활짝 웃는 모습이었다. 폭스가 입원 이후 공개적으로 모습을 드러낸 것은 이번이 처음이다. 그는 아]]></content>
     </entry>
 </feed>
