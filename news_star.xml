@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2023-07-11T15:12:56.825Z</updated>
+    <updated>2023-07-11T16:16:10.662Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김부선 "딸 이루안, 지난달 나 몰래 외국서 결혼…호적 정리해"]]></title>
+        <id>https://v.daum.net/v/20230712010047197</id>
+        <link href="https://v.daum.net/v/20230712010047197"/>
+        <updated>2023-07-11T16:16:04.002Z</updated>
+        <content type="html"><![CDATA[[서울=뉴시스] 신효령 기자 = 배우 김부선(62)이 딸 이루안(35)의 결혼 소식을 전했다. 김부선은 11일 자신의 유튜브 채널 '김부선TV'에서 "유튜브한지 횟수로 2년째가 됐는데, 유튜브로 라이브를 한 건 처음인 것 같다"고 말문을 열었다. 김부선은 "딸에게 연락이 왔다. 그런데 감당이 안된다. 어디서부터 잘못됐는지, 내가 왜 이렇게 이 아이를 괴]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[수장 JYP가 직접 힘 보탠 한여름 밤 엔믹스의 꿈...서머 송 도전]]></title>
+        <id>https://v.daum.net/v/20230712002011975</id>
+        <link href="https://v.daum.net/v/20230712002011975"/>
+        <updated>2023-07-11T16:16:04.004Z</updated>
+        <content type="html"><![CDATA[(MHN스포츠 정승민 기자) 소속사 수장 박진영 PD의 손을 잡고&nbsp;돌아온&nbsp;엔믹스(NMIXX)가 한여름 밤의 꿈을 그들의 색깔로 물들였다. 지난 11일 오후 서울 용산구 블루스퀘어 마스터카드홀에서 엔믹스(릴리(LILY), 해원, 설윤, 배이(BAE), 지우, 규진) 싱글 3집 'A Midsummer NMIXX's Dream'(어 미드서머 엔믹스 드림]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['故최진실 딸' 최준희, 외조모 욕설·CCTV 공개…"남친과 놀러간 것 아냐"]]></title>
+        <id>https://v.daum.net/v/20230712001739959</id>
+        <link href="https://v.daum.net/v/20230712001739959"/>
+        <updated>2023-07-11T16:16:04.007Z</updated>
+        <content type="html"><![CDATA[[서울=뉴시스] 신효령 기자 = 배우 고(故) 최진실의 딸인 인플루언서 최준희(20)가 외조모와의 주거침입 공방과 관련한 영상을 공개했다. 최준희는 지난 9일 오전 최진실 모친 정옥숙(78)씨를 주거침입죄로 경찰에 신고했고, 정씨는 서울 서초경찰서로 연행돼 약 5시간동안 피의자 조사를 받았다. 최준희는 11일 자신의 소셜미디어에 "경찰이 와서도 이런 상]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘강심장 리그’ 그리 “父 김구라, 연애는 연예인이랑 하라고”]]></title>
         <id>https://v.daum.net/v/20230712001200893</id>
@@ -41,7 +62,7 @@
         <content type="html"><![CDATA[[TV리포트=이혜미 기자] 시간여행과 사후세계, 평행세계는 존재할까. 이 물음에 대한 답을 물리학자 김상욱이 내놨다. 11일 JTBC ‘짠당포’에선 김상욱 교수가 게스트로 출연해 물리의 세계를 소개했다. 이날 김 교수는 아이큐와 성적의 상관관계에 대해 “아이큐라는 것은 20세기 초 미국에서 개발된 것이다. 처음 개발될 때의 목적은 똑똑한 사람을 찾는 것이]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[종영 '마당집' 김태희, 김성오 죽인 '충격 엔딩'..."이 모든 건 당신 때문"]]></title>
+        <title type="html"><![CDATA[김태희·임지연, 김성오 사망 후 되찾은 행복 "살아가고 있는 중"]]></title>
         <id>https://v.daum.net/v/20230711233040489</id>
         <link href="https://v.daum.net/v/20230711233040489"/>
         <updated>2023-07-11T15:12:50.434Z</updated>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20230711231020328"/>
         <updated>2023-07-11T14:12:06.489Z</updated>
         <content type="html"><![CDATA[[OSEN=유수연 기자] 최근 ‘잘나가는’ 예능 프로에 빠짐없이 한자리를 차지하고 있는 방송인이 있다. 주인공은 바로 덱스. UDT 출신 유튜버이자 최근 방송인으로 활동하고 있는 덱스는 올해 유튜브 콘텐츠를 포함한 방송사에서 10개가 넘는 프로그램에서 활약하며 명실상부 ‘대세’의 면모를 보이고 있다. 지난 2020년 웹 예능 ‘가짜사나이2’서 UDT 출]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김호중 "유럽서 '강호동이 준 명품 손수건'으로 밥 얻어먹어…새로 달라" 요구]]></title>
-        <id>https://v.daum.net/v/20230711230550318</id>
-        <link href="https://v.daum.net/v/20230711230550318"/>
-        <updated>2023-07-11T14:12:06.489Z</updated>
-        <content type="html"><![CDATA[[스포츠조선닷컴 김수현기자] 가수 김호중이 강호동과 특별한 인연과 고마움을 전했다. 11일 방송된 SBS '강심장리그'는 '찐친특집'으로 그려졌다. 이날 영탁은 "제 찐 동생을 소개하겠다"며 김호중을 친구로 불렀다. 이지혜는 "두개 마셔라"라며 음료를 건네 웃음을 자아냈다. 김호중은 "영탁이 형 기를 팍팍 세워주기 위해 왔다"라며 인사했]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘마당이 있는 집’ 김성오 제거한 김태희, 불안 감옥 탈출]]></title>
-        <id>https://v.daum.net/v/20230711230406309</id>
-        <link href="https://v.daum.net/v/20230711230406309"/>
-        <updated>2023-07-11T14:12:06.490Z</updated>
-        <content type="html"><![CDATA[[티브이데일리 이기은 기자] ‘마당이 있는 집’ 김태희, 결국 김성오를 죽이고 모든 진실을 폭로하며 새장에서 탈출했다. 11일 밤 방송된 지니TV 드라마 ‘마당이 있는 집’(극본 지아니·연출 정지현)이 최종회 8회에서는 등장인물 문주란(김태희), 추상은(임지연), 박재호(김성오), 승재(차성제) 등을 둘러싼 가정 스릴러 결말이 공개됐다. 이날 문주란은 미성]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[대한민국 워터 뮤직 페스티벌 신기원 ‘S2O Korea 송크란 뮤직 페스티벌 2023’ 4만 동원 성황]]></title>
-        <id>https://v.daum.net/v/20230711230337306</id>
-        <link href="https://v.daum.net/v/20230711230337306"/>
-        <updated>2023-07-11T14:12:06.490Z</updated>
-        <content type="html"><![CDATA[100만 리터 워터 시스템과 EDM 사운드가 결합한 세계 최대 규모 워터 뮤직 페스티벌인 ‘S2O Korea 송크란 뮤직 페스티벌 2023’(이하 S2O Korea) 이 지난 8일부터 9일까지 양일간 4만명을 동원하며 대한민국 워터 뮤직 페스티벌의 신기원을 열었다는 호평과 함께 종료 되었다. 세계적인 디제이들의 공연과 국내에선 최초로 100만 리터의]]></content>
     </entry>
 </feed>

@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-07-11T15:12:56.824Z</updated>
+    <updated>2023-07-11T16:16:10.654Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김태희, 김성오 살해→출소 후 새 출발..임지연은 子 출산]]></title>
+        <id>https://v.daum.net/v/20230712002356002</id>
+        <link href="https://v.daum.net/v/20230712002356002"/>
+        <updated>2023-07-11T16:15:52.673Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 | 윤성열 기자] /사진='마당이 있는 집' 방송 화면'마당이 있는 집'에서 김태희와 임지연이 각자 새로운 삶을 시작하며 해피엔딩을 맞았다. 11일 오후 방송된 ENA 월화드라마 '마당이 있는 집'에서는 주란(김태희 분)이 남편 재호(김성오 분)를 살해한 혐의로 교도소에 복역하는 모습이 그려졌다. 앞서 여중생 이수민(윤가이 분)를 살해한 범]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['마당집' 김성오, 계단에서 떨어져 사망…김태희·임지연 행복 되찾았다]]></title>
         <id>https://v.daum.net/v/20230711235724635</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230711200418976"/>
         <updated>2023-07-11T11:10:03.249Z</updated>
         <content type="html"><![CDATA[[OSEN=박소영 기자] ‘이로운&nbsp;사기’ 이연의 활약이 눈부시다.&nbsp; 지난 10일 방송된 tvN ‘이로운&nbsp;사기’ 13화에서는 해커 정다정(이연 분)이 베일에 싸인 적목 회장의 정체에 관한 중요 단서를 찾아내는 장면이 그려졌다.&nbsp; 정다정은 적목이 심은 스파이웨어에 역으로 컴퓨터가 감염되며, 그간 나비스웰빙 전산망에서 얻은&nbsp;자료 대부분을 날린 상황. 엎친 데]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['하늘의 인연' 전혜연, 살인누명 복역→출소... 김유석·정우연에 복수선언]]></title>
-        <id>https://v.daum.net/v/20230711195130670</id>
-        <link href="https://v.daum.net/v/20230711195130670"/>
-        <updated>2023-07-11T11:10:03.250Z</updated>
-        <content type="html"><![CDATA[[TV리포트=이혜미 기자] 살인 누명을 쓰고 옥살이를 한 전혜연이 복수의 여신으로 거듭났다. 11일 MBC ‘하늘의 인연’에선 치환(김유석 분)과 세나(정우연 분) 그리고 도현(진주형 분)을 향한 해인(전혜연 분)의 복수 선언이 그려졌다. 이창이 세상을 떠나고 4년, 미강은 그의 납골당을 찾아 “나 조금은 복수했다고 생각해. 키워준 은혜도 모르고 당신 이렇]]></content>
     </entry>
 </feed>
