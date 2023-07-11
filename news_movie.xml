@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-07-11T14:12:12.769Z</updated>
+    <updated>2023-07-11T15:12:56.822Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[목숨 건 '바이크 다이빙' 보러 가자…톰 크루즈 '미션7', 오늘 개봉]]></title>
+        <id>https://v.daum.net/v/20230712000102681</id>
+        <link href="https://v.daum.net/v/20230712000102681"/>
+        <updated>2023-07-11T15:12:33.235Z</updated>
+        <content type="html"><![CDATA[[텐아시아=최지예 기자]할리우드 배우 톰 크루즈의 액션 블록버스터 시리즈 '미션 임파서블' 시리즈가 드디어 관객을 찾는다.&nbsp; 12일 '미션 임파서블: 데드 레코닝 파트 원'(감독 크리스토퍼 맥쿼리, 이하 '미션 임파서블7')이 개봉한다.&nbsp; '미션 임파서블7'은 인류를 위협할 새로운 무기가 잘못된 자의 손에 넘어가지 않도록 추적하던 에단 헌트(톰 크루즈)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['미션 임파서블7', 뭐든지 가능한 '톰 아저씨']]></title>
+        <id>https://v.daum.net/v/20230712000054679</id>
+        <link href="https://v.daum.net/v/20230712000054679"/>
+        <updated>2023-07-11T15:12:33.243Z</updated>
+        <content type="html"><![CDATA[맨몸+카체이싱 액션부터 노르웨이 절벽 낙하까지 26년간 이어진 시리즈...오는 12일 개봉 [더팩트｜박지윤 기자] '톰 크루즈가 톰 크루즈 했다'. 그는 이번에도 인간의, 아니 자신의 한계에 도전하며 불가능을 가능으로 만들었다. 역대급 스케일의 액션과 함께 촘촘한 스토리텔링을 장착하며 관객들을 사로잡을 준비를 마친 '미션 임파서블7'이다. 12일 스크린]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[배우 이수정, 영화 ‘6시간 후 너는 죽는다’ 유민경 역 낙점]]></title>
         <id>https://v.daum.net/v/20230711222504080</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230711171902836"/>
         <updated>2023-07-11T09:12:17.005Z</updated>
         <content type="html"><![CDATA[[텐아시아=이하늘 기자] 영화 '비닐하우스'의 배우 안소요가 향후 연기하고 싶은 캐릭터에 대해 밝혔다.&nbsp; 11일 서울 광진구 롯데시네마 건대 입구에서 영화 '비닐하우스'(감독 이솔희)의 기자 간담회가 열렸다. 감독 이솔희와 배우 김서형, 양재성, 안소요가 참석했다. 영화 '비닐하우스'는 요양사로 일하며 비닐하우스에 사는 '문정'(김서형)이 간병하던 노]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['비닐하우스' 김서형 "힘든 역할만 만나...스스로 안쓰러워"]]></title>
-        <id>https://v.daum.net/v/20230711171501700</id>
-        <link href="https://v.daum.net/v/20230711171501700"/>
-        <updated>2023-07-11T08:15:46.218Z</updated>
-        <content type="html"><![CDATA[[TV리포트=김연주 기자] 영화 '비닐하우스' 김서형이 아들과의 행복을 지키고 싶은, 그러나 그릇된 모성을 가진 엄마로 분했다. 11일 오후 롯데시네마 건대입구에서 영화 '비닐하우스' 기자간담회가 진행됐다. 이날 행사에는 이솔희 감독을 비롯해 배우 김서형, 양재성, 안소요가 참석했다.&nbsp; '비닐하우스'는 비닐하우스에 살며 요양사로 일하고 있는 문정(김서형]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['비닐하우스' 김서형, "나는 얼마나 더 아픈 역할 만나야 할까 안쓰러웠다"]]></title>
-        <id>https://v.daum.net/v/20230711170701459</id>
-        <link href="https://v.daum.net/v/20230711170701459"/>
-        <updated>2023-07-11T08:15:46.219Z</updated>
-        <content type="html"><![CDATA[[텐아시아=이하늘 기자] 영화 '비닐하우스'의 배우 김서형이 연달아 힘든 캐릭터를 맡았던 소감을 밝혔다. 11일 서울 광진구 롯데시네마 건대 입구에서 영화 '비닐하우스'(감독 이솔희)의 기자 간담회가 열렸다. 감독 이솔희와 배우 김서형, 양재성, 안소요가 참석했다. 영화 '비닐하우스'는 요양사로 일하며 비닐하우스에 사는 '문정'(김서형)이 간병하던 노]]></content>
     </entry>
 </feed>
