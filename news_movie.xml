@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-07-11T10:13:27.179Z</updated>
+    <updated>2023-07-11T11:10:18.954Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘시카고’→‘토요일밤의 열기’ 7월 레전드 뮤지컬 영화 모두 모였다!]]></title>
+        <id>https://v.daum.net/v/20230711193742463</id>
+        <link href="https://v.daum.net/v/20230711193742463"/>
+        <updated>2023-07-11T11:09:58.161Z</updated>
+        <content type="html"><![CDATA[[스포츠서울 | 박효실기자] 세계적인 뮤지컬 영화들이 안방극장을 찾아온다. 파라마운트+ 브랜드관에서 여름을 맞이해 뮤지컬 영화 ‘그리스’ ‘시카고’ ‘킨키부츠’ ‘마이 페어 레이디’를 차례로 선보인다. 2000년도 정우성과 고소영의 청바지 광고 CM송으로 유명해진 바로 그 노래 ‘서머 나잇’(Summer Nights) OST로 유명한 뮤지컬 영화 ‘그]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['더 글로리' 안소요 "연기 갈증 多…어떤 역할이든 달게 마실 것"]]></title>
         <id>https://v.daum.net/v/20230711191003961</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230711170136257"/>
         <updated>2023-07-11T08:15:46.230Z</updated>
         <content type="html"><![CDATA[[뉴스엔 배효주 기자] '한산: 용의 출현' 개봉 1주년을 자축하는 GV가 열렸다. 영화 '한산: 용의 출현'(감독 김한민) GV가 7월 9일 서울 롯데시네마 월드타워에서 진행됐다. 김한민 감독 팬클럽 비녀단 회원들과 함께한 이번 행사에는 연출을 맡은 김한민 감독을 비롯해 김성규, 박지환, 박재민, 이서준, 김재영, 윤진영, 이준혁, 이운산이 함께 했다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“얼마나 더 피폐해야 하나” 김서형 펑펑 울린 ‘비닐하우스’]]></title>
-        <id>https://v.daum.net/v/20230711165644022</id>
-        <link href="https://v.daum.net/v/20230711165644022"/>
-        <updated>2023-07-11T08:15:46.231Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 글 배효주 기자/사진 이재하 기자] 김서형을 펑펑 울린 '비닐하우스'가 곧 개봉한다. 영화 '비닐하우스'(감독 이솔희) 언론 시사회가 7월 11일 서울 광진구 롯데시네마 건대입구에서 열렸다. 영화 상영 후 진행된 간담회에는 이솔희 감독을 비롯해 김서형, 안재성, 안소요가 참석했다. 오는 26일 개봉하는 '비닐하우스'는 비닐하우스에 살며 요양사로]]></content>
     </entry>
 </feed>
