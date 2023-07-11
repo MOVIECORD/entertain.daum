@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-07-11T20:15:16.706Z</updated>
+    <updated>2023-07-11T21:11:07.394Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘미션 임파서블7’ 부족한 개연성+캐릭터 매력, 다음 파트는 다를까]]></title>
+        <id>https://v.daum.net/v/20230712060207449</id>
+        <link href="https://v.daum.net/v/20230712060207449"/>
+        <updated>2023-07-11T21:10:42.862Z</updated>
+        <content type="html"><![CDATA[[티브이데일리 김종은 기자] 유럽 전역을 배경으로 펼쳐지는 톰 크루즈의 몸을 사리지 않는 리얼한 액션은 여전히 눈을 즐겁게 하고 심장을 벅차게 하지만 어딘가 아쉽다. 개연성, 캐릭터들의 당위성 면에서 채워지지 않는 공백들이 있기 때문. 과연 다음 파트에선 이 아쉬움을 해소할 수 있을지 궁금해진다. 12일 개봉한 영화 ‘미션 임파서블: 데드 레코닝 PART]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['육남매' 그 장남 맞아? 오태경의 반가운 코미디 '좋·댓·구']]></title>
+        <id>https://v.daum.net/v/20230712060034332</id>
+        <link href="https://v.daum.net/v/20230712060034332"/>
+        <updated>2023-07-11T21:10:42.900Z</updated>
+        <content type="html"><![CDATA[(서울=뉴스1) 장아름 기자 = *영화의 주요 내용을 포함한 스포일러가 있을 수 있습니다.  배우 오태경은 1988년 'MBC 베스트셀러극장'을 통해 아역으로 연기를 시작, 올해까지 배우 활동만 36년 차에 접어들었다. 대표작으로는 단연 '사춘기' '육남매' '허준' 등 드라마가 꼽힌다. 영화 대표작은 '알포인트'와 '올드보이'다. '올드보이'에서는 최]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[목숨 건 '바이크 다이빙' 보러 가자…톰 크루즈 '미션7', 오늘 개봉]]></title>
         <id>https://v.daum.net/v/20230712000102681</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230711172802153"/>
         <updated>2023-07-11T09:12:17.003Z</updated>
         <content type="html"><![CDATA[[텐아시아=이하늘 기자] 영화 '비닐하우스'의 감독 이솔희가 돌봄이라는 소재로부터 영화를 시작했다고 설명했다. 11일 서울 광진구 롯데시네마 건대 입구에서 영화 '비닐하우스'(감독 이솔희)의 기자 간담회가 열렸다. 감독 이솔희와 배우 김서형, 양재성, 안소요가 참석했다. 영화 '비닐하우스'는 요양사로 일하며 비닐하우스에 사는 '문정'(김서형)이 간병하]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['더 글로리' 학폭 피해자 안소요 "연기 갈증 多, 어떤 역할이든 달게 마실 것"]]></title>
-        <id>https://v.daum.net/v/20230711171902836</id>
-        <link href="https://v.daum.net/v/20230711171902836"/>
-        <updated>2023-07-11T09:12:17.005Z</updated>
-        <content type="html"><![CDATA[[텐아시아=이하늘 기자] 영화 '비닐하우스'의 배우 안소요가 향후 연기하고 싶은 캐릭터에 대해 밝혔다.&nbsp; 11일 서울 광진구 롯데시네마 건대 입구에서 영화 '비닐하우스'(감독 이솔희)의 기자 간담회가 열렸다. 감독 이솔희와 배우 김서형, 양재성, 안소요가 참석했다. 영화 '비닐하우스'는 요양사로 일하며 비닐하우스에 사는 '문정'(김서형)이 간병하던 노]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['비닐하우스' 김서형 "힘든 역할만 만나...스스로 안쓰러워"]]></title>
-        <id>https://v.daum.net/v/20230711171501700</id>
-        <link href="https://v.daum.net/v/20230711171501700"/>
-        <updated>2023-07-11T17:10:43.918Z</updated>
-        <content type="html"><![CDATA[[TV리포트=김연주 기자] 영화 '비닐하우스' 김서형이 아들과의 행복을 지키고 싶은, 그러나 그릇된 모성을 가진 엄마로 분했다. 11일 오후 롯데시네마 건대입구에서 영화 '비닐하우스' 기자간담회가 진행됐다. 이날 행사에는 이솔희 감독을 비롯해 배우 김서형, 양재성, 안소요가 참석했다.&nbsp; '비닐하우스'는 비닐하우스에 살며 요양사로 일하고 있는 문정(김서형]]></content>
     </entry>
 </feed>
