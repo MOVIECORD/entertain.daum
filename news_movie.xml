@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-07-11T04:14:46.856Z</updated>
+    <updated>2023-07-11T05:12:01.104Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이병헌×박서준×박보영 '콘크리트 유토피아', #신선한 소재 #강렬한 캐릭터 #리얼한 볼거리]]></title>
+        <id>https://v.daum.net/v/20230711134014547</id>
+        <link href="https://v.daum.net/v/20230711134014547"/>
+        <updated>2023-07-11T05:11:39.443Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]이병헌, 박서준, 박보영의 만남으로 기대를 모으는 올여름 최고의 기대작 '콘크리트 유토피아'가 기존 재난 영화의 틀을 깨는 차별화 포인트 세 가지를 공개했다. #1. 대지진으로 모든 것이 무너진 서울에 살아남은 아파트 독창적인 상상력에서 시작된 이제껏 본 적 없는 새로운 스토리! '콘크리트 유토피아'는 대지진으로 폐허가 되어]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘데드풀3’ 휴 잭맨, 노란색 ‘울버린’ 슈트 착용 “청소년 관람불가 등급 기대하라”]]></title>
         <id>https://v.daum.net/v/20230711130907631</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230711101601541"/>
         <updated>2023-07-11T02:25:03.290Z</updated>
         <content type="html"><![CDATA[[텐아시아=이하늘 기자] 영화 '너의 순간'이 8월 개봉을 확정하고 티저포스터를 공개했다. '너의 순간'은 아픔을 가진 두 남녀가 우연히 만나 서로의 상처를 보듬고 치유하며 성장해 가는 독특한 로맨스 영화다. 부천국제판타스틱영화제 코리안 경쟁 부문에 출품되어 관객들의 시선을 한눈에 받기도 했다. 최근 독립영화계에서 스타 배우로 떠오르고 있는 우지현, 옥]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["내 눈 쳐다보면 안 된다고?" 톰 크루즈, 루머 해명]]></title>
-        <id>https://v.daum.net/v/20230711101016270</id>
-        <link href="https://v.daum.net/v/20230711101016270"/>
-        <updated>2023-07-11T02:25:03.291Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 | 김나연 기자] 할리우드 배우 톰 크루즈가 29일 오후 서울 송파구 롯데시네마 월드타워에서 진행된 영화 '미션 임파서블: 데드 레코닝 PART ONE'(이하 미션 임파서블7) 내한 기자회견에 참석해 포즈를 취하고 있다.  '미션 임파서블7'은 모든 인류를 위협할 새로운 무기가 잘못된 자의 손에 넘어가지 않도록 추적하던 '에단 헌트'(톰 크루즈]]></content>
     </entry>
 </feed>
