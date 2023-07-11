@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-07-11T09:12:37.877Z</updated>
+    <updated>2023-07-11T10:13:27.179Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['더 글로리' 안소요 "연기 갈증 多…어떤 역할이든 달게 마실 것"]]></title>
+        <id>https://v.daum.net/v/20230711191003961</id>
+        <link href="https://v.daum.net/v/20230711191003961"/>
+        <updated>2023-07-11T10:13:07.301Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 이창규 기자) '비닐하우스' 안소요가 향후 활동 목표에 대해 언급했다. 11일 오후 서울 광진구 롯데시네마 건대입구에서 영화 '비닐하우스'(감독 이솔희) 언론시사회가 열렸다. 현장에는 배우&nbsp;김서형, 양재성, 안소요, 이솔희 감독이 참석했다. '비닐하우스'는&nbsp;비닐하우스에 살며 요양사로 일하고 있는 문정(김서형 분)이 간병하던 노부인이 사고로 숨]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["피하고 싶었다" 김서형 울린 '비닐하우스', 돌봄으로 얽히고설킨 일상 스릴러]]></title>
+        <id>https://v.daum.net/v/20230711185301613</id>
+        <link href="https://v.daum.net/v/20230711185301613"/>
+        <updated>2023-07-11T10:13:07.302Z</updated>
+        <content type="html"><![CDATA[[텐아시아=이하늘 기자] 영화 '비닐하우스'는 돌봄을 소재로 끊이지 않는 하나의 굴레를 그린 작품. 누군가의 딸, 누군가의 엄마로 살아온 이들이 겪었거나 혹은 겪은 이야기를 바탕으로 하고 있다. 배우 김서형의 밀도 높은 연기력과 숨을 쉴 틈이 없이 몰아붙이는 상황은 마치 나도 같은 상황을 경험하는 듯하다. 관객들 역시 김서형이 연기한 악착스러운 인물 ']]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[데뷔작으로 이름 알린 감독들]]></title>
         <id>https://v.daum.net/v/20230711174921909</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230711165644022"/>
         <updated>2023-07-11T08:15:46.231Z</updated>
         <content type="html"><![CDATA[[뉴스엔 글 배효주 기자/사진 이재하 기자] 김서형을 펑펑 울린 '비닐하우스'가 곧 개봉한다. 영화 '비닐하우스'(감독 이솔희) 언론 시사회가 7월 11일 서울 광진구 롯데시네마 건대입구에서 열렸다. 영화 상영 후 진행된 간담회에는 이솔희 감독을 비롯해 김서형, 안재성, 안소요가 참석했다. 오는 26일 개봉하는 '비닐하우스'는 비닐하우스에 살며 요양사로]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["내 삶에 대해 생각해" '비닐하우스' 김서형의 강렬 스릴러]]></title>
-        <id>https://v.daum.net/v/20230711165401912</id>
-        <link href="https://v.daum.net/v/20230711165401912"/>
-        <updated>2023-07-11T08:15:46.231Z</updated>
-        <content type="html"><![CDATA[(서울=뉴스1) 고승아 기자 = 배우 김서형이 파격적인 연기 변신을 통해 스크린에 강렬한 인상을 남긴다. 11일 오후 2시 서울 광진구 롯데시네마 건대입구에서 영화 '비닐하우스' 언론시사회 및 기자간담회가 열려 김서형, 양재성, 안소요, 이솔희 감독이 참석했다. '비닐하우스'는 비닐하우스에 살며 요양사로 일하고 있는 문정이 간병하던 노부인이 사고로 숨지]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“엄청 울어”...‘비닐하우스’ 김서형 양재성 안소요 美친 열연]]></title>
-        <id>https://v.daum.net/v/20230711164803650</id>
-        <link href="https://v.daum.net/v/20230711164803650"/>
-        <updated>2023-07-11T08:15:46.231Z</updated>
-        <content type="html"><![CDATA[김서형 양재성 안소요의 뜨거운 열연이 펼쳐진 ‘비닐하우스’가 올여름 극장가를 찾는다. 11일 오후 서울 롯데시네마 건대입구에서 영화 ‘비닐하우스’ 시사회 및 간담회가 열렸다. 이솔희 감독과 배우 김서형 양재성 안소요가 참석했다. ‘비닐하우스’는 비닐하우스에 살며 요양사로 일하고 있는 문정이 간병하던 노부인이 사고로 숨지자 이를 감추기 위해 돌이킬 수 없는]]></content>
     </entry>
 </feed>

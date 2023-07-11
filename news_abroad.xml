@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-07-11T09:12:37.878Z</updated>
+    <updated>2023-07-11T10:13:27.228Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[대만 배우의 생후 9개월 된 아들, 유모에게 학대 당해]]></title>
+        <id>https://v.daum.net/v/20230711190030802</id>
+        <link href="https://v.daum.net/v/20230711190030802"/>
+        <updated>2023-07-11T10:13:26.467Z</updated>
+        <content type="html"><![CDATA[[TV리포트=안수현 기자] 대만 배우 엽안정의 생후 9개월 된 아들이 유모에게 학대 당했다. 최근 엽안정은 자신의 소셜 네트워크 서비스에 "유모에게 학대당했다"라는 글과 함께 멍이 든 아들의 사진을 공유했다. 생후 9개월 아기의 허리와 엉덩이에는 타박상이 있다. 엽안정 아들의 몸은 우는 아기의 스티커로 부분적으로 가려져 있었지만 허리, 엉덩이, 사타구니에]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[마고 로비x라이언 고슬링 '바비', 美 첫 공개…"올해의 영화"]]></title>
+        <id>https://v.daum.net/v/20230711185125573</id>
+        <link href="https://v.daum.net/v/20230711185125573"/>
+        <updated>2023-07-11T10:13:26.468Z</updated>
+        <content type="html"><![CDATA[[OSEN=김보라 기자]&nbsp;영화 ‘바비’가 북미에서 첫 공개된 가운데 시사회 이후 나온 예비 관객들의 반응이 대체로 호의적이다. 특히 배우 라이언 고슬링을 미국 아카데미 시상식의 남우주연상 후보로 올리라는 리뷰가 인상적. 10일(현지 시간) 해외 관객들의 트위터 및 인스타그램 등 SNS를 반응을 보면 대부분 호평으로 가득하다. 배우 캐스팅부터 세트까지 모]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[톰 홀랜드 “내가 왜 ‘술의 노예’가 됐을까” 자책, 지금은 끊고 건강해져]]></title>
         <id>https://v.daum.net/v/20230711174144635</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230711133330355"/>
         <updated>2023-07-11T05:12:00.392Z</updated>
         <content type="html"><![CDATA[[TV리포트=유비취 기자] 팝스타 해리 스타일스가 새로운 열애설에 휩싸였다. 지난 8일(현지 시간) 오스트리아 빈에서 열린 해리 스타일스(29)의 콘서트에 배우 테일러 러셀(28)이 관람을 위해 모습을 보였다. 지난달 해리 스타일스와 테일러 러셀은 영국 런던에서 함께 있는 모습이 포착되면서 처음 열애설에 휩싸인 바 있다. 그러나 두 사람은 열애설에 대해]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[안젤리나 졸리, “브래드 피트가 와인농장을 만들었다고? 우스꽝스럽다” 무자비한 조롱]]></title>
-        <id>https://v.daum.net/v/20230711132551136</id>
-        <link href="https://v.daum.net/v/20230711132551136"/>
-        <updated>2023-07-11T05:12:00.393Z</updated>
-        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]안젤리나 졸리(48)가 전 남편 브래드 피트(59)에 전면전을 선언했다. 10일(현지시간) 페이지식스에 따르면, 졸리는 피트가 프랑스 와인사업을 “구축”했다는 주장을 무자비하게 조롱하는 문서를 법원에 제출했다. 피트와 졸리는 2008년 2,840만 달러(약 367억원)를 주고 프랑스 남부의 포도밭 ‘샤토 미라발’을 공동으로]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['사랑꾼' 라이언 고슬링, 시사회에 '아내 이니셜 목걸이' 차고 나와]]></title>
-        <id>https://v.daum.net/v/20230711124030216</id>
-        <link href="https://v.daum.net/v/20230711124030216"/>
-        <updated>2023-07-11T04:14:46.130Z</updated>
-        <content type="html"><![CDATA[[TV리포트=유비취 기자] 배우 라이언 고슬링이 일터에서도 '사랑꾼'의 면모를 보였다. 지난 9일(현지 시간) 미국 로스앤젤레스에서 열린 영화 '바비' 시사회에 참석한 라이언 고슬링(42)은 파트너 에바 멘데스(49)를 상징하는 목걸이를 착용하고 나타났다. 라이언 고슬링과 에바 멘데스는 사실혼 관계로, 고슬링은 아내에 대한 사랑을 드러내기 위해 'E' 이니]]></content>
     </entry>
 </feed>
