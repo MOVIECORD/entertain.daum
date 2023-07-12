@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-07-12T20:13:08.535Z</updated>
+    <updated>2023-07-12T21:11:09.745Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["뭐가 그렇게 뻔뻔해?"..끝없는 촬영장 갑질 논란]]></title>
+        <id>https://v.daum.net/v/20230713054900056</id>
+        <link href="https://v.daum.net/v/20230713054900056"/>
+        <updated>2023-07-12T21:10:53.793Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 | 이승훈 기자] /사진=넷플릭스 '오징어 게임2'K-드라마가 국내를 넘어 전 세계적으로 뜨거운 관심을 받고 있지만, 막상 현실은 정반대의 길을 걷고 있다. 드라마 촬영장을 두고 '갑질 논란'이 제기되고 있기 때문. 지난 11일 작성자 A씨는 한 온라인 커뮤니티에 "어제 촬영이 벼슬인줄 알던 '오징어 게임2' 스태프 한분 봤네요"라는 제목의]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[남상지·이도겸·강다빈·이효나, ‘우당탕탕 패밀리’ 출연 확정]]></title>
         <id>https://v.daum.net/v/20230713010007431</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230712184105775"/>
         <updated>2023-07-12T10:12:46.242Z</updated>
         <content type="html"><![CDATA[김지우 PD(사진=MBC)[이데일리 스타in 김가영 기자] “기안84 씨의 대상 수상 가능성에 대한 이야기가 나오고 있는데, 조심스러운 게 있어요.” MBC ‘태어난 김에 세계일주2’ 김지우 PD가 기안84의 MBC ‘연예대상’ 대상 수상 가능성에 대해 이같이 말했다. 12일 진행된 인터뷰에서 김 PD는 “수상을 한다면 너무 영광이고 감사한 일이지만 어떻]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['기적의 형제' 배현성 초능력 폭주…정우 "재앙이 될 수도 있다" 경고]]></title>
-        <id>https://v.daum.net/v/20230712183024478</id>
-        <link href="https://v.daum.net/v/20230712183024478"/>
-        <updated>2023-07-12T10:12:46.244Z</updated>
-        <content type="html"><![CDATA[[OSEN=장우영 기자] “슈퍼 파워가 재앙이 될 수도 있다.” JTBC ‘기적의 형제’ 정우가 특별한 능력 ‘슈퍼 파워’를 지닌 배현성에게 전했던 경고다. 그런데 그 우려가 현실이 될 전망이다. 초능력으로 폭주하는 배현성이 포착된 것. 타인의 고통을 보고 듣고 느끼는 능력으로 아픔을 치유했던 그가 ‘슈퍼 파워’를 폭발시킨 이유는 무엇일까. JTBC ‘]]></content>
     </entry>
 </feed>
