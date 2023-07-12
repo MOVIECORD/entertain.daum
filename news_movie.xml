@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-07-12T03:21:52.903Z</updated>
+    <updated>2023-07-12T04:14:34.435Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“사랑의 나눔” 에버렛 스완슨, 하준파파 ‘아버지의 마음’]]></title>
+        <id>https://v.daum.net/v/20230712125700746</id>
+        <link href="https://v.daum.net/v/20230712125700746"/>
+        <updated>2023-07-12T04:14:14.178Z</updated>
+        <content type="html"><![CDATA[‘아버지의 마음’으로 사랑을 나눈 사람들과 그 사랑을 이어받은 이들의 여정을 담은 다큐멘터리가 올여름 극장가를 찾는다. 12일 서울 CGV 용산 아이파크몰에서 영화 ‘아버지의 마음’ 시사회 및 간담회가 열렸다. 김상철 감독과 하준파파 황태환이 참석했다. ‘아버지의 마음’은 한국 전쟁 고아와 함께 아파하는 마음으로 오늘날의 국제어린이양육기구 컴패션을 설립한]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[톰 크루즈가 연다…'미임파7' 개봉, 여름 극장 대전 본격 시작]]></title>
+        <id>https://v.daum.net/v/20230712125010618</id>
+        <link href="https://v.daum.net/v/20230712125010618"/>
+        <updated>2023-07-12T04:14:14.178Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 김유진 기자) 할리우드 배우 톰 크루즈가 출연한 영화 '미션 임파서블: 데드 레코닝 PART ONE'(감독 크리스토퍼 맥쿼리, 이하 '미션 임파서블7')이 여름 극장가의 본격적인 시작을 알린다. 12일 개봉한 '미션 임파서블7'은 모든 인류를 위협할 새로운 무기가 잘못된 자의 손에 넘어가지 않도록 추적하던 에단 헌트(톰 크루즈 분)와 IMF팀]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“톰 크루즈, ‘미션 임파서블7’ 스크린X 직접 관람하고 대만족”]]></title>
         <id>https://v.daum.net/v/20230712115248442</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230712093903212"/>
         <updated>2023-07-12T01:06:53.225Z</updated>
         <content type="html"><![CDATA[넷플릭스 새 시리즈 ‘Mr. 플랑크톤’(연출 홍종찬, 극본 조용)의 캐스팅 라인업이 공개됐다. 우도환, 이유미, 오정세, 김해숙 등 호화 라인업이다. ‘Mr. 플랑크톤’은 실수로 잘못 태어난 남자 ‘해조’의 인생 마지막 여행 길에 세상에서 가장 불행한 여자 ‘재미’가 강제 동행하면서 벌어지는 이야기를 그린 넷플릭스 신상 시리즈. 우도환은 엉뚱한 ‘씨’로 잘]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['콘크리트 유토피아' 이병헌, 독보적 캐릭터 계보]]></title>
-        <id>https://v.daum.net/v/20230712093658136</id>
-        <link href="https://v.daum.net/v/20230712093658136"/>
-        <updated>2023-07-12T01:06:53.230Z</updated>
-        <content type="html"><![CDATA[[마이데일리 = 노한빈 기자] 배우 이병헌이 카리스마가 돋보이는 캐릭터 계보를 이어간다. 지난 2018년 뜨거운 화제를 모은 드라마 케이블채널 tvN '미스터 션샤인'은 신미양요 당시 미국에 떨어진 한 조선인 소년이 미군이 되어 자신을 버린 조국으로 돌아와 주둔하며 벌어지는 일을 그린 작품으로, 이병헌은 조선으로 돌아온 미 해병대 장교 유진 초이로 분해]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['악마들' 판타지아 국제 영화 초청..오대환X장동윤 미공개스틸 공개]]></title>
-        <id>https://v.daum.net/v/20230712093437059</id>
-        <link href="https://v.daum.net/v/20230712093437059"/>
-        <updated>2023-07-12T01:06:53.242Z</updated>
-        <content type="html"><![CDATA[[OSEN=최나영 기자] 배우&nbsp;장동윤, 오대환의 몸 사리지 않는 액션과 완벽한 1인 2역 연기로 주목 받은 '악마들'(김재훈 감독, 5일 개봉)이 미공개 스틸을 공개했다. &nbsp; '악마들'은 검거의 순간 서로의 몸이 바뀐 희대의 살인마 '진혁'과 형사 '재환', 둘의 대결을 그린 바디체인지 액션 스릴러.&nbsp;㈜콘텐츠지 제작, 바디체인지 소재와 스릴러 장르의 획]]></content>
     </entry>
 </feed>
