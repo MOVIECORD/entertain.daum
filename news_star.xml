@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2023-07-12T16:15:59.796Z</updated>
+    <updated>2023-07-12T17:11:46.272Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[문희경 “가수 되기 위해 서울로 올라왔다”]]></title>
+        <id>https://v.daum.net/v/20230713014659605</id>
+        <link href="https://v.daum.net/v/20230713014659605"/>
+        <updated>2023-07-12T17:11:39.370Z</updated>
+        <content type="html"><![CDATA[배우 문희경이 신곡 ‘누려봐’의 포인트 안무를 공개했다. 문희경은 12일 방송된 SBS 러브FM ‘이숙영의 러브FM’에 출연, 최근 발매한 신곡 ‘누려봐’ 소개부터 데뷔까지의 이야기들을 쏟아냈다. 방송에서 문희경은 신곡 ‘누려봐’를 통해 컴백했음을 알리며 “세상은 오래사고 볼 일이다. 노래하는 기회가 주어졌다”라고 솔직한 이야기로 팬들을 미소짓게 했]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[생일 띠 두른 '이병헌' 볼 줄이야..♥이민정이 준비했나?]]></title>
         <id>https://v.daum.net/v/20230713005115406</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230712232730548"/>
         <updated>2023-07-12T15:13:08.101Z</updated>
         <content type="html"><![CDATA[[TV리포트=김유진 기자]영철은 영숙, 광수는 옥순에게 직진했다. 12일 방영된 SBS plus '나는 솔로' 105화는 15기 솔로남녀들의 이야기가 전파를 탔다. 이날 방송은 '슈퍼 데이트권'을 가진 영숙이의 데이트로 시작됐다. 영숙은 오래불망 본인을 바라보는 영철과 데이트를 나갔다. 영철은 "(남녀는)사계절은 봐야한다지만 난 어느 정도 다 준비가 되어]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[스윙스, 싸이 소속사에 계약위반 위기 "2년반 동안 앨범 안 내"]]></title>
-        <id>https://v.daum.net/v/20230712232722547</id>
-        <link href="https://v.daum.net/v/20230712232722547"/>
-        <updated>2023-07-12T15:13:08.115Z</updated>
-        <content type="html"><![CDATA[[스포츠조선닷컴 이게은기자] 래퍼 스윙스가 싸이 소속사와 계약 후 앨범을 발매하지 않았다고 밝혔다. 12일 방송된 MBC '라디오스타'에는 최성국, 세븐, 스윙스, 나선욱이 출연하는 '라스 금쪽상담소' 특집으로 꾸며졌다. 스윙스는 지난 2021년 싸이가 수장으로 있는 소속사 피네이션과 한 식구가 됐다고 밝혔다. 하지만 최근 음악 활동보다 사업]]></content>
     </entry>
 </feed>

@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/variety</id>
     <title>다음 연예 ─ 뉴스 ─ 예능</title>
-    <updated>2023-07-12T16:15:59.771Z</updated>
+    <updated>2023-07-12T17:11:46.264Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[영자, 손잡아 주고 립밤 빌려놓고 순자 선택한 상철에 “배신감”]]></title>
+        <id>https://v.daum.net/v/20230713013005533</id>
+        <link href="https://v.daum.net/v/20230713013005533"/>
+        <updated>2023-07-12T17:11:33.276Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 임유리 기자] 상철의 예상을 벗어난 선택에 영자가 배신감을 느꼈다고 털어놨다. 12일 오후 방송된 케이블채널 ENA PLAY·SBS PLUS 공동제작 ‘나는 SOLO &lt;나는 솔로&gt;’(이하 ‘나는 솔로’)에서는 상철이 고민 끝에 순자에게 데이트 신청을 하는 모습이 그려졌다. 이 때문에 여성 출연자 중에는 영자만 누구에게도 선택받지 못하]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[영철, 영숙에 프러포즈? “몸만 오면 돼” 끝없는 직진]]></title>
         <id>https://v.daum.net/v/20230713005808424</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230712233153583"/>
         <updated>2023-07-12T15:13:02.147Z</updated>
         <content type="html"><![CDATA[[OSEN=김예솔 기자] 스윙스가 지상렬에게 메시지를 전했다.&nbsp; 12일 방송된 MBC '라디오스타'에서는 '라스 금쪽상담소' 특집으로 최성국, 세븐, 스윙스, 나선욱이 출연한 가운데 스윙스가 논란이 있었던 지상렬에게 영상 메시지를 전했다.&nbsp; 이날 스윙스는 힙합 보살이 된 사연을 이야기했다. 과거 스윙스는 지상렬의 유튜브 방송에 섭외를 받고 갔다고 말했다]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[15기 영식, 현숙에 뒤늦게 고백…"왜 여유를 보였을까"]]></title>
-        <id>https://v.daum.net/v/20230712232846560</id>
-        <link href="https://v.daum.net/v/20230712232846560"/>
-        <updated>2023-07-12T15:13:02.150Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 김나연 기자) '나는 SOLO' 15기 영식이 현숙에게 뒤늦게 고백을 전했다. 12일 방송되는 ENA·SBS PLUS '나는 SOLO'(나는 솔로)에서는 최종 선택을 앞둔 '솔로나라 15번지' 15기의 이야기가 그려지는 가운데 영식과 현숙이 서로에 대한 호감도의 차이를 보이는 장면이 전파를 탔다. 이날 영식은 관심을 가지고 있는 현숙과 일대일]]></content>
     </entry>
 </feed>
