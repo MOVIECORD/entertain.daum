@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2023-07-12T18:14:57.617Z</updated>
+    <updated>2023-07-12T19:10:31.680Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[우영 “카메라 앞에선 병 도져” 내면 탐구에 예술혼↑]]></title>
+        <id>https://v.daum.net/v/20230713040008248</id>
+        <link href="https://v.daum.net/v/20230713040008248"/>
+        <updated>2023-07-12T19:10:24.744Z</updated>
+        <content type="html"><![CDATA[[동아닷컴] 사진 제공｜KBS 2TVKBS2 예능 ‘홍김동전’이 멤버들의 내면 탐구에 나서는 가운데 막내 우영의 나무 그림이 공개됐다. 13일 방송되는 ‘홍김동전’ 45회는 드레스 코드 ‘인사이드 아웃’으로 홍진경 ‘슬픔’, 김숙 ‘버럭’, 조세호 ‘기쁨’, 주우재 ‘의심’, 우영 ‘사랑’으로 분해 총천연색 웃음을 자아낼 예정이다. 멤버들의 내면을 심]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[문희경 “가수 되기 위해 서울로 올라왔다”]]></title>
         <id>https://v.daum.net/v/20230713014659605</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230712232738549"/>
         <updated>2023-07-12T15:13:08.100Z</updated>
         <content type="html"><![CDATA[[TV리포트=이혜미 기자] 래퍼 쿠기가 음악, 예능적 롤모델로 코드 쿤스트를 꼽았다. 12일 AOMG OFFICIAL 채널이 운영하는 ‘코쿤의 귀가 빛나는 밤에’에선 쿠기가 게스트로 출연했다. 코드 쿤스트와 한솥밥을 먹고 있는 쿠기는 “AOMG 들어와서 예능도 나가다 보니 롤모델이 생겼다. 코드 쿤스트다. 음악도 예능도 잘하는 코드 쿤스트처럼 되고 싶다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['나는솔로' 15기 영철은 영숙, 광수는 옥순에게 직진..."귀여우면 답 없어"]]></title>
-        <id>https://v.daum.net/v/20230712232730548</id>
-        <link href="https://v.daum.net/v/20230712232730548"/>
-        <updated>2023-07-12T15:13:08.101Z</updated>
-        <content type="html"><![CDATA[[TV리포트=김유진 기자]영철은 영숙, 광수는 옥순에게 직진했다. 12일 방영된 SBS plus '나는 솔로' 105화는 15기 솔로남녀들의 이야기가 전파를 탔다. 이날 방송은 '슈퍼 데이트권'을 가진 영숙이의 데이트로 시작됐다. 영숙은 오래불망 본인을 바라보는 영철과 데이트를 나갔다. 영철은 "(남녀는)사계절은 봐야한다지만 난 어느 정도 다 준비가 되어]]></content>
     </entry>
 </feed>
