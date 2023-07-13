@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-07-13T21:10:53.640Z</updated>
+    <updated>2023-07-13T22:11:46.422Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[류승완 ‘밀수’·류승범 ‘무빙’, 류가 형제의 여름 사냥]]></title>
+        <id>https://v.daum.net/v/20230714063019228</id>
+        <link href="https://v.daum.net/v/20230714063019228"/>
+        <updated>2023-07-13T22:11:20.940Z</updated>
+        <content type="html"><![CDATA[형제지간인 류승완 감독과 배우 류승범이 올여름 영화 ‘밀수’와 디즈니+ 드라마 ‘무빙’을 각각 내놓는다. 사진｜롯데엔터테인먼트·디즈니+충무로 스타 감독 류승완과 독보적인 매력과 연기력을 갖춘 배우 류승범. ‘류가 형제’가 각각 영화 ‘밀수’와 디즈니+ 드라마 ‘무빙’으로 올여름 흥행몰이에 나선다. 류승완 감독은 26일 개봉하는 ‘밀수’로 대작이 쏟아지는]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘밀수’ 밀수왕 vs ‘무빙’ 초능력자, 올여름은 조인성과 함께]]></title>
+        <id>https://v.daum.net/v/20230714061515082</id>
+        <link href="https://v.daum.net/v/20230714061515082"/>
+        <updated>2023-07-13T22:11:20.940Z</updated>
+        <content type="html"><![CDATA[대한민국 대표 꽃미남 배우 조인성을 극장과 안방극장에서 동시에 볼 수 있다면 어떨까. 평소 조인성의 팬이라면, 혹은 입덕을 앞둔 사람들이 있다면 주목하라. 조인성이 오는 26일 영화 ‘밀수’와 8월 6일 디즈니+ 시리즈 ‘무빙’으로 올여름을 뜨겁게 달구러 찾아온다. 조인성은 데뷔 초부터 조각 같은 외모와 187cm의 큰 키로 시선을 끌었다. 2000년]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["'범죄도시3'가 극장 살렸다"…6월 韓영화, 팬데믹 전 97.3% 회복→역대 2번째 매출 기록]]></title>
         <id>https://v.daum.net/v/20230714060839026</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230713182301888"/>
         <updated>2023-07-13T10:12:40.557Z</updated>
         <content type="html"><![CDATA[[TV리포트=김연주 기자] 영화 '비공식작전'이 올여름 관객을 만난다.&nbsp; 13일 오후 메가박스 코엑스에서 영화 '비공식작전' 기자간담회가 진행됐다. 이날 행사에는 김성훈 감독과 주연 배우 하정우, 주지훈이 참석했다.&nbsp; 영화 '비공식작전'은 실종된 동료를 구하기 위해 레바논으로 떠난 외교관 민준(하정우 분)과 현지 택시기사 판수(주지훈 분)의 버디 액션 영화]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["'모가디슈'·'교섭'과 달라"…하정우·주지훈이 펼친 '비공식작전']]></title>
-        <id>https://v.daum.net/v/20230713180817436</id>
-        <link href="https://v.daum.net/v/20230713180817436"/>
-        <updated>2023-07-13T09:12:12.176Z</updated>
-        <content type="html"><![CDATA[하정우, 주지훈이 '비공식작전'에서 재회해 짜릿한 쾌감의 버디 무비를 완성했다. 13일 오후 서울 강남구 메가박스 코엑스에서는 김성훈 감독, 배우 하정우, 주지훈이 참석한 가운데 영화 '비공식작전' 언론배급시사회 및 기자간담회가 진행됐다. '비공식작전'은 실종된 동료를 구하기 위해 레바논으로 떠난 외교관 민준과 현지 택시기사 판수의 버디 액션 영화다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이동휘, 하정우 영화 '로비' 합류..7년 만에 재회]]></title>
-        <id>https://v.daum.net/v/20230713180608380</id>
-        <link href="https://v.daum.net/v/20230713180608380"/>
-        <updated>2023-07-13T09:12:12.179Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 | 이승훈 기자] 배우 이동휘 /사진=김창현 기자 chmt@배우 이동휘가 하정우 사단에 합류한다. 13일 스타뉴스 단독 취재 결과, 이동휘는 하정우가 연출하는 영화 '로비'에 출연하는 것으로 확인됐다. '로비'는 당초 'OB'라는 제목으로 알려졌던 영화다. 앞서 이동휘와 하정우는 지난 2016년 6월 개봉한 영화 '아가씨'를 통해 한 차례]]></content>
     </entry>
 </feed>

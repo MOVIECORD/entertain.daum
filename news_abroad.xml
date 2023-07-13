@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-07-13T21:10:53.643Z</updated>
+    <updated>2023-07-13T22:11:46.425Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘8100억 전재산 기부’ 주윤발, 코로나→뇌졸중 혼수상태…현지 팬들 충격]]></title>
+        <id>https://v.daum.net/v/20230714061630095</id>
+        <link href="https://v.daum.net/v/20230714061630095"/>
+        <updated>2023-07-13T22:11:45.463Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 이슬기 기자] 홍콩 톱스타 주윤발의 건강이상설이 불거졌다. 7월 13일 중국 연예매체 시나연예는 홍콩 매체에서 주윤발이 코로나19 로 인한 건강 악화로 뇌졸중을 일으켜 혼수상태에 빠졌다는 내용이 보도됐다고 밝혔다. 보도에 따르면 주윤발은 최근 자신이 출연한 영화 홍보 활동에 참여할 정도로 건강했다. 프로모션 기간 동안 주윤발은 홍보를 다니며 많은]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[美 배우조합, 파업 결의…63년만에 작가조합과 동반 파업 예고]]></title>
         <id>https://v.daum.net/v/20230714054424641</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230713172031615"/>
         <updated>2023-07-13T09:12:33.635Z</updated>
         <content type="html"><![CDATA[[TV리포트=석태진 기자] 지난 4월 28일 홍콩 배우 곽진안(58)이 도우인(Douyin)에 올린 영상이 화제다. 곽진안이 올린 동영상 중 하나에서 그는 홍콩 가수 조이 영과 함께 출연했던 2003년 TVB 드라마 '얼굴만 예쁜 게 아니야'의 한 장면을 재현했다. 해당 동영상은 곽진안이 돈을 저축하지 못하는 것에 대해 배우 데노 청을 꾸짖는 장면을 재현한]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[日 훈남 배우 "친구 없다...밥 먹을 때 '사진' 찍는 사람 싫어"]]></title>
-        <id>https://v.daum.net/v/20230713164030936</id>
-        <link href="https://v.daum.net/v/20230713164030936"/>
-        <updated>2023-07-13T08:15:43.911Z</updated>
-        <content type="html"><![CDATA[[TV리포트=유비취 기자] 일본의 훈남 배우 스기노 요스케가 소셜네트워크서비스를 하지 않는 이유를 밝혔다. 12일 후지 테레지 '포카포카'에 출연한 스기노 요스케(27)가 사생활에 대해 언급했다. 그는 소셜네트워크서비스에 대한 어려움도 털어놨다. 스기노 요스케는 친구가 적다고 밝히면서 "연락처도 몇십 명이고, 외출도 잘 하지 않는다"라고 전했다. 스기노]]></content>
     </entry>
 </feed>
