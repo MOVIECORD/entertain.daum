@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-07-13T07:12:11.965Z</updated>
+    <updated>2023-07-13T08:15:44.870Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[日 훈남 배우 "친구 없다...밥 먹을 때 '사진' 찍는 사람 싫어"]]></title>
+        <id>https://v.daum.net/v/20230713164030936</id>
+        <link href="https://v.daum.net/v/20230713164030936"/>
+        <updated>2023-07-13T08:15:43.911Z</updated>
+        <content type="html"><![CDATA[[TV리포트=유비취 기자] 일본의 훈남 배우 스기노 요스케가 소셜네트워크서비스를 하지 않는 이유를 밝혔다. 12일 후지 테레지 '포카포카'에 출연한 스기노 요스케(27)가 사생활에 대해 언급했다. 그는 소셜네트워크서비스에 대한 어려움도 털어놨다. 스기노 요스케는 친구가 적다고 밝히면서 "연락처도 몇십 명이고, 외출도 잘 하지 않는다"라고 전했다. 스기노]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["할리우드가 두렵고 싫어" 톰 홀랜드 속내 고백, 완전히 은퇴하나]]></title>
         <id>https://v.daum.net/v/20230713155607779</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230713120030940"/>
         <updated>2023-07-13T03:26:41.144Z</updated>
         <content type="html"><![CDATA[[TV리포트=유비취 기자] 일본 인기 그룹 SMAP의 기무라 타쿠야와 쿠사나기 츠요시가 재회했다. 12일 일본 매체 주간문춘은 SMAP의 전 멤버 기무라 타쿠야(50)와 쿠사나기 츠요시(49)가 약 6년 만에 재회해 대화를 나눴다고 보도했다. SMAP은 일본의 최정상 인기 그룹이었지만 지난 2016년 12월 해산했다. 쿠사나기 츠요시 소속사는 이 같은 사실]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아들 두고 젠더리스 선언→이혼 후 여장한 日 방송인, 끝내 사망]]></title>
-        <id>https://v.daum.net/v/20230713113748066</id>
-        <link href="https://v.daum.net/v/20230713113748066"/>
-        <updated>2023-07-13T02:58:10.863Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 박수인 기자] 일본 방송인 류체류(본명 히가 류지)가 사망했다. 7월 13일 일본 매체 죠세지신은 류체류가 12일 27세의 나이로 사망했다고 보도했다. 보도에 따르면 류체류는 12일 오후 5시 도쿄 시부야의 한 사무실에서 의식이 없는 상태로 발견됐으며 곧 사망이 확인됐다. 정확한 사인은 밝혀지지 않았으나 류체류가 스스로 목숨을 끊은 것으로 보고]]></content>
     </entry>
 </feed>
