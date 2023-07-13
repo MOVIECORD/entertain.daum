@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-07-13T15:13:08.699Z</updated>
+    <updated>2023-07-13T16:15:51.632Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[맷 데이먼, 딸 이름 문신 한 이유가 아내 때문? 진정한 '사랑꾼']]></title>
+        <id>https://v.daum.net/v/20230714004030599</id>
+        <link href="https://v.daum.net/v/20230714004030599"/>
+        <updated>2023-07-13T16:15:50.616Z</updated>
+        <content type="html"><![CDATA[[TV리포트=강성훈 기자] 미국 배우 겸 프로듀서 맷 데이먼이 사랑꾼 면모를 보였다. 데이먼은 11일(현지 시간) 신작 영화 '오펜하이머'의 파리 시사회 레드카펫에서 딸들과 함께  포즈를 취했다. 데이먼은 검은색 미니 드레스를 입은 스텔라(12)와 흰색 롱 드레스를 입은 지아(14)를 보며 흐뭇하게 웃었다. 의붓딸 알렉시아 바로소(24)는 끈에 리본이 달]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[티모시 샬라메, 수준급 랩 실력 화제...'웡카' 찰떡이네]]></title>
         <id>https://v.daum.net/v/20230713234030840</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230713155607779"/>
         <updated>2023-07-13T07:12:11.159Z</updated>
         <content type="html"><![CDATA[[티브이데일리 김종은 기자] 1년간 연예계를 떠나겠다고 선언한 할리우드 배우 톰 홀랜드가 이번엔 솔직한 속내를 털어내며 은퇴 가능성에 대해 시사했다. 톰 홀랜드는 11일(현지시간) 제이 쉐티가 진행하는 팟캐스트 '온 퍼포즈'에 출연해 솔직한 입담을 자랑했다. 이날 톰 홀랜드는 "난 영화를 만들어내는 것에 있어선 엄청난 팬이지만, 할리우드는 싫어한다. 그저]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['스타워즈' 카메론 모나한, '트론: 아레스' 합류…자레드 레토와 호흡]]></title>
-        <id>https://v.daum.net/v/20230713155549763</id>
-        <link href="https://v.daum.net/v/20230713155549763"/>
-        <updated>2023-07-13T07:12:11.164Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 이창규 기자) 디즈니가 '트론' 시리즈의 후속편 제작을 발표한 가운데, 캐스팅이 추가로 공개됐다. 12일(현지시간) 미국 데드라인은 '트론: 아레스'(감독 요아킴 뢰닝)에 카메론 모나한이 출연을 확정지었다고 단독보도했다. 카메론 모나한은 드라마 '셰임리스'로 얼굴을 알렸으며, DC 코믹스 원작 드라마 '고담'에서 제롬 발레스카 역으로 출연해]]></content>
     </entry>
 </feed>

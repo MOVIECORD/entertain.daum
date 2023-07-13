@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/variety</id>
     <title>다음 연예 ─ 뉴스 ─ 예능</title>
-    <updated>2023-07-13T15:13:08.702Z</updated>
+    <updated>2023-07-13T16:15:51.638Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['댄스가수 유랑단' 화사 "부담감 있었지만 정면 돌파"..김완선 '폭풍 칭찬']]></title>
+        <id>https://v.daum.net/v/20230714005005670</id>
+        <link href="https://v.daum.net/v/20230714005005670"/>
+        <updated>2023-07-13T16:15:39.504Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 | 김지은 인턴기자] /사진='댄스가수 유랑단' 화면 캡처'댄스가수 유랑단' 화사가 영혼을 갈아 넣은 무대로 감동을 선사했다. 13일 방송된 tvN 예능 프로그램 '댄스가수 유랑단' 8회에서는 김완선, 엄정화, 이효리, 보아, 화사의 '히트곡 바꿔 부르기' 프로젝트와 함께 네 번째 유랑지인 광주 공연이 이어졌다. 이날 방송에서 화사는 대선배]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[화사, 최초로 '복근노출' 한 엄정화에 경악..난리난 반응]]></title>
         <id>https://v.daum.net/v/20230714001233402</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230713234156849"/>
         <updated>2023-07-13T15:12:56.031Z</updated>
         <content type="html"><![CDATA[[뉴스엔 이하나 기자] 배우 송영규가 아파트 생활을 청산하고 한적한 곳에 집을 짓고 있다고 전했다. 7월 13일 방송된 MBC ‘구해줘! 홈즈’에는 배우 송영규, 임형준이 복팀 인턴 코디로 출연했다. 복팀 송영규, 임형준은 인천 강화의 4억 원대 2층 주택 매물을 찾아 나섰다. 송영규와 임형준은 서울예대 89학번, 93학번으로 오랜 인연을 이어왔다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['댄스가수 유랑단' 더 보이즈 현재, 페어 안무 중 김완선에 "밟으셔도 된다"]]></title>
-        <id>https://v.daum.net/v/20230713233614808</id>
-        <link href="https://v.daum.net/v/20230713233614808"/>
-        <updated>2023-07-13T15:12:56.035Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 | 김지은 인턴기자] /사진='댄스가수 유랑단' 화면 캡처'댄스가수 유랑단' 김완선과 더보이즈 현재가 페어 안무로 호흡을 맞춰 시선을 집중시켰다. 13일 방송된 tvN 예능 프로그램 '댄스가수 유랑단' 8회에서는 김완선, 엄정화, 이효리, 보아, 화사의 '히트곡 바꿔 부르기' 프로젝트와 함께 네 번째 유랑지인 광주 공연이 이어졌다. 이날 방송]]></content>
     </entry>
 </feed>
