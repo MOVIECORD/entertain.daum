@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-07-13T12:25:00.343Z</updated>
+    <updated>2023-07-13T13:22:38.563Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[서준영, 실종자 아내 안다는 연락 받아...돌아온 건 '유서']]></title>
+        <id>https://v.daum.net/v/20230713215531790</id>
+        <link href="https://v.daum.net/v/20230713215531790"/>
+        <updated>2023-07-13T13:22:20.662Z</updated>
+        <content type="html"><![CDATA[[TV리포트=김유진 기자] 서준영이 아내를 찾았다는 전화를 받았다. 13일 방영된 KBS '금이야 옥이야' 77회는 금강산(서준영)이 아내 선주를 찾았다는 연락을 받고 옥미래(윤다영)와 제보자를 같이 만나러 가면서 시작됐다. 하지만 만난 제보자는 사기꾼이었다. 금강산과 제보자가 만나 이야기를 나누는 도중 옥미래는 금강산에게 '특이사항'을 확인하라고 조언했고]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이채영, 끝까지 신분 숨겼다 "하늘에 맹세코 몰라"]]></title>
         <id>https://v.daum.net/v/20230713204111213</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230713173916468"/>
         <updated>2023-07-13T09:12:17.401Z</updated>
         <content type="html"><![CDATA[[OSEN=장우영 기자] ‘이 연애는 불가항력’ 조보아, 로운이 거부할 수 없는 설렘을 몰고 온다. JTBC 새 수목드라마 ‘이 연애는 불가항력’(극본 노지설, 연출 남기훈, 제작 SLL·씨제스스튜디오) 측은 13일, 이홍조(조보아 분)와 장신유(로운 분)의 전생과 얽힌 운명적 서사에 호기심을 자극하는 티저 포스터 2종을 공개했다. ‘이 연애는 불가항력]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘킹더랜드’ 아랍 문화 왜곡 논란 사과→클럽+음주 장면 삭제]]></title>
-        <id>https://v.daum.net/v/20230713173652380</id>
-        <link href="https://v.daum.net/v/20230713173652380"/>
-        <updated>2023-07-13T09:12:17.403Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 김명미 기자] '킹더랜드' 측이 아랍 문화 왜곡 논란을 부른 장면을 삭제했다. 7월 13일 JTBC 토일드라마 '킹더랜드' 7회, 8회 다시보기 서비스에는 앞서 논란이 된 장면 일부가 수정된 상태다. 사미르(아누팜 분)가 클럽에서 여자들과 함께 구원(이준호 분)의 전화를 받는 장면, 식사 중 와인을 받는 장면 등이 편집된 것. 앞서 최근 '킹더랜]]></content>
     </entry>
 </feed>
