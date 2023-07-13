@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-07-13T04:15:03.195Z</updated>
+    <updated>2023-07-13T05:12:11.997Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘호텔 캘리포니아’ 전설 록밴드 이글스, 9월 마지막 투어 시작]]></title>
+        <id>https://v.daum.net/v/20230713134348072</id>
+        <link href="https://v.daum.net/v/20230713134348072"/>
+        <updated>2023-07-13T05:12:11.202Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 이민지 기자] 밴드 이글스가 마지막 투어를 발표했다. 최근 피플 보도에 따르면 이글스의 마지막 투어 'The Long Goodbye'가 9월 7일 미국 뉴욕에서 시작된다. 50년 이상 투어를 진행하고 전세계적으로 1억 5천만장의 앨범 판매고를 올린 이글스는 최근 'The Long Goodbye'가 그들의 마지막 투어가 될 것이라고 발표했다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美 배우조합, 43년 만에 파업하나…할리우드 마비 우려]]></title>
+        <id>https://v.daum.net/v/20230713131514352</id>
+        <link href="https://v.daum.net/v/20230713131514352"/>
+        <updated>2023-07-13T05:12:11.206Z</updated>
+        <content type="html"><![CDATA[(로스앤젤레스=연합뉴스) 임미나 특파원 = 미국 배우·방송인 노동조합(SAG-AFTRA, 이하 배우조합)이 43년 만에 파업에 돌입할 태세를 갖춰 할리우드에 긴장이 고조되고 있다. 12일(현지시간) 미 배우조합에 따르면 배우 16만명이 소속된 이 단체는 현재 넷플릭스, 디즈니, 디스커버리-워너 등 대형 스튜디오를 대표하는 영화·TV제작자연맹(AMPTP)과]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[톰 홀랜드 "할리우드 싫다…평범한 삶 원해"]]></title>
         <id>https://v.daum.net/v/20230713130040062</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230713100618596"/>
         <updated>2023-07-13T01:08:29.986Z</updated>
         <content type="html"><![CDATA[[뉴스엔 배효주 기자] 앰버 허드와의 소송으로 인해 자금난에 시달리는 조니 뎁이 담보 대출을 받았다는 소식이 전해졌다. 7월 11일(현지시간) 해외 매체 데일리 메일 보도에 따르면, 조니 뎁은 최근 미국 LA에 있는 주택을 담보로 1천만 달러(한화 약 128억 원)의 대출을 받았다. 조니 뎁이 자금난에 시달리는 것은 전처인 앰버 허드와의 값비싼 소송전 및]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“케빈 코스트너, 이혼 아내에게 복수 원해…생지옥으로 만들 것” 충격]]></title>
-        <id>https://v.daum.net/v/20230713093136990</id>
-        <link href="https://v.daum.net/v/20230713093136990"/>
-        <updated>2023-07-13T01:08:29.992Z</updated>
-        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]할리우드 감독 겸 배우 케빈 코스트너(68)가 별거중인 아내 크리스틴 바움카트너(49)에게 복수를 원하는 것으로 알려졌다. 한 소식통은 12일(현지시간) 데일리메일에 “코스트너는 바움가트너에게 굴욕을 주고 싶어한다”면서 “이것은 집에 관한 것이 아니라 실제로 이혼을 겪은 크리스틴의 삶을 생지옥으로 만드는 것이다"라고 말했다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[스티븐연, 에미상 남우주연상 후보…'성난사람들' 13개후보 올라]]></title>
-        <id>https://v.daum.net/v/20230713072952721</id>
-        <link href="https://v.daum.net/v/20230713072952721"/>
-        <updated>2023-07-12T23:12:30.654Z</updated>
-        <content type="html"><![CDATA[(로스앤젤레스=연합뉴스) 임미나 특파원 = 한국계 배우들과 제작진이 대거 참여한 넷플릭스 드라마 '성난 사람들'(BEEF)이 미국 방송계의 아카데미상으로 불리는 에미상 시상식에서 11개 부문 13개 후보에 올랐다. 12일(현지시간) 미국 TV 예술과학 아카데미가 발표한 제75회 에미상 후보 목록에 따르면 '성난 사람들'의 주연 배우 스티븐 연이 미니시리즈]]></content>
     </entry>
 </feed>

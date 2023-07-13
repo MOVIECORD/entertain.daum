@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-07-13T04:15:03.189Z</updated>
+    <updated>2023-07-13T05:12:11.984Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[정우성·유해진까지 등판…판 커진 여름 영화 대전, 기대와 우려 사이]]></title>
+        <id>https://v.daum.net/v/20230713140206912</id>
+        <link href="https://v.daum.net/v/20230713140206912"/>
+        <updated>2023-07-13T05:11:48.133Z</updated>
+        <content type="html"><![CDATA[올여름 성수기에 한국 영화들이 소리 없는 전쟁을 시작한다. 일찍부터 7월 26일 개봉 일을 못 박았던 류승완 감독의 신작 '밀수'를 시작으로 일주일 뒤 8월 2일 김용화 감독의 '더 문', 김성훈 감독의 '비공식작전'이 동시에 출격하고, 8월 9일 엄태화 감독의 '콘크리트 유토피아'가 바로 개봉한다. 3주 동안 천만 감독, 천만 배우들을 내세운 야심작들이]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['미션 임파서블7', 역대 최고는 아니지만 시리즈의 정수를 담다]]></title>
+        <id>https://v.daum.net/v/20230713140020776</id>
+        <link href="https://v.daum.net/v/20230713140020776"/>
+        <updated>2023-07-13T05:11:48.135Z</updated>
+        <content type="html"><![CDATA[* 이 기사는 일부 스포일러를 포함니다. [SBS 연예뉴스 | 김지혜 기자] 한 편의 영화가 탄생해 무려 27년의 명맥을 이어갈 수 있다는 것, 이것은 제작진에게도 관객에게도 축복이다. 태생적으로 시대의 유행과 관객의 취향에 민감하게 반응하는 '오락 영화'라면 더더욱 놀라운 성취다. 1996년 탄생한 '미션 임파서블' 시리즈는 2023년까지 살아남아 자가진]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['비공식작전' 하정우 연출작 'OB', 김의성→강말금 뭉친다]]></title>
         <id>https://v.daum.net/v/20230713124017730</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230713102906596"/>
         <updated>2023-07-13T02:57:48.052Z</updated>
         <content type="html"><![CDATA[[이데일리 스타in 김보영 기자] 오는 8월 15일 개봉을 확정한 크리스토퍼 놀란 감독의 최고 기대작 ‘오펜하이머’가 해외 프리미어 이후 뜨거운 호평이 쏟아져 기대감을 고조시킨다. 지난 11일(현지시각) 파리에서 열린 프리미어 행사에서 베일을 벗은 영화 ‘오펜하이머’에 이어지는 찬사들에 이목이 집중된다. 먼저 ‘인셉션’, ‘인터스텔라’, ‘테넷’ 등 탄탄]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[골목에 낀 택시 안 하정우X주지훈 ‘비공식작전’ 호기심 UP 포스터]]></title>
-        <id>https://v.daum.net/v/20230713101906157</id>
-        <link href="https://v.daum.net/v/20230713101906157"/>
-        <updated>2023-07-13T02:57:48.055Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 배효주 기자] 하정우 주지훈 주연 '비공식작전'의 2차 포스터가 공개돼 기대감을 높인다. 8월 2일 개봉하는 영화 '비공식작전'(감독 김성훈)은 실종된 동료를 구하기 위해 레바논으로 떠난 외교관 ‘민준’과 현지 택시기사 ‘판수’의 버디 액션 영화. 공개된 2차 포스터는 ‘민준’(하정우)과 ‘판수’(주지훈)가 마주한 극한의 상황으로 시선을 끈다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['미임파7' 톰 크루즈 저력 입증, '엘리멘탈' 독주 끝냈다]]></title>
-        <id>https://v.daum.net/v/20230713101406938</id>
-        <link href="https://v.daum.net/v/20230713101406938"/>
-        <updated>2023-07-13T02:57:48.062Z</updated>
-        <content type="html"><![CDATA[[티브이데일리 최하나 기자] 할리우드 배우 톰 크루즈의 저력이 국내 극장가에서 또 다시 통했다. ‘미임파7’이 ‘엘리멘탈’의 독주를 끝내고 개봉 첫날 박스오피스 1위를 기록했다. 지난 12일 개봉된 영화 ‘미션 임파서블: 데드 레코닝 PART ONE’(감독 크리스토퍼 맥쿼리, 이하 ‘미임파7’)은 모든 인류를 위협할 새로운 무기가 잘못된 자의 손에 넘어가]]></content>
     </entry>
 </feed>
