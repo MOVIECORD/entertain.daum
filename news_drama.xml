@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-07-13T22:11:46.429Z</updated>
+    <updated>2023-07-13T23:12:47.599Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[전효성 “‘셀러브리티’ 내숭 없는 작품, 더 나쁜 캐릭터 욕심나”]]></title>
+        <id>https://v.daum.net/v/20230714073425041</id>
+        <link href="https://v.daum.net/v/20230714073425041"/>
+        <updated>2023-07-13T23:12:27.652Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 이민지 기자] 전효성이 '셀러브리티'에 대한 애정을 전했다. 넷플릭스 시리즈 '셀러브리티'는 유명해지기만 하면 돈이 되는 세계에 뛰어든 서아리(박규영 분)가 마주한 셀럽들의 화려하고도 치열한 민낯을 그린 작품으로, 최근 넷플릭스 글로벌 TOP10 TV(비영어) 부문 1위에 등극했다. 극 중 잘 나가는 인플루언서이자 서아리의 어릴 적 친구 오민]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[세상은 우연은 없다..정우vs배현성, 갈등폭발]]></title>
+        <id>https://v.daum.net/v/20230714071653811</id>
+        <link href="https://v.daum.net/v/20230714071653811"/>
+        <updated>2023-07-13T23:12:27.653Z</updated>
+        <content type="html"><![CDATA[[OSEN=강서정 기자] 세상에 우연은 없었다. JTBC ‘기적의 형제’&nbsp;정우와 배현성의 인연은&nbsp;27년 전인&nbsp;1995년부터 운명적으로 이어져 있었다.&nbsp;두 사람 사이의 연결고리는 바로 정우의 아버지 윤나무와 배현성의 형 오만석이었다. 지난&nbsp;13일 방영된&nbsp;JTBC&nbsp;수목드라마&nbsp;‘기적의 형제’(극본 김지우,&nbsp;연출 박찬홍) 6회에서 소설&nbsp;‘신이 죽었다’와 관련된]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[안우연 “과거 우울감에 20㎏ 증가, 전역 후 마음가짐 달라져”]]></title>
         <id>https://v.daum.net/v/20230714070207596</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230713195325228"/>
         <updated>2023-07-13T11:10:47.705Z</updated>
         <content type="html"><![CDATA[[스타뉴스 | 김지은 인턴기자] /사진='하늘의 인연' 화면 캡처머리를 다쳐 기억을 잃은 조은숙이 김유석을 벽에 밀치고 위협했다. 13일 방송된 MBC 일일드라마 '하늘의 인연' 63회에서는 나정임(조은숙 분)이 강치환(김유석 분)의 목을 조르는 모습이 담겼다. 이날 방송에서 성공적으로 PT발표를 마친 윤솔(전혜연 분)은 강치환을 찾아갔다. 강치환은]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['하늘의 인연' 김유석, 전혜연 "제 친부 아세요?"질문에 충격...조은숙 배후 의심]]></title>
-        <id>https://v.daum.net/v/20230713193900930</id>
-        <link href="https://v.daum.net/v/20230713193900930"/>
-        <updated>2023-07-13T11:10:47.710Z</updated>
-        <content type="html"><![CDATA[[TV리포트 = 하수나 기자] 김유석이 자신의 친부모를 아느냐는 전혜연의 질문에 조은숙의 기억이 돌아왔다고 의심했다.&nbsp; 13일 MBC 일일드라마 ‘하늘의 인연’에선 윤솔(전혜연 분)이 강치환(김유석 분)을 향해 자신의 친부모를 아느냐고 묻는 모습이 그려졌다.&nbsp; 윤솔은 “제 친어머니 아세요?”라고 물었고 당황한 치환은 모른다고 거짓말했다. 이에 윤솔은&nbsp;“그럼]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박종팔-유명우-장정구-신보미레, 전설의 복서가 떴다]]></title>
-        <id>https://v.daum.net/v/20230713190913117</id>
-        <link href="https://v.daum.net/v/20230713190913117"/>
-        <updated>2023-07-13T10:12:45.820Z</updated>
-        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]전설의 복싱 스타들이 ‘순정복서’를 위해 뭉쳤다. KBS 2TV 새 월화드라마 ‘순정복서’(극본 김민주 / 연출 최상열, 홍은미 / 제작 에이스메이커무비웍스, 코너스톤, 블레이드ENT)는 교보문고 스토리공모전 제2회 수상작인 추종남 작가의 소설 ‘순정복서’를 원작으로 한 드라마로, 사라진 천재 복서 이권숙과 냉혈한 에이전트]]></content>
     </entry>
 </feed>

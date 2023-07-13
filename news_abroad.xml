@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-07-13T22:11:46.425Z</updated>
+    <updated>2023-07-13T23:12:47.607Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[美 배우조합, 파업 결의…63년만에 작가조합과 동반 파업 예고]]></title>
+        <id>https://v.daum.net/v/20230714074517207</id>
+        <link href="https://v.daum.net/v/20230714074517207"/>
+        <updated>2023-07-13T23:12:46.643Z</updated>
+        <content type="html"><![CDATA[(로스앤젤레스=연합뉴스) 임미나 특파원 = 미국 배우·방송인 노동조합(SAG-AFTRA, 이하 배우조합)이 곧 파업에 들어간다고 13일(현지시간) 밝혔다. 미 작가조합(WGA)이 현재 파업을 이어가고 있는 가운데 배우조합이 합류하면서 할리우드의 양대 노조가 1960년 이후 63년 만에 동반 파업을 벌이게 됐다. 배우조합-영화·TV 대기업 간 계약 협상 결]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘8100억 전재산 기부’ 주윤발, 코로나→뇌졸중 혼수상태…현지 팬들 충격]]></title>
         <id>https://v.daum.net/v/20230714061630095</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230713180006188"/>
         <updated>2023-07-13T09:12:33.634Z</updated>
         <content type="html"><![CDATA[[스포츠서울 | 유다연인턴기자] 캐나다 출신 싱어송라이터 다니엘 시저가 5년 만에 한국관객과 만난다. 다니엘 시저는 2019년 ‘베스트 파트’(Best Part)로 그래미 어워드에서 베스트 알앤비 퍼포먼스 부문을 수상한 가수다. 지난 2021년 빌보드 ‘핫100’ 1위에 오르며 세계적으로 인기를 끈 저스틴 비버의 히트곡 ‘피치스’ 피처링에 참여하기도]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[홍콩 스타 곽진안, 과도한 필터 사용?...달라진 얼굴에 팬들 충격]]></title>
-        <id>https://v.daum.net/v/20230713172031615</id>
-        <link href="https://v.daum.net/v/20230713172031615"/>
-        <updated>2023-07-13T09:12:33.635Z</updated>
-        <content type="html"><![CDATA[[TV리포트=석태진 기자] 지난 4월 28일 홍콩 배우 곽진안(58)이 도우인(Douyin)에 올린 영상이 화제다. 곽진안이 올린 동영상 중 하나에서 그는 홍콩 가수 조이 영과 함께 출연했던 2003년 TVB 드라마 '얼굴만 예쁜 게 아니야'의 한 장면을 재현했다. 해당 동영상은 곽진안이 돈을 저축하지 못하는 것에 대해 배우 데노 청을 꾸짖는 장면을 재현한]]></content>
     </entry>
 </feed>
