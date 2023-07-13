@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-07-13T06:16:13.107Z</updated>
+    <updated>2023-07-13T07:12:11.962Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[배현성, 초능력이 따로 있나..비주얼 자체가 판타지]]></title>
+        <id>https://v.daum.net/v/20230713153745942</id>
+        <link href="https://v.daum.net/v/20230713153745942"/>
+        <updated>2023-07-13T07:11:55.525Z</updated>
+        <content type="html"><![CDATA[[OSEN=장우영 기자] 배우 배현성의 훈훈한 매력이 포착됐다. 배현성은 JTBC 수목드라마 ‘기적의 형제’에서 정체불명의 소년 ‘강산’ 역을 맡아 강렬한 초능력자 면모부터 보호본능을 자극하는 소년미까지 다채로운 매력을 뽐내며 극을 이끌어 가고 있다. 그런 가운데, 자동 광대 승천을 유발하는 현장 비하인드가 공개돼 시선을 집중시킨 것. 공개된 사진에서는]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['킹더랜드', '문화 왜곡 논란' 아랍어 공식 사과.."불편 끼쳤다"]]></title>
         <id>https://v.daum.net/v/20230713150550540</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230713110815590"/>
         <updated>2023-07-13T02:57:53.555Z</updated>
         <content type="html"><![CDATA[[OSEN=장우영 기자] ENA 드라마의 화력이 제대로 불 붙었다. 새 수목드라마 ‘오랫동안 당신을 기다렸습니다’가 ‘행복배틀’과 ‘마당이 있는 집’에 이어 ENA 장르물의 흥행 계보를 이어갈 전망이다. 오는 26일 첫 방송되는 ENA 새 수목드라마 ‘오랫동안 당신을 기다렸습니다’(극본 권민수, 연출 한철수 김용민, 기획 KT스튜디오지니, 제작 삼화네트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['행복배틀' 김영훈, 차기작 '오당기' 확정…권율·김지은과 호흡]]></title>
-        <id>https://v.daum.net/v/20230713105339708</id>
-        <link href="https://v.daum.net/v/20230713105339708"/>
-        <updated>2023-07-13T02:57:53.558Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 황수연 기자) 배우 김영훈 ‘오랫동안 당신을 기다렸습니다’ 합류, 열일 행보에 박차를 가한다. &nbsp; 13일 소속사 WS엔터테인먼트 측은 “현재 ‘행복배틀”에서 맹활약을 선보이고 있는 김영훈의 ‘오랫동안 당신을 기다렸습니다’ 출연 소식을 전해드린다. 이에 하반기까지 선보일 김영훈의 열연에 많은 기대 부탁드린다”라고 밝혔다. ENA 새 수목드라마]]></content>
     </entry>
 </feed>
