@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/variety</id>
     <title>다음 연예 ─ 뉴스 ─ 예능</title>
-    <updated>2023-07-13T02:58:11.863Z</updated>
+    <updated>2023-07-13T03:26:42.136Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2023 KBS 대기획 god 콘서트, 9월 9일 인천 송도 개최 확정]]></title>
+        <id>https://v.daum.net/v/20230713120241077</id>
+        <link href="https://v.daum.net/v/20230713120241077"/>
+        <updated>2023-07-13T03:26:29.921Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 황수연 기자) 국민 그룹 god의 데뷔 25주년을 앞두고 마련된 ‘2023 KBS 대기획 god 콘서트’가 오는 9월 9일 인천 송도 달빛축제공원에서 화려한 페스티벌의 막을 올린다.&nbsp; 나훈아-심수봉-임영웅-송골매 등 굵직한 대기획 주자들의 뒤를 잇는 god의 ‘완전체’ 단독 콘서트 소식만으로도 팬들의 기대감이 뜨거운 가운데, 페스티벌에 최적화]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['위장취업' 풍자 "고기 먹다가 이 빠지는 것도 호상" 웃음]]></title>
         <id>https://v.daum.net/v/20230713114952492</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230713105955011"/>
         <updated>2023-07-13T02:57:59.168Z</updated>
         <content type="html"><![CDATA[(엑스포츠뉴스 김현정 기자) 13일 오후 9시에 방송하는 MBC '실화탐사대'에서는 밤낮없이 욕설과 괴성을 내질러 주민들에게 큰 불편을 주고 있는 한 남자와 우리 사회에 큰 충격을 준 ‘수원 냉장고 영아 사건’을 비롯해 출생 신고도 없이 사라진 2,236명의 아이들에 대해 알아본다. 첫 번째 실화로 연희동 난동남을 다룬다. 한 남성의 난동으로 인해 밤낮없이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이정현 의사남편, 머리 넘겨주며 보디가드 자처 '♥아내 껌딱지']]></title>
-        <id>https://v.daum.net/v/20230713104406334</id>
-        <link href="https://v.daum.net/v/20230713104406334"/>
-        <updated>2023-07-13T02:57:59.169Z</updated>
-        <content type="html"><![CDATA[[OSEN=하수정 기자] ‘신상출시 편스토랑’ 이정현의 남편이 아내 보디가드에 등극한다. 7월 14일 방송되는 KBS 2TV ‘신상출시 편스토랑’(이하 ‘편스토랑’)에서는 작은 체구에 넘치는 에너지로, 연기, 육아, 요리까지 완벽하게 해내며 '집밥 여전사'로 불리는 이정현의 일상이 공개된다. 앞서 3년 만에 서아 엄마가 되어 ‘편스토랑’에 돌아온 이정현]]></content>
     </entry>
 </feed>
