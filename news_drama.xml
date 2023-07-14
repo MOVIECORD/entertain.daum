@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-07-14T12:23:01.295Z</updated>
+    <updated>2023-07-14T13:20:06.141Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김신비, 김태리에 "최만월이라는 여자를 찾아"]]></title>
+        <id>https://v.daum.net/v/20230714221235209</id>
+        <link href="https://v.daum.net/v/20230714221235209"/>
+        <updated>2023-07-14T13:19:47.616Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 오수정 기자) '악귀'에서 김신비가 악귀를 만든 사람의 이름을 말했다.&nbsp; 14일 방송된 SBS 금토드라마 '악귀' 7회에서는 김우진(김신비 분)과 마주한 구산영(김태리)의 모습이 그려졌다.&nbsp; 이날 구산영은 염해상(오정세)의 집에서 김우진(김신비)를 보게 됐고 "너 누구냐, 뭘 알고 있냐"고 다그쳤다. 이에 김우진은 "악귀를 만든 사람의 이름을]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['김태리 선배' 홍경, 이젠 악귀 믿을까?]]></title>
         <id>https://v.daum.net/v/20230714212119573</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230714171930638"/>
         <updated>2023-07-14T09:12:09.164Z</updated>
         <content type="html"><![CDATA[(사진=KBS)[이데일리 스타in 김현식 기자] 14일 오후 서울 여의도 KBS아트홀. KBS 2TV 예능 프로그램 ‘홍김동전’ 박인석 PD와 고정 출연자 홍진경, 김숙, 조세호, 주우재, 우영(2PM)이 단상에 올라 단체로 큰절을 했다. 프로그램이 1주년을 맞은 데 대한 진심어린 감사 인사다. 이날 박인석 PD는 “다채널 다플랫폼 시대라 정말 재미있는]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘악귀’ 김태리 공시생 패션에도 이유 있었다‥몰입감 높인 디테일]]></title>
-        <id>https://v.daum.net/v/20230714171845620</id>
-        <link href="https://v.daum.net/v/20230714171845620"/>
-        <updated>2023-07-14T09:12:09.166Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 박수인 기자] '악귀' 속 김태리의 공시생 패션이 화제다. SBS 금토드라마 ‘악귀’에서 공시생 구산영 역을 맡은 김태리는 힘든 생계를 이어가는 고단한 청춘의 비주얼을 완벽히 구현하며 시청자들의 공감을 얻고 있다. 구산영은 어려운 가정 형편으로 생계를 유지하기 위해 다양한 아르바이트를 하며 하루하루를 살아가고 있다. 그렇기에 그녀는 움직임이 편리]]></content>
     </entry>
 </feed>
