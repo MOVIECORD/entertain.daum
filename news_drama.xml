@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-07-14T07:12:05.443Z</updated>
+    <updated>2023-07-14T08:15:02.493Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['홍김동전' PD "1주년 믿기지 않아…시즌제는 안 할 것"]]></title>
+        <id>https://v.daum.net/v/20230714164439584</id>
+        <link href="https://v.daum.net/v/20230714164439584"/>
+        <updated>2023-07-14T08:14:44.939Z</updated>
+        <content type="html"><![CDATA[(사진=KBS)[이데일리 스타in 김현식 기자] ‘홍김동전’ 박인석 PD가 프로그램 1주년 소감을 밝혔다. 14일 오후 서울 여의도 KBS아트홀에서 KBS 2TV 예능 프로그램 ‘홍김동전’ 1주년 기자간담회가 열렸다. 이날 박인석 PD는 “다채널 다플랫폼 시대라 정말 재미있는 프로그램이 세상에 많다. 그런 시대에 1주년을 맞았다는 게 믿기지 않는다”고 했]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['홍김동전' 홍진경 "샘 스미스가 원하면 집에서 재워줄 것"]]></title>
+        <id>https://v.daum.net/v/20230714163137165</id>
+        <link href="https://v.daum.net/v/20230714163137165"/>
+        <updated>2023-07-14T08:14:44.940Z</updated>
+        <content type="html"><![CDATA[홍진경(사진=KBS)[이데일리 스타in 김현식 기자] ‘홍김동전’ 홍진경이 오는 10월 내한 예정인 팝가수 샘 스미스와의 방송 협업 의사를 밝혔다. 14일 오후 서울 여의도 KBS아트홀에서 KBS 2TV 예능 프로그램 ‘홍김동전’ 1주년 기자간담회가 열렸다. 이날 주우재는 시청률 관련 질문이 나오자 “(홍)진경 누나 집이 방송에 나왔을 때 시청률 3%대를]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[돌아온 김은희..‘악귀’ 무더위 떨쳐내는 여름 스릴러의 맛]]></title>
         <id>https://v.daum.net/v/20230714161021391</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230714140129685"/>
         <updated>2023-07-14T05:11:47.948Z</updated>
         <content type="html"><![CDATA[[뉴스엔 박수인 기자] ‘아씨 두리안’ 박주미와 지영산이 전생에서 떨림과 설렘이 전혀 없는 ‘혼례 첫날밤’을 보낸다. TV CHOSUN 주말미니시리즈 ‘아씨 두리안’(극본 피비(Phoebe, 임성한)/연출 신우철, 정여진/제작 바른손스튜디오, 하이그라운드) 지난 방송에서는 두리안과 김소저가 이은성(한다감)의 불타는 질투심으로 인해 단치감(김민준) 집에서]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[옥택연･원지안이 사는 저택 정체는? 경성 핫플레이스]]></title>
-        <id>https://v.daum.net/v/20230714134729182</id>
-        <link href="https://v.daum.net/v/20230714134729182"/>
-        <updated>2023-07-14T05:11:47.950Z</updated>
-        <content type="html"><![CDATA[[OSEN=강서정 기자] '가슴이 뛴다’가 감각적인 세트와 소품들로 가득한 저택의 비밀을 둘러싸고 극적 몰입도를 높이고 있다.&nbsp; KBS 2TV 월화드라마 ‘가슴이 뛴다’(연출 이현석, 이민수, 극본 김하나, 정승주)는 반인뱀파이어와 인간의 아찔한 목숨 담보 공생 로맨스로 과거 조선시대부터 현대까지 시대를 넘어선 이야기로 흥미를 더하고 있다. 극 중 선우]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“여자 존윅 같아” 한효주, 귀 움직이는 연습에 총기 액션까지]]></title>
-        <id>https://v.daum.net/v/20230714132835774</id>
-        <link href="https://v.daum.net/v/20230714132835774"/>
-        <updated>2023-07-14T05:11:47.952Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 박수인 기자] '무빙' 속 한효주가 맡은 캐릭터는 어떻게 탄생했을까. 디즈니+ 오리지널 시리즈 '무빙'은 초능력을 숨긴 채 현재를 살아가는 아이들과 아픈 비밀을 감춘 채 과거를 살아온 부모들의 이야기를 그린 휴먼 액션 시리즈. 한효주는 남들보다 뛰어난 초인적인 오감능력을 지닌 안기부 최연소 엘리트 요원이자 김봉석(이정하)의 엄마 이미현 캐릭터로]]></content>
     </entry>
 </feed>
