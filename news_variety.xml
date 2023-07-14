@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/variety</id>
     <title>다음 연예 ─ 뉴스 ─ 예능</title>
-    <updated>2023-07-14T19:10:17.730Z</updated>
+    <updated>2023-07-14T20:13:18.946Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[유재석·하하, 멱살 잡고 아웅다웅…"스타일 안 맞아"]]></title>
+        <id>https://v.daum.net/v/20230715044506198</id>
+        <link href="https://v.daum.net/v/20230715044506198"/>
+        <updated>2023-07-14T20:13:06.304Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 노한빈 기자] 방송인 유재석과 하하가 베테랑 '상사맨' 콤비로 활약한다. 15일 방송되는 MBC '놀면 뭐하니?'(연출 김진용 장우성 장효종 왕종석)에서는 폐업하는 문방구의 일일 영업사원이 된 멤버들의 모습이 그려진다. 그중 유재석과 하하는 '무한상사' 때부터 이어져온 '상사맨' 콤비로 반갑게 뭉쳐, 믿고 보는 케미로 웃음을 선사할 예정이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이수근 “김준호, 나한테 무릎 꿇은 적 있어” 둘만의 비밀 폭로]]></title>
         <id>https://v.daum.net/v/20230715020006786</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230715003006509"/>
         <updated>2023-07-14T16:14:49.184Z</updated>
         <content type="html"><![CDATA[[마이데일리 = 임유리 기자] 초2 금쪽이의 행동이 모두를 경악하게 만들었다. 14일 오후 방송된 종합편성채널 채널A ‘요즘 육아 금쪽같은 내 새끼’에는 초등학교 2학년 9세 외동아들인 금쪽이의 사연이 소개됐다. 이날 금쪽이는 학교에서 적극적으로 수업에 참여하다가도 본인의 기분이 나빠지면 친구들에게 거침없이 폭력을 행사하는 모습을 보였다. 이에 교]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“푸바오보다 몸무게 더 나가” 102kg 이장우 강제 소환]]></title>
-        <id>https://v.daum.net/v/20230715002524490</id>
-        <link href="https://v.daum.net/v/20230715002524490"/>
-        <updated>2023-07-14T16:14:49.186Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 배효주 기자] 김광규가 '대세' 푸바오를 영접한 가운데, 102kg 이장우가 강제 소환됐다. 7월 14일 방송된 MBC '나 혼자 산다'에서는 김광규가 골든차일드 장준과 함께 대세 판다 푸바오를 만나는 모습이 담겨 눈길을 끌었다. 함께 에버랜드를 찾아 푸바오를 영접한 김광규는 "나한테는 완전 연예인"이라며 팬심을 드러냈다. 그러면서 "또 언제 볼]]></content>
     </entry>
 </feed>
