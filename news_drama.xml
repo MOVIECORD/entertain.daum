@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-07-14T15:12:26.607Z</updated>
+    <updated>2023-07-14T16:15:00.999Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['악귀' 김태리, "악귀 만든 사람 이름 알아…최만월 찾아라"라는 김신비의 말에 '혼란']]></title>
+        <id>https://v.daum.net/v/20230715010300647</id>
+        <link href="https://v.daum.net/v/20230715010300647"/>
+        <updated>2023-07-14T16:14:43.691Z</updated>
+        <content type="html"><![CDATA[[SBS연예뉴스 | 김효정 에디터] 김신비가 김태리에게 악귀를 만든 존재에 대해 귀띔했다. 14일 방송된 SBS 금토드라마 '악귀'에서는 악귀를 만든 사람의 이름을 알고 있다는 김우진과 만난 구산영의 모습이 그려졌다. 이날 염해상의 집에 가서 아귀 김우진을 만난 구산영은 그가 건넨 상상하지 못한 이야기에 깜짝 놀랐다. 그리고 악귀를 만든 사람이 누구인지 물]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["우리가 죽였어" '악귀' 김해숙, 악귀 만든 배후였다...오정세X김태리 '충격']]></title>
         <id>https://v.daum.net/v/20230714231831050</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230714201332500"/>
         <updated>2023-07-14T12:22:44.476Z</updated>
         <content type="html"><![CDATA[[스타뉴스 | 김지은 인턴기자] /사진='하늘의 인연' 화면 캡처전혜연이 샤인코스메틱 회사에 재입사하며 정우연을 압박했다. 14일 방송된 MBC 일일드라마 '하늘의 인연' 64회에서는 윤솔(전혜연 분)과 강세나(정우연 분)가 신경전을 벌이는 모습이 담겼다. 이날 방송에서 하진우(서한결 분)는 팀원들에 "공지가 올라왔다. '1차 콘테스트에서 재료로 선정된]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['하늘의 인연' 전혜연, 누명 씌운 정우연에 "짐승만도 못한 것한테 걱정 안 해"]]></title>
-        <id>https://v.daum.net/v/20230714194400915</id>
-        <link href="https://v.daum.net/v/20230714194400915"/>
-        <updated>2023-07-14T11:10:22.239Z</updated>
-        <content type="html"><![CDATA[[TV리포트 = 하수나 기자] 전혜연이 자신을 패륜 살인자로 누명을 씌우려했던 정우연에게 따끔한 반격에 나섰다.&nbsp; 14일 MBC 일일드라마 ‘하늘의 인연’에선 윤솔(전혜연 분)이 세나(정우연 분)에게 정정당당하게 겨루자고 말하며 경고했다.&nbsp; 샤인 코스메틱의 2차 콘테스트가 시작된 가운데 1차 콘테스트에서 비겁한 술수를 쓰다가 결국 패배한 세나에게 윤솔은 “]]></content>
     </entry>
 </feed>
