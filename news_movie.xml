@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-07-14T10:13:11.568Z</updated>
+    <updated>2023-07-14T11:10:37.673Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['비공식작전' 하정우·주지훈·김성훈, 척하면 착이다]]></title>
+        <id>https://v.daum.net/v/20230714195826228</id>
+        <link href="https://v.daum.net/v/20230714195826228"/>
+        <updated>2023-07-14T11:10:17.270Z</updated>
+        <content type="html"><![CDATA[[OSEN=김보라 기자] (※이 기사에 스포일러가 있습니다.)&nbsp;열심히 공부해서 외교관이 됐지만 학력이 부족했던 민준(하정우 분)은 승진에서 늘 뒤로 밀린다. 지망하는 국가에 언제쯤 갈 수 있을지 걱정과 불만을 품고 홀로 사무실에 남아있던 그는 선배 오재석(임형국 분)으로부터 외교관들만&nbsp;알 수 있는 암호로&nbsp;‘살아 있다’는 연락을 받는다. 레바논에서 납치·]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[도경수X설경구 부산·대구에 뜬다..'더문' 개봉전 주말 무대인사]]></title>
         <id>https://v.daum.net/v/20230714180950110</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230714155935932"/>
         <updated>2023-07-14T07:11:43.651Z</updated>
         <content type="html"><![CDATA[(엑스포츠뉴스 명희숙 기자) 배우 배성우가 영화 '로비' 출연을 검토 중이다.&nbsp; 배성우 소속사 아티스트컴퍼니 관계자는 14일 엑스포츠뉴스에 "배성우가 영화 '로비' 출연을 제안 받았다. 논의 중"이라고 밝혔다. '로비'는 배우 하정우가 연출하는 작품으로 당초 'OB'라는 가제로 알려졌다. '로비'는 '허삼관' 이후 하정우가 약 8년 만에 연출로 복귀하는 작]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박보영 남편 된 박서준, 얼굴에서 보이는 가장의 책임감]]></title>
-        <id>https://v.daum.net/v/20230714155350747</id>
-        <link href="https://v.daum.net/v/20230714155350747"/>
-        <updated>2023-07-14T07:11:43.652Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 배효주 기자] 박서준이 '콘크리트 유토피아'에서 극한 재난 속 가족을 지키려는 남편으로 분한다. 8월 9일 개봉하는 영화 '콘크리트 유토피아'(감독 엄태화)는 대지진으로 폐허가 되어 버린 서울, 유일하게 남은 황궁 아파트로 생존자들이 모여들며 시작되는 이야기를 그린 재난 드라마다. 극한의 상황에서도 가족을 지키고자 애쓰는 ‘민성’으로 분한 박서]]></content>
     </entry>
 </feed>

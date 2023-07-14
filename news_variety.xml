@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/variety</id>
     <title>다음 연예 ─ 뉴스 ─ 예능</title>
-    <updated>2023-07-14T10:13:11.570Z</updated>
+    <updated>2023-07-14T11:10:37.572Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[우영, 1년 사이 물 오른 예능감…'홍김동전' PD "진짜 이상한 친구"]]></title>
+        <id>https://v.daum.net/v/20230714195003988</id>
+        <link href="https://v.daum.net/v/20230714195003988"/>
+        <updated>2023-07-14T11:10:27.020Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 황수연 기자) '홍김동전' 멤버들이 우영의 물 오른 예능감을 언급했다.&nbsp; 14일 서울 여의도 KBS아트홀에서 KBS 2TV 예능프로그램 '홍김동전' 1주년 기자간담회가 진행됐다. 이 자리에는 홍진경, 김숙, 조세호, 주우재, 우영과 박인석PD가 참석했다.&nbsp; 매주 목요일 방송되는 '홍김동전'은 홍진경, 김숙, 조세호, 주우재, 우영이 동전으로]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[천러만? 매니저도 한 마음으로 제노 속이기..“마지막으로 들은 노래? ‘어머나’”]]></title>
         <id>https://v.daum.net/v/20230714185816125</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230714171002371"/>
         <updated>2023-07-14T08:14:50.660Z</updated>
         <content type="html"><![CDATA[(엑스포츠뉴스 김유진 기자) 개그맨 김병만이 실제 부상을 입는 경험을 겪으면서도 새로운 도전을 멈추지 않는 이유를 밝혔다. 14일 오후 서울 마포구 상암동 스탠포드호텔 서울에서 MBN 예능 '경비행기 힐링 어드벤처-떴다! 캡틴 킴'(이하 '떴다! 캡틴 킴') 제작발표회가 열렸다. 이 자리에는 김병만, 박성광, 정일우, 박은석, 서동주가 참석했다. '떴다!]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[1주년 맞은 '홍김동전', 시청률 아쉬움 디딜 끈끈한 멤버 케미]]></title>
-        <id>https://v.daum.net/v/20230714170349182</id>
-        <link href="https://v.daum.net/v/20230714170349182"/>
-        <updated>2023-07-14T08:14:50.663Z</updated>
-        <content type="html"><![CDATA[[서울경제] '홍김동전'이 어느덧 1주년을 맞았다. 멤버들의 끈끈한 케미로 탄탄한 마니아층을 보유하고 있는 프로그램이 시청률의 아쉬움을 딛고 앞으로 나아갈 수 있을지 관심을 모은다. 14일 오후 서울 영등포구 KBS아트홀에서 KBS2 예능프로그램 '홍김동전' 1주년 기자간담회가 진행됐다. 박인석 PD를 비롯해 방송인 홍진경, 김숙, 조세호, 주우재, 가수]]></content>
     </entry>
 </feed>
