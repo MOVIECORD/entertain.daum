@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-07-14T16:15:00.999Z</updated>
+    <updated>2023-07-14T17:11:19.644Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['악귀' 오정세, "우리 집안이 이 아이를 죽인 거냐?"…김태리와 악귀에 대한 진실 알고 '충격']]></title>
+        <id>https://v.daum.net/v/20230715015401767</id>
+        <link href="https://v.daum.net/v/20230715015401767"/>
+        <updated>2023-07-14T17:11:00.696Z</updated>
+        <content type="html"><![CDATA[[SBS연예뉴스 | 김효정 에디터] 김태리와 오정세는 악귀를 없앨 수 있을까? 14일 방송된 SBS 금토드라마 '악귀'에서는 악귀를 만들어낸 정체와 마주한 염해상과 구산영의 모습이 그려졌다. 이날 염해상은 태어나기도 전에 사망한 동생이 있었음을 알게 됐고, 자신의 동생도 구산영의 동생처럼 안타까운 죽임을 당했을지도 모른다고 직감했다. 그리고 이목단을 살해한]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['악귀' 김태리, "악귀 만든 사람 이름 알아…최만월 찾아라"라는 김신비의 말에 '혼란']]></title>
         <id>https://v.daum.net/v/20230715010300647</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230714203606845"/>
         <updated>2023-07-14T12:22:44.474Z</updated>
         <content type="html"><![CDATA[(엑스포츠뉴스 김나연 기자) '비밀의 여자' 최윤영이 도망가려는 이명호를 찾은 가운데 이종원이 이를 방해했다. 14일 방송된 KBS 2TV '비밀의 여자'에서는 정겨울(최윤영 분)이 도망가려는 편상국 비서(이명호)를 찾은 장면이 전파를 탔다. 이날 편상국은 "정현태(최재성)의 죽음에 관여했냐"는 남만중(임혁)의 물음에 "무슨 말씀이시냐. 그런 적 없다. 사]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['하늘의 인연' 전혜연 재입사 성공→정우연 '전전긍긍']]></title>
-        <id>https://v.daum.net/v/20230714201332500</id>
-        <link href="https://v.daum.net/v/20230714201332500"/>
-        <updated>2023-07-14T12:22:44.476Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 | 김지은 인턴기자] /사진='하늘의 인연' 화면 캡처전혜연이 샤인코스메틱 회사에 재입사하며 정우연을 압박했다. 14일 방송된 MBC 일일드라마 '하늘의 인연' 64회에서는 윤솔(전혜연 분)과 강세나(정우연 분)가 신경전을 벌이는 모습이 담겼다. 이날 방송에서 하진우(서한결 분)는 팀원들에 "공지가 올라왔다. '1차 콘테스트에서 재료로 선정된]]></content>
     </entry>
 </feed>
