@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-07-14T02:56:44.562Z</updated>
+    <updated>2023-07-14T03:24:14.638Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[美배우 파업 예고, 현지매체 "피해액 5조원 넘을 수도" 전망]]></title>
+        <id>https://v.daum.net/v/20230714121911682</id>
+        <link href="https://v.daum.net/v/20230714121911682"/>
+        <updated>2023-07-14T03:24:13.805Z</updated>
+        <content type="html"><![CDATA[[티브이데일리 김종은 기자] SAG-AFTRA(미국 배우·방송인 노동조합)이 총 파업에 돌입한다. SAG-AFTRA 측은 13일(현지시간) "AMPTP(영화·TV 제작자 연합)과 계약 협상이 결렬됨에 따라 14일 0시부터 파업에 들어간다"라고 밝혔다. 이들은 앞서 지난 5월 2일부터 전면 파업에 돌입한 WGA(미국 작가 조합)에 합류, 디즈니·넷플릭스·아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[배우들 파업에 할리우드 마비 위기…"경제손실 5조원 넘을 것"]]></title>
+        <id>https://v.daum.net/v/20230714120553417</id>
+        <link href="https://v.daum.net/v/20230714120553417"/>
+        <updated>2023-07-14T03:24:13.820Z</updated>
+        <content type="html"><![CDATA[(로스앤젤레스=연합뉴스) 임미나 특파원 = 할리우드 배우들이 13일(현지시간) 파업에 돌입하겠다고 선언하면서 미국뿐 아니라 전 세계 영화 산업이 큰 타격을 받을 것으로 전망된다. 미 작가조합(WGA)이 이미 두 달 넘게 파업을 벌이고 있는 상황에서 배우들까지 가세하면서 할리우드는 거의 마비될 위기에 놓여 있다. 협상 당사자인 배우·작가 단체와 영화·TV 대]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[일본서 가장 '핫한 남자' 랭킹에 '하이브 아이돌' 들어갔다]]></title>
         <id>https://v.daum.net/v/20230714115030961</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230713232002662"/>
         <updated>2023-07-13T15:13:07.687Z</updated>
         <content type="html"><![CDATA[(엑스포츠뉴스 오승현 기자) 배우 톰 홀랜드가 할리우드에 대한 솔직한 생각을 밝혔다. 지난 10일 채널 'Jay Shetty Podcast'에는 할리우드 배우 톰 홀랜드의 인터뷰가 담긴 팟캐스트 영상이 공개됐다. 이날 톰 홀랜드는 할리우드와 영화 사업에 대해 "난 영화 만드는 것에 미친 광팬이지만, 솔직히 할리우드를 좋아하지 않는다. 영화적인 작업이 정말]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[주윤발, 코로나19 판정  건강이상설…"뇌졸중으로 혼수상태"]]></title>
-        <id>https://v.daum.net/v/20230713222611236</id>
-        <link href="https://v.daum.net/v/20230713222611236"/>
-        <updated>2023-07-13T14:11:53.038Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 오승현 기자) 홍콩 배우 주윤발(저우룬파, 周潤發)의 건강 이상설이 불거졌다. 13일 중국 연예매체 시나 채널을 비롯한 몇몇 홍콩 언론에 따르면 주윤발은 지난 6일 뇌졸중으로 인한 혼수상태에 빠졌다는 건강 이상설에 휩싸였다. 주윤발은 최근 자신이 출연한 영화 '별규아도신(别叫我赌神)' 홍보 일정에 참여해 건강한 근황을 전했다. 특히 그는 해당]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['닮은 꼴' 마고 로비·에마 매키...'바비' 캐스팅 된 이유]]></title>
-        <id>https://v.daum.net/v/20230713220030898</id>
-        <link href="https://v.daum.net/v/20230713220030898"/>
-        <updated>2023-07-13T13:22:37.811Z</updated>
-        <content type="html"><![CDATA[[TV리포트=이수연 기자] 국내에서도 유명한 도플갱어, 배우 마고 로비와 에마 매키가 드디어 한 작품에서 만난다. 마고 로비는 '정형화된 바비', 에마 매키는 '노벨 물리학상 수상자 바비'로 두 배우 모두 '바비'로 분해 호흡을 맞춘다. 이 가운데 마고 로비가 한 인터뷰에서 두 사람의 비슷한 외모에 대해 언급해 주목을 받고 있다. 마고 로비는 지난 10일]]></content>
     </entry>
 </feed>
