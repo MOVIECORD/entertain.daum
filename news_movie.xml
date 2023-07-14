@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-07-14T11:10:37.673Z</updated>
+    <updated>2023-07-14T12:23:01.296Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["아컴 의리"..'음주운전' 배성우, 하정우가 품었다]]></title>
+        <id>https://v.daum.net/v/20230714204054950</id>
+        <link href="https://v.daum.net/v/20230714204054950"/>
+        <updated>2023-07-14T12:22:39.408Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 | 이승훈 기자]  배우 배성우 /사진=이기범 기자 leekb@음주운전으로 벌금 700만원을 선고받은 배우 배성우가 다시 한번 한국 영화계의 문을 두드린다. 14일 스타뉴스 단독 취재 결과, 배성우는 하정우가 연출하는 영화 '로비'에 출연한다. 두 사람은 소속사 아티스트컴퍼니에서 한솥밥을 먹었던 사이로 하정우는 지난 2018년 9월 전속계약이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['비공식작전' 하정우·주지훈·김성훈, 척하면 착이다]]></title>
         <id>https://v.daum.net/v/20230714195826228</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230714160039003"/>
         <updated>2023-07-14T07:11:43.649Z</updated>
         <content type="html"><![CDATA[배우 배성우(51)가 하정우가 감독 겸 배우로 참여하는 영화 ‘로비’에 출연한다. 14일 배성우 소속사  아티스트컴퍼니는 매일경제 스타투데이에 “배성우가 하정우 연출 영화 ‘로비’에 출연 제안을 받고 현재 검토 중”이라고 입장을 밝혔다. ‘로비’는 당초 ‘OB’라는 제목으로 알려졌었다. 2015년 개봉한 영화 ‘허삼관’ 이후 하정우가 약 8년 만에 감독으로]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['음주운전' 배성우, 하정우 연출 '로비' 출연하나 "논의 중"]]></title>
-        <id>https://v.daum.net/v/20230714155935932</id>
-        <link href="https://v.daum.net/v/20230714155935932"/>
-        <updated>2023-07-14T07:11:43.651Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 명희숙 기자) 배우 배성우가 영화 '로비' 출연을 검토 중이다.&nbsp; 배성우 소속사 아티스트컴퍼니 관계자는 14일 엑스포츠뉴스에 "배성우가 영화 '로비' 출연을 제안 받았다. 논의 중"이라고 밝혔다. '로비'는 배우 하정우가 연출하는 작품으로 당초 'OB'라는 가제로 알려졌다. '로비'는 '허삼관' 이후 하정우가 약 8년 만에 연출로 복귀하는 작]]></content>
     </entry>
 </feed>
