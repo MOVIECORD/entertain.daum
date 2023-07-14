@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-07-14T21:10:30.443Z</updated>
+    <updated>2023-07-14T22:12:10.987Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[원하는 장르 다 있다…여름 韓영화 '핵심 키워드 6']]></title>
+        <id>https://v.daum.net/v/20230715070005020</id>
+        <link href="https://v.daum.net/v/20230715070005020"/>
+        <updated>2023-07-14T22:11:46.527Z</updated>
+        <content type="html"><![CDATA[[스포티비뉴스=강효진 기자] 올 여름 시장을 사로잡기 위해 중무장한 한국 영화 여섯 편이 관객들의 선택을 기다리고 있다. 장르도 각양각색, 취향 따라 골라잡을 수 있는 6편의 작품이 예고한 핵심 키워드를 짚어봤다. #밀수 : 범죄오락 규모 있는 한국 상업영화 중 가장 먼저 스타트를 끊는 것은 오는 26일 개봉하는 NEW의 '밀수'(감독 류승완)다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[조여정X정성일 호흡→유지태, 조혜정 손잡고 영화감독 컴백]]></title>
+        <id>https://v.daum.net/v/20230715070001013</id>
+        <link href="https://v.daum.net/v/20230715070001013"/>
+        <updated>2023-07-14T22:11:46.528Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 | 김미화 기자] /사진=넷플릭스 ○...배우 조여정과 정성일이 넷플릭스 영화 '인터뷰'(감독 조영준)로 호흡한다. '인터뷰'는 최근 캐스팅을 완료, 오는 17일 크랭크인 한다. 영화 '인터뷰'는 특종이 간절한 베테랑 기자 '선주'(조여정 분)에게 무려 열 한 명을 살해한 전대미문 연쇄살인범 '영훈'(정성일 분)'이 특별한 인터뷰를 제안하면서 벌]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['밀수' 류승완, 텐트폴 영화 첫 주자 나선다…그의 성공과 실패史]]></title>
         <id>https://v.daum.net/v/20230715060102664</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230714165853016"/>
         <updated>2023-07-14T08:14:39.599Z</updated>
         <content type="html"><![CDATA[[스포티비뉴스=유은비 기자] 영화 '끝까지 간다', '터널', 넷플릭스 시리즈 '킹덤'의 김성훈 감독 연출, 연기력과 검증된 버디 케미를 선보이는 하정우, 주지훈 주연으로 화제를 모은 영화 '비공식작전'이 무대인사를 확정했다. 실종된 동료를 구하기 위해 레바논으로 떠난 외교관 ‘민준’과 현지 택시기사 ‘판수’의 버디 액션 영화 '비공식작전'은 오는 2]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[감독 하정우, 음주운전 배성우 캐스팅? “‘로비’ 출연 논의 중”]]></title>
-        <id>https://v.daum.net/v/20230714163313219</id>
-        <link href="https://v.daum.net/v/20230714163313219"/>
-        <updated>2023-07-14T08:14:39.599Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 배효주 기자] 음주운전으로 물의를 빚고 자숙 중인 배성우가 하정우 연출작 출연 제안을 받고 검토 중이다. 하정우가 연출하는 영화 '로비' 제작을 맡은 워크하우스컴퍼니 측 관계자는 7월 14일 뉴스엔에 배성우 캐스팅과 관련, "출연 제안을 드린 것은 맞고 논의 중"이라며 "올해 안으로 캐스팅이 정리되면 촬영에 돌입할 예정"이라고 전했다. 하정우가]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['미션 임파서블7' 이틀 연속 압도적 1위…누적 55만 관객 돌파]]></title>
-        <id>https://v.daum.net/v/20230714162957083</id>
-        <link href="https://v.daum.net/v/20230714162957083"/>
-        <updated>2023-07-14T08:14:39.599Z</updated>
-        <content type="html"><![CDATA[[스포츠한국 조은애 기자] '미션 임파서블: 데드 레코닝 PART ONE'(이하 '미션 임파서블7')이 이틀 연속 극장가 선두를 달렸다. 14일 영진위 통합전산망 집계에 따르면 '미션 임파서블7'은 전날&nbsp;16만2723명의 관객을 동원하며 박스오피스 1위를 차지했다. 누적 관객 수는&nbsp;55만9270명이다. '미션 임파서블7'은 모든 인류를 위협할 새]]></content>
     </entry>
 </feed>
