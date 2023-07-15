@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2023-07-15T06:14:43.273Z</updated>
+    <updated>2023-07-15T07:11:02.396Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[제니, 번아웃→잦은 부상으로 '속상'…무대 뒤 속사정 밝혔다]]></title>
+        <id>https://v.daum.net/v/20230715151808567</id>
+        <link href="https://v.daum.net/v/20230715151808567"/>
+        <updated>2023-07-15T07:10:55.968Z</updated>
+        <content type="html"><![CDATA[[스포츠조선닷컴 이게은기자] 그룹 블랙핑크 제니가 무대 뒤 속사정에 대해 밝혔다. 제니는 지난 14일(현지시간) 공개된 영국 출신 팝스타 두아 리파의 BBC 팟캐스트에 출연했다. 제니는 데뷔 당시를 떠올리며 "데뷔 후 난 랩을 했다. 근데 은연중에 내가 랩보다 노래하는 걸 더 좋아한다는 걸 깨닫고 혼란스러웠다. 회사에서 래퍼가 돼야한다고 해서]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[故최진실 子 최환희, 외조모-동생 갈등에 “내 책임, 가정사로 심려끼쳐 사과”]]></title>
+        <id>https://v.daum.net/v/20230715151624548</id>
+        <link href="https://v.daum.net/v/20230715151624548"/>
+        <updated>2023-07-15T07:10:55.969Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 박수인 기자] 배우 고(故) 최진실의 아들 최환희(지플랫)가 외할머니와 동생 최준희의 갈등에 대신 사과했다. 최환희는 7월 15일 개인 SNS에 "얼마전 일어난 저희 가정의 불미스러운 일로 저희 어머니를 사랑하고 아껴주시며 지금까지도 추억으로 기억해 주시는 모든 분들께 심려를 끼쳐 드린 점에 대해 깊게 사과 드리는 것이 저의 도리인것 같아 이렇게]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[최환희 “동생 최준희 미성숙, 내가 보살필 것”]]></title>
         <id>https://v.daum.net/v/20230715151006474</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230715142101915"/>
         <updated>2023-07-15T06:14:37.451Z</updated>
         <content type="html"><![CDATA[고(故) 최진실 아들 최환희가 동생 최준희와 외할머니 사이에 벌어진 일련의 논란에 대해 사과했다. 최환희는 15일 자신의 SNS에 장문의 글을 올렸다. 그는 “故 최진실의 아들이자, 할머니의 손자이자, 최준희의 오빠인 최환희”라고 자신을 소개하며 “얼마전 일어난 저희 가정의 불미스러운 일로 저희 어머니를 사랑하고 아껴주시며 지금까지도 추억으로 기억해 주시는]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["불미스러운 일, 모두 가장인 내 책임" 최환희, 동생 최준희 논란에 사과]]></title>
-        <id>https://v.daum.net/v/20230715142029907</id>
-        <link href="https://v.daum.net/v/20230715142029907"/>
-        <updated>2023-07-15T06:14:37.453Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 황수연 기자) 故 최진실의 아들이자 가수 지플랫 최환희가 외조모와 여동생 간의 갈등에 대해 직접 입을 열었다.&nbsp; 15일 최환희는 "얼마 전 일어난 저희 가정의 불미스러운 일로 저희 어머니를 사랑하고 아껴주시며 지금까지도 추억으로 기억해 주시는 모든 분들께 심려를 끼쳐 드린 점에 대해 깊게 사과드리는 것이 저의 도리인 것 같아 이렇게 조심스럽게]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[최환희 "미성숙한 동생 최준희…모든 것 내 책임"]]></title>
-        <id>https://v.daum.net/v/20230715141509851</id>
-        <link href="https://v.daum.net/v/20230715141509851"/>
-        <updated>2023-07-15T06:14:37.457Z</updated>
-        <content type="html"><![CDATA[故 최진실 아들 최환희(활동명 지플랫)가 여동생 최준희와 외할머니 사이 갈등에 대한 입장을 밝혔다. 15일 최환희는 자신의 SNS에 "얼마전 일어난 우리 가정의 불미스러운 일로 우리 어머니를 사랑하고 아껴주시며 지금까지도 추억으로 기억해 주시는 모든 분들께 심려를 끼쳐 드린 점에 대해 깊게 사과 드리는 것이 도리인 것 같다"며 글을 남겼다. 최환희는]]></content>
     </entry>
 </feed>
