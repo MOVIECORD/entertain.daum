@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-07-15T05:12:02.434Z</updated>
+    <updated>2023-07-15T06:14:43.271Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘아씨 두리안’ 전생 원수지간 최명길 김민준, 돈독한 母子로 만나다니]]></title>
+        <id>https://v.daum.net/v/20230715150505425</id>
+        <link href="https://v.daum.net/v/20230715150505425"/>
+        <updated>2023-07-15T06:14:25.595Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 박수인 기자] '아씨 두리안' 최명길, 김민준 모자(母子)가 독대한다. TV CHOSUN 주말미니시리즈 ‘아씨 두리안’(극본 피비(Phoebe, 임성한)/연출 신우철, 정여진/제작 바른손스튜디오, 하이그라운드) 지난 방송에서는 두리안과 김소저가 분노한 이은성(한다감)에게 쫓겨나 단치정(지영산)과 백도이(최명길)의 집으로 거처를 옮기는 모습이 펼쳐]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['악귀' 김태리, 父진선규 유전병 탓 실명되나 '최악의 위기']]></title>
+        <id>https://v.daum.net/v/20230715143819117</id>
+        <link href="https://v.daum.net/v/20230715143819117"/>
+        <updated>2023-07-15T06:14:25.601Z</updated>
+        <content type="html"><![CDATA[[OSEN=하수정 기자] SBS ‘악귀’에 끔찍한 충격 진실, 그 후폭풍이 몰아친다. 유전병을 알게 된 김태리와 넋을 잃고 쓰러진 오정세, 두 사람에게 절정의 위기가 예고됐다. SBS 금토드라마 ‘악귀’(극본 김은희, 연출 이정림, 제작 스튜디오S, BA엔터테인먼트) 측이 선공개한 예고 영상을 통해 산영(김태리)이 시력 검사를 받고 있는 장면이 드러났다]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[끔찍한 천민자본주의에 일침 날린 김은희 작가의 다음 수는?]]></title>
         <id>https://v.daum.net/v/20230715140856793</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230715111209017"/>
         <updated>2023-07-15T02:58:17.542Z</updated>
         <content type="html"><![CDATA[[OSEN=박소영 기자] 강길우가 SBS ‘악귀’에 첫 등장, 안방극장에 숨을 죽이게 만드는 긴장감을 불어넣었다. SBS 금토드라마 ‘악귀(惡鬼)’(극본 김은희, 연출 이정림, 제작 스튜디오S, BA엔터테인먼트)는 악귀에 씐 여자와 그 악귀를 볼 수 있는 남자가 의문의 죽음을 파헤치는 한국형 오컬트 미스터리 드라마. 절정을 향해가는 미스터리와 함께 중반]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘아씨 두리안’ 박주미, 전생 남편과 똑닮은 지영산에 불편한 기색]]></title>
-        <id>https://v.daum.net/v/20230715103147448</id>
-        <link href="https://v.daum.net/v/20230715103147448"/>
-        <updated>2023-07-15T02:58:17.542Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 박수인 기자] '아씨 두리안' 박주미, 지영산의 산책 플러팅 현장이 공개된다. TV CHOSUN 주말미니시리즈 ‘아씨 두리안’(극본 피비(Phoebe, 임성한)/연출 신우철, 정여진/제작 바른손스튜디오, 하이그라운드) 6회에서는 두리안과 김소저가 분노한 이은성(한다감)에게 쫓겨나 단치정(지영산)과 백도이(최명길)의 집으로 거처를 옮기는 모습이 담]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['킹더랜드' 이준호♥임윤아, 키스 후 찾아온 후폭풍]]></title>
-        <id>https://v.daum.net/v/20230715102917403</id>
-        <link href="https://v.daum.net/v/20230715102917403"/>
-        <updated>2023-07-15T02:58:17.542Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 황수연 기자) 이준호, 임윤아에게 키스 후 후폭풍이 몰려온다. 15일 방송되는 JTBC 토일드라마 ‘킹더랜드’ 9회에서는 연애가 어려운 구원(이준호 분)과 천사랑(임윤아)이 첫 번째 난관을 마주한다. 지난 방송 말미 구원은 고백을 하기 위해 천사랑 만을 위한 레스토랑을 열었다. 정성을 담은 서비스로 천사랑을 감동케 했지만 요리 도중 불길이 치]]></content>
     </entry>
 </feed>
