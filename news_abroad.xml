@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-07-15T08:14:23.040Z</updated>
+    <updated>2023-07-15T09:11:14.935Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[에밀리 블런트 과한 보톡스 시술 의혹 “필러의 여왕 마돈나와 닮아”]]></title>
+        <id>https://v.daum.net/v/20230715171648294</id>
+        <link href="https://v.daum.net/v/20230715171648294"/>
+        <updated>2023-07-15T09:11:14.107Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 박수인 기자] 할리우드 배우 에밀리 블런트(Emily Blunt)가 과도한 보톡스 시술 의혹을 받고 있다. 7월 14일(현지시간) 미국 연예 매체 페이지식스는 에밀리 블런트가 최근 눈에 띄게 주름이 없는 피부로 일부 팬들의 실망감을 자아내고 있다고 보도했다. 보도에 따르면 팬들 중 일부는 "나만 그런가? 아니면 에밀리 블런트 얼굴이 달라 보이나?]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[로버트 드 니로 41세 연하 연인 "출산 후 안면 기능 잃었다"]]></title>
         <id>https://v.daum.net/v/20230715165025940</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230714204030941"/>
         <updated>2023-07-14T12:23:00.517Z</updated>
         <content type="html"><![CDATA[[TV리포트=안수현 기자] 홍콩 배우 나가량(60)과 그의 아내는 전처와 좋은 관계를 유지하고 있다. 나가량의 전 부인인 클레어 퐁이 최근 소셜 네트워크 서비스 속 사진에 등장해 네티즌의 이목을 끌었다. 현재 중국에 거주하고 있는 나가량은 1998년부터 2008년까지 클레어 퐁과 결혼 생활을 유지했다. 보도에 따르면 둘은 TVB 방송국에서 함께 일하면서 만]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[유덕화, 갑질 논란...홍콩 기자 "전화로 20분간 고함지르며 협박"]]></title>
-        <id>https://v.daum.net/v/20230714202030606</id>
-        <link href="https://v.daum.net/v/20230714202030606"/>
-        <updated>2023-07-14T12:23:00.518Z</updated>
-        <content type="html"><![CDATA[[TV리포트=안수현 기자] 홍콩의 한 기자가 배우 유덕화(61)가 자신에게 20분간 소리를 지르며 협박했다고 주장했다. 최근 홍콩의 'Zhu Pi(주피)'라는 이름의 기자가 중국 소셜 플랫폼 '도우인'에 동영상 하나를 게시했다. 주피는 해당 영상에서 유덕화가 자신에게 전화를 걸어 고함을 질렀다고 주장했다. 주피에 따르면 그는 몇 년 전 유덕화로부터 예상치]]></content>
     </entry>
 </feed>
