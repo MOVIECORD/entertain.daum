@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-07-16T07:10:52.830Z</updated>
+    <updated>2023-07-16T08:14:04.418Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이준호♥임윤아, 짜릿한 비밀연애…몰래 손잡고 달달 눈맞춤]]></title>
+        <id>https://v.daum.net/v/20230716164712554</id>
+        <link href="https://v.daum.net/v/20230716164712554"/>
+        <updated>2023-07-16T08:13:46.485Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 박서연 기자] ‘킹더랜드’ 이준호, 임윤아가 달콤하고 스릴 넘치는 비밀 연애를 즐긴다. 16일 밤 10시 30분에 방송되는 종합편성채널 JTBC 토일드라마 ‘킹더랜드’(극본 최롬(팀 하리마오) 연출 임현욱)에서는 킹호텔 본부장 구원(이준호)과 킹그룹 1등 사원 천사랑(임윤아), 오평화(고원희), 강다을(김가은), 노상식(안세하)의 유쾌발랄]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["구분이 사라진다" 연극·뮤지컬↔드라마·영화 오가는 배우들]]></title>
         <id>https://v.daum.net/v/20230716160101601</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230716113048952"/>
         <updated>2023-07-16T03:07:12.108Z</updated>
         <content type="html"><![CDATA[[뉴스엔 하지원 기자] 김신비가 SBS ‘악귀’에서 다방면으로 활약하며 존재감을 뽐냈다. SBS 금토드라마 ‘악귀’에서 김신비는 오정세(염해상 역)의 동거인 김우진으로 첫 등장했다. 이후 아귀라는 정체가 밝혀짐과 동시에 소용돌이치는 사건 속 키플레이어 역할까지 열혈 활약으로 이목을 집중시키고 있다. 이에 지금까지 그의 활약을 짚어봤다. #염해상의 츤데레]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['나쁜 엄마' 박천 "라미란→이도현, 총성 없는 연기 전쟁터"]]></title>
-        <id>https://v.daum.net/v/20230716113019943</id>
-        <link href="https://v.daum.net/v/20230716113019943"/>
-        <updated>2023-07-16T03:07:12.108Z</updated>
-        <content type="html"><![CDATA[[OSEN=장우영 기자] 배우 박천이 ‘나쁜 엄마’가 총성 없는 전쟁터였다고 전했다. JTBC 수목드라마 ‘나쁜 엄마’(극본 극본 배세영, 연출 심나연)는 자식을 위해 악착같이 나쁜 엄마가 될 수 밖에 없었던 진영순(라미란)과 아이가 되어버린 아들 최강호(이도현)가 잃어버린 행복을 찾아가는 감동의 힐링 코미디를 그린 작품이다. 첫 방송 시청률 3.6%(]]></content>
     </entry>
 </feed>
