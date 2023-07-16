@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-07-16T05:11:44.184Z</updated>
+    <updated>2023-07-16T06:14:56.188Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“딴 남자와 손잡고 키스 절대 안돼”, 인어공주 할리 베일리 남친 질투 폭발]]></title>
+        <id>https://v.daum.net/v/20230716145612604</id>
+        <link href="https://v.daum.net/v/20230716145612604"/>
+        <updated>2023-07-16T06:14:55.359Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]래퍼 DDG(24)가 여친인 ‘인어공주’ 할리 베일리(23)를 노래로 저격했다. 영화에서 조나 하우어-킹과 키스했다는 이유에서다. 15일(현지시간) 연예매체 피플에 따르면, DDG는 신곡 ‘페이머스(famous)’에서 베일리가 다른 남자 배우와 상호작용으로 얻은 명성을 “불안한” 느낌으로 표현했다. 노래의 한 부분에서 베일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[로버트 드 니로 41세 연하 여친 “딸 낳고 얼굴 녹아내려” 후유증 고백]]></title>
         <id>https://v.daum.net/v/20230716133356103</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230715160639264"/>
         <updated>2023-07-15T07:11:01.626Z</updated>
         <content type="html"><![CDATA[[뉴스엔 박수인 기자] 할리우드 배우 맷 데이먼(Matt Damon)이 과거 영화 촬영 중 우울증에 빠진 적 있다고 고백했다. 맷 데이먼은 최근 영화 '오펜하이머' 개봉을 앞두고 진행한 한 인터뷰를 통해 자신이 기대했던 것처럼 잘 진행되지 않는 영화 촬영 도중 "스스로에게 '난 뭘 했나?' 물었다"고 회상했다. 맷 데이먼이 자신감이 없었던 당시를 돌아보며]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[크리스토퍼 놀란, “절대 영화 안만들겠다” 선언 “왜?”]]></title>
-        <id>https://v.daum.net/v/20230715145758345</id>
-        <link href="https://v.daum.net/v/20230715145758345"/>
-        <updated>2023-07-15T06:14:42.499Z</updated>
-        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]세계적 거장 크리스토퍼 놀란 감독이 배우 파업이 해결될때까지 영화를 만들지 않겠다고 말했다. 그는 14일(현지시간) BBC와 인터뷰에서 “파업이 끝날때까지 절대 영화를 만들지 않겠다”고 발혔다. 놀란 감독은 파업이 시작되기 직전에 영화 시사회가 열렸기 때문에 ‘오펜하이머’가 업계 구성원들의 작업 중단에 영향을 받지 않을 것]]></content>
     </entry>
 </feed>
