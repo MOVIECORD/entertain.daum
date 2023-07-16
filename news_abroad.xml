@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-07-16T06:14:56.188Z</updated>
+    <updated>2023-07-16T07:10:52.833Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“AI가 일자리를 뺏어갔다” 크리스토퍼 놀란 감독·맷 데이먼 등 할리우드 배우-작가, 동반파업]]></title>
+        <id>https://v.daum.net/v/20230716161000837</id>
+        <link href="https://v.daum.net/v/20230716161000837"/>
+        <updated>2023-07-16T07:10:52.088Z</updated>
+        <content type="html"><![CDATA[[스포츠서울 | 유다연인턴기자] 세계 최대 영화 및 방송을 제작하는 미국 할리우드가 가동을 멈췄다. 14일(현지시간) 미국 배우·방송인 노동조합(SAG-AFTRA)은 파업을 선언하며, 지난 5월부터 이어진 미국작가조합(WGA)과 연대했다. SAG-AFTRA와 WGA의 동시 파업은 1960년 로널드 레이건 미 전 대통령이 노동조합장을 맡고 마릴린 먼로가]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“딴 남자와 손잡고 키스 절대 안돼”, 인어공주 할리 베일리 남친 질투 폭발]]></title>
         <id>https://v.daum.net/v/20230716145612604</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230715165025940"/>
         <updated>2023-07-15T08:14:22.128Z</updated>
         <content type="html"><![CDATA[[OSEN=선미경 기자] 할리우드 배우 로버트 드 니로의 41세 연하 연인 티파니 첸이 러브스토리를 공개했다. 14일(현지시각) 외신 보도에 따르면 티파니 첸은 지난 금요일 CBS 모닝과의 인터뷰에서 로버트 드 니로와 사랑에 빠지게 된 과정을 언급했다. 티파니 첸은 올해 초 로버트 드 니로와의 사이에서 딸 지아를 맞았다. 로버트 드 니로와 티파니 첸은]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[맷 데이먼 “과거 영화 촬영 중 우울증에 빠져, 역할 기대와 달랐다”]]></title>
-        <id>https://v.daum.net/v/20230715160639264</id>
-        <link href="https://v.daum.net/v/20230715160639264"/>
-        <updated>2023-07-15T07:11:01.626Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 박수인 기자] 할리우드 배우 맷 데이먼(Matt Damon)이 과거 영화 촬영 중 우울증에 빠진 적 있다고 고백했다. 맷 데이먼은 최근 영화 '오펜하이머' 개봉을 앞두고 진행한 한 인터뷰를 통해 자신이 기대했던 것처럼 잘 진행되지 않는 영화 촬영 도중 "스스로에게 '난 뭘 했나?' 물었다"고 회상했다. 맷 데이먼이 자신감이 없었던 당시를 돌아보며]]></content>
     </entry>
 </feed>
