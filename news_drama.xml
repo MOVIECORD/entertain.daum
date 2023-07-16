@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-07-16T19:09:43.642Z</updated>
+    <updated>2023-07-16T20:11:48.672Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['킹더랜드' 이준호, ♥임윤아에 가족사 고백 "누나와 이복형제+母 실종"]]></title>
+        <id>https://v.daum.net/v/20230717045001368</id>
+        <link href="https://v.daum.net/v/20230717045001368"/>
+        <updated>2023-07-16T20:11:31.094Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 | 정은채 기자] /사진='킹더랜드' 방송화면 캡쳐'킹더랜드' 배우 이준호가 가정사를 고백했다. 16일 오후 방송된 JTBC '킹더랜드'에서는 구원(이준호 분)과 천사랑(임윤아 분)이 태국 여행을 즐기는 데 이어 속내를 나누는 모습이 그려졌다. 이날 구원과 천사랑은 포상휴가로 킹 그룹의 계열사의 킹 에어 승무원 오평화(고원희 분), 킹유통 계]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이준호♥임윤아, 밀회 키스로 가득한 여행.."사랑해"]]></title>
         <id>https://v.daum.net/v/20230717005025576</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230716203950606"/>
         <updated>2023-07-16T12:20:36.803Z</updated>
         <content type="html"><![CDATA[백진희가 안재현의 사랑 고백을 받고 사라졌다. 7월 16일 방송된 KBS 2TV 주말드라마 ‘진짜가 나타났다!’ 34회(극본 조정주/연출 한준서)에서 오연두(백진희 분)는 공태경(안재현 분)에게 편지를 남기고 가출했다. 오연두는 모친 강봉님(김혜옥 분)에게 “엄마 나 부탁이 있어. 공태경씨 좀 만나고 올게. 가서 헤어지자고 할 거야”라고 말해 핸드폰을]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['진짜가' 백진희, 돌연 지방行 "좋은 엄마 될게..찾지 마"]]></title>
-        <id>https://v.daum.net/v/20230716203639562</id>
-        <link href="https://v.daum.net/v/20230716203639562"/>
-        <updated>2023-07-16T12:20:36.808Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 | 이시호 기자] /사진=KBS2 '진짜가 나타났다!' 방송 화면 캡처 '진짜가 나타났다!' 배우 백진희가 편지를 남기고 잠적했다. 16일 오후 방송된 KBS 2TV 주말드라마 '진짜가 나타났다!'에서는 오연두(백진희 분)가 홀연히 사라져버렸다. 이날 오연두는 공태경(안재현 분)과의 바다 데이트를 마친 뒤 버스 터미널로 향했다. 오연두는]]></content>
     </entry>
 </feed>
