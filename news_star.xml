@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2023-07-16T16:14:14.673Z</updated>
+    <updated>2023-07-16T17:10:33.002Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['미우새' 김준호, "녹화 중 무대에서 X 싼 적 있다…심지어 3번이나" 충격 고백]]></title>
+        <id>https://v.daum.net/v/20230717012700722</id>
+        <link href="https://v.daum.net/v/20230717012700722"/>
+        <updated>2023-07-16T17:10:27.018Z</updated>
+        <content type="html"><![CDATA[[SBS연예뉴스 | 김효정 에디터] 김준호가 충격 고백을 했다. 16일 방송된 SBS '미운 우리 새끼'(이하 '미우새')에서는 개버지 김준호의 은혜에 보답하기 위해 모인 개그맨들의 모습이 그려졌다. 이날 방송에서 개그맨들은 식사를 한 것을 치울 사람을 정하기 위한 게임을 제안했다. 이에 손병호 게임이 시작됐다. 가장 마지막까지 손가락이 남아있는 사람이 치]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['런닝맨' 반전에 반전 거듭한 '대망의 판때기'…'최고의 꾼'은 김종국]]></title>
         <id>https://v.daum.net/v/20230717010300661</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230716230509876"/>
         <updated>2023-07-16T14:10:47.571Z</updated>
         <content type="html"><![CDATA[(서울=뉴스1) 윤효정 기자 = '킹더랜드' 이준호와 임윤아가 아슬아슬한 비밀연애를 이어갔다. 16일 밤 방송된 JTBC 토일드라마 '킹더랜드'(극본 최롬(팀 하리마오)/연출 임현욱) 10회에서 구원(이준호 분)과 천사랑(임윤아 분)은 태국 여행에 같이 간 친구들의 눈을 피해 몰래 데이트를 즐겼다. 구원의 비서 노상식(안세하 분)과 두 사람이 사귀는]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[손동운→차서원 “결혼해서 죄송합니다”]]></title>
-        <id>https://v.daum.net/v/20230716230426874</id>
-        <link href="https://v.daum.net/v/20230716230426874"/>
-        <updated>2023-07-16T14:10:47.574Z</updated>
-        <content type="html"><![CDATA[[OSEN=김나연 기자]&nbsp;결혼도 죄가 될까. 지난 6일, 하이라이트 손동운은 자신의 SNS 라이브방송을 통해 결혼 발표에 대한 사과를 전했다. 갑작스러운 결혼 발표로 팀 활동에 지장을 끼쳤다는 일부 팬들의 비난에 고개 숙인 것. 앞서 그는 자필 편지를 통해 오는 9월 비연예인 여자친구와 결혼식을 올린다고 밝혔다. 손동운은 "감사하게도 저는 저를 많이 이]]></content>
     </entry>
 </feed>
