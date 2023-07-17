@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-07-17T04:15:21.589Z</updated>
+    <updated>2023-07-17T05:12:28.977Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[주윤발, '뇌졸중 혼수상태' 가짜뉴스였다...밝은 얼굴도 무대 등장]]></title>
+        <id>https://v.daum.net/v/20230717133207320</id>
+        <link href="https://v.daum.net/v/20230717133207320"/>
+        <updated>2023-07-17T05:12:28.175Z</updated>
+        <content type="html"><![CDATA[[OSEN=유수연 기자] 건강이상설에 휩싸였던 홍콩 스타 주윤발의 건강한 근황이 전해졌다. 최근&nbsp;중국 매체 시나연예 등은&nbsp;주윤발(저우룬파)는 지난 6일 뇌졸중으로 쓰러져 혼수상태에 빠졌다고 보도했다. 특히 일주일이 지나도 의식을 되찾지 못한 상태라고 전해져 전 세계 팬들의 충격을 안겼다. 당시 외신은 주윤발이 앞서 4일&nbsp;코로나19 확진 판정을 받았고 돌]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['日 톱스타' 키무라 후미노, '남사친'과 재혼 후 첫 아이 출산]]></title>
         <id>https://v.daum.net/v/20230717130030660</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230716225151810"/>
         <updated>2023-07-16T14:10:54.342Z</updated>
         <content type="html"><![CDATA[(서울·파리=연합뉴스) 권수현 기자 현혜란 특파원 = 영국 출신 가수 겸 배우 제인 버킨이 16일(현지시간) 프랑스에서 영원히 눈을 감았다. 향년 76세. "프랑스인이 가장 사랑한 영국 여성"으로 불리는 버킨은 이날 오전 파리 자택에서 숨진 채 간병인에게 발견됐다고 BFM 방송, 일간 르파리지앵 등이 전했다. 프랑스 문화부는 트위터에 버킨의 별세 소식을 알]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘버킨백 주인공’ 英 배우 제인 버킨 별세..향년 76세]]></title>
-        <id>https://v.daum.net/v/20230716214503246</id>
-        <link href="https://v.daum.net/v/20230716214503246"/>
-        <updated>2023-07-16T13:16:06.968Z</updated>
-        <content type="html"><![CDATA[[OSEN=지민경 기자] 영국 출신 가수 겸 배우 제인 버킨이 76세의 나이로 세상을 떠났다. 16일(현지 시간) 프랑스 매체 BFMTV 보도에 따르면 제인 버킨은 프랑스 파리에 위치한 자신의 자택에서 간병인에 의해 숨진 채 발견됐다. 향년 76세. 제인 버킨은 최근 몇 년 새 건강 문제로 공연을 취소한 바 있다. 지난 2021년 9월에는 가벼운 뇌졸중]]></content>
     </entry>
 </feed>
