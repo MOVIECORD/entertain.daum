@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/variety</id>
     <title>다음 연예 ─ 뉴스 ─ 예능</title>
-    <updated>2023-07-17T18:16:01.771Z</updated>
+    <updated>2023-07-17T19:10:18.141Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이수근 무슨일? "녹화장에 진짜 경찰 찾아왔다"]]></title>
+        <id>https://v.daum.net/v/20230718032118161</id>
+        <link href="https://v.daum.net/v/20230718032118161"/>
+        <updated>2023-07-17T19:10:05.117Z</updated>
+        <content type="html"><![CDATA[[OSEN=김수형 기자]'물어보살'에서 이수근이 녹화 장에 진짜경찰이 오게 된 에피소드를 전했다. 17일 방송된 KBS 조이 예능 '무엇이든 물어보살' 에서 경찰공무원인 두 사연자가 출연, 부부가 아닌 직장 선후배 동료였다. 알고보니 강원도 경찰청 보이스피싱 범죄수사대였다. &nbsp; 사연자들은 "우리가 전국 유일&nbsp; 보이스피싱 전담하는 수사반, 열심히 홍보하는]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘결혼지옥’ 사막부부, 빚 1억+월급 260만 원인데 차 할부금 88만 원.. 오은영 “말도 안 돼”]]></title>
         <id>https://v.daum.net/v/20230718013021726</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230717235010096"/>
         <updated>2023-07-17T15:13:02.285Z</updated>
         <content type="html"><![CDATA[[뉴스엔 하지원 기자] '쉬는부부' 신동엽이 사업 실패 경험을 떠올렸다. 7월 17일 방송된 MBN '쉬는부부'에서는 분양받은 아파트 대출이 나오는지 알아보기 위해 은행을 방문한 미루리 하자 부부 모습이 전파를 탔다. 부부는 수입이 불안정하다는 이유로 대출받지 못했다. 한채아는 "요즘 젊은 부부들이 청약을 넣었는데, 금리가 너무 높아서 이자를 못 내서 청]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['결혼지옥' 사막부부 아내 "남편 합의금 위해 예물 팔아"]]></title>
-        <id>https://v.daum.net/v/20230717234426038</id>
-        <link href="https://v.daum.net/v/20230717234426038"/>
-        <updated>2023-07-17T15:13:02.287Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 | 이경호 기자]  MBC '오은영 리포트-결혼 지옥'./사진= MBC '오은영 리포트-결혼 지옥' 방송 화면 캡처'오은영 리포트-결혼 지옥'에서 사막 부부 아내가 예물까지 팔았다. 17일 오후 방송된 MBC '오은영 리포트-결혼 지옥'(이하 '결혼지옥')에서는 소통도 메말라 버린 결혼 7년차 '사막 부부'가 등장했다. 이날 사막 부부의]]></content>
     </entry>
 </feed>

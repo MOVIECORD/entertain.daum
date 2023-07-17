@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2023-07-17T18:16:01.767Z</updated>
+    <updated>2023-07-17T19:10:18.145Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘ISTJ’로 돌아온 NCT 드림 “MBTI 콘셉트로 음악적 도전”]]></title>
+        <id>https://v.daum.net/v/20230718040827435</id>
+        <link href="https://v.daum.net/v/20230718040827435"/>
+        <updated>2023-07-17T19:10:11.754Z</updated>
+        <content type="html"><![CDATA[그룹 NCT 드림(DREAM)이 MBTI를 소재로 한 독특한 콘셉트의 정규 3집 ‘ISTJ’를 발매했다. NCT 드림은 앨범 발매일인 17일 서울 송파구 롯데호텔월드에서 ‘ISTJ’ 발매 기념 기자간담회를 가졌다. 멤버 제노는 “그동안 우리가 청량하고 에너제틱한 모습을 많이 보여줬는데 이제 우리도 나이를 먹는지라 음악적으로 성장한 모습을 보여주고자 노력했]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이도현 “내 연기 보고 누군가 힘을 얻었으면 좋겠다”]]></title>
+        <id>https://v.daum.net/v/20230718040719411</id>
+        <link href="https://v.daum.net/v/20230718040719411"/>
+        <updated>2023-07-17T19:10:11.755Z</updated>
+        <content type="html"><![CDATA[“사람 살리는 배우가 되고 싶다는 생각을 오래 전부터 해 왔다. 내가 연기한 작품을 보고 누군가 살아갈 힘을 얻었으면 좋겠다.” 드라마 ‘나쁜엄마’를 끝낸 이도현을 지난달 13일 서울 강남구 한 카페에서 만났다. 이도현은 “촬영 현장에서 연기에 대한 선배들의 열정을 보고 오랫동안 연기할 수 있는 배우가 되고 싶다는 생각을 다시 한 번 했다”면서 이같이 말]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['동상이몽2' 추자현♥우효광, '결혼 7년 차' 여전한 애정 과시…'불륜 의혹'에 솔직한 대화 예고]]></title>
         <id>https://v.daum.net/v/20230718030901147</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230717235623120"/>
         <updated>2023-07-17T15:13:08.022Z</updated>
         <content type="html"><![CDATA[배우 우효광이 아들에 대한 남다른 사랑을 드러냈다.&nbsp; 추자현‧우효광 부부는 17일 방송된 SBS 예능프로그램 ‘동상이몽2-너는 내 운명’(이하 ‘동상이몽2’) 300회 특집에 출연했다. 이들은 2017년 결혼했으며, 이듬해 아들 바다를 품에 안았다.&nbsp; 추자현은 “코로나19 때문에 나는 나대로 3살이었던 바다와 한국에 있었고 효광이는 일 때문에 중국에 손]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한소희, 아이스버킷 챌린지 다음 주자 지목이 아름다운 이유]]></title>
-        <id>https://v.daum.net/v/20230717235101101</id>
-        <link href="https://v.daum.net/v/20230717235101101"/>
-        <updated>2023-07-17T15:13:08.030Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 | 이경호 기자] 배우 한소희/사진=김창현 기자 chmt@ 배우 한소희가 여느 스타들과 다른 '아이스버킷 챌린지 지목'으로 호응을 이끌어 내고 있다. 한소희는 지난 17일 자신의 인스타그램 스토리를 통해 아이스버킷 챌린지에 참여하게 됐음을 알렸다. 그는 앞서 14일 아이스버킷 챌린지에 참여한 송혜교로부터 다음 주자로 지목 받은 바 있다. 한]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['결혼지옥' 사막 부부 아내 "남편 합의금 때문에 예물·돌반지 팔아"]]></title>
-        <id>https://v.daum.net/v/20230717235005095</id>
-        <link href="https://v.daum.net/v/20230717235005095"/>
-        <updated>2023-07-17T15:13:08.032Z</updated>
-        <content type="html"><![CDATA[[스포츠투데이 서지현 기자] '오은영 리포트-결혼지옥' 사막 부부의 생활고가 드러났다. 17일 밤 방송된 MBC '오은영 리포트-결혼지옥'(이하 '결혼지옥')에서는 돈도 소통도 다 말라버린 사막 부부의 사연이 그려졌다. 이날 사막 부부 아내는 지인을 만나 "저번달에 카드값 갚느라 예물을 다 팔았다. 내가 결혼할 때 받은 예물, 우리 애들 돌반지까지 싹 다]]></content>
     </entry>
 </feed>
