@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-07-17T13:23:13.412Z</updated>
+    <updated>2023-07-17T14:11:57.335Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['강남스타일' 이후 최초...정국 'Seven' 英 싱글 차트서 1위 할까]]></title>
+        <id>https://v.daum.net/v/20230717224030606</id>
+        <link href="https://v.daum.net/v/20230717224030606"/>
+        <updated>2023-07-17T14:11:56.474Z</updated>
+        <content type="html"><![CDATA[[TV리포트=강성훈 기자] 정국의 첫 번째 솔로곡이 역사적인 기록을 세울 것으로 보인다. 세계적인 인기를 누리고 있는 방탄소년단의 멤버 정국이 싱글 'Seven'으로 솔로 활동을 시작했다. 발매 이후 전 세계 팬들이 이 곡을 스트리밍하거나 다양한 버전을 구매하며 전 세계 차트에서 큰 성공을 거두었다. 영국 빌보드 공식 차트 회사에 따르면, 'Seven'은]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[로다주 "11년간 '아이언맨'...연기력 위축될까 걱정됐다" 고백]]></title>
         <id>https://v.daum.net/v/20230717221159372</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230717143722200"/>
         <updated>2023-07-17T06:16:40.301Z</updated>
         <content type="html"><![CDATA[[뉴스엔 이슬기 기자] 건강 이상설이 제기됐던 홍콩 톱스타 배우 주윤발(周潤發·저우룬파·68)가 건강한 모습으로 공식 석상에 나섰다. 7월 15일(현지 시간) 배우 주윤발은 영화 '벌규아도신'(날 도박의 신이라 부르지 마) 무대 인사에 참석했다. 건강한 모습으로 나타난 주윤발은 환한 미소와 함께 팬들과 대화를 나누고 기념사진을 촬영하는 등 활발하게 행사를]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[주윤발, '뇌졸중 혼수상태' 가짜뉴스였다...밝은 얼굴도 무대 등장]]></title>
-        <id>https://v.daum.net/v/20230717133207320</id>
-        <link href="https://v.daum.net/v/20230717133207320"/>
-        <updated>2023-07-17T05:12:28.175Z</updated>
-        <content type="html"><![CDATA[[OSEN=유수연 기자] 건강이상설에 휩싸였던 홍콩 스타 주윤발의 건강한 근황이 전해졌다. 최근&nbsp;중국 매체 시나연예 등은&nbsp;주윤발(저우룬파)는 지난 6일 뇌졸중으로 쓰러져 혼수상태에 빠졌다고 보도했다. 특히 일주일이 지나도 의식을 되찾지 못한 상태라고 전해져 전 세계 팬들의 충격을 안겼다. 당시 외신은 주윤발이 앞서 4일&nbsp;코로나19 확진 판정을 받았고 돌]]></content>
     </entry>
 </feed>
