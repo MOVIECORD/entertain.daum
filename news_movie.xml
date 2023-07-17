@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-07-17T03:31:45.882Z</updated>
+    <updated>2023-07-17T04:15:21.564Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['2023 한국영화 다양성 주간', 8월 17~19일 인디스페이스 개최]]></title>
+        <id>https://v.daum.net/v/20230717125708601</id>
+        <link href="https://v.daum.net/v/20230717125708601"/>
+        <updated>2023-07-17T04:14:58.938Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]'2023 한국영화 다양성 주간'이 8월 17일(목)부터 19일(토)까지 3일간 홍대 인디스페이스에서 열린다. 지난해에 이어 올해 2회를 맞이한 ‘2023 한국영화 다양성 주간’은 영화 상영과 포럼을 결합한 행사로, 한국영화의 다양성과 포용성 확대를 위해 (사)여성영화인모임과 영화진흥위원회가 주최하고 한국영화성평등센터 든든이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['비닐하우스' 안소요 "김서형과 호흡? 매 순간들이 소중해"]]></title>
         <id>https://v.daum.net/v/20230717123003117</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230717095057365"/>
         <updated>2023-07-17T01:09:52.385Z</updated>
         <content type="html"><![CDATA[[OSEN=김보라 기자] 영화 ‘미션 임파서블: 데드 레코닝 PART ONE’(‘미션 임파서블7’)이 5일 연속으로 박스오피스 1위를 달리고 있는 가운데 이번 주 200만 관객을 동원할 전망이다. 17일 영진위 영화관입장권 통합전산망 집계를 보면 전날(16일) ‘미션 임파서블7’은 44만 8532명을 동원해 일별 박스오피스 1위를 차지했다. ‘미션 임파]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['미임파7' 개봉 첫 주말 120만 명 동원, 압도적 1위]]></title>
-        <id>https://v.daum.net/v/20230717095007340</id>
-        <link href="https://v.daum.net/v/20230717095007340"/>
-        <updated>2023-07-17T01:09:52.387Z</updated>
-        <content type="html"><![CDATA[[티브이데일리 최하나 기자] 영화 ‘미션 임파서블: 데드 레코닝 PART ONE’이 개봉 첫 주말 박스오피스 1위를 기록했다. 17일 영화진흥위원회 통합전산망에 따르면 ‘미션 임파서블: 데드 레코닝 PART ONE’이 개봉 주말인 지난 주말 120만8841명의 관객을 동원하며 주말 박스오피스 1위를 기록했다. 누적 관객수는 176만8100명이다. ‘미션]]></content>
     </entry>
 </feed>
