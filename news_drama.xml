@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-07-17T09:13:44.684Z</updated>
+    <updated>2023-07-17T10:14:02.038Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['D.P.2' vs ‘무빙’...웹툰 원작으로 맞붙는 OTT]]></title>
+        <id>https://v.daum.net/v/20230717185003000</id>
+        <link href="https://v.daum.net/v/20230717185003000"/>
+        <updated>2023-07-17T10:13:45.586Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 이창규 기자) 최근 인기 웹툰을 원작으로 한 드라마들이 각광을 받는 가운데, 글로벌 OTT에서 서로 다른 매력의 작품들이 맞대결을 펼친다. 먼저 스타트를 끊는 쪽은 넷플릭스다. 넷플릭스는 지난 2021년 8월 선보였던 'D.P.'(감독 한준희)의 두 번째 시즌을 28일 선보인다. 김보통 작가의 'D.P. 개의 날'을 원작으로 하는 'D.P.']]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[한재이, '이생잘' 특별 출연…안보현x하윤경 친구 '존재감']]></title>
+        <id>https://v.daum.net/v/20230717181433199</id>
+        <link href="https://v.daum.net/v/20230717181433199"/>
+        <updated>2023-07-17T10:13:45.594Z</updated>
+        <content type="html"><![CDATA[[OSEN=장우영 기자] 배우 한재이가 안정적인 연기력을 선보였다. 한재이는 지난 16일 방송된 tvN 토일드라마 '이번 생도 잘 부탁해'에 천가희 역으로 특별 출연해 눈길을 사로잡았다. 이날 방송에서 한재이는 안보현(문서하 역), 하윤경(윤초은 역)의 친구 천가희로 등장했다. 한재이는 결혼을 앞두고 지인들을 불러 모아 청첩장을 전달했고, 우아하면서도]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['행복배틀' 종영까지 2회, 배우들이 꼽은 명장면]]></title>
         <id>https://v.daum.net/v/20230717174750476</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230717162351842"/>
         <updated>2023-07-17T08:16:46.340Z</updated>
         <content type="html"><![CDATA[[뉴스엔 김명미 기자] 배우 권소현이 MBC 새 금토드라마 ‘연인’에 출연한다. 8월 4일 첫 방송되는 MBC 새 금토드라마 ‘연인’ (기획 홍석우/연출 김성용, 천수진/극본 황진영)은 병자호란을 겪으며 엇갈리는 연인들의 사랑과 백성들의 생명력을 다룬 휴먼역사멜로 드라마다. 권소현은 극중 경은애(이다인 분)의 심복 ‘방두네’ 역을 맡아 김성용 감독과는 세]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[조인성, 비행 능력 지닌 초능력자]]></title>
-        <id>https://v.daum.net/v/20230717161136384</id>
-        <link href="https://v.daum.net/v/20230717161136384"/>
-        <updated>2023-07-17T07:12:09.667Z</updated>
-        <content type="html"><![CDATA[[OSEN=김보라 기자] '무빙'에서&nbsp;전설적인 요원을 연기한 조인성의 스틸이 첫 공개돼 초능력 액션에 기대가 모인다. '무빙'(원작극본 강풀, 연출 박인제・박윤서)은&nbsp;초능력을 숨긴 채 현재를 살아가는 아이들과 아픈 비밀을 감춘 채 과거를 살아온 부모들의 이야기를 그린 휴먼 액션 시리즈.&nbsp; 조인성은 디즈니+ 오리지널 시리즈 '무빙'을&nbsp;통해 필모그래피 사상]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[옥택연, 원지안 어깨에 기대 귀여운 주정…그린라이트 감지]]></title>
-        <id>https://v.daum.net/v/20230717154110154</id>
-        <link href="https://v.daum.net/v/20230717154110154"/>
-        <updated>2023-07-17T07:12:09.667Z</updated>
-        <content type="html"><![CDATA[[마이데일리 = 박서연 기자] ‘가슴이 뛴다’ 옥택연과 원지안 사이에 그린라이트 기류가 포착됐다. 17일 오후 9시 45분 방송되는 KBS 2TV 월화드라마 ‘가슴이 뛴다’(극본 김하나 정승주 연출 이현석 이민수) 7회에서는 선우혈(옥택연)이 주인해(원지안) 앞에서 귀여운 주정을 부린다. 앞서 한집살이를 시작하며 서서히 서로에게 스며든 우혈과 인해는 티]]></content>
     </entry>
 </feed>
