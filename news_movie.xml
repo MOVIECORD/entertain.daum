@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-07-18T14:11:20.056Z</updated>
+    <updated>2023-07-18T15:12:12.051Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[믿고 보는 정통 호러… '인시디어스: 빨간 문']]></title>
+        <id>https://v.daum.net/v/20230718235831509</id>
+        <link href="https://v.daum.net/v/20230718235831509"/>
+        <updated>2023-07-18T15:11:51.410Z</updated>
+        <content type="html"><![CDATA[[이데일리 스타in 윤기백 기자] 모처럼 제대로 만든 정통 호러영화가 극장가를 찾는다. 올여름 유일한 공포영화란 점에서 공포 마니아들의 기대를 한몸에 받을 것으로 기대된다. 19일 개봉하는 ‘인시디어스: 빨간 문’은 2013년 개봉한 ‘인시디어스: 두번째 집’ 이후 램버트 가족이 다시 겪게 되는 끔찍한 악몽에 대한 이야기를 다룬 영화다. ‘인시디어스’ 시]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[맷 데이먼 “연기 쉬려고 했는데 크리스토퍼 놀란 감독이 전화, 운명적이었다”]]></title>
         <id>https://v.daum.net/v/20230718224836058</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230718181733764"/>
         <updated>2023-07-18T10:12:38.784Z</updated>
         <content type="html"><![CDATA[뜨거운 여름 대전...여성 투톱 영화로 차별화 [더팩트｜박지윤 기자] 신선한 소재와 믿고 보는 배우들이 만나 세련된 판을 짰다. 푸른 바다를 배경으로 펼쳐지는 열연과 액션, 예상치 못한 재미로 올여름 관객들을 사로잡을 준비를 마친 '밀수'다. 영화 '밀수'(감독 류승완)의 언론·배급 시사회 및 기자간담회가 18일 오후 서울 용산구 CGV용산아이파크몰에서]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[올여름 '밀수'에 빠질 시간…김혜수X염정아 '워맨스' 폭발]]></title>
-        <id>https://v.daum.net/v/20230718180825378</id>
-        <link href="https://v.daum.net/v/20230718180825378"/>
-        <updated>2023-07-18T09:12:14.108Z</updated>
-        <content type="html"><![CDATA[아이즈 ize 김나라 기자베일을 벗은 류승완 감독 신작 '밀수'가 기대를 충족시키는 완성도와 재미로 흥행 돌풍을 예고했다.&nbsp;김혜수와 염정아의 워맨스에 스펙터클한 수중 액션신까지 종합선물세트 같은 볼거리와 스릴, 감동을 선사하며 &nbsp;사면초가 상황에 놓여있는 한국 영화의 구원자&nbsp;역할을 톡톡히 할 전망이다..&nbsp;&nbsp;18일 오후 서울 용산구 CGV용산아이파크몰에선 영화]]></content>
     </entry>
 </feed>
