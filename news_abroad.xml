@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-07-18T04:13:44.594Z</updated>
+    <updated>2023-07-18T05:11:41.799Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[브리트니 스피어스, 신곡 발표…전성기 이끈 제작자와 함께]]></title>
+        <id>https://v.daum.net/v/20230718133030290</id>
+        <link href="https://v.daum.net/v/20230718133030290"/>
+        <updated>2023-07-18T05:11:40.961Z</updated>
+        <content type="html"><![CDATA[[TV리포트=유비취 기자] 팝스타 브리트니 스피어스가 신곡을 예고했다. 17일(현지 시간) 그룹 블랙 아이드 피스의 멤버 윌.아이.엠이 브리트니 스피어스와 함께 신곡을 발매한다고 발표했다. 이들은 이번이 네 번째 협업으로 브리트니 스피어스의 전성기를 함께했다. 브리트니 스피어스와 윌.아이.엠이 함께하는 신곡의 제목은 'Mind Your Business(마인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['백설공주'가 구릿빛 피부?..악플 폭탄에 과거사진 공개한 여배우]]></title>
         <id>https://v.daum.net/v/20230718125617516</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230718004030547"/>
         <updated>2023-07-17T16:15:41.252Z</updated>
         <content type="html"><![CDATA[[TV리포트=안수현 기자] 배우 사정봉이 16세 아들과 함께 호주 멜버른에서 목격돼서 화제다. 홍콩 배우 사정봉(42)과 아들 루카스가 마지막으로 함께 있는 것이 목격된 것은 약 10년 전이다. 지난 주말, 몇몇 운 좋은 팬들은 멜버른 거리에서 홍콩 스타 사정봉을 만났다. 팬들은 사정봉과 함께 사진을 찍을 수 있었을 뿐만 아니라 그의 16세 아들 루카스의]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['미션 임파서블7' 폼 클레멘티에프, 액션 신 '이소룡·성룡' 보고 공부해]]></title>
-        <id>https://v.daum.net/v/20230717232030819</id>
-        <link href="https://v.daum.net/v/20230717232030819"/>
-        <updated>2023-07-17T15:13:14.037Z</updated>
-        <content type="html"><![CDATA[[TV리포트=강성훈 기자] 폼 클레멘티에프가 '이소룡·성룡'의 영향을 받았다고 밝혔다. 클레멘은 미국의 한 언론매체와의 인터뷰에서 "패리스를 연기하려고 이소룡, 성룡 그리고 몇몇 프랑스 영화를 봤다. 단지 싸움을 참고하기 위한 것이 아닌 캐릭터가 걷는 방식을 배울 수 있었기 때문이다"라고 전했다. 또한 클레멘은 "쿠엔틴 타란티노 감독의 영화 '킬빌'이 '미]]></content>
     </entry>
 </feed>
