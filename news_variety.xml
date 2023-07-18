@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/variety</id>
     <title>다음 연예 ─ 뉴스 ─ 예능</title>
-    <updated>2023-07-18T09:12:40.621Z</updated>
+    <updated>2023-07-18T10:13:01.663Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['퀸덤퍼즐' 오늘 퀸덤팀 역전각?..신곡까지 대방출]]></title>
+        <id>https://v.daum.net/v/20230718184821569</id>
+        <link href="https://v.daum.net/v/20230718184821569"/>
+        <updated>2023-07-18T10:12:49.812Z</updated>
+        <content type="html"><![CDATA[[OSEN=박소영 기자] 오늘(18일) 밤 10시 Mnet '퀸덤퍼즐'에서 퀸덤팀의 역전이 걸린 무대 결과가 공개된다. 지난 11일(화) 올라운더 배틀 보컬&amp;랩 마지막 라운드에서는 휘서와 엘리를 필두로 한 퀸덤팀의 '한 페이지가 될 수 있게'와 리이나·지한이 속한 퍼즐팀 'WANNABE'가 격돌했다. 앞선 라운드에서 퍼즐팀이 2승을 따내며 유리한 고지를]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[조세호, 식사 자리서 뭘 했길래…유병재 "다 토했다" 폭로]]></title>
+        <id>https://v.daum.net/v/20230718184006363</id>
+        <link href="https://v.daum.net/v/20230718184006363"/>
+        <updated>2023-07-18T10:12:49.813Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 오승현 기자) '안하던 짓' 내향형인 유병재가 이동욱과의 첫 만남을 회상했다. 최근 방송한 MBC 예능 프로그램 '안하던 짓을 하고 그래'(이하 '안하던 짓')에서 유병재는 내향형 사람의 약속에 대해 이야기했다. 이날 조세호는 "주우재와 유병제의 공통점은 어디로 놀러 오라고 했을 때 누구랑 있는지를 물어본다는 것"이라며 "난 약속 없으면 무조]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘그알’ 피프티피프티 전속계약 분쟁 파헤친다 “제보 기다립니다”]]></title>
         <id>https://v.daum.net/v/20230718180219171</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230718160432488"/>
         <updated>2023-07-18T07:11:31.381Z</updated>
         <content type="html"><![CDATA[[뉴스엔 김명미 기자] 역대급 규모의 올스타전이 펼쳐진다. 7월 19일 방송되는 SBS ‘골(Goal) 때리는 그녀들’(이하 ‘골때녀’)에서는 올스타전 메인 경기 모습이 공개된다. 약 1,300여 명의 관중과 함께하는 이번 올스타전은 신청 오픈과 동시에 무려 22,000명의 지원자를 끌어모으며 화제의 중심에 올랐다. 또한 지난 12일 방송에서 대한민국 월]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["트랜스젠더라 계약 파기"…풍자, 집주인에 사이다 반격은?]]></title>
-        <id>https://v.daum.net/v/20230718160104313</id>
-        <link href="https://v.daum.net/v/20230718160104313"/>
-        <updated>2023-07-18T07:11:31.384Z</updated>
-        <content type="html"><![CDATA[[마이데일리 = 강다윤 기자] 방송인 풍자가 트랜스젠더라는 이유로 집 계약을 파기당한 일화를 고백한다. 19일 U+모바일TV 오리지널 예능 '믿고 말해보는 편-내편하자'에서는 집주인의 갑질에 서러움을 당했던 풍자와 랄랄의 실제 경험담이 공개된다. 최근 진행된 녹화에서 '혜풍지랄' MC들과 스페셜 게스트 백구영, 정혁은 불쑥 찾아와 문을 두드리고 집안으로]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[신지 "내년 결혼 선언했던 진짜 이유는…"]]></title>
-        <id>https://v.daum.net/v/20230718160013270</id>
-        <link href="https://v.daum.net/v/20230718160013270"/>
-        <updated>2023-07-18T07:11:31.384Z</updated>
-        <content type="html"><![CDATA[[마이데일리 = 이승길 기자] 그룹 코요태 신지가 앞서 멤버들에게 밝혔던 결혼 계획의 진짜 이유를 밝혔다. 18일 방송되는 JTBC '뭉뜬 리턴즈-코요태 25주년 여행 편'에서는 데뷔 25주년을 기념해 태국으로 첫 완전체 여행을 떠난 코요태 김종민, 신지, 빽가가 여행 마지막 날 밤 허심탄회하게 속마음을 나누는 모습이 공개된다. 여행 마지막 날 밤, 한자]]></content>
     </entry>
 </feed>
