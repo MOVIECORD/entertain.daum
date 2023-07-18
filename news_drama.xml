@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-07-18T08:15:30.684Z</updated>
+    <updated>2023-07-18T09:12:40.619Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[시청자 뒤통수친 김태훈 “제이 캐릭터 매력적, 애정해준 시청자 감사”]]></title>
+        <id>https://v.daum.net/v/20230718172910995</id>
+        <link href="https://v.daum.net/v/20230718172910995"/>
+        <updated>2023-07-18T09:12:20.307Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 황혜진 기자] 놀라운 반전 캐릭터로 시청자들의 뒤통수를 친 배우 김태훈이 tvN 월화드라마 '이로운 사기' 종영 소감을 밝혔다. 김태훈은 7월 18일 소속사 엘줄라이엔터테인먼트를 통해 “제이라는 매력적인 캐릭터와 함께 할 수 있었던 시간이 소중했던 작품이었다. 끝까지 작품을 애정해 주신 분들과 감독님 그리고 모든 스태프분들께 감사하다”고 말했다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[한효주, 2년만에 복귀 차기작 나왔다…'찬란한 너의 계절에' 주인공 캐스팅]]></title>
         <id>https://v.daum.net/v/20230718163101523</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230718142201404"/>
         <updated>2023-07-18T06:14:48.044Z</updated>
         <content type="html"><![CDATA[[OSEN=장우영 기자] ‘가슴이 뛴다’ 옥택연과 윤소희가 둘만의 시간을 갖는다. 18일 밤 9시 45분 방송되는 KBS2 월화드라마 ‘가슴이 뛴다’(극본 김하나 정승주, 연출 이현석 이민수, 제작 위매드, 몬스터유니온) 8회에서는 선우혈(옥택연)과 나해원(윤소희)이 갤러리 데이트에 나선다. 앞서 우혈은 과거 윤해선(윤소희)이 환생한 듯 똑 닮은 해원의]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["전력 다 쏟아부어"…정해인X구교환 'D.P.2', 진급한 만큼 깊어졌다]]></title>
-        <id>https://v.daum.net/v/20230718142139385</id>
-        <link href="https://v.daum.net/v/20230718142139385"/>
-        <updated>2023-07-18T06:14:48.046Z</updated>
-        <content type="html"><![CDATA[정해인(왼쪽) 구교환(사진=넷플릭스)[이데일리 스타in 김가영 기자] “다시 할 수 있을까 얘기를 할 정도로 전력을 쏟아부었어요.” ‘D.P. 시즌2’ 한준희 감독이 시즌2에 대해 이같이 말하며 기대감을 높였다. 18일 오전 서울 삼성동 인터컨티넨탈 파르나스에서는 넷플릭스 오리지널 시리즈 ‘D.P.’ 제작발표회가 진행됐다. 이날 자리에는 한준희 감독, 정]]></content>
     </entry>
 </feed>
