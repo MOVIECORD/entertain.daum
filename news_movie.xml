@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-07-18T20:12:25.426Z</updated>
+    <updated>2023-07-18T21:10:30.171Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘밀수’ 김혜수 염정아, 언니들은 배신하지 않는다]]></title>
+        <id>https://v.daum.net/v/20230719060027825</id>
+        <link href="https://v.daum.net/v/20230719060027825"/>
+        <updated>2023-07-18T21:10:08.189Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 배효주 기자] 다른 건 몰라도 '밀수' 만큼은 꼭 영화관, 가능하다면 IMAX관에서 보는 걸 추천한다. 넓은 화면을 꽉 채우는 수중신을 보고 있자면 장마철에 꿉꿉해진 기분이 거친 바닷물에 휩쓸려 싹 사라지는 듯하다. 오는 7월 26일 개봉하는 영화 '밀수'(감독 류승완)는 1970년대를 배경으로, 라디오나 양담배 같은 생필품을 밀수해 바다에 던지]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[캐릭터의 반전 매력과 도전적인 수중 액션신...류승완 감독의 ‘밀수’]]></title>
         <id>https://v.daum.net/v/20230719050033004</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230718185007613"/>
         <updated>2023-07-18T10:12:38.774Z</updated>
         <content type="html"><![CDATA[(엑스포츠뉴스 오승현 기자) 류승완 감독이 자칭타칭 '조인성 닮은꼴'이 됐다. 18일 오후 서울 용산구 CGV아이파크몰에서 영화 '밀수'(감독 류승완) 언론시사회가 진행됐다. 이 자리에는 류승완 감독을 비롯해 배우 김혜수, 염정아, 조인성, 박정민, 김종수, 고민시가 참석했다. '밀수'는 바다에 던져진 생필품을 건지며 생계를 이어가던 사람들 앞에 일생일대의]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[더 쓰라리고 애잔하다 돌아온 'D.P.' 시즌2]]></title>
-        <id>https://v.daum.net/v/20230718183300193</id>
-        <link href="https://v.daum.net/v/20230718183300193"/>
-        <updated>2023-07-18T10:12:38.780Z</updated>
-        <content type="html"><![CDATA[넷플릭스 시리즈 'D.P.' 시즌2가 그리는 부조리한 현실은 여전히 날카롭고, 쓰라리고, 애잔하다. 2021년 8월, 탈영병 잡는 헌병대의 군무 이탈 체포조 'D.P.'(디피)를 소재로 군대 내 폭력과 사회 부조리를 날카롭게 짚어냈던 명작이 시즌2로 2년 만에 돌아왔다. 원작 웹툰 'D.P 개의 날'의 김보통 작가가 시즌1에 이어 각색에 참여했고, 연출 한]]></content>
     </entry>
 </feed>
