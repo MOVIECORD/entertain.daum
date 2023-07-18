@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-07-18T03:22:15.794Z</updated>
+    <updated>2023-07-18T04:13:44.595Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘미션7’ 감독 “톰 크루즈 1부 결말 때문에 밤에 잠도 못 자”]]></title>
+        <id>https://v.daum.net/v/20230718123402168</id>
+        <link href="https://v.daum.net/v/20230718123402168"/>
+        <updated>2023-07-18T04:13:23.053Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 배효주 기자] '미션 임파서블7' 결말을 위해 톰 크루즈가 밤을 새며 고민했다는 사실이 알려졌다. 크리스토퍼 맥쿼리 감독은 최근 해외 매체 토탈 필름과의 인터뷰에서 영화 '미션 임파서블: 데드 레코닝 PART ONE'의 결말에 대해 언급했다. 이번 시리즈는 2부작으로 마무리 될 예정인 가운데, 크리스토퍼 맥쿼리 감독은 "1부를 어떻게 끝내야 할]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['D.P.2' 진짜 연기 언급했던 손석구 "생각 없이 가도 한준희 감독 디렉팅"]]></title>
+        <id>https://v.daum.net/v/20230718122643046</id>
+        <link href="https://v.daum.net/v/20230718122643046"/>
+        <updated>2023-07-18T04:13:23.054Z</updated>
+        <content type="html"><![CDATA[[스포츠조선 문지연 기자] 배우 손석구가 연기에 대한 이야기를 나눴다. 넷플릭스 오리지널 시리즈 'D.P.' 시즌2(김보통 한준희 극본, 한준희 연출)의 제작발표회가 18일 오전 서울 강남구 그랜드인터컨티넨탈 서울파르나스에서 진행됐다. 행사에는 정해인, 구교환, 김성균, 손석구, 지진희, 김지현, 한준희 감독이 참석했다. 손석구는 "한준희]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['D.P.2' 한준희 감독 "인물 변화 그리고파..시즌2=7회로 시작"]]></title>
         <id>https://v.daum.net/v/20230718121829873</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230718111152682"/>
         <updated>2023-07-18T02:57:14.872Z</updated>
         <content type="html"><![CDATA[[스타뉴스 | 김나연 기자] 레이첼 지글러, 할리 베일리 / 사진=/AFPBBNews=뉴스1=스타뉴스 '백설공주' 실사 영화 촬영 사진이 유출된 이후 라틴계 백설공주 레이첼 지글러를 향한 갑론을박이 이어지고 있다. 이 가운데, 앞서 '인어공주'에서 에리얼 역을 맡았던 흑인 배우 할리 베일리가 그를 응원하고 나섰다. 신인 배우 레이첼 지글러는 '백설공주']]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘귀공자’ 인도네시아 한국영화 흥행 2위 달성 “로튼 토마토 100%”]]></title>
-        <id>https://v.daum.net/v/20230718110707512</id>
-        <link href="https://v.daum.net/v/20230718110707512"/>
-        <updated>2023-07-18T02:57:14.875Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 배효주 기자] '귀공자'가 IPTV 및 극장 동시 VOD 서비스를 시작한다. 영화 '귀공자'(감독 박훈정)는 필리핀 불법 경기장을 전전하는 복싱 선수 ‘마르코’ 앞에 정체불명의 남자 ‘귀공자’를 비롯한 각기 다른 목적을 지닌 세력들이 나타나 광기의 추격을 펼치는 이야기를 그린 작품이다. '귀공자'는 '기생충'의 뒤를 이어 인도네시아에서 역대 한국]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[제작비 1억 달러 '오펜하이머', 57일만 촬영.."미친 속도"]]></title>
-        <id>https://v.daum.net/v/20230718104849731</id>
-        <link href="https://v.daum.net/v/20230718104849731"/>
-        <updated>2023-07-18T02:57:14.878Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 | 김나연 기자] 사진=유니버설 픽처스배우 킬리언 머피는 '오펜하이머'가 믿을 수 없을 정도로 빠르게 만들어졌다고 밝혔다. 17일(현지시간) 버라이어티 등에 따르면 영화 '오펜하이머'의 주연 킬리언 머피는 한 팟캐스트에 출연해 "우리는 믿을 수 없을 정도로 빠르게 영화를 만들었다. 57일 만에 촬영을 마쳤는데 그 속도는 미친 짓"이라고 밝혔다]]></content>
     </entry>
 </feed>
