@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-07-18T13:18:32.822Z</updated>
+    <updated>2023-07-18T14:11:20.056Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[맷 데이먼 “연기 쉬려고 했는데 크리스토퍼 놀란 감독이 전화, 운명적이었다”]]></title>
+        <id>https://v.daum.net/v/20230718224836058</id>
+        <link href="https://v.daum.net/v/20230718224836058"/>
+        <updated>2023-07-18T14:10:56.330Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]할리우드 배우 맷 데이먼(52)이 연기를 쉬려고 했을 때 크리스토퍼 놀란 감독의 전화를 받고‘오펜하이머’에 출연했다고 밝혔다. 그는 17일(현지시간) 엔터테인먼트 위클리와 인터뷰에서 “아내에게 연기를 쉬고 싶다고 말했다”면서 “크리스토퍼 놀란 감독이 캐스팅 제안을 하면 보류할 수 있다는 조건을 달았는데, 실제로 전화가 왔다”]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["처음부터 김혜수·염정아"…'밀수' 류승완 감독, 정신 차리고 만든 여성 서사 액션]]></title>
         <id>https://v.daum.net/v/20230718210018882</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230718180825378"/>
         <updated>2023-07-18T09:12:14.108Z</updated>
         <content type="html"><![CDATA[아이즈 ize 김나라 기자베일을 벗은 류승완 감독 신작 '밀수'가 기대를 충족시키는 완성도와 재미로 흥행 돌풍을 예고했다.&nbsp;김혜수와 염정아의 워맨스에 스펙터클한 수중 액션신까지 종합선물세트 같은 볼거리와 스릴, 감동을 선사하며 &nbsp;사면초가 상황에 놓여있는 한국 영화의 구원자&nbsp;역할을 톡톡히 할 전망이다..&nbsp;&nbsp;18일 오후 서울 용산구 CGV용산아이파크몰에선 영화]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['밀수' 김혜수→박정민, 여름에 어울리는 바로 그맛]]></title>
-        <id>https://v.daum.net/v/20230718180204160</id>
-        <link href="https://v.daum.net/v/20230718180204160"/>
-        <updated>2023-07-18T09:12:14.118Z</updated>
-        <content type="html"><![CDATA[[스포츠투데이 서지현 기자] 여름에 딱 어울리는 맛이다. 눈이 시원하고, 속이 시원한 여름 제철 해양범죄활극 '밀수'다. 18일 오후 서울시 용산구에 위치한 CGV 용산아이파크몰에서 영화 '밀수'(연출 류승완·제작 외유내강) 언론배급시사회가 열려 배우 김혜수, 염정아, 조인성, 박정민, 김종수, 고민시, 류승완 감독이 참석했다. '밀수'는 바다에 던져진 생]]></content>
     </entry>
 </feed>
