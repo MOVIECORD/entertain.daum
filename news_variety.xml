@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/variety</id>
     <title>다음 연예 ─ 뉴스 ─ 예능</title>
-    <updated>2023-07-18T18:14:52.673Z</updated>
+    <updated>2023-07-18T19:09:35.431Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김종민의 두 얼굴?…신지 "제일 무서운 연예인" 강호동 "눈치 많이 봐"]]></title>
+        <id>https://v.daum.net/v/20230719040006587</id>
+        <link href="https://v.daum.net/v/20230719040006587"/>
+        <updated>2023-07-18T19:09:23.721Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 양유진 기자] '강심장 리그' 코요태 신지가 김종민과의 마찰을 회상했다. 18일 방송된 SBS '강심장 리그'는 지난주에 이어 '찐친 특집'으로 꾸며졌다. 김종민은 코요태 리더이자 2016년 KBS 연예대상에서 최고 영예를 차지한 '예능 고수'이기도 하다. 이승기는 "현실적으로 KBS에서 두 번은 힘들고 SBS 연예대상을 노리려 올해부]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[코요태 신지, 데뷔 25년 첫 우정 팔찌···결혼+출산 언급]]></title>
         <id>https://v.daum.net/v/20230719013524104</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230718233302386"/>
         <updated>2023-07-18T15:12:01.556Z</updated>
         <content type="html"><![CDATA[[스타뉴스 | 윤성열 기자] /사진='신발 벗고 돌싱포맨' 방송 화면방송인 서장훈이 재산 2조원설에 대해 해명했다. 18일 오후 방송된 SBS 예능 프로그램 '신발 벗고 돌싱포맨'에서는 방송 2주년을 맞은 멤버들(탁재훈 이상민 임원희 김준호)의 모습이 그려졌다. 서장훈도 모델 송해나와 함께 방송 2주년을 축하하기 위해 게스트로 출연했다. 이날 방송에]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[신지 눈물 “무대공포증 44㎏까지 빠져” ‘불후의 명곡’ 10년 섭외 거절 이유]]></title>
-        <id>https://v.daum.net/v/20230718233258382</id>
-        <link href="https://v.daum.net/v/20230718233258382"/>
-        <updated>2023-07-18T15:12:01.559Z</updated>
-        <content type="html"><![CDATA[신지가 ‘불후의 명곡’ 10년 섭외 거절 이유를 털어놨다. 7월 18일 방송된 SBS 신규 예능 ‘강심장리그’에서 고요태 신지는 10년째 ‘불후의 명곡’ 섭외 거절이유를 말했다. 이날 신지는 과거 고요태가 아닌 다른 가수와 둘이 함께 한 무대에서 문제가 시작됐다며 “드라이 리허설까지 너무 잘했다. 카메라 리허설부터 이상하더라. 심장이. 원래 서서 부르]]></content>
     </entry>
 </feed>
