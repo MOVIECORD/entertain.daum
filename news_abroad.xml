@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-07-19T11:10:19.847Z</updated>
+    <updated>2023-07-19T12:20:45.031Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[킬리언 머피, 극단적 다이어트..."매일 저녁 아몬드 한 개만 먹어"]]></title>
+        <id>https://v.daum.net/v/20230719212030913</id>
+        <link href="https://v.daum.net/v/20230719212030913"/>
+        <updated>2023-07-19T12:20:44.270Z</updated>
+        <content type="html"><![CDATA[[TV리포트=이효경 기자] 오는 8월 15일 개봉 예정인 영화 '오펜하이머' 출연 배우인 킬리언 머피와 에밀리 블런트가 최근 "역할을 위해 극단적인 다이어트를 하고 있다"고 고백했다. 크리스토퍼 놀란 감독의 '오펜하이머'에서 '원자폭탄의 아버지'로 불리는 J. 로버트 오펜하이머를 연기한 배우 킬리안 머피는 연기를 위해 매우 강렬한 작업을 해야 했다. 오펜하]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[지지 하디드, 마리화나 소지로 체포돼도 SNS 업로드..."관심은 포기 못해"]]></title>
+        <id>https://v.daum.net/v/20230719210030383</id>
+        <link href="https://v.daum.net/v/20230719210030383"/>
+        <updated>2023-07-19T12:20:44.284Z</updated>
+        <content type="html"><![CDATA[[TV리포트=유비취 기자] 배우 레오나르도 디카프리오와 열애설에 휩싸였던 모델 지지 하디드가 마리화나 혐의로 체포된 후 근황을 알렸다. 18일 지지 하디드(28)는 소셜네트워크서비스를 통해 여름휴가를 즐기는 모습을 공개했다. 이는 그가 마리화나 소지로 체포된 이후 공개된 사진이었다. 지지 하디드는 비키니 수영복을 입고 여유로운 표정으로 일광욕을 즐기며 친구]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[유가령 "♥양조위, 영화관 갈 때마다 6석 예매…방해받을까봐"]]></title>
         <id>https://v.daum.net/v/20230719200951059</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230719152841536"/>
         <updated>2023-07-19T07:10:51.973Z</updated>
         <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]영화 ‘브리짓 존스의 일기’ 시리즈로 유명한 르네 젤위거(54)가 10살 연하 TV 호스트 앤트 안스테드(44)와 결혼할 예정이다. 연예매체 피플은 18일(현지시간) “젤위거아 안스테드가 결혼 준비를 하고 있다는 사실을 확인했다”고 보도했다. 이들은 2021년 6월부터 행복하게 교제해 왔으며, 안스테드가 캘리포니아 라구나]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['에릭남 여사친' 바바라 팔빈, 화보 아냐?..비밀 결혼식 사진 공개]]></title>
-        <id>https://v.daum.net/v/20230719151645963</id>
-        <link href="https://v.daum.net/v/20230719151645963"/>
-        <updated>2023-07-19T07:10:51.973Z</updated>
-        <content type="html"><![CDATA[[OSEN=박소영 기자] 모델 바바라 팔빈과 배우 딜런 스프라우스가 비밀 결혼식을 비하인드를 풀었다. 바바라 팔빈은 최근 보그 인터뷰를 통해 “우리끼리 소박한 결혼식을 올리려고 했다. 하지만 우리가 아끼는 사람들이 많고 그들도 참석하길 원했다. 결국 115명을 초대했다”고 알렸다. 딜런 스프라우스는 “우리에겐 웨딩 플래너가 없었다. 바바라와 그녀의 여동]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘이혼’ 아리아나 그란데, 사유는 코로나19…엔데믹으로 관계 붕괴 미국행]]></title>
-        <id>https://v.daum.net/v/20230719150017335</id>
-        <link href="https://v.daum.net/v/20230719150017335"/>
-        <updated>2023-07-19T06:14:59.149Z</updated>
-        <content type="html"><![CDATA[[스포츠서울 | 박효실기자] 세계적인 가수 겸 배우 아리아나 그란데(30)가 결혼 2년만에 파경을 맞은 가운데, 이혼의 결정적인 사유가 엔데믹이라는 분석이 나왔다. 페이지식스 등 여러 연예매체는 18일(현지시간) “이혼한 아리아나 그란데가 다시 가족들이 머물고 있는 미국 캘리포니아로 돌아갈 예정이다. 20일 출국한다”라고 전했다. 그란데의 결혼과 이혼]]></content>
     </entry>
 </feed>
