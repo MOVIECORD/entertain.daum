@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/variety</id>
     <title>다음 연예 ─ 뉴스 ─ 예능</title>
-    <updated>2023-07-20T15:11:24.510Z</updated>
+    <updated>2023-07-20T16:14:08.621Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['홈즈' 박태환 "야외스포츠 후 알로에로 관리..제일 좋아"]]></title>
+        <id>https://v.daum.net/v/20230721001229229</id>
+        <link href="https://v.daum.net/v/20230721001229229"/>
+        <updated>2023-07-20T16:13:57.827Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 | 김지은 인턴기자] /사진='구해줘! 홈즈' 화면 캡처'홈즈' 박태환이 피부 관리에 대해 언급했다. 20일 방송된 MBC 예능 프로그램 '구해줘! 홈즈'(이하 '홈즈')에서는 전 국가대표 수영선수 박태환이 '영끌 내 집 마련'을 꿈꾸는 1인 가구를 위해 출격했다. 이날 박태환은 오프닝에서 "'홈즈' 최초로 수중매물을 보는 그날까지"라며 인사]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김용필 "실직 위기에 가족들 걱정...아나운서 그만둔 지 얼마 안 됐는데"]]></title>
         <id>https://v.daum.net/v/20230721000743192</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230720232507743"/>
         <updated>2023-07-20T15:11:12.252Z</updated>
         <content type="html"><![CDATA[[마이데일리 = 임유리 기자] 김종국, 양세형, 이이경, 미미가 백자 달 항아리 앞에서 감탄을 금치 못했다. 20일 오후 방송된 SBS 예능 프로그램 ‘관계자 외 출입금지’에서는 국립중앙박물관을 찾았다. 이날 박물관을 둘러보던 멤버들은 백자 달 항아리를 발견하고 감탄을 내뱉었다. 김종국이 “너무 담백하다”며 감탄하자 양세형은 “이거 달 항아리 아니]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이효리, 오일장에서 고른 파격 의상에 김태호 PD  당황 "바지가.."]]></title>
-        <id>https://v.daum.net/v/20230720232433734</id>
-        <link href="https://v.daum.net/v/20230720232433734"/>
-        <updated>2023-07-20T15:11:12.258Z</updated>
-        <content type="html"><![CDATA['댄스가수 유랑단' 멤버들이 오일장에서 무대 의상을 골랐다. 7월 20일 방송된 tvN '댄스가수 유랑단' 9화에서는 멤버들이 시장에서 무대 의상을 고르는 모습이 담겼다. 이날 방송에서 김완선, 엄정화, 효리, 화사, 보아는 양양 전통시장 오일장을 방문해 옷 가게를 구경했다. 이효리는 옷을 고민 중인 엄정화를 란제리 코너로 데려갔고, 화사에게 레이스]]></content>
     </entry>
 </feed>
