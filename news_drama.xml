@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-07-21T15:11:32.650Z</updated>
+    <updated>2023-07-21T16:13:52.811Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['나혼산' 김대호, 인기 체감 "초등생이 알아봐"→기안84 거울치료 시킨 사연은?]]></title>
+        <id>https://v.daum.net/v/20230722002630955</id>
+        <link href="https://v.daum.net/v/20230722002630955"/>
+        <updated>2023-07-21T16:13:36.459Z</updated>
+        <content type="html"><![CDATA[[TV리포트 = 하수나 기자] 김대호 아나운서가 최근 체감 인기에 대해 언급했다.&nbsp; 21일 MBC 예능 ‘나 혼자 산다’에선 김대호 아나운서가 여름을 맞아 보양에 나서는 모습이 그려졌다.&nbsp; 이날 김대호 아나운서의 일상이 공개됐다. 애착바지를 입지 않은 모습에 전현무는 “연예인 병?”이라고 의심의 눈을 보였고 김대호는 “그날 바지를 빨았다”라고 말했다. 빨개]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김태리x오정세, '악귀' 정체 알았다..."너 목단이 아니지?"]]></title>
         <id>https://v.daum.net/v/20230721232754457</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230721204250553"/>
         <updated>2023-07-21T12:20:19.572Z</updated>
         <content type="html"><![CDATA[[동아닷컴]  전혜진과 최수영의 특별한 모녀 호흡으로 주목받고 있다. 지니TV 오리지널 드라마 ‘남남’(극본 민선애 연출 이민우)이 17일 베일을 벗었다. 극 중 김은미(전혜진 분)와 김진희(최수영 분) 모녀는 대환장 호흡을 보여줬다. 친구인지 엄마와 딸인지 구분할 수 없을 두 사람의 일상은 누군가에는 생소함을, 누군가에게는 놀랍고 유쾌함을 선사했다. 덕]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이종원, 이채영과 동맹 맺었지만…결국 대표 이사 '해임']]></title>
-        <id>https://v.daum.net/v/20230721203836495</id>
-        <link href="https://v.daum.net/v/20230721203836495"/>
-        <updated>2023-07-21T12:20:19.573Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 장인영 기자) '비밀의 여자' 이종원이 이채영과 손까지 잡았음에도 결국 YJ그룹 회장 자리에서 내려오게 됐다.&nbsp; 21일 방송된 KBS 2TV 일일드라마 '비밀의 여자'에서는 남연석(이종원 분)이 대표 이사에서 해임된 장면이 전파를 탔다.&nbsp; 이날 정영준(이은형)은 정겨울(최윤영)에게 "남 회장이 풀려났대. 조금 전에 귀가 조치됐어"라고 알렸다.]]></content>
     </entry>
 </feed>
