@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-07-21T08:14:17.487Z</updated>
+    <updated>2023-07-21T09:11:23.863Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[크리스토퍼 놀란 감독 "더 이상 슈퍼히어로 영화는 NO!"]]></title>
+        <id>https://v.daum.net/v/20230721172031646</id>
+        <link href="https://v.daum.net/v/20230721172031646"/>
+        <updated>2023-07-21T09:11:22.851Z</updated>
+        <content type="html"><![CDATA[[TV리포트=강성훈 기자] '거장'이라 불리는 크리스토퍼 놀란 감독은 더 이상 슈퍼히어로 영화에 관심이 없다. 놀란 감독의 신작 '오펜하이머'가 아카데미 시상식 11관왕의 영예를 안았다. 전 세계 많은 사람들이 놀란의 신작 개봉을 기대하고 있다. 이런 가운데 놀란이 "더 이상 슈퍼히어로 영화를 만들지 않는다"라고 선언해 관심이 모이고 있다. 최근 놀란은 한]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[킴 카다시안 맞나...'아메리칸 호러스토리' 속 충격 비주얼]]></title>
         <id>https://v.daum.net/v/20230721170031025</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230720212030276"/>
         <updated>2023-07-20T12:22:25.017Z</updated>
         <content type="html"><![CDATA[[TV리포트=안수현 기자] 래퍼 칸예 웨스트와 킴 카다시안의 이혼 과정이 온 세상에 알려졌다. 20일(현지 시간) 킴 카다시안은 방송 '카다시안 패밀리'을 통해 이혼이 확정되던 날의 모습을 적나라하게 공개했다. 그는 전남편 칸예 웨스트의 창고 중 한 곳을 청소해 이목을 모았다. 이날 킴 카다시안은 그와의 추억이 담긴 기념품을 저장하고 싶은 욕구에 대해 털어]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['58세' 배우 폴리나, 탈의 사진 공개..."노화는 자연스러운 것"]]></title>
-        <id>https://v.daum.net/v/20230720210031880</id>
-        <link href="https://v.daum.net/v/20230720210031880"/>
-        <updated>2023-07-20T12:22:25.020Z</updated>
-        <content type="html"><![CDATA[[TV리포트=안수현 기자] 영화배우 폴리나 포리즈코바(58)가 상반신 노출을 한 사진을 공개해 관심이 집중된다. 폴리나 포리즈코바는 자신의 소셜 네트워크 서비스 계정에 속옷만 입은 채 탄탄한 복근을 자랑하는 사진을 자주 게시한다. 최근에도 그는 노출이 있는 사진을 올려 이목을 끈 바 있다. 그는 스스로를 또래 여성과 끊임없이 비교하는 이들에게 메시지를 주고]]></content>
     </entry>
 </feed>
