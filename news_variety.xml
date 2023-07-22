@@ -2,15 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/variety</id>
     <title>다음 연예 ─ 뉴스 ─ 예능</title>
-    <updated>2023-07-22T15:10:34.106Z</updated>
+    <updated>2023-07-22T16:12:54.376Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[박재민, 천장에 닿는 머리‥층간 소음 유발 헬스장에 당황]]></title>
+        <id>https://v.daum.net/v/20230723011020816</id>
+        <link href="https://v.daum.net/v/20230723011020816"/>
+        <updated>2023-07-22T16:12:42.492Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 이하나 기자] 박재민이 아담한 호텔 헬스장에 운동을 포기했다. 7월 22일 방송된 KBS 2TV ‘배틀트립2’에서는 박재민과 멜로망스 김민석의 베트남 하노이 여행 2일차 아침이 공개 됐다. 전날 밤 “오늘은 우리가 악마와 손을 잡았잖아. 내일은 반성, 회개, 자기성찰의 시간을 갖는다”라며 운동 욕심을 드러낸 박재민은 아침 일찍 일어나 김민석을]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[안무가 캐스퍼 합류…엑소, 예능 최초 완전체 등장 '깜짝']]></title>
         <id>https://v.daum.net/v/20230723000002588</id>
         <link href="https://v.daum.net/v/20230723000002588"/>
         <updated>2023-07-22T15:10:16.920Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 이이진 기자) 안무가 캐스퍼가 수입을 공개했다. 22일 방송된 KBS 2TV '살림하는 남자들 시즌2'(이하 '살림남2')에서는 캐스퍼가 새롭게 합류한 장면이 전파를 탔다. 이날 김수찬은 김태연을 데리고 10년 동안 무료로 봉사했던 노래교실을 찾아갔다. 김수찬은 "노래교실을 갈 거다. 삼촌이 데뷔하고 나서 노래교실에 곡 홍보도 하고 이름 알리]]></content>
+        <content type="html"><![CDATA[(엑스포츠뉴스 이이진 기자) 그룹 엑소(EXO)가 안무가 캐스퍼를 지원사격했다. 22일 방송된 KBS 2TV '살림하는 남자들 시즌2'(이하 '살림남2')에서는 캐스퍼가 새롭게 합류한 장면이 전파를 탔다. 이날 김수찬은 김태연을 데리고 10년 동안 무료로 봉사했던 노래교실을 찾아갔다. 김수찬은 "노래교실을 갈 거다. 삼촌이 데뷔하고 나서 노래교실에 곡 홍보]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[방주연 “의사 시댁 골동품 닦으면 집 한 채 값 현금 나와”]]></title>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230722225038273"/>
         <updated>2023-07-22T14:09:02.068Z</updated>
         <content type="html"><![CDATA[[OSEN=임혜영 기자] 이천수의 양가 어머니가 팽팽한 기싸움으로 웃음을 자아냈다. 22일 방송된 KBS 2TV '살림하는 남자들 시즌2'(이하 '살림남')에서는 이천수가 양가 어머님을 모시고 효도투어를 하는 모습이 그려졌다. 이천수의 집에는 심하은의 어머니인 장모님이 방문했다. 장모님이 오이무침을 하는 사이, 이천수의 어머니도 등장했다. 이천수의 어머]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김병만 "비행 시작 계기…스카이다이빙 중 허리 부러져"]]></title>
-        <id>https://v.daum.net/v/20230722224610260</id>
-        <link href="https://v.daum.net/v/20230722224610260"/>
-        <updated>2023-07-22T14:09:02.075Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 신현지 기자) '캡틴킴'에서 김병만이 허리 부상과 관련해 이야기했다. 22일 방송된 MBN 예능 프로그램 '떴다! 캡틴 킴'(이하 '캠틴킴')에서는 김병만이 비행을 시작하게 된 계기와 부상에 대해 전했다. 이날 김병만은 허리 부상에 관해 입을 열었다. 김병만이 비행을 시작하게 된 계기가 무엇인지 질문이 나오자, 김병만은 "스카이다이빙을 하다가]]></content>
     </entry>
 </feed>
