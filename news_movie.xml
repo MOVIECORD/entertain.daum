@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-07-22T03:11:51.148Z</updated>
+    <updated>2023-07-22T04:12:59.035Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[염정아 "김혜수와 쌍따귀 씬, 연기경력 30년차인데 진짜 때렸겠나"]]></title>
+        <id>https://v.daum.net/v/20230722130157033</id>
+        <link href="https://v.daum.net/v/20230722130157033"/>
+        <updated>2023-07-22T04:12:33.925Z</updated>
+        <content type="html"><![CDATA[류승완 감독의 신작 '밀수'에서 평생 물질만 하다 밀수판에 가담한 해녀들의 리더 '엄진숙'을 연기한 염정아를 만났다. 이 영화의 출연 이유중 '김혜수'가 큰 비중을 차지했다는 염정아는 "영화를 준비하는 과정부터 김혜수는 엄청나게 철저했다. 자료조사도 엄청나게 하고 그렇게까지 하는 분은 처음 봤다. 영화 속 '춘자'가 보여준 의상, 헤어, 메이크업이 모]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['바비', 그대로 켄분하다]]></title>
         <id>https://v.daum.net/v/20230722120009605</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230722060213136"/>
         <updated>2023-07-21T21:09:06.148Z</updated>
         <content type="html"><![CDATA[한 사람의 인생을 파고드는 건 때때로 고독하다고 배우들은 말한다. 인물의 마음과 생각을 통달해야 하는데, 기댈 구석이 많지 않아서다. 단서를 얻을 곳은 인물이 뛰노는 대본과 모든 판을 설계한 감독뿐. 혈혈단신의 마음으로 임하던 여느 촬영장과 영화 ‘밀수’(감독 류승완)가 달랐던 건 모두가 앙상블을 이뤄서다. 베테랑 배우 김혜수는 ‘밀수’를 두고 “처음]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['밀수', '액션 장인' 류승완의 진화 ①]]></title>
-        <id>https://v.daum.net/v/20230722060025059</id>
-        <link href="https://v.daum.net/v/20230722060025059"/>
-        <updated>2023-07-21T21:09:06.150Z</updated>
-        <content type="html"><![CDATA[(서울=뉴스1) 정유진 기자 = '액션 장인' 류승완의 진화는 계속된다. 영화 '모가디슈'(2021) 이후 2년 만에 돌아온 류승완 감독의 '밀수'가 개봉 전부터 호평을 받고 있다. '밀수'는 바다에 던져진 생필품을 건지며 생계를 이어가던 사람들 앞에 일생일대의 큰 판에 휘말리며 벌어지는 일을 그린 범죄물이다. 배우 김혜수와 염정아, 조인성, 박정민,]]></content>
     </entry>
 </feed>
