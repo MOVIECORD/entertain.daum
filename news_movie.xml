@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-07-22T07:09:28.553Z</updated>
+    <updated>2023-07-22T08:14:34.731Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['콘크리트 유토피아' 이병헌→박보영, 부산·대구 무대인사 출격]]></title>
+        <id>https://v.daum.net/v/20230722161022897</id>
+        <link href="https://v.daum.net/v/20230722161022897"/>
+        <updated>2023-07-22T08:14:10.791Z</updated>
+        <content type="html"><![CDATA[[OSEN=하수정 기자] 이병헌, 박서준, 박보영의 만남으로 기대를 모으는 올여름 최고의 기대작 '콘크리트 유토피아'(감독 엄태화, 제작 클라이맥스 스튜디오, 공동제작 BH엔터테인먼트, 제공배급 롯데엔터테인먼트)가 8월 5일 부산, 8월 6일 대구 지역 무대인사를 통해 관객들과 만난다. '콘크리트 유토피아'는 대지진으로 폐허가 되어 버린 서울, 유일하게]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[조인성 "김혜수 사랑으로 꽃 피운 '밀수'·사랑하는 도경수 '더 문', 다 잘 돼야죠"]]></title>
         <id>https://v.daum.net/v/20230722160701864</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230722090512735"/>
         <updated>2023-07-22T00:58:38.525Z</updated>
         <content type="html"><![CDATA[스위스의 ‘조력사망’ 단체에 등록한 한국인의 수가 200명이 넘는다. 숫자를 밝히지 않는 단체까지 추산해보면 300명은 넘을 것이다. 분명한 건 지금까지 이 단체들의 조력을 받아서 세상을 떠난 한국인의 수가 10명이라는 사실. 고통을 못 이겨 죽음을 선택할 때 의사의 도움을 받아 의사가 처방한 약을 환자 스스로 주입하는 경우(조력사망)도 있고, 의사가 약물]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[조인성 "올 하반기 영화, 드라마, 예능까지 열일! 너무 많이 나오니 숨고싶어"]]></title>
-        <id>https://v.daum.net/v/20230722080154158</id>
-        <link href="https://v.daum.net/v/20230722080154158"/>
-        <updated>2023-07-21T23:10:32.385Z</updated>
-        <content type="html"><![CDATA[류승완 감독의 신작 '밀수'에서 사업가적인 면모와 악독한 기질로 밀수팜을 접수한 전국구 밀수왕 '권상사'를 연기한 조인성을 만났다. 부산항이 단독으로 막히자 새로운 활로를 모색하던 중 '춘자'(김혜수 불)를 만나 군천으로 내려가게 된 '권상사'는 품위 있고 남다른 카리스마가 느껴지는 액션을 선보이며 관객의 마음을 훔쳐낸다. 이번 영화에서 많은 아이디어를]]></content>
     </entry>
 </feed>
