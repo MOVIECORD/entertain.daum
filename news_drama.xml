@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-07-22T02:05:28.394Z</updated>
+    <updated>2023-07-22T03:11:51.149Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["악에 받쳤다"..조병규, 위풍당당 '경이로운 소문2' 복귀 이유]]></title>
+        <id>https://v.daum.net/v/20230722114723466</id>
+        <link href="https://v.daum.net/v/20230722114723466"/>
+        <updated>2023-07-22T03:11:32.848Z</updated>
+        <content type="html"><![CDATA[[OSEN=박소영 기자] 당당하고 자신만만했다. 자신의 무죄를 확신하는 까닭에 가능한 행보다. 배우 조병규가 과거 학교 폭력 의혹을 딛고 tvN&nbsp;새 토일 드라마 ‘경이로운 소문2: 카운터 펀치’로 돌아온다. 29일 첫 방송되는&nbsp;‘경이로운 소문2’는 새로운 능력과 신입 멤버 영입으로 더 강해진 악귀 사냥꾼&nbsp;‘카운터’들이 더 악해진 지상의 악귀들을 물리치는]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['넘버스' 김명수·최진혁, 최민수 악행에 분노 폭발…뒤통수 '얼얼']]></title>
+        <id>https://v.daum.net/v/20230722112251182</id>
+        <link href="https://v.daum.net/v/20230722112251182"/>
+        <updated>2023-07-22T03:11:32.867Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 노한빈 기자] MBC 금토드라마 '넘버스 : 빌딩숲의 감시자들'(극본 정안 오혜석 연출 김칠봉, 이하 '넘버스')이 시청자들의 뒤통수를 얼얼하게 만들었다. '넘버스'가 한 치 앞을 예측할 수 없는 충격 전개로 시청자들을 제대로 '멘붕'에 빠지게 만들었다. 장호우(김명수)와 한승조(최진혁), 그리고 악마의 본색을 드러내기 시작한 한제균(최민]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[박주미-이다연, 포옹하고 오열하는 고부]]></title>
         <id>https://v.daum.net/v/20230722101523482</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230722084654514"/>
         <updated>2023-07-22T00:58:43.983Z</updated>
         <content type="html"><![CDATA[[마이데일리 = 박서연 기자] ‘킹더랜드’ 이준호, 임윤아가 사내 연애로 인해 천국과 지옥을 오간다. 22일 밤 10시 30분 방송되는 종합편성채널 JTBC 토일드라마 ‘킹더랜드’(극본 최롬(팀 하리마오) 연출 임현욱)에서는 천하의 구원(이준호)마저 당황하게 만든 웃지 못할 해프닝이 벌어진다. 킹호텔 100주년 기념 파티 준비로 각자 바쁜 와중에도 구원과]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김태리, 김원해 죽음에 "내가 했다"→홍경·오정세, 악귀  정체 파악하나]]></title>
-        <id>https://v.daum.net/v/20230722084417491</id>
-        <link href="https://v.daum.net/v/20230722084417491"/>
-        <updated>2023-07-22T00:58:43.986Z</updated>
-        <content type="html"><![CDATA[[OSEN=오세진 기자] ‘악귀’ 김원해가 죽고 김태리, 오정세, 홍경이 악귀의 정체를 새로 추측했다. 21일 방영한 SBS 금토드라마 ‘악귀’(극본 김은희, 연출 이정림, 제작 스튜디오S, BA엔터테인먼트)에서는 서문철(김원해 분)의 죽음과 이홍새(홍경 분)의 각성, 그리고 염해승(오정세 분)과 구산영(김태리 분)이 악귀의 정체를 찾아가는 과정이 그려]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이준호X임윤아, 일분일초도 떨어지기 싫어! 퇴근도 함께]]></title>
-        <id>https://v.daum.net/v/20230722083548406</id>
-        <link href="https://v.daum.net/v/20230722083548406"/>
-        <updated>2023-07-22T00:58:44.004Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 이민지 기자] 이준호, 임윤아가 천국과 지옥을 오간다. 7월 22일 방송되는 JTBC 토일드라마 ‘킹더랜드’(극본 최롬(팀 하리마오)/연출 임현욱)에서 천하의 구원(이준호 분)마저 당황하게 만든 웃지 못할 해프닝이 벌어진다. 킹호텔 100주년 기념 파티 준비로 각자 바쁜 와중에도 구원과 천사랑(임윤아 분)은 틈틈이 눈빛으로, 말 한마디로 애정을]]></content>
     </entry>
 </feed>
