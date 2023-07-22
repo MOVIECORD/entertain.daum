@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-07-22T08:14:34.731Z</updated>
+    <updated>2023-07-22T09:10:37.589Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[조인성, '밀수' 패싸움 신 비하인드 공개 "동작은 크게 해야 태가 나"]]></title>
+        <id>https://v.daum.net/v/20230722180028041</id>
+        <link href="https://v.daum.net/v/20230722180028041"/>
+        <updated>2023-07-22T09:10:15.426Z</updated>
+        <content type="html"><![CDATA[[서울경제] 배우 조인성이 '밀수'에서 명장면으로 꼽히는 액션 신에 대해 언급했다. 지난 21일 서울 종로구에 위치한 한 카페에서 '밀수'(감독 류승완'에서 권 상사 역으로 출연한 조인성의 인터뷰가 진행됐다. '밀수'는 생계유지를 위해 밀수 판에 뛰어든 해녀들의 이야기가 담겨 있으며 권 상사는 전국구 밀수왕 권 상사 역으로 열연을 펼쳤다. 액션의 힘은]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['콘크리트 유토피아' 이병헌→박보영, 부산·대구 무대인사 출격]]></title>
         <id>https://v.daum.net/v/20230722161022897</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230722091014780"/>
         <updated>2023-07-22T00:58:38.525Z</updated>
         <content type="html"><![CDATA[[OSEN=하수정 기자] '미션 임파서블: 데드 레코닝 PART ONE'(미션 임파서블7)이 '명탐정코난'을 제치고 하루 만에 흥행 1위를 재탈환했다.&nbsp; 22일 영화진흥위원회 영화관입장권통합전산망 집계에 따르면, '미션 임파서블7'은 지난 21일 하루 1,691개 스크린에서 14만 1,363명을 끌어 모아 누적관객수 237만 2,378명을 기록, 박스오]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[죽음에 맞서는 이들을 응원하며]]></title>
-        <id>https://v.daum.net/v/20230722090512735</id>
-        <link href="https://v.daum.net/v/20230722090512735"/>
-        <updated>2023-07-22T00:58:38.525Z</updated>
-        <content type="html"><![CDATA[스위스의 ‘조력사망’ 단체에 등록한 한국인의 수가 200명이 넘는다. 숫자를 밝히지 않는 단체까지 추산해보면 300명은 넘을 것이다. 분명한 건 지금까지 이 단체들의 조력을 받아서 세상을 떠난 한국인의 수가 10명이라는 사실. 고통을 못 이겨 죽음을 선택할 때 의사의 도움을 받아 의사가 처방한 약을 환자 스스로 주입하는 경우(조력사망)도 있고, 의사가 약물]]></content>
     </entry>
 </feed>
