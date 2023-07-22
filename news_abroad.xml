@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-07-21T23:10:53.168Z</updated>
+    <updated>2023-07-22T00:59:01.422Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[로다주, '어벤져스' 타투 비하인드 썰 공개 "토르는 아파하더라"]]></title>
+        <id>https://v.daum.net/v/20230722083429394</id>
+        <link href="https://v.daum.net/v/20230722083429394"/>
+        <updated>2023-07-22T00:59:00.598Z</updated>
+        <content type="html"><![CDATA[[OSEN=박소영 기자] 로버트 다우니 주니어가 ‘어벤져스’ 동료들과 한 타투 비하인드 스토리를 풀어냈다. 지난 2018년 ‘어벤져스: 인피니티 워’ 개봉 후 로버트 다우니 주니어를 비롯한 크리스 헴스워스, 크리스 에반스, 스칼렛 요한슨, 제레미 레너는 단체 타투를 하기로 결정했다. 어벤져스를 상징하는 문양을 몸에 새기며 끈끈한 유대감을 자랑했다. 이에]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[맷 데이먼 "'아바타' 출연 제안 거절해 3천억원 놓쳤다"]]></title>
         <id>https://v.daum.net/v/20230722065008479</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230721152030759"/>
         <updated>2023-07-21T07:10:49.011Z</updated>
         <content type="html"><![CDATA[[TV리포트=안수현 기자] 배우 히로스에 료코와 캔들아티스트 캔들 준의 별거 소식이 전해졌다. 지난 6월 배우 히로스에 료코(43)가 셰프 토바 슈사쿠(45)와 바람을 피우는 것이 알려져 일본 연예계가 충격에 빠졌었다. 두 사람의 불륜이 보도된 지 약 한 달 후인 7월 18일은 히로스에의 생일이었다. 그녀의 집은 생일을 축하하기 위해 모인 몇몇 지인들로]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아리아나 그란데, 이혼 반년만 새 남친 생겼다]]></title>
-        <id>https://v.daum.net/v/20230721150640230</id>
-        <link href="https://v.daum.net/v/20230721150640230"/>
-        <updated>2023-07-21T06:14:31.653Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 이민지 기자] 이혼 소식을 알린 가수 아리아나 그란데가 열애설에 휩싸였다. 피플은 7월 20일(현지시간) 아리아나 그란데가 달튼 고메즈와 이혼 후 배우 에단 슬레이터와 데이트 중이라고 보도했다. 아리아나 그란데는 영화화 되는 '위키드'에서 함께 출연하는 에단 슬레이터와 데이트 중이다. 아리아나 그란데는 지난 2021년 5월 부동산 중개업자인]]></content>
     </entry>
 </feed>
