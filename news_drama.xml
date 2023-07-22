@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-07-22T00:59:01.421Z</updated>
+    <updated>2023-07-22T02:05:28.394Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[박주미-이다연, 포옹하고 오열하는 고부]]></title>
+        <id>https://v.daum.net/v/20230722101523482</id>
+        <link href="https://v.daum.net/v/20230722101523482"/>
+        <updated>2023-07-22T02:05:12.794Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 이민지 기자] 박주미, 이다연이 오열하며 포옹한다. TV조선 주말드라마 ‘아씨 두리안’(극본 피비(Phoebe, 임성한)/연출 신우철 정여진) 측은 7월 22일 두리안(박주미 분), 김수저(이다연 분) 스틸을 공개했다. 특히 지난 8회에서는 두리안과 김소저, 각각의 전생과 현생으로 이어진 삼각 로맨스의 밀도가 짙어지면서 파란이 예고됐다. 두]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘악귀’ 김태리 “너 목단이 아니지?”…예측 뒤엎은 반전]]></title>
+        <id>https://v.daum.net/v/20230722100000242</id>
+        <link href="https://v.daum.net/v/20230722100000242"/>
+        <updated>2023-07-22T02:05:12.795Z</updated>
+        <content type="html"><![CDATA[‘악귀’ 김태리의 확신 엔딩이 악귀의 정체에 대한 지금까지의 예측을 뒤엎었다. 지난 21일 방송된 SBS ‘악귀’ 9회 시청률은 수도권 가구 11.1%, 전국 가구 10.3%를 기록했다. 또한, 순간 시청률은 12.5%까지 오르며, 동시간대 및 금요드라마 정상의 자리를 수성했다. 채널경쟁력과 화제성을 가늠하는 핵심 지표인 2049 시청률은 4.1%를 나타내]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[최민수 악행 시대를 초월, 김명수·최진혁 분노]]></title>
         <id>https://v.daum.net/v/20230722095104186</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230722083548406"/>
         <updated>2023-07-22T00:58:44.004Z</updated>
         <content type="html"><![CDATA[[뉴스엔 이민지 기자] 이준호, 임윤아가 천국과 지옥을 오간다. 7월 22일 방송되는 JTBC 토일드라마 ‘킹더랜드’(극본 최롬(팀 하리마오)/연출 임현욱)에서 천하의 구원(이준호 분)마저 당황하게 만든 웃지 못할 해프닝이 벌어진다. 킹호텔 100주년 기념 파티 준비로 각자 바쁜 와중에도 구원과 천사랑(임윤아 분)은 틈틈이 눈빛으로, 말 한마디로 애정을]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[천우희 "'이로운 사기', 긴 생명력 가진 작품 될 것"]]></title>
-        <id>https://v.daum.net/v/20230722083501397</id>
-        <link href="https://v.daum.net/v/20230722083501397"/>
-        <updated>2023-07-22T00:58:44.006Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 | 최혜진 기자] tvN 드라마 '이로운 사기'의 주연배우 천우희가 종영 인터뷰를 위해 포즈를 취하고 있다. /사진제공=H&amp;엔터테인먼트 2023.07.19 /사진=이동훈 기자 photoguy@tvN 월화드라마 '이로운 사기'(극본 한우주, 연출 이수현)는 낮은 시청률로 막을 내렸지만, 남긴 메시지의 잔상이 깊다. 공감과 사람에 대한 이야기를 다룬]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['킹더랜드' 이준호♥임윤아, 사내연애 발각..경악케한 정체는?]]></title>
-        <id>https://v.daum.net/v/20230722083452396</id>
-        <link href="https://v.daum.net/v/20230722083452396"/>
-        <updated>2023-07-22T00:58:44.008Z</updated>
-        <content type="html"><![CDATA[[OSEN=하수정 기자] 이준호, 임윤아가 사내 연애로 인해 천국과 지옥을 오간다. JTBC 토일드라마 ‘킹더랜드’(극본 최롬(팀 하리마오), 연출 임현욱, 제작 앤피오엔터테인먼트, 바이포엠스튜디오, SLL) 오늘(22일) 방송에서는 천하의 구원(이준호 분)마저 당황하게 만든 웃지 못할 해프닝이 벌어진다. 킹호텔 100주년 기념 파티 준비로 각자 바쁜]]></content>
     </entry>
 </feed>
