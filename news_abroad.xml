@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-07-24T22:10:36.387Z</updated>
+    <updated>2023-07-24T23:11:05.756Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이리나 샤크 애정공세 통했나 “톰 브래디와 함께 밤 보냈다”]]></title>
+        <id>https://v.daum.net/v/20230725072248110</id>
+        <link href="https://v.daum.net/v/20230725072248110"/>
+        <updated>2023-07-24T23:11:04.825Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 이민지 기자] 이리나 샤크와 톰 브래디가 데이트를 시작했다. 7월 24일(현지시간) TMZ는 톰 브래디와 이리나 샤크가 함께 밤을 보냈다고 보도했다. 보도에 따르면 이리나 샤크는 지난 주말 밤을 톰 브래디의 집에서 보냈다. 다음 날 오전 톰 브래디가 이리나 샤크를 호텔에 데려다 줬으나 그날 오후 다시 그녀를 데리러 와 데이트를 했다. 톰 브래]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[톰 브래디♥이리나 샤크 열애 포착, “집에서 하룻밤 함께 보내”]]></title>
         <id>https://v.daum.net/v/20230725064012547</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230724170530548"/>
         <updated>2023-07-24T08:14:58.106Z</updated>
         <content type="html"><![CDATA[[TV리포트=유비취 기자] 배우 브리 라슨이 '캡틴 마블'의 후속 '더 마블스'에 의외의 이유로 막대한 CG가 들어갔다고 고백했다. 지난 18일(현지 시간) 엔터테인먼트 위클리와 진행한 인터뷰에서 브리 라슨(33)은 고양이 알레르기로 인해 '더 마블스'에 막대한 CG 예산이 투입됐다고 털어놨다. 브리 라슨은 "나는 아직도 (고양이) 알레르기가 있다"라면서]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['보랩' 라미 말렉♥︎루시 보인턴 5년 열애 끝났나..."다른 여성과 술자리"]]></title>
-        <id>https://v.daum.net/v/20230724165334057</id>
-        <link href="https://v.daum.net/v/20230724165334057"/>
-        <updated>2023-07-24T08:14:58.111Z</updated>
-        <content type="html"><![CDATA[[OSEN=유수연 기자] 영화 '보헤미안 랩소디'의 공식 커플 라미 말렉과 루시 보인턴이 결별했다는 소식이 전해졌다. 24일(현지시각) 영국 데일리메일 등 외신 매체는 "라미 말렉과 루시 보인턴 커플이 5년 열애 끝에 결별했다는 추측이 돌고 있다"고 보도했다. 앞서 두 사람은 2017년 영화 '보헤미안 랩소디'를 함께 촬영하며 인연을 맺었다. 이후 20]]></content>
     </entry>
 </feed>
