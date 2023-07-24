@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-07-24T04:13:16.535Z</updated>
+    <updated>2023-07-24T05:11:16.232Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘보헤미안 랩소디 커플’ 라미 말렉♥루시 보인턴, 5년만에 결별 “새 여자 사귄다”]]></title>
+        <id>https://v.daum.net/v/20230724134752250</id>
+        <link href="https://v.daum.net/v/20230724134752250"/>
+        <updated>2023-07-24T05:11:15.506Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]영화 ‘보헤미안 랩소디’ 커플 라미 말렉(42)이 루시 보인턴(29)과 결별했다. 영국 데일리메일은 23일(현지시간) “라미 말렉이 영국 노팅힐의 한 술집에서 여배우 레이첼 브로스나한(33)과 술을 마셨다”고 보도했다. 이에 앞서 라미 말렉은 지난 7월 8일 영국 런던에서 열린 브루스 스프링스틴 콘서트에서 ‘더 크라운’으로]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['日 배우' 안, 베이비시터 쓰면 안 되나..."어머니상 벗어난다" 비판↑]]></title>
+        <id>https://v.daum.net/v/20230724132031534</id>
+        <link href="https://v.daum.net/v/20230724132031534"/>
+        <updated>2023-07-24T05:11:15.513Z</updated>
+        <content type="html"><![CDATA[[TV리포트=유비취 기자] 일본의 인기 배우 안의 육아 방식이 도마 위에 올랐다. 안(37)은 지난해 3명의 자녀와 함께 프랑스 파리로 이주해 생활하고 있다. 현재 그는 배우로서 일과 엄마로서 육아를 동시에 분투하고 있는 것으로 알려졌다. 그러나 지난 15일 닛폰 테레비 '마츠코 회의'에 출연한 안에 발언에 대해 찬반이 오가고 있다. 안은 3명의 자녀를]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[래퍼 드레이크 "애 생겨도 '결혼' 안 하는 이유? 구시대적 같다"]]></title>
         <id>https://v.daum.net/v/20230724120400923</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230723144120040"/>
         <updated>2023-07-23T06:13:34.930Z</updated>
         <content type="html"><![CDATA[[스포츠조선 정빛 기자] 최근 유명 셰프 토바 슈사쿠와 불륜을 인정한 일본 여배우 히로스에 료코가 결국 남편인 캔들 아티스트 캔들 준과 이혼했다. 히로스에 료코는 23일 소속사 공식 홈페이지를 통해 "나와 히로스에 준은 이혼하기로 합의하고 이혼서를 제출했다"는 글을 남겼다. 이 글에 따르면, 자녀 친권은 히로스에 료코가 갖는다. 히로스에]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[조니 뎁X앰버 허드 지독한 이혼史, 넷플릭스 다큐로 공개된다]]></title>
-        <id>https://v.daum.net/v/20230723141113483</id>
-        <link href="https://v.daum.net/v/20230723141113483"/>
-        <updated>2023-07-23T06:13:34.931Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 하지원 기자] '세기의 이혼' 조니 뎁과 앰버 허드 이혼 공방이 넷플릭스 다큐멘터리로 공개된다. 7월 22일(현지시각) 인사이더 등 다수 외신에 따르면 넷플릭스는 법정 다큐멘터리 '뎁 vs 허드'를 8월 16일 공개한다. 3부작인 '뎁 vs 허드'는 재판 과정과 결정을 분석하는 내용이 담긴다. 특히 에피소드 2, 3에서는 온라인 보도가 재판에 어]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘테일러 스위프트 전남친’ 매티 힐리, 무대서 남자와 키스, “말레이시아 공연 금지당해”]]></title>
-        <id>https://v.daum.net/v/20230723135607214</id>
-        <link href="https://v.daum.net/v/20230723135607214"/>
-        <updated>2023-07-23T05:10:36.618Z</updated>
-        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]세계적 팝스타 테일러 스위프트(33)의 전 남친인 ‘The 1975’의 매티 힐리(34)가 남자와 키스했다가 말레이시아 공연이 금지됐다. 말레이시아 법에 따르면 동성 간 행위는 불법이며 최대 20년 징역형에 처해질 수 있다. 22일(현지시간) 페이지식스에 따르면, 매티 힐리는 지난 21일 말레이시아의 수도 쿠알라룸푸르에서 열]]></content>
     </entry>
 </feed>
