@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-07-24T12:20:49.755Z</updated>
+    <updated>2023-07-24T13:17:10.244Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["관계성부터 영화"…'여름 대전' 천만 영화인들, 서사도 재밌네]]></title>
+        <id>https://v.daum.net/v/20230724215002935</id>
+        <link href="https://v.daum.net/v/20230724215002935"/>
+        <updated>2023-07-24T13:16:44.421Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 오승현 기자) 한국 영화를 이끈 '천만 영화인'들이 올 여름 대격돌을 예고한 가운데, 끈끈한 이들의 관계성이 더욱 기대감을 불어넣는다. 국내 4대 배급사(롯데, 쇼박스, NEW, CJ E&amp;M)의 야심작이 여름 개봉을 결정하며 한국 영화계에는 '빅4 대전'이 시작됐다.&nbsp; 최고의 배우들의 총 집합 캐스팅으로 화제 된 영화 '밀수'(감독 류승완)을]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[영화 '오펜하이머', 힌두교 공격 논란...인도 사람들 분노]]></title>
         <id>https://v.daum.net/v/20230724210230433</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230724172716327"/>
         <updated>2023-07-24T09:11:41.517Z</updated>
         <content type="html"><![CDATA[[이선필 기자] ▲ &nbsp;영화 &lt;비공식작전&gt;에서 외교관 민준 역을 맡은 배우 하정우.ⓒ (주)쇼박스국내 극장가 최고 성수기인 여름방학과 겨울방학 시즌 하면 떠오르는 배우들이 있다. 배우 하정우도 분명 그중 한 사람이다. &lt;암살&gt; &lt;베를린&gt; &lt;터널&gt; &lt;신과 함께&gt; 시리즈 등 최근 10여 년을 그는 대형 상업영화와 궤를 같이했다. 오는 8월 2일 개봉하는 &lt;비공식]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[하정우가 매너리즘을 극복하는 법 "'대부' 다시 보기"]]></title>
-        <id>https://v.daum.net/v/20230724172108114</id>
-        <link href="https://v.daum.net/v/20230724172108114"/>
-        <updated>2023-07-24T09:11:41.518Z</updated>
-        <content type="html"><![CDATA[[SBS 연예뉴스 | 김지혜 기자] 배우 하정우가 매너리즘을 극복하는 방법으로 '고전 찾아보기'를 언급했다. 24일 오후 서울 삼청동에서 진행된 '비공식작전' 관련 인터뷰에서 하정우는 "매너리즘을 극복하기 위해 어떤 노력을 하느냐"는 질문에 "내가 좋아하는 영화를 찾아본다. 왜 흘러간 노래를 들으면 그 시절이 기억이 나지 않나. 영화도 그렇다. 대학교때 보]]></content>
     </entry>
 </feed>
