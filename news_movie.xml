@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-07-26T11:09:34.865Z</updated>
+    <updated>2023-07-26T12:21:16.758Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[크리스토퍼 놀란 감독, “제임스 본드 영화 찍고 싶어” 이번엔 진짜?]]></title>
+        <id>https://v.daum.net/v/20230726205657665</id>
+        <link href="https://v.daum.net/v/20230726205657665"/>
+        <updated>2023-07-26T12:20:54.639Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]‘오펜하이머’의 크리스토퍼 놀란 감독이 또 다시 제임스 본드 영화에 관심을 드러냈다. 놀란 감독은 최근 팟캐스트 ‘해피 새드 컨퓨즈드’와 인터뷰에서 “내 필모그래피에서 제임스 본드 영화들의 영향력은 분명히 있다”면서 “그 중의 하나를 만드는 것은 놀라운 특권이다”라고 말했다. 그러나 창작의 자유가 주어졌을 때 메가폰을 잡을]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[류승완 "먹고 살기 위해 이렇게까지 해야 하나? 그런 고민 현장에서 많이 해"]]></title>
         <id>https://v.daum.net/v/20230726200205454</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230726161808557"/>
         <updated>2023-07-26T08:16:34.961Z</updated>
         <content type="html"><![CDATA[[해남=뉴시스] 박상수 기자 = 영화 '곡성'의 나홍진 감독이 전남 해남에서 신작 '호프'를 촬영한다. 26일 해남군에 따르면, 최근 해남군과 영화제작사 ㈜포지드필름스는 업무협약을 맺고 영화 '호프' 제작에 적극적으로 협력키로 했다. 명현관 해남군수와 나홍진 감독, ㈜포지드필름스 김새미 대표, 주승완 총괄프로듀서, 문루도 제작이사 등이 참석한 가운데 열]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[주지훈, 진짜 택시기사 됐다‥은혜로운 비주얼에 든든한 선배미 장착]]></title>
-        <id>https://v.daum.net/v/20230726161317297</id>
-        <link href="https://v.daum.net/v/20230726161317297"/>
-        <updated>2023-07-26T08:16:34.966Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 배효주 기자] 주지훈이 택시기사가 돼 나를 데리러 온다면? 8월 2일 개봉하는 영화 '비공식작전'(감독 김성훈)은 실종된 동료를 구하기 위해 레바논으로 떠난 외교관 ‘민준’과 현지 택시기사 ‘판수’의 버디 액션 영화다. 극중 1987년 레바논의 생존력 만렙 현지 택시기사 ‘판수’로 분한 주지훈은 7월 26일 유튜브 채널 '수고했어 오늘도'에서 공]]></content>
     </entry>
 </feed>
