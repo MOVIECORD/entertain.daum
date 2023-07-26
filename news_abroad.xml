@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-07-26T12:21:16.778Z</updated>
+    <updated>2023-07-26T13:14:31.326Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[배우 곽설부, 반년 동안 열애설 3번 나자..."남사친과 엮지 마" 분노]]></title>
+        <id>https://v.daum.net/v/20230726220030152</id>
+        <link href="https://v.daum.net/v/20230726220030152"/>
+        <updated>2023-07-26T13:14:30.561Z</updated>
+        <content type="html"><![CDATA[[TV리포트=강성훈 기자] 대만 가수 겸 배우 곽설부(郭雪芙·35)가 반년 만에 3번의 열애설에 휩싸여 관심이 모인다. 곽설부는 지난 2월 배우 쑨치쥔과 결별 후 오랫동안 알고 지낸 왕자 추성이와 열애설이 돌았다. 이후 일본 여행 중 9살 연하의 채분희와 교제한다는 열애설에 휩싸였지만 그저 오랫동안 알고 지낸 사이일 뿐이라고 해명했다. 이런 가운데 25일(]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[마고 로비, 청각장애인 팬과 '수화'로 대화..."완벽한 바비"]]></title>
         <id>https://v.daum.net/v/20230726204030328</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230726165600076"/>
         <updated>2023-07-26T08:16:57.872Z</updated>
         <content type="html"><![CDATA[[TV리포트=안수현 기자] 배우 레이븐 시모네가 자신이 초능력자라고 주장해 모두의 주목을 받았다. 지난 24일 (현지 시간) 레이븐 시모네는 그녀의 아내가 방송하는 '최고의 팟캐스트(The Best Podcast Ever)'에 출연해 자신에게 초능력이 있다고 밝혔다. 이날 방송에서 게임을 진행하던 중 '심령술사'라는 단어가 나오자, 레이븐은 자신이 심령술을]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“조니 뎁, 술 마시고 의식 잃은 채 발견” 충격, ‘캐리비안의 해적’ 복귀 빨간불]]></title>
-        <id>https://v.daum.net/v/20230726164626741</id>
-        <link href="https://v.daum.net/v/20230726164626741"/>
-        <updated>2023-07-26T08:16:57.872Z</updated>
-        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]할리우드 스타 조니 뎁(60)이 호텔에서 쓰러진 채 발견돼 충격을 주고 있다. 25일(현지시간) 데일리 뉴스 헝가리에 따르면, 뎁은 부다페스트의 한 호텔에서 의식을 잃은 채 발견됐다. 뎁의 상태를 확인하기 위해 의사가 찾아왔고, 그가 속해 있는 ‘할리우드 뱀파이어’는 공연을 취소했다. 뎁이 정확히 무엇 때문에 기절했는지는]]></content>
     </entry>
 </feed>

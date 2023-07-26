@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-07-26T12:21:16.761Z</updated>
+    <updated>2023-07-26T13:14:31.320Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[조향기, 윤다영 걱정하며 "너무 착해서 똥파리가 들러붙는다"]]></title>
+        <id>https://v.daum.net/v/20230726212530270</id>
+        <link href="https://v.daum.net/v/20230726212530270"/>
+        <updated>2023-07-26T13:14:13.587Z</updated>
+        <content type="html"><![CDATA[[TV리포트=김유진 기자] 윤다영이 김두호가 친아버지라는 사실을 알게됐다. 26일 방영된 KBS 일일드라마 '금이야옥이야' 86회는 옥미래(윤다영)가 친아버지의 사실을 알게 되는 이야기가 그려졌다. 옥미래는 가족들에게 김두호(김영호)가 전과자라는 말을 듣고 충격을 받는다. 황만석(김호영)은 "김두호와 가깝게 지내지 말라"며 권유한다. 하지만 옥미래는 "제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['비밀의 여자' 이종원, 박형준 '前 연인' 김희정 등장에 불안]]></title>
         <id>https://v.daum.net/v/20230726210110755</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230726164559712"/>
         <updated>2023-07-26T08:16:40.636Z</updated>
         <content type="html"><![CDATA[[마이데일리 = 박서연 기자] ‘비밀의 여자’ 김희정의 빈틈없는 열연이 긴장감 넘치는 전개에 불을 지폈다. 김희정은 지난 25일 방송된 KBS 2TV 일일드라마 ‘비밀의 여자’(극본 이정대 연출 신창석) 95회에서 예상치 못하게 박형준과 만나면서 흥미진진한 전개를 주도, 시청자들의 눈길을 사로잡았다. 앞선 94회에서 서정혜(김희정)는 30년 넘게 연을 끊]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘비밀의여자’ 김희정, 깊은 내공으로 다져진 섬세한 열연]]></title>
-        <id>https://v.daum.net/v/20230726164257601</id>
-        <link href="https://v.daum.net/v/20230726164257601"/>
-        <updated>2023-07-26T08:16:40.636Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 박수인 기자] 배우 김희정이 '비밀의 여자'에서 묵직한 열연을 펼치고 있다. 김희정은 7월 25일 방송된 KBS 2TV 일일드라마 ‘비밀의 여자’(연출 신창석 / 극본 이정대 / 제작 셀트리온 엔터테인먼트) 95회에서 예상치 못하게 박형준과 만나면서 흥미진진한 전개를 주도했다. 앞선 94회에서 서정혜(김희정)는 30년 넘게 연을 끊고 산 여동생의]]></content>
     </entry>
 </feed>
