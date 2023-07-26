@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-07-26T10:11:39.243Z</updated>
+    <updated>2023-07-26T11:09:34.865Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[류승완 "먹고 살기 위해 이렇게까지 해야 하나? 그런 고민 현장에서 많이 해"]]></title>
+        <id>https://v.daum.net/v/20230726200205454</id>
+        <link href="https://v.daum.net/v/20230726200205454"/>
+        <updated>2023-07-26T11:09:11.858Z</updated>
+        <content type="html"><![CDATA[자신의 가장 큰 장기인 액션으로, 거기에 더해 처음 보는 해양범죄 활극으로 중무장한 '밀수'로 2023년 여름 극장가에 돌아온 류승완 감독을 만났다. 26일 개봉한 '밀수'는 최고의 예매율을 자랑하며 기분 좋은 출발을 했다. 영화 '밀수'에는 해녀로 분한 김혜수-염정아가 스토리를 이끌어가는 주된 인물로 등장한다. 이들을 캐스팅한 이유에 대해 류승완 감독]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[움츠렸던 영화시장 美부터 폭발…韓도 터지나]]></title>
         <id>https://v.daum.net/v/20230726183103080</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230726161317297"/>
         <updated>2023-07-26T08:16:34.966Z</updated>
         <content type="html"><![CDATA[[뉴스엔 배효주 기자] 주지훈이 택시기사가 돼 나를 데리러 온다면? 8월 2일 개봉하는 영화 '비공식작전'(감독 김성훈)은 실종된 동료를 구하기 위해 레바논으로 떠난 외교관 ‘민준’과 현지 택시기사 ‘판수’의 버디 액션 영화다. 극중 1987년 레바논의 생존력 만렙 현지 택시기사 ‘판수’로 분한 주지훈은 7월 26일 유튜브 채널 '수고했어 오늘도'에서 공]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['밀수'로 시작된 여름 텐트폴 대전, 모두 웃을수 있을까]]></title>
-        <id>https://v.daum.net/v/20230726161006169</id>
-        <link href="https://v.daum.net/v/20230726161006169"/>
-        <updated>2023-07-26T07:10:31.873Z</updated>
-        <content type="html"><![CDATA[[티브이데일리 최하나 기자] 영화 ‘밀수’를 시작으로 올해 여름 극장가 한국 영화 텐트폴 대전이 시작됐다. 오랜 기간 침체기를 지나고 있는 한국 영화가 텐트폴 대전으로 되살아날지, 텐트폴 영화 모두 관객의 선택을 받을 수 있을지 귀추가 주목된다. 올해 여름 극장가에서는 ‘밀수’를 시작으로 8월 2일 영화 ‘더 문’ ‘비공식작전’, 8월 9일 ‘콘크리트 유]]></content>
     </entry>
 </feed>
