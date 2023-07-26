@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/variety</id>
     <title>다음 연예 ─ 뉴스 ─ 예능</title>
-    <updated>2023-07-26T09:10:57.307Z</updated>
+    <updated>2023-07-26T10:11:39.259Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[오마이걸 "가장 많이 변한 멤버? 아린…성숙한 여자됐다"]]></title>
+        <id>https://v.daum.net/v/20230726185200544</id>
+        <link href="https://v.daum.net/v/20230726185200544"/>
+        <updated>2023-07-26T10:11:26.410Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 신현지 기자) 오마이걸 멤버들이 아린이 어른스러워졌다고 느꼈던 순간을 밝혔다. 26일 'COSMOPOLITAN Korea(코스모폴리탄 코리아)'에는 '찾았다! 찐 가족 케미로 꽉 채운 오마이걸 도착!'이라는 제목의 영상이 업로드됐다. 이날 게스트로 출연한 그룹 오마이걸 멤버들은 '데뷔 초와 비교해서 가장 많이 변한 것 같은 멤버'로 아린을 지]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['더 글로리' 안소요, 변신 계속된다…'남남'↔'비닐하우스' 종횡무진 활약]]></title>
         <id>https://v.daum.net/v/20230726175702016</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230726165900188"/>
         <updated>2023-07-26T08:16:46.544Z</updated>
         <content type="html"><![CDATA[[스타뉴스 | 윤성열 기자] /사진=KBS 2TV  '홍김동전'에서 우영이 홍진경을 최고의 보물로 칭해 핑크빛 설렘을 유발한다. 26일 KBS 2TV 예능 프로그램 '홍김동전' 측에 따르면 오는 27일 방송되는 47회는 '스카우트'를 주제로 꾸며진다. 멤버들(홍진경 김숙 주우재 우영 조세호)은 인성, 사회성, 리더십을 배우고 우애를 다지는 시간을 갖는다]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한혜진 “신화 팬 출신, 함께 녹화했는데 옆에 가지도 못해”]]></title>
-        <id>https://v.daum.net/v/20230726165016862</id>
-        <link href="https://v.daum.net/v/20230726165016862"/>
-        <updated>2023-07-26T08:16:46.545Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 김명미 기자] '내편하자' MC들이 각자 덕질의 추억을 밝혔다. 7월 27일 U+모바일TV 오리지널 예능 ‘믿고 말해보는 편-내편하자’에서는 에이티즈 홍중과 산의 과몰입을 부른 사연이 소개된다. 이날 최애 스타의 굿즈를 모은다는 한 사연자의 이야기를 들은 혜풍지랄 MC들은 각자의 아련하고 소중한 팬심을 회상했다. 권상우와 공유 팬이었다는 랄랄은]]></content>
     </entry>
 </feed>

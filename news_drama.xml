@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-07-26T09:10:57.312Z</updated>
+    <updated>2023-07-26T10:11:39.247Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[조인성 "'무빙' 한국형 히어로물 시작될 것" 자신감]]></title>
+        <id>https://v.daum.net/v/20230726182555950</id>
+        <link href="https://v.daum.net/v/20230726182555950"/>
+        <updated>2023-07-26T10:11:19.706Z</updated>
+        <content type="html"><![CDATA[[OSEN=하수정 기자] 디즈니+ 오리지널 시리즈 '무빙'이 웰메이드 시리즈 탄생을 알리는 프로덕션 비하인드 영상을 공개했다.&nbsp; 이번에 공개된 프로덕션 비하인드 영상은 지금껏 공개된 적 없는 장면들부터 '무빙'의 제작 과정 전반이 담겨 흥미로움을 더한다.&nbsp; 먼저 '무빙'을 연출한 박인제 감독은 “제가 시도해 보지 못했던 여러 가지 이야기들, 장르들이 담]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['소옆경2' 손호준∙공승연 "시즌 2에서 드디어 두 사람 결말 나온다"]]></title>
+        <id>https://v.daum.net/v/20230726181801736</id>
+        <link href="https://v.daum.net/v/20230726181801736"/>
+        <updated>2023-07-26T10:11:19.716Z</updated>
+        <content type="html"><![CDATA[[OSEN=최나영 기자]&nbsp;SBS&nbsp;새 금토드라마&nbsp;‘소방서 옆 경찰서’&nbsp;시즌&nbsp;2 ‘소방서 옆 경찰서 그리고 국과수’&nbsp;손호준과 공승연이&nbsp;‘직진 고백 예고’&nbsp;현장을 공개해 초미의 관심을 일으킨다. 오는&nbsp;8월&nbsp;4일 오후&nbsp;10시에 첫 방송될&nbsp;SBS&nbsp;새 금토드라마&nbsp;‘소방서 옆 경찰서’&nbsp;시즌&nbsp;2 ‘소방서 옆 경찰서 그리고 국과수’(극본 민지은/연출 신경수/제작 스튜디]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[권율 "최고 법대 출신 최연소 검사? 난 수능 턱걸이"]]></title>
         <id>https://v.daum.net/v/20230726181002480</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230726154523066"/>
         <updated>2023-07-26T07:10:37.534Z</updated>
         <content type="html"><![CDATA[[OSEN=김채연 기자] ‘오랫동안 당신을 기다렸습니다’ 출연진이 웰메이드 장르물에 자신감을 표현했다. 26일 서울 구로구 신도림동 디큐브시티 더 세인트 홀에서는 ENA 새 수목드라마 ‘오랫동안 당신을 기다렸습니다’(이하 ‘오당기’) 제작발표회가 진행됐다. 제작발표회에는 연출을 맡은 한철수 감독을 비롯해 배우 나인우,&nbsp;김지은,&nbsp;권율,&nbsp;배종옥,&nbsp;이규한,&nbsp;정]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["자신있어" 나인우→권율 '오당기', 진실 추적 나선다]]></title>
-        <id>https://v.daum.net/v/20230726153704731</id>
-        <link href="https://v.daum.net/v/20230726153704731"/>
-        <updated>2023-07-26T07:10:37.537Z</updated>
-        <content type="html"><![CDATA['오랫동안 당신을 기다렸습니다' 나인우, 권율 등이 살인 용의자 추적에 나선다. 26일 오후 서울 구로구 신도림 디큐브시티 더 세인트 홀에서 ENA 새 수목드라마 '오랫동안 당신을 기다렸습니다'(극본 권민수, 연출 한철수 김용민 이하 '오당기') 제작발표회가 진행됐다. 행사에는 한철수 PD를 비롯해 배우 나인우, 김지은, 나인우, 권율, 배종옥, 이규]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['오당기' 이규한 "ENA니까... 시청률 연연 NO"]]></title>
-        <id>https://v.daum.net/v/20230726153502629</id>
-        <link href="https://v.daum.net/v/20230726153502629"/>
-        <updated>2023-07-26T07:10:37.539Z</updated>
-        <content type="html"><![CDATA['오랫동안 당신을 기다렸습니다' 이규한이 ENA 시청률을 언급했다. 26일 오후 서울시 구로구 디큐브시티 더 세인트 홀에서 ENA 새 수목드라마 '오랫동안 당신을 기다렸습니다'(이하 '오당기') 제작발표회가 진행됐다. 이날 이규한은 "'오당기' 시청률이 얼마 정도 나올 것 같냐"는 질문을 받고 "사실 ENA가 시청률이 잘 나오는 방송사는 아니"라면서]]></content>
     </entry>
 </feed>
