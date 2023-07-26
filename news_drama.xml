@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-07-26T03:11:30.108Z</updated>
+    <updated>2023-07-26T04:12:37.007Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘소용없어 거짓말’ 라이어 헌터 김소현 앞 나타난 수상한 이웃 황민현]]></title>
+        <id>https://v.daum.net/v/20230726121311272</id>
+        <link href="https://v.daum.net/v/20230726121311272"/>
+        <updated>2023-07-26T04:12:21.513Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 박수인 기자] ‘소용없어 거짓말’이 하이라이트 영상을 공개했다. tvN 새 월화드라마 ‘소용없어 거짓말’(연출 남성우, 극본 서정은, 기획 스튜디오드래곤, 제작 빅오션이엔엠)은 거짓말이 들려서 설렘이 없는 ‘라이어 헌터’ 목솔희(김소희)와 비밀을 가진 ‘천재 작곡가’ 김도하(황민현)가 만나 펼치는 거짓말 제로, 설렘 보장 로맨틱 코미디다. 공개된]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['연인' 주인공 안은진 "출연하지 않을 이유 없었다"]]></title>
         <id>https://v.daum.net/v/20230726120705135</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230726105611544"/>
         <updated>2023-07-26T02:09:59.431Z</updated>
         <content type="html"><![CDATA[[스타뉴스 | 한해선 기자] /사진=넷플릭스 순위 사이트 이준호, 임윤아 주연의 '킹더랜드'가 넷플릭스 글로벌 비영어권 시청 순위 1위를 또 한번 차지했다. 26일 넷플릭스 TOP10 순위 발표 사이트에 따르면, JTBC 토일드라마 '킹더랜드'는 지난 7월 17일부터 7월 23일까지 일주일간의 시청 집계로 글로벌 TOP10 비영어 부문 시청 순위 1위에]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[윤아, '버킷리스트 1번' 이뤘다...'킹더랜드' 넷플릭스 글로벌 1위 등극]]></title>
-        <id>https://v.daum.net/v/20230726104817147</id>
-        <link href="https://v.daum.net/v/20230726104817147"/>
-        <updated>2023-07-26T02:09:59.431Z</updated>
-        <content type="html"><![CDATA[[OSEN=유수연 기자] '킹더랜드'가 넷플릭스 글로벌 1위에 등극하며 윤아의 버킷리스트 1번을 달성했다. 26일 오전 넷플릭스 TOP 10 공식 웹사이트에 따르면, '킹더랜드'는 470만뷰와 6,510만 시청 시간(7월 17일~7월 23일)을 기록하며 넷플릭스 글로벌 TOP 10 TV부문 영어·비영어 통합 1위를 차지했다.&nbsp; 오리지널 시리즈를 제외한]]></content>
     </entry>
 </feed>
