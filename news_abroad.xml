@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-07-26T23:10:29.172Z</updated>
+    <updated>2023-07-27T00:52:32.551Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[빌보드 점령했었던 시네이드 오코너, 56세 나이로 별세]]></title>
+        <id>https://v.daum.net/v/20230727091006343</id>
+        <link href="https://v.daum.net/v/20230727091006343"/>
+        <updated>2023-07-27T00:52:31.560Z</updated>
+        <content type="html"><![CDATA[[티브이데일리 김종은 기자] 아일랜드 출신 싱어송라이터 시네이드 오코너가 사망했다. 향년 56세. 아일랜드 타임즈는 26일(현지시간) "'나씽 컴페어 투유(Nothing Compares 2 U)'로 유명한 시네이드 오코너가 세상을 떠났다. 그의 사망 원인은 밝혀지지 않았다"라고 보도했다. 고인의 가족 측은 "사랑하는 시네이드가 세상을 떠났다는 소식을 알리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이혼 후 열애 아리아나 그란데, 불륜 논란…새 남친 아내 “배신감”]]></title>
         <id>https://v.daum.net/v/20230727075714416</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230726190030787"/>
         <updated>2023-07-26T10:11:38.263Z</updated>
         <content type="html"><![CDATA[[TV리포트=유비취 기자] '오펜하이머'에서 주인공을 맡은 배우 킬리언 머피가 '바비'에 출연하고 싶다고 의사를 밝혔다. 지난 24일(현지 시간) 킬리언 머피(47)는 시네필로와의 인터뷰에서 '바비'의 후속작에 남자 캐릭터인 켄으로 출연할 수 있는 기회를 받고 싶다고 말해 이목을 모았다. 킬리언 머피는 '바비 2'가 만들어진다면 켄 역을 연기할 수 있냐는]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['키싱부스' 제이콥 엘로디, 새 여친 찾았다..."진지한 관계"]]></title>
-        <id>https://v.daum.net/v/20230726184036294</id>
-        <link href="https://v.daum.net/v/20230726184036294"/>
-        <updated>2023-07-26T10:11:38.269Z</updated>
-        <content type="html"><![CDATA[[TV리포트=유비취 기자] 넷플릭스 '키싱부스' 시리즈에서 열연을 펼친 배우 제이콥 엘로디가 새로운 여자친구와 진지한 관계로 발전하고 있다. 25일(현지 시간) 미국 매체 피플에 따르면 제이콥 엘로디(26)가 올리비아 제이드 지아눌리(23)와 진지한 관계로 이어졌다. 지난 6월 제이콥 엘로디와 올리비아 제이드 지아눌리는 이탈리아에서 함께 휴가를 보내는 모습]]></content>
     </entry>
 </feed>
