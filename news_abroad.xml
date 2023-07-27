@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-07-27T22:10:10.084Z</updated>
+    <updated>2023-07-27T23:10:38.019Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[피트x졸리, 2148억 포도밭 싸움 화해.."중재자 만나기로 합의"]]></title>
+        <id>https://v.daum.net/v/20230728072151977</id>
+        <link href="https://v.daum.net/v/20230728072151977"/>
+        <updated>2023-07-27T23:10:37.276Z</updated>
+        <content type="html"><![CDATA[[OSEN=박소영 기자] 프랑스 와이너리 지분 매각을 두고 법정싸움을 벌이고 있는 브래드 피트와 안젤리나 졸리가 합의에 이르렀다. 27일(현지시각) 외신 보도에 따르면 두 사람은 최종 합의에 도달하기 위해 중재자를 만나기로 했다. 양측이 완전한 합의를 이룬 건 아니지만 문제 해결을 위해 중재자를 만나기로 정했다는 점만으로도 고무적인 관계 발전이다. 피트]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[저녁 먹다가 실신한 가수 토리 켈리...상태 호전 됐다]]></title>
         <id>https://v.daum.net/v/20230728050030477</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230727154201260"/>
         <updated>2023-07-27T07:10:32.216Z</updated>
         <content type="html"><![CDATA[[TV리포트=이수연 기자] 팝스타 마이클 잭슨의 성적 학대 소송이 다시 주목받고 있다. 27일(현지 시간) 영국 데일리 메일은 "웨이드 롭슨과 제임스 세이프척이 제기한 마이클 잭슨의 성적 학대 소송이 항소 법원에서 부활될 수 있다"라고 보도했다. 웨이드 롭슨과 제임스 세이프척은 지난 2019년 1월에 개봉한 HBO 다큐멘터리 'Leaving Neverla]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['애처가 이미지' 男 배우, 19세 연하 여성과 불륜..."하룻밤 잔 거다"]]></title>
-        <id>https://v.daum.net/v/20230727152201316</id>
-        <link href="https://v.daum.net/v/20230727152201316"/>
-        <updated>2023-07-27T07:10:32.218Z</updated>
-        <content type="html"><![CDATA[[TV리포트=유비취 기자] 일본의 배우 오노에 키쿠노스케가 19세 연하의 여성과의 불륜으로 논란을 빚고 있다. 26일 일본 매체 주간문춘은 오노에 키쿠노스케(45)가 아내가 아닌 다른 19세 연하의 여성과 고급 호텔에서 하룻밤을 보냈다고 보도했다. 키쿠노스케는 여성과의 교제는 부인하면서 호텔에서의 하룻밤은 인정했다. 오노에 키쿠노스케는 가부키 명문가 출신]]></content>
     </entry>
 </feed>
