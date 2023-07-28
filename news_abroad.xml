@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-07-28T09:10:40.864Z</updated>
+    <updated>2023-07-28T10:11:09.633Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[16세에 임신한 브리트니 스피어스 동생 “전세계가 최악의 인간이라고”]]></title>
+        <id>https://v.daum.net/v/20230728183304751</id>
+        <link href="https://v.daum.net/v/20230728183304751"/>
+        <updated>2023-07-28T10:11:08.855Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 박수인 기자] 가수 브리트니 스피어스의 동생인 배우 제이미 린 스피어스가 16세 임신 당시를 떠올렸다. 제이미 린 스피어스는 7월 26일(현지시간) 팟캐스트 'Better Tomorrow'에 출연해 "제 방식에 대해 책임을 지고 있다"고 말했다. 16세에 임신을 해 화제를 모았던 제이미 린 스피어스는 "전 세계가 저가 그런 행동을 한 것에 대해]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['웬즈데이 엄마' 캐서린 제타 존스...나이 무색한 수영복 자태 과시]]></title>
         <id>https://v.daum.net/v/20230728180130154</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230728135207723"/>
         <updated>2023-07-28T05:10:15.502Z</updated>
         <content type="html"><![CDATA[(엑스포츠뉴스 이창규 기자) 제75회 프라임타임 에미상 시상식이 연기된다. 27일(현지시간) 미국 버라이어티는 9월 18일 진행될 예정이었던 제75회 프라임타임 에미상이 예정된 날짜에 열리지 않는다고 단독보도했다. 에미상을 주최하는&nbsp;텔레비전 예술 과학 아카데미(ATAS)는&nbsp;당초 중계사인 폭스와 에미상의 중계일을 9월 18일로 언급해왔으나, 지난 5월부터 진]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[톰 행크스 아들, 개종하더니 온몸에 타투...아빠 걱정하겠네]]></title>
-        <id>https://v.daum.net/v/20230728134101483</id>
-        <link href="https://v.daum.net/v/20230728134101483"/>
-        <updated>2023-07-28T05:10:15.504Z</updated>
-        <content type="html"><![CDATA[[TV리포트=유비취 기자] 톰 행크스의 아들인 배우 쳇 행크스가 개종 후 온몸에 독특한 타투를 해 이목을 끌고 있다. 지난 26일 쳇 행크스(32)는 소셜네트워크서비스를 통해 가슴에 새긴 거대한 크기의 십자가 문신을 공개했다. 쳇 행크스는 무신론자였지만 10년 전에 기독교로 개종했고 이후 신실한 종교인이 됐다. 그는 그의 삶에서 종교적 존재가 차지하는 부]]></content>
     </entry>
 </feed>
