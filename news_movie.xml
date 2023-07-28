@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-07-28T02:01:04.292Z</updated>
+    <updated>2023-07-28T02:32:20.321Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[4500만이 인정한 '상업영화 장인' 김용화의 우주여행기,  '더 문']]></title>
+        <id>https://v.daum.net/v/20230728110934851</id>
+        <link href="https://v.daum.net/v/20230728110934851"/>
+        <updated>2023-07-28T02:31:55.319Z</updated>
+        <content type="html"><![CDATA[아이즈 ize 윤준호(칼럼니스트)김용화 감독이 진두지휘하는 영화 콘티에는 이렇게 적혀있을 수도 있다. 감동 2스푼, 웃음 3큰술.&nbsp;단언컨대 김 감독은 상업 영화를 가장 잘 찍는 감독 중 한 명이다. 어느 지점에 어느 정도의 웃음과 감동 포인트를 넣어야 하는지 안다. 자로 잰 듯한 연출이다. 개봉을 앞둔 영화 '더 문'도 예외는 아니다.김 감독은 데뷔 후 서]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘비공식작전’ 하정우X주지훈, 전과 다른 극과 극 버디 케미]]></title>
         <id>https://v.daum.net/v/20230728105933375</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230728080002545"/>
         <updated>2023-07-27T23:10:14.434Z</updated>
         <content type="html"><![CDATA[[스타뉴스 | 김나연 기자] 영화 '밀수'(감독 류승완)의 배우 염정아 21일 진행된 인터뷰를 위해 포즈를 취하고 있다. /사진제공=아티스트컴퍼니 2023.07.21 /사진=이동훈 기자 photoguy@배우 염정아는 도전을 두려워하지 않는다. 그는 꾸준하게 연기할 기회가 주어지는 것만으로도 "참 복 받았다"고 말한다. 최근 서울시 종로구 소격동의 영화]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['콘크리트 유토피아' 왜 봐야 하냐고 물으신다면]]></title>
-        <id>https://v.daum.net/v/20230728075401433</id>
-        <link href="https://v.daum.net/v/20230728075401433"/>
-        <updated>2023-07-27T23:10:14.435Z</updated>
-        <content type="html"><![CDATA[[텐아시아=최지예 기자]영화 '콘크리트 유토피아'(감독 엄태화)가 강렬한 관람 포인트로 예비 관객들의 기대감을 고조시키고 있다.&nbsp; '콘크리트 유토피아'는 거대한 재난이 휩쓸고 간 서울에서 살아남은 아파트라는 신선한 소재에 리얼리티에 중점을 둔 프로덕션으로 새로운 영화적 체험을 선사할 예정. 특히 극한 상황 속에서 살아남기 위한 인물들이 빚어내는 예측 불]]></content>
     </entry>
 </feed>
