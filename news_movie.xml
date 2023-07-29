@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-07-29T00:52:31.128Z</updated>
+    <updated>2023-07-29T01:56:43.258Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['밀수', 개봉 3일만 77만 돌파..첫 주말 흥행 청신호]]></title>
+        <id>https://v.daum.net/v/20230729101735160</id>
+        <link href="https://v.daum.net/v/20230729101735160"/>
+        <updated>2023-07-29T01:56:20.740Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 | 김나연 기자] 밀수 / 사진=영화 포스터'밀수'가 개봉 3일 연속 박스오피스 1위를 기록했다. 29일 영화진흥위원회 통합전산망에 따르면 전날 영화 '밀수'(감독 류승완)는 22만 9252명의 관객을 동원해 박스오피스 1위를 기록했다. 누적 관객 수는 77만 8036명. '밀수'는 바다에 던져진 생필품을 건지며 생계를 이어가던 사람들 앞]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘밀수’ 고민시 “갈매기 눈썹? 망가질수록 좋아요”]]></title>
+        <id>https://v.daum.net/v/20230729101413128</id>
+        <link href="https://v.daum.net/v/20230729101413128"/>
+        <updated>2023-07-29T01:56:20.740Z</updated>
+        <content type="html"><![CDATA[“원래 작품 할 때 망가질수록 좋아해요. 두려움도 없고요. 캐릭터가 더 매력적으로 보일 수만 있다면 오히려 감사하죠.” 배우 고민시가 “망가지는 것에 두려움은 없느냐”고 묻자 이 같이 말했다. 고민시는 최근 진행된 ‘밀수’ 인터뷰에서 “‘밀수’를 촬영하던 그 기억들이 꿈만 같았다. 더위를 잘 타서 여름에 촬영하면 컨디션이 안 좋아지는 편인데, ‘밀수’]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[안구 갈아 끼운 연기는 어떤건데? 이병헌, '콘크리트 유토피아'서 인생캐 경신 예고]]></title>
         <id>https://v.daum.net/v/20230729092501599</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230728200123186"/>
         <updated>2023-07-28T11:08:48.672Z</updated>
         <content type="html"><![CDATA[[텐아시아=이하늘 기자]영화의 서사를 연상하게 하면서 극장에서 나온 이후에도 곧바로 몰입할 수 있도록 돕는 OST는 영화의 인장과도 같다. 특히 장기 흥행의 이어가고 있는 '엘리멘탈'(감독 피터 손/제작 디즈니·픽사)은 질문과 답변을 하는 가사와 경쾌한 멜로디가 익숙한 'LAUV - Steal The Show'로 영화가 끝난 직후에도 여운을 남긴다는 평가를]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[달에 착륙한 한국인... '더 문' 해외 반응이 더 궁금한 까닭]]></title>
-        <id>https://v.daum.net/v/20230728174502765</id>
-        <link href="https://v.daum.net/v/20230728174502765"/>
-        <updated>2023-07-28T09:10:17.614Z</updated>
-        <content type="html"><![CDATA[[하성태 기자] ▲ &nbsp;영화 &lt;더 문&gt; 포스터ⓒ CJ ENM&nbsp; 거두절미 하고, 관객들이 궁금해할 본론 두 가지로 바로 들어가 보자. 208억짜리 SF 대작 &lt;더 문&gt;이 창조한 달세계 여행의 비주얼은 출중한가. &lt;더 문&gt;의 VFX 기술력은 레퍼런스로 활용됐을 할리우드나 여타 중국 등의 SF 장르 콘텐츠들과 견주어 봐줄 만한가. 남은 하나. &lt;신과 함께&gt; 연작에]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['밀수' 천의 얼굴 박정민의 겸손]]></title>
-        <id>https://v.daum.net/v/20230728173207397</id>
-        <link href="https://v.daum.net/v/20230728173207397"/>
-        <updated>2023-07-28T09:10:17.618Z</updated>
-        <content type="html"><![CDATA[[티브이데일리 김종은 기자] 한 신을 제대로 소화하기 위해 쉼 없이 공부하면서도 본인이 근면하지 않다 생각하고, 그간 다채로운 연기로 호평받아왔지만 모든 작품에서 여전히 부족함이 보인단다. 참으로 겸손한 배우 박정민이다. 26일 개봉하는 '밀수'(감독 류승완·제작 외유내강)는 해녀 조춘자(김혜수)와 엄진숙(염정아)이 전국구 밀수왕 권 상사(조인성)를 만나]]></content>
     </entry>
 </feed>
