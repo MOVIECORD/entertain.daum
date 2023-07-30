@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/variety</id>
     <title>다음 연예 ─ 뉴스 ─ 예능</title>
-    <updated>2023-07-30T02:30:15.165Z</updated>
+    <updated>2023-07-30T03:11:18.275Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[안은진 "축구하다 손가락 꺾여..병원 안가 마디 4개 됐다" 충격]]></title>
+        <id>https://v.daum.net/v/20230730121033286</id>
+        <link href="https://v.daum.net/v/20230730121033286"/>
+        <updated>2023-07-30T03:11:06.691Z</updated>
+        <content type="html"><![CDATA[[OSEN=김나연 기자] 안은진이 축구부 출신 과거를 공개했다. 29일 방송된 MBC '전지적 참견시점'에는 배우 안은진이 출연했다. 이날 안은진의 매니저는 "은진씨가 외향적이고 자유분방한 구석이 있다. 가끔씩은 이게 괜찮을까 하는 정도가 있어서 그게 걱정이다"라고 우려했다. 이후 안은진은 홀로 외출을 했다. 그가 향한 곳은 번화가의 오락실. 오락실에]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[안은진 “‘나는 솔로’ 나가고 싶어‥연애 열려 있다”]]></title>
+        <id>https://v.daum.net/v/20230730113504661</id>
+        <link href="https://v.daum.net/v/20230730113504661"/>
+        <updated>2023-07-30T03:11:06.692Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 배효주 기자] 안은진이 "'나는 솔로'에 출연하고 싶다"고 고백했다. 7월 29일 오후 방송된 MBC '전지적 참견시점'에 출연한 안은진은 "연애 하고 싶다"는 속마음을 고백했다. 그러면서 "'나는 솔로'에 나가고 싶다"며 "열려 있다"고 말했다. 이상형이 어떻게 되냐는 말에 안은진은 "마음이 따뜻하고 친구 같은 연인을 원한다"고 답했다. 그러나]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['놀면 뭐하니' 2049에서 터졌다…MZ 사로잡은 大폭소 여름 농활]]></title>
         <id>https://v.daum.net/v/20230730112858575</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230730100727305"/>
         <updated>2023-07-30T01:59:52.438Z</updated>
         <content type="html"><![CDATA[[마이데일리 = 양유진 기자] ‘안싸우면 다행이야’ 인피니트가 무인도에서 역대급 생고생을 겪는다. 31일 방송되는 MBC ‘안싸우면 다행이야’(이하 ‘안다행’)에는 5년 만에 완전체로 컴백하는 인피니트의 ‘내손내잡’(내 손으로 내가 잡는다)이 그려진다. 스튜디오에는 인피니트의 오랜 절친 정형돈과 영탁이 함께한다. 5년 만에 첫 완전체 활동으로 ‘안다행’을]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[신동엽 “경북 영주서 1m 악어 목격→최근 대형 도마뱀 포획”]]></title>
-        <id>https://v.daum.net/v/20230730100646297</id>
-        <link href="https://v.daum.net/v/20230730100646297"/>
-        <updated>2023-07-30T01:59:52.438Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 장예솔 기자] 경북 영주에서 악어를 연상케 하는 대형 도마뱀이 포획됐다. 7월 30일 방송된 SBS 'TV 동물농장'에서는 전 세계를 놀라게 만든 악어 출몰 영상이 공개됐다. 이날 신동엽은 "경북 영주의 한 하천에서 1m 크기의 악어를 목격했다는 신고가 접수됐다"고 말문을 열었다. 신동엽은 "많은 분들이 놀라셨는데 악어를 봤다는 목격자만 5]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[제롬 “前아내 배윤정과 2년만 이혼, 법정서도 웃으면서 헤어져”]]></title>
-        <id>https://v.daum.net/v/20230730100554281</id>
-        <link href="https://v.daum.net/v/20230730100554281"/>
-        <updated>2023-07-30T01:59:52.438Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 황혜진 기자] MBN ‘돌싱글즈4’ 돌싱남으로 출연한 제롬이 전처인 안무가 배윤정에게 허락을 받고 방송에 출연했다고 밝혔다. 7월 30일 방송되는 ‘돌싱글즈4 IN U.S.A(이하 ‘돌싱글즈4’)’ 2회에서 ‘미국 돌싱남녀 10인’ 듀이-리키-베니타-소라-제롬-지미-지수-톰-하림-희진이 첫째 날 밤을 맞아 이혼 사유를 공개한다. 10인 중 첫]]></content>
     </entry>
 </feed>
