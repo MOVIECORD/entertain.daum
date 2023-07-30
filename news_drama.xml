@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-07-30T07:09:56.905Z</updated>
+    <updated>2023-07-30T08:13:18.677Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["쳐다보지 마셔요" 이다연 선녀같은 수영복 자태에 유정후 동공 확장]]></title>
+        <id>https://v.daum.net/v/20230730164626657</id>
+        <link href="https://v.daum.net/v/20230730164626657"/>
+        <updated>2023-07-30T08:12:59.617Z</updated>
+        <content type="html"><![CDATA[[OSEN=최나영 기자]&nbsp;TV CHOSUN&nbsp;주말미니시리즈&nbsp;‘아씨 두리안’&nbsp;유정후와 이다연이&nbsp;‘정도령’&nbsp;연기를 위해 수영에 도전하는 청량함 가득한&nbsp;‘수영장 데이트’가 포착됐다. TV CHOSUN&nbsp;주말미니시리즈&nbsp;‘아씨 두리안’(극본 피비(Phoebe,&nbsp;임성한)/연출 신우철,&nbsp;정여진/제작 바른손스튜디오,&nbsp;하이그라운드)은 기묘하고 아름다운 판타지 멜로 드라마다]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['韓 구독자 수 5위' 디즈니+ 벽에 막혔다…이성민 열연 아쉬운 '형사록2']]></title>
         <id>https://v.daum.net/v/20230730160901074</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230730131600973"/>
         <updated>2023-07-30T05:10:13.555Z</updated>
         <content type="html"><![CDATA[[엔터미디어=정덕현] tvN 토일드라마 &lt;경이로운 소문&gt;이 시즌2로 돌아왔다. 국수집 직원으로 위장해 악귀를 사냥하는 카운터들과 그들과 연결된 저승파트너라는 세계관은 여전히 매력적이고, 이들이 악귀가 빙의된 자들과 맞서 싸우는 대결은 스케일이 더 커졌다. 시작부터 아이들을 태운 유치원 버스를 폭주하는 악귀와 벌이는 추격전이 펼쳐졌고, 카운터들은 버스를 세우]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['악귀' 홍경 "이홍새의 앞날 응원하고파"]]></title>
-        <id>https://v.daum.net/v/20230730114753807</id>
-        <link href="https://v.daum.net/v/20230730114753807"/>
-        <updated>2023-07-30T03:11:00.693Z</updated>
-        <content type="html"><![CDATA[[마이데일리 = 양유진 기자] 배우 홍경이 ‘악귀’ 종영 소감을 남겼다. 홍경은 29일 종영한 SBS 금토드라마 ‘악귀’에서 형사 이홍새 역을 맡아 누구보다도 현실적이고 냉정한 수사로 사건을 파헤치는가 하면, 선배의 죽음으로 인한 극적인 심리 변화를 섬세하게 그려내며 진한 존재감을 선보였다. 넷플릭스 시리즈 ‘D.P. 시즌1’, KBS 드라마 스페셜 20]]></content>
     </entry>
 </feed>
