@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-07-30T02:00:02.877Z</updated>
+    <updated>2023-07-30T02:30:15.138Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["멸종위기종 죽이고 또 공항을 짓겠다고요?"]]></title>
+        <id>https://v.daum.net/v/20230730112701549</id>
+        <link href="https://v.daum.net/v/20230730112701549"/>
+        <updated>2023-07-30T02:29:53.138Z</updated>
+        <content type="html"><![CDATA[[하성태 기자] ▲ &nbsp;&lt;수라&gt; 포스터. ⓒ 미디어나무, 스튜디오 에이드"난 보수주의자다. 경제학을 했고 개발 쪽에서 일했다. 새만금도 잘 안다. 그런데 영화를 보고 많이 반성하고 성찰했다. 앞으로 이런 영화 계속, 계속 만들어 달라." 다큐멘터리 &lt;수라&gt; 황윤 감독이 "너무 감동적"이라며 소개한 어느 6070 통영 관객의 당부다. 새만금 간척과 전북 군산의]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[운동신경 없고 게임만 하는 딸, 히어로가 될 수 있을까]]></title>
+        <id>https://v.daum.net/v/20230730110901300</id>
+        <link href="https://v.daum.net/v/20230730110901300"/>
+        <updated>2023-07-30T02:29:53.145Z</updated>
+        <content type="html"><![CDATA[[이학후 기자] ▲ &nbsp;영화 &lt;슈퍼 키드 헤일리&gt; 포스터ⓒ 찬란&nbsp; 수백 년 전부터 대대로 마을의 평화를 지키는 히어로 '슈퍼 라이언'으로 활동 중인 집안에서 태어난 헤일리(신은수 목소리). 어느 날, 헤일리의 실수로 초능력을 발휘하게끔 해주는 슈트가 줄어들면서 아빠 라이프(정성원 목소리)는 더는 슈퍼 라이언으로 활동할 수 없게 된다. 라이프는 헤일리에게 슈퍼]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[젊은 교사의 죽음, 더 많은 '배두나'가 필요하다]]></title>
         <id>https://v.daum.net/v/20230730103929802</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230730082735118"/>
         <updated>2023-07-30T00:56:31.285Z</updated>
         <content type="html"><![CDATA[지난 1월 개봉한 임순례 감독의 영화 ‘교섭’은 여성 감독이 연출한 첫 100억원대 블록버스터 영화였다. 물론 그동안 없었던 기회가 열린 것은 반가운 일이지만, 2000년대 초반 100억 제작비 시대가 열려, 코로나19 이전에는 한 해에 10편이 넘는 100억원대 작품들이 제작되던 것을 고려하면 너무 늦은 변화라는 지적도 있다. 변영주, 이경미 감독 등]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘밀수’ 4일만에 125만 돌파‥폭염 속 시원한 흥행]]></title>
-        <id>https://v.daum.net/v/20230730082514101</id>
-        <link href="https://v.daum.net/v/20230730082514101"/>
-        <updated>2023-07-30T00:56:31.288Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 배효주 기자] '밀수'가 개봉 첫 주말 125만 관객을 돌파하며 흥행 포문을 열었다. 7월 30일 영화진흥위원회 통합전산망 집계에 따르면 영화 '밀수'(감독 류승완)가 29일 47만3,831명을 동원하며 박스오피스 1위를 차지했다. 누적 관객 수는 125만1,862명으로, 지난 26일 개봉한 후 4일 만에 100만 관객을 훌쩍 넘어섰다. 배우들]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['밀수' 4일 연속 흥행 1위…누적 125만 관객 돌파]]></title>
-        <id>https://v.daum.net/v/20230730082446099</id>
-        <link href="https://v.daum.net/v/20230730082446099"/>
-        <updated>2023-07-30T00:56:31.289Z</updated>
-        <content type="html"><![CDATA[[스포츠한국 조은애 기자] '밀수'가 100만 관객을 넘어 흥행 독주를 이어가고 있다. 30일 영진위 통합전산망 집계에 따르면 '밀수'는 전날&nbsp;47만3831명의 관객을 모아 박스오피스 1위를 차지했다. 누적 관객 수는&nbsp;125만1862명이다. '밀수'는 바다에 던져진 생필품을 건지며 생계를 이어가던 사람들 앞에 일생일대의 큰 판이 벌어지면서 휘말리]]></content>
     </entry>
 </feed>
