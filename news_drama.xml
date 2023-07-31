@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-07-31T13:17:09.520Z</updated>
+    <updated>2023-07-31T14:11:18.289Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김소현, 추행범 몰린 황민현 구했다.. 운명적 재회]]></title>
+        <id>https://v.daum.net/v/20230731223321131</id>
+        <link href="https://v.daum.net/v/20230731223321131"/>
+        <updated>2023-07-31T14:11:01.337Z</updated>
+        <content type="html"><![CDATA[[OSEN=임혜영 기자] 김소현이 황민현을 위기에서 구해냈다. 31일 방송된 tvN 새 월화드라마 '소용없어 거짓말'(서정은 극본, 남성우 연출)에서는 추행범으로 몰린 김도하(황민현 분)를 구해주는 목솔희(김소현 분)의 모습이 그려졌다. 김도하와 목솔희는 과거 버스 안에서 우연한 사건으로 마주치며 얼굴을 익혔다. 이후 목솔희는 거짓말을 알아챌 수 있는]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['소용없어 거짓말' 김소현, 황민현 구하며 운명적 재회…"추행범 아냐"]]></title>
+        <id>https://v.daum.net/v/20230731221828009</id>
+        <link href="https://v.daum.net/v/20230731221828009"/>
+        <updated>2023-07-31T14:11:01.339Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 이이진 기자) '소용없어 거짓말' 김소현이 강제추행범으로 의심받은 황민현을 도왔다. 31일 방송된 tvN 새 월화드라마 '소용없어 거짓말' 1회에서는 목솔희(김소현 분)가 김도하(황민현)를 변호하는 모습이 그려졌다. 이날 목솔희는 라이어 헌터로 일했고, 조직폭력배의 의뢰를 받고 사건을 해결했다. 조직을 배신했던 한 조직원은 목솔희로 인해 자신]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['소용없어 거짓말' 황민현, 이시우 열애설→변태 오해..김소현 재회]]></title>
         <id>https://v.daum.net/v/20230731221453966</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230731200003396"/>
         <updated>2023-07-31T11:09:32.221Z</updated>
         <content type="html"><![CDATA[‘하늘의 인연’ 전혜연이 심이영의 사망 비밀을 알았다. 31일 방송된  MBC 일일드라마 ‘하늘의 인연’에서는 윤솔(전혜연 분)이 문도현(진주형 분)에게 도발하는 모습이 그려졌다. 강치환(김유석 분)을  압박 중인 윤솔은 전미강(고은미 분), 강세나(정우연 분)에게 자신의 정체를 폭로하려 했다. 윤솔의 행동에 강치환은 크게 당황했고 이때 문도현(진주형 분)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['하늘의 인연' 전혜연, 母 죽음 비밀 알았다..'절벽 떨어질 준비해']]></title>
-        <id>https://v.daum.net/v/20230731195826359</id>
-        <link href="https://v.daum.net/v/20230731195826359"/>
-        <updated>2023-07-31T11:09:32.222Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 | 김지은 인턴기자] /사진='하늘의 인연' 화면 캡처전혜연이 친어머니를 살해한 범인을 알아냈다. 31일 방송된 MBC 일일드라마 '하늘의 인연' 75회에서는 윤솔(전혜연 분)과 데이비드 주(안동엽 분)가 황태용(박동빈 분)을 미행하는 장면이 담겼다. 이날 방송에서 윤솔은 어디론가 향하는 황태용을 미행했다. 황태용은 강치환(김유석 분)과 은밀]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["김유석이 심이영 살해 지시".. '하늘의 인연' 전혜연, 진실 알고 복수 다짐]]></title>
-        <id>https://v.daum.net/v/20230731194630118</id>
-        <link href="https://v.daum.net/v/20230731194630118"/>
-        <updated>2023-07-31T11:09:32.223Z</updated>
-        <content type="html"><![CDATA[[TV리포트=이혜미 기자] 전혜연이 심이영 사건의 진실을 알게 됐다. 31일 MBC ‘하늘의 인연’에선 치환(김유석 분)이 순영(심이영 분) 사건의 배후임을 알고 경악하는 해인(전혜연 분)의 모습이 그려졌다. 이날 치환은 해인에게 약점 잡힌 게 있느냐는 미강(고은미 분)의 추궁에 “당신 건망증이야? 4년 전 불을 낸 건 세나야. 걔는 재판 때 그걸 알고 있]]></content>
     </entry>
 </feed>
