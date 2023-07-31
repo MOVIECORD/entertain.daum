@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-07-31T09:11:56.451Z</updated>
+    <updated>2023-07-31T10:12:04.361Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['넘버스' 연기상VS인피니트 1위?…김명수의 선택은]]></title>
+        <id>https://v.daum.net/v/20230731190220566</id>
+        <link href="https://v.daum.net/v/20230731190220566"/>
+        <updated>2023-07-31T10:11:47.687Z</updated>
+        <content type="html"><![CDATA[배우 김명수가 자신이 몸담고 있는 그룹 인피니트를 향한 애정을 표현했다. 최근 김명수는 서울 강남구 한 카페에서 iMBC연예와 만나 MBC 금토드라마 '넘버스: 빌딩숲의 감시자들(극본 정안·연출 김칠봉, 이하 '넘버스') 종영 기념 인터뷰를 진행했다. '넘버스'는 고졸 출신 회계사 장호우(김명수)가 거대한 회계법인의 부조리에 맞서 가장 회계사답지만 가]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['연인' 남궁민 "안은진, 톡톡 튀고 사랑스럽다"]]></title>
         <id>https://v.daum.net/v/20230731180918493</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230731162352553"/>
         <updated>2023-07-31T08:15:04.262Z</updated>
         <content type="html"><![CDATA[[뉴스엔 박수인 기자] 배우 이성민이 '형사록2' 종영소감을 전했다. 이성민은 7월 31일 오후 서울 종로구 소격동 한 카페에서 진행된 디즈니+ 오리지널 시리즈 '형사록2'(극본 손정우, 황설헌/감독 한동화) 종영 인터뷰에서 김택록을 떠나보내는 아쉬움을 털어놨다. '형사록2'는 협박범 '친구'의 숨은 배후를 쫓기 위해 다시 돌아온 강력계 형사 택록(이성민]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이성민 “‘재벌집’ 고명딸 김신록, ‘형사록2’서 상사로 재회..어이 없어”]]></title>
-        <id>https://v.daum.net/v/20230731161246140</id>
-        <link href="https://v.daum.net/v/20230731161246140"/>
-        <updated>2023-07-31T08:15:04.265Z</updated>
-        <content type="html"><![CDATA[[OSEN=김나연 기자]&nbsp;(인터뷰①에 이어) 배우 이성민이 ‘재벌집’에 이어 ‘형사록2’에서 재회한 김신록과의 호흡을 전했다. 31일 오후 서울시 종로구의 한 카페에서는 디즈니+ 오리지널 ‘형사록 시즌2’ 주연 배우 이성민의 인터뷰가 진행됐다. 디즈니+ 오리지널 ‘형사록 시즌2’는 협박범 ‘친구’의 숨은 배후를 쫓기 위해 다시 돌아온 강력계 형사 택록의]]></content>
     </entry>
 </feed>
