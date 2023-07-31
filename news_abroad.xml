@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-07-31T12:22:21.767Z</updated>
+    <updated>2023-07-31T13:17:09.550Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[올리비아 로드리고, 하와이 여행 논란…원주민 "지역 보호해라"]]></title>
+        <id>https://v.daum.net/v/20230731220100850</id>
+        <link href="https://v.daum.net/v/20230731220100850"/>
+        <updated>2023-07-31T13:17:08.397Z</updated>
+        <content type="html"><![CDATA[[TV리포트=유비취 기자] 가수 올리비아 로드리고의 하와이 여행이 도마 위에 올랐다. 지난 26일 올리비아 로드리고(20)는 소셜네트워크서비스를 통해 하와이 와일레아에 위치한 호텔에서 여행을 즐기는 모습을 자랑했다. 그러나 하와이 지역을 보호해달라는 주민의 목소리와 대비된 올리비아 로드리고의 행보에 비판 섞인 목소리도 나오고 있다. 하와이의 일부 주민들은]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[리즈 위더스푼, 똑 닮은 딸 공개...모델 준비 중]]></title>
         <id>https://v.daum.net/v/20230731212130437</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230731174339706"/>
         <updated>2023-07-31T09:11:55.532Z</updated>
         <content type="html"><![CDATA[(엑스포츠뉴스 이창규 기자) 미국의 래퍼 카디비(Cardi B)가 자신에게 액체를 뿌린 관객을 향해 마이크를 집어던지며 주목을 받고 있다. 지난 29일(현지시간) 카디비는&nbsp;미국 라스베이거스에서 공연 도중 관객이 뿌린 액체를 맞았다. 자신의 히트곡 'Bodak Yellow'를 부르던 카디비는 관객으로부터 술 혹은 음료수로 추정되는 액체를 맞는 테러를 당했고,]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['50대' 기무라 타쿠야, 미야자키 하야오와 투샷]]></title>
-        <id>https://v.daum.net/v/20230731172400043</id>
-        <link href="https://v.daum.net/v/20230731172400043"/>
-        <updated>2023-07-31T09:11:55.534Z</updated>
-        <content type="html"><![CDATA[[TV리포트=이예은 기자] 일본 유명 배우 기무라 타쿠야(50)가 지브리 감독 미아쟈키 하야오(82)와의 투샷을 공개했다.&nbsp; 기무라 타쿠야는 30일 자신의 소셜네트워크서비스를 통해 "오늘도 더워지네요. 여러분에게 오늘은 어떤 일요일 일까요? 오늘 라디오에서 이야기한 투샷을 공개합니다. 미야자키 하야오 감독님, 감사합니다"라는 글을 공유했다. 그러면서 미야자]]></content>
     </entry>
 </feed>
