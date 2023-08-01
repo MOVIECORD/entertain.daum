@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-08-01T02:22:33.547Z</updated>
+    <updated>2023-08-01T03:12:16.715Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['조커' 호아킨 피닉스, '나폴레옹' 역 위해 10일 내내 감독 찾아가]]></title>
+        <id>https://v.daum.net/v/20230801120200683</id>
+        <link href="https://v.daum.net/v/20230801120200683"/>
+        <updated>2023-08-01T03:12:15.912Z</updated>
+        <content type="html"><![CDATA[[TV리포트=이예은 기자] '조커'로 큰 사랑을 받은 배우 호아킨 피닉스가 이번엔 나폴레옹으로 변신한다.&nbsp; 영화 '나폴레옹'의 감독인 리들리 스콧은 최근 엠파이어 매거진과의 인터뷰를 통해 호아킨 피닉스의 연기 열정에 관한 일화를 공개했다.&nbsp; 인터뷰에서 리들리 스콧은 호아킨 피닉스가 '나폴레옹'의 촬영 직전에 막막함을 느껴했다고 입을 열었다.&nbsp; 그는 "호아킨]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[160㎝ 45㎏ 中 배우, 이렇게 말랐는데‥돼지 같다 외모 지적]]></title>
         <id>https://v.daum.net/v/20230801104735677</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230731234230422"/>
         <updated>2023-07-31T15:12:21.456Z</updated>
         <content type="html"><![CDATA[[TV리포트=강성훈 기자] 영화 '뮬란'의 OST 부른 홍콩 가수 故 코코 리(李玟)의 추도식이 31일(현지 시간)에 치러졌다. 홍콩의 장례식장에는 이른 아침부터 팬들이 모여들었다. 코코 리가 가장 좋아하는 색은 보라색으로 알려졌다. 팬들은 보라색 꽃다발을 갖고 조문해 현장은 보라색과 흰색의 꽃바다를 이뤘다. 이에 앞서 생중계를 담당할 것으로 보이는 10여]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[마블 배우, 디즈니 CEO 저격…"노동자 무시하는 위선적 태도"]]></title>
-        <id>https://v.daum.net/v/20230731230100266</id>
-        <link href="https://v.daum.net/v/20230731230100266"/>
-        <updated>2023-07-31T14:11:17.476Z</updated>
-        <content type="html"><![CDATA[[TV리포트=유비취 기자] 마블의 '변호사 쉬헐크'에 출연했던 배우가 공개적으로 디즈니 CEO를 비판했다. 마블 시리즈 '변호사 쉬헐크'의 배우 티티아나 마슬라니는 지난 24일(현지 시간) 할리우드 리포터와의 인터뷰에서 디즈니 CEO의 위선적인 태도를 지적했다. 앞서 이달 초 밥 아이거는 미국작가조합(WGA)과 미국배우조합의 파업(SAG-AFTRA)에 대해]]></content>
     </entry>
 </feed>
