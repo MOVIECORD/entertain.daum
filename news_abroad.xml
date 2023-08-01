@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-08-01T21:09:38.340Z</updated>
+    <updated>2023-08-01T22:10:30.674Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['익스트림 스포츠' 유명인, 68층서 추락사...향년 30세]]></title>
+        <id>https://v.daum.net/v/20230802063200203</id>
+        <link href="https://v.daum.net/v/20230802063200203"/>
+        <updated>2023-08-01T22:10:29.678Z</updated>
+        <content type="html"><![CDATA[[TV리포트=강성훈 기자] 익스트림 스포츠로 유명한 프랑스인 레미 루시디(30)이 홍콩의 한 주택 68층에서 추락해 사망했다. 현지 외신에 따르면 레미 루시디(30)는 트레그너 타워에 올라갔다가 추락했다. 루시디는 오후 6시경 건물에 도착해 경비원에게 40층에 있는 친구를 만나러 간다고 말했다고 알려졌다.&nbsp; 경비원은 친구로 추정되는 인물이 루시디와 친분이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['가십걸' 블레이크 라이블리, '아이 넷' 엄마 맞나...영원한 퀸카]]></title>
         <id>https://v.daum.net/v/20230802053130567</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230801174100448"/>
         <updated>2023-08-01T09:12:26.507Z</updated>
         <content type="html"><![CDATA[[TV리포트=이수연 기자] 배우 겸 정치인 아놀드 슈왈제네거가 사생아 아들과 함께 시간을 보냈다. 7월 31일(현지 시간) 영국 매체 미러에 따르면 아놀드 슈왈제네거는 76세 생일 다음날 아들 조셉 바에나와 함께 운동을 하는 것이 목격됐다. 매체는 아놀드 슈왈제네거가 아들과 함께 헬스장에 방문해 함께 운동을 했으며 자신의 운동 지식을 아들에게 전수해 줬다고]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['57세 슈퍼모델' 신디 크로포드, 31년 만에 '리즈 시절' 재현]]></title>
-        <id>https://v.daum.net/v/20230801173100136</id>
-        <link href="https://v.daum.net/v/20230801173100136"/>
-        <updated>2023-08-01T09:12:26.508Z</updated>
-        <content type="html"><![CDATA[[TV리포트=유비취 기자] 전설적인 슈퍼 모델 신디 크로포드가 31년 만에 '레전드 시절'을 재현했다. 31일 신디 크로포드(57)는 소셜네트워크서비스를 통해 새로운 광고 캠페인을 공개했다. 그는 57세의 나이에도 불구하고 전설을 남겼던 1992년 펩시 슈퍼볼 광고를 완벽하게 재현한 모습이었다. 신디 크로포드는 31년 전과 같이 흰색 민소매에 데님 반바지를]]></content>
     </entry>
 </feed>
