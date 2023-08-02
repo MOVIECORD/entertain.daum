@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-08-02T12:20:28.566Z</updated>
+    <updated>2023-08-02T13:14:57.468Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[배우 임가흔, 12년 만에 이혼..."결정적 사유는 재산 문제"]]></title>
+        <id>https://v.daum.net/v/20230802212100980</id>
+        <link href="https://v.daum.net/v/20230802212100980"/>
+        <updated>2023-08-02T13:14:56.603Z</updated>
+        <content type="html"><![CDATA[[TV리포트=안수현 기자] 홍콩 배우 임가흔(44)과 감독 원검위(57)의 결혼 생활이 '재정적 분쟁'으로 종지부를 찍었다. 지난 28일, 임가흔과 원검위의 이혼이 발표됐다. 두 사람은 12년간의 결혼 생활을 유지했으며 부부의 이혼에 대한 부정적인 추측이 가득했다. 대중은 두 사람의 13살 나이 차이와 큰 수입 차이를 이혼 이유로 추정했다. 남편과 비교했을]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[천하의 비욘세가?..'성희롱 피소' 女가수 손절 영상 일파만파]]></title>
         <id>https://v.daum.net/v/20230802202818135</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230802162321647"/>
         <updated>2023-08-02T08:13:10.179Z</updated>
         <content type="html"><![CDATA[[OSEN=유수연 기자] 팝스타 테일러 스위프트가 '통 큰' 의리를 선보였다. 1일(현지 시각) 미국 매체 TMZ, 피플지 등 외신 보도에 따르면, 지난 3월부터 월드투어를 진행 중인 테일러 스위프트는 지난 토요일,&nbsp;&nbsp;산타클라라 쇼를 앞두고&nbsp;무대 장비를 운반해 온 트럭 운전기사 약 50명에게 10만 달러(한화 약 1억 원)의 보너스 수표를 나눠줬다. 테]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[기네스 팰트로, 집으로 팬 초대한다..."덜 외로웠으면"]]></title>
-        <id>https://v.daum.net/v/20230802160100685</id>
-        <link href="https://v.daum.net/v/20230802160100685"/>
-        <updated>2023-08-02T07:10:47.038Z</updated>
-        <content type="html"><![CDATA[[TV리포트=이수연 기자] 배우 기네스 팰트로가 팬을 자신의 집에 초대한다. 1일(현지 시간) 영국 데일리 메일 등 현지 외신에 따르면 기네스 팰트로는 자신의 게스트 하우스를 숙박 공유 플랫폼 에어비앤비에 등록했다. 기네스 팰트로의 게스트 하우스는 캘리포니아 몬테시토에 위치하며 그가 지난 2016년 490만 달러, 한화로 약 63억 2,000만 원에 구매]]></content>
     </entry>
 </feed>
