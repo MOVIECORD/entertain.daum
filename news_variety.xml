@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/variety</id>
     <title>다음 연예 ─ 뉴스 ─ 예능</title>
-    <updated>2023-08-02T08:13:11.012Z</updated>
+    <updated>2023-08-02T09:10:53.408Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['한산' 걔 맞아? 이서준, 윤두준x권율 먹방 여행 '뚜벅이 맛총사' 합류]]></title>
+        <id>https://v.daum.net/v/20230802173002040</id>
+        <link href="https://v.daum.net/v/20230802173002040"/>
+        <updated>2023-08-02T09:10:41.359Z</updated>
+        <content type="html"><![CDATA[[OSEN=장우영 기자] 권율과 윤두준, 그리고 영화 ‘한산: 용의 출현’의 이서준이 ‘뚜벅이 맛총사’로 뭉친다. 채널S와 라이프타임에서 함께 방송되는 새 예능 히든 미식로드 ‘뚜벅이 맛총사’는 미식에 진심인 맛총사 3인방, 권율X윤두준X이서준이 오로지 찐 맛집만을 찾아 떠나는 푸드 어드벤쳐 프로그램이다. 특히 미식에 진심인 배우 3인방이 함께 뭉쳐 어]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[성시경, 양희은 야단치고 매 들었다?…듀엣 녹음 비화 '폭소']]></title>
         <id>https://v.daum.net/v/20230802170257185</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230802154845254"/>
         <updated>2023-08-02T07:10:34.147Z</updated>
         <content type="html"><![CDATA[[뉴스엔 서유나 기자] 양문형 냉장고를 건 최재훈 노래 부르기 대회 우승자가 발표됐다. 8월 2일 방송된 SBS 파워FM '두시탈출 컬투쇼'(이하 '컬투쇼')에서는 최재훈의 단독 심사 하에 '제1회 최재훈 노래 부르기 대회'가 개최됐다. 이날 김태균은 본격 대회 전 "'컬투쇼'가 전국투어를 다니며 노래자랑을 많이 했다. 카메라 앞에서 노래를 해야 하니]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘옥문아들’ 성시경, 일본어 독학한 이유..“메뉴판 읽을 수가 없어”]]></title>
-        <id>https://v.daum.net/v/20230802154118902</id>
-        <link href="https://v.daum.net/v/20230802154118902"/>
-        <updated>2023-08-02T07:10:34.148Z</updated>
-        <content type="html"><![CDATA[[OSEN=김채연 기자] ‘옥탑방의 문제아들’에 ‘27년 나이 차를 뛰어넘는 우정’을 자랑하는 ‘레전드 뮤지션 절친’ 양희은과&nbsp;성시경이 함께 출연해 화제다. 2일 방송되는 KBS 2TV ‘옥탑방의 문제아들’에 음식에 진심인&nbsp;성시경이 악착같이 외국어를 독학하게 된 진짜 이유를 밝힌다. 이날 최근 ‘레전드 발라더’에서 143만 구독자 수를 자랑하는 먹방 유튜]]></content>
     </entry>
 </feed>
