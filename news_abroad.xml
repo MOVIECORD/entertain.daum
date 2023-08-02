@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-08-02T09:10:53.413Z</updated>
+    <updated>2023-08-02T10:12:40.927Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[카디 비가 공연 중 던진 마이크...경매로 나왔다]]></title>
+        <id>https://v.daum.net/v/20230802190130393</id>
+        <link href="https://v.daum.net/v/20230802190130393"/>
+        <updated>2023-08-02T10:12:40.194Z</updated>
+        <content type="html"><![CDATA[[TV리포트=이수연 기자] 술을 뿌리는 관객에게 마이크를 던져버린 래퍼 카디 비의 대처가 연일 온라인을 뜨겁게 달구고 있다. 2일(한국 시간) 라스베이거스 지역 방송국 News 3의 보도에 따르면 카디 비가 지난달 29일 공연 도중 관객을 향해 던진 마이크가 경매에 나온다. 카디 비의 마이크는 현재 그것을 소지하고 있는 스콧이라는 사람에 의해 경매에 나왔]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[톰 브래디, 생일에 여친 이리나 샤크 초대 NO..."자녀와 함께할 것"]]></title>
+        <id>https://v.daum.net/v/20230802184030017</id>
+        <link href="https://v.daum.net/v/20230802184030017"/>
+        <updated>2023-08-02T10:12:40.198Z</updated>
+        <content type="html"><![CDATA[[TV리포트=이수연 기자] 미식축구 선수 톰 브래디와 모델 이리나 샤크가 각자의 자녀에게 상처를 주지 않도록 조심히 교제하고 있다. 1일(현지 시간) 미국 연예매체 US 위클리에 따르면 톰 브래디는 오는 46번째 생일에 새 연인 이리나 샤크를 초대하지 않을 계획이다. 매체는 측근의 말을 빌려 "톰 브래디는 평생 사랑하는 아이들과 함께 생일을 보낼 것이다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['92세' 현역 모델, 성형 고백..."젊음 집착 아냐"]]></title>
         <id>https://v.daum.net/v/20230802180601170</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230802152617288"/>
         <updated>2023-08-02T07:10:47.061Z</updated>
         <content type="html"><![CDATA[[뉴스엔 이민지 기자] 가수 테일러 스위프트가 스태프들에게 보너스를 지급했다. 피플은 8월 1일(현지시간) 테일러 스위프트가 투어를 위해 일하는 스태프들에게 5,500만 달러(한화 약 713억 5,000만원) 이상의 보너스를 줬다고 보도했다. 테일러 스위프트는 밴드와 댄서, 음향팀, 화물팀 등 자신의 투어에서 일하는 모든 사람들에게 총 5,500만 달]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[마돈나-비욘세의 만남..."여왕님 감사합니다"]]></title>
-        <id>https://v.daum.net/v/20230802144031269</id>
-        <link href="https://v.daum.net/v/20230802144031269"/>
-        <updated>2023-08-02T06:14:20.402Z</updated>
-        <content type="html"><![CDATA[[TV리포트=이수연 기자] 전설적인 팝스타 마돈나와 비욘세가 만났다. 마돈나(64)는 2일 자신의 소셜네트워크서비스를 통해 딸과 콘서트를 즐기고 있는 모습을 공개했다. 마돈나가 방문한 콘서트는 미국 뉴저지에서 열린 비욘세의 '르네상스 월드 투어'(Renaissance World Tour)였다. 특히 그는 "멋진 쇼를 보여주신 B 여왕님 감사합니다. 내 딸]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['오즈의 마법사' 베티 앤 브루노, 별세...향년 91세]]></title>
-        <id>https://v.daum.net/v/20230802122100466</id>
-        <link href="https://v.daum.net/v/20230802122100466"/>
-        <updated>2023-08-02T04:12:59.094Z</updated>
-        <content type="html"><![CDATA[[TV리포트=강성훈 기자] 1939년 명작 '오즈의 마법사'에 출연한 배우 겸 기자 베티 앤 브루노(Betty Ann Bruno)가 지난달 30일(현지 시간) 별세했다. 향년 91세. 브루노는 극 중 도로시가 오즈에 도착한 후 방문하는 먼치킨 랜드에서 막대 사탕을 핥는 작은 주민 중 한 명을 연기했다.&nbsp; 브루노의 남편은 지난달 31일(현지 시간) 소셜네트워]]></content>
     </entry>
 </feed>
