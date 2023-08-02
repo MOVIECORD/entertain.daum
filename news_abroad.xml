@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-08-02T05:10:26.167Z</updated>
+    <updated>2023-08-02T06:14:21.145Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[마돈나-비욘세의 만남..."여왕님 감사합니다"]]></title>
+        <id>https://v.daum.net/v/20230802144031269</id>
+        <link href="https://v.daum.net/v/20230802144031269"/>
+        <updated>2023-08-02T06:14:20.402Z</updated>
+        <content type="html"><![CDATA[[TV리포트=이수연 기자] 전설적인 팝스타 마돈나와 비욘세가 만났다. 마돈나(64)는 2일 자신의 소셜네트워크서비스를 통해 딸과 콘서트를 즐기고 있는 모습을 공개했다. 마돈나가 방문한 콘서트는 미국 뉴저지에서 열린 비욘세의 '르네상스 월드 투어'(Renaissance World Tour)였다. 특히 그는 "멋진 쇼를 보여주신 B 여왕님 감사합니다. 내 딸]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['오즈의 마법사' 베티 앤 브루노, 별세...향년 91세]]></title>
         <id>https://v.daum.net/v/20230802122100466</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230801221007997"/>
         <updated>2023-08-01T13:14:05.651Z</updated>
         <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]미국 팝스타 아리아나 그란데(30)가 ‘논란의 아이콘’으로 새삼 주목받고 있다. US위클리는 7월 31일(현지시간) 2015년 “미국이 싫다”라는 발언부터 최근 유부남인 배우 에단 슬레이터(31)와의 불륜에 이르기까지 꾸준히 논란을 일으키는 그란데의 삶을 조명했다. 2015년 도넛에 침뱉기, “미국이 싫어” 연예매체 TMZ]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[인기 가수, 공연서 2곡 부르고 3천만 원 받아 논란...대체 왜?]]></title>
-        <id>https://v.daum.net/v/20230801220130896</id>
-        <link href="https://v.daum.net/v/20230801220130896"/>
-        <updated>2023-08-02T05:10:25.425Z</updated>
-        <content type="html"><![CDATA[[TV리포트=강성훈 기자] 홍콩 가수 겸 배우 모제스 장(Moses Chan·52)의 몸값이 중국 누리꾼 사이에서 논란이 되고 있다. 며칠 전 홍콩 스타 모세 찬(Moses Chan·52)이 중국 포산시에서 열린 행사에 참여했다.&nbsp; 마을에서 열린 행사로 추정되는 곳에서, 사람들은 모세 찬의 실물을 볼 수 있다는 사실에 뜨거운 반응을 보였다. 현장에 있던 사]]></content>
     </entry>
 </feed>
