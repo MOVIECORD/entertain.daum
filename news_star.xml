@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2023-08-03T18:14:00.296Z</updated>
+    <updated>2023-08-03T19:09:08.402Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[주지훈 “김성훈 감독, 하정우 신뢰로 모든 걸 던져 연기”]]></title>
+        <id>https://v.daum.net/v/20230804040434802</id>
+        <link href="https://v.daum.net/v/20230804040434802"/>
+        <updated>2023-08-03T19:09:02.704Z</updated>
+        <content type="html"><![CDATA[“여기선 누굴 믿을지 고민할 필요가 없어. 아무도 안 믿으면 되거든.” 레바논에 막 도착한 외교관 민준(하정우)에게 한국인 택시기사 판수(주지훈)가 말한다. 민준은 실종된 동료로부터 온 전화를 받고 그를 구하는 비공식작전을 수행하기 위해 비행기를 탔다. 성격도 직업도, 살아온 배경도 다른 두 사람이 과연 서로를 믿고 의지할 수 있을까. 영화 ‘비공식작전’]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['꼬꼬무' 전례없는 대학살 '버지니아 공대 총기 난사'…조승희, 그는 왜 괴물이 되었나?]]></title>
+        <id>https://v.daum.net/v/20230804033301707</id>
+        <link href="https://v.daum.net/v/20230804033301707"/>
+        <updated>2023-08-03T19:09:02.704Z</updated>
+        <content type="html"><![CDATA[[SBS연예뉴스 | 김효정 에디터] 조승희, 그는 왜 괴물이 되었나? 3일 방송된 SBS '꼬리에 꼬리를 무는 그날 이야기'(이하 '꼬꼬무')에서는 '외톨이가 보낸 소포 - 버지니아 공대 총기 난사'라는 부제로 전례 없는 대학살 사건이 일어난 그날을 조명했다. 2007년 4월 15일, 미국의 한 대학교에서는 일요일임에도 축제로 열기가 뜨거웠다. 그리고 모두]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[강훈 “차태현은 예능 중독자” 6色 하이라이트 영상]]></title>
         <id>https://v.daum.net/v/20230804030006478</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230803232810493"/>
         <updated>2023-08-03T15:11:24.568Z</updated>
         <content type="html"><![CDATA[티아라 출신 지연이 결혼 후 생긴 고민을 털어놨다.지연은 8월 3일 자신의 유튜브 채널에 "업로드가 늦었습니다"는 제목으로 6월 밤에 찍은 블로그 영상을 올렸다. 이날 지연은 늦은 밤 남양주의 카페로 이동하는 차 안에서 지인들과 속내를 고백했다. 그는 "결혼하면 우리 직업상 당연히 일적인 부분에서 어느 정도 생각은 했었다"고 말문을 열었다. 이어 지연]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[권은비, 고민 상담을 KCM에게? “아재개그로 공감대 형성”]]></title>
-        <id>https://v.daum.net/v/20230803232305395</id>
-        <link href="https://v.daum.net/v/20230803232305395"/>
-        <updated>2023-08-03T15:11:24.568Z</updated>
-        <content type="html"><![CDATA[[마이데일리 = 임유리 기자] 가수 권은비가 중요한 일을 의논할 때 가수 KCM에게 한다고 밝혔다. 3일 유튜브 채널 ‘조현아의 목요일 밤’에는 권은비가 게스트로 출연한 영상이 게재됐다. 영상에서 조현아는 권은비에게 궁금한 게 있었다며 “중요한 거 의논하거나 이럴 때 KCM 선배님하고 한다던데”라고 물었다. 이에 권은비는 “얘기 좀 많이 하는 거]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박하선·이나영도 겪은 '경력단절'…지연 "이 정도일 줄은"]]></title>
-        <id>https://v.daum.net/v/20230803232002373</id>
-        <link href="https://v.daum.net/v/20230803232002373"/>
-        <updated>2023-08-03T15:11:24.579Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 최희재 기자) 티아라 지연이 경력 단절에 대한 심경을 고백했다. 자유로워보이는 연예계임에도 수많은 여성 스타들이 어려움을 겪고 있다. 지연은 3일 자신의 유튜브 채널을 통해 근황을 전했다. 그는 "결혼을 하면 우리 직업상 당연히 어느 정도 일 거라고 생각했다. 일적인 부분에 대해서는. 생각을 했더라도 막상 내가 이걸 지금 겪고 있으니까 힘들다]]></content>
     </entry>
 </feed>
