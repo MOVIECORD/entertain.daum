@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-08-03T03:12:05.365Z</updated>
+    <updated>2023-08-03T04:12:42.301Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뉴진스가 여기서 왜 나와? 비욘세 콘서트서 ‘ETA’ 재생]]></title>
+        <id>https://v.daum.net/v/20230803124348318</id>
+        <link href="https://v.daum.net/v/20230803124348318"/>
+        <updated>2023-08-03T04:12:41.480Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 황혜진 기자] 미국 가수 비욘세(Beyonce) 콘서트에서 그룹 뉴진스 신곡 'ETA'(이티에이)가 재생돼 팬들 사이에서 화제다. 8월 2일 Pop Base(팝 베이스) SNS에는 비욘세 해외 콘서트 현장이 담긴 영상이 게재됐다. 해당 영상에서는 비욘세 콘서트 관객들이 뉴진스 신곡 'ETA'가 흘러나오는 공연장에서 비욘세 본 공연 시작을 기다리는]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[테일러 스위프트, 스태프에 총 '714억' 보너스...'월클' 고용주]]></title>
         <id>https://v.daum.net/v/20230803113500640</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230802192131851"/>
         <updated>2023-08-02T11:09:23.762Z</updated>
         <content type="html"><![CDATA[[TV리포트=안수현 기자] 극단적 선택으로 사망한 故 코코 리의 화장터에 '불륜 남편' 브루스 로코위츠가 등장해 팬들이 분노했다. 지난 31일 브루스 로코위치는 코코 리의 추모식에 참석했다는 이유로 비난을 받았다. 그는 다음날 1일, 가족의 비공개 장례식에는 참석하지 않았다. 그러나 브루스는 후에 코코 리의 화장을 진행하기 위한 케이프 콜린슨 화장터에 모습]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[카디 비가 공연 중 던진 마이크...경매로 나왔다]]></title>
-        <id>https://v.daum.net/v/20230802190130393</id>
-        <link href="https://v.daum.net/v/20230802190130393"/>
-        <updated>2023-08-02T10:12:40.194Z</updated>
-        <content type="html"><![CDATA[[TV리포트=이수연 기자] 술을 뿌리는 관객에게 마이크를 던져버린 래퍼 카디 비의 대처가 연일 온라인을 뜨겁게 달구고 있다. 2일(한국 시간) 라스베이거스 지역 방송국 News 3의 보도에 따르면 카디 비가 지난달 29일 공연 도중 관객을 향해 던진 마이크가 경매에 나온다. 카디 비의 마이크는 현재 그것을 소지하고 있는 스콧이라는 사람에 의해 경매에 나왔]]></content>
     </entry>
 </feed>
