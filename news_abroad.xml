@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-08-03T00:56:03.427Z</updated>
+    <updated>2023-08-03T01:58:25.975Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[갤 가돗, '원더우먼' 하차 안 한다 "함께 3편 개발할 것"]]></title>
+        <id>https://v.daum.net/v/20230803095606313</id>
+        <link href="https://v.daum.net/v/20230803095606313"/>
+        <updated>2023-08-03T01:58:25.181Z</updated>
+        <content type="html"><![CDATA[[티브이데일리 김종은 기자] 할리우드 배우 갤 가돗이 영화 '원더우먼3' 프로젝트 중단설을 부인했다. 갤 가돗은 2일(현지시간) 코믹북닷컴과의 인터뷰를 통해 "난 원더우먼을 연기하는 것이 즐겁다. 나와 가까운 존재이자 내게 너무 소중한 캐릭터다. 지금까지 제임스 건, 피터 사프란으로부터 들은 바로는 '원더우먼' 시리즈는 계속된다. '우리가 함께 '원더우먼]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["셀레나 고메즈에 신장 이식 강요 받았다?..사실 아냐"]]></title>
         <id>https://v.daum.net/v/20230803090824654</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230802180026998"/>
         <updated>2023-08-02T09:10:52.691Z</updated>
         <content type="html"><![CDATA[[OSEN=선미경 기자] ‘팝의 요정’ 아리아나 그란데의 불륜 의심은 처음이 아니었다. 아리아나 그란데가 배우 에단 슬레이터와 불륜 의혹으로 논란이 일고 있는 가운데, 이전에도 불륜 의심으로 저격받은 적이 있던 것으로 알려졌다. ‘글리’의 배우 나야 리베라도 아리아나 그란데를 저격했던 바. 최근 외신 보도에 따르면 지난 2020년 세상을 떠난 나야 리베]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美 가수 리조, 성희롱 혐의로 피소 "女 댄서 가슴 만지라고…"]]></title>
-        <id>https://v.daum.net/v/20230802175747884</id>
-        <link href="https://v.daum.net/v/20230802175747884"/>
-        <updated>2023-08-02T09:10:52.693Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 이창규 기자) 미국의&nbsp;가수 리조(Lizzo)가 성희롱 혐의로 피소돼 충격을 안긴다. 1일(현지시간) 미국 버라이어티 등 다수 매체는 리조와 그의 제작사가 전 댄서 트리오에게 성희롱 및 거부감을 느껴지게 하는 작업 환경을 조성한 혐의로 고소당했다고 보도했다. 보도에 따르면 리조의 팀에서 댄서로 활동했던 아리아나 데이비스, 크리스탈 윌리엄스, 노]]></content>
     </entry>
 </feed>
