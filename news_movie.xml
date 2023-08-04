@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-08-04T03:11:17.036Z</updated>
+    <updated>2023-08-04T04:17:45.269Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['주말 영화 뭐 보지?' '밀수'·'비공식작전'·'더 문'→톡톡 튀는 독립영화까지]]></title>
+        <id>https://v.daum.net/v/20230804130801450</id>
+        <link href="https://v.daum.net/v/20230804130801450"/>
+        <updated>2023-08-04T04:17:22.166Z</updated>
+        <content type="html"><![CDATA[[텐아시아=이하늘 기자] 원치 않았던 무더위가 본격적으로 시작됐다. 푹푹 찌는 날씨에 순식간에 땀이 비오듯 쏟아지고, 붉게 상기된 채 거리를 지나는 사람들의 모습을 종종 볼 수 있다. 그나마 실내로 들어가 에어컨을 튼다면, ‘살 만하다’라는 생각이 드는 요즘. 무더위를 날려줄 시원한 영화들이 돌아왔다. 반가운 점이라면, 그동안 극장가를 꽉 붙들고 있던 외]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['오펜하이머' 감독, 배우 목소리 안 들려도 재녹음 NO..."예술적 선택"]]></title>
+        <id>https://v.daum.net/v/20230804130030282</id>
+        <link href="https://v.daum.net/v/20230804130030282"/>
+        <updated>2023-08-04T04:17:22.168Z</updated>
+        <content type="html"><![CDATA[[TV리포트=이예은 기자] 영화 '오펜하이머' 크리스토퍼 놀란 감독이 작품에서 배우 목소리가 잘 안 들린다는 지적에 대해 입을 열었다.&nbsp; 3일(현지 시간) 외신 매체 인사이더는 크리스토퍼 놀란 감독과의 인터뷰를 진행해 보도했다. 해당 매체는 '오펜하이머’에서 배우의 대사가 잘 들리지 않는 이유 중 하나는 감독이 배우들의 재녹음을 거부했기 때문이라고 보도했다]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['D.P.' 김성균 "손석구와 재회 당시 울컥..날 부끄럽게 하는 배우"]]></title>
         <id>https://v.daum.net/v/20230804120340316</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230804090412907"/>
         <updated>2023-08-04T00:55:31.537Z</updated>
         <content type="html"><![CDATA[배우 조인성이 영화 ‘밀수’에서 크지 않은 출연 비중에도 스크린을 압도했다. 소속사 아이오케이컴퍼니는 ‘밀수’에서 조인성의 매력을 집중 조명하며 그의 연기력으로 앞으로의 계획을 4일 공개했다. ‘밀수’에서 조인성은 전국구 밀수왕 권상사를 연기하며 새로운 연기 변신에 나섰다. ‘밀수’는 바다에 던져진 생필품을 건지며 생계를 이어가던 사람들이 일생일대의]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["추잡스럽고 상스럽게"..'밀수', 고민시라는 '월척']]></title>
-        <id>https://v.daum.net/v/20230804090002736</id>
-        <link href="https://v.daum.net/v/20230804090002736"/>
-        <updated>2023-08-04T00:55:31.540Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 | 김나연 기자] 영화 '밀수'(감독 류승완)의 배우 고민시가 25일 오전 진행된 인터뷰를 위해 포즈를 취하고 있다. /사진제공=NEW 2023.07.25 /사진=이동훈 기자 photoguy@배우 고민시가 '밀수'에서 막내답지 않은 연기력으로 다시 한번 존재감을 과시했다. 비주얼에 신경쓸 법도 하건만, 망가지면 망가질수록 좋다고 목소리를 높인다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['그녀의 취미생활' 김혜나, 하명미 감독 극찬 이끌어낸 활약]]></title>
-        <id>https://v.daum.net/v/20230804085612653</id>
-        <link href="https://v.daum.net/v/20230804085612653"/>
-        <updated>2023-08-04T00:55:31.542Z</updated>
-        <content type="html"><![CDATA[배우 김혜나가 '그녀의 취미생활'로 돌아온다. 하명미 감독은 김혜나의 연기력을 극찬했다. 지난 3일 '그녀의 취미생활' 주연 배우 김혜나의 비주얼 포토가 오픈됐다. 김혜나는 오는 30일 개봉을 확정 지은 '그녀의 취미생활'에서 이사 온 도시 여자 혜정 역을 맡아 오묘하면서도 비밀스러운 캐릭터 연기를 펼친다. 공개된 사진 속에는 '그녀의 취미생활' 속 비밀을]]></content>
     </entry>
 </feed>

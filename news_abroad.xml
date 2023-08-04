@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-08-04T03:11:17.042Z</updated>
+    <updated>2023-08-04T04:17:45.275Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['영국 왕자비' 메건 마클, SNS 시작...할리우드 복귀?]]></title>
+        <id>https://v.daum.net/v/20230804131030527</id>
+        <link href="https://v.daum.net/v/20230804131030527"/>
+        <updated>2023-08-04T04:17:44.511Z</updated>
+        <content type="html"><![CDATA[[TV리포트=이수연 기자] 영국의 왕자비이자 전직 배우인 메건 마클이 소셜 미디어 계정을 만들었다는 보도가 나왔다. 3일(현지 시간) 미국 연예매체 페이지 식스에 따르면 메건 마클은 곧 자신의 소셜네트워크서비스 계정을 열고 팬들과 소통할 것이다. 매체는 "서식스 공작부인은 @meghan이라는 아이디를 가지고 있으며 이미 2,420명의 팔로워를 보유하고 있다]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[브리트니 스피어스, 이름 개명..."난 마리아 리버 레드"]]></title>
         <id>https://v.daum.net/v/20230804120930443</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230804063200107"/>
         <updated>2023-08-03T22:09:51.367Z</updated>
         <content type="html"><![CDATA[[TV리포트=안수현 기자] 2일 일본 매체에 따르면 미야자키 하야오의 명작 애니메이션 '센과 치히로의 행방불명'의 실사 연극이 내년부터 해외 공연을 시작한다. 스튜디오 지브리의 미야자키 하야오의 원작 '센과 치히로의 행방불명'은 주인공 '치히로'가 수상한 터널을 지나고 인간에게 금지된 신들의 세계에서의 탐험을 하게 되는 이야기를 그린다. 2022년 일본에서]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[카니예 아내, 속옷만 입은 채로 목격…"지쳐보였다"]]></title>
-        <id>https://v.daum.net/v/20230804060200798</id>
-        <link href="https://v.daum.net/v/20230804060200798"/>
-        <updated>2023-08-03T21:09:47.730Z</updated>
-        <content type="html"><![CDATA[[TV리포트=유비취 기자] 래퍼 카니예 웨스트의 아내 비앙카 센소리가 지친 행색으로 목격됐다. 지난 1일(현지 시간) 비앙카 센소리(28)가 이탈리아 플로렌스에서 카니예 웨스트(46)와 만나고 있는 모습이 목격됐다. 비앙카 센소리는 신발도 신지 않고 피곤한 얼굴이었다. 비앙카 센소리는 신발뿐만 아니라 상의 또한 입지 않고 속옷만 입은 상태였다. 그는 검은색]]></content>
     </entry>
 </feed>
