@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-08-04T12:19:52.573Z</updated>
+    <updated>2023-08-04T13:13:27.366Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[박해진의 짜릿한 액션, 타격감X현장감 MAX]]></title>
+        <id>https://v.daum.net/v/20230804220204131</id>
+        <link href="https://v.daum.net/v/20230804220204131"/>
+        <updated>2023-08-04T13:13:10.571Z</updated>
+        <content type="html"><![CDATA[[동아닷컴] ‘국민사형투표’ 거친 모습으로 돌아온 박해진의 액션이 폭발한다. 오는 10일 밤 9시 첫 방송되는 SBS 새 목요드라마 ‘국민사형투표’(극본 조윤영/연출 박신우/제작 ㈜팬엔터테인먼트, 스튜디오S)는 악질범들을 대상으로 국민사형투표를 진행하고 사형을 집행하는 정체 미상의 ‘개탈’을 추적하는 이야기를 그린 국민 참여 심판극. 장르물의 명가 SB]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘비밀의 여자’ 종영...최윤영, 복수 성공 ‘인과응보 해피엔딩’]]></title>
+        <id>https://v.daum.net/v/20230804214200813</id>
+        <link href="https://v.daum.net/v/20230804214200813"/>
+        <updated>2023-08-04T13:13:10.573Z</updated>
+        <content type="html"><![CDATA[‘비밀의 여자’ 최윤영과 이선호가 서로의 마음을 확인하고 따뜻한 엔딩을 맞았다. 4일 방송한 KBS2 일일드라마 ‘비밀의 여자’ 최종회에서는 정겨울(최윤영 분)과 서태양(이선호 분)가 다시 재회하며 해피엔딩을 맞는 모습이 그려졌다. “탐욕 때문에 가장 망가진 것은 당신 자신”이날 무기징역과 징역 10년 판격을 받는 남연석(이종원 분), 남유진(한기웅 분)이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[종영 '비밀의 여자' 이채영, 시력 잃고 치른 죗값…최윤영, 결혼 대신 유학行]]></title>
         <id>https://v.daum.net/v/20230804204254031</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230804181925608"/>
         <updated>2023-08-04T10:11:03.988Z</updated>
         <content type="html"><![CDATA[[OSEN=박소영 기자]‘킹더랜드’&nbsp;OST&nbsp;음반이 드라마의 피날레를 장식한다. JTBC&nbsp;토일드라마 ‘킹더랜드(극본 최롬(팀 하리마오),&nbsp;연출 임현욱/최선민,&nbsp;제작 앤피오엔터테인먼트,&nbsp;바이포엠스튜디오, SLL)’&nbsp;OST&nbsp;음반의 예약 판매가 오늘(4일)부터 시작된다.&nbsp; ‘킹더랜드’는 웃음을 경멸하는 남자 구원(이준호 분)과 웃어야만 하는 스마일 퀸 천사랑(]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[시청률 우상향 '남남', 이 상황 어디서 봤는데…'우영우' 절차 밟나]]></title>
-        <id>https://v.daum.net/v/20230804180527306</id>
-        <link href="https://v.daum.net/v/20230804180527306"/>
-        <updated>2023-08-04T09:11:05.629Z</updated>
-        <content type="html"><![CDATA[드라마 '남남'이 시청률 상승세를 타고 제대로 폼(Form) 올랐다. 지난달 17일 첫 방송을 시작한 지니 TV, ENA 오리지널 '남남'이 연일 자체 최고 시청률을 기록, 월화드라마 1위를 차지했다. '남남'은 철부지 엄마와 쿨한 딸의 '남남' 같은 한 집 살이와 그녀들의 썸과 사랑을 그린 드라마다. 전혜진과 최수영의 모녀 만남, 그리고 넷플릭스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["박해진, 액션 연기 위해 몸 사리지 않았다" 극찬…현장감 MAX]]></title>
-        <id>https://v.daum.net/v/20230804180426286</id>
-        <link href="https://v.daum.net/v/20230804180426286"/>
-        <updated>2023-08-04T09:11:05.631Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 이예진 기자) ‘국민사형투표’ 거친 모습으로 돌아온 박해진의 액션이 폭발한다. 10일 첫 방송되는 SBS 새 목요드라마 ‘국민사형투표’는 악질범들을 대상으로 국민사형투표를 진행하고 사형을 집행하는 정체 미상의 ‘개탈’을 추적하는 이야기를 그린 국민 참여 심판극이다. 장르물의 명가 SBS가 야심 차게 선보이는 웰메이드 하드보일드 추적스릴러로 공]]></content>
     </entry>
 </feed>
