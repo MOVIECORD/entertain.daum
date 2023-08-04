@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-08-04T21:09:50.607Z</updated>
+    <updated>2023-08-04T22:09:58.556Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['콘크리트 유토피아' 이병헌, 인정할 수밖에 없는 연기의 비결]]></title>
+        <id>https://v.daum.net/v/20230805070207873</id>
+        <link href="https://v.daum.net/v/20230805070207873"/>
+        <updated>2023-08-04T22:09:35.238Z</updated>
+        <content type="html"><![CDATA[[티브이데일리 김종은 기자] 매번 얼굴을 갈아끼운 듯한 연기로 관객을 놀라게 하는 배우 이병헌이 본인만의 연기 비결을 들려줬다. 9일 개봉하는 영화 '콘크리트 유토피아'(감독 엄태화·제작 클라이맥스 스튜디오)는 대지진으로 하루아침에 폐허가 된 서울에서 멀쩡하게 남은 단 하나의 건물, 황궁아파트에 모여든 사람들의 이야기를 그린 작품. 극 중 이병헌은 주민들]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['밀수' 10일째 1위 사수…오늘 300만 돌파한다]]></title>
         <id>https://v.daum.net/v/20230805045923100</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230804154102030"/>
         <updated>2023-08-04T07:09:34.627Z</updated>
         <content type="html"><![CDATA[[뉴스엔 배효주 기자] 크리스토퍼 놀란 감독이 후시 녹음을 하지 않는 이유를 밝혔다. 해외 매체 인사이더가 최근 공개한 크리스토퍼 놀란 감독의 인터뷰에 따르면, 감독은 국내 개봉을 앞둔 영화 '오펜하이머'에서 대사를 알아들을 수 없는 경우에도 후시 녹음을 하지 않은 이유를 밝혔다. 인터뷰에 따르면 크리스토퍼 놀란 감독은 소음이 완벽하게 차단되지 않는 IM]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['엣지 오브 투모로우' 2편 나올까...톰 크루즈 결정만 남았다]]></title>
-        <id>https://v.daum.net/v/20230804152030221</id>
-        <link href="https://v.daum.net/v/20230804152030221"/>
-        <updated>2023-08-04T08:18:04.264Z</updated>
-        <content type="html"><![CDATA[[TV리포트=유비취 기자] 배우 에밀리 블런트가 톰 크루즈에게 다시 한번 더 러브콜을 보냈다. 3일(현지 시간) 팟캐스트 'Happy Sad Confused(해피 새드 컨퓨스드)'에 출연한 에밀리 블런트는 톰 크루즈와 출연했던 영화 '엣지 오브 투모로우'의 속편에 대한 기대감을 드러냈다. 에밀리 블런트는 '엣지 오브 투모로우'의 감독 더그 라이먼이 자신에게]]></content>
     </entry>
 </feed>
