@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/variety</id>
     <title>다음 연예 ─ 뉴스 ─ 예능</title>
-    <updated>2023-08-05T08:12:20.521Z</updated>
+    <updated>2023-08-05T09:09:30.005Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['정은표 子' 정지웅, 중국 부호 등극.."낯설지 않다"]]></title>
+        <id>https://v.daum.net/v/20230805174538017</id>
+        <link href="https://v.daum.net/v/20230805174538017"/>
+        <updated>2023-08-05T09:09:18.366Z</updated>
+        <content type="html"><![CDATA[[OSEN=김보라 기자] 배우 정은표의 아들 정지웅이 중국 부호로 변신해 감탄을 유발한다. KBS 2TV&nbsp;가족 여행 버라이어티&nbsp;‘걸어서 환장 속으로’(이하&nbsp;‘걸환장’)는 피를 나눈 사이지만 피 터지게 싸운다는 콘셉트로 닮은 듯 다른 스타 가족의 좌충우돌 해외여행 프로그램이다. 데뷔&nbsp;33년 차 팔색조 배우 정은표는 아내 김하얀,&nbsp;첫째 아들 정지웅,&nbsp;막내]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['음악중심' 싸이커스, 무더위 잊게 하는 파워 청량 에너지 '두 오어 다이']]></title>
+        <id>https://v.daum.net/v/20230805173010707</id>
+        <link href="https://v.daum.net/v/20230805173010707"/>
+        <updated>2023-08-05T09:09:18.366Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 박윤진 기자] 그룹 싸이커스(xikers)가 청량감 넘치는 에너지로 주말 오후를 시원하게 물들였다. 5일 방송된 MBC '쇼! 음악중심'에 출연한 싸이커스는 미니 2집 '하우스 오브 트리키 : 하우 투 플레이(HOUSE OF TRICKY : HOW TO PLAY)'의 타이틀곡 '두 오어 다이(DO or DIE)'로 컴백 무대를 펼쳤다. 이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이탈리아서 선보인 '한국인의 식판', 엄지 내리며 '최악 메뉴' 혹평까지]]></title>
         <id>https://v.daum.net/v/20230805171015316</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230805150304785"/>
         <updated>2023-08-05T06:13:00.415Z</updated>
         <content type="html"><![CDATA[‘쇼킹나이트’ 배채영의 폭발적 가창력에 채연이 감탄했다. 지난 4일 오후 방송된 MBN 예능프로그램 ‘국내 유일 땐-스 가요제, 쇼킹나이트(이하 ’쇼킹나이트‘)’에서는 1라운드가 진행됐다. 이날 마지막 참가자들의 화려한 퍼포먼스가 보는 이들의 시선을 사로잡았다. #. 현직 아이돌 같은 비주얼 소환현직 아이돌 같은 비주얼의 팀 북두칠성은 신화 ‘으쌰! 으쌰!]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[세븐틴 호시, 솔직한 예능 야망 “언제까지 부승관에 머물러 있냐”]]></title>
-        <id>https://v.daum.net/v/20230805144105480</id>
-        <link href="https://v.daum.net/v/20230805144105480"/>
-        <updated>2023-08-05T06:13:00.417Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 이민지 기자] 호시가 예능 야망을 드러냈다. 8월 5일 유튜브 채널 '뜬뜬'에 공개된 '또 여름 휴가는 핑계고'에 세븐틴 조슈아, 호시, 지석진, 조세호가 출연했다. 유재석이 꿈을 묻자 호시는 "유명해지는거다. 팀도 유명한데 그 안에서 내 역할도 하면서 유명해지면 좋겠다"고 솔직히 말했다. 유재석은 "이런게 멋있다. 예전 같으면 겸손하게 '지금]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[재재, 연반인의 이중생활? 라디오 생방→'문특' 회의 현장 전격 공개]]></title>
-        <id>https://v.daum.net/v/20230805142815309</id>
-        <link href="https://v.daum.net/v/20230805142815309"/>
-        <updated>2023-08-05T06:13:00.420Z</updated>
-        <content type="html"><![CDATA[[마이데일리 = 양유진 기자] ‘연반인’ 재재가 절친 권진아와 극과 극 케미를 발산한다. 5일 밤 11시 10분 방송되는 MBC ‘전지적 참견 시점’(이하 ‘전참시’)에서는 재재의 유쾌한 이중생활(?)이 펼쳐진다. 재재는 MBC ‘두시의 데이트’ 라디오 생방송을 마친 뒤 곧바로 ‘문명특급’ 회의에 참석하며 바쁜 하루를 보낸다. 전(?) 직장에 도착한]]></content>
     </entry>
 </feed>
