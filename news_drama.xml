@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-08-05T01:57:16.594Z</updated>
+    <updated>2023-08-05T02:24:08.691Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['소옆경2' 공승연, 스킬UP 캐릭터]]></title>
+        <id>https://v.daum.net/v/20230805110130197</id>
+        <link href="https://v.daum.net/v/20230805110130197"/>
+        <updated>2023-08-05T02:23:51.031Z</updated>
+        <content type="html"><![CDATA[[OSEN=김보라 기자]&nbsp;‘소방서 옆 경찰서 그리고 국과수’('소옆경2') 공승연이&nbsp;‘하트 세이버’의 귀환을 알리며 안방을 사로잡았다. 지난&nbsp;4일 첫 방송된&nbsp;SBS&nbsp;새 금토드라마&nbsp;‘소방서 옆 경찰서 그리고 국과수’(극본 민지은,&nbsp;연출 신경수)에서 공승연은 전 시즌에서 한층 성장한 송설로 분해 스펙터클&nbsp;스토리를 이끌었다.&nbsp;진호개(김래원&nbsp;분)와 봉도진(손호]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[천우희 "벌써 데뷔 20년 차라고요? 저 이제 '노포' 되는 건가요"]]></title>
         <id>https://v.daum.net/v/20230805104602036</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230805091914085"/>
         <updated>2023-08-05T00:52:28.307Z</updated>
         <content type="html"><![CDATA[[스포츠한국 조은애 기자] '소방서 옆 경찰서 그리고 국과수'(이하 '소옆경2')가 시즌1보다 확장된 이야기로 금토극 기선 제압에 성공했다. 4일 방송된 SBS 새 금토드라마 '소옆경2' 1회 시청률은&nbsp;수도권&nbsp;7.5%, 전국 7.1%, 순간 최고 8.5%를 기록하며 동시간대, 금토드라마 1위에 올랐다. 2049 시청률 역시 3.0%로 동시간대 드라]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김래원 먼저 웃었다..'소옆경2', '연인'과 첫 금토극 대전 '우위']]></title>
-        <id>https://v.daum.net/v/20230805091635038</id>
-        <link href="https://v.daum.net/v/20230805091635038"/>
-        <updated>2023-08-05T00:52:28.308Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 | 윤성열 기자] 김래원(왼쪽)과 남궁민 /사진=스타뉴스 '소방서 옆 경찰서' 시즌2가 '연인'과의 첫 금토드라마 시청률 경쟁에서 우위를 점했다. 5일 시청률 조사회사 닐슨 코리아에 따르면 지난 4일 첫 방송된 SBS 새 금토드라마 '소방서 옆 경찰서' 시즌2 '소방서 옆 경찰서 그리고 국과수'(극본 민지은, 연출 신경수, 이하 '소옆경2']]></content>
     </entry>
 </feed>
