@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-08-05T09:09:30.016Z</updated>
+    <updated>2023-08-05T10:10:15.998Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[킴 카다시안, 금발+핑크...'바비'로 완벽 변신]]></title>
+        <id>https://v.daum.net/v/20230805190030331</id>
+        <link href="https://v.daum.net/v/20230805190030331"/>
+        <updated>2023-08-05T10:10:14.982Z</updated>
+        <content type="html"><![CDATA[[TV리포트=이수연 기자] 할리우드 셀럽 킴 카다시안이 '바비'로 변신했다. 킴 카다시안은 4일 자신의 소셜네트워크서비스에 속옷을 입은 채 포즈를 취하는 영상을 공유했다. 영상은 킴 카다시안이 직접 운영하는 언더웨어 브랜드 스킴스(SKIMS) 제품 홍보를 위한 것이었다. 특히 킴 카다시안은 금색 빛의 가발을 착용해 파격 변신을 선보였고, 핑크색 속옷을 매치]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[리키 마틴, 13세 연하 동성 남편과 이혼 심경 "두 자녀 함께 키울 것"]]></title>
         <id>https://v.daum.net/v/20230805180149355</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230805080301371"/>
         <updated>2023-08-04T23:10:43.780Z</updated>
         <content type="html"><![CDATA[[TV리포트=이수연 기자] 가수 제시 제이가 독박 육아에 대한 고충을 토로했다. 제시 제이(35)는 최근 자신의 소셜네트워크서비스를 통해 혼자 아들을 키우느라 3일 동안 잠을 자지 못했다고 털어놨다. 그는 "3일 동안 잠을 못 잤다. 남편이 너무 멀리 있다"라는 글과 함께 자신의 침대에서 코를 골며 자고 있는 아들의 비디오를 공유했다. 제시 제이는 이어]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[톰 브래디♥이리나 샤크, 집에서 하룻밤→프라이빗룸에서 “스시 데이트”]]></title>
-        <id>https://v.daum.net/v/20230805064705656</id>
-        <link href="https://v.daum.net/v/20230805064705656"/>
-        <updated>2023-08-04T22:09:57.785Z</updated>
-        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]슈퍼모델 지젤 번천(43)과 이혼한 NFL의 전설 톰 브래디(46)가 브래들리 쿠퍼(48)의 전 여친 이리냐 샤크(37)와 뜨거운 만남을 이어가고 있는 가운데 이번엔 ‘스시 데이트’를 즐겼다. 3일(현지시간) 페이지식스에 따르면,  이들은 지난 7월 28일 뉴욕 트라이베카 인근의 ‘스시 아자부’에서 "둘만의 오붓한" 저녁 식]]></content>
     </entry>
 </feed>
