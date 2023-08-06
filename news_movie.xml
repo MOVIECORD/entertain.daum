@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-08-06T05:10:05.206Z</updated>
+    <updated>2023-08-06T06:13:26.825Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["달, 우주 그리고 신파" 김용화 감독에 물었다]]></title>
+        <id>https://v.daum.net/v/20230806144028623</id>
+        <link href="https://v.daum.net/v/20230806144028623"/>
+        <updated>2023-08-06T06:13:03.658Z</updated>
+        <content type="html"><![CDATA[영화 '신과함께'(2017~2018) 시리즈로 2600만 관객을 동원한 김용화 감독(51)이 국내 최초로 달 탐사를 떠난 유인 우주선 소재 영화 '더 문'으로 돌아온다. 제작비 286억원을 쏟아부은 영화는 지난 2일 개봉해 관객과 만나고 있다. 최근 몇 년 사이 업계에서는 달 소재 영화·드라마가 여러 편 기획됐다. 거대 자본의 투입이 불가피한 만큼 제작에]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['콘크리트 유토피아' 박서준의 새로운 얼굴]]></title>
+        <id>https://v.daum.net/v/20230806141329066</id>
+        <link href="https://v.daum.net/v/20230806141329066"/>
+        <updated>2023-08-06T06:13:03.672Z</updated>
+        <content type="html"><![CDATA[[티브이데일리 김종은 기자] 드라마부터 영화에 이르기까지, 매번 다른 얼굴로 국내를 넘어 해외의 시선까지 사로잡은 배우 박서준. 이번에도 역시 이전엔 보여주지 않은 새로운 모습으로 돌아왔다. 영화 '콘크리트 유토피아'에서 그는 무너진 세상에 맞춰 내면적으로 변화해 가는 민성 역으로 활약한다. 9일 개봉하는 영화 '콘크리트 유토피아'(감독 엄태화·제작 클라]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[혹자들은 뻔한 신파라고 하지만, 그렇게 폄하될 '더 문'이 아니다]]></title>
         <id>https://v.daum.net/v/20230806131736099</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230806081101836"/>
         <updated>2023-08-06T00:54:43.762Z</updated>
         <content type="html"><![CDATA[[텐아시아=최지예 기자]햇살이 환하게 들어오는 인터뷰 장소에 선글라스를 쓰고 나타난 배우 이병헌(53)은 이내 선글라스를 벗으며 "영화배우니까요"라며 건강한 미소를 지어보였다.&nbsp; 이병헌은 지난 1일 오전 서울 종로구 소격동 한 카페에서 영화 '콘크리트 유토피아'(감독 엄태화) 인터뷰에 나섰다.&nbsp; '콘크리트 유토피아'는&nbsp;대지진으로 폐허가 되어 버린 서울,]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["상상 그 이상의 고생" 도경수, '더 문'을 통해 얻은 것]]></title>
-        <id>https://v.daum.net/v/20230806070125209</id>
-        <link href="https://v.daum.net/v/20230806070125209"/>
-        <updated>2023-08-05T22:09:57.934Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 | 김나연 기자] 도경수 / 사진=SM엔터테인먼트상상 그 이상의 고생을 극복하고, 주연의 무게를 견뎠다. "도전을 즐긴다"라는 도경수는 '더 문'을 통해 많은 것을 얻었고, 또 한 단계 성장했다. 최근 서울시 종로구 소격동의 한 카페에서 영화 '더 문'(감독 김용화)의 배우 도경수와 만나 다양한 이야기를 나눴다. '더 문'은 사고로 인해 홀로]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연예인에 강요되는 기부 문화]]></title>
-        <id>https://v.daum.net/v/20230806070034172</id>
-        <link href="https://v.daum.net/v/20230806070034172"/>
-        <updated>2023-08-05T22:09:57.935Z</updated>
-        <content type="html"><![CDATA[우리나라에서 기부는 언제부턴가 강요되다시피 이뤄진다. 특히 연예인들에게는 심하다 싶을 정도로 대중의 잣대가 높다. 도덕성을 강조하려는 것을 넘어, 팬들의 사랑을 바탕으로 이룬 성공이니 기부가 당연하다는 식이다. 기부 행위를 두고 연예인들을 줄 세우고, 평가하는 것도 이런 논리에서다. 얼마 전, 전국적인 집중호우로 인해 각지에 수재민 구호와 피해 복구를 위]]></content>
     </entry>
 </feed>
