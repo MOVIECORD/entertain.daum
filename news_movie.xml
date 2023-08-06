@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-08-06T02:20:28.254Z</updated>
+    <updated>2023-08-06T03:11:18.261Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[제작비 8배 수익 올려준 48마리의 '돼지배우']]></title>
+        <id>https://v.daum.net/v/20230806115100931</id>
+        <link href="https://v.daum.net/v/20230806115100931"/>
+        <updated>2023-08-06T03:10:52.184Z</updated>
+        <content type="html"><![CDATA[[양형석 기자] 2022년 농림축산식품부가 조사한 '동물보호에 대한 국민의식조사'에 따르면 반려동물을 키우는 가구는 약 25%에 이르는 것으로 나타났다. 인구로는 약 1300만 명 정도가 반려동물과 함께 살고 있다는 뜻이다. 물론 여전히 반려동물을 함부로 다루는 사람들도 없지 않지만 이제는 '사랑하며 즐긴다'는 의미의 '애완'동물이라는 표현을 쓰는 사람들이]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['망한 세상' 좀비에 물리기 전에 하고 싶은 것들]]></title>
+        <id>https://v.daum.net/v/20230806114201802</id>
+        <link href="https://v.daum.net/v/20230806114201802"/>
+        <updated>2023-08-06T03:10:52.187Z</updated>
+        <content type="html"><![CDATA[[김형욱 기자] ▲ &nbsp;넷플릭스 오리지널 영화 &lt;좀100&gt; 포스터.ⓒ 넷플릭스&nbsp; 지난 6월 말, 한국벤처캐리탈협회 면접장에서 면접관이 황당무계한 질문을 던진다. "사축 인간이 될 수 있냐"라고&nbsp;말이다. 처음 들어보는 말이라 당황스러운데, 뜻을 알면 황당하기 이를 데 없을 것이다. '사축'은 회사와 가축을 합친 말로, 2000년대 중반 일본에서 생겨나 유행했고]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['비공식작전' 주지훈 "두 명의 김성훈 믿고 모든 것 내던졌다"]]></title>
         <id>https://v.daum.net/v/20230806110037085</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230806060030830"/>
         <updated>2023-08-05T21:09:20.992Z</updated>
         <content type="html"><![CDATA[(서울=뉴스1) 장아름 기자 = 올 여름 대작 빅4 중 가장 마지막으로 오는 9일 개봉하는 영화 '콘크리트 유토피아'(감독 엄태화)는 최근 언론시사회 직후 극장가 복병에 등극했다. '밀수'의 류승완 감독, '더 문'의 김용화 감독, '비공식작전'의 김성훈 감독은 성수기 상업 영화로 화려한 성공을 거뒀던 전적이 있지만, '콘크리트 유토피아'의 엄태화 감독]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['콘크리트 유토피아', 블랙 유머에 웃음도 만발…재난물에 왜 웃냐면 ①]]></title>
-        <id>https://v.daum.net/v/20230806060019810</id>
-        <link href="https://v.daum.net/v/20230806060019810"/>
-        <updated>2023-08-05T21:09:20.992Z</updated>
-        <content type="html"><![CDATA[(서울=뉴스1) 정유진 기자 = 영화 '콘크리트 유토피아'(감독 엄태화)의 장르를 뭐라고 할 수 있을까. 한마디로 정의하기는 어렵다. 일단 영화 측이 내세운 장르는 '드라마'인데, 영화를 보고 나면 드라마만 있는 것은 아님을 깨닫게 된다. 붕괴된 도시에서 살아남는 사람들의 이야기를 담았다는 점에서는 재난 영화이며, 포스트 아포칼립스적인 분위기를 풍기는]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['더 문' 김용화 감독이 달로 떠난 이유]]></title>
-        <id>https://v.daum.net/v/20230806000042096</id>
-        <link href="https://v.daum.net/v/20230806000042096"/>
-        <updated>2023-08-05T15:09:48.507Z</updated>
-        <content type="html"><![CDATA[한국 SF 영화의 새 장을 연 '더 문', 8월 2일 개봉 "달의 양면적인 측면을 드라마틱하게 그려내고 싶었다" [더팩트｜박지윤 기자] 7개의 지옥 세계로 한국형 판타지물의 새 역사를 쓴 김용화 감독이 우주로 향했다. 그는 황홀한 달의 비주얼을 고스란히 스크린에 담아냈고, 사람들을 향한 위로의 힘도 잃지 않았다. 이렇게 관객들의 눈은 즐겁게, 마음은 뭉]]></content>
     </entry>
 </feed>
