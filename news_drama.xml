@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-08-06T07:09:39.794Z</updated>
+    <updated>2023-08-06T08:18:03.424Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[옥택연, 위험에 빠진 서현철 구해낼까]]></title>
+        <id>https://v.daum.net/v/20230806171436419</id>
+        <link href="https://v.daum.net/v/20230806171436419"/>
+        <updated>2023-08-06T08:17:45.366Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]‘가슴이 뛴다’ 옥택연이 행방불명된 서현철을 추적하기 시작한다. 내일 7일(월) 밤 9시 45분 방송되는 KBS 2TV 월화드라마 ‘가슴이 뛴다’(연출 이현석, 이민수 / 극본 김하나, 정승주 / 제작 위매드, 몬스터유니온) 13회에서는 선우혈(옥택연 분)과 이상해(윤병희 분), 박동섭(고규필 분)이 주인해(원지안 분)의 아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[옥택연 윤병희 고규필, 행방불명 원지안 父 추적]]></title>
         <id>https://v.daum.net/v/20230806153544796</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230806115519986"/>
         <updated>2023-08-06T03:10:58.493Z</updated>
         <content type="html"><![CDATA[[OSEN=김채연 기자] ‘킹더랜드’의 배우 안세하가 마지막 방송을 앞두고 진심 어린 종영 소감을 밝혔다.&nbsp; 안세하는 JTBC 토일드라마 ‘킹더랜드’(극본 최롬 (팀 하리마오), 연출 임현욱, 제작 앤피오엔터테인먼트, 바이포엠스튜디오, SLL)에서 구원(이준호 분)의 친구이자 비서인 노상식 역을 맡아 이제껏 본 적 없는 ‘신개념 비서’ 캐릭터를 탄생시켰]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['킹더랜드' 이준호♥임윤아, 해피vs새드 또는 열린 결말?]]></title>
-        <id>https://v.daum.net/v/20230806115006923</id>
-        <link href="https://v.daum.net/v/20230806115006923"/>
-        <updated>2023-08-06T03:10:58.503Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 | 이경호 기자] JTBC 토일드라마 '킹더랜드'./사진=앤피오엔터테인먼트, 바이포엠스튜디오, SLL해피일까, 새드일까. 아니면 열린 결말일까. '킹더랜드'의 마지막 엔딩을 두고 시청자들의 관심이 쏟아지고 있다. 6일 오후 10시 30분 JTBC 토일드라마 '킹더랜드'의 최종회(16회)가 방송된다. 종영을 앞두고 있는 '킹더랜드'는 지난]]></content>
     </entry>
 </feed>
