@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2023-08-06T15:10:22.582Z</updated>
+    <updated>2023-08-06T16:18:12.193Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['미우새' 차태현, "오늘 하루 나에게 맡겨"…절친 김종국을 위한 '힐링 프로젝트']]></title>
+        <id>https://v.daum.net/v/20230807010901485</id>
+        <link href="https://v.daum.net/v/20230807010901485"/>
+        <updated>2023-08-06T16:18:06.060Z</updated>
+        <content type="html"><![CDATA[[SBS연예뉴스 | 김효정 에디터] 차태현이 김종국에게 힐링을 선물했다. 6일 방송된 SBS '미운 우리 새끼'(이하 '미우새')에서는 절친 김종국의 힐링을 위해 나선 차태현의 모습이 그려졌다. 이날 방송에서 김종국은 절친 차태현과 함께 했다. 차태현은 "너 정신과 선생님들이 쉬라고 했다며?"라고 말문을 열었다. 이에 김종국은 운동하는 게 쉬는 것이라고 했]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[권은비 "덱스 이성적 호감도? 1부터 10까지 중에서…" 깜짝 고백]]></title>
+        <id>https://v.daum.net/v/20230807004914434</id>
+        <link href="https://v.daum.net/v/20230807004914434"/>
+        <updated>2023-08-06T16:18:06.064Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 이승록 기자] 일명 'DM에피소드'로 화제에 올랐던 군인 출신 방송인 덱스(본명 김진영·28)와 걸그룹 아이즈원 출신 가수 권은비(27)가 전격 재회했다. 최근 유튜브채널 '스튜디오 어서오고'의 '선넘는 맵찔이'에 덱스가 게스트로 출연했다. '선넘는 맵찔이'는 매운 것을 잘 먹지 못하는 것으로 유명한 권은비가 MC로 나선 신규 웹예능다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[오디션 출신 '행사 독식', 기성 가수들 '자괴감']]></title>
         <id>https://v.daum.net/v/20230807000050125</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230806232500938"/>
         <updated>2023-08-06T15:10:17.522Z</updated>
         <content type="html"><![CDATA[&nbsp; “나이를 먹어도 자전거만 탈 수 있다면 그때까지 노래를 계속할 생각입니다.” 가수 김창완은 6일 ‘2023 인천펜타포트 락 페스티벌’의 무대에 오르기 전 “우리나라 청년들이 락 음악에 큰 관심을 갖고 있다는 사실 만으로 제가 노래를 부르는 이유”라며 이 같이 강조했다. 김창완은 이번 인천펜타포트 락 페스티벌의 대미를 장식했다. 김창완이 이끄는 ‘]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['킹더랜드' 이준호, 누나 김선영에 "외롭게 살지 말아라"]]></title>
-        <id>https://v.daum.net/v/20230806231729861</id>
-        <link href="https://v.daum.net/v/20230806231729861"/>
-        <updated>2023-08-06T15:10:17.523Z</updated>
-        <content type="html"><![CDATA[[티브이데일리 김종은 기자] '킹더랜드' 이준호가 김선영에게 화해를 제안했으나 거절당했다. 6일 밤 방송된 JTBC 토일드라마 '킹더랜드'(극본 최롬(팀 하리마오)·연출 임현욱) 최종회에서는 구원(이준호)과 구화란(김선영) 사이 풀리지 않은 갈등이 그려졌다. 이날 윤지후(김동하)는 할아버지인 구일훈(손병호)에게 미국으로 돌아가겠다고 밝혔다. 자신의 존재]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[3일간 樂으로 물든 인천…‘김창완 밴드’ 피날레]]></title>
-        <id>https://v.daum.net/v/20230806231246843</id>
-        <link href="https://v.daum.net/v/20230806231246843"/>
-        <updated>2023-08-06T15:10:17.524Z</updated>
-        <content type="html"><![CDATA[&nbsp; 인천이 주말 내내 락의 열기로 뜨겁게 달아올랐다. 대한민국 대표 음악축제인 ‘2023 인천펜타포트 락 페스티벌’의 3일 차인 6일 인천 연수구 송도국제도시 송도달빛축제공원에는 수많은 관람객들이 찾아 마지막 날 공연을 즐기며 더위를 이겨냈다. 관객들은 이날 오전부터 감성을 담은 락 밴드 ‘다섯’·'너드커넥션' 등의 노래를 들으며 맥주를 마시며 휴식]]></content>
     </entry>
 </feed>
