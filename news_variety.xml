@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/variety</id>
     <title>다음 연예 ─ 뉴스 ─ 예능</title>
-    <updated>2023-08-07T19:08:58.511Z</updated>
+    <updated>2023-08-07T20:17:30.266Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["안정환인 줄" 현실판 '테리우스'로 난리난 정이랑 남편]]></title>
+        <id>https://v.daum.net/v/20230808040918187</id>
+        <link href="https://v.daum.net/v/20230808040918187"/>
+        <updated>2023-08-07T20:17:18.021Z</updated>
+        <content type="html"><![CDATA[[OSEN=김수형 기자] ‘동상이몽2’에서 정이랑이 리즈시절 안정환을 쏙 빼닮은 훈훈한 남편을 최초공개했다.&nbsp; 7일 방송된 SBS 예능 ‘동상이몽 시즌2- 너는 내 운명’에서 예고편이 그려졌다.&nbsp; 먼저 이날 이다해, 이장원 부부의 초고난도 육아전쟁이 시작됐다. 배다해 형부가 조카를 맡아달라고 SOS를 친 것. 평소에도 자주 육아를 맡는다고 했다. 특히]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["학대·방임에 가까워" 오은영, 아동 방치하는 '사돈부부'에 분노→사교육 제안]]></title>
         <id>https://v.daum.net/v/20230808003159503</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230807232601011"/>
         <updated>2023-08-07T15:11:30.346Z</updated>
         <content type="html"><![CDATA[[뉴스엔 하지원 기자] '쉬는부부' 복층남이 합방을 앞두고 술자리에 간 이유를 밝혔다. 8월 7일 방송된 MBN '쉬는 부부'에서 구미호는 부부방 입실을 앞두고 술자리를 가진 복층남을 향해 서운한 마음을 드러냈다. 구미호는 "2시 입실해야 하니까 (여자들끼리는) 헤어졌는데, 남편이 전화 와서 따로 자라고 형들이랑 얘기할 게 있다고 해서 그냥 잤다"며 "원]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['동상이몽2' 이규인, ♥최병모에 "돈 애기 그만..기 죽어" 질색]]></title>
-        <id>https://v.daum.net/v/20230807232510002</id>
-        <link href="https://v.daum.net/v/20230807232510002"/>
-        <updated>2023-08-07T15:11:30.348Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 | 김지은 인턴기자] /사진='동상이몽2-너는 내 운명' 화면 캡처'동상이몽2' 이규인이 남편 최병모와 경제적인 문제로 갈등을 빚었다. 7일 오후에 방송된 SBS 예능 프로그램 '동상이몽2-너는 내 운명'에서는 최병모 이규인 부부의 일상이 전파를 탔다. 이날 방송에서 이규인은 일어나자마자 최병모에게 달려가 애교를 부리며 그를 끌어안았다. 최]]></content>
     </entry>
 </feed>
