@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-08-08T12:20:04.628Z</updated>
+    <updated>2023-08-08T13:14:08.878Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["그냥 혼자 살아" '두번 이혼' 이지현, 무정자증 남편 재산상속 사연에 '뒷목']]></title>
+        <id>https://v.daum.net/v/20230808214957998</id>
+        <link href="https://v.daum.net/v/20230808214957998"/>
+        <updated>2023-08-08T13:13:46.085Z</updated>
+        <content type="html"><![CDATA[[OSEN=김수형 기자] ‘고소한 남녀’에서 무정자증 남편이 먼저 세상을 떠난 가운데 시모와 유산 상속에 갈등을 빚은 사연녀가 그려졌다. 8일 방송된 SBS 플러스 ‘리얼 Law 맨스-고소한 남녀’에서&nbsp;결혼 5년차 부부 이야기가 그려졌다. 어느 날 2세를 갖게 됐다는 두 사람. 하지만 행복도 잠시, 남편이 코피를 쏟았다. 온 몸에 피멍까지 가득했다.임신]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[박찬욱 감독, '콘크리트 유토피아' 극찬 "허세 없이 정석대로 만들었다"]]></title>
         <id>https://v.daum.net/v/20230808190744646</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230808163802228"/>
         <updated>2023-08-08T08:16:44.863Z</updated>
         <content type="html"><![CDATA[[텐아시아=최지예 기자]배우 박서준이 데뷔 전 개그우먼 신봉선과의 소개팅에 대해 "선명한 기억"이라고 했다.&nbsp; 박서준은 8일 방송된&nbsp;MBC FM4U '정오의 희망곡 김신영입니다'에 출연해 오는 9일 개봉을 앞둔 영화 '콘크리트 유토피아' 홍보에 나섰다.&nbsp; 이날 박서준은&nbsp;데뷔 전 MBC에브리원 '무한걸스'를 통해 신봉선의 소개팅남으로 출연했던 당시를 회상]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연상호 등 애니감독 “영진위 애니메이션 지원사업 폐지, 창작의 씨 말리는 졸속 결정” 반발]]></title>
-        <id>https://v.daum.net/v/20230808155741534</id>
-        <link href="https://v.daum.net/v/20230808155741534"/>
-        <updated>2023-08-08T07:10:03.484Z</updated>
-        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]연상호 감독 등 한국의 장편 애니메이션 감독 27인이 영진위의 애니메이션 종합 지원 사업 폐지에 강력 반발했다. 감독 27인은 8일 공동 성명을 통해 “장편 애니메이션 지원은 한국 장편 애니메이션 산업육성을 위한 마지막 산소호흡기”라면서 “문화체육관광부(이하 문체부)의 영진위 애니메이션 지원사업 폐지는 애니메이션 창작의]]></content>
     </entry>
 </feed>
