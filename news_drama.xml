@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-08-08T21:10:08.959Z</updated>
+    <updated>2023-08-08T22:10:44.619Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김소현, 황민현 거짓말 탐지했나 "제가 죽인 거 아냐"]]></title>
+        <id>https://v.daum.net/v/20230809071010133</id>
+        <link href="https://v.daum.net/v/20230809071010133"/>
+        <updated>2023-08-08T22:10:28.373Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 이이진 기자) '소용없어 거짓말' 황민현의 과거사가 밝혀지기 시작했다. 8일 방송된 tvN 월화드라마 '소용없어 거짓말' 4회에서는 김도하(황민현 분)가 목솔희(김소현)에게 정체를 밝힌 모습이 그려졌다. 이날 샤온(이시우)은 김도하에게 전화를 걸었고, 김도하는 목솔희와 식사하던 중 전화를 받았다. 샤온은 "이제야 받네. 내 전화. 끊으면 오빠]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘잔혹한 인턴’ 라미란 “짠내 가득 경단녀 생존기…누구나 공감할 걸요?”]]></title>
+        <id>https://v.daum.net/v/20230809063020667</id>
+        <link href="https://v.daum.net/v/20230809063020667"/>
+        <updated>2023-08-08T22:10:28.373Z</updated>
+        <content type="html"><![CDATA[사진제공 | 티빙배우 라미란(48)은 19년차 ‘워킹맘’이다. 2004년 아들을 낳은 이듬해에 영화 ‘친절한 금자씨’로 스크린 데뷔를 한 후 조·단역을 가리지 않고 자신을 찾는 곳이라면 어디든 갔다. 그렇게 출연한 작품 편수만 80여 편에 달한다. 언뜻 보면 쉴 틈 없이 달려온 것 같지만, 그에게도 “내가 배우로 일할 수 있을까?” 의심했던 순간이 있었다]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김수미, 며느리 서효림과 '한식' 전 세계에 알린다]]></title>
         <id>https://v.daum.net/v/20230809060030249</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230808194307452"/>
         <updated>2023-08-08T11:09:04.599Z</updated>
         <content type="html"><![CDATA[‘소용없어 거짓말’ 김소현이 황민현을 향한 직진을 시작한다. tvN 월화드라마 ‘소용없어 거짓말’ 측은 8일, 또 한 번의 저녁 데이트에 나선 목솔희(김소현 분)와 김도하(황민현 분)의 모습을 포착했다. 여기에 패닉에 빠진 김도하의 모습은 이들에게 무슨 일이 일어난 것인지 궁금증을 높인다. 지난 방송에서 목솔희, 김도하는 ‘이상한 옆집’에서 ‘아는 사이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['대학 동기' 라미란X이종혁, 첫 부부 호흡…"백지수표 같은 남자"]]></title>
-        <id>https://v.daum.net/v/20230808193002144</id>
-        <link href="https://v.daum.net/v/20230808193002144"/>
-        <updated>2023-08-08T11:09:04.600Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 최희재 기자) '잔혹한 인턴' 배우 라미란, 이종혁이 부부 호흡을 맞춘 소감을 전했다. 8일 오후, 티빙 오리지널 시리즈 '잔혹한 인턴'은 온라인을 통해 제작발표회를 진행했다. 자리에는 배우 라미란, 엄지원, 이종혁, 김인권, 한상재 감독이 참석했다. '잔혹한 인턴'은 7년 공백을 깨고 인턴으로 컴백한 고해라(라미란 분)가 성공한 동기 최지원]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['형사록', 시즌1보다 시즌2 완성도가 더 높아진 이유]]></title>
-        <id>https://v.daum.net/v/20230808182931879</id>
-        <link href="https://v.daum.net/v/20230808182931879"/>
-        <updated>2023-08-08T10:11:29.013Z</updated>
-        <content type="html"><![CDATA[[OSEN=하수정 기자] 디즈니+가 스튜디오드래곤과 함께 선보이는 오리지널 시리즈 '형사록 시즌2'가 성황리에 피날레를 장식한 가운데, 웰메이드 작품일 수밖에 없었던 완벽한 프로덕션의 비하인드를 전했다. '형사록 시즌2'가 사람 중심의 추리물이 되기까지 많은 노력을 들였던 정종범 촬영 감독이 촬영 비하인드를 밝혔다.&nbsp; 정종범 촬영 감독은 시즌1과 시즌2]]></content>
     </entry>
 </feed>
