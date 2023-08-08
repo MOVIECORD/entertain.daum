@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-08-08T20:12:11.626Z</updated>
+    <updated>2023-08-08T21:10:08.959Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김수미, 며느리 서효림과 '한식' 전 세계에 알린다]]></title>
+        <id>https://v.daum.net/v/20230809060030249</id>
+        <link href="https://v.daum.net/v/20230809060030249"/>
+        <updated>2023-08-08T21:09:50.838Z</updated>
+        <content type="html"><![CDATA[[TV리포트=최은영 기자] 가족기업으로 뭉칠 김수미, 민우혁, 서효림, 에릭남, 정혁의 유쾌한 케미스트리에 기대가 모아지고 있다. 오는 8월 24일(목) 저녁 8시 40분에 첫 방송되는 티캐스트 E채널 '익스큐수미: 일단 잡숴봐' (이하 '일단 잡숴봐')에서 캐릭터 포스터를 공개, 자신감 넘치는 에너지가 절로 전해지고 있는 것. '일단 잡숴봐'는 한국인의]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[한국형 ‘무빙’ 할리우드 히어로물과 어떻게 다를까]]></title>
+        <id>https://v.daum.net/v/20230809055905180</id>
+        <link href="https://v.daum.net/v/20230809055905180"/>
+        <updated>2023-08-08T21:09:50.842Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 박수인 기자] 역대급 스케일의 한국형 히어로가 온다. 8월 9일 디즈니+ '무빙'(원작 각본 강풀/연출 박인제 박윤서)가 첫 공개된다. '무빙'은 초능력을 숨긴 채 현재를 살아가는 아이들과 아픈 비밀을 감춘 채 과거를 살아온 부모들의 이야기를 그린 휴먼 액션 시리즈. 강풀 작가의 동명의 웹툰을 원작으로 한다. '무빙'은 원작 웹툰보다 더 확장된]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김영호, 이윤성에게 진심 고백 "사랑한다...도망치지 않겠다"]]></title>
         <id>https://v.daum.net/v/20230808230000773</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230808182931879"/>
         <updated>2023-08-08T10:11:29.013Z</updated>
         <content type="html"><![CDATA[[OSEN=하수정 기자] 디즈니+가 스튜디오드래곤과 함께 선보이는 오리지널 시리즈 '형사록 시즌2'가 성황리에 피날레를 장식한 가운데, 웰메이드 작품일 수밖에 없었던 완벽한 프로덕션의 비하인드를 전했다. '형사록 시즌2'가 사람 중심의 추리물이 되기까지 많은 노력을 들였던 정종범 촬영 감독이 촬영 비하인드를 밝혔다.&nbsp; 정종범 촬영 감독은 시즌1과 시즌2]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[구교환 "'또 봐' 정해인과 터미널 이별 신..'D.P.'에 작별 인사"]]></title>
-        <id>https://v.daum.net/v/20230808182609801</id>
-        <link href="https://v.daum.net/v/20230808182609801"/>
-        <updated>2023-08-08T10:11:29.015Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 | 윤성열 기자] 구교환 /사진제공=넷플릭스 배우 구교환이 넷플릭스 오리지널 시리즈 'D.P.' 시즌2에서 가장 중점을 둔 장면으로 정해인과 터미널 이별 신을 꼽았다. 구교환은 8일 서울 강남구 역삼동의 한 카페에서 'D.P.' 시즌2 인터뷰를 진행했다. 구교환은 시즌1에 이어 시즌2에서도 103사단 헌병대 군무 이탈 체포조(D.P.) 조장]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박서준·안보현, '창조' 인성 논란 더 씁쓸한 이유]]></title>
-        <id>https://v.daum.net/v/20230808182213695</id>
-        <link href="https://v.daum.net/v/20230808182213695"/>
-        <updated>2023-08-08T10:11:29.027Z</updated>
-        <content type="html"><![CDATA[아이즈 ize 김나라 기자배우 박서준과 안보현이 나란히 핑크빛 스캔들의 후폭풍에 시달리며 안타까움을 자아내고 있다.'너 인성 문제 있어?' 유행어가 남발된다고 논란까지 마구잡이로 생성될 줄이야, 씁쓸하기 그지없는 사태가 박서준과 안보현에게 벌어졌다. 황당무계한 이유로 인성을 의심받으며 때아닌 논란의 주인공이 된 것.먼저 박서준은 6일 신작 '콘크리트 유토피]]></content>
     </entry>
 </feed>
