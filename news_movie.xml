@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-08-08T04:13:16.009Z</updated>
+    <updated>2023-08-08T05:10:48.880Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['볼코노고프 대위 탈출하다' 스탈린 공포정치 시대, 러시아를 저격하다]]></title>
+        <id>https://v.daum.net/v/20230808134042987</id>
+        <link href="https://v.daum.net/v/20230808134042987"/>
+        <updated>2023-08-08T05:10:25.122Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]제78회 베니스국제영화제 경쟁부문 화제작이자 전 세계 유수의 영화제 초청과 수상을 기록하며 수많은 화제를 낳고 있는 '볼코노고프 대위 탈출하다'가 8월 23일 개봉을 확정지은 가운데 영화의 배경인 '스탈린 피의 대숙청'이 주목을 받고 있다. '볼코노고프 대위 탈출하다'는 아직도 진실이 제대로 밝혀지지 않은 피로 얼룩진 역사]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[유해진-김희선이 보여주는 '달콤한' 중년의 사랑]]></title>
+        <id>https://v.daum.net/v/20230808133902935</id>
+        <link href="https://v.daum.net/v/20230808133902935"/>
+        <updated>2023-08-08T05:10:25.127Z</updated>
+        <content type="html"><![CDATA[[이선필, 이정민 기자] &nbsp;▲ '달짝지근해: 7510' 어른판 소나기&nbsp;차인표, 김희선, 유해진, 한선화, 진선규 배우가 7일 오후 서울 용산구의 한 상영관에서 열린 영화 &lt;달짝지근해: 7510&gt; 시사회에서 포토타임을 갖고 있다. &lt;달짝지근해: 7510&gt;은 과자밖에 모르는 천재적인 제과 연구원 남자가 직진밖에 모르는 세상 긍정 마인드의 여자를 만나면서 인생의]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[독특 로맨스 '너의 순간', 옥자연x우지현 어떻게 캐스팅 됐나?]]></title>
         <id>https://v.daum.net/v/20230808123532557</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230808104802370"/>
         <updated>2023-08-08T01:59:07.406Z</updated>
         <content type="html"><![CDATA[[서부원 기자] 단지 '밀수'라는 제목에 끌려 아무 생각 없이 영화표를 끊었다. 대개 끊기 전 미리 본 이들이 남긴 관람평을 대충 훑어보곤 하는데, 이번엔 일절 눈길조차 주지 않았다. 감독이 누군지, 어떤 배우들이 출연하는지에도 아예 관심을 두지 않고, 백지상태에서 영화 &lt;밀수&gt;를 관람했다. 밀수라는 단어에 본능적으로 끌린 이유는 있다. '밀수의 도시'로]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[하정우·주지훈 '비공식작전' 103개국 판매 쾌거…글로벌 흥행 시동]]></title>
-        <id>https://v.daum.net/v/20230808104022065</id>
-        <link href="https://v.daum.net/v/20230808104022065"/>
-        <updated>2023-08-08T01:59:07.406Z</updated>
-        <content type="html"><![CDATA[[이데일리 스타in 김보영 기자] 하정우, 주지훈 주연 버디 액션 영화 ‘비공식작전’(감독 김성훈)이 전 세계 103개국 판매 및 주요 국가 개봉을 확정하며 글로벌 흥행에 시동을 걸었다. 영화 ‘끝까지 간다’, ‘터널’, 넷플릭스 시리즈 ‘킹덤’의 김성훈 감독이 연출, 연기력은 물론 대체할 수 없는 매력과 검증된 버디 케미를 선보이는 하정우, 주지훈 주]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[엄정화, 차정숙에서 작전꾼으로‥‘화사한 그녀’ 3년만 스크린 컴백]]></title>
-        <id>https://v.daum.net/v/20230808103722958</id>
-        <link href="https://v.daum.net/v/20230808103722958"/>
-        <updated>2023-08-08T01:59:07.408Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 배효주 기자] 엄정화 주연 '화사한 그녀'가 10월 개봉한다. 영화 '화사한 그녀'(감독 이승준)는 화사한 기술이 주 특기인 전문 작전꾼 지혜(엄정화)가 마지막 큰 판을 계획하면서 의도치 않은(?) 사건에 휘말리게 되는 범죄 오락 영화. 엄정화가 '오케이 마담' 이후 3년 만에 다시 극장으로 컴백한다. 엄정화는 최근 드라마 '닥터 차정숙'과 예능]]></content>
     </entry>
 </feed>
