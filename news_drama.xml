@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-08-09T10:12:02.693Z</updated>
+    <updated>2023-08-09T11:09:43.552Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['하늘의 인연' 전혜연, 출생의 비밀 밝히고 김유석 집으로... 복수 시작]]></title>
+        <id>https://v.daum.net/v/20230809194901827</id>
+        <link href="https://v.daum.net/v/20230809194901827"/>
+        <updated>2023-08-09T11:09:28.756Z</updated>
+        <content type="html"><![CDATA[[TV리포트=이혜미 기자] 전혜연이 자신의 출생의 비밀을 밝히고 호랑이 굴로 들어갔다. 9일 MBC ‘하늘의 인연’에선 치환(김유석 분)을 옥죄고자 샤인 본가에 입성한 해인(전혜연 분)의 모습이 그려졌다. 이날 해인은 상철(정한용 분)에게 자신이 치환의 친딸임을 알리곤 “제가 보험금을 노리고 산장에 불을 질러서 부모를 살해하려 했다고 믿으세요? 전 아닙니다]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[신재하, '일타스캔들'→'모범택시2'→'악인전기'..신하균 이복동생 됐다]]></title>
         <id>https://v.daum.net/v/20230809181441899</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230809153738637"/>
         <updated>2023-08-09T07:10:27.666Z</updated>
         <content type="html"><![CDATA[[뉴스엔 박수인 기자] 배우 박성연이 '힙하게'에 출연한다. 소속사 비스터스엔터테인먼트 측은 8월 9일 "박성연이 JTBC 새 토일드라마 '힙하게'(연출 김석윤·최보윤, 극본 이남규·오보현·김다희, 제작 스튜디오 피닉스·SLL)에 출연을 확정 지었다. 작품마다 새로운 캐릭터 변신으로 사랑받고 있는 만큼 이번 작품에서도 또 다른 매력을 발산할 예정"이라고]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['완벽한 가족' 김병철, 출연 확정…日 유키사다 이사오 감독 만난다]]></title>
-        <id>https://v.daum.net/v/20230809153242435</id>
-        <link href="https://v.daum.net/v/20230809153242435"/>
-        <updated>2023-08-09T07:10:27.666Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 황수연 기자) 배우 김병철이 '완벽한 가족‘의 출연을 확정했다. 이 드라마의 원작인 웹툰 ‘완벽한 가족’은 누가 봐도 행복하고 완벽해 보이는 선희네 가족이 어느 날 선희 친구 경호의 죽음으로 겪게 되는 이야기를 그린다. 웹툰을 기반으로 한 드라마 ‘완벽한 가족’은 젊은 세대의 공감을 겨냥한 새로운 가족 드라마 형식으로 다양한 소재와 방식, 입]]></content>
     </entry>
 </feed>
