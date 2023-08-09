@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-08-09T11:09:43.624Z</updated>
+    <updated>2023-08-09T12:21:32.117Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[저승에선 '돈' 얼마 필요할까…재치만점 상상 쏟아졌다]]></title>
+        <id>https://v.daum.net/v/20230809204502980</id>
+        <link href="https://v.daum.net/v/20230809204502980"/>
+        <updated>2023-08-09T12:21:08.633Z</updated>
+        <content type="html"><![CDATA[“저승에서도 이게 좀 먹힙니까?” 죽은 사람들의 다음 번 인생을 결정하는 저승의 ‘환생 심사방’. 심사원의 건너편 의자에 앉은 한 청년이 엄지와 검지 손가락으로 돈을 뜻하는 동그라미를 만들어 보이며 묻는다. 심사원은 답한다. “있으면 좋죠. 환생에도 옵션이 다양하니까요.” 청년의 자료를 들여다보던 그는 말을 이어간다. “부모님이 주신 돈은 많은데 시간을 너]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[크리스토퍼 놀란 신작 ‘오펜하이머’ 전체 예매율 1위]]></title>
         <id>https://v.daum.net/v/20230809200101122</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230809172743294"/>
         <updated>2023-08-09T09:12:03.618Z</updated>
         <content type="html"><![CDATA[화려한 액션부터 블랙 코미디까지...15일 개봉 [더팩트｜박지윤 기자] 신인 감독 겸 배우 정우성이 관객들과 만날 준비를 마쳤다. 영화 '보호자'(감독 정우성)의 언론 시사회 및 기자 간담회가 9일 오후 서울 롯데시네마 건대입구에서 열렸다. 현장에는 정우성 감독을 비롯해 배우 김남길 김준한 박유나가 참석해 작품에 관련된 다양한 이야기를 나눴다. '보호자]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["기존 정우성 싹 지워"…'보호자', 감독 변신 정우성의 자신감]]></title>
-        <id>https://v.daum.net/v/20230809172653252</id>
-        <link href="https://v.daum.net/v/20230809172653252"/>
-        <updated>2023-08-09T09:12:03.618Z</updated>
-        <content type="html"><![CDATA[(서울=뉴스1) 정유진 기자 = 배우 정우성이 감독으로 변신, 여름 성수기 관객을 찾는다. '성수기 빅4'의 뒤를 이어 신작의 감독으로 극장을 찾는 그에게 관객들은 어떤 반응을 보여줄까. 9일 오후 서울 광진구 자양동 롯데시네마 건대입구에서 영화 '보호자'(감독 정우성)의 언론배급시사회 및 기자간담회가 진행됐다. 정우성 감독과 배우 김남길, 김준한,]]></content>
     </entry>
 </feed>
