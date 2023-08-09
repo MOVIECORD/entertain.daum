@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-08-09T12:21:32.119Z</updated>
+    <updated>2023-08-09T13:16:15.762Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[가수 그라임스 "일론 머스크와 데이트...인턴십 같았다"]]></title>
+        <id>https://v.daum.net/v/20230809220131983</id>
+        <link href="https://v.daum.net/v/20230809220131983"/>
+        <updated>2023-08-09T13:16:14.781Z</updated>
+        <content type="html"><![CDATA[[TV리포트=이수연 기자] 가수 그라임스가 전 연인 일론 머스크와의 관계를 회상했다. 9일(현지 시간) 미국 매체 피플에 따르면 일론 머스크(52)는 그라임스(35)의 마음을 얻기 위해 테슬라를 눈을 가리고 운전했다. 이는 윌터 아이작슨이 집필한 일론 머스크의 전기에 수록된 내용이다. 그는 "머스크는 그라임스를 식당으로 데려다주는 동안 자동차가 얼마나 빨리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[레이븐 시몬 "학창시절 괴롭힘 당해...아빠가 18살에 성형 권유"]]></title>
         <id>https://v.daum.net/v/20230809210100188</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230809154130776"/>
         <updated>2023-08-09T07:10:44.348Z</updated>
         <content type="html"><![CDATA[[TV리포트=유비취 기자] 대만 가수 장혜매가 베이징 콘서트에서 특정 의상을 금지 당했다. 대만의 팝스타 장혜매(50)는 평소 성 평등과 LGBTQ 권리를 위해 목소리를 내왔다. 그는 성 소수자 권리를 위해 무지개 관련 의상을 입거나 발언을 한 바 있다. 그러나 최근 장혜매의 베이징 콘서트에서 무지개 관련 의상을 입는 것이 금지됐다. 가수뿐 아니라 관객들의]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“노력이 가상하다” 데이트 감추려 여장까지 한 日 아이돌]]></title>
-        <id>https://v.daum.net/v/20230809153644616</id>
-        <link href="https://v.daum.net/v/20230809153644616"/>
-        <updated>2023-08-09T07:10:44.350Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 이민지 기자] 일본 남자아이돌 멤버의 데이트가 화제를 모으고 있다. 일본 매체 주간문춘은 8월 9일 그룹 나니와단시 멤버 니시하타 다이고가 2살 연하 아나운서 카호 아다치와 데이트 중이라고 보도했다. 보도에 따르면 니시하타 다이고는 콘서트를 마친 후 택시로 이송해 카호 아다치와 한 맨션에서 함께 숙박 데이트를 즐겼다. 화제를 모은건 니시하타]]></content>
     </entry>
 </feed>
