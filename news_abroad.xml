@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-08-09T01:59:36.435Z</updated>
+    <updated>2023-08-09T02:30:49.950Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[아리아나 그란데와 불륜 유부남, 이혼 와중에 “좋은 아빠 되고 싶어”]]></title>
+        <id>https://v.daum.net/v/20230809111315195</id>
+        <link href="https://v.daum.net/v/20230809111315195"/>
+        <updated>2023-08-09T02:30:49.183Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]세계적 팝스타 아리아나 그란데(30)와 사귀고 있는 배우 에단 슬레이터(31)가 좋은 아빠가 되기를 원하고 있다는 보도가 나왔다. 8일(현지시간) 엔터테인먼트 위클리는 “그란데는 슬레이터의 이혼 소송 가운데서도 로맨스를 이어가고 있다”면서 “이들의 관계는 여전히 진행중”이라고 전했다. 이들은 지난해부터 영국에서 촬영중인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[아리아나 그란데, 이혼 소송 중 남편 생일 챙겨...병주고 약주고]]></title>
+        <id>https://v.daum.net/v/20230809110030652</id>
+        <link href="https://v.daum.net/v/20230809110030652"/>
+        <updated>2023-08-09T02:30:49.190Z</updated>
+        <content type="html"><![CDATA[[TV리포트=이수연 기자] 팝스타 아리아나 그란데는 이혼 소송 중인 남편과 좋은 관계를 유지하려고 노력 중이다. 7일(현지 시간) 미국 연예매체 US위클리에 따르면 아리아나 그란데는 이혼 절차를 밟고 있는 남편 달튼 고메즈에게 연락할 계획이다. 한 측근은 매체에 "아리아나는 생일 축하를 위해 달튼에게 연락할 계획이지만 그와 함께 축하할 계획은 없다"라고]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[산드라 블록 “루게릭 투병 남친 돌보기 위해 활동중단, 아이들이 '아빠'라고 불러”]]></title>
         <id>https://v.daum.net/v/20230809103223425</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230808175348875"/>
         <updated>2023-08-08T09:11:18.035Z</updated>
         <content type="html"><![CDATA[[뉴스엔 배효주 기자] 인공 지능(AI) 기술 사용을 둘러싸고 할리우드 배우들과 제작사의 갈등이 깊어지고 있는 가운데, 마블이 엑스트라 배우들의 신체를 스캔해갔다는 보도가 나왔다. 8월 2일(현지시간) 해외 매체 NPR 보도에 따르면, 디즈니+ 시리즈 '완다 비전'에 출연한 한 내부 고발자는 마블 제작진이 수 십 명의 배우들의 신체를 스캔했다고 말했다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['상견니' 시백우, 키스신 찍었다가 욕먹어..."대본에 있어서 했을 뿐"]]></title>
-        <id>https://v.daum.net/v/20230808174101448</id>
-        <link href="https://v.daum.net/v/20230808174101448"/>
-        <updated>2023-08-08T09:11:18.038Z</updated>
-        <content type="html"><![CDATA[[TV리포트=강성훈 기자] 대만 배우 시백우(施柏宇)가 상대 배우와의 키스신을 마음대로 추가했다는 황당한 소문에 휩싸였다. 시백우는 최근 버라이어티 프로그램 '우리는 그것을 쳤다'(一拍即合的我们)를 녹화했다. 그는 함께 출연한 중국 걸그룹 '경당소녀 303'의 멤버 장이판(張芸謀)과 함께 명장면을 보며 코멘터리를 진행했다. 이런 가운데 지난달 29일(현지]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[드웨인 존슨, 전재산 기부한 격투기 선수에 '집 한 채' 선물]]></title>
-        <id>https://v.daum.net/v/20230808172031770</id>
-        <link href="https://v.daum.net/v/20230808172031770"/>
-        <updated>2023-08-08T09:11:18.041Z</updated>
-        <content type="html"><![CDATA[[TV리포트=이예은 기자] 유명 배우 드웨인 존슨이 통장 잔고가 9천 원인 격투기 선수에게 통 크게 집 한 채를 선물했다.&nbsp; 외신 매체 네셔널 포스트는 지난 4일(현지 시간) 드웨인 존슨이 신예 UFC 파이터인 템바 고림보에게 집을 선물했다고 보도했다.&nbsp; 지난 6월 미국 매체 ESPN은 템바 고림보의 은행 계좌에 7.49달러(한화 약 9,797원) 밖에 남]]></content>
     </entry>
 </feed>
