@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-08-09T08:14:55.368Z</updated>
+    <updated>2023-08-09T09:12:25.930Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[윤지온 성공한 젊은 CEO 완벽 동화, 환상 수트핏은 덤]]></title>
+        <id>https://v.daum.net/v/20230809173440588</id>
+        <link href="https://v.daum.net/v/20230809173440588"/>
+        <updated>2023-08-09T09:12:08.840Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 하지원 기자] ‘소용없어 거짓말’의 배우 윤지온이 상반된 감정 연기로 시청자들의 이목을 끌었다. 8월 7일, 8일 방송된 tvN 월화드라마 ‘소용없어 거짓말’(연출 남성우, 극본 서정은) 3, 4회에서 윤지온은 다정한 눈빛과 환상적인 수트핏까지, 젊은 CEO 조득찬 캐릭터와 완벽동화 됐다. ‘스타 메이커’ 조득찬으로 엔터 대표다운 처세술을 펼치고]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘하늘의 인연’ 오늘 10분 앞당겨 방송 “뉴스특보 여파”]]></title>
         <id>https://v.daum.net/v/20230809171037570</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230809152801258"/>
         <updated>2023-08-09T07:10:27.667Z</updated>
         <content type="html"><![CDATA[[텐아시아=강민경 기자] 배우에게 있어서 차기작이 있느냐, 없느냐는 중요한 문제다. 본인의 커리어를 이어 나가는 것과 더불어 팬들도 더 많은 작품에서 보길 원하고 있기 때문. 오정세, 구교환, 김성균은 누가 보면 입대를 앞둔 사람처럼 차기작이 줄줄이 대기하고 있어 시선을 끈다. 최근 오정세는 최고 시청률 11.2%로 SBS 금토드라마 '악귀'를 끝마쳤다]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[스튜디오 마음C ‘힙하게’ OST 제작 참여 “몰입도 높일 것”]]></title>
-        <id>https://v.daum.net/v/20230809152431158</id>
-        <link href="https://v.daum.net/v/20230809152431158"/>
-        <updated>2023-08-09T07:10:27.667Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 박수인 기자] 스튜디오 마음C가 '힙하게' OST 제작에 참여한다. 스튜디오 마음C 측은 8월 9일 "오는 12일 첫 방송을 앞둔 JTBC 새 토일드라마 '힙하게'의 OST 제작 프로듀싱에 참여한다. 드라마 제목처럼 힙하고 트렌디하면서도, 드라마 몰입도를 높일 OST를 선보일 테니 많은 기대 부탁드린다"고 밝혔다. 스튜디오 마음C는 드라마 '슬기]]></content>
     </entry>
 </feed>
