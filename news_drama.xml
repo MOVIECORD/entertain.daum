@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-08-09T03:11:23.702Z</updated>
+    <updated>2023-08-09T04:13:53.230Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김소현 앞에선 '소용없어 거짓말'..라이어 헌터 활약]]></title>
+        <id>https://v.daum.net/v/20230809123441996</id>
+        <link href="https://v.daum.net/v/20230809123441996"/>
+        <updated>2023-08-09T04:13:34.241Z</updated>
+        <content type="html"><![CDATA[[OSEN=장우영 기자] 배우 김소현이 ‘소용없어 거짓말’에서 빈틈없는 호연으로 존재감을 더욱 빛내고 있다. 김소현은 지난 7일, 8일 방송된 tvN 월화드라마 ‘소용없어 거짓말’(극본 서정은, 연출 남성우, 기획 스튜디오드래곤, 제작 빅오션이엔엠) 3, 4회에서 ‘라이어 헌터’ 목솔희의 매력을 고스란히 표현해 보는 이들의 이입을 불러 모았다. 김소현은]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김지원 자리 메운 신세경, 여신 비주얼로 감탄 유발]]></title>
+        <id>https://v.daum.net/v/20230809122030716</id>
+        <link href="https://v.daum.net/v/20230809122030716"/>
+        <updated>2023-08-09T04:13:34.241Z</updated>
+        <content type="html"><![CDATA[[TV리포트=황다경 기자] 오는 9월 9일 토요일 밤 9시 20분에 첫 방송되는 tvN 새 토일드라마 '아라문의 검'에서 아스달 대제관 탄야(신세경 분)와 아스달의 왕후 태알하(김옥빈 분) 버전의 메인 포스터를 공개해 또 한 번 이목을 끌어당기고 있다. 앞서 전쟁터에서 마주 서게 된 타곤(장동건 분)과 은섬(이준기 분)의 정면대치를 담은 첫 번째 메인 포스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['유괴의 날' 윤계상X유나, 듣도 보도 못한 대환장 '유괴 케미']]></title>
         <id>https://v.daum.net/v/20230809115022942</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230809101418618"/>
         <updated>2023-08-09T01:59:21.608Z</updated>
         <content type="html"><![CDATA[[뉴스엔 김명미 기자] '기적의 형제' 정우가 이번주 뉴스에 출연한다. JTBC 수목드라마 ‘기적의 형제’(극본 김지우, 연출 박찬홍, 제작 MI, SLL) 동주(정우)는 27년 전 소평호수 노숙자 살인사건의 진실을 찾아가고 있는 중이다. 그가 이 여정에 진심을 다하기까지, 기적과도 같은 과정이 있었다. 강산(배현성)이 27년 전에서 타임슬립했고, 동주는]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이준호, 스펙트럼 넓혔더니…'신드롬 메이커' 됐네]]></title>
-        <id>https://v.daum.net/v/20230809101002466</id>
-        <link href="https://v.daum.net/v/20230809101002466"/>
-        <updated>2023-08-09T01:59:21.610Z</updated>
-        <content type="html"><![CDATA[[텐아시아=강민경 기자] 그룹 2PM 멤버 겸 배우 이준호가 연타석 흥행에 성공했다. 이준호는 6일 종영한 JTBC 토일드라마 '킹더랜드'에서 구원 역을 맡아 각종 화제성 지표와 넷플릭스 글로벌 순위를 휩쓰는 맹활약을 펼쳤다. 전작 '옷소매 붉은 끝동'부터 흥행 가도를 이어온 이준호가 '킹더랜드'까지 연타석 대체 불가한 존재감을 보여줬다. 이준호가 ']]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["내가 죽인 거 아냐" '소용없어 거짓말' 황민현, 김소현에 첫 거짓말]]></title>
-        <id>https://v.daum.net/v/20230809095347609</id>
-        <link href="https://v.daum.net/v/20230809095347609"/>
-        <updated>2023-08-09T00:54:50.396Z</updated>
-        <content type="html"><![CDATA[[스포티비뉴스=유은비 기자] ‘소용없어 거짓말’ 김소현이 마침내 황민현의 첫 번째 거짓말을 들었다. 지난 8일 방송된 tvN 월화드라마 ‘소용없어 거짓말' 4회에서는 김도하(황민현)가 그토록 감추고 있던 비밀과 마주하는 목솔희(김소현)의 모습이 그려졌다. 차츰 벗겨지는 베일 속 ‘김승주’ 그리고 살인자로 몰린 김도하의 과거는 설레는 변화 속에 찾아든]]></content>
     </entry>
 </feed>
