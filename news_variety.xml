@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/variety</id>
     <title>다음 연예 ─ 뉴스 ─ 예능</title>
-    <updated>2023-08-09T09:12:25.915Z</updated>
+    <updated>2023-08-09T10:12:02.690Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[허경환, "키 는 안 봐요" 솔로 엄지윤과 러브라인?]]></title>
+        <id>https://v.daum.net/v/20230809182101081</id>
+        <link href="https://v.daum.net/v/20230809182101081"/>
+        <updated>2023-08-09T10:11:51.218Z</updated>
+        <content type="html"><![CDATA[[텐아시아=차혜영 기자] 개그맨 허경환이 엄지윤과 러브라인으로 웃음을 안겼다.  허경환은 지난 8일 방송된 SBS ‘강심장 리그’(이하 ‘강심장’)의 ‘내 친구를 소개합니다’ 특집에 강호동의 친구로 출연했다.  이날 허경환은 지금까지의 유행어들로 스스로를 소개하며 최다 유행어 메이커다운 자신감을 보여줬다. 또 허경환은 김호영과의 친분도 인증하며 알찬]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['놀면 뭐하니?'가 소리 찾아준 청각장애 청소년들, MBC서 '뜻깊은 견학']]></title>
         <id>https://v.daum.net/v/20230809175528311</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230809164652606"/>
         <updated>2023-08-09T08:14:41.961Z</updated>
         <content type="html"><![CDATA[[뉴스엔 박수인 기자] 배우 이미도가 '내편하자' 스페셜 게스트로 출격한다. 8월 10일 공개되는 U+모바일TV 오리지널 예능 ‘믿고 말해보는 편-내편하자’ 시즌1 마지막 회에서는 혜풍지랄 MC들과 모델 송해나를 충격과 공포로 몰아넣은 시월드 빌런 컬렉션이 등장한다. 이날 이미도는 "시부모님이 본방, 재방, 삼방까지도 보신다"면서 시댁 관련 사연이 안 나]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[구준엽 뜨거운 눈물, ♥서희원과 23년 만 재회 영상 최초공개]]></title>
-        <id>https://v.daum.net/v/20230809162052497</id>
-        <link href="https://v.daum.net/v/20230809162052497"/>
-        <updated>2023-08-09T08:14:41.996Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 박수인 기자] 구준엽이 서희원 매니저가 찍은 재회 영상을 최초 공개한다. 8월 9일 방송되는 MBC ‘라디오스타’(기획 강영선/연출 이윤화, 김명엽)는 구준엽, 김재원, 영탁, 손민수가 출연하는 ‘심쿵!따리 샤바라’ 특집으로 꾸며진다. 이날 ‘라디오스타’ 측은 ‘준엽♥희원! 23년 만의 재회, 그 감동의 순간’이라는 제목의 영상을 선공개 했다.]]></content>
     </entry>
 </feed>
