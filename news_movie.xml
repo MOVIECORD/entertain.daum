@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-08-10T12:22:22.080Z</updated>
+    <updated>2023-08-10T13:16:47.845Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[하정우의 고군분투 ‘비공식작전’, 103개국 판매]]></title>
+        <id>https://v.daum.net/v/20230810215401993</id>
+        <link href="https://v.daum.net/v/20230810215401993"/>
+        <updated>2023-08-10T13:16:26.145Z</updated>
+        <content type="html"><![CDATA[하정우 주지훈의 버디 액션물 ‘비공식작전’(감독 김성훈)이 전 세계 103개국 판매 및 주요 국가 개봉을 확정했다. 영화 ‘끝까지 간다’, ‘터널’, 넷플릭스 시리즈 ‘킹덤’의 김성훈 감독이 연출,  하정우 주지훈의 만남으로 기대를 모은 ‘비공식작전’이 여름 극장가에서 상영 중인 가운데 전 세계 103개국 판매와 함께 세계 관객들을 만날 준비를 마쳤다. ‘]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[강동원 '천박사'·하정우 '보스턴'·송강호 '거미집', 올 추석엔 3파전]]></title>
         <id>https://v.daum.net/v/20230810210029122</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230810175003468"/>
         <updated>2023-08-10T09:12:41.619Z</updated>
         <content type="html"><![CDATA[여름 성수기 극장 대전 성적표가 하나 둘씩 나오면서 빅4 영화들의 희비가 갈리고 있다. 그나마 ‘밀수’(감독 류승완)가 손익분기점 400만에 가장 근접했지만, ‘비공식작전’(감독 김성훈), ‘더 문’(감독 김용화)은 처참하다. 마지막 주자로 나선 ‘콘크리트 유토피아’(감독 엄태화)가 결국 웃을 수 있을까. 10일 영화진흥위원회 영화관입장권 통합전산망]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[극우세력이 비난할 내용... 이 영화의 '놀라운 선택']]></title>
-        <id>https://v.daum.net/v/20230810171202955</id>
-        <link href="https://v.daum.net/v/20230810171202955"/>
-        <updated>2023-08-10T08:16:48.826Z</updated>
-        <content type="html"><![CDATA[[김상목 기자] ▲ &nbsp;영화 &lt;파더 앤 솔저&gt; 포스터 이미지ⓒ 찬란&nbsp; '식민제국'의 알려지지 않은 역사 '식민제국'이란 개념이 있다. 단순히 강대국이 주변 국가를 정복하는 수준으로 개별 민족(국민)국가 범위를 초월하는 '제국'과는 다소 차이가 있는 개념이다. 역사상 수많은 나라가 국력이 강성할 때 전쟁을 통해 영토를 넓히고 '제국'을 칭했지만 '식민제국'에]]></content>
     </entry>
 </feed>
