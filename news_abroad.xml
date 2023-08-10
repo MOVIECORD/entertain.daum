@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-08-10T07:10:44.338Z</updated>
+    <updated>2023-08-10T08:17:11.629Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[인기 가수, 콘서트 앞두고 스태프 저격...'불화설'에 팬들 걱정 ↑]]></title>
+        <id>https://v.daum.net/v/20230810170930880</id>
+        <link href="https://v.daum.net/v/20230810170930880"/>
+        <updated>2023-08-10T08:17:10.889Z</updated>
+        <content type="html"><![CDATA[[TV리포트=안수현 기자] 가수 테고시 유야(35)가 자신의 소셜네트워크서비스에 콘서트 관계자에 관한 분노를 표출해 팬들을 걱정시켰다. 지난 9일, 테고시 유야는 콘서트 관계자를 겨냥한 듯한 분노의 글을 온라인에 업로드했다. 테고시는 자신 2번째의 개최가 되는 심포닉 콘서트를 12일에 앞두고, 리허설에 집중하고 있다.&nbsp;그런 가운데, "진짜 이런 일은 있을]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[인기 男아이돌, 팬미팅서 커밍아웃...팬들 박수로 응원]]></title>
         <id>https://v.daum.net/v/20230810160101075</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230810092745511"/>
         <updated>2023-08-10T00:56:16.700Z</updated>
         <content type="html"><![CDATA[(엑스포츠뉴스 이창규 기자) 캐나다 출신 인플루언서 래퍼 릴 테이(Lil Tay)가 사망했다는 소식이 전해져 충격을 안긴다. 9일(현지시간) 미국 버라이어티 등 다수 매체는&nbsp;릴 테이와 그의 오빠가 세상을 떠났다고 보도했다. 향년 14세. 릴 테이의 유족은 성명서를 통해 "사랑하는 클레어(릴 테이 본명)의 갑작스럽고 비극적인 사망 소식을 전하게 되어 마음이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[패리스 힐튼, “내가 성공한 이유? 미래를 볼 수 있기 때문”]]></title>
-        <id>https://v.daum.net/v/20230810092651442</id>
-        <link href="https://v.daum.net/v/20230810092651442"/>
-        <updated>2023-08-10T00:56:16.703Z</updated>
-        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]세계적 셀럽 패리스 힐튼(42)이 자신의 성공 비결을 공개했다. 그는 9일(현지시간) US 위클리와 인터뷰에서 “나는 항상 전향적이었고, 위험 감수를 두려워하지 않았다”고 말했다. 최근 그는 영화, TV, 책, 소비자 제품 등에 걸쳐 패션과 라이프스타일 콘텐츠를 생산하는데 초점을 맞춘 멀티플랫폼 글로벌 엔터테인먼트 회]]></content>
     </entry>
 </feed>
