@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-08-10T03:11:33.644Z</updated>
+    <updated>2023-08-10T04:13:26.208Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[로버트 드 니로 19살 손자, “불법약물 ‘독성’으로 사망” 공식발표]]></title>
+        <id>https://v.daum.net/v/20230810130829142</id>
+        <link href="https://v.daum.net/v/20230810130829142"/>
+        <updated>2023-08-10T04:13:25.115Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]아카데미 남우주연상에 빛나는 로버트 드 니로(79)의 손자 리안드로 드 니로 로드리게스(19)의 사인이 밝혀졌다. 뉴욕시 검시관은 9일(현지시간) 페이지식스에 리안드로가 불법 약물의 "독성" 조합으로 사망했다고 발표했다. 부검 결과에 따르면 리안드로는 사망 당시 체내에 펜타닐, 브로마졸람, 알프라졸람, 7-아미노클로나]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[14살 래퍼, 활동 중단 후 사망 소식…갑작스러운 비보]]></title>
         <id>https://v.daum.net/v/20230810120030728</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230810063207651"/>
         <updated>2023-08-09T22:10:54.965Z</updated>
         <content type="html"><![CDATA[(뉴욕=연합뉴스) 고일환 특파원 = 1960년대 말부터 1970년대까지 가장 개성적인 록음악을 연주한 것으로 평가받는 '더 밴드'의 기타리스트 로비 로버트슨이 별세했다. 향년 80세. 뉴욕타임스(NYT)는 9일(현지시간) 장기간 투병 중이었던 로버트슨이 이날 로스앤젤레스(LA)에서 운명했다고 보도했다. 로버트슨은 캐나다 출신이지만, 블루스와 컨트리, 솔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['톱모델' 지젤 번천 아들, 15살에도 완벽...우월한 유전자]]></title>
-        <id>https://v.daum.net/v/20230810063030608</id>
-        <link href="https://v.daum.net/v/20230810063030608"/>
-        <updated>2023-08-09T22:10:54.968Z</updated>
-        <content type="html"><![CDATA[[TV리포트=이수연 기자] 모델 지젤 번천과 미식축구 선수 톰 브래디의 자녀가 우월한 비율을 과시했다. 톰 브래디는 8일 자신의 소셜네트워크서비스를 통해 아프리카 탄자니아에서 가족 휴가를 보낸 모습을 공개했다. 사진에서 톰 브래디는 아들 잭(15)과 딸 비비안(10)과 함께 함박웃음을 짓고 있었다. 특히 잭은 훈훈한 외모와 톰 브래디의 키를 거의 따라잡는]]></content>
     </entry>
 </feed>
