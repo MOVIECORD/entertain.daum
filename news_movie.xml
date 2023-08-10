@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-08-10T10:12:28.430Z</updated>
+    <updated>2023-08-10T11:10:26.372Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김지운 연출X송강호 주연 ‘거미집’ 추석 개봉]]></title>
+        <id>https://v.daum.net/v/20230810200053068</id>
+        <link href="https://v.daum.net/v/20230810200053068"/>
+        <updated>2023-08-10T11:10:01.647Z</updated>
+        <content type="html"><![CDATA[[동아닷컴] 김지운 연출X송강호 주연 ‘거미집’ 추석 개봉 [공식] 제76회 칸 국제영화제 공식 비경쟁 부문 초청작인 ‘거미집’이 추석 개봉을 확정했다. ‘거미집’은 1970년대, 다 찍은 영화 ‘거미집’의 결말만 다시 찍으면 걸작이 될 거라 믿는 김감독(송강호)이 검열, 바뀐 내용을 이해하지 못하는 배우와 제작자 등 미치기 일보 직전의 악조건 속에서 촬]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김희선 "언니 같은 송혜교와 우정…내가 애교 많이 부려" 웃음]]></title>
+        <id>https://v.daum.net/v/20230810195002835</id>
+        <link href="https://v.daum.net/v/20230810195002835"/>
+        <updated>2023-08-10T11:10:01.649Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 김유진 기자) 배우 김희선이 송혜교와의 우정을 언급했다. 김희선은 10일 오전 온라인으로 진행된 영화 '달짝지근해: 7510'(감독 이한) 인터뷰에서 다양한 이야기를 전했다. 이날 김희선은 국내 영화 작업으로는 2003년 '화성으로 간 사나이' 이후 무려 20여 년 만에 스크린에 컴백한 떨리는 마음을 전하면서 "(시사회 공개 후) 현재까지는]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘콘크리트 유토피아’ 개봉 첫날 1위…23만 동원]]></title>
         <id>https://v.daum.net/v/20230810190443765</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230810170628770"/>
         <updated>2023-08-10T08:16:48.829Z</updated>
         <content type="html"><![CDATA[영화 ‘보호자’로 상업 영화 연출에 도전한 배우 겸 감독 정우성이 자신의 위치에 대해 답했다. 정우성 감독은 10일 진행된 스포츠경향과 인터뷰에서 ‘배우 겸 감독으로서 연기 디렉팅이나 투자 기회에 있어서 다른 신인 감독에 비해 얻는 이득이 있을까’란 질문에 “오히려 고민이 크다”고 답했다. 그는 “여태껏 난 배우로서만 대했던 스태프, 동료 배우들에게]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[정우성 감독 “‘보호자’ 서사 빈약? 액션물 설정 이용할 수밖에”]]></title>
-        <id>https://v.daum.net/v/20230810170546717</id>
-        <link href="https://v.daum.net/v/20230810170546717"/>
-        <updated>2023-08-10T08:16:48.841Z</updated>
-        <content type="html"><![CDATA[영화 ‘보호자’로 첫 상업연출에 나서는 정우성 감독이 작품에 쏟아진 혹평에 답했다. 정우성 감독은 10일 진행된 스포츠경향과 인터뷰에서 ‘서사가 빈약하다는 평에 대해 어떻게 생각하나’란 질문에 “액션을 추구하는 스토리 설정을 이용할 수밖에 없었다”며 “그 안에서 ‘수혁’의 딸 ‘인비’와 만남까지 가는 여정에 어떤 걸 채워넣을지를 고민했다”고 밝혔다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['보호자' 정우성 "감독 변신, 최대한 뻔뻔하게..결단력 중요했죠"]]></title>
-        <id>https://v.daum.net/v/20230810170001462</id>
-        <link href="https://v.daum.net/v/20230810170001462"/>
-        <updated>2023-08-10T08:16:48.841Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 | 김나연 기자] 사진=에이스메이커무비웍스'보호자'로 감독으로서 데뷔하게 된 정우성이 자신의 연출 스타일에 대해 밝혔다. 10일 서울시 종로구 소격동의 한 카페에서 영화 '보호자'(감독) 정우성의 연출 겸 배우 정우성과 만나 다양한 이야기를 나눴다. '보호자'는 10년 만에 출소해 몰랐던 딸의 존재를 알고 평범하게 살기를 원하는 수혁과 그]]></content>
     </entry>
 </feed>
