@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2023-08-10T16:13:57.904Z</updated>
+    <updated>2023-08-10T17:10:05.641Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['나솔사계' 옥순과 데이트간 영식 "난 현숙인 것 같아" 고백]]></title>
+        <id>https://v.daum.net/v/20230811014300779</id>
+        <link href="https://v.daum.net/v/20230811014300779"/>
+        <updated>2023-08-10T17:09:59.437Z</updated>
+        <content type="html"><![CDATA[[TV리포트=김유진 기자] 남자들이 선택한 데이트가 그려졌다. 11일 방영된 SBS Plus '나는 솔로, 그 후 사랑은 계속괸다' 21화에서는 영철과 정숙, 광수와 9기 현숙이 데이트를 하는 모습이 그려졌다. 옥순은 종수, 정식, 영식과 3대1 데이트를 즐겼다. 영철, 정숙은 조개구이, 복분자를 마시며 낮술데이트를 즐겼다. 영철은 정숙에게 "원하던 데이트]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[송가인, 3달 식비가 무려 4천만원…손만 큰 줄 알았더니 요리실력도 '최고']]></title>
+        <id>https://v.daum.net/v/20230811011734729</id>
+        <link href="https://v.daum.net/v/20230811011734729"/>
+        <updated>2023-08-10T17:09:59.439Z</updated>
+        <content type="html"><![CDATA[[스포츠조선 이정혁 기자]석달에 4천만 원어치 정도의 소고기를 먹이고, 매니저 월급 15% 인상까지. '신상출시 편스토랑' 트로트퀸 송가인이 출격, 큰 손을 또 한번 자랑한다. 8월 11일 방송되는 KBS 2TV '신상출시 편스토랑'(이하 '편스토랑')에는 전국 팔도 어머니, 아버지들의 사랑을 한 몸에 받는 트로트 여신 송가인이 편세프 도]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['음주운전 벌금 2천만원' 김새론의 은근슬쩍 컴백…'뻔뻔하다' vs '충분하다', 팽팽]]></title>
         <id>https://v.daum.net/v/20230811011014695</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230810235003119"/>
         <updated>2023-08-10T15:11:48.249Z</updated>
         <content type="html"><![CDATA[(엑스포츠뉴스 이슬 기자) 개최를 하루 앞둔 '잼버리 K팝 콘서트'에 우려의 목소리가 높아지고 있다. 11일 서울 상암월드컵경기장에서 '2023 세계스카우트 잼버리 K팝 슈퍼 라이브'(이하 '잼버리 K팝 콘서트')가 개최된다. 당초 '잼버리 K팝 콘서트'는 새만금 세계스카우트잼버리가 열리는 새만금 야외 특설무대에서 6일 개최될 예정이었다. 하지만 폭염과 미]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["범인은 박성웅" 박해진X임지연, 첫 국민사형투표에 공조 시작]]></title>
-        <id>https://v.daum.net/v/20230810234443090</id>
-        <link href="https://v.daum.net/v/20230810234443090"/>
-        <updated>2023-08-10T15:11:48.251Z</updated>
-        <content type="html"><![CDATA[[스포츠조선닷컴 정안지 기자] 첫 국민사형투표가 진행된 가운데 박해진과 임지연이 공조를 시작했다. 10일 첫 방송된 SBS 새 목요드라마 '국민사형투표'에서는 국민사형투표 후 국민사형투표 특별수사본부이 꾸려지는 모습이 그려졌다. 8년 전, 김무찬(박해진 분)은 살인을 저지르는 권석주(박성웅 분)를 발견, 공포탄을 쏴 경고]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[장항준, 크리스토퍼 놀란 감독에 '친한 척하는 사진' 부탁]]></title>
-        <id>https://v.daum.net/v/20230810234301080</id>
-        <link href="https://v.daum.net/v/20230810234301080"/>
-        <updated>2023-08-10T15:11:48.254Z</updated>
-        <content type="html"><![CDATA[(서울=뉴스1) 박하나 기자 = '알쓸별잡'에 출연한 영화 감독 크리스토퍼 놀란이 영화 감독 장항준의 유쾌한 부탁에 웃음을 터뜨렸다. 10일 오후 방송된 tvN 예능 프로그램 '알쓸별잡(알아두면 쓸데없는 지구별 잡학사전)'에서는 크리스토퍼 놀란 감독이 특별 게스트로 함께했다. 영화계 독보적인 거장 크리스토퍼 놀란 감독이 영화 '오펜하이머' 홍보 일정 중]]></content>
     </entry>
 </feed>
