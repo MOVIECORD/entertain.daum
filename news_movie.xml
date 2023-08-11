@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-08-11T22:10:05.592Z</updated>
+    <updated>2023-08-11T23:10:32.751Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[정우성 감독 첫 장편작 '보호자', 야성과 본능이 꿈틀댄다]]></title>
+        <id>https://v.daum.net/v/20230812073101434</id>
+        <link href="https://v.daum.net/v/20230812073101434"/>
+        <updated>2023-08-11T23:10:10.706Z</updated>
+        <content type="html"><![CDATA[[텐아시아=이하늘 기자] *'보호자'와 관련된 스포일러가 포함돼있습니다. 빛은 어둠이 있기에 또렷하고 선명한 윤곽을 띄고, 어둠은 빛이 있기에 그 깊이가 더욱 짙어진다. 즉, 빛과 어둠은 서로 뒤엉키며 경계를 불분명하게 만드는 것이다. 오는 15일 개봉하는 영화 '보호자'(감독 정우성)는 경계가 불분명한 빛과 어둠을 닮은 '평범함'을 원하는 한 남자의]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[400만 돌파 '밀수'만 웃을까..韓 영화 '빅4'의 희비 교차]]></title>
         <id>https://v.daum.net/v/20230811220002766</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230811175029263"/>
         <updated>2023-08-11T09:10:14.128Z</updated>
         <content type="html"><![CDATA[[스타뉴스 | 김나연 기자] 김남길 / 사진=길스토리이엔티배우 김남길이 감독으로 만난 정우성에 대해 "참 좋은 감독"이라고 밝혔다. 10일 서울시 종로구 소격동의 한 카페에서 영화 '보호자'(감독 정우성)의 배우 김남길과 만나 다양한 이야기를 나눴다. '보호자'는 10년 만에 출소해 몰랐던 딸의 존재를 알고 평범하게 살기를 원하는 수혁(정우성 분)과 그]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["큰 거 온다"…티빙, 하반기 K열풍 이을 비장의 카드]]></title>
-        <id>https://v.daum.net/v/20230811174010909</id>
-        <link href="https://v.daum.net/v/20230811174010909"/>
-        <updated>2023-08-11T09:10:14.129Z</updated>
-        <content type="html"><![CDATA[토종 온라인동영상서비스(OTT) 티빙이 하반기 굵직한 작품을 선보인다. 티빙이 지난달 14일 발표한 상반기 콘텐츠 결산에 따르면, 오리지널 시리즈 부문 '술꾼도시여자들2', '아일랜드'가 시청UV(순방문자수) 1, 2위를 차지했고, 예능 '두발로 티켓팅'과 '만찢남'이 톱 5에 안착했다. 교양 부문에서는 MZ세대 사이 반향을 일으킨 오리지널 다큐멘터리와]]></content>
     </entry>
 </feed>
