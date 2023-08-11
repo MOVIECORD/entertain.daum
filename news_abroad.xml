@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-08-11T10:11:29.710Z</updated>
+    <updated>2023-08-11T11:09:22.563Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['불륜 스캔들' 장백지, 전남편 사정봉과 재결합설 부인]]></title>
+        <id>https://v.daum.net/v/20230811192100906</id>
+        <link href="https://v.daum.net/v/20230811192100906"/>
+        <updated>2023-08-11T11:09:21.683Z</updated>
+        <content type="html"><![CDATA[[TV리포트=유비취 기자] 중국의 배우 장백지와 그의 전남편 사정봉이 재결합설을 부인했다. 앞서 홍콩 배우 사정봉은 호주에서 아들 루카스와 함께 목격됐다. 사정봉이 아들과 함께 있는 것이 포착된 것은 약 10년 전으로 장백지와의 이혼 후 만남이 뜸했다. 호주의 다른 장소에서 장백지 또한 목격되면서 두 사람이 다시 만난다는 재결합설이 제기됐다. 사정봉과 장백]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[켄달 제너, '118억 저택' 내부 공개…톱모델의 재력]]></title>
         <id>https://v.daum.net/v/20230811184100240</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230811142130748"/>
         <updated>2023-08-11T06:13:40.162Z</updated>
         <content type="html"><![CDATA[[TV리포트=유비취 기자] 넷플릭스 인기 시리즈 '기묘한 이야기'로 활약한 배우 데이빗 하버가 영화에 대한 갈증을 드러냈다. 지난 9일(현지 시간) 데이빗 하버는 미국 매체 인사이더와 진행한 인터뷰에서 앞으로의 포부에 대해 털어놨다. 데이빗 하버는 '기묘한 이야기'가 가져다준 성공에 감사하다면서 "완전히 새로운 세상이 열렸다"라고 표현했다. 그는 넷플릭스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["저렴한 OTT 시대 끝났다"…넷플릭스→디즈니+, 줄줄이 가격 인상]]></title>
-        <id>https://v.daum.net/v/20230811140130158</id>
-        <link href="https://v.daum.net/v/20230811140130158"/>
-        <updated>2023-08-11T05:10:22.675Z</updated>
-        <content type="html"><![CDATA[[TV리포트=유비취 기자] 저렴한 OTT 서비스의 시대가 끝났다. 넷플릭스는 저렴한 가격으로 광고 없이 영화, 쇼, 엔터테인먼트 등을 무제한으로 제공하는 스트리밍 모델로 인기를 끌었다. 이로 인한 OTT 시장은 저렴한 가격으로 서비스를 제공하는 구조였지만 이제는 이 같은 합리적인 가격으로 콘텐츠를 볼 수 없게 됐다. 지난 9일(현지 시간) 디즈니 CEO 밥]]></content>
     </entry>
 </feed>

@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-08-11T10:11:29.712Z</updated>
+    <updated>2023-08-11T11:09:22.574Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['하늘의 인연' 전혜연, 김유석家 찾아가 출생비밀 폭로 "내가 친딸"...정우연 '충격']]></title>
+        <id>https://v.daum.net/v/20230811193830284</id>
+        <link href="https://v.daum.net/v/20230811193830284"/>
+        <updated>2023-08-11T11:09:05.411Z</updated>
+        <content type="html"><![CDATA[[TV리포트 = 하수나 기자] 전혜연이 친부 김유석의 집을 찾아가 출생비밀을 폭로했다.&nbsp; 11일 KBS2 일일드라마 ‘하늘의 인연’에선 윤솔(전혜연 분)이 치환(김유석 분)의 집을 찾아가 자신의 출생비밀을 폭로하는 모습이 그려졌다.&nbsp; 윤솔은 나정임과 함께 치환의 집을 찾았고 “아버지 제가 엄마 모시고 집에 온다고 말씀드렸지 않나”라며 “아버지. 얼른 정리해]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['아씨 두리안', 전생→현생 판타지 로맨스 '달달 명대사' 열전]]></title>
         <id>https://v.daum.net/v/20230811190834695</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230811144028292"/>
         <updated>2023-08-11T06:13:24.170Z</updated>
         <content type="html"><![CDATA[(엑스포츠뉴스 김현정 기자)&nbsp;‘연인’ 남궁민은 과거에 어떤 일을 겪은 것일까. MBC 금토드라마 ‘연인’은 병자호란을 겪으며 엇갈리는 연인들의 사랑과 백성들의 생명력을 다룬 휴먼역사멜로드라마다. 4일 첫 방송한 ‘연인’은 탄탄한 스토리, 눈부신 영상미, 매력적인 배우들의 연기가 어우러져 아름답고 유려한 드라마의 탄생을 알렸다. 2회 엔딩에서 병자호란이 발발]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘국민사형투표’ 역시 박성웅, 시작부터 존재감만으로 압도]]></title>
-        <id>https://v.daum.net/v/20230811143604184</id>
-        <link href="https://v.daum.net/v/20230811143604184"/>
-        <updated>2023-08-11T06:13:24.170Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 배효주 기자] 박성웅이 ‘국민사형투표’ 첫 방송부터 압도적 존재감을 선사했다. 8월 10일 첫 방송된 SBS 새 목요드라마 ‘국민사형투표’에서 박성웅은 깊은 사연을 가진 교도소 장기 복역수 ‘권석주’ 캐릭터에 완벽하게 분한 모습으로 첫 등장, 캐릭터에 혼연일체 된 열연으로 시청자들의 이목을 집중시키며 분위기를 압도했다. ‘국민사형투표’는 악질범]]></content>
     </entry>
 </feed>
