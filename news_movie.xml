@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-08-11T03:10:59.759Z</updated>
+    <updated>2023-08-11T04:12:39.083Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[우주소녀 엑시 아닌 배우 추소정‥영화 ‘열여덟 청춘’ 출연]]></title>
+        <id>https://v.daum.net/v/20230811123438417</id>
+        <link href="https://v.daum.net/v/20230811123438417"/>
+        <updated>2023-08-11T04:12:16.342Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 배효주 기자] 우주소녀 엑시가 본명 추소정으로 영화 ‘열여덟 청춘’에서 활약한다. 8월 11일 소속사 킹콩 by 스타쉽 측은 “추소정이 영화 ‘열여덟 청춘’(감독 어일선)에 출연한다. 배우로서 스크린으로 찾아올 추소정에게 많은 애정과 관심 부탁드린다”라고 전했다. ‘열여덟 청춘’은 남다른 교육관으로 학생들에게는 호응을, 동료 교사들에게는 눈총을]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["韓영화 쌍끌이 흥행"…'콘크리트 유토피아', 이틀 연속 정상→'밀수' 400만 돌파 눈앞]]></title>
         <id>https://v.daum.net/v/20230811115819722</id>
@@ -17,7 +24,7 @@
         <id>https://v.daum.net/v/20230811115045532</id>
         <link href="https://v.daum.net/v/20230811115045532"/>
         <updated>2023-08-11T03:10:37.920Z</updated>
-        <content type="html"><![CDATA[[OSEN=김보라 기자] 영화 '잠'이 매일 밤 잠들지 못하는 공포에 맞선 신혼부부로 변신한 정유미와 이선균의 스틸을 공개했다. '잠'(감독 유재선, 배급 롯데엔터테인먼트, 제작 루이스픽쳐스)은 행복한 신혼부부 현수(이선균 분)와 수진(정유미 분)을 악몽처럼 덮친 남편 현수의 수면 중 이상행동, 잠드는 순간 시작되는 끔찍한 공포의 비밀을 풀기 위해 애쓰]]></content>
+        <content type="html"><![CDATA[[OSEN=김보라 기자] 영화 '잠' 측이 매일 밤 잠들지 못하는 공포에 맞선 신혼부부 역의 정유미와 이선균의 스틸을 공개했다. '잠'(감독 유재선, 배급 롯데엔터테인먼트, 제작 루이스픽쳐스)은 행복한 신혼부부 현수(이선균 분)와 수진(정유미 분)을 악몽처럼 덮친 남편의 수면 중 이상행동, 잠드는 순간 시작되는 끔찍한 공포의 비밀을 풀기 위해 애쓰는 두]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA['콘유' 이병헌 "연기에 대한 불안...스스로 믿는 수밖에"]]></title>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230811102751490"/>
         <updated>2023-08-11T01:40:50.669Z</updated>
         <content type="html"><![CDATA[[이데일리 스타in 김보영 기자] “‘달짝지근해’는 저에게 자신감을 얻게 해준 작품이죠. 영화에 대해 갖고 있던 20년의 벽을 한 번에 무너뜨려준.” 배우 김희선, 1990년대부터 약 30년이 흐름 지금까지 트렌디 드라마의 대표주자이자 예능까지 섭렵한 명불허전 ‘미’(美)의 아이콘. 김희선이 ‘화성으로 간 사나이’(2003) 이후 무려 20년 만에 영화]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이병헌 밀고 김혜수 당기고‥박스오피스 나란히 1·2위]]></title>
-        <id>https://v.daum.net/v/20230811102343336</id>
-        <link href="https://v.daum.net/v/20230811102343336"/>
-        <updated>2023-08-11T01:40:50.671Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 배효주 기자] '콘크리트 유토피아'가 이틀 연속 박스오피스 1위를 차지했다. 8월 11일 영화진흥위원회 통합전산망 집계에 따르면 10일 영화 '콘크리트 유토피아'(감독 엄태화)가 16만7,929명을 동원하며 전체 박스오피스 1위를 차지했다. 누적 관객은 41만6,584명으로, 개봉 첫 주말 흥행이 예상된다. 지난 9일 개봉한 '콘크리트 유토피아']]></content>
     </entry>
 </feed>
