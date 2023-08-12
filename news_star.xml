@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2023-08-12T08:12:43.153Z</updated>
+    <updated>2023-08-12T09:10:00.500Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[유해진 "겨울이 추모관, 고장난 냉장고에 마련…오리 인형·밥그릇 보관"]]></title>
+        <id>https://v.daum.net/v/20230812175609613</id>
+        <link href="https://v.daum.net/v/20230812175609613"/>
+        <updated>2023-08-12T09:09:54.058Z</updated>
+        <content type="html"><![CDATA[[스포츠조선닷컴 이우주 기자] '십오야' 유해진이 무지개 다리를 건넌 반려견 겨울이의 추모관을 따로 마련해놨다고 밝혔다. 지난 11일 유튜브 채널 '채널 십오야'에서는 '이제는 로맨스까지 접수한 형이랑 나불'이라는 제목의 영상이 게재, 배우 유해진과의 만남이 그려졌다. 나영석PD는 유해진에게 "처음으로 연기를 전업으로 해도 되겠다고 생각했을]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[큐시트 유출→어리둥절 엔딩‥K팝 가수들, 논란의 잼버리 콘서트서 고군분투]]></title>
         <id>https://v.daum.net/v/20230812170539204</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230812142217547"/>
         <updated>2023-08-12T06:12:20.320Z</updated>
         <content type="html"><![CDATA[[뉴스엔 이슬기 기자] 블랙핑크 제니가 모델 신현지에 대한 애틋함을 드러냈다. 8월 11일 유튜브 제니의 채널 'Jennierubyjane Official'에는 '제니 인 도쿄 파트1'라는 제목의 영상이 게재, 절친인 모델 신현지와 함께한 도쿄 여정이 찾아왔다. 영상에서 제니는 일본으로 향하는 비행기에서 신현지와 서로의 볼을 찌르는 포즈와 "절친 피스!"]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오윤아, 발달장애 아들과 발리 여행 “자제하려 노력, 말도 잘 들어”]]></title>
-        <id>https://v.daum.net/v/20230812141856520</id>
-        <link href="https://v.daum.net/v/20230812141856520"/>
-        <updated>2023-08-12T06:12:20.322Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 박수인 기자] 배우 오윤아가 발달장애 아들과 여행을 마쳤다. 8월 11일 공개된 유튜브 채널 'Oh!윤아'에는 오윤아와 아들 송민 군의 발리 여행 2탄 영상이 게재됐다. 영상 속 오윤아는 한 리조트를 방문해 "길이 너무 많이 막혀서 힘들었지만 그래도 리조트가 너무 좋기 때문에 기대하는 마음이 크다. 너무 좋아서 두 번째 왔다. 아이들 데리고 밥]]></content>
     </entry>
 </feed>
