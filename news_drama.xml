@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-08-12T18:11:42.222Z</updated>
+    <updated>2023-08-12T19:08:24.935Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['소옆경2' 공승연, "내가 찾던 사람 당신일지도 모른다고 생각했지만…" 김래원 밀어냈다]]></title>
+        <id>https://v.daum.net/v/20230813040600588</id>
+        <link href="https://v.daum.net/v/20230813040600588"/>
+        <updated>2023-08-12T19:08:06.920Z</updated>
+        <content type="html"><![CDATA[[SBS연예뉴스 | 김효정 에디터] 공승연이 김래원에 대한 자신의 마음을 정리했다. 12일 방송된 SBS 금토드라마 '소방서 옆 경찰서 그리고 국과수'(이하 '소옆경2')에서는 방화 사건을 해결한 경찰과 소방의 모습이 그려졌다. 이날 송설은 자신을 찾아온 진호개에게 봉두진이 남긴 반지에 대해 묻는다. 그는 "진형사님이 놓고 간 거 맞죠?"라며 반지를 자신에]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['연인' 남궁민, 안은진 구했다 "서방님♥" 본격 러브라인 시작하나]]></title>
         <id>https://v.daum.net/v/20230813015632513</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230812231728164"/>
         <updated>2023-08-12T15:09:18.183Z</updated>
         <content type="html"><![CDATA[[스타뉴스 | 안윤지 기자] /사진=SBS '소옆경2' 방송 캡처'소옆경2' 배우 공승연이 피습당했으나 기적적으로 구출당해 살아 남았다. 12일 방송된 SBS 드라마 '소방서 옆 경찰서 그리고 국과수'에서는 방화범 양산만이 잡히고 봉도준(손호준 분)의 다음 희생자로 지목당한 송설(공승연 분)은 기적적으로 살았다. 방화범은 양산만으로 밝혀졌다. 양산만은]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['소옆경2' 손호준 희생 헛되지 않았다...김래원 연쇄방화범 체포 성공]]></title>
-        <id>https://v.daum.net/v/20230812231133124</id>
-        <link href="https://v.daum.net/v/20230812231133124"/>
-        <updated>2023-08-12T15:09:18.186Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 오수정 기자) '소방서 옆 경찰서 그리고 국과수'에서 김래원이 연쇄방화범을 잡는데 성공했다.&nbsp; 12일 방송된 SBS 금토드라마 '소방서 옆 경찰서 그리고 국과수' 4회에서는 진호개(김래원 분)가 연쇄방화범 양상만(윤상화)을 드디어 잡았다.&nbsp; 연쇄방화범의 마지막 타킷은 송설(공승연)이 살고 있는 오피스텔이었다. 송설은 오피스텔 엘리베이터에서 양]]></content>
     </entry>
 </feed>
