@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/variety</id>
     <title>다음 연예 ─ 뉴스 ─ 예능</title>
-    <updated>2023-08-12T03:10:24.657Z</updated>
+    <updated>2023-08-12T04:11:48.917Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[암 완치 고백 윤도현 ‘흰수염고래’ 열창, 여전한 록스피릿]]></title>
+        <id>https://v.daum.net/v/20230812130940737</id>
+        <link href="https://v.daum.net/v/20230812130940737"/>
+        <updated>2023-08-12T04:11:36.876Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 박수인 기자] YB 윤도현이  ‘흰수염고래’를 열창하며 관객들에 ‘혼자가 아니야’라는 메시지를 전한다. 8월 12일 방송되는 KBS 2TV ‘불후의 명곡’(연출 박민정 박형근 신수정 이희성) 619회는 ‘록 페스티벌 in 울산’ 특집 2부로 꾸며진다. 마지막 피날레 무대의 주인공인 YB는 ‘지구상에서 가장 크고 힘도 센 흰수염고래는 아무도 헤치지]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[송가인 출격에 시청률 급상승, "맛깔난 남도 요리 퍼레이드"]]></title>
         <id>https://v.daum.net/v/20230812113807986</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230812104821538"/>
         <updated>2023-08-12T02:13:05.911Z</updated>
         <content type="html"><![CDATA[[OSEN=최나영 기자]&nbsp;'배틀트립2'&nbsp;허경환이&nbsp;대만의&nbsp;핫플로&nbsp;MZ들을&nbsp;저격한다. 12일&nbsp;방송되는&nbsp;KBS&nbsp;2TV&nbsp;'배틀트립2'에서는&nbsp;지난주에&nbsp;이어&nbsp;'MC&nbsp;특집&nbsp;졸업&nbsp;여행&nbsp;팀장&nbsp;대결!'로&nbsp;꾸며져&nbsp;MC&nbsp;성시경,&nbsp;이용진,&nbsp;허경환,&nbsp;미주,&nbsp;아이키의&nbsp;대만&nbsp;타이베이&nbsp;여행이&nbsp;그려진다. 앞서&nbsp;첫째&nbsp;날&nbsp;이용진이&nbsp;'로컬&nbsp;DAY'로&nbsp;투어를&nbsp;꾸민&nbsp;가운데&nbsp;둘째&nbsp;날&nbsp;투어를&nbsp;준비]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["덱스, 빠니보틀 어디니?"..기안84, 아무말 대잔치]]></title>
-        <id>https://v.daum.net/v/20230812104811537</id>
-        <link href="https://v.daum.net/v/20230812104811537"/>
-        <updated>2023-08-12T02:13:05.913Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 | 이승훈 기자] /사진=MBC '태어난 김에 세계일주 시즌2'(태계일주2) 방송인 기안84가 7동자들과 예상치 못한 언어 장벽에 부딪혔다. 13일 오후 방송되는 MBC '태어난 김에 세계일주 시즌2'(이하 '태계일주2') 마지막 회에서는 기안84가 '코르족 마을'의 귀여운 7동자들과 마지막 추억을 쌓는 모습이 공개된다. 7동자들과 온기를]]></content>
     </entry>
 </feed>
