@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-08-12T21:09:00.032Z</updated>
+    <updated>2023-08-12T22:09:11.890Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[놀란 '오펜하이머'→정우성 감독 데뷔작 등판…여름 극장가 2라운드]]></title>
+        <id>https://v.daum.net/v/20230813070003508</id>
+        <link href="https://v.daum.net/v/20230813070003508"/>
+        <updated>2023-08-12T22:08:47.746Z</updated>
+        <content type="html"><![CDATA[(서울=뉴스1) 장아름 기자 = 여름 극장가가 광복절 연휴와 함께 스크린 대전 2라운드에 돌입한다. 앞서 극장가는 성수기를 맞아 지난 7월 말부터 한국영화 대작을 잇따라 선보였다. '밀수'(감독 류승완)에 이어 '더 문'(감독 김용화),'비공식작전'(감독 김성훈) 그리고 '콘크리트 유토피아'(감독 엄태화)까지 4편의 대작이 관객들을 만났다. 이어 오는]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['콘크리트 유토피아', 웰메이드? 'YES' 추천? 'NO']]></title>
         <id>https://v.daum.net/v/20230813000040263</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230812125949615"/>
         <updated>2023-08-12T04:11:25.924Z</updated>
         <content type="html"><![CDATA[배우 박정민(사진=샘컴퍼니)[이데일리 스타in 윤기백 기자] “제가 태어나기도 전에 배우로 데뷔하셨더라고요. 대선배와 함께 연기할 수 있어 영광입니다.” 배우 박정민이 영화 ‘밀수’에서 호흡을 맞춘 배우 김혜수에 대해 이같이 언급했다. 박정민은 1987년에 태어났고, 김혜수는 그보다 1년 전인 1986년에 영화 ‘깜보’로 데뷔했다. 박정민은 “김혜수 선]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['달짝지근해' 감독 "카메오 정우성, '제가 보고 싶은가 봐요'라고"]]></title>
-        <id>https://v.daum.net/v/20230812125011525</id>
-        <link href="https://v.daum.net/v/20230812125011525"/>
-        <updated>2023-08-12T04:11:25.928Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 김유진 기자) '달짝지근해' 이한 감독이 '증인'으로 호흡을 맞췄던 정우성의 카메오 출연에 고마움을 표했다. 이한 감독은 10일 오전 온라인으로 진행된 영화 '달짝지근해: 7510' 인터뷰에서 다양한 이야기를 전했다. '달짝지근해: 7510'은 과자밖에 모르는 천재적인 제과 연구원 치호(유해진 분)가 직진밖에 모르는 긍정 마인드의 일영(김희선]]></content>
     </entry>
 </feed>
