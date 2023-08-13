@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-08-13T18:11:42.389Z</updated>
+    <updated>2023-08-13T19:08:40.931Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘서울대생’ 정은표子 정지웅 “수능 100일 전, 하던 대로 하면 돼” 조언]]></title>
+        <id>https://v.daum.net/v/20230814033019846</id>
+        <link href="https://v.daum.net/v/20230814033019846"/>
+        <updated>2023-08-13T19:08:21.969Z</updated>
+        <content type="html"><![CDATA[[OSEN=박하영 기자] ‘걸어서 환장 속으로’ 정지웅이 수능 100일 전 느꼈던 감정을 떠올렸다. 13일 방송된 KBS 2TV 가족 여행 버라이어티 ‘걸어서 환장속으로’(이하 ‘걸환장’)에서는 데뷔 33년 차 팔색조 배우 정은표는 아내 김하얀, 첫째 아들 정지웅, 막내아들 정지훤과 함께 말레이시아 말라카 가족 여행을 떠났다. 이날 베네치아를 본 떠 만]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[종영 '아씨두리안' 김민준, 결국 최명길 손에 생 마감?..충격 엔딩]]></title>
         <id>https://v.daum.net/v/20230814010419453</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230813223208677"/>
         <updated>2023-08-13T14:08:18.454Z</updated>
         <content type="html"><![CDATA[(엑스포츠뉴스 이슬 기자) '경소문2' 악귀 진선규가 사람을 죽이며 더 강해진 가운데, 카운터들이 맞섰다. 13일 방송된 tvN '경이로운 소문2: 카운터 펀치'(이하 '경소문2')에서는 악귀 마주석(진선규 분)과 이를 자극하는 황선생과 이를 막는 카운터들의 모습이 그러졌다. 악귀에 씌인 마주석는 소문(조병규), 도하나(김세정)의 설득에도 복수를 향해 떠났]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[강기영, 진선규 불러내기 위해 母 수술실 습격… 김히어라 “죽이면 진선규 움직일까”]]></title>
-        <id>https://v.daum.net/v/20230813221542583</id>
-        <link href="https://v.daum.net/v/20230813221542583"/>
-        <updated>2023-08-13T14:08:18.458Z</updated>
-        <content type="html"><![CDATA[카운터즈와 악귀즈의 대결이 시작됐다. 13일 방송된 tvN 드라마 ‘경이로운 소문2: 카운터 펀치’에서는 악귀가 된 마주석(진선규)과 카운터즈, 악귀즈의 대결이 시작된다. 이날 마주석은 악귀가 되어 탈옥을 감행하고, 소문(조병규)과 대원들은 이를 알아챘다. 필광(강기영)과 겔리(김히어라) 또한 이를 알고 수술을 받고 있는 마주석의 엄마를 찾아갔다.]]></content>
     </entry>
 </feed>

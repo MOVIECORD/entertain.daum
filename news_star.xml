@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2023-08-13T18:11:42.396Z</updated>
+    <updated>2023-08-13T19:08:40.930Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“‘D.P.’같은 이야기 통해 국가가 더 나은 방향으로 가길”]]></title>
+        <id>https://v.daum.net/v/20230814040726954</id>
+        <link href="https://v.daum.net/v/20230814040726954"/>
+        <updated>2023-08-13T19:08:34.427Z</updated>
+        <content type="html"><![CDATA[“군대는 의무도 있는 거 아니에요? 병사들을 지켜야 할 의무요.” 군 장정 인권센터의 신혜연 간사가 큰 소리로 반문한다. 그는 군대 내에서 벌어지는 폭력과 부조리에 대해 국가의 책임을 묻는다. 국가를 ‘방조범’이라 부른다. 넷플릭스 시리즈 ‘D.P.’가 담고 있는 메시지가 신혜연의 입을 통해 흘러나온다. ‘D.P.’는 지난 2021년 8월 시즌1이 공개됐]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['미우새' 이상민, "가장 힘들 때 만난 사람"…오래된 디카에서 '옛 연인 대게녀' 사진 발견]]></title>
         <id>https://v.daum.net/v/20230814022100515</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230813232000919"/>
         <updated>2023-08-13T15:09:44.611Z</updated>
         <content type="html"><![CDATA[[TV리포트=이지민 기자] ‘걸어서 환장 속으로’ 박나래가 엄마와 티격태격하는 모습을 보였다. 13일 KBS 2TV 가족 여행 버라이어티 ‘걸어서 환장속으로’(이하 ‘걸환장’)에서는 MC 박나래, 엄마 고명숙과 ‘엄마 친구’ 이선자, 구정희의 이탈리아 로마 효도 여행 3일차가 전파를 탔다. 이날 박나래와 마미즈는 로마 전통 시장에 방문했다. 박나래는 마]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['런닝맨' 지석진, 송지효에 "과메기 왜 난 한 번만 보내" 서운함 폭발]]></title>
-        <id>https://v.daum.net/v/20230813231800914</id>
-        <link href="https://v.daum.net/v/20230813231800914"/>
-        <updated>2023-08-13T15:09:44.622Z</updated>
-        <content type="html"><![CDATA[[SBS연예뉴스 | 김효정 에디터] 지석진이 송지효에게 서운함을 밝혔다. 13일 방송된 SBS '런닝맨'에서는 '런닝맨이 떴다 2탄'을 위해 강원도 고성으로 떠난 멤버들의 모습이 그려졌다. 이날 방송에서 유재석은 "지효가 홍콩에 다녀오면서 쿠키를 사서 갖다 줬다"라며 고마워했다. 이에 다른 멤버들은 "뭐야. 나는 쿠키를 받은 적 없어"라고 서운함을 드러냈다]]></content>
     </entry>
 </feed>
