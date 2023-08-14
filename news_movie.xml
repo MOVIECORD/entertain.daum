@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-08-14T01:43:07.117Z</updated>
+    <updated>2023-08-14T02:15:44.275Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘콘유’ 이병헌·박서준·박보영, 토론토영화제 참석]]></title>
+        <id>https://v.daum.net/v/20230814110902553</id>
+        <link href="https://v.daum.net/v/20230814110902553"/>
+        <updated>2023-08-14T02:15:22.196Z</updated>
+        <content type="html"><![CDATA[이병헌·박서준·박보영이 토론토영화제에 참석한다. 롯데엔터테인먼트는 14일 영화 ‘콘크리트 유토피아’의 주역들, 이병헌 박서준 박보영 그리고 엄태화 감독이 제48회 토론토 국제영화제 참석을 확정했다고 밝혔다. 칸 국제영화제, 베를린 국제영화제, 베니스 국제영화제와 함께 세계 4대 국제영화제로 손꼽히는 토론토 국제영화제는 대중성과 작품성을 겸비한 다채로운 작품]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[현대 사회의 축소판, 이 영화가 던지는 질문]]></title>
+        <id>https://v.daum.net/v/20230814105101767</id>
+        <link href="https://v.daum.net/v/20230814105101767"/>
+        <updated>2023-08-14T02:15:22.196Z</updated>
+        <content type="html"><![CDATA[[김동근 기자] ▲ &nbsp;영화 &lt;콘크리트 유토피아&gt; 포스터ⓒ 롯데컬처웍스(주)롯데엔터테인먼트&nbsp; 우리가 사는 사회 시스템은 개개인들이 좀 더 체계적으로 살 수 있는 틀을 제공한다. 집이 물리적인 공간을 의미한다면, 사회는 보이지 않는 공간이다. 개인, 가족, 사회는 국가 단위로 그 단위를 확장할 수 있다. 그 속에서 우리는 오랜 시간 동안 필요한 것들을 채워 넣]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["한국이 사랑한 아버지, 기쁜 마음으로 제천 왔어요"]]></title>
         <id>https://v.daum.net/v/20230814104200403</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230814084836395"/>
         <updated>2023-08-14T00:44:26.861Z</updated>
         <content type="html"><![CDATA[(서울=뉴스1) 고승아 기자 = 배우 임수정이 영화 '거미집'(감독 김지운)에서 1970년대 베테랑 배우로 분해 새로운 변신을 선보인다. 14일 배급사 바른손이앤에이에 따르면 임수정이 '거미집'에서 베테랑 배우 이민자 역을 맡아 각기 다른 개성을 가진 배우들 사이에서 여유와 관록을 잃지 않는 베테랑 연기력을 선보인다. '거미집'은 1970년대, 다 찍은]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘밀수’ 손익분기점 돌파×‘콘크리트 유토피아’ 154만 동원, “韓영화 쌍끌이흥행”]]></title>
-        <id>https://v.daum.net/v/20230814084538302</id>
-        <link href="https://v.daum.net/v/20230814084538302"/>
-        <updated>2023-08-14T00:44:26.861Z</updated>
-        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]류승완 감독의 ‘밀수’가 손익분기점을 넘어선데 이어 엄태화 감독의 ‘콘크리트 유토피아’가 개봉 첫주 박스오피스 1위에 오르는 등 한국영화 쌍끌이 흥행이 지속되고 있다. 14일 영진위 통합전산망에 따르면, '밀수'는 지난 11일부터 13일까지 전국 42만 5,442명을 동원해 주말 박스오피스 2위에 올랐다. 누적 관객 수는]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“진짜 사람 한 번 구해봅시다”..‘더 문’, 관객들 마음에 수놓인 129분의 우주]]></title>
-        <id>https://v.daum.net/v/20230814083710088</id>
-        <link href="https://v.daum.net/v/20230814083710088"/>
-        <updated>2023-08-14T00:44:26.862Z</updated>
-        <content type="html"><![CDATA[[OSEN=강서정 기자] 올여름 관객들의 오감을 만족시킬 단 하나의 영화 ‘더&nbsp;문’(김용화 감독)이 눈 뗄 수 없는 명장면 &amp; 명대사를 공개했다. 사고로 인해 홀로 달에 고립된 우주 대원 선우와 필사적으로 그를 구하려는 전 우주센터장 재국의 사투를 그린 영화 ‘더&nbsp;문’이 관객들을 사로잡은 명장면 &amp; 명대사 BEST 3를 전격 공개했다. #1 “진짜 사람]]></content>
     </entry>
 </feed>
