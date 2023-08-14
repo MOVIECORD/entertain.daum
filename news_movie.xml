@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-08-14T22:10:17.614Z</updated>
+    <updated>2023-08-14T23:10:24.920Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘보호자’ 정우성 감독님, 본업부터 잘합시다]]></title>
+        <id>https://v.daum.net/v/20230815080206532</id>
+        <link href="https://v.daum.net/v/20230815080206532"/>
+        <updated>2023-08-14T23:10:00.803Z</updated>
+        <content type="html"><![CDATA[[티브이데일리 최하나 기자] 정우성스러운 연출로 차별화를 뒀다는데, 글쎄다. 멋 부리다가 개연성은 산으로, 캐릭터는 하늘로 간다. 진부한 클리셰를 더 진부하게, 더 올드하게 풀어냈다. 부디 정우성 감독이 본업부터 잘했으면 하는 생각이 절로 드는 ‘보호자’다. 15일 개봉되는 영화 ‘보호자’(감독 정우성)는 10년 만에 출소해 몰랐던 딸의 존재를 알고 평범]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[정우성 “레퍼런스 없는 ‘보호자’...반항심으로 연출 도전”]]></title>
+        <id>https://v.daum.net/v/20230815073300259</id>
+        <link href="https://v.daum.net/v/20230815073300259"/>
+        <updated>2023-08-14T23:10:00.806Z</updated>
+        <content type="html"><![CDATA[“영화인으로서의 반항심, 책임감이었던 것 같아요. 진부한 레퍼런스를 상업 영화라는 변명 아래 도전하지 않고, 안주하는 것에 대한 깊은 고뇌가 있었고요. 이 일을 오래하고 싶고, 진심으로 애정하는 사람으로서, 한국 영화의 ‘도전 부재’가 속상했고, 그래서 용기를 냈습니다. 가능성을 보여주고 싶은 마음에서요.” 감독 정우성(50)은 연출 계기를 묻는 질문에 이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['달짝지근해', 한층 유해진 얼굴로 바라보게되는 코믹 로맨스]]></title>
         <id>https://v.daum.net/v/20230815070005959</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230814183909288"/>
         <updated>2023-08-14T10:11:29.716Z</updated>
         <content type="html"><![CDATA[[서울경제] 죽음의 신이 된 남자, 원폭의 아버지라고 알려진 오펜하이머의 이야기가 크리스토퍼 놀란 감독의 손에 의해 영화로 탄생됐다. 킬리언 머피, 로버트 다우니 주니어, 맷 데이먼, 플로렌스 퓨 등의 화려한 캐스팅 라인업은 덤이다. '오펜하이머'(감독 크리스토퍼 놀란)는 미국의 물리학자 줄리어스 로버트 오펜하이머(킬리언 머피)가 닐스 보어(케네스 브래너]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['콘크리트 유토피아' 이병헌X박서준X박보영, 토론토영화제 간다]]></title>
-        <id>https://v.daum.net/v/20230814182107907</id>
-        <link href="https://v.daum.net/v/20230814182107907"/>
-        <updated>2023-08-14T10:11:29.717Z</updated>
-        <content type="html"><![CDATA[[마이데일리 = 노한빈 기자] 영화 '콘크리트 유토피아'가 제48회 토론토 국제영화제 공식 초청된 가운데 배우 이병헌, 박서준, 박보영, 엄태화 감독이 영화제 참석을 확정 지었다. '콘크리트 유토피아'의 이병헌, 박서준, 박보영, 엄태화 감독이 오는 7일부터 17일까지 열리는 제48회 토론토 국제영화제에 공식 초청되어 참석을 확정했다. 칸 국제영화제, 베]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[하정우·임시완 '1947 보스톤', 일장기 단 손기정 실화 9월 27일 개봉]]></title>
-        <id>https://v.daum.net/v/20230814181401667</id>
-        <link href="https://v.daum.net/v/20230814181401667"/>
-        <updated>2023-08-14T10:11:29.719Z</updated>
-        <content type="html"><![CDATA[[OSEN=하수정 기자] 영화 '1947 보스톤'(감독 강제규, 제공 롯데엔터테인먼트·미시간벤쳐캐피탈㈜·㈜콘텐츠지오, 배급 롯데엔터테인먼트·㈜콘텐츠지오, 제작 ㈜비에이엔터테인먼트,㈜빅픽쳐)이 9월 27일 개봉을 확정 짓고 스페셜 포스터와 예고편을 공개했다.&nbsp; 대한민국 최초의 국가대표 마라토너들의 감동 실화를 다룬 영화 '1947 보스톤'이 9월 27일]]></content>
     </entry>
 </feed>
