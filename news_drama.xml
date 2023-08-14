@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-08-14T21:09:47.071Z</updated>
+    <updated>2023-08-14T22:10:17.610Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[윤계상X유나, 수상한 동행 메인 포스터 공개]]></title>
+        <id>https://v.daum.net/v/20230815070011969</id>
+        <link href="https://v.daum.net/v/20230815070011969"/>
+        <updated>2023-08-14T22:09:56.043Z</updated>
+        <content type="html"><![CDATA[[동아닷컴] 사진제공= ENAENA 새 수목드라마 ‘유괴의 날’ 윤계상, 유나의 수상한 여정이 시작된다. ‘유괴의 날’은 어설픈 유괴범 김명준과 11살 천재 소녀 최로희의 세상 특별한 공조를 담은 코믹 버디 스릴러다. 어딘가 2% 부족하고 허술한 유괴범과 똑 부러지고 시크한 천재 소녀의 진실 추적이 색다른 재미와 감동을 선사한다. 한국 스릴러 장르를 대표]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['소용없어 거짓말' 황민현, 김소현 향한 사랑 시작…마스크 벗고 얼굴 공개]]></title>
         <id>https://v.daum.net/v/20230814223024772</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230814172115239"/>
         <updated>2023-08-14T09:10:31.689Z</updated>
         <content type="html"><![CDATA[(엑스포츠뉴스 윤현지 기자) '힙하게' 수호가 첫 등장부터 강렬한 임팩트를 남겼다. 수호는 JTBC 새 토일드라마 '힙하게'에서 꽃미남 아르바이트생 김선우 역으로 분해 나올 때마다 드라마의 분위기를 부드럽게 환기시켜 눈길을 끌고 있다. 지난 2회 방송에서 김선우는 우연히 유기묘를 발견하고 근처 봉예분(한지민 분)의 병원에 방문, 따뜻한 마음과 주변을 환하게]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[650억 대작 '무빙', '오겜' 잇는 K-드라마 되나]]></title>
-        <id>https://v.daum.net/v/20230814165002332</id>
-        <link href="https://v.daum.net/v/20230814165002332"/>
-        <updated>2023-08-14T08:13:36.630Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 이창규 기자) 디즈니+ 오리지널 시리즈 '무빙'(감독 박인제)이 공개된 가운데, 국내외에서 높은 관심을 받고 있다. 지난 9일 1~7회가 동시공개된 '무빙'은&nbsp;초능력을 숨긴 채 현재를 살아가는 아이들과 아픈 비밀을 감춘 채 과거를 살아온 부모들의 이야기를 그린 휴먼 액션 시리즈다. 강풀 작가의 동명 웹툰을 원작으로 한 만큼&nbsp;'무빙'은 제작 소]]></content>
     </entry>
 </feed>
