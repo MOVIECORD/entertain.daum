@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/variety</id>
     <title>다음 연예 ─ 뉴스 ─ 예능</title>
-    <updated>2023-08-14T19:09:00.221Z</updated>
+    <updated>2023-08-14T20:14:56.683Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[서장훈, 161→168cm 사지연장술 고백男에 일침 "큰일날 수 있어"]]></title>
+        <id>https://v.daum.net/v/20230815050008112</id>
+        <link href="https://v.daum.net/v/20230815050008112"/>
+        <updated>2023-08-14T20:14:44.450Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 노한빈 기자] 키 크는 수술로 168CM이 된 의뢰인에게 방송인 서장훈이 일침을 가했다. 14일 방송된 KBS Joy '무엇이든 물어보살'에는 키 크는 수술 정보를 공유 중인 34세 유튜버 의뢰인이 찾아왔다. 이날 의뢰인은 "제가 수술하기 전엔 정보를 찾는 게 힘들었다. 정보 공유하면 나 같은 사람들이 조금 더 편하게 정보 습득을 할 수]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[조정석♥거미 미담 부부.. '예비사돈' 정상훈 "덕분에 子대상"]]></title>
         <id>https://v.daum.net/v/20230815035623909</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230814234347117"/>
         <updated>2023-08-14T15:10:10.923Z</updated>
         <content type="html"><![CDATA[[스타뉴스 | 윤성열 기자] /사진='동상이몽 시즌2-너는 내 운명' 방송 화면 배우 정이랑이 '구준표 닮은꼴' 남편에 대한 불안증을 고백했다. 14일 오후 방송된 SBS 예능 프로그램 '동상이몽 시즌2-너는 내 운명'에서는 정이랑, 김형근 부부가 새 운명 부부로 합류했다. 이날 정이랑은 남편 김형근에 대해 "키는 183cm, 몸무게 87kg 건장한]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[결혼 10년차 남편, ♥아내와 각방에 “합방해야만 해피엔딩인가?” 소신 발언]]></title>
-        <id>https://v.daum.net/v/20230814234250113</id>
-        <link href="https://v.daum.net/v/20230814234250113"/>
-        <updated>2023-08-14T15:10:10.925Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 하지원 기자] '쉬는부부' 8282, 돼지토끼 부부가 같은 상황 속 정반대 속마음을 밝혔다. 8월 14일 방송된 MBN ‘쉬는부부’에서 8282와 돼지토끼가 워크숍 둘째 날에 각방을 선택한 이유를 털어놨다. 아내 8282는 "둘째 날은 개인 방에서 잤다, 남편이랑 지난 한 달 안 좋았던 거를 풀고 싶었다. 좀 더 풀고 편안해지고, 돈독해지면 좋겠]]></content>
     </entry>
 </feed>
