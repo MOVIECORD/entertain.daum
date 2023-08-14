@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-08-14T13:13:13.271Z</updated>
+    <updated>2023-08-14T14:10:38.606Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[래퍼 라우, 전 여친 위한 신곡 발표…"널 미친 듯 사랑했다"]]></title>
+        <id>https://v.daum.net/v/20230814224030842</id>
+        <link href="https://v.daum.net/v/20230814224030842"/>
+        <updated>2023-08-14T14:10:37.638Z</updated>
+        <content type="html"><![CDATA[[TV리포트=유비취 기자] 래퍼 라우 알레한드로가 헤어진 여자친구를 가사로 담아냈다. 지난 11일 라우 알레한드로는 소셜네트워크서비스를 통해 깜짝 신곡을 공개했다. 그가 지난 달 결별을 발표한 전 여자친구 로살리아에 대한 마음을 담아낸 신곡이었다. 신곡의 제목은 스페인어인 'Hayami Hana(하야미 하나)'로, '대단한 미인', '특이하고 희귀한 여자']]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[마돈나, 23살 子 생일 기념... "화가는 험난한 길이지만 응원해"]]></title>
         <id>https://v.daum.net/v/20230814220100551</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230814160209875"/>
         <updated>2023-08-14T07:10:41.527Z</updated>
         <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]DC 히어로 무비 ‘샤잠2’의 제커리 레비(42)가 할리우드 영화를 맹비난했다. 13일(현지시간) 엔터테인먼트 위클리에 따르면, 그는 12일 시카고 팬 엑스포에 참석해 할리우드 영화를 “쓰레기”라고 불렀다. 커비는 “개인적으로 할리우드에서 나오는 많은 양의 콘텐츠가 쓰레기라고 생각한다. 그들은 실제로 여러분을 위해 좋은]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연애하다 걸려 삭발한 日 아이돌...결혼했다]]></title>
-        <id>https://v.daum.net/v/20230814155300591</id>
-        <link href="https://v.daum.net/v/20230814155300591"/>
-        <updated>2023-08-14T07:10:41.527Z</updated>
-        <content type="html"><![CDATA[[TV리포트=이수연 기자] 스캔들로 삭발까지 감행한 일본 아이돌 멤버의 근황이 공개됐다. 지난 2013년 2월 일본의 인기 아이돌 멤버가 삭발을 한 채 눈물의 영상을 올린 적이 있었다. 영상의 주인공은 걸그룹 AKB48의 멤버 미네기시 미나미로 그룹 제너레이션스의 멤버 시라하마 아란과의 스캔들에 대한 사과문이었다. 당시 미네기시 미나미는 남성의 집에서 나오]]></content>
     </entry>
 </feed>
