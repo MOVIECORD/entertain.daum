@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-08-14T10:11:56.510Z</updated>
+    <updated>2023-08-14T11:09:37.020Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김준한 "'보호자' 위해 5kg 찌워…먹고 또 먹었다"]]></title>
+        <id>https://v.daum.net/v/20230814200157320</id>
+        <link href="https://v.daum.net/v/20230814200157320"/>
+        <updated>2023-08-14T11:09:09.302Z</updated>
+        <content type="html"><![CDATA[배우 김준한이 영화 '보호자'를 위해 증량까지 불사했다고 밝혔다. 14일 김준한은 서울 종로구의 한 카페에서 iMBC연예와 만나 영화 '보호자'(감독 정우성) 관련 화상 인터뷰를 진행했다. '보호자'는 10년 만에 출소해 몰랐던 딸의 존재를 알고 평범하게 살기를 원하는 수혁과 그를 노리는 이들 사이의 이야기를 그린 액션 영화다. 정우성 감독의 첫 장편]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["꾸준히 만들자 그게 내 의무"... '범죄도시' 제작자의 뚝심]]></title>
         <id>https://v.daum.net/v/20230814190920719</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230814165515468"/>
         <updated>2023-08-14T08:13:30.763Z</updated>
         <content type="html"><![CDATA[[뉴스엔 배효주 기자] 이하늬가 '유령'으로 벡델데이2023 영화 부문 올해의 벡델리안(배우)에 선정됐다. 8월 14일 소속사 사람엔터테인먼트 측은 “한국 영화영상 미디어에서의 성평등 재현을 돌아보는 벡델데이2023 영화 부문 벡델리안에 이하늬가 선정됐다”고 밝혔다. 벡델데이는 미국의 만화가 앨리슨 벡델(Alison Bechdel)이 영화 속에서 성평등이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이선희, ‘밀수’→‘콘크리트 유토피아’까지‥올여름 대표 신스틸러]]></title>
-        <id>https://v.daum.net/v/20230814165251406</id>
-        <link href="https://v.daum.net/v/20230814165251406"/>
-        <updated>2023-08-14T08:13:30.764Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 배효주 기자] 이선희가 ‘콘크리트 유토피아’에서 명품 신스틸러임을 증명했다. 8월 9일 개봉한 영화 ‘콘크리트 유토피아’(감독 엄태화)는 대지진으로 폐허가 되어 버린 서울, 유일하게 남은 황궁 아파트로 생존자들이 모여들며 시작되는 이야기를 그린 재난 드라마다. 이선희는 황궁 아파트 근처의 고급 아파트 드림 팰리스 주민이었지만 건물이 무너지고 생존]]></content>
     </entry>
 </feed>
