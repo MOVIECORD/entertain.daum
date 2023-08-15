@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-08-15T02:15:15.202Z</updated>
+    <updated>2023-08-15T03:11:27.198Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[핵 개발한 과학자의 호기심과 죄책감]]></title>
+        <id>https://v.daum.net/v/20230815114502788</id>
+        <link href="https://v.daum.net/v/20230815114502788"/>
+        <updated>2023-08-15T03:11:03.960Z</updated>
+        <content type="html"><![CDATA[[김준모 기자] &nbsp;▲ &nbsp;&lt;오펜하이머&gt; 스틸컷ⓒ 유니버설 픽쳐스&nbsp; &lt;메멘토&gt;, &lt;인셉션&gt;, &lt;테넷&gt;, &lt;다크 나이트&gt; 시리즈 등 획기적인 시도와 독창적인 스토리텔링으로 주목을 받은 크리스토퍼 놀란은 이견이 없는 현시대 거장 중 한 명이라 할 수 있다. 그의 신작 &lt;오펜하이머&gt;는 특별한 인물의 평전을 원작으로 했다. 그 주인공은 세계 최초의 핵무기 개발 프로젝]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["부끄럽지 않은 감독"..'보호자' 정우성의 첫 걸음]]></title>
+        <id>https://v.daum.net/v/20230815113006594</id>
+        <link href="https://v.daum.net/v/20230815113006594"/>
+        <updated>2023-08-15T03:11:03.963Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 | 김나연 기자] 영화 '보호자'의 정우성 감독이 10일 진행된 라운드 인터뷰를 위해 포즈를 취하고 있다.   10년 만에 출소해 몰랐던 딸의 존재를 알고 평범하게 살기를 원하는 수혁(정우성)과 그를 노리는 자들 사이의 이야기를 그린 영화 '보호자'는 오는 15일 개봉한다. /사진제공=에이스메이커무비웍스 2023.08.10 /사진=이동훈배우 정우]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘달짝지근해’ 유해진 “김희선과 로맨스? 제가 복이 많아요”]]></title>
         <id>https://v.daum.net/v/20230815103300494</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230815085100070"/>
         <updated>2023-08-15T00:43:37.899Z</updated>
         <content type="html"><![CDATA[[OSEN=김보라 기자]&nbsp;이달 9일 개봉한 영화 ‘콘크리트 유토피아’가 6일 연속 박스오피스 1위를 차지한 가운데 오늘(15일) 200만 관객을 돌파할 것으로 전망된다. 국내외 신작 3편이 동시 개봉하는데 ‘콘크리트 유토피아’는 이를 방어하고 200만 명을 넘어설지 주목된다. 15일 영화진흥위원회 영화관입장권 통합전산망 집계를 보면 어제(14일) ‘콘크]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘몸값’ 토론토영화제 초청… 유럽 이어 북미도 주목]]></title>
-        <id>https://v.daum.net/v/20230815083001813</id>
-        <link href="https://v.daum.net/v/20230815083001813"/>
-        <updated>2023-08-15T00:43:37.901Z</updated>
-        <content type="html"><![CDATA[티빙 오리지널 시리즈 ‘몸값’이 해외에서 꾸준히 주목받고 있다. 티빙은 ‘몸값’이 제48회 토론토국제영화제 프라임타임(Primetime) 부문에 공식 초청됐다고 15일 밝혔다. 이로써 ‘몸값’은 올 상반기 프랑스 칸 시리즈 각본상, 독일 시리엔캠프 비평가상 수상에 이어 북미에서도 주목을 받게 됐다. 올해로 48회를 맞은 토론토국제영화제는 칸, 베를린,]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['콘크리트 유토피아' 오늘 200만 넘는다…6일 연속 1위]]></title>
-        <id>https://v.daum.net/v/20230815081357651</id>
-        <link href="https://v.daum.net/v/20230815081357651"/>
-        <updated>2023-08-15T00:43:37.905Z</updated>
-        <content type="html"><![CDATA[[OSEN=김보라 기자]&nbsp;영화 ‘콘크리트 유토피아’가 6일 연속 박스오피스 1위를 차지했다. 15일 영화진흥위원회 영화관입장권 통합전산망 집계를 보면 지난 14일 ‘콘크리트 유토피아’는 28만 7154명이 들어 일별 박스오피스 1위를 차지했다. 이달 9일 개봉해 6일째다. 이날까지 ‘콘크리트 유토피아’의 누적 관객수는 183만 3414명. 광복절 휴일인]]></content>
     </entry>
 </feed>
