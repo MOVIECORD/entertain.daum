@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-08-15T12:18:51.229Z</updated>
+    <updated>2023-08-15T13:12:36.731Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["어디서 애딸린 홀애비를 만나"...이응경, 윤다영에게 분노]]></title>
+        <id>https://v.daum.net/v/20230815213930532</id>
+        <link href="https://v.daum.net/v/20230815213930532"/>
+        <updated>2023-08-15T13:12:16.343Z</updated>
+        <content type="html"><![CDATA[[TV리포트=김유진 기자] 서준영이 김동윤에게 멱살을 잡혔다. 15일 방영된 KBS 일일드라마 '금이야옥이야' 98회에서는 금강산(서준영)과 옥미래(윤다영)의 교제 사실이 알려지면서 옥재현(김동윤)이 금강산의 멱살을 잡는 모습이 그려졌다. 옥미래는 멱살 잡힌 금강산을 보며 옥재현을 말렸다. 이어 "내가 먼저 강산씨 좋아한다고 했다"며 엄마 황찬란(이응경)에]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘몸값’ 잘 나가네, 토론토국제영화제 프라임타임 부문 초청]]></title>
         <id>https://v.daum.net/v/20230815211658329</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230815172745066"/>
         <updated>2023-08-15T09:10:20.479Z</updated>
         <content type="html"><![CDATA[[OSEN=장우영 기자] ‘우아한 제국’이 시청률 상승세를 탔다. 14일 방송된 KBS2 일일드라마 '우아한 제국'(극본 한영미, 연출 박기호) 5회 시청률이 8.8%(닐슨코리아, 전국 기준)로 전회 대비 0.2% 상승했다. 특히, 주요 인물들간 갈등이 본격화되면서 시청률도 상승해 향후 추이에 더욱 관심이 모아지고 있다. 재클린(손성윤)은 서희재(한지완]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김은숙 "애국 드라마 하고 싶었다"… '대사 오글거려' 반응에 내놓은 대답은?]]></title>
-        <id>https://v.daum.net/v/20230815171900908</id>
-        <link href="https://v.daum.net/v/20230815171900908"/>
-        <updated>2023-08-15T09:10:20.481Z</updated>
-        <content type="html"><![CDATA[넷플릭스 시리즈 '더 글로리' 제작발표회에서 김은숙 작가가 포토타임을 진행하고 있다. /사진=OSEN 지형준 기자 넷플릭스 시리즈 '더 글로리'의 김은숙 작가가 더 글로리 송혜교, '미스터 션샤인' 이병헌 등과 호흡을 맞춘 소감을 전했다. 15일 방송된 KBS 해피FM '송진우의 용감한 라디오' 100회 특집에는 김은숙 작가가 게스트로 출연했다. 김 작가는]]></content>
     </entry>
 </feed>
