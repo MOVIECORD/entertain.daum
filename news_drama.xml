@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-08-15T09:10:38.332Z</updated>
+    <updated>2023-08-15T10:11:07.649Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['무빙' 시청자들이 외칩니다 "수요일 언제 와"]]></title>
+        <id>https://v.daum.net/v/20230815190211587</id>
+        <link href="https://v.daum.net/v/20230815190211587"/>
+        <updated>2023-08-15T10:10:50.602Z</updated>
+        <content type="html"><![CDATA[하늘을 날아다니고, 저 멀리 있는 물체를 보거나 소리를 듣고, 절대 다치지 않는, 특별한 초능력을 가진 슈퍼 히어로들이 안방으로 날아들었다. 할리우드 영화에서나 볼 법한 이야기를 웰메이드 한국형 히어로물로 만들어냈다. 제작비는 무려 500억, 일반 드라마보다 긴 20부작으로 구성됐다. 그 주인공은 바로 '무빙'이다. 누적 조회 수 2억 뷰를 기록하며 인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['기적의 형제' 기적 만든 박유림x오만석x이기우 명품 배우들의 향연]]></title>
         <id>https://v.daum.net/v/20230815175305532</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230815144425620"/>
         <updated>2023-08-15T06:13:29.738Z</updated>
         <content type="html"><![CDATA[[OSEN=장우영 기자] ‘가슴이 뛴다’ 옥택연과 원지안의 운명은 어떤 결말을 마주할까. 15일 밤 9시 45분 방송되는 KBS2 월화드라마 ‘가슴이 뛴다’(극본 김하나 정승주, 연출 이현석 이민수, 제작 위매드, 몬스터유니온) 최종회에서는 선우혈(옥택연)과 주인해(원지안)가 처음이자 마지막으로 바다 여행을 떠난다. 앞서 인해에게 돌아온 우혈은 자신에게]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[곽민호 "제가 너무 사랑하는 그녀!" 최명길과 30세 차♥︎ 종영소감]]></title>
-        <id>https://v.daum.net/v/20230815140821928</id>
-        <link href="https://v.daum.net/v/20230815140821928"/>
-        <updated>2023-08-15T05:09:51.846Z</updated>
-        <content type="html"><![CDATA[[OSEN=최나영 기자]&nbsp;TV CHOSUN&nbsp;주말 미니시리즈&nbsp;'아씨 두리안'에서 최명길과 파격적인 멜로 연기를 선보여 안방극장에 신선한 충격과 전율을 안겨준 배우 곽민호가 마지막 회를 마친 종영 소감을 전했다. 곽민호는 지난&nbsp;13일 방송된&nbsp;‘아씨 두리안’(극본 피비(Phoebe,&nbsp;임성한),&nbsp;연출 신우철,&nbsp;정여진)&nbsp;최종화에서 한시도 눈을 뗄 수 없는 연기]]></content>
     </entry>
 </feed>
