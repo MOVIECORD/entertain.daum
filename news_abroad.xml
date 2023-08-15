@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-08-15T08:13:58.095Z</updated>
+    <updated>2023-08-15T09:10:38.334Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[방탄, 일본서 '4794억' 벌어왔다]]></title>
+        <id>https://v.daum.net/v/20230815180031650</id>
+        <link href="https://v.daum.net/v/20230815180031650"/>
+        <updated>2023-08-15T09:10:37.596Z</updated>
+        <content type="html"><![CDATA[[TV리포트=강성훈 기자] 일본에서 가장 성공한 한국 가수는 누구일까. 최근 외신 'allkpop'의 보도에 따르면 2018년부터 2022년까지 K-POP 가수 오리콘 CD, DVD 매출 랭킹 결과 방탄소년단이 1위를 차지했다. 이어 트와이스가 2위, 세븐틴이 3위를 기록했다.&nbsp; 1위를 기록한 방탄소년단의 경우 2018년부터 2022년까지 521억 9400]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[패리스 힐튼, 최악의 산불 하와이 휴가 강행에 비난…"도움 주고 있다" 해명]]></title>
         <id>https://v.daum.net/v/20230815155615692</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230815073030237"/>
         <updated>2023-08-14T23:10:24.008Z</updated>
         <content type="html"><![CDATA[[TV리포트=유비취 기자] 래퍼 카니예 웨스트와 그의 아내의 기이한 행동이 포착되고 있다. 카니예 웨스트와 그의 아내 비앙카 센소리는 지난 1일부터 일주일간 이탈리아에서 휴가를 보냈다. 휴가를 보내는 동안 두 사람은 신발을 신지 않거나 특이한 옷을 착용하는 등 눈에 띄는 행동을 해 이목을 끌었다. 카니예 웨스트와 비앙카 센소리는 호텔에서 저녁 식사를 마친]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[최악의 화재 참사 난 하와이서 휴가 즐긴 패리스 힐튼]]></title>
-        <id>https://v.daum.net/v/20230815003500392</id>
-        <link href="https://v.daum.net/v/20230815003500392"/>
-        <updated>2023-08-14T16:13:40.258Z</updated>
-        <content type="html"><![CDATA[[TV리포트=이혜미 기자] 하와이가 최악의 산불로 신음하고 있는 가운데 세계적인 호텔 체인 힐튼호텔의 상속녀 패리스 힐튼이 휴양을 위해 하와이를 찾았다 뭇매를 맞았다. 14일(현지시간) 영국 데일리메일 보도에 따르면 남편 카터 라움, 아들 알렉스와 산불 피해가 발생한 하와이 마우이 섬을 찾아 휴가를 즐겼다. 힐튼 가족이 방문한 와일레아 지역의 해변은 산불로]]></content>
     </entry>
 </feed>
