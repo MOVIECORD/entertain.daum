@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-08-16T07:09:58.368Z</updated>
+    <updated>2023-08-16T08:13:39.911Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['상견니' 허광한, 새 영화서 맨몸 공개...이미지 변신]]></title>
+        <id>https://v.daum.net/v/20230816165300373</id>
+        <link href="https://v.daum.net/v/20230816165300373"/>
+        <updated>2023-08-16T08:13:39.192Z</updated>
+        <content type="html"><![CDATA[[TV리포트=안수현 기자] 대만 배우 허광한(32)의 엉덩이 노출 장면이 넷플릭스에서 공개면서 그가 출연한 영화 '메리 마이 데드 바디'가 다시 주목받고 있다. 지난 2월 개봉한 영화 '메리 마이 데드 바디'는 대만에서 가장 크게 흥행한 영화 중 하나다. 이 영화에는 대만의 톱스타 허광한과 임백굉이 주연을 맡았다. 임백굉은 죽어서 시체가 된 동성애자 역을]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['사카모토입니다만?' 작가 사노 나미, 암 투병 1개월 만 사망]]></title>
         <id>https://v.daum.net/v/20230816160337520</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230815231932270"/>
         <updated>2023-08-15T15:10:50.848Z</updated>
         <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]디즈니 실사영화 ‘백설공주’ 주연을 맡은 라틴계 배우 레이첼 지글러(22)가 디즈니 팬들에게 ‘가짜 페미니스트’로 비난받고 있다. 영국 데일리메일은 14일(현지시간) “레이첼 지글러는 여러 인터뷰에서 반복적으로 원작을 파괴하는 발언으로 팬들의 원성을 사고 있다”고 보도했다. 이 매체에 따르면, 지글러는 1937년 원작영화]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['치매' 브루스 윌리스 아내, 우울감 호소..."의식적으로 노력"]]></title>
-        <id>https://v.daum.net/v/20230815221530828</id>
-        <link href="https://v.daum.net/v/20230815221530828"/>
-        <updated>2023-08-15T14:10:46.481Z</updated>
-        <content type="html"><![CDATA[[TV리포트=이수연 기자] 배우 브루스 윌리스의 아내가 간병인의 삶에 대한 고충을 털어놨다. 지난 2월 브루스 윌리스(68)의 가족들은 성명을 통해 배우의 치매 투병 사실을 밝혔다. 그들은 "지난해 봄 브루스의 실어증 진단을 발표한 후 그의 증상은 계속 악화됐고 그가 전측두엽 치매(FTD)를 갖게 된 사실을 알게 됐다"라며 "불행히도 의사소통의 어려움은 치]]></content>
     </entry>
 </feed>
