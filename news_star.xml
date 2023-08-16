@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2023-08-16T19:09:00.933Z</updated>
+    <updated>2023-08-16T20:11:10.324Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['나는 솔로' 16기 영식, 아내 떠나고 눈물 참는 아들 걱정]]></title>
+        <id>https://v.daum.net/v/20230817051002223</id>
+        <link href="https://v.daum.net/v/20230817051002223"/>
+        <updated>2023-08-16T20:11:03.901Z</updated>
+        <content type="html"><![CDATA[(서울=뉴스1) 박하나 기자 = '나는 솔로' 16기 영식이 아내와 사별한 뒤, 힘들었던 때를 털어놨다. 지난 16일 오후 방송된 ENA·SBS Plus 예능 프로그램 '나는 SOLO &lt;나는 솔로&gt;'에서는 '솔로나라 16번지' 돌싱 특집 16기의 이야기가 이어졌다. 첫 공식 데이트가 진행되는 가운데, 0표를 받은 영수와 영식이 고독 정식을 확정하고 모였]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김희선 "유해진과 스킨십 많아"…20년 만에 스크린 복귀]]></title>
+        <id>https://v.daum.net/v/20230817045001946</id>
+        <link href="https://v.daum.net/v/20230817045001946"/>
+        <updated>2023-08-16T20:11:03.906Z</updated>
+        <content type="html"><![CDATA[(서울=뉴스1) 박하나 기자 = 배우 김희선이 '유 퀴즈 온 더 블럭'에 출연해 국내 스크린 복귀를 알렸다. 지난 16일 오후 방송된 tvN 예능 프로그램 '유 퀴즈 온 더 블럭'(이하 '유퀴즈')에서는 '대체불가' 특집으로 꾸며져 배우 김희선이 유퀴저로 함께했다. 김희선이 20년 만에 영화 '달짝지근해: 7510'으로 국내 스크린에 복귀하는 근황을 전]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[영화 ‘달짝지근해’에서 한층 ‘유해진’ 그 남자]]></title>
         <id>https://v.daum.net/v/20230817040517835</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230817001503120"/>
         <updated>2023-08-16T16:16:55.129Z</updated>
         <content type="html"><![CDATA[드라마 ‘나의 해방일지’에서 확고한 입지를  다진 배우 전수진이 신생브랜드 ‘FRESH TRUFFLE JAPAN’의 모델이 됐다고 16일 전했다. ‘FRESH TRUFFLE JAPAN’ 측은 “배우 전수진이 매혹적인 눈빛과 표정으로 제품을 잘 표현했다”고 평가했다.  이어 전수진은 “새로운 이미지를 보여드리기 위해 노력할 것”이라고 덧붙였다. ‘FR]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[엑소 첸, 출산도 결혼식도 마음이 편치 않다]]></title>
-        <id>https://v.daum.net/v/20230817001024098</id>
-        <link href="https://v.daum.net/v/20230817001024098"/>
-        <updated>2023-08-16T15:10:47.929Z</updated>
-        <content type="html"><![CDATA[[OSEN=선미경 기자] 아이돌이기에 어쩔 수 없는 것일까. 그룹 엑소 멤버 첸이 늦은 결혼 소식을 전했다. 이미 두 자녀를 둔 아빠이자 법적으로 부부인 아내가 있지만, 사정상 미뤄졌던 정식 결혼식을 올리게 된 것. 그렇지만 팬들의 반응을 보면 마냥 마음이 편하지만은 않을 상황이다. 3년 만에 올리게 된 결혼식에 축하를 보내는 팬들이 대부분이지만, 일부]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[하정우, '회장님네' 뜬다.. 父 김용건도 놀란 입담 "기대만발"]]></title>
-        <id>https://v.daum.net/v/20230817000209904</id>
-        <link href="https://v.daum.net/v/20230817000209904"/>
-        <updated>2023-08-16T15:10:47.935Z</updated>
-        <content type="html"><![CDATA[[TV리포트=이혜미 기자] 배우 하정우가 '회장님네 사람들'에 뜬다. 이에 따라 8년 만에 부자 동반 예능이 성사됐다. 하정우는 오는 21일 방송되는 tvN STORY '회장님네 사람들'에 게스트로 출연했다. '회장님네 사람들'은 '전원일기' 출연자들의 전원 라이프를 그린 리얼 예능으로 하정우의 아버지 김용건이 고정 출연 중이다. 16일 공개된 예고편에는]]></content>
     </entry>
 </feed>
