@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/variety</id>
     <title>다음 연예 ─ 뉴스 ─ 예능</title>
-    <updated>2023-08-16T18:13:04.894Z</updated>
+    <updated>2023-08-16T19:09:00.931Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[박효주 “‘악귀’ 오정세母 역할, 싫었다..김은희 작가 눈에 띄고자 출연 결심”]]></title>
+        <id>https://v.daum.net/v/20230817035016779</id>
+        <link href="https://v.daum.net/v/20230817035016779"/>
+        <updated>2023-08-16T19:08:49.644Z</updated>
+        <content type="html"><![CDATA[[OSEN=박하영 기자] ‘라디오스타’ 박효주가 '악귀' 출연 비하인드를 공개했다.&nbsp; 16일 방송된 MBC 예능 ‘라디오스타’(이하 ‘라스’)에서는&nbsp;스페셜 MC로 아나운서 김대호가 함께한 가운데 ‘이로운 과몰입’ 특집으로 박소현, 박효주, 산다라박, 레오제이가 출연했다. 이날 박효주는 드라마에서 주로 죽는 역할을 많이 했다고 토로했다. 그는 “죽음을 앞]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘52세’ 박소현 “비혼NO, 결혼자금 위해 연예인 데뷔..30년째 결혼 준비”]]></title>
+        <id>https://v.daum.net/v/20230817033022767</id>
+        <link href="https://v.daum.net/v/20230817033022767"/>
+        <updated>2023-08-16T19:08:49.646Z</updated>
+        <content type="html"><![CDATA[[OSEN=박하영 기자] ‘라디오스타’ 박소현이 비혼주의에 대해 해명했다. 16일 방송된 MBC 예능 ‘라디오스타’(이하 ‘라스’)에서는&nbsp;스페셜 MC로 아나운서 김대호가 함께한 가운데 ‘이로운 과몰입’ 특집으로 박소현, 박효주, 산다라박, 레오제이가 출연했다. 박소현은 평소 ‘아이돌’에 진심인 것으로 유명하다. 이날 박소현은 하루 일과가 끝난 후 더 바]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[광수, 옥순 의식하는 영자에 “혹시 외모 때문에 그러냐”]]></title>
         <id>https://v.daum.net/v/20230817014504406</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230817000307924"/>
         <updated>2023-08-16T15:10:42.509Z</updated>
         <content type="html"><![CDATA[(엑스포츠뉴스 이창규 기자) '고딩엄빠4' 김나라가 남편 백동환의 군 입대 문제로 인한 고민을 전했다. 16일 방송된 MBN '고딩엄빠4'에서는&nbsp;19세에 아이를 낳아 두 아들을 키우고 있는 김나라와 남편 백동환이 출연했다. 스페셜 게스트로는 모델 송경아가 출연했다. 이날 VCR에서는 김나라가 아이들을 등원시킨 뒤 남편 백동환의 출근길을 배웅해주는 모습이 그]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[산다라박 “사이버 연애 전문…전 남친과 여행 당일 잠수”]]></title>
-        <id>https://v.daum.net/v/20230816235740820</id>
-        <link href="https://v.daum.net/v/20230816235740820"/>
-        <updated>2023-08-16T15:10:42.510Z</updated>
-        <content type="html"><![CDATA[2NE1 출신 산다라박이 “파파라치가 무서워서 남자친구와 여행 가는 날 잠수를 탔다”고 말했다. &nbsp; 산다라박은 16일 방송된 MBC 예능프로그램 ‘라디오스타’(이하 ‘라스’)에 출연해 “휴가를 받으면 여행을 가자고 약속을 했는데 당일 무섭더라. 파파라치도 많았다”며 이같이 밝혔다.&nbsp; 이어 “그 분이 몇 십 번 전화를 하는데 보기만 하면서 ‘미안해’라고]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“시어머니가 술값 계산해줘” 김희선, 남다른 시댁 사랑 공개]]></title>
-        <id>https://v.daum.net/v/20230816235730819</id>
-        <link href="https://v.daum.net/v/20230816235730819"/>
-        <updated>2023-08-16T15:10:42.511Z</updated>
-        <content type="html"><![CDATA[배우 김희선이 남다른 ‘시댁 사랑’을 자랑했다. 16일(수) 방송된 tvN ‘유 퀴즈 온 더 블럭’ 207회 ‘대체불가’ 특집에서는 먹방 유튜버 띠예, 치어리더 배수현, 꿀벌 주치의 수의사 허주행, 배우 김희선이 출연해 MC 유재석·조세호와 토크 릴레이를 펼쳤다. 이날 유재석이 ‘애주가’ 김희선에게 “‘안 마셔야겠다’ 생각해 본 적 있나?”라고 물었다]]></content>
     </entry>
 </feed>
