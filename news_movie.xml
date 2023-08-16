@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-08-16T11:09:05.529Z</updated>
+    <updated>2023-08-16T12:18:41.320Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[하정우, 무릎 잃고 눈물 흘리지만…멈추지 않는다]]></title>
+        <id>https://v.daum.net/v/20230816205002825</id>
+        <link href="https://v.daum.net/v/20230816205002825"/>
+        <updated>2023-08-16T12:18:19.990Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 오승현 기자) 하정우는 멈추지 않는다. 최근 '비공식작전'(감독 김성훈)으로 레바논(극 중 배경)에서 실컷 달리고, 도망치고 구른 하정우가 여전한 열정으로 활약할 예정이다.&nbsp; 최근 하정우는 영화 '터널'로 인연을 맺은 김성훈 감독, '신과 함께'로 쌍천만 역사를 이룬 배우 주지훈과 의기투합했다. 3년 만에 스크린에서 관객을 만난 하정우는 오랜]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김남길, 정우성에 흠씬 두들겨 맞으니…광기 터진 '보호자']]></title>
         <id>https://v.daum.net/v/20230816200127018</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230816170007646"/>
         <updated>2023-08-16T08:13:17.013Z</updated>
         <content type="html"><![CDATA[[스포티비뉴스=강효진 기자] 영화 '오펜하이머'를 두고 한국과 일본 관객들의 온도차가 극명하게 드러나고 있어 눈길을 끈다. '오펜하이머'(감독 크리스토퍼 놀란)는 세상을 구하기 위해 세상을 파괴할 위험을 감수해야 하는 천재 과학자의 핵개발 프로젝트를 다룬 작품이다. 국내 영화팬들에게는 '인터스텔라', '다크나이트' 시리즈, '테넷', '인셉션' 등]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘그녀의 취미생활’ 정이서 김혜나의 워맨스릴러]]></title>
-        <id>https://v.daum.net/v/20230816165702536</id>
-        <link href="https://v.daum.net/v/20230816165702536"/>
-        <updated>2023-08-16T08:13:17.013Z</updated>
-        <content type="html"><![CDATA[정이서 김혜나의 킬링 워맨스릴러 ‘그녀의 취미생활’가 온다. 16일 오후 서울 CGV 용산아이파크몰에서 영화 ‘그녀의 취미생활’ 시사회 및 간담회가 열렸다. 하명미 감독과 배우 정이서 김혜나가 참석했다. 서미애 작가의 동명 소설을 영화화한 ‘그녀의 취미생활’은 폐쇄적인 시골 마을에 살고 있는 연약해 보이지만 강인한 여성 정인(정이서)과 도시에서 이사 온 뭐]]></content>
     </entry>
 </feed>
