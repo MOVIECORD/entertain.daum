@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-08-16T20:11:10.325Z</updated>
+    <updated>2023-08-16T21:09:57.090Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘콘유’ 엄태화 감독 “이병헌 대사 없이 얼굴로 설득, ‘됐다’ 싶더라”]]></title>
+        <id>https://v.daum.net/v/20230817060506134</id>
+        <link href="https://v.daum.net/v/20230817060506134"/>
+        <updated>2023-08-16T21:09:33.363Z</updated>
+        <content type="html"><![CDATA[여름 영화 빅4의 마지막 주자 ‘콘크리트 유토피아’가 지난 9일 개봉했다. 개봉 4일째 100만 관객 돌파, 개봉 7일째 200만 관객을 돌파하며 거침없는 흥행 행보를 이어가고 있다. 16일 영화진흥위원회 영화관입장권 통합전산망에 따르면 ‘콘크리트 유토피아’는 전날 30만 3124명을 동원해 누적 관객수 213만 6522명을 기록했다. 456만 관객을 돌파]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['타겟' 3인 3색 캐릭터 '착붙' 예고편 공개]]></title>
         <id>https://v.daum.net/v/20230817030200556</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230816173302760"/>
         <updated>2023-08-16T09:10:35.496Z</updated>
         <content type="html"><![CDATA[[김상목 기자] ▲ &nbsp;영화 &lt;지옥만세&gt; 포스터 이미지ⓒ 찬란&nbsp; 차세대 독립영화 기대주의 사려 깊은 시선 '지옥만세'라는 도발적 제목의 영화를 보기 전에는 누구나 당연히 대체 영화 수위가 얼마나 강할까 상상하게 될 테다. 여기에 더해 한국독립영화의 표상 중 하나로 손에 꼽힐 법한, (입시지옥과 수저계급론과 온갖 형태의 기괴한 차별과 낙인들로 점철된) '잔인한]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['더 마블스' 감독이 밝힌 박서준.."캡틴 마블과 확실한 동맹"]]></title>
-        <id>https://v.daum.net/v/20230816170149754</id>
-        <link href="https://v.daum.net/v/20230816170149754"/>
-        <updated>2023-08-16T08:13:17.012Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 | 김나연 기자] 박서준 / 사진=월트디즈니컴퍼니 코리아'더 마블스' 니아 다코스타 감독이 박서준의 캐릭터에 대해 밝혔다. 박서준은 영화 '더 마블스'에서 캡틴 마블로 불리는 캐럴 댄버스(브리 라슨 분)의 남편인 얀 왕자 역을 맡은 것으로 알려졌다. 다만, 이외의 정보에 대해서는 자세히 알려진 바 없다. 최근 공개된 메인 예고편에서는 박서준이]]></content>
     </entry>
 </feed>
