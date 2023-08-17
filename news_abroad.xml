@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-08-17T04:12:21.881Z</updated>
+    <updated>2023-08-17T05:10:15.837Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“돈 더 내놔” 브리트니 스피어스 남편, 비밀보장 빌미로 돈 요구]]></title>
+        <id>https://v.daum.net/v/20230817135458810</id>
+        <link href="https://v.daum.net/v/20230817135458810"/>
+        <updated>2023-08-17T05:10:15.116Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 이민지 기자] 브리트니 스피어스가 남편에게 협박 당하고 있다는 보도가 나왔다. 페이지식스는 8월 16일(현지시간) 샘 아스가리가 혼전 계약서 내용 수정을 요구하며 브리트니 스피어스를 위협했다고 보도했다. 보도에 따르면 샘 아스가리는 사이가 소원해진 아내 브리트니 스피어스의 비밀을 지켜주는 대가로 더 많은 돈을 요구하고 있다. 한 소식통은 페]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[에드 시런, 세계 최대 공연 '슈퍼볼' 안 한다…"난 춤 추는 사람 아냐"]]></title>
         <id>https://v.daum.net/v/20230817124130181</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230817003135205"/>
         <updated>2023-08-16T16:17:00.968Z</updated>
         <content type="html"><![CDATA[[TV리포트=강성훈 기자] 미국 배우 다니엘 캠벨(Danielle Campbell·28)과 콜린 우델(Colin Woodell·31)이 마침내 약혼을 발표, 5년에 걸린 사랑의 여정에 마침표를 찍었다. 다니엘 캠벨은 15일(현지 시간) 자신의 소셜네트워크서비스에 여러 장의 사진을 올렸다. 공개된 사진 속에서 그는 산과 초원을 배경으로 연인 다니엘&nbsp;캠벨을 안]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['사카모토입니다만' 작가, 암 발견 후 1개월 만에 사망...향년 36세]]></title>
-        <id>https://v.daum.net/v/20230816220230993</id>
-        <link href="https://v.daum.net/v/20230816220230993"/>
-        <updated>2023-08-16T13:13:35.810Z</updated>
-        <content type="html"><![CDATA[[TV리포트=안수현 기자] 일본의 유명 만화가 사노 나미가 36세의 젊은 나이로 사망했다. 16일, 주식회사 KADOKAWA 하루타 편집부는 작품 '사카모토입니다만?', '미기와 다리'로 국내에서도 잘 알려진 만화가 사노 나미의 사망 소식을 전했다. 소식통에 따르면, 사노 나미는 암 발견 후 한 달 만에 빠른 속도로 악화돼 세상을 떠난 것으로 전해진다. 하]]></content>
     </entry>
 </feed>
