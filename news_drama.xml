@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-08-18T21:08:54.444Z</updated>
+    <updated>2023-08-18T22:09:27.975Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[작가 교체가 독 됐다…지지부진 '경소문2'에 쏟아지는 '혹평']]></title>
+        <id>https://v.daum.net/v/20230819070102412</id>
+        <link href="https://v.daum.net/v/20230819070102412"/>
+        <updated>2023-08-18T22:09:10.228Z</updated>
+        <content type="html"><![CDATA[[텐아시아=태유나 기자] 《태유나의 듣보드뽀》 태유나 텐아시아 기자가 현장에서 듣고 본 사실을 바탕으로 드라마의 면면을 제대로 뽀개드립니다. 수많은 채널에서 쏟아지는 드라마 홍수 시대에 독자들의 눈과 귀가 되겠습니다. 작가 교체 문제가 시즌1 결말에 이어 시즌2까지 이어지고 있다. '경이로운 소문'이 시즌1에서의 매력을 잃고 그저 그런 악귀물로 전락했다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['눈물의 여왕', 편성 시기 오리무중?..tvN "미정" 반복]]></title>
         <id>https://v.daum.net/v/20230819053004683</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230818195400185"/>
         <updated>2023-08-18T11:08:48.282Z</updated>
         <content type="html"><![CDATA[[TV리포트 = 하수나 기자] 전혜연이 반성 없는 친부 김유석을 향해 분노의 ‘팩폭’을 날렸다.&nbsp; 18일 MBC 일일드라마 ‘하늘의 인연’에선 윤솔(전혜연 분)이 친모를 죽게 만든 강치환(김유석 분)을 향해 분노를 폭발시키는 모습이 그려졌다.&nbsp; 윤솔은 전회장과 전미강에게 친모를 죽게 한 강치환의 과거를 폭로했고 강치환은 이혼 당할 위기를 맞았다. 이에 강치]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['무빙' 제대로 터졌다…그럼에도 망설이는 이유]]></title>
-        <id>https://v.daum.net/v/20230818195005123</id>
-        <link href="https://v.daum.net/v/20230818195005123"/>
-        <updated>2023-08-18T11:08:48.285Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 윤현지 기자) '무빙'이 디즈니+ 시리즈 중 역대급 호평을 받고 있는 가운데, 앞으로의 전개에 귀추가 주목된다. 지난 17일에는 디즈니+ 시리즈 '무빙' 8~9화가 공개됐다. 해당 에피소드에는 조인성이 첫 등장해 한효주와 절절한 로맨스를 선보였다. ◆ 무게감 있는 로맨스, '무빙' 중심부에 방점 이미현(한효주 분)은 최정예 블랙 요원]]></content>
     </entry>
 </feed>
