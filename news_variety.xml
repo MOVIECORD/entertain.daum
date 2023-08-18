@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/variety</id>
     <title>다음 연예 ─ 뉴스 ─ 예능</title>
-    <updated>2023-08-18T19:09:24.144Z</updated>
+    <updated>2023-08-18T20:11:00.947Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['돌싱글즈4' 제롬 자폭에 답답→이혜영 "내가 알던 제롬, 여기서 안 멈출 것"]]></title>
+        <id>https://v.daum.net/v/20230819050006382</id>
+        <link href="https://v.daum.net/v/20230819050006382"/>
+        <updated>2023-08-18T20:10:48.945Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 박서연 기자] ‘돌싱글즈4’ 제롬이 각성한다. 20일 밤 10시 방송되는 종합편성채널 MBN 연애 리얼리티 ‘돌싱글즈4’ MC 은지원이 ‘제롬잔치’를 벌이고 있는 제롬에게 걱정스러운 속내를 내비친다.  앞서 돌싱남녀 10인은 ‘돌싱하우스’의 셋째 날을 맞아 리키-소라-제롬-톰-하림이 ‘두근두근’ 코스, 듀이-베니타-지미-지수-희진이 ‘아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[지효, 6년 숙소 생활→독립 2년차 “처음에 무서워서 방문 다 잠가”]]></title>
         <id>https://v.daum.net/v/20230819035023954</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230819000004911"/>
         <updated>2023-08-18T15:10:54.397Z</updated>
         <content type="html"><![CDATA[[뉴스엔 서유나 기자] 배우 장혁이 몽골에서 만난 나라에 반가움을 드러냈다. 8월 18일 첫 방송된 JTBC 예능 '택배는 몽골몽골' 1회에서는 용띠클럽과 강훈이 몽골에 도착했다. 이날 몽골에 도착하자마자 택배 배송 일이 주어졌다. 푸르공 옆에 놓여진 택배부터 승차하는 멤버들. 장혁은 가방도 채 풀지 못하고 푸르공 위에 올라가 일을 했고, 이때 차량]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['지각변동' 김지영,  일편단심 민규 접고 겨레에게 '심쿵포텐' 터졌다]]></title>
-        <id>https://v.daum.net/v/20230818235853898</id>
-        <link href="https://v.daum.net/v/20230818235853898"/>
-        <updated>2023-08-18T15:10:54.398Z</updated>
-        <content type="html"><![CDATA[[OSEN=김수형 기자] ‘하트시그널4’에서 겨레와 지영의 설레는 데이트 모습이 그려졌다.&nbsp; 18일 방송된 채널 A ‘하트시그널 시즌4’에서 지각변동을 보였다.&nbsp; 이날 민규는 후신에게 지영과 겨레가 밤늦게 만난다는 얘기를 전하면서 “왜 만나는지 모르겠네 그 밤에”라며 궁금, 후신은 겨레를 좋아하는 주미도 떠올리며 “주미도 속타겠다”고 했다. 이에 주미도]]></content>
     </entry>
 </feed>
