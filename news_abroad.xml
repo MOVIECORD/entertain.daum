@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-08-18T02:15:18.202Z</updated>
+    <updated>2023-08-18T03:11:10.061Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“브리트니 스피어스 칼에 집착, 주먹으로 얼굴 때려” 12살 연하남편 두려움 호소]]></title>
+        <id>https://v.daum.net/v/20230818115132219</id>
+        <link href="https://v.daum.net/v/20230818115132219"/>
+        <updated>2023-08-18T03:11:09.280Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]세계적 팝스타 브리트니 스피어스가 주먹으로 남편 샘 아스가리(29)의 얼굴을 때렸다는 보도가 나왔다. 레이더온라인은 17일(현지시간) “아스가리는 스피어스가 칼에 집착했으며, 자고 있는 동안 폭행을 당하는 등 아내에 대한 두려움 속에서 살았다”고 밝혔다. 이 매체는 아스가리 눈에 멍이 든 사진 등을 공개하며 스피어스가]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[양조위, 성소 불륜설에 '발끈'..."터무니없는 루머"]]></title>
+        <id>https://v.daum.net/v/20230818113605625</id>
+        <link href="https://v.daum.net/v/20230818113605625"/>
+        <updated>2023-08-18T03:11:09.282Z</updated>
+        <content type="html"><![CDATA[[OSEN=유수연 기자]&nbsp;홍콩 배우 양조위가 우주소녀 출신 성소와의 불륜설에 입을 열었다. 17일 인도 핑크빌라는&nbsp;양조위 대변인으로부터 받은 불륜설 관련 답변을 공개했다. 이에 따르면 양조위 측은 "사실무근이다. 명백히 사실이 아니라고 단호하게 말할 수 있다. 터무니없는 루머이고 완전한 거짓"이라고 밝혔다. 앞서 12일,&nbsp;사나연예 등 중국 연예 매체에서]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[브리트니 스피어스 남편 이혼 공식 발표, 협박 루머는 부인]]></title>
         <id>https://v.daum.net/v/20230818094833156</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230817170036724"/>
         <updated>2023-08-17T08:13:12.573Z</updated>
         <content type="html"><![CDATA[[TV리포트=유비취 기자] 영화 '수어사이드 스쿼드'의 감독 데이비드 에이어가 조커 캐릭터에 대해 후회하고 있다. 지난 2016년 개봉한 '수어사이드 스쿼드'에서는 배우 자레드 레토가 조커 역할을 연기하면서 독특한 분장으로 이목을 끌었다. 개봉한 지 7년 만에 감독 데이비드 에이어는 못다 한 이야기를 털어놨다. 16일 데이비드 에이어는 자신의 소셜네트워크서]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“12살 연하 남편과 아이 못 낳고 결국 이혼” 브리트니 스피어스, 초호화 변호인단 구성]]></title>
-        <id>https://v.daum.net/v/20230817164041094</id>
-        <link href="https://v.daum.net/v/20230817164041094"/>
-        <updated>2023-08-17T08:13:12.583Z</updated>
-        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]12살 연하 남편 샘 아스가리(29)와 아이를 더 많이 낳겠다고 밝혔던 브리트니 스피어스(41)의 꿈은 물거품이 됐다. 남은 것은 치열한 이혼 전쟁이다. 버라이어티는 16일(현지시간) “스피어스가 아스가리와 결혼 14개월 만에 헤어졌다”면서 “팝스타는 이혼을 준비하면서 유명한 이혼 변호사들로 진용을 갖췄다”고 보도했다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['넷째 임신'한 아내 두고 '바람 피운' 스타...가족 문제로 또 시끌]]></title>
-        <id>https://v.daum.net/v/20230817164030085</id>
-        <link href="https://v.daum.net/v/20230817164030085"/>
-        <updated>2023-08-17T08:13:12.585Z</updated>
-        <content type="html"><![CDATA[[TV리포트=안수현 기자] 홍콩 그룹 '보이즈' 출신인 장치향(스티븐 청)이 넷째를 임신한 아내 오인만을 두고 바람을 피웠다는 보도가 나와 논란이 되고 있다. 스티븐 청은 연예계에서 인기 추락 후 힘든 시기를 겪으며 결혼 생활에도 어려움을 겪고 있다. 지난 2019년 결혼한 그는 아내 오인만과 세 자녀를 낳았고 현재 넷째 아이를 기다리고 있다. 평소 오인만]]></content>
     </entry>
 </feed>
