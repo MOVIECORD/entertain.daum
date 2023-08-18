@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-08-18T20:11:00.843Z</updated>
+    <updated>2023-08-18T21:08:54.452Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[유해진 김희선에게 물었다, ‘달짝지근해’ 뒷이야기]]></title>
+        <id>https://v.daum.net/v/20230819060234993</id>
+        <link href="https://v.daum.net/v/20230819060234993"/>
+        <updated>2023-08-18T21:08:31.557Z</updated>
+        <content type="html"><![CDATA[제과회사 연구원인 치호(유해진)는 오로지 과자밖에 모르는 외골수다. 별다른 낙도 없다. 오전 6시 기상, 오전 9시에 출근해 오후 5시에 퇴근하는 규칙적인 하루가 모여 그의 삶을 이룬다. 그런 치호의 일상은 우연한 기회에 달라진다. 형의 빚을 갚고자 찾은 캐피탈 회사에서 만난 일영(김희선)이 계기다. 일영은 그에게 호감이 가득한 눈치다. 치호는 제 감정]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["연기 美쳤다"…'잠' 이선균x정유미, 봉준호 감독도 반한 공포]]></title>
         <id>https://v.daum.net/v/20230818205027891</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230818174001565"/>
         <updated>2023-08-18T09:10:36.959Z</updated>
         <content type="html"><![CDATA[[텐아시아=이하늘 기자] 가장 가까운 사람으로부터 벗어날 수 없는 상황에 놓이게 된다면 어떨까. 영화 '잠'은 수면 장애를 겪고 있는 남편으로부터 시작된 신혼부부의 이야기를 담고 있다. 가장 단란해야 할 시기에 찾아든 불안과 공포는 아이를 출산하기 직전의 아내 수진에게는 무엇보다도 두려운 상황이다. 신인 감독의 재기발랄한 생각으로 완성된 '잠'은 아무도]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[칸이 먼저 알아본 유재선 감독…'잠', 한 순간도 눈 뗄 수 없다]]></title>
-        <id>https://v.daum.net/v/20230818173741485</id>
-        <link href="https://v.daum.net/v/20230818173741485"/>
-        <updated>2023-08-18T09:10:36.963Z</updated>
-        <content type="html"><![CDATA[제76회 칸 국제영화제에서 극찬 받은 유재선 감독의 '잠'이 국내에서 베일을 벗었다. 18일 서울시 광진구 건대입구 롯데시네마에서는 유재선 감독, 배우 정유미, 이선균이 참석한 가운데 영화 '잠'의 언론배급시사회가 열렸다. '잠'은 행복한 신혼부부 현수(이선균 분)와 수진(정유미 분)을 악몽처럼 덮친 남편 현수의 수면 중 이상행동, 잠드는 순간 시작되는]]></content>
     </entry>
 </feed>

@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-08-18T20:11:00.940Z</updated>
+    <updated>2023-08-18T21:08:54.444Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['눈물의 여왕', 편성 시기 오리무중?..tvN "미정" 반복]]></title>
+        <id>https://v.daum.net/v/20230819053004683</id>
+        <link href="https://v.daum.net/v/20230819053004683"/>
+        <updated>2023-08-18T21:08:36.963Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 | 이경호 기자] tvN 드라마 '눈물의 여왕'의 주연 김수현, 김지원./사진=김창현 기자 chmt@김수현, 김지원 주연의 '눈물의 여왕'은 언제 볼까. 올 하반기 방송을 예정했던 tvN 새 드라마 '눈물의 여왕'(극본 박지은, 연출 장영우·김희원, 제작 스튜디오드래곤·문화창고·쇼러너스)의 방송이 연기됐다. 편성 시기가 연기된 가운데, 향후]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['소옆경2' 오의식 "황정민, 압력솥 폭발에 의한 사고사"…김래원, "수사 종결은 경찰이 할 것"]]></title>
         <id>https://v.daum.net/v/20230819020900598</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230818195005123"/>
         <updated>2023-08-18T11:08:48.285Z</updated>
         <content type="html"><![CDATA[(엑스포츠뉴스 윤현지 기자) '무빙'이 디즈니+ 시리즈 중 역대급 호평을 받고 있는 가운데, 앞으로의 전개에 귀추가 주목된다. 지난 17일에는 디즈니+ 시리즈 '무빙' 8~9화가 공개됐다. 해당 에피소드에는 조인성이 첫 등장해 한효주와 절절한 로맨스를 선보였다. ◆ 무게감 있는 로맨스, '무빙' 중심부에 방점 이미현(한효주 분)은 최정예 블랙 요원]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이규한, 소름 돋는 이중성…연쇄살인사건 설계자]]></title>
-        <id>https://v.daum.net/v/20230818180917351</id>
-        <link href="https://v.daum.net/v/20230818180917351"/>
-        <updated>2023-08-18T09:10:42.306Z</updated>
-        <content type="html"><![CDATA[[OSEN=장우영 기자] 배우 이규한이 안방극장에 압도적인 긴장감을 선사하고 있다. 이규한이 출연하는 ENA 수목드라마 ‘오랫동안 당신을 기다렸습니다’(극본 권민수 연출 한철수 김용민)는 살인사건의 진범을 쫓던 형사가 가족의 감춰진 비밀과 욕망을 마주하게 되는 진실 추적극이다. 극 중 특종을 잡기 위해 물불 안 가리는 열정 가득한 법조기자 ‘박기영’ 역]]></content>
     </entry>
 </feed>
