@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2023-08-19T19:07:53.070Z</updated>
+    <updated>2023-08-19T20:10:09.999Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['경소문2' 진선규, 피의 복수 시작 "더 잔인해지고 있어"]]></title>
+        <id>https://v.daum.net/v/20230820045001571</id>
+        <link href="https://v.daum.net/v/20230820045001571"/>
+        <updated>2023-08-19T20:10:03.700Z</updated>
+        <content type="html"><![CDATA[(서울=뉴스1) 이아영 기자 = '경이로운 소문2' 카운터들이 진선규를 막기 위해 노력했다. 19일 방송된 tvN 주말드라마 '경이로운 소문2 : 카운터 펀치'(극본 유선동/연출 김새봄)에서는 마주석(진선규 분)이 더 잔인하게 변해갔다. 소문(조병규 분)은 마주석과 격투를 벌였고, 마주석은 결국 쓰러졌다. 이때 필광(강기영 분)이 나타났다. 은인인 마주]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['그알' 피프티 피프티 '전속계약 분쟁' 조명…"가수 안 했으면 안 했지 돌아가고 싶지 않아"]]></title>
+        <id>https://v.daum.net/v/20230820044800570</id>
+        <link href="https://v.daum.net/v/20230820044800570"/>
+        <updated>2023-08-19T20:10:03.701Z</updated>
+        <content type="html"><![CDATA[[SBS연예뉴스 | 김효정 에디터] 피프티 피프티는 다시 비상할 수 있을까. 19일 방송된 '그것이 알고 싶다'(이하 '그알')에서는 '빌보드와 걸그룹 - 누가 날개를 꺾었나'라는 부제로 걸그룹 피프티 피프티 전속계약 분쟁 사태를 조명했다. 2023년 4월 K팝 걸그룹 '피프티 피프티(FIFTY FIFTY)'의 [큐피드]라는 곡이 싱글 발매 4주 만에 美]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['그알' 피프티피프티 침묵 깨다..."가수를 안 했으면 안 했지"]]></title>
         <id>https://v.daum.net/v/20230820014400325</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230820001520125"/>
         <updated>2023-08-19T16:11:56.903Z</updated>
         <content type="html"><![CDATA[[스포츠조선닷컴 정안지 기자] 그룹 피프티 피프티 가족이 입장을 밝혔다. 19일 방송된 SBS '그것이 알고싶다'에서는 '빌보드와 걸그룹-누가 날개를 꺾었나' 주제로 걸그룹 피프티 피프티 전속계약 분쟁 사태를 둘러싼 진실공방이 그려졌다. 피프티 피프티의 '큐피드'는 싱글 발매 4주만에 빌보드 차트 핫100에 진입, 최고 17위를 기록하고 무]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['그알' 피프티 피프티 소속사는 세 번째 피해자?]]></title>
-        <id>https://v.daum.net/v/20230820001101112</id>
-        <link href="https://v.daum.net/v/20230820001101112"/>
-        <updated>2023-08-19T16:11:56.904Z</updated>
-        <content type="html"><![CDATA[[스포츠투데이 송오정 기자] 그룹 피프티 피프티를 둘러싼 소속사 어트랙트와 외주 프로듀싱 업체 더기버스의 분쟁이 한창인 가운데, 어트랙트가 세 번째 피해자란 주장이 나왔다. 19일 방송된 SBS '그것이 알고 싶다'(이하 '그알')에서는 '중소돌의 기적'으로 불리는 그룹 피프티 피프티를 둘러싼 분쟁을 다뤘다. 더기버스 프로듀서 안씨의 과거를 알고 있다는 한]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[젝스키스 고지용 맞아? 몰라보게 깡마른 모습에 팬들 충격]]></title>
-        <id>https://v.daum.net/v/20230820000208075</id>
-        <link href="https://v.daum.net/v/20230820000208075"/>
-        <updated>2023-08-19T15:09:03.607Z</updated>
-        <content type="html"><![CDATA[[서울=뉴시스] 신효령 기자 = 그룹 '젝스키스' 출신 사업가 고지용이 근황을 밝혔다. 지난 18일 유튜브 채널 '여기가 우리집'에는 '젝스키스 추억여행 그 시절 고지용이 왔다. 다 꺼져. 내가 최고야. 승재아빠 고지용'이라는 제목의 영상이 게재됐다. 영상에서 MC 지상렬은 "이분이 웬만해서는 수면 위로 나타나지를 않는다. 진짜 귀하고 보고싶었던 우리]]></content>
     </entry>
 </feed>
