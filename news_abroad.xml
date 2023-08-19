@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-08-19T22:08:51.708Z</updated>
+    <updated>2023-08-19T23:09:43.184Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[브리트니 스피어스, 이혼 심경 고백 "모두 알다시피 안 살아…항상 눈물 숨겨왔다"]]></title>
+        <id>https://v.daum.net/v/20230820071022287</id>
+        <link href="https://v.daum.net/v/20230820071022287"/>
+        <updated>2023-08-19T23:09:42.387Z</updated>
+        <content type="html"><![CDATA[[OSEN=김보라 기자]&nbsp;이혼 소식이 알려진 가수 브리트니 스피어스가 침묵을 깨고 자신의 속내를 털어놨다. 지난 18일(현지 시간) 브리트니 스피어스는 자신의 SNS를 통해 “이혼을 한다는 것에 충격받았지만 나는 정말 잘해내고 있다”고 말문을 열었다. 브리트니 스피어스가 13살 연하의 29세 모델 겸 배우 샘 아스가리와 이혼하게 됐다는 소식이 현지 시간]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["브래드 피트, '불륜' 맞아"...제니퍼 애니스톤, 상처로 5년째 솔로]]></title>
         <id>https://v.daum.net/v/20230819230630936</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230819143001483"/>
         <updated>2023-08-19T06:12:34.342Z</updated>
         <content type="html"><![CDATA[[TV리포트=유비취 기자] 래퍼 포스트 말론이 다이어트 성공 비법을 공개했다. 최근 포스트 말론은 급격한 체중 감량으로 인해 건강 이상설까지 제기된 바 있다. 지난 8일(현지 시간) 팟캐스트 'The Joe Rogan Experience(더 조 로건 익스피리언스)'에 출연한 포스트 말론(26)이 55파운드(약 25kg)에 가까운 체중을 감량했다고 밝혔다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[포스트 말론, 108kg→81kg 감량 "다이어트 비결? 탄산음료 끊었다"]]></title>
-        <id>https://v.daum.net/v/20230819135058074</id>
-        <link href="https://v.daum.net/v/20230819135058074"/>
-        <updated>2023-08-19T05:09:51.652Z</updated>
-        <content type="html"><![CDATA[[OSEN=김보라 기자]&nbsp;가수 포스트 말론이 다이어트에 성공했다. 18일(현지 시간) 포스트 말론이 60파운드 감량에 성공했다는 소식이 미국 현지매체를 통해 전해져 관심을 모은다. 60파운드는 약 27.2kg에 달한다. 이날 포스트 말론은 조 로건이 진행하는 팟캐스트에 출연해 ‘다이어트를 어떻게 했느냐’는 질문을 받고 “탄산음료를 끊었다”고 답했다. 이]]></content>
     </entry>
 </feed>
