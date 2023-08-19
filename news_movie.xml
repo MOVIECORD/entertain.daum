@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-08-19T13:12:46.755Z</updated>
+    <updated>2023-08-19T14:08:42.413Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[박서준 "'콘크리트 유토피아', 무겁지만 가치있는 영화"]]></title>
+        <id>https://v.daum.net/v/20230819225638903</id>
+        <link href="https://v.daum.net/v/20230819225638903"/>
+        <updated>2023-08-19T14:08:20.439Z</updated>
+        <content type="html"><![CDATA[박서준(사진=어썸이엔티)[이데일리 스타in 윤기백 기자] “적정선을 지키면서 연기하는 게 참 힘들었어요.” 배우 박서준이 영화 ‘콘크리트 유토피아’(감독 엄태화)를 통해 지금껏 보여준 적 없는 새로운 얼굴을 관객들에게 꺼내 들었다. 극한 재난상황에서 생존을 위해 갈등하고 변화해가는 민성이란 캐릭터를 입체감 있게 표현해 내 관객들의 찬사를 이끌어내고 있다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘오펜하이머’, 개봉 5일 만에 100만 돌파…新 흥행 강자 탄생]]></title>
         <id>https://v.daum.net/v/20230819220307664</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230819105826768"/>
         <updated>2023-08-19T02:11:56.840Z</updated>
         <content type="html"><![CDATA[[OSEN=김보라 기자]&nbsp;(※이 기사에 스포일러가 있습니다.) 안방 침실에서 깊은 잠에 빠져있던 현수(이선균 분)의 불현듯 잠꼬대는 수진(정유미 분)에게 다음 날 놀림거리 수준의 에피소드였다. 하지만 뺨에서 피가 날 때까지 긁고, 날 것의 음식을 삼키고, 창문 밖으로 뛰어내리려는 현수의 기이한 행동이 하루가 다르게 이어지자 수진의 두려움이 시작된다. 낮]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[사진으로 만난 남자와 여자, 이 영화가 말하는 것]]></title>
-        <id>https://v.daum.net/v/20230819104501626</id>
-        <link href="https://v.daum.net/v/20230819104501626"/>
-        <updated>2023-08-19T02:11:56.851Z</updated>
-        <content type="html"><![CDATA[[조영준 기자] ▲ &nbsp;영화 &lt;너의 순간&gt; 스틸컷ⓒ 영화로운형제&nbsp; * 주의! 이 기사에는 영화의 스포일러가 포함돼 있습니다. 01. 사진작가 정후(우지현 분)는 어린 시절 어머니를 잃은 아픔을 안고 있다. 캠핑카 한 대를 이끌고 전국을 돌며 자유로운 삶을 누리는 듯 보이지만 그의 시간은 지금도 여전히 그 기억에 묶여 있다. 바다를 향해 조금씩 멀어져 가는 어]]></content>
     </entry>
 </feed>
