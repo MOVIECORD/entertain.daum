@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-08-19T08:12:26.253Z</updated>
+    <updated>2023-08-19T09:09:18.230Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이상엽, 투수 김희원 '승부조작 사건' 연루]]></title>
+        <id>https://v.daum.net/v/20230819173604488</id>
+        <link href="https://v.daum.net/v/20230819173604488"/>
+        <updated>2023-08-19T09:09:02.121Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 | 한해선 기자] /사진=KBS '순정복서'의 이상엽이 친형제 보다 가까웠던 최재웅과 첫 방송부터 일촉즉발 대치 상황을 빚는다. KBS 2TV 새 월화드라마 '순정복서'(극본 김민주 / 연출 최상열, 홍은미 / 제작 에이스메이커무비웍스, 코너스톤, 블레이드ENT)는 교보문고 스토리공모전 제2회 수상작인 추종남 작가의 소설 '순정복서'를 원작으로]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[미혼모 테론, 성형설에 입 열었다 "나이 들어 얼굴 변한 것"]]></title>
         <id>https://v.daum.net/v/20230819170111050</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230819132642822"/>
         <updated>2023-08-19T05:09:34.978Z</updated>
         <content type="html"><![CDATA[[OSEN=최나영 기자]&nbsp;배우 안정균이 '수업중입니다 2'에서 존재감을 드러내며 시청자들을 사로잡았다. 안정균은 지난 18일 티빙, 웨이브, 왓챠, 네이버 시리즈 온 등을 통해 공개된 '수업중입니다 2' 3화와 4회에서 시원시원한 명품 연기로 극에 재미를 더했다. 안정균은 특유의 캐릭터 소화력을 바탕으로 복학생 주혁을 완벽히 표현해냈다.&nbsp;1,&nbsp;2화에서]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[안은진, '연인'으로 새로 쓴 인생캐]]></title>
-        <id>https://v.daum.net/v/20230819132031780</id>
-        <link href="https://v.daum.net/v/20230819132031780"/>
-        <updated>2023-08-19T05:09:34.979Z</updated>
-        <content type="html"><![CDATA[(사진=MBC ‘연인’ 방송화면)[이데일리 스타in 윤기백 기자] ‘연인’ 안은진이 강인함과 귀여움을 넘나들며 인생 캐릭터를 경신했다. 안은진은 MBC 금토드라마 ‘연인’에서 여자 주인공 유길채 역을 맡아 시청자와 마주하고 있다. 유길채는 능군리에서 곱게 자란 양가댁 애기씨였지만 병자호란이라는 참혹한 전쟁을 겪고 한 사내를 진심으로 연모하게 되면서 점차]]></content>
     </entry>
 </feed>
