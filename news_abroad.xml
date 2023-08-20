@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-08-20T00:46:44.029Z</updated>
+    <updated>2023-08-20T01:43:55.176Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“원작훼손 ‘백설공주’ 리메이크는 모욕적” 비난 쇄도, “‘인어공주’처럼 외면받나”]]></title>
+        <id>https://v.daum.net/v/20230820094913837</id>
+        <link href="https://v.daum.net/v/20230820094913837"/>
+        <updated>2023-08-20T01:43:54.253Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]디즈니의 실사 리메이크 ‘백설공주’를 둘러싼 문화전쟁이 한창이다. 19일(현지시간) 할리우드 리포터는 “보수적인 비평가들은 ‘눈처럼 하얀 피부’를 가진 캐릭터로 묘사된 캐릭터에 라틴계 배우 레이첼 지글러를 캐스팅한 것과 일곱 난쟁이를 다양한 크기와 성별의 마법 생물로 바꾼 것에 문제를 제기하고 있다”고 보도했다. 레이첼]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘맘마미아’ 크리스 펠루소, 정신질환 치료 1년만 돌연 사망…향년 40세]]></title>
         <id>https://v.daum.net/v/20230820092107508</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230819161315473"/>
         <updated>2023-08-19T08:12:25.393Z</updated>
         <content type="html"><![CDATA[[뉴스엔 이민지 기자] 마이클 래파포트가 브래드 피트, 제니퍼 애니스톤의 결혼식을 회상했다. 8월 16일(현지시간) 피플은 배우 겸 감독 마이클 라파포트가 2000년 진행된 브래드 피트, 제니퍼 애니스톤 결혼식에서의 추억을 공유했다고 보도했다. 마이클 라파포트는 'Watch What Happens Live With Andy Cohen'에 게스트로 출연]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['인어공주', 제작진에 고소당했다..."추락 사고로 장애까지"]]></title>
-        <id>https://v.daum.net/v/20230819145030662</id>
-        <link href="https://v.daum.net/v/20230819145030662"/>
-        <updated>2023-08-19T06:12:34.334Z</updated>
-        <content type="html"><![CDATA[[TV리포트=유비취 기자] 디즈니 영화 '인어공주'가 제작진에게 고소당했다. 18일(현지 시간) 연예 매체 버라이어티에 따르면 특수 효과 아티스트 크리스틴 오버스(74)가 디즈니를 상대로 소송을 제기했다. 크리스틴 오버스는 영화 '인어공주' 제작에 참여하는 과정에서 부상을 입었다고 주장하고 있다. 해변과 눈 세트 제작을 전문으로 하는 특수 효과 아티스트인]]></content>
     </entry>
 </feed>

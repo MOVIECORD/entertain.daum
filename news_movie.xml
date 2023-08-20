@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-08-20T00:46:44.015Z</updated>
+    <updated>2023-08-20T01:43:55.208Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이번주 가장 보고 싶은 영화 1위에 ‘밀수’, 2위는?]]></title>
+        <id>https://v.daum.net/v/20230820101443236</id>
+        <link href="https://v.daum.net/v/20230820101443236"/>
+        <updated>2023-08-20T01:43:30.664Z</updated>
+        <content type="html"><![CDATA[[이데일리 강경록 기자] 영화 ‘밀수’가 ‘이번주 가장 보고 싶은 영화 1위’에 선정됐다. (사진=NEW) 20일 온라인 조사 회사 피앰아이(PMI)는 ‘궁금해결리워드앱, 헤이폴!’을 통해 20-50대 남녀 5000명을 대상으로 질문한 결과, ‘밀수(16.5%)’가 ‘이번주 가장 보고 싶은 영화’ 1위로 선정됐다고 밝혔다. 수중 촬영이라는 막대한 관문을]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['보호자' 김남길 "정우성이라면 무조건 'YES'"]]></title>
+        <id>https://v.daum.net/v/20230820100001968</id>
+        <link href="https://v.daum.net/v/20230820100001968"/>
+        <updated>2023-08-20T01:43:30.665Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 | 김나연 기자] 영화 '보호자'(감독 정우성) 배우 김남길이 10일 진행된 라운드 인터뷰를 위해 포즈를 취하고 있다.   10년 만에 출소해 몰랐던 딸의 존재를 알고 평범하게 살기를 원하는 수혁(정우성)과 그를 노리는 자들 사이의 이야기를 그린 영화 '보호자'는 오는 15일 개봉한다. /사진제공=길스토리이엔티 2023.08.10 /사진=이동훈배]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이병헌, 연기 신으로서의 책임감 "부담은 계속 가져야"]]></title>
         <id>https://v.daum.net/v/20230820090042221</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230819131017720"/>
         <updated>2023-08-19T04:11:20.684Z</updated>
         <content type="html"><![CDATA[그룹 소녀시대 겸 배우 최수영이 인생 캐릭터를 만나 날개를 달았다. 엄마와 티격태격 다투며 공감을 유발하다가도, 속 깊은 딸의 면모로 눈물샘을 자극하며 시청자들의 몰입을 책임지고 있다. 최수영이 ‘남남’의 쿨한 딸 진희를 통해 연기력을 제대로 인정받고 있다. 최수영은 철부지 엄마와 쿨한 딸의 ‘남남’ 같은 한 집 살이와 그들의 썸과 사랑을 그린 드라마 ‘]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[놀란 감독 ‘오펜하이머’, 주말 1위 지킬까]]></title>
-        <id>https://v.daum.net/v/20230819131006718</id>
-        <link href="https://v.daum.net/v/20230819131006718"/>
-        <updated>2023-08-19T04:11:20.686Z</updated>
-        <content type="html"><![CDATA[[티브이데일리 이기은 기자] 영화 '오펜하이머'(감독 크리스토퍼 놀란)가 개봉 4일째 톱을 차지하며 스타 감독 파워를 입증하고 있다. 19일 영화진흥위원회 영화관 입장권 통합 전산망에 따르면 '오펜하이머'는 지난 18일 하루 15만7148명 관객을 불러 모았다. 이는 박스오피스 1위 수치로 나타났고, 누적관객수는 97만5913명이다. 지난 15일 개봉한]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘달짝지근해’ 김희선 “20년 만의 스크린 복귀? 두려움 있었죠”]]></title>
-        <id>https://v.daum.net/v/20230819130300687</id>
-        <link href="https://v.daum.net/v/20230819130300687"/>
-        <updated>2023-08-19T04:11:20.694Z</updated>
-        <content type="html"><![CDATA[배우 김희선(46)이 2003년 ‘화성으로 간 사나이’ 이후 20년 만에 스크린을 찾았다. 김희선은 로맨틱 코미디 영화 ‘달짝지근해: 7510’(감독 이한, 이하 ‘달짝지근해’)에서 밝고 사랑스러운 일영 역을 맡아 열연했다. 영화는 과자밖에 모르는 천재적인 제과 연구원 치호(유해진 분)가 직진밖에 모르는 세상 긍정 마인드의 일영(김희선 분)을 만나면서 인생]]></content>
     </entry>
 </feed>
