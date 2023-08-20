@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-08-20T02:15:03.021Z</updated>
+    <updated>2023-08-20T03:10:36.464Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이병헌이 밝힌 '콘크리트 유토피아' 비하인드 "영탁이 이름 쓸 때 'ㅁ'을 먼저 쓰는 이유"]]></title>
+        <id>https://v.daum.net/v/20230820120038816</id>
+        <link href="https://v.daum.net/v/20230820120038816"/>
+        <updated>2023-08-20T03:10:12.934Z</updated>
+        <content type="html"><![CDATA[[서울경제] 영화 '콘크리트 유토피아'의 배우 이병헌이 작품 속 담긴 비하인드를 직접 밝혔다. 지난 1일 서울 종로구에 위치한 한 카페에서 '콘크리트 유토피아'(감독 엄태화)에 출연한 배우 이병헌과의 인터뷰가 진행됐다. '콘크리트 유토피아'는 대지진으로 인해 무너진 서울, 하나밖에 남지 않은 아파트에 생존자들이 몰려들며 벌어지는 이야기를 담고 있다. 작품]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['철 지난 조폭영화'도 장진이 만들면 특별하다]]></title>
+        <id>https://v.daum.net/v/20230820114502563</id>
+        <link href="https://v.daum.net/v/20230820114502563"/>
+        <updated>2023-08-20T03:10:12.942Z</updated>
+        <content type="html"><![CDATA[[양형석 기자] 고 이소룡 주연의 &lt;정무문&gt;, &lt;용쟁호투&gt;에서 스턴트 배우로 활동하던 성룡은 70년대 중반부터 무협영화에 주연으로 출연했지만 당시만 해도 성룡은 차고 넘치는 '이소룡의 아류' 중 한 명에 지나지 않았다. 그러던 1978년, 성룡은 기존의 무술영화에 '코믹'이라는 양념을 뿌린 영화 &lt;취권&gt;을 선보이며 일약 이소룡의 뒤를 잇는 '아시아의 액션스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이번주 가장 보고 싶은 영화 1위에 ‘밀수’, 2위는?]]></title>
         <id>https://v.daum.net/v/20230820101443236</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230819135043070"/>
         <updated>2023-08-19T05:09:29.412Z</updated>
         <content type="html"><![CDATA[[스포츠한국 조은애 기자] '오펜하이머'가 개봉 5일만에&nbsp;100만 관객을 돌파했다. 19일 영진위 통합전산망 집계에 따르면 '오펜하이머'는 개봉 5일만인 이날 오전 7시36분 기준 누적 관객 수 116만3175명을 기록했다.&nbsp; 지난 15일 개봉 첫날부터 55만 명 이상의 관객을 모으며 크리스토퍼 놀란 감독 역대 최고 오프닝 스코어를 세운 '오펜하]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['무빙', 뭘 좋아할지 몰라서 다 준비했어]]></title>
-        <id>https://v.daum.net/v/20230819134401014</id>
-        <link href="https://v.daum.net/v/20230819134401014"/>
-        <updated>2023-08-19T05:09:29.413Z</updated>
-        <content type="html"><![CDATA[[편집자주] 영화·OTT를 보는 김나연 기자의 사적인 시선. [스타뉴스 | 김나연 기자] 사진=디즈니플러스위기의 디즈니+를 구할 히어로가 등장했다. 뭘 좋아할지 몰라서 다 준비한 듯한 '무빙'이다. '무빙'은 초능력을 숨긴 채 현재를 살아가는 아이들과 아픈 비밀을 감춘 채 과거를 살아온 부모들의 이야기를 그린 휴먼 액션 시리즈로, 제작비가 500억 원]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[최수영, ‘남남’에서 만난 ‘인생 캐릭터’]]></title>
-        <id>https://v.daum.net/v/20230819131017720</id>
-        <link href="https://v.daum.net/v/20230819131017720"/>
-        <updated>2023-08-19T04:11:20.684Z</updated>
-        <content type="html"><![CDATA[그룹 소녀시대 겸 배우 최수영이 인생 캐릭터를 만나 날개를 달았다. 엄마와 티격태격 다투며 공감을 유발하다가도, 속 깊은 딸의 면모로 눈물샘을 자극하며 시청자들의 몰입을 책임지고 있다. 최수영이 ‘남남’의 쿨한 딸 진희를 통해 연기력을 제대로 인정받고 있다. 최수영은 철부지 엄마와 쿨한 딸의 ‘남남’ 같은 한 집 살이와 그들의 썸과 사랑을 그린 드라마 ‘]]></content>
     </entry>
 </feed>
