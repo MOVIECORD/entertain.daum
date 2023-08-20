@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-08-20T03:10:36.464Z</updated>
+    <updated>2023-08-20T04:12:50.699Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[한선화의 달짝지근한 영광]]></title>
+        <id>https://v.daum.net/v/20230820130802601</id>
+        <link href="https://v.daum.net/v/20230820130802601"/>
+        <updated>2023-08-20T04:12:24.148Z</updated>
+        <content type="html"><![CDATA[배우 한선화는 과거 우연히 오디션 기회를 갖게 됐다. 현장에서 그는 "이것도 준비해 왔습니다"라고 거듭 말하며 준비해 왔던 연기들을 선보였다. 연기 초보였던 만큼 부족함도 있었지만 열정만은 가득했던 한선화는 '광고천재 이태백'에 출연할 기회를 얻었다. 당시 느꼈던 감정은 설렘이었단다. 이후 배우로서 꾸준히 노력해 온 그는 존경했던 선배들과 '달짝지근해: 7]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이병헌이 밝힌 '콘크리트 유토피아' 비하인드 "영탁이 이름 쓸 때 'ㅁ'을 먼저 쓰는 이유"]]></title>
         <id>https://v.daum.net/v/20230820120038816</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230819140135196"/>
         <updated>2023-08-19T05:09:29.407Z</updated>
         <content type="html"><![CDATA[’나는 말이다‘ (감독 임채린)  &nbsp; 지난 10일 ‘제23회 서울국제대안영상예술페스티벌’(이하&nbsp;네마프)가 ’안전한 신체의 확장‘이라는 주제로 개막해 22일 폐막을 향해 가고 있다. 올해에는 40여 개국에서 온 82여 편의 영상 작품들이 KT&amp;G 상상마당 홍대(이후 상상마당) 시네마와 갤러리에서 소개되고 있다.&nbsp; 태풍과 함께 시작되어 폐막을 향해 가고]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['오펜하이머' 개봉 5일만에 100만 돌파…압도적 1위]]></title>
-        <id>https://v.daum.net/v/20230819135043070</id>
-        <link href="https://v.daum.net/v/20230819135043070"/>
-        <updated>2023-08-19T05:09:29.412Z</updated>
-        <content type="html"><![CDATA[[스포츠한국 조은애 기자] '오펜하이머'가 개봉 5일만에&nbsp;100만 관객을 돌파했다. 19일 영진위 통합전산망 집계에 따르면 '오펜하이머'는 개봉 5일만인 이날 오전 7시36분 기준 누적 관객 수 116만3175명을 기록했다.&nbsp; 지난 15일 개봉 첫날부터 55만 명 이상의 관객을 모으며 크리스토퍼 놀란 감독 역대 최고 오프닝 스코어를 세운 '오펜하]]></content>
     </entry>
 </feed>
