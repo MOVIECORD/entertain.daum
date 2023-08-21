@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-08-21T01:42:18.848Z</updated>
+    <updated>2023-08-21T02:15:24.035Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[송강호·강동원·하정우 등판…여름 이어 추석 극장가 치열하다]]></title>
+        <id>https://v.daum.net/v/20230821110749390</id>
+        <link href="https://v.daum.net/v/20230821110749390"/>
+        <updated>2023-08-21T02:15:00.310Z</updated>
+        <content type="html"><![CDATA[여름 극장가 한국 텐트폴 열전에 이어 또 한번 화려한 기대작들의 치열한 경쟁이 기다리고 있다. 김지운 감독과 송강호가 재회한 '거미집', 강동원 주연의 '천박사 퇴마 연구소: 설경의 비밀', 강제규 감독이 메가폰을 잡은 하정우 임시완의 '1947 보스톤 '이 추석 대목을 노린다. '1947 보스톤'은 지난 1월 빠르게 '추석 개봉'을 고지했다. '19]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘밀수’ 류승완 염정아 박정민 토론토 국제영화제 직접 간다]]></title>
+        <id>https://v.daum.net/v/20230821104846467</id>
+        <link href="https://v.daum.net/v/20230821104846467"/>
+        <updated>2023-08-21T02:15:00.314Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 배효주 기자] '밀수'가 제48회 토론토 국제영화제 갈라 프레젠테이션 섹션에 공식 초청됐다. 이에 염정아, 박정민, 류승완 감독이 직접 참석한다. 영화 '밀수'(감독 류승완)가 9월 7일부터 17일까지 열리는 제48회 토론토 국제영화제의 메인 섹션인 갈라 프레젠테이션 섹션에 공식 초청됐다는 소식을 전했다. 토론토 국제영화제 측은 “'밀수'가 가진]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['치악산' 포스터에 토막 시체 '충격'…감독 "개인적 용도" 사과]]></title>
         <id>https://v.daum.net/v/20230821100759645</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230821085728719"/>
         <updated>2023-08-21T00:43:35.672Z</updated>
         <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]크리스토퍼 놀란 감독의 ‘오펜하이머’가 글로벌 7억 달러(약 9,387억원)을 돌파했다. 한국에서도 박스오피스 1위에 오르며 누적관객수 159만명을 넘었다. 21일 버라이어티에 따르면, ‘오펜하이머’는 북미에서 2억 8,500만 달러, 해외에서 4억 3,700만 달러를 벌어들여 모두 7억 1,800만 달러의 수익을 거뒀다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[혐오스러운 토막 시체..'치악산' 감독, 포스터 논란 사과 "개인 제작"]]></title>
-        <id>https://v.daum.net/v/20230821085119574</id>
-        <link href="https://v.daum.net/v/20230821085119574"/>
-        <updated>2023-08-21T00:43:35.673Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 | 최혜진 기자] /사진=치악산 포스터영화 '치악산'의 김선웅 감독이 개인적인 용도로 만든 비공식 포스터가 혐오스러운 비주얼로 논란이 되자 이를 직접 사과했다. 21일 김선웅 감독은 '치악산' 제작사를 통해 "개인 계정에 공유한 이미지로 불편을 드린 점 진심으로 사과를 드린다"고 밝혔다. 이어 "논란이 됐던 포스터는 '치악산'의 공식 포스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘밀수’ 류승완 감독·염정아·박정민, 토론토 영화제 참석]]></title>
-        <id>https://v.daum.net/v/20230821084504407</id>
-        <link href="https://v.daum.net/v/20230821084504407"/>
-        <updated>2023-08-21T00:43:35.673Z</updated>
-        <content type="html"><![CDATA[‘밀수’ 염정아 박정민 그리고 류승완 감독이 제48회 토론토국제영화제(Toronto International Film Festival)에 참석한다. ‘밀수’ 배급사 NEW에 따르면, 영화는 오는 9월 7일부터 17일까지 열리는 제48회 토론토국제영화제의 메인 섹션인 갈라 프레젠테이션 섹션에 공식 초청됐다. 염정아, 박정민, 류승완 감독은 전 세계 영화 팬들]]></content>
     </entry>
 </feed>
