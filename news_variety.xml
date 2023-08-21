@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/variety</id>
     <title>다음 연예 ─ 뉴스 ─ 예능</title>
-    <updated>2023-08-21T18:12:33.345Z</updated>
+    <updated>2023-08-21T19:08:58.643Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["단칸방 홀로 생활 중" 조우종, 아내 정다은과 각각살이 '충격']]></title>
+        <id>https://v.daum.net/v/20230822040421808</id>
+        <link href="https://v.daum.net/v/20230822040421808"/>
+        <updated>2023-08-21T19:08:44.929Z</updated>
+        <content type="html"><![CDATA[[OSEN=김수형 기자] ‘동상이몽2’에서&nbsp;조우종과 정다은 부부를 예고, 결혼 87년차인 이들이 각각 살이 근황으로 깜짝 놀라게 했다.&nbsp; 21일 방송된 SBS 예능 ‘동상이몽 시즌2'에서&nbsp;조우종과 정다은 부부를 예고했다.&nbsp; 이날 새로운 운명커플을 최초공개, 바로 결혼 7년차인 아나운서 출신 방송인 조우종과 정다은이었다. 조우종은 아내에 대해&nbsp; “서울대]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이소정, 우울증·간질→알코올 의존증 충격 근황 “병원에서도 술 마셔”]]></title>
         <id>https://v.daum.net/v/20230822012919390</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230821232503739"/>
         <updated>2023-08-21T15:12:14.622Z</updated>
         <content type="html"><![CDATA[[텐아시아=류정민 기자] '순정복서' 배우 김소혜가 천재 복서로 완벽 변신했다. 21일 첫 방송된 KBS 월화드라마 '순정복서'에서는 이권숙(김소혜 분)이 세계 최고의 복서와 겨뤄 승리하는 장면이 그려졌다. 이날 방송에서 한 번도 진적 없는 세계 최고의 복서 에스토마타는 복싱 불모지인 대한민국에서 복싱 선수들에게 원 포인트 레슨을 하는 행사를 열었다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘차세찌♥’ 한채아 “가장 잔인한 살인=외도한 상대”]]></title>
-        <id>https://v.daum.net/v/20230821232123718</id>
-        <link href="https://v.daum.net/v/20230821232123718"/>
-        <updated>2023-08-21T15:12:14.625Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 하지원 기자] 배우 한채아가 가장 잔인한 살인에 대해 언급했다. 8월 21일 방송된 MBN ‘쉬는부부’에서 박혜성 전문의는 "부부가 섹스리스로 살면 정신적, 육체적으로 바람이 날 확률이 높은 상태"라고 밝혔다. 이에 한채아는 "들은 얘기가 있는데, 가장 잔인한 살인이 외도한 상대를 죽이는 현장이라고 하더라. 정말 찢어 죽이고 싶을 정도로 화가 나]]></content>
     </entry>
 </feed>
