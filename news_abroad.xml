@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-08-22T21:10:03.532Z</updated>
+    <updated>2023-08-22T22:10:10.165Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[12살 연하남편 이혼사유, “너무 자유로운 브리트니 스피어스 감당 못해”]]></title>
+        <id>https://v.daum.net/v/20230823064509672</id>
+        <link href="https://v.daum.net/v/20230823064509672"/>
+        <updated>2023-08-22T22:10:09.262Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]샘 아스가리(29)가 보호관찰이 끝나고 너무 많이 자유로워진 브리트니 스피어스(41)를 감당하지 못해 이혼했다는 주장이 제기됐다. 2008년 스피어스의 이상행동에 대한 판사의 명령으로 보호자 역할을 해왔던 아버지와 변호인단이 스피어스의 개인행동과 비즈니스를 모두 관리해왔다. 스피어스는 2021년 11월 아버지 제이미 스피어]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['가오갤' 크리스 프랫, 마블 아닌 DC서 활약할까]]></title>
         <id>https://v.daum.net/v/20230823060030947</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230822154230894"/>
         <updated>2023-08-22T07:10:08.584Z</updated>
         <content type="html"><![CDATA[[TV리포트=강성훈 기자] 온라인 방송인 겸 WWE 스타 로건 폴(Logan Paul·28)이 영화 '오펜하이머'를 보다가 중간에 나온 이유에 관해 밝혔다. 외신 '야후!'(yahoo!), '엔비씨뉴스'(nbcnews)등에 따르면 로건 폴은 자신의 팟캐스트 최신 방송에서 "(영화 '오펜하이머'가) 지루하고 이해하기 어려워 하차했다"고 전했다. '오펜하이머']]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[킴 카다시안, 호러물에 등장...배우 '자질 논란' 잠재울까]]></title>
-        <id>https://v.daum.net/v/20230822152030949</id>
-        <link href="https://v.daum.net/v/20230822152030949"/>
-        <updated>2023-08-22T07:10:08.586Z</updated>
-        <content type="html"><![CDATA[[TV리포트=유비취 기자] 방송인 겸 사업가 킴 카다시안이 과감하게 이미지 변신을 시도하며 연기자로서 열정을 드러냈다. 22일 FX '아메리칸 호러 스토리'가 공식 소셜네트워크서비스를 통해 킴 카다시안이 출연하는 새 시리즈의 예고편을 공개했다. 킴 카다시안, 엠마 로버츠, 카라 델레바인이 주연을 맞은 이번 시리즈에서는 고전 동요인 'Rock-A-Bye-Ba]]></content>
     </entry>
 </feed>
