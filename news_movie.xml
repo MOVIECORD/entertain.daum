@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-08-22T12:19:55.547Z</updated>
+    <updated>2023-08-22T13:13:04.363Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[신혜선 "겁쟁이...혼자 있으면 무섭다"]]></title>
+        <id>https://v.daum.net/v/20230822215003931</id>
+        <link href="https://v.daum.net/v/20230822215003931"/>
+        <updated>2023-08-22T13:12:41.206Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 김유진 기자) 배우 신혜선이 중고거래로 인해 발생한 범죄를 소재로 다룬 주연작 '타겟'을 이야기하며 일상 범죄에 대해 두려움을 느꼈던 마음을 털어놓았다. 신혜선은 22일 오후 서울 종로구 소격동의 한 카페에서 열린 영화 '타겟'(감독 박희곤) 인터뷰에서 다양한 이야기를 전했다. '타겟'은 중고거래로 범죄의 표적이 된 수현의 일상 속에서 벌어지]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["자기복제 않도록"…'타겟' 신혜선, 극한 속 살아남으려는 DNA]]></title>
         <id>https://v.daum.net/v/20230822210024254</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230822180204790"/>
         <updated>2023-08-22T09:10:27.256Z</updated>
         <content type="html"><![CDATA[[서울경제] 가장 편안해야 할, 가장 변화가 없어야 할 공간인 집에서 위화감을 느끼는 것 만큼 무서운 일이 있을까. 영화 ‘잠’은 일상적 소재인 집과 침대, 수면을 공포의 소재로 영리하게 바꾸며 관객들을 불안과 긴장 속으로 몰아넣는다. 영화는 수면 장애, 혹은 몽유병을 소재로 진행된다. 남편 현수(이선균)는 잠을 자며 피가 날 때까지 볼을 긁는 것도 모]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['잠' 정유미 "홍상수 작품 함께한 이선균, 10년 만에 봐도 안 어색"②]]></title>
-        <id>https://v.daum.net/v/20230822175836648</id>
-        <link href="https://v.daum.net/v/20230822175836648"/>
-        <updated>2023-08-22T09:10:27.256Z</updated>
-        <content type="html"><![CDATA[[이데일리 스타in 김보영 기자] ‘잠’ 정유미가 홍상수 감독 작품들 이후 오랜만에 재회한 이선균과의 편안한 호흡과 케미에 대해 언급했다. 정유미는 22일 오후 서울 종로구의 한 카페에서 영화 ‘잠’의 개봉을 앞두고 취재진과 인터뷰를 진행하며 작품의 개봉을 앞둔 설렘과 긴장을 솔직담백히 털어놨다. 오는 9월 개봉을 앞둔 ‘잠’은 행복한 신혼부부 현수(]]></content>
     </entry>
 </feed>
