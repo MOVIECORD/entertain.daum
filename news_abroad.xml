@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-08-22T01:42:59.980Z</updated>
+    <updated>2023-08-22T02:16:04.187Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[안젤리나 졸리, 8월 무더위에 겨울 코트 입어 “놀라운 패션 스타일링”]]></title>
+        <id>https://v.daum.net/v/20230822110832982</id>
+        <link href="https://v.daum.net/v/20230822110832982"/>
+        <updated>2023-08-22T02:16:03.336Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]유명인들은 날씨에 맞는 옷을 입지 않는 것으로 악명이 높다. 리한나는 한겨울에 극단적인 미니스커트와 오픈토 힐을 신은 적이 있고, 에밀리 라타이코프스키는 올여름 파리에서 열린 로에베 남성복 패션쇼에서 가죽 트렌치코트를 입고 땀을 흘리는 모습이 포착된 적도 있다. 그러나 이들 모두 안젤리나 졸리(48)와 비교할 수 없다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[아이돌 출신 女연예인, 야쿠자 간부와 '초호화' 한국 여행? "사실 아냐"]]></title>
         <id>https://v.daum.net/v/20230822104117823</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230821122838137"/>
         <updated>2023-08-21T04:13:08.245Z</updated>
         <content type="html"><![CDATA[(엑스포츠뉴스 이창규 기자) 배우 겸 감독 타이카 와이티티가 마블 시네마틱 유니버스(MCU) 영화 '토르: 러브 앤 썬더'의 후속작을 찍게 된다면 다루고 싶은 이야기에 대해 언급했다. 지난 18일(현지시간) 타이카 와이티티는 스크린랜트와의 인터뷰에서 '토르 5'를 찍게 된다면&nbsp;다루고 싶은 이야기에 대해 "캐릭터의 진화와 함께 계속되는 것처럼 느껴져야 하지만]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['백설공주' 여주, '페미니즘' 발언에...원작자 아들 "원작 훼손" 비판]]></title>
-        <id>https://v.daum.net/v/20230821121201875</id>
-        <link href="https://v.daum.net/v/20230821121201875"/>
-        <updated>2023-08-21T04:13:08.249Z</updated>
-        <content type="html"><![CDATA[[TV리포트=유비취 기자] 디즈니 실사판 영화 '백설 공주'가 또 도마 위로 올랐다. 지난 18일(현지 시간) 영국 매체 데일리텔레그래프와의 인터뷰에서 원작 감독의 아들이 리메이크 작에 대해 거세게 비판했다. 1937년 공개된 애니메이션 '백설 공주와 일곱 난쟁이'(이하 '백설 공주')의 공동 감독 중 한 명인 데이비드 핸드의 아들 데이비드 핸드로는 리]]></content>
     </entry>
 </feed>
