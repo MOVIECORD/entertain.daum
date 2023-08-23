@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-08-23T01:42:03.205Z</updated>
+    <updated>2023-08-23T02:15:01.963Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[고현정→안재홍 열연만 남은...‘마스크걸’ 전세계 2위]]></title>
+        <id>https://v.daum.net/v/20230823111201626</id>
+        <link href="https://v.daum.net/v/20230823111201626"/>
+        <updated>2023-08-23T02:14:38.745Z</updated>
+        <content type="html"><![CDATA[파격 그이상의 자극적인 ‘마스크걸’이다. 배우들의 미친 싱크로율과 놀라운 열연에는 이견 없는 극찬이 쏟아지고 있지만, 작품 자체에 대한 평가는 극과 극으로 나뉘고 있다. 어떤 의미로든 화제성 갑의 ‘마스크걸’이 그 존재감을 과시하듯 전 세계 2위를 찍었다. 23일 넷플릭스 공식 사이트 ‘넷플릭스 톱(TOP)10’에 따르면 ‘마스크걸’은 지난 14일부터 20]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['마스크걸' 공개 3일 만에 글로벌 톱 2위..극강의 카타르시스]]></title>
+        <id>https://v.daum.net/v/20230823104247237</id>
+        <link href="https://v.daum.net/v/20230823104247237"/>
+        <updated>2023-08-23T02:14:38.746Z</updated>
+        <content type="html"><![CDATA[[스포츠조선 문지연 기자] '마스크걸'이 공개 3일 만에 글로벌 TOP 10(비영어) 부문 2위에 올랐다. 외모 콤플렉스를 가진 평범한 직장인 김모미가 밤마다 마스크로 얼굴을 가린 채 인터넷 방송 BJ로 활동하면서 의도치 않은 사건에 휘말리며 벌어지는 이야기로, 김모미의 파란만장한 일대기를 그린 넷플릭스 시리즈 '마스크걸'이 공개 3일 만에]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['콘크리트 유토피아' 이 부부가 던지는 질문]]></title>
         <id>https://v.daum.net/v/20230823103601994</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230823090406271"/>
         <updated>2023-08-23T00:43:13.517Z</updated>
         <content type="html"><![CDATA[[티브이데일리 최하나 기자] 영화 ‘오펜하이머’가 박스오피스 1위를 기록했다. 23일 영화진흥위원회 통합전산망에 따르면 ‘오펜하이머’(감독 크리스토퍼 놀란)가 지난 22일 7만3889명의 관객을 동원하며 박스오피스 1위를 기록했다. 누적 관객수는 175만3905명이다. ‘오펜하이머’는 세상을 구하기 위해 세상을 파괴할 위험을 감수해야 하는 천재 과학자의]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[제28회 부산국제영화제, 지석상&비프메세나상&선재상 심사위원 9인 확정]]></title>
-        <id>https://v.daum.net/v/20230823085106838</id>
-        <link href="https://v.daum.net/v/20230823085106838"/>
-        <updated>2023-08-23T00:43:13.521Z</updated>
-        <content type="html"><![CDATA[[SBS 연예뉴스 | 김지혜 기자] 제28회 부산국제영화제가 경쟁부문인 지석상과 비프메세나상, 선재상 심사위원을 확정 지었다. 지난 2017년 신설된 지석상은 아시아영화의 발굴과 성장에 헌신해 온 故김지석 수석 프로그래머의 정신과 뜻을 기리기 위한 상이다. 지석상은 세 편 이상의 장편을 만든 한국과 아시아 중견 감독들의 신작을 소개하는 지석 섹션의 작품 중]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘오펜하이머’ 200만 목전...부동의 1위]]></title>
-        <id>https://v.daum.net/v/20230823085100833</id>
-        <link href="https://v.daum.net/v/20230823085100833"/>
-        <updated>2023-08-23T00:43:13.528Z</updated>
-        <content type="html"><![CDATA[더디지만 꾸준하다. 영화 ‘오펜하이머’(감독 크리스토퍼 놀란)가 8일째 1위를 지키며 200만 돌파를 앞두고 있는 가운데 ‘엘리멘탈’은 기적의 700만 돌파를 목전에 뒀다. 묵직한 레이스다. 23일 오전 영화진흥위원회 영화관입장권 통합전산망에 따르면 ‘오펜하이머’는 전날 7만 3889명의 관객을 동원해 누적 관객수 175만 3905명을 기록했다. 이번주 중]]></content>
     </entry>
 </feed>
