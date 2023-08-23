@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/variety</id>
     <title>다음 연예 ─ 뉴스 ─ 예능</title>
-    <updated>2023-08-23T18:11:33.628Z</updated>
+    <updated>2023-08-23T19:08:29.462Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김민호 “극 중 ‘20살 연상’ 김혜선과 연인..첫 뽀뽀→로맨스에 父 질투”]]></title>
+        <id>https://v.daum.net/v/20230824035023659</id>
+        <link href="https://v.daum.net/v/20230824035023659"/>
+        <updated>2023-08-23T19:08:17.172Z</updated>
+        <content type="html"><![CDATA[[OSEN=박하영 기자] ‘라디오스타’ 김민호가 20살 연상 김혜선과 첫 베드신을 찍었다고 고백했다.&nbsp; 23일 방송된 MBC 예능 ‘라디오스타’(이하 ‘라스’)에는 스페셜 MC 신기루가 함께한 가운데 ‘경이로운 소문의 K장인’ 특집으로 김지석, 박미옥, 김민호, 송영규가 출연했다. 이날 김민호는 드라마 ‘오케이 광자매’서 연상연하 커플로 출연했던 비하인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[현아, "前남친 던과 '환승연애3' 출연 YES! 제작진 연락 달라"]]></title>
         <id>https://v.daum.net/v/20230824020925289</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230823235703634"/>
         <updated>2023-08-23T15:11:36.071Z</updated>
         <content type="html"><![CDATA[[OSEN=오세진 기자]&nbsp;MBN ‘어른들은 모르는 고딩엄빠4’(이하 ‘고딩엄빠4’) 무속인 전채원이 부모님과의 관계 개선을 위해 출연했다. 23일 방영한 ‘고딩엄빠4’에서는 비록 10대 출산은 아니었으나 이른 나이에 사랑 하나만 보고 출산을 결정한 전채원이 절연 당한 아버지와의 관계 개선을 위해 출연했다. 원래 전채원은 집에서 금지옥엽으로 자랐다. 오빠]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[서장훈, 전채원 집 위생 상태에 경악 “안 아픈게 이상해”]]></title>
-        <id>https://v.daum.net/v/20230823235654629</id>
-        <link href="https://v.daum.net/v/20230823235654629"/>
-        <updated>2023-08-23T15:11:36.073Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 이하나 기자] 서장훈이 성급했던 동거, 임신으로 삶이 달라진 전채원의 일상을 보고 잔소리를 쏟아냈다. 8월 23일 방송된 MBN ‘어른들은 모르는 고딩엄빠4’에는 주변 사람이 모두 떠나가는 것을 고민하는 전채원이 출연했다. 이날 방송에는 전채원의 집이 공개됐다. 오전 10시에 알람이 울리자 몸을 힘들게 일으킨 전채원은 바로 냉장고 문을 열었다]]></content>
     </entry>
 </feed>
