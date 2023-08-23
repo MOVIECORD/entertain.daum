@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-08-23T19:08:29.457Z</updated>
+    <updated>2023-08-23T20:13:31.041Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[컨저링 유니버스 사상 최고…'더 넌2' 9월 국내 개봉 확정]]></title>
+        <id>https://v.daum.net/v/20230824050017106</id>
+        <link href="https://v.daum.net/v/20230824050017106"/>
+        <updated>2023-08-23T20:13:07.546Z</updated>
+        <content type="html"><![CDATA[[OSEN=김보라 기자] 영화 '더 넌2'가 오는 9월 국내 개봉을 확정했다. 공포영화 장르의 새로운 지평을 연 호러 마스터피스 '컨저링 유니버스'의 9번째 작품인 '더 넌 2'(감독 마이클 차베즈, 수입배급 워너브러더스 코리아)가 올 가을 가장 무서운 컴백을 예고한다. '더 넌2'는 루마니아 수녀원 사건 4년 후, 수녀 모습을 한 악마가 다시 나타나면]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김성훈 감독 “영화적 상상력으로 호기심 채우고 싶었다”]]></title>
         <id>https://v.daum.net/v/20230824040732753</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230823165702104"/>
         <updated>2023-08-23T08:13:02.621Z</updated>
         <content type="html"><![CDATA[‘여름대전’을 이끈 김혜수·하정우·설경구·이병헌에 이어 이번엔 ‘추석대전’을 이끌 주역들이 공개됐다. 역시나 충무로 단골 스타들, 송강호·하정우·강동원이다. ‘밀수’만 살아 남은 살벌했던 여름대전이 ‘콘크리트 유토피아’의 손익분기점 돌파 여부로 마무리될 전망인 가운데 추석대전 대진표가 확정됐다. 송강호의 ‘거미집’, 강동원의 ‘천박사 퇴마 연구소: 설경의]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['잠' 유재선 "봉준호한테 잘 배웠단 말 듣고 싶어"]]></title>
-        <id>https://v.daum.net/v/20230823165030823</id>
-        <link href="https://v.daum.net/v/20230823165030823"/>
-        <updated>2023-08-23T08:13:02.621Z</updated>
-        <content type="html"><![CDATA[[TV리포트=김연주 기자] 영화 '잠'으로 장편 데뷔를 앞둔 유재선 감독이 스승 봉준호 감독을 언급했다.&nbsp; 23일 오후 서울 종로구 안국동의 한 카페에서 영화 '잠'으로 장편 데뷔를 앞둔 유재선 감독과의 인터뷰가 진행됐다.&nbsp; '잠'은 행복한 신혼부부 현수와 수진을 악몽처럼 덮친 남편 현수의 수면 중 이상행동으로 인해 잠드는 순간 시작되는 끔찍한 공포의 비밀]]></content>
     </entry>
 </feed>
