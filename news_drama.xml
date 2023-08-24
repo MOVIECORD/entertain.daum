@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-08-24T12:21:10.796Z</updated>
+    <updated>2023-08-24T13:13:11.313Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["또 우리 아들 인생 초 치려고"...최재원, 반소영 보자마자 '분노']]></title>
+        <id>https://v.daum.net/v/20230824213900568</id>
+        <link href="https://v.daum.net/v/20230824213900568"/>
+        <updated>2023-08-24T13:12:54.306Z</updated>
+        <content type="html"><![CDATA[[TV리포트=김유진 기자] 반소영이 윤다영 앞에 나타났다. 24일 방영된 KBS 일일드라마 '금이야옥이야' 105회에서는 이선주(반소영)가 호랑미술학원에 찾아와 옥미래(윤다영)에게 도발하는 모습이 그려졌다. 이선주는 금잔디(김시은)이 그린 그림을 보며 "그림에서 엄마를 향한 강한 그리움이 느껴진다. 엄마를 많이 못 잊은 것 같다"며 옥미래를 당황하게 한다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['우아한 제국' 한지완, 김진우 음모로 경찰 연행..'고구마 전개']]></title>
         <id>https://v.daum.net/v/20230824205024821</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230824185202346"/>
         <updated>2023-08-24T10:11:07.142Z</updated>
         <content type="html"><![CDATA[(엑스포츠뉴스 김유진 기자) 배우 윤정훈이 특별출연의 좋은 예를 선보였다. 윤정훈은 23일 첫 방송된 JTBC 수목드라마 '이 연애는 불가항력'에서 짧은 등장에도 흥미진진한 전개를 이어간 원동력으로 활약을 펼치며 극을 풍성하게 채워넣는데 힘을 보탰다. 윤정훈은 극 중 호러 전문 유튜버 헬로 역으로 변신, 본격적인 이야기의 출발점 역할을 해냈다.&nbsp; 이날 방송]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[조보아, '로운♥' 유라와 악연…날선 경계심과 미움]]></title>
-        <id>https://v.daum.net/v/20230824183032756</id>
-        <link href="https://v.daum.net/v/20230824183032756"/>
-        <updated>2023-08-24T10:11:07.144Z</updated>
-        <content type="html"><![CDATA[[OSEN=장우영 기자] ‘이 연애는 불가항력’ 조보아, 로운에게 뜻밖의 손님이 찾아온다. JTBC 수목드라마 ‘이 연애는 불가항력’(극본 노지설, 연출 남기훈, 제작 SLL·씨제스스튜디오)측은 24일, 이홍조(조보아)와 윤나연(유라)의 아슬아슬한 재회가 담긴 스틸을 공개했다. 여기에 장신유(로운)의 로펌 사무실에서 포착된 권재경(하준)의 모습은 이들에]]></content>
     </entry>
 </feed>
