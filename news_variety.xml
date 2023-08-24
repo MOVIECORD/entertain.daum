@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/variety</id>
     <title>다음 연예 ─ 뉴스 ─ 예능</title>
-    <updated>2023-08-24T19:08:53.074Z</updated>
+    <updated>2023-08-24T20:11:16.742Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['도박빚 40억' 고태산, 별거 중 아내에 "미안하고 부끄럽다"]]></title>
+        <id>https://v.daum.net/v/20230825050500641</id>
+        <link href="https://v.daum.net/v/20230825050500641"/>
+        <updated>2023-08-24T20:11:05.579Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 | 김노을 기자] /사진=MBN 방송화면'특종세상' 배우 고태산이 자신을 대신해 생계를 책임지고 육아를 도맡은 아내에게 미안한 마음을 전했다. 24일 방송된 MBN '특종세상'에서는 악역 전문 배우로서 극중 전과 240범에 이르는 고태산의 근황이 그려졌다. 이날 고태산은 좁은 단칸방에서 모습을 드러내며 "결혼 40년 만에 이혼 단계"라며 "현]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“나랑 술 많이 마셔” 박진영, 홍진경 과거 폭로에 진땀→편집 요청]]></title>
         <id>https://v.daum.net/v/20230825014912456</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230824233021611"/>
         <updated>2023-08-24T15:11:09.677Z</updated>
         <content type="html"><![CDATA[(엑스포츠뉴스 김나연 기자) 11기 영철이 13기 현숙에게 슈퍼 데이트권을 사용했다. 24일 방송된 SBS Plus '나는 SOLO, 그 후 사랑은 계속된다'(이하 '나솔사계')에서는 13기 현숙에게 슈퍼 데이트권을 사용하는 11기 영철의 모습이 전파를 탔다. 이날 11기 영철은 13기 현숙에 "슈퍼 데이트권을 쓰겠습니다"라고 말했다. 이어 현숙에 "슈퍼]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['손석구 닮은꼴' 김신의 "순수했던 안성훈, 진 되고 변해" 과거 폭로]]></title>
-        <id>https://v.daum.net/v/20230824233001608</id>
-        <link href="https://v.daum.net/v/20230824233001608"/>
-        <updated>2023-08-24T15:11:09.678Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 노수린 기자) 김신의가 안성훈의 과거를 폭로했다. 24일 방송된 TV조선 '미스터로또'에서는 파워 보컬 특집을 맞아 정인, 정동하, 김신의, 솔지가 출연해 TOP7과 노래 대결을 펼쳤다. 일일 황금기사단이 된 정동하는 "우리는 승부 싸움에서 모두가 선수다. 선출로서 관객분들에게 꼭 행운을 드리겠다"고 자신감을 드러냈다. 정인은 TOP7에 대해]]></content>
     </entry>
 </feed>
