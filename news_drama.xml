@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-08-24T18:12:56.470Z</updated>
+    <updated>2023-08-24T19:08:53.073Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['국민사형투표' 임지연, 중태라고 속인 박해진에 "지금 대국민 사기 치신 거냐?" 비난]]></title>
+        <id>https://v.daum.net/v/20230825035404943</id>
+        <link href="https://v.daum.net/v/20230825035404943"/>
+        <updated>2023-08-24T19:08:35.792Z</updated>
+        <content type="html"><![CDATA[[SBS연예뉴스 | 김효정 에디터] 박해진은 개탈을 잡을 수 있을까? 24일 방송된 SBS 목요 드라마 '국민사형투표'에서는 김무찬이 언론을 이용해 국민들의 여론을 바꾸었다. 이날 김무찬은 차량 폭발 전 차량에서 탈출했고, 이에 목숨을 건졌다. 그러나 경찰은 김무찬이 사경을 헤매고 있다고 밝혔고, 이에 국민사형투표에 대한 여론은 바뀌었던 것. 김무찬이 차량]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[박해진 '대국민 사기극' 들통...임지연 "찌질하시네"]]></title>
         <id>https://v.daum.net/v/20230825000631080</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230824195601775"/>
         <updated>2023-08-24T11:10:11.750Z</updated>
         <content type="html"><![CDATA[[TV리포트 = 하수나 기자] 전혜연이 이훈에게 마약 누명을 씌운 김유석의 악행 증거를 손에 넣었다.&nbsp; 24일 MBC 일일드라마 ‘하늘의 인연’에선 윤솔(전혜연 분)이 내동탑차에 갇혀 죽음의 위기를 맞은 모습이 그려졌다.&nbsp; 윤솔은 황태용에게 중요한 증거를 받기로 한 장소에서 냉동탑차에 갇히는 상황을 맞았다. 이를 지시한 것은 다름 아닌 친부 강치환(김유석]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[최수영 "母, 마지막회에 눈물…엄마 전혜진 덕분"]]></title>
-        <id>https://v.daum.net/v/20230824195017639</id>
-        <link href="https://v.daum.net/v/20230824195017639"/>
-        <updated>2023-08-24T11:10:11.752Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 이창규 기자) 배우 최수영이 드라마&nbsp;'남남'을 통해 더욱 성장한 모습을 보여준 가운데, 더욱 다양한 형태의 가족 이야기가 그려지기를 희망했다. 24일 오전 서울 강남구 사람엔터테인먼트 사옥에서&nbsp;지니 TV 오리지널 ‘남남’ 최수영과의 종영 인터뷰가 진행됐다. 지니 TV 오리지널 ‘남남’은 철부지 엄마와 쿨한 딸의 ‘남남’ 같은 대 환장 한 집]]></content>
     </entry>
 </feed>
