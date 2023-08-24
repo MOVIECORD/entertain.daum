@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-08-24T22:09:44.333Z</updated>
+    <updated>2023-08-24T23:10:23.166Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['국민사형투표' 박해진X임지연, 개탈 두뇌싸움 시작 최고 5.5%]]></title>
+        <id>https://v.daum.net/v/20230825080138963</id>
+        <link href="https://v.daum.net/v/20230825080138963"/>
+        <updated>2023-08-24T23:10:05.642Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 | 윤상근 기자] /사진=SBS 목요드라마 ‘국민사형투표’ '국민사형투표'에서 박해진X임지연과 개탈의 본격 두뇌싸움이 시작됐다. 24일 방송된 SBS 목요드라마 '국민사형투표'(극본 조윤영/연출 박신우/제작 ㈜팬엔터테인먼트, 스튜디오S) 3회는 닐슨코리아 전국 기준 시청률 4.1%를 기록하며 전주 대비 상승했다. 이는 동 시간대 전 채널 1위]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['국민사형투표' 박성웅, 임지연에 "박해진 너무 믿지 마" 의미심장 발언]]></title>
+        <id>https://v.daum.net/v/20230825075031771</id>
+        <link href="https://v.daum.net/v/20230825075031771"/>
+        <updated>2023-08-24T23:10:05.642Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 황수연 기자) 박해진 임지연과 개탈의 본격 두뇌싸움이 시작됐다. 24일 방송된 SBS 목요드라마 ‘국민사형투표’ 3회는 닐슨코리아 전국 기준 시청률 4.1%를 기록하며 전주 대비 상승했다. 이는 동 시간대 전 채널 1위이자 목요드라마 1위에 해당하는 수치이다. 순간 최고 시청률은 5.5%까지 올랐다. 또 광고주들의 주요 지표로 활용되는 204]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이장현=남궁민 아닐리가..'능글 남주+액션' 진짜 잘한다!]]></title>
         <id>https://v.daum.net/v/20230825063601816</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230824221915092"/>
         <updated>2023-08-24T14:09:45.242Z</updated>
         <content type="html"><![CDATA[[스타뉴스 | 김지은 인턴기자] /사진='국민사형투표' 화면 캡처임지연이 '국민사형투표'의 두 번째 피해자를 살리려던 박해진이 중상을 입자 분노했다. 24일 방송된 SBS 드라마 '국민사형투표' 3화에서는 '사형투표' 두 번째 타깃인 엄은경이 사망하고 김무찬(박해진)이 중상을 입은 모습이 그려졌다. 이 사건을 통해 김무찬은 사경을 헤매는 처지가 됐다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['마스크걸' 아침극 신파 될 뻔? 어떻게 '출생의 비밀' 탈피했나]]></title>
-        <id>https://v.daum.net/v/20230824221322979</id>
-        <link href="https://v.daum.net/v/20230824221322979"/>
-        <updated>2023-08-24T14:09:45.242Z</updated>
-        <content type="html"><![CDATA[[OSEN=최나영 기자] (이 기사에는&nbsp;스포일러가&nbsp;포함돼&nbsp;있습니다) 지난 18일 공개된 넷플릭스 '마스크걸'을 본 많은 네티즌이 갖는 궁금증. "그래서 모미의 딸이 주오남의 아이야 아니야?" 동명의 웹툰이 원작인 '마스크걸'은 외모 콤플렉스를 가진 평범한 직장인 김모미가 밤마다 마스크로 얼굴을 가린 채 인터넷 방송 BJ로 활동하면서 의도치 않은 사건에]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["또 우리 아들 인생 초 치려고"...최재원, 반소영 보자마자 '분노']]></title>
-        <id>https://v.daum.net/v/20230824213900568</id>
-        <link href="https://v.daum.net/v/20230824213900568"/>
-        <updated>2023-08-24T13:12:54.306Z</updated>
-        <content type="html"><![CDATA[[TV리포트=김유진 기자] 반소영이 윤다영 앞에 나타났다. 24일 방영된 KBS 일일드라마 '금이야옥이야' 105회에서는 이선주(반소영)가 호랑미술학원에 찾아와 옥미래(윤다영)에게 도발하는 모습이 그려졌다. 이선주는 금잔디(김시은)이 그린 그림을 보며 "그림에서 엄마를 향한 강한 그리움이 느껴진다. 엄마를 많이 못 잊은 것 같다"며 옥미래를 당황하게 한다.]]></content>
     </entry>
 </feed>
