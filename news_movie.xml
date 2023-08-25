@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-08-25T05:10:37.874Z</updated>
+    <updated>2023-08-25T06:14:19.080Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['더문' 개봉 3주 만에 VOD행 굴욕, 신파는 더 이상 안 통한다]]></title>
+        <id>https://v.daum.net/v/20230825143206016</id>
+        <link href="https://v.daum.net/v/20230825143206016"/>
+        <updated>2023-08-25T06:13:56.586Z</updated>
+        <content type="html"><![CDATA[[티브이데일리 김종은 기자] 흥행 참패를 기록한 영화 '더 문'이 결국 개봉 3주 만에 VOD로 향하는 굴욕을 당했다. 작품 곳곳에 있는 신파 요소가 호불호 갈리는 평가를 받으며 관객들로부터 외면받은 것. 억지로 눈물을 짜내며 감동인 것처럼 속이는 신파는 더 이상 한국 관객들을 설득시킬 수 없다는 걸 다시 한번 몸소 증명해 낸 '더 문'이다. '밀수' ']]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['달짝지근해'의 올드함, 철저히 의도된 결과물]]></title>
+        <id>https://v.daum.net/v/20230825141802619</id>
+        <link href="https://v.daum.net/v/20230825141802619"/>
+        <updated>2023-08-25T06:13:56.595Z</updated>
+        <content type="html"><![CDATA[[원종빈 기자] * 이 글에는 영화의 스포일러가 있습니다. 집, 회사, 집, 회사만 오가는 제과 연구원 '치호'(유해진). 그는 과자밖에 모르고, 사람들과 어울리는 걸 세상에서 가장 어려워한다. 어느 날, 염치없는 형 '석호'(차인표)의 부탁으로 대출 보증을 서 주기 위해 캐피탈사를 찾은 치호 앞에 세상 밝고 직진밖에 모르는 '일영'(김희선)이 나타난다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘잠’ 패밀리X장항준 감독, 27일 ‘넌 감독이었어’ 출연]]></title>
         <id>https://v.daum.net/v/20230825140301168</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230825115203516"/>
         <updated>2023-08-25T03:10:47.256Z</updated>
         <content type="html"><![CDATA[[스포츠투데이 송오정 기자] 그룹 아스트로(ASTRO) 윤산하가  '수운잡방'를 통해 색다른 사대부로 변신한다. 영화 '수운잡방'(감독 최연수·제공/제작 KBS 한국방송, 아센디오)은 과거 시험 삼수생 양반 '김유'가 자칭 조선 최고의 요리사 '계암'을 만나 미식의 세계에 빠져들어 자신이 진정으로 원했던 삶을 찾아가는 유쾌하며 풋풋한 청춘들의 이야기를 그]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['치악산' 측 "제목·대사 삭제 불가…원주시와 원만한 협의"]]></title>
-        <id>https://v.daum.net/v/20230825114757370</id>
-        <link href="https://v.daum.net/v/20230825114757370"/>
-        <updated>2023-08-25T03:10:47.257Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 윤현지 기자) 영화 '치악산'(감독 김선웅)이 원주시와 원만한 협의를 했다고 밝혔다. 25일 '치악산' 제작사 도호엔터테인먼트는 "지난 23일과 24일 양일간 원주시청 관계자를 찾아 원만한 해결을 위한 협의를 진행했다"고 밝혔다. 원주시는 ▲'치악산' 제목 변경 ▲'치악산' 대사 삭제 또는 묵음 처리 ▲본편 내 실제 지역 사건과 사건이 무관하]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[티모시 샬라메x젠다야 '듄2', 美 파업으로 2024년 3월 개봉 연기]]></title>
-        <id>https://v.daum.net/v/20230825114525311</id>
-        <link href="https://v.daum.net/v/20230825114525311"/>
-        <updated>2023-08-25T03:10:47.260Z</updated>
-        <content type="html"><![CDATA[[OSEN=김보라 기자]&nbsp;영화 ‘듄2’의 개봉이 2024년으로 연기됐다. 당초 올 11월 극장 개봉할 예정이었지만 파업이 상영에도 영향을 끼쳤다. 티모시 샬라메와 젠데이아 콜먼, 레베카 퍼거슨 등의 배우들이 출연하는 영화 ‘듄: 파트2’의 개봉이 연기된 것으로 제작사 워너 브라더스를 통해 24일(현지 시간) 알려졌다. 이에 ‘듄: 파트2’(감독 드니 빌]]></content>
     </entry>
 </feed>
