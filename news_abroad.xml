@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-08-25T12:18:43.742Z</updated>
+    <updated>2023-08-25T13:13:08.751Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[美래퍼 폴로G 형제, '불법 총기 소지+강도' 혐의로 체포]]></title>
+        <id>https://v.daum.net/v/20230825212142672</id>
+        <link href="https://v.daum.net/v/20230825212142672"/>
+        <updated>2023-08-25T13:13:07.728Z</updated>
+        <content type="html"><![CDATA[[TV리포트=최은영 기자] 레코딩 아티스트 폴로 G(Polo G)와 그의 동생 트렌치 베이비(Trench Baby)가 총기소지, 강도사건 혐의로 체포됐다. 24일(이하 현지 시간) 보도된 외신 'DEADLINE', 'People' 등에 따르면 로스앤젤레스 경찰이 폴로 G(본명: 타우러스 버틀렛)의 집과 차량을 수색한 결과 불법 단총을 발견됐다. 동생 트렌치]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['건강 악화' 됐다며 프로그램 하차했는데...거짓말 딱 걸린 中 가수]]></title>
         <id>https://v.daum.net/v/20230825204030932</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230825144200319"/>
         <updated>2023-08-25T06:14:18.145Z</updated>
         <content type="html"><![CDATA[[TV리포트=안수현 기자] 대만 배우 임심여가 중국 네티즌들로부터 비난 받고 있다. 지난 22일 많은 중국인이 중국 밸런타인데이라고도 불리는 '칠석절' 축제를 즐겼다. 사실, 보통의 국가는 서양의 밸런타인데이인 2월 14일을 기념하지만, 중국의 경우 음력 7월 7일에 밸런타인데이를 기념한다. 같은 날, 임심여(47)는 한 매체와의 인터뷰에서 남편이자 배우]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[납치된 중국 女스타, 마지막 위치 필리핀...경찰 수사 진행]]></title>
-        <id>https://v.daum.net/v/20230825140230157</id>
-        <link href="https://v.daum.net/v/20230825140230157"/>
-        <updated>2023-08-25T05:10:36.903Z</updated>
-        <content type="html"><![CDATA[[TV리포트=강성훈 기자] 중국 온라인 스타 아테나 리아(雅典娜Liya)가 실종된 지 3개월이 지났다 24일(이하 현지 시간) 보도된 외신 '8world'에 따르면 23일 중국 조산 상공회의소 양징웨이 대표가 언론을 통해 아테나가 실제로 납치됐고 마지막 행방이 필리핀이었다고 전했다.&nbsp; 경찰에 실종 신고를 했다고 밝힌 양징웨이 대표 역시 아테나 리아의 안전을]]></content>
     </entry>
 </feed>
