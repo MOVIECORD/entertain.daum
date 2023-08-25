@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-08-25T09:11:09.432Z</updated>
+    <updated>2023-08-25T10:10:57.934Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[만화 찢고 등장…'마스크걸' 이한별·'무빙' 이정하·'신병' 남태우]]></title>
+        <id>https://v.daum.net/v/20230825190144394</id>
+        <link href="https://v.daum.net/v/20230825190144394"/>
+        <updated>2023-08-25T10:10:41.692Z</updated>
+        <content type="html"><![CDATA[웹툰 원작 드라마의 가장 큰 관전포인트는 싱크로율이다. '마스크걸' 이한별부터 '무빙'의 이정하, '신병'의 최일구까지 만화를 찢고 나온 듯한 싱크로율을 자랑하는 세 사람을 모아봤다. ◆ '마스크걸' 김모미 그 자체, 1000:1 뚫은 신예 이한별 최근 공개된 넷플릭스 오리지널 시리즈 '마스크걸'의 최대 수확은 '김모미A' 역할을 맡은 신인 배우 이한]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[주인공 죽이자 뿔난 시청자들, 이제 보여주는 대로 보지 않네]]></title>
         <id>https://v.daum.net/v/20230825175121031</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230825143543123"/>
         <updated>2023-08-25T06:14:02.201Z</updated>
         <content type="html"><![CDATA[[뉴스엔 박수인 기자] ‘7인의 탈출’ 2차 티저 영상이 공개됐다. 오는 9월 15일 첫 방송되는 SBS 새 금토드라마 ‘7인의 탈출’(연출 주동민, 극본 김순옥, 제작 초록뱀미디어·스튜디오S)은 수많은 거짓말과 욕망이 뒤엉켜 사라진 한 소녀의 실종에 연루된 7명의 악인들의 생존 투쟁과 그들을 향한 피의 응징을 그린 피카레스크(악인들이 주인공인 작품) 복]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[신현빈·문상민, 데뷔 첫 로코..'새벽 두 시의 신데렐라' 주인공]]></title>
-        <id>https://v.daum.net/v/20230825142826903</id>
-        <link href="https://v.daum.net/v/20230825142826903"/>
-        <updated>2023-08-25T06:14:02.201Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 | 이승훈 기자] 신현빈, 문상민 /사진=스타뉴스배우 신현빈, 문상민이 '새벽 두 시의 신데렐라' 주인공으로 나선다. 25일 스타뉴스 단독 취재 결과, 신현빈과 문상민은 새 드라마 '새벽 두 시의 신데렐라'에 캐스팅된 것으로 확인됐다. '새벽 두 시의 신데렐라'는 동명의 웹툰을 원작으로 한 작품으로 자기 자신을 지키는 것이 우선인 평범한]]></content>
     </entry>
 </feed>
