@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-08-26T02:14:00.375Z</updated>
+    <updated>2023-08-26T03:10:47.416Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[반복되는 역사... 4년 전 이 사건 돌이켜보는 이유]]></title>
+        <id>https://v.daum.net/v/20230826115401322</id>
+        <link href="https://v.daum.net/v/20230826115401322"/>
+        <updated>2023-08-26T03:10:25.659Z</updated>
+        <content type="html"><![CDATA[[조영준 기자] ▲ &nbsp;EBS국제다큐영화제 상영작 &lt;블루 아일랜드&gt; 스틸컷ⓒ EBS국제다큐영화제&nbsp; * 주의! 이 글에는 영화의 스포일러가 포함돼 있습니다. 01. 2019년 홍콩 정부는 도주범죄인 및 형사법 관련 법률 지원 개정 법안을 상정하고자 한 바 있다. 대만 다퉁구에 위치한 한 호텔에서 발생한 홍콩인 피살 사건(푼휘잉 피살 사건)이 계기였다. 당시 홍]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“‘달짝지근해’ 유해진·김희선 키스신, 왜 클로즈업 안 했냐고요?”]]></title>
         <id>https://v.daum.net/v/20230826110658917</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230826060311979"/>
         <updated>2023-08-25T21:08:57.812Z</updated>
         <content type="html"><![CDATA[주지훈이 이번에는 화려한 카체이싱으로 시선을 사로잡았다. ‘비공식작전’은 1987년, 5년째 중동과를 벗어나지 못하고 있는 외교관 민준(하정우 분)이 전화를 받고 일어나는 일을 담았다. 민준은 20개월 전 레바논에서 실종된 외교관의 암호 메시지가 듣고, 미국 발령을 꿈꾸며 중동에 향한다. 그곳에서 현지 택시기사 판수(주지훈 분)와 만나 뜻하지 않게 공조를]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[주지훈, ‘비공식작전’ 향한 진심]]></title>
-        <id>https://v.daum.net/v/20230826060305974</id>
-        <link href="https://v.daum.net/v/20230826060305974"/>
-        <updated>2023-08-25T21:08:57.817Z</updated>
-        <content type="html"><![CDATA[배우 주지훈의 영화 ‘비공식작전’(감독 김성훈)을 향한 마음은 진심이었다. ‘비공식작전’은 1987년, 5년째 중동과를 벗어나지 못하고 있는 외교관 민준(하정우 분)이 전화를 받고 일어나는 일을 담았다. 민준은 20개월 전 레바논에서 실종된 외교관의 암호 메시지가 듣고, 미국 발령을 꿈꾸며 중동에 향한다. 그곳에서 현지 택시기사 판수(주지훈 분)와 만나 뜻]]></content>
     </entry>
 </feed>
