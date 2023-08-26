@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/variety</id>
     <title>다음 연예 ─ 뉴스 ─ 예능</title>
-    <updated>2023-08-26T08:12:34.586Z</updated>
+    <updated>2023-08-26T09:09:19.901Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[정용화, 아이돌 비밀 연애 작심 폭로 "요즘 장난 아니다"]]></title>
+        <id>https://v.daum.net/v/20230826173955769</id>
+        <link href="https://v.daum.net/v/20230826173955769"/>
+        <updated>2023-08-26T09:09:08.460Z</updated>
+        <content type="html"><![CDATA[[OSEN=장우영 기자] 그룹 씨엔블루 정용화가 아이돌 비밀연애부터 음악 방송에 대한 솔직한 마음을 밝혔다. 25일 공개된 채널 ‘좋댓구요 스튜디오-JDGY STUDIO’의 콘텐츠 ‘풍자愛술’에는 정용화가 게스트로 출연했다. 해당 영상에서 정용화는 풍자와 이야기를 나누던 중 아이돌 비밀연애에 대해 밝혔다. 그는 “요즘은 장난 아니라고 한다. 막 에어드롭]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[전현무, 이번엔 '겉친놈' 등극..탄수괴물 욕망 폭발]]></title>
+        <id>https://v.daum.net/v/20230826171709426</id>
+        <link href="https://v.daum.net/v/20230826171709426"/>
+        <updated>2023-08-26T09:09:08.463Z</updated>
+        <content type="html"><![CDATA[[OSEN=최나영 기자] ‘어벤제주스’ 이영자, 전현무, 권율 그리고 송성호 실장의 먹텐션이 폭발한다. 오늘(26일) 오후&nbsp;11시 10분 방송되는 MBC 예능 프로그램 ‘전지적 참견 시점’(기획 박정규 / 연출 김윤집, 이준범, 이경순, 김해니 / 작가 여현전 / 이하 ‘전참시’) 261회에서는 송 실장의 가수 데뷔를 축하하는 ‘어벤제주스’의 뜨끈한(?]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[옛 제자 시은 그룹명 헷갈린 현진영, 스테이씨 아닌 “트레이씨”]]></title>
         <id>https://v.daum.net/v/20230826170942325</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230826160916657"/>
         <updated>2023-08-26T08:12:23.228Z</updated>
         <content type="html"><![CDATA[[OSEN=장우영 기자] 안소영이 ‘박원숙의 같이 삽시다’를 명예 졸업할까. KBS1 ‘박원숙의 같이 삽시다’는 혼자 사는 중년 여자 스타들의 동거 생활을 통해 중장년 세대가 직면한 현실과 노후 고민에 대해 가감 없이 이야기하고, 서로의 상처와 고민을 함께 나누며 같이 살아가는 삶의 가치를 보여주는 프로그램이다. 축구장 142배에 달하는 국내 최고 규모]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[11기 영철, 13기 현숙→3기 정숙 급선회? 반전 선택하나]]></title>
-        <id>https://v.daum.net/v/20230826154747401</id>
-        <link href="https://v.daum.net/v/20230826154747401"/>
-        <updated>2023-08-26T07:09:33.762Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 박수인 기자] ‘나솔사계’가 11기 영철의 반전 선택을 예감케 하는 예고편을 공개했다. 8월 31일 방송을 앞두고 공개된 SBS PLUS와 ENA의 ‘나는 SOLO, 그 후 사랑은 계속된다’(이하 ‘나솔사계’) 예고편에서는 9기 영식, 11기 영철과 아찔한 ‘삼각 러브라인’을 이어가던 13기 현숙은 “진짜 못 고르겠다. 솔직히 지금 당장 선택 못]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이광길 코치, 뜻밖의 비보에 진땀→이택근 '초긴장']]></title>
-        <id>https://v.daum.net/v/20230826153553297</id>
-        <link href="https://v.daum.net/v/20230826153553297"/>
-        <updated>2023-08-26T07:09:33.762Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 | 김노을 기자] /사진제공=JTBC최강 몬스터즈 이광길 코치가 제2차 라인업 사태에 당황한다. 오는 28일 방송되는 JTBC 예능 프로그램 '최강야구' 55회에서는 최강 몬스터즈와 동원과학기술대학교의 1차전이 공개된다. 세 번째 직관 경기를 승리로 장식하며 연승 기운을 이어가고 있는 최강 몬스터즈는 동원과기대와 연전을 치르기 위해 울산으로]]></content>
     </entry>
 </feed>
