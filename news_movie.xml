@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-08-26T03:10:47.416Z</updated>
+    <updated>2023-08-26T04:11:58.139Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[영화 '오펜하이머'에는 없는 오펜하이머 이야기]]></title>
+        <id>https://v.daum.net/v/20230826130000762</id>
+        <link href="https://v.daum.net/v/20230826130000762"/>
+        <updated>2023-08-26T04:11:33.750Z</updated>
+        <content type="html"><![CDATA[[하성태 기자] ▲ &nbsp;&lt;전쟁의 종식자: 오펜하이머와 원자 폭탄&gt; 영문 포스터. ⓒ NBC&nbsp; "10만 명이 넘는 사람의 목숨을 빼앗는 데 결정적인 역할을 한 사람이라면, 당연한 일이지만 마음이 편할 수는 없습니다." 노년의 오펜하이머는 여전히 "양심의 가책을 느끼냐"는 기자의 질문에 고심 끝에 이렇게 답했다. 어찌보면 지극히 상식적이지만 또 달리 보면 굉장히]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[11일째 1위…‘오펜하이머’ N차 관람 입소문]]></title>
+        <id>https://v.daum.net/v/20230826125321719</id>
+        <link href="https://v.daum.net/v/20230826125321719"/>
+        <updated>2023-08-26T04:11:33.752Z</updated>
+        <content type="html"><![CDATA[[티브이데일리 이기은 기자] 영화 '오펜하이머'(감독 크리스토퍼 놀란)가 200만을 돌파하며 입소문을 타고 있다. 26일 영화진흥위원회 통합전산망에 따르면 '오펜하이머'는 지난 15일 개봉, 12일째인 26일 오전 7시 30분 기준 누적 관객 수 207만 5,831명을 기록했다. 이는 11일 연속 박스오피스 1위이며,  크리스토퍼 놀란 감독의 전작 '테넷]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[반복되는 역사... 4년 전 이 사건 돌이켜보는 이유]]></title>
         <id>https://v.daum.net/v/20230826115401322</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230826080116161"/>
         <updated>2023-08-25T23:10:52.233Z</updated>
         <content type="html"><![CDATA[[텐아시아=이하늘 기자] *'타겟'에 관한 약간의 스포일러가 포함돼있습니다. 우리가 늘 손에 쥐고 다니는 스마트폰이라는 온라인 공간에는 수많은 개인정보가 담겨있다. 이 말은 정보의 바다인 온라인 공간은 노출되기도, 표적이 되기도 쉽다는 말을 이르기도 한다. 어쩌면 자각하지 못하는 사이에 일상은 깨진 거울처럼 조금씩 균열이 되고 있는지도 모른다. 일상의]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['천박사 퇴마 연구소: 설경의 비밀' 강동원부터 김종수까지…매력 만점 케미스트리]]></title>
-        <id>https://v.daum.net/v/20230826073003809</id>
-        <link href="https://v.daum.net/v/20230826073003809"/>
-        <updated>2023-08-25T23:10:52.236Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 김유진 기자) 영화 '천박사 퇴마 연구소: 설경의 비밀'(감독 김성식)이 개성 가득한 캐릭터들의 다채로운 조화로 풍성한 재미를 선보일 예정이다.&nbsp; '천박사 퇴마 연구소: 설경의 비밀'은 귀신을 믿지 않지만 귀신 같은 통찰력을 지닌 가짜 퇴마사 천박사(강동원 분)가 지금껏 경험해본 적 없는 강력한 사건을 의뢰받으며 시작되는 이야기를 그린 영화다]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘비공식작전’ 주지훈 “나이듦에 대한 부담감? 저는 좋아요”]]></title>
-        <id>https://v.daum.net/v/20230826060311979</id>
-        <link href="https://v.daum.net/v/20230826060311979"/>
-        <updated>2023-08-25T21:08:57.812Z</updated>
-        <content type="html"><![CDATA[주지훈이 이번에는 화려한 카체이싱으로 시선을 사로잡았다. ‘비공식작전’은 1987년, 5년째 중동과를 벗어나지 못하고 있는 외교관 민준(하정우 분)이 전화를 받고 일어나는 일을 담았다. 민준은 20개월 전 레바논에서 실종된 외교관의 암호 메시지가 듣고, 미국 발령을 꿈꾸며 중동에 향한다. 그곳에서 현지 택시기사 판수(주지훈 분)와 만나 뜻하지 않게 공조를]]></content>
     </entry>
 </feed>
