@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-08-27T09:09:26.825Z</updated>
+    <updated>2023-08-27T10:10:37.217Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“‘치악산’ 괴담으로 이미지 훼손” 원주시 발끈, 제작사에 강력한 법적 조치]]></title>
+        <id>https://v.daum.net/v/20230827190614438</id>
+        <link href="https://v.daum.net/v/20230827190614438"/>
+        <updated>2023-08-27T10:10:14.238Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]영화 ‘치악산’ 개봉을 둘러싸고 갈등이 불거진 가운데 원주시가 결국 제작사를 상대로 법적 조치를 취하겠다고 밝혔다. 원주시는 토막살인사건을 다뤄 지역 이미지 훼손을 우려해 제목과 일부 대사 변경을 요구했으나, 제작사 측이 이를 거부하자 법적 대응에 나서기로 했다. 27일 원주시는 보도자료를 통해 "영화 '치악산' 상영금지]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[원주시vs'치악산' 깊어지는 골…결국 법적조치까지]]></title>
+        <id>https://v.daum.net/v/20230827185004211</id>
+        <link href="https://v.daum.net/v/20230827185004211"/>
+        <updated>2023-08-27T10:10:14.238Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 윤현지 기자) 강원 원주시와 영화 '치악산'(감독 김선웅) 측의 갈등이 심화되고 있다. 27일 원주시는 "영화 '치악산' 상영금지 가처분 신청과 함께 상영으로 인해 발생할 수 있는 모든 유무형의 피해에 대해 손해배상 청구 소송 등을 제기할 계획"이라고 밝혔다. 앞서 지난 24일 시는 "사실이 아닌 괴담 수준의 내용으로 인해 대표적 관광자원인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[제목 못 바꾼다는 '치악산', 갈등 확산..원주시 "상영 막을 것"]]></title>
         <id>https://v.daum.net/v/20230827172912881</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230827100601032"/>
         <updated>2023-08-27T01:45:31.408Z</updated>
         <content type="html"><![CDATA[[텐아시아=최지예 기자]영화 '엘리멘탈'이 놀라운 흥행 레이스로 마침내 701만 관객을 돌파하며 디즈니·픽사 영화의 새로운 이정표를 세웠다. 영화 '엘리멘탈'이 27일 오전 7시 기준 마침내 701만 관객을 돌파하며 새로운 기록을 세웠다. 그동안 쟁쟁한 여름 대작들 사이에서도 건재함을 과시하며 개봉 11주차까지 뜨거운 입소문으로 기적 같은 레이스를 펼쳐온]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['엘리멘탈', 700만 관객 돌파…'겨울왕국2' 후 4년만]]></title>
-        <id>https://v.daum.net/v/20230827100502020</id>
-        <link href="https://v.daum.net/v/20230827100502020"/>
-        <updated>2023-08-27T01:45:31.412Z</updated>
-        <content type="html"><![CDATA[(서울=뉴스1) 안은재 기자 = 디즈니 애니메이션 영화 '엘리멘탈'이 700만 관객을 돌파했다. 27일 오전 7시 기준 영화입장권 통합전산망 집계에 따르면 '엘리멘탈'(감독 피터 손)이 701만3518명의 누적관객수를 기록하며 개봉 11주차에 700만 관객을 돌파했다. 이는 2023년 개봉한 외화 영화 중 최고 흥행 기록이며, 지난 2019년 개봉한]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[흥행 좀비 '엘리멘탈', 701만 돌파..'겨울왕국2' 이후 4년만]]></title>
-        <id>https://v.daum.net/v/20230827100037947</id>
-        <link href="https://v.daum.net/v/20230827100037947"/>
-        <updated>2023-08-27T01:45:31.416Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 | 김나연 기자] 엘리멘탈 / 사진=영화 포스터'엘리멘탈'이 놀라운 흥행 레이스로 마침내 701만 관객을 돌파하며 디즈니·픽사 영화의 새로운 이정표를 세웠다. 27일 영화진흥위원회 통합전산망에 따르면 영화 '엘리멘탈'이 오전 7시 기준 마침내 701만 관객을 돌파했다. 그동안 쟁쟁한 여름 대작들 사이에서도 건재함을 과시하며 개봉 11주차까지]]></content>
     </entry>
 </feed>
