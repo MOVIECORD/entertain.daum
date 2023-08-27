@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-08-27T05:09:22.818Z</updated>
+    <updated>2023-08-27T06:13:43.642Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[분노 유발 매국노 누군가 했더니…강길우, 만주어 연기까지]]></title>
+        <id>https://v.daum.net/v/20230827150645685</id>
+        <link href="https://v.daum.net/v/20230827150645685"/>
+        <updated>2023-08-27T06:13:28.708Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 황혜진 기자] 배우 강길우가 빌런 캐릭터로 활약하며 시청자들의 분노를 자아냈다. 강길우는 8월 26일 방송된 MBC 금토드라마 ‘연인’ 8회에 정명수 역으로 출연했다. 이날 방송에서 강길우는 오만 방자한 정명수를 연기하며 시청자들의 시선을 끌었다. 정명수는 비록 볼모이나 세자의 신분인 소현(김무준 분)에게 예를 갖추는 시늉만 할 뿐 교만한 태도로]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[안은진 오열 연기에 눈물날 줄이야]]></title>
+        <id>https://v.daum.net/v/20230827142406779</id>
+        <link href="https://v.daum.net/v/20230827142406779"/>
+        <updated>2023-08-27T06:13:28.710Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 황혜진 기자] 배우 안은진 오열 연기에 시청자들의 눈시울도 붉어졌다. 안은진은 MBC 금토드라마 ‘연인’(기획 홍석우/연출 김성용 이한준 천수진/극본 황진영)에서 유길채 역을 맡아 열연을 펼치고 있다. 유길채는 밤마다 꿈에 나오는 사내가 자신의 서방님일 거라 믿는 순진한 애기씨였다. 그리고 얼굴이 보이지 않는 그 남자를 남연준(이학주 분)이라고]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김소혜, 이상엽에 승부조작 제안받고 잠적 ‘폭풍눈물’]]></title>
         <id>https://v.daum.net/v/20230827140107287</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230827113332271"/>
         <updated>2023-08-27T03:10:30.725Z</updated>
         <content type="html"><![CDATA[[OSEN=박소영 기자] 배우 이학주가 선비의 시대 정신을 완벽히 그려냈다. 첫 방송 이후 매회 꾸준한 시청률 상승세를 이어가고 있는&nbsp;MBC&nbsp;금토드라마&nbsp;‘연인’.&nbsp;극 중 전쟁의 풍화 속에서도 굳건히 지조와 절개를 지켜낸 선비&nbsp;‘남연준’으로 활약 중인 이학주는 청렴결백하고 강직한 선비의 분위기를 조성해 캐릭터에 완전히 젖어 들어 시청자들과 만나고 있다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김소혜, 또 다시 잠적하나..이상엽 만나 폭풍 오열]]></title>
-        <id>https://v.daum.net/v/20230827103652460</id>
-        <link href="https://v.daum.net/v/20230827103652460"/>
-        <updated>2023-08-27T01:45:36.059Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 | 이경호 기자] /사진제공=KBS 2TV 월화드라마 '순정복서''순정복서'의 김소혜가 또 다시 잠적한다. 오는 28일 오후 방송되는 KBS 2TV 월화드라마 '순정복서'(극본 김민주, 연출 최상열·홍은미, 제작 에이스메이커무비웍스·코너스톤·블레이드ENT) 3회에서는 김태영(이상엽 분)으로부터 승부조작 제안을 받은 이권숙(김소혜 분)이 행방불]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['신병2', '軍수저' 김민호의 파란만장 생활관 라이프 재시동]]></title>
-        <id>https://v.daum.net/v/20230827100601034</id>
-        <link href="https://v.daum.net/v/20230827100601034"/>
-        <updated>2023-08-27T01:45:36.059Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 | 이경호 기자] /사진제공= KT스튜디오지니'신병2'가 웃음과 공감, 스케일까지 빡세게 업그레이드하고 귀환한다. 지니 TV 오리지널 '신병2'(연출 민진기, 극본 장삐쭈·윤기영·허혜원·지정민, 기획 KT스튜디오지니, 제작 A2Z엔터테인먼트·네오엔터테인먼트)가 오는 28일 첫 공개된다. '뉴페이스' 김지석과 원년멤버들이 빚어낼 싱크로율 20]]></content>
     </entry>
 </feed>
