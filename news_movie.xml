@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-08-27T15:09:19.848Z</updated>
+    <updated>2023-08-27T16:14:14.338Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[오는 30일 개막 베네치아영화제, 스타 빠지고 스캔들만 가득]]></title>
+        <id>https://v.daum.net/v/20230828005932455</id>
+        <link href="https://v.daum.net/v/20230828005932455"/>
+        <updated>2023-08-27T16:13:51.754Z</updated>
+        <content type="html"><![CDATA[(로마=연합뉴스) 신창용 특파원 = 세계에서 가장 오래된 영화제로 꼽히는 베네치아 국제영화제가 오는 30일(현지시간) 이탈리아 베네치아 석호의 리도섬에서 개막해 9월 9일까지 진행된다. 80회째인 올해는 '위플래쉬'(2015), '라라랜드'(2016)의 데이미언 셔젤 감독이 심사위원장을 맡은 가운데 최고상인 황금사자상의 주인공을 가리는 경쟁 부문 '베네치아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[신혜선이 밝힌 '열일'의 원동력, 연기의 재미]]></title>
         <id>https://v.daum.net/v/20230828000102125</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230827141721615"/>
         <updated>2023-08-27T06:13:23.983Z</updated>
         <content type="html"><![CDATA[영화의 첫 인상과 마찬가지인 제목은 관객에게 호기심을 유발하고, 이야기를 효과적으로 전달할 수 있도록 고심 끝에 지어진다. 이에 지역명이나 나라명을 제목으로 내세워 짧고 굵게 강렬한 인상을 내세우는 수를 두기도 한다. '해운대', '밀양', '부산행', '곡성', '곤지암' 넷플릭스 시리즈 '수리남' 등 적지 않은 영화들이 테마나 메시지를 강조하기 위해 지]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[기적의 역주행 ‘엘리멘탈’ 700만 돌파, 글로벌 6000억 수익 “픽사 목표 달성”]]></title>
-        <id>https://v.daum.net/v/20230827141413549</id>
-        <link href="https://v.daum.net/v/20230827141413549"/>
-        <updated>2023-08-27T06:13:23.983Z</updated>
-        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]디즈니 픽사 애니메이션 ‘엘리멘탈’이 기적의 역주행을 펼치며 700만 관객을 돌파했다. '엘리멘탈'은 27일 오전 7시 기준 마침내 701만 관객을 넘어서며 새로운 기록을 세웠다. ‘밀수’ ‘콘크리트 유토피아’ ‘오펜하이머’ 등 쟁쟁한 여름 대작들 사이에서도 건재함을 과시하며 개봉 11주차까지 뜨거운 입소문으로 관객을 끌어]]></content>
     </entry>
 </feed>

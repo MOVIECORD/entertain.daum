@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-08-27T15:09:19.843Z</updated>
+    <updated>2023-08-27T16:14:14.336Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[강부자, 정의제 아닌 안재현 선택.."하늘이 포기해주면 안 되겠니?"]]></title>
+        <id>https://v.daum.net/v/20230828003021374</id>
+        <link href="https://v.daum.net/v/20230828003021374"/>
+        <updated>2023-08-27T16:13:57.184Z</updated>
+        <content type="html"><![CDATA[[OSEN=박하영 기자] ‘진짜가 나타났다!’ 강부자가 정의제 아닌 안재현을 선택했다. 27일 방송된 KBS 2TV 주말드라마 '진짜가 나타났다!’(극본 조정주/연출 한준서)에서는 은금실(강부자 분)이 공태경(안재현 분)을 선택하는 모습이 그려졌다. 이날 은금실과 유전자 검사를 확인한 김준하(정의제 분)는 “말도 안돼. 은금실과 김준하는 모계혈족 검사]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[한지민, 이민기 칼 맞은 사건 전말 알아내…"살리려고 찌른 것"]]></title>
         <id>https://v.daum.net/v/20230827235246056</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230827211009895"/>
         <updated>2023-08-27T12:17:04.127Z</updated>
         <content type="html"><![CDATA[[마이데일리 = 강다윤 기자] 악귀 필광(강기영)이 판세를 뒤집을 마지막 일격을 준비한다. 종영까지 단 3회 남은 케이블채널 tvN 토일드라마 '경이로운 소문2: 카운터 펀치' 측이 10회 방송에 앞서 악(惡) 소리가 절로 나는 악귀 필광의 끝장 도발이 담긴 스틸을 공개했다. 공개된 스틸 속 악귀 필광은 항복하듯 양팔을 들어 올리고 있다. 특히 그의 두]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['진짜가' 안재현♥백진희, 캐나다 이민 결심 "기쁜 맘으로 떠나요"]]></title>
-        <id>https://v.daum.net/v/20230827205957777</id>
-        <link href="https://v.daum.net/v/20230827205957777"/>
-        <updated>2023-08-27T12:17:04.130Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 | 정은채 기자] /사진='진짜가 나타났다' 방송화면 캡쳐'진짜가 나타났다!' 배우 안재현과 백진희가 캐나다 이민을 결심했다. 27일 오후 방송된 KBS 2TV 주말드라마 '진짜가 나타났다!'에서는 공태경(안재현 분)이 가족들에 파양을 요구 후 이민을 결심하는 장면이 그려졌다. 함께 잠자리에 든 공태경은 오연두에게 "우리 캐나다로 이민 갈래요]]></content>
     </entry>
 </feed>
