@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-08-28T03:11:08.539Z</updated>
+    <updated>2023-08-28T04:13:53.086Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김소현♥황민현, 홈데이트 하다 입맞춤 1초 전 '꿀이 뚝뚝']]></title>
+        <id>https://v.daum.net/v/20230828130639971</id>
+        <link href="https://v.daum.net/v/20230828130639971"/>
+        <updated>2023-08-28T04:13:34.881Z</updated>
+        <content type="html"><![CDATA[[OSEN=하수정 기자] ‘소용없어 거짓말’ 김소현, 황민현이 달콤한 ‘썸’을 시작한다. tvN 월화드라마 ‘소용없어 거짓말’(연출 남성우, 극본 서정은, 기획 스튜디오드래곤, 제작 빅오션이엔엠) 측은 28일, 목솔희(김소현 분)와 김도하(황민현 분)의 달콤한 데이트 현장을 공개했다. 서로를 향한 한층 깊어진 눈빛이 달콤한 설렘을 자아내며 기대를 높인다]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[근자에 이렇게 빵빵 터지는 드라마를 본 적 있었던가]]></title>
         <id>https://v.daum.net/v/20230828114446249</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230828091415137"/>
         <updated>2023-08-28T00:46:00.659Z</updated>
         <content type="html"><![CDATA[(엑스포츠뉴스 오승현 기자) '힙하게' 한지민이 착한 초능력으로 오해를 푼다. 27일 방송된 JTBC 토일드라마 ‘힙하게’ 6회는 문장열(이민기 분)이 분노 어린 오열을 했다.&nbsp; 봉예분(한지민)의 착한 초능력 덕분에 오해를 푼 문장열과 박승길(최지혁)이지만 박승길이 누군가에게 죽임을 당하며 모두를 충격에 빠뜨렸다. 그가 죽기 전 사이코메트리를 한 봉예분이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이청아, 남궁민과 또 만난다…‘연인’ 합류]]></title>
-        <id>https://v.daum.net/v/20230828090826966</id>
-        <link href="https://v.daum.net/v/20230828090826966"/>
-        <updated>2023-08-28T00:46:00.660Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 이민지 기자] 배우 이청아가 ‘연인’에 합류한다. MBC 금토드라마 ‘연인’은 병자호란을 겪으며 엇갈리는 연인들의 사랑과 백성들의 생명력을 다룬 휴먼 역사 멜로극으로, 때로는 설레고 때로는 가슴 시린 연모의 감정으로 엮인 네 남녀의 사랑을 중심으로 가슴 절절한 로맨스를 그리고 있다. 이청아는 극 중 이장현(남궁민 분)과 엮이는 파란 복면의 미스]]></content>
     </entry>
 </feed>
