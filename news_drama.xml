@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-08-28T14:09:38.620Z</updated>
+    <updated>2023-08-28T15:11:20.229Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김소혜, 이상엽과 계약..."배신하면 내 손에 죽음"]]></title>
+        <id>https://v.daum.net/v/20230829000400011</id>
+        <link href="https://v.daum.net/v/20230829000400011"/>
+        <updated>2023-08-28T15:11:02.900Z</updated>
+        <content type="html"><![CDATA[[TV리포트=김유진 기자] 김소혜가 이상엽과 계약했다. 28일 방영된 KBS 월화드라마 '순정복서' 3화에서는 김태영(이상엽)이 이권숙(김소혜)에게 3개월의 계약을 제안하는 모습이 그려졌다. 정수연(하승리)는 이권숙에게 접근해 "스타가 나와야 권투가 산다. 한국의 메이웨더로 만들어주겠다"고 꼬신다. 이권숙은 재차 거절했다. 정수연은 김태영을 언급하며 "혹시]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["K-웹툰 축복"…'마스크걸'·'연인', 싱크로율 살리고 떴다]]></title>
         <id>https://v.daum.net/v/20230828225003550</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230828182501944"/>
         <updated>2023-08-28T10:11:57.595Z</updated>
         <content type="html"><![CDATA[[스타뉴스 | 안윤지 기자] /사진='아라문의 검'뛰어난 스토리텔링과 혁신적인 콘텐츠로 최상의 엔터테인먼트 경험을 선사하는 세계적인 스트리밍 서비스 디즈니+가 전 세계에 K-판타지의 저력을 과시하는 '무빙'의 흥행을 이을 판타지 기대작 '아라문의 검'을 야심차게 선보인다. 28일 디즈니+는 tvN 드라마 '아스달 연대기'의 시즌2인 '아라문의 검'이 오는]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[엄정화 측 "'닥터 차정숙' 다음은 '더 와이프'? 검토 중"]]></title>
-        <id>https://v.daum.net/v/20230828181952794</id>
-        <link href="https://v.daum.net/v/20230828181952794"/>
-        <updated>2023-08-28T10:11:57.596Z</updated>
-        <content type="html"><![CDATA[[OSEN=연휘선 기자] 가수 겸 배우 엄정화가 차기작으로 '더 와이프'를 검토 중이다.&nbsp; 28일 소속사 사람엔터테인먼트 관계자는 OSEN에 "KBS 2TV 새 드라마 '더 와이프' 측으로부터 출연 제안을 받은 게 맞다. 현재 검토 중이다"라고 공식입장을 밝혔다.&nbsp; '더 와이프'는&nbsp;타인의 이름으로 거짓 인생을 살아가는 여자의 비극적인 생애를 다룬 작품이]]></content>
     </entry>
 </feed>
