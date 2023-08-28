@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/variety</id>
     <title>다음 연예 ─ 뉴스 ─ 예능</title>
-    <updated>2023-08-28T18:13:08.492Z</updated>
+    <updated>2023-08-28T19:09:13.166Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[응원받던 20대 '마약중독男'..부모님도 울었다 "인생 망치는 길"]]></title>
+        <id>https://v.daum.net/v/20230829040725951</id>
+        <link href="https://v.daum.net/v/20230829040725951"/>
+        <updated>2023-08-28T19:09:00.064Z</updated>
+        <content type="html"><![CDATA[[OSEN=김수형 기자]’물어보살’에서 이례적으로 응원받아 화제가 된 바 있는 마약중독자 사연남의 최신 근황이 전해졌다. 다행히 일자리도 알아보고 있다고 해 두 보살들도 응원의 목소리를 보탰다.&nbsp; 28일 방송된 KBS조이&nbsp; ‘무엇이든 물어보살(약칭 무물보)’에서&nbsp;&nbsp;마약중독으로 출연했던 홍승민의 근황뉴스가 전해졌다. 앞서 7일 방송된 ‘무엇이든 물어보살’]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[정다은 똑닮은 '붕어빵 딸'→조우종, 3평 쪽방살이 '최초공개']]></title>
         <id>https://v.daum.net/v/20230829004014278</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230828232943743"/>
         <updated>2023-08-28T15:11:08.283Z</updated>
         <content type="html"><![CDATA[[스타뉴스 | 이승훈 기자] /사진=유튜브 채널 '노빠꾸탁재훈'걸 그룹 AOA 출신 초아가 팀 탈퇴, 결혼설 등을 언급하며 당시에는 말하지 못했던 비하인드 스토리를 대방출했다. 28일 오후 유튜브 채널 '노빠꾸탁재훈'에는 "초아, 팀에서 제일 먼저 뛰쳐나간 말 못 할 사정 많은 그녀. 탁재훈의 압박면접 EP.08"이라는 제목의 영상이 게재됐다. 이날]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[문세윤, 새 고정 MC 합류…오은영 "'맛있는 녀석들' 팬" 환영]]></title>
-        <id>https://v.daum.net/v/20230828232610730</id>
-        <link href="https://v.daum.net/v/20230828232610730"/>
-        <updated>2023-08-28T15:11:08.283Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 이이진 기자) 개그맨 문세윤이 새 MC로 합류했다. 28일 방송된 MBC '오은영 리포트-결혼 지옥'(이하 '결혼지옥')에서는 문세윤이 새로운 MC로 합류한 장면이 전파를 탔다. 이날 소유진은 "저희 프로그램에 드디어 새로운 고정 MC가 오셨다. 먹방계의 신사이면서 개탤가수맨. 개그맨, 탤런트, 가수 다 만능이다. 문세윤 씨가 오셨다"라며 소]]></content>
     </entry>
 </feed>
