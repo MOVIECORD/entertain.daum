@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-08-29T13:14:42.631Z</updated>
+    <updated>2023-08-29T14:10:36.350Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘한 남자’ 나는 무엇일까요]]></title>
+        <id>https://v.daum.net/v/20230829230302966</id>
+        <link href="https://v.daum.net/v/20230829230302966"/>
+        <updated>2023-08-29T14:10:10.805Z</updated>
+        <content type="html"><![CDATA[‘나’를 규정하는 걸 무엇인지를 생각하게 만드는 ‘한 남자’가 온다. 히라노 게이치로의 동명 소설을 원작으로 한 ‘한 남자’(감독 이시카와 케이)는 죽은 남편의 이름, 과거 모든 것이 다른 사람의 것이었다는 사실이 밝혀지며 정체가 묘연해진 한 남자 ‘X’의 거짓된 인생을 따라가는 추적 미스터리 영화다. 리에(안도 사쿠라)는 사랑했던 남편 다이스케(쿠보타 마]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[6개의 조각이 완성한 ‘찐’ 공포 ‘신체모음.zip’]]></title>
         <id>https://v.daum.net/v/20230829221200583</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230829165055185"/>
         <updated>2023-08-29T08:16:47.306Z</updated>
         <content type="html"><![CDATA[[뉴스엔 배효주 기자] 공포영화 '치악산'이 실제 지명을 사용해 원주시의 반발을 사고 있는 가운데, 시사회 등 행사를 강행한다. 영화 '치악산'(감독 김선웅) 측 관계자는 8월 29일 뉴스엔에 "오는 31일로 예고된 언론 시사회 및 기자간담회는 정상적으로 진행된다"고 밝혔다. 김선웅 감독을 비롯한 주연배우 윤균상, 김예원, 연제욱, 배그린이 참석한다. 앞]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[데니안 "'ㅇㅁㄷ 지오디' 2회차 예매 3분 만에 매진, god 단톡방서 읽씹 당해"]]></title>
-        <id>https://v.daum.net/v/20230829164525998</id>
-        <link href="https://v.daum.net/v/20230829164525998"/>
-        <updated>2023-08-29T08:16:47.307Z</updated>
-        <content type="html"><![CDATA[[OSEN=김보라 기자]&nbsp;(인터뷰②에 이어) 그룹 god 멤버 데니안(45)이 ‘KBS 대기획’의 일환으로 기획된 ‘god 단독쇼’에 대해 “나훈아 선생님부터 했던 쇼를 저희가 하게 된 거니까 제안을 받고 너무 영광스러웠다. 우리끼리 할지 말지 회의를 할 필요가 없는 제안이어서 너무 영광스러웠다”고 털어놨다. 데니안은 29일 오후 서울 중구 회현동3가의]]></content>
     </entry>
 </feed>
