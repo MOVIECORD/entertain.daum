@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-08-30T21:10:46.179Z</updated>
+    <updated>2023-08-30T22:10:09.846Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[20세기 히트송 리메이크 열풍 다시 불까]]></title>
+        <id>https://v.daum.net/v/20230831063011034</id>
+        <link href="https://v.daum.net/v/20230831063011034"/>
+        <updated>2023-08-30T22:09:51.266Z</updated>
+        <content type="html"><![CDATA[정상의 케이(팝)그룹을 통해 ‘20세기 히트 송 리메이크 열풍’이 재현될지 관심이 뜨겁다. 누가 부르는지 ‘가창자’가 히트곡 재구성의 성패를 좌우하는 키워드라 한다면, 일단 이 라인업은 성공 예약이다. 아이돌 그룹 뉴이스트 출신 백호와 걸그룹 뉴진스가 그 주인공. 백호와 뉴진스가 1990년대 히트곡들을 잇달아 리메이크해 내놓는다. 백호는 선배 가수 이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[계묘년 운명 갈린 토끼띠 스타…한효주·김소현·김소혜]]></title>
         <id>https://v.daum.net/v/20230831060301716</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230830172914043"/>
         <updated>2023-08-30T09:10:36.474Z</updated>
         <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]‘소용없어 거짓말’의 배우 김소현이 대체 불가한 존재감으로 극을 이끌고 있다. tvN 월화드라마 ‘소용없어 거짓말’(연출 남성우, 극본 서정은, 기획 스튜디오드래곤, 제작 빅오션이엔엠)에서 거짓말이 들리는 능력을 갖춘 ‘라이어 헌터’ 목솔희 역으로 열연중인 김소현은 지난 28일(월)과 29일(화) 방송된 9, 10회에서 황]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[신민아·박해수, 범죄 스릴러 '악연'으로 만난다]]></title>
-        <id>https://v.daum.net/v/20230830172902034</id>
-        <link href="https://v.daum.net/v/20230830172902034"/>
-        <updated>2023-08-30T09:10:36.477Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 | 이승훈 기자] 신민아, 박해수 /사진=스타뉴스배우 신민아, 박해수가 장르물에 도전한다. 30일 스타뉴스 단독 취재 결과, 신민아와 박해수는 새 드라마 '악연'에 캐스팅됐다. 동명의 카카오웹툰을 원작으로 한 '악연'은 생각지 못한 악연으로 얽히고설킨 이들이 각자의 욕망을 쫓으며 서로를 파멸시켜가는 범죄 스릴러다. 영화 '검사외전', '리]]></content>
     </entry>
 </feed>
