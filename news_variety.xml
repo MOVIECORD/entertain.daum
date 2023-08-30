@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/variety</id>
     <title>다음 연예 ─ 뉴스 ─ 예능</title>
-    <updated>2023-08-30T07:10:01.053Z</updated>
+    <updated>2023-08-30T08:13:40.091Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이봉원 “♥박미선 스킨십 발언에 내용증명 보낼 뻔”]]></title>
+        <id>https://v.daum.net/v/20230830170625243</id>
+        <link href="https://v.daum.net/v/20230830170625243"/>
+        <updated>2023-08-30T08:13:28.708Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 김명미 기자] 개그맨 이봉원이 아내 박미선과의 에피소드로 스튜디오를 초토화 시켰다. 8월 30일 방송되는 MBC ‘라디오스타’(기획 강영선/연출 이윤화, 김명엽)측은 ‘이봉원, 아내 박미선에게 내용증명 보내려고 한 이유’라는 제목의 선공개 영상을 공개했다. 이날 방송은 이봉원을 비롯해 문희경, 윤성호, 오승훈이 출연하는 '괴짜르트!' 특집으로 꾸]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['언론고시 3관왕' 전현무, 처음 느낀 자괴감 "나 너무 무식"]]></title>
+        <id>https://v.daum.net/v/20230830170123034</id>
+        <link href="https://v.daum.net/v/20230830170123034"/>
+        <updated>2023-08-30T08:13:28.710Z</updated>
+        <content type="html"><![CDATA[[OSEN=장우영 기자] 본격 ‘항저우 아시안게임 모드’로 돌입한 리얼 스포츠 예능 ‘조선체육회’가 항저우 출장비를 걸고 아찔한 퀴즈 미션에 나선다. 예측불허 퀴즈를 앞두고 스포츠예능국장 전현무는 ‘브레인’으로 꼽혔지만, 뜻밖에도 다른 멤버들은 다 아는데 혼자서 모르는 퀴즈가 나오면서 최대의 위기에 처했다. 9월 1일 방송될 ‘조선체육회’에서는 멤버 전]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["폐가 맞아?" 박나래, '나래바 in 전주' 변신에 감탄]]></title>
         <id>https://v.daum.net/v/20230830160649785</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230830152353983"/>
         <updated>2023-08-30T07:09:48.536Z</updated>
         <content type="html"><![CDATA[[OSEN=장우영 기자] ‘혁 브로’ 민우혁, 정혁이 첫 배달부터 대형 사고를 친다. 오는 31일 방송되는 티캐스트 E채널 ‘익스큐수미: 일단 잡숴봐’(이하 ‘일단 잡숴봐’)에서는 수미 한식당의 첫 배달을 전하러 간 ‘혁 브로’ 민우혁과 정혁이 별점 테러를 부르는 역대급 실수를 저지른다. 앞서 민우혁과 정혁은 사장 김수미의 엄청난 독촉에 시달리며 허둥지]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한초임, 2년 만에 소원 성취..'골때녀' FC불나방 멤버 합류]]></title>
-        <id>https://v.daum.net/v/20230830151015444</id>
-        <link href="https://v.daum.net/v/20230830151015444"/>
-        <updated>2023-08-30T06:13:36.043Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 | 윤성열 기자] /사진제공=스타잇엔터테인먼트가수 한초임이 '골 때리는 그녀들'에 출연한다. 한초임은 30일 방송되는 SBS 예능 프로그램 '골 때리는 그녀들'(이하 '골때녀')에 FC불나방 멤버로 합류한다. 지난 2021년 진행된 한 화보 인터뷰에서 한초임은 "어릴 적 교내 대표로 육상과 축구 선수로 뛰었던 경험이 있다."며 "요즘 여자]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['대상 예약' 남궁민·기안84, MBC 살린 남자들]]></title>
-        <id>https://v.daum.net/v/20230830145714831</id>
-        <link href="https://v.daum.net/v/20230830145714831"/>
-        <updated>2023-08-30T06:13:36.045Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 김현정 기자) 휑할 것만 같던 MBC 시상식에 활력을 불어넣어줄 이들이 등장했다. 연말 시상식이 3개월 넘게 남았지만, 얼추 대상 후보로 짐작되는 이들이 있다. 배우 남궁민과 웹툰 작가 겸 방송인 기안84를 두고 한 말이다. 하반기 편성된 예능, 드라마의 뚜껑이 다 열리진 않았으나 남궁민은 연기대상에서, 기안84는 연예대상에서 수상이 유력해]]></content>
     </entry>
 </feed>
