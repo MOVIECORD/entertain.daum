@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-08-30T20:15:21.441Z</updated>
+    <updated>2023-08-30T21:10:46.175Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘타겟’ 신혜선 “중고거래 범죄, 나한테도 일어날 수 있는 일”]]></title>
+        <id>https://v.daum.net/v/20230831053303109</id>
+        <link href="https://v.daum.net/v/20230831053303109"/>
+        <updated>2023-08-30T21:10:26.230Z</updated>
+        <content type="html"><![CDATA[“시간 진짜 빠르네요. 지칠 때도 있지만, 앞으로도 건강관리를 잘해서 파이팅 넘치는 사람이 되고 싶어요.” 배우 신혜선이 영화 ‘타겟’으로 ‘스릴러 퀸’이라는 새로운 수식어를 노린다. 30일 개봉한 ‘타겟’은 중고거래로 범죄의 표적이 된 수현의 일상 속에서 벌어지는 서스펜스를 담은 스릴러. ‘퍼펙트 게임’, ‘챔피언’, ‘명당’ 등의 연출을 맡은 박희곤]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[봉준호·박찬욱 키드…칸·아카데미 사로잡는다]]></title>
         <id>https://v.daum.net/v/20230831000245226</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230830172014752"/>
         <updated>2023-08-30T09:10:31.336Z</updated>
         <content type="html"><![CDATA[[스포츠서울 | 함상범 기자]올해 영화계 여름시장이 서서히 마무리를 지어가고 있다. 이른바 빅4라 불리는 4대 배급사의 텐트폴 영화들도 마지막 성적표를 받는 모양새다. 가장 먼저 출발한 류승완 감독의 ‘밀수’가 30일 500만 관객(영화진흥위원회 영화관입장권통합전산망 기준, 이하 동일)을 돌파하며 최고 흥행작이 됐고, ‘콘크리트 유토피아’가 약 330]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['그녀의 취미생활' 김혜나, 도시→시골 이사한 여자]]></title>
-        <id>https://v.daum.net/v/20230830171010415</id>
-        <link href="https://v.daum.net/v/20230830171010415"/>
-        <updated>2023-08-30T08:13:18.301Z</updated>
-        <content type="html"><![CDATA[[OSEN=김보라 기자] 배우 김혜나의 신작 '그녀의 취미생활' 스틸컷이 공개됐다. 30일 소속사 엔터세븐은 김혜나의 주연작 ‘그녀의 취미생활’(감독 하명미, 배급 트리플픽처스, 제작 웬에버스튜디오) 촬영 스틸컷을 오픈해&nbsp;한 폭의 그림 같은 비주얼로 본편을 더욱 기대하게 만들었다. 이날 공개된 촬영 스틸컷에는 '그녀의 취미생활' 속 비밀스러운 여인 혜정]]></content>
     </entry>
 </feed>
