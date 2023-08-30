@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-08-30T04:12:44.857Z</updated>
+    <updated>2023-08-30T05:10:35.201Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[헤일리 비버, '알래스카=미국' 몰랐나...'무식하다' 지적받아]]></title>
+        <id>https://v.daum.net/v/20230830131700388</id>
+        <link href="https://v.daum.net/v/20230830131700388"/>
+        <updated>2023-08-30T05:10:34.386Z</updated>
+        <content type="html"><![CDATA[[TV리포트=유비취 기자] 가수 저스틴 비버의 아내 헤일리 비버가 뷰티 사업을 시작한 가운데, 작은 실수가 발견돼 팬들의 이목이 쏠렸다. 29일(현지 시간) 연예 매체 페이지식스에 따르면 헤일리 비버(26)가 론칭한 화장품 브랜드가 무식하다는 지적을 받았다. 헤일리 비버의 화장품 브랜드 로드는 새로운 라인의 제품을 소셜네트워크서비스 홍보하면서 글을 올렸다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[카니예 웨스트, 전처 노출 막더니...현재 아내는 벗고 다니게 해]]></title>
         <id>https://v.daum.net/v/20230830130030072</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230829180130790"/>
         <updated>2023-08-29T09:11:07.496Z</updated>
         <content type="html"><![CDATA[[TV리포트=유비취 기자] 올여름 할리우드에서는 여성 스타들의 활약이 빛났다. 29일(현지 시간) 연예 매체 야후 엔터테인먼트에서는 테일러 스위프트와 비욘세, 그리고 '바비' 감독 그레타 거윅의 공로를 조명했다. 이들은 이번 여름에만 수조 원의 수익을 낸 스타들이다. 미국 매체 NPR는 '#BillionGirlSummer'라는 해시태그로 이번 여름을 수조]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[흥행 기록 새로쓰는 '바벤하이머'…'해리포터'→'데드풀' 제친다]]></title>
-        <id>https://v.daum.net/v/20230829175250481</id>
-        <link href="https://v.daum.net/v/20230829175250481"/>
-        <updated>2023-08-29T09:11:07.498Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 이창규 기자)&nbsp;'바벤하이머'(바비+오펜하이머) 밈이 여전히 많은 관심을 받는 가운데, 두 작품이 나란히 흥행 기록을 새로이 쓰게 됐다. 지난달 21일 북미에서 개봉한 '바비'(감독 그레타 거윅)는 28일 기준 북미 5억 9280만 달러, 월드와이드 13억 4040만 달러의 수익을 기록했다. 여전히 3700개 이상의 극장 수를 보유하고 있는 만]]></content>
     </entry>
 </feed>
