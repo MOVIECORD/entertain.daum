@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-08-31T09:11:02.588Z</updated>
+    <updated>2023-08-31T10:11:41.093Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[킴 카다시안, '기모노 비하' 논란 잊었나...일본 전통복 입어 또 구설수]]></title>
+        <id>https://v.daum.net/v/20230831183200563</id>
+        <link href="https://v.daum.net/v/20230831183200563"/>
+        <updated>2023-08-31T10:11:40.375Z</updated>
+        <content type="html"><![CDATA[[TV리포트=이예은 기자] 유명 인사 킴 카다시안(42)이 멋스러운 기모노 자태를 뽐냈다.&nbsp; 최근 일본에 방문한 킴 카다시안은 29일 자신의 소셜네트워크서비스에 딸 노스 웨스트(10)가 찍어준 기모노 사진을 여러 장 올렸다. 사진 속 킴 카다시안은 순백의 기모노를 입고 다양한 포즈를 취하고 있다. 특히 쇠젓가락으로 머리를 틀어 올린 모습이 인상적이다.&nbsp; 킴]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[톰 크루즈, '난잡' 女관계 폭로 등장 "대기실 앞에 여자들이 줄 서"]]></title>
         <id>https://v.daum.net/v/20230831175519445</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230831133408126"/>
         <updated>2023-08-31T05:10:47.760Z</updated>
         <content type="html"><![CDATA[[티브이데일리 김종은 기자] 영화 '해리포터' 시리즈에서 지니 위즐리 역으로 활약한 보니 라이트가 프랜차이즈가 종료된 지 10여 년이 지나서야 진솔한 속마음을 털어놨다. 보니 라이트는 29일(현지시간) 진행된 마이클 로젠바움의 팟캐스트 '인사이드 오브 유'에 출연, '해리포터' 시리즈를 촬영하며 느낀 실망감에 대해 말했다. 이날 보니 라이트는 "난 '해]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美드라마 '더 그레이트', 시즌4 제작 불발]]></title>
-        <id>https://v.daum.net/v/20230831131607591</id>
-        <link href="https://v.daum.net/v/20230831131607591"/>
-        <updated>2023-08-31T05:10:47.763Z</updated>
-        <content type="html"><![CDATA[[티브이데일리 김종은 기자] '더 그레이트' 시즌4 제작이 취소됐다. 미국 연예매체 버라이어티는 30일(현지시간) "훌루 오리지널 '더 그레이트'가 시즌4로 돌아오지 않는다"라고 전했다. '더 그레이트'는 이상적이고 낭만적인 어린 소녀가 황제 피터와의 결혼을 위해 러시아에 도착하면서 벌어지는 이야기를 그린 작품. 주요 출연진으로는 엘 패닝과 니콜라스 홀트]]></content>
     </entry>
 </feed>
