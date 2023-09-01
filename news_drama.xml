@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-09-01T09:10:47.290Z</updated>
+    <updated>2023-09-01T10:11:30.678Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[남궁민은 '대상 예약' 했는데…차린 것 없는 'MBC 연기대상' 어쩌나]]></title>
+        <id>https://v.daum.net/v/20230901190002729</id>
+        <link href="https://v.daum.net/v/20230901190002729"/>
+        <updated>2023-09-01T10:11:15.192Z</updated>
+        <content type="html"><![CDATA[[텐아시아=태유나 기자] 배우 남궁민이 2021년에 이어 '2023 MBC 연기대상' 최고의 자리에 유력하다. 올해 유일하게 흥행에 성공한 금토드라마 '연인'을 이끈 일등공신이기 때문. 문제는 '연기대상' 자체다. 작품의 개수도 10개 미만에, 대부분 작품이 흥행에 참패해 트로피를 받을 만한 사람을 찾기가 쉽지 않다.&nbsp; 남궁민, 안은진 주연의 '연인'의]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['연인' 안은진, 한밤중 위기 포착…"유길채 성장과 변화 기대 당부"]]></title>
+        <id>https://v.daum.net/v/20230901184805574</id>
+        <link href="https://v.daum.net/v/20230901184805574"/>
+        <updated>2023-09-01T10:11:15.196Z</updated>
+        <content type="html"><![CDATA[‘연인’ 안은진이 위기에 처한다. 지난 26일 방송된 MBC 금토드라마 ‘연인’ 엔딩에서 유길채(안은진 분)가 청나라 심양으로 떠난 이장현(남궁민 분)이 죽었다고 오인, 오열하면서 시청자들의 눈물샘을 터뜨렸다. 이장현이 세상을 떠났다고 생각하며 큰 시련을 겪은 유길채인 만큼, 그녀가 또 한 번 큰 변화와 성장을 보여줄 것으로 기대된다. 이런 가운데 9월]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이영표 "아시안게임 승부차기 실축, 20년째 놀림 받는다"]]></title>
         <id>https://v.daum.net/v/20230901174345234</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230901154436712"/>
         <updated>2023-09-01T07:10:17.799Z</updated>
         <content type="html"><![CDATA[[OSEN=연휘선 기자] 가수 겸 배우 서인국과 배우 이성경이 새 드라마에서 로맨스 호흡을 검토 중이다.&nbsp; 1일 서인국의 소속사 스토리제이컴퍼니 관계자는 OSEN에 "서인국 씨가 새 드라마 '찬란한 너의 계절에' 측으로부터 출연 제안을 받고 현재 검토 중이다"라고 공식입장을 밝혔다.&nbsp; 같은 날 이성경의 소속사 YG엔터테인먼트 관계자 또한 OSEN에 "이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한지민·수호 로맨틱 깨는 이민기 ‘저저저!’]]></title>
-        <id>https://v.daum.net/v/20230901143616344</id>
-        <link href="https://v.daum.net/v/20230901143616344"/>
-        <updated>2023-09-01T06:14:02.674Z</updated>
-        <content type="html"><![CDATA[[동아닷컴]  한지민, 수호가 설레는 자전거 나들이를 떠난다. JTBC 토일드라마 ‘힙하게’(연출 김석윤·최보윤, 극본 이남규·오보현·김다희) 제작진은 1일 초능력자 봉예분(한지민 분)이 첫눈에 반해버린 김선우(수호 분)와 바닷가 자전거 데이트를 즐기는 모습을 공개했다. 이어 핑크빛이 감도는 두 사람을 심기 불편하게 쳐다보는 문장열(이민기 분)의 질투 어]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김순옥 월드 ‘7인의 탈출’ 3차 티저…상상초월 악인 탄생 예고]]></title>
-        <id>https://v.daum.net/v/20230901140508244</id>
-        <link href="https://v.daum.net/v/20230901140508244"/>
-        <updated>2023-09-01T05:10:16.295Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 김명미 기자] '7인의 탈출' 3차 티저가 공개됐다. 오는 9월 15일 첫 방송 예정인 SBS 새 금토드라마 ‘7인의 탈출’(연출 주동민, 극본 김순옥, 제작 초록뱀미디어·스튜디오S) 측은 1일, 한 소녀의 비극과 얽힌 악인들의 모습이 서스펜스를 자아내는 3차 티저 영상을 공개했다. 더 높은 곳으로 올라가기 위해 악랄한 거짓말로 진실을 감춰온 악]]></content>
     </entry>
 </feed>

@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-09-01T09:10:47.295Z</updated>
+    <updated>2023-09-01T10:11:30.671Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[샤를리즈 테론 "예뻐 보이려 '눈썹' 많이 뽑아...아직도 고생 중"]]></title>
+        <id>https://v.daum.net/v/20230901182900267</id>
+        <link href="https://v.daum.net/v/20230901182900267"/>
+        <updated>2023-09-01T10:11:29.839Z</updated>
+        <content type="html"><![CDATA[[TV리포트=유비취 기자] 배우 샤를리즈 테론이 20대를 후회하고 있다. 지난 30일(현지 시간) 인스타일과의 인터뷰에서 샤를리즈 테론은 1990년대 20대 시절에 한 화장법 때문에 아직도 고생 중이라고 밝혔다. 샤를리즈 테론은 1990년대에 유행한 얇은 눈썹 화장법에 대해 언급했다. 그는 얇은 눈썹 화장법을 하면 안 된다고 조언하며 자신은 아직도 회복 중]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[미신 무시하고 '심야 수영' 즐긴 女스타...네티즌 "용감하다"]]></title>
         <id>https://v.daum.net/v/20230901180130681</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230901124030302"/>
         <updated>2023-09-01T04:13:03.076Z</updated>
         <content type="html"><![CDATA[[TV리포트=유비취 기자] 가수 셀레나 고메즈가 새로운 남자친구를 열린 마음으로 찾고 있다. 지난 30일(현지 시간) 'Hits 1 LA' 라디오쇼에 출연한 셀레나 고메즈(31)는 이상형의 조건을 밝혔다. 셀레나 고메즈는 신곡 'Single Soon(싱글 순)'을 발매했다. 곡의 내용은 싱글로서 독립을 축하하는 내용이지만 그는 미래의 남자친구에게 원하는 조]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[케빈 코스트너 전처, 양육비 월 2억↑ 요구 “자녀들 호화 DNA 때문”]]></title>
-        <id>https://v.daum.net/v/20230901115913436</id>
-        <link href="https://v.daum.net/v/20230901115913436"/>
-        <updated>2023-09-01T03:11:39.880Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 배효주 기자] 할리우드 배우 케빈 코스트너와 이혼 소송 중인 전처가 "양육비로 매월 2억 원 이상을 달라"고 요구하고 나섰다. 8월 31일(현지시간) 해외 매체 피플 보도에 따르면, 케빈 코스트너의 전처 크리스틴 바움가트너 측은 이날 미국 캘리포니아 산타바바라 법원에서 열린 양육비 청문회에서 매달 17만5,057달러(한화 약 2억3,132만 원)]]></content>
     </entry>
 </feed>
