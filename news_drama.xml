@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-09-01T16:13:58.447Z</updated>
+    <updated>2023-09-01T17:09:44.307Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['소옆경2' 김래원, 조희봉 살해한 이도엽 '추적'…조승연과 '첫 번째 공조' 시작]]></title>
+        <id>https://v.daum.net/v/20230902015700486</id>
+        <link href="https://v.daum.net/v/20230902015700486"/>
+        <updated>2023-09-01T17:09:25.840Z</updated>
+        <content type="html"><![CDATA[[SBS연예뉴스 | 김효정 에디터] 김래원은 이도엽을 다시 잡을 수 있을까? 1일 방송된 SBS 금토 드라마 '소방서 옆 경찰서 그리고 국과수'(이하 '소옆경2')에서는 양치영의 살해한 범인을 추적하는 진호개의 모습이 그려졌다. 이날 한세진은 송설과 양치영의 부검에서 놓친 것이 무언인지 파악해 경찰서로 이동했다. 이동하는 차량에서 송설은 한세진에게 왜 경찰]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['소옆경2' 전성우, 공승연에 "가지 마세요"…부검 지원 요청 '눈길']]></title>
         <id>https://v.daum.net/v/20230902010900277</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230901191503997"/>
         <updated>2023-09-01T11:09:07.542Z</updated>
         <content type="html"><![CDATA[[텐아시아=류예지 기자]배우 김영대가 '손해 보기 싫어서' 주연으로 발탁됐다. 1일 텐아시아 취재 결과 김영대가 새 드라마 '손해 보기 싫어서' 남자 주인공 역에 캐스팅된 것으로 확인됐다. 여자 주인공은 '로코퀸' 신민아가 함께한다. '손해 보기 싫어서'는 손해 보기 싫어서 가짜 결혼을 한 여자와 피해 주기 싫어서 가짜 신랑이 된 남자의 사내 부부 코믹]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['소방서 옆 경찰서'2 우명식 소품팀 감독이 밝힌 알고 보면 더 흥미로운 소품의 세계]]></title>
-        <id>https://v.daum.net/v/20230901191401986</id>
-        <link href="https://v.daum.net/v/20230901191401986"/>
-        <updated>2023-09-01T11:09:07.543Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 | 김수진 기자] SBS 금토드라마 '소방서 옆 경찰서' 시즌 2 '소방서 옆 경찰서 그리고 국과수' 소품 담당 우명식 감독이 알고 보면 더 흥미로운 '소옆경' 시리즈 소품의 비밀을 공개했다. SBS 금토드라마 '소방서 옆 경찰서' 시즌 2 '소방서 옆 경찰서 그리고 국과수'(극본 민지은/연출 신경수/제작 스튜디오S, 메가몬스터)는 화재 잡]]></content>
     </entry>
 </feed>
