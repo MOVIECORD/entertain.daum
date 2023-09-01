@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-09-01T02:21:45.967Z</updated>
+    <updated>2023-09-01T03:11:40.676Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[임시완, 마라토너 서윤복 되기 위해 이렇게까지 "체지방 6%, 내 인생 처음 봤다"]]></title>
+        <id>https://v.daum.net/v/20230901113801767</id>
+        <link href="https://v.daum.net/v/20230901113801767"/>
+        <updated>2023-09-01T03:11:18.953Z</updated>
+        <content type="html"><![CDATA[[텐아시아=최지예 기자]배우 임시완이 체지방 6%에 도전하며 마라토너 선수가 되기 위해 노력했다고 밝혔다. 31일 오전 11시 서울 광진구 자양동 롯데시네마 건대입구에서 영화 '1947 보스톤'(감독 강제규) 제작보고회가 열린 가운데, 배우 하정우, 임시완, 김상호, 강제규 감독이 참석했다.&nbsp; 서윤복 역의 임시완은 마라토너처럼 보이기 위해 훈련을 게을리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['거미집' 김지운 감독X송강호, 다섯 번째 만남.."영화적 비전 실현"]]></title>
         <id>https://v.daum.net/v/20230901111952946</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230901090002888"/>
         <updated>2023-09-01T00:48:46.912Z</updated>
         <content type="html"><![CDATA[[스타뉴스 | 김나연 기자, 김노을 기자, 안윤지 기자] /사진=/AFPBBNews=뉴스1=스타뉴스할리우드는 멈추어 섰고, 전 세계 콘텐츠 사업에는 비상이 걸렸다. 다만, K-콘텐츠는 반사이익을 얻어 긍정적인 바람이 불 것이라는 추측도 나온다. 넷플릭스는 향후 4년간 약 3조1600억 원 가량의 투자를 약속했고, 디즈니+(디즈니 플러스) 또한 한국 철수설을]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['더 넌 2' 타이사 파미가→조나스 블로켓, 극강의 호러 시너지]]></title>
-        <id>https://v.daum.net/v/20230901085026655</id>
-        <link href="https://v.daum.net/v/20230901085026655"/>
-        <updated>2023-09-01T00:48:46.915Z</updated>
-        <content type="html"><![CDATA[영화 '더 넌 2'가 오리지널 캐스팅으로 돌아온다. '컨저링 유니버스' 사상 최고 흥행작 '더 넌'의 후속작 '더 넌 2'는 루마니아 수녀원 사건 4년 후, 수녀 모습을 한 악마가 다시 나타나면서 드러나는 공포와 충격적인 진실을 그린 이야기이다. 세계관 속 가장 강력한 악마 '발락'의 컴백으로 영화를 향한 관객들의 기대감이 대단한 가운데, '더 넌'을]]></content>
     </entry>
 </feed>
