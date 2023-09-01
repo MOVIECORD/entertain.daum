@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-09-01T12:18:47.396Z</updated>
+    <updated>2023-09-01T13:13:43.702Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[홍콩 가수, 독립 메시지 전했다가 '선동 혐의'로 26개월 징역형]]></title>
+        <id>https://v.daum.net/v/20230901220101375</id>
+        <link href="https://v.daum.net/v/20230901220101375"/>
+        <updated>2023-09-01T13:13:42.516Z</updated>
+        <content type="html"><![CDATA[[TV리포트=유비취 기자] 홍콩 가수 토미 위엔이 경찰 모욕 및 선동, 돈세탁 혐의로 징역형을 선고받았다. 31일(현지 시간) 연예 매체 버라이어티에 따르면 토미 위엔은 홍콩 경찰 모욕하고 크라우드펀딩을 통해 받은 70만 홍콩달러(한화 약 1억 1,787만 원)를 세탁한 혐의로 26개월 징역형에 처했다. 홍콩 지방법원은 같은 날 판결을 내리면서 토미 위엔이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['딸 바보' 유덕화, 전시회에 11살 딸 작품 출품..."나보다 더 창의적"]]></title>
         <id>https://v.daum.net/v/20230901203231149</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230901140030059"/>
         <updated>2023-09-01T05:10:34.314Z</updated>
         <content type="html"><![CDATA[[TV리포트=유비취 기자] 배우 아담 드라이버가 넷플릭스를 비롯한 대기업을 저격했다. 31일(현지 시간) 아담 드라이버는 이탈리아 베니스에서 열린 '제80회 베니스국제영화제' 기자회견에 참석해 소신을 밝혔다. 아담 드라이버는 미국 배우조합과 작가조합의 파업이 계속되는 이유 중 하나로 넷플릭스와 아마존과 같은 대기업의 행태를 거론했다. 아담 드라이버는 소규]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[카디비·50센트, 마이크 던지고 탐폰 노출까지..문제아 래퍼들의 ‘기행’]]></title>
-        <id>https://v.daum.net/v/20230901131235841</id>
-        <link href="https://v.daum.net/v/20230901131235841"/>
-        <updated>2023-09-01T04:13:03.073Z</updated>
-        <content type="html"><![CDATA[[OSEN=강서정 기자] 카디 비에 이어 50 센트까지 스타래퍼들이 기행을 펼치고 있다. 화가 난다고 관객들을 향해 마이크를 던지고 탐폰 줄을 노출해 논란이 일었다.&nbsp; 8월 31일(현지시간) TMZ 보도에 따르면 50 센트는 지난 수요일 LA 크립토닷컴 아레나에서 무대를 선보이기 위해 스태프에게 공연 중에 사용할 여러 개의 마이크를 받았다. 그런데 마이]]></content>
     </entry>
 </feed>
