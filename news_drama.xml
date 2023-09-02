@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-09-02T03:10:49.830Z</updated>
+    <updated>2023-09-02T04:12:48.588Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘연인’ 남궁민-안은진, 저리고 아프게 엇갈려 간절한 사랑]]></title>
+        <id>https://v.daum.net/v/20230902123734348</id>
+        <link href="https://v.daum.net/v/20230902123734348"/>
+        <updated>2023-09-02T04:12:29.853Z</updated>
+        <content type="html"><![CDATA[[OSEN=김재동 객원기자]&nbsp;저만치 그녀가 웃고 있다. 예전에 보았듯, 꿈 속에 보았듯, 배시시 웃고 있다. 그 웃음에 심장이 툭 떨어진다. 어쩐지 눈자위로 화끈 작열감이 올라온다. 1일 방송된 MBC 금토드라마 ‘연인’ 9회에서 마침내 이장현(남궁민 분)과 유길채(안은진 분)가 재회했다. 심양으로 떠났던 이장현은 소현세자(김무준 분)의 인조(김종태 분]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['수업중입니다2' 이광희, 연애 세포 자극하는 '직진남']]></title>
         <id>https://v.daum.net/v/20230902120732028</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230902085606028"/>
         <updated>2023-09-02T00:42:50.382Z</updated>
         <content type="html"><![CDATA[[마이데일리 = 노한빈 기자] 진호개(김래원)가 덱스를 잡기 위해 부자 공조를 시작했다. 1일 방송된 SBS 금토드라마 '소방서 옆 경찰서 그리고 국과수'(극본 민지은 연출 신경수) 9회는 닐슨 코리아 기준 수도권 5.7%, 순간 최고 7.2%를 기록했다. 이날 방송에서는 꼬리에 꼬리를 무는 의문과 반전에 반전, 첩첩산중 수사가 휘몰아치며 초강렬 서사를]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김래원, 덱스 잡기 위해 父 조승연과 공조 시동 “이 놈 잡아야 끝나”]]></title>
-        <id>https://v.daum.net/v/20230902083624893</id>
-        <link href="https://v.daum.net/v/20230902083624893"/>
-        <updated>2023-09-02T00:42:50.388Z</updated>
-        <content type="html"><![CDATA[[OSEN=강서정 기자] ‘소방서 옆 경찰서 그리고 국과수’&nbsp;김래원이&nbsp;‘덱스와의 전쟁’을 선포한 뒤&nbsp;‘부자 공조’로 스타트를 끊어 안방극장을 후끈하게 달궜다. 지난&nbsp;1일&nbsp;방송된&nbsp;SBS&nbsp;금토드라마&nbsp;‘소방서 옆 경찰서 그리고 국과수’ (극본 민지은, 연출 신경수) 9회는 닐슨 코리아 기준 수도권&nbsp;5.7%,&nbsp;순간 최고&nbsp;7.2%를 기록했다.&nbsp;이날 방송에서는 꼬]]></content>
     </entry>
 </feed>
