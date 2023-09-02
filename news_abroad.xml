@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-09-02T08:11:58.617Z</updated>
+    <updated>2023-09-02T09:09:26.076Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['40세' 미란다 커, 넷째 임신..."아들만 넷"]]></title>
+        <id>https://v.daum.net/v/20230902171900085</id>
+        <link href="https://v.daum.net/v/20230902171900085"/>
+        <updated>2023-09-02T09:09:25.341Z</updated>
+        <content type="html"><![CDATA[[TV리포트=이수연 기자] 억만장자 스냅챗 CEO와 결혼한 호주 출신 톱모델 미란다 커(40)가 넷째를 임신했다. 미란다 커는 2일(한국 시각) 자신의 소셜네트워크서비스에 "네 번째 아이를 발표하게 되어 기쁘다"라며 임신 소식을 전했다. 함께 공개된 사진 속 미란다 커는 크롭티를 입고 임신한 몸매를 공개해 이목을 끌었다. 그는 볼록 나온 배를 손으로 감]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['3번 이혼' 브리트니 스피어스, 가사도우미 열애설에 새 문신.."정말 신나"]]></title>
         <id>https://v.daum.net/v/20230902170020906</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230901182900267"/>
         <updated>2023-09-01T10:11:29.839Z</updated>
         <content type="html"><![CDATA[[TV리포트=유비취 기자] 배우 샤를리즈 테론이 20대를 후회하고 있다. 지난 30일(현지 시간) 인스타일과의 인터뷰에서 샤를리즈 테론은 1990년대 20대 시절에 한 화장법 때문에 아직도 고생 중이라고 밝혔다. 샤를리즈 테론은 1990년대에 유행한 얇은 눈썹 화장법에 대해 언급했다. 그는 얇은 눈썹 화장법을 하면 안 된다고 조언하며 자신은 아직도 회복 중]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[미신 무시하고 '심야 수영' 즐긴 女스타...네티즌 "용감하다"]]></title>
-        <id>https://v.daum.net/v/20230901180130681</id>
-        <link href="https://v.daum.net/v/20230901180130681"/>
-        <updated>2023-09-01T09:10:46.535Z</updated>
-        <content type="html"><![CDATA[[TV리포트=안수현 기자] 홍콩 배우 지니 챈(33)이 관습을 무시하고 심야 수영을 즐겨 화두에 올랐다. 지난 28일, 지니 챈은 자신의 소셜네트워크서비스에 늦은 밤 동료 여배우 비너스 웡, 다다 챈과 함께 루프탑 수영장에서 수영을 즐기는 모습을 공개했다. 서양에 '핼러윈' 풍습이 있는 것처럼, 중화권에는 고인들을 기리기 위해 열리는 '걸신 축제'가 있]]></content>
     </entry>
 </feed>
