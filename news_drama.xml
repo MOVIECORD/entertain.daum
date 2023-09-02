@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-09-02T10:09:56.629Z</updated>
+    <updated>2023-09-02T11:08:45.177Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘연인’ 남궁민, 안은진 위해 산 꽃신 불태운다 ‘슬픈 눈빛’]]></title>
+        <id>https://v.daum.net/v/20230902192211414</id>
+        <link href="https://v.daum.net/v/20230902192211414"/>
+        <updated>2023-09-02T11:08:27.143Z</updated>
+        <content type="html"><![CDATA[‘연인’에서 배우 남궁민이 안은진을 위해 산 꽃신들을 불태운다. 2일 MBC 금토드라마 ‘연인’ 측은 스틸을 공개했다. 지난 1일 방송된 9회에서는 서로를 마음에 품고 있지만 닿을 듯 닿지 않는 이장현(남궁민)과 유길채(안은진)의 슬픈 사랑 이야기가 시청자들의 눈물샘을 자극했다. 이날 이장현은 죽음 위기에서 벗어나 한양으로 돌아왔다. 드디어 유길채를]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[덱스의 설계 뚫나…김래원, '스모킹건' 탐색 돌입]]></title>
         <id>https://v.daum.net/v/20230902190101149</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230902115313881"/>
         <updated>2023-09-02T03:10:32.119Z</updated>
         <content type="html"><![CDATA[[OSEN=박소영 기자] 경이로운 소문2:&nbsp;카운터 펀치’&nbsp;진선규가 종영 소감을 전했다. 진선규는&nbsp;“긴 시간 동안 열심히 찍은 작품이었는데 너무 빨리 끝나는 것 같아 아쉽다.&nbsp;아직 더 보고 싶은 마음이 크다”며 운을 띄웠다. 이어&nbsp;“이번 작품 속 마주석이라는 캐릭터를 연기할 수 있어서 참 행복했다.&nbsp;마주석의 이야기는 아프고 슬프지만 배역을 연기하는 배우로]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[흥행퀸 유이 “잘 선택한 ‘효심이네’ 타이틀롤 부담감 있었지만”]]></title>
-        <id>https://v.daum.net/v/20230902112656681</id>
-        <link href="https://v.daum.net/v/20230902112656681"/>
-        <updated>2023-09-02T03:10:32.121Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 박수인 기자] '효심이네 각자도생' 대본 연습 현장이 공개됐다. 오는 9월 16일 첫 방송되는 KBS 2TV 새 주말드라마 ‘효심이네 각자도생’(연출 김형일, 극본 조정선, 제작 아크미디어)은 타고난 착한 성품과 따뜻한 공감능력으로 평생 가족에게 헌신했던 딸 ‘효심’이 자신을 힘들게 했던 가족에게서 벗어나 독립적인 삶을, ‘효심’의 헌신과 희생에]]></content>
     </entry>
 </feed>
