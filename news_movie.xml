@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-09-02T14:09:28.159Z</updated>
+    <updated>2023-09-02T15:09:42.287Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘바비’가 해냈다, ‘슈퍼마리오’ 꺾고 올해 최고흥행작 등극 “1조 7천억 수익”]]></title>
+        <id>https://v.daum.net/v/20230902233438000</id>
+        <link href="https://v.daum.net/v/20230902233438000"/>
+        <updated>2023-09-02T15:09:17.281Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]그레타 거윅 감독의 ‘바비’가 올해 최고 흥행작 반열에 올랐다. 버라이어티는 1일(현지시간) ‘바비’가 전 세계 박스오피스에서 13억 6,000만 달러(약 1조 7,972억 달러)를 벌어들여 ‘슈퍼마리오 브라더스’(13억 5,000만 달러)를 꺾고 올해 최고 수익을 거뒀다고 보도했다. '바비'는 북미에서 6억 달러의]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘마스크걸’ 안재홍·‘밀수’ 박정민, 1번 아닌데 씹어먹었다]]></title>
         <id>https://v.daum.net/v/20230902220021582</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230902073005335"/>
         <updated>2023-09-01T23:09:53.424Z</updated>
         <content type="html"><![CDATA[(엑스포츠뉴스 김유진 기자) 영화 '킴스 비디오'(감독 데이비드 레드먼, 애슐리 사빈)가 2023 선댄스영화제를 통해 첫 공개돼 스포트라이트를 받은 화제작답게, 전 세계를 대표하는 센세이션한 영화제들에 연이어 초청되어 기대를 더한다.&nbsp; '킴스 비디오'는 지금은 사라진 1980년대 뉴욕, 영화광들의 성지였던 비디오 대여점 '킴스 비디오'의 행방을 쫓는 '킴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[윈윈? 제로섬? 송강호vs하정우vs강동원, 27일 추석대첩 발발]]></title>
-        <id>https://v.daum.net/v/20230902072302264</id>
-        <link href="https://v.daum.net/v/20230902072302264"/>
-        <updated>2023-09-01T23:09:53.425Z</updated>
-        <content type="html"><![CDATA[[텐아시아=최지예 기자]배우 송강호, 하정우, 강동원이 오는 27일 개봉을 확정, 한날한시 맞붙는다. 이른바 '추석대첩'이 발발했다.&nbsp; 먼저 송강호를 필두로 하는 영화 '거미집'(감독 김지운)은 1970년대 영화 '거미집'의 촬영 현장을 배경으로, 다 찍은 영화의 결말만 바꾸면 걸작이 될 거라 믿는 영화감독 김열(송강호)의 이야기를 담은 작품. 바쁜 일정]]></content>
     </entry>
 </feed>
