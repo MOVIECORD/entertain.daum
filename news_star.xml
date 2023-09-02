@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2023-09-02T20:10:37.904Z</updated>
+    <updated>2023-09-02T21:09:25.525Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["자신 있다"던 남궁민, '연인'으로 또 한 번 증명한 저력]]></title>
+        <id>https://v.daum.net/v/20230903060024085</id>
+        <link href="https://v.daum.net/v/20230903060024085"/>
+        <updated>2023-09-02T21:09:18.666Z</updated>
+        <content type="html"><![CDATA[(서울=뉴스1) 김민지 기자 = 배우 남궁민이 '연인'으로 또 한 번 드라마판을 들썩이게 하며 '믿보배'(믿고 보는 배우) 임을 입증했다. 최근 방영 중인 MBC 금토드라마 '연인'(극본 황진영/연출 김성용, 천수진)은 병자호란을 겪으며 엇갈리는 연인들의 사랑과 백성들의 생명력을 다룬 휴먼역사멜로드라마다. 파트 1(1~10회)에서는 혼란스러운 정국 속에]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[서정희 "서세원 사망하지 않았다면 해방되지 못했을 것"]]></title>
         <id>https://v.daum.net/v/20230903051002853</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230903000021120"/>
         <updated>2023-09-02T15:09:35.266Z</updated>
         <content type="html"><![CDATA['마스크걸' 3인 1역이라는 새로운 임무, 여운 깊은 엔딩 남기며 수행 완료 [더팩트ㅣ김샛별 기자] 배우의 롱런 비결이란 생각보다 심플하다. 계속해서 '새로운 얼굴'을 보여주며 다음에 대한 물음표를 남긴다. 수많은 배우가 바랄 정도로 확고한 방법이지만, 말이니까 쉬운 거지 결코 간단한 일이 아니다. 특히 오랜 경력을 자랑하는 배우들의 고민은 더욱 깊어]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[서정희 "서세원 가정폭력에 온몸 상처, 이혼 안 한다 해 상간녀 소송 NO"]]></title>
-        <id>https://v.daum.net/v/20230902234703044</id>
-        <link href="https://v.daum.net/v/20230902234703044"/>
-        <updated>2023-09-02T15:09:35.272Z</updated>
-        <content type="html"><![CDATA[[스포츠조선닷컴 이우주 기자] '동치미' 서정희가 서세원과의 고통스러웠던 이혼 과정을 털어놨다. 2일 방송된 MBN 예능프로그램 '속풀이쇼 동치미'에서는 서정희 서동주 모녀가 게스트로 출연했다. 두 번째로 '동치미'에 출연한 서정희는 "가슴 재건 수술하고 붕대를 아직 못 풀었다. 그저께 퇴원했는데 전신마취 하고서도 여기 오겠다 했다"고 ']]></content>
     </entry>
 </feed>
