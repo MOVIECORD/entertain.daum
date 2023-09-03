@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-09-03T03:10:58.594Z</updated>
+    <updated>2023-09-03T04:11:58.716Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[작가 황석영도 화딱지 나게 했던 이 영화]]></title>
+        <id>https://v.daum.net/v/20230903122703782</id>
+        <link href="https://v.daum.net/v/20230903122703782"/>
+        <updated>2023-09-03T04:11:39.172Z</updated>
+        <content type="html"><![CDATA[[조종안 기자] &nbsp;▲ &nbsp;이만희 감독 영화 &lt;삼포가는 길&gt; 스틸컷1ⓒ 유튜브&nbsp; 영화 &lt;삼포가는 길&gt;은 이만희 감독 유작으로 1973년 &lt;신동아&gt;(9월호)에 발표한 황석영 작가의 단편소설을 원작으로 한다. 길에서 우연히 만난 세 주인공(영달, 정 씨, 백화)의 여정을 그린 이 영화는 한국적 로드무비 원형으로 평가받는다. 1975년 개봉작으로 흥행은 실패했지만,]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["난 테러리스트가 아니에요" 대통령에게 외쳐야 했던 이 남자]]></title>
         <id>https://v.daum.net/v/20230903120600517</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230902162532546"/>
         <updated>2023-09-02T08:11:38.856Z</updated>
         <content type="html"><![CDATA[[스타뉴스 | 김노을 기자] /사진=영화 스틸컷할리우드 배우 케빈 코스트너가 이혼 소송 중인 크리스틴 바움가트너와의 양육비 다툼에서 승소했다. 1일 미국 연예 매체 TMZ에 따르면 로스앤젤레스(LA) 법원은 케빈 코스트너가 크리스틴 바움가트너에게 매달 양육비 6만 3,209 달러(한화 약 8,353만 원)를 지급하라고 판결했다. 앞서 크리스틴 바움가트너]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[해석 신드롬 ‘오펜하이머’, 19일째 1위]]></title>
-        <id>https://v.daum.net/v/20230902135806142</id>
-        <link href="https://v.daum.net/v/20230902135806142"/>
-        <updated>2023-09-02T05:09:02.907Z</updated>
-        <content type="html"><![CDATA[[티브이데일리 이기은 기자] 영화 '오펜하이머'가 19일째 박스오피스 1위를 차지하며 크리스토퍼 놀란 네임드를 입증하고 있다. 2일 영화진흥위원회 영화관 입장권 통합 전산망에 따르면 '오펜하이머'(감독 크리스토퍼 놀란)는 지난 1일 하루 5만148명 관객을 동원했고, 이는 박스오피스 1위인 수치다. 총 누적관객수는 257만6045명으로 300만을 향해 달려]]></content>
     </entry>
 </feed>
