@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/variety</id>
     <title>다음 연예 ─ 뉴스 ─ 예능</title>
-    <updated>2023-09-03T18:12:16.431Z</updated>
+    <updated>2023-09-03T19:08:45.129Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이상민 '고독死' 언급 "아프신 母 말고, 가족 없어" 먹먹]]></title>
+        <id>https://v.daum.net/v/20230904040124134</id>
+        <link href="https://v.daum.net/v/20230904040124134"/>
+        <updated>2023-09-03T19:08:33.994Z</updated>
+        <content type="html"><![CDATA[[OSEN=김수형 기자] '미우새'에서 이상민이 고독사에 대해 언급해 가슴을 찡하게 했다.&nbsp; 3일 방송된 SBS 예능 '미운 우리새끼(약칭 미우새)'에서&nbsp;이상민과 정석용이 임원희 집을 찾았다.&nbsp; 이날 임원희는 최근 보건복지부 선정 '고독사 예방 캠페인' 모델이 된 근황을 전하며 "5060세대에 고독사가 많다더라"며 운을 뗐다.&nbsp; 이에 이상민은 "난 이미]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[제롬, 연예계 생활+전 아내 배윤정 공개… 베니타 “마음에 걸려”]]></title>
         <id>https://v.daum.net/v/20230904012310656</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230903224057842"/>
         <updated>2023-09-03T14:08:55.365Z</updated>
         <content type="html"><![CDATA[(엑스포츠뉴스 이이진 기자) 코미디언 김준호가 김지민 동생을 만났다. 3일 방송된 SBS '미운 우리 새끼'(이하 '미우새')에서는 김준호가 김지민 동생을 만난 장면이 전파를 탔다. 이날 김준호는 김지민 어머니를 기다리며 긴장감을 감추지 못했다. 김지민은 "자주 보진 못해서 어색하겠다"라며 다독였고, 이때 김지민 동생이 등장했다. 김준호는 "정식으로 보는]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['돌싱글즈4' 하림, 톰 공개 데이트 신청에 "글쎄" 우회적 거절]]></title>
-        <id>https://v.daum.net/v/20230903224040839</id>
-        <link href="https://v.daum.net/v/20230903224040839"/>
-        <updated>2023-09-03T14:08:55.367Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 김나연 기자) '돌싱글즈4' 톰이 하림에게 갑작스러운 공개 데이트 신청을 했다가 거절당했다. 3일 방송된 MBN '돌싱글즈4'에서는 미국에서 새로운 사랑을 찾아나선 돌싱 남녀들의 로맨스가 공개됐다. 이날 하림과 리키는 알콩달콩한 모습으로 함께 아침을 준비했고 이를 보던 이지혜는 "벌써 신혼부부 같다"며 웃었다. 톰은 하림의 눈치를 보다가 모두]]></content>
     </entry>
 </feed>
