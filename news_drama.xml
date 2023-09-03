@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-09-03T13:11:35.236Z</updated>
+    <updated>2023-09-03T14:09:07.091Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[종영 '경소문2' 조병규, 강기영 지옥으로 보냈다... 진선규 해방]]></title>
+        <id>https://v.daum.net/v/20230903224100843</id>
+        <link href="https://v.daum.net/v/20230903224100843"/>
+        <updated>2023-09-03T14:08:50.060Z</updated>
+        <content type="html"><![CDATA[[TV리포트=이혜미 기자] 조병규가 악귀 강기영을 지옥으로 이끌었다. 3일 tvN ‘경이로운 소문2 : 카운터펀치’ 최종회에선 필광(강기영 분)의 최후와 소문(조병규 분)의 새 출발이 그려졌다. 이날 갖은 시련 끝에 악귀에게서 해방된 주석(진선규 분)을 보며 하나(김세정 분)는 “악귀가 들어간 이후의 기억은 없을 텐데 많이 혼란스러울 거예요”라며 안타까워했]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[종영 '경소문2' 진선규, 강기영 끊어내려 스스로 목숨 끊어 "너와 같이 간다" [종합}]]></title>
+        <id>https://v.daum.net/v/20230903221244640</id>
+        <link href="https://v.daum.net/v/20230903221244640"/>
+        <updated>2023-09-03T14:08:50.062Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 김나연 기자) '경이로운 소문2' 진선규가 스스로 목숨을 끊었다. 3일 방송된 tvN 토일드라마 '경이로운 소문2: 카운터 펀치' 최종회에서는 악귀를 소환하고자 마주석(진선규 분)의 내면으로 들어간 소문(조병규)의 모습이 전파를 탔다. 이날 마주석의 내면으로 들어간 소문은 필광(강기영)을 마주했다. 필광은 소문의 목을 조이면서 "아직도 마주석]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['경소문2' 강기영, 소멸 후 지옥行..조병규 "그만 꺼져"]]></title>
         <id>https://v.daum.net/v/20230903220852616</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230903202019756"/>
         <updated>2023-09-03T12:17:10.935Z</updated>
         <content type="html"><![CDATA[[OSEN=박소영 기자] MBC&nbsp;금토드라마&nbsp;‘연인’이 파트1 마무리를 향해 달려가고 있는 가운데 갈수록 높은 화제성과 시청률을 기록하고 있다. 벌써부터 남자 주인공인 남궁민의 연기대상 가능성이 점쳐지고 있는 상황. 하지만 안은진의 활약 역시 빼놓을 수 없다. 안은진은 ‘연인’에서 곱게 자란 양반댁 애기씨였지만 전쟁 풍화를 겪으며 한 남자를 진심으로 연모]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[정형돈 "'무한도전'과 10년, 가장 아름다운 시절..유재석에 많이 배워"]]></title>
-        <id>https://v.daum.net/v/20230903195014527</id>
-        <link href="https://v.daum.net/v/20230903195014527"/>
-        <updated>2023-09-03T11:08:04.937Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 | 최혜진 기자] /사진=요정재형방송인 정형돈이 MBC 예능 프로그램 '무한도전' 출연 당시를 회상했다. 3일 정재형의 유튜브 채널 '요정재형'에는 "파리지앵 캐릭터 만들어준 항도니랑 간만에 떠드는 무도 이야기"라는 제목의 영상이 올라왔다. 영상 속에는 정형돈이 게스트로 출연해 2018년 종영한 '무한도전'에 대한 이야기를 나눴다. 그는]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['복면가왕' 어반자카파 출신 재만 "BTS와 '커피' 작업, 너무 영광스러운 일"]]></title>
-        <id>https://v.daum.net/v/20230903191230159</id>
-        <link href="https://v.daum.net/v/20230903191230159"/>
-        <updated>2023-09-03T11:08:04.937Z</updated>
-        <content type="html"><![CDATA[[TV리포트=이혜미 기자] 어반자카파 출신의 가수 재만이 BTS와 곡 작업을 함께한 비화를 소개했다. 3일 MBC '복면가왕'에선 주차장 대 난 노래가 좋탁구의 2라운드 경연이 펼쳐졌다. 이번 대결의 승자는난 노래가 좋탁구로 가면을 벗은 주차장은 어반자카파의 원년 멤버 재만이었다. 재만은 "내가 올해로 데뷔 14년차인데 음원 위주로 활동하다 보니 아직 나를]]></content>
     </entry>
 </feed>
