@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-09-04T03:11:07.535Z</updated>
+    <updated>2023-09-04T04:13:52.030Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김서형·류준열 주연상…최우수작품상 '다음 소희'·3관왕 '밀수']]></title>
+        <id>https://v.daum.net/v/20230904124522771</id>
+        <link href="https://v.daum.net/v/20230904124522771"/>
+        <updated>2023-09-04T04:13:29.548Z</updated>
+        <content type="html"><![CDATA[[OSEN=김보라 기자]&nbsp;전통과 권위를 인정받고 있는 한국영화평론가협회(회장 육정학)의 제43회 영평상 수상자(작)가 결정됐다. 4일 영평상 측은 "최우수작품상의 영예는 '다음 소희'에게 돌아갔다"며 "감독상은 '드림팰리스'의 가성문 감독이 수상하게 되었다"고 밝혔다. 이어 각본상은 '흐르다'의 김현정 감독, 남우주연상은 '올빼미'에서 열연을 펼친 배우]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['너의 시간 속으로' 감독 "뉴진스 OST 참여, 선택받아 기뻐"]]></title>
+        <id>https://v.daum.net/v/20230904121156325</id>
+        <link href="https://v.daum.net/v/20230904121156325"/>
+        <updated>2023-09-04T04:13:29.549Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 | 중구=김나연 기자] 사진=김창현 기자'너의 시간 속으로'의 연출을 맡은 김진원 감독이 뉴진스의 OST 참여 소식에 기뻐했다고 밝혔다. 4일 서울시 중구 앰배서더 서울 풀만 호텔에서 넷플릭스 오리지널 시리즈 '너의 시간 속으로'의 제작발표회가 개최됐다. 이 자리에는 김지원 감독과 안효섭, 전여빈, 강훈이 참석해 다양한 이야기를 나눴다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["원작과 MBTI 달라"..'상견니' 한국판 '너의 시간 속으로']]></title>
         <id>https://v.daum.net/v/20230904121009294</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230904101129675"/>
         <updated>2023-09-04T01:44:32.487Z</updated>
         <content type="html"><![CDATA[[티브이데일리 최하나 기자] 영화 ‘오펜하이머’가 박스오피스 1위를 기록했다. 4일 영화진흥위원회 통합전산망에 따르면 ‘오펜하이머’(감독 크리스토퍼 놀란)가 지난 주말 24만8778명의 관객을 동원하며 주말 박스오피스 1위를 기록했다. 누적 관객수는 277만4672명이다. ‘오펜하이머’는 세상을 구하기 위해 세상을 파괴할 위험을 감수해야 하는 천재 과학자]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['쉬리'로 '태극기 휘날리며' 강제규 감독이 돌아왔다 '1947 보스톤']]></title>
-        <id>https://v.daum.net/v/20230904100803522</id>
-        <link href="https://v.daum.net/v/20230904100803522"/>
-        <updated>2023-09-04T01:44:32.489Z</updated>
-        <content type="html"><![CDATA[[텐아시아=최지예 기자]'쉬리', '태극기 휘날리며' 등의 작품을 통해 한국영화의 패러다임을 바꾼 강제규 감독이 영화 '1947 보스톤'으로 올 추석 극장가를 찾는다. 1996년 영화 '은행나무 침대'로 데뷔와 동시에 센세이션을 일으킨 강제규 감독. 전생과 현생을 오가는 한국형 판타지 멜로 '은행나무 침대'는 진일보한 CG와 특수효과로 영화계를 깜짝 놀라]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘천박사’ 강동원 완벽한 액션 시퀀스에 담긴 비밀]]></title>
-        <id>https://v.daum.net/v/20230904100506405</id>
-        <link href="https://v.daum.net/v/20230904100506405"/>
-        <updated>2023-09-04T01:44:32.490Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 배효주 기자] '천박사 퇴마 연구소: 설경의 비밀'의 '갓벽'한 프로덕션이 기대를 모은다. 9월 27일 개봉하는 영화 '천박사 퇴마 연구소: 설경의 비밀'(감독 김성식)은 귀신을 믿지 않지만 귀신 같은 통찰력을 지닌 가짜 퇴마사 ‘천박사’(강동원)가 지금껏 경험해본 적 없는 강력한 사건을 의뢰받으며 시작되는 이야기를 그린 작품이다. 매 장면]]></content>
     </entry>
 </feed>
