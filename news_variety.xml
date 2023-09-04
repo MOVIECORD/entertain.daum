@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/variety</id>
     <title>다음 연예 ─ 뉴스 ─ 예능</title>
-    <updated>2023-09-04T16:12:57.123Z</updated>
+    <updated>2023-09-04T17:09:39.976Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[화사 "'외설 논란' 악플→공연 후 눈물이 폭포수처럼.."]]></title>
+        <id>https://v.daum.net/v/20230905011954038</id>
+        <link href="https://v.daum.net/v/20230905011954038"/>
+        <updated>2023-09-04T17:09:27.603Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 | 이경호 기자] /사진=유튜브 채널 '성시경'의 '성시경의 만날텐데' 영상 캡처화사(마마무)가 '외설 논란'에 휘말렸던 당시 심경을 털어놓았다. 4일 오후 유튜브 채널 '성시경'에는 '성시경의 만날텐데 l 화사□ 첫 게스트 신고식 제대로 치렀습니다!'는 영상이 게재됐다. 이번 영상에는 화사가 게스트로 출연했다. 화사는 성시경과 여러 이야기]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[폭탄 부부 남편, 아내에 막말·분노…"과거 母가 발가벗겨 내쫓아"]]></title>
         <id>https://v.daum.net/v/20230905010828018</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230904230023154"/>
         <updated>2023-09-04T14:10:43.015Z</updated>
         <content type="html"><![CDATA[정의윤이 깜짝 생일파티에 울컥(?)했다. 4일 방송된 JTBC '최강야구'에서는 동원과학기술대학교 야구부와 2차전 맞대결을 앞둔 최강몬스터즈의 모습이 그려졌다. 이날 미팅 후 최수현, 정현수, 원성준 등 영건즈들이 케이크와 현수막을 들고 등장했다. 촬영 당일 생일을 맞이한 정의윤의 깜짝 생일파티였던 것. 정의윤은 "너무 과하게 해주시는거 아니냐. 너]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[조우종 “♥정다은, 웹소설 쓰고 장항준♥김은희 될 거라고” 불신]]></title>
-        <id>https://v.daum.net/v/20230904225730133</id>
-        <link href="https://v.daum.net/v/20230904225730133"/>
-        <updated>2023-09-04T14:10:43.018Z</updated>
-        <content type="html"><![CDATA[조우종이 미래의 장항준, 김은희 부부가 될 거라는 아내 정다은의 말을 불신했다. 9월 4일 방송된 SBS ‘동상이몽 시즌2-너는 내 운명’에서 조우종 아내 정다은은 아나운서 선배 박은영, 이정민을 만났다. 정다은은 선배 박은영, 이정민을 만나 퇴사 후 근황에 대해 “웹소설을 썼다. 요즘 웹소설이 대세다. 꽤나 진도가 나가서. 공모전도 냈다”고 말했다.]]></content>
     </entry>
 </feed>
