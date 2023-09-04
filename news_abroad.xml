@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-09-04T12:19:30.849Z</updated>
+    <updated>2023-09-04T13:13:50.804Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“재산 1조 8천억” 리한나, 장애인·홈리스 참전용사에게 “엄청난 물품 지원” 기부천사]]></title>
+        <id>https://v.daum.net/v/20230904212036248</id>
+        <link href="https://v.daum.net/v/20230904212036248"/>
+        <updated>2023-09-04T13:13:49.773Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]최근 둘째 아들을 낳은 세계적 팝스타 리한나(35)가 장애인과 홈리스 참전용사에게 뜻깊은 물품을 지원했다. 3일(현지시간) 페이지식스에 따르면, 리한나는 캘리포니아주 로스앤젤레스의 장애인 및 노숙자 참전용사를 돕기 위해 '올웨이즈 포 더 피플(Aways For The People)' 재단에 직접 연락해 엄청난 물품을 보냈다]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[아만다 사이프리드 "10대 시절 화장 후회…눈썹 다 뽑았었다"]]></title>
         <id>https://v.daum.net/v/20230904172131759</id>
@@ -88,12 +95,5 @@
         <link href="https://v.daum.net/v/20230904103227524"/>
         <updated>2023-09-04T01:44:55.515Z</updated>
         <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]20년만에 로맨틱 코미디로 복귀하는 맥 라이언(61)이 세계적 팝스타 테일러 스위프트(33)의 위세에 눌려 체면을 구겼다. 3일(현지시간) 페이지식스에 따르면, 맥 라이언이 주연과 감독을 맡은 영화 ‘왓 해픈스 레이터(What Happenes Later) 개봉일이 3주 미뤄졌다. 10월 13일 AMC극장에서 독점 개봉하는]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["30세 나이차는 기본" 악플 쏟아져도 ♥︎지켜낸 톱스타들]]></title>
-        <id>https://v.daum.net/v/20230903221024621</id>
-        <link href="https://v.daum.net/v/20230903221024621"/>
-        <updated>2023-09-03T13:11:34.308Z</updated>
-        <content type="html"><![CDATA[[OSEN=최나영 기자] 사랑에 국경도 나이도 상관 없다지만, 나이 차이가 어느 정도 나는&nbsp;커플에게는 고운 시선만 존재하는 것이 아니다. 이는 해외 연예계에서도 마찬가지. 연인이나 아내와 30살, 더 나아가 40살 이상 나이차이를 자랑하는 스타들은 수많은 악플에&nbsp;시달리는 것이 사실. 하지만&nbsp;이를 극복하고 꿋꿋이 사랑을 지켜내고 있는 톱스타들이 있다. 대]]></content>
     </entry>
 </feed>

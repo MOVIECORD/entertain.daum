@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-09-04T12:19:30.847Z</updated>
+    <updated>2023-09-04T13:13:50.815Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['소용없어 거짓말' 황민현, 죽은 전 연인 시신 발견됐단 소식에 '충격']]></title>
+        <id>https://v.daum.net/v/20230904215255599</id>
+        <link href="https://v.daum.net/v/20230904215255599"/>
+        <updated>2023-09-04T13:13:31.281Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 이이진 기자) '소용없어 거짓말' 황민현이 송지현의 시신이 발견됐다는 소식을 들었다. 4일 방송된 tvN '소용없어 거짓말' 11회에서는 김도하(황민현 분)가 최엄지(송지현)의 시신이 발견됐다는 사실을 알게 된 모습이 그려졌다. 이날 경찰은 김도하에게 연락해 최엄지의 시신이 발견됐다고 전했다. 그러나 김도하는 "야산에서요? 발견된 곳이 바다가]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['금이야 옥이야' 윤다영, 이혼소송 결심한 서준영에 이별 선언 "그만 만나"]]></title>
         <id>https://v.daum.net/v/20230904211000125</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230904183414576"/>
         <updated>2023-09-04T10:11:46.192Z</updated>
         <content type="html"><![CDATA[[뉴스엔 박수인 기자] 배우 이소연이 ‘반짝이는 워터멜론’에 합류한다. tvN 새 월화드라마 ‘반짝이는 워터멜론’(극본 진수완/연출 손정현, 유범상/기획 스튜디오드래곤/제작 팬엔터테인먼트)은 음악에 천부적인 재능을 타고난 코다(CODA) 소년 은결이 1995년으로 타임슬립해, 어린 시절의 아빠 이찬과 함께 밴드를 하며 펼쳐지는 판타지 청춘 드라마. 극중]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[정영주 ‘오늘도 사랑스럽개’ 출연, 박규영 류아벨 엄마 된다]]></title>
-        <id>https://v.daum.net/v/20230904182508246</id>
-        <link href="https://v.daum.net/v/20230904182508246"/>
-        <updated>2023-09-04T10:11:46.194Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 박수인 기자] 배우 정영주가 '오늘도 사랑스럽개'에 출연한다. 오는 10월 첫 방송되는 MBC 새 수요드라마 ‘오늘도 사랑스럽개’(연출 김대웅/ 극본 백인아/ 제작 그룹에이트, 판타지오)는 키스를 하면 개로 변하는 저주에 걸린 여자와 그 저주를 풀 수 있는 유일한 치트키지만 개를 무서워하는 남자의 댕며드는 예측불허 판타지 로맨스 드라마다. ‘오늘]]></content>
     </entry>
 </feed>
