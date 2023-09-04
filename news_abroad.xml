@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-09-04T21:09:49.475Z</updated>
+    <updated>2023-09-04T22:09:35.335Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[스피어스와 이혼한 12살 연하남편, “나와 레오나르도 디카프리오는 똑같아”]]></title>
+        <id>https://v.daum.net/v/20230905064008060</id>
+        <link href="https://v.daum.net/v/20230905064008060"/>
+        <updated>2023-09-04T22:09:34.604Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]세계적 팝스타 브리트니 스피어스(41)와 이혼소송에 돌입한 샘 아스가리(29)가 레오나르도 디카프리오(48)와 자신이 같은 처지라고 밝혀 주목을 끌고 있다. 3일(현지시간) 연예매체 TMZ에 따르면 그는 최근 미국배우조합이 벌이고 있는 파업 행진에 참석했다. 아스가리는 CBS의 메가히트작인 NCIS의 2019년 에피소드에]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['재산 2조' 리한나, '둘째 출산'에도 '열' 행보..."참전용사에 대규모 기부"]]></title>
         <id>https://v.daum.net/v/20230904235424521</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230904133310773"/>
         <updated>2023-09-04T05:10:24.549Z</updated>
         <content type="html"><![CDATA[[뉴스엔 이민지 기자] 조 조나스, 소피 터너가 이혼 절차를 밟는다. 피플은 9월 3일(현지시간) 조 조나스, 소피 터너 부부가 결혼 4년만에 이혼 변호사를 고용했다고 보도했다. 소피 터너는 HBO 드라마 '왕좌의 게임'에서 산사 스타크 역할을 맡아 잘 알려져 있으며 조 조나스는 인기 그룹 조나스 브라더스 출신의 싱어송라이터이다. 지난 2016년 열애]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['엑스맨' 소피 터너, 결혼 4년만 파경 위기...조 조나스 "이혼 소송 제기"]]></title>
-        <id>https://v.daum.net/v/20230904115658729</id>
-        <link href="https://v.daum.net/v/20230904115658729"/>
-        <updated>2023-09-04T03:11:06.823Z</updated>
-        <content type="html"><![CDATA[[OSEN=유수연 기자] '엑스맨' 시리즈로 얼굴을 알린 배우 소피 터너가 가수 조 조나스와 파경 위기에 처했다. 3일(현지 시각) 연예매체&nbsp;TMZ 등의 보도에 따르면, 조 조나스는&nbsp;최근 이혼 전문 변호사를 선임했다. 두 사람은 지난 2016년부터 열애를 시작했으며, 지난 2019년 결혼식을 올린 후 슬하에 딸 두 명을 두고 있다. 그러나 최근 조 조나]]></content>
     </entry>
 </feed>
