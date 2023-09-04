@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-09-04T13:13:50.809Z</updated>
+    <updated>2023-09-04T14:10:55.871Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[박서준♥박보영, 행복한 신혼생활...‘콘크리트 유토피아’ 앓이]]></title>
+        <id>https://v.daum.net/v/20230904230601202</id>
+        <link href="https://v.daum.net/v/20230904230601202"/>
+        <updated>2023-09-04T14:10:30.637Z</updated>
+        <content type="html"><![CDATA[박서준, 박보영의 달달한 신혼 라이프를 확인 할 수 있다. ‘콘크리트 유토피아’는 대지진으로 폐허가 되어 버린 서울, 유일하게 남은 황궁 아파트로 생존자들이 모여들며 시작되는 이야기를 그린 재난 드라마다. 영화 속 황도부부 ‘민성’(박서준)과 ‘명화’(박보영)의 행복한 일상을 담은 SNS 계정이 화제를 모으고 있다. ‘민성’의 인스타그램 계정은 대지진 이전]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[엠마 스톤, 여자 프랑켄슈타인 충격 변신.."정사신도 수치심 없어"]]></title>
+        <id>https://v.daum.net/v/20230904230519197</id>
+        <link href="https://v.daum.net/v/20230904230519197"/>
+        <updated>2023-09-04T14:10:30.639Z</updated>
+        <content type="html"><![CDATA[[OSEN=최나영 기자] 영화 '가여운&nbsp;것들'의 요르고스 란티모스 감독이 주인공인 배우 엠마 스톤(34)의&nbsp;정사신과 관련, "우리는 (현장에서) 자신감을 가져야 했고 엠마는 바로 그것을 이해했다"라고 말했다. 엠마 스톤은 신작에서 쉽지 않은 캐릭터에 완벽히 녹아들었다.&nbsp; 그녀는&nbsp;앨러스데어 그레이의 1992년 동명 소설을 각색한 영화인 '가여운 것들'에서]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[실사 '원피스', '기묘한 이야기'도 넘었다...84개국 1위]]></title>
         <id>https://v.daum.net/v/20230904213130367</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230904161333864"/>
         <updated>2023-09-04T08:14:19.975Z</updated>
         <content type="html"><![CDATA[깔깔거리는 웃음소리가 여전히 앳되고 명랑하지만 어느새 데뷔 11년차다. 2013년 KBS2 ‘학교 2013’으로 연예계에 입문해 주조연 가리지않고 열심히 달려왔다. “신인 때보다 나아진 게 있다면 카메라 울렁증이 덜해졌다는 거예요. 작품할 때 카메라 앞에서 익숙해지는 시간이 좀 더 짧아졌다고나 할까요? 퇴보한 건 젊음이고요. 너무 속상하지만 몇날 며칠]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['프리 철수 리' 감독 이성민, "딸과 같은 다음 세대 위해 제작 시작했다"]]></title>
-        <id>https://v.daum.net/v/20230904161303844</id>
-        <link href="https://v.daum.net/v/20230904161303844"/>
-        <updated>2023-09-04T08:14:19.977Z</updated>
-        <content type="html"><![CDATA[[텐아시아=이하늘 기자] 영화 '프리 철수&nbsp;리'의 감독 이성민은 한국 관객들에게 영화가 어떻게 받아들여지길 바라는지에 관해 설명했다. 4일 서울 광진구 롯데시네마 건대입구에서 영화 '프리 철수&nbsp;리'(감독 하줄리, 이성민)의 기자간담회가 열렸다. 행사에는 하줄리 감독, 이성민 감독, 김수현 프로듀서, 랑코 야마다가 참석했다. '프리 철수&nbsp;리'는 미국에서]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['프리 철수 리' 하줄리 감독, "중요한 이야기가 역사의 뒤안길로 가지 않길 바랐다"]]></title>
-        <id>https://v.daum.net/v/20230904161001699</id>
-        <link href="https://v.daum.net/v/20230904161001699"/>
-        <updated>2023-09-04T07:10:45.039Z</updated>
-        <content type="html"><![CDATA[[텐아시아=이하늘 기자] 영화 '프리 철수&nbsp;리'의 감독 하줄리는 영화를 제작하게 된 이유를 밝혔다. 4일 서울 광진구 롯데시네마 건대입구에서 영화 '프리 철수&nbsp;리'(감독 하줄리, 이성민)의 기자간담회가 열렸다. 행사에는 하줄리 감독, 이성민 감독, 김수현 프로듀서, 랑코 야마다가 참석했다. '프리 철수&nbsp;리'는 미국에서 2건의 살인으로 사형을 선고받았던]]></content>
     </entry>
 </feed>
