@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2023-09-05T19:09:01.585Z</updated>
+    <updated>2023-09-05T20:11:25.679Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['스우파2' 레드릭, 충격의 워스트 댄서 선정…"라트리스, 양심 있는지"]]></title>
+        <id>https://v.daum.net/v/20230906051002056</id>
+        <link href="https://v.daum.net/v/20230906051002056"/>
+        <updated>2023-09-05T20:11:18.848Z</updated>
+        <content type="html"><![CDATA[(서울=뉴스1) 박하나 기자 = '스트릿 우먼 파이터2' 마네퀸 레드릭이 예상치 못한 워스트 댄서로 지목됐다. 지난 5일 오후 10시에 방송된 Mnet 예능 프로그램 '스트릿 우먼 파이터2'(이하 '스우파2')에서는 계급별 댄스 비디오 촬영 현장이 담겼다. 잼 리퍼블릭의 라트리스가 메인 댄서로 선정된 '클릭 라이크(Click Like)' 부리더 계급 댄]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['육남매父' 박지헌 아내 "미혼모로 첫째 출생 신고" 고백]]></title>
+        <id>https://v.daum.net/v/20230906045002738</id>
+        <link href="https://v.daum.net/v/20230906045002738"/>
+        <updated>2023-09-05T20:11:18.863Z</updated>
+        <content type="html"><![CDATA[(서울=뉴스1) 박하나 기자 = 그룹 V.O.S 멤버 박지헌의 아내 서명선이 '금쪽 상담소'에 출연해 남편의 신인 시절 아이의 존재를 숨긴 사실을 고백했다. 지난 5일 오후 8시 10분에 방송된 채널A 예능 프로그램 '오은영의 금쪽 상담소'('금쪽 상담소')에서는 육 남매 부부 가수 박지헌과 그의 아내 서명선이 함께했다. 고등학생 첫째부터 유치원생 막내]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[내홍 딛고 개최되는 부산국제영화제… 이번엔 주윤발 온다]]></title>
         <id>https://v.daum.net/v/20230906040524445</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230905232141002"/>
         <updated>2023-09-05T15:10:58.986Z</updated>
         <content type="html"><![CDATA['돌싱포맨' 낸시랭이 세간을 떠들썩하게 했던 사기 결혼에 대해 언급했다. 낸시랭은 5일 방송된 SBS '신발 벗고 돌싱포맨 '게스트로 출연해 "같은 돌싱의 처지라 '돌싱포맨'을 애청한다. 6년 전 사기 결혼을 겪었다. 굉장히 힘들었고 고생도 많이 했다. 잘못된 선택으로 당시에 떠안은 빚이 8억에서 10억이 됐다"고 고백해 안쓰러움을 자아냈다. 여전]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘마이웨이’ 노엘, 출소 이후 ‘서울패션위크 포착’]]></title>
-        <id>https://v.daum.net/v/20230905231605964</id>
-        <link href="https://v.daum.net/v/20230905231605964"/>
-        <updated>2023-09-05T15:10:58.989Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 유용주 기자] 가수 노엘(본명 장용준,23)이 9월 5일 오후 서울 중구 DDP(동대문디자인플라자)에서 열린 ‘2024 S/S 서울패션위크’ 비엘알 컬렉션에 참석했다. 이날 노엘은 가수 윤훼이, 여호와 함께 블루카펫 계단을 내려와 포토월에서 포토타임을 가졌다. 그리고 선글라스를 쓴 채 하얀 비니와 재킷 및 찢긴 청바지 패션으로 자신이 힙합 가수임]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘과몰입 인생사’ 오펜하이머 핵폭탄 비화]]></title>
-        <id>https://v.daum.net/v/20230905230806922</id>
-        <link href="https://v.daum.net/v/20230905230806922"/>
-        <updated>2023-09-05T14:10:21.340Z</updated>
-        <content type="html"><![CDATA[[티브이데일리 이기은 기자] ‘과몰입 인생사’가 화제의 오펜하이머 비화를 펼치며 마무리 됐다. 5일 밤 방송된 SBS 예능프로그램 ‘과몰입 인생사’ 최종회에서는 오펜하이머 비화가 공개됐다. 줄리어스 로버트 오펜하이머는 제2차 세계 대전 핵무기 개발을 주도한 ‘원자 폭탄’의 선구자로 불린다. 천재 과학자인 그가 등장했지만, 2차 세계 대전 이후 히틀러가 극단]]></content>
     </entry>
 </feed>
