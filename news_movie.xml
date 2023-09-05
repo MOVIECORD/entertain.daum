@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-09-05T10:12:14.207Z</updated>
+    <updated>2023-09-05T11:09:09.657Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['충무로 믿보배' 임시완·'시청률 보증수표' 이준호, K팝이 낳은 배우 투톱 '우뚝']]></title>
+        <id>https://v.daum.net/v/20230905200102482</id>
+        <link href="https://v.daum.net/v/20230905200102482"/>
+        <updated>2023-09-05T11:08:47.408Z</updated>
+        <content type="html"><![CDATA[[텐아시아=최지예 기자]아이돌로 연예계 데뷔했으나,&nbsp;연기력만으로 완연히 자리잡은 배우가 있다. 제국의아이돌 임시완, 2PM 이준호가 그 주인공이다. 스크린 데뷔작부터 '천만 배우'가 된 임시완은 스크린에서 '믿고 보는 배우'로 활약하며 다채로운 필모그래피를 쌓아가고 있고, 2연타 '흥행 보증수표'가 된 이준호는 K-드라마의 중심에서 글로벌 팬덤을 구축하고]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['비닐하우스' 김서형, 43회 영평상 영예의 여우주연상]]></title>
         <id>https://v.daum.net/v/20230905182420565</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230905162626678"/>
         <updated>2023-09-05T08:13:35.068Z</updated>
         <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]역시 ‘의리의 사나이들’이다. 지난해 양조위(62)에 이어 ‘영원한 형님’ 주윤발(67)이 2년 연속 부산국제영화제를 빛낸다. 남동철 수석 프로그래머는 5일 온라인을 통해 진행된 제28회 부산국제영화제 기자회견에서 "지난해 양조위가 영화제를 찾은데 이어 올해는 '큰 형님' 주윤발이 부산국제영화제를 찾는다"고 밝혔다. 이어]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['원피스' 아라타 맛켄유, 조로 연기 후 인기 폭발..."아쉽게도 품절남"]]></title>
-        <id>https://v.daum.net/v/20230905162130489</id>
-        <link href="https://v.daum.net/v/20230905162130489"/>
-        <updated>2023-09-05T08:13:35.070Z</updated>
-        <content type="html"><![CDATA[[TV리포트=강성훈 기자] 넷플릭스 실사판 '원피스'(ONE PIECE)에서 조로 역을 연기한 배우 아라타 맛켄유(Makken'yu Maeda·26)가 뛰어난 연기력과 잘생긴 얼굴로 인기를 얻고 있다. '원피스'에서 아라타 맛켄유는 만화 속 조로처럼 초록색 마리모 같은 머리와 삼도류 설정으로 등장하자마자 팬들에게 강력한 인상을 줬다. 또한, 그의 강인한 육]]></content>
     </entry>
 </feed>
