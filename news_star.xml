@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2023-09-05T18:13:31.405Z</updated>
+    <updated>2023-09-05T19:09:01.585Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[내홍 딛고 개최되는 부산국제영화제… 이번엔 주윤발 온다]]></title>
+        <id>https://v.daum.net/v/20230906040524445</id>
+        <link href="https://v.daum.net/v/20230906040524445"/>
+        <updated>2023-09-05T19:08:55.280Z</updated>
+        <content type="html"><![CDATA[허문영 전 집행위원장 사퇴와 내부 갈등, 성폭력 사태 등으로 위기를 겪은 부산국제영화제(BIFF)가 우려를 딛고 올해 정상 개최된다. 5일 온라인으로 열린 제28회 부산국제영화제 개최 기자회견에서 운영위원장 직무대행을 맡은 강승아 부운영위원장은 “힘겨운 시기를 지나왔다. 아직 섣부른 희망을 이야기할 수 없지만 구성원들의 저력과 응원해 주신 분들 덕분에 어]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[모모랜드 출신 김나윤, 김민정 소속사와 전속계약 '새 출발']]></title>
         <id>https://v.daum.net/v/20230906005740848</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230905230806922"/>
         <updated>2023-09-05T14:10:21.340Z</updated>
         <content type="html"><![CDATA[[티브이데일리 이기은 기자] ‘과몰입 인생사’가 화제의 오펜하이머 비화를 펼치며 마무리 됐다. 5일 밤 방송된 SBS 예능프로그램 ‘과몰입 인생사’ 최종회에서는 오펜하이머 비화가 공개됐다. 줄리어스 로버트 오펜하이머는 제2차 세계 대전 핵무기 개발을 주도한 ‘원자 폭탄’의 선구자로 불린다. 천재 과학자인 그가 등장했지만, 2차 세계 대전 이후 히틀러가 극단]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[비주얼 걸그룹 '투야'를 아시나요? 12월 '응답하라' 공연서 재결합]]></title>
-        <id>https://v.daum.net/v/20230905230700919</id>
-        <link href="https://v.daum.net/v/20230905230700919"/>
-        <updated>2023-09-05T14:10:21.340Z</updated>
-        <content type="html"><![CDATA[[TV리포트=이혜미 기자] 추억의 걸그룹 투야의 반가운 재결합 소식이 전해졌다. 5일 근황올림픽 채널에는 '투야 안진경을 만나다'라는 제목의 영상이 업로드 됐다. 투야는 3인조 걸그룹으로 지난 2001년부터 2002년까지 짧게 활동하며 '봐' '가' 등의 히트곡을 탄생시킨 바. 투야의 메인 보컬로 활동했던 안진경은 "타이틀곡 내고 후속곡 활동하면서 접었다.]]></content>
     </entry>
 </feed>
