@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-09-05T09:10:55.476Z</updated>
+    <updated>2023-09-05T10:12:14.207Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['비닐하우스' 김서형, 43회 영평상 영예의 여우주연상]]></title>
+        <id>https://v.daum.net/v/20230905182420565</id>
+        <link href="https://v.daum.net/v/20230905182420565"/>
+        <updated>2023-09-05T10:11:48.124Z</updated>
+        <content type="html"><![CDATA[[OSEN=김보라 기자] 배우 김서형이 스릴러 '비닐하우스'를 통해 제43회 한국영화평론가협회상(영평상)에서 여우주연상을 받는다. 영화 '비닐하우스'(감독 이솔희, 제작 한국영화아카데미, 배급 트리플픽처스)를 통해 압도적인 열연을 펼친 김서형은 이달 21일 개최되는 제43회 한국영화평론가협회상(영평상)에서 영예의 여우주연상을 받게 됐다. 앞서 지난 4일]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['1947 보스톤' 하정우x임시완x김상호, 싱크로율 100%]]></title>
+        <id>https://v.daum.net/v/20230905181731390</id>
+        <link href="https://v.daum.net/v/20230905181731390"/>
+        <updated>2023-09-05T10:11:48.127Z</updated>
+        <content type="html"><![CDATA[[OSEN=김보라 기자] 국가대표 마라토너들의 가슴 벅찬 도전을 그린 영화 '1947 보스톤'이 보스턴 마라톤 대회 국가대표팀의 출전을 알리는 캐릭터 영상을 공개했다. '1947 보스톤'(감독 강제규, 배급 롯데엔터테인먼트·콘텐츠지오, 제작 비에이엔터테인먼트·빅픽쳐)은 1947년 광복 후 처음으로 태극마크를 달고 국제 대회에 출전하기 위한 마라토너들의]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[송강호가 손님맞이 나서는 ‘선장 없는’ 부산국제영화제]]></title>
         <id>https://v.daum.net/v/20230905174920634</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230905162130489"/>
         <updated>2023-09-05T08:13:35.070Z</updated>
         <content type="html"><![CDATA[[TV리포트=강성훈 기자] 넷플릭스 실사판 '원피스'(ONE PIECE)에서 조로 역을 연기한 배우 아라타 맛켄유(Makken'yu Maeda·26)가 뛰어난 연기력과 잘생긴 얼굴로 인기를 얻고 있다. '원피스'에서 아라타 맛켄유는 만화 속 조로처럼 초록색 마리모 같은 머리와 삼도류 설정으로 등장하자마자 팬들에게 강력한 인상을 줬다. 또한, 그의 강인한 육]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘인사파행’ 위기의 부산국제영화제, 송강호->저우룬파, 구원투수로 나선다]]></title>
-        <id>https://v.daum.net/v/20230905161934386</id>
-        <link href="https://v.daum.net/v/20230905161934386"/>
-        <updated>2023-09-05T08:13:35.078Z</updated>
-        <content type="html"><![CDATA[[스포츠서울 | 조은별기자]한국영화를 대표하는 배우 송강호와 1980년대 홍콩영화를 대표하는 ‘따거’(맏형) 저우룬파(주윤발)가 ‘인사파행’으로 최악의 위기를 겪은 부산국제영화제 구원투수로 나선다. 6일 온라인으로 진행된 제 28회 부산국제영화제 개최 기자회견에서 남동철 집행위원장 대행(수석 프로그래머)은 “배우 송강호가 ‘올해의 호스트’로 결정]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[꿈 위해 자퇴한 소녀가 인터넷 방송에서 춤 추는 이유]]></title>
-        <id>https://v.daum.net/v/20230905161802311</id>
-        <link href="https://v.daum.net/v/20230905161802311"/>
-        <updated>2023-09-05T08:13:35.080Z</updated>
-        <content type="html"><![CDATA[[조영준 기자] &nbsp;▲ &nbsp;영화 &lt;졍서, 졍서&gt; 스틸컷ⓒ 인디그라운드*주의! 이 글에는 영화의 스포일러가 포함돼 있습니다. 01. 같이 공부해요. 인스타 팔로우 해줘. 자퇴했음. 대학질문 X 싸구려 커튼이 쳐진 독서실의 구석진 자리. 마스크를 쓴 영서(신혜지 분)가 핸드폰 카메라를 바라보고 있다. 화면 너머에 있는 누군가와 이야기라도 나누는 듯이 무언가 열심히]]></content>
     </entry>
 </feed>
