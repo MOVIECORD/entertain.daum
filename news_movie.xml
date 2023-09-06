@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-09-06T06:13:59.742Z</updated>
+    <updated>2023-09-06T07:10:57.106Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘천박사’ 래퍼처럼 대사 쏟아내는 퇴마사 강동원 어떨까]]></title>
+        <id>https://v.daum.net/v/20230906154124377</id>
+        <link href="https://v.daum.net/v/20230906154124377"/>
+        <updated>2023-09-06T07:10:30.832Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 배효주 기자] '천박사 퇴마 연구소: 설경의 비밀'에서 강동원과 이동휘가 색다른 팀워크를 보여줄 전망이다. 9월 27일 개봉하는 영화 '천박사 퇴마 연구소: 설경의 비밀'(감독 김성식)은 귀신을 믿지 않지만 귀신 같은 통찰력을 지닌 가짜 퇴마사 ‘천박사’(강동원)가 지금껏 경험해본 적 없는 강력한 사건을 의뢰받으며 시작되는 이야기를 그린 작품이다]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['인어공주' 할리 베일리, 차기작으로 돌아온다…이번에도 리메이크]]></title>
+        <id>https://v.daum.net/v/20230906153930266</id>
+        <link href="https://v.daum.net/v/20230906153930266"/>
+        <updated>2023-09-06T07:10:30.839Z</updated>
+        <content type="html"><![CDATA[[TV리포트=유비취 기자] 디즈니의 실사 영화 '인어공주'의 주인공으로 활약했던 배우 할리 베일리가 차기작을 앞둔 소감을 전했다. 5일(현지 시간) 할리 베일리(23)는 코스모폴리탄과의 인터뷰를 통해 영화 '인어공주'를 이은 차기작 '컬러 퍼플'에 대한 기대감을 전했다. 할리 베일리는 영화 뮤지컬인 '컬러 퍼플'에 대해 만족감을 드러냈다. '컬러 퍼플'의]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘콘크리트 유토피아’ 빵 터진 그 장면, 알고보니 이병헌 애드리브]]></title>
         <id>https://v.daum.net/v/20230906145453224</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230906123715595"/>
         <updated>2023-09-06T04:13:01.190Z</updated>
         <content type="html"><![CDATA[(서울=뉴스1) 정유진 기자 = 감독으로부터 "은퇴작인가 했다"는 얘기를 들을 정도로 코미디에 '올인'한 두 배우 강하늘, 정소민의 '코맨스'(코믹 로맨스)는 추석 관객들의 마음을 사로잡을 수 있을까. 6일 오전 서울 광진구 건대입구 롯데시네마에서 영화 '30일'(감독 남대중)의 제작보고회가 열렸다. 이 자리에는 남대중 감독과 배우 강하늘, 정소민이 참]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["싱크로율 100만%"…'30일' 강하늘X정소민, 킹 받게 만든 8년 만의 티키타카]]></title>
-        <id>https://v.daum.net/v/20230906123025460</id>
-        <link href="https://v.daum.net/v/20230906123025460"/>
-        <updated>2023-09-06T04:13:01.191Z</updated>
-        <content type="html"><![CDATA[[OSEN=김보라 기자]&nbsp;“정열과 나라는 우열을 가릴 수 없을 정도로 서로 ‘킹 받게’ 한다.(웃음)” 남대중 감독은 6일 서울 자양동 건대입구 롯데시네마에서 열린 영화 ‘30일’의 제작보고회에서 “캐릭터에 대한 두 배우의 싱크로율은 연기적으로 100만%다. 제가 시나리오를 준비할 때 생각하지 못한 부분까지 두 분이 현장에서 보여줬다. 그래서 시나리오보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["은퇴는 안해요~" 강하늘♥정소민, '스물' 커플의 제대로 로맨스]]></title>
-        <id>https://v.daum.net/v/20230906121915195</id>
-        <link href="https://v.daum.net/v/20230906121915195"/>
-        <updated>2023-09-06T04:13:01.191Z</updated>
-        <content type="html"><![CDATA[[스포티비뉴스=유은비 기자] "저 은퇴 안 해요" '스물'의 강하늘과 정소민 커플이 한층 성숙해진 케미와 독해진 웃음을 장착하고 '은퇴설을 유발' 코맨스(코믹+로맨스) 영화 '30일'로 돌아왔다. 영화 '30일' 제작발표회가 6일 오전 11시 서울 롯데시네마 건대입구에서 열렸다. 이날 현장에는 배우 강하늘, 정소민 그리고 남대중 감독이 참석해 작품에]]></content>
     </entry>
 </feed>
