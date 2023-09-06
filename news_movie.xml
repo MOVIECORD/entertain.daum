@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-09-06T09:11:13.771Z</updated>
+    <updated>2023-09-06T10:11:38.854Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['가문의 영광: 리턴즈' 김수미→탁재훈x정준하 돌아왔다]]></title>
+        <id>https://v.daum.net/v/20230906183619950</id>
+        <link href="https://v.daum.net/v/20230906183619950"/>
+        <updated>2023-09-06T10:11:15.309Z</updated>
+        <content type="html"><![CDATA[[OSEN=김보라 기자] 영화 '가문의 영광: 리턴즈'가 메인 포스터를 공개했다. '가문의 영광: 리턴즈'(감독 정태원・정용기, 제작 태원엔터테인먼트, 배급 NEW)는 잘나가는 스타 작가 대서(윤현민 분)와 가문의 막내딸 진경(유라 분)을 결혼시키기 위해, 온갖 음모를 꾸미는 장씨 가문의 사생결단 결혼성사 대작전을 그린 코미디. 명절 추석과 어울리게 보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['더 이퀄라이저 3', '바비' 제치고 박스오피스 1위]]></title>
         <id>https://v.daum.net/v/20230906180200090</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230906154124377"/>
         <updated>2023-09-06T07:10:30.832Z</updated>
         <content type="html"><![CDATA[[뉴스엔 배효주 기자] '천박사 퇴마 연구소: 설경의 비밀'에서 강동원과 이동휘가 색다른 팀워크를 보여줄 전망이다. 9월 27일 개봉하는 영화 '천박사 퇴마 연구소: 설경의 비밀'(감독 김성식)은 귀신을 믿지 않지만 귀신 같은 통찰력을 지닌 가짜 퇴마사 ‘천박사’(강동원)가 지금껏 경험해본 적 없는 강력한 사건을 의뢰받으며 시작되는 이야기를 그린 작품이다]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['인어공주' 할리 베일리, 차기작으로 돌아온다…이번에도 리메이크]]></title>
-        <id>https://v.daum.net/v/20230906153930266</id>
-        <link href="https://v.daum.net/v/20230906153930266"/>
-        <updated>2023-09-06T07:10:30.839Z</updated>
-        <content type="html"><![CDATA[[TV리포트=유비취 기자] 디즈니의 실사 영화 '인어공주'의 주인공으로 활약했던 배우 할리 베일리가 차기작을 앞둔 소감을 전했다. 5일(현지 시간) 할리 베일리(23)는 코스모폴리탄과의 인터뷰를 통해 영화 '인어공주'를 이은 차기작 '컬러 퍼플'에 대한 기대감을 전했다. 할리 베일리는 영화 뮤지컬인 '컬러 퍼플'에 대해 만족감을 드러냈다. '컬러 퍼플'의]]></content>
     </entry>
 </feed>
