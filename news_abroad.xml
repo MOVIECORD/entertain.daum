@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-09-06T03:10:59.709Z</updated>
+    <updated>2023-09-06T04:13:25.537Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[티모시 샬라메, 실내 공연장서 무개념 흡연...'담배 냄새' 테러]]></title>
+        <id>https://v.daum.net/v/20230906121930203</id>
+        <link href="https://v.daum.net/v/20230906121930203"/>
+        <updated>2023-09-06T04:13:24.755Z</updated>
+        <content type="html"><![CDATA[[TV리포트=안수현 기자] 배우 티모시 샬라메와 카일리 제너의 공식적인 데이트 현장보다 더 회자 되는 것은 티모시의 '무개념 실내 흡연' 행위다. 지난 4일(현지 시간) 미국 로스앤젤레스에서 열린 비욘세 '르네상스 월드 투어'에서 티모시 샬라메와 카일리 제너가 소파이 스타디움의 VIP 섹션에서 공개적으로 스킨십을 즐기는 모습이 목격됐다. 두 사람은 지난 4]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[티모시 샬라메, ♥카일리 제너와 데이트보다 화제 모은 '실내 흡연']]></title>
         <id>https://v.daum.net/v/20230906113907667</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230905183030729"/>
         <updated>2023-09-05T10:12:13.295Z</updated>
         <content type="html"><![CDATA[[TV리포트=유비취 기자] 가수 마일리 사이러스가 수백억 원의 수익을 낸 투어에서 한 푼도 가져가지 못했다고 고백했다. 4일 마일리 사이러스는 소셜네트워크서비스를 통해 인터뷰 영상을 공개했다. 그는 투어로 힘들게 번 돈을 이상한 곳에 쏟아부었다고 밝혔다. 지난 2014년 진행된 마일리 사이러스의 '뱅거즈 투어'는 6,290만 달러(한화 약 833억 4,87]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['아역' 출신 배우, 탈세했다가 딱 걸려..."4억 납부 완료"]]></title>
-        <id>https://v.daum.net/v/20230905181331287</id>
-        <link href="https://v.daum.net/v/20230905181331287"/>
-        <updated>2023-09-05T10:12:13.308Z</updated>
-        <content type="html"><![CDATA[[TV리포트=강성훈 기자] 중국에서 '아역 출신 미인 여배우'로 불린 장이이(蒋依依·22)가 탈세 혐의로 신고를 당했는데, 그의 가족까지 법을 어긴 것으로 전해졌다. 최근 중국 매체 '헤드라인 뉴스'는 장이이의 탈세 혐의에 대해 보도했다. 보도에 따르면 장이이 측근 내부고발자가 올해 2월부터 중국 대륙 세무국에 장이이의 탈세를 신고했고, 7월 검사국으로부터]]></content>
     </entry>
 </feed>
