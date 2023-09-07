@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-09-07T13:13:08.355Z</updated>
+    <updated>2023-09-07T14:10:45.169Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[박성웅 "개탈 정체? 박해진밖에 안 떠올라"...팽팽한 기싸움]]></title>
+        <id>https://v.daum.net/v/20230907223017093</id>
+        <link href="https://v.daum.net/v/20230907223017093"/>
+        <updated>2023-09-07T14:10:27.430Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 노수린 기자) 박성웅이 박해진을 의심하며 팽팽한 기싸움을 펼쳤다. 7일 방송된 SBS '국민사형투표'에서는 권석주(박성웅)가 수사 협조를 위해 교도소 밖으로 나왔다. 특별수사본부에는 권석주가 탈출할 수 없도록 감금 시설과 감시 카메라가 설치됐다. 개탈의 사형 집행 첫 번째 피해자 배기철의 죽은 아내 휴대폰에서는 '남편이 죽은 날 누군가 나에게]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이준호도 반했다…"홍진경 지갑에 5억 있어"]]></title>
         <id>https://v.daum.net/v/20230907211539903</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230907182152541"/>
         <updated>2023-09-07T10:11:27.618Z</updated>
         <content type="html"><![CDATA[[OSEN=하수정 기자] 돌아온 ‘신병2’는 역시 강했다. &nbsp; 지니 TV 오리지널 ‘신병2’(연출 민진기, 극본 장삐쭈·윤기영·허혜원·지정민, 기획 KT스튜디오지니, 제작 A2Z엔터테인먼트·네오엔터테인먼트)에 대한 반응이 뜨겁다. 한층 강력한 웃음과 공감을 장착하고 돌아온 ‘신병2’는 레전드 군텐츠의 진가를 어김없이 발휘했다. 무엇보다 확장된 세계관 속]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘우당탕탕 패밀리’ 전쟁 같은 상견례..이혼 후 돌고 돌아 사돈?]]></title>
-        <id>https://v.daum.net/v/20230907180818141</id>
-        <link href="https://v.daum.net/v/20230907180818141"/>
-        <updated>2023-09-07T09:11:06.731Z</updated>
-        <content type="html"><![CDATA[[OSEN=김채연 기자] ‘우당탕탕&nbsp;패밀리’가 좌충우돌 스토리를 예상케하는 단체 포스터를 공개했다 오는 18일 첫 방송 예정인 KBS 1TV 새 일일드라마 ‘우당탕탕&nbsp;패밀리’(연출 김성근 / 극본 문영훈 / 제작 몬스터유니온, 아센디오)는 30년 전 원수로 헤어진 부부가 자식들 사랑으로 인해 사돈 관계로 다시 만나면서 오래된 갈등과 반목을 씻고 진정한 가]]></content>
     </entry>
 </feed>
