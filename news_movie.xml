@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-09-07T21:09:32.223Z</updated>
+    <updated>2023-09-07T22:10:22.059Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[결국 베일 벗는 故설리의 마지막, 다만 바라는 것은 건강한 추모]]></title>
+        <id>https://v.daum.net/v/20230908070102145</id>
+        <link href="https://v.daum.net/v/20230908070102145"/>
+        <updated>2023-09-07T22:09:57.716Z</updated>
+        <content type="html"><![CDATA[[텐아시아=최지예 기자] ≪최지예의 에필로그≫ 최지예 텐아시아 기자가 연예계 곳곳에서 일어난 사건들을 객관적이고 예리하게 짚어냅니다. 당신이 놓쳤던 '한 끗'을 기자의 시각으로 정밀하게 분석합니다. 걸그룹 에프엑스(f(X)) 출신 배우 고(故) 설리의 마지막이 결국 베일을 벗는다. 설리의 마지막이 담긴 작품 공개는 여러 모로 뜨거운 감자였다. 많은 의견들이]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“두 번의 실패는 없다” 송강호·하정우·강동원, 추석 3파전]]></title>
+        <id>https://v.daum.net/v/20230908063028746</id>
+        <link href="https://v.daum.net/v/20230908063028746"/>
+        <updated>2023-09-07T22:09:57.716Z</updated>
+        <content type="html"><![CDATA[송강호, 하정우, 강동원(왼쪽부터) 등 충무로 흥행술사 3인이 극장가 대목인 추석 연휴를 맞아 각각 신작을 내놓고 관객몰이에 나선다. 스포츠동아DB배우 송강호, 하정우, 강동원이 올 추석 연휴 극장가를 무대로 치열한 ‘흥행 전쟁’을 벌인다. 전작의 부진으로 그 어느 때보다 흥행에 목마른 이들이 각각 주연한 영화 ‘거미집’, ‘1947 보스톤’, ‘천박사]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이충현X전종서, 일·사랑 다 잡았다...'발레리나' 공개 확정]]></title>
         <id>https://v.daum.net/v/20230908020030466</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230907150822470"/>
         <updated>2023-09-07T06:13:17.044Z</updated>
         <content type="html"><![CDATA[[스타뉴스 | 안윤지 기자] 가수 임영웅 /사진=이동훈 기자 photoguy@가수 임영웅의 자작곡이 영화에 쓰인다. 소속사 물고기뮤직 관계자는 7일 스타뉴스에 "임영웅의 자작곡 '모래 알갱이'가 영화 '소풍'에 사용된다"라고 밝혔다. 영화 '소풍'(제작 로케트필름)은 인생의 황혼기에 접어든 세 명의 주인공이 노년에 더욱 빛을 내는 우정과 사랑을 쌓아가는]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[다시 뭉친 권상우→이이경, ‘히트맨2’ 크랭크업]]></title>
-        <id>https://v.daum.net/v/20230907150608386</id>
-        <link href="https://v.daum.net/v/20230907150608386"/>
-        <updated>2023-09-07T06:13:17.045Z</updated>
-        <content type="html"><![CDATA[영화 ‘히트맨’의 후속작 ‘히트맨2’(감독 최원섭)가 크랭크업 했다. ‘히트맨2’는 전직 국보급 특수요원 준(권상우 분)이 인기 웹툰 작가로 거듭나면서 다시 한번 역대급 사건에 휘말리는 코믹 액션이다. 준이 다시 한번 떡상 하기 위해 새로운 이야기를 연재하지만, 마치 예언이라도 한 것처럼 웹툰과 같은 모방테러가 발생해 거대한 사건에 휘말리게 된다. 전편보다]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI 블록버스터 ‘크리에이터’ 강렬한 비주얼 메인 포스터]]></title>
-        <id>https://v.daum.net/v/20230907144325470</id>
-        <link href="https://v.daum.net/v/20230907144325470"/>
-        <updated>2023-09-07T06:13:17.047Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 배효주 기자] AI 블록버스터 '크리에이터'의 메인 포스터가 공개됐다. 10월 개봉하는 영화 '크리에이터'(감독 가렛 에드워즈)는 고도화된 AI들에 의해 핵공격이 시작된 후, 특수부대 요원 ‘조슈아’가 인류를 위협할 무기인 아이 모습의 AI 로봇 ‘알피’를 발견하면서 이를 둘러싸고 벌어지는 거대한 전쟁을 그린 AI 블록버스터다. 공개된 메인 포스]]></content>
     </entry>
 </feed>

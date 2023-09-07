@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-09-07T21:09:32.220Z</updated>
+    <updated>2023-09-07T22:10:22.057Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[특수본 합류 박성웅, 박해진 개탈로 의심→아비규환 속 현장 이탈]]></title>
+        <id>https://v.daum.net/v/20230908070010101</id>
+        <link href="https://v.daum.net/v/20230908070010101"/>
+        <updated>2023-09-07T22:10:03.440Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 노수린 기자) 박성웅이 박해진을 개탈로 의심한 데 이어 현장에서 이탈했다. 7일 방송된 SBS '국민사형투표'에서는 권석주(박성웅)가 특별 수사 본부에 합류한 가운데, 김무찬(박해진)과 팽팽한 기싸움을 펼쳤다. 김무찬은 권석주에게 "지금부터 그동안 받은 편지, 주변 사람, 특히 최종 법정 참석자들을 다 뒤져서 개탈이다 싶은 사람을 골라내라.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“강점은 배우 연기→OST” 원작 ‘상견니’ 신드롬 이을까]]></title>
         <id>https://v.daum.net/v/20230908055916963</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230907201810540"/>
         <updated>2023-09-07T12:19:13.633Z</updated>
         <content type="html"><![CDATA[(엑스포츠뉴스 신현지 기자) 한지완이 김진우가 이정빈의 사고를 냈다는 사실을 깨달았다. 7일 방송된 KBS 2TV 일일드라마 '우아한 제국'에서는 신주경(한지완 분)이 신예경(이정빈)의 사고 장소에 방문해 수소문하는 장면이 전파를 탔다. 이후 신주경은 탁성구(이규영)를 마주치게 되고, 장기윤(김진우)이 꾸민 짓이라는 걸 알아차리게 됐다. 신주경은 장기윤을]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['우아한 제국' 강율, 김미라 만류에도 집 뛰쳐나가.."배우 될 것"]]></title>
-        <id>https://v.daum.net/v/20230907201512427</id>
-        <link href="https://v.daum.net/v/20230907201512427"/>
-        <updated>2023-09-07T12:19:13.635Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 | 김지은 인턴기자] /사진='우아한 제국' 화면 캡처강율이 김미라의 만류를 뿌리치고 배우의 꿈을 이루기 위해 집을 뛰쳐나갔다. 7일 방송된 KBS 2TV 일일드라마 '우아한 제국' 23화에서는 정우혁(강율 분)이 정준희(김미라 분)와 갈등을 빚는 모습이 담겼다. 이날 방송에서 정우혁은 배우의 길을 반대하는 어머니 정준희를 설득하려 했지만 실]]></content>
     </entry>
 </feed>
