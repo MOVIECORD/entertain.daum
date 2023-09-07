@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/variety</id>
     <title>다음 연예 ─ 뉴스 ─ 예능</title>
-    <updated>2023-09-07T10:11:48.197Z</updated>
+    <updated>2023-09-07T11:10:03.672Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[BTS 뷔, 출연 없이 '엠카' 1위…화사·보넥도 컴백→라이즈 데뷔]]></title>
+        <id>https://v.daum.net/v/20230907195002643</id>
+        <link href="https://v.daum.net/v/20230907195002643"/>
+        <updated>2023-09-07T11:09:51.646Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 신현지 기자) 뷔가 엔시티 유와의 접전 끝에 방송 출연 없이 1위 트로피를 차지했다. 7일 방송된 Mnet 음악 프로그램 '엠카운트다운'(이하 '엠카') 813화에서는 엔시티 유(NCT U)의 '배기 진스(Baggy Jeans)'와 뷔(V)의 '러브 미 어게인(Love Me Again)'이 1위 후보에 오른 가운데, 뷔가 출연 없이 1위의 영]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[유재석 "'1박 2일' 16년간 김종민 빼고 다 바껴..KBS 사장도"]]></title>
+        <id>https://v.daum.net/v/20230907191447784</id>
+        <link href="https://v.daum.net/v/20230907191447784"/>
+        <updated>2023-09-07T11:09:51.649Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 | 윤성열 기자] /사진='핑계고' 영상 캡처방송인 유재석이 16년 동안 KBS 2TV 간판 예능 프로그램 '1박 2일'에 출연 중인 가수 김종민을 향해 감탄을 쏟아냈다. 7일 유튜브 채널 '뜬뜬'을 통해 웹예능 '핑계고' 영상이 공개됐다. '보답은 핑계고'라는 제목의 영상에는 유재석과 데프콘, 김종민이 출연했다. 이날 영상에서 유재석은 "']]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['명품 언니' 채정안, '빈집살래3' 종영소감 "방송 이후 더 응원하고파"]]></title>
         <id>https://v.daum.net/v/20230907185017191</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230907172246397"/>
         <updated>2023-09-07T09:11:12.619Z</updated>
         <content type="html"><![CDATA[[OSEN=최나영 기자]&nbsp;본격 ‘항저우 아시안게임 모드’로 돌입한 리얼 스포츠 예능 ‘조선체육회’ 멤버들이 항저우 출장을 떠나자마자 8시간 동안 공항에 갇히며 가시밭길을 예고했다. 8일 방송될 ‘조선체육회’에서는 ‘브레인’ 전현무가 일정상 나중에 합류하는 상황에서 ‘미리 보는 항저우’ 선발대로 떠난 멤버들이 곤경에 빠진다. 항저우 출장을 떠나기 전 허재]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[정동원, 이상형 전소미 언급에 '얼음'..."일할 땐 일에 집중"]]></title>
-        <id>https://v.daum.net/v/20230907171858265</id>
-        <link href="https://v.daum.net/v/20230907171858265"/>
-        <updated>2023-09-07T09:11:12.621Z</updated>
-        <content type="html"><![CDATA[[OSEN=유수연 기자] 정동원이 이상형으로 꼽은 전소미 언급에 당황을 금치 못했다. 7일 방송된 SBS 파워FM '두시탈출 컬투쇼'에는 한해와 정동원이 게스트로 출연했다. 이날 정동원은 최근 만 나이로 인해 16살이 됐다며 "다들 어려지고 싶어 하는데, 저는 17살 된 게 너무 좋았는데 다시 16살이 되어서&nbsp;그렇게 좋지는 않다"고 말해 웃음을 자아냈다]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[지라시 犬판 '나는 솔로' 16기, '2049' 전체 채널 타깃 시청률 1위]]></title>
-        <id>https://v.daum.net/v/20230907171422085</id>
-        <link href="https://v.daum.net/v/20230907171422085"/>
-        <updated>2023-09-07T09:11:12.624Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 | 한해선 기자] 사진=SBS PLUS, ENA '나는 솔로' 방송 캡처 '나는 SOLO(나는 솔로)'가 지상파와 종편, 케이블을 포함한 전 채널에서 '2049 타깃 시청률'로 당당히 1위에 등극하는 한편, 자체 최고 시청률을 경신하는 대기록을 달성했다. 지난 6일 방송한 ENA와 SBS PLUS의 리얼 데이팅 프로그램 '나는 SOLO'는 닐슨]]></content>
     </entry>
 </feed>
