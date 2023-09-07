@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-09-07T12:19:30.933Z</updated>
+    <updated>2023-09-07T13:13:08.362Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[케빈 코스트너 前 부인, 양육비 소송 패소 후 '취업']]></title>
+        <id>https://v.daum.net/v/20230907213130178</id>
+        <link href="https://v.daum.net/v/20230907213130178"/>
+        <updated>2023-09-07T13:13:07.581Z</updated>
+        <content type="html"><![CDATA[[TV리포트=이경민 기자] 배우 케빈 코스트너의 전 부인 크리스틴 바움가트너가 이혼 소송을 마무리 짓고 양육비 충당을 위해 직장을 갖겠다고 밝혔다. 지난 5일(현지시간) 할리우드 스타 케빈 코스트너(68)와 별거 중인 크리스틴 바움가트너(49)가 양육비 청구 소송에서 패소한 후&nbsp;학업을 계속하고 일자리를 구할 거라고 알렸다. 그는 디자이너로 취업할 것이라]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[라이언 레이놀즈♥블레이크 라이블리, 아이 넷인 이유...여전히 '달달']]></title>
         <id>https://v.daum.net/v/20230907210030558</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230907164130720"/>
         <updated>2023-09-07T08:14:18.573Z</updated>
         <content type="html"><![CDATA[[TV리포트=안수현 기자] 할리우드 배우 크리스틴 벨(43)이 '인종차별' 논란에 휩싸였다. 지난 7월, 크리스틴 벨은 자신의 소셜네트워크서비스 계정을 통해 가족과 미국 아이다호로 휴가를 떠난 일상을 공개했다. 여러 사진 중에서도 특히 눈길을 끈 건 여러 지인과 파티를 하면서 남긴 인증 사진이었다. 크리스틴을 포함한 30명의 파티 참석자들의 인종이 모두 백]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['프듀101 재팬' 시즌3, 참가자 공개...익숙한 얼굴 많이 나왔다]]></title>
-        <id>https://v.daum.net/v/20230907160101017</id>
-        <link href="https://v.daum.net/v/20230907160101017"/>
-        <updated>2023-09-07T07:10:25.173Z</updated>
-        <content type="html"><![CDATA[[TV리포트=안수현 기자] '프로듀스 101 재팬'의 세 번째 시즌 연습생들이 공개되면서 많은 관심이 쏟아지고 있다. 지난 3일, '프로듀스 101 재팬 더 걸즈'(이하 '일프듀3')의 연습생들이 처음 공개됐다. '일프듀3'은 오는 10월 5일 첫 방송을 앞두고 있다. 공개된 참가자 중에서는 '니지 프로젝트', '걸스플래닛999: 소녀대전'에 출연했던 사쿠]]></content>
     </entry>
 </feed>
