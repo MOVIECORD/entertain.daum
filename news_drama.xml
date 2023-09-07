@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-09-07T14:10:45.169Z</updated>
+    <updated>2023-09-07T15:11:16.913Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[세 번째 투표, 과반수 찬성으로 '사형 확정'→임지연, 폭탄 테러범과 '육탄전']]></title>
+        <id>https://v.daum.net/v/20230907235002628</id>
+        <link href="https://v.daum.net/v/20230907235002628"/>
+        <updated>2023-09-07T15:10:58.848Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 노수린 기자) 세 번째 투표도 과반수 찬성을 얻어낸 가운데, 임지연이 육탄전을 펼쳤다. 7일 방송된 SBS '국민사형투표'에서는 권석주(박성웅)가 특별 사면을 조건으로 특별 수사 본부에 합류했다. 권석주를 특별수사본부 내 수감소로 안내한 김무찬(박해진)은 "지금부터 그동안 받은 편지, 주변 사람, 특히 최종 법정 참석자들을 다 뒤져서 개탈이다]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[박성웅 "개탈 정체? 박해진밖에 안 떠올라"...팽팽한 기싸움]]></title>
         <id>https://v.daum.net/v/20230907223017093</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230907183139800"/>
         <updated>2023-09-07T10:11:27.615Z</updated>
         <content type="html"><![CDATA[(사진=김히어라 SNS)[이데일리 스타in 최희재 기자] 배우 김히어라가 학교폭력(이하 학폭), 일진설 의혹 제기에 전면으로 반박했다. 김히어라 소속사 그램엔터테인먼트는 지난 6일 오후 입장문을 내고 “해당 언론사에서 보도하거나 제기한 의혹 내용에 대해서 모두 사실이 아님을 밝히고자 한다”고 알렸다. 같은 날 한 매체는 김히어라가 강원도 원주시 소재의 중]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김지석, 화생방보다 독한 FM 중대장..시청자 PTSD 유발]]></title>
-        <id>https://v.daum.net/v/20230907182152541</id>
-        <link href="https://v.daum.net/v/20230907182152541"/>
-        <updated>2023-09-07T10:11:27.618Z</updated>
-        <content type="html"><![CDATA[[OSEN=하수정 기자] 돌아온 ‘신병2’는 역시 강했다. &nbsp; 지니 TV 오리지널 ‘신병2’(연출 민진기, 극본 장삐쭈·윤기영·허혜원·지정민, 기획 KT스튜디오지니, 제작 A2Z엔터테인먼트·네오엔터테인먼트)에 대한 반응이 뜨겁다. 한층 강력한 웃음과 공감을 장착하고 돌아온 ‘신병2’는 레전드 군텐츠의 진가를 어김없이 발휘했다. 무엇보다 확장된 세계관 속]]></content>
     </entry>
 </feed>
