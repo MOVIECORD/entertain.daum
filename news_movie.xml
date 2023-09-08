@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-09-08T21:09:27.897Z</updated>
+    <updated>2023-09-08T22:10:09.509Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['어파이어' 크리스티안 페촐트, 독일 거장 감독이 그려내는 인간의 얼굴들을 보셨나요]]></title>
+        <id>https://v.daum.net/v/20230909070122936</id>
+        <link href="https://v.daum.net/v/20230909070122936"/>
+        <updated>2023-09-08T22:09:44.927Z</updated>
+        <content type="html"><![CDATA[[텐아시아=이하늘 기자] ≪이하늘의 롱테이크≫ 이하늘 텐아시아 기자(겸 영화평론가)가 한 호흡으로 화면을 길게 보여주는 롱테이크 촬영 기법처럼, 영화 속 장면이나 영화 이야기를 심층 분석합니다. 영화감독이 자신만의 고유한 연출 기법을 여러 작품에 걸쳐 적용하고 그걸 관객들이 알아차리는 경우는 흔치 않다. 연출 기법을 통해 감독이 말하고자 하는 주제의식이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[자존심 건 추석 3파전, 송강호vs하정우vs강동원 중 승자는?]]></title>
         <id>https://v.daum.net/v/20230909060300624</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230908153709601"/>
         <updated>2023-09-08T07:10:09.925Z</updated>
         <content type="html"><![CDATA[임영웅의 자작곡 ‘모래 알갱이’가 삽입된 뮤직비디오 장면(사진=로케트필름)[이데일리 스타in 윤기백 기자] 나문희, 김영옥, 박근형 주연의 영화 ‘소풍’의 삽입곡인 임영웅의 자작곡인 ‘모래 알갱이’가 담긴 뮤직비디오가 공개됐다. 8일 제작사 로케트필름에 따르면 공개된 뮤직 비디오는 영화 ‘소풍’의 부산국제영화제 초청을 기념해 만든 영상이다. 위로와 힐링]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[6.25 전쟁에 참여한 국가유공자의 마지막 꿈]]></title>
-        <id>https://v.daum.net/v/20230908150600432</id>
-        <link href="https://v.daum.net/v/20230908150600432"/>
-        <updated>2023-09-08T06:13:42.956Z</updated>
-        <content type="html"><![CDATA[[조영준 기자] ▲ &nbsp;영화 &lt;국가유공자&gt; 스틸컷ⓒ 인디그라운드*주의! 이 글에는 영화의 스포일러가 포함돼 있습니다. 01. 노인 영춘(김삼일 분)은 6.25 전쟁에 참전했던 국가유공자다. 나라를 위하여 공헌하거나 희생한 사람. 전쟁이 끝난 지 벌써 반세기가 다 되어가지만 그의 시간은 아직 그곳에 남겨져 있는 듯 보인다. 이제 또 쓰러지고 나면 다시 건강을]]></content>
     </entry>
 </feed>

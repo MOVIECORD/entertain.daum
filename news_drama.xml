@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-09-08T21:09:27.895Z</updated>
+    <updated>2023-09-08T22:10:09.506Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[남궁민 "보답하겠다"→안은진 "곧 만나요"…여주 교체설 일축]]></title>
+        <id>https://v.daum.net/v/20230909070009851</id>
+        <link href="https://v.daum.net/v/20230909070009851"/>
+        <updated>2023-09-08T22:09:51.294Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 조혜진 기자) '연인'의 두 주연 남궁민, 안은진이 파트2에도 기대를 당부, 여자 주인공 교체설을 일축했다. MBC 금토드라마 '연인'이 지난 2일 파트1을 마무리한 가운데, 8일 '연인 파트1 리와인드필름'이 방송됐다. '연인'은 병자호란을 겪으며 엇갈리는 연인들의 사랑과 백성들의 생명력을 다룬 휴먼역사멜로드라마로, 10회는 닐슨코리아 전국]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[손호준 이어 '주연배우' 김래원 충격 사망..종영 'D-day' 긴장 고조↑]]></title>
+        <id>https://v.daum.net/v/20230909065422812</id>
+        <link href="https://v.daum.net/v/20230909065422812"/>
+        <updated>2023-09-08T22:09:51.304Z</updated>
+        <content type="html"><![CDATA[[OSEN=김수형 기자] 최종회를 하루&nbsp;앞둔&nbsp; '소방서 옆 경찰서 그리고 국과수' 에서 김래원 (진호개 역)의 사망 장면이 그려졌다. 앞서 손호준(봉도진 역)에 이어 두번째 주연배우의 사망전개가 충격을 안기고 있다. 8일 방송된 SBS 금토드라마 '소방서 옆 경찰서 그리고 국과수' 11화가 전파를 탔다. 이날 진호개(김래원 분)가 덱스(전성우 분)에게]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이준기X신세경 합류 ‘아라문의 검’ 송중기 그림자 지우고 성공할까]]></title>
         <id>https://v.daum.net/v/20230909054208428</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230908220358367"/>
         <updated>2023-09-08T13:12:56.293Z</updated>
         <content type="html"><![CDATA[[동아닷컴]  ‘7인의 탈출’이 더 강렬하고 파격적인 ‘김순옥 월드’ 문을 연다. SBS 새 금토드라마 ‘7인의 탈출’(연출 주동민, 극본 김순옥) 제작진은 8일 상상을 초월하는 절대 악인들의 잔혹하고도 처절한 생존게임을 예고하는 오프닝 타이틀과 머그샷 영상을 공개했다. ‘7인의 탈출’은 수많은 거짓말과 욕망이 뒤엉켜 사라진 한 소녀의 실종에 연루된 악]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['금이야 옥이야' 김시은, 비정한 친모 반소영에 "골수기증 안 하겠다"]]></title>
-        <id>https://v.daum.net/v/20230908211600711</id>
-        <link href="https://v.daum.net/v/20230908211600711"/>
-        <updated>2023-09-08T12:18:41.321Z</updated>
-        <content type="html"><![CDATA[[TV리포트 = 하수나 기자] 김시은이 반소영을 향해 골수 기증을 하지 않겠다고 선언하며 친모에 대한 분노를 드러냈다.&nbsp; 8일 방송된 KBS1TV 일일드라마 ‘금이야 옥이야’에선 잔디(김시은 분)가 친모 선주(반소영) 때문에 충격을 받는 모습이 그려졌다.&nbsp; 잔디는 선주가 자신의 골수 기증을 받기 위해 왔단 사실을 알게 됐고 선주에게 “엄마가 후원한다고 했던]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['우아한 제국' 손성윤, "김진우 갖고 싶어"..이혼요구 후 도발]]></title>
-        <id>https://v.daum.net/v/20230908210459596</id>
-        <link href="https://v.daum.net/v/20230908210459596"/>
-        <updated>2023-09-08T12:18:41.322Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 | 김지은 인턴기자] /사진='우아한 제국' 화면 캡처 '우아한 제국'에서 손성윤이 김진우의 마음을 떠보기 위해 이혼을 요구했다. 8일 방송된 KBS 2TV 일일드라마 '우아한 제국' 24화에서는 신주경(한지완 분)이 장기윤(김진우 분)의 눈을 피해 장수아(윤채나 분)를 만나는 장면이 전파를 탔다. 이날 방송에서 장수아는 병원에서 몰래 나와]]></content>
     </entry>
 </feed>
