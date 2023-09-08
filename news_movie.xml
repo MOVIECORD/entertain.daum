@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-09-08T03:11:16.949Z</updated>
+    <updated>2023-09-08T04:12:45.063Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["지역 이미지 실추"vs"영화적 허구"…'치악산' 상영금지 여부, 12일 결정]]></title>
+        <id>https://v.daum.net/v/20230908130521628</id>
+        <link href="https://v.daum.net/v/20230908130521628"/>
+        <updated>2023-09-08T04:12:22.037Z</updated>
+        <content type="html"><![CDATA[[스포츠조선 안소윤 기자] 토막살인 괴담을 소재로 한 영화 '치악산'의 상영 여부를 두고 원주시와 제작사 측이 치열한 법정 공방을 벌였다. 8일 오전 서울중앙지법 민사합의 50부(박범석 수석부장판사)는 원주시와 대한불교조계종 구룡사, 시민단체 등이 '치악산' 제작사 도호엔터테인먼트를 상대로 제기한 상영금지 가처분 심문을 진행했다. 이날 심]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김도훈 “‘무빙’ 父 김성균, 소문만큼 친절하고 따뜻한 선배”]]></title>
         <id>https://v.daum.net/v/20230908113605564</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230908082404637"/>
         <updated>2023-09-08T00:44:11.315Z</updated>
         <content type="html"><![CDATA[[뉴스엔 배효주 기자] '잠'이 '오펜하이머'를 밀어내고 이틀 연속 박스오피스 1위를 차지했다. 9월 8일 영화진흥위원회 통합전산망 집계에 따르면 7일 영화 '잠'(감독 유재선)이 5만6,156명의 관객을 동원하며 이틀째 전체 박스오피스 1위를 기록했다. 누적 관객 14만3,699명이다. '잠'은 행복한 신혼부부 현수(이선균)와 수진(정유미)을 악몽처럼]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['천박사' 대세 아역 박소이, 이솜의 사라진 동생 유민으로 강렬 존재감 예고]]></title>
-        <id>https://v.daum.net/v/20230908081504495</id>
-        <link href="https://v.daum.net/v/20230908081504495"/>
-        <updated>2023-09-08T00:44:11.317Z</updated>
-        <content type="html"><![CDATA[[마이데일리 = 양유진 기자] 영화 ‘천박사 퇴마 연구소: 설경의 비밀’의 박소이가 ‘유경’의 사라진 동생 ‘유민’ 역으로 분해 극과 극을 오가는 캐릭터를 선보일 예정이다. ‘천박사 퇴마 연구소: 설경의 비밀’은 귀신을 믿지 않지만 귀신 같은 통찰력을 지닌 가짜 퇴마사 ‘천박사’(강동원)가 지금껏 경험해본 적 없는 강력한 사건을 의뢰받으며 시작되는 이야기]]></content>
     </entry>
 </feed>
