@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-09-08T09:10:48.767Z</updated>
+    <updated>2023-09-08T10:11:38.191Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[학폭 꼬리표 못 뗐는데…박혜수, 어물쩍 복귀보단 적극 해명이 우선]]></title>
+        <id>https://v.daum.net/v/20230908190102614</id>
+        <link href="https://v.daum.net/v/20230908190102614"/>
+        <updated>2023-09-08T10:11:13.238Z</updated>
+        <content type="html"><![CDATA[[텐아시아=최지예 기자] ≪최지예의 에필로그≫ 최지예 텐아시아 기자가 연예계 곳곳에서 일어난 사건들을 객관적이고 예리하게 짚어냅니다. 당신이 놓쳤던 '한 끗'을 기자의 시각으로 정밀하게 분석합니다."상황을 피하지 않고 마주하면서 최선을 다해 해결하려 하고 있습니다. 조금만 더 기다려 주시면 정리가 됐을 때 기회를 만들어 더 자세히 말씀드릴 수 있도록 하겠습]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['타겟'이 된 신혜선···성공적인 첫 스릴러 작품 도전]]></title>
+        <id>https://v.daum.net/v/20230908190029600</id>
+        <link href="https://v.daum.net/v/20230908190029600"/>
+        <updated>2023-09-08T10:11:13.248Z</updated>
+        <content type="html"><![CDATA[[서울경제] 오늘 영화는 이거! ‘오영이'    현실적인 공포에서 오는 불쾌감만큼 찐득거리는 감정이 있을까. '타겟'(감독 박희곤)은 그러한 심리를 자극하는 작품이다. 중고거래 앱을 사용했을 뿐인데 심각한 범죄의 타겟이 된 피해자들, '그것이 알고싶다'에 등장한 '그놈' 사건을 바탕으로 제작된 작품이다. 건축업자인 수현(신혜선)은 혼자 사는 여성으로]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[사스 환자 때문에... 파업에 나선 의사들에게 건넨 한 마디]]></title>
         <id>https://v.daum.net/v/20230908175400854</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230908142452004"/>
         <updated>2023-09-08T07:10:09.936Z</updated>
         <content type="html"><![CDATA[[스타뉴스 | 김노을 기자] /사진제공=도호엔터테인먼트치악산 토막살인 괴담을 소재로 한 영화 '치악산'의 개봉 여부를 놓고 강원 원주시의 시민단체들과 제작사가 법정에서 공방을 펼쳤다. 서울중앙지법 민사합의50부(부장판사 박범석)는 8일 오전 원주시와 대한불교조계종 구룡사, 원주축산업협동조합 등 4개 단체가 영화제작사 도호엔터테인먼트를 상대로 낸 상영금지]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['치악산' 12일 상영 가처분 신청 결과 나온다 "이미지 실추"vs"허구일 뿐"]]></title>
-        <id>https://v.daum.net/v/20230908140407296</id>
-        <link href="https://v.daum.net/v/20230908140407296"/>
-        <updated>2023-09-08T05:10:10.308Z</updated>
-        <content type="html"><![CDATA[[티브이데일리 최하나 기자] 실제 지명을 사용해 논란을 일으킨 '치악산'의 상영 가처분 신청이 12일 전후로 결정된다. 제작사와 원주시의 입장이 엇갈리고 있는 가운데, '치악산'의 정상 개봉이 가능할까. 서울중앙지법 민사합의50부(부장 박범석)는 8일 오전 원주시와 시민단체 등이 영화 '치악산'의 제작사인 도호엔터테인먼트를 상대로 제기한 상영금지 가처분]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“관객수 아닌 매출액으로 흥행 집계”…영화계의 시선은?]]></title>
-        <id>https://v.daum.net/v/20230908140339284</id>
-        <link href="https://v.daum.net/v/20230908140339284"/>
-        <updated>2023-09-08T05:10:10.308Z</updated>
-        <content type="html"><![CDATA[최근 극장 관객 수 조작 논란과 관련해 영화계가 이를 방지하기 위한 대책 마련으로, 흥행 수치를 관객 수에서 매출액으로 전환해야 한다는 의견들이 이어지고 있다. 지난 달 18일 서울경찰청 반부패·공공범죄수사대는 업무방해 혐의를 받는 CGV, 롯데시네마, 메가박스 등 멀티플렉스 3개사와 쇼박스 등 24개 배급사 관계자 총 69명을 검찰에 불구속 송치했다.]]></content>
     </entry>
 </feed>
