@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-09-07T23:10:47.429Z</updated>
+    <updated>2023-09-08T00:44:35.122Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[조지 클루니 부부, 133억에 구매한 이탈리아 별장 “1429억에 내놨다” 10배 수익]]></title>
+        <id>https://v.daum.net/v/20230908091227917</id>
+        <link href="https://v.daum.net/v/20230908091227917"/>
+        <updated>2023-09-08T00:44:34.364Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]조지 클루니(62)와 아말 클루니(45) 부부가 이탈리아 북부의 유명한 코모 호수 별장 매각에 나선다. 한 소식통은 7일(현지시간) 페이지식스와 인터뷰에서 “클루니가 이 별장을 1억 700만 달러(약 1,428억원)에 내놓았다”고 말했다. 이 지역은 파파라치가 들끓는 곳으로, 클루니는 2010년부터 매각을 고려했다. 변호]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[알 파치노 아들 낳은 29세 여자친구, 법원에 아이 양육권 신청]]></title>
         <id>https://v.daum.net/v/20230908065225011</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230907175200542"/>
         <updated>2023-09-07T09:11:24.194Z</updated>
         <content type="html"><![CDATA[[TV리포트=유비취 기자] '그래미 어워드'에서 가짜 AI가 상을 받을 수도 있다. 6일(현지 시간) 영국 매체 데일리메일에 따르면 '그래미 어워드'의 주최 미국 레코드 예술과학아카데미 측은 가수 위켄드와 드레이크의 가짜 AI 듀엣이 상을 받을 자격이 있다고 밝혔다. 온라인 콘텐츠 제작자 'Ghostwriter(고스트라이터)'가 AI를 사용해 마치 드레이크]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[로튼토마토, 평점 조작 논란…"홍보사가 평론가에 50달러 쥐어줘"]]></title>
-        <id>https://v.daum.net/v/20230907173406767</id>
-        <link href="https://v.daum.net/v/20230907173406767"/>
-        <updated>2023-09-07T09:11:24.195Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 이창규 기자)&nbsp;미국의 평론 리뷰 모음 사이트로 유명한 로튼토마토(Rotten Tomatoes)가 평점 조작 논란에 휩싸였다. 6일(현지시간) 미국의 연예뉴스 전문지 벌처(Vulture)는 한 영화 홍보사가 로튼토마토 소속 평론가들을 상대로 로비를 벌여 평점을 조작했다고 폭로했다. 이들에 따르면 '벙커 15'라는 이름의 홍보사는 2018년 '헴]]></content>
     </entry>
 </feed>
