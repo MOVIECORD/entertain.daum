@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/variety</id>
     <title>다음 연예 ─ 뉴스 ─ 예능</title>
-    <updated>2023-09-08T16:13:18.869Z</updated>
+    <updated>2023-09-08T17:10:20.241Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['비혼 선언' 전현무 "석양사진에 그녀 담고파" 심경 변화?]]></title>
+        <id>https://v.daum.net/v/20230909011227656</id>
+        <link href="https://v.daum.net/v/20230909011227656"/>
+        <updated>2023-09-08T17:10:08.202Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 | 김지은 인턴기자] /사진='나 혼자 산다' 화면 캡처 비혼을 선언했던 방송인 전현무가 홀로 떠난 여행에서 외로움을 느끼며 한탄해 시선을 모았다. 25일 방송된 MBC 예능 프로그램 '나 혼자 산다' 511회에서는 즉흥 여행을 떠난 전현무의 모습이 전파를 탔다. 이날 방송에서 전현무는 드라마 '킹더랜드' 촬영지인 탄도항으로 향했다. 그는 물]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['트민남' 전현무, MZ 따라잡기 탕후루 만들기 도전? "그냥 사 먹어"]]></title>
         <id>https://v.daum.net/v/20230909010146617</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230908235532251"/>
         <updated>2023-09-08T15:09:28.575Z</updated>
         <content type="html"><![CDATA[(엑스포츠뉴스 원민순 기자) 이장우가 단식 라이프를 선보였다. 8일 방송된 MBC '나 혼자 산다'에서는 이장우가 3일 단식을 하는 모습이 전파를 탔다. 이날 이장우는 힘 없는 얼굴로&nbsp;물 한 잔을 마시더니 소파에 그대로 누워 궁금증을 자아냈다. 이장우는 스튜디오에서 힘든 일이 있다고 말했는데 알고 보니 34시간 째 단식 중인 상황이었다. 이장우는 "3일간]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[전현무, 다이어트 꿀팁? "먹방 안 봐…내 먹방에 폭식한 적도"]]></title>
-        <id>https://v.daum.net/v/20230908235422248</id>
-        <link href="https://v.daum.net/v/20230908235422248"/>
-        <updated>2023-09-08T15:09:28.575Z</updated>
-        <content type="html"><![CDATA[[마이데일리 = 이예주 기자] 아나운서 출신 방송인 전현무가 다이어트와 관련된 일화를 전했다. 8일 방송된 MBC '나 혼자 산다'에서는 배우 이장우의 단식기가 그려졌다. 이날 이장우가 단식 중 식욕을 참지 못하고 아나운서 이대호의 '생방송 오늘 저녁'을 시청했다. 그러면서 "이대호 아나운선느 우리나라에서 맛집을 제일 많이 알 것 같다. 진짜 어떻게]]></content>
     </entry>
 </feed>
