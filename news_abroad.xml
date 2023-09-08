@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-09-08T01:44:22.299Z</updated>
+    <updated>2023-09-08T02:17:28.363Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[샤를리즈 테론, 온몸을 진주로 휘감아 “다이아몬드 반지까지”]]></title>
+        <id>https://v.daum.net/v/20230908111043468</id>
+        <link href="https://v.daum.net/v/20230908111043468"/>
+        <updated>2023-09-08T02:17:27.382Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]할리우드 스타 샤를리즈 테론(49)이 화려한 주얼리 장식을 뽐냈다. 그는 6일(현지시간) 뉴욕에서 열린 브라이틀링의 미트패킹 부티크 그랜드 오프닝 레드카펫에 모습을 드러냈다. 이날 행사에서 테론은 지방시의 화려한 진주 장식이 돋보이는 톱을 입고 오버사이즈 블랙 블레이저와 실크 맥시 스커트를 레이어드하는 등 평소 자신의]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[알 파치노, 54세 연하 여친이 낳은 아들 “내 자식 맞다” 서명]]></title>
         <id>https://v.daum.net/v/20230908103309017</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230907201100282"/>
         <updated>2023-09-07T12:19:30.177Z</updated>
         <content type="html"><![CDATA[[TV리포트=김현재 기자] 19년 동안 '엘렌 드제너러스 쇼(The Ellen DeGeneres Show, 이하 엘렌쇼)'의 호스트였던 엘렌 드제네러스(Ellen DeGeneres). 그가 매년 5000만 달러(한화 약 668억 5천만 원)의 수입을 벌게 해준 '엘렌쇼'의 폐지 이후에도 억 소리 나는 수입을 얻고 있다. 미국 매체인 '더 띵즈(TheThin]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[83세 알파치노, 출산 3개월 만에 20대 여친과 결별]]></title>
-        <id>https://v.daum.net/v/20230907193630364</id>
-        <link href="https://v.daum.net/v/20230907193630364"/>
-        <updated>2023-09-07T11:10:02.923Z</updated>
-        <content type="html"><![CDATA[[TV리포트=김현재 기자] 83세 알파치노(Al Pacino)와 53세 연하 여자친구 누어 알팔라(Noor Alfalla)가 아이를 출산한지 3개월만에 결별했다. 두 사람은 1년이 넘는 시간 동안 교제하며 30살이 넘는 나이 차이를 극복한 스타로 주목을 받았었다. 또한 노어가 임신을 밝혔을 때 알파치노가 친자확인을 요구했었던 것으로 논란이 있었던 만큼 빠]]></content>
     </entry>
 </feed>
