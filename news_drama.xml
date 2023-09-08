@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-09-08T20:11:18.384Z</updated>
+    <updated>2023-09-08T21:09:27.895Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이준기X신세경 합류 ‘아라문의 검’ 송중기 그림자 지우고 성공할까]]></title>
+        <id>https://v.daum.net/v/20230909054208428</id>
+        <link href="https://v.daum.net/v/20230909054208428"/>
+        <updated>2023-09-08T21:09:09.030Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 이하나 기자] 주인공 교체를 시도한 ‘아라문의 검’이 시즌1 ‘아스달 연대기’ 종영 4년 만에 더 커진 스케일로 돌아온다. 9월 9일 tvN 새 토일드라마 ‘아라문의 검(극본 김영현, 박상연/ 연출 김광식)’이 드디어 베일을 벗는다. ‘아라문의 검’은 ‘아스달 연대기’ 시즌2의 새로운 이름으로 검의 주인이 써 내려가는 아스달의 신화, 태고의]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['무빙', 제대로 된 한국형 어벤져스의 등장]]></title>
         <id>https://v.daum.net/v/20230909051001329</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230908210459596"/>
         <updated>2023-09-08T12:18:41.322Z</updated>
         <content type="html"><![CDATA[[스타뉴스 | 김지은 인턴기자] /사진='우아한 제국' 화면 캡처 '우아한 제국'에서 손성윤이 김진우의 마음을 떠보기 위해 이혼을 요구했다. 8일 방송된 KBS 2TV 일일드라마 '우아한 제국' 24화에서는 신주경(한지완 분)이 장기윤(김진우 분)의 눈을 피해 장수아(윤채나 분)를 만나는 장면이 전파를 탔다. 이날 방송에서 장수아는 병원에서 몰래 나와]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['우아한 제국' 윤채나, 한지완과 극적 재회..껴안고 '오열']]></title>
-        <id>https://v.daum.net/v/20230908203559263</id>
-        <link href="https://v.daum.net/v/20230908203559263"/>
-        <updated>2023-09-08T12:18:41.322Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 | 김지은 인턴기자] /사진='우아한 제국' 화면 캡처 '우아한 제국'에서 한지완과 그의 딸 윤채나가 극적으로 재회해 껴안고 오열했다. 8일 방송된 KBS 2TV 일일드라마 '우아한 제국' 24화에서는 신주경(한지완 분)이 장기윤(김진우 분)의 눈을 피해 장수아(윤채나 분)를 만나는 장면이 전파를 탔다. 장기윤의 딸 장수아는 신주경의 빈자리를]]></content>
     </entry>
 </feed>
