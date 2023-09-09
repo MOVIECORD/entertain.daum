@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-09-09T10:10:09.236Z</updated>
+    <updated>2023-09-09T11:08:18.716Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘아라문의 검’ 첫방, 송중기 대신 이준기 온다]]></title>
+        <id>https://v.daum.net/v/20230909194200360</id>
+        <link href="https://v.daum.net/v/20230909194200360"/>
+        <updated>2023-09-09T11:07:59.884Z</updated>
+        <content type="html"><![CDATA[‘아라문의 검’이 첫방을 앞뒀다. 미지의 존재 ‘이나이신기’ 이준기의 모습은 어떨까. 9일 첫 방송을 앞두고 있는 tvN 새 토일드라마 ‘아라문의 검(극본 김영현, 박상연/ 연출 김광식/ 기획 스튜디오드래곤/ 제작 스튜디오드래곤, KPJ)’에서 긴장감이 흐르는 상황 속 이나이신기 은섬(이준기 분)의 모습이 공개됐다. 은섬은 아고족의 영웅 ‘재림 이나이신기’]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘충격 사망’ 김래원, ‘소옆경2’ 아쉬운 종영 소감…최종회 결말 관심↑]]></title>
         <id>https://v.daum.net/v/20230909183736837</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230909151910314"/>
         <updated>2023-09-09T07:09:05.563Z</updated>
         <content type="html"><![CDATA[제17회 그린리본마라톤 페스티벌에 참가한 가수 김흥국과 딸 주현양.(사진=방인권 기자)[이데일리 스타in 윤기백 기자] “제 딸이 제 대신 마라톤 완주를 해줬으면 좋겠습니다. 오늘만큼은 아이들의 행복을 위해 뛰겠습니다. 으아! 들이대!” 9일 서울 송파구 잠실한강공원 트랙구장 일대에서 열린 제17회 그린리본마라톤 페스티벌을 찾은 가수 김흥국이 ‘아이가 행]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['소옆경2' 김래원 "진호개 사망? 어떻게 된 것인지 주목해서 봐달라"]]></title>
-        <id>https://v.daum.net/v/20230909151817306</id>
-        <link href="https://v.daum.net/v/20230909151817306"/>
-        <updated>2023-09-09T07:09:05.566Z</updated>
-        <content type="html"><![CDATA[[마이데일리 = 이승길 기자] SBS 금토드라마 '소방서 옆 경찰서 그리고 국과수'(이하 '소옆경2')가 막을 내린다. '소옆경2'는 화재 잡는 소방, 범죄 잡는 경찰, 증거 잡는 전대미문, 전무후무 사건과 맞서는 업그레이드 공조를 그리는 드라마다. 특히 지난 11회에서는 양치영(조희봉), 석문구(최무성), 문영수(유병훈)는 물론 자신의 조력자인 마태화(]]></content>
     </entry>
 </feed>
