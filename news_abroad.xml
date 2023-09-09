@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-09-09T11:08:18.707Z</updated>
+    <updated>2023-09-09T12:17:01.764Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[美 워너 브라더스, 파업 손실 금액 최대 '6665억' 발표]]></title>
+        <id>https://v.daum.net/v/20230909203031833</id>
+        <link href="https://v.daum.net/v/20230909203031833"/>
+        <updated>2023-09-09T12:17:01.015Z</updated>
+        <content type="html"><![CDATA[[TV리포트=강성훈 기자] 할리우드 배우와 시나리오 작가들의 파업으로 인한 손실 금액이 공개됐다. 6일(현지 시간) 보도된 외신 'Forbes'에 따르면 워너브러더스 디스커버리(Warner Bros. Discovery)는 촬영 지연, 중단 등의 영향이 올해 말까지 이어질 경우 최대 5억 달러(한화 약 6665억 원)의 손실을 겪게 된다. 워너브러더스 디스커]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[아담 드라이버 "'페라리' 영화서 운전 안 해…차 새로 살 돈 없어"]]></title>
         <id>https://v.daum.net/v/20230909200230561</id>
