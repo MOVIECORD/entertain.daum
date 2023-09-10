@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/variety</id>
     <title>다음 연예 ─ 뉴스 ─ 예능</title>
-    <updated>2023-09-10T19:08:34.961Z</updated>
+    <updated>2023-09-10T20:10:26.558Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[권오중, 희귀병 발달장애 子 위해 사회복지사 자격증 취득 “실질적 도움 주고자”]]></title>
+        <id>https://v.daum.net/v/20230911050506875</id>
+        <link href="https://v.daum.net/v/20230911050506875"/>
+        <updated>2023-09-10T20:10:14.580Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 임유리 기자] 배우 권오중이 사회복지사 자격증을 취득했다고 털어놨다. 10일 오후 방송된 SBS 예능 프로그램 ‘미운 우리 새끼’(이하 ‘미우새’)에는 권오중이 게스트로 출연했다. 이날 소문난 아들 바보로 알려져 있는 권오중은 발달장애 아들을 위해 사회복지사 자격증을 딴 것으로 밝혀져 놀라움을 자아냈다. 권오중은 “우리 아이가 좀 아프]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['재혼' 김구라 "결혼식에 애인과 온 친구, 밥만 먹고 가…서운했다"]]></title>
         <id>https://v.daum.net/v/20230911040002518</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230910231609548"/>
         <updated>2023-09-10T15:09:22.372Z</updated>
         <content type="html"><![CDATA[[티브이데일리 김진석 인턴기자] '돌싱글즈4' 최초로 6인 데이트가 펼쳐졌다. 10일 밤 방송된 MBN 예능프로그램 '돌싱글즈 시즌4'(이하 '돌싱글즈4')에선 미국에서 새로운 사랑을 찾는 돌싱 남녀들의 로맨스가 그려졌다. 이날 비밀도장 데이트가 펼쳐졌다. 비밀도장 데이트는 자신이 원하는 상대에게 도장을 찍으면 데이트를 진행할 수 있는 '돌싱글즈4' 전통의]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김대호 아나 “소개팅女 에프터 신청하니 '감기' 걸렸다고→5년째 NO응답” 폭소]]></title>
-        <id>https://v.daum.net/v/20230910231129529</id>
-        <link href="https://v.daum.net/v/20230910231129529"/>
-        <updated>2023-09-10T15:09:22.374Z</updated>
-        <content type="html"><![CDATA[[OSEN=박근희 기자] '도망쳐’ 김대호 아나운서가 과거 소개팅에 대해 언급했다. 10일 전파를 탄 MBC 리얼리티 토크쇼 ‘도망쳐’에서는 가족이라는 탈을 쓰고 20대 사회초년생인 사연자의 명의부터 영혼까지 모든 걸 빼앗아 간&nbsp; 세 번째 악마의 이야기가 공개됐다. 소개팅 이야기가 나오자 김대호 아나운서는 “저는 개인적으로 평생 살면서 미팅 한 번 해봤]]></content>
     </entry>
 </feed>

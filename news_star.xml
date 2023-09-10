@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2023-09-10T19:08:34.940Z</updated>
+    <updated>2023-09-10T20:10:26.556Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['진짜가' 종영, 백진희X안재현 가짜 결혼이 만든 진짜 가족]]></title>
+        <id>https://v.daum.net/v/20230911051003894</id>
+        <link href="https://v.daum.net/v/20230911051003894"/>
+        <updated>2023-09-10T20:10:19.745Z</updated>
+        <content type="html"><![CDATA[(서울=뉴스1) 이아영 기자 = '진짜가 나타났다' 백진희와 안재현의 결혼을 통해 반목하던 가족들이 진짜 가족이 됐다. 10일 방송된 KBS 2TV 주말드라마 '진짜가 나타났다'(극본 조정주/연출 한준서)에서는 오연두(백진희 분)와 공태경(안재현 분)이 가족들의 축복을 받으며 결혼식을 올렸다. 오연두와 공태경은 결혼식을 준비했다. 그런데 두 사람은 각각]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김지민 어머니 "김준호와 교제, 속상했다" 솔직 고백]]></title>
+        <id>https://v.daum.net/v/20230911045004689</id>
+        <link href="https://v.daum.net/v/20230911045004689"/>
+        <updated>2023-09-10T20:10:19.748Z</updated>
+        <content type="html"><![CDATA[(서울=뉴스1) 이아영 기자 = 김지민의 어머니가 김지민이 김준호와 교제한다는 말을 들었을 때 속상했다고 말했다. 10일 방송된 SBS '미운 우리 새끼'에서는 김준호가 김지민 어머니에게서 호감을 얻기 위해 노력했다. 김준호는 김지민의 어머니에게 잘 보이기 위해서 꽃을 선물하고, 깔끔하다는 걸 어필하기 위해서 집에 오자마자 손을 씻었다. 김지민은 집에]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['미우새' 권오중, "발달 장애 아들 위해 사회복지사 자격증 땄다" 고백]]></title>
         <id>https://v.daum.net/v/20230911020300210</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230910233803644"/>
         <updated>2023-09-10T15:09:27.525Z</updated>
         <content type="html"><![CDATA[[스포츠조선 조윤선 기자] '아라문의 검' 박해준이 이준기 배냇벗(쌍둥이)을 구하고 목숨을 잃었다. 10일 방송된 tvN 토일드라마 '아라문의 검'에서는 배냇벗 관계인 아고연합군의 리더 '이나이신기' 은섬(이준기 분)과 아스달의 총군장 사야(이준기 분)가 서로의 적이 되어 전쟁을 치르는 모습이 그려졌다. 아스달 정벌군과 아고 연합군은 한초아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘돌싱글즈4’ 제롬, 베니타에 직진 “촬영 끝나고 조용히 사귀자”]]></title>
-        <id>https://v.daum.net/v/20230910233601640</id>
-        <link href="https://v.daum.net/v/20230910233601640"/>
-        <updated>2023-09-10T15:09:27.527Z</updated>
-        <content type="html"><![CDATA[제롬이 베니타를 향해 계속해서 직진했다. 10일 방송된 MBN ‘돌싱글즈4’에서 돌싱 출연진들의 나이 공개 다음 날의 아침이 밝았다. 전날 밤, 제롬은 모두의 앞에서 자신의 나이와 연예계에서 종사했다는 사실을 고백했다. 베니타는 제롬에게 “나 어제 너 검색해 봤어. 그냥 이름 치니까 나오더라”고 말했다. 제롬은 “전 와이프 얘기도 봤냐”고 물었고, 베니타는]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[윤계상 "결혼 후 안정감? 너무너무 있다…무슨 일 하더라도 자신감 붙는다"]]></title>
-        <id>https://v.daum.net/v/20230910232105566</id>
-        <link href="https://v.daum.net/v/20230910232105566"/>
-        <updated>2023-09-10T15:09:27.529Z</updated>
-        <content type="html"><![CDATA[[마이데일리 = 이승록 기자] 배우 윤계상(44)이 결혼 후 안정감을 얻게 됐다고 고백했다. 윤계상은 10일 JTBC '뉴스룸'에 출연해 강지영(34) 앵커와 인터뷰를 갖고 그룹 god 활동부터 연기에 대한 생각, 신작에 대한 소개까지 다채로운 이야기를 나눴다. 특히 윤계상은 강지영 앵커가 결혼 후 "안정감이 확실히 좀 있으시냐?"라고 묻자 "너무너무]]></content>
     </entry>
 </feed>
