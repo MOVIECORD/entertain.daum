@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-09-10T00:50:22.906Z</updated>
+    <updated>2023-09-10T01:48:07.183Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[故 설리 유작, 반갑지만…자꾸 우려가 생기는 지점]]></title>
+        <id>https://v.daum.net/v/20230910103006381</id>
+        <link href="https://v.daum.net/v/20230910103006381"/>
+        <updated>2023-09-10T01:47:43.040Z</updated>
+        <content type="html"><![CDATA[아이즈 ize 김나라 기자그리운 故 설리(본명 최진리)가 '진리에게'로 우리 곁에 돌아온다.&nbsp;'진리에게'는 제28회 부산국제영화제(BIFF) 와이드 앵글 섹션의 다큐멘터리 쇼케이스 부문에 공식 초청작으로 선정, 월드 프리미어로 최초 공개된다.깜짝 소식이 아닐 수 없다. '진리에게'는 故 설리의 유작으로 현재도 플랫폼 협의 중인 바, 공개 여부가 불투명했기]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[정유미X이선균 '잠', 하루만 16만 관객 동원..4일째 1위]]></title>
         <id>https://v.daum.net/v/20230910094322640</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230910045158015"/>
         <updated>2023-09-09T20:10:00.622Z</updated>
         <content type="html"><![CDATA[(로마=연합뉴스) 신창용 특파원 = 그리스가 낳은 세계적인 거장 요르고스 란티모스 감독의 '가여운 것들'이 제80회 베네치아 국제영화제에서 최고 영예인 황금사자상을 거머쥐었다. 베네치아 영화제 마지막 날인 9일(현지시간) 이탈리아 베네치아 리도섬의 팔라초 델 치네마에서 열린 시상식에서 '가여운 것들'이 황금사자상 수상작으로 선정됐다. 이 영화는 스코틀랜드]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이선균이 '잠'에 빠진 세 가지 이유]]></title>
-        <id>https://v.daum.net/v/20230910000100539</id>
-        <link href="https://v.daum.net/v/20230910000100539"/>
-        <updated>2023-09-09T15:09:10.200Z</updated>
-        <content type="html"><![CDATA[수면 중 이상행동으로 공포에 빠지게 되는 남편 현수 役 #군더더기 없는 대본 #봉준호 감독의 극찬 #정유미와 네 번째 호흡 [더팩트｜박지윤 기자] '킬링 로맨스'로 파격 그 이상을 보여줬던 배우 이선균이 약 5개월 만에 다시 극장가로 돌아온다. 변신과 도전을 두려워하지 않는 그가 이번에는 지금껏 본 적 없는 유니크한 공포로 또 한 번 관객들에게 신선한]]></content>
     </entry>
 </feed>
