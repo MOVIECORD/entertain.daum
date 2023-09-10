@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-09-10T08:12:09.058Z</updated>
+    <updated>2023-09-10T09:09:55.437Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘99세 사망’ 밥 바커, 전재산 995억원 반려견+동물단체 기부]]></title>
+        <id>https://v.daum.net/v/20230910180455759</id>
+        <link href="https://v.daum.net/v/20230910180455759"/>
+        <updated>2023-09-10T09:09:54.648Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 배효주 기자] 미국의 유명 TV쇼 진행자 겸 배우 밥 바커가 99세를 일기로 별세한 가운데, 전 재산을 동물보호단체에 기부했다는 소식이 전해졌다. 해외 매체 TMZ는 밥 바커가 8월 26일(현지시간) 미국 로스앤젤레스의 자택에서 별세했다는 소식을 알리면서, 사망 직전 자신의 반려견과 동물보호단체에 전 재산 7000만 달러(한화 약 935억 원)를]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[엠마 스톤 부끄럽지 않은 노출 ‘가여운 것들’, 베니스영화제 황금사자상 수상]]></title>
         <id>https://v.daum.net/v/20230910165402379</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230909220030714"/>
         <updated>2023-09-09T13:10:51.632Z</updated>
         <content type="html"><![CDATA[[TV리포트=이예은 기자] 팝스타 테일러 스위프트의 노래를 듣고 새 삶을 찾았다는 죄수가 있다.&nbsp; 외신 매체 더 뉴오커는 4일(현지 시간) 지난 2009년 살인죄로 종신형을 선고받은 죄수 조 가르시아(53)의 수필을 실어 보도했다.&nbsp; 조 가르시아는 2009년 종신형을 선고받은 후 캘리포니아 칼리파트리아 주립 교도소에 수감됐다.&nbsp; 2013년 모범수로 인정받아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[동료에 받은 선물, 경매에 내놓은 스타]]></title>
-        <id>https://v.daum.net/v/20230909213301385</id>
-        <link href="https://v.daum.net/v/20230909213301385"/>
-        <updated>2023-09-09T13:10:51.635Z</updated>
-        <content type="html"><![CDATA[[TV리포트=이경민 기자] 미국의 배우 이브 플럼이 자신의 애장품 경매 행사에서 배우 로버트 리드가 선물해준 카메라를 내놓았다.&nbsp; 7일(현지시간) 유명 스타들의 애장품을 선보이는 경매 회사 'Julien's Auctions'는&nbsp;배우 이브 플럼의 애장품을 공개하는 영상을 유튜브 채널에 공개했다.&nbsp; 1969년부터 1974년까지 방영했던 시트콤 '브래디 번치'에]]></content>
     </entry>
 </feed>
