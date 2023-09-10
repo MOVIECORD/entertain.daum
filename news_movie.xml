@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-09-10T20:10:26.562Z</updated>
+    <updated>2023-09-10T21:08:50.556Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[내홍 겪은 부산국제영화제, 다시 세계인의 축제 되길]]></title>
+        <id>https://v.daum.net/v/20230911055706258</id>
+        <link href="https://v.daum.net/v/20230911055706258"/>
+        <updated>2023-09-10T21:08:26.950Z</updated>
+        <content type="html"><![CDATA[제28회 부산국제영화제(BIFF, 이하 부국제)가 다음 달 4일 막을 올린다. 인사 잡음과 전 집행위원장의 성추행 논란으로 혼란을 겪었지만, 부산국제영화제 측은 선택과 집중을 통해 다시 날아오르겠다는 각오를 밝혔다. 영화제 측은 지난 5일 온라인 기자회견을 개최하고 영화제 개요와 특징, 개·폐막작, 섹션별 선정작 등 세부 계획을 공개하며 영화제가 임박했]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[그룹 이지의 드러머였던 김준한, 이젠 주연 배우로 ‘우뚝’]]></title>
         <id>https://v.daum.net/v/20230911040434549</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230910083611802"/>
         <updated>2023-09-10T00:50:01.274Z</updated>
         <content type="html"><![CDATA[[스포츠서울 | 함상범 기자]영화 ‘잠’이 4일 연속 박스오피스 1위 자리에 올랐다. 10일 영화진흥위원회 영화관 입장권 통합전산망에 따르면 ‘잠’은 전날 16만 5108명의 관객을 동원해 박스오피스 1위에 올랐다. 누적관객수는 39만1352명이다. 봉준호 감독의 키즈로 불린 유재선 감독의 데뷔작 ‘‘잠’은 행복한 신혼부부 현수(이선균 분)와 수진(정]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[극과극 흥행 여름 극장가…추석 3파전은 괜찮을까]]></title>
-        <id>https://v.daum.net/v/20230910083001751</id>
-        <link href="https://v.daum.net/v/20230910083001751"/>
-        <updated>2023-09-10T00:50:01.275Z</updated>
-        <content type="html"><![CDATA[(서울=뉴스1) 장아름 기자 = 추석에 개봉하는 한국영화가 3파전 구도를 형성한 가운데, 흥행 전망에 벌써부터 관심이 집중되고 있다. 오는 27일 영화 '천박사 퇴마 연구소: 설경의 비밀'(감독 김성식/이하 '천박사')과 '1947 보스톤'(감독 강제규) 그리고 '거미집'(감독 김지운)이 동시 개봉을 확정, 추석 흥행을 놓고 대결을 벌인다. 특히 이번]]></content>
     </entry>
 </feed>
