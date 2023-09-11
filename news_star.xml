@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2023-09-11T19:08:57.854Z</updated>
+    <updated>2023-09-11T20:10:04.786Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김혜자, 김수미 오열하게 한 방문…눈물의 '전원일기' 가족 상봉]]></title>
+        <id>https://v.daum.net/v/20230912045003713</id>
+        <link href="https://v.daum.net/v/20230912045003713"/>
+        <updated>2023-09-11T20:09:58.309Z</updated>
+        <content type="html"><![CDATA[(서울=뉴스1) 박하나 기자 = 배우 김혜자가 '회장님네 사람들'에 출격해 감동을 안겼다. 지난 11일 오후 방송된 tvN STORY 예능프로그램 '회장님네 사람들'에서는 '전원일기'에서 이은심으로 열연했던 '전원일기'의 어머니 김혜자가 방문했다. '전원일기' 종영 후 21년, '회장님네 사람들'에서는 모두가 간절히 바라던 그리운 가족들과의 재회하며 당]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['동상이몽2' 조우종♥정다은, "최장 4시간 동안 언쟁…변호사 두 명이 싸우는 법정 같아"]]></title>
+        <id>https://v.daum.net/v/20230912041800651</id>
+        <link href="https://v.daum.net/v/20230912041800651"/>
+        <updated>2023-09-11T20:09:58.309Z</updated>
+        <content type="html"><![CDATA[[SBS연예뉴스 | 김효정 에디터] 조우종 정다은 부부가 싸움이 길어지는 이유를 공개했다. 11일 방송된 SBS '동상이몽 시즌2-너는 내 운명'(이하 '동상이몽2')에서는 말싸움이 붙은 조우종 정다은 부부의 모습이 그려졌다. 이날 방송에서 정다은은 조우종에게 부산행을 제안했다. 특히 그는 교통편 예약까지 완료해 눈길을 끌었다. 이에 정다은의 본가이자 처가]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뜨거운 15주년 공연 마친 2PM “여전한 응원 감사해”]]></title>
         <id>https://v.daum.net/v/20230912040528581</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230912000229555"/>
         <updated>2023-09-11T15:11:06.044Z</updated>
         <content type="html"><![CDATA[[스포츠조선닷컴 이우주 기자] '동상이몽2' 오상진 김소영 부부가 둘째를 임신했다. 11일 SBS 예능프로그램 '동상이몽2-너는 내 운명' 방송 말미에는 오상진 김소영 부부의 출연 예고가 공개됐다. 김소영은 긴장된 표정으로 병원 침대에 누워있었다. 김소영이 간 곳은 산부인과. 김소영 오상진 부부는 첫째 출산 5년 만에 둘째를 임신했다는 소식]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["논점 흐리기?" 김히어라, 오락가락 제보 전쟁 속 '학폭 공방']]></title>
-        <id>https://v.daum.net/v/20230912000116514</id>
-        <link href="https://v.daum.net/v/20230912000116514"/>
-        <updated>2023-09-11T15:11:06.045Z</updated>
-        <content type="html"><![CDATA[소속사 "대중의 '오해' 유도" vs 최초 보도 매체 "취재 과정 낱낱이 공개" [더팩트ㅣ김샛별 기자] 배우 김히어라의 학폭(학교 폭력)을 둘러싼 진실공방이 치열하다. 김히어라 측은 "연예인에 대한 잣대와 일반화 오류 프레임"을 탓하며 의혹을 부인하고 법적 대응을 시사했다. 계속된 반박에 논점까지 흐려졌다. 결국 학폭을 첫 보도한 디스패치는 입장을 번]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[방탄 뷔 "극심한 번아웃으로 한계 느껴.. '다쳐야겠다' 생각하기도"]]></title>
-        <id>https://v.daum.net/v/20230912000030493</id>
-        <link href="https://v.daum.net/v/20230912000030493"/>
-        <updated>2023-09-11T15:11:06.053Z</updated>
-        <content type="html"><![CDATA[[TV리포트=이혜미 기자] 방탄소년단 뷔가 극심한 번아웃으로 힘든 시간을 보냈다며 당시의 심경을 고백했다. 11일 슈가가 진행하는 웹 예능 ‘슈취타’에선 뷔가 게스트로 출연해 첫 솔로앨범 작업 비화를 소개했다. 지난 8일 첫 솔로앨범 ‘Layover’를 발매한 뷔는 “3년 전부터 준비한 앨범이다. 항상 가짜 가사만 나오고 멜로디도 곡의 마무리를 못 지으니까]]></content>
     </entry>
 </feed>
