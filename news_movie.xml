@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-09-11T01:45:05.692Z</updated>
+    <updated>2023-09-11T02:17:44.156Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[신발 벗고 들어간 샌프란시스코 집에서 이문세의 '옛사랑' 울리고]]></title>
+        <id>https://v.daum.net/v/20230911105354350</id>
+        <link href="https://v.daum.net/v/20230911105354350"/>
+        <updated>2023-09-11T02:17:20.789Z</updated>
+        <content type="html"><![CDATA[텅 빈 미국 샌프란시스코 거리를 헐떡이며 달리던 남자는 끝내 오열한다. 영화 ‘커밍 홈 어게인’(감독 웨인 왕)의 첫 장면이다. 창래(저스틴 전)는 월가의 직장을 그만두고 위암 말기 선고를 받은 엄마(재키 청)를 간병하러 집에 돌아왔다. 기숙학교에 가느라 일찌감치 집을 떠났으니 꽤 오랜만이다. 떨어져 지낸 시간이 긴 만큼 모자간에는 마음의 골도 깊어졌다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘천박사 퇴마 연구소:설경의 비밀’ 설경이 대체 뭐길래]]></title>
+        <id>https://v.daum.net/v/20230911105339344</id>
+        <link href="https://v.daum.net/v/20230911105339344"/>
+        <updated>2023-09-11T02:17:20.789Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 배효주 기자] '천박사 퇴마 연구소: 설경의 비밀'이 개봉을 앞둔 가운데, 영화를 더욱 재미있게 즐기기 위한 천박사 용어 사전을 공개했다. 9월 27일 개봉하는 영화 '천박사 퇴마 연구소: 설경의 비밀'(감독 김성식)은 귀신을 믿지 않지만 귀신 같은 통찰력을 지닌 가짜 퇴마사 ‘천박사’(강동원)가 지금껏 경험해본 적 없는 강력한 사건을 의뢰받으며]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['잠' 첫 주말 1위, 누적 53만 돌파]]></title>
         <id>https://v.daum.net/v/20230911104317807</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230911090529726"/>
         <updated>2023-09-11T00:44:56.725Z</updated>
         <content type="html"><![CDATA[[스타뉴스 | 김나연 기자] 사진=넷플릭스넷플릭스(Netflix)가 새로운 시리즈 '애마'의 제작과 캐스팅을 확정했다. 넷플릭스가 새로운 시리즈 '애마'의 제작을 확정하고, 이하늬, 방효린, 진선규, 조현철의 캐스팅을 공개했다. '애마'는 1980년대 초반 한국을 강타했던 영화 '애마부인' 탄생의 과정 속 희란과 주애의 고군분투기를 담은 넷플릭스 시리즈다]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이게 그렇게 무섭나…'더 넌 2' 북미 박스오피스 정상]]></title>
-        <id>https://v.daum.net/v/20230911090456707</id>
-        <link href="https://v.daum.net/v/20230911090456707"/>
-        <updated>2023-09-11T00:44:56.727Z</updated>
-        <content type="html"><![CDATA[[서울=뉴시스] 손정빈 기자 = 호러 영화 '더 넌 2'가 북미 주말 박스오피스 1위에 올랐다. '더 넌 2'는 8~10일(박스오피스 모조 기준) 매출액 3260만 달러를 기록해 '이퀄라이저3'를 밀어내고 개봉 첫 주말 박스오피스 정상을 차지했다. 이 작품은 2018년에 나온 '더 넌' 후속작이다. 1956년 프랑스 한 성당에서 신부가 죽은 채 발견되]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['할리우드 영화 음악 거장' 한스 짐머 '크리에이터' 참여 "블록버스터X예술 영화 균형 잘 맞춰"]]></title>
-        <id>https://v.daum.net/v/20230911083326763</id>
-        <link href="https://v.daum.net/v/20230911083326763"/>
-        <updated>2023-09-11T00:44:56.731Z</updated>
-        <content type="html"><![CDATA[[스포츠조선 조지영 기자] SF 영화 '크리에이터'(가렛 에드워즈 감독)가 음악 거장 한스 짐머의 완성도 높은 OST로 감동을 배가시킬 전망이다. '인셉션' '인터스텔라' '듄' '다크 나이트' 등의 음악 감독을 맡아 할리우드 영화 음악의 전설로 불리는 한스 짐머는 제67회 아카데미 시상식에서 '라이온 킹'으로 최우수 오리지널 스코어 상을 수]]></content>
     </entry>
 </feed>
