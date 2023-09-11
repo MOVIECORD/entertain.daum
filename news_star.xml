@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2023-09-11T16:14:15.177Z</updated>
+    <updated>2023-09-11T17:10:32.322Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['몬스터즈' 동국대 상대로 8대0 패배...시즌 6패 '위기']]></title>
+        <id>https://v.daum.net/v/20230912015600098</id>
+        <link href="https://v.daum.net/v/20230912015600098"/>
+        <updated>2023-09-11T17:10:26.889Z</updated>
+        <content type="html"><![CDATA[[TV리포트=김유진 기자] 최강 몬스터즈가 동국대학교를 상대로 8대0으로 패배했다. 11일 방영된 JTBC 예능 '최강야구' 57화에서는 최강 몬스터즈가 동국대학교를 상대로 경기를 치루는 모습이 전해졌다. 최강 몬스터즈는 1번 중견수 김문호, 2번 2루수 황영묵, 3번 지명타자 박용택 , 4번 1루수 이대호, 5번 우익수 서동욱, 6번 3루수 정성훈, 7번]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[윤혜진, ♥엄태웅 사생활 논란 언급 “6년 전, 힘들어 마음의 결정 내린 때”]]></title>
         <id>https://v.daum.net/v/20230912010558983</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230911235954462"/>
         <updated>2023-09-11T15:11:06.057Z</updated>
         <content type="html"><![CDATA[조우종이 살림꾼 면모를 자랑했다.&nbsp; 11일 방송된 SBS 예능 ‘동상이몽2 – 너는 내 운명’ (이하 ‘동상이몽2’)에는 조우종 정다은 부부가 출연했다.&nbsp; 이날 조우종은 주말을 맞아 집 안 대청소를 했다. 평소 청소가 취미라는 조우종은 치약으로 화장실 청소를 하고, 집 안 온 곳을 청소기로 미는 등 주부 9단 면모를 보였다. 이를 본 패널들은 “진짜]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뷔 “방탄소년단 챕터 2=노출? 연관 NO…7명 완전체 기대 중”]]></title>
-        <id>https://v.daum.net/v/20230911235523430</id>
-        <link href="https://v.daum.net/v/20230911235523430"/>
-        <updated>2023-09-11T15:11:06.058Z</updated>
-        <content type="html"><![CDATA[[OSEN=유수연 기자] 방탄소년단 뷔가 그룹에 대한 애정을 드러냈다. 11일 방탄소년단의 공식 유튜브 채널을 통해 뷔가 출연한 슈가의 ‘슈취타’ 콘텐츠가 공개됐다.&nbsp; 지난 8일 첫 솔로 앨범 ‘레이오버’를 발매하며 방탄소년단 멤버 중 솔로 마지막 주자가 된 뷔는 “(앨범 준비한지) 딱 3년 정도 된 것 같다. 가사도 그렇고, 멜로디도 곡의 마무리를 못]]></content>
     </entry>
 </feed>
