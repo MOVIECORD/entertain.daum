@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-09-13T11:09:47.542Z</updated>
+    <updated>2023-09-13T12:20:02.889Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[인기 男 스타, 노래방 회식서 '꿀잠'...육아 많이 힘드나]]></title>
+        <id>https://v.daum.net/v/20230913210101158</id>
+        <link href="https://v.daum.net/v/20230913210101158"/>
+        <updated>2023-09-13T12:20:01.594Z</updated>
+        <content type="html"><![CDATA[[TV리포트=이경민 기자] 홍콩 배우 재키 흥이 노래방에서 자고 있는 사진이 공개돼 이목을 끌었다. 최근 온라인 상에는 직원들과 회식 차 노래방에 방문한 배우 재키 흥(39)이 시끄러운 분위기 속에서도&nbsp;깊게 잠을 자고 있는 사진이 빠르게 퍼졌다. 공개된 사진 속 재키는 젊은 직원들이 주변에서 노래를 부르고 파티를 하는 와중에도&nbsp;개의치 않고 잠을 청하고 있]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[데미 로바토 "어릴 때 늙은 남자 만난 것 역겹다"]]></title>
         <id>https://v.daum.net/v/20230913200142330</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230913154949725"/>
         <updated>2023-09-13T07:10:53.922Z</updated>
         <content type="html"><![CDATA[[OSEN=연휘선 기자]&nbsp;미야자키 하야오 감독의 새 영화 '그대들 어떻게 살 것인가'가 로튼 토마토 신선도 지수 100점을 받고 있다.&nbsp; 최근 로튼 토마토에서 영화 '그대들 어떻게 살 것인가(THE BOY AND THE HERON)'가 신선도 점수 100점을 기록했다. 27개 리뷰 모두 신선도 지수 100점을 받은 것이다. 한국 시간으로 13일, 해당]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[65세 男배우, 성형하고 대만족..."20년 정도 젊어져"]]></title>
-        <id>https://v.daum.net/v/20230913154731606</id>
-        <link href="https://v.daum.net/v/20230913154731606"/>
-        <updated>2023-09-13T07:10:53.926Z</updated>
-        <content type="html"><![CDATA[[TV리포트=안수현 기자] 홍콩 배우 리청창(65)이 눈 밑 지방 재배치 수술을 받고 확 달라진 모습으로 나타났다. 최근 리청창은 홍콩의 한 에스테틱 클리닉 광고를 촬영했다. 65세의 남성이 미용 관련 광고를 찍는 것은 흔치 않은 일. 그는 눈 밑 지방 재배치 수술로 외모가 젊어져 크게 주목받고 있다. 지난 11일, 리청창과 동료 여배우 양위메이(58)는]]></content>
     </entry>
 </feed>
