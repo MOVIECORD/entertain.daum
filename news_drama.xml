@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-09-13T18:13:41.450Z</updated>
+    <updated>2023-09-13T19:09:15.821Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘효심이네 각자도생’ 윤미라·이휘향→이광기, 연기 고수 총출동]]></title>
+        <id>https://v.daum.net/v/20230914040006965</id>
+        <link href="https://v.daum.net/v/20230914040006965"/>
+        <updated>2023-09-13T19:08:57.488Z</updated>
+        <content type="html"><![CDATA[[동아닷컴] 사진제공 = 아크미디어KBS2 새 주말드라마 ‘효심이네 각자도생’ 윤미라, 정영숙, 전원주, 이휘향, 노영국, 이광기 등 이름만으로도 든든한 존재감을 발휘하는 ‘시니어벤저스’의 연기가 기대를 모은다. ‘효심이네 각자도생’(연출 김형일, 극본 조정선)은 타고난 착한 성품과 따뜻한 공감능력으로 평생 가족에게 헌신했던 딸 ‘효심’이 자신을 힘들게]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["친아빠도 아닌 주제에"...골수 기증 무산되자 반소영 '막말']]></title>
         <id>https://v.daum.net/v/20230913224230245</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230913180552025"/>
         <updated>2023-09-13T09:10:55.368Z</updated>
         <content type="html"><![CDATA[[뉴스엔 박수인 기자] '너의 시간 속으로' 스페셜 스틸이 공개됐다. 넷플릭스 시리즈 '너의 시간 속으로'는 1년 전 세상을 떠난 남자친구를 그리워하던 준희가 운명처럼 1998년으로 타임슬립해 남자친구와 똑같이 생긴 시헌과 친구 인규를 만나고 겪게 되는 미스터리 로맨스. 공개된 스페셜 스틸은 따사로운 햇살 속 1998년의 고교생 시헌, 준희, 인규의 풋]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['3년 만 복귀' 조윤희, '김순옥 월드' 합류…빌런 변신 예고 '눈길']]></title>
-        <id>https://v.daum.net/v/20230913175741746</id>
-        <link href="https://v.daum.net/v/20230913175741746"/>
-        <updated>2023-09-13T09:10:55.373Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 이창규 기자) 배우 조윤희의 '7인의 탈출' 포스터 촬영 비하인드가 공개됐다. 13일 소속사 킹콩 by 스타쉽 측은 SBS 새 금토드라마 ‘7인의 탈출’에서 고명지 역으로 출연하는 조윤희의 포스터·콘텐츠 촬영 현장 비하인드 컷을 여러 장 공개했다. ‘7인의 탈출’은 수많은 거짓말과 욕망이 뒤엉켜 사라진 한 소녀의 실종에 연루된 7명의 악인들의]]></content>
     </entry>
 </feed>
