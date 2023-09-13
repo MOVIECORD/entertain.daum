@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-09-13T20:09:56.705Z</updated>
+    <updated>2023-09-13T21:08:17.992Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘국민사형투표’ 박해진 vs 박성웅, 심리전 불붙는다]]></title>
+        <id>https://v.daum.net/v/20230914055935688</id>
+        <link href="https://v.daum.net/v/20230914055935688"/>
+        <updated>2023-09-13T21:08:00.422Z</updated>
+        <content type="html"><![CDATA[‘국민사형투표’ 박해진과 박성웅의 불꽃 튀는 심리전이 펼쳐진다. 13일 SBS 목요드라마 ‘국민사형투표’ 측은 박해진, 박성웅이 대치하는 모습이 담긴 스틸을 공개했다. ‘국민사형투표’에서는 8년 전 사건을 계기로 끊어졌던김무찬(박해진), 권석주(박성웅)의 인연이 전대미문의 사건 국민사형투표로 인해 다시 엮이기 시작했다. 김무찬이 ‘1호팬의 편지’라는 개]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[정다은, 이유비 절친 된다…'7인의 탈출' 캐스팅]]></title>
         <id>https://v.daum.net/v/20230914050509441</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230913185642261"/>
         <updated>2023-09-13T10:11:56.881Z</updated>
         <content type="html"><![CDATA[[뉴스엔 박수인 기자] 배우 김기두가 '7인의 탈출'에 합류한다. 9월 15일 첫 방송되는 SBS 새 금토드라마 '7인의 탈출'(연출 주동민, 극본 김순옥, 제작 초록뱀미디어, 스튜디오S)은 수많은 사람들의 거짓말과 욕망이 뒤엉켜 사라진 한 소녀의 실종에 연루된 7명의 악인들의 생존 투쟁과 그들을 향한 피의 응징을 그린 피카레스크 복수극이다. 엄기준, 황]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이신기, '최악의 악' 전문 킬러로 변신…전작 뛰어넘는 '센 캐']]></title>
-        <id>https://v.daum.net/v/20230913184910092</id>
-        <link href="https://v.daum.net/v/20230913184910092"/>
-        <updated>2023-09-13T10:11:56.883Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 윤현지 기자) 배우 이신기가 '최악의 악'에서 강렬한 열연을 펼친다. 13일 이신기 소속사 제이알이엔티는 "보좌관–메모리스트–런온-통증의 풍경까지 출연작마다 강렬한 임팩트를 선사한 배우 이신기가 9월 27일 공개되는 디즈니+의 '최악의 악'에서 정기철(위하준 분)이 이끄는 강남연합의 중간 간부이자 전문 킬러 서종렬 역으로 출연한다"고 전했다.]]></content>
     </entry>
 </feed>
