@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-09-13T00:46:14.118Z</updated>
+    <updated>2023-09-13T01:45:22.166Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[SF 블록버스터 '크리에이터', 10월 3일 개봉 확정..韓단독 포스터 공개]]></title>
+        <id>https://v.daum.net/v/20230913095915136</id>
+        <link href="https://v.daum.net/v/20230913095915136"/>
+        <updated>2023-09-13T01:44:56.712Z</updated>
+        <content type="html"><![CDATA[[스포츠조선 조지영 기자] SF 영화 '크리에이터'(가렛 에드워즈 감독)가 오는 10월 3일 개봉을 확정하고 한국 단독 스페셜 포스터를 공개했다. 먼저, 공개된 포스터는 아이의 모습을 한 AI 로봇 알피(매들린 유나 보일스)의 실루엣을 배경으로 그 안에 다양한 인물들이 등장해 알피를 둘러싼 모습으로 이들의 관계성에 궁금증을 더한다. 여기에 무]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘1947 보스톤’ 박은빈 특별 출연‥임시완과 핑크빛 기류]]></title>
         <id>https://v.daum.net/v/20230913094203420</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230913083332123"/>
         <updated>2023-09-13T00:45:50.268Z</updated>
         <content type="html"><![CDATA[[이데일리 스타in 김보영 기자] 76회 칸 국제영화제를 뜨겁게 달군 화제작 ‘화란’(감독 김창훈)이 10월 11일 개봉을 확정한 가운데, 홍사빈과 송중기의 폭발적인 시너지를 기대케 하는 스틸을 공개했다. 영화 ‘화란’은 지옥 같은 현실에서 벗어나고 싶은 소년 연규(홍사빈 분)가 조직의 중간 보스 치건(송중기 분)을 만나 위태로운 세계에 함께 하게 되며]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[新 AI 블록버스터 온다..'크리에이터', 10월 3일 개봉 확정]]></title>
-        <id>https://v.daum.net/v/20230913083241106</id>
-        <link href="https://v.daum.net/v/20230913083241106"/>
-        <updated>2023-09-13T00:45:50.270Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 | 김나연 기자] 크리에이터 / 사진=영화 포스터영화 '크리에이터'가 10월 3일 개봉을 확정하고 한국 단독 스페셜 포스터를 공개했다. 고도화된 AI들에 의해 핵공격이 시작된 후, 특수부대 요원 '조슈아'가 인류를 위협할 무기인 아이 모습의 AI 로봇 '알피'를 발견하면서 이를 둘러싸고 벌어지는 거대한 전쟁을 그린 AI 블록버스터 영화 '크리에]]></content>
     </entry>
 </feed>
