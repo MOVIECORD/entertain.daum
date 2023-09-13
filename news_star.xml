@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2023-09-13T16:13:45.475Z</updated>
+    <updated>2023-09-13T17:09:41.134Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[사우디로 간 슈퍼주니어...멤버들의 은밀한 소원은 무엇?]]></title>
+        <id>https://v.daum.net/v/20230914015230371</id>
+        <link href="https://v.daum.net/v/20230914015230371"/>
+        <updated>2023-09-13T17:09:35.317Z</updated>
+        <content type="html"><![CDATA[[TV리포트=김유진 기자] 슈퍼주니어가 사우디아라비아로 여행을 떠났다. 13일 방영된 JTBC '램프의 기사' 1화에서는 슈퍼주니어가 사우디아라비아의 수도 리야드에서 여행을 하는 모습이 그려졌다. 리야드는 서울의 약 3배 크기로 아랍권에서 카이로에 이어 두 번째로 큰 도시다. 매년 500 만 명 이상의 관광객이 방문하고 있으며 각국 대사관과 행정 부처 등이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김성주 “‘강철부대3’ 스타성 넘치는 대원들 많이 보여”]]></title>
         <id>https://v.daum.net/v/20230914010008286</id>
@@ -73,7 +80,7 @@
         <id>https://v.daum.net/v/20230913235752708</id>
         <link href="https://v.daum.net/v/20230913235752708"/>
         <updated>2023-09-13T15:12:12.377Z</updated>
-        <content type="html"><![CDATA[[스포츠조선닷컴 정유나 기자] '나는 솔로' 광수, 옥순, 영철이 일촉즉발 삼자대면을 펼쳤다. 13일 방송된 SBS PLUS, ENA '나는 SOLO(나는 솔로)'에서는 '가짜뉴스' 파동으로 파란이 불어닥친 '솔로나라 16번지' 솔로남녀들의 러브라인이 공개됐다. 앞서 눈덩이처럼 불어난 '가짜뉴스'로 인해 한차례]]></content>
+        <content type="html"><![CDATA[[스포츠조선닷컴 정유나 기자] '나는 솔로' 광수, 옥순, 영철이 일촉즉발 삼자대면을 펼쳤다. 영철과 영숙의 말을 듣고 옥순에게 오해했던 광수는 결국 혼란 속에 옥순과의 관계를 정리했다. 13일 방송된 SBS PLUS, ENA '나는 SOLO(나는 솔로)'에서는 '가짜뉴스' 파동으로 파란이 불어닥친]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[쯔양 “‘6시 내고향’ 보다 유튜브가 먼저.. 어르신들 인지도 올라갔다”]]></title>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230913232324479"/>
         <updated>2023-09-13T15:12:12.386Z</updated>
         <content type="html"><![CDATA[[티브이데일리 이기은 기자] '나는 SOLO' 16기 상철, 영숙 향한 온정과 순정은 계속됐다. 13일 밤 방송된 SBS 플러스 예능프로그램 ‘나는 SOLO'(나는 솔로)에서는 돌싱 특집 16기 영수, 상철, 영호, 영철, 광수, 영숙, 옥순, 영자, 현숙, 순자, 정숙 등의 썸 과정이 공개됐다. 이날 상철은 여전히 영숙에게 마음이 있는 듯, 영숙을 데이트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['나는 솔로' 16기 영철, 정숙에 쌈 싸주며 직진 "사귀어 보자"]]></title>
-        <id>https://v.daum.net/v/20230913232204470</id>
-        <link href="https://v.daum.net/v/20230913232204470"/>
-        <updated>2023-09-13T15:12:12.388Z</updated>
-        <content type="html"><![CDATA[[스포츠투데이 임시령 기자] '나는 솔로' 영철이 정숙에게 직진했다. 13일 방송된 SBS PLUS·ENA '나는 솔로' 16기 돌싱특집에서는 파란이 불어닥친 러브라인이 그려졌다. 이날 영철은 정숙을 선택해 데이트를 나섰다. 차 안에서 정숙이 "첫인상부터 영철이었다"고 하자 영철은 "최종 선택으로 나로 끝까지 갈 거냐"고 물었다. 이에 정숙은]]></content>
     </entry>
 </feed>
