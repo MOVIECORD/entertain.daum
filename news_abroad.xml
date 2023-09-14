@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-09-14T02:16:57.610Z</updated>
+    <updated>2023-09-14T03:11:08.543Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['아쿠아맨2'서 사라진 앰버 허드 논란..감독 "조니 뎁 때문? 예정된 것"]]></title>
+        <id>https://v.daum.net/v/20230914120918458</id>
+        <link href="https://v.daum.net/v/20230914120918458"/>
+        <updated>2023-09-14T03:11:07.799Z</updated>
+        <content type="html"><![CDATA[[OSEN=최나영 기자] '아쿠아맨' 감독은 이 영화에 속편에 애당초 배우 앰버 허드(37)를 비중 있게 다룰 생각이&nbsp;없었다고 말했다. 허드는&nbsp;'아쿠아맨'의 속편인 '아쿠아맨과 잃어버린 왕국'에서 바다 공주 메라&nbsp;역할을 다시 맡았지만 지난해 전 남편인 배우 조니 뎁(60)과의 버지니아 명예훼손 재판에서 얻은&nbsp;부정적인 관심으로 인해 자신의 역할이 "매우]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['불륜' 아리아나 그란데, 에단 슬레이터와 동거까지?…"뉴욕에서 함께 사는 중"]]></title>
         <id>https://v.daum.net/v/20230914093036988</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230913190930470"/>
         <updated>2023-09-13T10:12:14.687Z</updated>
         <content type="html"><![CDATA[[TV리포트=이경민 기자] 리암 페인이 여자친구와 휴가를 보내던 중 극심한 신장 통증을 호소, 급히 병원으로 이송됐다.&nbsp; 지난달 26일(현지 시간) 세계적인 보이그룹 '원 디렉션'의 리암 페인(30)이 여자친구 케이트 캐시디와 함께 이탈리아 코모 호수를 여행하던 중 심각한 '신장 감염'으로 병원을 찾았다.&nbsp; 이날 리암 페인은 케이트와의 1주년 기념일을 축하]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[비욘세, 팬이 던진 물건에 다칠 뻔...댄서가 '또' 막았다]]></title>
-        <id>https://v.daum.net/v/20230913190130355</id>
-        <link href="https://v.daum.net/v/20230913190130355"/>
-        <updated>2023-09-13T10:12:14.729Z</updated>
-        <content type="html"><![CDATA[[TV리포트=강성훈 기자] 팝스타 비욘세(42)가 팬이 던진 물건에 맞을 뻔했다. 이번 달 초부터 비욘세는 르네상스 월드 투어로 미국 로스앤젤레스에서 공연을 펼치고 있다. 11일(현지 시간) 콘서트 관객 중 한 명이 소셜네트워크서비스에 올린 영상에서 비욘세는 히트곡 'Drunk In Love'(2013)를 부르고 있었다. 하지만 멀리서 보면 옷처럼 보이는]]></content>
     </entry>
 </feed>
