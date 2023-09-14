@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-09-14T19:07:53.276Z</updated>
+    <updated>2023-09-14T20:11:43.803Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘사랑의 밧데리’ 원곡자 홍진영 “‘마스크걸’ 한재이 노래에 깜짝”]]></title>
+        <id>https://v.daum.net/v/20230915050802573</id>
+        <link href="https://v.daum.net/v/20230915050802573"/>
+        <updated>2023-09-14T20:11:23.955Z</updated>
+        <content type="html"><![CDATA[“‘마스크걸’이 워낙 핫한 작품이니까 당연히 봤죠. 한재이 배우의 노래 실력에 깜짝 놀랐어요.”(홍진영) 한재이는 ‘사랑의 밧데리’를 잘 부르고자 노력했고, 그 곡의 가수인 홍진영은 그 노력을 읽었다. 가수 출신이 아님에도 불구하고 노래와 춤을 직접 소화하는 성의를 아끼지 않았던 한재이의 노력은 ‘마스크걸’을 한층 더 풍성하게 만들었다. ‘마스크걸’은]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['국민사형투표' 개탈 쓴 김권, 김유미에 "엄마, 내가 국민사형 투표 갖게 해줄까?"]]></title>
         <id>https://v.daum.net/v/20230915040301958</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230914211526393"/>
         <updated>2023-09-14T12:19:18.673Z</updated>
         <content type="html"><![CDATA[[OSEN=장우영 기자] ‘국민사형투표’ 개탈이 검거됐다. 14일 방송된 SBS 목요드라마 ‘국민사형투표’(극본 조윤영, 연출 박신우)에서는 개탈이 경찰에 검거됐다. 사건 현장에 김무찬(박해진)이 도착한 가운데 주현(임지연)은 괴한에게 습격을 당하는 등 상황은 일촉즉발로 흘러갔다. 주현은 권석주(박성웅)의 도움으로 위기에서 벗어났고, 김무찬은 사건 현장]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['금이야 옥이야' 출생비밀 안 김시은, 뻔뻔母 반소영에 "서준영 놓아줘"]]></title>
-        <id>https://v.daum.net/v/20230914211430376</id>
-        <link href="https://v.daum.net/v/20230914211430376"/>
-        <updated>2023-09-14T12:19:18.674Z</updated>
-        <content type="html"><![CDATA[[TV리포트 = 하수나 기자] 김시은이 뻔뻔한 친모 반소영에게 제발 서준영을 놓아주라고 애원했다.&nbsp; 14일 KBS1TV 일일드라마 ‘금이야 옥이야’에선 잔디(김시은 분)가 강산(서준영 분)의 친딸이 아니란 사실이 드러나는 모습이 그려졌다.&nbsp; 강산은 출생비밀을 알게 된 잔디에게 “엄마가 대학 다닐 때 사랑했던 사람이 있었는데 그 분이 친아빠시다. 그 분이 사]]></content>
     </entry>
 </feed>
