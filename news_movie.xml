@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-09-15T08:14:23.939Z</updated>
+    <updated>2023-09-15T09:11:22.688Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[안 봐도 알겠다고요? 소신있게, ‘폭로’하세요]]></title>
+        <id>https://v.daum.net/v/20230915180601266</id>
+        <link href="https://v.daum.net/v/20230915180601266"/>
+        <updated>2023-09-15T09:10:58.666Z</updated>
+        <content type="html"><![CDATA[작지만 강한 찐 스토리텔러가 온다. 의외로 신선하고 재밌다. 새로운 결의 신선한 법정 스릴러다. 유다인 강민혁 그리고 공상아의 쉴 틈 없는 앙상블로 완성된, ‘폭로’(감독 홍용호)다. 오는 27일, 추석 기대작 3편이 동시 개봉한다. 영화 ‘거미집’(감독 김지운), ‘천박사 퇴마 연구소: 설경의 비밀’(감독 김성식), ‘1947 보스톤’(감독 강제규)가 바]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[주윤발×송강호×히로세 스즈, 부산국제영화제 뜨겁게 달군다]]></title>
+        <id>https://v.daum.net/v/20230915180110184</id>
+        <link href="https://v.daum.net/v/20230915180110184"/>
+        <updated>2023-09-15T09:10:58.713Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]주윤발·히로세 스즈와 송강호·송중기·정우성 등 국내외 대표 배우들이 부산국제영화제를 뜨겁게 달군다. 이들은 오픈토크와 야외무대에 올라 부산을 시네마천국으로 만들 예정이다. BIFF는 15일 올해 영화의전당 BIFF X GENESIS 야외무대에서 열리는 오픈 토크와 야외무대인사 일정을 공개했다. 오픈 토크는 10월 5~7]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['보스톤' 강제규 감독 "신파 최소화하려고 노력한 이유는..."]]></title>
         <id>https://v.daum.net/v/20230915170601815</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230915150554977"/>
         <updated>2023-09-15T06:14:04.976Z</updated>
         <content type="html"><![CDATA[[뉴스엔 배효주 기자] 송중기 스크린 복귀작 '화란'의 예고편이 공개됐다. 10월 11일 개봉하는 영화 '화란'(감독 김창훈)은 지옥 같은 현실에서 벗어나고 싶은 소년 연규(홍사빈)가 조직의 중간 보스 치건(송중기)을 만나 위태로운 세계에 함께 하게 되며 펼쳐지는 이야기를 그린 느와르 드라마다. 지옥 같은 세상에 살고 있는 소년 연규와 냉혹한 세계에서 자]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["아니 정우성이 왜 거기서 나와?" 깜짝 카메오 행보 화제]]></title>
-        <id>https://v.daum.net/v/20230915144924345</id>
-        <link href="https://v.daum.net/v/20230915144924345"/>
-        <updated>2023-09-15T06:14:04.976Z</updated>
-        <content type="html"><![CDATA[아이즈 ize 김나라 기자"정우성이 왜 거기서 나와?"올해 초 개그맨 박성광의 연출 데뷔작 '웅남이'에서 예상치 못한 배우가 등장, 관객들을 깜짝 놀라게 했다. 역할도 '쑥과 마늘을 먹고 사람이 된 멧돼지'라는 독특한 설정으로 흥미를 자극했지만, 이를 무려 대한민국 대표 미남 스타 정우성이 연기하며 대반전을 선사한 것이다.하지만 이 같은 정우성의 서프라이즈]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['30일', 조민수부터 엄지윤까지…개성 넘치는 조연 군단]]></title>
-        <id>https://v.daum.net/v/20230915143607875</id>
-        <link href="https://v.daum.net/v/20230915143607875"/>
-        <updated>2023-09-15T08:13:59.126Z</updated>
-        <content type="html"><![CDATA[[SBS 연예뉴스 | 김지혜 기자] 영화 '30일'이 강하늘, 정소민의 앙상블과 더불어 개성 넘치는 배우들의 활약으로 기대를 모은다. '30일'은 드디어 D-30, 서로의 찌질함과 똘기를 견디다 못해 마침내 완벽하게 남남이 되기 직전 동반기억상실증에 걸려버린 '정열'(강하늘)과 '나라'(정소민)의 코미디. 조민수, 김선영, 윤경호가 각각 '보배', '숙정']]></content>
     </entry>
 </feed>
