@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-09-15T07:10:36.488Z</updated>
+    <updated>2023-09-15T08:14:23.936Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[장백지, 비행기 목격담...43세에도 '눈부신 미모']]></title>
+        <id>https://v.daum.net/v/20230915170330757</id>
+        <link href="https://v.daum.net/v/20230915170330757"/>
+        <updated>2023-09-15T08:14:22.904Z</updated>
+        <content type="html"><![CDATA[[TV리포트=안수현 기자] 홍콩 배우 장백지(43)의 목격담이 온라인에서 뜨거운 관심을 받고 있다. 지난 13일, 한 네티즌은 비행기에서 장백지를 우연히 마주쳤고 이에 대한 목격담을 온라인에 게시했다. 목격한 이에 따르면 "장백지는 체중이 많이 줄어든 것 같다"라며 그녀를 찍은 사진을 공개했다. 사실, 장백지는 소속사를 통해 8월 한 달 동안 모든 활동을]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[인기 女가수, AI 기술 우려..."5년 후 여성은 필요없는 존재"]]></title>
+        <id>https://v.daum.net/v/20230915162600664</id>
+        <link href="https://v.daum.net/v/20230915162600664"/>
+        <updated>2023-09-15T08:14:22.915Z</updated>
+        <content type="html"><![CDATA[[TV리포트=강성훈 기자] 캐나다 가수 그라임스(35)가 인공지능에 관한 걱정을 표했다. 13일(현지 시간) 일론 머스크의 전 아내인 그라임스는 오랜 만에 모습을 드러내 팬들을 기쁘게 했다. 그는 일론 머스크와의 사이에서 세 아이를 두고 있다. 그라임스는 로스엔젤레스 에이스 호텔 극장에서 '성혁명은 실패한 것인가?'라는 주제로 열린 토론의 사회를 맡았다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['시즌2' 확정된 실사 '원피스', 시즌 12까지 나올 수도]]></title>
         <id>https://v.daum.net/v/20230915160035793</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230915091941677"/>
         <updated>2023-09-15T00:46:01.306Z</updated>
         <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]이 정도면 최악의 삼각관계다. 14일(현지시간) 페이지식스에 따르면, 러시아 출신 모델 이리나 샤크(37)가 ‘NFL의 전설’ 톰 브래디(46)와 사귀는 가운데 여전히 전 남친인 ‘가오갤’ 시리즈의 브래들리 쿠퍼(48)와 재결합을 원하고 있다. 이 매체는 “샤크는 세계 최고의 미녀 삼각관계의 일원으로 불꽃같은 연인 쿠]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美 90년대 달군 아이돌그룹 엔싱크, 22년 만에 신곡 발표]]></title>
-        <id>https://v.daum.net/v/20230915091040405</id>
-        <link href="https://v.daum.net/v/20230915091040405"/>
-        <updated>2023-09-15T00:46:01.307Z</updated>
-        <content type="html"><![CDATA[(로스앤젤레스=연합뉴스) 임미나 특파원 = 1990년대와 2000년대 초 세계적인 인기를 끌었던 미국 보이밴드 엔싱크(*NSYNC)가 22년 만에 재결합해 신곡을 선보였다. 할리우드 애니메이션 스튜디오 드림웍스는 14일(현지시간) 새 영화 '트롤스 밴드 투게더'의 예고편 영상과 함께 영화 오리지널사운드트랙(OST)인 엔싱크의 신곡 '베터 플레이스'(Bett]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뻔뻔 양다리..이리나 샤크, 지젤 번천 전남편과 열애+전남편 브래들리 쿠퍼와 재결합 목표]]></title>
-        <id>https://v.daum.net/v/20230915080620830</id>
-        <link href="https://v.daum.net/v/20230915080620830"/>
-        <updated>2023-09-14T23:10:47.778Z</updated>
-        <content type="html"><![CDATA[[OSEN=강서정 기자] 모델 이리나 샤크가 뻔뻔하게 공개적으로 삼각관계를 이어가고 있다. 모델 지젤 번천 전 남편인 전 미식축구 선수 톰 브래디와 연애하면서 전 남편인 배우 브래들리 쿠퍼와 재결합하고 싶어 한다.&nbsp; 14일(현지시간) 페이지식스 보도에 따르면 이리나 샤크는 톰 브래디와 연애하고 있지만 여전히 브래들리 쿠퍼에 정착하고 싶어한다. 이 슈퍼모]]></content>
     </entry>
 </feed>
