@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2023-09-15T18:13:16.437Z</updated>
+    <updated>2023-09-15T19:09:19.657Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['연봉 1억' 미녀, 결혼시장서 80점대...30대라 '마이너스']]></title>
+        <id>https://v.daum.net/v/20230916040030290</id>
+        <link href="https://v.daum.net/v/20230916040030290"/>
+        <updated>2023-09-15T19:09:12.745Z</updated>
+        <content type="html"><![CDATA[[TV리포트=엄지영 기자] KBS Joy·Smile TV Plus '중매술사'에 완벽한 스펙을 갖춘 의뢰인이 출연, 화제를 모았다. 지난 14일 방송된 '중매술사' 12회에는 지성과 미모, 재력까지 완벽한 M 증권회사 차장 임영경 의뢰인이 출연했다. 의뢰인은 "주변의 기혼 친구들을 보며 결혼에 대한 준비를 해왔다. 평생을 함께할 반쪽을 찾고 싶다"며 중매술]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이장우♥조혜원과 깜짝 '동반' 출연..눈에서 꿀 뚝뚝]]></title>
         <id>https://v.daum.net/v/20230916012619025</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230916000205424"/>
         <updated>2023-09-15T15:10:45.565Z</updated>
         <content type="html"><![CDATA[[스포츠투데이 백지연 기자] '7인의 탈출' 정라엘이 이유비와 지독한 악연으로 엮이며 인생의 구렁텅이에 빠졌다. 피도 눈물도 없이 성공과 욕망을 좇는 황점음. 그리고 그 욕망으로 꼬여버린 상황들이 휘몰아쳤다. 15일 밤 방송된 SBS 새 금토드라마 '7인의 탈출'에서 인물들의 지독한 악연이 시작됐다. 이날 방송에서 체리엔터테인먼트 대표 양진모(윤종훈)가]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['압도적 티켓 파워' 임영웅, 1분 만에 매진…김동호♥윤조 '결혼']]></title>
-        <id>https://v.daum.net/v/20230916000107388</id>
-        <link href="https://v.daum.net/v/20230916000107388"/>
-        <updated>2023-09-15T15:10:45.568Z</updated>
-        <content type="html"><![CDATA[임정희, 6세 연하 발레리노 김희현과 결혼까지 '핑크빛' [더팩트ㅣ김샛별 기자] 이른바 '피켓팅'이 또 한 번 휩쓸고 갔습니다. 명불허전 티켓파워를 자랑하는 한 가수가 콘서트를 앞두고 있습니다. 핑크빛 소식이 연달아 전해진 한 주이기도 했습니다. 배우와 아이돌 출신 가수의 결실은 물론이고 공연을 통해 인연을 맺게 된 예비부부의 소식이 훈훈함을 안겼습니다]]></content>
     </entry>
 </feed>
