@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-09-15T11:09:28.195Z</updated>
+    <updated>2023-09-15T12:19:28.519Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['거미집'처럼 견고한, 김지운 감독의 영화가 지닌 매력은?]]></title>
+        <id>https://v.daum.net/v/20230915211602905</id>
+        <link href="https://v.daum.net/v/20230915211602905"/>
+        <updated>2023-09-15T12:19:05.429Z</updated>
+        <content type="html"><![CDATA[[텐아시아=이하늘 기자] ≪이하늘의 롱테이크≫ 이하늘 텐아시아 기자(겸 영화평론가)가 한 호흡으로 화면을 길게 보여주는 롱테이크 촬영 기법처럼, 영화 속 장면이나 영화 이야기를 심층 분석합니다. 2003년, 한국 영화는 르네상스였다. 봉준호 감독의 영화 '살인의 추억'부터 박찬욱 감독의 '올드보이', 장준환 감독의 '지구를 지켜라!', 이준익 감독의 '황]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['1947 보스톤' 강제규 감독 "배성우, 미안함 전해...관객 고려해 재편집"]]></title>
         <id>https://v.daum.net/v/20230915193235581</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230915154147220"/>
         <updated>2023-09-15T07:10:12.374Z</updated>
         <content type="html"><![CDATA[카카오엔터테인먼트(대표 김성수 이진수)가 인기 웹툰 ‘너클걸’을 아마존 오리지널 영화로 제작한다고 밝혔다. 영화 ‘너클걸’은 카카오엔터테인먼트의 자회사 크로스픽쳐스에서 제작했으며, 오는 11월 2일 프라임 비디오를 통해 전세계 240여개국에서 독점 공개된다. ‘너클걸’은 카카오페이지 등을 통해 공개된 동명의 웹툰이 원작으로, 촉망받는 복서 ‘란’이 범]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[웰메이드 스릴러 영화 '차박'…"무섭지만 한번 더 보고싶어" 관객들 입소문 터졌다]]></title>
-        <id>https://v.daum.net/v/20230915153913155</id>
-        <link href="https://v.daum.net/v/20230915153913155"/>
-        <updated>2023-09-15T07:10:12.376Z</updated>
-        <content type="html"><![CDATA[[스포츠한국 김현희 기자]&nbsp;지난 13일 개봉한 웰메이드 스릴러 영화 '차박-살인과 낭만의 밤(감독 형인혁)'이 대작 틈바구니 속에서 선전중이다. 한국 개봉 전부터 뜨거운 해외 반응을 이끌어낸 '차박'은 일상의 순간이 일순간 공포로 바뀌는 지점을 섬세하게 표현해냈다는 호평을 받으며 이목이 집중됐다. 이 작품은 평온한 일상, 사랑하는 아내, 모든 것]]></content>
     </entry>
 </feed>
