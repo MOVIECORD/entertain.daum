@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-09-15T15:10:52.219Z</updated>
+    <updated>2023-09-15T16:13:35.916Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['7인의탈출' 황정음, 친딸 정라엘과 서울행…그의 진짜 목적은?]]></title>
+        <id>https://v.daum.net/v/20230916010600936</id>
+        <link href="https://v.daum.net/v/20230916010600936"/>
+        <updated>2023-09-15T16:13:18.752Z</updated>
+        <content type="html"><![CDATA[[SBS연예뉴스 | 김효정 에디터] 황정음은 정라엘을 왜 다시 데려갔나? 15일 방송된 SBS 금토드라마'7인의 탈출'에서는 금라희가 방다미와 재회한 모습이 그려졌다. 이날 금라희는 양부모들 아래에서 행복하게 살고 있던 친딸 방다미를 데려갔다. 그는 그동안 딸에게 해주지 못한 것들을 후회해 눈길을 끌었다. 금라희는 방다미와 함께 서울로 향하며 "애쓸 필요]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[첫방 '7인의 탈출' 역시 김순옥... 첫방부터 매운맛 제대로]]></title>
         <id>https://v.daum.net/v/20230915234425280</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230915203230438"/>
         <updated>2023-09-15T12:19:11.120Z</updated>
         <content type="html"><![CDATA[[TV리포트 = 하수나 기자] 한지완의 복수 행보에 김진우와 손성윤의 부부 관계가 흔들리기 시작했다.&nbsp;&nbsp; 15일 KBS2TV 일일드라마 '우아한 제국‘에선 서희재로 변신한 신주경(한지완 분)이 장기윤(김진우 분)과 재클린(손성윤 분)의 사이에 균열을 일으키는 모습이 그려졌다.&nbsp; 재클린은 서희재, 장기윤과 삼자대면했고 서희재 들으란 듯 “자기, 저 여자가 다]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[남태우, '한강' 합류..권상우·김희원과 케미 기대]]></title>
-        <id>https://v.daum.net/v/20230915202734372</id>
-        <link href="https://v.daum.net/v/20230915202734372"/>
-        <updated>2023-09-15T12:19:11.122Z</updated>
-        <content type="html"><![CDATA[[OSEN=하수정 기자] 배우 남태우가 '한강'에 합류, 열일 행보를 이어간다. 남태우는 디즈니+의 오리지널 시리즈 '한강'(연출/극본 김상철)에서 국제범죄 수사대 고형민 경사 역할을 맡아 연기 변신을 선보인다. 한강을 불철주야 지키는 Team 한강경찰대가 한강을 둘러싼 범죄에 휘말리면서 벌어지는 水펙터클 코믹 액션 드라마 ‘한강’은 배우 남태우를 비롯]]></content>
     </entry>
 </feed>
