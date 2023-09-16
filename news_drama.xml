@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-09-16T08:12:28.257Z</updated>
+    <updated>2023-09-16T09:09:53.947Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['힙하게'에 부는 핑크빛 바람…한지민, 이민기 위로에 심쿵]]></title>
+        <id>https://v.daum.net/v/20230916180021539</id>
+        <link href="https://v.daum.net/v/20230916180021539"/>
+        <updated>2023-09-16T09:09:35.745Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 이승길 기자] '힙하게' 한지민, 이민기의 설레는 핑크빛 기류가 포착됐다. JTBC 토일드라마 '힙하게' 측은 11회 방송을 앞둔 16일 티격태격하던 봉예분(한지민)과 문장열(이민기)의 설레는 눈맞춤을 공개했다. 당사자인 봉예분과 문장열 빼고 무진 마을 사람들 죄다 아는 두근거리는 ‘썸’의 향방이 궁금해진다. 지난 방송에서 세 번째 연쇄]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[황정음, 독기의 끝 보여준다..딸 정라엘과 몸싸움까지]]></title>
         <id>https://v.daum.net/v/20230916170918890</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230916112229455"/>
         <updated>2023-09-16T03:10:48.841Z</updated>
         <content type="html"><![CDATA[[OSEN=연휘선 기자] '아라문의 검'에서 아고연합의 우두머리 이나이신기 이준기가 아스달 왕궁에서 눈을 뜬다.&nbsp; 오늘(16일) 방송될&nbsp;tvN&nbsp;토일드라마&nbsp;‘아라문의 검(극본 김영현&nbsp;박상연,&nbsp;연출 김광식)’ 3회에서는 배냇벗인 아고연합의 은섬(이준기 분)과 아스달 총군장 사야(이준기 분)가 뒤바뀌는 상황이 발생,&nbsp;사야 행세를 하는 은섬이 왕궁 내 사람들을]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[49% 시청률 재현? 유이 ‘효심이네 각자도생’ 첫방송 포인트]]></title>
-        <id>https://v.daum.net/v/20230916111620384</id>
-        <link href="https://v.daum.net/v/20230916111620384"/>
-        <updated>2023-09-16T03:10:48.843Z</updated>
-        <content type="html"><![CDATA[[동아닷컴] 사진제공 = 아크미디어16일 KBS2 새 주말드라마 ‘효심이네 각자도생’(연출 김형일, 극본 조정선)이 첫 포문을 연다. ‘효심이네 각자도생’은 이름 석자만으로도 흥행을 기대케 하는 완벽한 '작감배’ 조합으로 KBS 주말드라마의 명성을 입증하고, 주말 안방극장을 장악할 기대작으로 주목받고 있다. ● ‘흥행 퀸’ 유이+‘히트 메이커’ 조정선]]></content>
     </entry>
 </feed>
