@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-09-17T04:13:01.122Z</updated>
+    <updated>2023-09-17T05:09:54.794Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이선균 정유미 ‘잠’ 11일 연속 1위, 손익분기점 넘고 100만 간다]]></title>
+        <id>https://v.daum.net/v/20230917135551633</id>
+        <link href="https://v.daum.net/v/20230917135551633"/>
+        <updated>2023-09-17T05:09:31.032Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 하지원 기자] 영화 '잠'이 80만 누적 관객수를 돌파하며 손익분기점을 넘어섰다. 9월 17일 영화진흥위원회 영화관입장권통합전산망에 따르면 '잠'은 지난 16일 13만6449명의 관객을 동원해 누적관객수 91만7977명을 기록했다. 이로써 '잠'은 지난 6일 개봉 11일만 손익분기점 80만명을 돌파했다. '잠'은 개봉 후 단 한차례도 자리를 내주]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“걸작을 왜 만들어요?”…‘OTT·틱톡의 시대’ 영화의 의미를 묻다]]></title>
+        <id>https://v.daum.net/v/20230917135505623</id>
+        <link href="https://v.daum.net/v/20230917135505623"/>
+        <updated>2023-09-17T05:09:31.038Z</updated>
+        <content type="html"><![CDATA[코로나 시대의 영화란 무엇일까. 팬데믹은 종식됐지만 질문은 끝나지 않는다. 100년 동안 가장 대중적인 볼거리이자 예술로 받았던 사랑을 불과 2~3년 만에 오티티(OTT)와 유튜브, 틱톡에 뺏겨버린 영화는 살아남을 수 있을까. 영화 ‘거미집’은 이런 질문에 김지운 감독이 내놓은 답변 같은 영화다. 김 감독 자신과 여러 선배 감독들이 투영된 듯한 영화감독]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[모든 것을 태운 뒤 마주한 치명적인 아름다움]]></title>
         <id>https://v.daum.net/v/20230917120600267</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230917000058949"/>
         <updated>2023-09-16T15:09:33.358Z</updated>
         <content type="html"><![CDATA[잔인한 포스터 게재·원주시와 갈등...이슈에 비해 현저히 떨어지는 재미 [더팩트｜박지윤 기자] 영화가 마주한 현실과 작품의 이야기가 궤를 같이한다. 주인공들은 굳이 떠도는 괴담을 무시하고 치악산에 올라 화를 입고, 영화 제작사는 미숙한 대처로 원주시민들의 분노를 더욱 키웠다. 작품 안팎으로 논란과 의문만 가득 남긴 '치악산'이다. 예정대로 13일에 개봉]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[강동원 얼굴 효과?..'천박사' 개봉 D-11, 전체 예매율 1위 '추석 흥행' 예고]]></title>
-        <id>https://v.daum.net/v/20230916222755524</id>
-        <link href="https://v.daum.net/v/20230916222755524"/>
-        <updated>2023-09-16T14:08:23.958Z</updated>
-        <content type="html"><![CDATA[[OSEN=박소영 기자] 외유내강의 새 영화&nbsp;&lt;천박사 퇴마 연구소: 설경의 비밀&gt; 이 개봉 11일 전인 9월 16일(토) 전체 예매율 1위를 차지하며 놀라운 속도의 예매 상승세로 추석 극장가 흥행 돌풍을 예고한다.&nbsp; &lt;천박사 퇴마 연구소: 설경의 비밀&gt;은 귀신을 믿지 않지만 귀신 같은 통찰력을 지닌 가짜 퇴마사 ‘천박사’(강동원)가 지금껏 경험해본 적]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['너시속' 전여빈 "좋아하는 일로 밥벌이=행운..노력해야죠"]]></title>
-        <id>https://v.daum.net/v/20230916143701151</id>
-        <link href="https://v.daum.net/v/20230916143701151"/>
-        <updated>2023-09-16T06:12:20.458Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 | 김나연 기자] 전여빈 / 사진=넷플릭스배우 전여빈이 '너의 시간 속으로'에서 극과 극의 모습을 선보이며 다시 한번 연기 스펙트럼을 증명했다. 스크린, 브라운관을 오가며 '열일'을 이어가고 있는 전여빈은 초심을 잃지 않으려고 노력한다. 12일 서울시 종로구 소격동의 한 카페에서 넷플릭스 시리즈 '너의 시간 속으로'의 전여빈과 만나 다양한 이]]></content>
     </entry>
 </feed>
