@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/variety</id>
     <title>다음 연예 ─ 뉴스 ─ 예능</title>
-    <updated>2023-09-18T19:08:58.777Z</updated>
+    <updated>2023-09-18T20:11:22.583Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[예은 "'교회 오빠' 양세찬, 나이 차 많아 본 적 無…세대 달라"]]></title>
+        <id>https://v.daum.net/v/20230919041002678</id>
+        <link href="https://v.daum.net/v/20230919041002678"/>
+        <updated>2023-09-18T20:11:09.874Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 이창규 기자) 엘즈업(EL7Z UP) 예은이 양세찬과의 인연을 언급했다. 18일 방송된 JTBC '톡파원 25시'에는 그룹 CLC 출신이자 엘즈업으로 데뷔를 앞둔 예은이 게스트로 출연했다. 이날 예은은 '톡파원 25시' 출연자 중 교회 오빠가 있다고 밝혔는데, 그 주인공은 다름아닌 양세찬이었다. 전현무는 "교회 오빠하면 떠오르는 이미지가 있는]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["주종관계" 레이디제인♥임현태 '반전' 신혼일상 최초공개]]></title>
         <id>https://v.daum.net/v/20230919040521627</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230918233004239"/>
         <updated>2023-09-18T15:11:37.550Z</updated>
         <content type="html"><![CDATA[[텐아시아=차혜영 기자] '결혼지옥'에서 문세윤이 재혼 부부의 갈등이 폭발하는 순간을 지켜보며 무섭다고 말했다. 18일 방송된 MBC '오은영 리포트-결혼지옥'(이하 '결혼지옥')에서는 각자 이혼이라는 아픔을 겪고 재혼으로 만나 결혼 16년 차를 맞은 '답정너 부부'가 등장해 결혼 생활 고민을 토로했다. 이날 남편과 아내는 각자 이혼의 경험이 있다고]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[결혼 16년차 부부 눈물 “두 달째 대화 안 해” 이혼 위기 고백]]></title>
-        <id>https://v.daum.net/v/20230918232801218</id>
-        <link href="https://v.daum.net/v/20230918232801218"/>
-        <updated>2023-09-18T15:11:37.554Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 하지원 기자] 부부 관계에 기대도 희망도 없다는 의뢰인 부부가 등장했다. 9월 18일 방송된 MBC '오은영 리포트-결혼지옥'(이하 '결혼지옥')에는 이혼이라는 아픔을 겪고 재혼으로 만나 결혼 16년 차인 부부가 출연했다. 이날 의뢰인 남편은 "매일 싸운다. 서로 양보한다고 그러는데 그게 성에 안 차는지, 저는 자꾸 날카로워지고 지친다"고 털어놨]]></content>
     </entry>
 </feed>
