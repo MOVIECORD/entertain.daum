@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-09-18T22:10:13.580Z</updated>
+    <updated>2023-09-18T23:11:03.624Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[휴 잭맨, 이혼발표 후 절친 라이언 레이놀즈 만났다..비 맞으며 깊은 대화]]></title>
+        <id>https://v.daum.net/v/20230919080917382</id>
+        <link href="https://v.daum.net/v/20230919080917382"/>
+        <updated>2023-09-18T23:11:02.843Z</updated>
+        <content type="html"><![CDATA[[OSEN=강서정 기자] 배우 휴 잭맨이 13살 연상의 아내 데보라 리 퍼니스와 이혼을 발표한 후 라이언 레이놀즈를 만났다.&nbsp; 18일(현지시간) 페이지식스 보도에 따르면 휴 잭맨은 데보라 리 퍼니스와의 이혼 과정에서 오랜 친구 라이언 레이놀즈에게 의지하고 있다. 휴 잭맨은 지난 일요일 라이언 레이놀즈와 함께 비를 맞으며 뉴욕 거리를 산책하는 모습이 포착]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['그룹 702' 아이리시 그린스테드, 건강상 '휴식' 후 별세...향년 43세]]></title>
         <id>https://v.daum.net/v/20230918230131017</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230918160100501"/>
         <updated>2023-09-18T07:11:11.679Z</updated>
         <content type="html"><![CDATA[[TV리포트=유비취 기자] 라틴팝 가수 배드 버니가 영어에 유리한 그래미 시상식을 저격하며 소신 발언을 했다. 지난 2월 '그래미 시상식'에서 배드 버니는 스페인어로 된 그의 노래로 공연을 펼쳤다. 배드 버니의 공연에서 CBS는 표준 자막이 아닌 '영어가 아닌 언어로 노래'라는 안내를 제공했다. 이에 배드 버니는 영어를 우선으로 생각하는 '그래미 시상식'에]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[유명 모델 2명, LA서 연이어 사망…살인 사건인가?]]></title>
-        <id>https://v.daum.net/v/20230918154130734</id>
-        <link href="https://v.daum.net/v/20230918154130734"/>
-        <updated>2023-09-18T07:11:11.681Z</updated>
-        <content type="html"><![CDATA[[TV리포트=이예은 기자] 불과 일주일 사이에 LA 같은 지역 내에 있는 고급 아파트에서 미국 모델 두 명이 숨진 채 발견됐다.&nbsp; 외신 매체 미러는 최근 LA 같은 지역 내에 거주하고 있는 모델 말리사 무니(31)과 니콜 코츠(32)가 이틀 간격을 두고 사망했다고 보도했다.&nbsp; 지난 12일(현지 시간) 말리사 무니가 LA에 있는 고급 아파트에서 숨진 채 발견]]></content>
     </entry>
 </feed>
