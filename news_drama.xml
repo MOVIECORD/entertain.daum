@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-09-19T07:11:23.257Z</updated>
+    <updated>2023-09-19T08:14:59.933Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[女댄서 춤 싸움, 또 통했다]]></title>
+        <id>https://v.daum.net/v/20230919171155064</id>
+        <link href="https://v.daum.net/v/20230919171155064"/>
+        <updated>2023-09-19T08:14:42.031Z</updated>
+        <content type="html"><![CDATA[(사진=Mnet)[이데일리 스타in 김현식 기자] 여자 댄서들의 춤 싸움이 또 통했다. Mnet 댄스 크루 서바이벌 ‘스트릿 우먼 파이터’(이하 ‘스우파2’) 인기에 불이 붙었다. 각종 SNS와 숏폼 플랫폼은 물론 음원 차트까지 달구며 전작 못잖은 기세를 보여주고 있다. ‘스우파2’는 방송 초반 ‘노 리스펙 약자 지목 배틀’을 통해 여덟 크루의 개성과 댄]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[독립운동가 된 서현, 김남길·이현욱과 줄 타는 로맨스]]></title>
+        <id>https://v.daum.net/v/20230919170112639</id>
+        <link href="https://v.daum.net/v/20230919170112639"/>
+        <updated>2023-09-19T08:14:42.035Z</updated>
+        <content type="html"><![CDATA[[텐아시아=강민경 기자] 걸그룹 소녀시대 멤버 겸 배우 서현이 독립운동가가 된다. 그는 1920년으로 타임슬립 해 김남길과 이현욱 사이에서 줄 타는 로맨스를 선보인다. 서현은 오는 22일 전 세계 190여 개국에 공개되는 넷플릭스 시리즈 '도적: 칼의 소리'에 출연한다. '도적: 칼의 소리'는 1920년 중국의 땅, 일본의 돈, 조선의 사람이 모여든 무]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[조보아♥로운 ‘불가항력’ 단어값 증명한다→전생 서사]]></title>
         <id>https://v.daum.net/v/20230919155922530</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230919141756196"/>
         <updated>2023-09-19T06:14:30.000Z</updated>
         <content type="html"><![CDATA[[OSEN=유수연 기자] ‘소용없어 거짓말’&nbsp;김소현,&nbsp;황민현의 설렘 보장 로맨스가 막을 내린다. tvN&nbsp;월화드라마&nbsp;‘소용없어 거짓말’(연출 남성우,&nbsp;극본 서정은,&nbsp;기획 스튜디오드래곤,&nbsp;제작 빅오션이엔엠)은 종영을 앞둔&nbsp;19일,&nbsp;뜻밖의 상견례(?)를 하게 된 목솔희(김소현 분),&nbsp;김도하(황민현 분),&nbsp;목태섭(안내상 분)의 스틸컷을 공개했다.&nbsp;진지한 표정으]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['반짝이는 워터멜론' 진수완 작가 "잘난 체하지 말고 초심으로 돌아가자"]]></title>
-        <id>https://v.daum.net/v/20230919141254972</id>
-        <link href="https://v.daum.net/v/20230919141254972"/>
-        <updated>2023-09-19T06:14:30.002Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 황수연 기자) 진수완 작가가 순수한 열정을 담은 tvN 새 월화드라마 ‘반짝이는 워터멜론’으로 색다른 청춘 드라마의 탄생을 예고하고 있다. 오는 25일 첫 방송될 tvN 새 월화드라마 ‘반짝이는 워터멜론’은 음악에 천부적인 재능을 타고난 코다(CODA) 소년 은결(려운 분)이 1995년으로 타임슬립해, 어린 시절의 아빠 이찬(최현욱)과 밴드를]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘거래’ 이주영, 유수빈 납치 사건 파헤친다 “이야기 판도 바뀔 것”]]></title>
-        <id>https://v.daum.net/v/20230919140725742</id>
-        <link href="https://v.daum.net/v/20230919140725742"/>
-        <updated>2023-09-19T05:10:14.051Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 박수인 기자] 배우 이주영의 '거래' 캐릭터 스틸컷이 공개됐다. 오는 10월 6일 첫 공개되는 웨이브 오리지널 드라마 '거래'는 우발적으로 친구를 납치한 두 청년의 100억 납치 스릴러. 극 중 이주영은 납치극의 유일한 목격자이자 경찰 준비생 ‘수안’을 맡아 활약할 예정. 점점 커져가는 사건의 소용돌이 속 두려움과 위험을 느끼지만, 이를 무릅쓰고]]></content>
     </entry>
 </feed>
