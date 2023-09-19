@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2023-09-19T16:13:51.337Z</updated>
+    <updated>2023-09-19T17:10:05.817Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[엑소, 완전체 앰버서더 비하인드···산삼보다 귀한 카이 까꿍]]></title>
+        <id>https://v.daum.net/v/20230920011416439</id>
+        <link href="https://v.daum.net/v/20230920011416439"/>
+        <updated>2023-09-19T17:09:58.646Z</updated>
+        <content type="html"><![CDATA[[OSEN=오세진 기자] EXO 카이가 반가운 얼굴을 드러냈다. 지난 14일 EXO 공식 채널에서는 ‘For you, Sahabat Scarlett! EXO Scarlett Behind’라는 제목의 영상이 올라왔다. 해당 영상은 인도네시아의 화장품 브랜드의 브랜드 앰버서더가 된 엑소가 화보 촬영 및 인도네시아 자카르타 현장을 찾는 장면이다.&nbsp; 각 멤버]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘The Globalists’ 박형준 시장 “부산은 엑스포가 지향하는 미래 가치를 달성할 수 있는 도시”]]></title>
         <id>https://v.daum.net/v/20230920010105385</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230919234430693"/>
         <updated>2023-09-19T15:11:31.571Z</updated>
         <content type="html"><![CDATA[[TV리포트=이혜미 기자] 방송인 안선영이 사업가로 변신한 근황을 전했다. 19일 JTBC ‘짠당포’에선 안선영 염경환 박휘순이 게스트로 출연해 홈쇼핑 성공 신화를 소개했다. 최근 4층 규모의 신사옥을 지으며 사업가로 자리매김한 안선영은 “내가 방송 데뷔 23년차고 홈쇼핑은 21년차다. 연예인 홈쇼핑 1세대로서 뷰티나 헬스 케어, 다이어트 용품 위주의 상품]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[日 인기 배우 아카소 에이지, 10월 첫 내한 팬미팅]]></title>
-        <id>https://v.daum.net/v/20230919234142655</id>
-        <link href="https://v.daum.net/v/20230919234142655"/>
-        <updated>2023-09-19T15:11:31.574Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 | 김수진 기자]  아카소 에이지 / 사진제공=트라이스톤 엔터테인먼트 일본 인기 배우 아카소 에이지가 한국을 처음 찾는다. 아카소 에이지는 10월 21~22일 서울 광운대학교 동해문화예술관에서 '2023 에이지 아카소 팬미팅(2023 Eiji Akaso Fanmeeting ~My very first time in Korea! FYI, I lik]]></content>
     </entry>
 </feed>
