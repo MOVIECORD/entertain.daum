@@ -2,11 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-09-20T09:11:15.795Z</updated>
+    <updated>2023-09-20T10:12:02.937Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[‘무빙’ 韓 히어로의 해피엔딩, 시즌2 기다릴게요]]></title>
+        <title type="html"><![CDATA['1947 보스톤' 임시완·박은빈, 이 커플 또 보고 싶다]]></title>
+        <id>https://v.daum.net/v/20230920181304727</id>
+        <link href="https://v.daum.net/v/20230920181304727"/>
+        <updated>2023-09-20T10:11:39.759Z</updated>
+        <content type="html"><![CDATA[[텐아시아=최지예 기자]배우 임시완은 적어도 스크린에서는 유독 러브라인에 목마른 배우다. 드라마 '런, 온', '아무것도 하고 싶지 않아' 등에서 배우 신세경, 설현 등과 러브라인을 선보이긴 했지만, 임시완은 비교적 러브라인이 많지 않았던 배우에 속한다.&nbsp; 임시완이 영화 '1947 보스톤'에서 풋풋하고 사랑스러운 러브라인의 주인공이 됐다. 체지방 6%의]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘무빙’ 韓 히어로의 끝판, 시즌2 기다릴게요]]></title>
         <id>https://v.daum.net/v/20230920180802561</id>
         <link href="https://v.daum.net/v/20230920180802561"/>
         <updated>2023-09-20T09:10:51.580Z</updated>
@@ -62,7 +69,7 @@
         <content type="html"><![CDATA[[뉴스엔 배효주 기자] 박찬욱 감독이 "솔직하고 충실하게 오락에 집중한 영화"라며 '천박사 퇴마 연구소: 설경의 비밀'을 향한 극찬을 보냈다. 9월 27일 개봉하는 영화 '천박사 퇴마 연구소: 설경의 비밀'(감독 김성식)은 귀신을 믿지 않지만 귀신 같은 통찰력을 지닌 가짜 퇴마사 ‘천박사’(강동원)가 지금껏 경험해본 적 없는 강력한 사건을 의뢰받으며 시작]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA['1947 보스톤' 하정우x김상호, 10월 7~8일 무대인사 간다]]></title>
+        <title type="html"><![CDATA['1947 보스톤' 하정우→김상호, 10월 7~8일 무대인사 간다]]></title>
         <id>https://v.daum.net/v/20230920163722209</id>
         <link href="https://v.daum.net/v/20230920163722209"/>
         <updated>2023-09-20T08:13:54.044Z</updated>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230920155923546"/>
         <updated>2023-09-20T07:10:52.085Z</updated>
         <content type="html"><![CDATA[[티브이데일리 최하나 기자] 실패할지라도 도전을 두려워하지 않는다. 좋은 영화를 만들어 관객들에게 보여줘야 한국 영화에도 발전이 있다고 믿기 때문이다. 배우 송강호의 이야기다. 영화 ‘거미집’(감독 김지운)은 1970년대, 다 찍은 영화 ‘거미집’의 결말만 바꾸면 걸작이 될 거라 믿는 김열 감독(송강호)이 검열, 바뀐 내용을 이해하지 못하는 배우와 제작자]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[올추석은 강동원과 ‘천박사’ 개봉 7일전 예매율 전체 1위]]></title>
-        <id>https://v.daum.net/v/20230920154743065</id>
-        <link href="https://v.daum.net/v/20230920154743065"/>
-        <updated>2023-09-20T07:10:52.085Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 배효주 기자] '천박사 퇴마 연구소: 설경의 비밀'이 개봉 일주일 전부터 예매율 1위를 차지하고 있다. 9월 20일 영화진흥위원회 통합전산망 집계에 따르면 이날 오후 2시 기준 영화 '천박사 퇴마 연구소: 설경의 비밀'(감독 김성식)이 사전 예매량 6만4,886명을 기록하며 전체 1위를 차지했다. '천박사 퇴마 연구소: 설경의 비밀'은 귀신을 믿]]></content>
     </entry>
 </feed>
