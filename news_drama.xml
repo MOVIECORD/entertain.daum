@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-09-21T03:11:34.826Z</updated>
+    <updated>2023-09-21T04:13:11.311Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김진우, 죽여서 버린 전처 ‘도플갱어’ 한지완에 집착→강율과 날선 대립]]></title>
+        <id>https://v.daum.net/v/20230921122659778</id>
+        <link href="https://v.daum.net/v/20230921122659778"/>
+        <updated>2023-09-21T04:12:54.033Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 이슬기 기자] 김지완과 강율이 한지원을 두고 날선 대립을 보였다. 9월 20일 방송된 KBS 2TV 일일드라마 '우아한 제국'(연출 박기호, 극본 한영미) 31회에서는 강율과 재회 이후 또다시 이별을 준비하는 한지완의 이야기가 그려졌다. 앞서 정우혁(강율 분)은 죽은 줄만 알았던 신주경이 바로 서희재(한지완 분)였음을 알게 됐고, 두 사람은 서로]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[권상우 "♥손태영, 내 작품 까다롭게"…막내딸 등장에 미소]]></title>
         <id>https://v.daum.net/v/20230921121002337</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230921104908228"/>
         <updated>2023-09-21T02:17:00.376Z</updated>
         <content type="html"><![CDATA[[OSEN=하수정 기자] 권상우가 아내 손태영이 '한강'을 어떻게 봤냐는 반응에 "확실한 얘기를 안 해 준다"며 미소를 보였다. 21일 오전 온라인 생중계를 통해 디즈니+ 오리지널 시리즈 '한강'의 주연 배우 권상우의 인터뷰가 진행됐다.&nbsp; '한강'(감독 김상철, 제공 월트디즈니 컴퍼니 코리아, 제작 아크미디어·영화사 필름몬스터)은 한강을 불철주야 지키는]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["이래서 유이, 유이한다!"..'효심이네' 성실의 아이콘 유이의 히노애락]]></title>
-        <id>https://v.daum.net/v/20230921103618612</id>
-        <link href="https://v.daum.net/v/20230921103618612"/>
-        <updated>2023-09-21T01:43:33.940Z</updated>
-        <content type="html"><![CDATA[[OSEN=최나영 기자]&nbsp;“이래서&nbsp;유이,&nbsp;유이한다!" KBS 2TV&nbsp;주말드라마&nbsp;‘효심이네 각자도생’(연출 김형일,&nbsp;극본 조정선,&nbsp;제작 아크미디어)이 우당탕탕 가족 이야기부터 티격태격 혐관 로맨스의 시작,&nbsp;흥미진진한 재벌가의 미스터리까지 다채로운 재미로 주말을 순삭했다.&nbsp; 그 가운데,&nbsp;타이틀롤&nbsp;‘이효심’&nbsp;역의&nbsp;유이에게 호평이 이어지고 있다.&nbsp;밝고 건강한]]></content>
     </entry>
 </feed>
