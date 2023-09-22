@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-09-21T23:11:15.943Z</updated>
+    <updated>2023-09-22T00:46:08.789Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“난 양성애자 아냐” 라미 말렉, 15살 연하 ‘논바이너리’ 엠마 코린과 열정적 키스 “불꽃 로맨스”]]></title>
+        <id>https://v.daum.net/v/20230922091203103</id>
+        <link href="https://v.daum.net/v/20230922091203103"/>
+        <updated>2023-09-22T00:46:08.010Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]영화 ‘보헤미안 랩소디’로 아카데미 남우주연상을 거머쥔 라미 말렉(42)이 자신이 남성도 여성도 아닌 논바이너리라고 커밍아웃한 엠마 코린(27)과 불꽃 로맨스를 시작했다. 데일리메일은 21일(현지시간) 말렉과 코린이 공원에서 데이트를 하는 동안 키스하는 사진을 공개했다. 말렉은 자신이 양성애자가 아니라고 밝힌 바 있다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[오프라 윈프리 "몸무게 한때 107㎏…25년간 수치심 느껴"]]></title>
         <id>https://v.daum.net/v/20230922075018199</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230921162201310"/>
         <updated>2023-09-21T08:15:17.115Z</updated>
         <content type="html"><![CDATA[[TV리포트=강성훈 기자] 마블 시리즈에서 스파이더맨을 연기한&nbsp;톰 홀랜드(Tom Holland·27)가 부상을 당했던 일화에 대해 얘기했다. 톰 홀랜드가 스파이더맨 역을 따낼 수 있었던 요인 중 하나는 그의 '아크로바틱' 기술이었다. 마블에 캐스팅된 후, 그는 '스파이더맨' 세트장에서 최고의 연기를 보여주기 위해 적극적으로 훈련에 임했다. 액션신이 많은 히]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['방탄 친구' 할시, 새 남친 사귀어...길거리서 '화끈 키스']]></title>
-        <id>https://v.daum.net/v/20230921154100310</id>
-        <link href="https://v.daum.net/v/20230921154100310"/>
-        <updated>2023-09-21T07:10:44.888Z</updated>
-        <content type="html"><![CDATA[[TV리포트=유비취 기자] 방탄소년단과 협업해 국내에서도 잘 알려진 가수 할시가 결별 5개월 만에 새로운 사랑을 시작했다. 20일(현지 시간) 영국 매체 데일리메일에 따르면 할시(28)는 최근 배우 에반 조기아(31)와 교제를 시작했다. 이들은 지난 18일 미국 로스앤젤레스에서 데이트를 즐기는 모습이 목격됐다. 할시와 에반 조기아는 최근 몇 달 동안 함께]]></content>
     </entry>
 </feed>
