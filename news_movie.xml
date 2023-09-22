@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-09-22T06:14:38.465Z</updated>
+    <updated>2023-09-22T07:10:37.681Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['거미집' 전여빈, "연기의 원초적 매력? 현장에서 희열이 느껴질 때"]]></title>
+        <id>https://v.daum.net/v/20230922152102843</id>
+        <link href="https://v.daum.net/v/20230922152102843"/>
+        <updated>2023-09-22T07:10:13.885Z</updated>
+        <content type="html"><![CDATA[[텐아시아=이하늘 기자] 영화 '거미집'의 배우 전여빈은 연기의 원초적인 매력에 대해서 설명했다.&nbsp; 전여빈은 22일 서울 종로구 삼청동에 위치한 한 카페에서 영화 '거미집'(감독 김지운) 관련 인터뷰에 나섰다. '거미집'은 1970년대, 다 찍은 영화 ‘거미집’의 결말만 바꾸면 걸작이 될 거라 믿는 김열 감독(송강호)이 검열, 바뀐 내용을 이해하지 못]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[전여빈 "정수정, 어떻게 안 사랑해…대립 연기 마음 안 좋아"]]></title>
         <id>https://v.daum.net/v/20230922145002786</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230922122336158"/>
         <updated>2023-09-22T04:13:17.140Z</updated>
         <content type="html"><![CDATA[[스포티비뉴스=강효진 기자] '거미집'의 전여빈이 송강호와 연기 호흡을 맞추며 "부끄럽고 싶지 않았다"고 밝혔다. 영화 '거미집'의 전여빈이 개봉을 앞둔 22일 오전 삼청동의 한 카페에서 스포티비뉴스와 만나 영화에 대한 다양한 이야기를 전했다. 이날 전여빈은 "강호 선배님과 지운 감독님과 인연이 되게 깊지 않나. 지금까지로 치면 25년인데 몇 해 전]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘거미집’ 정수정 “언니 제시카, 서로 평가 안 해..그래서 사이 좋은듯”]]></title>
-        <id>https://v.daum.net/v/20230922121723014</id>
-        <link href="https://v.daum.net/v/20230922121723014"/>
-        <updated>2023-09-22T04:13:17.142Z</updated>
-        <content type="html"><![CDATA[[OSEN=김채연 기자] 배우 정수정이 언니 제시카가 해준 응원을 전했다. 22일 오전 정수정은 서울시 종로구 소격동 한 카페에서 영화 ’거미집’ 개봉을 앞두고 인터뷰를 진행했다. ‘거미집’(배급 바른손이앤에이, 제작 앤솔로지 스튜디오, 공동제작 바른손 스튜디오·루스이소니도스)은 1970년대 다 찍은 영화 거미집의 결말만 바꾸면 걸작이 될 거라 믿는 김]]></content>
     </entry>
 </feed>
