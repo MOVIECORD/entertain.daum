@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2023-09-22T16:13:35.032Z</updated>
+    <updated>2023-09-22T17:09:53.605Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[연매출 25억 ‘석갈비 장인’의 합숙 솔루션]]></title>
+        <id>https://v.daum.net/v/20230923014057854</id>
+        <link href="https://v.daum.net/v/20230923014057854"/>
+        <updated>2023-09-22T17:09:48.024Z</updated>
+        <content type="html"><![CDATA[경기 의정부시의 정육점 식당을 찾아간다. 은현장은 환풍 시설과 고기 쇼케이스가 없는 점을 지적한다. 음식 맛을 본 제이쓴은 씹던 고기를 뱉고 짠맛이 강한 음식에 혹평한다. 연 매출 25억 원의 석갈비 장인이 8일간의 합숙 훈련으로 솔루션을 진행한다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[디오 "이수현 같은 여동생이 있으면 진짜 귀여워해 줄 것"]]></title>
         <id>https://v.daum.net/v/20230923011100750</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230922233434232"/>
         <updated>2023-09-22T15:11:22.760Z</updated>
         <content type="html"><![CDATA[[스포츠조선닷컴 이지현 기자] 가수 코드 쿤스트가 '토.달.볶'의 맛에 대해 평가했다. 22일 방송된 MBC '나 혼자 산다'의 오프닝에서는 지난주 '토.달.볶 논란'에 대해 이야기했다. 지난 방송에서 인피니트 김성규가 먹었던 '토마토 달걀 볶음'에 대해 몰랐던 코드 쿤스트는 "주말에 먹어 봤다. 그냥 달걀이랑 토마토가 따뜻하더라"고 평가했다]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['SNL 코리아' 눈치 챙겨..수어 비하→인종차별 논란 어쩌나]]></title>
-        <id>https://v.daum.net/v/20230922233424231</id>
-        <link href="https://v.daum.net/v/20230922233424231"/>
-        <updated>2023-09-22T15:11:22.762Z</updated>
-        <content type="html"><![CDATA[[OSEN=김수형 기자]&nbsp;'SNL 코리아4'가 시즌2 때 수어 비하논란에 이어, 뜻하지 않게&nbsp;인종차별 논란에 휩싸였다.&nbsp; 22일, 공개된 'SNL 코리아 시즌 4-위켄드 업데이트'&nbsp;코너에서&nbsp;배우 윤가이가 맡은 응웨이 기자 역이 문제가 됐다. 해당 코너에서 윤가이는 베트남 기자라는 새로운 콘셉트를 선보였고, 한국에 온 지 약 6개월도 안 된 설정으로&nbsp;어눌]]></content>
     </entry>
 </feed>
