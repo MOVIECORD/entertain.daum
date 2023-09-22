@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-09-22T10:11:43.445Z</updated>
+    <updated>2023-09-22T11:09:21.998Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['꼰대 유교보이' 로운→'중매의 신' 조이현..'혼례대첩', 조선판 러브액츄얼리 예교]]></title>
+        <id>https://v.daum.net/v/20230922195119190</id>
+        <link href="https://v.daum.net/v/20230922195119190"/>
+        <updated>2023-09-22T11:09:04.010Z</updated>
+        <content type="html"><![CDATA[[OSEN=박소영 기자] KBS&nbsp;새 월화드라마&nbsp;‘혼례대첩’&nbsp;로운-조이현-박지영-조한철-이해영-최희진-진희경-정신혜-박지원-정보민-오예주-박환희-허남준-손상연-최경훈-김동호 등이 첫 만남부터&nbsp;‘VVIP급’&nbsp;매칭으로 인정받은&nbsp;‘대본 리딩’&nbsp;현장을 공개했다. 오는&nbsp;10월&nbsp;30일(월)&nbsp;첫 방송 예정인&nbsp;KBS 2TV&nbsp;새 월화드라마&nbsp;‘혼례대첩’(극본 하수진,&nbsp;연출]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[한지민, 할아버지 양재성 장례식장서 상복 입고 깊은 슬픔]]></title>
         <id>https://v.daum.net/v/20230922181805533</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230922145704020"/>
         <updated>2023-09-22T06:14:20.744Z</updated>
         <content type="html"><![CDATA[‘순정복서’가 위로와 공감을 선물하고 있다. KBS2 월화드라마 ‘순정복서’(극본 김민주 / 연출 최상열, 홍은미 / 제작 에이스메이커무비웍스, 코너스톤, 블레이드ENT)는 살기 위해 승부조작 경기를 계획한 에이전트 김태영(이상엽 분)과 복싱과 진짜 이별하기 위해 사각의 링으로 돌아온 천재 복서 이권숙(김소혜 분)의 승부조작 탈출기를 그린다. 비록 저조한]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SBS, 아시안게임 개막식 대신 ‘7인의 탈출’ 살리기 총력]]></title>
-        <id>https://v.daum.net/v/20230922144218465</id>
-        <link href="https://v.daum.net/v/20230922144218465"/>
-        <updated>2023-09-22T06:14:20.746Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 이민지 기자] SBS가 금토드라마 '7인의 탈출' 살리기에 집중한다. 제19회 항저우 아시안게임이 9월 23일부터 10월 8일까지 진행된다. 23일 중국 저장성에 위치한 항저우올림픽 스포츠센터 스타디움에서 개막식이 진행될 예정이다. 지상파 3사와 TV조선, SPOTV 등이 중계에 나선 가운데 SBS가 개막식 생중계를 포기해 눈길을 끌고 있다.]]></content>
     </entry>
 </feed>
