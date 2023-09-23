@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-09-23T02:14:56.975Z</updated>
+    <updated>2023-09-23T03:10:51.282Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[오토, 당신은 행복한 사람입니다]]></title>
+        <id>https://v.daum.net/v/20230923113902028</id>
+        <link href="https://v.daum.net/v/20230923113902028"/>
+        <updated>2023-09-23T03:10:26.913Z</updated>
+        <content type="html"><![CDATA[[우현주 기자] *이 글에는 영화 내용이 일부 포함되어 있습니다. &nbsp;▲ "오토라는 남자"&nbsp;"오토라는 남자" 영화 포스터.ⓒ 소니픽처스코리아&nbsp; 안 늙을 줄 알았다. '동안'이란 소리도 꽤 들었고, 학생 때나 지금이나 옷 입는 스타일도 그다지 바뀐 게 없고, 요즘 세대의 취향도 잘 따라간다고 생각했다. 무엇보다 부모님들이 건재하시니 그 앞에서는 여전히 철들지]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[형인혁 감독 ‘차박’이 해외 배급사로 공개된 까닭은?]]></title>
+        <id>https://v.daum.net/v/20230923113656999</id>
+        <link href="https://v.daum.net/v/20230923113656999"/>
+        <updated>2023-09-23T03:10:26.918Z</updated>
+        <content type="html"><![CDATA[지난 5월 다양한 한국 영화가 칸국제영화제에 초청된 가운데, 칸 필름 마켓에서 저력을 보여준 작품이 있다. 신예 형인혁 감독의 첫 장편 영화 ‘차박-살인과 낭만의 밤’(이하 ‘차박’)이 그것. ‘차박’은 평온한 일상, 사랑하는 아내, 모든 것이 완벽했던 한 남자가 결혼기념일을 맞아 떠난 차박 여행에서 낯선 인기척과 함께 순식간에 악몽 같은 사건에 휘말리게]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['화란' 홍사빈이 쏘고 송중기가 밀고…여운 긴 하드보일드 성장 누아르]]></title>
+        <id>https://v.daum.net/v/20230923111610743</id>
+        <link href="https://v.daum.net/v/20230923111610743"/>
+        <updated>2023-09-23T03:10:26.918Z</updated>
+        <content type="html"><![CDATA[[이데일리 스타in 김보영 기자] 영화 ‘화란’(감독 김창훈)은 폭력의 대물림과 소외의 굴레를 벗어나지 못한 소년들의 이야기다. 소외된 이들의 눅진하고 비참한 삶, 인간의 본성을 거스르는 인물들의 극단적 선택을 처절하고 사실적으로 그린다. 아무리 발버둥쳐도 폭력의 세계를 벗어날 수 없는 주인공들. 보호의 사각지대에 놓인 이들을 위해 우리 어른들은 무엇을]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘유괴의 날’ 김제영 작가, 유쾌하게 전하는 ‘따뜻한’ 메시지]]></title>
         <id>https://v.daum.net/v/20230923105623554</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20230923080020725"/>
         <updated>2023-09-22T23:10:09.593Z</updated>
         <content type="html"><![CDATA[[스포츠서울 | 함상범 기자] 영화감독 김열(송강호 분)은 눈만 감으면 표독스러운 이민자(임수정 분)가 떠오른다. ‘거미집’이란 영화를 찍었는데, 아무리 생각해도 흔하디 흔한 치정극으로 밖에 느껴지지 않아서다. 괴로움에 도통 잠을 이루지 못한다. 김열이 만든 영화는 전형적인 통속극이다. 영화 속 이민자는 돈 많은 집안에 시집 갔지만 남편 강호세(오정세]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[홍사빈·송중기 '화란' 스산하게 온몸 휘감는 느와르…다크한 감성에 '푹']]></title>
-        <id>https://v.daum.net/v/20230923080010710</id>
-        <link href="https://v.daum.net/v/20230923080010710"/>
-        <updated>2023-09-22T23:10:09.594Z</updated>
-        <content type="html"><![CDATA[[스포츠한국 조은애 기자] 만약 그때 그 사람을&nbsp;만나지 않았더라면, 그 일만 없었더라면 달라졌을까. 삶이&nbsp;묘하고&nbsp;비정한 이유는&nbsp;모든 일은&nbsp;뜻대로 되지 않고, 불청객처럼 찾아온 우연이 인생을 통째로 바꾸는 필연이 되기도 하는 탓이다. 영화 '화란'(감독 김창훈)의 연규(홍사빈) 역시 꼬일 대로 꼬여가는 상황 속에서&nbsp;끊임없이&nbsp;발버둥친다. 영화는 지독한]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['화란'으로 돌아온 송중기.."초보 아빠, 子 너무 빨리 커요"]]></title>
-        <id>https://v.daum.net/v/20230923080002694</id>
-        <link href="https://v.daum.net/v/20230923080002694"/>
-        <updated>2023-09-22T23:10:09.604Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 | 메가박스 코엑스=김나연 기자] 송중기 / 사진=김창현 기자배우 송중기가 아들 출산에 대해 기쁜 마음을 숨기지 않았다. 22일 서울시 강남구 메가박스 코엑스에서 영화 '화란'(감독 김창훈)의 언론배급시사회가 개최됐다. 이 자리에는 김창훈 감독을 비롯해 배우 홍사빈, 송중기, 김형서(비비)가 참석해 다양한 이야기를 나눴다. '화란'은 지옥]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘느와르병’ 송중기의 지옥탈출, ‘화란’]]></title>
-        <id>https://v.daum.net/v/20230923073306503</id>
-        <link href="https://v.daum.net/v/20230923073306503"/>
-        <updated>2023-09-22T23:10:09.606Z</updated>
-        <content type="html"><![CDATA[어두운 분위기보다 마음은 더 무겁고 우울하다. 잔혹함의 수위는 높지만, 감흥 지수는 낮다. 폭력 그 이상의 무엇도 보여주지 못한, 새로울 것 없이 그저 서늘한, ‘느와르병’에 잔뜩 걸린 송중기(치건)의 지옥탈출, ‘화란’이다. 18살 소년 연규(홍사빈)에게 하루 하루는 지옥이다. 존재만으로 공포 그 자체인 의붓 아버지는 술만 마시면 야구방망이를 휘두른다.]]></content>
     </entry>
 </feed>
