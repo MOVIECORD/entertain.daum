@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-09-23T07:09:32.042Z</updated>
+    <updated>2023-09-23T08:12:37.138Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[전여빈 "김지운-송강호와 작업, 꿈 같은 일... 실망감 주고 싶지 않았다"]]></title>
+        <id>https://v.daum.net/v/20230923170129264</id>
+        <link href="https://v.daum.net/v/20230923170129264"/>
+        <updated>2023-09-23T08:12:13.624Z</updated>
+        <content type="html"><![CDATA[김지운 감독의 신작 '거미집'에서 재촬영을 밀어붙이는 신성필림의 후계자이자 재정담당 '신미도'를 연기한 전여빈을 만났다. '신미도'는 '김감독'의 스승인 거장 ‘신감독’의 조카이자 신성필림 창립자인 ‘신 회장’의 딸로 일본 유학파다. 숙모인 제작자 ‘백 회장’이 일본 출장 간 사이, ‘김감독’의 수정 대본을 읽고 걸작을 예감, 무조건 지지를 보내는 유일한]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['1947 보스톤' 시사, 관객은 왜 박수를 쳤나]]></title>
         <id>https://v.daum.net/v/20230923160106366</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230923095400867"/>
         <updated>2023-09-23T01:41:22.247Z</updated>
         <content type="html"><![CDATA[[원종빈 기자] * 이 글에는 영화의 스포일러가 있습니다.&nbsp; 레이싱 게임 '그란 투리스모'의 덕후 '잔 마든보로'(아치 매덱)에게 꿈만 같은 기회가 찾아온다. 게이머를 레이싱 선수로 탈바꿈시키는 소니와 닛산의 야심 찬 프로젝트, '그란 투리스모 콘테스트'에 참가할 자격이 주어진 것. 잔은&nbsp;혹독한 훈련을 버텨 내고, 치열한 경쟁을 이겨낸다. 아버지의 반대 때]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[가장 위험하지만 매혹적인 도전 '결혼'에 대하여]]></title>
-        <id>https://v.daum.net/v/20230923093601686</id>
-        <link href="https://v.daum.net/v/20230923093601686"/>
-        <updated>2023-09-23T00:43:46.500Z</updated>
-        <content type="html"><![CDATA[[임영하 기자] &nbsp;▲ &nbsp;아내가 애기중지하는 좌우명 현판. 영화 &lt;잠&gt;ⓒ 롯데엔터테인먼트&nbsp; 세계적인 감독이 "이 영화는 최근 10년간 본 영화 중 가장 유니크한 공포영화이며, 스마트한 데뷔작"이라고 극찬한다면 그 평가에 저항하기는 쉽지 않을 것이다. '빙의' '몽유병' 등 호기심 자극하는 키워드에 혹하기도 하고, 봉준호 감독의 호평이 과연 맞는지 확인차, 코]]></content>
     </entry>
 </feed>
