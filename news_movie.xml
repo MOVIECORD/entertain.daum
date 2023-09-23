@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-09-23T04:12:24.325Z</updated>
+    <updated>2023-09-23T05:09:45.616Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['거미집' 전여빈 "칸 스태프가 전한 미담? 오히려 도움 받았는데…"]]></title>
+        <id>https://v.daum.net/v/20230923133710967</id>
+        <link href="https://v.daum.net/v/20230923133710967"/>
+        <updated>2023-09-23T05:09:19.428Z</updated>
+        <content type="html"><![CDATA[[스포츠조선 안소윤 기자] 배우 전여빈이 제76회 칸 국제영화제의 비하인드를 공개했다. 전여빈은 22일 서울 종로구 삼청동 한 카페에서 스포츠조선과 만나 "칸 영화제에 도착했을 때 마치 옆동네 영화 마을로 소풍을 간 기분이었다"라고 했다. '거미집'은 지난 5월 열린 제76회 칸 국제영화제 비경쟁 부문에 공식 초청돼 전 세계의 뜨거운 관심]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['거미집' 전여빈 "영화의 핵심 메시지는 '중꺽마', 내 인생에서도 중요한 키워드"]]></title>
+        <id>https://v.daum.net/v/20230923132726907</id>
+        <link href="https://v.daum.net/v/20230923132726907"/>
+        <updated>2023-09-23T05:09:19.430Z</updated>
+        <content type="html"><![CDATA[김지운 감독의 신작 '거미집'에서 재촬영을 밀어붙이는 신성필림의 후계자이자 재정담당 '신미도'를 연기한 전여빈을 만났다. '신미도'는 '김감독'의 스승인 거장 ‘신감독’의 조카이자 신성필림 창립자인 ‘신 회장’의 딸로 일본 유학파다. 숙모인 제작자 ‘백 회장’이 일본 출장 간 사이, ‘김감독’의 수정 대본을 읽고 걸작을 예감, 무조건 지지를 보내는 유일한]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[1위 ‘잠’, 추석 접전 앞둔 극장가]]></title>
         <id>https://v.daum.net/v/20230923124725606</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230923085422164"/>
         <updated>2023-09-23T00:43:46.502Z</updated>
         <content type="html"><![CDATA[(서울=뉴스1) 고승아 기자 = 영화 '잠'이 17일째 박스오피스 1위를 수성했다. 23일 영화진흥위원회 영화관입장권통합전산망의 집계에 따르면 '잠'은 지난 22일 3만7934명의 관객을 동원하며 박스오피스 1위를 기록했다. 누적관객수는 118만7286명이다. 지난 6일 개봉해 17일 연속으로 박스오피스 정상을 기록 중인 '잠'은 행복한 신혼부부 현수(]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[비틀고 뒤튼 '거미집', 앙상블이란 이런 것]]></title>
-        <id>https://v.daum.net/v/20230923084301084</id>
-        <link href="https://v.daum.net/v/20230923084301084"/>
-        <updated>2023-09-23T00:43:46.504Z</updated>
-        <content type="html"><![CDATA[[편집자주] 영화를 보는 김나연 기자의 사적인 시선. [스타뉴스 | 김나연 기자] 거미집 / 사진=바른손이앤에이새롭고, 도발적이다. 두 편의 영화를 한 번에 본 듯한 '거미집'은 늘 봐왔던 영화의 흐름을 비틀고 뒤튼다. 여기에 연기력에 의심의 여지가 없는 배우들의 앙상블이 빛나는 '거미집'이다. 1970년대 꿈도 예술도 검열당하던 시대. 성공적이었던 데]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['1947 보스톤' 임시완이 느낀 국대의 자세 "아찔했던 경험"]]></title>
-        <id>https://v.daum.net/v/20230923083503013</id>
-        <link href="https://v.daum.net/v/20230923083503013"/>
-        <updated>2023-09-23T00:43:46.511Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 | 윤상근 기자] 영화 '1947 보스톤'(감독 강제규)의 배우 임시완이 21일 진행된 라운드 인터뷰를 위해 포즈를 취하고 있다. /사진제공=롯데엔터테인먼트 2023.09.21 확실히 진중해진 모습이었다. 배우 임시완에게 '1947 보스톤'은 여러모로 배울 점이 많은 작품이었다. 실제 자신의 마라톤 경험을 떠올리며 촬영에 임하고 극한의 고통]]></content>
     </entry>
 </feed>
