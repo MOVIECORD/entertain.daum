@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2023-09-23T01:41:42.197Z</updated>
+    <updated>2023-09-23T02:14:56.974Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘득남 후 첫 공식일정’ 송중기, ♥케이티를 사로잡은 미소천사]]></title>
+        <id>https://v.daum.net/v/20230923105923573</id>
+        <link href="https://v.daum.net/v/20230923105923573"/>
+        <updated>2023-09-23T02:14:50.347Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 유용주 기자] 배우 송중기가 9월 22일 오후 서울 강남구 메가박스 코엑스에서 열린 영화 '화란' 언론배급시사회에 참석했다. 송중기는 이날 간담회에서 연회색 수트 패션으로 부드러운 분위기를 연출했다. 이어 그는 "어떤 이미지를 얻고 싶다는 바람은 내려놓은지 오래다. 제 바람대로 안 되더라"면서도 "그러나 제가 너무나 하고 싶었던 색깔과 정서의 작]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[전현무X허재X김병현X이천수X조정식, 성황각에서 ‘서호결의’ 다짐]]></title>
+        <id>https://v.daum.net/v/20230923104558420</id>
+        <link href="https://v.daum.net/v/20230923104558420"/>
+        <updated>2023-09-23T02:14:50.356Z</updated>
+        <content type="html"><![CDATA[[동아닷컴] ‘조선체육회’가 ‘무국장’ 전현무의 합류와 함께 항저우 심층 탐방을 이어갔다. 22일 방송된 ‘조선체육회’ 8회에서는 위기에 빠진 멤버들을 구원하기 위해 전현무가 극비리(?)에 중국 항저우 공항에 등장했다. 전현무는 “리포팅하는 것 보니까 너무 엉망이던데…심각성을 모르는 것 같아”라며 웃음기 없는 얼굴로 진지하게 멤버들의 지난 리포팅 실력을]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[정준하, ‘놀뭐’ 하차 뒤끝 작렬 “하차통보는 처음..계속 하고 싶은데 잘려”]]></title>
         <id>https://v.daum.net/v/20230923103924352</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230923095955932"/>
         <updated>2023-09-23T01:41:36.317Z</updated>
         <content type="html"><![CDATA[[스포츠조선 이정혁 기자]"그런데 엄기준은 언제 나오나요?" 딸을 죽이라는 황정음. 존속살해 지시라니 선을 넘어도 너무 심하게 넘었다. 이가운데 주인공 엄기준이 3회가 끝날 때까지 등장하지 않으면서, 시청자 게시판엔 "매튜리 안나오나요?"라며 초반 엄기준 분량 실종에 대해 유감을 나타내고 있다. 22일 방송된 SBS 금토드라마 '7인의 탈출]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[송중기 “첫 아들 건강하게 잘 크고 있어… 좋은 아빠 되고파”]]></title>
-        <id>https://v.daum.net/v/20230923095801919</id>
-        <link href="https://v.daum.net/v/20230923095801919"/>
-        <updated>2023-09-23T01:41:36.322Z</updated>
-        <content type="html"><![CDATA[송중기가 아기 아빠가 된 소감을 전했다. 지난 22일 서울 강남구 메가박스 코엑스에서는 영화 ‘화란’ 언론배급시사회가 진행됐다. 행사에는 배우 홍사빈, 송중기, 김형서와 김창훈 감독이 참석했다. 송중기는 JTBC ‘재벌집 막내아들’ 이후 10개월 만에 신작으로 돌아오게 됐다. 특히 지난 1월 영국 출신 배우 케이티 루이스 사운더스와 혼인 신고 및 임신]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[임영웅, 뉴진스 방탄소년단 제치고 9월 가수 브랜드평판 1위]]></title>
-        <id>https://v.daum.net/v/20230923095406870</id>
-        <link href="https://v.daum.net/v/20230923095406870"/>
-        <updated>2023-09-23T01:41:36.325Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 박수인 기자] 가수 임영웅이 9월 가수 브랜드평판 1위에 올랐다. 한국기업평판연구소는 2023년 8월 23일부터 9월 23일까지의 가수 브랜드 빅데이터 102,128,705개를 분석하여 소비자들의 브랜드 참여, 미디어, 소통, 커뮤니티 분석을 했다. 지난 8월 가수 브랜드 빅데이터 120,103,200개와 비교하면 14.97% 줄어들었다. 가수]]></content>
     </entry>
 </feed>
