@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-09-23T08:12:37.138Z</updated>
+    <updated>2023-09-23T09:09:24.417Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['천박사' 이솜, 퇴폐적인 매력부터 발랄함까지 연기하는 천생 연기자]]></title>
+        <id>https://v.daum.net/v/20230923180103207</id>
+        <link href="https://v.daum.net/v/20230923180103207"/>
+        <updated>2023-09-23T09:09:01.623Z</updated>
+        <content type="html"><![CDATA[[텐아시아=이하늘 기자] 퇴폐적인 매력부터 통통 튀는 발랄함을 지닌 배우 이솜은 묘한 매력으로 관객들을 끌어당기는 힘이 있다. 영화, 드라마 속 배역과는 달리 낯가림이 심하다는 이솜은 자신에게 없는 부분들을 연기하며 해소되는 것들이 있다고 연기의 매력을 언급했다. '천박사 퇴마 연구소'를 통해 오컬트를 도전해본 이솜은 액션, 히어로물들의 장르들에도 도전하]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[전여빈 "김지운-송강호와 작업, 꿈 같은 일... 실망감 주고 싶지 않았다"]]></title>
         <id>https://v.daum.net/v/20230923170129264</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230923101101087"/>
         <updated>2023-09-23T01:41:22.247Z</updated>
         <content type="html"><![CDATA[[스타뉴스 | 김나연 기자] 사진=바른손이앤에이식상한 것이 아닌 새로운 것을 찾아가는 여정, 한국 영화계를 대표하는 배우 송강호는 더 먼 곳을 바라보고 한 걸음씩 나아가고 있었다. 최근 서울시 종로구 소격동의 한 카페에서 영화 '거미집'(감독 김지운)의 배우 송강호와 만나 다양한 이야기를 나눴다. '거미집'은 1970년대, 다 찍은 영화 '거미집'의]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[레이싱 선수가 된 게이머, '실화'라서 더 놀랍다]]></title>
-        <id>https://v.daum.net/v/20230923095400867</id>
-        <link href="https://v.daum.net/v/20230923095400867"/>
-        <updated>2023-09-23T01:41:22.247Z</updated>
-        <content type="html"><![CDATA[[원종빈 기자] * 이 글에는 영화의 스포일러가 있습니다.&nbsp; 레이싱 게임 '그란 투리스모'의 덕후 '잔 마든보로'(아치 매덱)에게 꿈만 같은 기회가 찾아온다. 게이머를 레이싱 선수로 탈바꿈시키는 소니와 닛산의 야심 찬 프로젝트, '그란 투리스모 콘테스트'에 참가할 자격이 주어진 것. 잔은&nbsp;혹독한 훈련을 버텨 내고, 치열한 경쟁을 이겨낸다. 아버지의 반대 때]]></content>
     </entry>
 </feed>
