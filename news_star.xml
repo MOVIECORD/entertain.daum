@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2023-09-24T19:08:24.403Z</updated>
+    <updated>2023-09-24T20:10:42.135Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[정소민, 양세찬 허세 폭로 "내가 자기 좋아한다고 확신해"]]></title>
+        <id>https://v.daum.net/v/20230925045003772</id>
+        <link href="https://v.daum.net/v/20230925045003772"/>
+        <updated>2023-09-24T20:10:36.271Z</updated>
+        <content type="html"><![CDATA[(서울=뉴스1) 이아영 기자 = 정소민이 양세찬의 허세를 폭로하며 유재석을 선택했다. 24일 방송된 SBS '런닝맨'에는 배우 강하늘 정소민이 출연했다. 하루만 여자 역할인 지석진은 이혼했다는 설정을 붙였다. 남자들에게는 비밀로 해달라고 했다. 지석진은 강하늘 같은 사람이 이상형이라고 했고 전소민은 자신도 그렇다고 하며 경쟁 구도를 형성했다. 전소민은]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘연기 장인’ 오정세 “내 매력? 나도 여전히 모르겠다”]]></title>
         <id>https://v.daum.net/v/20230925040437610</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230924234642465"/>
         <updated>2023-09-24T15:09:44.610Z</updated>
         <content type="html"><![CDATA[(서울=뉴스1) 이아영 기자 = '돌싱글즈4'에서 총 세 커플이 탄생했다. 24일 방송된 MBN '돌싱글즈4'에서는 최종 선택 결과가 공개됐다. 첫 번째 순서는 희진이었다. 희진의 관람차에 지미가 탔다. 지미는 희진에게 출연할 용기를 내줘서 고맙다고 말했다. 그리고 "어떻게 되든 네가 있어서 좋았다"고 말했다. 희진은 "나도 진심으로 많이 의지했다"고]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['힙하게' 수호, 살인범 아니었다 → 위기의 한지민 구하고 사망]]></title>
-        <id>https://v.daum.net/v/20230924234607458</id>
-        <link href="https://v.daum.net/v/20230924234607458"/>
-        <updated>2023-09-24T15:09:44.612Z</updated>
-        <content type="html"><![CDATA[[티브이데일리 김진석 인턴기자] '힙하게' 연쇄살인범으로 의심만 받던 수호가 한지민을 구했다. 24일 밤 방송된 JTBC 주말드라마 '힙하게'(극본 이남규·연출 김석윤) 14회에선 김선우(수호)가 봉예분(한지민)을 위해 희생하는 장면이 방송됐다. 이날 문장열(이민기)은 장미 무늬 칼을 지닌 괴한을 만났다. 문장열은 "딱 봐도 전광식(박노식)은 아니네. 이제]]></content>
     </entry>
 </feed>
