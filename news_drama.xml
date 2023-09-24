@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-09-24T01:49:51.711Z</updated>
+    <updated>2023-09-24T02:19:17.893Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘아라문의 검’ 반토막 시청률 2.2% 어쩌나…개막식 중계 직격탄]]></title>
+        <id>https://v.daum.net/v/20230924111513355</id>
+        <link href="https://v.daum.net/v/20230924111513355"/>
+        <updated>2023-09-24T02:19:00.209Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 황혜진 기자] tvN 토일드라마 ‘아라문의 검’ 시청률이 반토막 났다. 시청률 조사 회사 닐슨코리아에 따르면 9월 23일 2회 연속 방송된 '아라문의 검' 5회와 6회는 각각 3.5%, 2.2%(닐슨코리아 유료 플랫폼 전국 기준) 시청률을 기록했다. 12부작으로 제작되는 '아라문의 검'은 매주 토요일과 일요일 오후 9시 20분 방송되는 tvN ']]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘마스크걸’ 이수미 “나나는 살아 있는 배우, 때리는 연기 조심스러웠다”]]></title>
         <id>https://v.daum.net/v/20230924104613806</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230924082918912"/>
         <updated>2023-09-24T00:48:34.160Z</updated>
         <content type="html"><![CDATA[[OSEN=박근희 기자] '효심이네 각자도생’ 유이와 하준의 대립했다. 23일 전파를 탄 KBS 2TV 주말드라마 ‘효심이네 각자도생’에서는 헬스트레이너 이효심(유이 분)이 회원 강태호(하준 분)에 일침을 가하는 모습이 그려졌다. 헬스장으로 들어온 강태호를 본 이효심은 “어서오세요 오늘부터 강태호씨 운동을 맡은 이효심입니다 잘부탁드립니다”라며 인사를 했]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“이덕화 출렁다리서 추락死”… 연인 신은경과 며느리 황정음이 밀어 ‘충격’]]></title>
-        <id>https://v.daum.net/v/20230924082825902</id>
-        <link href="https://v.daum.net/v/20230924082825902"/>
-        <updated>2023-09-24T00:48:34.163Z</updated>
-        <content type="html"><![CDATA[[OSEN=박근희 기자] '7인의 탈출’ 금라희(황정음 분)와 차주란(신은경 분)이 방칠성(이덕화 분)을 출렁다리 아래로&nbsp;추락하게 만들었다. 23일 전파를 탄 SBS 금토드라마 ‘7인의 탈출’에서는 세상을 충격에 휩싸이게 했던 ‘방울이 사건’ 이후의 이야기가 공개됐다. 아들을 임신했다는 소식에 차주란은 방칠성에게 “거봐요. 건강하다잖아요. 제가 나름 얼]]></content>
     </entry>
 </feed>
