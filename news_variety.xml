@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/variety</id>
     <title>다음 연예 ─ 뉴스 ─ 예능</title>
-    <updated>2023-09-24T04:12:52.531Z</updated>
+    <updated>2023-09-24T05:09:58.027Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[권은비, 덱스와 묘한 기류…물 들어올 때 노 젓는 '글로벌 퀸']]></title>
+        <id>https://v.daum.net/v/20230924131521333</id>
+        <link href="https://v.daum.net/v/20230924131521333"/>
+        <updated>2023-09-24T05:09:46.270Z</updated>
+        <content type="html"><![CDATA[[OSEN=장우영 기자] 가수 권은비가 일상의 털털함과 무대 위 카리스마로 '반전 매력'을 뽐냈다. 권은비는 23일 오후 방송된 MBC '전지적 참견 시점'에서 '글로벌 퀸'의 리얼 일상을 낱낱이 공개했다. 이날 스튜디오에 모습을 드러낸 권은비는 가을 하늘처럼 밝고 화사한 비주얼로 등장부터 시선을 사로잡았다. 요즘 바쁘지 않냐는 질문에 "그렇다"라며 근]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김종민 vs 딘딘, 기싸움…살벌한 경고에 복수의 칼날]]></title>
         <id>https://v.daum.net/v/20230924122749591</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230924102032405"/>
         <updated>2023-09-24T01:49:40.268Z</updated>
         <content type="html"><![CDATA[[뉴스엔 황혜진 기자] 한국살이 16년 차 발렝땅이 대기업 팀장 자리까지 오를 수 있었던 비결을 공개한다. 9월 25일 방송되는 MBC에브리원 ‘어서와 한국살이는 처음이지’에서 발렝땅 팀장의 막걸리 양조장에서의 특별한 회식 이야기가 공개된다. 발렝땅은 지난주 K-대기업 직장인의 일상으로 화제를 모았다. 평소 막걸리 만들기가 취미라고 밝힌 발렝땅은 이날 회]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“어떡해 눈물나” 돌싱녀 하차 전 돌발행동에 이지혜 울음 터졌다]]></title>
-        <id>https://v.daum.net/v/20230924101042263</id>
-        <link href="https://v.daum.net/v/20230924101042263"/>
-        <updated>2023-09-24T01:49:40.269Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 황혜진 기자] MBN 예능 '돌싱글즈4' 출연자 10인이 충격 반전을 선사한다. MBN 측은 9월 24일 "이날 오후 9시 30분 방송되는 ‘돌싱글즈4’에서 미국 돌싱남녀 10인의 ‘최종 선택’을 모두 공개한다"고 예고했다. 미국 돌싱남녀 듀이-리키-베니타-소라-제롬-지미-지수-톰-하림-희진의 동거 전 최종 선택을 담으며 150분 특별 편성되는]]></content>
     </entry>
 </feed>
