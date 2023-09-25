@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-09-25T20:11:35.277Z</updated>
+    <updated>2023-09-25T21:09:44.476Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김동호 BIFF 전 이사장 "韓 영화 위기, 캠페인 등 머리 맞대야"②]]></title>
+        <id>https://v.daum.net/v/20230926060053936</id>
+        <link href="https://v.daum.net/v/20230926060053936"/>
+        <updated>2023-09-25T21:09:22.364Z</updated>
+        <content type="html"><![CDATA[김동호 전 부산국제영화제·강릉국제영화제 이사장(사진=이영훈 기자)[이데일리 스타in 김보영 기자] 35년간 한국 영화의 세계화를 위해 국제 교류에 힘써온 김동호 전 부산국제영화제 이사장은 “현재 극장들은 관객 감소로 인해 심각한 위기 상황에 직면해 있다”며 “관객들의 발길을 극장으로 돌리기 위한 캠페인 활동이 필요한 시점”이라고 주장했다. 위기상황을 타]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김동호 BIFF 전 이사장 "외국인 축구감독처럼…영화제도 바꿔야"①]]></title>
+        <id>https://v.daum.net/v/20230926060049924</id>
+        <link href="https://v.daum.net/v/20230926060049924"/>
+        <updated>2023-09-25T21:09:22.364Z</updated>
+        <content type="html"><![CDATA[김동호 전 부산국제영화제·강릉국제영화제 이사장(사진=이영훈 기자)[이데일리 스타in 김보영 기자] “축구, 배구 등 스포츠는 외국인 감독 초빙이 흔한 일인데 왜 영화제는 왜 그러지 못합니까.” 김동호 전 부산국제영화제(BIFF) 이사장은 국내 영화제가 지방자치단체와 수뇌부의 사유화 논란에서 벗어나 세계적인 명성과 권위의 글로벌 이벤트로 거듭나려면 인사 쇄]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[할리우드 정상화 언제쯤?…"파업 배우들 복귀까진 시간 걸릴 것"]]></title>
         <id>https://v.daum.net/v/20230926022905574</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230925183003886"/>
         <updated>2023-09-25T10:11:42.538Z</updated>
         <content type="html"><![CDATA[[텐아시아=이하늘 기자] 영화 '30일'의 배우 강하늘은 넷플릭스 '오징어 게임2'에 출연하는 소감을 간단하게 언급했다. 강하늘은 25일 서울 종로구 삼청동에 위치한 카페에서 영화 '30일'(감독 남대중) 관련 인터뷰에 나섰다. 영화 '30일'은 '30일'은 드디어 D-30, 서로의 찌질함과 똘기를 견디다 못해 마침내 완벽하게 남남이 되기 직전에 동반]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘케이티♥’ 송중기 “팔불출 같은데”…아들 사진 ‘깜짝’ 공개]]></title>
-        <id>https://v.daum.net/v/20230925180301186</id>
-        <link href="https://v.daum.net/v/20230925180301186"/>
-        <updated>2023-09-25T09:11:46.538Z</updated>
-        <content type="html"><![CDATA[배우 송중기가 아내 케이티 루이스 사운더스에 대한 이야기를 솔직하게 전했다. 25일 오후 서울시 종로구 소격동 한 카페에서 송중기는 영화 ‘화란’(감독 김창훈) 관한 인터뷰를 진행했다. 송중기는 지난 1월 영국 출신 배우 케이티 루이스 사운더스와 혼인신고를 하고 6월 득남했다. 좋은 소식이 전해지기 전에 두 사람은 각종 루머로 힘든 나날을 보냈다. 그는 “]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[456만달러 상금, 역대 리얼리티 중 최고 ‘오징어게임:더 챌린지’ 11월22일 공개]]></title>
-        <id>https://v.daum.net/v/20230925175808006</id>
-        <link href="https://v.daum.net/v/20230925175808006"/>
-        <updated>2023-09-25T09:11:46.539Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 배효주 기자] '오징어 게임'이 456만 달러의 상금을 걸고 리얼 서바이벌 게임 '오징어 게임: 더 챌린지'로 돌아온다. 넷플릭스 '오징어 게임: 더 챌린지'가 11월 22일 공개된다. 전 세계에서 모인 456명의 참가자가 456만 달러의 상금을 차지하는 최후의 승자가 되기 위해 극악무도한 게임에 도전하는 서바이벌 예능이다. 공개된 티저 예고편은]]></content>
     </entry>
 </feed>
