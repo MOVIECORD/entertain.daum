@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2023-09-25T16:13:53.811Z</updated>
+    <updated>2023-09-25T17:10:22.910Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['무빙' 강풀, 무려 323일간 모은 현장 사진 대공개]]></title>
+        <id>https://v.daum.net/v/20230926020200545</id>
+        <link href="https://v.daum.net/v/20230926020200545"/>
+        <updated>2023-09-25T17:10:16.574Z</updated>
+        <content type="html"><![CDATA[[TV리포트=김연주 기자] 화려한 피날레를 장식한 디즈니 플러스 오리지널 '무빙'의 강풀 작가가 직접 촬영한 현장 스케치 포토와 최초로 공개하는 비하인드 코멘터리가 전격 공개됐다. 지난 20일 마지막 에피소드 공개 이후에도 '무빙'을 향한 뜨거운 관심이 이어지고 있다. 이에 힘입어 강풀 작가가 소장하고 있던 현장 비하인드가 공개돼 시선을 끈다. 강풀 작가]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[UDT 정종현 “전에 싸우던 대원들과 차원 달라” 이변 속출 참호 격투]]></title>
         <id>https://v.daum.net/v/20230926010007398</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230925235909851"/>
         <updated>2023-09-25T15:11:54.812Z</updated>
         <content type="html"><![CDATA[[마이데일리 = 이승록 기자] 걸그룹 뉴진스 멤버 하니가 이탈리아 밀라노에서 파격적인 스타일 변신을 선보였다. 뉴진스 하니는 최근 밀라노 패션위크에서 열린 명품 브랜드 G사의 패션쇼에 게스트로 참석했다. 이날 하니는 흰색 크롭티셔츠에 고급스러운 느낌이 물씬 풍기는 검정색 스커트를 차려입고, 강렬한 붉은색 구두를 매치한 채 카메라 앞에 섰다.  평소 뉴진]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김소혜, 이상엽에 깜짝 포옹 "왜 이렇게 늦에 왔어요"]]></title>
-        <id>https://v.daum.net/v/20230925235300809</id>
-        <link href="https://v.daum.net/v/20230925235300809"/>
-        <updated>2023-09-25T15:11:54.815Z</updated>
-        <content type="html"><![CDATA[[TV리포트=이지민 기자] '순정복서' 김소혜가 이상엽에 대한 반가움으로 이상엽을 격하게 끌어안았다. 25일 KBS2 월화드라마 ‘순정복서’에서는 식물원에서 김태영(이상엽)을 기다리는 이권숙(김소혜)의 모습이 그려졌다. 뒤늦게 식물원을 찾은 김태영은 두리번거리며 이권숙을 찾았다. 하지만 이권숙은 보이지 않았고 초조해지려는 찰나, 2층에서 “아저씨! 아저씨]]></content>
     </entry>
 </feed>
