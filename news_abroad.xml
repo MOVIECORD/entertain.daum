@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-09-25T01:46:25.979Z</updated>
+    <updated>2023-09-25T02:19:20.711Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['30일' 강하늘 "'연예인과 연애 NO' 선언 정정…운명의 상대 못 찾아"]]></title>
+        <id>https://v.daum.net/v/20230925110900848</id>
+        <link href="https://v.daum.net/v/20230925110900848"/>
+        <updated>2023-09-25T02:19:19.621Z</updated>
+        <content type="html"><![CDATA[[스포티비뉴스=유은비 기자] '30일'의 강하늘이 결혼과 연애에 대한 생각을 밝혔다. 영화 '30일'의 배우 강하늘이 25일 오전 서울 삼청동의 한 카페에서 인터뷰를 갖고 작품에 대한 다양한 이야기를 전했다. "결혼생각이 아직 크지 않다"라고 답한 강하늘은 이유를 묻자 "운명의 상대를 찾지 못했다. 일을 더 하고 싶어서 결혼을 안 하는 야망 있는 스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[테일러 스위프트, 미식축구 선수와 열애설 '활활'..선수 母와 경기 관람]]></title>
         <id>https://v.daum.net/v/20230925102454768</id>
@@ -95,12 +102,5 @@
         <link href="https://v.daum.net/v/20230924140436267"/>
         <updated>2023-09-24T05:09:57.269Z</updated>
         <content type="html"><![CDATA[[뉴스엔 황혜진 기자] 그룹 스트레이 키즈 리더 방찬과 멤버 한, 창빈이 미국 대형 음악 페스티벌을 빛냈다. 방찬과 한, 창빈은 9월 24일 오전(한국시간) 미국 뉴욕 센트럴파크에서 열린 '2023 글로벌 시티즌 페스티벌'(Global Citizen Festival 2023)에 출연했다. 세 사람은 이번 공연을 위해 지난 21일 오전 인천국제공항을 통해]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["'성 착취' 쟈니스 배우 출연 드라마? 제작 안 해요"...日기업 줄 '보이콧']]></title>
-        <id>https://v.daum.net/v/20230924104940839</id>
-        <link href="https://v.daum.net/v/20230924104940839"/>
-        <updated>2023-09-24T01:49:50.846Z</updated>
-        <content type="html"><![CDATA[[OSEN=유수연 기자] 일본 대형기획사 쟈니스가 창업자 겸 전 사장인&nbsp;고(故) 쟈니 기타가와가 성착취 의혹에 휩싸여 논란이 된 가운데, 소속 배우가 주연하는 드라마의 제작이 중단되고 있다. 24일 일본 매체 스포니치아넥스 등의 보도에 따르면, 쟈니스 소속 배우가 주연을 맡은 내년 방송 예정의 드라마가 다수 제작이 중단되고 있다. 이에 한 관계자는 "드]]></content>
     </entry>
 </feed>
