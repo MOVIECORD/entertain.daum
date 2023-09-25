@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-09-25T10:12:06.157Z</updated>
+    <updated>2023-09-25T11:09:33.796Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[리조, '성추행' 의혹 딛고 '인도주의 상' 수상...진실은?]]></title>
+        <id>https://v.daum.net/v/20230925200100838</id>
+        <link href="https://v.daum.net/v/20230925200100838"/>
+        <updated>2023-09-25T11:09:32.963Z</updated>
+        <content type="html"><![CDATA[[TV리포트=김현재 기자] 성추행으로 2번이나 고소를 당한 리조가 '인도주의 상'을 받아 논란이 되고 있다. 미국의 유명한 팝스타 리조가 21일(현지 시간) 인도주의 상을 받았다. 리조는 "정말 감사합니다. 지금 제게 꼭 필요한 상이었거든요. 하나님의 타이밍이 딱 맞았어요. 이런 시기에 무슨 말을 해야 할지 몰라서 연설문을 쓰지 않았습니다"라며 자신이 처]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[드웨인 존슨 "유명세에 단점 없어…무명 때 집세도 못 냈다"]]></title>
         <id>https://v.daum.net/v/20230925190030522</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230925134030670"/>
         <updated>2023-09-25T05:10:56.612Z</updated>
         <content type="html"><![CDATA[[TV리포트=유비취 기자] 세계적인 라틴팝 가수 샤키라가 전남편의 외도에 배신감을 드러냈다. 샤키라는 끝까지 전남편을 믿었던 것으로 전해졌다. 지난 21일(현지 시간) 빌보드와의 인터뷰에서 샤키라(46)는 전남편 제라드 피케(36)와 11년 결혼 생활에 대해 솔직하게 털어놨다. 샤키라는 가정을 지키기 위해 제라드 피케를 믿었다고 밝혔다. 샤키라는 "나의 우]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[톰 크루즈 "잠 안 자려 노력...시간 아까워 보통 4~6시간 잔다"]]></title>
-        <id>https://v.daum.net/v/20230925130130579</id>
-        <link href="https://v.daum.net/v/20230925130130579"/>
-        <updated>2023-09-25T04:13:11.276Z</updated>
-        <content type="html"><![CDATA[[TV리포트=강성훈 기자] 슈퍼스타 톰 크루즈(61)의 위대한 경력에는 남다른 '수면 습관'이 뒷받침되고 있었다. 톰 크루즈는 고령에도 여전히 건재하다. 그는 영화 '미션 임파서블 7'(2023)에서 오토바이를 타고 절벽에서 떨어지고, '탑건:매버릭'(2022)에서 실제 전투기를 조종하는 등 위험한 스턴트를 직접 하는 것으로 유명하다.&nbsp; 24일(현지시간)]]></content>
     </entry>
 </feed>
