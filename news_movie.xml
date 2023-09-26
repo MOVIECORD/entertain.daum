@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-09-26T19:09:07.055Z</updated>
+    <updated>2023-09-26T20:12:07.878Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[미국에 핵폭탄 터뜨린 AI, 전쟁은 시작됐다 ‘크리에이터’]]></title>
+        <id>https://v.daum.net/v/20230927050013797</id>
+        <link href="https://v.daum.net/v/20230927050013797"/>
+        <updated>2023-09-26T20:11:42.670Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 배효주 기자] '크리에이터'가 질문을 던진다. AI는 과연 인간의 적일까, 혹은 인간보다 인간적일까. 10월 3일 개봉하는 영화 '크리에이터'(감독 가렛 에드워즈)는 고도화된 AI들에 의해 핵공격이 시작된 후, 특수부대 요원 '조슈아'(존 데이비드 워싱턴)가 인류를 위협할 무기인 아이 모습의 AI 로봇 '알피'(매들린 유나 보일)를 발견하면서 이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[테일러 스위프트 콘서트 영상, 내달 13일 100여개국서 동시 개봉]]></title>
         <id>https://v.daum.net/v/20230927030006721</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230926175528943"/>
         <updated>2023-09-26T09:11:04.105Z</updated>
         <content type="html"><![CDATA[[티브이데일리 황서연 기자] 배우 고윤이 '가문의 영광: 리턴즈'를 함께 촬영한 김수미를 향한 존경의 마음을 전했다. 25일 고윤과의 인터뷰가 티브이데일리 사옥에서 진행됐다. 이날 고윤은 최근 개봉한 영화 '가문의 영광: 리턴즈'를 비롯해 본지와 다양한 이야기를 나눴다. 지난 21일 개봉한 '가문의 영광: 리턴즈'는 잘나가는 스타 작가 대서(윤현민)와 가문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[유라 "추성훈과 액션, 힘 조절 안 돼 실제로 몸 날아가"]]></title>
-        <id>https://v.daum.net/v/20230926175250808</id>
-        <link href="https://v.daum.net/v/20230926175250808"/>
-        <updated>2023-09-26T09:11:04.106Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 김유진 기자) 가수 겸 배우 유라가 '가문의 영광: 리턴즈'에서 추성훈과 액션신을 찍으며 느꼈던 색달랐던 경험을 밝혔다. 유라는 26일 오후 서울 종로구 삼청동의 한 카페에서 열린 영화 '가문의 영광: 리턴즈' 인터뷰에서 다양한 이야기를 전했다. '가문의 영광: 리턴즈'는 잘나가는 스타 작가 대서(윤현민 분)와 가문의 막내딸 진경(유라)을 결]]></content>
     </entry>
 </feed>
