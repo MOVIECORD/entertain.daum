@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-09-26T03:11:53.972Z</updated>
+    <updated>2023-09-26T04:13:01.748Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[디카프리오, 어머니에 '25살 모델' 새 여친 소개...결혼하나]]></title>
+        <id>https://v.daum.net/v/20230926122600189</id>
+        <link href="https://v.daum.net/v/20230926122600189"/>
+        <updated>2023-09-26T04:13:00.935Z</updated>
+        <content type="html"><![CDATA[[TV리포트=유비취 기자] 배우 레오나르도 디카프리오가 25살 모델인 새 여자친구를 어머니에게도 소개했다. 그가 진지한 관계로 정착하고 있는 듯 보였다. 25일(현지 시간) 연예 매체 페이지식스에 따르면 레오나르도 디카프리오(48)와 비토리아 세레티(25)가 이탈리나 밀라노에 위치한 피나코테카 암브로시아나 박물관에서 포착됐다. 지난 24일 두 사람은 디카프]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뉴진스 하니, 러블리 흑발→시크 금발‥하루만에 180도 변신 ‘한계없는 매력’]]></title>
         <id>https://v.daum.net/v/20230926101815000</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230925200100838"/>
         <updated>2023-09-25T11:09:32.963Z</updated>
         <content type="html"><![CDATA[[TV리포트=김현재 기자] 성추행으로 2번이나 고소를 당한 리조가 '인도주의 상'을 받아 논란이 되고 있다. 미국의 유명한 팝스타 리조가 21일(현지 시간) 인도주의 상을 받았다. 리조는 "정말 감사합니다. 지금 제게 꼭 필요한 상이었거든요. 하나님의 타이밍이 딱 맞았어요. 이런 시기에 무슨 말을 해야 할지 몰라서 연설문을 쓰지 않았습니다"라며 자신이 처]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[드웨인 존슨 "유명세에 단점 없어…무명 때 집세도 못 냈다"]]></title>
-        <id>https://v.daum.net/v/20230925190030522</id>
-        <link href="https://v.daum.net/v/20230925190030522"/>
-        <updated>2023-09-25T10:12:05.218Z</updated>
-        <content type="html"><![CDATA[[TV리포트=유비취 기자] 배우 드웨인 존슨이 유명세에 대한 솔직한 발언으로 이목을 끌고 있다. 지난 23일 드웨인 존슨(51)은 소셜네트워크서비스를 통해 유명세의 장단점에 대해 털어놓는 영상을 공유했다. 그는 솔직하게 유명세에는 단점이 없다고 밝혔다. 드웨인 존슨은 "유명세의 단점은 단점이 없다는 것"이라면서 "나는 오랫동안 유명한 게 행운이라 생각한다.]]></content>
     </entry>
 </feed>
