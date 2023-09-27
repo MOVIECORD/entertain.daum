@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-09-27T21:10:00.117Z</updated>
+    <updated>2023-09-27T22:10:13.550Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘지젤 번천과 이혼’ 톰 브래디, “스트레스 줄어 4.5kg 살 빠져”]]></title>
+        <id>https://v.daum.net/v/20230928064207384</id>
+        <link href="https://v.daum.net/v/20230928064207384"/>
+        <updated>2023-09-27T22:10:12.597Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]슈퍼모델 지젤 번천(43)과 이혼한 ‘NFL의 전설’ 톰 브래디(46)가 은퇴 후 삶의 스트레스가 줄어 살이 빠졌다고 말했다. 총 7번의 슈퍼볼 챔피언을 차지한 브래디는 26일(현지시간) 팟캐스트 ‘렛츠고’에 출연해 “체중이 10파운드(4.5kg) 줄었지만 지금은 매우 건강하다”고 말했다. 그는 “선수 시절의 스트레스를]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[앤 헤서웨이, 4개월만에 확 달라진 레드카펫..40세 청초美 뚝뚝]]></title>
         <id>https://v.daum.net/v/20230927204022376</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230927120601115"/>
         <updated>2023-09-27T03:12:11.353Z</updated>
         <content type="html"><![CDATA[[TV리포트=유비취 기자] 가수 샤키라가 스페인에서 탈세 혐의로 두 번이나 지목당했다. 그는 280억 원이 넘는 규모의 탈세 의혹을 받고 있다. 26일(현지 시간) AP 뉴스에 따르면 스페인 검찰이 샤키라(46)를 세금 사기 혐의로 두 번째 기소했다. 탈세 혐의 재판이 예정된 상황에서 샤키라는 또 탈세 혐의를 받게 된 것이라 대중의 실망감도 크다. 앞서 샤]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美 경제 살린 ‘女가수’, 새 남친 경기장 떴더니 벌어진 ‘놀라운 일’]]></title>
-        <id>https://v.daum.net/v/20230927114500468</id>
-        <link href="https://v.daum.net/v/20230927114500468"/>
-        <updated>2023-09-27T03:12:11.355Z</updated>
-        <content type="html"><![CDATA[미국 팝스타 테일러 스위프트(33)와 열애설이 불거진 미식축구(NFL) 선수 트래비스 켈시(33)의 주가가 급등했다. ‘스위프트노믹스’(Swiftonomics·스위프트+이코노믹스)란 신조어를 만든 스위프트의 영향력이 남자친구에게도 통한 것. 테일러 스위프트는 지난 24일(이하 현지시간) 미주리주 캔자스시티의 애로우헤드 스타디움을 찾아 NFL 캔자스시티 치프]]></content>
     </entry>
 </feed>
