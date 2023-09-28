@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/variety</id>
     <title>다음 연예 ─ 뉴스 ─ 예능</title>
-    <updated>2023-09-28T05:10:41.192Z</updated>
+    <updated>2023-09-28T06:16:08.797Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘나솔사계’ 11기 영철, 13기 현숙 향한 마지막 불도저 직진]]></title>
+        <id>https://v.daum.net/v/20230928151009912</id>
+        <link href="https://v.daum.net/v/20230928151009912"/>
+        <updated>2023-09-28T06:15:56.318Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 배효주 기자] ‘나솔사계’에서 13기 현숙을 사이에 둔, 9기 영식과 11기 영철의 ‘삼각 로맨스 끝장전’이 펼쳐진다. 9월 28일 오후 10시 30분 방송하는 ENA와 SBS Plus의 ‘나는 SOLO, 그 후 사랑은 계속된다’에서는 13기 현숙과 9기 영식, 11기 영철의 위험천만 ‘2:1 데이트’가 공개된다. 이날 8인의 남녀들은 4주간의]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['13남매 장녀' 남보라 눈물..'꼭 닮은' 러블리 자매들 깜짝 선물]]></title>
         <id>https://v.daum.net/v/20230928135919148</id>
@@ -34,7 +41,7 @@
         <content type="html"><![CDATA[[스타뉴스 | 이경호 기자] KBS 2TV '신상출시 편스토랑'의 남보라./사진제공=KBS 2TV '신상출시 편스토랑''신상출시 편스토랑' 남보라가 훌쩍 큰 동생들의 진심에 감동받아 눈물을 보인다. 오는 29일 방송되는 KBS 2TV '신상출시 편스토랑'(이하 '편스토랑') 추석 특집에서는 13남매 장녀 남보라가 여느 때처럼 동생들을 위해 정성 가득 대용]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[이찬혁 '붕어빵' 엄마 공개.."우리 집엔 얼굴천재 없어" 팩폭]]></title>
+        <title type="html"><![CDATA[이찬혁∙수현 '붕어빵' 엄마 공개.."우리 집엔 얼굴천재 없어" 팩폭]]></title>
         <id>https://v.daum.net/v/20230928134323986</id>
         <link href="https://v.daum.net/v/20230928134323986"/>
         <updated>2023-09-28T05:10:26.663Z</updated>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230928121641820"/>
         <updated>2023-09-28T04:12:39.286Z</updated>
         <content type="html"><![CDATA[[뉴스엔 배효주 기자] “세 번 다녀왔습니다” 김혜영의 고백에 박원숙도 놀란다. 10월 1일 오전 9시 KBS 1TV '박원숙의 같이 삽시다'에서는 귀순 배우 1호 김혜영이 출연한다. 김혜영은 자매들에게 “꼭 만나고 싶었다”라며 인사를 나누는 순간부터 신난 모습을 보였다. 이어 자매들의 필수 질문인 결혼과 이혼 경력 물음에 “세 번 다녀왔어요”라고 답해]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['귀순 배우' 김혜영, 세번 결혼·이혼→식당 사업 실패]]></title>
-        <id>https://v.daum.net/v/20230928120622642</id>
-        <link href="https://v.daum.net/v/20230928120622642"/>
-        <updated>2023-09-28T03:11:09.546Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 | 이경호 기자] 배우 김혜영이 KBS 1TV '박원숙의 같이 삽시다'에 출연했다./사진제공=KBS 1TV '박원숙의 같이 삽시다' 귀순 배우 김혜영이 3번의 결혼 비하인드 스토리를 공개한다. 오는 10월 1일 방송될 KBS 1TV '박원숙의 같이 삽시다'(이하 '같이 삽시다')에서는 '귀순 배우 1호' 김혜영이 자매들(박원숙, 혜은이, 안소]]></content>
     </entry>
 </feed>
