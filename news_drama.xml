@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-09-28T04:12:51.594Z</updated>
+    <updated>2023-09-28T05:10:41.182Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['무빙' 류승룡 "나이 들기 전 원없는 액션, 치열하고 매력적"]]></title>
+        <id>https://v.daum.net/v/20230928140037191</id>
+        <link href="https://v.daum.net/v/20230928140037191"/>
+        <updated>2023-09-28T05:10:19.769Z</updated>
+        <content type="html"><![CDATA[[서울경제] 배우 류승룡에게 '무빙'은 강렬한 액션과 따듯한 감정으로 기억된다. 디즈니+ 오리지널 시리즈 '무빙'(극본 강풀/연출 박인제)은 초능력을 숨긴 채 현재를 살아가는 아이들과, 과거의 아픈 비밀을 숨긴 채 살아온 부모들이 시대와 세대를 넘어 닥치는 거대한 위험에 함께 맞서는 초능력 액션 히어로물이다. 류승룡이 연기한 장주원은 재생 능력을 지니고]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“언니 무리하지마” 가장 남보라, 동생들 진심에 눈물 왈칵]]></title>
+        <id>https://v.daum.net/v/20230928134140973</id>
+        <link href="https://v.daum.net/v/20230928134140973"/>
+        <updated>2023-09-28T05:10:19.771Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 배효주 기자] ‘신상출시 편스토랑’ 남보라가 훌쩍 큰 동생들의 진심에 감동받아 눈물을 보인다. 9월 29일 오후 5시 방송되는KBS 2TV ‘신상출시 편스토랑’에서는 13남매 장녀 남보라가 여느 때처럼 동생들을 위해 정성 가득 대용량 음식들을 만든다. 동생들을 먹이기 위해 늘 최선을 다해 요리하는 남보라, 그런 남보라를 누구보다 아끼고 사랑하고]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“멱살 잡게?” 김권, 재벌3세의 불륜 과몰입…유라 향한 순정파 ‘아이러니’]]></title>
         <id>https://v.daum.net/v/20230928123935100</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230928075502125"/>
         <updated>2023-09-27T23:10:13.266Z</updated>
         <content type="html"><![CDATA[[텐아시아=최지예 기자]‘이 연애는 불가항력’ 조보아, 로운이 거센 위기를 맞닥뜨렸다. 지난 27일 방송된 JTBC 수목드라마 ‘이 연애는 불가항력’(극본 노지설, 연출 남기훈) 11회에서는 끊어낼 수 없는 운명을 받아들인 이홍조(조보아 분)와 장신유(로운 분)의 달콤한 로맨스가 그려졌다. 그러나 바로 위기가 찾아왔다. 이홍조가 장신유, 권재경(하준 분)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['유괴의 날' 윤계상X유나, 최악의 변수..강영석 등장 '숨멎 엔딩']]></title>
-        <id>https://v.daum.net/v/20230928074158031</id>
-        <link href="https://v.daum.net/v/20230928074158031"/>
-        <updated>2023-09-27T23:10:13.269Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 | 이경호 기자] ENA 수목드라마 '유괴의 날' 5회./사진=ENA '유괴의 날' 5회 방송 캡처'유괴의 날' 윤계상, 유나가 최악의 변수를 맞았다. 지난 27일 방송된 ENA 수목드라마 '유괴의 날'(연출 박유영, 극본 김제영, 제작 에이스토리·KT스튜디오지니) 5회에서는 천재 아이 로희(유나 분)의 비밀이 밝혀졌다. 최진태(전광진 분)의]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[고아성 하차→고아라 합류 '춘화연애담', 재촬영 돌입]]></title>
-        <id>https://v.daum.net/v/20230928073101977</id>
-        <link href="https://v.daum.net/v/20230928073101977"/>
-        <updated>2023-09-27T23:10:13.269Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 | 이승훈 기자]  고아라 /사진=김창현 기자 chmt@'춘화연애담'이 재촬영을 시작했다. 28일 스타뉴스 단독 취재 결과, 티빙 오리지널 시리즈 '춘화연애담'은 지난 26일부터 재촬영에 돌입한 것으로 확인됐다. '춘화연애담'은 왕실 적통 공주인 화리공주가 남편을 직접 낙점하는 부마 직간택을 위해 세상 밖으로 나와 자유로운 연애를 즐기며]]></content>
     </entry>
 </feed>
