@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-09-29T04:13:11.689Z</updated>
+    <updated>2023-09-29T05:10:26.693Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘너시속’ 강훈 “사랑 vs 우정? 전 파이팅은 없어요”]]></title>
+        <id>https://v.daum.net/v/20230929133336084</id>
+        <link href="https://v.daum.net/v/20230929133336084"/>
+        <updated>2023-09-29T05:10:07.128Z</updated>
+        <content type="html"><![CDATA[선한 눈매에 ‘댕댕미’(강아지 같은 매력)가 살아있는 배우 강훈에겐, 사랑이 먼저냐 우정이 먼저냐란 문제는 굉장히 어려웠다. OTT플랫폼 넷플릭스 시리즈 ‘너의 시간 속으로’ 속 그가 분한 ‘인규’가 ‘시현’(안효섭)과 ‘민주’(전여빈) 사이를 오가며 팽팽한 긴장감을 자아낸 것과 달리 실제라면, 그는 포기 쪽에 가까웠을 거라고 했다. “사랑이란 감정은]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[강동원 '천박사' 추석극장가 1위…송강호 '거미집' 3위로]]></title>
         <id>https://v.daum.net/v/20230929130558743</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230929093023310"/>
         <updated>2023-09-29T00:46:09.336Z</updated>
         <content type="html"><![CDATA[[OSEN=연휘선 기자] 전국이 쉬어가는 황금 연휴, 오히려 문화계는 쉴 틈 없이 돌아간다. 휴일을 맞은 대중의 관심을 노리는 대목이기 때문. 배우 강동원도 하정우도 임시완도 마찬가지. 톱스타들도 예외 없이 무대인사를 돌며 발로 뛰며 '열일'하는 중이다. # 황금연휴=극장 성수기? 한국영화 대작 몰려온다 27일 영화 '거미집', '천박사 퇴마 연구소:]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[임시완 "광희와 여행 절대 NO…정해인과는 또 가기로"]]></title>
-        <id>https://v.daum.net/v/20230929093002291</id>
-        <link href="https://v.daum.net/v/20230929093002291"/>
-        <updated>2023-09-29T00:46:09.337Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 오승현 기자) 배우 임시완이 절친 광희·정해인과의 에피소드를 밝혔다. 지난 21일 임시완은 서울 종로구의 한 카페에서 진행된 영화 '1947 보스톤'(감독 강제규) 인터뷰에서 엑스포츠뉴스와 만났다. 그 당시 임시완은 웹 예능 '핑계고'에 광희와 함께 출연해 인터뷰와 영화 개봉에 앞서 한차례 화제가 됐다. 해당 영상에서 광희는 임시완이 동갑내기]]></content>
     </entry>
 </feed>
