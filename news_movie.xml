@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-09-29T08:14:21.240Z</updated>
+    <updated>2023-09-29T09:10:50.227Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘1947 보스톤’ 강제규 감독 “임시완 ‘불한당’ 보고 확신, 대안 없었다”]]></title>
+        <id>https://v.daum.net/v/20230929180934336</id>
+        <link href="https://v.daum.net/v/20230929180934336"/>
+        <updated>2023-09-29T09:10:30.749Z</updated>
+        <content type="html"><![CDATA[영화 ‘쉬리’, ‘태극기 휘날리며’를 연출한 강제규 감독이 신작 ‘1947 보스톤’으로 또 한 번 감동 실화를 전한다. 2015년 영화 ‘장수상회’ 이후 8년 만이다. 최근 서울 강남구에 위치한 영화사 엠메이커스 사무실에서 강제규 감독을 만났다. ‘1947 보스톤’은 &nbsp;1947년 광복 후 처음으로 태극마크를 달고 국제 대회에 출전하기 위한 마라토너들의]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“‘1947 보스톤’ 진부하다고요?”]]></title>
         <id>https://v.daum.net/v/20230929163851203</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230929110704635"/>
         <updated>2023-09-29T02:18:22.227Z</updated>
         <content type="html"><![CDATA[[스포츠투데이 임시령 기자] '천박사 퇴마 연구소: 설경의 비밀'이 추석 연휴 박스오피스 1위를 유지 중이다. 29일 영화진흥위원회 통합전산망(이하 영진위)에 따르면 지난 27일 개봉한 '천박사 퇴마 연구소: 설경의 비밀'은 전날 19만 377명을 동원하며 누적관객수 35만 6863명이 됐다. 이는 이틀 연속 박스오피스 1위다. 2위는 같은 날 개봉한 하정]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["롤모델, 전설"…'덤블도어' 갬본 별세에 해리포터 동료들 애도]]></title>
-        <id>https://v.daum.net/v/20230929104005345</id>
-        <link href="https://v.daum.net/v/20230929104005345"/>
-        <updated>2023-09-29T01:44:41.076Z</updated>
-        <content type="html"><![CDATA[(서울=연합뉴스) 이도연 기자 = 영화 '해리포터' 시리즈에서 호그와트의 교장 덤블도어 교수를 연기한 대배우 마이클 갬본이 28일(현지시간) 별세하자 함께 출연하거나 작업했던 동료들의 애도가 이어지고 있다. 그가 알버스 덤블도어를 연기했던 '해리 포터' 시리즈 영화 6편에서 갬본과 함께 했던 동료들은 일제히 위대한 배우를 애도했다고 영국 BBC 방송이 29]]></content>
     </entry>
 </feed>
