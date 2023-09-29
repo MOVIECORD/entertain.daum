@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-09-29T10:11:37.682Z</updated>
+    <updated>2023-09-29T11:09:20.007Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[봉준호의 후예들, 쪼그라든 韓영화 파이 늘릴 수 있을까]]></title>
+        <id>https://v.daum.net/v/20230929195202363</id>
+        <link href="https://v.daum.net/v/20230929195202363"/>
+        <updated>2023-09-29T11:08:56.236Z</updated>
+        <content type="html"><![CDATA[[텐아시아=최지예 기자]위기는 때때로 기회가 되기도 한다. 그리고 그 기회를 잡는 것은 기성세대가 아닌 새로운 세대일 때가 많다. 오랜 침체에 빠져 있는 한국 영화계지만, 새로운 얼굴들이 속속 등장하면서 신선한 바람이 불어들 것으로 기대가 모아진다.&nbsp; 새로운 얼굴의 주인공은 영화 '잠'의 유재선 감독과 '천박사 퇴마 연구소: 설경의 비밀'(이하 '천박사']]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['킹스맨' 감독 신작 '아가일', 완벽 스파이 VS 현실 착붙 스파이]]></title>
         <id>https://v.daum.net/v/20230929183417620</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230929113739956"/>
         <updated>2023-09-29T03:11:01.232Z</updated>
         <content type="html"><![CDATA[배우 송중기는 '화란'을 통해 좋은 어른의 모습에 대해 다시 한 번 생각해볼 수 있었다. 그가 생각하는 좋은 어른의 조건은 강한 책임감이다. 송중기는 최근 서울 종로구 삼청동 한 카페에서 진행된 인터뷰를 통해 영화 '화란'에 대한 다양한 이야기를 전했다. '화란'은 지옥 같은 현실에서 벗어나고 싶은 소년 연규(홍사빈)가 조직의 중간 보스 치건(송중기)을 만]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[절제의 미 보여준 '1947 보스톤', 상업영화 새 지평 열다]]></title>
-        <id>https://v.daum.net/v/20230929112401800</id>
-        <link href="https://v.daum.net/v/20230929112401800"/>
-        <updated>2023-09-29T03:11:01.234Z</updated>
-        <content type="html"><![CDATA[[전용준 기자] ▲ &nbsp;영화 &lt;1947 보스톤&gt; 포스터.ⓒ 롯데엔터테인먼트실화를 바탕으로 한 작품을 바라볼 때면 계속해서 되뇌이는 질문이 있다. 이 작품이 혹 모델이 된 인물을 과하게 왜곡시키지는 않았는가. 좋은 방향으로든 나쁜 방향으로든 제작자의 가치 판단으로 객관성이 훼손되지는 않았는가. 그에 따라 이 작품이 일종의 프로파간다로 기능하지는 않겠는가. 이제]]></content>
     </entry>
 </feed>

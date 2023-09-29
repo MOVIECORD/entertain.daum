@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/variety</id>
     <title>다음 연예 ─ 뉴스 ─ 예능</title>
-    <updated>2023-09-29T10:11:37.679Z</updated>
+    <updated>2023-09-29T11:09:19.993Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[송민경, 중독성 강한 퍼포먼스 ‘머선일이고’]]></title>
+        <id>https://v.daum.net/v/20230929191200967</id>
+        <link href="https://v.daum.net/v/20230929191200967"/>
+        <updated>2023-09-29T11:09:07.978Z</updated>
+        <content type="html"><![CDATA[가수 송민경이 해피 에너지를 선사했다. 송민경은 29일 오후 유튜브 채널 ‘ARIRANG K-POP’에서 생중계된 ‘심플리케이팝’에 출연해 흥 폭발 라이브를 선보였다. 송민경은 어깨가 훤히 드러나는 원피스에 검정 구두를 조합한 시크한 스타일링으로 등장해 첫 소절부터 트롯 팬들의 이목을 끌었다. 세련된 비주얼만큼이나 시시각각 변하는 다채로운 표정 연기는 무대]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['13남매' 남보라, 동생 남세빈 배우 데뷔→"행복한사람 되길" 편지 '오열']]></title>
         <id>https://v.daum.net/v/20230929184444710</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230929172902917"/>
         <updated>2023-09-29T09:10:40.093Z</updated>
         <content type="html"><![CDATA[[스타뉴스 | 김노을 기자] /사진=KBS 2TV 방송화면'편스토랑' 배우 한지혜가 아버지의 영상 편지에 눈물을 쏟았다. 29일 방송된 KBS 2TV 예능 프로그램 '신상출시 편스토랑'에서는 아버지로부터 생애 첫 미역국 선물을 받은 한지혜의 모습이 그려졌다. 이날 생일을 맞은 한지혜를 위해 미역국을 끓인 아버지는 영상 편지까지 썼다. /사진=KBS 2]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김호중, 연휴 첫날부터 'GREAT'…종편 시청률 1위 '화제성 입증']]></title>
-        <id>https://v.daum.net/v/20230929164804335</id>
-        <link href="https://v.daum.net/v/20230929164804335"/>
-        <updated>2023-09-29T08:14:09.468Z</updated>
-        <content type="html"><![CDATA[[OSEN=장우영 기자] 가수 김호중의 단독 콘서트 실황을 담은 ‘GREAT 김호중’이 높은 시청률을 기록하면서 추석 연휴 첫날 안방극장을 열기로 가득 채웠다. 29일 시청률 조사회사 닐슨코리아에 따르면 지난 28일 오후 10시 방송된 TV CHOSUN ‘GREAT 김호중’은 전국 가구 기준 1부 3.128%, 2부 3.846%, 3부 2.865%의 시]]></content>
     </entry>
 </feed>
