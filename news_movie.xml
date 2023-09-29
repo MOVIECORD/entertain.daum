@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-09-29T01:45:01.357Z</updated>
+    <updated>2023-09-29T02:18:44.999Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[강동원 '천박사' 35만 돌파, 추석 연휴 이틀 연속 1위]]></title>
+        <id>https://v.daum.net/v/20230929110704635</id>
+        <link href="https://v.daum.net/v/20230929110704635"/>
+        <updated>2023-09-29T02:18:22.227Z</updated>
+        <content type="html"><![CDATA[[스포츠투데이 임시령 기자] '천박사 퇴마 연구소: 설경의 비밀'이 추석 연휴 박스오피스 1위를 유지 중이다. 29일 영화진흥위원회 통합전산망(이하 영진위)에 따르면 지난 27일 개봉한 '천박사 퇴마 연구소: 설경의 비밀'은 전날 19만 377명을 동원하며 누적관객수 35만 6863명이 됐다. 이는 이틀 연속 박스오피스 1위다. 2위는 같은 날 개봉한 하정]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["롤모델, 전설"…'덤블도어' 갬본 별세에 해리포터 동료들 애도]]></title>
         <id>https://v.daum.net/v/20230929104005345</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230929084047737"/>
         <updated>2023-09-29T00:46:09.347Z</updated>
         <content type="html"><![CDATA[[OSEN=김보라 기자] '화사한 그녀' 엄정화와 방민아가 추석 인사를 전했다. '화사한 그녀'(감독 이승준, 제작 ㈜신영이엔씨・제이앤씨미디어그룹, 제공배급 제이앤씨미디어그룹)는 화사한 기술이 주특기인 전문 작전꾼 지혜(엄정화 분)가 마지막 큰 판을 계획하면서 의도치 않은 사건에 휘말리게 되는 범죄 오락 영화. 화사한 지혜를 연기한 엄정화는 29일 “화]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘스타 토크쇼’ 슬기로운 추석생활, 어른들 잔소리 안 듣는 방법은?]]></title>
-        <id>https://v.daum.net/v/20230929083215662</id>
-        <link href="https://v.daum.net/v/20230929083215662"/>
-        <updated>2023-09-29T00:46:09.348Z</updated>
-        <content type="html"><![CDATA[-[기획①] ‘스타 토크쇼’ 슬기로운 추석생활, 1인 가구 위한 꿀팁은?에서 이어집니다. 영화인들이 대통합 토크쇼 ‘슬기로운 추석생활’을 위해 뭉쳤다. 추석 극장가를 점하기 위해 출격하는 영화 ‘거미집’ 송강호, 오정세, 전여빈, 정수정, ‘1947 보스톤’ 하정우, 임시완, ‘천박사 퇴마 연구소: 설경의 비밀’ 강동원, 이솜, 그리고 ‘30일’의]]></content>
     </entry>
 </feed>
