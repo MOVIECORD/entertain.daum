@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-09-30T21:08:58.560Z</updated>
+    <updated>2023-09-30T22:09:24.123Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이유비, 7인과 집단 살해→정라엘 악몽.."내가 죽였다" 실토]]></title>
+        <id>https://v.daum.net/v/20231001062921750</id>
+        <link href="https://v.daum.net/v/20231001062921750"/>
+        <updated>2023-09-30T22:09:05.653Z</updated>
+        <content type="html"><![CDATA[[OSEN=박하영 기자] ‘7인의 탈출’ 7인이 지옥도를 탈출하기 위해 집단 살인을 서슴치 않았다. 무엇보다 이유비는 정라엘을 죽였다고 고백했다. 30일 방송된 SBS 금토드라마 ‘7인의 탈출’에서는 집단 살해 후 섬을 탈출한 한모네(이유비 분)가 악몽을 꾸는 모습이 그려졌다. 지옥도에 갇힌 상황에서 이들 앞에는 의문의 남성이 나타났다. 바로 이휘소(민]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이유비 마약 취해 살인 범죄, 정라엘 살해도 고백 ‘충격’]]></title>
         <id>https://v.daum.net/v/20231001060122409</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230930233721333"/>
         <updated>2023-09-30T15:09:42.710Z</updated>
         <content type="html"><![CDATA[(엑스포츠뉴스 오수정 기자) '7인의 탈출'에서 이유비가 추락했다.&nbsp; 30일 방송된 SBS 금토드라마 '7인의 탈출' 6회에서는 위기에 빠진 한모네(이유비 분)의 모습이 그려졌다.&nbsp; 이날 방송에서 악인들은 시신들을 유기하기 위해 외딴섬을 찾았다가 지옥의 맛을 봤다. 계속해서 들이닥치는 난관 속에서 악인들은 어떻게해서든 빠져나가기 위해 발버둥을 쳤고, 그런]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['7인의 탈출' 황정음, 엄기준 연장으로 해친 후 지옥도 탈출]]></title>
-        <id>https://v.daum.net/v/20230930232408283</id>
-        <link href="https://v.daum.net/v/20230930232408283"/>
-        <updated>2023-09-30T15:09:42.710Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 | 정은채 기자] /사진='7인의 탈출' 방송화면 캡쳐배우 황정음이 엄기준을 연장으로 해쳤다. 30일 방송된 SBS 금토드라마 '7인의 탈출'(극본 김순옥, 연출 주동민) 7회에서는 지옥도에 갇힌 금라희(황정음 분), 민도혁(이준 분), 한모네(이유비 분) 등의 일행이 갑자기 몰아친 물살에 휩쓸려 바닷가 근처로 떠내려갔다. 바닷가 근처에서 겨]]></content>
     </entry>
 </feed>
