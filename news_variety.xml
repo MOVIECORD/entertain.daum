@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/variety</id>
     <title>다음 연예 ─ 뉴스 ─ 예능</title>
-    <updated>2023-09-30T09:09:19.769Z</updated>
+    <updated>2023-09-30T10:10:08.641Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이찬원 "'목포의 눈물', 메가 히트곡…두 번 우승해"]]></title>
+        <id>https://v.daum.net/v/20230930190147004</id>
+        <link href="https://v.daum.net/v/20230930190147004"/>
+        <updated>2023-09-30T10:09:57.552Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 김나연 기자) '불후의 명곡' 이찬원이 김용임의 경연곡 '목포의 눈물'이 메가 히트곡이라 평가했다. 30일 방송된 KBS 2TV '불후의 명곡'(이하 '불후') 626회에서는 '故 손목인 편 전설 전쟁' 2부로 꾸며진 가운데 김용임, 김범룡, 이자연, 진시몬, 진성 등이 손목인 명곡으로 시청자들을 만났다. 이날 무대 세 번쨰 순서로 김용임이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[진성 "'트로트계 BTS', 죄송하지만 좋아…구석 가서 혼자 웃어"]]></title>
         <id>https://v.daum.net/v/20230930180325427</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230930155007623"/>
         <updated>2023-09-30T07:09:45.698Z</updated>
         <content type="html"><![CDATA[[티브이데일리 김진석 인턴기자] '부름부름 대행사'가 사상 최초 엄마 대행에 나선다. 30일 저녁 방송되는 JTBC 예능 프로그램 '부름부름 대행사'에서는 배우 윤유선이 '특별 부름이'로 출연해 천하장사 타이틀을 건 씨름선수 최희화의 일일 엄마로 변신한다. 결혼을 앞두고 있는 씨름선수 최희화는 '부름부름 대행사'에 엄마 대행을 의뢰한다. 이에 윤유선이 최희]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[두바이 국왕 이혼 위자료만 9천억→실베스타 스탤론의 막장 이혼사]]></title>
-        <id>https://v.daum.net/v/20230930152636277</id>
-        <link href="https://v.daum.net/v/20230930152636277"/>
-        <updated>2023-09-30T07:09:45.700Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 박수인 기자] 세상의 모든 막장 이혼이 공개됐다. 9월 30일 방송된 KBS Joy ‘차트를 달리는 남자’에서는 추석특집 '아름다운 이별은 없다 세계의 막장 이혼’ 차트가 공개됐다. 1위는 이혼 위자료만 9천억인 두바이 국왕의 사연이었다. 2021년 12월 세계를 들썩이게 만든 이혼 소식이 퍼졌다. 이혼의 주인공은 두바이 국왕 무함마드와 그의 6]]></content>
     </entry>
 </feed>
