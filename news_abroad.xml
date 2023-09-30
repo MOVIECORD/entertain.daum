@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-09-29T23:11:45.809Z</updated>
+    <updated>2023-09-30T00:45:19.802Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[제임스 카메론 부인한 '타이타닉 잠수정 참사' 영화, 만들어진다]]></title>
+        <id>https://v.daum.net/v/20230930093124389</id>
+        <link href="https://v.daum.net/v/20230930093124389"/>
+        <updated>2023-09-30T00:45:18.992Z</updated>
+        <content type="html"><![CDATA[[OSEN=최나영 기자]&nbsp;대서양 심해에서 탑승자 전원이 사망한 타이탄 잠수정 사고 비극이 영화로 만들어진다. 29일(현지시간) 피플 등 여러 매체는 마인드라이엇 엔터테인먼트와 프로듀서&nbsp;E.&nbsp;브라이언 돕빈스 등이&nbsp;팀을 이루어 현재 '샐비지드(구조, Salvaged)'라는 제목의 영화를 공동 제작하고 있다고 보도했다. 현재 대본 작업 중이다. '샐비지드'는]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['봉준호호 합류' 로버트 패틴슨 "'다이어트 중독' 인정..2주간 감자만 먹어" 충격]]></title>
         <id>https://v.daum.net/v/20230930080919630</id>
@@ -81,19 +88,5 @@
         <link href="https://v.daum.net/v/20230929095223636"/>
         <updated>2023-09-29T01:45:00.516Z</updated>
         <content type="html"><![CDATA[[OSEN=최나영 기자] 54세의 배우 제니퍼 애니스턴(Jennifer Aniston)이&nbsp;사이즈 2(44 사이즈)를 유지하기 위해 자신이 하는 네 가지 일을 밝히고 TV 시청에도 주의를 기울인다고 덧붙였다. 애니스톤은 최근 CR 패션북 23호와 진행한&nbsp;솔직한 새 인터뷰에서 그녀가 어떻게 그렇게 인상적인 몸매를 유지하는지에 대해 털어놨다. 그녀는 50대에]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["인생 롤모델" 레드클리프∙왓슨∙롤링..'해리포터' 덤블도어 사망 '추모']]></title>
-        <id>https://v.daum.net/v/20230929093025312</id>
-        <link href="https://v.daum.net/v/20230929093025312"/>
-        <updated>2023-09-29T00:46:32.898Z</updated>
-        <content type="html"><![CDATA[[OSEN=최나영 기자] 하늘의 별이 된 '해리포터' 시리즈의 배우 마이클 갬본에 동료 배우들의 추모가 이어지고 있다. 갬본의 사망 비보에 배우 다니엘 래드클리프, 루퍼트 그린트, 엠마 왓슨, 작가 J.K. 롤링 등이&nbsp;'해리포터' 스타 마이클 갬본의 넋을 기렸다. 28일(현지시간) 갬본의 사망 소식이 전해진 후, 세 명의 '해리포터' 시리즈 주연 배우이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘세번째 파경’ 브리트니 스피어스, 이번엔 식칼 들고 춤추다 신고]]></title>
-        <id>https://v.daum.net/v/20230929081510521</id>
-        <link href="https://v.daum.net/v/20230929081510521"/>
-        <updated>2023-09-29T00:46:32.901Z</updated>
-        <content type="html"><![CDATA[[스포츠서울 | 박효실기자] 최근 12세 연하의 남편 샘 아스가리와 결혼 1년만에 이혼 소식을 전한 팝스타 브리트니 스피어스(41)가 식칼을 들고 춤을 추다 경찰에 신고 당했다. 연예매체 페이지식스는 28일(현지시간) “브리트니 스피어스가 지난 27일 칼을 양손에 든 채 격렬한 춤을 추는 동영상을 올린 뒤 경찰이 안전 점검을 했다”라고 보도했다. 스피]]></content>
     </entry>
 </feed>
