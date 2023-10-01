@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-10-01T22:09:56.061Z</updated>
+    <updated>2023-10-01T23:10:24.114Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘거미집’ 송강호 “연출 도전? 배우하기도 벅차요”]]></title>
+        <id>https://v.daum.net/v/20231002075101951</id>
+        <link href="https://v.daum.net/v/20231002075101951"/>
+        <updated>2023-10-01T23:10:00.779Z</updated>
+        <content type="html"><![CDATA[한국을 대표하는 배우 송강호(56)가 이번엔 감독이 되어 돌아왔다. 송강호는 올해 칸 국제영화제 비경쟁 부문 초청작 ‘거미집’에서 걸작을 만들고자 하는 고군분투하는 영화 감독 김열을 연기했다. 영화는 1970년대 다 찍은 영화 ‘거미집’의 결말을 다시 찍으면 더 좋아질 거라는 강박에 빠진 감독이 검열 당국의 방해와 바뀐 내용을 이해하지 못하는 배우와 제작자]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[한가위 보름달처럼 활짝 웃은 강동원…'천박사', 주말 81만 불러모으며 100만 돌파]]></title>
+        <id>https://v.daum.net/v/20231002072802790</id>
+        <link href="https://v.daum.net/v/20231002072802790"/>
+        <updated>2023-10-01T23:10:00.783Z</updated>
+        <content type="html"><![CDATA[[텐아시아=최지예 기자]배우 강동원이 보름달처럼 환하게 웃었다.&nbsp;'천박사 퇴마 연구소: 설경의 비밀'(감독 김성식)이 주말 81만 관객 이상 관객을 불러모으며 개봉 5일째 100만 관객 돌파했다.&nbsp; 영화진흥위원회 영화관입장권통합전산망 39주차(9월29일~10월1일) 주말 박스오피스에 따르면&nbsp;'천박사 퇴마 연구소: 설경의 비밀'(이하 '천박사')은 81만7]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['거미집' 오정세, 연기로 증명한 캐스팅 수수께끼]]></title>
         <id>https://v.daum.net/v/20231002070603656</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20231001145325401"/>
         <updated>2023-10-01T06:13:14.152Z</updated>
         <content type="html"><![CDATA[[OSEN=하수정 기자] 개봉 전부터 시원하게 터지는 코미디로 입소문을 이어가고 있는 영화 '30일'(감독 남대중, 제공배급 ㈜마인드마크, 제작 영화사울림, 공동제작 티에이치스토리)이 오는 10월 3일 개봉을 앞둔 가운데, 연일 가파른 예매율 상승을 기록하며 올 추석 극장가의 흥행 다크호스로 주목받고 있다. '30일'은 드디어 D-30, 서로의 찌질함과]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["강동원, 사슴같은 눈망울...반짝이는 착각마저" '천박사' 감독의 기억]]></title>
-        <id>https://v.daum.net/v/20231001145009317</id>
-        <link href="https://v.daum.net/v/20231001145009317"/>
-        <updated>2023-10-01T06:13:14.156Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 김유진 기자) (인터뷰①에 이어) 김성식 감독이 '천박사 퇴마 연구소: 설경의 비밀'을 연출한다는 소식이 알려진 이후부터 '충무로의 복 받은 감독'이라는 수식어가 계속해서 따라다녔다. 원작인 웹툰 '빙의'는 물론 베테랑 제작사 외유내강,&nbsp;여기에 강동원, 허준호 등 탄탄한 배우진의 출연까지 김성식 감독에게 든든한 힘이 됐다. 김 감독은 "강]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['천박사' 감독 "10년 쫓아다니다 드디어...내가 아니면 누가?"]]></title>
-        <id>https://v.daum.net/v/20231001145002316</id>
-        <link href="https://v.daum.net/v/20231001145002316"/>
-        <updated>2023-10-01T06:13:14.158Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 김유진 기자) 김성식 감독이 영화 '천박사 퇴마 연구소'를 통해 상업영화에 데뷔했다.&nbsp; 27일 개봉해 상영 중인 '천박사 퇴마 연구소: 설경의 비밀'(이하 '천박사 퇴마 연구소')은 귀신을 믿지 않지만 귀신 같은 통찰력을 지닌 가짜 퇴마사 천박사(강동원 분)가 지금껏 경험해 본 적 없는 강력한 사건을 의뢰받으며 시작되는 이야기를 그린 영화다.]]></content>
     </entry>
 </feed>
