@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/variety</id>
     <title>다음 연예 ─ 뉴스 ─ 예능</title>
-    <updated>2023-10-01T08:13:01.039Z</updated>
+    <updated>2023-10-01T09:10:12.677Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[박민수 “진짜 한계 왔다” 역대급 음식 양에 녹화장 이탈 사태]]></title>
+        <id>https://v.daum.net/v/20231001171741300</id>
+        <link href="https://v.daum.net/v/20231001171741300"/>
+        <updated>2023-10-01T09:10:01.000Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 박수인 기자] 손태진-신성-에녹이 민수현, 박민수와 35인분의 식사를 해치울 수 있을까. 10월 3일 방송되는 MBN ‘장미꽃 필 무렵’(이하 장필무) 15회에서는 신에손과 민수현, 박민수가 미식의 도시 전라남도 광주의 재래시장에 모여 현지 먹거리 먹방을 펼치는 모습이 그려진다. 이날 손태진은 가슴팍에 ‘손슐랭 가이드’라는 글자가 크게 적힌 티셔]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['도적: 칼의 소리' 김남길 "무거운 시대 책임감, 관통하는 이야기 하고 싶었죠"]]></title>
         <id>https://v.daum.net/v/20231001163456755</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231001111607764"/>
         <updated>2023-10-01T02:24:09.349Z</updated>
         <content type="html"><![CDATA[[뉴스엔 이하나 기자] 박군, 한영 부부가 공동명의 하우스에서 지분 논쟁을 벌였다. 10월 2일 방송되는 SBS '동상이몽 시즌2 - 너는 내 운명‘(이하 ‘동상이몽’)에서는 초유의 갈등에 봉착한 박군, 한영 부부의 모습이 그려진다. 박군, 한영은 이사를 앞두고 극도로 예민해져 신경전을 벌인다. 그간 각종 애교를 선보이며 ‘아내 바보’ 면모를 드러냈던 8]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["녹화장 이탈 사태"…손태진→박민수, 35인분 먹방 도전했다가 '진땀']]></title>
-        <id>https://v.daum.net/v/20231001110101523</id>
-        <link href="https://v.daum.net/v/20231001110101523"/>
-        <updated>2023-10-01T02:24:09.352Z</updated>
-        <content type="html"><![CDATA[[텐아시아=김지원 기자] ‘장미꽃 필 무렵’ 손태진-신성-에녹이 민수현, 박민수와 무려 35인분의 식사를 논스톱으로 해치우는 ‘위대(胃大)한 도전’에 나선다. MBN ‘장미꽃 필 무렵’(이하 ‘장필무’)은 ‘신에손’ 손태진-신성-에녹이 ‘불타는 트롯맨’ 동생들과 함께 전국의 시청자들을 직접 찾아가 흥을 돋우고 다양한 체험을 접하는 로드 리얼리티쇼다. 오]]></content>
     </entry>
 </feed>
