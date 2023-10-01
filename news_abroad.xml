@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-10-01T00:53:48.777Z</updated>
+    <updated>2023-10-01T01:57:02.326Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“전부인 제니퍼 가너와 포옹을 해?” 제니퍼 로페즈, 벤 애플렉과 격한 부부싸움 포착]]></title>
+        <id>https://v.daum.net/v/20231001095653685</id>
+        <link href="https://v.daum.net/v/20231001095653685"/>
+        <updated>2023-10-01T01:57:01.355Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]‘세기의 거플’ 벤 애플렉(51)과 제니퍼 로페즈(54)가 부부싸움을 하는 장면이 목격됐다. 벤 애플렉이 전 부인 제니퍼 가너(51)와 포옹을 한 사실이 알려진 직후에 벌어진 일이다. 페이지식스는 9월 30일(현지시간) “애플렉과 로페즈가 29일 LA에서 차를 타고 이동하는 동안 긴장감이 감도는 모습이 포착됐다”고 보도했다]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[비버 전여친x현아내 만났다..셀레나 고메즈x헤일리 비버, 심장 쫄리는 만남]]></title>
         <id>https://v.daum.net/v/20231001094706579</id>
@@ -60,12 +67,5 @@
         <link href="https://v.daum.net/v/20230930113803934"/>
         <updated>2023-09-30T03:11:11.255Z</updated>
         <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]할리우드 스타 앤젤리나 졸리(48)가 패션 디자이너로 변신을 앞두고 소감을 밝혔다. 그는 29일(현지시간) ‘보그’와 인터뷰에서 “나는 거물급 패션 디자이너가 되고 싶지 않다”면서 “다른 사람들이 그렇게 될 수 있도록 집을 짓고 싶다”고 말했다. 졸리의 아틀리에는 뉴욕의 예술 애호가들 사이에서 유명한 '57 그레이트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['美전설 래퍼' 투팍 살인 용의자 27년 만 검거…유족 "정의 기다려왔다"]]></title>
-        <id>https://v.daum.net/v/20230930103017138</id>
-        <link href="https://v.daum.net/v/20230930103017138"/>
-        <updated>2023-09-30T01:42:27.849Z</updated>
-        <content type="html"><![CDATA[[OSEN=장우영 기자] 미국 힙합계 전설로 불리는 투팍 샤커 살인 사건 용의자가 27년 만에 체포됐다. 29일(현지시간) CNN 등에 따르면 미국 라스베이거스 경찰은 이날 오전 투팍 살인 용의자로 전 갱단 두목 듀언 키스 ‘케프 D’ 데이비스를 검거했다. 주 검찰은 대배심에서 ‘케프 D’에 대해 투팍 살해 사건과 관련해 흉기를 사용한 살인 혐의로 기소]]></content>
     </entry>
 </feed>
