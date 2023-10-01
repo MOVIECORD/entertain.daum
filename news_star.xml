@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2023-10-01T16:12:38.781Z</updated>
+    <updated>2023-10-01T17:10:07.661Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['힙하게' 연쇄 살인사건 진범 박혁권 결국 체포…한지민·이민기 재회]]></title>
+        <id>https://v.daum.net/v/20231002020325665</id>
+        <link href="https://v.daum.net/v/20231002020325665"/>
+        <updated>2023-10-01T17:10:01.501Z</updated>
+        <content type="html"><![CDATA[(서울=뉴스1) 강현명 기자 = '힙하게' 박혁권이 결국 체포됐다. 1일 오후 방송된 JTBC 토일드라마 '힙하게'(극본 이남규, 오보현, 김다희/연출 김석윤,최보윤) 최종회에서는 봉예분(한지민 분)과 문장열(이민기 분)이 연쇄 사건의 진범 박종배(박혁권 분) 체포에 성공하는 모습이 그려졌다. 봉예분은 배옥희(주민경 분)의 행방을 찾기 위해, 잡혀 온]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['힙하게' 종영, 한지민·이민기 사랑 잡았지만 기상천외 엔딩]]></title>
         <id>https://v.daum.net/v/20231002004607552</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231001234539283"/>
         <updated>2023-10-01T15:10:06.142Z</updated>
         <content type="html"><![CDATA[(서울=뉴스1) 고승아 기자 = '돌싱글즈4'에서는 제롬 베니타, 지미 희진, 리키 하림 커플의 동거 첫 날 모습이 공개됐다. 1일 오후 방송된 MBN 연애 예능 '돌싱글즈4'는 추석특집으로 이뤄져 현실 커플의 동거 모습이 전파를 탔다. 이날 방송에서 제롬과 베니타 커플은 제롬의 집인 로스앤젤레스 애너하임에서 동거를 시작했다. 제롬은 몰래 베니타를 픽업]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['힙하게' 박혁권, 한지민·이민기 농락해 경찰서 탈출]]></title>
-        <id>https://v.daum.net/v/20231001234123256</id>
-        <link href="https://v.daum.net/v/20231001234123256"/>
-        <updated>2023-10-01T15:10:06.143Z</updated>
-        <content type="html"><![CDATA[[티브이데일리 황서연 기자] '힙하게' 박혁권이 한지민과 이민기를 농락했다. 1일 밤 방송한 JTBC 주말드라마 '힙하게'(극본 이남규·연출 김석윤) 최종회에서는 문장열(이민기) 봉예분(한지민)이 박종배(박혁권)을 어쩔 수 없이 빼돌렸다. 이날 방송에서 봉예분은 취조실에서 박종배의 기억을 읽으려 했지만 읽히지 않았다. 박종배는 이를 예상했다는 듯 봉예분을]]></content>
     </entry>
 </feed>
