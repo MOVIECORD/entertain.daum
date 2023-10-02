@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-10-02T03:11:57.944Z</updated>
+    <updated>2023-10-02T04:13:12.550Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[추석 연휴, 한잔하실 건가요? 이게 최고입니다]]></title>
+        <id>https://v.daum.net/v/20231002124201659</id>
+        <link href="https://v.daum.net/v/20231002124201659"/>
+        <updated>2023-10-02T04:12:47.986Z</updated>
+        <content type="html"><![CDATA[6일간의 긴 추석 연휴, 가족과 함께 혹은 혼자 한잔하며 재충전할 시간을 계획하고 계신가요? 이때 보면 좋을 콘텐츠들을 소개합니다. &lt;편집자말&gt; [원종빈 기자] 인류에게는 오랜 친구가 있다.&nbsp;기쁠 때나, 슬플 때나. 아프고 지칠 때나, 환호성을 지를 때나. 우리 옆에는&nbsp;언제나&nbsp;술이 있었다. 도를 지나쳐서 마시지만 않는다면, 그가&nbsp;다정하고 충실하며 공감을 많]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[존 데이비드 워싱턴, 창의적인 SF 영화에 최적인 배우]]></title>
         <id>https://v.daum.net/v/20231002120907373</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231002090010631"/>
         <updated>2023-10-02T00:46:25.168Z</updated>
         <content type="html"><![CDATA[고작 300만 원이었다. 불행으로 점철된 연규(홍사빈)의 삶을 더욱 고통스럽게 옥죈, 또한 인규의 삶을 앞으로 통째로 바꿔버릴 금액은. ‘화란’은 불행의 굴레에 갇힌 두 남자의 이야기를 그린 작품이다. 조직의 중간 보스인 치건(송중기)은 어느 날 의붓동생을 지키려고 벌인 싸움의 합의금 300만 원이 없어 절망하는 연규와 만난다. 그는 연규에게서 묻어뒀던]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['30일' 강하늘 "미담 제조기? 저 그렇게 착하지 않아요"]]></title>
-        <id>https://v.daum.net/v/20231002085402541</id>
-        <link href="https://v.daum.net/v/20231002085402541"/>
-        <updated>2023-10-02T00:46:25.169Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 | 김나연 기자] 강하늘 / 사진=티에이치컴퍼니영화 '30일'로 스크린에 돌아온 배우 강하늘이 코미디 연기에 대한 생각과 '미담 제조기'라는 평가에 대한 생각도 밝혔다. 최근 서울시 종로구 소격동의 한 카페에서 영화 '30일'의 배우 강하늘과 만나 다양한 이야기를 나눴다. '30일'은 드디어 D-30, 서로의 찌질함과 똘기를 견디다 못해]]></content>
     </entry>
 </feed>
