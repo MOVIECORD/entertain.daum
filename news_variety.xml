@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/variety</id>
     <title>다음 연예 ─ 뉴스 ─ 예능</title>
-    <updated>2023-10-02T15:12:09.333Z</updated>
+    <updated>2023-10-02T16:14:27.091Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[강남, JYP 日걸그룹 니쥬 초대 "박진영PD라고 생각하고 두드려"]]></title>
+        <id>https://v.daum.net/v/20231003001856368</id>
+        <link href="https://v.daum.net/v/20231003001856368"/>
+        <updated>2023-10-02T16:14:13.909Z</updated>
+        <content type="html"><![CDATA[[OSEN=김예솔 기자] 강남이 니쥬 멤버들을 위해 요리를 준비했다.&nbsp; 2일, 유튜브 채널 '동네친구 강나미'에서는 '무한리필되는 K-국수에 문화 충격받은 강남의 일본 사촌들!? (with.니쥬)' 제목의 영상이 공개됐다.&nbsp; 강남은 요리를 시작해 눈길을 끌었다. 강남은 "추석 때 해외에서 온 멤버들은 외롭다"라며 "이 친구들도 해외에서 와서 엄청 쓸쓸할]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김호중, '더 트롯 콘서트-금산' 대미 장식…추석 연휴 귀호강 선물]]></title>
         <id>https://v.daum.net/v/20231003000828288</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231002214614051"/>
         <updated>2023-10-02T13:14:31.734Z</updated>
         <content type="html"><![CDATA[[스타뉴스 | 정은채 기자] /사진='무엇이든 물어보살' 방송화면 캡쳐'무엇이든 물어보살' 서장훈이 국제 커플에게 일침을 날렸다. 2일 KBS Joy에서 방송된 '무엇이든 물어보살' 235회에서는 서장훈이 국제커플에게 일침을 날렸다. 이날 1살 차이 나는 연상연하 국제 커플이 상담을 위해 두 보살을 찾았다. 남자친구는 올해 스무 살이 되며 국적은 이라크]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[정준하 "영화 '가문의 영광' 감독, 내 사연 편집해" 하소연]]></title>
-        <id>https://v.daum.net/v/20231002214533034</id>
-        <link href="https://v.daum.net/v/20231002214533034"/>
-        <updated>2023-10-02T13:14:31.740Z</updated>
-        <content type="html"><![CDATA[[마이데일리 = 이예주 기자] 배우 김수미가 영화 '가문의 영광 : 리턴즈'를 홍보했다. 2일 방송된 케이블채널 tvN STORY '회장님네 사람들'에서는 배우 김용건이 배우 김수미를 위해 영화 '가문의 영광 : 리턴즈' 시사회 현장을 찾았다. 시사회가 끝난 후 김수미의 대기실에 깜짝 방문한 김용건. 김용건은 꽃선물까지 준비하는 센스를 보였다. 김수미는]]></content>
     </entry>
 </feed>
