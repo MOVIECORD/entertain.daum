@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-10-02T06:15:24.211Z</updated>
+    <updated>2023-10-02T07:11:17.696Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['천박사' 김성식 감독 "애니메이션과 출신, 10년을 쫓다 드디어 꼬리 잡았다"]]></title>
+        <id>https://v.daum.net/v/20231002153847980</id>
+        <link href="https://v.daum.net/v/20231002153847980"/>
+        <updated>2023-10-02T07:10:56.065Z</updated>
+        <content type="html"><![CDATA[영화 '천박사 퇴마 연구소: 설경의 비밀'(이후 '천박사')로 추석 연휴 동안 115만 관객을 동원하며 추석영화 중 가장 선두에 서서 관객몰이를 하고 있는 김성식 감독을 만났다. 김성식 감독은 봉준호 감독의 '기생충', 박찬욱 감독의 '헤어질 결심', 홍원찬 감독의 '다만 악에서 구하소서'에서 조감독을 맡으며 영화 경력을 쌓아온 신인 감독이다. 영화]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[서로를 향한 구원이 지옥으로 이끌다,  '화란']]></title>
         <id>https://v.daum.net/v/20231002140007494</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231002093045034"/>
         <updated>2023-10-02T00:46:25.159Z</updated>
         <content type="html"><![CDATA[[스포츠한국 조은애 기자] 배우 강동원의 완승이다. '천박사 퇴마 연구소: 설경의 비밀'(이하 '천박사')이 추석 연휴 100만 관객을 넘어섰다. 2일 영화진흥위원회 영화관입장권 통합전산망 집계에 따르면 '천박사'는 지난 주말 3일(9월29일~10월1일) 81만7101명의 관객을 동원하며 박스오피스 1위를 차지했다. 누적 관객 수는&nbsp;117만3954]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['천박사 퇴마 연구소' 연휴 5일째 1위…누적 117만]]></title>
-        <id>https://v.daum.net/v/20231002092408948</id>
-        <link href="https://v.daum.net/v/20231002092408948"/>
-        <updated>2023-10-02T00:46:25.165Z</updated>
-        <content type="html"><![CDATA[(서울=뉴스1) 고승아 기자 = 영화 '천박사 퇴마 연구소: 설경의 비밀'(감독 김성식)이 개봉 5일째 박스오피스 1위를 수성하고 있다. 2일 영화진흥위원회 영화관 입장권 통합전산망에 따르면 지난 1일 '천박사 퇴마 연구소: 설경의 비밀'는 22만9709명을 동원해 1위에 올랐다. 누적관객수는 117만3954명이다. 이 영화는 지난달 27일 개봉과 동시]]></content>
     </entry>
 </feed>
