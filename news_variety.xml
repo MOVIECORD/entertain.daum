@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/variety</id>
     <title>다음 연예 ─ 뉴스 ─ 예능</title>
-    <updated>2023-10-03T08:14:20.995Z</updated>
+    <updated>2023-10-03T09:11:11.338Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[박나래, 신동 사모곡에 눈물 “마음 다스려봐도 눈물 쏟아져”]]></title>
+        <id>https://v.daum.net/v/20231003173237286</id>
+        <link href="https://v.daum.net/v/20231003173237286"/>
+        <updated>2023-10-03T09:10:59.479Z</updated>
+        <content type="html"><![CDATA[[OSEN=강서정 기자] 불타는 장미단 시즌2’&nbsp;박나래가 어머니를 위해 노래한 동심의 무대를 바라보다 끝내 뜨거운 눈물을 쏟았다. 3일 오후&nbsp;10시 방송되는&nbsp;MBN ‘불타는 장미단’&nbsp;시즌2(이하&nbsp;‘장미단’&nbsp;시즌2)에서는&nbsp;‘장미단’&nbsp;손태진-신성-민수현-김중연-박민수-공훈-에녹과 김다현,&nbsp;신유가 특별 마스터로 나서,&nbsp;천재 신동들의 무대를 함께하는 추석 특집]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['훈남 듀오' 1415 "아이브 ‘LOVE DIVE’에 영감 받아 작곡"]]></title>
         <id>https://v.daum.net/v/20231003171127808</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231003135020343"/>
         <updated>2023-10-03T05:10:21.198Z</updated>
         <content type="html"><![CDATA[[OSEN=강서정 기자] ‘나는 지금 화가 나있어’&nbsp;덱스와 에이전트&nbsp;H의 진한 우정이 공개된다. 3일 방송되는&nbsp;MBC에브리원∙라이프타임&nbsp;‘나는 지금 화가 나있어’(이하 나화나)에서는&nbsp;UDT(해군 특수전전단)&nbsp;출신 크리에이터 에이전트&nbsp;H의 유쾌한 토크가 펼쳐진다.&nbsp;여기에 소속사 대표인 에이전트&nbsp;H와 소속 아티스트인&nbsp;MC&nbsp;덱스의 진한 케미가 화면을 가득 채]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[에이전트H "덱스 성공 예감, 절박함·진실함 보였다"]]></title>
-        <id>https://v.daum.net/v/20231003134809310</id>
-        <link href="https://v.daum.net/v/20231003134809310"/>
-        <updated>2023-10-03T05:10:21.200Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 | 김나연 기자] 사진=MBC에브리원 나는 지금 화가 나있어'나는 지금 화가 나있어' 덱스와 에이전트 H의 진한 우정이 공개된다. 3일 방송되는 MBC에브리원·라이프타임 '나는 지금 화가 나있어'(이하 나화나)에서는 UDT(해군 특수전전단) 출신 크리에이터 에이전트 H의 유쾌한 토크가 펼쳐진다. 여기에 소속사 대표인 에이전트 H와 소속 아티스트]]></content>
     </entry>
 </feed>
