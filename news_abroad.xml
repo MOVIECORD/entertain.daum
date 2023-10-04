@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-10-04T00:47:06.299Z</updated>
+    <updated>2023-10-04T01:49:18.304Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['해리포터' 마이클 캠본, 별세에 동료 추모 잇따라]]></title>
+        <id>https://v.daum.net/v/20231004102030558</id>
+        <link href="https://v.daum.net/v/20231004102030558"/>
+        <updated>2023-10-04T01:49:17.577Z</updated>
+        <content type="html"><![CDATA[[TV리포트=유비취 기자] 영화 '해리 포터' 시리즈에서 덤블도어 교수 역으로 잘 알려진 배우 마이클 캠본이 세상을 떠났다. 지난 28일(현지 시간) 마이클 캠본의 유족이 그의 별세 소식을 알렸다. 그는 향년 82세였다. 마이클 캠본의 대변인은 성명을 통해 "사랑하는 남편이자 아버지인 마이클 캠본이 폐렴으로 병원에서 가족의 곁에서 평화롭게 세상을 떠났다"라]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“데이비드 베컴 바람 피웠을 때 내 인생에서 가장 불행”, 부인 빅토리아 분개]]></title>
         <id>https://v.daum.net/v/20231004091328080</id>
@@ -60,12 +67,5 @@
         <link href="https://v.daum.net/v/20231003115341670"/>
         <updated>2023-10-03T03:11:39.390Z</updated>
         <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]세계적 팝스타 테일러 스위프트(33)가 남친인 미식축구선수 트래비스 켈시(33)의 엄마인 도나 켈시와 친밀한 유대관계를 맺은 것으로 알려졌다. 한 관계자는 2일(현지시간) 연예매체 피플에 “도나는 스위프트를 좋아한다”면서 “스위프트가 매우 다정하고 현실적이라고 생각한다”고 귀띔했다. 스위프트와 도나는 지난달 24일 미]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘벤 애플렉♥’ 제니퍼 로페즈, “쌍둥이 낳고 몸이 불안하고 불확실해졌다” 토로]]></title>
-        <id>https://v.daum.net/v/20231003104503435</id>
-        <link href="https://v.daum.net/v/20231003104503435"/>
-        <updated>2023-10-03T01:47:00.137Z</updated>
-        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]세계적 팝스타 제니퍼 로페즈(54)가 쌍둥이를 낳은 뒤 몸에 변화가 찾아왔다고 털어놓았다. 2일(현지시간) E!뉴스에 따르면, 그는 엄마가 된 이후 자신의 몸이 “불안하고 불확실해졌다”고 말했다. 전 남편 마크 앤소니와 사이에서 2008년 쌍둥이 맥스와 엠미를 출산한 그는 친구이자 트레이너인 트레이시 앤더슨의 도움으로]]></content>
     </entry>
 </feed>
