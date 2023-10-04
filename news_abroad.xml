@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-10-04T21:11:05.934Z</updated>
+    <updated>2023-10-04T22:11:24.995Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[대만 배우, 그간 '못생긴 척' 연기...꾸미니 아무도 못 알아봐]]></title>
+        <id>https://v.daum.net/v/20231005070330695</id>
+        <link href="https://v.daum.net/v/20231005070330695"/>
+        <updated>2023-10-04T22:11:24.132Z</updated>
+        <content type="html"><![CDATA[[TV리포트=이경민 기자] 대만 배우 차이구이(Cai Gui, 59)가 색다른 스타일링으로 이미지 변신에 성공했다. 차이구이는 자신의 시그니처인 곱슬머리, 반쯤 걸친 안경, 아기 같은 목소리로 긴 시간 동안 많은 이들에게 사랑 받은 대만의&nbsp;유명인이다.&nbsp;그녀가 안경을 벗고 직모로 나타나자 아무도 알아보지 못하는 해프닝이 발생했다. 지난 2일 대만의 TV 쇼]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['미모 1위'로 뽑힌 배우, 55세에도 동안 유지..."흰머리 안 나"]]></title>
         <id>https://v.daum.net/v/20231005060400931</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231004133630674"/>
         <updated>2023-10-04T05:10:39.258Z</updated>
         <content type="html"><![CDATA[[TV리포트=유비취 기자] 중국의 인기 배우 판빙빙의 스타일에 아쉽다는 지적이 이어지고 있다. 지난 22일부터 30일까지 스페인에서 열린 '산세바스티안 국제 영화제'에 참석한 판빙빙의 드레스가 여러 이유로 주목받고 있다. 판빙빙과 어울리지 않는 드레스에 팬들의 아쉬움이 커지고 있다. 판빙빙은 지난 30일 달라붙는 금색 드레스 위에 보라색 천을 덮은 스타일을]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[마이클 잭슨 딸 "돈 때문에 일 안 해"...곧 2조 상속 눈앞]]></title>
-        <id>https://v.daum.net/v/20231004131230114</id>
-        <link href="https://v.daum.net/v/20231004131230114"/>
-        <updated>2023-10-04T04:13:35.207Z</updated>
-        <content type="html"><![CDATA[[TV리포트=유비취 기자] 팝 레전드 마이클 잭슨의 딸 패리스 잭슨이 성공과 돈에 대해 솔직한 생각을 고백했다. 3일(현지 시간) 영국 매체 데일리메일에 따르면 패리스 잭슨(25)은 가수 활동에 있어서 판매량보다 만족감이 더 중요하다고 밝혔다. 마이클 잭슨의 사망 이후 유족은 그의 음악 로열티 및 기타 상업 사업을 통해 7억 달러(한화 약 9,522억 원)]]></content>
     </entry>
 </feed>
