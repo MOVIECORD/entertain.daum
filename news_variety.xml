@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/variety</id>
     <title>다음 연예 ─ 뉴스 ─ 예능</title>
-    <updated>2023-10-04T07:10:41.542Z</updated>
+    <updated>2023-10-04T08:14:38.630Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘유퀴즈’ 측 “수영 황선우·김우민·이호준·양재훈 출연 맞아, 11일 방송”]]></title>
+        <id>https://v.daum.net/v/20231004164625489</id>
+        <link href="https://v.daum.net/v/20231004164625489"/>
+        <updated>2023-10-04T08:14:27.395Z</updated>
+        <content type="html"><![CDATA[[OSEN=김채연 기자] 항저우 아시안게임에서 금빛 물살을 가른 수영 국가대표 선수들이 ‘유퀴즈’를 찾는다. 4일 tvN ‘유 퀴즈 온 더 블럭’ 측 관계자는 OSEN에 “황선우, 김우민, 이호준, 양재훈의 출연이 맞다. 출연분은 오는 11일 방송 예정”이라고 밝혔다. 이들은 지난달 25일 진행된 ‘2022 항정우 아시안게임’ 남자 계영 800m 자유형]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[폼 美친 '스우파2'·'나는 솔로', 5주째 비드라마 화제성 1·2위]]></title>
+        <id>https://v.daum.net/v/20231004162111310</id>
+        <link href="https://v.daum.net/v/20231004162111310"/>
+        <updated>2023-10-04T08:14:27.396Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 | 한해선 기자] 스트리트 우먼 파이터2 출연진이 17일 오후 서울 성암동 DMC타워에서 진행된 '스트릿 우먼 파이터2' 제작발표회에서 포즈를 취하고 있다. /2023.08.17 /사진=이동훈 Mnet의 '스트릿 우먼 파이터2'가 5주 연속 비드라마 부문 화제성 1위에 오르는 저력을 보여줬다. K-콘텐츠 경쟁력 분석 전문 기관인 굿데이터코퍼레]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[홀덤펍 진상 손님과 아이 출산→우울증+대화 단절…서장훈 '탄식']]></title>
         <id>https://v.daum.net/v/20231004160839783</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20231004142410399"/>
         <updated>2023-10-04T06:14:37.957Z</updated>
         <content type="html"><![CDATA[[뉴스엔 김명미 기자] ‘출장 소통의 신 : 서진이네 편’이 꿀잼 단합 대회를 예고했다. 10월 12일 오후 8시 40분에 첫 방송되는 tvN ‘출장 소통의 신 : 서진이네 편’(연출 나영석, 2부작)이 요절복통 하이라이트 영상을 공개했다. ‘출장 소통의 신 : 서진이네 편’은 이제 막 걸음마를 뗀 소통 전문가 나영석 PD가 소통이 필요한 곳 어디든 부르]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘정호연♥’ 이동휘, 멀끔해진 비주얼 “기르던 수염, 머리 걷어내”]]></title>
-        <id>https://v.daum.net/v/20231004142333364</id>
-        <link href="https://v.daum.net/v/20231004142333364"/>
-        <updated>2023-10-04T06:14:37.961Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 서유나 기자] 배우 이동휘가 멀끔해진 비주얼을 자랑했다. 10월 4일 방송된 SBS 파워FM '두시탈출 컬투쇼'(이하 '컬투쇼') 특별초대석에는 영화 '천박사 퇴마 연구소: 설경의 비밀'의 두 배우 이동휘, 김종수가 게스트로 출연했다. 이날 멀끔한 비주얼의 이동휘에겐 '사람 됐다'는 청취자들의 문자가 많이 왔다. 이에 이동휘는 "'카지노'를]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[분노한 주상욱, 성훈 몰아가기 “너 때문에 감성돔 놓쳐”]]></title>
-        <id>https://v.daum.net/v/20231004142047238</id>
-        <link href="https://v.daum.net/v/20231004142047238"/>
-        <updated>2023-10-04T06:14:37.963Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 김명미 기자] 주상욱이 분노한다. 10월 5일 방송되는 채널A 예능프로그램 ‘나만 믿고 따라와, 도시어부5’(이하 도시어부) 5회에서는 전북 왕포를 찾은 리얼 어부들의 낚시 대결이 공개된다. 도시어부의 ‘마음의 고향’이라 불리는 전북 왕포를 찾은 멤버들은 어종 불문 총 시세 대결을 펼친다. 이날 멤버들은 조기는 물론 감성돔, 민어, 농어, 붕장어]]></content>
     </entry>
 </feed>
