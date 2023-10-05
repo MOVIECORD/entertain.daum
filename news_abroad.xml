@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-10-05T00:46:25.544Z</updated>
+    <updated>2023-10-05T01:50:37.929Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[배우 드류 배리모어 토크쇼에 작가들 보이콧…"파업 때 등돌려"]]></title>
+        <id>https://v.daum.net/v/20231005102708210</id>
+        <link href="https://v.daum.net/v/20231005102708210"/>
+        <updated>2023-10-05T01:50:37.080Z</updated>
+        <content type="html"><![CDATA[(로스앤젤레스=연합뉴스) 임미나 특파원 = 할리우드 작가들이 파업 종료 후 제작 현장에 돌아왔지만, 배우 드류 배리모어(48)의 토크쇼 작가들은 복귀를 거부했다고 미 연예매체 할리우드리포터가 4일(현지시간) 전했다. 보도에 따르면 배리모어가 진행하는 토크쇼 '더 드류 배리모어 쇼' 대본을 오랫동안 집필해온 작가 첼시 화이트, 크리스티나 키논, 리즈 코 등]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[앤 해서웨이 "'악마 프라다' 팀 재회 바라지만.."→메릴 스트립 "정말 끔찍했다"]]></title>
         <id>https://v.daum.net/v/20231005091218561</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231004152410931"/>
         <updated>2023-10-04T07:10:40.785Z</updated>
         <content type="html"><![CDATA[(엑스포츠뉴스 오승현 기자) 넷플릭스가 현재 진행 중인 할리우드 파업이 끝난 후 구독료 인상을 검토할 예정이다. 3일(현지시간) WSJ(월드스트리트저널)는 넷플릭스가 미국·캐나다를 시작으로 요금제의 구독료를 인상할 가능성이 높다고 보도했다. 구독료 인상 대상 상품은 광고 없는 요금제로 미국, 캐나다 다음으로도 여러 시장에서 차례로 인상할 계획이다. 인상률과]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[트래비스 켈시, “♥테일러 스위프트와 연애할지 전혀 몰랐다” 웃음 참지못할 정도로 좋아]]></title>
-        <id>https://v.daum.net/v/20231004150735245</id>
-        <link href="https://v.daum.net/v/20231004150735245"/>
-        <updated>2023-10-04T06:14:49.288Z</updated>
-        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]미식축구선수 트래비스 켈시(33)가 세계적 팝스타 테일러 스위프트(33)와 연애에 만족감을 드러냈다. 3일(현지시간) 팟캐스트 ‘체이싱 잇’에 출연한 그는 스위프트와의 관계에 대해 질문을 받고 웃음을 멈추지 못했다. 진행자가 “이렇게 될줄 알았는가?”라고 묻자, 켈시는 “전혀 몰랐다”고 말했다. 이어 “다른 사람들]]></content>
     </entry>
 </feed>
