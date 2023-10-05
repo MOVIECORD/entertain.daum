@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-10-05T03:12:23.849Z</updated>
+    <updated>2023-10-05T04:12:57.735Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['마약 전과' 성룡 아들, 승리와 놀더니 음주운전 의혹까지...사고뭉치 2세]]></title>
+        <id>https://v.daum.net/v/20231005123104456</id>
+        <link href="https://v.daum.net/v/20231005123104456"/>
+        <updated>2023-10-05T04:12:56.978Z</updated>
+        <content type="html"><![CDATA[[TV리포트=안수현 기자] 홍콩의 톱스타 성룡의 아들로 잘 알려진 방조명의 근황이 포착됐다. 지난 4일, 외신에 따르면 방조명은 자신의 자가용에 두 명의 여성을 태웠다. 보도에 따르면 방조명은 집으로 돌아가기 전에 여성 두 명을 길가에 내려줬다. 파파라치 사진이 온라인에 공개되면서 많은 이들은 방조명이 또 다른 사고를 친 것이 아닌지 우려의 목소리를 높였다]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“데이비드 베컴과 첫날밤 보냈다” 불륜女 고백, 아내 빅토리아 “인생에서 가장 불행” 분노]]></title>
         <id>https://v.daum.net/v/20231005114821042</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231004193031014"/>
         <updated>2023-10-04T11:10:12.702Z</updated>
         <content type="html"><![CDATA[[TV리포트=안수현 기자] 가수 화천위가 콘서트 중 웨딩드레스를 입어 비난 받았다. 지난 27일, 중국의 싱어송라이터 화천위가 흰색 웨딩드레스를 입고 데뷔 10주년 기념 콘서트 무대에 등장해 많은 이들이 놀랐다. 일부는 그가 홍콩 가수 故 매염방에게 경의를 표한다고 보기도 했지만, 그가 웨딩드레스 의상을 선택한 의도에 대해선 구체적인 이유가 밝혀지지 않았다]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[빅토리아 베컴, 남편 불륜 의혹 입 열었다.."가장 불행한 일"]]></title>
-        <id>https://v.daum.net/v/20231004191021479</id>
-        <link href="https://v.daum.net/v/20231004191021479"/>
-        <updated>2023-10-04T10:12:09.758Z</updated>
-        <content type="html"><![CDATA[[OSEN=선미경 기자] 가수 겸 패션 디자이너 빅토리아 베컴이 남편 데이비드 베컴의 불륜 의혹에 대해 처음으로 입을 열었다. 3일(현지시각) 외신 보도에 따르면 빅토리아 베컴은 넷플릭스 다큐멘터리 ‘베컴’에서 남편의 불륜 의혹에 대한 심경을 털어놨다. 데이비드 베컴의 불륜 의혹에 대해서 공식적으로 언급한 것은 처음이다. 그녀는 남편의 불륜 의혹에 대해]]></content>
     </entry>
 </feed>
