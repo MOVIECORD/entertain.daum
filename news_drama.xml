@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-10-05T22:10:46.422Z</updated>
+    <updated>2023-10-05T23:11:18.318Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김신록 폭풍 오열 포착, 지구 거주 불능 상태라니]]></title>
+        <id>https://v.daum.net/v/20231006080841787</id>
+        <link href="https://v.daum.net/v/20231006080841787"/>
+        <updated>2023-10-05T23:10:59.843Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 하지원 기자] ‘무빙’에서 빈틈없이 깐깐한 ‘여운규’로 활약한 김신록이 이번에는 지구 히어로로 변신해 몰입도 최강의 연기를 선보인다. 10월 9일 첫 방송되는 KBS 공사창립 50주년 대기획 ‘지구 위 블랙박스’(연출 구민정)는 거주 불능 상태인 미래의 지구를 배경으로, '데이터 센터 블랙박스'의 유일한 기록자(김신록, 박병은, 김건우)가 202]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[박해인, 차은우X박규영과 호흡..'오늘도 사랑스럽개' 캐스팅]]></title>
+        <id>https://v.daum.net/v/20231006072801244</id>
+        <link href="https://v.daum.net/v/20231006072801244"/>
+        <updated>2023-10-05T23:10:59.853Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 | 윤성열 기자] /사진제공=판타지오배우 박해인이 MBC 새 수요드라마 '오늘도 사랑스럽개'(연출 김대웅, 극본 백인아)에 캐스팅됐다. 6일 소속사 판타지오에 따르면 박해인은 '오늘도 사랑스럽개'에서 '윤지 선생님' 역으로 등장해 밝고 긍정적인 에너지를 보여줄 예정이다. '오늘도 사랑스럽개'는 동명의 네이버 웹툰을 원작으로 하는 작품이다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["보고싶었소" 남궁민X안은진, '연인' 파트2 오래 참았다]]></title>
         <id>https://v.daum.net/v/20231006070111917</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20231005181126946"/>
         <updated>2023-10-05T10:12:11.137Z</updated>
         <content type="html"><![CDATA[[동아닷컴]   배우 김영광이 해외 팬들과 만났다. 넷플릭스 ‘썸바디’부터 디즈니 플러스 ‘사랑이라 말해요’까지 다채로운 매력을 펼친 김영광이 해외 팬미팅에 나선 것. 소속사 와이드에스컴퍼니는 5일 “김영광이 지난 9월 24일 일본 도쿄에서 해외 팬들을 만났다”며 “공식적인 4년 만의 해외 팬미팅이다. 많은 해외 팬이 운집해 김영광을 반갑게 맞이했고, 김]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단발성 퇴장? '국민사형투표' 후속 없다..SBS 금토극만 유지]]></title>
-        <id>https://v.daum.net/v/20231005180501748</id>
-        <link href="https://v.daum.net/v/20231005180501748"/>
-        <updated>2023-10-05T09:11:35.996Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 | 윤성열 기자] /사진=SBS '국민사형투표'SBS가 파격적으로 시도한 목요드라마가 단발성 편성에 그칠 전망이다. 5일 스타뉴스 취재 결과, SBS는 오는 11월 목요드라마 '국민사형투표'(극본 조윤영, 연출 박신우) 종영 이후 새로운 드라마를 편성하지 않을 예정이다. 현재 연내 논의되고 있는 목요드라마는 없는 것으로 확인됐다. 당분간 탄탄]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["강남순 작가, 글로벌 인기 급상승" 이유미→옹성우·변우석, 전무후무 러블리 히어로 등장]]></title>
-        <id>https://v.daum.net/v/20231005180101603</id>
-        <link href="https://v.daum.net/v/20231005180101603"/>
-        <updated>2023-10-05T09:11:35.996Z</updated>
-        <content type="html"><![CDATA[[텐아시아=강민경 기자] 자칭 와이어 천재 배우 이유미, 액션 배우 김정은, '이게 되네?'라는 김해숙, 옹성우, 첫 악역으로 변신한 변우석. 이 들은 전무후무한 K여성 히어로물인 JTBC 새 토일드라마 '힘쎈여자 강남순'으로 뭉쳤다. 5일 오후 서울시 마포구 상암동 스탠포드호텔에서 JTBC 새 토일드라마 '힘쎈여자 강남순' 제작발표회가 열렸다. 이 자]]></content>
     </entry>
 </feed>
