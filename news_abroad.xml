@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-10-05T04:12:57.735Z</updated>
+    <updated>2023-10-05T05:10:53.001Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['최애의 아이' 요아소비 "목표는 그래미+빌보드"]]></title>
+        <id>https://v.daum.net/v/20231005140200461</id>
+        <link href="https://v.daum.net/v/20231005140200461"/>
+        <updated>2023-10-05T05:10:52.112Z</updated>
+        <content type="html"><![CDATA[[TV리포트=유비취 기자] 일본의 인기 밴드 요아소비가 애니메이션 '최애의 아이' OST '아이돌'의 성공 이후 목표를 밝혔다. 지난 3일 일본 매체 야후 뉴스와의 인터뷰에서 큰 인기를 얻고 있는 요아소비는 최종 목표를 털어놨다. 요아소비는 2019년 데뷔 이후 일본 최초 스트리밍 누계 10억 회를 돌파하고 지난 4월 발매한 '아이돌'은 빌보드 재팬 핫 1]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['영화계 영원한 형님' 주윤발의 끝나지 않는 '영웅본색']]></title>
+        <id>https://v.daum.net/v/20231005134957900</id>
+        <link href="https://v.daum.net/v/20231005134957900"/>
+        <updated>2023-10-05T05:10:52.113Z</updated>
+        <content type="html"><![CDATA[주윤발이 나이드는 것이 두렵지 않다며 어떤 역할이든 제한 없이 앞으로도 배우로서 도전하고 싶다고 밝혔다. 5일 오후 부산 해운대구 우동 KNN 타워 KNN 시어터에서는 제28회 부산국제영화제 올해의 아시아영화인상을 수상한 주윤발의 기자회견이 진행됐다. 올해의 아시아영화인상은 매해 아시아영화 산업과 문화 발전에 있어 가장 두드러진 활동을 보인 아시아 영화]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['마약 전과' 성룡 아들, 승리와 놀더니 음주운전 의혹까지...사고뭉치 2세]]></title>
         <id>https://v.daum.net/v/20231005123104456</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20231004203921979"/>
         <updated>2023-10-04T12:21:07.307Z</updated>
         <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]27년간 함께 살아온 호주배우 데보라 리 퍼니스(67)와 이혼한 휴 잭맨(54)이 새로운 여자를 찾는다는 주장이 나왔다. 휴 잭맨과 가까운 소식통은 3일(현지시간) ‘뉴 아이디어’에 “곧 새로운 사람을 찾을 것으로 기대한다”고 말했다. 이어 “다시 사랑을 찾는 것이 그의 가장 큰 우선 순위 중 하나”라면서 “모두가 잭맨이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[송강호·박은빈 이끈 부국제 개막, 故윤정희 추모→50주년 주윤발…화려한 오프닝]]></title>
-        <id>https://v.daum.net/v/20231004202451540</id>
-        <link href="https://v.daum.net/v/20231004202451540"/>
-        <updated>2023-10-04T12:21:07.310Z</updated>
-        <content type="html"><![CDATA[[스포티비뉴스=부산, 강효진 기자] 제28회 부산국제영화제가 내홍을 딛고 성공적으로 개막을 알렸다. 제28회 부산국제영화제(BIFF)가 4일 오후 6시 부산 해운대구 영화의 전당 야외무대에서 열렸다. 이날 부산국제영화제 역사상 최초로 단독 사회를 맡게 된 박은빈은 깔끔하고 또렷한 발성으로 능숙하게 진행을 해내며 개막식을 성공적으로 이끌었다. 또한 집]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[男가수 화천위, '웨딩드레스' 입은 후 욕 먹어..."남자답지 못하다"]]></title>
-        <id>https://v.daum.net/v/20231004193031014</id>
-        <link href="https://v.daum.net/v/20231004193031014"/>
-        <updated>2023-10-04T11:10:12.702Z</updated>
-        <content type="html"><![CDATA[[TV리포트=안수현 기자] 가수 화천위가 콘서트 중 웨딩드레스를 입어 비난 받았다. 지난 27일, 중국의 싱어송라이터 화천위가 흰색 웨딩드레스를 입고 데뷔 10주년 기념 콘서트 무대에 등장해 많은 이들이 놀랐다. 일부는 그가 홍콩 가수 故 매염방에게 경의를 표한다고 보기도 했지만, 그가 웨딩드레스 의상을 선택한 의도에 대해선 구체적인 이유가 밝혀지지 않았다]]></content>
     </entry>
 </feed>
