@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-10-05T10:12:27.174Z</updated>
+    <updated>2023-10-05T11:10:03.134Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[브리트니 스피어스 '칼춤' 따라한 62세 女스타...이번엔 '진짜' 식칼로]]></title>
+        <id>https://v.daum.net/v/20231005200100801</id>
+        <link href="https://v.daum.net/v/20231005200100801"/>
+        <updated>2023-10-05T11:10:02.172Z</updated>
+        <content type="html"><![CDATA[[TV리포트=안수현 기자] 브리트니 스피어스의 '칼춤' 영상이 화제가 되자 이를 모방한 스타까지 나타났다. 지난 4일, 미국의 코미디언 겸 배우 캐시 그리핀(62)은 자신의 소셜미디어 계정에 '칼춤'을 추는 영상을 게시했다. 영상 속 캐시는 며칠 전 브리트니 스피어스가 칼춤을 춘 영상에서 착용한 의상과 닮은 짧은 비키니 상의와 하의를 입고 있다. 브리트니와]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[톰 하디, 사회성 없어..."촬영 현장서 인사 한 번도 안해"]]></title>
+        <id>https://v.daum.net/v/20231005192330875</id>
+        <link href="https://v.daum.net/v/20231005192330875"/>
+        <updated>2023-10-05T11:10:02.173Z</updated>
+        <content type="html"><![CDATA[[TV리포트=이경민 기자] 영국 출신 원로 배우 패트릭 스튜어트(83)가 자신의 회고록에서 톰 하디와의 일화를 공개했다.&nbsp; 영화 '스타트렉' 시리즈에서 장 뤽 피카드 역으로 큰 인기를 얻은 영국 배우 패트릭 스튜어트가&nbsp;최근 자신의 회고록 'Making It So'에서 함께 출연했던 배우 톰 하디와 있었던 일화를 공개했다.&nbsp;톰 하디는 신인 시절 '스타트렉:]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[케빈 스페이시, '성범죄' 무죄 받았는데 '건강이상'으로 병원행]]></title>
         <id>https://v.daum.net/v/20231005190240514</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20231005134957900"/>
         <updated>2023-10-05T05:10:52.113Z</updated>
         <content type="html"><![CDATA[주윤발이 나이드는 것이 두렵지 않다며 어떤 역할이든 제한 없이 앞으로도 배우로서 도전하고 싶다고 밝혔다. 5일 오후 부산 해운대구 우동 KNN 타워 KNN 시어터에서는 제28회 부산국제영화제 올해의 아시아영화인상을 수상한 주윤발의 기자회견이 진행됐다. 올해의 아시아영화인상은 매해 아시아영화 산업과 문화 발전에 있어 가장 두드러진 활동을 보인 아시아 영화]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['마약 전과' 성룡 아들, 승리와 놀더니 음주운전 의혹까지...사고뭉치 2세]]></title>
-        <id>https://v.daum.net/v/20231005123104456</id>
-        <link href="https://v.daum.net/v/20231005123104456"/>
-        <updated>2023-10-05T04:12:56.978Z</updated>
-        <content type="html"><![CDATA[[TV리포트=안수현 기자] 홍콩의 톱스타 성룡의 아들로 잘 알려진 방조명의 근황이 포착됐다. 지난 4일, 외신에 따르면 방조명은 자신의 자가용에 두 명의 여성을 태웠다. 보도에 따르면 방조명은 집으로 돌아가기 전에 여성 두 명을 길가에 내려줬다. 파파라치 사진이 온라인에 공개되면서 많은 이들은 방조명이 또 다른 사고를 친 것이 아닌지 우려의 목소리를 높였다]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“데이비드 베컴과 첫날밤 보냈다” 불륜女 고백, 아내 빅토리아 “인생에서 가장 불행” 분노]]></title>
-        <id>https://v.daum.net/v/20231005114821042</id>
-        <link href="https://v.daum.net/v/20231005114821042"/>
-        <updated>2023-10-05T03:12:22.839Z</updated>
-        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]빅토리아 베컴(49)이 20년 만에 처음으로 남편 데이비드 베컴(48)과 바람을 피운 것으로 알려진 레베카 루스(46)와의 불륜 혐의에 대해 처음으로 입을 열었다. 빅토리아는 4일 공개된 넷플릭스 다큐 시리즈 ‘베컴’에서 “내 인생에서 가장 불행한 시기였다"고 회상했다. 이 스캔들은 2004년 개인 비서 루스가 베컴이]]></content>
     </entry>
 </feed>
