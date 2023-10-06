@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-10-06T20:12:08.807Z</updated>
+    <updated>2023-10-06T21:09:38.133Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[연휴 극장가, 강동원 선전했지만 압도적 승자 無…강하늘은?]]></title>
+        <id>https://v.daum.net/v/20231007060003900</id>
+        <link href="https://v.daum.net/v/20231007060003900"/>
+        <updated>2023-10-06T21:09:16.154Z</updated>
+        <content type="html"><![CDATA[(서울=뉴스1) 정유진 기자 = 올해 극장가는 한국 영화의 흥행 가뭄이 이어지고 있다. 지난 5월에 개봉한 영화 '범죄도시3'(감독 이상용)가 1068만명의 관객을 동원하며 박스오피스 1위에 올랐으나, 그 이상의 천만 영화는 부재한 상황이다. 신종 코로나바이러스 감염증(코로나19) 직전인 2019년 한해 천만 영화만 무려 5편('극한직업' '어벤져스:]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['소년들', 그날의 사건 파헤치다...제작 일지 공개]]></title>
         <id>https://v.daum.net/v/20231007030201343</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231006210653779"/>
         <updated>2023-10-06T12:20:26.216Z</updated>
         <content type="html"><![CDATA[6일 오후 부산 해운대구 KNN 시어터에서는 배우 윤여정의 액터스 하우스가 진행되었다. (부산 해운대=iMBC연예 김경희 기자) 윤여정은 대표작이 뭐라 생각하냐는 질문에 "우리나라에서 살아 남은게 정말 용한 사람이다. 못나서 그랬는지 관습적인게 정말 맞지 않았다. 연기에 대한 반응이 좋은 적도 없었다. 나의 대표작은 내가 얼마나 힘들었는지만 생각난다."]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[윤여정 "난 이상한 아이, 두 아들 덕분 목숨 걸고 연기"]]></title>
-        <id>https://v.daum.net/v/20231006210530747</id>
-        <link href="https://v.daum.net/v/20231006210530747"/>
-        <updated>2023-10-06T12:20:26.218Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 | 부산=김나연 기자] 윤여정 / 사진=김창현 기자배우 윤여정이 그동안의 영화 인생에 대해 솔직하게 털어놨다. 6일 부산시 해운대구 KNN 시어터에서 제28회 부산국제영화제(BIFF) 액터스 하우스가 열린 가운데, 배우 윤여정이 참석해 다양한 이야기를 나눴다. 윤여정은 영화 '미나리'(감독 정이삭)로, 제93회 아카데미 시상식에서 한국배우]]></content>
     </entry>
 </feed>
