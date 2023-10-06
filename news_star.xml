@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2023-10-06T17:10:15.928Z</updated>
+    <updated>2023-10-06T18:14:45.105Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[우주소녀 다영 "닭발 태어나서 처음...족발 껍데기 먹는 느낌"]]></title>
+        <id>https://v.daum.net/v/20231007024430308</id>
+        <link href="https://v.daum.net/v/20231007024430308"/>
+        <updated>2023-10-06T18:14:38.469Z</updated>
+        <content type="html"><![CDATA[[TV리포트=김유진 기자] 김준현, 덱스, 우주소녀 다영이 서울에 숨어있는 맛집을 찾아 먹방을 자랑했다. 6일 방영된 MBC Every1 예능 '먹술단' 1화에서는 김준현, 덱스, 우주소녀 다영이 맛집을 소개하는 모습이 전해졌다. 세 사람은 서울 신정동에 있는 한 수제버거 집을 찾았다. 시원한 배가 들어간 수제버거를 맛보며 다영은 "풍미가 남다르다"며 만족]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[홍경인, 군생활 같이 했던 지성 언급 "그때부터 이보영 좋아하더니..."]]></title>
         <id>https://v.daum.net/v/20231007020801281</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231007000126725"/>
         <updated>2023-10-06T15:11:57.025Z</updated>
         <content type="html"><![CDATA[세븐틴, 9개월 만에 1104만 장 판매 [더팩트｜박지윤 기자] 보이 그룹이 올해 국내 앨범 판매량 1000만 장을 넘기며 K-POP의 새 역사를 써 내려갔습니다. 작품을 통해 만나 오랜 만남을 이어온 배우 커플, 공개 열애 중이던 배우와 제작사 커플이 결혼 소식을 전했습니다. 10월 첫째 주 연예가 소식입니다. 세븐틴, 올해 앨범 판매량 1000만]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[최현욱, 길거리 흡연 후 꽁초 무단 투기…유빈·권순우 결별]]></title>
-        <id>https://v.daum.net/v/20231007000119724</id>
-        <link href="https://v.daum.net/v/20231007000119724"/>
-        <updated>2023-10-06T15:11:57.028Z</updated>
-        <content type="html"><![CDATA[이제훈, 건강 문제로 활동 잠정 중단 [더팩트｜박지윤 기자] 드라마로 시청자들과 만나고 있는 남자 배우는 길거리에서 담배를 피우고 꽁초를 무단 투기해 대중들을 실망시켰습니다. 공개 열애 중이던 가수와 국가대표 커플은 이별 소식을 전했습니다. 그런가 하면 남자 배우가 응급수술을 받아 예정된 스케줄에 불참했습니다. 그는 활동을 잠정 중단하고 회복에 집중할]]></content>
     </entry>
 </feed>
