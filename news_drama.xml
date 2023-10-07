@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-10-07T01:44:03.986Z</updated>
+    <updated>2023-10-07T02:17:22.919Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김정은, 잃어버린 딸 있었다 '극적 재회']]></title>
+        <id>https://v.daum.net/v/20231007105301045</id>
+        <link href="https://v.daum.net/v/20231007105301045"/>
+        <updated>2023-10-07T02:17:03.428Z</updated>
+        <content type="html"><![CDATA[[텐아시아=김지원 기자] ‘힘쎈여자 강남순’ 이유미, 김정은, 김해숙이 드디어 ‘힘쎈’ 출격을 한다. JTBC 새 토일드라마 ‘힘쎈여자 강남순’이 첫 방송을 앞둔 오늘(7일), 잃어버린 가족 찾기에 시동을 건 강남순(이유미 분), 황금주(김정은 분), 길중간(김해숙 분)의 모습을 공개했다. 강남순의 스펙터클한 한국 입성기가 어떻게 펼쳐질지, 서로에게 향]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[첫방 D-DAY '힘쎈여자 강남순' 몽골 소녀 이유미, 부모 찾아 한국行]]></title>
         <id>https://v.daum.net/v/20231007102222727</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231007070101716"/>
         <updated>2023-10-06T22:10:08.446Z</updated>
         <content type="html"><![CDATA[[텐아시아=태유나 기자] 《태유나의 듣보드뽀》 태유나 텐아시아 기자가 현장에서 듣고 본 사실을 바탕으로 드라마의 면면을 제대로 뽀개드립니다. 수많은 채널에서 쏟아지는 드라마 홍수 시대에 독자들의 눈과 귀가 되겠습니다. 500억 가량의 제작비가 투입된 tvN '아라문의 검'이 제19회 항저우 아시안게임을 피하려다 역풍을 맞았다. 갑작스러운 편성 변경과 결방]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[6년만 돌아온 女 히어로 ‘강남순’ 액션→노년 멜로까지]]></title>
-        <id>https://v.daum.net/v/20231007060507118</id>
-        <link href="https://v.daum.net/v/20231007060507118"/>
-        <updated>2023-10-06T21:09:21.451Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 김명미 기자] 여성 히어로물 '힘쎈여자 도봉순'이 세계관을 확장, 6년 만에 '힘쎈여자 강남순'으로 안방에 돌아온다. 10월 7일 첫 방송되는 JTBC 새 토일드라마 '힘쎈여자 강남순'(극본 백미경/연출 김정식 이경식)은 선천적으로 놀라운 괴력을 타고난 3대 모녀가 강남을 중심으로 벌어지는 신종마약범죄의 실체를 파헤치는 '대대힘힘' 코믹범죄맞짱극]]></content>
     </entry>
 </feed>
