@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-10-07T08:14:06.031Z</updated>
+    <updated>2023-10-07T09:10:03.410Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[살 찌면 성공한다…후덕해진 윤계상, '범죄도시'→'유괴의 날'로 인생캐 경신]]></title>
+        <id>https://v.daum.net/v/20231007180107674</id>
+        <link href="https://v.daum.net/v/20231007180107674"/>
+        <updated>2023-10-07T09:09:46.628Z</updated>
+        <content type="html"><![CDATA[[텐아시아=태유나 기자] 배우 윤계상이 영화 '범죄도시' 장첸 캐릭터를 완전히 벗고 ENA '유괴의 날'로 새 인생 캐릭터를 경신했다. 후덕해진 외모와 장발이라는 비슷한 외관에도, 전혀 다른 성격의 인물을 보여주며 연일 호평받고 있다. 시청률도 파죽지세다.&nbsp; 윤계상, 유나 주연의 '유괴의 날'이 매회 시청률 상승을 기록, 7회 만에 4% 돌파에 성공했다]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘거래’ 유승호, 반삭·욕설 연기 도전…“저도 많이 어색했죠”]]></title>
         <id>https://v.daum.net/v/20231007170525693</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231007102222727"/>
         <updated>2023-10-07T01:43:47.465Z</updated>
         <content type="html"><![CDATA[[스타뉴스 | 한해선 기자] /사진=JTBC '힘쎈여자 강남순' 이유미, 김정은, 김해숙이 드디어 '힘쎈' 출격을 한다. JTBC 새 토일드라마 '힘쎈여자 강남순'(극본 백미경, 연출 김정식·이경식, 제작 바른손씨앤씨·스토리피닉스·SLL)이 첫 방송을 앞둔 오늘(7일), 잃어버린 가족 찾기에 시동을 건 강남순(이유미 분), 황금주(김정은 분), 길중간(김]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[차태현, 사춘기 자녀 앞에서 속수무책… "전화도 안 해"]]></title>
-        <id>https://v.daum.net/v/20231007101804668</id>
-        <link href="https://v.daum.net/v/20231007101804668"/>
-        <updated>2023-10-07T01:43:47.468Z</updated>
-        <content type="html"><![CDATA[(사진=JTBC ‘택배는 몽골몽골’ 방송화면)[이데일리 스타in 윤기백 기자] JTBC 예능프로그램 ‘택배는 몽골몽골’ 차태현이 ‘국민 아빠’도 어쩔 수 없는 사춘기 자녀 육아의 현실을 보여주며 애잔함과 공감을 자아냈다. 지난 6일 방송된 JTBC ‘택배는 몽골몽골’ 8회에서는 택배 여행의 막바지에 다다른 여섯 멤버가 일주일간 이어진 야생에서의 고군분투를]]></content>
     </entry>
 </feed>
