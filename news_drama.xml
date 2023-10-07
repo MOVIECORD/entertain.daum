@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-10-07T15:10:27.339Z</updated>
+    <updated>2023-10-07T16:12:43.542Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이유미, 가족 찾아 한국行…비행기도 멈추는 괴력 발휘]]></title>
+        <id>https://v.daum.net/v/20231008003017773</id>
+        <link href="https://v.daum.net/v/20231008003017773"/>
+        <updated>2023-10-07T16:12:26.144Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 이효반 기자) 이유미가 한국으로 돌아왔다. 7일 JTBC에서는 '힘쎈여자 강남순'(이하 '강남순') 1화가 방송됐다. '강남순'은 선천적으로 괴력을 타고난 3대 모녀가 강남을 중심으로 벌어지는 신종마약범죄의 실체를 파헤치는 내용이다. 친아빠 강봉고(이승준 분)는&nbsp;몽골에서 5살 강남순(이유미)를 잃어버렸다. "아빠"를 찾으며 울던 강남순을 한]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[첫방 ‘힘쎈여자 강남순’ 이유미, 힘+점프+스피드 다 가졌다..공항서 능력 발휘]]></title>
         <id>https://v.daum.net/v/20231008000644506</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231007133307765"/>
         <updated>2023-10-07T05:09:42.397Z</updated>
         <content type="html"><![CDATA[[뉴스엔 이민지 기자] ‘악인전기’ 배우들의 포스터 B컷이 공개됐다. 10월 14일 첫 공개를 앞둔 지니TV 오리지널 드라마 ‘악인전기’(극본 서희, 이승훈/연출 김정민, 김성민)가 7일 신하균, 김영광, 신재하 포스터 B컷을 공개했다. ‘악인전기’는 절대 악인을 만난 생계형 변호사가 엘리트 악인으로 변모하는 이야기를 담은 범죄 누아르 드라마다. 신하균은]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘효심이네 각자도생’ 진상 회원 하준, 스윗남 떡상 가능할까]]></title>
-        <id>https://v.daum.net/v/20231007113746497</id>
-        <link href="https://v.daum.net/v/20231007113746497"/>
-        <updated>2023-10-07T03:11:00.423Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 이민지 기자] 유이에게 180도 달라진 하준의 다정 모드가 포착됐다. KBS 2TV 주말드라마 ‘효심이네 각자도생’(극본 조정선/연출 김형일) 지난 방송에서 효심(유이 분)과 태호(하준 분) 사이에 감정의 골은 더욱 깊어졌다. 여자와는 운동하지 않는다는 신념(?)을 가진 태호가 효심과의 PT를 거부했지만, 효심은 잘못된 자세로 운동을 하는 태호를]]></content>
     </entry>
 </feed>
