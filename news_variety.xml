@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/variety</id>
     <title>다음 연예 ─ 뉴스 ─ 예능</title>
-    <updated>2023-10-07T04:12:45.958Z</updated>
+    <updated>2023-10-07T05:10:00.452Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘1박2일’ 제작진마저 포기 선언 사태, 퇴근 복불복의 끝은]]></title>
+        <id>https://v.daum.net/v/20231007140304225</id>
+        <link href="https://v.daum.net/v/20231007140304225"/>
+        <updated>2023-10-07T05:09:48.220Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 이민지 기자] 나인우가 미션 촉을 발동한다. 10월 8일 오후 6시 15분 방송되는 KBS 2TV ‘1박 2일 시즌4’(이하 ‘1박 2일’) ‘홀리데이’ 특집에서는 퇴근 복불복 현장이 공개된다. 이날 방송에서는 휴가를 마친 여섯 남자가 초가을의 정취를 느낀다. 특히 오랜만에 자전거를 탄 연정훈이 유난히 신난 모습을 보인다. 아름다운 경치도 잠시]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[유승호, 충격적인 그림 실력…미술대회 금상 출신 맞아?]]></title>
+        <id>https://v.daum.net/v/20231007135638119</id>
+        <link href="https://v.daum.net/v/20231007135638119"/>
+        <updated>2023-10-07T05:09:48.225Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 박윤진 기자] SBS '런닝맨'에서는 유재석, 유승호 사이에 평행이론이 밝혀진다. 최근 진행된 녹화는 '런닝맨'의 시그니처 릴레이 그림 미션이 진행됐다. 앞서 멤버들은 그림 미션을 할 때마다 복화술을 남발하는 가하면, 온갖 꼼수 작전으로 놀라운 단합력을 보여줬던 바 있었는데 이번에는 인물 퀴즈와 그림을 결합해 업그레이드된 사생대회가 펼쳐져]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[45살 전현무에게 캠핑가자고 연락한 女 연예인에 관심집중, “실명공개”]]></title>
         <id>https://v.daum.net/v/20231007123021160</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20231007110329152"/>
         <updated>2023-10-07T02:17:09.726Z</updated>
         <content type="html"><![CDATA[[OSEN=장우영 기자] 가수 로이킴이 솔직 담백한 매력을 드러냈다. 로이킴은 지난 6일 오후 가수 김범수의 개인 유튜브 채널 '범수의 세계' 코너 '인생찻집'에 게스트로 출연해 다양한 이야기를 나눴다. 이날 김범수는 "너무 좋아하고 훌륭한 후배"라며 로이킴을 소개했다. 로이킴은 "언제 불러주시나 했다. 드디어 나온 가수 로이킴이다"라는 너스레와 함께]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['30일' 강하늘 "정소민, 지금은 짱예쁨"]]></title>
-        <id>https://v.daum.net/v/20231007105203034</id>
-        <link href="https://v.daum.net/v/20231007105203034"/>
-        <updated>2023-10-07T02:17:09.738Z</updated>
-        <content type="html"><![CDATA[[OSEN=김보라 기자] 배우 강하늘이 정소민의 미모를 극찬했다. 지난 2일 공개된 유튜브 채널 보그 코리아에서 강하늘은 “정소민은 영화 ‘스물’의 촬영을 위해서 리딩할 때 만났었는데 사람이 하얗게 예쁜 느낌이었다”고 당시를 회상했다. 그러면서 강하늘은 “근데 현 인상은 그냥 너무 예쁘다”고 칭찬했다. 이에 정소민은 “옆에 있기 되게 힘들다. 나갔다가]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘개훌륭’ 박세리부터 강형욱까지, 유혈사태 일으킨 역대급 고민견]]></title>
-        <id>https://v.daum.net/v/20231007104824998</id>
-        <link href="https://v.daum.net/v/20231007104824998"/>
-        <updated>2023-10-07T02:17:09.742Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 이민지 기자] 역대급 입질견이 등장한다. 10월 9일 방송되는 KBS 2TV ‘개는 훌륭하다’(이하 ‘개훌륭’)에서는 외부인뿐 아니라 보호자들의 얼굴까지 사정없이 물어뜯는 역대급 고민견 ‘울이’가 소개된다. 고민견 울이는 장모 치와와답지 않게 육중한 몸매를 자랑한다. 3년 차 신혼부부라는 울이의 보호자들은 “평소엔 똑똑하고 애교 많은 울이지만]]></content>
     </entry>
 </feed>
