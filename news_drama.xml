@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-10-08T06:13:45.169Z</updated>
+    <updated>2023-10-08T07:09:45.245Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김요한, 사이코패스 해커 된다..'가족계획' 합류]]></title>
+        <id>https://v.daum.net/v/20231008160101007</id>
+        <link href="https://v.daum.net/v/20231008160101007"/>
+        <updated>2023-10-08T07:09:29.421Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 | 이승훈 기자]  위아이 김요한 /사진=김창현 기자 chmt@위아이 김요한이 '가족계획'에 합류한다. 8일 스타뉴스 단독 취재 결과, 김요한은 새 드라마 '가족계획'에 캐스팅된 것으로 확인됐다. '가족계획'은 어린 시절 정체를 알 수 없는 시설에서 혹독한 훈련을 받은 여자가 시설을 탈출해 평범한 가족으로 살아가던 중 잔인한 악당들과 조우]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[려운, 기타 연주 비하인드 포착…쉬는 시간에도 맹연습]]></title>
+        <id>https://v.daum.net/v/20231008160100006</id>
+        <link href="https://v.daum.net/v/20231008160100006"/>
+        <updated>2023-10-08T07:09:29.423Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 김명미 기자] 려운, 최현욱, 설인아, 신은수의 웃음꽃 피는 ‘반짝이는 워터멜론’ 촬영 현장이 포착됐다. 매주 월, 화요일 오후 8시 50분에 방송되는 tvN 월화드라마 ‘반짝이는 워터멜론’(극본 진수완, 연출 손정현, 유범상, 기획 스튜디오드래곤, 제작 팬엔터테인먼트)에서 찬란했던 청춘을 소환하고 있는 배우들의 화기애애한 모습이 담긴 비하인드]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[유이, 참을 만큼 참았다…김도연에 강력 펀치 예고]]></title>
         <id>https://v.daum.net/v/20231008145951200</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20231008103848561"/>
         <updated>2023-10-08T01:51:59.967Z</updated>
         <content type="html"><![CDATA[[OSEN=하수정 기자] ‘오늘도 사랑스럽개’가 첫 방송을 앞둔 가운데 특별한 저주를 둘러싼 흥미진진한 인물들의 관계에 뜨거운 관심이 모아진다. 오는 11일 밤 9시 첫 방송 예정인 MBC 새 수요드라마 ‘오늘도 사랑스럽개’(연출 김대웅/ 극본 백인아/ 제작 그룹에이트, 판타지오/ 제작 투자 에이앤이 코리아)는 키스를 하면 개로 변하는 저주에 걸린 여자]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“키스하면 犬 된다?” 차은우→박규영 ‘사랑스럽개’ 인물관계도 공개]]></title>
-        <id>https://v.daum.net/v/20231008102307378</id>
-        <link href="https://v.daum.net/v/20231008102307378"/>
-        <updated>2023-10-08T01:51:59.973Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 김명미 기자] ‘오늘도 사랑스럽개' 인물 관계도가 공개됐다. 10월 11일 오후 9시 첫 방송 예정인 MBC 새 수요드라마 ‘오늘도 사랑스럽개’(연출 김대웅/ 극본 백인아/ 제작 그룹에이트, 판타지오/ 제작 투자 에이앤이 코리아)는 키스를 하면 개로 변하는 저주에 걸린 여자와 그 저주를 풀 수 있는 유일한 치트키지만 개를 무서워하는 남자의 댕며드]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[맨손으로 비행기 사고 막고 韓 귀환 …‘힘쎈여자 강남순’ 4.3%로 출발]]></title>
-        <id>https://v.daum.net/v/20231008101936340</id>
-        <link href="https://v.daum.net/v/20231008101936340"/>
-        <updated>2023-10-08T01:51:59.974Z</updated>
-        <content type="html"><![CDATA[[동아닷컴] ‘힘쎈여자 강남순’이 4%대 시청률로 출발했다. 8일 시청률 조사회사 닐슨코리아에 따르면 전날 오후 JTBC에서 첫 방송한 '힘쎈여자 강남순'은 전국 시청률 4.3%, 수도권 4.8%를 기록했다. 1화는 ‘대대힘힘’의 유전자를 가지고 태어난 괴력 소녀 강남순(이유미 분)이 한국에서 몽골로, 그리고 다시 한국으로 되돌아오기까지의 여정을 그렸다.]]></content>
     </entry>
 </feed>
