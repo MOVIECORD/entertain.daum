@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/variety</id>
     <title>다음 연예 ─ 뉴스 ─ 예능</title>
-    <updated>2023-10-08T05:10:38.632Z</updated>
+    <updated>2023-10-08T06:13:45.174Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘역대급 비주얼’ 문세윤, 딘딘과 대치 중 괴력 난입까지?]]></title>
+        <id>https://v.daum.net/v/20231008144421853</id>
+        <link href="https://v.daum.net/v/20231008144421853"/>
+        <updated>2023-10-08T06:13:32.196Z</updated>
+        <content type="html"><![CDATA[[OSEN=김채연 기자] ‘1박 2일’ 멤버들이 역대급 비주얼을 선보인다.&nbsp; 8일 방송되는 KBS 2TV ‘1박 2일 시즌4’(이하 ‘1박 2일’) 가을동화&nbsp;특집 첫 번째 이야기에서는 저주를 풀기 위해 눈치 폭발하는 여섯 남자의 레이스 서막이 시작된다.&nbsp; 콘셉트에 맞는 캐릭터로 변신한 멤버들은 귀여우면서도 충격적(?)인 모습으로 등장, 현장을 압도한다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[히밥 “신입 직원 월급 실수령액 500만원” 전현무도 탐내는 오른팔]]></title>
         <id>https://v.daum.net/v/20231008135416879</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231008104826674"/>
         <updated>2023-10-08T01:52:06.085Z</updated>
         <content type="html"><![CDATA[[OSEN=강서정 기자] ‘위대한 가이드’&nbsp;멤버들의 빵 터지는 비하인드 영상이 공개됐다. MBC에브리원 신규 예능&nbsp;‘위대한 가이드’는 한국 거주&nbsp;N년차 대한외국인이 가이드가 되어,&nbsp;모국을 방문하는 여행자들과 현지인만이 아는 스팟들로 떠나는 현지인 착붙 여행 리얼리티 프로그램이다.&nbsp;오는&nbsp;10월&nbsp;16일 오후&nbsp;7시&nbsp;40분 첫 방송을 앞두고 있다. 이런 가운데]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박군, 사랑꾼 모습은 어디로..♥한영에 언성 "내가 알아서 할게"]]></title>
-        <id>https://v.daum.net/v/20231008104122594</id>
-        <link href="https://v.daum.net/v/20231008104122594"/>
-        <updated>2023-10-08T01:52:06.090Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 | 최혜진 기자] 박군, 한영/사진=SBSSBS 예능 프로그램 '동상이몽 시즌2 - 너는 내 운명'(이하 '동상이몽')에서 박군, 한영 부부가 갈등을 벌인다. 9일 방송되는 '동상이몽'에서는 초유의 갈등에 봉착한 박군, 한영 부부의 모습이 그려진다. 최근 진행된 녹화에서는 이사를 앞두고 극도로 예민해진 박군과 한영이 일거수일투족 부딪히며 신]]></content>
     </entry>
 </feed>

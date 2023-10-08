@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-10-08T05:10:38.627Z</updated>
+    <updated>2023-10-08T06:13:45.182Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['아빠되고 바뀐' 송중기, '하입보이'→손하트♥ 팬서비스 폭발 BIFF]]></title>
+        <id>https://v.daum.net/v/20231008143613713</id>
+        <link href="https://v.daum.net/v/20231008143613713"/>
+        <updated>2023-10-08T06:13:20.752Z</updated>
+        <content type="html"><![CDATA[[OSEN=하수정 기자] 높은 몰입도와 배우들의 열연으로 열띤 호평을 모으며 기대를 높이고 있는 화제작 '화란'(감독 김창훈, 제공배급 플러스엠 엔터테인먼트, 제작 ㈜사나이픽처스, 공동 제작 ㈜하이스토리·플러스엠 엔터테인먼트)이 28회 부산국제영화제 송중기 액터스 하우스와 오픈 토크로 관객들과 만났다. 칸 국제영화제부터 부산국제영화제까지 전 세계 유수의]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['괴물' 고레에다 히로카즈 "영화 너머에 존재하는 무엇 믿는다"]]></title>
         <id>https://v.daum.net/v/20231008131201279</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231008082641125"/>
         <updated>2023-10-08T00:50:02.515Z</updated>
         <content type="html"><![CDATA[[스포츠한국 조은애 기자] '30일'이 5일 연속 박스오피스 정상을 달리고 있다. 8일 영진위 통합전산망 집계에 따르면 '30일'은 전날&nbsp;11만310명의 관객을 동원하며 박스오피스 1위를 차지했다. 누적 관객 수는&nbsp;44만6532명이다. '30일'은 드디어 D-30, 서로의 찌질함과 똘기를 견디다 못해 마침내 완벽하게 남남이 되기 직전 동반기억상실]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘더 글로리’ 송혜교 ‘무빙’ 류승룡 남녀주연상 후보→최우수작품상 경쟁… OTT 승자는?]]></title>
-        <id>https://v.daum.net/v/20231008080102957</id>
-        <link href="https://v.daum.net/v/20231008080102957"/>
-        <updated>2023-10-07T23:09:58.130Z</updated>
-        <content type="html"><![CDATA[송혜교의 ‘더 글로리’일까, 류승룡의 ‘무빙’일까. 8일 부산 해운대구 영화의전당 야외극장에서 개최되는 2023 아시아콘텐츠어워즈 &amp; 글로벌OTT어워즈(Asia Contents Awards &amp; Global OTT Awards)에서 ‘더 글로리’와 ‘무빙’이 베스트 크리에이티브(최우수 작품상), 작가상 부문에서 경쟁한다. 과연 둘 중 어떤 작품이 수상의]]></content>
     </entry>
 </feed>
