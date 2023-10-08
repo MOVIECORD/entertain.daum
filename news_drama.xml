@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-10-08T03:11:13.769Z</updated>
+    <updated>2023-10-08T04:12:50.527Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['힘쎈여자 강남순' 이유미의 한국 적응기…지켜보던 옹성우X영탁 '눈이 휘둥그레']]></title>
+        <id>https://v.daum.net/v/20231008130832250</id>
+        <link href="https://v.daum.net/v/20231008130832250"/>
+        <updated>2023-10-08T04:12:32.315Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 이승길 기자] ‘힘쎈여자 강남순’ 이유미가 예상치 못한 난관에 봉착한다. JTBC 토일드라마 ‘힘쎈여자 강남순’ 측은 8일, 강남순(이유미)의 파란만장한 한국 적응기를 공개했다. 공항 검색대에서 불꽃 눈싸움을 벌이는 강남순, 강희식(옹성우)의 모습이 두 사람의 첫 만남에 호기심을 자극한다. 비행기 사고를 막은 ‘힘쎈’ 신고식에 이어 어떤]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['거래' 유승호·이주영 등, BIFF 오픈토크 성료 "친구 납치극 발칙해"]]></title>
         <id>https://v.daum.net/v/20231008113857368</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231008081025046"/>
         <updated>2023-10-08T00:50:08.207Z</updated>
         <content type="html"><![CDATA[[OSEN=박하영 기자] ‘힘쎈여자 강남순’ 이유미가 괴력을 발휘해 비행기를 멈춰세웠다.&nbsp; 7일 첫 방송된 JTBC 새 토일드라마 ‘힘쎈여자 강남순’(극본 백미경, 연출 김정식·이경식)에서는&nbsp;강남순(이유미 분)이 공항에서 괴력을 발휘하는 모습이 그려졌다. 이날 어린 시절 강남순이 몽골에서 체첵이라는 이름으로 자신의 몸집 3배가 넘는 남자와 힘 대결을 펼]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이유미, 맨손으로 비행기 사고 막아…몽골 소녀의 한국 입성]]></title>
-        <id>https://v.daum.net/v/20231008080505021</id>
-        <link href="https://v.daum.net/v/20231008080505021"/>
-        <updated>2023-10-07T23:10:02.985Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 윤현지 기자) '힘쎈여자 강남순'이 힘쎈 귀환을 알렸다. 지난 7일 방송된 '힘쎈여자 강남순'은 힘으로 몽골을 평정한 한 소녀의 등장으로 막을 열었다. 자기 체구의 몇 배나 되는 사람을 가뿐히 이긴 괴력 소녀의 이름은 체첵(이유미 분). 사실 그의 정체는 한국에서 온 '강남순'이었다.&nbsp; 아빠 강봉고(이승준)와 함께 떠났던 몽골 여행에서 예기치]]></content>
     </entry>
 </feed>
