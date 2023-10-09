@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-10-09T06:15:04.617Z</updated>
+    <updated>2023-10-09T07:10:51.156Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[재키 오, 성형수술 합병증 사망 “의사 범죄 혐의 無”]]></title>
+        <id>https://v.daum.net/v/20231009154847194</id>
+        <link href="https://v.daum.net/v/20231009154847194"/>
+        <updated>2023-10-09T07:10:50.331Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 황혜진 기자] 미국 배우 재키 오(Jacky Oh) 사인이 밝혀졌다. 10월 3일(현지시간) 영국 매체 데일리메일 보도에 따르면 미국 마이애미 경찰은 4개월여 동안의 조사 끝에 재키 오가 성형수술 합병증으로 인해 사망했다는 결론을 내렸다. 재키 오는 5월 31일 마이애미 호텔 객실에서 의식을 잃은 채로 발견돼 병원으로 후송됐다. 부검 보고서에는]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘티모시 샬라메♥’ 카일리 제너, 중동전쟁 와중에 이스라엘 지지했다가 뭇매…"미친짓" 비난쇄도]]></title>
         <id>https://v.daum.net/v/20231009143523803</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231009104321210"/>
         <updated>2023-10-09T01:46:03.442Z</updated>
         <content type="html"><![CDATA[[스포츠서울 | 유다연인턴기자] 영화 ‘바비’를 연출한 그레타 거윅감독이 이 영화 후반부에 등장하는 켄의 무대를 위해 회의를 열었다고 고백했다. 거윅 감독은 8일(현지시각)  영국 영화 협회 축제에 참석해 관객과 대화를 나눴다. 이 자리에서 거윅 감독은 극중  켄(라이언 고슬링 분)이 부른 ‘아임 저스트 켄’(I‘m Just Ken)의 댄스 시퀀스가]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美 카일리 제너, ‘이스라엘 지지’ 철회…해외 누리꾼 “글 쓰기 전 공부해라” 일침]]></title>
-        <id>https://v.daum.net/v/20231009104001141</id>
-        <link href="https://v.daum.net/v/20231009104001141"/>
-        <updated>2023-10-09T01:46:03.449Z</updated>
-        <content type="html"><![CDATA[[스포츠서울 | 유다연인턴기자] 미국 리얼리티 TV쇼 스타 카일리 제너(26)가 팔레스타인과 무력 충돌한 이스라엘을 지지하는 글을 공유했다가 비판받았다. 8일(현지시각) 카일리 제너는 개인 채널에 이스라엘을 지지하는 계정인 ‘스탠드위드어스’의 게시물을 공유했다. 이스라엘 국기와 함께 “지금 그리고 항상, 우리는 이스라엘 사람들과 함께한다!”는 글이었다]]></content>
     </entry>
 </feed>
