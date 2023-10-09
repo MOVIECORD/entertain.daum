@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2023-10-09T07:10:51.153Z</updated>
+    <updated>2023-10-09T08:15:40.508Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[펜타곤 데뷔 7주년…여원→우석 5人, 큐브엔터 계약 종료]]></title>
+        <id>https://v.daum.net/v/20231009171320800</id>
+        <link href="https://v.daum.net/v/20231009171320800"/>
+        <updated>2023-10-09T08:15:34.725Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 이슬 기자) 펜타곤 여원, 옌안, 유토, 키노, 우석이 큐브 엔터테인먼트를 떠난다. 9일 소속사 큐브 엔터테인먼트는 "당사는 펜타곤 멤버들의 전속계약 만료 시점을 앞두고 멤버들과 오랜 시간 진솔한 대화를 나눴다. 신중한 논의를 거듭한 끝에 여원, 옌안, 유토, 키노, 우석과의 전속계약을 종료하게 되었다"라고 밝혔다. 이로써 여원, 옌안, 유토]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘어디와도 다른’ K-히어로물의 핵심은 ‘가족애’]]></title>
+        <id>https://v.daum.net/v/20231009170005501</id>
+        <link href="https://v.daum.net/v/20231009170005501"/>
+        <updated>2023-10-09T08:15:34.727Z</updated>
+        <content type="html"><![CDATA[지난 7일 방송된 JTBC 새 주말극 ‘힘쎈여자 강남순’의 한 장면. 사진이 취미인 아버지와 함께 몽골로 떠났던 소녀는 아버지의 손을 놓고 미아가 되고 말았고, 가족과 헤어졌다. 소녀는 20대로 자라 부모를 찾기 위해 한국으로 왔다. 한국에서도 딸과 손녀를 찾기 위한 노력이 백방으로 이뤄졌다. 딸을 잃은 충격으로 엄마는 돈을 악착같이 긁어모아 현금재벌]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[박혜수, 학폭 진실게임 끝낼까 "허위사실 유포, 명예훼손 송치"]]></title>
+        <id>https://v.daum.net/v/20231009164005150</id>
+        <link href="https://v.daum.net/v/20231009164005150"/>
+        <updated>2023-10-09T08:15:34.729Z</updated>
+        <content type="html"><![CDATA[[스포티비뉴스=장진리 기자] 배우 박혜수가 학교폭력 가해 의혹에 반격을 예고했다. 박혜수의 소속사 고스트 스튜디오는 "피고소인(학폭 의혹 제기자)가 명예훼손 혐의가 소명된다는 이유로 기소의견으로 송치됐다"라고 9일 밝혔다. 박혜수는 2021년부터 학교폭력 가해 의혹에 휩싸였다. 그에게 학교폭력 피해를 입었다는 사람들이 모인 피해자 모임이 등장해 폭행]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘학폭 의혹’ 박혜수 측, ‘너와 나’ 시사회 하루 남기고 “허위사실 명예훼손 송치” 입장]]></title>
+        <id>https://v.daum.net/v/20231009163040002</id>
+        <link href="https://v.daum.net/v/20231009163040002"/>
+        <updated>2023-10-09T08:15:34.732Z</updated>
+        <content type="html"><![CDATA[배우 박혜수 측이 학교 폭력(학폭) 의혹과 관련해 법적 대응을 예고한 지 2년 반 만에 새로운 입장을 발표했다. 특히 이번 입장 발표는 영화 ‘너와 나’ 언론시사회 하루 전이라 눈길을 끈다. 시사회 후 진행될 기자간담회에서 나올 질문을 미리 차단하려 한 것이 아니냐는 의문을 주기 충분하기 때문이다. 9일 박혜수 소속사 고스트 스튜디오는 명예훼손 형사 고소]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘동상이몽2’ 레이디제인, 임신 집착 ‘10살 연하’ 남편에 당황 “벌써부터 난리다”]]></title>
         <id>https://v.daum.net/v/20231009160516532</id>
@@ -81,33 +109,5 @@
         <link href="https://v.daum.net/v/20231009150828458"/>
         <updated>2023-10-09T06:14:57.853Z</updated>
         <content type="html"><![CDATA[방송인 박명수가 자신의 히트곡 ‘바보에게 바보가’를 작사한 원태연의 상당한 저작권료에 부러움을 드러냈다.&nbsp; 9일 방송한 KBS Cool FM ‘박명수의 라디오쇼’ (이하 ‘라디오쇼’)는 ‘전설의 고수’ 특집으로 시인 겸 작사 원태연이 게스트로 출연했다. 이날 박명수는 “15년 동안 ‘바보에게 바보가’를 부를 때마다 가슴이 아프다”며 “이 노래를 작사해]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박혜수, 학폭 의혹 벗나 "허위사실로 명예훼손 검찰 송치"]]></title>
-        <id>https://v.daum.net/v/20231009150123332</id>
-        <link href="https://v.daum.net/v/20231009150123332"/>
-        <updated>2023-10-09T06:14:57.858Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 | 윤성열 기자]  /사진=임성균 기자 tjdrbs23@배우 박혜수를 상대로 학교 폭력 의혹을 제기한 네티즌이 명예훼손 혐의로 검찰에 송치됐다. 소속사 고스트 스튜디오 측은 9일 공식 입장을 내고 "수사기관에서는 피고소인이 허위사실 적시해 고소인의 사회적 평가를 침해한 점이 상당해 명예훼손 혐의가 소명된다는 이유로 송치(기소의견 송치)했다"며]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['찬란한 내일로' 유선희 "칸 이어 부산까지, 벅차…모레티 감독도 기뻐해"]]></title>
-        <id>https://v.daum.net/v/20231009145639219</id>
-        <link href="https://v.daum.net/v/20231009145639219"/>
-        <updated>2023-10-09T06:14:57.859Z</updated>
-        <content type="html"><![CDATA[(부산=뉴스1) 고승아 기자 = 이탈리아에서 활동 중인 피아니스트 겸 배우 유선희(40)가 이탈리아 거장 감독 난니 모레티(Nanni Moretti)의 신작 '찬란한 내일로'(Il Sol Dell'Avvenire)로 제76회 칸 국제영화제에 이어 제28회 부산국제영화제를 통해 관객들과 만나게 됐다. '찬란한 내일로'는 거장 감독 난니 모레티가 연출과 주]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[조혜련 "박미선 씨가 골프 제일 못 쳐, 괌에서 한 라이온 킹 타투가 쥐처럼 변해"]]></title>
-        <id>https://v.daum.net/v/20231009145334138</id>
-        <link href="https://v.daum.net/v/20231009145334138"/>
-        <updated>2023-10-09T06:14:57.860Z</updated>
-        <content type="html"><![CDATA[SBS 파워FM '두시탈출 컬투쇼'에 조혜련이 스페셜 DJ로 출연했다. 9일(월) 방송된 SBS 파워FM '두시탈출 컬투쇼'에서는 조혜련이 '쇼단원 소리질러~' 코너에서 청취자들의 사연을 소개했다. 이날 DJ 김태균이 "제가 신인이었을 때 만난 누나가 기억난다"라고 말하자 조혜련이 "그때도 머리가 컸다"라고 말했고, 김태균이 "신인 개그맨이라고 참]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“울어요 저”..이지혜, 제주살이 결심 하루만 취소..워킹맘 쉽지않네]]></title>
-        <id>https://v.daum.net/v/20231009144921039</id>
-        <link href="https://v.daum.net/v/20231009144921039"/>
-        <updated>2023-10-09T06:14:57.861Z</updated>
-        <content type="html"><![CDATA[[OSEN=김채연 기자] 제주 한달살이를 결심했던 가수 겸 방송인 이지혜가 하루 만에 취소를 선언했다. 8일 이지혜는 자신의 SNS를 통해 “한달 제주살이를 해보려고 한다. 아이들 둘과 남편 추억 만들고 싶어서요. 지금이 아니면 못할 거 같아요”라며 숙소를 추천해달라고 말했다. 이어 “다녀와서 생생후기 남길게요. 스케줄상 공항과 가까우면 좋구요. 바다도]]></content>
     </entry>
 </feed>
