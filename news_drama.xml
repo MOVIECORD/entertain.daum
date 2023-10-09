@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-10-09T14:11:29.906Z</updated>
+    <updated>2023-10-09T15:12:07.131Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[려운, 최현욱 사고 막기로 결심 "아빠 미래 바꿔줄거야"]]></title>
+        <id>https://v.daum.net/v/20231009235530901</id>
+        <link href="https://v.daum.net/v/20231009235530901"/>
+        <updated>2023-10-09T15:11:49.412Z</updated>
+        <content type="html"><![CDATA[[TV리포트=김유진 기자] 려운이 아버지인 최현욱의 미래를 바꾸기로 결심했다. 9일 방영된 월화드라마 tvN '반짝이는 워터멜론' 5화에서는 은결(려운)이 아버지인 하이찬(최현욱)을 지키기로 마음 먹는 모습이 그려졌다. 은결은 아버지 하이찬이 큰 사고를 당하고 남았던 어깨에 흉터가 없다는 것을 발견했다. 이어 아빠가 청력을 잃게된 사고가 아직 일어나지 않]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[남상지 극단 관뒀다는 말에 이도겸 "미래, 희망 없는 곳...다른데 알아봐라"]]></title>
         <id>https://v.daum.net/v/20231009223431525</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231009150021309"/>
         <updated>2023-10-09T06:14:46.276Z</updated>
         <content type="html"><![CDATA[[OSEN=선미경 기자] 배우 신세경(EDAM&nbsp;엔터테인먼트 소속)이 드라마 속 아스달을 차지하기 위해 준비했던 큰 그림을 현실로 옮기려는 준비에 돌입하며, 대제관과 인간 사이를 오가는 모습으로 시청자에 매력을 발산했다.&nbsp; 신세경은&nbsp;지난&nbsp;8일 오후&nbsp;9시20분부터 연속 방송된 케이블채널 tvN&nbsp;토일드라마 '아라문의 검'(극본 김영현 박상연,&nbsp;연출 김광식)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[신하균 “악인의 길에 들어서는 상황들..재미있을 것”]]></title>
-        <id>https://v.daum.net/v/20231009143603811</id>
-        <link href="https://v.daum.net/v/20231009143603811"/>
-        <updated>2023-10-09T06:14:46.277Z</updated>
-        <content type="html"><![CDATA[[OSEN=강서정 기자] 신하균이&nbsp;‘악인전기’를 선택한 이유를 밝혔다. 지니&nbsp;TV&nbsp;오리지널 드라마 ‘악인전기’(극본 서희,&nbsp;이승훈, 연출 김정민,&nbsp;김성민)는 절대 악인을 만난 생계형 변호사가 엘리트 악인으로 변모하는 이야기를 담은 범죄 누아르 드라마다.&nbsp;지니&nbsp;TV,&nbsp;지니&nbsp;TV&nbsp;모바일, ENA를 통해&nbsp;10월&nbsp;14일(토)&nbsp;첫 공개되며, ENA&nbsp;채널에서는 새]]></content>
     </entry>
 </feed>
