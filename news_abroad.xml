@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-10-09T08:15:40.507Z</updated>
+    <updated>2023-10-09T09:12:12.608Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[재키 오, 4개월 만에 밝혀진 사인 '엉덩이 확대술' 합병증]]></title>
+        <id>https://v.daum.net/v/20231009173847348</id>
+        <link href="https://v.daum.net/v/20231009173847348"/>
+        <updated>2023-10-09T09:12:11.844Z</updated>
+        <content type="html"><![CDATA[[OSEN=연휘선 기자] 미국의 배우 겸 코미디언&nbsp;재키 오의 사인이 뒤늦게 드러났다.&nbsp; 최근 외신들은 미국 마이애미 경찰이 4개월 여의 조사 끝에 재키 오의 사인을&nbsp;성형수술 합병증으로 결론내렸다고 보도했다.&nbsp; 재키 오는 지난 5월 31일 마이애미의 한 호텔에서 의식을 잃은 채 발견됐다. 그는 발견 직후 병원으로 후송됐으나 눈을 뜨지 못하고 결국 사망했다]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘부창부수’라더니…아리아나 그란데 前 남편, 이혼 3일만에 식당서 애정행각]]></title>
         <id>https://v.daum.net/v/20231009164822304</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231009111621768"/>
         <updated>2023-10-09T02:18:50.938Z</updated>
         <content type="html"><![CDATA[[스포츠조선 정빛 기자] 미국 팝스타 브루노 마스가 이스라엘과 팔레스타인 무장정파 하마스의 충돌로, 이스라엘 콘서트를 긴급 취소했다. 8일(현지시간) 미국 CNN과 이스라엘 일간 타임오브이스라엘 등에 따르면 마스는 하마스의 로켓 공격으로 이스라엘 텔아비브 공항에서 머물다 현지를 떠났다. 브루노 마스는 지난 4일 이스라엘 관객 6만 명 앞에서]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[하마스 공습에…브루노 마스, 콘서트 긴급 취소→이스라엘 탈출 “어려운 순간”]]></title>
-        <id>https://v.daum.net/v/20231009110538590</id>
-        <link href="https://v.daum.net/v/20231009110538590"/>
-        <updated>2023-10-09T02:18:50.938Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 황혜진 기자] 푸에르토리코, 필리핀계 미국인 가수 브루노 마스(Bruno Mars)가 이스라엘에서 탈출했다. 10월 7일(현지시간) 미국 매체 페이지식스 보도에 따르면 브루노 마스 공연 기획사 라이브네이션 측은 관객들에게 "오늘 밤 열릴 예정이었던 브루노 마스 공연이 취소됐다"며 "우린 지금의 어려운 순간 이스라엘 주민들과 함께한다"고 공지했다.]]></content>
     </entry>
 </feed>
