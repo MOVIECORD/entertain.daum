@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-10-09T19:09:08.452Z</updated>
+    <updated>2023-10-09T20:10:39.322Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘30일’ 남대중 감독 “누군가 강하늘 욕한다면? 그 사람이 나쁠 확률 커”]]></title>
+        <id>https://v.daum.net/v/20231010050208202</id>
+        <link href="https://v.daum.net/v/20231010050208202"/>
+        <updated>2023-10-09T20:10:16.096Z</updated>
+        <content type="html"><![CDATA[“코미디만 하는 이유요? 제가 좋아하고 잘할 수 있는 거라서요. 앞으로 어떤 작품을 하더라도 코미디는 빼놓을 수 없어요.” 데뷔작 ‘위대한 소원’부터 ‘30일’까지 코미디 외길 인생이다. 남대중 감독이 가을 극장가에 웃음 폭탄을 장착해 돌아왔다. 지난 3일 개봉한 ‘30일’은 서로의 지질함과 똘끼를 견디다 못해 남남이 되기 직전 동반 기억상실증에 걸려버]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[송중기의 키워드 셋, #화란 #칸 #아들 바보]]></title>
         <id>https://v.daum.net/v/20231010000032945</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231009133303652"/>
         <updated>2023-10-09T05:11:09.994Z</updated>
         <content type="html"><![CDATA[[스타뉴스 | 부산=김나연 기자] 배우 송강호, 남동철 집행위원장 직무대행이 4일 오후 부산 해운대구 영화의 전당에서 진행된 제28회 부산국제영화제(BIFF) 레드카펫 행사에서 내빈을 맞이하고 있다.  제28회 부산국제영화제는 오는 4일 개막식을 시작으로 13일까지 열흘간 영화의전당 일대에서 개최된다. 2023.10.04 /사진=김창현호스트 송강호를 시작으]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["차린 것 많다" 제28회 부국제, 위기 딛고 기회로 ①]]></title>
-        <id>https://v.daum.net/v/20231009133201639</id>
-        <link href="https://v.daum.net/v/20231009133201639"/>
-        <updated>2023-10-09T05:11:09.999Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 | 부산=김나연 기자] 제28회 부산국제영화제(BIFF) 개막식이 4일 오후 부산 해운대구 영화의 전당에서 진행되고 있다.  제28회 부산국제영화제는 오는 4일 개막식을 시작으로 13일까지 열흘간 영화의전당 일대에서 개최된다. 2023.10.04 /사진=김창현제28회 부산국제영화제(BIFF)가 위기를 딛고 기회를 엿봤다. "차린 것이 많다"던 영]]></content>
     </entry>
 </feed>
