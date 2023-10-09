@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-10-09T09:12:12.608Z</updated>
+    <updated>2023-10-09T10:12:39.152Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[카일리 제너는 욕먹고 글 내렸는데... 갤 가돗, 이스라엘 공개 지지]]></title>
+        <id>https://v.daum.net/v/20231009181530968</id>
+        <link href="https://v.daum.net/v/20231009181530968"/>
+        <updated>2023-10-09T10:12:38.382Z</updated>
+        <content type="html"><![CDATA[[TV리포트=이혜미 기자] '원더우먼' 갤 가돗이 팔레스타인 무장단체 하마스의 공격을 받은 이스라엘을 공개적으로 지지했다. 가돗은 9일(현지시간) 자신의 소셜 계정에 "나는 이스라엘의 편에 서있다. 여러분들도 그렇게 해아 한다. 이러한 끔찍한 테러 행위가 일어나는 상황을 방관할 수 없다"면서 이스라엘 국기를 게시했다. 이어 하마스에 의해 250여 명의 이스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[재키 오, 4개월 만에 밝혀진 사인 '엉덩이 확대술' 합병증]]></title>
         <id>https://v.daum.net/v/20231009173847348</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231009115917394"/>
         <updated>2023-10-09T03:11:36.956Z</updated>
         <content type="html"><![CDATA[[OSEN=강서정 기자] 가수 브루노 마스가 팔레스타인 무장 정파 하마스의 이스라엘 공습에 예정됐던 콘서트를 취소하고 긴급 탈출했다. 리얼리티 스타 카일리 제너는 이스라엘을 지지했다가 비판받았고 결국 지지하는 글을 삭제했다.&nbsp; 8일(현지시간) 타임 오브 이스라엘, 페이지 식스 등 보도에 따르면 브루노 마스는 이스라엘 텔아비브 공항에서 몇 시간 머물다 하]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[브루노 마스, 이스라엘 긴급 탈출…콘서트도 당일 급 취소]]></title>
-        <id>https://v.daum.net/v/20231009111621768</id>
-        <link href="https://v.daum.net/v/20231009111621768"/>
-        <updated>2023-10-09T02:18:50.938Z</updated>
-        <content type="html"><![CDATA[[스포츠조선 정빛 기자] 미국 팝스타 브루노 마스가 이스라엘과 팔레스타인 무장정파 하마스의 충돌로, 이스라엘 콘서트를 긴급 취소했다. 8일(현지시간) 미국 CNN과 이스라엘 일간 타임오브이스라엘 등에 따르면 마스는 하마스의 로켓 공격으로 이스라엘 텔아비브 공항에서 머물다 현지를 떠났다. 브루노 마스는 지난 4일 이스라엘 관객 6만 명 앞에서]]></content>
     </entry>
 </feed>

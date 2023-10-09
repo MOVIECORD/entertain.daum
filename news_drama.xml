@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-10-09T09:12:12.611Z</updated>
+    <updated>2023-10-09T10:12:39.163Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[유이, 망나니 동생과 공포의 스파링 "父 없으니 똑바로 살아" 호소]]></title>
+        <id>https://v.daum.net/v/20231009182742123</id>
+        <link href="https://v.daum.net/v/20231009182742123"/>
+        <updated>2023-10-09T10:12:21.229Z</updated>
+        <content type="html"><![CDATA[[OSEN=하수정 기자] ‘효심이네 각자도생’의 현대판 ‘효녀 심청’ 유이가 각자도생을 위해 막내 김도연 단속부터 제대로 시작했다. 공포의 스파링으로 후, “아버지가 없으니 똑바로 살아야 한다”며 진심으로 호소해 정신이 번쩍 들게 만들었다. 지난 8일 방송된 KBS 2TV 주말드라마 ‘효심이네 각자도생’(연출 김형일, 극본 조정선, 제작 아크미디어) 5]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김정은, 약 빠는 대한민국 구세주? “직접 해결하겠다”]]></title>
         <id>https://v.daum.net/v/20231009163920139</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231009102819992"/>
         <updated>2023-10-09T01:45:49.222Z</updated>
         <content type="html"><![CDATA[(엑스포츠뉴스 이예진 기자) 배우 신하균이 ‘악인전기’를 선택한 이유를 직접 밝혔다. 지니 TV 오리지널 드라마 ‘악인전기’는 절대 악인을 만난 생계형 변호사가 엘리트 악인으로 변모하는 이야기를 담은 범죄 누아르 드라마다. 지니 TV, 지니 TV 모바일, ENA를 통해 오는 14일 첫 공개되며, ENA 채널에서는 새롭게 토일드라마 슬롯을 확장해 주말 안방극]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘아라문의 검’ 신세경, ‘강강약약’ 표본]]></title>
-        <id>https://v.daum.net/v/20231009101200688</id>
-        <link href="https://v.daum.net/v/20231009101200688"/>
-        <updated>2023-10-09T01:45:49.227Z</updated>
-        <content type="html"><![CDATA[‘아라문의 검’ 신세경이 드라마 속 아스달을 차지하기 위해 준비했던 큰 그림을 현실로 옮기려는 준비에 돌입했다. 신세경은 지난 8일 연속방송된 tvN 토일드라마 ‘아라문의 검’ 7,8회에서 장동건(타곤 역)과의 날 선 대립은 물론 아스달을 차지하고자 행동으로 옮긴 ‘탄야’로 활약했다. 이날 신세경은 극중 아버지 정석용(열손 역)과의 만남에서 이준기(은섬/]]></content>
     </entry>
 </feed>
