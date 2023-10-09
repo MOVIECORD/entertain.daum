@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-10-09T13:16:14.501Z</updated>
+    <updated>2023-10-09T14:11:29.906Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[남상지 극단 관뒀다는 말에 이도겸 "미래, 희망 없는 곳...다른데 알아봐라"]]></title>
+        <id>https://v.daum.net/v/20231009223431525</id>
+        <link href="https://v.daum.net/v/20231009223431525"/>
+        <updated>2023-10-09T14:11:11.232Z</updated>
+        <content type="html"><![CDATA[[TV리포트=김유진 기자] 이도겸이 남상지의 직업을 오해하고는 말실수를 했다. 9일 방영된 KBS 일일드라마 '우당탕탕 패밀리' 13회에서는  강선우(이도겸)와 유은성(남상지)가 영화관에서 우연히 만난 모습이 그려졌다. 유은성은 실수로 강선우의 커피를 마셨다. 강선우는 "마셨어요? 방금 빨대로 쭉쭉 빠는거 봤는데"라며 유은성에게 따졌다. 유은성은 새로 커피]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['반짝이는 워터멜론' 려운X최현욱X설인아X신은수, 과거 바뀌기 시작했다]]></title>
         <id>https://v.daum.net/v/20231009221307358</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231009143603811"/>
         <updated>2023-10-09T06:14:46.277Z</updated>
         <content type="html"><![CDATA[[OSEN=강서정 기자] 신하균이&nbsp;‘악인전기’를 선택한 이유를 밝혔다. 지니&nbsp;TV&nbsp;오리지널 드라마 ‘악인전기’(극본 서희,&nbsp;이승훈, 연출 김정민,&nbsp;김성민)는 절대 악인을 만난 생계형 변호사가 엘리트 악인으로 변모하는 이야기를 담은 범죄 누아르 드라마다.&nbsp;지니&nbsp;TV,&nbsp;지니&nbsp;TV&nbsp;모바일, ENA를 통해&nbsp;10월&nbsp;14일(토)&nbsp;첫 공개되며, ENA&nbsp;채널에서는 새]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[차은우X박규영 로맨스 어떨까..'오늘도 사랑스럽개', 관전 포인트 셋]]></title>
-        <id>https://v.daum.net/v/20231009143510801</id>
-        <link href="https://v.daum.net/v/20231009143510801"/>
-        <updated>2023-10-09T06:14:46.278Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 | 김나연 기자] 오늘도 사랑스럽개 / 사진=MBC'오늘도 사랑스럽개'가 알고 보면 더욱 재미있는 관전 포인트를 공개했다. 오는 11일 오후 9시 첫 방송 예정인 MBC 새 수요드라마 '오늘도 사랑스럽개'(극본 백인아·연출 김대웅)는 키스를 하면 개로 변하는 저주에 걸린 여자와 그 저주를 풀 수 있는 유일한 치트키지만 개를 무서워하는 남자의 댕]]></content>
     </entry>
 </feed>
