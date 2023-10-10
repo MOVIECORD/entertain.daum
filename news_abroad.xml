@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-10-10T11:09:42.485Z</updated>
+    <updated>2023-10-10T12:20:07.322Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[배우 오경, 단골 국숫집 사라진다는 소식에 '16억 건물' 직접 샀다]]></title>
+        <id>https://v.daum.net/v/20231010210231372</id>
+        <link href="https://v.daum.net/v/20231010210231372"/>
+        <updated>2023-10-10T12:20:06.576Z</updated>
+        <content type="html"><![CDATA[[TV리포트=김현재 기자] 유명 대만 배우 오경이 남다른 스케일로 이목을 끌었다. 지난 7일 태국 매체인 타이난스타일은 오경이 어린 때부터 자주 방문하던 소고기 국수 가게를 구하기 위해 16억 원을 냈다고 보도했다. 타이난에 본사를 두며 50년 동안 영업을 이어오던 '라오탕'은 지난 2022년 문을 닫았다. 이에 자신의 추억이 담긴 장소를 잃고 싶지 않았]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['디카프리오와 썸' 지지 하디드, 브래들리 쿠퍼 짝사랑했나]]></title>
         <id>https://v.daum.net/v/20231010190034809</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231010132131114"/>
         <updated>2023-10-10T05:10:53.070Z</updated>
         <content type="html"><![CDATA[[TV리포트=유비취 기자] 병원에 실려갔던 팝스타 마돈나가 건강의 중요성을 깨달았는지 운동 기구를 사들였다. 9일(현지 시간) 영국 매체 데일리메일에 따르면 마돈나는 런던 O2 아레나에서 첫 콘서트를 하기 위해 마지막 준비를 하고 있다. 마돈나는 운동을 위해 호텔에도 운동 기구를 챙겨 갔다. 같은 날 오전 마돈나가 묵는 호텔에는 운동용 자전거 9대가 배달됐]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[도자캣, '여혐·신나치주의' 티셔츠로 논란...공인으로서 자각 없나]]></title>
-        <id>https://v.daum.net/v/20231010122130893</id>
-        <link href="https://v.daum.net/v/20231010122130893"/>
-        <updated>2023-10-10T04:12:47.964Z</updated>
-        <content type="html"><![CDATA[[TV리포트=유비취 기자] 전 세계적인 인기를 끌고 있는 가수 도자캣이 신나치주의 옷을 입어 논란의 중심에 섰다. 지난 6일 도자캣(27)은 소셜네트워크서비스를 통해 셀카를 공개했다. 그러나 도자캣이 착용한 티셔츠에는 신나치주의로 비난 받고 있는 코미디언 샘 하이드의 얼굴이 새겨져 있었다. 샘 하이드는 백인 민족주의자, 여성혐오주의자, 반유대주의자로 알려져]]></content>
     </entry>
 </feed>
