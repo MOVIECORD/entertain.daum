@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-10-11T21:10:17.313Z</updated>
+    <updated>2023-10-11T22:10:03.058Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[차은우, 저주걸린 박규영과 ♥키스…진서원과 완벽 싱크로율]]></title>
+        <id>https://v.daum.net/v/20231012070601179</id>
+        <link href="https://v.daum.net/v/20231012070601179"/>
+        <updated>2023-10-11T22:09:45.792Z</updated>
+        <content type="html"><![CDATA[[텐아시아=류예지 기자]'오늘도 사랑스럽개' 차은우가 극 중 진서원과 완벽한 싱크로율을 뽐냈다. &nbsp; 지난 11일(수) 첫 방송된 MBC 수요드라마 ‘오늘도 사랑스럽개’(연출 김대웅, 극본 백인아, 제작 그룹에이트, 판타지오, 제작 투자 에이앤이 코리아)에서 차은우는 가람고등학교 수학 선생님 '진서원' 역으로 분해 앞으로의 전개에 흥미를 돋웠다. &nbsp;]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['연인' 안은진에게 무슨 일이…청나라 옷 입고 피 뚝뚝]]></title>
+        <id>https://v.daum.net/v/20231012062006583</id>
+        <link href="https://v.daum.net/v/20231012062006583"/>
+        <updated>2023-10-11T22:09:45.794Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 양유진 기자] ‘연인’ 안은진은 왜 청나라 의복을 입었을까. 13일 오후 9시 50분 MBC 금토드라마 ‘연인’이 파트2로 돌아온다. ‘연인’은 파트1 방영 당시 최고 시청률 12.2%(닐슨코리아 전국)를 기록하며 전 채널 금토드라마 왕좌에 올랐으며 각종 화제성 수치에서도 경쟁작들을 압도적인 수치로 따돌리며 1위 행진을 이어갔다. 사극명가]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['깐깐 유교보이' 로운, 조이현 스킨십에 '당황'…딸꾹질까지]]></title>
         <id>https://v.daum.net/v/20231012060322310</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20231011221012553"/>
         <updated>2023-10-11T13:15:18.783Z</updated>
         <content type="html"><![CDATA[[OSEN=오세진 기자] '오늘도 사랑스럽개' 차은우가 개 공포증이란 사실이 밝혀졌다. 11일 첫 방영한 MBC 수요드라마 '오늘도 사랑스럽개'(극본 백인아/연출 김대웅)(이하 '사랑스럽개') 수학 교사 진서원(차은우 분)과 비밀이 있는 국어 교사 한해나(박규영 분)의 좌충우돌 미스터리 로맨스가 펼쳐졌다. 한해나는 키스를 못하는 여자였다. 집안의 저주로]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['사랑스럽개' 박규영, 만취해 차은우와 키스→달아나다 개로 변신]]></title>
-        <id>https://v.daum.net/v/20231011215556317</id>
-        <link href="https://v.daum.net/v/20231011215556317"/>
-        <updated>2023-10-11T13:15:18.786Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 | 김지은 기자] /사진='오늘도 사랑스럽개' 화면 캡처술에 만취한 박규영이 차은우를 이현우로 착각해 입을 맞췄다. MBC 새 수요 드라마 '오늘도 사랑스럽개' 1화에서는 진서원(차은우 분)과 한해나(박규영 분)가 입을 맞추는 모습이 전파를 탔다. 이날 고등학교 선생인 박규영은 같은 학교 선생님들과 회식 자리를 가졌다. 한해나의 동료 선생인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['첫방' 박규영, 차은우에 키스 후 개로 변신···리밋타임 100일 저주 시작돼]]></title>
-        <id>https://v.daum.net/v/20231011214131124</id>
-        <link href="https://v.daum.net/v/20231011214131124"/>
-        <updated>2023-10-11T13:15:18.789Z</updated>
-        <content type="html"><![CDATA[[OSEN=오세진 기자] '오늘도 사랑스럽개' 박규영이 차은우에게 키스 후 개로 변했다. 11일 첫 방영한 MBC 수요드라마 '오늘도 사랑스럽개'(극본 백인아/연출 김대웅)(이하 '사랑스럽개')에서는 집안 대대로 이성에게 키스 후 100일 안에 다시 키스 받지 못하면 영원히 개가 되는 저주에 씌인 한해나(박규영 분)와, 한해나를 비롯해 냉랭하고 잘생긴]]></content>
     </entry>
 </feed>
