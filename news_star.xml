@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2023-10-11T17:10:29.585Z</updated>
+    <updated>2023-10-11T18:15:53.806Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[벨기에 한국문화원, 22개 현지 K팝 커뮤니티와 함께 한류 열풍 이끈다]]></title>
+        <id>https://v.daum.net/v/20231012022742739</id>
+        <link href="https://v.daum.net/v/20231012022742739"/>
+        <updated>2023-10-11T18:15:47.322Z</updated>
+        <content type="html"><![CDATA[벨기에유럽연합 한국문화원(원장 김동은, 이하 문화원)은 지난 7일 오후 브뤼셀 시내 관광명소 로얄 갤러리 생 위베르(Galeries Royales Saint Hubert)에서 현지 한류 커뮤니티와 함께 케이팝 댄스 플래시몹 행사를 개최했다. 플래시몹이 열린 생 위베르 거리는 유럽에서 가장 오래된 상가 중 하나로 해마다 6백만 명 이상의 관광객이 찾는]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[공영방송 50주년·우리말겨루기 20주년 ‘글로벌 우리말겨루기’ 미국 예선]]></title>
         <id>https://v.daum.net/v/20231012020640711</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231011235854590"/>
         <updated>2023-10-11T15:10:21.236Z</updated>
         <content type="html"><![CDATA[[뉴스엔 홍밝음 기자] 10월 11일 오후 서울 중구 태평로 서울광장에서 2024 강원 동계청소년올림픽대회 G-100 기념 행사가 열렸다. 행사에는 홍보대사 김연아가 등장해 올림픽 캐치프레이즈를 소개했다. 한편, ‘2024 강원 동계청소년올림픽대회’는 2024년 1월 19일부터 2월 1일까지 대한민국 강원특별자치도 일원에서 진행된다. 약 70여개국의 2]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[전종서♥이충현 "재능있고 잘생겨" vs "연인 떠나 독보적" 꿀 뚝뚝 사내연애]]></title>
-        <id>https://v.daum.net/v/20231011235130508</id>
-        <link href="https://v.daum.net/v/20231011235130508"/>
-        <updated>2023-10-11T15:10:21.238Z</updated>
-        <content type="html"><![CDATA[[스포츠조선 이유나 기자] 배우 전종서와 이충현 감독의 숨기지 않는 사랑이 충무로를 핑크빛으로 물들이고 있다. 영화 '콜'로 인연을 맺은 전종서 이충현 감독은 2021년부터 공개 열애를 이어오고 있는 공개 연인. '몸값'에 이어 최근 넷플릭스 영화 '발레리나'를 통해 감독과 배우로서 세번째 작업을 하게 된 두 사람이 각종 인터뷰에서]]></content>
     </entry>
 </feed>
