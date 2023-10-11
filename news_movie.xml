@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-10-11T10:12:00.758Z</updated>
+    <updated>2023-10-11T11:10:04.147Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[남도영화제 순천서 개막…'영화의 정원' 작품 다채]]></title>
+        <id>https://v.daum.net/v/20231011193003955</id>
+        <link href="https://v.daum.net/v/20231011193003955"/>
+        <updated>2023-10-11T11:09:38.807Z</updated>
+        <content type="html"><![CDATA[(순천=연합뉴스) 장덕종 기자 = '남도영화제 시즌1 순천'으로 명명된 '남도영화제'가 11일 오후 전남 순천시 오천그린광장에서 열린 개막식을 시작으로 화려한 막이 올랐다. 전남도와 순천시가 주최하고 남도영화제 운영위원회·사단법인 전남영상위원회가 주관하는 남도영화제 개막식은 영화 '밀수'의 배우 김재화, 드라마 '슬기로운 의사생활'의 배우 김준한의 사회로]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["불태울 것" 일론 머스크, 앰버 허드 '아쿠아맨2' 하차 위기에 협박]]></title>
         <id>https://v.daum.net/v/20231011184815249</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231011162951098"/>
         <updated>2023-10-11T08:14:05.421Z</updated>
         <content type="html"><![CDATA[[뉴스엔 배효주 기자] '1947 보스톤'이 14일 연속 실관람객 평점 1위를 차지했다. 영화 '1947 보스톤'(감독 강제규)은 1947년 광복 후 처음으로 태극마크를 달고 국제 대회에 출전하기 위한 마라토너들의 도전과 가슴 벅찬 여정을 그린 이야기를 담은 작품이다. '1947 보스톤'은 지난 9월 27일 개봉 이후 14일 연속 극장 3사 실관람객 평점]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘괴담만찬’ 채여준 감독 “‘서치’에 영향 받아, 비뚤어진 욕망 보여주려”]]></title>
-        <id>https://v.daum.net/v/20231011162643958</id>
-        <link href="https://v.daum.net/v/20231011162643958"/>
-        <updated>2023-10-11T08:14:05.421Z</updated>
-        <content type="html"><![CDATA[옴니버스 영화 ‘괴담만찬’(감독 안상훈, 윤은경, 김용균, 임대웅, 채여준) 속 에피소드 ‘식탐’ 채여준 감독이 연출 의도에 대해 설명했다. 채여준 감독은 11일 서울 강남구 메가박스 코엑스에서 진행된 영화 ‘괴담만찬’ 언론배급시사회에서 스크린라이프로 작품을 연출한 의도를 묻자 “온라인 세계는 가상 세계가 아니라 이젠 우리와도 떼려야 뗄수 없는 세계다]]></content>
     </entry>
 </feed>

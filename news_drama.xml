@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-10-11T10:12:00.761Z</updated>
+    <updated>2023-10-11T11:10:04.156Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['하늘의 인연' 죽다 살아난 정한용, 결국 사망... 김유석, 용의자로 체포]]></title>
+        <id>https://v.daum.net/v/20231011195130282</id>
+        <link href="https://v.daum.net/v/20231011195130282"/>
+        <updated>2023-10-11T11:09:44.954Z</updated>
+        <content type="html"><![CDATA[[TV리포트=이혜미 기자] 김유석이 정한용 살인사건의 용의자로 쇠고랑을 찼다. 11일 MBC ‘하늘의 인연’에선 상철(정한용 분)을 살해한 혐의로 체포되는 치환(김유석 분)의 모습이 그려졌다. 앞서 치환 때문에 태용(박동빈 분)에게 납치됐던 세나(정우연 분)가 하혈 후 혼절한 가운데 분노한 미강(고은미 분)은 치환에 “세나 네 딸 아니야. 잘 들어. 세나]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김상우♥희진, 편의점에서 피어난 사랑.."아이스크림 같이드실래요?"]]></title>
+        <id>https://v.daum.net/v/20231011193803100</id>
+        <link href="https://v.daum.net/v/20231011193803100"/>
+        <updated>2023-10-11T11:09:44.955Z</updated>
+        <content type="html"><![CDATA[[OSEN=김나연 기자] '편의점 베짱이' 김상우, 희진이 설렘 가득한 로맨스 기류를 형성했다. 10일 숏플리 공식 채널에는&nbsp;'편의점 베짱이' 10화 영상이 공개됐다. 이날 시윤(김상우 분)은 편의점에서 아이스크림을 고르던 중 사랑(희진 분)과 손이 겹쳐져 묘한 분위기를 만들었다. 그러던 중 편의점에 한 모자가 찾아왔고, 아이는 "아이스크림!"을 외쳤다]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["집 제공했으니 제외"vs"음식은 음식" 술값논란..한지효 '분노']]></title>
         <id>https://v.daum.net/v/20231011190258507</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20231011151207705"/>
         <updated>2023-10-11T06:15:09.460Z</updated>
         <content type="html"><![CDATA[사랑스러운 로코 ‘오늘도 사랑스럽개’가 시청자들을 만났다. 11일 오후 서울 마포구 상암MBC에서 새 수요드라마 ‘오늘도 사랑스럽개’ 제작발표회가 열려 김대웅 감독을 비롯해 배우 차은우, 박규영, 이현우가 자리에 참석했다. 감독은 “웹툰 원작 드라마다. 판타지 로맨틱 코미디 드라마”라며 “저주에 걸려서 이성과 키스를 하면 개로 변하는 여자와 그 저주를 풀어]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[차은우, 만화 또 찢는다…개로 변한 박규영과 '오늘도 사랑스럽개']]></title>
-        <id>https://v.daum.net/v/20231011151007617</id>
-        <link href="https://v.daum.net/v/20231011151007617"/>
-        <updated>2023-10-11T06:15:09.476Z</updated>
-        <content type="html"><![CDATA['댕며드는' 드라마가 안방을 찾는다. 배우 차은우, 박규영, 이현우가 '오늘도 사랑스럽개'로 시청자들의 '심쿵 유발자'로 나선다. 11일 오후 서울 마포구 상암동 MBC사옥 골든마우스홀에서 MBC 새 수요드라마 '오늘도 사랑스럽개' 제작발표회가 진행됐다. 행사에는 배우 차은우, 박규영, 이현우와 김대웅 PD가 참석했다. '오늘도 사랑스럽개'는 키스를]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이현우, 비밀스러운 산신役 “박규영 저주 누가 내린건지, 나도 궁금”]]></title>
-        <id>https://v.daum.net/v/20231011150243277</id>
-        <link href="https://v.daum.net/v/20231011150243277"/>
-        <updated>2023-10-11T06:15:09.477Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 글 박수인 기자/사진 이재하 기자] 배우 이현우가 극 중 캐릭터에 대해 소개했다. 이현우는 10월 11일 서울 마포구 상암 MBC 골든마우스홀에서 진행된 MBC 새 수요드라마 '오늘도 사랑스럽개'(극본 백인아 / 연출 김대웅) 제작발표회에서 "이보겸은 겉으로는 서글서글한 미소를 띄면서 착한 모습을 보이는데 이면에는 숨겨진 칼날 같은 반전적인 요소]]></content>
     </entry>
 </feed>
