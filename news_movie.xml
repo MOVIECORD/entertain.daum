@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-10-11T11:10:04.147Z</updated>
+    <updated>2023-10-11T12:20:52.313Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[송중기 "'화란' 이후 노개런티 NO..아들 때문 열심히 살아야"]]></title>
+        <id>https://v.daum.net/v/20231011205031277</id>
+        <link href="https://v.daum.net/v/20231011205031277"/>
+        <updated>2023-10-11T12:20:28.697Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 | 김나연 기자] 송중기 / 사진=유튜브 채널 이동진의 파이아키아배우 송중기가 영화 '화란'에 노개런티로 출연한 데 대해 밝혔다. 11일 유튜브 채널 '이동진의 파이아키아'에는 '드라마에 이어 영화도 인생작? '화란' 비화'라는 제목의 영상이 공개됐다. 해당 영상에는 송중기가 출연해 이동진 평론가와 다양한 이야기를 나눴다. '화란'에 노개]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[남도영화제 순천서 개막…'영화의 정원' 작품 다채]]></title>
         <id>https://v.daum.net/v/20231011193003955</id>
@@ -31,7 +38,7 @@
         <id>https://v.daum.net/v/20231011181845530</id>
         <link href="https://v.daum.net/v/20231011181845530"/>
         <updated>2023-10-11T10:11:37.717Z</updated>
-        <content type="html"><![CDATA[올 추석 최악의 성적표를 받아 쥔 영화계가 '멘붕'에 빠졌다. 천만감독 강제규의 '1947 보스톤'은 86만, 천만배우 송강호 주연의 '거미집'은 30만명을 모으는 데 그쳤다. 그나마 잘된 '천박사 퇴마연구소: 설경의 비밀'(175만명)은 아직 손익분기점을 못 넘겼다. "최소 작년 추석보다는 잘될 줄 알았다"는 한 극장 관계자는 "최소한]]></content>
+        <content type="html"><![CDATA[올 추석 최악의 성적표를 받아 쥔 영화계가 '멘붕'에 빠졌다. 천만감독 강제규의 '1947 보스톤'은 86만, 천만배우 송강호 주연의 '거미집'은 30만명을 모으는 데 그쳤다. 그나마 잘된 '천박사 퇴마연구소: 설경의 비밀'(175만명)은 아직 손익분기점을 못 넘겼다. "최소 작년 추석보다는 잘될 줄 알았다"는 한 극장 관계자는 "최소한 손익분기점은 넘겨]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA['1947 보스톤', 개봉 이후 14일 연속 실관람객 평점 1위]]></title>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231011163146189"/>
         <updated>2023-10-11T08:14:05.420Z</updated>
         <content type="html"><![CDATA[배우 박지나가 ‘먹방’ BJ ‘유라’를 연기한 유쾌한 일화를 공개했다. 박지나는 11일 서울 강남구 메가박스 코엑스에서 진행된 영화 ‘괴담만찬’ 언론배급시사회에서 먹방 BJ를 연기한 소감을 묻자 “유일하게 촬영장에서 식사하지 않았던 촬영장이었다”고 위트있게 답했다. 그는 “‘뇸뇸’ 역의 최수임이 정말 빨리 잘 먹더라. 너무 신기해서 ‘컷’한 뒤 최수]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘1947 보스톤’ 14일 연속 한국영화 실관람객 평점 1위]]></title>
-        <id>https://v.daum.net/v/20231011162951098</id>
-        <link href="https://v.daum.net/v/20231011162951098"/>
-        <updated>2023-10-11T08:14:05.421Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 배효주 기자] '1947 보스톤'이 14일 연속 실관람객 평점 1위를 차지했다. 영화 '1947 보스톤'(감독 강제규)은 1947년 광복 후 처음으로 태극마크를 달고 국제 대회에 출전하기 위한 마라토너들의 도전과 가슴 벅찬 여정을 그린 이야기를 담은 작품이다. '1947 보스톤'은 지난 9월 27일 개봉 이후 14일 연속 극장 3사 실관람객 평점]]></content>
     </entry>
 </feed>
