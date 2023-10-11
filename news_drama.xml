@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-10-11T09:11:39.269Z</updated>
+    <updated>2023-10-11T10:12:00.761Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["집 제공했으니 제외"vs"음식은 음식" 술값논란..한지효 '분노']]></title>
+        <id>https://v.daum.net/v/20231011190258507</id>
+        <link href="https://v.daum.net/v/20231011190258507"/>
+        <updated>2023-10-11T10:11:43.528Z</updated>
+        <content type="html"><![CDATA[[OSEN=김나연 기자] '유지의 법칙' 한지효가 '술값 논쟁'에 분노했다. 11일 숏플리 공식 채널에는 '말도 안되지만, 유지의 법칙' 6화가 공개됐다. 이날 노유지(한지효 분)는 자신의 집에 친구들을 불러모아 함께 술자리를 가졌다. 그러던 중 한 친구는 "우리 정산하자 나 집가야돼"라고 말했고, 술값을 확인한 다른 친구는 "유지는 집 초대해줬으니까]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[남상지X이도겸, 점차 스며든다…로맨스 시동]]></title>
         <id>https://v.daum.net/v/20231011175214657</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231011150243277"/>
         <updated>2023-10-11T06:15:09.477Z</updated>
         <content type="html"><![CDATA[[뉴스엔 글 박수인 기자/사진 이재하 기자] 배우 이현우가 극 중 캐릭터에 대해 소개했다. 이현우는 10월 11일 서울 마포구 상암 MBC 골든마우스홀에서 진행된 MBC 새 수요드라마 '오늘도 사랑스럽개'(극본 백인아 / 연출 김대웅) 제작발표회에서 "이보겸은 겉으로는 서글서글한 미소를 띄면서 착한 모습을 보이는데 이면에는 숨겨진 칼날 같은 반전적인 요소]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['콩콩팥팥' 나영석 PD "막내 도경수, 형들 말 한마디도 안 들어"]]></title>
-        <id>https://v.daum.net/v/20231011150206259</id>
-        <link href="https://v.daum.net/v/20231011150206259"/>
-        <updated>2023-10-11T06:15:09.480Z</updated>
-        <content type="html"><![CDATA[왼쪽부터 이광수, 김기방, 나영석 PD, 하무성 PD, 도경수, 김우빈(사진=tvN)[이데일리 스타in 최희재 기자] ‘콩콩팥팥’ 나영석 PD가 도경수의 새로운 매력을 발견했다고 말했다. 11일 서울 강남구에 위치한 엘리에나호텔에서 tvN 새 예능 프로그램 ‘콩 심은 데 콩 나고 팥 심은 데 팥 난다’(이하 ‘콩콩팥팥’) 제작발표회가 진행됐다. 자리에는]]></content>
     </entry>
 </feed>
