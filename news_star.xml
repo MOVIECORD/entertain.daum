@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2023-10-11T16:14:43.704Z</updated>
+    <updated>2023-10-11T17:10:29.585Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[공영방송 50주년·우리말겨루기 20주년 ‘글로벌 우리말겨루기’ 미국 예선]]></title>
+        <id>https://v.daum.net/v/20231012020640711</id>
+        <link href="https://v.daum.net/v/20231012020640711"/>
+        <updated>2023-10-11T17:10:22.854Z</updated>
+        <content type="html"><![CDATA[오는 16일 오후 7시 40분 KBS1에서 방송되는 특집 ‘글로벌 우리말 겨루기’ 제2편은 미국 예선이다. 미국 캘리포니아주는 전 세계에서 유일하게 한글날(10월 9일)을 제정하여 기념하고 있을 정도로 한국어에 대한 사랑이 뜨겁다. 한국 음식, 한국 드라마, K-pop 등 한국 문화에 대한 남다른 관심으로 한국어 공부에 빠진 미국인들이 한자리에 모였다]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['나솔' 17기, 의사 등 고소득 직군 줄줄이 등장...첫 만남부터 "흥미로워"]]></title>
         <id>https://v.daum.net/v/20231012005101343</id>
@@ -48,7 +55,7 @@
         <content type="html"><![CDATA[(엑스포츠뉴스 오승현 기자) 배우 이영애가 유튜브 채널의 가짜 뉴스에 방송 중지 및 사과를 요청하는 내용 증명을 보냈다. 11일 법조계에 따르면 이영애는 10일 법률대리인을 통해 유튜브 채널 '열린공감 TV'에 방송 중지 요청과 함께 법적 대응을 시사했다. 채널은 '주식회사 시민언론 더탐사'의 정천수 대표가 운영한다. 해당 유튜브 채널은 '김건희와 이영애,]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[‘나는 솔로’ 17기 옥순, 2년 반 만에 출연→솔로남녀 ‘첫인상 선택’]]></title>
+        <title type="html"><![CDATA[‘나는 솔로’ 17기 옥순, 2년 반 만에 출연... 솔로남녀, 의사→회계사 ‘반전 직업’]]></title>
         <id>https://v.daum.net/v/20231012002100062</id>
         <link href="https://v.daum.net/v/20231012002100062"/>
         <updated>2023-10-11T16:14:37.286Z</updated>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231011235130508"/>
         <updated>2023-10-11T15:10:21.238Z</updated>
         <content type="html"><![CDATA[[스포츠조선 이유나 기자] 배우 전종서와 이충현 감독의 숨기지 않는 사랑이 충무로를 핑크빛으로 물들이고 있다. 영화 '콜'로 인연을 맺은 전종서 이충현 감독은 2021년부터 공개 열애를 이어오고 있는 공개 연인. '몸값'에 이어 최근 넷플릭스 영화 '발레리나'를 통해 감독과 배우로서 세번째 작업을 하게 된 두 사람이 각종 인터뷰에서]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["핑크머리 의사 광수→게이남친 경험" 17기 솔로男女, 화려한 첫 등장]]></title>
-        <id>https://v.daum.net/v/20231011235041499</id>
-        <link href="https://v.daum.net/v/20231011235041499"/>
-        <updated>2023-10-11T15:10:21.239Z</updated>
-        <content type="html"><![CDATA[[스포츠조선닷컴 정유나 기자] '나는 솔로' 대망의 17기 솔로남녀들의 정체가 공개됐다. 11일 방송된 ENA, SBS Plus  '나는 SOLO(나는 솔로)'에서는 17기 솔로남녀들이 경남 거창의 고즈넉한 풍경을 배경으로 하나둘씩 입성한 모습이 그려졌다. 이번 17기는 경남 거창에 마련된 '솔로나라'에서 '거]]></content>
     </entry>
 </feed>
