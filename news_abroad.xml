@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-10-11T18:15:53.820Z</updated>
+    <updated>2023-10-11T19:09:34.571Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[리사 스노든 "복근 있는데도 '살 빼라' 소리 들었다"]]></title>
+        <id>https://v.daum.net/v/20231012040300094</id>
+        <link href="https://v.daum.net/v/20231012040300094"/>
+        <updated>2023-10-11T19:09:33.625Z</updated>
+        <content type="html"><![CDATA[[TV리포트=유비취 기자] 모델 출신 방송인 리사 스노든이 혹독한 패션 업계를 폭로했다. 그는 충분히 날씬했는데도 다이어트 압박을 받아야 했다. 10일(현지 시간) 영국 매체 데일리메일에 따르면 팟캐스트 'style dna'에 출연한 리사 스노든이 모델 시절 디자이너로부터 다이어트를 강요 당했다고 밝혔다. 리사 스노든은 패션 업계에 대해 "좋은 방향으로 변]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['스타트렉' 패트릭 스튜어트 "대머리라 캐스팅 됐다...떨어질 줄"]]></title>
         <id>https://v.daum.net/v/20231012030300911</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231011152130076"/>
         <updated>2023-10-11T07:10:40.534Z</updated>
         <content type="html"><![CDATA[[TV리포트=안수현 기자] 일본의 유명 여배우 코이케 에이코(42)가 치명적인 신체 결점을 솔직하게 고백했다. 지난 10일, 일본의 한 토크 쇼에 출연한 코이케 에이코는 '생각만 해도 부끄러운 나의 흑역사 순간'이라는 주제에 관해 자신의 일화를 소개했다. 그녀는 "나만 그런 건지 모르겠는데 부끄러운 얘기다"라며 궁금증을 증폭시켰다. 코이케는 "눈이 꽤 돌출]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아놀드 슈왈제네거 "영화 위해 '죽은 독수리' 입에 물어...끔찍했다"]]></title>
-        <id>https://v.daum.net/v/20231011151130676</id>
-        <link href="https://v.daum.net/v/20231011151130676"/>
-        <updated>2023-10-11T06:15:28.079Z</updated>
-        <content type="html"><![CDATA[[TV리포트=유비취 기자] 할리우드 액션 스타 아놀드 슈왈제네거가 최악의 연기 경험을 털어놨다. 그는 영화를 위해 야생의 삶까지 살아야 했다. 10일(현지 시간) 연예 매체 버라이어티에 따르면 아놀드 슈왈제네거가 회고록 'Be Useful: Seven Tools for Life(비 유스풀: 세븐 툴스 포 라이브)'를 통해 역할을 수행하기 위해 끔찍한 노력까]]></content>
     </entry>
 </feed>
