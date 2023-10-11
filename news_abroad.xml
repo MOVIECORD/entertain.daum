@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-10-11T02:18:26.444Z</updated>
+    <updated>2023-10-11T03:11:57.887Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[32세 女가수 "아이돌은 취미로 하고 있다" 깜짝 고백]]></title>
+        <id>https://v.daum.net/v/20231011120200351</id>
+        <link href="https://v.daum.net/v/20231011120200351"/>
+        <updated>2023-10-11T03:11:57.126Z</updated>
+        <content type="html"><![CDATA[[TV리포트=안수현 기자] 일본 유명 아이돌 그룹 AKB48의 카시와기 유키(32)가 "아이돌의 의미"에 관한 자신의 생각을 밝혔다. 지난 10일, 아이돌 그룹 AKB48의 카시와기 유키가 첫 화보집 '아이돌이 된 적이 있습니까, 아이돌' 발매를 기념하며 현지 언론과 인터뷰를 했다. 2006년 12월, AKB48의 3기 학생 오디션에 합격해 아이돌 활동을]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[일론 머스크, 여친 앰버 허드 '아쿠아맨2' 하차 위기에 "불태워 버릴 것" 협박]]></title>
         <id>https://v.daum.net/v/20231011092002929</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231010164131156"/>
         <updated>2023-10-10T08:14:35.930Z</updated>
         <content type="html"><![CDATA[[TV리포트=안수현 기자] 중화권 스타 차이쉬쿤(25)이 최근 콘서트에서 '원나잇 스캔들'에 대해 언급했다. 지난 6월, 현지 언론에 따르면 차이쉬쿤은 여성 A씨와 원나잇 및 낙태 스캔들에 휘말렸다. 지난 2021년 차이쉬쿤과 하룻밤을 보낸 A씨는 한 달 뒤 임신 사실을 알게됐는데, 차이쉬쿤은 낙태를 요구한 것으로 알려졌다. 논란이 거세지자 차이 쉬 쿤은]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[할리우드도 전쟁 후폭풍…카일리 제너, 이스라엘 지지 선언했다 '급'삭제]]></title>
-        <id>https://v.daum.net/v/20231010163708960</id>
-        <link href="https://v.daum.net/v/20231010163708960"/>
-        <updated>2023-10-10T08:14:35.934Z</updated>
-        <content type="html"><![CDATA[[스포츠조선 고재완 기자] 미국 TV쇼 스타 카일리 제너가 팔레스타인과 무력 충돌한 이스라엘을 지지하는 글을 공유했다가 비난이 일자 삭제했다. 뉴욕포스트 등 미국 매체들은 9일(한국 시각) 제너가 자신의 계인 계정에 이스라엘을 지지하는 계정인 '스탠드위드어스'(@StandWithUs)의 게시물을 공유했다고 보도했다. 해당 게시물에는 이스라엘]]></content>
     </entry>
 </feed>
