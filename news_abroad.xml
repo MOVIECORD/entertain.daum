@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-10-12T15:11:53.133Z</updated>
+    <updated>2023-10-12T16:14:28.726Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['치매 실어증' 브루스 윌리스 근황.."언어능력 없어도 여전히 브루스는 브루스"]]></title>
+        <id>https://v.daum.net/v/20231013004519353</id>
+        <link href="https://v.daum.net/v/20231013004519353"/>
+        <updated>2023-10-12T16:14:27.860Z</updated>
+        <content type="html"><![CDATA[[OSEN=박소영 기자] 1980년대 ABC 코미디 시리즈 ‘Moonlighting’의 제작자 글렌이 ‘절친’ 브루스 윌리스의 근황을 공개했다. 브루스 윌리스는 전두측두엽 치매 진단을 받고 요양 중이다. 글렌은 11일(현지시각) 매체 인터뷰를 통해 “브루스 윌리스의 아내 엠마와 자주 대화하려고 노력 중이다. 세 아이들과도 돈독한 관계를 유지하고 있다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[약혼녀 '모유'로 라떼 만들어 마신 美유명배우…네티즌 '경악']]></title>
         <id>https://v.daum.net/v/20231012235911867</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231012163831558"/>
         <updated>2023-10-12T08:15:01.814Z</updated>
         <content type="html"><![CDATA[[TV리포트=안수현 기자] 할리우드 팝가수 테일러 스위프트(33)와 비욘세(42)의 특급 만남이 성사됐다. 12일, 테일러 스위프트는 자신의 소셜 계정에 모두의 시선을 사로잡을 게시물을 공개했다. 바로 비욘세와 영화관에 나란히 붙어 앉아 팝콘을 먹는 모습을 담은 영상을 올린 것. 많은 음악 팬들은 두 사람의 만남에 열광했다. 해당 게시물과 함께 테일러는 "]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[日 개그맨 뺑소니 사고 “피해자분께 죄송, 자숙기간 가질 것”]]></title>
-        <id>https://v.daum.net/v/20231012161502284</id>
-        <link href="https://v.daum.net/v/20231012161502284"/>
-        <updated>2023-10-12T08:15:01.816Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 박수인 기자] 일본 코미디 콤비 멤버 후지모토 토시후미가 뺑소니 사고를 일으켰다. 최근 일본 매체 닛칸스포츠 등 보도에 따르면 후지모토 토시후미는 지난 10월 4일 도쿄 시부야구 내 교차로에서 운전을 하다 한 승용차를 들이받는 사고를 낸 후 도주했다. 후지모토 토시후미의 소속사 요시모토 흥업은 10월 11일 "후지모토가 뺑소니 사고를 일으켰다.]]></content>
     </entry>
 </feed>
