@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2023-10-12T16:14:28.720Z</updated>
+    <updated>2023-10-12T17:10:29.164Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘컴백’ 엑스디너리 히어로즈, 신곡 ‘Break the Brake’ 뮤비 비하인드 컷 공개]]></title>
+        <id>https://v.daum.net/v/20231013014955583</id>
+        <link href="https://v.daum.net/v/20231013014955583"/>
+        <updated>2023-10-12T17:10:22.186Z</updated>
+        <content type="html"><![CDATA[아이돌밴드 엑스디너리 히어로즈(Xdinary Heroes, XH)가 신곡 ‘Break the Brake’(브레이크 더 브레이크) 뮤직비디오 비하인드 컷을 공개했다. 엑스디너리 히어로즈는 지난 11일 미니 4집 ‘Livelock’(라이브록)과 타이틀곡 ‘Break the Brake’를 발매하고 컴백했다. 신곡 ‘Break the Brake’는 ‘제동 장]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[드림아카데미 팬들 ‘위버스’로 모였다]]></title>
+        <id>https://v.daum.net/v/20231013014004553</id>
+        <link href="https://v.daum.net/v/20231013014004553"/>
+        <updated>2023-10-12T17:10:22.193Z</updated>
+        <content type="html"><![CDATA[“어디에 있든 여러분의 꿈을 응원할게!”, “탈락자들만 모아 한 그룹으로 데뷔해도 좋겠어요!” 지난 9일 2차 미션결과 발표와 탈락자 4명(브루클린, 일리야, 칼리, 메이)의 소회를 담은 에필로그 영상이 공개되자, 위버스에는 전세계 팬들로부터 결과에 대한 아쉬움과 함께 이들을 위로하고 격려하는 메시지가 쏟아졌다. 아울러 통과자들을 축하하고 이들의 최]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[난리난 이효리 메이크업..뉴진스도 울고 갈 미모도 '컴백']]></title>
         <id>https://v.daum.net/v/20231013005959408</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20231013000009888"/>
         <updated>2023-10-12T15:11:46.010Z</updated>
         <content type="html"><![CDATA[[마이데일리 = 이승길 기자] 방송인 박수홍(52)의 가족들이 차례로 등판하고 있는 친형의 횡령 혐의 재판. 결국 박수홍의 모친까지 법정에 선다. 13일 서울서부지방법원 형사합의11부(부장판사 문병찬)는 특정경제범죄 가중처벌 등에 관한 법률위반(횡령) 혐의로 기소된 박수홍의 친형 부부에 대한 8차 공판을 진행한다. 이날 공판에는 박수홍의 부모가 증인으로]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“아슬아슬 해”... 현숙, 영식·영철과 마지막 데이트... 최종 선택은?]]></title>
-        <id>https://v.daum.net/v/20231013000000877</id>
-        <link href="https://v.daum.net/v/20231013000000877"/>
-        <updated>2023-10-12T15:11:46.011Z</updated>
-        <content type="html"><![CDATA[‘나솔사계’ 13기 현숙이 9기 영식· 11기 영철과 마지막 데이트를 예고했다. 12일 방송된 ENA PLAY(이엔에이플레이)의 리얼 데이팅 프로그램 ‘나는 SOLO, 그 후 사랑은 계속된다’(이하 ‘나솔사계’)에서는 9기 영식과 13기 현숙이 최종 선택을 눈앞에 두고 ‘살얼음판 대치’를 벌이는 모습이 전파를 탔다. 이날 2기 종수는 13기 옥순에 1기 정]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박수홍 부모, 친형 횡령 재판에 증인 나선다..박수홍은 불참]]></title>
-        <id>https://v.daum.net/v/20231012235218845</id>
-        <link href="https://v.daum.net/v/20231012235218845"/>
-        <updated>2023-10-12T15:11:46.012Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 | 윤성열 기자] 박수홍 /사진=뉴스1 횡령 혐의로 기소된 방송인 박수홍 친형의 재판에 부모가 증인으로 출석한다. 박수홍의 법률 대리를 맡은 노종언 변호사는 12일 스타뉴스에 "내일(13일) 재판에 박수홍의 부모님이 증인으로 법정에 출석한다"며 "박수홍은 참석하지 않는다"고 밝혔다. 박수홍의 부모는 오는 13일 특정경제범죄 가중처벌 등에]]></content>
     </entry>
 </feed>
