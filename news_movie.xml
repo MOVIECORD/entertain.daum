@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-10-12T19:09:11.835Z</updated>
+    <updated>2023-10-12T20:11:12.119Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['발레리나' 속 '몸값' 찾기]]></title>
+        <id>https://v.daum.net/v/20231013051004654</id>
+        <link href="https://v.daum.net/v/20231013051004654"/>
+        <updated>2023-10-12T20:10:48.926Z</updated>
+        <content type="html"><![CDATA[넷플릭스에서만 ‘콜’, ‘발레리나’ 등 두 편의 작품을 했지만, 여전히 이충현 감독을 이야기할 때 단편영화 ‘몸값’을 빼놓을 순 없다. ‘몸값’을 흥정하던 주체와 객체가 바뀌는 소름 돋는 순간. 이충현 감독은 14분 안에 강렬한 스토리텔링을 담아내며 순식간에 충무로의 기대주로 떠올랐다. 최근 넷플릭스에서 공개된 영화 ‘발레리나’는 이충현 감독의 두 번째]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[미야자키 하야오 신작 '그대들은 어떻게 살 것인가', 한국어 예고편 공개]]></title>
         <id>https://v.daum.net/v/20231013040030993</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231012163303233"/>
         <updated>2023-10-12T08:14:36.745Z</updated>
         <content type="html"><![CDATA[[이선필 기자] 스페인에서 술하면 자연스럽게 와인이 떠오른다. 유럽 지역 대표적인 와인 생산지에서 이 감독은 맥주를 찬양하다가 급기야 직접 양조장을 차렸고, 해마다 맥주 축제를 연다. 다큐멘터리 영화 &lt;람빅, 시간과 열정의 맥주&gt; 다니엘 루이즈 감독이다. 국내 개봉에 맞춰 한국을 찾은 그를 개봉일인 11일 오후 서울 합정동 인근에서 만날 수 있었다. 영화는]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김호중 영화 ‘바람 따라 만나리’ 스크린X 예고편 공개… 역대급 현장감]]></title>
-        <id>https://v.daum.net/v/20231012160639926</id>
-        <link href="https://v.daum.net/v/20231012160639926"/>
-        <updated>2023-10-12T08:14:36.753Z</updated>
-        <content type="html"><![CDATA[가수 김호중의 영화 ‘바람 따라 만나리 : 김호중의 계절’이 역대급 현장감을 예고하고 있다. 12일 영화 ‘바람 따라 만나리 : 김호중의 계절’ 스크린X 예고편이 공개됐다. 공개된 예고편에는 첫 전국투어 콘서트에서 김호중이 호소력 짙은 목소리로 선보였던 ‘위대한 사랑’(Un Amore Cosi Grande) 공연 실황이 그려짐과 동시에 영상이 스크린 전]]></content>
     </entry>
 </feed>
