@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-10-12T12:20:39.516Z</updated>
+    <updated>2023-10-12T13:14:30.635Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["물건 팔아먹으려고 쌩쑈는" 잃어버린 딸 TV 쇼호스트로 등장했지만...]]></title>
+        <id>https://v.daum.net/v/20231012212331449</id>
+        <link href="https://v.daum.net/v/20231012212331449"/>
+        <updated>2023-10-12T13:14:12.513Z</updated>
+        <content type="html"><![CDATA[[TV리포트=김유진 기자] 잃어버린 딸, 아들을 찾고 있는 최수린이 TV홈쇼핑에서 쇼호스트로 등장한 딸을 보고도 알아보지 못했다. 12일 방영된 KBS 일일드라마 '우당탕탕패밀리' 16회에서는 친딸, 친아들을 애타게 찾는 심정애(최수린)의, 모습이 그려졌다. 유은성(남상지)은 청필름 배우 오디션을 보러 갔다가 강선우(이도겸)을 마주쳤다. 이어 오디션을 나오]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['우아한 제국' 손성윤, 복수화신 한지완 약점 잡았다 "일본인 양부, 가짜"]]></title>
         <id>https://v.daum.net/v/20231012202130505</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231012143708758"/>
         <updated>2023-10-12T06:14:39.978Z</updated>
         <content type="html"><![CDATA[[OSEN=장우영 기자] 배우 조보아가 만나는 역할마다 인생 캐릭터로 만들어 눈길을 끈다. 조보아는 JTBC 수목드라마 ‘이 연애는 불가항력’(극본 노지설, 연출 남기훈, 제작 SLL·씨제스스튜디오)에서 사랑스러운 매력과 짠내 가득한 온주 시청 공무원 홍조, 그의 전생이자 기구한 운명을 지닌 무녀 앵초로 분해 극과 극 연기를 보여주고 있다. 앞서 조보아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[로운, 납치된 조보아 구하고 해피엔딩?‥‘불가항력’ 종영 D-day]]></title>
-        <id>https://v.daum.net/v/20231012142230180</id>
-        <link href="https://v.daum.net/v/20231012142230180"/>
-        <updated>2023-10-12T06:14:39.991Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 이하나 기자] 조보아, 로운이 해피엔딩을 맞을까. 10월 12일 JTBC 수목드라마 ‘이 연애는 불가항력’(극본 노지설, 연출 남기훈 제작 SLL·씨제스스튜디오)측은 일촉즉발 위기를 맞은 이홍조(조보아 분)와 장신유(로운 분)의 모습을 공개했다. 이홍조를 쫓는 나중범(안상우 분)의 섬뜩한 눈빛이 긴장감을 자아낸다. 지난 방송에서는 사랑으로 가득한]]></content>
     </entry>
 </feed>
