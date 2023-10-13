@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-10-13T00:48:07.457Z</updated>
+    <updated>2023-10-13T01:52:41.453Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[54살 제니퍼 애니스톤 “한국 미용기술인 연어 정자 얼굴에 바르고, 충분한 숙면 취한다”]]></title>
+        <id>https://v.daum.net/v/20231013102556249</id>
+        <link href="https://v.daum.net/v/20231013102556249"/>
+        <updated>2023-10-13T01:52:40.445Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]할리우드 스타 제니퍼 애니스톤(54)이 자신의 건강관리 비결을 털어놓았다. 그는 최근 CR 패션과 인터뷰에서 “물을 많이 마시고, 매일 몸을 움직이고, 신선한 음식을 통째로 먹으며, 가능한 한 많은 잠을 자려고 노력한다”면서 “마지막 부분은 도전적이지만 매우 중요하다. 충분한 휴식을 취하지 못하면 몸이 나빠지는 것을 느낀다]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[윌 스미스 아내 "7년째 별거중…시상식 폭행 당시 촌극인 줄"]]></title>
         <id>https://v.daum.net/v/20231013093820336</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231012182238046"/>
         <updated>2023-10-12T10:11:47.988Z</updated>
         <content type="html"><![CDATA[[뉴스엔 박수인 기자] 실어증, 치매 진단을 받은 할리우드 배우 브루스 윌리스(Bruce Willis)의 근황이 공개됐다. '문라이팅'(블루문 특급) 제작자 글렌 고든 카론(Glenn Gordon Caron) 감독은 10월 11일(현지시간) 해외 매체 뉴욕 포스트와 인터뷰를 통해 '문라이팅' 출연 배우 브루스 윌리스를 언급했다. 카론 감독은 "브루스 윌리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘오스카 폭행’ 크리스 록, 윌 스미스 아내에게 데이트 신청…“이혼한 줄 알았다”]]></title>
-        <id>https://v.daum.net/v/20231012172843007</id>
-        <link href="https://v.daum.net/v/20231012172843007"/>
-        <updated>2023-10-12T09:12:02.795Z</updated>
-        <content type="html"><![CDATA[[스포츠서울 | 유다연인턴기자] 배우 제이다 핀켓 스미스가 코미디언 크리스 록과 관련된 충격적인 일화를 폭로했다. 제이다 핀켓 스미스는 11일(현지시각) 미국 연예매체 피플과 자서전 ‘워시’(Worthy) 출간 기념 인터뷰를 진행했다. 스미스는 “나와 남편 윌은 매년 여름 이혼한다는 보도가 나온다. 이번 여름, 록은 우리가 이혼했다고 생각했는지 내게]]></content>
     </entry>
 </feed>
