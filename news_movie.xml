@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-10-13T10:12:22.547Z</updated>
+    <updated>2023-10-13T11:09:47.680Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["뜨거웠던 열흘"…고민시x홍경 마무리한 폐막식…28회 부국제 안녕]]></title>
+        <id>https://v.daum.net/v/20231013200535818</id>
+        <link href="https://v.daum.net/v/20231013200535818"/>
+        <updated>2023-10-13T11:09:24.300Z</updated>
+        <content type="html"><![CDATA[[OSEN=김보라 기자]&nbsp;배우 고민시와 홍경이 제28회 부산 국제영화제(BIFF) 폐막식의 진행을 맡아 뜨거웠던 열흘 간의 여정을 마무리했다. 13일 오후 부산 우동 영화의전당에서 28회 BIFF의 폐막식이 진행됐다. 이날 고민시와 홍경이 무대에 올라 영화의전당을 가득 메운 영화 팬들에게 인사를 남겼다. 이날 고민시는 “뜨거웠던 열흘 간의 여정을 마무리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[하얗게 불태웠다...‘제28회 부국제’ 무사히 폐막]]></title>
+        <id>https://v.daum.net/v/20231013193901371</id>
+        <link href="https://v.daum.net/v/20231013193901371"/>
+        <updated>2023-10-13T11:09:24.308Z</updated>
+        <content type="html"><![CDATA[아시아 최대 영화 축제 제28회 부산국제영화제(BIFF)가 열흘간의 일정을 무사히 마무리하고 폐막했다. 내홍과 구설로 이사장과 집행위원장이 공석인 데다 예산 축소 등 난관의 연속이었지만 14만명 이상의 관객을 끌어모으며 비교적 안정적으로 마무리됐다는 평가다. 2023 부산국제영화제의 폐막식은 13일 오후 6시 해운대 영화의전당 야외극장에서 열렸다. 사회는]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[제28회 부산국제영화제 폐막…인사잡음·예산축소에도 저력 과시]]></title>
         <id>https://v.daum.net/v/20231013185022604</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20231013162314472"/>
         <updated>2023-10-13T08:14:41.979Z</updated>
         <content type="html"><![CDATA[(사진=넷플릭스)[이데일리 스타in 김보영 기자] 넷플릭스(Netflix) 새 다큐멘터리 영화 ‘노란문: 세기말 시네필 다이어리’(감독 이혁래, 이하 ‘노란문’)가 제28회 부산국제영화제(BIFF) 최고의 화제작으로 등극함과 동시에 부산 시네필들이 뽑은 ‘부산시네필상’ 수상으로 화제를 모으고 있다. 제28회 부산국제영화제 ‘와이드 앵글 - 다큐멘터리 쇼케]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['발레리나' 전종서 "대중들과의 접점, 늘려가고 싶어요"]]></title>
-        <id>https://v.daum.net/v/20231013161207042</id>
-        <link href="https://v.daum.net/v/20231013161207042"/>
-        <updated>2023-10-13T08:14:41.980Z</updated>
-        <content type="html"><![CDATA[[티브이데일리 김진석 기자] 인간 전종서는 먼저 인사를 하는 것도 쉽지 않다고 느끼는 내성적인 사람이다. 유일하게 자유롭고 거침없는 순간은 연기를 할 때다. 그의 내성적인 성향을 잘 아는 지인들은 작품을 본 후 "저걸 어떻게 했냐"라며 혀를 내두르기도 한다. 스스로도 연기를 하며 자신의 새로운 모습을 발견해 간다. 6일 공개된 넷플릭스 오리지널 영화 '발레]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['발레리나' 이충현 감독 "개연성에 대한 평가 이해하고 받아들여"]]></title>
-        <id>https://v.daum.net/v/20231013160138655</id>
-        <link href="https://v.daum.net/v/20231013160138655"/>
-        <updated>2023-10-13T07:10:57.795Z</updated>
-        <content type="html"><![CDATA[편영화 '몸값'으로 한국 영화에 신선항 충격을 안기며 다양한 영화제에서 수상, 반짝이는 신인 감독으로 주목받았다. 이후 영화 '콜'로 성공적인 장편 데뷔를 한 이충현 감독은 장르적 쾌감을 선사하는 스타일리쉬한 액션, 음악, 미술이 돋보이는 영화 '발레리나'로 또 다시 영화팬을 찾았다. 작품 공개 3일 만에 62개국 글로벌 TOP10에 오르며 세계적인 반]]></content>
     </entry>
 </feed>
