@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-10-13T11:09:47.671Z</updated>
+    <updated>2023-10-13T12:20:26.186Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[강율, 한지완에 진심 고백…"자격 없는 남자로 살았으면 좋겠어?"]]></title>
+        <id>https://v.daum.net/v/20231013204850764</id>
+        <link href="https://v.daum.net/v/20231013204850764"/>
+        <updated>2023-10-13T12:20:08.421Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 이효반 기자) 강율이 한지완에게 진심을 전했다. 13일 방송된 KBS 2TV 일일드라마 '우아한 제국' 37회에서는 가짜 상속녀 정체가 발각될 뻔한 서희재(한지완 분)가&nbsp;정우혁(강율)의 도움으로 위기를 넘겼다. 이날 방송에서 재클린(손성윤)은&nbsp;장기윤(이시강), 서희재, 정우혁, 나승필(이상보)를 불러놓고 희재의 가짜 아버지를 연기한 배우인 스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['우아한 제국' 손성윤, 한지완 정체 폭로? 역습 당했다...이시강 "모함하지 마"]]></title>
+        <id>https://v.daum.net/v/20231013203900501</id>
+        <link href="https://v.daum.net/v/20231013203900501"/>
+        <updated>2023-10-13T12:20:08.426Z</updated>
+        <content type="html"><![CDATA[[TV리포트 = 하수나 기자] 한지완의 정체를 폭로하려던 손성윤이 오히려 강율의 반격에 당하며 오히려 남편 이시강의 분노를 샀다. 13일 KBS2 일일극 ‘우아한 제국’에선 재클린(손성윤 분)이 서희재(한지완 분)의 정체를 폭로하려는 모습이 그려졌다. 재클린은 서희재의 일본인 양부가 가짜란 것을 알았고 그에게 돈을 주며 장기윤(이시강 분) 앞에서 진실을]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘하늘의 인연’ 정우연, 친부=이훈 사실에 오열…‘토혈’ 김유석 탈옥]]></title>
         <id>https://v.daum.net/v/20231013194540483</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20231013173006546"/>
         <updated>2023-10-13T09:11:42.562Z</updated>
         <content type="html"><![CDATA[[스타뉴스 | 상암(서울)=이경호 기자] 지니 TV 오리지널 드라마 '악인전기'의 신하균, 김영광, 신재하./사진=이동훈 기자 '하균神(신)' 신하균도 재미를 예고했다. '악인전기'가 주말 안방극장에 새로운 바람을 일으킬 수 있을까. 13일 오후 서울 마포구 스탠포드호텔 서울(상암)에서 지니 TV 오리지널 드라마 '악인전기'(극본 서희·이승훈, 연출 김]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[조항리 아나♥배혜지 기상캐스터, 11월 결혼…KBS 사내 부부 탄생]]></title>
-        <id>https://v.daum.net/v/20231013172604435</id>
-        <link href="https://v.daum.net/v/20231013172604435"/>
-        <updated>2023-10-13T09:11:42.564Z</updated>
-        <content type="html"><![CDATA[배혜지(왼쪽)과 조항리(사진=배혜지 SNS)[이데일리 스타in 최희재 기자] 조항리 KBS 아나운서와 배혜지 KBS 기상캐스터가 올 11월 결혼한다. 조항리, 배혜지는 13일 장문의 글과 함께 결혼 소식을 전했다. 두 사람은 오는 11월 서울 모처에서 결혼식을 올린다. 조항리는 예비신부 배혜지에 대해 “회사 선후배 사이로 만나 연인이 되었다. 봄날의 햇살]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["신하균·김영광 심리전" 전 회차 19禁, ENA 첫 주말극 통할까]]></title>
-        <id>https://v.daum.net/v/20231013172557431</id>
-        <link href="https://v.daum.net/v/20231013172557431"/>
-        <updated>2023-10-13T09:11:42.565Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 이예진 기자)&nbsp;ENA 첫 토일드라마 '악인전기'가 베일을 벗는다. 13일 오후 서울 상암동 스탠포드 호텔 2층 그랜드볼룸에서 지니 TV 오리지널 드라마 ‘악인전기’ 제작발표회가 진행됐다. 이 자리에는 신하균, 김영광, 신재하, 김정민 감독이 참석했다. '악인전기'는 절대 악인을 만난 생계형 변호사가 엘리트 악인으로 변모하는 이야기를 담은 범죄]]></content>
     </entry>
 </feed>
