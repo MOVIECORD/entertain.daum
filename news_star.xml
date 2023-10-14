@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2023-10-14T06:13:35.793Z</updated>
+    <updated>2023-10-14T07:09:34.810Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['세번째 결혼' 오승아 "드디어 선역 시청률 10% 목표"]]></title>
+        <id>https://v.daum.net/v/20231014153140802</id>
+        <link href="https://v.daum.net/v/20231014153140802"/>
+        <updated>2023-10-14T07:09:28.814Z</updated>
+        <content type="html"><![CDATA[이번엔 악역이 아니다. 배우 오승아(35)가 고대하던 '선(善)역'으로 시청자와 만난다. 23일 첫 방송을 앞둔 MBC 새 일일극 '세 번째 결혼' 주인공 정다정 역을 소화한다. 이 작품은 삶을 사는 여자와 거짓을 파헤치고 응징하려고 몸부림치는 여자의 파란만장한 진실 게임 속에서 피어나는 사랑과 결혼에 대한 이야기를 그린다. 지난 8월부터 촬영에 여념이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[10주년 앞둔 잔나비, 레트로를 넘어 ‘무한 가능성’을 말하다]]></title>
         <id>https://v.daum.net/v/20231014150802458</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231014131346339"/>
         <updated>2023-10-14T05:10:14.534Z</updated>
         <content type="html"><![CDATA[(엑스포츠뉴스 오승현 기자) 박수홍 측이 박수홍 형수를 상대로 명예훼손 고소장을 제출한다.&nbsp; 지난 13일 서울서부지방법원 형사합의11부는 특정경제범죄 가중처벌 등에 관한 법률(횡령) 위반 혐의로 기소된 박수홍의 친형 부부에 대한 8차 공판을 진행했다. 공판에는 박수홍의 부모가 증인으로 참석해 직접 아들 박수홍의 사생활을 폭로했다. 부친은 박수홍의 여자 관계]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“난임검사 이어 시험관 시술 결심” 박수홍♥김다예, “2세 위해 분발하고 있다”]]></title>
-        <id>https://v.daum.net/v/20231014130220273</id>
-        <link href="https://v.daum.net/v/20231014130220273"/>
-        <updated>2023-10-14T04:13:25.834Z</updated>
-        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]방송인 박수홍이 2세에 대한 간절함을 드러냈다. 지난 12일 방송된 MBN '특종세상'에서는 배우 이재은의 근황이 공개됐다. 현재 광주에서 살고 있는 이재은은 오래간만에 방송사를 찾았다가 박수홍을 만났다. 이재은을 마주친 박수홍은 "너무 축하한다. 예쁜 딸 (낳은 거), 나도 이 기운을 얻어서 (2세 낳겠다)"라고]]></content>
     </entry>
 </feed>
