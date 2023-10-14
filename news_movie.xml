@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-10-14T21:09:28.184Z</updated>
+    <updated>2023-10-14T22:09:59.116Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[배우의 논란이 작품에 미치는 영향]]></title>
+        <id>https://v.daum.net/v/20231015070003328</id>
+        <link href="https://v.daum.net/v/20231015070003328"/>
+        <updated>2023-10-14T22:09:35.627Z</updated>
+        <content type="html"><![CDATA[최근 몇 년간, 연예계의 숙제 중 하나는 카메라 밖에 배우들의 사생활에서 불거진 각종 논란이다. 이러한 논란은 대중이 작품 속 캐릭터가 아닌, 배우의 논란이 집중하게 돼 작품에 몰입하는 걸 어렵게 만든다. 최근에는 혜성같이 등장한 배우 최현욱이 논란의 중심이 돼 출연 중인 작품에 민폐를 끼쳤다. 최근 한 온라인 커뮤니티에는 "압구정 로데오 배우 최현욱]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["핼러윈을 부탁해"…공포 영화, 줄줄이 개봉]]></title>
         <id>https://v.daum.net/v/20231015000106061</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231014090601048"/>
         <updated>2023-10-14T00:44:18.593Z</updated>
         <content type="html"><![CDATA[[조영준 기자] 13일 오전, 제28회 부산국제영화제(BIFF) 상영작 &lt;영화의 황제&gt;의 기자회견이 부산광역시 해운대구에 위치한 KNN시어터에서 진행됐다. 이 작품은 제11회 부산국제영화제 폐막작이었던 &lt;크레이지 스톤&gt;을 연출한 닝하오 감독의 신작으로, 17년 만에 다시 영화제의 폐막작으로 선정되며 남다른 의미를 가지게 되었다. 이 자리에는 닝하오 감독과]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[강하늘·정소민 '30일' 11일 연속 1위…'천박사' 180만 돌파]]></title>
-        <id>https://v.daum.net/v/20231014084902808</id>
-        <link href="https://v.daum.net/v/20231014084902808"/>
-        <updated>2023-10-14T00:44:18.595Z</updated>
-        <content type="html"><![CDATA[(서울=뉴스1) 안태현 기자 = 영화 '30일'(감독 남대중)이 개봉 11일째 박스오피스 1위 자리를 지켰다. 14일 영화진흥위원회 영화관 입장권 통합 전산망에 따르면 '30일'은 지난 13일 하루 동안 5만8531명을 동원하며 박스오피스 1위에 올랐다. 누적관객수는 95만4221명이다. 개봉 첫날 박스오피스 1위에 오른 '30일'은 이후 11일째 정상]]></content>
     </entry>
 </feed>
