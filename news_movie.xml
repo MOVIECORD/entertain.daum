@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-10-14T05:10:20.775Z</updated>
+    <updated>2023-10-14T06:13:35.794Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['크리에이터' 조슈아x알피 반전 케미]]></title>
+        <id>https://v.daum.net/v/20231014142825004</id>
+        <link href="https://v.daum.net/v/20231014142825004"/>
+        <updated>2023-10-14T06:13:12.633Z</updated>
+        <content type="html"><![CDATA[[OSEN=김보라 기자] AI 블록버스터 '크리에이터'가 전직 특수 부대 요원 조슈아와 인류를 위협할 무기인 AI 로봇 알피의 특별한 케미스트리로 눈길을 모은다. '크리에이터'(감독 가렛 에드워즈, 수입배급 월트디즈니 컴퍼니 코리아)에서 전직 특수부대 요원 조슈아(존 데이비드 워싱턴)와 아이 모습을 한 AI 로봇 알피(매들린 유나 보일스)의 특별한 관계]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[강하늘x정소민 '30일', 개봉 12일차 100만 돌파…흥행 질주]]></title>
         <id>https://v.daum.net/v/20231014140735795</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231013213145741"/>
         <updated>2023-10-13T13:14:34.836Z</updated>
         <content type="html"><![CDATA[[스포티비뉴스=강효진 기자] 제28회 부산국제영화제가 열흘 간의 영화 축제를 마무리 했다. 제28회 부산국제영화제 폐막식이 13일 오후 5시 부산 해운대구 영화의 전당 야외극장에서 열렸다. 폐막식 사회는 배우 홍경과 고민시가 맡았다. 지난 4일 개막해 13일 폐막한 올해 부산국제영화제는 개막식 사회를 맡기로 했던 이제훈이 건강상 이유로 불참하면서 박]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["뜨거웠던 열흘"…고민시x홍경 마무리한 폐막식…28회 부국제 안녕]]></title>
-        <id>https://v.daum.net/v/20231013200535818</id>
-        <link href="https://v.daum.net/v/20231013200535818"/>
-        <updated>2023-10-13T11:09:24.300Z</updated>
-        <content type="html"><![CDATA[[OSEN=김보라 기자]&nbsp;배우 고민시와 홍경이 제28회 부산 국제영화제(BIFF) 폐막식의 진행을 맡아 뜨거웠던 열흘 간의 여정을 마무리했다. 13일 오후 부산 우동 영화의전당에서 28회 BIFF의 폐막식이 진행됐다. 이날 고민시와 홍경이 무대에 올라 영화의전당을 가득 메운 영화 팬들에게 인사를 남겼다. 이날 고민시는 “뜨거웠던 열흘 간의 여정을 마무리]]></content>
     </entry>
 </feed>
