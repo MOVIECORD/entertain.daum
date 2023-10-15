@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2023-10-15T06:14:12.284Z</updated>
+    <updated>2023-10-15T07:09:32.052Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[박수홍 측 “형수, 다음주 내 고소 예정..부모님 허위사실 증언 안타까워”]]></title>
+        <id>https://v.daum.net/v/20231015155219687</id>
+        <link href="https://v.daum.net/v/20231015155219687"/>
+        <updated>2023-10-15T07:09:25.820Z</updated>
+        <content type="html"><![CDATA[[OSEN=김채연 기자] 박수홍 측이 형수를 허위사실 유포 및 명예훼손으로 고소할 예정이다. 15일 박수홍의 법률대리인 법무법인 존재 노종언 변호사는 OSEN과 전화 통화를 통해 “故 김용호 사망으로 사건이 13일 공소권없음으로 종료됐다. 김용호 씨의 허위 사실 비방은 형수에게 제보를 받아서 사실로 믿은 것”이라며 “사건이 종료된 만큼, 박수홍 씨의 형수]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[박은빈, 이렇게 잘 챙겨 먹네 "첫 끼는 치즈 볶음밥, 먹고 싶은 음식은 케이크"]]></title>
         <id>https://v.daum.net/v/20231015150954876</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231015125345402"/>
         <updated>2023-10-15T04:12:25.408Z</updated>
         <content type="html"><![CDATA[[OSEN=하수정 기자] 이제훈 주연의 '모범택시' 시즌2가 방영할 때만 해도 SBS의 기세는 대단했다. 최고 시청률 21.0%(닐슨코리아 전국)를 찍으면서 '형보다 나은 아우'가 탄생했기 때문이다. 모두의 기대를 한 몸에 받았던 후속작 '낭만닥터 김사부3'가 의외의 복병 JTBC '닥터 차정숙'에게 일격을 당하면서 조금 주춤했지만, 김은희 작가의 '악]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘셀럽 중의 셀럽’ 임영웅, 레드카펫에서도 HERO]]></title>
-        <id>https://v.daum.net/v/20231015121052119</id>
-        <link href="https://v.daum.net/v/20231015121052119"/>
-        <updated>2023-10-15T03:11:33.153Z</updated>
-        <content type="html"><![CDATA[[OSEN=지형준 기자] “영웅은 영웅이다” 지난&nbsp;10일 인천 남동체육관에서 개최된&nbsp;'2023&nbsp;더팩트 뮤직 어워즈'(THE FACT MUSIC AWARDS). 하루 전(9일) 각종&nbsp;음원사이트를&nbsp;통해&nbsp;새&nbsp;디지털&nbsp;싱글&nbsp;‘Do&nbsp;or&nbsp;Die’가&nbsp;공개한 임영웅은 이날 레드카펫 행사에서 누구보다 많은 플래시 세례를 받았다. 등장부터 남달랐다. 소개 멘트에 익살스러]]></content>
     </entry>
 </feed>
