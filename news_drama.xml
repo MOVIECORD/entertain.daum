@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-10-15T10:10:46.115Z</updated>
+    <updated>2023-10-15T11:08:49.414Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[전수경, 옹성우 母된다..오늘 '힘쎈여자 강남순' 특별 출연]]></title>
+        <id>https://v.daum.net/v/20231015193515604</id>
+        <link href="https://v.daum.net/v/20231015193515604"/>
+        <updated>2023-10-15T11:08:33.635Z</updated>
+        <content type="html"><![CDATA[[OSEN=하수정 기자] 배우 전수경이 ‘힘쎈여자 강남순’에 특별 출연한다. 15일 소속사 윌엔터테인먼트에 따르면 전수경은 JTBC 토일드라마 ‘힘쎈여자 강남순’(극본 백미경, 연출 김정식•이경식, 제작 바른손씨앤씨•스토리피닉스•SLL)에 특별 출연해 힘을 보탠다. 전수경의 특별출연은 백미경 작가와의 오랜 인연으로 성사됐다. 전수경과 백미경 작가는 JT]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘극야’ 이재원, 깊은 여운 남긴 한 가장의 삶…현실적 공감 선사]]></title>
         <id>https://v.daum.net/v/20231015185401127</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231015134641171"/>
         <updated>2023-10-15T05:10:26.385Z</updated>
         <content type="html"><![CDATA[[OSEN=강서정 기자] 배우 유지연이 ‘연인’ 파트 2에서 강렬한 존재감을 드러냈다. 유지연은 MBC 금토드라마 ‘연인’(기획 홍석우, 연출 김성용 이한준 천수진, 극본 황진영) 파트 2의 시작인 11회, 12회에서 임팩트 있는 등장으로 시청자들의 시선을 단숨에 사로잡았다. 유지연은 극 중 조선 포로 사냥꾼 윤친왕의 애첩 ‘화유’ 역을 맡아 열연을 펼]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘아라문의 검’ 대전쟁 시작한 장동건-이준기, 협상 테이블 앉는다]]></title>
-        <id>https://v.daum.net/v/20231015134637169</id>
-        <link href="https://v.daum.net/v/20231015134637169"/>
-        <updated>2023-10-15T05:10:26.392Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 배효주 기자] 대전쟁을 시작한 장동건과 이준기가 협상 테이블에 앉는다. 10월 15일 오후 9시 20분에 방송될 tvN 토일드라마 ‘아라문의 검’(극본 김영현, 박상연/ 연출 김광식/ 기획 스튜디오드래곤/ 제작 스튜디오드래곤, KPJ)에서 아스달의 왕 타곤(장동건 분)과 아고연합의 이나이신기 은섬(이준기 분)의 팽팽한 맞대면 현장을 공개한 것.]]></content>
     </entry>
 </feed>
