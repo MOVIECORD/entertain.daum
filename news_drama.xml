@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-10-15T03:11:39.898Z</updated>
+    <updated>2023-10-15T04:12:31.539Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘연인’ 남궁민-지승현 사이 ‘환향녀’ 안은진..뻔한 연정 ‘가련’]]></title>
+        <id>https://v.daum.net/v/20231015124701353</id>
+        <link href="https://v.daum.net/v/20231015124701353"/>
+        <updated>2023-10-15T04:12:13.133Z</updated>
+        <content type="html"><![CDATA[[OSEN=김재동 객원기자]&nbsp;“주회인(走回人:도망하여 돌아온 사람)은 자복하라. 자복하지 않는 자와 주회인을 숨겨주는 자에겐 같은 률로 엄히 벌할 것이다... 우리 백성들이 죽음을 무릅쓰고 도망하여 돌아왔으나 남한산성의 조약이 엄중하다는 것을 어찌 알았겠는가... 스스로 목매어 죽기도 하고 심지어는 수족을 스스로 잘라 이별을 늦추려는 자도 있다. 게다가]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[조윤희, 악인 본색 드러냈다..어긋난 모성애 담은 야망 눈빛]]></title>
         <id>https://v.daum.net/v/20231015112028271</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231015084004112"/>
         <updated>2023-10-15T00:50:49.899Z</updated>
         <content type="html"><![CDATA[(엑스포츠뉴스 이이진 기자) '효심이네 각자도생' 고주원이 유이에게 진심을 전했다. 14일 방송된 KBS 2TV '효심이네 각자도생' 6회에서는 강태민(고주원 분)이 이효심(유이)에게 고백하는 모습이 그려졌다. 이날 강태민은 약속을 잊은 이효심에게 서운함을 느꼈고, "뭐 잊은 거 없어요? 많이 바쁘셨나 봐요"라며 물었다. 이효심은 "정말 죄송합니다. 제가]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['연인' 남궁민, 포로 된 안은진 구해낼까→유재석·하하 깜짝 등장]]></title>
-        <id>https://v.daum.net/v/20231015083935107</id>
-        <link href="https://v.daum.net/v/20231015083935107"/>
-        <updated>2023-10-15T00:50:49.900Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 | 윤성열 기자] /사진='연인' 방송 화면 '연인'에서 남궁민은 또 한번 안은진을 구해낼 수 있을까. 15일 시청률 조사회사 닐슨코리아에 따르면 지난 14일 방송된 MBC 금토드라마 '연인'(연출 김성용·이한준·천수진, 극본 황진영) 12회는 수도권 기준 9.5%, 전국 기준 9.3%의 시청률을 기록했다. 이는 전 회 대비 각각 1.6%포인트]]></content>
     </entry>
 </feed>
