@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2023-10-15T15:10:09.773Z</updated>
+    <updated>2023-10-15T16:12:22.850Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[제롬♥베니타, 최대 위기.. 캠핑 떠났다가 성격차이 느껴]]></title>
+        <id>https://v.daum.net/v/20231016001201699</id>
+        <link href="https://v.daum.net/v/20231016001201699"/>
+        <updated>2023-10-15T16:12:16.959Z</updated>
+        <content type="html"><![CDATA[[TV리포트=이지민 기자] '돌싱글즈4'가 캠핑 데이트에서 성격 차이로 위기를 맞았자. 15일 MBN 예능 프로그램 ‘돌싱글즈4’에서는 매칭에 성공한 돌싱 남녀들의 현실 동거가 그려졌다. 이날 제롬과 베니타의 동거 하우스에 돌싱 멤버들이 모였다. 서로의 근황을 주고받던 중 소라는 주말 사이 5명의 남성과 데이트를 했으며 그중 2명이 마음에 들어 애프터를]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['힘쎈여자 강남순' 이유미, 옹성우와 잠입수사…“나랑 같이 해”]]></title>
         <id>https://v.daum.net/v/20231016000319547</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231015233245346"/>
         <updated>2023-10-15T15:10:03.227Z</updated>
         <content type="html"><![CDATA[[스타뉴스 | 윤성열 기자] 개그맨 손헌수 결혼식 현장 /사진=SNS개그맨 손헌수(43)가 가족과 친지, 동료 연예인들의 열렬한 축하 속에 결혼식을 올렸다. 손헌수는 15일 오후 5시 서울 영등포구 여의도동의 한 웨딩홀에서 7살 연하의 여자친구 송모씨와 백년가약을 맺었다. 송씨는 관광공사에 재직 중인 여성이다. 손헌수는 지난 2월 스타뉴스에 결혼 소식을]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['나솔' 16기 영숙vs옥순, 싸움도 화해도 야단법석..일단 갈등 일단락]]></title>
-        <id>https://v.daum.net/v/20231015232916330</id>
-        <link href="https://v.daum.net/v/20231015232916330"/>
-        <updated>2023-10-15T15:10:03.228Z</updated>
-        <content type="html"><![CDATA[[OSEN=김채연 기자] 연애 리얼리티 최초 출연진간 법정싸움이 예고됐던 ‘나는 솔로’ 16기의 다툼이 드디어 끝이난 듯하다. 15일 16기 옥순은 자신의 SNS를 통해 장문의 글을 게재하며 영숙과의 오해를 풀었다고 밝혔다. 옥순은 “말하고 싶지 않는 부분, 묻지 않는 배려가 문제의 원인이 될 수도. 영숙이도 제게 서운함이 있어서 그럴 수도 있다는 생각에]]></content>
     </entry>
 </feed>
