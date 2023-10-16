@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-10-16T21:10:40.270Z</updated>
+    <updated>2023-10-16T22:11:06.745Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['반짝이는 워터멜론' 설인아, 시간 여행자였다…최현욱, 이명 들려 '충격']]></title>
+        <id>https://v.daum.net/v/20231017065002066</id>
+        <link href="https://v.daum.net/v/20231017065002066"/>
+        <updated>2023-10-16T22:10:48.793Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 이이진 기자) '반짝이는 워터멜론' 려운이 2023년으로 돌아갔다. 16일 방송된 tvN 월화드라마 '반짝이는 워터멜론' 7회에서는 하은결(려운 분)이 갑작스럽게 2023년으로 되돌아간 모습이 그려졌다. 이날 최세경(설인아)은 공중전화로 걸려온 전화를 받았다. 전화를 건 사람은 마스터(정상훈)였고, 마스터는 "여행은 즐거우신가요?"라며 궁금해]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김동준 “현종, 진정한 황제로 성장하는 과정 지켜봐 달라”]]></title>
         <id>https://v.daum.net/v/20231017030010956</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231016182956073"/>
         <updated>2023-10-16T10:12:45.749Z</updated>
         <content type="html"><![CDATA[[OSEN=하수정 기자] 웨이브 오리지널 드라마 '거래'(연출 이정곤, 극본 홍종성, 기획 스튜디오웨이브, 제작 플레이리스트, 공동제작 라이크엠컴퍼니)가 13일 공개된 3, 4화에서 변곡점을 맞이한 납치극과 시시각각 변하는 세 친구들의 관계를 통해 몰입감의 정점을 찍었다. 웨이브 오리지널 드라마 '거래'는 우발적으로 친구를 납치한 두 청년의 100억 납]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김해준 ‘워터멜론’ 깜짝 등장 예고…떡볶이집 DJ 최준 변신]]></title>
-        <id>https://v.daum.net/v/20231016181058604</id>
-        <link href="https://v.daum.net/v/20231016181058604"/>
-        <updated>2023-10-16T09:12:17.972Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 김명미 기자] 김해준이 '반짝이는 워터멜론'에 뜬다. 10월 16일 방송되는 tvN 월화드라마 ‘반짝이는 워터멜론’(극본 진수완, 연출 손정현, 유범상, 기획 스튜디오드래곤, 제작 팬엔터테인먼트) 7회에서는 세경(설인아 분)이 첫사랑 기억 조작단 밴드 멤버들과 차례차례 단둘만의 시간을 갖는다. 외국으로 유학을 떠나 이찬(최현욱 분)을 비롯해 모든]]></content>
     </entry>
 </feed>

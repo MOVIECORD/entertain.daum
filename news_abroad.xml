@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-10-16T21:10:40.273Z</updated>
+    <updated>2023-10-16T22:11:06.750Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['갑자기 20kg 살빠진' 세계적 톱스타, 다이어트 비결 알아보니…]]></title>
+        <id>https://v.daum.net/v/20231017064119987</id>
+        <link href="https://v.daum.net/v/20231017064119987"/>
+        <updated>2023-10-16T22:11:05.963Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 이승길 기자] 세계적인 가수 켈리 클락슨(41)이 최근 놀라운 체중 감량을 선보였다. 전세계 팬들은 그의 소셜미디어를 찾아 묻는다. "당신의 비밀은 뭐에요?" 켈리 클락슨은 지난 15일(현지시간) 미국 뉴저지 주에서 열린 콘서트에서 입은 의상 사진을 공유했다. 그는 작은 허리를 강조하는 블랙 랩 드레스와 블랙 타이츠, 그에 어울리는 부츠를]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[윌 스미스 아내, 이제와 불륜 부인?.."속이지 않았다"]]></title>
         <id>https://v.daum.net/v/20231017052017943</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231016162701643"/>
         <updated>2023-10-16T08:15:01.097Z</updated>
         <content type="html"><![CDATA[[TV리포트=유비취 기자] 가수 브리트니 스피어스가 이번엔 난장판이 된 집에서 격한 춤사위를 펼쳤다. 15일 브리트니 스피어스(41)는 소셜네트워크서비스를 통해 파격적인 춤을 선보였다. 그의 뒤로는 난장판이 된 집안 모습을 볼 수 있었다. 브리트니 스피어스는 비욘세의 'Daddy Lessons(대디 레슨)'에 맞춰 춤을 췄다. 가사 내용에는 "아빠가 나를]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['건강이상' 진만비, 자식에 물려주려 부동산 '407억' 구매]]></title>
-        <id>https://v.daum.net/v/20231016150230076</id>
-        <link href="https://v.daum.net/v/20231016150230076"/>
-        <updated>2023-10-16T06:15:36.631Z</updated>
-        <content type="html"><![CDATA[[TV리포트=강성훈 기자] '희설태만'에 출연 중인 여배우 진만비(53)가 건강 상태가 좋지 않았다고 밝혔다.&nbsp; 최근 진만비는 자신의 소셜네트워크서비스를 통해 지난 6월 뇌졸중을 겪었다고 고백했다. 그는 당시 스튜디오 촬영 중 복통이 있었지만 참고 병원에 갔다고 회상했다. 담당 의사는 진만비를 진찰하며 뭔가 이상이 있음을 느꼈고 추가적인 검사를 받으라고 권]]></content>
     </entry>
 </feed>

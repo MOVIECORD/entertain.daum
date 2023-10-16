@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-10-16T21:10:40.276Z</updated>
+    <updated>2023-10-16T22:11:06.740Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘발레리나’ 이충현 감독 “대체불가 전종서, 호불호 더 고민해야”]]></title>
+        <id>https://v.daum.net/v/20231017070304259</id>
+        <link href="https://v.daum.net/v/20231017070304259"/>
+        <updated>2023-10-16T22:10:43.251Z</updated>
+        <content type="html"><![CDATA[충무로의 가장 핫한 감독, 이충현(33)이 넷플릭스 영화 ‘발레리나’로 찾아왔다. 단편영화 ‘몸값’으로 혜성처럼 등장해 전작 ‘콜’로 강렬한 인상을 남긴 이 감독은 3년째 공개 열애 중인 배우 전종서와 신작을 함께했다. ‘발레리나’는 경호원 출신 ‘옥주’(전종서 분)가 소중한 친구 ‘민희’(박유림 분)를 죽음으로 몰아간 ‘최프로’(김지훈 분)를 쫓으며 펼치]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[최지우, 육아 끝내고 현장 복귀...서늘한 표정]]></title>
         <id>https://v.daum.net/v/20231017060130515</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231016164128426"/>
         <updated>2023-10-16T08:14:37.717Z</updated>
         <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]최근 해외진출의 의지를 강하게 드러낸 배우 강동원과 송중기의 행보가 주목을 끌고 있다. 강동원은 지난달 영화 ‘천박사 퇴마연구소:설경의 비밀’ 개봉을 앞두고 언론과 인터뷰에서 “배우 일을 하면서 앞으로 작품을 더 많이 남기고 싶다”면서 “좀더 글로벌하게 일하면서 프로젝트 개발도 해보겠다”고 말했다. 실제 강동원은 지난해]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[봉준호가 사랑한 클로드 샤브롤의 영화들…국내 최초 극장 개봉]]></title>
-        <id>https://v.daum.net/v/20231016163018816</id>
-        <link href="https://v.daum.net/v/20231016163018816"/>
-        <updated>2023-10-16T08:14:37.719Z</updated>
-        <content type="html"><![CDATA[[SBS 연예뉴스 | 김지혜 기자] 프랑스를 대표하는 거장이자 '누벨바그의 창설자'로 불리는 클로드 샤브롤 감독의 대표작 5편이 4K리마스터링 되어 국내 최초로 극장 개봉했다. 이번 특별전은 10월 11일 씨네큐브를 시작으로 내년 초까지 15개 이상의 전국 예술영화관에서 로드쇼로 진행될 예정이다. 금주부터 부산 영화의전당, 씨네Q신도림, 라이카시네마 등에서]]></content>
     </entry>
 </feed>
