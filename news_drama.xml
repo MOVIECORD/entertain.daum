@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-10-16T10:13:04.205Z</updated>
+    <updated>2023-10-16T11:09:49.995Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['하늘의 인연' 김유석은 복도 많지... 전혜연도 정우연도 신변 걱정]]></title>
+        <id>https://v.daum.net/v/20231016195500505</id>
+        <link href="https://v.daum.net/v/20231016195500505"/>
+        <updated>2023-10-16T11:09:31.681Z</updated>
+        <content type="html"><![CDATA[[TV리포트=이혜미 기자] ‘하늘의 인연’ 전혜연과 정우연이 탈옥 후 행방불명이 된 김유석의 신변을 걱정했다. 16일 MBC ‘하늘의 인연’에선 절대 악 치환(김유석 분)에 연민을 느끼는 솔(전혜연 분)과 세나(정우연 분)의 모습이 그려졌다. 앞선 상철 사건과 관련 화순(김난희 분)은 아들 도현(진주형 분)에 “너 아니지? 설마 아니지?”라고 조심스럽게 물]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['마스크걸' 한재이 "나나와 강렬한 케미? 다시 없을 소중한 경험"]]></title>
         <id>https://v.daum.net/v/20231016190710815</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231016151921839"/>
         <updated>2023-10-16T07:11:01.909Z</updated>
         <content type="html"><![CDATA[김대호 아나운서(사진=MBC)[이데일리 스타in 최희재 기자] 김대호 MBC 아나운서가 ‘위대한 가이드’의 차별점을 전했다. 16일 서울시 마포구에 위치한 스탠포드호텔에서 MBC에브리원 신규 예능 프로그램 ‘위대한 가이드’ 제작발표회가 진행됐다. 자리에는 고규필, 김대호, 윤두준, 조현아, 알베르토 몬디, 김예린PD가 참석했다. ‘위대한 가이드’는 한국]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['위대한 가이드' 알베르토 "누가 불만 많았냐고?"…김대호 "다음 질문"]]></title>
-        <id>https://v.daum.net/v/20231016151725763</id>
-        <link href="https://v.daum.net/v/20231016151725763"/>
-        <updated>2023-10-16T07:11:01.912Z</updated>
-        <content type="html"><![CDATA[왼쪽부터 고규필, 김대호, 김예린 PD, 조현아, 윤두준, 알베르토 몬디(사진=MBC)[이데일리 스타in 최희재 기자] 방송인 알베르토 몬디가 가이드로 활약한 비하인드를 전했다. 16일 서울시 마포구에 위치한 스탠포드호텔에서 MBC에브리원 신규 예능 프로그램 ‘위대한 가이드’ 제작발표회가 진행됐다. 자리에는 고규필, 김대호, 윤두준, 조현아, 알베르토 몬]]></content>
     </entry>
 </feed>
