@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-10-16T04:13:57.327Z</updated>
+    <updated>2023-10-16T05:12:06.474Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[최수린, 30년전 행방불명 된 이종원과 만남]]></title>
+        <id>https://v.daum.net/v/20231016133803554</id>
+        <link href="https://v.daum.net/v/20231016133803554"/>
+        <updated>2023-10-16T05:11:46.680Z</updated>
+        <content type="html"><![CDATA[[OSEN=강서정 기자] ‘우당탕탕 패밀리'의 이종원과 최수린이 30년 만에 마주친다. 오늘(16일) 오후 8시 30분 방송되는 KBS 1TV 일일드라마 ‘우당탕탕 패밀리’(연출 김성근, 극본 문영훈) 18화에서는 유동구(이종원 분)와 심정애(최수린 분)가 추억이 깃든 동네에 방문한다.&nbsp; 앞서 정애는 그녀의 부탁을 받고 동구를 수소문하던 친구에게 그가]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘장난의 신’ 위엄 제대로 보여준 ‘로키2’‥“짜릿하다” 반응 폭발]]></title>
+        <id>https://v.daum.net/v/20231016132424170</id>
+        <link href="https://v.daum.net/v/20231016132424170"/>
+        <updated>2023-10-16T05:11:46.680Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 배효주 기자] 디즈니+ 마블 오리지널 시리즈 '로키 시즌2'가 지난주 2회를 공개, ‘로키’와 ‘실비’가 재회한 동시에 충격적인 엔딩으로 시청자들의 폭발적인 반응을 이끌어내고 있다. 이와 함께 두 번째 에피소드의 주역인 ‘실비’의 캐릭터 포스터가 공개되어 주목을 받고 있다. 10월 13일 공개된 '로키 시즌2'(감독 저스틴 벤슨, 아론 무어헤드]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[남주혁, 낮에는 모범생 밤에는 범죄자 심판‥‘비질란테’ 포스터]]></title>
         <id>https://v.daum.net/v/20231016131254781</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20231016092842429"/>
         <updated>2023-10-16T00:47:28.326Z</updated>
         <content type="html"><![CDATA[(사진=MBN ‘돌싱글즈4’)[이데일리 스타in 최희재 기자] 돌싱글즈4’ 리키, 하림 커플이 동거 생활에서 어긋난 성향 차이를 보였다. 지난 15일 방송된 MBN 연애 예능 ‘돌싱글즈4 IN U.S.A(이하 ‘돌싱글즈4’)’ 13회에서는 지미와 희진, 리키와 하림, 제롬과 베니타의 현실적인 동거 일상이 그려졌다. 이날 방송은 시청률 조사기관 닐슨코리아에]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['유괴의 날' 최원장 부부 살인 사건, 아직 풀리지 않은 궁금증 넷]]></title>
-        <id>https://v.daum.net/v/20231016091417839</id>
-        <link href="https://v.daum.net/v/20231016091417839"/>
-        <updated>2023-10-16T00:47:28.326Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 황수연 기자) ‘유괴의 날’이 아직 끝나지 않은 진실 추적을 예고했다. ENA 수목드라마 ‘유괴의 날’이 종영까지 3회만을 남겨두고 있다. 김명준(윤계상 분)과 최로희(유나)는 유괴 사건과 함께 벌어진 최진태(전광진), 소진유(고하) 부부 살인 사건의 숨은 진실을 파헤쳐 왔다. 하지만 이와 동시에 ‘유괴범’ 김명준은 경찰에게 쫓겼고, ‘천재]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[9.8% '강남순', 4회만 '도봉순' 시청률 추월..넷플릭스 전 세계 5위↑]]></title>
-        <id>https://v.daum.net/v/20231016090350453</id>
-        <link href="https://v.daum.net/v/20231016090350453"/>
-        <updated>2023-10-16T00:47:28.326Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 | 한해선 기자] /사진=넷플릭스 TOP10 '힘쎈여자 강남순'이 국내 시청률 정복과 함께 해외 시청자까지 끌어모으며 '파워 화제작'에 등극했다. 16일 넷플릭스 순위 집계 사이트 플릭스패트롤에 따르면 JTBC 토일드라마 '힘쎈여자 강남순'(이하 '강남순')은 글로벌 TV쇼 부문 5위를 차지했다. '강남순'은 지난 14일과 15일 한국을]]></content>
     </entry>
 </feed>
