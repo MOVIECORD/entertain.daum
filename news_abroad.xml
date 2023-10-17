@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-10-17T20:12:10.619Z</updated>
+    <updated>2023-10-17T21:09:52.149Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[티모시 샬라메, 톰 크루즈와 훈훈한 선후배 사이]]></title>
+        <id>https://v.daum.net/v/20231018053030257</id>
+        <link href="https://v.daum.net/v/20231018053030257"/>
+        <updated>2023-10-17T21:09:51.375Z</updated>
+        <content type="html"><![CDATA[[TV리포트=이예은 기자] 티모시 샬라메(27)가 톰 크루즈(61)와의 뜻밖의 친분을 과시했다.&nbsp; 티모시 샬라메는 17일(현지 시간) 매거진 GQ와의 인터뷰를 통해 선배 톰 크루즈로부터 도움을 받았던 훈훈한 일화를 공개했다.&nbsp; 이날 티모시 샬라메는 "'듄: 파트 1'을 마친 직후에 톰 크루즈가 나에게 멋진 영감을 주는 이메일을 보냈다"라고 말문을 열었다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘그대들은 어떻게 살 것인가’ 북미 라인업은?…크리스찬 베일이 더빙]]></title>
         <id>https://v.daum.net/v/20231018030231349</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231017153638744"/>
         <updated>2023-10-17T07:10:53.993Z</updated>
         <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]세계적 팝스타 마돈나(65)가 공연 규칙 위반으로 약 5억원의 벌금을 낼 전망이다. 16일(현지시간) 데일리메일에 따르면, 마돈나는 지난 15일 런던 O2 아레나에서 열린 셀러브레이션 투어 콘서트에서 주요 규칙을 위반해 30만 파운드(약 4억 9,497만원)의 벌금을 물게 될 것으로 알려졌다. 마돈나는 오후 10시 3]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['팔레스타인계' 지지 하디드, 하마스 비판했는데… "유대인 아이 학살 외면 말라" 비난]]></title>
-        <id>https://v.daum.net/v/20231017152324172</id>
-        <link href="https://v.daum.net/v/20231017152324172"/>
-        <updated>2023-10-17T07:10:53.997Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 이창규 기자) 팔레스타인계 미국 모델 지지 하디드가 하마스의 이스라엘 기습 공격에 대해 비판하는 입장을 낸 가운데, 이스라엘 측이 이에 대한 반응을 보였다. 지난 11일(현지시간) 지지 하디드는&nbsp;"저는 정당화할 수 없는 이 비극의 영향을 받은 모든 이들과 함께한다"면서 "매일 무고한 생명들(특히 많은 수의 아이들)을 이 분쟁으로 잃고 잇다.]]></content>
     </entry>
 </feed>
