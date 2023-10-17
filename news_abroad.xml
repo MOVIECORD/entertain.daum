@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-10-17T04:13:08.053Z</updated>
+    <updated>2023-10-17T05:10:33.490Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[자레드 레토, 공연 중 '고공 번지'...위험천만 퍼포먼스]]></title>
+        <id>https://v.daum.net/v/20231017140200480</id>
+        <link href="https://v.daum.net/v/20231017140200480"/>
+        <updated>2023-10-17T05:10:32.608Z</updated>
+        <content type="html"><![CDATA[[TV리포트=유비취 기자] 배우 자레드 레토가 위험천만한 퍼포먼스를 선보여 보는 이들을 깜짝 놀라게 만들었다. 자레드 레도(51)는 지난 14일(현지 시간) 미국 텍사스주 오스틴에서 열린 '오스틴 시티 리미트 페스티벌'에서 그의 록 밴드 30 세컨즈 투 마스와 함께 공연을 펼쳤다. 그는 공연 중 무대로 번지 점프를 했다. 자레드 레토는 '번지' 퍼포먼스를]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['로스트 인 스페이스' 마크 고다드, 별세...향년 87세]]></title>
         <id>https://v.daum.net/v/20231017114600835</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231017014801889"/>
         <updated>2023-10-16T17:10:20.133Z</updated>
         <content type="html"><![CDATA[[TV리포트=이예은 기자] 팝의 여왕 마돈나(65)가 건강을 회복하고 복귀한 가운데, 그의 딸들이 함께 무대를 흔들어 놨다.&nbsp; 마돈나는 지난 14일(현지 시간) 영국 런던의 O2 아레마 무대에 올라 월드 투어 '셀리브레이션'의 서막을 열었다. 그는 박테리아 감염으로 병원 입원한 지 약 4개월 만에 건강한 모습으로 돌아와 팬들을 안심시켰다.&nbsp; 마돈나가 월드]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['게이' 트로이 시반 "이성애자 남자와 관계 즐기기도...혼란"]]></title>
-        <id>https://v.daum.net/v/20231016223601610</id>
-        <link href="https://v.daum.net/v/20231016223601610"/>
-        <updated>2023-10-16T14:11:20.690Z</updated>
-        <content type="html"><![CDATA[[TV리포트=유비취 기자] 동성애자라고 고백한 가수 트로이 시반이 신곡 뮤직비디오에서 드래그 분장한 모습을 선보였다. 그는 성적 고민을 신곡에 담아냈다고 알렸다. 지난 13일(현지 시간) 발매된 신곡 'One of Your Girls(원 오브 유어 걸스)' 뮤직비디오에서 트로이 시반(28)이 드래그 분장을 한 모습이었다. 그는 긴 머리, 치마, 구두 등 새]]></content>
     </entry>
 </feed>
