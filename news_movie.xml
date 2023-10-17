@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-10-17T10:12:35.332Z</updated>
+    <updated>2023-10-17T11:09:49.388Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[샤이니, 데뷔 15주년 기념 영화 포스터 공개…종현도 함께]]></title>
+        <id>https://v.daum.net/v/20231017191326866</id>
+        <link href="https://v.daum.net/v/20231017191326866"/>
+        <updated>2023-10-17T11:09:29.618Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 황혜진 기자] K팝 최정상 그룹 샤이니(온유, 종현, 민호, 키, 태민)의 데뷔 15주년 기념 얼터 콘텐츠 영화 'MY SHINee WORLD'(마이 샤이니 월드)가 개봉한다. 'MY SHINee WORLD' 측은 11월 3일 개봉을 앞두고 메인 포스터를 공개했다. 'MY SHINee WORLD'는 샤이니와 이들의 팬덤 샤이니월드가 함께한 지난]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['독친' 장서희의 모성은?…"학부모 갑질 사건, 안타까워"]]></title>
         <id>https://v.daum.net/v/20231017185008371</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231017165026679"/>
         <updated>2023-10-17T08:14:51.185Z</updated>
         <content type="html"><![CDATA[“나이 40 넘어서 스무살을 어떻게 이길까. 우승하려고 하지 말고 멋지게 하고 오자. 구질구질하고 후지게 플레이하지 말자는 마음으로 나갔어요. 출연자로서 좋은 기운을 전하자는 마음이었는데, 좋은 결과를 만들어내는 경험을 했습니다. 저조차 처음 보는 제 얼굴도 반가웠어요. 뭐가 부족한지 알았고, 성장한 점은 무엇인지 보이더라고요. 저의 40대 현재의 기록이자]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이정재X이순재, 제13회 아름다운예술인상 수상…조인성은 선행상]]></title>
-        <id>https://v.daum.net/v/20231017164815601</id>
-        <link href="https://v.daum.net/v/20231017164815601"/>
-        <updated>2023-10-17T08:14:51.192Z</updated>
-        <content type="html"><![CDATA[[SBS연예뉴스 | 김지혜 기자] 배우 이정재와 이순재가 '제13회 아름다운예술인상'을 받는다. 재단법인 신영균예술문화재단(이사장 안성기)이 주최하는 '제13회 아름다운예술인상' 심사위원회는 올해 수상자로 영화예술인상에 이정재 배우, 연극예술인상에 이순재 배우, 공로예술인상에 임권택 영화감독, 굿피플예술인상에 조인성 배우, 독립영화예술인상에 김서형 배우 등]]></content>
     </entry>
 </feed>

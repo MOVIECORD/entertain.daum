@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-10-17T10:12:35.326Z</updated>
+    <updated>2023-10-17T11:09:49.384Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['하늘의 인연' 김유석, 심이영 흔적 보며 눈물... 죄책감 느꼈다]]></title>
+        <id>https://v.daum.net/v/20231017195500569</id>
+        <link href="https://v.daum.net/v/20231017195500569"/>
+        <updated>2023-10-17T11:09:34.415Z</updated>
+        <content type="html"><![CDATA[[TV리포트=이혜미 기자] 김유석이 옛 연인 심이영의 흔적들을 보며 죄책감을 느꼈다. 17일 MBC ‘하늘의 인연’에선 순영(심이영 분) 생각에 눈물짓는 치환(김유석 분)의 모습이 그려졌다. 탈옥 후 김 씨로 살아가고 있는 치환은 옛집에서 순영의 흔적을 발견하고 큰 충격을 받은 바. 순영의 마지막을 기억하고 있는 집주인은 “그 착한 애가 뭔 사연이 있는지]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘내부자들’ 따라했다가..“여기서 술 마시면 안되는데요” 제재]]></title>
         <id>https://v.daum.net/v/20231017190618723</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231017151738938"/>
         <updated>2023-10-17T07:10:36.558Z</updated>
         <content type="html"><![CDATA['더 지니어스' '대탈출' '여고추리반' 등 독보적인 세계관의 추리 장르 예능을 선보여온 정종연 PD의 넷플릭스 신작 '데블스 플랜'에서 우승, 2억 5천만 원의 상금을 차지한 주인공 하석진을 만났다. 변호사, 의사, 과학 유튜버, 프로 게이머, 프로 바둑기사, 여행 유튜버, K-POP 아티스트, 일반인, 배우, 방송인 등 12명의 출연자 중 배우로서]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[4회 만에 시청률 두 배 껑충...'힘쎈여자 강남순' 파죽지세의 비결]]></title>
-        <id>https://v.daum.net/v/20231017151330764</id>
-        <link href="https://v.daum.net/v/20231017151330764"/>
-        <updated>2023-10-17T06:14:56.018Z</updated>
-        <content type="html"><![CDATA[[엔터미디어=정덕현의 네모난 세상] 수직 상승이다. JTBC 토일드라마 &lt;힘쎈여자 강남순&gt;의 시청률 이야기다. 첫 회 4.2%(닐슨 코리아)로 소소한 듯 시작했지만 매 회 2%씩 상승하더니 4회 만에 두 자릿수 시청률에 육박하는 9.7%를 기록했다. MBC &lt;연인&gt;, SBS &lt;7인의 탈출&gt;, tvN &lt;아라문의 검&gt; 같은 쟁쟁한 드라마들이 주말에 포진되어 각]]></content>
     </entry>
 </feed>
