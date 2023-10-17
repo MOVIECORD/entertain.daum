@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-10-17T21:09:52.165Z</updated>
+    <updated>2023-10-17T22:10:19.081Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘이두나!’ 성격이 좀 이상한, 그래도 너무 예쁜 수지]]></title>
+        <id>https://v.daum.net/v/20231018070405845</id>
+        <link href="https://v.daum.net/v/20231018070405845"/>
+        <updated>2023-10-17T22:10:01.623Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 이민지 기자] ※ 스포일러가 포함돼 있습니다 이두나를 만났다. 제멋대로, 종잡을 수 없는 성격에도 왜 인지 모르게 마음이 쓰이는 두나 누나. 10월 20일 공개되는 넷플릭스 시리즈 '이두나'는 평범한 대학생 원준(양세종 분)이 셰어하우스에서 화려한 K-POP 아이돌 시절을 뒤로하고 은퇴한 두나(수지 분)를 만나게 되며 벌어지는 이야기를 담은]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['서울 출신' 박은빈, 사투리 도전...메소드 연기 보여줄까]]></title>
         <id>https://v.daum.net/v/20231018050300035</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231017201507092"/>
         <updated>2023-10-17T12:20:29.566Z</updated>
         <content type="html"><![CDATA[(엑스포츠뉴스 이효반 기자) 손성윤이 한지완의 수작에 넘어갔다. 17일 방송된 KBS 2TV 일일드라마 '우아한 제국' 39회에서는 재클린(손성윤 분)이 큐레이터 이설희(차다영)와 서희재(한지완)의 계략에 속아 모네 위작을 구매했다. 이설희는 재클린 갤러리에서 일하며 평소 재클린의 갑질에 분노하고 있었던 차, 서희재의 사기에 동조했다.&nbsp; 재클린이 모네의 위]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['하늘의 인연' 김유석, 심이영 흔적 보며 눈물... 죄책감 느꼈다]]></title>
-        <id>https://v.daum.net/v/20231017195500569</id>
-        <link href="https://v.daum.net/v/20231017195500569"/>
-        <updated>2023-10-17T11:09:34.415Z</updated>
-        <content type="html"><![CDATA[[TV리포트=이혜미 기자] 김유석이 옛 연인 심이영의 흔적들을 보며 죄책감을 느꼈다. 17일 MBC ‘하늘의 인연’에선 순영(심이영 분) 생각에 눈물짓는 치환(김유석 분)의 모습이 그려졌다. 탈옥 후 김 씨로 살아가고 있는 치환은 옛집에서 순영의 흔적을 발견하고 큰 충격을 받은 바. 순영의 마지막을 기억하고 있는 집주인은 “그 착한 애가 뭔 사연이 있는지]]></content>
     </entry>
 </feed>
