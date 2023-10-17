@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-10-17T05:10:33.490Z</updated>
+    <updated>2023-10-17T06:15:13.984Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[마돈나, 콘서트 늦게 와 4곡 못 불러...벌금 '5억' 물 수도]]></title>
+        <id>https://v.daum.net/v/20231017150102254</id>
+        <link href="https://v.daum.net/v/20231017150102254"/>
+        <updated>2023-10-17T06:15:13.205Z</updated>
+        <content type="html"><![CDATA[[TV리포트=유비취 기자] 팝스타 마돈나가 콘서트 때문에 법규를 위반했다. 그는 벌금으로 5억 원 가까이 내야 할 수도 있다. 17일(현지 시간) 영국 매체 데일리 메일은 마돈나(65)가 '셀레브레이션' 투어 콘서트에서 통금 법규를 위반해 30만 파운드(한화 약 4억 9,520만 원)의 벌금을 물 수 있다고 보도했다. 마돈나의 '셀레브레이션' 투어는 지난]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[자레드 레토, 공연 중 '고공 번지'...위험천만 퍼포먼스]]></title>
         <id>https://v.daum.net/v/20231017140200480</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231017021130916"/>
         <updated>2023-10-16T18:15:10.708Z</updated>
         <content type="html"><![CDATA[[TV리포트=이예은 기자] 세계적인 거장 마틴 스콜세지(80)가 할리우드 유명 배우 레오나드로 디카프리오(48)와의 차기작을 또 한 번 예고했다. 이로써 차기작은 두 사람이 협업한 7번째 작품이 될 예정이다.&nbsp; 외신 연예 매체 콜리더는 16일(현지 시간) 마틴 스콜세지와 디카프리오가 영화 '더 웨거'의 크랭크인을 앞두고 있다고 보도했다.&nbsp; '더 웨거'는 미]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['11살' 마돈나 딸, 엄마 닮아 끼 넘쳐…파격 무대에 관객들 '깜짝']]></title>
-        <id>https://v.daum.net/v/20231017014801889</id>
-        <link href="https://v.daum.net/v/20231017014801889"/>
-        <updated>2023-10-16T17:10:20.133Z</updated>
-        <content type="html"><![CDATA[[TV리포트=이예은 기자] 팝의 여왕 마돈나(65)가 건강을 회복하고 복귀한 가운데, 그의 딸들이 함께 무대를 흔들어 놨다.&nbsp; 마돈나는 지난 14일(현지 시간) 영국 런던의 O2 아레마 무대에 올라 월드 투어 '셀리브레이션'의 서막을 열었다. 그는 박테리아 감염으로 병원 입원한 지 약 4개월 만에 건강한 모습으로 돌아와 팬들을 안심시켰다.&nbsp; 마돈나가 월드]]></content>
     </entry>
 </feed>
