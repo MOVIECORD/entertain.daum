@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-10-17T09:11:57.352Z</updated>
+    <updated>2023-10-17T10:12:35.340Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['올해만 열애 3번' 女배우 "데이트 어플 탈퇴"...가벼운 연애는 그만]]></title>
+        <id>https://v.daum.net/v/20231017183100949</id>
+        <link href="https://v.daum.net/v/20231017183100949"/>
+        <updated>2023-10-17T10:12:34.306Z</updated>
+        <content type="html"><![CDATA[[TV리포트=강성훈 기자] 2023년에만 세 번째 결별을 발표한 일본 인기 배우 토노 나기코(遠野なぎこ·43)가 마침내 데이트 어플을 탈퇴했다. 16일 토노 나기코는 자신의 소셜네트워크서비스에 거울 셀카 한 장을 올렸다. 그는 "무사히 데이트 어플을 탈퇴했다. 오늘은 정말 좋은 날이다"라고 덧붙였다. 그는 데이트 어플을 통해 몇 차례 남자친구를 사귄 것으로]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[벤 애플렉, 마이클 조던 영화 ‘에어’로 고담 어워드 공로상 받는다]]></title>
         <id>https://v.daum.net/v/20231017181126382</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231017114600835"/>
         <updated>2023-10-17T03:11:44.653Z</updated>
         <content type="html"><![CDATA[[TV리포트=강성훈 기자] 영화 '로스트 인 스페이스'로 유명한 마크 고다드(Mark Goddard)가 별세했다. 향년 87세. 16일(현지 시간) 보도된 외신 '폭스뉴스'에 따르면 마크 고다드의 아들 존은 "아버지가 미국 매사추세츠 주 힝엄마을에서 폐섬유증으로 사망했다"라고 밝혔다.&nbsp; 폐섬유증은 폐가 딱딱하게 굳어지는 질환이다. 심각한 호흡 장애를 불러일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[팀버레이크, 브리트니 회고록 출간 앞두고 걱정...이별 이유 나올까]]></title>
-        <id>https://v.daum.net/v/20231017112600781</id>
-        <link href="https://v.daum.net/v/20231017112600781"/>
-        <updated>2023-10-17T03:11:44.655Z</updated>
-        <content type="html"><![CDATA[[TV리포트=유비취 기자] 팝스타 브리트니 스피어스의 행보에 전 남자친구 저스틴 팀버레이크까지 우려하고 있다. 16일(현지 시간) 연예 매체 페이지식스에 따르면 저스틴 팀버레이크(42)가 전 여자친구 브리트니 스피어스(41)가 곧 출간하는 회고록에 대해 우려하고 있다. 한 소식통은 "저스틴 팀버레이크는 브리트니 스피어스가 (회고록을 통해) 자신들의 관계에서]]></content>
     </entry>
 </feed>
