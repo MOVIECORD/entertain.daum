@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-10-18T04:13:03.845Z</updated>
+    <updated>2023-10-18T05:10:30.583Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[저스틴 팀버레이크, 브리트니 '낙태' 폭로에 입장 표명 거부]]></title>
+        <id>https://v.daum.net/v/20231018133101558</id>
+        <link href="https://v.daum.net/v/20231018133101558"/>
+        <updated>2023-10-18T05:10:29.811Z</updated>
+        <content type="html"><![CDATA[[TV리포트=안수현 기자] 팝스타 브리트니 스피어스(41)가 '과거 저스틴 팀버레이크(42)와 교제 당시 낙태를 했었다'고 털어놨다. 1999년부터 2002년까지 약 3년간 교제한 것으로 알려져 있는 두 사람은 당시 18~21세 안팎이었다. 18일, 외신 '피플'(People)에 따르면 브리트니는 오는 24일 출간 예정인 회고록 '더 우먼 인 미'(The]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['러브 액츄얼리' 감독 "女 외모 품평 대사 후회해...어리석었다"]]></title>
         <id>https://v.daum.net/v/20231018123530305</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231018070756899"/>
         <updated>2023-10-17T22:10:18.302Z</updated>
         <content type="html"><![CDATA[(로스앤젤레스=연합뉴스) 임미나 특파원 = 미국 영화 촬영장에서 실탄이 장전된 소품용 총이 격발돼 촬영감독이 사망한 사건과 관련해 배우 알렉 볼드윈이 과실치사 혐의로 다시 기소될 위기에 놓였다. 17일(현지시간) 미 NBC 뉴스와 CNN 등에 따르면 이 사건을 수사 중인 뉴멕시코주 특별검사 2명은 볼드윈을 과실치사 혐의로 기소하는 방안을 추진 중이라고 밝혔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“우린 이혼해도 친구야” 휴 잭맨→제니퍼 애니스톤→벤 애플렉 “쿨하다 쿨해”]]></title>
-        <id>https://v.daum.net/v/20231018070311838</id>
-        <link href="https://v.daum.net/v/20231018070311838"/>
-        <updated>2023-10-17T22:10:18.302Z</updated>
-        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]할리우드는 쿨하다. 이혼해도 친구로 지낸다. 생일을 축하해주고, 서로 전화와 문자메시지를 주고받는가 하면 아이들을 함께 키우기도 한다. 휴 잭맨, 전 부인과 함께 생일파티 ‘울버린’ 휴 잭맨은 지난 12일(현지시간) 자신의 55번째 생일파티를 유명 인사들이 즐겨 찾는 고급 레스토랑인 뉴욕의 랄프로렌 폴로 바에서 열었다.]]></content>
     </entry>
 </feed>
