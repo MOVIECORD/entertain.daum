@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2023-10-18T19:09:46.466Z</updated>
+    <updated>2023-10-18T20:11:43.991Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[장항준, 김은희와 별거설 해명…"장모님과 거주 중"]]></title>
+        <id>https://v.daum.net/v/20231019051004484</id>
+        <link href="https://v.daum.net/v/20231019051004484"/>
+        <updated>2023-10-18T20:11:37.929Z</updated>
+        <content type="html"><![CDATA[(서울=뉴스1) 박하나 기자 = 영화감독 장항준이 아내인 작가 김은희와의 별거설을 해명했다. 지난 18일 오후 방송된 MBC 예능 프로그램 '라디오스타'에서는 '꼬리에 꼬리를 무는 친구들' 특집으로 꾸며져 장항준이 출연해 입담을 뽐냈다. 이날 장항준 외에 송은이, 장현성, 김풍이 함께했다. 장항준과 함께 출연한 34년 지기 장현성이 장항준이 작가 김은희]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['스트리트파이터' 金 김관우, 게임 개발자→44세 금메달리스트]]></title>
+        <id>https://v.daum.net/v/20231019045004247</id>
+        <link href="https://v.daum.net/v/20231019045004247"/>
+        <updated>2023-10-18T20:11:37.932Z</updated>
+        <content type="html"><![CDATA[(서울=뉴스1) 박하나 기자 = 국가대표 '스트리트 파이터' 선수 김관우가 '유 퀴즈 온 더 블럭'에 출격했다. 지난 18일 오후 방송된 tvN 예능 프로그램 '유 퀴즈 온 더 블럭'(이하 '유퀴즈')에서는 '스트리트 파이터' 국가대표 김관우 선수가 유퀴저로 함께했다. 김관우 선수는 항저우 아시안게임 e스포츠 국가대표로 '스트리트 파이터 V' 종목에서]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘뇌섹남’ 하석진 “지적인 이미지? 배우로서 좋은 건지 고민돼”]]></title>
         <id>https://v.daum.net/v/20231019040439030</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20231019000756990"/>
         <updated>2023-10-18T15:12:07.043Z</updated>
         <content type="html"><![CDATA[[OSEN=박하영 기자] ‘라디오스타’ 김풍이 가정주부 시절 김은희를 떠올렸다.&nbsp; 18일 방송된 MBC 예능 ‘라디오스타’에서는&nbsp;‘꼬리에 꼬리를 무는 친구들’ 특집으로 장항준, 송은이, 장현성, 김풍이 출연했다. 이날 장항준은 지난 출연 이후 ‘라스’에 한 획을 그었다며 “제가 출연했던 회차의 제 에피소드만 모은 영상 조회수가 898만이더라. 그게 ‘라]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박수홍, 친형과 끝없는 법정공방…장남 감싼 父母에 형수 고소까지]]></title>
-        <id>https://v.daum.net/v/20231019000147767</id>
-        <link href="https://v.daum.net/v/20231019000147767"/>
-        <updated>2023-10-18T15:12:07.055Z</updated>
-        <content type="html"><![CDATA[[서울=뉴시스] 신효령 기자 = 개그맨 박수홍과 친형의 법정 공방이 점입가경으로 치닫고 있다. 박수홍 부모는 장남을 계속 두둔하고, 사실관계가 확인되지 않은 박수홍의 사생활까지 폭로했다. 하지만 박수홍 막내동생은 박수홍 편에 서서 증언해 이목이 집중됐다. 양측의 진실 공방이 이어지는 가운데, 박수홍 측이 형수에 대해 명예훼손 혐의로 고소까지 하면서 날선]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박보영, '강남순' 특별출연 "내심 긴장했는데.. 박형식과 호흡 여전"]]></title>
-        <id>https://v.daum.net/v/20231019000130759</id>
-        <link href="https://v.daum.net/v/20231019000130759"/>
-        <updated>2023-10-18T15:12:07.057Z</updated>
-        <content type="html"><![CDATA[[TV리포트=이혜미 기자] 배우 박보영과 박형식이 ‘힘쎈여자 강남순’ 특별 출연 소감을 전했다. 18일 JTBC Drama 채널을 통해 ‘힘쎈여자 강남순’ 메이킹 영상이 공개됐다. 앞서 ‘힘쎈여자 강남순’에는 박보영과 박형식이 카메오로 나선 바. 이들은 ‘힘쎈여자 강남순’의 전작 ‘힘쎈여자 도봉순’의 주연배우들이다. 이날 박보영과 박형식은 화기애애한 분위기]]></content>
     </entry>
 </feed>
