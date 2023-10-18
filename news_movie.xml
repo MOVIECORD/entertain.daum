@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-10-18T10:12:19.209Z</updated>
+    <updated>2023-10-18T11:10:19.198Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이준영 "신혜선 액션? 10점 만점에 9.9…0.1은 실제로 맞아서"]]></title>
+        <id>https://v.daum.net/v/20231018193002732</id>
+        <link href="https://v.daum.net/v/20231018193002732"/>
+        <updated>2023-10-18T11:09:54.916Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 윤현지 기자) '용감한 시민' 이준영이 신혜선의 액션에 대해 평가했다. 18일 오후 서울 용산구 CGV용산아이파크몰에서 영화 '용감한 시민'(감독 박진표)의 언론배급시사회가 열렸다. 현장에는 배우 신혜선, 이준영과 박진표 감독이 함께했다. '용감한 시민'은 불의는 못 본 척, 성질은 없는 척, 주먹은 약한 척 살아온 기간제 교사 소시민(신혜선]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['1947 보스톤' 강제규 감독과 배우 3인방이 꼽은 명장면은?…다 달랐다]]></title>
         <id>https://v.daum.net/v/20231018190000314</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231018170003675"/>
         <updated>2023-10-18T08:13:50.368Z</updated>
         <content type="html"><![CDATA[배우 이준영의 액션 폼은 진짜 장난이 아니고 신혜선의 첫 액션 도전은 합격점을 주기 충분하다. 무엇보다 두 배우가 만나 일으키는 시너지가 대단하다. 18일 오후 서울 용산구 CGV 용산아이파크몰에서는 영화 ‘용감한 시민’의 언론 시사회가 진행됐다. 이 자리에는 연출을 맡은 박진표 감독과 신혜선, 이준영이 자리해 영화에 대한 다양한 이야기를 나눴다. ‘용]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["액션 폼 美쳤다"…신혜선X이준영, '용감한 시민'에서 제대로 붙었다]]></title>
-        <id>https://v.daum.net/v/20231018165915642</id>
-        <link href="https://v.daum.net/v/20231018165915642"/>
-        <updated>2023-10-18T08:13:50.382Z</updated>
-        <content type="html"><![CDATA[[스포츠조선 안소윤 기자] '용감한 시민' 신혜선과 이준영이 원작 웹툰을 찢고 나왔다. 18일 오후 서울 용산구 이촌동 CGV용산아이파크몰에서 영화 '용감한 시민' 언론·배급 시사회가 진행됐다. 이날 현장에는 배우 신혜선, 이준영과 박진표 감독이 참석했다. 오는 25일 개봉하는 영화 '용감한 시민'은 불의는 못 본 척, 성질은 없는 척,]]></content>
     </entry>
 </feed>

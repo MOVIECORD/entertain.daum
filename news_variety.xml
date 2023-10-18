@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/variety</id>
     <title>다음 연예 ─ 뉴스 ─ 예능</title>
-    <updated>2023-10-18T10:12:19.199Z</updated>
+    <updated>2023-10-18T11:10:19.196Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[심사위원 허니제이→모니카, 필요없는 존재…팬덤 크기가 좌지우지하는 '스우파2']]></title>
+        <id>https://v.daum.net/v/20231018200101192</id>
+        <link href="https://v.daum.net/v/20231018200101192"/>
+        <updated>2023-10-18T11:10:06.632Z</updated>
+        <content type="html"><![CDATA[[텐아시아=류예지 기자] &lt;&lt;류예지의 옐로카드&gt;&gt; 류예지 텐아시아 기자가 가장 주목 받고 있는 연예계 사건·사고를 제대로 파헤쳐봅니다. 관객 점수의 위력이 상상 이상이다. 더 실력 있는 참가자가 아니라 인기 많은 참가자가 우위를 점한다. 사실상 심사위원들의 점수는 필요 없게 됐다. 17일 밤 10시 방송된 Mnet '스트릿우먼파이터2'에서는 '배틀 퍼포]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2PM 메인 댄서 우영 굴욕..홍진경 "나보다 떨어져"]]></title>
         <id>https://v.daum.net/v/20231018184502029</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231018164411981"/>
         <updated>2023-10-18T08:14:01.568Z</updated>
         <content type="html"><![CDATA[[뉴스엔 박수인 기자] (여자)아이들 우기가 츄, 츠키를 제치고 ‘우주 걸그룹’ 리더로 선정됐다. 10월 16, 17일 첫 방송된 U+모바일TV '우주 클래스 도약을 위한 별별 능력 업뎃기 별의별걸(이하 별의별걸)'에서는 츄X우기X츠키의 우주 진출을 위한 첫 번째 관문인 우주 생존력 테스트 그리고 ‘전문가 집단’의 까다로운 검증을 통한 리더 선출기가 펼쳐]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2PM 우영, 홍진경 앞에서 치욕 "춤에 ㅊ자도 모르는 놈아"]]></title>
-        <id>https://v.daum.net/v/20231018162928361</id>
-        <link href="https://v.daum.net/v/20231018162928361"/>
-        <updated>2023-10-18T08:14:01.572Z</updated>
-        <content type="html"><![CDATA[[OSEN=하수정 기자] KBS2 ‘홍김동전’ 우영이 2PM 메인댄서라는 타이틀이 무색하게 댄스실력으로 홍진경에게 대굴욕을 맛본다. OTT 플랫폼 웨이브에서 KBS 비드라마 26주 1위(10월 16일 기준)를 이어갈 뿐 아니라, KBS 드라마, 비드라마 통합 1위(10월 9일 기준)를 달성한 바 있는 KBS 2TV ‘홍김동전’(연출 박인석)은 홍진경,]]></content>
     </entry>
 </feed>
