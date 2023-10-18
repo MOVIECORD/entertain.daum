@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-10-18T20:11:43.993Z</updated>
+    <updated>2023-10-18T21:10:17.003Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[여성작곡가 칼라 블레이 별세…아방가르드 재즈계서 60년간 활약]]></title>
+        <id>https://v.daum.net/v/20231019060052856</id>
+        <link href="https://v.daum.net/v/20231019060052856"/>
+        <updated>2023-10-18T21:10:16.223Z</updated>
+        <content type="html"><![CDATA[(뉴욕=연합뉴스) 고일환 특파원 = 현대 재즈계에서 가장 혁신적인 작곡가 중 한 사람으로 꼽히는 칼라 블레이가 별세했다. 향년 87세. 뉴욕타임스(NYT)는 18일(현지시간) 블레이가 전날 뉴욕주(州) 윌로의 자택에서 뇌종양 합병증으로 사망했다고 보도했다. 60년 이상 재즈계에서 활약했던 블레이는 작곡가와 피아니스트로서 빅밴드와 6인조 그룹, 트리오 등 다]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['조커' 호아킨 피닉스의 화려한 변신…'나폴레옹' 2차 예고편 공개]]></title>
         <id>https://v.daum.net/v/20231019033000963</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231018160100180"/>
         <updated>2023-10-18T07:10:38.614Z</updated>
         <content type="html"><![CDATA[[TV리포트=유비취 기자] 22살의 나이 차이를 극복하고 결혼에 골인한 홍콩 스타 케빈 쳉과 그의 아내가 달달한 데이트를 공개했다. 17일 케빈 쳉(54)의 아내 그레이스 찬(32)은 소셜네트워크서비스를 통해 데이트 현장 사진을 올렸다. 두 사람은 22살 나이 차이와 결혼 6년 차인 게 티 나지 않을 만큼 잘 어울리는 모습이었다. 영상 속 케빈 쳉과 그레이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[저스틴 팀버레이크 측, 브리트니 낙태 고백에 “신경쓰지 않아”]]></title>
-        <id>https://v.daum.net/v/20231018155934101</id>
-        <link href="https://v.daum.net/v/20231018155934101"/>
-        <updated>2023-10-18T07:10:38.615Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 이민지 기자] 저스틴 팀버레이크가 브리트니 스피어스의 낙태 고백에 신경쓰지 않으려고 노력 중이다. 엔터테인먼트 투나잇은 10월 17일(현지시간) 브리트니 스피어스의 회고록 속 낙태 주장과 저스틴 팀버레이크의 반응을 전했다. 브리트니 스피어스는 자신의 회고록을 통해 저스틴 팀버레이크의 아이를 임신했던 과거를 고백했다. 저스틴 팀버레이크의 반대로]]></content>
     </entry>
 </feed>
