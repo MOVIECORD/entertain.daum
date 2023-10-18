@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-10-18T01:47:28.879Z</updated>
+    <updated>2023-10-18T02:19:47.861Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[수지 "'이두나' 대본 너무 설레서 '악!' 소리 질렀다"]]></title>
+        <id>https://v.daum.net/v/20231018111903210</id>
+        <link href="https://v.daum.net/v/20231018111903210"/>
+        <updated>2023-10-18T02:19:25.633Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 | 강남=한해선 기자] /사진=이동훈 기자 (photoguy@mt.co.kr) 가수 겸 배우 수지가 '이두나' 대본을 읽고 기쁜 비명을 질렀다고 밝혔다. 18일 오전 서울 강남구 삼성동 코엑스 신한카드 아티움에서 넷플릭스 시리즈 '이두나!'(극본 장유하, 연출 이정효) 제작발표회가 열렸다. 이정효 감독, 수지, 양세종이 참석했다. 수지는 "]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김도완, '이두나!' 출연…양세종 셰어하우스 메이트役]]></title>
         <id>https://v.daum.net/v/20231018103502858</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231018092315939"/>
         <updated>2023-10-18T00:46:35.727Z</updated>
         <content type="html"><![CDATA[(엑스포츠뉴스 윤현지 기자) 디즈니+ 마블 오리지널 시리즈 '로키 시즌2'가 공개 전 북미 11개 도시 팬 이벤트를 시작으로 시카고, 런던, 서울까지 전 세계적인 팬 이벤트를 개최하며 글로벌 팬들의 사랑에 화답했다. &nbsp;&nbsp; 첫 에피소드 공개와 동시에 폭발적인 반응을 이끌며 디즈니+ 마블 오리지널 시리즈의 대표작으로서 명성을 이어가고 있는 '로키 시즌2'가 전]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['연인' 남궁민, 끌려온 안은진 봤을까 못 봤을까..'애절 멜로']]></title>
-        <id>https://v.daum.net/v/20231018090810358</id>
-        <link href="https://v.daum.net/v/20231018090810358"/>
-        <updated>2023-10-18T00:46:35.729Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 | 이경호 기자] MBC 금토드라마 '연인'의 남궁민, 안은진/사진제공=MBC 금토드라마 '연인''연인' 남궁민은 안은진을 봤을까, 못 봤을까. MBC 금토드라마 '연인'(기획 홍석우, 연출 김성용·이한준·천수진, 극본 황진영)이 파트2로 돌아왔다. '연인'은 파트1 방영 당시 강력한 스토리텔링, 섬세하면서도 힘 있는 연출, 눈부신 영상미, 배]]></content>
     </entry>
 </feed>
