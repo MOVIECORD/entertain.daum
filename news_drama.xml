@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-10-19T20:11:43.617Z</updated>
+    <updated>2023-10-19T21:09:17.751Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김소연, ‘7인의 탈출’ 뜬다…제작진 “등장만으로 분위기 압도”]]></title>
+        <id>https://v.daum.net/v/20231020060055681</id>
+        <link href="https://v.daum.net/v/20231020060055681"/>
+        <updated>2023-10-19T21:08:59.937Z</updated>
+        <content type="html"><![CDATA[20일 방송되는 SBS 금토드라마 ‘7인의 탈출’에 김소연이 특별출연 해 강렬한 존재감을 보여줄 예정이다. 지난 방송에서 매튜 리(엄기준 분)는 악인들의 계획을 역으로 이용하기로 했다. 이휘소(민영기 분)를 대신해 교도소에 있는 방칠성(이덕화 분)을 꺼내는 데 성공했지만, 변수가 발생했다. 방칠성이 과거 ‘K’가 건넸던 재개발 지역 문서와 자신에게 했던]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['국민사형투표' 임지연, 김권 방 잠입…살인 증거 찾을까?]]></title>
         <id>https://v.daum.net/v/20231020031203553</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231019173220224"/>
         <updated>2023-10-19T09:11:30.610Z</updated>
         <content type="html"><![CDATA[(엑스포츠뉴스 이효반 기자) 광희가 차은우를 언급했다. 19일 유튜브 채널 '캐릿 Careet'에는&nbsp;'골반 장난 아니게 치고 간 발라드 가ㅅ…ㅜ..아니 댄스 가수 이석훈ㅣ[가내조공업 Ep.23]'이라는 제목의 영상이 공개됐다. 해당 영상에는 그룹 SG워너비 이석훈이 출연했다. 이날 광희는 "천만 국민들이 선배님의 얼굴을 부러워 하신다"며 "안경을 쓴 사람들]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[정려원, 안판석 신작 '졸업' 출연...로맨스 장인의 귀환]]></title>
-        <id>https://v.daum.net/v/20231019173216221</id>
-        <link href="https://v.daum.net/v/20231019173216221"/>
-        <updated>2023-10-19T09:11:30.625Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 김현정 기자)&nbsp;배우 정려원이 깊이 있는 달달한 로맨스로 돌아온다. 정려원은 드라마 시리즈 ‘졸업’ 출연을 확정했다. 드라마 ‘졸업’은 베테랑 학원 강사 서혜진(정려원 분)과 10년 만에 돌아와 그의 마음을 휘젓는 발칙한 제자 이준호(위하준)의 은밀하고도 달콤한 현실 로맨스다. 대치동 학원가 불빛이 꺼지면 시작되는 비밀스러운 미드나잇 로맨스,]]></content>
     </entry>
 </feed>
