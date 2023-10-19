@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-10-19T09:11:52.339Z</updated>
+    <updated>2023-10-19T10:11:51.142Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[브리트니 '혼전순결' 안한 것도 저스틴이 폭로해 알려져...비판↑]]></title>
+        <id>https://v.daum.net/v/20231019183032352</id>
+        <link href="https://v.daum.net/v/20231019183032352"/>
+        <updated>2023-10-19T10:11:50.243Z</updated>
+        <content type="html"><![CDATA[[TV리포트=김현재 기자] 브리트니 스피어스의 낙태 폭로로 전 남자친구인 저스틴 팀버레이크를 향한 관심이 뜨거운 가운데, 논란의 소지가 있는 그의 과거 발언도 다시 주목을 받고 있다. 18일, 미국 매체 '피플'(People)에 따르면 팝스타인 브리트니 스피어스는 오는 24일 출간 예정인 회고록 '더 우먼 인 미'(The Woman in Me)에 가수 겸]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[고천락, '동안'인 70대 어머니 공개...아내 아니야?]]></title>
         <id>https://v.daum.net/v/20231019180030413</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231019150201168"/>
         <updated>2023-10-19T06:15:16.070Z</updated>
         <content type="html"><![CDATA[[TV리포트=강성훈 기자] 전설적인 락 뮤지션 노엘 갤러거가 밴드 오아시스 활동 마지막을 회상했다.&nbsp; 18일(현지 시간) 외신 'LOUDWIRE', 'UCR' 등 다수의 외신 보도에 따르면 노엘 갤러거는 한 소식통과의 인터뷰에서 "오아시스에서의 마지막 1년은 매우 끔찍했다"라고 말했다. 그는 "인생은 단 한 번뿐인데 왜 불행할까. 소중한 것을 낭비하지 말자]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['색,계' 왕리홍, 47세에도 자기관리...비현실적 '복근' 인증]]></title>
-        <id>https://v.daum.net/v/20231019142100169</id>
-        <link href="https://v.daum.net/v/20231019142100169"/>
-        <updated>2023-10-19T06:15:16.071Z</updated>
-        <content type="html"><![CDATA[[TV리포트=안수현 기자] 중화권 톱스타 왕리훙이 복근을 공개하며 크게 주목받았다. 지난 16일, 왕리훙은 자신의 소셜미디어 계정에 체육관에서 운동하는 영상을 공개했다. 그는 1.2km 수영, 5km 달리기, 웨이트 트레이닝을 포함한 자신의 운동 루틴을 공개했다. 또한 그는 "계속 열심히 노력해야 한다"라며 "절대 포기하지 않을 것"이라는 글을 작성하며 강]]></content>
     </entry>
 </feed>
