@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-10-19T10:11:51.238Z</updated>
+    <updated>2023-10-19T11:09:36.887Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[신혜선 "실제 불의를 본다면..."]]></title>
+        <id>https://v.daum.net/v/20231019195009992</id>
+        <link href="https://v.daum.net/v/20231019195009992"/>
+        <updated>2023-10-19T11:09:13.094Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 윤현지 기자) '용감한 시민' 신혜선이 영화의 주제에 대해 의견을 전했다. 19일 오전 서울 삼청동의 한 카페에서 영화 '용감한 시민'(감독 박진표)에 출연한 배우 신혜선의 인터뷰가 진행됐다. '용감한 시민'은 불의는 못 본 척, 성질은 없는 척, 주먹은 약한 척 살아온 기간제 교사 소시민(신혜선 분)이 선을 넘어버린 안하무인 절대권력 한수강]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이준영 "학폭 가해 연기하다 눈물, 이 이상의 악역은 없다"]]></title>
         <id>https://v.daum.net/v/20231019185011771</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231019145029569"/>
         <updated>2023-10-19T06:14:54.413Z</updated>
         <content type="html"><![CDATA[[스타뉴스 | 안윤지 기자]  헐리우드 배우 브리 라슨/사진=김휘선 기자 hwijpg@영화 '더 마블스'의 주연 배우 브리 라슨이 마블 스튜디오에 부정적인 반응을 보였다. 18일(현지시간) 외신에 따르면 'MCU: The Reign of Marvel Studios'의 저자 조안나 로빈슨은 "브리 라슨이 마블과 협업하는 것에 대해 환멸을 느낀다"라고 말했]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이준영, 유키스→ 배우 전향 "여전히 춤 사랑해...스트레스 해소 창구"]]></title>
-        <id>https://v.daum.net/v/20231019144530333</id>
-        <link href="https://v.daum.net/v/20231019144530333"/>
-        <updated>2023-10-19T06:14:54.413Z</updated>
-        <content type="html"><![CDATA[[TV리포트=김연주 기자] 'D.P.', '마스크걸'에서 빌런 역으로 눈도장을 찍은 배우 이준영이 영화 '용감한 시민'에서 차원이 다른 악역을 연기한다.&nbsp; 19일 오전 서울 종로구 삼청동의 한 카페에서 영화 '용감한 시민'에서 활약한 배우 이준영 인터뷰와의 인터뷰가 진행됐다.&nbsp; '용감한 시민'은 불의는 못 본 척, 성질은 없는 척, 주먹은 약한 척 살아온]]></content>
     </entry>
 </feed>
