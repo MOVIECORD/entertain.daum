@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-10-20T00:46:22.858Z</updated>
+    <updated>2023-10-20T01:45:27.097Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[영화 '록키' 친구역 배우 버트 영 83세 나이로 별세]]></title>
+        <id>https://v.daum.net/v/20231020104209089</id>
+        <link href="https://v.daum.net/v/20231020104209089"/>
+        <updated>2023-10-20T01:45:26.341Z</updated>
+        <content type="html"><![CDATA[(로스앤젤레스=연합뉴스) 임미나 특파원 = 영화 '록키'에서 주인공 록키의 친구 역할로 큰 인기를 끈 배우 버트 영이 지난 8일(현지시간) 83세를 일기로 별세했다고 미 일간 뉴욕타임스(NYT)와 AP통신 등이 19일 전했다. 영의 딸과 매니저가 그의 부고를 언론에 알렸으며, 영의 구체적인 사망 원인은 아직 확인되지 않았다고 이들은 밝혔다. 영은 '록키']]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[윌 스미스, 아내와 7년 별거 공개 후 "우리는 잔인한 관계"]]></title>
+        <id>https://v.daum.net/v/20231020095443362</id>
+        <link href="https://v.daum.net/v/20231020095443362"/>
+        <updated>2023-10-20T01:45:26.341Z</updated>
+        <content type="html"><![CDATA[[OSEN=김보라 기자]&nbsp;배우 제이다 핀켓 스미스와 윌 스미스가 7년 간 별거해왔다는 소식이 전해진 가운데, 윌 스미스가 돌연 아내에 대한 애증을 드러냈다. 윌 스미스는 19일(현지 시간) 미국 메릴랜드 주 볼티모어에 위치한 에녹 프랫 공공 도서관에서 열린 제이다의 새 회고록 ‘Worthy’ 무대에 올라 “나는 정말 여기 오고 싶었다”며 “내 꿈은 제이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“역시 금사빠” 테일러 스위프트, “♥미식축구 선수와 한달만에 사랑에 빠졌다”]]></title>
         <id>https://v.daum.net/v/20231020092609363</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20231019175210109"/>
         <updated>2023-10-19T09:11:51.329Z</updated>
         <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]할리우드 배우 레오나르도 디카프리오(48)가 마틴 스콜세이지 감독의 신작 ‘플라워 킬링 문’에서 최고의 연기를 펼쳤다는 호평을 받는 가운데 그가 내년 아카데미 시상식에서 남우주연상을 수상할지 관심이 모아진다. ‘플라워 킬링 문’은 20세기 초 석유로 갑작스럽게 막대한 부를 거머쥐게 된 미국 오세이지족 원주민들에게 벌어진 실]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['해리포터' 매튜 루이스, 훈남으로 폭풍 성장...성형의혹 생길 정도]]></title>
-        <id>https://v.daum.net/v/20231019174230726</id>
-        <link href="https://v.daum.net/v/20231019174230726"/>
-        <updated>2023-10-19T09:11:51.330Z</updated>
-        <content type="html"><![CDATA[[TV리포트=김현재 기자] 영화 '해리포터' 시리즈의 배우 매튜 루이스(34)가 확 달라진 모습으로 등장했다. 19일, 유명 라디오 쇼인 '카일 &amp; 재키 오'의 라디오의 출연한 매튜는 달라진 외모로 진행자를 놀라게 했다. 진행자인 재키는 라디오의 다른 출연진인 뉴스 진행자 브루클린 로스가 매튜를 향해 "영화에서보다 지금이 더 잘생겨졌네요"라는 농담을 할]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[브리트니 스피어스 "19세였는데 저스틴 팀버레이크가 낙태 강요"]]></title>
-        <id>https://v.daum.net/v/20231019173034159</id>
-        <link href="https://v.daum.net/v/20231019173034159"/>
-        <updated>2023-10-19T09:11:51.332Z</updated>
-        <content type="html"><![CDATA[[스포츠조선 정빛 기자] 팝스타 브리트니 스피어스가 과거 교제했던  가수 저스틴 팀버레이크에 대해 폭로했다. 17일(현지 시각) 미 연예매체 피플 등에 따르면, 브리트니 스피어스는 오는 24일 출간 예정인 회고록 '더 우먼 인 미'( The Woman in Me)를 통해 과거 자신이 저스틴 팀버레이크의 아이를 임신했으며 저스틴 팀버레이크가]]></content>
     </entry>
 </feed>
