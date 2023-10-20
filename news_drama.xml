@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-10-20T01:45:27.102Z</updated>
+    <updated>2023-10-20T02:18:22.898Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['마이데몬' 측 "김유정X송강, 로맨스 도파민 폭발..색다른 판타지 로코"]]></title>
+        <id>https://v.daum.net/v/20231020111505288</id>
+        <link href="https://v.daum.net/v/20231020111505288"/>
+        <updated>2023-10-20T02:18:04.948Z</updated>
+        <content type="html"><![CDATA[[OSEN=장우영 기자] ‘마이 데몬’ 김유정, 송강은 서로에게 구원자일까 파괴자일까. 오는 11월 24일 첫 방송되는 SBS 새 금토드라마 ‘마이 데몬’(극본 최아일, 연출 김장한, 제작 스튜디오S·빈지웍스) 측은 20일, 김유정과 송강의 시리도록 아름다운 국화 위 눈맞춤을 담은 티저 포스터를 공개했다. 이 세상에 단둘만 존재하는 듯 서로를 응시하는]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[피칠갑한 지창욱, 선과 악의 경계가 한없이 얇아질 때]]></title>
+        <id>https://v.daum.net/v/20231020105523545</id>
+        <link href="https://v.daum.net/v/20231020105523545"/>
+        <updated>2023-10-20T02:18:04.949Z</updated>
+        <content type="html"><![CDATA[[엔터미디어=정덕현] 디즈니 플러스 드라마 '최악의 악'은 첫 신부터 조직들 간에 벌어지는 살벌한 전쟁을 보여준다. 좁은 복도를 가득 메운 조폭들과 그들 속에 들린 도끼와 칼. 피와 살점이 튀는 그 현장에 언더커버로 강남연합에 들어온 형사 박준모(지창욱)가 모습을 드러낸다. 그런데 복도 맞은편에 박준모의 아내 유의정(임세미)과 강남연합 보스 정기철(위하준)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[성훈·정유민, 첫 만남부터 아찔 초밀착 스킨십]]></title>
         <id>https://v.daum.net/v/20231020104406157</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20231020091125824"/>
         <updated>2023-10-20T00:46:04.274Z</updated>
         <content type="html"><![CDATA[[뉴스엔 김명미 기자] 배인혁이 역대급 연기 변신에 나선다. ‘연인’ 후속으로 오는 11월 중 첫 방송을 앞둔 MBC 새 금토드라마 ‘열녀박씨 계약결혼뎐’(극본 고남정, 연출 박상훈, 제작 초록뱀미디어)은 죽음을 뛰어넘어 2023년 대한민국에 당도한 19세기 욕망 유교걸 박연우와 21세기 무감정 끝판왕 강태하의 금쪽같은 계약결혼 스토리를 담은 드라마다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['소년 소녀 연애하다', 매거진 ‘싱글즈’ 11월호 화보 공개...10인 10색 매력]]></title>
-        <id>https://v.daum.net/v/20231020090531640</id>
-        <link href="https://v.daum.net/v/20231020090531640"/>
-        <updated>2023-10-20T00:46:04.274Z</updated>
-        <content type="html"><![CDATA[[OSEN=유수연 기자]&nbsp;두근두근 설렘 포텐을 터트리고 있는 티빙 오리지널 '소년 소녀 연애하다'&nbsp;(이하 '소소연')가 생애 첫 화보 모델로 변신한 소년, 소녀의 매거진 ‘싱글즈’ 화보를 공개해 화제다.&nbsp; 이번에 공개된 '소소연'&nbsp;‘싱글즈’ 화보는 블루, 핑크, 옐로우 톤의 밝고 화사한 파스텔 컬러와 어우러진 소년, 소녀의 모습이 눈길을 사로잡는다. 여]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘힘쎈여자 강남순’ 맑눈광 이유미, 진상 고객 곽자형 참교육]]></title>
-        <id>https://v.daum.net/v/20231020090529639</id>
-        <link href="https://v.daum.net/v/20231020090529639"/>
-        <updated>2023-10-20T00:46:04.274Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 이민지 기자] 이유미가 관계 역전 참교육을 선보인다. JTBC 토일드라마 ‘힘쎈여자 강남순’(극본 백미경/연출 김정식·이경식) 측은 10월 20일 진상 고객 퇴치에 나선 강남순(이유미 분)을 공개했다. 지난 방송에서는 강남순과 강희식(옹성우 분)이 공조를 시작했다. 추가 사망자가 물에 녹는 마스크와 관련 있다는 것을 알게 된 강희식. 마침 두]]></content>
     </entry>
 </feed>
