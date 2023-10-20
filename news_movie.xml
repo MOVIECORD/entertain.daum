@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-10-20T10:11:53.201Z</updated>
+    <updated>2023-10-20T11:09:27.008Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['마약 논란' 이선균 "수사에 충실, 협박범 고소"..차기작 '빨간불']]></title>
+        <id>https://v.daum.net/v/20231020192240711</id>
+        <link href="https://v.daum.net/v/20231020192240711"/>
+        <updated>2023-10-20T11:09:02.114Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 | 안윤지 기자] 배우 이선균/ 사진제공 = 롯데엔터테인먼트 /사진=김창현배우 이선균이 마약 투약 논란에 휩싸인 가운데 이번 사건으로 지속적인 공갈, 협박한 A씨를 고소했다. 그는 최근 활발하게 활동한 만큼, 이번 논란으로 인해 차기작에 빨간불이 켜졌다. 지난 19일 인천경찰청 마약범죄수사계는 마약류 관리에 관한 법률 위반(향정) 등 혐의로 영]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[신혜선 "예뻐 보이려고 한 영화 아냐···상처는 분장일 뿐"]]></title>
         <id>https://v.daum.net/v/20231020183020969</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231020155700603"/>
         <updated>2023-10-20T07:10:23.779Z</updated>
         <content type="html"><![CDATA[[TV리포트=김연주 기자] 배우 신혜선이 전직 복서 역할로 분해 강도 높은 액션을 선보인다.&nbsp; 19일 서울 종로구 삼청동 한 카페에서 영화 '용감한 시민'으로 관객과 만나는 배우 신혜선과의 인터뷰가 진행됐다. '용감한 시민'은 불의는 못 본 척, 성질은 없는 척, 주먹은 약한 척 살아온 기간제 교사 소시민(신혜선 분)이 선을 넘어버린 안하무인 절대권력 한]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘마약 혐의’ 톱스타 L씨=이선균 “확인 중, 공갈-협박 피해 고소”]]></title>
-        <id>https://v.daum.net/v/20231020155454510</id>
-        <link href="https://v.daum.net/v/20231020155454510"/>
-        <updated>2023-10-20T07:10:23.779Z</updated>
-        <content type="html"><![CDATA[[동아닷컴] ‘마약 혐의’ 톱스타 L씨=이선균 “확인 중, 공갈-협박 피해 고소” (종합)[DA:이슈] 배우 이선균 측이 마약 혐의와 관련해 “사실관계를 확인 중”이라고 말했다. 지난 19일 경기신문은 최근 인천광역시 경찰청이 강남 유흥업소를 수사하던 중 톱스타 L씨의 마약 관련 혐의 정보를 확보했다고 보도했다. 내사가 진행 중인 가운데 경찰청 측 관계자]]></content>
     </entry>
 </feed>
