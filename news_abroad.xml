@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-10-20T05:10:55.724Z</updated>
+    <updated>2023-10-20T06:14:45.670Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[방송인 장지기, '3억' 들여 성형 후 '훈남' 돼...팬들도 깜짝]]></title>
+        <id>https://v.daum.net/v/20231020150130799</id>
+        <link href="https://v.daum.net/v/20231020150130799"/>
+        <updated>2023-10-20T06:14:44.888Z</updated>
+        <content type="html"><![CDATA[[TV리포트=이경민 기자] '구독자 132만 명'을 보유하고 있는 대만 방송인 장지기가 최근 달라진 외모에 대해 입을 열었다.&nbsp; 최근 장지기는 한 시상식에서 180도 달라진 외모로 나타나 많은 사람들을 놀라게 했다. 지난 18일 장지기는 자신의 소셜미디어에 "한 친구가 몇 개의 기사를 보내왔는데, 그 중 나에 관한 몇 가지 단락을 읽었다"라는 말로 시작하]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['44세' 코트니 카다시안, 재혼→임신 비난에 "예전엔 임신 당연하게 여겼다"]]></title>
         <id>https://v.daum.net/v/20231020140504709</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231020071712570"/>
         <updated>2023-10-19T23:11:25.458Z</updated>
         <content type="html"><![CDATA[(로스앤젤레스=연합뉴스) 임미나 특파원 = 방탄소년단(BTS) 정국이 내달 무대에 오를 예정이었던 세계적인 음악 시상식 '2023 MTV 유럽 뮤직 어워즈'(MTV EMA)가 전격 취소됐다. MTV EMA 측은 19일(현지시간) 성명에서 "세계적인 사건들의 변동성을 고려해 '2023 MTV EMA'를 추진하지 않기로 결정했다"고 밝혔다. 주최 측은 그 이유]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[브리트니 “저스틴 팀버레이크 바람필 때, 나도 댄서와 관계 가졌다” 충격 고백]]></title>
-        <id>https://v.daum.net/v/20231020063411039</id>
-        <link href="https://v.daum.net/v/20231020063411039"/>
-        <updated>2023-10-19T22:10:36.581Z</updated>
-        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]세계적 팝스타 브리트니 스피어스(41)가 연애시절 저스틴 팀버레이크(42)가 바람을 피울 때 자신은 댄서와 관계를 가졌다고 고백했다. 18일(현지시간) 페이지식스에 따르면, 그는 오는 24일 출간되는 회고록 ‘내 안의 여자’에서 “ 어느 날 밤 바에서 댄서 웨이드 롭슨과 관계를 가졌다”고 털어놓았다. 그 자신도 팀버레이크에]]></content>
     </entry>
 </feed>
