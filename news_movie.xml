@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-10-21T01:42:50.508Z</updated>
+    <updated>2023-10-21T02:16:02.038Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['반지의 제왕'은 저주였을까... 판타지 출연한 배우들, 이후는?]]></title>
+        <id>https://v.daum.net/v/20231021110302231</id>
+        <link href="https://v.daum.net/v/20231021110302231"/>
+        <updated>2023-10-21T02:15:37.929Z</updated>
+        <content type="html"><![CDATA[[양형석 기자] 영화계에서는 하나의 영화가 크게 흥행하면 비슷한 장르의 영화들이 대거 제작되는 경우가 많다. 하지만 지난 2002년부터 2005년까지 박찬욱 감독의 '복수 3부작'이 개봉했을 때는 오히려 충무로에서 복수관련 영화들의 제작이 위축됐다. 어설프게 복수를 소재로 한 영화를 만들었다가는 시너지는커녕 박찬욱 감독이 만든 '복수 3부작'의 완성도와 비]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이선균, 마약 내사로 작품 불똥…영화계 비상]]></title>
         <id>https://v.daum.net/v/20231021102434883</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231020183020969"/>
         <updated>2023-10-20T10:11:30.104Z</updated>
         <content type="html"><![CDATA[[서울경제] 배우 신혜선이 '로코퀸'에서 '액션왕'으로 거듭났다. 예뻐 보이는 배우가 아닌, 작품에 충실한 배우인 신혜선은'용감한 시민'을 통해 이때까지 없었던 사이다 액션을 선사할 예정이다. 지난 19일 서울 종로구에 위치한 한 카페에서 '용감한 시민'(감독 박진표)에 출연했던 신혜선의 라운드 인터뷰가 진행됐다. '용감한 시민'은 정교사가 되기 위해 자]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["수사는 성실히, 공갈·협박은 고소"…이선균, '마약 혐의' 인정→차기작 4편 '비상']]></title>
-        <id>https://v.daum.net/v/20231020182859943</id>
-        <link href="https://v.daum.net/v/20231020182859943"/>
-        <updated>2023-10-20T10:11:30.117Z</updated>
-        <content type="html"><![CDATA[[스포츠조선 조지영 기자] 배우 이선균이 마약 관련 혐의로 내사 중인 톱 영화배우 L씨임을 인정했다. 이선균의 소속사 호두앤유엔터테인먼트는 20일 "먼저 회사 소속인 이선균에 관한 보도로 심려를 끼친 점에 대해 깊은 사과의 말을 전한다"고 말문을 열었다. 이어 "당사는 현재 이선균에게 제기되고 있는 의혹에 대해 정확한 사실관계를 확인 중이며]]></content>
     </entry>
 </feed>
