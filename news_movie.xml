@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-10-21T00:45:29.341Z</updated>
+    <updated>2023-10-21T01:42:50.508Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이선균, 마약 내사로 작품 불똥…영화계 비상]]></title>
+        <id>https://v.daum.net/v/20231021102434883</id>
+        <link href="https://v.daum.net/v/20231021102434883"/>
+        <updated>2023-10-21T01:42:27.020Z</updated>
+        <content type="html"><![CDATA[(서울=뉴스1) 장아름 기자 = 배우 이선균이 마약 투약과 관련해 경찰로부터 입건 전 조사(내사)를 받고 있는 40대 유명 배우로 드러나면서 영화계가 비상에 걸렸다. 지난 19일 인천경찰청 마약범죄수사계는 마약류 관리에 관한 법률상 향정 등 혐의로 40대 영화배우 등 8명에 대해 입건 전 조사(내사) 중이라고 밝혔다. 해당 영화배우 등 8명은 올해]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[조현철감독이 말하는 아름답게 사는 방법, '너와 나']]></title>
+        <id>https://v.daum.net/v/20231021100008582</id>
+        <link href="https://v.daum.net/v/20231021100008582"/>
+        <updated>2023-10-21T01:42:27.020Z</updated>
+        <content type="html"><![CDATA[아이즈 ize 정유미(칼럼니스트)카메라 앞에서 연기하던 배우가 카메라 뒤에서 선다. 감독으로서 자신이 하고 싶은 이야기를 분명하게 보여주고 들려주고 싶어서다. 배우 겸 감독 조현철이 첫 장편 연출작 '너와 나'(25일 개봉)를 관객 앞에 내놓는다. 그의 영화계 데뷔는 연기가 아닌 연출이었다. 단편 '척추측만'(2010)을 비롯해 여러 편의 단편을 연출하고,]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[강하늘x정소민 '30일', 최약체의 반전 1위]]></title>
         <id>https://v.daum.net/v/20231021093416305</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20231020182859943"/>
         <updated>2023-10-20T10:11:30.117Z</updated>
         <content type="html"><![CDATA[[스포츠조선 조지영 기자] 배우 이선균이 마약 관련 혐의로 내사 중인 톱 영화배우 L씨임을 인정했다. 이선균의 소속사 호두앤유엔터테인먼트는 20일 "먼저 회사 소속인 이선균에 관한 보도로 심려를 끼친 점에 대해 깊은 사과의 말을 전한다"고 말문을 열었다. 이어 "당사는 현재 이선균에게 제기되고 있는 의혹에 대해 정확한 사실관계를 확인 중이며]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['너와 나' 김시은 "박정민, 연기 천재...순발력에 감탄"]]></title>
-        <id>https://v.daum.net/v/20231020181630694</id>
-        <link href="https://v.daum.net/v/20231020181630694"/>
-        <updated>2023-10-20T10:11:30.119Z</updated>
-        <content type="html"><![CDATA[[TV리포트=김연주 기자] 배우 김시은이 영화 '너와 나'에 카메오로 출연한 배우 박정민의 연기 센스에 감탄했다.&nbsp; 20일 오후 서울 종로구 삼청동의 한 카페에서 영화 '너와 나'로 관객과 만나는 배우 김시은과의 인터뷰가 진행됐다.&nbsp; 영화 '너와 나'는 서로에게 전하고 싶은 말을 마음속에 담은 채 꿈결 같은 하루를 보내는 고등학생 세미와 하은의 이야기를 그]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['화란', 희망 없는 세상에서 발견한 희망들]]></title>
-        <id>https://v.daum.net/v/20231020180904531</id>
-        <link href="https://v.daum.net/v/20231020180904531"/>
-        <updated>2023-10-20T09:11:10.293Z</updated>
-        <content type="html"><![CDATA[[SBS 연예뉴스 | 김지혜 기자] 범죄와 폭력 그리고 비정한 세상이 공식처럼 등장하는 누아르(noir)는 애초 희망과는 먼 장르다. '화란'이라는 영화 제목은 네덜란드(和蘭)를 뜻하기도 하고, 어지러운 세상(禍亂)을 의미하기도 한다. 그러나 영어 제목(Hopeless)에서는 이 이야기에 가지게 될 일말의 희망을 거세했다. '화란'은 어찌할 수 없는 절망과]]></content>
     </entry>
 </feed>
