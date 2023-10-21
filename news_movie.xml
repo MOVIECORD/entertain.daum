@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-10-21T21:09:03.910Z</updated>
+    <updated>2023-10-21T22:09:33.575Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[믿고 보는 신혜선, 이번엔 액션퀸 노린다]]></title>
+        <id>https://v.daum.net/v/20231022063011661</id>
+        <link href="https://v.daum.net/v/20231022063011661"/>
+        <updated>2023-10-21T22:09:10.103Z</updated>
+        <content type="html"><![CDATA[(서울=뉴스1) 장아름 기자 = 이번에는 액션이다. 드라마에서 스크린까지 넘나들며 활약을 이어가는 배우 신혜선의 또 다른 연기 변신에 이목이 집중된다. 오는 25일 개봉하는 신혜선의 신작 '용감한 시민'(감독 박진표)은 불의는 못 본 척, 성질은 없는 척, 주먹은 약한 척 살아온 기간제 교사 소시민(신혜선 분)이 선을 넘어버린 안하무인 절대권력 한수강]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['오픈 더 도어', 버거운 진실 앞에 무너지는 한 가족의 처절한 이야기]]></title>
         <id>https://v.daum.net/v/20231022060102396</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231021130002156"/>
         <updated>2023-10-21T04:12:21.273Z</updated>
         <content type="html"><![CDATA[[스타뉴스 | 안윤지 기자] 영화 '용감한 시민'의 배우 신혜선이 19일 오전 진행된 인터뷰를 위해 포즈를 취하고 있다. /사진제공=마인드마크 2023.10.19 /사진=이동훈'로코퀸' 배우 신혜선이 끝까지 맞서 싸워서 이기는 히어로가 됐다. 소시민의 용감함이 어떻게 세상을 바꿔 나아가는지를 알려준다. 신혜선은 최근 서울시 종로구 삼청동 한 카페에서 영화]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[조용히 강한 ‘30일’, 18일 째 1위]]></title>
-        <id>https://v.daum.net/v/20231021125807145</id>
-        <link href="https://v.daum.net/v/20231021125807145"/>
-        <updated>2023-10-21T04:12:21.275Z</updated>
-        <content type="html"><![CDATA[[티브이데일리 이기은 기자] 영화 '30일', 배우들의 힘이 장기적으로 통하는 분위기다. 21일 영화진흥위원회 영화관입장권통합전산망의 집계에 따르면 '30일'은 지난 30일 1051개 스크린에서 5만8615명의 관객을 불러모았고, 누적관객수 140만7496명을 기록했다. 이는 18일 연속으로 박스오피스 1위인 수치다. 국내 추석 시즌을 맞아 다양한 한국 영]]></content>
     </entry>
 </feed>
