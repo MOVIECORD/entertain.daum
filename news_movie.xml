@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-10-21T08:12:54.623Z</updated>
+    <updated>2023-10-21T09:12:28.500Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[보이지 않는 세상의 비밀]]></title>
+        <id>https://v.daum.net/v/20231021180502713</id>
+        <link href="https://v.daum.net/v/20231021180502713"/>
+        <updated>2023-10-21T09:12:05.325Z</updated>
+        <content type="html"><![CDATA[[한겨레S] 주일우의 뒹굴뒹굴 만화 양자 세계의 신비 내가 보기엔 정체가 의심스러운 신학대 학생이었던 선배와 양자역학을 함께 배웠다. 초대받아 간 집에 신학교 성적표가 붙어 있었는데 ‘경건 불량’이라는 표시와 함께 낙제를 한 과목들이 눈에 띄었다. 그저 출석이 좋지 않으면 받는 꼬리표라고 했지만, 함께 술과 노래의 밤을 여러 번 보냈던 나는 믿지 않았다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['마약 의혹' 이선균→'학폭 논란' 김히어라, 배우 리스크가 작품에 미치는 영향]]></title>
         <id>https://v.daum.net/v/20231021170102628</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231021100008582"/>
         <updated>2023-10-21T01:42:27.020Z</updated>
         <content type="html"><![CDATA[아이즈 ize 정유미(칼럼니스트)카메라 앞에서 연기하던 배우가 카메라 뒤에서 선다. 감독으로서 자신이 하고 싶은 이야기를 분명하게 보여주고 들려주고 싶어서다. 배우 겸 감독 조현철이 첫 장편 연출작 '너와 나'(25일 개봉)를 관객 앞에 내놓는다. 그의 영화계 데뷔는 연기가 아닌 연출이었다. 단편 '척추측만'(2010)을 비롯해 여러 편의 단편을 연출하고,]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[강하늘x정소민 '30일', 최약체의 반전 1위]]></title>
-        <id>https://v.daum.net/v/20231021093416305</id>
-        <link href="https://v.daum.net/v/20231021093416305"/>
-        <updated>2023-10-21T00:45:05.849Z</updated>
-        <content type="html"><![CDATA[[OSEN=김보라 기자]&nbsp;올 추석 연휴를 겨냥해 개봉한 한국영화들 가운데 로맨스 코미디 ‘30일’은 가장 약한 최약체로 꼽혔다. 강동원, 송강호, 하정우(가나다순) 등 높은 인기와 흥행 기록을 다수 갖춘 배우들과의 동시기 경쟁이었기 때문이다. 그러나 언론 호평을 바탕으로 실관객들의 입소문을 탄 ‘30일’은 추석 극장가에서 최강체들과 싸워서 크게 이겼다.]]></content>
     </entry>
 </feed>
