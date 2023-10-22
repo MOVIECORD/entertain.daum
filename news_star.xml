@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2023-10-22T18:12:59.751Z</updated>
+    <updated>2023-10-22T19:09:46.565Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘30일’ 강하늘 “웃는 얼굴에 침 못 뱉는단 말 믿어”]]></title>
+        <id>https://v.daum.net/v/20231023040449711</id>
+        <link href="https://v.daum.net/v/20231023040449711"/>
+        <updated>2023-10-22T19:09:40.302Z</updated>
+        <content type="html"><![CDATA[“다른 장르보다 코미디에 특별히 더 노력을 기울이는 건 아니다. 다만 부담스럽게 잘 생기지 않았고 얼굴 근육을 잘 쓰고 입이 큰건 장점으로 작용하는 것 같다. 웃는 얼굴에 침 못 뱉는다는 말을 믿기에 평소에도 잘 웃고 촬영장에서도 항상 즐거운 분위기를 만들려고 한다.” 로맨틱코미디 영화 ‘30일’에서 주인공 정열 역을 맡은 강하늘이 최근 서울 종로구 한]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['미우새' 돌싱 4년 차 이동건, 딸과 전화 통화하며 '울컥'…New미우새로 합류 예고]]></title>
         <id>https://v.daum.net/v/20231023023600272</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231022231422316"/>
         <updated>2023-10-22T15:10:23.082Z</updated>
         <content type="html"><![CDATA[[OSEN=박소영 기자] SBS Plus·ENA ‘나는 솔로’는 짝을 찾기 위해 솔로나라를 찾은 일반인들의 진정성이 필수요소다. 그래서 방송 이후 현재 커플이 존재하고 결혼 커플까지 탄생하던 때엔 시청자들이 뜨겁게 축하를 보냈다. 하지만 어쩐 일인지 요샌 상사병 대신 연예인병만 잔뜩 얻은 출연자들이 눈에 띈다. 프로그램이 갈수록 높은 인기를 얻으면서 출]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[전원주 "첫 번째 남편과 3년 만에 사별..재혼한 남편은 돈 다 날려 먹어"]]></title>
-        <id>https://v.daum.net/v/20231022230430241</id>
-        <link href="https://v.daum.net/v/20231022230430241"/>
-        <updated>2023-10-22T14:09:12.346Z</updated>
-        <content type="html"><![CDATA[[스포츠조선 조윤선 기자] 전원주가 31세라는 젊은 나이에 사별한 사연이 공개됐다. 22일 방송된 SBS '미운 우리 새끼'에서는 선우용여, 전원주와 함께 '짠대모 투어'를 떠난 김종국, 이상민의 모습이 그려졌다. 이날 전원주는 첫 번째 남편을 결혼 3년 만에 떠나보낸 사연을 털어놨다. 그는 "(첫 번째 남편이) 폐결핵이 있었는데 몰랐다. 나]]></content>
     </entry>
 </feed>
