@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-10-22T04:13:17.443Z</updated>
+    <updated>2023-10-22T05:10:52.495Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['아타바2'·'오펜하이머' 이어 '플라워 킬링 문' 3시간의 장벽을 넘어]]></title>
+        <id>https://v.daum.net/v/20231022140136422</id>
+        <link href="https://v.daum.net/v/20231022140136422"/>
+        <updated>2023-10-22T05:10:28.703Z</updated>
+        <content type="html"><![CDATA[콘텐츠 소비 환경 변화로 짧은 러닝타임과 빠른 흐름의 작품들이 대세로 자리 잡았지만 할리우드의 거장들은 이 흐름을 거스르고 있다. 3시간이 넘는 러닝타임 동안 심층적인 탐구와 예술적 실험을 시도하며 관객의 경험을 확장시켰다. 제임스 카메론 감독의 '아바타: 물의 길'은 192분, 크리스토퍼 놀란 감독의 '오펜하이머'는 180분, 최근 개봉한 마틴 스코세이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이조로 변호사의 작품 속 법률산책 - ‘30일’의 협박죄]]></title>
         <id>https://v.daum.net/v/20231022120846732</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231021191018310"/>
         <updated>2023-10-21T11:08:14.092Z</updated>
         <content type="html"><![CDATA[(서울=뉴스1) 정유진 기자 = 배우 황정민이 대통령 표창을 받았다. 황정민은 21일 오후 6시 국립극장 해오름극장에서 열린 '2023 대한민국 대중문화예술상 시상식에서 대통령 표창을 받았다. 수상 직후 황정민은 "영화 첫 작품이 '와이키키 브라더스'라는 작품이다, 2000년도에 나왔다, 그리고 나서 지금까지 열심히 잘 하고 있으니까, 이런 좋은 상]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[남궁민, 국무총리 표창 수상 "고생할 '연인2' 스태프들 힘내길"]]></title>
-        <id>https://v.daum.net/v/20231021185012153</id>
-        <link href="https://v.daum.net/v/20231021185012153"/>
-        <updated>2023-10-21T10:10:05.812Z</updated>
-        <content type="html"><![CDATA[(서울=뉴스1) 정유진 기자 = 배우 남궁민이 국무총리 표창을 받았다. 남궁민은 21일 오후 6시 국립극장 해오름극장에서 열린 '2023 대한민국 대중문화예술상 시상식에서 국무총리 표창을 수상했다. 수상 직후 남궁민은 "이렇게 큰 상을 주셔서 감사하고 좋은 곳에서 큰 상을 받았는데 갑자기 생각나는게 나를 빼놓은 다른 스태프들은 너무 쌀쌀한 날씨에 고]]></content>
     </entry>
 </feed>
