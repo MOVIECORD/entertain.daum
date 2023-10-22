@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-10-22T06:14:17.238Z</updated>
+    <updated>2023-10-22T07:09:58.488Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['아라문의 검' 김옥빈, 눈빛X딕션X목소리까지 완벽했다]]></title>
+        <id>https://v.daum.net/v/20231022160019104</id>
+        <link href="https://v.daum.net/v/20231022160019104"/>
+        <updated>2023-10-22T07:09:41.842Z</updated>
+        <content type="html"><![CDATA[[OSEN=선미경 기자] '아라문의 검' 배우 김옥빈이 묵직한 연기로 극의 흐름을 주도했다. 지난&nbsp;21일 방송된 케이블채널&nbsp;tvN&nbsp;토일 드라마&nbsp;‘아라문의 검’에서는 아스달의 운명을 두고 탄야(신세경 분)와 대립하는 태알하(김옥빈 분)의 이야기가 그려졌다.&nbsp;앞서 태알하는 기지를 발휘해 갇혀있던 감옥에서 탈출했다. 이 가운데 해여비(이채경 분)와 움직이던]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이유미, 마약 의심 물품 싹쓸이…잠입 수사 성공할까?]]></title>
         <id>https://v.daum.net/v/20231022151046212</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231022104805346"/>
         <updated>2023-10-22T01:53:30.510Z</updated>
         <content type="html"><![CDATA[[OSEN=김재동 객원기자]&nbsp;프랑스어 팜 파탈, 혹은 팜므 파탈(Femme fatale)은 ‘악녀’ ‘요부’의 의미로 흔히 쓰이지만 원래는 ‘파란만장한 운명을 타고나 남자를 파멸의 길로 몰아가는 여성’을 의미한다. 거창하게는 망국을 초래한 달기, 포사나 일리아드의 헬레나 등 ‘경국지색’의 주인공들부터 미실, 정난정, 장녹수에, 성경 속 데릴라, 살로메]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['연인' 안은진, 한복 낡을 수록 연기는 더 빛나네]]></title>
-        <id>https://v.daum.net/v/20231022102941096</id>
-        <link href="https://v.daum.net/v/20231022102941096"/>
-        <updated>2023-10-22T01:53:30.512Z</updated>
-        <content type="html"><![CDATA[[OSEN=연휘선 기자] ‘연인’에서 배우 안은진이 당차고 깊이 있는 열연이 시청자를 사로잡고 있다.&nbsp; 안은진은 최근 방송 중인 MBC&nbsp;금토드라마&nbsp;‘연인’에서 여자 주인공 유길채(안은진&nbsp;분)&nbsp;역을 맡아 열연을 펼치고 있다.&nbsp;유길채는 곱게 자란 양가댁 애기씨였지만 병자호란을 겪고 진정한 사랑을 하면서 주체적이고 강인한 여인으로 성장하는 인물이다.&nbsp;안은진은]]></content>
     </entry>
 </feed>
