@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2023-10-24T18:14:22.417Z</updated>
+    <updated>2023-10-24T19:09:40.339Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['강철부대3' 대테러 연합작전 새로운 룰 추가..."5명만 참여, 1명은 대항군으로"]]></title>
+        <id>https://v.daum.net/v/20231025034500986</id>
+        <link href="https://v.daum.net/v/20231025034500986"/>
+        <updated>2023-10-24T19:09:32.403Z</updated>
+        <content type="html"><![CDATA[[TV리포트=김유진 기자] 거대 폐공장 복합단지에서 대테러 연합작전이 개시됐다. 24일 방영된 채널A '강철부대3' 6회에서는 USSF(미특수부대), 707(제707특수임무단)과 UDT(해군특수전전), UDU(해군첩보부대)의 대테러 연합작전이 공개됐다. MC들과 대원들은 USSF와 같은 팀이 된 707부대의 언어소통 문제를 가장 변수로 꼽았다. 하지만 US]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[홍범도 장군 '공산주의' 이력 문제 삼은 국방부...육사 흉상의 행방은]]></title>
+        <id>https://v.daum.net/v/20231025031900956</id>
+        <link href="https://v.daum.net/v/20231025031900956"/>
+        <updated>2023-10-24T19:09:32.406Z</updated>
+        <content type="html"><![CDATA[[TV리포트=김유진 기자] 육군사관학교 교정에 설치된 홍범도 장군의 논란이 뜨겁다. 24일 방영된 MBC 'PD수첩' 1393회에서는 홍범도 장군의 흉상 이전을 두고 역사학자들의 다양한 견해가 공개됐다. 홍범도 장군은 일제강점기의 봉오동전투를 승리로 이끌었던 영웅으로 알려져있다. 문제는 국방부가 홍범도 장군의 흉상을 육사 밖으로 옮기기로 결정하면서 논란이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[한국어 공부하던 라오스 여자, SNS로 한국인 남자 만나 결혼까지...]]></title>
         <id>https://v.daum.net/v/20231025022630590</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20231024235850828"/>
         <updated>2023-10-24T15:11:53.646Z</updated>
         <content type="html"><![CDATA[[OSEN=박근희 기자] 가수 샵을 바꾸라는 질타가 쏟아졌던 이효리의 메이크업 영상이 공개됐다. 24일 유튜브 채널 ‘Hong's MakeuPlay’에는 ‘효리 왔어요~ 잘 나가다가 왜 그러시냐구요…? 채널고정’이라는 이름의 영상이 공개됐다. 이효리는 메이크업을 언급하며 “갭에서 오는 혼란이 있다. 실제로 거울을 보면 어제 내가 봤던 그 여자가 아니야.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["아름답고 보람 있는 상"…이순재→이정재, 아름다운예술인상으로 빛낸 품격]]></title>
-        <id>https://v.daum.net/v/20231024234645780</id>
-        <link href="https://v.daum.net/v/20231024234645780"/>
-        <updated>2023-10-24T15:11:53.648Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 이창규 기자)&nbsp;배우 이순재, 이정재, 조인성, 김서형, 임권택 감독이 제13회 아름다운예술인상에서 수상의 영예를 누렸다. 24일 오후 서울 강동구 스테이지28에서 제13회 아름다운예술인상이 열렸다. 아름다운예술인상은 2011년 신영균예술문화재단이 창립되던 해 제정되어 매년 연말에 영화, 연극, 공로, 선행, 독립영화 부문에서 활동이 돋보이는]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['스우파2' 울플러, 배틀 없이 최종 탈락…"신뢰 바탕으로 여기까지 올 수 있었다"]]></title>
-        <id>https://v.daum.net/v/20231024234407764</id>
-        <link href="https://v.daum.net/v/20231024234407764"/>
-        <updated>2023-10-24T15:11:53.650Z</updated>
-        <content type="html"><![CDATA[[스포츠투데이 백지연 기자] '스우파2' 레이디바운스와 마네퀸의 탈락 배틀이 성사됐다. 24일 방송된 Mnet 예능프로그램 '스트릿 우먼 파이터2'(이하 '스우파2')에서는 배틀 퍼포먼스 미션 결과 발표와 함께 파이널로 향하기 위한 탈락 배틀이 전파를 탔다. 이날 방송에서 마네퀸이 탈락 위기에 처했다. 1위 베베는 마네퀸과 탈락 배틀을 할 크루를 선택할 수]]></content>
     </entry>
 </feed>
