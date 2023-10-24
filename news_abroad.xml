@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-10-24T02:19:29.518Z</updated>
+    <updated>2023-10-24T03:12:43.361Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[브리트니 스피어스 ‘노트북’ 주연 후보였다, 오디션 영상 공개]]></title>
+        <id>https://v.daum.net/v/20231024115809683</id>
+        <link href="https://v.daum.net/v/20231024115809683"/>
+        <updated>2023-10-24T03:12:42.341Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 하지원 기자] 팝스타 브리트니 스피어스가 영화 '노트북' 주연 여배우로 거론됐던 사실이 뒤늦게 공개됐다. 영국 매체 데일리메일은 10월 23일(현지시간) 스피어스의 2002년 영화 오디션 영상을 공개했다. 해당 영상에는 브리트니 스피어스가 놀라울 정도로 감동적인 연기를 선보이는 모습이 담겼다. 영화 '노트북' 캐스팅 디렉터 배리는 브리트니 스피어]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[패리스 힐튼, 9개월 아들에 악플 달려 '충격'..."외모 품평 실화?"]]></title>
         <id>https://v.daum.net/v/20231024111031597</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231023210147985"/>
         <updated>2023-10-23T12:21:10.998Z</updated>
         <content type="html"><![CDATA[[스포츠서울 | 박효실기자] 중국이 낳은 세계적인 스타 장쯔이(44)가 결혼 8년만에 이혼 소식을 전했다. 23일 중화권 매체에 따르면, 장쯔이와 남편 왕펑은 개인 채널을 통해 동시에 이혼을 발표했다. 두 사람은 “신중한 고려와 상의 끝에 저희는 결혼 8년 만에 결혼 관계를 청산하기로 결정했다”면서 “앞으로도 우리는 가족 구성원으로서 공동으로 아이들을]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['글리2' 존 스타모스 "10살 때 보모에게 성적 학대 당했다"]]></title>
-        <id>https://v.daum.net/v/20231023190800446</id>
-        <link href="https://v.daum.net/v/20231023190800446"/>
-        <updated>2023-10-23T10:12:28.669Z</updated>
-        <content type="html"><![CDATA[[TV리포트=안수현 기자] 배우 존 스타모스가 어린 시절 베이비시터(보모)로부터 성적 학대를 당했다고 고백했다. 오는 24일 출간되는 존 스타모스(60) 회고록 'If You Would Have Told Me'에는 그의 아픈 과거가 담겨있다. 스타모스는 회고록을 통해 10살 무렵 보모로부터 성적 학대를 당했다고 폭로하며, 그 당시 아무에게도 피해 사실을 말]]></content>
     </entry>
 </feed>
