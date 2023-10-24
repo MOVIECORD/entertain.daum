@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-10-24T19:09:40.341Z</updated>
+    <updated>2023-10-24T20:11:35.951Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김지운 감독 “혼신의 힘 쏟아야 깃털만한 감동줘”]]></title>
+        <id>https://v.daum.net/v/20231025041017107</id>
+        <link href="https://v.daum.net/v/20231025041017107"/>
+        <updated>2023-10-24T20:11:12.196Z</updated>
+        <content type="html"><![CDATA[“결말만 바꾸면 걸작이 된다, 딱 이틀이면 돼.” 영화감독 김열(송강호)은 주문을 외우듯 말한다. 악조건 속에서도 그는 자신의 열망을 현실로 만들기 위해 촬영을 강행한다. 김지운 감독의 영화 ‘거미집’은 창작자의 고뇌와 집념, 낭만에 관한 이야기다. 영화는 제76회 칸 국제영화제 비경쟁 부문에 초청받은 데 이어 제20회 홍콩아시안영화제 개막작으로 선정됐다]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['오픈 더 도어', 기어코 연 욕망·의심·파멸의 문]]></title>
         <id>https://v.daum.net/v/20231025000103873</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231024180021756"/>
         <updated>2023-10-24T09:11:31.881Z</updated>
         <content type="html"><![CDATA[[서울경제] 오늘 영화는 이거! ‘오영이’ 1999년에 일어난 삼례 나라슈퍼 사건은 새벽 전북 완주군 삼례읍의 나라슈퍼에 3인조 강도가 들어 잠들어 있던 할머니를 살해한 뒤 현금과 패물 등을 털어 달아난 사건이다. 이후 범인을 잡았지만 오랜 시간이 지난 이후 진범이 아니라는 사실이 밝혀졌고 재심을 통해 2016년에 이르러서야 무죄 판결을]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박보검, '미나리' 배리어프리버전 목소리 재능 기부 "문화 장벽 낮추길"]]></title>
-        <id>https://v.daum.net/v/20231024174504255</id>
-        <link href="https://v.daum.net/v/20231024174504255"/>
-        <updated>2023-10-24T09:11:31.888Z</updated>
-        <content type="html"><![CDATA[[OSEN=연휘선 기자] 배우 박보검이 영화 '미나리'의 배리어프리 버전 목소리 기부를 맡았다.&nbsp; 24일 사단법인 배리어프리영화위원회는 박보검의 내레이션으로 '미나리'(감독 정이삭)의 배리어프리 버전이 제작됐다고 밝혔다.&nbsp; 박보검은 지난 달 서울경제진흥원 미디어콘텐츠센터에서 영화 '남매의 여름밤'의 윤단비 감독과 재능기부로 '미나리'의 배리어프리버전 제]]></content>
     </entry>
 </feed>
