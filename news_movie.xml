@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-10-24T13:14:10.686Z</updated>
+    <updated>2023-10-24T14:09:49.111Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[마약·교권 하락·N번방…"의도한 건 아냐" 한발 물러나는 영화들]]></title>
+        <id>https://v.daum.net/v/20231024223003325</id>
+        <link href="https://v.daum.net/v/20231024223003325"/>
+        <updated>2023-10-24T14:09:25.171Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 윤현지 기자) 사회적 이슈를 다루는 작품이 속속들이 등장하고 있지만, 어떤 목소리를 내는 것에 대해서는 조심스러운 입장을 보이고 있다.&nbsp; 최근 진행된 영화 '용감한 시민'(감독 박진표)의 언론배급시사회에서 진행된 간담회에서 감독과 배우들은 "시의성을 노린 것이 아니다", "영화는 영화일 뿐 웹툰을 영화화한 것"이라며 사회적 논란과 영화를 함께]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[유아인은 법정 서고 이선균은 경찰 조사…진퇴양난 5작품만 피해 막심 "폐기 가능성도"]]></title>
         <id>https://v.daum.net/v/20231024214601874</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231024173201780"/>
         <updated>2023-10-24T09:11:31.894Z</updated>
         <content type="html"><![CDATA[[스타뉴스 | 김나연 기자] 디즈니+ '최악의 악'의 배우 지창욱이 24일 진행된 라운드 인터뷰를 위해 포즈를 취하고 있다. /사진제공=월트디즈니컴퍼니코리아 2023.10.24 /사진=이동훈배우 지창욱이 '최악의 악' 속 캐릭터를 연기하며 자신의 실제 모습을 꺼냈다고 밝혔다. 24일 서울시 종로구 소격동의 한 카페에서 디즈니+ 시리즈 '최악의 악'의 지]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['노란문' 이혁래 감독, "독립영화 영화관 개봉 어려워 넷플릭스 택했다"]]></title>
-        <id>https://v.daum.net/v/20231024170107590</id>
-        <link href="https://v.daum.net/v/20231024170107590"/>
-        <updated>2023-10-24T08:14:34.419Z</updated>
-        <content type="html"><![CDATA[[텐아시아=이하늘 기자] 1990년대는 이른바 낭만의 시대였다. 지금처럼 손쉽게 영화 파일을 구하는 것이 아닌, 직접 발로 뛰어서 영화를 찾고 잊지 않게 눈에 새겨야만 했다. 영화 '노란문: 세기말 시네필 다이어리'는 그 당시의 순간으로 시간을 되돌린다. 물론 봉준호 감독의 미공개 첫 연출작인 단편 애니메이션 'Looking For Paradise'를 볼]]></content>
     </entry>
 </feed>
