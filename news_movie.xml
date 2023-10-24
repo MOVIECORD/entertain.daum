@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-10-24T14:09:49.111Z</updated>
+    <updated>2023-10-24T15:11:59.947Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['오픈 더 도어', 기어코 연 욕망·의심·파멸의 문]]></title>
+        <id>https://v.daum.net/v/20231025000103873</id>
+        <link href="https://v.daum.net/v/20231025000103873"/>
+        <updated>2023-10-24T15:11:36.502Z</updated>
+        <content type="html"><![CDATA[한 가족의 숨겨진 진실 그린 미스터리 심리 스릴러…25일 개봉 [더팩트｜박지윤 기자] 장항준 감독이 예능에서 볼 수 없는 '본업 천재' 모먼트를 장착하고 돌아왔다. 6년 만에 정통 스릴러물을 들고 10월 극장가 문을 두들긴 그는 짧은 러닝 타임 안에 스토리와 구성을 촘촘하게 짜며 서늘한 미스터리로 관객들을 초대한다. 영화 '오픈 더 도어'다. 25일 스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[개봉도 안 했는데 30만... 제대로 터진 '그대들은 어떻게 살 것인가']]></title>
+        <id>https://v.daum.net/v/20231024234001751</id>
+        <link href="https://v.daum.net/v/20231024234001751"/>
+        <updated>2023-10-24T15:11:36.505Z</updated>
+        <content type="html"><![CDATA[[TV리포트=이혜미 기자] 개봉 전부터 터졌다. 미야자키 하야오 감독의 신작 '그대들은 어떻게 살 것인가' 이야기다. 24일 영화진흥위원회 영화관입장권 통합전산망에 따르면 '그대들은 어떻게 살 것인가'는 개봉을 하루 앞둔 이날 실시간 예매율 1위를 수성하며 심상치 않은 행보를 예고했다. 오후 23시 기준 이 영화의 기준 예매율은 68.3%로 사전 예매만으로]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[마약·교권 하락·N번방…"의도한 건 아냐" 한발 물러나는 영화들]]></title>
         <id>https://v.daum.net/v/20231024223003325</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20231024174504255"/>
         <updated>2023-10-24T09:11:31.888Z</updated>
         <content type="html"><![CDATA[[OSEN=연휘선 기자] 배우 박보검이 영화 '미나리'의 배리어프리 버전 목소리 기부를 맡았다.&nbsp; 24일 사단법인 배리어프리영화위원회는 박보검의 내레이션으로 '미나리'(감독 정이삭)의 배리어프리 버전이 제작됐다고 밝혔다.&nbsp; 박보검은 지난 달 서울경제진흥원 미디어콘텐츠센터에서 영화 '남매의 여름밤'의 윤단비 감독과 재능기부로 '미나리'의 배리어프리버전 제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['너와 나', 꾹꾹 눌러담은 섬세하고 사려깊은 위로]]></title>
-        <id>https://v.daum.net/v/20231024174449242</id>
-        <link href="https://v.daum.net/v/20231024174449242"/>
-        <updated>2023-10-24T09:11:31.890Z</updated>
-        <content type="html"><![CDATA[(서울=뉴스1) 정유진 기자 = *영화의 주요 내용을 포함한 스포일러가 있을 수 있습니다. '너와 나'는 몇 가지 주목할만한 점이 존재하는 영화다. 우선 이 영화는 '학폭 피해자'임을 주장하는 쪽과 여전히 진실 공방을 벌이고 있는 '학폭 논란' 배우 박혜수의 복귀작이다. 그로 인해 영화의 내용 이전에 배우의 사생활 관련 이슈로 많은 주목을 받았다. 넷]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['최악의 악' 지창욱 "자존감 낮은 편, 열등감 많지만 티 안 내요"]]></title>
-        <id>https://v.daum.net/v/20231024173201780</id>
-        <link href="https://v.daum.net/v/20231024173201780"/>
-        <updated>2023-10-24T09:11:31.894Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 | 김나연 기자] 디즈니+ '최악의 악'의 배우 지창욱이 24일 진행된 라운드 인터뷰를 위해 포즈를 취하고 있다. /사진제공=월트디즈니컴퍼니코리아 2023.10.24 /사진=이동훈배우 지창욱이 '최악의 악' 속 캐릭터를 연기하며 자신의 실제 모습을 꺼냈다고 밝혔다. 24일 서울시 종로구 소격동의 한 카페에서 디즈니+ 시리즈 '최악의 악'의 지]]></content>
     </entry>
 </feed>
