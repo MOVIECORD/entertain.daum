@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-10-24T08:14:59.449Z</updated>
+    <updated>2023-10-24T09:11:56.715Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[故 커트 코베인 외동딸, 토니 호크 子와 결혼…유명 연예인 2세들의 만남 화제]]></title>
+        <id>https://v.daum.net/v/20231024180953016</id>
+        <link href="https://v.daum.net/v/20231024180953016"/>
+        <updated>2023-10-24T09:11:55.734Z</updated>
+        <content type="html"><![CDATA[[스포츠서울 | 박효실기자] 유명한 아버지를 둔 연예인 2세들이 결혼해 화제를 모았다. 연예매체 TMZ는 24일(현지시간) 전설적인 밴드 너바나의 리더 커트 코베인의 딸과 전직 스케이트보드 금메달리스트이자 배우인 토니 호크의 아들이 결혼했다고 전했다. 매체는 “프란시스 빈 코베인과 라일리 호크는 지난달 미국 샌드에이고 카운티에서 결혼 허가증을 받았고,]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[배우 정정흠, 의사 오진에 '갈비뼈 골절'..."사과 못 받았다"]]></title>
         <id>https://v.daum.net/v/20231024170131618</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231024115809683"/>
         <updated>2023-10-24T03:12:42.341Z</updated>
         <content type="html"><![CDATA[[뉴스엔 하지원 기자] 팝스타 브리트니 스피어스가 영화 '노트북' 주연 여배우로 거론됐던 사실이 뒤늦게 공개됐다. 영국 매체 데일리메일은 10월 23일(현지시간) 스피어스의 2002년 영화 오디션 영상을 공개했다. 해당 영상에는 브리트니 스피어스가 놀라울 정도로 감동적인 연기를 선보이는 모습이 담겼다. 영화 '노트북' 캐스팅 디렉터 배리는 브리트니 스피어]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[패리스 힐튼, 9개월 아들에 악플 달려 '충격'..."외모 품평 실화?"]]></title>
-        <id>https://v.daum.net/v/20231024111031597</id>
-        <link href="https://v.daum.net/v/20231024111031597"/>
-        <updated>2023-10-24T02:19:28.437Z</updated>
-        <content type="html"><![CDATA[[TV리포트=유비취 기자] 방송인 겸 사업가 패리스 힐튼이 9개월 아들을 향한 악플에 일침을 날렸다. 23일 패리스 힐튼은 소셜네트워크서비스를 통해 아들 피닉스와 뉴욕으로 떠난 여행 사진을 공개했다. 그러나 이후 피닉스에 대한 악플이 달렸다. 고작 9개월 된 아기의 얼굴 크기에 대해 얘기하면서 건강에 대해 왈가왈부하는 댓글이 달린 것이다. 이에 패리스 힐튼]]></content>
     </entry>
 </feed>
