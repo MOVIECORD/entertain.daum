@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-10-24T12:19:51.007Z</updated>
+    <updated>2023-10-24T13:14:10.686Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[유아인은 법정 서고 이선균은 경찰 조사…진퇴양난 5작품만 피해 막심 "폐기 가능성도"]]></title>
+        <id>https://v.daum.net/v/20231024214601874</id>
+        <link href="https://v.daum.net/v/20231024214601874"/>
+        <updated>2023-10-24T13:13:43.752Z</updated>
+        <content type="html"><![CDATA[[텐아시아=최지예 기자]배우 유아인(37·본명 엄홍식)과&nbsp;이선균(48)이 극심한 침체를 겪고 있는 한국 영화계 설상가상의 피해를 주고 있다. 유아인은 법정에 서고, 이선균은 경찰 조사를 받게 되면서 이들이 출연한 작품은 진퇴양난 상태다. 일각에서는 이들의 출연작이 폐기될 가능성도 있다는 의견도 나온다. 마약 상습 혐의를 받는 유아인에 대해 오는 11월 1]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['한류 1세대' 장서희 "中서 번 돈, 많이 썼다…이제 재테크 생각"]]></title>
         <id>https://v.daum.net/v/20231024205003106</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231024170107590"/>
         <updated>2023-10-24T08:14:34.419Z</updated>
         <content type="html"><![CDATA[[텐아시아=이하늘 기자] 1990년대는 이른바 낭만의 시대였다. 지금처럼 손쉽게 영화 파일을 구하는 것이 아닌, 직접 발로 뛰어서 영화를 찾고 잊지 않게 눈에 새겨야만 했다. 영화 '노란문: 세기말 시네필 다이어리'는 그 당시의 순간으로 시간을 되돌린다. 물론 봉준호 감독의 미공개 첫 연출작인 단편 애니메이션 'Looking For Paradise'를 볼]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['30일' 강하늘, 월요병 제대로 날려준 특급 흥행 이벤트]]></title>
-        <id>https://v.daum.net/v/20231024165553386</id>
-        <link href="https://v.daum.net/v/20231024165553386"/>
-        <updated>2023-10-24T08:14:34.464Z</updated>
-        <content type="html"><![CDATA[[OSEN=하수정 기자] 손익분기점을 넘어서며 10월 극장가에서 독보적인 흥행 질주를 이어가고 있는 '30일'이 ‘커피 제조기’로 변신한 강하늘의 커피차 이벤트를 성황리에 진행했다. 손익분기점을 넘어서며 21일 연속 전체 박스오피스 1위를 이어가고 있는 영화 '30일'의 주역 강하늘이 커피차 이벤트를 통해 관객들의 성원에 감사 인사를 전했다. '30일']]></content>
     </entry>
 </feed>
