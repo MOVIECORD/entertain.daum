@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-10-24T21:09:51.886Z</updated>
+    <updated>2023-10-24T22:10:40.366Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[드라마 '해리 포터', 누가 메가폰 잡나...원작 감독은 "NO"]]></title>
+        <id>https://v.daum.net/v/20231025070300132</id>
+        <link href="https://v.daum.net/v/20231025070300132"/>
+        <updated>2023-10-24T22:10:39.297Z</updated>
+        <content type="html"><![CDATA[[TV리포트=이예은 기자] 영화 '해리 포터' 시리즈의 감독 데이빗 예이츠가 드라마 '해리 포터' 제작 소식에 대해 처음으로 입을 열었다.&nbsp; 외신 매체 코믹북닷컴은 지난 23일(현지 시간) 감독 데이빗 예이츠가 새롭게 제작되는 드라마 '해리 포터'에 대해 언급했다고 보도했다. 예이츠 감독은 영화 '해리 포터' 시리즈 중 총 4편을 연출했으며, 스핀 오프]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[헤일리 비버, '임신설' 부인..."배 나왔다고 임신 아니다"]]></title>
+        <id>https://v.daum.net/v/20231025070101093</id>
+        <link href="https://v.daum.net/v/20231025070101093"/>
+        <updated>2023-10-24T22:10:39.307Z</updated>
+        <content type="html"><![CDATA[[TV리포트=이예은 기자] 유명 팝스타 저스틴 비버(29)의 아내 헤일리 비버(26)가 임신설에 대해 입을 열었다.&nbsp; 미국 매거진 GQ는 24일(현지 시간) 모델로 활동하고 있는 헤일리 비버와의 인터뷰 전문을 공개했다.&nbsp; 지난 몇 주간 헤일리 비버는 크고 크고 넉넉한 의상을 입는가 하면, 손으로 배를 가리거나 얼굴을 클로즈업한 사진 등을 소셜네트워크서비스에]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['맘마미아2' 여배우 남친은 40살 연하..아들보다 어려]]></title>
         <id>https://v.daum.net/v/20231024192147498</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20231024131101031"/>
         <updated>2023-10-24T04:12:49.280Z</updated>
         <content type="html"><![CDATA[[TV리포트=유비취 기자] 할리우드 배우 드웨인 존슨이 우스꽝스러운 모습으로 인종차별 논란까지 일은 밀랍 인형에 대인배적인 모습을 보였다. 유명인의 밀랍 인형을 전문으로 하는 그레뱅 박물관에서 최근 드웨인 존슨의 밀랍 인형을 공개했다. 그러나 드웨인 존슨의 밀랍 인형에 대한 반응은 냉담했다. 밀랍 인형의 피부색은 드웨인 존슨의 원래 피부색보다 눈에 띄게 밝]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['65세' 마돈나 "살 확률 얼마 없었다...아직도 몸 안 좋은데 공연"]]></title>
-        <id>https://v.daum.net/v/20231024124131513</id>
-        <link href="https://v.daum.net/v/20231024124131513"/>
-        <updated>2023-10-24T04:12:49.282Z</updated>
-        <content type="html"><![CDATA[[TV리포트=유비취 기자] 팝의 여왕 마돈나가 건강 이상으로 목숨까지 위험했던 상황을 털어놨다. 지난 21일(현지 시간) 벨기에 앤트워프에서 열린 '셀레브레이션' 투어에서 마돈나(65)는 건강 이상으로 병원에 입원한 후 회복하기까지의 과정을 전했다. 그는 살 확률이 희박했고 아직까지 성한 몸이 아니라고 고백했다. 마돈나는 "약 4달 전 병원에 입원했을 때]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[로드 길버트 "10년간 기부 많이 했는데 '암' 걸려...억울했다"]]></title>
-        <id>https://v.daum.net/v/20231024121500167</id>
-        <link href="https://v.daum.net/v/20231024121500167"/>
-        <updated>2023-10-24T04:12:49.285Z</updated>
-        <content type="html"><![CDATA[[TV리포트=김현재 기자] 코미디언 로드 길버트가 선행을 베풀다 암을 발견했다고 고백했다. 24일 외신 매체인 데일리 메일에 따르면 올해로 55세가 된 로드는 지난 7월 두경부암 진단을 받았으며, 이전에 10년 동안 기금 모금 후원자로 활동했던 암 센터에서 치료를 받았다고 전했다. 올해 초, 로드는 암 센터 자선단체를 위한 모금 활동을 위해 쿠바에 가던]]></content>
     </entry>
 </feed>

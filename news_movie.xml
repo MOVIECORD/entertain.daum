@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-10-24T21:09:51.893Z</updated>
+    <updated>2023-10-24T22:10:40.339Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[숏폼 영상 시대 ‘3시간짜리 영화’가 살아남은 이유]]></title>
+        <id>https://v.daum.net/v/20231025063012532</id>
+        <link href="https://v.daum.net/v/20231025063012532"/>
+        <updated>2023-10-24T22:10:16.335Z</updated>
+        <content type="html"><![CDATA[영화 ‘플라워 킬링 문’마틴 스코세이지, 크리스토퍼 놀런 등 할리우드를 대표하는 감독들이 잇달아 3시간 안팎의 신작을 내놓고 있다. 긴 러닝타임이 영화의 진입장벽이 될 거라는 일부 우려와 달리 흥행에 성공하며 ‘영화의 힘’을 보여주고 있다. 봉준호 감독의 롤모델로 잘 알려진 80세 거장 마틴 스코세이지 감독은 러닝타임이 3시간 25분이나 하는 신작 ‘플라]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[학교 밑바닥서 '최고'로 올라가는 법...유선호, '사채소년' 11월 22일 개봉]]></title>
         <id>https://v.daum.net/v/20231025060230244</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231024190303181"/>
         <updated>2023-10-24T10:11:24.123Z</updated>
         <content type="html"><![CDATA[배우 김서형이 독립영화예술인상을 받았다. 24일 오후 서울 고덕동 스테이지28에서 제13회 아름다운 예술인상 시상식이 개최됐다. 영화 ‘비닐하우스’로 수상의 영광을 안은 김서형은 무대에 올라 “제가 TV로 절 아는 분들이 많을 거다. 늘 영화를 두들겨 왔지만 본의아니게 저의 뜻과 다르게 많은 작품을 보여드리지 못했다”고 말했다. 이어 “그래서 시나리오에 대]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[유인촌 “친구 안성기, 더 건강해져 스크린서 볼 수 있길”]]></title>
-        <id>https://v.daum.net/v/20231024184803883</id>
-        <link href="https://v.daum.net/v/20231024184803883"/>
-        <updated>2023-10-24T10:11:24.124Z</updated>
-        <content type="html"><![CDATA[유인촌 문화체육관광부 장관이 혈액암 투병 중인 배우 안성기의 쾌유를 빌었다. 24일 오후 서울 고덕동 스테이지28에서 제13회 아름다운 예술인상 시상식이 개최됐다. 유인촌 장관은 “오랜만에 이런 자리에 섰다. 다른 어떤 자리보다 많이 가슴이 울렁거린다. 평생 영화를 위해 해준 신영균 회장과 사모님, 이 자리에 본 임권택 감독님 부부, 이순재 선생님, 선배님]]></content>
     </entry>
 </feed>
