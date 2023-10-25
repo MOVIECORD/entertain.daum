@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-10-25T07:12:06.579Z</updated>
+    <updated>2023-10-25T08:14:55.119Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['강남순', '힘쎈' 돌풍..마약 빌런과 화끈한 맞짱 선포]]></title>
+        <id>https://v.daum.net/v/20231025163752512</id>
+        <link href="https://v.daum.net/v/20231025163752512"/>
+        <updated>2023-10-25T08:14:37.032Z</updated>
+        <content type="html"><![CDATA[[OSEN=장우영 기자] ‘힘쎈여자 강남순’ 이유미, 김정은, 김해숙이 ‘힘쎈’ 돌풍을 일으키고 있다. JTBC 토일드라마 ‘힘쎈여자 강남순’(극본 백미경, 연출 김정식·이경식, 제작 바른손씨앤씨·스토리피닉스·SLL)이 ‘K-여성 히어로물’의 진가를 발휘하고 있다. ‘대대힘힘’ 세 모녀 히어로 강남순(이유미), 황금주(김정은), 길중간(김해숙 분)의 사]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['최악의 악' 한동욱 감독 "원래 비비 팬…월권 부려서 미팅"]]></title>
         <id>https://v.daum.net/v/20231025160802179</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231025144626728"/>
         <updated>2023-10-25T06:14:53.181Z</updated>
         <content type="html"><![CDATA[[뉴스엔 박수인 기자] 한동욱 감독이 배우 지창욱에게 '최악의 악' 연출에 대한 공을 돌렸다. 한동욱 감독은 10월 25일 서울 종로구 삼청동 한 카페에서 진행된 디즈니+ 오리지널 시리즈 '최악의 악'(극본 장민석 / 연출 한동욱) 종영 인터뷰에서 작품 연출 이유와 만들어가는 과정 등을 밝혔다. '최악의 악'은 1990년대, 한-중-일 마약 거래의 중심]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[나인우, 입대 전 소처럼 열일..박민영과 '내 남편과 결혼해줘' 확정]]></title>
-        <id>https://v.daum.net/v/20231025144522684</id>
-        <link href="https://v.daum.net/v/20231025144522684"/>
-        <updated>2023-10-25T06:14:53.182Z</updated>
-        <content type="html"><![CDATA[[OSEN=박소영 기자] 배우 나인우가 '내&nbsp;남편과 결혼해줘'의 주연으로 캐스팅됐다. 나인우가 tvN 새 월화드라마 '내&nbsp;남편과 결혼해줘'에 출연을 확정 짓고 박민영, 이이경, 송하윤 등 믿고 보는 배우들과 호흡을 맞춘다. '내&nbsp;남편과 결혼해줘'는 절친과&nbsp;남편의 불륜을 목격하고 살해당한 여자가 10년 전으로 회귀해 인생 2회차를 경험하며 시궁창 같은 운]]></content>
     </entry>
 </feed>

@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-10-25T07:12:06.544Z</updated>
+    <updated>2023-10-25T08:14:55.078Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['아내와 별거' 윌 스미스 자녀 "아빠 관련 기사 보면 속상해"]]></title>
+        <id>https://v.daum.net/v/20231025170131581</id>
+        <link href="https://v.daum.net/v/20231025170131581"/>
+        <updated>2023-10-25T08:14:54.010Z</updated>
+        <content type="html"><![CDATA[[TV리포트=안수현 기자] 할리우드 스타 부부 윌 스미스(55)와 제이다 핀켓 스미스(52)의 '별거 고백'에 많은 이들이 주목하고 있다. 이러한 가운데, 두 사람의 자녀가 부모를 향해 쏟아지는 스포트라이트에 관한 심경을 밝혔다. 지난 24일(현지 시간) 스미스 부부의 자녀 윌로와 제이든은 미국 연예 매체 엔터테인먼트 투나잇(Entertainment Ton]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[양조위·왕페이 '중경삼림' 커플의 재회... 선남선녀 미모 폭발]]></title>
         <id>https://v.daum.net/v/20231025160332983</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231025100025642"/>
         <updated>2023-10-25T01:45:38.639Z</updated>
         <content type="html"><![CDATA[[OSEN=선미경 기자] 팝스타 브리트니 스피어스가 이혼하는 샘 아스가리와의 첫 만남을 추억했다. 24일(현지시각) 외신은 브리트니 스피어스가 새 회고록에서 지금은 소원해진 남편 샘 아스가리를 칭찬했다고 보도했다. 브리트니 스피어스의 회고곡 ‘더 우먼 인 미(The Woman in Me)’는 이혼 소송 전 집필된 것이다. 브리트니 스피어스는 이번 회고록]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[티모시 샬라메, 성형수술 받나? ♥︎카일리 제너 단골 성형외과 방문]]></title>
-        <id>https://v.daum.net/v/20231025093121442</id>
-        <link href="https://v.daum.net/v/20231025093121442"/>
-        <updated>2023-10-25T00:46:08.286Z</updated>
-        <content type="html"><![CDATA[[OSEN=최나영 기자] 배우 티모시 샬라메(Timothee Chalamet, 27)가 카다시안 가족들이 가장 좋아하는 성형외과 의사를&nbsp;방문했다. 티모시 샬라메가 최근 미국 LA 비벌리힐스에 있는 안면 성형외과 전문의 제이슨 다이아몬드 박사의 진료실을 방문하는 모습이 25일(현지시간) 포착돼 데일리메일 등 외신에 공개됐다.&nbsp;&nbsp; 다이아몬드 페이스 인스티튜]]></content>
     </entry>
 </feed>
