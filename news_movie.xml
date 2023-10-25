@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-10-25T01:45:39.611Z</updated>
+    <updated>2023-10-25T02:18:11.142Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[봉준호 미공개 데뷔작 담은 '노란문', 이걸로 다했다]]></title>
+        <id>https://v.daum.net/v/20231025111200802</id>
+        <link href="https://v.daum.net/v/20231025111200802"/>
+        <updated>2023-10-25T02:17:48.328Z</updated>
+        <content type="html"><![CDATA[[김준모 기자] ▲ &nbsp;&lt;노란문&gt; 포스터ⓒ 넷플릭스&nbsp; 2000년대 한국문화계는 지금과 같은 한류열풍의 초석을 다지는 시기였다. 당시 드라마에 &lt;겨울연가&gt; &lt;풀하우스&gt;, 가요계에 동방신기와 보아, 비가 한류스타로 인기를 견인했다면 영화계에는 &lt;살인의 추억&gt;과 &lt;올드보이&gt;가 있었다. 이 &lt;살인의 추억&gt;의 감독 봉준호는 이후 20년의 세월 동안 한국영화계를 이끌어]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["돈독 빼기 위해 기부 시작"…'밀수→무빙' 훨훨 날았던 조인성, 선행으로 완벽한 마무리]]></title>
         <id>https://v.daum.net/v/20231025104017260</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231025091127648"/>
         <updated>2023-10-25T00:45:46.317Z</updated>
         <content type="html"><![CDATA[[티브이데일리 최하나 기자] 영화 ‘30일’이 박스오피스 1위를 기록했다. 25일 영화진흥위원회 통합전산망에 따르면 ‘30일’(감독 남대중)은 지난 24일 2만6053명의 관객을 동원하며 박스오피스 1위를 차지했다. 누적 관객수는 164만7866명이다. ‘30일’은 서로의 찌질함과 '똘기'를 견디다 못해 마침내 완벽하게 남남이 되기 직전 동반기억상실증에]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“지수 선녀 미모에 객석 술렁”‥‘천박사’로 영화 데뷔 성공]]></title>
-        <id>https://v.daum.net/v/20231025090914591</id>
-        <link href="https://v.daum.net/v/20231025090914591"/>
-        <updated>2023-10-25T00:45:46.317Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 배효주 기자] '천박사 퇴마 연구소: 설경의 비밀'에 특별출연한 박정민과 지수의 콤비 플레이가 관객들의 마음을 사로잡고 있다. 영화 '천박사 퇴마 연구소: 설경의 비밀'(감독 김성식)은 귀신을 믿지 않지만 귀신 같은 통찰력을 지닌 가짜 퇴마사 ‘천박사’(강동원)가 지금껏 경험해본 적 없는 강력한 사건을 의뢰받으며 시작되는 이야기를 그린 작품이다.]]></content>
     </entry>
 </feed>
