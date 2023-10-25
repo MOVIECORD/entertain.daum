@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2023-10-25T17:09:29.327Z</updated>
+    <updated>2023-10-25T18:14:19.509Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[싱어게인3, 지난 시즌과 달라진 심사 기준은?]]></title>
+        <id>https://v.daum.net/v/20231026030405425</id>
+        <link href="https://v.daum.net/v/20231026030405425"/>
+        <updated>2023-10-25T18:14:11.768Z</updated>
+        <content type="html"><![CDATA[[서울=뉴시스]고인혜 인턴 기자 = 첫 방송을 앞둔 JTBC '싱어게인3-무명가수전'이 심사 기준과 관전 포인트를 공개했다. 시즌1부터 MC를 맡은 가수 이승기는 지난 25일 제작진을 통해 '싱어게인 키즈'들의 등장과 눈에 띄는 젊은 뮤지션들 다양한 장르의 음악을 예고하며 "새로운 심사위원 분들의 합류로 높아진 심사 기준이 긴장감을 더할 것"이라고 밝]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['골때녀' 구척장신 하석주 감독, "발라드림과 붙기 싫었다"…이유는?]]></title>
         <id>https://v.daum.net/v/20231026020300118</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231025234836283"/>
         <updated>2023-10-25T15:11:32.670Z</updated>
         <content type="html"><![CDATA[김호영, 조혜련 첫 만남에 반말? 붐 결혼식에서 있었던 일 방송인 김호영이 반말설에 대해 해명했다. 25일 오후 방송된 MBC ‘라디오스타’는 조혜련, 정찬성, 김호영, 이은형이 출연한 ‘코리안 활력 좀비’ 특집으로 꾸며졌다. 이날 “김호영과 붐 결혼식에서 만났다. 보자마자 초면에 ‘누나 번호 좀 줘봐’라고 하더라”고 말했다. 그러자 김호영은 “아니다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[조혜련 "김구라 아내에게 견제 받았다.. '의외로 예쁜데?'"]]></title>
-        <id>https://v.daum.net/v/20231025234700258</id>
-        <link href="https://v.daum.net/v/20231025234700258"/>
-        <updated>2023-10-25T15:11:32.671Z</updated>
-        <content type="html"><![CDATA[[TV리포트=이지민 기자] '라디오스타' 개그우먼 조혜련이 김구라의 아내와의 만남 에피소드를 전했다. 25일 MBC '라디오스타'에는 '코리안 활력 좀비' 특집으로 조혜련, 이종격투기 선수 정찬성, 방송인 김호영, 코미디언 이은형이 출연했다. 이날 조혜련은 “지금 미모에 물이 올랐다”며 자화자찬 시간을 가졌다. 이에 MC 김구라는 “또 쓸데없는 소리를]]></content>
     </entry>
 </feed>
