@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-10-25T04:13:48.963Z</updated>
+    <updated>2023-10-25T05:10:42.296Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[박성웅? 김권? 연쇄살인범 생방송 등장]]></title>
+        <id>https://v.daum.net/v/20231025140540703</id>
+        <link href="https://v.daum.net/v/20231025140540703"/>
+        <updated>2023-10-25T05:10:27.129Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 김명미 기자] ‘국민사형투표’ 개탈이 생방송에 나왔다. SBS 목요드라마 ‘국민사형투표’(극본 조윤영/연출 박신우/제작 ㈜팬엔터테인먼트, 스튜디오S)는 악질범들을 대상으로 국민사형투표를 진행하고 사형을 집행하는 정체 미상의 ‘개탈’을 추적하는 이야기를 그린 국민 참여 심판극이다. 개탈이 여러 명이라는 사실이 밝혀진 가운데, 여러 명의 개탈 중 눈]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘아라문의 검’ 김옥빈 “시즌3 특별출연 원해, 너무 사랑했던 작품”]]></title>
+        <id>https://v.daum.net/v/20231025132916485</id>
+        <link href="https://v.daum.net/v/20231025132916485"/>
+        <updated>2023-10-25T05:10:27.138Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 장예솔 기자] '아스달 연대기'와 '아라문의 검'까지 긴 여정을 마무리한 김옥빈이 시즌3 가능성을 언급했다. 김옥빈은 10월 25일 서울 종로구 한 카페에서 진행된 tvN '아라문의 검' 종영 인터뷰에서 다양한 이야기를 나눴다. '아라문의 검'은 태고의 땅 아스에서 서로 다른 전설을 써가는 타곤, 은섬, 탄야, 태알하의 운명적인 이야기를 그린]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['아라문의 검' 김옥빈 "시청자 유입 부족했지만…계속 회자되길"]]></title>
         <id>https://v.daum.net/v/20231025125213625</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20231025113435751"/>
         <updated>2023-10-25T03:11:35.632Z</updated>
         <content type="html"><![CDATA[[뉴스엔 김명미 기자] 성훈 정유민이 돌직구 결혼 통보를 날린다. 10월 28일 오후 9시 50분에 첫 방송될 MBN 새 주말 미니시리즈 ‘완벽한 결혼의 정석’(극본 임서라, 연출 오상원)은 남편과 가족들에게 배신당한 후 과거로 돌아와 복수를 위해 계약 결혼을 제안한 여자 한이주와 그녀의 복수를 돕기 위해 계약 결혼을 받아들인 남자 서도국의 아찔한 운명]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['이두나!' 이정효 감독 "수지랑 첫 촬영 당시 '이게 두나지' 했다"]]></title>
-        <id>https://v.daum.net/v/20231025112840495</id>
-        <link href="https://v.daum.net/v/20231025112840495"/>
-        <updated>2023-10-25T03:11:35.635Z</updated>
-        <content type="html"><![CDATA[넷플릭스(Netflix)의 '이두나!'가 뜨거운 반응에 힘입어 이정효 감독의 일문일답과 미공개 스틸을 공개했다. 평범한 대학생 원준이 셰어하우스에서 화려한 K-POP 아이돌 시절을 뒤로 하고 은퇴한 두나를 만나게 되며 벌어지는 이야기를 담은 로맨스 드라마 '이두나!'가 공개 직후부터 오늘 대한민국의 TOP 10 시리즈 1위의 자리를 유지하며, 넷플릭스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["어딘가 살고 있을 두나와 원준 응원하는 마음"…'이두나!' 감독이 밝힌 엔딩의 의미]]></title>
-        <id>https://v.daum.net/v/20231025111512990</id>
-        <link href="https://v.daum.net/v/20231025111512990"/>
-        <updated>2023-10-25T02:17:53.997Z</updated>
-        <content type="html"><![CDATA[[SBS연예뉴스 | 강선애 기자] 넷플릭스의 '이두나!'가 뜨거운 반응에 힘입어 이정효 감독의 일문일답과 본편에서는 만나볼 수 없었던 특별한 장면이 담긴 미공개 스틸을 공개했다. '이두나!'는 평범한 대학생 원준(양세종)이 셰어하우스에서 화려한 K-POP 아이돌 시절을 뒤로하고 은퇴한 두나(수지)를 만나게 되며 벌어지는 이야기를 담은 로맨스 드라마로, 지난]]></content>
     </entry>
 </feed>
