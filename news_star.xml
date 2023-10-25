@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2023-10-25T19:09:13.578Z</updated>
+    <updated>2023-10-25T20:11:35.308Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[정찬성 "몸이 말 안들어 슬펐다"…경기 도중 은퇴 결심]]></title>
+        <id>https://v.daum.net/v/20231026051003009</id>
+        <link href="https://v.daum.net/v/20231026051003009"/>
+        <updated>2023-10-25T20:11:28.438Z</updated>
+        <content type="html"><![CDATA[(서울=뉴스1) 박하나 기자 = 공식 은퇴를 선언한 종합격투기 선수 정찬성이 '라디오스타'에 출연해 은퇴를 결심한 이유를 고백했다. 지난 25일 오후 방송된 MBC 예능 프로그램 '라디오스타'에서는 눈물의 은퇴식으로 모두를 울린 '코리안 좀비' 정찬성이 출연했다. 이날 '코리안 활력 좀비' 특집으로 꾸며져 조혜련, 김호영, 이은형이 함께했다. 정찬성은]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['16년 동거' 유병재x유규선 "결혼해도 같이 살 것 같아"]]></title>
+        <id>https://v.daum.net/v/20231026045003745</id>
+        <link href="https://v.daum.net/v/20231026045003745"/>
+        <updated>2023-10-25T20:11:28.439Z</updated>
+        <content type="html"><![CDATA[(서울=뉴스1) 박하나 기자 = 방송인 유병재, 유규선이 '유 퀴즈 온 더 블럭'에 출격했다. 지난 25일 오후 방송된 tvN 예능 프로그램 '유 퀴즈 온 더 블럭'(이하 '유퀴즈')에서는 '실전은 기세다' 특집으로 꾸며져 방송인 유병재, 유규선이 유퀴저로 함께했다. 군대에서 만난 인연을 16년째 이어가고 있는 '영혼의 단짝' 유병재, 유규선이 등장해]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['-44kg' 최준희, 얼굴 크기만큼 얇은 허리 "다이어트 소홀, 한물 갔다"]]></title>
         <id>https://v.daum.net/v/20231026035018525</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20231026000408531"/>
         <updated>2023-10-25T15:11:32.661Z</updated>
         <content type="html"><![CDATA[[티브이데일리 이기은 기자] '나는 SOLO' 17기 상철, 현숙 향한 직진이 시작됐다. 25일 밤 방송된 SBS 플러스 예능프로그램 ‘나는 SOLO'(나는 솔로)에서는 17기 영호, 영수, 광수, 옥순, 순자, 정숙, 현숙 등의 썸 과정이 공개됐다. 이날 현숙은 직업을 회계사라고 밝혔고, 평소 댄스가 취미라고 전했다. 상철은 복수전공으로 경영을 했고, 현]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이선균 이어 지드래곤 입건…연예계 덮친 '마약 게이트'에 초긴장]]></title>
-        <id>https://v.daum.net/v/20231026000045423</id>
-        <link href="https://v.daum.net/v/20231026000045423"/>
-        <updated>2023-10-25T15:11:32.663Z</updated>
-        <content type="html"><![CDATA["나 지금 떨고 있니?"…마약 관련 전방위적 수사에 비상 걸린 연예계 [더팩트ㅣ김샛별 기자] 마약 투약 혐의로 입건된 이선균이 연일 충격을 안기고 있는 가운데, 추가 입건된 또 다른 유명 연예인이 그룹 빅뱅 출신 지드래곤(GD)으로 밝혀졌다. 끝나기는커녕 이제 시작인 것 같은 '연예계 마약 게이트'다. 이번 파문이 어디까지 번질지 예측 불가능한 상황에]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이선균·지드래곤, '마약 투약 혐의'..'파국의 10월 연예계']]></title>
-        <id>https://v.daum.net/v/20231026000017394</id>
-        <link href="https://v.daum.net/v/20231026000017394"/>
-        <updated>2023-10-25T15:11:32.667Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 | 이경호 기자] 배우 이선균, 빅뱅 출신 지드래곤/이동훈 기자 photoguy@, 김창현 기자 chmt@ 10월 연예계, '파국'이라고 할 수밖에 없는 상황이 됐다. '마약 투약 혐의'로 두 명의 톱스타가 거론되면서다. 이선균, 빅뱅 지드래곤. 연예계에 또 마약 스캔들이 불거졌다. 연예인들의 마약 스캔들은 잊힐 만 하면 등장해 대중에게 충격]]></content>
     </entry>
 </feed>
