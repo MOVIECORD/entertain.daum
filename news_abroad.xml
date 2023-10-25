@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-10-25T05:10:42.297Z</updated>
+    <updated>2023-10-25T06:15:14.250Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[롤링스톤스 "'AI+CG' 홀로그램 콘서트 열 것...죽은 뒤에도 투어"]]></title>
+        <id>https://v.daum.net/v/20231025150200419</id>
+        <link href="https://v.daum.net/v/20231025150200419"/>
+        <updated>2023-10-25T06:15:13.242Z</updated>
+        <content type="html"><![CDATA[[TV리포트=유비취 기자] 전설적인 밴드 롤링 스톤스의 멤버 키스 리차드가 AI와 CG를 이용한 콘서트에 대해 언급해 이목을 모았다. 24일(현지 시간) 애플 뮤직 1과의 인터뷰에서 키스 리차드(79)는 AI(인공 지능)와 CG(컴퓨터 그래픽) 이용한 홀로그램 콘서트가 열릴 것이라고 예고했다. 그는 콘서트를 위해 새로운 아이디어를 배제하지 않겠다고 선언했다]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[브리트니 "낙태 당일 오열...저스틴은 기타 치며 위로하더라"]]></title>
+        <id>https://v.daum.net/v/20231025141101951</id>
+        <link href="https://v.daum.net/v/20231025141101951"/>
+        <updated>2023-10-25T06:15:13.245Z</updated>
+        <content type="html"><![CDATA[[TV리포트=안수현 기자] 팝스타 브리트니 스피어스가 낙태 당일의 심경을 고백했다. 지난 24일 출간된 브리트니 스피어스(41)의 회고록 'The Woman In Me'(더 우먼 인 미)에는, 과거 그녀가 저스틴 팀버레이크(42)와 교제하던 시절의 이야기가 담겨있다. 브리트니는 저스틴의 아기를 임신한 후 낙태를 했다고 고백하며 당시의 상황을 자세히 서술했다]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['아라시' 마츠모토 준, '갑질'로 후배 캐스팅 막아...인성 논란]]></title>
         <id>https://v.daum.net/v/20231025134600982</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20231025080030891"/>
         <updated>2023-10-24T23:10:55.123Z</updated>
         <content type="html"><![CDATA[[TV리포트=이예은 기자] 오디션 프로그램에 심사위원으로 출연해 202억을 번 브리트니 스피어스(41). 그러나 심사위원을 하고 싶지 않았다고 '폭탄선언'해 화제다.&nbsp; 외신 연예 매체 페이지 식스는 24일(현지 시간) 브리트니 스피어스가 회고록 'The Woman In Me'에서 2012년 오디션 프로그램 'X Factor' 심사위원으로 활동하는 것을 경멸]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['플라워 킬링 문' 디카프리오, 구타신에서 '엉덩이 패드' 착용해]]></title>
-        <id>https://v.daum.net/v/20231025073208472</id>
-        <link href="https://v.daum.net/v/20231025073208472"/>
-        <updated>2023-10-24T23:10:55.131Z</updated>
-        <content type="html"><![CDATA[[TV리포트=이예은 기자] 톱스타 레오나르도 디카프리오가 영화 '플라워 킬링 문'에서 엉덩이 패드를 착용했다는 '웃픈' 일화가 전해졌다.&nbsp; 외신 인사이더는 지난 21일(현지 시간) '플라워 킬링&nbsp;문'의 촬영감독인 로드리고 프리에토와의 인터뷰 전문을 공개했다.&nbsp; 이날 프리에토는 '플라워 킬링 더 문'에서 주인공 어니스트 버크하트(레오나드로 디카프리오 분)이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[드라마 '해리 포터', 누가 메가폰 잡나...원작 감독은 "NO"]]></title>
-        <id>https://v.daum.net/v/20231025070300132</id>
-        <link href="https://v.daum.net/v/20231025070300132"/>
-        <updated>2023-10-24T22:10:39.297Z</updated>
-        <content type="html"><![CDATA[[TV리포트=이예은 기자] 영화 '해리 포터' 시리즈의 감독 데이빗 예이츠가 드라마 '해리 포터' 제작 소식에 대해 처음으로 입을 열었다.&nbsp; 외신 매체 코믹북닷컴은 지난 23일(현지 시간) 감독 데이빗 예이츠가 새롭게 제작되는 드라마 '해리 포터'에 대해 언급했다고 보도했다. 예이츠 감독은 영화 '해리 포터' 시리즈 중 총 4편을 연출했으며, 스핀 오프]]></content>
     </entry>
 </feed>
