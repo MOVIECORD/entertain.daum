@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-10-26T09:11:42.524Z</updated>
+    <updated>2023-10-26T10:11:58.403Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[천옌시, 드레스 밟고 엉덩방아...'프로'답게 웃으며 무대 이어가]]></title>
+        <id>https://v.daum.net/v/20231026183101061</id>
+        <link href="https://v.daum.net/v/20231026183101061"/>
+        <updated>2023-10-26T10:11:57.482Z</updated>
+        <content type="html"><![CDATA[[TV리포트=안수현 기자] 대만 배우 천옌시가 공연 무대 중 실수로 넘어졌지만, 매끄러운 대처로 눈길을 끌었다. 지난 21일, 천옌시(40)는 마카오 그레이터 베이 지역 콘서트에서 공연을 하던 중 작은 사고를 당했다. 중국 배우 잉얼과 곡 '알리산의 소녀'로 듀엣 공연을 하던 중, 천옌시는 자기 파트의 노래를 부르면서 계단을 내려왔다. 무대 의상으로 바닥까]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['카일리 제너 론칭' 브랜드, 저렴이 제품과 디자인 비슷...가격은 2배]]></title>
+        <id>https://v.daum.net/v/20231026181230452</id>
+        <link href="https://v.daum.net/v/20231026181230452"/>
+        <updated>2023-10-26T10:11:57.484Z</updated>
+        <content type="html"><![CDATA[[TV리포트=김현재 기자] 배우 티모시 샬라메와 열애 중인 모델 카일리 제너가 패션 브랜드를 론칭한 가운데, 비싼 가격으로 비판받고 있다. 지난 24일 카일리 제너는 'Khy'라는 '저렴한' 라인의 패션 브랜드 쇼핑몰을 론칭할 예정임을 밝혔다. 이와 함께 판매 제품 몇 가지를 선공개했다. 하지만 누리꾼들은 제품의 가격이 저렴하지 않다며 지적했다. 특히]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[日 유명 女배우 "수입 90% 새금 내...일할 의욕 사라졌다"]]></title>
         <id>https://v.daum.net/v/20231026180131077</id>
@@ -74,12 +88,5 @@
         <link href="https://v.daum.net/v/20231025225627539"/>
         <updated>2023-10-25T14:11:32.766Z</updated>
         <content type="html"><![CDATA[[OSEN=박소영 기자] 미국 배우 리차드 라운트리가 안타깝게 세상을 떠났다. 24일(현지시각) 외신 보도에 따르면 리차드 라운트리는 이날 췌장암 투병 끝에 81세 생을 마감했다. 오랜 매니저 패트릭 맥민은 “그가 남긴 작품과 경력은 영화계를 이끄는 아프리카계 미국인에게 터닝포인트가 됐다. 그가 업계에 미친 영향은 아무리 강조해도 지나치지 않는다”고 밝]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[헤일리 비버, 임신설 직접 부인.."배 나왔다고 임신 아냐"]]></title>
-        <id>https://v.daum.net/v/20231025185024287</id>
-        <link href="https://v.daum.net/v/20231025185024287"/>
-        <updated>2023-10-25T10:12:01.788Z</updated>
-        <content type="html"><![CDATA[[OSEN=선미경 기자] 모델 헤일리 비버가 계속 불거지는 임신설에 불편한 심경을 드러냈다. 24일(현지시각) 외신 보도에 따르면 헤일리 비버는 최근 매진 인터뷰를 통해 자신을 둘러싼 임신설에 대해 입을 열었다. 헤일리 비버는 “이전에도 임신설이 있었다. 실망스러운 것이 있다. 배가 부풀었다고 해서 임신이 아니다. 임신이 안 돼서 실망스러웠던 적도 있다]]></content>
     </entry>
 </feed>
