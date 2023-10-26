@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-10-26T21:09:59.076Z</updated>
+    <updated>2023-10-26T22:10:39.218Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[11월 괴담 전조 현상인가…마약 게이트 열린 연예계, 충격과 공포로 '뒤숭숭']]></title>
+        <id>https://v.daum.net/v/20231027070201926</id>
+        <link href="https://v.daum.net/v/20231027070201926"/>
+        <updated>2023-10-26T22:10:09.334Z</updated>
+        <content type="html"><![CDATA[[텐아시아=최지예 기자] 연예계에는 1980년대부터 이어지는 이른바 '11월 괴담'이라는 징크스가 있다. 11월만 되면 연예계 충격적인 사건사고가 터진다는 것인데, 올해는 10월 하순부터 불거진 마약 게이트로 '11월 괴담'의 전조증상이 아닌가 하는 이야기가 나오고 있다. 배우 이선균(48)과 그룹 빅뱅 지드래곤(35·본명 권지용)이 마약 혐의로 형사]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[공포 영화 '물귀신', 소름 유발 예고편 공개..."강심장만 보세요"]]></title>
         <id>https://v.daum.net/v/20231027060230363</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231026153758785"/>
         <updated>2023-10-26T07:11:29.516Z</updated>
         <content type="html"><![CDATA[[뉴스엔 배효주 기자] 설경구는 올해로 만 76세인 정지영 감독과의 작업을 두고 "여태까지 함께 한 감독님 중 가장 나이가 많았다"면서도 "그의 내면은 영화 제목처럼 소년이다"고 말한 바 있다. 정지영 감독은 "시류에 뒤처지지 않기 위해 항상 연구한다"면서 데뷔 40주년을 맞은 '현역' 감독다운 노력을 밝혔다. 영화 '소년들'을 연출한 정지영 감독은 10]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘소년들’ 설경구 “염혜란, 믿게 만드는 배우→허성태 선역 좋다고”]]></title>
-        <id>https://v.daum.net/v/20231026152423175</id>
-        <link href="https://v.daum.net/v/20231026152423175"/>
-        <updated>2023-10-26T07:11:29.518Z</updated>
-        <content type="html"><![CDATA[[OSEN=김채연 기자] 배우 설경구가 개봉을 앞둔 영화 ‘소년들’과 함께 최근 영화 시장에 대해 언급했다. 26일 서울 종로구 소격동에 위치한 한 카페에서 영화 ‘소년들’ 설경구 인터뷰가 진행됐다. 지난 8월 영화 ‘더 문’으로 여름 시장에 나왔던 설경구는 3개월 만에 영화 ‘소년들’로 다시 관객들을 만나게 됐다. 바로 영화가 개봉하게 된 소감을 묻자]]></content>
     </entry>
 </feed>
