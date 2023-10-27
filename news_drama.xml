@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-10-27T18:13:46.750Z</updated>
+    <updated>2023-10-27T19:08:30.003Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[송강이 '악마'라니...따라가고 싶게 만드는 환상 비주얼]]></title>
+        <id>https://v.daum.net/v/20231028040030030</id>
+        <link href="https://v.daum.net/v/20231028040030030"/>
+        <updated>2023-10-27T19:08:10.227Z</updated>
+        <content type="html"><![CDATA[[TV리포트=김현재 기자] 배우 김유정이 송강과 만났다. 오는 11월 24일 첫 방송을 앞둔 SBS 새 금토드라마 '마이 데몬'(연출 김장한, 극본 최아일, 제작 스튜디오S·빈지웍스) 측은 27일, '악마 뺨치는 인간' 도도희(김유정 분)와 '악마' 정구원(송강 분)의 달콤살벌한 1차 티저 영상을 공개했다. 능력을 잃은 악마 구원을 향해 손을 내민 도희의]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘7인의탈출‘ 이준, 김도훈과의 악연…이준, 진짜 성찬그룹 아들이었다]]></title>
         <id>https://v.daum.net/v/20231028010300571</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231027223524718"/>
         <updated>2023-10-27T14:09:44.078Z</updated>
         <content type="html"><![CDATA[(엑스포츠뉴스 김나연 기자) '연인' 안은진이 남궁민을 보며 눈물을 흘렸다. 27일 방송된 MBC 금토드라마 '연인'에서는 이장현(남궁민 분)을 지키며 눈물을 흘리는 유길채(안은진)의 모습이 전파를 탔다. 이날 유길채는 누워 있는 이장현에 "나리 덕분에 풀려났다"며 눈물을 흘렸다. 량음(김윤우)도 이장현을 보기 위해 들어왔다. 과거 량음은 양반댁 나리에게]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[엄기준, 악인들에 "너희들은 죽어 마땅해"]]></title>
-        <id>https://v.daum.net/v/20231027222422639</id>
-        <link href="https://v.daum.net/v/20231027222422639"/>
-        <updated>2023-10-27T14:09:44.080Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 오수정 기자) '7인의 탈출'에서 엄기준이 악인들 앞에서 정체를 드러냈다.&nbsp; 27일 방송된 SBS 금토드라마 '7인의 탈출' 11회에서는 악인들에게 자신의 정체가 이휘소임을 드러낸 매튜 리(엄기준 분)의 모습이 그려졌다.&nbsp; 이날 매튜 리는 악인들 앞에서 "내가 이휘소를 찾았다. 지금 여기, 바로 내가 이휘소"라고 밝혔고, 악인들은 충격에 휩싸]]></content>
     </entry>
 </feed>
