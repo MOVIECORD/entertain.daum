@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-10-27T21:09:29.972Z</updated>
+    <updated>2023-10-27T22:10:18.479Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["사람 겉만 보고 판단마!" 16기 영숙에 10기 정숙 "시간이 약이다, 알지?" 응원]]></title>
+        <id>https://v.daum.net/v/20231028062950771</id>
+        <link href="https://v.daum.net/v/20231028062950771"/>
+        <updated>2023-10-27T22:09:55.115Z</updated>
+        <content type="html"><![CDATA[[스포츠조선닷컴 김수현기자] '나는 솔로' 10기 정숙이 16기 영숙의 편을 들며 그를 위로, 응원했다. 27일 정숙은 "16기 영숙 울 동생이 시간내서 와서 이런 저런 이야기하고 좋더라~"라고 의외의 친분을 드러냈다. 정숙은 "영숙아 다른 곳에서 만나서 이런 저런 더 깊은 이야기하자 힘내라 울 영숙이 동생~"이라며 영숙을 응원했다. 정]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['마약왕' 황정민, 이번엔 군사반란 주동자 연기...'소름' 눈빛]]></title>
         <id>https://v.daum.net/v/20231028060031579</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231027171823398"/>
         <updated>2023-10-27T09:10:31.192Z</updated>
         <content type="html"><![CDATA['장편 데뷔' 하다인·'스크린 도전' 정동원까지…11월 8일 개봉 [더팩트｜박지윤 기자] 최지우는 약 7년 만에 스크린에 돌아왔고, 표지훈은 전역 후 관객들과 만날 준비를 마쳤다. 또한 가수 정동원은 스크린 데뷔에 나선다. 작품에 참여한 모든 배우에게 남다른 의미를 안겨준 '뉴 노멀'이다. 영화 '뉴 노멀'(감독 정범식)의 언론·배급 시사회 및 기자간담]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["왜 나한테?" 최지우X피오 새 얼굴→정동원 '연기도전' '뉴 노멀', 현실 속 극한공포]]></title>
-        <id>https://v.daum.net/v/20231027171150213</id>
-        <link href="https://v.daum.net/v/20231027171150213"/>
-        <updated>2023-10-27T08:13:38.403Z</updated>
-        <content type="html"><![CDATA[[스포티비뉴스=유은비 기자] 영화 '뉴 노멀'이 최지우, 피오, 정동원 등 배우들의 새로운 얼굴로 현실 속 극한의 공포를 그려낸다. 영화 '뉴 노멀' 시사회 및 기자간담회가 27일 오후 서울 CGV 용산아이파크몰에서 열렸다. 이날 현장에는 배우 최지우, 최민호, 표지훈, 하다인, 정동원이 참석해 작품에 대한 다양한 이야기를 나눴다. 이날 정범식 감독은]]></content>
     </entry>
 </feed>
