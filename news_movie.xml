@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-10-27T05:10:36.364Z</updated>
+    <updated>2023-10-27T06:14:52.740Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[1920년대 발생한 살인사건, 미국의 폐부를 찌르다]]></title>
+        <id>https://v.daum.net/v/20231027145701220</id>
+        <link href="https://v.daum.net/v/20231027145701220"/>
+        <updated>2023-10-27T06:14:29.361Z</updated>
+        <content type="html"><![CDATA[[원종빈 기자] * 이 글에는 영화의 스포일러가 있습니다. 석유 터져 나온 오세이지족 보호구역, 미국 서부 오클라호마.&nbsp;오세이지족이 부자가 된 이 땅에 제1차 세계대전 참전 용사 '어니스트 버크하트'(레오나르도 디카프리오)가 나타난다. 오세이지족의 친구로 명성을 쌓은 삼촌 '윌리엄 킹 헤일(로버트 드 니로)'의 사업을 돕기&nbsp;위해서.&nbsp; 택시 기사로 오클라호마]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["미야자키 무책임" 이래서 시사회 안했나..‘그대들은’ 실관람평 혹평 세례]]></title>
+        <id>https://v.daum.net/v/20231027142823240</id>
+        <link href="https://v.daum.net/v/20231027142823240"/>
+        <updated>2023-10-27T06:14:29.369Z</updated>
+        <content type="html"><![CDATA[[OSEN=김채연 기자] 미야자키 하야오 감독의 새 작품 ‘그대들은 어떻게 살 것인가’가 이틀 연속 박스오피스 1위를 차지하고 있지만, 실관람평은 혹평이 연이어 들려오고 있다. 27일 영화진흥위원회 영화관입장권통합전산망에 따르면 영화 '그대들은 어떻게 살 것인가'(감독 미야자키 하야오)가 전날 9만 4079명의 관객을 동원하며 박스오피스 1위를 기록했다]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘로키2’ 방사능에 사라진 빅터, 붕괴 앞둔 시간선은 어찌되나?]]></title>
         <id>https://v.daum.net/v/20231027135842182</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20231027104856149"/>
         <updated>2023-10-27T02:17:00.108Z</updated>
         <content type="html"><![CDATA[[이데일리 스타in 김보영 기자] ‘너와 나’ 배우 박혜수가 연기 외에 언젠가는 음악으로도 대중과 소통하고 싶다는 의사를 내비쳤다. 지금도 꾸준히 곡을 쓰고 있다고도 귀띔했다. 박혜수는 최근 ‘너와 나’의 개봉을 기념해 이데일리와 인터뷰를 진행했다. ‘너와 나’는 ‘D.P.’, ‘삼진그룹 영어토익반’ 등으로 주목받은 배우 조현철이 연출한 첫 장편 영화]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['너와 나' 박혜수 "조현철→스태프 모두가 애틋, 서로를 사랑했다"②]]></title>
-        <id>https://v.daum.net/v/20231027101712717</id>
-        <link href="https://v.daum.net/v/20231027101712717"/>
-        <updated>2023-10-27T01:44:03.197Z</updated>
-        <content type="html"><![CDATA[[이데일리 스타in 김보영 기자] “‘너와 나’는 PD님과 조현철 감독님, 그리고 저까지. 세 명이 기획을 시작해 한 분 한 분 씩  모여 완성한 작품이에요. 배우부터 스태프들까지 한 명 한 명이 서서히 작품에 녹아들며 사랑하는 과정을 지켜봤죠. 그렇게 모두가 서로를 사랑하게 됐고요.” 배우 박혜수가 영화 ‘너와 나’를 향한 남다른 애정과 책임감을 전했다]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘30일’ 4년만에 손익분기점 넘긴 기특한 로맨틱코미디]]></title>
-        <id>https://v.daum.net/v/20231027101357561</id>
-        <link href="https://v.daum.net/v/20231027101357561"/>
-        <updated>2023-10-27T01:44:03.201Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 배효주 기자] '30일'이 4년 만에 손익분기점을 돌파한 로코로 주목 받고 있다. 영화 '30일'(감독 남대중)은 드디어 D-30, 서로의 찌질함과 똘기를 견디다 못해 마침내 완벽하게 남남이 되기 직전 동반기억상실증에 걸려버린 '정열'(강하늘)과 '나라'(정소민)의 코미디. 손익분기점인 160만 관객을 돌파한 '30일'은 오랜만에 로맨스와 코미디]]></content>
     </entry>
 </feed>
