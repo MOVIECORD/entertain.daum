@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/variety</id>
     <title>다음 연예 ─ 뉴스 ─ 예능</title>
-    <updated>2023-10-27T16:13:51.698Z</updated>
+    <updated>2023-10-27T17:08:45.374Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['나혼산' 코쿤, "전현무, 힘쓸 일 많은가봐" 장어 식당 사장 목격담에 폭소]]></title>
+        <id>https://v.daum.net/v/20231028012851681</id>
+        <link href="https://v.daum.net/v/20231028012851681"/>
+        <updated>2023-10-27T17:08:33.405Z</updated>
+        <content type="html"><![CDATA[[OSEN=김예솔 기자] 코드쿤스트가 전현무 목격담을 이야기했다.&nbsp; 27일에 방송된 MBC '나 혼자 산다'에서는 이주승이 부산 국제영화제에 참석한 가운데 코드쿤스트가 전현무 장어가게 목격담을 전달해 웃음을 자아냈다.&nbsp; 이날 이주승은 부산국제영화제에 방문했다. 이주승은 GV를 앞두고 직접 헤어스타일을 만진 후 밖으로 나갔다. 이주승은 "관객분들 만날 때]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[기안84, 인생 첫 마라톤 완주 성공 “다음엔 이장우 데리고 뛸 것”]]></title>
         <id>https://v.daum.net/v/20231028010820583</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231027234942171"/>
         <updated>2023-10-27T15:11:21.979Z</updated>
         <content type="html"><![CDATA[[뉴스엔 서유나 기자] 방송인 기안84가 마라톤 풀코스 도중 고통을 호소했다. 10월 27일 방송된 MBC 예능 '나 혼자 산다'(이하 '나혼산') 518회에서는 기안84의 마라톤 풀코스 완주 도전기가 이어졌다. 이날 기안84는 마라톤 풀코스 도전을 하며 완전히 체력이 방전됐다. 자세까지 무너진 기안84는 사람들의 '힘내세요'라는 응원에도 호응을 할]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[기안84, 끈 잡고 달리는 시각장애인 마라토너에 '울컥'…"눈물 고였다"]]></title>
-        <id>https://v.daum.net/v/20231027234503148</id>
-        <link href="https://v.daum.net/v/20231027234503148"/>
-        <updated>2023-10-27T15:11:21.984Z</updated>
-        <content type="html"><![CDATA[[마이데일리 = 양유진 기자] '나 혼자 산다' 기안84가 마라톤 대회에 출전한 동료 마라토너를 보고 울컥했다.  27일 방송된 MBC '나 혼자 산다'에서는 기안84의 마라톤 42.195km 풀코스 도전 두 번째 이야기가 그려졌다. 무려 두 달 동안 준비해온 마라톤 대회에 나선 기안84는 5시간 내 완주를 목표로 발을 디뎠다. "내 페이스로 가자"고 다]]></content>
     </entry>
 </feed>
