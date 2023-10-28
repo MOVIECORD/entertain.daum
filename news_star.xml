@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2023-10-28T18:13:05.906Z</updated>
+    <updated>2023-10-28T19:08:18.347Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이선균, 마약 간이 검사 음성→정밀 검사 의뢰‥투약 혐의는 진술 거부]]></title>
+        <id>https://v.daum.net/v/20231029031600667</id>
+        <link href="https://v.daum.net/v/20231029031600667"/>
+        <updated>2023-10-28T19:08:12.790Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 이하나 기자] 마약 투약 혐의를 받는 배우 이선균이 마약류 간이 시약 검사에서 음성 판정을 받았다. 10월 28일 오후 인천경찰청 마약범죄수사계는 이선균을 소환해 마약류 관리에 관한 법률 위반 등 혐의를 조사했다. 마약 혐의가 불거진 지 10여일 만에 경찰서 포토라인에 선 이선균은 취재진에게 “이런 불미스러운 일에 연루돼 많은 분께 큰 실망감]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[전청조 출국금지, 사기 혐의 고소·고발 병합‥경찰 수사 본격화]]></title>
         <id>https://v.daum.net/v/20231029025243634</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231028231321159"/>
         <updated>2023-10-28T15:10:53.341Z</updated>
         <content type="html"><![CDATA[[티브이데일리 최하나 기자] ‘연인’ 안은진이 남궁민 때문에 지승현의 이혼 요구를 받아들였다. 28일 밤 방송된 MBC 금토드라마 ‘연인’ 16회에서 유길채(안은진)는 고생 끝에 한양에 돌아와 가족과 재회했다. 유영채(박은우)는 유길채에게 “청나라에서 오랑캐에게 몹쓸 짓을 당하지는 않았느냐”라고 물었다. 이에 경은애(이다인)는 유영채를 나무라며 “우리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['연인' 지승현, 안은진 의심 "오랭캐에게 당했느냐"]]></title>
-        <id>https://v.daum.net/v/20231028230406074</id>
-        <link href="https://v.daum.net/v/20231028230406074"/>
-        <updated>2023-10-28T14:09:04.105Z</updated>
-        <content type="html"><![CDATA[[티브이데일리 최하나 기자] ‘연인’ 안은진이 지승현의 의심을 받았다. 28일 방송된 MBC 금토드라마 ‘연인’ 16회에서 유길채(안은진)가 한양으로 돌아왔다. 한양으로 돌아온 유길채는 사람들의 모진 시선을 견뎌야 했다. 그러던 중 한 사람이 유길채에게 모욕을 줬고, 이에 유길채는 그 사람의 뺨을 때리며 맞섰다. 유길채를 의심하는 건 사람들 뿐만 아니]]></content>
     </entry>
 </feed>
