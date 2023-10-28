@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/variety</id>
     <title>다음 연예 ─ 뉴스 ─ 예능</title>
-    <updated>2023-10-28T07:10:06.630Z</updated>
+    <updated>2023-10-28T08:12:42.641Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['고개 숙인' 이선균, 시약 검사 '양성' 뜰까 "가족들에게 미안···많은 분들께 사과드린다"]]></title>
+        <id>https://v.daum.net/v/20231028165854685</id>
+        <link href="https://v.daum.net/v/20231028165854685"/>
+        <updated>2023-10-28T08:12:30.131Z</updated>
+        <content type="html"><![CDATA[[서울경제] 마약 투약 혐의를 받고 있는 배우 이선균이 시약 검사를 위해 경찰서에 방문했다. 28일 오후 4시 30분 경 마약 투약 혐의로 물의를 빚고 있는 이선균이 인천 논현 경찰서에 출두했다. 이날 이선균은 시약 검사를 통해 마약 투약 여부와 종류 및 횟수를 파악할 예정이다. 이날 현장에 나타난 이선균은 마약 혐의에 대해 언급했다. 먼저 그는 "이런]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[유재석 귀는 다르다..미주x박진주, 연말 음원차트 씹어먹겠네]]></title>
         <id>https://v.daum.net/v/20231028160922125</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231028131839387"/>
         <updated>2023-10-28T05:10:03.105Z</updated>
         <content type="html"><![CDATA[[뉴스엔 이민지 기자] 주주 시크릿이 신곡을 만났다. 10월 28일 방송되는 MBC ‘놀면 뭐하니?’에서 후보곡 중에 선택된 한 곡을 녹음하는 주주 시크릿(박진주&amp;이미주)의 모습이 공개된다. JS(유재석) 대표와 원탑 연습생 오빠들의 응원을 받으며 속전속결 녹음에 나선 것. 지난 방송에서 JS는 주주 시크릿이 제대로 활동을 하려면 다양한 장르의 추가]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[홍대 뉴진스 할배에 '물어보살' 성전환 父까지..엠넷 'VS' 기세 미쳤네]]></title>
-        <id>https://v.daum.net/v/20231028130120280</id>
-        <link href="https://v.daum.net/v/20231028130120280"/>
-        <updated>2023-10-28T04:12:27.825Z</updated>
-        <content type="html"><![CDATA[[OSEN=박소영 기자] 초대형 노래방 서바이벌&nbsp;‘VS(브이에스)’에서 막강 프로듀서 군단이 한자리에 모여 본격적인 인재 영업을 시작했다. 어제(27일)&nbsp;방송된&nbsp;Mnet&nbsp;초대형 노래방 서바이벌&nbsp;‘VS(브이에스)’(이하&nbsp;‘노래방&nbsp;VS’)에서는 참가자들의 운명이 걸린&nbsp;‘예약&nbsp;VS&nbsp;취소’&nbsp;미션으로 노래방 열풍을 이어가고 있는 가운데 한층 더 치열해진&nbsp;2차 미]]></content>
     </entry>
 </feed>
