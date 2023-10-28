@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-10-28T15:10:58.682Z</updated>
+    <updated>2023-10-28T16:12:22.086Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[조이현, 로운과 박력 포옹 “날 안은 여인은 처음”]]></title>
+        <id>https://v.daum.net/v/20231029010009518</id>
+        <link href="https://v.daum.net/v/20231029010009518"/>
+        <updated>2023-10-28T16:12:05.729Z</updated>
+        <content type="html"><![CDATA[[동아닷컴] [사진 제공= KBS ‘혼례대첩’]KBS2 새 월화드라마 ‘혼례대첩’ 로운과 조이현의 포옹이 포착됐다. ‘혼례대첩’(극본 하수진, 연출 황승기, 김수진)은 조선 시대 청상부마와 청상과부가 만나 원녀, 광부(조선시대 노처녀와 노총각을 이르는 말) ‘혼례 대작전’을 펼치는 고군분투 중매 코믹 멜로 드라마다. 이와 관련 로운과 조이현이 포옹을]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘충격 반전’ 엄기준=민영기, 아니었다..총 겨눈 윤태영 “너 누구야”]]></title>
+        <id>https://v.daum.net/v/20231029005328498</id>
+        <link href="https://v.daum.net/v/20231029005328498"/>
+        <updated>2023-10-28T16:12:05.730Z</updated>
+        <content type="html"><![CDATA[[OSEN=박하영 기자] ‘7인의 탈출’ 엄기준이 민영기가 아니었다. 28일 방영한 SBS 금토드라마 ‘7인의 탈출’(연출 주동민,&nbsp;극본 김순옥)에서는 강기탁(윤태영 분)이 매튜리(엄기준)가 아님을 알아채는 모습이 그려졌다. 이날 금라희(황정음 분)는 쓰러진 민도혁(이준 분)의 피를 닦고 있는 강기탁을 마주쳤다. 강기탁은 민도혁에게 “K(김도훈)가 그런]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['이혼'한 안은진,  /]]></title>
         <id>https://v.daum.net/v/20231029000654355</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20231028230016022"/>
         <updated>2023-10-28T14:08:51.211Z</updated>
         <content type="html"><![CDATA[박은빈이 부친의 가정폭력을 피해 바다에 투신, 무인도에서 성인이 됐다. 10월 28일 첫방송된 tvN 토일드라마 ‘무인도의 디바’ 1회(극본 박혜련, 은열/연출 오충환)에서 서목하(이레/박은빈 분)는 무인도에 고립됐다. 어린 서목하(이레/박은빈 분)는 가수 윤란주(김효진 분)의 열성 팬으로 라디오 전화 연결을 앞두고 핸드폰 배터리가 방전돼 정기호(문우]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[남궁민, 안은진과 재이별 "가서 꽃처럼 사시오"]]></title>
-        <id>https://v.daum.net/v/20231028230010018</id>
-        <link href="https://v.daum.net/v/20231028230010018"/>
-        <updated>2023-10-28T14:08:51.216Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 이효반 기자) 남궁민이 안은진과 또다시 이별했다. 28일 방송된 MBC '연인' 파트2 16회에는 이장현(남궁민 분)이 유길채(안은진)와 대화하는 모습이 담겼다. 이날 이장현은 "이젠 여기서 나랑 같이 있으면 안 될까? 여기가 싫거든 어디든, 당신이 원하는 곳으로"라고 애정을 드러냈다. 이어 "당신 남편은 당신을 버렸어, 당신이 심양에 있다는]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[첫방 '무인도의 디바' 박은빈, 가정폭력 피해 가출→배에서 투신→무인도 생활 시작]]></title>
-        <id>https://v.daum.net/v/20231028224730977</id>
-        <link href="https://v.daum.net/v/20231028224730977"/>
-        <updated>2023-10-28T14:08:51.218Z</updated>
-        <content type="html"><![CDATA[[TV리포트=이혜미 기자] 가정폭력을 피해 가출한 박은빈이 무인도에 조난당하는 신세가 됐다. 28일 tvN ‘무인도의 디바’ 첫 회에선 목하(박은빈 분)의 안타까운 성장기가 그려졌다. 어린 목하와 그 친구 기호(문우진 분)의 공통점은 가정폭력의 피해자라는 것. 가수의 꿈을 꾸던 목하는 노래 대회에서 1등을 하고도 섬을 떠날 수 없는 자신의 처지를 비관했다.]]></content>
     </entry>
 </feed>
