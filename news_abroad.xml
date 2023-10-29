@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-10-29T06:14:13.766Z</updated>
+    <updated>2023-10-29T07:09:45.245Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[테일러 스위프트, 새 남친과 벌써 자녀 계획..."내년쯤 생각"]]></title>
+        <id>https://v.daum.net/v/20231029160730228</id>
+        <link href="https://v.daum.net/v/20231029160730228"/>
+        <updated>2023-10-29T07:09:44.383Z</updated>
+        <content type="html"><![CDATA[[TV리포트=이수연 기자] 팝스타 테일러 스위프트와 미식축구 선수 트래비스 켈시의 관계가 더욱 깊어지고 있다. 두 사람이 벌써 미래에 대해 논의했다는 전언이다. 28일(현지 시간) 미국 매거진 라이프 앤 스타일은 한 소식통의 말을 빌려 "두 사람은 이미 미래에 대한 계획을 세우고 있다. 심지어 자녀 계획에 대해서도 언급했다. 트래비스는 내년에 자녀를 갖길]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘프렌즈’ 매튜 페리 충격 사망, “천재적인 코미디 연기 전세계에 영향” 애도 물결]]></title>
         <id>https://v.daum.net/v/20231029130132268</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231029080026079"/>
         <updated>2023-10-28T23:10:18.758Z</updated>
         <content type="html"><![CDATA[[OSEN=선미경 기자] 8년 연인을 잃은 배우 산드라 블록이 남자친구의 죽음 이후 처음으로 포착됐다. 27일(현지시각) 외신은 산드라 블록이 지난 목요일 미국 로스앤젤레스에서 딸 라일라, 보디가드와 함께 걷는 모습이 목격됐다고 보도했다. 보도에 따르면 산드라 블록은 나들이 내내 손을 꼭 잡고 차분한 분위기를 보였다. 또 산드라 블록은 어느 시점에는 딸]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[브리트니 스피어스, 아빠에 이어 매니저한테도 통제받아…"포로 같았다"]]></title>
-        <id>https://v.daum.net/v/20231028161300145</id>
-        <link href="https://v.daum.net/v/20231028161300145"/>
-        <updated>2023-10-28T08:12:41.658Z</updated>
-        <content type="html"><![CDATA[[TV리포트=이수연 기자] 팝스타 브리트니 스피어스의 회고록이 공개된 후 그의 폭로로 온라인이 연일 뜨거운 가운데, 새로운 폭로가 추가됐다. 방송인 앤디 코헨(55)은 최근 자신의 라디오 쇼에서 2013년 브리트니 스피어스와 인터뷰를 나눈 것을 회상하며 그가 포로처럼 보였다고 주장했다. 당시 브리트니 스피어스는 후견인 제도 하에 부친인 제이미 스피어스의 통]]></content>
     </entry>
 </feed>
