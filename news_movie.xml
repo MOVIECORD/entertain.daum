@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-10-29T08:12:52.774Z</updated>
+    <updated>2023-10-29T09:11:08.115Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['이두나!' 말고 배두나, 박찬욱·봉준호가 사랑한]]></title>
+        <id>https://v.daum.net/v/20231029175003045</id>
+        <link href="https://v.daum.net/v/20231029175003045"/>
+        <updated>2023-10-29T09:10:45.746Z</updated>
+        <content type="html"><![CDATA[지금은 화제작으로 빵 뜬 스타. '대박 조짐'은 스타의 필모그래피를 따라가보며 언제부터 '뜰 조짐'이 보였는지, 인생작을 만나기까지 어떤 과정을 지나왔는지 되짚어봅니다. [편집자주] (엑스포츠뉴스 이예진 기자) 필모그래피가 대단하다. 박찬욱, 봉준호, 고레에다 히로카즈, 워쇼스키 자매 등 국내외 거장들과 함께 작업하며 25년을 쉴 틈 없이 달렸]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[송은이 "영화의 역할에 대한 고민 담아 만든 작품" 영화 제작자로 변신한 소감]]></title>
         <id>https://v.daum.net/v/20231029161245342</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231029080001033"/>
         <updated>2023-10-28T23:09:58.012Z</updated>
         <content type="html"><![CDATA[[스타뉴스 | 김나연 기자] 박혜수 / 사진=필름영 / 그린나래미디어배우 박혜수가 배우라는 수식어가 주는 책임감과 무게감이 크다고 밝히며 더 좋은 연기를 보여주고 싶다는 의지를 보였다. 자신을 둘러싼 학폭(학교폭력) 논란에 대해서는 "거짓을 바로잡을 것"이라고 자신했다. 최근 서울시 종로구 스타뉴스 사옥에서 영화 '너와 나'(감독 조현철)의 박혜수와 만]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이준영, 용기·눈물로 완성한 '역대급 악역']]></title>
-        <id>https://v.daum.net/v/20231029000125330</id>
-        <link href="https://v.daum.net/v/20231029000125330"/>
-        <updated>2023-10-28T15:10:38.299Z</updated>
-        <content type="html"><![CDATA['용감한 시민'서 절대권력 한수강 역 맡아 열연 "별개의 인격을 가진 다른 차원의 인물로 생각…맛있게 욕먹을 것" [더팩트｜박지윤 기자] 최근 출연하는 작품마다 화제를 모으고 있는 배우 이준영이 악의 정점을 찍고 돌아왔다. 전사도, 서사도 없는 악역에 용기를 낸 그는 이번에도 제대로 돌아버린 눈을 장착한 채 스크린에서 대체 불가한 존재감을 보여줬다. 이]]></content>
     </entry>
 </feed>
