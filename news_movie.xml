@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-10-29T00:49:51.214Z</updated>
+    <updated>2023-10-29T01:51:35.779Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['프렌즈' 매튜 페리, 자택서 익사 상태로 발견..향년 54세]]></title>
+        <id>https://v.daum.net/v/20231029104751200</id>
+        <link href="https://v.daum.net/v/20231029104751200"/>
+        <updated>2023-10-29T01:51:12.079Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 | 안윤지 기자] 매튜 페리 / 사진=AFPBBNews=뉴스1=스타뉴스미국 드라마 '프렌즈'에 출연해 이름을 알린 배우 매튜 페리가 사망했다. 향년 54세. 28일(현지시간) TMZ 등 현지 언론에 따르면 매튜 페리는 미국 LA 자택 욕조에서 익사 상태로 발견됐다. 경찰은 심장마비 신고를 받고 출동했으나 그는 이미 숨을 거둔 상태였다. 현장]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘30일’ 정소민 “20대→30대로 재회한 강하늘, 동성 친구 같아”]]></title>
+        <id>https://v.daum.net/v/20231029103000985</id>
+        <link href="https://v.daum.net/v/20231029103000985"/>
+        <updated>2023-10-29T01:51:12.093Z</updated>
+        <content type="html"><![CDATA[영화 ‘30일’은 정소민에게 도전이었다. 각본과 연출을 맡은 남대중 감독에게 은퇴작이라는 말까지 들었을 정도니 말이다. 반면 정소민은 “나한테 온 모든 작품이 소중하다. 주변에서 재밌다는 말을 많이 듣고 있다”며 다부지게 답했다. 정소민이 출연한 ‘30일’은 서로의 찌질함과 똘기를 견디다 못해 마침내 남남이 되기 직전 동반기억상실증에 걸려버린 정열(강하]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["고통 감내 중인 가족"…이선균, 마약 논란 열흘만에 사과→혐의 진술은 거부]]></title>
         <id>https://v.daum.net/v/20231029093641127</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20231028140001667"/>
         <updated>2023-10-28T05:09:51.410Z</updated>
         <content type="html"><![CDATA[[스타뉴스 | 김나연 기자] 영화 '오픈 더 도어'의 제작자 송은이, 장항준 감독이 25일 진행된 인터뷰를 위해 포즈를 취하고 있다.  '오픈 더 도어'는 미국 뉴저지 한인 세탁소 살인 사건 이후 7년, 비밀의 문을 열어버린 한 가족의 숨겨진 진실을 그린 미스터리 심리 스릴러다. /사진제공=컨텐츠랩비보 2023.10.25 /사진=이동훈장항준 감독, 제작자]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“충무로의 부활 위해” 서울충무로영화제 27일 개막]]></title>
-        <id>https://v.daum.net/v/20231028133916518</id>
-        <link href="https://v.daum.net/v/20231028133916518"/>
-        <updated>2023-10-28T05:09:51.411Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 이민지 기자] "충무로의 부활을 기대해 주세요" 중구문화재단 충무아트센터(사장 조세현)와 한국영화인총연합회(회장 양윤호)가 주최·주관하는 '제12회 서울충무로영화제'가 10월 27일 충무아트센터에서 진행된 개막됐다. 방송인 김성경이 MC를 맡은 개막식에는 배우 이순재, 장광, 박성웅, 오지호, 차예련, 황정음, 함은정, 조미녀, 이장호 감독 등]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[미야자키 하야오 신작 '그대들은 어떻게 살 것인가' 3일째 1위]]></title>
-        <id>https://v.daum.net/v/20231028131642376</id>
-        <link href="https://v.daum.net/v/20231028131642376"/>
-        <updated>2023-10-28T05:09:51.411Z</updated>
-        <content type="html"><![CDATA[[스포츠한국 조은애 기자] '그대들은 어떻게 살 것인가'가 3일째 박스오피스 선두를 달렸다. 28일 영화진흥위원회 영화관입장권 통합전산망 집계에 따르면 '그대들은 어떻게 살 것인가'는 전날&nbsp;13만672명의 관객을 동원해 박스오피스 1위를 차지했다. 누적 관객 수는&nbsp;47만9980명이다. '그대들은 어떻게 살 것인가'는 일본 애니메이션 거장 미야자키]]></content>
     </entry>
 </feed>
