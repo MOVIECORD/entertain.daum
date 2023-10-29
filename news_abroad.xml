@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-10-29T21:09:30.840Z</updated>
+    <updated>2023-10-29T22:09:34.273Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[만인의 친구 ‘프렌즈’ 매튜 페리, “형제를 잃었다” 동료배우들도 깊은 상실감]]></title>
+        <id>https://v.daum.net/v/20231030064729619</id>
+        <link href="https://v.daum.net/v/20231030064729619"/>
+        <updated>2023-10-29T22:09:33.435Z</updated>
+        <content type="html"><![CDATA[[스포츠서울 | 박효실기자] 장장 10년간 방송되며 전세계적으로 사랑받은 NBC 전설의 시트콤 ‘프렌즈’의 매튜 페리가 54세의 젊은 나이로 갑작스런 사망 소식을 전한 가운데, 수십년간 돈독한 우정을 이어온 동료 배우들도 상실감에 빠졌다. 페이지식스는 29일(현지시간) 소식통의 말을 빌려 “출연 배우들은 매튜 페리의 죽음을 애도하는 공동 성명을 준비하]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[디즈니, '백설공주' 논란 의식했나…'난쟁이 CG 추가+개봉일 1년 연기']]></title>
         <id>https://v.daum.net/v/20231029224330876</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231029120047484"/>
         <updated>2023-10-29T03:11:48.572Z</updated>
         <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]인기 시트콤 ‘프렌즈’의 매튜 페리가(54)가 자택에서 익사로 세상을 떠난 가운데 그가 사망 5일전 소셜미디어에 올린 게시물이 주목받고 있다. 페리는 지난 23일 소셜미디어에 인피니티 풀에 누워 있는 자신의 모습을 담은 섬뜩한 사진을 공유했다. 그는 "따뜻한 물이 소용돌이치면 기분이 좋아지나요? 저는 매트맨입니다"라고]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['프렌즈' 매튜 페리, 욕조서 사망…향년 54세]]></title>
-        <id>https://v.daum.net/v/20231029114304190</id>
-        <link href="https://v.daum.net/v/20231029114304190"/>
-        <updated>2023-10-29T03:11:48.573Z</updated>
-        <content type="html"><![CDATA[[스포츠조선 정빛 기자] 미국 시트콤 '프렌즈'의 챈들러 빙 역할로 인기를 모았던 배우 매튜 페리가 세상을 떠났다. LA타임스, CNN 등 현지 매체에 따르면 매튜 페리는 28일(현지 시각) 미국 캘리포니아 로스앤젤레스(LA)의 자택에서 숨진 채 발견됐다. 향년 54세. LA 경찰 당국은 오후 4시쯤 "심장마비 환자가 있다"는 신고를 받고]]></content>
     </entry>
 </feed>
