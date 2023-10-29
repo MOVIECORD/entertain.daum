@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/variety</id>
     <title>다음 연예 ─ 뉴스 ─ 예능</title>
-    <updated>2023-10-29T04:12:32.214Z</updated>
+    <updated>2023-10-29T05:10:23.243Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[전현무 “연인 간 금전 거래? 절대 안 돼”]]></title>
+        <id>https://v.daum.net/v/20231029132056552</id>
+        <link href="https://v.daum.net/v/20231029132056552"/>
+        <updated>2023-10-29T05:10:12.048Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 배효주 기자] 전현무가 ‘트바로티’ 김호중 같은 스타일의 사윗감을 요청하는 어머니 등장에 놀라움을 금치 못한다. 10월 29일 방송되는 KBS 2TV ‘사장님 귀는 당나귀 귀’에서 결혼정보회사 대표 성지인 보스가 딸의 사윗감 조건에 있어 취향이 달라도 너무 다른 모녀 상담에 대한 고충을 털어놓는다. 어머니의 취향은 트로트 가수 김호중이고 딸의 취]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['놀면 뭐하니' 유재석, 대성→김종민 원탑 '입덕몰이' 보컬 찾기]]></title>
         <id>https://v.daum.net/v/20231029131006403</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231029111621783"/>
         <updated>2023-10-29T02:20:10.481Z</updated>
         <content type="html"><![CDATA[[OSEN=유수연 기자] 배우 안소영이 남동생과의 우애를 자랑했다. 29일 방송된 KBS1 '박원숙의 같이 삽시다'에서는&nbsp;경북 안동 하회마을을 찾은 박원숙, 혜은이, 안소영, 안문숙 네 자매의 모습이 그려졌다. 이날 안문숙은 "오늘 끝나고 약속 있으시냐"라며 등이 훤히 보이는 안소영의 의상을 언급, 안소영은 "이거 안 어울리냐"라며 탄탄한 등을 자랑해]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['뭉쳐야 찬다 3' 안정환 감독, 조기축구 A매치 데뷔전]]></title>
-        <id>https://v.daum.net/v/20231029111206702</id>
-        <link href="https://v.daum.net/v/20231029111206702"/>
-        <updated>2023-10-29T02:20:10.483Z</updated>
-        <content type="html"><![CDATA[[티브이데일리 김진석 기자] 안정환 감독이 파격적인 용병술로 조기축구 A매치 첫 승을 노린다. 29일 방송될 JTBC 예능프로그램 '뭉쳐야 찬다 3'에서는 한국 어쩌다벤져스와 일본 일레븐 스타즈의 조기축구 한일전이 펼쳐진다. 한일전은 반드시 이겨야 되는 경기인만큼 선발 라인업이 궁금해지는 가운데 안정환 감독이 모두의 예상을 깨고 박준용을 원톱 스트라이커로]]></content>
     </entry>
 </feed>
