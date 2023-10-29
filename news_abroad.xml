@@ -2,11 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-10-29T13:12:01.640Z</updated>
+    <updated>2023-10-29T14:09:27.435Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[故아론 카터, 익사 1년만에 의사 고소..2세 아들 대리 소송]]></title>
+        <title type="html"><![CDATA[디즈니, '백설공주' 논란 의식했나…'난쟁이 CG 추가+개봉일 1년 연기']]></title>
+        <id>https://v.daum.net/v/20231029224330876</id>
+        <link href="https://v.daum.net/v/20231029224330876"/>
+        <updated>2023-10-29T14:09:26.692Z</updated>
+        <content type="html"><![CDATA[[TV리포트=이예은 기자] 디즈니가 실사판 영화 '백설공주'의 첫 스틸컷을 공개한 가운데, 개봉 예정일이 2024년 3월에서 2025년 3월로 연기됐다.&nbsp; 28일 디즈니 애니메이션 프로모션 공식 계정은 소셜네트워크서비스를 통해 디즈니 실사판 영화 '백설공주'의 첫 스틸컷을 공개했다.&nbsp; 사진 속 정중앙에는 주인공인 백설공주로 분한 배우 레이첼 지글러와 7명의]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[故아론 카터, 익사 1년만에 의사 고소..2세 아들이 대리 소송]]></title>
         <id>https://v.daum.net/v/20231029221023703</id>
         <link href="https://v.daum.net/v/20231029221023703"/>
         <updated>2023-10-29T13:12:00.685Z</updated>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231029114304190"/>
         <updated>2023-10-29T03:11:48.573Z</updated>
         <content type="html"><![CDATA[[스포츠조선 정빛 기자] 미국 시트콤 '프렌즈'의 챈들러 빙 역할로 인기를 모았던 배우 매튜 페리가 세상을 떠났다. LA타임스, CNN 등 현지 매체에 따르면 매튜 페리는 28일(현지 시각) 미국 캘리포니아 로스앤젤레스(LA)의 자택에서 숨진 채 발견됐다. 향년 54세. LA 경찰 당국은 오후 4시쯤 "심장마비 환자가 있다"는 신고를 받고]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BTS RM이 영어공부했던 ‘프렌즈’ 주역 매튜 페리, 집안 자쿠지서 익사…‘마약·살인 정황無’]]></title>
-        <id>https://v.daum.net/v/20231029113845113</id>
-        <link href="https://v.daum.net/v/20231029113845113"/>
-        <updated>2023-10-29T03:11:48.574Z</updated>
-        <content type="html"><![CDATA[[스포츠서울 | 유다연인턴기자] 인기 미드 ‘프렌즈’(Friends)의 챈들러로 사랑받은 배우 매튜 페리가54세의 젊은 나이에 숨을 거뒀다. 미국 연예매체 TMZ는 28일(현지시각) 페리가 이날 오후 미국 로스앤젤레스 자택 내 자쿠지에서 숨진 채 발견됐다고 보도했다. 해당 소식통은 페리의 심장마비 신고를 받고 급히 달려간 뒤 자쿠지에서 익사한 페리를]]></content>
     </entry>
 </feed>
