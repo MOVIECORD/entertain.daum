@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-10-30T19:08:51.917Z</updated>
+    <updated>2023-10-30T21:09:31.282Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[박은빈, 또 인생캐릭터 경신했다...'디바 도전기'에 호평 일색]]></title>
+        <id>https://v.daum.net/v/20231031060501552</id>
+        <link href="https://v.daum.net/v/20231031060501552"/>
+        <updated>2023-10-30T21:09:13.501Z</updated>
+        <content type="html"><![CDATA[[TV리포트=이경민 기자] 배우 박은빈이 '무인도의 디바'의 첫 단추를 성공적으로 성공적으로 꿰었다. 지난 28일 첫 방송된 tvN 새 토일드라마 '무인도의 디바'에서 주인공 박은빈이 열연을 펼치며 안방극장에 웃음과 감동을 안겼다. '무인도의 디바'는 15년 만에 무인도에서 구조된 가수 지망생 서목하(박은빈 분)의 디바 도전기를 그린 드라마다. 1화 말미]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[로운, ♥조이현과 첫 만남에 진짜 '심쿵'..“나는 너에게 반했다” 고백]]></title>
         <id>https://v.daum.net/v/20231030232228017</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231030202621467"/>
         <updated>2023-10-30T12:19:52.728Z</updated>
         <content type="html"><![CDATA[[뉴스엔 하지원 기자] 디즈니+ 오리지널 시리즈 ‘최악의 악’이 “K-느와르의 진수”라는 호평 속에 대단원의 막을 내렸다. 카카오엔터테인먼트는 산하 자회사인 바람픽쳐스, 사나이픽처스와 함께 제작한 ‘최악의 악’을 글로벌 메가 히트IP 라인업에 또하나의 성공 케이스로 추가하며, 글로벌 스튜디오로서 위상을 더욱 공고히 하고 있다. 지난 9월 첫 공개된 ‘최악]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[로운 "돌싱 역할 부담 NO…이 나이에 언제 해 보겠나"]]></title>
-        <id>https://v.daum.net/v/20231030185010276</id>
-        <link href="https://v.daum.net/v/20231030185010276"/>
-        <updated>2023-10-30T10:11:53.852Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 윤현지 기자) 배우 로운, 조이현이 '혼례대첩' 출연 계기에 대해 이야기했다. 30일 오후 서울 신도림 더 세인트에서 KBS 2TV 새 월화드라마 '혼례대첩'의 제작발표회가 열렸다. 현장에는 배우 로운, 조이현과 황승기 감독이 함께했다. '혼례대첩'은 선 시대 청상부마와 청상과부가 만나 원녀, 광부(조선시대 노처녀와 노총각을 이르는 말) '혼]]></content>
     </entry>
 </feed>
