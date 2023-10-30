@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-10-30T01:48:58.217Z</updated>
+    <updated>2023-10-30T02:20:09.185Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[최현욱, 가장 먼저 위혐에 삐지는 정다빈 도울까 '걱정 눈빛']]></title>
+        <id>https://v.daum.net/v/20231030105215329</id>
+        <link href="https://v.daum.net/v/20231030105215329"/>
+        <updated>2023-10-30T02:19:52.358Z</updated>
+        <content type="html"><![CDATA[[OSEN=최나영 기자]&nbsp;지난주 예측불가 스토리로 화제를 모은 '하이쿠키'(기획: STUDIO X+U I제작: 아크미디어 l 공동제작: 몬스터유니온, STUDIO X+U l 극본: 강한 l 연출: 송민엽)가 에피소드&nbsp;5-6 스틸을 공개했다. U+모바일tv 오리지널 '하이쿠키'는 한입만 먹어도 욕망을 실현시켜 주는 의문의 수제&nbsp;쿠키가 엘리트 고등학교를 집]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['최악의 악', 올해 韓작품 IMDb 평점 1위…언더커버 누아르 새 지평 열었다]]></title>
         <id>https://v.daum.net/v/20231030103733709</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231030090520932"/>
         <updated>2023-10-30T00:47:34.766Z</updated>
         <content type="html"><![CDATA[[뉴스엔 김명미 기자] 워터멜론 슈가 데뷔의 데뷔가 임박했다. tvN 월화드라마 ‘반짝이는 워터멜론’(극본 진수완, 연출 손정현, 유범상, 기획 스튜디오드래곤, 제작 팬엔터테인먼트) 11회에서는 밴드 워터멜론 슈가의 성공적인 데뷔를 위해 은결(려운 분), 이찬(최현욱 분), 은유(설인아 분), 청아(신은수 분)가 의기투합한다. 이찬은 청아가 좋아하는 화가]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[려운-최현욱, 청춘 밴드 워터멜론 슈가 데뷔 임박]]></title>
-        <id>https://v.daum.net/v/20231030090500913</id>
-        <link href="https://v.daum.net/v/20231030090500913"/>
-        <updated>2023-10-30T00:47:34.769Z</updated>
-        <content type="html"><![CDATA[[OSEN=유수연 기자] 려운과 최현욱의 밴드 데뷔가 임박한다. tvN&nbsp;월화드라마&nbsp;‘반짝이는 워터멜론’(극본 진수완,&nbsp;연출 손정현,&nbsp;유범상,&nbsp;기획 스튜디오드래곤,&nbsp;제작 팬엔터테인먼트) 11회에서는 밴드 워터멜론 슈가의 성공적인 데뷔를 위해 은결(려운 분),&nbsp;이찬(최현욱 분),&nbsp;은유(설인아 분),&nbsp;청아(신은수 분)가 의기투합한다. 이찬은 청아가 좋아하는]]></content>
     </entry>
 </feed>
