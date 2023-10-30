@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2023-10-30T18:14:04.270Z</updated>
+    <updated>2023-10-30T19:08:51.919Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[수지 “나도 아이돌 출신, 두나의 외로움·상처 공감”]]></title>
+        <id>https://v.daum.net/v/20231031040446285</id>
+        <link href="https://v.daum.net/v/20231031040446285"/>
+        <updated>2023-10-30T19:08:45.833Z</updated>
+        <content type="html"><![CDATA[평범한 대학생 이원준(양세종)이 사는 셰어하우스에는 K팝 아이돌 드림스윗의 리더였던 이두나(수지)가 산다. 처음에는 자신을 ‘사생’(사생활을 캐는 극성팬)이라고 부르며 노려보던 여자는 어느 날부터 집 앞에서 그를 기다린다. “원준아, 밥 먹자!”며 다가오는 두나가 어딘가 신경 쓰인다. 상처도 많고 쓸쓸해 보이는 두나를 지켜주고 싶다는 마음이 생긴다. 지난]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[권상우, 팔뚝에 ♥손태영 이름 타투 “몇 개월간 욕먹어”]]></title>
         <id>https://v.daum.net/v/20231031010040767</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231030234823161"/>
         <updated>2023-10-30T15:11:54.239Z</updated>
         <content type="html"><![CDATA[[스포츠서울 | 김태형기자] 손범수, 진양혜 부부가 처음 프러포즈를 했던 때를 떠올렸다. 30일 방송된 SBS ‘동상이몽 2 - 너는 내 운명’에는 새롭게 합류한 결혼 30년 차 아나운서 손범수, 진양혜 부부의 결혼 생활이 그려졌다. 일상 공개를 앞두고 아나운서 선후배 관계에서 결혼에 골인하기까지의 과정이 밝혀졌다. 손범수는 “고백을 하려던]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[진양혜, ♥손범수 프러포즈 최악 "미친 거 아니냐고 바로 거절"]]></title>
-        <id>https://v.daum.net/v/20231030234701153</id>
-        <link href="https://v.daum.net/v/20231030234701153"/>
-        <updated>2023-10-30T15:11:54.246Z</updated>
-        <content type="html"><![CDATA[[TV리포트=이지민 기자] '동상이몽 2' 아나운서 출신 방송인 손범수, 진양혜 부부가 열애 스토리를 밝혔다. 30일 SBS '동상이몽 2 - 너는 내 운명'에서는 새로운 운명 부부로 합류한 결혼 30년 차 아나운서 손범수, 진양혜의 결혼 생활이 공개됐다. 이날 방송에서 손범수와 진양혜가 등장해 고급스러운 딕션과 멘트로 감탄을 자아냈다. 이들은 무려 결]]></content>
     </entry>
 </feed>
