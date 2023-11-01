@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-11-01T01:53:19.374Z</updated>
+    <updated>2023-11-01T02:23:10.857Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[살인범 누명 쓴 세 소년, 한 형사가 눈치챈 진실]]></title>
+        <id>https://v.daum.net/v/20231101111803020</id>
+        <link href="https://v.daum.net/v/20231101111803020"/>
+        <updated>2023-11-01T02:22:47.187Z</updated>
+        <content type="html"><![CDATA[[장혜령 기자] ▲ &nbsp;영화 &lt;소년들&gt; 스틸컷ⓒ CJ ENM&nbsp; 영화 &lt;소년들&gt;은 영문도 모른 채 한순간에 살인범으로 지목된 세 소년의 잃어버린 세월의 이면을 들여다본다. 실화를 바탕으로 한국 사회의 문제점을 다뤄온 정지영 감독이 여러 차례 보도된 바 있는 삼례나라슈퍼 사건을 극적 허구로 버무려 낸 영화다. 진범은 따로 있는데 살인자가 된 소년들 1999년 전]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[영원한 따거 주윤발의 따뜻한 ‘원 모어 찬스’]]></title>
         <id>https://v.daum.net/v/20231101104812465</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231101091407278"/>
         <updated>2023-11-01T00:50:16.738Z</updated>
         <content type="html"><![CDATA[[티브이데일리 최하나 기자] 영화 ‘그대들은 어떻게 살 것인가’가 박스오피스 1위를 기록했다. 1일 영화진흥위원회 통합전산망에 따르면 ‘그대들은 어떻게 살 것인가’(감독 미야자키 하야오)가 지난 31일 5만6021명의 관객을 동원하며 박스오피스 1위를 기록했다. 누적 관객수는 106만3666명이다. ‘그대들은 어떻게 살 것인가’는 시간과 공간을 초월한 신]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘스위트홈’ 시즌2, 12월 1일 공개 확정]]></title>
-        <id>https://v.daum.net/v/20231101091334263</id>
-        <link href="https://v.daum.net/v/20231101091334263"/>
-        <updated>2023-11-01T00:50:16.739Z</updated>
-        <content type="html"><![CDATA[넷플릭스 ‘스위트홈’ 시즌2가 12월 1일 공개를 확정했다. 넷플릭스는 ‘스위트홈’ 시즌2 공개 날짜를 알림과 동시에 런칭 포스터와 런칭 예고편을 함께 공개했다. 런칭 포스터는 시즌1의 배경이었던 그린홈을 벗어나 파괴된 야구 스타디움을 보여준다. 시즌1에서 괴물과 사투를 벌어야 했던 주민들은 더 이상 그린홈에서 버티지 못하고 세상 밖으로 나온다. 도]]></content>
     </entry>
 </feed>
