@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-11-02T10:12:25.440Z</updated>
+    <updated>2023-11-02T11:10:24.632Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[강율 "우아한 제국 접수해 한지완에 돌려줄 것"]]></title>
+        <id>https://v.daum.net/v/20231102200734710</id>
+        <link href="https://v.daum.net/v/20231102200734710"/>
+        <updated>2023-11-02T11:10:06.422Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 이효반 기자) 강율이 목표를 밝혔다. 2일 방송된 KBS 2TV '우아한 제국' 50회에서는 나승필(이상보 분)이 정우혁(강율)과 대화하는 모습이 담겼다. 이날 나승필은 정우혁에게 "너 정캐피탈 후계자라며"라고 최근 알게 된 사실을 언급했다. 이에 정우혁은 "아, 뭐 그렇게 됐어요"라며 차분히 반응해 나승필을 놀라게 했다. 그는 본인도 모르는]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['세 번째 결혼' 오세영, 문지후와 불륜 계속...'임신' 오승아에 폭로하나]]></title>
+        <id>https://v.daum.net/v/20231102195100393</id>
+        <link href="https://v.daum.net/v/20231102195100393"/>
+        <updated>2023-11-02T11:10:06.422Z</updated>
+        <content type="html"><![CDATA[[TV리포트 = 하수나 기자] 오세영이 이별을 고민하는 문지후에게 가정이 깰 생각이 없다고 말하며 불륜관계를 이어갔다.&nbsp; 2일 MBC 일일드라마 ‘세 번째 결혼’에선 강세란(오세영 분)이 백상철(문지후 분)과의 관계를 정다정(오승아 분)에게 폭로하려는 모습이 그려졌다.&nbsp; 강세란은 복수심에 친구 정다정의 남편 백상철을 유혹해 불륜관계를 이어가고 있는 상황.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[예쁜데 연기에 노래도 잘하는..수지가 다한 '이두나!']]></title>
         <id>https://v.daum.net/v/20231102191019518</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20231102155325018"/>
         <updated>2023-11-02T07:12:08.181Z</updated>
         <content type="html"><![CDATA[[뉴스엔 박수인 기자] '비질란테'가 4인 4색 캐릭터 영상을 공개했다. 오는 11월 8일 첫 공개되는 디즈니+의 오리지널 시리즈 '비질란테'는 낮에는 법을 수호하는 모범 경찰대생이지만, 밤이면 법망을 피한 범죄자들을 직접 심판하는 ‘비질란테’로 살아가는 김지용과 그를 둘러싸고 각기 다른 목적을 가진 사람들이 치열하게 맞서는 액션 스릴러. 이번에 공개된]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이선균 'Dr. 브레인' 후속 불발 NO! "어떤 형태로든 만들려 한다…기획·개발하는 과정中"]]></title>
-        <id>https://v.daum.net/v/20231102152301799</id>
-        <link href="https://v.daum.net/v/20231102152301799"/>
-        <updated>2023-11-02T07:12:08.194Z</updated>
-        <content type="html"><![CDATA[[텐아시아=최지예 기자]배우 이선균이 주연을 받았던 드라마 'Dr. 브레인' 관련 콘텐츠가 나올 가능성은 여전히 존재한다. 한 드라마 관계자는 2일 'Dr. 브레인' 시즌2 불발 관련 보도와 관련 텐아시아에 "시즌2라고 표현할지 아닐지는 다른 해석이 있을 수 있겠지만 'Dr. 브레인'이라는 콘텐츠는 어떤 형태로든 후속 작품이 나올 수 있다는 가능성 아래]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박은빈 “운동하면 3일 동안 아파, 핑계일지 모르겠지만…”]]></title>
-        <id>https://v.daum.net/v/20231102145836653</id>
-        <link href="https://v.daum.net/v/20231102145836653"/>
-        <updated>2023-11-02T06:14:21.178Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 하지원 기자] 배우 박은빈이 운동 고민을 고백했다. 11월 1일 넷플릭스 코리아 채널에는 '귀여워 삼행시 장인 박은빈의 비밀 상담소 무인도의 디바'라는 제목의 영상이 게재됐다. 영상에서 박은빈은 최근 고민에 대해 "누워있는 걸 좋아하는 사람이라고 알려져 있긴 하지만, 마냥 또 그렇게 널브러져 있지는 않다"며 "운동을 해야 한다는 생각은 항상 갖고]]></content>
     </entry>
 </feed>
