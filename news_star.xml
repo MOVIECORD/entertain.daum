@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2023-11-02T18:13:29.283Z</updated>
+    <updated>2023-11-02T19:09:04.216Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['꼬꼬무' KAL858 폭파 사건…살아있는 블랙박스 김현희와 성의가 없어 놓친 블랙박스]]></title>
+        <id>https://v.daum.net/v/20231103040301965</id>
+        <link href="https://v.daum.net/v/20231103040301965"/>
+        <updated>2023-11-02T19:08:58.015Z</updated>
+        <content type="html"><![CDATA[[SBS연예뉴스 | 김효정 에디터] 반드시 기억해야 할 100번째 그날이 공개됐다. 2일 방송된 SBS '꼬리에 꼬리를 무는 그날 이야기'(이하 '꼬꼬무')에서는 '공작1987 - 살아있는 블랙박스'이라는 부제로 KAL858기 폭파 사건이 일어난 그날을 조명했다. 1987년 12월, 대한항공 858기가 버마 랭군 상공에서 실종됐다. 그리고 해당 여객기에는]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘하이쿠키’ 남지현, 최수영 캐릭터로 놀라운 연기 변신]]></title>
+        <id>https://v.daum.net/v/20231103034744929</id>
+        <link href="https://v.daum.net/v/20231103034744929"/>
+        <updated>2023-11-02T19:08:58.015Z</updated>
+        <content type="html"><![CDATA[배우 남지현의 새 얼굴이 시청자들 이목을 사로잡고 있다. 지난달 23일 공개된 U+모바일tv 오리지널 드라마 ‘하이쿠키’(극본 강한, 연출 송민엽)는 한 입만 먹어도 자신의 욕망을 실현시켜주는 의문의 수제 쿠키가 엘리트 고등학교를 집어 삼키면서 벌어지는 이야기로, 남지현은 극 중 하나뿐인 동생만을 바라보며 살아가는 소녀 가장 최수영 역을 맡았다. 개]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[라이즈 원빈 애교 폭발…"팬들 앞에서 돌변한다"]]></title>
         <id>https://v.daum.net/v/20231103022407632</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20231102235234909"/>
         <updated>2023-11-02T15:11:19.914Z</updated>
         <content type="html"><![CDATA[‘나솔사계’ 10기 영철이 현숙과 잠시 이별했었다고 밝혀 눈길을 끌었다. 2일 방송된 SBS Plus, ENA 예능 ‘나는 솔로, 그 후 사랑은 계속된다’(이하 ‘나솔사계’)에서는 10기 현숙과 영철의 근황이 공개됐다. 함께 장을 본 두 사람은 글램핑장으로 데이트를 떠났다. 현숙은 영철에게 “나 궁금한 게 있다. 나를 향한 마음을 되찾았나. 마음이 안]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[덱스 "올라운더 되는 것이 목표...연기도 기회되면 해보고파"]]></title>
-        <id>https://v.daum.net/v/20231102235000894</id>
-        <link href="https://v.daum.net/v/20231102235000894"/>
-        <updated>2023-11-02T15:11:19.916Z</updated>
-        <content type="html"><![CDATA[[TV리포트 = 하수나 기자] 대세 방송인 덱스가 올라운더가 되는 것이 목표라고 털어놨다.&nbsp; 2일 유튜브 채널 ‘공부왕찐천재 홍진경’에선 ‘덱스vs규현vs한해 술 마시고 역대급 노래 대결 최초공개(+덱스 술버릇)’이라는 제목의 영상이 업로드 됐다.&nbsp; 영상에선 덱스, 규현, 한해가 ‘솔로지옥’에서 호흡을 맞췄던 홍진경과 함께 토크를 펼치는 모습이 담겼다. 홍]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[71호 애프터스쿨 레이나 "나의 노래 들려주고파"…'올어게인' 진출]]></title>
-        <id>https://v.daum.net/v/20231102233546827</id>
-        <link href="https://v.daum.net/v/20231102233546827"/>
-        <updated>2023-11-02T15:11:19.919Z</updated>
-        <content type="html"><![CDATA[[스포츠조선닷컴 김준석 기자] 에프터스쿨 레이나가 71호 가수로 등장했다. 2일 방송된 JTBC '싱어게인 시즌3-무명가수전'에서는 지난 주에 이어 쟁쟁한 실력을 가진 본선 진출 77팀의 1라운드 조별 생존전이 계속됐다. 이날 '홀로서기' 조로 등장한 71호 가수는 "난 저평가된 가수다"라며 자신을 소개했고 "여러 콘셉트를 소화했었]]></content>
     </entry>
 </feed>
