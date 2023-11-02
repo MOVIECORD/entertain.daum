@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-11-02T09:11:11.577Z</updated>
+    <updated>2023-11-02T10:12:25.432Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[브룩 쉴즈, 발작으로 병원 이송 회상 “브래들리 쿠퍼가 손 잡아줘”]]></title>
+        <id>https://v.daum.net/v/20231102190036184</id>
+        <link href="https://v.daum.net/v/20231102190036184"/>
+        <updated>2023-11-02T10:12:24.377Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 박수인 기자] 할리우드 스타 브룩 쉴즈(Brooke Shields)가 심한 발작을 겪었던 당시를 떠올렸다. 브룩 쉴즈는 최근 매거진 글래머(Glamour)와 인터뷰를 통해 심한 발작으로 인해 구급차를 타고 급히 병원으로 이송됐던 상황을 설명했다. 최근 한 레스토랑에서 쓰러진 채 입에 거품을 물며 발작을 일으킨 브룩 쉴즈는 "쇼를 준비하면서 물을]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['더 마블스' 박서준도 안 보이네…배우 총파업 길어지는 사연]]></title>
         <id>https://v.daum.net/v/20231102175010931</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231102120627496"/>
         <updated>2023-11-02T03:11:46.577Z</updated>
         <content type="html"><![CDATA[(엑스포츠뉴스 이창규 기자)&nbsp;마약 파문으로 활동을 중단했던 일본의 배우&nbsp;사와지리 에리카가 4년 만에 신작으로 복귀한다. 2일 오전 일본 모델플러스 등 다수 매체는 사와지리 에리카가 2024년 2월 10일부터 18일까지 진행되는 연극 '욕망이라는 이름의 전차'를 통해 복귀한다고 보도했다. 사와지리 에리카 이외에 이토 히데아키, 시미즈 하즈키, 타카하시 츠토무]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['희귀질환 투병' 셀린 디온, 4년 만에 첫 공식 석상]]></title>
-        <id>https://v.daum.net/v/20231102114916668</id>
-        <link href="https://v.daum.net/v/20231102114916668"/>
-        <updated>2023-11-02T03:11:46.577Z</updated>
-        <content type="html"><![CDATA[[티브이데일리 김지현 기자] 희귀 질환으로 투병 중인 팝가수 셀린 디온(Céline Dion)이 4년 만에 공식 석상에 모습을 드러냈다. 2일(한국시간) 미국 매체 피플은 "셀린 디온이 3년 반 만에 처음으로 모습을 공개했다"라며 "라스베가스에서 열린 하키 경기에 참석한 셀린 디온의 모습은 건강해 보였다"고 보도했다. 강직인간증후군(Stiff-Person]]></content>
     </entry>
 </feed>
