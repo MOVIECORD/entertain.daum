@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-11-02T03:11:47.342Z</updated>
+    <updated>2023-11-02T04:13:20.887Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[마블, 흥행 부진에 죽은 아이언맨·블랙 위도우 도로 살린다?]]></title>
+        <id>https://v.daum.net/v/20231102131237711</id>
+        <link href="https://v.daum.net/v/20231102131237711"/>
+        <updated>2023-11-02T04:12:59.741Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 배효주 기자] 흥행 부진을 겪고 있는 마블이 아이언맨과 블랙 위도우 캐릭터를 부활시킬 수 있다는 보도가 나왔다. 11월 1일(현지시간) 외신 버라이어티, 콜라이더 등에 따르면 마블 스튜디오는 오리지널 어벤져스 앙상블을 부활시킬 가능성에 대한 논의를 진행 중이다. 마블의 전성기를 이끌었던 로버트 다우니 주니어가 아이언맨으로, 스칼렛 요한슨이 블랙]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['더 마블스', 테스트 상영회서 '애매하다' 반응 받아...'비상']]></title>
+        <id>https://v.daum.net/v/20231102121400657</id>
+        <link href="https://v.daum.net/v/20231102121400657"/>
+        <updated>2023-11-02T04:12:59.743Z</updated>
+        <content type="html"><![CDATA[[TV리포트=유비취 기자] 영화 '더 마블스'가 개봉을 앞두고 있는 가운데 테스트 상영회의 관객 반응이 이목을 끌고 있다. 1일(현지 시간) 연예 매체 더 다이렉트에 따르면 '더 마블스'의 사전 테스트 상영회에서 관객의 반응이 '보통' 정도의 애매한 반응이었다고 전해진다. 이는 다소 의외의 반응이었다. '더 마블스' 사전 테스트 상영회는 지난 6월 텍사스에]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[길거리 전전하며 노래 부르는 말없는 뮤지션의 기구한 사연]]></title>
         <id>https://v.daum.net/v/20231102120002138</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20231102100027459"/>
         <updated>2023-11-02T01:45:02.607Z</updated>
         <content type="html"><![CDATA[[스타뉴스 | 김나연 기자] 사진='어벤져스: 엔드게임' 포스터마블이 연이은 흥행 부진을 겪고 있는 가운데, 아이언맨부터 블랙위도우까지 흥행의 시작점인 원년 멤버들의 부활을 논의 중인 것으로 알려졌다. 1일(현지시간) 미국 매체 버라이어티는 마블 소식통의 말을 빌려 "마블 영화에 원년 멤버들을 복귀시키려는 논의가 있었다. 여기에는 '어벤져스: 엔드게임']]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['더 마블스', 박서준 출연에도 홍보 '잠잠'…할리우드 파업 뭐길래]]></title>
-        <id>https://v.daum.net/v/20231102095006897</id>
-        <link href="https://v.daum.net/v/20231102095006897"/>
-        <updated>2023-11-02T01:45:02.611Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 오승현 기자) 배우 박서준의 할리우드 진출작 '더 마블스'가 개봉을 앞둔 가운데 관련 홍보 활동은 '올 스톱' 됐다. MCU(마블 시네마틱 유니버스) 영화 '더 마블스'(감독 니아 다코스타)가 오는 8일 국내 개봉을 확정했다. '더 마블스'는 우주를 지키는 캡틴 마블 '캐럴 댄버스'가 능력을 사용할 때마다 '모니카 램보', 미즈 마블 '카말라]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[윤단비 감독X박유림X주종혁, ‘2024 배리어프리영화’ 홍보대사 위촉]]></title>
-        <id>https://v.daum.net/v/20231102094807813</id>
-        <link href="https://v.daum.net/v/20231102094807813"/>
-        <updated>2023-11-02T01:45:02.613Z</updated>
-        <content type="html"><![CDATA[윤단비 감독, 박유림, 주종혁 배우가 ‘2024 배리어프리영화 홍보대사’로 위촉됐다. 배리어프리영화위원회는 그동안 배리어프리영화의 저변을 확대하고, 대중에게 좀 더 친숙하게 다가가기 위해 2013년부터 ‘배리어프리영화 홍보대사’를 위촉하고 배리어프리영화 제작 참여 및 홍보활동을 적극 펼쳐왔다. 윤단비 감독은 영화 ‘남매의 여름밤’으로 충무로의 주목받는 신예]]></content>
     </entry>
 </feed>
