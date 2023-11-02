@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2023-11-02T16:14:33.210Z</updated>
+    <updated>2023-11-02T17:17:33.775Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['육상돌' 라이즈 원빈 "김종국 눈치 보면서 헬스한다"]]></title>
+        <id>https://v.daum.net/v/20231103012206498</id>
+        <link href="https://v.daum.net/v/20231103012206498"/>
+        <updated>2023-11-02T17:17:27.868Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 임유리 기자] 라이즈의 원빈이 김종국에게 자세 지적을 받을까 봐 눈치가 보인다고 털어놨다. 2일 유튜브 채널 ‘문명특급’에는 2일 유튜브 채널 ‘문명특급’에는 최근 신곡 ‘Talk Saxy’를 발표한 그룹 라이즈(RIIZE)의 쇼타로, 은석, 성찬, 원빈, 승한, 소희, 앤톤이 게스트로 출연했다. 영상에서 재재는 라이즈에 대해 “데뷔 후]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[10기 돌싱커플 현숙♥영철 "결별설 인정...한 번 헤어졌었다"]]></title>
         <id>https://v.daum.net/v/20231103003730359</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231102233003803"/>
         <updated>2023-11-02T15:11:19.921Z</updated>
         <content type="html"><![CDATA[(엑스포츠뉴스 윤현지 기자) '결혼과 이혼 사이' 출연 후 가정 폭력, 불륜 등의 폭로로 이혼 절차를 밟던 서사랑, 이정환 부부가 이혼 소송을 마무리했다. 2일 서사랑은 "장장 1년이 넘는 소송이 오늘 딱 끝이 났다"라며 "뭔지 모를 감정에 변호사님 연락받고 눈물이 많이 나더라"라며 이혼 소식을 전했다. 그러면서 "결혼, 출산, 이혼 뭐 하나 후회되는 일이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["낯익은 얼굴이" 싱어게인 본1 무대...브아솔 성훈, 오렌지카라멜 레이나 등장]]></title>
-        <id>https://v.daum.net/v/20231102232830788</id>
-        <link href="https://v.daum.net/v/20231102232830788"/>
-        <updated>2023-11-02T15:11:19.923Z</updated>
-        <content type="html"><![CDATA[[TV리포트=김유진 기자] 낯익은 얼굴들이 무대에 등장해 모두를 당황하게 했다. 2일 방영된 JTBC '싱어게인3' 2화에서는 본선 1라운드에 올라온 '홀로서기' 조와 'OST조'의 무대가 공개됐다. 홀로서기 조의 첫 번째 가수는 76호였다. 등장하자마자 아이돌 느낌을 물씬 자아냈던 76호는 특유의 얇은 목소리로 박원의 '노력'을 열창했다. 76호는 7개]]></content>
     </entry>
 </feed>
