@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-11-02T02:19:00.571Z</updated>
+    <updated>2023-11-02T03:11:47.341Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[양준모, 이영애 만난다..'마에스트라' 출연]]></title>
+        <id>https://v.daum.net/v/20231102115322874</id>
+        <link href="https://v.daum.net/v/20231102115322874"/>
+        <updated>2023-11-02T03:11:29.473Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 | 김노을 기자] 배우 양준모 /사진제공=잼엔터테인먼트배우 양준모가 드라마 '마에스트라'에 출연한다. 오는 12월 첫 방송하는 tvN 새 토일드라마 '마에스트라'(극본 최이윤, 홍정희/연출 김정권/기획 스튜디오드래곤/제작 래몽래인)는 전 세계 단 5%뿐인 여성 지휘자 마에스트라, 천재 혹은 전설이라 불리는 차세음(이영애 분)이 자신의 비밀을 감]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이윤지, 5년만 안방 컴백…'마이데몬' 재벌가 둘째 딸된다]]></title>
         <id>https://v.daum.net/v/20231102111504011</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231102094517705"/>
         <updated>2023-11-02T00:46:20.751Z</updated>
         <content type="html"><![CDATA[(엑스포츠뉴스 이예진 기자 ‘7인의 탈출’ 엄기준이 본색을 드러낸다. 2일 SBS 금토드라마 ‘7인의 탈출’ 측은 정체를 의심케 하는 매튜 리(엄기준 분)의 광기를 포착했다. 시청자들의 뒤통수를 얼얼하게 만든 그의 정체는 무엇일지, 이 또한 그가 설계한 빅픽처의 일부인지 궁금증을 최고조로 끌어올린다. 지난 방송은 상상을 초월한 파격 전개로 충격을 안겼다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[주진모 '악인전기' 점령..경험치 만렙 능구렁이 반달 캐릭터 맛 살리는 미친 소화력]]></title>
-        <id>https://v.daum.net/v/20231102094236599</id>
-        <link href="https://v.daum.net/v/20231102094236599"/>
-        <updated>2023-11-02T00:46:20.754Z</updated>
-        <content type="html"><![CDATA[[OSEN=최나영 기자] 영화, 드라마를 종횡무진하고 있는 배우&nbsp;주진모가 지니TV 오리지널 ‘악인전기’를 통해 대체불가의 존재감을 보여주고 있다. 주진모가 ‘악인전기’에서 맡은 캐릭터는 국제항운 대표 직함을 갖고 있는 성공한 사업가 김재열 역이다. 직함은 항운회사 대표지만 실상을 들여다 보면 온갖 것을 밀수하고 도박 하우스를 운영하는 등 비리의 온상인]]></content>
     </entry>
 </feed>
