@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-11-03T03:11:42.106Z</updated>
+    <updated>2023-11-03T04:13:07.380Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이준호 이후 또 잠잠..차은우⋅로운 못 살리나]]></title>
+        <id>https://v.daum.net/v/20231103123027236</id>
+        <link href="https://v.daum.net/v/20231103123027236"/>
+        <updated>2023-11-03T04:12:50.278Z</updated>
+        <content type="html"><![CDATA[[OSEN=선미경 기자] 이준호 이후에 또 잠잠해졌다. 그룹 2PM 멤버이자 배우인 이준호가 ‘옷소매 붉은 끝동’과 ‘킹더랜드’로 연타석 흥행에 성공한 가운데, 이준호의 후계자들로 꼽히던 ‘연기돌’ 후배들은 다소 잠잠하다. 황민현부터 로운, 차은우까지 주연 자리를 꿰차고 ‘열일’을 이어가고 있지만 시청자들의 반응은 신통치 않다. 이준호는 ‘연기돌’의 모]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[리메이크도 완벽…'뮤직인더트립', 이무진 '너의 뒤에서' 선공개]]></title>
         <id>https://v.daum.net/v/20231103120856801</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231103094850548"/>
         <updated>2023-11-03T01:47:24.815Z</updated>
         <content type="html"><![CDATA[[OSEN=박소영 기자] ‘7인의 탈출’&nbsp;황정음이 충격 고백을 한다. SBS&nbsp;금토드라마&nbsp;‘7인의 탈출’(연출 주동민·오준혁,&nbsp;극본 김순옥,&nbsp;제작 초록뱀미디어·스튜디오S)&nbsp;측은&nbsp;13회 방송을 앞둔&nbsp;3일,&nbsp;영화 촬영 재개를 위해 승부수를 띄우는 금라희(황정음 분)의 모습을 공개해 호기심을 자극한다. 지난 방송에서는&nbsp;‘K’를 잡기 위한 꼭두각시가 된&nbsp;6인의]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['연인' 남궁민♥안은진, 가슴 아픈 이별 후 재회…밝은 미소 눈길]]></title>
-        <id>https://v.daum.net/v/20231103094043291</id>
-        <link href="https://v.daum.net/v/20231103094043291"/>
-        <updated>2023-11-03T00:46:35.478Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 김현정 기자) ‘연인’ 남궁민과 안은진이 재회한다. 28일 방송한 MBC 금토드라마 ‘연인’이 남녀 주인공 이장현(남궁민 분)과 유길채(안은진)의 슬픈 운명을 극적으로 보여주며 안방극장을 애절함으로 물들였다. 두 사람이 여전히 서로 연모하면서도 이별할 수밖에 없는 상황에 놓인 것. 잠시나마 행복했던 두 사람을 지켜본 시청자에게는 더욱 가슴 아]]></content>
     </entry>
 </feed>
