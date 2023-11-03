@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/variety</id>
     <title>다음 연예 ─ 뉴스 ─ 예능</title>
-    <updated>2023-11-03T18:13:31.945Z</updated>
+    <updated>2023-11-03T20:12:15.083Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이혜원 "子, 트럼펫 취미인데도 대회 1등·카네기홀 입성"]]></title>
+        <id>https://v.daum.net/v/20231104050707998</id>
+        <link href="https://v.daum.net/v/20231104050707998"/>
+        <updated>2023-11-03T20:12:02.458Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 고향미 기자] 축구 국가대표 선수 출신 방송인 안정환과 1999년 미스코리아 FILA 출신 사업가 겸 방송인 이혜원 부부가 트럼펫 영재인 아들 안리환에 대한 생각을 공개했다. 3일 오후 방송된 종합편성채널 채널A '남의 나라 살아요 - 선 넘은 패밀리'(이하 '선넘은 패밀리')에서 한·프 스페인 핵인싸 가족은 4세 딸 레아의 방과 후 활동]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[전청조 "지금까지 모든 돈, 오직 남현희에게 사용했다" 주장]]></title>
+        <id>https://v.daum.net/v/20231104040605746</id>
+        <link href="https://v.daum.net/v/20231104040605746"/>
+        <updated>2023-11-03T20:12:02.460Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 고향미 기자] 올림픽 펜싱 은메달리스트 남현희의 재혼 상대로 알려진 후 각종 사기 행각이 발각돼 논란의 중심에 선 전청조가 지금까지 모은 돈의 사용처를 공개했다. 3일 오후 방송된 SBS 시사교양 프로그램 '궁금한 이야기 Y'에서 전청조는 깊은 한숨을 내쉬며 "제 의혹을 다 이야기하면 남현희가 쓰레기가 되고 아니면 저만 사는 게 된다"고]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[안정환 "유람선에서 저녁 먹어봤다"…이혜원 "내가 아닌 것 같아" 비상]]></title>
         <id>https://v.daum.net/v/20231104030606480</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20231104000736005"/>
         <updated>2023-11-03T15:11:44.861Z</updated>
         <content type="html"><![CDATA[[스타뉴스 | 이시호 기자] /사진=MBC '나 혼자 산다' 방송 화면 캡처'나혼산' 역도 요정 박혜정이 역도의 매력을 밝혔다. 3일 방송된 MBC 예능 프로그램 '나 혼자 산다'에서는 '백만 불 짜리 노력' 특집이 그려졌다. 이날 전현무는 "어깨가 올라와 있는 분이 있다"며 앞서 마라톤 풀코스를 첫 완주한 기안84를 주목했다. 기안84는 마라톤 완주를]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[전청조, 가슴절제 수술 부위 공개 "남현희가 女 사실 걸리니 빨리 하라 했다"]]></title>
-        <id>https://v.daum.net/v/20231104000329961</id>
-        <link href="https://v.daum.net/v/20231104000329961"/>
-        <updated>2023-11-03T15:11:44.863Z</updated>
-        <content type="html"><![CDATA[[마이데일리 = 고향미 기자] 올림픽 펜싱 은메달리스트 남현희의 재혼 상대로 알려진 후 각종 사기 행각이 발각돼 논란의 중심에 선 전청조가 제거 수술을 한 가슴을 공개했다. 3일 오후 방송된 SBS 시사교양 프로그램 '궁금한 이야기 Y'에서 전청조는 자신을 찾아온 제작진에게 "저는 남자가 맞다"고 주장했다. 전청조는 이어 휴대폰에서 무언가를 보여주며 "]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[역도 金 박혜정 “기량 위해 137㎏ 유지 중, 식사량까지 조절”]]></title>
-        <id>https://v.daum.net/v/20231104000110910</id>
-        <link href="https://v.daum.net/v/20231104000110910"/>
-        <updated>2023-11-03T15:11:44.868Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 이하나 기자] 2022 항저우 아시안게임 역도 금메달 리스트 박혜정이 아침 루틴을 공개했다. 11월 3일 방송된 MBC ‘나 혼자 산다’에는 역도 국가대표 박혜정이 출연했다. 2003년생 박혜정은 무지개모임에 합류한 소감을 묻는 질문에 “굉장히 영광스럽고 전현무 선생님을 뵙고 싶었다”라고 말해 웃음을 안겼다. 키가 “오늘 왜 이렇게 요리 연구]]></content>
     </entry>
 </feed>
