@@ -2,11 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-11-03T00:46:52.822Z</updated>
+    <updated>2023-11-03T01:47:42.733Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[베일 벗은 비틀스 최후 신곡…30대 레넌과 80대 매카트니 만남]]></title>
+        <title type="html"><![CDATA[스칼렛 요한슨, '초상권 침해'한 AI 앱 고소...강경대응 나선다]]></title>
+        <id>https://v.daum.net/v/20231103104630695</id>
+        <link href="https://v.daum.net/v/20231103104630695"/>
+        <updated>2023-11-03T01:47:41.966Z</updated>
+        <content type="html"><![CDATA[[TV리포트=이예은 기자] 할리우드 배우 스칼렛 요한슨이 AI 초상권 침해 문제에 칼을 빼 들었다.&nbsp; 1일(현지 시간) 외신 연예 매체 버라이어티는 스칼렛 요한슨이 무단으로 자신의 이름과 초상권을 사용한 AI 온라인 앱 'Lisa Ai: 90s Yearbook &amp; Avatar'을 고소했다고 보도했다.&nbsp; 지난달 28일(현지 시간) 소셜네트워크서비스에 스칼렛]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[베일 벗은 비틀스 최후 신곡…30대 레넌과 80대 매카트니의 만남]]></title>
         <id>https://v.daum.net/v/20231103094134330</id>
         <link href="https://v.daum.net/v/20231103094134330"/>
         <updated>2023-11-03T00:46:52.058Z</updated>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231102174652850"/>
         <updated>2023-11-02T09:11:10.707Z</updated>
         <content type="html"><![CDATA[[뉴스엔 박수인 기자] 할리우드 스타 브룩 쉴즈(Brooke Shields)가 각종 시술, 성형수술에 대한 생각을 밝혔다. 브룩 쉴즈는 최근 매거진 글래머(Glamour)와 인터뷰를 통해 자신의 경력, 결혼, 노화 등에 대한 이야기를 나눴다. 브룩 쉴즈는 "과거 보톡스를 맞았을 때 나 같지 않다는 생각이 들 때가 많았다"면서도 "프락셀이든 필러든 새로운]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[머라이어 캐리, '연금' 캐럴 표절 논란...'268억' 고소 당해]]></title>
-        <id>https://v.daum.net/v/20231102174101657</id>
-        <link href="https://v.daum.net/v/20231102174101657"/>
-        <updated>2023-11-02T09:11:10.711Z</updated>
-        <content type="html"><![CDATA[[TV리포트=유비취 기자] '캐럴 여왕' 머라이어 캐리가 또 표절 관련 문제로 고소를 당했다. 1일(현지 시간) 미국 매체 피플에 따르면 앤디 스톤은 머라이어 캐리의 'All I Want for Christmas Is You(올 아이 원트 포 크리스마스 이즈 유)'에 대해 2천만 달러(한화 약 268억 원) 규모의 소송을 제기했다. 앤디 스톤은 '저작권 침]]></content>
     </entry>
 </feed>
