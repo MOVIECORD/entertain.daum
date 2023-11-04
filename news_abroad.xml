@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-11-04T01:44:43.990Z</updated>
+    <updated>2023-11-04T02:17:50.013Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[故 매튜 페리 장례식, ‘프렌즈’ 제니퍼 애니스톤 등 동료들 참석 “굿바이 챈들러”]]></title>
+        <id>https://v.daum.net/v/20231104105425857</id>
+        <link href="https://v.daum.net/v/20231104105425857"/>
+        <updated>2023-11-04T02:17:49.350Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]인기 시트콤 ‘프렌즈’의 매듀 페리(54) 장례식이 3일(현지시간) 오후 미국 LA 할리우드 힐스 인근의 포레스트 론 메모리얼 파크에서 열린 가운데 제니퍼 에니스톤 등 동료들의 그의 마지막을 함께했다. 이날 페이지식스에 공개한 사진에 따르면, 제니퍼 애니스턴, 코트니 콕스, 리사 커드로, 데이비드 슈위머 등이 경호원들과 함]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[83세 알 파치노, 4개월 아들 양육비로 월 4천만원 지급]]></title>
         <id>https://v.daum.net/v/20231104093605043</id>
@@ -95,12 +102,5 @@
         <link href="https://v.daum.net/v/20231103112608391"/>
         <updated>2023-11-03T03:11:41.190Z</updated>
         <content type="html"><![CDATA[[TV리포트=강성훈 기자] 대중문화 상징의 아이콘, 영국 록밴드 비틀즈의 마지막 곡 '나우 앤 덴'(Now And Then)이 수십 년 만에 드디어 베일을 벗었다. 유니버셜 뮤직은 2일(현지 시간) 비틀즈 마지막 곡 '나우 앤 덴'을 공개했다고 밝혔다.&nbsp; 해당 곡은 앞서 1970년대 비틀즈 해체 후 故 존 레논이 후반 작곡하고 녹음한 유품이었다. 하지만 발]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[스칼렛 요한슨, '초상권 침해'한 AI 앱 고소...강경대응 나선다]]></title>
-        <id>https://v.daum.net/v/20231103104630695</id>
-        <link href="https://v.daum.net/v/20231103104630695"/>
-        <updated>2023-11-03T01:47:41.966Z</updated>
-        <content type="html"><![CDATA[[TV리포트=이예은 기자] 할리우드 배우 스칼렛 요한슨이 AI 초상권 침해 문제에 칼을 빼 들었다.&nbsp; 1일(현지 시간) 외신 연예 매체 버라이어티는 스칼렛 요한슨이 무단으로 자신의 이름과 초상권을 사용한 AI 온라인 앱 'Lisa Ai: 90s Yearbook &amp; Avatar'을 고소했다고 보도했다.&nbsp; 지난달 28일(현지 시간) 소셜네트워크서비스에 스칼렛]]></content>
     </entry>
 </feed>
