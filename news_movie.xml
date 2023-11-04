@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-11-04T22:11:06.721Z</updated>
+    <updated>2023-11-04T23:09:59.021Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['그대들은 어떻게 살 것인가' 11일째 1위, 누적 150만 돌파 '눈앞']]></title>
+        <id>https://v.daum.net/v/20231105075252057</id>
+        <link href="https://v.daum.net/v/20231105075252057"/>
+        <updated>2023-11-04T23:09:42.422Z</updated>
+        <content type="html"><![CDATA[[스포츠한국 조은애 기자] '그대들은 어떻게 살 것인가'가 11일 연속&nbsp;1위 자리를&nbsp;수성했다. 5일 영화진흥위원회 영화관입장권 통합전산망 집계에 따르면 '그대들은 어떻게 살 것인가'는 전날&nbsp;14만2050명의 관객을 모아 박스오피스 1위를 차지했다. 누적 관객 수는&nbsp;136만3979명이다. '그대들은 어떻게 살 것인가'는&nbsp;시간과 공간을 초월한 신비로]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[강렬한 실화 다룬 '소년들'→'서울의 봄', 11월 극장가 정조준]]></title>
         <id>https://v.daum.net/v/20231105070010758</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231104100501418"/>
         <updated>2023-11-04T01:44:24.090Z</updated>
         <content type="html"><![CDATA[미야자키 하야오의 ‘그대들은 어떻게 살 것인가’(이하 ‘그대들은’)가 화제다. 호불호가 갈리는 와중에 개봉 2주차에도 예매율 1위를 지켰다. 이야기 속 여러 설정을 제대로 설명하지 않기 때문에 ‘난해하다’는 평가도 나오지만, 해석이 어렵거나 메시지가 모호한 작품은 아니다. 내 경우엔, 처음에는 즐겁게 따라가다 도중에 그만 지루해졌다. 때는 제2차 세계대전]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[가해국의 자기연민?…영화 '그대들은'은 왜 혹평 받을까]]></title>
-        <id>https://v.daum.net/v/20231104100014340</id>
-        <link href="https://v.daum.net/v/20231104100014340"/>
-        <updated>2023-11-04T01:44:24.091Z</updated>
-        <content type="html"><![CDATA[스튜디오 지브리 역사상 단기간인 6일 만에 100만 관객 돌파, 흥행 성적 이어갈까 [더팩트ㅣ최수빈 인턴기자] 애니메이션계의 거장 미야자키 하야오 감독이 10년 만에 내세운 영화 '그대들은 어떻게 살 것인가'가 혹평 속에서도 박스오피스 1위를 달리고 있다. 영화진흥위원회 영화관입장권 통합전산망에 따르면 '그대들은 어떻게 살 것인가'(감독 미야자키 하야]]></content>
     </entry>
 </feed>
