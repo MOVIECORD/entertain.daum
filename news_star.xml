@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2023-11-04T03:11:15.845Z</updated>
+    <updated>2023-11-04T04:13:09.071Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["덱스, 하고 싶은 거 다 해!" 든든한 대표 에이전트H]]></title>
+        <id>https://v.daum.net/v/20231104130001816</id>
+        <link href="https://v.daum.net/v/20231104130001816"/>
+        <updated>2023-11-04T04:13:03.498Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 | 안윤지 기자] UDT 출신 유튜버이자 킥 더 허들 스튜디오 대표 에이전트H /사진=스타뉴스 김창현 기자갑자기 어디선가 혜성같이 등장한 두 남자가 있다. 대한민국 해군 특수전전단(이하 UDT) 출신 에이전트H와 덱스다. 유튜버로도 활동 중인 에이전트H는 덱스의 역량을 한눈에 알아보고 회사의 대표로도 일하고 있다. 앞으로 매니지먼트 사업을 키워나]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“말 안 통해” 나영석 발언, 김구라 직접 해명 “내가 얼마나 눈치 봤는데”]]></title>
+        <id>https://v.daum.net/v/20231104121740561</id>
+        <link href="https://v.daum.net/v/20231104121740561"/>
+        <updated>2023-11-04T04:13:03.506Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 이슬기 기자] 김구라가 나영석PD 발언에 대해 이야기했다. 11월 3일 김구라가 운영하는 채널 '그리구라'에는 '요즘 대세 지올팍! 기껏 제발로 찾아왔지만 누군지 모르는 김구라'라는 제목의 영상이 게재됐다. 이날 김구라는 아들 그리, 게스트로 출연한 지올팍과 함께 대패 삼겹살 먹방에 나섰다. 세 사람은 지올팍의 음악과 사업 등에 대해 이야기하면서]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['마약→은퇴번복' 박유천, 태국 고위공직자 딸과 1년째 열애설]]></title>
+        <id>https://v.daum.net/v/20231104121425538</id>
+        <link href="https://v.daum.net/v/20231104121425538"/>
+        <updated>2023-11-04T04:13:03.506Z</updated>
+        <content type="html"><![CDATA[[OSEN=하수정 기자] 박유천이 마약 논란 이후 이번에는 태국 현지 고위공직자의 딸이자 사업가와 열애설에 휩싸였다. 지난 3일 한 매체는 박유천이 태국 현지에서 만난 미모의 사업가와 열애 중이라고 보도했다.&nbsp; 보도에 따르면, 박유천이 모델로 활동 중인 브랜드의 사업가와 열애를 하고 있으며, 해당 사업가는 태국 현지 고위공직자의 딸로 알려졌다. 무엇보다]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘취사병 출신’ 도경수, 말복 요리도 척척... 최고 5.3%]]></title>
         <id>https://v.daum.net/v/20231104115755386</id>
@@ -34,7 +55,7 @@
         <content type="html"><![CDATA[[스포티비뉴스=김현록 기자]‘7인의 탈출’ 엄기준의 반전 정체가 역대급 충격을 안겼다. 3일 방송된 SBS 금토드라마 ‘7인의 탈출’(연출 주동민·오준혁, 극본 김순옥, 제작 초록뱀미디어·스튜디오S) 13회에서는 매튜 리(심준석/엄기준)의 실체가 드러났다. 매튜 리가 성찬그룹의 후계자 ‘K’, 심준석이라는 반전은 소름을 유발했다. 진짜 이휘소(민영기)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA["서울, 이대로 괜찮을까요" 국민의힘 김기현 대표에 권한다]]></title>
+        <title type="html"><![CDATA["서울, 이대로 괜찮을까요" 국민의힘 김기현 대표에 묻다]]></title>
         <id>https://v.daum.net/v/20231104114801313</id>
         <link href="https://v.daum.net/v/20231104114801313"/>
         <updated>2023-11-04T03:11:10.077Z</updated>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20231104110634990"/>
         <updated>2023-11-04T02:17:45.655Z</updated>
         <content type="html"><![CDATA[[OSEN=연휘선 기자] 코미디언 김경진과 모델 전수민 부부가 2세 계획을 언급했다.&nbsp; 지난 3일 유튜브 채널 '여기가 우리집'에서는 김경진과 전수민이 게스트로 출연해 방송인 지상렬을 만났다.&nbsp; 김경진은 "냉면집을 하다가 잘 돼서 홍대에 가게를 또 냈다. 그런데 둘 다 안 좋아져서 파스타로 업종을 변경했다. 열심히 했는데 쉽지가 않았다. 수익 창출을 위]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['이두나!' 양세종의 시선]]></title>
-        <id>https://v.daum.net/v/20231104110208936</id>
-        <link href="https://v.daum.net/v/20231104110208936"/>
-        <updated>2023-11-04T02:17:45.656Z</updated>
-        <content type="html"><![CDATA[[티브이데일리 최하나 기자] 캐릭터의 시선으로 세상을 바라보는 것. 그 시선을 따라 마인드 맵을 그리다 보면 캐릭터와 맞닿게 된다. 배우 양세종이 연기하는 법이다. 지난달 20일 공개된 넷플릭스 오리지널 시리즈 ‘이두나!’(연출 이정효)는 평범한 대학생 원준(양세종)이 셰어하우스에서 화려한 K-POP 아이돌 시절을 뒤로하고 은퇴한 두나(수지)를 만나게 되]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['다리털 남은' 이선균, 오늘 2차소환 쟁점은 마약 투약 '인정'or '부인']]></title>
-        <id>https://v.daum.net/v/20231104105228837</id>
-        <link href="https://v.daum.net/v/20231104105228837"/>
-        <updated>2023-11-04T02:17:45.658Z</updated>
-        <content type="html"><![CDATA[[스포츠조선닷컴 이지현 기자] 마약 투약 혐의를 받고 있는 배우 이선균이 오늘(4일) 일주일 만에 다시 경찰에 출석한다. 이번 조사에서 가장 핵심은 이선균의 혐의 인정 여부다. 이선균은 이날 오후 인천경찰청 마약멈죄수사계에 출석해 조사를 받을 예정이다. 지난달 28일 첫 소환 조사 이후 일주일 만에 두번째 조사를 받게됐다. 앞서 1차 조사에서]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['마약혐의' 이선균, 유흥업소 실장에 3억→소변·모발 검사는 음성…오늘 입열까]]></title>
-        <id>https://v.daum.net/v/20231104104636775</id>
-        <link href="https://v.daum.net/v/20231104104636775"/>
-        <updated>2023-11-04T02:17:45.658Z</updated>
-        <content type="html"><![CDATA[[마이데일리 = 강다윤 기자] 마약 혐의를 받는 배우 이선균(48) 두 번째 경찰 소환 조사를 받는다. 자신을 협박한 유흥업소 A실장(29)에게 3억을 건네 마약 의혹이 불거졌지만, 모발·소변 검사에서는 음성 판정을 받은 상황. 이선균이 관련 입장을 밝힐지 이목이 집중된다. 3일 SBS 8 뉴스에 따르면 경찰은 지난달 28일 이선균에 대해 압수수색 영장을]]></content>
     </entry>
 </feed>
