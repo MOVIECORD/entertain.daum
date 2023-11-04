@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/variety</id>
     <title>다음 연예 ─ 뉴스 ─ 예능</title>
-    <updated>2023-11-04T04:13:09.103Z</updated>
+    <updated>2023-11-04T05:10:15.158Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이게 되네? 박진영의 발칙한 상상이 기막히게 실현됐을 때]]></title>
+        <id>https://v.daum.net/v/20231104135328222</id>
+        <link href="https://v.daum.net/v/20231104135328222"/>
+        <updated>2023-11-04T05:10:04.647Z</updated>
+        <content type="html"><![CDATA[[엔터미디어=정덕현] 인순이가 뉴진스의 '하입보이'를 부르고, 이은미가 청하의 '벌써 12시'를 부른다. 첫 회에서는 신효범이 트와이스의 'Feel special'을 불렀고, 박미경이 아이브의 'I AM'을 불렀다. 그 미션을 시켰지만 실제로 그걸 소화해내는 디바들의 무대를 보며 박진영은 연실 믿지 못하겠다는 듯, "이게 된다고?"를 외친다. 이건 KBS]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['놀뭐' 원탑x'스맨파' 뱅크투브라더스 컬래버..안무 최초 공개]]></title>
+        <id>https://v.daum.net/v/20231104131724928</id>
+        <link href="https://v.daum.net/v/20231104131724928"/>
+        <updated>2023-11-04T05:10:04.648Z</updated>
+        <content type="html"><![CDATA[[OSEN=하수정 기자] ‘놀면 뭐하니?’ 원탑의 데뷔곡 안무가 최초 공개된다. 11월 4일 방송되는 MBC ‘놀면 뭐하니?’(연출 김진용, 장우성, 장효종, 왕종석/작가 최혜정)에서는 JS(유재석)가 원탑에게 힙한 안무 선생님을 소개해주는 모습이 그려진다. ‘스트릿 맨 파이터’에서 화제를 모았던 힙합 최강 크루 뱅크투브라더스가 바로 그 주인공. 이날]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['불후' 정훈희 '탕웨이, 내가 부른 '안개' 듣고 통곡했다"]]></title>
         <id>https://v.daum.net/v/20231104130642880</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20231104113029203"/>
         <updated>2023-11-04T03:11:04.666Z</updated>
         <content type="html"><![CDATA[[뉴스엔 이슬기 기자] 전인권이 이찬혁의 얼굴에 대해 이야기했다. 11월 3일 방송된 KBS 2TV 예능 '더 시즌즈-악뮤의 오날오밤'에는 가수 전인권이 출연했다. 이날 전인권은 선글라스를 쓰는 이유에 대해 "내가 눈 뜨고 노래를 잘 못한다"며 "항상 눈을 감고 노래 부르는데 참 좋다"고 이야기했다. 그는 "거울 볼 때 내가 괜찮아 보이니까, 괜찮아 보이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김종국, 이렇게 짠내났나..미친 물가에 냉동 닭가슴살 먹방]]></title>
-        <id>https://v.daum.net/v/20231104112820182</id>
-        <link href="https://v.daum.net/v/20231104112820182"/>
-        <updated>2023-11-04T03:11:04.668Z</updated>
-        <content type="html"><![CDATA[[OSEN=김채연 기자] 김종국이 파격 먹방을 선보인다. 5일 방송되는 SBS ‘런닝맨’에서는 ‘짠 내’ 폭발한 김종국의 모습이 그려진다. 최근 진행된 녹화는 식사부터 놀거리까지 하루 동안 즐겼던 모든 비용이 빚으로 누적돼, 금액별 벌칙으로 빚을 면제해야 하는 레이스로 진행됐다. 비현실적인 물가에 멤버들은 “미친 물가다”, “해도 해도 너무하네”, “오]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['킹스미스' 황제성, 샘 스미스 만났다…투샷 최초 공개]]></title>
-        <id>https://v.daum.net/v/20231104112815180</id>
-        <link href="https://v.daum.net/v/20231104112815180"/>
-        <updated>2023-11-04T03:11:04.671Z</updated>
-        <content type="html"><![CDATA[[마이데일리 = 강다윤 기자] 코미디언 황제성이 영국 팝스타 샘 스미스를 만났다. 4일 공개되는 유튜브 웹 예능 '킹스미스' 6회에서는 지난 샘 스미스의 내한 콘서트 당일 대기실 앞에서 극적으로 이루어진 황제성과 샘 스미스의 만남이 상세히 소개될 예정이다. 황제성은 지난해부터 샘 스미스의 도플갱어로 불리며 부캐 '킹스미스'로 활약하고 있다. 지난달 샘 스]]></content>
     </entry>
 </feed>
