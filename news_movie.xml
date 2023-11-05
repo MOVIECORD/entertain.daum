@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-11-05T01:54:01.417Z</updated>
+    <updated>2023-11-05T02:22:57.462Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[브리 라슨→박서준 '더 마블스', 전체 예매율 1위 달성]]></title>
+        <id>https://v.daum.net/v/20231105111859809</id>
+        <link href="https://v.daum.net/v/20231105111859809"/>
+        <updated>2023-11-05T02:22:30.924Z</updated>
+        <content type="html"><![CDATA[[OSEN=김보라 기자] '캡틴 마블'의 두 번째 이야기이자, 2023년 최고의 블록버스터 '더 마블스'가 전체 예매율 1위에 등극했다. '더 마블스'(감독 니아 다코스타, 수입배급 월트디즈니 컴퍼니 코리아)는 우주를 지키는 히어로 캡틴 마블 캐럴 댄버스(브리 라슨)가 능력을 사용할 때마다 모니카 램보(티오나 패리스), 미즈 마블 카말라 칸(이만 벨라니]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['그대들은', 11일 연속 1위…136만↑ 동원]]></title>
+        <id>https://v.daum.net/v/20231105110517613</id>
+        <link href="https://v.daum.net/v/20231105110517613"/>
+        <updated>2023-11-05T02:22:30.925Z</updated>
+        <content type="html"><![CDATA[[OSEN=김보라 기자]&nbsp;일본 애니메이션 ‘그대들을 어떻게 살 것인가’가 1위를 차지했다. 11일 연속으로 1위 자리를 지킨 것. 5일 영화진흥위원회 영화관입장권 통합전산망 집계를 보면 ‘그대들은 어떻게 살 것인가’는 전날(4일) 14만 2051명이 관람해 일별 박스오피스 1위를 차지했다. ‘그대들은 어떻게 살 것인가’(감독 미야자키 하야오, 배급 메가]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['89년생 젊은 피' 니아 다코스타, '더 마블스'로 MCU 새 바람 일으킬까]]></title>
         <id>https://v.daum.net/v/20231105093002234</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20231104112701167"/>
         <updated>2023-11-04T03:10:54.516Z</updated>
         <content type="html"><![CDATA[[김준모 기자] &nbsp;▲ &nbsp;&lt;뉴 노멀&gt; 예고편ⓒ (주)바이포엠스튜디오&nbsp; 뉴 노멀(New Normal)은 시대의 변화에 따라 새롭게 부상하는 표준이라는 뜻을 지니고 있다. 전쟁, 경제위기, 재난상황 등 인류의 모습을 바꿀만한 대사건 이후에는 뉴 노멀이 따라왔다. 코로나 팬데믹 이후 우리는 새로운 일상과 마주하게 되었다. 거리두기는 인간소외와 불신을, 사회동력의]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[일제가 세우려 한 유대인 국가…고통은 우리의 몫이었을 수도]]></title>
-        <id>https://v.daum.net/v/20231104110509977</id>
-        <link href="https://v.daum.net/v/20231104110509977"/>
-        <updated>2023-11-04T02:17:33.637Z</updated>
-        <content type="html"><![CDATA[지난주 독일에서 끝난 프랑크푸르트 도서전에서 인도네시아·말레이시아·아랍에미리트·이집트 등에서 온 출판인들은 보이콧을 선언했다. 도서전 대표가 개막을 앞두고 한 인터뷰에서 이스라엘과 전쟁을 시작한 하마스를 비판하면서 이스라엘의 목소리가 도서전에서 잘 들릴 수 있도록 하겠다고 이야기한 것이 화근이었다. 예루살렘 도서전을 운영하는 친구가 보냈던 쪽지가 생각이 났]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[극장들은 어떻게 살 것인가…'독전2'→'황야', 기대작 줄줄이 OTT행]]></title>
-        <id>https://v.daum.net/v/20231104110004898</id>
-        <link href="https://v.daum.net/v/20231104110004898"/>
-        <updated>2023-11-04T02:17:33.638Z</updated>
-        <content type="html"><![CDATA[[스포티비뉴스=강효진 기자] 극장가 양극화가 계속되고 있다. 흥행작과 평작 사이, 관객 쏠림 현상이 심화되면서 대부분의 작품들이 전반적으로 저조한 성적을 거두고 있다. 반면 넷플릭스 공개를 선택하는 영화들이 늘면서 극장가 기대작으로 꼽히던 작품들이 빠져나가고 있어 우려가 커지고 있다. 지난 2일 '범죄도시' 시리즈의 주역이자 흥행 킹 마동석의 신작 ']]></content>
     </entry>
 </feed>
