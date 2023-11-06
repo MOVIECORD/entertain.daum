@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-11-06T02:23:16.391Z</updated>
+    <updated>2023-11-06T03:12:00.232Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['전설' 비틀즈, '54년만 1위'...BTS 정국·테일러 스위프트 넘었다]]></title>
+        <id>https://v.daum.net/v/20231106120130096</id>
+        <link href="https://v.daum.net/v/20231106120130096"/>
+        <updated>2023-11-06T03:11:59.341Z</updated>
+        <content type="html"><![CDATA[[TV리포트=강성훈 기자] 전설적인 록 밴드 비틀즈는 여전히 건재하다. 5일(현지 시간) 영국 '빅 톱 40차트'에서 비틀즈 신곡  '나우 앤 덴'(Now and Then)'은 방탄소년단 정국과 테일러 스위프트 등 세계적인 팝스타를 제치고 1위를 기록했다. 여기에 'NEWSMAX', 'skynews' 등 다수의 외신에 따르면 오는 10일 '영국 오피셜 싱글]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[로다주, 아이언맨 복귀 동의...마블 살아날까]]></title>
         <id>https://v.daum.net/v/20231106111400924</id>
@@ -74,12 +81,5 @@
         <link href="https://v.daum.net/v/20231105155923949"/>
         <updated>2023-11-05T07:10:01.997Z</updated>
         <content type="html"><![CDATA[[OSEN=최나영 기자] 영화 '백 투 더 퓨처'로 많은 사랑을 받은 배우 마이클 J. 폭스(Michael J. Fox, 62)는 30년 동안 파킨슨 병을 앓아오고 이지만 죽음을 두려워하지&nbsp;않는다고 말했다. 1991년 29세의 나이에&nbsp;처음 파킨슨 병 진단을 받고 이후 줄곧 투병 생활을 해 온 그는&nbsp;최근 타운앤컨트리(Town &amp; Country)와의 인터뷰]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['해리포터' 촬영 중 사고로 하반신 마비된 래드클리프 대역..감동의 우정]]></title>
-        <id>https://v.daum.net/v/20231105120020377</id>
-        <link href="https://v.daum.net/v/20231105120020377"/>
-        <updated>2023-11-05T03:12:01.256Z</updated>
-        <content type="html"><![CDATA[[OSEN=최나영 기자] 서로를 비상할 수 있도록 돕는 두 남자의 이야기가 감동을 자아낸다. 영국 출시 배우 다니엘 래드클리프(Daniel Radcliffe, 34)가 이번엔 자신을 '해리포터' 역으로 날아오를 수 있도록&nbsp;도와준 남자를 돕는다.&nbsp; 최근 HBO는 '해리포터' 촬영 중 사고로 하반신 마비가 된 래드클리프의 스턴트맨인 데이비드 홈즈에 관한 다]]></content>
     </entry>
 </feed>
