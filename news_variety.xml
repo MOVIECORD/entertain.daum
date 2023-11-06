@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/variety</id>
     <title>다음 연예 ─ 뉴스 ─ 예능</title>
-    <updated>2023-11-06T19:09:15.847Z</updated>
+    <updated>2023-11-06T20:12:06.290Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['43세' 김동완, 11살연하 ♥피부과 의사와 소개팅 애프터…"오빠"란 말에 "왜 플러팅?"]]></title>
+        <id>https://v.daum.net/v/20231107051009403</id>
+        <link href="https://v.daum.net/v/20231107051009403"/>
+        <updated>2023-11-06T20:11:53.853Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 박서연 기자] 16년 만에 소개팅을 한 그룹 신화 멤버 김동완이 소개팅 상대에게 애프터 신청을 한 결과가 드디어 공개된다. 8일 오후 9시 30분 방송되는 종합편성채널 채널A ‘요즘 남자 라이프-신랑수업’(이하 ‘신랑수업’) 89회에서는 신화 멤버인 김동완이 90년생인 미모의 피부과 의사 유주연 씨와 소개팅을 이어가는 모습이 그려진다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김혜정 "♥김태화와 혼전 동거…기자가 연애하냐길래 같이 산다 해"]]></title>
         <id>https://v.daum.net/v/20231107002448089</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231106232114430"/>
         <updated>2023-11-06T15:11:51.025Z</updated>
         <content type="html"><![CDATA[(엑스포츠뉴스 이효반 기자) 전인권이 밴드 '들국화'의 작명 일화를 공개했다. 6일 방송된 tvN STORY '회장님네 사람들'(이하 '회장님네')에는 가수 전인권이 게스트로 출연했다. 전인권은 록밴드 '들국화'의 보컬, 해당 밴드는 1980년대 큰 인기를 끌었다. 키보드는 허성욱, 베이스는 최성원. 이날 김용건은 전인권에게 처음부터 그룹 이름이 들국화였는]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[포천 사면시가 부부 남편, "방송 후 XXX 소리 들어…주변에서 욕 많이 먹어"]]></title>
-        <id>https://v.daum.net/v/20231106232033419</id>
-        <link href="https://v.daum.net/v/20231106232033419"/>
-        <updated>2023-11-06T15:11:51.026Z</updated>
-        <content type="html"><![CDATA[[OSEN=김예솔 기자] 사면시가 부부의 근황이 공개됐다.&nbsp; 6일에 방송된 MBC '오은영 리포트 결혼지옥'에서는 부부들의 방송 후 이야기로 애프터 특집 1부가 공개된 가운데 포천 생활 사면 시가 부부의 방송 그 후 이야기가 전해졌다.&nbsp; 사면시가 부부는 시댁이 있는 포천에서 신혼 생활을 시작한 부부로 결혼 전에 미용실을 개업하고 활발한 활동을 했던 아내]]></content>
     </entry>
 </feed>
