@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-11-06T14:10:49.365Z</updated>
+    <updated>2023-11-06T15:12:01.433Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[남주혁X유지태X이준혁 '비질란테', 한국형 다크 히어로 글로벌 흥행 정조준]]></title>
+        <id>https://v.daum.net/v/20231107000201769</id>
+        <link href="https://v.daum.net/v/20231107000201769"/>
+        <updated>2023-11-06T15:11:45.830Z</updated>
+        <content type="html"><![CDATA[[스포츠한국 모신정 기자]&nbsp;디즈니+ 시리즈 '비질란테'가 제작보고회를 열고 베일을 벗었다.&nbsp; 6일 오전 서울 강남구 그랜드 인터컨티넨탈 서울 파르나스에서 디즈니+ 시리즈 '비질란테'(극본 이민섭/연출 최정열)가 제작보고회를 개최했다.&nbsp; 이날 행사에는 연출을 맡은 최정열 감독과 주연을 맡은 유지태, 이준혁, 김소진이 참석해 드라마의 연출 의도와 출]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['혼례대첩' 조이현, 로운 앞에서 로운 험담 "지질한 진상"]]></title>
         <id>https://v.daum.net/v/20231106230900372</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231106175705282"/>
         <updated>2023-11-06T09:12:34.163Z</updated>
         <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]'우당탕탕 패밀리’의 이효나가 이도겸의 고양이가 남상지임을 알고 충격에 빠진다. 오늘(6일) 저녁 8시 30분 방송되는 KBS 1TV 일일드라마 ‘우당탕탕 패밀리’(연출 김성근 / 극본 문영훈 / 제작 몬스터유니온, 아센디오) 33화에서는 유은성(남상지 분), 강선우(이도겸 분), 신하영(이효나 분)의 삼각관계가 본격적으]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['사운드트랙 #2' 헤어진 전 연인과 4년만 재회…금새록X노상현, 12월 공개]]></title>
-        <id>https://v.daum.net/v/20231106175403204</id>
-        <link href="https://v.daum.net/v/20231106175403204"/>
-        <updated>2023-11-06T09:12:34.166Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 윤현지 기자) 디즈니+가 '사운드트랙 #2'를 올 12월 공개를 앞두고 티티징 영상을 선보였다. 오는 12월 공개를 확정 지은 '사운드트랙 #2'는 피아노 과외 선생님 현서(김새록 분)가 뜨겁게 사랑하고 차갑게 헤어졌던 전연인과 바랜 꿈을 다시 잡아준 연하남과 함께 뮤직 프로젝트를 위해 한 집에 머물게 되면서 벌어지는 로맨스 드라마.&nbsp; '사운]]></content>
     </entry>
 </feed>
