@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-11-07T09:10:52.117Z</updated>
+    <updated>2023-11-07T10:12:08.603Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['독전2' 조진웅→김동영x이주영, 돌아온 앙상블]]></title>
+        <id>https://v.daum.net/v/20231107183346234</id>
+        <link href="https://v.daum.net/v/20231107183346234"/>
+        <updated>2023-11-07T10:11:44.778Z</updated>
+        <content type="html"><![CDATA[[OSEN=김보라 기자] 영화 '독전 2'가 보도스틸을 공개했다. '독전2'(감독 백, 제작 용필름, 공동제작 슈퍼픽션)는 용산역에서 벌인 지독한 혈투 이후 여전히 이 선생을 쫓는 형사 원호(조진웅 분)와 사라진 락(오승훈 분), 다시 나타난 브라이언(차승원 분)과 사태 수습을 위해 중국에서 온 큰칼(한효주 분)의 독한 전쟁을 그린 범죄 액션 영화. 7]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[격정적이고 귀중한 한 번뿐인 삶을 어떻게 쓸 생각인가]]></title>
         <id>https://v.daum.net/v/20231107180906475</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231107143806914"/>
         <updated>2023-11-07T06:14:20.632Z</updated>
         <content type="html"><![CDATA[[OSEN=김보라 기자] '더 마블스'를 연출한 니아 다코스타 감독이 한국 배우 박서준을 칭찬했다. 니아 다코스타 감독이 연출한 '더 마블스'(수입배급 월트디즈니 컴퍼니 코리아)는 우주를 지키는 히어로 캡틴 마블 캐럴 댄버스(브리 라슨)가 능력을 사용할 때마다 모니카 램보(테요나 패리스), 미즈 마블 카말라 칸(이만 벨라니)과 위치가 바뀌는 위기에 빠지]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['로키 시즌2' 5회, 레전드급 엔딩 "마침내 타임슬립을 통제하다" 6회 궁금증 폭발]]></title>
-        <id>https://v.daum.net/v/20231107141931258</id>
-        <link href="https://v.daum.net/v/20231107141931258"/>
-        <updated>2023-11-07T06:14:20.636Z</updated>
-        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]뛰어난 스토리텔링과 혁신적인 콘텐츠로 최상의 엔터테인먼트 경험을 선사하는 세계적인 스트리밍 서비스 디즈니+ 마블 오리지널 시리즈 '로키 시즌2'가 지난 3일(금) 5회를 공개, 완전히 다른 모습으로 마주하게 된 ‘팀 로키’와 모든 시간선의 종말을 막아내야만 하는 ‘로키’의 절박함이 몰입감을 높이며 시청자들의 호평을 이끌어냈다]]></content>
     </entry>
 </feed>
