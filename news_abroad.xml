@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-11-07T04:13:11.022Z</updated>
+    <updated>2023-11-07T05:10:29.337Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘블랙펜서’ 스턴트맨 배우, 비극적 교통사고로 자녀 셋과 함께 사망]]></title>
+        <id>https://v.daum.net/v/20231107140135532</id>
+        <link href="https://v.daum.net/v/20231107140135532"/>
+        <updated>2023-11-07T05:10:28.740Z</updated>
+        <content type="html"><![CDATA[[스포츠서울 | 박효실기자] 영화 ‘어벤져스’ ‘블랙펜서’ 등 마블 시리즈에 출연했던 유명 스턴트맨이자 배우 타라자 람세스가 비극적인 교통사고로 사망했다. CNN은 6일(현지시간) “배우이자 무술가인 타라자 람세스가 지난 2일 조지아주에서 발생한 교통사고로 41세의 나이에 사망했다. 그의 차에 타고 있던 13세의 딸, 10세 아들, 8주된 딸도 사망했]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['비틀즈' 폴 매카트니 "故 존 레논·조지 해리슨 죽음...지금도 못 받아들여"]]></title>
         <id>https://v.daum.net/v/20231107130030604</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231107083802012"/>
         <updated>2023-11-07T00:48:25.915Z</updated>
         <content type="html"><![CDATA[[OSEN=박소영 기자] 마블 유니버스에서 활약한 스턴트맨이 끔찍한 사고로 세상을 떠나 많은 이들을 안타깝게 하고 있다. 6일(현지시각) 지역 매체 WSB-TV 보도에 따르면 최근 타라자 람세스의 차가 고속도로에서 고장난 트랙터 트레일러와 충돌했다. 이 사고로 운전자인 타라자 람세스가 사망했다. 하지만 더욱 끔찍한 건 함께 타고 있던 아이들이 세상을 떠]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[메간 폭스, '페미니즘 시집' 출간…"여성이 공감할 수 있는 내용"]]></title>
-        <id>https://v.daum.net/v/20231107073030867</id>
-        <link href="https://v.daum.net/v/20231107073030867"/>
-        <updated>2023-11-06T23:10:36.419Z</updated>
-        <content type="html"><![CDATA[[TV리포트=이예은 기자] 영화 '트랜스포머'로 잘 알려진 배우 메간 폭스가 페미니즘 시집을 출간한다.&nbsp; 외신 연예 매체 피플은 6일(현지 시간) 메간 폭스가 7일(현지 시간) 자신의 첫 시집인 '예쁜 남자 애들은 독하다(Pretty Boys Are Poisonous)'를 출간할 예정이라고 보도했다.&nbsp; '예쁜 남자 애들은 독하다'에는 70여 편의 가슴 아프]]></content>
     </entry>
 </feed>
