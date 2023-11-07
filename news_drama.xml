@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-11-07T10:12:08.600Z</updated>
+    <updated>2023-11-07T11:09:18.687Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['세번째 결혼' 윤해영, 친딸 오승아 앞에서 전노민 내연녀와 언쟁 "얼마를 원해?"]]></title>
+        <id>https://v.daum.net/v/20231107194300291</id>
+        <link href="https://v.daum.net/v/20231107194300291"/>
+        <updated>2023-11-07T11:09:06.147Z</updated>
+        <content type="html"><![CDATA[[TV리포트=이혜미 기자] 윤해영이 친딸 오승아 앞에서 현 남편 전노민의 내연녀와 언쟁을 벌이는 수모를 겪었다. 7일 MBC ‘세 번째 결혼’에선 해일(윤해영 분)과 다정(오승아 분)의 우연한 만남이 그려졌다. 이날 해일은 제국의 내연녀와 산부인과를 찾은 바. 당장 검사를 받으라는 해일에 여성은 “그럼 내가 거짓말이라도 한다는 거예요?”라며 격앙된 반응을]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[수지도 뱃살 있었네…"볼록 나온 배에 감독도 놀라"]]></title>
+        <id>https://v.daum.net/v/20231107192004766</id>
+        <link href="https://v.daum.net/v/20231107192004766"/>
+        <updated>2023-11-07T11:09:06.150Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 김현정 기자) 가수 겸 배우 수지가 '이두나!' 촬영 중 배가 나온 에피소드를 들려줬다. 31일 유튜브 채널 'TEO 테오'에는 '수지한테 안 반하는 거.. 그거 어떻게 하는 건데 | EP.13 이두나! 수지&amp;양세종'이라는 제목의 '살롱드립2' 영상이 공개됐다. 수지는 넷플릭스 '이두나!'애 출연했다. 평범한 대학생 원준이 셰어하우스에서 화려]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['오사개', 주 1회 편성인데 또 결방…이대로 괜찮나]]></title>
         <id>https://v.daum.net/v/20231107182530936</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20231107161817106"/>
         <updated>2023-11-07T08:13:47.975Z</updated>
         <content type="html"><![CDATA[짜릿 그 자체다. 배우 김남길 표 ‘K-액션’이 전 세계 시청자들의 마음을 사로잡고 있다. 소처럼 ‘열일’하고 있는 배우 김남길은 “늘 해보고 싶은 게 많다”며 폭넓은 활동에 대한 욕심을 드러냈다. 현재 넷플릭스에서 절찬리 스트리밍 중인 시리즈 ‘도적: 칼의 소리’(이하 ‘도적’)는 1920년 무법천지의 땅 간도에서 소중한 사람들과 삶의 터전을 지키기 위해]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[정우성 “청각장애인役, 수어 하며 표정에 신경 많이 써”]]></title>
-        <id>https://v.daum.net/v/20231107160604565</id>
-        <link href="https://v.daum.net/v/20231107160604565"/>
-        <updated>2023-11-07T07:09:58.794Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 박수인 기자] '사랑한다고 말해줘'가 배우 정우성의 스틸컷을 공개했다. 오는 11월 27일 첫 방송되는 지니 TV 오리지널 ‘사랑한다고 말해줘’(연출 김윤진, 극본 김민정, 기획 KT스튜디오지니, 제작 스튜디오앤뉴·아티스트스튜디오, 원작 일본 TV 드라마 ‘사랑한다고 말해줘’(각본 키타카와 에리코·제작 TBS 텔레비전))는 손으로 말하는 화가 차]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘정신병동’ 유인수, 박보영과 재회→공황장애 간호실습생 열연]]></title>
-        <id>https://v.daum.net/v/20231107155636143</id>
-        <link href="https://v.daum.net/v/20231107155636143"/>
-        <updated>2023-11-07T07:09:58.798Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 장예솔 기자] 배우 유인수가 '정신병동에도 아침이 와요'에서 실감나는 열연을 펼쳤다. 넷플릭스 오리지널 시리즈 '정신병동에도 아침이 와요'는 정신건강의학과 근무를 처음 하게 된 간호사 다은(박보영 분)이 정신병동 안에서 만나는 세상과 마음 시린 사람들의 다양한 이야기를 그린 작품이다. 극중 유인수는 정신병동 간호실습생 지승재 역을 맡았다. 3화]]></content>
     </entry>
 </feed>
