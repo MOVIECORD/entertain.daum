@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-11-07T20:11:16.628Z</updated>
+    <updated>2023-11-07T21:09:45.470Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘더 마블스’ 감독 “가장 좋아하는 사람은 유재석..‘이태원 클라쓰’ 보고 박서준 캐스팅”  ②]]></title>
+        <id>https://v.daum.net/v/20231108060007680</id>
+        <link href="https://v.daum.net/v/20231108060007680"/>
+        <updated>2023-11-07T21:09:44.859Z</updated>
+        <content type="html"><![CDATA[“어렸을 때부터 K콘텐츠 좋아했어요. 그러다 ‘이태원 클라쓰’를 보고 박서준을 캐스팅했죠.” 마블 영화 ‘더 마블스’를 연출한 니아 다코스타 감독은 K콘텐츠에 대한 애정을 숨기지 않았다. ‘두 여자’ ‘캔디맨’으로 할리우드에서 주목 받은 신예로 떠오른 니아 다코스타 감독에게 ‘더 마블스’는 자신의 커리어를 향상시킬 수 있는 기회였다. 그는 이 기회를]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[60세 데미 무어, 충격적으로 젊어진 행사장 근황..'관리 집착' 이유는?]]></title>
         <id>https://v.daum.net/v/20231107225424215</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231107151125358"/>
         <updated>2023-11-07T06:14:44.203Z</updated>
         <content type="html"><![CDATA[(엑스포츠뉴스 이창규 기자) 최근 세상을 떠난 故 매튜 페리가 과거 시트콤 '프렌즈'의 대본 일부를 수정하게끔 작가에게 요청했다는 사실이 뒤늦게 알려졌다. 6일(현지시간)&nbsp;'프렌즈' 시즌5에서 로스(데이빗 쉼머 분)와 레이첼(제니퍼 애니스톤)을 마주치는 승무원으로 출연했던 배우 리사 캐시가 TMZ와의 인터뷰에서 자신의 역할에 대한 비하인드를 전했다. 그는]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[강직인간 증후군 맞아?..셀린 디온, 몰라보게 건강한 근황]]></title>
-        <id>https://v.daum.net/v/20231107144049009</id>
-        <link href="https://v.daum.net/v/20231107144049009"/>
-        <updated>2023-11-07T06:14:44.204Z</updated>
-        <content type="html"><![CDATA[[OSEN=박소영 기자] ‘강직 인간 증후군’을 겪고 있는 팝스타 셀린 디온이 알려진 바와 달리 건강한 근황을 공개해 팬들을 흐뭇하게 하고 있다. 셀린 디온은 최근 아들들과 함께 라스베이거스에서 열린 몬트리올 캐나디언스 NHL 경기를 직관했다. 이는 3년 만의 공식석상에 모습을 드러낸 것이자 지난해 12월 희귀병 진단으로 치료가 불가능하다는 몸 상태를]]></content>
     </entry>
 </feed>
