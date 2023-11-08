@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/variety</id>
     <title>다음 연예 ─ 뉴스 ─ 예능</title>
-    <updated>2023-11-08T19:09:03.650Z</updated>
+    <updated>2023-11-08T20:11:37.703Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘연상 NO’ 17기 영호, 3살 연상 현숙과 데이트 후 직진 선언]]></title>
+        <id>https://v.daum.net/v/20231109050707951</id>
+        <link href="https://v.daum.net/v/20231109050707951"/>
+        <updated>2023-11-08T20:11:24.530Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 임유리 기자] 17기 영호가 연상은 절대 안 된다는 자신의 원칙을 깨고 현숙에게 직진을 선언했다. 8일 방송된 케이블채널 ENA PLAY·SBS PLUS ‘나는 SOLO &lt;나는 솔로&gt;’(이하 ‘나는 솔로’)에서는 17기 영호과 현숙과 데이트를 하는 모습이 그려졌다. 이날 현숙은 영호에게 “궁금하긴 하다. 연상은 선호하지 않는다고 했는데”]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[유재석, 최수종 말에 공감 "나은이 6살, 험난한 세상 어떻게 살아갈까”]]></title>
         <id>https://v.daum.net/v/20231109035025388</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231108235930279"/>
         <updated>2023-11-08T15:11:15.381Z</updated>
         <content type="html"><![CDATA[[OSEN=오세진 기자]&nbsp;MBN ‘어른들은 모르는 고딩엄빠4’(이하 ‘고딩엄빠4’) 김우진과 박소연이 부부 갈등을 극복했다. 8일 방영한 ‘고딩엄빠4’에서는 20대 치기 어린 욕망으로 만나다 교제 후 임신하여 결혼과 출산을 겪은 어린 부부 박소연과 김우진의 사연이 공개됐다. 박소연은&nbsp;김우진과의 교제를 이어나갔고 임신 확인 후 바로 출산까지 결정했다. 이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[조혜련 "'십자인대 손상' 수술 후 축구선수와 재활" 쾌속 복귀]]></title>
-        <id>https://v.daum.net/v/20231108235810270</id>
-        <link href="https://v.daum.net/v/20231108235810270"/>
-        <updated>2023-11-08T15:11:15.383Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 오승현 기자) '조해태' 조혜련이 부상을 딛고 돌아왔다.&nbsp; 8일 방송한 SBS '골 때리는 그녀들'에는 수술을 위해 '골때녀'에서 하차했던 개벤져스 조혜련이 출연했다. 그는 과거 전방 십자인대가 80% 손상되는 부상을 입은 바 있다.&nbsp; 이날 조혜련은 "조해태가 돌아왔다"며 "저 같은 경우는 수술하고 3주 뒤부터 축구선수들하고 재활을 했다. 축]]></content>
     </entry>
 </feed>
