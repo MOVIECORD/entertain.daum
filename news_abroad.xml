@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-11-09T07:10:04.331Z</updated>
+    <updated>2023-11-09T08:13:34.893Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['이태원 클라쓰’ 대만판 나온다..배우 캐스팅 공개]]></title>
+        <id>https://v.daum.net/v/20231109165720857</id>
+        <link href="https://v.daum.net/v/20231109165720857"/>
+        <updated>2023-11-09T08:13:34.179Z</updated>
+        <content type="html"><![CDATA[[OSEN=지민경 기자] 드라마 ‘이태원 클라쓰’의 대만 리메이크판이 제작된다. 9일 대만 매체 ET 투데이 보도에 따르면 대만 제작사 다머우 엔터테인먼트는 이날 열린 ‘대만 크리에이티브 콘텐츠 페스티벌(2023 TCCF)’에서 출시 예정작을 발표했다. 다머우 엔터테인먼트 측은 워너 브러더스 디스커버리와 함께 HBO 아시아 오리지널 작품 ‘Fired U]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美 SNL 작가, 故 매튜 페리 죽음에 "재밌다"...비판↑]]></title>
+        <id>https://v.daum.net/v/20231109164200099</id>
+        <link href="https://v.daum.net/v/20231109164200099"/>
+        <updated>2023-11-09T08:13:34.179Z</updated>
+        <content type="html"><![CDATA[[TV리포트=강성훈 기자] 인기 배우 매튜 페리의 사망 소식에 여전히 전 세계 팬들은 슬퍼하고 있다. 이 가운데 미국 SNL 전 작가 겸 코미디언인 케빈 브레넌(kevin brennan)이 고인을 조롱해 팬들은 분노했다.&nbsp; 최근 케빈 브레넌은 자신의 소셜네트워크서비스에 故 매튜 페리의 사망 기사를 공유했다. 그는 "온수 욕조에 빠져 죽었죠. 하하하하"라고]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[할리웃 작가·배우 노동조합, 파업 종료 "손실액 8조 가량"]]></title>
         <id>https://v.daum.net/v/20231109155210641</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20231109112031130"/>
         <updated>2023-11-09T03:11:16.757Z</updated>
         <content type="html"><![CDATA[[스포츠서울 | 유다연 기자] 브리트니 스피어스의 낙서가 집값을 상승시켰다. 미국 연예 매체 TMZ는 8일(현지시각) 브리트니 스피어스가 유년기 거주했던 집이 매물로 나왔다고 보도했다. 이 집의 가격은 약 120만 달러(한화 약 15억 7440만 원)에 달한다. 스피어스의 아버지 제이미는 2년 6개월 전, 28만 9000달러(약 3억 8000만원)에]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['더 마블스' 북미 호평 터졌다…"짧고 달콤한 액션 가득해"]]></title>
-        <id>https://v.daum.net/v/20231109111029619</id>
-        <link href="https://v.daum.net/v/20231109111029619"/>
-        <updated>2023-11-09T02:20:30.762Z</updated>
-        <content type="html"><![CDATA[[OSEN=김보라 기자]&nbsp;마블 영화 ‘캡틴 마블’(2019)의 속편 ‘더 마블스’가 북미 시사회를 통해 처음 공개된 가운데, 영화 저널리스트들 사이에서 호평이 쏟아졌다. ‘더 마블스’(감독 니아 다코스타, 수입배급 월트디즈니 컴퍼니 코리아)는 우주를 지키는 히어로 캡틴 마블 캐럴 댄버스(브리 라슨)가 능력을 사용할 때마다 모니카 램보(티오나 패리스),]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[주혜민 "편지 좀 제발 그만 보내"...일일이 답장 다 하고 있었다]]></title>
-        <id>https://v.daum.net/v/20231109110101142</id>
-        <link href="https://v.daum.net/v/20231109110101142"/>
-        <updated>2023-11-09T02:20:30.765Z</updated>
-        <content type="html"><![CDATA[[TV리포트=안수현 기자] 홍콩 가수 겸 배우 주혜민이 팬들에게 "편지를 그만 보내라"라고 요청했다. 최근 주혜민(55·Vivian Chow) 팬레터가 한가득 쌓인 편지 무더기를 품에 끌어안은 사진을 공개했다. 그녀는 "여러분의 편지를 언제까지 감당할 수 있을지 모르겠지만, 꼭 열어서 답장하고 응원해 주는 팬들에게 행복과 동기부여가 되도록 노력하겠다"라며]]></content>
     </entry>
 </feed>
