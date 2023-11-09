@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/variety</id>
     <title>다음 연예 ─ 뉴스 ─ 예능</title>
-    <updated>2023-11-09T19:08:42.145Z</updated>
+    <updated>2023-11-09T20:11:36.404Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[안정환 "♥이혜원 화났을 때 피해 다니는 동선 연구"…'12월 결혼' 독다니엘에 조언]]></title>
+        <id>https://v.daum.net/v/20231110050908322</id>
+        <link href="https://v.daum.net/v/20231110050908322"/>
+        <updated>2023-11-09T20:11:27.482Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 박서연 기자] ‘선 넘은 패밀리’ 안정환이 오는 12월 결혼을 앞둔 독일인 다니엘을 위해 조언한다.  10일 오후 9시 30분 방송되는 종합편성채널 채널A ‘선 넘은 패밀리’ 7회에서는 독일에서 한국으로 선을 넘어온 지 15년 차인 다니엘 린데만이 게스트로 출연한다. 이날 다니엘은 “여자친구와 12월에 결혼한다”고 깜짝 발표한다. 모두의]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[코드 쿤스트 “곰팡이 가득한 지하 골방서 작업” 16호 가수와 인연]]></title>
         <id>https://v.daum.net/v/20231110015111335</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231109235136662"/>
         <updated>2023-11-09T15:11:39.967Z</updated>
         <content type="html"><![CDATA[[마이데일리 = 임유리 기자] 조세호에게 여자친구가 생겼다는 루머가 생성됐다. 9일 오후 방송된 KBS 2TV 예능 프로그램 ‘홍김동전’은 수능 D-7 특집으로 꾸며졌다. 이날 홍진경, 김숙, 조세호, 주우재, 장우영은 수능을 대비한 평정심 훈련을 진행했다. 평점심 훈련은 뒷담화 게임으로 이루어졌다. 한 사람씩 돌아가면서 앞자리에 앉으면 제한 시간 3]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[16기 상철 "지금 직장, 워싱턴주에서 제일 좋아…美 떠날 생각 없다"]]></title>
-        <id>https://v.daum.net/v/20231109235013654</id>
-        <link href="https://v.daum.net/v/20231109235013654"/>
-        <updated>2023-11-09T15:11:39.969Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 신현지 기자) 16기 상철이 미국을 떠나지 않는 이유를 밝혔다. 9일 방송된 SBS Plus 예능 프로그램 '나는 SOLO, 그 후 사랑은 계속된다'(이하 '나솔사계')에서는 16기 상철이 자신이 재직 중인 엄청난 규모의 회사를 공개했다. 이날 16기 상철은 오전 재택근무를 마친 뒤, 한인 마트로 향하는 길에 자신이 다니는 회사를 소개해 시선]]></content>
     </entry>
 </feed>
