@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-11-09T10:11:48.989Z</updated>
+    <updated>2023-11-09T11:09:33.878Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['25세·23세' 男女 아이돌, 결혼 발표..."아이가 생겼습니다"]]></title>
+        <id>https://v.daum.net/v/20231109193100654</id>
+        <link href="https://v.daum.net/v/20231109193100654"/>
+        <updated>2023-11-09T11:09:33.130Z</updated>
+        <content type="html"><![CDATA[[TV리포트=이경민 기자] 4인조 댄스 록밴드 'DISH//'의 야베 마사키(25)와&nbsp;걸그룹 '라스트 아이돌'의 전 멤버 나가츠키 미도리(23)가 결혼을 발표했다. 9일(현지 시간) 야베 마사키와 나가츠키 미도리가 공식 홈페이지와 소셜미디어 계정을 통해 결혼과 임신 소식을 알렸다.&nbsp; 야베 마사키는 "오래 전부터 교제해 온 나가츠키 미도리와 결혼하게 되었다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘7조 피해’ 美 배우·방송인 노조 파업, 거대 기업에 뜻 관철시켜]]></title>
         <id>https://v.daum.net/v/20231109184017475</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231109120900409"/>
         <updated>2023-11-09T03:11:16.749Z</updated>
         <content type="html"><![CDATA[[TV리포트=강성훈 기자] 마블 스튜디오 사장 케빈 파이기(50)가 아이언맨(로버트 다우니 주니어 분) 복귀설에 관해 침묵을 깼다. 8일(현지 시간) 미국 라스 베가스에서 마블 신작 '더 마블스'의 프리미엄 상영회가 열렸다. 케빈 파이기는 이날 "(복귀는) 아직 논의되지 않았다"며 "난 로버트 다우니 주니어를 사랑한다. 그는 우리 가족의 일부다"라고 전했다]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美 배우조합 파업, 118일 만에 종료…임금 인상 합의]]></title>
-        <id>https://v.daum.net/v/20231109120508298</id>
-        <link href="https://v.daum.net/v/20231109120508298"/>
-        <updated>2023-11-09T03:11:16.749Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 김유진 기자) 할리우드 배우들의 파업이 약 4개월 만에 종료됐다. 8일(현지시간) 미국 LA타임스 등 현지 언론에 따르면 할리우드 배우·방송인 노동조합(SAG-AFTRA)은 이날 성명을 통해 "오늘 오후 118일간의 파업을 끝내는 영화·TV 제작자연맹(AMPTP)과의 잠정 합의를 승인했다"고 밝혔다. 파업은 9일 오전 0시 1분에 공식적으로]]></content>
     </entry>
 </feed>
