@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-11-10T22:10:28.054Z</updated>
+    <updated>2023-11-10T23:10:18.352Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['서울의 봄'이 되돌린 79년 12월..명연기의 향연]]></title>
+        <id>https://v.daum.net/v/20231111080503047</id>
+        <link href="https://v.daum.net/v/20231111080503047"/>
+        <updated>2023-11-10T23:10:01.189Z</updated>
+        <content type="html"><![CDATA[[편집자주] 영화를 보는 김나연 기자의 사적인 시선. [스타뉴스 | 김나연 기자] 서울의 봄 / 사진=플러스엠 엔터테인먼트, 하이브미디어코프'서울의 봄'이 1979년 12월 운명의 그날로, 시계를 되돌렸다. 141분의 긴 러닝타임 동안 배우들의 명연기가 스크린을 가득 채우고, 단순히 '과거'로 치부될 만한 그날의 진실을 되새긴다. 다 보고 나면, 온몸이 저]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[로맨스를 빌린 힐링 드라마…영화 '어느 날 그녀가 우주에서']]></title>
         <id>https://v.daum.net/v/20231111070015428</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231110152440015"/>
         <updated>2023-11-10T07:09:39.015Z</updated>
         <content type="html"><![CDATA[(엑스포츠뉴스 오승현 기자) '더 마블스'가 개봉 이후 확실한 관람 포인트로 호평을 받고 있다. '더 마블스'(감독 니아 다코스타)는 우주를 지키는 히어로 캡틴 마블 ‘캐럴 댄버스’(브리 라슨 분)가 능력을 사용할 때마다 ‘모니카 램보’(테요나 패리스), 미즈 마블 ‘카말라 칸’(이만 벨라니)과 위치가 바뀌는 위기에 빠지면서 뜻하지 않게 새로운 팀플레이를]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['냉정과 열정사이', 12월 6일 개봉 20주년 기념 재개봉]]></title>
-        <id>https://v.daum.net/v/20231110152404997</id>
-        <link href="https://v.daum.net/v/20231110152404997"/>
-        <updated>2023-11-10T07:09:39.016Z</updated>
-        <content type="html"><![CDATA[[SBS 연예뉴스 | 김지혜 기자] 일본 멜로의 진수를 보여준 영화 '냉정과 열정사이'가 개봉 20주년을 기념해 12월 6일 재개봉한다. '냉정과 열정사이'는 오래전 헤어졌지만 서로를 그리워하는 '준세이'와 '아오이', 두 남녀의 애틋한 러브 스토리를 담은 클래식 멜로. 동명의 원작 소설부터 화제를 모았던 이 작품은 두 사람의 애절하고도 아름다운 사랑 이야]]></content>
     </entry>
 </feed>
