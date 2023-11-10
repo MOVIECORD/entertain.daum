@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-11-10T10:12:26.154Z</updated>
+    <updated>2023-11-10T11:09:19.750Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[유명 男 아이돌, 여친에 멤버 목걸이 선물...팬기만 논란]]></title>
+        <id>https://v.daum.net/v/20231110191430012</id>
+        <link href="https://v.daum.net/v/20231110191430012"/>
+        <updated>2023-11-10T11:09:19.093Z</updated>
+        <content type="html"><![CDATA[[TV리포트=이경민 기자] 일본 보이그룹 '나니와단시'의 멤버 타카하시 쿄헤이(23)가 '팬기만' 의혹에 휩싸였다.&nbsp; 지난 8일 일본 주간지 '주간문춘'은 타카하시 쿄헤이가 '그라비아 아이돌' 쿠로키 히카리의 자택 아파트를 방문하는 모습을 포착해 보도했다. 보도에 따르면 두 사람은 서로의 자택을 드나들며 스케줄을 소화하고 있다. 그런 가운데 쿄헤이가 여자]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[방송인 황소풍, 생일날 향년 34세로 익사...여친 카리나는 살았다]]></title>
         <id>https://v.daum.net/v/20231110183130997</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231110060230995"/>
         <updated>2023-11-09T21:09:43.576Z</updated>
         <content type="html"><![CDATA[[TV리포트=강성훈 기자] 대만 인기 배우 명도(43)은 '장사 천재'다. 7일(현지 시간) 외신 '딤섬데일리 홍콩'의 보도 따르면 명도는 항저우 라이브 스트리밍 판매 이벤트에서 그의 아내와 함께 약 2억 4천만 달러(한화 약 3149억 원)의 매출을 기록했다.&nbsp; 라이비 스트리밍 당시 시청자 수는 무려 800만 명에 달하며 명도의 엄청난 인기와 영향력을 부]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["언어 능력 상실"…브루스 윌리스, 딸이 공개한 '치매 父' 근황]]></title>
-        <id>https://v.daum.net/v/20231109231326383</id>
-        <link href="https://v.daum.net/v/20231109231326383"/>
-        <updated>2023-11-09T15:11:52.703Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 조혜진 기자) 할리우드 배우 브루스 윌리스의 건강 상태가 전해졌다. 브루스 윌리스의 딸 탈룰라 윌리스는 8일 드류 베리모어 쇼에서 "아버지는 변함 없으시다"라며 브루스 윌리스의 건강 상태에 대해 전했다. 지난해 브루스 윌리스는 실어증 진단을 받았음을 밝히며 은퇴를 선언한 바 있다. 이어 올해 2월에는 전두측두엽 치매(FTD)로 진행 됐다고도]]></content>
     </entry>
 </feed>
