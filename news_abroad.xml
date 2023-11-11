@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-11-11T01:44:24.002Z</updated>
+    <updated>2023-11-11T02:50:11.932Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘29살’ 유명 인플루언서, 지방흡입 수술 중 폐전색증으로 사망]]></title>
+        <id>https://v.daum.net/v/20231111113021988</id>
+        <link href="https://v.daum.net/v/20231111113021988"/>
+        <updated>2023-11-11T02:50:11.099Z</updated>
+        <content type="html"><![CDATA[[OSEN=강서정 기자] 브라질의 유명 인플루언서 루아나 안드라데가 지방흡입 수술을 받던 중 사망했다.&nbsp; 10일(현지시간) 브라질 뉴스 매체 글로보1 보도에 따르면 29살의 루아나 안드라데는 브라질 상파울루에서 미용 시술을 받기 위해 병원에 입원한 지 하루 만에 폐색전증을 앓다가 사망했다.&nbsp; 수술이 시작되고 2시간 30분 만에 안드라데는 심장마비로 중환]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[메간 폭스, 환승연애 해놓곤 "세아들 위해 전남편 인정..새 약혼녀 좋아"]]></title>
         <id>https://v.daum.net/v/20231111104028435</id>
@@ -88,12 +95,5 @@
         <link href="https://v.daum.net/v/20231110130130261"/>
         <updated>2023-11-10T04:13:26.274Z</updated>
         <content type="html"><![CDATA[[TV리포트=안수현 기자] 홍콩 배우 견자단의 딸이 파리의 소수 정예 무도회인 '발 데 데뷔탕트'에 초대받았다. 오는 25일, 프랑스 파리의 패션 행사인 발 데 데뷔랑트(르 발)이 개최되는 가운데 홍콩의 유명 배우 견자단(60)의 딸이자 싱어송라이터로 활동 중인 견제여(19)가 초대받았다. 매년 11월 파리에서 열리는 발 데 데뷔탕트(Bal des Dé]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[스트레이 키즈 리노, 빌보드 200 1위 비결? “스테이 덕분… 감사해”]]></title>
-        <id>https://v.daum.net/v/20231110113813200</id>
-        <link href="https://v.daum.net/v/20231110113813200"/>
-        <updated>2023-11-10T03:12:05.626Z</updated>
-        <content type="html"><![CDATA[스트레이 키즈 리노가 스테이(팬클럽 이름)에게 고마운 마음을 전했다.&nbsp; 10일 서울 영등포구 한 호텔에서 스트레이 키즈(방찬, 리노, 창빈, 현진, 한, 필릭스, 승민, 아이엔)신곡 미니 앨범 ‘락(樂)-스타’ 기자 간담회가 열렸다.&nbsp; 스트레이 키즈는 2018년 3월 데뷔 이후 꾸준한 성장을 거듭해 왔다. ‘오디너리’, ‘맥시던트’, ‘파이브스타’]]></content>
     </entry>
 </feed>
