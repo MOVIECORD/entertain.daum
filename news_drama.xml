@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-11-12T07:10:43.224Z</updated>
+    <updated>2023-11-12T08:13:19.572Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["날 마음껏 이용해" 성훈, 상남자 고백→정유민과 '아찔 입맞춤']]></title>
+        <id>https://v.daum.net/v/20231112161533317</id>
+        <link href="https://v.daum.net/v/20231112161533317"/>
+        <updated>2023-11-12T08:13:02.325Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 박서연 기자] '완벽한 결혼의 정석' 성훈과 정유민이 눈물의 키스로 '아찔 로맨스'의 속도를 높인다. 12일 오후 9시 50분 방송되는 종합편성채널 MBN 주말 미니시리즈 ‘완벽한 결혼의 정석’(극본 임서라 연출 오상원) 6회에서는 성훈과 정유민이 아련한 눈빛과 애틋한 손길로 시너지를 터트린 ‘눈물맛 로맨틱 키스’가 그려진다.  앞선 5]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['연인'과 극명히 대비되는 '고려거란전쟁', 난세의 영웅서사 통할까]]></title>
         <id>https://v.daum.net/v/20231112145940763</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231112130908908"/>
         <updated>2023-11-12T04:12:54.427Z</updated>
         <content type="html"><![CDATA[[OSEN=지민경 기자]&nbsp;‘힘쎈여자 강남순’&nbsp;김정은,&nbsp;옹성우의 공조가 한층 다이내믹해진다. JTBC&nbsp;토일드라마&nbsp;‘힘쎈여자 강남순’(극본 백미경,&nbsp;연출 김정식·이경식,&nbsp;제작 바른손씨앤씨·스토리피닉스·SLL)&nbsp;측은&nbsp;12일, ‘마약 빌런’&nbsp;류시오(변우석 분)를 잡기 위한 황금주(김정은 분),&nbsp;강희식(옹성우 분)의 거침없는 작전을 공개했다. 지난 방송에서 황금]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘완결정’ 성훈-정유민, 눈물 키스로 로맨스 가속도 붙는다]]></title>
-        <id>https://v.daum.net/v/20231112125337686</id>
-        <link href="https://v.daum.net/v/20231112125337686"/>
-        <updated>2023-11-12T04:12:54.429Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 배효주 기자] ‘완벽한 결혼의 정석’ 성훈과 정유민이 로맨스의 속도를 높인다. MBN 주말 미니시리즈 ‘완벽한 결혼의 정석’(극본 임서라/연출 오상원/제작 안형조, 서장원/이하 ‘완결정’)은 가족들에게 배신당한 후 과거로 돌아와 복수를 위해 계약 결혼을 제안한 여자 한이주와 그녀를 아내로 맞이하기 위해 계약 결혼을 받아들인 남자 서도국의 ‘회귀]]></content>
     </entry>
 </feed>
