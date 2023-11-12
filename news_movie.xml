@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-11-12T01:54:29.529Z</updated>
+    <updated>2023-11-12T02:23:22.500Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[제국주의·신비주의 마케팅 ‘그대들은’마저…일본 애니, 어떻게 韓극장가 점령했나]]></title>
+        <id>https://v.daum.net/v/20231112110016257</id>
+        <link href="https://v.daum.net/v/20231112110016257"/>
+        <updated>2023-11-12T02:23:05.407Z</updated>
+        <content type="html"><![CDATA[[스포츠서울 | 함상범 기자]올해 국내 극장가의 주요 키워드 중 하나는 일본 애니메이션의 약진이다. 상반기 ‘더 퍼스트: 슬램덩크’(이하 ‘슬램덩크’), ‘스즈메의 문단속’에 이어 지난 달 25일 개봉한 ‘그대들은 어떻게 살 것인가’까지 연이어 흥행에 성공했다. 재즈 밴드 결성 과정을 그린 음악 애니메이션 ‘블루 자이언트’도 지난 달 18일 개봉 이후]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['만분의 일초' 주종혁의 첫]]></title>
         <id>https://v.daum.net/v/20231112100207410</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231112060211302"/>
         <updated>2023-11-11T21:09:00.664Z</updated>
         <content type="html"><![CDATA[영화 ‘뉴 노멀’(감독 정범식)은 클리셰를 벗어나면서도 고전 공포영화 같은 매력을 지녔다. 귀신이 갑자기 등장하거나 주인공이 굳이 공포 상황을 찾아가는 뻔한 장면은 없다. 등장인물은 왠지 인상들이 익숙하다. 심심해 보이던 이 영화, 하지만 볼수록 뇌리에 강렬히 꽂힌다. 여섯 개로 나뉜 이야기들이 하나로 묶일 때면 기묘한 여운마저 맴돈다. 6일 서울 삼청]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[유라 "작품 속 캐릭터로 욕먹는 일 전혀 부담 안돼"]]></title>
-        <id>https://v.daum.net/v/20231112002804541</id>
-        <link href="https://v.daum.net/v/20231112002804541"/>
-        <updated>2023-11-11T16:12:46.127Z</updated>
-        <content type="html"><![CDATA[[스포츠한국 모신정 기자]&nbsp;인기 걸그룹 출신 배우로서 유라는 작품을 고르는데 있어서 꽤 독특한 행보를 보이고 있다.&nbsp; 유라는 지난해 JTBC 드라마 '기상청 사람들: 사내연애 잔혹사 편'에서 약혼녀가 있는 기상청 대변인 한기준(윤박)과 썸을 타다가 결혼에 골인하는 기상전문 기자 채유진 역을 맛깔스럽게 소화해내 연기력이 물이 올랐다는 평을 받은바 있]]></content>
     </entry>
 </feed>
