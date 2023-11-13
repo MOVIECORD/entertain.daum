@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2023-11-13T18:13:59.872Z</updated>
+    <updated>2023-11-13T19:09:11.810Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[KBS 야심찬 복귀… ‘개그콘서트’ ‘고려거란전쟁’ 엇갈린 반응]]></title>
+        <id>https://v.daum.net/v/20231114040548439</id>
+        <link href="https://v.daum.net/v/20231114040548439"/>
+        <updated>2023-11-13T19:09:06.399Z</updated>
+        <content type="html"><![CDATA[KBS가 ‘수신료의 가치 실현’을 내세우며 야심 차게 내놓은 ‘개그콘서트’와 대하드라마 ‘고려거란전쟁’이 지난 주말 스타트를 끊었다. 두 프로그램 모두 ‘왕좌의 귀환’처럼 여겨지며 시청자의 기대를 받아왔던 탓인지 시청률은 나쁘지 않은 성적표를 받았다. 하지만 평가는 갈리는 분위기다. 지난 주말 1, 2화 방송을 마친 대하드라마 ‘고려거란전쟁’은 1화 5.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[지드래곤 "마약 검출되면 그게 더 이상…말투로 이렇다저렇다 속상해"]]></title>
         <id>https://v.daum.net/v/20231114020534998</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231114000100286"/>
         <updated>2023-11-13T15:11:22.147Z</updated>
         <content type="html"><![CDATA[[TV리포트=이혜미 기자] ‘나는 솔로’ 16기 옥순이 ‘무엇이든 물어보살’에 뜬다. 13일 KBS JOY ‘무엇이든 물어보살’ 방송 말미엔 오는 20일 방송에 대한 예고편이 공개됐다. 이날 고민인으로 등장한 옥순에 서장훈은 “이분은 모를 수 없다”며 놀라워했다. 옥순은 돌싱특집으로 꾸며진 ‘나는 솔로’ 16기 멤버로 영숙과의 불화설은 물론 고소 예고 등으]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['혼례대첩' 또 다른 조력자, 원단·장신구]]></title>
-        <id>https://v.daum.net/v/20231114000031276</id>
-        <link href="https://v.daum.net/v/20231114000031276"/>
-        <updated>2023-11-13T15:11:22.149Z</updated>
-        <content type="html"><![CDATA[전통복식 강조할 수 있었던 원단 '혼례대첩'으로 전통 장신구 유행 이끌까 K-콘텐츠가 전 세계로 뻗어나가고, 시청자들의 기준과 수준이 높아지며 제작자들의 책임감도 막중해졌다. 고증은 말할 것도 없다. 그런 가운데 최근 시청자들의 눈을 두 배로 사로잡은 작품들이 호평받고 있다. 철저한 준비를 통해 고증은 물론이고 시대 당시 '복식'을 보여주고 있는 ']]></content>
     </entry>
 </feed>
