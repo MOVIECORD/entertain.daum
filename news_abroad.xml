@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-11-13T16:14:03.038Z</updated>
+    <updated>2023-11-13T17:11:16.486Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[엑스 재팬, 故히스 사망 공식 발표..."멤버들 마음 정리 안됐다"]]></title>
+        <id>https://v.daum.net/v/20231114011525870</id>
+        <link href="https://v.daum.net/v/20231114011525870"/>
+        <updated>2023-11-13T17:11:15.330Z</updated>
+        <content type="html"><![CDATA[[OSEN=유수연 기자] 엑스재팬(X Japan) 측이 베이시스트 히스(본명 모리에 히로시)의 사망을 공식 발표했다. 지난 11일, 엑스재팬 측은 공식 홈페이지를 통해 "여러분에게 슬픈 소식을 전한다.&nbsp;히스가 10월 29일 대장암 투병 끝에 55세의 나이로 영면했다”고 발표했다. 엑스재팬 측은 "지난 6월, 병원 검사로 대장암이 발견되어 투병을 이어 나]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["테일러 스위프트, ♥새 남친과 6개월 내 약혼 할 것" 예측 등장]]></title>
         <id>https://v.daum.net/v/20231113234123097</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231113105301421"/>
         <updated>2023-11-13T02:23:44.747Z</updated>
         <content type="html"><![CDATA[[TV리포트=안수현 기자] '故 코코 리 극단적 선택' 사건에 영향을 줬다고 의혹을 받은 가수 나잉. 그의 런던에서의 호화로운 생활이 목격됐다. 지난 11일, 한 네티즌은 온라인 소셜미디어를 통해 가수 나잉(55)을 런던에서 목격해 찍은 사진을 공개했다. 나잉은 노래 경연 프로그램인 '싱! 차이나'에서 여섯 시즌 동안 심사위원이자 멘토로 활동했다. 해당]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[20대 유명 인플루언서 지방흡입술 중 폐전색증으로 사망, 네이마르도 애도]]></title>
-        <id>https://v.daum.net/v/20231113103031383</id>
-        <link href="https://v.daum.net/v/20231113103031383"/>
-        <updated>2023-11-13T01:52:36.841Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 하지원 기자] 브라질 인플루언서 루아나 안드라데가 지방흡입 수술을 받다 사망했다. 향년 29세. 11월 10일(현지시간) 브라질 뉴스 매체 글로보 1에 따르면, 안드라데는 지난 7일 브라질 상파울루에서 미용 시술을 받기 위해 병원에 입원한 지 하루 만에 폐색전증(폐혈관이 응고되는 것)을 앓다가 세상을 떠났다. 안드라데는 수술 2시간 30분 후 심]]></content>
     </entry>
 </feed>
