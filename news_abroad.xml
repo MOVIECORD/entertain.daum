@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-11-13T04:13:08.983Z</updated>
+    <updated>2023-11-13T05:11:02.470Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['낙태 폭로' 브리트니 측, 조롱한 SNL에 분노..."섭외하더니 뒤통수쳐"]]></title>
+        <id>https://v.daum.net/v/20231113133101756</id>
+        <link href="https://v.daum.net/v/20231113133101756"/>
+        <updated>2023-11-13T05:11:01.749Z</updated>
+        <content type="html"><![CDATA[[TV리포트=안수현 기자] 가수 겸 배우 브리트니 스피어스의 매니저가 미국 TV 코미디 프로그램 'SNL'의 최근 회차에 관해 불만을 제기했다. 지난 11일(현지 시간), 배우 티모시 샬라메(28)가 메인 게스트로 초대된 예능 'Saturday Night Live' (새터데이 나이트 라이브) 시즌 49에서 다뤄진 한 개그 코너에 대한 반응이 쏟아지고 있다]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[매튜 페리 전연인 "마약했을 가능성 높아...SNS에도 단서 있다"]]></title>
         <id>https://v.daum.net/v/20231113123130421</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231112163901645"/>
         <updated>2023-11-12T08:13:18.850Z</updated>
         <content type="html"><![CDATA[[TV리포트=유비취 기자] 래퍼 니키 미나즈가 성형수술을 후회한다고 고백했다. 지난 9일(현지 시간) 팟캐스트 'The Run-Through with Vogue(더 런스루 위드 보그)'에 출연한 래퍼 니키 미나즈(40)가 성형수술에 대해 솔직한 심정을 털어놨다. 니키 미나즈는 성형에 대해 "장담한다. 신체의 어떤 부분을 바꾸고 수술 등 모든 시술을 하면 언]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[톰 크루즈 전처 케이티 홈즈 애착 백 의외의 가격, 소탈한 매력 발산]]></title>
-        <id>https://v.daum.net/v/20231112162416459</id>
-        <link href="https://v.daum.net/v/20231112162416459"/>
-        <updated>2023-11-12T08:13:18.852Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 하지원 기자] 할리우드 배우 케이티 홈즈가 캐주얼한 매력을 뽐냈다. 지난 9월 27일(현지시간) 미국 뉴욕 맨해튼 다운타운에서 개인적인 용무를 보는 케이티 홈즈 모습이 포착됐다. 케이티 홈즈는 헝클어진 머리에 트레이닝복 차림으로 내추럴한 매력을 뽐냈다. 케이티는 양손 가득 장거리를 들고 있음에도 멋스러운 분위기를 풍기고 있어 감탄을 자아낸다. 이]]></content>
     </entry>
 </feed>
