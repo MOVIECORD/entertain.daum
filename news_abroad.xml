@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-11-13T22:10:44.825Z</updated>
+    <updated>2023-11-13T23:11:00.920Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[레오나르오 디카프리오, 49살 생일파티서 23살차 모델 여친과 “밤새도록 키스”]]></title>
+        <id>https://v.daum.net/v/20231114074921680</id>
+        <link href="https://v.daum.net/v/20231114074921680"/>
+        <updated>2023-11-13T23:11:00.310Z</updated>
+        <content type="html"><![CDATA[[OSEN=강서정 기자] 배우 레오나르도 디카프리오가 49살 생일파티에서 여자친구인 모델 비토리아 세레티와 뜨거운 애정행각을 펼쳤다.&nbsp; 13일(현지시간) 페이지식스 보도에 따르면 레오나르도 디카프리오는 지난 11일 캘리포니아 베벌리 힐스에서 많은 스타와 49번째 생일을 축하하면서 새 여자친구 비토리아 세리티와 동행했다.&nbsp; 한 소식통은 디카프리오와 세레티]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[디카프리오 49살 초호화 생일파티, 25살 女모델과 “밤새도록 키스”]]></title>
         <id>https://v.daum.net/v/20231114064107837</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231113114030038"/>
         <updated>2023-11-13T03:11:37.891Z</updated>
         <content type="html"><![CDATA[[TV리포트=강성훈 기자] 마블 시리즈에서 로키 역을 맡고 있는 톰 히들스턴(42)이 아이언맨 복귀설에 대해 긍정적인 반응을 보였다.&nbsp; 12일(현지 시간) 보도된 외신 '할리우드 리포터'에 따르면 톰 히들스턴은 '지미 팰런의 투나잇 쇼'에 게스트로 출연해 원년 어벤져스 멤버들의 복귀에 대해 언급했다. 진행자는 "로키가 타임슬립으로 아이언맨을 찾아갈 수 있을]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['도라에몽' 성우 나카 요스케, 사망...향년 93세]]></title>
-        <id>https://v.daum.net/v/20231113110531053</id>
-        <link href="https://v.daum.net/v/20231113110531053"/>
-        <updated>2023-11-13T02:23:44.741Z</updated>
-        <content type="html"><![CDATA[[TV리포트=강성훈 기자] 일본 인기 애니메이션 '도라에몽'의 성우 나카 요스케의 사망 소식이 뒤늦게 전해졌다. 향년 93세. 지난 10일 사무소 마우스 프로모션은 나카 요스케가 지난달 20일에 사망했다고 발표했다. 사망 사인은 공개하지 않았고 장례식은 유족의 의향에 따라 친족만 함께해 집행했다고 밝혔다.&nbsp; 나카 쇼스케는 1992년부터 2005년까지 '도라]]></content>
     </entry>
 </feed>
