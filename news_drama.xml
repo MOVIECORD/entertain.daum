@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-11-13T21:10:17.039Z</updated>
+    <updated>2023-11-13T22:10:44.822Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김미화, JTBC ‘웰컴투 삼달리’ 출연..지창욱·신혜선과 호흡]]></title>
+        <id>https://v.daum.net/v/20231114070410145</id>
+        <link href="https://v.daum.net/v/20231114070410145"/>
+        <updated>2023-11-13T22:10:24.181Z</updated>
+        <content type="html"><![CDATA[[OSEN=강서정 기자] 배우 김미화가 ‘웰컴투 삼달리’에 출연해 해피 바이러스를 전파할 예정이다. 판타지오 소속 배우 김미화는&nbsp;JTBC&nbsp;새 토일드라마 ‘웰컴투 삼달리’(극본 권혜주,&nbsp;연출 차영훈)에서 ‘양부자’ 역으로 출연해 안방극장을 다정하고 포근하게 만들 예정이다.&nbsp; 양부자는 삼달리의 독수리 오형제 중 하나인 차은우(배명진 분)의 엄마로 삼달리 해]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['혼례대첩' 조이현, 신문고 사건 덮어준 로운에 "설마 아는 사람?"]]></title>
         <id>https://v.daum.net/v/20231113230800689</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231113180931802"/>
         <updated>2023-11-13T09:11:34.952Z</updated>
         <content type="html"><![CDATA[[OSEN=지민경 기자]&nbsp;훌루 재팬 오리지널 드라마 ‘플레이, 플리’가 18일 정오 첫 공개를 앞두고 재미를 극대화할 필수 관전 포인트 세 가지를 공개했다.&nbsp; 18일 첫 공개되는 ‘티빙 온리’ 드라마 ‘플레이, 플리’(극본 박윤성, 연출 김종창)는 정체를 숨기고 유명 음악 인플루언서 ‘플리’로 활동하는 여대생 송한주(김향기 분)와 인기 아이돌 멤버 ‘레]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['소년시대' 이시우, 전설의 싸움짱 '아산 백호']]></title>
-        <id>https://v.daum.net/v/20231113180539681</id>
-        <link href="https://v.daum.net/v/20231113180539681"/>
-        <updated>2023-11-13T09:11:34.952Z</updated>
-        <content type="html"><![CDATA[[OSEN=장우영 기자] 배우 이시우가 쿠팡플레이 시리즈 ‘소년시대’를 통해 강렬한 연기 변신을 시도해 눈길을 끈다. 훈훈한 비주얼과 안정적인 연기력으로 주목받고 있는 배우 이시우가 쿠팡플레이 시리즈 ‘소년시대’에 합류했다. ‘소년시대’는 1989년 충청남도, 안 맞고 사는 게 일생일대의 목표인 온양 찌질이 병태가 하루아침에 부여 짱으로 둔갑하면서 벌어]]></content>
     </entry>
 </feed>
