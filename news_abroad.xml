@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-11-13T14:11:10.596Z</updated>
+    <updated>2023-11-13T15:11:27.802Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["테일러 스위프트, ♥새 남친과 6개월 내 약혼 할 것" 예측 등장]]></title>
+        <id>https://v.daum.net/v/20231113234123097</id>
+        <link href="https://v.daum.net/v/20231113234123097"/>
+        <updated>2023-11-13T15:11:27.219Z</updated>
+        <content type="html"><![CDATA[[OSEN=유수연 기자]&nbsp;가수 테일러 스위프트(34)가 미식축구선수 트래비스 켈시(34)와 뜨거운 공개 열애를 이어가고 있는 가운데, 두 커플의 밝은 미래를 기대하는 이들이 생겨나고 있다. 앞서&nbsp;테일러 스위프트는 지난 9일(현지 시각) 아르헨티나 부에노스아이레스의 모뉴멘탈 스타디움에서 ‘에라스 투어’ 콘서트를 진행했다. 이날&nbsp;아르헨티나에서 공연을 열며]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[마침내 끝난 파업, 할리우드 쇄신 가져올까]]></title>
         <id>https://v.daum.net/v/20231113195009838</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231113103031383"/>
         <updated>2023-11-13T01:52:36.841Z</updated>
         <content type="html"><![CDATA[[뉴스엔 하지원 기자] 브라질 인플루언서 루아나 안드라데가 지방흡입 수술을 받다 사망했다. 향년 29세. 11월 10일(현지시간) 브라질 뉴스 매체 글로보 1에 따르면, 안드라데는 지난 7일 브라질 상파울루에서 미용 시술을 받기 위해 병원에 입원한 지 하루 만에 폐색전증(폐혈관이 응고되는 것)을 앓다가 세상을 떠났다. 안드라데는 수술 2시간 30분 후 심]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["故 매튜 페리, 죽기 전에 마약했을 것" 전여친 충격 주장]]></title>
-        <id>https://v.daum.net/v/20231113084929158</id>
-        <link href="https://v.daum.net/v/20231113084929158"/>
-        <updated>2023-11-13T00:49:57.360Z</updated>
-        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]인기 시트콤 ‘프렌즈’의 매튜 페리(54)가 세상을 떠난 가운데 그의 전 여자친구가 충격적인 주장을 내놓았다. 전 여친 케이티 에드워즈는 12일(현지시간) 영국 ‘더 선’과 인터뷰에서 “나는 페리를 알고 그가 그냥 익사하지 않았을 것이라는 걸 알고 있다”면서 “그가 약을 복용했을 수도 있다고 생각한다”고 말했다. 전직 모]]></content>
     </entry>
 </feed>
