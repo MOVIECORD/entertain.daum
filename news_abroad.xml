@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-11-14T04:12:58.348Z</updated>
+    <updated>2023-11-14T05:11:22.938Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[아놀드 슈왈제너거, 여자 '3명' 동시에 만나나...계속된 바람]]></title>
+        <id>https://v.daum.net/v/20231114133030410</id>
+        <link href="https://v.daum.net/v/20231114133030410"/>
+        <updated>2023-11-14T05:11:21.929Z</updated>
+        <content type="html"><![CDATA[[TV리포트=강성훈 기자] 영화 '터미네이터' 시리즈로 유명한 배우 아놀드 슈왈제네거(76)가 공개 열애 중 '또' 바람을 피웠다. 13일(현지 시간) 외신 '데일리메일'의 보도에 따르면 아놀드 슈왈제네거는 헝가리 여배우 티메아 팔라식(41)과 키스했다. 보도에 따르면 캘리포니아 베니스 해변에서 아놀드 슈왈제네거가 자전거를 타고 티메아 팔라식에게 키스했다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['화이트 칙스' 주인공 "첫째 딸 아들로 성전환해" 고백]]></title>
         <id>https://v.daum.net/v/20231114131100935</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231114083030381"/>
         <updated>2023-11-14T00:47:16.261Z</updated>
         <content type="html"><![CDATA[[TV리포트=이예은 기자] 유명 배우 레오나르도 디카프리오의 49세 생일파티를 찾은 전 여자친구 빅토리아 라마스가 퇴짜를 맞았다.&nbsp; 외신 연예 매체 데일리 메일은 13일(현지 시간) 레오나르도 디카프리오의 전 여자친구였던 모델 빅토리아 라마스(24)가 생일파티 입장 거부당했다고 보도했다.&nbsp; 디카프리오는 49세 생일을 맞아 미국 LA 베버리힐스에서 초호화 생]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[레오나르오 디카프리오, 49살 생일파티서 23살차 모델 여친과 “밤새도록 키스”]]></title>
-        <id>https://v.daum.net/v/20231114074921680</id>
-        <link href="https://v.daum.net/v/20231114074921680"/>
-        <updated>2023-11-13T23:11:00.310Z</updated>
-        <content type="html"><![CDATA[[OSEN=강서정 기자] 배우 레오나르도 디카프리오가 49살 생일파티에서 여자친구인 모델 비토리아 세레티와 뜨거운 애정행각을 펼쳤다.&nbsp; 13일(현지시간) 페이지식스 보도에 따르면 레오나르도 디카프리오는 지난 11일 캘리포니아 베벌리 힐스에서 많은 스타와 49번째 생일을 축하하면서 새 여자친구 비토리아 세리티와 동행했다.&nbsp; 한 소식통은 디카프리오와 세레티]]></content>
     </entry>
 </feed>
