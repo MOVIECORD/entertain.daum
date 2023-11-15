@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-11-15T07:10:22.920Z</updated>
+    <updated>2023-11-15T08:13:55.773Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[윌 스미스 40년지기의 폭로 “듀안 마틴과 동성애 관계다” 치명적 아웃팅]]></title>
+        <id>https://v.daum.net/v/20231115164220023</id>
+        <link href="https://v.daum.net/v/20231115164220023"/>
+        <updated>2023-11-15T08:13:55.081Z</updated>
+        <content type="html"><![CDATA[[스포츠서울 | 박효실기자] 세계적인 스타 윌 스미스(54)가 또 한차례 치명적인 구설수에 올랐다. 지난 14일(현지시간) 윌 스미스의 오랜 친구이자 조수로 일했던 빌랄은 ‘타샤 K’와의 인터뷰에서 “윌 스미스와 동료 배우 듀안 마틴이 동성애 관계이며, 이를 내가 직접 목격했다”라고 폭로했다. 마틴은 윌 스미스보다 4세 연상의 친구로 두 사람은 오래]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[美 공포영화 감독, 아내 포함 3명 살해 후 시신 훼손...영화계 충격]]></title>
         <id>https://v.daum.net/v/20231115160030007</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231115070031456"/>
         <updated>2023-11-14T22:10:28.134Z</updated>
         <content type="html"><![CDATA[[TV리포트=이예은 기자] 팝스타 브리트니 스피어스(41)의 회고록를 영화로 만나보게 될 전망이다.&nbsp; 외신 연예 매체 페이지 식스는 13일(현지 시간) 브리트니 스피어스의 자서전 'The Woman In Me'가 영화로 제작될 가능성이 높다고 보도했다.&nbsp; 지난달 출간된 'The Woman In Me'는 브리트니의 삶과 아버지 제이미 스피어스, 전 남편 케빈]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[치매 간호도 부익부 빈익빈?..브루스 윌리스 아내 "죄책감 느껴"]]></title>
-        <id>https://v.daum.net/v/20231115064026181</id>
-        <link href="https://v.daum.net/v/20231115064026181"/>
-        <updated>2023-11-14T22:10:28.135Z</updated>
-        <content type="html"><![CDATA[[OSEN=박소영 기자] 할리우드 스타 브루스 윌리스가 전두측두엽 치매 진단을 받아 요양 중인 가운데 아내 엠마 헤밍이 죄책감을 토로했다. 14일(현지시각) 외신 보도에 따르면 엠마 헤밍은 “머리를 비우기 위해 하이킹을 나갈 때, 모든 돌봄 파트너들이 그렇게 할 수 없다는 사실을 잊지 못한다. 내가 우리 가족에 대한 내용을 공유하고 언론의 주목을 받을]]></content>
     </entry>
 </feed>
