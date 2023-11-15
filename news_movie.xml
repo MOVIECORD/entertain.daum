@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-11-15T19:09:10.676Z</updated>
+    <updated>2023-11-15T20:11:31.898Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[한효주 "'무빙' 고사할까 했었다"…'59회 대종상' 시리즈 여우상 주인공]]></title>
+        <id>https://v.daum.net/v/20231116045003082</id>
+        <link href="https://v.daum.net/v/20231116045003082"/>
+        <updated>2023-11-15T20:11:11.649Z</updated>
+        <content type="html"><![CDATA[(서울=뉴스1) 박하나 기자 = 배우 한효주가 '제59회 대종상 영화제'에서 시리즈 여우상을 받았다. 지난 15일 오후 6시 경기아트센터 대극장에서 '제59회 대종상 영화제'(이하 '대종상 영화제')가 개최됐다. 이번 시상식은 네이버TV와 ENA에서 생중계됐으며 배우 차인표와 코미디언 장도연이 진행을 맡았다. 이날 시리즈 여우상 후보에 '더 글로리'의]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[故 에디트 피아프, 전기 영화 나온다...'AI로 부활']]></title>
         <id>https://v.daum.net/v/20231116040500772</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231115210219130"/>
         <updated>2023-11-15T12:20:23.704Z</updated>
         <content type="html"><![CDATA[[OSEN=김채연 기자] ‘콘크리트 유토피아’ 이병헌, ‘비닐하우스’ 김서형이 제59회 대종상영화제 주연상을 수상했다. 15일 경기도 수원시 팔달구 경기아트센터 대극장에서 제59회 대종상영화제가 진행돼 남우주연상은 배우 이병헌, 여우주연상은 배우 김서형이 수상했다. 이날 남우주연상 시상은 지난해 ‘헤어질 결심’으로 대종상 남우주연상을 수상한 박해일이 맡았]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[작품상 '콘유' 6관왕..'주연상' 이병헌·김서형→김선호 '신인상' 영예]]></title>
-        <id>https://v.daum.net/v/20231115210034119</id>
-        <link href="https://v.daum.net/v/20231115210034119"/>
-        <updated>2023-11-15T12:20:23.704Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 | 김노을 기자] 이병헌(왼쪽), 김서형 /사진=대종상영화제, 스타뉴스영화 '콘크리트 유토피아'가 제59회 대종상 영화제에서 작품상을 수상하며 6관왕에 오르는 영예를 안았다. 15일 오후 수원 팔달구 인계동 경기아트센터 대극장에서 제59회 대종상 영화제가 진행됐다. 진행은 배우 차인표와 코미디언 장도연이 맡았다. 대종상 영화제는 1962년부터]]></content>
     </entry>
 </feed>
