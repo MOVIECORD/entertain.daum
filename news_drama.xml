@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-11-15T03:12:01.361Z</updated>
+    <updated>2023-11-15T04:13:45.833Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘워터멜론’ 설인아 “좋은 작품으로 따뜻한 소통 감사” 종영 소감..대세 로코퀸 입증]]></title>
+        <id>https://v.daum.net/v/20231115130024068</id>
+        <link href="https://v.daum.net/v/20231115130024068"/>
+        <updated>2023-11-15T04:13:29.815Z</updated>
+        <content type="html"><![CDATA[[OSEN=김채연 기자] ‘반짝이는 워터멜론'에서 섬세한 연기 스펙트럼으로 호평을 받고 있는 설인아가 드라마 종영소감을 전했다. 설인아는 tvN '반짝이는 워터멜론'에서 1995년의 최세경과 2023년 온은유 1인 2역을 맡아 시대를 뛰어넘는 첼로 여신의 비주얼과 상반된 두 캐릭터의 매력을 완벽하게 소화하며 눈길을 모았다.&nbsp; 또한 하은결(려운 분), 하]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[설인아 “글의 힘, 소통의 아름다움 배워” 종영 소감]]></title>
         <id>https://v.daum.net/v/20231115121048023</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231115104816727"/>
         <updated>2023-11-15T01:53:10.216Z</updated>
         <content type="html"><![CDATA[[OSEN=장우영 기자] 배우 서범준이 기존의 ‘착한 연하남’ 이미지를 과감히 탈피한 역대급 변신으로 폭넓은 연기 스펙트럼을 증명했다. 서범준은 U+모바일tv 오리지널 드라마 ‘하이쿠키’(극본 강한, 연출 송민엽, 기획 STUDIO X+U, 제작: 아크미디어, 공동제작: 몬스터유니온, STUDIO X+U )에서 정한고등학교 이사장의 손자이자 S반 엘리트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이하늬 표 코믹 사극이라니…'밤에 피는 꽃', 대본리딩부터 기대감]]></title>
-        <id>https://v.daum.net/v/20231115104335446</id>
-        <link href="https://v.daum.net/v/20231115104335446"/>
-        <updated>2023-11-15T01:53:10.216Z</updated>
-        <content type="html"><![CDATA[[이데일리 스타in 김가영 기자] MBC 사극의 계보를 잇는 ‘밤에 피는 꽃‘이 배우들의 연기 호흡이 빛났던 대본리딩 현장을 공개했다. ‘밤에 피는 꽃’오는 1월 12일 첫 방송을 앞둔 MBC 새 금토드라마 ‘밤에 피는 꽃’(극본 이샘, 정명인 연출 장태유, 최정인, 이창우 제작 베이스스토리, 필름그리다, 사람엔터테인먼트)은 밤이 되면 담을 넘는 십오 년]]></content>
     </entry>
 </feed>
