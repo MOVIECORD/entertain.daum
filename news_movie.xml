@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-11-15T06:14:37.279Z</updated>
+    <updated>2023-11-15T07:10:22.910Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['명량·'한산' 이은 10년 대장정, '노량' 김윤석이 표현한 이순신 온다]]></title>
+        <id>https://v.daum.net/v/20231115152001317</id>
+        <link href="https://v.daum.net/v/20231115152001317"/>
+        <updated>2023-11-15T07:10:03.472Z</updated>
+        <content type="html"><![CDATA[[텐아시아=이하늘 기자] 2014년 시작한 영화 '명량', 2022년 '한산: 용의 출현'에 이은 마지막 시리즈 '노량: 죽음의 바다'가 2023년 돌아왔다. 이순신 장군 3부작으로서 10여 년의 대장정을 마무리하는 '노량: 죽음의 바다'. '명량'의&nbsp;불같은 느낌의 배우 최민식과 '한산'의 부드럽고 물 같은 느낌의 배우 박해일에 이어 마지막 전투를 담은]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘노란문’, 천재감독 봉준호 탄생기]]></title>
         <id>https://v.daum.net/v/20231115150254557</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231115135003275"/>
         <updated>2023-11-15T05:10:31.660Z</updated>
         <content type="html"><![CDATA[(엑스포츠뉴스 윤현지 기자) '노량: 죽음의 바다' 정재영이 명나라 장수를 맡게 된 소감을 전했다. 15일 오전 서울 광진국 롯데시네마 건대입구에서 영화 '노량: 죽음의 바다'(감독 김한민)의 제작보고회가 열렸다. 현장에는 배우 김윤석, 백윤식, 정재영, 허준호, 김성규, 이규형, 이무생, 최덕문, 박명훈, 박훈, 문정희와 김한민 감독이 참석했다. '노량:]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['노량' 겨울해전 100분간 펼친다..."'명량' '한산' 노하우 집약체"]]></title>
-        <id>https://v.daum.net/v/20231115134824237</id>
-        <link href="https://v.daum.net/v/20231115134824237"/>
-        <updated>2023-11-15T05:10:31.662Z</updated>
-        <content type="html"><![CDATA[배우 정재영(왼쪽부터), 김윤석, 백윤식, 허준호가 15일 오전 서울 광진구 아차산로 롯데시네마 건대입구에서 열린 영화 ‘노량 : 죽음의 바다’ 제작보고회에서 포즈를 취하고 있다. '노량: 죽음의 바다'는 임진왜란 발발 후 7년, 조선에서 퇴각하려는 왜군을 완벽하게 섬멸하기 위한 이순신 장군의 최후의 전투를 그린 전쟁 액션 대작으로 오는 12월]]></content>
     </entry>
 </feed>
