@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-11-16T14:10:45.773Z</updated>
+    <updated>2023-11-16T15:11:55.391Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[박성웅 생존→박해진 제2의 '개탈'? '국민사형투표' 시즌2 암시일까]]></title>
+        <id>https://v.daum.net/v/20231116233019985</id>
+        <link href="https://v.daum.net/v/20231116233019985"/>
+        <updated>2023-11-16T15:11:42.762Z</updated>
+        <content type="html"><![CDATA[[OSEN=김나연 기자] '국민사형투표'가 끝나지 않은 이야기를 암시하며 종영을 맞았다. 16일 방송된 SBS 목요드라마 '국민사형투표'에서는 행방불명된 권석주(박성웅 분)의 생존 암시와 스스로 개탈을 쓴 김무찬(박해진 분)의 모습이 그려졌다. 이날 김지훈(서영주 분)은 권석주에 대한 국민사형투표를 저지하기 위해 과감히 자신의 정체를 공개하고 방송을 진]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['국민사형투표' 시즌2 암시? 박해진, 스스로 '개탈' 썼다]]></title>
         <id>https://v.daum.net/v/20231116224346463</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231116185538349"/>
         <updated>2023-11-16T10:11:51.601Z</updated>
         <content type="html"><![CDATA[[OSEN=유수연 기자]&nbsp;배우 장률이 '정신병동에도 아침은 와요' 촬영 비하인드 등을 전했다. 16일 서울 종로구 삼청동의 한 카페에서는 넷플릭스 ‘정신병동에도 아침이 와요’(이하 ‘정신병동’) 배우 장률의 인터뷰가 진행됐다. ‘정신병동에도 아침이 와요’는 정신건강의학과 근무를 처음 하게 된 간호사 다은(박보영 분)이 정신병동 안에서 만나는 세상과 마음]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김향기 "절대 들켜선 안돼"vs신현승 "꼭 찾을것"..쫓고 쫓기는 로맨스]]></title>
-        <id>https://v.daum.net/v/20231116185308290</id>
-        <link href="https://v.daum.net/v/20231116185308290"/>
-        <updated>2023-11-16T10:11:51.607Z</updated>
-        <content type="html"><![CDATA[[OSEN=김나연 기자] '플레이, 플리'가 쫓고 쫓기는 추적&nbsp;로맨스를 예고했다. 16일 플레이리스트 공식 유튜브 채널에는 '플레이, 플리' 1, 2화 예고편 영상이 업로드 됐다. 공개된 예고편은 음악 인플루언서&nbsp;'플리'(송한주, 김향기 분)에게 물먹은 아이돌 레비(이도국, 신현승 분), 아이돌에게 물먹인&nbsp;플리에 대한 소개로 시작됐다. 역대급 발연기로]]></content>
     </entry>
 </feed>
