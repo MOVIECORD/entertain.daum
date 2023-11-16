@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-11-16T09:11:15.812Z</updated>
+    <updated>2023-11-16T10:12:06.450Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이연걸, 수년 만에 공식석상 나와 '사망설' 반박]]></title>
+        <id>https://v.daum.net/v/20231116183131851</id>
+        <link href="https://v.daum.net/v/20231116183131851"/>
+        <updated>2023-11-16T10:12:05.824Z</updated>
+        <content type="html"><![CDATA[[TV리포트=이경민 기자] 중국계 액션 배우 이연걸(60)이 공식 석상에 등장해 '사망설' 루머를 잠재웠다.&nbsp; 16일(현지 시간) 배우 이연걸은 대만에서 열린 한 행사에 참석해 오랜만에 근황을 공개했다.&nbsp; 그는 이날 검은색 모자와 안경을 쓴 채 밝은 표정으로 등장했다.&nbsp;행사가 시작되자 이연걸은 청중들에게 인사를 건네며 "좋은 아침입니다. 저는 아직 죽지 않]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[애니스톤 등 '프렌즈' 배우들, 각자 꺼낸 故 매튜 페리와 추억 "널 너무 사랑해"]]></title>
         <id>https://v.daum.net/v/20231116180735155</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231116112646691"/>
         <updated>2023-11-16T03:11:49.543Z</updated>
         <content type="html"><![CDATA[[뉴스엔 배효주 기자] 브래드 피트가 약 1년 째 교제 중인 연인 이네스 드 라몬을 "여자친구"라고 부르며 진지한 관계를 유지하고 있다는 소식이 전해졌다. 11월 13일(현지시간) 해외 매체 피플은 할리우드 배우 브래드 피트(59)와 그의 26세 연하 연인인 주얼리 사업가 이네스 드 라몬(33)이 진지하게 교제 중이라고 전했다. 해당 매체는 내부 관계자]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[머라이어 캐리 "'수백억 번' 내 캐럴보다 냇킹콜 노래가 더 좋아"]]></title>
-        <id>https://v.daum.net/v/20231116101730553</id>
-        <link href="https://v.daum.net/v/20231116101730553"/>
-        <updated>2023-11-16T01:54:08.497Z</updated>
-        <content type="html"><![CDATA[[TV리포트=강성훈 기자] '크리스마스의 여왕' 머라이어 캐리(54)가 가장 좋아하는 캐럴을 공개했는데, 본인의 노래가 아니었다. 15일(현지 시간) 온라인 채널 'Jennifer Hudson Show'에 머라이어 캐리가 출연했다. 머라이어 캐리는 이날 자신의 캐럴 'All I Want For Christmas Is You'와 'Oh Santa!' 외에 자]]></content>
     </entry>
 </feed>
