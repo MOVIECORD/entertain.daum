@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-11-16T20:11:43.255Z</updated>
+    <updated>2023-11-16T21:10:07.739Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘서울의 봄’ 김성수 감독, “12.12사태 영화화한 이유? 욕망의 이야기였다”]]></title>
+        <id>https://v.daum.net/v/20231117060015355</id>
+        <link href="https://v.daum.net/v/20231117060015355"/>
+        <updated>2023-11-16T21:09:50.898Z</updated>
+        <content type="html"><![CDATA[[스포츠서울 | 함상범 기자] 1979년 12월 12일, 19세 김성수는 집 앞에 나갔다가 서울 한남동 인근에서 우연히 총성을 들었다. 육군참모총장 공관이 직선으로 보이는 집 근처였다. 장갑차가 눈앞에서 지나다녔다. 서울 한복판, 호기심 많은 청년은 총소리가 난 곳을 향해 달려갔다. 한참을 달리다 이태원 인근 육교에 올랐는데 군인이 막았다. 그 순간]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[경수진→고규필 ‘백수아파트’ 크랭크인]]></title>
         <id>https://v.daum.net/v/20231116223332297</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231116153901569"/>
         <updated>2023-11-16T07:10:26.403Z</updated>
         <content type="html"><![CDATA[[원종빈 기자] ㄴ▲ &nbsp;영화 &lt;헝거게임: 노래하는 새와 뱀의 발라드&gt; 포스터ⓒ ㈜누리픽쳐스&nbsp; *주의! 이 기사에는 영화의 스포일러가 포함돼 있습니다. 캐피톨과 12개 구역 간의 전쟁 때문에&nbsp;아버지와 재력을&nbsp;잃은 명문가 자제 '코리올라누스 스노우'(톰 블라이스). 남은 건 자존심과 출세욕 밖에 없는 그는 사촌누나 '티그리스'(헌터 샤퍼)의 도움을 받아 간신히]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[경수진→고규필x이지훈 '백수아파트' 크랭크인…2024년 개봉]]></title>
-        <id>https://v.daum.net/v/20231116151645571</id>
-        <link href="https://v.daum.net/v/20231116151645571"/>
-        <updated>2023-11-16T07:10:26.403Z</updated>
-        <content type="html"><![CDATA[[OSEN=김보라 기자] 새 영화 '백수아파트'가 배우 캐스팅을 확정하고 크랭크인했다. '백수아파트'(감독 이루다, 공동제작 빅펀치픽쳐스·노바필름·이오콘텐츠그룹)는 동네의 정의 구현을 위해 애쓰는 오지라퍼 백수 거울(경수진 분)이 한 아파트에 살게 되면서 마주하는 층간소음의 원인을 추적하며 생기는 일을 그린 코미디 미스터리 추리극이다. 거울 역을 맡은]]></content>
     </entry>
 </feed>
