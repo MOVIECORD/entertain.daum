@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/variety</id>
     <title>다음 연예 ─ 뉴스 ─ 예능</title>
-    <updated>2023-11-17T19:09:31.850Z</updated>
+    <updated>2023-11-17T20:11:48.703Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["돌발상황" 오은영, '금쪽' 솔루션 물거품 되나? 원점 돌아갈 위기]]></title>
+        <id>https://v.daum.net/v/20231118050322737</id>
+        <link href="https://v.daum.net/v/20231118050322737"/>
+        <updated>2023-11-17T20:11:38.389Z</updated>
+        <content type="html"><![CDATA[[OSEN=김수형 기자] &nbsp;‘오은영의 금쪽같은 내 새끼'에서 두번째 솔루션에 돌입한 금쪽이가 출연, 오은영이 직접 훈육에 나섰음에도 원점으로 돌아갈 위기를 보였다.&nbsp; 17일 방송된 채널A 예능 '오은영의 금쪽 같은 내새끼' 예고편이 그려졌다.&nbsp; 금쪽이 일상을 관찰했다. 어린이집에서 친구들을 무차별적으로 공격한다는 금쪽이. 친구들을 때리는 것이 일상인 금]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[후디 “이효리 신곡, 내 이름 불러주는 느낌‥박재범 엄마 같아”]]></title>
         <id>https://v.daum.net/v/20231118012740063</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231117235901658"/>
         <updated>2023-11-17T15:11:12.906Z</updated>
         <content type="html"><![CDATA[[스타뉴스 | 이시호 기자] /사진=MBC '나 혼자 산다' 방송 화면 캡처'나혼산' 아나운서 김대호가 피라미드에 입성했다. 17일 방송된 MBC 예능 프로그램 '나 혼자 산다'에서는 김대호가 10년 차 여행을 위해 이집트로 향했다. 김대호는 이날 눈 뜨자마자 펼쳐진 피라미드뷰에 감격했다. 눈물까지 글썽인 김대호는 이어 직접 피라미드를 보러 향했다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이장우 못 갈 피라미드, 비좁은 계단에 “장우는 껴” 폭소]]></title>
-        <id>https://v.daum.net/v/20231117235518642</id>
-        <link href="https://v.daum.net/v/20231117235518642"/>
-        <updated>2023-11-17T15:11:12.907Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 서유나 기자] 비좁은 피라미드 내부 계단에 팜유 회원들이 이장우는 못 갈 곳이라고 판단내렸다. 11월 17일 방송된 MBC 예능 '나 혼자 산다'(이하 '나혼산') 521회에서는 김대호가 10년 차 휴가로 이집트 여행을 갔다. 이날 동굴 같은 피라미드 내부에 들어간 김대호는 엄청나게 좁은 계단을 마주하곤 깜짝 놀랐다. 놀란 건 VCR을 보던]]></content>
     </entry>
 </feed>
