@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-11-18T03:11:24.225Z</updated>
+    <updated>2023-11-18T04:13:11.754Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘7인의 탈출’ 이준, 여운 남기는 연기..시즌2 활약 어떨까]]></title>
+        <id>https://v.daum.net/v/20231118121125758</id>
+        <link href="https://v.daum.net/v/20231118121125758"/>
+        <updated>2023-11-18T04:12:57.579Z</updated>
+        <content type="html"><![CDATA[[OSEN=김채연 기자] 배우 이준이 지난&nbsp;17일 종영한&nbsp;SBS&nbsp;금토드라마&nbsp;‘7인의 탈출’에서 깊은 여운을 남기는 연기를 펼치며,&nbsp;시즌2&nbsp;활약에 대한 기대감을 불어넣었다. 이준은 극 중 까칠하지만 따뜻한 속내를 가진 민도혁 역을 맡아 빈틈없는 열연을 펼치며 인물의 매력을 배가시켰다.&nbsp;그가 맡은 도혁은 조폭 출신의 어두운 과거와 가슴 아픈 가정사로 인해 거]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘연인’ 안은진, 직접 청혼하는 사극 여주라니…들꽃 같은 사랑의 ‘재발견’]]></title>
         <id>https://v.daum.net/v/20231118114821500</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231118100855486"/>
         <updated>2023-11-18T01:51:30.865Z</updated>
         <content type="html"><![CDATA[[스타뉴스 | 김노을 기자] /사진=KBS'효심이네 각자도생' 유이와 하준의 로맨스가 급진전될 전망이다. 18일 방송되는 KBS 2TV 주말드라마 '효심이네 각자도생'(연출 김형일, 극본 조정선, 제작 아크미디어) 측은 속상한 마음을 홀로 술로 달래던 효심(유이 분)이 어디론가 전화를 하나 싶더니 이내 곧 테이블에 쓰러져 잠든 모습을 공개했다. 효심이 불]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[종영 ‘연인’ 남궁민X안은진, 혼인 약속 지킬 수 있을까]]></title>
-        <id>https://v.daum.net/v/20231118100641462</id>
-        <link href="https://v.daum.net/v/20231118100641462"/>
-        <updated>2023-11-18T01:51:30.865Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 이민지 기자] 남궁민과 안은진의 애절한 사랑이 결말을 맺는다. 11월 18일 MBC 금토드라마 ‘연인’(극본 황진영/연출 김성용 이한준 천수진) 최종회가 방송된다. ‘연인’은 병자호란을 겪으며 엇갈리는 연인들의 사랑과 백성들의 생명력을 다룬 휴먼역사멜로드라마다. 병자호란이라는 역사적 사건을 정치적 관점뿐 아니라 그 시대를 살아낸 백성들의 시선]]></content>
     </entry>
 </feed>
