@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/variety</id>
     <title>다음 연예 ─ 뉴스 ─ 예능</title>
-    <updated>2023-11-19T06:13:22.184Z</updated>
+    <updated>2023-11-19T07:10:23.411Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[추성훈 남매, 돌아가신 父 향한 그리움…"아직도 믿기지 않고 꿈같아"]]></title>
+        <id>https://v.daum.net/v/20231119153405635</id>
+        <link href="https://v.daum.net/v/20231119153405635"/>
+        <updated>2023-11-19T07:10:13.695Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 박서연 기자] 이종격투기 선수 추성훈이 돌아가신 아버지를 향한 애틋한 그리움을 전한다. 19일 오후 4시 45분 방송되는 KBS 2TV ‘사장님 귀는 당나귀 귀’(이하 ‘사당귀’)에서는 ‘파이터 보스’ 추성훈이 어머니, 동생 추정화와 아버지의 작고 후 6개월만의 만남이 그려진다.  이날 세 사람이 방문한 곳은 오사카에 있는 가족 절로 추]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘KBS 전설’ 김숙 “담배 심부름 시킨 선배에게 100갑 사다줘”]]></title>
+        <id>https://v.daum.net/v/20231119151837359</id>
+        <link href="https://v.daum.net/v/20231119151837359"/>
+        <updated>2023-11-19T07:10:13.696Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 황혜진 기자] 코미디언 김숙이 선배들 사이에서 전설의 후배가 된 사연을 밝혔다. 11월 18일 방송된 티캐스트 E채널 '토요일은 밥이 좋아'에서 애청자들을 설레게 만든 토밥즈들의 인생 맛집이 공개됐다. 오전 10시 일정의 첫 시작을 끊은 주인공은 바로 히밥이었다. 히밥은 평소 친분이 있다던 '리치언니' 박세리의 맛집, 간장게장 집을 소개해 멤버들]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[박은빈, 완벽 무대 후 돌연 잠적..채종협과 투샷 '설레는 키차이']]></title>
         <id>https://v.daum.net/v/20231119142217386</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20231119113718012"/>
         <updated>2023-11-19T03:11:28.720Z</updated>
         <content type="html"><![CDATA[[OSEN=장우영 기자] ‘미운 우리 새끼’ 이동건이 어머니의 분노를 유발한다. 19일 방송되는 SBS ‘미운 우리 새끼’에서는 반전 미운 짓으로 연이어 화제를 모으고 있는 배우 이동건이 14년 절친 김지석과 만나 티격태격 ‘찐친’ 케미로 역대급 재미를 선사할 예정이다. 이날, 이동건은 과거 바이크 메이트였던 김지석과 바이크 쇼핑에 나섰다. 이동건은 드]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김준호, 최다 독박도 서러운데 ♥김지민마저.."복수할 것" 다짐]]></title>
-        <id>https://v.daum.net/v/20231119113201942</id>
-        <link href="https://v.daum.net/v/20231119113201942"/>
-        <updated>2023-11-19T03:11:28.722Z</updated>
-        <content type="html"><![CDATA[[OSEN=장우영 기자] 개그맨 김준호가 라오스 여행의 최다 독박자로 당첨되며 토요일 밤을 웃음으로 꽉 채웠다. 18일 방송된 MBN·채널S·라이프타임 공동 제작 여행 예능 ‘니돈내산 독박투어’(이하 ‘독박투어’)에서 김준호는 ‘독박즈’ 김대희, 장동민, 유세윤, 홍인규와 함께 라오스에서 마지막 날을 맞아 유쾌한 추억을 쌓았다. 저녁 독박을 겨우 면한]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['백사장2' 백종원 분노·권유리 눈물…신 메뉴 '김밥' 역효과]]></title>
-        <id>https://v.daum.net/v/20231119113126935</id>
-        <link href="https://v.daum.net/v/20231119113126935"/>
-        <updated>2023-11-19T03:11:28.723Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 김현정 기자) ‘장사천재 백사장2’ 백종원이 매출 증대를 위해 비장의 신 메뉴 ‘김밥’을 선보인다. 그런데 오히려 역효과를 불러 일으킨 모양새다. 눈물, 분노, 사고, 실성 등 대혼란에 빠진 ‘반주’의 정황이 포착됐다. tvN ‘장사천재 백사장2’ 지난 방송에서는 백종원의 뉴 ‘미끼 전략’이 성공을 거뒀다. 판매량이 저조했던 ‘차콜리’(스페인]]></content>
     </entry>
 </feed>
