@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2023-11-19T19:08:25.199Z</updated>
+    <updated>2023-11-19T20:11:13.910Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['미우새' 높이뛰기 우상혁, '도넛6개+비빔면 4봉' 깜짝 먹방…이영애, 스페셜 MC 등장 예고]]></title>
+        <id>https://v.daum.net/v/20231120043900169</id>
+        <link href="https://v.daum.net/v/20231120043900169"/>
+        <updated>2023-11-19T20:11:09.439Z</updated>
+        <content type="html"><![CDATA[[SBS연예뉴스 | 김효정 에디터] 우상혁이 첫등장했다. 19일 방송된 SBS '19일 방송된 SBS '미운 우리 새끼'(이하 '미우새')에서는 높이뛰기 국가대표 우상혁이 새로운 미우새로 등장했다. 이날 방송에서 높이뛰기 국가대표 우상혁이 남의 미운 새끼로 등장했다. 이에 서장훈은 "우리나라 모든 육상선수 중 가장 세계 수준에 가까이 있는 선수다. 동양인이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[애절한 로맨스·신선한 캐릭터·배우 호연… 사극 ‘연인’ 통했다]]></title>
         <id>https://v.daum.net/v/20231120040318031</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231119234258061"/>
         <updated>2023-11-19T15:10:19.449Z</updated>
         <content type="html"><![CDATA[[OSEN=박하영 기자] 가수 조권이 인간 트리로 변신했다. 19일 조권은 “안녕? 난 엔젤. 예쁜가요? 그럼 실물 영접하러 오세요”라며 자신이 출연하고 있는 뮤지컬 ‘렌트(RENT)’를 홍보했다. 공개된 사진 속 조권은 머리부터 발끝까지 인간 트리로 변신한 채 요염한 포즈를 취하고 있는 모습이 담겨있다. 특히 조권은 파격적 의상에도 불구하고 완벽 소화]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박진영 "원더걸스 미국 진출이 실패? 내 판단 틀리지 않아"]]></title>
-        <id>https://v.daum.net/v/20231119233831042</id>
-        <link href="https://v.daum.net/v/20231119233831042"/>
-        <updated>2023-11-19T15:10:19.450Z</updated>
-        <content type="html"><![CDATA[[TV리포트=이혜미 기자] JYP 박진영이 원더걸스의 미국 진출에 대한 솔직한 생각을 전했다. 19일 피식대학 제작 웹 예능 ‘피식 쇼’에선 박진영이 게스트로 출연했다. 이날 박진영은 “원더걸스의 미국 진출 시절로 돌아간다면 스스로에게 어떤 말을 해주고 싶나?”라는 질문에 “그렇다면 나는 ‘숏 쳐라’라고 할 것”이라며 ‘리먼 브라더스’ 사태를 입에 올렸다.]]></content>
     </entry>
 </feed>
