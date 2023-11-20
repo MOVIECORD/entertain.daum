@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-11-20T09:12:16.427Z</updated>
+    <updated>2023-11-20T10:12:47.001Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['30일' 강하늘→조민수·윤경호, 관객 ♥보답…감사 쇼케이스 연다]]></title>
+        <id>https://v.daum.net/v/20231120184028140</id>
+        <link href="https://v.daum.net/v/20231120184028140"/>
+        <updated>2023-11-20T10:12:27.841Z</updated>
+        <content type="html"><![CDATA[[OSEN=김보라 기자]&nbsp;올해 박스오피스에서 한국영화 톱4를 달성하고 장기 흥행세를 이어가고 있는 영화 '30일' 측이 관객들의 사랑에 보답하고자 특별한 시간을 마련한다. 지난달 3일 극장 개봉한 '30일'(감독 남대중, 제공배급 ㈜마인드마크, 제작 영화사울림, 공동제작 티에이치스토리)은 드디어 D-30, 서로의 찌질함과 똘기를 견디다 못해 마침내 완벽]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘트롤: 밴드 투게더’ 레드벨벳 웬디-라이즈 은석 한국어 더빙]]></title>
         <id>https://v.daum.net/v/20231120175343637</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231120140409986"/>
         <updated>2023-11-20T05:10:55.954Z</updated>
         <content type="html"><![CDATA[[티브이데일리 최하나 기자] ‘독전’이 미드퀄로 돌아왔다. 하지만 관객들의 반응은 싸늘하기만 하다. 돌아오지 않았어야 할 속편이라는 혹평이 이어지고 있다. 지난 18일 공개된 넷플릭스 영화 ‘독전 2’(감독 백감독)는 용산역에서 벌인 지독한 혈투 이후, 여전히 ‘이선생’을 쫓는 형사 원호(조진웅)와 사라진 락(오승훈), 다시 나타난 브라이언(차승원)과 사]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['최후의 결투'→'나폴레옹' 리들리 스콧, 팬데믹 동안 신작 3편…멈추지 않는 거장]]></title>
-        <id>https://v.daum.net/v/20231120140229909</id>
-        <link href="https://v.daum.net/v/20231120140229909"/>
-        <updated>2023-11-20T05:10:55.955Z</updated>
-        <content type="html"><![CDATA[마틴 스콜세이지, 미야자키 하야오, 크리스토퍼 놀란 등 올해는 전 세계적으로 인정받는 거장들의 작품들이 극장가를 찾아와 유독 반가움을 더한 가운데 12월, 또 한 명의 거장이 신작으로 문을 두드린다. '나폴레옹' 개봉을 앞둔 리들리 스콧 감독이다. 이번에는 호아킨 피닉스와 손 잡고 역사적 인물을 통해 극장가에 새로운 화두를 던진다. 리들리 스콧 감독은]]></content>
     </entry>
 </feed>

@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-11-20T09:12:16.436Z</updated>
+    <updated>2023-11-20T10:12:47.005Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['트랜스포머' 피터 스펠로스, 췌장암 투병 끝에 별세...향년 69세]]></title>
+        <id>https://v.daum.net/v/20231120181630411</id>
+        <link href="https://v.daum.net/v/20231120181630411"/>
+        <updated>2023-11-20T10:12:46.417Z</updated>
+        <content type="html"><![CDATA[[TV리포트=강성훈 기자] 배우 겸 성우 피터 스펠로스(Peter Spellos)가 별세했다. 향년 69세. 19일 친구 프레드 올란(Fred Olan)은 자신의 소셜네트워크서비스를 통해 피터 스펠로스의 사망 소식을 전했다. 그는 "하늘에는 별보다 사랑하는 친구가 있다"라며 "피터 스펠로스는 재능있는 배우, 교사, 똑똑한 올빼미였다"라고 얘기했다.&nbsp;그는 피]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[브리트니, 182cm 이하 안 만나..."183cm 전 남친도 디스"]]></title>
         <id>https://v.daum.net/v/20231120173030925</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231120133130021"/>
         <updated>2023-11-20T05:11:15.283Z</updated>
         <content type="html"><![CDATA[[TV리포트=김현재 기자] '트와일라잇' 로버트 패틴슨이 동거 중인 여자친구와 첫 아이를 가졌다. 19일, 모델이자 배우, 그리고 음악가인 수티 워터하우스(31)는 자신의 오랜 남자친구인 로버트 패틴슨(37)의 첫 아이를 임신했다는 소식을 멕시코 코로나 캐피털 페스티벌 무대에 올라 공개했다. 수티는 이날 화려한 퍼 재킷과 함께 몸에 붙는 반짝이 드레스를]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[기네스 팰트로 "출산 후 자발적으로 일 줄여...하기 싫었다"]]></title>
-        <id>https://v.daum.net/v/20231120132601895</id>
-        <link href="https://v.daum.net/v/20231120132601895"/>
-        <updated>2023-11-20T05:11:15.284Z</updated>
-        <content type="html"><![CDATA[[TV리포트=유비취 기자] 할리우드 배우 기네스 팰트로가 출산 후 작품 수가 줄어든 이유에 대해 털어놨다. 19일(현지 시간) 미국 매체 피플과의 인터뷰에서 기네스 팰트로(51)는 자신의 딸 애플(19)을 낳은 뒤 일부러 영화에서 단독 주연을 맡지 않았다고 밝혔다. 그는 어머니 역할을 수행하며 연기자로서도 변화를 맞았다고 전했다. 기네스 팰트로는 "애플이]]></content>
     </entry>
 </feed>
