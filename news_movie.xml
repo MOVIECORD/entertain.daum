@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-11-20T14:11:04.305Z</updated>
+    <updated>2023-11-20T15:12:12.292Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[장항준 감독이 말하는 '그때 그 시절']]></title>
+        <id>https://v.daum.net/v/20231121000016937</id>
+        <link href="https://v.daum.net/v/20231121000016937"/>
+        <updated>2023-11-20T15:11:55.390Z</updated>
+        <content type="html"><![CDATA[단관극장에서 영화를 보며 꿈을 키운 세대의 이야기 "남아있는 단관극장, 문화 유적으로 유지돼야" 코로나19로 인해 한 차례 얼어붙었던 한국 영화계는 관람료 인상과 OTT 플랫폼의 성장 등으로 결국 역대급 위기를 겪고 있다. 이 가운데 60년 역사를 지닌 원주 아카데미극장이 무너졌다. 하지만 시민들은 여전히 힘을 모아 목소리를 내고 있고, 얼마 남지 않은]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김영성 "배우 아내와 어머니 암 투병... 몰래 많이 울었죠"]]></title>
         <id>https://v.daum.net/v/20231120222759317</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231120170018765"/>
         <updated>2023-11-20T08:16:36.697Z</updated>
         <content type="html"><![CDATA[[서울경제] 오늘 영화는 이거! ‘오영이’ 영화를 감상하다 보면 "굳이 만들어야만 했을까"라고 느껴지는 속편들이 있다. 성공한 1편에 기대어 만들어지다 보니 한 편의 어엿한 영화로 자립하지 못한 경우가 적지 않다. 거기서 그치면 그나마 양반이다. 1편에 대한 좋았던 기억마저 퇴색시키는 최악의 속편도 종종 등장한다. 대중들의 반응을 보아하니 얼마]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘임윤찬 신드롬’의 시작...‘크레센도’, 12월20일 전세계 최초 개봉]]></title>
-        <id>https://v.daum.net/v/20231120165717663</id>
-        <link href="https://v.daum.net/v/20231120165717663"/>
-        <updated>2023-11-20T08:16:36.698Z</updated>
-        <content type="html"><![CDATA[반 클라이번 국제 피아노 콩쿠르에서 역대 최연소 우승을 차지한 천재 피아니스트 임윤찬. 그의 역사적인 우승 현장과 공연 실황을 담은 월드클래스 클래식 무비 ‘크레센도’가 오는 12월 20일 전세계 최초 개봉을 확정짓고, 런칭 포스터를 전격 공개했다. 제19회 제천국제음악영화제 월드 프리미어 초청작으로, 예매 오픈과 동시에 전석 매진을 기록하며 천재 피아니스]]></content>
     </entry>
 </feed>

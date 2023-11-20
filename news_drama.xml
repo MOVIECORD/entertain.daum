@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-11-20T14:11:04.312Z</updated>
+    <updated>2023-11-20T15:12:12.288Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘운수 오진 날’ 살인마 유연석과 동승… 이성민 악몽 시작됐다]]></title>
+        <id>https://v.daum.net/v/20231120234038770</id>
+        <link href="https://v.daum.net/v/20231120234038770"/>
+        <updated>2023-11-20T15:11:59.342Z</updated>
+        <content type="html"><![CDATA[‘운수 오진 날’의 공포의 하룻밤이 시작됐다. 20일 오후 tvN 새 월화 드라마 ‘운수 오진 날’ 1회가 방송됐다. 돼지가 잔뜩 나오는 꿈을 꾼 오택(이성민)은 이를 길몽이라 생각, 신나게 운행에 나섰다. 오택의 하루는 정말 술술 풀리는 듯했다. 갈 길이 급했던 한 손님은 오택이 지름길로 빠르게 목적지에 데려다 주자 거스름돈도 받지 않고 내렸고, 유명]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['혼례대첩' 로운 "조이현과 혼인해야겠다 결심"..절벽 추락→구원 엔딩]]></title>
         <id>https://v.daum.net/v/20231120225443459</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231120170545002"/>
         <updated>2023-11-20T08:16:40.666Z</updated>
         <content type="html"><![CDATA[[뉴스엔 박수인 기자] '스위트홈2'가 괴물화 사태를 마주한 다양한 인간 군상 담은 보도 스틸을 공개했다. 오는 12월 1일 첫 공개되는 '스위트홈2'는 욕망이 괴물이 되는 세상, 그린홈을 떠나 새로운 터전에서 살아남기 위해 각자의 사투를 벌이는 현수와 그린홈의 생존자들 그리고 또 다른 존재의 등장과 알 수 없는 미스터리한 현상들까지 새로운 욕망과 사건,]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[찌질이로 변신한 임시완… ‘소년시대’, 웃음으로 시청자 붙드나]]></title>
-        <id>https://v.daum.net/v/20231120170410934</id>
-        <link href="https://v.daum.net/v/20231120170410934"/>
-        <updated>2023-11-20T08:16:40.666Z</updated>
-        <content type="html"><![CDATA[어두운 장르물이 주류를 점령한 OTT(온라인동영상서비스) 콘텐츠 시장에 간만에 편히 즐길 수 있는 시리즈가 찾아온다. 제대로 망가지며 코믹한 연기를 선보인 임시완의 변신으로 눈길을 끈 쿠팡플레이 오리지널 시리즈 ‘소년시대’다. 20일 서울 강남구 조선 팰리스 서울 강남에서 진행된 ‘소년시대’ 제작발표회에서 이명우 감독은 “지금 친구들을 만나도 학창시절 얘]]></content>
     </entry>
 </feed>
