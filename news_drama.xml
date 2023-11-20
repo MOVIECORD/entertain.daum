@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-11-20T12:21:34.329Z</updated>
+    <updated>2023-11-20T13:15:23.717Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["매일 설레게 해줄게. 오빠라고 불러"...남상지, 이도겸과 드디어 '1일']]></title>
+        <id>https://v.daum.net/v/20231120214301886</id>
+        <link href="https://v.daum.net/v/20231120214301886"/>
+        <updated>2023-11-20T13:15:10.930Z</updated>
+        <content type="html"><![CDATA[[TV리포트=김유진 기자]남상지와 이도겸이 본격적인 연애를 시작했다. 20일 방영된 KBS 일일드라마 '우당탕탕패밀리' 43회에서는 강선우(이도겸)이 유은성(남상지)에게 고백하는 장면이 그려졌다. 강선우는 "나 은성씨 좋아한다. 갑작스러운 고백이기도 하고 로맨틱한 장소도 아니고 특별한 선물도 없지만 마음만은 진심"이라며 말했다. 이에 유은성도 "저도 감독님]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['무인도의 디바' 박은빈, 강감찬 추격 이겨낼까]]></title>
+        <id>https://v.daum.net/v/20231120213004749</id>
+        <link href="https://v.daum.net/v/20231120213004749"/>
+        <updated>2023-11-20T13:15:10.930Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 이창규 기자) 박은빈의 복귀작 '무인도의 디바'가 의외의 난적을 만난 가운데, 시청률을 더욱 끌어올릴 수 있을지 관심이 모인다. 지난달 28일 첫 방송된 tvN 토일드라마 '무인도의 디바'는&nbsp;15년 만에 무인도에서 구조된 가수 지망생 서목하(박은빈 분)의 디바 도전기를 그리는 드라마다. 당초 방영 전부터 지난해 ENA 드라마 '이상한 변호사]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[전도연이 열고 이영애가 닫는다…올해를 빛낸 50대 여배우들]]></title>
         <id>https://v.daum.net/v/20231120210103456</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20231120165805686"/>
         <updated>2023-11-20T08:16:40.667Z</updated>
         <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]‘오늘도 사랑스럽개’ 차은우의 앞으로 김민석이 본격 등장해 팽팽한 신경전을 벌인다. 오는 22일(수) 밤 9시 방송되는 MBC 수요드라마 ‘오늘도 사랑스럽개’(연출 김대웅/ 극본 백인아/ 제작 그룹에이트, 판타지오/ 제작 투자 에이앤이 코리아) 7회에서 진서원(차은우 분)은 어릴 적 트라우마를 입게 한 장본인 강은환(김민석 분]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘소년시대’ 감독 “음문석 특별출연 욕심, 거절한 이유는”]]></title>
-        <id>https://v.daum.net/v/20231120161555127</id>
-        <link href="https://v.daum.net/v/20231120161555127"/>
-        <updated>2023-11-20T08:16:40.668Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 글 이민지 기자/사진 이재하 기자] 이명우 감독이 '소년시대'에 특별출연이 없다고 밝혔다. 쿠팡플레이 시리즈 '소년시대' 제작발표회가 11월 20일 조선팰리스 서울 강남 더 그레이트홀에서 열린 가운데 이명우 감독이 음문석 특별출연을 거절했다고 밝혔다. 이명우 감독은 "'소년시대'는 '와호장룡'이란 가제로 시작했다. 우리 드라마가 관통하는 주제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[정유민, 복수 위해 독기 제대로 올랐다…♥성훈 옆에선 더 강인해져]]></title>
-        <id>https://v.daum.net/v/20231120161531114</id>
-        <link href="https://v.daum.net/v/20231120161531114"/>
-        <updated>2023-11-20T08:16:40.670Z</updated>
-        <content type="html"><![CDATA[[마이데일리 = 박서연 기자] 배우 정유민이 인물의 첨예한 심리 변화를 완벽하게 그려냈다. 지난 18일과 19일 방송된 종합편성채널 MBN 주말미니시리즈 ‘완벽한 결혼의 정석’(극본 임서라 연출 오상원) 7, 8회에서는 억울하고 가엾게 살아온 지난 세월을 보상받듯 차근차근 복수 계획을 실천하는 한이주(정유민)의 모습이 그려졌다. 의붓동생 한유라(진지희)]]></content>
     </entry>
 </feed>
