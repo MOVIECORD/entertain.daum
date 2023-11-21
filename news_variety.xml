@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/variety</id>
     <title>다음 연예 ─ 뉴스 ─ 예능</title>
-    <updated>2023-11-21T10:18:03.709Z</updated>
+    <updated>2023-11-21T11:10:15.189Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[원미연, 父 건강 악화에..."병마 이기면 결혼하겠다" 선언]]></title>
+        <id>https://v.daum.net/v/20231121193004642</id>
+        <link href="https://v.daum.net/v/20231121193004642"/>
+        <updated>2023-11-21T11:10:04.828Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 이효반 기자) 원미연이 남편과의 일화를 밝혔다. 20일 방송된 tvN STORY '회장님네 사람들'(이하 '회장님네')에는 가수 이택림, 이상우, 원미연, 이연경이 게스트로 출연했다. 이날 원미연은 남편과의 만남 계기를 공개했다. 부산 교통방송이 개국하던 시절, 지인이 '잠시 내려와서 왔다 갔다 해보라'는 제안을 하더라고. 이에 원미연은 부산]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['스걸파2' 글로벌 10대의 대격돌… 21일 첫 방송]]></title>
+        <id>https://v.daum.net/v/20231121192606553</id>
+        <link href="https://v.daum.net/v/20231121192606553"/>
+        <updated>2023-11-21T11:10:04.829Z</updated>
+        <content type="html"><![CDATA['스트릿댄스 걸스 파이트' 시즌 2가 21일 오후 10시에 방영된다. 사진은 21일 오전 서울 마포구 스탠포드호텔에서 열린 Mnet '스트릿댄스 걸스 파이터2' 제작발표회에서 포즈를 취하고 있는 댄서 리아킴, 바다, 아이키, 커스틴, 가비, 펑키와이(왼쪽부터). /사진= 뉴시스 '스트릿댄스 걸스 파이터 2'(이하 '스걸파2')가 글로벌하게 돌아왔다. 21]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[100㎏ 증량 유지태 “문신 가득한 조폭, 날 보더니 90도 인사”]]></title>
         <id>https://v.daum.net/v/20231121190502195</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20231121171545412"/>
         <updated>2023-11-21T09:11:26.497Z</updated>
         <content type="html"><![CDATA[[스타뉴스 | 최혜진 기자] 돈쭐/사진=AXN, IHQ'돈쭐'에서 '강철부대' 멤버들이 먹방 1열 직관으로 재미를 더한다. 21일 AXN와 IHQ에서 방송되는 '돈쭐 맛짱뜨러 왔습니다'(이하 '돈쭐')에는 돈쭐군단과 강철부대 출신 예비역 7인의 먹방 대결이 펼쳐진다. 대결은 주어진 전후반 90분 이내에 솥뚜껑 닭볶음탕, 숯불닭갈비 등 더 많은 금액의]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이대호 "매일 나에게 욕 100번씩"…강한 '척' 고백]]></title>
-        <id>https://v.daum.net/v/20231121170936205</id>
-        <link href="https://v.daum.net/v/20231121170936205"/>
-        <updated>2023-11-21T08:14:30.580Z</updated>
-        <content type="html"><![CDATA[&nbsp; (엑스포츠뉴스 이슬 기자) 이대호가 강한 척했던 이유가 공개된다. 오늘(21일) 방송 예정인 채널A ‘오은영의 금쪽 상담소’에서 ‘조선의 4번 타자’ 이대호의 고민이 공개된다. 이날 이대호는 자신을 ‘前 야구선수’가 아닌 ‘방송인’이라 소개해 웃음바다로 만든다. 이어 프로방송인을 꿈꾸는 이대호를 위해 MC 박나래가 원포인트 ‘먹방 리액션’을 전수해 상담]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[하온, 효도 플렉스..."커피와 사랑에 빠진 父에 카페 차려드려"]]></title>
-        <id>https://v.daum.net/v/20231121165003453</id>
-        <link href="https://v.daum.net/v/20231121165003453"/>
-        <updated>2023-11-21T08:14:30.583Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 신현지 기자) 하온이 아버지에게 효도했던 일화를 밝혔다. 21일 방송된 SBS 파워FM '두시 탈출 컬투쇼' 3~4부에는 그룹 빅스(레오, 켄, 혁)와 래퍼 하온이 게스트로 출연했다. 이날 김태균은 힙합 아티스트들이 바지를 내릴 때 얼만큼 내려야 한다는 기준이 있는지 장난스레 질문했다. 하온은 "팬티의 선까지만 나오면 안 된다. 제가 엉덩이]]></content>
     </entry>
 </feed>

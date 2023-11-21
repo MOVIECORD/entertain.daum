@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-11-21T10:18:03.708Z</updated>
+    <updated>2023-11-21T11:10:15.193Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[새로운 ‘제이슨 본’ 시리즈 나온다, “맷 데이먼 복귀 관심”]]></title>
+        <id>https://v.daum.net/v/20231121200808490</id>
+        <link href="https://v.daum.net/v/20231121200808490"/>
+        <updated>2023-11-21T11:09:55.347Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]첩보 스릴러의 걸작으로 평가받는 ‘제이슨 본’ 시리즈의 새로운 버전 제작이 추진되고 있다. 데드라인은 20일(현지시간) “유니버설은 슈퍼 스파이 제이슨 본에 관한 새 영화를 개발 중이며, 넷플릭스 영화 ‘서부전선 이상없다’의 에드워드 버거 감독이 연출을 맡기로 협의하고 있다”고 보도했다. 새 영화는 총 5편(이 중 4편은 맷]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이동욱 "40대 되니 연애 어려워…호구 같진 않아, 고백은 늘 먼저"]]></title>
+        <id>https://v.daum.net/v/20231121195002055</id>
+        <link href="https://v.daum.net/v/20231121195002055"/>
+        <updated>2023-11-21T11:09:55.354Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 이슬 기자) '싱글 인 서울' 이동욱이 실제 연애 스타일을 밝혔다. 21일 오전 서울시 종로구의 한 카페에서 영화 '싱글 인 서울'(감독 박범수)에 출연한 배우 이동욱의 인터뷰가 진행됐다. '싱글 인 서울'은 혼자가 좋은 파워 인플루언서 영호(이동욱 분)와 혼자는 싫은 출판사 편집장 현진(임수정)이 싱글 라이프에 관한 책을 만들면서 벌어지는]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['서울의 봄' 정우성 "올해 카메오만 세 작품, 상이라도 받아야"]]></title>
         <id>https://v.daum.net/v/20231121191601379</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20231121172855921"/>
         <updated>2023-11-21T09:11:16.338Z</updated>
         <content type="html"><![CDATA[[이데일리 스타in 김보영 기자] 영화 ‘서울의 봄’ 배우 정우성이 오랜 영화적 동료로서 김성수 감독을 향한 남다른 동지애를 털어놨다. 정우성은 영화 ‘서울의 봄’(감독 김성수) 개봉을 하루 앞둔 21일 서울 종로구의 한 카페에서 취재진과 인터뷰를 진행했다. ‘서울의 봄’은 1979년 12월 12일 수도 서울에서 일어난 신군부 세력의 반란을 막기 위한]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[레드벨벳 웬디·라이즈 은석, 애니 '트롤3' 더빙]]></title>
-        <id>https://v.daum.net/v/20231121172335722</id>
-        <link href="https://v.daum.net/v/20231121172335722"/>
-        <updated>2023-11-21T09:11:16.338Z</updated>
-        <content type="html"><![CDATA[(서울=연합뉴스) 오보람 기자 = ▲ 웬디 목소리로 만나는 파피 = 애니메이션 영화 '트롤: 밴드 투게더'(이하 '트롤 3') 한국어 더빙판 배우로 걸그룹 레드벨벳의 웬디와 보이그룹 라이즈의 은석을 캐스팅했다고 배급사 유니버설픽쳐스가 21일 밝혔다. 전편 '트롤: 월드투어' 더빙에 참여했던 웬디는 이번 편에서도 '파피' 역을 맡았다. 은석은 아이돌 그룹 브]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['서울의 봄' 정우성 "분장의 기운도 돕는 황정민, 징글징글 하더라"①]]></title>
-        <id>https://v.daum.net/v/20231121170650136</id>
-        <link href="https://v.daum.net/v/20231121170650136"/>
-        <updated>2023-11-21T08:14:22.611Z</updated>
-        <content type="html"><![CDATA[[이데일리 스타in 김보영 기자] 영화 ‘서울의 봄’ 배우 정우성이 수도경비관 이태신 캐릭터를 연기했던 과정, 황정민과의 연기 호흡 등을 전했다. 정우성은 영화 ‘서울의 봄’(감독 김성수) 개봉을 하루 앞둔 21일 서울 종로구의 한 카페에서 취재진과 인터뷰를 진행했다. ‘서울의 봄’은 1979년 12월 12일 수도 서울에서 일어난 신군부 세력의 반란을]]></content>
     </entry>
 </feed>
