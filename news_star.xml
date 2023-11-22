@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2023-11-22T16:14:08.357Z</updated>
+    <updated>2023-11-22T17:10:39.224Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[방탄소년단 지민·정국, 美빌보드 연말 결산 차트서 쏟아낸 기록]]></title>
+        <id>https://v.daum.net/v/20231123012540273</id>
+        <link href="https://v.daum.net/v/20231123012540273"/>
+        <updated>2023-11-22T17:10:34.633Z</updated>
+        <content type="html"><![CDATA[방탄소년단 지민과 정국이 미국 빌보드 연말 결산 차트에서 기록을 쏟아냈다. 22일(한국시간) 미국 음악 전문 매체 빌보드가 발표한 2023년 연말 결산 차트(YEAR-END CHARTS)에 따르면, 정국의 솔로 싱글 'Seven (feat. Latto)'이 메인 송차트 핫 100 송에서 82위를 차지했다. 이 차트에 K팝 솔로 가수의 작품이 오른 것은]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘나는 솔로’ 17기 순자·옥순, 광수 선택→현숙, 영호·상철과 삼각관계]]></title>
         <id>https://v.daum.net/v/20231123002700999</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231122233130481"/>
         <updated>2023-11-22T15:12:01.481Z</updated>
         <content type="html"><![CDATA[(서울=뉴스1) 이지현 기자 = 17기 옥순이 애교 가득한 모습으로 매력을 발산했다. 22일 오후 방송된 SBS플러스, ENA 예능 프로그램 '나는 솔로'에서는 슈퍼 데이트권 미션 후 17기 남녀 출연자들 사이에 묘한 기류가 감돌았다. 이날 슈퍼 데이트권을 차지한 옥순이 공용 거실에 등장하자마자 광수가 바로 근처에 다가가 앉았다. 조금 지난 뒤에는]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['나는 솔로' 17기 순자 "영식 예쁘장해, 오히려 안 예쁜 광수가 낫다"]]></title>
-        <id>https://v.daum.net/v/20231122232303443</id>
-        <link href="https://v.daum.net/v/20231122232303443"/>
-        <updated>2023-11-22T15:12:01.488Z</updated>
-        <content type="html"><![CDATA[[스포츠투데이 임시령 기자] '나는 솔로' 17기 순자가 혼란스러운 마음을 전했다. 22일 방송된 ENA·SBS Plus '나는 SOLO(나는 솔로)'에서는 17기 순자가 영식을 두고 고민했다. 이날 17기 영식은 17기 순자의 슈퍼 데이트권을 받기 위해 적극적으로 어필하게 시작했다. 하지만 순자는 현숙에게 "영식님이랑 대화해보고 광수님과는 내일 저녁]]></content>
     </entry>
 </feed>
