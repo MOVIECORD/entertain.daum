@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-11-23T05:11:26.234Z</updated>
+    <updated>2023-11-23T06:14:34.807Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[13년 전 직장동료와 키스를…우혜림 "황찬성, 미안하다고"]]></title>
+        <id>https://v.daum.net/v/20231123145007250</id>
+        <link href="https://v.daum.net/v/20231123145007250"/>
+        <updated>2023-11-23T06:14:18.561Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 윤현지 기자) '내 안에 홍콩이 있다' 황찬성과 우혜림이 오랜만에 재회한 소감을 전했다. 23일 오전 서울 용산구 CGV용산 아이파크몰에서 영화 '내 안에 홍콩이 있다'(감독 강윤성)의 쇼케이스가 열렸다. 현장에는 강윤성 감독과 배우 우혜림, 황찬성이 참석했다. '내 안에 홍콩이 있다'는 어느 날 느닷없이 잠옷 차림으로 홍콩에 떨어진 혜림이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[우혜림 "강윤성 감독, 젠틀해…녹음실 안 JYP 같아"]]></title>
         <id>https://v.daum.net/v/20231123135009381</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231123121554124"/>
         <updated>2023-11-23T04:13:08.569Z</updated>
         <content type="html"><![CDATA[[스타뉴스 | CGV용산=김나연 기자] 배우 우혜림, 황찬성이 23일 오전 서울 CGV용산아이파크몰에서 진행된 글로벌 프로젝트 '홍콩 인 렌즈'(Hong Kong in the Lens)의 한국편 '내 안에 홍콩이 있다'(감독 강윤성) 쇼케이스에 참석해 포즈를 취하고 있다.  '홍콩 인 렌즈'는 한국을 비롯해 태국, 필리핀 등 아시아 3개국의 국가대표 감독들]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['내 안에 홍콩~' 황찬성 "우혜림과 키스신 촬영? 미안하다고 사과해"]]></title>
-        <id>https://v.daum.net/v/20231123121500093</id>
-        <link href="https://v.daum.net/v/20231123121500093"/>
-        <updated>2023-11-23T04:13:08.570Z</updated>
-        <content type="html"><![CDATA[[스포츠조선 안소윤 기자] '내 안에 홍콩이 있다' 황찬성이 우혜림과의 키스신 촬영 비하인드를 언급했다. 황찬성은 23일 오전 서울 용산구 이촌동 CGV 용산아이파크몰에서 열린 '내 안에 홍콩이 있다' 쇼케이스에서 "혜림이에 첫 키스신 상대가 나여서 미안하다고 사과했다"고 전했다. 이날 강윤성 감독은 작품의 명장면으로 황찬성과 우혜림의 키]]></content>
     </entry>
 </feed>
