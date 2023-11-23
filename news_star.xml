@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2023-11-23T18:13:44.155Z</updated>
+    <updated>2023-11-23T19:09:04.953Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[레전드 디바 걸그룹 ‘골든걸스’… 신곡 ‘원 라스트 타임’ 전격 공개]]></title>
+        <id>https://v.daum.net/v/20231124040457580</id>
+        <link href="https://v.daum.net/v/20231124040457580"/>
+        <updated>2023-11-23T19:08:59.842Z</updated>
+        <content type="html"><![CDATA[네 명의 레전드 디바가 한 팀으로 뭉쳐 폭발적인 하모니를 뿜어냈다. 반짝이는 옷을 입고, 대열을 맞춰 춤을 추는 얼굴에선 긴장과 설렘이 동시에 느껴졌다. 이들은 걸그룹 ‘골든걸스’로 무대를 하면서도 솔로일 때와 똑같은 에너지와 가창력을 폭발시켰다. 네 명의 디바, 그리고 어딘가에서 도전을 망설이는 사람들을 응원하는 마음을 담아 박진영이 작곡한 신곡 ‘원]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[노리플라이, 그렇게 청춘이 있었네]]></title>
+        <id>https://v.daum.net/v/20231124035305530</id>
+        <link href="https://v.daum.net/v/20231124035305530"/>
+        <updated>2023-11-23T19:08:59.843Z</updated>
+        <content type="html"><![CDATA[[서울=뉴시스]이재훈 기자 = 청춘은 여전히 거기 있었다. 감성 듀오 '노리플라이(no reply)'는 청춘에 대한 서술의 권한을 뮤지션이 아니라 듣는 이들에게 준다. 청춘을 체험한 이들이 다시 스스로 청춘을 복기하거나 환기할 수 있게 만드는 벅차면서도 아련한 음악들. 6년 만인 최근에 발매한 새 EP '사랑이 있었네'가 그걸 증명한다. 타이틀곡 '사랑]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이선균 3억 착복 女실장, "ㅋㅋㅋ" 해커와 충격 대화]]></title>
         <id>https://v.daum.net/v/20231124011607019</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20231123235700483"/>
         <updated>2023-11-23T15:11:18.178Z</updated>
         <content type="html"><![CDATA[‘나솔사계’ 7기 광수의 근황이 공개됐다. 23일 방송된 ENA PLAY(이엔에이플레이)의 리얼 데이팅 프로그램 ‘나는 SOLO, 그 후 사랑은 계속된다’(이하 ‘나솔사계’)에서는 10기 영수와 7기 광수의 일상이 전파를 탔다. 이날 10기 영수는 아들 등교 시간과 맞춰 누군가에게 전화를 걸어 모닝콜을 했다. 제작진이 “정숙님 목소리랑 비슷한데”라고 묻자,]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[펜싱 김준호 “콕콕” 신통방통 스텝 밟는 子 보며 “마음에 준비 안됐는데” 흐뭇]]></title>
-        <id>https://v.daum.net/v/20231123235222462</id>
-        <link href="https://v.daum.net/v/20231123235222462"/>
-        <updated>2023-11-23T15:11:18.179Z</updated>
-        <content type="html"><![CDATA[[스포츠서울 | 박효실기자] 남자 펜싱 국가대표 김준호의 아들 은우가 환상적인 펜싱 스텝을 선보여 폭소를 안겼다. 김준호는 23일 자신의 채널에 최근 두돌을 맞은 은우의 영상을 올렸다. 영상 속에서 김준호의 아내가 “은우야. 아빠 펜싱 어떻게 해?”라고 하자 은우는 야무진 표정으로 다리를 벌린 채 옆으로 진행하며 찌르는 동작을 해보였다. 이어 “아빠처]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['나솔사계' 경리, 7기 광수·옥순 재회에 "커플 안 돼서 아쉬워"]]></title>
-        <id>https://v.daum.net/v/20231123234105425</id>
-        <link href="https://v.daum.net/v/20231123234105425"/>
-        <updated>2023-11-23T15:11:18.183Z</updated>
-        <content type="html"><![CDATA[[스포츠투데이 백지연 기자] '나솔사계' 경리가 7기 광수와 옥순이 커플로 발전되지 못할 것을 아쉬워했다. 23일 밤 방송된 SBS플러스 '나는 솔로 사랑은 계속된다'에서 UN산하국제기구에서 일하고 있는 나솔 최고 능력남 7기 광수의 일상이 공개됐다. 이날 방송 후 광수는 "제 생활하고 잘 지내고 있다. 종종 알아보시는 분들이 있다. 인사도 받고 그렇다]]></content>
     </entry>
 </feed>
