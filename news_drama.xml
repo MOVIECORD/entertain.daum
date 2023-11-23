@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-11-23T12:19:58.035Z</updated>
+    <updated>2023-11-23T13:14:11.478Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘원 아시아 포럼’ 정준호→사오리, 한·중·일 미래 발전에 ‘이해와 화합’을 외치다]]></title>
+        <id>https://v.daum.net/v/20231123212613353</id>
+        <link href="https://v.daum.net/v/20231123212613353"/>
+        <updated>2023-11-23T13:13:59.365Z</updated>
+        <content type="html"><![CDATA[‘이해’와 ‘화합’이 전부였다. 한국·중국·일본 동아시아의 세계화를 두고 ‘원아시아포럼’ 연사들은 이 단어들을 쉴새 없이 전달, 입을 모았다. 그만큼 동아시아 세 국가에게 반드시 필요한 키워드였다.&nbsp; 23일 오후 서울 중구 순화동에 위치한 KG타워에서는 ‘제 1회 원 아시아 포럼2023’(이하 ‘원 아시아 포럼’)이 개최됐다. ‘원 아시아 포럼’ 주최는]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[박시은♥진태현 "흉흉한 시대지만…순한 맛으로 살 수 있다"]]></title>
         <id>https://v.daum.net/v/20231123211628212</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231123175013252"/>
         <updated>2023-11-23T09:11:09.895Z</updated>
         <content type="html"><![CDATA[(엑스포츠뉴스 이창규 기자) ([엑's 인터뷰②]에 이어)&nbsp;'연인'으로 눈도장을 찍은 김무준이 배우로서 데뷔하게 된 과정을 전했다. 1998년생으로 만 25세인 김무준이 연기자로서의 꿈을 키운 건 고등학생 때. 그는 "극장에서 영화 '국제시장'을 보고 연기를 해보고 싶었다. 처음으로 학원을 보내달라고 부모님을 설득했다"고 말했다. 그렇게 처음 발을 들인 연]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['연인' 김무준 "남궁민 감사...중심 잡을 수 있게 도와줘"]]></title>
-        <id>https://v.daum.net/v/20231123175008246</id>
-        <link href="https://v.daum.net/v/20231123175008246"/>
-        <updated>2023-11-23T09:11:09.895Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 이창규 기자) ([엑's 인터뷰①]에 이어)&nbsp;'연인'으로 첫 사극에 도전한 김무준은 김종태, 남궁민 등 함께 호흡을 맞춘 선배들에게 감사를 전했다. 그는 "일단 사극도 처음이었고, 요즘에는 8부작, 12부작 이렇게 짧게 가는 게 추세인데, 21부작을 하지 않았나. 촬영 기간도 길어지고, 캐릭터를 가지고 가야하는 기간도 길어지다보니까 후반부로]]></content>
     </entry>
 </feed>
