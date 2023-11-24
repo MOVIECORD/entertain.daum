@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-11-24T09:11:08.570Z</updated>
+    <updated>2023-11-24T10:12:30.863Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[마크 윌버그, 52세에도 완벽한 식스팩]]></title>
+        <id>https://v.daum.net/v/20231124184132368</id>
+        <link href="https://v.daum.net/v/20231124184132368"/>
+        <updated>2023-11-24T10:12:30.245Z</updated>
+        <content type="html"><![CDATA[[TV리포트=김현재 기자] 할리우드 배우 마크 윌버그가 52세의 나이에도 완벽한 자기관리로 이목을 집중시켰다. 23일(현지시각) 마크 윌버그는 자신의 소셜네트워크서비스를 통해 동영상을 게시했다. 카메라를 향해 성호를 그으며 테라스로 나온 그는 추수 감사절을 기념하며 "오늘을 기억하고 날마다 주님께 감사와 찬양을 드리길 바란다"는 말을 전했다. 그는 이어]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[요아소비 '아이돌', 日레코드 대상 후보에 없다...누리꾼 성토]]></title>
+        <id>https://v.daum.net/v/20231124182200977</id>
+        <link href="https://v.daum.net/v/20231124182200977"/>
+        <updated>2023-11-24T10:12:30.245Z</updated>
+        <content type="html"><![CDATA[[TV리포트=강성훈 기자] 전통과 권위를 자랑하는 시상식 '일본 레코드 대상'에 대한 누리꾼의 비판이 이어지고 있다. 지난 22일 '제65회 일본 레코드 대상'의 대상 후보인 우수 작품 상 전형이 공개됐다.&nbsp;하지만 유닛 요아소비의 '아이돌'(アイドル)이 후보에 들지 않아 현지 누리꾼은 의문을 품었다. 이들은 "레코드의 심사 기준이 뭔지 모르겠다", "후보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["대마초 끊었다" 스눕독, 일주일 만에 번복]]></title>
         <id>https://v.daum.net/v/20231124180132470</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20231124084147687"/>
         <updated>2023-11-24T00:47:36.028Z</updated>
         <content type="html"><![CDATA[(로스앤젤레스=연합뉴스) 임미나 특파원 = 할리우드 인기 배우이자 가수인 제이미 폭스(55)가 8년 전 성폭력 혐의로 한 여성에게 소송을 당했다. 23일(현지시간) CNN 방송과 연예매체 데드라인 등에 따르면 신원이 알려지지 않은 한 여성이 폭스에게 성폭력을 당했다고 주장하며 지난 20일 뉴욕주 법원에 소송을 제기했다. 고소장에 따르면 이 여성은 문제의 사]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[제이미 폭스, 성추행 혐의로 피소..."이미 기각된 사건" 정면 반박]]></title>
-        <id>https://v.daum.net/v/20231124082119243</id>
-        <link href="https://v.daum.net/v/20231124082119243"/>
-        <updated>2023-11-24T00:47:36.031Z</updated>
-        <content type="html"><![CDATA[[OSEN=유수연 기자] 제이미 폭스가 성폭행 혐의로 피소되자 반박에 나섰다. 23일(현지 시각) NBC 뉴스 등 외신 보도에 따르면, 제이미 폭스는&nbsp;2015년 8월 옥상 바에서 자신을 성폭행했다고 주장하는 한 여성으로부터 고소를 당했습니다. 지난 수요일 뉴욕 대법원에 제출된 소송은 제이미 폭스가&nbsp;익명의 여성의 바지에 손을 넣은 후 그녀를 폭행했다고 주]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['동요천재' 노노카짱, 5살에 성우로 데뷔...'연기'도 잘한다]]></title>
-        <id>https://v.daum.net/v/20231123190301980</id>
-        <link href="https://v.daum.net/v/20231123190301980"/>
-        <updated>2023-11-23T10:11:50.613Z</updated>
-        <content type="html"><![CDATA[[TV리포트=안수현 기자] 일본 동요대회에서 은상을 수상하며 국내에서도 화제가 된 어린이 스타 무라카타 노노카(5)가 애니메이션 성우로 활약했다. 23일, 애니메이션 영화 '극장판 실바니안 패밀리: 플레어로부터의 선물' 시사회가 도쿄 TOHO 시네마즈 롯폰기에서 진행됐다. 공개 당일 기념 출연진 쿠로시마 유이나, 아오이 우유, 다이고 등의 배우가 행사에]]></content>
     </entry>
 </feed>
