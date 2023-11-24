@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-11-24T06:14:43.290Z</updated>
+    <updated>2023-11-24T07:10:24.852Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[엑소 출신 크리스, 성범죄로 '징역 13년' 확정…화학적 거세는?]]></title>
+        <id>https://v.daum.net/v/20231124154950988</id>
+        <link href="https://v.daum.net/v/20231124154950988"/>
+        <updated>2023-11-24T07:10:24.241Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 오승현 기자) 엑소의 전 멤버였던 크리스(우이판)의 2심 항소가 기각돼 징역 13년 형이 확정됐다. 24일(현지시간) 중국중앙TV(CCTV)와 로이터 통신에 따르면 베이징시 제3중급인민법원은 강간죄와 집단음란죄 혐의로 기소된 크리스의 항소를 기각했다. 중국은 항소심이 최종심이다. 크리스의 징역 13년형이 확정된 것. 이에 재판부는 "크리스는]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['스파이더 맨' 제이미 폭스, '성폭력 논란' 강경대응 예고]]></title>
         <id>https://v.daum.net/v/20231124130200668</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231123164530991"/>
         <updated>2023-11-23T08:14:05.603Z</updated>
         <content type="html"><![CDATA[[TV리포트=이예은 기자] 많은 영화 작품이 후속편을 줄줄이 내놓는 가운데, '팀 버튼의 크리스마스 악몽'(이하 '크리스마스의 악몽')의 속편은 볼 수 없을 것으로 보인다.&nbsp; 외신 매체 엠파이어는 22일(현지 시간) 팀 버튼이 자신이 제작한 영화 '크리스마스의 악몽'의 속편 제작 루머를 부인했다고 보도했다.&nbsp; '크리스마스의 악몽'은 팀 버튼의 드로잉을 바탕]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[진관희, 6살 딸 앞에서 '불륜' 언급..."비난에도 꿋꿋이 버텼다"]]></title>
-        <id>https://v.daum.net/v/20231123164100833</id>
-        <link href="https://v.daum.net/v/20231123164100833"/>
-        <updated>2023-11-23T08:14:05.603Z</updated>
-        <content type="html"><![CDATA[[TV리포트=안수현 기자] '장백지 불륜 스캔들'로 홍콩 연예계를 발칵 뒤집은 톱배우 진관희가 최근 이에 관해 6살 딸아이와 함께한 인터뷰에서 언급다. 지난 21일, 진관희(43)는 자신의 패션 브랜드 CLOT 20주년 기념행사를 위해 대만에 방문해 인터뷰를 가졌다. 그는 계속해서 '장백지 스캔들'에 관한 언급을 거부했지만 이날은 이에 관해 답변해 눈길을]]></content>
     </entry>
 </feed>
