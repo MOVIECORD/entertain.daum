@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-11-24T19:09:06.650Z</updated>
+    <updated>2023-11-24T20:11:10.266Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['마이데몬' 송강, "계약은 잊지 않았겠지?"…김유정과 손잡고 '데몬' 능력 상실]]></title>
+        <id>https://v.daum.net/v/20231125045700333</id>
+        <link href="https://v.daum.net/v/20231125045700333"/>
+        <updated>2023-11-24T20:10:55.316Z</updated>
+        <content type="html"><![CDATA[[SBS연예뉴스 | 김효정 에디터] 송강의 능력은 김유정에게 이동했을까? 24일 방송된 SBS 금토 드라마 '마이 데몬'에서는 도도희와 정구원의 운명적 만남이 그려졌다. 이날 도도희는 죽을 위기에 처했다. 그리고 전력을 다해서 도주했다. 그런 도도희 앞에 정구원이 등장했다. 정구원은 "어디 있을 텐데 오늘의 먹잇감이. 절박하고 외롭고 겁에 잔뜩 질린, 그래]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[조혜주 "이사장에게 난 유일한 반려 인간", 송강♥김유정에 질투 폭발]]></title>
         <id>https://v.daum.net/v/20231124235101084</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231124221103625"/>
         <updated>2023-11-24T13:13:33.359Z</updated>
         <content type="html"><![CDATA[(엑스포츠뉴스 오수정 기자) '마이 데몬'에서 김유정이 묘한 모습을 드러냈다.&nbsp; 24일 방송된 SBS 새 금토드라마 '마이 데몬' 1회에서는 안개 속을 뛰어가는 도도희(김유정 분)의 모습이 그려졌다.&nbsp; 이날 도도희는 불안한 표정으로 안개 속을 헤쳐나가며 달렸다. 도도희는 '내 삶은 안개 속을 사는 것과 같다. 누가 적군이고 누가 아군인지, 혹은 온통 적들에]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['30kg대' 박민영→'20kg 증량' 유지태…충격과 감탄 사이 ★들의 고무줄 몸무게]]></title>
-        <id>https://v.daum.net/v/20231124220101387</id>
-        <link href="https://v.daum.net/v/20231124220101387"/>
-        <updated>2023-11-24T13:13:33.359Z</updated>
-        <content type="html"><![CDATA[[텐아시아=김서윤 기자]드라마 속 캐릭터를 완벽하게 표현하기 위해 변신을 꾀한 배우들이 시선을 사로잡고 있다. 몇 kg씩이나 증량하고 감량하는 일은 결코 쉬운 일이 아닐 터. 몰라보게 달라진 이들의 모습은 충격을 자아내기도, 감탄을 자아내기도 한다. 박민영의 비주얼이 화제다. 그는 내년 1월 1일 방송되는 tvN '내 남편과 결혼해줘'에 출연한다. '내]]></content>
     </entry>
 </feed>
