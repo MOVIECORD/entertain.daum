@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-11-24T08:14:14.741Z</updated>
+    <updated>2023-11-24T09:11:08.567Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이도겸, 남상지와 본격 '열애' 시작]]></title>
+        <id>https://v.daum.net/v/20231124172218426</id>
+        <link href="https://v.daum.net/v/20231124172218426"/>
+        <updated>2023-11-24T09:10:53.561Z</updated>
+        <content type="html"><![CDATA[[OSEN=최나영 기자]&nbsp;‘우당탕탕 패밀리’의 배우 이도겸이&nbsp;사랑꾼 면모를 발산하며 극을 더욱 달달하고 재밌게 이끌고 있다. 이도겸은 KBS 1TV 일일드라마 ‘우당탕탕 패밀리’(연출 김성근 / 극본 문영훈 / 제작 몬스터유니온, 아센디오)에서 완벽주의자 성향의 유망한 영화감독 ‘강선우’로 분해 열연중인 가운데 유은성(남상지 분)과 본격 연애를 시작하며]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['연인'의 금토극 왕좌…'열녀박씨'VS'마이데몬', 후계자는 누구?]]></title>
         <id>https://v.daum.net/v/20231124170008887</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231124153018332"/>
         <updated>2023-11-24T07:10:10.611Z</updated>
         <content type="html"><![CDATA[[서울경제] '마이 데몬' 김유정과 송강이 자연스러운 호흡의 비결을 밝혔다. 24일 오후 서울 양천구 SBS홀에서 SBS 새 금토드라마 '마이 데몬'(극본 최아일/연출 김장한) 제작발표회가 진행됐다. 김장한 감독, 배우 김유정, 송강, 이상이, 조혜주가 참석해 작품에 대해 다양한 이야기를 나눴다. '마이 데몬'은 악마 같은 재벌 상속녀 도도희(김유정)와]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김유정 "이상이와 1년간 매일같이 보고 있어, 어색할까 걱정"]]></title>
-        <id>https://v.daum.net/v/20231124152902275</id>
-        <link href="https://v.daum.net/v/20231124152902275"/>
-        <updated>2023-11-24T07:10:10.612Z</updated>
-        <content type="html"><![CDATA[[텐아시아=태유나 기자] 배우 김유정이 이상이와의 호흡에 대해 말했다.&nbsp; 24일 오후 서울 목동 SBS사옥에서 SBS 새 금토드라마 '마이 데몬' 제작발표회가 열렸다. 행사에는 배우 김유정, 송강, 이상이, 조혜주, 김장한 감독이 참석했다.&nbsp; '마이 데몬'은 악마 같은 재벌 상속녀 도도희(김유정 분)와 한순간 능력을 잃어버린 악마 정구(송강 분)원이]]></content>
     </entry>
 </feed>
