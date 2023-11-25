@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/variety</id>
     <title>다음 연예 ─ 뉴스 ─ 예능</title>
-    <updated>2023-11-25T04:13:08.117Z</updated>
+    <updated>2023-11-25T05:10:55.215Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이찬원 영탁 ‘불후의 명곡’ 통해 K-트로트 세계 진출 가능성 타진]]></title>
+        <id>https://v.daum.net/v/20231125132710591</id>
+        <link href="https://v.daum.net/v/20231125132710591"/>
+        <updated>2023-11-25T05:10:46.800Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 박수인 기자] 가수 이찬원, 영탁이 K-트로트 홍보대사 역할을 톡톡히 한다. 11월 25일 방송되는 KBS 2TV ‘불후의 명곡’(연출 박형근 신수정 김성민 박영광) 633회는 ‘불후의 명곡 in US 특집’ 2부에는 패티김, 박정현, 김태우, 싸이, 영탁, 이찬원, 잔나비, 에이티즈 등의 무대가 이어지며 K-POP의 파워를 과시한다. 2부에서]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘전참시’ 곽튜브가 뽑은 올해의 연예대상 후보는?]]></title>
         <id>https://v.daum.net/v/20231125125401250</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231125105211363"/>
         <updated>2023-11-25T02:19:32.760Z</updated>
         <content type="html"><![CDATA[[뉴스엔 박수인 기자] 올드케이(김종민)가 글로벌 진출을 노리며 영어 배우기에 열을 올린다. 11월 25일 방송되는 MBC ‘놀면 뭐하니?’(연출 김진용, 장우성, 장효종, 왕종석/작가 최혜정)에서는 원탑(JS(유재석), 하하, 올드케이(김종민), 주우재, 이이경, 영케이)과 주주 시크릿(박진주, 이미주)이 뭉친 JS엔터 첫 단합대회가 공개된다. JS는]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['노래방 VS', 본격 팀 경쟁 시작...최고 시청률 3.7%·동시간대 1위]]></title>
-        <id>https://v.daum.net/v/20231125105133358</id>
-        <link href="https://v.daum.net/v/20231125105133358"/>
-        <updated>2023-11-25T02:19:32.761Z</updated>
-        <content type="html"><![CDATA[[OSEN=유수연 기자] 프로듀서들이 발굴한 보석 같은 참가자들이 완벽한 하모니로 금요일 밤을 아름답게 장식했다. 어제(24일)&nbsp;방송된&nbsp;Mnet&nbsp;초대형 노래방 서바이벌&nbsp;‘VS(브이에스)’(이하&nbsp;'노래방&nbsp;VS') 6회에서는 팀 매칭을 위한&nbsp;4차 미션&nbsp;'100초 미션'에 이어&nbsp;5차 미션&nbsp;'팀 싱어롱'으로 본격적인 팀 서바이벌의 서막을 올렸다.&nbsp;프로듀서들의]]></content>
     </entry>
 </feed>
