@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-11-25T02:19:43.348Z</updated>
+    <updated>2023-11-25T03:11:42.363Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["나랑 사귈래요?" 하준, 유이에게 훅 들어간 고백 ']]></title>
+        <id>https://v.daum.net/v/20231125114820820</id>
+        <link href="https://v.daum.net/v/20231125114820820"/>
+        <updated>2023-11-25T03:11:29.739Z</updated>
+        <content type="html"><![CDATA[[OSEN=최나영 기자]&nbsp;“나랑 사귈래요?” ‘효심이네 각자도생’&nbsp;하준이 드디어 유이에게 고백한다.&nbsp;유이를 향한 고주원의 마음을 눈치챈 하준이 승부수를 띄우는 것.&nbsp;사촌 형제지간에 유이 마음 쟁탈전이 본격화되는 가운데,&nbsp;하준에게 기우는 마음을 외면하고 애써 다시 벽을 세웠던 유이가 쌍방 로맨스로 나아갈지 궁금증이 치솟는다. KBS 2TV&nbsp;주말드라마&nbsp;‘효]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[하준, "나랑 사귈래요?"..유이에 드디어 고백]]></title>
         <id>https://v.daum.net/v/20231125111817600</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231125091020404"/>
         <updated>2023-11-25T00:46:21.392Z</updated>
         <content type="html"><![CDATA[[OSEN=최나영 기자] '고려 거란 전쟁’의 양규가 흥화진 전투를 앞두고 현종에게 충성을 다짐한다.&nbsp; 오늘(25일) 방송되는 공영방송 50주년 특별 기획 KBS 2TV 대하드라마 ‘고려 거란 전쟁’(극본 이정우/ 연출 전우성, 김한솔/ 제작 몬스터유니온, 비브스튜디오스) 5회에서는 황제 현종(김동준 분)이 거란과의 전쟁을 막기 위해 모든 수단과 방법을]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이세영vs김유정 첫방 승자는?...'연인' 금토극 왕좌, '열녀박씨' 차지]]></title>
-        <id>https://v.daum.net/v/20231125090619368</id>
-        <link href="https://v.daum.net/v/20231125090619368"/>
-        <updated>2023-11-25T00:46:21.392Z</updated>
-        <content type="html"><![CDATA[[OSEN=유수연 기자] 금토드라마 '열녀박씨 계약결혼뎐'이 '마이 데몬'과의 첫 대결에서 먼저 웃었다. 25일&nbsp;시청률 조사회사 닐슨코리아 집계에 따르면 지난 24일 첫 방송된 MBC 금토드라마 '열녀박씨 계약결혼뎐' 1회는 전국 5.6%, 수도권 5.3%의 시청률을 기록했다. 같이 시간 첫 방송된&nbsp;&nbsp;SBS 금토드라마 '마이데몬' 1회는 전국 4.5%,]]></content>
     </entry>
 </feed>
