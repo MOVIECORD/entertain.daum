@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-11-26T04:12:51.345Z</updated>
+    <updated>2023-11-26T05:10:35.874Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[마고 로비, “‘바비’ 속편 제작 안한다”]]></title>
+        <id>https://v.daum.net/v/20231126132630568</id>
+        <link href="https://v.daum.net/v/20231126132630568"/>
+        <updated>2023-11-26T05:10:17.025Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]그레타 거윅 감독의 영화 ‘바비’는 14억 4,176만 달러(약 1조 8,829억원)를 벌어들여 올해 전세계 박스오피스 1위를 차지했다. 당연히 속편 제작 가능성이 나왔다. 그러나 주연 겸 제작자 마고 로비는 고개를 저었다. 그는 25일(현지시간) AP통신과 인터뷰에서 “1편에 모든 것을 쏟아부었다”면서 “3부작으로 만들려고]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘청룡 레드카펫 빛낸 크리스탈’ 정수정, 치명적인 아우라 뽐낸 드레스 여신]]></title>
         <id>https://v.daum.net/v/20231126130602361</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231126095418598"/>
         <updated>2023-11-26T01:55:57.691Z</updated>
         <content type="html"><![CDATA[[OSEN=김보라 기자] 이달 17일 넷플릭스를 통해 공개된 영화 ‘독전2’(감독 백종열, 제작 용필름·슈퍼픽션)는 용산역에서 벌인 지독한 혈투 이후 여전히 이선생을 쫓는 형사 원호(조진웅 분)와 사라진 락(오승훈 분), 다시 나타난 브라이언(차승원 분)과 사태 수습을 위해 중국에서 온 큰칼(한효주 분)의 독한 전쟁을 그린 범죄 액션. 차승원과 조진웅이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[장률, 날다]]></title>
-        <id>https://v.daum.net/v/20231126092051143</id>
-        <link href="https://v.daum.net/v/20231126092051143"/>
-        <updated>2023-11-26T00:52:29.656Z</updated>
-        <content type="html"><![CDATA[배우 장률이 날았다. 긴 무명시절 숨죽이고 때를 기다리다가 OTT플랫폼 넷플릭스 시리즈 ‘마이 네임’(2021)으로 날아올랐고, 티빙 ‘몸값’(2022)으로 또 한 번 도약했다. 이어 넷플릭스 새 시리즈 ‘정신병동에도 아침이 와요’(2023)를 통해 다정하고 스윗한 얼굴을 내민다. “무명의 시간을 혼자서 많이 보냈어요. 운좋게 연극 무대에 많이 서면서]]></content>
     </entry>
 </feed>
