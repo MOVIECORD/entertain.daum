@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-11-26T03:11:54.305Z</updated>
+    <updated>2023-11-26T04:12:51.344Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘고려거란전쟁’ 가슴이 웅장해져 반가운 君君臣臣 사극]]></title>
+        <id>https://v.daum.net/v/20231126124741174</id>
+        <link href="https://v.daum.net/v/20231126124741174"/>
+        <updated>2023-11-26T04:12:36.219Z</updated>
+        <content type="html"><![CDATA[[OSEN=김재동 객원기자]&nbsp;“꼭 승리하시오. 승리하여 고려의 백성들을 구원하시오. 그대가 온 고려의 백성들을 구한다면 단 한 명의 황제를 시해한 죄는 모두 사라질 것이오. 다시는 그 누구도 경을 반역자라 칭하지 않을 것이며, 나 또한 경을 향해 더는 역적이라 부르지 않을 것이오. 진심으로 경을 이 고려의 충신으로 생각할 것이며, 경을 이 고려를 구한]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘열녀박씨 계약결혼뎐’ 이세영·배인혁 케미X동공 지진 엔딩→시청률 상승세]]></title>
         <id>https://v.daum.net/v/20231126114022324</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231126093353286"/>
         <updated>2023-11-26T00:52:33.555Z</updated>
         <content type="html"><![CDATA[[OSEN=장우영 기자] ‘열녀박씨 계약결혼뎐’ 이세영이 조선에서 결혼했던 서방님의 계모와 똑 닮은 진경을 21세기 현대에서 만난 후 충격에 휩싸이는 ‘동공 지진 엔딩’으로 긴장감을 드높였다. 지난 25일 방송된 MBC 새 금토드라마 ‘열녀박씨 계약결혼뎐’(기획 김성욱, 연출 박상훈, 작가 고남정, 제작사 초록뱀미디어) 2회는 닐슨 코리아 기준 전국 5]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[본격 2차 전쟁 ‘고려 거란 전쟁’, 상승세 탔다..2주 연속 자체최고시청률 경신]]></title>
-        <id>https://v.daum.net/v/20231126092816217</id>
-        <link href="https://v.daum.net/v/20231126092816217"/>
-        <updated>2023-11-26T00:52:33.555Z</updated>
-        <content type="html"><![CDATA[[OSEN=강서정 기자] ‘고려 거란 전쟁’의 야율융서가 40만 대군을 이끌고 고려의 흥화진을 침략하며 본격적인 2차 전쟁의 포문을 열었다.&nbsp; 지난 25일 방송된 공영방송 50주년 특별 기획 KBS 2TV 대하드라마 ‘고려 거란 전쟁’(극본 이정우, 연출 전우성, 김한솔) 5회에서는 거란과의 전쟁을 막지 못한 현종(김동준 분)이 강조(이원종 분)에게 부]]></content>
     </entry>
 </feed>
