@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-11-27T12:20:37.819Z</updated>
+    <updated>2023-11-27T13:14:42.479Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이성민x유연석이 해냈다..'운수오진날', 티빙 유료가입기여자수 1위]]></title>
+        <id>https://v.daum.net/v/20231127212824629</id>
+        <link href="https://v.daum.net/v/20231127212824629"/>
+        <updated>2023-11-27T13:14:27.971Z</updated>
+        <content type="html"><![CDATA[[OSEN=박소영 기자] 살인 동행 스릴러 &lt;운수&nbsp;오진 날&gt;이 티빙 오리지널 장르물의 진가를 다시금 입증했다. 티빙 오리지널 시리즈 &lt;운수&nbsp;오진 날&gt;(연출 필감성, 극본 김민성·송한나, 기획 스튜디오드래곤, 제작 더그레이트쇼·스튜디오N, 제공 티빙) Part1(1~6화) 전편이 지난 24일 드디어 베일을 벗었다. 묵포행 택시라는 한정된 공간과 시간 속,]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이유미 "맨손으로 비행기 세운 남순이, 희열 느꼈죠"]]></title>
         <id>https://v.daum.net/v/20231127210217387</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231127175002935"/>
         <updated>2023-11-27T09:11:51.691Z</updated>
         <content type="html"><![CDATA[(엑스포츠뉴스 이예진 기자) 배우 정우성이 13년 전 '사랑한다고 말해줘' 판권을 사놓은 이유를 밝혔다. 27일 오후 서울 마포구 상암 스탠포드호텔 그랜드볼룸에서 지니TV 오리지널 '사랑한다고 말해줘' 제작발표회가 진행됐다. 이 자리에는 김윤진 감독, 정우성, 신현빈이 참석했다. '사랑한다고 말해줘'는 손으로 말하는 화가 차진우(정우성 분)와 마음으로 듣는]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['마이데몬' 김법래, 안방극장 사로잡은 노련한 연기 내공]]></title>
-        <id>https://v.daum.net/v/20231127173323472</id>
-        <link href="https://v.daum.net/v/20231127173323472"/>
-        <updated>2023-11-27T09:11:51.695Z</updated>
-        <content type="html"><![CDATA[[마이데일리 = 양유진 기자] 배우 김법래가 묵직한 연기력으로 안방극장을 사로잡았다. 김법래는 지난 24일 SBS 금토드라마 ‘마이데몬’에 출연해 강렬한 존재감을 드러냈다. 김법래는 극중 정구원(송강)과의 영혼을 건 계약으로 돈과 권력을 얻은 들개파 보스 역을 맡아 카리스마 넘치면서도 인간미 있는 모습을 보여줬다. 김법래는 등에 있는 호랑이 문신과]]></content>
     </entry>
 </feed>
