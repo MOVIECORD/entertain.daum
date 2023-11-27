@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-11-27T02:24:43.301Z</updated>
+    <updated>2023-11-27T03:11:58.577Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[송중기가 인정한 홍사빈, 청룡도 인정.."‘상 받은 청년’ 감사함에 푹 젖어있어"]]></title>
+        <id>https://v.daum.net/v/20231127120649326</id>
+        <link href="https://v.daum.net/v/20231127120649326"/>
+        <updated>2023-11-27T03:11:38.392Z</updated>
+        <content type="html"><![CDATA[[OSEN=박소영 기자] 영화&nbsp;‘화란’으로&nbsp;44회 청룡영화상 신인남우상을 수상한 배우 홍사빈은 수상의 영광을&nbsp;SNS를 통해 진심어린 마음을 전했다. 배우 홍사빈은 첫 주연 작품이자 칸이 사랑한 영화&nbsp;'화란'에서 주인공 연규 역을 맡아 뛰어난 연기력을 선보이며 관객들에게 눈도장을 제대로 찍었다.&nbsp;지난 런던 아시아 영화제에서 라이징 스타상을 수상한 데 이어]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[자기 사무실 턴 영업사원, 그는 왜 그랬을까?]]></title>
         <id>https://v.daum.net/v/20231127111801549</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231127090716769"/>
         <updated>2023-11-27T00:50:03.578Z</updated>
         <content type="html"><![CDATA[(사진=뉴스1)[이데일리 스타in 김보영 기자] 영화 ‘드라이브 마이 카’가 국내 개봉 2주년을 맞아 12월 20일(수)에 재개봉을 확정했다. 이와 함께 ‘드라이브 마이 카’를 연출한 일본의 젊은 거장 하마구치 류스케 감독이 내한을 확정해 영화 팬들의 반가움을 살 전망이다. ‘드라이브 마이 카’는 죽은 아내에 대한 상처를 지닌 연출가 겸 배우 ‘가후쿠’(]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['노량: 죽음의 바다' 이규형·이무생·박명훈, 왜군 3인…강렬 비주얼]]></title>
-        <id>https://v.daum.net/v/20231127090712764</id>
-        <link href="https://v.daum.net/v/20231127090712764"/>
-        <updated>2023-11-27T00:50:03.579Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 윤현지 기자) 영화 '노량: 죽음의 바다'(감독 김한민)에서 스크린을 장악하는 강렬한 비주얼의 배우들이 필사의 퇴각을 꿈꾸는 왜군의 인물들로 등장한다. '노량: 죽음의 바다'는 임진왜란 발발 후 7년, 조선에서 퇴각하려는 왜군을 완벽하게 섬멸하기 위한 이순신 장군의 최후의 전투를 그린 전쟁 액션 대작. '노량: 죽음의 바다'에서는 백윤식 외에]]></content>
     </entry>
 </feed>
