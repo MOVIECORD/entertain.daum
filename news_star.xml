@@ -2,11 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2023-11-27T16:14:49.501Z</updated>
+    <updated>2023-11-27T17:10:33.318Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[명연기 펼친 신민아, 그걸 지켜본 ♥김우빈..일도 사랑도 이들처럼]]></title>
+        <title type="html"><![CDATA[‘장사천재2’ 백종원의 장사 수완은 클래스가 다르다]]></title>
+        <id>https://v.daum.net/v/20231128011522128</id>
+        <link href="https://v.daum.net/v/20231128011522128"/>
+        <updated>2023-11-27T17:10:28.023Z</updated>
+        <content type="html"><![CDATA[[헤럴드경제 = 서병기 선임기자]tvN ‘장사천재 백사장2’ 백종원의 장사 수완은 클래스가 달랐다. 개업하기에는 최악의 조건이라 포기 직전이었던 '반주’ 2호점을 미끼 전략의 결정체인 '2유로’ 식당으로 탈바꿈시켜 승부수를 띄웠고, 오픈과 동시에 순풍에 돛 단 듯 순항을 이어갔다. 시청률도 상승했다. 지난 5일 방송된 tvN ‘장사천재 백사장2’(연출 이]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[눈물연기 펼친 신민아, 그걸 지켜본 ♥김우빈..일도 사랑도 이들처럼]]></title>
         <id>https://v.daum.net/v/20231128011118123</id>
         <link href="https://v.daum.net/v/20231128011118123"/>
         <updated>2023-11-27T16:14:44.419Z</updated>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231127234730572"/>
         <updated>2023-11-27T15:11:59.706Z</updated>
         <content type="html"><![CDATA[[TV리포트=이혜미 기자] 오은영 박사와 알코올 어벤져스가 만연한 알코올 중독을 막기 위해 뭉쳤다. 27일 MBC ‘오은영 리포트-알콜지옥’에선 알코올 중독 10인의 첫 만남이 펼쳐졌다. '알콜지옥'은 7박 8일의 지옥 훈련을 거쳐 최후의 1인에게 치료비를 지원하는 국내 최초 금주 서바이벌로 오은영 박사 외에도 알코올 어벤저스로 불리는 노성원, 한창우, 김]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['알콜 지옥' 매일 가면 쓰는 참가자, 대인 기피증 고백 "군용 수통에 술 담아 긴장될 때 한 모금씩"]]></title>
-        <id>https://v.daum.net/v/20231127234243546</id>
-        <link href="https://v.daum.net/v/20231127234243546"/>
-        <updated>2023-11-27T15:11:59.708Z</updated>
-        <content type="html"><![CDATA[[마이데일리 = 양유진 기자] '오은영 리포트 - 알콜 지옥' 주시 불안을 가진 참가자가 아픔을 터놨다.  27일 첫 방송된 MBC '오은영 리포트 - 알콜 지옥'에서는 7박 8일의 금주 지옥 캠프 첫째 날이 그려졌다. '알콜 지옥'은 술 때문에 일상을 잃어버린 참가자 10명의 금주 서바이벌을 다룬 시사교양 프로그램이다. 금주 캠프를 완주한 1명에겐 금주]]></content>
     </entry>
 </feed>
