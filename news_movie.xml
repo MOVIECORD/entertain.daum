@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-11-27T01:53:40.175Z</updated>
+    <updated>2023-11-27T02:24:43.301Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[자기 사무실 턴 영업사원, 그는 왜 그랬을까?]]></title>
+        <id>https://v.daum.net/v/20231127111801549</id>
+        <link href="https://v.daum.net/v/20231127111801549"/>
+        <updated>2023-11-27T02:24:23.082Z</updated>
+        <content type="html"><![CDATA[[김성호 기자] 상투적인 표현으로 연기대결이란 말을 흔히 쓴다. 뛰어난 배우들이 서로의 역량을 견주듯이 한 작품 안에서 절정의 연기력을 뽐낼 때 연기대결이란 표현을 쓰는 것이다. 한국에서만 쓰는 말은 아니다. 할리우드에서도 마치 결투하듯 연기하는 배우들의 모습을 두고 'Acting showdown'이란 표현을 흔히 쓰고는 하니까. 대결과 결투란 말이 주는]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['듄2', 내년 2월 개봉...티모시 샬라메 가족 죽인 복수 성공할까]]></title>
         <id>https://v.daum.net/v/20231127102330912</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231127090712764"/>
         <updated>2023-11-27T00:50:03.579Z</updated>
         <content type="html"><![CDATA[(엑스포츠뉴스 윤현지 기자) 영화 '노량: 죽음의 바다'(감독 김한민)에서 스크린을 장악하는 강렬한 비주얼의 배우들이 필사의 퇴각을 꿈꾸는 왜군의 인물들로 등장한다. '노량: 죽음의 바다'는 임진왜란 발발 후 7년, 조선에서 퇴각하려는 왜군을 완벽하게 섬멸하기 위한 이순신 장군의 최후의 전투를 그린 전쟁 액션 대작. '노량: 죽음의 바다'에서는 백윤식 외에]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['듄: 파트2', 할리우드 파업→연기 딛고 2024년 2월 韓 개봉 확정]]></title>
-        <id>https://v.daum.net/v/20231127084918201</id>
-        <link href="https://v.daum.net/v/20231127084918201"/>
-        <updated>2023-11-27T00:50:03.580Z</updated>
-        <content type="html"><![CDATA[[이데일리 스타in 김보영 기자] 티모시 샬라메, 젠 데이아 주연 영화 ‘듄: 파트2’가 마침내 오는 2024년 2월 대한민국 개봉을 확정했다. 개봉 확정 소식과 함께 티저 포스터와 티저 예고편을 공개한다. 영화 ‘듄: 파트2’는 자신의 능력을 깨닫고 각성한 폴(티모시 샬라메 분)이 복수를 위한 여정에서 전사의 운명을 찾아가게 되는 액션 블록버스터다. 영]]></content>
     </entry>
 </feed>
