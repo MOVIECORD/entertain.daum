@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-11-28T08:14:40.400Z</updated>
+    <updated>2023-11-28T09:11:34.192Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[차은우, 정신 잃고 쓰러져]]></title>
+        <id>https://v.daum.net/v/20231128174011563</id>
+        <link href="https://v.daum.net/v/20231128174011563"/>
+        <updated>2023-11-28T09:11:21.707Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]‘오늘도 사랑스럽개’의 차은우가 김민석이 놓은 덫에 빠져 최악의 상황에 직면한다. 내일 29일(수) 밤 9시 방송되는 MBC 수요드라마 ‘오늘도 사랑스럽개’(연출 김대웅/ 극본 백인아/ 제작 그룹에이트, 판타지오/ 제작 투자 에이앤이 코리아) 8회에서는 ‘끝나지 않은 악연’ 진서원(차은우 분)과 강은환(김민석 분)이 또 다시]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[정우성 경찰서행 포착…신현빈과 첫 데이트부터 엇갈리나]]></title>
+        <id>https://v.daum.net/v/20231128172234066</id>
+        <link href="https://v.daum.net/v/20231128172234066"/>
+        <updated>2023-11-28T09:11:21.708Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 조혜진 기자) '사랑한다고 말해줘' 정우성과 신현빈의 타이밍이 엇갈린다. 지니 TV 오리지널 드라마 '사랑한다고 말해줘'(극본 김민정, 연출 김윤진) 측은 28일, 경찰서에서 포착된 차진우(정우성 분)와 오지 않는 그를 하염없이 기다리는 정모은(신현빈)의 모습을 공개했다. 차진우와 정모은은 제주도에서 운명적인 첫 만남을 가졌다. 스치듯 지나갈]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[영탁, 폼 미쳤다…'힘쎈여자 강남순'으로 성공적인 배우 데뷔]]></title>
         <id>https://v.daum.net/v/20231128170102271</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20231128144623855"/>
         <updated>2023-11-28T06:14:17.310Z</updated>
         <content type="html"><![CDATA[[OSEN=하수정 기자] ‘사랑한다고 말해줘’ 정우성이 신현빈과의 약속을 지킬 수 있을까. 지니 TV 오리지널 ‘사랑한다고 말해줘’(연출 김윤진, 극본 김민정, 기획 KT스튜디오지니, 제작 스튜디오앤뉴·아티스트스튜디오, 원작 일본 TV 드라마 ‘사랑한다고 말해줘’(각본 키타카와 에리코·제작 TBS 텔레비전)) 측은 28일, 경찰서에서 포착된 차진우(정우]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["이번엔 단오 프로젝트"..'혼례대첩' 로운, 사생결단 스파르타 그네 연습]]></title>
-        <id>https://v.daum.net/v/20231128142819119</id>
-        <link href="https://v.daum.net/v/20231128142819119"/>
-        <updated>2023-11-28T06:14:17.311Z</updated>
-        <content type="html"><![CDATA[[OSEN=장우영 기자] ‘혼례대첩’ 로운이 혼례 성공에 대한 강렬한 집착을 드러낸 ‘죽기 살기 그네 맹연습’ 현장을 선보인다. KBS2 월화드라마 ‘혼례대첩’(극본 하수진, 연출 황승기 김수진)은 혼례 도중 공주가 쓰러지며 청상부마가 된 모태솔로 심정우(로운)와 결혼생활보다 수절의 시간이 훨씬 긴 청상과부 정순덕(조이현)이 펼치는 코믹 멜로 사극 드라]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[시청률이 못 덤비는 화제성 승자 '오늘도 사랑스럽개'..차은우 위기]]></title>
-        <id>https://v.daum.net/v/20231128141323489</id>
-        <link href="https://v.daum.net/v/20231128141323489"/>
-        <updated>2023-11-28T06:14:17.312Z</updated>
-        <content type="html"><![CDATA['오늘도 사랑스럽개'&nbsp;TV화제성 분석기관 굿데이터코퍼레이션 11월 4주차 화제성 수목드라마 1위 수성 2주 연속 정상 [OSEN=최나영 기자]&nbsp;‘오늘도 사랑스럽개’의 차은우가 김민석이 놓은 덫에 빠져 최악의 상황에 직면한다.&nbsp; 내일 29일 오후&nbsp;9시 방송되는 MBC 수요드라마 ‘오늘도 사랑스럽개’(연출 김대웅/ 극본 백인아/ 제작 그룹에이트, 판타지오/]]></content>
     </entry>
 </feed>
