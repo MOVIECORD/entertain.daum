@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/variety</id>
     <title>다음 연예 ─ 뉴스 ─ 예능</title>
-    <updated>2023-11-28T10:12:26.000Z</updated>
+    <updated>2023-11-28T11:09:33.890Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['AOA 탈퇴' 초아 "절이 싫으면 중이 떠나는 것, 스스로 포기했다"]]></title>
+        <id>https://v.daum.net/v/20231128193002037</id>
+        <link href="https://v.daum.net/v/20231128193002037"/>
+        <updated>2023-11-28T11:09:23.805Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 김수아 기자) 가수 초아가 그룹 AOA를 탈퇴한 이유를 밝혔다. 28일 첫 방송되는 E채널, 채널S 공동 제작 예능 '놀던언니'에&nbsp;아직도 더 놀고 싶은 언니들&nbsp;채리나, 이지혜, 아이비, 나르샤, 초아가 출연한다. 채널S 측은 초아의 솔직한 사전 인터뷰와 초아를 위로하는 언니들의 모습이 담긴 선공개 영상을 공개했다. 초아는 언니들에게 "아이돌]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["제2의 덱스 찾아라"..'솔로지옥3'VS'환연3'VS'학연' 연말 '연애' 대전]]></title>
         <id>https://v.daum.net/v/20231128191122696</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231128172256073"/>
         <updated>2023-11-28T09:11:25.596Z</updated>
         <content type="html"><![CDATA[(엑스포츠뉴스 김현정 기자) 고려대 농구부 양준 선수가 최우식 닮은꼴로 화제다. 28일 IHQ와 AXN에서 방송하는 '돈쭐 맛짱뜨러 왔습니다'에서는 고려대학교 농구부와 돈쭐군단의 먹방 대결이 펼쳐진다.&nbsp; 2년 연속 플레이오프 리그와 MBC배, 고연전에서 우승을 자랑하는 대학 농구 최강팀 고려대 농구부는 등장부터 화려한 피지컬과 비주얼로 시선을 모았다.&nbsp; 고]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['벌거벗은 세계사' 한인 이민사부터 LA 폭동의 이면 살핀다]]></title>
-        <id>https://v.daum.net/v/20231128171724887</id>
-        <link href="https://v.daum.net/v/20231128171724887"/>
-        <updated>2023-11-28T09:11:25.597Z</updated>
-        <content type="html"><![CDATA[[티브이데일리 김진석 기자] '벌거벗은 세계사'에서 한인 미주 이민사부터 LA 폭동의 비극적 이면까지 낱낱이 파헤친다 28일 방송되는 tvN 예능프로그램 '벌거벗은 세계사'에서는 코리아타운이 왜 LA 폭동의 희생양이 되었는지 알아본다. 이를 위해 충북대학교 사학과 이찬행 교수가 강연자로 나선다. 미주 소수인종과 정치 분야를 중심으로 활발한 연구를 펼치고 있]]></content>
     </entry>
 </feed>
