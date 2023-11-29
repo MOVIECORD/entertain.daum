@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-11-29T07:10:41.379Z</updated>
+    <updated>2023-11-29T08:14:55.820Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[배우 아카이, 데뷔 후 아빠 만나...애기 때 이혼해 父 기억 없었다]]></title>
+        <id>https://v.daum.net/v/20231129170201254</id>
+        <link href="https://v.daum.net/v/20231129170201254"/>
+        <updated>2023-11-29T08:14:55.226Z</updated>
+        <content type="html"><![CDATA[[TV리포트=강성훈 기자] 프로레슬러 겸 모델 아카이 사키(36)가 오랜만에 아버지와 만났을 때를 회상했다. 28일 일본 매체 '분춘 온라인' 보도에 따르면 아카이 사키는 연예계 데뷔를 계기로 14년 만에 아버지와 재회했다.&nbsp; 아키이 사키는 지난 2004년 모델로서 사진집을 발매했는데, 흥행을 위한 사무소의 권유로 아버지 아키이 하데카즈의 딸이라는 사실을]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이연걸, 식스팩 유지하려다 '기절'..."몸짱 포기했다"]]></title>
+        <id>https://v.daum.net/v/20231129161030194</id>
+        <link href="https://v.daum.net/v/20231129161030194"/>
+        <updated>2023-11-29T08:14:55.226Z</updated>
+        <content type="html"><![CDATA[[TV리포트=김현재 기자] '쿵후 황제' 이연걸이 식스팩을 유지하려다가 기절했던 일화를 공개했다. 29일, 이연걸은 야후 티비의 '치엔웬'에 출연해 자신의 신작인 '삶과 죽음을 넘어(超越生死)'을 홍보하면서 '식스팩'과 관련된 일화를 공개했다. 인터뷰를 이어가던 중 진행자인 문천천이 이연걸에 "식스팩은 없나요?"라는 질문을 던져 눈길을 끌었다. 이에 식]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘프렌즈’ 매튜 페리 유산 분쟁 없다, 약물 중독 치료 재단 설립]]></title>
         <id>https://v.daum.net/v/20231129154620281</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20231129094315963"/>
         <updated>2023-11-29T01:53:54.657Z</updated>
         <content type="html"><![CDATA[[뉴스엔 이민지 기자] 블랙핑크 리사가 축구장에서 포착됐다. 리사는 11월 28일(현지시간) 프랑스 파리 파르크 데 프랭스에서 열린 파리 생제르맹과 뉴캐슬의 UEFA 챔피언스리그 경기를 관람했다. 파리 생제르맹은 이강인이 소속된 팀이다. 리사는 관중석에서 박수 치고 환호하며 경기를 즐겼다. 특히 이날 관객석에는 리사와 열애설이 난 프레데릭 아르노도]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['챈들러' 매슈 페리 유족, 그의 이름 딴 재단에 기부 호소]]></title>
-        <id>https://v.daum.net/v/20231129074051539</id>
-        <link href="https://v.daum.net/v/20231129074051539"/>
-        <updated>2023-11-28T23:10:53.448Z</updated>
-        <content type="html"><![CDATA[(로스앤젤레스=연합뉴스) 임미나 특파원 = 시트콤 '프렌즈'로 사랑받은 할리우드 배우 매슈 페리의 유족이 그의 이름을 딴 재단을 설립하고 팬들에게 기부를 호소했다고 미 연예매체 피플이 28일(현지시간) 전했다. 페리의 유족은 피플에 보낸 성명에서 "매슈의 유산을 기리는 것은 가족으로서 우리에게 중요한 일"이라며 "매슈 페리 재단이 이 질병으로 고통받는 사람]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[스칼렛 요한슨→크리스 에반스, '어벤져스' 복귀 언급]]></title>
-        <id>https://v.daum.net/v/20231129060030041</id>
-        <link href="https://v.daum.net/v/20231129060030041"/>
-        <updated>2023-11-28T21:10:02.281Z</updated>
-        <content type="html"><![CDATA[[TV리포트=강성훈 기자] 최근 마블이 흥행 부진을 겪자 원년 어벤져스 멤버를 복귀시킨다는 소문이 불거졌다. 이 가운데 어벤져스 멤버를 연기한 할리우드 배우들부터 마블 CEO 케빈 파이기(50)까지 해당 소문에 본인의 견해을 밝혀 관심이 쏠린다. 28일(현지 시간) 온라인 채널 'The view'에 마블 시리즈에서 캡틴 아메리카 역으로 유명한 크리스 에반스]]></content>
     </entry>
 </feed>
