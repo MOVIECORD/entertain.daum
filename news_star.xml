@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2023-11-29T19:09:24.941Z</updated>
+    <updated>2023-11-29T20:11:51.957Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[키나 복귀가 ‘신의 한 수’…피프티 피프티 상표권 향방은]]></title>
+        <id>https://v.daum.net/v/20231130050802752</id>
+        <link href="https://v.daum.net/v/20231130050802752"/>
+        <updated>2023-11-29T20:11:47.540Z</updated>
+        <content type="html"><![CDATA[피프티 피프티의 ‘상표권’은 누구에게 돌아갈까. 새로운 시작을 준비 중인 피프티 피프티 소속사 어트랙트와 기존 멤버 3인(새나, 시오, 아란)의 상표권 분쟁 결과에 귀추가 쏠린다. 어트랙트 측은 상표권 확보에 자신감을 보이고 있다. 2022년 11월 데뷔해 히트곡 ‘큐피드’(Cupid)로 빌보드 핫100에 진입하며 ‘중소돌의 기적’이라 불린 피프티 피프]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[희귀암 이기고 돌아온 남우현 “용기 드리고 싶어요”]]></title>
         <id>https://v.daum.net/v/20231130040428234</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231130000059221"/>
         <updated>2023-11-29T15:11:52.427Z</updated>
         <content type="html"><![CDATA[남궁민 연모한 소리꾼 량음 役 '연인'으로 첫 사극·지상파 출연 "다음엔 액션 연기 도전하고파" [더팩트 | 공미나 기자] '연인'의 량음은 여자가 아닌 남자, 이장현(남궁민 분)을 연모하는 사극에서 보기 드문 동성애 캐릭터다. 또 조선시대 꽃미남으로 묘사되는 외모와 최고의 소리꾼이라는 설정도 있는 만큼 연기하기 쉬운 역할은 아니었다. 그럼에도 배우]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이학주 "'연인' 길채 같은 내 아내…부부예능 출연은 NO"]]></title>
-        <id>https://v.daum.net/v/20231130000045219</id>
-        <link href="https://v.daum.net/v/20231130000045219"/>
-        <updated>2023-11-29T15:11:52.428Z</updated>
-        <content type="html"><![CDATA['연인'으로 첫 사극 도전 지난해 11월 결혼…"부부예능 출연은 NO" [더팩트 | 공미나 기자] 드라마 '연인' 속 이학주가 험한 일을 겪은 아내를 감싸주지 못한 매정한 남편이었다면, 실제 배우 이학주는 아내 얘기만 나오면 미소를 숨기지 못하는 로맨티스트다. 작품 속 배역과 상반된 매력을 지닌 이학주는 "다음엔 코미디를 해보고 싶다"며 배우로서도 다]]></content>
     </entry>
 </feed>
