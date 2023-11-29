@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2023-11-29T17:10:21.562Z</updated>
+    <updated>2023-11-29T18:14:16.262Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['2023 MAMA' 세븐틴, 8년만 눈물의 대상 "故문빈 고마워“… 뉴진스 4관왕]]></title>
+        <id>https://v.daum.net/v/20231130021242865</id>
+        <link href="https://v.daum.net/v/20231130021242865"/>
+        <updated>2023-11-29T18:14:10.855Z</updated>
+        <content type="html"><![CDATA[그룹 세븐틴이 데뷔 8년만에 'MAMA'에서 대상 수상 후 눈물을 흘렸다. 세상을 떠난 동료 故문빈을 향한 그립고 고마운 마음도 전했다. 2023 마마 어워즈(2023 MAMA AWARDS)가 28~29일 양일간 일본 도쿄돔에서 개최됐다. 29일 세븐틴은 대상 가운데 하나인 올해의 앨범 상을 받았다. 리더 에스쿱스는 "캐럿(팬덤명) 덕분에 재계약을]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김다예, ♥박수홍과 용산에 있는 미국서 데이트? "서울에 이런 곳이?"]]></title>
         <id>https://v.daum.net/v/20231130012643791</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231129235259138"/>
         <updated>2023-11-29T15:11:52.430Z</updated>
         <content type="html"><![CDATA[[스포츠조선닷컴 김수현기자] '나는 솔로' 17기 솔로들의 마음이 혼돈에 빠졌다. 29일 방송된 ENA-SBS Plus 리얼 데이팅 프로그램 '나는 SOLO(나는 솔로)'에서는 '슈퍼 데이트' 후 모든 것이 바뀌어버린 '솔로나라 17번지'의 러브라인 판도가 공개됐다. 무려 2장의 슈퍼 데이트권을 받은 광수.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["우크라이나로 돌아가"... '고딩엄빠4' 외국인 아내 향한 남편의 폭언... 박미선 격노]]></title>
-        <id>https://v.daum.net/v/20231129234900125</id>
-        <link href="https://v.daum.net/v/20231129234900125"/>
-        <updated>2023-11-29T15:11:52.431Z</updated>
-        <content type="html"><![CDATA[[TV리포트=이혜미 기자] “너희 나라로 가야지.” 외국인 아내를 향한 장교 출신 남편의 폭언에 ‘고딩엄빠’ 패널들이 분노했다. 29일 MBN ‘어른들은 모르는 고딩엄빠4’에선 알라 이동규 부부의 이야기가 펼쳐졌다. 이들은 한국과 우크라이나의 국제부부로 슬하에 두 자녀를 둔 바. 두 아이의 육아를 전담하는 알라를 보며 ‘고딩엄빠’ 패널들은 “아빠는 어디 있]]></content>
     </entry>
 </feed>
