@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-11-29T12:20:06.567Z</updated>
+    <updated>2023-11-29T13:14:19.685Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘비질란테’, 죗값은 법 대신 폭력.. 통쾌·씁쓸한 다크히어로물]]></title>
+        <id>https://v.daum.net/v/20231129220603313</id>
+        <link href="https://v.daum.net/v/20231129220603313"/>
+        <updated>2023-11-29T13:14:05.688Z</updated>
+        <content type="html"><![CDATA[[OSEN=김재동 객원기자]&nbsp;“나는 대한민국의 공무원으로서 헌법과 법령을 준수하고 국가를 수호하며 국민에 대한 봉사자로서의 임무를 성실히 수행할 것을 엄숙히 선서합니다.” 임용선서가 진행되도록 그는 선서의 몸짓인 오른 손을 들지 않았다. 대통령에 대한 경례도 하지 않았다. 그는 그런 채로 임관한다. 당연히 경위 계급장을 달고 경찰 일을 시작할 것이다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김서라, 임신한 손성윤 폭행.."子인 줄 알고 사람대접한 것"]]></title>
         <id>https://v.daum.net/v/20231129210858518</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231129155650686"/>
         <updated>2023-11-29T07:10:26.137Z</updated>
         <content type="html"><![CDATA[[스포츠조선 문지연 기자] 신예 진호은 '마에스트라'에 합류한다. tvN 새 토일드라마 '마에스트라'(최이윤 홍정희 극본, 김정권 연출)는 전 세계 단 5%뿐인 여성 지휘자 마에스트라, 천재 혹은 전설이라 불리는 차세음(이영애)이 자신의 비밀을 감춘 채 오케스트라를 둘러싼 사건의 진실을 찾아가는 미스터리 드라마다. 진호은은 더 한강 필하모닉]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['모래에도 꽃이 핀다' 장동윤X이주명, 첫 씨름 로맨스로 케미 예고]]></title>
-        <id>https://v.daum.net/v/20231129152807557</id>
-        <link href="https://v.daum.net/v/20231129152807557"/>
-        <updated>2023-11-29T07:10:26.138Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 이창규 기자)&nbsp;‘모래에도 꽃이 핀다’ 장동윤, 이주명, 윤종석, 김보라, 이재준, 이주승이 눈부신 청춘의 한순간을 함께 한다. 12월 20일 첫 방송되는 ENA 새 수목드라마 ‘모래에도 꽃이 핀다’ 측은 29일, 함께 있어 빛나고 행복한 청춘들의 환한 미소가 담긴 메인 포스터 2종을 공개했다. ‘모래에도 꽃이 핀다’는 20년째 떡잎인 씨름 신]]></content>
     </entry>
 </feed>
