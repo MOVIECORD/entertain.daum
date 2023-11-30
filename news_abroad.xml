@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-11-30T02:24:54.693Z</updated>
+    <updated>2023-11-30T03:11:40.702Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[네이마르, 女모델 유혹하더니 결국 이혼…한 달 전 태어난 딸 어쩌나]]></title>
+        <id>https://v.daum.net/v/20231130120318962</id>
+        <link href="https://v.daum.net/v/20231130120318962"/>
+        <updated>2023-11-30T03:11:39.975Z</updated>
+        <content type="html"><![CDATA[[OSEN=김보라 기자]&nbsp;브라질의 스타 축구선수 네이마르가 아내와 이혼했다. 딸이 태어난 지 1개월 만이다. 29일(현지 시각) 네이마르와 브루나 비앙카르디가 이혼한 것으로 알려졌다. 비앙카르디는 28일 자신의 SNS를 통해 “이건 사적인 문제지만 더 이상 네이마르와 살지 않게 됐다”고 밝혔다. 브루나 비앙카르디는 브라질 의류사업을 하고 있는 인플루언서]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[장군시, 28일 촬영장서 돌연사..향년 37세]]></title>
         <id>https://v.daum.net/v/20231130112125429</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231129154620281"/>
         <updated>2023-11-29T07:10:40.787Z</updated>
         <content type="html"><![CDATA[[뉴스엔 이민지 기자] 배우 매튜 페리 유산이 특별한 곳에 사용된다. 11월 27일(현지시간) 피플은 고(故) 매튜 페리 유가족이 그의 유산을 약물 중독으로 고통받는 이들을 돕는데 사용하기로 했다고 보도했다. 3일 출범한 매튜 페리 재단은 약물 중독을 질병으로 분류하고, 개인 차원에서 치료하기 어려운 부분을 돕고 더 나은 치료방법을 모색하는 것을 목표]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[록밴드 퀸, 데뷔 50주년 맞아 NHK 홍백가합전 특별 출연]]></title>
-        <id>https://v.daum.net/v/20231129154030064</id>
-        <link href="https://v.daum.net/v/20231129154030064"/>
-        <updated>2023-11-29T07:10:40.787Z</updated>
-        <content type="html"><![CDATA[[TV리포트=김현재 기자] '록의 황제' 퀸이 NHK 홍백가합전 (이하 '홍백가합전')에 출연한다고 해 눈길을 끈다. 29일, 일본 매체 '스포츠 경보'는 데뷔 30주년을 맞은 영국 록밴드 퀸이 '퀸+애덤 램버트' 특별 기획으로 제74회 NHK 홍백가합전에 특별 출연한다고 보도했다. 퀸은 "일본 여러분, 홍백가합전에서 여러분과 함께 할 수 있어 기쁩니다.]]></content>
     </entry>
 </feed>
