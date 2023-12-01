@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2023-12-01T17:10:27.180Z</updated>
+    <updated>2023-12-01T18:13:48.203Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘특파원보고 세계는 지금’ 중국의 역대급 취업난···유럽에 부는 ‘반이민 정서’]]></title>
+        <id>https://v.daum.net/v/20231202030328436</id>
+        <link href="https://v.daum.net/v/20231202030328436"/>
+        <updated>2023-12-01T18:13:42.374Z</updated>
+        <content type="html"><![CDATA[2일 오후 9시 40분 KBS1에서 방송이 될 ‘특파원보고 세계는 지금’ 335회는 유럽 반이민 기조 확산과 극우파 세력 확대, 중국 청년실업의 희망으로 떠오른 왕훙에 대해 조명한다. 지난 23일(현지시각), 아일랜드 수도 더블린에서는 약 5백 명의 대규모 반이민 시위가 발생했다. 시위대는 “이민자들을 다 쫓아내라“라는 반이민 구호를 외치며 곳곳에서]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘나혼산’ 이장우, 자연산 굴 매력 빠졌다... 굴튀김→어리굴젓 ‘폭풍 먹방’]]></title>
         <id>https://v.daum.net/v/20231202005401103</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231201233100554"/>
         <updated>2023-12-01T15:11:31.724Z</updated>
         <content type="html"><![CDATA[[TV리포트 = 하수나 기자] 골든걸스가 화려한 데뷔 쇼케이스 무대를 선보이며 관객들의 환호를 자아냈다.&nbsp; 1일 KBS2TV ‘골든걸스’에선 데뷔곡 음원 녹음에 나선 인순이, 신효범, 이은미, 박미경의 모습이 그려졌다.&nbsp; 이날 박진영 프로듀서와 함께 이은미가 녹음 첫 타자로 나섰다. 대가의 섬세한 녹음준비와 함께 이은미가 본격적으로 노래를 시작했다. 완벽주]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["나랑 결혼하자" 김유정, 김해숙 죽음 진실 위해 '악마' 송강 손 잡았다]]></title>
-        <id>https://v.daum.net/v/20231201232629536</id>
-        <link href="https://v.daum.net/v/20231201232629536"/>
-        <updated>2023-12-01T15:11:31.724Z</updated>
-        <content type="html"><![CDATA[[스포츠조선닷컴 정안지 기자] '마이데몬' 김유정이 김해숙 사망의 진실을 밝히기 위해 송강에 결혼을 제안했다. 1일 방송된 SBS 금토드라마 '마이 데몬'에서는 도도희(김유정 분)가 주천숙(김해숙 분) 죽음의 진실을 밝히기 위해 구원(송강 분)에 "결혼하자"고 하는 모습이 그려졌다. 이날 도도희를 향해 의문의 오토바이]]></content>
     </entry>
 </feed>
