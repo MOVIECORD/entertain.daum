@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2023-12-01T19:09:03.484Z</updated>
+    <updated>2023-12-01T20:11:55.775Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[박진영 "'골든걸스' 안 되면 내 탓"…데뷔 쇼케이스 공개]]></title>
+        <id>https://v.daum.net/v/20231202051003874</id>
+        <link href="https://v.daum.net/v/20231202051003874"/>
+        <updated>2023-12-01T20:11:51.225Z</updated>
+        <content type="html"><![CDATA[(서울=뉴스1) 박하나 기자 = '골든걸스' 데뷔 쇼케이스 무대가 공개됐다. 지난 1일 오후에 방송된 KBS2TV 예능프로그램 '골든걸스'에서는 골든걸스 데뷔 첫 쇼케이스를 향한 인순이, 박미경, 신효범, 이은미의 열정이 그려졌다. 쇼케이스 25일을 남기고, 골든걸스 프로듀서 박진영이 직접 작사, 작곡한 데뷔곡 '원 라스트 타임'(One Last Tim]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이광수→도경수, 사라진 수박에 당황…'콩콩팥팥' 밭의 비밀]]></title>
+        <id>https://v.daum.net/v/20231202045003790</id>
+        <link href="https://v.daum.net/v/20231202045003790"/>
+        <updated>2023-12-01T20:11:51.225Z</updated>
+        <content type="html"><![CDATA[(서울=뉴스1) 박하나 기자 = '콩콩팥팥'의 숨은 조력자가 공개됐다. 지난 1일 오후 방송된 tvN 예능 프로그램 '콩 심은 데 콩 나고 팥 심은 데 팥 난다'(이하 '콩콩팥팥')에서는 들깨를 수확하는 초보 농사꾼 이광수, 김우빈, 도경수, 김기방의 모습이 담겼다. 들깨를 베기 위해 이광수, 도경수, 김기방이 나섰다. 김우빈은 일정상 들깨를 베는 날에]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[서민재, 남태현과 마약 후 파국 “가진 것 다 잃어, 가족도 직업 잃었다”]]></title>
         <id>https://v.daum.net/v/20231202033721581</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20231202000051737"/>
         <updated>2023-12-01T15:11:31.715Z</updated>
         <content type="html"><![CDATA[더보이즈, 정규 2집으로 하프 밀리언셀러 달성 [더팩트｜박지윤 기자] 최근 개봉한 한국 영화가 무서운 속도로 관객 수를 늘리며 차갑게 얼어붙었던 극장가에 따뜻한 봄을 가져다줬습니다. 남자 배우는 원로영화인 단체에 기부하며 훈훈한 연말을 선물했습니다. 보이그룹은 두 번째 정규 앨범으로 초동(발매 후 일주일) 60만 장의 판매고를 올리며 커리어 하이를 기록]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[정동원·덱스→권은비, 사생·악플에 강경 대응…박경득 별세]]></title>
-        <id>https://v.daum.net/v/20231202000044736</id>
-        <link href="https://v.daum.net/v/20231202000044736"/>
-        <updated>2023-12-01T15:11:31.717Z</updated>
-        <content type="html"><![CDATA[남우현·조정민, 암 투병 고백 [더팩트｜박지윤 기자] 여러 가수와 방송인이 사생과 악플 등에 관한 피해를 호소하며 법적 조치를 예고했습니다. 그런가 하면 두 가수는 암 투병했던 사실을 고백했고 건강하게 돌아와 대중에게 아낌없는 응원을 받았습니다. '용의 눈물' '태조 왕건' 등에 출연한 원로 배우는 숙환으로 세상을 떠났습니다. 11월 마지막 주 연예가]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이장우, 10년전 '꽃미모'로 축가 부르는 모습..전현무 "대만 가수?" 폭소]]></title>
-        <id>https://v.daum.net/v/20231201234431654</id>
-        <link href="https://v.daum.net/v/20231201234431654"/>
-        <updated>2023-12-01T15:11:31.718Z</updated>
-        <content type="html"><![CDATA[[스포츠조선닷컴 정유나 기자] '나 혼자 산다' 이장우의 '꽃미남' 시절이 공개됐다. 1일 방송된 MBC '나 혼자 산다'에서는 10년 만에 찾은 아지트인 경남 사천의 '비토섬'에서 힐링을 만끽하는 이장우의 모습이 그려졌다. 이날 이장우는 10년 만에 찾은 섬, 자신만의 아지트인 '비토섬'에서 휴식을 취했다. 이때 이장우]]></content>
     </entry>
 </feed>
