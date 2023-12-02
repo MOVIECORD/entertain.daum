@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-12-02T05:10:13.667Z</updated>
+    <updated>2023-12-02T06:14:07.784Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[테일러 스위프트, “스포티파이에서만 1688억원 수익”]]></title>
+        <id>https://v.daum.net/v/20231202151115812</id>
+        <link href="https://v.daum.net/v/20231202151115812"/>
+        <updated>2023-12-02T06:14:07.144Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]세계적 팝스타 테일러 스위프트(34)가 돈방석에 앉았다. 1일(현지시간) 버라이어티에 따르면, 스위프트는 글로벌 최대 음악 스트리밍 플랫폼 스포티파이에서 연초부터 261억 건의 스트리밍을 기록한 후 1억 달러 이상의 수익을 올릴 전망이다. 현재 스위프트는 11월까지만 약 1억 400만 달러를 벌었다. 버라이어티는 스트리밍]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[38년간 함께한 그룹 "단톡방 없어...사이는 너무 좋다"]]></title>
+        <id>https://v.daum.net/v/20231202142130299</id>
+        <link href="https://v.daum.net/v/20231202142130299"/>
+        <updated>2023-12-02T06:14:07.147Z</updated>
+        <content type="html"><![CDATA[[TV리포트=박혜은 기자] 홍콩의 유명 밴드 '초맹'(Graasshopper)이 활동 38년간 한 번도 단체 채팅방을 사용하지 않았다고 전해 눈길을 끌었다. 지난 30일(현지 시간), 외신 '에잇데이즈'(8days)는 홍콩의 유명 밴드 초맹이 프로그램 '히어 유 아웃 4'(Hear U&nbsp;Out 4)에 출연했다고 보도했다. 보도에 따르면 멤버 켈빈 초이(58)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[티모시 샬라메, "지금까지 했던 작품 중 '웡카'가 제일 재밌어"]]></title>
         <id>https://v.daum.net/v/20231202134231967</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20231201172100117"/>
         <updated>2023-12-01T09:11:35.925Z</updated>
         <content type="html"><![CDATA[[TV리포트=강성훈 기자] 팝스타 비욘세(42)는 성격도 시원시원하다.&nbsp; 지난달 30일 비욘세는 개인 소셜네트워크서비스에 여러 장의 사진을 올렸다. 흰색 상·하의를 입은 그는 상의에 달려있는 흰색 모자와 하얀색 아우터까지 걸치며 당당한 모습을 드러냈다. 일각에서는 비욘세가 '백인 되고 싶냐'는 인종차별 발언을 자신만의 방식으로 응징한 것이라고 해석했다.&nbsp;&nbsp;]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“테일러 스위프트, 전 남친 조 알윈과 결혼했다” 충격 폭로]]></title>
-        <id>https://v.daum.net/v/20231201165118331</id>
-        <link href="https://v.daum.net/v/20231201165118331"/>
-        <updated>2023-12-01T08:14:14.193Z</updated>
-        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]세계적 팝스타 테일러 스위프트(34)가 전 남친인 영국배우 조 알윈(33)과 결혼한 적이 있다는 루머가 나왔다. 그러나 스위프트 측은 이러한 소문을 일축했다. 가십을 공유하는 한 인스타그램 계정은 이들이 2020년 또는 2021년 결혼식을 올렸다고 주장하는 게시물을 올렸다. 스위프트 대변인은 11월 30일(현지시간) 페이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[31세 나이로 사망한 女배우...생전 마지막 글 보니]]></title>
-        <id>https://v.daum.net/v/20231201160130651</id>
-        <link href="https://v.daum.net/v/20231201160130651"/>
-        <updated>2023-12-01T07:10:40.328Z</updated>
-        <content type="html"><![CDATA[[TV리포트=김현재 기자] 31세 배우의 안타까운 소식이 전해졌다. 1일, 일본 매체 '엔카운트'는 배우 이가와 루네가 지난 11월 18일 사망한 것이 밝혀졌다고 보도했다. 향년 31세. 이가와 루네의 소속사는 공식 홈페이지를 통해 "당사 소속 이가와 루네는 이전부터 건강이 좋지 않아 요양 중이었으나, 2023년 11월 18일 새벽에 영면했음을 알려드린다]]></content>
     </entry>
 </feed>
