@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/variety</id>
     <title>다음 연예 ─ 뉴스 ─ 예능</title>
-    <updated>2023-12-02T08:12:56.347Z</updated>
+    <updated>2023-12-02T09:10:12.879Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[비오 “저작권 수입? 배달료 신경 안 쓸 정도”]]></title>
+        <id>https://v.daum.net/v/20231202174947539</id>
+        <link href="https://v.daum.net/v/20231202174947539"/>
+        <updated>2023-12-02T09:10:02.632Z</updated>
+        <content type="html"><![CDATA[[OSEN=유수연 기자] 9개월 만에 컴백한 가수&nbsp;비오(BE'O)가 '컬투쇼'에 출연해 유쾌한 입담을 뽐냈다. 2일(토) 방송된 SBS 파워FM(107.7Mhz) ‘두시탈출 컬투쇼‘(이하 ‘컬투쇼’)에 가수&nbsp;비오가 출연했다. 지난 28일 발매한&nbsp;비오의 새 디지털 싱글 곡 '미쳐버리겠다(MAD)'는 분노와 원망 등 소중했던 사람이 떠나가는 모습을 보며 드]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이주영, 반려견 티그와 '전참시' 뜬다…자취 하우스+일상 최초 공개]]></title>
+        <id>https://v.daum.net/v/20231202173652255</id>
+        <link href="https://v.daum.net/v/20231202173652255"/>
+        <updated>2023-12-02T09:10:02.634Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 양유진 기자] 배우 이주영이 반려견 티그와 ‘전지적 참견 시점’에 뜬다. 2일 밤 11시 10분 방송되는 MBC ‘전지적 참견 시점’에서는 갓생 그 자체인 이주영의 일상이 그려진다. 이주영은 미니멀하면서도 깔끔함이 돋보이는 자취 하우스를 공개한다. 또한 티그와 함께하는 다채로운 일상도 처음 선보여진다고 해 궁금증을 더한다. 쉬는 날에도]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['노래방 VS' 원곡 컬래버 시작..안예은·별·원슈타인 지원 사격]]></title>
         <id>https://v.daum.net/v/20231202170200392</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20231202135329046"/>
         <updated>2023-12-02T05:10:03.181Z</updated>
         <content type="html"><![CDATA[[OSEN=장우영 기자] ‘놀면 뭐하니?’ JS(유재석)가 JYP 사옥 투어를 하며 JS엔터를 부흥시키기 위한 파이팅을 다진다. 2일 방송되는 MBC ‘놀면 뭐하니?’에서는 데뷔를 앞두고 맹연습을 하는 원탑(JS(유재석), 하하, 올드케이(김종민), 주우재, 이이경, 영케이)의 모습이 그려진다. 연습을 하던 중 원탑은 막내 영케이가 DAY6로 소속돼 있]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['모태솔로 3인방' 상대女 정체 공개..영철 "종교 상관 없나"]]></title>
-        <id>https://v.daum.net/v/20231202134526989</id>
-        <link href="https://v.daum.net/v/20231202134526989"/>
-        <updated>2023-12-02T05:10:03.182Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 | 윤성열 기자] /사진제공=SBS플러스, ENA  '솔로민박' 3탄 모태솔로 3인방(12기 영수 영철 영식)과 데이트할 여성 출연자 장미, 백합, 국화의 정체가 공개된다. SBS플러스, ENA 연애 리얼리티 프로그램 '나는 SOLO, 그 후 사랑은 계속된다'(이하 '나솔사계')는 오는 7일 방송을 앞두고 '솔로민박' 3탄 남녀들의 '자기소개]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김호영X조권, '놀라운 토요일' 출격...키와 폭풍 댄스 배틀 예고]]></title>
-        <id>https://v.daum.net/v/20231202134016945</id>
-        <link href="https://v.daum.net/v/20231202134016945"/>
-        <updated>2023-12-02T05:10:03.183Z</updated>
-        <content type="html"><![CDATA[[OSEN=유수연 기자] ‘놀라운 토요일’에 뮤지컬 배우 김호영과 조권이 출격한다. 오늘(2일,&nbsp;토) 방송하는&nbsp;‘놀라운 토요일’(이하&nbsp;‘놀토’)에는 김호영과 조권이 출연해 풍성한 재미를 선물한다. 두 게스트는 시작부터 맹렬한 기세를 드러내 눈길을 끈다.&nbsp;전구가 달린 뮤지컬 의상을 입고 등장,&nbsp;화려한 퍼포먼스를 선보인 데 이어 입담마저 뽐내는 것.&nbsp;김호영]]></content>
     </entry>
 </feed>
