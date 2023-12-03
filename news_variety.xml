@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/variety</id>
     <title>다음 연예 ─ 뉴스 ─ 예능</title>
-    <updated>2023-12-03T03:13:22.303Z</updated>
+    <updated>2023-12-03T04:12:55.601Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["심사위원 건강 누가 책임져?"…'싱어게인3', 심상치않다]]></title>
+        <id>https://v.daum.net/v/20231203123010194</id>
+        <link href="https://v.daum.net/v/20231203123010194"/>
+        <updated>2023-12-03T04:12:46.415Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 이예진 기자) 무명 가수 오디션 프로그램인 '싱어게인3', 심상치 않다. 역대급 참가자들이 대거 등장하며 심사위원들이 스트레스를 토로하고 있다. 지난 10월 26일 첫 방송된 JTBC ‘싱어게인 시즌3-무명가수전’(이하 ‘싱어게인3’)는 역대급 참가자들의 무대와 사연으로 재미와 감동을 선사하며 레전드 시즌의 서막을 열었고, 닐슨코리아 기준 4]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['뭉쳐야 찬다3' 어쩌다, 안정환 감독의 코칭 받은 팀과 맞대결]]></title>
         <id>https://v.daum.net/v/20231203120210906</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231203103916591"/>
         <updated>2023-12-03T01:55:38.021Z</updated>
         <content type="html"><![CDATA[[OSEN=김채연 기자] ‘오은영&nbsp;리포트&nbsp;-&nbsp;알콜&nbsp;지옥'&nbsp;금주&nbsp;합숙이&nbsp;시작부터 기이한 현상이 벌어진다. 4일&nbsp;방송되는&nbsp;MBC&nbsp;'오은영&nbsp;리포트&nbsp;-&nbsp;알콜&nbsp;지옥'에서는&nbsp;7박&nbsp;8일간의&nbsp;금주&nbsp;서바이벌&nbsp;그&nbsp;첫날&nbsp;풍경이&nbsp;그려진다.&nbsp;'알콜&nbsp;지옥'은&nbsp;'오은영&nbsp;리포트'&nbsp;세&nbsp;번째&nbsp;시즌으로,&nbsp;술&nbsp;때문에&nbsp;일상을&nbsp;잃어버린&nbsp;10인의&nbsp;혹독한&nbsp;금주&nbsp;서바이벌을&nbsp;그린&nbsp;8부작&nbsp;프로그램이다]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['미우새' 이동건 동생, 15년전 호주 흉기난동 피해자였다…"네가 어른 된 모습 상상이 안 돼"]]></title>
-        <id>https://v.daum.net/v/20231203103007473</id>
-        <link href="https://v.daum.net/v/20231203103007473"/>
-        <updated>2023-12-03T01:55:38.022Z</updated>
-        <content type="html"><![CDATA[[마이데일리 = 노한빈 기자] 배우 이동건이 15년 전 사망한 동생에 대한 그리움을 전했다. 3일 SBS '미운 우리 새끼'에서는 15년 전, 불의의 사고 때문에 하늘로 떠난 동생을 그리워하는 형 이동건의 가슴 아픈 이야기가 공개된다. 최근 진행된 녹화에서 이동건은 하늘로 떠난 동생의 봉안함이 안치된 성당에 방문했다. 매년 동생의 생일마다 성당을 찾는다]]></content>
     </entry>
 </feed>
