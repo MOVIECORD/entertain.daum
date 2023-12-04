@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-12-04T22:10:54.856Z</updated>
+    <updated>2023-12-04T23:11:15.715Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[톰 행크스, "호텔 벨보이로 일한 적 있어"]]></title>
+        <id>https://v.daum.net/v/20231205073231644</id>
+        <link href="https://v.daum.net/v/20231205073231644"/>
+        <updated>2023-12-04T23:11:15.108Z</updated>
+        <content type="html"><![CDATA[[TV리포트=이예은 기자] 할리우드 대배우 톰 행크스(67)가 호텔 벨보이로 일했던 경험을 털어놨다.&nbsp; 최근 미국 토크쇼 '그레이엄 노튼 쇼'에 출연한 톰 행크스는 배우 생활 이전의 젊은 시절을 회상했다.&nbsp;이날 그는 젊었을 적에 미국 오클랜드 힐튼 호텔 벨멘으로 일했다고 솔직하게 고백했다.&nbsp; 이뿐만이 아니었다. 톰 행크스는 방송에 함께 출연한 미국 가수 겸]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['하이스쿨 뮤지컬' 바네사 허진스, 7살 연하 야구선수와 극비리 결혼]]></title>
         <id>https://v.daum.net/v/20231204215024636</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231204142130363"/>
         <updated>2023-12-04T06:15:06.016Z</updated>
         <content type="html"><![CDATA[[TV리포트=안수현 기자] 대만 유명 배우 임청하가 70에 가까운 나이에도 새벽까지 파티를 즐겨 눈길을 끌었다. 지난 25일(현지 시간), 임청하(69)는 제60회 타이베이 금마장 영화제(이하 '금마장')에서 공로상을 수상하는 영예를 안았다. 90년대 초 은퇴한 이후 거의 방송 활동을 하지 않은 그녀기에 이번 금마장에서의 수상은 많은 이들의 주목을 모았다]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['나폴레옹' 리들리 스콧, "슈퍼히어로는 배우들의 돈벌이 부업"]]></title>
-        <id>https://v.daum.net/v/20231204142000291</id>
-        <link href="https://v.daum.net/v/20231204142000291"/>
-        <updated>2023-12-04T06:15:06.018Z</updated>
-        <content type="html"><![CDATA[[TV리포트=김현재 기자] 영화 '나폴레옹'의 감독 리들리 스콧은 슈퍼히어로 영화에 대한 자신의 생각을 밝혔다. 4일(현지 시간), 미국 영화 매체인 '무비 웹'은 리들리 스콧 감독과 진행한 인터뷰를 공개했다. '사이러스', '글래디에이터', '블레이드 러너', '나폴레옹' 등을 제작한 '거물'인 스콧은 슈퍼히어로 영화를 만드는 데 관심이 없다고 밝혔다.]]></content>
     </entry>
 </feed>
