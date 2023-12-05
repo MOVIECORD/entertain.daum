@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-12-05T03:12:19.983Z</updated>
+    <updated>2023-12-05T04:13:54.002Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[디즈니 "'어벤져스' 속편에 아이언맨 부활 없어"]]></title>
+        <id>https://v.daum.net/v/20231205125509211</id>
+        <link href="https://v.daum.net/v/20231205125509211"/>
+        <updated>2023-12-05T04:13:53.346Z</updated>
+        <content type="html"><![CDATA[[티브이데일리 김지현 기자] 디즈니 측이 마블 캐릭터 아이언맨의 속편을 만들 계획이 없다고 밝혔다. 4일 미국 연예매체  베니티페어에 따르면 케빈 파이기 마블 스튜디오 사장은 '어벤져스' 속편에서 아이언맨을 볼 수 없을 것"이라고 밝혔다. 아이언맨은 '어벤져스: 엔드게임'에서 죽음을 맞았다. 이와 과련해 파이기는 "우리는 아이언맨이 죽음을 맞은 그 순간을]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['반지의 제왕' 스타 "성공 비결? 부모 잘 만난 탓"]]></title>
         <id>https://v.daum.net/v/20231205120030305</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231204152135389"/>
         <updated>2023-12-04T07:10:57.001Z</updated>
         <content type="html"><![CDATA[[OSEN=최나영 기자]&nbsp;배우&nbsp;오경화가 tvN 토일드라마 ‘무인도의 디바’(극본 박혜련, 은열 / 연출 오충환 / 기획 스튜디오드래곤 / 제작 바람픽쳐스, 카카오엔터테인먼트)를 통해 찰떡 같은 캐릭터 소화력과 연기력을 보여주며 눈도장을 제대로 찍었다. 오경화는 지난 3일 종영한 ‘무인도의 디바’에서 서목하(박은빈 분)의 어린 시절 단짝 친구 문영주 역을]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[판빙빙, 넘사벽 커리어 달성..."상 100개 넘게 받아"]]></title>
-        <id>https://v.daum.net/v/20231204152030334</id>
-        <link href="https://v.daum.net/v/20231204152030334"/>
-        <updated>2023-12-04T07:10:57.001Z</updated>
-        <content type="html"><![CDATA[[TV리포트=안수현 기자] 중화권 미녀 배우 판빙빙이 싱가포르 국제 영화제에서 상을 수상해 박수를 받았다. 4일(한국 시간), 판빙빙(42)은 자신의 소셜네트워크서비스에 여러 장의 사진을 게시했다. 그녀는 "SGIFEST(싱가포르 국제 영화제) 2023에서 시네마 아이콘을 수상한 것에 대해 진심으로 감사드립니다"라며 수상 소감을 남겼다. 지난 30일 개최]]></content>
     </entry>
 </feed>
