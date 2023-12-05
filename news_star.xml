@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2023-12-05T18:13:55.340Z</updated>
+    <updated>2023-12-05T19:08:35.372Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[어느 것 하나 뜻대로만 되지는 않았다… 나폴레옹의 사랑과 전쟁]]></title>
+        <id>https://v.daum.net/v/20231206040429643</id>
+        <link href="https://v.daum.net/v/20231206040429643"/>
+        <updated>2023-12-05T19:08:29.917Z</updated>
+        <content type="html"><![CDATA[나폴레옹은 프랑스를 넘어 유럽을 제패하고도 세인트 헬레나 섬에 유배 당해 초라하게 생을 마감했다. 평생 조제핀을 사랑하면서도 함께 평탄한 삶을 누릴 수 없었다. 프랑스 왕국의 변두리에서 태어난 ‘코르시카 출신 깡패’는 누구보다 출세했지만, 한편으론 누구보다 불행했다. 세계사의 대표적인 전쟁 영웅이자 프랑스 제1제국의 황제 나폴레옹의 일대기를 그린 영화 ‘]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김범수 "연말 콘서트 철칙 있다...초대권 절대 안 뿌려"]]></title>
         <id>https://v.daum.net/v/20231206010230960</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231205230812223"/>
         <updated>2023-12-05T14:10:48.005Z</updated>
         <content type="html"><![CDATA[[OSEN=유수연 기자]&nbsp;입대를 앞둔 그룹 방탄소년단 네 멤버(RM, 뷔, 지민, 정국)가 심경을 전했다. 5일&nbsp;방탄소년단&nbsp;RM, 뷔, 지민, 정국은&nbsp;위버스 라이브 방송을 진행, 팬들과의 소통을 진행했다.&nbsp;RM과 뷔는 오는 11일, 지민과 정국은 오는 12일 각각 현역으로 육군에 입대를 앞두고 있다. 이날 정국은 비슷한 시기에 입대를 결정한 이유에 대해]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['신동초 졸업생' 김준구, 첫인상 투표서 몰표…"이지은 예뻐" 설렘↑]]></title>
-        <id>https://v.daum.net/v/20231205230357195</id>
-        <link href="https://v.daum.net/v/20231205230357195"/>
-        <updated>2023-12-05T14:10:48.007Z</updated>
-        <content type="html"><![CDATA[(서울=뉴스1) 이지현 기자 = 신동초 졸업생 김준구가 첫인상 투표에서 몰표를 받았다. 5일 오후 방송된 MBC 새 예능 프로그램 '솔로동창회 학연'에서는 서울 서초구 잠원동에 위치한 신동초등학교 제 67회 졸업생 8인이 출연해 눈길을 끌었다. 이날 8인은 만나자마자 첫인상 투표를 했다. 모두가 당황한 가운데 눈치를 보며 조심스럽게 투표했다. 고민하]]></content>
     </entry>
 </feed>
