@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-12-05T01:55:09.079Z</updated>
+    <updated>2023-12-05T02:26:07.116Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘아이언맨’ 로다주 MCU 복귀 안해, “‘캡틴 아메리카’ 크리스 에반스는 컴백 가능성”]]></title>
+        <id>https://v.daum.net/v/20231205112002565</id>
+        <link href="https://v.daum.net/v/20231205112002565"/>
+        <updated>2023-12-05T02:26:06.512Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]마블의 수장 케빈 파이기가 로버트 다우니 주니어의 ‘아이언맨’이 마블 시네마틱 유니버스에 복귀하지 않을 것이라고 밝힌 가운데 ‘캡틴 아메리카’ 크리스 에반스의 컴백 여부에 관심이 쏠리고 있다. 케빈 파이기는 최근 베니티페어와 인터뷰에서 “우리는 그 순간을 간직하고 다시는 그 순간을 건드리지 않을 것”이라면서 “우리 모두는 그]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“동성애자 커밍아웃” 빌리 아일리시, 복부에 ‘Hard’ 문신 “무슨 뜻?”]]></title>
         <id>https://v.daum.net/v/20231205100449005</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231204144130229"/>
         <updated>2023-12-04T06:15:06.014Z</updated>
         <content type="html"><![CDATA[[TV리포트=안수현 기자] 할리우드 배우 마이클 B. 조던이 교통사고를 냈다. 지난 3일(현지 시간), 마이클 B.조던(36)은 페라리를 몰던 중 캘리포니아 할리우드에 주차된 기아차를 들이박았다. 이 사건에 대해 로스앤젤레스 경찰은 "밤 11시 30분경 선셋 대로 번화가에서 발생했으며, 주차된 차량과 차량이 충돌한 교통사고였다"이라고 밝혔다. 관계자들에 따]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘구준엽♥’ 서희원, 전남편 왕소비와 다정히 대화? 사칭 영상까지 등장]]></title>
-        <id>https://v.daum.net/v/20231204143958143</id>
-        <link href="https://v.daum.net/v/20231204143958143"/>
-        <updated>2023-12-04T06:15:06.015Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 장예솔 기자] 대만 배우 서희원과 전남편 왕소비를 사칭한 짝퉁 영상이 논란이 되고 있다. 최근 온라인상에 서희원과 왕소비가 대화를 나누는 모습이 담긴 영상이 공개됐다. 두 사람은 다양한 주제로 막힘없이 대화를 이어 나갔고, 누리꾼들은 이미 이혼한 두 사람의 다정한 대화에 놀라움을 감추지 못했다. 그러나 영상 속 인물들은 실제 서희원과 왕소비가]]></content>
     </entry>
 </feed>
