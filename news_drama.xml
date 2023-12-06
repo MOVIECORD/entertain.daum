@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-12-06T13:14:48.383Z</updated>
+    <updated>2023-12-06T14:10:45.624Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이응복 감독 "송강·이진욱 전라노출, 이정도 관심이었으면 말릴걸" 너스레]]></title>
+        <id>https://v.daum.net/v/20231206225002513</id>
+        <link href="https://v.daum.net/v/20231206225002513"/>
+        <updated>2023-12-06T14:10:32.431Z</updated>
+        <content type="html"><![CDATA[[텐아시아=류예지 기자]'스위트홈2' 이응복 감독이 노출을 감행한 배우들에 고마움을 드러냈다. 이응복 감독이 5일 서울 종로구 삼청동 한 카페에서 텐아시아와 만나 넷플릭스 오리지널 시리즈 '스위트홈2'에 대한 다양한 이야기를 들려줬다. 지난 1일 공개된 '스위트홈2'는 욕망이 괴물이 되는 세상, 그린홈을 떠나 새로운 터전에서 살아남기 위해 각자의 사투를]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김미라, 강율 살리려 몸 던졌다..결국 사망]]></title>
         <id>https://v.daum.net/v/20231206210743269</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231206173618163"/>
         <updated>2023-12-06T09:11:02.587Z</updated>
         <content type="html"><![CDATA[[OSEN=장우영 기자] ‘사랑의 이해’ 금새록과는 다른 ‘사운드트랙 #2’ 금새록이 왔다. 오늘(6일) 공개를 앞둔 디즈니+ 오리지널 ‘사운드트랙 #2’는 피아노 과외 선생님 도현서(금새록)가 뜨겁게 사랑하고 차갑게 헤어졌던 전연인과 바랜 꿈을 다시 잡아준 연하남과 함께 뮤직 프로젝트를 위해 한 집에 머물게 되면서 벌어지는 로맨스 드라마다. 전 연인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[임지연X추영우, '옥씨부인전' 출연 확정]]></title>
-        <id>https://v.daum.net/v/20231206173045901</id>
-        <link href="https://v.daum.net/v/20231206173045901"/>
-        <updated>2023-12-06T09:11:02.587Z</updated>
-        <content type="html"><![CDATA[[이데일리 스타in 김가영 기자] 배우 임지연과 추영우가 호흡을 맞춘다. 임지연(왼쪽) 추영우(사진=각 소속사 제공)오는 2024년 첫 방송되는 JTBC 새 드라마 ‘옥씨부인전’(극본 박지숙, 연출 진혁, 제작 SLL, 코퍼스코리아)은 이름도, 신분도, 남편도 모든 것이 가짜였던 외지부 옥태영과 그녀를 지키기 위해 목숨까지 걸었던 예인 천승휘의 치열한 생]]></content>
     </entry>
 </feed>
