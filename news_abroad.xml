@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-12-06T02:25:09.026Z</updated>
+    <updated>2023-12-06T03:12:44.004Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['비틀즈 라이벌' 데니 레인, 별세...폴 매카트니도 애도]]></title>
+        <id>https://v.daum.net/v/20231206113732517</id>
+        <link href="https://v.daum.net/v/20231206113732517"/>
+        <updated>2023-12-06T03:12:43.333Z</updated>
+        <content type="html"><![CDATA[[TV리포트=강성훈 기자] 록밴드 무디 블루스와 윙스의 창립 멤버인 데니 레인이 별세했다. 향년 79세. 6일(현지 시간) 데니 레인 아내는 데니 레인의 소셜네트워크서비스를 통해 남편의 사망 소식을 전했다. 그는 "나의 사랑하는 남편이 평화롭게 세상을 떠났다"라고 밝혔다. 사망 원인은 '간질성 폐질환'(ILD)라고 덧붙였다.&nbsp; 아내는 남편 데니 레인이 지난]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“자식이 5명이라 돈 필요해서 ‘웡카’ 출연”, 63살 휴 그랜트 영국식 농담 화제]]></title>
         <id>https://v.daum.net/v/20231206105410282</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231205170230865"/>
         <updated>2023-12-05T08:14:23.560Z</updated>
         <content type="html"><![CDATA[[TV리포트=안수현 기자] 홍콩 가수 오호강(40)이 부업으로 건설 노동직을 하는 근황을 전해 눈길을 끌었다. 지난 2일(현지 시간), 오호강은 소셜네트워크서비스에 안전모를 쓴 채 일을 하는 모습이 담긴 영상을 공개했다. 오호강은 수십년간 연예계 활동을 했으며 지난해 마젤라 웍과 결혼 후 올해 3월 아이를 맞이했다. 아버지의 책임이 더해지면서, 그는 안정적]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[윌 스미스 "폭행 반성...난 인간성 뛰어난 사람"...대중은 여전히 '싸늘']]></title>
-        <id>https://v.daum.net/v/20231205162030179</id>
-        <link href="https://v.daum.net/v/20231205162030179"/>
-        <updated>2023-12-05T08:14:23.560Z</updated>
-        <content type="html"><![CDATA[[TV리포트=안수현 기자] 할리우드 배우 윌 스미스(55)가 지난날의 실수를 반성했다. 지난 3일(현지 시간), 윌 스미스는 홍해 국제영화제에 참석해 "나는 수많은 실수를 저질렀다"라며 과거 저지른 후회되는 행동에 관해 언급했다. 그는 "명예는 독특한 괴물이다. 사람들이 당신에 대해 좋은 말을 할 때 너무 기뻐할 수도 없다. 왜냐하면 사람들이 당신에 대해]]></content>
     </entry>
 </feed>
