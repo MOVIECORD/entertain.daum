@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-12-06T10:12:09.778Z</updated>
+    <updated>2023-12-06T11:09:39.732Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['178억' 집 사는 스타, 공과금 아끼려 '불' 끄고 방송]]></title>
+        <id>https://v.daum.net/v/20231206193200781</id>
+        <link href="https://v.daum.net/v/20231206193200781"/>
+        <updated>2023-12-06T11:09:39.166Z</updated>
+        <content type="html"><![CDATA[[TV리포트=강성훈 기자] 일본 인기 온라인 방송인 히카킨(34)는 돈을 많이 벌었지만 매우 검소한 편이다.&nbsp; 6일 히카킨은 자신의 온라인 채널을 통해 지난 8월 이사한 20억 엔(한화 약 179억 원)짜리 새집의 공과금 전기, 가스, 수도 요금 총액을 공개했다.&nbsp; 히카킨은 "얼마가 나왔는지 계산해 봤다"라며 "판도라의 상자를 열어보겠다"라고 말문을 열었다]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[40세 리얼리티 스타, '체중 감량' 후 주차장서 숨진 채 발견]]></title>
+        <id>https://v.daum.net/v/20231206192517650</id>
+        <link href="https://v.daum.net/v/20231206192517650"/>
+        <updated>2023-12-06T11:09:39.166Z</updated>
+        <content type="html"><![CDATA[[OSEN=최나영 기자] '극단적인 체중 감량'으로 유명한 리얼리티 프로그램 스타 브랜디 말로리(Brandi Mallory, 40)가 '비만 합병증'으로 사망했다고 미국 조지아 주 의료 관계자가 부검 결과를 밝혔다. 말로리는&nbsp;지난 11월 9일 조지아주 스톤마운틴의 한 치폴레 레스토랑 주차장에 있는 그녀의 차 안에서 숨진 채 발견됐다. 저녁 식사를 한 후]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[블핑 제니, 희비 엇갈린 고된 하루...."뷔와 이별·YG와 재계약"]]></title>
         <id>https://v.daum.net/v/20231206181930450</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20231206124200724"/>
         <updated>2023-12-06T04:13:31.546Z</updated>
         <content type="html"><![CDATA[[TV리포트=안수현 기자] 홍콩의 유명 배우가 버스기사의 폭로에 의해 '인성 논란'에 휩싸였다. 지난 4일(현지 시간), 배우 삼미의 팟캐스트 '굿모닝 킹'에 출연한 버스기사 B씨는 유명 배우 A씨에 관해 폭로했다. B씨에 따르면, A씨는 본인 포함 주변인들에게 매우 무례하게 굴었고 무시성 발언을 자주 했다. B씨는 홍콩 유명 소속사 TVB의 전속 버스기사]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['비틀즈 라이벌' 데니 레인, 별세...폴 매카트니도 애도]]></title>
-        <id>https://v.daum.net/v/20231206113732517</id>
-        <link href="https://v.daum.net/v/20231206113732517"/>
-        <updated>2023-12-06T03:12:43.333Z</updated>
-        <content type="html"><![CDATA[[TV리포트=강성훈 기자] 록밴드 무디 블루스와 윙스의 창립 멤버인 데니 레인이 별세했다. 향년 79세. 6일(현지 시간) 데니 레인 아내는 데니 레인의 소셜네트워크서비스를 통해 남편의 사망 소식을 전했다. 그는 "나의 사랑하는 남편이 평화롭게 세상을 떠났다"라고 밝혔다. 사망 원인은 '간질성 폐질환'(ILD)라고 덧붙였다.&nbsp; 아내는 남편 데니 레인이 지난]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“자식이 5명이라 돈 필요해서 ‘웡카’ 출연”, 63살 휴 그랜트 영국식 농담 화제]]></title>
-        <id>https://v.daum.net/v/20231206105410282</id>
-        <link href="https://v.daum.net/v/20231206105410282"/>
-        <updated>2023-12-06T01:54:27.738Z</updated>
-        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]영화배우 휴 그랜트(63)의 솔직한 농담이 화제다. 워너브러더스의 신작 영화 ‘웡카’에서 소인족 옴파롬파를 연기한 그는 CG 장면을 촬영한 경험이 싫었다고 털어놓았다. 5일(현지시간) 영국 메트로에 따르면, 그는 기자회견에서 머리에 카메라 장비를 두른 채 심술궂은 옴파롬파를 만드는 것이 마치 '가시 왕관'을 쓴 것과 같았다고]]></content>
     </entry>
 </feed>
