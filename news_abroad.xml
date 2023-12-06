@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-12-06T12:21:30.337Z</updated>
+    <updated>2023-12-06T13:14:48.382Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['원빈 상대역' 女배우, 1천억 자산가와 결혼 직전 파국…왜?]]></title>
+        <id>https://v.daum.net/v/20231206220027009</id>
+        <link href="https://v.daum.net/v/20231206220027009"/>
+        <updated>2023-12-06T13:14:47.684Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 이승길 기자] 일본 배우 후카다 쿄코(41)가 1천억대 자산의 부동산 재벌과 결혼 직전 이별했다. 6일 일본 매체 스포니치 아넥스는 후카다 쿄코가 부동산 사업가 스기모토 히로유키(46) 회장과 결혼 직전에 파국을 맞이했다고 보도했다. 당초 두 사람은 11월에 후카다 쿄코의 본가를 방문하는 등, 연내 결혼식을 향하고 있었다. 그런데 결혼을]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[할리우드 떠나는 톱 여배우들..이렇게 잘 나가는데 왜?]]></title>
         <id>https://v.daum.net/v/20231206202519618</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231206135933898"/>
         <updated>2023-12-06T05:10:58.258Z</updated>
         <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]리얼리티 TV 스타이자 피트니스 인플루언서인 브랜디 말로리(40)가 극심한 체중 감량으로 사망한 것으로 나타났다. 5일(현지시간) TMZ가 입수한 부검 보고서에 따르면, 말로니는 극심한 체중 감량에 따른 비만 합병증으로 세상을 떠났다. 그는 심장 비대와 당뇨병 전조 증상을 시사하는 혈액 수치 상승으로 고통받은 것으로 알려]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['이혼' 女스타 "바람 이해...하지만 불륜녀 집에 들인 건 용납 못해"]]></title>
-        <id>https://v.daum.net/v/20231206134030227</id>
-        <link href="https://v.daum.net/v/20231206134030227"/>
-        <updated>2023-12-06T05:10:58.259Z</updated>
-        <content type="html"><![CDATA[[TV리포트=이효경 기자] 일본 유명 리얼리티 스타 뎃파링이 이혼을 발표했다. 지난 4일(현지 시간), 인기 리얼리티 프로그램 '아이노리 아시안 저니' 출연진으로 얼굴을 알린 뎃파링(활동명)이 소셜네트워크서비스를 통해 남편이자 온라인 크리에이터 야스와 이혼한다고 발표했다. 두 사람은 2020년 결혼, 다음 해 딸을 출산했으며 이후 필리핀 세부섬으로 이사했다]]></content>
     </entry>
 </feed>
