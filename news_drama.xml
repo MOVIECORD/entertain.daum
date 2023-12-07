@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-12-07T09:11:28.442Z</updated>
+    <updated>2023-12-07T10:12:16.133Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[홍예지 여심+남심 다 잡은 포스 ‘환상연가’서 무슨 역 맡았나 보니]]></title>
+        <id>https://v.daum.net/v/20231207183640669</id>
+        <link href="https://v.daum.net/v/20231207183640669"/>
+        <updated>2023-12-07T10:12:01.641Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 하지원 기자] ‘환상연가’의 홍예지가 다채로운 매력으로 안방극장을 찾아온다. 내년 1월 첫 방송을 앞둔 KBS 2TV 새 월화드라마 ‘환상연가’는 상반된 두 인격을 가진 남자와 그 남자를 사랑한 여자, 풋풋한 사랑과 지독한 집착을 넘나드는 판타지 사극 로맨스로 동명의 인기웹툰이 원작이다. 홍예지는 그 중 자객단의 일원에서 자신도 모르게 태자의 후]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘브랜드 인 성수동’ 까칠팀장 김지은, 인턴 로몬과 키스 후 영혼 체인지]]></title>
         <id>https://v.daum.net/v/20231207175732423</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231207142722994"/>
         <updated>2023-12-07T06:14:32.632Z</updated>
         <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]배우 박지원이 ‘혼례대첩’에서 화수분 매력으로 시청자들의 눈길을 끌고 있다. 지난 4일, 5일 방송된 KBS2 월화드라마 ‘혼례대첩’ 10회, 11회에서는 맹두리(박지원 분)가 이시열(손상연 분)과 핑크빛 기류를 형성하는 모습이 그려졌다. 단옷날 제호탕을 준비해 씨름판으로 향한 맹두리는 씨름 시합에 나온 이시열과 마주치자 퉁]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['고려 거란 전쟁' 이원종, '강조의 정변'→거란에 맞선 충신 '두 얼굴']]></title>
-        <id>https://v.daum.net/v/20231207141456371</id>
-        <link href="https://v.daum.net/v/20231207141456371"/>
-        <updated>2023-12-07T06:14:32.632Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 | 이경호 기자] 공영방송 50주년 특별 기획 KBS 2TV 대하드라마 '고려 거란 전쟁'./사진제공=KBS 2TV 대하드라마 '고려 거란 전쟁''고려 거란 전쟁'의 이원종이 하드캐리한 열연으로 안방극장을 사로잡았다. 지난 3일 방송된 공영방송 50주년 특별 기획 KBS 2TV 대하드라마 '고려 거란 전쟁'(극본 이정우, 연출 전우성·김한솔,]]></content>
     </entry>
 </feed>
