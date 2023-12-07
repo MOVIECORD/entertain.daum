@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-12-07T08:14:19.482Z</updated>
+    <updated>2023-12-07T09:11:28.432Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘치매’ 브루스 윌리스 “살 날 얼마 남았는지 몰라”..가족들 뭉쳤다]]></title>
+        <id>https://v.daum.net/v/20231207180854757</id>
+        <link href="https://v.daum.net/v/20231207180854757"/>
+        <updated>2023-12-07T09:11:27.752Z</updated>
+        <content type="html"><![CDATA[[OSEN=지민경 기자] 전두측두엽 치매를 앓고 있는 배우 브루스 윌리스를 위해 가족들이 뭉쳤다. 지난 6일(현지 시간) 미국 매체 US 위클리 보도에 따르면 전두측두엽 치매(FTD) 진단을 받은 브루스 윌리스는 현재 그의 아내 엠마 헤밍과 전 아내 데미 무어, 그리고 다섯 아이들의 곁에서 일상을 보내고 있다. 한 소식통은 “브루스 윌리스가 치매 진단을]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘치매’ 브루스 윌리스, “살날 얼마 남지 않아” 충격]]></title>
         <id>https://v.daum.net/v/20231207165554384</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231207085325626"/>
         <updated>2023-12-07T00:50:05.656Z</updated>
         <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]세계적 팝스타 테일러 스위프트가 시사주간지 ‘타임’이 선정한 ‘올해의 인물’로 뽑혔다. ‘타임’은 6일(현지시간) “스위프트의 인기는 수십 년에 걸쳐 성장해 왔지만, 올해는 스위프트가 일종의 핵융합을 달성한 해”라면서 “예술과 상업의 결합을 통해 역사적인 힘을 발산하는 에너지를 내뿜었다”고 선정 이유를 밝혔다. 이어 “스위]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[타임 '올해의 인물'에 테일러 스위프트…연예인 최초 단독수상]]></title>
-        <id>https://v.daum.net/v/20231207012931563</id>
-        <link href="https://v.daum.net/v/20231207012931563"/>
-        <updated>2023-12-06T17:11:05.026Z</updated>
-        <content type="html"><![CDATA[(뉴욕=연합뉴스) 고일환 특파원 = 미국 시사주간지 타임이 2023년 '올해의 인물'에 팝스타 테일러 스위프트를 선정했다. 타임은 6일(현지시간) "스위프트의 인기는 10년 이상 상승해왔지만, 올해의 경우 예술과 상업적 측면에서 핵융합과 같은 에너지를 분출했다"며 선정 이유를 밝혔다. 1927년부터 시작된 타임의 올해의 인물에 연예계 인물이 자신의 본업으로]]></content>
     </entry>
 </feed>
