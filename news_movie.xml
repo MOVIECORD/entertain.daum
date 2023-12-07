@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-12-07T10:12:16.127Z</updated>
+    <updated>2023-12-07T11:10:00.073Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["내가 가장 원망스럽다"…'서울의 봄' 정우성 모티브 인물의 끝]]></title>
+        <id>https://v.daum.net/v/20231207193002714</id>
+        <link href="https://v.daum.net/v/20231207193002714"/>
+        <updated>2023-12-07T11:09:43.369Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 오승현 기자) '서울의 봄' 속 주인공 이태신의 모티브가 된 실존 인물의 솔직한 마음은 어땠을까. 최근 개봉한 영화 '서울의 봄'(감독 김성수)은 1979년 12월 12일 수도 서울에서 일어난 신군부 세력의 반란을 막기 위한 일촉즉발의 9시간을 그린 영화다. 실제 있던 일인 12·12 사태를 배경으로 한 이 영화는 대중의 뜨거운 지지를 받으며]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[사랑에 빠진 나폴레옹의 재해석, 호불호 갈린 까닭]]></title>
         <id>https://v.daum.net/v/20231207190001159</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231207155459167"/>
         <updated>2023-12-07T07:10:23.047Z</updated>
         <content type="html"><![CDATA[아이즈 ize 김나라 기자영화 '서울의 봄'이 모처럼 충무로에 '봄'을 불러온 가운데, 그 뒤를 이을 다음 타자들에 관심이 모아지고 있다. '노량: 죽음의 바다'를 시작으로 기대작들이 대거 포진, 한국 영화계에 활력 넘치는 봄 기운은 당분간 계속될 것으로 전망된다.'서울의 봄'(감독 김성수)은 지난달 22일 개봉 이후 단 14일 만에 500만 관객을 돌파하]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['서울의 봄' 박해준이 완성한 노태○의 프리퀄…1인자 뒤편의 권력자]]></title>
-        <id>https://v.daum.net/v/20231207155141058</id>
-        <link href="https://v.daum.net/v/20231207155141058"/>
-        <updated>2023-12-07T07:10:23.047Z</updated>
-        <content type="html"><![CDATA[[SBS 연예뉴스 | 김지혜 기자] 영화 '서울의 봄'은 12.12 군사반란을 정면으로 다룬 상업영화다. 이 작품이 영화적으로 또 하나 흥미로운 점은 근, 현대사의 토대 아래 김성수 감독의 '악인전'을 펼쳐냈다는 점이다. '서울의 봄'은 사건 묘사만큼이나 캐릭터 디자인이 훌륭한 영화다. 명배우들이 만들어낸 살아 숨 쉬는 캐릭터, 역동적인 연기는 관객을 19]]></content>
     </entry>
 </feed>
