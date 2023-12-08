@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-12-08T03:11:43.355Z</updated>
+    <updated>2023-12-08T04:13:35.776Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['서울의 봄', 극우 저격으로 '단체관람 취소'돼...흥행에 제동 걸려]]></title>
+        <id>https://v.daum.net/v/20231208130700106</id>
+        <link href="https://v.daum.net/v/20231208130700106"/>
+        <updated>2023-12-08T04:13:15.447Z</updated>
+        <content type="html"><![CDATA[[TV리포트=안수현 기자] 영화 '서울의 봄'이 천만 관객을 향해 순항 중인 가운데, 정치 유튜버의 저격으로 '단체관람 취소'와 같은 난항에 부딪혔다.&nbsp; 지난달 22일 개봉해 누적 관객수 500만명을 돌파한 영화 '서울의 봄'. 뼈아픈 근현대사를 다룬 영화로 초·중·고교가 '단체관람'을 시행하며 학생들의 역사 교육을 추진하고 있다. 그러나 일부 초등학교가]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[춘사영화제 감독상 받은 '거미집' 김지운 "감독들 눈 예리해"]]></title>
         <id>https://v.daum.net/v/20231208114201332</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231208095948269"/>
         <updated>2023-12-08T01:54:06.653Z</updated>
         <content type="html"><![CDATA[[이데일리 스타in 김보영 기자] 배우 신민아가 영화 ‘3일의 휴가’(감독 육상효)로 3년 만에 스크린에 돌아왔다. 지난 6일 개봉한 영화 ‘3일의 휴가’는 하늘에서 휴가 온 엄마 복자(김해숙 분)와 엄마의 레시피로 백반집을 운영하는 딸 진주(신민아 분)의 이야기를 담은 힐링 판타지물이다. 신민아는 더욱 성숙해진 연기력으로 그간 딸과 엄마 사이에 쌓인 오]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[16일 연속 1위 '서울의 봄', 누적 547만…주말 700만 돌파할까]]></title>
-        <id>https://v.daum.net/v/20231208094504624</id>
-        <link href="https://v.daum.net/v/20231208094504624"/>
-        <updated>2023-12-08T00:49:57.298Z</updated>
-        <content type="html"><![CDATA[[텐아시아=최지예 기자]영화 '서울의 봄'의 원톱 독주가 계속되고 있는 가운데, 주말 700만 돌파를 향해 달리고 있다. 영화진흥위원회 영화관입장권통합전산망 집계에 따르면 지난 7일 '서울의 봄'(감독 김성수)은 20만546명의 관객을 불러모으며 누적 관객수 547만1695명을 기록했다.&nbsp;지난달 22일 개봉 이후 단 한번도 박스오피스 정상을 단 한번도 놓]]></content>
     </entry>
 </feed>
