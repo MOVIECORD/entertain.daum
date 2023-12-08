@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-12-08T08:15:03.685Z</updated>
+    <updated>2023-12-08T09:11:36.937Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[셀레나 고메즈, 새 남친은 음악PD…비버→위켄드 이어 또 공개 열애]]></title>
+        <id>https://v.daum.net/v/20231208175157386</id>
+        <link href="https://v.daum.net/v/20231208175157386"/>
+        <updated>2023-12-08T09:11:36.355Z</updated>
+        <content type="html"><![CDATA[[OSEN=김보라 기자]&nbsp;가수 겸 배우 셀레나 고메즈(31)가 음악 프로듀서 베니 블랑코(35)와 열애를 시작했다. 7일(현지 시각) 셀레나 고메즈는 음악 프로듀서 베니 블랑코와의 관계를 대중에 밝혔다. 이에 고메즈 측 한 관계자는 “두 사람이 한동안 아무렇지 않게 만나왔는데 연인 관계로 공식화했다”며 “셀레나 고메즈는 정말 잘 지내고 있고 매우 행복하]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[왕조현, 7년 만에 근황 공개...'56세' 믿기지 않는 동안 미모]]></title>
         <id>https://v.daum.net/v/20231208165200625</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231207184025731"/>
         <updated>2023-12-07T10:12:15.526Z</updated>
         <content type="html"><![CDATA[[OSEN=최나영 기자] 뮤지션 테일러 스위프트(33)가 미국 시사주간지 타임의 올해의 인물로 선정됐다. 미국 시사주간지 타임은 이 같이 밝히며 "스위프트는 빛과 어둠으로 양분된 세계의 경계를 넘어 빛의 원천이 되는 방법을 찾았다. 오늘날 지구상에서 이토록 많은 사람들을 감동시킨 사람은 없다", "스위프트는 올해 예술과 상업적 측면에서 핵융합과 같은 에]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['원빈 상대역' 후카다 쿄코, 日 부동산 재벌과 결혼 직전 결별]]></title>
-        <id>https://v.daum.net/v/20231207183420578</id>
-        <link href="https://v.daum.net/v/20231207183420578"/>
-        <updated>2023-12-07T10:12:15.526Z</updated>
-        <content type="html"><![CDATA[[OSEN=선미경 기자] 일본의 인기 배우 후카다 쿄코가 부동산 재벌 스기모토 히로유키와 결혼을 앞두고 결별했다. 7일 일본 매체 여성 세븐 등에 따르면 후카다 쿄코와 스기모토 히로유키는 최근 5년간의 연애에 종지부를 찍었다. 스기모토 히로유키는 수백억원 대의 부동산 재벌로 알려졌다. 보도에 따르면 스기모토 히로유키가 후카다 쿄코에서 친밀하게 지내는 남]]></content>
     </entry>
 </feed>
