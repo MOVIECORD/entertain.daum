@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2023-12-08T16:13:49.374Z</updated>
+    <updated>2023-12-08T17:10:41.381Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘나혼산’ 전현무, 첫사랑 생각에 눈빛 촉촉... “진짜 좋아했지”]]></title>
+        <id>https://v.daum.net/v/20231209011500604</id>
+        <link href="https://v.daum.net/v/20231209011500604"/>
+        <updated>2023-12-08T17:10:35.962Z</updated>
+        <content type="html"><![CDATA[‘나 혼자 산다’ 전현무가 첫사랑의 추억에 젖었다. 8일 방송된 MBC 예능프로그램 ‘나 혼자 산다’(이하 ‘나혼산’)에서는 전현무가 친구들과 고등학교 은사님 댁을 방문하는 모습이 전파를 탔다. 이날 김대호는 이집트 휴가 후 근황으로 “직장인에게 휴가는 확실히 필요하다”고 소감을 전했다. 이에 전현무는 “사실 이집트보다도 그분(?)에 대한 질문이 많다”며]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[정용화 "운명같은 만남 기다려..이상형은 강아지상"]]></title>
         <id>https://v.daum.net/v/20231209004111505</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231208233243138"/>
         <updated>2023-12-08T15:11:20.449Z</updated>
         <content type="html"><![CDATA[[스포츠한국 김현희 기자] 정구원이 극적으로 도도희의 목숨을 구했다. 8일 방송된 SBS 금토드라마 '마이 데몬' 5화 에서 고층&nbsp;난간에서 위태롭게 매달렸던 도도희를 정구원이 구했다. 들개파의 습격으로 위기를 맞은 정구원(송강)은 도도희(김유정)가&nbsp;분 호루라기로 인해 습격에서 벗어나게 된다. 도도희는 정구원을 구하기 위해 "나는 경호원의 경호원이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김대호, '19세 CEO' 이슈락 섭외 의혹 부인…"곧 한국 놀러올 계획"]]></title>
-        <id>https://v.daum.net/v/20231208233011130</id>
-        <link href="https://v.daum.net/v/20231208233011130"/>
-        <updated>2023-12-08T15:11:20.449Z</updated>
-        <content type="html"><![CDATA[(서울=뉴스1) 이지현 기자 = MBC 김대호 아나운서가 '19세 CEO'로 화제를 모은 이슈락을 언급했다. 8일 오후 방송된 MBC 예능 프로그램 '나 혼자 산다'에서는 김대호가 이집트 여행 후기를 전해 눈길을 끌었다. 그는 "직장인에게 확실히 휴가가 필요하다는 걸 느끼고 왔다"라며 행복한 미소를 지었다. 이에 방송인 전현무가 "사실 이집트보다 그]]></content>
     </entry>
 </feed>
