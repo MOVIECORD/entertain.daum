@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-12-08T10:12:27.192Z</updated>
+    <updated>2023-12-08T11:09:44.907Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["파트1보다 만족"…드니 빌뇌브 감독, 빨리 보여주고 싶은 '듄: 파트2']]></title>
+        <id>https://v.daum.net/v/20231208192223777</id>
+        <link href="https://v.daum.net/v/20231208192223777"/>
+        <updated>2023-12-08T11:09:27.949Z</updated>
+        <content type="html"><![CDATA[[OSEN=김보라 기자]&nbsp;‘시카리오: 암살자의 도시’(2015) ‘컨택트’(2017) ‘블레이드 러너 2049’(2017) 등의 영화로 연출력을 인정받은 드니 빌뇌브 감독이 선보인 ‘듄’(2021)은 전세계 영화 팬들을 만족시킬 방대한 비주얼을 자랑했다. 관객들은 물론 기자, 평단으로부터 고르게 호평을 받은 ‘듄’은 본 적 없던 미래의 세계관을 스크린에]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“박찬욱·봉준호 제일 좋아” 드니 빌뇌브→아리 에스터 감독의 韓영화 사랑 “원더풀”]]></title>
         <id>https://v.daum.net/v/20231208180456670</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231208161800755"/>
         <updated>2023-12-08T08:14:44.287Z</updated>
         <content type="html"><![CDATA[8일 오후 서울 CGV 용산아이파크몰에서 영화 ‘듄:파트2’ 푸티지 상영회 및 내한 기자회견이 열렸다. 드니 빌뇌브 감독이 참석했다. ‘듄: 파트2’는 자신의 능력을 깨닫고 각성한 폴(티모시 샬라메)이 복수를 위한 여정에서 전사의 운명을 찾아가게 되는 액션 블록버스터다. 전작 ‘듄’은 2021년 개봉해 전세계 박스오피스 4억 2백만 달러(약 5223억 원)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[드니 빌뇌브 감독 “봉준호·박찬욱 감독과 협업, 외로운 늑대에겐 꿈 같은 일”]]></title>
-        <id>https://v.daum.net/v/20231208160927574</id>
-        <link href="https://v.daum.net/v/20231208160927574"/>
-        <updated>2023-12-08T07:10:20.786Z</updated>
-        <content type="html"><![CDATA[[스포츠서울 | 함상범기자] 드니 빌뇌브 감독이 봉준호, 박찬욱 감독과 협업을 꿈 같은 일이라고 밝혔다. 드니 빌뇌브 감독은 8일 오후 2시 서울 용산구 CGV용산아이파크몰에서 열린 ‘듄: 파트2’ 풋티지 영상회 및 기자간담회에서 “한국 관객들은 영화를 많이 사랑하는 것으로 알고 있다. 제가 알기로는 극장 영화를 보는 걸 즐기는 걸로 안다. 저한테는]]></content>
     </entry>
 </feed>
