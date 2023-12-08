@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-12-08T22:10:27.416Z</updated>
+    <updated>2023-12-08T23:11:13.153Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['서울의 봄' 개봉 18일만 600만 고지..천만 향해 돌진]]></title>
+        <id>https://v.daum.net/v/20231209080916387</id>
+        <link href="https://v.daum.net/v/20231209080916387"/>
+        <updated>2023-12-08T23:10:52.476Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 | 윤상근 기자] /사진=플러스엠엔터테인먼트 영화 '서울의 봄'이 개봉 18일 만에 누적 관객 600만명을 돌파했다. 9일 영화진흥위원회 영화관입장권통합전산망에 따르면 '서울의 봄'(감독 김성수)은 이날 밤 12시 2분 기준 누적 관객 수 600만 754명을 돌파했다. 개봉 이후 장기 흥행을 이어가고 있는 '서울의 봄'은 2023년 유일하]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[영화·드라마로 보는 근현대사]]></title>
+        <id>https://v.daum.net/v/20231209073002064</id>
+        <link href="https://v.daum.net/v/20231209073002064"/>
+        <updated>2023-12-08T23:10:52.477Z</updated>
+        <content type="html"><![CDATA[[이거 봤어?] 넘치는 콘텐츠 시대, OTT 속 수많은 작품들은 어딘가의 관상용 전시품처럼 느껴지기도 합니다. 포스터만 훑다가 뒤로가기 누르지 않도록, 신작부터 추억의 프로그램까지 모두 살펴보는 시간을 가져봅니다. 오늘도 OTT의 작품 목록만 스크롤 하는 당신, 이건 어때요? (엑스포츠뉴스 윤현지 기자) 영화 '서울의 봄'(감독 김성수)가 흥행 가도]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이덕화부터 황정민까지…‘분노 유발’ 역대 전두환 역할 배우는]]></title>
         <id>https://v.daum.net/v/20231209070026858</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20231208163202069"/>
         <updated>2023-12-08T08:14:44.282Z</updated>
         <content type="html"><![CDATA[[텐아시아=이하늘 기자] 2021년 영화 '듄: 파트1'이 공개된 이후, 일명 듄친자들이라는 수식어를 불러 모았던 드니 빌뇌브 감독의 '듄: 파트2'가 2024년 2월 국내 개봉한다. 8일 서울 용산구 CGV 용산아이파크몰에서 영화 '듄: 파트2' 푸티지 시사 및 기자 간담회가 열렸다. 행사에는 드니 빌뇌브 감독이 참석했다. '듄: 파트2'는 자신의&nbsp;능]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[레전드 애니메이션 '엔드 오브 에반게리온' 내년 1월 17일 개봉 확정]]></title>
-        <id>https://v.daum.net/v/20231208162703960</id>
-        <link href="https://v.daum.net/v/20231208162703960"/>
-        <updated>2023-12-08T08:14:44.282Z</updated>
-        <content type="html"><![CDATA['신세기 에반게리온' TV 시리즈의 완결판이자 극장판인 '엔드 오브 에반게리온'이 내년 1월 17일 국내 최초 개봉을 확정 짓고 메인 포스터와 보도스틸을 공개했다. [총감독: 안노 히데아키  감독: 츠루마키 카즈야  음악: 사기스 시로  수입: 미라지 엔터테인먼트  배급: (주)라이크콘텐츠  개봉: 2024년 1월 17일] 1990년대 일본 애니메이션을]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[흑인 인어공주·라틴 백설공주 "증오, 무시할 것"]]></title>
-        <id>https://v.daum.net/v/20231208162030814</id>
-        <link href="https://v.daum.net/v/20231208162030814"/>
-        <updated>2023-12-08T08:14:44.284Z</updated>
-        <content type="html"><![CDATA[[TV리포트=김현재 기자] 흑인 인어공주와 라틴 백설공주가 만났다. 7일(현지 시각), 미국 매체 '버라이어티'는 배우 할리 베일리, 레이첼 지글러와 함께 한 인터뷰 내용을 공개했다. 둘은 디즈니 실사 영화인 '인어공주'와 '백설공주'의 주인공을 맡았다. 그들은 영화 촬영 중 감사함을 느꼈으나, 대중으로부터 비난을 받아야 했다며 남다른 고충을 공유했다.]]></content>
     </entry>
 </feed>
