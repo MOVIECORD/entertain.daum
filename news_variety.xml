@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/variety</id>
     <title>다음 연예 ─ 뉴스 ─ 예능</title>
-    <updated>2023-12-08T09:11:36.933Z</updated>
+    <updated>2023-12-08T10:12:27.197Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[크러쉬, 게임 중에도 ♥조이 생각 뿐..조이 노래 부르고 고개 푹]]></title>
+        <id>https://v.daum.net/v/20231208185358445</id>
+        <link href="https://v.daum.net/v/20231208185358445"/>
+        <updated>2023-12-08T10:12:17.584Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 | 이시호 기자] /사진=유튜브 '할명수' 캡처가수 크러쉬가 게임에서 레드벨벳 조이의 노래를 불렀다. 8일 유튜브 채널 '할명수'에는 '[명수네 민박] MT 재밌는 거였네.. 내향인들 E자아 발현시키는 게임지옥에 오신 걸 환영합니다'라는 제목의 영상이 게재됐다. 영상에서 박명수는 더보이즈 큐와 현재, 데프콘, 김대호 아나운서, 크러쉬와 함께]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["100% 확신" 김대호vs덱스, 대상만큼 치열…MBC 신인상 누구]]></title>
+        <id>https://v.daum.net/v/20231208183002068</id>
+        <link href="https://v.daum.net/v/20231208183002068"/>
+        <updated>2023-12-08T10:12:17.584Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 이예진 기자) 대상만큼이나 치열하다. &nbsp;'2023 MBC 연예대상' 신인상으로 덱스와 김대호의 대결 구도가 펼쳐져 이목을 모은다. 올 한해 김대호와 덱스는 MBC에서 활발히 활약했다. 먼저 김대호는 MBC 사내 유튜브 '뉴스안하니', '14F 일사에프'의 ‘4춘기’ 코너에 출연해 이목을 끌었고, 이후 '나 혼자 산다'에서 정점을]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김준호 '우정 반지' 뺀 장동민에 분노 "항상 끼기로 했잖아"]]></title>
         <id>https://v.daum.net/v/20231208180106594</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20231208161046600"/>
         <updated>2023-12-08T08:14:53.834Z</updated>
         <content type="html"><![CDATA[[뉴스엔 김명미 기자] 김남일이 정규직 야망을 드러낸다. 12월 10일 방송될 JTBC ‘뭉쳐야 찬다 3’에서는 ‘어쩌다벤져스’ 신입 입단 테스트가 계속된다. 이번에는 축구인 추천 전형으로 대한민국 축구 국가대표 주장 출신 구자철을 비롯한 축구인들이 보장하는 인재들의 등장을 예고해 기대감이 높아지고 있다. 특히 든든한 지원군 구자철의 응원에 힘입어 37년]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['어쩌다 사장3' 조인성, 고민 많았다..주민들에 사과 "이해 감사"]]></title>
-        <id>https://v.daum.net/v/20231208160552436</id>
-        <link href="https://v.daum.net/v/20231208160552436"/>
-        <updated>2023-12-08T07:10:29.393Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 | 최혜진 기자] 조인성/사진=tvN 어쩌다 사장3'어쩌다 사장3'에서 배우 조인성이 남모를 고민을 공개했다. 조인성은 지난 7일 방송된 tvN 예능 프로그램 '어쩌다 사장3' 7회에서 한인 마트 영업 3일 차를 보내며 알게 모르게 신경을 써야 했던 말 못 했던 고민을 털어놨다. 이날 조인성은 늘 그렇듯 조용하고 덤덤하지만, 누구보다 분주하]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[엄홍길, 천하의 박원숙도 지적하는 카리스마]]></title>
-        <id>https://v.daum.net/v/20231208155350004</id>
-        <link href="https://v.daum.net/v/20231208155350004"/>
-        <updated>2023-12-08T07:10:29.393Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 김명미 기자] 엄홍길 대장이 '같이 삽시다'에 뜬다. 12월 10일 방송되는 KBS 2TV '박원숙의 같이 삽시다'에는 엄홍길 대장이 출연한다. 명성황후 생가에 이어 조선의 역사가 살아 숨 쉬는 곳, 세종대왕릉에 방문한 자매들. 자매들 모두 엄홍길 대장을 만날 생각에 각자만의 스타일로 만반의 준비를 한 모습을 보였다. 특히 엄 대장의 찐팬이라는]]></content>
     </entry>
 </feed>

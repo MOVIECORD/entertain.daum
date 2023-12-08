@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-12-08T09:11:36.934Z</updated>
+    <updated>2023-12-08T10:12:27.188Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['혼례대첩' 로운·조이현 끌고 조한철·박지영 민다..후반 역승 이유]]></title>
+        <id>https://v.daum.net/v/20231208182445979</id>
+        <link href="https://v.daum.net/v/20231208182445979"/>
+        <updated>2023-12-08T10:12:13.304Z</updated>
+        <content type="html"><![CDATA[[OSEN=장우영 기자] 종영까지 단 5회만을 앞둔 ‘혼례대첩’이 후반부 더욱 활활 타오르는 열기에 대한 이유 3가지를 전했다. KBS2 월화드라마 ‘혼례대첩’(극본 하수진, 연출 황승기 김수진)은 지난 8회부터 다시 월화극 1위를 탈환, 2주 연속 월화극 왕좌를 놓치지 않으며 경쟁자 없는 월화극 최강자로 자리매김했다. 방송 직후 ‘실시간 검색어’ 등극]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[홍예지, 가족 잃고 복수의 칼날 가는 자객 변신]]></title>
         <id>https://v.daum.net/v/20231208170320981</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231208151431921"/>
         <updated>2023-12-08T06:15:10.496Z</updated>
         <content type="html"><![CDATA[[OSEN=최나영 기자]&nbsp;배우 홍예지의 다채로운 매력이 담긴&nbsp;‘환상연가’&nbsp;캐릭터 티저가 공개됐다.&nbsp; 내년&nbsp;1월&nbsp;2일 첫 방송을 앞둔&nbsp;KBS 2TV&nbsp;새 월화드라마&nbsp;‘환상연가’(극본 윤경아&nbsp;/&nbsp;연출 이정섭&nbsp;/&nbsp;제작 몬스터유니온,&nbsp;판타지오)는 상반된 두 인격을 가진 남자와 그 남자를 사랑한 여자,&nbsp;풋풋한 사랑과 지독한 집착을 넘나드는 판타지 사극 로맨스로 동]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘소년시대’ 두들겨 맞은 임시완, 봄날 끝났나]]></title>
-        <id>https://v.daum.net/v/20231208150810698</id>
-        <link href="https://v.daum.net/v/20231208150810698"/>
-        <updated>2023-12-08T06:15:10.496Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 이민지 기자] '찌질이' 임시완의 봄날이 끝난걸까. 12월 8일 공개되는 쿠팡플레이 시리즈 '소년시대' 5,6회에서는 기억을 되찾은 진짜 아산 백호 경태(이시우 분)로 인해 가짜 아산 백호 병태(임시완 분)를 둘러싼 모든 인물들의 관계성에 커다란 변화가 찾아온다. '소년시대'는 1989년 충청남도, 안 맞고 사는 게 일생일대의 목표인 온양 찌]]></content>
     </entry>
 </feed>
