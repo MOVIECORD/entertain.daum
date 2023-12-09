@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2023-12-09T19:08:40.208Z</updated>
+    <updated>2023-12-09T20:10:48.919Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['연인' 김서안 "남궁민과 호흡, 긴장의 끈 안 놓았죠"]]></title>
+        <id>https://v.daum.net/v/20231210050023566</id>
+        <link href="https://v.daum.net/v/20231210050023566"/>
+        <updated>2023-12-09T20:10:43.046Z</updated>
+        <content type="html"><![CDATA[[서울=뉴시스] 최지윤 기자 = 배우 김서안(25)은 MBC TV 종방극 '연인'을 통해 자신감을 얻었다. 상대역인 남궁민(45)과 연기하며 긴장을 늦출 수 없었지만, 신인 답지 않은 안정적인 연기력을 선보였다. '보쌈-운명을 훔치다'(2021)에 이어 두 번째 사극이다. 기생 '영랑'으로 분해 '장헌'(남궁민)과 호흡하며 극의 재미를 더했다. 첫 지]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[오윤아, 소멸할 것 같은 얼굴 '12등신' 비율 시선 집중]]></title>
+        <id>https://v.daum.net/v/20231210045716532</id>
+        <link href="https://v.daum.net/v/20231210045716532"/>
+        <updated>2023-12-09T20:10:43.060Z</updated>
+        <content type="html"><![CDATA[[OSEN=오세진 기자] 배우 오윤아가 남다른 모델 비율을 뽐냈다. 9일 오윤아는 자신의 계정에 "즐거웠던 시간"이라는 글귀와 함께 여러 장의 사진을 공개했다. 행사장에 차여한 오윤아는 부드러운 브라운 재킷에 딱 달라붙는 스커트와 따뜻한 날씨를 의식한 듯 훤히 드러난 각선미를 자랑할 수 있는 맨살에 힐을 신었다. 오윤아는 유독 작은 얼굴이며 큰 키를 한]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['54세' 엄정화, 파격 무대 의상···심진화 "우리의 디바"]]></title>
         <id>https://v.daum.net/v/20231210034520492</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20231209232806991"/>
         <updated>2023-12-09T15:10:02.726Z</updated>
         <content type="html"><![CDATA[[티브이데일리 김지현 기자] '마에스트라'의 이영애가 여성 지휘자의 등장에 술렁이는 단원들을 카리스마로 제압했다. 9일 첫 방송된 tvN 토일드라마 '마에스트라'에서는 여성지휘자 차세음(이영애)이 단원들 앞에 처음으로 섰다. 여성지휘자를 처음 본 단원들은 술렁였다. 지휘자 차세음은 더 한강 필하모닉을 지휘하기 위해 20년 만에 고국인 한국으로 돌아왔다. 지]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[신혜선, 바다에 빠진 지창욱 구하러 주저없이 입수…"나 부끄러"]]></title>
-        <id>https://v.daum.net/v/20231209225557775</id>
-        <link href="https://v.daum.net/v/20231209225557775"/>
-        <updated>2023-12-09T14:09:28.682Z</updated>
-        <content type="html"><![CDATA[[스포츠조선닷컴 김준석 기자] 신헤선이 지창욱을 구하려 주저 없이 입수했다. 9일 방송된 JTBC 토일드라마 '웰컴투 삼달리'에서는 조용필(지창욱)이조삼달(신혜선)을 구하고 바다에 빠졌다. 이날 서울로 향한 조용필과 조삼달, 왕경태(이재원), 차은우(배명진)은 알바를 하면서 힘들게 서울생활을 하고 있었다. 결국 왕경태와]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이영애, 단원들 보이콧에 일침 "내가 온 이상 최고가 될 것"]]></title>
-        <id>https://v.daum.net/v/20231209224703738</id>
-        <link href="https://v.daum.net/v/20231209224703738"/>
-        <updated>2023-12-09T14:09:28.685Z</updated>
-        <content type="html"><![CDATA[[스포츠투데이 송오정 기자] '마에스트라' 이영애가 독단적이고 냉철한 실력자 면모를 그려냈다. 9일 첫 방송된 tvN '마에스트라'에서 차세음(이영애)이 더 한강 필하모닉에 변화의 바람을 몰고 오면서 단원들과 갈등했다. 여성 지휘자는 5%도 되지 않는 업계에서 세계적으로 유명한 지휘자인 차세음은 돌연 한국으로 돌아왔다. 그러나 이미 부지휘자가 상임 지휘자로]]></content>
     </entry>
 </feed>

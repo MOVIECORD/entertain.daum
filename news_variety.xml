@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/variety</id>
     <title>다음 연예 ─ 뉴스 ─ 예능</title>
-    <updated>2023-12-09T19:08:40.195Z</updated>
+    <updated>2023-12-09T20:10:48.915Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[서현진, 현실 육아 고충 "5살 子 상대하기 힘들어"]]></title>
+        <id>https://v.daum.net/v/20231210045000527</id>
+        <link href="https://v.daum.net/v/20231210045000527"/>
+        <updated>2023-12-09T20:10:38.426Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 | 김노을 기자] /사진=MBN 방송화면서현진 전 아나운서가 5세 아들을 키우는 육아 고충을 토로했다. 지난 9일 방송된 MBN 교양 프로그램 '속풀이쇼 동치미'에서는 서현진이 출연했다. 이날 MC 최은경은 "서현진의 아들이 벌써 5세가 됐다. 다른 집 아이들은 빨리 크는 것 같다"고 운을 뗐다. 이에 서현진은 "처음에는 아이를 낳고 회복하]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[권은비, 수입 얼마나 좋길래..120만 원 시계 플렉스 “혼수로 가져갈 것”]]></title>
         <id>https://v.daum.net/v/20231210005531336</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231209234152046"/>
         <updated>2023-12-09T15:09:57.330Z</updated>
         <content type="html"><![CDATA[가수 현진우가 솔직한 육아 고충을 털어놨다. 12월 9일 방송된 MBN ‘속풀이쇼 동치미’에서 가수 현진우는 6남매를 키우는 고충을 말했다. 이날 방송에서는 아나운서 출신 방송인 서현진, 축구선수 출신 해설위원 박주호, 가수 현진우가 비슷한 나이 또래 아이들을 키우는 고충을 말했다. 먼저 서현진이 5살 자녀가 말상대가 되며 하루에 12번도 더 질문을]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[자이언티 개성 가득 집 최초 공개 “곳곳에 귀여운 아이템”]]></title>
-        <id>https://v.daum.net/v/20231209233607013</id>
-        <link href="https://v.daum.net/v/20231209233607013"/>
-        <updated>2023-12-09T15:09:57.332Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 서유나 기자] 가수 자이언티의 개성 가득한 집이 최초 공개됐다. 12월 9일 방송된 MBC 예능 '전지적 참견 시점'(이하 '전참시') 276회에서는 자이언티의 일상이 공개됐다. 이날 자이언티는 늦은 오후 하루를 시작했다. 이불 속에 파묻혀 등장한 자이언티는 한참동안 A.I와 대화하다가 겨우 몸을 일으켰는데. 그러면서 직접 인테리어에 참여했]]></content>
     </entry>
 </feed>
