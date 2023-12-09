@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2023-12-09T20:10:48.919Z</updated>
+    <updated>2023-12-09T21:09:24.966Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[방탄소년단 진의 특별한 생일♥ 최애돌 '기부요정' 등극]]></title>
+        <id>https://v.daum.net/v/20231210060348918</id>
+        <link href="https://v.daum.net/v/20231210060348918"/>
+        <updated>2023-12-09T21:09:20.286Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 | 문완식 기자] 방탄소년단(BTS) 진이 생일을 맞아 '최애돌' 기부 요정으로 선정되며 의미를 더했다. 진은 생일인 12월 4일에 팬들의 뜨거운 응원과 지지로 1억 7078만 2610개의 하트를 받아 남자 개인 순위 1위에 등극, 동시에 제546대 기부 요정으로 선정됐다. '최애돌'은 최근 30일 동안의 누적 순위를 환산해 1위를 달성]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['연인' 김서안 "남궁민과 호흡, 긴장의 끈 안 놓았죠"]]></title>
         <id>https://v.daum.net/v/20231210050023566</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231209233333006"/>
         <updated>2023-12-09T15:10:02.725Z</updated>
         <content type="html"><![CDATA[(서울=뉴스1) 강현명 기자 = '전참시' 자이언티가 AI 인공지능과 함께하는 일상을 공개했다. 9일 오후 11시10분 방송되는 MBC 예능 프로그램 '전지적 참견 시점'(이하 '전참시')에서는 권은비, 자이언티가 출연해 일상을 공개했다. 이날 자이언티는 하루종일 함께 하는 존재를 공개했다. 자이언티는 일어나자마자 "자기야 잘잤어?"라고 말해 모두를 놀]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['마에스트라' 이영애, 독보적 카리스마로 단원들 제압]]></title>
-        <id>https://v.daum.net/v/20231209232806991</id>
-        <link href="https://v.daum.net/v/20231209232806991"/>
-        <updated>2023-12-09T15:10:02.726Z</updated>
-        <content type="html"><![CDATA[[티브이데일리 김지현 기자] '마에스트라'의 이영애가 여성 지휘자의 등장에 술렁이는 단원들을 카리스마로 제압했다. 9일 첫 방송된 tvN 토일드라마 '마에스트라'에서는 여성지휘자 차세음(이영애)이 단원들 앞에 처음으로 섰다. 여성지휘자를 처음 본 단원들은 술렁였다. 지휘자 차세음은 더 한강 필하모닉을 지휘하기 위해 20년 만에 고국인 한국으로 돌아왔다. 지]]></content>
     </entry>
 </feed>
