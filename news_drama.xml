@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-12-09T03:11:48.874Z</updated>
+    <updated>2023-12-09T04:13:13.654Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['마이 데몬' 김유정X송강, 입덕 부정기 끝? 계약 결혼 돌입…'눈호강 비주얼' 웨딩 스틸 공개]]></title>
+        <id>https://v.daum.net/v/20231209131240176</id>
+        <link href="https://v.daum.net/v/20231209131240176"/>
+        <updated>2023-12-09T04:13:01.230Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 양유진 기자] ‘마이 데몬’ 김유정, 송강이 드디어 계약 결혼을 한다. 9일 SBS 금토드라마 ‘마이 데몬’ 측은 도도희(김유정)와 구원(송강)의 그림 같은 결혼식 현장을 공개했다. 지난 방송에서는 구원이 ‘도도희 입덕 부정기’에 돌입했다. 구원은 ‘악생’ 처음으로 느낀 낯선 감정에 혼란스러웠고, 도도희 역시 갑작스럽게 벽을 치는 구원의]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[차학연 "빅스, 끝까지 조율…무대 갈증 多, 피가 끓는다"]]></title>
         <id>https://v.daum.net/v/20231209115014632</id>
@@ -20,7 +27,7 @@
         <content type="html"><![CDATA[(엑스포츠뉴스 조혜진 기자) ([엑's 인터뷰①]에 이어) '무인도의 디바' 차학연이 자신이 연기한 강우학의 절절한 짝사랑에 공감했다고 밝혔다.&nbsp; 차학연은 최근 종영한 tvN 토일드라마 '무인도의 디바'(극본 박혜련 은열, 연출 오충환)에서 &nbsp;밝고 거침없는 성격의 사회부 기자 강우학 역을 맡아 열연했다.&nbsp; 그는 강우학의 매력에 대해 "낙차가 크지 않나. 연]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[차학연 "'소속사 대표' 소지섭 칭찬에 종일 웃음…욕심도 생겼죠"]]></title>
+        <title type="html"><![CDATA[차학연 "소지섭 칭찬에 종일 웃음…주인공 욕심도 생겼죠"]]></title>
         <id>https://v.daum.net/v/20231209115002630</id>
         <link href="https://v.daum.net/v/20231209115002630"/>
         <updated>2023-12-09T03:11:34.528Z</updated>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231209084106614"/>
         <updated>2023-12-09T00:48:25.307Z</updated>
         <content type="html"><![CDATA[[뉴스엔 박수인 기자] 마에스트라 이영애가 신입 단원을 악장 자리에 앉혀 오케스트라가 발칵 뒤집힌다. 12월 9일 첫 방송될 tvN 새 토일드라마 ‘마에스트라’(극본 최이윤, 홍정희/ 연출 김정권/ 기획 스튜디오드래곤/ 제작 래몽래인, 그룹에이트)에서는 20년 만에 고국으로 돌아온 세계적인 마에스트라 차세음과 삼류 오케스트라 더 한강필의 기 싸움이 펼쳐진]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[떡진 머리 자른 이영애, 1%대 쓴맛 '구경이' 만회할까…'마에스트라'에 쏠린 시선]]></title>
-        <id>https://v.daum.net/v/20231209083302563</id>
-        <link href="https://v.daum.net/v/20231209083302563"/>
-        <updated>2023-12-09T00:48:25.310Z</updated>
-        <content type="html"><![CDATA[[텐아시아=태유나 기자] 배우 이영애가 천재적인 여성 지휘자로 돌아온다. '구경이'에서 제대로 망가짐을 보여줬다면, 이번 '마에스트라'에서는 압도적인 카리스마로 새 얼굴을 갈아 끼웠다. 김명민의 '강마에' 바통을 이어받는 '차마에' 이영애에게 대중의 시선이 쏠리는 가운데, 전작에서의 부진했던 성적 역시 탈피할 수 있을지 이목이 쏠린다.&nbsp; 이영애는 9일]]></content>
     </entry>
 </feed>
