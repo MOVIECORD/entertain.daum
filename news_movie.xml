@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-12-09T22:10:07.904Z</updated>
+    <updated>2023-12-09T23:10:57.363Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[비참한 현실에서 피워낸 웃음…영화 '사랑은 낙엽을 타고']]></title>
+        <id>https://v.daum.net/v/20231210080009873</id>
+        <link href="https://v.daum.net/v/20231210080009873"/>
+        <updated>2023-12-09T23:10:41.309Z</updated>
+        <content type="html"><![CDATA[(서울=연합뉴스) 이영재 기자 = 아무나 무대에 올라 노래할 수 있는 가라오케 바에서 누군가가 슈베르트의 세레나데를 부른다. 친구를 따라 이곳에 온 안사(알마 포이스티 분)가 처음 보는 남자 홀라파(주시 바타넨)와 눈이 마주친다. 두 사람은 불에 데기라도 한 듯 황급히 눈을 딴 데로 돌린다. 그러다가 또 눈이 마주치고, 시선을 돌리기를 반복한다. 핀란드]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['3일의 휴가' 감독 "그리운 엄마의 냄새, 뒤늦게 깨닫는 부모 마음"]]></title>
         <id>https://v.daum.net/v/20231210070016489</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231209110055203"/>
         <updated>2023-12-09T02:21:33.061Z</updated>
         <content type="html"><![CDATA['천만 영화'를 향해 진격하는 '서울의 봄'부터 이순신 3부작의 완결편 '노량'까지, 대작들이 내걸리는 겨울 극장가의 틈새는 작은 영화가 덥힌다. 저승에서 휴가 얻어 이승의 딸 찾아온 '엄마 귀신'을 그린 한국 영화 '3일의 휴가'(감독 육상효), 한국 드라마 속 장소를 따라가는 패키지 여행길에서 자아 찾는 싱가포르 엄마의 '아줌마'(감독 허슈밍)다. 너무]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[관객 호구 만든 2023 텐트폴 영화, 초스피드 OTT행 무엇이 문제일까]]></title>
-        <id>https://v.daum.net/v/20231209091503020</id>
-        <link href="https://v.daum.net/v/20231209091503020"/>
-        <updated>2023-12-09T00:48:20.201Z</updated>
-        <content type="html"><![CDATA[[텐아시아=최지예 기자]≪최지예의 에필로그≫ 최지예 텐아시아 기자가 연예계 곳곳에서 일어난 사건들을 객관적이고 예리하게 짚어냅니다. 당신이 놓쳤던 '한 끗'을 기자의 시각으로 정밀하게 분석합니다.이른바 텐트폴이라 불린 2023 여름 대작 영화 네 편이 모두 OTT 플랫폼에 풀렸다. 지난 여름만 해도 극장에 가야 볼 수 있었던 영화들이 짧게는 개봉 후 3주,]]></content>
     </entry>
 </feed>
