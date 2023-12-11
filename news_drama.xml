@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-12-11T10:13:03.180Z</updated>
+    <updated>2023-12-11T11:10:17.371Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['세번째 결혼' 오승아, 친모 윤해영에 "母에 버림받은 느낌, 다신 안 봐"]]></title>
+        <id>https://v.daum.net/v/20231211194530294</id>
+        <link href="https://v.daum.net/v/20231211194530294"/>
+        <updated>2023-12-11T11:10:04.917Z</updated>
+        <content type="html"><![CDATA[[TV리포트=이혜미 기자] 윤해영이 오승아의 아픔을 헤아렸다. 이들은 친 모녀관계다. 11일 MBC ‘세 번째 결혼’에선 해일(윤해영 분)이 친모란 사실을 모른 채 어머니에게 버림 받은 기분이라며 마음 속 아픔을 털어놓는 다정(오승아 분)의 모습이 그려졌다. 이날 덕수(안내상 분)는 해일과의 만남을 기약했으나 해일은 약속 장소에 나오지 않은 바. 이에 덕수]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이정은의 집요함…"역할 위해 10kg 감량, 뺑소니범 직접 잡아"]]></title>
         <id>https://v.daum.net/v/20231211185003384</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231211164622102"/>
         <updated>2023-12-11T08:14:52.776Z</updated>
         <content type="html"><![CDATA[이정은(사진=티빙)[이데일리 스타in 최희재 기자] “‘정신병동에도 아침이 와요’ 때랑 비교해 보시면 될 거예요.(웃음)” 11일 오전 서울시 종로구에 위치한 한 카페에서 진행된 티빙 오리지널 ‘운수 오진 날’ 인터뷰에서 배우 이정은이 연기에 중점을 둔 부분을 밝혔다. ‘운수 오진 날’은 평범한 택시기사 오택(이성민 분)이 고액을 제시하는 묵포행 손님(유]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘운수 오진 날’ 이정은 “원래는 父 역할…분량 생각 안 했다” ①]]></title>
-        <id>https://v.daum.net/v/20231211164506054</id>
-        <link href="https://v.daum.net/v/20231211164506054"/>
-        <updated>2023-12-11T08:14:52.776Z</updated>
-        <content type="html"><![CDATA[이정은(사진=티빙)[이데일리 스타in 최희재 기자] “대본을 처음 받았을 때 이 역할이 아버지 쪽으로 쓰여져있다는 걸 눈치챘죠.” 11일 오전 서울시 종로구에 위치한 한 카페에서 진행된 티빙 오리지널 ‘운수 오진 날’ 인터뷰에서 배우 이정은이 ‘운수 오진 날’은 평범한 택시기사 오택(이성민 분)이 고액을 제시하는 묵포행 손님(유연석 분)을 태우고 가다]]></content>
     </entry>
 </feed>
