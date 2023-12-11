@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2023-12-11T16:15:01.434Z</updated>
+    <updated>2023-12-11T17:10:48.649Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이규형, 포텐 터졌다...뮤지컬부터 예능→영화까지 맹활약]]></title>
+        <id>https://v.daum.net/v/20231212020030285</id>
+        <link href="https://v.daum.net/v/20231212020030285"/>
+        <updated>2023-12-11T17:10:43.355Z</updated>
+        <content type="html"><![CDATA[[TV리포트=김연주 기자] 배우 이규형이 매체와 장르를 넘나들며 열일 행보를 이어가고 있다.&nbsp; 이규형은 뮤지컬 '몬테크리스토'에 이어 tvN 예능 '장사천재 백사장2'와 영화 '노량: 죽음의 바다'까지, 무대와 안방극장, 스크린까지 점령하며 만능테이너로서 열일 활약을 펼치고 있다.&nbsp; 먼저, 뮤지컬 '몬테크리스토'의 막을 올린 이규형은 전도 유망했던 젊은 선]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김숙, 몸무게 60kg 찍었다.. 양치승 “돼지 체지방량보다 높아”]]></title>
         <id>https://v.daum.net/v/20231212010038157</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231211234642628"/>
         <updated>2023-12-11T15:12:44.990Z</updated>
         <content type="html"><![CDATA[[스포츠서울 | 김태형기자] 배우 안세하가 결혼 생활을 공개했다. 11일 방송된 SBS ‘동상이몽 2 - 너는 내 운명’에는 안세하, 전은지 부부가 출연했다. 앞서 안세하는 스페셜 MC로 출연했을 당시 11년간 짝사랑한 아내의 무뚝뚝한 면모를 하소연한 바 있다. 그는 데뷔 13년 만에 ‘냉미녀’ 아내 전은지 씨와 두 딸을 공개했다. 결]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['동상이몽2' 안세하 "스킨십 습관적, 아내 거부에 마지막 키스 기억 無"]]></title>
-        <id>https://v.daum.net/v/20231211234502611</id>
-        <link href="https://v.daum.net/v/20231211234502611"/>
-        <updated>2023-12-11T15:12:44.991Z</updated>
-        <content type="html"><![CDATA[[스포츠투데이 서지현 기자] '동상이몽2-너는 내 운명' 안세하가 부부간 스킨십에 대한 생각을 밝혔다. 11일 밤 방송된 SBS '동상이몽2-너는 내 운명'(이하 '동상이몽2')에서는 결혼 7년 차 배우 안세하와 아내 전은지의 일상이 그려졌다. 이날 안세하는 출근 준비하는 전은지의 곁에 붙어 포옹을 하며 스킨십을 시도했으나 번번이 거절당했다. 이에 대해 안]]></content>
     </entry>
 </feed>
