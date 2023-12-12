@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-12-12T07:10:34.318Z</updated>
+    <updated>2023-12-12T08:15:10.669Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['밤이 되었습니다', 오픈 2주 차 흥행..넷플릭스 TOP10 3위 진입]]></title>
+        <id>https://v.daum.net/v/20231212170716598</id>
+        <link href="https://v.daum.net/v/20231212170716598"/>
+        <updated>2023-12-12T08:14:56.859Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 | 이경호 기자] 드라마 '밤이 되었습니다'/사진제공=이오콘텐츠그룹, 이오엔터테인먼트, STUDIO X+U글로벌 IP 콘텐츠 스튜디오' 이오콘텐츠그룹(대표 오은영)이 제작한 드라마 '밤이 되었습니다'가 오픈 2주 차 흥행 돌풍을 일으키고 있다. '밤이 되었습니다'는 종료가 불가능한 의문의 마피아 게임에 강제로 참여하게 된 유일고 2학년 3반의]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“모든건 시즌3에” ‘스위트홈2, 3’ 동시 촬영 독이었나]]></title>
+        <id>https://v.daum.net/v/20231212161722676</id>
+        <link href="https://v.daum.net/v/20231212161722676"/>
+        <updated>2023-12-12T08:14:56.861Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 이민지 기자] ※ 스포일러가 포함돼 있습니다 뜨거운 기대 속에 출발한 넷플릭스 시리즈 '스위트홈' 시즌2가 기대 이하의 성적을 기록 중이다. 지난 12월 1일 전세계 공개된 '스위트홈'은 욕망이 괴물이 되는 세상, 그린홈을 떠나 새로운 터전에서 살아남기 위해 각자의 사투를 벌이는 차현수(송강 분)와 그린홈의 생존자들 그리고 또 다른 존재의 등장]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['스위트홈2' 진영 "분신괴물로 변신해 음악, 연기, 운동 모두 열심히 하고 싶어"]]></title>
         <id>https://v.daum.net/v/20231212160204125</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20231212141643060"/>
         <updated>2023-12-12T06:14:28.732Z</updated>
         <content type="html"><![CDATA[[스타뉴스 | 이승훈 기자] /사진=킹콩 by 스타쉽배우 유연석의 놀라움에 끝이 없다. 지난 8일 티빙 오리지널 시리즈 '운수 오진 날' Part2(7~10화) 전편이 티빙에서 공개된 동시에 유연석을 향한 호평이 끊이지 않고 있다. 금혁수(유연석 역)가 오택(이성민 역)을 좌지우지하던 Part1(1~6화)과 정반대로 공수가 완전히 뒤바뀐 상황에서 유연석의]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘고려 거란 전쟁’ 부부 케미스트리부터 브로맨스까지]]></title>
-        <id>https://v.daum.net/v/20231212140003350</id>
-        <link href="https://v.daum.net/v/20231212140003350"/>
-        <updated>2023-12-12T05:11:16.367Z</updated>
-        <content type="html"><![CDATA[매회 자체 시청률을 경신하고 있는 ‘고려 거란 전쟁’이 ‘케미스트리 맛집’으로 떠오르고 있다. 매주 토, 일요일 방송되는 KBS2 대하드라마 ‘고려 거란 전쟁’이 스피디한 전개 속 흥미진진한 인물 관계성으로 흥미를 유발하고 있다. ‘고려 거란 전쟁’이 ‘케미 맛집’으로 떠오른 이유는 고려와 거란의 전쟁을 더욱 풍성하게 만드는 흥미로운 인물들이 포진되]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[유연석의 두 얼굴…피범벅 얼굴 어디가고, 확 달라졌네]]></title>
-        <id>https://v.daum.net/v/20231212135018961</id>
-        <link href="https://v.daum.net/v/20231212135018961"/>
-        <updated>2023-12-12T05:11:16.368Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 이예진 기자) '운수 오진 날' 유연석의 놀라움에 끝이 없다. 지난 8일, 티빙 오리지널 시리즈 ‘운수 오진 날’(연출 필감성, 극본 김민성·송한나, 기획 스튜디오드래곤, 제작 더그레이트쇼·스튜디오N, 제공 티빙) Part2(7~10화) 전편이 티빙에서 공개된 동시에 유연석을 향한 호평이 끊이지 않고 있다. ‘금혁수’(유연석 역)가 ‘오택’(]]></content>
     </entry>
 </feed>
