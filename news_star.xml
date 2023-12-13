@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2023-12-13T18:12:37.950Z</updated>
+    <updated>2023-12-13T19:09:48.104Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘마마 어워즈’ 도쿄에서 한 이유… K팝은 글로벌 대세]]></title>
+        <id>https://v.daum.net/v/20231214040441721</id>
+        <link href="https://v.daum.net/v/20231214040441721"/>
+        <updated>2023-12-13T19:09:43.069Z</updated>
+        <content type="html"><![CDATA[콘서트에 팬미팅, 음악방송 직캠, 자체콘텐츠 등 좋아하는 아티스트를 볼 수 있는 통로와 방법은 계속해서 다양해지고 있다. 그럼에도 매 연말이면 가요 시상식은 어김없이 열린다. 무대를 기획하는 PD들은 어떤 고민을 하고 있을까. 지난달 28~29일 일본 도쿄돔에서 열린 ‘2023 마마 어워즈’의 연출을 맡은 이영주, 신유선 PD를 지난 12일 만났다. 시상]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['라디오스타' 헤이즈, "원래 10CM에게 드린 곡" 새 타이틀곡 비하인드→숨기고 싶은 '댄스가수' 과거 고백]]></title>
+        <id>https://v.daum.net/v/20231214035114632</id>
+        <link href="https://v.daum.net/v/20231214035114632"/>
+        <updated>2023-12-13T19:09:43.069Z</updated>
+        <content type="html"><![CDATA[(MHN스포츠 김효빈 인턴기자) 헤이즈가 싸이의 입김이 작용한 타이틀곡&nbsp; '입술' 선정 비하인드 댄스가수로 변신했던 과거를 고백하며 솔직한 입담을 뽐냈다. 13일 오후 10시 30분 MBC '라디오스타'에는 김상욱, 하석진, 이시원, 헤이즈가 출연하는 '지니어스 플랜' 특집으로 꾸며진다. 지난 7일 미니 8집 'Last Winter'를 발매한]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘나는 솔로’ 18기 역대급 비주얼→잔인한 6순위 첫인상 선택에 초토화]]></title>
         <id>https://v.daum.net/v/20231214001803745</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20231213233100226"/>
         <updated>2023-12-13T15:12:06.079Z</updated>
         <content type="html"><![CDATA[[TV리포트=이지민 기자] '아빠하고 나하고' 강주은이 남편 최민수 때문에 분노한 심경을 생생히 전달했다. 13일 TV조선 '아빠하고 나하고'에서는 미스코리아 출신이자 배우 최민수 아내로 잘 알려진 강주은이 출연했다. 이날 오프닝에서 출연진들이 최민수의 근황을 궁금해했다. 그러자 강주은이 "요즘은 굉장히 가정적인 남자로 바뀌었다"라며 "(최민수가) 지금]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[18기 옥순, 블랙핑크 리사 닮은 비주얼로 올킬.."김옥빈도 보여"]]></title>
-        <id>https://v.daum.net/v/20231213232432168</id>
-        <link href="https://v.daum.net/v/20231213232432168"/>
-        <updated>2023-12-13T15:12:06.081Z</updated>
-        <content type="html"><![CDATA[[스포츠조선닷컴 정유나 기자] '나는 솔로' 18기에 블랙핑크 리사 닮은꼴에, 배우 임수정을 연상케 하는 상큼한 솔로녀들이 등장했다. 13일 방송된 SBS Plus, ENA '나는 솔로'에서는 18기의 '역대급 로맨스'가 시작됐다. '솔로나라 18번지'는 푸른 바다의 파도가 넘실거리는 경북 영덕에서 펼쳐졌다. 18기 솔로]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[직업은 경찰? 소방관?…'나솔' 18기 영식, 다부진 체격으로 눈길]]></title>
-        <id>https://v.daum.net/v/20231213231703111</id>
-        <link href="https://v.daum.net/v/20231213231703111"/>
-        <updated>2023-12-13T15:12:06.082Z</updated>
-        <content type="html"><![CDATA[[스포츠투데이 송오정 기자] '나는 솔로' 18기 출연자 영식(가명)이 다부진 체격과 근육으로 모두의 시선을 사로잡았다. 13일 방송된 SBS플러스, ENA '나는 SOLO'(나는 솔로) 18기의 첫 이야기가 전해졌다. 이날 영식은 차량에서 내릴 때부터 떡 벌어진 어깨와 구릿빛 피부로 MC들의 감탄을 자아냈다. 이이경, 송해나, 데프콘은 "몸 왜이렇게 좋은]]></content>
     </entry>
 </feed>
