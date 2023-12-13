@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-12-13T03:12:18.995Z</updated>
+    <updated>2023-12-13T04:13:46.219Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["나의 죽음을 적에게 알리지 말라"…'노량' 10년 대서사, 여한 없는 피날레]]></title>
+        <id>https://v.daum.net/v/20231213124624395</id>
+        <link href="https://v.daum.net/v/20231213124624395"/>
+        <updated>2023-12-13T04:13:27.789Z</updated>
+        <content type="html"><![CDATA[[스포츠조선 조지영 기자] 10년의 대서사가 마침내 끝이 났다. "나의 죽음을 적에게 알리지 말라"라는 유언을 남긴 성웅 이순신의 마지막은 온전히 쏟아낸, 여한 없는 완벽한 피날레로 관객과 뭉클한 작별을 고했다. 끝날 때까지 끝나지 않았던 이순신의 집념이 응축된 웅장한 대미다. 임진왜란 발발 후 7년, 조선에서 퇴각하려는 왜군을 완벽하게 섬멸]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[티모시 샬라메 '웡카' 내년 1월 31일 개봉…달콤한 모험이 열린다]]></title>
+        <id>https://v.daum.net/v/20231213123941295</id>
+        <link href="https://v.daum.net/v/20231213123941295"/>
+        <updated>2023-12-13T04:13:27.789Z</updated>
+        <content type="html"><![CDATA[[이데일리 스타in 김보영 기자] 영화 ‘찰리와 초콜릿 공장’ 이전, ‘윌리 웡카’가 최고의 초콜릿 메이커가 되기까지의 마법 같은 스토리를 담은 프리퀄 영화 ‘웡카’가 마침내 2024년 1월 31일 국내 개봉을 확정 짓고 티저 포스터를 13일 공개했다. 영국의 유명 작가 로알드 달의 소설을 영화화한 작품이자 전 세계 영화 팬들의 많은 사랑을 받았던 ‘찰리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[IS리뷰] ‘노량’ 장군이자 인간이었던 이순신의 마지막… 웅장하고 강렬하다 ①]]></title>
         <id>https://v.daum.net/v/20231213115525871</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20231213093700300"/>
         <updated>2023-12-13T00:49:52.320Z</updated>
         <content type="html"><![CDATA[[TV리포트=김연주 기자] 영화에 담긴 n개의 화두 가운데 함께 나누고 싶은 재미를 선별한 리뷰입니다. 사심을 담아 고른 한 편의 영화 속 단 하나의 재미, 유일무비입니다. 신파를 피하려다 감동 포인트를 놓쳐버린 153분이 그저 아쉽기만 하다. 연말을 장식할 기대작 '노량: 죽음의 바다'를 종합하면 형만 한 아우는 없다는 말이 걸맞다.&nbsp; 영화 '노량: 죽음]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[다방종업원→간호사…'천의 얼굴' 고민시, 심상찮은 신인의 등장]]></title>
-        <id>https://v.daum.net/v/20231213093603270</id>
-        <link href="https://v.daum.net/v/20231213093603270"/>
-        <updated>2023-12-13T00:49:52.320Z</updated>
-        <content type="html"><![CDATA[[텐아시아=이하늘 기자] 배우 고민시는 '높고 평탄한 곳에서 하늘을 보며 나아가라'라는 뜻의 '예담'을 자신의 호(號)로 사용한다. 조선시대의 율곡 이이, 퇴계 이황, 우암 송시열처럼 자신의 이름 앞에 호를 붙이는 여배우라니. 독특하다는 생각도 들지만, 어쩐지 자신만의 결의를 다지는 것 같은 느낌이 들기도 한다. 배우로서 '올바르게' 뚜벅뚜벅 걸어가겠다는]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘서울의 봄’ 또 1위...팬데믹 후 韓영화 톱3]]></title>
-        <id>https://v.daum.net/v/20231213092409810</id>
-        <link href="https://v.daum.net/v/20231213092409810"/>
-        <updated>2023-12-13T00:49:52.321Z</updated>
-        <content type="html"><![CDATA[‘서울의 봄’이 흥행 질주를 이어가며 1위를 지켰다. 13일 영화진흥위원회 영화관입장권 통합전산망 집계에 따르면 영화 ‘서울의 봄’(감독 김성수)은 지난 12일 19만 9975명을 동원해 박스오피스 1위에 올랐다. 누적 관객 수는 736만 2644명이다. 이는 ‘한산: 용의 출현’(726만)을 제치고 2020년 팬데믹 이후 개봉한 한국 영화 중 흥행 TOP]]></content>
     </entry>
 </feed>
