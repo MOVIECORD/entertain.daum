@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-12-14T11:13:12.081Z</updated>
+    <updated>2023-12-14T12:20:37.512Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['노량' 이무생 "김한민 감독의 현장? 군대 같았다" 너스레]]></title>
+        <id>https://v.daum.net/v/20231214202400026</id>
+        <link href="https://v.daum.net/v/20231214202400026"/>
+        <updated>2023-12-14T12:20:17.650Z</updated>
+        <content type="html"><![CDATA[[TV리포트=김연주 기자] 영화 '노량: 죽음의 바다'로 관객과 만날 예정인 배우 이무생이 김한민 감독과의 호흡을 전했다.&nbsp; 14일 오후 서울 종로구 삼청동의 한 카페에서 영화 '노량: 죽음의 바다'로 돌아온 배우 이무생과의 인터뷰가 진행됐다.&nbsp; 영화 '노량: 죽음의 바다'는 임진왜란 발발 후 7년 조선에서 퇴각하려는 왜군을 완벽하게 섬멸하기 위한 이순신]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이 조합 찬성일세! '비트'→'서울의 봄' 정우성·김성수 감독의 다섯 번째 재회]]></title>
         <id>https://v.daum.net/v/20231214201102835</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231214155636817"/>
         <updated>2023-12-14T07:10:35.374Z</updated>
         <content type="html"><![CDATA['노량' 이규형이 남다른 애국심을 드러냈다. 영화 '노량: 죽음의 바다'(감독 김한민, 이하 '노량') 개봉을 앞둔 이규형은 14일 오후 서울 종로구 삼청동에 위치한 한 카페에서 iMBC연예와 만나 인터뷰를 진행했다. '노량'은 임진왜란 발발 후 7년, 조선에서 퇴각하려는 왜군을 완벽하게 섬멸하기 위한 이순신 장군의 최후의 전투를 그린 전쟁 액션 영화]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이규형 "'백사장' 백종원, 직접 아침밥까지 감동…한국서 보다 맛있게 먹어"]]></title>
-        <id>https://v.daum.net/v/20231214155402718</id>
-        <link href="https://v.daum.net/v/20231214155402718"/>
-        <updated>2023-12-14T07:10:35.376Z</updated>
-        <content type="html"><![CDATA[[스포츠조선 안소윤 기자] 배우 이규형이 tvN 예능 '장사천재 백사장2' 촬영 분위기를 떠올렸다. 이규형은 14일 서울 종로구 삼청동 한 카페에서 스포츠조선과 만나 "'장사천재 백사장2'를 촬영하면서 힘든 점이 10분의 1도 화면에 안 담긴 것 같다"며 "백종원 선생님을 보면서 본업을 대하는 자세를 배우게 됐다"고 했다. 이규형은 무대와]]></content>
     </entry>
 </feed>
