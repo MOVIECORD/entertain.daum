@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-12-14T15:11:47.978Z</updated>
+    <updated>2023-12-14T16:12:23.322Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['시민덕희' 1월 24일 개봉 확정, 팀워크 찢었다]]></title>
+        <id>https://v.daum.net/v/20231215010330057</id>
+        <link href="https://v.daum.net/v/20231215010330057"/>
+        <updated>2023-12-14T16:12:04.094Z</updated>
+        <content type="html"><![CDATA[[TV리포트=김연주 기자] 오는 2024년을 여는 통쾌한 추적극 '시민덕희'가 1월 24일 개봉을 확정했다.&nbsp; 영화 '시민덕희'는 보이스피싱을 당한 평범한 시민 덕희에게 사기 친 조직원 재민의 구조 요청이 오면서 벌어지는 통쾌한 추적극이다.&nbsp; 오는 1월 24일 개봉 확정 소식과 함께 배우 7인의 캐릭터 티저 포스터를 공개했다. 보이스피싱 조직의 총책(이무생]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[신예 다원, 영화 ‘비밀’ 미공개 스틸 2종 전격 공개]]></title>
         <id>https://v.daum.net/v/20231214224809891</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231214161245567"/>
         <updated>2023-12-14T08:14:01.544Z</updated>
         <content type="html"><![CDATA[[마이데일리 = 노한빈 기자] 영화 '서울의 봄' 측이 12.12 군사반란 당일의 긴박했던 시간을 촘촘하게 완성한 12인 배우들의 스틸을 공개했다. 1979년 12월 12일 수도 서울에서 일어난 신군부 세력의 반란을 막기 위한 일촉즉발의 9시간을 그린 '서울의 봄'이 긴박했던 12.12 그날 밤의 타임라인을 촘촘하게 완성한 12인의 스틸을 공개했다. 영]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[빨간머리 이유영...‘69세’ 감독 신작 ‘세기말의 사랑’ 내년 1월 개봉]]></title>
-        <id>https://v.daum.net/v/20231214161204540</id>
-        <link href="https://v.daum.net/v/20231214161204540"/>
-        <updated>2023-12-14T08:14:01.545Z</updated>
-        <content type="html"><![CDATA[영화 ‘69세’ 임선애 감독의 신작 ‘세기말의 사랑’이 내년 1월 관객들과 만난다. ‘세기말의 사랑’은 세상 끝나는 줄 알았던 1999년, 짝사랑 때문에 모든 걸 잃은 영미에게 짝사랑 상대의 아내 유진이 나타나며 벌어지는 이상하고 사랑스러운 뉴 밀레니엄 드라마다. 앞서 제28회 부산국제영화제 한국영화의 오늘-파노라마 섹션을 통해 첫선을 보인 ‘세기말의 사랑]]></content>
     </entry>
 </feed>
