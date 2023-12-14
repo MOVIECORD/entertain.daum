@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-12-14T09:14:00.474Z</updated>
+    <updated>2023-12-14T10:13:14.654Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이규형 "변발 분장에 머리만 1시간 감아…왜군 비주얼, 나쁘지 않아"]]></title>
+        <id>https://v.daum.net/v/20231214185006451</id>
+        <link href="https://v.daum.net/v/20231214185006451"/>
+        <updated>2023-12-14T10:12:54.475Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 김유진 기자) 배우 이규형이 도전의 의미를 남긴 '노량: 죽음의 바다'를 향한 애정을 드러냈다. 이규형은 14일 오전 서울 종로구 삼청동의 한 카페에서 열린 영화 '노량: 죽음의 바다'(감독 김한민) 인터뷰에서 다양한 이야기를 전했다. '노량: 죽음의 바다'는 임진왜란 발발 후 7년, 조선에서 퇴각하려는 왜군을 완벽하게 섬멸하기 위한 이순신]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['노량' 이무생 "변발 분장, 처음엔 내 얼굴 못 알아봐"]]></title>
         <id>https://v.daum.net/v/20231214181301714</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231214152905746"/>
         <updated>2023-12-14T07:10:35.377Z</updated>
         <content type="html"><![CDATA[[뉴스엔 배효주 기자] '서울의 봄' 속 12.12 군사반란 당일을 연기한 배우들의 호연이 흥행을 이끌고 있다. 800만 돌파를 앞둔 영화 '서울의 봄'(감독 김성수)에서 김의성이 국방장관 역을 맡아 눈에 띄는 활약을 보였다. 특히 참모총장 공관에서 총격전이 벌어지자 상황 파악도 안하고 도망쳤다 새벽에야 나타나 “나 많이 찾았냐?” 라는 속 터지는 명대사]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이무생 "M자 변발 분장에 못 알아봤단 말 기분 좋다, 3시간 걸려 완성"]]></title>
-        <id>https://v.daum.net/v/20231214151702220</id>
-        <link href="https://v.daum.net/v/20231214151702220"/>
-        <updated>2023-12-14T07:10:35.377Z</updated>
-        <content type="html"><![CDATA[[텐아시아=최지예 기자]배우 이무생(43)이 M자 변발 분장에 자신을 알아보지 못했다는 말을 듣고 "기분 좋았다"며 미소 지었다.&nbsp; 이무생은 14일 오전 서울 종로구 삼청동 한 카페에서 영화 '노량: 죽음의 바다'(감독 김한민, 이하 '노량') 관련 인터뷰했다. 이날 이무생은 M자 변발을 언급하며 "못 알아봤다"는 말에 "저만 그렇게 느낀게 아니었다.]]></content>
     </entry>
 </feed>
