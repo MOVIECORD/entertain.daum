@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-12-15T06:14:59.588Z</updated>
+    <updated>2023-12-15T07:10:50.524Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[아이브 안유진, '위시' 스페셜 싱글 컬래버 아티스트 발탁]]></title>
+        <id>https://v.daum.net/v/20231215153050573</id>
+        <link href="https://v.daum.net/v/20231215153050573"/>
+        <updated>2023-12-15T07:10:32.436Z</updated>
+        <content type="html"><![CDATA[[OSEN=김보라 기자] 걸그룹 아이브 안유진이 디즈니 100주년 기념 영화 '위시'의 메인 테마곡 '소원을 빌어'(This Wish) 스페셜 싱글 컬래버레이션 아티스트로 발탁됐다. 월트디즈니 컴퍼니 코리아 측은 '위시'와 OST에 대한 기대감을 증폭시키는 티저와 스틸컷을 15일 전격 공개했다. '위시'(감독 크리스 벅·&nbsp;폰 비라선손, 수입배급 월트디즈]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[주말 영화 뭐 보지? 눈물 쏙 '3일의 휴가'vs공포 헉 '쏘우X'vs일대기 '나폴레옹']]></title>
         <id>https://v.daum.net/v/20231215143809862</id>
@@ -76,7 +83,7 @@
         <content type="html"><![CDATA[[조영준 기자] ▲ &nbsp;영화 &lt;언더 유어 베드&gt; 스틸컷ⓒ (주)트리플픽쳐스&nbsp; * 주의! 이 기사에는 영화의 스포일러가 포함돼 있습니다. 01. 눈을 뜨고 보기 어려울 정도의 끔찍한 폭력과 온몸에 든 멍자국. 쉴틈도 없이 가해져 오는 성적 가학. 모든 일상을 보고하고 허락받아야 하는 것은 물론 상대방의 눈도 제대로 맞추지 못하는 관계에 이르기까지. 영화 &lt;언더]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[파키스탄의 뿌리깊은 가부장제에 희생된 사람들]]></title>
+        <title type="html"><![CDATA[파키스탄 가부장제에 희생된 사람들]]></title>
         <id>https://v.daum.net/v/20231215111202692</id>
         <link href="https://v.daum.net/v/20231215111202692"/>
         <updated>2023-12-15T02:26:07.203Z</updated>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231215095247642"/>
         <updated>2023-12-15T01:54:35.491Z</updated>
         <content type="html"><![CDATA[[뉴스엔 배효주 기자] '노량: 죽음의 바다'가 개봉 5일 전 사전 예매량 12만 장을 가뿐히 뛰어넘었다. 12월 15일 영화진흥위원회 통합전산망 집계에 따르면, 오는 20일 개봉하는 영화 '노량: 죽음의 바다'(감독 김한민)가 사전 예매량 12만7,639장을 기록하며 기대를 입증하고 있다. 이는 전작인 '명량' 및 '한산: 용의 출현'보다 빠른 속도여서]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[청년 없는 지방에서 피어난 젊은 버스기사의 로맨스]]></title>
-        <id>https://v.daum.net/v/20231215095103554</id>
-        <link href="https://v.daum.net/v/20231215095103554"/>
-        <updated>2023-12-15T01:54:35.491Z</updated>
-        <content type="html"><![CDATA[[김성호 기자] 세계로 나가 다양한 나라들을 돌아보다 보면 한국이 참으로 독특한 나라란 걸 실감하게 된다. 유례를 찾을 수 없을 만큼 아이를 낳지 않고, 또 서른을 훌쩍 넘겨서까지 결혼을 하지 않은 사람이 수두룩하며, 거의 전 국민이라 해도 좋을 만큼 많은 수가 대도시적 삶을 살아간다는 점이 그렇다. 그중 빼놓을 수 없는 한 가지는 한국이 서울에 집중된 기]]></content>
     </entry>
 </feed>
