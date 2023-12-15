@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-12-15T00:50:54.162Z</updated>
+    <updated>2023-12-15T01:54:54.923Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[개봉 D-5 ‘노량’ 사전 예매량 12만장 돌파‥‘한산’보다 빠르다]]></title>
+        <id>https://v.daum.net/v/20231215095247642</id>
+        <link href="https://v.daum.net/v/20231215095247642"/>
+        <updated>2023-12-15T01:54:35.491Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 배효주 기자] '노량: 죽음의 바다'가 개봉 5일 전 사전 예매량 12만 장을 가뿐히 뛰어넘었다. 12월 15일 영화진흥위원회 통합전산망 집계에 따르면, 오는 20일 개봉하는 영화 '노량: 죽음의 바다'(감독 김한민)가 사전 예매량 12만7,639장을 기록하며 기대를 입증하고 있다. 이는 전작인 '명량' 및 '한산: 용의 출현'보다 빠른 속도여서]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[청년 없는 지방에서 피어난 젊은 버스기사의 로맨스]]></title>
+        <id>https://v.daum.net/v/20231215095103554</id>
+        <link href="https://v.daum.net/v/20231215095103554"/>
+        <updated>2023-12-15T01:54:35.491Z</updated>
+        <content type="html"><![CDATA[[김성호 기자] 세계로 나가 다양한 나라들을 돌아보다 보면 한국이 참으로 독특한 나라란 걸 실감하게 된다. 유례를 찾을 수 없을 만큼 아이를 낳지 않고, 또 서른을 훌쩍 넘겨서까지 결혼을 하지 않은 사람이 수두룩하며, 거의 전 국민이라 해도 좋을 만큼 많은 수가 대도시적 삶을 살아간다는 점이 그렇다. 그중 빼놓을 수 없는 한 가지는 한국이 서울에 집중된 기]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['스즈메' 신카이 마코토, 올해 3번째 내한→특별판 재개봉까지]]></title>
         <id>https://v.daum.net/v/20231215094338265</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20231215075900433"/>
         <updated>2023-12-14T23:10:56.933Z</updated>
         <content type="html"><![CDATA[(서울=뉴스1) 정유진 기자 = 영화 '서울의 봄'(감독 김성수)의 질주가 계속되고 있다. 15일 영화진흥위원회 영화관 입장권 통합 전산망에 따르면 '서울의 봄'은 지난 14일 하루 17만8013명을 동원해 박스오피스 1위를 지켰다. 누적관객수는 772만9273명. '서울의 봄'은 1979년 12월12일 수도 서울에서 일어난 신군부 세력의 반란을 막]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["천만 돌파했으면"…'노량' 이규형, 좋아서 버티니 찾아온 기회]]></title>
-        <id>https://v.daum.net/v/20231215065015382</id>
-        <link href="https://v.daum.net/v/20231215065015382"/>
-        <updated>2023-12-14T22:11:08.225Z</updated>
-        <content type="html"><![CDATA[[OSEN=김보라 기자]&nbsp;“정통 사극을 해보고 싶었는데 제안을 받고 너무 설렜다.” 배우 이규형(40)은 14일 오후 서울 삼청동의 한 카페에서 진행된 OSEN과의 인터뷰에서 “대단한 선후배 배우님들과 같이 작업한다는 게 기분 좋은 떨림이었다”라며 촬영을 앞두고 느낀 설렘을 이 같이 밝혔다. 이규형이 출연한 새 영화 ‘노량: 죽음의 바다’(감독 김한민,]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['나홀로 집에''터미네이터2', 美 국립영화보관소에 영구 보존]]></title>
-        <id>https://v.daum.net/v/20231215041719671</id>
-        <link href="https://v.daum.net/v/20231215041719671"/>
-        <updated>2023-12-14T20:11:37.583Z</updated>
-        <content type="html"><![CDATA[(로스앤젤레스=연합뉴스) 임미나 특파원 = 매년 크리스마스 시즌이면 생각나는 영화 '나홀로 집에'와 SF 액션영화의 고전인 '터미네이터 2: 심판의 날'이 미국 국립영화보관소에 영구 보존된다. 미 의회도서관 산하 국립영화보관소(National Film Registry)는 지난 13일(현지시간) 올해 보존 대상으로 선정한 영화 25편을 발표했다. 이 기관은]]></content>
     </entry>
 </feed>
