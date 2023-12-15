@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/variety</id>
     <title>다음 연예 ─ 뉴스 ─ 예능</title>
-    <updated>2023-12-15T16:14:08.421Z</updated>
+    <updated>2023-12-15T17:10:16.308Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["실감이 안나" 이창섭, 인생 첫 자가 하우스 大공개…애정 가득!]]></title>
+        <id>https://v.daum.net/v/20231216011613563</id>
+        <link href="https://v.daum.net/v/20231216011613563"/>
+        <updated>2023-12-15T17:10:05.532Z</updated>
+        <content type="html"><![CDATA[[OSEN=김예솔 기자] 이창섭이 리모델링을 마친 집을 공개했다.&nbsp; 15일에 방송된 MBC '나 혼자 산다'에서는 이창섭이 인생 첫 자가인 새로운 집을 공개했다.&nbsp; 이창섭은 앞서 인테리어 중이라고 밝혔던 집 내부를 공개했다. 이창섭의 새집은 깔끔하고 단정하게 꾸며져 있어 눈길을 사로 잡았다. 이창섭은 "새집에 이사온 지 18일째다"라며 "처음에는 어안이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["못질도 OK...행복해" 이창섭, 호텔 느낌 '새 집 공개']]></title>
         <id>https://v.daum.net/v/20231216011313546</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231215233513923"/>
         <updated>2023-12-15T15:11:15.659Z</updated>
         <content type="html"><![CDATA[(엑스포츠뉴스 원민순 기자) 연기자 이장우가 8년 전 대만드라마에서의 비주얼을 뽐냈다. 15일 방송된 MBC '나 혼자 산다'에서는 이장우가 8년 전 대만드라마 출연 영상을 공개하는 모습이 전파를 탔다. 이날 이장우는 제3회 팜유 세미나를 위해 대만의 타이중이라는 곳을 선택했다고 말했다.&nbsp; 이장우는 2015년, 2016년에 대만 드라마 '황은호탕'을 찍을]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[전현무·박나래·이장우, 팜유 세미나 대만 타이중行 "기내식도 안 먹어"]]></title>
-        <id>https://v.daum.net/v/20231215233348909</id>
-        <link href="https://v.daum.net/v/20231215233348909"/>
-        <updated>2023-12-15T15:11:15.659Z</updated>
-        <content type="html"><![CDATA[[OSEN=김예솔 기자] 전현무, 이장우, 박나래가 대만 타이중으로 떠났다.&nbsp; 15일에 방송된 MBC '나 혼자 산다'에서는 이장우가 주최하는 제 3회 팜유 세미나가 열렸다.&nbsp; 전현무는 "오늘은 3회 팜유세미나가 열리는 날"이라고 말했다. 이에 코드쿤스트, 키, 기안84의 반응이 좋지 않아 웃음을 자아냈다. 기안84는 "지난번에 새벽 1시까지 했다"라고]]></content>
     </entry>
 </feed>
