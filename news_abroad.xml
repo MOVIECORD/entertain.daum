@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-12-15T22:10:26.753Z</updated>
+    <updated>2023-12-15T23:11:01.743Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['프렌즈' 故매튜 페리, 사인 밝혀졌다..마약 '케타민' 급성 영향]]></title>
+        <id>https://v.daum.net/v/20231216072018210</id>
+        <link href="https://v.daum.net/v/20231216072018210"/>
+        <updated>2023-12-15T23:11:00.902Z</updated>
+        <content type="html"><![CDATA[[OSEN=최나영 기자] 미국드라마 '프렌즈'에서 챈들러 빙 캐릭터로 많은 사랑을 받은 배우 매튜 페리의 사인이 밝혀졌다. 15일(현지시각) 피플이&nbsp;입수한 부검 보고서에 따르면 페리는&nbsp;케타민의 급성 영향으로 사망했다. 익사, 관상동맥질환, 부프레노르핀 효과(오피오이드 사용 장애 치료에 사용되는 약물)도 그의 사망 원인으로 꼽혔다. 케타민은 미국 마약 단]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[브라질 가스펠 가수, 공연 중 심장마비로 사망]]></title>
         <id>https://v.daum.net/v/20231216060515658</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231215162130097"/>
         <updated>2023-12-15T08:14:34.909Z</updated>
         <content type="html"><![CDATA[[TV리포트=김현재 기자] 영화 '마스크 오브 조로' 제작자가 배우 톰 크루즈의 미담을 알렸다. 11일(현지 시간), 미국 매체 '슬래시 필름'은 시네마 포토그래퍼 마이클 살몬과의 인터뷰 내용을 밝히며 톰 크루즈가 '마스크 오브 조로'의 주인공이 될 뻔했다고 보도했다. 독일 영화감독인 마이클 살몬은 자신이 1993년에 잠시 '마스크 오브 조로'의 제작자]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[빅토리아 베컴 “남편, 아직도 내 눈썹 지운 모습 못봐..눈썹에 집착”]]></title>
-        <id>https://v.daum.net/v/20231215160923813</id>
-        <link href="https://v.daum.net/v/20231215160923813"/>
-        <updated>2023-12-15T07:10:49.911Z</updated>
-        <content type="html"><![CDATA[[OSEN=지민경 기자] 그룹 스파이스 걸스 출신 사업가 빅토리아 베컴이 남편 데이비드 베컴에게 아직도 화장을 지운 모습을 보여주지 않았다고 밝혔다. 빅토리아 베컴은 최근 패션 매거진 얼루어와의 인터뷰를 통해 앞서 공개된 넷플릭스 다큐멘터리 ‘베컴'에 대한 이야기를 나눴다. 빅토리아는 막내 아들 크루즈가 ‘베컴’을 보고 아버지 데이비드 베컴의 축구 커리]]></content>
     </entry>
 </feed>
