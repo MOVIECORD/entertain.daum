@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-12-16T12:18:21.499Z</updated>
+    <updated>2023-12-16T13:11:33.517Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[톰 크루즈, 25세 연하 러시아 모델과 열애설..재벌 전남편 "지갑 열어야해" 경고]]></title>
+        <id>https://v.daum.net/v/20231216212017412</id>
+        <link href="https://v.daum.net/v/20231216212017412"/>
+        <updated>2023-12-16T13:11:32.873Z</updated>
+        <content type="html"><![CDATA[[OSEN=최나영 기자] 배우 톰 크루즈가&nbsp;25세 연하의 러시아 유명 정치인의 딸인 사교계 명사&nbsp;엘시나 카이로바와 열애설에 휩싸인 가운데 그녀의&nbsp;전 남편인 러시아 재벌이 크루즈에게 경고를 보내 화제다. 크루즈와 연애 중인 것으로 알려진 사교계 명사 겸 모델의 전 남편이 크루즈에게 '지갑을 활짝 열어 두라'고 경고gks rjt. 러시아의 올리가르히(과두제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘대만 유명 아이돌’ 염아륜, 미성년자 성착취 혐의 불기소 처분]]></title>
         <id>https://v.daum.net/v/20231216182207236</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231216072018210"/>
         <updated>2023-12-15T23:11:00.902Z</updated>
         <content type="html"><![CDATA[[OSEN=최나영 기자] 미국드라마 '프렌즈'에서 챈들러 빙 캐릭터로 많은 사랑을 받은 배우 매튜 페리의 사인이 밝혀졌다. 15일(현지시각) 피플이&nbsp;입수한 부검 보고서에 따르면 페리는&nbsp;케타민의 급성 영향으로 사망했다. 익사, 관상동맥질환, 부프레노르핀 효과(오피오이드 사용 장애 치료에 사용되는 약물)도 그의 사망 원인으로 꼽혔다. 케타민은 미국 마약 단]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[브라질 가스펠 가수, 공연 중 심장마비로 사망]]></title>
-        <id>https://v.daum.net/v/20231216060515658</id>
-        <link href="https://v.daum.net/v/20231216060515658"/>
-        <updated>2023-12-15T21:09:38.136Z</updated>
-        <content type="html"><![CDATA[(멕시코시티=연합뉴스) 이재림 특파원 = 브라질의 한 기독교 음악(가스펠) 가수가 공연 도중 무대 위에서 쓰러져 병원으로 옮겨졌으나, 숨졌다. 15일(현지시간) 브라질 현지 매체 G1과 폴랴 등에 따르면 가스펠 가수 페드루 엔리케는 지난 13일 북부 바이아주 한 공연장에서 노래를 부르던 중 갑자기 정신을 잃고 그대로 쓰러졌다. 그는 인근 병원으로 옮겨졌으나]]></content>
     </entry>
 </feed>
