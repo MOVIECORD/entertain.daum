@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-12-16T04:13:34.061Z</updated>
+    <updated>2023-12-16T05:10:50.661Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[800만 넘긴 ‘서울의 봄’, 스코어 향한 질주]]></title>
+        <id>https://v.daum.net/v/20231216131606406</id>
+        <link href="https://v.daum.net/v/20231216131606406"/>
+        <updated>2023-12-16T05:10:33.983Z</updated>
+        <content type="html"><![CDATA[[티브이데일리 이기은 기자] 무려 개봉 25일 째 톱이다. '서울의 봄'(감독 김성수)이 관객 800만 명을 거뜬히 넘기며, 최종 스코어에 기대가 모인다. 16일 영화진흥위원회 영화관입장권 통합전산망에 따르면, 지난달 22일 개봉한 '서울의 봄'(감독 김성수)은 이날 0시 기준 누적 관객 수 818만5411명 관객을 불러 모았다. 이는 올해 '범죄도시3'(]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["우리 장군님 뵈러 왔어요"...'노량' 찾아온 스타들]]></title>
         <id>https://v.daum.net/v/20231216131133383</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231216082108747"/>
         <updated>2023-12-16T00:48:29.233Z</updated>
         <content type="html"><![CDATA[신호가 바뀌었는데 앞의 트럭이 움직이지 않았다. 운전자가 딴짓을 하는 게 분명했다. 빠앙. 경적을 울렸다. 한 번 더. 다시 한 번 더. 그래도 꿈쩍하지 않는 앞차 때문에 슬슬 짜증이 났다. 얼마 뒤 트럭이 출발하고 나서야 알게 되었다. 휠체어 탄 사람이 길을 건너고 있었다는 것을. “그때 울린 경적을 지금도 후회하고 있다. 내가 피해자가 되는 일에는 민]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[최악 위기 몰렸던 한국영화, 연말연시 '대역전' 노린다]]></title>
-        <id>https://v.daum.net/v/20231216080009507</id>
-        <link href="https://v.daum.net/v/20231216080009507"/>
-        <updated>2023-12-15T23:10:42.390Z</updated>
-        <content type="html"><![CDATA[(서울=연합뉴스) 오보람 기자 = 올해 초부터 주요 작품이 잇따라 흥행에 참패하며 최악의 위기에 몰렸던 한국 영화계가 연말연시에 대역전을 노린다. '서울의 봄'이 히트한 데 이어, 또 다른 대작 '노량: 죽음의 바다'가 흥행 바통을 건네받을 것이라는 전망이 나오면서 오랜만에 극장가가 기대감으로 부풀어 있다. 16일 영화계에 따르면 지난 1∼10월 개봉한 한]]></content>
     </entry>
 </feed>
