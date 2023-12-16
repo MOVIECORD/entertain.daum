@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2023-12-16T06:13:23.640Z</updated>
+    <updated>2023-12-16T07:09:38.392Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["강풍에 무너져" 목격담 속출…트레저 콘서트, 야외 부스 운영 중단]]></title>
+        <id>https://v.daum.net/v/20231216153344426</id>
+        <link href="https://v.daum.net/v/20231216153344426"/>
+        <updated>2023-12-16T07:09:33.315Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 김예나 기자) 그룹 트레저(TREASURE) 콘서트가 기상 악화 속 야외 부스 운영을 중단했다. 16일 트레저 공식 채널을 통해 "공연장 외부 부스가 기상 악화로 인해 안전상의 문제로 중단되었다. 내일 부스 운영 관련해 기상 상황에 따라 추후 안내드리겠다. 금일 공연장을 방문해준 팬분들의 양해 부탁드린다"는 공지가 게재됐다. 소속사 YG엔터테]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[日개최·비싼티켓·다시보기無…'뮤뱅 글로벌 페스티벌', 계속된 논란]]></title>
+        <id>https://v.daum.net/v/20231216153122405</id>
+        <link href="https://v.daum.net/v/20231216153122405"/>
+        <updated>2023-12-16T07:09:33.315Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 박서연 기자] KBS '2023 뮤직뱅크 글로벌 페스티벌'에 대한 잡음이 끊이질 않고 있다. 지난 15일 KBS 2TV를 통해 '2023 뮤직뱅크 글로벌 페스티벌'이 방송됐다. 1부는 서울 영등포구 KBS홀에서 생방송으로 진행됐으며, 2부는 지난 9일 일본 베루나돔에서 개최된 공연을 녹화해 공개했다. 1부에는 선미, 화사, 영케이, N]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["누굴 위한 K팝 축제였나"..'뮤뱅 글로벌 페스티벌', 이미 예견된 논란]]></title>
         <id>https://v.daum.net/v/20231216151018220</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20231216125110247"/>
         <updated>2023-12-16T04:13:29.082Z</updated>
         <content type="html"><![CDATA[[스포츠투데이 임시령 기자] KBS '2023 뮤직뱅크 글로벌 페스티벌'이 다시보기를 지원하지 않아 원성을 사고 있다. 지난 15일 오후 서울 영등포구 KBS홀에서 '2023 뮤직뱅크 글로벌 페스티벌' 1부가 생방송으로 진행됐다. 1부 MC로는 로운과 아이브(IVE) 장원영이 나섰다. 무대를 채운 가수 라인업도 화려했다. 선미, 화사, 영케이, NCT]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박명수, 음주운전에 쓴소리 폭발 “술 마시면 어떤 기계도 만지지마!”]]></title>
-        <id>https://v.daum.net/v/20231216124306202</id>
-        <link href="https://v.daum.net/v/20231216124306202"/>
-        <updated>2023-12-16T04:13:29.084Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 이슬기 기자] 박명수가 음주운전에 쓴소리를 날렸다. 12월 16일 방송된 KBS 쿨FM '박명수의 라디오쇼'에서는 청취자들의 사연을 읽는 시간이 진행됐다. 이날 한 청취자는 박명수에게 "킥보드 수거 아르바이트 중인데 저수지나 풀숲에 두고 가는 사람들 왜 그런 걸까요? 제발 주차 좀 잘해주시면 좋겠습니다"라고 사연을 보냈다. 박명수는 "풀숲이나]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박명수 “♥한수민 노안, 돋보기 필요해서 눈물 나더라…본인 카드로 사세요”]]></title>
-        <id>https://v.daum.net/v/20231216123947188</id>
-        <link href="https://v.daum.net/v/20231216123947188"/>
-        <updated>2023-12-16T04:13:29.085Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 이슬기 기자] 박명수가 한수민에 대해 이야기했다. 12월 16일 방송된 KBS 쿨FM '박명수의 라디오쇼'에서는 청취자들의 사연을 읽는 시간이 진행됐다. 이날 한 청취자는 박명수에게 "노안이 점점 심해져서 휴대폰 글자 크기를 키웠습니다. 남편 휴대폰 글자 보고 놀렸는데 저도 같은 처지가 됐네요"라고 사연을 보냈다. 박명수는 "저도 집에서 와이프가]]></content>
     </entry>
 </feed>
