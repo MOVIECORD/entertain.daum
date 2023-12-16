@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/variety</id>
     <title>다음 연예 ─ 뉴스 ─ 예능</title>
-    <updated>2023-12-16T03:12:00.668Z</updated>
+    <updated>2023-12-16T04:13:34.063Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘놀면 뭐하니’ 유재석 눈 돌게 한 만물의 정체는?]]></title>
+        <id>https://v.daum.net/v/20231216130610349</id>
+        <link href="https://v.daum.net/v/20231216130610349"/>
+        <updated>2023-12-16T04:13:23.668Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 이민지 기자] 김석훈이 만물의 세계로 초대한다. 12월 16일 방송되는 MBC ‘놀면 뭐하니?’에서 ‘나의 쓰레기 아저씨’로 활동하고 있는 배우 김석훈의 하루를 따라간다. 이날 김석훈은 “잘하면 적은 돈으로 큰 것을 얻을 수 있다” “아주 신비한 곳이다”라면서, 세상의 모든 만물이 있는 곳으로 멤버들을 이끌고 간다. 김석훈은 이 세계만의 규칙]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김기욱, 강호동 미담 "'X맨' 녹화 중 심한 부상…장시간 수술 끝까지 자리 지켰다"]]></title>
         <id>https://v.daum.net/v/20231216120505958</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231216104803246"/>
         <updated>2023-12-16T01:51:45.929Z</updated>
         <content type="html"><![CDATA[[OSEN=김보라 기자] 개그맨 유민상이 할아버지가 되어서도 '맛있는 녀석들'을 진행할 것이라고 밝혔다.&nbsp; 지난 15일 방송된 IHQ 예능 '맛있는 녀석들'에서 유민상은 가수 데프콘, 개그맨 이수지와 김해준과 함께 아메리칸 스타일의 오이스터 바를 방문했다. &nbsp; 전라남도 강진에서 공수한 클레오 품종과 충청남도 태안의 펄쉘 품종 굴을 맛보던 유민상은 “이번]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[전현무, "아저씨 같아 스킨십 안 해" 22살 여친 폭로에 경악]]></title>
-        <id>https://v.daum.net/v/20231216104501195</id>
-        <link href="https://v.daum.net/v/20231216104501195"/>
-        <updated>2023-12-16T01:51:45.929Z</updated>
-        <content type="html"><![CDATA[[텐아시아=태유나 기자] ‘지구별 로맨스’에 출연한 22살 러시아 모델 여자친구와 30살 남자친구가 전현무를 비롯한 연애 오지라퍼 전원의 만류에도 불구하고 끝내 사랑을 선택했다.&nbsp; 지난 15일 방송된 ENA, 채널S 예능 '최후통첩 : 지구별 로맨스'(이하 '지구별 로맨스') 최종회에서는 마지막까지 역대급 연애 고민을 가진 커플이 등판해 현장을 후끈 달]]></content>
     </entry>
 </feed>
