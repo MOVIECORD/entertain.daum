@@ -2,15 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-12-16T08:13:12.398Z</updated>
+    <updated>2023-12-16T09:10:11.432Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA['현실판' 오징어게임 우승자, 내년 1월 5일 백만장자 된다]]></title>
+        <title type="html"><![CDATA['프렌즈' 故매튜 페리, 사인은 케타민 부작용... 생전 약물중독으로 고생]]></title>
+        <id>https://v.daum.net/v/20231216174900976</id>
+        <link href="https://v.daum.net/v/20231216174900976"/>
+        <updated>2023-12-16T09:10:10.817Z</updated>
+        <content type="html"><![CDATA[[TV리포트=이혜미 기자] 미국 드라마 '프렌즈'로 잘 알려진 배우 매튜 페리의 사인이 공개됐다. 페리는 케타민에 의해 사망했다. 15일(현지시간) 피플 등 외신에 따르면 페리의 사인은 케타민 급성 부작용이다. 케타민은 전신마취 혹은 우울증 및 외상 후 스트레스 장애 등에 사용되는 해리성 전신마취제로 생전 페리는 우울증과 불안 증세로 케타민 주입 요법을 받]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['현실판' 오징어게임 우승자 베트남 난민출신, 내년 1월 5일 백만장자 된다]]></title>
         <id>https://v.daum.net/v/20231216170102422</id>
         <link href="https://v.daum.net/v/20231216170102422"/>
         <updated>2023-12-16T08:13:11.795Z</updated>
-        <content type="html"><![CDATA[[OSEN=최나영 기자] 넷플릭스 인기 쇼 '오징어 게임: 더 챌린지(Squid Game: The Challenge)'의 우승자는 마지막 에피소드가&nbsp;방송되고&nbsp;10개월 만에 마침내 약 450만 달러(약 58억 6,800만원)를&nbsp;받게 된다. 베트남 이민자인 마이 웰란(Mai Whelan, 55)은 이 쇼에서 교활하고 무자비한 연속 플레이로 455명의 다른]]></content>
+        <content type="html"><![CDATA[[OSEN=최나영 기자] 넷플릭스 인기 쇼 '오징어 게임: 더 챌린지(Squid Game: The Challenge)'의 우승자는 마지막 에피소드가&nbsp;방송되고&nbsp;10개월 만에 마침내 약 450만 달러(약 58억 6,800만원)를&nbsp;받게 된다. 베트남 난민 출신 이민자인 마이 웰란(Mai Whelan, 55)은 이 쇼에서 교활하고 무자비한 연속 플레이로 455]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[‘프렌즈’ 매튜 페리 사인 밝혀졌다, 케타민 검출]]></title>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231216055002430"/>
         <updated>2023-12-15T21:09:38.136Z</updated>
         <content type="html"><![CDATA[(엑스포츠뉴스 이창규 기자) '해리포터' 시리즈로 유명한 영국 출신 배우 엠마 왓슨이 잠정 은퇴를 선언한 가운데, 해외 스타들의 은퇴 사례가 조명받고 있다. 엠마 왓슨은&nbsp;14일(현지시간) 패션지 보그 영국판과 인터뷰에서 최근 연기 활동을 하지 않고 있는 것에 대해 "의도적인 것"이라고 밝혔다. 그는 "30대에 접어들며 진정한 변화의 순간을 맞았다"면서]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[팀버레이크, ex스피어스 '마녀사냥' 일으킨 곡 무대 당당 "무례 NO"]]></title>
-        <id>https://v.daum.net/v/20231215231022762</id>
-        <link href="https://v.daum.net/v/20231215231022762"/>
-        <updated>2023-12-15T14:11:12.169Z</updated>
-        <content type="html"><![CDATA[[OSEN=최나영 기자] 가수 저스틴 팀버레이크가 전 여자친구인 가수&nbsp;브리트니 스피어스 이야기라는&nbsp;루머에 휩싸였던 2002년 이별 히트곡을 공연하기 전에 사전 경고(?)를 했다. 페이지식스 등 외신에 따르면 팀버레이크는 지난 1일 미국 라스베이거스 퐁텐블로 공연에서 스피어스가 바람을&nbsp;펴 이별해 쓴 곡이란 소문에 휩싸였던 노래&nbsp;'크라이 미 어 리버(Cry]]></content>
     </entry>
 </feed>
