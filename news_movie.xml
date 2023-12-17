@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-12-17T04:13:12.887Z</updated>
+    <updated>2023-12-17T05:10:35.151Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[오승훈, 차분하게 완성한 ‘독전2’]]></title>
+        <id>https://v.daum.net/v/20231217140631431</id>
+        <link href="https://v.daum.net/v/20231217140631431"/>
+        <updated>2023-12-17T05:10:15.279Z</updated>
+        <content type="html"><![CDATA[‘독전2’의 락은 쉽지 않은 역할이었다. 인기 영화의 속편에, 전작에서 활약했던 배우 류준열의 뒤를 이어야 했다. 그럼에도 오승훈은 “부담이 되지 않았다”고 차분하게 말했다. 1000대 1의 경쟁률을 뚫고 ‘독전2’의 주인공이 된 오승훈의 단단함이 엿보이는 대목이었다. ‘독전2’는 500만이 넘는 관객을 동원했던 영화 ‘독전’의 속편이자 미드퀄이다. 전작]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['노량:죽음의 바다', '서울의 봄' 한달만에 꺾고 전체 예매율 1위]]></title>
+        <id>https://v.daum.net/v/20231217135607259</id>
+        <link href="https://v.daum.net/v/20231217135607259"/>
+        <updated>2023-12-17T05:10:15.280Z</updated>
+        <content type="html"><![CDATA[[OSEN=하수정 기자] 올겨울 이순신 3부작 프로젝트의 대미를 장식할 영화 '노량: 죽음의 바다'(감독 김한민, 제공 ㈜에이스메이커무비웍스·롯데엔터테인먼트, 배급 롯데엔터테인먼트·㈜에이스메이커무비웍스, 제작 ㈜빅스톤픽쳐스)가 12월 20일 개봉을 앞둔 가운데 12월 17일 전체 영화 예매율 1위에 등극했다.&nbsp; '노량: 죽음의 바다'는 임진왜란 발발 후]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[기체 이상으로 회항하는 비행기, 그 뒤에 숨은 이야기]]></title>
         <id>https://v.daum.net/v/20231217103901510</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20231216162134908"/>
         <updated>2023-12-16T08:12:52.760Z</updated>
         <content type="html"><![CDATA[[뉴스엔 이민지 기자] 영화 '서울의 봄'이 천만을 향해 가고 있다. 영화진흥위원회 통합전산망에 따르면 영화 '서울의 봄'이 개봉 25일만인 12월 16일 818만 관객을 기록하며 2023년 전체 박스오피스 TOP2에 올랐다. 이는 '범죄도시2', '탑건:매버릭', '아바타:물의 길', '범죄도시3' 등 팬데믹 이후 개봉한 영화 중 800만을 돌파한]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['노량: 죽음의 바다', 해군2함대 시사회 성료…700여 장병 함성과 감동 울려퍼졌다]]></title>
-        <id>https://v.daum.net/v/20231216160633752</id>
-        <link href="https://v.daum.net/v/20231216160633752"/>
-        <updated>2023-12-16T07:09:19.561Z</updated>
-        <content type="html"><![CDATA[[마이데일리 = 양유진 기자] 영화 '노량: 죽음의 바다'가 대한민국 해군2함대 시사회를 시작으로 본격적인 이순신 로드 출항을 알렸다. '노량: 죽음의 바다'가 뜨거운 최초 시사회 반응을 얻고 있는 가운데 드디어 본격적인 입소문 시사회에 돌입했다. 15일 오후 해군2함대사령부 충무관에서 영화 '노량: 죽음의 바다'를 상영, 해군 장병과 영화 출연진이 함께하]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[800만 넘긴 ‘서울의 봄’, 스코어 향한 질주]]></title>
-        <id>https://v.daum.net/v/20231216131606406</id>
-        <link href="https://v.daum.net/v/20231216131606406"/>
-        <updated>2023-12-16T05:10:33.983Z</updated>
-        <content type="html"><![CDATA[[티브이데일리 이기은 기자] 무려 개봉 25일 째 톱이다. '서울의 봄'(감독 김성수)이 관객 800만 명을 거뜬히 넘기며, 최종 스코어에 기대가 모인다. 16일 영화진흥위원회 영화관입장권 통합전산망에 따르면, 지난달 22일 개봉한 '서울의 봄'(감독 김성수)은 이날 0시 기준 누적 관객 수 818만5411명 관객을 불러 모았다. 이는 올해 '범죄도시3'(]]></content>
     </entry>
 </feed>
