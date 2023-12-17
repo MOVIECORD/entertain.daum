@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-12-17T02:27:24.145Z</updated>
+    <updated>2023-12-17T03:11:36.691Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['마이 데몬' 송강, 로맨스 장인 됐다]]></title>
+        <id>https://v.daum.net/v/20231217121016967</id>
+        <link href="https://v.daum.net/v/20231217121016967"/>
+        <updated>2023-12-17T03:11:21.892Z</updated>
+        <content type="html"><![CDATA[[OSEN=선미경 기자] ‘로맨스 장인’&nbsp;송강이 로맨스 모드를 가동했다. SBS&nbsp;금토드라마&nbsp;‘마이 데몬’(극본 최아일, 연출 김장한)에서 치명적이고 완전무결한 존재의 악마&nbsp;정구원&nbsp;역을 맡은&nbsp;송강이 회를 거듭할수록 깊어지는 감정 연기로 시선을 사로잡고 있다. 지난 15일과 16일 방송된&nbsp;‘마이 데몬’ 7~8화에서는 도도희(김유정 분)에 대한 마음을 깨닫고]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김유정, 눈빛 연기가 곧 서사]]></title>
         <id>https://v.daum.net/v/20231217112519265</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231217091507320"/>
         <updated>2023-12-17T00:53:49.088Z</updated>
         <content type="html"><![CDATA[[텐아시아=류예지 기자]KBS 드라마 스페셜 2023-TV 시네마 ‘수운잡방’의 배우 윤산하와 김강민이 군침을 자극하는 미식 세계로 안방극장에 오감만족을 선사했다. 지난 16일 방송된 KBS 영화 프로젝트 ‘드라마 스페셜 2023-TV 시네마’의 마지막 작품 ‘수운잡방’(연출 최연수/ 극본 김진표, 조수영/ 제작 아센디오)의 무삭제 완전판(82분)에서는]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[강감찬, 몽진 떠난 현종 대신 홀로 개경에 남았다 …충격 결단]]></title>
-        <id>https://v.daum.net/v/20231217090915246</id>
-        <link href="https://v.daum.net/v/20231217090915246"/>
-        <updated>2023-12-17T00:53:49.089Z</updated>
-        <content type="html"><![CDATA[[동아닷컴] ‘고려거란전쟁’의 최수종과 김동준이 시청자들의 눈물샘을 자극했다. 지난 16일 방송된 공영방송 50주년 특별 기획 KBS 2TV 대하드라마 ‘고려거란전쟁’ 11화에서 강감찬(최수종 분)은 자결까지 하려 했던 현종(김동준 분)을 대신해 개경에 홀로 남기로 결심했다. 시청률은 9.7%(닐슨코리아 제공, 전국 기준)를 기록한 가운데, 특히 개경으]]></content>
     </entry>
 </feed>
