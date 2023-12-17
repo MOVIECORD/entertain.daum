@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-12-17T05:10:35.151Z</updated>
+    <updated>2023-12-17T06:13:32.803Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['아쿠아맨과 로스트 킹덤', '서울의 봄' 예매율 넘을 수 있을까?]]></title>
+        <id>https://v.daum.net/v/20231217145006097</id>
+        <link href="https://v.daum.net/v/20231217145006097"/>
+        <updated>2023-12-17T06:13:12.387Z</updated>
+        <content type="html"><![CDATA[[OSEN=하수정 기자] 올 연말 스크린을 장식할 해양 액션 블록버스터 '아쿠아맨과 로스트 킹덤'(수입배급 워너브러더스 코리아㈜)이 개봉 3일전 전체 외화 예매율 1위에 등극, 박스오피스 1위작 '서울의 봄'을 조만간 추격할 수 있을지 관심이 모아지고 있다.&nbsp; 영화관입장권통합전산망 12월 17일 오후 1시 기준, '아쿠아맨'은 사전 예매량 4만 7,87]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘서울의 봄’ 천만 눈앞→‘노량’ 예매율 1위, “연말 극장가 뜨거운 활기”]]></title>
+        <id>https://v.daum.net/v/20231217141253523</id>
+        <link href="https://v.daum.net/v/20231217141253523"/>
+        <updated>2023-12-17T06:13:12.387Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]김성수 감독의 ‘서울의 봄’이 849만명을 동원하며 천만 등극을 눈앞에 둔 가운데 오는 20일 개봉하는 ‘노량:죽음의 바다’가 예매율 1위에 오르는 등 극장가가 모처럼 활기를 띠고 있다. 17일 영진위 통합전산망에 따르면 '서울의 봄'은 전날 관객 49만 7,115명을 동원, 개봉 25일 만에 누적 관객 수 849만 5,62]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[오승훈, 차분하게 완성한 ‘독전2’]]></title>
         <id>https://v.daum.net/v/20231217140631431</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20231217070128202"/>
         <updated>2023-12-16T22:10:09.536Z</updated>
         <content type="html"><![CDATA[[OSEN=김보라 기자]&nbsp;올해는 과거부터 철옹성처럼 쌓아온 여름 성수기 텐트폴 영화, 명절맞이 블록버스터라는 기준과 집계 등 나름 객관적이라고 치부되어 온 데이터 수치를 보기 좋게 무너뜨린 한 해였다. 특히 ‘7말8초’에 나오는 텐트폴 영화들은 매년 배급사가 자신있게 내놓는 작품인데, 개봉 시기가 비슷하다는 이유만으로 같은 바구니에 담겨서 서로에게 악영]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['서울의 봄' 개봉 25일 만 818만 관객 돌파…천만 향해 파죽지세]]></title>
-        <id>https://v.daum.net/v/20231216181549195</id>
-        <link href="https://v.daum.net/v/20231216181549195"/>
-        <updated>2023-12-16T10:10:33.270Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 윤현지 기자) 영화 '서울의 봄'(감독 김성수)이 개봉 25일 만에 818만 관객을 돌파했다. 1979년 12월 12일 수도 서울에서 일어난 신군부 세력의 반란을 막기 위한 일촉즉발의 9시간을 그린 영화 '서울의 봄'이 개봉 25일 만에 818만 관객을 돌파하며 폭발적인 흥행세를 유지하고 있다. 영화관입장권 통합전산망 기준 16일 오전 12시]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘서울의 봄’ 팬데믹 이후 800만 관객 돌파 유일무이 단일 작품]]></title>
-        <id>https://v.daum.net/v/20231216162134908</id>
-        <link href="https://v.daum.net/v/20231216162134908"/>
-        <updated>2023-12-16T08:12:52.760Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 이민지 기자] 영화 '서울의 봄'이 천만을 향해 가고 있다. 영화진흥위원회 통합전산망에 따르면 영화 '서울의 봄'이 개봉 25일만인 12월 16일 818만 관객을 기록하며 2023년 전체 박스오피스 TOP2에 올랐다. 이는 '범죄도시2', '탑건:매버릭', '아바타:물의 길', '범죄도시3' 등 팬데믹 이후 개봉한 영화 중 800만을 돌파한]]></content>
     </entry>
 </feed>
