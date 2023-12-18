@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-12-18T03:12:11.787Z</updated>
+    <updated>2023-12-18T04:14:05.822Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김성규 ‘한산’ 이어 ‘노량’에서도 이순신 옆 든든히 지킨다]]></title>
+        <id>https://v.daum.net/v/20231218130957790</id>
+        <link href="https://v.daum.net/v/20231218130957790"/>
+        <updated>2023-12-18T04:13:45.680Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 배효주 기자] 김성규가 ‘한산: 용의 출현’에 이어 ‘노량: 죽음의 바다’로 이순신 장군 옆을 든든히 지킨다. 김성규는 지난해 여름 최고의 흥행작 ‘한산: 용의 출현(이하 ‘한산’)’에서 항왜군사 준사로 삭발은 물론, 일본 고어부터 어눌한 한국어 연기까지 선보이며 단연 눈에 띄는 열연으로 관객들을 매료시켰다. 이렇게 ‘한산’에서 강렬한 인상을 남]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[배우의 명성에도 고전 면치 못한 영화, 비극의 시작]]></title>
         <id>https://v.daum.net/v/20231218120900733</id>
@@ -52,7 +59,7 @@
         <id>https://v.daum.net/v/20231218105112378</id>
         <link href="https://v.daum.net/v/20231218105112378"/>
         <updated>2023-12-18T01:54:29.033Z</updated>
-        <content type="html"><![CDATA[[SBS 연예뉴스 | 김지혜 기자] 30년째 톱스타인 정우성에게 의외로 없는 타이틀이 있다. 바로 '천만 배우' 수식어다. 1994년 '구미호'로 데뷔한 이래 2023년 '서울의 봄'까지 30년간 스크린을 종횡무진 누비며 '영원한 톱스타'로 군림해온 정우성이지만 이상하게도 필모그래피에 천만 영화가 없다. 데뷔 동기이자 절친인 이정재가 4편('도둑들', '암]]></content>
+        <content type="html"><![CDATA[[SBS 연예뉴스 | 김지혜 기자] 30년째 톱스타인 정우성에게 의외로 없는 타이틀이 있다. 바로 '천만 배우' 수식어다. 1994년 '구미호'로 데뷔한 이래 2023년 '서울의 봄'까지 30년간 스크린을 종횡무진 누비며 '영원한 톱스타'로 군림해 온 정우성이지만 이상하게도 필모그래피에 천만 영화가 없다. 데뷔 동기이자 절친인 이정재가 4편('도둑들', ']]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA['레벨 문' 감독 "배두나 쓴 갓, 한국 드라마 '킹덤'에서 착안"]]></title>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231218095427676"/>
         <updated>2023-12-18T01:54:29.044Z</updated>
         <content type="html"><![CDATA[[스포티비뉴스=유은비 기자] 영화 '서울의 봄'이 주말 120만 명이 넘는 관객들을 불러모으며 역대 개봉 4주차 주말 관객 수 1위에 등극했다. 18일 영화진흥위원회 영화관통합전산망에 따르면 '서울의 봄'은 개봉 4주차 주말인 지난 15일부터 17일까지 사흘 동안 121만 1862명을 동원하며 주말 박스오피스 1위에 등극했다. 누적관객수는 894만 1]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[안세호 "마동석은 귀인, 류승완은 은인…특히 친해진 건 이준혁"③]]></title>
-        <id>https://v.daum.net/v/20231218095427677</id>
-        <link href="https://v.daum.net/v/20231218095427677"/>
-        <updated>2023-12-18T01:54:29.044Z</updated>
-        <content type="html"><![CDATA[[이데일리 스타in 김보영 기자] 배우 안세호가 영화 ‘범죄도시3’부터 ‘밀수’, ‘서울의 봄’, ‘노량: 죽음의 바다’의 감독들을 비롯해 황정민, 김혜수, 김윤석 등 선배 배우들과 한 작품에서 호흡한 소감을 전했다. 안세호는 영화 ‘서울의 봄’(감독 김성수) 흥행을 기념해 최근 이데일리와 인터뷰를 진행했다. 안세호는 지난 달 22일 개봉해 ‘밀수’(5]]></content>
     </entry>
 </feed>
