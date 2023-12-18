@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-12-18T10:13:00.726Z</updated>
+    <updated>2023-12-18T11:10:15.321Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[MBC 연기대상은 남궁민이 하드캐리 했는데...결국 사극 하나 건진 KBS]]></title>
+        <id>https://v.daum.net/v/20231218200102669</id>
+        <link href="https://v.daum.net/v/20231218200102669"/>
+        <updated>2023-12-18T11:10:02.859Z</updated>
+        <content type="html"><![CDATA[[텐아시아=류예지 기자]&lt;&lt;류예지의 예지력&gt;&gt; 류예지 텐아시아 기자가 연예계의 미래와 그 파급력을 꿰뚫어봅니다. 올 한 해 유난히도 잘 안 풀렸던 KBS다. 그나마 지난달 첫 방송을 한 사극 드라마 '고려 거란 전쟁'의 상승세에 KBS는 체면치레에 성공했다. '고려 거란 전쟁'이 아니었다면 대상뿐만 아니라 부문별로 누구를 줘야 할지 근심이 더 깊어질 뻔]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김영대 "'낮뜨달' 원작 인기 몰랐다…시청률은 아쉬움"]]></title>
         <id>https://v.daum.net/v/20231218185002650</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231218163533970"/>
         <updated>2023-12-18T08:14:52.680Z</updated>
         <content type="html"><![CDATA[(엑스포츠뉴스 이창규 기자) '낮에 뜨는 달' 김영대가 작품을 마무리한 소감을 전했다. 18일 오후 서울 강남구 아우터유니버스 논현동 아우터유니버스 사옥에서 ENA 수목드라마 '낮에 뜨는 달' 김영대와의 종영 인터뷰가 진행됐다. '낮에 뜨는 달'은 사랑하는 연인에게 살해 당한 뒤 시간이 멈춰버린 남자와 전생의 기억을 잃고 한없이 흘러가버린 여자의 위험하고]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[걱정 인형 된 로운, 조선 최고 침울남…조이현 상여자 포스]]></title>
-        <id>https://v.daum.net/v/20231218162203508</id>
-        <link href="https://v.daum.net/v/20231218162203508"/>
-        <updated>2023-12-18T08:14:52.681Z</updated>
-        <content type="html"><![CDATA[[텐아시아=강민경 기자] 조이현이&nbsp;로운 앞에서 호쾌한 상여자 면모를 대폭발시킨다. 18일 방송되는 KBS2 월화드라마 '혼례대첩'에서는 심정우(로운&nbsp;역)과 정순덕(조이현 역)은 토닥토닥 모멘트를 선사해 반전 서사를 예고했다. '혼례대첩'은 조선 시대 청상부마와 청상과부가 만나 원녀, 광부(조선시대 노처녀와 노총각을 이르는 말) '혼례 대작전'을 펼치는]]></content>
     </entry>
 </feed>
