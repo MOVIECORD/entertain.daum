@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-12-18T02:25:51.113Z</updated>
+    <updated>2023-12-18T03:12:11.792Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“요란하게 데이트하더니” 켄달 제너, 배드 버니와 10개월만에 결별 “더 이상 커플 아냐”]]></title>
+        <id>https://v.daum.net/v/20231218113033229</id>
+        <link href="https://v.daum.net/v/20231218113033229"/>
+        <updated>2023-12-18T03:12:11.210Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]유명 모델 켄달 제너(28)와 인기 래퍼 배드 버니(29)가 10개월 만에 결별했다. 연예매체 피플은 17일(현지시간) 한 소식통의 말을 인용해 “이들은 더 이상 커플이 아니다”라고 전했다. 두 사람은 지난 10월 SNL 애프터파티에서 배드 버니가 쇼의 호스트와 음악 게스트를 겸임하면서 마지막으로 함께 있는 모습이 목격됐다]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[마돈나 “화장실 바닥에서 기절, 48시간만에 깨어나…살아있는게 기적”]]></title>
         <id>https://v.daum.net/v/20231218101235549</id>
@@ -81,12 +88,5 @@
         <link href="https://v.daum.net/v/20231217122238095"/>
         <updated>2023-12-17T04:13:12.299Z</updated>
         <content type="html"><![CDATA[[뉴스엔 하지원 기자] 팝가수 테일러 스위프트와 미식축구 선수 트래비스 켈시의 약혼설이 나왔다. 12월 16일(현지시간) 미국 연예매체 페이지식스는 트래비스 켈시가 최근 테일러 스위프트 아버지에게 결혼 허락을 구했으며, 두 사람이 함께 휴가를 보내고 있을 가능성이 크다고 보도했다. 그러면서 매체는 테일러 스위프트가 내년 2월 'The Eras Tour']]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“가슴 성형수술 후회” 빅토리아 베컴, 내 딸은 안했으면…]]></title>
-        <id>https://v.daum.net/v/20231217115748615</id>
-        <link href="https://v.daum.net/v/20231217115748615"/>
-        <updated>2023-12-17T03:11:36.140Z</updated>
-        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]전 잉글랜드 국가대표 축구선수 데이비드 베컴(48)의 아내이자 가수 겸 패션 디자이너인 빅토리아 베컴(49)이 가슴 수술을 후회했다. 그는 16일(현지시간) ‘얼루어’와 인터뷰에서 딸 하퍼 세븐(12세)에게 내면의 아름다움의 중요성에 대한 이야기를 들려주었다고 밝혔다.  몇 년 전 유방 보형물을 제거하기로 한 결정을 딸도 알]]></content>
     </entry>
 </feed>
