@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2023-12-19T19:08:28.782Z</updated>
+    <updated>2023-12-19T20:10:20.448Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이무생, '김희애vs이영애' 질문에 고뇌…"난 홍보 욕망덩어리"]]></title>
+        <id>https://v.daum.net/v/20231220051003700</id>
+        <link href="https://v.daum.net/v/20231220051003700"/>
+        <updated>2023-12-19T20:10:15.934Z</updated>
+        <content type="html"><![CDATA[(서울=뉴스1) 박하나 기자 = 배우 이무생이 '강심장 VS'에 출연해 입담을 뽐냈다. 지난 19일 오후에 방송된 SBS 예능 프로그램 '강심장 VS'에서는 '욕망덩어리 vs 금욕덩어리'라는 주제로 극과 극 토크가 펼쳐졌다. 배우 이무생, 가수 브라이언, 션, 방송인 조우종, 줄리안이 게스트로 함께했다. 드라마 '부부의 세계', '더 글로리', '서른,]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김지영, 남성진 고백 거절 이유는?…"헤어지면 김용림·남일우 어떻게 봐"]]></title>
+        <id>https://v.daum.net/v/20231220045002314</id>
+        <link href="https://v.daum.net/v/20231220045002314"/>
+        <updated>2023-12-19T20:10:15.935Z</updated>
+        <content type="html"><![CDATA[(서울=뉴스1) 박하나 기자 = 배우 김지영이 남편인 배우 남성진의 고백을 거절했던 이유를 밝혔다. 지난 19일 오후에 방송된 SBS 예능 프로그램 '신발 벗고 돌싱포맨'(이하 '돌싱포맨')에서는 배우 김지영, 정상훈, 유선이 함께했다. 이날 김지영은 남편(남성진), 시아버지(남일우), 시어머니(김용림)까지 가족 모두 배우인 '로열패밀리'로 소개돼 눈길]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["서울대 나왔는데 인생 폭망"…사회 초년생의 고뇌]]></title>
         <id>https://v.daum.net/v/20231220040015095</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20231219232747012"/>
         <updated>2023-12-19T15:11:11.242Z</updated>
         <content type="html"><![CDATA[[스타뉴스 | 안윤지 기자] 이범수 이윤진 부부 /사진=임성균 기자 tjdrbs23@배우 이범수 측이 이혼설을 즉각 부인했다. 소속사 와이원엔터테인먼트 관계자는 19일 스타뉴스에 "(SNS 글 관련) 이범수, 이윤진 부부의 개인 사정"이라면서도 "두 사람의 이혼은 아니다"라고 조심스럽게 입장을 전했다. 최근 이윤진은 자신의 SNS를 통해 "The End]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[가수 션 “철인3종 출전 子, 내가 못 뛰는 날 오면 뒤이어 뛰겠다고” 감동의 선행 DNA]]></title>
-        <id>https://v.daum.net/v/20231219231845966</id>
-        <link href="https://v.daum.net/v/20231219231845966"/>
-        <updated>2023-12-19T15:11:11.243Z</updated>
-        <content type="html"><![CDATA[[스포츠서울 | 박효실기자] 선행가수 션이 자신의 뒤를 이어 마라톤을 뛰고있는 아이들 소식을 전했다. 19일 방송된 SBS ‘강심장 VS’에 가수 션, 브라이언, 배우 이무생이 출연한 가운데 션은 자신처럼 달리기를 좋아하는 아이들 이야기에 미소를 지었다. 배우 정혜영과 사이에 2남2녀를 둔 션은 “우리 둘째가 16세인데 철인 3종 경기에 나간다”라고]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이은지, 출연자 중 '현실 커플', "지금도 만나.. 곧 100일"]]></title>
-        <id>https://v.daum.net/v/20231219230600915</id>
-        <link href="https://v.daum.net/v/20231219230600915"/>
-        <updated>2023-12-19T14:10:36.582Z</updated>
-        <content type="html"><![CDATA[[TV리포트=이지민 기자] '솔로 동창회 학연' 이은지가 '학연'을 통해 탄생한 현실 커플의 소식을 전했자. 19일 MBC '솔로 동창회 학연'(이하 '학연')에서는 신동초 동창생들의 숨 막히는 사각관계가 전개됐다. 이날 MC들은 크리스마스를 앞두고 각종 케이크를 먹으며 오프닝을 열었다. 유병재는 "크리스마스에는 초 불면서 소원을 빌지 않냐"며 "다들 소]]></content>
     </entry>
 </feed>
