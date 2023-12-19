@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-12-19T00:49:46.691Z</updated>
+    <updated>2023-12-19T01:54:09.245Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[신인상 휩쓴 홍사빈, 오늘 입대…"건강히 돌아올 것"]]></title>
+        <id>https://v.daum.net/v/20231219104120823</id>
+        <link href="https://v.daum.net/v/20231219104120823"/>
+        <updated>2023-12-19T01:53:48.952Z</updated>
+        <content type="html"><![CDATA[(사진=샘컴퍼니)[이데일리 스타in 김보영 기자] 영화 ‘화란’으로 제8회 런던아시아영화제에서 라이징 스타상과 44회 청룡영화상 신인남우상을 수상한 괴물 신인 배우 홍사빈이 오늘(19일) 입대한다. 홍사빈은 2018년 영화 ‘휴가’로 데뷔해 영화 ‘화란’, 드라마 ‘방과 후 전쟁활동’, ‘무빙’, ‘운수 오진 날’ 등에 출연해 뛰어난 연기력으로 관객들에게]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[908만 '서울의 봄', '범죄도시3' 넘고 2023 최장 1위]]></title>
+        <id>https://v.daum.net/v/20231219102518148</id>
+        <link href="https://v.daum.net/v/20231219102518148"/>
+        <updated>2023-12-19T01:53:48.952Z</updated>
+        <content type="html"><![CDATA[[스포티비뉴스=유은비 기자] 영화 '서울의 봄'이 개봉 이후 27일 연속 박스오피스 1위를 차지하며 올해 개봉한 한국영화 중 최장기간 박스오피스 1위 기록을 달성했다. 1979년 12월 12일 수도 서울에서 일어난 신군부 세력의 반란을 막기 위한 일촉즉발의 9시간을 그린 영화 '서울의 봄'이 18일 14만2501명을 불러모아 일일 박스오피스 정상을 차]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘마블 히어로’에서 ‘경성 히어로’로, 박서준의 대변신]]></title>
         <id>https://v.daum.net/v/20231219094634445</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20231219083616110"/>
         <updated>2023-12-19T00:49:27.759Z</updated>
         <content type="html"><![CDATA[[스포츠한국 조은애 기자] '외계+인'&nbsp;2부가&nbsp;미리 크리스마스 나잇 쇼케이스를 열고 예비 관객들과&nbsp;만난다. 19일 배급사 CJ ENM에 따르면 배우 류준열, 김태리, 김우빈, 이하늬, 김의성, 진선규, 최동훈 감독까지 '외계+인'&nbsp;2부의 주역들은 이날 오후&nbsp;8시 '외계+인'의 밤 2탄 '미리 크리스마스 나잇 쇼케이스'를 개최한다. 성황리에 진행된]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["역사 속 한 페이지 장식"…'노량:죽음의 바다', 미국 동시 개봉 확정]]></title>
-        <id>https://v.daum.net/v/20231219083028979</id>
-        <link href="https://v.daum.net/v/20231219083028979"/>
-        <updated>2023-12-19T00:49:27.760Z</updated>
-        <content type="html"><![CDATA[[스포츠조선 안소윤 기자] 영화 '노량: 죽음의 바다'가 '한산:용의 출현'에 이어 다시 한번 미국 개봉을 확정했다. 오는 20일 국내 개봉 예정인 '노량: 죽음의 바다'가 12월 22일 LA 지역 4개관을 시작으로 순차적으로 확대 개봉 예정이다. 지난 '한산: 용의 출현' 역시 같은 배급사에서 수입한 바 있어, 사극으로선 이례적으로 미국]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘서울의 봄’ 900만 넘고 1위]]></title>
-        <id>https://v.daum.net/v/20231219083002961</id>
-        <link href="https://v.daum.net/v/20231219083002961"/>
-        <updated>2023-12-19T00:49:27.761Z</updated>
-        <content type="html"><![CDATA[‘서울의 봄’이 27일째 1위를 지키며 천만 고지를 향해 달린다. 19일 영화진흥위원회 영화관입장권 통합전산망 집계에 따르면 영화 ‘서울의 봄’(감독 김성수)은 전날 14만2501명을 동원해 박스오피스 1위에 올랐다. 누적 관객수는 908만 3576명이다. ‘서울의 봄’은 1979년 12월 12일 수도 서울에서 일어난 신군부 세력의 반란을 막기 위한 일촉즉]]></content>
     </entry>
 </feed>
