@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-12-19T11:09:56.008Z</updated>
+    <updated>2023-12-19T12:20:01.086Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“휴 잭맨, 유부녀 배우 서튼 포스터와 불륜설” 충격]]></title>
+        <id>https://v.daum.net/v/20231219211304816</id>
+        <link href="https://v.daum.net/v/20231219211304816"/>
+        <updated>2023-12-19T12:20:00.509Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]‘울버린’ 휴 잭맨(55)이 유부녀 배우 서튼 포스터(48)와 불륜설에 휩싸였다. ‘인 터치 위클리’는 최근 “데보라 리 퍼니스(67)와 이혼한 휴 잭맨이 남편이 있는 전 브로드웨이 배우 서튼 포스터에게 마음을 빼앗겼다”고 전했다. 한 소식통은 “그들의 로맨스는 브로드웨이에서 공공연한 비밀”이라면서 “이들은 2023년 1]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[다니엘 시저, 내한 취소 사유 공개?…진위 여부 불확실]]></title>
         <id>https://v.daum.net/v/20231219194130067</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231219081120601"/>
         <updated>2023-12-19T00:49:45.980Z</updated>
         <content type="html"><![CDATA[[OSEN=최나영 기자] 할리우드 배우 조지 클루니(62)가 자신의 악명 높은 이른바 배트맨 '젖꼭지 슈트'에 대해 유쾌하게 언급했다. 조지 클루니는 최근 엔터테인먼트 투나잇과의 인터뷰에서 1997년 개봉한 영화 '배트맨 &amp; 로빈'에서 배우 아놀드 슈워제네거, 우마 서먼 등과 함께 배트맨 연기를 한 것에 이어 올해 초 영화 '플래시'에 카메오로 출연한]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['앤트맨3' 악역 배우 조너선 메이저스, 연인 폭행 혐의 유죄]]></title>
-        <id>https://v.daum.net/v/20231219054544606</id>
-        <link href="https://v.daum.net/v/20231219054544606"/>
-        <updated>2023-12-18T21:09:57.026Z</updated>
-        <content type="html"><![CDATA[(뉴욕=연합뉴스) 고일환 특파원 = 영화 '앤트맨 3'에서 악역인 정복자 캉을 연기한 미국 배우 조너선 메이저스(34)가 여자친구를 폭행한 혐의로 유죄 평결을 받았다. 뉴욕포스트는 18일(현지시간) 뉴욕 맨해튼형사법원 배심원단이 이날 메이저스에게 유죄평결을 내렸다고 보도했다. 메이저스는 지난 3월 차량 뒷좌석에서 당시 여자친구였던 배우 그레이스 자바리(30]]></content>
     </entry>
 </feed>
