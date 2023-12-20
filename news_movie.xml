@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-12-20T03:10:23.013Z</updated>
+    <updated>2023-12-20T04:11:17.258Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['노량' 김윤석·정재영 "이순신, 부담 컸지만…후회드리지 않을 영화"]]></title>
+        <id>https://v.daum.net/v/20231220125843095</id>
+        <link href="https://v.daum.net/v/20231220125843095"/>
+        <updated>2023-12-20T04:11:01.147Z</updated>
+        <content type="html"><![CDATA[(서울=뉴스1) 고승아 기자 = 배우 김윤석과 정재영이 영화 '노량: 죽음의 바다'(감독 김한민)를 적극 추천했다. 20일 오후 방송된 SBS 라디오 파워FM '최화정의 파워타임'에는 '노량: 죽음의 바다'에 출연한 김윤석, 정재영이 출연해 "이 영화는 후회를 드리지 않는다"라고 자신했다. 이날 김윤석은 "2년 만에 '모가디슈'에 이어서 '노량으로 인사]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['노량', 천만 '서울의 봄' 이을 흥행 보인다]]></title>
         <id>https://v.daum.net/v/20231220114525449</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231220094403861"/>
         <updated>2023-12-20T01:31:55.158Z</updated>
         <content type="html"><![CDATA[(서울=뉴스1) 고승아 기자 = *영화의 주요 내용을 포함한 스포일러가 있을 수 있습니다. DC 히어로 유니버스 '아쿠아맨' 시리즈가 5년 만에 돌아왔다. 전작 '아쿠아맨'은 개봉 당시 국내에서 504만 관객을 동원해 DC 최고 흥행작으로 등극한 만큼, DC 유니버스의 부활 가능성을 엿보게 했던 터. 마블 등 히어로 영화들이 힘을 못 쓰고 있는 시기에]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“상상으로 만든 이순신 유언 장면… 장군 살아계셔도 부끄럽지 않을 듯”]]></title>
-        <id>https://v.daum.net/v/20231220094208773</id>
-        <link href="https://v.daum.net/v/20231220094208773"/>
-        <updated>2023-12-20T01:31:55.159Z</updated>
-        <content type="html"><![CDATA[20일 개봉한 영화 ‘노량 : 죽음의 바다’(이하 ‘노량’)엔 “나의 죽음을 적에게 알리지 마라”란 이순신 장군의 최후 한마디가 나오지 않는다. 정확히는 조금 심심해졌다. 김한민 감독은 19일 이순신의 유언 장면에 대해 “뺄까도 생각했다”고 말했다. “어떻게 표현하든 비교될 것 같아서 (피하자는) 얄팍한 생각도 했었죠.” 김 감독은 개봉을 하루]]></content>
     </entry>
 </feed>
