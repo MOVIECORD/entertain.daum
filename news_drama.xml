@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-12-20T12:16:33.545Z</updated>
+    <updated>2023-12-20T13:10:45.083Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[오혜원, 유연석 아들 임신했는데 어쩌나..살인마 남편 때문에 이성민에 납치]]></title>
+        <id>https://v.daum.net/v/20231220214931809</id>
+        <link href="https://v.daum.net/v/20231220214931809"/>
+        <updated>2023-12-20T13:10:32.658Z</updated>
+        <content type="html"><![CDATA[[OSEN=박소영 기자] 배우&nbsp;오혜원이 티빙&nbsp;오리지널 시리즈 ‘운수&nbsp;오진 날’에서 긴장감을 고조시키는 강렬한 연기로 시선을 집중시키고 있다. 티빙&nbsp;오리지널 시리즈 ‘운수&nbsp;오진 날’(연출 필감성·극본 김민성, 송한나·기획 스튜디오드래곤·제작 더그레이트쇼, 스튜디오N·제공 티빙)은 평범한 택시기사&nbsp;오택(이성민 분)이 고액을 제시하는 묵포행 손님(유연석 분)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[정우성♥신현빈, 눈맞춤 입맞춤]]></title>
         <id>https://v.daum.net/v/20231220204409765</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231220165456555"/>
         <updated>2023-12-20T08:12:12.136Z</updated>
         <content type="html"><![CDATA[[뉴스엔 황혜진 기자] 배우 전도연이 새 드라마 '자백의 대가'로 안방극장에 복귀할까. 전도연 소속사 매니지먼트 숲 측은 12월 20일 뉴스엔에 "전도연이 '자백의 대가' 출연을 제안받았다. 검토 중인 작품 중 하나"라고 공식입장을 밝혔다. '자백의 대가'는 살인사건을 둘러싼 두 여성의 핏빛 연대기를 다루는 작품이다. 캐스팅 불발로 상반기 한 차례 제작을]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘밤이 되었습니다’ 김우석 “결말? 준희는 아쉬울 수 있지만..개인적으로 만족”]]></title>
-        <id>https://v.daum.net/v/20231220165418536</id>
-        <link href="https://v.daum.net/v/20231220165418536"/>
-        <updated>2023-12-20T08:12:12.143Z</updated>
-        <content type="html"><![CDATA[[OSEN=김채연 기자] (인터뷰①에 이어) 김우석이 ‘밤이 되었습니다’ 종영과 함께 올해를 돌아봤다. U+모바일tv 오리지널 ‘밤이 되었습니다’에서 김준희 역을 맡아 활약한 김우석은 종영을 앞두고 최근 OSEN과 서면 인터뷰를 진행했다. ‘밤이&nbsp;되었습니다’는 종료가 불가능한 의문의 마피아 게임에 강제로 참여하게 된 유일고 2학년 3반의 하이틴 미스터리]]></content>
     </entry>
 </feed>
