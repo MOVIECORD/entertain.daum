@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-12-20T01:32:14.934Z</updated>
+    <updated>2023-12-20T02:09:43.095Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['노량' 김윤석→이무생, 오늘부터 생방 릴레이 라디오 출정]]></title>
+        <id>https://v.daum.net/v/20231220105248854</id>
+        <link href="https://v.daum.net/v/20231220105248854"/>
+        <updated>2023-12-20T02:09:25.284Z</updated>
+        <content type="html"><![CDATA[[OSEN=하수정 기자] 올겨울 이순신 3부작 프로젝트의 대미를 장식할 영화 '노량: 죽음의 바다'(감독 김한민, 제공 ㈜에이스메이커무비웍스·롯데엔터테인먼트, 배급 롯데엔터테인먼트·㈜에이스메이커무비웍스, 제작 ㈜빅스톤픽쳐스)의 주역들이 개봉주를 맞아 릴레이로 라디오 프로그램에 출격할 예정이다. 바로 오늘(20일) 개봉하는 영화 '노량: 죽음의 바다'의]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DCEU에 대한 미련을 남기지 않는 후련한 영화]]></title>
+        <id>https://v.daum.net/v/20231220105102773</id>
+        <link href="https://v.daum.net/v/20231220105102773"/>
+        <updated>2023-12-20T02:09:25.288Z</updated>
+        <content type="html"><![CDATA[[김준모 기자] ▲ &nbsp;&lt;아쿠아맨과 로스트 킹덤&gt; 포스터ⓒ 워너 브라더스 코리아&nbsp; DC 확장 유니버스, DCEU의 그 시작은 창대했으나 끝은 미약했다. DC 코믹스는 배트맨, 슈퍼맨, 원더우먼 등 마블 코믹스보다 더 인지도 높은 히어로를 보유한 것에 더해 앞서 영화계 히어로 열풍을 일으켰다. 때문에 작정하고 그 세계관을 실사 영화로 제작에 나선 DCEU의 성]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['노량: 죽음의 바다' 개봉 D-day, 이순신 3부작 피날레 장식할까]]></title>
         <id>https://v.daum.net/v/20231220102806821</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20231220090814503"/>
         <updated>2023-12-20T00:39:48.237Z</updated>
         <content type="html"><![CDATA[[뉴스엔 배효주 기자] '외계+인' 2부 메인 예고편이 최초 공개됐다. 1월 10일 개봉하는 영화 '외계+인'(감독 최동훈) 2부는 치열한 신검 쟁탈전 속 숨겨진 비밀이 밝혀지는 가운데 미래로 돌아가 모두를 구하려는 인간과 도사들의 이야기를 그린 작품이다. 공개된 메인 예고편은 마침내 신검을 손에 넣게 된 ‘이안’(김태리)이 미래로 돌아가 모두를 구하기]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['서울의 봄', 천만 영화 고지 목전…28일 연속 박스오피스 1위]]></title>
-        <id>https://v.daum.net/v/20231220085602964</id>
-        <link href="https://v.daum.net/v/20231220085602964"/>
-        <updated>2023-12-20T00:39:48.238Z</updated>
-        <content type="html"><![CDATA[[텐아시아=이하늘 기자] 영화 '서울의 봄'(감독 김성수)이 천만 영화 고지에 다가섰다. '서울의 봄'은 1979년 12월 12일 수도 서울에서 일어난 신군부 세력의 반란을 막기 위한 일촉즉발의 9시간을 그린 영화. 20일 영화진흥위원회 통합전산망에 따르면, 지난 19일 '서울의 봄'은 12만 5815명 관객을 동원하면서 28일 연속 박스오피스 1위를]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['女 씨름 선수의 영광과 애환' 영화 모래바람, 유럽 선댄스 출품]]></title>
-        <id>https://v.daum.net/v/20231220085400911</id>
-        <link href="https://v.daum.net/v/20231220085400911"/>
-        <updated>2023-12-20T00:39:48.240Z</updated>
-        <content type="html"><![CDATA[여자 씨름 선수들의 사연을 담은 영화가 국제 영화제 수상에 도전한다. 대한씨름협회는 19일 "다큐멘터리 영화 '모래바람'이 내년 1월 25일부터 2월 4일까지 네덜란드 로테르담에서 열리는 '제53회 로테르담국제영화제' 밝은 미래(Bright Future) 섹션에 출품된다"고 전했다. '모래바람'은 2017년 최강의 여자 씨름단 '콜핑'에서 뛰었던 임수정,]]></content>
     </entry>
 </feed>
