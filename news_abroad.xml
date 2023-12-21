@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-12-21T00:49:02.246Z</updated>
+    <updated>2023-12-21T01:52:16.189Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“25살 연하 러시아 이혼녀와 열애” 톰 크루즈 “정말 행복해, 우린 잘 될거야” 확신]]></title>
+        <id>https://v.daum.net/v/20231221101317658</id>
+        <link href="https://v.daum.net/v/20231221101317658"/>
+        <updated>2023-12-21T01:52:15.597Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]세계적 배우 톰 크루즈(61)가 러시아 사교계 인사 엘시나 카이로바(36)에 푹 빠졌다. 한 소식통은 20일(현지시간) US위클리와 인터뷰에서 “그들은 매우 행복하다”면서 “톰을 장기적으로 잘 될 것이라고 확신하고 있다”고 말했다. 크루즈는 이달 초 런던의 그로스베너 광장에서 열린 파티에서 카이로바와 다정하게 어울렸다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“54살인데 아이 낳으라고?” 머라이어 캐리, 7년 사귄 남친과 결별 “14살 나이 차이 극복못해”]]></title>
         <id>https://v.daum.net/v/20231221090507929</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231220145519258"/>
         <updated>2023-12-20T06:12:47.621Z</updated>
         <content type="html"><![CDATA[[OSEN=최나영 기자] 영화 '바비' 감독 그레타 거윅(40)과 '결혼 이야기' 등으로 유명한 감독 노아 바움백이 약 12년 열애 끝 결혼식을 올렸다. 명감독 부부의 탄생이다. 페이지식스의 19일(현지시간) 보도에 따르면 두 사람은 이날 미국&nbsp;뉴욕 시청에서 백년가약을 맺었다. 그런 다음 두 사람은 가수 빌리 조엘의 매디슨 스퀘어 가든 콘서트에 참석해&nbsp;]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['이혼' 비비안 수, 새로운 사람과 어울리며 자유 만끽...성탄절 안 외로워]]></title>
-        <id>https://v.daum.net/v/20231220144500723</id>
-        <link href="https://v.daum.net/v/20231220144500723"/>
-        <updated>2023-12-20T06:12:47.622Z</updated>
-        <content type="html"><![CDATA[[TV리포트=이경민 기자] 최근 이혼 소식을 알린 대만 톱스타 비비안 수(48)의 근황이 전해졌다.&nbsp; 지난 19일(현지 시간) 비비안 수는 자신의 소셜네트워크서비스를 통해 일본 유명 가수 미샤와 함께 찍은 사진을 공개했다. 비비안 수는 미샤가 주최하는&nbsp;크리스마스 특집 프로그램 'HAPPY Christmas Dollhouse MISIA 2023'에 초청 받]]></content>
     </entry>
 </feed>
