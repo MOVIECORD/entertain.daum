@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-12-21T15:11:16.996Z</updated>
+    <updated>2023-12-21T16:14:19.756Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['외계+인2' 핵심 키워드 3]]></title>
+        <id>https://v.daum.net/v/20231222010430780</id>
+        <link href="https://v.daum.net/v/20231222010430780"/>
+        <updated>2023-12-21T16:13:59.285Z</updated>
+        <content type="html"><![CDATA[[TV리포트=김연주 기자] 영화 '외계+인' 2부의 알고 보면 더 재미있는 핵심 키워드 세 가지가 공개됐다. 영화 '외계+인' 2부는 치열한 신검 쟁탈전 속 숨겨진 비밀이 밝혀지는 가운데 현재로 돌아가 모두를 구하려는 인간과 도사들의 이야기를 그린 영화다. 개봉을 앞두고 공개된 첫 번째 관전 키워드는 미래로 돌아가 모두를 지키려는 '이안'의 활약이다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[올해도 '뜨거운 안녕'…연말 극장가 채우는 기대작]]></title>
         <id>https://v.daum.net/v/20231222000147388</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231221142518427"/>
         <updated>2023-12-21T06:13:59.528Z</updated>
         <content type="html"><![CDATA[[OSEN=하수정 기자] 독창적인 세계관 속 매력적인 캐릭터들의 눈부신 시너지와 역대급 스케일의 볼거리를 선사할 영화 '외계+인'(각본감독 최동훈, 제공배급 CJ ENM, 제작 케이퍼필름) 2부가 알고 보면 더 재미있는 2부의 핵심 키워드 세 가지를 공개했다. #1 모두를 지키기 위해 반드시 돌아가야 한다 극의 흡인력을 끌어올리는 ‘이안’의 역대급 활약]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['노량'·'서울의 봄', 연말 극장가 윈-윈 행보]]></title>
-        <id>https://v.daum.net/v/20231221142244332</id>
-        <link href="https://v.daum.net/v/20231221142244332"/>
-        <updated>2023-12-21T06:13:59.528Z</updated>
-        <content type="html"><![CDATA[[스포티비뉴스=강효진 기자] 영화 '노량: 죽음의 바다'와 '서울의 봄'이 맹렬한 흥행 기세를 이어가고 있어 눈길을 끈다. 영화 '서울의 봄'은 1979년 12월 12일 수도 서울에서 일어난 신군부 세력의 반란을 막기 위한 일촉즉발의 9시간을 그린 영화다. 천만 관객 돌파를 앞둔 이번 작품은 한국영화 좌석판매율 1위에 등극하며 압도적인 흥행 파워를 이]]></content>
     </entry>
 </feed>
