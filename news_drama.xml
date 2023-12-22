@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-12-22T08:13:53.094Z</updated>
+    <updated>2023-12-22T09:11:39.571Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['소년시대' 이선빈 "실제 학창시절 흑거미? 그랬다면 활동 못했을 것"]]></title>
+        <id>https://v.daum.net/v/20231222180141202</id>
+        <link href="https://v.daum.net/v/20231222180141202"/>
+        <updated>2023-12-22T09:11:26.784Z</updated>
+        <content type="html"><![CDATA['소년시대'에서 부여 싸움 짱으로 등장한 이선빈이 자신의 학창시절을 떠올렸다. 이선빈은 최근 서울 종로구 삼청동에 위치한 한 카페에서 iMBC연예와 만나 쿠팡플레이 오리지널 '소년시대'(극본 김재환, 감독 이명우) 종영 인터뷰를 진행했다. 지난달 24일 첫 공개된 '소년시대'는 1989년 충청남도를 배경으로, 안 맞고 사는 게 일생일대의 목표인 온양]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[아직도 안 봤슈?…'소년시대', 결말도 완벽할까]]></title>
+        <id>https://v.daum.net/v/20231222175006918</id>
+        <link href="https://v.daum.net/v/20231222175006918"/>
+        <updated>2023-12-22T09:11:26.790Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 이창규 기자) 레트로함으로 무장한 '소년시대'의 마지막회가 오늘(22일) 공개된다. 결말에 대한 관심도 뜨거워지고 있다. 지난달 24일 첫 공개된 쿠팡플레이 오리지널 시리즈 '소년시대'(감독 이명우)는&nbsp;1989년 충청남도, 안 맞고 사는 게 일생일대의 목표인 온양 찌질이 병태(임시완 분)가 하루아침에 부여 짱으로 둔갑하면서 벌어지는 이야기.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[차은우x박규영, 눈만 마주쳐도 웃네..달달 메이킹]]></title>
         <id>https://v.daum.net/v/20231222170621732</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20231222144024104"/>
         <updated>2023-12-22T06:14:38.037Z</updated>
         <content type="html"><![CDATA[[OSEN=박소영 기자] 배우&nbsp;김법래가 변화무쌍한 연기로 종횡무진 활약하고 있다. 김법래는 최근 아마존 프라임 드라마 ‘내 남자는 큐피드’부터 티빙 오리지널 시리즈 ‘이재, 곧 죽습니다’, ENA 수목드라마 ‘모래에도 꽃이 핀다’ 등 화제의 작품에 연이어 출연하며 묵직한 존재감을 과시하고 있다.&nbsp; 지난 1일부터 매주 공개되고 있는 ‘내 남자는 큐피드’에]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김유정X송강 가면 안보현 온다..SBS '재벌X형사' 1월 26일 첫방]]></title>
-        <id>https://v.daum.net/v/20231222142148460</id>
-        <link href="https://v.daum.net/v/20231222142148460"/>
-        <updated>2023-12-22T06:14:38.038Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 | 윤성열 기자] /사진제공=SBS '재벌X형사' SBS 새해 첫 금토드라마 '재벌X형사'가 첫 방송일을 확정했다. '재벌X형사'(극본 김바다, 연출 김재홍, 제작 스튜디오S·빅오션이엔엠·비에이 엔터테인먼트) 측은 오는 1월 26일 오후 10시 첫 방송한다고 22일 밝혔다. 지난달 24일부터 방영 중인 김유정, 송강 주연의 SBS 금토드라마]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“돈돈빽빽” 안보현, 재벌3세 형사 변신..‘재벌X형사’ 1월 26일 첫 방송]]></title>
-        <id>https://v.daum.net/v/20231222141914337</id>
-        <link href="https://v.daum.net/v/20231222141914337"/>
-        <updated>2023-12-22T06:14:38.040Z</updated>
-        <content type="html"><![CDATA[[OSEN=김채연 기자] SBS의 금토 사이다 유니버스를 재가동시킬&nbsp;2024년 첫 드라마&nbsp;'재벌X형사'가 오는&nbsp;1월&nbsp;26일 첫 방송일을 확정 지으며 티저 포스터를 전격 공개했다. '마이데몬'&nbsp;후속으로 방송되는&nbsp;SBS&nbsp;새 금토드라마&nbsp;'재벌X형사'(극본 김바다/연출 김재홍/제작 스튜디오S,&nbsp;빅오션이엔엠,&nbsp;비에이 엔터테인먼트)는&nbsp;철부지 재벌3세가 강력팀 형사가]]></content>
     </entry>
 </feed>
