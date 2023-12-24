@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2023-12-24T17:09:50.562Z</updated>
+    <updated>2023-12-24T18:13:44.682Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['런닝맨' 지석진, 잠정 하차에 "정말 짧은 힐링, 금방 복귀할 것" 약속]]></title>
+        <id>https://v.daum.net/v/20231225022700046</id>
+        <link href="https://v.daum.net/v/20231225022700046"/>
+        <updated>2023-12-24T18:13:39.810Z</updated>
+        <content type="html"><![CDATA[[SBS연예뉴스 | 김효정 에디터] 지석진이 곧 돌아오겠다고 약속했다. 24일 방송된 SBS '런닝맨'에서는 오프닝에 5명만이 등장해 눈길을 끌었다. 이날 방송에서는 김동현이 지석진의 빈자리를 채웠다. 김동현의 등장에 멤버들은 어느 때보다 반갑게 맞았다. 그리고 멤버들은 김동현에게 걱정하고 있는 지석진에게 한 마디를 하라고 했다. 이에 김동현은 "너무 걱정]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['먹찌빠' 신기루, "씹을수록 고소한 과메기는 많이 먹어도 살 안 쪄"]]></title>
         <id>https://v.daum.net/v/20231225010300969</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231224223025263"/>
         <updated>2023-12-24T14:09:05.839Z</updated>
         <content type="html"><![CDATA[[스포츠조선닷컴 김준석 기자] 배우 이동건이 과거 외상 후 스트레스 장애(PTSD) 진단을 받아 입원 치료를 받았다고 밝혔다. 24일 방송된 SBS '미운 우리 새끼'에는 정신건강의학과를 찾는 이동건의 모습이 그려진다. 이날 이동건은 본인의 지나친 음주 생활을 알고 있는 주변 지인들의 우려에 정신건강의학과를 찾았다. 이동건은 "부모님은 말 할]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['마에스트라' 예수정 사망, 이영애 눈물의 연주회]]></title>
-        <id>https://v.daum.net/v/20231224222518242</id>
-        <link href="https://v.daum.net/v/20231224222518242"/>
-        <updated>2023-12-24T14:09:05.839Z</updated>
-        <content type="html"><![CDATA[[티브이데일리 최하나 기자] '마에스트라' 예수정이 사망했다. 24일 밤 방송된 tvN 토일드라마 '마에스트라' 6회에서 차세음(이영애)이 공연을 하던 도중 모친 배정화(예수정)가 사망했다. 차세음이 오케스트라 단원들과 함께 열정적으로 연주회를 이어가는 동안 배정화는 생과 사를 오갔다. 그러던 중 결국 배정화가 숨을 거뒀고, 차세음은 성공적으로 연주회]]></content>
     </entry>
 </feed>
