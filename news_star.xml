@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2023-12-25T17:09:32.547Z</updated>
+    <updated>2023-12-25T18:13:33.899Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[르세라핌 카즈하, 완성형 미모]]></title>
+        <id>https://v.daum.net/v/20231226025613300</id>
+        <link href="https://v.daum.net/v/20231226025613300"/>
+        <updated>2023-12-25T18:13:29.597Z</updated>
+        <content type="html"><![CDATA[[스포츠한국 이혜영 기자] 그룹 르세라핌 카즈하가 25일 오후 인천 영종동 인스파이어 컨베션에서 열린 '2023 SBS 가요대전' 레드카펫 행사에 참석하고 있다. 이날 행사에는 니쥬, 싸이커스, 엔믹스, 엔싸인, 스테이씨, 동방신기, 뉴진스, 크래비티, 프로미스나인, 엔하이픈, 르세라핌, 더보이즈, 에스파, 보이넥스트도어, 있지, 에이티즈, 앤팀,]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[르세라핌, 예쁜 볼하트]]></title>
         <id>https://v.daum.net/v/20231226014420247</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231225231155560"/>
         <updated>2023-12-25T15:11:49.339Z</updated>
         <content type="html"><![CDATA[[OSEN=김나연 기자] 'SBS 가요대전'이 논란 속에서 막을 내렸다. 공연은 끝났지만, 공연 내내 끊이지 않았던 사건사고로 팬들의 원성을 사고 있다. 25일 오후&nbsp;인스파이어 아레나에서는 'SBS 가요대전'이 진행됐다. 샤이니 키, 투모로우바이투게더 연준, 아이브 안유진의 진행 속에서 열린 'SBS 가요대전'에는&nbsp;동방신기, NCT 127, NCT DR]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[미주, 데이트 중 눈 부상, 피멍에 '깜짝' "너무 놀랐다"]]></title>
-        <id>https://v.daum.net/v/20231225230330518</id>
-        <link href="https://v.daum.net/v/20231225230330518"/>
-        <updated>2023-12-25T14:10:08.976Z</updated>
-        <content type="html"><![CDATA[[TV리포트=이지민 기자] '내가 뭐라고' 미주가 글로벌 팬 로버트와의 데이트 중 예기치 못한 부상을 입었다. 25일 tvN 예능 프로그램 ‘내가 뭐라고’에서는 스타와 팬의 특별한 만남, 마지막 날이 전파를 탔다. 방송에는 미주와 로버트의 두 번째 날이 공개됐다. 미주는 로버트가 “슬로바키아엔 바다가 없다. 가 보고 싶어”라고 말하자 “나만 믿어”라고 자]]></content>
     </entry>
 </feed>
