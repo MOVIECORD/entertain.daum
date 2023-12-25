@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/variety</id>
     <title>다음 연예 ─ 뉴스 ─ 예능</title>
-    <updated>2023-12-25T02:24:20.926Z</updated>
+    <updated>2023-12-25T03:11:50.970Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[장나라 "♥6살 연하 촬영감독 남편, 내가 먼저 고백했다"]]></title>
+        <id>https://v.daum.net/v/20231225115120630</id>
+        <link href="https://v.daum.net/v/20231225115120630"/>
+        <updated>2023-12-25T03:11:41.448Z</updated>
+        <content type="html"><![CDATA[[OSEN=김나연 기자] 가수 겸 배우 장나라가 남편과의 러브스토리를 공개했다. 24일 tvN '유 퀴즈 온 더 블럭' 공식 채널에는 "사랑꾼 장나라 자기님의 러브스토리부터 노래 메들리까지"라는 제목으로 예고 영상이 업로드 됐다. 이날 장나라는 "새해 복 많이 받으시라"며&nbsp;떡 선물을 갖고 등장해 눈길을 끌었다. 이에 유재석은 "지금 선물부터 모든 것들이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['강심장VS' 댄서 미나명 "4년 넘게 연애 중인 남자 친구 있어"]]></title>
         <id>https://v.daum.net/v/20231225112206268</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231225101558286"/>
         <updated>2023-12-25T01:52:57.990Z</updated>
         <content type="html"><![CDATA[[뉴스엔 이민지 기자] 옥주현이 레슨에 나선다. 12월 26일 오후 8시 10분 방송 예정인 채널A ‘오은영의 금쪽 상담소’에는 뮤지컬계 대표 디바 옥주현, 리사, 이지혜가 출연한다. 누적 관객 100만을 자랑하며 뮤지컬계 스테디셀러에 등극한 뮤지컬 ‘레베카’의 주역인 세 사람은 같은 맨덜리 저택에 살고 있다며 서로를 소개한다. 옥주현과 리사는 맨덜리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘동상이몽’ 이봉원, 억대 호화 요트 생활 공개…김구라 경악]]></title>
-        <id>https://v.daum.net/v/20231225100752155</id>
-        <link href="https://v.daum.net/v/20231225100752155"/>
-        <updated>2023-12-25T01:52:57.992Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 이민지 기자] 이봉원이 요트 플렉스를 보여준다. 12월 25일 오후 10시 방송되는 SBS '동상이몽 시즌2 -너는 내 운명'(이하 ‘동상이몽’)에서는 이봉원의 호화 요트 살이가 공개된다. 이봉원이 억대 호화 요트에서 생활하는 모습을 공개했다. 평소 천안에서 홀로 짬뽕집을 운영하며 1.5룸에서 생활하던 이봉원은 방 4개에 3개의 화장실까지 갖춘]]></content>
     </entry>
 </feed>
