@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/variety</id>
     <title>다음 연예 ─ 뉴스 ─ 예능</title>
-    <updated>2023-12-26T15:10:46.493Z</updated>
+    <updated>2023-12-26T16:13:17.334Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[송은이 "2년 전 번아웃 심해, 다 집어 던지고 싶었다"]]></title>
+        <id>https://v.daum.net/v/20231227010012807</id>
+        <link href="https://v.daum.net/v/20231227010012807"/>
+        <updated>2023-12-26T16:13:07.302Z</updated>
+        <content type="html"><![CDATA[[OSEN=연휘선 기자] 코미디언 송은이가 번아웃을 고백했다.&nbsp; 지난 26일 유튜브 채널 '비보TV'에 공개된 '심리 상담받고 눈물 콧물 쏙 뺀 송쎄오'에서는 CEO 송은이의 하루가 그려졌다.&nbsp; 이날 '비보TV' 제작진은 송은이를 위해 심리 상담 카페를 준비했다. 직원들은 "너무 일만 하신 것 같다"라며 "조금 힐링을 하시면 좋을 것 같아서 한해 마무리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[신주아, 태국 재벌가 클래스 면모 “방 갯수 몰라”]]></title>
         <id>https://v.daum.net/v/20231226235700385</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231226225340048"/>
         <updated>2023-12-26T14:10:24.240Z</updated>
         <content type="html"><![CDATA[[OSEN=박근희 기자] '강심장VS’ 전현무가 촬영이 끝나면 바로 떠난다고 밝혔다. 26일 전파를 탄 SBS ‘강심장VS’에서는 ‘꼰대 VS MZ’ 특집, 극과 극 취향 토크가 펼쳐졌다. 세대를 분류하는 게 꼰대라는 전현무는 “난 단 한 번도 꼰대인 적이 없어”라고 단호하게 말했다. 조현아는 “단 한 번도 세상에 태어나서?”라고 물었다. 전현무는 “난]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이은학 “軍 휴가 때 이지은에 연락, 관심 있다고 고백”]]></title>
-        <id>https://v.daum.net/v/20231226225235043</id>
-        <link href="https://v.daum.net/v/20231226225235043"/>
-        <updated>2023-12-26T14:10:24.241Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 장예솔 기자] '학연' 이은학이 과거 이지은에게 호감을 느꼈다고 고백했다. 12월 26일 방송된 MBC '솔로동창회 학연'(이하 '학연')에서는 사랑과 우정 사이에서 갈등하는 신동초 동창들의 팽팽한 신경전이 그려졌다. 이날 동창들은 '오늘 당신을 가장 설레게 한 동창은 누구인가요? 지금 바로 이름을 적어 보내세요'라는 미션을 전달받았다. 모두]]></content>
     </entry>
 </feed>
