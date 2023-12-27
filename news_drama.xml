@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-12-27T20:11:15.530Z</updated>
+    <updated>2023-12-27T21:10:06.593Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[장나라 "♥6세 연하 남편, 미소에 반해..잘생긴 당나귀상"]]></title>
+        <id>https://v.daum.net/v/20231228054501404</id>
+        <link href="https://v.daum.net/v/20231228054501404"/>
+        <updated>2023-12-27T21:09:52.152Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 | 이시호 기자] /사진=tvN '유 퀴즈 온 더 블럭' 방송 화면 캡처 배우 장나라가 6세 연하 남편을 공개했다. 27일 방송된 tvN 예능 프로그램 '유 퀴즈 온 더 블럭'에서는 '해피엔딩' 특집으로 배우 장나라가 출연해 6세 연하 남편과의 러브스토리를 공개했다. 이날 장나라는 신혼생활 어떻냐는 유재석의 질문에 바로 "좋다"며 웃음을 터뜨]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['유퀴즈' 장나라, ♥6세 연하 남편에 "좋아한다고 먼저 고백" 깜짝]]></title>
         <id>https://v.daum.net/v/20231227223327304</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231227182759843"/>
         <updated>2023-12-27T10:11:34.816Z</updated>
         <content type="html"><![CDATA[[동아닷컴] 10년 만에 사극으로 귀환한 배우 최수종이 명품 열연으로 안방극장을 제대로 사로잡았다. 지난 24일 방송된 공영방송 50주년 특별 기획 KBS 2TV 대하드라마 ‘고려거란전쟁’(극본 이정우/ 연출 전우성, 김한솔/ 제작 몬스터유니온, 비브스튜디오스) 13회에서 강감찬(최수종 분)은 거란군을 철군시키기 위해 소배압(김준배 분)과 내통하는 방법을]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[신재휘, 신현빈과 찐 남매인 줄…존재감 폭발]]></title>
-        <id>https://v.daum.net/v/20231227175435871</id>
-        <link href="https://v.daum.net/v/20231227175435871"/>
-        <updated>2023-12-27T09:11:14.614Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 하지원 기자] ‘사랑한다고 말해줘’ 신재휘에게 스며들고 있다. 신재휘가 지니 TV 오리지널 월화드라마 ‘사랑한다고 말해줘’에서 뽐내는 존재감 때문이다. 그는 정모은(신현빈 분)의 친동생이자 오지유(박진주 분)를 좋아하는 헬스 트레이너 정모담 역을 맡아 안방을 유쾌한 웃음으로 물들이는 중이다. 신재휘가 등장하면 무조건 웃음 보장일 정도로 드라마에서]]></content>
     </entry>
 </feed>
