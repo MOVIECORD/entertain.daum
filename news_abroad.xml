@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-12-27T23:10:48.178Z</updated>
+    <updated>2023-12-28T00:48:23.185Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[왕리홍 콘서트 보려고 '배설물' 트럭까지 올라간 극성팬]]></title>
+        <id>https://v.daum.net/v/20231228091130704</id>
+        <link href="https://v.daum.net/v/20231228091130704"/>
+        <updated>2023-12-28T00:48:22.573Z</updated>
+        <content type="html"><![CDATA[[TV리포트=강성훈 기자] 대만계 미국인 가수 왕리홍(47)이 콘서트를 개최했다. 이 가운데 극성팬이 '배설물' 트럭까지 올라가 콘서트를 관람한 것으로 전해져 누리꾼의 눈살을 찌푸리게 했다. 26일(현지 시간) 중국 매체 '차이나프레스' 보도에 따르면 왕리홍은 중국 지안시에서 공연을 펼쳤는데 무려 6만 명의 팬들이 모였다. 티켓을 구하지 못한 일부 팬들은]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[머라이어 케리, 14세 연하 남자친구 다나카와 결별]]></title>
+        <id>https://v.daum.net/v/20231228081048336</id>
+        <link href="https://v.daum.net/v/20231228081048336"/>
+        <updated>2023-12-28T00:48:22.573Z</updated>
+        <content type="html"><![CDATA[(로스앤젤레스=연합뉴스) 임미나 특파원 = 팝스타 머라이어 케리(54)가 지난 7년간 사귄 14세 연하 남자친구 브라이언 다나카(40)와 결별했다고 AP통신과 미 연예매체 피플 등이 27일(현지시간) 전했다. 다나카는 전날 인스타그램에 올린 글에서 "머라이어 케리와 7년간의 엄청난 시간을 함께한 뒤 원만한 결별을 하게 됐다는 소식을 공유한다"며 "각자 다른]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[1년 전 사망 아론 카터처럼 누나도 욕실서 숨진 채 발견..세부 공개]]></title>
         <id>https://v.daum.net/v/20231228073614820</id>
@@ -95,12 +109,5 @@
         <link href="https://v.daum.net/v/20231227095434733"/>
         <updated>2023-12-27T01:49:30.077Z</updated>
         <content type="html"><![CDATA[[스포츠서울 | 유다연기자] 미국 래퍼 칸예 웨스트와 인플루언서 킴 카다시안의 딸 노스웨스트가 자신의 래퍼 예명을 공개했다. 노스 웨스트는 12일(현지시각) 칸예 웨스트와 타이 달러 사인(Ty Dolla $ign)이 함께 발매한 ‘벌처’(Vultures)에서 자신의 랩을 공개했다. 웨스트는 “나는 여기가 좋고 우린 또 다른 한해를 이어갈 거예요. 당신]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美 팝스타 백스트리트 보이즈 닉 카터, 크리스마스 이브 전날 여동생 잃어…5남매 중 3명 사망]]></title>
-        <id>https://v.daum.net/v/20231227094914534</id>
-        <link href="https://v.daum.net/v/20231227094914534"/>
-        <updated>2023-12-27T01:49:30.081Z</updated>
-        <content type="html"><![CDATA[[스포츠서울 | 유다연기자] 미국 출신 90년대 팝스타 백스트리트 보이즈 멤버 닉 카터(42)가 지난해에 이어 올해도 동생을 잃는 아픔을 겪었다. 미 연예매체 TMZ는  24일(현지시각) 닉 카터의 동생인 바비 진 카터(41)가 지난 23일 미국 플로리다주 자택에서 숨졌다고 보도했다. 사인은 알려지지 않았다. 바비 진은 지난해 11월 약물 과다 복용으]]></content>
     </entry>
 </feed>
