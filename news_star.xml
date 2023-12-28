@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2023-12-28T17:10:02.206Z</updated>
+    <updated>2023-12-28T18:13:47.605Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['과몰입인생사' 20세기 액션의 아이콘 이소룡, 그가 선택이 바뀌었다면 미래는?]]></title>
+        <id>https://v.daum.net/v/20231229024501348</id>
+        <link href="https://v.daum.net/v/20231229024501348"/>
+        <updated>2023-12-28T18:13:42.602Z</updated>
+        <content type="html"><![CDATA[[SBS연예뉴스 | 김효정 에디터] 이소룡이 선택하지 않은 미래는 어떤 일이 일어났을까? 28일 방송된 SBS '과몰입 인생사'에서는 오늘의 인생 텔러로 예능 대부 이경규가 등장했다. 이날 방송에서 이경규는 자신의 복장을 가리키며 "오늘 주인공이 누구인지 감이 오시냐. 대충 복장도 몰입되어 있다"라고 했다. 이어 그는 "20세기 액션의 아이콘, 물이 된 파]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['둘째 임신 발표' 윤남기♥이다은 부부, 이게 되네.."첫 부녀여행"]]></title>
         <id>https://v.daum.net/v/20231229011523267</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231228231847660"/>
         <updated>2023-12-28T15:10:52.804Z</updated>
         <content type="html"><![CDATA[데뷔 9년 차에도 계속된 ‘커리어 하이’를 기록한 아이돌그룹 세븐틴이 2023년을 반박 불가한 ‘세븐틴의 해’로 만들었다. 세븐틴(에스쿱스, 정한, 조슈아, 준, 호시, 원우, 우지, 디에잇, 민규, 도겸, 승관, 버논, 디노)은 자체 기록 경신은 물론, K-팝 최초 기록을 세우는 등 국내외 다방면으로 엄청난 성과를 거두며 ‘K-팝 최고 그룹’으로 우]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["신인상 주대호" 김대호, D-1 '연예대상' 앞두고 '긴장+기대']]></title>
-        <id>https://v.daum.net/v/20231228231828658</id>
-        <link href="https://v.daum.net/v/20231228231828658"/>
-        <updated>2023-12-28T15:10:52.805Z</updated>
-        <content type="html"><![CDATA[[스포츠조선닷컴 정안지 기자] 김대호 아나운서가 MBC '2023 MBC 방송연예대상' 시상식을 하루 앞두고 신인상에 기대감을 드러냈다. 28일 방송된 MBC '구해줘! 홈즈'에서는 '2023 연말 결산 집'으로 '올해 실거래가 가장 낮은 아파트 TOP5'와 2023 대학가 다양한 월세와 자취집을 소개했다. 이날 김숙은]]></content>
     </entry>
 </feed>
