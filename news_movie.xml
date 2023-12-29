@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-12-29T08:13:46.179Z</updated>
+    <updated>2023-12-29T09:11:49.457Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[보수 단체 ‘서울의 봄’ 단체 관람 교장 고발 사건, 결국 ‘각하’]]></title>
+        <id>https://v.daum.net/v/20231229172042923</id>
+        <link href="https://v.daum.net/v/20231229172042923"/>
+        <updated>2023-12-29T09:11:32.872Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 배효주 기자] 영화 '서울의 봄'을 학생들에게 단체 관람하게 했다는 이유로 보수 단체가 학교장을 고발한 사건에 대해 검찰이 각하 처분을 내렸다. 12월 29일 법조계에 따르면, 지난 28일 서울중앙지검 형사1부(부장검사 김승호)는 한 보수 단체가 서울 용산구 소재 모 고등학교 교장을 직권남용권리행사방해죄로 고발한 사건에 대해, "고발장 내용만으로]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[위대한 거장 번스타인의 난잡하고 파렴치한 뒷이야기]]></title>
         <id>https://v.daum.net/v/20231229163602817</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231229115402971"/>
         <updated>2023-12-29T03:12:15.674Z</updated>
         <content type="html"><![CDATA[[장혜령 기자] ▲ &nbsp;영화 &lt;위시&gt; 스틸ⓒ 월트디즈니 컴퍼니 코리아&nbsp; 왕이 직접 소원 들어주는 마법의 나라 &nbsp; 소원을 보관하고 있다가 추첨식에 뽑히면 이루어주는 마법의 왕국 로사스는 마법사이자 왕인 매그니피코(크리스 파인)가 다스리고 있다. 그는 모두의 존경을 한몸에 받는 현명한 왕이자 잘생긴 외모로 인기도 많은 리더이다. 그러나 인자한 겉모습과 달리 비뚤]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[신헤선 이준영 ‘용감한 시민’ 오늘부터 웨이브 독점 서비스]]></title>
-        <id>https://v.daum.net/v/20231229114244696</id>
-        <link href="https://v.daum.net/v/20231229114244696"/>
-        <updated>2023-12-29T03:12:15.674Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 배효주 기자] 신혜선 이준영 주연 '용감한 시민'이 웨이브를 통해 독점 공개된다. 영화 '용감한 시민'(감독 박진표)이 12월 29일부터 웨이브에서 독점 서비스를 시작한다. '용감한 시민'은 불의는 못 본 척, 성질은 없는 척, 주먹은 약한 척 살아온 기간제 교사 '소시민'(신혜선)이 선을 넘어버린 안하무인 절대권력 '한수강'(이준영)의 악행을]]></content>
     </entry>
 </feed>
