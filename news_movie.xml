@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-12-29T03:12:34.664Z</updated>
+    <updated>2023-12-29T04:13:15.294Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[흥행작엔 이 배우가 있다...'신스틸러' 김종수·안세호]]></title>
+        <id>https://v.daum.net/v/20231229130700123</id>
+        <link href="https://v.daum.net/v/20231229130700123"/>
+        <updated>2023-12-29T04:12:55.803Z</updated>
+        <content type="html"><![CDATA[[TV리포트=김연주 기자] 올해 천만 관객을 달성한 두 편의 영화 '범죄도시3', '서울의 봄'. 올 여름 관객들의 마음에 원픽 영화로 자리매김한 '밀수', 추석 연휴 박스오피스 1위를 거머쥔 '천박사 퇴마 연구소: 설경의 비밀'(이하 '천박사'), 올해 마지막을 장식할 '노량: 죽음의 바다'까지. 2023년 사계절을 대표하는 각 한국 영화에 이름이 빠지지]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[꺾이지 않는 '서울의 봄', 마동석 잡고 '어벤져스'도 잡는다!]]></title>
         <id>https://v.daum.net/v/20231229115535005</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231229091501571"/>
         <updated>2023-12-29T00:39:27.411Z</updated>
         <content type="html"><![CDATA[영화 ‘이프 온리’가 개봉 20주년을 기념해 내년 2월 국내 재개봉한다. ‘이프 온리’는 사랑하는 연인을 눈앞에서 잃은 남자가, 그녀가 살아 돌아온 거짓말 같은 하루를 통해 진정한 사랑을 깨닫게 되는 이야기를 담는다. 개봉 후 20년이 지난 지금도 꾸준한 사랑을 받고 있는 글로벌 히트 작이다. 주인공 ‘사만다’ 역을 맡은 제니퍼 러브 휴잇과 사랑을 깨달아가]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['노량' 김윤석 "위대한 영웅의 죽음 아닌 한 인간의 진실성 그리려 했다"]]></title>
-        <id>https://v.daum.net/v/20231229091111466</id>
-        <link href="https://v.daum.net/v/20231229091111466"/>
-        <updated>2023-12-29T00:39:27.412Z</updated>
-        <content type="html"><![CDATA[[스포츠한국 모신정 기자]&nbsp;배우 김윤석이 이순신 3부작 프로젝트의 대미를 장식하는 영화 '노량:죽음의 바다'에서 이순신 장군 역을 맡아 한파를 물리치고 극장을 찾은 관객들과 뜨겁게 만나고 있다. 김한민 감독이 제작에만 총 10여년에 걸려 몰두해온 영화 '명량'(2014), '한산:용의 출현'(2022)에 이어 내놓은 '노량:죽음의 바다'(이하 '노량]]></content>
     </entry>
 </feed>
