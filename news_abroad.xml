@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2023-12-29T11:09:57.327Z</updated>
+    <updated>2023-12-29T12:17:05.504Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[공개 열애 스타 커플, '소속사 사장' 반대로 헤어졌다...폭로 나와]]></title>
+        <id>https://v.daum.net/v/20231229201602791</id>
+        <link href="https://v.daum.net/v/20231229201602791"/>
+        <updated>2023-12-29T12:17:04.770Z</updated>
+        <content type="html"><![CDATA[[TV리포트=한아름 기자] 중국의 인기 배우 장릉혁과 백록의 결별에 백록의 소속사 사장이자 작가 우정이 관계돼 있다는 사실이 드러났다. 지난 29일, 중국 파파라치 '추과소년아비'(追瓜少年阿飞)는 소셜미디어 생방송을 통해 중국의 인기 배우 장릉혁과 백록이 결별했다고 전했다. 특히 백록의 소속사 우정공작실의 대표인 우정이 결별을 강요했다고 주장했다. 추과소]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[카디비, '바람둥이' 남편 이번엔 안 봐준다...'결별' 공식화]]></title>
         <id>https://v.daum.net/v/20231229195100063</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231229052957221"/>
         <updated>2023-12-28T21:09:50.936Z</updated>
         <content type="html"><![CDATA[(로스앤젤레스=연합뉴스) 임미나 특파원 = 첩보영화 '007' 시리즈로 유명한 할리우드 스타 피어스 브로스넌(70)이 미국의 대표적인 국립공원을 찾았다가 출입 금지 구역에 들어간 혐의로 기소됐다. AP통신과 NBC 뉴스는 와이오밍주 연방법원에 제출된 문서를 인용해 브로스넌이 내년 1월 23일 법원에 출두하라는 명령을 받았다고 28일(현지시간) 전했다. 그는]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['분노의 질주' 앨런 리치슨, 학폭 고백..."성공하니 가해자가 사진 요청하더라"]]></title>
-        <id>https://v.daum.net/v/20231228204500238</id>
-        <link href="https://v.daum.net/v/20231228204500238"/>
-        <updated>2023-12-28T12:18:47.874Z</updated>
-        <content type="html"><![CDATA[[TV리포트=유소연 기자] 미국 배우 앨런 리치슨(Alan Ritchson)이 고등학교 시절 학교폭력을 겪은 경험담을 고백했다. 26일(현지 시간) 앨런 리치슨(41)은 월스트리트 저널과의 인터뷰 중 가슴 아픈 기억을 고백했다. 현재 근육질 몸매를 가졌지만 그는 학교폭력 피해자였다. 앨런 리치슨은 "졸업한 지 몇 년 후에, 팬이라고 하며 접근한 가해자가]]></content>
     </entry>
 </feed>
