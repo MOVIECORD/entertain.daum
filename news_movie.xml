@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-12-30T01:45:59.749Z</updated>
+    <updated>2023-12-30T02:20:56.363Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[아련한 순간들... 류이치 사카모토의 '마지막 작별인사']]></title>
+        <id>https://v.daum.net/v/20231230110309106</id>
+        <link href="https://v.daum.net/v/20231230110309106"/>
+        <updated>2023-12-30T02:20:39.943Z</updated>
+        <content type="html"><![CDATA[[장혜령 기자] ▲ &nbsp;영화 &lt;류이치 사카모토: 오퍼스&gt; 스틸컷ⓒ (주)엣나인필름&nbsp; &lt;류이치 사카모토: 오퍼스&gt;는 마지막을 준비하는 그가 직접 선곡한 곡이 오로지 조명과 피아노, 마이크가 설치된 무대에서 흐른다. 흐른다고 표현했으나 담겼다는 표현이 가까웠다. 수많은 마이크가 피아노 주변을 둘러싸고 있는 형태는 먼지가 떨어지는 소리까지 잡겠다는 집념처럼 보였다]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[연말은 가족, 가족은 사랑... 이 영화에 쏟아진 뜨거운 관심]]></title>
         <id>https://v.daum.net/v/20231230104502891</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231230041021860"/>
         <updated>2023-12-29T20:10:50.545Z</updated>
         <content type="html"><![CDATA[‘명량’, ‘한산: 용의 출현’(한산)에 이어 이순신 장군과 임진왜란을 다룬 영화 ‘노량: 죽음의 바다’(노량)가 호평을 받으며 순항 중이다. 지난 20일 개봉한 영화는 빠른 속도로 관객 수를 늘리며 연말 극장가를 장악하고 있다. 이순신 3부작은 김한민 감독의 열정과 뚝심으로 완성됐다. 지난 19일 서울 종로구 한 카페에서 만난 김 감독은 “10년 동안]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['대세 등극' 고규필→'충격 사망' 故이선균...올해의 영화人 'UP & DOWN']]></title>
-        <id>https://v.daum.net/v/20231229200005353</id>
-        <link href="https://v.daum.net/v/20231229200005353"/>
-        <updated>2023-12-29T11:09:38.407Z</updated>
-        <content type="html"><![CDATA[(MHN스포츠 장민수 기자) 대박 작품으로 스타덤에 오른 배우부터 고인이 된 스타까지. 다사다난했던 2023년 한국 영화계다.&nbsp; '인생캐' 얻고 결혼까지...'범죄도시3' 초롱이 고규필 UP 올해 가장 주목받은 배우로 고규필을 빼놓을 수 없겠다. 영화 '범죄도시3'에서 초롱이 역을 맡아 코믹한 연기를 선보였다.&nbsp; 특히 형광색 바지와]]></content>
     </entry>
 </feed>
