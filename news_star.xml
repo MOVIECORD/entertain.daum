@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2023-12-30T19:08:29.913Z</updated>
+    <updated>2023-12-30T20:11:05.680Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['연인' 남궁민, 두 번째 'MBC 연기대상'…"안은진은 '좀 그래'"]]></title>
+        <id>https://v.daum.net/v/20231231050011623</id>
+        <link href="https://v.daum.net/v/20231231050011623"/>
+        <updated>2023-12-30T20:11:01.118Z</updated>
+        <content type="html"><![CDATA[(서울=뉴스1) 고승아 기자 = 배우 남궁민이 역시나 대상의 영예를 안았다. '연인'의 이장현으로 큰 사랑을 받았던 그는 2021년 '검은태양'에 이어 MBC에서만 두 번째 대상을 받게 됐다. 지난 30일 오후 서울 마포구 성암로 MBC 사옥에서 '2023 MBC 연기대상'이 개최됐다. 진행은 김성주, 박규영이 맡았다. 남궁민은 '연인'으로 이변 없는]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['불참' 지석진, 프로듀서상 수상…"조만간 '런닝맨'서 뵙겠다"]]></title>
+        <id>https://v.daum.net/v/20231231045002596</id>
+        <link href="https://v.daum.net/v/20231231045002596"/>
+        <updated>2023-12-30T20:11:01.120Z</updated>
+        <content type="html"><![CDATA[(서울=뉴스1) 강현명 기자 = 지석진이 '2023 SBS 연예대상' 프로듀서상을 수상했다 30일 오후 8시35분 서울 상암동 SBS 프리즘 타워에서 '2023 SBS 연예대상'이 개최됐다. 이날 시상식은 이상민, 이현이, 김지은이 MC를 맡았다. 프로듀서상은 '런닝맨'의 지석진이 수상했다. 이날 지석진이 건강상의 이유로 시상식에 참석하지 못한 관계로]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[탁재훈, SBS 연예대상…"누가 받아도 이상하지 않은 상"]]></title>
         <id>https://v.daum.net/v/20231231020053465</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20231231011740328"/>
         <updated>2023-12-30T17:09:12.953Z</updated>
         <content type="html"><![CDATA[탁재훈이 '2023 SBS 연예대상' 대상을 수상했다. 탁재훈은 30일 오후 서울 마포구 상암동 SBS 프리즘타워에서 진행된 '2023 SBS 연예대상'에서 유재석, 신동엽 등 후보들을 제치고 대상의 주인공으로 호명됐다. 트로피를 받아든 탁재훈은 "이렇게 멋진 상을 주셔서 감사드린다. 여기 계신 그 누가 받아도 이상하지 않다는 생각을 했다. 그래]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이변 없었다…탁재훈, 3수 만에 대상 "이런 큰 상 해냈다"]]></title>
-        <id>https://v.daum.net/v/20231231011606323</id>
-        <link href="https://v.daum.net/v/20231231011606323"/>
-        <updated>2023-12-30T17:09:12.954Z</updated>
-        <content type="html"><![CDATA[[스포티비뉴스=장진리 기자] 방송인 탁재훈이 마침내 'SBS 연예대상' 영광을 안았다. 30일 방송된 '2023 SBS 연예대상'에서는 '미운 우리 새끼', '신발 벗고 돌싱포맨' 탁재훈이 대상을 수상했다. 탁재훈은 2021년, 2022년 대상 후보에 오르며 3수를 한 끝에 대상을 품에 안았다. 지상파 연예대상에서 대상을 수상한 것은 2007년 '상]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[건강 문제로 불참한 지석진, 프로듀서상 수상 “기사 때문에 애매해서 못 나간 것.. 곧 만나뵙겠다”]]></title>
-        <id>https://v.daum.net/v/20231231011350319</id>
-        <link href="https://v.daum.net/v/20231231011350319"/>
-        <updated>2023-12-30T17:09:12.955Z</updated>
-        <content type="html"><![CDATA[[스포츠서울 | 김태형기자] 지석진이 프로듀서상을 수상했다. 30일 오후 서울 상암동 SBS 프리즘타워에서 ‘2023 SBS 연예대상’ 시상식이 열렸다. ‘연예대상’은 방송인 이상민, 이현이, 배우 김지은이 진행을 맡았다. 앞서 ‘런닝맨’ 팀이 올해의 프로그램상을 수상했다. 최형인 PD는 “소문 3가지를 내고 싶다”라며 “첫 번째는 ‘런닝맨’이 내년]]></content>
     </entry>
 </feed>
