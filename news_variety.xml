@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/variety</id>
     <title>다음 연예 ─ 뉴스 ─ 예능</title>
-    <updated>2023-12-30T08:13:16.563Z</updated>
+    <updated>2023-12-30T09:10:22.794Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[한혜진, ♥기성용 따라 英 생활해도.."영어 실력 초급"]]></title>
+        <id>https://v.daum.net/v/20231230172356933</id>
+        <link href="https://v.daum.net/v/20231230172356933"/>
+        <updated>2023-12-30T09:10:12.834Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 | 안윤지 기자] /사진=채널A '티처스'배우 한혜진이 자신의 영어 실력을 고백한다. 오는 31일 방송되는 채널A 예능 프로그램 '티처스'에서는 장영란이 새해 목표에 대해 "저는 그냥 소박하다. '티처스'랑 친해져서 우리 아이들과 같이 만나게 해주고…함께 으쌰으쌰 친해질 수 있고…"라며 자녀들과 '티처스'의 1타 강사 듀오 정승제X조정식의 만남]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[성시경 '불후의 명곡' 뜬다, 양희은과 역대급 콜라보 무대]]></title>
         <id>https://v.daum.net/v/20231230165011645</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231230134023312"/>
         <updated>2023-12-30T05:10:16.758Z</updated>
         <content type="html"><![CDATA[[OSEN=강서정 기자] ‘1박 2일’ 나인우가 해맑은 매력으로 문세윤을 답답하게 만든다. 오는 31일 오후 6시 15분 방송되는 KBS 2TV ‘1박 2일 시즌4’(이하 ‘1박 2일’) ‘열심히 일한 당신 떠나라’ 특집 세 번째 이야기에서 문세윤과 나인우는 영월에서의 둘째 날, 본격적으로 김장을 담근다. 이날 나인우는 김장을 하다가도 불쑥불쑥 뜬금없는]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["'유느님'도 포기한 기안DAY" 기안84, 적수 없던 '대상']]></title>
-        <id>https://v.daum.net/v/20231230123021869</id>
-        <link href="https://v.daum.net/v/20231230123021869"/>
-        <updated>2023-12-30T04:13:21.186Z</updated>
-        <content type="html"><![CDATA[[OSEN=연휘선 기자] "재석이 형은 포기 상태", "오늘은 기안DAY로 마무리했으면 좋겠다". 이렇게까지 몇 없는 경쟁자들도 응원하게 만든 대상이 있었던가. 웹툰작가 기안84가 비연예인 최초로 MBC 방송연예대상 '대상'을 수상하며 적수 없는 '기안DAY'를 만들었다. 지난 29일 오후, 생방송으로 진행된 '2023 MBC 방송연예대상'에서 피날레를]]></content>
     </entry>
 </feed>
