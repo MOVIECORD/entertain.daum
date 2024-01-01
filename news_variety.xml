@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/variety</id>
     <title>다음 연예 ─ 뉴스 ─ 예능</title>
-    <updated>2024-01-01T09:11:44.638Z</updated>
+    <updated>2024-01-01T10:12:20.937Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["한 달 술값만 400만 원"…'알콜지옥' 출연자들의 고백]]></title>
+        <id>https://v.daum.net/v/20240101190108714</id>
+        <link href="https://v.daum.net/v/20240101190108714"/>
+        <updated>2024-01-01T10:12:11.162Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 이승길 기자] MBC '오은영 리포트 - 알콜 지옥'이 오열 바다가 된다. 1일 방송되는 MBC '오은영 리포트 - 알콜 지옥' 5회는 알콜러들의 고백이 그려진다. 술을 마시게 된 이유는 무엇인지, 알코올의 늪에서 빠져나오지 못하는 이유는 무엇인지 솔직하게 털어놓을 예정. 금주 68시간에 접어든 알콜러들은 이날 서로의 이야기와 경험을 나]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이주승 "전현무처럼 살고싶지 않다" 결혼 결심 이유]]></title>
         <id>https://v.daum.net/v/20240101180836053</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240101142247252"/>
         <updated>2024-01-01T06:14:57.932Z</updated>
         <content type="html"><![CDATA[[OSEN=김나연 기자]&nbsp;프로파일러 배상훈이 직업으로 인한&nbsp;트라우마를 고백한다. 내일(2일) 저녁 8시 10분 방송 예정인 채널A ‘오은영의 금쪽 상담소’에는 프로파일러 배상훈과 법영상분석전문가 황민구가 방문한다. 안전한 사회에 이바지하는 프로파일러 배상훈과 법영상분석전문가 황민구. MC 박나래는 날카로운 촉으로 범죄자들의 심리와 각종 사건·사고 영상을]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[에녹 "父 위암 말기 시한부 선고..살아계셔서 감사" 눈물 바다]]></title>
-        <id>https://v.daum.net/v/20240101132751234</id>
-        <link href="https://v.daum.net/v/20240101132751234"/>
-        <updated>2024-01-01T05:11:20.549Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 | 김나연 기자] 에녹 / 사진=MBN 불타는 장미단 시즌2'불타는 장미단' 시즌2 에녹이 위암 말기로 시한부 선고를 받은 아버지의 투병기를 전하며 뜨거운 눈물을 흘려 먹먹한 여운을 드리운다. 1월 1일 오후 9시 10분 방송되는 MBN '불타는 장미단' 시즌2(이하 '장미단') 38회에서는 지난 회차에 이어 손태진-신성-민수현-김중연-박민수-]]></content>
     </entry>
 </feed>
