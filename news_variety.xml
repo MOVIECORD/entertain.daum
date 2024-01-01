@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/variety</id>
     <title>다음 연예 ─ 뉴스 ─ 예능</title>
-    <updated>2024-01-01T02:34:53.585Z</updated>
+    <updated>2024-01-01T03:12:44.293Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['이동국 자녀' 재시·재아·시안, 폭풍 성장.."예쁘게 잘 커" 덕담]]></title>
+        <id>https://v.daum.net/v/20240101115109009</id>
+        <link href="https://v.daum.net/v/20240101115109009"/>
+        <updated>2024-01-01T03:12:35.940Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 | 김나연 기자] 사진=KBS 2TV 슈퍼맨이 돌아왔다 '슈퍼맨이 돌아왔다'가 대선배 가족부터 새내기 가족까지 한자리에 모이며 의미 있는 10주년을 맞이한다. 오는 1월 2일부터 오후 8시 55분에 방송되는 '슈퍼맨이 돌아왔다'(이하 '슈돌') 508회는 '우리들의 행복한 시간' 편으로 꾸며진다. '슈돌'은 아이들이 태어나서 처음으로 마주하는]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['2년만 대상' 남궁민 "꿈은 목적지 아닌 항해 그 자체"]]></title>
         <id>https://v.daum.net/v/20240101113003626</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240101101656132"/>
         <updated>2024-01-01T01:59:41.415Z</updated>
         <content type="html"><![CDATA[[스타뉴스 | 김노을 기자] /사진=SBS'동상이몽 시즌2 - 너는 내 운명 신년을 맞아 새로운 운명부부로 합류한 '새혼' 임형준, 하세미 부부의 결혼 생활이 최초 공개된다. 1일 방송되는 SBS '동상이몽 시즌2 - 너는 내 운명'에서는 김구라, 김숙, 이지혜는 물론 절친한 동료 배우 손석구까지 총출동한 결혼식 현장을 공개해 화제를 모은 임형준, 하세미]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['50세 아빠' 임형준, "손녀냐? 딸이냐?" 질문 받고 '충격']]></title>
-        <id>https://v.daum.net/v/20240101100826910</id>
-        <link href="https://v.daum.net/v/20240101100826910"/>
-        <updated>2024-01-01T01:59:41.416Z</updated>
-        <content type="html"><![CDATA[[마이데일리 = 이승길 기자] 배우 임형준이 가족을 공개한다. 1일 방송되는 SBS '동상이몽 시즌2 – 너는 내 운명‘(이하 ‘동상이몽’)에서는 신년을 맞아 새로운 운명부부로 합류한 ’새혼‘ 임형준, 하세미 부부의 결혼 생활이 최초 공개된다. 앞서 공개된 예고에서 김구라, 김숙, 이지혜는 물론 절친한 동료 배우 손석구까지 총출동한 결혼식 현장을 공개해]]></content>
     </entry>
 </feed>

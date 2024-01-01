@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2024-01-01T02:34:53.581Z</updated>
+    <updated>2024-01-01T03:12:44.294Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['베테랑2'→'하얼빈' 갑진년, 한국 영화 풍성…'서울의 봄' 열기 이을 주인공은?]]></title>
+        <id>https://v.daum.net/v/20240101121128447</id>
+        <link href="https://v.daum.net/v/20240101121128447"/>
+        <updated>2024-01-01T03:12:27.858Z</updated>
+        <content type="html"><![CDATA[기쁨과 아쉬움이 공존했던 2023년을 뒤로하고 2024년 새해가 밝았다. 2023년은 기대작들의 연이은 흥행 실패로 한국 영화의 위기라 뚜렷이 드러났던 해였다. 영화진흥위원회 영화관입장권 통합전산망에 따르면 지난해 1월부터 11월까지 극장을 찾은 관객 수는 1억 844만명이었고, 이 중 한국 영화 관객 수는 4707만명이었다. '범죄도시3'가 천만 관객]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['기생충' 이전, 이선균의 대표영화는 이 작품이었다]]></title>
         <id>https://v.daum.net/v/20240101112701580</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240101082116513"/>
         <updated>2024-01-01T00:54:23.532Z</updated>
         <content type="html"><![CDATA[[스포츠한국 조은애 기자] '노량: 죽음의 바다'가 12일째 극장가 흥행 선두를 달렸다. 1일 영화진흥위원회 통합전산망 집계에 따르면 '노량: 죽음의 바다'는 지난 주말 3일(12월29~31일)동안&nbsp;77만7977명의 관객을 동원하며 박스오피스 1위를 차지했다. 누적 관객 수는&nbsp;343만7850명이다. 이로써 '노량: 죽음의 바다'는 지난달 20일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['노량' 2주 연속 주말 박스오피스 1위…400만 돌파 전망]]></title>
-        <id>https://v.daum.net/v/20240101081748455</id>
-        <link href="https://v.daum.net/v/20240101081748455"/>
-        <updated>2024-01-01T00:54:23.532Z</updated>
-        <content type="html"><![CDATA[[OSEN=김보라 기자]&nbsp;올겨울 이순신 3부작 프로젝트의 대미를 장식할 영화 '노량: 죽음의 바다'가 2주 연속 주말 박스오피스 1위를 수성하며 올겨울 극장가 흥행을 견인하는 작품다운 위용을 떨치고 있다. '노량: 죽음의 바다'(감독 김한민, 제공 ㈜에이스메이커무비웍스・롯데엔터테인먼트, 배급 롯데엔터테인먼트・㈜에이스메이커무비웍스, 제작 ㈜빅스톤픽쳐스)가]]></content>
     </entry>
 </feed>
