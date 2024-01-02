@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2024-01-02T22:10:28.185Z</updated>
+    <updated>2024-01-02T23:11:31.820Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[샘 스미스, 5살 연하 남친과 결별…데이팅 앱 가입]]></title>
+        <id>https://v.daum.net/v/20240103073018520</id>
+        <link href="https://v.daum.net/v/20240103073018520"/>
+        <updated>2024-01-02T23:11:31.222Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 이민지 기자] 가수 샘 스미스가 남자친구와 헤어졌다. 데일리메일은 1월 2일(현지시간) 샘 스미스가 5살 연하 패션 디자이너 크리스찬 코완과 1년만에 결별했다고 보도했다. 샘 스미스와 크리스찬 코완은 지난해 1월 인연을 맺고 연인으로 발전, 1년여간 편안하게 데이트를 즐겼다. 그러나 지난 12월 14일 뉴욕 파티에서 함께 포착된 후 결별했다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“테일러 스위프트, 엘비스 프레슬리 기록 깼다” 빌보드 68주 1위 질주]]></title>
         <id>https://v.daum.net/v/20240102215653672</id>
