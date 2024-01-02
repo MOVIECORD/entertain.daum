@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/variety</id>
     <title>다음 연예 ─ 뉴스 ─ 예능</title>
-    <updated>2024-01-02T16:12:31.544Z</updated>
+    <updated>2024-01-02T17:10:23.867Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["수정된 배아 10개" 채리나, 새해 '쌍둥이 임신' 기원..눈가 촉촉]]></title>
+        <id>https://v.daum.net/v/20240103012101904</id>
+        <link href="https://v.daum.net/v/20240103012101904"/>
+        <updated>2024-01-02T17:10:13.838Z</updated>
+        <content type="html"><![CDATA[[OSEN=김수형 기자] ‘놀던언니’에서 채리나가 다시 한번 쌍둥이 2세를 향한 새해 소망을 기도했다.&nbsp; 2일 방송된 E채널.채널S 예능 ‘놀던언니’에서 채리나가 2세를 위햔 소망을 전했다.&nbsp; 이날 2024년 청룡의 해를 맞이해 포천에 모인 언니들. 새해맞이 전망대를 구경하기로 했다. 분위기를 몰아,갑진년을 맞이해 원하는 것 소원을 빌어보기로 했다. 먼]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[전현무 "플러팅? 가진 게 없어 노력..서서히 무며든다"]]></title>
         <id>https://v.daum.net/v/20240103010624867</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240102230558164"/>
         <updated>2024-01-02T14:10:21.634Z</updated>
         <content type="html"><![CDATA[전현무가 전연인 한혜진을 언급한 이현이에 당황했다. 1월 2일 방송된 SBS ‘강심장VS’에서는 모델 이현이가 MC 전현무 앞에서 자연스럽게 절친 한혜진을 언급했다. 이현이는 30살에 결혼한 이유를 말하다가 “일찍 했다고 생각 안 했다. 제가 하이틴 스타도 아니고. 비슷한 포지션에 모델 한혜진이 있었다”며 MC 전현무의 전연인 모델 한혜진 언급 후에]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이주승 "전현무 결혼 못하는 이유? 눈 높아"→김새롬 "과거만 봐도..."]]></title>
-        <id>https://v.daum.net/v/20240102230550163</id>
-        <link href="https://v.daum.net/v/20240102230550163"/>
-        <updated>2024-01-02T14:10:21.635Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 오수정 기자) '강심장VS'에서 이주승이 전현무가 결혼을 못하는 이유를 전했다.&nbsp; 2일 방송된 SBS 예능 프로그램 '강심장 VS'는 '기혼러VS싱글러' 특집으로 꾸며져 '기혼러'로는 이현이, 황재균, 이은형, '싱글러'로는 이주승, 김새롬이 출연해 극과 극 토크를 펼쳤다.&nbsp; 이날 전현무는 이현이의 등장에 "부부예능에서 싸우지 않냐. 그럼 촬]]></content>
     </entry>
 </feed>
