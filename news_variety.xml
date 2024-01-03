@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/variety</id>
     <title>다음 연예 ─ 뉴스 ─ 예능</title>
-    <updated>2024-01-03T16:14:21.430Z</updated>
+    <updated>2024-01-03T17:10:14.191Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“둘 다 ♥하지만” 박준형, 딸 걸그룹 한다면? JYP 아닌 하이브]]></title>
+        <id>https://v.daum.net/v/20240104012720710</id>
+        <link href="https://v.daum.net/v/20240104012720710"/>
+        <updated>2024-01-03T17:10:03.659Z</updated>
+        <content type="html"><![CDATA[[OSEN=박하영 기자] ‘라디오스타’ 박준형이 '딸이 걸그룹 한다면?' 질문에 방시혁의 하이브를 택했다.&nbsp; 3일 방송된 MBC 예능 ‘라디오스타’에서는 ‘열정!열정!열정!’ 특집으로 박준형, 브라이언, 유노윤호, 정재형이 출연했다. 이날 박준형은 “god 결성하기 전부터 박진영과 방시혁이 미국에서 음악 작업을 했다. 방시혁은 음악, 트랙의 신이고 박진]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[추신수 가족 5500평 美 대저택→한국 집 공개, ‘살림남2’ 합류 예고]]></title>
         <id>https://v.daum.net/v/20240104010911641</id>
@@ -41,7 +48,7 @@
         <content type="html"><![CDATA[배우 공효진이 결혼식 때 혼인 서약을 길게 했다고 밝혔다. 3일(수) 방송된 tvN ‘유 퀴즈 온 더 블럭’ 226회 ‘최고의 선택’ 특집에서는 19살 5년 차 대장장이 이평화, 수능 역사상 최초 만점자 오승은, 배우 공효진이 출연해 MC 유재석·조세호와 릴레이 토크를 펼쳤다. 이날 유재석은 “작품 홍보가 없는데 그냥 나와 주셨다”라며 공효진을 반겼다]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[김대호 '유퀴즈' 나왔다가 유재석에 멱살 잡혀.."♥나경은 회사 얘기는 처음"]]></title>
+        <title type="html"><![CDATA[김대호, tvN 진출했는데 유재석에 멱살.."♥나경은 회사 얘기는 처음"]]></title>
         <id>https://v.daum.net/v/20240104004021552</id>
         <link href="https://v.daum.net/v/20240104004021552"/>
         <updated>2024-01-03T16:14:11.913Z</updated>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240103235438183"/>
         <updated>2024-01-03T15:11:03.513Z</updated>
         <content type="html"><![CDATA[(엑스포츠뉴스 이효반 기자) 18기 영숙이 상철과의 데이트 후 인터뷰를 진행했다. 3일 방송된 방송된 SBS Plus, ENA 리얼 데이팅 프로그램 '나는 SOLO'(이하 '나는 솔로')에서는 18기 상철과 영숙이 데이트 후 서로에 대한 호감을 밝혔다. 이날 상철은 영숙과의 데이트 후 "오랜만에 느끼는 감정이기도 한데 '통했다'라는 것도 기분이 좋았다"며]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이승연 친엄마, 53년 전 家 떠난 이유.."불행의 시작"]]></title>
-        <id>https://v.daum.net/v/20240103234857162</id>
-        <link href="https://v.daum.net/v/20240103234857162"/>
-        <updated>2024-01-03T15:11:03.515Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 | 이승훈 기자] /사진=TV조선 '아빠하고 나하고' 배우 이승연 친엄마와 아빠가 53년 만에 재회했다. 3일 오후 방송된 TV조선 '아빠하고 나하고'에서는 이승연과 친부모님의 생애 첫 삼자대면하는 모습이 그려졌다. 이날 이승연은 "나의 어린 시절에 멈춰있는 부모님을 자유롭게 풀어드리고 싶다"라며 친엄마와 아빠를 만나게 한 이유를 설명했다.]]></content>
     </entry>
 </feed>
