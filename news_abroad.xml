@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2024-01-03T09:12:22.089Z</updated>
+    <updated>2024-01-03T10:12:01.614Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[잭 블랙, '슈퍼 마리오' 흥행하더니 게임 실사영화 '마인 크래프트' 출연]]></title>
+        <id>https://v.daum.net/v/20240103185924234</id>
+        <link href="https://v.daum.net/v/20240103185924234"/>
+        <updated>2024-01-03T10:12:00.934Z</updated>
+        <content type="html"><![CDATA[[OSEN=김보라 기자] 배우 잭 블랙이 인기 비디오 게임을 원작으로 한 실사영화 ‘마인 크래프트 더 무비’에 캐스팅됐다. 자레드 헤스 감독이 연출하는 새 영화 ‘마인크래프트 더 무비’(제공배급 워너 브라더스)에 잭 블랙이 출연하는 것으로 2일(현지 시각) 알려졌다. 모장 스튜디오의 게임 ‘마인크래프트’를 원작으로 삼은 이 어드벤처 판타지 영화는 앨리슨]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[저주받은 '블랙팬서'?...출연진 사망부터 뺑소니까지, 계속되는 비보]]></title>
         <id>https://v.daum.net/v/20240103175830925</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240103092425316"/>
         <updated>2024-01-03T00:49:41.658Z</updated>
         <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]예술 영화의 흥행 신드롬을 일으키고 있는 몬스터버스터 '괴물'이 영화관입장권통합전산망 기준 개봉 34일 만인 2024년 1월 2일(화)에 40만 관객을 돌파했다.  영화 '괴물'은 40만 관객을 돌파하며 새해 첫 주 및 개봉 6주 차에도 독립•예술 영화 박스오피스 1위를 수성했다.'괴물'은 2023년 일본 실사 영화 최고 흥행]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美 연애예능 출연자, 결혼 4년 만에 이혼…"헤어지기로 어려운 결정"]]></title>
-        <id>https://v.daum.net/v/20240103085655205</id>
-        <link href="https://v.daum.net/v/20240103085655205"/>
-        <updated>2024-01-03T00:49:41.661Z</updated>
-        <content type="html"><![CDATA[[OSEN=김보라 기자]&nbsp;연애 예능 ‘The Bachelor’ 출연자이자 변호사 레이첼 린제이가 이혼했다. 2일(현지 시각) 레이첼 린제이와 그녀의 남편 브라이언 아바솔로는 “새해 전야에 헤어졌다”며 이혼 서류를 제출한 것으로 알려졌다. 브라이언 아바솔로의 직업은 척추지압사. 최근 아바솔로는 이혼 서류를 신청하고, 레이첼 린제이에게 부양비를 요청했다.]]></content>
     </entry>
 </feed>
