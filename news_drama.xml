@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-01-04T10:12:10.040Z</updated>
+    <updated>2024-01-04T11:09:47.673Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['세번째 결혼' 문지후, 불륜녀 오세영 변심에 "나 이혼하니까 바람난 듯"]]></title>
+        <id>https://v.daum.net/v/20240104194200468</id>
+        <link href="https://v.daum.net/v/20240104194200468"/>
+        <updated>2024-01-04T11:09:32.652Z</updated>
+        <content type="html"><![CDATA[[TV리포트 = 하수나 기자] ‘세 번째 결혼’ 문지후가 자신의 연락을 무시하는 불륜녀 오세영의 변심에 본색을 드러냈다. 4일 MBC ‘세 번째 결혼’에선 강세란(오세영 분)이 이혼한 백상철(문지후 분) 대신 왕제국 회장의 막내아들인 왕지훈(박영훈 분)을 유혹하는 모습이 그려졌다. 강세란은 왕지훈과 인연을 만들기 위해 계획을 세웠고 와인을 마시는 왕지훈을]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[조아람, '하균신' 손잡고 콤비 플레이...'감사합니다' 여주 발탁]]></title>
         <id>https://v.daum.net/v/20240104190524802</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240104145751004"/>
         <updated>2024-01-04T06:14:43.974Z</updated>
         <content type="html"><![CDATA[[서울경제] 배우 신하균, 진구가 '감사합니다'를 통해 호흡을 맞춘다. ‘감사합니다’는 건설회사 감사팀을 중심으로 한 오피스물로 신하균과 진구라는 연기파 배우들의 열연과 합이 기대되는 작품이다. 3일 서울경제스타 취재 결과 신하균, 진구는 tvN 새 월화드라마 '감사합니다'(극본 최민호/연출 권영일)에 출연한다. '감사합니다'는 비리가 만연한 건설회사의]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["우리 키스했어요"..차가운 김지은vs해맑은 로몬]]></title>
-        <id>https://v.daum.net/v/20240104145554945</id>
-        <link href="https://v.daum.net/v/20240104145554945"/>
-        <updated>2024-01-04T06:14:43.974Z</updated>
-        <content type="html"><![CDATA[[OSEN=장우영 기자] LG유플러스의 ‘STUDIO X+U’가 제작하는 새로운 MZ 로맨스릴러 드라마 ‘브랜딩인성수동’이 김지은X로몬의 ‘극과극’ 캐릭터 포스터를 공개했다. 오는 2월 5일 첫 공개되는 ‘브랜딩인성수동(크리에이터 최선미, 연출 정헌수, 극본 최선미 전선영)’은 절대 서로 좋아질 수 없었던 최연소 팀장과 최고령 인턴의 영혼이 키스 한 번]]></content>
     </entry>
 </feed>
