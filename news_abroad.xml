@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2024-01-04T06:14:58.581Z</updated>
+    <updated>2024-01-04T07:10:26.484Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[英 아카데미 노미네이트…게리 올드만 주연 ‘슬로 호시스’ 시즌5 제작 확정]]></title>
+        <id>https://v.daum.net/v/20240104152826201</id>
+        <link href="https://v.daum.net/v/20240104152826201"/>
+        <updated>2024-01-04T07:10:25.889Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 장예솔 기자] 영국 아카데미 시상식에 다섯 차례 노미네이트된 Apple TV+의 웰메이드 첩보 스릴러 '슬로 호시스'가 시즌 5 제작을 확정 지으며 화려한 귀환을 예고했다. 게리 올드만의 강렬한 열연과 흡인력 넘치는 스토리로 호평받은 Apple TV+의 대표 웰메이드 시리즈 '슬로 호시스'는 영국 정보 보안국 MI5에서 더 이상 물러날 곳이 없는]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[브리트니 가수 은퇴설 또 반박..회사는 미련 그득그득]]></title>
         <id>https://v.daum.net/v/20240104145040731</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240103175830925"/>
         <updated>2024-01-03T09:12:21.356Z</updated>
         <content type="html"><![CDATA[[TV리포트=강성훈 기자] 마블 영화 '블랙 팬서'(2018) 배우들이 연달아 안타까운 사고를 겪으며 안타까움을 자아냈다.&nbsp; 3일(현지 시간) 외신 'abc NEWS' 보도에 따르면 배우 캐리 버넌스(Carrie Bernans)는 새해 첫날부터 뉴욕 교통사고에 휘말렸다. 그는 '블랙 팬서'에서 도라 밀라제 전투 부대 일원으로 출연했고 스턴트 연기자로 알려졌]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연말 뉴스 나온 '페라리' 사고...운전자 '유명 女스타'였다]]></title>
-        <id>https://v.daum.net/v/20240103175330807</id>
-        <link href="https://v.daum.net/v/20240103175330807"/>
-        <updated>2024-01-03T09:12:21.356Z</updated>
-        <content type="html"><![CDATA[[TV리포트=강성훈 기자] 일본 온라인 방송인 아마 네코가 '페라리 교통사고' 이후 심경을 밝혔다.&nbsp; 3일 일본 매체 '슈에이샤 온라인'은 아마 네코와의 인터뷰 내용을 공개했다. 아마네코는 지난해 4월 4000만엔(한화 약 3억 7천만 원)으로 알려진 '페라리 488 스파이더'를 구입했고, 지난해 12월 교통사고가 났다고 전해 관심을 모았다. 이날 아마네코]]></content>
     </entry>
 </feed>
