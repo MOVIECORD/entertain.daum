@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2024-01-04T23:11:16.843Z</updated>
+    <updated>2024-01-05T00:50:02.362Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[日 아나운서, 프리 고충 토로 “호텔서 생활, 하루에 2·3시간 잔 적도”]]></title>
+        <id>https://v.daum.net/v/20240105082720937</id>
+        <link href="https://v.daum.net/v/20240105082720937"/>
+        <updated>2024-01-05T00:50:01.741Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 박수인 기자] 일본 프리랜서 아나운서 오가와 리카코가 프리의 고충을 토로했다. 최근 일본 매체 찬토웹은 오가와 리카코와 인터뷰를 진행, 아나운서의 꿈을 꾼 계기와 취업 후 그만 둔 계기, 현재 근황 등을 보도했다. 보도에 따르면 오가와 리카코는 "어렸을 때부터 TV를 좋아해서 엔터테인먼트 프로그램을 자주 봤다. 여러 곳에 취재하러 가거나 맛집 리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['아바타3', 中 영향 받는다...중국이 투자 시작]]></title>
         <id>https://v.daum.net/v/20240104211201875</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240104145040731"/>
         <updated>2024-01-04T06:14:58.009Z</updated>
         <content type="html"><![CDATA[[OSEN=박소영 기자] ‘팝의 요정’ 브리트니 스피어스가 가요계 은퇴 선언을 했다는 보도가 나온 가운데 관계자들은 여전히 그의 컴백을 기대하고 있다. 3일(현지시각) 몇몇 외신은 “브리트니 스피어스가 Charli XCX, 줄리아 마이클스 등과 함께 앨범을 작업할 가능성이 있다”며 이는 브리트니 스피어스가 10년 여 만에 발표하는 새 앨범이 될 것”이라]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[켈리 클락슨 “약 먹고 살 뺐다고? 식단+운동 덕분” 해명]]></title>
-        <id>https://v.daum.net/v/20240104142323618</id>
-        <link href="https://v.daum.net/v/20240104142323618"/>
-        <updated>2024-01-04T13:13:11.910Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 이하나 기자] 가수 켈리 클락슨이 약물 의존이 아닌 의사의 도움을 받고 살을 뺐다고 밝혔다. 켈리 클락슨은 1월 3일(현지시간) 미국 연예매체 피플과 인터뷰를 통해 다이어트 비결은 식이요법과 운동 덕분이라고 밝혔다. 최근 온라인에서는 켈리 클락슨이 약물에 의존해서 체중을 감량한 것이라는 추측이 나왔다. 이에 대해 켈리 클락슨은 “몇 년 동안]]></content>
     </entry>
 </feed>
