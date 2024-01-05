@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2024-01-05T07:10:53.289Z</updated>
+    <updated>2024-01-05T08:14:23.919Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“동생 세 명 사망” 닉 카터 “갑작스러운 죽음, 상실감 극복 평생 걸릴수도”]]></title>
+        <id>https://v.daum.net/v/20240105162629603</id>
+        <link href="https://v.daum.net/v/20240105162629603"/>
+        <updated>2024-01-05T08:14:23.248Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]‘백스트리트 보이즈’의 닉 카터(43)가 여동생 바비 진 카터의 죽음을 애도했다. 41살의 바비 진 카터는 지난해 12월 갑작스럽게 사망했고, 남동생 아론 카터는 2022년 11월 34살의 나이로 세상을 떠났다. 앞서 여동생 레슬리 카터는 2012년 1월 25살에 숨을 거뒀다. 닉 카터는 세 명의 동생을 모두 잃었다. 카터는]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['은퇴' 브리트니 스피어스, SNS도 삭제...흔적도 없이 사라졌다]]></title>
         <id>https://v.daum.net/v/20240105150201168</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240104201430007"/>
         <updated>2024-01-04T12:19:01.926Z</updated>
         <content type="html"><![CDATA[[TV리포트=안수현 기자] 할리우드 배우 레오나르도 디카프리오(49)가 여자친구인 톱모델 비토리아 세레티(25), 그리고 절친 토비 맥과이어(48)와 로맨틱한 휴가를 떠났다. 3일(현지 시간) 매체 '데일리 메일' 보도에 의하면 레오나르도 디카프리오는 이날 여자친구 비토리아 세레티, 배우 토비 맥과이어와 함께 휴가를 떠났다. 세 사람뿐만 아니라 디카프리오의]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[18년간 '부부 싸움' 안한 스타 부부가 처음으로 크게 싸운 이유]]></title>
-        <id>https://v.daum.net/v/20240104200530871</id>
-        <link href="https://v.daum.net/v/20240104200530871"/>
-        <updated>2024-01-04T11:09:47.068Z</updated>
-        <content type="html"><![CDATA[[TV리포트=안수현 기자] 개그맨 오기 히로아키가 사랑하는 아내와 결혼생활 18년 만에 부부 싸움을 했다고 밝혀 이목을 모았다. 지난 30일 매체 '찬토웹'은 오기 히로아키(52)와 모리야마 나호(52) 부부와 인터뷰를 진행하며 근황을 공개했다. 두 사람은 6년간의 교제를 거쳐 2006년 결혼, 18년 간의 결혼생활을 유지하고 있다. 이날 두 사람은 ']]></content>
     </entry>
 </feed>
