@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-01-06T05:10:43.318Z</updated>
+    <updated>2024-01-06T06:14:01.692Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘37㎏까지 감량’ 박민영 “죽기 살기로 해봤다” 각오 입증한 열연]]></title>
+        <id>https://v.daum.net/v/20240106142343239</id>
+        <link href="https://v.daum.net/v/20240106142343239"/>
+        <updated>2024-01-06T06:13:49.224Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 박수인 기자] 배우 박민영이 ‘내 남편과 결혼해줘’의 시청률 상승세를 이끄는 열연을 펼치고 있다. tvN 월화드라마 ‘내 남편과 결혼해줘’(극본 신유담/ 연출 박원국, 한진선/ 기획 스튜디오드래곤/ 제작 DK E&amp;M)에서 시한부에서 운명 개척자로 다시 태어난 강지원 캐릭터를 섬세하고 밀도 있게 완성해 내는 박민영의 활약이 시청자들을 단단히 사로잡]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이세영 "멋진 박연우 만나 감사"➝배인혁 "처음부터 끝까지 사랑"]]></title>
         <id>https://v.daum.net/v/20240106140022016</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240106080113205"/>
         <updated>2024-01-05T23:11:28.664Z</updated>
         <content type="html"><![CDATA[[텐아시아=태유나 기자] 《태유나의 듣보드뽀》 태유나 텐아시아 기자가 현장에서 듣고 본 사실을 바탕으로 드라마의 면면을 제대로 뽀개드립니다. 수많은 채널에서 쏟아지는 드라마 홍수 시대에 독자들의 눈과 귀가 되겠습니다.전작 MBC 금토드라마 '연인'의 흥행은 호재였지만, 기세를 완전히 이어받지는 못했다. 종영을 앞둔 상황 속 목표 시청률은 이루지 못했고,]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["내가 죽였어, 너를" 송강, 김유정 전생 떠올리며 눈물 '충격 엔딩']]></title>
-        <id>https://v.daum.net/v/20240106075006079</id>
-        <link href="https://v.daum.net/v/20240106075006079"/>
-        <updated>2024-01-05T23:11:28.668Z</updated>
-        <content type="html"><![CDATA[[텐아시아=김서윤 기자]‘마이 데몬’ 김유정, 송강의 전생 비밀이 수면 위로 드러나기 시작했다. 지난 5일 방송된 SBS 금토드라마 ‘마이 데몬’(연출 김장한, 극본 최아일, 제작 스튜디오S·빈지웍스) 11회에서 ‘십자가 타투’와 함께 능력을 되찾은 구원(송강 분)에게 또 다른 변화가 나타났다. 여기에 구원의 인간 시절 기억 속 검무 여인이 도도희(김유정]]></content>
     </entry>
 </feed>
