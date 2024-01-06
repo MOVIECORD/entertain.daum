@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2024-01-06T02:22:33.531Z</updated>
+    <updated>2024-01-06T03:12:20.470Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[영화 '스피드레이서' 크리스천 올리버, 비행기 사고로 두 딸과 함께 사망]]></title>
+        <id>https://v.daum.net/v/20240106112908982</id>
+        <link href="https://v.daum.net/v/20240106112908982"/>
+        <updated>2024-01-06T03:12:19.722Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 김현정 기자) 할리우드 영화 '스피드 레이서' 등으로 알려진 독일 출신 배우 크리스천 올리버가 경비행기 추락 사고로 두 딸과 함께 사망했다. 5일(현지 시간) AP통신과 미 일간 뉴욕타임스(NYT) 등의 보도에 따르면 카리브해 섬나라인 세인트빈센트 그레나딘의 경찰은 전날 프티 네비스 섬 서쪽에서 비행기 추락 사고가 발생해 탑승하고 있던 올리버]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘스피드 레이서’ 크리스천 올리버, 경비행기 추락으로 두 딸과 함께 사망]]></title>
         <id>https://v.daum.net/v/20240106100648261</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240105145752016"/>
         <updated>2024-01-05T06:14:42.927Z</updated>
         <content type="html"><![CDATA[[뉴스엔 하지원 기자] 미국 록 밴드 미스터 벙글(Mr. Bungle) 출신 테오 렝겔(Theo Lengyel)이 실종된 여자 친구 살해 혐의로 체포됐다. 1월 4일(현지 시간) 미국 연예매체 피플에 따르면 경찰은 지난 2일 샌프란시스코 베이 지역의 숲이 우거진 지역에서 인간의 유해를 발견한 후 렝겔을 1급 살인 혐의로 체포했다. 현재 유골 신원은 확인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[90년대 스타, 실종된 여친 '살해' 혐의로 체포돼...팬들 충격]]></title>
-        <id>https://v.daum.net/v/20240105120901884</id>
-        <link href="https://v.daum.net/v/20240105120901884"/>
-        <updated>2024-01-05T03:12:09.349Z</updated>
-        <content type="html"><![CDATA[[TV리포트=강성훈 기자] 미국 록 밴드 미스터 벙글(Mr. Bungle) 출신 록스타 테오 렝겔(Theo Lengyel)이 실종된 여자 친구의 사망 혐의로 체포됐다. 지난 3일(현지 시간) 현지 경찰은 공식 소셜네트워크서비스를 통해 테오 렝겔을 그의 여자 친구 알릭스 헤르만 씨 살해 혐의로 체포했다고 발표했다. 테오 렝겔을 현장에서 체포하는 사진도 찾아볼]]></content>
     </entry>
 </feed>
