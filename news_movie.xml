@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2024-01-06T04:12:57.209Z</updated>
+    <updated>2024-01-06T05:10:43.321Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[유쾌한 천연덕스러움의 극치 ‘외계+인 2부’]]></title>
+        <id>https://v.daum.net/v/20240106140302070</id>
+        <link href="https://v.daum.net/v/20240106140302070"/>
+        <updated>2024-01-06T05:10:22.859Z</updated>
+        <content type="html"><![CDATA[영화 ‘외계+인 2부’(감독 최동훈, 2024) 스틸컷. 사진=CJ ENM  &nbsp; 최동훈 감독의 ‘외계+인 2부’가 오는 10일 개봉한다. 시사회를 통해 먼저 만나봤는데, 1부에 이어 2부도 지닌 ‘외계+인’ 시리즈의 매력에 관해 이야기하고 싶다. 1부에 이어 더욱 강력하게 증폭된 유쾌한 천연덕스러움에 대한 짧은 의견이라 하겠다.&nbsp; 영화 ‘외계+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김성규 "'한산' 이어 '노량', 방해만 되지 않길 바랐죠"]]></title>
         <id>https://v.daum.net/v/20240106130002577</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240106080102198"/>
         <updated>2024-01-05T23:11:24.669Z</updated>
         <content type="html"><![CDATA[[텐아시아=이하늘 기자] *'위시'와 관련된 스포일러가 포함돼있습니다. 'Dreams come true' 1923년 10월 16일 설립된 월트 디즈니 컴퍼니(The Walt Disney Company)는 100주년(2023년 기준)을 맞이하기까지 각기 다른 형태의 '꿈'을 이루는 방식을 보여주곤 했다. 시대에 따라 이야기의도 캐릭터의 스타일도 달랐지]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘선산’이냐 ‘파묘’냐, 뭣이 중헌디]]></title>
-        <id>https://v.daum.net/v/20240106073302957</id>
-        <link href="https://v.daum.net/v/20240106073302957"/>
-        <updated>2024-01-05T23:11:24.671Z</updated>
-        <content type="html"><![CDATA[피할 수 없는 악연, 피를 부르는 욕망 연상호X김현주X류경수...‘선산’[작품 소개] : ‘부산행’ ‘지옥’ ‘괴이’ ‘방법’ 등 연상호 감독 신작. 김현주·류경수·박희순·박병은 출연. 원안가로 참여한 동명 웹툰을 직접 시나리오로 옮겼으며 연출은 ‘방법’과 ‘부산행’ 등의 조감독이었던 민홍남 감독이 연출. 새해 포문을 열 첫 넷플릭스 K시리즈이자 K오컬트.]]></content>
     </entry>
 </feed>

@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2024-01-06T04:12:57.199Z</updated>
+    <updated>2024-01-06T05:10:43.320Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[크리스천 올리버, 두 딸과 경비행기 사고로 사망]]></title>
+        <id>https://v.daum.net/v/20240106134606905</id>
+        <link href="https://v.daum.net/v/20240106134606905"/>
+        <updated>2024-01-06T05:10:42.645Z</updated>
+        <content type="html"><![CDATA[[티브이데일리 이기은 기자] '스피드 레이서'로 알려진 독일 출신 배우 크리스천 올리버가 두 딸과 함께 사망했다. 5일(현지 시간) 미국 현지 외신들은 카리브해 섬나라인 세인트빈센트 그레나딘의 경찰이 전날 프티 네비스 섬 서쪽에서 발생한 비행기 추락 사고 희생자로 올리버, 그의 10, 12세 두 딸을 확인했다. 올리버 나이 51세다. 비행기 소유자이자 조종]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘인디아나 존스’ 크리스찬 올리버, 가족여행 중 두 딸과 비행기 추락사고로 사망]]></title>
+        <id>https://v.daum.net/v/20240106133030802</id>
+        <link href="https://v.daum.net/v/20240106133030802"/>
+        <updated>2024-01-06T05:10:42.651Z</updated>
+        <content type="html"><![CDATA[[OSEN=강서정 기자] 영화 ‘인디아나 존스: 운명의 다이얼’, ‘발키리’ 등으로 알려진 배우 크리스찬 올리버(본명 크리스티안 클렙서)가 10대 두 딸과 비행기 추락사고로 사망했다.&nbsp; 5일(현지시간) 페이지 식스 보도에 따르면 크리스찬 올리버는 카리브해 섬에서 10살 딸 마디타, 12살 딸 아니크와 소형 비행기를 타고 세인트루시아로 향하던 중 바다로]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[영화 '스피드레이서' 크리스천 올리버, 비행기 사고로 두 딸과 함께 사망]]></title>
         <id>https://v.daum.net/v/20240106112908982</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240105162629603"/>
         <updated>2024-01-05T08:14:23.248Z</updated>
         <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]‘백스트리트 보이즈’의 닉 카터(43)가 여동생 바비 진 카터의 죽음을 애도했다. 41살의 바비 진 카터는 지난해 12월 갑작스럽게 사망했고, 남동생 아론 카터는 2022년 11월 34살의 나이로 세상을 떠났다. 앞서 여동생 레슬리 카터는 2012년 1월 25살에 숨을 거뒀다. 닉 카터는 세 명의 동생을 모두 잃었다. 카터는]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['은퇴' 브리트니 스피어스, SNS도 삭제...흔적도 없이 사라졌다]]></title>
-        <id>https://v.daum.net/v/20240105150201168</id>
-        <link href="https://v.daum.net/v/20240105150201168"/>
-        <updated>2024-01-05T06:14:42.927Z</updated>
-        <content type="html"><![CDATA[[TV리포트=강성훈 기자] '은퇴'를 선언한 팝스타 브리트니 스피어스(42)가 소셜네트워크서비스도 삭제해 팬들을 걱정을 샀다. 5일 오후 1시 기준(한국 시간), 브리트니 스피어스 개인 소셜네트워크서비스에 들어가 보면 '죄송합니다. 페이지를 사용할 수 없습니다', '페이지가 삭제됐습니다'라는 문구가 나온다. 브리트니 스피어스 본인이 계정을 비활성화했거나 삭]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[유명 록밴드 출신 스타, 실종된 여친 살해 혐의로 체포 충격]]></title>
-        <id>https://v.daum.net/v/20240105145752016</id>
-        <link href="https://v.daum.net/v/20240105145752016"/>
-        <updated>2024-01-05T06:14:42.927Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 하지원 기자] 미국 록 밴드 미스터 벙글(Mr. Bungle) 출신 테오 렝겔(Theo Lengyel)이 실종된 여자 친구 살해 혐의로 체포됐다. 1월 4일(현지 시간) 미국 연예매체 피플에 따르면 경찰은 지난 2일 샌프란시스코 베이 지역의 숲이 우거진 지역에서 인간의 유해를 발견한 후 렝겔을 1급 살인 혐의로 체포했다. 현재 유골 신원은 확인]]></content>
     </entry>
 </feed>
