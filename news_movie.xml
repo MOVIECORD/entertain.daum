@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2024-01-07T05:11:31.568Z</updated>
+    <updated>2024-01-07T06:14:59.518Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[유태오, 美·英 아카데미 휩쓸며 세계서 빛보나‥“훌륭하다” NYT 찬사]]></title>
+        <id>https://v.daum.net/v/20240107143257877</id>
+        <link href="https://v.daum.net/v/20240107143257877"/>
+        <updated>2024-01-07T06:14:39.848Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 배효주 기자] 유태오가 영화 '패스트 라이브즈'로 영국 아카데미 시상식 남우주연상 부문 예비 후보에 오른 가운데, 미국 아카데미 시상식 남우조연상 후보에도 오를 것으로 예측된다는 외신 보도가 나왔다. 영국영화TV예술아카데미(BAFTA)는 1월 5일(현지시간) 영국 아카데미 시상식(BAFTA상) 예비 후보(롱리스트)를 발표했다. 이에 영화 '패스트]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['외계+인' 최동훈 감독 "난이도 높은 세계관, 시리즈냐 영화냐..."]]></title>
         <id>https://v.daum.net/v/20240107140150252</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240107090004892"/>
         <updated>2024-01-07T00:54:28.817Z</updated>
         <content type="html"><![CDATA[(MHN스포츠 장민수 기자) 한국 영화계 최고의 이야기꾼 최동훈 감독. 영화 '외계+인' 2부에서 그 진가를 제대로 발휘했다. '외계+인' 2부는 치열한 신검 쟁탈전 속 숨겨진 비밀이 밝혀지는 가운데 미래로 돌아가 모두를 구하려는 인간과 도사들의 이야기를 그린 영화다. 지난 2022년 7월 개봉한 1부를 잇는다. 1부에서는 인간의 몸에 갇힌 외]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[유태오 ‘패스트 라이브즈’로 영국 아카데미 남우주연상 예비후보]]></title>
-        <id>https://v.daum.net/v/20240107085432853</id>
-        <link href="https://v.daum.net/v/20240107085432853"/>
-        <updated>2024-01-07T00:54:28.818Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 배효주 기자] 유태오가 영화 '패스트 라이브즈'로 영국 아카데미상 남우주연상 부문 예비 후보에 올랐다. 영국 영화TV예술아카데미(BAFTA)는 1월 5일(현지시간) 영국 아카데미상(BAFTA상) 예비 후보(롱리스트)를 발표했다. 영화 '패스트 라이브즈'(PAST LIVES)가 작품상, 외국어영화상, 각본상, 감독상, 남우주연상, 여우주연상에 이름]]></content>
     </entry>
 </feed>
