@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2024-01-07T01:59:07.721Z</updated>
+    <updated>2024-01-07T02:31:51.861Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['연기대상' 김태리의 속내]]></title>
+        <id>https://v.daum.net/v/20240107110049554</id>
+        <link href="https://v.daum.net/v/20240107110049554"/>
+        <updated>2024-01-07T02:31:35.183Z</updated>
+        <content type="html"><![CDATA['2023 SBS 연기대상'에서 대상을 차지한 배우 김태리는 2016년 영화 '아가씨'로 주목받은 뒤 가파른 성장세를 보이고 있다. 그러나 인생이 계획대로 흘러가는 게 아니라는 걸 아는 그이기에 큰 그림을 그리면서 앞으로 나아가진 않는다. 꾸준히 한 걸음씩 내딛고 있을 뿐이다. 새해엔 새 영화 '외계+인' 2부의 개봉도 앞뒀다. 선배들이 와이어를 타는 장면]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['위시', 4일 연속 정상..'노량' 400만 돌파→韓 영화 1위 탈환]]></title>
         <id>https://v.daum.net/v/20240107101716989</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240107072601305"/>
         <updated>2024-01-06T23:10:30.678Z</updated>
         <content type="html"><![CDATA[[편집자주] 영화를 보는 김나연 기자의 사적인 시선. [스타뉴스 | 김나연 기자] 류준열 김태리 / 사진=CJ ENM'외계+인' 2부가 돌아온 가운데, 반전의 키를 쥔 류준열과 김태리가 영화의 문을 관객에게 활짝 연다. 액션부터 감정 연기까지, 두 사람은 완벽한 시너지를 발휘하며 '외계+인' 2부를 다채로운 빛깔로 채운다. '외계+인' 2부는 치열한 신]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[국무총리 신현확 역 서광재, “‘서울의 봄’이 올바른 가치관을 기르고, 역사관 형성하는 데 도움됐으면”]]></title>
-        <id>https://v.daum.net/v/20240106220932305</id>
-        <link href="https://v.daum.net/v/20240106220932305"/>
-        <updated>2024-01-06T13:12:17.785Z</updated>
-        <content type="html"><![CDATA[[헤럴드경제 = 서병기 선임기자]“‘서울의 봄’이 올바른 가치관을 기르고, 역사관을 형성하는 데 도움이 됐으면 한다.” 영화 ‘서울의 봄’에서 신현확 국무총리 역을 모티브로 한 캐릭터를 맡아 적은 분량으로도 존재감 있는 연기를 펼친 배우 서광재(61)의 말이다. 1979년 12월 12일 수도 서울에서 일어난 신군부 세력의 반란을 막기 위한 일촉즉발의 9시간]]></content>
     </entry>
 </feed>
