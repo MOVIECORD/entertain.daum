@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2024-01-07T04:13:10.814Z</updated>
+    <updated>2024-01-07T05:11:31.568Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['외계+인' 최동훈 감독 "난이도 높은 세계관, 시리즈냐 영화냐..."]]></title>
+        <id>https://v.daum.net/v/20240107140150252</id>
+        <link href="https://v.daum.net/v/20240107140150252"/>
+        <updated>2024-01-07T05:11:13.427Z</updated>
+        <content type="html"><![CDATA['범죄의 재구성'(2004), '타짜'(2006), '전우치'(2009), '도둑들'(2012), '암살'(2015)로 대한민국 영화팬들의 사랑을 받았던 최동훈 감독이 1년 반의 절치부심 끝에 '외계+인' 2부를 내놓았다. 극장에서 개봉했던 '외계+인'1부는 153만 관객만 동원하며 혹평을 들었지만 최근 넷플릭스를 통해 공개되고는 오늘의 TOP영화에 랭]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[400만 돌파한 ‘노량: 죽음의 바다’, 박스오피스 1위 재탈환]]></title>
         <id>https://v.daum.net/v/20240107124205943</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240107085432853"/>
         <updated>2024-01-07T00:54:28.818Z</updated>
         <content type="html"><![CDATA[[뉴스엔 배효주 기자] 유태오가 영화 '패스트 라이브즈'로 영국 아카데미상 남우주연상 부문 예비 후보에 올랐다. 영국 영화TV예술아카데미(BAFTA)는 1월 5일(현지시간) 영국 아카데미상(BAFTA상) 예비 후보(롱리스트)를 발표했다. 영화 '패스트 라이브즈'(PAST LIVES)가 작품상, 외국어영화상, 각본상, 감독상, 남우주연상, 여우주연상에 이름]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['노량: 죽음의 바다', 2024년 첫 주말 韓영화 1위 탈환]]></title>
-        <id>https://v.daum.net/v/20240107085144837</id>
-        <link href="https://v.daum.net/v/20240107085144837"/>
-        <updated>2024-01-07T00:54:28.821Z</updated>
-        <content type="html"><![CDATA[[OSEN=김보라 기자] 이순신 3부작 프로젝트의 대미를 장식할 영화 '노량: 죽음의 바다'가 갑진년 첫 주 주말 오전 400만 관객을 돌파한 이후 한국영화 박스오피스 1위를 탈환하며 진정한 저력을 보여주고 있다.&nbsp; 새해 극장가 한국영화 흥행을 이끌며 활기를 불어넣고 있는 영화 '노량: 죽음의 바다'(감독 김한민, 제공 ㈜에이스메이커무비웍스·롯데엔터테인]]></content>
     </entry>
 </feed>

@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2024-01-07T04:13:10.816Z</updated>
+    <updated>2024-01-07T05:11:31.570Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘노량: 죽음의 바다’, 400만 관객 돌파했다…박스오피스 1위 재탈환]]></title>
+        <id>https://v.daum.net/v/20240107135619143</id>
+        <link href="https://v.daum.net/v/20240107135619143"/>
+        <updated>2024-01-07T05:11:26.612Z</updated>
+        <content type="html"><![CDATA[‘노량’, 박스오피스 1위 재탈환 영화 ‘노량: 죽음의 바다’가 400만 관객을 돌파와 함께 박스오피스 1위도 재탈환했다. ‘노량: 죽음의 바다’가 전날 오전 400만 관객을 돌파했다는 소식을 전한 것에 이어, 당일 한국영화 박스오피스 1위도 재탈환하며 최종 1위에 올랐다. ‘노량: 죽음의 바다’의 이러한 흥행 저력은 ‘명량’, ‘한산: 용의 출현’, ‘]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['데뷔 후 첫 대상' 꿈을 이룬 세븐틴과 뉴진스]]></title>
         <id>https://v.daum.net/v/20240107130240251</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240107113850059"/>
         <updated>2024-01-07T03:11:36.771Z</updated>
         <content type="html"><![CDATA[[뉴스엔 장예솔 기자] '라디오쇼' 박명수와 딘딘이 티격태격 케미를 자랑했다. 1월 7일 방송된 KBS 쿨FM '박명수의 라디오쇼'(이하 '라디오쇼')에서는 DJ 박명수가 가수 딘딘과 전화 통화를 나누는 모습이 전파를 탔다. 이날 박명수는 딘딘에 대해 "제가 '라디오쇼' 9주년 동안 진행할 수 있도록 많이 도와준 분이다. 제가 키웠다고 해도 과언이 아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[장나라, 손호준으로 인한 대혼란··· 자체 최고 시청률 경신]]></title>
-        <id>https://v.daum.net/v/20240107113756048</id>
-        <link href="https://v.daum.net/v/20240107113756048"/>
-        <updated>2024-01-07T03:11:36.777Z</updated>
-        <content type="html"><![CDATA[장나라가 집과 회사에 동시다발로 존재하는 남편 손호준으로 인해 대혼란에 빠진 ‘불길한 달음박질 엔딩’을 선보였다. 지난 6일(토)에 방송된 TV CHOSUN 주말미니시리즈 ‘나의 해피엔드’(극본 백선희/연출 조수원/제작 스토리바인픽쳐스, 하이그라운드, 아이엔컬쳐) 3회는 닐슨코리아 기준 수도권 시청률 2.7%, 분당 최고 시청률은 3.4%를 기록하며]]></content>
     </entry>
 </feed>
