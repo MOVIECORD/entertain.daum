@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2024-01-07T06:14:59.518Z</updated>
+    <updated>2024-01-07T07:10:16.960Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['외계+인', 개봉 D-3 예매율 전체 1위 "1편보다 재미있는 2편"]]></title>
+        <id>https://v.daum.net/v/20240107151833778</id>
+        <link href="https://v.daum.net/v/20240107151833778"/>
+        <updated>2024-01-07T07:09:58.603Z</updated>
+        <content type="html"><![CDATA[[OSEN=김보라 기자] 한국영화 '외계+인' 2부가 예매율 전체 1위를 달성했다. 7일 영진위 영화관입장권 통합전산망 실시간 예매율 집계를 보면, '외계+인' 2부는 이날 오후 3시 기준 30.1%의 수치를 보이며 전체&nbsp;1위로 등극했다. 예매 관객수는&nbsp;5만 9327명이다. '외계+인' 2부는 디즈니 100주년 기념작이자 박스오피스 1위를 유지하고 있는]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['인어공주' 할리 베일리, 임신설 종결..아들 출산 발표]]></title>
+        <id>https://v.daum.net/v/20240107151757756</id>
+        <link href="https://v.daum.net/v/20240107151757756"/>
+        <updated>2024-01-07T07:09:58.604Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 | 안윤지 기자] 할리 베일리 / 사진=/AFPBBNews=뉴스1=스타뉴스미국 출신 배우 할리 베일리가 아들 출산 사실을 깜짝 발표했다. 할리 베일리는 6일(현지시간) 자신의 SNS를 통해 "새해가 며칠 남았지만, 2023년에 내가 한 일 중 가장 큰 일은 아들을 데려온 것이다. 세상에 온 걸 환영한다"라고 출산 사실을 밝혔다. 공개된 사진]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[유태오, 美·英 아카데미 휩쓸며 세계서 빛보나‥“훌륭하다” NYT 찬사]]></title>
         <id>https://v.daum.net/v/20240107143257877</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240107094518502"/>
         <updated>2024-01-07T00:54:28.809Z</updated>
         <content type="html"><![CDATA[[OSEN=김보라 기자]&nbsp;2024년 새해 극장가를 신나게 터뜨리고 있는 뮤직 어드벤처 '트롤: 밴드 투게더'이 글로벌 수익 2억 달러를 돌파했다. 7일(한국 시각) 박스오피스 모조의 집계에 따르면 '트롤: 밴드 투게더'(감독 월트 도른·팀 헤이츠, 수입배급 유니버설 픽쳐스)의 월드 와이드는 총 2억 9만 2335달러(2633억 2151만 2860원)의]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['외계+인' 최동훈 감독 "상처도 있고 힘들었지만 가장 사랑스러운 작품"]]></title>
-        <id>https://v.daum.net/v/20240107090146020</id>
-        <link href="https://v.daum.net/v/20240107090146020"/>
-        <updated>2024-01-07T00:54:28.816Z</updated>
-        <content type="html"><![CDATA['범죄의 재구성'(2004), '타짜'(2006), '전우치'(2009), '도둑들'(2012), '암살'(2015)로 대한민국 영화팬들의 사랑을 받았던 최동훈 감독이 1년 반의 절치부심 끝에 '외계+인' 2부를 내놓았다. 330억을 투자, 1,2부를 동시에 촬영했으며 2022년 7월 '외계+인' 1부를 공개하고 153만 관객이라는 처참한 성적을 받아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[역시 韓 최고 이야기꾼...최동훈 감독 '외계+인', 2부서 끝내 폭발하다]]></title>
-        <id>https://v.daum.net/v/20240107090004892</id>
-        <link href="https://v.daum.net/v/20240107090004892"/>
-        <updated>2024-01-07T00:54:28.817Z</updated>
-        <content type="html"><![CDATA[(MHN스포츠 장민수 기자) 한국 영화계 최고의 이야기꾼 최동훈 감독. 영화 '외계+인' 2부에서 그 진가를 제대로 발휘했다. '외계+인' 2부는 치열한 신검 쟁탈전 속 숨겨진 비밀이 밝혀지는 가운데 미래로 돌아가 모두를 구하려는 인간과 도사들의 이야기를 그린 영화다. 지난 2022년 7월 개봉한 1부를 잇는다. 1부에서는 인간의 몸에 갇힌 외]]></content>
     </entry>
 </feed>
