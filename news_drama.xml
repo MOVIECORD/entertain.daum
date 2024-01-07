@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-01-07T03:11:42.054Z</updated>
+    <updated>2024-01-07T04:13:10.777Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이영애는 예술혼으로 이 속물적 세상을 돌파할 수 있을까]]></title>
+        <id>https://v.daum.net/v/20240107130812339</id>
+        <link href="https://v.daum.net/v/20240107130812339"/>
+        <updated>2024-01-07T04:12:58.772Z</updated>
+        <content type="html"><![CDATA[[엔터미디어=정덕현] 프랑스 원작의 리메이크여서일까. tvN 토일드라마 &lt;마에스트라&gt;는 애초 기대했던 클래식을 소재로 하는 드라마들과는 사뭇 다른 느낌으로 흘러간다. 베토벤과 모차르트을 연주하는 오케스트라가 그려내는 클래식과 사람이야기(혹은 멜로까지)를 기대했던 시청자들이라면 그래서 시작부터 남편 김필(김영재)이 단원인 이아진(이시원)과 불륜을 저지르고 심]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["너 없이 난 이미 불행해"…김유정♥송강, 불행까지 함께한다]]></title>
+        <id>https://v.daum.net/v/20240107130105236</id>
+        <link href="https://v.daum.net/v/20240107130105236"/>
+        <updated>2024-01-07T04:12:58.773Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 이승길 기자] '마이 데몬' 악마 송강이 가슴 시린 운명의 진실을 마주했다. 6일 방송된 SBS 금토드라마 '마이 데몬' 12회에서 도도희(김유정)와 구원(송강)의 전생과 얽힌 비밀이 드러났다. 차별 없는 평등한 세상을 꿈꾸며 연정을 쌓아가던 월심(김유정)과 이선(송강)의 비극적인 죽음은 보는 이들의 가슴을 먹먹하게 했다. 구원은 ‘운명은]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['나의 해피엔드' 장나라-손호준, 대혼란 속 멘탈 붕괴..최고 3.4%]]></title>
         <id>https://v.daum.net/v/20240107114525140</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240107102520076"/>
         <updated>2024-01-07T01:58:52.913Z</updated>
         <content type="html"><![CDATA[[OSEN=최나영 기자]&nbsp;이이경과 송하윤이 '저세상 빌런 연기'로 새해 첫 시작부터 도파민을 한껏 자극하고 있다. tvN&nbsp;월화드라마&nbsp;‘내 남편과 결혼해줘’(극본 신유담/&nbsp;연출 박원국,&nbsp;한진선/&nbsp;기획 스튜디오드래곤/&nbsp;제작&nbsp;DK E&amp;M)&nbsp;속 지상 최악의 남편 박민환과 친구의 모든 것을 탐내는 절친 정수민으로 분한 이이경,&nbsp;송하윤의 마라 맛 활약이 방송 첫]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[최수종vs탁재훈vs기안84, '대상' 수상자 대격돌]]></title>
-        <id>https://v.daum.net/v/20240107101915007</id>
-        <link href="https://v.daum.net/v/20240107101915007"/>
-        <updated>2024-01-07T01:58:52.915Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 | 이경호 기자] '2023 KBS 연기대상' 대상 최수종(사진 맨 왼쪽부터 오른쪽으로), '2023 SBS 연예대상' 대상 탁재훈, '2023 MBC 방송연예대상' 대상 기안84./사진=KBS, SBS, MBC"대상 수상자 맞대결이 펼쳐진다" 연기대상 대상 수상 최수종과 연예대상 대상 수상 탁재훈, 기안84가 맞붙게 됐다. '대상' 수상자들의]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['열녀박씨' 손소망, 철부지 재벌 2세→마천댁 활약 "1인 2역 특별한 작품"]]></title>
-        <id>https://v.daum.net/v/20240107101734992</id>
-        <link href="https://v.daum.net/v/20240107101734992"/>
-        <updated>2024-01-07T01:58:52.917Z</updated>
-        <content type="html"><![CDATA[[OSEN=장우영 기자] 배우 손소망이 '열녀박씨 계약결혼뎐'에서 맹활약하며 유종의 미를 거뒀다. 손소망은 지난 6일 방송을 끝으로 종영한 MBC 금토드라마 '열녀박씨 계약결혼뎐'(연출 박상훈 강채원, 극본 고남정)에서 강해령 역을 맡아 마지막까지 유쾌한 활약을 펼쳤다. 강해령은 틈만 나면 강상모(천호진) 회장 돈에 손을 댈 궁리를 하는 철부지 막내 딸]]></content>
     </entry>
 </feed>
