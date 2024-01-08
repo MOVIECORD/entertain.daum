@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2024-01-08T01:54:51.516Z</updated>
+    <updated>2024-01-08T02:26:12.106Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘성난 사람들’ 스티븐 연, TV미니시리즈 남우주연상 첫 수상 “아내는 나의 힘” 소감]]></title>
+        <id>https://v.daum.net/v/20240108110142043</id>
+        <link href="https://v.daum.net/v/20240108110142043"/>
+        <updated>2024-01-08T02:25:53.136Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]'성난 사람들'의 한국계 배우 스티븐 연이 제81회 골든글로브 TV미니시리즈 부문 남우주연상을 수상했다. 제81회 골든글로브 시상식이 한국 시간으로 8일 미국 로스앤젤레스(LA) 베벌리힐스의 베벌리 힐튼 호텔에서 열렸다. 스티븐 연은 ‘배스 리브스’ 데이빗 오예로워, ‘파고’ 존 햄, ‘데이지 존스 앤 더 식스’ 샘 클라플린]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[스티븐 연, 골든글로브 첫 후보 지명→남우주연상 “♥아내가 나의 힘”]]></title>
+        <id>https://v.daum.net/v/20240108110137040</id>
+        <link href="https://v.daum.net/v/20240108110137040"/>
+        <updated>2024-01-08T02:25:53.138Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 배효주 기자] '옥자'와 '미나리'에 출연한 한국계 미국인 배우 스티븐 연이 골든글로브에서 TV 시리즈 부문 남우주연상을 수상했다. 스티븐 연은 1월 7일(현지시간) 미국 로스앤젤레스에서 열린 제81회 골든글로브 시상식에서 지난해 넷플릭스를 통해 공개된 10부작 시리즈 '성난 사람들(비프)'로 TV 시리즈 부문 남우주연상을 품에 안았다. 이번이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['외계+인' 류준열 "최대한 늦게 철들고파"]]></title>
         <id>https://v.daum.net/v/20240108105009398</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240108092647008"/>
         <updated>2024-01-08T00:51:24.695Z</updated>
         <content type="html"><![CDATA[[OSEN=김보라 기자]1200만 명의 관객을 돌파해 2023년 전체 흥행 1위를 달성한&nbsp;영화 ‘서울의 봄’ 측이 흥행 신기록을 공개해 눈길을 모은다. ‘서울의 봄’(감독 김성수, 배급 플러스엠 엔터테인먼트, 제작 ㈜하이브미디어코프)은 1979년 12월 12일 수도 서울에서 일어난 신군부 세력의 반란을 막기 위한 일촉즉발의 9시간을 그린 영화. #개봉]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[꼬인 퍼즐 풀고 ‘전우치’ 10배 액션… “한국형 어벤져스 맞네”]]></title>
-        <id>https://v.daum.net/v/20240108092109813</id>
-        <link href="https://v.daum.net/v/20240108092109813"/>
-        <updated>2024-01-08T00:51:24.696Z</updated>
-        <content type="html"><![CDATA[“최동훈 감독은 너무 어른인데, 한편으론 너무 아이 같아요. 아이의 순수함을 가지고 있는 어른이랄까요.”(배우 김태리) 10일 개봉하는 ‘외계+인 2부’(최동훈 연출)는 어른이면서 아이 같은 감독의 면모가 고스란히 담겨 있다. 고려 시대 도사·신선과 현재의 사람, 미래의 로봇이 힘을 합쳐 외계인을 무찌르고 세계를 구한다는 이야기나 ‘중요한 건]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['부활' 구수환 감독 "이태석의 정신은 인성교육의 지침서"]]></title>
-        <id>https://v.daum.net/v/20240108091813685</id>
-        <link href="https://v.daum.net/v/20240108091813685"/>
-        <updated>2024-01-08T00:51:24.697Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 | 이경호 기자] 영화 '부활'의 구수환 감독(사진 가운데)/사진제공=이태석 재단영화 '부활'의 구수환 감독이 지난해 연말 전남 장흥군, 광주광역시에서 2박3일의 릴레이 강연을 펼쳤다. 장흥중, 장흥향원중, 전남여고, 설원여고 등 4개 학교다. 이번 구수환 감독의 강연은 1회성 행사가 아니라 '이태석신부 알아가기' 수업의 일환으로 진행됐다.]]></content>
     </entry>
 </feed>
