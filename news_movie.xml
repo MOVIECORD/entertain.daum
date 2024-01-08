@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2024-01-08T10:13:19.262Z</updated>
+    <updated>2024-01-08T11:10:05.597Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[봉준호, 정이삭, 오영수 이어 스티븐연...골든글로브 韓 영화인 수상ing]]></title>
+        <id>https://v.daum.net/v/20240108200004568</id>
+        <link href="https://v.daum.net/v/20240108200004568"/>
+        <updated>2024-01-08T11:09:49.056Z</updated>
+        <content type="html"><![CDATA[(MHN스포츠 장민수 기자) 한국계 영화인들의 활약이 제81회 골든글로브 시상식에서도 이어졌다. 7일(현지시간)&nbsp;미국 로스앤젤레스(LA) 베벌리힐스의 베벌리 힐튼 호텔에서 제81회 골든글로브 시상식이 열렸다. 한국계 작가 이성진이 연출, 극본, 제작을 맡고 한국계 배우들이 대거 출연한 넷플릭스 '성난 사람들'(BEEF)은 TV 단막극 시리즈 부]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[풍수사 최민식·무당 김고은‥K-오컬트 ‘파묘’ 1차 예고편 공개]]></title>
         <id>https://v.daum.net/v/20240108185346665</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240108164501133"/>
         <updated>2024-01-08T08:15:00.114Z</updated>
         <content type="html"><![CDATA[[SBS 연예뉴스 | 김지혜 기자] 배우 김의성과 영화 '암살', '외계+인' 시리즈에서 호흡을 맞췄던 최동훈 감독은 그의 연기를 이렇게 평했다. "연기라는 거대한 저택이 있다면 어느 방 한 칸은 오직 김의성만이 문을 열고 들어갈 수 있다" 배우에게 '배우만의 방'이 있다는 칭찬만큼 좋은 게 있을까. 지난 12년간, 김의성의 연기 행보를 보고 있자면 그 방]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[로버트 드니로에 "80세에 어떻게?"…골든글로브 진행자 농담]]></title>
-        <id>https://v.daum.net/v/20240108163647757</id>
-        <link href="https://v.daum.net/v/20240108163647757"/>
-        <updated>2024-01-08T08:15:00.115Z</updated>
-        <content type="html"><![CDATA[(로스앤젤레스=연합뉴스) 임미나 특파원 = 올해 미국 영화상 시즌의 막을 올린 골든글로브 시상식에는 할리우드 스타들이 대거 참석하면서 '옛 영광'을 일부 되찾은 모습이다. 7일(현지시간) 미국 로스앤젤레스(LA) 베벌리힐튼 호텔에서 열린 제81회 골든글로브 시상식은 대체로 무난하게 마무리됐다. 이번 시상식은 지난해 수개월간 이어진 배우·작가들의 양대 파업으]]></content>
     </entry>
 </feed>
