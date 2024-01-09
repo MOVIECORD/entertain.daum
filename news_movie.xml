@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2024-01-09T07:12:32.279Z</updated>
+    <updated>2024-01-09T08:14:21.124Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘외계+인’ 주역들 개봉 2주차 주말에도 열일‥무대인사 확정]]></title>
+        <id>https://v.daum.net/v/20240109170006619</id>
+        <link href="https://v.daum.net/v/20240109170006619"/>
+        <updated>2024-01-09T08:14:01.787Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 배효주 기자] '외계+인' 2부 주역들이 개봉 2주차 주말 경기, 인천 지역 관객을 만난다. 1월 10일 개봉하는 영화 '외계+인'(감독 최동훈) 2부는 치열한 신검 쟁탈전 속 숨겨진 비밀이 밝혀지는 가운데 미래로 돌아가 모두를 구하려는 인간과 도사들의 이야기를 그린 작품이다. 오는 20일과 21일 개봉 2주차 주말 경기, 인천 지역 무대인사를]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[D-1 '길위에 김대중', 해외 15개국 30개 도시 동시 상영 시작]]></title>
         <id>https://v.daum.net/v/20240109161015651</id>
@@ -27,7 +34,7 @@
         <content type="html"><![CDATA[“작품을 만들어나가면서 소통하는 과정, 캐릭터를 분석하는 방법, 스타일 등 다양한 부분에서 새로운 가능성을 발견할 때 연기하는 쾌감이 있다. 어떤 방향성을 가지고 길을 추구하기보다 스스로 만족할 수 있는 길을 만들어가고 싶다.” 지난 4일 서울 종로구 한 카페에서 만난 배우 김태리는 연기하면서 느끼는 감정들에 대해 이같이 말했다. 요즘 그는 바쁘고 즐거운]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA["경기·인천 외랑이들 모여라"…'외계+인' 2부, 개봉 2주차 무대인사 확정]]></title>
+        <title type="html"><![CDATA["경기·인천 외랑인들 모여라"…'외계+인' 2부, 개봉 2주차 무대인사 확정]]></title>
         <id>https://v.daum.net/v/20240109154854567</id>
         <link href="https://v.daum.net/v/20240109154854567"/>
         <updated>2024-01-09T07:12:12.285Z</updated>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240109115400442"/>
         <updated>2024-01-09T03:12:32.177Z</updated>
         <content type="html"><![CDATA[[장혜령 기자] ▲ &nbsp;영화 &lt;노 베어스&gt; 스틸ⓒ M&amp;M 인터내셔널&nbsp; 자파르 파나히의 영화는 영화제 아니면 찾아보기 쉽지 않다. 데뷔작 &lt;하얀 풍선&gt;만이 이란에서 개봉했을 뿐 고국에서 핍박받고 있다. 영화 &lt;노 베어스&gt;를 처음 알게 된 건 재작년 부산국제영화제였다. '이 영화가 개봉할 수 있을지 모르겠다'라던 지인 추천에 관심이 생겼다. 영화제에서라도 관람해]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['외계+인' 2부, 강력해진 케미→시선 강탈 뉴페이스…관객들이 직접 짚어준 기대 포인트 셋]]></title>
-        <id>https://v.daum.net/v/20240109112305252</id>
-        <link href="https://v.daum.net/v/20240109112305252"/>
-        <updated>2024-01-09T02:26:14.341Z</updated>
-        <content type="html"><![CDATA[[마이데일리 = 노한빈 기자] 영화 '외계+인' 2부가 개봉 전부터 뜨거운 예매 화력과 쏟아지는 기대평으로 극장가를 달구고 있는 한편, 관객들이 직접 짚어주는 기대 포인트 세 가지를 공개했다. #1. "배우들의 케미부터 액션 씬까지 전편보다 더욱 강렬해짐" 다채로운 캐릭터 군단의 한층 강력해진 연기 시너지! '외계+인' 2부는 치열한 신검 쟁탈전 속 숨]]></content>
     </entry>
 </feed>
