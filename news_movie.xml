@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2024-01-09T22:10:46.436Z</updated>
+    <updated>2024-01-09T23:11:15.866Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이제훈·구교환 주연 '탈주', 7월 개봉…여름 극장가 겨냥]]></title>
+        <id>https://v.daum.net/v/20240110074706013</id>
+        <link href="https://v.daum.net/v/20240110074706013"/>
+        <updated>2024-01-09T23:10:57.893Z</updated>
+        <content type="html"><![CDATA[[스포츠투데이 서지현 기자] '탈주'가 여름 시장을 노린다. 배우 이제훈, 구교환 주연의 영화 '탈주'는 7월 중 극장 개봉을 확정했다. '탈주' 는 휴전선 너머 내일이 있는 삶을 꿈꾸는 북한군 병사 규남(이제훈)과 그를 막아야 하는 보위부 장교 현상(구교환)의 목숨을 건 탈주와 추격전을 그린 영화다. 비무장지대 철책 반대편의 삶을 향해 생사의 선을 넘어]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['위시', 일주일째 박스오피스 1위…70만 돌파]]></title>
+        <id>https://v.daum.net/v/20240110072031567</id>
+        <link href="https://v.daum.net/v/20240110072031567"/>
+        <updated>2024-01-09T23:10:57.894Z</updated>
+        <content type="html"><![CDATA[(서울=뉴스1) 황미현 기자 = 디즈니 100주년 기념 애니메이션 '위시'(감독 크리스 벅, 폰 비라선손)가 일주일째 박스오피스 정상을 지켰다. 10일 영화진흥위원회 영화관 입장권 통합 전산망에 따르면 '위시'는 지난 9일 하루 4만2537명을 동원, 이달 3일 개봉 뒤 7일 연속 1위를 지켜내는 데 성공했다. 누적관객수는 71만1298명이다. '위시']]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[대상 받은 김태리 “‘외계+인’ 즐겁고 행복했어요”]]></title>
         <id>https://v.daum.net/v/20240110070021227</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240109185004245"/>
         <updated>2024-01-09T10:12:20.846Z</updated>
         <content type="html"><![CDATA[(엑스포츠뉴스 오승현 기자) '서울의 봄' 인기가 여전히 뜨거운 가운데, 미공개 편집본·감독판을 향한 열기도 식지 않고 있다. 2023년 전체 흥행 1위를 기록한 영화 '서울의 봄'(감독 김성수)는 2024년에도 흥행 중이다. 누적관객 1,200만 명을 넘어선 가운데, 일각에서는 '1212만 명 달성시 5시간 분량의 '서울의 봄' 감독판 공개를 한다' 등의]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[고레에다가 주목한 하야카와 치에 감독, '플랜 75' 개봉 맞춰 내한]]></title>
-        <id>https://v.daum.net/v/20240109182717771</id>
-        <link href="https://v.daum.net/v/20240109182717771"/>
-        <updated>2024-01-09T10:12:20.847Z</updated>
-        <content type="html"><![CDATA[[SBS 연예뉴스 | 김지혜 기자] 일본의 차세대 거장 하야카와 치에 감독이 '플랜 75' 개봉을 앞두고 국내 관객과 만난다. 하야카와 치에 감독은 '플랜 75' 개봉을 앞두고, 1월 29일(월)부터 1월 31일(수)까지 내한을 확정했다. 제16회 서울국제여성영화제 성주 최우수상 수상, 제27회 부산국제영화제 선재상 심사위원 참여 등 그간 한국과 다양한 인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[우연히 찍은 불륜 남녀 사진, 진퇴양난 빠진 감독]]></title>
-        <id>https://v.daum.net/v/20240109180002932</id>
-        <link href="https://v.daum.net/v/20240109180002932"/>
-        <updated>2024-01-09T09:11:49.994Z</updated>
-        <content type="html"><![CDATA[[김상목 기자] 2010년 이후 자파르 파나히라는 감독은 적어도 예술영화 작가주의를 떠올리는 이들에게 하나의 상징이 되었다. 그는 투옥과 가택연금을 통해 이란이라는 나라가 신정체제 아래에서 사회 전체가 통제되고 있으며 문화예술 전반을 검열하고 있다는 엄연한 사실을 일깨우는 산증인으로 기능한다. 20년 간 영화 창작과 해외 출국이 금지된 상태에서 그는 사회적]]></content>
     </entry>
 </feed>
