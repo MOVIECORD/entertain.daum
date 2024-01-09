@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-01-09T20:12:06.535Z</updated>
+    <updated>2024-01-09T21:10:47.539Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['내남결' 박민영 사망 6일 후 나인우도 죽음.."두 번째 기회"]]></title>
+        <id>https://v.daum.net/v/20240110054502181</id>
+        <link href="https://v.daum.net/v/20240110054502181"/>
+        <updated>2024-01-09T21:10:34.895Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 | 이승훈 기자] /사진=tvN '내 남편과 결혼해줘' 배우 나인우에 대한 미스터리가 풀렸다. 지난 9일 오후 방송된 tvN '내 남편과 결혼해줘'에서는 강지원(박민영 분)의 회귀와 얽힌 유지혁(나인우 분)의 운명적인 연결고리가 베일을 벗는 모습이 그려졌다. 앞서 유지혁은 앞으로 일어날 일들을 모두 알고있는 듯 강지원에게 조언을 건네 시청자]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['내 남편과 결혼해줘' 나인우, 10년 회귀한 비밀 있었다…♥박민영 지킬까]]></title>
         <id>https://v.daum.net/v/20240109220939286</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240109191930737"/>
         <updated>2024-01-09T11:09:39.230Z</updated>
         <content type="html"><![CDATA[[OSEN=연휘선 기자] 기라성 같은 선배 연기자들 틈에서 에너지로 지지 않는 법을 배웠다. 이제는 극한 감정을 욕심 내는 배우 배인혁을 만나봤다. 배인혁은 9일 오후 서울시 종로구 삼청동의 한 카페에서 국내 취재진과 인터뷰를 진행했다. 그는 이 자리에서 최근 종영한 MBC 금토드라마 '열녀박씨 계약결혼뎐(약칭 열녀박씨)'과 근황에 대해 이야기를 나눴다]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘내남결’ 빌런 이이경 ‘결혼해YOU’로 구준회 만날까 “검토중”]]></title>
-        <id>https://v.daum.net/v/20240109185616340</id>
-        <link href="https://v.daum.net/v/20240109185616340"/>
-        <updated>2024-01-09T10:12:25.059Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 박수인 기자] 배우 이이경, 아이콘 멤버 겸 배우 구준회가 '결혼해YOU'로 만날까. 이이경 소속사 상영이엔티 측은 1월 9일 뉴스엔에 채널A 새 드라마 '결혼해YOU' 출연 관련 "제안 받고 검토 중"이라고 밝혔다. 구준회 소속사 145엔터테인먼트 측은 "'결혼해YOU'는 긍정검토 중인 작품"이라고 전했다. '결혼해YOU'는 중매 로맨스를 그린]]></content>
     </entry>
 </feed>
