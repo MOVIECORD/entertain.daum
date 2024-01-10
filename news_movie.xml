@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2024-01-10T06:14:43.925Z</updated>
+    <updated>2024-01-10T07:11:06.423Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["따듯한 개판 펼쳐진다"…윤여정→유해진, 반려인 마음 녹일 '도그데이즈']]></title>
+        <id>https://v.daum.net/v/20240110155102092</id>
+        <link href="https://v.daum.net/v/20240110155102092"/>
+        <updated>2024-01-10T07:10:49.653Z</updated>
+        <content type="html"><![CDATA[[텐아시아=김지원 기자] 반려견과 사람의 끈끈한 유대감을 담은 영화 '도그데이즈'가 개봉 준비를 마쳤다.&nbsp;출연 배우 가운데 반려인도 많다. 배우들은 자신들의 반려동물에 대한 애정을 표하며 영화에도 진정성을 담았다고 강조했다. 10일 서울 한강로동 CGV용산아이파크몰에서 영화 '도그데이즈'의 제작보고회가 열렸다. 김덕민 감독과 배우 윤여정, 유해진, 김윤]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[실패하기 싫어 망설이고 있나요? 이 오리 가족을 보세요]]></title>
         <id>https://v.daum.net/v/20240110151201442</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240110133847121"/>
         <updated>2024-01-10T05:10:54.104Z</updated>
         <content type="html"><![CDATA[김덕민 감독(왼쪽부터), 배우 탕준상, 이현우, 김서형, 정성화, 윤채나, 김윤진, 윤여정, 유해진이 10일 오전 서울 용산구 CGV용산아이파크몰에서 열린 영화 ‘도그데이즈’ 제작보고회에 참석해 포즈를 취하고 있다. (사진=뉴스1)[이데일리 스타in 김보영 기자] 영화 ‘도그데이즈’(감독 김덕민)가 따뜻한 인간미와 귀여운 멍뭉미로 설 연휴 극장가를 취향]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[라미란X공명 '시민덕희' 설 앞둔 극장가서 터질까..'제보전화 포스터' 공개]]></title>
-        <id>https://v.daum.net/v/20240110133215903</id>
-        <link href="https://v.daum.net/v/20240110133215903"/>
-        <updated>2024-01-10T05:10:54.105Z</updated>
-        <content type="html"><![CDATA[[OSEN=최이정 기자]&nbsp;2024년을 여는 통쾌한 추적극 '시민덕희'(제공/배급: ㈜쇼박스 | 제작: ㈜씨제스스튜디오, 페이지원필름㈜ | 출연: 라미란, 공명, 염혜란, 박병은, 장윤주, 이무생, 안은진 | 감독: 박영주)가 보이스피싱을 당한 뒤 수상쩍은 전화를 받게 된 피해자 ‘덕희’와 사기 친 조직원 ‘재민’의 팽팽한 긴장감이 느껴지는 ‘제보전화 포]]></content>
     </entry>
 </feed>
