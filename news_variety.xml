@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/variety</id>
     <title>다음 연예 ─ 뉴스 ─ 예능</title>
-    <updated>2024-01-10T08:14:44.675Z</updated>
+    <updated>2024-01-10T09:12:25.778Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['솔로지옥3' 김규리 "줘도 안 가져" 논란…'무례함vs이해' 갑론을박]]></title>
+        <id>https://v.daum.net/v/20240110175011252</id>
+        <link href="https://v.daum.net/v/20240110175011252"/>
+        <updated>2024-01-10T09:12:15.662Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 윤현지 기자) 넷플릭스 예능 '솔로지옥3'의 최종회가 공개된 가운데, 출연자 김규리의 발언이 눈길을 모으고 있다. 지난 9일 '솔로지옥3'의 10, 11회가 공개됐다. 최종화에서는 유시은-최민우, 김규리-박민규, 안민영-이진석, 최혜선-이관희 총 4커플이 탄생했다. 최종선택을 하기 전 김규리는 갈팡질팡한 최민우의 태도에 "네가 날 두고 저울질]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['솔로지옥3' 최종 4커플 탄생···이관희 "사랑에 대해 배웠다"]]></title>
         <id>https://v.daum.net/v/20240110170517704</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240110152807137"/>
         <updated>2024-01-10T07:10:57.799Z</updated>
         <content type="html"><![CDATA[[OSEN=김나연 기자] 요리연구가 이혜정이 남편에게 이혼을 통보했다. 9일 MBN '한 번쯤 이혼할 결심' 공식 채널에는 이혜정 부부의 선공개 영상이 업로드 됐다. 이날 이혜정의 남편 고민환은 "그럼 다 그만하면 좋겠네?"라고 운을 뗐다. 이에 이혜정은 "그러니까 그만하고 싶다고. 이제 당신이 인상 쓰는것도 이제 진심으로 보기 싫다"라고 이혼을 선언했]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘2억뷰 슬릭백’ 이효철 덕에‥“전교생 C사 신발 선물받아” 깜짝]]></title>
-        <id>https://v.daum.net/v/20240110152410972</id>
-        <link href="https://v.daum.net/v/20240110152410972"/>
-        <updated>2024-01-10T07:10:57.799Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 서유나 기자] '2억뷰 슬릭백 챌린지'의 주인공 이효철 군의 놀라운 영향력이 전해졌다. 1월 10일 방송된 SBS 파워FM '두시탈출 컬투쇼'(이하 '컬투쇼')에서는 '우리학교 유명인'을 주제로 청취자들의 사연을 받았다. 이날 김태균은 "우리학교 유명인, 뭐로 유명한지, 꼭 연예인이 아니어도 방귀 뀌는 걸로 유명한 친구가 있다든지, 뭐든지 보]]></content>
     </entry>
 </feed>
