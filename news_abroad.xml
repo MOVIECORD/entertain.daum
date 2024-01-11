@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2024-01-11T11:09:46.900Z</updated>
+    <updated>2024-01-11T12:20:00.350Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[입장문 하나 남기고 은퇴한 男스타...예정된 공연도 전부 취소해]]></title>
+        <id>https://v.daum.net/v/20240111211801874</id>
+        <link href="https://v.daum.net/v/20240111211801874"/>
+        <updated>2024-01-11T12:19:59.754Z</updated>
+        <content type="html"><![CDATA[[TV리포트=전영은 기자] EXILE의 백업 댄서에서 배우로 데뷔한 고바야시 유타가 돌연 연예계 은퇴를 선언했다. EXILE의 백업 댄서로 라이브 공연과 뮤직 비디오에 출연했으며 배우로 활약한 고바야시 유타가 지난 10일(현지 시간) X(구 트위터)를 통해 연예계를 은퇴하겠다고 알렸다. 입장문에는 "항상 응원해주신 여러분께. 이번에 고바야시 유타는 202]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[데뷔 시켜준 업계 선배 '나락' 가자 빵 뜬 女스타...수입 3배 이상 올라]]></title>
         <id>https://v.daum.net/v/20240111164700271</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240111110021100"/>
         <updated>2024-01-11T02:26:39.600Z</updated>
         <content type="html"><![CDATA[[OSEN=최이정 기자] 영화 '아바타 3'는 2025년 개봉을 목표로 다음달 제작 실행된다. 이 판타지 프랜차이즈에서 제이크 설리 역을 맡은 배우 샘 워싱턴(47)은 영화의 2025년 12월 19일(예정) 개봉에 맞춰&nbsp;오는 2월 제작&nbsp;재개할 예정이라고 알렸다. 그는 '피플'에&nbsp; "우리는 한 달 안에 다시 작업에 착수하는데 이건 정말 큰 일이다.&nbsp;당신이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[배우 제레미 앨런 화이트, 시상식서 '속옷' 질문받고 불쾌..."작품 얘기 하고파"]]></title>
-        <id>https://v.daum.net/v/20240111100631624</id>
-        <link href="https://v.daum.net/v/20240111100631624"/>
-        <updated>2024-01-11T01:55:19.182Z</updated>
-        <content type="html"><![CDATA[[TV리포트=전영은 기자] 미국 배우 제레미 앨런 화이트가 골든글로브에서 속옷 광고에 관한 질문을 받고 당황한 모습을 보였다. 지난 8일(현지 시간) 외신 매체 'CNN 엔터테이먼트'에 따르면 제레미 앨런 화이트는 골든글로브 시상식의 레드카펫 인터뷰에서 '켈빈 클라인' 화보에 대한 질문을 받았고, 당황한 기색이 역력했다. 진행자는 '더 베어(The Bear]]></content>
     </entry>
 </feed>
