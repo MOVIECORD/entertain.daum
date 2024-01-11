@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2024-01-11T03:12:01.202Z</updated>
+    <updated>2024-01-11T04:13:50.488Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['별주부전'에 영감 받은 영화? 토끼 간 놓고 싸운다]]></title>
+        <id>https://v.daum.net/v/20240111130901231</id>
+        <link href="https://v.daum.net/v/20240111130901231"/>
+        <updated>2024-01-11T04:13:30.199Z</updated>
+        <content type="html"><![CDATA[[김성호 기자] 조폭영화는 왜 인기가 있을까. 조폭영화 말고는 볼 게 없다는 소리가 나오던 20여 년 전보다는 나아졌지만 여전히 조폭영화가 끊이지 않는 세상이다. 불량한 이들이 몰려다니며 세를 과시하다 수 틀리면 서로 죽고 죽이는 조폭영화가 매년 제작되는 게 당연한 일일까. 일상에선 법과 도덕에 해가 된다며 비난하지만, 영화 속에선 이해하고 환호하는 것이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘파묘’ 최민식 “장재현 감독에게 제대로 배웠다, 끝까지 물고 늘어지는 집요함”]]></title>
         <id>https://v.daum.net/v/20240111115226535</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240111102521495"/>
         <updated>2024-01-11T01:54:59.554Z</updated>
         <content type="html"><![CDATA[[OSEN=김보라 기자]&nbsp;영화 ‘외계+인’ 2부가 개봉 첫날 1위에 오르면서 흥행 시그널을 보내고 있다. 비록 첫날 관객수가 압도적인 수치는 아니지만, 관객들의 입소문을 기반으로 한 흥행이 전망된다. 11일 영진위 영화관입장권 통합전산망 집계를 보면 전날(10일) 개봉한 ‘외계+인’ 2부는 9만 4448명이 들어 일별 박스오피스 1위를 차지했다. 누적]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[나문희-김영옥-박근형 ‘소풍’ 2월 7일 개봉…임영웅 자작곡 ‘모래 알갱이’ 삽입]]></title>
-        <id>https://v.daum.net/v/20240111101940210</id>
-        <link href="https://v.daum.net/v/20240111101940210"/>
-        <updated>2024-01-11T01:54:59.556Z</updated>
-        <content type="html"><![CDATA[[동아닷컴] 나문희-김영옥-박근형 ‘소풍’ 2월 7일 개봉…임영웅 자작곡 ‘모래 알갱이’ 삽입 [공식] 영화 ‘소풍’이 2월 7일 개봉을 확정 짓고 메인 포스터를 공개했다. ‘소풍’은 절친이자 사돈 지간인 두 친구가 60년 만에 함께 고향 남해로 여행을 떠나며 16살의 추억을 다시 마주하게 되는 이야기. 나문희, 김영옥, 박근형까지 대한민국을 대표하는 베]]></content>
     </entry>
 </feed>
