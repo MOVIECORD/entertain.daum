@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2024-01-11T17:10:28.151Z</updated>
+    <updated>2024-01-11T18:13:58.337Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[박규영 "처음부터 끝까지 행복했다"...'오늘도 사랑스럽개' 종영 소감]]></title>
+        <id>https://v.daum.net/v/20240112030031833</id>
+        <link href="https://v.daum.net/v/20240112030031833"/>
+        <updated>2024-01-11T18:13:53.313Z</updated>
+        <content type="html"><![CDATA[[TV리포트=김연주 기자] 배우 박규영이 드라마 '오늘도 사랑스럽개' 종영 소감을 전했다. 지난 10일 박규영 주연의 MBC 수요드라마 '오늘도 사랑스럽개'가 종영했다. '오늘도 사랑스럽개'는 키스를 하면 개로 변하는 저주에 걸린 여자와 그 저주를 풀 수 있는 유일한 치트키지만 개를 무서워하는 남자의 예측불허 판타지 로맨스 드라마다.&nbsp; 극중 박규영은 저주에]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[신기루 "남편과 이혼? 우린 지난주에도.." 애정 고백]]></title>
         <id>https://v.daum.net/v/20240112004255555</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240111230641835"/>
         <updated>2024-01-11T14:10:44.455Z</updated>
         <content type="html"><![CDATA[그룹 트렌드지(TRENDZ)가 스페셜 싱글 '위로위로'(Go Up)로 컴백했다. 트렌드지(하빛, 리온, 윤우, 한국, 라엘, 은일, 예찬)는 11일 오후 6시 방송된 Mnet '엠카운트다운'에 출연, 이날 공개된 스페셜 싱글 '위로위로' 무대로 컴백을 신고했다. 트렌드지는 여유로운 그루브는 물론, 자유분방한 매력과 함께 무대를 제대로 즐기는 모습으]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['나솔사계' 남자 1호 "피트니스 센터 운영…방배동 자가 있어" 솔직]]></title>
-        <id>https://v.daum.net/v/20240111230413822</id>
-        <link href="https://v.daum.net/v/20240111230413822"/>
-        <updated>2024-01-11T14:10:44.455Z</updated>
-        <content type="html"><![CDATA[(서울=뉴스1) 이지현 기자 = '나솔사계' 남자 1호가 근황을 공개했다. 11일 오후 방송된 SBS Plus, ENA 예능 프로그램 '나는 SOLO, 그 후 사랑은 계속된다'('나솔사계')에서는 '짝' 남자 출연자들과 '나는 솔로' 옥순이들이 솔로 민박에 모인 가운데 자기소개 시간이 찾아왔다. 남자 출연자 중 가장 궁금증을 유발했던 1호가 출격했다]]></content>
     </entry>
 </feed>
