@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-01-12T01:55:42.892Z</updated>
+    <updated>2024-01-12T02:27:04.348Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘미트2’ 안성훈, 장나라 스토킹범 친구‥‘나의 해피엔드’ 특별출연]]></title>
+        <id>https://v.daum.net/v/20240112112108020</id>
+        <link href="https://v.daum.net/v/20240112112108020"/>
+        <updated>2024-01-12T02:26:50.289Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 배효주 기자] ‘미스터트롯2’에서 우승을 차지한 안성훈이 TV CHOSUN ‘나의 해피엔드’에 특별 출연한다. TV CHOSUN 주말미니시리즈 ‘나의 해피엔드’(극본 백선희/연출 조수원/제작 스토리바인픽쳐스, 하이그라운드, 아이엔컬쳐)는 ‘진실이라 믿었던 것들이 깨진 뒤, 남은 것은 불행이었다’ 진정한 나의 행복을 되찾기 위해 외면해왔던 ‘나’를]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[박형식･박신혜, 14년만에 만난 원수→ 슬럼프 속 꽃피는 동지애]]></title>
         <id>https://v.daum.net/v/20240112105319806</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240112090752223"/>
         <updated>2024-01-12T00:51:20.583Z</updated>
         <content type="html"><![CDATA[[뉴스엔 김명미 기자] 오민석이 악질 배우자의 정석을 보여준다. 1월 31일 첫 방송될 JTBC 새 수목드라마 ‘끝내주는 해결사’(극본 정희선/ 연출 박진석/ 제작 하우픽쳐스, 드라마하우스, SLL)는 ‘쥐도 새도 모르게 이혼시켜 드립니다’ 대한민국 최고의 이혼 해결사 사라킴(이지아 분)과 똘기 변호사 동기준(강기영 분)의 겁대가리 없는 정의구현 응징]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘고려거란전쟁’ 최수종, 전쟁 선포한 황제 김동준에 반기]]></title>
-        <id>https://v.daum.net/v/20240112090142018</id>
-        <link href="https://v.daum.net/v/20240112090142018"/>
-        <updated>2024-01-12T00:51:20.584Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 배효주 기자] ‘고려거란전쟁’의 최수종이 지방 개혁을 추진하려하는 김동준에게 반기를 들고 나선다. 1월 13일 밤 방송되는 공영방송 50주년 특별 기획 KBS 2TV 대하드라마 ‘고려거란전쟁’(극본 이정우/ 연출 전우성, 김한솔/ 제작 몬스터유니온, 비브스튜디오스) 17회에서는 강감찬(최수종 분)이 고려 모든 호족들에게 전쟁을 선포한 황제의 뜻을]]></content>
     </entry>
 </feed>
