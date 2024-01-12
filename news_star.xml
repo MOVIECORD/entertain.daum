@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2024-01-12T18:13:58.169Z</updated>
+    <updated>2024-01-12T19:09:22.470Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[NMIXX, 미니 2집 하이라이트 메들리로 펼친 음악 보석함]]></title>
+        <id>https://v.daum.net/v/20240113040419384</id>
+        <link href="https://v.daum.net/v/20240113040419384"/>
+        <updated>2024-01-12T19:09:18.030Z</updated>
+        <content type="html"><![CDATA[NMIXX(엔믹스)가 미니 2집 ‘Fe3O4: BREAK’(에프이쓰리오포: 브레이크)의 두 번째 하이라이트 메들리를 공개하고 음악적 역량을 뽐냈다. NMIXX는 오는 15일 두 번째 미니 앨범 발매를 앞두고 공식 SNS 채널에 그룹 세계관의 새 시리즈를 소개하는 애니메이션 영상, 수록곡 ‘Run For Roses’(런 포 로지스) 퍼포먼스 비디오 등]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['싱어게인3'톱7 신곡라운드, 강성희가 4위라면, 얼마나 볼만한 매치인가?]]></title>
         <id>https://v.daum.net/v/20240113013054825</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240113000032289"/>
         <updated>2024-01-12T15:10:53.891Z</updated>
         <content type="html"><![CDATA[문화예술인들의 성명서 발표 및 기자회견 질의응답 없이 '문화예술인들의 인권 보호' 강조하며 끝나 [더팩트ㅣ김샛별 기자] "우리는 요구와 질문에 대해 납득할만한 결과가 나올 때까지 최선의 노력을 다할 것입니다." 문화예술인들을 납득시킬 수 있는 결과는 무엇일까. 묻고 싶지만 물을 수 없었다. 듣고 싶지만 들을 수 없었다. 약 30분간 진행된 故 이선균]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[윤하 "이효리 '유고걸' 활동, 방송국 세면대서 머리 감아 깜짝..너무 멋있어"]]></title>
-        <id>https://v.daum.net/v/20240112235524200</id>
-        <link href="https://v.daum.net/v/20240112235524200"/>
-        <updated>2024-01-12T15:10:53.893Z</updated>
-        <content type="html"><![CDATA[[스포츠조선닷컴 김수현기자] 가수 윤하가 이효리의 강력한 기억에 대해 회상했다. 12일 방송된 KBS 2TV 뮤직 토크쇼 '더 시즌즈-이효리의 레드카펫'('레드카펫')에서는 가수 윤하, 김필, 그룹 라이즈(RIIZE)와 밴드 실리카겔이 출연했다. "저와 활동이 많이 겹쳤는데 음악 성향이 많이 달라서 그런가 마주친 적이]]></content>
     </entry>
 </feed>
