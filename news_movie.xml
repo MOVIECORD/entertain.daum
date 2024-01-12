@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2024-01-12T14:11:07.697Z</updated>
+    <updated>2024-01-12T15:10:58.979Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[통쾌하다..'시민덕희' 라미란이 그린 보통의 영웅]]></title>
+        <id>https://v.daum.net/v/20240112235721215</id>
+        <link href="https://v.daum.net/v/20240112235721215"/>
+        <updated>2024-01-12T15:10:39.720Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 | 김나연 기자] 라미란 / 사진=쇼박스보통의 라미란이, 그 누구보다 특별한 쾌감을 선사한다. 무엇을 기대하든, 그 이상의 몰입감을 안길 '시민덕희'다. '시민덕희'는 보이스피싱을 당한 평범한 시민 '덕희'(라미란 분)에게 사기 친 조직원 '재민'의 구조 요청이 오면서 벌어지는 통쾌한 추적극. 점차 치밀해지는 수법으로 많은 시민들을 위협하고]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['탑친자' 소리질러!..톰 크루즈 '탑건3' 제작 확정]]></title>
         <id>https://v.daum.net/v/20240112215420405</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240112154553562"/>
         <updated>2024-01-12T07:10:20.452Z</updated>
         <content type="html"><![CDATA[[스타뉴스 | 안윤지 기자] 배우 수현 /사진제공=넷플릭스'경성크리처' 배우 수현이 일본인 연기를 하기에 앞서 교토 사투리에 대한 어려움을 느꼈다고 토로했다. 수현은 12일 오후 서울시 중구 앰배서더 서울 풀만호텔에서 넷플릭스 오리지널 시리즈 '경성크리처'와 관련해 스타뉴스와 만나 인터뷰를 진행했다. '경성크리처'는 시대의 어둠이 가장 짙었던 1945년]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘외계+인’ 2부 또 하나의 주인공 ‘신검’ 도대체 뭐길래]]></title>
-        <id>https://v.daum.net/v/20240112151747759</id>
-        <link href="https://v.daum.net/v/20240112151747759"/>
-        <updated>2024-01-12T07:10:20.452Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 배효주 기자] '외계+인' 2부가 인물들의 관계를 정리한 신검관계도를 공개했다. 1월 10일 개봉한 '외계+인'(감독 최동훈) 2부는 치열한 신검 쟁탈전 속 숨겨진 비밀이 밝혀지는 가운데 미래로 돌아가 모두를 구하려는 인간과 도사들의 이야기를 그린 영화다. 개봉 후 이틀 연속 박스오피스 압도적 1위에 등극하며 한국영화 흥행 계보를 이어 가고 있]]></content>
     </entry>
 </feed>
