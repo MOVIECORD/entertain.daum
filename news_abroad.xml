@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2024-01-12T02:27:04.349Z</updated>
+    <updated>2024-01-12T03:12:00.527Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[12살 연상과 이혼 제이슨 모모아 “난 집도 없이 길에서 살아”]]></title>
+        <id>https://v.daum.net/v/20240112114818084</id>
+        <link href="https://v.daum.net/v/20240112114818084"/>
+        <updated>2024-01-12T03:11:59.937Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 배효주 기자] 영화 '아쿠아맨' 시리즈 주연으로 익숙한 배우 제이슨 모모아(44)와 12세 연상 배우 리사 보넷(56) 부부가 공식 이혼 절차를 밟기 시작한 가운데, 제이슨 모모아가 "집이 없는 상황"이라고 근황을 밝혔다. 1월 11일(현지시간) 해외 매체 엔터테인먼트 투나잇 보도에 따르면, 제이슨 모모아는 인터뷰에서 현재 유목 생활을 하고 있다]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[줄리아 로버츠, 동안 비결? "좋은 유전자와 연하남의 사랑 덕분"]]></title>
         <id>https://v.daum.net/v/20240112110230251</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240111161004718"/>
         <updated>2024-01-11T07:11:12.337Z</updated>
         <content type="html"><![CDATA[[OSEN=유수연 기자]&nbsp;일본 인기 듀오 킨키 키즈의 도모토 츠요시(44)가 걸그룹 모모이로 클로버Z의 멤버 모모타 카나코(29)와 깜짝 결혼 소식을 전했다. 11일, 이날 혼인신고서를 제출한&nbsp;두 사람은 현지 각종 매체를 통해 결혼 소식을 공식적으로 알렸다. 두 사람은 공식 입장을 통해 "도모토 츠요시와 모모타 카나코가 결혼한 것을 알린다"라면서 "평화]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[제니퍼 로페즈 결혼식 온 하객, '얼마나 갈지 내기' 했다...친구 맞나]]></title>
-        <id>https://v.daum.net/v/20240111154800757</id>
-        <link href="https://v.daum.net/v/20240111154800757"/>
-        <updated>2024-01-11T07:11:12.338Z</updated>
-        <content type="html"><![CDATA[[TV리포트=최이재 기자] 할리우드 유명 배우이자 가수인 제니퍼 로페즈(Jennifer Lopez)가 타이틀 곡 'Can't Get Enough'를 발매하며 뮤직비디오를 공개했다. 'Can't Get Enough'는 오는 2월 16일에 발매될 예정인 로페즈의 9번째 앨범 'This Is Me… Now'의 첫 번째 싱글이다. 뮤직비디오에서 하객들은 제니퍼 로]]></content>
     </entry>
 </feed>
