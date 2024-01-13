@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2024-01-13T03:11:59.153Z</updated>
+    <updated>2024-01-13T04:13:56.196Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['서울의 봄', 1270만 돌파 팬데믹 新역사..'범죄2' 꺾고 최고흥행]]></title>
+        <id>https://v.daum.net/v/20240113131020584</id>
+        <link href="https://v.daum.net/v/20240113131020584"/>
+        <updated>2024-01-13T04:13:39.320Z</updated>
+        <content type="html"><![CDATA[[OSEN=하수정 기자] 영화 '서울의 봄'이 1,270만 관객을 돌파하며 팬데믹 이후 개봉한 영화 중 가장 높은 스코어를 기록했다. (감독 김성수, 제공배급 플러스엠 엔터테인먼트, 제작 ㈜하이브미디어코프) 영화관입장권 통합전산망에 따르면 1월 13일 오후 12시 5분 기준 '서울의 봄'이 누적 관객 수 1270만 120명을 기록, '범죄도시2'(126]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[1부 다시보기 역주행..'외계+인' 2부, 극장부터 OTT까지 빠졌다]]></title>
         <id>https://v.daum.net/v/20240113120203242</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240113080509020"/>
         <updated>2024-01-12T23:10:32.838Z</updated>
         <content type="html"><![CDATA[신병이었을 때, 고참이 입을 벌려보라고 했다. 무얼 하려는지 몰랐지만 잔뜩 얼어 군말 없이 입을 벌렸다. 고참은 분무형 파리약을 입안에 뿌렸다. 얼차려나 체벌도 아니었고 그냥 무료함을 달래려는 장난이었다. 지금 생각해보면 가만히 있을 일은 아니었는데 어찌해야 하는지 몰랐다. 장교들에게 알리거나 소원수리를 했으면 조치가 되었을까? 저항을 해볼 엄두도 못 냈다]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['나기의 휴식', 쳇바퀴 같은 삶에서 벗어나 진정한 나를 찾아가는 과정]]></title>
-        <id>https://v.daum.net/v/20240113080107969</id>
-        <link href="https://v.daum.net/v/20240113080107969"/>
-        <updated>2024-01-12T23:10:32.841Z</updated>
-        <content type="html"><![CDATA[[텐아시아=이하늘 기자] 다양해진 OTT 속 꼭 보면 좋을, 숨겨진 작품을 소개한다. 신작부터 미처 몰랐던 오래된 작품까지. OTT 안에 숨은 보석들을 발굴해 이야기한다. &lt;편집자주&gt; ▶ 일본 TBS 드라마 '나기의 휴식'(凪のお暇) 쳇바퀴처럼 반복된 일상과 턱턱 목이&nbsp;매어오는 중압감에 훌쩍 떠나고픈 마음이 드는 순간이 있는가. 하지만 현실의 무게는]]></content>
     </entry>
 </feed>
