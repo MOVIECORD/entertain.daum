@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2024-01-13T05:11:04.696Z</updated>
+    <updated>2024-01-13T06:13:32.552Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘바비’ 마고 로비 “지겨워하는 분들 위해 잠시 연기 휴식…언젠간 연출도 하고 싶어”]]></title>
+        <id>https://v.daum.net/v/20240113141416114</id>
+        <link href="https://v.daum.net/v/20240113141416114"/>
+        <updated>2024-01-13T06:13:31.940Z</updated>
+        <content type="html"><![CDATA[[스포츠서울 | 유다연 기자] 배우 마고 로비가 당분간 연기를 쉴 것이라고 밝혔다. 마고 로비는 지난 10일(현지 시각) 해외 연예 매체 ‘데드라인’(Deadline)과 인터뷰에서 “‘바비’ 촬영 후 1년간 배우로 촬영장에 간 게 1년이 넘었다. 코로나19 팬데믹 이후 최초”라고 밝혔다. 로비는 해당 인터뷰에서 배우 겸 제작자로서의 자신을 밝혔다. 그]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[티모시 샬라메♥카일리 제너, 동거설→두 자녀도 만났다]]></title>
         <id>https://v.daum.net/v/20240113135042880</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240112152352928"/>
         <updated>2024-01-12T07:10:39.185Z</updated>
         <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]세계적 팝스타 테일러 스위프트(34)와 미국 미식축구선수 트래비스 켈시(34)가 올 여름 약혼할 것이라는 전망이 나왔다. 한 소식통은 11일(현지시간) 페이지식스에 “이들이 올 여름 약혼할 계획이라는 소문이 돌고 있다”고 말했다. 이어 청혼을 보류하는 이유는 “서두르는 것처럼 보이지 않기를 원하기 때문”이라고 전했다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[치킨을 '목캔디'처럼 먹는다는 女가수]]></title>
-        <id>https://v.daum.net/v/20240112151900805</id>
-        <link href="https://v.daum.net/v/20240112151900805"/>
-        <updated>2024-01-12T07:10:39.185Z</updated>
-        <content type="html"><![CDATA[[TV리포트=강성훈 기자] 일본 가수 나츠카와 리미(50)가 자신의 목 관리 비법을 공개했다. 12일 중국 매체 '차이나타임즈'에 따르면 나츠카와 리미는 한 인터뷰에서 '목소리를 지키는 비결'에 대해 질문받았다. 그는 "더 먹고, 더 자고, 더 많이 마시면 된다"라며 솔직히 타고난 것임을 고백해 웃음을 자아냈다. 특히, 그는 프라이드 치킨을 유독 좋아한다]]></content>
     </entry>
 </feed>
