@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-01-14T06:13:47.676Z</updated>
+    <updated>2024-01-14T07:10:30.214Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이하늬가 피운 흥행의 꽃, '밤에 피는 꽃']]></title>
+        <id>https://v.daum.net/v/20240114160304601</id>
+        <link href="https://v.daum.net/v/20240114160304601"/>
+        <updated>2024-01-14T07:10:17.666Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 이승길 기자] 배우 이하늬의 일당백 활약으로 '밤에 피는 꽃'의 문을 열었다. 13일 방송된 MBC 금토드라마 '밤에 피는 꽃'이 이 방송 2회 만에 순간 최고 시청률이 두 자릿수를 기록했다. 전국 시청률 8.2%(전국 가구 기준, 닐슨코리아 제공)를 기록한 데 이어, 순간 최고 시청률이 10.7%까지 치솟으며 MBC의 새로운 흥행작 탄생]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['고려거란전쟁' 아니고 '고려호족전쟁'…최수종vs조승연 날선 대치]]></title>
         <id>https://v.daum.net/v/20240114145301158</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240114135119053"/>
         <updated>2024-01-14T05:11:18.040Z</updated>
         <content type="html"><![CDATA[[OSEN=최이정 기자]&nbsp;이영애가 바이올리니스트로 무대에 오른다. 14일 오후&nbsp;9시&nbsp;20분에 최종회가 방송될&nbsp;tvN&nbsp;토일드라마&nbsp;‘마에스트라’(극본 최이윤/&nbsp;연출 김정권/&nbsp;기획 스튜디오드래곤/&nbsp;제작 래몽래인,&nbsp;그룹에이트)에서는 지휘봉을 내려놓고 바이올린을 든 차세음(이영애 분)의 특별하고도 긴장감 넘치는 공연이 펼쳐진다. 지난 방송에서는 김봉주(진호은 분]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[유이♥하준 비밀연애 들키나? 주차장 포옹 발각 위기]]></title>
-        <id>https://v.daum.net/v/20240114134528943</id>
-        <link href="https://v.daum.net/v/20240114134528943"/>
-        <updated>2024-01-14T05:11:18.041Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 김명미 기자] 유이 하준의 비밀 연애가 발각 위기에 처했다. KBS 2TV 주말드라마 ‘효심이네 각자도생’(연출 김형일, 극본 조정선, 제작 아크미디어) 효심(유이)은 트레이닝 센터에 태호(하준)와의 만남을 철저히 비밀로 부쳤다. 회원과 연애하면 해고라는 사칙 때문. 이는 선순이 딸 효심의 연애를 반대하는 가장 큰 이유이기도 했다. 트레이닝 센터]]></content>
     </entry>
 </feed>

@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2024-01-14T06:13:47.669Z</updated>
+    <updated>2024-01-14T07:10:30.351Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['외계+인' 2부, 완벽한 떡밥 회수 만으로도..]]></title>
+        <id>https://v.daum.net/v/20240114154116155</id>
+        <link href="https://v.daum.net/v/20240114154116155"/>
+        <updated>2024-01-14T07:10:13.599Z</updated>
+        <content type="html"><![CDATA[[OSEN=최이정 기자] 한국에서&nbsp;보기 드문 판타지 SF 액션 장르로 관객들을 극장으로 이끄는 '외계+인' 2부(최동훈 감독, 김태리 류준열 김우빈 염정아 조우진 이하늬 김의성 진선규 등 출연)가&nbsp;박스오피스 1위를 이어가고 있다. 영화관입장권 통합전산망의 집계에 따르면 10일 개봉한 '외계+인' 2부는 13일 전국 20만 6,271명을 동원, 박스오피스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[1년 만에 돌아온 팬덤 영화 ‘슬램덩크’→‘상견니’ 재개봉… '극장가 스테디셀러'로]]></title>
         <id>https://v.daum.net/v/20240114142401627</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240114074514827"/>
         <updated>2024-01-13T23:11:41.098Z</updated>
         <content type="html"><![CDATA[(서울=연합뉴스) 이영재 기자 = 영화 '넥스트 골 윈즈'는 국제대회에서 한 번도 이겨본 적 없는 남태평양의 작은 섬나라 아메리칸사모아의 축구 대표팀이 2011년 월드컵 오세아니아 지역 1차 예선에서 통가를 상대로 역사적인 첫 승을 거둔 실화를 토대로 한 작품이다. 최약체 팀이 천신만고 우여곡절 끝에 감동적인 승리를 거두는 여느 스포츠 영화와 비슷할 거란]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[넷플릭스 韓영화 잇단 실망…마동석 '황야'는 다를까]]></title>
-        <id>https://v.daum.net/v/20240114070056548</id>
-        <link href="https://v.daum.net/v/20240114070056548"/>
-        <updated>2024-01-13T22:09:31.072Z</updated>
-        <content type="html"><![CDATA[(서울=뉴스1) 장아름 기자 = 넷플릭스가 2024년 첫 한국 영화로 '황야'(감독 허명행)를 선보인다. '황야'는 폐허가 된 세상, 오직 힘이 지배하는 무법천지 속에서 살아가는 자들이 생존을 위해 벌이는 최후의 사투를 그린 액션 블록버스터로, 오는 26일 공개를 앞두고 있다. 당초 '황야'는 배급사 롯데엔터테인먼트가 기획했다. 롯데엔터테인먼트는 지난]]></content>
     </entry>
 </feed>
