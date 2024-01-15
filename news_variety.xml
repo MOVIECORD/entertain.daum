@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/variety</id>
     <title>다음 연예 ─ 뉴스 ─ 예능</title>
-    <updated>2024-01-15T01:58:13.830Z</updated>
+    <updated>2024-01-15T02:31:27.948Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[박명수 "전현무가 '사당귀' 꽂아줘…반대하면 못 들어가"]]></title>
+        <id>https://v.daum.net/v/20240115112951928</id>
+        <link href="https://v.daum.net/v/20240115112951928"/>
+        <updated>2024-01-15T02:31:18.305Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 김수아 기자) 개그맨 박명수가 전현무에게 고마움을 전했다. 15일 방송된 KBS Cool FM '박명수의 라디오쇼'(이하 '라디오쇼')에서는 DJ 박명수가 '전설의 고수' 코너를 진행하며 청취자들과 소통했다. 라디오를 시작하며 청취자들의 "당나귀 귀 열심히 보고 있어요", "조만간 전현무 씨 자리 꿰찰 수 있을 것 같아요"라는 댓글을 읽은 박]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['현역가왕' 김다현·전유진·린, 최악 부진 딛고 뒤집기 한판 가동]]></title>
         <id>https://v.daum.net/v/20240115105502124</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240115095502329"/>
         <updated>2024-01-15T01:58:03.937Z</updated>
         <content type="html"><![CDATA[[텐아시아=강민경 기자] 손태진이 '행사의 신'을 차지하기 위한 흥 폭발 무대를 선보인다. 15일 방송되는 MBN '불타는 장미단' 시즌2(이하 장미단2) 40회에서는 손태진-신성-민수현-김중연-박민수-공훈-에녹이 강문경, 류지광, 신인선, 정다한, 양기웅, 소유찬, 성리와 함께 행사의 신이 되기 위한 '올해의 행사 왕' 특집을 벌인다. 손태진]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[블핑 제니·이정하 품은 유재석..'유라인' 부활 신호탄]]></title>
-        <id>https://v.daum.net/v/20240115094421848</id>
-        <link href="https://v.daum.net/v/20240115094421848"/>
-        <updated>2024-01-15T00:52:48.278Z</updated>
-        <content type="html"><![CDATA[[OSEN=장우영 기자] 블랙핑크 제니와 배우 이정하가 ‘유재석 라인’에 새로운 얼굴로 합류한다. ‘핫걸’ 제니와 ‘대세’ 이정하가 유재석 라인을 넘어 예능계에 어떤 신선한 바람을 불어 넣을지 주목된다. tvN 새 예능 프로그램 ‘아파트 404’가 첫 방송을 앞두고 있다. ‘아파트404’는 유재석, 차태현, 오나라, 양세찬, 제니, 이정하 총 6명의 입]]></content>
     </entry>
 </feed>
