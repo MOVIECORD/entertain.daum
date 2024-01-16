@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/variety</id>
     <title>다음 연예 ─ 뉴스 ─ 예능</title>
-    <updated>2024-01-16T19:09:25.181Z</updated>
+    <updated>2024-01-16T20:12:20.291Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[브브걸 유정 "♥이규한과 열애설, 화살로..더 갇히게 됐다" 고백]]></title>
+        <id>https://v.daum.net/v/20240117041719501</id>
+        <link href="https://v.daum.net/v/20240117041719501"/>
+        <updated>2024-01-16T20:12:10.546Z</updated>
+        <content type="html"><![CDATA[[OSEN=김수형 기자]‘금쪽상담소’에서 브브걸 유정이 열애설 공개 후 오히려 힘들었던 속내를 꺼냈다.&nbsp; 16일 방송된 채널 A '금쪽 상담소' 에서 브브걸 유정이 열애설을 언급했다.&nbsp; 해체 직전에서 역주행송으로 기적의 차트를 휩쓸게 된 '롤린' 신드롬 주인공. 브아걸 멤버 유정과 민영이 출연했다.&nbsp;지난해 8월부터 새로운 소속사에서 재데뷔하게 된 브브걸]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[백지영 "'그 여자' 곡 수정..원래 00같은 사랑이었다"]]></title>
         <id>https://v.daum.net/v/20240117032020335</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240116231550013"/>
         <updated>2024-01-16T15:11:26.139Z</updated>
         <content type="html"><![CDATA[박지현이 ‘재벌집 막내아들’ 모현민 역할과 확연히 다른 매력을 보였다. 1월 16일 방송된 SBS ‘강심장VS’에서는 드라마 ‘재벌X형사’ 안보현, 박지현, 김신비, 강상준, 정가희가 출연했다. 전현무는 박지현에게 “‘재벌집 막내아들’ 모현민과 너무 다르다”고 말했고, 문세윤도 “느낌이 빈틈이 없을 것 같은데 애교스럽기도 하고 예능캐 반전 같다”고 했]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[신동 "現공개연애 중..아이유♥이종석에 밀렸다" 폭소]]></title>
-        <id>https://v.daum.net/v/20240116231029974</id>
-        <link href="https://v.daum.net/v/20240116231029974"/>
-        <updated>2024-01-16T15:11:26.141Z</updated>
-        <content type="html"><![CDATA[[OSEN=김수형 기자]'돌싱포맨'에서 신동이 출연, 공개연애에 대해 언급해 눈길을 끌었다. 16일 방송된 SBS 예능 '돌싱포맨' 에서 슈퍼주니어 신동이 출연했다. 신동에게는 2023년 새해 공개연애 주인공이 됐다고 했다. 이에 신동엽은 "2022년12월 말에 아이유와 이종석이 공개,의도치 않게 1월1일 열애설 주인공이 됐다"며 웃음,&nbsp;"댓글에 아무도]]></content>
     </entry>
 </feed>
