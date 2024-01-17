@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2024-01-17T22:10:46.949Z</updated>
+    <updated>2024-01-17T23:11:52.185Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[카녜이 웨스트, 치아 제거→다이아몬드보다 비싼 11억 티타늄 틀니 교체]]></title>
+        <id>https://v.daum.net/v/20240118080918194</id>
+        <link href="https://v.daum.net/v/20240118080918194"/>
+        <updated>2024-01-17T23:11:51.605Z</updated>
+        <content type="html"><![CDATA[[OSEN=최이정 기자] 래퍼 카녜이 웨스트(Kanye West(Ye), 46)가&nbsp;치아를 제거하고 '다이아몬드보다 비싼' 티타늄 틀니로 교체했다. 그는 자신을 영화 제임스 본드의 악당 조스에 비유했다. 웨스트가 최근 또 한 번의 충격적인 행동을 했다. 데일리메일의 17일(현지시간) 보도에 따르면 그는 최근&nbsp;치아를 모두 제거하고 티타늄 틀니로 교체했다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[마틴 스코세이지 감독 "디카프리오, 영화 역사상 가장 위대한 배우 중 1명"]]></title>
         <id>https://v.daum.net/v/20240117230222771</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240117165600195"/>
         <updated>2024-01-17T08:15:11.415Z</updated>
         <content type="html"><![CDATA[[TV리포트=유소연 기자] 일본 아이돌 나카마루 유이치가 깜짝 결혼 소식을 알려 화제에 올랐다. 16일(현지 시간) 일본 남성 아이돌 그룹 '캇툰'(KAT-TUN) 멤버 나카마루 유이치(40)가 결혼을 발표한 가운데, 상대는 9세 연하인 전 아나운서 사사키 리나(31)인 것으로 알려졌다. 외신 매체 '야후 재팬'에 따르면, 두 사람은 대리인에게 구청에 혼]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“브래드 피트, 목욕 안하는 것으로 유명했다” 폭로]]></title>
-        <id>https://v.daum.net/v/20240117154052920</id>
-        <link href="https://v.daum.net/v/20240117154052920"/>
-        <updated>2024-01-17T07:11:30.828Z</updated>
-        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]할리우드 스타 브래드 피트(60)가 젊은 시절 안 씻는 것으로 유명했다는 폭로가 나왔다. 16일(현지시간) 페이지식스에 따르면, 피트의 전 룸메이트 제이슨 프리스틀리는 ‘라이브! 켈리와 마크와 함께’에 출연해 “우리는 누가 샤워를 하지 않고 가장 오래 버틸 수 있는지 알아보기 위해 게임을 하곤 했다”고 털어놓았다. 이어]]></content>
     </entry>
 </feed>
