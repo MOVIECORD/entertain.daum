@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2024-01-18T03:12:32.536Z</updated>
+    <updated>2024-01-18T04:13:33.470Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[브라이스 달라스 "韓, 20년 앞서 나가" 대체 뭘 봤길래]]></title>
+        <id>https://v.daum.net/v/20240118125002903</id>
+        <link href="https://v.daum.net/v/20240118125002903"/>
+        <updated>2024-01-18T04:13:14.800Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 오승현 기자) 배우 브라이스 달라스 아워드가 K-뷰티에 대한 광적인 마음을 드러냈다. 18일 오전 서울 종로구 포시즌즈 호텔 서울에서 영화 '아가일'(감독 매튜 본) 내한 간담회가 진행됐다. 이 자리에는 배우 헨리 카빌, 브라이스 달라스 하워드, 샘 록웰이 참석했으며 매튜 본 감독은 건강 상의 문제로 불참했다. '아가일'은 자신의 스파이 소설]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["한국과 어울리는 영화"…'아가일' 헨리 카빌→샘 록웰, '킹스맨' 흥행 이을까]]></title>
         <id>https://v.daum.net/v/20240118120644246</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240118110847709"/>
         <updated>2024-01-18T02:26:12.606Z</updated>
         <content type="html"><![CDATA[배우 헨리 카빌(왼쪽부터)과  브라이스 달라스 하워드, 샘 록웰이 18일 오전 서울 종로구 포시즌스 호텔에서 열린 영화 ‘아가일’ 내한 기자간담회에서 포즈를 취하고 있다.(사진=뉴스1)[이데일리 스타in 김보영 기자] “영화 ‘아가일’은 도전정신으로 똘똘 뭉친 한국과 어울리는 순도 100％ 오락 영화다.”(브라이스 달라스 하워드) 영화 ‘아가일’의 주역들]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["도전 정신 무장한 韓"…헨리 카빌→샘 록웰, 팀 '아가일'도 홀릭한 'K-콘텐츠']]></title>
-        <id>https://v.daum.net/v/20240118110645636</id>
-        <link href="https://v.daum.net/v/20240118110645636"/>
-        <updated>2024-01-18T02:26:12.607Z</updated>
-        <content type="html"><![CDATA[[스포츠조선 조지영 기자] '킹스맨'보다 더욱 진화된 스파이 액션이 등판했다. 18일 오전 서울 종로구 당주동 포시즌스 호텔 서울 그랜드볼룸에서 스파이 액션 영화 '아가일'(매튜 본 감독) 내한 기자간담회가 열렸다. 이날 기자간담회에는 현실의 레전드 요원 아가일 역의 헨리 카빌, 스파이 소설로 엄청난 성공을 거둔 베스트셀러 작가 엘리 역의 브]]></content>
     </entry>
 </feed>
