@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-01-18T12:20:20.370Z</updated>
+    <updated>2024-01-18T13:14:43.896Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이시강, 이규영의 브레이크 조작으로 낭떠러지 추락]]></title>
+        <id>https://v.daum.net/v/20240118212634438</id>
+        <link href="https://v.daum.net/v/20240118212634438"/>
+        <updated>2024-01-18T13:14:27.371Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 김수아 기자) 도망치던 이시강이 낭떠러지로 추락해 피를 토했다. 18일 방송된 KBS 2TV 일일드라마 '우아한 제국'에서는 탁성구(이규영 분)의 브레이크 조작으로 장기윤(이시강)이 사고난 장면이 전파를 탔다. 자신의 죄가 세상에 드러나자 장기윤은 급하게 회사를 도망쳤고, 홍혜림(김서라)은 손녀 수아(윤채나)를 데리고 장기윤을 따라가려고 했지]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이시강, 처참한 최후..母 보는데서 절벽 추락]]></title>
         <id>https://v.daum.net/v/20240118205257900</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240118165008464"/>
         <updated>2024-01-18T08:14:10.280Z</updated>
         <content type="html"><![CDATA[[서울경제] KBS2 '고려거란전쟁' 원작을 집필한 길승수 작가가 드라마 내용이 원작과 너무 다르게 흘러가고 있다며 불만을 표했다. '고려거란전쟁' 원작 소설을 집필한 길 작가는 지난 15일 자신의 블로그를 통해 16회 양규 장군의 전사 이후 원작 내용을 공개했다. 그는 "현종의 지방제도 정비도 나오는데 드라마처럼 심한 갈등으로 묘사되지는 않는다. 그리고]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['더 뉴 룩', 명품 디올·샤넬 역사 그린다…애플TV+ 공개]]></title>
-        <id>https://v.daum.net/v/20240118164540306</id>
-        <link href="https://v.daum.net/v/20240118164540306"/>
-        <updated>2024-01-18T08:14:10.280Z</updated>
-        <content type="html"><![CDATA[[OSEN=김보라 기자]&nbsp;Apple TV+ 새 시리즈 ‘더 뉴 룩’(The New Look) 측이 예고편을 공개해 이목을 끈다. ‘더 뉴 룩’(감독 토드 A. 케슬러, 제공 Apple TV+, 제작 DB-AK 프로덕션)은 2차 세계대전 당시 전쟁의 참혹함 속 패션계의 트렌드를 선도했던 크리스티앙 디오르와 코코 샤넬, 피에르 발망, 크리스토발 발렌시아가]]></content>
     </entry>
 </feed>
