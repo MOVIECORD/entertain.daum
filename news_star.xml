@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2024-01-19T18:14:19.697Z</updated>
+    <updated>2024-01-19T19:09:14.840Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[안보현 “결혼? 지금은 안 하고 싶어‥행복한 아빠 꿈 물건너가”]]></title>
+        <id>https://v.daum.net/v/20240120035441027</id>
+        <link href="https://v.daum.net/v/20240120035441027"/>
+        <updated>2024-01-19T19:09:10.323Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 이하나 기자] 안보현이 결혼 계획에 대해 털어놨다. 1월 19일 기안84의 ‘인생84’ 채널에는 ‘안보현 술터뷰’ 영상이 공개 됐다. 안보현과 친분이 두터운 이시언은 “진짜 섬세한 친구다. 호주에 2주 촬영 갔는데 요리부터 빨래, 설거지, 청소를 다 했다. 요리를 진짜 잘한다”라고 칭찬했다. 이시언은 안보현의 검소함에 대해서도 전했다. 이시]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[기안84 “대상 받으면 인생 크게 바뀔 줄, 여전히 집에서 혼술”]]></title>
+        <id>https://v.daum.net/v/20240120034121021</id>
+        <link href="https://v.daum.net/v/20240120034121021"/>
+        <updated>2024-01-19T19:09:10.323Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 이하나 기자] 기안84가 대상 수상 후 심경을 전했다. 1월 19일 기안84의 ‘인생84’ 채널에는 ‘안보현 술터뷰’ 영상이 공개 됐다. 영상에서 기안84와 이시언은 복싱 실력을 포함해 안보현의 장점을 이야기했다. 스태프가 단점이 없냐고 묻자, 이시언은 “싸움 잘하는 애들은 단점이 없다”라고 말했다. 외모 칭찬에 안보현이 “잘생겼다는 말을 들]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[박근형 “이순재, 신구 쓰러졌을 때 제일 많이 울어‥손에 전부 주사 자국”]]></title>
         <id>https://v.daum.net/v/20240120030837960</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240119232930781"/>
         <updated>2024-01-19T15:12:00.213Z</updated>
         <content type="html"><![CDATA[[TV리포트=이지민 기자] '골든걸스' 골든걸스가 일본 메이저 신문 지면 1면에 실려 시선을 모았다. 19일 KBS2 예능프로그램 ‘골든걸스’에는 가수 이은미, 인순이, 박미경, 신효범이 프로듀서 박진영의 기획 아래 걸그룹에 도전하는 모습이 전파를 탔다. 이날 신인 걸그룹으로 재데뷔한 인순이, 신효범, 박미경, 이은미 4인방은 박진영의 지도 아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['Love wins all'로 봉합..아티스트 아이유의 용기, 그리고 성장통]]></title>
-        <id>https://v.daum.net/v/20240119232712756</id>
-        <link href="https://v.daum.net/v/20240119232712756"/>
-        <updated>2024-01-19T15:12:00.215Z</updated>
-        <content type="html"><![CDATA[[OSEN=김수형 기자] 가수 겸 배우 아이유(본명 이지은)이 신곡 'Love wins'&nbsp;제목을 'Love wins all'로 빠르게 변경해 화제가 되고 있다. 아티스트의 입장을 뒤로하고 발빠르게&nbsp;이를 수용한 점이 눈길을 끈다. &nbsp; 앞서 아이유 소속사&nbsp;EDAM엔터테인먼트 측은 지난 17일,&nbsp;공식&nbsp;SNS를 통해 아이유의 '2024 IU H.E.R. Wor]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘골든걸스’ 두 번째 신곡, 대전서 최초 공개... “오늘 감동 잊지 못할 것”]]></title>
-        <id>https://v.daum.net/v/20240119232701753</id>
-        <link href="https://v.daum.net/v/20240119232701753"/>
-        <updated>2024-01-19T15:12:00.216Z</updated>
-        <content type="html"><![CDATA[‘골든걸스’가 팬들을 위해 대전으로 떠났다. 19일 방송된 KBS2 예능프로그램 ‘골든걸스’에서는 두번째 신곡 ‘더 모먼트’ 공연에서 농염한 으른 섹시를 폭발시키며 대전을 뒤집어 놓는 모습이 전파를 탔다. 이날 ‘THE MOMENT’ 녹음 비하인드가 공개됐다. 첫 번째 순서는 인순이었고, 박진영은 곡 분위기에 맞춰 녹음식 조명을 조정했다. 박진영은 상황을]]></content>
     </entry>
 </feed>
