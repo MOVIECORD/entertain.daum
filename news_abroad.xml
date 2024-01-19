@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2024-01-19T06:14:47.893Z</updated>
+    <updated>2024-01-19T07:11:25.307Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[90세 조안 콜린스, 32살 연하 남편과 나이차 안 느껴지는 동안미모]]></title>
+        <id>https://v.daum.net/v/20240119152009713</id>
+        <link href="https://v.daum.net/v/20240119152009713"/>
+        <updated>2024-01-19T07:11:24.680Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 박수인 기자] 영국 출신 배우 조안 콜린스(Joan Collins)의 동안 미모가 화제다. 조안 콜린스는 1월 15일(현지시간) 미국 로스앤젤리스 피콕 극장에서 열린 '제75회 에미상'에 참석했다. 90세인 조안 콜린스는 이날 32살 연하 남편인 퍼시 깁슨(Percy Gibson)과 함께 등장했다. 조안 콜린스는 블루 계열의 반짝이는 드레스를 입]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘지각왕’ 마돈나, 또 콘서트 2시간 늦어 고소 당했다 “비양심적”]]></title>
         <id>https://v.daum.net/v/20240119150833370</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240118191001813"/>
         <updated>2024-01-18T10:12:45.097Z</updated>
         <content type="html"><![CDATA[[TV리포트=유소연 기자] 미카미 유아가 교제하게 될 상대에게 요구하는 연봉 액수를 밝혀 화제가 되고 있다. 16일 일본 AV 배우 미카미 유아(30)가 '이와쿠라와 요시즈미의 프로그램'에 출연해 다양한 토크 주제에 시원하게 대답하는 모습을 보였다. 이날 대화 주제에는 '남자 연예인으로부터 연락이 온 횟수', '정액제 서비스에 몇 개나 가입하고 있는가']]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[도자 캣, 친오빠에 폭행 피해...母 "내 딸 이빨 부러트렸다" 호소]]></title>
-        <id>https://v.daum.net/v/20240118181806761</id>
-        <link href="https://v.daum.net/v/20240118181806761"/>
-        <updated>2024-01-18T10:12:45.102Z</updated>
-        <content type="html"><![CDATA[[OSEN=유수연 기자] 미국 출신 팝 가수 도자 캣이 친오빠인 라만 달리탄도 들라미니에게 폭행당했다는 주장이 나왔다. 지난 12일, 도자 캣의 모친인&nbsp;데보라 엘리자베스 소여는&nbsp;로스앤젤레스 고등법원에 제출한 문서에 자신의 아들 라만이 딸 도자 캣의 이빨을 부러트렸다고 주장했다. 문서에 따르면, 데보라는 "라만은 매우 굴욕적이고 품위를 떨어뜨리는 말로 도]]></content>
     </entry>
 </feed>
