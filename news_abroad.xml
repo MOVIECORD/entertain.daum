@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2024-01-19T22:10:24.359Z</updated>
+    <updated>2024-01-19T23:10:05.853Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["'트와일라잇'은 게이 영화' 크리스틴 스튜어트, 중성미 넘치는 상큼함]]></title>
+        <id>https://v.daum.net/v/20240120080027808</id>
+        <link href="https://v.daum.net/v/20240120080027808"/>
+        <updated>2024-01-19T23:10:05.220Z</updated>
+        <content type="html"><![CDATA[[OSEN=최이정 기자] 배우 크리스틴 스튜어트(33)가 2024 선댄스 영화제에서 스타일리쉬한 패션으로&nbsp;시선을 사로 잡았다. 스튜어트는 19일(현지시간) 미국&nbsp;유타주 파크 시티에서 열린 2024 선댄스 영화제 오프닝 나이트 갈라에 참석, 버튼 업 재킷과 어울리는 바지가 특징인 시크한 흑백 샤넬 세트를&nbsp;입고 탄탄한 복부를&nbsp;살짝 드러냈다. 헤어스타일은 앞]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['커밍아웃' 조디 포스터, 든든한 외조 "내 아내 자랑스러워"]]></title>
         <id>https://v.daum.net/v/20240119215022695</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240119133300323"/>
         <updated>2024-01-19T05:11:04.828Z</updated>
         <content type="html"><![CDATA[[TV리포트=한아름 기자] 각종 사기 혐의로 15개월 징역을 선고 받은 리얼리티 스타 테레사 주다이스가 교도소 생활을 찬양해 눈살을 찌푸리게 만들었다. 지난 18일(현지 시간), 외신 매체 '더 썬'(THE Sun)은 리얼리티 스타 테레사 주다이스가 팟캐스트에 출연해 교도소 생활에 대해 언급했다고 보도했다. 보도에 따르면 그는 교도소 음식과 풍경에 대해 칭]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[배우 냇 울프 "여친이 싸운 뒤 날 차로 들이받더라" 충격 고백]]></title>
-        <id>https://v.daum.net/v/20240119132100124</id>
-        <link href="https://v.daum.net/v/20240119132100124"/>
-        <updated>2024-01-19T05:11:04.828Z</updated>
-        <content type="html"><![CDATA[[TV리포트=유소연 기자] 미국 배우 겸 가수 냇 울프가 전 애인에게 차로 치인 일화를 털어놔 눈길을 끈다. 18일(현지 시간) 냇 울프는 '드류 베리모어 쇼'에서 전 여자 친구에 대한 대화를 나누던 중, 길에서 전 여자 친구를 우연히 마주친 일화를 말했다. 냇 울프는 "저와 심하게 사이가 틀어졌던 전 여자 친구가 차로 저를 쳤어요"라고 말하며 "완전히 우]]></content>
     </entry>
 </feed>
