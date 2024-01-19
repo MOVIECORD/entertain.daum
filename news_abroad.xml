@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2024-01-19T07:11:25.307Z</updated>
+    <updated>2024-01-19T08:14:35.452Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["급사했다"며 사망설 돌았던 女배우, 알고보니 '가짜뉴스']]></title>
+        <id>https://v.daum.net/v/20240119163130701</id>
+        <link href="https://v.daum.net/v/20240119163130701"/>
+        <updated>2024-01-19T08:14:34.818Z</updated>
+        <content type="html"><![CDATA[[TV리포트=강성훈 기자] 일본 가수 겸 배우 콘 요코(72)가 자신의 급사설에 직접 해명에 나섰다. 18일 콘 요코는 개인 블로그에 "인터넷상에서 나의 급사설을 발견했다"라고 말문을 열었다. 그는 아직 건강하게 살고 있다고 강조했다. 콘 요코는 연예 뉴스에 자신이 급사했다고 올라와 있어 놀랐다고 밝혔다. 이전에도 여러 차례 가짜 뉴스 사례가 있었다며 그는]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[90세 조안 콜린스, 32살 연하 남편과 나이차 안 느껴지는 동안미모]]></title>
         <id>https://v.daum.net/v/20240119152009713</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240118194435496"/>
         <updated>2024-01-18T11:10:18.695Z</updated>
         <content type="html"><![CDATA[[TV리포트=한아름 기자] 전설적인 모델 케이트 모스가 프랑스 파리와 카리브해에서 50번째 생일 파티를 하기 위해 약 11만 유로(한화 약 1억 6,000만 원)를 쓴 것으로 알려졌다. 지난 17일, 외신 매체 '데일리 메일'(daily mail)이 모델 케이트 모스의 생일파티 현장을 공개했다.&nbsp; 지난 16일, 케이트 모스는 프랑스 파리 마리니 광장 지역]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[일본 女배우 "잘생겼어도 연봉 '2억7천' 이하와는 데이트 NO"]]></title>
-        <id>https://v.daum.net/v/20240118191001813</id>
-        <link href="https://v.daum.net/v/20240118191001813"/>
-        <updated>2024-01-18T10:12:45.097Z</updated>
-        <content type="html"><![CDATA[[TV리포트=유소연 기자] 미카미 유아가 교제하게 될 상대에게 요구하는 연봉 액수를 밝혀 화제가 되고 있다. 16일 일본 AV 배우 미카미 유아(30)가 '이와쿠라와 요시즈미의 프로그램'에 출연해 다양한 토크 주제에 시원하게 대답하는 모습을 보였다. 이날 대화 주제에는 '남자 연예인으로부터 연락이 온 횟수', '정액제 서비스에 몇 개나 가입하고 있는가']]></content>
     </entry>
 </feed>
