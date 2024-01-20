@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2024-01-20T03:11:44.189Z</updated>
+    <updated>2024-01-20T04:13:48.088Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“골든글로브 키스 이후 사랑에 미쳤다”, 티모시 샬라메♥카일리 제너 더 깊어진 관계]]></title>
+        <id>https://v.daum.net/v/20240120130718451</id>
+        <link href="https://v.daum.net/v/20240120130718451"/>
+        <updated>2024-01-20T04:13:47.411Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]할리우드 스타 티모시 샬라메(28)와 역대 최연소 억만장자 카일리 제너(26)가 골든글로브 키스 이후 더 깊은 사랑을 나누고 있다. 한 소식통은 19일(현지시간) US위클리와 인터뷰에서 “티모시는 지난 7일 열린 골든글로브 시상식 내내 카일리 바로 옆에 있었다”면서 “그들은 친밀한 대화를 나누고 몇 번의 키스를 나눴다. 둘의]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[마돈나, 지각에  팬들 뿔났다.. 결국 소송 “비양심적 관행”]]></title>
         <id>https://v.daum.net/v/20240120115240947</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240119180301173"/>
         <updated>2024-01-19T09:11:25.397Z</updated>
         <content type="html"><![CDATA[[TV리포트=강성훈 기자] 인기 인플루언서 밀라 데 지저스가 향년 35세로 사망한 가운데, 더욱 안타까운 소식이 전해졌다. 17일(현지 시간) 외신 'National World'은 밀라 데 지저스가 4명의 자녀와 신혼인 남편을 남겨둔 채 세상을 떠났다고 보도했다. 결혼한 지는 4개월 됐다고 전해졌으며 자녀는 결혼 전에 낳은 것으로 보인다. 보도에 따르면 그]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[유명 운동선수·아나운서 딸, 드라마 주연 꿰찼다‥부모 후광 의혹도]]></title>
-        <id>https://v.daum.net/v/20240119174930873</id>
-        <link href="https://v.daum.net/v/20240119174930873"/>
-        <updated>2024-01-19T09:11:25.397Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 박수인 기자] 일본 유명 아나운서의 딸이자 배우인 시라카와 레이가 드라마 주연을 꿰찬 가운데 부모의 영향이 있는 것 아니냐는 의혹이 제기됐다. 최근 일본 매체 주간여성 프라임은 전 스모선수 다카노하나 코지, 전 후지TV 아나운서 코노 케이코의 딸 시라카와 레이가 후지TV 드라마 '혼활 1000개 노크'에 출연한다고 보도했다. 보도에 따르면 시라카]]></content>
     </entry>
 </feed>
