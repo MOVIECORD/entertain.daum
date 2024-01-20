@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2024-01-20T01:53:09.311Z</updated>
+    <updated>2024-01-20T02:24:56.539Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[마돈나, 콘서트 지각→팬에게 고소당했다..."손해배상 청구"]]></title>
+        <id>https://v.daum.net/v/20240120111743699</id>
+        <link href="https://v.daum.net/v/20240120111743699"/>
+        <updated>2024-01-20T02:24:55.881Z</updated>
+        <content type="html"><![CDATA[[OSEN=유수연 기자] 팝스타 마돈나가 콘서트를 2시간 늦게 시작했다는 이유로 관객에게 소송을 당했다. 지난 19일 BBC 등 현지 매체에 따르면, 두 명의 마돈나 팬이 지난달 뉴욕 공연에 2시간 이상 지각한 마돈나를 고소했다. 지난달 13일에 개최된 해당 쇼는 당초 20시 30분에 시작될 예정이었지만, 22시 30분 이후에 시작되어 01시경에 끝났다]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[前아이돌 멤버, 업계 1인자에 당한 성추행 고발 “피 날 정도로 몸 씻어”]]></title>
+        <id>https://v.daum.net/v/20240120110433547</id>
+        <link href="https://v.daum.net/v/20240120110433547"/>
+        <updated>2024-01-20T02:24:55.882Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 박수인 기자] 일본 아이돌 그룹 아이돌링 출신 엔도 마이가 과거 성추행을 당했다고 고백했다. 엔도 마이는 최근 개인 소셜미디어에 최근 일본 연예계에 불거진 미투 고발을 연대, 지지하며 자신의 성추행 피해 사실을 밝혔다. 엔도 마이는 "'성적인 피해를 당한 경험이 있다면 왜 그때 목소리를 높이지 않았냐'는 얘기가 있어 제 경험을 적는다. 당시 제가]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['70세' 헐크 호건, 전복된 차에서 소녀 구조..연하 아내 "완전한 기적"]]></title>
         <id>https://v.daum.net/v/20240120095617745</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240119171903036"/>
         <updated>2024-01-19T09:11:25.405Z</updated>
         <content type="html"><![CDATA[[뉴스엔 박수인 기자] 일본 코미디언 에스파 이토가 세상을 떠났다. 소속사는 1월 19일 "에스파 이토가 간질중적로 인해 사망했다"고 밝혔다. 향년 63세. 소속사 측은 "에스파 이토는 장기간에 걸쳐 시설에서 재활요양을 하고 있었고 입퇴원을 반복하고 있었으나 16일 간질중적으로 의료기관에서 사망했다. 여러분의 생전 후의에 감사드린다. 작별회 등은 미정"이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[68세 베테랑 배우, 신장병 투병에 "왜 하필 나야" 호소..안타까움 UP]]></title>
-        <id>https://v.daum.net/v/20240119171730983</id>
-        <link href="https://v.daum.net/v/20240119171730983"/>
-        <updated>2024-01-19T09:11:25.408Z</updated>
-        <content type="html"><![CDATA[[TV리포트=강성훈 기자] 일본 배우 겸 가수 오오토모 코헤이(68)의 안타까운 근황이 전해졌다.&nbsp; 18일 오오토모 코헤이 소속사는 오오토모 코헤이의 신장에 종양이 확인됐다고 밝혔다. 지난해 11월 정기검진에서 이상 징후가 발견됐고 응급 수술을 진행해야하기 때문에 오는 3월 예정된 콘서트를 취소하겠다고 덧붙였다. 오오토모 코헤이는 개인 블로그를 통해 "왜]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["급사했다"며 사망설 돌았던 女배우, 알고보니 '가짜뉴스']]></title>
-        <id>https://v.daum.net/v/20240119163130701</id>
-        <link href="https://v.daum.net/v/20240119163130701"/>
-        <updated>2024-01-19T08:14:34.818Z</updated>
-        <content type="html"><![CDATA[[TV리포트=강성훈 기자] 일본 가수 겸 배우 콘 요코(72)가 자신의 급사설에 직접 해명에 나섰다. 18일 콘 요코는 개인 블로그에 "인터넷상에서 나의 급사설을 발견했다"라고 말문을 열었다. 그는 아직 건강하게 살고 있다고 강조했다. 콘 요코는 연예 뉴스에 자신이 급사했다고 올라와 있어 놀랐다고 밝혔다. 이전에도 여러 차례 가짜 뉴스 사례가 있었다며 그는]]></content>
     </entry>
 </feed>
