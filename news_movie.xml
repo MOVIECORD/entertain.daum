@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2024-01-20T04:13:48.082Z</updated>
+    <updated>2024-01-20T05:10:44.207Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[강동원, '외계+인' 2부 추천 "염정아x조우진 너무 웃겼다"]]></title>
+        <id>https://v.daum.net/v/20240120140137868</id>
+        <link href="https://v.daum.net/v/20240120140137868"/>
+        <updated>2024-01-20T05:10:27.675Z</updated>
+        <content type="html"><![CDATA[[OSEN=김보라 기자] 영화 '외계+인' 2부를 연출한 최동훈 감독과 인연이 있는 강동원 배우가 함께한 무비토크가 뜨거운 호응 속에 진행됐다. '외계+인'(감독 최동훈, 제공배급 CN ENM, 제작 케이퍼필름) 2부는 치열한 신검 쟁탈전 속 숨겨진 비밀이 밝혀지는 가운데 미래로 돌아가 모두를 구하려는 인간과 도사들의 이야기를 그린 영화다.&nbsp; 관객들의]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘외계+인’ 2부 누적 86만, 10일 연속 1위]]></title>
         <id>https://v.daum.net/v/20240120124318283</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240119202349346"/>
         <updated>2024-01-19T13:13:30.649Z</updated>
         <content type="html"><![CDATA[[스타뉴스 | 김나연 기자] 사진=CJ ENM최동훈 감독, 강동원 / 사진=CJ ENM'외계+인' 2부의 최동훈 감독과 강동원이 함께한 무비토크가 뜨거운 호응 속에서 진행됐다. '외계+인' 2부는 치열한 신검 쟁탈전 속 숨겨진 비밀이 밝혀지는 가운데 미래로 돌아가 모두를 구하려는 인간과 도사들의 이야기를 그린 영화다. 관객들의 열띤 호평 릴레이로 개봉 2]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[검열 압박 시달려 사극 선택한 개척자, 이두용 감독 별세]]></title>
-        <id>https://v.daum.net/v/20240119192401362</id>
-        <link href="https://v.daum.net/v/20240119192401362"/>
-        <updated>2024-01-19T11:09:27.888Z</updated>
-        <content type="html"><![CDATA[[성하훈 기자] ▲ '평창국제평화영화제' 김동호-이두용&nbsp;2020년 평창국제영화제 참석한 당시 김동호 강릉국제영화제 이사장과 이두용 감독(오른쪽).ⓒ 이정민&nbsp; 한국영화의 액션영화의 대가였던 이두용 감독이 19일 별세했다. 향년 81세. &nbsp; 1942년생인 이두용 감독은 1970년대 한국 액션영화의 선구자였으나 검열로 인해 표현의 자유가 제약되는 현실 속에서 사]]></content>
     </entry>
 </feed>
