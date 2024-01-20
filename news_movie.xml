@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2024-01-20T05:10:44.207Z</updated>
+    <updated>2024-01-20T06:13:35.784Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[#올라운더 그룹 엔믹스 컴백 #마동석 '황야'에서 터져볼래 #흥행보증수표들이 한자리에 '파묘']]></title>
+        <id>https://v.daum.net/v/20240120141023945</id>
+        <link href="https://v.daum.net/v/20240120141023945"/>
+        <updated>2024-01-20T06:13:16.296Z</updated>
+        <content type="html"><![CDATA[연예, 문화, 스포츠 현장에서는 늘 새로운 소식들이 대중들에게 전해집니다. &lt;주간 사진관&gt;은 일주일 동안 현장에서 펼쳐진 다양한 스타들의 모습 중 특히 주목 받은 사진을 한 번에 독자들에게 전달하려 마련했습니다. &lt;편집자 주&gt; 멤버 7인 모두가 올라운더라는 평을 받고 있는 JYP 엔터테민먼트의 아이돌 그룹 엔믹스가 더 강렬한 컨셉으로 팬들 곁으로 돌아왔다]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[강동원, '외계+인' 2부 추천 "염정아x조우진 너무 웃겼다"]]></title>
         <id>https://v.daum.net/v/20240120140137868</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240120070016209"/>
         <updated>2024-01-19T22:10:05.020Z</updated>
         <content type="html"><![CDATA[(서울=뉴스1) 장아름 기자 = *영화의 주요 장면을 포함한 스포일러가 있을 수 있습니다. 세탁소 화재로 전재산을 잃은 덕희(라미란 분)에게 한 통의 전화가 걸려온다. 손대리(공명 분)는 돈이 급한 덕희에게 대출상품을 제안하고, 덕희는 손대리가 요구한 대출 수수료 3200만원을 8회에 걸쳐 송금한다. 이후 손대리가 연락이 닿지 않자 은행을 찾아가지만,]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['외계+인'과 '전우치'의 만남..김태리, 강동원 생일 파티 연 사연]]></title>
-        <id>https://v.daum.net/v/20240119202349346</id>
-        <link href="https://v.daum.net/v/20240119202349346"/>
-        <updated>2024-01-19T13:13:30.649Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 | 김나연 기자] 사진=CJ ENM최동훈 감독, 강동원 / 사진=CJ ENM'외계+인' 2부의 최동훈 감독과 강동원이 함께한 무비토크가 뜨거운 호응 속에서 진행됐다. '외계+인' 2부는 치열한 신검 쟁탈전 속 숨겨진 비밀이 밝혀지는 가운데 미래로 돌아가 모두를 구하려는 인간과 도사들의 이야기를 그린 영화다. 관객들의 열띤 호평 릴레이로 개봉 2]]></content>
     </entry>
 </feed>
