@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/variety</id>
     <title>다음 연예 ─ 뉴스 ─ 예능</title>
-    <updated>2024-01-21T06:14:39.360Z</updated>
+    <updated>2024-01-21T07:10:21.001Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[박명수, 스모크 챌린지 문 닫는다.."SNS에 영상 하나도 안 올라와"]]></title>
+        <id>https://v.daum.net/v/20240121160710241</id>
+        <link href="https://v.daum.net/v/20240121160710241"/>
+        <updated>2024-01-21T07:10:11.351Z</updated>
+        <content type="html"><![CDATA[[OSEN=하수정 기자] KBS2 ‘사장님 귀는 당나귀 귀’ 박명수가 ‘Smoke(스모크)’ 챌린지 막차에 탑승한다. KBS 2TV ‘사장님 귀는 당나귀 귀’(연출 안상은/이하 ‘사당귀’)는 일할 맛 나는 일터를 만들기 위한 대한민국 보스들의 자발적인 역지사지 X 자아성찰 프로그램. 지난 회 최고 시청률이 9.0%까지 치솟아 ‘89주 연속 동 시간대 1]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[딘딘→유선호와 듀엣 무대 특별 게스트는 누구?]]></title>
+        <id>https://v.daum.net/v/20240121154612868</id>
+        <link href="https://v.daum.net/v/20240121154612868"/>
+        <updated>2024-01-21T07:10:11.354Z</updated>
+        <content type="html"><![CDATA[[OSEN=강서정 기자] ‘1박&nbsp;2일’ 멤버들의 흥이 제대로 폭발한다. 21일 방송되는 KBS 2TV ‘1박&nbsp;2일 시즌4’(이하 ‘1박&nbsp;2일’) ‘겨울 네 컷 여행’ 특집 첫 번째 이야기에서는 여섯 남자를 설레게 만드는 특별 게스트가 깜짝 등장한다. ‘겨울’ 풍경을 사진으로 담으며 즐거운(?) 시간을 만끽하던 멤버들은 듀엣곡 부르기 미션을 마주한다. 파]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[전현무, '나혼산' 하차? "올해 결혼운 있다…못하면 골치 아파져"]]></title>
         <id>https://v.daum.net/v/20240121151139310</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240121113008755"/>
         <updated>2024-01-21T02:34:45.017Z</updated>
         <content type="html"><![CDATA[[OSEN=연휘선 기자] '뭉쳐야 찬다3'에서 히딩크 감독과&nbsp;박항서 감독이&nbsp;조기축구계에 데뷔한다. 오늘(21일)&nbsp;방송될&nbsp;JTBC 예능 프로그램 ‘뭉쳐야 찬다&nbsp;3(약칭 뭉찬3)’에서는 네덜란드 원정 중인&nbsp;‘어쩌다벤져스’의 스페셜&nbsp;A매치가 펼쳐진다.&nbsp;특히 이번 경기는&nbsp;‘어쩌다벤져스’의 수장을 히딩크 감독이 맡고 박항서가 수석 코치를,&nbsp;안정환과 김남일이 선수]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이장우 '나혼산' 족발은 대박났는데..'백사장2'에선 환불 사태]]></title>
-        <id>https://v.daum.net/v/20240121112749691</id>
-        <link href="https://v.daum.net/v/20240121112749691"/>
-        <updated>2024-01-21T02:34:45.019Z</updated>
-        <content type="html"><![CDATA[[OSEN=박소영 기자] tvN&nbsp;‘장사천재 백사장2’ 이장우,&nbsp;존박,&nbsp;이규형이 야심차게 출사표를 던진&nbsp;‘청년 포차’&nbsp;반주&nbsp;2호점에 먹구름이 드리워질 전망이다.&nbsp;손님들의 환불 요청이 폭주하는 현장이 포착된 것. “한국인의 맛으로 스페인 기강 잡겠다”는 포부를 드러내며 의기투합했던 청년 사업가&nbsp;3인방에게 어떤 문제가 발생한 것인지 궁금증이 치솟는다. tvN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['백사장2', 청년 포차에 드리운 먹구름...2호점 환불 요청 폭주]]></title>
-        <id>https://v.daum.net/v/20240121112602663</id>
-        <link href="https://v.daum.net/v/20240121112602663"/>
-        <updated>2024-01-21T02:34:45.022Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 | 이경호 기자] tvN '장사천재 백사장2'./사진=tvN '장사천재 백사장2' 예고 영상'장사천재 백사장2' 이장우, 존박, 이규형이 야심차게 출사표를 던진 '청년 포차' 반주 2호점에 먹구름이 드리워질 전망이다. 손님들의 환불 요청이 폭주하는 현장이 포착된 것. "한국인의 맛으로 스페인 기강 잡겠다"는 포부를 드러내며 의기투합했던 청년 사업]]></content>
     </entry>
 </feed>
