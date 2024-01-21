@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/variety</id>
     <title>다음 연예 ─ 뉴스 ─ 예능</title>
-    <updated>2024-01-21T03:11:52.404Z</updated>
+    <updated>2024-01-21T04:13:36.493Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘스튜디오 시그마’ 김병훈 PD, ‘노빠꾸’·‘압박면접’에 담은 ‘노하우’]]></title>
+        <id>https://v.daum.net/v/20240121131014070</id>
+        <link href="https://v.daum.net/v/20240121131014070"/>
+        <updated>2024-01-21T04:13:27.076Z</updated>
+        <content type="html"><![CDATA[&lt;편집자주&gt; 온라인 동영상 서비스(OTT) 시장이 확대되고, 콘텐츠들이 쏟아지면서 TV 플랫폼에서는 느낄 수 없었던 색다른 재미를 선사하고 있습니다. 창작자들도 새로운 시도를 해볼 수 있어 즐겁지만, 또 다른 길을 개척하는 과정이 쉽지만은 않습니다. 시청자들에게 신선한 재미를 주기 위해 고군분투 중인 PD들을 만나 이야기를 들어봤습니다. ‘탑기어 코리아’]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[신기하고 이상한 최수종, 아니 강감찬의 전술]]></title>
+        <id>https://v.daum.net/v/20240121122542536</id>
+        <link href="https://v.daum.net/v/20240121122542536"/>
+        <updated>2024-01-21T04:13:27.076Z</updated>
+        <content type="html"><![CDATA[[OSEN=박소영 기자] KBS 1TV ‘역사저널 그날’이 ‘고려거란전쟁’의 이야기를 다룬다. 거란의&nbsp;3차 고려 침입 1019년&nbsp;1월&nbsp;18일,&nbsp;거란의 장수 소배압이 정예 기병&nbsp;10만을 이끌고 고려를 침략한다. 2차 전쟁 당시 고려 현종의 친조를 조건으로 물러났던 거란.&nbsp;그런데 현종이&nbsp;1년이 넘도록 약속을 지키지 않자,&nbsp;강동&nbsp;6주를 내놓으라며 고려를 압박]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["승리하십시오"..김호중, 천상의 목소리 '승리요정']]></title>
         <id>https://v.daum.net/v/20240121113751867</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240121102430673"/>
         <updated>2024-01-21T01:59:48.417Z</updated>
         <content type="html"><![CDATA[[뉴스엔 황혜진 기자] 배우 백일섭 딸이 지난 7년간 연락을 피했던 진짜 속사정을 공개한다. 1월 24일 방송되는 TV CHOSUN '아빠하고 나하고'에서 졸혼 9년 차 백일섭 가족의 이야기가 그려진다. 8회 방송을 앞두고 공개된 예고편에서 백일섭은 "좋은 아빠는 못됐다. 지금까지 딸하고 둘이 사진 찍은 게 없다"며 후회스러운 심정을 내비쳤다. 그러면서]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오윤아 "이혼, 주변에 알리기 어려워..큰 잘못한 기분"]]></title>
-        <id>https://v.daum.net/v/20240121101142449</id>
-        <link href="https://v.daum.net/v/20240121101142449"/>
-        <updated>2024-01-21T01:59:48.418Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 | 김노을 기자] /사진=MBN'한 번쯤 이혼할 결심' MC 오윤아가 자신의 이혼 경험담을 솔직하게 고백하며 이혜정, 고민환 부부의 가상 이혼 이야기에 깊이 공감한다. 21일 방송하는 MBN '한 번쯤 이혼할 결심' 2회에서는 '결혼 45년 차' 이혜정-고민환 부부가 가상 이혼에 합의한 뒤, 각자의 시간을 갖는 모습이 공개되는 한편, '결혼 1]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박시후, 1세대 모델+부여만석꾼 父와 첫 등장..대화없는 무소음 부자]]></title>
-        <id>https://v.daum.net/v/20240121100859401</id>
-        <link href="https://v.daum.net/v/20240121100859401"/>
-        <updated>2024-01-21T01:59:48.421Z</updated>
-        <content type="html"><![CDATA[[OSEN=하수정 기자] 아빠와의 화해를 위해 용기를 낸 백일섭의 딸이 지난 7년간 연락을 피했던 진짜 속사정을 공개한다. 그리고 박시후가 아버지와 첫 등장한다. 지난 주 방송된 TV CHOSUN '아빠하고 나하고'에서는 '졸혼 9년 차' 백일섭과 그의 사위가 방송 최초로 등장, 졸혼 이후 연락이 끊겼던 사연과 7년 만에 다시 만나게 된 풀 스토리를 전]]></content>
     </entry>
 </feed>
