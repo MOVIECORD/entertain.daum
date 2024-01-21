@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/variety</id>
     <title>다음 연예 ─ 뉴스 ─ 예능</title>
-    <updated>2024-01-21T02:34:54.974Z</updated>
+    <updated>2024-01-21T03:11:52.404Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["승리하십시오"..김호중, 천상의 목소리 '승리요정']]></title>
+        <id>https://v.daum.net/v/20240121113751867</id>
+        <link href="https://v.daum.net/v/20240121113751867"/>
+        <updated>2024-01-21T03:11:43.315Z</updated>
+        <content type="html"><![CDATA[[OSEN=박소영 기자] 가수 김호중이 승리의 기운을 품은 무대로 ‘불후의 명곡’ 엔딩을 장식했다. 김호중은 20일 오후 6시 10분 방송된 KBS2 ‘불후의 명곡’ ‘워너비 페스티벌 in 평창’ 2부에 출연해 대망의 엔딩 무대를 선보였다. 이날 김호중은 “지금 여러분들이 흘린 피와 땀은 절대 배신하지 않는다. 정말 많이 고생하신 것 알고 있다. 고생한]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['복면가왕' 윤상도 놀랐다.."처음 경험하는 충격 라이브"]]></title>
         <id>https://v.daum.net/v/20240121113022763</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240121100859401"/>
         <updated>2024-01-21T01:59:48.421Z</updated>
         <content type="html"><![CDATA[[OSEN=하수정 기자] 아빠와의 화해를 위해 용기를 낸 백일섭의 딸이 지난 7년간 연락을 피했던 진짜 속사정을 공개한다. 그리고 박시후가 아버지와 첫 등장한다. 지난 주 방송된 TV CHOSUN '아빠하고 나하고'에서는 '졸혼 9년 차' 백일섭과 그의 사위가 방송 최초로 등장, 졸혼 이후 연락이 끊겼던 사연과 7년 만에 다시 만나게 된 풀 스토리를 전]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이동건, ‘공포의 대상’ 父와 여행..술 마시다 결국 ‘갈등’]]></title>
-        <id>https://v.daum.net/v/20240121100821392</id>
-        <link href="https://v.daum.net/v/20240121100821392"/>
-        <updated>2024-01-21T01:59:48.422Z</updated>
-        <content type="html"><![CDATA[[OSEN=강서정 기자] SBS ‘미운 우리 새끼’에서 생애 처음으로 단둘이 여행을 떠난 이동건 부자의 강릉 여행기가 공개될 예정이다. 이동건 부자의 여행 소식에 스튜디오는 역대급 기대감으로 술렁였다. 과거 심리상담을 받던 이동건은 아버지에 대해 “어릴 적 공포의 대상이었다. 엄한 아버지 그 자체”라며 아버지와의 사이가 편안하지 않음을 내비친 적이 있다]]></content>
     </entry>
 </feed>
