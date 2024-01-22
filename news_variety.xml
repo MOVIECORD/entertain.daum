@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/variety</id>
     <title>다음 연예 ─ 뉴스 ─ 예능</title>
-    <updated>2024-01-22T09:12:23.543Z</updated>
+    <updated>2024-01-22T10:12:40.401Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[라미란 "남편과 관계 안 한지 오래..장윤주 부러워"]]></title>
+        <id>https://v.daum.net/v/20240122191130741</id>
+        <link href="https://v.daum.net/v/20240122191130741"/>
+        <updated>2024-01-22T10:12:31.898Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 | 김지은 기자] /사진='짠한형 신동엽' 화면 캡처배우 라미란이 사생활 고민을 솔직하게 털어놓아 눈길을 끌었다. 22일 유튜브 채널 '짠한형 신동엽'에는 '라미란 장윤주 EP.24 멈출 줄 모르는 여배우들의 39금 찐한 토크'라는 제목의 영상이 게재됐다. 게스트로는 라미란과 장윤주가 출연했다. 공개된 영상에서 장윤주는 '남편과 어떻게 처음]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['알콜지옥' 결승 미션 공개…5천만 원 주인공 가른다]]></title>
         <id>https://v.daum.net/v/20240122180443365</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240122165238616"/>
         <updated>2024-01-22T08:15:14.830Z</updated>
         <content type="html"><![CDATA[[뉴스엔 권미성 기자] 배우 오윤아가 혼자 아들을 키우는 고충을 털어놨다. 1월 21일 방송된 MBN 예능 '한 번쯤 이혼할 결심'에서 MC 오윤아가 조언을 건넸다. 이날 정대세, 명서현 부부의 마찰과 갈등이 이어진 모습이 공개됐다. 결국 이혼 변호사를 찾은 모습이 방송됐다. 이에 오윤아는 "사실 이혼 이야기를 주변에 알리는 게 쉽지 않다. 굉장히 큰]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[조인성 “인생의 목적?” 질문에 0.1초 만에 답변,뭐라했나?]]></title>
-        <id>https://v.daum.net/v/20240122165027517</id>
-        <link href="https://v.daum.net/v/20240122165027517"/>
-        <updated>2024-01-22T08:15:14.831Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 권미성 기자] 미국 캘리포니아주 몬터레이 카운티 마리나 시장이 시청 바로 뒤에 위치한 조인성, 차태현의 한인마트를 깜짝 방문했다. 1월 18일 tvN '어쩌다 사장3'(이하 '어사장3')에서 미국 캘리포니아 몬터레이 카운티에 있는 도시 마리나에서 8일 차 영업이 그려졌다. 이날 아세안 마켓에는 마리나 시의 브루스 델가도 시장이 직접 방문했다. 마]]></content>
     </entry>
 </feed>
