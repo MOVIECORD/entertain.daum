@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2024-01-22T06:15:38.901Z</updated>
+    <updated>2024-01-22T07:11:52.491Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[부산영화제 이사장 후보로 박광수 감독 단독 추대]]></title>
+        <id>https://v.daum.net/v/20240122160606560</id>
+        <link href="https://v.daum.net/v/20240122160606560"/>
+        <updated>2024-01-22T07:11:36.025Z</updated>
+        <content type="html"><![CDATA[[성하훈 기자] ▲ &nbsp;박광수 감독ⓒ 한국영상자료원 DB&nbsp; 부산국제영화제 신임 이사장 후보로 박광수 감독이 단독으로 추대됐다. 부산영화제는 22일 "임원추천위원회가 전원 합의로 이사장 후보자를 추대했고 오는 2월 1일 정기총회를 통해 확정한다"고 밝혔다. 지난해 연말 구성된 부산영화제 임원추천위원회는 서울과 부산의 영화단체, 부산시 등의 추천인사 7인으로 구]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김태리가 직접 읽어준다..'외계+인' 2부 오프닝 무삭제 최초 공개]]></title>
+        <id>https://v.daum.net/v/20240122155327094</id>
+        <link href="https://v.daum.net/v/20240122155327094"/>
+        <updated>2024-01-22T07:11:36.032Z</updated>
+        <content type="html"><![CDATA[[OSEN=하수정 기자] 배우들의 시너지와 스펙터클한 액션, 독창적인 볼거리로 12일 연속 압도적 박스오피스 1위로 2024년 새해 극장가를 책임지고 있는 영화 '외계+인' 2부가 1부를 요약하는 본편 오프닝 무삭제 클립을 공개했다. '외계+인' 2부 본편 오프닝 무삭제 클립은 1부의 내용을 요약하는 한편 모두를 구하기 위해 미래로 돌아가려는 의지가 느]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[임영웅, 영화 '소풍' OST 사용료 전액 기부..선한 영향력]]></title>
         <id>https://v.daum.net/v/20240122145140449</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240122120542432"/>
         <updated>2024-01-22T03:12:11.295Z</updated>
         <content type="html"><![CDATA[[OSEN=하수정 기자] '시민덕희' 공명이 절친이자 서프라이즈 멤버 강태오를 응원했다. 22일 오전 서울 종로구 삼청로 슬로우파크 카페에서는 영화 '시민덕희'의 주연 배우 공명의 인터뷰가 진행됐다.&nbsp; '시민덕희'(감독 박영주, 제공배급 ㈜쇼박스, 제작 ㈜씨제스스튜디오·페이지원필름㈜)는 보이스피싱을 당한 평범한 시민 덕희(라미란 분)에게 사기 친 조직원]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['시민덕희' 공명, 역시 '누나 콜렉터'.."라미란 팬 아닌 배우 있을까요?"]]></title>
-        <id>https://v.daum.net/v/20240122120506417</id>
-        <link href="https://v.daum.net/v/20240122120506417"/>
-        <updated>2024-01-22T03:12:11.295Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 | 종로=이승훈 기자] /사진=(주)쇼박스 배우 공명이 라미란을 향해 무한한 존경심을 드러냈다. 22일 오전 공명은 서울 종로구 삼청동의 한 카페에서 영화 '시민덕희' 인터뷰를 진행했다. 이날 공명은 "당연히 군 복무 할 때 개봉했어도 군대 안에서 응원하고 '드디어 나왔구나. 휴가 나가면 꼭 봐야지' 생각했었는데 전역 후 개봉을 하게 돼 직]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[야구장에서 '김대중' 외치던 시절, 이 영화에 답이 있다]]></title>
-        <id>https://v.daum.net/v/20240122115701097</id>
-        <link href="https://v.daum.net/v/20240122115701097"/>
-        <updated>2024-01-22T03:12:11.296Z</updated>
-        <content type="html"><![CDATA[[서부원 기자] ▲ &nbsp;다큐멘터리 영화 &lt;길 위에 김대중&gt; 포스터 이미지ⓒ 명필름&nbsp; 영화라기보다는 차라리 '현대사 교과서'라고 해야 할 성싶다. 지난 10일 개봉한 다큐멘터리 영화 &lt;길 위에 김대중&gt; 이야기다. 주인공은 김대중 전 대통령이지만, 해방 전후부터 1987년 6월 민주항쟁까지의 파란만장했던 대한민국의 현대사를 시공간적 배경 삼고 있어서다. 현행 고]]></content>
     </entry>
 </feed>
