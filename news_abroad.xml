@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2024-01-23T09:12:19.845Z</updated>
+    <updated>2024-01-23T10:12:30.233Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[올리버 스톤 “‘바비’ 라이언 고슬링 돈 때문에 시간 낭비‥진지한 영화 찍어라” 비난]]></title>
+        <id>https://v.daum.net/v/20240123183024786</id>
+        <link href="https://v.daum.net/v/20240123183024786"/>
+        <updated>2024-01-23T10:12:29.600Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 배효주 기자] 올리버 스톤 감독이 '바비'에 출연한 라이언 고슬링을 두고 "시간을 낭비하고 있다"면서 강도 높은 발언을 해 현지에서 화제를 모으고 있다. 올리버 스톤 감독은 지난해 매체 'CITY A.M.'과의 인터뷰에서 "영화 '바비2'의 감독을 할 건지"를 묻는 질문에 "어리석은 일"이라면서 "라이언 고슬링이 돈 때문에 그런 짓을 한다면 시간]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[소피아 베르가라 "이혼 이유는 아이, 늙은 엄마 되고 싶지 않아"]]></title>
         <id>https://v.daum.net/v/20240123174649384</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240122201100644"/>
         <updated>2024-01-22T12:21:56.616Z</updated>
         <content type="html"><![CDATA[[TV리포트=유소연 기자] 지난해 7월 이혼한 일본 가수 마키요가 당시 충동적으로 결혼한 것을 후회한다고 해 안타까움을 자아냈다. 최근 마키요는 방송 프로그램 '리틀 스타 빅 팔로워'를 통해 전 남편과 이혼한 사유에 대해 허심탄회하게 털어놓았다. 마키요는 "그가 프러포즈를 했을 때, 결혼하고 싶지 않았지만 가족을 비롯한 주변 사람이 기대해 동의할 수밖에 없]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['외도 논란' 女배우, '불륜녀' 역 맡아...인생 연기 선보일까]]></title>
-        <id>https://v.daum.net/v/20240122195600411</id>
-        <link href="https://v.daum.net/v/20240122195600411"/>
-        <updated>2024-01-22T11:09:57.309Z</updated>
-        <content type="html"><![CDATA[[TV리포트=전영은 기자] 전 아이돌 멤버이자 배우 시노다 마리코(37)가 극중 역할로 인해 논란을 빚고 있다. 22일 일본 '야후 재팬'에 따르면 일본의 전 AKB48의 멤버이자 현재는 배우로 활동 중인 시노다 마리코가 지상파 연속 드라마 '이혼하지 않는 남자'에 '불륜녀' 역할로 출연한다. 시노다 마리코가 불륜녀 역할을 맡자 과거 과오가 재조명되며 비]]></content>
     </entry>
 </feed>
