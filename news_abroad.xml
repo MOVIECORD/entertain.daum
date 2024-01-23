@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2024-01-23T05:11:10.935Z</updated>
+    <updated>2024-01-23T06:15:25.675Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['이혼' 노엘 갤러거, 474억 위자료에도 지켜낸 물건은?]]></title>
+        <id>https://v.daum.net/v/20240123145130745</id>
+        <link href="https://v.daum.net/v/20240123145130745"/>
+        <updated>2024-01-23T06:15:25.090Z</updated>
+        <content type="html"><![CDATA[[TV리포트=한아름 기자] 영국 전설적인 록 밴드 오아시스 출신 노엘 갤러거가 위자료 474억 원을 지불하고, 자전거는 빼앗기지 않았다고 자조해 웃음을 자아냈다. 지난 22일(현지 시간), 외신 매체 '데일리메일'(Dailymail)은 밴드 오아시스(Oasis) 출신 가수 노엘 갤러거의 이혼 후 일화에 대해 보도했다. '패트리언 팟캐스트'(Patreon P]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[제레미 앨런 화이트, 이혼한 아내와 '포옹·키스'..."친구로 남았다면서"]]></title>
         <id>https://v.daum.net/v/20240123123731265</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240122152430905"/>
         <updated>2024-01-22T07:11:51.855Z</updated>
         <content type="html"><![CDATA[[TV리포트=강성훈 기자] 전 피겨스케이팅 선수 겸 배우 무라카미 카나코(29)가 약혼을 발표했다. 이 가운데 그가 이전에 약혼자의 프러포즈를 두 번 거절했다고 알려 관심이 쏠린다. 21일 무라카미 카나코는 일본 TV '줄 서는 상담소'에 출연했다. 그는 이날 약혼자에 관해 "빙수를 깎는 게 특기인 분이다"라고 소개했다. 무라카미 카나코는 예비 남편에게 프]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['은퇴 선언' 26세 라이징 스타, SNS 흔적도 전부 삭제]]></title>
-        <id>https://v.daum.net/v/20240122151330504</id>
-        <link href="https://v.daum.net/v/20240122151330504"/>
-        <updated>2024-01-22T06:15:38.195Z</updated>
-        <content type="html"><![CDATA[[TV리포트=강성훈 기자] 일본 여배우 하기와라 미노리(26)이 돌연 연예계 은퇴를 발표한 가운데 소셜네트워크서비스까지 삭제해 팬의 걱정이 커지고 있다. 22일 기준, 하기와라 미노리의 소셜네트워크서비스 게시물이 전부 삭제된 것으로 확인됐다.&nbsp; 팬은 "진짜 더 이상 볼 수 없는 건가", "소통이라도 하길 원한다", "하기와라 미노리를 못 보더라도 멀리서나마]]></content>
     </entry>
 </feed>
