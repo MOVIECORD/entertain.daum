@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2024-01-23T19:09:20.469Z</updated>
+    <updated>2024-01-23T20:12:11.214Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이정진, 양다리 피해만 두 번…"운전석에 연예인 형이"]]></title>
+        <id>https://v.daum.net/v/20240124051002872</id>
+        <link href="https://v.daum.net/v/20240124051002872"/>
+        <updated>2024-01-23T20:12:05.835Z</updated>
+        <content type="html"><![CDATA[(서울=뉴스1) 박하나 기자 = 배우 이정진이 '신발 벗고 돌싱포맨'에서 뼈아픈 연애 경험을 털어놨다. 지난 23일 오후에 방송된 SBS 예능 프로그램 '신발 벗고 돌싱포맨'(이하 '돌싱포맨')에서는 배우 오지호, 이정진, 카라 허영지가 게스트로 함께했다. 이날 이정진은 기술이 뛰어나 연애를 끊임없이 하는 '연애기술짱'으로 소개돼 '돌싱포맨'을 환호하게]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['예비아빠' 슬리피 "마냥 좋아할 수 없었다" 부담감 고백]]></title>
+        <id>https://v.daum.net/v/20240124045002577</id>
+        <link href="https://v.daum.net/v/20240124045002577"/>
+        <updated>2024-01-23T20:12:05.835Z</updated>
+        <content type="html"><![CDATA[(서울=뉴스1) 박하나 기자 = 가수 슬리피가 '금쪽 상담소'에 출연해 출산을 앞둔 솔직한 심경을 고백했다. 지난 23일 오후 8시 10분에 방송된 채널A '오은영의 금쪽 상담소'('금쪽 상담소')에서는 결혼 3년 차 예비 아빠 슬리피와 결혼 9년 차 둘째를 임신한 박슬기의 사연이 담겼다. 올봄 출산 예정인 예비 아빠 슬리피는 "마냥 좋아할 수 없었다"]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[정정훈 촬영감독 “화려한 영상미, 본질은 관객 집중시키는 것”]]></title>
         <id>https://v.daum.net/v/20240124040425339</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240123235502764"/>
         <updated>2024-01-23T15:11:56.990Z</updated>
         <content type="html"><![CDATA[[스포츠투데이 서지현 기자] '돌싱글즈4' 하림이 전 남편과의 육아 갈등을 폭로했다. 하림은 지난 21일 자신의 SNS에 "제가 이것을 쓰는 이유는 사람들이 무책임한 아빠들 때문에 싱글맘들이 어떤 어려움을 겪는지 이해하는 것이 중요하기 때문"이라는 장문의 글을 적었다. 이날 하림은 "저는 거의 3주 동안 잠을 거의 못 자고, 오늘밤도 아픈 아이와 함께 밤을]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오스카에 다시 K…'패스트 라이브즈' 작품·각본 후보]]></title>
-        <id>https://v.daum.net/v/20240123234204681</id>
-        <link href="https://v.daum.net/v/20240123234204681"/>
-        <updated>2024-01-23T15:11:56.993Z</updated>
-        <content type="html"><![CDATA[[서울=뉴시스] 손정빈 기자 = 한국계 캐나다인 셀린 송 감독의 영화 '패스트 라이브즈'(Past Lives)가 올해 아카데미 시상식에서 2개 부문 후보에 올랐다. 한국계 미국인 피터 손 감독의 '엘리멘탈'은 장편 애니메이션 작품상 후보에 올랐다. 한편 크리스토퍼 놀런 감독의 '오펜하이머'는 작품·감독·남우주연·남우조연·여우조연 등 13개 부문에 이름]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[셀린 송 감독 '패스트 라이브즈', 美오스카 작품·감독상 후보…한국계 첫 복수 지명]]></title>
-        <id>https://v.daum.net/v/20240123234026674</id>
-        <link href="https://v.daum.net/v/20240123234026674"/>
-        <updated>2024-01-23T15:11:56.993Z</updated>
-        <content type="html"><![CDATA[[마이데일리 = 강다윤 기자] 한국계 캐나다인 셀린 송 감독이 연출한 영화 '패스트 라이브즈'로 미국 아카데미상(오스카상) 작품상(Best Picture)과 각본상(Best Original Screenplay) 후보에 올랐다. 한국계 감독의 영화가 복수로 후보에 지명된 것은 이번이 처음이다. 미국 영화예술과학아카데미(AMPAS)는 23일(현지시간) 온라인]]></content>
     </entry>
 </feed>
