@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2024-01-24T06:15:25.313Z</updated>
+    <updated>2024-01-24T07:11:30.996Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[91년생 덱스 카비, 두달 만에 공개된 사인 "우발적 약물과다 복용"]]></title>
+        <id>https://v.daum.net/v/20240124154412261</id>
+        <link href="https://v.daum.net/v/20240124154412261"/>
+        <updated>2024-01-24T07:11:30.357Z</updated>
+        <content type="html"><![CDATA[[OSEN=박소영 기자] 미국 코미디언 다나 카비의 아들 덱스 카비가 갑작스럽게 사망한 가운데 구체적인 사인이 공개됐다. 23일(현지시각) 외신 보도에 따르면 지난해 11월 15일 사망한 덱스 카비는 우발적인 약물 과다 복용으로 숨졌다. 관계자는 “사망 당시 체내에 펜타닐, 케타민, 코카인이 있었던 것으로 밝혀졌다”고 알렸다. 다나 카비는 미국의 배우]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['스타트랙' 게리 그라함, 향년 73세로 사망...전처와 현 부인 함께 애도]]></title>
         <id>https://v.daum.net/v/20240124141830442</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240123162019918"/>
         <updated>2024-01-23T08:15:22.080Z</updated>
         <content type="html"><![CDATA[[OSEN=최이정 기자] 올리버 스톤(77) 감독이 배우&nbsp;라이언 고슬링이 '바비' 영화로 시간을 낭비했고 "할리우드 유아화의 일부였다"라고 비난해 논란을 야기했다. 할리우드의 유명 감독인 올리버 스톤은 지난해 10억 달러 규모의 흥행에 성공한 '바비'에서 켄 역으로 출연한 라이언 고슬링을 강도 높게 비난했다. 데일리메일의 23일(현지시간) 보도에 따르면]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['모던 패밀리' 男배우 "데뷔 전 범죄조직 스카웃 제안, 거절했다"]]></title>
-        <id>https://v.daum.net/v/20240123160200970</id>
-        <link href="https://v.daum.net/v/20240123160200970"/>
-        <updated>2024-01-23T07:12:46.301Z</updated>
-        <content type="html"><![CDATA[[TV리포트=한아름 기자] 미국의 전설적인 드라마 '모던 패밀리'에 출연한 배우 겸 성우 에드 오닐이 과거 친구로부터 조직범죄를 제안 받았다고 고백해 많은 관심을 받고 있다. 지난 19일(현지 시간), 외신 매체 '더 할리우드 리포터'는 드라마 '모던 패밀리'에 제이 프리쳇 역할로 출연했던 배우 겸 성우 에드 오닐이 과거 조직범죄에 가담할 뻔했던 일화를 보]]></content>
     </entry>
 </feed>
