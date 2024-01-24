@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2024-01-24T05:12:00.127Z</updated>
+    <updated>2024-01-24T06:15:25.313Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['스타트랙' 게리 그라함, 향년 73세로 사망...전처와 현 부인 함께 애도]]></title>
+        <id>https://v.daum.net/v/20240124141830442</id>
+        <link href="https://v.daum.net/v/20240124141830442"/>
+        <updated>2024-01-24T06:15:24.721Z</updated>
+        <content type="html"><![CDATA[[TV리포트=강성훈 기자] 배우 게리 그라함이 별세했다. 향년 73세. 23일(현지 시간) 전처 수잔 라벨 씨는 소셜네트워크서비스를 통해 게리 그라함이 세상을 떠났다고 발표했다. 외신 '할리우드 리포터'에 따르면 현재 아내 베키 씨는 게리 그라함이 22일 워싱턴 주 스포캔에서 '심장마비'로 사망했다고 전했다.&nbsp; 수잔 라벨 씨는 "전 남편이자 멋진 배우 그리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[소피아 베르가라 “전 남편, 할머니 될 나이인데 아이 갖자고 해 이혼”]]></title>
         <id>https://v.daum.net/v/20240124140141805</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240123160200970"/>
         <updated>2024-01-23T07:12:46.301Z</updated>
         <content type="html"><![CDATA[[TV리포트=한아름 기자] 미국의 전설적인 드라마 '모던 패밀리'에 출연한 배우 겸 성우 에드 오닐이 과거 친구로부터 조직범죄를 제안 받았다고 고백해 많은 관심을 받고 있다. 지난 19일(현지 시간), 외신 매체 '더 할리우드 리포터'는 드라마 '모던 패밀리'에 제이 프리쳇 역할로 출연했던 배우 겸 성우 에드 오닐이 과거 조직범죄에 가담할 뻔했던 일화를 보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['이혼' 노엘 갤러거, 474억 위자료에도 지켜낸 물건은?]]></title>
-        <id>https://v.daum.net/v/20240123145130745</id>
-        <link href="https://v.daum.net/v/20240123145130745"/>
-        <updated>2024-01-23T06:15:25.090Z</updated>
-        <content type="html"><![CDATA[[TV리포트=한아름 기자] 영국 전설적인 록 밴드 오아시스 출신 노엘 갤러거가 위자료 474억 원을 지불하고, 자전거는 빼앗기지 않았다고 자조해 웃음을 자아냈다. 지난 22일(현지 시간), 외신 매체 '데일리메일'(Dailymail)은 밴드 오아시스(Oasis) 출신 가수 노엘 갤러거의 이혼 후 일화에 대해 보도했다. '패트리언 팟캐스트'(Patreon P]]></content>
     </entry>
 </feed>
