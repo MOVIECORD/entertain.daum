@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2024-01-24T20:12:14.691Z</updated>
+    <updated>2024-01-24T21:10:28.611Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘소풍’ 나문희, 엄마·할머니 아닌 친구로②]]></title>
+        <id>https://v.daum.net/v/20240125054514220</id>
+        <link href="https://v.daum.net/v/20240125054514220"/>
+        <updated>2024-01-24T21:10:08.681Z</updated>
+        <content type="html"><![CDATA[사연을 가진 아내도, 자식들을 위해 희생하는 엄마나 할머니도 아니다. 배우 나문희가 이번엔 80여년의 삶을 또박또박 걸어온 한 여자를 연기했다. 나문희의 연기를 사랑하는 이들이 영화 ‘소풍’을 놓쳐선 안 되는 이유다. ‘소풍’은 절친이자 사돈 지간인 두 친구가 60년 만에 함께 고향 남해로 여행을 떠나며 16살의 추억을 다시 마주하고 인생을 되돌아보는]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“케일럽 랜드리 존스 연기, 최민식·게리 올드만 만큼 놀라워”]]></title>
         <id>https://v.daum.net/v/20240125040818362</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240124175416027"/>
         <updated>2024-01-24T09:11:26.307Z</updated>
         <content type="html"><![CDATA[배우 유해진이 24일 서울 용산구 CGV용산아이파트몰에서 열린 영화 ‘도그데이즈‘(감독 김덕민) 언론시사회에서 미소를 짓고 있다.(사진=뉴스1)[이데일리 스타in 김보영 기자] 배우 유해진이 지난해 영화 ‘달짝지근해: 7510’으로 김희선에 이어 개봉을 앞둔 영화 ‘도그데이즈’로 김서형과 로맨스 호흡을 맞춘 소감과 로맨스 연기에 대한 솔직한 생각을 전했다]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한파까지 물리칠 따뜻함...설 연휴 흥행 정조준 '도그데이즈']]></title>
-        <id>https://v.daum.net/v/20240124175330991</id>
-        <link href="https://v.daum.net/v/20240124175330991"/>
-        <updated>2024-01-24T09:11:26.308Z</updated>
-        <content type="html"><![CDATA[[TV리포트=김연주 기자] 설 연휴 극장가를 따뜻함으로 물들일 영화 '도그데이즈'. 전 연령대를 아우르는 출연진이 전 연령대의 관객을 사로잡을 것을 예고했다.&nbsp; 24일 오후 서울 용산구 CGV아이파크몰에서 영화 '도그데이즈' 기자간담회가 진행됐다. 이날 행사에는 김덕민 감독을 비롯해 배우 윤여정, 유해진, 김윤진, 정성화, 이현우, 탕준상, 윤채나가 참석했]]></content>
     </entry>
 </feed>
