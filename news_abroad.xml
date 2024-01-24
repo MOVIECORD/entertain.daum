@@ -2,11 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2024-01-24T04:14:11.696Z</updated>
+    <updated>2024-01-24T05:12:00.127Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA['바비' 라이언 고슬링, 마고 로비 오스카 여우주연상 후보 탈락 비난]]></title>
+        <title type="html"><![CDATA[소피아 베르가라 “전 남편, 할머니 될 나이인데 아이 갖자고 해 이혼”]]></title>
+        <id>https://v.daum.net/v/20240124140141805</id>
+        <link href="https://v.daum.net/v/20240124140141805"/>
+        <updated>2024-01-24T05:11:59.518Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 이민지 기자] 소피아 베르가라가 조 맹가니엘로와의 이혼 사유를 밝혔다. 1월 23일(현지시간) 피플은 배우 소피아 베르가라와 스페인 매체 El Pais와의 인터뷰를 인용 보도하며 그의 이혼 사유가 2세 문제였다고 전했다. 소피아 베르가라는 "내 결혼은 남편이 어렸기 때문에 깨졌다. 그는 아이를 갖기 원했고 나는 늙은 엄마가 되고 싶지 않았다"고]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['바비' 라이언 고슬링, 마고 로비 오스카 후보 탈락 비난]]></title>
         <id>https://v.daum.net/v/20240124111006996</id>
         <link href="https://v.daum.net/v/20240124111006996"/>
         <updated>2024-01-24T02:28:20.629Z</updated>
