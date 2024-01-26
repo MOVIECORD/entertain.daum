@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2024-01-26T22:10:34.147Z</updated>
+    <updated>2024-01-26T23:11:14.710Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[라미란이 고개를 들었다, 불의에 맞서는 당당함으로]]></title>
+        <id>https://v.daum.net/v/20240127080513825</id>
+        <link href="https://v.daum.net/v/20240127080513825"/>
+        <updated>2024-01-26T23:10:58.425Z</updated>
+        <content type="html"><![CDATA[“‘서울의 봄’ 이후 한국 영화계에 봄을 가져올 작품.” 한 포털에 올라온 ‘시민덕희’ 한줄 평이다. 포털 댓글과 의견 일치를 본 건 오랜만이다. 이왕 관객 평을 인용한 김에 더 이어가 보자면 나 역시 “별 기대 없이 보러 갔다”가 “실화의 힘과 배우들의 매력” “시원시원한” 이야기 진행에 빠지고 말았다. 주·조연 가리지 않은 무게감 ‘시민덕희’]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘시민덕희’ 염혜란 “내 삶의 판타지 연기, 아직 갈 길 멀죠”]]></title>
+        <id>https://v.daum.net/v/20240127073303566</id>
+        <link href="https://v.daum.net/v/20240127073303566"/>
+        <updated>2024-01-26T23:10:58.426Z</updated>
+        <content type="html"><![CDATA[믿고 보는 배우 염혜란(47)이 이번엔 든든한 친구가 되어 돌아왔다. 염혜란은 영화 ‘시민덕희’(감독 박영주)에서 덕희의 친구이자 중국어에 능통한 조선족 봉림을 연기했다. 2016년 벌어진 실화에서 모티브를 얻은 ‘시민덕희’는 보이스피싱을 당한 평범한 시민 덕희(라미란 분)에게 사기 친 조직원 재민(공명 분)의 구조 요청이 오면서 벌어지는 통쾌한 추적극이다]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[아포칼립스에 떨어진 마동석이 궁금하다면]]></title>
         <id>https://v.daum.net/v/20240127060206822</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240126170206067"/>
         <updated>2024-01-26T08:13:06.281Z</updated>
         <content type="html"><![CDATA[▶ 줄거리 폐허가 된 세상 속 ‘남산’과 ‘지완’은 닥치는 대로 사냥을 하며 부족한 물과 식량을 얻어내고, 가족같이 아끼는 ‘수나’와 버스동 마을 사람들과 함께 동고동락하며 살아간다. 어느 날, 봉사단이라 자칭하는 인물들이 깨끗한 물과 음식을 제공하는 곳이 있다며 ‘수나’를 데려가고 우연히 ‘수나’를 데려간 이들과 그들을 이끄는 의사 ‘양기수’의 정체를]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[봉준호도 "불가사의한 경험"... 압도적 감흥을 남긴 '일 부코']]></title>
-        <id>https://v.daum.net/v/20240126165401816</id>
-        <link href="https://v.daum.net/v/20240126165401816"/>
-        <updated>2024-01-26T08:13:06.282Z</updated>
-        <content type="html"><![CDATA[[김상목 기자] ▲ &nbsp;영화 &lt;일 부코&gt; 포스터 이미지ⓒ 그린나래미디어㈜&nbsp; '형언할 수 없다.' &lt;일 부코&gt;를 보고 나서 든 첫 번째 생각이다. 눈으로 본 걸 글로 풀어내야 하는데 이 영화는 그런 절차를 무의미하게 만들어버린다. 분명히 무척 인상적인 걸 보긴 했지만 필설로 표현하기란 실로 난망했다. 대체 내가 무엇을 본 것일까. 상상하며 추리하게 만드는 불투]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[윤여정 “내 롤모델은 87세 김영옥···언니 만큼만 일 하고파”]]></title>
-        <id>https://v.daum.net/v/20240126164658634</id>
-        <link href="https://v.daum.net/v/20240126164658634"/>
-        <updated>2024-01-26T08:13:06.284Z</updated>
-        <content type="html"><![CDATA[배우 윤여정이 자신의 롤모델로 배우 김영옥을 꼽았다. 26일 서울 종로구 삼청동의 한 카페에서 영화 ‘도그데이즈’(감독 김덕민) 주연 배우 윤여정의 인터뷰가 진행됐다. 윤여정은 “(김)영옥 언니는 저의 롤모델”이라며 “언니가 10년 선배인데 이렇게 일을 한다는 게 너무 대단하다. 나는 언니만큼만 하면 되겠다 했다”고 말했다. “내가 77세인데 영옥]]></content>
     </entry>
 </feed>
