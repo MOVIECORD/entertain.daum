@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2024-01-26T09:11:51.634Z</updated>
+    <updated>2024-01-26T10:11:24.809Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['하이틴 스타' 제이미 월터스, 소방관 됐다..."연예계는 가정 꾸리기 힘들다"]]></title>
+        <id>https://v.daum.net/v/20240126190331754</id>
+        <link href="https://v.daum.net/v/20240126190331754"/>
+        <updated>2024-01-26T10:11:24.210Z</updated>
+        <content type="html"><![CDATA[[TV리포트=한아름 기자] 드라마 '베버리힐스 아이들'에 출연해 주목받은 하이틴 스타 제이미 월터스가 소방관으로 전향하게 된 계기를 밝혀, 많은 주목을 받고 있다. 지난 25일(현지 시간), 외신 매체 '더 썬'(THE SUN)은 1990년대 미국 하이틴 드라마 '베버리힐스 아이들'에서 레이 프루이트 역할로 출연하며 많은 관심을 받은 배우 겸 가수 제이미]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['스파이더맨' 톰 홀랜드, 엄청난 '금수저'였다...아버지도 유명한 사람]]></title>
         <id>https://v.daum.net/v/20240126175430463</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240126104636695"/>
         <updated>2024-01-26T02:19:20.007Z</updated>
         <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]할리우드 최고의 연기파 배우 로버트 드 니로(80)가 늦둥이 딸을 키우는 소감을 전했다. 그는 25일(현지시간) AARP 매거진과 인터뷰에서 “딸을 보고 있으면 모든 걱정이 사라진다. 경이롭다”면서 눈물을 흘렸다. 이어 “딸은 당신을 보고, 받아들이고, 생각하고, 관찰하는 아주 달콤한 방식을 갖고 있다. 최대한 오래 살며]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[로버트 드 니로 "난 80살 아빠, 최대한 오래 살고 싶다" 눈물]]></title>
-        <id>https://v.daum.net/v/20240126102906960</id>
-        <link href="https://v.daum.net/v/20240126102906960"/>
-        <updated>2024-01-26T01:45:22.135Z</updated>
-        <content type="html"><![CDATA[[OSEN=김보라 기자]&nbsp;배우 로버트 드 니로가 늦깎이 아빠가 된 소감을 전했다. 로버트 드 니로는 25일(현지 시각) 한 매거진과의 인터뷰에서 여자친구 티파니 첸과의 사이에서 지난해 낳은 딸에 대한 이야기를 털어놨다. 이날 로버트 드 니로는 새로 태어난 딸에 대한 이야기를 하면서 눈물을 보였다. 로버트 드 니로는 “나는 80살 아빠다. 그건 정말 좋다]]></content>
     </entry>
 </feed>
