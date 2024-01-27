@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/variety</id>
     <title>다음 연예 ─ 뉴스 ─ 예능</title>
-    <updated>2024-01-27T08:13:00.361Z</updated>
+    <updated>2024-01-27T09:09:45.375Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['공신' 강성태 "은퇴 생각으로 활동 중단, 기괴한 일 多"…2년만 복귀 근황]]></title>
+        <id>https://v.daum.net/v/20240127180354428</id>
+        <link href="https://v.daum.net/v/20240127180354428"/>
+        <updated>2024-01-27T09:09:36.187Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 김현정 기자) 공부의 신 강성태의 근황이 화제다. 강성태는 지난해 12월 29일 유튜브 채널 '공부의신 강성태'에 '2년 만에 돌아왔습니다'라는 영상을 올렸다.&nbsp; 강성태는 서울대학교 공과대학 출신으로 공신닷컴 설립자이자 유튜버, 아프리카TV BJ로 활동했다. MBC '공부의 제왕' 등 공부를 소재로 한 방송에 출연하며 유명세를 얻었고 다양한]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['음중' 태연, 무대 없어도 1위..'투 엑스'로 휩쓸었다]]></title>
         <id>https://v.daum.net/v/20240127163636322</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240127131125182"/>
         <updated>2024-01-27T04:12:22.092Z</updated>
         <content type="html"><![CDATA[[스타뉴스 | 윤상근 기자] /사진=KBS 2TV '사장님 귀는 당나귀 귀' '사장님 귀는 당나귀 귀'에서 박명수가 '딤섬의 여왕' 정지선에게 본인 건물로 입주를 제안한다. KBS 2TV '사장님 귀는 당나귀 귀'(연출 안상은/이하 '사당귀')는 오는 28일 방송에서 박명수가 '딤섬의 여왕' 정지선에게 "저희 건물은 생각 없으세요? 싸게 해드릴게요"라]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘건물주’ 박명수, 정지선에 입주 제안 “싸게 해드릴게요”]]></title>
-        <id>https://v.daum.net/v/20240127130550148</id>
-        <link href="https://v.daum.net/v/20240127130550148"/>
-        <updated>2024-01-27T04:12:22.095Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 이민지 기자] 박명수가 정지선에게 본인 건물로 입주를 제안한다. 1월 28일 방송되는 KBS 2TV ‘사장님 귀는 당나귀 귀’(이하 ‘사당귀’)에서 박명수가 정지선에게 “저희 건물은 생각 없으세요? 싸게 해드릴게요”라며 호시탐탐 영업의 기회를 노린다. 이날 정지선은 매장 이전을 위해 ‘번화가의 상징’ 성수동으로 매물 찾기에 나선다. 그러던 중]]></content>
     </entry>
 </feed>
