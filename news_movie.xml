@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2024-01-27T06:12:04.396Z</updated>
+    <updated>2024-01-27T07:10:08.587Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[다니엘 크레이그 ‘나이브스 아웃3’ 올해 말 촬영, 넷플릭스 공개]]></title>
+        <id>https://v.daum.net/v/20240127160308840</id>
+        <link href="https://v.daum.net/v/20240127160308840"/>
+        <updated>2024-01-27T07:09:52.512Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]다니엘 크레이그 주연의 미스터리 스릴러 ‘나이브스 아웃3’가 올해 말 촬영에 돌입한다. 데드라인은 26일(현지시간) “아직 제목이 정해지지 않은 ‘나이브스 아웃3’ 촬영이 올해 말 시작될 예정이며, 크레이크가 다시 한번 브누아 블랑 탐정 역을 맡는다”고 보도했다. 2019년 ‘나이브스 아웃’이 흥행에 성공하자 넷플릭스는]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[최민식→이도현 '파묘', 파묘파탈 신선한 팀워크]]></title>
         <id>https://v.daum.net/v/20240127141552751</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240127100428923"/>
         <updated>2024-01-27T01:41:10.898Z</updated>
         <content type="html"><![CDATA[[스타뉴스 | 안윤지 기자] /사진제공=영화 '서울의 봄'영화 '서울의 봄'이 개봉 65일 만에 1,300만 관객을 동원했다. 27일 오전 6시 기준 영화진흥위원회 통합전상망에 따르면 '서울의 봄'(연출 김성수)은 누적 관객 수 13,003,228명을 기록, 새로운 흥행 기록을 경신했다. '서울의 봄'이 전 세대 관객들의 열렬한 성원 속에 흥행을 이어온]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['시민덕희', 3일 연속 1위…누적 20만 돌파]]></title>
-        <id>https://v.daum.net/v/20240127092605514</id>
-        <link href="https://v.daum.net/v/20240127092605514"/>
-        <updated>2024-01-27T00:45:50.779Z</updated>
-        <content type="html"><![CDATA[(서울=뉴스1) 김민지 기자 = 영화 '시민덕희'(감독 박영주)가 3일 연속 박스오피스 1위를 기록했다. 27일 영화진흥위원회 영화관입장권 통합전산망 집계에 따르면 '시민덕희'는 전날 6만6914명의 관객을 동원하며 박스오피스 1위 자리에 올랐다. 누적 관객수는 20만8460명이다. 지난 24일 개봉한 '시민덕희'는 개봉 첫 날 바로 박스오피스 1위로]]></content>
     </entry>
 </feed>
