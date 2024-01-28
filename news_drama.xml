@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-01-28T10:10:27.344Z</updated>
+    <updated>2024-01-28T11:08:08.289Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[주연 조기 하차→사망 엔딩 '시끌', 손호준 연이은 죽음에 '갑론을박']]></title>
+        <id>https://v.daum.net/v/20240128200102802</id>
+        <link href="https://v.daum.net/v/20240128200102802"/>
+        <updated>2024-01-28T11:07:54.083Z</updated>
+        <content type="html"><![CDATA[[텐아시아=태유나 기자] 배우 손호준이 사망 엔딩으로 또 한 번 충격을 안겼다. 드라마 조기 하차 논란이 불거진 지 5개월 만에 또다시 죽는 설정으로 시청자들을 혼란에 빠트렸다. 지난 27일 방송된 TV조선 '나의 해피엔드' 9회에서는 서재원(장나라 분)이 서서히 떠오른 기억으로 모든 진실을 알게 된 가운데, 가족을 지키기 위해 분투하던 허순영(손호준]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["네가 손호준 죽였지?"..장나라 vs 소이현, 누구의 살인일까]]></title>
         <id>https://v.daum.net/v/20240128190921352</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240128134258530"/>
         <updated>2024-01-28T05:11:21.481Z</updated>
         <content type="html"><![CDATA[[OSEN=하수정 기자] ‘효심이네 각자도생’ 구치소에서 만난 유이♥하준이 애틋한 포옹을 나눈다. 비 온 뒤에 땅이 굳듯, 이들의 사랑도 점점 굳건해질 전망이다.&nbsp; KBS 2TV 주말드라마 ‘효심이네 각자도생’(연출 김형일, 극본 조정선, 제작 아크미디어) 지난 방송에서 태호(하준)에게 거센 풍파가 불어 닥쳤다. 태호가 운영을 전담한 장학재단을 문제 삼]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["파격 전개" 포박당한 신세경, 비정한 조정석..급변한 관계]]></title>
-        <id>https://v.daum.net/v/20240128134131509</id>
-        <link href="https://v.daum.net/v/20240128134131509"/>
-        <updated>2024-01-28T05:11:21.481Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 | 윤성열 기자] /사진='세작, 매혹된 자들''세작'에서 조정석과 신세경의 관계가 급변한다. 28일 tvN 토일드라마 '세작, 매혹된 자들'(연출 조남국, 극본 김선덕, 기획 스튜디오드래곤, 제작 씨제스)의 파격적인 전개가 펼쳐질 것이 예고된 가운데 포박당한 신세경의 모습과 비정하게 내친 조정석의 모습이 담긴 스틸이 공개됐다. '세작,]]></content>
     </entry>
 </feed>
