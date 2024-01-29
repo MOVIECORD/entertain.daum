@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2024-01-29T11:09:48.415Z</updated>
+    <updated>2024-01-29T12:18:50.060Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[유해진 "티모시 샬라메와 맞대결? 윤여정·최민식과 연합"]]></title>
+        <id>https://v.daum.net/v/20240129205003017</id>
+        <link href="https://v.daum.net/v/20240129205003017"/>
+        <updated>2024-01-29T12:18:29.967Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 윤현지 기자) 배우 유해진이 설 연휴 영화 '도그데이즈' 개봉을 앞두고 각오를 전했다. 29일 오전 서울 종로구 삼청동의 한 카페에서 영화 '도그데이즈'(감독 김덕민)에 출연한 배우 유해진의 인터뷰가 진행됐다.&nbsp; '도그데이즈'는 성공한 건축가와 MZ 라이더, 싱글 남녀와 초보 엄빠까지 혼자여도 함께여도 외로운 이들이 특별한 단짝을 만나 하루하]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['봉준호도 난해했던' 김희애 "최대한의 변신, 분장 팀만 믿어"]]></title>
         <id>https://v.daum.net/v/20240129195018954</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240129172801384"/>
         <updated>2024-01-29T09:11:18.004Z</updated>
         <content type="html"><![CDATA[[Dispatch=박혜진기자] 배우 유해진을 생각하면, 가장 먼저 떠오르는 건 그만의 맛깔난 연기. 어디에서나 볼 수 있지만, 아무나 할 수는 없다.&nbsp; 그는 코미디, 액션, 스릴러, 사극 등 모든 장르를 넘나든다. 자타공인, 넓은 연기 스펙트럼을 자랑한다.&nbsp; 이번에는 찰진 생활 연기로 돌아왔다. 자극적인 소재도, 이야기도, 캐릭터도 없다. 무해한 이야기다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이름을 걸고 싸우는 쫄깃한 108분, '데드맨']]></title>
-        <id>https://v.daum.net/v/20240129172430273</id>
-        <link href="https://v.daum.net/v/20240129172430273"/>
-        <updated>2024-01-29T09:11:18.005Z</updated>
-        <content type="html"><![CDATA[[TV리포트=김연주 기자] 쫓고 쫓기는 사투가 일품인 영화 '데드맨'이 설 연휴 관객과 만난다.&nbsp; 29일 서울 강남구 메가박스 코엑스에서 영화 '데드맨'의 기자간담회가 진행됐다. 이날 행사에는 하준원 감독을 비롯해 배우 조진웅, 김희애, 이수경이 참석했다.&nbsp; 영화 '데드맨'은 이름값으로 돈을 버는 일명 바지사장계의 에이스가 1000억 횡령 누명을 쓰고 '죽]]></content>
     </entry>
 </feed>
