@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2024-01-29T10:11:43.431Z</updated>
+    <updated>2024-01-29T11:09:48.415Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['봉준호도 난해했던' 김희애 "최대한의 변신, 분장 팀만 믿어"]]></title>
+        <id>https://v.daum.net/v/20240129195018954</id>
+        <link href="https://v.daum.net/v/20240129195018954"/>
+        <updated>2024-01-29T11:09:28.997Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 윤현지 기자) 배우 김희애가 '데드맨' 심여사 역을 위해 노력한 점을 밝혔다. 29일 오후 서울 삼성동 코엑스 메가박스에서 영화 '데드맨'(감독 하준원)의 언론배급시사회가 열렸다. 현장에는 하준원 감독과 배우 조진웅, 김희애, 이수경이 참석했다. '데드맨'은 이름값으로 돈을 버는 일명 바지사장계의 에이스가 1천억 횡령 누명을 쓰고 '죽은 사람]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이름 잘못 팔았다 죽은 사람이 된 남자…영화 '데드맨']]></title>
         <id>https://v.daum.net/v/20240129185203061</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240129172430273"/>
         <updated>2024-01-29T09:11:18.005Z</updated>
         <content type="html"><![CDATA[[TV리포트=김연주 기자] 쫓고 쫓기는 사투가 일품인 영화 '데드맨'이 설 연휴 관객과 만난다.&nbsp; 29일 서울 강남구 메가박스 코엑스에서 영화 '데드맨'의 기자간담회가 진행됐다. 이날 행사에는 하준원 감독을 비롯해 배우 조진웅, 김희애, 이수경이 참석했다.&nbsp; 영화 '데드맨'은 이름값으로 돈을 버는 일명 바지사장계의 에이스가 1000억 횡령 누명을 쓰고 '죽]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['데드맨' 하준원 감독 "봉준호, 신 별로 디테일한 피드백 줘"]]></title>
-        <id>https://v.daum.net/v/20240129171843109</id>
-        <link href="https://v.daum.net/v/20240129171843109"/>
-        <updated>2024-01-29T09:11:18.006Z</updated>
-        <content type="html"><![CDATA[하준원 감독이 29일 서울 강남구 코엑스 메가박스에서 열린 영화 ‘데드맨’ 언론시사회에서 포즈를 취하고 있다. (사진=뉴스1)[이데일리 스타in 김보영 기자] ‘데드맨’ 하준원 감독이 스승 봉준호 감독으로부터 살뜰한 지원 사격을 받았던 기억을 떠올렸다. 29일 오후 서울 강남구 메가박스 코엑스에서 열린 영화 ‘데드맨’(감독 하준원) 시사회에는 하준원 감]]></content>
     </entry>
 </feed>
