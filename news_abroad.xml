@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2024-01-29T00:47:35.526Z</updated>
+    <updated>2024-01-29T01:44:07.046Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[日 드라마 ‘우영우’ 표절했나? 현지매체서 유사성 의혹 제기]]></title>
+        <id>https://v.daum.net/v/20240129101923356</id>
+        <link href="https://v.daum.net/v/20240129101923356"/>
+        <updated>2024-01-29T01:44:06.433Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 박수인 기자] 일본 드라마 '주방의 아리스'의 표절 의혹이 제기됐다. 일본 매체 사이조 우먼은 최근 일본 NTV에서 방영 중인 드라마 '주방의 아리스'와 ENA 드라마 '이상한 변호사 우영우'의 유사성 의혹을 제기했다. '주방의 아리스'는 '요리는 화학입니다'가 입버릇인 자폐 스펙트럼증 천재 요리사와 다양한 삶의 어려움을 안고 있는 사람들이 빚어]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[日 드라마 '주방의 아리스', 현지 매체서 '우영우' 표절 의혹 제기]]></title>
         <id>https://v.daum.net/v/20240129094218657</id>
@@ -25,12 +32,5 @@
         <link href="https://v.daum.net/v/20240129085227847"/>
         <updated>2024-01-29T00:47:34.886Z</updated>
         <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]세계적 톱모델 지젤 번천(43)의 어머니 바니아 노넨마허가 세상을 떠났다. 향년 75세. 28일(현지시간) 페이지식스에 따르면, 브라질의 모인호스 데 벤토 병원은 논넨마허가 입원 후 이날 암으로 사망했다는 성명을 발표했다. 노넨마허는 은퇴한 은행원이었으며, 브라질 호리치나 마을의 '근면한 중산층 가정'에서 지젤 번천을]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[신곡 발매한 女가수, 지방흡입 수술 중 합병증으로 사망...향년 42세]]></title>
-        <id>https://v.daum.net/v/20240128100400474</id>
-        <link href="https://v.daum.net/v/20240128100400474"/>
-        <updated>2024-01-28T01:49:48.692Z</updated>
-        <content type="html"><![CDATA[[TV리포트=강성훈 기자] 브라질 가수 다니 리(Dani Li)가 사망했다. 향년 42세. 26일(현지 시간) 외신 '더선'은 다니 리가 지방흡입 수술 중 합병증으로 지난 24일 사망했다고 보도했다. 다니 리는 지방흡입 외에도 가슴축소술도 받은 것으로 전해졌다. 보도에 따르면 다니 리는 브라질 핀하이스에서 시술을 받던 중 합병증을 앓고 인근 도시 병원으로]]></content>
     </entry>
 </feed>
