@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-01-29T20:11:19.398Z</updated>
+    <updated>2024-01-29T21:10:45.815Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[바이크 타고 드럼 치고…국민 엄마 김미경의 인생찬가]]></title>
+        <id>https://v.daum.net/v/20240130060144615</id>
+        <link href="https://v.daum.net/v/20240130060144615"/>
+        <updated>2024-01-29T21:10:30.337Z</updated>
+        <content type="html"><![CDATA['국민 엄마' 김미경은 연기하지 않을 땐 바이크를 타고, 드럼을 친다. 스쿠버다이빙 등 액티비티도 즐긴다. "젊게 산다"는 표현에는 어폐가 있다. 젊게 사는 것과 나이 들게 사는 것을 구분 지을 수 있나. 인생의 가치는 시간이 지남으로써 닳아 없어지는 것이 아니라는 걸, 여실히 보여주고 있는 그다. 최근 김미경은 iMBC연예와 서울 서초구 씨엘엔컴퍼니]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘닥터슬럼프’ 마음에 치료가 필요한 의사들의 이야기]]></title>
         <id>https://v.daum.net/v/20240130050802909</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240129210403256"/>
         <updated>2024-01-29T12:18:34.486Z</updated>
         <content type="html"><![CDATA[[이데일리 스타in 김가영 기자] 배우 이병헌의 미국 저택에 도둑이 들었으나 다행히 피해는 없는 것으로 확인됐다. 사진=이병헌이병헌 소속사 BH엔터테인먼트 측 관계자는 29일 이데일리에 “이병헌 배우의 미국 자택에 좀도둑이 든 것은 사실”이라며 “피해는 없다”고 전했다. 앞서 이날 미국 매체 TMZ는 “‘오징어 게임’ 스타 이병헌의 집이 강도가 들었다”고]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[인생 바닥치니 더 맛깔나네…혐관 맛집 '닥터슬럼프']]></title>
-        <id>https://v.daum.net/v/20240129210140218</id>
-        <link href="https://v.daum.net/v/20240129210140218"/>
-        <updated>2024-01-29T12:18:34.489Z</updated>
-        <content type="html"><![CDATA[높이 올라갈수록 가파르게 추락한다. 앞만 보고 달리니 장애물에 면역이 있을 리 만무하다. 마냥 빛날 것 같기만 했던 순간, 인생의 바닥을 친 박형식과 박신혜가 그릴 로맨스는 어떤 모양일까. '아는 맛'인데 계속 곱씹게 만드는, '닥터슬럼프'다. 지난 27일 JTBC 새 토일드라마 '닥터슬럼프'(극본 백선우·연출 오현종)가 첫 방송됐다. '닥터슬럼프'는]]></content>
     </entry>
 </feed>

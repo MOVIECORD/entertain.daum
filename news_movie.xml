@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2024-01-29T20:11:19.390Z</updated>
+    <updated>2024-01-29T21:10:45.823Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[너무 최선을 다한 ‘데드맨’]]></title>
+        <id>https://v.daum.net/v/20240130060202624</id>
+        <link href="https://v.daum.net/v/20240130060202624"/>
+        <updated>2024-01-29T21:10:25.088Z</updated>
+        <content type="html"><![CDATA[평범한 영업사원 만재(조진웅)는 돈이 필요하다. 곧 태어날 아이를 위해 안정된 가정을 꾸려야 해서다. 급전을 마련하려던 중 이름으로 돈을 벌 수 있다는 걸 알게 된 만재. 그날부터 만재는 바지사장의 삶을 살기 시작한다. 하지만 이내 1000억원짜리 횡령사건의 누명을 쓰고 죽은 인생을 살게 된 만재. 정치판에서 이기기 위해 그가 필요한 ‘정치꾼’ 심여사(]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[봉준호 조언 업은 '데드맨'...조진웅→김희애 '대본 최고! BUT 어려워']]></title>
         <id>https://v.daum.net/v/20240130001004291</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240129173341601"/>
         <updated>2024-01-29T09:11:17.997Z</updated>
         <content type="html"><![CDATA['괴물' 공동각본 맡았던 하준원 감독의 데뷔작…2월 7일 개봉 [더팩트｜박지윤 기자] 하준원 감독의 긴 취재와 배우 조진웅 김희애 이수경의 열연이 만나 '데드맨'이 완성됐다. 여기에 봉준호 감독의 조언까지 더해져 기대감을 높이는 가운데, 설 연휴 극장가에서 제대로 이름값을 할 수 있을지 이목을 집중시킨다. 영화 '데드맨'(감독 하준원)의 언론·배급시사회]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["신 바이 신 도움"…조진웅·김희애 '데드맨', '봉준호 키드' 데뷔작 어떨까]]></title>
-        <id>https://v.daum.net/v/20240129173020487</id>
-        <link href="https://v.daum.net/v/20240129173020487"/>
-        <updated>2024-01-29T09:11:18.001Z</updated>
-        <content type="html"><![CDATA[(서울=뉴스1) 정유진 기자 = 신 바이 신으로 시나리오에 대해 디테일한 피드백을 해줬다는 봉준호 감독. 영화 '괴물'(2006)의 공동 각본가인 하준원 감독은 데뷔작을 통해 스승이자 선배인 봉준호 감독의 명성에 걸맞은 결과를 낼 수 있을까. 29일 오후 서울 강남구 코엑스 메가박스에서 영화 '데드맨'(감독 하준원)의 언론배급시사회 및 기자간담회가 열]]></content>
     </entry>
 </feed>
