@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-01-30T10:12:25.628Z</updated>
+    <updated>2024-01-30T11:09:55.175Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['세번째 결혼' 문지후, 오세영 덫에 걸렸다... 불법촬영 협박죄로 체포]]></title>
+        <id>https://v.daum.net/v/20240130194900444</id>
+        <link href="https://v.daum.net/v/20240130194900444"/>
+        <updated>2024-01-30T11:09:39.840Z</updated>
+        <content type="html"><![CDATA[[TV리포트=이혜미 기자] 뺑소니로 소중한 딸을 가슴에 묻은 오세영이 문지후에 복수를 가했다. 30일 MBC '세 번째 결혼'에선 상철(문지후 분)을 향한 복수심으로 덫을 놓는 세란(오세영 분)의 모습이 그려졌다. 송이를 잃고 상심한 세란이 상철에 “우리 이제 그만 만나자”라며 이별을 통보했다. 이에 상철은 "난 절대 그렇게 못해. 누구 마음대로 그만 만나]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['모래꽃' 장동윤 "사랑해 주신 덕분에 김백두 존재할 수 있었다" 종영 소감]]></title>
         <id>https://v.daum.net/v/20240130190724575</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240130160657490"/>
         <updated>2024-01-30T07:10:39.563Z</updated>
         <content type="html"><![CDATA[[뉴스엔 박수인 기자] 배우 안재홍이 'LTNS' 비하인드를 전한다. 티빙 오리지널 시리즈 'LTNS'(극본·연출 임대형·전고운(프리티 빅브라더), 제작 바른손스튜디오·엘티엔에스 문화산업전문유한회사, 제공 티빙(TVING))에서 불륜 커플들의 뒤를 쫓는 남편 사무엘로 활약하고 있는 안재홍(사무엘 역)이 1월 30일 MBC FM4U '배철수의 음악캠프',]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['환상연가' 불구덩이 던져진 홍예지, 망연자실한 박지훈]]></title>
-        <id>https://v.daum.net/v/20240130160527389</id>
-        <link href="https://v.daum.net/v/20240130160527389"/>
-        <updated>2024-01-30T07:10:39.564Z</updated>
-        <content type="html"><![CDATA[[OSEN=장우영 기자] 불길에 휩싸인 박지훈과 홍예지의 모습이 포착됐다. 30일 방송되는 KBS2 월화드라마 ‘환상연가’(극본 윤경아, 연출 이정섭, 제작 몬스터유니온, 판타지오) 9회에서는 서로의 마음을 확인한 사조 현(박지훈 분)과 연월(홍예지 분)이 또 다른 위기를 맞는다. 앞서 연월은 악희((박지훈)에게 자신이 연모한 사람이 당신이 아니라 사조]]></content>
     </entry>
 </feed>
