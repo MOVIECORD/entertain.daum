@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2024-01-30T01:43:19.799Z</updated>
+    <updated>2024-01-30T02:17:03.363Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[티모시 샬라메 '웡카', 먹으면 날 수 있는 '두둥실 초콜릿' 맛 어떨까?]]></title>
+        <id>https://v.daum.net/v/20240130110246287</id>
+        <link href="https://v.daum.net/v/20240130110246287"/>
+        <updated>2024-01-30T02:16:43.761Z</updated>
+        <content type="html"><![CDATA[[OSEN=김보라 기자] 영화 '웡카' 측이 영화에 등장하는 초콜릿 제작기를 전격 공개했다. '웡카'(감독 폴 킹, 수입배급 워너브러더스 코리아㈜)는&nbsp;가진 것은 달콤한 꿈과 낡은 모자뿐인 윌리 웡카(티모시 샬라메)가 세계 최고의 초콜릿 메이커가 되기까지 놀라운 여정을 그린 스위트 어드벤처. 마성의 초콜릿 메이커 웡카가 특별한 마법으로 만든 초콜릿은 세계]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['노량: 죽음의 바다' 안방서 만난다…오늘부터 VOD서비스]]></title>
         <id>https://v.daum.net/v/20240130103744765</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240130090442746"/>
         <updated>2024-01-30T00:46:13.544Z</updated>
         <content type="html"><![CDATA[[스타뉴스 | 김나연 기자] 폭싹 속았수다 / 사진=넷플릭스 넷플릭스(Netflix)가 '폭싹 속았수다'를 전 세계 190여 개국에 공개한다. 아이유와 박보검, 그리고 드라마 '미생', '시그널', '나의 아저씨'의 김원석 PD와 '동백꽃 필 무렵'의 임상춘 작가의 만남으로 화제를 모았던 '폭싹 속았수다'가 넷플릭스를 통해 전 세계에 공개된다. '폭싹 속]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[임영웅 등판 ‘소풍’, 오늘 특별시사 연다]]></title>
-        <id>https://v.daum.net/v/20240130085105322</id>
-        <link href="https://v.daum.net/v/20240130085105322"/>
-        <updated>2024-01-30T00:46:13.546Z</updated>
-        <content type="html"><![CDATA[김영옥 나문희 박근형 그리고 임영웅의 OST가 더해진 영화 ‘소풍’(감독 김용균)이 특별 시사회를 연다. 20일 부산영상위원회는 제작사 로케트필름과 함께 이날 오후 3시 롯데시네마 광복점에서 부산연탄은행이 후원하는 홀몸 어르신과 부산 시민 등 관객 400여명을 초청한 영화 ‘소풍’의 특별 시사회를 개최한다. ‘소풍’은 절친이자 사돈지간인 두 친구가 60 년]]></content>
     </entry>
 </feed>
