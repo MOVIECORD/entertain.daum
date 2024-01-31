@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-01-31T13:11:24.810Z</updated>
+    <updated>2024-01-31T14:10:09.040Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이지아, 시母 나영희 계략에 이혼→교도소行…모든 것 빼앗기고 흑화 시작]]></title>
+        <id>https://v.daum.net/v/20240131221809211</id>
+        <link href="https://v.daum.net/v/20240131221809211"/>
+        <updated>2024-01-31T14:09:55.280Z</updated>
+        <content type="html"><![CDATA[[OSEN=김예솔 기자] 이지아가 모든 것을 빼앗긴 후 흑화했다.&nbsp; 31일에 방송된 JTBC 수목드라마 '끝내주는 해결사'에서는 김사라(이지아)가 시어머니 차희원(나영희)의 계략에 빠져 이혼을 당하고 아이를 빼앗기는 모습이 그려졌다.&nbsp; 이날 김사라는 이혼 해결사로 등장해 인질로 잡힌 아이를 구출했다. 이후 2년 전 김사라의 변호사 시절 모습이 공개됐다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[로펌 며느리 이지아, 이혼 당하고 누명쓴 채 교도소行 ‘끝내주는 해결사’ 첫방]]></title>
         <id>https://v.daum.net/v/20240131220639980</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240131200003707"/>
         <updated>2024-01-31T11:09:56.931Z</updated>
         <content type="html"><![CDATA[(엑스포츠뉴스 김유진 기자) 지연과 송지은이 영화 '화녀'(감독 유영선)로 연기 활동을 재개한다. 2세대 대표 걸그룹에서 배우로 변신한 두 사람이 스릴러 속 새로운 얼굴로 관객들을 만족시킬 수 있을지 궁금증을 더한다. '화녀'는 톱 여배우가 재기를 앞두고 충격적인 살인사건에 휘말리며 벌어지는 이야기를 그린 스릴러로 지연이 나락에 떨어진 배우 수연 역을, 송]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['세번째 결혼' 오세영, 욕망의 결실... 박영운과 결혼으로 재벌가 입성]]></title>
-        <id>https://v.daum.net/v/20240131195801672</id>
-        <link href="https://v.daum.net/v/20240131195801672"/>
-        <updated>2024-01-31T11:09:56.931Z</updated>
-        <content type="html"><![CDATA[[TV리포트=이혜미 기자] ‘세 번째 결혼’ 오세영의 욕망이 결실을 맺었다. 재벌2세 박영운과의 결혼으로 드림가의 사람이 된 것. 31일 MBC ‘세 번째 결혼’에선 지훈(박영운 분)과 세란(오세영 분)의 결혼을 반대하는 요한(윤선우 분)의 모습이 그려졌다. 앞서 상철(문지후 분)을 가두고자 증거를 조작한 세란은 이를 항의하는 마리(이칸희 분)에게 “어머니]]></content>
     </entry>
 </feed>
