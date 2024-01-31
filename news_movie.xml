@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2024-01-31T10:11:02.597Z</updated>
+    <updated>2024-01-31T11:10:11.452Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김윤진 "영화 제작, 뼈를 깎는 과정…백발 될 것 같아"]]></title>
+        <id>https://v.daum.net/v/20240131195002483</id>
+        <link href="https://v.daum.net/v/20240131195002483"/>
+        <updated>2024-01-31T11:09:51.709Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 윤현지 기자) 배우 김윤진이 '도그데이즈'를 통해 제작에 참여한 소감을 전했다. 31일 오전 서울 종로구 삼청동의 한 카페에서 영화 '도그데이즈'(감독 김덕민)에 출연한 배우 김윤진의 인터뷰가 진행됐다. '도그데이즈'는 성공한 건축가와 MZ 라이더, 싱글 남녀와 초보 엄빠까지 혼자여도 함께여도 외로운 이들이 특별한 단짝을 만나 하루하루가 달라]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["배우 캐스팅 힘들어"…'도그데이즈' 김윤진, 연기→제작 발 넓혔다]]></title>
         <id>https://v.daum.net/v/20240131190024720</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240131162343297"/>
         <updated>2024-01-31T08:14:12.912Z</updated>
         <content type="html"><![CDATA[[마이데일리 = 남혜연 기자] 배우 손석구와 최우식의 만남이라니. 이름만 들어도 솔깃 하다.  여기에 OCN드라마 '타인은 지옥이'로 장르물의 퀄리티를 한 차원 높인 이창희 감독의 연출력에 기대를 한층 높였다.  &lt;살인자ㅇ난감&gt;은 우연히 살인을 시작하게 된 평범한 남자와 그를 지독하게 쫓는 형사의 이야기를 그린 넷플릭스 시리즈물. 파격적인 스토리텔링으]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[손석구→홍경 ‘댓글부대’, 3월27일 개봉]]></title>
-        <id>https://v.daum.net/v/20240131162105184</id>
-        <link href="https://v.daum.net/v/20240131162105184"/>
-        <updated>2024-01-31T08:14:12.913Z</updated>
-        <content type="html"><![CDATA[손석구가 열혈 기자로 변신한다. 신작 ‘댓글부대’를 통해서다. 배급사 에이스메이커무비웍스는 온라인 여론 조작 소재를 다룬 영화 ‘댓글부대’가 오는 3월 27일 개봉한다고 31일 밝혔다. ‘댓글부대’는 대기업에 대한 기사를 쓴 후 정직당한 기자 임상진에게 온라인 여론을 조작했다는 익명의 제보자가 나타나면서 벌어지는 이야기를 그린다. 영화 ‘성실한 나라의 앨리]]></content>
     </entry>
 </feed>
