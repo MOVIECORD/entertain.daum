@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2024-02-01T03:12:14.928Z</updated>
+    <updated>2024-02-01T04:14:34.144Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['아가일' 매튜 본 감독 "韓문화에 매번 감탄…'올드보이→오겜' 강렬"]]></title>
+        <id>https://v.daum.net/v/20240201131002135</id>
+        <link href="https://v.daum.net/v/20240201131002135"/>
+        <updated>2024-02-01T04:14:17.465Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 오승현 기자) '아가일' 매튜 본 감독이 한국 문화와 영화에 대한 사랑을 드러냈다.&nbsp; 1일 오전 영화 '아가일'을 연출한 매튜 본 감독의 화상 기자 간담회가 진행됐다.&nbsp; '아가일'은 자신의 스파이 소설이 현실이 되자 전 세계 스파이들의 표적이 된 작가 ‘엘리’가 위기를 벗어나기 위해 소설의 다음 챕터를 쓰고, 현실 속 레전드 요원 ‘아가일’을]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['도그데이즈' 감독 "'영웅' 함께한 정성화→김고은…전우애 느껴"]]></title>
+        <id>https://v.daum.net/v/20240201125003673</id>
+        <link href="https://v.daum.net/v/20240201125003673"/>
+        <updated>2024-02-01T04:14:17.465Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 윤현지 기자) '도그데이즈' 김덕민이 여러 작품을 함께한 배우들에게 고마움을 표현했다.&nbsp; 1일 오전 서울 종로구 삼청동의 한 카페에서 영화 '도그데이즈' 감독 김덕민의 인터뷰가 진행됐다. '도그데이즈'는 성공한 건축가와 MZ 라이더, 싱글 남녀와 초보 엄빠까지 혼자여도 함께여도 외로운 이들이 특별한 단짝을 만나 하루하루가 달라지는 갓생 스토리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["살인 미화 아닌 발칙한 상상" 최우식·손석구·이희준 '살인자 o난감'이 드러난 자신감]]></title>
+        <id>https://v.daum.net/v/20240201123302461</id>
+        <link href="https://v.daum.net/v/20240201123302461"/>
+        <updated>2024-02-01T04:14:17.467Z</updated>
+        <content type="html"><![CDATA[[텐아시아=이하늘 기자] '살인자 o난감'은 꼬마비 작가의 동명의 웹툰을 제대로 잘 그려내며 원작 팬들과 새로운 팬들을 끌어들일 수 있을까. '살인 미화가 아닌 발칙한 상상력'으로 웹툰의 여백을 채워냈다고. 평범한 대학생에서 살인자가 된 이탕 역의 최우식, 그를 쫓는 형사 장난감 역의 손석구, 의문의 추격자 송촌 역의 이희준까지. 드라마 '타인의 지옥이다]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“팝하고 트렌디한 비빔밥”…‘살인자ㅇ난감’, 전세계 입맛 사로잡을까]]></title>
+        <id>https://v.daum.net/v/20240201122130255</id>
+        <link href="https://v.daum.net/v/20240201122130255"/>
+        <updated>2024-02-01T04:14:17.468Z</updated>
+        <content type="html"><![CDATA[“팝한 연출력이다”(배우 이희준) “하이패션 같은 트렌디한 작품”(배우 손석구) “팝하고 트렌디한 매력이 맛있게 섞인 비빔밥 같은 작품이다”(배우 최우식) OTT플랫폼 넷플릭스 새 시리즈 ‘살인자ㅇ난감’(감독 이창희)으로 뭉친 배우 최우식, 손석구, 이희준이 작품에 대한 매력을 자신했다. 동명의 원작 웹툰보다 디테일 하나 하나 심도있게 배치했다며]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['살인자 o난감' 손석구 "'타인은 지옥이다' 이창희 감독의 연출이라길래 선택"]]></title>
         <id>https://v.daum.net/v/20240201121001993</id>
@@ -81,33 +109,5 @@
         <link href="https://v.daum.net/v/20240201114304719"/>
         <updated>2024-02-01T03:11:55.880Z</updated>
         <content type="html"><![CDATA[[마이데일리 = 강다윤 기자] 영화 '킹스맨' 시리즈로 잘 알려진 매튜 본 감독이 새로운 스파이물과 함꼐 돌아왔다. 스파이물에 대한 사랑과 한국에 대한 애정도 듬뿍 함께다. 1일 오전 영화 '아가일' 매튜 본 감독의 화상 기자간담회가 열렸다. 매튜 본 감독은 지난달 배우들과 함께 내한할 예정이었으나 건강상의 이유로 불참했다. '아가일'은 자신의 스파이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[티모시 샬라메의 ‘웡카’, 개봉 첫날 17만 관객 동원…초콜릿 신드롬 시작]]></title>
-        <id>https://v.daum.net/v/20240201114206663</id>
-        <link href="https://v.daum.net/v/20240201114206663"/>
-        <updated>2024-02-01T03:11:55.882Z</updated>
-        <content type="html"><![CDATA[배우 티모시 샬라메가 주연을 맡은 영화 ‘웡카’가 국내 개봉과 동시에 박스오피스 정상에 올랐다. 티모시 샬라메의 본격 초콜릿 신드롬이 일어나고 있다. 1일 영화진흥위원회 통합전산망에 따르면, ‘웡카’는 개봉 첫날인 지난달 31일 17만 9,742명의 관객을 동원했다. 이 수치는 ‘시민덕희’(6만 1,197명), ‘외계+인’ 2부(9만 4,445명), ‘위시]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['아가일' 매튜 본 감독 "英보다 韓♥…지상 최고의 치킨 나라"]]></title>
-        <id>https://v.daum.net/v/20240201113230066</id>
-        <link href="https://v.daum.net/v/20240201113230066"/>
-        <updated>2024-02-01T03:11:55.884Z</updated>
-        <content type="html"><![CDATA[아이즈 ize 김나라 기자영국 출신 매튜 본 감독이 못 말리는 한국 사랑으로 영화 '아가일'에 대한 관심을 높였다.'아가일' 측은 1일, 연출자 매튜 본 감독의 화상 기자간담회 중계 녹화 영상을 공개했다. 영상 속 매튜 본 감독은 사전에 한국 취재진으로부터 받은 다양한 질문들에 성심성의껏 답했다.해당 간담회는 앞서 매튜 본 감독이 건강상 이유로 '아가일']]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['외계+인' 2부, 해외서 터졌다..북미→대만 연이은 개봉 확정]]></title>
-        <id>https://v.daum.net/v/20240201112909849</id>
-        <link href="https://v.daum.net/v/20240201112909849"/>
-        <updated>2024-02-01T03:11:55.885Z</updated>
-        <content type="html"><![CDATA[[OSEN=하수정 기자] 대세 배우들의 시너지와 스펙터클한 액션, 독창적인 볼거리로 2024년 새해 관람객들의 입소문 열풍을 견인하고 있는 영화 '외계+인'(각본감독 최동훈, 제공배급 CJ ENM, 제작 케이퍼필름) 2부가 해외 개봉을 확정하며 영화를 향한 세계적 관심을 입증했다. 대세 배우들의 다채로운 시너지로 신년 극장가를 사로잡으며 장기 흥행을 이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["상상 그 이상"…'아가일', '킹스맨' 인기 이을까]]></title>
-        <id>https://v.daum.net/v/20240201112238438</id>
-        <link href="https://v.daum.net/v/20240201112238438"/>
-        <updated>2024-02-01T03:11:55.888Z</updated>
-        <content type="html"><![CDATA['아가일'이 '킹스맨' 시리즈의 인기를 이을 수 있을까. '킹스맨' 시리즈로 사랑받았던 매튜 본 감독은 한국 영화 팬들에게 감사 인사를 전하며 새 작품 '아가일'에 대한 기대도 당부했다. '아가일'로 돌아온 매튜 본 감독의 화상 기자 간담회는 1일 진행됐다. '아가일'은 자신의 스파이 소설이 현실이 되자 전 세계 스파이들의 표적이 된 작가 엘리가 위기를]]></content>
     </entry>
 </feed>
