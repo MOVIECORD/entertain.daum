@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2024-02-02T05:10:47.067Z</updated>
+    <updated>2024-02-02T06:13:41.843Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[넷플릭스 기대작에 등장한 유아인 '승부', 결국 공개되나]]></title>
+        <id>https://v.daum.net/v/20240202150321307</id>
+        <link href="https://v.daum.net/v/20240202150321307"/>
+        <updated>2024-02-02T06:13:23.606Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 이승길 기자] 배우 유아인 출연으로 공개가 잠정 보류된 영화 '승부'가 넷플릭스 공개 예정작 라인업(기다림이 아깝지 않은 콘텐츠)에 다시 이름을 올렸다. 공식적으로 넷플릭스는 여전히 신중한 입장이다. '승부'는 스승과 제자이자 라이벌이었던 한국 바둑의 두 전설인 조훈현(이병헌)과 이창호(유아인)의 피할 수 없는 승부를 그린 영화다. 지난해]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[무거운 짐 떠안은 부국제 박광수 이사장 "영화계 상황 어렵다"]]></title>
         <id>https://v.daum.net/v/20240202140900550</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240202110025204"/>
         <updated>2024-02-02T02:16:59.590Z</updated>
         <content type="html"><![CDATA[‘황야’ 안지혜, 이준영. (사진=넷플릭스)[이데일리 스타in 김보영 기자] 배우 마동석과 허명행 감독이 ‘범죄도시’ 시리즈에 이어 넷플릭스 영화 ‘황야’(감독 허명행)로 소중한 액션 보석 배우들을 발굴해냈다. ‘황야’에서 주인공 사냥꾼 ‘남산’(마동석 분)을 든든히 조력하는 이은호 중사와 최지완 역으로 각각 활약을 펼친 배우 안지혜와 이준영이 바로 그]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['데드풀3' 자신감..."라이언과 휴 잭맨이 '마블' 살릴 것"]]></title>
-        <id>https://v.daum.net/v/20240202105800075</id>
-        <link href="https://v.daum.net/v/20240202105800075"/>
-        <updated>2024-02-02T02:16:59.591Z</updated>
-        <content type="html"><![CDATA[[TV리포트=강성훈 기자] 영화 '킹스맨' 감독으로 유명한 매튜 본(52)이 공개 예정인 영화 '데드풀3'에 관해 자신감을 내비쳤다. 2일(현지 시간) 온라인 채널 'BroBible'에는 '매튜 본 인터뷰-'데드풀3'는 마블을 구할 것이다'라는 제목의 영상이 올라왔다.&nbsp; 매튜 본은 "믿을 수 없는 일이다. 라이언 레이놀즈와 휴 잭맨은 마블 세계 전체를 구하]]></content>
     </entry>
 </feed>
