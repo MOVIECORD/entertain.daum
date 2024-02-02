@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2024-02-02T03:11:59.126Z</updated>
+    <updated>2024-02-02T04:13:40.171Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[드니 빌뇌브 감독 “‘듄:파트3’ 각본 작업중, 시리즈 마지막” 선언]]></title>
+        <id>https://v.daum.net/v/20240202130945767</id>
+        <link href="https://v.daum.net/v/20240202130945767"/>
+        <updated>2024-02-02T04:13:19.192Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]드니 빌뇌브 감독이 ‘듄:파트3’ 각본을 쓰고 있다고 밝혔다. 그는 1일(현지시간) 시사주간지 ‘타임’과 인터뷰에서 “‘듄:메시아’가 내게는 마지막 ‘듄’ 영화가 될 것이다”라고 말했다. ‘듄:파트2’ 개봉을 앞두고 있는 빌뇌브 감독은 “내가 드러나지 않으려고 노력했다”면서 “원작소설의 시, 분위기, 색감, 냄새 등 내가]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[소녀시대 권유리 첫 스크린 단독 주연 '돌핀', 3월 개봉 확정]]></title>
         <id>https://v.daum.net/v/20240202120047707</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240202103147971"/>
         <updated>2024-02-02T01:43:17.377Z</updated>
         <content type="html"><![CDATA[[스포츠서울 | 함상범 기자] 넷플릭스 오리지널 ‘성난사람들’(Beef)을 연출한 이성진 감독이 에미상에서 8관왕을 받은 소감을 전했다. 넷플릭스 오리지널 ‘성난사람들’의 주인공 스티븐 연과 연출을 맡은 이성진 감독은 2일 오전 10시 화상 인터뷰에 참석했다. 이성진 감독은 “에미상 8관왕을 받은 후 일상이 궁금하다”는 질문을 받았다. ‘성난 사람들’]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[소녀시대 권유리 단독 주연 됐다‥영화 ‘돌핀’ 3월 개봉]]></title>
-        <id>https://v.daum.net/v/20240202102829827</id>
-        <link href="https://v.daum.net/v/20240202102829827"/>
-        <updated>2024-02-02T01:43:17.378Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 배효주 기자] 권유리 주연 영화 '돌핀'이 3월 개봉한다. 영화 '돌핀'(감독 배두리)은 지방 소도시를 떠나본 적 없는 30대 여성이 삶의 낯선 변화와 작은 도전을 마주하며 겪는 내밀한 이야기를 담은 작품이다. 지난해 전주국제영화제를 시작으로 서울독립영화제, 무주산골영화제, 캐나다 벤쿠버아시아영화제 등 국내외 유수 영화제에 초청되며 주목받았다.]]></content>
     </entry>
 </feed>
