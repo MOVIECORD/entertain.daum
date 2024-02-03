@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2024-02-03T00:46:15.066Z</updated>
+    <updated>2024-02-03T01:40:22.707Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[참신한 액션신만으로 충분...오락영화 본질 집중한 '아가일']]></title>
+        <id>https://v.daum.net/v/20240203100011909</id>
+        <link href="https://v.daum.net/v/20240203100011909"/>
+        <updated>2024-02-03T01:40:02.190Z</updated>
+        <content type="html"><![CDATA[(MHN스포츠 장민수 기자) 스파이물에 기대하는 현란하고 참신한 액션신. 영화 '아가일'에서 확인할 수 있다. '아가일'은 자신의 스파이 소설이 현실이 되자 전 세계 스파이들의 표적이 된 작가 엘리가 위기를 벗어나기 위해 소설의 다음 챕터를 쓰고, 현실 속 레전드 요원 아가일을 찾아가는 액션 블록버스터다. '킹스맨' 시리즈 매튜 본 감독의 작품이다]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['도그데이즈', 뻔하지만 설 가족영화로는 안성맞춤]]></title>
+        <id>https://v.daum.net/v/20240203100008903</id>
+        <link href="https://v.daum.net/v/20240203100008903"/>
+        <updated>2024-02-03T01:40:02.191Z</updated>
+        <content type="html"><![CDATA[아이즈 ize 정수진(칼럼니스트)'노느니 개 팬다'는 말을 자주 입에 올렸던 때가 있었다. 아무것도 안 하고 빈둥대는 것보단 뭐라도 하는 게 낫다는 뜻인데, 이 말을 입에 담을 때마다 개를 키우는 지인들은 질색팔색하며 나무라곤 했다. 그냥 속담 같은 말인데 왜 저렇게 정색하지 싶었지만, 개를 키우는 지금은 내게도 금기어가 됐다. '도그데이즈'는 '노느니 개]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['웡카' 3일째 1위·누적 35만…'시민덕희' 2위]]></title>
         <id>https://v.daum.net/v/20240203085601237</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240203010031489"/>
         <updated>2024-02-02T16:12:29.332Z</updated>
         <content type="html"><![CDATA[[TV리포트=김연주 기자] 신선한 소재와 각양각색 캐릭터의 향연으로 설 연휴 극장가 강렬한 장르 영화 탄생을 예고하는 범죄 추적극 '데드맨'의 제작기 영상이 공개됐다.&nbsp; 영화 '데드맨'은 이름값으로 돈을 버는 일명 바지사장계의 에이스가 1000억 횡령 누명을 쓰고 '죽은 사람'으로 살아가게 된 후, 이름 하나로 얽힌 사람들과 빼앗긴 인생을 되찾기 위해 추적]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[티모시 샬라메 '웡카', 3일 연속 1위…35만↑ 동원]]></title>
-        <id>https://v.daum.net/v/20240203001235132</id>
-        <link href="https://v.daum.net/v/20240203001235132"/>
-        <updated>2024-02-02T16:12:29.337Z</updated>
-        <content type="html"><![CDATA[[OSEN=김보라 기자]&nbsp;영화 ‘웡카’가 3일 연속 박스오피스 1위에 올랐다. 3일 영화진흥위원회 영화관입장권 통합전산망 집계를 보면 ‘웡카’는 전날(2일) 9만 2005명이 관람해 일별 박스오피스 1위를 차지했다. 지난달 31일 개봉해 3일째 1위다. ‘웡카’(감독 폴 킹, 수입배급 워너브러더스 코리아㈜)는 가진 것은 달콤한 꿈과 낡은 모자 뿐인 윌리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[봉준호→마동석 온다…청룡의 해, 천만작 또 터질까]]></title>
-        <id>https://v.daum.net/v/20240202220922263</id>
-        <link href="https://v.daum.net/v/20240202220922263"/>
-        <updated>2024-02-02T13:10:47.188Z</updated>
-        <content type="html"><![CDATA[[OSEN=김보라 기자]&nbsp;‘푸른 용의 해’인 올해 천만 관객 돌파가 전망되는 감독들의 영화가 관객을 만난다. 바로 봉준호 감독과 류승완 감독이 그 주인공이다. 두 편이 각각 5월~6월과 하반기에 개봉을 앞두고 있어 벌써부터 누적 관객수에 관심이 쏠리고 있다. 또한 배우 마동석이 출연하고 제작한 범죄 액션 시리즈 영화 ‘범죄도시4’도 개봉할 예정이어서 여]]></content>
     </entry>
 </feed>
