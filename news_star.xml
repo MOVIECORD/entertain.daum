@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2024-02-03T03:13:14.961Z</updated>
+    <updated>2024-02-03T04:12:26.859Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[제로베이스원 측 "허위 제작물 작성·유포, 선처 없이 법적 대응" 경고]]></title>
+        <id>https://v.daum.net/v/20240203125748542</id>
+        <link href="https://v.daum.net/v/20240203125748542"/>
+        <updated>2024-02-03T04:12:21.582Z</updated>
+        <content type="html"><![CDATA[[스포츠한국 신영선 기자] 그룹 제로베이스원(ZEROBASEONE) 측이 허위 제작물 유포 등에 법적 대응을 예고했다. 3일 소속사 웨이크원은 공식입장을 통해 "최근 온라인 커뮤니티 및 SNS를 통해 당사 소속 아티스트에 대한 허위 제작물이 무분별하게 유포되고 있다"라고 밝혔다. 이어 "당사는 아티스트의 인격권 및 사생활을 침해하고 안전을 위협]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[제로베이스원 김지웅, 팬사인회 도중 욕설?…웨이크원 "사실 아니다"]]></title>
         <id>https://v.daum.net/v/20240203121203253</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240203112113788"/>
         <updated>2024-02-03T03:13:09.625Z</updated>
         <content type="html"><![CDATA[[스포티비뉴스=김현록 기자]'재벌X형사' 안보현이 돈 앞에서 인간성을 상실한 '나쁜 재벌'을 제대로 응징하며 대형 사이다를 안겼다. 지난 2일에 방송된 SBS 금토드라마 '재벌X형사'(극본 김바다, 연출 김재홍, 제작 스튜디오S 빅오션이엔엠 비에이 엔터테인먼트) 3화에서는 재벌형사 진이수(안보현)가 경찰 부임 후 첫 번째 사건인 '요트 살인사건'을 완]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['국민 남매' 이효리X유재석, 예능방송인 브랜드 평판 1∙2위..'대상' 탁재훈 3위]]></title>
-        <id>https://v.daum.net/v/20240203112021774</id>
-        <link href="https://v.daum.net/v/20240203112021774"/>
-        <updated>2024-02-03T03:13:09.626Z</updated>
-        <content type="html"><![CDATA[[OSEN=최이정 기자]&nbsp;예능방송인 브랜드평판&nbsp;2024년&nbsp;2월 빅데이터 분석결과, 1위&nbsp;이효리&nbsp;2위 유재석&nbsp;3위 탁재훈 순으로 분석됐다.&nbsp; 한국기업평판연구소는&nbsp;2024년&nbsp;1월&nbsp;3일부터&nbsp;2024년&nbsp;2월&nbsp;3일까지의 예능방송인&nbsp;50명의 브랜드 빅데이터&nbsp;46,528,313개를 분석하여 소비자들의 예능 방송인 브랜드 참여량,&nbsp;미디어량과 소비자의 참여와 소통량,]]></content>
     </entry>
 </feed>
