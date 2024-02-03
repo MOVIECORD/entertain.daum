@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-02-03T06:12:32.819Z</updated>
+    <updated>2024-02-03T07:10:10.746Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['LTNS' 안재홍 "'사랑은 두 개까지야' 대사, 몰입도 높여···이학주에 감사"]]></title>
+        <id>https://v.daum.net/v/20240203160016014</id>
+        <link href="https://v.daum.net/v/20240203160016014"/>
+        <updated>2024-02-03T07:09:58.374Z</updated>
+        <content type="html"><![CDATA[[서울경제] 티빙 오리지널 시리즈 'LTNS' 출연 배우 안재홍이 1화에 특별 출연한 이학주에 대한 고마움을 전했다. 1일 서울 종로구 삼청동 모처에서 서울경제스타와 만난 안재홍은 최근 티빙에서 공개된 오리지널 시리즈 'LTNS'와 관련한 다양한 이야기를 나눴다. 'LTNS'는 우진(이솜)과 사무엘(안재홍)이 돈을 벌기 위해 불륜 커플들의 뒤를 쫓으며]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['고거전', '연인' 넘은 '밤피꽃' 흥행에 반격 성공할까]]></title>
+        <id>https://v.daum.net/v/20240203153503831</id>
+        <link href="https://v.daum.net/v/20240203153503831"/>
+        <updated>2024-02-03T07:09:58.374Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 | 이경호 기자] KBS 2TV 대하드라마 '고려거란전쟁', MBC 금토드라마 '밤에 피는 꽃'./사진=KBS 2TV 대하드라마 '고려거란전쟁', MBC 금토드라마 '밤에 피는 꽃'판이 뒤집혔다. '고려거란전쟁'이 주춤한 사이, '밤에 피는 꽃'이 제대로 치고 올라왔다. 이에 '고려거란전쟁'의 어떤 전개로 반격을 할지 관심이 쏠리고 있다. MB]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[잘 나가다 암초 만난 김동준, 과거 최수종 연기에 답이 있다]]></title>
         <id>https://v.daum.net/v/20240203145933551</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240203113633912"/>
         <updated>2024-02-03T03:13:00.766Z</updated>
         <content type="html"><![CDATA[[OSEN=장우영 기자] ‘고려거란전쟁’의 김은부가 참수형 위기에 처한다. 3일 밤 방송되는 공영방송 50주년 특별 기획 KBS2 대하드라마 ‘고려거란전쟁’(극본 이정우, 연출 전우성 김한솔 서용수, 제작 몬스터유니온, 비브스튜디오스) 23회에서는 고려 사신 자격으로 홀로 거란에 간 김은부(조승연)가 참수형에 처할 위기에 놓인다. 앞서 거란 상경에 도착]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['세작' 조정석, 살아 돌아온 신세경과 3년만 재회..폭풍전야]]></title>
-        <id>https://v.daum.net/v/20240203113302890</id>
-        <link href="https://v.daum.net/v/20240203113302890"/>
-        <updated>2024-02-03T03:13:00.767Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 | 김나연 기자] 조정석 신세경 / 사진=tvN 세작, 매혹된 자들'세작, 매혹된 자들' 조정석과 신세경의 3년만 재회가 포착된 가운데 흑화한 임금과 각성한 세작으로 만난 두 사람이 날카롭게 충돌한다. 넷플릭스 론칭 일주일 만에 730만 시청 시간, 150만 시청수를 기록, TV 비영어 부문 글로벌 TOP10(1월 22일~1월 28일 기준)에]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['재벌X형사' 이달, 재벌집 막내 아들 등장..악랄 빌런 활약]]></title>
-        <id>https://v.daum.net/v/20240203113151884</id>
-        <link href="https://v.daum.net/v/20240203113151884"/>
-        <updated>2024-02-03T03:13:00.767Z</updated>
-        <content type="html"><![CDATA[[OSEN=장우영 기자] 배우 이달이 '재벌X형사'서 악랄한 재벌가 막내아들로 변신해 미친 존재감을 드러냈다. 지난 2일 방송된 SBS 금토드라마 '재벌X형사'(극본 김바다, 연출 김재홍, 제작 스튜디오S, 빅오션이엔엠, 비에이 엔터테인먼트)에서 이달은 극 중 '요트 살인사건'의 유력 용의자이자, 재벌그룹 DN미디어의 막내아들인 '천태성' 역으로 변신해]]></content>
     </entry>
 </feed>
