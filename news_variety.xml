@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/variety</id>
     <title>다음 연예 ─ 뉴스 ─ 예능</title>
-    <updated>2024-02-05T10:12:24.553Z</updated>
+    <updated>2024-02-05T11:09:28.755Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['나솔' 16기 돌싱 옥순, 100억 금수저 자랑하더니..'보살팅' 출격]]></title>
+        <id>https://v.daum.net/v/20240205195422061</id>
+        <link href="https://v.daum.net/v/20240205195422061"/>
+        <updated>2024-02-05T11:09:17.701Z</updated>
+        <content type="html"><![CDATA[[OSEN=박소영 기자]&nbsp;‘나는 솔로’ 16기 옥순이 보살팅에 떴다.&nbsp; 5일 밤 8시 30분 KBS Joy ‘무엇이든 물어보살’ 253회에는 보살집을 방문한 8명의 쏠남 쏠녀들의 더욱 치열해진 사랑싸움으로 설렘 폭발한 2024 보살팅 시즌 5가 방송될 예정이다. 나는 솔로 16기 옥순, 미국에서 온 키 183cm 장신 여성, 주식 리딩방 사진 도용남,]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘한 번쯤 이혼할 결심’ 측, 아동학대 논란 해명 “전문가와 충분한 상담”]]></title>
         <id>https://v.daum.net/v/20240205190919483</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240205170101625"/>
         <updated>2024-02-05T08:13:46.324Z</updated>
         <content type="html"><![CDATA[[텐아시아=류예지 기자]&lt;&lt;류예지의 예지력&gt;&gt; 류예지 텐아시아 기자가 연예계의 미래와 그 파급력을 꿰뚫어봅니다. 대상, 신인상, 베스트커플상 등 지난해 연말 시상식에서 무려 7관왕을 차지한 '태계일주3' 팀의 마무리가 다소 아쉽다. 나쁘지 않은 시청률로 산뜻하게 출발했었던 것과 달리 회를 거듭할수록 반응에 비례하지 않은 시청률로 아쉬움을 남겼다. 지]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김종민, 결혼설에 입 열었다…"올해 9월 말? 정해주면 그때 갈 것"]]></title>
-        <id>https://v.daum.net/v/20240205164505954</id>
-        <link href="https://v.daum.net/v/20240205164505954"/>
-        <updated>2024-02-05T08:13:46.325Z</updated>
-        <content type="html"><![CDATA[[텐아시아=태유나 기자] KBS2 예능 '1박 2일'이 역사의 도시 경상북도 문경에서 떡국을 먹기 위한 빅매치를 벌였다.&nbsp; 지난 4일 방송된 '1박 2일 시즌4'(이하 '1박 2일')에서는 '겨울 네 컷' 마지막 이야기와 문경 편 첫 번째 이야기가 그려졌다. 이날 방송 시청률은 8.5%를 기록했다. 마지막 빨래집게 복불복 게임에서 문세윤과 김종민이 마지]]></content>
     </entry>
 </feed>
