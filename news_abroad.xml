@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2024-02-05T21:09:44.851Z</updated>
+    <updated>2024-02-05T22:11:02.665Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[테일러 스위프트가 셀린 디온 무시했다?..'그래미' 파티서 사과했나]]></title>
+        <id>https://v.daum.net/v/20240206063021577</id>
+        <link href="https://v.daum.net/v/20240206063021577"/>
+        <updated>2024-02-05T22:11:02.077Z</updated>
+        <content type="html"><![CDATA[[OSEN=박소영 기자]&nbsp;테일러 스위프트가 제66회 그래미 어워즈에서 올해의 앨범상을 거머쥔 가운데 난데없이 셀린 디온을 무시했다는 비난에 직면했다. 하지만 애프터 파티에서 보란듯이 다정한 투샷을 남기며 대선배를 향한 존경을 표했다.&nbsp; 테일러 스위프트는 4일(현지시각) 미국 로스앤젤레스 크립토닷컴 아레나에서 진행된 ‘제66회 그래미 어워즈’에서 엔딩인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["비욘세는 한 번도…" 그래미 비판한 제이지, 트로피를 술잔으로]]></title>
         <id>https://v.daum.net/v/20240206051707777</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240205153754948"/>
         <updated>2024-02-05T07:11:19.675Z</updated>
         <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]‘탑건:매버릭’의 톰 크루즈(61)가 헬리콥터를 타고 런던에 도착하는 모습이 포착됐다. 연예매체 저스트 자레드는 지난 3일(현지시간) 톰 크루즈가 헬리콥터를 타고 영국 런던의 배터시 헬기장에 착륙하는 모습이 목격됐다고 보도했다. 이 매체는 “긴팔 검은색 셔츠 바지에 스포티한 신발을 신은 캐주얼한 차림의 크루즈는 헬리콥]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[마일리 사이러스, 올해의 레코드까지 수상 “모두가 특별해”]]></title>
-        <id>https://v.daum.net/v/20240205152523269</id>
-        <link href="https://v.daum.net/v/20240205152523269"/>
-        <updated>2024-02-05T07:11:19.678Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 이민지 기자] 마일리 사이러스가 첫 그래미에 행복한 소감을 밝혔다. 2월 4일(현지시간) 미국 로스앤젤레스 크립토닷컴 아레나에서 진행된 '제66회 그래미 어워드'에서 마일리 사이러스가 'Flowers'로 올해의 레코드를 수상했다. 이날 베스트 팝 솔로 퍼포먼스로 생애 첫 그래미 트로피를 품에 안은 마일리 사이러스는 제너럴 부문 중 하나인 올해의]]></content>
     </entry>
 </feed>
