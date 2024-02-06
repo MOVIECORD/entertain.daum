@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2024-02-06T18:12:13.039Z</updated>
+    <updated>2024-02-06T19:09:25.921Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“이해 안 되면 ‘괴물’로 치부하는 시대, 아이들이 보고 있어”]]></title>
+        <id>https://v.daum.net/v/20240207040434754</id>
+        <link href="https://v.daum.net/v/20240207040434754"/>
+        <updated>2024-02-06T19:09:21.030Z</updated>
+        <content type="html"><![CDATA[일본 거장 고레에다 히로카즈 감독의 영화 ‘괴물’이 국내에서 50만 관객을 돌파하며 비(非) 상업영화로는 이례적인 흥행 기록을 세우고 있다. 영화의 흥행 감사 인사차 한국을 찾은 고레에다 감독은 5일 서울 강남구 영화배급사 NEW 사옥에서 가진 인터뷰에서 “완성된 영화를 보고 함께 작업한 사람들이 정말 잘 해냈다는 것을 실감했다. 무엇보다 이야기와 전개]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김대호, 예능인 다 됐네... 혹한기 얼음물 입수 성공]]></title>
         <id>https://v.daum.net/v/20240207003701013</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240206232943183"/>
         <updated>2024-02-06T15:11:06.030Z</updated>
         <content type="html"><![CDATA[[마이데일리 = 이예주 기자] 배우 안재홍이 또다시 '은퇴설'을 불러올 전망이다. 이번엔 류승룡과 함께다. 6일 넷플릭스는 공식 유튜브 계정을 통해 2024년 신작 라인업을 공개했다. 작품 별 짧은 예고 영상도 첨부했다.  예고 영상들 중 가장 먼저 등장한 것은 '닭강정'의 티저였다. 1분기 공개 예정인 '닭강정'은 의문의 기계에 들어갔다 닭강정으로 변]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[마이진, 윤수현 밀어내고 1위 탈환…'현역가왕' 결승]]></title>
-        <id>https://v.daum.net/v/20240206232723167</id>
-        <link href="https://v.daum.net/v/20240206232723167"/>
-        <updated>2024-02-06T15:11:06.031Z</updated>
-        <content type="html"><![CDATA[(서울=뉴스1) 박하나 기자 = '현역가왕' 마이진이 윤수현을 밀어내고 중간 1위를 차지했다. 6일 오후에 방송된 MBN 예능 프로그램 '현역가왕'에서는 국가대표 TOP7을 가리는 대망의 결승 1차전이 펼쳐졌다. 앞서 준결승을 통해 전유진, 김다현, 박혜신, 마이진, 린, 강혜연, 별사랑, 윤수현, 마리아, 김양이 TOP10에 오르며 결승전에 오른 가운]]></content>
     </entry>
 </feed>
