@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/variety</id>
     <title>다음 연예 ─ 뉴스 ─ 예능</title>
-    <updated>2024-02-06T19:09:25.943Z</updated>
+    <updated>2024-02-06T20:11:23.953Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['할미넴' 김영옥 "'힙합 오디션 섭외 0순위…올미다' 덕에 탄생"]]></title>
+        <id>https://v.daum.net/v/20240207051004302</id>
+        <link href="https://v.daum.net/v/20240207051004302"/>
+        <updated>2024-02-06T20:11:13.030Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 이창규 기자) '금쪽상담소' 김영옥이 자신의 별명 '할미넴'의 탄생 비화를 언급했다. 6일 방송된 채널A '오은영의 금쪽상담소'에는 배우 김영옥이 게스트로 출연했다. 나는 평소에 오은영 박사를 너무 존경하고, 오은영 박사를 보고싶은 것도 90%였다. 여러분들도 많이 뵈었고, 이 프로그램도 많이 봤다"고 말했다. 정형돈은 "고객님의 매력을 알아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["왜 여기서 발달장애子 키우냐" 오윤아, 이웃 막말에 단독주택 이사]]></title>
         <id>https://v.daum.net/v/20240207004039040</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240206233006185"/>
         <updated>2024-02-06T15:11:01.331Z</updated>
         <content type="html"><![CDATA[[마이데일리 = 박서연 기자] 방송인 전현무가 '나는 솔로' 10기 정숙의 고백에 표정관리 못한 것에 대해 사과했다.  6일 방송된 SBS '강심장VS'는 '빛이 나는 솔로' 특집으로 꾸며져 배우 배종옥, 오윤아, 이호철, 모델 송해나, SBS플러스·ENA '나는 솔로' 10기 정숙 최명은이 게스트로 출연했다. 앞서 10기 정숙은 지난해 12월 '202]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[량현량하 량하, 결혼 서바이벌서 0표 굴욕…"작아지는 느낌"]]></title>
-        <id>https://v.daum.net/v/20240206232857182</id>
-        <link href="https://v.daum.net/v/20240206232857182"/>
-        <updated>2024-02-06T15:11:01.332Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 정민경 기자) 결혼 서바이벌 '커플 팰리스'에 량현량하 멤버 김량하가 등장했다. 6일 방송된 Mnet '커플팰리스'에서는 대규모 매칭쇼 '스피드 트레인'이 계속됐다. '스피드 트레인'에서는 남녀별 결혼의 조건과 스펙, 외모가 공개되며, 마음에 드는 한 명에게 '픽' 버튼을 누를 수 있다. 14번 남성은 '컴백해도 이해해 주길 원해요'라는 독특]]></content>
     </entry>
 </feed>

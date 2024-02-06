@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2024-02-06T19:09:25.921Z</updated>
+    <updated>2024-02-06T20:11:23.965Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[설운도, 린에 "트로트 계속 할겁니까?"…'현역가왕' 결승 돌직구]]></title>
+        <id>https://v.daum.net/v/20240207051002300</id>
+        <link href="https://v.daum.net/v/20240207051002300"/>
+        <updated>2024-02-06T20:11:18.263Z</updated>
+        <content type="html"><![CDATA[(서울=뉴스1) 박하나 기자 = 가수 설운도가 '현역가왕'에 출전한 가수 린에게 조언을 건넸다. 지난 6일 오후에 방송된 MBN 예능 프로그램 '현역가왕'에서는 국가대표 TOP7을 가리는 대망의 결승전이 펼쳐졌다. 앞서 준결승을 통해 전유진, 김다현, 박혜신, 마이진, 린, 강혜연, 별사랑, 윤수현, 마리아, 김양이 TOP10에 오르며 결승전에 진출했다]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김영옥 "손자, 음주 운전 사고로 하반신 마비…8년째 돌보는 중"]]></title>
+        <id>https://v.daum.net/v/20240207045001973</id>
+        <link href="https://v.daum.net/v/20240207045001973"/>
+        <updated>2024-02-06T20:11:18.263Z</updated>
+        <content type="html"><![CDATA[(서울=뉴스1) 박하나 기자 = 배우 김영옥이 '금쪽 상담소'에 출연해 교통사고로 다친 손자의 사연을 전했다. 지난 6일 오후 8시 10분에 방송된 채널A '오은영의 금쪽 상담소'('금쪽 상담소')에서는 데뷔 67년 차 대한민국 현역 최고령 여배우 김영옥의 고민이 담겼다. 영화 '소풍' 개봉을 앞둔 김영옥은 67년간 200여편이 넘는 작품을 기록한 연기]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“이해 안 되면 ‘괴물’로 치부하는 시대, 아이들이 보고 있어”]]></title>
         <id>https://v.daum.net/v/20240207040434754</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240206233521227"/>
         <updated>2024-02-06T15:11:06.026Z</updated>
         <content type="html"><![CDATA[[OSEN=김수형 기자] 건강이상설 해프닝이 있었던 고지용이 또 한 번 오랜만에 근황을 전했다. 여전히 마른 모습이긴 하지만 건강하다는 근황을 강조했다. 5일 'Studio엔N' 채널에는 "고지용이돌아왔다! 술먹방 아님 주의"라는 제목의 영상이 업로드 됐다.공개된&nbsp;영상 속에서&nbsp;고지용이 첫 미팅현장을 공개한 것. 특히 이날 지난해 화제가 됐던 그의 건강이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["컴백해도 이해해 주길" 남자 14번 정체는 량현량하였다]]></title>
-        <id>https://v.daum.net/v/20240206233300201</id>
-        <link href="https://v.daum.net/v/20240206233300201"/>
-        <updated>2024-02-06T15:11:06.028Z</updated>
-        <content type="html"><![CDATA[[TV리포트=이지민 기자] '커플팰리스' 량현량하가 초대형 결혼 서바이벌에 등장해 시선을 모았다. 6일 Mnet 예능 프로그램 '커플팰리스'에서는 대규모 매칭쇼 '스피드 트레인'이 지난주에 이어 계속됐다. '스피드 트레인'에서는 남녀별 결혼의 조건과 스펙, 외모가 공개되며, 마음에 드는 한 명에게 '픽' 버튼을 누를 수 있는 방식으로 진행됐다. 이날]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['은퇴설' 부른 안재홍, 이번엔 닭강정 부여잡고 오열한다…'열연 행보'ing]]></title>
-        <id>https://v.daum.net/v/20240206232943183</id>
-        <link href="https://v.daum.net/v/20240206232943183"/>
-        <updated>2024-02-06T15:11:06.030Z</updated>
-        <content type="html"><![CDATA[[마이데일리 = 이예주 기자] 배우 안재홍이 또다시 '은퇴설'을 불러올 전망이다. 이번엔 류승룡과 함께다. 6일 넷플릭스는 공식 유튜브 계정을 통해 2024년 신작 라인업을 공개했다. 작품 별 짧은 예고 영상도 첨부했다.  예고 영상들 중 가장 먼저 등장한 것은 '닭강정'의 티저였다. 1분기 공개 예정인 '닭강정'은 의문의 기계에 들어갔다 닭강정으로 변]]></content>
     </entry>
 </feed>
