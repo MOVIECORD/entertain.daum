@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-02-06T01:42:23.966Z</updated>
+    <updated>2024-02-06T02:16:45.037Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이이경♥송하윤 결혼시켰더니 보아가…'내남결', 최고 14.1% 기염]]></title>
+        <id>https://v.daum.net/v/20240206105002030</id>
+        <link href="https://v.daum.net/v/20240206105002030"/>
+        <updated>2024-02-06T02:16:30.112Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 조혜진 기자) '내남결' 박민영이 운명 체인지와 동시에 새로운 고난을 맞이했다. 이날 방송은 또 한 번 자체 최고 시청률을 경신하며 인기를 입증했다. 5일 방송된 tvN 월화드라마 '내 남편과 결혼해줘'(극본 신유담, 연출 박원국 한진선, 이하 '내남결') 11회에서는 드디어 박민환(이이경 분)과 정수민(송하윤)을 성공적으로 결혼시키고 행복한]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘내남결’ 오늘 10분 빨리 본다..아시안컵 현장 중계로 편성 변경]]></title>
         <id>https://v.daum.net/v/20240206103921442</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240206091109435"/>
         <updated>2024-02-06T00:45:20.710Z</updated>
         <content type="html"><![CDATA[[OSEN=연휘선 기자] ‘밤에 피는 꽃’의 김상중이 극을 압도하는 최강 빌런으로 등극했다. 김상중은 최근 MBC 금토드라마 ‘밤에 피는 꽃’에서 조선 건국 이래 최고의 명재상 칭송을 받는 좌의정 ‘석지성’으로 분해 범접 불가 포스를 내뿜고 있다. 조정에서는 현명하고 너그러우며, 집안에서는 온화한 면모를 지녔던 지성이 서서히 민낯을 드러내면서 극적 긴장]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[전종서 문상민 ‘웨딩 임파서블’ 티저 공개…플러팅 설렘 주의]]></title>
-        <id>https://v.daum.net/v/20240206090440217</id>
-        <link href="https://v.daum.net/v/20240206090440217"/>
-        <updated>2024-02-06T00:45:20.712Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 김명미 기자] 전종서와 문상민이 로맨틱 미션의 노선을 변경한다. 2월 26일 첫 방송될 tvN 새 월화드라마 ‘웨딩 임파서블’(극본 박슬기, 오혜원/ 연출 권영일/ 기획 스튜디오드래곤/ 제작 스튜디오329)에서 예비 형수 나아정(전종서 분)을 향한 예비 시동생 이지한(문상민 분)의 달콤한 선전포고가 담긴 설렘주의 티저 영상을 공개, 두 사람의 관]]></content>
     </entry>
 </feed>
