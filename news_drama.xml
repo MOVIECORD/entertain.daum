@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-02-06T20:11:23.959Z</updated>
+    <updated>2024-02-06T21:10:34.403Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['내남결' 박민영, 위기 연속..나인우 교통사고→보아 청부살인 예고]]></title>
+        <id>https://v.daum.net/v/20240207061001164</id>
+        <link href="https://v.daum.net/v/20240207061001164"/>
+        <updated>2024-02-06T21:10:19.019Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 | 이경호 기자] tvN 월화드라마 '내 남편과 결혼해줘'./사진=tvN 월화드라마 '내 남편과 결혼해줘' 방송 화면 캡처 '내 남편과 결혼해줘'에서 박민영이 위기에 빠졌다. 지난 6일 방송된 tvN 월화드라마 '내 남편과 결혼해줘' 12회에서는 강지원(박민영 분)에게 시련이 찾아왔다. 유지혁(나인우 분)과 관계가 삐걱거렸다. 이날 방송에]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['내남결' 나인우, 박민영 대신 교통사고..'前 약혼녀' 보아 악행 시작]]></title>
         <id>https://v.daum.net/v/20240206222345651</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240206184910977"/>
         <updated>2024-02-06T10:11:54.775Z</updated>
         <content type="html"><![CDATA[[스타뉴스 | 이경호 기자] 티빙 오리지널 시리즈 '피라미드 게임'에 출연한 장다아./사진=유튜브 채널 'TVING'에 공개된 '피라미드 게임' 티저 예고편 영상 캡처 '피라미드 게임'이 드디어 베일을 벗으면서 '장원영 언니'로 알려진 장다아의 등장이 이목을 끌었다. 오는 29일 공개되는 티빙 오리지널 시리즈 '피라미드 게임'(연출 박소연, 극본 최수이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘내 남편과 결혼해줘’ 이이경♥︎송하윤 결혼→보아 등판..본격 2막 시작]]></title>
-        <id>https://v.daum.net/v/20240206184635935</id>
-        <link href="https://v.daum.net/v/20240206184635935"/>
-        <updated>2024-02-06T10:11:54.775Z</updated>
-        <content type="html"><![CDATA[[OSEN=김채연 기자] ‘내 남편과 결혼해줘’ 박민영이 자신의 운명을 바꿨다. 이이경과 송하윤이 결혼식을 올리며 복수에 성공한 것. 그러나 넘어야할 산은 아직도 남아있었다. 지난 5일 방송된 tvN 월화드라마 ‘내 남편과 결혼해줘’에서는 박민환(이이경 분)과 정수민(송하윤 분)의 결혼식이 전파를 탔다.&nbsp; 이날 강지원(박민영 분)은 과거 자신의 결혼식이]]></content>
     </entry>
 </feed>
