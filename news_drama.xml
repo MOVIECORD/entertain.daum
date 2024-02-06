@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-02-06T10:12:09.982Z</updated>
+    <updated>2024-02-06T11:09:32.244Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['세번째 결혼' 박영운, 오세영 불륜 과거 알았다.. 뺨 때리며 "나가!"]]></title>
+        <id>https://v.daum.net/v/20240206195000077</id>
+        <link href="https://v.daum.net/v/20240206195000077"/>
+        <updated>2024-02-06T11:09:16.194Z</updated>
+        <content type="html"><![CDATA[[TV리포트=이혜미 기자] 오승아가 박영운에게 오세영과 문지후의 과거 불륜 관계를 폭로했다. 6일 MBC ‘세 번째 결혼’에선 다정(오승아 분)과 상철(문지후 분)을 통해 과거 세란(오세영 분)이 불륜녀였음을 알고 분노하는 지훈(박영운 분)의 모습이 그려졌다. 이날 세란은 덕수(안내상 분)의 납골당까지 찾아가 “네가 어떻게 살아서 미국에 갔고 아버님과 결혼]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[송하윤 뺨치는 최강 빌런? ‘내남결’ 보아의 어깨가 무겁다]]></title>
         <id>https://v.daum.net/v/20240206191012396</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240206153152916"/>
         <updated>2024-02-06T07:09:54.725Z</updated>
         <content type="html"><![CDATA[[뉴스엔 이하나 기자] tvN X TVING 프로젝트 ‘O'PENing(오프닝)’ 시리즈 ‘그랜드 샤이닝 호텔’ 이지훈의 두 얼굴이 포착됐다. 참신한 시도가 돋보이는 신인 작가 작품으로 구성된 tvN x TVING 드라마 공동 프로젝트 ‘O'PENing(오프닝)’ 시리즈(기획 CJ ENM/제작 스튜디오드래곤)에서 선보이는 ‘그랜드 샤이닝 호텔’(극본 박세]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[상승세 '닥터슬럼프'…'일타'·'동백꽃'과 닮았다]]></title>
-        <id>https://v.daum.net/v/20240206153014832</id>
-        <link href="https://v.daum.net/v/20240206153014832"/>
-        <updated>2024-02-06T07:09:54.727Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 이예진 기자) 상승세를 탄 박신혜, 박형식 주연의 '닥터슬럼프'. '일타스캔들', '동백꽃 필 무렵'과 같은 대작의 향기가 난다. 지난 27일 첫 방송된 JTBC 토일드라마 '닥터스럼프'는 백억 대 소송과 번아웃, 각자의 이유로 인생 최대 슬럼프에 빠진 의사들의 ‘망한 인생’ 심폐 소생기를 그린 로맨틱 코미디 드라마. 박신혜와 박형식이 드라마]]></content>
     </entry>
 </feed>
