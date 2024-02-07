@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2024-02-07T08:13:56.868Z</updated>
+    <updated>2024-02-07T09:11:45.845Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["임영웅 내 첫사랑"…'소풍' 김영옥, 다시 태어나도 천생 배우]]></title>
+        <id>https://v.daum.net/v/20240207171820543</id>
+        <link href="https://v.daum.net/v/20240207171820543"/>
+        <updated>2024-02-07T09:11:29.317Z</updated>
+        <content type="html"><![CDATA[[OSEN=김보라 기자] “임영웅은 내 첫사랑이다.(웃음) 영원히 지워지지 않을 거 같다. 저는 임영웅이 나온 프로그램은 다 봤다. 이번에 콘서트에 가서 직접 보니까 남달랐다.” 배우 김영옥(86)은 팬클럽 ‘영웅시대’ 못지않게 임영웅에게 빠져있다. 물론 공식 팬클럽 회원들처럼 활발하게 참여하지는 못해도 시간이 가능할 때마다 그가 나온 프로그램을 챙겨보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[윤여정부터 손석구까지…극장·OTT 도장 깨기]]></title>
         <id>https://v.daum.net/v/20240207170542125</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240207161901176"/>
         <updated>2024-02-07T08:13:37.813Z</updated>
         <content type="html"><![CDATA[[스포츠조선 안소윤 기자] 배우 나문희가 영화 '소풍' OST에 참여해 준 가수 임영웅에 고마운 마음을 전했다. 나문희는 7일 서울 종로구 삼청동 한 카페에서 스포츠조선과 만나 "'모래 알갱이'라는 곡이 우리 영화와 잘 어울리겠다고 생각했는데, 임영웅이 참여해 줘서 고마웠다"라고 했다. 이날 개봉한 영화 '소풍'은 절친이자 사돈 지간인 두]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['소풍' 나문희 "연명치료가 오히려 지옥, 노인들 빨리 해방됐으면"]]></title>
-        <id>https://v.daum.net/v/20240207160325510</id>
-        <link href="https://v.daum.net/v/20240207160325510"/>
-        <updated>2024-02-07T07:10:59.629Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 | 최혜진 기자] 나문희/사진=롯데엔터테인먼트영화 '소풍'(감독 김용균)의 배우 나문희가 남편 사망 전 연명 치료를 하지 않았다고 고백했다. 나문희는 7일 서울 종로구 삼청동 한 카페에서 스타뉴스와 만나 '소풍' 관련 인터뷰를 갖고 다양한 이야기를 나눴다. '소풍'은 절친한 친구이자 사돈 지간인 두 친구 은심(나문희 분)과 금순(김영옥 분]]></content>
     </entry>
 </feed>
