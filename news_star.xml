@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2024-02-07T16:14:32.937Z</updated>
+    <updated>2024-02-07T17:10:43.170Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[강형호, 단독 콘서트 ‘SURVIVAL’ 앙코르 공연도 성료]]></title>
+        <id>https://v.daum.net/v/20240208015328245</id>
+        <link href="https://v.daum.net/v/20240208015328245"/>
+        <updated>2024-02-07T17:10:38.681Z</updated>
+        <content type="html"><![CDATA[[헤럴드경제 = 서병기 선임기자]강형호는 크로스오버 남성 4중창 그룹 포레스텔라에서는 테너와 소프라노를 담당한다. 가성을 사용해 남녀 키를 오가는 모습을 보여주기도 한다. 하지만 PITTA라는 이름으로 활동하는 솔로 가수로서는 락커에 가깝다. 락밴드의 보컬이며 국악기들과 어울리는 국악록을 선보이기도 했다. 가수 PITTA 강형호가 뜨거운 열기 속 앙코르 콘]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이제훈 "'수사반장' 프리퀄로 청년 최불암 연기, 자랑스러운 작품이 되도록 노력 중"]]></title>
         <id>https://v.daum.net/v/20240208003801961</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240208000029543"/>
         <updated>2024-02-07T15:11:27.071Z</updated>
         <content type="html"><![CDATA['황야'로 새로운데 익숙한 '마동석 액션' 선보여 넷플릭스 통해 공개…해외에서도 뜨거운 반응 [더팩트ㅣ김샛별 기자] 배우 마동석이 마동석했다. 호불호는 나뉠 수 있지만 마동석의 액션 만큼은 확실했다. 전 세계에도 통한 마동석표 K-아포칼립스였다. 덕분에 마동석은 '황야'와 함께 기분 좋은 새해 출발을 알렸다. 마동석은 최근 서울 종로구 삼청동의 한 카]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘사단칠정론’ 7가지 감정으로 푸는 2024년 새해 하이라이트]]></title>
-        <id>https://v.daum.net/v/20240208000004520</id>
-        <link href="https://v.daum.net/v/20240208000004520"/>
-        <updated>2024-02-07T15:11:27.072Z</updated>
-        <content type="html"><![CDATA[사람은 사람인 이상 누구나 다양한 감정에 휩쓸린다. 과거 유학자 퇴계 이황은 이를 ‘사단칠정(四端七情)으로 표현하기도했다. 4단은 불쌍해하는 마음, 부끄러운 마음, 양보하는 마음, 시비를 판별하는 마음이고 7정은 희(喜)·노(怒)·애(哀)·구(懼)·애(愛)·오(惡)·욕(欲) 즉 기쁘고, 화나고, 슬프고, 두렵고, 사랑하고 싫어하고 욕망하는 감정이다.]]></content>
     </entry>
 </feed>
