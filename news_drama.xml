@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-02-08T21:09:37.620Z</updated>
+    <updated>2024-02-08T22:10:24.784Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[독특한 ‘살인자ㅇ난감’ 설연휴 Pick 될 수 있을까]]></title>
+        <id>https://v.daum.net/v/20240209070106401</id>
+        <link href="https://v.daum.net/v/20240209070106401"/>
+        <updated>2024-02-08T22:10:08.932Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 이민지 기자] ※ 스포일러가 일부 포함돼 있습니다 넷플릭스의 설 연휴 신작은 동명의 웹툰을 원작으로 하는 '살인자ㅇ난감'이다. 2월 9일 공개되는 넷플릭스 시리즈 '살인자ㅇ난감'은 우연히 살인을 시작하게 된 평범한 남자와 그를 지독하게 쫓는 형사의 이야기를 그린다. 드라마 '타인은 지옥이다', 영화 '사라진 밤'을 연출한 이창희 감독이 웹툰]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[강기영, 이지아 男과 포옹하고 있는 모습 목격하고 '충격']]></title>
+        <id>https://v.daum.net/v/20240209064206116</id>
+        <link href="https://v.daum.net/v/20240209064206116"/>
+        <updated>2024-02-08T22:10:08.938Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 고향미 기자] 강기영이 이지아가 다른 남성과 포옹하고 있는 것을 목격하고 충격을 받았다. 8일 오후 방송된 종합편성채널 JTBC 수목드라마 '끝내주는 해결사'에서 노율성(오민석)은 공천을 받기 위해 한지인(이서안)에게 이혼을 선언했다. 하지만 한지인은 이혼을 거부했고, 노율성은 한지인에게 몰카가 포함된 X파일의 존재를 알리며 협박을 했다]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['슬의생' 스핀오프, 조정석 5인방 잇나…고윤정 센터 '슬전생' 첫 공개]]></title>
         <id>https://v.daum.net/v/20240209002411198</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240208163426738"/>
         <updated>2024-02-08T08:14:27.287Z</updated>
         <content type="html"><![CDATA[[뉴스엔 김명미 기자] 이동해가 굳은 결심으로 취업에 성공한다. 2월 9일 오후 11시 10분 방송되는 채널A 금요드라마 ‘남과여’(극본 박상민/ 연출 이유연, 박상민/ 기획 채널A/ 제작 스튜디오고트, 더그레이트쇼) 7회에서 정현성(이동해 분)은 자신이 세운 목표를 이루기 위해 과거 포기했었던 유명 패션 플랫폼 윈더스에 취업한다. 지난 방송에서 현성은]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박정아, '야한 사진관' 출연..권나라 선배]]></title>
-        <id>https://v.daum.net/v/20240208163301699</id>
-        <link href="https://v.daum.net/v/20240208163301699"/>
-        <updated>2024-02-08T08:14:27.287Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 | 김수진 기자] 배우 박정아가 '야한(夜限) 사진관'에 출연한다. 박정아 소속사 인연엔터테인먼트는 8일 "박정아가 새 드라마 '야한(夜限) 사진관'에 출연한다"고 밝혔다. 새 드라마 '야한(夜限) 사진관'(연출 송현욱, 극본 김이랑, 기획 KT스튜디오지니, 제작 슬링샷 스튜디오, 씨제스 스튜디오)은 오직 죽은 자들을 위해 존재하는 귀객 전]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이지아X강기영, 옷 찢기고 밀가루 폭탄 맞았다…'살벌 육탄전' 포착]]></title>
-        <id>https://v.daum.net/v/20240208162207424</id>
-        <link href="https://v.daum.net/v/20240208162207424"/>
-        <updated>2024-02-08T08:14:27.287Z</updated>
-        <content type="html"><![CDATA[[마이데일리 = 박서연 기자] ‘끝내주는 해결사’ 이지아와 강기영이 살벌한 육탄전에 휘말린다. 8일 JTBC 수목드라마 ‘끝내주는 해결사’(극본 정희선 연출 박진석) 측은 ‘솔루션’의 팀장 김사라(이지아)와 고문 변호사 동기준(강기영)이 이혼 문제 해결을 위해 온몸으로 뛰고 있는 현장을 공개했다 현재 ‘솔루션’은 팀장 김사라 체제에서 고문 변호사 동기준]]></content>
     </entry>
 </feed>
