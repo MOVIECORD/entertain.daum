@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-02-08T09:11:30.820Z</updated>
+    <updated>2024-02-08T10:11:12.341Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[특종 기자♥베스트셀러 작가, 달달 바닷가 데이트 현장 포착]]></title>
+        <id>https://v.daum.net/v/20240208182754318</id>
+        <link href="https://v.daum.net/v/20240208182754318"/>
+        <updated>2024-02-08T10:10:57.733Z</updated>
+        <content type="html"><![CDATA[[OSEN=장우영 기자] ‘멱살 한번 잡힙시다’의 김하늘과 장승조가 훈훈한 비주얼로 워너비 부부 케미를 선보인다. KBS2 새 월화드라마 ‘멱살 한번 잡힙시다’(극본 배수영, 연출 이호 이현경, 제작 몬스터유니온, 프로덕션H) 측은 8일 배우 김하늘(서정원 역)과 장승조(설우재 역)의 투샷 스틸을 공개해 기대감을 높이고 있다. 나쁜 놈들 멱살 잡는 ‘프]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“장원영 아니야?” 친언니 장다아, 얼굴·목소리→비율까지 닮은꼴]]></title>
+        <id>https://v.daum.net/v/20240208182710314</id>
+        <link href="https://v.daum.net/v/20240208182710314"/>
+        <updated>2024-02-08T10:10:57.733Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 이하나 기자] 아이브 장원영의 언니인 장다아가 동생과 닮은꼴 외모를 인증하며 관심을 모ᄋᆞᆻ다. 티빙은 2월 8일 공식 채널을 통해 티빙 오리지널 시리즈 ‘피라미드 게임'(극본 최수이/연출 박소연)’ 대본 리딩 현장 영상을 공개했다. 영상에는 ‘피라미드 게임’에 출연한 김지연, 장다아, 류다인, 신슬기 등이 한자리에 모여 인사를 나누고 대본]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['끝내주는 해결사' 이지아X강기영, 옷 찢기고 밀가루 맞고 '수난시대']]></title>
         <id>https://v.daum.net/v/20240208180008840</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240208154322201"/>
         <updated>2024-02-08T07:11:18.151Z</updated>
         <content type="html"><![CDATA[[OSEN=장우영 기자] ‘고려거란전쟁’ 대미를 장식할 귀주대첩 탄생기가 스페셜을 통해 공개된다. 고퀄리티 영상미와 각양각색 캐릭터, 다채로운 스토리로 주말 안방극장을 책임지고 있는 공영방송 50주년 특별 기획 KBS2 대하드라마 ‘고려거란전쟁’(극본 이정우, 연출 전우성 김한솔 서용수, 제작 몬스터유니온, 비브스튜디오스)이 설 연휴를 맞아 알찬 구성의]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['SNL 코리아' 진흙탕전… 에이스토리 공정위 신고→쿠팡 "무고죄 고소"]]></title>
-        <id>https://v.daum.net/v/20240208150748102</id>
-        <link href="https://v.daum.net/v/20240208150748102"/>
-        <updated>2024-02-08T06:14:27.104Z</updated>
-        <content type="html"><![CDATA[[이데일리 스타in 김보영 기자] 제작사 에이스토리가 쿠팡플레이 예능 ‘SNL 코리아’를 둘러싸고 쿠팡 및 자회사 CP엔터테인먼트와 갈등을 겪고 있는 가운데, 공정거래위원회가 에이스토리의 신고를 받고 쿠팡과 씨피엔터테인먼트의 불공정거래행위(부당한 인력유인행위) 여부를 들여다본다. 8일 에이스토리의 법률대리인 법무법인 디라이트 측에 따르면, 공정위는 지난]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[장원영 아냐?..'친언니' 장다아, 목소리까지 '똑닮']]></title>
-        <id>https://v.daum.net/v/20240208150344919</id>
-        <link href="https://v.daum.net/v/20240208150344919"/>
-        <updated>2024-02-08T06:14:27.106Z</updated>
-        <content type="html"><![CDATA[[OSEN=김나연 기자] 아이브 장원영의 친언니 장다아의 대본리딩 현장이 공개돼 화제를 모았다. 8일 TVING 측은 공식 채널을 통해 '피라미드 게임' 대본 리딩 현장을 공개했다. 이날 영상에는 배우 김지연, 장다아, 류다인, 신슬기, 강나언 등 '피라미드 게임' 대본 리딩을 위해 한 자리에 모인 배우들의 모습이 담겼다.&nbsp; 특히 장원영의 친언니로 알려]]></content>
     </entry>
 </feed>
