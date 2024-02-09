@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2024-02-09T06:13:42.120Z</updated>
+    <updated>2024-02-09T07:14:00.147Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['소풍', 한편의 시보다 뭉클한 60년 우정… 나문희·김영옥 레전드 열연이 빚어낸 묵직한 여운]]></title>
+        <id>https://v.daum.net/v/20240209155359223</id>
+        <link href="https://v.daum.net/v/20240209155359223"/>
+        <updated>2024-02-09T07:12:11.224Z</updated>
+        <content type="html"><![CDATA[[스포츠한국 김현희 기자]&nbsp;배우 나문희와 김영옥이 영화 '소풍'에서 '국민배우'표 레전드 연기를 펼치며 설연휴 극장가를 찾는 관객들에게 가슴 뭉클한 감동을 선사한다 영화 '소풍'은 절친이자 사돈지간인 두 친구가 60년 만에 함께 고향 남해로 여행을 떠나며 16살의 추억을 다시 마주하게 되는 이야기다. 은심(나문희)의 아들 해웅(류승수)은 사업 위]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이준영 "마동석 복싱장 다녀…마동석 파워=잘못하면 날아갈 정도"]]></title>
         <id>https://v.daum.net/v/20240209150102744</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240209080036095"/>
         <updated>2024-02-08T23:11:16.220Z</updated>
         <content type="html"><![CDATA[(서울=연합뉴스) 오보람 기자 = 9일부터 나흘간 이어지는 짧은 설 연휴, 아이가 있는 가정은 한 번쯤 극장에 가봐도 좋겠다. 어린이를 겨냥한 다양한 애니메이션들이 관객을 맞는다. 그중에서도 인기 캐릭터 '핑크퐁 아기 상어'의 첫 번째 극장판 영화인 '아기상어 극장판: 사이렌 스톤의 비밀'이 가장 먼저 눈에 띈다. TV 시리즈 '아기상어 올리와 윌리엄'을]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[마동석 “‘황야’든 ‘범죄도시’든 재밌어야죠”]]></title>
-        <id>https://v.daum.net/v/20240209073308822</id>
-        <link href="https://v.daum.net/v/20240209073308822"/>
-        <updated>2024-02-08T23:11:16.221Z</updated>
-        <content type="html"><![CDATA[“흥행 비결이요? 몰라요. 그냥 재밌게 만들려고 해요. 엔터테이너로서 대중에게 즐거움을 드리는 게 제가 할 일이니까. ‘황야’는 오로지 ‘액션 게임 오락물’로 기획했어요. 어떤 게임을 모티브로 했냐고요? 비밀이에요. 아, ‘오징어 게임’은 아니고요.” 여전하다. 그의 말엔 힘이 있다. 내내 웃음이 터져 나온다. 상남자 비주얼, 시원시원한 설명, 러블리한 유]]></content>
     </entry>
 </feed>
