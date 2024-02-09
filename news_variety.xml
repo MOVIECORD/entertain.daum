@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/variety</id>
     <title>다음 연예 ─ 뉴스 ─ 예능</title>
-    <updated>2024-02-09T16:13:24.498Z</updated>
+    <updated>2024-02-09T17:10:00.643Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[백지영, "소름 돋는다" 욕조에 빠졌던 1500만원 H사 명품백 완벽 복원에 '감동']]></title>
+        <id>https://v.daum.net/v/20240210014953847</id>
+        <link href="https://v.daum.net/v/20240210014953847"/>
+        <updated>2024-02-09T17:09:51.476Z</updated>
+        <content type="html"><![CDATA[[OSEN=김예솔 기자] 백지영이 H사 명품백 복원에 미소를 감추지 못했다.&nbsp; 9일, 유튜브 채널 '백지영 Baek Z Young'에서는 '장안의 화제였던 물에 빠진 에르메스 결국...' 제목의 영상이 공개된 가운에 백지영이 복원된 명품백을 받고 행복해했다. &nbsp; 백지영은 "너무 기대된다. 어떻게 됐을까"라며 수리를 맡긴 명품백을 찾으러 왔다. 앞서 백지]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이효리, 설날 한복 자태도 남달라! 노란 퍼프 소매 저고리에 달타령 열창!]]></title>
         <id>https://v.daum.net/v/20240210011044780</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240209234923453"/>
         <updated>2024-02-09T15:10:17.438Z</updated>
         <content type="html"><![CDATA[[뉴스엔 서유나 기자] AOA 출신 배우 설현이 지하철을 애용하는 사실을 고백했다. 2월 9일 방송된 MBC 예능 '나 혼자 산다'(이하 '나혼산') 532회에서는 설현의 일상이 공개됐다. 이날 설현은 외출을 하더니 지하철을 이용하는 모습을 보여줬다. 설현은 "지하철하고 버스 타고 다니는 것을 좋아한다"면서 그 이유로 "지하철을 타면 숏폼을 볼 수 있]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘자취 7년차’ 설현, 복층+옥상 정원 자택 공개…”완성형 집”]]></title>
-        <id>https://v.daum.net/v/20240209234601440</id>
-        <link href="https://v.daum.net/v/20240209234601440"/>
-        <updated>2024-02-09T15:10:17.438Z</updated>
-        <content type="html"><![CDATA[[OSEN=유수연 기자] 자취 7년차 설현이 보금자리를 공개했다. 9일 방송된 MBC ‘나 혼자 산다’는 설특집으로 꾸며진 가운데, 설현이 게스트로 출연해 자신의 집을 공개했다. 이날 핑크빛 감도는 실내,&nbsp;잠자고 있는 설현과 옆에 누운 그의 반려견 '덩치'가 모습을 드러냈다. 곧 알람소리가 들리고, 설현은 반려견과 함께 인사하며 잠에서 깨어났다. 설현은]]></content>
     </entry>
 </feed>
