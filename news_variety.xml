@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/variety</id>
     <title>다음 연예 ─ 뉴스 ─ 예능</title>
-    <updated>2024-02-10T08:11:58.094Z</updated>
+    <updated>2024-02-10T09:10:49.476Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[박명수 "리포터 자질? 북어 저글링은 해야" 엉뚱 조언]]></title>
+        <id>https://v.daum.net/v/20240210175108944</id>
+        <link href="https://v.daum.net/v/20240210175108944"/>
+        <updated>2024-02-10T09:10:41.215Z</updated>
+        <content type="html"><![CDATA[[OSEN=장우영 기자] ‘사장님 귀는 당나귀 귀’ 박명수가 사랑받는 리포터가 갖춰야 할 자질 1순위로 “북어 저글링”이라는 엉뚱한 조언을 내놓으며 맹활약한다. KBS2 ‘사장님 귀는 당나귀 귀’(이하 ‘사당귀’)는 일할 맛 나는 일터를 만들기 위한 대한민국 보스들의 자발적인 역지사지 X 자아성찰 프로그램으로, 지난회 최고 시청률 7%를 기록하며 ‘92]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이재원, '떡상 배우'에는 이유가 있다! 단골 호프집에서 팬미팅]]></title>
+        <id>https://v.daum.net/v/20240210173116800</id>
+        <link href="https://v.daum.net/v/20240210173116800"/>
+        <updated>2024-02-10T09:10:41.217Z</updated>
+        <content type="html"><![CDATA[[OSEN=최이정 기자] ‘전참시’ 배우 이재원이 화제의 수상소감 비하인드를 공개한다. 10일(오늘) 오후&nbsp;11시 10분 방송되는 MBC 예능 프로그램 ‘전지적 참견 시점’(기획 강영선 / 연출 김윤집, 전재욱, 이경순, 정동식 / 작가 여현전 / 이하 ‘전참시’) 285회에서는 ‘떡상’ 배우 이재원의 역조공 팬미팅 현장이 그려진다. 이날 이재원은 자신]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[정동원 "진성 보면 하늘에 계신 할아버지 생각나"]]></title>
         <id>https://v.daum.net/v/20240210170301564</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240210132344867"/>
         <updated>2024-02-10T05:10:05.242Z</updated>
         <content type="html"><![CDATA[[뉴스엔 배효주 기자] 조영남이 신동엽에 “이혼 한 번 해보라”고 폭탄 발언해 장내를 술렁이게 한다. 2월 10일 방송되는 KBS 2TV ‘불후의 명곡’은 ‘아티스트 조영남 편’으로 꾸며진다. 조영남은 자신의 히트곡 ‘사랑 없인 못 살아’에 대한 비하인드를 전하던 중 “사람들이 이 노래가 나와 어울리지 않는다고 한다. 내가 두 번씩이나 이혼을 하지 않았나]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김광규, 썸녀 있나? 베개 2개 사다가 유재석에 딱 걸려]]></title>
-        <id>https://v.daum.net/v/20240210132137852</id>
-        <link href="https://v.daum.net/v/20240210132137852"/>
-        <updated>2024-02-10T05:10:05.244Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 배효주 기자] ‘놀면 뭐하니?’ 유재석이 김광규의 2연속 커플템 구매에 썸(?)을 의심한다. 2월 10일 방송되는 MBC ‘놀면 뭐하니?’는 설 특집 ‘설에 혼자 뭐하니?’ 편으로 꾸며진다. 제시에 이어 유재석이 설마다 연락드리는 외로운 형님 배우 김광규와 함께하는 웃음 넘치는 시간이 공개된다. 이날 유재석-하하-주우재는 설날에 집에 혼자 있을]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['성대수술' 박나래, 호흡기 낀 채로 등장...묵언 수행→먹방 열정]]></title>
-        <id>https://v.daum.net/v/20240210130922744</id>
-        <link href="https://v.daum.net/v/20240210130922744"/>
-        <updated>2024-02-10T04:13:37.135Z</updated>
-        <content type="html"><![CDATA[[OSEN=유수연 기자] 성대 수술로 인해 '나 혼자 산다' 녹화에 불참했던 박나래가 밝은 모습으로 컴백을 예고했다. 9일 방송된 MBC '나 혼자 산다'는 설 특집으로 진행된 가운데,&nbsp;오프닝에는 전현무, 기안84, 코드쿤스트, 키, 김대호가 등장했다. 다만 박나래는 등신대로 등장해 눈길을 끈 가운데, 전현무는 "나래가 지금 목 상태가 너무 나빠져서 쉬]]></content>
     </entry>
 </feed>
