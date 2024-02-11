@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2024-02-11T06:13:50.802Z</updated>
+    <updated>2024-02-11T07:11:04.806Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[놀란 "로다주, '아이언맨' 캐스팅..영화 역사상 가장 중요한 결정"]]></title>
+        <id>https://v.daum.net/v/20240211155129626</id>
+        <link href="https://v.daum.net/v/20240211155129626"/>
+        <updated>2024-02-11T07:10:45.741Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 | 김나연 기자] 사진=크리스토퍼 놀란, 로버트 다우니 주니어크리스토퍼 놀란 감독이 로버트 다우니 주니어의 아이언맨 캐스팅에 대해 "영화 역사상 가장 중요한 결정"이라고 말했다. 최근 크리스토퍼 놀란 감독은 '더 레이트 쇼'에 출연헤 영화 '오펜하이머'에 출연한 로버트 다우니 주니어에 대해 찬사를 보냈다. 그는 "로버트 다우니 주니어의 아량과]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[돈,돈,돈 하는 세상이라 '웡카'의 울림 더 크게 다가온다]]></title>
         <id>https://v.daum.net/v/20240211151158342</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240211091417372"/>
         <updated>2024-02-11T00:50:41.177Z</updated>
         <content type="html"><![CDATA[(서울=뉴스1) 고승아 기자 = 설 연휴에도 영화 '웡카'가 박스오피스 1위 자리를 지켰다. 11일 영화진흥위원회 영화관입장권통합전산망의 집계에 따르면 '웡카'는 지난 10일 하루동안 14만9632명의 관객을 동원하며 박스오피스 1위를 기록했다. 누적관객수는 136만5102명이다. '웡카'는 가진 것은 달콤한 꿈과 낡은 모자뿐인 '윌리 웡카'가 세계 최]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['시민덕희' 라미란, 설 연휴 신작 꺾고 기적의 역주행 흥행]]></title>
-        <id>https://v.daum.net/v/20240211085131046</id>
-        <link href="https://v.daum.net/v/20240211085131046"/>
-        <updated>2024-02-11T00:50:41.178Z</updated>
-        <content type="html"><![CDATA[[OSEN=하수정 기자] 명절 연휴 흥행 역주행의 아이콘 '시민덕희'가 2월 10일 설날 연휴 동안 이틀 연속 한국영화 박스오피스 1위에 오르는 기적의 역주행 파란을 일으켰다.&nbsp; 설 연휴에 돌입하며 흥행 역주행 신드롬을 일으키고 있는 영화 '시민덕희'가 영화관입장권 통합전산망 기준 지난 10일 당일 13만 6,782명(누적관객수 124만 1,292명)을]]></content>
     </entry>
 </feed>

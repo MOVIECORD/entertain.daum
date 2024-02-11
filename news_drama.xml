@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-02-11T06:13:50.896Z</updated>
+    <updated>2024-02-11T07:11:04.808Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘닥터슬럼프’ 박형식, 박신혜와 호텔行→애틋 고백 “보고싶었어”]]></title>
+        <id>https://v.daum.net/v/20240211151756383</id>
+        <link href="https://v.daum.net/v/20240211151756383"/>
+        <updated>2024-02-11T07:10:50.427Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 박수인 기자] ‘닥터슬럼프’ 박형식이 박신혜를 향한 마음에 제동을 걸었다. 2월 10일 방송된 JTBC 토일드라마 ‘닥터슬럼프’(연출 오현종, 극본 백선우, 제작 SLL·하이지음스튜디오) 5회에서 여정우(박형식 분)는 의료사고의 충격과 죄책감을 벗어나지 못하고 극심한 트라우마에 시달렸다. 남하늘(박신혜 분)은 여정우의 다정한 말과 행동이 헷갈리는]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['고려거란전쟁', 논란 속 빛나는 최수종의 존재감]]></title>
         <id>https://v.daum.net/v/20240211150019278</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240211120017940"/>
         <updated>2024-02-11T03:10:55.617Z</updated>
         <content type="html"><![CDATA[[OSEN=선미경 기자] '닥터슬럼픔' 이성경이 박형식의 '구 썸녀'로 돌아온다.&nbsp; 종합편성채널 JTBC&nbsp;토일드라마 ‘닥터슬럼프’(극본 백선우, 연출 오현종)&nbsp;측은&nbsp;6회 방송을 앞둔&nbsp;11일,&nbsp;이성경의 특별출연을 알리는 스틸컷을 공개했다.&nbsp;극중 여정우(박형식 분)의&nbsp;‘구 썸녀(?)’이자 남하늘(박신혜 분)의 질투 유발자로 변신한 이성경의 등장이 본방사수]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박민영, 이대로 죽을리 없지…이이경♥송하윤에 사망 운명 토스하나]]></title>
-        <id>https://v.daum.net/v/20240211120018941</id>
-        <link href="https://v.daum.net/v/20240211120018941"/>
-        <updated>2024-02-11T03:10:55.619Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 황혜진 기자] 배우 박민영이 막판 운명 뒤집기에 나선다. tvN 월화드라마 ‘내 남편과 결혼해줘’(극본 신유담/연출 박원국, 한진선)는 2월 11일 기준 종영까지 단 4회를 남겨두고 있다. 이 가운데 2회 차 인생의 최대 난관에 봉착한 강지원(박민영 분)과 유지혁(나인우 분)의 운명 개척이 과연 성공할 수 있을지 주목된다. 앞서 강지원은 오유라(]]></content>
     </entry>
 </feed>
