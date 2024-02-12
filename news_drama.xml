@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-02-12T11:09:57.182Z</updated>
+    <updated>2024-02-12T12:19:31.963Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["어디서 개가 짖어"…'내남결' 박민영, 협박하는 이이경에 킥 날렸다]]></title>
+        <id>https://v.daum.net/v/20240212211217204</id>
+        <link href="https://v.daum.net/v/20240212211217204"/>
+        <updated>2024-02-12T12:19:17.475Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 이이진 기자) '내 남편과 결혼해줘' 이이경이 박민영을 추궁했다. 12일 방송된 tvN 월화드라마 '내 남편과 결혼해줘' 13회에서는 박민환(이이경 분)이 강지원(박민영)을 위협하는 모습이 그려졌다. 이날 박민환은 강지원과 회사 엘리베이터에 단둘이 탔고, 문이 닫히자마자 강지원을 위협했다. 박민환은 "너 생각보다 야망 있더라. 유지혁. 걔가]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[박형식, 시청률 '반타작' 못막았다...2작품 연속 3%대, 무거운 주연의 무게]]></title>
         <id>https://v.daum.net/v/20240212200102639</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240212142211686"/>
         <updated>2024-02-12T06:13:38.479Z</updated>
         <content type="html"><![CDATA[[스포츠조선 문지연 기자] '밤에 피는 꽃' 이하늬, 케미 여왕이다. MBC 금토드라마 '밤에 피는 꽃'(이샘 정명인 극본, 장태유 최정인 이창우 연출)은 다채로운 캐릭터들의 시너지와 스펙터클한 액션, 배꼽 잡는 코믹까지 더해져 시청자들의 눈을 즐겁게 하고 있다. 인물들 간의 흥미로운 관계성 또한 꿀잼 요소로 확실하게 자리 잡고 있는 가운데]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이이경, 하다하다 전 여친 박민영 스토킹까지]]></title>
-        <id>https://v.daum.net/v/20240212141738575</id>
-        <link href="https://v.daum.net/v/20240212141738575"/>
-        <updated>2024-02-12T06:13:38.480Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 이민지 기자] 이이경이 전(前)여친 박민영을 염탐한다. tvN 월화드라마 ‘내 남편과 결혼해줘’(극본 신유담/ 연출 박원국, 한진선) 측은 2월 12일 박민환(이이경 분)이 강지원(박민영 분)의 뒤를 몰래 밟고 있는 현장을 공개했다. 앞서 박민환은 실패한 투자로 인해 사채까지 끌어다 쓰며 엉망이 된 재정 상태를 메꾸기 위해 정수민(송하윤 분)]]></content>
     </entry>
 </feed>
