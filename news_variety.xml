@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/variety</id>
     <title>다음 연예 ─ 뉴스 ─ 예능</title>
-    <updated>2024-02-12T15:11:48.944Z</updated>
+    <updated>2024-02-12T16:13:51.973Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[노주현 카페='태양의후예' 촬영지였다..800여평 대지 레스토랑까지!]]></title>
+        <id>https://v.daum.net/v/20240213005525334</id>
+        <link href="https://v.daum.net/v/20240213005525334"/>
+        <updated>2024-02-12T16:13:41.807Z</updated>
+        <content type="html"><![CDATA[[OSEN=김수형 기자] ‘4인용 식탁’에서 배우 노주현이 출연해 현재 소유하는 카페와 레스토랑에 대해 소개해 눈길을 끌었다. 12일 방송된 채널A 예능 ‘절친 토크쇼-4인용 식탁’에서 노주현이 입담을 펼쳤다.&nbsp; 이날 중년 배우 노주현의 일상이 그려졌다. 그는 1967년 TBC 5기 배우로 데뷔,2000년데 시트콩으로 연기변신에 성공했다.어느덧 58년차]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[태진아, 중증치매 ♥옥경이 앞 오열 “나를 천천히 잊어주길”]]></title>
         <id>https://v.daum.net/v/20240213001038170</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240212225837814"/>
         <updated>2024-02-12T14:09:47.706Z</updated>
         <content type="html"><![CDATA[[OSEN=김예솔 기자] 이주승이 베이글 맛집을 소개했다.&nbsp; 12일에 방송된 tvN '줄 서는 식당2'에서는 이주승이 서울 3대 베이글 맛집에 오픈 런 하는 모습이 그려졌다.&nbsp; 이날 이주승이 줄 서는 식장 첫 조사에 나섰다. 이주승은 "아침 7시부터 어마어마한 핫플에 다녀왔다"라며 "실제로 오픈런 줄이 어마어마하더라"라고 말해 눈길을 끌었다.&nbsp; 이주승은]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[불꽃남자, 16기 옥순 '돌싱' 고백에…"놀랐지만 알아가고파"]]></title>
-        <id>https://v.daum.net/v/20240212224713775</id>
-        <link href="https://v.daum.net/v/20240212224713775"/>
-        <updated>2024-02-12T14:09:47.711Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 김수아 기자) 불꽃남자가 16기 옥순의 돌싱 고백에도 직진했다. 12일 방송된 KBS Joy '무엇이든 물어보살'(이하 '물어보살')에서는 지난 방송에 이에 '2024 보살팅'의 1 대 1 데이트가 펼쳐졌다. 이날 '나는 솔로' 16기 옥순인 단호박은 자신에게 직진하는 소방관 붙꽃남자에게 "처음 문 열고 들어오자마자 좀 괜찮았다"라고 고백해]]></content>
     </entry>
 </feed>
