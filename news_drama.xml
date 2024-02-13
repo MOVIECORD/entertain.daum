@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-02-13T04:13:18.651Z</updated>
+    <updated>2024-02-13T05:10:43.265Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘내남결’ 흑화한 박민영, 골프채 들고 세간살이 박살]]></title>
+        <id>https://v.daum.net/v/20240213133517747</id>
+        <link href="https://v.daum.net/v/20240213133517747"/>
+        <updated>2024-02-13T05:10:30.731Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 배효주 기자] 박민영이 공민정을 위해 불도저로 변신한다. tvN 월화드라마 ‘내 남편과 결혼해줘’(극본 신유담/ 연출 박원국, 한진선/ 기획 스튜디오드래곤/ 제작 DK E&amp;M)에서 강지원(박민영 분)이 양주란(공민정 분)의 바람난 남편에게 살벌한 본때를 보여주는 현장이 포착돼 이목을 집중시킨다. 앞서 강지원은 1회차 인생에서 암에 걸려 투병 생활]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김지원, 머리부터 발끝까지 화려..카리스마 공개]]></title>
         <id>https://v.daum.net/v/20240213120203084</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240213095138491"/>
         <updated>2024-02-13T01:43:06.469Z</updated>
         <content type="html"><![CDATA[[이데일리 스타in 김가영 기자] TV조선 ‘조선의 사랑꾼’에서 ‘국민 사랑꾼’ 태진아의 아내 ‘옥경이’ 이옥형 씨의 치매 투병 일상과 그리고 아주 특별했던 디너쇼가 공개됐다. ‘조선의 사랑꾼’지난 12일 방송된 ‘조선의 사랑꾼’은 시청률 7.2%(닐슨코리아, 수도권 기준)로 시즌1 포함 자체 최고 시청률을 돌파했다. 분당 최고시청률 또한 8.4%(닐슨]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[차은우, 이런 모습도 있었어? 거친 남성미 폭발 첫 스틸]]></title>
-        <id>https://v.daum.net/v/20240213094352094</id>
-        <link href="https://v.daum.net/v/20240213094352094"/>
-        <updated>2024-02-13T00:46:55.170Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 김현정 기자)&nbsp;‘원더풀 월드’ 차은우의 거친 남성미가 폭발하는 첫 스틸이 공개됐다. '밤에 피는 꽃' 후속으로 오는 3월 1일 첫 방송하는 MBC 새 금토드라마 ‘원더풀 월드’는 아들을 죽인 살인범을 직접 처단한 은수현(김남주 분)이 그날에 얽힌 미스터리한 비밀을 파헤쳐 가는 휴먼 미스터리 드라마다. 드라마 ‘트레이서1,2’, ‘보이스2’의]]></content>
     </entry>
 </feed>

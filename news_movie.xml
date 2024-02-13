@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2024-02-13T04:13:18.653Z</updated>
+    <updated>2024-02-13T05:10:43.271Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['에스파: 마이 퍼스트 페이지' 개봉 D-1…관람 포인트 셋]]></title>
+        <id>https://v.daum.net/v/20240213133345707</id>
+        <link href="https://v.daum.net/v/20240213133345707"/>
+        <updated>2024-02-13T05:10:26.778Z</updated>
+        <content type="html"><![CDATA[[이데일리 스타in 김보영 기자] 그룹 ‘에스파’(aespa)가 세계적인 아티스트로 거듭나기까지 그 찬란한 꿈의 기록을 생생하게 담아낸 영화 ‘에스파: 마이 퍼스트 페이지’가 드디어 개봉을 하루 앞둔 가운데, 롯데시네마 수퍼플렉스 상영 확정과 함께 영화를 더욱 재미있게 즐길 수 있는 관람 포인트 3가지를 공개했다. 2020년 11월 데뷔 이후 매 앨범 공]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[오스카 작품상탈까?..'패스트 라이브즈' 셀린 송, 2월 28일 내한]]></title>
         <id>https://v.daum.net/v/20240213121719377</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240213102910111"/>
         <updated>2024-02-13T01:43:02.014Z</updated>
         <content type="html"><![CDATA[[이데일리 스타in 김보영 기자] 2024년 마블 히어로물 기대작인 영화 ‘데드풀과 울버린’(감독 숀 레비)이 오는 7월 개봉을 확정하며 티저 포스터와 예고편을 최초 공개했다. ‘데드풀과 울버린’은 은 판당고 선정 ‘2024년 가장 기대되는 영화, 가장 기대되는 히어로 캐릭터’ 부문에서 당당히 1위를 차지하며 압도적 관심과 인기를 과시 중이다. 7월 개]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[D-7 ‘듄2’, 벌써 예매율 1위..티모시 샬라메 신드롬인가]]></title>
-        <id>https://v.daum.net/v/20240213100602037</id>
-        <link href="https://v.daum.net/v/20240213100602037"/>
-        <updated>2024-02-13T01:43:02.015Z</updated>
-        <content type="html"><![CDATA[티모시 샬라메 신드롬의 시작이다. ‘웡카’에 이어 ‘듄 : 파트2’까지 그 분위기가 심상치 않은 것. 전 세계가 주목하고 있는 티모시 샬라메 주연작 ‘듄: 파트2’가 예매 오픈과 동시에 전체 예매율 1위에 등극하는 기염을 토했다. 영화는 13일 오전 9시 30분 기준, 예매 오픈과 동시에 일부 IMAX 특별관을 매진시키는 기염을 토하며 2월 극장가의 진정한]]></content>
     </entry>
 </feed>
