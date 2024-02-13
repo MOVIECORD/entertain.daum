@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2024-02-13T03:13:08.671Z</updated>
+    <updated>2024-02-13T04:13:18.653Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[오스카 작품상탈까?..'패스트 라이브즈' 셀린 송, 2월 28일 내한]]></title>
+        <id>https://v.daum.net/v/20240213121719377</id>
+        <link href="https://v.daum.net/v/20240213121719377"/>
+        <updated>2024-02-13T04:12:59.403Z</updated>
+        <content type="html"><![CDATA[[OSEN=하수정 기자] CJ ENM과 미국 할리우드 스튜디오 A24가 공동으로 투자배급하는 영화 '패스트 라이브즈'(PAST LIVES)의 셀린 송 감독과 배우 유태오가 오는 28일(수)과 29일(목), 양일간 국내 홍보 일정에 나설 예정이라 기대를 모은다. 오는 3월 6일 국내 개봉을 앞둔 '패스트 라이브즈'(감독 셀린 송, 투자 A24·CJ ENM]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[예매율 1위 '듄: 파트2'…드니 빌뇌브의 압도적 세계관 드러난다]]></title>
         <id>https://v.daum.net/v/20240213121237292</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240213100602037"/>
         <updated>2024-02-13T01:43:02.015Z</updated>
         <content type="html"><![CDATA[티모시 샬라메 신드롬의 시작이다. ‘웡카’에 이어 ‘듄 : 파트2’까지 그 분위기가 심상치 않은 것. 전 세계가 주목하고 있는 티모시 샬라메 주연작 ‘듄: 파트2’가 예매 오픈과 동시에 전체 예매율 1위에 등극하는 기염을 토했다. 영화는 13일 오전 9시 30분 기준, 예매 오픈과 동시에 일부 IMAX 특별관을 매진시키는 기염을 토하며 2월 극장가의 진정한]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[임영웅 OST·명배우 열연…'소풍' 독립영화 1위→BEP 향해 성큼]]></title>
-        <id>https://v.daum.net/v/20240213095840717</id>
-        <link href="https://v.daum.net/v/20240213095840717"/>
-        <updated>2024-02-13T01:43:02.015Z</updated>
-        <content type="html"><![CDATA[[이데일리 스타in 김보영 기자] 나문희, 김영옥, 박근형 주연 영화 ‘소풍’(감독 김용균)이 6일 연속 독립·예술영화 박스오피스 1위를 기록하며 의미있는 성과를 내고 있다. 전 세대 관객들의 호평 속에 실관람객 평점 9점대로 이끈 ‘소풍’의 극장 확인 필수 명장면 &amp; 명대사 톱3가 공개됐다. 13일 영화관입장권 통합전산망 집계에 따르면, 영화 ‘소풍’]]></content>
     </entry>
 </feed>
