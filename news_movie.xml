@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2024-02-14T03:14:44.882Z</updated>
+    <updated>2024-02-14T04:13:16.336Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['킬쇼' 서현우 "금니+장발 빌런, 기시감 들지 않게 노력했죠"]]></title>
+        <id>https://v.daum.net/v/20240214122021452</id>
+        <link href="https://v.daum.net/v/20240214122021452"/>
+        <updated>2024-02-14T04:12:56.183Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 | 김나연 기자] 배우 서현우가 14일 오전 서울 종로구 삼청동의 한 카페에서 진행된 디즈니+ '킬러들의 쇼핑몰' 관련 인터뷰를 위해 포즈를 취하고 있다.  서현우는 극 중 목적을 위해서라면 물불 가리지 않는 스나이퍼 이성조 역을 열연했다. / 사진제공 = 월트디즈니컴퍼니 코리아 /사진=김창현배우 서현우가 '킬러들의 쇼핑몰' 속 파격 변신에 대해]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘살인자ㅇ난감’ 감독 “너무 닮은 손석구 아역? 사실 CG효과”]]></title>
         <id>https://v.daum.net/v/20240214120616174</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240214090505119"/>
         <updated>2024-02-14T00:47:45.959Z</updated>
         <content type="html"><![CDATA[[마이데일리 = 남혜연 기자] 연인의 감성을 포스터에 모두 담았다.  애틋한 눈빛 그리고 서정적인 분위기의 색감이 관객들을 매료시킬 것으로 보인다.  CJ ENM과 미국 할리우드 스튜디오 A24가 공동으로 투자배급하는 영화 '패스트 라이브즈'(PAST LIVES)가 오는 3월 6일 개봉을 앞두고 독보적인 감성을 예고하는 메인 포스터, 인연 포스터 그리고]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['시민덕희' 21일만에 150만 돌파→우디네극동영화제 경쟁 섹션 초청 '쾌거']]></title>
-        <id>https://v.daum.net/v/20240214085502782</id>
-        <link href="https://v.daum.net/v/20240214085502782"/>
-        <updated>2024-02-14T00:47:45.961Z</updated>
-        <content type="html"><![CDATA[[스포츠조선 조지영 기자] 범죄 수사 영화 '시민덕희'(박영주 감독, 씨제스스튜디오·페이지원필름 제작)가 개봉 21일 만에 150만 관객을 동원한데 이어 제26회 우디네극동영화제 경쟁 섹션에 초청돼 화제를 모았다. 지난 설 연휴 기간 동안 한국 영화 박스오피스 1위를 수성하고 흥행 역주행 신드롬의 주인공이 된 '시민덕희'가 지난 13일 영화관]]></content>
     </entry>
 </feed>
