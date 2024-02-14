@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/variety</id>
     <title>다음 연예 ─ 뉴스 ─ 예능</title>
-    <updated>2024-02-14T19:09:12.515Z</updated>
+    <updated>2024-02-14T20:11:38.675Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘연기 장인’ 최민식 “극도의 리얼함 추구…실제로 안하면 그 느낌이 안 나온다”]]></title>
+        <id>https://v.daum.net/v/20240215050901656</id>
+        <link href="https://v.daum.net/v/20240215050901656"/>
+        <updated>2024-02-14T20:11:30.295Z</updated>
+        <content type="html"><![CDATA[배우 최민식이 참여했던 작품 비하인드를 공개하며 허심탄회한 이야기를 털어놓았다. 지난 14일 방송된 tvN ‘유 퀴즈 온 더 블럭’(이하 ‘유퀴즈’) 231화에서는 최민식이 출연해 배우 생활을 하며 겪은 일들과 느낀점을 토로했다. 이병헌과 함께 한 영화 ‘악마를 보았다’를 두고 유재석은 “이 영화는 연기 차력쇼”라고 말해 웃음을 자아냈다. 최민식이 차력쇼라]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['신랑수업' 임채무, 심형탁♥사야에 "아이 6명 낳아라"]]></title>
         <id>https://v.daum.net/v/20240215015143622</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240215000101948"/>
         <updated>2024-02-14T15:10:26.473Z</updated>
         <content type="html"><![CDATA[[텐아시아=조나연 기자] '나는 솔로' 19기 여자 출연자들이 공개됐다.&nbsp; 14일 방송된 SBS PLUS·ENA '나는 SOLO(나는 솔로)'에서는 19기 솔로남녀들이 공개됐다. 강렬하게 등장한 영자는 사전 인터뷰에서 "개성을 뽐낼 수 있는 직업이다. 연애는 1번 했지만 제가 한번도 좋아한다는 느낌을 받은 적이 없었고, 남자친구도 그걸 느꼈다. 흐지부지]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[KCM "임영웅 효과..듀엣 후 '가시리' 엔딩곡으로 등극"]]></title>
-        <id>https://v.daum.net/v/20240214235437900</id>
-        <link href="https://v.daum.net/v/20240214235437900"/>
-        <updated>2024-02-14T15:10:26.473Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 | 김지은 기자] /사진='라디오스타' 화면 캡처가수 KCM이 임영웅의 파급효과로 인지도가 상승했다고 밝혔다. 14일 방송된 MBC 예능 프로그램 '라디오스타'에서는 854회에서는 김동현, KCM, 조원희, 손동표가 출연하는 '뭉치면 나불나불' 특집으로 꾸며졌다. 이날 KCM은 임영웅으로 인해 체면을 살렸던 한 일화를 공개했다. 그는 "임영]]></content>
     </entry>
 </feed>
