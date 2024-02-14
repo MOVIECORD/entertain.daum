@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2024-02-14T00:48:03.963Z</updated>
+    <updated>2024-02-14T01:43:58.448Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[엑소 카이 군백기 아쉬움 달랠 ‘링팝：더 브이알콘서트 카이’ 개봉]]></title>
+        <id>https://v.daum.net/v/20240214103549672</id>
+        <link href="https://v.daum.net/v/20240214103549672"/>
+        <updated>2024-02-14T01:43:39.392Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 하지원 기자] '링팝: 더 브이알콘서트 카이'가 관객과 만난다. 2월 14일 개봉한 '링팝: 더 브이알콘서트 카이'는 지난 10월 진행 된 '링팝: 더 퍼스트 브이알콘서트 에스파' 이후 SM엔터테인먼트의 자회사 스튜디오 리얼라이브(Studio Realive)와 어메이즈VR(AmazeVR)이 손을 잡고 내놓은 두 번째 VR 콘서트다. EXO 데뷔로]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[실버 배우들 활약 담긴 '소풍', 유독 반가운 이유]]></title>
+        <id>https://v.daum.net/v/20240214095632921</id>
+        <link href="https://v.daum.net/v/20240214095632921"/>
+        <updated>2024-02-14T01:43:39.393Z</updated>
+        <content type="html"><![CDATA[실버 배우들이 이끄는 영화가 관객들을 만나고 있다. 지난 7일 개봉한 나문희 김영옥 박근형 출연작 '소풍'이다. 주인공의 대부분이 젊은이인 이때, 다양성을 더하는 작품이 나왔다는 점이 반갑다. '소풍'은 절친이자 사돈 지간인 두 친구 은심 금순이 60년 만에 함께 고향 남해로 여행을 떠나며 16세의 추억을 다시 마주하게 되는 이야기를 담는 작품이다.  나문]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이현우 "외적 변신 만족…박진주는 '벌칙이냐' 물어"]]></title>
         <id>https://v.daum.net/v/20240214094619495</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240214081031713"/>
         <updated>2024-02-13T23:10:46.288Z</updated>
         <content type="html"><![CDATA[[스포츠한국 조은애 기자] '웡카'가 14일째 흥행 1위 자리를 지켰다. 14일 영화관입장권&nbsp;통합전산망 집계에 따르면 '웡카'는 전날&nbsp;7만3330명의 관객을 모아 박스오피스 1위를 차지했다. 누적 관객 수는&nbsp;188만6765명이다. 티모시 샬라메 주연의 '웡카'는 가진 것은 달콤한 꿈과 낡은 모자뿐인 '윌리 웡카'가 세계 최고의 초콜릿 메이커가 되]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[네잎클로버가 어쨌길래…뉴진스, 4월17일 컴백설 확산]]></title>
-        <id>https://v.daum.net/v/20240214075103393</id>
-        <link href="https://v.daum.net/v/20240214075103393"/>
-        <updated>2024-02-13T23:10:46.288Z</updated>
-        <content type="html"><![CDATA[[텐아시아=최지예 기자]그룹 뉴진스의 4월 컴백설이 인터넷 커뮤니티를 중심으로 확산되고 있다.&nbsp; 최근 각종 인터넷 커뮤니티에는 뉴진스가 4월 컴백하는 것이 아니냐는 추측이 일며 팬들의 기대감이 높아지고 있다. 팬들이 중점적으로 보고 있는 것은 네잎클로버인데, 앞서 시상식에서 뉴진스의 무대에서 네잎클로버가 그려진 책이 떠오른 것에 이어 각 멤버들의 SNS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이승만 다큐 영화 '건국전쟁', 화제 속 하루 5만↑ 동원…박스오피스 깜짝 2위까지]]></title>
-        <id>https://v.daum.net/v/20240214072550003</id>
-        <link href="https://v.daum.net/v/20240214072550003"/>
-        <updated>2024-02-13T23:10:46.288Z</updated>
-        <content type="html"><![CDATA[(서울=뉴스1) 김민지 기자 = 최근 여러 면에서 화제가 되고 있는 영화 '건국전쟁'(감독 김덕영)이 박스오피스 2위까지 올랐다. 14일 영화진흥위원회 영화관입장권 통합전산망 집계에 따르면 '건국전쟁'은 13일 하루 동안 5만2217명의 관객을 동원하며 한 계단 상승, 박스오피스 2위를 차지했다. 누적 관객수는 38만2158명이다. 지난 1일 개봉한 ']]></content>
     </entry>
 </feed>
