@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/variety</id>
     <title>다음 연예 ─ 뉴스 ─ 예능</title>
-    <updated>2024-02-16T19:11:06.590Z</updated>
+    <updated>2024-02-16T20:11:22.333Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[대성 “화순에서 살겠다…화가 나서 순순히 이대로는 못 떠나”]]></title>
+        <id>https://v.daum.net/v/20240217043900345</id>
+        <link href="https://v.daum.net/v/20240217043900345"/>
+        <updated>2024-02-16T20:11:13.773Z</updated>
+        <content type="html"><![CDATA[가수 대성이 화순으로 2행시를 하고 화순에서 살겠다고 말해 웃음을 자아냈다. 지난 16일 방송된 TV조선 ‘식객 허영만의 백반기행’(이하 ‘백반기행’) 235회에서는 대성과 허영만이 전라남도 화순으로 맛집 탐방을 온 모습이 화면에 담겼다. 대성이 허영만과 함께 화순의 세 번째 맛집에 도착했다. 마지막으로 방문한 19년 내공의 생고기 집은 19년 한우 생고기]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[박나래 “3번째 성대 수술…AI 목소리로 일주일 살기”]]></title>
         <id>https://v.daum.net/v/20240217035100198</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240217000241390"/>
         <updated>2024-02-16T15:11:23.394Z</updated>
         <content type="html"><![CDATA[박나래가 ‘나혼산’에 복귀했다. 16일(금) 방송된 MBC 예능 프로그램 ‘나 혼자 산다’ 533회에서는 박나래의 ‘나의 회복일지’, 전현무의 ‘중년 다이어트’ 편이 전파를 탔다. 앞서 전현무는 지난주 공백이 유독 크게 느껴졌다며 박나래를 반겼다. 후두미세수술(성대 점막을 최대한 보존하며 목소리 변화를 초래하는 병변만 선택적으로 제거하는 수술)로 박나]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘성대수술’ 박나래, 母 목포서 보낸 보양식에 감동 “고맙고 사랑해요”]]></title>
-        <id>https://v.daum.net/v/20240216235732314</id>
-        <link href="https://v.daum.net/v/20240216235732314"/>
-        <updated>2024-02-16T15:11:23.396Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 서유나 기자] 박나래가 엄마가 목포에서 보낸 선물에 감동했다. 2월 16일 방송된 MBC 예능 '나 혼자 산다'(이하 '나혼산') 533회에서는 후두 미세수술을 받고 입원치료를 하다가 퇴원한 박나래의 일상이 공개됐다. 이날 퇴원해 집에서 쉬던 박나래에겐 퀵이 도착했다. 바로 엄마의 퇴원 선물. 선물은 바로 산낙지였다. 박나래는 "엄마가 못 와]]></content>
     </entry>
 </feed>
