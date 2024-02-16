@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2024-02-16T16:13:36.057Z</updated>
+    <updated>2024-02-16T17:10:09.623Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“임영웅 된 기분”... 전현무, 보디프로필 위해 수영장 行 ‘인기 폭발’]]></title>
+        <id>https://v.daum.net/v/20240217011501661</id>
+        <link href="https://v.daum.net/v/20240217011501661"/>
+        <updated>2024-02-16T17:10:04.904Z</updated>
+        <content type="html"><![CDATA[‘나 혼자 산다’ 전현무의 인기가 폭발했다. 16일 방송된 MBC 예능프로그램 ‘나 혼자 산다’(이하 ‘나혼산’)에서는 ‘팜유 보디 프로필’ 촬영을 위해 몸을 만드는 전현무의 일상이 전파를 탔다. 이날 박나래가 퇴원 후 돌아왔고 꾀꼬리 같은 목소리를 자랑하며 “놀랄 수 있다. 목소리가 변해가지고. 이게 원래 제 목소리다”고 강조했다. 코드 쿤스트는 “새벽에]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[전현무 "임영웅 이런 기분인가"…'수영장 프린스' 등극에 함박웃음]]></title>
         <id>https://v.daum.net/v/20240217003533543</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240216230202008"/>
         <updated>2024-02-16T14:10:37.516Z</updated>
         <content type="html"><![CDATA[(서울=뉴스1) 박하나 기자 = 가수 규현이 '더 시즌즈-이효리의 레드카펫'에 출연해 눈 성형을 고백했다. 16일 오후 방송된 KBS 2TV 음악 프로그램 '더 시즌즈-이효리의 레드카펫'(이하 '레드카펫')에서는 규현이 함께했다. 규현이 드라마 '슬기로운 의사생활' OST '화려하지 않은 고백'을 부르며 등장했다. 이어 규현은 직접 객석에 내려가 관객들]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['내남결' 마무리 어쩌나…드라마 프로그램 트렌드지수서 1위]]></title>
-        <id>https://v.daum.net/v/20240216230102000</id>
-        <link href="https://v.daum.net/v/20240216230102000"/>
-        <updated>2024-02-16T14:10:37.516Z</updated>
-        <content type="html"><![CDATA[[텐아시아=고윤상 기자]'내 남편과 결혼해 줘'가 국내 드라마 프로그램 트렌드지수에서 1위를 차지하며 '세 번째 결혼'과 '닥터슬럼프'를 나란히 제쳤다. 종영까지 2회를 남겨두며 막바지인 '내남결'이 성공적인 마무리를 할 수 있을지가 관건이다. 시청자들은 보아의 갑작스런 등장이 극의 전개를 흔들고 있다며 우려섞인 목소리를 내고 있다.&nbsp; 랭키파이에 따르면]]></content>
     </entry>
 </feed>

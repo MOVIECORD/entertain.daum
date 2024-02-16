@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/variety</id>
     <title>다음 연예 ─ 뉴스 ─ 예능</title>
-    <updated>2024-02-16T16:13:36.054Z</updated>
+    <updated>2024-02-16T17:10:09.627Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[전현무, 남성잡지 끼고 팜유즈 바프 촬영...박나래X이장우 "미쳤나봐"]]></title>
+        <id>https://v.daum.net/v/20240217013551687</id>
+        <link href="https://v.daum.net/v/20240217013551687"/>
+        <updated>2024-02-16T17:10:00.990Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 원민순 기자) 전현무가 남성잡지를 끼고 팜유즈 바프 촬영을 한다고 밝혔다. 16일 방송된 MBC '나 혼자 산다'에서는 전현무, 박나래, 이장우가 팜유즈 보디프로필 촬영을 위해 모이는 모습이 전파를 탔다. 이날 전현무는 팜유즈 보디프로필 촬영 건으로 박나래, 이장우와 만났다. 가장 나중에 도착한 박나래는 운동을 하고 오는 길이라고 했다. 전현]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['후두 미세수술' 박나래, 일주일 만 복귀 "묵언수행 회복기"]]></title>
         <id>https://v.daum.net/v/20240217011101657</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240216235053277"/>
         <updated>2024-02-16T15:11:23.397Z</updated>
         <content type="html"><![CDATA[[뉴스엔 이하나 기자] 이효리가 남편 이상순에게 달라서 끌렸다고 전했다. 2월 16일 방송된 KBS 2TV ‘더 시즌즈-이효리의 레드카펫’에는 밴드 wave to earth가 출연했다. 지상파 첫 출연인 wave to earth는 그동안 여러 걸그룹 멤버들이 관심을 가져줬다고 말했다. 김다니엘은 “정말 감사하게도 회사가 생기기도 전에 레드벨벳 웬디 님이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['후두 미세수술' 박나래 "목에서 피 터졌다..세번째 수술"]]></title>
-        <id>https://v.daum.net/v/20240216234721252</id>
-        <link href="https://v.daum.net/v/20240216234721252"/>
-        <updated>2024-02-16T15:11:23.398Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 | 이시호 기자] /사진=MBC '나 혼자 산다' 캡처'나혼산' 방송인 박나래가 4일 간의 입원 생활을 공개했다. 16일 방송된 MBC 예능 프로그램 '나 혼자 산다'에서는 후두 미세수술을 받은 박나래의 모습이 그려졌다. 박나래는 이날 말을 하지 못하는 대신 AI 기술을 활용해 필담을 나눴다. 그는 "7년 전부터 염증으로 성대에 혹이 생긴]]></content>
     </entry>
 </feed>
