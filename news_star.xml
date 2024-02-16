@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2024-02-16T15:11:34.227Z</updated>
+    <updated>2024-02-16T16:13:36.057Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[전현무 "임영웅 이런 기분인가"…'수영장 프린스' 등극에 함박웃음]]></title>
+        <id>https://v.daum.net/v/20240217003533543</id>
+        <link href="https://v.daum.net/v/20240217003533543"/>
+        <updated>2024-02-16T16:13:31.508Z</updated>
+        <content type="html"><![CDATA[(서울=뉴스1) 이지현 기자 = 전현무가 임영웅을 떠올렸다. 16일 오후 방송된 MBC 예능 프로그램 '나 혼자 산다'에서는 방송인 전현무가 다이어트에 도전하는 일상이 공개됐다. 전현무는 살을 빼기 위해 실내 수영장으로 향했다. 다이어트에 효과적이라는 아쿠아로빅을 한다는 것. 수업 시작 전 다른 수강생들이 뜨겁게 환호했다. 이후 전현무를 알아본 어]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[블랙핑크 지수·NCT 재현·몬스타엑스 셔누, 영역 확장하는 ★]]></title>
         <id>https://v.daum.net/v/20240217000220384</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240216230102000"/>
         <updated>2024-02-16T14:10:37.516Z</updated>
         <content type="html"><![CDATA[[텐아시아=고윤상 기자]'내 남편과 결혼해 줘'가 국내 드라마 프로그램 트렌드지수에서 1위를 차지하며 '세 번째 결혼'과 '닥터슬럼프'를 나란히 제쳤다. 종영까지 2회를 남겨두며 막바지인 '내남결'이 성공적인 마무리를 할 수 있을지가 관건이다. 시청자들은 보아의 갑작스런 등장이 극의 전개를 흔들고 있다며 우려섞인 목소리를 내고 있다.&nbsp; 랭키파이에 따르면]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김상중, 이종원 정체 알았다→오의식 옷으로 덮어 이하늬 정체 숨겨줬다]]></title>
-        <id>https://v.daum.net/v/20240216224219895</id>
-        <link href="https://v.daum.net/v/20240216224219895"/>
-        <updated>2024-02-16T14:10:37.517Z</updated>
-        <content type="html"><![CDATA[[스포츠서울 | 김현덕 기자] 김상중이 이종원의 정체를 알아챘다. 16일 방송된 MBC 금토드라마 ‘밤에 피는 꽃’에서는 석지성(김상중 분)이 박수호(이종원 분)의 정체를 알게됐다. 조여화(이하늬 분)는 집으로 돌아와 연선(박세현 분)이 전해준 소식에 복면을 쓰고 석지성에게 향했다. 석지성을 찾아온 강필직(조재윤 분)은 “소인이 죽기 전에 꼭 해야만]]></content>
     </entry>
 </feed>
