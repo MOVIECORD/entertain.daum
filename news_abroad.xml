@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2024-02-17T07:09:39.324Z</updated>
+    <updated>2024-02-17T08:12:36.626Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[젠데이아♥톰 홀랜드, '듄2' 뒤풀이 '올블랙' 커플룩 동반 참석]]></title>
+        <id>https://v.daum.net/v/20240217170348333</id>
+        <link href="https://v.daum.net/v/20240217170348333"/>
+        <updated>2024-02-17T08:12:36.021Z</updated>
+        <content type="html"><![CDATA[[OSEN=연휘선 기자] 할리우드 공식 커플 배우 젠데이아 콜먼과 톰 홀랜드가 영화 뒤풀이 현장에서 포착됐다. 16일(현지시간) 미국 연예지 피플지는 하루 전 영국 런던에서 진행된 영화 ‘듄: 파트2’ 행사 뒤풀이 현장에서 젠데이어 콜먼과 그의 연인 톰 홀랜드가 손을 잡은 모습이 포착됐다고 보도했다.&nbsp; 외신에 따르면 젠데이아 콜먼과 톰 홀랜드는 검은색]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[톰 홀랜드♥︎젠다야, 결별이 뭐죠..한밤 중 런던 데이트]]></title>
         <id>https://v.daum.net/v/20240217154017642</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240216174331805"/>
         <updated>2024-02-16T09:11:01.246Z</updated>
         <content type="html"><![CDATA[[TV리포트=전영은 기자] 일본 진행자 시타라 오사무(50)가 관계자가 꼽은 '스튜디오에서 가장 싫어하는 진행자' 1위라는 불명예를 안았다. 16일(현지 시간) 외신 매체 '야후 재팬'은 주요 방송국의 AD와 제작사 스태프를 비롯해 PD, 프로듀서, 카메라맨 등 총 30명을 대상으로 설문 조사를 시행했고, '스튜디오에서 가장 싫어하는 진행자' 5명을 꼽게]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['공개열애' 男스타, 헤어지자마자 클럽 가서 다른 여자 만나...충격 근황]]></title>
-        <id>https://v.daum.net/v/20240216173800678</id>
-        <link href="https://v.daum.net/v/20240216173800678"/>
-        <updated>2024-02-16T09:11:01.246Z</updated>
-        <content type="html"><![CDATA[[TV리포트=전영은 기자] 이탈리아 출신의 리얼리티 스타 데이비드 센클리멘티(29)가 터키 여배우 에킨 수(29)와 결별한 뒤 쿨하게 여러 여성과 어울리며 '싱글'로서의 삶을 당당히 즐겼다. 16일(현지 시간) 리얼리티 스타 데이비드 센클리멘티가 전 연인이자 배우 에킨 수와 결별한 후, 자신의 소셜네트워크서비스에 이성들과 파티를 즐기는 모습을 업로드해 네티]]></content>
     </entry>
 </feed>
