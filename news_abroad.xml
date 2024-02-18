@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2024-02-18T09:11:05.891Z</updated>
+    <updated>2024-02-18T10:12:01.326Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['조커' 호아킨 피닉스, 두 아이 아빠된다..루니 마라 D라인 공개]]></title>
+        <id>https://v.daum.net/v/20240218184318064</id>
+        <link href="https://v.daum.net/v/20240218184318064"/>
+        <updated>2024-02-18T10:12:00.683Z</updated>
+        <content type="html"><![CDATA[[OSEN=최이정 기자] 영화 '조커'의 배우 호아킨 피닉스(Joaquin Phoenix)가 두 아이의 아빠가 된다. 배우 루니 마라(Rooney Mara)는 최근 베를린 국제 영화제 기간 동안 진행된 영화 '라 코시나(La Cocina)' 프리미어에서 검은 드레스를 입고 레드카펫을 밟으며&nbsp;D라인을 당당히 공개했다. 그녀는 약혼자 호아킨 피닉스와의 사이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“이보다 더 행복할 수 없다” 브래드 피트, 주얼리 브랜드 부사장과 동거에 대만족]]></title>
         <id>https://v.daum.net/v/20240218152815057</id>
@@ -53,12 +60,5 @@
         <link href="https://v.daum.net/v/20240217201047317"/>
         <updated>2024-02-17T12:16:44.485Z</updated>
         <content type="html"><![CDATA[[뉴스엔 이하나 기자] 할리우드 배우 커플 톰 홀랜드, 젠데이아 콜먼이 결별설을 일축했다. 2월 16일(현지시간) 피플은 톰 홀랜드, 젠데이아 커플이 영국 런던에서 블랙 의상을 맞춰 입고 영화 ‘듄: 파트2’ 애프터 파티에 참석했다고 보도했다. 앞서 젠데이아는 영국 런던에서 열린 ‘듄: 파트2’ 월드 프리미어 행사에서 팔과 가슴, 배, 허벅지 부분이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘돌싱’ 지젤 번천, ♥︎주짓수 강사 남친에 푹 빠졌다..발렌타인데이에 키스 포착]]></title>
-        <id>https://v.daum.net/v/20240217183718508</id>
-        <link href="https://v.daum.net/v/20240217183718508"/>
-        <updated>2024-02-17T10:10:28.135Z</updated>
-        <content type="html"><![CDATA[[OSEN=강서정 기자] 모델 지젤 번천이 남자친구인 주짓수 강사 호아킴 발렌테와 깊은 사랑에 빠졌다.&nbsp; 15일(현지시간) 페이지식스 보도에 따르면 지젤 번천과 호아킴 발렌테이 발렌타인데이에 마이애미 인근에서 키스하는 모습이 목격됐다.&nbsp; 한 관계자는 “두 사람은 깊은 사랑에 빠졌다”며 두 사람이 정기적으로 함께 지낸다고 밝혔다.&nbsp; 앞서 번천은 지난해 3]]></content>
     </entry>
 </feed>
