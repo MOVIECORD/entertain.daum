@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2024-02-19T04:13:08.112Z</updated>
+    <updated>2024-02-19T05:11:12.379Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘인어공주’ 할리 베일리, “아기 낳고 건망증 심해져” 고백]]></title>
+        <id>https://v.daum.net/v/20240219140210145</id>
+        <link href="https://v.daum.net/v/20240219140210145"/>
+        <updated>2024-02-19T05:11:11.672Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]‘인어공주’ 할리 베일리(23)가 아들을 낳은 이후의 근황을 전했다. 그는 18일(현지시간) 2024 피플스 초이스 어워즈에서 진행자 래번 콕스와 농담을 주고 받으며 첫 아이를 낳고 건망증이 심해졌다고 말했다. 베일리는 “지금 임산부 건망증에 걸렸다”면서 “여기 오게 되어 기쁘다”라고 말했다. 앞서 베일리는 지난달]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘오스카 굴욕’ 마고 로비, 英 아카데미도 “빈손” 허탈]]></title>
+        <id>https://v.daum.net/v/20240219132316023</id>
+        <link href="https://v.daum.net/v/20240219132316023"/>
+        <updated>2024-02-19T05:11:11.673Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]영화 ‘바비’의 마고 로비가 오스카에 이어 영국 아카데미에서도 굴욕을 맛봤다. 영국영화TV예술아카데미(BAFTA)가 18일(현지시간) 런던 사우스뱅크센터에서 개최한 제77회 영국 아카데미상 시상식에서 ‘바비’는 단 한 개의 트로피도 받지 못했다. 여성감독 그레타 거윅의 '바비'는 5개 부문 후보로 지명됐지만 빈손으로]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['원피스 조로' 배우 맛켄유, 살쪄서 포동해진 근황...잘생김은 여전]]></title>
         <id>https://v.daum.net/v/20240219123401993</id>
@@ -88,12 +102,5 @@
         <link href="https://v.daum.net/v/20240218152815057"/>
         <updated>2024-02-18T07:12:30.382Z</updated>
         <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]할리우드 배우 브래드 피트(60)가 주얼리 브랜드 ‘아나타 코’ 부사장 이네스 드 라몬(34)과 동거생활에 만족감을 드러냈다. 연예매체 피플은 27일(현지시간) “이들은 현재 캘리포니아 자택에서 동거를 하고 있다”면서 “피트는 이보다 더 행복할 수 없는 만족감을 보이고 있다”고 전했다. 소식통은 “두 사람은 브래드의 집에서]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[크리스토퍼 놀란, 최초 공포영화 도전하나.."장르불문 11편 모두 성공"]]></title>
-        <id>https://v.daum.net/v/20240218133018231</id>
-        <link href="https://v.daum.net/v/20240218133018231"/>
-        <updated>2024-02-18T05:10:23.467Z</updated>
-        <content type="html"><![CDATA[[OSEN=최이정 기자] 감독 크리스토퍼 놀란(53)이 영화 '오펜하이머'의 대성공에 이어 다음에 작업하고 싶은 영화 장르를 공개했다. 데일리메일의 17일(현지시간) 보도에 따르면 놀란은&nbsp;장르에 관계 없이 작가와 감독으로 활동한 11편의 영화 모두에서 성공을 거둔 보기 드문 영화 제작자이다. 실제로 그의 작품 하나하나가 전 세계 박스오피스에서 큰 성공을]]></content>
     </entry>
 </feed>
