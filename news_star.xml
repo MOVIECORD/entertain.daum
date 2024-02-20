@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2024-02-20T18:15:34.209Z</updated>
+    <updated>2024-02-20T19:08:53.475Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[케즈, 모델 아리하라 미유키와 가드닝서 영감받은 ‘봄 캠페인’ 전개]]></title>
+        <id>https://v.daum.net/v/20240221032913940</id>
+        <link href="https://v.daum.net/v/20240221032913940"/>
+        <updated>2024-02-20T19:08:48.588Z</updated>
+        <content type="html"><![CDATA[움츠렸던 자연이 만개하고 싱그러움을 발산하는 봄, 청량하고 맑은 매력으로 브랜드 팬덤을 형성하고 있는 케즈가 다가오는 봄을 알리는 특별한 캠페인을 공개해 눈길을 끈다. 휠라코리아㈜(대표 김지헌)가 운영하는 美 스니커즈 브랜드 케즈(Keds)는 글로벌 라이징 모델 아리하라 미유키(Arihara Miyuki)와 함께한 2024 스프링 시즌 캠페인을 전개한]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[신규진 "나도 전세사기 피해자, 보험 아니었으면 2억 9천 날릴 뻔"]]></title>
         <id>https://v.daum.net/v/20240221003630274</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240220231455628"/>
         <updated>2024-02-20T15:10:29.729Z</updated>
         <content type="html"><![CDATA[(엑스포츠뉴스 장인영 기자) 배우 주현영이 광고계의 블루칩을 증명했다.&nbsp; 20일 유튜브 채널 TEO 테오에는 '키, 주현영은 살롱드립을 찢은 범인이 맞습니다'라는 제목으로 웹 콘텐츠 '살롱드립2' 29회가 올라왔다. 이날 장도연은 키와 주현영에게 "광고 엄청 많이 찍지 않았나. 틀면 나오더라"라고 말문을 열었다.&nbsp; 키는 "얼마 전에 콘서트를 했는데 공연이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['강심장VS' 사유리, 로버트 할리 챙기는 이유? "몰래 출산·몰래 마약한 소속사 식구"]]></title>
-        <id>https://v.daum.net/v/20240220231400624</id>
-        <link href="https://v.daum.net/v/20240220231400624"/>
-        <updated>2024-02-20T15:10:29.733Z</updated>
-        <content type="html"><![CDATA[[TV리포트=이혜미 기자] 방송인 사유리가 절친한 동료 로버트 할리를 위해 감시역을 자처한 사연을 전했다. 20일 SBS ‘강심장VS’에선 ‘멘탈 전쟁’ 특집으로 사유리가 출연했다. 사유리는 ‘강철 멘탈’의 소유자로 현재 ‘자발적 경찰’로 활동 중이라고. 사유리는 “내가 로버트 할리와 친하다. 항상 그를 지켜보고 있다. 최근에도 그의 집에 가서 검사를 하고]]></content>
     </entry>
 </feed>
