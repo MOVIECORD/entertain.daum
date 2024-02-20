@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2024-02-20T03:11:59.774Z</updated>
+    <updated>2024-02-20T04:16:08.055Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[조병규, 겉은 고딩인데 속은 40대‥회귀물 ‘어게인 1997’ 3월 개봉]]></title>
+        <id>https://v.daum.net/v/20240220121431504</id>
+        <link href="https://v.daum.net/v/20240220121431504"/>
+        <updated>2024-02-20T04:15:48.837Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 배효주 기자] 조병규 주연 '어게인 1997'이 3월 개봉한다. 영화 ‘어게인 1997’(감독 신승훈)은 죽는 순간 과거의 후회되는 ‘그 때’로 보내주는 5장의 부적을 얻게 된 남자가 제일 잘 나가던 그 시절, 1997년 고등학생 때로 돌아가면서 시작된 인생 개조 프로젝트를 그린 N차 회귀 판타지다. 회귀물이라는 설정 아래 5번의 죽음과 운명을]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['듄:파트2' 티모시 샬라메, 5년만 내한→펭수·유재석과 특급 만남 성사 될까]]></title>
         <id>https://v.daum.net/v/20240220115835964</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240220100529685"/>
         <updated>2024-02-20T01:41:28.782Z</updated>
         <content type="html"><![CDATA[[스타뉴스 | 김나연 기자] 웡카, 듄2 / 사진=영화 포스터 '듄: 파트2'를 향 반응이 점점 뜨거워지는 가운데, 할리우드 최고의 대세 배우 티모시 샬라메가 '듄: 파트2'와 '웡카'를 통해 2024년 상반기 극장가 흥행 돌풍의 주역에 등극해 화제를 모으고 있다. 대한민국과 전 세계가 사랑하는 최고의 대세 배우 티모시 샬라메가 극과 극의 매력을 담은]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김민희 어디? 홍상수, 이자벨 위페르와 베를린 영화제 참석 근황]]></title>
-        <id>https://v.daum.net/v/20240220100243565</id>
-        <link href="https://v.daum.net/v/20240220100243565"/>
-        <updated>2024-02-20T01:41:28.783Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 배효주 기자] 홍상수 감독의 31번째 장편 신작이자 김민희가 제작실장으로 참여한 '여행자의 필요'가 베를린 국제영화제를 통해 공개됐다. 김민희는 레드카펫에 서지 않았다. 영화 '여행자의 필요'(감독 홍상수)가 2월 19일(현지시간) 독일 베를린에서 열린 제74회 베를린 국제영화제를 통해 공식 상영됐다. 이날 진행된 레드카펫 등의 행사에는 홍상수]]></content>
     </entry>
 </feed>
