@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2024-02-20T07:11:08.811Z</updated>
+    <updated>2024-02-20T08:13:42.845Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['조커' 호아킨 피닉스, 쉰 앞두고 두 아이 아빠 된다]]></title>
+        <id>https://v.daum.net/v/20240220171209630</id>
+        <link href="https://v.daum.net/v/20240220171209630"/>
+        <updated>2024-02-20T08:13:42.143Z</updated>
+        <content type="html"><![CDATA[[티브이데일리 김종은 기자] 할리우드 배우 호아킨 피닉스(49)의 아내 루니 마라(39)가 둘째를 가졌다. 연예 매체 페이지식스는 18일(현지시간) "호아킨 피닉스와 루니 마라가 둘째를 가졌다. 루니 마라는 금요일 베를린에서 열린 74회 베를린 국제 영화제에 배가 부른 모습으로 등장하기도 했다"라며 레드카펫 행사에 참석한 루니 마라의 사진을 공개했다. 사]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[브리트니 스피어스, 새 남친 정체는 '중범죄자'...가정부로 고용했다]]></title>
         <id>https://v.daum.net/v/20240220154701918</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240220084448758"/>
         <updated>2024-02-20T00:45:13.460Z</updated>
         <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]세계적 배우 톰 크루즈(61)가 러시아의 백만장자 이혼녀 엘시나 카이로바(36)의 두 자녀를 만났다. 페이지식스는 19일(현지시간) “톰 크루즈와 러시아 사교계 명사 엘시나 카이로바와의 사이가 점점 더 진지해지고 있다”면서 “그는 카이로바의 두 자녀를 만나기도 했다”고 전했다. 카이로바는 2022년 러시아의 올리가르히(신]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[힙합스타 '예', 유대인 혐오 등 논란에도 새앨범 빌보드 1위]]></title>
-        <id>https://v.daum.net/v/20240220072939290</id>
-        <link href="https://v.daum.net/v/20240220072939290"/>
-        <updated>2024-02-19T23:10:17.748Z</updated>
-        <content type="html"><![CDATA[(로스앤젤레스=연합뉴스) 임미나 특파원 = 유대인 혐오·나치 찬양 발언으로 논란을 일으킨 힙합 스타 '예'(옛 이름 카녜이 웨스트)가 최근 발표한 새 앨범으로 다시 빌보드 차트 1위에 올랐다. 19일(현지시간) 빌보드닷컴에 따르면 예가 동료 힙합 가수 타이 달라 사인과의 합작 프로젝트로 발표한 새 앨범 '벌처스(Vultures) 1'은 이번 주 빌보드 20]]></content>
     </entry>
 </feed>
