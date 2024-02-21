@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/variety</id>
     <title>다음 연예 ─ 뉴스 ─ 예능</title>
-    <updated>2024-02-21T16:13:54.874Z</updated>
+    <updated>2024-02-21T17:10:17.737Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['아빠하고' 백일섭, 7년 절연 딸과 화해 후 이별 "말레이시아 이민 준비"]]></title>
+        <id>https://v.daum.net/v/20240222014311780</id>
+        <link href="https://v.daum.net/v/20240222014311780"/>
+        <updated>2024-02-21T17:10:09.054Z</updated>
+        <content type="html"><![CDATA[[OSEN=오세진 기자] ‘아빠하고 나하고’ 백일섭이 딸 백지은과 화해했으나 이별의 위기에 놓였다. 21일 방영한 TV CHOSUN '아빠하고 나하고’에서는 백일섭이 딸 백지은과 화해를 위해 단둘이 만나는 자리를 마련했다. 부녀는 새삼 함께 앉아있는 것이 어색해 가벼운 스몰 토크 후 잠시 정적이 흘렀다. 백일섭은 “너무 감정이 엉켜버려서, 그걸 좀 풀고]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AI 개발 박사→신발 사업가..19기 모솔남 학력·직업 베일 벗었다]]></title>
         <id>https://v.daum.net/v/20240222010915717</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240221235930216"/>
         <updated>2024-02-21T15:11:44.646Z</updated>
         <content type="html"><![CDATA[[스타뉴스 | 이시호 기자] /사진=MBC '라디오스타' 방송 화면 캡처'라디오스타' 코미디언 양세형이 '연애 하수'임을 인정했다. 21일 방송된 MBC 예능프로그램 '라디오스타'에서는 '너는 솔로' 특집으로 배상훈, 양세형, 임우일, 챔보가 출연했다. 22년 차 코미디언 양세형은 이날 시집 '별의 길'을 출판하게 된 계기를 전했다. 양세형은 "'집사부]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[게임 중독 남친 말에 母 명의로 불법 대출, 박미옥 “미성년자 겨냥 신종사기”]]></title>
-        <id>https://v.daum.net/v/20240221235757208</id>
-        <link href="https://v.daum.net/v/20240221235757208"/>
-        <updated>2024-02-21T15:11:44.647Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 이하나 기자] 남자친구 때문에 어머니 명의로 불법 대출을 받은 사연이 분노를 유발했다. 2월 21일 방송된 MBN ‘어른들은 모르는 고딩엄빠4’에서는 남자친구에게 속아 금전적 피해를 입은 안소정(가명)의 사연이 공개됐다. 보이스피싱 피해 충격에 알코올 중독자가 된 어머니 때문에 자존감이 떨어진 안소정은 아르바이트 중 만난 남성과 술김에 잠자리]]></content>
     </entry>
 </feed>
