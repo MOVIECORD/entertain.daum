@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2024-02-22T11:09:11.152Z</updated>
+    <updated>2024-02-22T12:18:16.039Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["사람이 좋다" '파묘' 장재현 감독, 세 작품 연속 오컬트 만든 이유]]></title>
+        <id>https://v.daum.net/v/20240222204932790</id>
+        <link href="https://v.daum.net/v/20240222204932790"/>
+        <updated>2024-02-22T12:17:55.225Z</updated>
+        <content type="html"><![CDATA[[OSEN=김보라 기자]&nbsp;일명 ‘오컬트 장인’이라는 수식어를 가진 장재현 감독(43)이 새 영화 ‘파묘’로 돌아왔다. ‘사바하’ 이후 5년 만이다. ‘검은 사제들’(2015)에서 악마가 깃든 고등학생 소녀를 위해 구마예식하는 신부들의 이야기를, ‘사바하’(2019)에서 신흥종교의 비리를 쫓는 목사의 이야기를 담았다면 이번에는 잘못 쓴 조상 묫자리로 인해]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['파묘' 최민식 "김고은=손흥민이자 메시…이도현 생소했지만"]]></title>
         <id>https://v.daum.net/v/20240222195003452</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240222170007741"/>
         <updated>2024-02-22T08:14:10.072Z</updated>
         <content type="html"><![CDATA[긴 침체기를 겪고 있는 극장업계가 설 특수도 누리지 못한 채 봄을 앞두고 있다. 상반기 화제작들이 개봉하면서 업계가 관객을 끌어모으기 위해 안간힘을 쓰고 있다. 올해 한국영화 최고 기대작 중 하나로 꼽혀 온 영화 ‘파묘’가 22일 개봉했다. 거액을 받고 수상한 묘를 이장한 풍수사와 장의사, 무속인에게 벌어지는 기이한 사건을 그린 작품이다. ‘검은 사제들’]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['파묘' 장재현 감독 "굿 퍼포먼스 강렬하지만, 김고은 진가는 후반부"]]></title>
-        <id>https://v.daum.net/v/20240222165602601</id>
-        <link href="https://v.daum.net/v/20240222165602601"/>
-        <updated>2024-02-22T08:14:10.076Z</updated>
-        <content type="html"><![CDATA[[스포츠투데이 임시령 기자] '파묘' 장재현 감독이 김고은의 무당 연기를 칭찬했다. 장재현 감독은 22일 서울 종로구 삼청동 한 카페에서 영화 '파묘'에 대한 다양한 이야기를 전했다. '파묘'는 거액의 돈을 받고 수상한 묘를 이장한 풍수사와 장의사, 무속인들에게 벌어지는 기이한 사건을 담은 오컬트 영화다. 작품은 '사바하' '검은 사제들'을 통해 한국]]></content>
     </entry>
 </feed>
