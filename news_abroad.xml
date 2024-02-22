@@ -2,15 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2024-02-22T08:14:28.758Z</updated>
+    <updated>2024-02-22T09:12:01.816Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“우리 엄마보다 더 반겨”→“비틀스, 아들보다 환대”…韓 관객들 열광에, 웃는 할리우드 톱스타들]]></title>
+        <id>https://v.daum.net/v/20240222181105144</id>
+        <link href="https://v.daum.net/v/20240222181105144"/>
+        <updated>2024-02-22T09:12:01.157Z</updated>
+        <content type="html"><![CDATA[[스포츠서울 | 유다연 기자] “우리 엄마도 이렇게는 안 반겨줘요.” 배우 젠데이아 콜먼은 지난 21일 서울 영등포구 콘래드 호텔 서울에서 열린 ‘듄 : 파트2’ 내한 기자 간담회에서 이같이 말하며 함박웃음을 지었다. 지난 20일 입국부터 이어진 한국 팬들의 환대에 기쁜 내색을 감추지 못했다. 함께 내한한 ‘듄’의 주역들 역시 영화에 대한 관객들의 기]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['듄2' 젠데이아, ♥톰 홀랜드와 결별설 일축 "아는 사람 중 가장 아름다워"]]></title>
         <id>https://v.daum.net/v/20240222171046220</id>
         <link href="https://v.daum.net/v/20240222171046220"/>
         <updated>2024-02-22T08:14:28.131Z</updated>
-        <content type="html"><![CDATA[[OSEN=김보라 기자]&nbsp;결별설에 시달렸던 배우 젠데이아 콜먼이 남자친구 톰 홀랜드에 대한 애정을 드러냈다. 최근 젠데이아는 영화 ‘듄: 파트2’ 홍보 차 진행된 인터뷰에서 ‘듄: 파트2’에 출연한 배우들 중 눈가 가장 카리스마가 있느냐’는 질문을 받고 “‘듄2’ 출연자는 아닌데 제가 아는 사람 중에 가장 아름다운 카리스마를 갖고 있는 친구가 있다”고]]></content>
+        <content type="html"><![CDATA[[OSEN=김보라 기자]&nbsp;결별설에 시달렸던 배우 젠데이아 콜먼이 남자친구 톰 홀랜드에 대한 애정을 드러냈다. 최근 젠데이아는 영화 ‘듄: 파트2’ 홍보 차 진행된 인터뷰에서 ‘듄: 파트2에 출연한 배우들 중 누가 가장 카리스마가 있었느냐’는 질문을 받고 “‘듄2’ 출연자는 아닌데 제가 아는 사람 중에 가장 아름다운 카리스마를 갖고 있는 친구가 있다”고]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[제니퍼 로페즈, 과거 남친에 '학대' 당해..."맞으면서도 상대 걱정"]]></title>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240222125300724"/>
         <updated>2024-02-22T04:12:37.738Z</updated>
         <content type="html"><![CDATA[[TV리포트=최이재 기자] 코미디언 짐 데이비슨(70)이 충격적인 발표를 해 주목받았다. 지난 21일(현지 시간) 외신 매체 '데일리 메일'은 "짐 데이비슨이 무려 23살 여성 나타샤와의 열애를 공개했다"고 보도했다. 심지어 짐 데이비슨은 나타샤와 함께 생활하기 위해 조지아에 있는 별장을 이미 팔았으며 한 소식통을 통해 "이제 새로운 장을 맞이할 준비가 돼]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[걸그룹 '파티츄우엔' 멤버, 남자랑 '동거' 걸려 퇴출 당했다]]></title>
-        <id>https://v.daum.net/v/20240222115730465</id>
-        <link href="https://v.daum.net/v/20240222115730465"/>
-        <updated>2024-02-22T03:12:48.805Z</updated>
-        <content type="html"><![CDATA[[TV리포트=유소연 기자] 한 걸그룹에서 일주일 만에 멤버 3명이 탈퇴해 팬들이 충격을 금치 못하는 상황이다. 11일 걸그룹 '파티츄우엔' 소속사는 멤버 키노시타의 탈퇴를 발표하며 충격적인 사유를 밝혔다. 소속사 측은 "키노시타가 소속사 관계자에게 거짓말을 하고 남성 댄스 강사의 집에서 동거하는 등 신뢰를 크게 잃는 행동을 했다"라고 설명했다. 이어 "아이]]></content>
     </entry>
 </feed>
