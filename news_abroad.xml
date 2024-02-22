@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2024-02-22T03:12:49.418Z</updated>
+    <updated>2024-02-22T04:12:38.364Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[70세 개그맨, '23살' 여성과 교제 발표..."할아버지뻘이네" 반응도]]></title>
+        <id>https://v.daum.net/v/20240222125300724</id>
+        <link href="https://v.daum.net/v/20240222125300724"/>
+        <updated>2024-02-22T04:12:37.738Z</updated>
+        <content type="html"><![CDATA[[TV리포트=최이재 기자] 코미디언 짐 데이비슨(70)이 충격적인 발표를 해 주목받았다. 지난 21일(현지 시간) 외신 매체 '데일리 메일'은 "짐 데이비슨이 무려 23살 여성 나타샤와의 열애를 공개했다"고 보도했다. 심지어 짐 데이비슨은 나타샤와 함께 생활하기 위해 조지아에 있는 별장을 이미 팔았으며 한 소식통을 통해 "이제 새로운 장을 맞이할 준비가 돼]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[걸그룹 '파티츄우엔' 멤버, 남자랑 '동거' 걸려 퇴출 당했다]]></title>
         <id>https://v.daum.net/v/20240222115730465</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240221170231664"/>
         <updated>2024-02-21T08:14:40.438Z</updated>
         <content type="html"><![CDATA[[TV리포트=최이재 기자] 최근 테일러 스위프트가 월드 투어를 하며 머문 럭셔리한 호텔이 주목을 받았다. 지난 20일(현지 시간) 외신 매체 '페이지 식스'는 "테일러 스위프트가 월드 투어 중 호주 시드니에 방문했을 때 5성급 크라운 시드니 호텔의 럭셔리 펜트하우스에 머물렀다"고 보도했다. 테일러 스위프트는 '에라스 월드 투어'의 마지막 일정을 호주에서 소]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['재산 6700억' 올리비아 로드리고, 성인 되고 '화끈 파티' 개최...셀럽도 불렀다]]></title>
-        <id>https://v.daum.net/v/20240221164230859</id>
-        <link href="https://v.daum.net/v/20240221164230859"/>
-        <updated>2024-02-21T08:14:40.438Z</updated>
-        <content type="html"><![CDATA[[TV리포트=최이재 기자] 아역 배우로 데뷔했던 유명 팝 가수 올리비아 로드리고가 드디어 성인이 됐다. 지난 20일(현지 시간) 외신 매체 '데일리 메일'은 "올리비아 로드리고가 성인이 되고 첫 생일을 맞아 유명 스타들과 파티를 열었다"고 보도했다. 올리비아 로드리고는 친구들과 함께 생일 파티를 하며 자신의 어린 시절 사진이 새겨진 쿠키를 간식으로 먹었다.]]></content>
     </entry>
 </feed>
