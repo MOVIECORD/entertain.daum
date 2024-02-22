@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2024-02-22T18:13:49.105Z</updated>
+    <updated>2024-02-22T19:08:29.745Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘극장의 봄’ 언제 오나… 특수 상영관·이벤트 확대하는 극장]]></title>
+        <id>https://v.daum.net/v/20240223040529604</id>
+        <link href="https://v.daum.net/v/20240223040529604"/>
+        <updated>2024-02-22T19:08:24.560Z</updated>
+        <content type="html"><![CDATA[‘극장의 봄’이 좀처럼 오지 않고 있다. 웬만한 화제작에는 별다른 반응이 없어진 지 오래다. 극장업계는 극장 오는 재미를 배가시킬 다양한 이벤트 마련에 분주하다. 영화계는 22일 개봉한 영화 ‘파묘’의 흥행 여부에 촉각을 곤두세운다. ‘파묘’는 올해 한국영화 최고 기대작 중 하나로 꼽힌다. 최민식 김고은 유해진 이도현 등 출연진의 이름값만으로도 관심을 받]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이현주, 에이프릴 갈등→활동 중단 “언제까지 쉬어야 하나 답답했다”]]></title>
         <id>https://v.daum.net/v/20240223030009173</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240222234755406"/>
         <updated>2024-02-22T15:11:36.523Z</updated>
         <content type="html"><![CDATA[‘나솔사계’ 남자 1호가 자신의 실수로 14기 옥순과 데이트를 하게 됐다. 22일 방송된 ENA, SBS Plus ‘나는 SOLO, 그 후 사랑은 계속된다’에서는 ‘나는 SOLO’ 옥순들과 ‘짝’ 남성 출연자들의 이야기가 그려졌다. 이날 방송에서 남자 1호는 14기 옥순에게 슈퍼 데이트권을 사용했다. 남자 1호는 제작진과 인터뷰에서 “슈퍼 데이트권을]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["경단녀 되기 싫어" 9기 옥순, 전업주부 원하는 남자 1호와 기싸움]]></title>
-        <id>https://v.daum.net/v/20240222234052369</id>
-        <link href="https://v.daum.net/v/20240222234052369"/>
-        <updated>2024-02-22T15:11:36.524Z</updated>
-        <content type="html"><![CDATA[[스포츠조선닷컴 이게은기자] 9기 옥순과 남자 1호가 결혼 조건에 대해 팽팽하게 맞섰다. 22일 방송된 ENA·SBS Plus '나는 SOLO, 그 후 사랑은 계속된다' (이하 '나솔사계')에서는 9기 옥순과 남자 1호가 데이트를 통해 서로를 알아가는 모습이 공개됐다. 남자 1호는 고민 끝에 여자 방 문을 두드렸고 14기 옥순에게 슈퍼 데이트]]></content>
     </entry>
 </feed>
