@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-02-22T10:11:12.810Z</updated>
+    <updated>2024-02-22T11:09:11.154Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['미나씨' 김태영 "저는 기본 프사 써요"]]></title>
+        <id>https://v.daum.net/v/20240222200112821</id>
+        <link href="https://v.daum.net/v/20240222200112821"/>
+        <updated>2024-02-22T11:08:52.015Z</updated>
+        <content type="html"><![CDATA[배우 김태영이 '미나씨, 또 프사 바뀌었네요' 이미나와의 싱크로율에 대해 이야기했다. 최근 김태영은 iMBC연예와 서울 마포구 상암동 MBC사옥에서 왓챠 새 오리지널 시리즈 '미나씨, 또 프사 바뀌었네요?'(극본 구이경·연출 김경연, 이하 '미나씨') 관련 인터뷰를 진행했다. '미나씨'는 툭하면 프사가 바뀌는 여자 이미나의 20대 연애기를 그린 하이퍼]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['세 번째 결혼' 윤선우, 숙모 된 오승아에 사랑고백 "전노민과 이혼해"]]></title>
+        <id>https://v.daum.net/v/20240222194631403</id>
+        <link href="https://v.daum.net/v/20240222194631403"/>
+        <updated>2024-02-22T11:08:52.015Z</updated>
+        <content type="html"><![CDATA[[TV리포트 = 하수나 기자] ‘세 번째 결혼’ 윤선우가 오승아에게 이혼을 하라고 호소하며 여전히 사랑하는 마음을 드러냈다.&nbsp; 22일 MBC 일일드라마 ‘세 번째 결혼’에선 다정(오승아 분)을 두고 요한(윤선우 분)과 제국(전노민 분)이 대립하는 모습이 그려졌다.&nbsp; 요한은 복수를 위해 숙부인 제국의 아내가 된 다정에게 “왜 서로 사랑하는데 모른 척 해야 하]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[황정음, ♥이영돈과 이혼 발표에도 '7인의 부활' 포스터 촬영…꿋꿋이 '본업' 열중]]></title>
         <id>https://v.daum.net/v/20240222182308517</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240222155009907"/>
         <updated>2024-02-22T07:10:46.415Z</updated>
         <content type="html"><![CDATA[[동아닷컴] 배우 정경호가 tvN 새 월화드라마 ‘웨딩 임파서블’(극본 박슬기 오혜원 연출 권영일)에 특별 출연한다. 동아닷컴 취재 결과, 정경호는 ‘웨딩 임파서블’에서 포브스가 선정한 ‘영향력 있는 여성 100인’에 이름을 올린 젊은 여성들의 워너비로 태양그룹 외동딸이자 태양물산 대표이사 윤채원(배윤경 분)의 맞선남으로 등장한다. 앞서 배윤경은 지난해]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[백성현, 훈남 의사 된다…함은정과는 '천적']]></title>
-        <id>https://v.daum.net/v/20240222154437649</id>
-        <link href="https://v.daum.net/v/20240222154437649"/>
-        <updated>2024-02-22T07:10:46.415Z</updated>
-        <content type="html"><![CDATA[[마이데일리 = 박서연 기자] 배우 백성현이 훈남 의사로 돌아온다. 22일 KBS 1TV 새 일일드라마 ‘수지맞은 우리’(극본 남선혜 연출 박기현) 측은 백성현의 첫 스틸을 공개했다. 공개된 스틸 속 의사 가운을 멋지게 소화해 낸 백성현은 ‘채우리’ 캐릭터에 완벽 동화된 모습이다. 백성현이 연기하는 채우리는 실력 있고 예의가 바른 데다 유머러스하고 정의]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘수지맞은 우리’ 훈남 의사 백성현, 함은정과는 병원 내 천적]]></title>
-        <id>https://v.daum.net/v/20240222152955852</id>
-        <link href="https://v.daum.net/v/20240222152955852"/>
-        <updated>2024-02-22T07:10:46.415Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 박수인 기자] 배우 백성현이 ‘수지맞은 우리’에서 훈남 의사로 변신한다. 오는 3월 첫 방송 예정인 KBS 1TV 새 일일드라마 ‘수지맞은 우리’(연출 박기현 / 극본 남선혜 / 제작 몬스터유니온)는 추락한 스타 의사 진수지와 무대뽀 초짜 의사 채우리의 쌍방 치유, 정신 승리, 공감 로맨스 &amp; 핏줄 노노! 호적 타파, 신개념 가족 만들기에 대한]]></content>
     </entry>
 </feed>
