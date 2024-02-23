@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2024-02-23T01:42:08.024Z</updated>
+    <updated>2024-02-23T02:16:50.056Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[톰 크루즈, 두 달 만에 25세 연하 연인과 결별]]></title>
+        <id>https://v.daum.net/v/20240223111311889</id>
+        <link href="https://v.daum.net/v/20240223111311889"/>
+        <updated>2024-02-23T02:16:49.410Z</updated>
+        <content type="html"><![CDATA[[티브이데일리 김종은 기자] 할리우드 배우 톰 크루즈가 25세 연하 엘시나 카이로바와 결별했다. 영국 매체 데일리메일은 최근 "톰 크루즈와 엘시나 카이로바와 이별했다. 이는 톰 크루즈가 연인의 아이들을 만난 지 불과 며칠 만에 벌어진 일이다"라고 보도했다. 톰 크루즈와 엘시나 카이로바는 지난해 12월 런던의 한 파티장에서 첫 만남을 가졌다. 이후 런던의 한]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“‘남편 불륜’에 왜 이렇게 관심이 많아, 끔찍했다” 나탈리 포트만 심경 토로]]></title>
         <id>https://v.daum.net/v/20240223101821435</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240222161430150"/>
         <updated>2024-02-22T08:14:28.138Z</updated>
         <content type="html"><![CDATA[[TV리포트=한아름 기자] 미국 최장수 심야 토크쇼 '지미 키멜 라이브'의 진행자 지미 키멜이 재계약하지 않을 것이라고 밝혀 화제다. 지난 20일(현지 시간), 외신 매체 '로스앤젤레스 타임스'와 진행한 인터뷰에서 국민 MC 지미 키멜이 "'지미 키멜 라이브(Jimmy Kimmel Live!)는 이제 충분하다"고 대답하며, 프로그램 종영을 암시했다. 지미]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[70세 코미디언, 5번째 이혼 동시 23세와 열애…딸이 51세인데]]></title>
-        <id>https://v.daum.net/v/20240222154407622</id>
-        <link href="https://v.daum.net/v/20240222154407622"/>
-        <updated>2024-02-22T07:11:00.495Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 이민지 기자] 짐 데이비슨이 새 여자친구를 공개해 충격을 주고 있다. 2월 21일(현지시간) 데일리메일에 따르면 다섯번째 부인과 이혼 한 70세 코미디언 짐 데이비슨은 23세 여자친구와 새로운 인생을 시작한다. 짐 데이비슨은 지난해 아내 미셸 코튼과의 14년 결혼 생활을 마쳤다. 그는 2009년 결혼한 미셸 코튼과 여전히 좋은 관계를 유지하고]]></content>
     </entry>
 </feed>
