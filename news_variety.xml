@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/variety</id>
     <title>다음 연예 ─ 뉴스 ─ 예능</title>
-    <updated>2024-02-23T19:10:23.831Z</updated>
+    <updated>2024-02-23T20:13:26.983Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[문성현, KBS2 새 주말극 '미녀와 순정남' 캐스팅…지현우 아역]]></title>
+        <id>https://v.daum.net/v/20240224043004617</id>
+        <link href="https://v.daum.net/v/20240224043004617"/>
+        <updated>2024-02-23T20:13:18.598Z</updated>
+        <content type="html"><![CDATA[[스포티비뉴스=김원겸 기자]신인 배우 문성현이 KBS2 새 주말드라마 ‘미녀와 순정남’에 캐스팅됐다. ‘미녀와 순정남’은 하루아침에 밑바닥으로 추락하게 된 톱배우와 그녀를 사랑해 다시 일으켜 세우는 초짜 드라마 PD의 인생 역전을 그린 파란만장 로맨스 성장드라마다. 극 중 문성현은 주인공 고필승(지현우)의 어린 시절인 고대충 역을 맡았다. 앞서 공개]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[결혼설 부인 전현무, 왼손 약지 반지 언급→“내년 정착운” 사주에 깜짝]]></title>
         <id>https://v.daum.net/v/20240224010208056</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240223235831667"/>
         <updated>2024-02-23T15:11:55.955Z</updated>
         <content type="html"><![CDATA[바이올리니스트 대니 구가 ‘청룡 열차’ 특집 첫 번째 주인공으로 등장했다. 23일(금) 방송된 MBC 예능 프로그램 ‘나 혼자 산다’ 534회에서는 대니 구의 ‘무지개 라이브’, 김대호의 ‘김씨가문 대명절’ 편이 전파를 탔다. 이날 전현무는 청룡의 해를 맞아 ‘청룡 열차’ 특집을 진행한다고 밝혔다. 청룡 열차처럼 올라갈 매력 넘치는 사람들을 소개하는]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이효리 "제니, 르세라핌 등 후배들 노출의상 안 입었으면"..소신 발언 '눈길']]></title>
-        <id>https://v.daum.net/v/20240223235737656</id>
-        <link href="https://v.daum.net/v/20240223235737656"/>
-        <updated>2024-02-23T15:11:55.958Z</updated>
-        <content type="html"><![CDATA[[OSEN=김수형 기자]‘이효리의 레드카펫’에서 이효리가 후배들을 위한 소신을 전했다.&nbsp; 23일 방송된 KBS2TV ‘더 시즌즈-이효리의 레드카펫’에서 엄정화가 함께 했다.&nbsp; 엄정화는 히트곡인 ‘초대’로 매혹적인 무대를 꾸몄다. 무대 후 이효리는 “어서오셔라”며 포옹하더니ㅍ“오늘 선배님이라 부르겠다”며 반겼다. 그러면서 이효리는 원조 군통령이었던 엄정화]]></content>
     </entry>
 </feed>
