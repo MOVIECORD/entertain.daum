@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2024-02-23T03:11:23.550Z</updated>
+    <updated>2024-02-23T04:12:25.517Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“봉준호 ‘미키 17’ 개봉 왜 연기했냐”, 전세계 영화팬 분노·좌절감 표출]]></title>
+        <id>https://v.daum.net/v/20240223130104824</id>
+        <link href="https://v.daum.net/v/20240223130104824"/>
+        <updated>2024-02-23T04:12:05.412Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]워너브러더스가 기대를 모았던 봉준호 감독의 ‘미키 17’ 개봉일을 내년으로 연기하자 전세계 영화팬이 분노를 표출하고 있다. 원래 내달 29일 개봉 예정이었던 ‘미키 17은 2025년 1월 31일로 개봉이 미뤄졌다. 이 영화는 에드워드 애쉬튼의 2022년작 공상과학 소설 '미키 7'을 각색한 작품으로, 일곱 번째 복제에 성공한]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['건국전쟁' 김덕영 감독 "중도층, 우리 영화로 인해 각성 중"]]></title>
         <id>https://v.daum.net/v/20240223120757902</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240223103524101"/>
         <updated>2024-02-23T01:41:51.438Z</updated>
         <content type="html"><![CDATA[[OSEN=하수정 기자] 채널 OCN이 오는 3월 11일(미국 현지 시각 10일 오후 7시) LA 할리우드 돌비 극장에서 열리는 ‘제96회 아카데미 시상식’을 국내 독점 생중계한다. 이번 아카데미 시상식에는 셀린 송 감독, 유태오 주연의 화제작 ‘패스트 라이브즈’가 주요 시상인 작품상을 비롯해 각본상 후보에 오르며 가장 큰 관심을 받고 있다.&nbsp; ‘패스트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박시후, '신의 악단'으로 스크린 복귀..북한 장교 변신]]></title>
-        <id>https://v.daum.net/v/20240223100815080</id>
-        <link href="https://v.daum.net/v/20240223100815080"/>
-        <updated>2024-02-23T01:41:51.438Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 | 김나연 기자] 박시후 / 사진=제이풀엔터테인먼트배우 박시후가 영화 '신의 악단' 출연을 확정했다. 23일 박시후의 소속사 제이풀엔터테인먼트는 "박시후가 '신의 악단'에 '박교순' 역으로 출연을 확정하고 촬영을 앞두고 있다"고 전했다. '신의 악단'은 북한 보위부 소속 한 장교가 외화벌이를 위해 가짜 찬양단을 조직한다는 내용을 담을 예정.]]></content>
     </entry>
 </feed>
