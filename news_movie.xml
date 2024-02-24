@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2024-02-24T02:14:16.773Z</updated>
+    <updated>2024-02-24T03:13:14.464Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['파묘', 개봉 3일만 100만 관객 돌파..'서울의 봄'보다 빠르다]]></title>
+        <id>https://v.daum.net/v/20240224120435202</id>
+        <link href="https://v.daum.net/v/20240224120435202"/>
+        <updated>2024-02-24T03:12:57.684Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 | 김나연 기자] 파묘 / 사진=영화 포스터'파묘'가 개봉 3일 만에 100만 관객을 돌파했다. 거액의 돈을 받고 수상한 묘를 이장한 풍수사와 장의사, 무속인들에게 벌어지는 기이한 사건을 담은 오컬트 미스터리 영화 '파묘'가 영화진흥위원회 통합전산망 기준 24일 오전 누적 관객 수 100만 891명을 동원하며 올해 개봉작 중 가장 빠른 속도로]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[심상치 않은 '파묘' 흥행→티모시 샬라메 '듄2'…극장의 봄 오나?]]></title>
+        <id>https://v.daum.net/v/20240224120106147</id>
+        <link href="https://v.daum.net/v/20240224120106147"/>
+        <updated>2024-02-24T03:12:57.686Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 이승길 기자] 대목이라는 설연휴에도 이렇다 할 흥행작은 없어 썰렁하던 극장가에 모처럼 훈풍이 불어올 조짐이다. 오프닝 스코어부터 심상치 않은 흥행세를 보이고 있는 영화 '파묘' 때문이다. 24일 영화관입장권 통합전산망에 따르면 '파묘'는 전날 37만3천여명의 관객을 동원해 이틀 연속 박스오피스 정상을 지켰다. 지난 22일 개봉과 함께 1위]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[심상치 않은 '파묘', 이틀 연속 압도적 1위..첫 주말 100만 갈까]]></title>
         <id>https://v.daum.net/v/20240224101711109</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240223184701616"/>
         <updated>2024-02-23T10:12:10.795Z</updated>
         <content type="html"><![CDATA[과거 자주 오른 뒷산에 있던 산소 하나. 그곳은 어린 장재현 감독의 놀이터였다. 그런데 어느 날 사람들이 몰려오더니 무덤을 파헤친다고 했다. 무속인은 굿을 하고 사람들은 땅을 팠다. 어린 장 감독은 충격에 빠져 그 광경을 지켜봤다. 그의 눈에 들어온 100년 넘은 다 썩은 관. 궁금하지만 보고 싶진 않고, 한편으론 또 보고 싶은 이상한 감정. 지난 22]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["재밌고 신비롭다" 홍상수 '여행자의 필요', 황금곰상 노린다…베를린영화제 '호평']]></title>
-        <id>https://v.daum.net/v/20240223183953487</id>
-        <link href="https://v.daum.net/v/20240223183953487"/>
-        <updated>2024-02-23T10:12:10.798Z</updated>
-        <content type="html"><![CDATA[[스포티비뉴스=김현록 기자]제74회 베를린국제영화제 경쟁부문에 진출한 홍상수 감독 31번째 장편영화 '여행자의 필요'에 외신의 호평이 이어지고 있다. 베를린국제영화제에 5년 연속 공식 초청된 홍상수 감독의 신작, 이자벨 위페르 주연의 영화 '여행자의 필요'(A traveler’s needs)가 19일 오후 10시 경쟁부문 월드 프리미어 상영을 통해]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘韓친자’ 티모시 샬라메, 펭수·유재석 만나고 서울 구경까지‥야무진 4박5일 내한]]></title>
-        <id>https://v.daum.net/v/20240223175810769</id>
-        <link href="https://v.daum.net/v/20240223175810769"/>
-        <updated>2024-02-23T09:10:16.281Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 배효주 기자] 티모시 샬라메가 4박5일 간의 내한 일정을 알차고 완벽하게 즐겼다. 배우 티모시 샬라메는 영화 '듄: 파트2'(감독 드니 빌뇌브) 홍보 차 지난 2월 19일 인천국제공항을 통해 입국, 공항에 몰려든 팬들에게 사인을 해주는 아낌없는 팬서비스로 내한 일정을 열었다. 공식 내한 행사는 21일과 22일로 계획돼 있었지만, 그보다 빨리 입국]]></content>
     </entry>
 </feed>
