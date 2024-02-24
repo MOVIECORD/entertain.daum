@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2024-02-24T07:10:36.138Z</updated>
+    <updated>2024-02-24T08:12:33.911Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[글로벌 열기↑…‘범죄도시4’,베를린국제영화제 성료]]></title>
+        <id>https://v.daum.net/v/20240224161200199</id>
+        <link href="https://v.daum.net/v/20240224161200199"/>
+        <updated>2024-02-24T08:12:17.043Z</updated>
+        <content type="html"><![CDATA[영화 ‘범죄도시4’가 제74회 베를린국제영화제 공식 행사를 성료했다. ‘범죄도시4’는 괴물형사 ‘마석도’(마동석)가 대규모 온라인 불법 도박 조직을 움직이는 특수부대 용병 출신의 빌런 ‘백창기’(김무열)와 IT 업계 천재 CEO ‘장동철’(이동휘)에 맞서 다시 돌아온 ‘장이수’(박지환), 광수대&amp;사이버팀과 함께 펼치는 범죄 소탕 작전을 그린 영화. ‘범죄도]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['파묘' 개봉 3일 만에 100만 돌파…올해 개봉작 중 최단 기간]]></title>
         <id>https://v.daum.net/v/20240224153901849</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240224120106147"/>
         <updated>2024-02-24T03:12:57.686Z</updated>
         <content type="html"><![CDATA[[마이데일리 = 이승길 기자] 대목이라는 설연휴에도 이렇다 할 흥행작은 없어 썰렁하던 극장가에 모처럼 훈풍이 불어올 조짐이다. 오프닝 스코어부터 심상치 않은 흥행세를 보이고 있는 영화 '파묘' 때문이다. 24일 영화관입장권 통합전산망에 따르면 '파묘'는 전날 37만3천여명의 관객을 동원해 이틀 연속 박스오피스 정상을 지켰다. 지난 22일 개봉과 함께 1위]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[심상치 않은 '파묘', 이틀 연속 압도적 1위..첫 주말 100만 갈까]]></title>
-        <id>https://v.daum.net/v/20240224101711109</id>
-        <link href="https://v.daum.net/v/20240224101711109"/>
-        <updated>2024-02-24T01:39:09.038Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 | 김나연 기자] 파묘 / 사진=영화 포스터'파묘'의 흥행 기세가 심상치 않다. 24일 영화진흥위원회 통합전산망에 따르면 전날 '파묘'는 37만 4503명의 관객을 동원해 박스오피스 1위를 기록했다. 누적 관객 수는 71만 655명. '파묘'는 거액의 돈을 받고 수상한 묘를 이장한 풍수사와 장의사, 무속인들에게 벌어지는 기이한 사건을 담은]]></content>
     </entry>
 </feed>
