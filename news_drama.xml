@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-02-25T01:48:21.687Z</updated>
+    <updated>2024-02-25T02:19:27.522Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['환상연가' 궁궐 돌아온 박지훈, 황희와 정면 대립..폭풍전야 신경전]]></title>
+        <id>https://v.daum.net/v/20240225111054825</id>
+        <link href="https://v.daum.net/v/20240225111054825"/>
+        <updated>2024-02-25T02:19:13.853Z</updated>
+        <content type="html"><![CDATA[[OSEN=장우영 기자] 기억을 잃었던 박지훈이 환궁해 모든 상황을 되돌려 놓기 위해 고군분투한다. 오는 26일 밤 10시 10분 방송되는 KBS2 월화드라마 ‘환상연가’(극본 윤경아, 연출 이정섭, 제작 몬스터유니온, 판타지오) 15회에서는 왕위를 위협받던 사조 현(박지훈)이 궁궐로 돌아와, 임시로 국정을 다스리던 사조 융(황희)의 검은 속내를 정면으]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[안보현X박지현 뒷심 발휘..김남주X차은우 "드루와 드루와"]]></title>
         <id>https://v.daum.net/v/20240225102519900</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240225090102530"/>
         <updated>2024-02-25T00:50:37.273Z</updated>
         <content type="html"><![CDATA[[텐아시아=이하늘 기자] 박지훈, 홍예지 주연의 KBS2 '환상연가'가 종영까지 2부작을 남겨두고 있지만, 계속해서 낮은 시청률을 기록하고 있다. '환상연가'는 상반된 두 인격을 가진 남자와 그 남자를 사랑한 여자, 풋풋한 사랑과 지독한 집착을 넘나드는 판타지 사극 로맨스로 반지운 작가의 동명의 웹툰을 원작으로 한다. 2024년 1월 2일 첫&nbsp;방송된 ']]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박신혜, ♥박형식과 이별 후폭풍…SNS 보고 배신감 "자니?"]]></title>
-        <id>https://v.daum.net/v/20240225085802422</id>
-        <link href="https://v.daum.net/v/20240225085802422"/>
-        <updated>2024-02-25T00:50:37.275Z</updated>
-        <content type="html"><![CDATA[[텐아시아=강민경 기자] 박형식, 박신혜가 다시 병원으로 돌아왔다. 24일 방송된 JTBC 토일드라마 '닥터슬럼프' 9회에는 여정우(박형식 역), 남하늘(박신혜&nbsp;역)의 이별 후 이야기가 그려졌다. 여정우는 빈대영(윤박&nbsp;역)의 스카우트 제의를 받아들이며, 병원 출근을 위해 옥탑방을 잠시 떠나 지내게 됐다. 남하늘은 그의 빈자리에 허전함을 느꼈고, 엄마 공]]></content>
     </entry>
 </feed>
