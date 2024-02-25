@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2024-02-25T11:10:06.559Z</updated>
+    <updated>2024-02-25T12:17:00.561Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[유인촌 장관, 베를린영화제 심사위원대상 홍상수 감독에 축전]]></title>
+        <id>https://v.daum.net/v/20240225204838595</id>
+        <link href="https://v.daum.net/v/20240225204838595"/>
+        <updated>2024-02-25T12:16:40.718Z</updated>
+        <content type="html"><![CDATA[(서울=연합뉴스) 이은정 기자 = 유인촌 문화체육관광부 장관은 25일 제74회 베를린국제영화제에서 심사위원대상을 받은 홍상수 감독과 제너레이션 K플러스 부문 수정곰상을 받은 김혜영 감독에게 각각 축전을 보내 축하했다. 유 장관은 축전에서 "이번 베를린국제영화제 수상은 한국 영화의 높아진 위상과 함께 다양성과 우수성을 전 세계에 알린 자랑스러운 성과"라며]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[미국배우조합상 故이선균 추모‥‘기생충’ 수상 4년만에 바뀐 운명 “안타까워”]]></title>
         <id>https://v.daum.net/v/20240225200915242</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240225152407986"/>
         <updated>2024-02-25T07:11:48.732Z</updated>
         <content type="html"><![CDATA[[OSEN=김보라 기자] 배우 이레가 주인공으로 열연한 영화 ‘괜찮아 괜찮아 괜찮아!’가 제74회 베를린 국제영화제에서 수정곰상 제너레이션 K플러스 작품상을 수상했다. 세계 3대 영화제로 꼽히는 베를린 국제영화제의 초청을 받은 김혜영 감독의 영화 ‘괜찮아 괜찮아 괜찮아!’는 엄마를 잃은 고등학생 인영(이레 분)이 집세가 밀려 쫓겨나자 자신이 속한 예술단]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['듄: 파트2' 티모시 샬라메, 지구상에서 요즘 가장 핫하다]]></title>
-        <id>https://v.daum.net/v/20240225151721840</id>
-        <link href="https://v.daum.net/v/20240225151721840"/>
-        <updated>2024-02-25T07:11:48.732Z</updated>
-        <content type="html"><![CDATA[[OSEN=김보라 기자]&nbsp;미국 할리우드는 물론이고 우리나라를 포함한 해외 각국을 가장 뜨겁게 달구고 있는 배우 티모시 샬라메. 영화 팬들에게는 그가 모델 카일리 제너와 교제 중이라는 사실도 아무런 문제가 되지 않는 듯하다. 미국이라는 좁은 틀에만 갇히지 않은, 지구상에서 요즘 가장 강력한 ‘티모시’ 팬덤이 존재하기 때문이다. 이로 인해 그가 출연한 새]]></content>
     </entry>
 </feed>
