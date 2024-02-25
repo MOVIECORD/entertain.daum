@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2024-02-25T09:10:11.179Z</updated>
+    <updated>2024-02-25T10:10:04.271Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[할리 베일리, '인어공주' 흥행 실패 의식…흑인배우 "잘했다" 칭찬에 눈물]]></title>
+        <id>https://v.daum.net/v/20240225185821659</id>
+        <link href="https://v.daum.net/v/20240225185821659"/>
+        <updated>2024-02-25T10:10:03.700Z</updated>
+        <content type="html"><![CDATA[[OSEN=김보라 기자]&nbsp;가수 겸 배우 할리 베일리가 자신을 향한 칭찬에 눈물을 흘렸다. 할리 베일리는 24일(현지 시각) 열린 제30회 미국 배우 조합상(SAG)에 참석했다. 이날 배우 스털링 K.브라운은 할리 베일리에게 “그녀는 사랑스럽다”라며 “그녀는 우리 흑인들을 위해 너무나 잘 싸웠다. 할리 베일리가 아름다웠기 때문에 우리는 영화 마지막에 눈물]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[앤 해서웨이, 드레스로 '악마 프라다'에 경의..전설의 '세룰리안 블루']]></title>
         <id>https://v.daum.net/v/20240225171916287</id>
@@ -53,12 +60,5 @@
         <link href="https://v.daum.net/v/20240224215509966"/>
         <updated>2024-02-24T13:11:33.282Z</updated>
         <content type="html"><![CDATA[[OSEN=연휘선 기자] 영화로까지 만들어져 큰 사랑을 받은 판타지 베스트셀러 '해리포터'가 TV 시리즈로도 만들어진다.&nbsp; 23일(현지시간) 외신들에 따르면 워너브라더스 디스커버리 실적발표 컨퍼런스에서 데이비드 자슬라브 CEO는 "'해리포터' TV시리즈를 오는 2026년 공개를 목표로 제작 중이다"라고 밝혔다.&nbsp; 이에 따르면 '해리포터'는 영국 작가 J]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2조 6천억 투입되는 '해리포터' TV시리즈, 2026년부터 본다]]></title>
-        <id>https://v.daum.net/v/20240224184630548</id>
-        <link href="https://v.daum.net/v/20240224184630548"/>
-        <updated>2024-02-24T10:11:33.894Z</updated>
-        <content type="html"><![CDATA[[TV리포트=이혜미 기자] 세계적인 베스트셀러 '해리포터' TV 시리즈가 오는 2026년 첫 공개된다. 23일(현지시간) 워너브라더스 디스커버리 실적발표 컨퍼런스가 개최된 가운데 데이비드 자슬라브 CEO는 "'해리포터' TV 시리즈는 오는 2026년 방영을 목표로 제작 중"이라고 밝혔다. 해당 시리즈는 J.K. 롤링의 원작을 각색해 총 7시즌에 걸쳐 방영되]]></content>
     </entry>
 </feed>
