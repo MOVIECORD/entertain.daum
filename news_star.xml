@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2024-02-26T16:13:27.379Z</updated>
+    <updated>2024-02-26T17:10:35.676Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘연애의 참견’ 서장훈·주우재 “여사친·남사친 허용 범위? 식사도 불필요하다”]]></title>
+        <id>https://v.daum.net/v/20240227012442271</id>
+        <link href="https://v.daum.net/v/20240227012442271"/>
+        <updated>2024-02-26T17:10:30.498Z</updated>
+        <content type="html"><![CDATA[27일 오후 10시 30분 KBS Joy ‘연애의 참견’(연출 장경은 PD) 215회에서는 남자친구의 ‘루틴 데이트’의 진실에 충격을 받은 고민녀의 사연이 방송된다. 어떤 일이 있어도 본인이 정한 루틴을 철두철미하게 지키는 고민녀의 남자친구는 데이트에 있어서도 예외는 없었고, 정해진 시간과 날짜에만 데이트하고 연락하길 바라는 남자친구 때문에 모든 걸]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘3차 시험관 시술’ 장정윤, ♥김승현 얼마나 답답하면 “욕 많이 먹을 듯” 짜증 폭발]]></title>
         <id>https://v.daum.net/v/20240227010359224</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240226235215696"/>
         <updated>2024-02-26T15:11:26.043Z</updated>
         <content type="html"><![CDATA[[스포츠조선닷컴 이우주 기자] '조선의 사랑꾼' 원혁이 깜짝 프러포즈로 이수민을 울렸다. 26일 방송된 TV조선 '조선의 사랑꾼'에서는 스튜디오에 깜짝 등장한 이용식의 모습이 담겼다. 결혼을 앞둔 원혁과 이수민은 1박2일 여행을 가기로 했다. 이에 이용식에게 허락을 받기로 한 원혁. 이용식의 반응 예상에 원혁은 "이제는 허락하시지 않을까요]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BTS 슈가, '슈취타' 시즌1을 마치며... "조금만 기다리면 완전체 무대 볼 수 있을 것"]]></title>
-        <id>https://v.daum.net/v/20240226234930688</id>
-        <link href="https://v.daum.net/v/20240226234930688"/>
-        <updated>2024-02-26T15:11:26.043Z</updated>
-        <content type="html"><![CDATA[[TV리포트=이혜미 기자] 방탄소년단 슈가가 ‘슈취타’ 시즌1을 마무리 하는 소감을 전했다. 26일 방탄소년단 공식 채널을 통해 장이정이 게스트로 나선 ‘슈취타’ 영상이 공개됐다. ‘슈취타’ 시즌1의 피날레를 장식한 장이정은 슈가의 절친이다. 이 자리에서 장이정은 “지금 사람들이 내게 많이 달라졌다고 한다. 그때 난 배신을 당하고 노래를 못하게 되면서 사람]]></content>
     </entry>
 </feed>
