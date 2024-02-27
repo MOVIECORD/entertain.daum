@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2024-02-27T06:13:40.069Z</updated>
+    <updated>2024-02-27T07:12:33.445Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[젠데이아 아찔한 골반 노출, 시선 둘 곳 없는 컷아웃 패션]]></title>
+        <id>https://v.daum.net/v/20240227160223043</id>
+        <link href="https://v.daum.net/v/20240227160223043"/>
+        <updated>2024-02-27T07:12:32.760Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 하지원 기자] 할리우드 배우 젠데이아 콜먼의 과감한 드레스가 화제다. 젠데이아는 2월 25일(현지시간) 미국 뉴욕에서 열린 영화 '듄: 파트2'(감독 드니 빌뵈느) 프리미어 시사회에 참석했다. 젠데이아는 컷아웃(옷의 일부분을 잘라 내는 것) 디테일이 깊게 들어간 실크 드레스 패션으로 뜨거운 시선을 한 몸에 받았다. 해당 드레스는 투명한 소재로 가]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[테일러 스위프트, 가족이 발목 잡았다...아버지 '폭행 혐의'로 경찰 行]]></title>
         <id>https://v.daum.net/v/20240227143400931</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240227091020301"/>
         <updated>2024-02-27T00:45:20.218Z</updated>
         <content type="html"><![CDATA[[OSEN=김보라 기자] 가수 겸 배우 제니퍼 로페즈(55)가 배우 벤 애플렉(52)과 과거 결혼하지 않았던 이유를 뒤늦게 털어놨다. 26일(현지 시각) 제니퍼 로페즈는 새 다큐멘터리를 통해 “벤 애플렉과 2003년 결혼식을 3일 앞두고 파혼했다”고 말했다. 앞서 두 사람은 2002년 10월 약혼을 발표했으나, 2004년 1월 돌연 결별했음을 공식적으로]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[티모시 샬라메, 클래식 선글라스는 이렇게 착용하는거야]]></title>
-        <id>https://v.daum.net/v/20240227090703177</id>
-        <link href="https://v.daum.net/v/20240227090703177"/>
-        <updated>2024-02-27T00:45:20.220Z</updated>
-        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]할리우드 배우 티모시 샬라메(27)가 뉴욕에서도 멋진 패션 감각을 뽐냈다. 그는 25일(현지시간) 미국 뉴욕 링컨센터에서 열린 영화 ‘듄:파트2’ 프리미어 시사회에 참석했다. 샬라메는 루즈핏의 캐러멜 컬러 가죽 상의를 입고 블랙 가죽 스키니 팬츠를 매치했다. 이와 함께 블랙 부츠와 클래식한 블랙 선글라스로 엣지 있는 의상]]></content>
     </entry>
 </feed>
