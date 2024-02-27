@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2024-02-27T10:12:41.813Z</updated>
+    <updated>2024-02-27T11:09:21.551Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["나이 들었으면 TV 나오지마"...50대 女배우가 남자스타에 들은 성차별 발언]]></title>
+        <id>https://v.daum.net/v/20240227193130960</id>
+        <link href="https://v.daum.net/v/20240227193130960"/>
+        <updated>2024-02-27T11:09:20.595Z</updated>
+        <content type="html"><![CDATA[[TV리포트=최이재 기자] 방송인이자 배우인 샐리 린제이(50)가 유명한 남자 스타의 발언을 고발해 주목받았다. 27일(현지 시간) 외신 매체 '데일리 메일'은 "샐리 린제이가 얼마 전 '나이 든 여성은 방송에 캐스팅되지 않거나 할머니 역만 맡아야 한다'는 이야기를 들었다"고 보도했다. 샐리 린제이는 한 매체와의 인터뷰에서 "최근 동료에게 나이 든 여성 방]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['터미네이터' 아놀드 슈왈제네거, '28살 연하' 여친 만나려 매일 헬스]]></title>
         <id>https://v.daum.net/v/20240227183630106</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240227134924027"/>
         <updated>2024-02-27T05:11:57.579Z</updated>
         <content type="html"><![CDATA[[티브이데일리 김종은 기자] 월트디즈니컴퍼니(이하 디즈니)가 대대적인 변화에 나선다. 미국 연예매체 버라이어티는 26일(현지시간) "션 베일리가 15년 만에 스튜디오 모션 픽쳐스 사장 자리에서 물러난다. 그의 빈자리는 서치라이트 픽쳐스의 사장 데이빗 그린바움이 대체한다"라고 보도했다. 데이빗 그린바움은 디즈니 엔터테인먼트 그룹 공동 대표 앨런 버그먼의 지]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[여고생과 불륜 저지르는 꽃미남 교사...이이경 잇는 '쓰레기 남주' 나온다]]></title>
-        <id>https://v.daum.net/v/20240227130000625</id>
-        <link href="https://v.daum.net/v/20240227130000625"/>
-        <updated>2024-02-27T04:14:05.811Z</updated>
-        <content type="html"><![CDATA[[TV리포트=유소연 기자] 고교생과 불륜을 저지르는 교사의 이야기를 다룬 충격적인 드라마가 나온다. 25일(현지 시간) 도쿄에서 MBS의 새 드라마 '신데렐라 콤플렉스'의 1화 상영회&amp;토크쇼가 열렸다. 해당 행사에는 출연진인 타나카 미쿠, 이이지마 히로키, 모리 슈토, 우가키 미사토가 함께했다. '신데렐라 콤플렉스'는 미남 교사 아이자와 요스케(이이지마 히]]></content>
     </entry>
 </feed>
