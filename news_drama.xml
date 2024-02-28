@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-02-28T11:11:09.836Z</updated>
+    <updated>2024-02-28T12:18:35.842Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['피도눈물도없이' 하연주, 이소연 유산시키려다 실패.. 정찬에 음주 들통]]></title>
+        <id>https://v.daum.net/v/20240228203000297</id>
+        <link href="https://v.daum.net/v/20240228203000297"/>
+        <updated>2024-02-28T12:18:20.099Z</updated>
+        <content type="html"><![CDATA[[TV리포트=이혜미 기자] 하연주가 친언니 이소연의 뱃속 아이를 살해하고자 나섰다. 28일 KBS 2TV ‘피도 눈물도 없이’에선 혜원(이소연 분)의 유산시키고자 몸을 던지는 도은(하연주 분)의 모습이 그려졌다. 자신의 부정이 드러날까 전전긍긍하던 도은은 이철(정찬 분)에 “나 아이 낳으라고 이 집 데려다 놓은 거야? 내가 이 집 씨받이야?”라고 억지로 화]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['웨딩 임파서블', '내남결'과는 다른 웹소설 원작의 맛]]></title>
         <id>https://v.daum.net/v/20240228193006957</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240228155851428"/>
         <updated>2024-02-28T07:10:23.136Z</updated>
         <content type="html"><![CDATA[[OSEN=장우영 기자] ‘남과여’ 윤예주가 뒤늦게 임재혁의 매력에 푹 빠진다. 오는 3월 1일 밤 11시 10분 방송되는 채널A 금요드라마 ‘남과여’(극본 박상민, 연출 이유연 박상민, 기획 채널A, 제작 스튜디오고트, 더그레이트쇼) 10회에서는 티격태격하며 찐친 케미를 보이던 오민혁(임재혁)과 김혜령(윤예주) 사이에 어색하고 서먹한 분위기가 흐른다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["지현우, 사무실 열심히 출근"..'대상 배우' 의외의 근황]]></title>
-        <id>https://v.daum.net/v/20240228155317159</id>
-        <link href="https://v.daum.net/v/20240228155317159"/>
-        <updated>2024-02-28T07:10:23.137Z</updated>
-        <content type="html"><![CDATA[[OSEN=장우영 기자] 배우 임수향과 지현우의 케미가 빛난 ‘미녀와 순정남’ 2차 티저 영상이 공개됐다. 오는 3월 23일 저녁 7시 55분 첫 방송 예정인 KBS2 새 주말드라마 ‘미녀와 순정남’(극본 김사경, 연출 홍석구, 제작 래몽래인)은 하루아침에 밑바닥으로 추락하게 된 톱배우와 그녀를 사랑해 다시 일으켜 세우는 초짜 드라마 PD의 산전수전 공]]></content>
     </entry>
 </feed>
