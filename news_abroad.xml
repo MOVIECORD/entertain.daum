@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2024-02-28T06:13:54.962Z</updated>
+    <updated>2024-02-28T07:10:39.034Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[젠데이아, '듄2' 해외투어로 컨디션 난조 "목소리 완전히 잃었다"]]></title>
+        <id>https://v.daum.net/v/20240228155019997</id>
+        <link href="https://v.daum.net/v/20240228155019997"/>
+        <updated>2024-02-28T07:10:38.425Z</updated>
+        <content type="html"><![CDATA[[OSEN=김보라 기자]&nbsp;배우 젠데이아가 컨디션 난조 탓에 예정된 아침 스케줄을 이행하지 못했다. 젠데이아는 26일(현지 시각) 미국 ABC 예능 ‘굿모닝 아메리카’에 출연할 계획이었으나 몸 상태가 좋지 않아 불참했다. ‘굿모닝 아메리카’는 매일 오전 7시 ABC에서 방송되는 아침 프로그램이다. 그녀는 영화 ‘듄: 파트2’(감독 드니 빌뇌브)의 홍보를]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["내 아이들 만나지마"..졸리, 브래드 피트 새 여친에 경고]]></title>
+        <id>https://v.daum.net/v/20240228153031112</id>
+        <link href="https://v.daum.net/v/20240228153031112"/>
+        <updated>2024-02-28T07:10:38.425Z</updated>
+        <content type="html"><![CDATA[[OSEN=선미경 기자] 배우 브래드 피트가 여자친구와 결혼을 향해가고 있는 가운데, 전처인 안젤리나 졸리가 경고를 보냈다. 27일(현지시각) 외신은 안젤리나 졸리가 브래드 피트의 여자친구 이네스 드 라몬에서 아이들을 만나지 말라고 경고했다고 보도했다. 한 소식통은 매체에 “안젤리나 졸리는 여전히 브래드 피트에 대해 많은 통제권을 행사하고 있다”라면서]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['듄2' 레베카 퍼거슨 "할리우드 1위 男배우에 모욕 당했다" 고백]]></title>
         <id>https://v.daum.net/v/20240228143730782</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240227213127725"/>
         <updated>2024-02-27T13:11:26.325Z</updated>
         <content type="html"><![CDATA[[스포츠서울 | 박효실 기자] 영국의 전설적인 록밴드 퀸의 리드 보컬 프레디 머큐리의 저택이 매물로 나와 화제를 모았다. 머큐리가 45세의 짧은 생을 마친 가든 로지의 시가는 약 3000만 파운드(한화 약 506억원)에 달한다. 영국 더 썬은 26일(현지시간) “프레디 머큐리가 마지막까지 살았던 저택이 30년 만에 매물로 나온다. 가든 로지는 머큐리의]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["나이 들었으면 TV 나오지마"...50대 女배우가 남자스타에 들은 성차별 발언]]></title>
-        <id>https://v.daum.net/v/20240227193130960</id>
-        <link href="https://v.daum.net/v/20240227193130960"/>
-        <updated>2024-02-27T11:09:20.595Z</updated>
-        <content type="html"><![CDATA[[TV리포트=최이재 기자] 방송인이자 배우인 샐리 린제이(50)가 유명한 남자 스타의 발언을 고발해 주목받았다. 27일(현지 시간) 외신 매체 '데일리 메일'은 "샐리 린제이가 얼마 전 '나이 든 여성은 방송에 캐스팅되지 않거나 할머니 역만 맡아야 한다'는 이야기를 들었다"고 보도했다. 샐리 린제이는 한 매체와의 인터뷰에서 "최근 동료에게 나이 든 여성 방]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['터미네이터' 아놀드 슈왈제네거, '28살 연하' 여친 만나려 매일 헬스]]></title>
-        <id>https://v.daum.net/v/20240227183630106</id>
-        <link href="https://v.daum.net/v/20240227183630106"/>
-        <updated>2024-02-27T10:12:41.195Z</updated>
-        <content type="html"><![CDATA[[TV리포트=최이재 기자] 영화 '터미네이터'에 출연해 큰 인기를 모은 배우 아놀드 슈왈제네거(76)가 뜻밖의 근황을 전해 주목받았다. 27일(현지 시간) 외신 매체 '데일리 메일'은 "아놀드 슈왈제네거가 자신의 여자 친구(48)를 소개하며 탄탄한 몸을 자랑하고 있다"고 보도했다. 그는 현재 48세의 일반인 여성과 열애 중이다. 무려 28살 어린 여자 친구]]></content>
     </entry>
 </feed>
