@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2024-02-28T16:13:30.393Z</updated>
+    <updated>2024-02-28T17:10:28.324Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘멱살 한번 잡힙시다’ 김하늘·연우진·장승조 향한 신뢰와 확신]]></title>
+        <id>https://v.daum.net/v/20240229012034397</id>
+        <link href="https://v.daum.net/v/20240229012034397"/>
+        <updated>2024-02-28T17:10:23.585Z</updated>
+        <content type="html"><![CDATA[‘멱살 한번 잡힙시다’의 이호 감독과 배수영 작가가 김하늘, 연우진, 장승조에 대한 신뢰를 드러냈다. 오는 3월 18일 오후 10시 10분 첫 방송 예정인 KBS 2TV 새 월화드라마 ‘멱살 한번 잡힙시다’(연출 이호, 이현경 / 극본 배수영 / 제작 몬스터유니온, 프로덕션H)는 나쁜 놈들 멱살 잡는 기자 김하늘(서정원 역)과 나쁜 놈들 수갑 채우는]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[최강희, 청소·배달 다음은 낚시다... "이렇게 예쁜 어부는 처음"]]></title>
         <id>https://v.daum.net/v/20240229003700189</id>
@@ -62,7 +69,7 @@
         <content type="html"><![CDATA[[스포츠서울 | 박효실 기자] 모태솔로 19기 여자출연자들이 대치동 일타강사, 웹툰작가, 의사, 복지센터 대표 등등 쟁쟁한 직업을 공개한 가운데, 첫 데이트에 나섰다. 28일 방송된 SBS Plus ENA ‘나는 솔로-모솔 특집’ 에서 솔로나라 19번지 여자 출연자들의 자기소개가 이어졌다. 첫인상 최다 득표자 영숙은 대치동 일타강사라는 깜짝 직업]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[박슬기, 박보검 미담 공개 "BTS 지민 사인+손편지 선물에 눈물 펑펑"]]></title>
+        <title type="html"><![CDATA[박슬기, 이서진·박보검 미담 공개 "두꺼운 돈봉투, BTS 지민 사인 선물..눈물 펑펑"]]></title>
         <id>https://v.daum.net/v/20240228234856693</id>
         <link href="https://v.daum.net/v/20240228234856693"/>
         <updated>2024-02-28T15:11:20.264Z</updated>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240228232006490"/>
         <updated>2024-02-28T15:11:20.274Z</updated>
         <content type="html"><![CDATA[[티브이데일리 이기은 기자] '나는 SOLO' 19기 영자 영수 커플 상황이 유력했다. 28일 밤 방송된 ENA·SBS 플러스 예능프로그램 ‘나는 SOLO'(나는 솔로)에서는 19기 모태솔로 출연진 썸 과정이 본격적인 포문을 열었다. 이날 영자 웹툰작가 직업 등 그의 화려한 스펙이 공개됐다. 아티스트인 그는 데이트 선택에서 AI 전문가인 영수를 택했다. 영]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["김준호子 은우 먹방 표정, 이장우 급..당분간 못 당해낼 듯" 김구라도 감탄]]></title>
-        <id>https://v.daum.net/v/20240228231900480</id>
-        <link href="https://v.daum.net/v/20240228231900480"/>
-        <updated>2024-02-28T15:11:20.275Z</updated>
-        <content type="html"><![CDATA[[스포츠조선닷컴 정유나 기자] '라디오스타' 김준호가 '은우 아빠' 유명세에 따른 고충을 밝혔다. 28일 방송된 MBC '라디오스타'는 이효정, 조우종, 박슬기, 김준호, STAYC(스테이씨) 시은이 출연하는 '현역 가족왕' 특집이 꾸며졌다. 전 펜싱 국가대표 선수 김준호는 '슈퍼맨이 돌아왔다'에 두 아들과 출연하고 있는데, 특히 장남 은우]]></content>
     </entry>
 </feed>

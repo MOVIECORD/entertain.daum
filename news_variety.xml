@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/variety</id>
     <title>다음 연예 ─ 뉴스 ─ 예능</title>
-    <updated>2024-02-28T16:13:30.382Z</updated>
+    <updated>2024-02-28T17:10:28.323Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘아빠하고 나하고’ 이승연 “열 명 먹여 살리는 장군 사주…父와는 원래 엄마와 아들의 궁합”]]></title>
+        <id>https://v.daum.net/v/20240229020900528</id>
+        <link href="https://v.daum.net/v/20240229020900528"/>
+        <updated>2024-02-28T17:10:19.314Z</updated>
+        <content type="html"><![CDATA[배우 이승연이 부친과 함께 올해 운세를 알아보기 위해 타로 마스터를 찾아 눈길을 끌었다. 지난 28일 방송된 TV조선 ‘아빠하고 나하고’에서는 이승연과 이승연의 부친이 사주풀이를 통해 올해 운세와 궁합을 확인하는 모습이 담겼다. 두 달 전, 아버지와 5년 만에 재회한 이승연은 혼란스러운 감정을 토로했다. “너무 화가 나고, 너무 답답하고, 또 아빠가 짠했다]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[19기 정숙 “상철=부담”..옥순·영식은 “오직 한사람만 집중”]]></title>
         <id>https://v.daum.net/v/20240229004902291</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240229000009750"/>
         <updated>2024-02-28T15:11:16.336Z</updated>
         <content type="html"><![CDATA[[스타뉴스 | 이시호 기자] /사진=MBC '라디오스타' 방송 화면 캡처'라디오스타' 그룹 스테이씨 시은이 아버지 박남정과의 듀엣 활동을 예고했다. 28일 방송된 MBC 예능프로그램 '라디오스타'에서는 '현역 가족왕' 특집으로 이효정, 조우종, 박슬기, 김준호, 스테이씨(STAYC) 시은이 출연했다. 박남정의 딸 시은은 이날 "김구라, 김국진 선배님은]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[19기 옥순, 영식과 최종 커플까지? "지금은 거의 99%"]]></title>
-        <id>https://v.daum.net/v/20240228235449721</id>
-        <link href="https://v.daum.net/v/20240228235449721"/>
-        <updated>2024-02-28T15:11:16.338Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 | 윤상근 기자] /사진=SBS Plus, ENA '나는 솔로'/사진=SBS Plus, ENA '나는 솔로'/사진=SBS Plus, ENA '나는 솔로' '나는 솔로'에서 19기 영식과 옥순이 서로에 대한 좋은 감정을 숨기지 않았다. 27일 방송된 SBS Plus, ENA '나는 솔로' 19기 모태솔로 특집에서는 여성들의 선택과 함께 첫 데이트]]></content>
     </entry>
 </feed>
