@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-02-29T13:11:41.470Z</updated>
+    <updated>2024-02-29T14:13:03.104Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[최원명·이은재, 달달한 영화관 데이트 포착]]></title>
+        <id>https://v.daum.net/v/20240229224604114</id>
+        <link href="https://v.daum.net/v/20240229224604114"/>
+        <updated>2024-02-29T14:12:48.609Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 | 최혜진 기자] /사진=KBS 2TV'남과여' 최원명이 이은재와 영화관 데이트에 나선다. 29일 채널A 금요드라마 '남과여'(극본 박상민,  연출 이유연) 측은 10회 방송을 앞두고 스틸컷을 공개했다. 10회에서는 첫사랑에 상처받았던 시후(최원명 분)가 진정한 사랑을 찾기 위해 노력한다. 앞서 시후는 새롭게 만난 유나(이은재 분) 역시]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이지아♥오민석 재결합에 강기영 떠났다 "응원 못 해주겠다"]]></title>
         <id>https://v.daum.net/v/20240229221035847</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240229185402824"/>
         <updated>2024-02-29T10:12:09.470Z</updated>
         <content type="html"><![CDATA[[텐아시아=태유나 기자] 배우 송강, 황민현이 입대 소식을 알렸다.&nbsp; 29일 송강, 황민현의 입대 소식이 전해졌다. 송강의 소속사 나무엑터스 측은 공식 팬카페를 통해 "송강 배우가 오는 4월 2일 육군 현역으로 입대한다"고 밝혔다. 이어 “신병 교육대 입소 당일 별도의 공식 행사는 진행되지 않는다. 현장 혼잡에 따른 안전사고 예방을 위해 비공개로 입소]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아찔하고도 기묘한 '야한사진관'..주원이 말아주는 사진 맛집]]></title>
-        <id>https://v.daum.net/v/20240229182227243</id>
-        <link href="https://v.daum.net/v/20240229182227243"/>
-        <updated>2024-02-29T10:12:09.470Z</updated>
-        <content type="html"><![CDATA[[OSEN=박소영 기자] 지니&nbsp;TV&nbsp;오리지널&nbsp;‘야한(夜限)&nbsp;사진관’의 주원-권나라-유인수-음문석이 오는&nbsp;3월&nbsp;11일 오픈을 알리는&nbsp;초대장을 보냈다.&nbsp;인생 마지막 사진을 찍어주는 귀객 전문 사진관의&nbsp;“오픈 준비 끝!”을 알리며,&nbsp;매력 포인트를 가득 담은 메인 예고 영상을 공개한 것. 지니&nbsp;TV&nbsp;오리지널&nbsp;‘야한(夜限)&nbsp;사진관’(연출 송현욱,&nbsp;극본 김이랑,&nbsp;]]></content>
     </entry>
 </feed>
