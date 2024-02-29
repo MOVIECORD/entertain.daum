@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/variety</id>
     <title>다음 연예 ─ 뉴스 ─ 예능</title>
-    <updated>2024-02-29T16:13:15.554Z</updated>
+    <updated>2024-02-29T17:09:57.953Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[송하윤, ‘내남결’ 후유증 고백 후 울컥…“수민아 고생했어”]]></title>
+        <id>https://v.daum.net/v/20240301020000260</id>
+        <link href="https://v.daum.net/v/20240301020000260"/>
+        <updated>2024-02-29T17:09:49.569Z</updated>
+        <content type="html"><![CDATA[배우 송하윤이 최근 연기했던 배역 정수민에 고생했다는 말을 전하며 울먹었다. 지난 29일 유튜브 채널 ‘싱글즈 매거진’에는 ‘청순함과 빌런 그 어딘가 사이? 송하윤 VS 정수민의 반반 인터뷰!’라는 제목의 영상이 올라왔다. 해당 영상에서는 송하윤 버전과 그가 연기한 정수민 버전의 신박한 인터뷰가 진행됐다. 송하윤이 ‘내남결’ 이후 근황을 밝혔다. “촬영할]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[박형식, 임시완이 제일 좋아…“황광희는 가끔 한 번 만나고 싶다”]]></title>
+        <id>https://v.daum.net/v/20240301012701148</id>
+        <link href="https://v.daum.net/v/20240301012701148"/>
+        <updated>2024-02-29T17:09:49.570Z</updated>
+        <content type="html"><![CDATA[가수 겸 배우 박형식이 황광희에 면전에서 임시완이 더 좋다고 밝혀 웃음을 자아냈다. 29일 오후 유튜브 채널 ‘캐릿 Careet’에 게재된 ‘광희 형 성형 더 하면 죽어…(?) 타고난 방부제 닥터 박형식의 등장’이라는 제목의 영상에서는 박형식이 출연해 황광희와 과거를 회상하며 대화를 나눴다. 박형식의 성품이 “착하고 순하기로 유명하다”고 밝힌 황광희는 박형]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[준결승 1위 정서주-2위 나영-3위 배아현...빈예서·곽지은·윤서령 탈락]]></title>
         <id>https://v.daum.net/v/20240301010710073</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240229233157469"/>
         <updated>2024-02-29T15:11:06.755Z</updated>
         <content type="html"><![CDATA[(엑스포츠뉴스 김수아 기자) '나는 솔로' 9기 옥순이 속마음을 털어놨다. 29일 방송된 ENA·SBS Plus '나는 SOLO, 그 후 사랑은 계속된다'(이하 '나솔사계')에서는 9기 옥순과 남자 3호의 데이트가 그려졌다. 남자 3호가 데이트를 신청하자 9기 옥순은 "남은 쩌리들끼리 데이트?"라고 말했고, 남자 3호는 "왜 쩌리야 우리가, 주인공이지"라며]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['구해줘 홈즈' 양세형·양세찬, 발품 팔기 위해 동두천 출격]]></title>
-        <id>https://v.daum.net/v/20240229232806458</id>
-        <link href="https://v.daum.net/v/20240229232806458"/>
-        <updated>2024-02-29T15:11:06.756Z</updated>
-        <content type="html"><![CDATA[[티브이데일리 김진석 기자] '구해줘 홈즈' 양세형과 양세찬이 고향으로 발품을 팔러 떠났다. 29일 방송된 MBC 예능프로그램 '구해줘! 홈즈'에는 신혼집을 찾는 신혼부부의 의뢰를 받는 복팀과 덕팀의 모습이 방송됐다. 이날 코너 '집 보러 왔는대호'에선 김대호와 함께 코너 첫 게스트 송진우와 함께 강원도 인제 곰배령 설피 마을로 떠나는 모습이 그려졌다. 집]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박형식 "광희, 여기서 성형수술 더 하면 죽어…임시완이 좋다"]]></title>
-        <id>https://v.daum.net/v/20240229231035270</id>
-        <link href="https://v.daum.net/v/20240229231035270"/>
-        <updated>2024-02-29T14:12:53.180Z</updated>
-        <content type="html"><![CDATA[[OSEN=김보라 기자]&nbsp;보이그룹 제국의 아이들 출신 배우 박형식이 동료 황광희를 만나 우정을 과시했다. 29일 오후 공개된 유튜브 예능 ‘가내조공업’에는 MC 광희와 친한 박형식이 출연했다. 현재 그는 JTBC 토일드라마 ‘닥터슬럼프’(극본 백선우, 연출 오현종)에 출연 중이다. ‘닥터슬럼프’는 백억 대 소송과 번아웃, 각자의 이유로 인생 최대 슬럼프]]></content>
     </entry>
 </feed>
