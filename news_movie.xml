@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2024-03-01T04:13:58.511Z</updated>
+    <updated>2024-03-01T05:12:10.929Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['파묘' 김고은 "화림X봉길 케미 맛집? 너무 좋은 현상이라 생각"]]></title>
+        <id>https://v.daum.net/v/20240301140115444</id>
+        <link href="https://v.daum.net/v/20240301140115444"/>
+        <updated>2024-03-01T05:11:52.806Z</updated>
+        <content type="html"><![CDATA[개봉 이후 4일 연속 박스오피스 1위를 유지하며 흥행 가도를 달리고 있는 영화 '파묘'의 주역 김고은을 만났다. 김고은은 영화 '파묘'에서 젊은 나이에 출중한 실력과 카리스마를 자랑하는 대한민국의 톱클래스 무당 '화림'을 연기했다. '화림'은 악지에서 불길한 기운을 느낀 ‘상덕’의 반대에도 위험에 빠진 ‘박지용’의 가족을 도와 ‘대살굿’을 진행하고 이후 기]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘파묘’ 3.1절에 400만 돌파···항일 코드와 함께 의미있는 흥행]]></title>
         <id>https://v.daum.net/v/20240301125719386</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240301104501360"/>
         <updated>2024-03-01T01:51:50.058Z</updated>
         <content type="html"><![CDATA[[텐아시아=류예지 기자]&lt;파묘&gt;가 개봉 9일차에 400만 관객을 돌파하며 거침없는 기세로 나아가고 있다. 거액의 돈을 받고 수상한 묘를 이장한 풍수사와 장의사, 무속인들에게 벌어지는 기이한 사건을 담은 오컬트 미스터리 영화 &lt;파묘&gt;가 개봉 9일 만에 400만 명을 돌파하며 올해 처음 400만 관객을 돌파한 영화로 이름을 올렸다. 1알 영화진흥위원회 통합]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘파묘’ 올해 첫 400만 돌파...‘서울의 봄’보다 빨라]]></title>
-        <id>https://v.daum.net/v/20240301103902155</id>
-        <link href="https://v.daum.net/v/20240301103902155"/>
-        <updated>2024-03-01T01:51:50.060Z</updated>
-        <content type="html"><![CDATA[올해 최고 흥행작 ‘파묘’가 개봉 9일 만에 400만 관객을 돌파했다. 3월 1일 영화진흥위원회 통합전산망에 따르면 ‘파묘’는 300만 관객을 돌파한지 이틀 만에 누적 관객수 400만 1202명을 달성하며 또 한 번의 기록을 추가했다. 이는 역대 한국 영화 흥행 순위 6위인 ‘서울의 봄’보다 3일이나 빠른 기록으로 시간이 갈수록 더 크게 불타오르는 ‘파묘’]]></content>
     </entry>
 </feed>
