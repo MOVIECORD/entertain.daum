@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-03-01T03:14:20.306Z</updated>
+    <updated>2024-03-01T04:13:58.516Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[송중기가 로기완에게 "모든 게 나 때문이다?..누구나 행복할 자격 있다"]]></title>
+        <id>https://v.daum.net/v/20240301125000299</id>
+        <link href="https://v.daum.net/v/20240301125000299"/>
+        <updated>2024-03-01T04:13:44.633Z</updated>
+        <content type="html"><![CDATA[[OSEN=박소영 기자] 넷플릭스(Netflix) 영화&nbsp;&lt;로기완&gt; 이 오늘(1일) 공개 기념으로 배우와 감독, 그리고 소중한 이들이 기완과 마리에게 보내는 편지를 공개해 눈길을 모은다. 1일 공개된 편지에는 삶의 끝자락에서 마지막 희망인 난민 지위를 인정받기 위해 벨기에로 향해야만 했던 로기완과 살아야 할 이유를 잃어버린 마리의 다사다난한 여정을 위로하]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김남주 연기x차은우 얼굴 보자..'원더풀월드', '연인' '밤피꽃' 흥행 이을까]]></title>
+        <id>https://v.daum.net/v/20240301124023180</id>
+        <link href="https://v.daum.net/v/20240301124023180"/>
+        <updated>2024-03-01T04:13:44.643Z</updated>
+        <content type="html"><![CDATA[[OSEN=박소영 기자] 김남주와 차은우의 만남으로 연일 화제를 모으고 있는&nbsp;MBC ‘원더풀 월드’가 오늘(1일)&nbsp;밤&nbsp;9시&nbsp;50분에 첫 방송된다. MBC&nbsp;새 금토드라마&nbsp;‘원더풀 월드’(기획 권성창/연출 이승영,&nbsp;정상희/극본 김지은/제작 삼화네트웍스)는&nbsp;아들을 죽인 살인범을 직접 처단한 은수현(김남주&nbsp;분)이 그날에 얽힌 미스터리한 비밀을 파헤쳐 가는 휴먼]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['피라미드 게임', 장다아가 게임의 주동자?..김지연과 본격 대립]]></title>
         <id>https://v.daum.net/v/20240301120726794</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240301092329716"/>
         <updated>2024-03-01T00:51:36.075Z</updated>
         <content type="html"><![CDATA[[OSEN=강서정 기자] 전종서가&nbsp;‘웨딩 임파서블’로 숨겨왔던 러블리 매력을 무한 발산하며 전에 없던 새로운 로코녀의 탄생을 알리고 있다. tvN&nbsp;월화드라마&nbsp;‘웨딩 임파서블’(극본 박슬기,&nbsp;오혜원,&nbsp;연출 권영일)에서 전종서는 무명 배우 나아정 역을 맡아 생기발랄한 에너지로 시청자들의 마음을 사로잡고 있다.&nbsp;특히 오랜 무명 생활에도 굴하지 않는 당당한 태]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[황정음, "뼈가 깎이도록"...분노의 눈물]]></title>
-        <id>https://v.daum.net/v/20240301091226559</id>
-        <link href="https://v.daum.net/v/20240301091226559"/>
-        <updated>2024-03-01T00:51:36.076Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 | 이경호 기자] SBS 새 금토드라마 '7인의 부활'/사진=SBS '7인의 부활' 1차 티저 영상 캡처'7인의 부활'이 두 번째 데스게임을 시작한다. 오는 29일 첫 방송되는 SBS 새 금토드라마 '7인의 부활'(연출 오준혁·오송희, 극본 김순옥, 제작 초록뱀미디어·스튜디오S) 측은 1일, 끝나지 않은 매튜 리(=심준석/엄기준 분)의 악행 속]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[악녀 황정음→부활한 이준, 화끈한 2번째 데스게임 돌입]]></title>
-        <id>https://v.daum.net/v/20240301091135544</id>
-        <link href="https://v.daum.net/v/20240301091135544"/>
-        <updated>2024-03-01T00:51:36.078Z</updated>
-        <content type="html"><![CDATA[[OSEN=하수정 기자] ‘7인의 부활’이 두 번째 데스게임을 시작한다. 오는 3월 29일(금) 첫 방송되는 SBS 새 금토드라마 ‘7인의 부활’(연출 오준혁·오송희, 극본 김순옥, 제작 초록뱀미디어·스튜디오S) 측은 1일, 끝나지 않은 매튜 리(=심준석/엄기준 분)의 악행 속 변화를 예고한 7인의 모습이 담긴 1차 티저 영상을 공개했다. 여기에 이들을]]></content>
     </entry>
 </feed>
