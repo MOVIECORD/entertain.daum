@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/variety</id>
     <title>다음 연예 ─ 뉴스 ─ 예능</title>
-    <updated>2024-03-02T16:12:49.120Z</updated>
+    <updated>2024-03-02T17:08:49.748Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘군필’ 온앤오프 와이엇 “군대 가면 벌크업 가능..난 행정병” 폭소]]></title>
+        <id>https://v.daum.net/v/20240303015923963</id>
+        <link href="https://v.daum.net/v/20240303015923963"/>
+        <updated>2024-03-02T17:08:41.364Z</updated>
+        <content type="html"><![CDATA[[OSEN=김채연 기자] 그룹 온앤오프 와이엇이 군대에 다녀오면 벌크업이 가능하다고 밝혔다. 2일 방송된 KBS 2TV ‘불후의 명곡’에서는 전설의 가수로 동방신기가 출연한 가운데 온앤오프가 출연해 무대를 꾸몄다. 이날 김준현은 온앤오프에 “멤버들이 앳된 외모여서 나이가 들어봐야 20대 초반이라고 생각했는데, 전부 군필이라더라. 갔다 올 사람들은 다 갔다]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['-30kg 상탈+60억 사옥 공개'..스윙스, 갓생 CEO로 변했다]]></title>
         <id>https://v.daum.net/v/20240303010940820</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240302235609546"/>
         <updated>2024-03-02T15:09:57.283Z</updated>
         <content type="html"><![CDATA[선우은숙이 남편 유영재에게 서운한 마음을 드러냈다. 3월 2일 방송된 MBN ‘속풀이쇼 동치미’에서는 선우은숙 유영재 부부가 가출사건에 대해 말했다. 최은경은 유영재에게 “얼마 전에 유영재 가출사건. 왜 나가신 거냐”고 질문했다. 선우은숙이 지난 방송에서 “많이 아팠는데 (남편이) 화가 나서 집을 나갔다. 당신이 아프니까 너무 우울하다는 거”라고 남편]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["후배 용돈 미담 없냐" 질문에…이수근 "활동 안해"]]></title>
-        <id>https://v.daum.net/v/20240302235036537</id>
-        <link href="https://v.daum.net/v/20240302235036537"/>
-        <updated>2024-03-02T15:09:57.286Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 이효반 기자) 이수근이 용돈을 줬던 후배들은 활동하지 않는다고 토로했다. 2일 방송된 JTBC '아는 형님'은 '이은지의 남자들 특집'으로 개그맨 이은지, 신규진, 김승진, 이창호가 게스트로 출연했다. 이날 신규진이 서장훈의 미담을 전하자, 개그맨 후배 이진호는 "수근이 미담은 안 하냐. '코미디 빅리그'(이하 '코빅') MT 때수근이 치킨]]></content>
     </entry>
 </feed>
