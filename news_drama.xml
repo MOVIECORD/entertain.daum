@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-03-02T10:10:18.170Z</updated>
+    <updated>2024-03-02T11:09:52.378Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['효심이네' 고주원, 하준에 "부모님 죽인 사람 이휘향"]]></title>
+        <id>https://v.daum.net/v/20240302200840373</id>
+        <link href="https://v.daum.net/v/20240302200840373"/>
+        <updated>2024-03-02T11:09:38.144Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 이이진 기자) '효심이네 각자도생' 고주원이 하준에게 부모님을 죽인 사람이 이휘향이라고 밝혔다. 2일 방송된 KBS 2TV '효심이네 각자도생' 46회에서는 강태민(고주원 분)이 강태호(하준)에게 부모님의 죽음에 얽힌 진실을 밝힌 모습이 그려졌다. 이날 이효성(남성진)은 강태민과 통화했고, "방제 공장 화물차 기사 중에 염 전무 친구의 아들이]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[차은우, 빗속의 찬란한 '우산남'…슬픔 담긴 촉촉한 눈빛]]></title>
+        <id>https://v.daum.net/v/20240302193805155</id>
+        <link href="https://v.daum.net/v/20240302193805155"/>
+        <updated>2024-03-02T11:09:38.145Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 박서연 기자] ‘원더풀 월드’ 차은우가 본격적으로 모습을 드러낸다.  2일 MBC ‘원더풀 월드’(극본 김지은 연출 이승영 정상희)’ 측은 2회 방송을 앞두고 차은우(권선율 역)의 본격 등판을 예고하면서 김남주(은수현 역)와의 인상적인 첫 만남이 담긴 스틸컷을 공개해 이목을 집중시킨다. 지난 1회에서는 성공한 심리학과 교수이자 작가로 승]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘재벌형사’ 안보현, 여배우 살해 진범 신박하게 밝힌다]]></title>
         <id>https://v.daum.net/v/20240302173710097</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240302133417780"/>
         <updated>2024-03-02T05:10:39.506Z</updated>
         <content type="html"><![CDATA[[OSEN=강서정 기자] ’고려거란전쟁’ 김혁이 3차 전쟁의 서막을 올린다. 오늘(2일) 오후 9시 15분 방송되는 공영방송 50주년 특별 기획 KBS 2TV 대하드라마 ‘고려거란전쟁’(극본 이정우, 연출 전우성, 김한솔, 서용수) 29회에서는 거란주 야율융서(김혁 분)가 소배압(김준배 분)에게 지휘봉을 하사한다. 앞서 ‘고려거란전쟁’은 무신 정변에 이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[마음 흔들린 이설, 이동해와의 약속 끝까지 지켰다 ‘짜릿 엔딩’]]></title>
-        <id>https://v.daum.net/v/20240302132719728</id>
-        <link href="https://v.daum.net/v/20240302132719728"/>
-        <updated>2024-03-02T05:10:39.508Z</updated>
-        <content type="html"><![CDATA[[OSEN=강서정 기자] ‘남과여’가 인물들의 흥미로운 관계변화로 안방극장에 새로운 설렘을 안겼다. 지난 1일 방송된 채널A 금요드라마 ‘남과여’(극본 박상민, 연출 이유연, 박상민) 10회에서는 헤어진 연인 정현성(이동해 분)과 한성옥(이설 분)이 같은 프로젝트를 맡게 되면서 예측할 수 없는 전개가 펼쳐졌다. 앞서 현성과 성옥은 프로젝트 회의 도중 동]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘원더풀 월드’ 차은우 본격 등판, 김남주와 무덤 앞 첫 만남]]></title>
-        <id>https://v.daum.net/v/20240302130713610</id>
-        <link href="https://v.daum.net/v/20240302130713610"/>
-        <updated>2024-03-02T04:13:13.378Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 이민지 기자] 차은우가 '원더풀 월드'에 본격적으로 등장한다. MBC 금토드라마 '원더풀 월드'(극본 김지은/연출 이승영 정상희) 측은 3월 2일 차은우(권선율 역)와 김남주(은수현 역)의 첫 만남 스틸컷을 공개했다. 지난 1회에서는 성공한 심리학과 교수이자 작가로 승승장구하던 은수현(김남주 분)이 한순간에 아들을 잃고 인면수심 가해자 권지웅]]></content>
     </entry>
 </feed>
