@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-03-03T10:13:14.648Z</updated>
+    <updated>2024-03-03T11:08:32.613Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[고주원, “살려달라” 애원하는 이휘향에 “절대 용서 안해” 분노]]></title>
+        <id>https://v.daum.net/v/20240303200809543</id>
+        <link href="https://v.daum.net/v/20240303200809543"/>
+        <updated>2024-03-03T11:08:20.286Z</updated>
+        <content type="html"><![CDATA[[OSEN=박하영 기자] ‘효심이네 각자도생’ 이휘향이 살려달라고 애원했다. 3일 방송된 KBS 2TV 주말드라마 ‘효심이네 각자도생’에서는 장숙향(이휘향 분)이 강태민(고주원 분)에게 용서를 구하는 모습이 그려졌다. 이날 장숙향은 “태민아 엄마 한 번만 용서해줘. 제발 한 번만 용서해줘. 그동안 정을 생각해서라도 한 번만 용서해줘. 제발 엄마 좀 살려]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[로몬, 본격 흑화… 김지은에 ‘싸늘 협박’]]></title>
         <id>https://v.daum.net/v/20240303181850612</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240303132321197"/>
         <updated>2024-03-03T05:10:19.242Z</updated>
         <content type="html"><![CDATA[[OSEN=최이정 기자]&nbsp;‘효심이네 각자도생’&nbsp;하준이 유이 앞에 무릎을 꿇고 프러포즈 하는 순간이 전격 공개됐다. KBS 2TV&nbsp;주말드라마&nbsp;‘효심이네 각자도생’(연출 김형일,&nbsp;극본 조정선,&nbsp;제작 아크미디어)가 오늘(3일)&nbsp;본방송에 앞서 효심(유이)과 태호(하준)의 세상 로맨틱한 순간을 공개했다.&nbsp;태호가 드디어 효심 앞에 무릎을 꿇고 결혼 반지를 건네며]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[죄책감 든다더니…박신혜, 결혼+출산 안 믿기는 동안 교복 비주얼]]></title>
-        <id>https://v.daum.net/v/20240303132256192</id>
-        <link href="https://v.daum.net/v/20240303132256192"/>
-        <updated>2024-03-03T05:10:19.244Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 황혜진 기자] 배우 박신혜가 교복을 입고 동안 비주얼을 선보였다. JTBC 토일드라마 ‘닥터슬럼프’ 측은 12회 방송을 앞둔 3월 3일 남하늘(박신혜 분)과 여정우(박형식 분)의 교복 데이트 현장과 함께 의뭉스러운 정체를 드러낸 민경민(오동민 분)의 모습을 공개했다. 지난 방송에서 남하늘과 여정우는 비밀 연애를 시작했다. 집과 병원에서 관계를]]></content>
     </entry>
 </feed>
