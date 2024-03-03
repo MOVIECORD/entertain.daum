@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2024-03-03T03:11:15.449Z</updated>
+    <updated>2024-03-03T04:14:35.514Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[극장에 굿판 벌여야…'파묘' 500만 돌파의 의미]]></title>
+        <id>https://v.daum.net/v/20240303123817673</id>
+        <link href="https://v.daum.net/v/20240303123817673"/>
+        <updated>2024-03-03T04:14:18.572Z</updated>
+        <content type="html"><![CDATA[[OSEN=김보라 기자]&nbsp;관심을 못 받은 작품일수록 더욱 흥행에서 멀어지고, 입소문을 탈수록 더욱더 큰 흥행 탄력을 받는다. 극장가에서도 빈익빈 부익부 현상이 낯선 것은 아니다. 팬데믹 이후 OTT에서도 볼거리가 많아지면서 극장에서는 대중성과 작품성, 그리고 재미가 오롯이 보장된 작품만 ‘딱 하나 픽’ 해서 보는 경향이 두드러졌기 때문이다. 푯값이 저렴]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["'패스트 라이브즈'의 영광, 두 회사가 머리 맞댄 결과"]]></title>
+        <id>https://v.daum.net/v/20240303122702557</id>
+        <link href="https://v.daum.net/v/20240303122702557"/>
+        <updated>2024-03-03T04:14:18.575Z</updated>
+        <content type="html"><![CDATA[[장혜령 기자] &nbsp;▲ &nbsp;A24 인터내셔널 대표 '사샤 로이드'와 CJ ENM '고경범' 영화사업부장ⓒ CJ ENM&nbsp; 오는 6일 개봉을 앞둔 &lt;패스트 라이브즈&gt;는 CJ ENM과 할리우드 스튜디오 A24가 공동으로 투자 배급한 작품이다. 지난 2월 29일 A24 인터내셔널 대표 사샤 로이드-CJ ENM 고경범 영화사업부장과 삼청동의 카페에서 만났다.&nbsp; A24는]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[고경범 영화사업부장 "CJ 영화 흥행 부진 인식...내부적 개선 먼저"]]></title>
         <id>https://v.daum.net/v/20240303113217753</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240303095551828"/>
         <updated>2024-03-03T01:44:21.271Z</updated>
         <content type="html"><![CDATA[[스타뉴스 | 안윤지 기자] /사진=영화 '파묘'영화 '파묘'(감독 장재현)가 개봉 10일째 정상을 지켰다. 3일 영화진흥위원회 영화관입장권통합전산망의 집계에 따르면 '파묘'는 지난 2일 83만 2285명의 관객을 동원하며 누적관객수 538만 1156명을 기록해 1위를 수성했다. '파묘'는 거액의 의뢰를 받은 무당 화림(김고은 분)과 봉길(이도현 분)이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[어느 공익의 몰락한 농구부 살리기 프로젝트]]></title>
-        <id>https://v.daum.net/v/20240303092400389</id>
-        <link href="https://v.daum.net/v/20240303092400389"/>
-        <updated>2024-03-03T00:49:20.453Z</updated>
-        <content type="html"><![CDATA[[김성호 기자] 실화가 가진 힘이 있다. 피와 뼈를 가진 나와 같은 사람들이 실제로 겪고 이뤄낸 이야기가 가진 힘이 있는 것이다. 세상 어딘가에서 정말로 일어났던 이야기라면 얼어붙고 굳어있는 마음까지 두들기고 흔들 수 있으리라, 그런 믿음이 가고는 한다. 특히나 마음이 움직이는 이야기가 수시로 벌어지는 스포츠의 영역, 그것도 청춘과 결합한 학교스포츠의 영역]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[3·1절 연휴 점령한 '파묘'..85만→83만 동원하며 500만 돌파]]></title>
-        <id>https://v.daum.net/v/20240303091248244</id>
-        <link href="https://v.daum.net/v/20240303091248244"/>
-        <updated>2024-03-03T00:49:20.453Z</updated>
-        <content type="html"><![CDATA[[스포츠조선 문지연 기자] '파묘'가 하루 만에 83만 관객을 동원하며 흥행 돌풍을 일으키고 있다. 3일 영화진흥위원회 영화관입장권 통합전산망에 따르면 영화 '파묘(감독 장재현)'는 지난 2일 하루 83만2285명의 관객을 모으며 일일 박스오피스 정상에 올랐다. 이로써 누적 관객은 538만1156명이다. '파묘'는 3·1절 연휴 내내 높은]]></content>
     </entry>
 </feed>
