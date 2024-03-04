@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2024-03-04T18:13:41.438Z</updated>
+    <updated>2024-03-04T19:09:41.193Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[일본, 대만, 홍콩도 K웹툰 영상화가 대세… “확장성 더 커질 것”]]></title>
+        <id>https://v.daum.net/v/20240305040817232</id>
+        <link href="https://v.daum.net/v/20240305040817232"/>
+        <updated>2024-03-04T19:09:36.558Z</updated>
+        <content type="html"><![CDATA[‘내 남편과 결혼해줘’ ‘살인자ㅇ난감’ ‘피라미드 게임’ ‘닭강정’ 등의 공통점은 웹툰을 원작으로 하는 드라마라는 점이다. 최근 2~3년 사이 웹툰을 원작으로 하는 영상 콘텐츠의 제작이 활발해졌다. 웹툰 원작이 아닌 작품을 찾는 게 더 어려워졌을 정도다. 이는 수치로도 확인된다. 4일 네이버웹툰, 카카오엔터테인먼트에 따르면 2021년 이후부터 영상화된 웹]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[가족·결혼·인생관 확립, 장수 프로그램으로 우뚝]]></title>
         <id>https://v.daum.net/v/20240305030447979</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240304235611109"/>
         <updated>2024-03-04T15:12:19.027Z</updated>
         <content type="html"><![CDATA[(서울=뉴스1) 박하나 기자 = 배우 임형준이 아내 하세미 식구들을 위한 여행을 준비했다. 4일 오후 방송된 SBS 예능 프로그램 '동상이몽2-너는 내 운명'(이하 '동상이몽2')에서는 임형준, 하세미 부부의 일상이 담겼다. 이날 임형준은 가평 처가 식구들과 가족 여행을 위해 초대형 VIP 버스를 준비해 모두를 놀라게 했다. 임형준은 곧 지방 촬영으로]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['조선의 사랑꾼' 심혜진 "운영 중인 호텔에 심현섭 방 마련, 장가보내야 할 듯"]]></title>
-        <id>https://v.daum.net/v/20240304235330102</id>
-        <link href="https://v.daum.net/v/20240304235330102"/>
-        <updated>2024-03-04T15:12:19.028Z</updated>
-        <content type="html"><![CDATA[[TV리포트=이혜미 기자] 배우 심혜진이 조카 심현섭의 결혼을 위해 나섰다. 4일 TV조선 ‘조선의 사랑꾼’에선 심현섭의 싱글라이프가 펼쳐졌다. 이날 방송엔 배우 심혜진이 깜짝 출연했다. 심혜진은 1990년대 충무로를 주름잡은 최고의 배우이자 심현섭의 ‘고모’다. 심혜진은 “항렬로 따지면 내가 고모가 맞다”면서 헛웃음을 지었다. ‘심현섭 장가보내기 추진위원]]></content>
     </entry>
 </feed>
