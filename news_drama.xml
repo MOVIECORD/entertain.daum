@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-03-05T07:10:14.195Z</updated>
+    <updated>2024-03-05T08:14:13.436Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[재벌집 맏사위 된 김수현, 처지가 위태롭다]]></title>
+        <id>https://v.daum.net/v/20240305170249955</id>
+        <link href="https://v.daum.net/v/20240305170249955"/>
+        <updated>2024-03-05T08:13:57.994Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 김지우 기자] 김수현, 김지원도 피할 수 없는 처월드, 시월드가 열린다. tvN 새 토일드라마 '눈물의 여왕' 측은 5일 세기의 부부 백현우(김수현)와 홍해인(김지원)을 중심으로 이어진 퀸즈 패밀리와 용두리 식구들의 각양각색 관계성을 공개했다. ▲ 백현우-홍수철(곽동연), 여왕 홍해인의 그늘에 가려진 동병상련 매형과 처남 먼저 백화점 여]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[문상민, 전종서 유혹 나선다..'분노 유발' 주현영 재등장]]></title>
+        <id>https://v.daum.net/v/20240305162607595</id>
+        <link href="https://v.daum.net/v/20240305162607595"/>
+        <updated>2024-03-05T08:13:57.994Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 | 윤상근 기자] /사진제공=tvN '웨딩 임파서블'에서 문상민이 예비 형수 꼬시기 미션에 돌입한다. 5일 방송되는 tvN 월화드라마 '웨딩 임파서블'(극본 박슬기, 오혜원/ 연출 권영일/ 기획 스튜디오드래곤/ 제작 스튜디오329) 4회에서는 이지한(문상민 분)이 형 이도한(김도완 분)의 결혼을 깨기 위해 예비 형수 나아정(전종서 분)의 마음]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[연기 구멍 하나 없는 ‘7인의 부활’… 복수의 끝장판이 온다]]></title>
         <id>https://v.daum.net/v/20240305160205628</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240305124108800"/>
         <updated>2024-03-05T04:13:08.490Z</updated>
         <content type="html"><![CDATA[[뉴스엔 이하나 기자] 배우 양경원이 ‘세작, 매혹된 자들’에서 만난 신세경, 이신영에게 고마운 마음을 전했다. 3월 5일 서울 강남구의 한 카페에서 뉴스엔을 만난 양경원은 tvN 토일드라마 ‘세작, 매혹된 자들(극본 김선덕/연출 조남국, 이하 ‘세작’)’을 마친 소감 등 작품에 대한 이야기를 나눴다. ‘세작’은 높은 자리에 있지만 마음은 비천한 임금]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[양경원 “조정석 러블리 자체+친근함 끝판왕, 재능 부러워”]]></title>
-        <id>https://v.daum.net/v/20240305123845773</id>
-        <link href="https://v.daum.net/v/20240305123845773"/>
-        <updated>2024-03-05T04:13:08.490Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 이하나 기자] 배우 양경원이 ‘세작, 매혹된 자들’에서 조정석과 호흡을 맞춘 소감을 밝혔다. 양경원은 3월 5일 서울 강남구의 한 카페에서 tvN 토일드라마 ‘세작, 매혹된 자들(극본 김선덕/연출 조남국, 이하 ‘세작’)’ 종영 인터뷰를 진행했다. 양경원은 ‘세작’에서 부귀영화를 위해서라면 못 할 짓이 없는 예조참의 유현보 역을 맡아 열연을]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[양경원 “‘사불’ 후 기대 부응 못할까 두려워, 이젠 걱정보다 설렌다”]]></title>
-        <id>https://v.daum.net/v/20240305123638738</id>
-        <link href="https://v.daum.net/v/20240305123638738"/>
-        <updated>2024-03-05T04:13:08.490Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 이하나 기자] 양경원이 간신 역할을 완벽하게 소화하며 다시 한번 연기력을 입증했다. 지난 3월 3일 종영한 tvN 토일드라마 ‘세작, 매혹된 자들(극본 김선덕/연출 조남국, 이하 ‘세작’)’은 높은 자리에 있지만 마음은 비천한 임금 이인(조정석 분)과 그를 무너뜨리기 위해 세작이 된 강희수이자 강몽우(신세경 분)의 잔혹한 운명을 다루는 작품이다.]]></content>
     </entry>
 </feed>
