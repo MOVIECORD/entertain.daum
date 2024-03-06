@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2024-03-06T11:09:51.151Z</updated>
+    <updated>2024-03-06T12:19:49.523Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[송중기 '사랑꾼·아들 바보? 내 일상…행복하게 잘 산다"]]></title>
+        <id>https://v.daum.net/v/20240306205010108</id>
+        <link href="https://v.daum.net/v/20240306205010108"/>
+        <updated>2024-03-06T12:19:29.044Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 김유진 기자) (인터뷰①에 이어) 배우 송중기가 배우라는 직업만큼이나 대중에게 많은 관심을 얻고 있는 부분은 남편과 아빠가 된 가장의 일상이기도 하다. 송중기는 "행복하게 잘 살고 있다"는 근황을 전했다. 송중기는 지난 해 1월 배우 출신 영국인 케이티 루이스 사운더스와의 혼인신고와 임신 소식을 알렸다. '로기완' 헝가리 로케이션 촬영 당시에]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[송중기도 말한 '돈값' 책임감 "송중기 나온다고 보는 시대 지나"]]></title>
+        <id>https://v.daum.net/v/20240306205003104</id>
+        <link href="https://v.daum.net/v/20240306205003104"/>
+        <updated>2024-03-06T12:19:29.045Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 김유진 기자) 배우 송중기가 작품 흥행을 바라는 솔직한 생각을 밝혔다. 송중기는 6일 오전 서울 종로구 삼청동의 한 카페에서 열린 넷플릭스 영화 '로기완'(감독 김희진) 인터뷰에서 다양한 이야기를 전했다. 1일 공개된 '로기완'은 삶의 마지막 희망을 안고 벨기에에 도착한 탈북자 기완과 삶의 이유를 잃어버린 여자 마리가 서로에게 이끌리듯 빠져드]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['케이티♥' 송중기 "사랑, 다시 보니 예뻐 보여…아들과 입술이 붕어빵"]]></title>
         <id>https://v.daum.net/v/20240306200101274</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240306175138590"/>
         <updated>2024-03-06T09:11:13.737Z</updated>
         <content type="html"><![CDATA[[스타뉴스 | 김나연 기자] 한소희 류준열 / 사진=스타뉴스배우 한소희와 류준열이 '현혹'의 출연을 검토 중이라고 밝혔다. 6일 한소희 소속사 935엔터테인먼트, 류준열 소속사 씨제스엔터테인먼트 측은 "'현혹'은 출연 검토 중인 작품"이라고 밝혔다. '현혹'은 동명의 웹툰을 원작으로 하는 작품으로, 1935년 일제강점기를 배경으로 한다. 매혹적인 여]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[송중기 "내 실수고 잘못…다시 보니 '사랑' 예뻐 보여"]]></title>
-        <id>https://v.daum.net/v/20240306175002489</id>
-        <link href="https://v.daum.net/v/20240306175002489"/>
-        <updated>2024-03-06T09:11:13.737Z</updated>
-        <content type="html"><![CDATA[[텐아시아=김지원 기자] 송중기가 넷플릭스 영화 '로기완'을 한 차례 거절했던 이유가 과거에는 캐릭터를 이해하지 못했기 때문이라고 밝혔다. 6일 서울 삼청동의 한 카페에서 넷플릭스 영화 '로기완'의 주인공 송중기를 만났다. '로기완'은 삶의 마지막 희망을 안고 벨기에에 도착한 탈북자와 삶의 이유를 잃어버린 여자가 서로에게 이끌리듯 빠져드는 이야기를 그]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘로기완’ 조선족 이상희는 남았다]]></title>
-        <id>https://v.daum.net/v/20240306174937473</id>
-        <link href="https://v.daum.net/v/20240306174937473"/>
-        <updated>2024-03-06T09:11:13.740Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 배효주 기자] ‘로기완’에서의 이상희 열연이 시청자들을 사로잡았다. 3월 1일 공개된 넷플릭스 영화 ‘로기완’(감독 김희진)은 삶의 마지막 희망을 안고 벨기에에 도착한 탈북자 기완(송중기 분)과 삶의 이유를 잃어버린 여자 마리(최성은 분)가 서로에게 이끌리듯 빠져드는 이야기를 그렸다. 극중 이상희는 조선족 출신이자 로기완과 함께 벨기에 정육 공장]]></content>
     </entry>
 </feed>
