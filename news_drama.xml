@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-03-06T05:10:39.172Z</updated>
+    <updated>2024-03-06T06:14:58.249Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[박철민 이승연→김용림 ‘용감무쌍 용수정’ 출연, 관록있는 연기 더한다]]></title>
+        <id>https://v.daum.net/v/20240306144402351</id>
+        <link href="https://v.daum.net/v/20240306144402351"/>
+        <updated>2024-03-06T06:14:43.044Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 박수인 기자] 배우 박철민, 양정아, 이승연, 지수원, 김용림이 ‘용감무쌍 용수정’에 출연한다. 오는 4월 첫 방송될 MBC 새 일일드라마 '용감무쌍 용수정’(기획 장재훈 / 극본 최연걸 / 연출 이민수, 김미숙 / 제작 MBC C&amp;I)은 현대판 거상 임상옥을 꿈꾸는 거침없는 상여자 용수정(엄현경 분)과 그녀에게 운명을 맡긴 악바리 짠돌이 여의주]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘끝내주는 해결사’ 호랑이굴에 들어간 이지아, 큰 그림 성공하나]]></title>
         <id>https://v.daum.net/v/20240306140609987</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240306110115060"/>
         <updated>2024-03-06T02:16:15.915Z</updated>
         <content type="html"><![CDATA[[스타뉴스 | 이경호 기자] KBS 2TV 대하드라마 '고려거란전쟁'의 최수종./사진=KBS 2TV 대하드라마 '고려거란전쟁'배우 최수종이 압도적 열연으로 '고려거란전쟁'의 막판 스퍼트를 끌어올리며 '사극 대가'의 품격을 보여줬다. 지난 2일, 3일 방송된 공영방송 50주년 특별 기획 KBS 2TV 대하드라마 '고려거란전쟁'(극본 이정우, 연출 전우성·김]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['피라미드 게임' 원작 작가 "김지연·장다아·신슬기 연기 굉장히 매력적"]]></title>
-        <id>https://v.daum.net/v/20240306101051559</id>
-        <link href="https://v.daum.net/v/20240306101051559"/>
-        <updated>2024-03-06T01:42:57.323Z</updated>
-        <content type="html"><![CDATA[[OSEN=연휘선 기자] '피라미드 게임' 원작자 달꼬냑 작가가 드라마에 강한 만족을 표했다.&nbsp; 6일&nbsp;티빙 오리지널 시리즈 '피라미드&nbsp;게임' 측은&nbsp;원작자 달꼬냑 작가가 보낸 스페셜 축전 메시지와 소감을 밝혔다. '피라미드&nbsp;게임'(극본 최수이, 연출 박소연)에 대한 열띤 반응이 쏟아지고 있다.&nbsp;서바이벌 서열 전쟁에서 살아남기 위한 학생들의 심리전과 두뇌]]></content>
     </entry>
 </feed>
