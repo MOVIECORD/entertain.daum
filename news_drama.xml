@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-03-07T13:11:31.967Z</updated>
+    <updated>2024-03-07T14:11:09.832Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['종영' 이지아♥강기영, '5년 기한' 결혼→오민석 살인죄 인정]]></title>
+        <id>https://v.daum.net/v/20240307222429948</id>
+        <link href="https://v.daum.net/v/20240307222429948"/>
+        <updated>2024-03-07T14:10:56.248Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 이효반 기자) 이지아와 강기영이 5년 기한으로 결혼을 약속했다. 7일 방송된 JTBC '끝내주는 해결사'에서는 김사라(이지아 분)와 동기준(강기영)이 노율성(오민석)의 죗값을 치르게 하는 모습이 전파를 탔다. 이날 김사라가 노율성의 뇌물 장부를 획득하며 그의 범죄 행각이 세상에 밝혀지기 시작했다. 차율의 압수수색까지 진행되자, 노율성은 김사라]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이지아, 오민석에 복수 성공→♥강기영과 삼혼 ‘인생 파트너’ 됐다]]></title>
         <id>https://v.daum.net/v/20240307220626787</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240307171005582"/>
         <updated>2024-03-07T08:11:19.983Z</updated>
         <content type="html"><![CDATA[(엑스포츠뉴스 이창규 기자) 최근 드라마계에서 회귀물이 연달아 흥행하면서 비슷한 소재의 작품들이 쏟아져나오고 있다. 지난 2022년 방송된 JTBC 금토일드라마 '재벌집 막내아들'은 회귀물 신드롬의 시초라고 할 수 있을 정도로 엄청난 파급력을 자랑했다. 6.1%의 시청률로 출발한 '재벌집 막내아들'은 3회 만에 10%를 돌파했고, 11회에 20%까지 넘기면]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[임재혁, 15년 절친 윤예주에 고백…어색한 침묵 어쩌나]]></title>
-        <id>https://v.daum.net/v/20240307170448326</id>
-        <link href="https://v.daum.net/v/20240307170448326"/>
-        <updated>2024-03-07T08:11:19.983Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 하지원 기자] ‘남과여’ 임재혁과 윤예주 사이에 어색한 침묵이 흐른다. 3월 8일 오후 11시 20분 방송되는 채널A 금요드라마 ‘남과여’(극본 박상민/ 연출 이유연, 박상민/ 기획 채널A/ 제작 스튜디오고트, 더그레이트쇼) 11회에서는 오민혁(임재혁 분)이 15년 지기인 김혜령(윤예주 분)에게 고백한 이후 어색해진 두 사람의 모습이 그려진다.]]></content>
     </entry>
 </feed>
