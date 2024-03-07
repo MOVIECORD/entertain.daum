@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-03-07T00:37:46.167Z</updated>
+    <updated>2024-03-07T01:27:59.005Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이지아･강기영, 본격 복수..장모 죽인 오민석 궁지 내몰았다]]></title>
+        <id>https://v.daum.net/v/20240307100506836</id>
+        <link href="https://v.daum.net/v/20240307100506836"/>
+        <updated>2024-03-07T01:27:46.613Z</updated>
+        <content type="html"><![CDATA[[OSEN=강서정 기자] 이지아와 강기영이 드디어 복수의 문을 활짝 열었다. 어제(6일)&nbsp;방송된&nbsp;JTBC&nbsp;수목드라마&nbsp;‘끝내주는 해결사’(극본 정희선,&nbsp;연출 박진석) 11회에서는 장모 박정숙(강애심 분)을 죽인 진짜 범인이었던 노율성(오민석 분)과 그런 그를 완벽하게 궁지로 내몬 김사라(이지아 분)와 동기준(강기영 분)의 확실한 콤비 플레이가 심박수를 높]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[첫방 D-2 ‘눈물의 여왕’ 결혼 3년차 김수현♥︎김지원, 역대급 로맨스 온다]]></title>
+        <id>https://v.daum.net/v/20240307095027193</id>
+        <link href="https://v.daum.net/v/20240307095027193"/>
+        <updated>2024-03-07T01:27:46.613Z</updated>
+        <content type="html"><![CDATA[[OSEN=강서정 기자] ‘눈물의 여왕’이 세간을 떠들썩하게 만들 역대급 로맨스의 탄생을 기대케 하고 있다. tvN&nbsp;새 토일드라마&nbsp;‘눈물의 여왕’(극본 박지은, 연출 장영우,&nbsp;김희원)이 믿고 보는 작가,&nbsp;감독,&nbsp;배우진의 조합부터 개성 강한 캐릭터와 이들이 만들어낼 기적 같은 로맨스까지 다채로운 재미를 예고하고 있다.&nbsp;이에 오는&nbsp;9일(토)&nbsp;밤&nbsp;9시&nbsp;10분]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김수현, '세기의 만남' ♥김지원과 연애 결혼 했는데…이혼 선언?]]></title>
         <id>https://v.daum.net/v/20240307093702664</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240307090634535"/>
         <updated>2024-03-07T00:37:31.694Z</updated>
         <content type="html"><![CDATA[[뉴스엔 이민지 기자] 욕망의 화신 황정음이 돌아온다. 오는 3월 29일 첫 방송되는 SBS 새 금토드라마 ‘7인의 부활’(극본 김순옥/연출 오준혁·오송희) 측은 3월 7일 금라희(황정음 분) 첫 스틸컷을 공개했다. ‘7인의 부활’은 리셋된 복수의 판, 다시 태어난 7인의 처절하고도 강력한 공조를 그린다. 완벽하게 재편된 힘의 균형 속 새로운 단죄자의]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘세작’ 나현우 “신세경, 연예인 같은 배우…연기하며 위로多”]]></title>
-        <id>https://v.daum.net/v/20240307090124372</id>
-        <link href="https://v.daum.net/v/20240307090124372"/>
-        <updated>2024-03-07T00:37:31.694Z</updated>
-        <content type="html"><![CDATA[[OSEN=유수연 기자] (인터뷰①에 이어) 배우 나현우가 ‘세작’서 호흡을 맞춘 신세경을 언급했다. 최근 서울 마포구 합정동에 위치한 OSEN 사무실에서는 tvN ‘세작, 매혹된 자들’(이하 ‘세작’) 출연 배우 나현우 인터뷰가 진행됐다. tvN ‘세작, 매혹된 자들’(극본 김선덕/연출 조남국)은 높은 자리에 있지만 마음은 비천한 임금 이인과 그를 무]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘세작’ 나현우 “로맨스 욕심? 우주 한가득…시대물 재도전도 OK”]]></title>
-        <id>https://v.daum.net/v/20240307090029320</id>
-        <link href="https://v.daum.net/v/20240307090029320"/>
-        <updated>2024-03-07T00:37:31.694Z</updated>
-        <content type="html"><![CDATA[[OSEN=유수연 기자] 배우 나현우가 차기작에 대한 생각을 밝혔다. 최근 서울 마포구 합정동에 위치한 OSEN 사무실에서는 tvN ‘세작, 매혹된 자들’(이하 ‘세작’) 출연 배우 나현우 인터뷰가 진행됐다. tvN ‘세작, 매혹된 자들’(극본 김선덕/연출 조남국)은 높은 자리에 있지만 마음은 비천한 임금 이인과 그를 무너뜨리기 위해 세작(첩자)이 된]]></content>
     </entry>
 </feed>
