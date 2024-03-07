@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-03-07T09:09:59.007Z</updated>
+    <updated>2024-03-07T10:10:57.021Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[장다아 화제성만?..'피라미드게임' 몰입도 높이는 김지연]]></title>
+        <id>https://v.daum.net/v/20240307183745428</id>
+        <link href="https://v.daum.net/v/20240307183745428"/>
+        <updated>2024-03-07T10:10:42.638Z</updated>
+        <content type="html"><![CDATA[[OSEN=박소영 기자]&nbsp;김지연이 지능캐로 ‘피라미드 게임’에 파고들었다. 첫 공개 이후 화제를 모으고 있는 티빙 오리지널 시리즈 ‘피라미드 게임’(연출 박소연, 극본 최수이, 크리에이터 이재규, 제작 필름몬스터·CJ ENM 스튜디오스, 제공 티빙)에서 ‘성수지’ 역으로 출연 중인 김지연의 활약이 눈부시다. 수지가 백연여고 2학년 5반에서 벌어지는 서열]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[고윤정 웃고 홍수주 울었다…외모로 떴지만 연기력으로 엇갈린 성적표]]></title>
         <id>https://v.daum.net/v/20240307180102393</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240307145619017"/>
         <updated>2024-03-07T06:14:22.781Z</updated>
         <content type="html"><![CDATA[김태호 PD(사진=ENA)[이데일리 스타in 최희재 기자] “우주 여행이요? 저희도 답을 기다리고 있는 상황입니다.” 7일 오후 서울 서대문구에 위치한 카페 연남장에서 진행된 ENA·TEO 예능 프로젝트 ‘지구마불 세계여행’ 시즌2(이하 ‘지구마불2’) 제작발표회에서 김태호 PD가 우주 여행이라는 소재에 대한 진심을 전했다. 자리에는 김태호 PD, 김훈범]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김수현♥김지원 '눈물의 여왕', tvN 역대 최고 '사랑불' 넘을까]]></title>
-        <id>https://v.daum.net/v/20240307145002720</id>
-        <link href="https://v.daum.net/v/20240307145002720"/>
-        <updated>2024-03-07T06:14:22.783Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 김수아 기자) '눈물의 여왕' 김희원 감독이 시청률 공약을 공개했다. tvN 새 토일드라마 '눈물의 여왕'(극본 박지은, 연출 장영우 김희원) 제작발표회가 7일 오전 서울 구로구 라마다서울 신도림 그랜드볼룸홀에서 열렸다. 이날 자리에는 장영우, 김희원 감독을 비롯해 배우 김수현, 김지원, 박성훈, 곽동연, 이주빈이 참석해 작품에 대한 이야기를]]></content>
     </entry>
 </feed>
