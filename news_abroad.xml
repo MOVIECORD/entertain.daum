@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2024-03-08T02:18:04.992Z</updated>
+    <updated>2024-03-08T03:11:27.485Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[티모시 샬라메♥카일리 제너 결별? 남친 질문 칼 거절 “개인사”]]></title>
+        <id>https://v.daum.net/v/20240308113908637</id>
+        <link href="https://v.daum.net/v/20240308113908637"/>
+        <updated>2024-03-08T03:11:26.889Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 배효주 기자] 티모시 샬라메와 카일리 제너의 결별설이 불거졌다. 최근 현지에서 티모시 샬라메와 카일리 제너가 결별한 게 아니냐는 설들이 나왔다. 영화 '듄: 파트2' 글로벌 프로모션에 참여한 티모시 샬라메의 바쁜 스케줄로 인해 두 사람의 사이가 소원해졌다는 것. 또한, 티모시 샬라메의 프로모션 투어에 카일리 제너가 동행하지 않았다는 것도 결별설의]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['해리포터' 작가, 트랜스포비아 성향 터졌다...성전환 방송인에 '피소']]></title>
         <id>https://v.daum.net/v/20240308103844660</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240307171801886"/>
         <updated>2024-03-07T09:09:58.078Z</updated>
         <content type="html"><![CDATA[[TV리포트=한아름 기자] 일본 아이돌 출신 정치인 하시모토 유키(31)가 아이돌 103명을 대상으로 진행한 설문조사 결과, 아이돌 절반이 정신 질환을 앓고 있는 것으로 조사됐다고 말해 충격을 줬다. 7일(현지 시간), 외신 매체 '캘리코네 뉴스'가 일본 아이돌 그룹 '카멘죠시'(仮面女子) 출신 정치인 하시모토 유키와 진행한 인터뷰 내용을 공개했다. 하시모]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['듄' 女배우 "할리우드는 '여성 차별' 심하다" 작심 비판]]></title>
-        <id>https://v.daum.net/v/20240307170201141</id>
-        <link href="https://v.daum.net/v/20240307170201141"/>
-        <updated>2024-03-07T08:11:32.578Z</updated>
-        <content type="html"><![CDATA[[TV리포트=한아름 기자] 프랑스 출신 할리우드 배우 레아 세이두가 할리우드의 여성 차별을 지적하며, 할리우드보다 유럽에서 연기하는 것이 더 쉽다고 일침을 날렸다. 지난 5일(현지 시간), 잡지 '하퍼스 바자 영국'이 최근 영화 '더 비스트'(The Beast)와 '듄: 파트2'로 많은 관심을 받은 배우 레아 세이두와 진행한 인터뷰를 공개했다. 레아 세이두]]></content>
     </entry>
 </feed>

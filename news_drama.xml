@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-03-08T02:18:05.012Z</updated>
+    <updated>2024-03-08T03:11:27.486Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[전여빈, 정우성 만날까 “‘메이드 인 코리아’ 출연 긍정 검토 중”]]></title>
+        <id>https://v.daum.net/v/20240308121004701</id>
+        <link href="https://v.daum.net/v/20240308121004701"/>
+        <updated>2024-03-08T03:11:12.833Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 김명미 기자] 배우 전여빈이 우민호 감독 신작 '메이드 인 코리아' 출연 물망에 올랐다. 전여빈 소속사 매니지먼트mmm 측 관계자는 3월 8일 뉴스엔에 '메이드 인 코리아' 출연과 관련 "긍정 검토 중"이라는 입장을 밝혔다. '메이드 인 코리아'는 '내부자들' '마약왕' '남산의 부장들' 등을 연출한 우민호 감독 작품으로, 하이브미디어코프가 제작]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김수현·김지원 '눈물의 여왕' 첫 방송 D-1..웃음→가족애 시너지 예고]]></title>
         <id>https://v.daum.net/v/20240308104510982</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240308085548610"/>
         <updated>2024-03-08T00:45:38.840Z</updated>
         <content type="html"><![CDATA[[서울경제] 배우 강기영이 ‘끝내주는’ 필모그래피를 또 하나 완성했다. 8일 소속사 나무엑터스는 전날 종영된 JTBC 수목드라마 ‘끝내주는 해결사’(극본 정희선/연출 박진석)에 출연한 강기영의 일문일답을 공개했다. 극중 강기영은 일도, 사랑도 한번 물면 놓지 않는 끈기의 셰퍼드 변호사이자, 김사라(이지아)의 연인 동기준 역으로 열연을 펼쳤다. 강기영은 ‘]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘끝내주는 해결사’ 5.8% 기록...자체 최고 시청률 경신하며 ‘유종의 미’]]></title>
-        <id>https://v.daum.net/v/20240308084201216</id>
-        <link href="https://v.daum.net/v/20240308084201216"/>
-        <updated>2024-03-08T00:45:38.844Z</updated>
-        <content type="html"><![CDATA[이지아와 강기영이 비즈니스 파트너에서 인생 파트너로 다시 손을 잡았다. 어제(8일) 방송된 JTBC 수목드라마 ‘끝내주는 해결사’ 최종회에서는 김사라(이지아 분)가 동기준(강기영 분)과 함께 엄마 죽인 남편 노율성(오민석 분)을 확실하게 처단하고 완전히 달라진 새로운 삶을 다시 활짝 열었다. 이에 12회 방송 시청률은 수도권 5.9%, 전국 5.8%를 기록]]></content>
     </entry>
 </feed>
