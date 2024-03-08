@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2024-03-08T01:42:19.784Z</updated>
+    <updated>2024-03-08T02:18:04.989Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘파묘’ 김재철·김지안·김선영, 흥행 원동력 신스틸러 3인방]]></title>
+        <id>https://v.daum.net/v/20240308110432882</id>
+        <link href="https://v.daum.net/v/20240308110432882"/>
+        <updated>2024-03-08T02:17:46.153Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 배효주 기자] 700만 돌파를 앞둔 '파묘'의 명품 조연들이 빛나는 연기력으로 화제를 모으고 있다. 영화 '파묘'(감독 장재현)는 거액의 돈을 받고 수상한 묘를 이장한 풍수사와 장의사, 무속인들에게 벌어지는 기이한 사건을 담은 오컬트 미스터리다. '파묘'의 신스틸러 3인 중 김재철은 수상한 묘의 이장을 의뢰하는 ‘박지용’으로 분했다. 그는 대를]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[양조위X유덕화 ‘뉴스룸’ 출연‥20년만 재회 소감 밝힌다]]></title>
         <id>https://v.daum.net/v/20240308103218373</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240308090229852"/>
         <updated>2024-03-08T00:45:34.170Z</updated>
         <content type="html"><![CDATA[VR콘서트가 이번엔 록을 담아냈다. VR 콘서트 제작과 유통을 선도하는 어메이즈VR이 미국 록밴드 어벤지드 세븐폴드와 파트너십을 맺고 신규 VR콘서트 ‘어벤지드 세븐폴드: 룩킹 인사이드’(LOOKING INSIDE)를 공개했다. ‘헤비메탈의 전설’이라 불리는 어벤지드 세븐폴드는 2006년 VMA 신인상을 수상하며 미국 록계에 데뷔, 누적 1000만 장]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘돌핀’ 권유리는 무엇이든 할 수 있어요]]></title>
-        <id>https://v.daum.net/v/20240308090206837</id>
-        <link href="https://v.daum.net/v/20240308090206837"/>
-        <updated>2024-03-08T00:45:34.172Z</updated>
-        <content type="html"><![CDATA[[티브이데일리 최하나 기자] 고정된 틀이 있다는 건 안정감을 주기도 하지만, 때로는 제약이 되기도 한다. 바꿔 말하면 틀이 없다는 건 무엇이든 할 수 있다는 뜻이 되기도 한다. 그런 의미에서 배우로서 고정된 이미지가 없는 권유리는 무엇이든 할 수 있다. 13일 개봉되는 영화 ‘돌핀’(감독 배두리)은 삶의 변화가 두려운 30대 여성이 우연히 발견한 즐거움을]]></content>
     </entry>
 </feed>
