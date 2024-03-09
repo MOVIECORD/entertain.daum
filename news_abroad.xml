@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2024-03-09T05:12:52.720Z</updated>
+    <updated>2024-03-09T06:15:19.037Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['치매' 브루스 윌리스, 가족들과 이별 준비.."체중⋅식욕 감소 걱정"]]></title>
+        <id>https://v.daum.net/v/20240309150022266</id>
+        <link href="https://v.daum.net/v/20240309150022266"/>
+        <updated>2024-03-09T06:15:18.468Z</updated>
+        <content type="html"><![CDATA[[OSEN=선미경 기자] 전두측두엽 치매를 앓고 있는 배우 브루스 윌리스가 가족들과 슬픈 이별을 준비하고 있다. 8일(현지시각) 외신은 브루스 윌리스의 가족과 친구들이 배우와 이별을 준비하고 있는 가운데, 가족들이 그의 체중과 식욕 감소를 걱정하고 있다고 보도했다. 이들의 내부자는 인터치에 “브루스 윌리스는 배고픔을 많이 표현하지 않는다. 가족에 따르면]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘치매’ 브루스 윌리스 “슬픈 작별 준비” 충격, 식욕·체중 감소 우려]]></title>
         <id>https://v.daum.net/v/20240309131536880</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240308164117674"/>
         <updated>2024-03-08T08:13:03.316Z</updated>
         <content type="html"><![CDATA[[OSEN=강서정 기자] 팝스타 테일러 스위프트가 싱가포르 투어 중 1박에 1900만원여인 빌라에서 지내고 있다.&nbsp; 7일(현지시간) 페이지식스 보도에 따르면 최근 호주에서 가장 호화로운 펜트하우스에서 휴식을 취한 테일러 스위프트는 이제 싱가포르에서 1박에 1,400달러(한화 약 1847만원)인 빌라에 머물고 있다.&nbsp; 스위프트는 1880년대 센토사 섬에]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['뺑소니' 사고 후 자숙 중인 연예인, SNS에 웃는 사진 올려]]></title>
-        <id>https://v.daum.net/v/20240308161100760</id>
-        <link href="https://v.daum.net/v/20240308161100760"/>
-        <updated>2024-03-08T07:11:58.509Z</updated>
-        <content type="html"><![CDATA[[TV리포트=전하나 기자] 일본 코미디언 후지모토 토시후미가 뺑소니 사고로 물의를 일으켜 자숙하던 중 근황을 공개했다. 7일(현지 시간), 외신 매체 '산스포'가 뺑소니 논란 후 자숙하고 있는 일본 코미디언 후지모토 토시후미의 반전 근황에 대해 보도했다. 후지모토는 자신의 소셜네트워크서비스에 코미디언 카네미츠 타카시와의 다정한 투샷을 공개했다. 그는 해당]]></content>
     </entry>
 </feed>
