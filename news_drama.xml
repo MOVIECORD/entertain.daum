@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-03-09T10:11:44.524Z</updated>
+    <updated>2024-03-09T11:11:18.696Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['효심이네' 유이, 집 나간 父 남경읍과 재회…못 알아봐 '실망']]></title>
+        <id>https://v.daum.net/v/20240309200835088</id>
+        <link href="https://v.daum.net/v/20240309200835088"/>
+        <updated>2024-03-09T11:11:04.266Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 이이진 기자) '효심이네 각자도생' 유이가 아버지 남경읍을 만났다. 9일 방송된 KBS 2TV 주말드라마 '효심이네 각자도생' 48회에서는 이효심(유이 분)이 아버지 이추련(남경읍)과 재회한 모습이 그려졌다. 이날 이추련은 이효심을 알아보지 못했다. 이추련은 "누구 찾아오셨습니까? 옆에 환자분 어제 퇴원하시던데"라며 물었고, 이효심은 "죄송합]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[안보현 '1주 천하' 끝났다…김남주 이어 김수현까지, 위태로운 정상의 자리]]></title>
         <id>https://v.daum.net/v/20240309190101594</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240309151929474"/>
         <updated>2024-03-09T07:09:23.441Z</updated>
         <content type="html"><![CDATA[[OSEN=하수정 기자] MBC ‘원더풀 월드’ 김남주가 홀로 은밀히 호텔을 찾은 김강우의 모습을 목격해 파란을 예고한다. 매회 속도감 있는 전개로 카타르시스를 선사하는 MBC 금토드라마 ‘원더풀 월드’(기획 권성창/연출 이승영, 정상희/극본 김지은/제작 삼화네트웍스) 측이 4회 방송을 앞둔 9일, 은수현(김남주 분)과 강수호(김강우 분)의 부부 사이를]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[최수종, 20만 대군 이끌고 최후 전투 나선다..대망의 ‘귀주대첩’ 서막]]></title>
-        <id>https://v.daum.net/v/20240309150904371</id>
-        <link href="https://v.daum.net/v/20240309150904371"/>
-        <updated>2024-03-09T06:15:03.939Z</updated>
-        <content type="html"><![CDATA[[OSEN=강서정 기자] '고려거란전쟁’의 최수종이 20만 대군과 함께 ‘귀주대첩’의 포문을 연다. 오늘(9일) 오후 9시 15분 방송되는 공영방송 50주년 특별 기획 KBS 2TV 대하드라마 ‘고려거란전쟁’(극본 이정우, 연출 전우성, 김한솔, 서용수) 31회에서는 상원수 강감찬(최수종 분)이 최후의 전투인 ‘귀주대첩’의 서막을 올린다. 앞서 강감찬은]]></content>
     </entry>
 </feed>
