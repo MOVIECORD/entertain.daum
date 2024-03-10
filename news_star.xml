@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2024-03-10T16:12:35.706Z</updated>
+    <updated>2024-03-10T17:10:25.846Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이하늬, 민낯에도 눈부신 미모..케이크 모양 풍선 쓰고 ‘활짝’ “사랑해요”]]></title>
+        <id>https://v.daum.net/v/20240311011816119</id>
+        <link href="https://v.daum.net/v/20240311011816119"/>
+        <updated>2024-03-10T17:10:20.823Z</updated>
+        <content type="html"><![CDATA[[OSEN=박하영 기자] 배우 이하늬가 생일을 맞아 감사 인사를 전했다. 10일 이하늬는 “촬영 때문에 생일이고 뭐고 하다 벙개에 벙개로 한 24년의 생일. 생일을 빌미로 사랑하는 사람들을 불러 모아 한자리에서 볼 수 있다는 건 생일자의 특권인듯. 그래, 같이 축하할 땐 축하하고, 기뻐할 땐 기뻐하고, 슬퍼할 땐 슬퍼하는 거지. 그쳐? 사랑해요. 고마워]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[박보검도 유애나? 배려 돋보이는 대기실에 '눈길'..."대단한 내 친구"]]></title>
         <id>https://v.daum.net/v/20240311004230017</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240310233103445"/>
         <updated>2024-03-10T15:09:31.972Z</updated>
         <content type="html"><![CDATA[[스포츠투데이 임시령 기자] '고려거란전쟁' 최수종이 고려를 지켰다. 10일 방송된 KBS2 대하사극 '고려거란전쟁' 최종화에선 강감찬(최수종)이 거란 군과의 전쟁에서 승리했다. 이날 강감찬은 중갑기병이 오지 않아 고전하고 있었다. 하지만 "중갑기병은 반드시 온다. 제1 검차진이 버텨야 한다. 절대로 물러서지 말게"라며 고려군의 사기를 북돋았다. 치열]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김준호, "김지민과 진짜 결혼 고민할 시기…축가는 조혜련"]]></title>
-        <id>https://v.daum.net/v/20240310231849346</id>
-        <link href="https://v.daum.net/v/20240310231849346"/>
-        <updated>2024-03-10T15:09:31.973Z</updated>
-        <content type="html"><![CDATA[[스포티비뉴스=배선영 기자] 김준호가 김지민과의 결혼 계획을 밝혔다. 김준호는 10일 방송된 SBS '미운우리새끼'에 출연해 연인 김지민과의 결혼 계획을 이야기 했다. 이날 김준호는 개그맨 선배 조혜련의 집을 방문해서 대화를 나누던 중 "지민이와 진짜 결혼을 고민할 시기다"라며 진지한 표정으로 말했다. 이에 조혜련은 "지민이와 결혼하면 이런 분위기]]></content>
     </entry>
 </feed>
