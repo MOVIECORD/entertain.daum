@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-03-10T07:10:16.568Z</updated>
+    <updated>2024-03-10T08:13:04.319Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[중갑기병 도착!..최수종 감격의 눈물..드디어 '귀주대첩' 피날레]]></title>
+        <id>https://v.daum.net/v/20240310164118058</id>
+        <link href="https://v.daum.net/v/20240310164118058"/>
+        <updated>2024-03-10T08:12:50.682Z</updated>
+        <content type="html"><![CDATA[[OSEN=장우영 기자] ‘고려거란전쟁’의 최수종이 위기에 놓인 고려를 위해 목숨을 내건 사투를 벌인다. 10일 밤 9시 15분 방송 예정인 공영방송 50주년 특별 기획 KBS2 대하드라마 ‘고려거란전쟁’(극본 이정우, 연출 전우성 김한솔 서용수, 제작 몬스터유니온, 비브스튜디오스) 최종회에서는 거란의 맹공격으로 일촉즉발 위기를 맞은 강감찬(최수종)이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['닥터슬럼프' 박신혜♥박형식, 오동민 사망 후 다시 찾은 일상..후유증은 여전]]></title>
         <id>https://v.daum.net/v/20240310155423035</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240310132538991"/>
         <updated>2024-03-10T05:10:05.095Z</updated>
         <content type="html"><![CDATA[[엔터미디어=정덕현] "나 그때 왜 그랬지? 왜 귀여웠지? 왜 막 귀엽고 필살기 쓰고 홍애인 설레게 만들고 그래 가지고 내 팔자를 내가... 꼬았지? 안 귀여웠으면 이런 결혼도 안 했을텐데, 내가." 술에 취한 백현우(김수현)는 울면서 절친 김양기(문태유)에게 신세한탄을 한다. 그런데 그건 자기 자랑인지 신세한탄인지 알 수 없는 말들이다. 이 웃픈 상황이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“각자도생이라면서‥”‥‘효심이네’ 유이, 결혼 미루고 父 간이식 해주나?]]></title>
-        <id>https://v.daum.net/v/20240310131642851</id>
-        <link href="https://v.daum.net/v/20240310131642851"/>
-        <updated>2024-03-10T05:10:05.096Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 배효주 기자] ‘효심이네 각자도생’ 유이는 웨딩 꽃길을 미루고, ‘효녀 심청’ 길을 선택할까. KBS 2TV 주말드라마 ‘효심이네 각자도생’(연출 김형일, 극본 조정선, 제작 아크미디어) 지난 방송에서는 효심父 추련(남경읍)이 25년 전 가출했던 사연이 밝혀졌다. 가족들 사이에서도 외로움을 느꼈던 추련은 동료 음악교사 미희와 정분이 났고, 두 사]]></content>
     </entry>
 </feed>

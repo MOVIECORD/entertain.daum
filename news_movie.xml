@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2024-03-10T07:10:16.549Z</updated>
+    <updated>2024-03-10T08:13:04.322Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘로기완’ 송중기 “높아지기보다 넓어지고 싶어”]]></title>
+        <id>https://v.daum.net/v/20240310164318083</id>
+        <link href="https://v.daum.net/v/20240310164318083"/>
+        <updated>2024-03-10T08:12:46.109Z</updated>
+        <content type="html"><![CDATA[1987년 함경북도 온성군 세선리 제7작업반에서 태어난 로기완은 어머니와 함께 북한을 탈출했다. 중국 연길에서 지내던 중 식당에서 일하며 두 사람의 생계를 꾸리던 어머니가 트럭에 치이는 사고를 당해 세상을 떠났다. 기완은 어머니의 ‘목숨값’을 손에 쥐고 독일을 거쳐 이역만리 벨기에 땅에 도착했다. 난민 지위를 인정받아 ‘사람답게’ 사는 것만이 목표였는데,]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['20년만의 재회' 양조위X유덕화, '결혼' 강지영 앵커 만났다..오늘 '뉴스룸' 출격]]></title>
         <id>https://v.daum.net/v/20240310154015702</id>
@@ -27,7 +34,7 @@
         <content type="html"><![CDATA[[서울경제] 정지은 영화 기자와 함께 영화 이슈에 관한 수다를 나눕니다. '무비이슈다'    오는 10일(현지시간) LA 돌비 극장에서 열리는 제96회 아카데미 시상식이 코앞으로 다가왔다. '기생충' 이후 한국 영화의 발길이 뜸했던 아카데미 시상식에 한국계 캐나다인 셀린 송 감독의 '패스트 라이브즈'가 각본상, 작품상 후보에 오르며 수상 가능성에 이목이]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[‘오펜하이머’, 작품·감독·남우주연·조연·촬영상 등 8관왕 전망]]></title>
+        <title type="html"><![CDATA[‘오펜하이머’, 오스카 작품·감독·남우주연·조연·촬영상 등 8관왕 전망]]></title>
         <id>https://v.daum.net/v/20240310125632533</id>
         <link href="https://v.daum.net/v/20240310125632533"/>
         <updated>2024-03-10T04:12:51.071Z</updated>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240310101101132"/>
         <updated>2024-03-10T01:49:02.084Z</updated>
         <content type="html"><![CDATA[[편집자주] 영화를 보는 김나연 기자의 사적인 시선 [스타뉴스 | 김나연 기자] 최민식 / 사진=쇼박스"극장 문화는 절대 없어지면 안 된다. 무조건 살려야 한다." 배우 최민식이 25년 만의 드라마 복귀작, 첫 OTT 작품인 '카지노' 이후 만난 인터뷰에서 강조한 말이다. 극장가 위기 속 그는 '좋은 콘텐츠'를 강조했고, 영화 '파묘'(감독 장재현)를 통]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['파묘' 파도 파도 끝없는 흥행..3주차土 56만명 동원→올해 첫 천만 돌파 임박]]></title>
-        <id>https://v.daum.net/v/20240310095846934</id>
-        <link href="https://v.daum.net/v/20240310095846934"/>
-        <updated>2024-03-10T01:49:02.085Z</updated>
-        <content type="html"><![CDATA[[스포츠조선 조지영 기자] 파도 파도 끝나지 않는 흥행세다. 오컬트 미스터리 영화 '파묘'(장재현 감독, 쇼박스·파인타운 프로덕션 제작)가 개봉 3주 차 토요일 하루에만 무려 56만명을 동원, 올해 첫 번째 1000만 흥행 돌파를 기대하게 만들었다. 10일 영화진흥위원회 영화관입장권 통합전산망에 따르면 '파묘'는 지난 9일 55만9691명을]]></content>
     </entry>
 </feed>
