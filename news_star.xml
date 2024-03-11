@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2024-03-11T16:13:13.067Z</updated>
+    <updated>2024-03-11T17:10:36.858Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘고려거란전쟁’ 최수종, 치열한 사투 끝 ‘귀주대첩’ 승리]]></title>
+        <id>https://v.daum.net/v/20240312012649977</id>
+        <link href="https://v.daum.net/v/20240312012649977"/>
+        <updated>2024-03-11T17:10:32.078Z</updated>
+        <content type="html"><![CDATA[‘고려거란전쟁’의 최수종이 치열한 사투 끝에 귀주대첩을 승리로 이끌었다. 지난 10일 방송된 공영방송 50주년 특별 기획 KBS2 대하드라마 ‘고려거란전쟁’(극본 이정우/ 연출 전우성, 김한솔, 서용수/ 제작 몬스터유니온, 비브스튜디오스) 최종회에서는 거란의 맹렬한 공격 속 위기를 맞은 고려가 역사에 남을 승리를 쟁취하며 ‘용두용미’의 마지막을 장식했]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[가희, ‘발리댁’ 5년 만에 끝냈다..국내 활동 예고 “교육자 길 갈 것”]]></title>
         <id>https://v.daum.net/v/20240312010026907</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240311235440341"/>
         <updated>2024-03-11T15:11:50.015Z</updated>
         <content type="html"><![CDATA[[스포츠조선닷컴 이게은기자] 개그맨 심현섭이 101번째 소개팅도 실패해 안타까움을 안겼다. 11일 방송된 TV조선 '조선의 사랑꾼'에서는 심현섭이 101번째 소개팅에 도전한 모습이 공개됐다. 심혜진은 심현섭을 언급하며 "항렬로 따지면 제가 고모가 맞다. 조카를 결혼을 시켜야 된다. 혼자 사는게 구질구질하다"라며 답답해했다. 심현섭이 부산으로]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['동상이몽' 윤진이, 신혼 일상 "남편은 금융맨, 결혼 준비 중 딸 생겨"]]></title>
-        <id>https://v.daum.net/v/20240311235430337</id>
-        <link href="https://v.daum.net/v/20240311235430337"/>
-        <updated>2024-03-11T15:11:50.017Z</updated>
-        <content type="html"><![CDATA[[TV리포트 = 하수나 기자] 배우 윤진이가 다니엘헤니를 닮은 이국적인 외모의 남편을 공개했다.&nbsp; 11일 SBS ‘동상이몽2 너는 내 운명’에선 배우 윤진이가 출연, 남편 김태근 씨와의 신혼생활을 공개했다.&nbsp; 윤진이의 남편은 “배우 윤진이의 남편이자 여의도에서 사모펀드 매니저로 일하는 김부장 김태근”이라고 자신을 소개했다.&nbsp; 이국적 외모의 모습에 혼혈이냐는]]></content>
     </entry>
 </feed>
