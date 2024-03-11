@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2024-03-11T22:10:18.858Z</updated>
+    <updated>2024-03-11T23:11:58.114Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['파묘' 817만 순항…오스카 수상 엠마스톤 '가여운 것들' 3위]]></title>
+        <id>https://v.daum.net/v/20240312080740367</id>
+        <link href="https://v.daum.net/v/20240312080740367"/>
+        <updated>2024-03-11T23:11:38.185Z</updated>
+        <content type="html"><![CDATA[(서울=뉴스1) 윤효정 기자 = 영화 '파묘'(감독 장재현)의 흥행 순항 중이다. 12일 영화진흥위원회 영화관 입장권 통합전산망 집계에 따르면 '파묘'는 지난 11일 하루 전국 1940개 스크린에서 13만 5266명의 관객을 동원하며 1위를 유지했다. 이로써 19일 연속 박스오피스 정상을 지키고 있는 '파묘'는 누적 관객 수 817만 7233명을 기록했]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[천만 향하는 '파묘', 적수 없는 행보..19일 연속 1위]]></title>
+        <id>https://v.daum.net/v/20240312080713360</id>
+        <link href="https://v.daum.net/v/20240312080713360"/>
+        <updated>2024-03-11T23:11:38.187Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 | 김나연 기자] 파묘 / 사진=영화 포스터'파묘'의 흥행에는 적수가 없다. 11일 영화진흥위원회 통합전산망에 따르면 전날 '파묘'는 13만 5266명의 관객을 동원해 박스오피스 1위를 기록했다. 누적 관객 수는 817만 7233명. '파묘'는 거액의 돈을 받고 수상한 묘를 이장한 풍수사와 장의사, 무속인들에게 벌어지는 기이한 사건을 담은]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["민식바오→쿠로민식에 홀린다"…62세 최민식에 '파묘'드는 민심]]></title>
         <id>https://v.daum.net/v/20240312065843312</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240311192313210"/>
         <updated>2024-03-11T11:10:36.752Z</updated>
         <content type="html"><![CDATA[[OSEN=김보라 기자]&nbsp;드림웍스 레전드 시리즈 '쿵푸팬더4'가 북미 개봉과 동시에 박스오피스 1위에 등극하며 화려한 컴백을 시작했다. 11일(한국 시각) 박스오피스 모조에 따르면 영화 '쿵푸팬더4'(감독 마이크 미첼·스테파니 스티네, 배급 유니버설 픽쳐스)가 스페인, 말레이시아, 인도네시아, 태국, 베트남 등 전세계에서 순차 개봉을 진행한 가운데 26]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이선균 추모한 오스카... '기생충' 비난한 트럼프 비꼬기도]]></title>
-        <id>https://v.daum.net/v/20240311181502928</id>
-        <link href="https://v.daum.net/v/20240311181502928"/>
-        <updated>2024-03-11T10:13:08.640Z</updated>
-        <content type="html"><![CDATA[[윤현 기자] 미국 아카데미가 배우 고(故) 이선균을 추모했다. 미국 로스앤젤레스 할리우드 돌비극장에서 10일(현지시각) 열린 제96회 아카데미 시상식(오스카)에서는 지난해 세상을 떠난 영화인들을 기리는 '인 메모리엄' 무대가 마련됐다. 아카데미를 주관하는 미국 영화예술과학아카데미(AMPAS안)는 이날 시상식에서 안드레아 보첼리가 아들 마테오와 함께 부르는]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['오스카 석권' 크리스토퍼 놀란, 무관의 설움 씻은 원동력은?]]></title>
-        <id>https://v.daum.net/v/20240311180012517</id>
-        <link href="https://v.daum.net/v/20240311180012517"/>
-        <updated>2024-03-11T09:12:12.645Z</updated>
-        <content type="html"><![CDATA[[SBS 연예뉴스 | 김지혜 기자] "영화를 만드는 사람이라면 다 이 순간을 꿈꿀 겁니다. 너무 오래 이 순간을 바라왔습니다. 실현 안 될 것 같았어요. 그런데 이 자리에 정말 서게 되었네요. '오펜하이머'가 이렇게 탄생한 건 놀란과 함께했기 때문입니다. 유일하고 천재적인 감독님 감사합니다" 영화 '오펜하이머'를 제작한 엠마 토마스는 제96회 아카데미 시상]]></content>
     </entry>
 </feed>
