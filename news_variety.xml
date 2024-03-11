@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/variety</id>
     <title>다음 연예 ─ 뉴스 ─ 예능</title>
-    <updated>2024-03-11T19:08:58.389Z</updated>
+    <updated>2024-03-11T20:13:04.639Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[윤진이♥남편, '일+육아+취미+가정' 4마리 토끼 잡은 갓생 라이프]]></title>
+        <id>https://v.daum.net/v/20240312051201159</id>
+        <link href="https://v.daum.net/v/20240312051201159"/>
+        <updated>2024-03-11T20:12:54.467Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 | 이예지 기자] /사진=동상이몽2 윤진이 '동상이몽2'에서 배우 윤진이와 남편의 갓생 라이프가 공개됐다. 11일 오후 방송된 SBS 예능프로그램 '동상이몽2-너는 내 운명'(이하 '동상이몽')에는 결혼과 출산 후 2년 만에 첫 복귀하는 배우 윤진이와 그의 남편이 출연했다. 혼혈을 의심케하는 비주얼과 한시도 허투루 쓰지 않는 프로 갓생러의 면]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[박세리, '2대2 소개팅' 주선…'줄서는 식당' 1호 커플 탄생?]]></title>
         <id>https://v.daum.net/v/20240312005137872</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240311231731099"/>
         <updated>2024-03-11T15:11:45.815Z</updated>
         <content type="html"><![CDATA[[스타뉴스 | 이예지 기자] /사진=동상이몽2 윤진이 '동상이몽2' 윤진이가 털털한 프로 먹방러의 면모를 보였다. 11일 오후 방송된 SBS 예능프로그램 '동상이몽2-너는 내 운명'(이하 '동상이몽')에는 결혼→출산 후 2년 만에 첫 복귀하는 배우 윤진이와 그의 남편이 출연했다. 이날 방송에서는 육아의 스트레스를 해소하기 위해 테니스 레슨을 받은 후]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['발리댁' 가희, 5년 외국 생활 끝 "작년에 완전히 한국으로 돌아와"]]></title>
-        <id>https://v.daum.net/v/20240311231440082</id>
-        <link href="https://v.daum.net/v/20240311231440082"/>
-        <updated>2024-03-11T15:11:45.816Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 김유진 기자) 가수 가희가 발리 생활을 마무리하고 한국으로 다시 돌아온 근황을 전했다. 11일 유튜브 채널 '오은영 TV'에는 '오~ 잠깐만요! 가수 엄마 특집 1부. 마마돌-가희, 선예'라는 제목의 영상이 게재됐다. 이날 박정아는 가희, 선예와의 인연을 설명하며 "이전에는 서로 각자의 팀에서 그 자리를 열심히 하느라고 그룹 활동 당시에는 교]]></content>
     </entry>
 </feed>
