@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-03-11T14:10:29.412Z</updated>
+    <updated>2024-03-11T15:11:55.045Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['고려거란전쟁' 측 "감독 간 갈등에 귀주대첩 전투 편집? 사실무근"]]></title>
+        <id>https://v.daum.net/v/20240312000024408</id>
+        <link href="https://v.daum.net/v/20240312000024408"/>
+        <updated>2024-03-11T15:11:41.280Z</updated>
+        <content type="html"><![CDATA[[OSEN=김보라 기자] KBS 측이 드라마 ‘고려 거란 전쟁’의 하이라이트로 꼽히는 귀주대첩 신에 대해 “귀주대첩 전투신을 의도적으로 편집했다는 얘기는 사실이 아니”라고 전했다. KBS 2TV 측은 11일 오후 보도자료를 통해 “전개상 꼭 필요하지 않았던 장면은 길게 연출했으면서 이미 찍어놓은 전투신은 의도적으로 뺐다는 얘기는 사실과 무관하다”며 이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘고거전’ 귀주대첩·현종 즉위식 편집 논란? “명백한 허위사실”]]></title>
         <id>https://v.daum.net/v/20240311230901051</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240311204157365"/>
         <updated>2024-03-11T12:18:57.737Z</updated>
         <content type="html"><![CDATA[[OSEN=김보라 기자] '웨딩 임파서블' 문상민의 스타일링이 시선을 사로잡고 있다. tvN&nbsp;월화드라마&nbsp;‘웨딩 임파서블’(극본 박슬기·오혜원, 연출 권영일)에서 재벌&nbsp;3세 신분을 속이고 평사원으로 이중생활 중인 이지한으로 분한 문상민이 매력적인 캐릭터와 찰떡 스타일링을 선보이며 드라마의 보는 재미를 더하고 있다. 문상민이 연기하는 이지한은 형 이도한(김]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['피도눈물도없이' 시련의 이소연, 하연주는 도청기 설치→친모 윤복인과 재회]]></title>
-        <id>https://v.daum.net/v/20240311202601169</id>
-        <link href="https://v.daum.net/v/20240311202601169"/>
-        <updated>2024-03-11T12:18:57.738Z</updated>
-        <content type="html"><![CDATA[[TV리포트=이혜미 기자] 윤복인 하연주 모녀가 이소연을 본격적으로 옥죄기 시작했다. 11일 KBS 2TV ‘피도 눈물도 없이’에선 혜원(이소연 분)과 영주(윤복인 분)의 재회가 그려졌다. 이날 도은(하연주 분)은 경계성 지능장애가 있는 산들(박신우 분)을 이용해 혜원과 민태(유태웅 분)를 흔들려 한 바. 산들을 현혹시킨 도은은 “이혜원, 감히 날 건드려?]]></content>
     </entry>
 </feed>
