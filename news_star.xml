@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2024-03-12T17:11:32.841Z</updated>
+    <updated>2024-03-12T18:13:35.546Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[데프콘 극대노, 19기 광수에게 “실드 치기 힘들어”]]></title>
+        <id>https://v.daum.net/v/20240313030010296</id>
+        <link href="https://v.daum.net/v/20240313030010296"/>
+        <updated>2024-03-12T18:13:30.864Z</updated>
+        <content type="html"><![CDATA[[동아닷컴] 사진 제공=SBS Plus, ENA‘나는 SOLO(나는 솔로)’ 19기 광수의 2차 오열 사태가 발발한다. 13일 SBS Plus와 ENA의 리얼 데이팅 프로그램 ‘나는 SOLO’에서는 광수, 영철, 영숙의 ‘2:1 데이트’ 중 벌어진 광수의 ‘묵언수행’ 전말이 공개된다. 이날 광수는 영철, 영숙과 ‘2:1 데이트’를 시작하기 전부터 ‘이상]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["'나나투어', 세븐틴 팬이 되고 위버스를 알게 된 사람들이 생겼죠"]]></title>
         <id>https://v.daum.net/v/20240313011839108</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240312233012376"/>
         <updated>2024-03-12T15:11:02.837Z</updated>
         <content type="html"><![CDATA[[마이데일리 = 김지우 기자] 비비 파워가 뜨겁다. 12일 서울 프레스센터에서 열린 12대 메세나협회장 취임 간담회에서 크라운제과 윤영달 회장은 비비의 '밤양갱'을 언급했다. 이날 윤 회장은 "'밤양갱' 덕에 (연양갱) 캐파(생산능력)를 늘렸다. 노래가 히트 치며 덕을 많이 보고 있다"고 밝혔다. 또 "문화의 힘이 정말 대단하다"며 "요즘 아주 신이 난]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['강심장VS' 이지혜 "남편과 6개월 만에 결혼, 매 순간 후회" 폭소]]></title>
-        <id>https://v.daum.net/v/20240312233004374</id>
-        <link href="https://v.daum.net/v/20240312233004374"/>
-        <updated>2024-03-12T15:11:02.838Z</updated>
-        <content type="html"><![CDATA[[스포츠투데이 임시령 기자] '강심장VS' 이지혜가 남편 칭찬을 쏟아냈다. 12일 방송된 SBS 예능프로그램 '강심장VS'에서는 가수 이지혜, 솔비, 케이윌, 이석훈, 방송인 김준현이 출연했다. 이날 이석훈은 아내와 결혼 11년 차임에도 "더 사랑하지 않냐. 사랑이 겹겹이 쌓이는 느낌"이라고 말했다. 이를 들은 이지혜가 "나랑 안 맞네"라고 하자 케이]]></content>
     </entry>
 </feed>
