@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2024-03-12T18:13:35.546Z</updated>
+    <updated>2024-03-12T19:11:26.063Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[송강호 첫 드라마 ‘삼식이 삼촌’… 디즈니플러스 구할 수 있을까]]></title>
+        <id>https://v.daum.net/v/20240313040444757</id>
+        <link href="https://v.daum.net/v/20240313040444757"/>
+        <updated>2024-03-12T19:11:21.700Z</updated>
+        <content type="html"><![CDATA[국내 온라인 동영상 서비스(OTT) 시장에서 하위권에 머무는 디즈니플러스가 송강호의 첫 드라마 출연작 ‘삼식이 삼촌’을 앞세워 반등을 노린다. 올해 콘텐츠 전략으로는 ‘양보다 질’을 강조했다. 디즈니플러스는 12일 서울 종로구 JW메리어트 동대문 스퀘어 서울에서 ‘2024 콘텐츠 라인업 미디어 데이’를 열고 올해 콘텐츠 라인업과 전략을 밝혔다. 디즈니플러]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[데프콘 극대노, 19기 광수에게 “실드 치기 힘들어”]]></title>
         <id>https://v.daum.net/v/20240313030010296</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240312233600410"/>
         <updated>2024-03-12T15:11:02.836Z</updated>
         <content type="html"><![CDATA[[TV리포트=이혜미 기자] 방송인 이지혜가 CEO 전 남친과 교제 중 ‘노는 여자’로 보이기 싫어 휴대폰도 지참하지 않았다며 관련 사연을 소개했다. 12일 SBS ‘강심장VS’에선 ‘내 귀에 캔디’ 특집으로 이지혜와 솔비가 게스트로 출연했다. 이지혜는 지난 2017년 세무사 남편과 결혼 후 슬하에 2녀를 둔 바. 이날 이지혜는 “결혼 전 만났던 남자 중에]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[달디단 비비 효과…'밤양갱'은 지금, 품절대란]]></title>
-        <id>https://v.daum.net/v/20240312233012376</id>
-        <link href="https://v.daum.net/v/20240312233012376"/>
-        <updated>2024-03-12T15:11:02.837Z</updated>
-        <content type="html"><![CDATA[[마이데일리 = 김지우 기자] 비비 파워가 뜨겁다. 12일 서울 프레스센터에서 열린 12대 메세나협회장 취임 간담회에서 크라운제과 윤영달 회장은 비비의 '밤양갱'을 언급했다. 이날 윤 회장은 "'밤양갱' 덕에 (연양갱) 캐파(생산능력)를 늘렸다. 노래가 히트 치며 덕을 많이 보고 있다"고 밝혔다. 또 "문화의 힘이 정말 대단하다"며 "요즘 아주 신이 난]]></content>
     </entry>
 </feed>
