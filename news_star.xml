@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2024-03-13T18:13:37.761Z</updated>
+    <updated>2024-03-13T19:10:26.417Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“현종에게 강감찬이, 김동준에겐 최수종이 있었다”]]></title>
+        <id>https://v.daum.net/v/20240314040433297</id>
+        <link href="https://v.daum.net/v/20240314040433297"/>
+        <updated>2024-03-13T19:10:20.837Z</updated>
+        <content type="html"><![CDATA[지난 주말 귀주대첩을 마지막으로 32부의 막을 내린 KBS 대하드라마 ‘고려거란전쟁’은 26년간 이어져 온 고려와 거란의 전투, 그 사이에서 고통받는 백성들과 전쟁이 남긴 상흔을 이야기했지만, 동시에 강감찬(최수종)을 만난 현종(김동준)의 성장기이기도 했다. 지난 12일 서울 서초구의 한 카페에서 만난 김동준은 “(‘고려거란전쟁’은) 왕순이 현종으로 성장]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[고규필 "영국 음식, 미친 듯이 잘 먹었다"]]></title>
         <id>https://v.daum.net/v/20240314021016770</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240313235004153"/>
         <updated>2024-03-13T15:11:51.404Z</updated>
         <content type="html"><![CDATA[(엑스포츠뉴스 윤현지 기자) 암 투병 후 극복 소식을 전한 스타들에게 응원의 목소리가 이어지고 있다.&nbsp; 지난 13일 가수 안녕하신가영은 "검진 결과 모든 수치가 정상. 완전 멀쩡한 상태라는 말을 들었다. 외래 끝나고 간호사분께서 모범 환자로서 정말 잘 이겨내 주셔서 감사하다고 말씀하시는데 정말 감동받았다"라며 투병 1년 만에 혈액암 완치 소식을 전했다.&nbsp;]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이영애, 풀만 먹나 했더니 의외의 식탐…최애 음식은 "짜파게티"]]></title>
-        <id>https://v.daum.net/v/20240313234402105</id>
-        <link href="https://v.daum.net/v/20240313234402105"/>
-        <updated>2024-03-13T15:11:51.405Z</updated>
-        <content type="html"><![CDATA[[텐아시아=김지원 기자] 이영애가 육아에서 잠시 해방된 기쁨을 드러냈다. 13일 보그 코리아 유튜브 채널에는 '이영애가 밀란 여행 브이로그를 찍었다고?!(언니 예뻐요) | VOGUE MEETS'이라는 영상이 게재됐다. 영상 속 이영애는 명품브랜드 B사의 2024 윈터쇼 참석차 이탈리아 밀라노를 찾았다. 카페에 앉아 모닝 커피를 마시게 된 이영애. 제작]]></content>
     </entry>
 </feed>
