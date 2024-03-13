@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-03-13T19:10:26.416Z</updated>
+    <updated>2024-03-13T20:11:02.332Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“작품 없다”…드라마 불황에 예능으로 향하는 배우들]]></title>
+        <id>https://v.daum.net/v/20240314050003555</id>
+        <link href="https://v.daum.net/v/20240314050003555"/>
+        <updated>2024-03-13T20:10:49.821Z</updated>
+        <content type="html"><![CDATA[이장우(왼쪽부터) 한예슬 고현정[이데일리 스타in 김가영 기자] “요즘 작품이 없어요.” 드라마 업계의 보릿고개가 시작되면서 배우들의 설자리도 사라지고 있다. 배우 이장우, 한예슬, 고현정 등 주연배우들도 드라마 시장의 불황에 한숨을 쉬었다. 드라마 제작이 줄어들자, 배우들은 예능과 유튜브 공연 등으로 눈을 돌리며 자구책을 마련하고 있다. 섭외 1순위도]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[임수향·지현우, 엇갈린 인연 서사 미리보기]]></title>
         <id>https://v.daum.net/v/20240314030008819</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240313190119687"/>
         <updated>2024-03-13T10:12:06.619Z</updated>
         <content type="html"><![CDATA[[텐아시아=태유나 기자] 배우 김유정이 러블리한 매력을 뽐냈다.&nbsp; 김유정은 13일 서울 자양동 롯데시네마 건대입구점에서 열린 넷플릭스 시리즈 '닭강정' 제작발표회에 참석했다.&nbsp; 이날 김유정은 화이트 반팔 블라우스에 미니 원피스를 입고 등장해 사랑스러운 분위기를 자아냈다.&nbsp; 특히 원피스는 네이비 컬러에 플리츠 스커트 디자인이 인상적이다. 김유정은 여기]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한효주, 오구리슌 만나나…"日 넷플릭스 '로맨틱 어나니머스' 출연"]]></title>
-        <id>https://v.daum.net/v/20240313184317296</id>
-        <link href="https://v.daum.net/v/20240313184317296"/>
-        <updated>2024-03-13T10:12:06.619Z</updated>
-        <content type="html"><![CDATA[한효주[이데일리 스타in 김가영 기자] 배우 한효주가 일본 넷플릭스 시리즈 ‘로맨틱 어나니머스’에 출연한다. 한효주 소속사 BH엔터테인먼트 측 관계자는 13일 이데일리에 “한효주가 일본 넷플릭스 시리즈 ‘로맨틱 어나니머스’에 출연한다”며 “최근 크랭크인 했다”고 전했다. ‘로맨틱 어나니머스’(Romantics Anonymous)는 장 피에르 아메리스 감독]]></content>
     </entry>
 </feed>
