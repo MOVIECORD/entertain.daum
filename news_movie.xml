@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2024-03-13T20:11:02.330Z</updated>
+    <updated>2024-03-13T21:11:58.025Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘70주년’ 왜 다시 고질라에 주목해야 하는가]]></title>
+        <id>https://v.daum.net/v/20240314055503044</id>
+        <link href="https://v.daum.net/v/20240314055503044"/>
+        <updated>2024-03-13T21:11:41.533Z</updated>
+        <content type="html"><![CDATA[탄생한 지 70년이나 된 캐릭터(IP)를 다시 꺼내는 게 지루할 수 있다. 재탕, 삼탕을 넘어 삼십탕은 끓인 곰탕을 다시 끓여 먹는 기분. 어쩌면 ‘고질라 마이너스 원’이 나오기 전까지 고질라를 보는 세간의 시선이 그랬을지도. 1954년 세상에 태어난 ‘고질라’가 올해로 70주년을 맞았다. 신을 뜻하는 영어단어 ‘갓’(God)과 일본영화 원제인 ‘고지라’]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘손석구·마동석 출격’ 春 극장가, 너 좀 설레냐]]></title>
         <id>https://v.daum.net/v/20240314000102236</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240313150603863"/>
         <updated>2024-03-13T06:14:31.431Z</updated>
         <content type="html"><![CDATA[[윤현 기자] ▲ &nbsp;영화 감독 조너선 글레이저가 가자지구 전쟁을 비판한 아카데미상 수상 소감 논란을 보도하는 영국 &lt;가디언&gt;ⓒ 가디언&nbsp; 미국 아카데미(오스카상) 시상식에서 이스라엘과 팔레스타인 무장 정파 하마스의 전쟁을 비판한 유대인 영국 감독 조너선 글레이저의 수상 소감이 논란으로 떠올랐다. 미국 홀로코스트생존자재단(HSF)은 12일(현지시각) 데이비드]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[조여정→덱스 '타로', 칸 국제시리즈 페스티벌 단편 경쟁부문 초정]]></title>
-        <id>https://v.daum.net/v/20240313143616714</id>
-        <link href="https://v.daum.net/v/20240313143616714"/>
-        <updated>2024-03-13T06:14:31.433Z</updated>
-        <content type="html"><![CDATA[[스포츠조선 문지연 기자] '타로'가 칸 국제 시리즈 페스티벌 단편 경쟁부문에 공식 초청됐다. '타로'(경민선 극본, 최병길 연출)는 한 순간의 선택으로 뒤틀린 타로카드의 저주에 갇혀버리는 잔혹 운명 미스터리 시리즈다. 칸 국제 시리즈 페스티벌(이하 '칸 시리즈') 측은 지난 12일(현지 시각) '타로'를 단편 경쟁부문에 공식 초청한다고 발표]]></content>
     </entry>
 </feed>
