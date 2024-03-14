@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-03-14T03:12:23.786Z</updated>
+    <updated>2024-03-14T04:13:11.358Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김수현x김지원 이혼?..총 겨눈 박성훈 등장이 복병]]></title>
+        <id>https://v.daum.net/v/20240314130028301</id>
+        <link href="https://v.daum.net/v/20240314130028301"/>
+        <updated>2024-03-14T04:12:58.887Z</updated>
+        <content type="html"><![CDATA[[OSEN=박소영 기자] 인생의 폭풍우를 맞닥뜨린 김수현,&nbsp;김지원 부부의 이야기가 시청자들을 사로잡고 있다. tvN&nbsp;토일드라마&nbsp;‘눈물의 여왕’(극본 박지은/&nbsp;연출 장영우,&nbsp;김희원/&nbsp;제작 스튜디오드래곤,&nbsp;문화창고,&nbsp;쇼러너스)이 결혼&nbsp;3년 차 부부 백현우(김수현 분),&nbsp;홍해인(김지원 분)의 말 못 할 속사정을 공개하며 인물의 감정에 깊게 몰입하게 만들고 있]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[돌아온 '피지컬:100', "결승 조작 NO! 더 투명하게…출연자 검증 강화"]]></title>
+        <id>https://v.daum.net/v/20240314121711386</id>
+        <link href="https://v.daum.net/v/20240314121711386"/>
+        <updated>2024-03-14T04:12:58.887Z</updated>
+        <content type="html"><![CDATA[사진=뉴스1[이데일리 스타in 김가영 기자] “특정 출연자를 우승자로 만들기 위해 경기를 조작하거나 번복하지 않았어요. 예능이지만 스포츠 중계만큼의 리얼리티와 투명함을 시청자분들이 원하신 것 같아서 최대한 투명하게 보여드리려고 했어요.” ‘피지컬:100’ 제작진이 시즌1보다 더 업그레이드된 시즌2를 예고했다. 14일 서울 마포구 호텔 나루 서울 엠갤러리에]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['고려거란전쟁' 김동준 "친구 같은 최수종은 연기 광인"]]></title>
         <id>https://v.daum.net/v/20240314120141065</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240314104952281"/>
         <updated>2024-03-14T02:16:35.352Z</updated>
         <content type="html"><![CDATA[김은희 작가가 드라마 '시그널' 시즌2 제작을 공표했다. /사진=tvN 제공드라마 '시그널'이 시즌2로 돌아온다. '시그널' 시즌2 제작 소식은 지난 13일(현지시각) 이탈리아에서 알려졌다. 이날 행사에는 김은희 작가뿐 아니라 김은희 작가의 최근작인 SBS 드라마 '악귀'에 출연한 배우 오정세, 영화 '범죄도시' 시리즈 등을 제작한 비에이엔터테인먼트 장]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['시그널' 애청자 한 풀린다…김은희 작가 측 "시즌2 준비 중"]]></title>
-        <id>https://v.daum.net/v/20240314104837241</id>
-        <link href="https://v.daum.net/v/20240314104837241"/>
-        <updated>2024-03-14T02:16:35.354Z</updated>
-        <content type="html"><![CDATA[김은희 작가가 드라마 '시그널'의 새 시즌 제작 소식을 전했다. 14일 김은희 작가 소속사 미디어랩시소 측은 iMBC연예에 "김은희 작가가 '시그널' 시즌2를 준비 중"이라고 밝혔다. '시그널' 시즌2 제작 소식은 전날(현지시간) 강연 차 이탈리아 라 사피엔차 대학을 찾은 김은희 작가가 직접 언급했다. 이번 작품은 SBS 드라마 '악귀'로 호흡을 맞춘]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘고거전’ 김동준 “임시완 전화와..‘작품 선택 잘했다’ 응원”]]></title>
-        <id>https://v.daum.net/v/20240314103925843</id>
-        <link href="https://v.daum.net/v/20240314103925843"/>
-        <updated>2024-03-14T01:43:14.630Z</updated>
-        <content type="html"><![CDATA[[OSEN=김나연 기자]&nbsp;(인터뷰③에 이어) ‘고려 거란 전쟁’ 김동준이 제국의 아이들 멤버들로부터 응원을 받았다고 밝혔다. 최근 서울 서초구 방배동의 한 카페에서는 KBS2 대하사극 ‘고려 거란 전쟁’에서 현종(왕순) 역을 맡은 배우 김동준의 종영 인터뷰가 진행됐다. ‘고려 거란 전쟁’은 관용의 리더십으로 고려를 하나로 모아 거란과의 전쟁을 승리로 이]]></content>
     </entry>
 </feed>

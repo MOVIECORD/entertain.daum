@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2024-03-14T03:12:23.786Z</updated>
+    <updated>2024-03-14T04:13:11.356Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['미키17' 봉준호라는 기다림의 이유…2025년 설 개봉이라니]]></title>
+        <id>https://v.daum.net/v/20240314123059658</id>
+        <link href="https://v.daum.net/v/20240314123059658"/>
+        <updated>2024-03-14T04:12:55.022Z</updated>
+        <content type="html"><![CDATA[[OSEN=김보라 기자]&nbsp;올해 한국영화계 기대작 중 하나로 손꼽혔던 봉준호 감독의 신작 ‘미키 17’(가제)을 보려면 아쉽지만 조금 더 기다림의 여유를 가져야 할 것 같다. 14일 수입배급사 워너브러더스 코리아는 “봉준호 감독의 신작 ‘미키 17’이 2025년 1월 28일 전세계 최초 한국 개봉을 확정했다”고 발표했다. 국내 관객들은 내년 설 연휴 극장]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘파묘’ 서양 오컬트의 허리를 끊었다…볼만한 ‘K-오컬트’ 계보]]></title>
         <id>https://v.daum.net/v/20240314120103985</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240314091902221"/>
         <updated>2024-03-14T00:45:42.418Z</updated>
         <content type="html"><![CDATA[[텐아시아=김서윤 기자] 봉준호 감독 새 영화 '미키17'이 내년 1월 국내에서 최초 공개된다. 14일 워너브러더스코리아는 봉준호 감독의 '미키17'을 내년 1월 28일 선보인다고 밝혔다. 설 연휴에 한국 관객들은 전 세계에서 가장 먼저 '미키17'을 만나게 됐다. '미키17'은 봉 감독이 '기생충'(2019) 이후 내놓는 첫 영화다. 에드워드 애쉬턴]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[봉준호 신작 '미키 17', 내년 1월 28일 전 세계 최초 韓 개봉]]></title>
-        <id>https://v.daum.net/v/20240314084808185</id>
-        <link href="https://v.daum.net/v/20240314084808185"/>
-        <updated>2024-03-14T00:45:42.418Z</updated>
-        <content type="html"><![CDATA[[스포티비뉴스=유은비 기자] 봉준호 감독의 신작 '미키 17'(가제)이 2025년 1월 28일 전 세계 최초 한국 개봉을 확정했다. 14일 워너브러더스 코리아 측은 봉준호 감독의 신작 '미키 17'이 2025년 1월 28일 전 세계 최초 한국 개봉을 확정했다고 밝혔다 . 2022년 발간된 에드워드 애시튼의 '미키 7'을 원작으로, 플랜 B의 디디 가]]></content>
     </entry>
 </feed>
