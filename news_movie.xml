@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2024-03-15T22:11:06.450Z</updated>
+    <updated>2024-03-15T23:11:14.444Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['파묘' 보고 만자 리뷰까지..中 도둑 시청에 '황당' 조롱]]></title>
+        <id>https://v.daum.net/v/20240316073005930</id>
+        <link href="https://v.daum.net/v/20240316073005930"/>
+        <updated>2024-03-15T23:10:53.435Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 | 안윤지 기자] '파묘' 배우 김고은 /사진제공=쇼박스국내에서 큰 흥행을 거둔 영화 '파묘'(감독 장재현)가 국외 판매 및 개봉을 확정 짓자, 중국의 흠집 내기가 시작됐다. 특히 중국 네티즌들은 귀신이나 마귀를 퇴치하는 '축경'을 두고 조롱하는 등 황당한 태도를 보인다. 최근 중국 최대 평점 플랫폼 사이트 더우반에는 영화 '파묘'가 등록됐다]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘댓글부대’ 뭐해, 화력 좀 더 태워!]]></title>
+        <id>https://v.daum.net/v/20240316072205882</id>
+        <link href="https://v.daum.net/v/20240316072205882"/>
+        <updated>2024-03-15T23:10:53.440Z</updated>
+        <content type="html"><![CDATA[■편파적인 한줄평 : 끝에 팍 식잖아. 초반 기세는 거의 ‘불나방’ 급이다. 파이팅 넘치게 관객에게 덤벼든다. 블랙코미디 요소도 툭툭 던지며 배짱도 부리는 듯 하다. 그런데 중후반 이후 그 화력이 팍 식는다. 무엇이 문제였을까. 찝찝한 허무만 남는, 영화 ‘댓글부대’(감독 안국진)다. ‘댓글부대’는 대기업에 대한 기사를 쓴 후 정직당한 기자 ‘임상진]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[소금 뿌리세요→대살굿 따라하세요…'파묘', 각양각색 상영회 릴레이]]></title>
         <id>https://v.daum.net/v/20240315220353511</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240315175106992"/>
         <updated>2024-03-15T09:10:31.660Z</updated>
         <content type="html"><![CDATA[[OSEN=김보라 기자]&nbsp;배우 손석구가 이상형 고백 후 장도연과 이른바&nbsp;‘썸 타는 관계’를 형성한 것과 관련, “장도연과 잘 되고 있는 건 없다”고 짤막하게 답변했다. 손석구는 15일 오후 서울 용산구 이촌동 CGV 아이파크몰에서 열린 새 영화 ‘댓글부대’ 언론시사회에서 장도연과 대면한 후 어떠한 진전이 있었는지 궁금해 하는 한 기자의 반응에 “그런 건]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[지나친 관심은 사양! 손석구 "장도연? 잘 되고 있는 건 없다"]]></title>
-        <id>https://v.daum.net/v/20240315175053978</id>
-        <link href="https://v.daum.net/v/20240315175053978"/>
-        <updated>2024-03-15T09:10:31.660Z</updated>
-        <content type="html"><![CDATA[(MHN스포츠 장민수 기자) 배우 손석구가 코미디언 장도연과의 관계에 큰 변화가 없다고 밝혔다. 15일 서울 용산구 CGV 용산아이파크몰에서 영화 '댓글부대' 언론배급시사회 및 기자간담회가 열렸다. 이날은 안국진 감독과 배우 손석구, 김성철, 김동휘, 홍경이 참석했다. '댓글부대'는 대기업에 대한 기사를 쓴 후 정직당한 기자 임상진에게 온라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한국 영화계 놀라게 한 감독의 이민, 그의 딸이 그린 연애]]></title>
-        <id>https://v.daum.net/v/20240315174201763</id>
-        <link href="https://v.daum.net/v/20240315174201763"/>
-        <updated>2024-03-15T09:10:31.660Z</updated>
-        <content type="html"><![CDATA[[김상목 기자] ▲ &nbsp;영화 &lt;패스트 라이브즈&gt; 스틸 이미지ⓒ CJ ENM&nbsp; &lt;패스트 라이브즈&gt;의 초반부를 보다 피식하고 웃음이 나왔다. 주인공 나영의 가족은 캐나다 이민을 준비하는 중이다. 나영의 아빠는 영화감독이고 엄마는 화가다. 이들의 시간은 1990년대 후반, '밀레니엄'을 앞둔 시절이다. 이때를 떠올리면 영화를 만든 셀린 송 감독의 부친인 송능한 감]]></content>
     </entry>
 </feed>
