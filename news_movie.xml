@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2024-03-15T05:12:08.762Z</updated>
+    <updated>2024-03-15T06:14:14.954Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이조로 변호사의 작품 속 법률산책 - ‘파묘’의 ‘장사 등에 관한 법률’]]></title>
+        <id>https://v.daum.net/v/20240315141459312</id>
+        <link href="https://v.daum.net/v/20240315141459312"/>
+        <updated>2024-03-15T06:13:55.527Z</updated>
+        <content type="html"><![CDATA[영화 ‘파묘’(감독 장재현)는 조상의 묫자리가 살아있는 후손들에게 영향을 미친다는 것을 전제로 이야기를 풀어갑니다. 다소 익숙한 미신을 소재로 하여 조금 편하게 다가오지만 제대로 이해하기는 쉽지 않은 작품입니다. 우리는 현재 경험하는 세상도 제대로 이해하지 못하고 살아갑니다. 어느 누구도 경험하지 못한 사후의 세계를 파악하는 것은 더]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[소니, 너 마저... 마블 실패 답습한 히어로 영화의 추락]]></title>
         <id>https://v.daum.net/v/20240315135702685</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240315111924746"/>
         <updated>2024-03-15T04:13:32.812Z</updated>
         <content type="html"><![CDATA[[뉴스엔 배효주 기자] 인피니트 멤버 남우현 주연 액션영화 '더 가디언'이 필리핀 마닐라에서 촬영을 마치고 한국에서 후반 작업에 돌입했다. 영화 '더 가디언'(감독 정장환)은 필리핀 한인조직에 납치된 엄마를 구하기 위해 모든 걸 건 청년의 이야기를 그린 액션. 태권도 국가대표의 꿈을 접고 엄마를 위해 필리핀에 정착한 박도준(남우현). 필리핀 마닐라에서]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘닭강정’ 오늘 공개…이병헌표 코미디 온다]]></title>
-        <id>https://v.daum.net/v/20240315111621592</id>
-        <link href="https://v.daum.net/v/20240315111621592"/>
-        <updated>2024-03-15T02:17:29.684Z</updated>
-        <content type="html"><![CDATA[‘닭강정’이 시청자들을 만난다. 15일 넷플릭스는 오리지널 시리즈 ‘닭강정’의 스페셜 축전을 공개하며 관전 포인트를 꼽았다. ◆이병헌 감독 표 말맛의 진수 ‘닭강정’은 의문의 기계에 들어갔다가 닭강정으로 변한 딸 민아(김유정)를 되돌리기 위한 아빠 선만(류승룡)과 그녀를 짝사랑하는 백중(안재홍)의 코믹 미스터리 추적극이다. ‘사람이 닭강정이 된다’는]]></content>
     </entry>
 </feed>
