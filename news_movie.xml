@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2024-03-15T01:44:31.722Z</updated>
+    <updated>2024-03-15T02:17:45.628Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘닭강정’ 이병헌 감독의 ‘이상한’ 코미디]]></title>
+        <id>https://v.daum.net/v/20240315111621592</id>
+        <link href="https://v.daum.net/v/20240315111621592"/>
+        <updated>2024-03-15T02:17:29.684Z</updated>
+        <content type="html"><![CDATA[이병헌 감독의 개성과 원작의 독특한 콘셉트가 만나 ‘이상한’ 코미디가 탄생했다. ‘닭강정’은 ‘딸이 닭강정으로 변했다’는 색다른 상상력을 바탕으로, 이 감독 특유의 차진 대사들로 ‘궁금증’을 유발한다. 다만, 이것이 많은 시청자들을 아우를 수 있을까. ‘대중성’에는 의문이 남는다. 넷플릭스 오리지널 시리즈 ‘닭강정’은 의문의 기계에 들어갔다가 닭강정으로]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[中, '파묘' 조롱하더니 또 도둑시청..서경덕 "이젠 당국 나서야"]]></title>
         <id>https://v.daum.net/v/20240315102407997</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240315070207492"/>
         <updated>2024-03-14T22:09:41.809Z</updated>
         <content type="html"><![CDATA[[티브이데일리 기자] 최성은은 '로기완'의 매력을 삶의 냄새라고 표현했다. 골목길 구석 같은 칙칙하고 음울한 가운데서 느껴진 삶의 향 사이, 따뜻한 시선이 담겨있었다고. 그는 마약과 불어, 사격까지 새로운 연기로 도전하며 필모를 단단히 다져가고 있었다. '로기완'은 삶의 마지막 희망을 안고 벨기에에 도착한 탈북자 로기완(송중기)과 삶의 이유를 잃어버린 여]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[대사의 힘으로 쌓는 서스펜스…영화 '악은 존재하지 않는다']]></title>
-        <id>https://v.daum.net/v/20240315070012421</id>
-        <link href="https://v.daum.net/v/20240315070012421"/>
-        <updated>2024-03-14T22:09:41.811Z</updated>
-        <content type="html"><![CDATA[(서울=연합뉴스) 오보람 기자 = 일본의 차세대 거장 하마구치 류스케 감독은 요즘 영화계를 대표하는 각본의 달인이다. 작품 전체를 꽉 채우는 밀도 높은 대사의 향연은 관객의 시선을 스크린에 잡아두는 힘이 어마어마하다. '드라이브 마이 카'(179분), '해피아워'(317분) 같은 긴 러닝타임의 작품을 보는데도 숨이 가쁜 이유는 이런 대사의 힘 때문이다. 신]]></content>
     </entry>
 </feed>
