@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/variety</id>
     <title>다음 연예 ─ 뉴스 ─ 예능</title>
-    <updated>2024-03-16T08:12:41.936Z</updated>
+    <updated>2024-03-16T09:10:21.964Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[간식 게임하다가…의욕 넘치는 스윙스, 역대급 '밈' 생성]]></title>
+        <id>https://v.daum.net/v/20240316180006082</id>
+        <link href="https://v.daum.net/v/20240316180006082"/>
+        <updated>2024-03-16T09:10:12.848Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 강다윤 기자] 가수 스윙스가 역대급 '밈'을 생성한다. 16일 방송되는 케이블채널 tvN '놀라운 토요일'에는 스윙스와 모델 정혁이 출연해 꽉 찬 예능감을 뽐낸다. '놀토' 두 번째 방문인 정혁은 엉뚱한 매력으로 시선을 강탈한다. 첫 방문 때 범상치 않은 면모를 보여준 데 이어 이날도 "재미 없다는 소리를 싫어한다. 그래서 오늘은 콘텐츠]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김승현♥장정윤 “두번의 시험관 실패, 눈앞 캄캄..‘아이 갖지말까’ 생각도”]]></title>
+        <id>https://v.daum.net/v/20240316175445011</id>
+        <link href="https://v.daum.net/v/20240316175445011"/>
+        <updated>2024-03-16T09:10:12.848Z</updated>
+        <content type="html"><![CDATA[[OSEN=김나연 기자]&nbsp;배우 김승현, 장정윤 부부가 인공수정과 시험관을 거치며 힘들었던 심경을 전했다. 지난 3일부터 방송중인 채널A ‘위대한 탄생’에 출연한 김승현, 장정윤 부부는 OSEN과 서면 인터뷰를 진행했다. ‘위대한 탄생’은 아이를 간절하게 원하는 연예인 부부와 미혼이지만 예비 엄마로서 난자 냉동을 시도하는 똑똑한 싱글녀의 삶을 조명하고 생]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘음악중심’ 비비, 방송 출연 없이 1위…하이라이트→웬디 컴백]]></title>
         <id>https://v.daum.net/v/20240316163339539</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240316130749231"/>
         <updated>2024-03-16T04:13:00.240Z</updated>
         <content type="html"><![CDATA[[뉴스엔 이민지 기자] 김석훈의 초등학교 생활기록부가 공개된다. 3월 16일 방송되는 MBC '놀면 뭐하니?'에서 김석훈의 고향 후암동 투어를 하는 유재석-하하-주우재-박진주-이이경-이미주의 모습이 공개된다. 오랜만에 ‘놀면 뭐하니?’를 찾은 김석훈은 “내 비밀 공간인데”라고 말하며 숨겨뒀던 맛집을 소개한다. 멤버들은 “방송에 나가도 괜찮아요?”라며 기]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이동해♥이설 "재회 실패하는 줄"…반전 해피엔딩]]></title>
-        <id>https://v.daum.net/v/20240316123402002</id>
-        <link href="https://v.daum.net/v/20240316123402002"/>
-        <updated>2024-03-16T04:13:00.241Z</updated>
-        <content type="html"><![CDATA[[텐아시아=이민경 기자] '남과여' 이동해와 이설이 서로를 응원하는 해피엔딩으로 막을 내렸다. 지난 15일 방송된 채널A 금요드라마 '남과여' 최종회에서는 사랑에 주저하던 청춘들이 각자의 사랑을 찾아가면서 탄탄하게 성장한 모습으로 마지막을 장식했다. 정현성(이동해 분)은 파티장에서 브랜드 H.2를 발표하던 중 애타게 기다리던 한성옥(이설 분)이 등]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['팜유왕자' 이장우, 80kg대 진입까지…180도 달라진 '바프' 도전기]]></title>
-        <id>https://v.daum.net/v/20240316120012660</id>
-        <link href="https://v.daum.net/v/20240316120012660"/>
-        <updated>2024-03-16T03:12:24.348Z</updated>
-        <content type="html"><![CDATA[[마이데일리 = 강다윤 기자] 배우 이장우가 확 달라진 모습으로 나타났다. 15일 방송된 MBC 예능 프로그램 '나 혼자 산다'에서는 이장우의 다채로운 다이어트기가 그려졌다. 이날 방송에서 이장우는 먼저 아침 러닝에 나섰다. 꾸준히 운동한 지 한 달 정도 됐다는 그는 뛰는 게 너무 좋다며 각종 성인병이 다 나을 정도라고. 이장우는 쉬지 않고 꾸준히 달리]]></content>
     </entry>
 </feed>
