@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2024-03-16T00:44:56.527Z</updated>
+    <updated>2024-03-16T01:40:55.030Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘파묘’ 둘러싼 中의 K콘텐츠 도둑시청, 韓콘텐츠산업 경쟁력 흔들기]]></title>
+        <id>https://v.daum.net/v/20240316103014807</id>
+        <link href="https://v.daum.net/v/20240316103014807"/>
+        <updated>2024-03-16T01:40:38.740Z</updated>
+        <content type="html"><![CDATA[[스포츠서울 | 배우근 기자] 최근 영화 ‘파묘’에 대한 중국 누리꾼들의 조롱이 계속되고 있다. 그런 가운데 서경덕 성신여대 교수는 중국의 불법시청이 또 시작됐다고 직격했다. 서 교수는 “중국 내에서는 한국 콘텐츠에 대한 ‘불법 유통’이 이제는 일상이 된 상황이다. 하지만 어떠한 부끄러움도 느끼지 못한다는 것이 더 기가막힐 따름이다. 중국의]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[최민식→김고은 '파묘', 866만 관객 넘었다..천만 카운트다운]]></title>
+        <id>https://v.daum.net/v/20240316102641766</id>
+        <link href="https://v.daum.net/v/20240316102641766"/>
+        <updated>2024-03-16T01:40:38.742Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 | 김나연 기자] 파묘 / 사진=영화 포스터영화 '파묘'가 천만 관객 카운트다운에 돌입했다. 16일 영화진흥위원회 통합전산망에 따르면 전날 '파묘'는 15만 672명의 관객을 동원해 박스오피스 1위를 기록했다. 누적 관객 수는 866만 8276명. '파묘'는 거액의 돈을 받고 수상한 묘를 이장한 풍수사와 장의사, 무속인들에게 벌어지는 기이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['파묘' 866만 넘었다…'듄2' 143만 돌파 2위]]></title>
         <id>https://v.daum.net/v/20240316093935169</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240315195002842"/>
         <updated>2024-03-15T11:09:07.123Z</updated>
         <content type="html"><![CDATA[(엑스포츠뉴스 김유진 기자) 손석구가 '댓글부대'에 출연해 기자 캐릭터를 연기하게 된 이유를 밝혔다. 15일 오후 서울 용산구 CGV용산아이파크몰에서 영화 '댓글부대'(감독 안국진)언론시사회가 열렸다. 이 자리에는 안국진 감독과 배우 손석구, 김성철, 김동휘, 홍경이 참석했다. '댓글부대'는 대기업에 대한 기사를 쓴 후 정직당한 기자 임상진(손석구 분)에게]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['댓글부대' 칼끝 같은 날선 상상력으로 빚어낸 사회 풍자극]]></title>
-        <id>https://v.daum.net/v/20240315193641636</id>
-        <link href="https://v.daum.net/v/20240315193641636"/>
-        <updated>2024-03-15T11:09:07.123Z</updated>
-        <content type="html"><![CDATA[[스포츠한국 모신정 기자]&nbsp;온라인 여론전담반이 개인의 SNS 및 각종 커뮤니티, 기사 댓글까지 조작하며 사람의 목숨도 좌지우지하고 법안의 상정마저도 뒤흔든다. 이는 어디까지가 사실이고 허구일까.&nbsp; 온라인 여론 조작을 주요 소재로 다룬 영화 '댓글부대'(감독 안국진)가 15일 오후 2시 서울 용산구 CGV용산아이파크몰에서 언론배급시사회를 열고 첫선을]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[사이버 공간의 보이지 않는 손…스릴러 영화 '댓글부대']]></title>
-        <id>https://v.daum.net/v/20240315192918541</id>
-        <link href="https://v.daum.net/v/20240315192918541"/>
-        <updated>2024-03-15T11:09:07.125Z</updated>
-        <content type="html"><![CDATA[(서울=연합뉴스) 이영재 기자 = 오늘날 사회를 움직이는 여론의 중심은 더 이상 언론이 아니라 사회관계망서비스(SNS)나 온라인 커뮤니티와 같은 사이버 공간이라고들 한다. 이런 곳에서 만들어진 가짜 뉴스가 사회를 혼란에 빠뜨리기도 한다. 안국진 감독의 신작 '댓글부대'는 우리 사회의 여론이 형성되는 사이버 공간을 누군가가 지배하고 있을지도 모른다는 강렬한]]></content>
     </entry>
 </feed>
