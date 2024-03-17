@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2024-03-17T01:48:21.298Z</updated>
+    <updated>2024-03-17T02:18:28.117Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[유세윤 "40년 비꼬는 캐릭터…이젠 진실 말해도 아무도 안믿어" 토로]]></title>
+        <id>https://v.daum.net/v/20240317111145695</id>
+        <link href="https://v.daum.net/v/20240317111145695"/>
+        <updated>2024-03-17T02:18:23.088Z</updated>
+        <content type="html"><![CDATA[[스포츠조선 고재완 기자] 개그맨 김지민과 공개 열애중인 김준호가 노쇠한 체력을 인증해 안쓰러움을 샀다. 지난 16일 방송한 채널S '니돈내산 독박투어2' 11회에서는 '개그맨 찐친' 김대희x김준호x장동민x유세윤x홍인규가 베트남 다낭의 노천 스파와 부디크 호텔, 로컬 해산물 식당을 즐기는 유쾌한 여행기가 펼쳐져 시청자들을 몰입시켰다. 이날 ']]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이수만, 33년 마무리 학전 위해 쾌적한 돈은 1억원 이상… “김민기 형님 일이라면”]]></title>
+        <id>https://v.daum.net/v/20240317105237358</id>
+        <link href="https://v.daum.net/v/20240317105237358"/>
+        <updated>2024-03-17T02:18:23.089Z</updated>
+        <content type="html"><![CDATA[이수만 전 SM엔터테인먼트 총괄 프로듀서가 한국 대중문화의 산실로 불린 서울 대학로 학전소극장 및 이곳을 운영해온 김민기 대표와 의리를 지켰다. 17일 업계에 따르면 이수만 프로듀서는 33년을 끝으로 역사의 뒤안길로 사라지는 학전소극장의 마지막 정리를 위해 최근 1억 원 이상의 금액을 기탁했다. 앞서 학전소극장의 엔딩을 장식하는 ‘학전 어게인(AGAIN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[차은우, '연기력 논란'서 해방…부정확한 발음·한결같은 대사톤, 역이용해 혈자리 뚫어]]></title>
         <id>https://v.daum.net/v/20240317104734284</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240317095659517"/>
         <updated>2024-03-17T01:48:16.400Z</updated>
         <content type="html"><![CDATA[[스포츠조선 고재완 기자] 수학 일타강사 정승제의 입이 떡 벌어지는 집이 공개됐다. 16일 방송된 MBC '전지적 참견 시점'(기획 강영선 / 연출 김윤집, 전재욱, 이경순, 정동식 / 작가 여현전 / 이하 '전참시') 290회에서는 수학 일타 강사 정승제의 집과 일상이 최초로 공개되는가 하면 전참시 멤버들의 끝나지 않은 싱가포르 여행기가 그]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘효심이네 각자도생’ 유이, 하준 두고 떠났다…재회 가능할까]]></title>
-        <id>https://v.daum.net/v/20240317095436499</id>
-        <link href="https://v.daum.net/v/20240317095436499"/>
-        <updated>2024-03-17T01:48:16.401Z</updated>
-        <content type="html"><![CDATA[‘효심이네 각자도생’ 유이가 하준을 두고 떠난 가운데, 두 사람이 재회가 가능할까. 지난 16일 방송된 KBS2 주말드라마 ‘효심이네 각자도생’ 50회에서 효심(유이)이 추련(남경읍)에게 간을 이식해줬다는 사실을 알게 된 선순(윤미라)은 화가 치밀었다. “애미한테 상의도 없이 낼 모레 시집갈 여동생을 수술실에 넣냐”고 장남 효성(남성진)에게 쏟아냈던 그녀]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아, 수습이 안 되네…한소희 발끈했다가 사과 또 사과]]></title>
-        <id>https://v.daum.net/v/20240317095134466</id>
-        <link href="https://v.daum.net/v/20240317095134466"/>
-        <updated>2024-03-17T01:48:16.403Z</updated>
-        <content type="html"><![CDATA[[서울=뉴시스] 손정빈 기자 = 이른바 '환승 연애' 논란에 휩싸인 배우 류준열과 한소희가 여론 뭇매를 맞고 있다. 특히 한소희는 열애설 보도 이후 소셜미디어에 감정적인 대응을 했다가 더 큰 논란을 불러오는 중이다. 댓글에 일일이 다시 댓글을 달며 소통했지만 오히려 일을 더 키우는 꼴이 되고 있다. 일부 과격한 네티즌은 두 사람 소셜미디어에 몰려가 악]]></content>
     </entry>
 </feed>
