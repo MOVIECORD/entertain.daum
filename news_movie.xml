@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2024-03-17T21:11:17.231Z</updated>
+    <updated>2024-03-17T22:09:55.203Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['댓글부대' 범죄극인가 다큐인가…대세 열연·라이징 앙상블에 홀린다]]></title>
+        <id>https://v.daum.net/v/20240318070013081</id>
+        <link href="https://v.daum.net/v/20240318070013081"/>
+        <updated>2024-03-17T22:09:35.425Z</updated>
+        <content type="html"><![CDATA[[이데일리 스타in 김보영 기자] 이것은 범죄극인가, 현실을 투영한 페이크 다큐인가. 혼란한 현실을 비웃고, 우리 일상과 멀지 않아 뒷맛은 씁쓸하다. 오락 영화를 기대했다가 고증과 풍자에 뼈 맞고 여운으로 마무리되는 작품이다. 이전까지 본 적 없는 신선한 현실 범죄극이자, 지금도 쏟아지는 뉴스와 인터넷 댓글들을 의심하게 만들 블랙 코미디 도시 괴담. 영화]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[무속 콘텐츠 봇물·명당 호텔 인기…‘파묘’ 열풍이 이끈 것]]></title>
+        <id>https://v.daum.net/v/20240318063021738</id>
+        <link href="https://v.daum.net/v/20240318063021738"/>
+        <updated>2024-03-17T22:09:35.426Z</updated>
+        <content type="html"><![CDATA[오컬트 영화 ‘파묘’의 흥행세가 무섭다. 영화의 인기에 힘입어 SBS ‘그것이 알고 싶다’, ‘당신이 혹하는 사이’(왼쪽부터 시계방향으로)의 무속신앙, 풍수지리 관련 특집들이 유튜브에서 최대 110만 조회수를 돌파하며 화제다. 사진제공｜쇼박스·SBS 영화 ‘파묘’(제작 쇼박스)가 올해 첫 1000만 영화 고지를 바라보며 식지 않는 흥행 돌풍을 일으키고]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[봄 극장가 韓·美·日 애니메이션 3파전]]></title>
+        <id>https://v.daum.net/v/20240318063019737</id>
+        <link href="https://v.daum.net/v/20240318063019737"/>
+        <updated>2024-03-17T22:09:35.428Z</updated>
+        <content type="html"><![CDATA[영화 ‘유미의 세포들 더 무비’, ‘쿵푸팬더4’, ‘극장판 스파이 패밀리 코드: 화이트’(왼쪽부터)가 다음 달까지 연달아 개봉하면서 극장가에 한·미·일 애니메이션 3파전이 성사됐다. 사진제공｜CJ CGV·유니버설픽쳐스·NEW 봄바람과 함께 한국과 미국, 일본의 애니메이션이 극장가에 몰려온다. 지난 몇 년간 극장가에서 애니메이션이 실사 영화를 위협하는 성과]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘돈값하는 영화’ 비수기 노려라…성수기 공식 깨진 영화계]]></title>
         <id>https://v.daum.net/v/20240318060011204</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20240317102702010"/>
         <updated>2024-03-17T01:48:02.470Z</updated>
         <content type="html"><![CDATA[[김성호 기자] 일상이 험난하게 느껴질 때가 있다. 과중한 업무며 어려운 일들이 벌어지고, 때로는 재산을 잃거나 병이 들기도 한다. 심지어는 가까운 사람마저 영영 잃어버릴 때도 있는데 감당하기 어려운 상실감에 다시는 일어나지 못할 수도 있다. 어느 각도에서 보면 삶이란 온갖 불행과 상실을 맞닥뜨리는 것, 생은 곧 고통이라는 어느 철학자의 말이 그리 틀린 것]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[몸 사리지 않은 코믹 연기, 홍콩 국민가수의 변신]]></title>
-        <id>https://v.daum.net/v/20240317101202781</id>
-        <link href="https://v.daum.net/v/20240317101202781"/>
-        <updated>2024-03-17T01:48:02.472Z</updated>
-        <content type="html"><![CDATA[[양형석 기자] 지난 2012년에 개봉한 최동훈 감독의 &lt;도둑들&gt;은 김윤석과 김혜수, 이정재, 전지현, 오달수, 김수현, 홍콩배우 임달화, 특별출연한 신하균 등 화려한 캐스팅으로 크게 화제가 됐다. 하지만 &lt;도둑들&gt;은 큰 기대와 함께 할리우드 영화 &lt;오션스 일레븐&gt;과의 유사성으로 적지 않은 비판을 받기도 했다. 실제로 각양각색의 특기와 캐릭터를 가진 도둑들]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[올해 첫 천만 눈앞…‘파묘’ 900만 관객 돌파]]></title>
-        <id>https://v.daum.net/v/20240317095700519</id>
-        <link href="https://v.daum.net/v/20240317095700519"/>
-        <updated>2024-03-17T01:48:02.472Z</updated>
-        <content type="html"><![CDATA[오컬트 미스터리 ‘파묘’(감독 장재현)가 900만 관객을 돌파했다. 17일 오전 12시 기준, 영화진흥위원회 통합전산망 집계에 따르면, ‘파묘’는 개봉 24일차인 3월 16일 누적 관객수 901만 2758명을 기록했다. 이는 2023년 최고의 흥행영화 ‘서울의 봄’의 기록보다 3일 빠른 수치이며 2024년 첫 천만영화 달성이 멀지 않았음을 시사한다. 이번]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[대사 없는 102분, 전혀 지루하지 않았던 진짜 이유]]></title>
-        <id>https://v.daum.net/v/20240317094802421</id>
-        <link href="https://v.daum.net/v/20240317094802421"/>
-        <updated>2024-03-17T00:51:00.578Z</updated>
-        <content type="html"><![CDATA[[장혜령 기자] &nbsp;▲ &nbsp;영화 &lt;로봇 드림&gt; 스틸컷ⓒ 영화사 진진&nbsp; &lt;로봇 드림&gt;은 '사라 바론'의 동명 그래픽 노블이 원작이다. '파블로 베르헤르' 감독은 실사 영화를 연출하다가 첫 애니메이션에 도전했다. 제76회 칸영화제를 통해 처음 선보인 후 안시국제애니메이션영화제, 부천국제애니메이션페스티벌, 제96회 아카데미 시상식 장편 애니메이션 후보까지 선정됐다.]]></content>
     </entry>
 </feed>
