@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-03-17T00:51:20.895Z</updated>
+    <updated>2024-03-17T01:48:21.307Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[박찬웃 감독x로다주 '동조자', 쿠팡플레이 독점 공개 확정]]></title>
+        <id>https://v.daum.net/v/20240317104628263</id>
+        <link href="https://v.daum.net/v/20240317104628263"/>
+        <updated>2024-03-17T01:48:06.983Z</updated>
+        <content type="html"><![CDATA[[OSEN=박소영 기자] 오는 4월, 쿠팡플레이가 박찬욱 감독의 신작 ‘동조자’를 독점 공개한다. ‘동조자’(The Sympathizer)는 1970년대 남베트남 비밀경찰에 잠입한 북베트남 정보요원의 이야기를 그린 첩보 스릴러. 베트남계 미국 작가 비엣 탄 응우옌(Viet Thanh Nguyen)의 퓰리처상 수상작인 동명 소설을 원작으로 한다.&nbsp;&nbsp; ‘동]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[차은우=김남주가 죽인 오만석 친아들..최고시청률 8.6% 기세 올랐다]]></title>
+        <id>https://v.daum.net/v/20240317100422663</id>
+        <link href="https://v.daum.net/v/20240317100422663"/>
+        <updated>2024-03-17T01:48:06.984Z</updated>
+        <content type="html"><![CDATA[[OSEN=박소영 기자] MBC ‘원더풀 월드’에서 차은우가 김남주에게 살해된 오만석 아들이라는 충격적인 반전이 드러나며 숨 막히는 전개가 펼쳐졌다. 지난&nbsp;17(토)에 방송된&nbsp;MBC&nbsp;금토드라마&nbsp;‘원더풀 월드’(기획 권성창/연출 이승영,&nbsp;정상희/극본 김지은/제작 삼화네트웍스) 6회는 수현(김남주 분)이&nbsp;‘펜션 화재 사건'의 유일한 생존자로 알고 있던 선율]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['악역 전문' 김준배의 새로운 얼굴, 알을 깨고 날개를 펴다]]></title>
         <id>https://v.daum.net/v/20240317094902439</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240317085021603"/>
         <updated>2024-03-17T00:51:05.759Z</updated>
         <content type="html"><![CDATA[(엑스포츠뉴스 조혜진 기자) (엑's 인터뷰①에 이어) 하승리가 아역배우에서 시작해 차근차근 걸어온 25년의 연기 인생을 돌아봤다. 하승리는 지난 10일 종영한 KBS 2TV 대하 사극 '고려 거란 전쟁'(극본 이정우, 연출 전우성·김한솔, 이하 '고거전')에서 원성왕후로 분해 열연을 펼쳤다. 넷플릭스 오리지널 시리즈 '지금 우리 학교는'에서 '양궁 선배']]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[하승리 "'고거전' 끝나자마자 단발로 싹둑…'여장부' 보여주고 싶었다"]]></title>
-        <id>https://v.daum.net/v/20240317085017602</id>
-        <link href="https://v.daum.net/v/20240317085017602"/>
-        <updated>2024-03-17T00:51:05.760Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 조혜진 기자) 하승리가 '고려거란전쟁' 원성이라는 새로운 역할을 맡기까지의 과정과 작품에 임하며 고민한 지점들을 밝혔다. 하승리는 지난 10일 종영한 KBS 2TV 대하 사극 '고려 거란 전쟁'(극본 이정우, 연출 전우성·김한솔, 이하 '고거전')에서 원성왕후 역으로 활약했다. 원성은 명랑하고 정의로운 성품을 지닌 인물로, 궐 밖의 여인이었으]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['눈물의 여왕' 김수현 상의 탈의+완벽 복근→김지원 키스 유도까지]]></title>
-        <id>https://v.daum.net/v/20240317084819579</id>
-        <link href="https://v.daum.net/v/20240317084819579"/>
-        <updated>2024-03-17T00:51:05.763Z</updated>
-        <content type="html"><![CDATA[[OSEN=오세진 기자] ‘눈물의 여왕’ 김지원이 김수현을 향해 솔직한 마음을 드러냈다. 16일 방영한 tvN&nbsp;새 토일드라마&nbsp;‘눈물의 여왕’(극본 박지은/&nbsp;연출 장영우,&nbsp;김희원/&nbsp;제작 스튜디오드래곤,&nbsp;문화창고,&nbsp;쇼러너스)에서는 시한부 선고를 받은 재벌 상속녀 홍해인(김지원 분)과 그의 남편이자 그와 이혼을 간절히 바랐던 남편 백현우(김수현 분)의 묘한]]></content>
     </entry>
 </feed>
