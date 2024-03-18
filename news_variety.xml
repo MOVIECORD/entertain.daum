@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/variety</id>
     <title>다음 연예 ─ 뉴스 ─ 예능</title>
-    <updated>2024-03-18T19:09:46.332Z</updated>
+    <updated>2024-03-18T20:11:44.599Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘재밌네’ 논란 사과 후 혜리, 방콕 야외 촬영 “힘든 내색 없이 소화”]]></title>
+        <id>https://v.daum.net/v/20240319045401905</id>
+        <link href="https://v.daum.net/v/20240319045401905"/>
+        <updated>2024-03-18T20:11:34.744Z</updated>
+        <content type="html"><![CDATA[가수 겸 배우 혜리가 데이즈드 화보 촬영을 하며 35도 땡볕이 드는 야외 촬영에도 힘든 내색 없이 촬영 프로다운 면모를 드러냈다. 지난 18일 유튜브 채널 ‘혜리’에 게재된 ‘동남아로 여행 간다면 이 영상을 보고 가세요’라는 제목의 영상에서는 2달간 지냈던 방콕에서의 마지막 날이 화면에 담겼다. 약 4년 만의 해외 화보라는 소식에 혜리는 “코로나 때문에 해]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘조선의 사랑꾼’ 원혁 “이수민과의 결혼 반대했던 예비 장인 이용식…아직 많이 어려워”]]></title>
         <id>https://v.daum.net/v/20240319035404631</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240318233933260"/>
         <updated>2024-03-18T15:10:46.962Z</updated>
         <content type="html"><![CDATA[[OSEN=김수형 기자]’동상이몽2’에서 박주호가 출연, 10년 째 결혼식 없이 살고있다고 고백, 넷째 가능성도 전해 눈길을 끌었다. 18일 방송된 SBS 예능 ‘동상이몽 시즌2-너는 내 운명’에서 박주호가 김진수 지원사격으로 출연했다. 이날 국가대표 축구선수 출신이자 결혼 15년차인 박주호가 출연했다. 그는 국가대표팀 전력강화위원회 멤버이기도 했다.임]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[홍경, 첫 음주에 대한 기억 고백…“집까지 기어갔다더라”]]></title>
-        <id>https://v.daum.net/v/20240318233600239</id>
-        <link href="https://v.daum.net/v/20240318233600239"/>
-        <updated>2024-03-18T15:10:46.963Z</updated>
-        <content type="html"><![CDATA[배우 홍경이 첫 음주에 대한 기억이 안 좋아 아직도 술을 안 마신다고 밝혀 놀라움을 안겼다. 18일 유튜브 채널 ‘짠한형 신동엽’(이하 ‘짠한형’)에 게재된 ‘손석구 김성철 김동휘 홍경 EP.32 짠한형이 말아주는 매력남들! 내 엉덩이 실력 어때?’라는 제목의 영상에서는 영화 ‘댓글부대’의 주역들인 손석구, 김성철, 김동휘, 홍경이 출연했다. “술에 대한]]></content>
     </entry>
 </feed>
