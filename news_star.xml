@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2024-03-18T16:14:21.401Z</updated>
+    <updated>2024-03-18T17:11:44.570Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['억울하다'던 임창정, 라덕연 주가조작 공모했나..피의자 소환 조사]]></title>
+        <id>https://v.daum.net/v/20240319012619022</id>
+        <link href="https://v.daum.net/v/20240319012619022"/>
+        <updated>2024-03-18T17:11:39.528Z</updated>
+        <content type="html"><![CDATA[[OSEN=하수정 기자] 가수 임창정이 SG(소시에테제네랄)증권발 주가 폭락 사태 당시 주가 조작 세력과 연루됐다는 의혹을 받는 가운데, 피의자 신분으로 검찰에 소환된 사실이 드러났다. 최근 서울남부지검 금융·증권범죄합동수사부는 임창정을 피의자 신분으로 불러 조사했다. 검찰은 임창정을 상대로 H사 대표 라덕연을 중심으로 한 주가조작 일당에게 돈을 투자한]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['줄서는 식당2' 박나래, 추억의 떡볶이집 찾아 한탄 “남들은 자녀들과 오는데..."]]></title>
         <id>https://v.daum.net/v/20240319003501836</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240318233526238"/>
         <updated>2024-03-18T15:10:52.036Z</updated>
         <content type="html"><![CDATA[배우 하승리가 아역의 잘 자란 예로 등극했다. 여전히 성장하면서 자신에게 잘 맞는 옷을 찾아가는 중이다. '양궁 선배'에서 '고려 황후'까지 하나씩 계단을 밟아가는 하승리다. 최근 배우 하승리는 서울 강남구에 위치한 한 카페에서 본지와 만나 KBS2 '고려거란전쟁' 관련 인터뷰를 진행했다. '고려거란전쟁'은 관용의 리더십으로 고려를 하나로 모아 거란과의]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김하늘, 남편 장승조 불륜 의심→'임신' 한지은 시체 발견]]></title>
-        <id>https://v.daum.net/v/20240318232703165</id>
-        <link href="https://v.daum.net/v/20240318232703165"/>
-        <updated>2024-03-18T15:10:52.037Z</updated>
-        <content type="html"><![CDATA[[스포츠투데이 임시령 기자] '멱살 한번 잡힙시다' 김하늘이 남편의 불륜을 의심하는 가운데, 내연녀의 시체를 발견했다. 18일 첫 방송된 KBS2 월화드라마 '멱살 한번 잡힙시다'(극본 배수영·연출 이호)에서는 서정원(김하늘)이 불륜녀의 시체를 발견했다. 이날 기자 서정원은 정치인과 언론의 위험한 공생을 다루는 '멱살 한번 잡힙시다' 프로그램 취재를 위]]></content>
     </entry>
 </feed>
