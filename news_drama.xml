@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-03-19T20:11:55.923Z</updated>
+    <updated>2024-03-19T21:10:00.930Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘닭강정’ 류승룡 “변신할 수 있다면? 안재홍? 차은우!”]]></title>
+        <id>https://v.daum.net/v/20240320060301833</id>
+        <link href="https://v.daum.net/v/20240320060301833"/>
+        <updated>2024-03-19T21:09:48.640Z</updated>
+        <content type="html"><![CDATA[배우 류승룡이 ‘닭강정’ 속 의문의 기계에 들어간다면 ‘차은우’가 되고 싶다고 밝혔다. 18일 오후 서울 종로구 삼청로의 한 카페에서 류승룡이 넷플릭스 오리지널 ‘닭강정’(극본/연출 이병헌) 관련 인터뷰를 진행했다. ‘닭강정’은 의문의 기계에 들어갔다가 닭강정으로 변한 딸 민아(김유정 분)를 되돌리기 위한 아빠 선만(류승룡 분)과 그녀를 짝사랑하는 백중(안]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김하늘·연우진, 과거 연인이었나? "우리 사귈 것 같지 않아요?"]]></title>
         <id>https://v.daum.net/v/20240319235724631</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240319182257552"/>
         <updated>2024-03-19T10:11:35.358Z</updated>
         <content type="html"><![CDATA[[OSEN=하수정 기자] 디즈니+의 오리지널 시리즈 '지배종'이 주지훈-한효주의 강렬한 존재감을 담아낸 1차 포스터를 전격 공개했다. 이와 함께 한효주의 열연이 빛나는 프리젠테이션 영상을 선공개해 이목을 집중시킨다. &nbsp; 대체불가 배우 주지훈과 한효주, 그리고 '비밀의 숲' 이수연 작가의 만남으로 화제를 모으고 있는 '지배종'이 1차 포스터 2종을]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["권나라의 재발견" 연기 차력쇼 예고..감독이 인정한 감성 연기]]></title>
-        <id>https://v.daum.net/v/20240319181852448</id>
-        <link href="https://v.daum.net/v/20240319181852448"/>
-        <updated>2024-03-19T10:11:35.358Z</updated>
-        <content type="html"><![CDATA[[OSEN=장우영 기자] 지니 TV 오리지널 ‘야한(夜限) 사진관’ 권나라와 김영옥이 주원의 사진관을 찾는다. 그런데 산 자와 망자가 함께 마지막 기억을 남길 수 있는 이 사진관에서 손녀 권나라가 할머니 김영옥을 보지 못해 그 배경에 이목이 집중된다. 지니 TV 오리지널 ‘야한(夜限) 사진관’(극본 김이랑, 연출 송현욱, 기획 KT스튜디오지니, 제작 슬]]></content>
     </entry>
 </feed>
