@@ -2,11 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2024-03-20T03:12:31.140Z</updated>
+    <updated>2024-03-20T04:14:28.398Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA['댓글부대' 김성철 "커뮤니티·밈 문화 잘 몰라…나도 MZ인데 왜 모를까"③]]></title>
+        <title type="html"><![CDATA['지옥2' 김성철, 사이비 교주 변신 "하반기 공개라 부담 없다"]]></title>
+        <id>https://v.daum.net/v/20240320122718228</id>
+        <link href="https://v.daum.net/v/20240320122718228"/>
+        <updated>2024-03-20T04:14:07.929Z</updated>
+        <content type="html"><![CDATA[[OSEN=김보라 기자] (인터뷰③에 이어) 배우 김성철(33)이 넷플릭스 인기 시리즈 ‘지옥2’와 관련, “하반기 공개라 아직은 그것에 대한 부담감이나 기대감은 없다”고 밝혔다. 김성철은 20일 오전 서울 삼청동의 한 카페에서 진행된 OSEN과의 인터뷰에서 “저는 보통 (영화나 드라마가) 공개되기 한 달 전부터 기대감을 갖기 시작한다”라고 작품을 대하]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['댓글부대' 김성철 "커뮤니티·밈 잘 몰라…나도 MZ인데 왜 모를까"③]]></title>
         <id>https://v.daum.net/v/20240320120916945</id>
         <link href="https://v.daum.net/v/20240320120916945"/>
         <updated>2024-03-20T03:12:11.435Z</updated>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240320111632923"/>
         <updated>2024-03-20T03:12:11.452Z</updated>
         <content type="html"><![CDATA[[스타뉴스 | 안윤지 기자] 배우 김성철이 20일 오전 서울 종로구의 한 카페에서 진행된 영화 '댓글부대' 개봉 관련 인터뷰를 위해 포즈를 취하고 있다.  김성철은 극 중 온라인 여론 조작을 주도하는 댓글부대 이른바 '팀알렙'의 실질적인 리더 '찡뻤킹' 역을 맡았다.  '댓글부대'는 대기업에 대한 기사를 쓴 후 정직당한 기자 '임상진'(손석구 분)에게 온라]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['댓글부대' 김성철 "시나리오는 훨씬 더 자극적이고 날것, 바로 '하겠다'고"]]></title>
-        <id>https://v.daum.net/v/20240320111021607</id>
-        <link href="https://v.daum.net/v/20240320111021607"/>
-        <updated>2024-03-20T02:16:30.851Z</updated>
-        <content type="html"><![CDATA[[OSEN=김보라 기자]&nbsp;배우 김성철(33)이 자신이 맡은 캐릭터 표현에 어려움을 겪었다고 털어놨다. 김성철은 20일 오전 서울 삼청동의 한 카페에서 진행된 OSEN과의 인터뷰에서 “상상만으로 만들어진 캐릭터라서 이 인물을 구축하는 데 어려웠다”며 “촬영하면서 감독님, 출연하는 배우들과 많은 이야기를 나누면서 찍었다”라고 밝혔다. 새 영화 ‘댓글부대’(]]></content>
     </entry>
 </feed>
