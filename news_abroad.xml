@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2024-03-20T10:11:15.698Z</updated>
+    <updated>2024-03-20T11:09:54.017Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['열애' 루이스 패트리지 "♥︎올리비아, 공개 데이트 안 해…나보다 훨씬 심각"]]></title>
+        <id>https://v.daum.net/v/20240320192218889</id>
+        <link href="https://v.daum.net/v/20240320192218889"/>
+        <updated>2024-03-20T11:09:53.446Z</updated>
+        <content type="html"><![CDATA[[OSEN=김보라 기자]&nbsp;가수 올리비아 로드리고(21)와 사귀는 동갑내기 배우 루이스 패트리지(21)가 공개 열애에 대한 생각을 털어놨다. 루이스 패트리지는 19일(현지 시각) 매거진 보그와의 인터뷰에서 “저희 데이트를 대중에 공개해서는 안 될 거 같다”며 “저희 둘로만 충분하다. 다른 수천 명의 목소리가 필요하지 않다”고 말했다. 올리비아 로드리고와]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['김고은 닮은꼴' 안도 사쿠라, 연기로 인정 받았다...설문조사서 1위 차지]]></title>
         <id>https://v.daum.net/v/20240320190701467</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240320130230748"/>
         <updated>2024-03-20T04:14:27.774Z</updated>
         <content type="html"><![CDATA[[TV리포트=유소연 기자] 넷플릭스 인기 시리즈 '기묘한 이야기' 속 '일레븐'으로 유명한 밀리 바비 브라운이 식당 웨이터에게 무례하게 대했다는 비판을 받고 있다. 지난 13일(현지 시간) 배우 밀리 바비 브라운이 '제시와 레니 웨어와 함께하는 테이블 매너' 팟캐스트에 출연했다. 이날 그는 음식을 주문할 때 기다리는 것이 정말 싫다고 털어놨다. 밀리 바비]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['동거' 야마자키 켄토·히로세 스즈, 불화설..."바빠서 소원해져"]]></title>
-        <id>https://v.daum.net/v/20240320120800918</id>
-        <link href="https://v.daum.net/v/20240320120800918"/>
-        <updated>2024-03-20T03:12:30.215Z</updated>
-        <content type="html"><![CDATA[[TV리포트=전하나 기자] 반동거 중인 일본 유명 배우 야마자키 켄토와 히로세 스즈 커플의 불화설이 제기됐다. 20일(현지 시간). 외신 매체 '라이브도어'는 배우 야마자키 켄토와 히로세 스즈가 서로 바쁜 스케줄에 관계가 소원해졌다고 보도했다. 야마자키 켄토와 히로세 스즈는 지난 2022년 7월 열애 사실과 함께 도쿄의 한 고급 아파트에서 반동거 생활을 보]]></content>
     </entry>
 </feed>
