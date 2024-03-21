@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2024-03-21T18:13:41.928Z</updated>
+    <updated>2024-03-21T19:10:09.991Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[데뷔 10년, 다작은 여전히 꿈… “박수칠 때 안 떠날 것”]]></title>
+        <id>https://v.daum.net/v/20240322040442441</id>
+        <link href="https://v.daum.net/v/20240322040442441"/>
+        <updated>2024-03-21T19:10:04.086Z</updated>
+        <content type="html"><![CDATA[지금 30대 초반의 국내 남자 배우 중에 김성철만큼 다양한 무대를 끊임없이 누비는 이는 없다. 드라마 뮤지컬 연극 영화 등 다양한 장르에서 자신만의 매력을 발산하는 김성철은 연기에서 그야말로 ‘올라운더’다. 오는 27일 개봉하는 영화 ‘댓글부대’에서 김성철은 온라인에서 여론을 조작하는 조직 팀 알렙을 이끄는 찡뻤킹 역을 맡았다. 김성철은 “찡뻤킹은 액션보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[현빈♥손예진·송중기♥케이티, 득남 후 첫 투샷…핑크빛 야구장 데이트 포착]]></title>
         <id>https://v.daum.net/v/20240322004304536</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240321232416625"/>
         <updated>2024-03-21T15:12:12.335Z</updated>
         <content type="html"><![CDATA[[스포츠조선닷컴 이지현 기자] 김대호 아나운서가 과거 얼짱만 근무하던 카페에서 알바를 했던 사실을 고백했다. 21일 방송된 MBC '구해줘! 홈즈'에는 20년 간 국제 NGO에서 봉사 활동을 한 의뢰인이 정착을 위해 서울의 'SOUL'을 느낄 수 있는 집을 찾았다. 이날 복팀에서는 케이윌과 장동민이 대표로 출격하며, 덕팀에서는 엄지윤이 대표로]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['홈즈' 엄지윤, 아재 잡는 MZ "김대호, 피부 너무 건조...진짜 아재 같다"]]></title>
-        <id>https://v.daum.net/v/20240321231330442</id>
-        <link href="https://v.daum.net/v/20240321231330442"/>
-        <updated>2024-03-21T15:12:12.336Z</updated>
-        <content type="html"><![CDATA[[TV리포트 = 하수나 기자] 엄지윤이 김대호 아나운서의 아재美에 “진짜 아재 같다”며 팩폭을 날렸다.&nbsp; 21일 MBC ‘구해줘 홈즈’에선 케이윌과 엄지윤이 인턴 코디로 출격했다. 케이윌은 홈즈 애청자인데 첫 출연이다.&nbsp; “홈즈 애청자라고 하는데 왜 안 나왔나”라는 박나래의 질문에 케이윌은 “불러줘야 나오죠!”라고 억울한 표정을 지으며 웃음을 자아냈다. “]]></content>
     </entry>
 </feed>
