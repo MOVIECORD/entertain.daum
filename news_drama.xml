@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-03-21T03:13:52.621Z</updated>
+    <updated>2024-03-21T04:13:35.880Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김수현 ‘눈물의 여왕’ 흥행 후 ‘넉 오프’ 출연? “긍정 검토 중”]]></title>
+        <id>https://v.daum.net/v/20240321130006053</id>
+        <link href="https://v.daum.net/v/20240321130006053"/>
+        <updated>2024-03-21T04:13:22.099Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 황혜진 기자] 배우 김수현이 차기작을 검토하고 있다. 김수현 소속사 골드메달리스트 측은 3월 21일 뉴스엔에 "김수현이 '넉 오프'(가제) 출연을 긍정적으로 검토 중이다"고 밝혔다. '넉 오프'(가제)는 tvN 드라마 '비밀의 숲' 시즌2를 연출한 박현석 감독의 신작이다. 디즈니+를 통해 공개될 예정이다. 한편 김수현은 매주 토요일과 일요일 오후]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이제훈→이동휘 전설의 시작 ‘수사반장 1958’ 캐릭터 포스터 공개]]></title>
         <id>https://v.daum.net/v/20240321120711267</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240321100923724"/>
         <updated>2024-03-21T01:44:03.055Z</updated>
         <content type="html"><![CDATA[[OSEN=김나연 기자]&nbsp;배우 남보라가 안방극장에 복귀했다. 그간 예능이나 사업에 더욱 힘을 쏟았던 그는 ‘오늘의 웹툰’에 이어 ‘효심이네 각자도생’을 통해 다시 ‘본업 열중 모드’로 돌아왔다. 최근 서울 서초구의 한 카페에서는 KBS2 주말드라마 ‘효심이네 각자도생’ 배우 남보라의 종영 인터뷰가 진행됐다. ‘효심이네 각자도생’은 가족을 위해 본인의 삶]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['눈물의 여왕' 김지원, 도전 통했다..'캐릭터 착붙' 몰입감 극대화]]></title>
-        <id>https://v.daum.net/v/20240321100922721</id>
-        <link href="https://v.daum.net/v/20240321100922721"/>
-        <updated>2024-03-21T01:44:03.057Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 | 이경호 기자] tvN 토일드라마 '눈물의 여왕'의 홍해인 역 김지원./사진=tvN 토일드라마 '눈물의 여왕' 영상 캡처김지원의 새로운 도전이 제대로 통했다. tvN 토일드라마 '눈물의 여왕'(극본 박지은, 연출 장영우·김희원, 제작 스튜디오드래곤·문화창고·쇼러너스) 속 퀸즈 그룹 재벌 3세 홍해인 역으로 열연 중인 김지원이 탁월한 캐릭터]]></content>
     </entry>
 </feed>
