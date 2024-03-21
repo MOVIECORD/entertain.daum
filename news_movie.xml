@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2024-03-21T21:11:29.328Z</updated>
+    <updated>2024-03-21T22:10:47.211Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘댓글부대’ ‘범죄도시4’, 4월 극장가 부탁해!]]></title>
+        <id>https://v.daum.net/v/20240322063011236</id>
+        <link href="https://v.daum.net/v/20240322063011236"/>
+        <updated>2024-03-21T22:10:27.144Z</updated>
+        <content type="html"><![CDATA[‘범죄도시2’에 함께 출연한 손석구와 마동석이 새 영화로 맞붙는다. 두 사람이 각각 주연한 ‘댓글부대’와 ‘범죄도시4’(왼쪽부터)가 연달아 극장에 걸린다. 사진제공｜에이스메이커무비웍스·비에이엔터테인먼트 ‘흥행 보증 수표’ 손석구과 마동석이 각각 주연한 ‘댓글부대’와 ‘범죄도시4’가 잇따라 개봉하며 전통적 흥행 비수기로 꼽혔던 4월 극장을 뜨겁게 달군다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘흥행작두’탄 ‘파묘’, 이번주 천만 고지 넘는다]]></title>
         <id>https://v.daum.net/v/20240322060021766</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240321164210893"/>
         <updated>2024-03-21T08:13:10.014Z</updated>
         <content type="html"><![CDATA[[성하훈 기자] ▲ &nbsp;20일 오후 CGV용산에서 열린 &lt;1980&gt; 기자간담회ⓒ 성하훈&nbsp; 최근&nbsp;현대사&nbsp;영화들이&nbsp;주목받는&nbsp;가운데&nbsp;1980년&nbsp;광주항쟁을&nbsp;소재로&nbsp;한&nbsp;&lt; 1980 &gt;이&nbsp;오는&nbsp;27일&nbsp;개봉한다.&nbsp; &lt; 1980 &gt;은&nbsp;1980년&nbsp;'서울의&nbsp;봄'&nbsp;이후&nbsp;이야기로&nbsp;1980년&nbsp;5월&nbsp;17일&nbsp;전남도청&nbsp;뒤편에&nbsp;중국음식점&nbsp;'화평반점'을&nbsp;개업한&nbsp;철수네&nbsp;가족을&nbsp;소재로&nbsp;하고&nbsp;있]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[금의환향 유태오, '패스트 라이브즈' 25일 GV 참석]]></title>
-        <id>https://v.daum.net/v/20240321162834331</id>
-        <link href="https://v.daum.net/v/20240321162834331"/>
-        <updated>2024-03-21T08:13:10.017Z</updated>
-        <content type="html"><![CDATA[[OSEN=김보라 기자]&nbsp;영화 '패스트 라이브즈'의 배우 유태오가 무대인사와 GV로 국내 관객들과 만난다. 서울에서 어린 시절을 보낸 첫사랑 ‘나영’과 ‘해성’이 24년 만에 뉴욕에서 다시 만나 끊어질 듯 이어져온 그들의 인연을 돌아보는 이틀간의 운명적인 이야기를 그린 영화 '패스트 라이브즈'(감독 셀린 송, 투자 A24・CJ ENM, 배급 CJ ENM]]></content>
     </entry>
 </feed>
