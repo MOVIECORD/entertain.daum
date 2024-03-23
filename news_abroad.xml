@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2024-03-23T01:40:32.952Z</updated>
+    <updated>2024-03-23T02:16:54.884Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[킴 카다시안, '암 판정' 케이트 왕세자빈 게시물 비난 폭주 "사과하라"]]></title>
+        <id>https://v.daum.net/v/20240323105715740</id>
+        <link href="https://v.daum.net/v/20240323105715740"/>
+        <updated>2024-03-23T02:16:54.290Z</updated>
+        <content type="html"><![CDATA[[OSEN=최이정 기자] 사업가 겸 방송인&nbsp;킴 카다시안(Kim Kardashian)이&nbsp;"케이트 미들턴을 찾으러 가는 중"이라는 경솔한 게시물로 인해 팬들로부터 비난을 받고 있다. 킴 카다시안은 윌리엄 영국 왕세자의 부인 케이트 미들턴 왕세자빈이&nbsp;스스로 암 투병 중이라고 발표하기 며칠 전 본인 SNS 계정에&nbsp;차 옆에서 포즈를 취한 사진과 함께 '케이트를]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘조커2’, 노래 15곡 포함한 “주크박스 뮤지컬”…제작비 2억 달러 투입]]></title>
         <id>https://v.daum.net/v/20240323103937576</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240322143715588"/>
         <updated>2024-03-22T06:14:22.419Z</updated>
         <content type="html"><![CDATA[[OSEN=김보라 기자]&nbsp;故 마이클 잭슨의 셋째 아이가 친할머니를 고소했다. 21일(현지 시각) 마이클 잭슨의 셋째 아이인 비지 잭슨(블랭킷)이 미국 로스앤젤레스 카운티 고등법원에 친할머니 캐서린 잭슨에 대한 고소장을 접수했다. 두 사람은 고인의 생전 재산을 둘러싸고 격렬한 전쟁을 벌이는 중. 고소장에 따르면 비지는 아버지의 유산과 관련된 재판에서 발생]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[드니 빌뇌브, “‘듄:파트2’ 보다 더 좋다는 확신 있을 때 3편 만들겠다” 선언]]></title>
-        <id>https://v.daum.net/v/20240322142333058</id>
-        <link href="https://v.daum.net/v/20240322142333058"/>
-        <updated>2024-03-22T06:14:22.419Z</updated>
-        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]드니 빌뇌브 감독의 ‘듄:파트3’ 연출 가능성을 언급했다. ‘듄친자’들은 현재 3편을 학수고대하고 있다. 과연 언제쯤 제작될까. 그는 21일(현지시간) ‘엠파이어’와 인터뷰에서 “‘파트1’이 끝나고 바로 다음 단계로 나가는 것이 좋다고 생각했다”면서 “6년 동안 쉬지 않고 두 편을 만드느라 한발짝 물어서는 것이 건강에 좋을]]></content>
     </entry>
 </feed>
