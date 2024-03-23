@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2024-03-23T02:16:54.884Z</updated>
+    <updated>2024-03-23T03:13:36.542Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['조커2', 제작비 2억 달러 달성..."노래 15개 포함" 뮤지컬 영화 예정]]></title>
+        <id>https://v.daum.net/v/20240323113200081</id>
+        <link href="https://v.daum.net/v/20240323113200081"/>
+        <updated>2024-03-23T03:13:35.934Z</updated>
+        <content type="html"><![CDATA[[OSEN=유수연 기자] 영화 '조커2' 제작 근황이 전해졌다. 22일(현지시각) 버라이어티의 보도에 따르면, 토드 필립스의 '조커' 속편의 초기 버전에는 매우 잘 알려진 노래를 최소 15개 이상 재해석한 곡이 포함, 주로 '주크박스 뮤지컬'을 중점으로 제작 중이다. 그중에는 주디 갈랜드와 관련된 1953년 뮤지컬 '밴드 웨건'의 ‘댓츠 엔터테인먼트’포]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[킴 카다시안, '암 판정' 케이트 왕세자빈 게시물 비난 폭주 "사과하라"]]></title>
         <id>https://v.daum.net/v/20240323105715740</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240322145450297"/>
         <updated>2024-03-22T06:14:22.418Z</updated>
         <content type="html"><![CDATA[[OSEN=유수연 기자] 영화 '듄' 시리즈의 감독 드니 빌뇌브가 속편 제작 현황에 대해 전했다. 21일(현지 시각) 그는 '엠파이어'와 인터뷰를 통해 "그간 '듄1'과 '듄2'를 연속으로 촬영했는데, 이는 저에게 의미가 깊다"라며 "파트 1이 끝난 뒤 속편을 바로 진행하면 좋겠다는 생각을 했고, 이미 우리는 각본 작업을 하고 있었다"라고 언급했다. 이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[故 마이클 잭슨 셋째 아들, 친할머니와 법적 싸움 "변호사 비용 못 줘"]]></title>
-        <id>https://v.daum.net/v/20240322143715588</id>
-        <link href="https://v.daum.net/v/20240322143715588"/>
-        <updated>2024-03-22T06:14:22.419Z</updated>
-        <content type="html"><![CDATA[[OSEN=김보라 기자]&nbsp;故 마이클 잭슨의 셋째 아이가 친할머니를 고소했다. 21일(현지 시각) 마이클 잭슨의 셋째 아이인 비지 잭슨(블랭킷)이 미국 로스앤젤레스 카운티 고등법원에 친할머니 캐서린 잭슨에 대한 고소장을 접수했다. 두 사람은 고인의 생전 재산을 둘러싸고 격렬한 전쟁을 벌이는 중. 고소장에 따르면 비지는 아버지의 유산과 관련된 재판에서 발생]]></content>
     </entry>
 </feed>
