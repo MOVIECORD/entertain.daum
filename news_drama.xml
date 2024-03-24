@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-03-24T15:10:09.508Z</updated>
+    <updated>2024-03-24T16:12:24.770Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[넷플 드라마 ‘닭강정’ 사우디 왕실 비하 논란]]></title>
+        <id>https://v.daum.net/v/20240325003010419</id>
+        <link href="https://v.daum.net/v/20240325003010419"/>
+        <updated>2024-03-24T16:12:12.442Z</updated>
+        <content type="html"><![CDATA[[동아닷컴] ‘닭강정’의 한 장면. 사진제공｜넷플릭스 넷플릭스 드라마 ‘닭강정’이 사우디아라비아 왕실 비하 논란에 휩싸였다. 사우디아라비아 등 일부 중동 국가의 누리꾼들은 15일 공개된 ‘닭강정’ 10화에 한국 인기 가수 ‘옐로팬츠’의 공연을 보기 위해 청탁을 하는 장면을 지적하며 “왕실을 모욕했다”, “우리 문화권을 비하했다” 등의 불만을 표시했다. I]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['눈물의 여왕' 김지원, ♥김수현 이혼합의서에 배신감 "아니라고 말해"]]></title>
         <id>https://v.daum.net/v/20240325000652268</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240324214142361"/>
         <updated>2024-03-24T13:11:38.568Z</updated>
         <content type="html"><![CDATA[(엑스포츠뉴스 김미지 기자) 김지원이 김수현에게 유언장을 고치겠다고 말했다.&nbsp; 24일 방송된 tvN 토일드라마 '눈물의 여왕'에서는 홍해인(김지원 분)이 백현우(김수현)에게 유언장을 고치겠다고 말하는 모습이 담겼다.&nbsp; 이날 백현우가 의뢰한 블랙박스에는 홍수철(곽동연)의 아내인 천다혜(이주빈)가 홍해인을 위협했던 짐승의 먹이를 뿌리고 있는 장면이 담겼다. 이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['눈물의 여왕' 김수현♥김지원, 키스하다 공원 문 닫혔다]]></title>
-        <id>https://v.daum.net/v/20240324214120358</id>
-        <link href="https://v.daum.net/v/20240324214120358"/>
-        <updated>2024-03-24T13:11:38.570Z</updated>
-        <content type="html"><![CDATA[[OSEN=오세진 기자] ‘눈물의 여왕’ 김지원과 김수현이 드디어 눈물을 쏟으며 마음을 열었다. 24일 방영한 tvN&nbsp;새 토일드라마&nbsp;‘눈물의 여왕’(극본 박지은/&nbsp;연출 장영우,&nbsp;김희원/&nbsp;제작 스튜디오드래곤,&nbsp;문화창고,&nbsp;쇼러너스)에서는 아이 유산 후 멀어질 대로 멀어졌던 백현우(김수현 분)와 홍해인(김지원 분)이 서로 마음을 털어놓으며 키스했다. 독일까지]]></content>
     </entry>
 </feed>
