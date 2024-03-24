@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2024-03-24T17:09:56.818Z</updated>
+    <updated>2024-03-24T18:16:38.082Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[채리나, 아빠 때문에 외모 콤플렉스 “곰보집 딸 소리 너무 싫었다”]]></title>
+        <id>https://v.daum.net/v/20240325030007626</id>
+        <link href="https://v.daum.net/v/20240325030007626"/>
+        <updated>2024-03-24T18:16:33.758Z</updated>
+        <content type="html"><![CDATA[[동아닷컴] 사진 제공=E채널·채널S사진 제공=E채널·채널S사진 제공=E채널·채널S사진 제공=E채널·채널S사진 제공=E채널·채널S사진 제공=E채널·채널S사진 제공=E채널·채널S사진 제공=E채널·채널S사진 제공=E채널·채널S‘놀던언니’ 멤버들이 어린시절 가정사를 공유하며 가족의 소중함을 되새긴다. 26일 E채널·채널S 예능 ‘놀던언니2’ 3회에서는 혹독했]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[강주은 母 대수술 “최민수 매일 울며 기도, 너무 아파 죽고 싶다고” 눈물]]></title>
         <id>https://v.daum.net/v/20240325020009591</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240324235100080"/>
         <updated>2024-03-24T15:10:04.429Z</updated>
         <content type="html"><![CDATA[김수현이 유언장을 고쳐준다는 김지원의 말을 거절했다. 24일 오후 방송된 tvN 토일드라마 ‘눈물의 여왕’(극본 박지은, 연출 장영우 김희원)에서는 유언장의 진실을 알게 된 백현우(김수현 분)의 모습이 그려졌다. 홍해인(김지원 분)은 “나 유언장이 있어. 엄마가 그거 안 쓰면 절대 결혼 허락 안 해준다고 해서. 당신한테 한 푼도 안 가. 그게 내 유언장이야]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“전진보다 술 잘 마시는 사람 못 봐”… 서장훈, 전진 주당 폭로]]></title>
-        <id>https://v.daum.net/v/20240324233001968</id>
-        <link href="https://v.daum.net/v/20240324233001968"/>
-        <updated>2024-03-24T15:10:04.429Z</updated>
-        <content type="html"><![CDATA[‘미우새’ 출연진이 전진의 주량에 대해 언급했다. 24일 오후 방송된 SBS 예능프로그램 ‘미운 우리 새끼’(이하 ‘미우새’)에서 배우 김승수는 배우 박정철·정유란 부부, 가수 전진·류이서 부부를 그의 집에 초대했다. 그는 화려한 술 장식장을 자랑하며 “원래는 더 많았는데 엄마가 90병을 아는 사람에게 줘버렸다”며 아쉬워했다. 박정철과 전진은 부러워했으나]]></content>
     </entry>
 </feed>
