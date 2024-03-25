@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-03-25T03:14:29.289Z</updated>
+    <updated>2024-03-25T04:13:52.006Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[연우진, 살인사건 조사 본격 착수…에이스 콤비 공조 시작]]></title>
+        <id>https://v.daum.net/v/20240325130848983</id>
+        <link href="https://v.daum.net/v/20240325130848983"/>
+        <updated>2024-03-25T04:13:37.766Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 김명미 기자] 연우진이 살인 사건의 진범을 향한 수사망을 좁힌다. 3월 25일 방송되는 KBS 2TV 월화드라마 ‘멱살 한번 잡힙시다’(연출 이호, 이현경 / 극본 배수영 / 제작 몬스터유니온, 프로덕션H) 3회에서는 김태헌(연우진 분)이 에이스 형사의 촉을 발동해 사건 진실에 한걸음 더 가까이 다가간다. 앞서 진명숙(이영숙 분)에 이어 차은새(]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[태국 스타 뮤 수파싯, 韓배우 추지민과 BL드라마 호흡]]></title>
         <id>https://v.daum.net/v/20240325120650827</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240325085020638"/>
         <updated>2024-03-25T00:48:44.171Z</updated>
         <content type="html"><![CDATA[(엑스포츠뉴스 이창규 기자) '재벌X형사' 최동구가 작품을 마무리한 가운데, 한 순간에 마약 사범으로 오해를 받았던 일화를 공개했다. 최근 서울 강남구 엑스포츠뉴스 사옥에서 SBS 금토드라마 '재벌X형사' 최동구와의 종영 인터뷰를 진행했다. '재벌X형사'는 철부지 재벌3세가 강력팀 형사가 되어 보여주는 '돈에는 돈, 빽에는 빽' FLEX 수사기. 최동구는]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['재벌X형사' 최동구 "동갑내기 안보현, 인간으로서 많이 배워"]]></title>
-        <id>https://v.daum.net/v/20240325085015636</id>
-        <link href="https://v.daum.net/v/20240325085015636"/>
-        <updated>2024-03-25T00:48:44.171Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 이창규 기자) ([엑's 인터뷰①]에 이어) 최동구에게 있어 '재벌X형사'는 좋은 동료들을 만나 스스로를 성장할 수 있게 만든 좋은 무대였다. 김영환이라는 인물의 전사에 대해서는 어떻게 접근했을까. 최동구는 "항상 작품 들어갈 때 역할에 대해 연구하는 스타일인데, 진이수와 나와의 관계, 그리고 영환이의 서사를 창조시켜야 하니까 생각을 많이 하]]></content>
     </entry>
 </feed>
