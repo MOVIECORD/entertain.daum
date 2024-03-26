@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2024-03-26T14:11:33.535Z</updated>
+    <updated>2024-03-26T15:11:02.176Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘범죄도시4’ 시리즈 중 제일 재밌다고?]]></title>
+        <id>https://v.daum.net/v/20240327000004531</id>
+        <link href="https://v.daum.net/v/20240327000004531"/>
+        <updated>2024-03-26T15:10:42.290Z</updated>
+        <content type="html"><![CDATA[완연한 봄, 인기시리즈 ‘범죄도시’의 계절이 왔다. 올해 극장가에 상륙하는 ‘범죄도시4’(감독 허명행)는 특히나 제작단계부터 시리즈 중 가장 재미있는 대본으로 손꼽혔던 터라, 그에 대한 기대감이 더욱 높아지고 있다. ‘범죄도시4’는 괴물형사 ‘마석도’(마동석)가 대규모 온라인 불법 도박 조직을 움직이는 특수부대 용병 출신의 빌런 ‘백창기’(김무열)와]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['드라이브 마이 카' 감독 차기작, 3월 27일 개봉 "재밌게 봐주세요"]]></title>
         <id>https://v.daum.net/v/20240326222800630</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240326164108186"/>
         <updated>2024-03-26T08:13:39.271Z</updated>
         <content type="html"><![CDATA[(서울=연합뉴스) 이영재 기자 = 세월호 참사 10주기를 앞두고 유가족이 직접 찍은 영상으로 제작한 다큐멘터리 영화가 나왔다. 다음 달 3일 개봉하는 '바람의 세월'이다. 문종택 감독과 김환태 감독이 공동 연출했다. 문 감독은 2014년 4월 16일 세월호 참사로 희생된 안산 단원고 학생 문지성 양의 아버지로, 세월호 참사 유가족 방송인 유튜브 채널 '41]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[천만 관객 돌파 '파묘', 글로벌 흥행에도 대성공 거둔 이유]]></title>
-        <id>https://v.daum.net/v/20240326163138728</id>
-        <link href="https://v.daum.net/v/20240326163138728"/>
-        <updated>2024-03-26T08:13:39.279Z</updated>
-        <content type="html"><![CDATA[[엔터미디어=소설가 박생강의 옆구리tv] 최근 천만 관객을 돌파한 영화 &lt;파묘&gt;는 국내 흥행만이 아니라 베트남, 말레이시아, 인도네시아 등 아시아 국가에서도 글로벌한 흥행이 이어지고 있다. 한국에서의 평가가 엇갈리는 것과 달리 &lt;파묘&gt;는 일단 흥행에서는 대단한 성공을 거머쥐고 있는 셈이다. 영화 &lt;파묘&gt;에서 무당 이화림(김고은)이 보여주는 인상적인 장면은]]></content>
     </entry>
 </feed>
