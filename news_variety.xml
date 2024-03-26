@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/variety</id>
     <title>다음 연예 ─ 뉴스 ─ 예능</title>
-    <updated>2024-03-26T16:13:45.359Z</updated>
+    <updated>2024-03-26T17:10:32.576Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[아이유, 되고 싶은 MBTI는? ‘ENTJ’…“대화가 담백하고 뽀송뽀송해”]]></title>
+        <id>https://v.daum.net/v/20240327020300293</id>
+        <link href="https://v.daum.net/v/20240327020300293"/>
+        <updated>2024-03-26T17:10:21.362Z</updated>
+        <content type="html"><![CDATA[가수 겸 배우 아이유가 되고 싶은 MBTI에 ENTJ를 꼽았다. 지난 24일 유튜브 채널 ‘빠더너스(BDNS)’에 게재된 ‘아이유와 오지 않는 당신을 기다리며’라는 제목의 영상에서는 아이유가 출연해 유튜버 문상훈과 진솔한 대화를 나누는 모습이 화면에 담겼다. ‘오당기’ 방문에 살짝 긴장했다는 말을 꺼낸 아이유는 문상훈에 대한 팬심을 고백하며 대화를 나누고]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[신기루 “개그우먼 5대장 바라보며…50대에도 그 자리 못 가면 어떻게 하나”]]></title>
+        <id>https://v.daum.net/v/20240327013001197</id>
+        <link href="https://v.daum.net/v/20240327013001197"/>
+        <updated>2024-03-26T17:10:21.368Z</updated>
+        <content type="html"><![CDATA[개그우먼 신기루가 송은이에 방송인으로서의 걱정과 고민을 털어놓았다. 지난 26일 유튜브 채널 ‘VIVO TV - 비보티비’에 게재된 ‘먹언 제조기 신기루랑 한차로 가 EP.04’라는 제목의 영상에서는 송은이와 신기루가 함께 드라이브에 나선 모습이 화면에 담겼다. 송은이의 차량에 탑승한 신기루는 좌석이 좁다며 “최강희 언니는 되게 널찍해 보였는데”라며 당황한]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[신기루 “무명 시절 언급…나 왜 이렇게 안 되지? 이렇게 총명한 애가”]]></title>
         <id>https://v.daum.net/v/20240327005701059</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240326230154913"/>
         <updated>2024-03-26T14:11:23.175Z</updated>
         <content type="html"><![CDATA[개그맨 박명수가 김태호 PD와 친분을 자랑했다. 26일(화) 장도연이 진행하는 살롱드립 채널에 '태호야 나 잘하지?  EP.33 박명수  살롱드립2'라는 제목으로 영상이 게제됐다. 이날 박명수는 장도연에게 "너 때문에 나온 것도 있지만, 사실 김태호 PD 때문에 나왔다"라고 밝혔다. 이어 박명수는 "김태호 PD가 '무한도전'으로 나의 16년을 만들어]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['3살 연하' 지승원, 김다은에 "누나는 내 배우자상" 플러팅]]></title>
-        <id>https://v.daum.net/v/20240326223821699</id>
-        <link href="https://v.daum.net/v/20240326223821699"/>
-        <updated>2024-03-26T14:11:23.175Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 김수아 기자) '커플팰리스' 지승원이 김다은에 직진했다. 26일 방송된 Mnet '커플팰리스'에서는 여자들의 선택으로 이어지는 싱글존의 1 대 1 데이트가 공개됐다. 크리에이터 김다은이 지승원과 이원남 중 어떤 남자와 아침을 먹을지 MC들의 기대가 모였다. 선택에 앞서 김다은은 "승원님이 좋으면서도 20번님이 신경 쓰이는 게 마음이 쭉 있어서]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['커플팰리스' 권영진, 은예솔 선택하며 커플존→싱글존 이동 "강렬한 5분 때문"]]></title>
-        <id>https://v.daum.net/v/20240326223810697</id>
-        <link href="https://v.daum.net/v/20240326223810697"/>
-        <updated>2024-03-26T14:11:23.175Z</updated>
-        <content type="html"><![CDATA[[OSEN=김예솔 기자] 44번 권영진이 싱글존으로 이동했다.&nbsp; 26일에 방송된 Mnet '커플팰리스'에서는 44번 권영진이 45번 은예솔을 선택하며 커플존에서 싱글존으로 이동했다.&nbsp; 이날 44번 권영진은 "여러 감정이 복잡 미묘하다"라며 아침을 맞았다. 44번 권영진이 24번 황윤주에 변심한 것. 45번 은예솔은 "두 분의 좋았던 관계를 흐트러 놓는]]></content>
     </entry>
 </feed>
