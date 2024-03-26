@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2024-03-26T00:46:55.700Z</updated>
+    <updated>2024-03-26T01:43:30.642Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['파묘', '기생충' 넘어선다...'듄2' 180만 달성 목전]]></title>
+        <id>https://v.daum.net/v/20240326095144891</id>
+        <link href="https://v.daum.net/v/20240326095144891"/>
+        <updated>2024-03-26T01:43:11.091Z</updated>
+        <content type="html"><![CDATA[(MHN스포츠 장민수 기자) 천만 관객을 돌파한 영화 '파묘'가 흥행을 이어가며 박스오피스 1위를 지켰다. 26일 영화진흥위원회 통합전산망에 따르면 '파묘'는 지난 25일 9만182명의 관객을 동원, 박스오피스 1위를 유지했다.&nbsp; 지난달 22일 개봉 후 34일째 1위를 지키고 있으며, 누적 관객수는 1029만9,228명이다. 역대 한국영화 흥행]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["앓다 죽을" 박지환 때문에 '범죄도시4' 벌써부터 뜨겁다]]></title>
         <id>https://v.daum.net/v/20240326093152093</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240326063008436"/>
         <updated>2024-03-25T22:10:35.220Z</updated>
         <content type="html"><![CDATA[패스트 라이브즈. 사진제공｜A24 미국 아카데미 시상식 후보에 올랐던 영화 ‘패스트 라이브즈’가 국내 흥행은 고전하고 있다. 해외서 극찬을 받았던 것과 달리 국내 관객의 공감을 이끌어내는 데는 실패했다. 25일 영화관입장권통합전산망에 따르면 6일 개봉한 ‘패스트 라이브즈’는 상영 19일째인 24일까지 10만 여 관객을 모으는 데 그쳤다. 지난 주말 박스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[혼을 쏙 빼놓는 몬스터 스펙터클…영화 '고질라 X 콩']]></title>
-        <id>https://v.daum.net/v/20240326060009918</id>
-        <link href="https://v.daum.net/v/20240326060009918"/>
-        <updated>2024-03-25T21:10:42.838Z</updated>
-        <content type="html"><![CDATA[(서울=연합뉴스) 이영재 기자 = '고질라 VS. 콩'(2021)에서 한판 대결을 벌였던 거대 괴수 고질라와 콩이 이번엔 한 팀을 이뤄 강력한 괴수들과 싸운다. 다리를 한번 휘두르는 것만으로도 고층 빌딩을 무너뜨리는 무시무시한 괴수들의 난투극이 스크린을 압도한다. 애덤 윈가드 감독은 신작 '고질라 X 콩: 뉴 엠파이어'(이하 '고질라 X 콩')에서 전작]]></content>
     </entry>
 </feed>
