@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2024-03-27T02:17:32.362Z</updated>
+    <updated>2024-03-27T03:14:52.009Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[테일러 스위프트, 하루 숙박비로 '2천만원' 써...상상초월 씀씀이]]></title>
+        <id>https://v.daum.net/v/20240327113000089</id>
+        <link href="https://v.daum.net/v/20240327113000089"/>
+        <updated>2024-03-27T03:14:51.425Z</updated>
+        <content type="html"><![CDATA[[TV리포트=유소연 기자] 미국 팝가수 테일러 스위프트가 남자 친구와 해변 데이트를 하는 모습이 포착된 가운데, 그들이 머문 빌라의 하루 숙박비가 매우 비싸 관심이 쏠리고 있다. 25일 외신 매체 페이지식스에 따르면, 최근 테일러 스위프트가 미식축구 선수인 남자 친구 트래비스 켈시와 북아메리카 바하마의 하버 아일랜드 비치에서 데이트를 즐겼다. 두 사람은 해]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[라이언 고슬링 부인도 경력 단절, “결혼하고 전업주부 결정”]]></title>
         <id>https://v.daum.net/v/20240327103043156</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240326183026239"/>
         <updated>2024-03-26T10:12:33.546Z</updated>
         <content type="html"><![CDATA[[OSEN=김보라 기자]&nbsp;가수 테일러 스위프트가 올해 결혼에 골인할까. 남자친구인 미식축구선수 트래비스 켈시와 단둘이 시간을 보내는 모습이 자주 목격되고 있어서다. 지난 24일(현지 시각) 두 사람은 미국 캘리포니아주 LA 다운타운 부근 말리부의 한 식당에서 포착됐다. LA 최고급 일식당 노부 말리부에서 이들이 테이블에 앉아 음식을 맛있게 먹는 모습이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘타이타닉’ 디카프리오×윈슬렛이 바다에서 매달린 문짝, 경매서 9억원에 팔려]]></title>
-        <id>https://v.daum.net/v/20240326165155703</id>
-        <link href="https://v.daum.net/v/20240326165155703"/>
-        <updated>2024-03-26T08:13:57.879Z</updated>
-        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]영화 ‘타이타닉’(1997)의 마지막 장면은 여전히 아련하다. 타이타닉이 침몰한 후 잭(레오나르도 디카프리오)과 로즈(케이트 윈슬렛)은 문짝 하나에 매달려 표류한다. 잭은 로즈를 문짝 위에 올려놓고 자신은 얼어 죽는다. 25일(현지시간) 데일리메일에 따르면, ‘타이타닉’의 상징적인 문짝은 헤리티지 옥션에서 71만 8,750만]]></content>
     </entry>
 </feed>
