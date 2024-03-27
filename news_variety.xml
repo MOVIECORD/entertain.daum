@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/variety</id>
     <title>다음 연예 ─ 뉴스 ─ 예능</title>
-    <updated>2024-03-27T16:14:37.761Z</updated>
+    <updated>2024-03-27T17:09:38.624Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘혼전 순결’ 19기 순자, 영철에 대한 마음 불변…“여자친구도 한 번 사귀면 오래가”]]></title>
+        <id>https://v.daum.net/v/20240328013001199</id>
+        <link href="https://v.daum.net/v/20240328013001199"/>
+        <updated>2024-03-27T17:09:28.869Z</updated>
+        <content type="html"><![CDATA[‘나는 솔로’ 19기 순자가 고기쌈을 언급하며 영철에 대한 호감을 드러냈다. 지난 27일 오후 방송된 ENA·SBS Plus 예능 ‘나는 SOLO’(이하 ‘나는 솔로’)에서는 19기 순자가 영철을 향한 솔직한 마음을 드러냈다. 영철이 순자를 불러내 대화를 시도했다. 지난밤 심야 데이트에서 눈물을 보인 순자에 영철은 순자의 표정이 안 좋아 보이더라며 “순자님]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이특, 김지훈에 이어 트리마제 초저가 분양 "김희철만 손해"]]></title>
         <id>https://v.daum.net/v/20240328011230121</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240328001705775"/>
         <updated>2024-03-27T16:14:28.318Z</updated>
         <content type="html"><![CDATA[[스타뉴스 | 이경호 기자] MBC '라디오스타'/사진=MBC '라디오스타' 방송 화면 캡처슈퍼주니어의 김희철, 이특, 예성, 은혁이 예능 입담을 뽐냈다. 27일 오후 방송된 MBC '라디오스타'는 슈퍼주니어의 김희철, 이특, 예성, 은혁이 출연한 '슈주, 안싸우면 다행이야' 특집으로 꾸며졌다. 이날 '라디오스타'(이하 '라스')에서 김희철, 이특,]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이특, 성수동 고급 아파트 초저가 구매 “은혁, 동해도 떡상 성공”]]></title>
-        <id>https://v.daum.net/v/20240328001327749</id>
-        <link href="https://v.daum.net/v/20240328001327749"/>
-        <updated>2024-03-27T16:14:28.319Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 서유나 기자] 슈퍼주니어 이특이 멤버들에게 아낌없이 나눈 부동산 정보로 다같이 재테크에 성공한 사실을 자랑했다. 3월 27일 방송된 MBC 예능 '라디오스타'(이하 '라스') 860회에는 '슈주, 안싸우면 다행이야' 특집의 맞아 슈퍼주니어 김희철, 이특, 예성, 은혁이 게스트로 출연했다. 이날 김구라는 이특이 성수동 고급 아파트에 배우 김지훈]]></content>
     </entry>
 </feed>
