@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2024-03-28T09:12:11.563Z</updated>
+    <updated>2024-03-28T10:12:03.335Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[푸바오 가니 포 온다…'쿵푸팬더4' 안정 NO→변화해야 성장]]></title>
+        <id>https://v.daum.net/v/20240328185049800</id>
+        <link href="https://v.daum.net/v/20240328185049800"/>
+        <updated>2024-03-28T10:11:43.663Z</updated>
+        <content type="html"><![CDATA[[OSEN=김보라 기자]&nbsp;(※이 기사에 스포일러가 있습니다.) 포(잭 블랙)는 ‘용의 전사’라는 자신의 위치와 나른한 일상에 만족해 변화와 도전보다 안정적인 삶을 택한다. 하지만 자신을 대신할 후계자는 찾아야 한다. 한편 쿵푸 마스터들의 능력을 훔쳐 가는 카멜레온(비올라 데이비스)의 등장으로 빌런의 힘이 점점 강해져 질서의 파괴와 혼란이 야기된다. 카멜]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["5.18 이야기, 지겨울 정도로 계속 돼야 한다"]]></title>
         <id>https://v.daum.net/v/20240328180301431</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240328111717619"/>
         <updated>2024-03-28T02:20:51.458Z</updated>
         <content type="html"><![CDATA[[OSEN=김보라 기자] 오컬트 공포 '씬'이 캐릭터 포스터를 공개하며 이목을 집중시킨다. '씬'(감독 한동석, 제작 ㈜도어이앤엠, 배급 롯데엔터테인먼트)은&nbsp;영화 촬영을 위해 시골 폐교로 온 배우와 제작진이 촬영 첫날부터 오묘한 기운에 휩싸이고 깨어나지 말아야 할 존재를 만나 그로부터 벗어나기 위한 탈출을 그린 오컬트 공포. 28일&nbsp;공개된 캐릭터 포스터]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박지현, ‘M:리부트’ 주연 캐스팅]]></title>
-        <id>https://v.daum.net/v/20240328111505497</id>
-        <link href="https://v.daum.net/v/20240328111505497"/>
-        <updated>2024-03-28T02:20:51.459Z</updated>
-        <content type="html"><![CDATA[배우 박지현이 지난 1994년 인기드라마 ‘M’을 새롭게 해석한 ‘M: 리부트’의 주연 물망에 올랐다. 28일 스포츠경향 취재 결과 박지현은 최근 ‘M: 리부트’ 제작진으로부터 캐스팅 제안을 받고 검토 중이다. ‘M: 리부트’는 1994년 MBC에서 방송된 10부작 납량특집 미니시리즈로 낙태의 윤리성 고발이라는 주제를 담아내 큰 인기를 얻었다. 당시]]></content>
     </entry>
 </feed>
