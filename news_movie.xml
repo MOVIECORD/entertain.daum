@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2024-03-28T00:46:58.684Z</updated>
+    <updated>2024-03-28T01:44:07.515Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘장원영 언니’ 장다아, 드디어 인터뷰 첫 등판]]></title>
+        <id>https://v.daum.net/v/20240328095626822</id>
+        <link href="https://v.daum.net/v/20240328095626822"/>
+        <updated>2024-03-28T01:43:48.052Z</updated>
+        <content type="html"><![CDATA[28일에도 다양한 연예계 행사와 인터뷰들이 독자들을 찾아간다. 할리우드 유명 애니메이션인 ‘쿵푸팬더 4’ 역시 언론에 공개된다. 오후 2시 CGV용산 아이파크몰에서 열린다. 영화는 모든 쿵푸 마스터들의 능력을 복제하는 빌런 ‘카멜레온’에 맞서기 위해 용의 전사인 자신마저도 뛰어넘어야 하는 ‘포’의 새로운 도전을 담았다. ‘쿵푸팬더’는 국내에서도 1]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[손석구, 장도연 이어 문상훈 만난다‥오늘 ‘빠더너스’ 출연]]></title>
         <id>https://v.daum.net/v/20240328093924057</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240328080317728"/>
         <updated>2024-03-27T23:10:27.396Z</updated>
         <content type="html"><![CDATA[[OSEN=김보라 기자]&nbsp;영화 ‘댓글부대’가 개봉 첫날 1위를 차지했다. 28일 영화진흥위원회 영화관입장권 통합전산망 집계를 보면 ‘댓글부대’는 어제(27일) 일별 관객수 12만 7677명이 관람해 1위에 올랐다. ‘댓글부대’(감독 안국진, 제공 ㈜에이스메이커무비웍스·KC벤처스㈜, 배급 ㈜에이스메이커무비웍스, 제작 ㈜영화적순간)는 대기업에 대한 기사를]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['댓글부대' 개봉 첫날 박스오피스 1위 순항…'파묘' 2위]]></title>
-        <id>https://v.daum.net/v/20240328074732342</id>
-        <link href="https://v.daum.net/v/20240328074732342"/>
-        <updated>2024-03-27T23:10:27.397Z</updated>
-        <content type="html"><![CDATA[[스포츠한국 신영선 기자] '댓글부대'가 개봉 첫날 1위를 기록하며 순조롭게 흥행을 향한 닻을 올렸다. 28일 영화진흥위원회 영화관입장권 통합전산망에 따르면, '댓글부대'는 개봉 첫날인 27일 12만7676명의 관객을 모으며 '파묘'를 누르고 1위에 올랐다. 누적 관객 수는 13만1715명이다. '댓글부대'는 대기업에 대한 기사를 쓴 후 정직당]]></content>
     </entry>
 </feed>
