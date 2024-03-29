@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2024-03-29T22:11:17.523Z</updated>
+    <updated>2024-03-29T23:10:23.572Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[삶을 뒤엎을 관능적 사랑이 찾아온 여름…영화 '라스트 썸머']]></title>
+        <id>https://v.daum.net/v/20240330074509242</id>
+        <link href="https://v.daum.net/v/20240330074509242"/>
+        <updated>2024-03-29T23:10:03.445Z</updated>
+        <content type="html"><![CDATA[(서울=연합뉴스) 이영재 기자 = 러시아의 문호 톨스토이의 '안나 카레니나'를 거론하지 않더라도, 예절과 윤리에 기반을 둔 상류층 가정이 관능적 사랑이라는 거대한 파도에 휩쓸려 모래성처럼 무너지고 마는 이야기는 많이 있다. 인간 사회를 지배하는 규범을 비웃기라도 하듯, 관능적 사랑은 겉보기에 이상적인 가정마저도 순식간에 짓밟아 버린다. 파격적인 방법으로 욕]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[전세계를 홀린 마법… 최고로 돈 많이 벌었다]]></title>
+        <id>https://v.daum.net/v/20240330071715008</id>
+        <link href="https://v.daum.net/v/20240330071715008"/>
+        <updated>2024-03-29T23:10:03.446Z</updated>
+        <content type="html"><![CDATA['겨울왕국'이 10억7240억달러(약 1조1400억원)의 수익을 달성하고 세계적으로 가장 흥행한 애니메이션 영화로 등극했다. 사진은 겨울왕국 애니메이션의 주인공 엘사의 스틸컷. /사진=월트디즈니 컴퍼니 코리아 제공2014년 3월30일. 월트디즈니가 제작한 '겨울왕국'이 10억7240억달러(약 1조1400억원)의 수익을 달성하면서 전 세계적으로 가장 흥행한]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['범죄도시4' 박지환, '파묘' 김고은 무당룩 오마주…소름 유발 비주얼]]></title>
         <id>https://v.daum.net/v/20240329210223089</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240329134801918"/>
         <updated>2024-03-29T05:11:42.461Z</updated>
         <content type="html"><![CDATA[[장혜령 기자] ▲ &nbsp;영화 &lt;마더스&gt; 스틸컷ⓒ (주)스튜디오 디에이치엘&nbsp; 옆집에 사는 이웃 앨리스(제시카 차스테인)와 셀린(앤 해서웨이)은 막역한 사이다. 서로의 아이 테오와 맥스, 그리고 남편까지 가족처럼 집을 오간다. 생일을 챙겨주고, 파티도 종종 벌여 두 아이도 친형제 이상으로 친하다. 앨리스와 셀린은 서로의 아이를 내 아이처럼 끔찍하게 생각한다. 함]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[촛불집회 거론한 영화 '댓글부대', 욕심이 과했다]]></title>
-        <id>https://v.daum.net/v/20240329133002436</id>
-        <link href="https://v.daum.net/v/20240329133002436"/>
-        <updated>2024-03-29T05:11:42.467Z</updated>
-        <content type="html"><![CDATA[[원종빈 기자] * 이 글에는 영화의 스포일러가 있습니다. 특종을 놓치지 않기로 유명한 사회부 기자 '임상진'(손석구). 그런 그에게 대한민국 최고의 대기업 '만전'의 비리를 폭로하고 싶다는 제보가 들어온다. 제보자의 증언과 나름의 취재 내용을 더해 단독 기사를 출고한 상진. 그러나 다음 날 기사는 오보로 판명되고, 상진은 그를 기레기라고 비난하는 수많은]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[데뷔 40주년 이상아 “탈색 탓 두피 고름 다 터져” 열정 불태운 ‘씬’]]></title>
-        <id>https://v.daum.net/v/20240329132908416</id>
-        <link href="https://v.daum.net/v/20240329132908416"/>
-        <updated>2024-03-29T05:11:42.471Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 글 배효주 기자/사진 표명중 기자] 첫 오컬트 도전이라는 김윤혜와 올해 데뷔 40주년을 맞았다는 이상아. 두 사람이 의기투합한 오컬트 영화 '씬'이 개봉한다. 영화 '씬'(감독 한동석) 언론 시사회가 3월 29일 서울 광진구 롯데시네마 건대입구에서 열렸다. 상영 후 간담회에는 한동석 감독과 배우 김윤혜, 송이재, 박지훈, 이상아가 참석했다. 오는]]></content>
     </entry>
 </feed>
