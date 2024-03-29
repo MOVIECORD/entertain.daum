@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2024-03-29T02:17:22.078Z</updated>
+    <updated>2024-03-29T03:11:32.873Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘중증 치매’ 브루스 윌리스 건강 급격히 악화, “69살 생일이 마지막” 안타까움]]></title>
+        <id>https://v.daum.net/v/20240329120012345</id>
+        <link href="https://v.daum.net/v/20240329120012345"/>
+        <updated>2024-03-29T03:11:31.924Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]‘중증 치매’를 앓고 있는 브루스 윌리스(69)의 건강이 급격히 악화되는 것으로 알려졌다. 한 소식통은 28일(현지시간) ‘인 터치’에 “윌리스는 지난 19일 69살이 됐다”면서 “가족은 이날이 그의 마지막 생일일지 모른다는 사실을 받아들이게 됐다”고 말했다. 이어 “전 부인 데미 무어, 현 부인 엠마 헤밍, 그리고 다섯]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[스톰 레이드 "'유포리아3' 제작 연기, 놀랍진 않았다"]]></title>
         <id>https://v.daum.net/v/20240329111006349</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240328142606204"/>
         <updated>2024-03-28T06:14:05.692Z</updated>
         <content type="html"><![CDATA[[TV리포트=유소연 기자] 과감한 의상과 메이크업으로 연일 화제를 모았던 미국 배우 줄리아 폭스. 그는 강아지를 산책시킬 때도 평범하지 않았다. 27일(현지 시간) 외신 매체 페이지식스에 따르면 줄리아 폭스가 파격적인 메이크업과 복장을 한 채 반려견을 산책시키다 포착됐다. 공개된 사진 속 그는 눈두덩이 전체에 검은색 아이섀도를 칠했으며 그 경계가 머리카락으]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[결별 2주만에 열애설 터진 女스타...상대는 '몸' 좋은 축구선수]]></title>
-        <id>https://v.daum.net/v/20240328125830964</id>
-        <link href="https://v.daum.net/v/20240328125830964"/>
-        <updated>2024-03-28T04:12:44.227Z</updated>
-        <content type="html"><![CDATA[[TV리포트=유소연 기자] 리얼리티 스타 아라벨라 치가 전 남자 친구와 결별한 지 2주 만에 축구 선수와 만난다. 27일(현지 시간) 외신 매체 더선의 보도에 따르면, 아라벨라 치가 아담 막스테드와 결별한 지 2주 만에 축구 선수 비니시우스 수자와 교제 중이다. 특히 아라벨라 치는 이전에도 축구 선수 루벤 디아스와 교제한 바 있는데, 또 축구 선수와 교제하]]></content>
     </entry>
 </feed>
