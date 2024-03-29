@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2024-03-29T16:12:54.703Z</updated>
+    <updated>2024-03-29T17:10:44.284Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘2024 러브썸 페스티벌’ 최종 라인업 30팀 공개···도영, 쏜애플, 데이브레이크 합류]]></title>
+        <id>https://v.daum.net/v/20240330012346323</id>
+        <link href="https://v.daum.net/v/20240330012346323"/>
+        <updated>2024-03-29T17:10:39.735Z</updated>
+        <content type="html"><![CDATA[다가오는 봄을 더 설레게 해주는 ‘2024 러브썸(LOVESOME) 페스티벌’의 화려한 무대를 장식할 최종 라인업이 공개됐다. ‘2024 러브썸 페스티벌’은 지난 2월 14일 공식 SNS를 통해 남우현, 디어클라우드, 로이킴, 멜로망스, 박원, 샘김, 유채훈, 이승윤, 적재, 정세운, 최인경, 하현상을 공개하며 페스티벌에 어울리는 1차 라인업을 발표했]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[고현정, 다 가려도 그냥 예쁘네? '53세' 나이 잊게 만드는 힙한 패션!]]></title>
         <id>https://v.daum.net/v/20240330011144293</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240330000145925"/>
         <updated>2024-03-29T15:10:47.333Z</updated>
         <content type="html"><![CDATA[티아라 출신 아름, 병원 치료 후 의식 돌아와 [더팩트ㅣ문화영 기자] '셀프 열애설'과 '김수현 빛삭'으로 논란된 김새론이 결국 노코멘트를 선택했습니다. 티아라 출신 아름은 불미스러운 일로 병원으로 이송됐으며 현재 치료를 받고 있습니다. 그런가 하면 류준열과 열애로 홍역을 치른 한소희가 이번엔 합성사진으로 골머리를 앓고 있습니다. 또 한소희는 직접 자신]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이효리, 마지막 '레드카펫' 울컥 "데뷔 26년만에 첫 단독MC…감사한 무대"]]></title>
-        <id>https://v.daum.net/v/20240329235417854</id>
-        <link href="https://v.daum.net/v/20240329235417854"/>
-        <updated>2024-03-29T15:10:47.334Z</updated>
-        <content type="html"><![CDATA[[스포츠조선닷컴 이지현 기자] 가수 이효리가 '레드카펫'의 무대의 막을 내렸다. 29일 방송된 KBS 2TV 뮤직 토크쇼 '더 시즌즈-이효리의 레드카펫' 13회는 마지막회 기념으로 꼭 보고 싶었던 게스트를 만나보는 '다시, 봄' 특집으로 진행됐다. 이날 이효리는 '레드카펫'의 문을 열었던 오프닝 송 'Full Moon'이 아닌 제니와 함께 불]]></content>
     </entry>
 </feed>
