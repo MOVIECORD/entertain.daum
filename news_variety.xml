@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/variety</id>
     <title>다음 연예 ─ 뉴스 ─ 예능</title>
-    <updated>2024-03-29T03:11:32.511Z</updated>
+    <updated>2024-03-29T04:14:23.540Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[미남 광부 홍석천 ‘톡파원 25시’ 男 멤버 외모에 냉정한 평가]]></title>
+        <id>https://v.daum.net/v/20240329121301624</id>
+        <link href="https://v.daum.net/v/20240329121301624"/>
+        <updated>2024-03-29T04:14:14.016Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 김명미 기자] 홍석천, 송민교 아나운서가 '톡파원 25시'에 뜬다. 오는 4월 1일 방송될 JTBC ‘톡파원 25시’에서는 홍콩 장국영 투어부터 멕시코와 태국으로 떠나는 뷔페 투어, 짐바브웨, 잠비아 랜선 여행이 펼쳐진다. 게스트로는 방송인 홍석천과 JTBC 공채 1기 아나운서 송민교가 게스트로 출연해 유쾌한 입담으로 시청자들을 사로잡는다. 이날]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[산다라박, 푸바오와 이별에 폭풍 오열 “직관 위해 200분 대기쯤이야”]]></title>
         <id>https://v.daum.net/v/20240329120243412</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240329110812261"/>
         <updated>2024-03-29T02:17:12.830Z</updated>
         <content type="html"><![CDATA[[뉴스엔 이슬기 기자] 11기 순자가 커플이 됐던 영철에 대해 이야기했다. 3월 28일 방송된 ENA·SBS Plus '나는 SOLO, 그 후 사랑은 계속된다'(이하 '나솔사계')에서는 다시 사랑을 찾으려는 솔로민박 도전의 이야기가 담겼다. 이날 방송에는 11기 순자가 새로운 인연을 찾기 위해 나서 시선을 끌었다. 그는 11기 방송 당시 영철과 커플이 된]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“부산 오면 오빠한테 연락해” 이대호, 히밥 앞 허세 폭발]]></title>
-        <id>https://v.daum.net/v/20240329110711232</id>
-        <link href="https://v.daum.net/v/20240329110711232"/>
-        <updated>2024-03-29T02:17:12.832Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 하지원 기자] 이대호가 폭풍 섭외력으로 부산을 점령하며 부산의 대스타다운 면모를 뽐낸다. 3월 30일 오후 5시 티캐스트 E채널에서 방송되는 '토요일은 밥이 좋아'에서는 믿고 먹는 부산 대호 투어의 2탄이 공개됐다. 이대호는 "부산에 왔으면 그래도 또 바닷가를 보면서 회를 한 번 먹어야 하지 않겠느냐"라며 멤버들을 위한 오션뷰 식당으로 이끈다.]]></content>
     </entry>
 </feed>
