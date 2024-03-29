@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-03-29T01:43:20.947Z</updated>
+    <updated>2024-03-29T02:17:22.077Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김수현X김지원 ‘눈물의 여왕’ 넷플릭스 누적 68개국 TOP10…글로벌 열풍]]></title>
+        <id>https://v.daum.net/v/20240329105827835</id>
+        <link href="https://v.daum.net/v/20240329105827835"/>
+        <updated>2024-03-29T02:17:07.844Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 황혜진 기자] 배우 김수현, 김지원 주연의 '눈물의 여왕'이 글로벌 히트 K드라마 반열에 합류했다. 매주 주말 화제 속 방영되고 있는 tvN 토일드라마 '눈물의 여왕'(극본 박지은/연출 장영우, 김희원/제작 스튜디오드래곤, 문화창고, 쇼러너스)은 퀸즈 그룹 재벌 3세이자 백화점의 여왕 홍해인(김지원 분)과 용두리 이장 아들이자 슈퍼마켓 왕자 백현]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['국민 사랑꾼' 최수종 "사별 후 ♥하희라가 재혼한다면.."]]></title>
         <id>https://v.daum.net/v/20240329103354762</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240329091149458"/>
         <updated>2024-03-29T00:47:10.859Z</updated>
         <content type="html"><![CDATA[[뉴스엔 이민지 기자] ‘수사반장 1958’ 이동휘가 독종 형사로 변신한다. 오는 4월 19일 첫 방송되는 MBC 새 금토드라마 ‘수사반장 1958’(극본 김영신/연출 김성훈/크리에이터 박재범) 측은 3월 29일 독보적 존재감을 예고한 이동휘의 스틸컷을 공개했다. 한번 물면 놓지 않는 형사계의 ‘미친개’로 강렬한 변신을 예고한다. ‘수사반장 1958’]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['나솔사계', "웨딩드레스 못입어" 15기 현숙→13기 광수 세번째 출연까지]]></title>
-        <id>https://v.daum.net/v/20240329091056434</id>
-        <link href="https://v.daum.net/v/20240329091056434"/>
-        <updated>2024-03-29T00:47:10.859Z</updated>
-        <content type="html"><![CDATA[‘나솔사계’[이데일리 스타in 김가영 기자] ‘나는 SOLO(나는 솔로)’ 화제의 출연자들이 ‘나솔사계’ 속 ‘솔로민박’에 총출동했다. 28일 ENA와 SBS Plus에서 방송한 ‘나는 SOLO, 그 후 사랑은 계속된다’(이하 ‘나솔사계’)에서는 ‘의자왕’으로 불린 6기 영수부터 ‘최종 커플’에 성공했던 11기 순자까지, 각 기수를 하드캐리한 주인공들이]]></content>
     </entry>
 </feed>
