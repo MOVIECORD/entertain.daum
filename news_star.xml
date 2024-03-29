@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2024-03-29T18:13:47.652Z</updated>
+    <updated>2024-03-29T19:08:46.581Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘기생수’ ‘지배종’ ‘수사반장’ 등 기대작 4월에 온다]]></title>
+        <id>https://v.daum.net/v/20240330040430678</id>
+        <link href="https://v.daum.net/v/20240330040430678"/>
+        <updated>2024-03-29T19:08:41.009Z</updated>
+        <content type="html"><![CDATA[4월엔 시청자들의 기대를 모으는 작품들이 공개를 앞두고 있어 눈길을 끈다. 가장 먼저 시청자들을 만나는 건 넷플릭스 시리즈 ‘기생수: 더 그레이’(포스터)다. 오는 5일 공개되는 ‘기생수: 더 그레이’는 이와아키 히토시의 만화 ‘기생수’에서 세계관을 가져와 한국에 확장한 이야기다. ‘부산행’ ‘반도’ ‘방법’ 등의 작품을 통해 자신만의 장르물 세계관을 펼]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['극단 시도' 티아라 아름 "아무것도 모르면서 사기꾼으로 몰아가"]]></title>
         <id>https://v.daum.net/v/20240330022544507</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240330000601997"/>
         <updated>2024-03-29T15:10:47.329Z</updated>
         <content type="html"><![CDATA[[스포츠투데이 임시령 기자] '나 혼자 산다' 대니 구가 공연 후 자신만의 루틴을 소개했다. 29일 방송된 MBC 예능프로그램 '나 혼자 산다'에서는 바이올리니스트 대니 구의 일상이 그려졌다. 이날 대니 구는 공연을 마친 늦은 밤, 강남 거리를 활보했다. 대니 구는 "강남 역을 너무 좋아한다. 어느 시간대를 가던 살아있다. 불빛들과 에너지가 있다. 강남]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[대니구, 강남역 삼겹살집 '혼밥'…소주 한잔에 "할렐루야" 웃음]]></title>
-        <id>https://v.daum.net/v/20240330000313969</id>
-        <link href="https://v.daum.net/v/20240330000313969"/>
-        <updated>2024-03-29T15:10:47.330Z</updated>
-        <content type="html"><![CDATA[(서울=뉴스1) 이지현 기자 = 대니구가 소주 한잔에 행복해했다. 29일 오후 방송된 MBC 예능 프로그램 '나 혼자 산다'에서는 바이올리니스트 대니구가 공연 후 루틴을 공개해 눈길을 끌었다. 이날 인천시향과 협연한 그는 귀가하자마자 다시 집을 나서 궁금증을 유발했다. 야심한 시각인 자정에 향한 곳은 강남역이었다. 대니구는 "공연이 끝나면 늘 허무하다.]]></content>
     </entry>
 </feed>
