@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/variety</id>
     <title>다음 연예 ─ 뉴스 ─ 예능</title>
-    <updated>2024-03-30T13:12:30.927Z</updated>
+    <updated>2024-03-30T14:09:12.531Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[케이윌, 김동현 10년째 허언증→막하는 방송 태도에 놀라 “무적이구나”]]></title>
+        <id>https://v.daum.net/v/20240330222102947</id>
+        <link href="https://v.daum.net/v/20240330222102947"/>
+        <updated>2024-03-30T14:09:04.321Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 이슬기 기자] 케이윌이 김동현의 방송 태도에 대해 이야기했다. 3월 30일 방송된 tvN 예능 '놀라운 토요일-도레미마켓'(이하 '놀토')에는 하도권, 케이윌이 출연했다. 이날 받쓰 문제로는 90년대 최고의 클럽, 주주클럽의 '수필 러브'가 출제됐다. 김동현은 노래 소개를 듣자 "유명한 노래다"라고 반응했다. 하지만 모두가 아는 노래냐 묻자 다른]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[하도권, 송승헌이 강요한 홍보 폭로 “시즌2 있는 이유가 있다고”]]></title>
         <id>https://v.daum.net/v/20240330221204905</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240330200718890"/>
         <updated>2024-03-30T11:10:18.291Z</updated>
         <content type="html"><![CDATA[[스타뉴스 | 정은채 기자] /사진='놀면뭐하니?' 방송화면 캡쳐'놀면 뭐하니?' 김태우가 2002년 그룹 god의 인기에 대해 언급했다. 30일 방송된 MBC 주말 예능 프로그램 '놀면 뭐하니?'에서는 축제 프로젝트 '같이 놀아, 봄'을 위해 가수 김태우와 만난 장면이 그려졌다. 이날 김태우는 과거 그룹 god 인기를 회상하며 "2002년도는 일 년]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["밤마다 숙소 이탈"…이미주, 러블리즈 시절 사생활 폭로에 '진땀']]></title>
-        <id>https://v.daum.net/v/20240330200432862</id>
-        <link href="https://v.daum.net/v/20240330200432862"/>
-        <updated>2024-03-30T11:10:18.291Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 정민경 기자) 러블리즈 케이가 그룹 활동 당시 이미주의 사생활을 폭로했다. 30일 방송된 MBC '놀면 뭐하니?'에서는 유재석, 하하, 주우재, 박진주, 이이경, 이미주가 '같이 놀아, 봄' 특집을 꾸몄다. 유지애는 러블리즈 숙소 생활 당시를 떠올리며 "정예인과 룸메이트였다. 치고받고 싸웠다"라고 말해 웃음을 자아냈다. 정예인은 "유지애 언니]]></content>
     </entry>
 </feed>
