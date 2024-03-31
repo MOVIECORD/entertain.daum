@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-03-31T05:11:48.859Z</updated>
+    <updated>2024-03-31T06:13:12.374Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[신예 장다아의 '장원영 핏줄'…든든하거나 튼튼하거나]]></title>
+        <id>https://v.daum.net/v/20240331150108625</id>
+        <link href="https://v.daum.net/v/20240331150108625"/>
+        <updated>2024-03-31T06:13:00.073Z</updated>
+        <content type="html"><![CDATA[뗄 수 없는 꼬리표도 있다. 대표적으로는 핏줄이 그렇다. 신예 장다아는 '제 의지와 상관없이' 대세 그룹 아이브 멤버이자 동생 장원영의 후광을 받았다. 그렇기에 더욱 의지대로 끌 수 없는 후광이다. 든든하지만 너무 튼튼한 핏줄을 쥔 그를 만나, 신인 배우로서의 마음가짐을 들어볼 수 있었다. 최근 장다아는 서울 종로구 삼청동의 한 카페에서 iMBC연예와]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['재벌X형사' 작가 "안보현·강상준, '베커상' 받았으면"]]></title>
         <id>https://v.daum.net/v/20240331135012107</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240331104622057"/>
         <updated>2024-03-31T01:52:43.673Z</updated>
         <content type="html"><![CDATA[[OSEN=김재동 객원기자]&nbsp;“수작 부리지 마. 가증스러워. 내가 어디가 고장 나서 다 잊어버린다 해도 니가 나한테 어떻게 했는 지는 절대 안잊어버려. 넌 내가 인생에서 가장 막막할 때 내 손을 놨어. 그래서 넌 나한테 용서받을 시간이 없을 거야. 니가 나한테 어떻게 해도 난 너 끝까지 미워만 하다가 죽어버릴 거거든.” tvN 토·일 드라마 ‘눈물의 여]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[넷플릭스vs디즈니+, 치열한 정면승부 l 4월 OTT]]></title>
-        <id>https://v.daum.net/v/20240331103006700</id>
-        <link href="https://v.daum.net/v/20240331103006700"/>
-        <updated>2024-03-31T01:52:43.673Z</updated>
-        <content type="html"><![CDATA[아이즈 ize 이덕행 기자 4월 OTT 신작 중에서는 글로벌 OTT 넷플릭스와 디즈니 플러스의 신작이 눈에 띈다. 넷플릭스는 일본 콘텐츠를 원작으로 한 '기생수: 더 그레이'와 '종말의 바보'를 선보인다. 이에 맞서는 '디즈니 플러스'는 국내에서 처음 선보이는 배양육을 소재로 한 '지배종'으로 반격에 나선다.좀비로 재미 본 연상호 감독, '기생수: 더 그레]]></content>
     </entry>
 </feed>
