@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2024-04-03T08:14:20.173Z</updated>
+    <updated>2024-04-03T09:12:04.745Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[크리스티나 애플게이트, 많이 아프다..."소변도 조절 안돼"]]></title>
+        <id>https://v.daum.net/v/20240403175300233</id>
+        <link href="https://v.daum.net/v/20240403175300233"/>
+        <updated>2024-04-03T09:12:04.114Z</updated>
+        <content type="html"><![CDATA[[TV리포트=유소연 기자] 미국 배우 크리스티나 애플게이트가 3주 동안 씻지 못한 사연을 밝혀 눈길을 끈다. 2일(현지 시간) 크리스티나 애플게이트가 그의 새로운 팟캐스트인 '미세이'(MeSay)에서 다발성 경화증을 겪으면서 힘든 시간을 보냈다고 털어놨다. 다발성 경화증은 중추신경계에 발생하는 만성 질환으로 증상이 나타나는 위치에 따라 질환의 증상 및 징후]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[테일러 스위프트, 투어 수익으로 억만장자 클럽 합류…유명인 재산 1위는?]]></title>
         <id>https://v.daum.net/v/20240403170224441</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240402203000755"/>
         <updated>2024-04-02T12:19:31.073Z</updated>
         <content type="html"><![CDATA[[TV리포트=유소연 기자] 유방암 4기 진단을 받은 미국 배우 섀넌 도허티가 힘든 시간을 보내고 있다. 1일(현지 시간) 배우 섀넌 도허티가 팟캐스트 'Let’s Be Clear'에 출연해 근황을 전했다. 그는 "현재 저의 최우선 순위는 어머니다. 제가 엄마보다 먼저 세상을 떠나면 엄마가 힘들어할 것"이라며 혹시 모를 일을 대비해 자신의 물건을 기부하거나]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[빌리 아일리시, 테일러 스위프트 저격?..."환경 문제 지적한 것"]]></title>
-        <id>https://v.daum.net/v/20240402202844724</id>
-        <link href="https://v.daum.net/v/20240402202844724"/>
-        <updated>2024-04-02T12:19:31.073Z</updated>
-        <content type="html"><![CDATA[[TV리포트=한아름 기자] 가수 빌리 아일리시(22)가 테일러 스위프트(34)를 저격했다는 의혹에 휩싸이자, 적극 해명에 나섰다. 1일(현지 시간), 가수 빌리 아일리시가 소셜네트워크서비스 스토리(24시간만 열람 가능한 게시물)를 통해 특정 가수를 저격한 것이 아니라고 해명했다. 빌리 아일리시는 "나는 누군가를 저격하려는 것이 아니다. 이것은 업계 전반에]]></content>
     </entry>
 </feed>
