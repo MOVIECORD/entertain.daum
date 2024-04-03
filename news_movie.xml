@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2024-04-03T21:10:54.352Z</updated>
+    <updated>2024-04-03T22:09:56.892Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[잘가렴 ‘푸’ 어서와 ‘포’…푸바오 중국 반환 슬픔 속 영화 ‘쿵푸팬더4’ 관심 업]]></title>
+        <id>https://v.daum.net/v/20240404063015581</id>
+        <link href="https://v.daum.net/v/20240404063015581"/>
+        <updated>2024-04-03T22:09:38.094Z</updated>
+        <content type="html"><![CDATA[사진제공｜에버랜드-유니버설 픽쳐스 방송가 안팎에서 푸바오와 애틋한 작별인사가 이어졌다. 푸바오는 2020년 국내 첫 자연 번식으로 태어난 자이언트 판다로, 중국을 제외한 국가에서 태어난 판다는 만 4세 이전에 중국으로 이동해야 한다는 ‘자이언트 판다 보호연구 협약’에 따라 3일 한국 생활을 마치고 중국 쓰촨성에 위치한 자이언트판다보전연구센터로 이동했다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[비어있는 수장 자리, 쪼그라든 정부 지원… 위기의 BIFF]]></title>
         <id>https://v.daum.net/v/20240404060039180</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240403144030367"/>
         <updated>2024-04-03T06:14:10.531Z</updated>
         <content type="html"><![CDATA[(서울=연합뉴스) 이영재 기자 = 홍콩 누아르 영화의 명작으로 꼽히는 '무간도' 시리즈에서 잊을 수 없는 연기를 펼친 톱스타 량차오웨이(양조위·62)와 류더화(유덕화·63)가 다시 스크린에서 마주한다. '무간도' 시리즈의 각본을 썼던 좡원창(장문강) 감독의 신작 '골드핑거'에서다. 량차오웨이와 류더화가 한 영화에 출연한 건 '무간도 3-종극무간'(2004)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘보통의 가족’ 해외서 먼저 인정받았다‥국제영화제 각본상 잇달아 수상]]></title>
-        <id>https://v.daum.net/v/20240403143347063</id>
-        <link href="https://v.daum.net/v/20240403143347063"/>
-        <updated>2024-04-03T06:14:10.533Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 배효주 기자] 설경구, 장동건, 김희애, 수현이 출연한 '보통의 가족'이 제44회 판타스포르토 국제영화제와 제39회 몽스 국제영화제에서 각각 각본상을 수상했다. 영화 '보통의 가족'(감독 허진호)은 서로 다른 신념의 두 형제 부부가 우연히 끔찍한 비밀을 마주하게 되면서 벌어지는 이야기를 그린 작품이다. 지난 3월 1일부터 10일까지 포르투갈 포]]></content>
     </entry>
 </feed>
