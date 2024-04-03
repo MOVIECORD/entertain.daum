@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-04-03T04:14:07.486Z</updated>
+    <updated>2024-04-03T05:11:32.822Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['웨딩 임파서블' 전종서-문상민, 새로운 로맨틱 코미디 공식의 완성]]></title>
+        <id>https://v.daum.net/v/20240403140631889</id>
+        <link href="https://v.daum.net/v/20240403140631889"/>
+        <updated>2024-04-03T05:11:20.102Z</updated>
+        <content type="html"><![CDATA[[OSEN=유수연 기자] ‘웨딩 임파서블’이 작가와 감독,&nbsp;배우들의 시너지로 웰메이드 로맨틱 코미디의 저력을 입증했다. 나아정(전종서 분)과 이지한(문상민 분)의 해피엔딩으로 막을 내린&nbsp;tvN&nbsp;월화드라마&nbsp;‘웨딩 임파서블’(극본 박슬기,&nbsp;오혜원/&nbsp;연출 권영일/&nbsp;기획 스튜디오드래곤/&nbsp;제작 스튜디오329)이 매력적인 캐릭터와 이를 구현해내는 배우들의 활약,&nbsp;]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘비밀은 없어’ 고경표 “존경 안 해, 짜증나→발냄새 심해” 팩폭 퍼레이드]]></title>
         <id>https://v.daum.net/v/20240403125320557</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240403094842265"/>
         <updated>2024-04-03T01:44:25.610Z</updated>
         <content type="html"><![CDATA[[스타뉴스 | 김나연 기자] 눈물의 여왕 / 사진=tvN 드라마 '눈물의 여왕'이 넷플릭스 차트 정상에 올랐다. '눈물의 여왕'(극본 박지은·연출 장영우, 김희원)은 퀸즈 그룹 재벌 3세이자 백화점의 여왕 홍해인(김지원 분)과 용두리 이장 아들이자 슈퍼마켓 왕자 백현우(김수현 분), 3년 차 부부의 아찔한 위기와 기적처럼 다시 시작되는 사랑 이야기를 담은]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['눈물의 여왕' 넷플릭스 글로벌 1위 등극, 누적시청 1억 시간 눈앞..美타임지 조명]]></title>
-        <id>https://v.daum.net/v/20240403094621141</id>
-        <link href="https://v.daum.net/v/20240403094621141"/>
-        <updated>2024-04-03T01:44:25.610Z</updated>
-        <content type="html"><![CDATA[[OSEN=최이정 기자]&nbsp;드라마&nbsp;'눈물의 여왕'이 넷플릭스 차트 정상에 올랐다. '눈물의 여왕'(극본 박지은/&nbsp;연출 장영우,&nbsp;김희원/&nbsp;제작 스튜디오드래곤,&nbsp;문화창고,&nbsp;쇼러너스)은 퀸즈 그룹 재벌&nbsp;3세이자 백화점의 여왕 홍해인(김지원 분)과 용두리 이장 아들이자 슈퍼마켓 왕자 백현우(김수현 분), 3년 차 부부의 아찔한 위기와 기적처럼 다시 시작되는 사랑]]></content>
     </entry>
 </feed>
