@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2024-04-03T18:13:47.129Z</updated>
+    <updated>2024-04-03T19:10:47.743Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘악성 민원 공화국’ 한국, 공무원을 죽음으로 몰고 가는 ‘좌표 찍기’는 무엇?]]></title>
+        <id>https://v.daum.net/v/20240404032828083</id>
+        <link href="https://v.daum.net/v/20240404032828083"/>
+        <updated>2024-04-03T19:10:43.135Z</updated>
+        <content type="html"><![CDATA[4일 오후 10시 15분 KBS2 ‘김이나의 비인칭시점’에서 인공지능 시대에 발맞춰 KBS는 인간과 AI(인공지능)가 협업해 제작하는, 전에 없던 스토리텔링 프로그램을 선보인다. 스토리에 진심인 ‘인간’ 김이나와 인간이 궁금한 ‘비인간’ AI가 함께 넘쳐나는 이야기들 사이에서 고르고 고른 신선하고 독창적인 스토리, 목요일 밤 세 가지 이야기로 익숙하고]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[최강희, 이번엔 카페 알바다... "잊었던 스물 셋의 봄 떠올라"]]></title>
         <id>https://v.daum.net/v/20240404003200554</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240403234931087"/>
         <updated>2024-04-03T15:11:04.874Z</updated>
         <content type="html"><![CDATA[[TV리포트=이지민 기자] '아빠하고 나하고' 최민수가 강주은 어머니의 건강 악화에 자신의 탓이라며 죄책감을 드러냈다. 3일 TV조선 예능 프로그램 '아빠하고 나하고'에서는 강주은 부모님의 결혼 55주년을 맞아 서프라이즈 '리마인드 웨딩'을 준비하는 모습니 전파를 탔다. 이날 최민수와 강주은은 밖에서 비밀 회동을 해 시선을 모았다. 강주은은 "부모님과 6]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['살인자o난감' 신스틸러 김요한 "김희애 선배님 DM 받아…사칭인 줄"]]></title>
-        <id>https://v.daum.net/v/20240403234355058</id>
-        <link href="https://v.daum.net/v/20240403234355058"/>
-        <updated>2024-04-03T15:11:04.875Z</updated>
-        <content type="html"><![CDATA[(서울=뉴스1) 이지현 기자 = '살인자o난감' 신스틸러 김요한이 선배 배우 김희애에게 연락이 왔다고 해 놀라움을 선사했다. 3일 오후 방송된 MBC 예능 프로그램 '라디오스타'에서는 드라마 '살인자o난감'에 출연해 몰입도를 끌어올린 김요한이 게스트로 나온 가운데 최근 인기를 실감한다고 고백했다. 그는 "요즘 인기를 실감하냐?"라는 질문을 받고 "실감한]]></content>
     </entry>
 </feed>
