@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2024-04-03T03:12:46.461Z</updated>
+    <updated>2024-04-03T04:14:07.478Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[기후위기에 맞서는 연대의 힘…‘바로, 지금, 여기’]]></title>
+        <id>https://v.daum.net/v/20240403130206738</id>
+        <link href="https://v.daum.net/v/20240403130206738"/>
+        <updated>2024-04-03T04:13:51.106Z</updated>
+        <content type="html"><![CDATA[2022년 7월 서울 돈의동 쪽방촌은 유난히 더웠다. 폭염이 날로 심각해지니 주민 모두는 영 맥을 못 췄다. 털털 소리를 내며 돌아가는 선풍기 한 대로는 버티기 힘든 여름. 작열하는 태양은 자비가 없다. 쪽방 거주 8년 차인 82세 조분돌 할머니는 물 적신 수건을 옷 위에 올려 무기력하게 누웠다. “이래야 조금 시원해. 작년보다 더 더워, 올해가.” 미]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[골목에 버린 피아노... 꿈이 모두 이뤄지는 것은 아니다]]></title>
         <id>https://v.daum.net/v/20240403113601481</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240403083001460"/>
         <updated>2024-04-03T00:46:15.491Z</updated>
         <content type="html"><![CDATA[‘파묘’가 여전히 박스오피스를 점령하고 있다. ‘댓글부대’는 흥행에 적신호가 켜졌다. 3일 영화진흥위원회 통합전산망에 따르면 ‘파묘’는 전날 3만 8397명의 관객을 동원해 박스오피스 1위를 기록했다. 누적 관객수는 1104만 1736명. 영화는 거액의 돈을 받고 수상한 묘를 이장한 풍수사와 장의사, 무속인들에게 벌어지는 기이한 사건을 담은 오컬트 미스터리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[1104만 돌파 '파묘', 역대 영화 22위..'어벤져스'도 넘을까]]></title>
-        <id>https://v.daum.net/v/20240403081154017</id>
-        <link href="https://v.daum.net/v/20240403081154017"/>
-        <updated>2024-04-02T23:12:30.689Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 | 김나연 기자] 파묘 / 사진=영화 포스터'파묘'가 줄곧 박스오피스 1위를 지키며 1100만 관객을 돌파했다. 3일 영화진흥위원회 통합전산망에 따르면 전날 '파묘'는 3만 8397명의 관객을 동원해 박스오피스 1위를 기록했다. 누적 관객 수는 1104만 1736명. '파묘'는 거액의 돈을 받고 수상한 묘를 이장한 풍수사와 장의사, 무속인]]></content>
     </entry>
 </feed>
