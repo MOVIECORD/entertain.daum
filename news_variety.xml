@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/variety</id>
     <title>다음 연예 ─ 뉴스 ─ 예능</title>
-    <updated>2024-04-03T09:12:04.749Z</updated>
+    <updated>2024-04-03T10:12:18.999Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[임현서 "'사상검증구역' 역주행, 임영웅 샤라웃·트로트 미션 있으면 더 잘 될 것"]]></title>
+        <id>https://v.daum.net/v/20240403183957652</id>
+        <link href="https://v.daum.net/v/20240403183957652"/>
+        <updated>2024-04-03T10:12:08.663Z</updated>
+        <content type="html"><![CDATA[[서울경제] 웨이브 오리지널 예능 '사상검증구역: 더 커뮤니티'가 방송 전 회차 공개 이후 차트 역주행을 하며 화제를 모으고 있는 가운데 벤자민으로 출연한 임현서가 역주행에 박차를 가할 한 수를 제시했다. 지난 1일 서울경제스타는 권성민 PD가 연출을 맡은 웨이브 오리지널 예능 '사상검증구역: 더 커뮤니티'(이하 '사상검증구역')에서 활약한 임현서를 만나]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“상류층 지식인 집안 같아” 오유경, 으리으리한 평창동 대저택 공개]]></title>
+        <id>https://v.daum.net/v/20240403181821095</id>
+        <link href="https://v.daum.net/v/20240403181821095"/>
+        <updated>2024-04-03T10:12:08.664Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 박수인 기자] KBS 아나운서 출신 오유경의 으리으리한 집이 공개됐다. 4월 2일 방송된 TV조선 '세상의 모든 집 - 세모집'에서는 세계적인 건축가 이타미 준이 지은 141평 평창동 타운하우스가 공개됐다. 오유경은 "이타미 준 선생님이 이 집을 지을 때 가장 중요하게 생각한 콘셉트가 지형에 맞게 잘 조화가 되고 바깥의 자연과 사람이 잘 조화롭게]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['강철부대' 새 시즌, 최강 여군 가리는 '강철부대W' 10월 첫방]]></title>
         <id>https://v.daum.net/v/20240403181023850</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240403165340916"/>
         <updated>2024-04-03T08:14:10.230Z</updated>
         <content type="html"><![CDATA[[OSEN=김나연 기자] 배우 이순재가 떠나간 동료를 그리워했다. 3일 '유 퀴즈 온 더 튜브' 채널에는&nbsp;tvN '유 퀴즈 온 더 블럭' 예고 영상이 업로드 됐다. 이날 유재석은 "얼마전이다. 신구선생님께서 몸이 편찮으셨을때 선생님께서 눈물을 좀 흘리셨다고 한다"고 질문했다. 이에 이순재는 "걱정을 좀 했는데 빨리 털고 일어나더라. 지금 ‘고도를 기다리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘한일가왕전’ 또 MBN 새 역사, 첫 방송부터 두 자릿수 시청률]]></title>
-        <id>https://v.daum.net/v/20240403162839631</id>
-        <link href="https://v.daum.net/v/20240403162839631"/>
-        <updated>2024-04-03T08:14:10.232Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 김명미 기자] ‘한일가왕전’이 첫 방송부터 두 자릿수 시청률을 돌파하는 기염을 토했다. MBN ‘불타는 트롯맨’이 기록했던 역대 첫 방송 최고 시청률 8.3%를 깨부수고 MBN 전체 프로그램 첫 방송 시청률의 역사를 다시 세운 것. 4월 2일 방송된 MBN ‘한일가왕전’ 1회는 분당 최고 시청률 12.5%, 전국 시청률 11.9%(닐슨코리아 기준]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['피지컬100' 아모띠 "우승 상금 3억은 서울 정착비에 보탤 것"]]></title>
-        <id>https://v.daum.net/v/20240403162555483</id>
-        <link href="https://v.daum.net/v/20240403162555483"/>
-        <updated>2024-04-03T08:14:10.232Z</updated>
-        <content type="html"><![CDATA[넷플릭스 예능 시리즈 '피지컬 100' 시즌2가 어제 종영하며 새로운 승자를 가려낸 가운데 3일 오전 삼청동의 한 카페에서는 시리즈의 연출을 한 장호기 PD와 TOP3인 아모띠, 홍범석, 안드레진이 참석해 기자들과 만났다. 이번 시즌 우승자인 아모띠는 "다들 안 다치고 잘했냐고 많이 물어봐주시더라. 고향이 서울이 아니라 서울에 정착하는 게 꿈이다. 상금]]></content>
     </entry>
 </feed>
