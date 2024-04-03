@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2024-04-03T07:10:53.408Z</updated>
+    <updated>2024-04-03T08:14:20.173Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[테일러 스위프트, 투어 수익으로 억만장자 클럽 합류…유명인 재산 1위는?]]></title>
+        <id>https://v.daum.net/v/20240403170224441</id>
+        <link href="https://v.daum.net/v/20240403170224441"/>
+        <updated>2024-04-03T08:14:19.417Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 이창규 기자) 미국의 팝가수 테일러 스위프트가&nbsp;미국 경제지 포브스가 선정한 셀러브리티 억만장자 리스트에 이름을 올렸다. 2일(현지시간) 포브스는 '2024년 새 억만장자'(New Billionaires 2024) 리스트를 발표했다. 이날 공개된 리스트에 따르면 테일러 스위프트는 콘서트 수익과 음반·음원 판매 수입, 부동산 투자 등으로 총 11]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘오펜하이머’ 일본 개봉 갑론을박, “원자폭탄 투하 장면 안나와 실망”]]></title>
         <id>https://v.daum.net/v/20240403150840771</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240402202844724"/>
         <updated>2024-04-02T12:19:31.073Z</updated>
         <content type="html"><![CDATA[[TV리포트=한아름 기자] 가수 빌리 아일리시(22)가 테일러 스위프트(34)를 저격했다는 의혹에 휩싸이자, 적극 해명에 나섰다. 1일(현지 시간), 가수 빌리 아일리시가 소셜네트워크서비스 스토리(24시간만 열람 가능한 게시물)를 통해 특정 가수를 저격한 것이 아니라고 해명했다. 빌리 아일리시는 "나는 누군가를 저격하려는 것이 아니다. 이것은 업계 전반에]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['40대' 女방송인 "아줌마라고 부르는 거 상처...너무 싫다"]]></title>
-        <id>https://v.daum.net/v/20240402201100303</id>
-        <link href="https://v.daum.net/v/20240402201100303"/>
-        <updated>2024-04-02T12:19:31.082Z</updated>
-        <content type="html"><![CDATA[[TV리포트=한아름 기자] 일본 방송인 와카바야시 후미에(46)가 방송에 출연해 70대 남성으로부터 '아줌마'라는 말을 들어 속상했다고 밝혔다. 지난달 25일(현지 시간), 도쿄 메트로폴리탄 텔레비전에서 방영되는 토크쇼 '5시에 집중!'에 출연한 방송인 겸 주식 투자자 와카바야시 후미에가 제과점에서 있었던 상처 받은 일화를 공개했다. 와카바야시 후미에는 "]]></content>
     </entry>
 </feed>
