@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-04-03T10:12:18.997Z</updated>
+    <updated>2024-04-03T11:09:28.236Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['세번째 결혼' 윤해영, 母 개집에 숨긴 오세영에 "잘근잘근 밟아줄 것"]]></title>
+        <id>https://v.daum.net/v/20240403194630993</id>
+        <link href="https://v.daum.net/v/20240403194630993"/>
+        <updated>2024-04-03T11:09:13.520Z</updated>
+        <content type="html"><![CDATA[[TV리포트=이혜미 기자] 윤해영이 친딸 오승아를 위해 최지연 오세영 모녀에 복수를 다짐했다. 3일 MBC ‘세 번째 결혼’에선 다정(오승아 분)을 위한 복수를 결심하는 해일(윤해영 분)의 모습이 그려졌다. 이날 세란(오세영 분)은 애자(최지연 분)를 찾는 해일을 앞에 두고 “어머님, 죄송해요. 저희 엄마가 지은 죄, 전 정말 몰랐지만 찾아드릴게요. 그리고]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['웨딩 임파서블' 문상민, 첫 타이틀롤 합격점… "소중한 작품" 종영 소감]]></title>
         <id>https://v.daum.net/v/20240403190418150</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240403160715501"/>
         <updated>2024-04-03T07:10:38.953Z</updated>
         <content type="html"><![CDATA[[뉴스엔 박수인 기자] '하이드'가 5, 6화 예고편 및 미리보기 스틸을 공개했다. 쿠팡플레이 시리즈 '하이드'(감독 김동휘)에서는 ‘성재’(이무생)의 가짜 죽음을 ‘연주’(이청아)가 알고 있다는 사실이 밝혀지며 충격을 안겼다. 친절한 이웃인 줄 알았던 ‘연주’의 미소 뒤 반전 정체가 드러나자 ‘문영’(이보영)은 충격에 빠진다. 죽음을 위장해 자신을 속였]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[시청률 1%대로 떨어졌다…'야한사진관' 플랫폼의 한계, 주원·권나라만 '울상']]></title>
-        <id>https://v.daum.net/v/20240403160112193</id>
-        <link href="https://v.daum.net/v/20240403160112193"/>
-        <updated>2024-04-03T07:10:38.953Z</updated>
-        <content type="html"><![CDATA[[텐아시아=태유나 기자] 다시보기 플랫폼의 한계가 드러나고 있다. 지니 TV 오리지널 ‘야한(夜限) 사진관’이 로맨스, 동료애, 우정이라는 각양각색의 관계성으로 극의 재미를 배가시키고 있지만, 시청률은 하락세다. 지난 7회 방송에서 전국 시청률이 1%대로 떨어지며 자체 최저치를 기록했다.&nbsp; 3일 ‘야한 사진관’ 측은 주원, 권나라, 유인수, 음문석, 이]]></content>
     </entry>
 </feed>
