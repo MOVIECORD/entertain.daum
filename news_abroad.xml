@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2024-04-04T08:14:45.812Z</updated>
+    <updated>2024-04-04T09:11:55.351Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[인기 미드 ‘엑스파일’ 돌아온다, 질리언 앤더슨 “출연하고 싶어”]]></title>
+        <id>https://v.daum.net/v/20240404175539539</id>
+        <link href="https://v.daum.net/v/20240404175539539"/>
+        <updated>2024-04-04T09:11:54.737Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]인기 미드 ‘엑스파일’이 돌아온다. 현재 ‘엑스파일’은 ‘블랙팬서’ 라이언 쿠글러 감독이 리부트 작업을 진행 중인 것으로 알려졌다. 질리언 앤더슨(55)은 이 시리즈에서 FBI 특수요원 스컬리를 연기해 인기를 얻었다. 그는 3일(현지시간) 데드라인과 인터뷰에서 “내가 '엑스파일'을 끝낸 후 지금까지 인터뷰를 할 때마다 사람들]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[디카프리오, 25살 여친 아닌 또래와 저녁 데이트...어떤 사이길래]]></title>
         <id>https://v.daum.net/v/20240404165630890</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240404100917683"/>
         <updated>2024-04-04T01:46:23.790Z</updated>
         <content type="html"><![CDATA[[뉴스엔 배효주 기자] 이혼한 안젤리나 졸리와 브래드 피트의 딸 샤일로가 곧 18세가 된다. 이에 어머니 졸리를 떠나, 아버지 피트와 함께 살기로 결심했다는 외신 보도가 나왔다. 최근 해외 매체 더 선이 보도한 바에 따르면, 샤일로 졸리-피트는 오는 5월 18살이 되면 안젤리나 졸리의 품을 떠나 브래드 피트와 함께 살기로 결심했다. 한 내부자는 "샤일로는]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[4편 폭망했는데…워너 '매트릭스5' 제작 착수]]></title>
-        <id>https://v.daum.net/v/20240404100409378</id>
-        <link href="https://v.daum.net/v/20240404100409378"/>
-        <updated>2024-04-04T01:46:23.790Z</updated>
-        <content type="html"><![CDATA[[티브이데일리 김종은 기자] 워너브라더스가 '매트릭스5'를 제작한다. 미국 연예매체 버라이어티는 3일(현지시간) "'매트릭스5'가 드류 고다드 감독의 지휘 아래 제작에 착수했다. 라나 워쇼스키는 총괄 프로듀서로 참여한다"라고 보도했다. 드류 고다드는 '마션' '클로버필드' 등 작품의 각본을 쓰고 '캐빈 인 더 우즈' 등을 연출한 감독. 그동안 여러번 호흡]]></content>
     </entry>
 </feed>
