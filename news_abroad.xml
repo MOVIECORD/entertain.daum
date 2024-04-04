@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2024-04-04T03:13:46.618Z</updated>
+    <updated>2024-04-04T04:14:09.785Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[결혼식 '축의금' 부족해 '종이학' 접어 넣은 男스타]]></title>
+        <id>https://v.daum.net/v/20240404125200082</id>
+        <link href="https://v.daum.net/v/20240404125200082"/>
+        <updated>2024-04-04T04:14:08.970Z</updated>
+        <content type="html"><![CDATA[[TV리포트=유소연 기자] 일본의 한 코미디언이 축의금 봉투에 종이접기를 해서 꽃과 학을 넣은 적이 있다고 고백했다. 1일(현지 시간) 버라이어티 프로그램 '다이고의 개그맨 영수증'에는 일본 코미디 듀오 '치도리' 멤버 다이고(44)가 출연했다. 이날 다이고는 동료인 키와시마 아키라의 결혼식 축의금에 대해 이야기했다. 다이고는 "내가 키와시마 결혼식 때 1]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[유명 여배우, “35살 때 순결 잃어” 고백]]></title>
         <id>https://v.daum.net/v/20240404113504027</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240403200230278"/>
         <updated>2024-04-03T11:09:27.643Z</updated>
         <content type="html"><![CDATA[[TV리포트=한아름 기자] 래퍼 카니예 웨스트(46)가 자신이 설립한 '돈다 아카데미' 학생에게 위협을 가했다는 것이 드러나 비판에 직면했다. 2일(현지 시간), 외신 매체 '페이지식스'는 래퍼 카니예 웨스트가 자신이 설립한 '돈다 아카데미'(Donda Academy)에 재학했던 학생에게 머리 깎는 것을 강요하고 위협을 가했다고 보도했다. 카니예 웨스트는]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['외모에 열광하는 게 싫었나'...미녀 그룹, 해체 발표]]></title>
-        <id>https://v.daum.net/v/20240403194900028</id>
-        <link href="https://v.daum.net/v/20240403194900028"/>
-        <updated>2024-04-03T11:09:27.643Z</updated>
-        <content type="html"><![CDATA[[TV리포트=전하나 기자] 일본 인기 여성 개그 콤비 '하이즈 친우회'이 해산을 발표한 가운데 의미심장한 해체 발표문에 시선이 쏠리고 있다. 지난 3월 31일(현지 시간), 연예 기획사 요시모토 흥업은 인기 여성 개그 콤비 '하이츠 친우회'의 해체 소식을 전했다. '하이츠 친우회'는 지난 2019년 결성해 2022년 'M-1 그랑프리'에서 준결승에 진출했고]]></content>
     </entry>
 </feed>
