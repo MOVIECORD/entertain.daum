@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2024-04-04T05:13:18.348Z</updated>
+    <updated>2024-04-04T06:14:05.130Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['친한파' 타카하시 후미야, 일본 온 한국 관광객에 '고급 식당' 대접]]></title>
+        <id>https://v.daum.net/v/20240404151100767</id>
+        <link href="https://v.daum.net/v/20240404151100767"/>
+        <updated>2024-04-04T06:14:04.498Z</updated>
+        <content type="html"><![CDATA[[TV리포트=전하나 기자] '친한파' 스타로 알려진 일본 배우 타카하시 후미야가 한국 관광객에게 식사를 대접한 사연을 공개해 이목을 모았다. 2일 타카하시 후미야는 자신이 진행하고 있는 라디오 프로그램 '타카하시 후미야의 올 나이트 닛폰 X'에서 한국인 관광객과 한국어로 소통했던 일화를 공개했다. 이날 방송에서 타카하시는 지난 2월에 매니저들과 고급 스시집]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[아내가 있었다...'인기 떨어질까봐' 몇년 간 결혼사실 숨긴 男스타]]></title>
+        <id>https://v.daum.net/v/20240404145130685</id>
+        <link href="https://v.daum.net/v/20240404145130685"/>
+        <updated>2024-04-04T06:14:04.498Z</updated>
+        <content type="html"><![CDATA[[TV리포트=전하나 기자] 설레는 목소리와 훈훈한 외모로 여성 팬들로부터 지지를 받는 일본의 성우 우메하라 유이치로가 대학 동창과 이미 결혼한 유부남이었다. 4일(현지 시간), 외신매체 '라이브도어'의 보도에 따르면 일본 유명 성우 우메하라 유이치로가 시부야 시내 번화가에서 한 여성과 데이트를 즐기다 목격됐다. 여성의 정체가 우메하라의 '아내'였다고 밝혀져]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[제니퍼 애니스톤 “줄리아 로버츠 성형수술로 젊음 찾아, 너무 부러워”]]></title>
         <id>https://v.daum.net/v/20240404133438479</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240404073506494"/>
         <updated>2024-04-03T23:10:56.592Z</updated>
         <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]호아킨 피닉스, 레이디 가가 주연의 ‘조커:폴리 아 되’가 미국에서 R등급(청소년관람불가)을 받았다. 버라이어티는 3일(현지시간) “‘조커:폴리 아 되’는 일부 강한 폭력, 일부 성행위 및 짧은 전면 노출로 R 등급을 받았다”고 보도했다. 이는 "강한 유혈 폭력, 불온한 행동, 짧은 성적 이미지"로 R등급을 받은 ‘조커]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['성전환' 女스타, 원인 모를 통증으로 구급차 실려가...팬들 걱정 ↑]]></title>
-        <id>https://v.daum.net/v/20240403201030417</id>
-        <link href="https://v.daum.net/v/20240403201030417"/>
-        <updated>2024-04-03T12:19:08.947Z</updated>
-        <content type="html"><![CDATA[[TV리포트=전하나 기자] 겐킹(GENKING)이라고 알려진 일본 탤런트 다나카 사나(田中佐奈)가 원인 불명의 고통을 호소해 구급차에 실려갔다고 고백해 화제다. 2일(현지 시간), 겐킹은 자신의 소셜네트워크서비스의 스토리를 통해 인생 처음으로 구급차를 타게 됐다고 밝혔다. 겐킹은 검정 배경에 "록소닌도 너무 많이 먹어서 효과가 없다"라는 문구를 기재했으며,]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['암 투병' 여배우, 뇌+뼈로 전이 후 결국..남은 재산 정리 중]]></title>
-        <id>https://v.daum.net/v/20240403201023415</id>
-        <link href="https://v.daum.net/v/20240403201023415"/>
-        <updated>2024-04-03T12:19:08.952Z</updated>
-        <content type="html"><![CDATA[[OSEN=박소영 기자] 유방암 투병 중인 할리우드 배우 섀넌 도허티가&nbsp;안타깝게도 삶을 정리하고 있다.&nbsp; 섀넌 도허티는 최근 팟캐스트 방송을 통해 최근 테네시에 있는 부동산을 정리한 일을 두고 “짐을 싸는 데 정말 힘들더라. 어느 정도 꿈을 포기하는 느낌이 들어서 감정이 복잡했다”고 털어놨다.&nbsp; 앞서 그는 자신과 어머니를 위한 집을 포함한 부동산 계획을]]></content>
     </entry>
 </feed>
