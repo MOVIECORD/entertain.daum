@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2024-04-04T02:19:58.831Z</updated>
+    <updated>2024-04-04T03:13:46.618Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[유명 여배우, “35살 때 순결 잃어” 고백]]></title>
+        <id>https://v.daum.net/v/20240404113504027</id>
+        <link href="https://v.daum.net/v/20240404113504027"/>
+        <updated>2024-04-04T03:13:46.002Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]영화 ‘내 여자친구의 결혼식’ ‘피치 퍼펙트’ ‘조조 래빗’ 등으로 유명한 레벨 윌슨(44)이 35살 때 순결을 잃었다고 고백했다. 그는 2일(현지시간) 출간된 회고록 ‘레벨 라이징’에서 2015년에 열애설이 불거진 미키 구치 주니어에게 순결을 잃었다고 말했다. 그는 “미키, 이 글을 읽고 있다면 이미 알고 있는 소식일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["흥행 실패에도" '매트릭스5' 제작 확정…키아누 리브스 복귀 불확실]]></title>
         <id>https://v.daum.net/v/20240404110817686</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240403194900028"/>
         <updated>2024-04-03T11:09:27.643Z</updated>
         <content type="html"><![CDATA[[TV리포트=전하나 기자] 일본 인기 여성 개그 콤비 '하이즈 친우회'이 해산을 발표한 가운데 의미심장한 해체 발표문에 시선이 쏠리고 있다. 지난 3월 31일(현지 시간), 연예 기획사 요시모토 흥업은 인기 여성 개그 콤비 '하이츠 친우회'의 해체 소식을 전했다. '하이츠 친우회'는 지난 2019년 결성해 2022년 'M-1 그랑프리'에서 준결승에 진출했고]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[8년차 인기 아이돌, 변화 위해 '새 멤버' 영입..."오디션으로 뽑을 것"]]></title>
-        <id>https://v.daum.net/v/20240403193000676</id>
-        <link href="https://v.daum.net/v/20240403193000676"/>
-        <updated>2024-04-03T11:09:27.643Z</updated>
-        <content type="html"><![CDATA[[TV리포트=전하나 기자] 일본 유명 아이돌 그룹 '타임레스'(전 섹시존)의 인기 멤버인 나카지마 켄토가 나가면서 그룹 활동에 지장이 생긴 가운데, 뜻밖에 행보를 보여 눈길을 끌고 있다. 지난 1일(현지 시간), 일본 아이돌 그룹 '섹시존'(Sexy Zone)은 선정성 논란을 빚어왔던 이름을 8년 만에 '타임레스'(timelesz)로 변경했다. 추가로 새로]]></content>
     </entry>
 </feed>
