@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2024-04-04T09:11:55.351Z</updated>
+    <updated>2024-04-04T10:11:43.011Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[유명 男배우 "연예인은 운이 8할...인품은 1할" 소신 발언]]></title>
+        <id>https://v.daum.net/v/20240404190130502</id>
+        <link href="https://v.daum.net/v/20240404190130502"/>
+        <updated>2024-04-04T10:11:42.354Z</updated>
+        <content type="html"><![CDATA[[TV리포트=한아름 기자] 일본 배우 나이토 타카시(68)가 연예인을 꿈꾸는 초등학생에게 추천하지 않는다고 밝혀 의문을 자아냈다. 4일(현지 시간), 분카 방송의 라디오 프로그램 '쿠니마루 식당'(くにまる食堂)에 출연한 배우 나이토 타카시가 연예인이라는 직업에 대한 자신의 견해를 밝혔다. 해당 방송을 진행하는 쿠니마루 노마루 아나운서가 "초등학교 1학년 학]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[유나 "엄마에 '첫경험' 다 말했다...엄마가 먼저 상세하게 알려줘"]]></title>
+        <id>https://v.daum.net/v/20240404184000980</id>
+        <link href="https://v.daum.net/v/20240404184000980"/>
+        <updated>2024-04-04T10:11:42.359Z</updated>
+        <content type="html"><![CDATA[[TV리포트=한아름 기자] 일본 모델 코가와 유나(22)가 방송에 출연해 어머니에게 자신의 첫 성관계 경험을 고백했다고 밝혔다. 지난 2일(현지 시간), 닛폰 테레비 '우에다와 여자가 짓는 밤'에 출연한 모델 코가와 유나가 어머니와 많은 이야기를 나눈다고 고백하며, 어머니와 나눈 대화의 수위가 다소 높다고 말했다. 해당 방송은 '성교육'이라는 주제로 진행됐]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[인기 미드 ‘엑스파일’ 돌아온다, 질리언 앤더슨 “출연하고 싶어”]]></title>
         <id>https://v.daum.net/v/20240404175539539</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240404110817686"/>
         <updated>2024-04-04T02:19:58.253Z</updated>
         <content type="html"><![CDATA[(엑스포츠뉴스 이창규 기자)&nbsp;워너브라더스가 '매트릭스' 시리즈의 다섯 번째 영화를 만든다. 3일(현지시간) 미국 버라이어티는 워너브라더스가 '매트릭스 5'(가제)의 개발에 착수했다고 보도했다. 이번 작품은 '매트릭스' 시리즈 사상 처음으로 라나 워쇼스키, 릴리 워쇼스키가 감독으로 참여하지 않는데, '마션'의 각본가였던 드류 고다드가 연출을 맡는다. 그는 사]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘스타워즈’ 조지 루카스 순자산 7조원 1위, “어떻게 벌었을까”]]></title>
-        <id>https://v.daum.net/v/20240404103940261</id>
-        <link href="https://v.daum.net/v/20240404103940261"/>
-        <updated>2024-04-04T01:46:23.789Z</updated>
-        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]‘스타워즈’ 시리즈의 조지 루카스(79) 감독이 할리우드 셀럽 가운데 순자산 1위에 올랐다. 포브스가 2일(현지시간) 발표한 가장 부유한 유명인 억만장자 14명의 새로운 순위에서 조지 루카스는 순자산 55억 달러(약 7조 4,024억원)로 1위에 등극했다. 그는 2012년 디즈니에 ‘스타워즈’ 제작사 루카스필름을 40억]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[샤일로, 엄마 졸리 떠나 아빠 피트랑 산다‥졸리 ‘불만족’]]></title>
-        <id>https://v.daum.net/v/20240404100917683</id>
-        <link href="https://v.daum.net/v/20240404100917683"/>
-        <updated>2024-04-04T01:46:23.790Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 배효주 기자] 이혼한 안젤리나 졸리와 브래드 피트의 딸 샤일로가 곧 18세가 된다. 이에 어머니 졸리를 떠나, 아버지 피트와 함께 살기로 결심했다는 외신 보도가 나왔다. 최근 해외 매체 더 선이 보도한 바에 따르면, 샤일로 졸리-피트는 오는 5월 18살이 되면 안젤리나 졸리의 품을 떠나 브래드 피트와 함께 살기로 결심했다. 한 내부자는 "샤일로는]]></content>
     </entry>
 </feed>
