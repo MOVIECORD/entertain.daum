@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2024-04-05T01:44:25.714Z</updated>
+    <updated>2024-04-05T02:18:31.171Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘그녀가 죽었다’ 남의 집 훔쳐보는 변요한·의문의 죽음 신혜선‥파격 스릴러]]></title>
+        <id>https://v.daum.net/v/20240405111046926</id>
+        <link href="https://v.daum.net/v/20240405111046926"/>
+        <updated>2024-04-05T02:18:11.467Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 배효주 기자] 변요한 신혜선 주연 '그녀가 죽었다' 티저 예고편이 공개됐다. 5월 개봉하는 영화 '그녀가 죽었다'(감독 김세휘)는 훔쳐보기가 취미인 공인중개사 ‘구정태’가 관찰하던 SNS 인플루언서 ‘한소라’의 죽음을 목격하고 살인자의 누명을 벗기 위해 ‘한소라’의 주변을 뒤지며 펼쳐지는 미스터리 추적 스릴러. 공개된 티저 예고편은 의뢰인이 맡긴]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[주지훈 ‘짠한형’ 출격, 신동엽과 역대급 입담 케미스트리 예고]]></title>
+        <id>https://v.daum.net/v/20240405105223986</id>
+        <link href="https://v.daum.net/v/20240405105223986"/>
+        <updated>2024-04-05T02:18:11.468Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 배효주 기자] 주지훈이 '짠한형 신동엽'에 출격한다. 오는 4월 10일 공개를 앞둔 디즈니+의 오리지널 시리즈 '지배종'(연출 박철환/각본 이수연)은 2025년 새로운 인공 배양육의 시대를 연 생명공학기업 BF의 대표 ‘윤자유’(한효주)와 그녀에게 의도적으로 접근한 퇴역 장교 출신의 경호원 ‘우채운’(주지훈)이 의문의 죽음과 사건들에 휘말리며 배]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘혹성탈출:새로운 시대’ 비주얼 구현에 한국인도 참여했다‥23일 내한]]></title>
         <id>https://v.daum.net/v/20240405101043861</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240405075611685"/>
         <updated>2024-04-04T23:11:25.463Z</updated>
         <content type="html"><![CDATA[(서울=연합뉴스) 이영재 기자 = 이번 주말에도 극장가에선 '파묘'와 '댓글부대'의 양강 구도가 이어질 것으로 보인다. 5일 영화관입장권 통합전산망에 따르면 장재현 감독의 '파묘'는 전날 3만4천여명(매출액 점유율 27.4%)이 관람해 박스오피스 정상을 지켰다. 누적 관객 수는 1천111만8천여명으로 늘었다. 역대 한국 영화 박스오피스 순위로는 '범죄도시]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[정상 탈환 '파묘', 8일 연속 1위…1111만 관객 돌파]]></title>
-        <id>https://v.daum.net/v/20240405072329091</id>
-        <link href="https://v.daum.net/v/20240405072329091"/>
-        <updated>2024-04-04T23:11:25.464Z</updated>
-        <content type="html"><![CDATA[[티브이데일리 김종은 기자] '파묘'의 흥행 독주가 이어지고 있다. 5일 영화진흥위원회 통합전산망에 따르면 영화 '파묘'(감독 장재현)는 지난 4일 3만4264명의 관객을 동원하며 박스오피스 1위를 기록했다. 누적 관객수는 1111만8957명이다. '파묘'는 거액의 돈을 받고 수상한 묘를 이장한 풍수사와 장의사, 무속인들에게 벌어지는 기이한 사건을 담은]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['파묘' 1111만 돌파…정상 재탈환 후 8일째 부동의 1위]]></title>
-        <id>https://v.daum.net/v/20240405071411954</id>
-        <link href="https://v.daum.net/v/20240405071411954"/>
-        <updated>2024-04-04T23:11:25.464Z</updated>
-        <content type="html"><![CDATA[(서울=뉴스1) 장아름 기자 = 영화 '파묘'가 부동의 1위를 지켰다. 5일 영화진흥위원회 영화관입장권통합전산망의 집계에 따르면 '파묘'는 지난 4일 3만 4264명의 관객을 불러 모아 누적관객수 1111만 8957명을 기록, 박스오피스 1위를 수성했다. 앞서 '파묘'는 지난달 24일 개봉 32일 만에 1000만 관객을, 지난 1일 개봉 40일 만에 1]]></content>
     </entry>
 </feed>
