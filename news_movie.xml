@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2024-04-05T04:15:59.958Z</updated>
+    <updated>2024-04-05T05:10:47.449Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[허광한 주연 감성 로맨스 ‘청춘 18X2’ 5월22일 국내 개봉]]></title>
+        <id>https://v.daum.net/v/20240405134230104</id>
+        <link href="https://v.daum.net/v/20240405134230104"/>
+        <updated>2024-04-05T05:10:27.204Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 배효주 기자] 허광한 주연 감성 로맨스 '청춘 18X2 너에게로 이어지는 길'이 5월 22일 개봉한다. 영화 '청춘 18X2 너에게로 이어지는 길'(감독 후지이 미치히토)은 열여덟, 그때 대만에서 시작된 첫사랑을 찾아 일본으로 떠난 서른여섯 나의 여정을 그린 감성 로맨스다. 공개된 티저 포스터는 지하철에 나란히 앉아 있는 ‘지미’(허광한)와 ‘아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“듄친자 열광” 드니 빌뇌브 ‘듄3’ 나온다‥빨라도 2027년 개봉 전망]]></title>
         <id>https://v.daum.net/v/20240405122255174</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240405090901892"/>
         <updated>2024-04-05T00:48:12.162Z</updated>
         <content type="html"><![CDATA[영화 ‘파묘’가 싹 쓸어버렸다. 험한 뒷심, 부동의 1위다. 5일 영화진흥위원회 영화관입장권통합전산망의 집계에 따르면 ‘파묘’는 전날 3만 4264명의 관객을 불러 모아 누적관객수 1111만 8957명을 기록했다. 오컬트 신드롬을 일으킨 ‘파묘’는 지난달 24일, 개봉 32일 만에 천만 관객을, 개봉 40일 만에 1100만 관객을 돌파하는 쾌거를 이뤘다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['고스트버스터즈: 오싹한 뉴욕', 북미 박스오피스 1위…흥행 이유는]]></title>
-        <id>https://v.daum.net/v/20240405090037503</id>
-        <link href="https://v.daum.net/v/20240405090037503"/>
-        <updated>2024-04-05T00:48:12.164Z</updated>
-        <content type="html"><![CDATA[[이데일리 스타in 김보영 기자] 새로운 시리즈로 돌아온 인기 프랜차이즈 영화 ‘고스트버스터즈: 오싹한 뉴욕’이 전편보다 업그레이드된 스케일과 재미로 기대감을 더하고 있는 가운데, 글로벌 흥행과 함께 호평들을 쏟아내고 있어 화제다. 영화 ‘고스트버스터즈: 오싹한 뉴욕’은 고대 유물의 사악한 힘으로 빙하기에 이르게 된 세상을 구하기 위해 버스터즈들이 힘을]]></content>
     </entry>
 </feed>
