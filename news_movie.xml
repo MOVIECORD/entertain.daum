@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2024-04-05T22:10:57.095Z</updated>
+    <updated>2024-04-05T23:12:17.438Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['매드 맥스'부터 '조커'까지…애타게 기다린 속편이 온다]]></title>
+        <id>https://v.daum.net/v/20240406075506834</id>
+        <link href="https://v.daum.net/v/20240406075506834"/>
+        <updated>2024-04-05T23:11:58.394Z</updated>
+        <content type="html"><![CDATA[(서울=연합뉴스) 오보람 기자 = 영화 팬들이 몇 년간 애타게 기다려온 할리우드 흥행작의 속편들이 잇따라 극장에 걸린다. 본편이 개봉 당시 열렬한 반응을 끌어낸 기념비적 작품들인 만큼 속편들도 관객의 기대를 한 몸에 받고 있다. 6일 영화계에 따르면 '매드 맥스: 분노의 도로'(이하 '분노의 도로')의 프리퀄(시간상 앞선 이야기를 다룬 속편)인 '퓨리오사:]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[힐링 에너지를 연주하는, ‘은하수’]]></title>
         <id>https://v.daum.net/v/20240406070302431</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240405113242250"/>
         <updated>2024-04-05T03:13:15.364Z</updated>
         <content type="html"><![CDATA[스크린 전성시대가 저무면서 충무로도 많은 변화를 맞았다. 극장을 찾는 관객수가 대폭 줄어들자 자연스레 대규모 예산이 투입된 블록버스터의 제작 편수가 감소했고 이러한 블록버스터에 단골 주연으로 군림했던 명품 배우들도 새로운 활로를 찾아 나섰다. 오랫동안 스크린 한 우물을 팠던 터줏대감들이 OTT 시리즈로 눈을 돌리면서 제3의 전성기를 예고했다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘그녀가 죽었다’ 남의 집 훔쳐보는 변요한·의문의 죽음 신혜선‥파격 스릴러]]></title>
-        <id>https://v.daum.net/v/20240405111046926</id>
-        <link href="https://v.daum.net/v/20240405111046926"/>
-        <updated>2024-04-05T02:18:11.467Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 배효주 기자] 변요한 신혜선 주연 '그녀가 죽었다' 티저 예고편이 공개됐다. 5월 개봉하는 영화 '그녀가 죽었다'(감독 김세휘)는 훔쳐보기가 취미인 공인중개사 ‘구정태’가 관찰하던 SNS 인플루언서 ‘한소라’의 죽음을 목격하고 살인자의 누명을 벗기 위해 ‘한소라’의 주변을 뒤지며 펼쳐지는 미스터리 추적 스릴러. 공개된 티저 예고편은 의뢰인이 맡긴]]></content>
     </entry>
 </feed>
