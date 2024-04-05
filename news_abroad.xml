@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2024-04-05T02:18:31.169Z</updated>
+    <updated>2024-04-05T03:13:35.551Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[워너 브라더스 "'매트릭스5' 제작 중...'마션' 드류 고다드가 감독"]]></title>
+        <id>https://v.daum.net/v/20240405120200450</id>
+        <link href="https://v.daum.net/v/20240405120200450"/>
+        <updated>2024-04-05T03:13:34.925Z</updated>
+        <content type="html"><![CDATA[[TV리포트=강성훈 기자] 미국 인기 SF 액션 영화 '매트릭스'가 시즌5로 돌아온다. 5일(현지 시간) 외신 'GMA' 등 현지 매체에 따르면 워너 브라더스 픽처스는 공식 보도자료를 통해 '매트릭스5'를 제작 중이라고 밝혔다. 영화 '마션'(2015) 각본을 맡은 드류 고나드(49)가 감독을 맡는다. 지난 시즌인 '매트릭스: 리저렉션'(2021)의 감독]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[커스틴 던스트 “故 로빈 윌리엄스, 애플 컴퓨터 선물…감동받아”]]></title>
         <id>https://v.daum.net/v/20240405103224952</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240404163830120"/>
         <updated>2024-04-04T08:14:45.148Z</updated>
         <content type="html"><![CDATA[[TV리포트=전하나 기자] 최근 가수 저스틴 비버와 헤일리 비버의 이혼설이 불거진 가운데 외신 매체를 통해 두 사람의 이혼 루머는 사실이 아닌 것으로 밝혀졌다. 3일(현지 시간), 외신 매체 '페이지 식스'는 저스틴 비버와 헤일리 비버의 이혼 루머를 일축하며 둘은 행복하게 잘 지내고 있다고 보도했다. 특히 헤일리 비버는 소문이 불거지자, 해당 루머를 인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[카니예 웨스트, 학교직원에 피소 “히틀러 찬양하고 직원 학대”]]></title>
-        <id>https://v.daum.net/v/20240404160153254</id>
-        <link href="https://v.daum.net/v/20240404160153254"/>
-        <updated>2024-04-04T07:10:53.814Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 이민지 기자] 카니예 웨스트가 학교 직원들에게 고소 당했다. 피플은 4월 2일(현지시간) 사립 학교 돈다 아카데미 전 직원이 카니예 웨스트를 차별과 괴롭힘으로 고소했다고 보도했다. 그 트레버 필립스는 카니예 웨스트를 상대로 소송을 제기하며 "돈다 아카데미에서 일하는 동안 심각한 차별과 괴롭힘을 당했다"고 밝혔다. 또 "카니예 웨스트가 학교 학]]></content>
     </entry>
 </feed>
