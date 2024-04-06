@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2024-04-05T23:12:17.438Z</updated>
+    <updated>2024-04-06T00:46:16.156Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[천만 돌파 '파묘', 이유 있는 글로벌 신드롬]]></title>
+        <id>https://v.daum.net/v/20240406090020493</id>
+        <link href="https://v.daum.net/v/20240406090020493"/>
+        <updated>2024-04-06T00:45:57.104Z</updated>
+        <content type="html"><![CDATA[박스오피스 1위 수성→베트남·인도네시아 등에서 흥행 질주 관계자 "기존 호러영화와 다른 매력…배우 현지 인기도 한몫" [더팩트｜박지윤 기자] 천만 관객을 사로잡은 '파묘'가 국내를 넘어 글로벌 흥행 레이스를 펼치고 있다. 현지에서 그간 인기였던 점프 스케어(Jump Scare. 갑자기 툭 튀어 나와 관객을 놀라게 하는 것) 중심의 호러 영화와 다른 매]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['파묘' 개봉 44일째 1위…'오멘: 저주의 시작' 3위 등극]]></title>
+        <id>https://v.daum.net/v/20240406085011366</id>
+        <link href="https://v.daum.net/v/20240406085011366"/>
+        <updated>2024-04-06T00:45:57.106Z</updated>
+        <content type="html"><![CDATA[(서울=뉴스1) 장아름 기자 = 영화 '파묘'가 개봉 44일째 박스오피스 1위를 수성했다. 6일 영화진흥위원회 영화관입장권통합전산망의 집계에 따르면 '파묘'는 지난 5일 3만 4498명의 관객을 동원하며 누적관객수 69만 6711명을 기록, 박스오피스 1위를 지켰다. 앞서 '파묘'는 지난달 24일 개봉 32일 만에 1000만 관객을 돌파한 뒤에도 44일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['매드 맥스'부터 '조커'까지…애타게 기다린 속편이 온다]]></title>
         <id>https://v.daum.net/v/20240406075506834</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240405121211821"/>
         <updated>2024-04-05T03:13:15.361Z</updated>
         <content type="html"><![CDATA[[스포츠한국 모신정 기자]&nbsp;배우 허광한의 설렘 가득한 감성&nbsp;로맨스 '청춘 18X2 너에게로 이어지는 길'이 5월 22일 국내 개봉을 확정하며 티저 포스터를 공개했다. 영화 '청춘 18X2 너에게로 이어지는 길'은 열여덟, 그때 대만에서 시작된 첫사랑을 찾아 일본으로&nbsp;떠난 서른여섯 나의 여정을 그린 감성&nbsp;로맨스 영화다. 오는 5월 22일 국내 개봉을]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['상견니' 허광환 주연 '청춘 18X2', 5월 22일 개봉 확정...포스터 공개]]></title>
-        <id>https://v.daum.net/v/20240405120457536</id>
-        <link href="https://v.daum.net/v/20240405120457536"/>
-        <updated>2024-04-05T03:13:15.364Z</updated>
-        <content type="html"><![CDATA[[OSEN=유수연 기자] 열여덟, 그때 대만에서 시작된 첫사랑을 찾아 일본으로 떠난 서른여섯 나의 여정을 그린 감성 로맨스 &lt;청춘 18X2 너에게로 이어지는 길&gt;이 5월 22일 국내 개봉을 확정하고 티저 포스터를 공개했다. 공개된 티저 포스터는 지하철에 나란히 앉아 있는 ‘지미’(허광한)와 ‘아미’(키요하라 카야)의 모습이 눈길을 끈다. 어딘가 모르게]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[최민식→송강호→설경구까지..스크린 터줏대감들, 이제 안방으로]]></title>
-        <id>https://v.daum.net/v/20240405113242250</id>
-        <link href="https://v.daum.net/v/20240405113242250"/>
-        <updated>2024-04-05T03:13:15.364Z</updated>
-        <content type="html"><![CDATA[스크린 전성시대가 저무면서 충무로도 많은 변화를 맞았다. 극장을 찾는 관객수가 대폭 줄어들자 자연스레 대규모 예산이 투입된 블록버스터의 제작 편수가 감소했고 이러한 블록버스터에 단골 주연으로 군림했던 명품 배우들도 새로운 활로를 찾아 나섰다. 오랫동안 스크린 한 우물을 팠던 터줏대감들이 OTT 시리즈로 눈을 돌리면서 제3의 전성기를 예고했다.]]></content>
     </entry>
 </feed>
