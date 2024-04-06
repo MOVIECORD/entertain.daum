@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-04-06T08:13:29.384Z</updated>
+    <updated>2024-04-06T09:11:14.204Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['찐팬구역' 차태현 "류현진 건강한 몸" 한화이글스 승리 예상]]></title>
+        <id>https://v.daum.net/v/20240406175715612</id>
+        <link href="https://v.daum.net/v/20240406175715612"/>
+        <updated>2024-04-06T09:11:02.247Z</updated>
+        <content type="html"><![CDATA[‘불후의 명곡’[이데일리 스타in 김가영 기자] ENA&amp;채널십오야 ‘찐팬구역’ 차태현이 “올해 못할 이유가 없다”라며 이글스의 승리를 자신한다. ENA&amp;채널십오야 신규 예능 ‘찐팬구역’ (연출 박인석/작가 강윤정/제작 스튜디오 수파두파, 에그이즈커밍)은 ‘그깟 공놀이’에 인생을 걸고 사는 찐팬들의 처절한 응원기로 팬이 주인공이 되는 최초의 스포츠 예능.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['미녀와 순정남' 임수향-고윤, 우연이 계속되면 운명? '아슬아슬' 두 번째 만남]]></title>
         <id>https://v.daum.net/v/20240406160627368</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240406133439693"/>
         <updated>2024-04-06T05:11:05.573Z</updated>
         <content type="html"><![CDATA[[뉴스엔 박수인 기자] '눈물의 여왕' 김수현, 김지원의 가족들 저녁식사 현장이 포착됐다. tvN 토일드라마 ‘눈물의 여왕’(극본 박지은/ 연출 장영우, 김희원/ 제작 스튜디오드래곤, 문화창고, 쇼러너스)이 공개한 사진 속에는 밥상을 경계선처럼 둔 채 마주 앉은 두 가족 사이의 불편한 공기가 고스란히 전해지고 있다. 용두리엔 다소 어울리지 않는 퀸즈 가]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘원더풀월드’ 김남주 차은우 손잡았다‥두 사건 배후 박혁권 정조준]]></title>
-        <id>https://v.daum.net/v/20240406131554551</id>
-        <link href="https://v.daum.net/v/20240406131554551"/>
-        <updated>2024-04-06T05:11:05.575Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 박수인 기자] ‘원더풀 월드’ 김남주가 미처 몰랐던 충격적 진실과 마주한다. 차은우의 모친을 사망케 한 장본인인 박혁권이 자신의 아들 죽음과도 관련이 있음을 알게 되는 것. MBC 금토드라마 ‘원더풀 월드’(기획 권성창/연출 이승영, 정상희/극본 김지은/제작 삼화네트웍스)측이 또 하나의 파란을 암시하는 12회 예고를 공개했다. 지난 11회에서 수]]></content>
     </entry>
 </feed>
