@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-04-06T10:11:57.747Z</updated>
+    <updated>2024-04-06T11:09:35.759Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[지현우, 머리채까지 뜯긴다…임수향X강성민 신경전에 '봉변']]></title>
+        <id>https://v.daum.net/v/20240406195313041</id>
+        <link href="https://v.daum.net/v/20240406195313041"/>
+        <updated>2024-04-06T11:09:21.921Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 박서연 기자] ‘미녀와 순정남’ 막내 드라마 PD 지현우에게 수난시대가 찾아온다. 6일 오후 7시 55분 방송되는 KBS 2TV 주말드라마 ‘미녀와 순정남’(극본 김사경 연출 홍석구 홍은미) 5회에서는 불청객의 등장으로 아수라장이 되어버린 톱배우 박도라(임수향)와 드라마 PD 고필승(지현우)의 드라마 촬영 현장이 그려진다. 지난 방송에서]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이유비, 황정음과 싸우고 윤종훈과 은밀한 만남]]></title>
         <id>https://v.daum.net/v/20240406190501488</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240406134545772"/>
         <updated>2024-04-06T05:11:05.568Z</updated>
         <content type="html"><![CDATA[[스타뉴스 | 윤상근 기자] /사진=MBC ‘원더풀 월드 '원더풀 월드' 김남주가 미처 몰랐던 충격적 진실과 마주한다. 차은우의 모친을 사망케 한 장본인인 박혁권이 자신의 아들 죽음과도 관련이 있음을 알게 되는 것. MBC 금토드라마 '원더풀 월드'(기획 권성창/연출 이승영, 정상희/극본 김지은/제작 삼화네트웍스) 제작진은 6일 또 하나의 파란을 암시하는]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['원더풀 월드' 박혁권, 김남주·차은우 동맹 눈치 챘다 '긴장감 폭등']]></title>
-        <id>https://v.daum.net/v/20240406133926731</id>
-        <link href="https://v.daum.net/v/20240406133926731"/>
-        <updated>2024-04-06T05:11:05.570Z</updated>
-        <content type="html"><![CDATA[[스포티비뉴스=김원겸 기자]MBC ‘원더풀 월드’ 김남주가 미처 몰랐던 충격적 진실과 마주한다. 차은우의 모친을 사망케 한 장본인인 박혁권이 자신의 아들 죽음과도 관련이 있음을 알게 된다. MBC 금토드라마 ‘원더풀 월드’(극본 김지은, 연출 이승영 정상희)가 막바지 접어들며 베일에 가려져 있던 진실들이 하나 둘 수면 위로 올라오면서 재미를 더하고 있]]></content>
     </entry>
 </feed>
