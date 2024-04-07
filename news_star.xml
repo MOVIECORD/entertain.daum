@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2024-04-07T19:08:37.887Z</updated>
+    <updated>2024-04-07T20:10:58.691Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[잭 블랙 "봉준호 감독은 천재…'설국열차' 재밌게 봐"]]></title>
+        <id>https://v.daum.net/v/20240408050018716</id>
+        <link href="https://v.daum.net/v/20240408050018716"/>
+        <updated>2024-04-07T20:10:54.211Z</updated>
+        <content type="html"><![CDATA[(서울=뉴스1) 고승아 기자 = 할리우드 배우 잭 블랙이 한국 문화에 대한 여전한 관심을 드러냈다. 잭 블랙은 7일 오후 공개된 유튜브 채널 '피식대학'의 토크쇼 '피식쇼'에 출연했다. '피식쇼'는 잭 블랙을 만나기 위해 미국 캘리포니아에 위치한 유니버설 픽쳐스 스튜디오에 방문했다. 잭 블랙이 '피식쇼'에 출연한 것은 '쿵푸팬더4' 홍보 일환이다. '쿵]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[하나 뜨면 2~3개로… 예능판 대세된 스핀오프]]></title>
         <id>https://v.daum.net/v/20240408040625467</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240407225319233"/>
         <updated>2024-04-07T14:10:06.926Z</updated>
         <content type="html"><![CDATA[[스포츠조선닷컴 김준석 기자] 김지원이 김수현을 살리기 위해 박성훈에게 반격을 시작했다. 7일 방송된 tvN 토일드라마 '눈물의 여왕'에서는 백현우(김수현)이 윤은성(박성훈)에 계략에 빠져 대기발령이 났고, 홍해인(김지원)은 협박을 역이용했다. 이날 홍수철(곽동연)은 백현태(김도현)의 복싱클럽에 있는 백현우의 권투 트로피를 보고 "]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['눈물의 여왕' 김지원, 박성훈 폭로+시한부 고백 "김수현 협박해"]]></title>
-        <id>https://v.daum.net/v/20240407225007221</id>
-        <link href="https://v.daum.net/v/20240407225007221"/>
-        <updated>2024-04-07T14:10:06.927Z</updated>
-        <content type="html"><![CDATA[(서울=뉴스1) 고승아 기자 = '눈물의 여왕'에서 김지원이 모든 것을 폭로했다. 7일 오후 9시 20분 방송된 tvN 토일드라마 '눈물의 여왕'(극본 박지은/연출 장영우, 김희원)에서 홍해인(김지원 분)이 윤은성(박성훈 분)의 협박을 폭로하는 모습이 그려졌다. 이날 백현우(김수현 분)는 엄청난 복싱 실력으로 편사장에게 결국 고소장을 전달했다. 그 시각]]></content>
     </entry>
 </feed>
