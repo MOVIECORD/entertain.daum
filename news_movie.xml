@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2024-04-08T21:10:26.955Z</updated>
+    <updated>2024-04-08T22:12:53.918Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[제주 할망들이 감옥 간 사연은…4·3 다큐 '돌들이 말할 때까지']]></title>
+        <id>https://v.daum.net/v/20240409070009799</id>
+        <link href="https://v.daum.net/v/20240409070009799"/>
+        <updated>2024-04-08T22:12:37.518Z</updated>
+        <content type="html"><![CDATA[(서울=연합뉴스) 오보람 기자 = "우리한테 밥 가져다준 분한테 여기가 어디냐고 물었더니 전주형무소라고 그래요. 그때야 '아이고, 형무소에 왔구나. 이제는 살았다' 했지." 박순석 할머니는 스무살 무렵 바다를 건너 전주형무소에 도착했던 당시를 이렇게 기억한다. 아닌 밤중에 홍두깨 맞듯 감옥에 갇혔는데도, 그는 분노하기는커녕 오히려 안도의 한숨을 내쉬었다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[걸그룹 에스파, 할리우드가 찾는 ‘OST 맛집’ 등극]]></title>
+        <id>https://v.daum.net/v/20240409063008404</id>
+        <link href="https://v.daum.net/v/20240409063008404"/>
+        <updated>2024-04-08T22:12:37.523Z</updated>
+        <content type="html"><![CDATA[걸그룹 ‘에스파’. 사진제공 | SM엔터테인먼트 걸그룹 에스파가 할리우드가 찾는 ‘OST 맛집’으로 등극할 기세다. 글로벌 OTT 애플TV+ 작품 OST에 잇달아 참여한 데 이어 공개를 앞둔 넷플릭스 SF ‘레벨 문-파트2: 스카기버’의 테마곡을 불러 글로벌 팬들의 이목을 집중시킨다. 에스파는 19일 공개하는 넷플릭스 영화 ‘레벨 문-파트 2: 스카기버’]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[마동석, 흥행·결혼 다 잡은 ‘다 가진 남자’]]></title>
         <id>https://v.daum.net/v/20240409000103995</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240408151802979"/>
         <updated>2024-04-08T07:11:54.014Z</updated>
         <content type="html"><![CDATA[[고광일 기자] &nbsp;▲ 영화 &lt;악은 존재하지 않는다&gt; 스틸컷&nbsp;영화 &lt;악은 존재하지 않는다&gt; 스틸컷ⓒ 영화 &lt;악은 존재하지 않는다&gt; 스틸컷&nbsp; * 이 글은 영화의 스포일러를 포함하고 있습니다. &lt;악은 존재하지 않는다&gt;(이하 &lt;악존&gt;)은 오프닝부터 기강을 세게 잡는다. 흔들림 없는 트래킹숏은 천천히 숲과 나무들을 지난다. 하늘을 바라보며 걷는 것 같기도 하고, 숲]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘파묘’ 최다 노미네이트 쾌거…백상예술대상 8개 부문]]></title>
-        <id>https://v.daum.net/v/20240408151249753</id>
-        <link href="https://v.daum.net/v/20240408151249753"/>
-        <updated>2024-04-08T06:14:54.469Z</updated>
-        <content type="html"><![CDATA[영화 ‘파묘’가 백상예술대상 8개 부문 최다 노미네이트(후보 지명) 쾌거를 이뤘다. 8일 쇼박스 공식 인스타그램에는 “제60회 백상예술대상 ‘파묘’ 8개 부문 최다 노미네이트 쾌거”라는 글과 함께 여러 장의 사진이 올라왔다. 공개된 사진에 따르면, 장재현 감독을 비롯해 배우 최민식, 김고은, 이도현, 유해진, 음향 감독 등 모두가 나란히 백상 후보에]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[천만 영화 '서울의 봄'vs'파묘' 격돌…제60회 백상예술대상 후보 발표]]></title>
-        <id>https://v.daum.net/v/20240408145909077</id>
-        <link href="https://v.daum.net/v/20240408145909077"/>
-        <updated>2024-04-08T06:14:54.471Z</updated>
-        <content type="html"><![CDATA[(서울=뉴스1) 정유진 기자 = 제60회 백상예술대상에서 두 편의 천만 영화 '서울의 봄'(감독 김성수)과 '파묘'(감독 장재현)가 격돌한다. '서울의 봄'은 작품상과 감독상, 남자 최우수 연기상(정우성, 황정민), 각본상 등에, '파묘'는 작품상, 감독상, 남자 최우수 연기상, 여자 최우수 연기상, 신인 배우상, 각본상 등에 노미네이트됐다. 8일 백상]]></content>
     </entry>
 </feed>
