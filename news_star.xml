@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2024-04-09T19:08:39.631Z</updated>
+    <updated>2024-04-09T20:10:58.913Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[일주일 동안 '개 사료' 먹기 도전한 유튜버…"3㎏ 빠졌다"]]></title>
+        <id>https://v.daum.net/v/20240410050016652</id>
+        <link href="https://v.daum.net/v/20240410050016652"/>
+        <updated>2024-04-09T20:10:53.759Z</updated>
+        <content type="html"><![CDATA[[서울=뉴시스] 이아름 리포터 = 국내 유튜버가 일주일간 쌀 대신 개 사료를 먹었더니 체중이 3㎏ 감량했다는 후기를 전해 화제를 모았다. 10일 유튜브 등에 따르면 '고재영' 채널은 '7일 동안 개 사료만 먹으면 생기는 일'이라는 제목의 영상을 게재했다. 고재영은 "며칠 전 우연히 30일 동안 개 사료를 먹은 남자의 이야기를 봤다. 몸의 모든 수치가]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“기생의 다른 말은 의지… 공존하지 않으면 파멸”]]></title>
         <id>https://v.daum.net/v/20240410040443476</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240409235002507"/>
         <updated>2024-04-09T15:11:01.759Z</updated>
         <content type="html"><![CDATA[(엑스포츠뉴스 이창규 기자) '팜유즈' 박나래가 화려한 드레스 차림으로 등장한 가운데, 그의 다이어트가 완벽한 성공으로 이어질지 관심을 모은다. 9일 오후 공개된 '내편하자3' 0회에서는 새로이 MC로 합류한 박나래가 기존 MC들인 한혜진, 풍자, 엄지윤과 함께 회식을 갖는 모습이 그려졌다. 이날 엄지윤은 박나래에게 첫 녹화를 마친 소감을 물었는데, 한혜진]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김하늘, 납치에 '충격'.. 연우진 "미안해, 늦게 와서"]]></title>
-        <id>https://v.daum.net/v/20240409234400475</id>
-        <link href="https://v.daum.net/v/20240409234400475"/>
-        <updated>2024-04-09T15:11:01.761Z</updated>
-        <content type="html"><![CDATA[[TV리포트=이지민 기자] '멱살 한번 잡힙시다' 납치된 김하늘을 연우진이 구했다. 9일 KBS 2TV 월화드라마 '멱살 한번 잡힙시다'(연출 이호, 이현경 / 극본 배수영 / 제작 몬스터유니온, 프로덕션H)에서는 차금새(고건한)에게 납치된 서정원(김하늘)을 구해내는 김태헌(연우진)의 모습이 전파를 탔다. 앞서 서정원은 괴한의 습격으로 정신을 잃었다.]]></content>
     </entry>
 </feed>
