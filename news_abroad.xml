@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2024-04-09T01:45:18.306Z</updated>
+    <updated>2024-04-09T02:19:04.301Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[로버트 다우니 주니어, “‘아이언맨’으로 돌아온다” 깜짝 복귀선언]]></title>
+        <id>https://v.daum.net/v/20240409111739033</id>
+        <link href="https://v.daum.net/v/20240409111739033"/>
+        <updated>2024-04-09T02:19:03.718Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]할리우드 배우 로버트 다우니 주니어(59)가 ‘아이언맨’으로 복귀하겠다고 깜짝 선언했다. 그는 8일(현지시간) 에스콰이어와 인터뷰에서 “토니 스타크는 내 DNA의 중요한 부분이다. 그 역할이 나를 선택했다”고 말했다. 이어 “(마블의 수장) 케빈 파이기에게 반대하는 내기를 걸지 말라고 말한다. 그건 지는 것이다. 그는 주]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이정재, 스타워즈 ‘애콜라이트’ 스틸컷 첫 공개 “광선검 액션 기대하라”]]></title>
+        <id>https://v.daum.net/v/20240409104637487</id>
+        <link href="https://v.daum.net/v/20240409104637487"/>
+        <updated>2024-04-09T02:19:03.719Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]배우 이정재의 디즈니+ 오리지널 시리즈 ‘애콜라이트’의 첫 스틸컷이 공개됐다. 세계적 영화매체 ‘엠파이어’는 8일(현지시간) 이정재의 스틸컷을 선보였다. 사진 속 이정재는 흰색 망토를 두르고 어딘가를 응시하는 카리스마 넘치는 모습으로 시선을 사로 잡았다. '애콜라이트'는 루카스 필름의 새로운 오리지널 시리즈로 '스타워즈:]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[로다주, 마블 복귀 희망..."행복하게, 아이언맨은 내 DNA 일부"]]></title>
         <id>https://v.daum.net/v/20240409103930161</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240408163930120"/>
         <updated>2024-04-08T08:14:45.636Z</updated>
         <content type="html"><![CDATA[[TV리포트=한아름 기자] 할리우드 배우 톰 홀랜드의 출연으로 화제를 모은 연극 '로미오와 줄리엣'의 제작사가 입장문을 통해 배우 프란체스카 아메우다 리버스에 대한 비난을 멈출 것을 요구했다. 지난 5일(현지 시간), 연극 '로미오와 줄리엣'의 제작사 제이미 로이드 컴퍼니는 소셜네트워크서비스 엑스(구 트위터)를 통해 입장문을 발표했다. 해당 입장문은 많은]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[칼라 구기노 "남성 감독 성차별...남자 배우 말만 들어"]]></title>
-        <id>https://v.daum.net/v/20240408152830342</id>
-        <link href="https://v.daum.net/v/20240408152830342"/>
-        <updated>2024-04-08T07:12:16.184Z</updated>
-        <content type="html"><![CDATA[[TV리포트=한아름 기자] 배우 칼라 구기노(52)가 남성 감독과 끔찍한 작업을 한 후 외상 후 스트레스 장애를 겪었다고 고백했다. 지난 5일(현지 시간), 외신 잡지 '인터뷰'는 배우 칼라 구기노와 진행한 인터뷰 전문을 공개하며, 그가 남성 감독으로부터 성차별을 받았다고 보도했다. 칼라 구기노는 "최근에 중요한 제안을 해야 하는 상황이 있었는데 무시당할까]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['고질라X콩'의 무서운 흥행 돌풍, 5000억 매출 달성 목전]]></title>
-        <id>https://v.daum.net/v/20240408144313352</id>
-        <link href="https://v.daum.net/v/20240408144313352"/>
-        <updated>2024-04-08T06:15:13.833Z</updated>
-        <content type="html"><![CDATA[[티브이데일리 김종은 기자] 영화 '고질라 X 콩: 뉴 엠파이어'의 흥행 돌풍이 이어지고 있다. 7일(현지시간) 미국의 영화 흥행 통계 사이트 박스오피스 모조에 따르면 '고질라 X 콩: 뉴 엠파이어'는 개봉 2주 차에 북미 3948개 극장에서 3170만 달러의 추가 수익을 올리며 박스오피스 1위에 올랐다. 지금까지 북미에서 거둔 총 수입은 1억3503만]]></content>
     </entry>
 </feed>
