@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2024-04-09T22:09:56.987Z</updated>
+    <updated>2024-04-09T23:11:46.155Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[20·21세기가 동시에 사랑한 록밴드, 안녕을 고하다]]></title>
+        <id>https://v.daum.net/v/20240410071714796</id>
+        <link href="https://v.daum.net/v/20240410071714796"/>
+        <updated>2024-04-09T23:11:45.523Z</updated>
+        <content type="html"><![CDATA[전세계의 사랑을 받은 록밴드 비틀즈가 지난 1970년 4월10일 해체됐다. 사진은 지난 1969년 8월 영국 런던 애비 로드를 걷고 있는 비틀즈 멤버들. /사진= 로이터 1970년 4월10일. 대중음악의 아이콘 '비틀즈'가 해체됐다. 1962년 영국의 4인조 록밴드 비틀즈의 데뷔는 세기를 뒤흔들었다. 이들의 등장은 20세기 음악계는 물론 사회·문화적으로]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“로버트 다우니 주니어 마약중독 얼마나 심했으면…”, 조디 포스터 “두려웠다” 고백]]></title>
         <id>https://v.daum.net/v/20240409201905420</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240409115301584"/>
         <updated>2024-04-09T03:14:44.401Z</updated>
         <content type="html"><![CDATA[[TV리포트=유소연 기자] 세계적인 팝스타 레이디 가가의 약혼설이 제기돼 이목이 쏠린다. 지난 7일(현지 시간) 레이디 가가(36)는 웨스트 할리우드에 있는 친구의 집에 방문한 모습이 포착됐다. 그는 검은색 레깅스 위에 검은색 롱코트와 티셔츠, 선글라스를 입으며 올블랙으로 매치했다. 이때 레이디 가가의 왼쪽 약지에 꽤 큰 크기의 다이아몬드 반지를 끼고 있는]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[로버트 다우니 주니어, “‘아이언맨’으로 돌아온다” 깜짝 복귀선언]]></title>
-        <id>https://v.daum.net/v/20240409111739033</id>
-        <link href="https://v.daum.net/v/20240409111739033"/>
-        <updated>2024-04-09T02:19:03.718Z</updated>
-        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]할리우드 배우 로버트 다우니 주니어(59)가 ‘아이언맨’으로 복귀하겠다고 깜짝 선언했다. 그는 8일(현지시간) 에스콰이어와 인터뷰에서 “토니 스타크는 내 DNA의 중요한 부분이다. 그 역할이 나를 선택했다”고 말했다. 이어 “(마블의 수장) 케빈 파이기에게 반대하는 내기를 걸지 말라고 말한다. 그건 지는 것이다. 그는 주]]></content>
     </entry>
 </feed>
