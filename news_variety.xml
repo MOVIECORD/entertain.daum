@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/variety</id>
     <title>다음 연예 ─ 뉴스 ─ 예능</title>
-    <updated>2024-04-10T02:19:42.775Z</updated>
+    <updated>2024-04-10T03:13:38.190Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[안재홍 “‘마스크걸’ 대머리 분장 이후 내 정수리부터 보더라”]]></title>
+        <id>https://v.daum.net/v/20240410120057370</id>
+        <link href="https://v.daum.net/v/20240410120057370"/>
+        <updated>2024-04-10T03:13:28.393Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 배효주 기자] 안재홍이 '마스크걸' 특수분장 그 후, 비하인드를 밝혔다. 안재홍은 4월 10일 오전 방송된 MBC FM4U '이석훈의 브런치카페'에서 휴가를 떠난 이석훈을 대신해 DJ로 활약했다. 이날 안재홍은 "스페셜 DJ를 맡은 건 처음"이라고 말문을 열었다. 이어 "맡은 역할 중 실제 성격과 가장 비슷한 캐릭터가 무엇이냐"는 청취자의 질문을]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["현실 자매는 각자의 길"…장다아, 배우의 첫걸음]]></title>
         <id>https://v.daum.net/v/20240410111830547</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240410094747500"/>
         <updated>2024-04-10T01:44:32.531Z</updated>
         <content type="html"><![CDATA[[뉴스엔 박수인 기자] 그룹 베이비복스가 몽골 대통령에게 받은 5천 평 땅의 행방을 전했다. 4월 9일 방송된 티캐스트 E채널 '놀던언니2'에서는 베이비복스 김이지, 이희진, 심은진, 간미연이 출연해 과거를 추억하는 모습이 그려졌다. 이날 '놀던언니' 막내 초아는 직접 조사해 온 베이비복스의 히스토리를 읊으며 "1999년부터 중국에 진출하며 엄청 큰 사랑]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘나는 솔로’ 모태솔로 19기, 반전 데이트에 120분 특별 편성]]></title>
-        <id>https://v.daum.net/v/20240410094640470</id>
-        <link href="https://v.daum.net/v/20240410094640470"/>
-        <updated>2024-04-10T00:47:34.911Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 배효주 기자] ‘나는 SOLO(나는 솔로)’ 19기가 데이트 선택으로 또 한 번의 반전 역사를 쓴다. 4월 10일 오후 10시 30분 방송하는 ENA와 SBS Plus의 리얼 데이팅 프로그램 ‘나는 SOLO’에서는 ‘솔로나라 19번지’의 새 데이트 선택 결과가 공개된다. 그동안 알쏭달쏭한 러브라인을 이어오고 있는 모태솔로남녀은 이날 자신들의]]></content>
     </entry>
 </feed>
