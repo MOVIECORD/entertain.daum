@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-04-10T22:12:55.677Z</updated>
+    <updated>2024-04-10T23:12:16.710Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[알콩달콩 김수현♥김지원, '눈물의 여왕' 과몰입 돕는 애드리브]]></title>
+        <id>https://v.daum.net/v/20240411075003532</id>
+        <link href="https://v.daum.net/v/20240411075003532"/>
+        <updated>2024-04-10T23:12:01.223Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 조혜진 기자) '눈물의 여왕'이 촬영 비하인드로 시청자들의 뜨거운 반응을 얻고 있다. tvN 토일드라마 '눈물의 여왕' 측은 매 방송 후 tvN 드라마 유튜브 채널을 통해 메이킹 영상을 공개 중이다. 최근 메이킹 영상에는 '이혼했는데 달달한 부부가 있다?! 용두리에 온 퀸즈가 화기애애 9-10화 비하인드'라는 제목의 비하인드가 공개됐다. 영상]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[박성훈의 빌런 유니버스, 난공불락]]></title>
         <id>https://v.daum.net/v/20240411064051626</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240410193747425"/>
         <updated>2024-04-10T11:11:35.844Z</updated>
         <content type="html"><![CDATA['지배종'이 대한민국 최초로 '인공 배양육'을 소재로 삼았다. 미래 식품산업의 화두인 '배양육'이 K-콘텐츠의 중심 소재로 등장하자 기대된다는 반응이 터져 나오고 있다. 10일 디즈니+ 새 오리지널 시리즈 '지배종'(극본 이수연, 연출 박철환)이 공개됐다. 이 작품은 2025년 새로운 인공 배양육의 시대를 연 생명공학기업 BF(Blood Free)의 대]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[서범준, 김하늘 정보원이었다…성실한 막내 아닌 '제우스']]></title>
-        <id>https://v.daum.net/v/20240410165409814</id>
-        <link href="https://v.daum.net/v/20240410165409814"/>
-        <updated>2024-04-10T08:16:13.409Z</updated>
-        <content type="html"><![CDATA[[마이데일리 = 강다윤 기자] 배우 서범준이 KBS 2TV 월화드라마 '멱살 한번 잡힙시다'(극본 배수영 연출 이호 이현경)에서 충격적인 대반전의 주인공이 됐다. 서범준은 '멱살 한번 잡힙시다'에서 이름처럼 평화주의자인 바른 청년이자 KBM 방송국 소속 막내 기자인 이바른 역을 맡아 열연을 펼치고 있다. 무엇보다 서범준은 '멱살 한번 잡힙시다'에서 자신]]></content>
     </entry>
 </feed>

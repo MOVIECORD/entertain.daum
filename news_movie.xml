@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2024-04-10T22:12:55.686Z</updated>
+    <updated>2024-04-10T23:12:16.716Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['쿵푸팬더4', '파묘' 꺾고 새 1위 등극…누적관객 43만↑]]></title>
+        <id>https://v.daum.net/v/20240411072457158</id>
+        <link href="https://v.daum.net/v/20240411072457158"/>
+        <updated>2024-04-10T23:11:55.914Z</updated>
+        <content type="html"><![CDATA[(서울=뉴스1) 안태현 기자 = 애니메이션 영화 '쿵푸팬더4'가 오랜 기간 정상의 자리를 지켜온 '파묘'를 꺾고 새로운 1위가 됐다. 11일 영화진흥위원회 영화관 입장권 통합전산망 집계에 따르면 '쿵푸팬더4'는 개봉일인 지난 10일 하루 동안 42만 9108명의 관객을 동원하면서 박스오피스 1위에 올랐다. 누적관객수는 43만 2122명으로 집계됐다. ']]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[할리우드 ‘고전 속편’들의 습격]]></title>
         <id>https://v.daum.net/v/20240411063019530</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240410103310404"/>
         <updated>2024-04-10T01:44:24.574Z</updated>
         <content type="html"><![CDATA[[OSEN=연휘선 기자] '천만 영화'에 등극한 '파묘'에서 세상 우아한 씬스틸러가 나왔다. 의심스러운 눈초리로 'MZ무당'들을 바라보더니 차분한 음성의 영어 대사로 존재감을 과시한 배우 정윤하다.&nbsp; 정윤하는 최근 서울시 마포구 합정동에서 OSEN과 만나 영화 '파묘'(감독 장재현)에 대해 이야기를 나눴다.&nbsp;'파묘'는&nbsp;거액의 돈을 받고 수상한 묘를 이장]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[10년 후에 돌아온 시즌3, 어른들을 울렸던 이 영화]]></title>
-        <id>https://v.daum.net/v/20240410103001309</id>
-        <link href="https://v.daum.net/v/20240410103001309"/>
-        <updated>2024-04-10T01:44:24.575Z</updated>
-        <content type="html"><![CDATA[[양형석 기자] 지난 2001년에 개봉한 윤제균 감독의 장편 데뷔작 &lt;두사부일체&gt;는 조폭 코미디의 붐을 타고 서울에서만 122만 관객을 동원하며 흥행에 성공했다(영화관입장권 통합전산망 기준). 2006년에는 주인공 계두식(정준호 분)이 교생이 되고 '큰 형님' 상중(김상중 분)이 학생이 된 속편 &lt;투사부일체&gt;가 개봉했다. 개봉 당시 그리 좋은 평가를 받지]]></content>
     </entry>
 </feed>
