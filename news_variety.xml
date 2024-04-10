@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/variety</id>
     <title>다음 연예 ─ 뉴스 ─ 예능</title>
-    <updated>2024-04-10T03:13:38.190Z</updated>
+    <updated>2024-04-10T04:13:13.336Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이석훈=유죄인간 or 노잼인간..이주승 "그래서 재미는 좀 없다"]]></title>
+        <id>https://v.daum.net/v/20240410125315018</id>
+        <link href="https://v.daum.net/v/20240410125315018"/>
+        <updated>2024-04-10T04:13:01.904Z</updated>
+        <content type="html"><![CDATA[[OSEN=박소영 기자] ‘다시갈지도’에 출연한 배우&nbsp;이주승이&nbsp;'유죄인간'&nbsp;이석훈을 저격해 웃음을 자아낸다. 흥미진진한 여행 정보들을 유쾌한 랜선 여행에 담아내는 알짜배기 여행지침서 채널S&nbsp;오리지널 예능프로그램 ‘다시갈지도’가 오는&nbsp;11일(목)부터 편성을 이동해 저녁&nbsp;9시&nbsp;20분에 방송된다. 이날 방송되는&nbsp;104회는&nbsp;'아시아의 숨은 여행지 배틀'&nbsp;특집으]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[안재홍 “‘마스크걸’ 대머리 분장 이후 내 정수리부터 보더라”]]></title>
         <id>https://v.daum.net/v/20240410120057370</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240410100140780"/>
         <updated>2024-04-10T01:44:32.528Z</updated>
         <content type="html"><![CDATA[배우 이종원이 이름에 얽힌 비하인드를 밝히며 자신감을 드러냈다. 9일(화) 장도연이 진행하는 살롱드립 채널에 '종원씨 그렇게 안봤는데 시끄러운 사람이네'라는 제목으로 영상이 게재됐다. 이날 이종원은 선배 이종원과 이름이 같은 것에 대해 "처음에 데뷔할 때도 이름을 바꿀 생각이 있냐고 했다"라고 밝혔다. 이종원은 "오래 롱런하시는 대선배님이니 회사에서]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[베이비복스 간미연 “몽골 대통령에 받은 5천평 땅, 종이쪼가리 돼”]]></title>
-        <id>https://v.daum.net/v/20240410094747500</id>
-        <link href="https://v.daum.net/v/20240410094747500"/>
-        <updated>2024-04-10T01:44:32.531Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 박수인 기자] 그룹 베이비복스가 몽골 대통령에게 받은 5천 평 땅의 행방을 전했다. 4월 9일 방송된 티캐스트 E채널 '놀던언니2'에서는 베이비복스 김이지, 이희진, 심은진, 간미연이 출연해 과거를 추억하는 모습이 그려졌다. 이날 '놀던언니' 막내 초아는 직접 조사해 온 베이비복스의 히스토리를 읊으며 "1999년부터 중국에 진출하며 엄청 큰 사랑]]></content>
     </entry>
 </feed>

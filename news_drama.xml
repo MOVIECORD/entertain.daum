@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-04-10T03:13:38.198Z</updated>
+    <updated>2024-04-10T04:13:13.347Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[우연이겠지만, 국회의원 선거일에 공개돼 더욱 흥미로운 '지배종']]></title>
+        <id>https://v.daum.net/v/20240410131006324</id>
+        <link href="https://v.daum.net/v/20240410131006324"/>
+        <updated>2024-04-10T04:12:57.133Z</updated>
+        <content type="html"><![CDATA[[엔터미디어=정덕현] 디즈니플러스 오리지널 시리즈 '지배종'은 새로운 인공 배양육의 시대를 연 생명공학기업 BF의 대표 윤자유(한효주)가 사업을 설명하는 자리로 문을 연다. 화면 속에서 튀어나온 소들이 설명회장 속으로 뛰어들어오는 듯한 입체적인 영상이 펼쳐지자 사람들은 신기해 하지만, 곧바로 그 소를 도축하는 끔찍한 장면들이 이어지면서 사람들은 괴로워한다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['원더풀 월드' 최종회 90분 확대 편성]]></title>
         <id>https://v.daum.net/v/20240410110103033</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240410081316709"/>
         <updated>2024-04-10T00:47:29.865Z</updated>
         <content type="html"><![CDATA[[뉴스엔 배효주 기자] '기생수: 더 그레이'가 넷플릭스 글로벌 TOP 10 시리즈 비영어 부문 1위에 오르며 뜨거운 반응을 얻고 있다. 4월 10일 넷플릭스 TOP 10 웹사이트에 따르면, '기생수: 더 그레이'는 지난 5일 공개 이후 3일 만에 6,300,000 시청 수(시청 시간을 작품의 총 러닝 타임으로 나눈 값)를 기록하며 넷플릭스 글로벌 TOP]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['선업튀' 변우석, ♥김혜윤 하반신 마비 사고 막았다…미래 바뀌기 시작]]></title>
-        <id>https://v.daum.net/v/20240410081001608</id>
-        <link href="https://v.daum.net/v/20240410081001608"/>
-        <updated>2024-04-09T23:11:33.790Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 이이진 기자) '선재 업고 튀어' 변우석이 김혜윤의 사고를 막았다. 9일 방송된 tvN 새 월화드라마 '선재 업고 튀어'(이하 '선업튀') 2회에서는 류선재(변우석 분)가 교통사고를 당할 뻔한 임솔(김혜윤)을 구한 모습이 그려졌다. 이날 임솔은 류선재가 사망하고 난 후 2008년으로 타임슬립했다. 임솔은 과거 류선재와 같은 동네에 살고 있었고]]></content>
     </entry>
 </feed>
