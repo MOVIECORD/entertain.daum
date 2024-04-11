@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2024-04-11T18:13:28.977Z</updated>
+    <updated>2024-04-11T19:09:05.302Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[아일릿·베이비몬스터만 보이는 5세대 걸그룹 경쟁]]></title>
+        <id>https://v.daum.net/v/20240412040519331</id>
+        <link href="https://v.daum.net/v/20240412040519331"/>
+        <updated>2024-04-11T19:08:59.673Z</updated>
+        <content type="html"><![CDATA[하이브와 YG엔터테인먼트가 야심 차게 데뷔시킨 아일릿과 베이비몬스터를 주축으로 한 5세대 걸그룹 대전이 본격적으로 막을 올렸다. 명확한 ‘세대’ 구분의 기준은 없지만 일반적으로 2023년 이후 데뷔한 그룹을 ‘5세대’로 분류하고 있다. 11일 연예계에 따르면 올해 들어 데뷔한 걸그룹만 최소 7팀이다. 여기에 데뷔 소식을 전하고 데뷔일을 기다리고 있는 그룹]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['기생수: 더 그레이' 원작자 "'손자' 같은 작품, 넋 놓고 즐겼다"]]></title>
         <id>https://v.daum.net/v/20240412020530022</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240411231831926"/>
         <updated>2024-04-11T15:11:34.318Z</updated>
         <content type="html"><![CDATA[[TV리포트 = 하수나 기자] 김대호 아나운서가 빠른 은퇴를 추구하는 인생을 살고 싶다고 털어놨다.&nbsp; 11일 MBC ‘구해줘! 홈즈’에선 은퇴 후의 삶을 꿈꾸는 사람들을 위해 홈즈 코디들이 전국 임장 투어를 떠난 모습이 공개됐다.&nbsp; “은퇴를 생각해 본적이 있나?”라는 질문에 김대호는 “전 빠른 은퇴를 추구하는 인생을 살고 싶다. 직장을 그만 둔다는 퇴직의]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한채영 "결혼 18년 차, 남편과 싸우다 혈압올라 쌍코피 터졌다"]]></title>
-        <id>https://v.daum.net/v/20240411231816924</id>
-        <link href="https://v.daum.net/v/20240411231816924"/>
-        <updated>2024-04-11T15:11:34.319Z</updated>
-        <content type="html"><![CDATA[[스포츠조선닷컴 이지현 기자] 결혼 18년 차 배우 한채영이 남편과 싸우다 쌍코피가 터졌다고 고백했다. 11일 유튜브 채널 '노빠꾸 탁재훈'에는 '한채영, 노래방에서 응급실 부르게 만드는 이제는 많이 낡은 바비인형'이라는 제목의 영상이 공개됐다. 이날 한채영은 "인형이 말을 하길래 수상한 인형이라 잡아왔다"라는 소개에 "AI가 이렇게 예쁠 수]]></content>
     </entry>
 </feed>
