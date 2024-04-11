@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-04-11T22:10:15.200Z</updated>
+    <updated>2024-04-11T23:12:57.445Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[임수향, "믿었는데"...지현우의 배신에 분노 표출]]></title>
+        <id>https://v.daum.net/v/20240412081031510</id>
+        <link href="https://v.daum.net/v/20240412081031510"/>
+        <updated>2024-04-11T23:12:45.665Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 | 이경호 기자] KBS 2TV 주말드라마 '미녀와 순정남'./사진=KBS 2TV 주말드라마 '미녀와 순정남''미녀와 순정남'의 임수향이 한때 의지했던 지현우에게 얼음장같이 차가워진다. 오는 13일 오후 7시 55분에 방송되는 KBS 2TV 주말드라마 '미녀와 순정남'(극본 김사경, 연출 홍석구·홍은미, 제작 래몽래인) 7회에서는 다시 어긋나버]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['금쪽' 최초 솔루션 포기한 '절약왕 母' 재출연…오은영 "상태 심각" 걱정]]></title>
+        <id>https://v.daum.net/v/20240412073051892</id>
+        <link href="https://v.daum.net/v/20240412073051892"/>
+        <updated>2024-04-11T23:12:45.666Z</updated>
+        <content type="html"><![CDATA[‘금쪽같은 내 새끼’[이데일리 스타in 김가영 기자] ‘불을 끄고 사는 엄마와 위기의 형제’ 그 두 번째 사연이 공개된다. 12일 방송되는 채널A ‘요즘 육아-금쪽같은 내새끼’에서는 지난주 방송으로 시청자들에게 큰 충격을 주었던 ‘절약왕’ 엄마와 아빠가 다시 한번 등장한다. 반복되는 형제 갈등에 지쳐 신청했지만, 오히려 촬영 도중 발견된 엄마의 지나친 절]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[에버글로우 시현, 배우 데뷔→드라마 '살롱 드 홈즈' 출연 확정]]></title>
         <id>https://v.daum.net/v/20240412070834638</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240411173013980"/>
         <updated>2024-04-11T09:12:04.744Z</updated>
         <content type="html"><![CDATA[[OSEN=장우영 기자] 배우 음문석이 무게감 있는 연기로 놀라게 했다. 지난 8, 9일 방송된 지니 TV 오리지널 ‘야한(夜限) 사진관’에서는 애타게 찾았던 두칠(최민철)을 체포하게 된 남구(음문석)의 나날이 펼쳐졌다. 이날 남구는 악귀 최훈(최태준)을 해결한 기념 회식 자리에서 들려온 ‘박두칠’이라는 무전기 소리에 자리를 박차고 나섰다. 이 가운데]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['눈물의 여왕' 김수현♥김지원, 결혼반지 가격 보니? "한 쌍에 1,200만 원"]]></title>
-        <id>https://v.daum.net/v/20240411170528131</id>
-        <link href="https://v.daum.net/v/20240411170528131"/>
-        <updated>2024-04-11T08:14:10.785Z</updated>
-        <content type="html"><![CDATA[[OSEN=유수연 기자] '눈물의 여왕' 김수현-김지원이 프로포즈 반지의 가격이 화제가 되고 있다. 최근 각종 온라인 커뮤니티에서는 tvN '눈물의 여왕' 속 백현우(김수현 분)와 홍해인(김지원 분)이 착용 중인 반지의 가격이 공개되어 눈길을 끌었다. 지난달 31일&nbsp;tvN ‘눈물의 여왕’에서는 부부가 되기 전, 백현우가 홍해인에게 프러포즈하는 장면이 그]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘멱살 한번’ 연우진, 직접 복싱 영상 찾아보며 연습→손등 상처까지]]></title>
-        <id>https://v.daum.net/v/20240411164649372</id>
-        <link href="https://v.daum.net/v/20240411164649372"/>
-        <updated>2024-04-11T08:14:10.785Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 박수인 기자] ‘멱살 한번 잡힙시다’ 촬영 현장이 공개됐다. 4월 10일 공개된 KBS 2TV 월화드라마 ‘멱살 한번 잡힙시다’(연출 이호, 이현경 / 극본 배수영 / 제작 몬스터유니온, 프로덕션H) 7, 8회 비하인드 메이킹 영상에는 서정원으로 몰입한 김하늘의 모습이 눈길을 끈다. 김하늘은 투철한 기자 정신의 정원을 완벽하게 그려내기 위해 끊임]]></content>
     </entry>
 </feed>
