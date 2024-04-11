@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2024-04-11T01:47:31.057Z</updated>
+    <updated>2024-04-11T02:21:05.437Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[박찬욱 감독X로버트 다우니 주니어 뭉쳤다..'동조자', 4월 15일 쿠팡서 공개]]></title>
+        <id>https://v.daum.net/v/20240411111915278</id>
+        <link href="https://v.daum.net/v/20240411111915278"/>
+        <updated>2024-04-11T02:20:49.828Z</updated>
+        <content type="html"><![CDATA[[스포츠조선 문지연 기자] 박찬욱 감독의 신작 '동조자'가 쿠팡플레이를 통해 독점 공개된다. 쿠팡플레이는 11일 "박찬욱 감독 신작 '동조자'의 공개일을 4월 15일 오후 8시로 확정했다"고 밝혔다. '동조자(The Sympathizer)'는 자유 베트남이 패망한 1970년대, 미국으로 망명한 베트남 혼혈 청년이 두 개의 문명, 두 개의]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[웃음 잃었던 류준열 ‘행복 골프’ 근황‥역시 골프 사랑꾼]]></title>
+        <id>https://v.daum.net/v/20240411110127270</id>
+        <link href="https://v.daum.net/v/20240411110127270"/>
+        <updated>2024-04-11T02:20:49.829Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 배효주 기자] 골프 사랑꾼 류준열이 각종 논란을 뒤로한 '행복 골프 근황'을 전해 눈길을 끈다. 류준열은 4월 10일(현지시간) 미국 조지아주 어거스타 내셔널 골프 클럽에서 열린 마스터스 토너먼트의 파3 콘테스트에 참석해 골프선수 김주형의 캐디로 활약했다. 11일 개막하는 마스터스 토너먼트는 남자 골프 4대 메이저 대회 중 하나다. 정규 경기 개]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[순위 밖 ‘어게인1997’, 심폐소생 할까]]></title>
         <id>https://v.daum.net/v/20240411104209249</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240411091532658"/>
         <updated>2024-04-11T00:48:25.206Z</updated>
         <content type="html"><![CDATA[[OSEN=최이정 기자]&nbsp;드림웍스 시리즈 '쿵푸팬더4'(수입/배급: 유니버설 픽쳐스)가 4월 10일(수) 개봉, 역대급 흥행 신기록을 세우며 개봉 첫날 압도적 박스오피스 1위에 등극했다. '쿵푸팬더4&gt;'가 개봉 첫날 429,107명(누적 관객 수 432,121명)을 모으며 '파묘'의 독주를 마침내 끝내고 압도적 박스오피스 1위에 올랐다.&nbsp;이는 2024년]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘쿵푸팬더4’, ‘파묘’ 꺾고 올해 최고 오프닝 신기록]]></title>
-        <id>https://v.daum.net/v/20240411090602269</id>
-        <link href="https://v.daum.net/v/20240411090602269"/>
-        <updated>2024-04-11T00:48:25.207Z</updated>
-        <content type="html"><![CDATA[‘쿵푸팬더4’가 ‘파묘’의 독주를 막고 박스오피스 왕좌의 새 주인이 됐다. 11일 영화진흥위원회 영화관입장권 통합전산망에 따르면 영화 ‘쿵푸팬더4’는 전날 42만 9111명의 관객을 동원해 누적 관객수 43만 2125명을 기록했다. ‘쿵푸팬더4’는 모든 쿵푸 마스터의 능력을 복제하는 빌런 카멜레온에 맞서기 위해 용의 전사인 자신마저 뛰어넘어야 하는 포의 새]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[포바오의 기적…'쿵푸팬더4' 2024년 최고 오프닝→시리즈 흥행 기록 경신]]></title>
-        <id>https://v.daum.net/v/20240411085618923</id>
-        <link href="https://v.daum.net/v/20240411085618923"/>
-        <updated>2024-04-11T00:48:25.212Z</updated>
-        <content type="html"><![CDATA[[이데일리 스타in 김보영 기자] 드림웍스 레전드 시리즈 애니메이션 ‘쿵푸팬더4’가 지난 10일 개봉일, 역대급 흥행 신기록을 세우며 개봉 첫날 압도적 박스오피스 1위에 등극했다. 드림웍스 영화 ‘쿵푸팬더4’가 개봉 첫날 42만 9107명, 누적 관객 수 43만 2121명을 모으며 ‘파묘’의 독주를 마침내 끝내고 압도적 박스오피스 1위에 올랐다. 이는 2]]></content>
     </entry>
 </feed>
