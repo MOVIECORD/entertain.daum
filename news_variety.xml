@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/variety</id>
     <title>다음 연예 ─ 뉴스 ─ 예능</title>
-    <updated>2024-04-12T16:13:16.836Z</updated>
+    <updated>2024-04-12T17:11:58.872Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[장윤정 대상 소감 "♥도경완 언급 안 하면 삐질 것"]]></title>
+        <id>https://v.daum.net/v/20240413012001013</id>
+        <link href="https://v.daum.net/v/20240413012001013"/>
+        <updated>2024-04-12T17:11:50.897Z</updated>
+        <content type="html"><![CDATA[[OSEN=오세진 기자] '트롯 뮤직 어워즈 2024' 12일 SBS 프리즘 타워에서 개최한&nbsp;'트롯 뮤직 어워즈 2024'(SBS FiL, SBS M, SBS FiL UHD 채널 방영, 이하 '트롯2024')에서는 최초로 트로트만을 위한 시상식이 열렸다. 신인 가수, 무명 가수 등 29명의 가수들의 오프닝 곡을 시작으로 10대 가수상이 차례로 발표됐다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["차기작 다 엎어져...작품 수 줄었다" 이주승, 업계 불황 직격탄 고백]]></title>
         <id>https://v.daum.net/v/20240413004204891</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240412234924529"/>
         <updated>2024-04-12T15:10:45.856Z</updated>
         <content type="html"><![CDATA[[스타뉴스 | 이예지 기자] /사진='나혼자산다' 화면 캡처'나 혼자 산다' 안재현이 자신만의 확고한 양치 신념을 공개했다. 12일 오후 방송된 MBC '나 혼자 산다'에서는 치아 관리에 진심을 다하는 안재현의 모습이 그려졌다. 간단하게 아침을 먹은 안재현은 화장실로 직행했다. 가볍게 물로 입 안을 헹군 후 치실로 이 사이 구석구석을 닦았다. 이어]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[안재현 “4년 전부터 건강 많이 안 좋아‥영양제값 1달 50만원”]]></title>
-        <id>https://v.daum.net/v/20240412234326496</id>
-        <link href="https://v.daum.net/v/20240412234326496"/>
-        <updated>2024-04-12T15:10:45.858Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 서유나 기자] 모델 출신 배우 안재현이 지난 건강이상을 고백했다. 4월 12일 방송된 MBC 예능 '나 혼자 산다'(이하 '나혼산') 541회에서는 배우 안재현의 일상이 공개됐다. 이날 안재현은 아침부터 영양제를 한가득 챙겨 먹더니, 방울토마토 몇 알을 집어먹고, 냉동 블루베리를 넣은 아몬드 음료와 커피로 아침 식사를 했다. 안재현은 너무]]></content>
     </entry>
 </feed>
