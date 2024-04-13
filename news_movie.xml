@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2024-04-13T03:10:42.060Z</updated>
+    <updated>2024-04-13T04:12:46.327Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[美 매체 “마블 예수님 ‘데드풀3’ 슈퍼히어로 피로감 잠재울 것, 올해 최고작 전망”]]></title>
+        <id>https://v.daum.net/v/20240413125646865</id>
+        <link href="https://v.daum.net/v/20240413125646865"/>
+        <updated>2024-04-13T04:12:28.050Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]미국 유력매체 버라이어티가 마블 히어로 무비 ‘데드풀과 울버린’에 호평을 보냈다. 버라이어티는 12일(현지시간) “라이언 레이놀즈와 휴 잭맨의 ‘데드풀과 울버린’은 슈퍼히어로 피로감에 대한 우려를 잠재울 것이며, 많은 사람들이 올해 최고의 개봉작이 될 것이라고 예상하고 있다”고 보도했다. 실제 라스베이거스에서 열린 시네마]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘쿵푸팬더4’ 주말 1위 유력]]></title>
         <id>https://v.daum.net/v/20240413120806604</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240412220800406"/>
         <updated>2024-04-12T13:11:29.209Z</updated>
         <content type="html"><![CDATA[[TV리포트=강성훈 기자] 지난해 큰 인기를 끈 애니메이션 '최애의 아이'가 시즌2로 돌아온다. 12일 일본 매체 '오리콘 뉴스'는 '최애의 아이' 시즌1의 1화 확대판을 현지 극장에서 만나볼 수 있다고 보도했다. 2주일 한정으로 상영되며 오는 6월 30일의 경우 2기 1화 선행 상영 이벤트가 개최된다.&nbsp; 보도에 따르면 시즌2는 본격적으로 오는 7월부터 방]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[황정민X정해인 '베테랑2', 칸 영화제 초청..2년 연속 경쟁 진출 無]]></title>
-        <id>https://v.daum.net/v/20240412175920729</id>
-        <link href="https://v.daum.net/v/20240412175920729"/>
-        <updated>2024-04-12T09:12:16.478Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 | 김나연 기자] 베테랑2 / 사진=CJ ENM베테랑2 / 사진=CJ ENM류승완 감독의 '베테랑2'가 칸 국제영화제 무대를 밟는 가운데, 2년 연속 경쟁 부문에 진출한 한국 작품은 없다. '베테랑2'가 제 77회 칸 국제영화제에 초청됐다. 11일(현지시간) 제77회 칸 국제영화제 집행위원회는 영화 '베테랑2'가 미드나잇 스크리닝 부문에 초청]]></content>
     </entry>
 </feed>
