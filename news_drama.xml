@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-04-13T01:30:52.697Z</updated>
+    <updated>2024-04-13T02:10:33.928Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김수현, ♥김지원 협박한 박성훈과 몸싸움..살벌 멱살잡이]]></title>
+        <id>https://v.daum.net/v/20240413104345842</id>
+        <link href="https://v.daum.net/v/20240413104345842"/>
+        <updated>2024-04-13T02:10:20.170Z</updated>
+        <content type="html"><![CDATA[[OSEN=하수정 기자] 김수현이 박성훈을 상대로 몸싸움을 벌인다. 13일(토) 방송되는 tvN 토일드라마 ‘눈물의 여왕’(극본 박지은/ 연출 장영우, 김희원/ 제작 스튜디오드래곤, 문화창고, 쇼러너스) 11회에서는 백현우(김수현 분)가 사랑하는 아내 홍해인(김지원 분)을 협박한 윤은성(박성훈 분)을 향해 살벌한 일격을 날린다. 백현우는 홍해인과 퀸즈]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["♥김지원 협박?" 김수현, 박성훈에 카운터 펀치 날린다]]></title>
         <id>https://v.daum.net/v/20240413100636460</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240413073418872"/>
         <updated>2024-04-12T23:08:28.424Z</updated>
         <content type="html"><![CDATA[[스타뉴스 | 이경호 기자] SBS 금토드라마 '7인의 부활'./사진=SBS 금토드라마 '7인의 부활' 방송 화면 캡처'7인의 부활' 메두사 황정음이 정체 발각 위기에 놓였다. 지난 12일 방송된 SBS 금토드라마 '7인의 부활'(연출 오준혁·오송희, 극본 김순옥, 제작 초록뱀미디어·스튜디오S) 5회에서 민도혁(이준 분)을 돕는 '메두사(=금라희/황정음]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['원더풀 월드' 김남주-차은우, 서로에게 눈물 속죄..쌍방구원 뭉클]]></title>
-        <id>https://v.daum.net/v/20240413072918798</id>
-        <link href="https://v.daum.net/v/20240413072918798"/>
-        <updated>2024-04-12T23:08:28.425Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 | 이경호 기자] MBC 금토드라마 '원더풀 월드'./사진=MBC 금토드라마 '원더풀 월드' '원더풀 월드' 김남주와 차은우가 박혁권을 단죄하기 위해 힘을 모으고, 비로소 결전의 막을 올렸다. 지난 12일 방송된 MBC 금토드라마 '원더풀 월드'(기획 권성창, 연출 이승영·정상희, 극본 김지은, 제작 삼화네트웍스) 13회에서는 그날의 모든 진실]]></content>
     </entry>
 </feed>
