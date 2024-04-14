@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2024-04-14T05:57:38.106Z</updated>
+    <updated>2024-04-14T07:54:15.696Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[커스틴 더스트 "갑자기 '스파이더맨4'?...솔직히 필요한지 모르겠다"]]></title>
+        <id>https://v.daum.net/v/20240414150031719</id>
+        <link href="https://v.daum.net/v/20240414150031719"/>
+        <updated>2024-04-14T07:53:56.437Z</updated>
+        <content type="html"><![CDATA[[TV리포트=강성훈 기자] 할리우드 배우 커스틴 더스트(41)가 '스파이더맨4'에 관한 입장을 전해 관심이 쏠린다. 그는 2000년대 '스파이더맨' 시리즈에서 히로인 메리 제인 왓슨 역을 맡은 것으로 유명하다. 10일(현지 시간) 외신 '인디와이어'(IndieWire)는 커스틴 더스트와의 인터뷰 내용을 보도했다. '스파이더맨4'에 출연 의향이 있냐는 질문에]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['이정현 연기'→'스다 마사키 출연'···감독이 밝힌 '기생수: 더 그레이' 비하인드]]></title>
         <id>https://v.daum.net/v/20240414140020350</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240414080002925"/>
         <updated>2024-04-13T23:11:47.374Z</updated>
         <content type="html"><![CDATA[[스타뉴스 | 김나연 기자] 전소니 / 사진=넷플릭스배우 전소니가 '기생수: 더 그레이'를 통해 한 단계 더 성장했다. 최근 서울시 종로구 삼청로의 한 카페에서 넷플릭스 오리지널 시리즈 '기생수: 더 그레이'의 연상호 감독과 만나 다양한 이야기를 나눴다. '기생수: 더 그레이'는 인간을 숙주로 삼아 세력을 확장하려는 기생생물들이 등장하자 이를 저지하]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[1156만 돌파 '파묘', '부산행'마저 제쳤다..역대 흥행 18위]]></title>
-        <id>https://v.daum.net/v/20240414075633907</id>
-        <link href="https://v.daum.net/v/20240414075633907"/>
-        <updated>2024-04-13T23:11:47.374Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 | 윤상근 기자] /사진='파묘' 포스터 영화 '파묘'가 누적 1156만명을 돌파하고 '부산행'마저 제쳤다. 영화진흥위원회 통합전산망 집계에 따르면 '파묘'는 13일 누적 관객수 1156만 9310명을 동원하며 누적 관객수 1156만 7816명을 기록한 '부산행'을 제치고 역대 박스오피스 18위에 올랐다. 또한 '파묘'는 2024년 최고]]></content>
     </entry>
 </feed>
