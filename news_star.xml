@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2024-04-15T16:12:54.818Z</updated>
+    <updated>2024-04-15T17:10:07.159Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[女보컬 그룹 오디션 ‘걸스 온 파이어’, 첫방송 관전 포인트]]></title>
+        <id>https://v.daum.net/v/20240416020005969</id>
+        <link href="https://v.daum.net/v/20240416020005969"/>
+        <updated>2024-04-15T17:10:02.120Z</updated>
+        <content type="html"><![CDATA[[동아닷컴] [사진제공=JTBC ‘걸스 온 파이어‘]JTBC '걸스 온 파이어'가 여성 보컬 그룹 탄생을 이끈다. '걸스 온 파이어'는 16일 밤 10시 30분 첫 방송한다. '슈퍼밴드', '팬텀싱어' 제작진의 숨은 뮤지션 발굴 프로젝트 3탄으로, 아이돌 음악이 주류인 K-POP 시장의 판도를 바꿀 여성 보컬 그룹 결성기를 그린다. 제작진은 첫 방송을 앞]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['조선의 사랑꾼' 김슬기 "유현철과 재혼 맞나 싶어, 첫 결혼 때의 아픔 느껴"]]></title>
         <id>https://v.daum.net/v/20240416003300698</id>
@@ -24,7 +31,7 @@
         <id>https://v.daum.net/v/20240416001501617</id>
         <link href="https://v.daum.net/v/20240416001501617"/>
         <updated>2024-04-15T16:12:49.639Z</updated>
-        <content type="html"><![CDATA[‘동상이몽2’ 조우종이 아내 정다은을 위해 내조했다. 15일 방송된 SBS 예능프로그램 ‘동상이몽2- 너는 내 운명’(이하 ‘동상이몽2’)에서는 조우종 아내 정다은이 첫 예능 홀로서기를 선언하는 모습이 그려졌다. 이날 정다은은 이동하는 차 안에서 열창하며 분위기에 심취했고, 조우종은 한숨만 푹푹 쉬는 모습을 보였다. 정다은이 프리 선언 후 첫 예능 홀로서기]]></content>
+        <content type="html"><![CDATA[‘동상이몽2’ 조우종이 아내 정다은을 위해 나섰다. 15일 방송된 SBS 예능프로그램 ‘동상이몽2- 너는 내 운명’(이하 ‘동상이몽2’)에서는 조우종 아내 정다은이 첫 예능 홀로서기를 선언하는 모습이 그려졌다. 이날 정다은은 이동하는 차 안에서 열창하며 분위기에 심취했고, 조우종은 한숨만 푹푹 쉬는 모습을 보였다. 정다은이 프리 선언 후 첫 예능 홀로서기에]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA['조선의 사랑꾼2' 심현섭, 12살 연하 소개팅녀에 "목표는 결혼"]]></title>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240415234146177"/>
         <updated>2024-04-15T15:12:19.861Z</updated>
         <content type="html"><![CDATA[[스포츠조선 이유나 기자] 배우 김선호가 자존감이 떨어졌던 과거 불안감을 고백했다. 15일 방송된 SBS Plus '먹고 보는 형제들2'에서는 김선호, 문세윤, 김준현이 함께 치앙마이 여행에 나섰다. 이날 태국 치앙마이 야시장에 방문한 김선호는 "가장 기다렸던 순간"이라며 다양한 메뉴를 시켜 맛봤다. 김선호의 등장에 야시장이 순식간에 팬미팅]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['파묘' 221cm 배우 김병오 "김고은 연기 보며 소름 돋아"]]></title>
-        <id>https://v.daum.net/v/20240415233801161</id>
-        <link href="https://v.daum.net/v/20240415233801161"/>
-        <updated>2024-04-15T15:12:19.862Z</updated>
-        <content type="html"><![CDATA[[TV리포트=이혜미 기자] 농구선수 출신의 배우 김병오가 ‘파묘’의 촬영 비화를 공개했다. 15일 KBS JOY ‘무엇이든 물어보살’에선 김병오가 의뢰인으로 출연했다. 2m 21cm 의 장신으로 등장부터 강렬한 존재감을 발산한 김병오에 서장훈은 “나 이 친구 안다. 중앙대에서 농구하지 않았나”라며 반색했다. 농구선수 출신의 김병오는 최근 천만 영화 ‘파묘’]]></content>
     </entry>
 </feed>
