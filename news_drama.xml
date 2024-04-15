@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-04-15T10:10:53.634Z</updated>
+    <updated>2024-04-15T11:08:37.362Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['세 번째 결혼' 오세영, 오승아 멱살 잡았다 "뻔뻔하게.."]]></title>
+        <id>https://v.daum.net/v/20240415193338513</id>
+        <link href="https://v.daum.net/v/20240415193338513"/>
+        <updated>2024-04-15T11:08:25.057Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 | 이예지 기자] /사진='세번째결혼' 화면 캡처'세번째 결혼' 오세영이 오승아의 멱살을 잡으며 분노했다. 15일 오후 방송된 MBC 일일 드라마 '세 번째 결혼'에서는 자신을 궁지에 몬 정다정(오승아 분)에게 복수를 다짐하는 강세란(오세영 분)의 모습이 그려졌다. 지난 방송에서 팬사인회 도중 정다정으로부터 망신을 당하면서 강세란의 악행이 천하]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["김지원 살려내"…비하인드 컷 공개, 시청률 공약 원성 '폭소']]></title>
         <id>https://v.daum.net/v/20240415183008158</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240415135008006"/>
         <updated>2024-04-15T05:10:33.517Z</updated>
         <content type="html"><![CDATA[(엑스포츠뉴스 이예진 기자) 배우 변우석, 김혜윤 주연의 '선재 업고 튀어'가 입소문을 타고 시청률 반등에 성공할 수 있을까. 15일 방송되는 tvN 새 월화드라마 '선재 업고 튀어'는 삶의 의지를 놓아버린 순간, 자신을 살게 해줬던 유명 아티스트 류선재와, 그의 죽음으로 절망했던 열성팬 임솔이 '최애' 류선재를 살리기 위해 시간을 거슬러 2008년으로 돌]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[변우석 김혜윤, 불 꺼진 수영장서 로맨틱 케미 폭발]]></title>
-        <id>https://v.daum.net/v/20240415132310223</id>
-        <link href="https://v.daum.net/v/20240415132310223"/>
-        <updated>2024-04-15T04:27:26.679Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 김명미 기자] 변우석과 김혜윤이 불 꺼진 수영장에서 은밀한 로맨틱 케미를 자랑한다. tvN 월화드라마 ‘선재 업고 튀어’(극본 이시은/연출 윤종호, 김태엽/기획 CJ ENM 스튜디오스/제작 본팩토리)가 15년을 뛰어넘은 변우석 김혜윤의 애틋 달콤한 로맨스 서사와 껌딱지 케미에 힘입어 OTT 데이터 분석 업체 키노라이츠 오늘의 콘텐츠 통합 랭킹2위]]></content>
     </entry>
 </feed>
