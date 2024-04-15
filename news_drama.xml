@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-04-15T13:13:06.934Z</updated>
+    <updated>2024-04-15T14:10:33.526Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['선업튀' 김혜윤, ♥변우석과 첫키스…기억 못한 채 15년 후로 돌아가 '충격']]></title>
+        <id>https://v.daum.net/v/20240415221208439</id>
+        <link href="https://v.daum.net/v/20240415221208439"/>
+        <updated>2024-04-15T14:10:18.331Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 이이진 기자) '선재 업고 튀어' 타임슬립한 김혜윤이 15년 후로 돌아갔다. 15일 방송된 tvN 월화드라마 '선재 업고 튀어'(이하 '선업튀') 3회에서는 임솔(김혜윤 분)이 다시 15년 후로 돌아간 모습이 그려졌다. 이날 류선재는 대회를 앞두고 백인혁(이승협)에게 임솔을 향한 짝사랑을 들켰다. 류선재는 "내일 금메달만 따 봐. 좋아한다고]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['선업튀' 변우석, 술 취한 김혜윤에 고백+뽀뽀 "좋아해"]]></title>
         <id>https://v.daum.net/v/20240415220526388</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240415155506122"/>
         <updated>2024-04-15T07:09:08.458Z</updated>
         <content type="html"><![CDATA[[뉴스엔 김명미 기자] 신예 이다연이 ‘멱살 한번 잡힙시다’에 캐스팅됐다. 4월 15일 소속사 킹콩 by 스타쉽 측은 “이다연이 KBS 2TV 월화드라마 ‘멱살 한번 잡힙시다’(연출 이호, 이현경 / 극본 배수영 / 제작 몬스터유니온, 프로덕션H)에 ‘이나리’ 역으로 출연한다. 새로운 모습으로 찾아올 이다연에게 많은 관심 부탁드린다”라고 전했다. ‘멱살]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[새라X이한울, '수지맞은 우리' OST 가창..오늘 '칵테일 사랑' 리메이크]]></title>
-        <id>https://v.daum.net/v/20240415152922166</id>
-        <link href="https://v.daum.net/v/20240415152922166"/>
-        <updated>2024-04-15T07:09:08.458Z</updated>
-        <content type="html"><![CDATA[[OSEN=장우영 기자] 가수 새라와 이한울이 ‘수지맞은 우리’ OST로 색다른 매력을 선사했다. 15일 낮 12시 각종 온라인 음원사이트를 통해 새라와 이한울이 참여한 KBS1 새 일일드라마 ‘수지맞은 우리’ OST ‘칵테일 사랑’이 발매됐다. ‘칵테일 사랑’은 1994년 마로니에의 대표곡으로, 앞서 새라가 리메이크해 시청자들의 폭발적인 반응을 이끈]]></content>
     </entry>
 </feed>
