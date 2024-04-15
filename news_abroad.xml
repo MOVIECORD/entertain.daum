@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2024-04-15T06:16:11.913Z</updated>
+    <updated>2024-04-15T07:09:22.604Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[톰 크루즈, 딸 양육비는 보내도 만남은 NO “12년간 안 만나”]]></title>
+        <id>https://v.daum.net/v/20240415160048403</id>
+        <link href="https://v.daum.net/v/20240415160048403"/>
+        <updated>2024-04-15T07:09:22.014Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 이민지 기자] 톰 크루즈가 딸 수리와 여전히 만나지 않고 있다. 페이지식스는 최근 배우 톰 크루즈가 18세가 된 딸 수리 크루즈와 만나지 않고 있다고 보도했다. 수리 크루즈는 지난 2006년 톰 크루즈와 케이티 홈즈 사이에서 태어났다. 태어난지 5개월여 후 부모와 매거진 베니티 페어를 장식한 수리 크루즈는 한때 미국에서 가장 유명한 아기라 불릴]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“女배우에게 30년간 선물 보내는 로맨틱 가이” 톰 크루즈, “스윗한 톰 아저씨”]]></title>
         <id>https://v.daum.net/v/20240415133029416</id>
@@ -53,12 +60,5 @@
         <link href="https://v.daum.net/v/20240414175330624"/>
         <updated>2024-04-14T10:38:19.203Z</updated>
         <content type="html"><![CDATA[[TV리포트=유소연 기자] 올해 70세를 맞이한 일본 엔카 가수 코바야시 사치코가 '갸루'로 변신했다. 11일(현지 시간) 외신 매체 라이브도어에 따르면, 코바야시 사치코가 새로운 모습으로 돌아왔다. 그는 1990년대부터 2000년대 초반인 헤이세이 시대의 '갸루'로 변신했다. 그는 통굽 부츠나 루즈 삭스와 같이 당시 유행이었던 Y2K 아이템을 선보였다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“톰 크루즈가 11살 때 첫 휴대폰 사줘, 해마다 생일선물 보내” 다코나 패닝 감격]]></title>
-        <id>https://v.daum.net/v/20240414155756116</id>
-        <link href="https://v.daum.net/v/20240414155756116"/>
-        <updated>2024-04-14T07:54:15.064Z</updated>
-        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]할리우드 배우 다코나 패닝(30)이 영화 ‘우주전쟁’(2005)에서 부녀지간으로 호흡을 맞췄던 톰 크루즈(61)에게 감사 인사를 전했다. 그는 13일(현지시간) 하퍼스 바자와 인터뷰에서 ‘우주전쟁’에 함께 출연했던 톰 크루즈가 11살 생일 때 모토로라 레이저를 선물했다고 밝혔다. 패닝은 “너무 신났다. 그 당시에 11살]]></content>
     </entry>
 </feed>
