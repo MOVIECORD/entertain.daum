@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2024-04-15T20:11:22.879Z</updated>
+    <updated>2024-04-15T21:12:15.367Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[성덕이 된 연상호 감독 “美·동남아에서도 ‘기생수’ 리메이크되길”]]></title>
+        <id>https://v.daum.net/v/20240416060018512</id>
+        <link href="https://v.daum.net/v/20240416060018512"/>
+        <updated>2024-04-15T21:11:54.951Z</updated>
+        <content type="html"><![CDATA[[스포츠서울 | 함상범 기자] 익히 알려졌다시피 연상호 감독은 애니메이터 출신이다. 어릴 적부터 만화를 좋아한 연상호 감독이 가장 애정했던 작품 중 하나가 이와아키 히토시 작가의 ‘기생수’다. 연 감독은 “기생생물이 만약 한국에 온다면?”이란 질문을 품고 오랜 시간 상상을 다듬었다. 그 상상이 지난 5일 공개된 넷플릭스 ‘기생수: 더 그레이’에서 펼쳐]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[마동석 주먹만 믿는다… ‘트리플 1000만’ 도전하는 ‘범죄도시4’]]></title>
         <id>https://v.daum.net/v/20240416040447387</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240415184426488"/>
         <updated>2024-04-15T10:10:33.736Z</updated>
         <content type="html"><![CDATA[(서울=연합뉴스) 이영재 기자 = 배우 마동석이 괴력의 형사 마석도를 연기한 '범죄도시' 시리즈는 마동석 특유의 통쾌한 액션과 유머로 작품마다 흥행했다. 1편 '범죄도시'(2017)는 청소년관람불가 등급에도 688만명의 관객을 모았고, 15세 관람가인 '범죄도시 2'(2022·1천269만명)와 '범죄도시 3'(2023·1천68만명)는 모두 천만 영화 반열에]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['범죄도시4' 묵직한 서사·지독한 액션·정교한 팀워크…진화한 마동석표 권선징악]]></title>
-        <id>https://v.daum.net/v/20240415184135448</id>
-        <link href="https://v.daum.net/v/20240415184135448"/>
-        <updated>2024-04-15T10:10:33.743Z</updated>
-        <content type="html"><![CDATA[[이데일리 스타in 김보영 기자] 괴물형사 마석도가 시리즈 사상 최고로 강력한 빌런을 만나 폭발하는 시너지. 힘겨운 고군분투인 만큼 후련함도 2배가 됐다. 스케일이 커졌고 범죄 수법은 보다 정교하고 심각해졌다. 유쾌함을 살짝 덜고, 더욱 묵직한 매력과 막강한 타격감으로 돌아온 ‘범죄도시4’(감독 허명행)다. ‘범죄도시4’는 괴물형사 마석도(마동석 분)가]]></content>
     </entry>
 </feed>
