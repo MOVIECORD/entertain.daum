@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2024-04-16T03:13:01.820Z</updated>
+    <updated>2024-04-16T04:13:44.793Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘슈퍼맨’ 헨리 카빌 아빠된다, “여친 임신…무척 흥분된다” 소감]]></title>
+        <id>https://v.daum.net/v/20240416130521155</id>
+        <link href="https://v.daum.net/v/20240416130521155"/>
+        <updated>2024-04-16T04:13:43.918Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]‘슈퍼맨’ 헨리 카빌(40)이 아빠가 된다. 그는 15일(현지시간) 엑세스 할리우드와 인터뷰에서 여차친구 나탈리 비스쿠소와 함께 첫 아이를 출산할 예정이라고 밝혔다. 카빌은 “나탈리와 나는 매우, 매우 흥분된다”고 밝혔다. 비스쿠소는 영화 제작사의 임원 출신으로, 헨리 카빌이 출연한 영화 ‘맨 오브 스틸’, ‘에놀]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[슈퍼맨 아빠 된다..헨리 카빌 여친, 임신 공식 발표]]></title>
         <id>https://v.daum.net/v/20240416120321883</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240415170807714"/>
         <updated>2024-04-15T08:12:13.751Z</updated>
         <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]세계적 가수 리한나(36)가 아이를 더 낳고 싶다고 밝혔다. 그는 최근 ‘인터뷰’ 매거진과 인터뷰에서 아이를 몇 명이나 더 낳고 싶냐는 질문을 받았다. 리한나는 “신이 원하시는 만큼만 낳고 싶다”고 말했다. 이어 두 명 이상이면 좋겠냐는 질문에는 "신이 원하는 것이 무엇인지 모르겠지만 두 명 이상이면 좋겠다. 내 딸을 위해]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['이혼' 소피아 베르가라, 잘생긴 의사 남친 사귀어...사랑은 사랑으로 잊는다]]></title>
-        <id>https://v.daum.net/v/20240415163400058</id>
-        <link href="https://v.daum.net/v/20240415163400058"/>
-        <updated>2024-04-15T08:12:13.753Z</updated>
-        <content type="html"><![CDATA[[TV리포트=안수현 기자] 할리우드 배우 소피아 베르가라가 새 사랑을 찾았다.&nbsp; 지난 13일(한국시간), 소피아 베르가라(51)는 자신의 소셜네트워크서비스에 무릎 수술을 받은 사실을 밝히며 새 남자친구이자 정형외과 의사인 살리만에게 감사의 뜻을 전했다. 그는 "만약 여러분이 무릎 수술을 받게 된다면 꼭 잘생긴 의사를 찾으세요!"라며 수술복을 입은 채 침대]]></content>
     </entry>
 </feed>

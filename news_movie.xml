@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2024-04-16T03:13:01.810Z</updated>
+    <updated>2024-04-16T04:13:44.787Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“아이언맨은 잊어라” 로다주, 박찬욱 ‘동조자’서 변화무쌍 연기 호평 “미국 전체 대변”]]></title>
+        <id>https://v.daum.net/v/20240416130105074</id>
+        <link href="https://v.daum.net/v/20240416130105074"/>
+        <updated>2024-04-16T04:13:25.513Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]““아이언맨‘은 잊어라.” 로버트 다우니 주니어(59)가 박찬욱 감독의 드라마 ‘동조자’에서 변화무쌍한 연기를 펼쳐 호평을 받고 있다. ‘동조자(The Sympathizer)’는 자유 베트남이 패망한 1970년대, 미국으로 망명한 베트남 혼혈 청년이 두 개의 문명, 두 개의 이데올로기 사이에서 겪는 고군분투를 다룬 이야기.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[엄마 동영상이 직장에 퍼졌다... 성범죄에 몰린 모녀의 선택]]></title>
         <id>https://v.daum.net/v/20240416120001622</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240416092556690"/>
         <updated>2024-04-16T00:47:10.409Z</updated>
         <content type="html"><![CDATA[일간스포츠 주최, 실무프로젝트(주) 주관으로 진행하는 미디어과정 취업준비생을 위한 실무프로젝트에서는 미디어 산업 분야 관련 기사 작성에 관해 강의를 했습니다. 이후 조별 과제로 제출받은 참여 기업들에 대한 홍보 기사 중 우수한 것들을 일간스포츠 온라인을 통해 소개합니다. 일간스포츠가 취준생 여러분을 응원합니다. &lt;편집자 주&gt; 멀티플렉스 씨네Q가 영화사 안]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[터프가이 이성민→'범죄도시' 박지환..대세 다 모인 '핸섬가이즈' '여름 개봉']]></title>
-        <id>https://v.daum.net/v/20240416090023598</id>
-        <link href="https://v.daum.net/v/20240416090023598"/>
-        <updated>2024-04-16T00:47:10.410Z</updated>
-        <content type="html"><![CDATA[[OSEN=박소영 기자] 이성민, 이희준, 공승연, 박지환, 이규형의 강력한 조합으로 캐스팅 단계부터 뜨거운 관심을 모았던 고자극 오싹 코미디 &lt;핸섬가이즈&gt;가 오는 여름 개봉을 확정했다. 영화&nbsp;&lt;핸섬가이즈&gt;는 한 번 보면 절대 잊을 수 없는 ‘재필’과 ‘상구’가 전원생활을 꿈꾸며 새집으로 이사 온 날, 지하실에 봉인됐던 비밀이 깨어나며 벌어지는 고자극]]></content>
     </entry>
 </feed>
