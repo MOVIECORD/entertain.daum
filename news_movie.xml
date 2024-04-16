@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2024-04-16T05:12:11.475Z</updated>
+    <updated>2024-04-16T06:14:19.894Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[마동석의 강력한 네 번째 펀치 '범죄도시4']]></title>
+        <id>https://v.daum.net/v/20240416150023875</id>
+        <link href="https://v.daum.net/v/20240416150023875"/>
+        <updated>2024-04-16T06:14:03.797Z</updated>
+        <content type="html"><![CDATA[[서울경제] '아는 펀치'가 무섭다더니. 이번에도 마동석 표 통쾌한 펀치가 제대로 먹혔다. 비슷한 기승전결임에도 새로운 범죄 소재, 신선한 액션, 그리고 새롭게 등장하는 얼굴까지 더해져 더욱 풍성한 '범죄도시'의 네 번째 이야기가 탄생했다. '범죄도시4'(감독 허명행)는 '범죄도시3'의 신종 마약 사건 이후 3년이 지난 시점을 배경으로 주인공인 괴물 형]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['범죄도시4' 김무열, '천만 배우' 꿈이 아니다]]></title>
+        <id>https://v.daum.net/v/20240416142224774</id>
+        <link href="https://v.daum.net/v/20240416142224774"/>
+        <updated>2024-04-16T06:14:03.799Z</updated>
+        <content type="html"><![CDATA[아이즈 ize 김나라 기자배우 김무열이 '범죄도시4'에서 마동석과 팽팽한 카리스마 대결을 펼치며&nbsp;시리즈의 악역 계보를 이었다. '범죄도시4'는 마동석이 성공시킨 대한민국 대표 범죄액션 프랜차이즈 영화의 후속작. 지난 2017년 첫선을 보인 1편은 청소년 관람불가 등급임에도 불구하고 688만 명을 동원하며 신드롬급 흥행 돌풍을 일으켰다. 15세 관람가로 등급]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[거장과 거장 만났다..'매드맥스' 조지 밀러 감독 "봉준호에 많이 배워"]]></title>
         <id>https://v.daum.net/v/20240416140936242</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240416101520912"/>
         <updated>2024-04-16T01:45:22.639Z</updated>
         <content type="html"><![CDATA[[OSEN=최이정 기자]&nbsp;카리스마를 뽐내는 배우 박시후의 스틸컷이 공개됐다. 영화 '신의악단'(감독 김형협, 제작 스튜디오타깃(주))이 최근 크랭크인 소식을 알린데 이어 스틸컷을 선보였다.&nbsp; 공개된 사진 속 박시후는 북한군 장교로 파격 변신한 모습으로 시선을 강탈한다. 그는 단정한 헤어스타일에 선글라스를 착용하고 카리스마 넘치는 연기를 펼쳐 보이고 있다]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘핸섬가이즈’ 이성민·이희준 콤비에 박지환까지‥올여름 개봉]]></title>
-        <id>https://v.daum.net/v/20240416100757512</id>
-        <link href="https://v.daum.net/v/20240416100757512"/>
-        <updated>2024-04-16T01:45:22.640Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 배효주 기자] 이성민, 이희준, 공승연, 박지환, 이규형 출연 '핸섬가이즈'가 여름 개봉한다. 영화 '핸섬가이즈'(감독 남동협)는 한 번 보면 절대 잊을 수 없는 ‘재필’과 ‘상구’가 전원생활을 꿈꾸며 새집으로 이사 온 날, 지하실에 봉인됐던 비밀이 깨어나며 벌어지는 고자극 오싹 코미디. 이성민이 터프가이 ‘재필’로 분한다. 이희준이 그와 언제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[더 세졌다..'범죄도시4', 또 증명한 '장르가 마동석']]></title>
-        <id>https://v.daum.net/v/20240416100001092</id>
-        <link href="https://v.daum.net/v/20240416100001092"/>
-        <updated>2024-04-16T01:45:22.640Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 | 김나연 기자] 범죄도시4 / 사진=에이비오엔터테인먼트"이유가 있지 않겠어?" 한국영화 시리즈 사상 최초, 누적 관객 수 삼천만이라는 전무후무한 기록을 세운 '범죄도시'가 4편까지 독보적인 액션과 유머로 가득 채우며 시리즈의 존재 이유를 증명했다. 마동석의 더 세진 펀치와 강렬한 재미가 관객들의 마음을 싹 쓸어버릴 준비를 마쳤다. '범죄도]]></content>
     </entry>
 </feed>
