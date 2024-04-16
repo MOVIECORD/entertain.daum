@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-04-16T09:11:32.437Z</updated>
+    <updated>2024-04-16T10:12:22.204Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['그날의 진실은?' 주원X권나라, 충격적 사실 알게된다]]></title>
+        <id>https://v.daum.net/v/20240416191104977</id>
+        <link href="https://v.daum.net/v/20240416191104977"/>
+        <updated>2024-04-16T10:12:07.792Z</updated>
+        <content type="html"><![CDATA[[동아닷컴] ‘야한(夜限) 사진관’이 주원X권나라를 충격에 빠트릴 새로운 사실이 드러난다고 예고했다. 살인사건의 진실을 좇고 있는 이들이 어떤 퍼즐을 맞출지 궁금증이 높아진다. 지니 TV 오리지널 ‘야한(夜限) 사진관’(연출 송현욱, 극본 김이랑, 기획 KT스튜디오지니, 제작 슬링샷 스튜디오, 씨제스 스튜디오)의 지난 방송에서 서기주(주원), 한봄(권나라]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김수현 재산 많을수록 시청률도?...'눈물의 여왕' 잘 나가는 이유]]></title>
         <id>https://v.daum.net/v/20240416181003387</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240416150726277"/>
         <updated>2024-04-16T06:14:07.792Z</updated>
         <content type="html"><![CDATA[[OSEN=박소영 기자] MBC&nbsp;새&nbsp;금토드라마&nbsp;‘우리,&nbsp;집’이 단란한 가족사진 속 의문스런 미스터리를 증폭시킨&nbsp;‘티저 포스터’를 전격 공개했다. 오는&nbsp;5월&nbsp;24일(금)&nbsp;밤&nbsp;9시&nbsp;50분 첫 방송되는&nbsp;MBC&nbsp;새&nbsp;금토드라마&nbsp;‘우리,&nbsp;집’(기획 권성창&nbsp;/&nbsp;연출 이동현,&nbsp;위득규&nbsp;/&nbsp;극본 남지연&nbsp;/&nbsp;제작 레드라인픽쳐스)은 자타 공인 대한민국 최고의 가정 심리 상담]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[윤다훈, 아들 김종훈에게 사기 사건 들켰다]]></title>
-        <id>https://v.daum.net/v/20240416144701050</id>
-        <link href="https://v.daum.net/v/20240416144701050"/>
-        <updated>2024-04-16T06:14:07.793Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 | 김수진 기자] '수지맞은 우리' 함은정의 머릿속이 복잡해졌다. 15일 방송된 KBS 1TV 일일드라마 '수지맞은 우리'(연출 박기현 / 극본 남선혜 / 제작 몬스터유니온, 삼화네트웍스) 15회에서는 진수지(함은정 분)와 한현성(신정윤 분), 채선영(오현경 분)과 강우창(임호 분)이 각각 엇갈린 마음으로 향후 전개에 불을 지폈다. 이날 방]]></content>
     </entry>
 </feed>
