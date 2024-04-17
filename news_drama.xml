@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-04-17T09:12:40.438Z</updated>
+    <updated>2024-04-17T10:12:44.320Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[박은빈, 천재 의사 된다..'하이퍼 나이프' 출연 확정]]></title>
+        <id>https://v.daum.net/v/20240417190921227</id>
+        <link href="https://v.daum.net/v/20240417190921227"/>
+        <updated>2024-04-17T10:12:31.990Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 | 윤성열 기자] /사진제공=나무엑터스 배우 박은빈이 드라마 '하이퍼 나이프' 출연을 확정했다. 17일 소속사 나무엑터스에 따르면 박은빈은 '하이퍼 나이프(가제)'(극본 김선희, 연출 김정현, 제작 CJ ENM·스튜디오스 블라드스튜디오·주식회사 동풍)에 캐스팅됐다. '하이퍼 나이프'는 과거 촉망받던 천재 의사인 정세옥(박은빈 분)이 자신을]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[연기도, 스토리도 좋은데…'야한 사진관', 플랫폼 고집에 희생되나]]></title>
+        <id>https://v.daum.net/v/20240417183003213</id>
+        <link href="https://v.daum.net/v/20240417183003213"/>
+        <updated>2024-04-17T10:12:31.993Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 이창규 기자)&nbsp;지니TV 오리지널 시리즈이자 ENA 월화 드라마 '야한(夜限) 사진관'이 초반의 화제성을 이어가지 못하며 안타까움을 안긴다. 지난&nbsp;16일 방송된 '야한 사진관' 11회는 2.1%의 시청률을 기록했다. 경쟁작인 KBS 2TV '멱살 한번 잡힙시다'는 3.4%의 시청률로 방송 후 두 번째로 높은 시청률을 기록한 것과는 대조적이다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['삼식이 삼촌' 송강호, 34년만에 첫 드라마..이유있는 변신]]></title>
         <id>https://v.daum.net/v/20240417180058403</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240417151159487"/>
         <updated>2024-04-17T06:16:36.592Z</updated>
         <content type="html"><![CDATA[[OSEN=장우영 기자] 지니 TV 오리지널 ‘야한(夜限) 사진관’(연출 송현욱, 극본 김이랑, 기획 KT스튜디오지니, 제작 슬링샷 스튜디오, 씨제스 스튜디오)이 거대 미스터리를 터뜨리며 후반부에 돌입했다. 지난 방송에 따르면, 모든 사건은 한봄(권나라) 부모의 목숨을 앗아간 장진 터널 사고에서부터 시작됐다. 별장 살인사건의 피해자 강형일과 조성태, 그]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['원더풀 월드' 작가 "차은우, 이렇게까지?…잠재력 무궁무진해" ②]]></title>
-        <id>https://v.daum.net/v/20240417145752921</id>
-        <link href="https://v.daum.net/v/20240417145752921"/>
-        <updated>2024-04-17T06:16:36.593Z</updated>
-        <content type="html"><![CDATA[(사진=MBC ‘원더풀 월드’)[이데일리 스타in 최희재 기자] “밑바닥 인생을 그려낼 수 없을 것 같은 외모로 거친 권선율이라는 캐릭터를 그려냈습니다.” MBC 금토드라마 ‘원더풀 월드’ 김지은 작가가 작품 종영을 기념해 진행한 서면 인터뷰를 통해 배우 차은우에게 고마움을 전했다. 지난 13일 막을 내린 ‘원더풀 월드’는 아들을 죽인 살인범을 직접 처단]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘수사반장’ 이제훈 “낯선 시대 완벽 구현, 촬영하면서도 신기했다”]]></title>
-        <id>https://v.daum.net/v/20240417145410754</id>
-        <link href="https://v.daum.net/v/20240417145410754"/>
-        <updated>2024-04-17T06:16:36.593Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 박수인 기자] ‘수사반장 1958’ 배우들이 관전포인트를 공개했다. 4월 19일 첫 방송되는 MBC 새 금토드라마 ‘수사반장 1958’(기획 장재훈, 홍석우/연출 김성훈/극본 김영신/크리에이터 박재범/제작 ㈜바른손스튜디오)은 한국형 수사물의 역사를 쓴 ‘수사반장’ 프리퀄로, 박영한(이제훈 분) 형사가 서울에 부임한 1958년을 배경으로 시작된다.]]></content>
     </entry>
 </feed>
