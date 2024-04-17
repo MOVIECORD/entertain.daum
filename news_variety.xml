@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/variety</id>
     <title>다음 연예 ─ 뉴스 ─ 예능</title>
-    <updated>2024-04-17T10:12:44.304Z</updated>
+    <updated>2024-04-17T11:10:36.621Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[장영란, 화났다..딸·아들과 유럽 여행서 단호한 예절 교육]]></title>
+        <id>https://v.daum.net/v/20240417194420209</id>
+        <link href="https://v.daum.net/v/20240417194420209"/>
+        <updated>2024-04-17T11:10:27.020Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 | 정은채 기자] /사진='A급 장영란' 방송화면 캡쳐방송인 장영란이  자녀들에 단단히 화가 났다. 17일 유튜브 채널 'A급 장영란'에는 '긴급상황! 장영란이 진짜 화났을 때 나오는 목소리 (이탈리아 여행)'라는 제목의 영상이 공개됐다. 이탈리아로 출국 당일, 장영란은 자녀들에게 "저는 솔직히 말하면 이탈리아에서 볼 건 두 개밖에 없다. 지]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NCT 도영, '푹다행' 첫방 출연 "스튜디오 게스트 등장"]]></title>
+        <id>https://v.daum.net/v/20240417191928533</id>
+        <link href="https://v.daum.net/v/20240417191928533"/>
+        <updated>2024-04-17T11:10:27.020Z</updated>
+        <content type="html"><![CDATA[[OSEN=연휘선 기자] NCT 멤버 도영이 '푹 쉬면 다행이야'에 출연한다.&nbsp; 17일 MBC 새 예능 '푹 쉬면 다행이야(약칭 푹다행)' 관계자는 OSEN에 "NCT 멤버 도영이 '푹다행'에 스튜디오 게스트로 출연한다. 첫 방송에 등장할 예정이다"라고 공식입장을 밝혔다.&nbsp; '푹다행'은 '안 싸우면 다행이야(약칭 안다행)'로 사랑받은 안정환과 제작진이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[변우석, 얼마나 다정하길래…김혜윤 쓰다듬다 꿀 '뚝뚝']]></title>
         <id>https://v.daum.net/v/20240417190602100</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240417164432538"/>
         <updated>2024-04-17T08:14:03.838Z</updated>
         <content type="html"><![CDATA[[뉴스엔 김명미 기자] NCT 도영이 '푹 쉬면 다행이야'에 출연한다. MBC 새 예능프로그램 '푹 쉬면 다행이야'(이하 푹다행) 측 관계자는 4월 17일 뉴스엔에 "도영이 '푹다행' 스튜디오 게스트로 출연한다"고 밝혔다. '푹다행'은 '섬통령' 안정환이 무인도 폐가를 고쳐 시청자를 초대하는 0.5성급 무인도 체크인 리얼리티다. 이는 '내손내잡'(내 손으]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘유정♥’ 이규한 “왕년에 클러버 출신” 과거사 셀프 소환]]></title>
-        <id>https://v.daum.net/v/20240417161101039</id>
-        <link href="https://v.daum.net/v/20240417161101039"/>
-        <updated>2024-04-17T07:11:43.322Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 박수인 기자] 배우 이규한과 이유진이 '다시갈지도' 스페셜 MC와 여행친구로 동시 출격한다. 4월 18일 방송되는 채널S ‘다시갈지도’는 '한 달 살기 배틀' 특집으로, 먹거리와 볼거리, 즐길거리 뿐만 아니라 현지 바이브까지 완벽한 '한 달 살기의 성지'들을 소개할 예정이다. 이중 여행 크리에이터 꽃언니가 '힐링 홀리데이 호주 시드니', 연국이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[부활한 지 반년 '개콘', 시청률만으로 다시 내쳐져서는 안 되는 이유]]></title>
-        <id>https://v.daum.net/v/20240417155918523</id>
-        <link href="https://v.daum.net/v/20240417155918523"/>
-        <updated>2024-04-17T07:11:43.323Z</updated>
-        <content type="html"><![CDATA[[엔터미디어=최영균의 듣보잡('듣'고 '보'고 '잡'담하기)] KBS &lt;개그콘서트&gt;(이하 '개콘')가 부활 후 방송 반년을 앞두고 있다. &lt;개콘&gt;은 폐지된 지 3년 만인 지난해 11월, 공개 코미디의 명맥을 이어야 한다는 대의를 앞세워 새롭게 돌아왔다. 하락세 심화를 이유로 2020년 방송을 접었다가 2023년 공개 코미디로 마지막까지 남았던 tvN &lt;코미]]></content>
     </entry>
 </feed>
