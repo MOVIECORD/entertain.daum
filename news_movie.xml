@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2024-04-18T20:12:31.825Z</updated>
+    <updated>2024-04-18T21:10:14.504Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘범죄도시4’ 더 벌크업한 마동석의 진심 펀치, 확실한 권선징악 맛집]]></title>
+        <id>https://v.daum.net/v/20240419060415394</id>
+        <link href="https://v.daum.net/v/20240419060415394"/>
+        <updated>2024-04-18T21:09:54.152Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 배효주 기자] '범죄도시4'가 올해 두 번째 천만 등극을 노린다. 프랜차이즈 단골들이 익숙하지만 그래서 더 좋은 '아는 맛'을 찾아 극장으로 집결할 전망이다. 4월 24일 개봉하는 영화 '범죄도시4'(감독 허명행)는 온라인 도박 사이트를 운영하는 빌런과, 이를 소탕하는 괴물형사 '마석도'(마동석) 및 서울 광수대를 그린다. 이들은 배달앱을 이용한]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[마동석, ♥예정화와 뒤늦은 결혼식…"의미 없었지만, 부모님 위해서"]]></title>
         <id>https://v.daum.net/v/20240418205002681</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240418163021631"/>
         <updated>2024-04-18T08:14:43.678Z</updated>
         <content type="html"><![CDATA[[SBS 연예뉴스 | 김지혜 기자] 박찬욱 감독이 미국 드라마 '동조자'를 연출하면서 로버트 다우니 주니어에게 1인 4역을 맡긴 것은 자신의 아이디어였다고 밝혔다. 18일 오후 서울 코엑스 메가박스에서 열린 '동조자' 기자간담회에 참석한 박찬욱 감독은 로버트 다우니 주니어에 관한 질문을 받자 "로버트 다우니 주니어도 자기가 한국에서 '로다주'로 불리는 걸]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘동조자’ 박찬욱 감독 “로다주, 1인 4역 가능한 능력있는 배우”]]></title>
-        <id>https://v.daum.net/v/20240418162937585</id>
-        <link href="https://v.daum.net/v/20240418162937585"/>
-        <updated>2024-04-18T08:14:43.679Z</updated>
-        <content type="html"><![CDATA[박찬욱 감독이 OTT플랫폼 쿠팡플레이 독점 HBO 오리지널 리미티드 시리즈 ‘동조자’서 할리우드 배우 로버트 다우니 주니어(이하 로다주)를 캐스팅한 이유를 밝혔다. 박찬욱 감독은 18일 오후 서울 강남구 메가박스 코엑스점에서 진행된 ‘동조자’ 기자간담회에서 로다주에게 캐스팅 제안을 보낸 이유로 “훌륭한 배우가 많지만 1인 4역을 해낼 수 있는 백인 중]]></content>
     </entry>
 </feed>
