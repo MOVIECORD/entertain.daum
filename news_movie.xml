@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2024-04-19T06:14:57.590Z</updated>
+    <updated>2024-04-19T07:12:44.872Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['범죄도시4'→'리볼버'·'HOPE'..플러스엠, 콘텐츠 라인업 11편 공개]]></title>
+        <id>https://v.daum.net/v/20240419152236197</id>
+        <link href="https://v.daum.net/v/20240419152236197"/>
+        <updated>2024-04-19T07:12:25.499Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 | 김나연 기자] 사진=플러스엠엔터테인먼트플러스엠 엔터테인먼트가 향후 선보일 콘텐트 라인업 영상을 공개했다. 19일 오전 공개된 플러스엠 엔터테인먼트의 영상은 지난해 1312만 관객을 모은 '서울의 봄'의 한 장면으로 시작된다. 이어 '당신의 심장을 뛰게 할 플러스엠의 새로운 콘텐트'라는 카피와 함께 관객의 가슴을 또 한 번 두근거리게 만들 신]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["흥행 조짐" 오나라·윤균상, 나문희 자녀된다…'점례는 나의 빛' 출연]]></title>
         <id>https://v.daum.net/v/20240419151131858</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240419132446276"/>
         <updated>2024-04-19T05:11:06.907Z</updated>
         <content type="html"><![CDATA[배우 배두나가 영화 ‘레벨 문2’를 위해 다양한 트레이닝을 받았다고 했다. 19일 오전 서울 명동에서 넷플릭스 영화 ‘레벨문: 파트2 스카기버’에 출연한 배두나의 기자간담회가 열렸다. ‘Rebel Moon(레벨 문)’은 평화로운 변방 행성에 지배 세력의 군단이 위협을 가하자 신분을 숨기고 마을에서 조용히 살던 이방인 코라와 여러 행성의 아웃사이더 전]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[범죄도시4·리볼버·HOPE… 플러스엠, 콘텐츠 라인업 11편 영상 공개]]></title>
-        <id>https://v.daum.net/v/20240419130317795</id>
-        <link href="https://v.daum.net/v/20240419130317795"/>
-        <updated>2024-04-19T04:13:12.707Z</updated>
-        <content type="html"><![CDATA[(사진=플러스엠엔터테인먼트)[이데일리 스타in 윤기백 기자] 플러스엠엔터테인먼트(대표 홍정인)가 향후 선보일 콘텐트 라인업 영상을 공개했다. 19일 오전 공개된 플러스엠엔터테인먼트의 영상은 지난해 1312만 관객을 모은 ‘서울의 봄’의 한 장면으로 시작된다. 이어 ‘당신의 심장을 뛰게 할 플러스엠의 새로운 콘텐트’라는 카피와 함께 관객의 가슴을 또 한 번]]></content>
     </entry>
 </feed>
