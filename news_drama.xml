@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-04-19T18:13:32.363Z</updated>
+    <updated>2024-04-19T19:10:02.375Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘멱살 한번 잡힙시다’ 김하늘, 위기에서 벗어날까? 도파민 터질 후반 포인트3]]></title>
+        <id>https://v.daum.net/v/20240420040010700</id>
+        <link href="https://v.daum.net/v/20240420040010700"/>
+        <updated>2024-04-19T19:09:46.915Z</updated>
+        <content type="html"><![CDATA[[동아닷컴] 사진 제공 : KBS 2TV 월화드라마 &lt;멱살 한번 잡힙시다&gt;후반부에 접어든 KBS2 월화드라마 ‘멱살 한번 잡힙시다’가 새로운 국면을 마주한 가운데 더욱 박진감 넘치는 전개를 예고했다. ‘멱살 한번 잡힙시다’(연출 이호, 이현경 / 극본 배수영)는 김태헌(연우진 분)과 공조하며 사건의 진실에 점차 다가서는 서정원(김하늘 분)의 여정을 박진감]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[명세빈 밀회 상대 포착, 대비의 과감한 스킨십]]></title>
         <id>https://v.daum.net/v/20240420030009519</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240419223705811"/>
         <updated>2024-04-19T14:10:46.965Z</updated>
         <content type="html"><![CDATA[(엑스포츠뉴스 오수정 기자) '7인의 부활'에서 윤태영이 황정음의 정체를 알아챘다.&nbsp; 19일 방송된 SBS 금토드라마 '7인의 부활' 7회에서는 금라희(황정음 분)와 만난 강기탁(윤태영)의 모습이 그려졌다.&nbsp; 이날 강기탁은 금라희에게 "무슨 생각인거야. 너 설마, 그날 다미 영상 본거야? K가 가지고 있던 그 아이의 마지막 모습?"이라고 물었고, 금라희는]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘수사반장 1958’ 이제훈, 최불암 손자였다 "사랑해요 할아버지"]]></title>
-        <id>https://v.daum.net/v/20240419223101772</id>
-        <link href="https://v.daum.net/v/20240419223101772"/>
-        <updated>2024-04-19T14:10:46.965Z</updated>
-        <content type="html"><![CDATA[[OSEN=연휘선 기자] ‘수사반장 1958’에서 이제훈과 최불암이 만났다. 19일 밤 MBC 새 금토드라마 ‘수사반장 1958’(약칭 수사반장)이 첫 방송됐다.&nbsp; ‘수사반장’ 1회에서는 ‘국민배우’ 최불암이 등장해 시선을 모았다. 노년이 된 ‘수사반장’, 황혼이 된 한국의 콜롬보 박영한 반장이었다.&nbsp; 그는 지팡이를 짚고 백발의 노인이 돼서도 종남경찰서]]></content>
     </entry>
 </feed>
