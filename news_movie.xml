@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2024-04-19T23:12:59.288Z</updated>
+    <updated>2024-04-20T00:48:56.189Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘쿵푸팬더4’ 100만 돌파! ‘범죄도시4’ 예매율 1위]]></title>
+        <id>https://v.daum.net/v/20240420093901580</id>
+        <link href="https://v.daum.net/v/20240420093901580"/>
+        <updated>2024-04-20T00:48:40.156Z</updated>
+        <content type="html"><![CDATA[애니메이션 영화 ‘쿵푸팬더4’가 개봉 11일째인 20일 100만 관객을 돌파했다. 드림웍스 최고 흥행 시리즈 ‘쿵푸팬더4’가 10일 연속 박스오피스 1위를 차지했다. 20일 영화관입장권 통합전산망에 따르면 오전 8시 기준 100만 관객을 돌파했다. 이는 ‘엘리멘탈’(2023)이 개봉 11일째 100만 관객을 돌파한 흥행 속도와 동일하다. ‘더 퍼스트 슬램덩]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[찌질한데 멋있는 라이언 고슬링의 마력…영화 '스턴트맨']]></title>
         <id>https://v.daum.net/v/20240420080141578</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240419140712720"/>
         <updated>2024-04-19T05:11:06.901Z</updated>
         <content type="html"><![CDATA[[스타뉴스 | 이태원=김나연 기자] [서울=뉴시스] 김혜진 기자 = 배우 전성우(왼쪽부터), 안은진, 김윤혜가 19일 오후 서울 용산구 몬드리안 서울에서 열린 넷플릭스 '종말의 바보' 제작발표회에서 포즈를 취하고 있다. 2024.04.19. jini@newsis.com /사진=김혜진[서울=뉴시스] 김혜진 기자 = 김진민 감독(왼쪽부터),배우 전성우, 안은진]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['종말의 바보' 김진민 감독 "유아인 재편집, 돌 맞을 작품은 아닐 것"]]></title>
-        <id>https://v.daum.net/v/20240419140140535</id>
-        <link href="https://v.daum.net/v/20240419140140535"/>
-        <updated>2024-04-19T05:11:06.901Z</updated>
-        <content type="html"><![CDATA[(MHN스포츠 장민수 기자) 넷플릭스 '종말의 바보' 공개를 앞둔 김진민 감독이 배우 유아인의 이슈로 인한 재편집 과정에 대해 직접 설명했다. 19일 오후 몬드리안 서울 이태원에서 넷플릭스 시리즈 '종말의 바보' 제작발표회가 진행됐다. 이날은 김진민 감독과 배우 안은진, 전성우, 김윤혜가 참석했다. '종말의 바보'는 지구와 소행성 충돌까지 D-]]></content>
     </entry>
 </feed>
