@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-04-21T02:23:05.273Z</updated>
+    <updated>2024-04-21T03:12:11.552Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['선업튀' 변우석♥김혜윤 보고도 안 설렌다면 유죄]]></title>
+        <id>https://v.daum.net/v/20240421113710348</id>
+        <link href="https://v.daum.net/v/20240421113710348"/>
+        <updated>2024-04-21T03:11:57.738Z</updated>
+        <content type="html"><![CDATA[[OSEN=장우영 기자] ‘선재 업고 튀어’가 매회 설렘을 폭발시키는 미친 엔딩으로 ‘엔딩 맛집’ 타이틀을 획득하며 시청자의 가슴에 불을 지피고 있다. tvN 월화드라마 ‘선재 업고 튀어’(극본 이시은, 연출 윤종호 김태엽, 기획 CJ ENM 스튜디오스, 제작 본팩토리)가 복수가 아닌 구원의 타임슬립, 15년을 거슬러 올라가 2008년에서 맞닥뜨리는 레]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김수현♥김지원 사랑의 서사…dori, '눈물의 여왕' OST 참여]]></title>
         <id>https://v.daum.net/v/20240421112057136</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240421094102634"/>
         <updated>2024-04-21T00:52:19.520Z</updated>
         <content type="html"><![CDATA[[서울경제] 사랑하는 사람과 추억을 모두 지키고자 온 힘을 다해 버티는 김수현과 김지원의 노력이 시청자들을 울리고 있다. 지난 20일 방송된 tvN 토일드라마 ‘눈물의 여왕’(극본 박지은·연출 장영우, 김희원) 13회에서는 백현우(김수현)와 홍해인(김지원)이 삶을 얻기 위해 소중했던 기억을 잃어야 한다는 잔인한 선택의 기로에서 팽팽하게 맞서 안타까움을 안]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[황정음, 사망했다…딸 학대 영상 공개에 여론 '들썩']]></title>
-        <id>https://v.daum.net/v/20240421092803464</id>
-        <link href="https://v.daum.net/v/20240421092803464"/>
-        <updated>2024-04-21T00:52:19.522Z</updated>
-        <content type="html"><![CDATA[[텐아시아=태유나 기자] 황정음이 8회 만에 이준을 살리고 최후를 맞이했다. 지난 20일 방송된 SBS 금토드라마 ‘7인의 부활’ 8회에서는 금라희(황정음 분)가 설계한 지하감옥에서 혈투를 벌이는 ‘악’의 공동체의 모습이 그려졌다. 황찬성(이정신 분)의 배신으로 금라희의 복수 계획은 모두 물거품이 됐고, 끝내 금라희는 민도혁(이준 분)을 살려내고 죽음]]></content>
     </entry>
 </feed>

@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2024-04-21T02:23:05.278Z</updated>
+    <updated>2024-04-21T03:12:11.564Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[쇼박스 "'파묘', 실제 동물 사체 사용" vs 카라 "난도질 합당치 않아"]]></title>
+        <id>https://v.daum.net/v/20240421115811663</id>
+        <link href="https://v.daum.net/v/20240421115811663"/>
+        <updated>2024-04-21T03:11:53.433Z</updated>
+        <content type="html"><![CDATA[[티브이데일리 김지현 기자] 동물권단체 카라는 지난 20일 ‘파묘’ 제작사인 쇼박스에 동물 촬영 관련 질의서에 대한 답변을 받았다고 밝혔다. 카라는 지난달 12일 쇼박스에 ‘영화 촬영에 살아있는 동물이 사용됐는지’ ‘돼지 사체 5구에 칼을 찌르는 장면에 실체 사체를 사용했는지’ ‘실제 동물이 출연했다면 어디에서 섭외됐는지’ 등을 묻는 7개 사항의 질의를 요]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['돌핀' 권유리 "과거 영광에만 집착했다면 지금의 저는 없었겠죠"]]></title>
+        <id>https://v.daum.net/v/20240421113050263</id>
+        <link href="https://v.daum.net/v/20240421113050263"/>
+        <updated>2024-04-21T03:11:53.437Z</updated>
+        <content type="html"><![CDATA[[스포츠한국 모신정 기자] '소원을 말해봐'와 'GEE'를 부르며 시대를 풍미했던 소녀시대 속 발랄하고 화려했던 모습은 잠시 감춰뒀지만 세상을 향한 더 뜨거운 호기심과 인생에 대한 깊은 성찰은 덤덤한 듯 하면서도 단단한 그녀의 말투 속에서 조금씩 삐져 나왔다. 지난달 개봉한 영화 '돌핀'에서 단독 주연을 맡아 예측하지 못한 삶의 변화 앞에 놓이지만]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[홍세화가 경고한 '야만의 시대', 어떻게 살고있나요?]]></title>
         <id>https://v.daum.net/v/20240421111200975</id>
@@ -67,12 +81,5 @@
         <link href="https://v.daum.net/v/20240420142928149"/>
         <updated>2024-04-20T06:12:54.814Z</updated>
         <content type="html"><![CDATA[[티브이데일리 이기은 기자] '쿵푸팬더4'(수입배급 유니버설 픽쳐스)가 100만 관객을 돌파했다. 드림웍스 대형 흥행 시리즈 '쿵푸팬더4'가 10일 연속 박스오피스 1위를 이어가고 있다. 영화관입장권 통합전산망에 따르면 20일 오전 8시 기준, 개봉 11일째 100만 관객을 돌파한 상태다. 이와 같은 흥행 속도는 724만 관객을 동원한 애니메이션 '엘리멘탈]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["아는 맛이 더 무섭다지만"…'범죄도시4', 친숙함과 뻔함 그 사이]]></title>
-        <id>https://v.daum.net/v/20240420115328898</id>
-        <link href="https://v.daum.net/v/20240420115328898"/>
-        <updated>2024-04-20T03:12:36.999Z</updated>
-        <content type="html"><![CDATA[[스포츠조선 안소윤 기자] 괴물 형사로 돌아온 마동석이 '범죄도시4'로 1년만에 극장가의 문을 두드린다. 하지만 시리즈 도합 3000만 명이란 대기록을 세운 흥행작인 만큼, 기대가 컸던 탓일까. 이전과 다른 새로움을 주기보다는 익숙한 지름길을 택해 많은 아쉬움을 남기고 있다. '범죄도시4'는 괴물형사 마석도가 대규모 온라인 불법 도박 조직을]]></content>
     </entry>
 </feed>
