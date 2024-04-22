@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/variety</id>
     <title>다음 연예 ─ 뉴스 ─ 예능</title>
-    <updated>2024-04-22T03:12:31.740Z</updated>
+    <updated>2024-04-22T04:13:36.233Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[홍현희 “♥제이쓴과 연애시절 섬에서 배 끊겨, 사실 다 계획했다”]]></title>
+        <id>https://v.daum.net/v/20240422124333351</id>
+        <link href="https://v.daum.net/v/20240422124333351"/>
+        <updated>2024-04-22T04:13:26.724Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 박수인 기자] '세모집'이 만 평 규모의 헉 소리 나는 집 임장을 예고했다. 4월 23일 방송되는 TV CHOSUN '세모집-세상의 모든 집'에서는 슈퍼리치 억만장자들이 소유한 격이 다른 섬으로 임장을 떠난다. 먼저 ‘글로벌 랜선 임장’ 코너에서는 독특한 볼거리를 소유한 라나이섬부터 최적의 휴양지 라우칼라섬, 300여 종의 희귀동물들이 서식하는]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[동진X다혜 13년 뒤로한 이별→유정♥창진 재회 ‘환승연애3’ 최종선택 보니]]></title>
+        <id>https://v.daum.net/v/20240422123427219</id>
+        <link href="https://v.daum.net/v/20240422123427219"/>
+        <updated>2024-04-22T04:13:26.724Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 박수인 기자] '환승연애3'가 대단원의 막을 내렸다. 지난주 티빙 오리지널 '환승연애3'의 최종화에서는 환승러 12인의 최종 선택이 모두 공개되었다. 가장 먼저 하우스를 나선 종은과 광태는 평소와 사뭇 다른 적막 속에 최종 선택 장소, 환승 정거장에 도착했다. “너의 행복을 응원한다”고 담백한 인사로 광태를 보내준 종은은 눈물과 함께 “사랑한다고]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['MVP' 강훈, 공석된 '런닝맨' 영입되나..임대자리 제안]]></title>
         <id>https://v.daum.net/v/20240422120919804</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240422110020916"/>
         <updated>2024-04-22T02:22:49.187Z</updated>
         <content type="html"><![CDATA[[OSEN=유수연 기자] 지난주 티빙 오리지널 &lt;환승연애3&gt;의 최종화에서는 환승러 12인의 최종 선택이 모두 공개되었다. 가장 먼저 하우스를 나선 종은과 광태는 평소와 사뭇 다른 적막 속에 최종 선택 장소, 환승 정거장에 도착했다.&nbsp;“너의 행복을 응원한다”고 담백한 인사로 광태를 보내준 종은은 눈물과 함께&nbsp;“사랑한다고 전해주고 싶어요”라는 뒤늦은 속마음]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘이다인♥’ 이승기 “아기 보고 있어요” 2개월차 딸바보 근황]]></title>
-        <id>https://v.daum.net/v/20240422105525680</id>
-        <link href="https://v.daum.net/v/20240422105525680"/>
-        <updated>2024-04-22T02:22:49.188Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 장예솔 기자] 가수 겸 배우 이승기의 딸바보 근황이 공개됐다. 4월 21일 방송된 SBS '미운 우리 새끼'에서는 은지원이 절친 이수근과 만난 모습이 그려졌다. 이날 은지원과 이수근은 낚시 후 라면으로 허기를 달랬다. 이수근은 첫째 아들이 고등학교 1학년이라며 "키가 나보다 크다. 태명이 일박이었다. 당시 혼전 임신이 좋은 이미지는 아니었다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[비와이, 6개월만 12억 벌더니…명품 가득+탁 트인 한강뷰 집]]></title>
-        <id>https://v.daum.net/v/20240422105004418</id>
-        <link href="https://v.daum.net/v/20240422105004418"/>
-        <updated>2024-04-22T01:52:16.936Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 정민경 기자) '슈퍼맨이 돌아왔다' 비와이가 한강뷰 집을 공개했다. 지난 21일 방송된 KBS 2TV '슈퍼맨이 돌아왔다'(이하 '슈돌') 522회는 'YO~!! 힙합 베이비가 나타났다' 편으로 꾸며졌다. 래퍼 비와이는 '쇼미더머니5' 우승 후 6개월 만에 12억을 벌 만큼 뜨거운 인기를 자랑한 바 있다. 이날 방송에서 비와이는 공연 시즌을]]></content>
     </entry>
 </feed>
