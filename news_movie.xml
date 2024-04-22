@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2024-04-22T21:10:08.639Z</updated>
+    <updated>2024-04-22T22:12:19.368Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['파묘', 또 정상 재탈환…누적 1179만↑]]></title>
+        <id>https://v.daum.net/v/20240423071007357</id>
+        <link href="https://v.daum.net/v/20240423071007357"/>
+        <updated>2024-04-22T22:11:57.762Z</updated>
+        <content type="html"><![CDATA[(서울=뉴스1) 김민지 기자 = 영화 '파묘'(감독 장재현)가 정상을 재탈환했다. 24일 영화진흥위원회 영화관입장권 통합전산망 집계에 따르면, '파묘'는 23일 하루 동안 1만 3534명의 관객을 동원하며 박스오피스 1위 자리를 지켰다. 누적 관객 수는 1179만 8653명이다. 지난 2월 22일 개봉한 '파묘'는 개봉 첫날 박스오피스 1위로 직행했으며]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[박지환, 결혼식 다음날 ‘범죄도시4’ 무대인사‥삼천만 흥행에 진심]]></title>
         <id>https://v.daum.net/v/20240423060006231</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240422162708752"/>
         <updated>2024-04-22T08:14:58.144Z</updated>
         <content type="html"><![CDATA[[뉴스엔 배효주 기자] '데드풀과 울버린'이 7월 24일 극장 개봉한다. 월드와이드 15억 6천만 달러 흥행 수익 기록, 국내 마블 청불 영화 역대 최대 오프닝 스코어 달성 등 R등급 히어로 영화의 새 역사를 쓴 '데드풀' 시리즈의 세 번째 이야기 '데드풀과 울버린'(감독 숀 레비)이 오는 7월 24일 극장 개봉을 확정했다. 공개된 2차 티저 포스터는]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['파묘'가 세운 최고·최초·최장의 기록들…천만 레이스는 진행 중]]></title>
-        <id>https://v.daum.net/v/20240422162101513</id>
-        <link href="https://v.daum.net/v/20240422162101513"/>
-        <updated>2024-04-22T08:14:58.145Z</updated>
-        <content type="html"><![CDATA[[SBS 연예뉴스 | 김지혜 기자] 오컬트 장르의 새로운 역사를 쓰고 있는 영화 '파묘'가 올해 세운 흥행 기록들을 공개했다. '파묘'는 거액의 돈을 받고 수상한 묘를 이장한 풍수사와 장의사, 무속인들에게 벌어지는 기이한 사건을 담은 오컬트 미스터리 영화. 지난 2월 22일 개봉한 '파묘'는 개봉 32일 만에 전국 1,000만 관객을 돌파했으며, 40일 만]]></content>
     </entry>
 </feed>
