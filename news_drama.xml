@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-04-22T02:22:58.695Z</updated>
+    <updated>2024-04-22T03:12:31.731Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[원셋, '수지맞은 우리' OST 참여..오늘 'Loving You' 발매]]></title>
+        <id>https://v.daum.net/v/20240422115306242</id>
+        <link href="https://v.daum.net/v/20240422115306242"/>
+        <updated>2024-04-22T03:12:19.749Z</updated>
+        <content type="html"><![CDATA[[OSEN=장우영 기자] 그룹 원셋(1set)이 ‘수지맞은 우리’ OST로 감동을 극대화한다. 22일 낮 12시 각종 온라인 음원사이트를 통해 원셋(예진, 후아유)이 참여한 KBS1 일일드라마 ‘수지맞은 우리’ OST ‘Loving You(러빙 유)’가 발매된다. ‘Loving You’는 한 번 들으면 귓가에 맴도는 멜로디가 돋보이는 곡으로, ‘왜 이렇]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[박지은, 웃음 나는 흥행..김순옥-김사경 부진 '★작가 희비교차']]></title>
+        <id>https://v.daum.net/v/20240422112807425</id>
+        <link href="https://v.daum.net/v/20240422112807425"/>
+        <updated>2024-04-22T03:12:19.753Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 | 이경호 기자] 주말 안방극장에 출격했던 스타 작가들의 희비가 교차했다. 2024년 상반기 금토, 토일, 주말 등 지상파와 케이블 안방극장은 스타 작가의 귀환으로 관심이 뜨거웠다. tvN 토일드라마 '눈물의 여왕'의 박지은 작가, SBS 금토드라마 '7인의 부활'의 김순옥 작가, KBS 2TV 주말드라마 '미녀와 순정남'의 김사경 작가 등]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘눈물의 여왕’ 거침 없는 시청률 상승세...‘사랑의 불시착’ 뛰어 넘을까 ‘관심집중’]]></title>
         <id>https://v.daum.net/v/20240422110605291</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240422094300164"/>
         <updated>2024-04-22T00:50:19.674Z</updated>
         <content type="html"><![CDATA[[스타뉴스 | 이경호 기자] tvN 토일드라마 '눈물의 여왕'의 김영민/사진=tvN 토일드라마 '눈물의 여왕' 방송 화면 캡처청정 유기농 미소에 빠져든다. '눈물의 여왕' 김영민이 다정한 위로와 은은한 플러팅으로 범자의 마음을 녹이며 '범자 맞춤 힐러'로 설렘을 꽃피웠다. tvN 토일드라마 '눈물의 여왕'(극본 박지은, 연출 장영우·김희원, 제작 스튜디오]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['눈물의 여왕' 이주빈, 담담→오열…폭넓은 감정 연기]]></title>
-        <id>https://v.daum.net/v/20240422094146113</id>
-        <link href="https://v.daum.net/v/20240422094146113"/>
-        <updated>2024-04-22T00:50:19.674Z</updated>
-        <content type="html"><![CDATA[[OSEN=최이정 기자]&nbsp;배우 이주빈이 입체적인 연기를 선보였다. 이주빈은 지난&nbsp;20, 21일 방송된&nbsp;tvN&nbsp;드라마&nbsp;'눈물의 여왕'에서 퀸즈가 며느리 천다혜 역을 맡아,&nbsp;폭넓은 감정선을 그려내며 극의 몰입감을 높였다. 이날 방송에서 천다혜는 김장을 하고 있는 전봉애(황영희 분)를 도우며 싹싹한 면모를 드러내는가 하면,&nbsp;시어머니 김선화(나영희 분)의 냉랭]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이민기 곽선영 허성태 ‘크래시’ 5월13일 디즈니+ 공개 확정]]></title>
-        <id>https://v.daum.net/v/20240422091203987</id>
-        <link href="https://v.daum.net/v/20240422091203987"/>
-        <updated>2024-04-22T00:50:19.674Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 김명미 기자] 디즈니+가 노브레이크 직진 수사극 '크래시'의 티저 포스터와 1차 티저 영상을 함께 공개했다. '모범택시'로 안방극장에 신드롬을 불러일으켰던 박준우 감독이 메가폰을 잡고 이민기, 곽선영, 허성태, 이호철, 문희 등 화제성과 연기력을 모두 갖춘 배우들이 대거 출연한 '크래시'가 세계적인 스트리밍 서비스 디즈니+에서 오는 5월 13일]]></content>
     </entry>
 </feed>
