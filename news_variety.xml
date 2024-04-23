@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/variety</id>
     <title>다음 연예 ─ 뉴스 ─ 예능</title>
-    <updated>2024-04-23T08:15:12.998Z</updated>
+    <updated>2024-04-23T09:11:41.085Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[박나래 측 "'불타는장미단' 불참 감기몸살 때문, 회복 완료"]]></title>
+        <id>https://v.daum.net/v/20240423175701524</id>
+        <link href="https://v.daum.net/v/20240423175701524"/>
+        <updated>2024-04-23T09:11:30.723Z</updated>
+        <content type="html"><![CDATA[[OSEN=연휘선 기자] 코미디언 박나래의 '불타는장미단' 녹화 불참이 감기몸살 때문이었던 것으로 드러났다.&nbsp; 23일 박나래 측 관계자는 OSEN에&nbsp;"박나래 씨가&nbsp;지난주 감기몸살로이 심해 컨디션 난조를 보였다. 부득이하게 출연 중이던 MBN 예능 프로그램 '불타는장미단'&nbsp;녹화에 불참했다. 치료를 잘받아 곧바로 컨디션을 회복했고 예정된 일정을 소화하고 있]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["16년 소처럼 일해"…다비치 이해리, 초호화 별장 공개]]></title>
         <id>https://v.daum.net/v/20240423171208913</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240423154607332"/>
         <updated>2024-04-23T07:10:54.998Z</updated>
         <content type="html"><![CDATA[[티브이데일리 김진석 기자] '돌싱글즈'가 다섯번째 시리즈로 MZ돌싱들과 함께 돌아온다. 23일 MBN는 프랜차이즈 연애 예능프로그램 '돌싱글즈5' 90년대생 돌싱들의 비주얼을 엿볼 수 있는 공식 포스터를 공개했다. 오는 5월 9일 밤 10시 20분 시즌5로 돌아온다. '돌싱글즈'는 돌싱들의 연애와 동거 생활을 그리며 매 시즌마다 뜨거운 화제를 모은 바 있]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[32년차 방송인 유재석, 카메라 울렁증 호소한 이유는]]></title>
-        <id>https://v.daum.net/v/20240423154248199</id>
-        <link href="https://v.daum.net/v/20240423154248199"/>
-        <updated>2024-04-23T07:10:55.000Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 김명미 기자] ‘틈만 나면,’ 하이라이트 영상이 공개됐다. 4월 23일 오후 10시 20분에 첫 방송되는 SBS ‘틈만 나면,’(연출 최보필/작가 채진아)은 일상 속 마주하는 잠깐의 틈새 시간 사이에 행운을 선물하는 '틈새 공략' 버라이어티로 유재석과 유연석이 2MC로 나선다. 두 사람은 ‘런닝맨’, ‘범인은 바로 너’ 등에서 만난 적 있지만 2]]></content>
     </entry>
 </feed>
