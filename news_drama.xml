@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-04-23T10:11:43.574Z</updated>
+    <updated>2024-04-23T11:10:16.549Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[숨소리도 들리겠네..변우석♥김혜윤, 한이불 덮고 '쉿']]></title>
+        <id>https://v.daum.net/v/20240423200120951</id>
+        <link href="https://v.daum.net/v/20240423200120951"/>
+        <updated>2024-04-23T11:10:00.223Z</updated>
+        <content type="html"><![CDATA[[OSEN=박소영 기자] tvN ‘선재 업고 튀어’&nbsp;변우석과 김혜윤이 불 꺼진 방 안에서의&nbsp;‘숨멎 떨림 스킨십’으로 보는 이의 심장을 요동치게 한다. tvN&nbsp;월화드라마&nbsp;‘선재 업고 튀어’(극본 이시은/연출 윤종호,&nbsp;김태엽/기획&nbsp;CJ ENM&nbsp;스튜디오스/제작 본팩토리)가 연일 압도적인 수치로 놀라운 화제성을 뽐내고 있다.&nbsp;타깃 시청률은 전주 대비&nbsp;149%를]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['세 번째 결혼' 반효정, 며느리 윤해영 원망 "자네 때문에 안내상·오승아 고생"]]></title>
+        <id>https://v.daum.net/v/20240423194701625</id>
+        <link href="https://v.daum.net/v/20240423194701625"/>
+        <updated>2024-04-23T11:10:00.223Z</updated>
+        <content type="html"><![CDATA[[TV리포트=이혜미 기자] 반효정이 과거 안내상과 오승아를 두고 떠났던 윤해영이 원망을 표했다. 23일 MBC ‘세 번째 결혼’에선 해일(윤해영 분)에 분노를 표하는 윤 여사(반효정 분)의 모습이 그려졌다. 이날 윤 여사는 30년 전 덕수(안내상 분)와 다정을 두고 떠났던 해일에 “계속 같이 살지 그랬어. 새끼 두고 발걸음이 떨어지더냐?”라고 퍼부었다. 이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[종영 앞둔 ‘눈물의 여왕’ 15회-16회 특별 편성 “10분 일찍 만난다”]]></title>
         <id>https://v.daum.net/v/20240423184433054</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240423162227984"/>
         <updated>2024-04-23T08:14:58.726Z</updated>
         <content type="html"><![CDATA[[스타뉴스 | 강서=윤성열 기자] 배우 전도연이 23일 오후 서울 강서구 LG아트센터에서 진행된 연극 '벚꽃동산' 제작발표회에 참석해 질문에 답하고 있다. /2024.04.23 /사진=이동훈배우 전도연이 27년 만에 연극 무대에 선다. 세계적인 연출가 사이먼 스톤과 배우 박해수와 호흡을 맞춘다. 23일 오후 서울 강서구 마곡동 LG아트센터 서울에서 연극]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['수사반장'은 왜 이승만 독재가 폭주한 1958년으로 돌아갔을까]]></title>
-        <id>https://v.daum.net/v/20240423161057466</id>
-        <link href="https://v.daum.net/v/20240423161057466"/>
-        <updated>2024-04-23T08:14:58.728Z</updated>
-        <content type="html"><![CDATA[[엔터미디어=최영균의 듣보잡('듣'고 '보'고 '잡'담하기)] MBC 드라마 역사를 대표하는 클래식은 확실히 힘이 셌다. 1971년부터 무려 18년간 880부라는 믿기 어려운 방송 횟수를 기록했던 수사물 &lt;수사반장&gt;이 금토드라마 &lt;수사반장 1958&gt;로 돌아왔다. &lt;수사반장&gt;은 국민 반장 박영한(최불암)이 김상순, 서호정, 남성훈, 조경환(실명과 극중 배역명]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[임신한 김하늘, 연우진 향한 마음 접나..복잡·심란]]></title>
-        <id>https://v.daum.net/v/20240423161030453</id>
-        <link href="https://v.daum.net/v/20240423161030453"/>
-        <updated>2024-04-23T07:10:51.198Z</updated>
-        <content type="html"><![CDATA[[OSEN=장우영 기자] ‘멱살 한번 잡힙시다’ 김하늘이 연우진을 멀리한다. 23일 밤 10시 10분 방송되는 KBS2 월화드라마 ‘멱살 한번 잡힙시다’(극본 배수영, 연출 이호 이현경, 제작 몬스터유니온, 프로덕션H) 12회에서 서정원(김하늘)은 과거 자신의 아버지를 죽인 범인과 무언시의 연결고리를 파헤친다. 앞서 유윤영(한채아)이 남긴 영상을 통해]]></content>
     </entry>
 </feed>
