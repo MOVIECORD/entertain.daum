@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/variety</id>
     <title>다음 연예 ─ 뉴스 ─ 예능</title>
-    <updated>2024-04-24T10:13:25.931Z</updated>
+    <updated>2024-04-24T11:10:36.213Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['태계일주' 시즌4, 대상된 기안84 품고 컴백 "더 독하고 따뜻하게"]]></title>
+        <id>https://v.daum.net/v/20240424200225030</id>
+        <link href="https://v.daum.net/v/20240424200225030"/>
+        <updated>2024-04-24T11:10:27.845Z</updated>
+        <content type="html"><![CDATA[[OSEN=연휘선 기자] '태어난 김에 세계일주(약칭 태계일주)'가 시즌4로 돌아온다. 대상을 받고 더욱 독해진 기안84의 귀환이 벌써부터 기대감을 자아내고 있다.&nbsp; 24일 MBC 예능 프로그램 '태어난 김에 세계일주' 측은 올해 하반기 시즌4를 선보인다고 밝혔다. 지난 23일 치러진 한국PD대상에서 '태계일주' 시리즈를 연출한 김지우 PD가 '올해의]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이현이 "대상 후보 오르고 10년 치 악플 받아..관심이라 생각"]]></title>
         <id>https://v.daum.net/v/20240424190955547</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240424170748605"/>
         <updated>2024-04-24T08:15:00.111Z</updated>
         <content type="html"><![CDATA[(엑스포츠뉴스 오승현 기자) 성우 겸 방송인 서유리가 이혼 후 첫 심경을 고백한다. 24일 MBN '속풀이쇼 동치미' 측은 '방송인 서유리, 혼자 살이 찌던 전남편에 괴로웠다?! "여자들도 잘생긴 남편을 보고 싶어요"'라는 제목의 선공개 영상을 올렸다.&nbsp; 앞서 서유리는 "이혼 후 너무 후련하고 좋다", "자유다"라며 혼자가 된 기분을 솔직히 밝혀 기대를 모]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[강호동은 건재하다]]></title>
-        <id>https://v.daum.net/v/20240424170527510</id>
-        <link href="https://v.daum.net/v/20240424170527510"/>
-        <updated>2024-04-24T08:15:00.113Z</updated>
-        <content type="html"><![CDATA[[OSEN=박소영 기자] 먹짱 대부 강호동의 맛있는 중계 실력이 침샘을 자극한다. 시즌2로 돌아온 코미디TV ‘돈쭐 맛짱뜨러 왔습니다‘(이하&nbsp;‘돈쭐2’)는 지난 시즌 최강자&nbsp;3인과 뉴페이스 프로 먹방러 총&nbsp;6인이 펼치는&nbsp;3:3&nbsp;맛짱 대결 예능이다.&nbsp;대한민국 대표 대식가들의 자존심을 건 맛짱 한판 답게 이색적인 볼거리로 애청자들의 구미를 당길 전망이다.]]></content>
     </entry>
 </feed>
