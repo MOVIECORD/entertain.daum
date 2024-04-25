@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-04-25T10:12:17.563Z</updated>
+    <updated>2024-04-25T11:10:59.715Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['세 번째 결혼' 비정한 전노민, 조카 윤선우X전처 오승아 살해 지시 '섬뜩']]></title>
+        <id>https://v.daum.net/v/20240425200001029</id>
+        <link href="https://v.daum.net/v/20240425200001029"/>
+        <updated>2024-04-25T11:10:45.755Z</updated>
+        <content type="html"><![CDATA[[TV리포트 = 하수나 기자] ‘세번째 결혼’ 오승아와 윤선우가 전노민의 사주로 죽음의 위기를 맞았다.&nbsp; 25일 MBC 일일드라마 ‘세 번째 결혼’에선 요한(윤선우 분)이 납치되고 다정(오승아 분)과 죽음의 위기를 맞는 모습이 그려졌다.&nbsp; 요한이 제국(전노민 분)의 사주를 받은 김실장에게 납치 된 가운데 다정은 제국을 찾아와 “우리 요한씨 어디 있나. 이제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['삼식이 삼촌' 대체불가 유재명, 그가 아니면 불가능]]></title>
         <id>https://v.daum.net/v/20240425184320142</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240425112720341"/>
         <updated>2024-04-25T03:11:58.928Z</updated>
         <content type="html"><![CDATA[[OSEN=박소영 기자] 윤종훈이&nbsp;‘7인의 부활’에서 캐릭터의 심리 변화를 온몸으로 표현하며 열연을 펼치고 있다. SBS&nbsp;금토드라마&nbsp;‘7인의 부활’에서 윤종훈은 서울시장 후보 양진모 역을 맡았다.&nbsp;윤종훈은 시즌&nbsp;1인&nbsp;‘7인의 탈출’&nbsp;양진모와는 외모부터 확연히 달라진 시즌&nbsp;2 ‘7인의 부활’&nbsp;양진모의 모습으로 시청자들의 궁금증을 자극했다.&nbsp;또한 한없이 가]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[K-초능력물 전성시대...쾌감만큼 공감이 필요해]]></title>
-        <id>https://v.daum.net/v/20240425111316523</id>
-        <link href="https://v.daum.net/v/20240425111316523"/>
-        <updated>2024-04-25T02:22:09.031Z</updated>
-        <content type="html"><![CDATA[아이즈 ize 신윤재(칼럼니스트)누구나 살다 보면 자신에게 '초능력'이 있길 바라는 순간이 있다. 아침 등굣길이나 출근길에 만원버스나 지하철에 시달릴 때면 어딘가 '포털'을 만들어서 순간적으로 몸을 옮기는 능력이나 하늘을 유유히 날거나, 땅을 빛처럼 달려 목적지에 가는 꿈을 꾼다. 시험이나 중요한 만남을 앞두고는 시험지 뒤에 답안이나 앞에 앉은 사람의 의중]]></content>
     </entry>
 </feed>

@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2024-04-25T10:12:17.568Z</updated>
+    <updated>2024-04-25T11:10:59.631Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["류준열, 천우희와 만났다"..5월 공개되는 넷플릭스 신작 37편]]></title>
+        <id>https://v.daum.net/v/20240425191531985</id>
+        <link href="https://v.daum.net/v/20240425191531985"/>
+        <updated>2024-04-25T11:10:40.672Z</updated>
+        <content type="html"><![CDATA[[TV리포트=전하나 기자] 넷플릭스 코리아가 다가오는 5월에 다양한 장르의 영화와 TV 프로그램을 공개한다. 25일, 넷플릭스 코리아는 공식 소셜네트워크서비스를 통해 오는 5월 업데이트 될 신작 소식을 전했다. 이날 넷플릭스 코리아는 22편의 영화와 15편의 시리즈를 나눠 공개했다. 영화 작품으로는 '매혹당한 사람들', '브로크백 마운틴',' 언프로스티드']]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[박보검♥수지→강동원, 여름 대비 '호화 라인업 무장'…'부진' CJ ENM은 장고]]></title>
         <id>https://v.daum.net/v/20240425190117619</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240425150008916"/>
         <updated>2024-04-25T06:14:40.974Z</updated>
         <content type="html"><![CDATA[주인이 바뀌었다. 시저가 아닌 노아의 ‘혹성탈출 : 새로운 시대’(감독·프로듀서 : 웨스 볼, 이하 ‘혹성탈출4’)를 만난다. 전 세계를 감동시킨 시저의 울림, 노아의 새로움으로 그 명성을 이어갈 수 있을까. 오는 5월 8일 개봉을 앞둔 ‘혹성탈출4’은 진화한 유인원과 퇴화된 인간들이 살아가는 오아시스에서 인간들을 지배하려는 유인원 리더 ‘프록시무스’ 군단]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[케플러 "해체? 활동 연장 논의 계속…새 음반도 준비 중"]]></title>
-        <id>https://v.daum.net/v/20240425143958920</id>
-        <link href="https://v.daum.net/v/20240425143958920"/>
-        <updated>2024-04-25T06:14:40.974Z</updated>
-        <content type="html"><![CDATA[[스포티비뉴스=장진리 기자] 그룹 케플러가 프로젝트 활동 연장을 논의 중이다. 케플러 소속사 웨이크원은 "활동 연장에 대해 논의 중"이라며 "케플러는 새 음반을 준비하고 있다"라고 25일 밝혔다. 케플러는 지난해부터 프로젝트 활동 연장을 논의하고 있다. 25일에는 최종적으로 논의가 불발돼 멤버들이 7월을 끝으로 해체를 결정했다는 해체설도 나왔다.]]></content>
     </entry>
 </feed>

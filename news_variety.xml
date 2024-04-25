@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/variety</id>
     <title>다음 연예 ─ 뉴스 ─ 예능</title>
-    <updated>2024-04-25T10:12:17.600Z</updated>
+    <updated>2024-04-25T11:10:59.637Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[선우은숙→서유리 연이은 폭로에 고구마 된 '동치미'…시원함은 없고 피로감만 가득]]></title>
+        <id>https://v.daum.net/v/20240425200103075</id>
+        <link href="https://v.daum.net/v/20240425200103075"/>
+        <updated>2024-04-25T11:10:50.074Z</updated>
+        <content type="html"><![CDATA[[텐아시아=이소정 기자] 답답한 속을 동치미처럼 시원하게 풀어 준다는 의도로 시작된 MBN 예능 프로그램 '속풀이쇼 동치미'(이하 '동치미')가 연예인들의 폭로장으로 변질돼 시청자에게 피로감을 주고 있다. '동치미'는 보는 이들로부터 공감을 일으키는 게 관전 포인트였지만, 지금은 어디에서도 본질을 찾을 수 없다는 지적이다. 지난 24일 '동치미' 측]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[TXT 연준, 'SM출신' 김재중에 하이브 자랑 "사옥=호텔급 서비스..놀러 와라"]]></title>
         <id>https://v.daum.net/v/20240425185458413</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240425171433097"/>
         <updated>2024-04-25T09:11:26.814Z</updated>
         <content type="html"><![CDATA[[뉴스엔 서유나 기자] 가수 윤도현이 배우 이희준을 향한 팬심을 고백했다. 4월 25일 방송된 MBC FM4U '4시엔 윤도현입니다'에는 배우 이희준이 게스트로 출연했다. 이날 윤도현은 이희준을 보곤 "제가 정말 팬"이라며 팬심을 고백, "너무 고맙다. 나와주셔서. 너무 모시고 싶었는데 흔쾌히 나와주셔 감사하다"고 인사했다. 이에 이희준은 "깜짝 놀]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['걸스 온 파이어', 양희은·크러쉬도 응원전 동참..본격 과몰입 유발]]></title>
-        <id>https://v.daum.net/v/20240425170721796</id>
-        <link href="https://v.daum.net/v/20240425170721796"/>
-        <updated>2024-04-25T08:14:08.709Z</updated>
-        <content type="html"><![CDATA[[OSEN=선미경 기자] 2040 여성 시청자들에게 높은 지지를 받고 있는 '걸스 온 파이어'에 스타들도 점차 과몰입하고 있다. 종합편성채널 JTBC 오디션 프로그램&nbsp;'걸스 온 파이어' 1·2회에서는 본선 1라운드 '1 vs 1 맞짱 승부'가 펼쳐진 가운데, 실력 있는 참가자들의 레전드 무대가 속출하며 연일 화제를 모으고 있다. 특히, 가수 크러쉬의 친]]></content>
     </entry>
 </feed>
