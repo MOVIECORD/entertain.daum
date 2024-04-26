@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-04-26T12:20:26.769Z</updated>
+    <updated>2024-04-26T13:11:27.641Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[최우성, 생애 첫 수사는 거지떼 소탕 작전]]></title>
+        <id>https://v.daum.net/v/20240426220830495</id>
+        <link href="https://v.daum.net/v/20240426220830495"/>
+        <updated>2024-04-26T13:11:11.088Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 | 이예지 기자] /사진='수사반장 1958' 화면 캡처'수사반장 1958'의 최우성의 생애 첫 수사 임무가 주어졌다. 26일 오후 방송된 MBC 금토드라마 '수사반장 1958'에서는 거지떼 소탕 작전에 투입되는 박영한(이제훈 분), 김상순(이동휘 분), 조경환(최우성 분), 서호정(윤현수 분)의 모습이 긴박하게 그려졌다. 이날 방송에서 박영]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['피도 눈물도' 빌런 하연주, 끝없는 욕망...이소연子에 "내 아들이면 좋겠다"]]></title>
         <id>https://v.daum.net/v/20240426203901857</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240426150434156"/>
         <updated>2024-04-26T06:15:40.954Z</updated>
         <content type="html"><![CDATA[배우 김갑수가 '눈물의 여왕'에서 이미숙과의 묘한 남녀 관계를 "추하지 않게 잘 만든 관계성"이라고 표현했다. 김갑수는 최근 iMBC연예와 만나 tvN 주말드라마 '눈물의 여왕(극본 박지은·연출 장영우) 관련 인터뷰를 진행했다. '눈물의 여왕'은 퀸즈 그룹 재벌 3세이자 백화점의 여왕 홍해인(김지원 분)과 용두리 이장 아들이자 슈퍼마켓 왕자 백현우(김수]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김지원만? '눈물의 여왕' 김수현, 누구와 붙어도 '찰떡 케미']]></title>
-        <id>https://v.daum.net/v/20240426144307398</id>
-        <link href="https://v.daum.net/v/20240426144307398"/>
-        <updated>2024-04-26T06:15:40.955Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 | 김나연 기자] 김수현 / 사진=tvN 눈물의 여왕배우 김수현이 용두리 이장 아들이자 슈퍼마켓 왕자인 '사기캐' 변호사 백현우 역을 맡아 다시금 인생캐를 경신, 뜨거운 호평을 얻고 있다. 김수현은 tvN 토일드라마 '눈물의 여왕'에서 순수하면서도 빛나는 비주얼, 완벽한 캐릭터 소화력으로 극을 이끌어가고 있는 가운데 다른 출연 배우들과 빚어내]]></content>
     </entry>
 </feed>
