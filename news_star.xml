@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2024-04-26T16:14:32.201Z</updated>
+    <updated>2024-04-26T17:11:56.172Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김수진, '웨딩 임파서블'→'수사반장 1958' 합류]]></title>
+        <id>https://v.daum.net/v/20240427020800271</id>
+        <link href="https://v.daum.net/v/20240427020800271"/>
+        <updated>2024-04-26T17:11:51.739Z</updated>
+        <content type="html"><![CDATA[[TV리포트=김연주 기자] 배우 김수진이 MBC 드라마 '수사반장 1958'에 합류한다. 26일 소속사 윌엔터테인먼트에 따르면 김수진은 MBC 금토드라마 '수사반장 1958'에 출연한다. '수사반장 1958'은 야만의 시대, 소도둑 검거 전문 박영한 형사가 개성 넘치는 동료 3인방과 한 팀으로 뭉쳐 부패 권력의 비상식을 상식으로 깨부수며 민중을 위한 형사로]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘나혼산’ 전현무·박나래·이장우, ‘환골탈태’ 등장... 팜유 바프 대장정 마무리]]></title>
         <id>https://v.daum.net/v/20240427004800996</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240426230140155"/>
         <updated>2024-04-26T14:10:12.129Z</updated>
         <content type="html"><![CDATA[[마이데일리 = 박서연 기자] 하이브와 산하 레이블 어도어 민희진 대표의 갈등이 극단으로 치닫고 있다. 양 측은 각자의 주장을 내세우며 서로의 주장에 반박하고 나섰다. 특히 민희진 대표는 지난 25일 긴급 기자회견에서 주주간 계약이 '노예계약'이라고 주장하며 재직기간 내 경업 금지 조항, 하이브 동의없이 풋옵션 중 5%를 매각할 수 없는 것 등을 지적했]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["뉴진스가 진짜 독기"…민희진 광기 눈빛+눈물 이룬 '서사']]></title>
-        <id>https://v.daum.net/v/20240426224710021</id>
-        <link href="https://v.daum.net/v/20240426224710021"/>
-        <updated>2024-04-26T14:10:12.129Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 김예나 기자) 그룹 뉴진스(NewJeans)에게 '독기'라는 새로운 서사가 입혀졌다.&nbsp; 뉴진스(민지, 하니, 다니엘, 해린, 혜인)의 새 더블 싱글 '하우 스위트(How Sweet)' 재킷 이미지가 26일 공개되면서 컴백 기대감이 높아지고 있다.&nbsp; 소속사 어도어 대표 민희진과 모회사 하이브 간 갈등이 점점 심화되는 상황 속에서도 양측 모두 한]]></content>
     </entry>
 </feed>
