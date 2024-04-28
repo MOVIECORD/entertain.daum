@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2024-04-28T16:12:47.197Z</updated>
+    <updated>2024-04-28T17:10:16.996Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[경영자된 안정환, 이연복·김대호 잡고도 위기]]></title>
+        <id>https://v.daum.net/v/20240429020006077</id>
+        <link href="https://v.daum.net/v/20240429020006077"/>
+        <updated>2024-04-28T17:10:12.090Z</updated>
+        <content type="html"><![CDATA[[동아닷컴] 사진 제공 = MBC ‘푹 쉬면 다행이야’MBC 새 예능 ‘푹 쉬면 다행이야’ 0.5성급 무인도에 5성급 셰프 이연복이 찾아온다. 29일 첫 방송되는 MBC 새 예능프로그램 ‘푹 쉬면 다행이야’(연출 김명진, 김문기, 이준범, 김기호 / 작가 권정희 / 이하 ‘푹다행’)는 ‘섬통령’ 안정환이 무인도 폐가를 고쳐 시청자를 초대하는 ‘0.5성급]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이찬원, 임영웅 앞에서 주름 "누가 계산하는 꼴 못 봐"]]></title>
         <id>https://v.daum.net/v/20240429010030942</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240428233115305"/>
         <updated>2024-04-28T15:11:13.376Z</updated>
         <content type="html"><![CDATA[[뉴스엔 서유나 기자] 배우 설경구가 고(故) 김광석의 무대를 실제로 봤던 때를 떠올렸다. 4월 28일 방송된 SBS 다큐멘터리 '학전 그리고 뒷것 김민기' 2부에서는 33년 만에 폐관한 대학로의 상징 소극장 학전을 설립한 대표이자 '아침 이슬' 작곡가 김민기의 음악 인생을 들여다봤다. 이날 윤도현, 박학기, 강산에, 장필순 등의 가수들은 당시 '학전]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김수현·김지원, 2세 얻고 노년까지 해피엔딩]]></title>
-        <id>https://v.daum.net/v/20240428232634283</id>
-        <link href="https://v.daum.net/v/20240428232634283"/>
-        <updated>2024-04-28T15:11:13.377Z</updated>
-        <content type="html"><![CDATA[[스포츠투데이 송오정 기자] '눈물의 여왕' 김수현, 김지원이 위기를 이겨내고 노년까지 함께 하다 죽음 끝에 다시 만나는 해피엔딩을 그렸다. 28일 방송된 tvN '눈물의 여왕' 최종화에서 모든 위기를 이겨내낸 백현우(김수현)와 홍해인(김지원)이 평화로운 삶을 보내다 웃으며 세상을 떠났다. 백현우는 홍해인을 감싸다 윤은성(박성훈)이 쏜 총에 맞아 그대로 쓰]]></content>
     </entry>
 </feed>
