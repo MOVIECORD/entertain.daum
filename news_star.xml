@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2024-04-28T19:09:09.762Z</updated>
+    <updated>2024-04-28T20:12:04.718Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘범죄도시’ 또 터졌다… “할리우드 프랜차이즈 액션물도 제작 중”]]></title>
+        <id>https://v.daum.net/v/20240429050818084</id>
+        <link href="https://v.daum.net/v/20240429050818084"/>
+        <updated>2024-04-28T20:12:00.547Z</updated>
+        <content type="html"><![CDATA[연기를 넘어 작품의 기획과 연출, 제작에 나서는 배우들이 늘고 있다. 마동석(사진)도 그런 배우 중 하나다. 그리고 그는 이제 세계적인 주목을 받는 제작자가 됐다. ‘천만 영화’를 연달아 만들어 낸 마동석은 최근 국내뿐만 아니라 해외에서도 영화 제작을 시작했다. ‘범죄도시4’ 개봉을 며칠 앞둔 지난 18일 서울 종로구 한 카페에서 배우 겸 제작자 마동석]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[한일 참가자 “우리 낚인 거야?” 신동엽 밀당 진행력에 분통]]></title>
         <id>https://v.daum.net/v/20240429040023461</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240428234831369"/>
         <updated>2024-04-28T15:11:13.369Z</updated>
         <content type="html"><![CDATA[[OSEN=박근희 기자] 가수 겸 배우 장나라가 동안 미모를 자랑했다. 28일 오후 장나라는 ‘차차차차은경 스틸기사님이 찍어주신 사진~’이라며 여러 장의 사진을 공개했다. 공개된 사진은 드라마 촬영 현장에서 찍은 것으로 보이는 장나라의 모습. 똑단발을 한 장나라는 엄청난 동안 미모를 자랑하고 있다. 장나라의 나이를 잊은 아름다움에 보는 팬들은 ‘나이는]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[故 김광석 부모님 뭉클 일화 “아들 안 보고 객석만 응시”]]></title>
-        <id>https://v.daum.net/v/20240428233938334</id>
-        <link href="https://v.daum.net/v/20240428233938334"/>
-        <updated>2024-04-28T15:11:13.371Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 서유나 기자] 고(故) 김광석의 부모님의 뭉클한 일화가 공개됐다. 4월 28일 방송된 SBS 다큐멘터리 '학전 그리고 뒷것 김민기' 2부에서는 33년 만에 폐관한 대학로의 상징 소극장 학전을 설립한 대표이자 '아침 이슬' 작곡가 김민기의 음악 인생을 들여다봤다. 이날 배우들은 '학전'에서 1,000회 공연을 달성했던 고 김광석을 회상했다. 인]]></content>
     </entry>
 </feed>
