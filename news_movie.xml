@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2024-04-29T10:12:47.403Z</updated>
+    <updated>2024-04-29T11:11:38.782Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[SNS의 자기 과시와 관음증이 빚은 스릴러…영화 '그녀가 죽었다']]></title>
+        <id>https://v.daum.net/v/20240429195253095</id>
+        <link href="https://v.daum.net/v/20240429195253095"/>
+        <updated>2024-04-29T11:11:21.983Z</updated>
+        <content type="html"><![CDATA[(서울=연합뉴스) 이영재 기자 = 사회관계망서비스(SNS)는 경쟁적으로 자기 모습을 전시하면서 타인의 관심을 끄는 공간이다. 자극적으로 자기를 과시할수록 구독자와 팔로워가 늘어나지만, 인간적인 만남은 찾기 어렵다. 그저 '좋아요' 수치와 별 의미 없는 무수한 댓글이 난무한다. 김세휘 감독이 연출한 영화 '그녀가 죽었다'는 인간과 인간의 만남 대신 자기 전시]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['범죄도시4'에는 시선 강탈 4인방이 있다]]></title>
+        <id>https://v.daum.net/v/20240429195006053</id>
+        <link href="https://v.daum.net/v/20240429195006053"/>
+        <updated>2024-04-29T11:11:21.988Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 윤현지 기자) 영화 '범죄도시4'(감독 허명행)가 역대급 스코어 신기록을 경신하고 있는 가운데, 영화 속 신스틸러 4인방이 주목을 끌고 있다.&nbsp; '범죄도시4'는 개봉 전부터 2024년 사전 예매량 59만 장을 기록해 신기록을 세우기 시작했다.&nbsp; 영화는 개봉 후에도 2024년 최고 오프닝을 비롯 최단기간 100만, 200만, 300만, 400만]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['그녀가 죽었다' 빠져든다 비호감 앙상블…발칙·매콤한 스릴러 풍자극]]></title>
         <id>https://v.daum.net/v/20240429185910080</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240429171152845"/>
         <updated>2024-04-29T08:15:25.808Z</updated>
         <content type="html"><![CDATA[(서울=뉴스1) 정유진 기자 = 관음증이 있는 변요한, 관종이 된 신혜선. 두 배우 모두에게 새로운 변신이다. 이 변신은 관객들에게 신선하므로 다가갈 수 있을까. 영화 '그녀가 죽었다'로 변신에 도전한 두 배우가 영화에 자신감을 보였다. 29일 오후 서울 용산구 CGV 용산 아이파크에서 영화 '그녀가 죽었다'(감독 김세휘)의 언론배급시사회 및 기자간담회]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["장르적 재미有"…변요한X신혜선, '그녀가 죽었다' 통해 보여줄 '경쾌' 스릴러]]></title>
-        <id>https://v.daum.net/v/20240429170938779</id>
-        <link href="https://v.daum.net/v/20240429170938779"/>
-        <updated>2024-04-29T08:15:25.808Z</updated>
-        <content type="html"><![CDATA[[스포츠조선 안소윤 기자] 배우 변요한과 신혜선이 영화 '그녀가 죽었다'를 통해 예측 불허한 스릴러를 선보인다. 29일 오후 서울 용산구 이촌동 CGV 용산아이파크몰에서 영화 '그녀가 죽었다' 언론·배급 시사회가 진행됐다. 이날 현장에는 배우 변요한, 신혜선, 김세휘 감독이 참석했다. 오는 5월 15일 개봉하는 '그녀가 죽었다'는 훔쳐보기]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["불쾌했다면 성공"…변요한X신혜선 '그녀가 죽었다', 비호감과 가증의 만남]]></title>
-        <id>https://v.daum.net/v/20240429170537582</id>
-        <link href="https://v.daum.net/v/20240429170537582"/>
-        <updated>2024-04-29T08:15:25.809Z</updated>
-        <content type="html"><![CDATA[[마이데일리 = 강다윤 기자] 이상하고, 놀랍고 불쾌하다. 비호감에 가증스럽기까지 하다. 그렇기에 성공적인 미스터리 스릴러다. 29일 오후 서울 용산구 CGV 용산아이파크몰에서 영화 '그녀가 죽었다'(감독 김세휘) 언론·배급시사회 및 기자간담회가 열렸다. 행사에는 김세휘 감독을 비롯해 배우 변요한, 신혜선이 참석했다. '그녀가 죽었다'는 훔쳐보기가 취미]]></content>
     </entry>
 </feed>
