@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2024-04-30T09:14:05.582Z</updated>
+    <updated>2024-04-30T10:12:47.187Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["어떻게 살 것인가"... '괜찮아 앨리스'가 던진 묵직한 질문]]></title>
+        <id>https://v.daum.net/v/20240430184503417</id>
+        <link href="https://v.daum.net/v/20240430184503417"/>
+        <updated>2024-04-30T10:12:31.075Z</updated>
+        <content type="html"><![CDATA[[이선필 기자] &nbsp;▲ &nbsp;지난 4월 25일 인천동부교육지원청에서 마련한 연수 상영회 현장. 양지혜 감독과 오연호 대표가 인사말을 하고 있다.ⓒ 인천동부교육지원청&nbsp; 인천동부교육지원청이 관내 학부모와 교직원을 대상으로 한 연수 프로그램으로 다큐멘터리 상영회를 가져 눈길을 끌었다. 지난 25일 CGV인천연수점에서 다큐 영화 &lt;괜찮아, 앨리스&gt;를 상영회에 346명의]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[제이환의 트로트 도전기‥박지환 ‘범죄도시4’ 대찬인생 MV 공개]]></title>
         <id>https://v.daum.net/v/20240430181334672</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240430111926769"/>
         <updated>2024-04-30T07:11:22.581Z</updated>
         <content type="html"><![CDATA[(서울=뉴스1) 정유진 기자 = 디즈니+의 오리지널 시리즈 '삼식이 삼촌'(감독 신연식) 측이 메인 포스터와 메인 예고편을 공개했다. 30일 월트디즈니 컴퍼니 코리아가 공개한 메인 포스터는 모든 계획의 중심에 서 있는 삼식이 삼촌과 엘리트 청년 김산을 중심으로 퍼즐 조각처럼 얽히고설킨 인물들의 모습을 담아냈다. '혼돈의 시대, 모두가 다른 꿈을 꾸었다']]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘범죄도시4’ 글로벌 1위까지 찍었다‥6개국서 338억 벌어]]></title>
-        <id>https://v.daum.net/v/20240430111531573</id>
-        <link href="https://v.daum.net/v/20240430111531573"/>
-        <updated>2024-04-30T02:21:19.207Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 배효주 기자] '범죄도시4'가 글로벌 흥행 1위에 등극하는 기염을 토했다. 4월 30일 배급사 에이비오엔터테인먼트는 영화 '범죄도시4'(감독 허명행)가 개봉주 주말 전 세계 박스오피스 흥행 수익 1위에 올랐다고 밝혔다. 전 세계 박스오피스 집계 사이트 컴스코어(Comescore)에 따르면, 지난 28일까지 '범죄도시4'는 6개국에서만 2,459만]]></content>
     </entry>
 </feed>
