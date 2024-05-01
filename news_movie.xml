@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2024-05-01T04:13:53.906Z</updated>
+    <updated>2024-05-01T05:11:01.967Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[멀티플렉스, '단독 개봉' 차별화 전략으로 관객몰이]]></title>
+        <id>https://v.daum.net/v/20240501140303283</id>
+        <link href="https://v.daum.net/v/20240501140303283"/>
+        <updated>2024-05-01T05:10:42.038Z</updated>
+        <content type="html"><![CDATA[한국의 멀티플렉스 CJ CGV(이하 CGV), 롯데시네마, 메가박스가 단독 개봉 라인업을 꾸준히 강화하며 극장 산업에서 새로운 전략을 모색하고 있다. 특정 영화를 멀티플렉스에서 단독 개봉함으로써 경쟁 우위와 관객들의 주목을 받을 수 있는 있는 동시에 상업 영화 이외의 다양한 작품을 통해 각자의 브랜딩을 이어갈 수 있다는 점에서 효과가 있다. CGV에 따르]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[500만 돌파 '범죄도시4', 무기는 악인의 변주]]></title>
         <id>https://v.daum.net/v/20240501123822638</id>
@@ -48,7 +55,7 @@
         <content type="html"><![CDATA[[마이데일리 = 김지우 기자] 배우 정유미와 최우식이 영화 '원더랜드'를 통해 직장 선후배로 만남을 예고했다. 영화 '부산행'을 비롯해 여러 예능 프로그램을 통해 특급 케미를 선보였던 정유미와 최우식이 오는 6월 5일 개봉하는 영화 '원더랜드'에서 직장 선후배로 재회한다. '원더랜드'는 죽은 사람을 인공지능으로 복원하는 영상통화 서비스 '원더랜드'를 통해]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[스필버그가 극찬한 찐 할리우드 맛, ‘로맨틱 스턴트’에 도파민 폭발… ‘스턴트맨’]]></title>
+        <title type="html"><![CDATA[스필버그가 극찬한 찐 할리우드 맛… ‘스턴트맨’]]></title>
         <id>https://v.daum.net/v/20240501094509469</id>
         <link href="https://v.daum.net/v/20240501094509469"/>
         <updated>2024-05-01T00:52:53.312Z</updated>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240501084925085"/>
         <updated>2024-05-01T00:52:53.325Z</updated>
         <content type="html"><![CDATA[[OSEN=최이정 기자]&nbsp;영화 '부활'이 유튜브 채널 대몽무비에서 역주행하고 있다.&nbsp; 역주행을 이끄는 영상은 '부활'의 리뷰 영상이다. 3년 전 업로드된 영상임에도 불구하고 최근까지 52만 회가 넘는 조회수를 기록했다. 영상에는 죽어서도 사는 이태석 신부라는 반응과 함께 이태석 신부를 그리워하는 사람들의 댓글이 계속 올라오고 있는 상황이며, 특히 세상을]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['범죄도시4' 개봉 7일만에 500만 돌파..흥행 빅펀치 날릴 '황금연휴' 시작]]></title>
-        <id>https://v.daum.net/v/20240501082022615</id>
-        <link href="https://v.daum.net/v/20240501082022615"/>
-        <updated>2024-05-01T00:52:53.327Z</updated>
-        <content type="html"><![CDATA[[OSEN=최이정 기자]&nbsp;대한민국 대표 범죄 액션 시리즈 '범죄도시4'(제공: 에이비오엔터테인먼트 | 제작: 빅펀치픽쳐스, 홍필름, 비에이엔터테인먼트 | 배급: 에이비오엔터테인먼트, 플러스엠 엔터테인먼트 | 감독: 허명행)가 개봉 7일 만인 4월 30일&nbsp;500만 관객을 돌파했다. '범죄도시4'가 개봉 7일 만에 500만 관객을 돌파하며 4월 박스오피스]]></content>
     </entry>
 </feed>
