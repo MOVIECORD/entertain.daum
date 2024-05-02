@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-05-02T03:12:31.968Z</updated>
+    <updated>2024-05-02T04:13:39.607Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[고경표, 브랜드 대상 시상식서 직언 “고맙단 말은 평소에 해”]]></title>
+        <id>https://v.daum.net/v/20240502130154532</id>
+        <link href="https://v.daum.net/v/20240502130154532"/>
+        <updated>2024-05-02T04:13:26.108Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 김명미 기자] 고경표의 헐크주의보가 시상식으로 향한다. 5월 1일 베일을 벗은 JTBC 수목드라마 ‘비밀은 없어’(극본 최경선, 연출 장지연, 기획 SLL, 제작 SLL·키이스트) 첫 회에서 웃음 날개를 단 고경표가 훨훨 날았다. 코믹 연기 노하우가 집약된 화려한 연기 드리블과 강력한 하드 캐리로 단 1분도 지루할 틈이 없이 60여분을 꽉 채운]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[고경표, 입금되니 연기 한번 끝내주네…쉴 새 없이 날아다녔다]]></title>
         <id>https://v.daum.net/v/20240502120211187</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240502100236320"/>
         <updated>2024-05-02T01:50:07.193Z</updated>
         <content type="html"><![CDATA[[뉴스엔 김명미 기자] '비밀은 없어'가 베일을 벗었다. 5월 2일 시청률 조사회사 닐슨코리아에 따르면 1일 첫 방송된 JTBC 수목드라마 ‘비밀은 없어’(극본 최경선, 연출 장지연, 기획 SLL, 제작 SLL·키이스트) 1회는 전국 유료방송가구 기준 1.92%의 시청률을 기록했다. '비밀은 없어' 첫 회에서 고경표는 코믹부터 애환까지 다채로운 연기를 선]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오연서, '플레이어2' 의문의 존재로 등장...송승헌에 은밀한 제안]]></title>
-        <id>https://v.daum.net/v/20240502095849093</id>
-        <link href="https://v.daum.net/v/20240502095849093"/>
-        <updated>2024-05-02T01:50:07.199Z</updated>
-        <content type="html"><![CDATA[[OSEN=유수연 기자] 오연서가&nbsp;‘플레이어2:&nbsp;꾼들의 전쟁’에서 압도적 카리스마로 모두를 사로잡는다. 오는&nbsp;6월&nbsp;3일(월)&nbsp;첫 방송될&nbsp;tvN&nbsp;새 월화드라마&nbsp;‘플레이어2:&nbsp;꾼들의 전쟁’(극본 박상문 최슬기,&nbsp;연출 소재현,&nbsp;기획 스튜디오드래곤,&nbsp;제작 피플스토리컴퍼니)에서 정수민 역으로 분한 오연서의 강렬한 오라가 담긴 첫 스틸을 공개해 관심을 집중시키고]]></content>
     </entry>
 </feed>
