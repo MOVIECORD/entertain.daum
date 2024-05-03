@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2024-05-03T01:54:05.891Z</updated>
+    <updated>2024-05-03T02:24:25.034Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[600만 돌파 '범죄도시4', '파묘'보다 빠르다..황금연휴 흥행 ing]]></title>
+        <id>https://v.daum.net/v/20240503105901474</id>
+        <link href="https://v.daum.net/v/20240503105901474"/>
+        <updated>2024-05-03T02:24:07.269Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 | 김나연 기자] 사진=에이비오엔터테인먼트영화 '범죄도시4'가 개봉 9일 만에 600만 관객을 돌파했다. 3일 영화진흥위원회 통합전산망에 따르면 전날 '범죄도시4'는 25만 579명의 관객을 동원해 박스오피스 1위를 기록했다. 누적 관객 수는 604만 888명. '범죄도시4'는 괴물형사 '마석도'(마동석 분)가 대규모 온라인 불법 도박 조]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['범죄도시4' 600만 돌파, 2위와 일일 관객수 20배 격차]]></title>
+        <id>https://v.daum.net/v/20240503105325252</id>
+        <link href="https://v.daum.net/v/20240503105325252"/>
+        <updated>2024-05-03T02:24:07.269Z</updated>
+        <content type="html"><![CDATA[[티브이데일리 김종은 기자] 영화 '범죄도시4'의 독주가 이어지고 있다. 3일 영화진흥위원회 통합전산망에 따르면 영화 '범죄도시4'(감독 허명행)가 지난 2일 25만579명을 동원하며 박스오피스 1위를 기록했다. 누적 관객수는 604만888명이다. '범죄도시4'는 괴물형사 마석도(마동석)가 대규모 온라인 불법 도박 조직을 움직이는 특수부대 용병 출신의 빌런]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[장재현 감독 "'파묘' 속편 NO, 차기작은 K뱀파이어 영화"]]></title>
         <id>https://v.daum.net/v/20240503104831064</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240503083621112"/>
         <updated>2024-05-03T00:52:09.597Z</updated>
         <content type="html"><![CDATA[[이데일리 스타in 김보영 기자] 개봉 전부터 입소문을 타고 있는 미스터리 추적 스릴러 영화 ‘그녀가 죽었다’(감독 김세휘)가 과몰입을 유발하는 디테일한 공간 구현으로 화제다. ‘그녀가 죽었다’는 훔쳐보기가 취미인 공인중개사 구정태(변요한 분)가 관찰하던 SNS 인플루언서 한소라(신혜선 분)의 죽음을 목격하고 살인자의 누명을 벗기 위해 한소라의 주변을]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[강동원의 매력적인 캐릭터 변신은 무죄]]></title>
-        <id>https://v.daum.net/v/20240503082637851</id>
-        <link href="https://v.daum.net/v/20240503082637851"/>
-        <updated>2024-05-03T00:52:09.598Z</updated>
-        <content type="html"><![CDATA[[마이데일리 = 남혜연 기자] 한결같지만 다양성이 있다.  연기력에서 부족함이 없었고, 강렬한 캐릭터로 자신름 값을 톡톡히 해낸다. 바로 배우 강동원에 대한 말이다.  영화사 집의 신작 '설계자'(이요섭 감독)의 강동원이 다양한 직업군을 완벽하게 소화하며 ‘프로 N잡러’ 캐릭터 계보를 구축한다.  먼저 천만 관객을 사로잡은 '파묘'를 통해 오컬트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘범죄도시4’ 하루 25만 동원...600만 돌파]]></title>
-        <id>https://v.daum.net/v/20240503075100133</id>
-        <link href="https://v.daum.net/v/20240503075100133"/>
-        <updated>2024-05-02T23:13:07.225Z</updated>
-        <content type="html"><![CDATA[영화 ‘범죄도시4’(감독 허명행)가 개봉 9일 연속 박스오피스 왕좌를 지킨 가운데 600만 고지도 밟았다. 3일 영화진흥위원회 영화관입장권 통합전산망에 따르면 ‘범죄도시4’는 전날 25만 599명을 동원해 누적 관객수 604만 908명을 기록했다. 근로자의 날 하루에만 약 78만 관객을 동원한 바, 평일인 만큼 관객수는 다시금 떨어졌다. 예매량은 약 39만]]></content>
     </entry>
 </feed>
