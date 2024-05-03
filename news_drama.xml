@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-05-03T07:11:26.453Z</updated>
+    <updated>2024-05-03T08:14:39.117Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이주빈, ♥곽동연 없이는 못살아]]></title>
+        <id>https://v.daum.net/v/20240503170102718</id>
+        <link href="https://v.daum.net/v/20240503170102718"/>
+        <updated>2024-05-03T08:14:21.600Z</updated>
+        <content type="html"><![CDATA[[텐아시아=류예지 기자]"수철이는 다혜의 삶에 꼭 필요했던 사람이에요. 부모 같은 존재죠" 지난 26일 서울 앤드마크 사옥에서 tvN '눈물의 여왕' 이주빈(천다혜&nbsp;분)과의 인터뷰를 진행했다. 이날 이주빈은 기본 메이크업에 헤어 스타일링을 따로 하지 않은 채 편안하게 인터뷰에 임했다. 극 중 화려한 스타일 위주의 패션을 보여줬던 이주빈이었기에 루즈핏의 녹]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['세 번째 결혼' 오늘 종영…오승아♥윤선우 해피엔딩 맞을까]]></title>
+        <id>https://v.daum.net/v/20240503161627466</id>
+        <link href="https://v.daum.net/v/20240503161627466"/>
+        <updated>2024-05-03T08:14:21.601Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 김현정 기자) '세 번째 결혼'이 해피엔딩으로 종영할지 주목된다. MBC 일일드라마 '세 번째 결혼'이 오늘(3일) 132회를 마지막으로 종영한다. 122부작으로 예정됐지만 시청자의 호응에 힘입어 10회를 연장한 바 있다. ‘세 번째 결혼’은 조작의 삶을 사는 여자와 거짓을 파헤치고 응징하려고 몸부림치는 여자의 파란만장한 진실 게임 속에서 피]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['종말의 바보' 김진민 감독 "'슬의생' 안은진에게 꽃혀 '얘 봐라?' 싶더라"]]></title>
         <id>https://v.daum.net/v/20240503160543172</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240503145313880"/>
         <updated>2024-05-03T06:15:21.752Z</updated>
         <content type="html"><![CDATA[사진=MBC[이데일리 스타in 김가영 기자] “평소 다이어트를 하는 사람은 아니지만, 출산을 하고 나서는 다이어트를 해야겠더라고요. 혹독하게 다이어트를 했어요.” 배우 엄현경이 복귀 소감을 이같이 밝혔다. 3일 서울 마포구 상암 MBC 사옥에서는 MBC 새 일일드라마 ‘용감무쌍 용수정’ 제작발표회가 진행됐다. 이날 자리에는 엄현경, 서준영, 임주은, 권화]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['종말의 바보'에 쏟아진 혹평, 김진민 감독 "기대와 달랐다면 죄송"]]></title>
-        <id>https://v.daum.net/v/20240503145102817</id>
-        <link href="https://v.daum.net/v/20240503145102817"/>
-        <updated>2024-05-03T06:15:21.754Z</updated>
-        <content type="html"><![CDATA[[텐아시아=태유나 기자] 김진민 감독이 서울 종로구 삼청동 한 카페에서 텐아시아와 만나 넷플릭스 오리지널 시리즈 '종말의 바보'에 대한 다양한 이야기를 들려줬다. '종말의 바보'는 지구와 소행성 충돌까지 D-200, 눈앞에 닥친 종말에 아수라장이 된 세상과 그럼에도 불구하고 끝까지 함께 오늘을 살아가는 사람들의 이야기를 그린 넷플릭스 시리즈다. 일본 작]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[엄현경, 출산 후 복귀도 거침없이…상여자 변신 '용감무쌍 용수정']]></title>
-        <id>https://v.daum.net/v/20240503144942767</id>
-        <link href="https://v.daum.net/v/20240503144942767"/>
-        <updated>2024-05-03T06:15:21.757Z</updated>
-        <content type="html"><![CDATA[배우 엄현경이 복귀 신호탄을 쐈다. 득남 후 변함없는 모습으로 일일 드라마 시청자들의 눈과 귀를 즐겁게 해줄 '용감무쌍 용수정'이다. 3일 오전 서울 상암MBC 사옥에서 MBC 새 일일드라마 '용감무쌍 용수정'(극본 최연결·연출 이민수) 제작발표회가 진행됐다. 행사에는 배우 엄현경, 서준영, 임주은, 권화운, 이승연, 지수원과 양정아, 이민수 PD가 참]]></content>
     </entry>
 </feed>
