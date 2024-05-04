@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2024-05-04T22:09:58.905Z</updated>
+    <updated>2024-05-04T23:11:25.934Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['스타워즈 합류' 이정재, '스타워즈 데이' 맞아 부산行 "포스가 당신과 함께하기를"]]></title>
+        <id>https://v.daum.net/v/20240505080823774</id>
+        <link href="https://v.daum.net/v/20240505080823774"/>
+        <updated>2024-05-04T23:11:06.346Z</updated>
+        <content type="html"><![CDATA[[OSEN=최이정 기자] 배우 이정재가 '2024&nbsp;‘스타워즈 데이’를 맞아 부산에 떴다. 월트디즈니&nbsp;컴퍼니&nbsp;코리아(이하&nbsp;디즈니코리아)가&nbsp;올해&nbsp;‘스타워즈&nbsp;데이&nbsp;(Star Wars Day)’를&nbsp;맞이해 5월&nbsp;4일&nbsp;부산&nbsp;해운대&nbsp;해수욕장&nbsp;일대에서&nbsp;다채로운&nbsp;행사를&nbsp;실시했다.&nbsp; 매년&nbsp;5월&nbsp;4일인&nbsp;‘스타워즈&nbsp;데이’는&nbsp;전&nbsp;세계&nbsp;곳곳에서&nbsp;다양한&nbsp;행사가&nbsp;펼쳐지는&nbsp;스타워즈&nbsp;]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[두 번의 추가 공휴일…가정의 달 5월 특수 누릴 영화는]]></title>
         <id>https://v.daum.net/v/20240505061503856</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240504120003015"/>
         <updated>2024-05-04T03:13:04.291Z</updated>
         <content type="html"><![CDATA[[스타뉴스 | 김나연 기자] 영화 '범죄도시4'의 배우 이동휘가 22일 진행된 인터뷰를 위해 포즈를 취하고 있다. /사진제공=에이비오엔터테인먼트 2024.04.22 /사진=이동훈'범죄도시4'의 이동휘가 빌런으로 변신해 새로운 얼굴을 뽐냈다. 그는 마동석을 "은인같은 분"이라며 고마운 마음을 전했다. 최근 서울시 종로구 팔판동의 한 카페에서 영화 '범죄도]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[범죄도시 시리즈 최고의 전투력, 4대 빌린 김무열의 최후]]></title>
-        <id>https://v.daum.net/v/20240504114901932</id>
-        <link href="https://v.daum.net/v/20240504114901932"/>
-        <updated>2024-05-04T03:13:04.296Z</updated>
-        <content type="html"><![CDATA[모든 영화는 끝을 향해 달리는 열차다. 많은 영화가 세상에 내놓고 싶었던, 스크린 위에 펼치고 싶었던 명장면 하나를 위해 2시간 러닝타임을 채우기도 한다. 배우도 마찬가지다. 하지만 모든 배우가 자신의 모든 것을 쏟아 넣은 순도 100%의 명장면을 영화 안에 남기진 못한다. 배우의 준비가 부족했을 수도 있고, 배우는 온전히 표현했는데 감독과 작품이 받아]]></content>
     </entry>
 </feed>
