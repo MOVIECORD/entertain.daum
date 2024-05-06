@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-05-06T06:15:54.684Z</updated>
+    <updated>2024-05-06T07:11:26.778Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['멱살' 김하늘X장승조, 첫 만남 바닷가 재회..악연의 진실 공개]]></title>
+        <id>https://v.daum.net/v/20240506160913119</id>
+        <link href="https://v.daum.net/v/20240506160913119"/>
+        <updated>2024-05-06T07:11:12.203Z</updated>
+        <content type="html"><![CDATA[[OSEN=장우영 기자] ‘멱살 한번 잡힙시다’의 김하늘과 장승조가 응어리진 감정을 쏟아낸다. 6일 밤 10시 10분 방송되는 KBS2 월화드라마 ‘멱살 한번 잡힙시다’(극본 배수영, 연출 이호 이현경, 제작 몬스터유니온, 프로덕션H) 15회에서 아버지의 죽음에 대해 조사하던 서정원(김하늘)은 결정적인 단서를 목격한다. 앞서 정원은 아버지의 유품을 샅샅]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[변우석, 김혜윤 공주님 안기→밀착 스킨십...'솔친자 매력’ 폭발]]></title>
         <id>https://v.daum.net/v/20240506135313081</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240506103001260"/>
         <updated>2024-05-06T01:53:37.959Z</updated>
         <content type="html"><![CDATA[‘선재 업고 튀어’ 김혜윤이 변우석을 구하기 위해 ‘20살’로 돌아간다. tvN 월화드라마 ‘선재 업고 튀어’가 MZ를 사로잡은 올해의 드라마로 각광받고 있다. 1.2%에서 시작한 타깃 시청률(유료플랫폼 전국 가구 기준)은 3주만에 2배 이상 상승하며 4주 연속 전 채널 1위를, 연령별 시청률도 여성 10대에서 50대까지 전 채널 1위를 차지했다. 특히 7]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['히어로' 천우희, 신비+당돌 '독보적 비범함']]></title>
-        <id>https://v.daum.net/v/20240506102644198</id>
-        <link href="https://v.daum.net/v/20240506102644198"/>
-        <updated>2024-05-06T01:53:37.959Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 | 한해선 기자] /사진=JTBC 배우 천우희가 JTBC 새 토일드라마 '히어로는 아닙니다만'(극본 주화미, 연출 조현탁)에서 초능력 가족 앞에 나타난 수상한 여자 '도다해' 역을 맡아 '천의 얼굴'다운 첫인상을 남겼다. 지난 4일 방송된 1회에서 도다해는 바다에 빠진 복귀주(장기용 분)를 구하며 첫 등장했다. 이어 다해는 귀주의 엄마 복만흠(]]></content>
     </entry>
 </feed>
