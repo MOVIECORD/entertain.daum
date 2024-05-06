@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-05-06T14:11:46.010Z</updated>
+    <updated>2024-05-06T15:12:09.423Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[연우, 눈빛→헤어스타일 모두 바꿨다…기묘한 매력녀 변신]]></title>
+        <id>https://v.daum.net/v/20240506232635486</id>
+        <link href="https://v.daum.net/v/20240506232635486"/>
+        <updated>2024-05-06T15:11:57.321Z</updated>
+        <content type="html"><![CDATA[연우가 베일에 싸인 기묘한 매력의 이세나 역으로 변신한다. 오는 24일(금) 첫 방송되는 MBC 새 금토드라마 ‘우리, 집’(기획 권성창 / 연출 이동현, 위득규 / 극본 남지연 / 제작 레드나인픽쳐스)은 자타 공인 대한민국 최고의 가정 심리 상담의인 노영원이 정체 모를 협박범에게 자신의 커리어와 가정을 위협받게 되면서 추리소설 작가인 시어머니와 공조해]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘선업튀’ 변우석, 김혜윤에 ‘너 누구야’…“정말 미래에서 왔나”]]></title>
         <id>https://v.daum.net/v/20240506230908373</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240506204746344"/>
         <updated>2024-05-06T12:20:24.660Z</updated>
         <content type="html"><![CDATA[[스타뉴스 | 정은채 기자] /사진='피도 눈물도 없이' 방송화면 캡쳐'피도 눈물도 없이' 오창석이 정찬의 휴대폰을 손에 넣었다. 6일 방송된 KBS 2TV 일일 드라마 '피도 눈물도 없이'에서는 이준모(서하준 분)이 백성윤(오창석 분)에게 도움을 요청하는 장면이 그려졌다. 이날 민자영(이아현 분)은 형사를 매수해 경찰서에서 증거 물품들을 검찰청 증거]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['피도 눈물도 없이' 이소연, 하연주 범행 녹취록 공개 "子 학대한 증거"]]></title>
-        <id>https://v.daum.net/v/20240506202126158</id>
-        <link href="https://v.daum.net/v/20240506202126158"/>
-        <updated>2024-05-06T12:20:24.662Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 | 정은채 기자] /사진='피도 눈물도 없이' 방송화면 캡쳐'피도 눈물도 없이' 하연주가 아동 학대 혐의로 수감됐다. 6일 방송된 KBS 2TV 일일 드라마 '피도 눈물도 없이'에서는 백명철 변호사(김병기 분)가 배도은(하연주 분)의 변호를 포기하는 모습이 그려졌다. 이날 백명철은 배도은 변호 직전 이혜원(이소연 분)과 제임스 리(서하준 분)]]></content>
     </entry>
 </feed>
