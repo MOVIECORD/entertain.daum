@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2024-05-08T01:31:48.658Z</updated>
+    <updated>2024-05-08T02:12:49.568Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘삼식이 삼촌’ 송강호 “데뷔 35년만에 첫 시리즈, 긴장되면서도 설레어”]]></title>
+        <id>https://v.daum.net/v/20240508110937503</id>
+        <link href="https://v.daum.net/v/20240508110937503"/>
+        <updated>2024-05-08T02:12:31.911Z</updated>
+        <content type="html"><![CDATA[배우 송강호가 데뷔 35년만에 OTT플랫폼 시리즈에 도전하는 떨림을 고백했다. 송강호는 8일 서울 강남구 그랜드인터컨티넨탈 서울파르나스에서 진행된 OTT플랫폼 디즈니+ 새 시리즈 ‘삼식이 삼촌’(감독 신연식) 제작발표회에서 “영화 데뷔한 지 28년째고 연극부터 치면 35년째다. 그렇게 영화나 무대 위에서 관객들에게 인사드린지 35년만에 첫 시리즈에 나]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[홍상수 감독 영화가 독립영화계에 던지는 시사점]]></title>
+        <id>https://v.daum.net/v/20240508110302097</id>
+        <link href="https://v.daum.net/v/20240508110302097"/>
+        <updated>2024-05-08T02:12:31.922Z</updated>
+        <content type="html"><![CDATA[[김성호 기자] &nbsp;▲ 오! 수정&nbsp;포스터ⓒ 전주국제영화제&nbsp; 한국 독립영화 감독 가운데 가장 유명한 인물을 꼽으라면 역시 홍상수라 답할 밖에 없다. 독립영화의 정의란 언제나 모호하지만 대규모 자본으로부터의 독립과 감독 의도의 관철이란 점에서 홍상수의 영화는 늘 독립적이었다. 메시지는 물론이요, 서사와 촬영, 배우들의 연기에 있어서까지 홍상수의 작품들은 독립영화]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[사고로 조작된 청부 살인, 타겟이 된 강동원‥‘설계자’ 메인 포스터 공개]]></title>
         <id>https://v.daum.net/v/20240508102422205</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240508090947095"/>
         <updated>2024-05-08T00:40:27.627Z</updated>
         <content type="html"><![CDATA[[티브이데일리 최하나 기자] 영화 ‘범죄도시4’가 박스오피스 1위를 기록했다. 8일 영화진흥위원회 통합전산망에 따르면 영화 ‘범죄도시4’(감독 허명행)가 지난 7일 14만8811명을 동원하며 박스오피스 1위를 기록했다. 누적 관객수는 871만8703명이다. ‘범죄도시4’는 괴물형사 마석도(마동석)가 대규모 온라인 불법 도박 조직을 움직이는 특수부대 용병]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘범죄도시4’ 900만 눈앞...글로벌 수익 773억]]></title>
-        <id>https://v.daum.net/v/20240508090901066</id>
-        <link href="https://v.daum.net/v/20240508090901066"/>
-        <updated>2024-05-08T00:40:27.629Z</updated>
-        <content type="html"><![CDATA[‘범죄도시4’가 14일 연속 1위를 지키며 흥행 질주 중이다. 8일 영화진흥위원회 영화관입장권 통합전산망에 따르면 ‘범죄도시4’(감독 허명행)는 전날 14만 8811명을 모아 박스오피스 1위를 차지했다. 누적 관객수는 871만 8703명이다. 영화는 형사 마석도가 대규모 온라인 불법 도박 조직을 움직이는 특수부대 용병 출신 백창기와 IT 기업 천재 CEO]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[잉그리드 포크로펙 "첫 영화로 국제경쟁 대상까지, 기뻐"]]></title>
-        <id>https://v.daum.net/v/20240508090255830</id>
-        <link href="https://v.daum.net/v/20240508090255830"/>
-        <updated>2024-05-08T00:40:27.632Z</updated>
-        <content type="html"><![CDATA[잉그리드 포크로펙(Ingrid Pokropek) 감독이 자신의 첫 영화 '메이저 톤으로'로 제25회 전주국제영화제서 국제경쟁 대상을 받았다. 아르헨티나 부에노스아이레스를 배경으로 한 '메이저 톤으로'는 겨울 방학의 어느 날 열네 살의 소녀 아나가 어릴 적 사고로 팔에 이식한 금속판이 모스 부호로 된 이상한 메시지를 수신하고 있다는 걸 알게 된 후, 이를 추]]></content>
     </entry>
 </feed>
