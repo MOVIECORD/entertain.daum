@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2024-05-08T22:11:02.079Z</updated>
+    <updated>2024-05-08T23:12:33.062Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['범죄도시4' 누적관객 884만, 5월도 꺾이지 않는 흥행 몰이]]></title>
+        <id>https://v.daum.net/v/20240509080952929</id>
+        <link href="https://v.daum.net/v/20240509080952929"/>
+        <updated>2024-05-08T23:12:16.874Z</updated>
+        <content type="html"><![CDATA[[OSEN=연휘선 기자] 영화 '범죄도시4'가 5월 신작 개봉 틈에도 전체 박스오피스, 예매율 1위를 수성했다.&nbsp; 지난 8일 영화진흥위원회 통합전산망에 따르면 '범죄도시4'(감독 허명행)는 개봉 15일 연속 박스오피스 1위를 기록했다.&nbsp;동시에 영화는 압도적인 흥행 기세를 보여줬다. '혹성탈출: 새로운 시대' 등 할리우드 블록버스터 개봉에도 꺾이지 않고]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['범죄도시4' 884만 돌파…천만 기록 예고]]></title>
+        <id>https://v.daum.net/v/20240509074545397</id>
+        <link href="https://v.daum.net/v/20240509074545397"/>
+        <updated>2024-05-08T23:12:16.875Z</updated>
+        <content type="html"><![CDATA[(서울=뉴스1) 윤효정 기자 = 영화 '범죄도시 4'(감독 허명행)가 15일째 박스오피스 1위를 지키고 있다. 9일 영화진흥위원회 영화관 입장권 통합 전산망에 따르면 '범죄도시 4'는 지난 8일 하루 전국 2022개 스크린에서 12만 4522명을 동원하며 박스오피스 1위를 지켰다. 개봉 15일째 1위를 이어가면서, 누적 관객 수는 884만 3163명이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[황정민, 전두광으로 얻은 ‘N번째’ 전성기…칸 찍고 무대까지 이어간다]]></title>
         <id>https://v.daum.net/v/20240509063153175</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240508170700010"/>
         <updated>2024-05-08T08:12:36.773Z</updated>
         <content type="html"><![CDATA[(서울=연합뉴스) 이영재 기자 = 오는 15일 개봉하는 김세휘(35) 감독의 영화 '그녀가 죽었다'는 남을 훔쳐보는 데 병적으로 집착하는 정태(변요한 분)와 사회관계망서비스(SNS)에서 보여주는 화려한 모습과는 정반대로 사는 이중인격의 인플루언서 소라(신혜선)의 이야기다. 정태가 편의점에서 우연히 마주친 소라의 사생활을 염탐하게 되면서 이야기가 전개된다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[제25회 전주국제영화제, 수상작 발표…남궁선 '힘을 낼 시간' 3관왕]]></title>
-        <id>https://v.daum.net/v/20240508165206230</id>
-        <link href="https://v.daum.net/v/20240508165206230"/>
-        <updated>2024-05-08T08:12:36.775Z</updated>
-        <content type="html"><![CDATA[[티브이데일리 김종은 기자] 제25회 전주국제영화제 16편의 수상작이 공개됐다. 제25회 전주국제영화제(집행위원장 민성욱·정준호)는 지난 7일 전북대학교 삼성문화회관에서 시상식을 열고 국제경쟁, 한국경쟁, 한국단편경쟁 부문 등 총 16편의 수상작에 대한 시상을 진행했다. 경쟁작들에 대한 심사는 국제경쟁의 데라 캠벨, 마티아스 피녜이로, 주앙 페드로 호드]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[임윤아, 칸 레드카펫 수놓는다…계속되는 '글로벌 행보']]></title>
-        <id>https://v.daum.net/v/20240508164307779</id>
-        <link href="https://v.daum.net/v/20240508164307779"/>
-        <updated>2024-05-08T08:12:36.776Z</updated>
-        <content type="html"><![CDATA[[스포츠조선 안소윤 기자] 배우 임윤아가 제77회 칸 국제 영화제(Cannes Film Festival)를 찾는다. 임윤아는 오는 19일(현지 시간) 케어링(Kering) 그룹 산하 파인 주얼리 브랜드 키린(Qeelin)의 앰버서더 자격으로 초청받아 프랑스 칸 팔레 드 페스티벌(Palais des Festivals)에서 열리는 제77회 칸 국]]></content>
     </entry>
 </feed>
