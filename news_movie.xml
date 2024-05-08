@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2024-05-08T15:11:45.193Z</updated>
+    <updated>2024-05-08T16:14:36.067Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2주만에 772억 번 ‘범죄도시4’, 글로벌 흥행 펀치]]></title>
+        <id>https://v.daum.net/v/20240509003156885</id>
+        <link href="https://v.daum.net/v/20240509003156885"/>
+        <updated>2024-05-08T16:14:19.898Z</updated>
+        <content type="html"><![CDATA[사진제공｜에이비오엔터테인먼트 1000만 돌파를 향해 달려가고 있는 영화 ‘범죄도시4’가 해외 박스오피스에서도 흥행 신기록을 세우고 있는 중이다. 8일 배급사 에이비오엔터테인먼트는 “전 세계 박스오피스 사이트인 박스오피스 모조에 따르면 ‘범죄도시4’가 개봉 2주차까지 약 5687만 달러(772억6204만 원) 이상의 글로벌 수익을 기록했다”고 밝혔다. 특히]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘그녀가 죽었다’ 김세휘 감독 “‘너무 재밌는데!’라는 말 듣고 싶어요”]]></title>
         <id>https://v.daum.net/v/20240509000205564</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240508161755528"/>
         <updated>2024-05-08T08:12:36.782Z</updated>
         <content type="html"><![CDATA[[뉴스엔 배효주 기자] 임윤아가 제77회 칸 국제영화제를 찾는다. 오는 5월 19일(현지시간) 임윤아는 케어링(Kering)그룹 산하 파인 주얼리 브랜드 키린(Qeelin)의 앰버서더 자격으로 초청되어 프랑스 칸 팔레 드 페스티벌(Palais des Festivals)에서 열리는 제77회 칸 국제 영화제(Cannes Film Festival)의 레드카펫을]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박찬욱 드라마→40년 만의 연극, '아이언맨' 꼬리표 떼려는 로다주의 노력]]></title>
-        <id>https://v.daum.net/v/20240508161750524</id>
-        <link href="https://v.daum.net/v/20240508161750524"/>
-        <updated>2024-05-08T08:12:36.783Z</updated>
-        <content type="html"><![CDATA[[티브이데일리 김종은 기자] 할리우드 배우 로버트 다우니 주니어의 예상 밖 행보가 이어지고 있다. '오펜하이머'로 오스카상을 품에 안은 뒤 승승장구 행보를 이어가나 싶었으나 박찬욱 감독의 새 드라마 '동조자'에 출연하는가 하면, 40년 만에 다시 연극에 도전하는 등 파격적인 도전들로 팬들을 놀라게 하고 있는 것. 매체를 가리지 않고 연기 열정을 불태우고 있]]></content>
     </entry>
 </feed>
