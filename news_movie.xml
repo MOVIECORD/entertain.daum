@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2024-05-09T20:12:16.711Z</updated>
+    <updated>2024-05-09T21:12:40.258Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[볼거리는 분명 많아졌는데…새 부대에 헌 술 담은 ‘혹성탈출: 새로운 시작]]></title>
+        <id>https://v.daum.net/v/20240510060022871</id>
+        <link href="https://v.daum.net/v/20240510060022871"/>
+        <updated>2024-05-09T21:12:20.814Z</updated>
+        <content type="html"><![CDATA[[스포츠서울 | 함상범 기자] 2011년 개봉한 ‘혹성탈출: 진화의 시작’부터 2017년 나온 ‘혹성탈출: 종의 전쟁’까지. 전세계에서 총 16억 8100만 달러를 벌어들인 프랜차이즈 ‘혹성탈출’은 유인원 리더 시저의 일대기였다. 세편의 시리즈는 유인원이 어떻게 언어와 지성을 획득했는지, 인간과 다른 종 사이에서 생존해 온 과정을 흥미진진하게 묘사했다]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[13년 만에 한 작품, 김태용 감독·탕웨이 부부 “24시간 영화 얘기”]]></title>
         <id>https://v.daum.net/v/20240510041214767</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240509175007949"/>
         <updated>2024-05-09T09:12:33.976Z</updated>
         <content type="html"><![CDATA[(엑스포츠뉴스 김유진 기자) '원더랜드'의 김태용 감독이 동료이자 아내인 탕웨이와 한 작품에서 호흡한 소감을 전했다. 9일 오전 서울 용산구 CGV용산아이파크몰에서 영화 '원더랜드'(감독 김태용) 제작보고회가 열렸다. 이 자리에는 김태용 감독과 배우 탕웨이, 수지, 박보검, 최우식이 참석했다. '원더랜드'는 죽은 사람을 인공지능으로 복원하는 영상통화 서비스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['혹성탈출 4' 웨스 볼 감독 "세계 최고의 CG로 감동 선사"]]></title>
-        <id>https://v.daum.net/v/20240509174213675</id>
-        <link href="https://v.daum.net/v/20240509174213675"/>
-        <updated>2024-05-09T09:12:33.977Z</updated>
-        <content type="html"><![CDATA[[서울경제] 특수효과(VFX)의 대명사인 헐리우드 블록버스터 ‘혹성탈출’ 시리즈가 7년 만에 돌아왔다. 신작 ‘혹성탈출: 새로운 시대'를 연출한 웨스 볼 감독은 최근 화상 기자간담회에서 “시리즈의 4편을 만드는 것이 아닌 이 프랜차이즈의 완전히 새로운 장을 열고자 했다”고 말했다. 영화의 가장 주목할 만한 부분은 역시 엄청난 수준의 컴퓨터그래픽(CG)이다]]></content>
     </entry>
 </feed>
