@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2024-05-10T21:11:50.710Z</updated>
+    <updated>2024-05-10T22:12:06.480Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[범죄도시4, 참교육으로 이룬 3000만 신기원]]></title>
+        <id>https://v.daum.net/v/20240511070707311</id>
+        <link href="https://v.daum.net/v/20240511070707311"/>
+        <updated>2024-05-10T22:11:50.120Z</updated>
+        <content type="html"><![CDATA[‘범죄도시4’가 900만 관객을 돌파하며 이번 주말에 1000만 관객을 달성할 가능성이 매우 높아졌다. 개봉 첫날 82만명 이상의 관객을 동원해 올해 최고 오프닝 기록을 세웠고 개봉 2일째 100만, 개봉 4일째 300만, 개봉 5일째 400만, 개봉 7일째 500만, 개봉 9일째 600만, 개봉 11일째 700만, 개봉 13일째 800만, 개봉 17일째]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[故 이선균 유작 ‘행복의 나라’, 8월 관객들 만난다]]></title>
         <id>https://v.daum.net/v/20240510193343701</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240510140001873"/>
         <updated>2024-05-10T05:11:50.450Z</updated>
         <content type="html"><![CDATA[[스타뉴스 | 중구=김나연 기자] 더 에이트 쇼 / 사진=이동훈 기자시리즈물로 돌아온 한재림 감독과 8인의 명품 배우들이 '더 에이트 쇼'로 뭉쳤다. 돈 앞에 무너진 인생을 살아가고 있는 8명에게 도착한 달콤한 초대, 8명의 사람, 8개의 층, 8인의 희비극이 펼쳐진다. 10일 서울시 중구 한 호텔에서 넷플릭스 오리지널 시리즈 'The 8 Show'(더]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["비판 감당" 류준열→'고개 숙인' 배성우..해명의 장 된 '더 에이트 쇼']]></title>
-        <id>https://v.daum.net/v/20240510123044570</id>
-        <link href="https://v.daum.net/v/20240510123044570"/>
-        <updated>2024-05-10T04:13:14.817Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 | 중구=김나연 기자] 배우 류준열이 10일 오전 앰배서더 서울 풀만 호텔에서 진행된 넷플릭스 오리지널 시리즈 '더 에이트 쇼' 제작발표회에서 질문에 답하고 있다.  8명의 인물이 8층으로 나뉜 비밀스런 공간에 갇혀 ‘시간이 쌓이면 돈을 버는’ 달콤하지만 위험한 쇼에 참가하면서 벌어지는 이야기 '더 에이트 쇼'는 오는 17일 공개된다. /2024]]></content>
     </entry>
 </feed>
