@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-05-11T05:11:27.980Z</updated>
+    <updated>2024-05-11T06:14:07.652Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘크래시’ 공개한 떡밥, 이민기에 교통사고 트라우마 있나]]></title>
+        <id>https://v.daum.net/v/20240511141638294</id>
+        <link href="https://v.daum.net/v/20240511141638294"/>
+        <updated>2024-05-11T06:13:53.890Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 박수인 기자] '크래시'가 하이라이트 영상을 전격 공개했다. ENA 새 월화드라마 ‘크래시’(연출 박준우, 극본 오수진, 기획 KT스튜디오지니, 제작 에이스토리)는 교통범죄수사팀의 노브레이크 직진 수사극. 각각의 성격과 주무기가 확연하게 뚜렷한 이민기, 곽선영, 허성태, 이호철, 문희, 5인방이 뭉친 교통범죄수사팀(TCI, Traffic Crim]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["강강약약" 이제훈, ‘휴머니즘 형사’ 그 자체..스케일 커진 사건 속 힐링]]></title>
         <id>https://v.daum.net/v/20240511141017223</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240511080102794"/>
         <updated>2024-05-10T23:11:08.432Z</updated>
         <content type="html"><![CDATA[[텐아시아=류예지 기자]'밥 잘 사주는 예쁜 누나' '봄밤' '밀회' 등 멜로 수작을 만든 안판석 감독이 돌아온다. 신작 '졸업'엔 10살 차이 정려원과 위하준이 함께한다. 지난 9일 서울 구로구 신도림동 라마다서울신도림호텔에서 tvN 토일드라마 '졸업'(극본 박경화 / 연출 안판석) 제작발표회가 진행됐다. 이날 자리에는 안판석 감독과 정려원 위하준이 참]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["심장 주고 싶다" 윤종훈, 조윤희 살리고 사망 '충격' 하차]]></title>
-        <id>https://v.daum.net/v/20240511075521697</id>
-        <link href="https://v.daum.net/v/20240511075521697"/>
-        <updated>2024-05-10T23:11:08.432Z</updated>
-        <content type="html"><![CDATA[[OSEN=최이정 기자]&nbsp;‘7인의 부활’&nbsp;엄기준,&nbsp;이준,&nbsp;윤종훈이 맹렬한 추격전을 펼쳤다. 지난&nbsp;10일 방송된&nbsp;SBS&nbsp;금토드라마&nbsp;‘7인의 부활’(연출 오준혁·오송희,&nbsp;극본 김순옥,&nbsp;제작 초록뱀미디어·스튜디오S) 13회에서는 진실을 숨기려는 매튜 리(=심준석/엄기준 분)와 거짓을 밝히려는 민도혁(이준 분)의 치열한 움직임이 그려졌다. ‘진짜’&nbsp;이휘소임을]]></content>
     </entry>
 </feed>
