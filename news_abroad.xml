@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2024-05-10T23:11:21.848Z</updated>
+    <updated>2024-05-11T00:49:05.806Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김대호, MZ 결혼식서 커플 매칭 실패 ”언젠간 저도…”]]></title>
+        <id>https://v.daum.net/v/20240511092718671</id>
+        <link href="https://v.daum.net/v/20240511092718671"/>
+        <updated>2024-05-11T00:49:05.155Z</updated>
+        <content type="html"><![CDATA[‘나혼산’ 김대호가 울릉도에서 우연히 인연을 맺은 MZ 커플과의 ‘결혼식 사회’ 약속을 지켰다. 결혼식 2부 이벤트에서 기대했던 커플 매칭은 실패했지만, 미래에 올리고 싶은 자신의 결혼식에 대한 로망과 의지를 뜨겁게 불태웠다. 지난 10일 방송된 MBC ‘나 혼자 산다’(이하 ‘나혼산’)에서는 울릉도에서 인연을 맺은 커플의 결혼식 사회자로 의리를 지킨 김]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[스트레이 키즈, '멧 갈라'서 무슨일 있었기에…가장 영향력 있는 참가자로 '주목']]></title>
         <id>https://v.daum.net/v/20240511073004506</id>
@@ -88,19 +95,5 @@
         <link href="https://v.daum.net/v/20240510103901019"/>
         <updated>2024-05-10T01:56:00.723Z</updated>
         <content type="html"><![CDATA[[TV리포트=강성훈 기자] 애니메이션 '호빵맨'의 주인공 호빵맨의 성우로 유명한 일본 배우 토다 케이코(66)가 안타까운 근황을 전해 관심이 쏠린다. 지난 7일 토다 케이코는 후지TV '포카포카'에 출연했다. 그는 이날 '호빵맨'이 장수 애니메이션인 만큼 성우 출연진의 노화도 진행되고 있다고 설명했다. 토다 케이코는 '호빵맨' 제작진 측에게 "대본 글씨를]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[저스틴 비버♥헤일리 비버, 부모 된다..."임신 6개월차"]]></title>
-        <id>https://v.daum.net/v/20240510093930448</id>
-        <link href="https://v.daum.net/v/20240510093930448"/>
-        <updated>2024-05-10T00:50:05.351Z</updated>
-        <content type="html"><![CDATA[[TV리포트=강성훈 기자] 어릴 때 데뷔해 큰 사랑을 받은 팝스타 저스틴 비버(30)가 어느덧 아빠가 된다. 9일(현지 시간) 외신 'USA 투데이'는 저스틴 비버와 그의 아내인 모델 헤일리 비버(27)가 첫 아이를 낳을 예정이라고 보도했다. 관계자의 말을 빌려 "헤일리 비버가 임신한 지 6개월이 조금 넘었다"라고 덧붙였다. 같은 날 헤일리 비버는 개인 소]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“콘서트 티켓 4800만원 말도 안돼”, 되팔이 금지 ‘스위프트 법’ 나왔다]]></title>
-        <id>https://v.daum.net/v/20240510091844603</id>
-        <link href="https://v.daum.net/v/20240510091844603"/>
-        <updated>2024-05-10T00:50:05.352Z</updated>
-        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]미국 미네소타주에서 터무니 없는 고가의 가격으로 티켓을 되파는 행위를 금지하는 일명 ‘테일러 스위프트 법안’이 나왔다. NBC뉴스 등은 8일(현지시간) 팀 월즈 미네소타 주지사가 전날 스위프트의 인기 앨범 이름이자 스위프트의 출생 연도 숫자 '1989'를 붙인 법안 '하우스 파일 1989'에 서명했다고 보도했다. 이 법안]]></content>
     </entry>
 </feed>
