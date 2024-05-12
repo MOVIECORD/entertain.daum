@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-05-12T01:57:30.845Z</updated>
+    <updated>2024-05-12T02:27:51.340Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이제훈♥서은수, 부모 된다 "험한 세상 잘 헤쳐나가게 잘 키우자"]]></title>
+        <id>https://v.daum.net/v/20240512105921979</id>
+        <link href="https://v.daum.net/v/20240512105921979"/>
+        <updated>2024-05-12T02:27:36.545Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 김현정 기자)&nbsp;‘수사반장 1958’이 소년법의 진정한 의미와 역할을 되짚었다. 서은수는 이제훈에게 임신 사실을 알렸다. 11일 방송한 MBC 금토드라마 ‘수사반장 1958’에서는 수사 1반 형사들이 두 개의 팀으로 나뉘어 두 개의 사건을 수사했다. 존속살해를 저지른 소년범 김만수(최현진 분)와 고산개척단 소년 삼인방, 이들 각각의 이야기를 통]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["한 번 더 되어볼게요, 인생의 명장면" 위하준, 정려원 제자에서 동료로]]></title>
         <id>https://v.daum.net/v/20240512104423758</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240512083516999"/>
         <updated>2024-05-12T00:54:08.785Z</updated>
         <content type="html"><![CDATA[[OSEN=김채연 기자] 안판석 감독의 신작 ‘졸업’이 시청자들의 마음을 흔들어놨다. 11일 첫 방송된 tvN&nbsp;토일드라마&nbsp;‘졸업’(연출 안판석,&nbsp;극본 박경화,&nbsp;제작 스튜디오드래곤·(주)제이에스픽쳐스)은 뜨거운 기대와 함께 막을 열었다.&nbsp; 대체로 평범하고 가끔은 다이내믹한 학원 강사의 삶을 이어오던 서혜진(정려원 분)의 앞에 난데없이 컴백한 옛 제자 이준]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["눈만 뜨면 천우희가 있어" 장기용, 불행 과거·저주 운명 밝혀졌다]]></title>
-        <id>https://v.daum.net/v/20240512083202977</id>
-        <link href="https://v.daum.net/v/20240512083202977"/>
-        <updated>2024-05-12T00:54:08.787Z</updated>
-        <content type="html"><![CDATA[[텐아시아=최지예 기자]‘히어로는 아닙니다만’ 장기용이 생애 가장 불행했던 과거를 바꿀 수 있을까. 지난 11일 방송된 JTBC 토일드라마 ‘히어로는 아닙니다만’(연출 조현탁, 극본 주화미) 3회에서는 복귀주(장기용 분), 도다해(천우희 분)의 운명적으로 연결된 시간이 뭉클한 설렘을 자아냈다. 돌아온 복귀주의 능력은 그를 도다해가 있는 시간으로만 데려갔다]]></content>
     </entry>
 </feed>
