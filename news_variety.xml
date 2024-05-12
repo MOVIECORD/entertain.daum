@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/variety</id>
     <title>다음 연예 ─ 뉴스 ─ 예능</title>
-    <updated>2024-05-12T06:15:15.448Z</updated>
+    <updated>2024-05-12T07:10:45.456Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[데뷔 39년 차 강진, 단독 디너쇼 “대중을 두려워하는 가수로 살겠다”]]></title>
+        <id>https://v.daum.net/v/20240512160000925</id>
+        <link href="https://v.daum.net/v/20240512160000925"/>
+        <updated>2024-05-12T07:10:37.423Z</updated>
+        <content type="html"><![CDATA[데뷔 39년 차 가수 강진이 서울에서 단독 디너쇼를 성황리에 열었다. 지난 10일 서울 테헤란로 그랜드 인터콘티넨탈 서울 파르나스 호텔에서다. 강진이 몇 년 차 가수인가에 관한 기준은 여러 가지일 수 있다. 1975년 언더그라운드 라이브 클럽에서 음악을 시작했던 것부터 생각하면 데뷔 만 49년, 50년 차. 1986년 ‘이별의 신호등’이라는 노래를 발]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['싱크로유'→'핑계고' 올킬..유재석은 플랫폼 격변기에도 '1인자'다]]></title>
+        <id>https://v.daum.net/v/20240512154541687</id>
+        <link href="https://v.daum.net/v/20240512154541687"/>
+        <updated>2024-05-12T07:10:37.423Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 | 한해선 기자] /사진=안테나 방송 프로그램뿐 아니라 각종 OTT, 유튜브 등이 범람하며 어느새 시청률은 '옛말'이 됐다. 온라인 커뮤니티나 SNS 등지에서의 지속적인 언급량은 물론 화제성이 프로그램의 인기를 가늠하는 더욱 적절한 지표로 평가받고 있는 것. 이 가운데 방송인 유재석이 이끄는 예능마다 화제성을 '올킬'하며 그 저력을 과시하고 있]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“하루하루 가까워져” 이효리, ‘엄마, 단둘이 여행갈래’ 첫 티저에 담은 설렘]]></title>
         <id>https://v.daum.net/v/20240512151445832</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240512130449992"/>
         <updated>2024-05-12T04:14:00.875Z</updated>
         <content type="html"><![CDATA[[OSEN=연휘선 기자] '결혼지옥'에서 국제결혼 부부가 등장한다.&nbsp; 오는 13일 방송되는 MBC '오은영 리포트-결혼지옥(약칭 결혼지옥)'에서는 남편만 믿고 한국으로 왔으나 무시당하며 살고 있다는 베트남 아내와 되려 자신이 아내에게 무시당한다는 남편, ‘외톨이 부부’가 등장한다. 아내는 남편의 다정한 면모가 좋아 결혼했으나, 이제는 윽박지르고 폭언을]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["임영웅이 직접 참외 배달"..갓영웅, 콘서트 연습 中 '또 미담']]></title>
-        <id>https://v.daum.net/v/20240512130344972</id>
-        <link href="https://v.daum.net/v/20240512130344972"/>
-        <updated>2024-05-12T04:14:00.884Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 | 한해선 기자] 가수 임영웅이 13일 오후 일본 나고야 니혼가이시홀에서 열린 스타뉴스-미디어보이 주최 '2022 Asia Artist Awards IN JAPAN'(2022 아시아 아티스트 어워즈, 이하 2022 AAA) 레드카펫 행사에 참석해 포즈를 취하고 있다.  스타뉴스와 미디어보이가 주최하고 Asia Artist Awards 조직위원회와]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김승수X양정아, 아침부터 영상통화 하는 '남사친 여사친']]></title>
-        <id>https://v.daum.net/v/20240512124343753</id>
-        <link href="https://v.daum.net/v/20240512124343753"/>
-        <updated>2024-05-12T04:14:00.884Z</updated>
-        <content type="html"><![CDATA[[OSEN=연휘선 기자] 배우 김승수가&nbsp;‘미운 우리 새끼’에서 새 AI 가족을 맞는다.&nbsp; 오늘(12일) 방송되는 SBS 예능 '미운 우리 새끼(약칭 미우새)'에서는 핸드폰 AI에 이어, 한층 업그레이드된 또 다른 AI를 가족으로 맞이한 김승수의 충격 일상이 공개된다.&nbsp; 이날&nbsp;평소 ‘AI에 진심인 남자’로 핸드폰 인공지능에 ‘자기야’라는 애칭까지 붙여 모]]></content>
     </entry>
 </feed>
