@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2024-05-14T09:12:58.196Z</updated>
+    <updated>2024-05-14T10:14:33.111Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[쾌남 이성민X미남 이희준, 연기력 보장 ‘핸섬가이즈’ 6월26일 개봉]]></title>
+        <id>https://v.daum.net/v/20240514183224558</id>
+        <link href="https://v.daum.net/v/20240514183224558"/>
+        <updated>2024-05-14T10:14:14.032Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 배효주 기자] '핸섬가이즈'가 6월 26일 개봉한다. 영화 '핸섬가이즈'(감독 남동협)는 한 번 보면 절대 잊을 수 없는 ‘재필’과 ‘상구’가 전원생활을 꿈꾸며 새집으로 이사 온 날, 지하실에 봉인됐던 비밀이 깨어나며 벌어지는 고자극 오싹 코미디. 공개된 티저 포스터는 터프가이 ‘재필’(이성민)과 섹시가이 ‘상구’(이희준)의 그야말로 시선을 떼지]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[허명행 감독, 무술감독으로 120편 만들고 연출자로 1000만 흥행 목전]]></title>
+        <id>https://v.daum.net/v/20240514182427359</id>
+        <link href="https://v.daum.net/v/20240514182427359"/>
+        <updated>2024-05-14T10:14:14.034Z</updated>
+        <content type="html"><![CDATA[[스포츠한국 모신정 기자]"27년 동안 영화계에서 일했고 무술감독으로만 120여편을 만들었어요. 이야기 구조를 만드는 건 어려웠지만 촬영에 대해서는 큰 두려움은 없었어요. 마동석 배우가 연출자 허명행과 두 편이나 함께 했다는 건 믿을만 했다는 것 아닐까요." &nbsp; 허명행 감독은 국내 최고 무술감독에서 영화 감독으로 나선 전무후무한 감독이다.&nbsp; 영화]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[살짝 비틀었을 뿐인데...참신하고 영리한 영화 '그녀가 죽었다']]></title>
         <id>https://v.daum.net/v/20240514181004998</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240514114453498"/>
         <updated>2024-05-14T03:13:38.586Z</updated>
         <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]할리우드 배우 톰 크루즈(61)가 ‘탑건’ 개봉 38주년을 추억했다. 그는 13일(현지시간) 개인 계정에 1986년 개봉한 ‘탑건’ 촬영 현장 스틸 사진을 공유했다. 2012년 68세의 나이로 사망한 토니 스콧 감독과 함께 촬영장에서 찍은 비하인드 사진과 격납고를 개조한 세트에서 출연진들과 함께 찍은 사진이 눈길을 끌었다]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[칸영화제 개막…황정민·정해인, 레드카펫 밟는다]]></title>
-        <id>https://v.daum.net/v/20240514113201020</id>
-        <link href="https://v.daum.net/v/20240514113201020"/>
-        <updated>2024-05-14T03:13:38.587Z</updated>
-        <content type="html"><![CDATA[[텐아시아=김지원 기자] 제77회 칸국제영화제가 14일(이하 현지시간) 프랑스 남부 도시 칸에서 개막한다. 올해 한국 영화로는 비경쟁 부문에 '베테랑2', 다큐멘터리 '영화 청년, 동호'와 단편 영화 '메아리'가 초청 받았다. 올해로 77회를 맞은 칸국제영화제가 14일부터 25일까지 개막작 '더 세컨드 액트' 상영을 시작으로 12일간 개최된다. 한]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['파묘'→'범죄도시4' 흥행 덕에…K무비 4월 매출액도 역대 최고]]></title>
-        <id>https://v.daum.net/v/20240514112654743</id>
-        <link href="https://v.daum.net/v/20240514112654743"/>
-        <updated>2024-05-14T03:13:38.588Z</updated>
-        <content type="html"><![CDATA[(사진=방인권 기자)[이데일리 스타in 김보영 기자] 지난 3월 천만 영화 ‘파묘’ 열풍에 이어 시리즈 최초 트리플 천만 영화 달성을 앞둔 영화 ‘범죄도시4’의 흥행 덕분에 한국 영화 매출액이 두 달 연속 역대 최고치를 기록했다. 14일 영화진흥위원회의 발표에 따르면, ‘범죄도시4’ 흥행으로 지난달 한국 영화 매출액과 관객 수가 역대 4월 중 최고 수준을]]></content>
     </entry>
 </feed>

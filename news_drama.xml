@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-05-14T09:12:58.202Z</updated>
+    <updated>2024-05-14T10:14:33.112Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[손석구 ‘해방일지’ 감독과 재회하나 “‘천국보다 아름다운’ 긍정검토”]]></title>
+        <id>https://v.daum.net/v/20240514185534166</id>
+        <link href="https://v.daum.net/v/20240514185534166"/>
+        <updated>2024-05-14T10:14:19.056Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 박수인 기자] 배우 손석구가 '나의 해방일지' 감독과 재회할까. 손석구 측은 5월 14일 뉴스엔에 새 드라마 '천국보다 아름다운'(가제) 출연 관련 "긍정 검토 중"이라고 밝혔다. '천국보다 아름다운'(가제)는 JTBC 드라마 '눈이 부시게', '로스쿨', '나의 해방일지', '힙하게' 등을 연출한 김석윤 감독의 신작으로 배우 한지민, 이정은이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[며느리 김희선 X 시母 이혜영 '우리 집', MBC 금토극 흥행불패 잇나]]></title>
         <id>https://v.daum.net/v/20240514181051026</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240514145915378"/>
         <updated>2024-05-14T06:16:26.263Z</updated>
         <content type="html"><![CDATA[조수빈[이데일리 스타in 김현식 기자] “도대체 누가 무슨 이유로 조수빈 씨를 프로그램에 꽂으려 했는지 의문이다. 배후를 끝까지 밝혀내겠다.” KBS PD협회는 14일 오후 2시 서울 여의도 KBS 본관 앞에서 연 KBS 1TV 역사 토크쇼 ‘역사저널 그날’ 낙하산 MC 투입 의혹 관련 긴급 기자회견에서 이 같은 입장을 밝혔다. 앞서 ‘역사저널 그날’의]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[키즈 크리에이터 한선화, 어쩌다 큰 형님 엄태구와 한 침대에]]></title>
-        <id>https://v.daum.net/v/20240514143326149</id>
-        <link href="https://v.daum.net/v/20240514143326149"/>
-        <updated>2024-05-14T06:16:26.263Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 배효주 기자] 한선화가 큰 형님 엄태구도 꼼짝 못 하게 만드는 러블리 파워를 발산한다. 오는 6월 12일 오후 8시 50분 첫 방송될 JTBC 새 수목드라마 ‘놀아주는 여자’(극본 나경/ 연출 김영환, 김우현/ 제작 베이스스토리, 아이오케이, SLL)에서 ‘누구보다 잘 놀아주는 그녀’ 고은하(한선화 분)의 사랑스러운 매력을 담은 캐릭터 티저를 공]]></content>
     </entry>
 </feed>
