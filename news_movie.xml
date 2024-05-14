@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2024-05-14T08:16:01.058Z</updated>
+    <updated>2024-05-14T09:12:58.196Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[살짝 비틀었을 뿐인데...참신하고 영리한 영화 '그녀가 죽었다']]></title>
+        <id>https://v.daum.net/v/20240514181004998</id>
+        <link href="https://v.daum.net/v/20240514181004998"/>
+        <updated>2024-05-14T09:12:39.764Z</updated>
+        <content type="html"><![CDATA[(MHN스포츠 장민수 기자) 익숙한 듯 새롭고, 가벼운 듯 무겁고, 호감인 듯 비호감인. 절묘한 비틀기가 돋보이는 영화 '그녀가 죽었다'다.&nbsp; '그녀가 죽었다'는 훔쳐보기가 취미인 공인중개사 구정태가 관찰하던 SNS 인플루언서 한소라의 죽음을 목격하고, 살인자의 누명을 벗기 위해 한소라의 주변을 뒤지며 펼쳐지는 미스터리 추적 스릴러다. 영화 ']]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[아리아나 그란데, '위키드' 오디션 합격 특별했던 이유…"10살 때 보고 빠져들어"]]></title>
         <id>https://v.daum.net/v/20240514170016870</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240514112654743"/>
         <updated>2024-05-14T03:13:38.588Z</updated>
         <content type="html"><![CDATA[(사진=방인권 기자)[이데일리 스타in 김보영 기자] 지난 3월 천만 영화 ‘파묘’ 열풍에 이어 시리즈 최초 트리플 천만 영화 달성을 앞둔 영화 ‘범죄도시4’의 흥행 덕분에 한국 영화 매출액이 두 달 연속 역대 최고치를 기록했다. 14일 영화진흥위원회의 발표에 따르면, ‘범죄도시4’ 흥행으로 지난달 한국 영화 매출액과 관객 수가 역대 4월 중 최고 수준을]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[다현, 대만 레전드 로맨스 ‘그 시절, 우리가 좋아했던 소녀’ 리메이크 출연 검토]]></title>
-        <id>https://v.daum.net/v/20240514110937854</id>
-        <link href="https://v.daum.net/v/20240514110937854"/>
-        <updated>2024-05-14T02:23:37.062Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 배효주 기자] 트와이스 다현이 본격적으로 스크린 연기에 도전한다. 5월 14일 영화계에 따르면, 다현은 영화 '그 시절, 우리가 좋아했던 소녀' 한국 리메이크 버전 캐스팅을 제안받고 출연을 검토 중이다. 대만 영화 '그 시절, 우리가 좋아했던 소녀'(2012)는 국내서도 인기를 끈 대만 배우 가진동 주연작으로, 학교에서 알아주는 사고뭉치 '커징]]></content>
     </entry>
 </feed>

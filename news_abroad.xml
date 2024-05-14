@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2024-05-14T08:16:01.128Z</updated>
+    <updated>2024-05-14T09:12:58.197Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['1600만 유튜버' 히카킨, 일주일 만에 구독자 100만 명 증가...지금도 상승 중]]></title>
+        <id>https://v.daum.net/v/20240514180248788</id>
+        <link href="https://v.daum.net/v/20240514180248788"/>
+        <updated>2024-05-14T09:12:57.499Z</updated>
+        <content type="html"><![CDATA[[TV리포트=강성훈 기자] 일본 온라인 방송인 히카킨의 채널 구독자 수가 폭발적으로 증가해 관심이 모인다. 최근 히카킨의 채널 'HikakinTV'는 일주일 만에 구독자 수 100만 명이 증가했다. 지난 4일, 그의 채널 구독자 수는 1500만 명을 돌파했는데, 11일에는 1600만 명을 달성했다. 14일에는 1640만 명을 기록하며 계속해서 상승 중이다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['꽃보다 남자' 출연 배우, 열애설 부인 후 1년째 잠적...팬들 '걱정']]></title>
+        <id>https://v.daum.net/v/20240514174800342</id>
+        <link href="https://v.daum.net/v/20240514174800342"/>
+        <updated>2024-05-14T09:12:57.499Z</updated>
+        <content type="html"><![CDATA[[TV리포트=전하나 기자] 일본 '꽃보다 남자'의 여주인공 배우 이노우에 마오(37)가 20년간 열애설 및 결혼설에 휩싸이고 있는 배우 마츠모토 준(40)과의 결혼설을 부정한 이후 1년째 어떠한 근황도 전하지 않고 있어 팬들의 걱정이 이만저만이 아니다. 14일(현지 시간), 외신 매체 '겐다이 비즈니즈'가 이노우에 마오가 1년간 연예계에 모습을 드러내지 않]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['죠스' 수잔 백클리니, 심장마비로 떠났다...향년 77세]]></title>
         <id>https://v.daum.net/v/20240514170447102</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240514105840264"/>
         <updated>2024-05-14T02:23:58.002Z</updated>
         <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]영화 ‘저수지의 개들’, ‘파고’ 등으로 유명한 스티브 부세미(66)가 길거리에서 ‘묻지마 폭행’을 당해 충격을 주고 있다. 13일(현지시간) CNN에 따르면, 부세미는 지난 8일 오전 11시 48분쯤 뉴욕 맨해튼의 킵스베이 지역의 거리를 걷던 중 갑자기 다가온 남성에게 폭행을 당했다. 부세미는 왼쪽 눈을 맞고 다쳐 병원]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[톰 홀랜드 ‘흑인 줄리엣’과 인증샷, “내 커리어의 하이라이트”]]></title>
-        <id>https://v.daum.net/v/20240514103244923</id>
-        <link href="https://v.daum.net/v/20240514103244923"/>
-        <updated>2024-05-14T01:52:46.777Z</updated>
-        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]연극 ‘로미오와 줄리엣’에 출연하는 톰 홀랜드가 근황을 전했다. 그는 13일(현지시간) 개인 채널에 “오늘 밤은 특별한 무언가의 시작이었다. 모든 면에서 최선을 다해준 출연진과 제작진이 정말 자랑스럽다. 오늘 밤은 정말 내 커리어의 하이라이트였고, 이 놀라운 사람들과 함께 공유할 수 있어서 정말 기쁘다”라는 글과 함께 사진을]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[배우 스티브 부세미, 뉴욕서 걷다 얼굴 '퍽' 가격당해 부상]]></title>
-        <id>https://v.daum.net/v/20240514094657624</id>
-        <link href="https://v.daum.net/v/20240514094657624"/>
-        <updated>2024-05-14T00:51:08.968Z</updated>
-        <content type="html"><![CDATA[(로스앤젤레스=연합뉴스) 임미나 특파원 = 할리우드 배우 스티브 부세미(66)가 미국 뉴욕에서 거리를 걷다 낯선 사람에게 폭행당해 다쳤다고 미 CNN 방송과 일간 뉴욕타임스(NYT)가 13일(현지시간) 전했다. 뉴욕 경찰국에 따르면 부세미는 지난 8일 오전 11시 48분께 뉴욕 맨해튼의 킵스베이 지역의 거리를 걷던 중 갑자기 다가온 낯선 남성의 주먹에 얼굴]]></content>
     </entry>
 </feed>
