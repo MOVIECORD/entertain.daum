@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/variety</id>
     <title>다음 연예 ─ 뉴스 ─ 예능</title>
-    <updated>2024-05-14T15:13:50.675Z</updated>
+    <updated>2024-05-14T16:14:51.099Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[잘생긴 애 옆에 잘생긴애..안보현 "김우빈 따라 서울行" 데뷔 비화 '최초공개']]></title>
+        <id>https://v.daum.net/v/20240515002046549</id>
+        <link href="https://v.daum.net/v/20240515002046549"/>
+        <updated>2024-05-14T16:14:41.496Z</updated>
+        <content type="html"><![CDATA[[OSEN=김수형 기자] '틈만나면'에서 안보현이 데뷔 비화를 밝혀 눈길을 끌었다. 14일 방송된 SBS 예능 '틈만나면'에서 안보현이 출연했다.&nbsp; 이날 유연석과 유재석이 망원동에서 만났다.&nbsp;이 가운데 배우 안보현이 도착했다.&nbsp;유연석 안보현은 같은 배우인 만큼 친분이 있는지 물었다. &nbsp;두 사람은 시사회 뒤풀이에서 만났다고. 작을품 함께한 적은 없다고 했]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['복싱 선출' 안보현 "김우빈 따라 상경해 배우 활동 시작"]]></title>
         <id>https://v.daum.net/v/20240515000622406</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240514225936693"/>
         <updated>2024-05-14T14:15:57.916Z</updated>
         <content type="html"><![CDATA[유재석이 안보현과 유연석 사이에서 앙증맞은 단신이 됐다. 5월 14일 방송된 SBS ‘틈만나면,’에서는 배우 안보현이 출연했다. 유재석은 안보현 출연에 “오늘따라 키가 커 보인다”며 키를 질문했고 안보현은 키가 187cm라고 밝혔다. 유연석은 키가 183cm였다. 유재석은 “그러니까. 이 정도 돼야 한다”며 안보현과 유연석의 장신에 감탄했고 유연석은]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[안보현 “유연석과 비슷한 성향, 올드카 좋아해 11년 타”]]></title>
-        <id>https://v.daum.net/v/20240514225154641</id>
-        <link href="https://v.daum.net/v/20240514225154641"/>
-        <updated>2024-05-14T14:15:57.920Z</updated>
-        <content type="html"><![CDATA[안보현이 유연석과 올드카를 좋아하는 비슷한 성향을 말했다. 5월 14일 방송된 SBS ‘틈만나면,’에서는 배우 안보현이 출연했다. 안보현 출연에 유연석은 “우리 집안 사람”이라며 지난 방송에서 출연했던 안유진에 이어 또 안 씨가 출연한 것을 반색했다. 유연석의 본명은 안연석. 유재석도 안보현을 “몸이 더 좋아졌다”며 반겼다. 안보현은 “이제 운동을 다]]></content>
     </entry>
 </feed>
