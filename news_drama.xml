@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-05-15T05:12:34.741Z</updated>
+    <updated>2024-05-15T06:16:10.102Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[박준우 연출 '크래시', 이민기·곽선영 태우고 '모범택시' 영광 재연할까]]></title>
+        <id>https://v.daum.net/v/20240515143046087</id>
+        <link href="https://v.daum.net/v/20240515143046087"/>
+        <updated>2024-05-15T06:15:55.574Z</updated>
+        <content type="html"><![CDATA[[엔터미디어=정덕현] 분명한 캐릭터, 디테일한 사건 전개, 확실한 사이다. ENA 월화드라마 &lt;크래시&gt;에서는 어딘가 &lt;모범택시&gt;의 진한 향기가 난다. 특히 드라마 회차 엔딩 끝에 이민기가 등장해 '경찰서 사람들'이라는 코너를 통해 방송된 내용 중 사건들에 대해 설명해 주는 장면이 그렇다. 이 내용을 보면 2회까지 방영된 사건이 그저 허구로 창작된 게 아니라]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[홍예지, 父김주헌과 명세빈 '맨살' 스킨십에 충격]]></title>
         <id>https://v.daum.net/v/20240515140941678</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240515100141064"/>
         <updated>2024-05-15T01:56:48.298Z</updated>
         <content type="html"><![CDATA[아이즈 ize 정수진(칼럼니스트)'수사반장 1958'이 이제 2회를 남겨뒀다. 1971~1989년 방영된 레전드 국민 드라마 '수사반장'의 프리퀄로 방영 전부터 뜨거운 관심을 받은 드라마인데, 솔직히 말하자면 이제야 발동이 걸린 것 같은데 끝이라고 하니 영 떨떠름하고 아쉽다. 시즌제의 가능성을 열어둔 것엔 어느 정도 성공이지만, 시즌제를 열어젖히려면 애초에]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“사제가 어찌 친구처럼” ’MZ선비’ 김명수, 번호 묻는 이유영에 뒷걸음질만]]></title>
-        <id>https://v.daum.net/v/20240515094648740</id>
-        <link href="https://v.daum.net/v/20240515094648740"/>
-        <updated>2024-05-15T00:50:33.201Z</updated>
-        <content type="html"><![CDATA[[OSEN=최지연 기자] ‘함부로 대해줘’ 김명수가 이유영에게 번호를 내주지 않았다.&nbsp;&nbsp; 14일 방송된 KBS 2TV '함부로 대해줘'(연출 장양호, 극본 박유미)에는 김홍도(이유영&nbsp;분)가 신윤복(김명수 분)에게 번호를 물어봤다 거절당하는 모습이 그려져 웃음을 안겼다.&nbsp; 이날 김홍도를 두고 바람 핀 전 남친 이도영(신벽준 분)은 김홍도에게&nbsp;"나 너 때문]]></content>
     </entry>
 </feed>
