@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/variety</id>
     <title>다음 연예 ─ 뉴스 ─ 예능</title>
-    <updated>2024-05-15T16:14:34.003Z</updated>
+    <updated>2024-05-15T17:12:02.833Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘나는 솔로’ 정숙 “영호, 자기소개에서 내 마음 하나도 거스른 것 없어…내 이상형”]]></title>
+        <id>https://v.daum.net/v/20240516011800253</id>
+        <link href="https://v.daum.net/v/20240516011800253"/>
+        <updated>2024-05-15T17:11:53.063Z</updated>
+        <content type="html"><![CDATA[‘나는 솔로’ 20기 정숙과 영호가 서로를 향한 호감을 확인했다. 지난 15일 SBS Plus·ENA ‘나는 SOLO’에서는 정숙이 영호에 솔직한 마음을 털어 놓았다. 정숙은 영호의 향수 향기로 이야기의 물꼬를 텄다. 또한 정숙은 본인의 향수 취향을 드러내며 “수트 입고 그 향이 싹 나면 반하는 느낌이다”라는 말로 대화를 이어갔다. 정숙과의 대화 중 영호는]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘나는 솔로’ 영호 “정숙, 단순히 꾸미거나 허풍 떠는 사람 아니…나랑 비슷해”]]></title>
         <id>https://v.daum.net/v/20240516011200226</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240516000144682"/>
         <updated>2024-05-15T15:11:16.190Z</updated>
         <content type="html"><![CDATA[[스타뉴스 | 이예지 기자] /사진='나는 솔로' 화면 캡처'나는 솔로' 출연자들이 자신의 마음을 고백했다. 15일 오후 방송된 SBS plus '나는 SOLO &lt;나는 솔로&gt;'(이하 '나는 솔로')에서는 '모범생 특집' 20기가 그려졌다. 이들은  첫 데이트 선택으로 탐색전을 시작, 서로의 공통점을 확인하며 빠른 속도로 가까워졌다. 이날 방송에서 정숙]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[윤성호, 해킹 피해 고백 “멘털 무너져…작년 가장 힘들었다”]]></title>
-        <id>https://v.daum.net/v/20240516000056656</id>
-        <link href="https://v.daum.net/v/20240516000056656"/>
-        <updated>2024-05-15T15:11:16.191Z</updated>
-        <content type="html"><![CDATA[개그맨 윤성호가 해킹 피해를 고백했다. 15일(수) 방송된 tvN ‘유 퀴즈 온 더 블럭’ 244회 ‘션샤인’ 특집에서는 현금을 주워 주인을 찾아 준 양심 여고생 양은서, 디제잉하는 ‘뉴진스님’ 개그맨 윤성호, 영화 ‘그녀가 죽었다’와 드라마 ‘삼식이 삼촌’으로 돌아온 배우 변요한이 출연해 MC 유재석·조세호와 릴레이 토크를 펼쳤다. 이날 윤성호는 “]]></content>
     </entry>
 </feed>
