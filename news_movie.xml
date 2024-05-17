@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2024-05-17T21:10:51.480Z</updated>
+    <updated>2024-05-17T22:11:22.744Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[강동원·박보검·하정우, 여름 극장가 예열한다…뜨거운 6월 흥행 대결]]></title>
+        <id>https://v.daum.net/v/20240518070158335</id>
+        <link href="https://v.daum.net/v/20240518070158335"/>
+        <updated>2024-05-17T22:11:06.459Z</updated>
+        <content type="html"><![CDATA[(서울=뉴스1) 장아름 기자 = 배우 강동원 박보검 하정우(개봉순)가 6월 극장가에 뜬다. 올해 여름 극장 성수기를 앞두고 6월 극장가에 스타들의 신작이 속속 개봉할 예정이라 벌써부터 기대감을 높이고 있다. 오는 29일 베일을 벗을 강동원의 '설계자'를 시작으로, 6월 5일 박보검의 '원더랜드', 6월 21일 하정우의 '하이재킹' 그리고 6월 26일 이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘그녀가 죽었다’ 김세휘 감독 “사람들의 자기합리화 얘기하고 싶었다”]]></title>
         <id>https://v.daum.net/v/20240518043251174</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240517164956556"/>
         <updated>2024-05-17T08:14:52.584Z</updated>
         <content type="html"><![CDATA[[스타뉴스 | 김나라 기자] /사진=디즈니+역시 '월드 엉클' 송강호다. 그의 주연작 '삼식이 삼촌'이 첫 공개 하루 만에 1위를 찍었다. 글로벌 OTT 디즈니+ 오리지널 시리즈 '삼식이 삼촌'은 15일 첫 공개, 뜨거운 호평을 얻고 있는 바. 이에 16일 OTT 플랫폼 내 콘텐츠 시청 순위 집계 사이트인 플릭스패트롤(FlixPatrol)에 따르면 이날]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이선빈 주연 '노이즈', 전 세계 69개국과 배급 계약…층간 소음 소재 현실공포]]></title>
-        <id>https://v.daum.net/v/20240517164832534</id>
-        <link href="https://v.daum.net/v/20240517164832534"/>
-        <updated>2024-05-17T08:14:52.586Z</updated>
-        <content type="html"><![CDATA[[SBS 연예뉴스 | 김지혜 기자] 층간소음을 주제로 다룬 호러 스릴러 영화 '노이즈'가 칸 영화제 필름마켓에서 전 세계 바이어들의 뜨거운 관심을 확인했다. '노이즈'에서는 두 자매가 어렵게 입주한 아파트에서 동생이 흔적도 없이 사라지고 난 후, 동생을 찾기 위해 고군분투하는 언니 (이선빈 분) 사라진 동생을 함께 찾는 동생의 남자친구(김민석 분), 다수의]]></content>
     </entry>
 </feed>
