@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-05-19T20:12:50.466Z</updated>
+    <updated>2024-05-19T21:11:11.374Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘더 에이트 쇼’, 재미에 경도된 세상에 던지는 블랙코미디 혹은 잔혹극]]></title>
+        <id>https://v.daum.net/v/20240520060607186</id>
+        <link href="https://v.daum.net/v/20240520060607186"/>
+        <updated>2024-05-19T21:10:59.325Z</updated>
+        <content type="html"><![CDATA[세상은 한 편의 쇼와 같다? 넷플릭스 시리즈 ‘더 에이트 쇼’를 보다 보면 이 작품이 우리가 사는 세상의 단면들을 불쑥불쑥 눈앞에 펼쳐 놓는다는 느낌을 받을 것이다. 8명의 인물이 8층으로 나뉜 공간에 들어와 벌이는 서바이벌 게임 같은 쇼. 이 유혹적이지만 잔혹하기도 한 쇼는 그래서 하나의 게임 혹은 리얼리티쇼처럼 보이지만 자꾸 우리가 사는 현실과 겹쳐]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김명수♥이유영, 유교 로맨스 시동…관전포인트 공개]]></title>
         <id>https://v.daum.net/v/20240520020010282</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240519213244404"/>
         <updated>2024-05-19T13:10:44.000Z</updated>
         <content type="html"><![CDATA[배우 이정재가 '스타워즈' 시리즈 '애콜라이트' 출연을 제안받았을 당시 "몰래카메라인가 라는 생각을 할 정도로 많이 놀랐다"고 말했다. 이정재는 19일 JTBC '뉴스룸'에 출연해 "아직도 제가 '스타워즈'에 출연했다는 것이 믿어지지가 않는다"며 이같이 밝혔다. 이정재는 "(출연을) 하고 싶다는 생각이 반이었고 나머지 반은 출연 분량이 중요한 것이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['미녀와 순정남' 고윤, 쫄딱 망한 차화연 목격하고 충격... 식당에서도 쫓겨나]]></title>
-        <id>https://v.daum.net/v/20240519213001388</id>
-        <link href="https://v.daum.net/v/20240519213001388"/>
-        <updated>2024-05-19T13:10:44.003Z</updated>
-        <content type="html"><![CDATA[[TV리포트=이혜미 기자] 고윤이 임수향을 떠나보내고 쫄딱 망한 차화연과 조우했다. 19일 KBS 2TV ‘미녀와 순정남’에선 미자(차화연 분)의 고된 삶을 지켜보며 복잡한 심경을 느끼는 진단(고윤 분)의 모습이 그려졌다. 도라가 떠나고 미자 도식(양대혁 분) 모자의 삶은 180도 바뀐 바. 이날 도식은 명동(이영은 분)과 쌍방 감정 나누고도 “나 쫄딱 망]]></content>
     </entry>
 </feed>
