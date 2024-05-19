@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2024-05-19T00:55:53.922Z</updated>
+    <updated>2024-05-19T01:58:01.994Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['브리저튼3' 니콜라 코클란 "출연료 17만 원 받던 나...30대 되고 터졌다"]]></title>
+        <id>https://v.daum.net/v/20240519100141026</id>
+        <link href="https://v.daum.net/v/20240519100141026"/>
+        <updated>2024-05-19T01:58:01.293Z</updated>
+        <content type="html"><![CDATA[[TV리포트=한아름 기자] 넷플릭스 시리즈 '브리저튼'으로 전 세계의 주목을 받은 배우 니콜라 코클란(37)이 과거 경제적인 어려움을 겪었다고 고백해 눈길이 쏠렸다. 16일(현지 시간), 잡지 '마리끌레르'가 배우 니콜라 코클란과 진행한 인터뷰 전문을 공개했다. 인터뷰에서 니콜란 코클란은 무명 시절을 회상하며 주인공이 된 현재 자신의 모습에 자랑스러워했다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[힙합거물 콤스 8년전 여자친구 캐시 폭행 영상 공개돼 파문]]></title>
         <id>https://v.daum.net/v/20240519042348193</id>
@@ -60,12 +67,5 @@
         <link href="https://v.daum.net/v/20240518111341254"/>
         <updated>2024-05-18T02:24:54.961Z</updated>
         <content type="html"><![CDATA[[TV리포트=한아름 기자] 미국 배우 켈 미첼이 전처인 배우 티샤 햄튼의 부정행위를 폭로한 가운데 티샤 햄튼도 반박에 나섰다. 16일(현지 시간), 팟 캐스트 '클럽 셰이 셰이'(Club Shay Shay)에 출연한 배우 켈 미첼이 전처 티샤 햄튼이 자신과 열애할 당시 다른 사람의 아기를 낙태했다고 폭로했다. 팟 캐스트에서 켈 미첼은 "아이가 생기는 바람]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['가오갤' 토니 맥파르, 47세에 사망...사인 불명]]></title>
-        <id>https://v.daum.net/v/20240518101141404</id>
-        <link href="https://v.daum.net/v/20240518101141404"/>
-        <updated>2024-05-18T01:51:58.776Z</updated>
-        <content type="html"><![CDATA[[TV리포트=유소연 기자] 배우 크리스 프랫의 스턴트 더블 토니 맥파르가 별세했다. 향년 47세. 16일(현지 시간) 크리스 프랫은 자신의 소셜네트워크서비스 스토리 기능(24시간만 열람할 수 있는 게시물)을 통해 토니 맥파르의 사망 소식을 알렸다. 그는 "제 친구이자 스턴트 더블이었던 토니 맥파르가 세상을 떠났다는 소식을 듣고 큰 충격을 받았다"라고 전했다]]></content>
     </entry>
 </feed>
