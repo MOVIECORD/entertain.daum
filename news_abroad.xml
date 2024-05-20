@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2024-05-20T01:56:17.216Z</updated>
+    <updated>2024-05-20T02:28:28.800Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[美 힙합스타, 여친 무차별 폭행…CCTV 공개되자 사과]]></title>
+        <id>https://v.daum.net/v/20240520105714275</id>
+        <link href="https://v.daum.net/v/20240520105714275"/>
+        <updated>2024-05-20T02:28:28.237Z</updated>
+        <content type="html"><![CDATA[[티브이데일리 김한길 기자] '퍼프대디'라는 예명으로 잘 알려진 미국 힙합스타 션 디디 콤스가 여자친구 폭행 논란에 휩싸였다. 션 디디 콤스는 지난 19일 자신의 SNS를 통해 "진심으로 죄송하다"며 1분 11초가량의 영상을 게재했다. 션 디디 콤스는 폭행 논란에 대해 "전적으로 책임을 지겠다. 변명의 여지가 없다"고 고개를 숙였다. 그러면서 "더 나은]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[톰 크루즈에 ‘손절’ 당한 친딸 수리, 이름에서 아빠 성 지웠다]]></title>
         <id>https://v.daum.net/v/20240520082331335</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20240519152033492"/>
         <updated>2024-05-19T07:10:04.469Z</updated>
         <content type="html"><![CDATA[[TV리포트=유소연 기자] 일본 방송인 겸 정치인 히가시 고쿠마루 히데오가 한 아이돌 그룹과 관련된 깜짝 폭로를 해 눈길을 끈다. 16일(현지 시간) 배우 겸 개그맨 미야사코 히로유키(54)가 자신의 유튜브 채널에 "연예계 BIG3와 프리 토크를 했더니 큰일 났습니다"라는 제목의 영상을 올렸다. 영상에는 개그맨 타시로 마사시(67)와 정치인 겸 정치인 히가]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“결혼반지 뺐다” 벤 애플렉, 제니퍼 로페즈와 이혼 공식화?]]></title>
-        <id>https://v.daum.net/v/20240519111141201</id>
-        <link href="https://v.daum.net/v/20240519111141201"/>
-        <updated>2024-05-19T02:29:17.488Z</updated>
-        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]벤 애플렉(51)이 결혼 반지를 뺐다. 제니퍼 로페즈(54)와 이혼이 공식화되는 분위기라는 주장이 나오고 있다. 페이지식스는 18일(현지시간) “벤 애플렉이 운전 중 왼손을 들어올리는 모습이 포착됐다”면서 “그는 결혼 반지를 끼지 않았다”고 전했다. 이어 “결혼 반지가 없는 모습이 목격되면서 그와 로페즈가 이혼으로 향하고 있]]></content>
     </entry>
 </feed>
