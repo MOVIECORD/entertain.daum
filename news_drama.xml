@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-05-20T20:12:42.261Z</updated>
+    <updated>2024-05-20T21:10:25.810Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["'한국인의 밥상'까지 봤죠"…'수사반장 1958' 이제훈, '젊은 최불암'의 귀환]]></title>
+        <id>https://v.daum.net/v/20240521060038715</id>
+        <link href="https://v.daum.net/v/20240521060038715"/>
+        <updated>2024-05-20T21:10:10.971Z</updated>
+        <content type="html"><![CDATA[[스포츠조선 정빛 기자] 국민적 인기를 끈 드라마를 리메이크도 아닌, 프리퀄로 다시 선보이는 것은 분명 쉽지 않다. 특히 아무리 다른 시대를 배경으로 한다고 해도, 극 중 가장 사랑받은 인물을 새롭게 연기한다는 것은 더더욱 부담일 터다. 이 어려운 일을 배우 이제훈이 해냈다. '젊은 최불암'의 재탄생으로 호평이 이어지는 상황, 본지가 이제훈을]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘선업튀’ 김혜윤, 변우석 회상하며 눈물…“보고 싶어”]]></title>
         <id>https://v.daum.net/v/20240521025701464</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240520220338702"/>
         <updated>2024-05-20T13:14:19.234Z</updated>
         <content type="html"><![CDATA[(엑스포츠뉴스 조혜진 기자) '선재 업고 튀어' 변우석이 임솔을 구하려다 또 다시 사고를 당했다. 하지만 그는 김혜윤과의 기억이 없는 류선재로 살아있었다. 20일 방송된 tvN 월화드라마 '선재 업고 튀어'(극본 이시은, 연출 윤종호, 김태엽) 13화에서는 임솔(김혜윤 분)이 미래로 돌아간 척, 홀로 김영수(허형규)와 싸워 미래를 바꾸려 했다. 앞서 임솔은]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['선업튀' 김혜윤, 미래 바꿨다..변우석과 모르는 사이로 재회]]></title>
-        <id>https://v.daum.net/v/20240520220256690</id>
-        <link href="https://v.daum.net/v/20240520220256690"/>
-        <updated>2024-05-20T13:14:19.234Z</updated>
-        <content type="html"><![CDATA[[OSEN=선미경 기자] ‘선재 업고 튀어’ 김혜윤이 변우석과의 미래를 다시 썼다. 20일 오후에 방송된 케이블채널 tvN 월화드라마 ‘선재 업고 튀어’(극본 이시은, 연출 윤종호 김태엽) 13회에서는 다시 바뀐 미래가 그려졌다. 임솔(김혜윤 분)은 다시 과거로 가서 류선재(변우석 분)과의 인연을 아예 끊었고, 재회한 류선재는 임솔을 알지 못했다. 임솔]]></content>
     </entry>
 </feed>
