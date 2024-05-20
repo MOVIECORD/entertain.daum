@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/variety</id>
     <title>다음 연예 ─ 뉴스 ─ 예능</title>
-    <updated>2024-05-20T10:12:42.866Z</updated>
+    <updated>2024-05-20T11:11:22.718Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['개는 훌륭하다', 오늘 결방.."강형욱 논란 여파"]]></title>
+        <id>https://v.daum.net/v/20240520201104432</id>
+        <link href="https://v.daum.net/v/20240520201104432"/>
+        <updated>2024-05-20T11:11:14.206Z</updated>
+        <content type="html"><![CDATA[[OSEN=선미경 기자] 반려견훈련사 강형욱이 직장 내 갑질 의혹을 받고 있는 가운데, ‘개는 훌륭하다’가 오늘(20일) 결방된다. KBS 관계자는 20일 오후 OSEN에 “강형욱 훈련사 관련 논란으로 이날 KBS 2TV ‘개는 훌륭하다’는 결방된다. 다른 프로그램이 대체 편성됐다”라고 입장을 밝혔다. 최근 온라인 커뮤니티와 SNS를 통해 강형욱이 아내]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[정세운, 오늘 '데이식스의 키스 더 라디오' 스페셜 DJ 출격]]></title>
         <id>https://v.daum.net/v/20240520190036451</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240520172810212"/>
         <updated>2024-05-20T09:14:50.968Z</updated>
         <content type="html"><![CDATA[배우 강동원이 조카와의 일화를 전했다. 18일(토) 유튜브 채널 '핑계고'에는 '우리 형 자랑은 핑계고 ㅣ EP.45'라는 제목으로 영상이 업로드됐다. 공개된 영상에서는 강동원, 이동휘, 조세호가 게스트로 출연해 유재석과 케미를 뽐냈다. 이날 영상에서 강동원은 "저번에 '유퀴즈' 나갔을 때 조카 얘기를 했었는데 편집이 됐더라. 조카가 보고 연락이 와]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김양 "父, '현역가왕' 결승전 전날 사망…기다려주지 않아"]]></title>
-        <id>https://v.daum.net/v/20240520172015980</id>
-        <link href="https://v.daum.net/v/20240520172015980"/>
-        <updated>2024-05-20T09:14:50.969Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 김유진 기자) 가수 김양이 '현역가왕' 결승전 생방송 전날 아버지를 떠나보낸 사연을 전하며 눈물을 쏟았다. 15일 MBN '속풀이쇼 동치미' 선공개 영상에서는 '현역가왕'의 별사랑, 한봄, 김양, 김나희, 마리아가 출연한 모습이 전해졌다. 이날 김양은 지난 2월 부친상 비보 속 '현역가왕' 생방송에 출연했던 때를 떠올리며 "저희 집안이 제가]]></content>
     </entry>
 </feed>
