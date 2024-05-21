@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-05-21T20:13:44.912Z</updated>
+    <updated>2024-05-21T21:11:11.734Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['틈만 나면' 김연경 "유재석, 약속 안 지켜"…서운함 토로]]></title>
+        <id>https://v.daum.net/v/20240522061012733</id>
+        <link href="https://v.daum.net/v/20240522061012733"/>
+        <updated>2024-05-21T21:10:59.515Z</updated>
+        <content type="html"><![CDATA[(사진=SBS 방송화면)[이데일리 스타in 최희재 기자] 배구선수 김연경이 유재석에게 서운함을 전했다. 지난 21일 방송된 SBS ‘틈만 나면,’에는 김연경이 출연해 예능감을 자랑했다. 이날 유재석은 김연경을 친한 동생이라고 소개하며 “이번에 (김연경) 소속 팀의 우승을 바랐는데 아쉽게 우승을 못 했다”고 말했다. 이에 김연경은 “약속을 안 지키더라. 온]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘선업튀’ 변우석, 낯 익은 김혜윤에…“이 정도 인연이면 운명”]]></title>
         <id>https://v.daum.net/v/20240522023300076</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240521215541272"/>
         <updated>2024-05-21T13:13:50.561Z</updated>
         <content type="html"><![CDATA[[스타뉴스 | 김나라 기자] /사진=tvN '선재 업고 튀어' 캡'선재 업고 튀어'에서 변우석이 김혜윤에게 굴욕적인 모습을 비췄다. 21일 오후 방송된 tvN 월화드라마 '선재 업고 튀어'(극본 이시은｜연출 윤종호·김태엽) 14회에선 임솔(김혜윤 분) 앞에서 대굴욕을 당하는 류선재(변우석 분)가 그려졌다. 류선재는 편의점 앞 노상에서 임솔과 이야기를 나]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['선재 업고 튀어' 김혜윤, ♥변우석과 운명 피하려 억지로 선 긋고 '홀로 오열']]></title>
-        <id>https://v.daum.net/v/20240521213902947</id>
-        <link href="https://v.daum.net/v/20240521213902947"/>
-        <updated>2024-05-21T13:13:50.562Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 이이진 기자) '선재 업고 튀어' 변우석이 자신의 출연을 반대하는 김혜윤에게 발끈했다. 21일 방송된 tvN 월화드라마 '선재 업고 튀어'(이하 '선업튀') 14회에서는 임솔(김혜윤 분)이 류선재(변우석)의 출연을 거절하는 모습이 그려졌다. 이날 류선재는 임솔이 쓴 '기억을 걷는 시간' 기획서를 읽고 눈물 흘렸고, 영화사 대표와 임솔을 만났다]]></content>
     </entry>
 </feed>
