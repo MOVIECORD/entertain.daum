@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2024-05-22T03:14:27.509Z</updated>
+    <updated>2024-05-22T04:13:46.293Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[배우 미유, '27세 연상' 유부남 배우 좋다고 실명 언급 "함께 드라마 출연해"]]></title>
+        <id>https://v.daum.net/v/20240522121542119</id>
+        <link href="https://v.daum.net/v/20240522121542119"/>
+        <updated>2024-05-22T04:13:45.665Z</updated>
+        <content type="html"><![CDATA[[TV리포트=강성훈 기자] 일본 배우 혼다 미유(19)가 방송에서 좋아하게 된 연예인 이름을 언급해 관심이 쏠린다.&nbsp; 21일 혼다 미유는 일본 방송 '나이츠 더 라디오쇼'(ナイツ　ザ・ラジオショー)에 출연했다. 이날 그는 연예계에 들어와서 좋아하는 사람은 배우 카토리 싱고(47)라고 밝혔다. 카토리 싱고를 좋아하게 된 계기로 혼다 미유는 후지 TV 드라마 ']]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['이혼' 제이슨 모모아, '12살 연하' 배우와 공개 연애 시작]]></title>
         <id>https://v.daum.net/v/20240522120330850</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240521163342069"/>
         <updated>2024-05-21T08:15:04.094Z</updated>
         <content type="html"><![CDATA[[TV리포트=한아름 기자] 가수 해리 스타일스(27)와 배우 테일러 러셀(27)이 열애 1년 2개월 만에 결별했다. 20일(현지 시간), 외신 매체 '더 선'은 가수 해리 스타일스와 배우 테일러 러셀의 결별을 보도했다. 한 소식통은 "해리 스타일스와 테일러 러셀은 관계를 끝냈다"면서 "두 사람은 지난 4월 일본 여행 이후 헤어졌다"라고 밝혔다. 이어 "해리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[에미넴, 사위 생겼다...딸 결혼식서 댄스 삼매경]]></title>
-        <id>https://v.daum.net/v/20240521150341242</id>
-        <link href="https://v.daum.net/v/20240521150341242"/>
-        <updated>2024-05-21T06:16:42.175Z</updated>
-        <content type="html"><![CDATA[[TV리포트=유소연 기자] 래퍼 에미넴의 딸 헤일리 제이드 스콧이 약혼자와 화촉을 밝혔다. 지난 18일(현지 시간) 헤일리 제이드 스콧은 미시간주 배틀 크리크에서 약혼자 에반 맥클린톡과 결혼했다. 두 사람의 결혼식은 가까운 친구와 가족들이 참여해 조용하게 치러졌다. 외신 매체 TMZ에 따르면, 이날 결혼식에는 래퍼 50 센트, 음악 프로듀서 닥터 드레,]]></content>
     </entry>
 </feed>
