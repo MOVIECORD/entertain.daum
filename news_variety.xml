@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/variety</id>
     <title>다음 연예 ─ 뉴스 ─ 예능</title>
-    <updated>2024-05-23T16:15:13.154Z</updated>
+    <updated>2024-05-23T17:12:39.826Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김희선 미모 자신감 “김태희 송혜교 전지현, 내 대를 잇는 애들”]]></title>
+        <id>https://v.daum.net/v/20240524012354094</id>
+        <link href="https://v.daum.net/v/20240524012354094"/>
+        <updated>2024-05-23T17:12:29.956Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 이하나 기자] 김희선이 태혜지로 불리는 김태희, 송혜교, 전지현을 언급했다. 5월 23일 방송된 tvN ‘밥이나 한잔해’에서 김희선, 이수근, 이은지는 서울 성동구 성수동에서 번개 모임을 주최했다. 세 사람은 각자 자신의 밥 친구를 섭외했다. 김희선은 “난 솔직히 개그우먼, 개그맨들이 ‘어떻게 이런 상황에 저런 생각이 떠오를까’ 너무 신기하다”]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘나솔’ 6기 영수 “17기 영숙한테 마음 가는데…15기 현숙과 데이트하고파”]]></title>
         <id>https://v.daum.net/v/20240524010203953</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240523235125257"/>
         <updated>2024-05-23T15:12:53.828Z</updated>
         <content type="html"><![CDATA[[OSEN=박근희 기자] '나는 SOLO, 그 후 사랑은 계속된다’ 15기 현숙이 17기 영숙과 본인을 두고 흔들리는 6기 영수에 실망하는 모습을 보였다. 23일 오후 방송된 SBS Plus와 ENA의 '나는 SOLO, 그 후 사랑은 계속된다'(이하 '나솔사계')에서는 '솔로 민박'의 얽히고설킨 러브라인이 계속됐다. 6기 영수는 15기 현숙에게 “이 프]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[샘해밍턴 "오유진 팬.. 너무 사랑스러워"]]></title>
-        <id>https://v.daum.net/v/20240523235103253</id>
-        <link href="https://v.daum.net/v/20240523235103253"/>
-        <updated>2024-05-23T15:12:53.832Z</updated>
-        <content type="html"><![CDATA[샘 해밍턴이 오유진의 팬이라고 고백했다. 5월 23일 방송된 TV조선 '미스쓰리랑'은 '아빠의 청춘' 특집으로 샘해밍턴, 안지환, 신인선이 게스트로 출연했다. 붐은 샘 해밍턴에게 "제가 알기로는, 아들보다 오유진 양이 더 좋다고 인터뷰를 하셨다더라"고 물었다. 샘 해밍턴은 "내가 그런 얘길 했냐"고 당황하며 "어떻게 전달됐는지 모르겠지만, 예전에 같]]></content>
     </entry>
 </feed>

@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2024-05-23T16:15:13.149Z</updated>
+    <updated>2024-05-23T17:12:39.865Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김민희, 10년만 이혼 고백 "전남편 암투병"]]></title>
+        <id>https://v.daum.net/v/20240524015705156</id>
+        <link href="https://v.daum.net/v/20240524015705156"/>
+        <updated>2024-05-23T17:12:34.850Z</updated>
+        <content type="html"><![CDATA[[서울=뉴시스] 최지윤 기자 = 탤런트 김민희(51)가 10년간 이혼을 숨긴 이유를 밝혔다. 김민희는 23일 채널A '오은영의 금쪽 상담소'에서 "딸 지우를 초등학교 3학년 때부터 혼자 키웠다. 지우가 초등학교 6학년 때 절차를 밟아 이혼했다"며 "(이혼 고백을) 하고 싶었지만, 지우의 의견이 제일 중요했다. 딸이 커서 '엄마 편하게 얘기해도 되잖아']]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['지구마불2' 김도훈 "빠니보틀과 첫만남에 말 놨다"]]></title>
         <id>https://v.daum.net/v/20240524010207954</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240524000205410"/>
         <updated>2024-05-23T15:12:57.996Z</updated>
         <content type="html"><![CDATA[1990년대 각종 신문이나 잡지 등 매체에서는 엽서나 전화 등을 동원해 당대에 인기가 있는 연예인들의 순위를 매기곤 했다. 이는 크게 가수부문, 드라마에 출연하는 탤런트부문, 영화에 출연하는 배우부문 그리고 예능 프로그램이나 코미디 프로그램에 출연하는 개그맨부문으로 나뉘었다. 1990년대 말 차트를 지배했던 이름 중 지금도 여전한 모습을 보이는 이들이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이보영 가니, 지성 오네…'믿보' 부부의 반가운 열일]]></title>
-        <id>https://v.daum.net/v/20240524000111390</id>
-        <link href="https://v.daum.net/v/20240524000111390"/>
-        <updated>2024-05-23T15:12:57.996Z</updated>
-        <content type="html"><![CDATA[과거 SBS 월화극·tvN 토일극 연이어 출연 [더팩트 | 공미나 기자] 배우 이보영 지성 부부가 또 한 번 안방극장 배턴터치를 한다. 믿고 보는 두 배우의 '열일'이 안방 시청자들에겐 반갑기만 하다. 이보영 지성은 2013년 9월 부부의 연을 맺어 어느덧 결혼 12년 차에 접어든 연예계 대표 부부다. 두 사람 모두 탄탄한 연기력과 뛰어난 캐릭터 소화]]></content>
     </entry>
 </feed>
