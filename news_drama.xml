@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-05-24T10:12:29.832Z</updated>
+    <updated>2024-05-24T11:11:53.117Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김래원vs남궁민 시즌2?…"한날한시 첫방+스릴러" 누가 웃을까]]></title>
+        <id>https://v.daum.net/v/20240524193002301</id>
+        <link href="https://v.daum.net/v/20240524193002301"/>
+        <updated>2024-05-24T11:11:37.569Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 이예진 기자) SBS, MBC 금토극이 또한번 한날한시 첫 방송하며 맞대결을 펼친다. 심지어 이번에는 장르까지 같다. 24일(오늘)부터 주말 안방극장에는 피터지는 대결이 펼쳐진다. 최근까지 tvN 토일드라마 '눈물의 여왕'이 주말극 승자였고, 이어 많은 스타들이 주말극에 참전하고 있는 상황. 현재 '졸업' 정려원, 위하준과 '히어로는 아닙니다]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[강형욱 "CCTV, 직원 감시용 아냐" 해명에도… '개훌륭' 또 결방]]></title>
         <id>https://v.daum.net/v/20240524190912869</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240524155107902"/>
         <updated>2024-05-24T07:10:58.761Z</updated>
         <content type="html"><![CDATA[[SBS연예뉴스 | 강선애 기자] '커넥션'의 배우 지성이 마약에 중독된 캐릭터를 연기하기 위해 노력한 점들을 밝혔다. 24일 오후 서울 양천구 목동 SBS 사옥에서 열린 SBS 새 금토드라마 '커넥션'(극본 이현, 연출 김문교) 제작발표회에는 배우 지성, 전미도, 권율, 김경남, 정순원, 차엽, 정유민, 이강욱과 연출은 맡은 김문교PD가 참석해 새 드라마]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[전현무, 17년 키운 반려견과 이별…"유기견 봉사·병원비 후원 중"]]></title>
-        <id>https://v.daum.net/v/20240524154802792</id>
-        <link href="https://v.daum.net/v/20240524154802792"/>
-        <updated>2024-05-24T07:10:58.762Z</updated>
-        <content type="html"><![CDATA[[텐아시아=태유나 기자] 전현무가 유기견 구조 및 봉사 활동으로 인연을 맺은 귀여운 ‘무패밀리’와 시간을 보낸다.&nbsp; 오늘(22일) 방송되는 MBC 예능 ‘나 혼자 산다’에서는 유기견 봉사에 나선 전현무의 일상이 공개된다. 전현무가 직접 만든 삼계탕 보양식을 들고 향한 곳은 반려견 교육 센터. 17년간 함께했던 반려견 ‘또또’를 떠나보며 뜨거운 눈물을]]></content>
     </entry>
 </feed>
