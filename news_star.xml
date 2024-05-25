@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2024-05-25T19:13:30.581Z</updated>
+    <updated>2024-05-25T20:11:36.091Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[박위, ♥송지은에 "꼭 일어날테니 같이 걷자"…손편지에 눈물]]></title>
+        <id>https://v.daum.net/v/20240526050159798</id>
+        <link href="https://v.daum.net/v/20240526050159798"/>
+        <updated>2024-05-25T20:11:30.965Z</updated>
+        <content type="html"><![CDATA[(서울=뉴스1) 강현명 기자 = 송지은이 박위가 준비한 깜짝 생일 파티에 눈물을 흘렸다. 25일 오후 11시 10분 방송된 MBC 예능 '전지적 참견 시점'(이하 '전참시')에는 송지은과 박위가 결혼을 앞두고 달달한 일상을 공개했다. 이날 박위는 송지은의 화보 촬영에 매니저로 동행했다. 그는 촬영장에 도착해 송지은의 화보 촬영을 도와주기도 하며 송지은이]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[줄리엔강♥제이제이, 결혼 후 파격 럽스타 "내 침대"]]></title>
+        <id>https://v.daum.net/v/20240526050002760</id>
+        <link href="https://v.daum.net/v/20240526050002760"/>
+        <updated>2024-05-25T20:11:30.966Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 오승현 기자) 줄리엔강과 제이제이 부부가 달달한 데이트 근황을 전했다.&nbsp; 25일 줄리엔강과 제이제이의 커플 계정에는 "My bed"(내 침대)"라는 글과 함께 사진 한 장이 올라왔다. 공개된 사진 속 제이제이는 줄리엔강의 위에 누워 포즈를 취하고 있어 눈길을 끈다. '몸짱 부부'라는 별명에 맞게 탄탄한 몸매를 자랑하는 두 사람의 비주얼이 감탄]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[드라마 '커넥션' 주역들]]></title>
         <id>https://v.daum.net/v/20240526024811691</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240525235741044"/>
         <updated>2024-05-25T15:11:18.356Z</updated>
         <content type="html"><![CDATA[[티브이데일리 김종은 기자] '히어로는 아닙니다만' 천우희의 진심을 안 장기용이 그를 김금순으로부터 구원해 주기로 결심했다. 25일 밤 방송된 JTBC 토일드라마 '히어로는 아닙니다만'(극본 주화미·연출 조현탁) 7회에서는 뒤늦게 도다해(천우희)의 진심을 알게 된 복귀주(장기용)의 모습이 그려졌다. 복귀주는 도다해로부터 진실을 들은 뒤 다시금 고장 났다]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[송지은♥박위 "10월 9일 야외 결혼식, 사회는 전현무"]]></title>
-        <id>https://v.daum.net/v/20240525235122008</id>
-        <link href="https://v.daum.net/v/20240525235122008"/>
-        <updated>2024-05-25T15:11:18.357Z</updated>
-        <content type="html"><![CDATA[[스포츠조선닷컴 이지현 기자] 박위와 송지은이 결혼식 날짜를 발표했다. 25일 방송된 MBC '전지적 참견 시점'(이하 '전참시') 300회에서는 결혼을 앞둔 박위와 송지은의 사랑 가득한 하루가 공개됐다. 이날 박위와 송지은은 "결혼식 날짜가 잡혔다. 10월 9일 한글날. 야외 결혼식을 진행한다"고 발표했다. 이에 홍현희는 "지은 씨는 신부]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[토니안, 신혼집 느낌 물씬…“이제 집에서 못 나갈 것 같다”]]></title>
-        <id>https://v.daum.net/v/20240525234734990</id>
-        <link href="https://v.daum.net/v/20240525234734990"/>
-        <updated>2024-05-25T15:11:18.361Z</updated>
-        <content type="html"><![CDATA[가수 토니안이 새롭게 단장한 집을 공개했다. 5월 24일 토니안이 자신의 SNS를 통해 “예전 수컷 하우스 기억하시나요”라는 글을 올렸다. 지난 2017년 SBS ‘미운 우리 새끼’에서 편의점, 고급 바가 있는 집을 공개해 큰 화제가 됐던 것. 토니안은 그 후 다시 리모델링을 했다며 “생일을 맞이해 저 자신에게 큰 선물을 하기로 마음먹고 수컷 하우스를]]></content>
     </entry>
 </feed>
