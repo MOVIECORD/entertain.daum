@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2024-05-26T20:11:21.722Z</updated>
+    <updated>2024-05-26T21:11:13.466Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘설계자’ 원작보다 입체적인 캐릭터 설계…성별 반전·K-최적화]]></title>
+        <id>https://v.daum.net/v/20240527055141637</id>
+        <link href="https://v.daum.net/v/20240527055141637"/>
+        <updated>2024-05-26T21:10:52.328Z</updated>
+        <content type="html"><![CDATA[영화 ‘설계자’는 원작보다 한층 더 입체적인 캐릭터 설계를 완성했다는 평가가 부족하지 않다. 오는 29일 개봉하는 강동원 주연 ‘설계자’는 홍콩 영화 ‘엑시던트’의 리메이크작이다. 국내에서는 지난 2010년 12월 개봉한 원작 ‘엑시던트’는 홍콩 영화 거장 두기봉 사단이 제작하고 정 바오루이 감독이 연출했다. 배우 고천락이 주연 브레인 역을 맡아 끊임없]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[칸영화제 황금종려상, 숀 베이커 감독 ‘아노라’]]></title>
         <id>https://v.daum.net/v/20240527040712892</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240526161844831"/>
         <updated>2024-05-26T08:13:02.719Z</updated>
         <content type="html"><![CDATA[마지막까지 의심을 멈출 수 없는 드라마틱한 전개와 빈틈없는 배우들의 연기 시너지로 호평을 모으고 있는 영화 '설계자'가 개봉을 3일 앞두고 가파른 상승세로 전체 예매율 1위를 달성했다. [제공/배급: NEWㅣ제작: 영화사 집ㅣ각본/감독: 이요섭ㅣ출연: 강동원, 이무생, 이미숙, 김홍파, 김신록, 이현욱, 이동휘, 정은채, 탕준상] '설계자'는 의뢰받은]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘범죄도시4’ 개봉 33일째 1,100만 관객 돌파…2024 개봉작 중 가장 빠르다]]></title>
-        <id>https://v.daum.net/v/20240526161444749</id>
-        <link href="https://v.daum.net/v/20240526161444749"/>
-        <updated>2024-05-26T08:13:02.720Z</updated>
-        <content type="html"><![CDATA[“싹 쓸어버린다” 대한민국 대표 범죄 액션 시리즈 '범죄도시4'가 개봉 33일째 누적 관객수 1,100만 명을 돌파했다. [제공: 에이비오엔터테인먼트 | 제작: 빅펀치픽쳐스, 홍필름, 비에이엔터테인먼트 | 배급: 에이비오엔터테인먼트, 플러스엠 엔터테인먼트 | 감독: 허명행 | 출연: 마동석, 김무열, 박지환, 이동휘] 명실상부 대한민국을 대표하는 시]]></content>
     </entry>
 </feed>
