@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2024-05-26T18:13:47.489Z</updated>
+    <updated>2024-05-26T19:09:58.934Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[칸영화제 황금종려상, 숀 베이커 감독 ‘아노라’]]></title>
+        <id>https://v.daum.net/v/20240527040712892</id>
+        <link href="https://v.daum.net/v/20240527040712892"/>
+        <updated>2024-05-26T19:09:42.417Z</updated>
+        <content type="html"><![CDATA[숀 베이커 감독의 영화 ‘아노라’가 25일(현지시간) 폐막한 제77회 칸 국제영화제에서 최고상인 황금종려상을 수상했다. 미국 영화가 황금종려상을 받은 것은 테런스 맬릭 감독의 ‘트리 오브 라이프’(2011) 이후 13년 만이다. 베이커 감독은 ‘플로리다 프로젝트’로 2017년 칸 영화제 감독 주간에 초청받았고 2021년 ‘레드 로켓’으로 경쟁 부문에 진출했]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[원빈, ‘태극기 휘날리며’ 재개봉 행사 불참]]></title>
         <id>https://v.daum.net/v/20240527003008244</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240526161444749"/>
         <updated>2024-05-26T08:13:02.720Z</updated>
         <content type="html"><![CDATA[“싹 쓸어버린다” 대한민국 대표 범죄 액션 시리즈 '범죄도시4'가 개봉 33일째 누적 관객수 1,100만 명을 돌파했다. [제공: 에이비오엔터테인먼트 | 제작: 빅펀치픽쳐스, 홍필름, 비에이엔터테인먼트 | 배급: 에이비오엔터테인먼트, 플러스엠 엔터테인먼트 | 감독: 허명행 | 출연: 마동석, 김무열, 박지환, 이동휘] 명실상부 대한민국을 대표하는 시]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[6월 극장가는 '할리우드 잔치']]></title>
-        <id>https://v.daum.net/v/20240526153956230</id>
-        <link href="https://v.daum.net/v/20240526153956230"/>
-        <updated>2024-05-26T07:11:23.928Z</updated>
-        <content type="html"><![CDATA[[서울경제] 지난 한 달 동안 영화 '범죄도시4'가 극장가를 장악하며 1100만 관객수를 돌파했다. '범죄도시4'가 떠난 극장가에 할리우드 블록버스터들이 연이어 개봉하는 가운데 어떤 작품이 흥행 열기를 이어갈지 관심이 쏠린다. 26일 영화진흥위원회 영화관입장권통합전산망에 따르면 '범죄도시4'는 이날 누적 관객수 1100만85명을 기록했다. 올해 개봉한 작]]></content>
     </entry>
 </feed>
