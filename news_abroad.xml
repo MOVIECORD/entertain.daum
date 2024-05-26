@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2024-05-26T08:13:22.636Z</updated>
+    <updated>2024-05-26T09:12:30.764Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[올해 칸영화제 무슨 일? 여우주연상만 4명…사상 첫 트랜스젠더 수상자까지!]]></title>
+        <id>https://v.daum.net/v/20240526175051487</id>
+        <link href="https://v.daum.net/v/20240526175051487"/>
+        <updated>2024-05-26T09:12:30.180Z</updated>
+        <content type="html"><![CDATA[[스포츠서울 | 조은별 기자] “이 상을 모든 성매매업 종사자에게 바친다.” 제 77회 칸국제영화제의 최고상격인 황금종려상은 성매매 여성과 하위노동자의 쟁투를 코믹하게 그려낸 미국 영화 ‘아노라’에 돌아갔다. 심사위원장인 그레타 거윅(영화 ‘바비’ 감독)은 25일 (현지시간) 열린 폐막식에서 황금종려상 수상작으로 ‘아노라’를 호명했다. ‘아노라’]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['곰돌이 푸·메리 포핀스' 작곡가… 리처드 셔먼 향년 95세 별세]]></title>
         <id>https://v.daum.net/v/20240526154446339</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20240525185730486"/>
         <updated>2024-05-25T10:12:05.247Z</updated>
         <content type="html"><![CDATA[[TV리포트=이혜미 기자] '기묘한 이야기' 시리즈 잘 알려진 할리우드의 신성 밀리 바비 브라운이 '품절녀'가 됐다. 새 신랑은 레전드 로커 존 본 조비의 아들 제이크 본지오비다. 24일(현지시간) 더 선, 피플 등 해외 매체들에 따르면 브라운과 본지오비는 지난 주말 비밀리에 웨딩마치를 울렸다. 이들은 각각 20세, 22세로 2년의 열애 끝에 부부의 결실을]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['기묘한 이야기' 20살 여주, 본조비 子과 극비리 결혼]]></title>
-        <id>https://v.daum.net/v/20240525181141102</id>
-        <link href="https://v.daum.net/v/20240525181141102"/>
-        <updated>2024-05-25T09:11:54.714Z</updated>
-        <content type="html"><![CDATA[[OSEN=최이정 기자]&nbsp;'기묘한 이야기'로 유명한 배우 밀리 바비 브라운(Millie Bobby Brown, 20)과 모델 제이크 본조비(Jake Bongiovi, 22)가 극비리에 결혼했다.&nbsp; 더 선(The Sun)의 24일(현지시간) 보도에 따르면 20세의 밀리 바비 브라운과 전설적인 로커 존 본조비의 아들인 22세의&nbsp;제이크 본조비가 지난 주말 미]]></content>
     </entry>
 </feed>
