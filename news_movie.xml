@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2024-05-27T20:12:10.343Z</updated>
+    <updated>2024-05-27T21:12:21.283Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[에어프랑스, 제77회 칸 국제영화제서 ‘에어프랑스 라 플라쥬’ 운영]]></title>
+        <id>https://v.daum.net/v/20240528060657867</id>
+        <link href="https://v.daum.net/v/20240528060657867"/>
+        <updated>2024-05-27T21:12:05.037Z</updated>
+        <content type="html"><![CDATA[에어프랑스가 지난 14일부터 25일까지 진행된 제77회 칸 국제영화제(Cannes Films Festival)에서 프라이빗한 해변 공간인 ‘에어프랑스 라 플라쥬(La Plage)’를 운영했다. 에어프랑스는 올해로 44년간 칸영화제와의 공식 파트너십을 이어가고 있다. 이번 영화제에서는 처음으로 라 크로아제트(Croisette)거리를 찾는 방문객 모두가]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[故 이선균 유작 ‘탈출’·‘행복의 나라’ 올여름 개봉]]></title>
         <id>https://v.daum.net/v/20240528042113929</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240527183245783"/>
         <updated>2024-05-27T10:12:31.377Z</updated>
         <content type="html"><![CDATA[[스포티비뉴스=유은비 기자] 핸섬한 오빠들 이성민, 이희준과 경찰의 꿈을 이룬 박지환의 오싹 코미디 '핸섬가이즈'가 관객들을 찾는다. 영화 '핸섬가이즈' 제작발표회가 27일 서울 롯데시네마 건대입구에서 열렸다. 이날 현장에는 배우 이성민, 이희준, 공승연, 박지환과 남동협 감독이 참석해 작품에 관한 다양한 이야기를 나눴다. 이규형은 아킬레스건 부상으로]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[하나보단 둘…이제훈·구교환→이성민·이희준, 시너지 내는 콤비플레이]]></title>
-        <id>https://v.daum.net/v/20240527183001714</id>
-        <link href="https://v.daum.net/v/20240527183001714"/>
-        <updated>2024-05-27T10:12:31.378Z</updated>
-        <content type="html"><![CDATA[[텐아시아=김지원 기자] 끈끈한 유대감이 있는 친구 사이, 팽팽한 긴장감이 감도는 적수 관계까지 두 남자 캐릭터의 콤비 플레이가 돋보이는 작품들이 관객을 찾는다. 하정우·여진구 '하이재킹', 이성민·이희준 '핸섬가이즈'부터 이제훈, 구교환 '탈주'까지 남성 투톱 영화들이 잇달아 개봉한다. 하정우와 여진구는 오는 6월 21일 개봉하는 영화 '하이재킹']]></content>
     </entry>
 </feed>
