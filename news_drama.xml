@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-05-27T14:11:29.423Z</updated>
+    <updated>2024-05-27T15:13:36.717Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[표예진x이준영 MBTI는?..'대놓고 신데렐라' 작가가 밝힌 꿀잼 포인트]]></title>
+        <id>https://v.daum.net/v/20240527232941204</id>
+        <link href="https://v.daum.net/v/20240527232941204"/>
+        <updated>2024-05-27T15:13:20.756Z</updated>
+        <content type="html"><![CDATA[[OSEN=박소영 기자] &lt;나는 대놓고 신데렐라를 꿈꾼다&gt; 속 주인공들의 MBTI가 공개돼 캐릭터를 향한 궁금증을 키우고 있다. 오는 31일(금) 첫 공개될 티빙 오리지널 시리즈 &lt;나는 대놓고 신데렐라를 꿈꾼다&gt;(크리에이터 백미경, 극본 유자, 연출 김민경, 제작 CJ ENM·스토리피닉스·키이스트, 제공 티빙(TVING))는 현실의 벽에 부딪혀 신데렐라]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["김혜윤, 사랑해"..변우석, 죽음 위기 속 기억 되찾았다]]></title>
         <id>https://v.daum.net/v/20240527230844048</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240527211501071"/>
         <updated>2024-05-27T12:20:51.546Z</updated>
         <content type="html"><![CDATA[‘선재 업고 튀어’ 변우석이 쓰러진 김혜윤을 구했다. 27일 오후 방송된 tvN 월화드라마 ‘선재 업고 튀어’에는 임솔(김혜윤 분)이 류선재(변우석 분)의 집을 방문한 모습이 그려졌다. 앞서 임솔은 갑자기 멈춘 관람차로 휘청이는 자신의 손을 류선재가 붙잡아주던 순간, 류선재의 셔츠 사이로 목걸이를 보며 깜짝 놀랐다. 해당 목걸이는 과거 류선재가 임솔의 생일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘선업튀’ 김혜윤, 기억 잃은 ♥변우석 손잡고 그리움의 눈물 “선재야”]]></title>
-        <id>https://v.daum.net/v/20240527211143037</id>
-        <link href="https://v.daum.net/v/20240527211143037"/>
-        <updated>2024-05-27T12:20:51.548Z</updated>
-        <content type="html"><![CDATA[[OSEN=임혜영 기자] '선재 업고 튀어' 김혜윤이 변우석의 손을 잡고 그리워하는 마음을 표현했다. 27일 방송된 tvN 월화드라마 ‘선재 업고 튀어’에서는 류선재(변우석)가 자신의 앞에서 쓰러진 임솔(김혜윤)을 보살피는 모습이 그려졌다. 류선재와 임솔은 회전차 안에 갇히게 되었다. 임솔은 어딘가 아픈 듯한 모습이었고 류선재는 임솔의 불덩이 같은 이마]]></content>
     </entry>
 </feed>
