@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2024-05-28T05:11:27.629Z</updated>
+    <updated>2024-05-28T06:16:21.695Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[개그맨 소토, 9개월 만에 '근육맨' 돼..."대회나가서 우승할 것"]]></title>
+        <id>https://v.daum.net/v/20240528141600400</id>
+        <link href="https://v.daum.net/v/20240528141600400"/>
+        <updated>2024-05-28T06:16:21.041Z</updated>
+        <content type="html"><![CDATA[[TV리포트=강성훈 기자] 일본 코미디 콤비 코로코로치키치키펫파즈 니시노 소토(32)가 근육질 몸매를 자랑해 뜨거운 관심을 모았다. 27일 니시노 소토는 개인 소셜네트워크서비스에 운동 전과 후 사진을 게시했다. 그는 "9개월이 지났다"라고 덧붙였다. 운동 전 그의 모습은 볼록 나온 뱃살이 눈에 띄었지만, 운동 후에는 찾아볼 수 없었다. 오히려 터질듯한 근육]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['뺑소니' 유명 코미디언 "지난달 50원 벌었다" 동정 호소]]></title>
         <id>https://v.daum.net/v/20240528135743686</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240527155221682"/>
         <updated>2024-05-27T07:12:42.164Z</updated>
         <content type="html"><![CDATA[[OSEN=강서정 기자] 미국 드라마 ‘종합병원’, ‘크리미널 마인드’ 등에 출연했던 배우 조니 왁터(Johnny Wactor)가 로스앤젤레스 시내에서 강도들의 총에 맞아 사망했다.&nbsp; 26일(현지시간) 페이지식스, TMZ 등 보도에 따르면 왁터의 어머니는 지난 25일 아침 고인이 자신의 차에서 변환기를 훔치려던 세 명의 강도와 맞서다가 사망했다고 밝혔다]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘종합병원’ 조니 왁터, LA 거리 한복판서 강도 총 맞고 사망]]></title>
-        <id>https://v.daum.net/v/20240527151050176</id>
-        <link href="https://v.daum.net/v/20240527151050176"/>
-        <updated>2024-05-27T06:17:24.645Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 배효주 기자] 미국 유명 드라마 '종합병원'에 출연했던 배우 조니 왁터가 총에 맞고 사망하는 사건이 발생했다. TMZ등 다수의 외신에 따르면, 조니 왁터는 지난 5월 25일(현지시간) 미국 LA 시내에서 차량 강도가 쓴 총에 맞아 숨졌다. 향년 37세. 보도에 따르면 조니 왁터는 사건 발생 당시 동료와 함께 있었다. 세 남성이 조니 왁터의 차에]]></content>
     </entry>
 </feed>
