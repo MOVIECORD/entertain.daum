@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2024-05-29T23:12:10.791Z</updated>
+    <updated>2024-05-30T00:52:50.041Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“뜨거운 사랑” 티모시 샬라메♥카일리 제너, 뉴욕서 달콤 데이트 포착]]></title>
+        <id>https://v.daum.net/v/20240530085546125</id>
+        <link href="https://v.daum.net/v/20240530085546125"/>
+        <updated>2024-05-30T00:52:49.371Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]할리우드 배우 티모시 샬라메(28)와 역대 최연소 억만장자 카일리 제너(26)가 뜨거운 관계를 유지하고 있다. 29일(현지시간) 연예매체 피플에 따르면, 두 사람은 지난 23일 뉴욕의 가장 인기있는 레스토랑 타티아나 바이 콰메 온우아치를 방문했다. 레스토랑 관계자는 “두 사람은 정말 차분하고 친절했다”면서 다른 커플과 함]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[홍콩 인플루언서, '버닝썬 피해' 고백 "술에 약 탄 것 같아…경찰 신고"]]></title>
         <id>https://v.daum.net/v/20240530074212436</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240529125603865"/>
         <updated>2024-05-29T04:15:55.513Z</updated>
         <content type="html"><![CDATA[[TV리포트=강성훈 기자] 애니메이션 '인어공주' 원작 감독 존 머스커(70)가 디즈니 실사 영화 '인어공주'를 적나라하게 비판했다. 최근 스페인 매체 'ELPAIS'는 존 머스커와의 인터뷰 내용을 보도했다. 존 머스커는 실사 영화 '인어공주'가 핵심 내용인 아버지와 딸의 이야기를 부각시키지 않았다고 전했다. 그러면서 "의문이 들었다"라고 얘기했다. 존 머]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['명예의 전당 입성' 코미디언, 췌장암으로 사망...향년 76세]]></title>
-        <id>https://v.daum.net/v/20240529125600863</id>
-        <link href="https://v.daum.net/v/20240529125600863"/>
-        <updated>2024-05-29T04:15:55.515Z</updated>
-        <content type="html"><![CDATA[[TV리포트=강성훈 기자] 일본 코미디 콤비 이마이쿠요·쿠루요(今いくよ・くるよ) 사카이 스에코가 사망했다. 향년 76세. 28일 소속사 요시모토 흥업은 공식 홈페이지를 통해 사카이 스에코가 27일 췌장암으로 오사카 시내 병원에서 사망했다고 밝혔다. 장례 고별식은 오는 31일 오사카 텐진바시 회관에서 거행될 예정이라고 덧붙였다. 소속사는 사카이 스에코의 일대]]></content>
     </entry>
 </feed>
