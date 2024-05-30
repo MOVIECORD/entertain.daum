@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-05-30T12:21:26.258Z</updated>
+    <updated>2024-05-30T13:13:17.810Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['피도 눈물도 없이' 하연주, 이소연 흉기로 피습 "죽일 수 있어"]]></title>
+        <id>https://v.daum.net/v/20240530213245207</id>
+        <link href="https://v.daum.net/v/20240530213245207"/>
+        <updated>2024-05-30T13:13:02.106Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 | 정은채 기자] /사진='피도 눈물도 없이' 방송화면 캡쳐'피도 눈물도 없이' 하연주가 이소연을 흉기로 찔렀다. 30일 오후 방송된 KBS 2TV 일일드라마 '피도 눈물도 없이'에서는 배도은(하연주 분)이 친언니 이혜원(이소연 분)을 흉기로 찌른 장면이 그려졌다. 이날 배도은은 최면 심리 상담 센터에 이혜원으로 변장한 후 방문했다. 가발과]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['선업튀' 이승협 "한 살 형 변우석, 술 마시며 '찐친' 됐다"]]></title>
         <id>https://v.daum.net/v/20240530210149506</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240530181428143"/>
         <updated>2024-05-30T10:13:14.182Z</updated>
         <content type="html"><![CDATA[[이데일리 스타in 김가영 기자] 육각형 올라운더 이시언이 천재 해커로 컴백한다. tvN 새 월화드라마 ‘플레이어2: 꾼들의 전쟁’(극본 박상문 최슬기, 연출 소재현, 기획 스튜디오드래곤, 제작 피플스토리컴퍼니) 사기꾼, 해커, 파이터, 드라이버! 더 강력해진 ‘꾼’들이 돌아왔다! ‘가진 놈’들을 시원하게 털어버리는 팀플레이 액션 사기극으로, 이시언은 극]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['싱글벙글쇼' 51년 만 폐지…신지 "씩씩하게 마무리해서 다행"]]></title>
-        <id>https://v.daum.net/v/20240530180631941</id>
-        <link href="https://v.daum.net/v/20240530180631941"/>
-        <updated>2024-05-30T09:13:01.639Z</updated>
-        <content type="html"><![CDATA[[이데일리 스타in 김가영 기자] 그룹 코요태 멤버 신지가 ‘싱글벙글쇼’ 마지막 생방송 소감을 밝혔다. 신지는 30일 MBC 표준FM 라디오 ‘이윤석, 신지의 싱글벙글쇼’(이하 ‘싱글벙글쇼’) 마지막 생방송을 진행했다. 방송 직후 신지는 공식 SNS 채널을 통해 소감을 밝혔다. 신지는 단독 사진을 비롯해 이윤석과 함께한 투샷을 공개하며 “3년 2개월 넘게]]></content>
     </entry>
 </feed>
