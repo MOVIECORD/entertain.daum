@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2024-05-30T07:13:12.595Z</updated>
+    <updated>2024-05-30T08:15:48.199Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[가수 아이, 술집 접대 사진 해명..."남편이 아파 돈 벌어야 한다"]]></title>
+        <id>https://v.daum.net/v/20240530161845982</id>
+        <link href="https://v.daum.net/v/20240530161845982"/>
+        <updated>2024-05-30T08:15:47.599Z</updated>
+        <content type="html"><![CDATA[[TV리포트=한아름 기자] 라운지 바에서 손님을 접대한다는 의혹에 휩싸인 가수 카고 아이(36)가 빠르게 해명에 나섰다. 28일(현지 시간), 외신 매체 '슈에이샤'가 가수 카고 아이와 진행한 인터뷰 전문을 공개했다. 인터뷰에서 카고 아이는 접대 의혹을 부정했다. 카고 아이는 "더 이상 참을 수 없어서 이야기하려고 한다"라고 말문을 열었다. 그는 "여동생의]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[티모시 샬라메, ♥︎싱글맘과 결별 NO.."즐기는 관계 넘어서"]]></title>
         <id>https://v.daum.net/v/20240530160027216</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240529174245396"/>
         <updated>2024-05-29T09:14:14.142Z</updated>
         <content type="html"><![CDATA[[TV리포트=전하나 기자] 일본 유명 배우 미우라 쇼헤이(35)가 지인이나 스태프들의 생일을 모두 메모해 뒀다고 밝혀 놀라움을 자아낸다. 29일(현지 시간), 한 행사에 참석한 미우라 쇼헤이는 "선물 주는 걸 좋아해 가족이나 친구의 생일을 모두 메모해 둬서 노트가 꽉 찼다"라고 발언해 이목을 끌었다. 이날 미우라는 도쿄의 도큐 플라자 하라주쿠 '하라카도'에]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['비혼주의'인데 '2주' 만난 남자와 결혼한 女배우]]></title>
-        <id>https://v.daum.net/v/20240529172030619</id>
-        <link href="https://v.daum.net/v/20240529172030619"/>
-        <updated>2024-05-29T09:14:14.145Z</updated>
-        <content type="html"><![CDATA[[TV리포트=한아름 기자] 일본 배우 타카하시 히토미(62)가 남편과 교제 2주일 만에 결혼했다고 고백했다. 지난 25일(현지 시간), 외신 잡지 '찬토 웹'(CHANTO WEB)이 배우 타카하시 히토미와 진행한 인터뷰 전문을 공개했다. 인터뷰에서 타카하시 히토미는 2살 연하 남편과의 일화를 공개했다. 취재원이 "52살 때 만난 2살 연하와 결혼한 것으로]]></content>
     </entry>
 </feed>
