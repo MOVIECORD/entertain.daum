@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-05-30T06:16:43.600Z</updated>
+    <updated>2024-05-30T07:13:12.601Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['더 에이트 쇼' 문정희 "5층으로 6개월간 살아 오지랖 넓어져…스스로 돌아보게 돼"]]></title>
+        <id>https://v.daum.net/v/20240530153146648</id>
+        <link href="https://v.daum.net/v/20240530153146648"/>
+        <updated>2024-05-30T07:12:57.432Z</updated>
+        <content type="html"><![CDATA[배우 문정희가 6개월간 '더 에이트 쇼'를 촬영하며 얻은 것들을 들려줬다. 문정희는 30일 오전 서울 종로구 삼청동에 위치한 한 카페에서 iMBC연예와 만나 넷플릭스 시리즈 '더 에이트 쇼(The 8 Show, 극본·연출 한재림) 공개 기념 인터뷰를 진행했다. '더 에이트 쇼'는 8명의 인물이 8층으로 나뉜 비밀스런 공간에 갇혀 '시간이 쌓이면 돈을]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[한채영VS한보름…한씨 여자들의 숨막히는 눈빛]]></title>
         <id>https://v.daum.net/v/20240530151401698</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240530135247728"/>
         <updated>2024-05-30T05:11:41.186Z</updated>
         <content type="html"><![CDATA[[동아닷컴]  고경표·강한나가 조작 논란 해명에 나선다. JTBC 수목드라마 ‘비밀은 없어’(극본 최경선, 연출 장지연) 지난 방송에서 송기백(고경표 분)과 온우주(강한나 분)에게 날벼락이 떨어졌다. 정규 편성까지 확정되며 인기 고공행진 중이던 솔로 연애 예능 ‘커플천국’이 모두 조작됐다는 폭로 영상이 온라인에 올라온 것. 폭탄 발언 주인공은 누구일까.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['홍백'도 가고, '솔선'도 가고…tvN, 상반기 웃으며 마무리할까]]></title>
-        <id>https://v.daum.net/v/20240530135008640</id>
-        <link href="https://v.daum.net/v/20240530135008640"/>
-        <updated>2024-05-30T05:11:41.186Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 이창규 기자)&nbsp;'눈물의 여왕'에 이어 '선재 업고 튀어'까지 연달아 흥행시킨 tvN이 '졸업'과 '플레이어2: 꾼들의 전쟁'으로 올 상반기를 화려하게 장식할 수 있을까. 지난해 큰 부침을 겪었던 tvN은 올해 비교적 좋은 성적을 거뒀다. 토일드라마의 시작을 알렸던 '세작, 매혹된 자들'은 비교적 아쉬움을 남겼지만, 전작인 '마에스트라'보다는]]></content>
     </entry>
 </feed>
