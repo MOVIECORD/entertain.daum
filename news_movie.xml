@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2024-05-31T06:16:57.201Z</updated>
+    <updated>2024-05-31T07:11:25.229Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘울버린’ 휴 잭맨 “난 마른 체형, 음식 먹고 살 찌우는게 가장 힘들어” 토로]]></title>
+        <id>https://v.daum.net/v/20240531160851441</id>
+        <link href="https://v.daum.net/v/20240531160851441"/>
+        <updated>2024-05-31T07:11:05.808Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]‘울버린’으로 컴백하는 휴 잭맨(55)이 체중관리의 어려움을 토로했다. ‘로건’을 끝으로 울버린 캐릭터에서 은퇴했던 그는 라이언 레이놀즈(47)와 함께 ‘데드풀과 울버린’ 복귀를 선언했다. 잭맨은 30일(현지시간) 연예매체 피플 인터뷰에서 “다시 돌아왔을 때 정말 재미있었고 감격스러웠다”면서 “처음에는 조금 아팠지만 그래]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[사고로 조작된 청부살인 … 아무도 못믿는 사회 '불편한 진실']]></title>
+        <id>https://v.daum.net/v/20240531153609363</id>
+        <link href="https://v.daum.net/v/20240531153609363"/>
+        <updated>2024-05-31T07:11:05.814Z</updated>
+        <content type="html"><![CDATA[우리는 뉴스를 통해 종종 누군가 안타까운 사고로 목숨을 잃었다는 소식을 접한다. 이 가운데 일부는 정확한 원인을 알기 어렵고 황당한 상황도 많다. 예컨대 장신의 남성이 에스컬레이터에서 한순간 중심을 잃고 굴러떨어져 사망하고, 지상 주차장에서 급발진한 차가 벽을 뚫고 추락해 탑승자 전원이 즉사한 일 등이다. 정말 사고가 맞을까. 영화는 바로 이런 의문점에서]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘하녀’ 역대 최고 한국 영화···‘살인의 추억’ 2위]]></title>
         <id>https://v.daum.net/v/20240531145838950</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240531112402379"/>
         <updated>2024-05-31T02:28:25.871Z</updated>
         <content type="html"><![CDATA[[김성호 기자] 화무십일홍, 권불십년이라 했다. 아무리 화려한 꽃도 열흘을 붉지 못하고, 아무리 대단한 권력도 십 년을 가기 어렵다. 젊음과 미모는 순식간에 시들고, 부와 명예 또한 고꾸라지기 일쑤다. 일부 반례가 있기야 하겠으나 반례는 반례일 뿐, 거침없이 흐르는 시간의 수레바퀴로부터 좋은 것을 지켜내기란 여간 어려운 일이 아니다. 1990년대 중반부터]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[강동원 '설계자' 이틀 연속 1위… 주말 흥행 청신호]]></title>
-        <id>https://v.daum.net/v/20240531112059214</id>
-        <link href="https://v.daum.net/v/20240531112059214"/>
-        <updated>2024-05-31T02:28:25.874Z</updated>
-        <content type="html"><![CDATA[[스포츠한국 모신정 기자]&nbsp;강동원이 주연을 맡은 '설계자'가 이틀 연속 박스오피스 1위를 기록하며 흥행 청신호를 켰다.&nbsp; 31일 영화진흥위원회 영화관 입장권 통합전산망에 따르면 영화 '설계자'(이요섭 감독)는 지난 30일 4만5273명의 관객을 동원해 박스오피스 1위를 차지했다. 전국 누적관객수는 17만1117명이다.&nbsp; &nbsp;'설계자'는 의뢰받은 청]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[조여정·덱스·고규필 '타로', 크로스오버의 좋은 예…당당한 출사표]]></title>
-        <id>https://v.daum.net/v/20240531111717039</id>
-        <link href="https://v.daum.net/v/20240531111717039"/>
-        <updated>2024-05-31T02:28:25.875Z</updated>
-        <content type="html"><![CDATA[[이데일리 스타in 김보영 기자] 조여정, 덱스(김진영), 고규필 주연 LG유플러스 STUDIO X+U의 영화 ‘타로’(감독 최병길)가 6월 극장가에 출사표를 던져 관객들을 매료시킬 기대작으로 주목받고 있다. 영화 ‘타로’는 한순간의 선택으로 뒤틀린 타로카드의 저주에 갇혀버리는 잔혹 운명 미스터리를 그린 영화다. 시리즈로 제작됐지만, 7개의 에피소드로 이]]></content>
     </entry>
 </feed>
