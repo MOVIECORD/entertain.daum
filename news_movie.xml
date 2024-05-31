@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2024-05-31T05:14:40.913Z</updated>
+    <updated>2024-05-31T06:16:57.201Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘하녀’ 역대 최고 한국 영화···‘살인의 추억’ 2위]]></title>
+        <id>https://v.daum.net/v/20240531145838950</id>
+        <link href="https://v.daum.net/v/20240531145838950"/>
+        <updated>2024-05-31T06:16:33.935Z</updated>
+        <content type="html"><![CDATA[고(故) 김기영(1919∼1998) 감독이 연출한 ‘하녀’가 영화인들이 선정한 역대 최고의 한국 영화 1위에 올랐다. 31일 연합뉴스에 따르면 한국영상자료원(영상자료원)은 이날 ‘한국 영화 100선’을 공개하고 김가영 감독의 ‘하녀(1960)’를 역대 최고의 한국 영화로 선정했다. 10년 전 조사에 이어 이번에도 1위를 차지한 셈이다. 학계, 언론,]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[허명행→김희원, 현장의 전문가들, 이제는 감독으로]]></title>
         <id>https://v.daum.net/v/20240531140034993</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240531111717039"/>
         <updated>2024-05-31T02:28:25.875Z</updated>
         <content type="html"><![CDATA[[이데일리 스타in 김보영 기자] 조여정, 덱스(김진영), 고규필 주연 LG유플러스 STUDIO X+U의 영화 ‘타로’(감독 최병길)가 6월 극장가에 출사표를 던져 관객들을 매료시킬 기대작으로 주목받고 있다. 영화 ‘타로’는 한순간의 선택으로 뒤틀린 타로카드의 저주에 갇혀버리는 잔혹 운명 미스터리를 그린 영화다. 시리즈로 제작됐지만, 7개의 에피소드로 이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[영화인 선정 역대 최고 한국영화는 ‘하녀’…‘기생충’ 새롭게 진입]]></title>
-        <id>https://v.daum.net/v/20240531111509913</id>
-        <link href="https://v.daum.net/v/20240531111509913"/>
-        <updated>2024-05-31T02:28:25.877Z</updated>
-        <content type="html"><![CDATA[영화인 240명이 선정한 역대 최고 한국영화로 김기영 감독의 ‘하녀’(1960)가 선정됐다. 봉준호 감독의 ‘살인의 추억’(2003)과 ‘기생충’(2019)은 2, 3위를 기록했다. 한국영상자료원은 31일 이 같은 내용의 ‘한국영화 100선’을 발표했다. 영상자료원이 영화감독, 촬영감독, 프로듀서 등 ‘만드는 사람’ 69명과 영화 연구자, 비평가,]]></content>
     </entry>
 </feed>
