@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2024-06-01T04:14:32.007Z</updated>
+    <updated>2024-06-01T05:13:08.272Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[졸리 딸 샤일로, 피트 성 떼어버렸다…父 브래드 피트와 선긋기]]></title>
+        <id>https://v.daum.net/v/20240601141155971</id>
+        <link href="https://v.daum.net/v/20240601141155971"/>
+        <updated>2024-06-01T05:13:07.252Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 이민지 기자] 브래드 피트 딸 샤일로가 아빠 성을 버렸다. 5월 31일(현지시간 피플 보도에 따르면 안젤리나 졸리와 브래드 피트의 딸 샤일로가 성을 바꾼다. 18번째 생일을 맞은 샤일로 졸리-피트는 자신의 성에서 '피트'를 제거해달라는 서류를 법원에 제출했다. 그는 자신의 이름을 '샤일로 졸리'로 바꾸길 원하고 있다고. 일각에서는 샤일로가]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[제니퍼 로페즈 투어 취소, 벤 애플렉과 이혼 위기?]]></title>
+        <id>https://v.daum.net/v/20240601140353918</id>
+        <link href="https://v.daum.net/v/20240601140353918"/>
+        <updated>2024-06-01T05:13:07.254Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 이민지 기자] 제니퍼 로페즈가 투어를 취소했다. 버라이어티는 5월 31일(현지시간) 제니퍼 로페즈가 가족과 더 많은 시간을 보내기 위해 'This Is Me...Live' 여름 투어를 취소했다고 보도했다. 투어 제작사 측은 "제니퍼 로페즈는 가족, 친구들과 함께 하기 위해 휴가를 냈다"고 밝히며 티켓은 자동 환불될 것이라고 알렸다. 제니퍼]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['이정재 출연' 스타워즈 제작자 "여성 감독, 성차별주의와 투쟁 중"]]></title>
         <id>https://v.daum.net/v/20240601124645337</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240531164018524"/>
         <updated>2024-05-31T08:15:21.729Z</updated>
         <content type="html"><![CDATA[[OSEN=최이정 기자] 18세가 된 샤일로 졸리 피트(Shiloh Jolie-Pitt)가 이름에서 아빠의 성을 지울 예정이다. 브래드와 안젤리나의 여섯 자녀 중 한 명이 아빠와 손절할 의사를 확실히 했다. 30일(현지시간) TMZ에 따르면 샤일로 졸리-피트는 자신의 이름에서 '피트(Pitt)'를 삭제하기 위해 법적 신청하며&nbsp;18번째 생일을 기념했다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“아빠 브래드 피트와 똑같이 생겨”, 안젤리나 졸리 15살 딸 비비안 외모 화제]]></title>
-        <id>https://v.daum.net/v/20240531151542650</id>
-        <link href="https://v.daum.net/v/20240531151542650"/>
-        <updated>2024-05-31T06:16:56.603Z</updated>
-        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]브래드 피트(60)와 안젤리나 졸리(48)의 막내딸 비비안(15)이 엄마와 닮은꼴 외모로 화제를 모으고 있다. 비비안은 30일(현지시간) 미국 LA에서 열린 뮤지컬 ‘리퍼 매드니스 더 뮤지컬’ 레드카펫 행사에 참석했다. 사진 속 비비안은 아빠 브래드 피트와 꼭 닮은 외모로 눈길을 끌었다. 외모는 닮았지만, 현실에선 아빠와]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[윤아만 당한 게 아니야…인종차별 논란에 칸 영화제 피소]]></title>
-        <id>https://v.daum.net/v/20240531151150497</id>
-        <link href="https://v.daum.net/v/20240531151150497"/>
-        <updated>2024-05-31T06:16:56.605Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 윤현지 기자) 인종차별 논란으로 인해 제77회 칸 국제 영화제가 소송을 당했다. 30일(현지시간) 영국 BBC 보도에 따르면 우크라이나 출신 모델 사와 폰티이스카는 레드카펫에서 난폭하게 막아선 경호원 때문에 정신적, 육체적 피해를 봤다고 주장하며 칸 국제 영화제 조직위원회를 상대로 소송을 제기했다. 폰티이스카는 이번 일로 정신적, 육체적 피해]]></content>
     </entry>
 </feed>
