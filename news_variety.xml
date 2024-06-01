@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/variety</id>
     <title>다음 연예 ─ 뉴스 ─ 예능</title>
-    <updated>2024-06-01T07:10:49.969Z</updated>
+    <updated>2024-06-01T08:14:33.741Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[옥주현·손승연, 서로 견제하며 기싸움 발발…"나도 드레스 입고 올 걸"]]></title>
+        <id>https://v.daum.net/v/20240601170102465</id>
+        <link href="https://v.daum.net/v/20240601170102465"/>
+        <updated>2024-06-01T08:14:25.464Z</updated>
+        <content type="html"><![CDATA[[텐아시아=류예지 기자]KBS ‘불후의 명곡’에서 손승연이 각종 비하인드를 밝힌다. &nbsp; KBS2 ‘불후의 명곡’(연출 박민정 박형근 김성민 박영광)은 무려 72주 동시간 1위로 ‘土불후천하’를 이어가고 있는 최강 예능 프로그램. 오늘(1일) 방송되는 660회는 ‘아티스트 정미조’ 편으로 이세준, 옥주현, 김연지, 손승연, 신승태, 김동현 ‘휘파람을 부세]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["불교에 모욕적"···뉴진스님 싱가포르 공연 결국 취소]]></title>
         <id>https://v.daum.net/v/20240601160716040</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240601143329136"/>
         <updated>2024-06-01T06:15:14.386Z</updated>
         <content type="html"><![CDATA[[스타뉴스 | 윤성열 기자] [서울=뉴시스] 황준선 기자 = 음주 뺑소니 혐의를 받고 있는 트로트 가수 김호중이 31일 오전 서울 강남경찰서에서 검찰로 송치되고 있다. 2024.05.31. hwang@newsis.com /사진=황준선KBS가 음주 뺑소니 등의 혐의로 사회적 물의를 일으킨 가수 김호중에 대해 한시적 출연 정지 처분을 내린 가운데, 그의 출연분]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“고등학교 재수했어” 임원희 갑작스러운 고백에 유재석 숙연]]></title>
-        <id>https://v.daum.net/v/20240601143119125</id>
-        <link href="https://v.daum.net/v/20240601143119125"/>
-        <updated>2024-06-01T06:15:14.388Z</updated>
-        <content type="html"><![CDATA[유재석과 임원희가 웃픈 학연 토크를 펼친다. 오늘(1일) 방송되는 MBC ‘놀면 뭐하니?’(연출 김진용, 장우성, 왕종석, 소인지/작가 최혜정)에서는 배우 임원희가 메인 보컬로 있는 밴드 전파상사를 섭외하러 가는 축제 기획 팀장 유재석의 모습이 그려진다. 본격 섭외를 하기에 앞서 유재석과 임원희 사이 급 숙연해진 분위기가 형성돼 눈길을 끈다. 수유중학]]></content>
     </entry>
 </feed>
