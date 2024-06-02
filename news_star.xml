@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2024-06-02T19:09:18.406Z</updated>
+    <updated>2024-06-02T20:12:20.608Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['3억원 슈퍼카' 김헌성, 올해 '총 150억원 대' 역대급 모터쇼 예고]]></title>
+        <id>https://v.daum.net/v/20240603050225900</id>
+        <link href="https://v.daum.net/v/20240603050225900"/>
+        <updated>2024-06-02T20:12:16.238Z</updated>
+        <content type="html"><![CDATA[(서울=뉴스1) 강현명 기자 = 호텔 보스 김헌성이 역대급 모터쇼를 위해 카레이서 박재홍 감독을 찾았다. 2일 오후 4시 40분 방송된 KBS 2TV '사장님 귀는 당나귀 귀'(이하 '사당귀')에서는 호텔 보스 김헌성이 모터쇼를 준비하는 과정이 공개됐다. 이날 김헌성은 "올해 모터쇼에 제가 사활을 걸었다"며 호텔에서 6회째 개최 중인 모터쇼를 준비했다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뉴진스, 빌보드 ‘21세 이하 21인’ 선정]]></title>
+        <id>https://v.daum.net/v/20240603043320609</id>
+        <link href="https://v.daum.net/v/20240603043320609"/>
+        <updated>2024-06-02T20:12:16.238Z</updated>
+        <content type="html"><![CDATA[빌보드가 선정한 21세 이하 영향력 있는 아티스트 21인에 그룹 뉴진스(사진)가 뽑혔다. 이 명단에 이름을 올린 K팝 아티스트는 뉴진스가 유일하다. 미국 빌보드는 지난달 31일(현지시간) 뉴진스가 포함된 ‘21 언더 21’ 명단을 공개하며 “뉴진스는 ‘글로벌 200’ 차트 10위권에 3곡을 진입시키는 등의 성과를 거두며 데뷔 후 2년간 K팝에서 독보적인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[배윤정, 13kg 감량 후 '납작배' 됐는데 또 다이어트? "바짝 빼기 위해"]]></title>
         <id>https://v.daum.net/v/20240603040425512</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240603000016563"/>
         <updated>2024-06-02T15:11:17.003Z</updated>
         <content type="html"><![CDATA[[서울=뉴시스] 신효령 기자 = 배우 송승헌(48)이 결혼 계획을 밝혔다. 지난 2일 방송된 SBS TV 예능물 '미운 우리 새끼'(이하 '미우새')에서 송승헌이 스페셜 MC로 출연했다. MC 신동엽은 송승헌에게 '결혼 압박'을 받는지에 대해 물었다. 이에 송승헌은 "누나랑 형이 결혼해서 조카들이 있다. 저만 아직 안했다. 조카들이 다 있어서 그런지,]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[조현아, 이홍기와 네일아트로 맺은 인연 “씨엔블루 소리질러~”]]></title>
-        <id>https://v.daum.net/v/20240603000000549</id>
-        <link href="https://v.daum.net/v/20240603000000549"/>
-        <updated>2024-06-02T15:11:17.004Z</updated>
-        <content type="html"><![CDATA[조현아와 이홍기의 네일아트 인연이 화제다. 가수 조현아가 2일 자신의 개인 채널을 통해 피크 페스티벌 2024 공연 후기를 전했다. 조현아는 SNS 해시태그에 그룹 씨엔블루를 언급하며, 이들의 공연을 관람한 것으로 보인다. 또한, 공연 현장에서 FT아일랜드 리더 이홍기를 만나 추억의 사진을 남겼다. 특히 두 사람은 각각 손톱에 네일아트를 개성 있게 한 모습]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[주원 "군 복무 당시 또래 상담병 활동··정작 또래는 중대장"]]></title>
-        <id>https://v.daum.net/v/20240602235946547</id>
-        <link href="https://v.daum.net/v/20240602235946547"/>
-        <updated>2024-06-02T15:11:17.006Z</updated>
-        <content type="html"><![CDATA[[OSEN=최지연 기자] '집대성' 배우 주원이 군복무 시절 일화를 밝혔다.&nbsp; 지난 31일, 유튜브 채널 ‘집대성’에는&nbsp;‘아직 끝나지 않은 구독자 10만 돌파 기념 집대성 하드 대 방출ㅣ 집대성 비하인드’라는 제목의 영상이 게재됐다. 이날 영상에는&nbsp;주원이 태양, 빈지노, 대성 등과 함께 군 복무 시절 일화를 전해 눈길을 끌었다.&nbsp;주원은&nbsp;“나는 약간 우리]]></content>
     </entry>
 </feed>
