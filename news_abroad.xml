@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2024-06-03T06:16:25.507Z</updated>
+    <updated>2024-06-03T07:11:49.026Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[펜타곤 멤버, 결혼 발표 동시에 '활동 중단' 선언...팬들 충격]]></title>
+        <id>https://v.daum.net/v/20240603153141867</id>
+        <link href="https://v.daum.net/v/20240603153141867"/>
+        <updated>2024-06-03T07:11:48.446Z</updated>
+        <content type="html"><![CDATA[[TV리포트=전하나 기자] 그룹 펜타곤 보컬 출신 치즈루(千吊)가 깜짝 결혼 발표와 함께 활동 중단 소식을 전해 이목을 끈다. 3일 펜타콘 출신 가수 치즈루(30)가 자신의 소셜네트워크서비스를 통해 "항상 응원해 주셔서 감사합니다. 개인적인 일로 갑작스럽게 근황을 전해 죄송한 마음이지만, 제가 이번에 결혼하게 되었습니다"라며 팬들에게 직접 결혼 소식을 알렸]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['브래드 피트 딸' 샤일로, 18살 되자마자 "아빠 성 빼달라" 손절]]></title>
         <id>https://v.daum.net/v/20240603112329830</id>
@@ -60,12 +67,5 @@
         <link href="https://v.daum.net/v/20240602175900749"/>
         <updated>2024-06-02T09:13:00.625Z</updated>
         <content type="html"><![CDATA[[TV리포트=이혜미 기자] 미국 배우 닉 파스쿠알이 살인미수 혐의로 체포됐다. 지난달 30일(현지시간) CNN, 피플 등 외신에 따르면 미국 로스앤젤레스(LA) 지방검찰청은 파스쿠알을 살인미수 및 주거침입, 상해 등의 혐의로 기소했다. 파스쿠알은 지난달 23일 오전 4시 30분께 LA에 위치한 전 여자친구 A씨의 집에 무단 침입해 A씨를 수차례 흉기로 찌른]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美 배우, 전 연인 살인미수 후 도주...멕시코 국경 넘기 전 체포]]></title>
-        <id>https://v.daum.net/v/20240602152946700</id>
-        <link href="https://v.daum.net/v/20240602152946700"/>
-        <updated>2024-06-02T07:12:18.351Z</updated>
-        <content type="html"><![CDATA[[OSEN=연휘선 기자] 할리우드 배우 닉 파스쿠알이 헤어진 연인을 흉기로 찔러 살해하려 한 혐의로 기소됐다.&nbsp; 지난달 30일(이하 현지시간) CNN 등 외신들은 미국 로스앤젤레스(LA) 지방검찰청이 닉 파스쿠알을 살인미수, 주거침입, 상해 등 혐의로 기소했다고 보도했다.&nbsp; 이에 따르면 닉 파스쿠알은 지난달 23일 오전 4시 30분께 LA에 위치한 전]]></content>
     </entry>
 </feed>
