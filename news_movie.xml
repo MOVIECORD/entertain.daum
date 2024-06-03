@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2024-06-03T11:10:56.668Z</updated>
+    <updated>2024-06-03T12:22:00.574Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘2024 춘천영화제’ 트레일러 공개, 4일 예매 시작]]></title>
+        <id>https://v.daum.net/v/20240603204204084</id>
+        <link href="https://v.daum.net/v/20240603204204084"/>
+        <updated>2024-06-03T12:21:44.712Z</updated>
+        <content type="html"><![CDATA[2024 춘천영화제(이사장 박기복)의 트레일러가 3일 공개 소식을 전했다. 작년에 포스터와 트레일러를 만들었던 원새록 작가가 올해도 작업을 맡았다. 포스터 이미지를 이용한 ‘무빙 포스터’ 방식으로, 작년의 트레일러가 기차를 타고 춘천에 오는 ‘도착’의 과정을 담았다면, 올해는 춘천을 즐기는 사람들의 모습을 담았다. 선을 이용한 미니멀한 그림체의 30]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[할리우드 이끄는 감독 3인, '콰이어트 플레이스'로 의기투합…세계관 정통성 잇는다]]></title>
+        <id>https://v.daum.net/v/20240603202704834</id>
+        <link href="https://v.daum.net/v/20240603202704834"/>
+        <updated>2024-06-03T12:21:44.712Z</updated>
+        <content type="html"><![CDATA[[스포츠한국 신영선&nbsp;기자]&nbsp;&nbsp;&nbsp; 할리우드 영화계를 이끄는 3인의 감독이 '콰이어트 플레이스: 첫째 날'을 위해 의기투합했다. '콰이어트 플레이스 : 첫째 날'은&nbsp;소리를 내는 순간 공격하는 괴생명체의 출현으로 전 세계가 침묵하게 된 날의 이야기를 그린 작품이다.&nbsp; 마이클 사노스키부터 존 크래신스키, 마이클 베이까지 할리우드 명감독들이 이번 작품을]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[탕웨이 "6살 아이 같은 ♥김태용 감독…공유와 멜로? 당연히"]]></title>
         <id>https://v.daum.net/v/20240603185002322</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240603170610226"/>
         <updated>2024-06-03T08:15:57.974Z</updated>
         <content type="html"><![CDATA[배우 탕웨이(44)가 ‘원더랜드’에서 딸과의 에피소드와 함께 애정을 보였다. 3일 오후 서울 종로구 삼청동 카페에서 영화 ‘원더랜드’에 출연한 탕웨이의 인터뷰가 진행됐다. 5일 개봉하는 ‘원더랜드’는 죽은 사람을 인공지능으로 복원하는 영상통화 서비스 원더랜드를 통해 사랑하는 사람과 다시 만나는 이야기를 그린 작품이다. 김태용 감독이 ‘만추’(2011) 이후]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘원더랜드’ 탕웨이 “♥김태용 감독과 작업 행운이죠”]]></title>
-        <id>https://v.daum.net/v/20240603170609224</id>
-        <link href="https://v.daum.net/v/20240603170609224"/>
-        <updated>2024-06-03T08:15:57.974Z</updated>
-        <content type="html"><![CDATA[배우 탕웨이(44)가 ‘원더랜드’에서 남편 김태용 감독과 작업한 소감을 밝혔다. 3일 오후 서울 삼청동 카페에서 영화 ‘원더랜드’에 출연한 탕웨이의 인터뷰가 진행됐다. 5일 개봉하는 ‘원더랜드’는 죽은 사람을 인공지능으로 복원하는 영상통화 서비스 원더랜드를 통해 사랑하는 사람과 다시 만나는 이야기를 그린 작품이다. 김태용 감독이 ‘만추’(2011) 이후 1]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[푸바오, 스크린서 만난다..‘안녕, 할부지’ 올 가을 개봉]]></title>
-        <id>https://v.daum.net/v/20240603170313088</id>
-        <link href="https://v.daum.net/v/20240603170313088"/>
-        <updated>2024-06-03T08:15:57.975Z</updated>
-        <content type="html"><![CDATA[그리웠던 푸바오를 스크린에서 만난다. 대한민국 힐링 아이콘 푸바오와 바오패밀리의 영화 ‘안녕, 할부지’가 올 가을 극장 개봉을 확정했다. 작품은 바오패밀리와 사육사(주키퍼)들의 만남과 이별, 사랑과 감동의 순간에 우리가 몰랐던 또 다른 이야기를 담는다. 이제껏 어느 매체에서도 볼 수 없었던 바오패밀리의 특별한 이야기를 담는 한편, 푸바오의 감동적인 탄생의]]></content>
     </entry>
 </feed>
