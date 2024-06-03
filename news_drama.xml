@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-06-03T14:11:41.341Z</updated>
+    <updated>2024-06-03T15:13:44.903Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[조정민, 데뷔 후 첫 단독 예능 '조짜르트' MC 출격]]></title>
+        <id>https://v.daum.net/v/20240603232204024</id>
+        <link href="https://v.daum.net/v/20240603232204024"/>
+        <updated>2024-06-03T15:13:30.581Z</updated>
+        <content type="html"><![CDATA[[이데일리 스타in 윤기백 기자] 트롯 가수 조정민이 데뷔 후 첫 단독 디지털 예능 프로그램 진행에 나선다. 지난 4월 23일 유튜브 솔코 스테이지 채널을 통해 ‘저작권료 다 쓸어 담겠습니다! 조짜르트의 탄생’이라는 제목의 티저 영상이 게시됐다. 공개된 영상에서는 조정민이 제작진을 처음 만나 프로그램 콘셉트에 대해 전해 듣고 본인의 자질을 제작진에게 어필]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[첫방 ‘플레이어2’ 다시 뭉친 ‘꾼’들…송승헌, 오연서에 배신? ‘위기’]]></title>
         <id>https://v.daum.net/v/20240603223001583</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240603184017107"/>
         <updated>2024-06-03T10:15:09.444Z</updated>
         <content type="html"><![CDATA[‘동상이몽2’[이데일리 스타in 김가영 기자] 김기리, 문지인의 결혼식 현장이 최초 공개된다. 3일 방송되는 SBS ‘동상이몽 시즌2-너는 내 운명‘(이하 ’동상이몽2‘)에서는 지난 5월, 시상식 뺨치는 초호화 하객 라인업으로 이목을 끌며 결혼식을 올린 김기리 문지인의 결혼식 비하인드 스토리가 처음으로 공개했다. 김기리는 긴박했던 결혼식 당일을 회상하며]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["올해 최고"…변우석X김혜윤 '선재 업고 튀어', 美 타임지도 극찬]]></title>
-        <id>https://v.daum.net/v/20240603183729045</id>
-        <link href="https://v.daum.net/v/20240603183729045"/>
-        <updated>2024-06-03T10:15:09.444Z</updated>
-        <content type="html"><![CDATA[[이데일리 스타in 김가영 기자] 배우 변우석, 김혜윤 주연의 ‘선재 업고 튀어’가 국내의 인기에 이어 해외에서도 조명 받고 있다. 미국 시사주간지 타임지는 지난달 30일(현지시간) “‘선재 업고 튀어’가 올해 최고의 K드라마 피날레를 장식했다”는 제목의 칼럼을 게재했다. 타임지는 ‘선업튀’에 대해 “2024년이 끝나려면 절반가량이 남았지만 방영될 한국]]></content>
     </entry>
 </feed>
