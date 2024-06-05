@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2024-06-05T21:13:19.270Z</updated>
+    <updated>2024-06-05T22:11:32.328Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[여진구 협박에 채수빈, 두려운 눈빛 가득]]></title>
+        <id>https://v.daum.net/v/20240606070831107</id>
+        <link href="https://v.daum.net/v/20240606070831107"/>
+        <updated>2024-06-05T22:11:12.127Z</updated>
+        <content type="html"><![CDATA[[TV리포트=전하나 기자] 올 여름 극장가를 강타할 영화 '하이재킹'이 2차 캐릭터 포스터와 캐릭터 예고편을 공개해 이목을 끈다. 1971년 대한민국 상공, 여객기가 공중 납치되면서 벌어지는 극한의 상황을 담은 영화 '하이재킹'이 긴장감 넘치는 2차 캐릭터 포스터와 캐릭터 예고편을 공개했다.&nbsp; 공개된 캐릭터 포스터에는 비행에 목숨을 걸어야만 했던 이들의 절]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[유쾌한 액션과 유머… ‘나쁜 녀석들: 라이드 오어 다이’]]></title>
         <id>https://v.daum.net/v/20240606033912525</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240605181005629"/>
         <updated>2024-06-05T09:14:32.552Z</updated>
         <content type="html"><![CDATA[(MHN스포츠 장민수 기자) 배우 이정재가 '애콜라이트'를 통해 '스타워즈' 세계관에 입성했다. 영어 연기만으로도 의도한 캐릭터를 그려냈다는 점이 돋보인다. 5일 서울 용산구 CGV 용산아이파크몰에서 디즈니+ 오리지널 시리즈 '애콜라이트' 언론 시사회 및 기자간담회가 진행됐다. 이날은 배우 이정재가 참석했다. '애콜라이트'는 평화를 수호하는 제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[고아성 ‘한국이 싫어서’, 무주산골영화제 개막작 선정]]></title>
-        <id>https://v.daum.net/v/20240605175710270</id>
-        <link href="https://v.daum.net/v/20240605175710270"/>
-        <updated>2024-06-05T09:14:32.553Z</updated>
-        <content type="html"><![CDATA[장강명 작가의 동명 소설을 원작으로 하는 배우 고아성 주연작 ‘한국이 싫어서’가 8월 개봉을 확정한 가운데 올해 무주산골영화제 개막작으로도 선정됐다. ‘한국이 싫어서’(감독 장건재)는 20대 후반의 계나(고아성)가 자신의 행복을 찾아서 어느 날 갑자기 직장과 가족, 남자 친구를 뒤로하고 홀로 뉴질랜드로 떠나는 이야기를 그린 작품이다. 고아성을 비롯해 주종혁]]></content>
     </entry>
 </feed>
