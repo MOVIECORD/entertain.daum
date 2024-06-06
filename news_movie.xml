@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2024-06-06T09:13:46.732Z</updated>
+    <updated>2024-06-06T10:13:26.934Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['연인 된' 수지♥박보검, 개봉 첫날 1위…무대인사까지 화제]]></title>
+        <id>https://v.daum.net/v/20240606190331801</id>
+        <link href="https://v.daum.net/v/20240606190331801"/>
+        <updated>2024-06-06T10:13:07.978Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 이예진 기자) 영화 '원더랜드'가 개봉과 동시에 전체 박스오피스 1위에 올랐다. '만추' '가족의 탄생'을 통해 수많은 영화팬을 보유한 ‘감성 장인’ 김태용 감독과 탕웨이, 수지, 박보검, 정유미, 최우식 등 대세 배우들이 의기투합한 화제작 '원더랜드'가 바로 어제(5일) 개봉, 전체 박스오피스 1위에 등극했다. 영화 '원더랜드'는 죽은 사람]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['퓨리오사: 매드맥스 사가', 여성 서사의 힘]]></title>
+        <id>https://v.daum.net/v/20240606181728101</id>
+        <link href="https://v.daum.net/v/20240606181728101"/>
+        <updated>2024-06-06T10:13:07.979Z</updated>
+        <content type="html"><![CDATA['퓨리오사: 매드맥스 사가'는 여성 캐릭터 퓨리오사의 이야기를 담는 작품이다. 여성이 착취당하는 세계관 속에서 퓨리오사가 주인공이 됐다는 점이 시선을 모은다. 강인하고 대담한 퓨리오사의 모습은 많은 관객들에게 깊은 인상을 남겼다. 지난달 22일 개봉한 '퓨리오사: 매드맥스 사가'는 문명 붕괴 45년 후, 황폐해진 세상에 무참히 던져진 퓨리오사가 고향으로 돌]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[봉준호 '미키 17', 워너브러더스와 분쟁 탓 개봉 연기? "대중성 요구"]]></title>
         <id>https://v.daum.net/v/20240606180045816</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240606140002111"/>
         <updated>2024-06-06T05:12:40.575Z</updated>
         <content type="html"><![CDATA[배우 수지가 모두가 기원하는 ‘열애설’ 목록에 이름을 올렸다. 배우 박보검과 함께다. 두 사람은 영화 ‘원더랜드’(감독 김태용)에서 오래된 연인 ‘정인’(수지)과 ‘태주’(박보검)로 등장해 실제보다 더 찬란한 커플 호흡을 보여준다. 같이 출연한 탕웨이도 앞선 인터뷰에서 “둘이 사귀었으면 좋겠다”고 말할 정도다. “저도 그 기사를 봤어요. 그만큼 잘 어]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한동안 짧은 앞머리 고수했던 혜리...이유 있었다]]></title>
-        <id>https://v.daum.net/v/20240606134004724</id>
-        <link href="https://v.daum.net/v/20240606134004724"/>
-        <updated>2024-06-06T05:12:40.575Z</updated>
-        <content type="html"><![CDATA[(MHN스포츠 정승민 기자) 혜리가 짧은 앞머리를 고수한 이유인 영화 '빅토리'가 마침내 베일을 벗었다. 지난 5일 혜리가 출연한 영화 '빅토리' 티저 포스터와 예고편이 공개되며&nbsp;개봉 일자가 확정됐다. '빅토리'는&nbsp;오직 열정만큼은 충만한 생판 초짜 치어리딩 동아리 '밀레니엄 걸즈'가 신나는 댄스와 가요로 모두를 응원하는 이야기를 그린 영화로,]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['지옥' 연상호 감독, 디카프리오와 첫 美 영화 제작]]></title>
-        <id>https://v.daum.net/v/20240606133308617</id>
-        <link href="https://v.daum.net/v/20240606133308617"/>
-        <updated>2024-06-06T05:12:40.576Z</updated>
-        <content type="html"><![CDATA[[마이데일리 = 김지우 기자] 연상호 감독이 첫 영어 작품을 제작한다. 5일(현지시간) 데드라인 등 외신은 연상호 감독이 넷플릭스 시리즈 '기생수: 더 그레이'를 함께한 류용재 작가와 첫 영어 프로젝트인 영화 '35번가'를 제작한다고 보도했다. 할리우드 스타 레오나르도 디카프리오가 설립한 아피안 웨이와 연상호 감독의 와우 포인트가 공동 제작을 맡았다.]]></content>
     </entry>
 </feed>
