@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2024-06-06T07:12:27.021Z</updated>
+    <updated>2024-06-06T08:15:21.443Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이정재 '스타워즈' 신작, 비평가 호평했지만...]]></title>
+        <id>https://v.daum.net/v/20240606171251889</id>
+        <link href="https://v.daum.net/v/20240606171251889"/>
+        <updated>2024-06-06T08:15:02.675Z</updated>
+        <content type="html"><![CDATA[[한국경제TV 박근아 기자] 배우 이정재가 출연한 '스타워즈' 시리즈 '애콜라이트'(The Acolyte)가 미국에서 지난 4일(현지시간) 공개된 가운데 비평가들과 일반 관객들의 평가가 엇갈리고 있다. 미국 비평 전문매체 로튼로마토는 5일 애콜라이트에 대한 리뷰를 모아 전하는 기사에서 "친숙하지만, 새로운 스타워즈의 비전에 놀라운 액션으로 가득하다"는 제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘범죄도시’ 빠진 자리 누가 차지할까… ‘원더랜드’, ‘퓨리오사’ 꺾고 1위]]></title>
+        <id>https://v.daum.net/v/20240606161741931</id>
+        <link href="https://v.daum.net/v/20240606161741931"/>
+        <updated>2024-06-06T08:15:02.677Z</updated>
+        <content type="html"><![CDATA[영화 ‘범죄도시4’의 관람 행렬이 꺾이자 다양한 영화들이 경쟁하고 있다. 한동안 개봉하지 않았던 한국 영화들과 할리우드 대작들이 연이어 개봉하며 박스오피스 1위 자리를 두고 엎치락뒤치락하는 모양새다. 당장은 지난 5일 개봉한 김태용 감독의 ‘원더랜드’가 우위를 점하는 분위기다. 6일 영화진흥위원회 영화관 입장권 통합전산망에 따르면 전날 기준 박스오피스 1위]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이토록 애틋하면서도 섬뜩한 인공지능 SF라니]]></title>
         <id>https://v.daum.net/v/20240606155325402</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240606113921158"/>
         <updated>2024-06-06T03:14:06.109Z</updated>
         <content type="html"><![CDATA[[스타뉴스 | 김나연 기자] 연상호 감독이 12일 오후 서울 중구 앰배서더 서울풀만 호텔에서 진행된 넷플릭스 시리즈 '선산' 제작발표회에 참석해 인사말을 하고 있다.  '선산'은 존재조차 잊고 지내던 작은아버지의 죽음 후 남겨진 선산을 상속받게 되면서 불길한 일들이 연속되고 이와 관련된 비밀이 드러나며 벌어지는 이야기를 그린다. 오는 19일 공개. 2024]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이정재, '인종차별 혐오' K-제다이로 박살 냈다]]></title>
-        <id>https://v.daum.net/v/20240606112341898</id>
-        <link href="https://v.daum.net/v/20240606112341898"/>
-        <updated>2024-06-06T02:28:29.895Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 | 김나라 기자] '애콜라이트' 주역 이정재 /사진=월트디즈니컴퍼니 코리아배우 이정재, 가히 '제다이'가 될 상이었다. '스타워즈' 극성팬들의 인종차별적 반응을 뚫고 아시아인 최초의 제다이로서 '애콜라이트'에서 존재감을 뿜어냈다. OTT 디즈니+ 새 오리지널 시리즈 '애콜라이트'는 전설적인 SF 시리즈 '스타워즈'의 스핀오프 버전. 평화를 수]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[결혼생활 위기 중 나타난 남자... 두 사람의 '선택']]></title>
-        <id>https://v.daum.net/v/20240606111800798</id>
-        <link href="https://v.daum.net/v/20240606111800798"/>
-        <updated>2024-06-06T02:28:29.897Z</updated>
-        <content type="html"><![CDATA[[김성호 기자] 제25회 전주국제영화제 폐막작은 &lt;맷과 마라&gt;, 캐나다 독립영화계가 내놓은 주목할 만한 작품이다. 근 몇 년 동안 매력적인 작품을 거듭 쏟아내고 있는 캐나다 독립영화계가 그 역량을 한껏 발휘한 영화다. 수준급 젊은 창작자들이 한꺼번에 쏟아지고 있는 것이 캐나다 독립영화계를 주목하게 한다. 그중 빼놓을 수 없는 이름이 카직 라드완스키, 그리고]]></content>
     </entry>
 </feed>
