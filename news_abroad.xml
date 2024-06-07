@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2024-06-07T08:15:45.352Z</updated>
+    <updated>2024-06-07T09:13:01.258Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[유명 걸그룹, 미성년자 멤버 '3인' 동시 해고..."부적합 행동 확인"]]></title>
+        <id>https://v.daum.net/v/20240607173330403</id>
+        <link href="https://v.daum.net/v/20240607173330403"/>
+        <updated>2024-06-07T09:13:00.625Z</updated>
+        <content type="html"><![CDATA[[TV리포트=전하나 기자] 일본 여자 아이돌 그룹 '신생 라스트 아이돌'의 미성년자 멤버 3인이 갑작스러운 탈퇴 소식을 전해 이목을 끈다. 6일(현지 시간), '신생 라스트 아이돌' 측은 공식 홈페이지를 통해 멤버 하시모토 쥬리(17), 하야후지 리사(18), 요시하라 리온(18)과의 전속 계약 해지를 발표했다. 이날 그룹 공식 홈페이지에는 '하시모토 쥬리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[리한나, 진짜 가수 그만뒀나...'은퇴' 티셔츠 입고 거리 활보]]></title>
+        <id>https://v.daum.net/v/20240607171647965</id>
+        <link href="https://v.daum.net/v/20240607171647965"/>
+        <updated>2024-06-07T09:13:00.626Z</updated>
+        <content type="html"><![CDATA[[TV리포트=한아름 기자] 신곡 발매 대신 브랜드 론칭 소식을 알린 가수 리한나(36)가 은퇴를 암시하는 의상을 입고 등장해 이목을 사로잡았다. 7일(현지 시간), 외신 매체 '페이직식스'가 가수 리한나와 그의 약혼자인 래퍼 에이셉 라키의 사진을 공개하며, 리한나가 티셔츠 문구를 통해 신곡 발매 요청에 대한 대답을 대신했다고 추측했다. 이날 리한나와 에이셉]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“아빠 브래드 피트 성 삭제” 18살 딸 샤일로 졸리, “개명 곧 승인날 듯”]]></title>
         <id>https://v.daum.net/v/20240607161343328</id>
@@ -53,12 +67,5 @@
         <link href="https://v.daum.net/v/20240607112548992"/>
         <updated>2024-06-07T02:33:56.413Z</updated>
         <content type="html"><![CDATA[[뉴스엔 황혜진 기자] 미국 가수 레이디 가가(Lady GaGa)가 임신설을 직접 해명했다. 레이디 가가는 6월 5일(이하 한국시간) 공식 계정에 "Not pregnant.. just down bad crying at the gym"(임신하지 않았다. 헬스장에서 울면서 운동 중"이라고 밝혔다. 앞서 영국 매체 더 선은 3일 레이디 가가가 최근 여동생 나탈]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['세기의 이혼' 승리한 조니 뎁, '사탄' 된다..은퇴설 불식]]></title>
-        <id>https://v.daum.net/v/20240606172034000</id>
-        <link href="https://v.daum.net/v/20240606172034000"/>
-        <updated>2024-06-06T09:13:46.141Z</updated>
-        <content type="html"><![CDATA[[OSEN=최이정 기자]&nbsp;배우 조니 뎁(60)이 테리 길리엄 감독의 새 영화 'The Carnival at the End of Days'에서 사탄 역을 맡을 예정이다.&nbsp; 영화 '라스베이거스의 공포와 혐오', '파르나서스 박사의 상상극장' 등에서 뎁과 호흡을 맞춘 바 있는 길리엄 감독은 퇴근 프랑스 아난시 국제 애니메이션 영화제에서 이 같은 소식을 전했다]]></content>
     </entry>
 </feed>
