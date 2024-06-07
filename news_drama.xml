@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-06-07T12:23:12.119Z</updated>
+    <updated>2024-06-07T13:15:20.744Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['코믹↔진지' 김명수, 몰입감+섬세함 다 잡았다]]></title>
+        <id>https://v.daum.net/v/20240607220426770</id>
+        <link href="https://v.daum.net/v/20240607220426770"/>
+        <updated>2024-06-07T13:15:08.128Z</updated>
+        <content type="html"><![CDATA[[동아닷컴] 배우 김명수가 '함부로 대해줘'에서 한계가 없는 연기를 선보이고 있다. KBS 2TV 월화드라마 ‘함부로 대해줘’(극본 박유미 / 연출 장양호 / 기획 KBS / 제작 판타지오 / 원작 네이버웹툰 &lt;함부로 대해줘&gt; 작가 선우)에서 MZ 선비 신윤복으로 열연하고 있는 김명수가 코믹과 진지를 오가며 구심점 역할을 톡톡히 하고 있다. 김명수(신윤복]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘커넥션’ 측 "지성·전미도·정순원 시너지..오늘 색다른 히든카드 등장"]]></title>
         <id>https://v.daum.net/v/20240607212047190</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240607175327839"/>
         <updated>2024-06-07T09:12:49.269Z</updated>
         <content type="html"><![CDATA[심은우[이데일리 스타in 김가영 기자] 배우 심은우가 학폭 의혹을 언급한 누리꾼에 반박했다. 심은우는 최근 SNS에 “오늘은 안 참아준다”라는 메시지와 함께 자신에게 온 DM(다이렉트 메시지)를 공개했다. 심은우가 공개한 메시지에서 한 누리꾼은 “누군가는 지옥같은 일상에서 괴로워할 텐데 행복하세요”라며 그의 학폭 의혹을 언급했다. 심은우는 “할 일 없으시]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[사회성 제로 최진혁, 김광식-문예원 사이 험난한 직장 생활]]></title>
-        <id>https://v.daum.net/v/20240607174934746</id>
-        <link href="https://v.daum.net/v/20240607174934746"/>
-        <updated>2024-06-07T09:12:49.271Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 김명미 기자] 사회성 제로 검사 최진혁의 개성 넘치는 직장 동료들이 공개됐다. 6월 15일 첫 방송될 JTBC 새 토일드라마 ‘낮과 밤이 다른 그녀’(극본 박지하/ 연출 이형민, 최선민/ 제공 SLL/ 제작 삼화네트웍스)는 어느 날 갑자기 노년 타임에 갇혀버린 취준생과 낮과 밤 올 타임 그녀에게 휘말린 능력캐 검사의 기상천외한 인턴십과 앙큼달콤]]></content>
     </entry>
 </feed>
