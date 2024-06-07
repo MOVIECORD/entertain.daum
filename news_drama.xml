@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-06-07T20:12:40.712Z</updated>
+    <updated>2024-06-07T21:13:37.440Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘커넥션’ 지성, 마약 중독 절규→권율·정유민 불륜 목격까지...‘연기가 날뛰다’]]></title>
+        <id>https://v.daum.net/v/20240608060606926</id>
+        <link href="https://v.daum.net/v/20240608060606926"/>
+        <updated>2024-06-07T21:13:22.372Z</updated>
+        <content type="html"><![CDATA[약에 중독된 마약범죄수사팀 반장의 모습에서부터, 죽은 친구 아내의 내연 목격 현장까지, 배우 지성의 연기가 날뛰기 시작했다. 7일 방송된 SBS 금토 드라마 ‘커넥션’에서 장재경(지성 분)은 박태진(권율 분)과 죽은 박준서(윤나무 분)의 아내 최지연(정유민 분)이 내연관계를 알아차리면서, 자살로 위장된 박준서의 죽음에 한 걸음 더 다가서게 됐다. 박준서의]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['눈물의 여왕' 곽동연 "제 모든 것 다 꺼내 보인 드라마, 제작진 100% 믿었죠"]]></title>
         <id>https://v.daum.net/v/20240608041459329</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240607220426770"/>
         <updated>2024-06-07T13:15:08.128Z</updated>
         <content type="html"><![CDATA[[동아닷컴] 배우 김명수가 '함부로 대해줘'에서 한계가 없는 연기를 선보이고 있다. KBS 2TV 월화드라마 ‘함부로 대해줘’(극본 박유미 / 연출 장양호 / 기획 KBS / 제작 판타지오 / 원작 네이버웹툰 &lt;함부로 대해줘&gt; 작가 선우)에서 MZ 선비 신윤복으로 열연하고 있는 김명수가 코믹과 진지를 오가며 구심점 역할을 톡톡히 하고 있다. 김명수(신윤복]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘커넥션’ 측 "지성·전미도·정순원 시너지..오늘 색다른 히든카드 등장"]]></title>
-        <id>https://v.daum.net/v/20240607212047190</id>
-        <link href="https://v.daum.net/v/20240607212047190"/>
-        <updated>2024-06-07T12:22:56.801Z</updated>
-        <content type="html"><![CDATA[[OSEN=박소영 기자] SBS&nbsp;금토드라마&nbsp;‘커넥션’&nbsp;지성과 전미도,&nbsp;그리고 정순원이&nbsp;‘오디오파일’ 3인방으로 변신,&nbsp;또 다른 단서를 쫓는&nbsp;‘의미심장 조사’&nbsp;현장이 포착됐다. SBS&nbsp;금토드라마&nbsp;‘커넥션’(극본 이현,&nbsp;연출 김문교,&nbsp;제작 스튜디오S,&nbsp;쏘울픽쳐스,&nbsp;풍년전파상)은&nbsp;4회 연속 동시간대&nbsp;1위를 거머쥐며 금토 드라마 왕좌 자리를 거머쥐었다.&nbsp;또한&nbsp;]]></content>
     </entry>
 </feed>
