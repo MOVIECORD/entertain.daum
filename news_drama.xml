@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-06-08T01:56:33.401Z</updated>
+    <updated>2024-06-08T02:28:19.758Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[정려원♥위하준, 탕비실 뽀뽀→회의중 눈맞춤..스릴만점 비밀 연애]]></title>
+        <id>https://v.daum.net/v/20240608112143786</id>
+        <link href="https://v.daum.net/v/20240608112143786"/>
+        <updated>2024-06-08T02:28:03.936Z</updated>
+        <content type="html"><![CDATA[[OSEN=하수정 기자] tvN ‘졸업’ 정려원과 위하준이 스릴 만점 비밀 연애를 시작한다. tvN 토일드라마 ‘졸업’(연출 안판석, 극본 박경화, 제작 스튜디오드래곤·(주)제이에스픽쳐스) 측은 8일, 24시간이 달콤한 서혜진(정려원 분)과 이준호(위하준 분)의 사내 데이트 현장을 포착해 설렘을 높인다. 지난 방송에서 서혜진과 이준호는 사제(師弟)에서]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뉴진스, '1박2일' 출격… 데뷔 첫 지상파 예능 나들이]]></title>
         <id>https://v.daum.net/v/20240608104850518</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240608092323706"/>
         <updated>2024-06-08T00:52:25.528Z</updated>
         <content type="html"><![CDATA[[스포츠조선 조민정 기자] 정려원과 위하준이 스릴 만점 비밀 연애를 시작한다. tvN 토일드라마 '졸업'(연출 안판석, 극본 박경화, 제작 스튜디오드래곤·(주)제이에스픽쳐스) 측은 8일, 24시간이 달콤한 서혜진(정려원 분)과 이준호(위하준 분)의 사내 데이트 현장을 포착해 설렘을 높인다. 지난 방송에서 서혜진과 이준호는 사제(師弟)에서 동료]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘졸업’ 정려원♥위하준, 학원 탕비실에서 뽀뽀하는 선생님들]]></title>
-        <id>https://v.daum.net/v/20240608091756676</id>
-        <link href="https://v.daum.net/v/20240608091756676"/>
-        <updated>2024-06-08T00:52:25.530Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 이민지 기자] 정려원과 위하준이 비밀 연애를 시작한다. tvN 토일드라마 ‘졸업’(극본 박경화/연출 안판석) 측은 6월 8일 24시간이 달콤한 서혜진(정려원 분)과 이준호(위하준 분)의 사내 데이트 현장을 공개했다. 베테랑 스타강사지만 연애는 서툰 서혜진과 플러팅 천재 이준호의 어른 로맨스가 기대를 모으는 가운데 이날 공개된 비밀 연애는 설렘을]]></content>
     </entry>
 </feed>
