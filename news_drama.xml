@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-06-09T21:11:48.386Z</updated>
+    <updated>2024-06-09T22:11:29.849Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘나대신꿈’에 시트콤 부활까지…안방극장, 웃겨야 산다!]]></title>
+        <id>https://v.daum.net/v/20240610063141002</id>
+        <link href="https://v.daum.net/v/20240610063141002"/>
+        <updated>2024-06-09T22:11:15.464Z</updated>
+        <content type="html"><![CDATA[최근 안방극장에 가볍게 웃으며 즐길 수 있는 코미디 드라마가 새롭게 주목받고 있다. 티빙 드라마 ‘나는 대놓고 신데렐라를 꿈꾼다’(나대신꿈) 등이 실험적이고 독특한 코믹 요소들을 내세워 시청자들의 호기심을 잡아끈 덕분이다. 관련 흐름에 힘입어 일부 방송사와 제작사는 한동안 제작되지 않았던 시트콤 포맷을 다시 꺼내 들었다. 4회까지 공개한 ‘나대신꿈’은]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“꽃뱀 돈 먹고 떨어져” 김혜선, 임수향 머리채 잡고 돈 뿌려]]></title>
         <id>https://v.daum.net/v/20240610055235208</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240609215101760"/>
         <updated>2024-06-09T13:11:54.875Z</updated>
         <content type="html"><![CDATA[[TV리포트=이혜미 기자] ‘졸업’ 김송일이 정려원에 대항해 학원 강사가 됐다. 9일 tvN ‘졸업’에선 혜진(정려원 분) 때문에 학교를 그만뒀다며 그를 향한 적의를 토해내는 상섭(김송일 분)의 모습이 그려졌다. 이날 학원을 찾은 상섭은 혜진을 ‘선생’이라 칭하는 것으로 그를 놀라게 한 터. 일찍이 학원 강사인 혜진을 선생으로 인정할 수 없다고 했던 상섭은]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘미녀와 순정남’ 고윤, 임수향에 “내가 너 좋다잖아” 집착→지현우, 주먹다짐]]></title>
-        <id>https://v.daum.net/v/20240609213228588</id>
-        <link href="https://v.daum.net/v/20240609213228588"/>
-        <updated>2024-06-09T13:11:54.878Z</updated>
-        <content type="html"><![CDATA[고윤이 임수향에게 집착한다. 9일(일) 방송된 KBS2 주말드라마 ‘미녀와 순정남’에서는 김지영(임수향 분)이 공진단(고윤 분)의 고백을 거절한다. 이날 김지영과 공진단의 사이를 오해한 홍애교(김혜선 분)는 김지영을 찾아와 “이 꽃뱀 같은 게 네가 뭔데 우리 진단이 옆에 붙어있냐. 뭘 뜯어먹고 싶어서 붙어있냐”고 하며 머리채를 잡는다. 이어 그는 “]]></content>
     </entry>
 </feed>
