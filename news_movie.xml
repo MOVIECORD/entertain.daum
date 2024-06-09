@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2024-06-09T08:14:12.147Z</updated>
+    <updated>2024-06-09T09:12:49.248Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[인생도 인간관계도 공들여야 '깊은 맛']]></title>
+        <id>https://v.daum.net/v/20240609175225669</id>
+        <link href="https://v.daum.net/v/20240609175225669"/>
+        <updated>2024-06-09T09:12:31.833Z</updated>
+        <content type="html"><![CDATA[[서울경제] 프랑스 요리는 전 세계 요리 중 최고봉으로 꼽힌다. 요리의 수준 뿐 아니라 격식, 즐기는 분위기 등 모든 측면에서 그렇다. 프랑스인들에게 프랑스 요리는 단순히 식사를 지칭하는 것이 아니라 이들의 인생 그 자체이기도 하다. 세 시간이 넘게 걸리기도 하는 프랑스의 정찬 식사는 준비 시간과 식사 후 살롱에서 이어지는 교류 시간을 포함하면 하루 전체]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이수지, 화림 흉내 비하인드 공개… "김고은이 좋아해"]]></title>
         <id>https://v.daum.net/v/20240609164942262</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240609091740661"/>
         <updated>2024-06-09T00:57:05.445Z</updated>
         <content type="html"><![CDATA[영화 ‘원더랜드’(감독 김태용)가 개봉 4일 내내 박스오피스 정상을 달리고 있다. 9일 영화진흥위원회 영화관입장권 통합전산망 집계결과 ‘원더랜드’는 전날 9만7982명이 관람해 1위를 차지했다. 누적관객수 39만5829명이다. ‘원더랜드’는 죽은 사람을 인공지능으로 복원하는 영상통화 서비스 ‘원더랜드’를 통해 사랑하는 사람과 다시 만나는 이야기로,]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박보검 “배우로 다양한 삶을 사는 건 행운이죠”]]></title>
-        <id>https://v.daum.net/v/20240609090012384</id>
-        <link href="https://v.daum.net/v/20240609090012384"/>
-        <updated>2024-06-09T00:57:05.446Z</updated>
-        <content type="html"><![CDATA[배우 박보검(30)은 의외의 행보를 걷고 있다. 착실한 성품에 수려한 외모를 갖춘 그는 수백억 출연작 투자가 척척 되는 ‘톱배우’다. 대개 배우들은 제대하면 빠르게 달린다. 경제적 공백과 잊힐지도 모른다는 불안감에서다. 하지만 그는 물밀듯 밀려드는 시나리오를 뒤로한 채 뮤지컬 무대를 선택했다. 배우 소속사가 아닌 ‘가요 레이블’과 전속계약도 맺었다. 그에게]]></content>
     </entry>
 </feed>
