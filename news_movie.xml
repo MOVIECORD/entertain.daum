@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2024-06-10T02:37:55.034Z</updated>
+    <updated>2024-06-10T03:13:43.537Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[문정희 “무늬만 평화주의자 5층, 내겐 비호감 인간상”]]></title>
+        <id>https://v.daum.net/v/20240610114802228</id>
+        <link href="https://v.daum.net/v/20240610114802228"/>
+        <updated>2024-06-10T03:13:23.953Z</updated>
+        <content type="html"><![CDATA[배우 문정희(48)가 넷플릭스 오리지널 시리즈 ‘더 에이트 쇼(The 8 Show)’를 통해 글로벌 시청자와 만나고 있다. 선함을 추구하지만 어딘가 의뭉스러운, ‘평화주의자’ 5층으로 분해 노련한 내공을 뽐낸다. 최근 서울 종로구 삼청동의 한 카페에서 만난 문정희는 “처음 (출연) 제안을 받고 뛸듯이 기뻤지만, 막상 들어가니 그동안 맡았던 그 어떤 역할보다]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[개봉 D-2 '인사이드 아웃2', 예매율 54% 1위…수지·박보검 위협할까]]></title>
+        <id>https://v.daum.net/v/20240610114346047</id>
+        <link href="https://v.daum.net/v/20240610114346047"/>
+        <updated>2024-06-10T03:13:23.953Z</updated>
+        <content type="html"><![CDATA[(서울=뉴스1) 정유진 기자 = 애니메이션 영화 '인사이드 아웃2'(감독 켈시 만)이 개봉 이틀을 앞두고 예매율 1위를 기록 중이다. 10일 영화진흥위원회 영화관 입장권 통합 전산망에 따르면 '인사이드 아웃2'는 오전9시 현재 54.0%의 예매율로 전체 예매율 1위를 기록 중이다. 예매 관객수는 12만 8186명. '인사이드 아웃2'는 13살이 된 ‘라]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘원더랜드’, 개봉 첫 주 박스오피스 정상…‘범죄도시4’는 ‘변호인’ 넘겼다]]></title>
         <id>https://v.daum.net/v/20240610113223645</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240610104845604"/>
         <updated>2024-06-10T02:00:30.978Z</updated>
         <content type="html"><![CDATA[아이즈 ize 최재욱 기자김태용 감독의 영화 '원더랜드'가 예상대로 개봉 첫 주말 극장가를 접수했다. 지난&nbsp;&nbsp;5일 개봉해 5일&nbsp;연속 전체 박스오피스 1위를 차지했다. 영화진흥위원회 통합전산망에 따르면 '원더랜드'는 지난 주말&nbsp;3일간 총 23만7,799명의 관객을 동원하며 주말 박스오피스 정상에 올랐다. 누적관객수는&nbsp;46만8,802명. 곧 50만 관객을 넘어]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[강동원 '설계자', 50만 턱걸이…3주 만에 퇴장 위기]]></title>
-        <id>https://v.daum.net/v/20240610103948164</id>
-        <link href="https://v.daum.net/v/20240610103948164"/>
-        <updated>2024-06-10T02:00:30.978Z</updated>
-        <content type="html"><![CDATA[[SBS 연예뉴스 | 김지혜 기자] 배우 강동원 주연의 영화 '설계자'가 개봉 2주 만에 관객수가 급락하며 고전을 면치 못하고 있다. 10일 영화진흥위원회 영화관입장권 통합전산망 집계에 따르면 '설계자'는 개봉 2주 차 주말인 지난 7일부터 9일까지 전국 5만 2,187명을 모아 박스오피스 6위에 머물렀다. 주말임에도 일일 평균 2만 명의 관객도 모으지 못]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['탈주' 이제훈 "인생 마지막 작품이라고 생각하며 연기"]]></title>
-        <id>https://v.daum.net/v/20240610103944157</id>
-        <link href="https://v.daum.net/v/20240610103944157"/>
-        <updated>2024-06-10T02:00:30.979Z</updated>
-        <content type="html"><![CDATA[[SBS 연예뉴스 | 김지혜 기자] 배우 이제훈이 영화 '탈주'에서 체력의 한계에 도전하는 열정적인 연기를 펼쳤다. '탈주'는 내일을 위한 탈주를 시작한 북한병사 규남과 오늘을 지키기 위해 규남을 쫓는 보위부 장교 현상의 목숨 건 추격전을 그린 영화.  10일 공개된 스틸은 내일을 위해 탈주를 시작한 북한병사 규남(이제훈)의 험난한 탈주 과정을 담아내 눈]]></content>
     </entry>
 </feed>
