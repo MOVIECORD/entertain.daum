@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2024-06-12T11:10:23.923Z</updated>
+    <updated>2024-06-12T12:21:58.117Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['배우 데뷔' 덱스, 연기 제안 더 받았다 "가볍게 접근 NO"]]></title>
+        <id>https://v.daum.net/v/20240612205002034</id>
+        <link href="https://v.daum.net/v/20240612205002034"/>
+        <updated>2024-06-12T12:21:37.591Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 오승현 기자) 덱스가 배우 김진영으로 다시 태어난 가운데, 연기에 대한 진중한 생각을 전했다. 12일 오후 서울 용산구 CGV아이파크몰에서는 영화 '타로'(감독 최병길) 스페셜 간담회가 진행됐다. 이 자리에는 최병길 감독을 비롯해 배우 조여정, 김진영(덱스), 고규필이 참석했다. 영화 '타로'는 한순간의 선택으로 뒤틀린 타로카드의 저주에 갇혀]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[안소희, 실제 '대치동' 강사 출신 도움받아 일타 강사 됐다]]></title>
+        <id>https://v.daum.net/v/20240612201816410</id>
+        <link href="https://v.daum.net/v/20240612201816410"/>
+        <updated>2024-06-12T12:21:37.592Z</updated>
+        <content type="html"><![CDATA[그룹 원더걸스 출신 배우 안소희가 대치동 강사 출신에게 도움을 받아 국어 일타 강사가 됐다. '대치동 스캔들' 이야기다. 12일 오후 서울 용산구 CGV용산아이파크몰에서 '대치동 스캔들'(감독 김수인) 언론배급시사 및 간담회가 진행됐다. 행사에는 김수인 감독을 비롯해 배우 안소희, 박상남, 타쿠야, 조은유가 참석했다. '대치동 스캔들'은 사교육의 전쟁]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["맛만 보려는 거 아닙니다"...연기도 잘하는 덱스, '배우 김진영' 가능성 보였다]]></title>
         <id>https://v.daum.net/v/20240612200011969</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240612190244490"/>
         <updated>2024-06-12T10:12:49.506Z</updated>
         <content type="html"><![CDATA[[마이데일리 = 강다윤 기자] 최병길 감독이 방송인 겸 성우 서유리와의 이혼 심경을 간접적으로 밝혔다. 12일 오후 서울 용산구 CGV 용산아이파크몰에서 영화 '타로'(감독 최병길) 기자간담회가 열렸다. 행사에는 최병길 감독을 비롯해 배우 조여정, 김진영(덱스), 고규필이 참석했다. 진행은 방송인 유재필이 맡았다. '타로'는 한순간의 선택으로 뒤틀린 타로]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['대치동 스캔들' 타쿠야 "한국 온 지 14년...서툰 한국어 연기 더 어려워"]]></title>
-        <id>https://v.daum.net/v/20240612190144460</id>
-        <link href="https://v.daum.net/v/20240612190144460"/>
-        <updated>2024-06-12T10:12:49.513Z</updated>
-        <content type="html"><![CDATA[[OSEN=유수연 기자] 타쿠야가 '대치동 스캔들' 연기 비하인드를 전했다. 12일 서울 CGV 용산아이파크몰에서는 영화 ‘대치동 스캔들’ 기자 간담회가 진행됐다. 행사에는 김수인 감독, 배우 안소희, 박상남, 타쿠야, 조은유가 참석했다. ‘대치동&nbsp;스캔들’은 사교육의 전쟁터이자 욕망의 집결지 '대치동'에서 일타 강사 '윤임'과 학교 교사인 '기행'의 만]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['대치동 스캔들' 타쿠야 "韓 온 지 14년, 한국어 못하는 연기 어려워"]]></title>
-        <id>https://v.daum.net/v/20240612190142456</id>
-        <link href="https://v.daum.net/v/20240612190142456"/>
-        <updated>2024-06-12T10:12:49.514Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 | CGV용산=김나연 기자] 배우 타쿠야가 12일 오후 서울 CGV용산아이파크몰에서 진행된 영화 '대치동 스캔들'(감독 김수인) 언론시사회 및 기자간담회에 참석해 질문에 답하고 있다. /2024.06.12 /사진=이동훈'대치동 스캔들'에 출연한 타쿠야가 캐릭터에 중점을 둔 부분을 밝혔다. 12일 서울시 용산구 CGV 용산아이파크몰에서 영화 ']]></content>
     </entry>
 </feed>
