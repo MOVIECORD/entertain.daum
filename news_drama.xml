@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-06-12T09:13:10.224Z</updated>
+    <updated>2024-06-12T10:13:05.604Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[임신한 명세빈..김주헌과 필사적인 사랑 "휘몰아친다"]]></title>
+        <id>https://v.daum.net/v/20240612182523391</id>
+        <link href="https://v.daum.net/v/20240612182523391"/>
+        <updated>2024-06-12T10:12:53.412Z</updated>
+        <content type="html"><![CDATA[[OSEN=최이정 기자]&nbsp;MBN ‘세자가 사라졌다’&nbsp;명세빈과 김주헌이 누군가에게 쫓기는&nbsp;‘위험천만 칼날 위협’&nbsp;현장으로&nbsp;처절함을 높인다. MBN&nbsp;주말 미니시리즈&nbsp;‘세자가 사라졌다’(극본 박철,&nbsp;김지수/&nbsp;연출 김진만,&nbsp;김상훈/&nbsp;제작 스튜디오 지담,&nbsp;초록뱀미디어,&nbsp;㈜슈퍼북)는 왕세자가 세자빈이 될 여인에게 보쌈당하면서 벌어지는&nbsp;‘조선판 로맨스 코미디 드라마]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['애콜라이트', 디즈니+ 신기록 경신..더 기대되는 이정재]]></title>
+        <id>https://v.daum.net/v/20240612182223318</id>
+        <link href="https://v.daum.net/v/20240612182223318"/>
+        <updated>2024-06-12T10:12:53.413Z</updated>
+        <content type="html"><![CDATA[[OSEN=하수정 기자] 디즈니+ 오리지널 시리즈 '애콜라이트'가 2024년 디즈니+ 시리즈 중 최고의 시청 기록을 달성한 작품에 오른 가운데, 바로 오늘(12일) 3회에서 ‘마스터 솔’(이정재)과 제다이 연쇄살인사건의 중심에 선 쌍둥이 자매 ‘오샤’, ‘메이’(아만들라 스텐버그) 사이에 얽힌 과거의 이야기를 공개한다. 지난 5일, 흡인력 있는 스토리와]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['독사과' 이은지 "母, 집에 있는 주사기 보고 오해"]]></title>
         <id>https://v.daum.net/v/20240612180908015</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240612164809294"/>
         <updated>2024-06-12T08:15:28.078Z</updated>
         <content type="html"><![CDATA[[뉴스엔 김명미 기자] 어른들의 막싸움을 중재할 히어로 한선화가 출동한다. 6월 12일 첫 방송될 JTBC 새 수목드라마 ‘놀아주는 여자’(극본 나경/ 연출 김영환, 김우현/ 제작 베이스스토리, 아이오케이, SLL)에서는 키즈 크리에이터 고은하(한선화 분)가 아이들이 보는 앞에서 유치 찬란하게 싸우는 어른들의 싸움을 잠재우기 위한 미니 언니의 필살기를 꺼]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['우리 집' 김희선, 아들 재찬 구할까…한성민과 독대]]></title>
-        <id>https://v.daum.net/v/20240612164123047</id>
-        <link href="https://v.daum.net/v/20240612164123047"/>
-        <updated>2024-06-12T08:15:28.079Z</updated>
-        <content type="html"><![CDATA[[이데일리 스타in 김가영 기자] MBC 금토드라마 ‘우리, 집’ 김희선이 아들 재찬의 여자 친구인 한성민과 최초로 대면한다. MBC 금토드라마 ‘우리, 집’(기획 권성창 / 연출 이동현, 위득규 / 극본 남지연 / 제작 레드나인픽쳐스) 측은 12일 노영원(김희선 분)이 아들 최도현(재찬 분)의 여자친구인 소이(한성민 분)와 마주 앉아있는 현장을 공개했다]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[채종협X김소현 '우연일까', '플레이어2' 후속 확정..7월 중 방송]]></title>
-        <id>https://v.daum.net/v/20240612163840951</id>
-        <link href="https://v.daum.net/v/20240612163840951"/>
-        <updated>2024-06-12T08:15:28.079Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 | 김나연 기자] 채종협 김소현 / 사진=스타뉴스배우 채종협, 김소현 주연의 드라마 '우연일까'의 편성이 확정됐다. 12일 tvN 관계자는 스타뉴스에 "채종협, 김소현 주연의 드라마 '우연일까'는 현재 방송 중인 '플레이어2: 꾼들의 전쟁' 후속으로 방송된다"며 "7월 중 첫 방송 예정이지만, 구체적인 날짜는 미정"이라고 밝혔다. '우연일]]></content>
     </entry>
 </feed>
