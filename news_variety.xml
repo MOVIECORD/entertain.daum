@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/variety</id>
     <title>다음 연예 ─ 뉴스 ─ 예능</title>
-    <updated>2024-06-12T19:10:56.704Z</updated>
+    <updated>2024-06-12T20:12:25.005Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['혼전임신' 서효림 결혼 반대한 아버지…"상견례 전날 취소" 왜]]></title>
+        <id>https://v.daum.net/v/20240613050651123</id>
+        <link href="https://v.daum.net/v/20240613050651123"/>
+        <updated>2024-06-12T20:12:15.621Z</updated>
+        <content type="html"><![CDATA[배우 서효림이 2019년 혼전임신으로 상견례도 없이 결혼식을 치렀다고 밝혔다. 서효림은 12일 방송된 TV조선 '아빠하고 나하고'에서 결혼 뒷이야기를 전했다. 서효림은 "남편을 진지하게 알아갈 시간도 없이 교제 3개월 만에 결혼했다. 갑작스럽게 딸 조이가 생겼다. 그래서 결혼을 서둘렀다"고 고백했다. 그는 "부모님도 제 결혼 소식을 기사로 접하셨]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[최예나, "아이즈원 달라진 멤버? 르세라핌 채원, 밥 사줘…아이브 원영, 원영적 사고 그대로"]]></title>
         <id>https://v.daum.net/v/20240613010545913</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240613000342301"/>
         <updated>2024-06-12T15:12:37.294Z</updated>
         <content type="html"><![CDATA[[마이데일리 = 박서연 기자] 배우 최강희가 아르바이트를 한 이유를 밝혔다. 12일 방송된 MBC '라디오스타'(이하 '라스')에서는 최강희, 이상엽, 최현우, 궤도, 최예나가 출연해 '넌 어느 별에서 왔니' 특집으로 꾸며졌다. 이날 최강희는 "제가 한 3년 전에 연기를 잠깐 내려놓고 자립해보려고 생활을 했다. 자연인 최강희로 자립에 성공하고 우연한 기]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[20기 옥순, 美 구글 엔지니어 포기? "상철 위해 한국 올 수 있어"]]></title>
-        <id>https://v.daum.net/v/20240613000050235</id>
-        <link href="https://v.daum.net/v/20240613000050235"/>
-        <updated>2024-06-12T15:12:37.294Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 | 정은채 기자] /사진='나는 솔로' 빙송화면 캡쳐'나는 SOLO'(나는 솔로) 20기 옥순이 상철을 향한 깊어진 마음을 고백했다. 12일 방송된 ENA, SBS Plus '나는 SOLO'에서는 20번 째 솔로나라 5일차의 모습이 그려졌다. 이날 가장 먼저 기상한 옥순은 붕어빵과 계란프라이, 소시지, 커피로 이뤄진 '옥순 정식'을 완성해]]></content>
     </entry>
 </feed>
