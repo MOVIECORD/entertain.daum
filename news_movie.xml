@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2024-06-13T12:21:42.809Z</updated>
+    <updated>2024-06-13T13:14:32.398Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김희선, IMF 때 이태원 땅 다 사놨어...“갖고싶은 거 말해, 다 사줄게”]]></title>
+        <id>https://v.daum.net/v/20240613213445235</id>
+        <link href="https://v.daum.net/v/20240613213445235"/>
+        <updated>2024-06-13T13:14:12.793Z</updated>
+        <content type="html"><![CDATA[[OSEN=박근희 기자] '밥이나 한잔해’ 김희선이 리치 언니다운 면모를 보여, 웃음을 자아냈다. 13일 전파를 탄 tvN '밥이나 한잔해'에서는 김희선, 이수근, 이은지, 그리고 더보이즈의 영훈이 서울 용산구에서 네 번째 번개 모임을 가졌다. 용산구 잘알러로 배우 홍석천이 등장했다. 홍석천은 김희선에게 “희선이 너는 여전히 예쁘구나. 아름답다. 예쁜]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[박예영-이호원 영화 ‘내가 그린 오늘 그림은’ 캐스팅…6월 중 크랭크인]]></title>
         <id>https://v.daum.net/v/20240613210141536</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240613181245787"/>
         <updated>2024-06-13T09:13:36.615Z</updated>
         <content type="html"><![CDATA[사진제공|불나방씨네마배우 겸 가수 이호원이 영화 ‘내가 그린 오늘 그림은’에 출연한다. 13일 소속사 라이즈엔터테인먼트에 따르면 이호원은 ‘2023 영화진흥위원회 독립예술영화’ 장편부문 제작지원작으로 선정된 영화 ‘내가 그린 오늘 그림은’의 주인공으로 나선다. 최근 크랭크인한 영화는 유명한 미디어 아트 작가를 꿈꾸지만 현실은 백수인 아정(박예영)이 돈]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘실화’ 배경 살리려 ‘실제’ 추구…‘하이재킹’ 제작 비하인드 셋]]></title>
-        <id>https://v.daum.net/v/20240613180856677</id>
-        <link href="https://v.daum.net/v/20240613180856677"/>
-        <updated>2024-06-13T09:13:36.616Z</updated>
-        <content type="html"><![CDATA[하정우X여진구 주연 ‘하이재킹’의 흥미로운 제작 비하인드가 전해졌다. 배급사 키다리스튜디오는 13일 영화 ‘하이재킹’의 알고 보면 쓸모 있고 신기한 제작 과정을 공개했다. ‘하이재킹’은 1971년 대한민국 상공, 여객기가 공중 납치되면서 벌어지는 극한의 상황을 담은 작품이다. 배우 하정우, 여진구, 성동일, 채수빈의 연기로 만든 독보적인 시너지가 기대를]]></content>
     </entry>
 </feed>
