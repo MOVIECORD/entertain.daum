@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2024-06-13T21:12:40.637Z</updated>
+    <updated>2024-06-13T22:11:57.955Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘하이재킹’, 실화 업고 못 튀어]]></title>
+        <id>https://v.daum.net/v/20240614070602178</id>
+        <link href="https://v.daum.net/v/20240614070602178"/>
+        <updated>2024-06-13T22:11:38.097Z</updated>
+        <content type="html"><![CDATA[왜 영화화를 했는지는 충분히 납득이 가는데, 왜 이런 노선을 택했는지는 이해불가다. 감동 실화를 다뤘지만, 그만큼의 감흥은 주지 못하는 영화, ‘하이재킹’(감독 김성한)이다. 1971년 겨울 속초공항. (공군 파일럿 출신) 여객기 조종사 태인(하정우)과 규식(성동일)은 김포행 비행에 나선다. 승무원 옥순(채수빈)의 안내에 따라 탑승 중인 승객들의 분주함도]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘인사이드 아웃2’ 독주 시작…韓영화 부진 속 할리우드 속편의 습격]]></title>
+        <id>https://v.daum.net/v/20240614070008075</id>
+        <link href="https://v.daum.net/v/20240614070008075"/>
+        <updated>2024-06-13T22:11:38.099Z</updated>
+        <content type="html"><![CDATA[사진제공|월트디즈니컴퍼니코리아·롯데엔터테인먼트·유니버설픽처스 ‘설계자’, ‘원더랜드’ 등 여름 극장의 포문을 연 기대작들이 잇달아 부진한 성적을 낸 가운데 할리우드 애니메이션 ‘인사이드 아웃2’가 개봉 첫날부터 극장을 집어삼키며 흥행에 시동을 걸었다. 이런 분위기 속에서 ‘인사이드 아웃2’의 바통을 이을 할리우드 속편들이 잇달아 개봉해 한국 영화계의 불안]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘드라이브’ 박주현 “독이 된 관심 한 방울…트렁크는 조금 미워하다가 말았죠”]]></title>
         <id>https://v.daum.net/v/20240614060646541</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240613191532364"/>
         <updated>2024-06-13T11:10:55.296Z</updated>
         <content type="html"><![CDATA[[스타뉴스 | 용산구=김나라 기자] 배우 하정우가 22일 오전 서울 CGV용산아이파크몰에서 진행된 영화 '하이재킹'(감독 김성한) 제작발표회에 참석해 포즈를 취하고 있다.   1971년 대한민국 상공, 여객기가 공중 납치되면서 벌어지는 극한의 상황을 담은 영화 ‘하이재킹’은 6월 21일 개봉한다. /2024.05.22 /사진=이동훈배우 하정우가 신작 '하이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['하이재킹' 하정우, 조종사 역할 완벽 소화 "부기장이라고 해도 믿을 실력"]]></title>
-        <id>https://v.daum.net/v/20240613190741160</id>
-        <link href="https://v.daum.net/v/20240613190741160"/>
-        <updated>2024-06-13T10:12:07.876Z</updated>
-        <content type="html"><![CDATA['하이재킹'의 제작 과정이 공개됐다. 유재걸 교수는 배우 하정우와 성동일의 활약을 칭찬했다. 13일 영화 '하이재킹' 측이 제작 과정을 공개해 시선을 모았다. '하이재킹'은 1971년 대한민국 상공, 여객기가 공중 납치되면서 벌어지는 극한의 상황을 담은 작품이다. 제작 비하인드 첫 번째는 여객기라는 한정된 공간에서 일어나는 긴박한 상황을 담아내는 과정에서]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[조인성→나나, 류승완 감독 신작 '휴민트' 캐스팅]]></title>
-        <id>https://v.daum.net/v/20240613190333039</id>
-        <link href="https://v.daum.net/v/20240613190333039"/>
-        <updated>2024-06-13T10:12:07.876Z</updated>
-        <content type="html"><![CDATA[[스포츠한국 신영선&nbsp;기자]&nbsp; 류승완 감독의 차기작 '휴민트'가 조인성, 박정민, 박해준, 나나 등의 캐스팅을 확정했다.&nbsp; 13일 배급사 NEW는 '휴민트'가 캐스팅 작업을 마무리하고 본격적인 프로덕션에 돌입한다고 밝혔다.&nbsp; '휴민트'는 블라디보스토크 국경에서 발생하는 범죄를 파헤치다 격돌하게 되는 남북한 비밀 요원들의 이야기를 그리는 첩보 액션]]></content>
     </entry>
 </feed>
