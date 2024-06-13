@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2024-06-13T05:13:34.308Z</updated>
+    <updated>2024-06-13T06:16:26.390Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[AKB48 출신 배우 "연말마다 지인 정리...프로듀서 번호도 삭제하고 파"]]></title>
+        <id>https://v.daum.net/v/20240613141644586</id>
+        <link href="https://v.daum.net/v/20240613141644586"/>
+        <updated>2024-06-13T06:16:25.796Z</updated>
+        <content type="html"><![CDATA[[TV리포트=한아름 기자] 일본 걸그룹 AKB48 출신 가수 겸 배우 시마자키 하루카(30)가 방송에 출연해 연락처를 주기적으로 삭제한다고 밝혀 이목을 사로잡았다. 12일(현지 시간) 방영된 닛폰 테레비 '우에다와 여자가 짖는 밤'에 출연한 가수 겸 배우 시마자키 하루카는 자신을 미니멀리스트로 소개하며, 인간관계에서도 미니멀을 추구한다고 밝혔다. 시마자]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[리한나 "내 전기 영화? 테일러 러셀이 찍어줬으면 좋겠다"]]></title>
         <id>https://v.daum.net/v/20240613130230294</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240612165833658"/>
         <updated>2024-06-12T08:15:42.439Z</updated>
         <content type="html"><![CDATA[[뉴스엔 장예솔 기자] '왕좌의 게임' 에밀리아 클라크가 뇌동맥류 수술을 고백했다. 6월 11일(현지시간) 영국 매체 빅이슈는 에밀리아 클라크와 나눈 단독 인터뷰를 공개했다. 인터뷰에 따르면 클라크는 HBO 시리즈 '왕좌의 게임' 촬영 중 발생한 뇌출혈로 인해 2차례 수술을 받았다. 수술 후 몇 주 만에 촬영장에 복귀했다는 클라크는 "뇌 손상은 자아 감]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[테일러 스위프트 콘서트 방문한 60대 남성, '관음증'으로 체포]]></title>
-        <id>https://v.daum.net/v/20240612161941198</id>
-        <link href="https://v.daum.net/v/20240612161941198"/>
-        <updated>2024-06-12T08:15:42.439Z</updated>
-        <content type="html"><![CDATA[[TV리포트=한아름 기자] 가수 테일러 스위프트(34)의 콘서트장에서 64세 남성 관객이 관음증 혐의로 체포되는 일이 발생했다. 11일(현지 시간), 외신 매체 '페이지식스'가 가수 테일러 스위프트의 콘서트장에서 64세 남성 관객이 체포됐다고 보도했다. 테일러 스위프트는 지난 7일부터 9일까지 3일간 스코틀랜드 에든러버 머리필드 스타디움에서 콘서트 투어 ']]></content>
     </entry>
 </feed>
