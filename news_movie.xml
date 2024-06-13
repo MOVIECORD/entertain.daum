@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2024-06-13T20:12:27.772Z</updated>
+    <updated>2024-06-13T21:12:40.637Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘드라이브’ 박주현 “독이 된 관심 한 방울…트렁크는 조금 미워하다가 말았죠”]]></title>
+        <id>https://v.daum.net/v/20240614060646541</id>
+        <link href="https://v.daum.net/v/20240614060646541"/>
+        <updated>2024-06-13T21:12:23.828Z</updated>
+        <content type="html"><![CDATA[“트렁크 안에 있는 모습만 한달 반을 찍었어요. 진짜 싫었겠죠?” 옛말에 호랑이에게 물려가도 정신만 차리면 된다고 했다. 납치돼 자동차 트렁크에 갇힌 인기 유튜버를 연기한 박주현은 자신의 페이스로 러닝타임 90분을 이끌며 성공적인 스크린 단독 주연 신고식을 치렀다. 영화 ‘드라이브’ 개봉을 앞두고 최근 서울시 종로구의 한 카페에서 박주현과 인터뷰를 가]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김재중, K무당된다…오컬트 호러 '신사:악귀의 속삭임' 출연]]></title>
         <id>https://v.daum.net/v/20240614040603333</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240613190333039"/>
         <updated>2024-06-13T10:12:07.876Z</updated>
         <content type="html"><![CDATA[[스포츠한국 신영선&nbsp;기자]&nbsp; 류승완 감독의 차기작 '휴민트'가 조인성, 박정민, 박해준, 나나 등의 캐스팅을 확정했다.&nbsp; 13일 배급사 NEW는 '휴민트'가 캐스팅 작업을 마무리하고 본격적인 프로덕션에 돌입한다고 밝혔다.&nbsp; '휴민트'는 블라디보스토크 국경에서 발생하는 범죄를 파헤치다 격돌하게 되는 남북한 비밀 요원들의 이야기를 그리는 첩보 액션]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이성민, 작품 출연 후회까지 "자신 없는 연기 있어…점점 예민해지기도"]]></title>
-        <id>https://v.daum.net/v/20240613185002724</id>
-        <link href="https://v.daum.net/v/20240613185002724"/>
-        <updated>2024-06-13T10:12:07.877Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 오승현 기자) 배우 이성민이 자신의 연기에 대한 솔직한 평가를 내리는 성향임을 밝혔다. 13일 오전 서울 종로구의 한 카페에서 배우 이성민과 엑스포츠뉴스가 만났다.&nbsp; 이성민이 출연하는 영화 '핸섬가이즈'(감독 남동협)는 한 번 보면 절대 잊을 수 없는 재필(이성민 분)과 상구(이희준)가 전원생활을 꿈꾸며 새집으로 이사 온 날, 지하실에 봉인됐]]></content>
     </entry>
 </feed>
