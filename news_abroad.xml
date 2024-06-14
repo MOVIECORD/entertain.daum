@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2024-06-14T05:12:18.690Z</updated>
+    <updated>2024-06-14T06:17:02.254Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[판생 2막]]></title>
+        <id>https://v.daum.net/v/20240614151619925</id>
+        <link href="https://v.daum.net/v/20240614151619925"/>
+        <updated>2024-06-14T06:17:01.653Z</updated>
+        <content type="html"><![CDATA[중국으로 반환된 지 71일 만에 공개된 푸바오. 많은 논란 속에서 공개된 푸바우는 여전히 잘 먹고, 잘 놀고, 잘 즐기는(?) 모습이었습니다. 논란을 의식한 듯 중국에선 푸바오의 정수리 자국을 가리켜 '미인점'이라고까지 해명했는데요. 푸바오의 모습, 다시 한번 살펴볼까요~ #푸바오 #중국 공개 #선수핑 기지 #미인점 #YTN #돌발영상 ※ '당신의]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['브릿팝 레전드' 스웨이드, 8년 만에 韓 찾는다…8월 내한공연]]></title>
         <id>https://v.daum.net/v/20240614112449233</id>
@@ -60,12 +67,5 @@
         <link href="https://v.daum.net/v/20240613155630382"/>
         <updated>2024-06-13T07:11:46.616Z</updated>
         <content type="html"><![CDATA[[TV리포트=전하나 기자] 일본 아이돌 그룹 NMB48 출신 모델 겸 유튜버 요시다 아카리(27)가 아이돌 활동 시절 '난감한 선물'을 받았다고 고백해 이목을 끈다. 12일(현지 시간), 니혼TV 예능 '우에다와 여자가 짖는 밤'에 출연한 요시다 아카리가 아이돌 활동 시절 팬으로부터 곤란한 선물을 많이 받았다고 털어놨다. 아이돌 시절 팬에게 받은 선물에 대]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AKB48 출신 배우 "연말마다 지인 정리...프로듀서 번호도 삭제하고 파"]]></title>
-        <id>https://v.daum.net/v/20240613141644586</id>
-        <link href="https://v.daum.net/v/20240613141644586"/>
-        <updated>2024-06-13T06:16:25.796Z</updated>
-        <content type="html"><![CDATA[[TV리포트=한아름 기자] 일본 걸그룹 AKB48 출신 가수 겸 배우 시마자키 하루카(30)가 방송에 출연해 연락처를 주기적으로 삭제한다고 밝혀 이목을 사로잡았다. 12일(현지 시간) 방영된 닛폰 테레비 '우에다와 여자가 짖는 밤'에 출연한 가수 겸 배우 시마자키 하루카는 자신을 미니멀리스트로 소개하며, 인간관계에서도 미니멀을 추구한다고 밝혔다. 시마자]]></content>
     </entry>
 </feed>
