@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2024-06-16T20:11:37.148Z</updated>
+    <updated>2024-06-16T21:12:54.776Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[손석구, ‘밤낚시’로 영화 제작자 도전…추앙받는 행보 추가]]></title>
+        <id>https://v.daum.net/v/20240617060942422</id>
+        <link href="https://v.daum.net/v/20240617060942422"/>
+        <updated>2024-06-16T21:12:36.031Z</updated>
+        <content type="html"><![CDATA[‘국민 추앙 배우’ 손석구가 스크린에 돌아왔다. 이번에는 ‘영화 제작자’라는 직함도 달았다. 지난 14일 개봉한 ‘밤낚시’는 손석구가 주연배우이자 공동 제작으로 참여한 작품이다. 지난 2월 설립 소식을 전한 1인 기획사 스태넘이 현대자동차와 합작했다.&nbsp; ‘밤낚시’는 어두운 밤 전기차 충전소에서 벌어지는 미스터리 사건을 다룬 휴머니즘 스릴러다. 자동차 카]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘인사이드 아웃2’ 2차를 뛰어봤습니다]]></title>
         <id>https://v.daum.net/v/20240617000003401</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240616142620465"/>
         <updated>2024-06-16T06:15:49.247Z</updated>
         <content type="html"><![CDATA[[OSEN=유수연 기자] '인사이드 아웃2'가 국내 박스오피스를 점령했다. 16일&nbsp;영화진흥위원회 영화관입장권 통합전산망 집계에 따르면, '인사이드 아웃2'는 개봉 4일째인&nbsp;지난 15일 하루 동안 77만 7089명의 관객을 동원하며 박스오피스 1위를 기록했다. 누적관객수는 135만 1437명이다. 앞서 개봉 첫 날 19만 4848명, 둘째 날 13만 57]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['인사이드 아웃2', 4일째 100만 돌파..'하루 77만명 봤다']]></title>
-        <id>https://v.daum.net/v/20240616141918348</id>
-        <link href="https://v.daum.net/v/20240616141918348"/>
-        <updated>2024-06-16T06:15:49.248Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 | 김나라 기자] '인사이드 아웃2' 포스터 /사진=월트디즈니컴퍼니 코리아애니메이션 영화 '인사이드 아웃2'가 개봉 단 4일 만에 100만 고지를 넘어섰다. 16일 영화관입장권 통합전산망 집계에 따르면 15일 '인사이드 아웃2'는 77만 7,082명의 관객을 동원했다. 누적 관객 수는 135만 1,430명. 이로써 '인사이드 아웃2'는 지난]]></content>
     </entry>
 </feed>
