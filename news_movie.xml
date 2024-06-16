@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2024-06-16T03:13:35.814Z</updated>
+    <updated>2024-06-16T04:14:16.329Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘하이재킹’, 배우 하정우에게서 알 파치노가 보인다]]></title>
+        <id>https://v.daum.net/v/20240616125154783</id>
+        <link href="https://v.daum.net/v/20240616125154783"/>
+        <updated>2024-06-16T04:13:58.170Z</updated>
+        <content type="html"><![CDATA[배우나 감독의 인터뷰 질문지를 준비하면서 꼭 넣는 물음이 있다. 배우로서 당신의 ‘정체성’은 무엇이라고 생각하나요? 배우나 감독, 그 개별에 따라 당연히 다른 질문들을 뽑으면서도 매번 빼놓지 않는 이유는 아티스트 스스로 내가 어떻게 걸어왔고 어디를 향해 걸어가고 있다고 생각하는지가 가장 궁금해서다. 감독이나 배우나 선택되는 사람이어서, 직접 시나리오부터]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[다름과 기꺼이 마주하는 태도, 이 영화제가 특별한 이유]]></title>
         <id>https://v.daum.net/v/20240616115701050</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240616080200814"/>
         <updated>2024-06-15T23:12:14.134Z</updated>
         <content type="html"><![CDATA[디즈니·픽사 애니메이션 영화 &lt;인사이드 아웃&gt;의 두 번째 이야기 &lt;인사이드 아웃 2&gt;가 개봉 4일째인 15일 100만 관객을 돌파했다. 13살이 된 ‘라일리’의 머릿속 감정 컨트롤 본부에 ‘불안’, ‘당황’, ‘따분’, ‘부럽’의 낯선 감정들이 새롭게 등장하면서 평화롭던 일상이 깨지고 다시 시작된 위기와 모험을 다룬 애니메이션 영화 &lt;인사이드 아웃 2]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['원더랜드' 김태용 감독 "박보검을 사랑했다. 탕웨이보다 더 신경써서 촬영"]]></title>
-        <id>https://v.daum.net/v/20240616080112802</id>
-        <link href="https://v.daum.net/v/20240616080112802"/>
-        <updated>2024-06-15T23:12:14.134Z</updated>
-        <content type="html"><![CDATA[영화 '원더랜드'로 13년 만에 아내 탕웨이와 작업한 '만추' 이후의 상업영화로 돌아온 김태용 감독을 만났다. 민규동 감독과 공동 연출한 '여고괴담 두 번째 이야기'로 장편 데뷔, '가족의 탄생' '만추'까지 관객이 사랑하는 영화를 만들어 온 김태용 감독은 죽은 사람을 인공지능으로 복원해 영상통화하는 가상의 서비스 '원더랜드'를 소재로 사랑하는 사람과 이별]]></content>
     </entry>
 </feed>
