@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2024-06-17T05:15:10.022Z</updated>
+    <updated>2024-06-17T06:17:39.597Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[악역에 '눈 뜬' 여진구…"예의 바른 국민 남동생? 최대한 즐길 것"]]></title>
+        <id>https://v.daum.net/v/20240617145126411</id>
+        <link href="https://v.daum.net/v/20240617145126411"/>
+        <updated>2024-06-17T06:17:21.157Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 윤현지 기자) 배우 여진구가 '하이재킹'을 통해 역대급 악역으로 변신한 소감을 전했다.&nbsp; 17일 오후 서울 삼청동의 한 카페에서 영화 '하이재킹'(감독 김성한)에 출연한 배우 하정우의 인터뷰가 진행됐다. '하이재킹'은 1971년 대한민국 상공, 여객기가 공중 납치되면서 벌어지는 극한의 상황을 담은 영화. 여진구는 차별과 괄시를 받고 살아온 여]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[하정우X여진구 '하이재킹', 10개국 개봉 확정..전 세계로 고공행진]]></title>
+        <id>https://v.daum.net/v/20240617142010970</id>
+        <link href="https://v.daum.net/v/20240617142010970"/>
+        <updated>2024-06-17T06:17:21.158Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 | 김나라 기자] /사진=㈜키다리스튜디오, 소니픽쳐스영화 '하이재킹'(영제: Hijack 1971)이 한국을 포함한 10개국 개봉을 확정, 전 세계 관객들을 찾아간다. '하이재킹'(감독 김성한)은 해외 다수의 나라에서 개봉을 확정하며 글로벌 흥행에 대한 이목을 집중시킨다. 오는 21일 한국과 대만 동시 개봉을 시작으로 7월 미국, 캐나다, 베트]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['드라이브' 박주현 "원톱 주연, 단두대 오른 느낌...후회는 없어요"]]></title>
         <id>https://v.daum.net/v/20240617141006516</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240617122749200"/>
         <updated>2024-06-17T04:15:36.111Z</updated>
         <content type="html"><![CDATA[[스타뉴스 | 종로구=김나라 기자] 여진구 /사진=㈜키다리스튜디오, 소니픽쳐스배우 여진구가 신작 '하이재킹'에서 '롤모델' 하정우와 연기 호흡을 맞춘 소감을 밝혔다. 여진구는 17일 오전 서울 종로구 소격동 한 카페에서 스타뉴스와 인터뷰를 진행했다. 오는 21일 새 영화 '하이재킹'(감독 김성한) 개봉을 앞두고 자리를 마련, 진솔한 이야기를 들려줬다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['하이재킹' 여진구 "첫 악역, 범법 간접 경험 카타르시스"]]></title>
-        <id>https://v.daum.net/v/20240617122745198</id>
-        <link href="https://v.daum.net/v/20240617122745198"/>
-        <updated>2024-06-17T04:15:36.111Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 | 종로구=김나라 기자] 여진구 /사진=㈜키다리스튜디오, 소니픽쳐스'국민 남동생' 여진구(26)가 신작 '하이재킹'으로 데뷔 20년 만에 첫 악역에 도전한 소회를 밝혔다. 여진구는 17일 오전 서울 종로구 소격동 한 카페에서 스타뉴스와 인터뷰를 진행했다. 오는 21일 새 영화 '하이재킹'(감독 김성한) 개봉을 앞두고 자리를 마련, 진솔한 이야기]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['국민 남동생' 여진구 "입대? 풀려있는 숙제!"]]></title>
-        <id>https://v.daum.net/v/20240617122701185</id>
-        <link href="https://v.daum.net/v/20240617122701185"/>
-        <updated>2024-06-17T04:15:36.111Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 | 종로구=김나라 기자] 여진구 /사진=㈜키다리스튜디오, 소니픽쳐스'국민 남동생' 여진구(26)가 군 입대 계획을 언급했다. 여진구는 17일 오전 서울 종로구 소격동 한 카페에서 스타뉴스와 인터뷰를 진행했다. 오는 21일 새 영화 '하이재킹'(감독 김성한) 개봉을 앞두고 자리를 마련, 진솔한 이야기를 들려줬다. 이날 여진구는 "벌써 데뷔 20]]></content>
     </entry>
 </feed>
