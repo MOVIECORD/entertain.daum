@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2024-06-17T20:10:24.856Z</updated>
+    <updated>2024-06-17T21:11:59.821Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[연기 출사표 던진 덱스, ‘배우 김진영’ 거듭날까]]></title>
+        <id>https://v.daum.net/v/20240618060648340</id>
+        <link href="https://v.daum.net/v/20240618060648340"/>
+        <updated>2024-06-17T21:11:40.119Z</updated>
+        <content type="html"><![CDATA[“욕을 얼마나 먹을지 궁금합니다.” 방송인 덱스는 배우 데뷔 소감을 이같이 밝히며 지난 14일 영화 ‘타로’로 연기 출사표를 던졌다.덱스의 배우 데뷔작 ‘타로’는 순간의 선택으로 뒤틀린 타로카드의 저주에 갇혀버리는 잔혹 운명 미스터리를 그린 작품. 배우 조여정이 주연을 맡은 ‘산타의 방문’을 비롯해 덱스의 ‘버려주세요’, 고규필의 ‘고잉홈’ 세 가지 에피]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[비무장지대 달리는 이제훈·구교환… “인간에 대한 보편적인 이야기”]]></title>
         <id>https://v.daum.net/v/20240618041319066</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240617182840195"/>
         <updated>2024-06-17T10:14:00.789Z</updated>
         <content type="html"><![CDATA[[이데일리 스타in 김보영 기자] 배우 여진구가 영화 ‘하이재킹’(감독 김성한)을 통해 롤모델 하정우와 연기 합을 맞춘 소감과 하정우를 통해 배운 배우로서의 마음가짐 등을 털어놨다. 여진구는 영화 ‘하이재킹’의 개봉을 앞두고 17일 서울 종로구의 한 카페에서 취재진과 인터뷰를 진행했다. ‘하이재킹’은 1971년 대한민국 상공, 여객기가 공중 납치되면서]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[하정우X여진구 '하이재킹' 폼 올랐다..미국→싱가포르 10개국 개봉 확정]]></title>
-        <id>https://v.daum.net/v/20240617182542112</id>
-        <link href="https://v.daum.net/v/20240617182542112"/>
-        <updated>2024-06-17T10:14:00.793Z</updated>
-        <content type="html"><![CDATA[[스포츠조선 조지영 기자] 서스펜스 액션 영화 '하이재킹'(김성한 감독, 퍼펙트스톰필름·채널플러스 주식회사 제작)이 10개국의 개봉을 확정 짓고, 전 세계 관객들을 만날 예정이다. 믿고 보는 배우들의 만남과 스펙터클한 전개로 6월 최고의 기대작으로 꼽히고 있는 '하이재킹'이 해외 다수의 나라에서 개봉을 확정하며 글로벌 흥행에 대한 이목을 집]]></content>
     </entry>
 </feed>
