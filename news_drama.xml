@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-06-17T12:22:04.509Z</updated>
+    <updated>2024-06-17T13:15:34.385Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['플레이어2' 송승헌, 류화영 체포 성공→대통령 조성하에 감시당해 '충격 엔딩']]></title>
+        <id>https://v.daum.net/v/20240617215819897</id>
+        <link href="https://v.daum.net/v/20240617215819897"/>
+        <updated>2024-06-17T13:15:18.952Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 이이진 기자) '플레이어2: 꾼들의 전쟁' 조성하가 송승헌을 만났다. 17일 방송된 tvN 월화드라마 '플레이어2: 꾼들의 전쟁'(이하 '플레이어2') 5회에서는 강하리(송승헌)가 백현미(류화영)를 곽도수(하도권)에게 체포당하게 만든 모습이 그려졌다. 이날 대통령 최상호(조성하)는 정수민(오연서)을 통해 강하리를 만났다. 강하리는 "누군가 대]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['플레이어2' 전현무·나나·김정현, 뉴 빌런으로 카메오 '강렬']]></title>
         <id>https://v.daum.net/v/20240617212007570</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240617182145032"/>
         <updated>2024-06-17T10:14:05.779Z</updated>
         <content type="html"><![CDATA[[OSEN=장우영 기자] 김명수와 박은석이 대치 상황에 놓인다. 17일 방송되는 KBS2 월화드라마 ‘함부로 대해줘’(극본 박유미, 연출 장양호) 11회에서는 신윤복(김명수)과 이준호(박은석)가 문화재 밀거래 사건을 두고 묘한 긴장감을 형성한다. 지난 방송에서 신윤복은 이준호를 수상히 여겨 그의 집에 잠입했다. 이준호가 문화재 도둑 감쪽이의 거래 장소가]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김명수vs박은석, 문화재 밀거래 사건에 대립…감쪽이는 누구?]]></title>
-        <id>https://v.daum.net/v/20240617175426268</id>
-        <link href="https://v.daum.net/v/20240617175426268"/>
-        <updated>2024-06-17T09:13:21.001Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 장예솔 기자] '함부로 대해줘' 김명수와 박은석이 대치 상황에 놓인다. 6월 17일 방송되는 KBS 2TV 월화드라마 '함부로 대해줘' 11회에서는 신윤복(김명수 분)과 이준호(박은석 분)가 문화재 밀거래 사건을 두고 묘한 긴장감을 형성한다. 지난 방송에서 신윤복은 이준호를 수상히 여겨 그의 집에 잠입했다. 이준호가 문화재 도둑 감쪽이의 거래 장]]></content>
     </entry>
 </feed>
