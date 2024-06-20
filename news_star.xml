@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2024-06-20T16:15:43.033Z</updated>
+    <updated>2024-06-20T17:10:32.037Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[20호 영호, 정숙과 최종 커플 "질타도 많았지만, 행복한 미래 가득하길"]]></title>
+        <id>https://v.daum.net/v/20240621015527421</id>
+        <link href="https://v.daum.net/v/20240621015527421"/>
+        <updated>2024-06-20T17:10:27.176Z</updated>
+        <content type="html"><![CDATA[20기 영호가 '나는 솔로' 출연 및 정숙과 최종 커플로 발전하게 된 소감을 전했다. 20일 영호는 자신의 계정을 통해 "20기 백코트 흰두부남이자 사랑을 찾으러 온 영호로 시작해서 둘이 되어 함께 '솔로나라 탈출'이라는 행복으로 끝맺었던 '나는 솔로' 20기. 이젠 솔로나라에서 밖에서 둘이 아닌 하나로 사랑을 이어가고자 한다"며 장문의 글을 올렸다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[故 최진실 아들 지플랫 파격적인 비주얼로 컴백.. 엄정화도 홍보 동참?]]></title>
         <id>https://v.daum.net/v/20240621005427126</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240621000100201"/>
         <updated>2024-06-20T15:13:25.951Z</updated>
         <content type="html"><![CDATA[아일랜드서 '타인의 삶' 체험…21일 첫방 복싱 선수 출신 경찰로 변신 [더팩트ㅣ문화영 기자] 박보검의 올 하반기는 바쁘다. 지난 5일 스크린에 걸린 영화 '원더랜드'를 시작으로 개봉 예정인 작품이 줄지어 대기 중이다. 이 가운데 JTBC 기대작 'My name is 가브리엘'과 '굿보이'로 시청자들을 만난다. 각각 예능과 드라마로 다른 장르지만 '또]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김민규 "첫 사극 도전…연기 칭찬 큰 힘이 됐죠"]]></title>
-        <id>https://v.daum.net/v/20240621000046198</id>
-        <link href="https://v.daum.net/v/20240621000046198"/>
-        <updated>2024-06-20T15:13:25.951Z</updated>
-        <content type="html"><![CDATA[세자 수호 이복동생 도성대군 役 섬세한 감정 연기 선보이며 연기 호평 받아 "차기작 쌍방 로맨스 해보고 싶어" [더팩트 | 공미나 기자] 배우 김민규가 드라마 '세자가 사라졌다'로 첫 사극 도전을 성공적으로 마쳤다. 차세대 '얼굴 천재'로 불리는 김민규는 이번 작품으로 비주얼만큼 연기력도 뛰어나다는 걸 입증했다. 그의 첫 사극 출연작인 MBN 주말 미]]></content>
     </entry>
 </feed>
