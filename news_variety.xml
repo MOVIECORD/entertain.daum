@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/variety</id>
     <title>다음 연예 ─ 뉴스 ─ 예능</title>
-    <updated>2024-06-21T16:13:59.948Z</updated>
+    <updated>2024-06-21T17:13:06.418Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이장우 “조교로 군 복무…훈련소 6주 동안 국수 생각만 났다”]]></title>
+        <id>https://v.daum.net/v/20240622012543194</id>
+        <link href="https://v.daum.net/v/20240622012543194"/>
+        <updated>2024-06-21T17:12:57.591Z</updated>
+        <content type="html"><![CDATA[배우 이장우가 군대 후임들과 함께 추억 여행을 떠났다. 21일(금) 방송된 MBC 예능 프로그램 ‘나 혼자 산다’ 551회에서는 구성환의 ‘행복 스위치 ON’, 이장우의 ‘ 전우애 휘날리며’ 편이 전파를 탔다. 이날 이장우가 밀리터리 룩을 입고 나타나 시선을 모았다. 지난 2018년 육군 병장으로 만기 전역한 그는 조교로 군 복무를 했다고 밝혔다. 이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[박수홍♥김다예, '임신 24주차' 임당검사→저당식단 시작 "좀 높게 나왔다"]]></title>
         <id>https://v.daum.net/v/20240622010148128</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240621235334610"/>
         <updated>2024-06-21T15:17:12.400Z</updated>
         <content type="html"><![CDATA[[뉴스엔 서유나 기자] 배우 구성환이 자신만의 집 청소 비법을 공개했다. 6월 21일 방송된 MBC 예능 '나 혼자 산다'(이하 '나혼산') 551회에서는 구성환이 6주 만에 돌아왔다. 이날 식사를 마친 구성환은 냄비에 물을 또 올려 무지개 회원들을 당황시켰다. 하지만 이는 먹기 위해서가 아니라 청소를 위해서였다. 장갑을 낀 구성환은 딱 봐도 이미]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“다음 여행은 해외로” 지락이들, 우당탕탕 여행 끝]]></title>
-        <id>https://v.daum.net/v/20240621235320609</id>
-        <link href="https://v.daum.net/v/20240621235320609"/>
-        <updated>2024-06-21T15:17:12.400Z</updated>
-        <content type="html"><![CDATA[[OSEN=박하영 기자] ‘지락이의 뛰뛰빵빵’ 이은지, 미미, 이영지, 안유진이 또 하나의 추억을 쌓았다. 21일 방송된 tvN 예능 ‘지락이의 뛰뛰빵빵’(이하 ‘뛰뛰빵빵’) 최종회에서는 이은지, 오마이걸 미미, 이영지, 아이브 안유진이 셀프 여행 마지막 밤을 즐기는 모습이 그려졌다. 이날 지락이들은 언니즈(은지, 미미)와 동생즈(영지, 유진)으로 나뉘]]></content>
     </entry>
 </feed>
