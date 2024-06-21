@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2024-06-21T06:17:13.000Z</updated>
+    <updated>2024-06-21T07:12:27.125Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['헝거게임' 도널드 서덜랜드, 사망...향년 88세]]></title>
+        <id>https://v.daum.net/v/20240621152601231</id>
+        <link href="https://v.daum.net/v/20240621152601231"/>
+        <updated>2024-06-21T07:12:26.515Z</updated>
+        <content type="html"><![CDATA[[TV리포트=유소연 기자] 배우 도날드 서덜랜드(Donald Sutherland)가 별세했다. 향년 88세. 20일(현지 시간) 외신 매체 '페이지식스'에 따르면, 소속사 CAA는 도날드 서덜랜드가 사망 당시 알 수 없는 오랜 병마와 싸우고 있었다고 밝혔다. 이날 그의 아들 키퍼 서덜랜드도 아버지의 사망 소식을 전했다. 그는 소셜네트워크서비스에 "무거운 마]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[모델 미유 "환공포증 있는데 몸에 두드러기 났다"...두 배로 고통 받는 중]]></title>
         <id>https://v.daum.net/v/20240621144800051</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240620175030613"/>
         <updated>2024-06-20T09:13:58.871Z</updated>
         <content type="html"><![CDATA[[TV리포트=한아름 기자] 영화 '아쿠아맨'에서 열연을 펼친 배우 제이슨 모모아(44)가 오토바이에 대한 이야기를 나누며, 연인인 배우 아드리아 아르호나(32)에 대한 애정을 드러냈다. 지난 18일(현지 시간), 외신 매체 '엔터테인먼트 투나이트'는 배우 제이슨 모모아가 연인인 배우 아드리아 아르호나와 포옹을 하기 위한 수단으로 오토바이를 타고 다닌다고 보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['얼굴없는 가수' 아도, 악수회 개최...오직 스킨십만 한다]]></title>
-        <id>https://v.daum.net/v/20240620174730488</id>
-        <link href="https://v.daum.net/v/20240620174730488"/>
-        <updated>2024-06-20T09:13:58.875Z</updated>
-        <content type="html"><![CDATA[[TV리포트=전하나 기자] 일본 인기 여성 솔로 아티스트 아도(Ado·21)가 악수회 개최를 결정해 팬들과 만날 예정이라고 밝힌 가운데, 그의 독특한 악수회 진행 방식이 대중의 이목을 끌고 있다. 20일 아도가 자신의 소셜네트워크서비스를 통해 오는 10월 첫 악수회 개최 소식을 전했다. 평소 그는 절대 모습을 드러내지 않아 '얼굴 없는 가수로' 유명하다.]]></content>
     </entry>
 </feed>
