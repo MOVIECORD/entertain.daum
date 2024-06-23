@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2024-06-23T04:13:55.445Z</updated>
+    <updated>2024-06-23T05:11:49.030Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['인사이드 아웃2'에 극장은 눈물바다···3편 나올지도]]></title>
+        <id>https://v.daum.net/v/20240623140033085</id>
+        <link href="https://v.daum.net/v/20240623140033085"/>
+        <updated>2024-06-23T05:11:32.889Z</updated>
+        <content type="html"><![CDATA[[서울경제] "어른이 된다는 건, 기쁨을 덜 느끼는 것인가 봐." 현실에 치여 유실물이 된 동심을 다시금 찾게 해주는, 동심 보관소 픽사가 돌아왔다. '인사이드 아웃'의 두 번째 이야기는 '픽사가 픽사했다'라는 말이 절로 나올 정도로 또 한 번 꿈과 동심, 그리고 사랑하는 사람들의 소중함을 일깨운다. 전편을 뛰어넘는 속편에 이어 남녀노소 불문하고 모든 관]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김혜숙 애니매이터 “‘인사이드 아웃2’ 흥행 이유? 어른도 이불킥 한대요”]]></title>
         <id>https://v.daum.net/v/20240623123159671</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240623082214028"/>
         <updated>2024-06-23T00:56:15.750Z</updated>
         <content type="html"><![CDATA['인사이드 아웃2' 포스터 /사진=월트디즈니 컴퍼니 코리아 디즈니·픽사 애니메이션 '인사이드 아웃2'의 관객 수가 350만명을 돌파했다. 23일 영화진흥위원회 영화관입장권통합전산망의 집계에 따르면 '인사이드 아웃2'는 전날 하루 66만9308명을 모으며 누적관객수 352만930명을 기록, 박스오피스 1위를 수성했다. '인사이드 아웃2'의 관객 수가 300만]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['인사이드아웃2' 누가 잡을까…외화 강세에 위축된 韓영화]]></title>
-        <id>https://v.daum.net/v/20240623081603991</id>
-        <link href="https://v.daum.net/v/20240623081603991"/>
-        <updated>2024-06-23T00:56:15.752Z</updated>
-        <content type="html"><![CDATA[[스포티비뉴스=강효진 기자] '인사이드 아웃2'를 필두로 극장가 외화 강세가 이어지고 있다. 영화 '인사이드 아웃2'가 흥행 돌풍을 이어가며 300만 관객을 넘겼다. 22일 기준 누적 관객이 352만에 이른다. 이같은 추세라면 이번 주말을 넘겨 400만 돌파도 기대할 수 있다. '인사이드 아웃2'에 이어 '퓨리오사: 매드맥스 사가'가 꾸준히 관객을]]></content>
     </entry>
 </feed>
