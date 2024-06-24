@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2024-06-24T21:11:35.659Z</updated>
+    <updated>2024-06-24T22:13:05.147Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘대치동 스캔들’ 안소희, 김수인 감독과 함께한 관객과의 대화, 훈훈한 분위기 속 성료]]></title>
+        <id>https://v.daum.net/v/20240625070516011</id>
+        <link href="https://v.daum.net/v/20240625070516011"/>
+        <updated>2024-06-24T22:12:46.077Z</updated>
+        <content type="html"><![CDATA[배우 안소희 열연으로 호평을 이끌고 있는 영화 ‘대치동 스캔들’이 김수인 감독, 배우 안소희와 함께한 개봉주 관객과의 대화를 성료했다. (감독/각본: 김수인 | 출연: 안소희, 박상남, 타쿠야, 조은유ㅣ제공: 송담스튜디오ㅣ제작: 로맨틱트라우마픽처스, 송담스튜디오ㅣ 배급: 스마일이엔티ㅣ개봉: 2024년 6월 19일) 영화 ‘대치동 스캔들’ 개봉 기념으로]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[데드풀, 제2의 인생 살다···'데드풀과 울버린' 스틸 공개]]></title>
+        <id>https://v.daum.net/v/20240625065022775</id>
+        <link href="https://v.daum.net/v/20240625065022775"/>
+        <updated>2024-06-24T22:12:46.088Z</updated>
+        <content type="html"><![CDATA[[서울경제] 영화 '데드풀'이 히어로 생활에서 은퇴한 데드풀의 새로운 인생이 담긴 스틸을 공개했다. 25일 월트디즈니 컴퍼니 코리아는 '데드풀과 울버린'(감독 숀 레비)의 새로운 스틸을 공개했다. 이번에 공개된 웨이드 윌슨(라이언 레이놀즈)의 스틸은 히어로 생활에서 은퇴한 뒤 평범한 중고차 딜러로 살아가는 그의 모습을 담았다. 새로운 가족을 만난 웨이드]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘인사이드 아웃2’가 Z세대를 사로잡은 이유]]></title>
         <id>https://v.daum.net/v/20240625061008321</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240624173013962"/>
         <updated>2024-06-24T09:14:44.568Z</updated>
         <content type="html"><![CDATA[배우 송강호가 역사와 세계사에 관심이 많다고 고백했다. 송강호는 24일 스포츠경향과 진행한 인터뷰에서 디즈니+ 시리즈 ‘삼식이 삼촌’부터 영화 ‘변호인’ ‘택시 운전사’ ‘밀정’ ‘사도’ 등 역사에 관련된 작품들을 많이 해온 이유를 묻자 “내가 사실 역사를 좋아한다. 학창시절에 공부를 못 했는데 역사와 세계사는 늘 거의 만점을 받았다”고 답해 웃음을]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[송강호 “‘삼식이 삼촌’ 내 창작욕 자극해”]]></title>
-        <id>https://v.daum.net/v/20240624173003941</id>
-        <link href="https://v.daum.net/v/20240624173003941"/>
-        <updated>2024-06-24T09:14:44.568Z</updated>
-        <content type="html"><![CDATA[OTT플랫폼 디즈니+ 시리즈 ‘삼식이 삼촌’(감독 신연식) 송강호가 작품의 남다른 의미를 짚었다. 송강호는 24일 스포츠경향과 진행한 인터뷰에서 첫 드라마 도전작인 ‘삼식이 삼촌’을 마친 소감을 묻자 “계속 이런 작업을 해야겠구나 싶었다. 이런 작품이 OTT플랫폼에서 통할까 고민되기도 했지만, 창작자 입장에선 그것이 위험할지라도 결과를 떠나야 도전해야]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[학교에 고립된 학생들의 1박 2일, 기이한 청춘 영화]]></title>
-        <id>https://v.daum.net/v/20240624170613092</id>
-        <link href="https://v.daum.net/v/20240624170613092"/>
-        <updated>2024-06-24T08:16:08.461Z</updated>
-        <content type="html"><![CDATA[[김상목 기자] 소마이 신지 감독의 1985년 영화 &lt;태풍 클럽&gt;이 거의 40년 만에 극장에 걸린다. 그것도 첫 개봉일 만큼 국내에선 소수 열혈 팬 외에는 실체를 접한 이가 드물다. 하지만 현대 일본영화의 계보를 논할 때 항상 언급되기에 궁금해하던 이들도 제법 될 테다. 이제 확인할 기회가 도래했다. 조금 일찍 영화를 만날 수 있었다. 과연 어떤 영화일까?]]></content>
     </entry>
 </feed>
