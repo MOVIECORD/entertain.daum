@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/variety</id>
     <title>다음 연예 ─ 뉴스 ─ 예능</title>
-    <updated>2024-06-24T03:13:58.079Z</updated>
+    <updated>2024-06-24T04:14:33.803Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[박명수, 자녀 성적 고민에…"부모 DNA 따라가는 것" 팩폭]]></title>
+        <id>https://v.daum.net/v/20240624125002085</id>
+        <link href="https://v.daum.net/v/20240624125002085"/>
+        <updated>2024-06-24T04:14:24.027Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 정민경 기자) 박명수가 자녀의 교육 문제로 고민하는 청취자에게 조언을 건넸다. 24일 방송된 KBS CoolFM '박명수의 라디오쇼'(이하 '라디오쇼')에서는 DJ 박명수가 등장해 청취자들과 소통했다. 한 청취자는 "주변에 보험 하는 사람도 유난히 많고, 듣다 보면 다 필요한 것 같다. 보험료가 좀 과하다"는 고민을 털어놨다. 이에 박명수는]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이상민, “이혜영도 놀랄 턱 성형…붕대 감고 부은 얼굴 공개”]]></title>
         <id>https://v.daum.net/v/20240624120901485</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240624111637340"/>
         <updated>2024-06-24T02:35:58.264Z</updated>
         <content type="html"><![CDATA[가수 이효리의 어머니가 어린 시절 이효리에게 미안한 마음을 드러냈다. 지난 23일 방송된 JTBC 예능프로그램 '엄마, 단둘이 여행 갈래?' 5회에서는 이효리 모녀가 오일장을 방문하기 전 서로를 단장해 주는 모습이 전파를 탔다. 이날 이효리는 "머리카락을 땋아달라"고 요청했다. 이효리 어머니는 "진짜 오랜만이다. 머리 땋는 거"라며 추억에 잠겼다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[감시용 CCTV 2대→경찰 맞신고한 부부…오은영 "수위 지나쳐"]]></title>
-        <id>https://v.daum.net/v/20240624111542291</id>
-        <link href="https://v.daum.net/v/20240624111542291"/>
-        <updated>2024-06-24T02:35:58.264Z</updated>
-        <content type="html"><![CDATA[서로를 감시하는 CC(폐쇄회로)TV 설치는 물론 경찰 맞신고까지 서로에게 한치의 물러섬도 없이 싸우는 부부의 사연이 공개된다. 24일 밤 10시 45분 방송되는 MBC 예능 프로그램 '오은영 리포트-결혼 지옥'에는 '맞불 부부'가 출연해 정신건강의학과 전문의 오은영 박사를 만난다. 각자 이혼 후 '돌싱'이었던 두 사람은 앱을 통해 만나 재혼하게 됐다]]></content>
     </entry>
 </feed>

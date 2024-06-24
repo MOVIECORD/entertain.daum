@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2024-06-24T03:13:58.075Z</updated>
+    <updated>2024-06-24T04:14:33.797Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["보자마자 눈물"…'하이재킹' 하정우·여진구, 여객기 납치 실존 인물 만났다]]></title>
+        <id>https://v.daum.net/v/20240624131211504</id>
+        <link href="https://v.daum.net/v/20240624131211504"/>
+        <updated>2024-06-24T04:14:14.580Z</updated>
+        <content type="html"><![CDATA[(서울=뉴스1) 정유진 기자 = 영화 '하이재킹' 측이 영화의 모티브가 된 1971년 여객기 납치 사건을 겪었던 실존 인물들과의 만남을 공개했다. '하이재킹'은 1971년 대한민국 상공, 여객기가 공중 납치되면서 벌어지는 극한의 상황을 담은 영화. 24일 배급사 소니 픽처스 엔터테인먼트코리아㈜에 따르면 '하이재킹'의 모티브가 된 1971년 당시 사건을]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이성민·이희준 '핸섬가이즈', 韓 영화 예매율 1위]]></title>
         <id>https://v.daum.net/v/20240624121122538</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240624110915946"/>
         <updated>2024-06-24T02:35:49.746Z</updated>
         <content type="html"><![CDATA[[SBS 연예뉴스 | 김지혜 기자] 배우 주종혁이 제28회 부산국제영화제 오로라미디어상, 2024 들꽃영화상 각본상 수상작 '막걸리가 알려줄거야'(감독 김다민) 배리어프리버전에 참여했다. (사)배리어프리영화위원회는 지난 4월 서울경제진흥원 미디어콘텐츠센터에서 김다민 감독, 주종혁 배우가 참여한 가운데 '막걸리가 알려줄거야' 배리어프리버전 제작을 위한 음성해]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[하정우·성동일·채수빈, 오늘 '짠한형' 출연…예측 불가 토크 예고]]></title>
-        <id>https://v.daum.net/v/20240624110052475</id>
-        <link href="https://v.daum.net/v/20240624110052475"/>
-        <updated>2024-06-24T02:35:49.747Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 윤현지 기자) 영화 '하이재킹'(감독 김성한)이 유튜브 '짠한형 신동엽'에 출연한다.&nbsp; 24일 유튜브 '짠한형 신동엽'에 여객기 부기장 태인 역의 하정우, 여객기 기장 규식 역의 성동일, 여객기의 유일한 승무원 옥순 역의 채수빈이 출연한다.&nbsp; 유쾌한 입담으로 예능 출연마다 놀라운 활약을 선보이는 하정우와 성동일의 예측 불가 토크부터 채수빈의]]></content>
     </entry>
 </feed>
