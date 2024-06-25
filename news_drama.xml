@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-06-25T22:11:11.734Z</updated>
+    <updated>2024-06-25T23:11:58.213Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[권율, 엄태구 옆 한선화에 경고 “내가 아는 중 가장 위험한 사람”]]></title>
+        <id>https://v.daum.net/v/20240626080557389</id>
+        <link href="https://v.daum.net/v/20240626080557389"/>
+        <updated>2024-06-25T23:11:45.178Z</updated>
+        <content type="html"><![CDATA[[OSEN=강서정 기자] 권율이 엄태구 옆에 선 한선화를 향해 경고를 날린다. 오늘(26일)&nbsp;방송되는&nbsp;JTBC&nbsp;수목드라마&nbsp;‘놀아주는 여자’(극본 나경,&nbsp;연출 김영환,&nbsp;김우현) 5회에서는 서지환(엄태구 분)과 고은하(한선화 분),&nbsp;그리고 장현우(권율 분)&nbsp;사이 삼자대면의 결말과 함께 두 남자의 해묵은 과거사가 밝혀진다. 앞서 서지환과 고은하는 사라진 직원]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이정재 "이렇게 바빠도 되나 싶어…美서 다 가려도 알아봐"]]></title>
+        <id>https://v.daum.net/v/20240626073004808</id>
+        <link href="https://v.daum.net/v/20240626073004808"/>
+        <updated>2024-06-25T23:11:45.178Z</updated>
+        <content type="html"><![CDATA[(사진=유튜브 채널 캡처화면)[이데일리 스타in 최희재 기자] 배우 이정재가 해외에서의 인기에 대해 전했다. 이정재는 25일 공개된 유튜브 채널 TEO 테오 ‘살롱드립2’에 출연해 ‘애콜라이트’ 출연 비하인드를 전했다. 장도연은 이정재에게 바쁜 근황에 대해 물었다. 이에 이정재는 “사실 저도 놀랍기는 하다. (일반적으로) 일이 줄어들면서 바쁜 게 덜해질]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김윤아, 으리으리 140평 집 최초 공개…"작업실만 5억"]]></title>
         <id>https://v.daum.net/v/20240626071050513</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240625203124389"/>
         <updated>2024-06-25T12:21:11.602Z</updated>
         <content type="html"><![CDATA[[OSEN=김채연 기자] 남주혁과 노윤서가 ‘동궁’으로 만날까. 25일 남주혁 소속사 매니지먼트 숲 측 관계자는 OSEN에 “남주혁이 드라마 ‘동궁’ 출연을 검토 중이다. 아직 확실히 정해진 것은 없다”고 입장을 밝혔다. 같은날 노윤서 소속사 MAA 측 관계자 역시 OSEN에 “드라마 ‘동궁’ 출연을 논의중이나 확정된 사항은 없다”고 전했다. ‘동궁’은]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한채영, "꽃뱀 살인자" 이병준 독설에 분노→차사고 내고 다친 최웅 집에 숨겼다]]></title>
-        <id>https://v.daum.net/v/20240625203030373</id>
-        <link href="https://v.daum.net/v/20240625203030373"/>
-        <updated>2024-06-25T12:21:11.604Z</updated>
-        <content type="html"><![CDATA[[TV리포트=이혜미 기자] 이병준의 독설에 분노한 한채영이 성난 상태로 차를 몰다 사고를 냈다. 사고 피해자는 한보름과 결혼을 앞둔 최웅이었다. 25일 KBS 2TV ‘스캔들’에선 사고 피해자 진호(최웅 분)를 집에 숨기는 정인(한채영 분)의 모습이 그려졌다. 이날 태창(이병준 분)은 정인이 김 의원과 술자리를 함께했음을 알고 분노, 귀가한 정인에 “너 어]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한채영, 과거부터 현재까지 다 털렸다.. 최웅 교통사고까지]]></title>
-        <id>https://v.daum.net/v/20240625202603272</id>
-        <link href="https://v.daum.net/v/20240625202603272"/>
-        <updated>2024-06-25T12:21:11.615Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 | 이예지 기자] /사진='스캔들' 화면 캡처'스캔들' 한채영의 과거가 그려진 가운데 현재에서도 교통사고 가해자가 됐다. 25일 오후 방송된 KBS 2TV 일일드라마 '스캔들'에서는 문정인(한채영 분)과 민태창(이병준 분)의 어두웠던 과거 인연이 공개됐다. 이날 방송에서 민태창은 생일인데도 혼자 시간을 보내야 한다는 사실에 분노했다. 이때]]></content>
     </entry>
 </feed>
