@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2024-06-26T16:15:40.619Z</updated>
+    <updated>2024-06-26T17:11:07.226Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['하이재킹', 신작 공세에도 韓영화 1위… 100만 돌파 눈앞]]></title>
+        <id>https://v.daum.net/v/20240627012450667</id>
+        <link href="https://v.daum.net/v/20240627012450667"/>
+        <updated>2024-06-26T17:10:50.568Z</updated>
+        <content type="html"><![CDATA[[스포츠한국 모신정 기자]&nbsp;하정우, 여진구, 성동일, 채수빈 주연의 영화 '하이재킹'이 신작들의 공세에도 한국 영화 박스오피스 1위를 차지하며 강한 흥행세를 유지하고 있다.&nbsp; 27일 0시 30분 영화진흥위원회 영화관 입장권 통합전산망에 따르면 영화 '하이재킹'은 지난 26일 전국 7만8735명의 관객이 관람해 한국 영화 박스오피스 1위를 차지했다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[1천원 단편영화 '밤낚시' 3주차 추가 상영 확정]]></title>
         <id>https://v.daum.net/v/20240627001259309</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240626200203729"/>
         <updated>2024-06-26T11:10:41.242Z</updated>
         <content type="html"><![CDATA[[스포츠투데이 서지현 기자] 배우 유태오가 미국 영화예술과학아카데미(AMPAS) 신입 회원으로 초청됐다. 25일(현지시간) 신입 회원 초청자 명단을 발표한 AMPAS는 영화계 최고 권위를 자랑하는 모임으로, 초청을 수락하면 앞으로 정식 회원으로서 아카데미상 투표권을 행사할 수 있게 된다. 유태오는 영화 '패스트 라이브즈'를 통해 한국 배우 최초 제77회]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[케이트 블란쳇 만난 정호연...'누군가는 알고 있다' 10월 공개 확정]]></title>
-        <id>https://v.daum.net/v/20240626200005666</id>
-        <link href="https://v.daum.net/v/20240626200005666"/>
-        <updated>2024-06-26T11:10:41.243Z</updated>
-        <content type="html"><![CDATA[(MHN스포츠 장민수 기자) 알폰소 쿠아론 감독과 배우 케이트 블란쳇, 정호연 등이 뭉친 Apple TV+ 시리즈 '누군가는 알고 있다'(Disclaimer)가 10월 시청자와 만난다. '누군가는 알고 있다'는 다른 사람의 악행을 폭로하며 명성을 쌓아 올린 저널리스트 캐서린(케이트 블란쳇)이 무명 작가로부터 한 소설을 받게 되면서 벌어지는 이야기를]]></content>
     </entry>
 </feed>
