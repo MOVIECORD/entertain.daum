@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2024-06-27T21:11:26.253Z</updated>
+    <updated>2024-06-27T22:11:57.231Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[BTS 지민, 오늘 로꼬와 함께한 'Smeraldo Garden Marching Band' 공개]]></title>
+        <id>https://v.daum.net/v/20240628070903459</id>
+        <link href="https://v.daum.net/v/20240628070903459"/>
+        <updated>2024-06-27T22:11:38.141Z</updated>
+        <content type="html"><![CDATA[[스포츠투데이 서지현 기자] 방탄소년단(BTS) 지민이 유쾌한 세레나데를 노래한다. 지민은 28일 오후 1시(이하 한국시간) 전 세계 음악 사이트를 통해 솔로 2집 'MUSE'에 수록된 'Smeraldo Garden Marching Band (feat. 로꼬)'를 선공개한다. 신곡 'Smeraldo Garden Marching Band (feat. 로꼬)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이희준 “‘핸섬가이즈’, 이런 작품 주시면 너무 신나거든요”]]></title>
         <id>https://v.daum.net/v/20240628060516791</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240627161023755"/>
         <updated>2024-06-27T07:11:26.723Z</updated>
         <content type="html"><![CDATA[[OSEN=연휘선 기자] "진구 또 눈 돈다!". 영화 ‘하이재킹’의 배우 성동일이&nbsp;‘컬투쇼’에서 악역 변신에 성공한 여진구에 대해 극찬하며 작품에 대해 자부심을 드러냈다. 27일 오후 방송된 SBS 라디오 파워FM ‘두시 탈출 컬투쇼(약칭 컬투쇼)’에서는 성동일, 여진구가 게스트로 출연했다. 이들은 DJ 김태균, 황치열과 래퍼 한해와 함께 ‘컬투쇼’]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘파산 논란’…대종상, 진통 언제쯤 끝날까]]></title>
-        <id>https://v.daum.net/v/20240627161006735</id>
-        <link href="https://v.daum.net/v/20240627161006735"/>
-        <updated>2024-06-27T07:11:26.732Z</updated>
-        <content type="html"><![CDATA[대종상영화제 권위가 흔들린지 오래다. 공정성 논란, 집행부의 파행 및 이권 다툼, 운영 미숙 등 계속 논란을 이어가고 있는 가운데 지난해 파산신청 사실까지 알려지면서 이름값에 금이 갔다. 유구한 역사를 자랑하는 대종상영화제의 진통은 대체 언제쯤 끝날까. 27일 오후 서울 종로구에서 사단법인 한국영화인총연합회(이하 영총) 주최로 개최된 제60회 대종상영]]></content>
     </entry>
 </feed>
