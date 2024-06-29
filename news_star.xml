@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2024-06-29T18:14:29.812Z</updated>
+    <updated>2024-06-29T19:09:27.106Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[보이넥스트도어가 가창한 ‘낮과 밤이 다른 그녀’ OST, 음원 공개]]></title>
+        <id>https://v.daum.net/v/20240630035356323</id>
+        <link href="https://v.daum.net/v/20240630035356323"/>
+        <updated>2024-06-29T19:09:22.041Z</updated>
+        <content type="html"><![CDATA[아이돌그룹 보이넥스트도어(BOYNEXTDOOR)가 드라마 OST를 통해 무한 긍정 에너지를 전파한다. 보이넥스트도어(성호, 리우, 명재현, 태산, 이한, 운학)가 가창한 JTBC 토일드라마 ‘낮과 밤이 다른 그녀’ 세 번째 OST ‘Lucky Charm’이 29일 발표했다. 댄스팝 장르 ‘Lucky Charm’은 주인공 미진(정은지)의 테마곡이다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘이슈 PICK 쌤과 함께’ 홍석천, ‘절규’의 화가 뭉크와 공통점?···이미경 박사 “어두운 자아 표현 일치”]]></title>
+        <id>https://v.daum.net/v/20240630033141290</id>
+        <link href="https://v.daum.net/v/20240630033141290"/>
+        <updated>2024-06-29T19:09:22.043Z</updated>
+        <content type="html"><![CDATA[30일 오후 7시 10분 KBS1 ‘이슈 PICK 쌤과 함께’ 190회는 ‘찬란한 절규–뭉크가 전하는 인생 사용 설명서’가 방송된다. 세기의 전환기, 현대 미술에 가장 큰 영향을 미친 화가 중 하나로 꼽히는 에드바르 뭉크. 올해는 뭉크가 사망한 지 80주기이다. 우울증과 공황장애 등 오늘날 현대인들이 겪고 있는 정신 질환에 평생을 시달리며 힘들게 살았]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘재벌 3세’ 서준영, 암살자 등장에 이승연에게 직진]]></title>
         <id>https://v.daum.net/v/20240630023143270</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240630000921040"/>
         <updated>2024-06-29T15:12:03.709Z</updated>
         <content type="html"><![CDATA[[스포츠서울 | 박효실 기자] 최진혁이 “안경 벗으니까 잘 생겼다”라는 정은지의 술주정에 미소지었다. 29일 방송된 토일극 JTBC ‘낮과 밤이 다른 그녀’에서 검사 계지웅(최진혁 분)은 잠입수사 중 연락이 끊어진 임순(이정은 분)을 구하려 클럽을 뒤집어놨다. 밤이 되며 이미진(정은지 분)으로 변한 임순은 마약패치를 담는 장면을 몰래 촬영하다 들켜 도]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['전참시' 김동현 "이관희, 입만 열면 거짓말, 달리기 이긴다고 하더니 중도 포기"]]></title>
-        <id>https://v.daum.net/v/20240630000403025</id>
-        <link href="https://v.daum.net/v/20240630000403025"/>
-        <updated>2024-06-29T15:12:03.709Z</updated>
-        <content type="html"><![CDATA[[스포츠투데이 백지연 기자] '전참시' 이관희가 추성훈에게 한소리 들었다. 29일 밤 방송된 MBC 예능프로그램 '전참시'에서 체육관을 찾은 이관희의 모습이 그려졌다. 이날 방송에서 이관희는 추성훈, 김동현, 아모띠가 있는 체육관을 찾았다. 이관희는 "일주일 배우고 복싱을 했다. 근데 거기 계신 분들 제가 다 이겨버렸다"라고 자신감을 보였다. 어설픈]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[독사과, 찐 리얼 상황에 ‘애플녀’ 하차!]]></title>
-        <id>https://v.daum.net/v/20240630000117995</id>
-        <link href="https://v.daum.net/v/20240630000117995"/>
-        <updated>2024-06-29T15:12:03.709Z</updated>
-        <content type="html"><![CDATA[‘리얼 연애실험실 독사과’는 연인의 진심을 확인하기 위한 다양한 실험 카메라를 선보이며 5주 연속 큰 화제를 모았다. 지난 25일 방송된 SBS Plus ‘리얼 연애실험실 독사과’ 5회에서는 '애플녀'를 하차하게 만든 '연애 3년 차' 철벽남의 ‘독사과 챌린지’ 현장이 공개되며 예상치 못한 재미와 긴장감을 안겼다. ‘독사과 실험실: 당신이라면?’ 코너에]]></content>
     </entry>
 </feed>
