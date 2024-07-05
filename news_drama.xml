@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-07-05T12:21:12.155Z</updated>
+    <updated>2024-07-05T13:14:04.425Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘나는 돈가스가 싫어요’ 정상훈-김영옥 ‘갈등’ “제대로 묶어요!”]]></title>
+        <id>https://v.daum.net/v/20240705221325036</id>
+        <link href="https://v.daum.net/v/20240705221325036"/>
+        <updated>2024-07-05T13:13:51.986Z</updated>
+        <content type="html"><![CDATA[정상훈과 김영옥 모자가 백구 때문에 갈등을 겪었다. 7월 5일 방송된 MBC 2부작 단편드라마 ‘나는 돈가스가 싫어요’에서 자왕(정상훈)은 춘심(김영옥)에게 민원을 전달했다. 자왕은 아침부터 방송으로 “백구 보신 분!”이라며 경고했다. “백구가 돌아다니니 조심해라”라는 경고 방송에 마을 사람들은 긴장했다. 백구는 온 동네를 돌아다니며 새끼를 배게 한]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[10월 결혼 김승혜 "♥김해준, 다정다감·잘생겨…롤모델 김원효·심진화"]]></title>
         <id>https://v.daum.net/v/20240705204857766</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240705173141031"/>
         <updated>2024-07-05T09:14:16.248Z</updated>
         <content type="html"><![CDATA[‘나 혼자 산다’[이데일리 스타in 김가영 기자] MBC ‘나 혼자 산다’에서 전현무와 박나래가 서로에 대한 오해를 8년 만에 꺼내고 진실을 확인한다. 5일 방송되는 MBC ‘나 혼자 산다’(연출 허항 강지희 박수빈 이경은)에서는 ‘촌(바)캉스’ 도중 그동안 가슴에 담아뒀던 속마음을 털어놓는 전현무와 박나래의 모습이 공개된다. 전현무와 박나래는 숙소 평상]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[조권 "데뷔 3년만 첫 정산, 21만 원 받아…눈물 났다"]]></title>
-        <id>https://v.daum.net/v/20240705172043706</id>
-        <link href="https://v.daum.net/v/20240705172043706"/>
-        <updated>2024-07-05T09:14:16.251Z</updated>
-        <content type="html"><![CDATA[[이데일리 채나연 기자] 데뷔 16년 차 가수 조권이 그룹 2AM 활동 당시 3년 만에 받은 첫 정산 금액을 공개했다. (사진=유튜브 채널 ‘스튜디오 매일매일’ 캡처)지난 4일 유튜브 채널 ‘스튜디오 매일매일’에는 ‘데뷔 17년 차 CEO급 버는 연예인 아파트의 가격은? 삼성동 힐스테이트 편’이라는 제목의 영상이 올라왔다. 이 영상에서 그룹 비투비 서은광]]></content>
     </entry>
 </feed>
