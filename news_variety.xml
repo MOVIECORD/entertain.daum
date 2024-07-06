@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/variety</id>
     <title>다음 연예 ─ 뉴스 ─ 예능</title>
-    <updated>2024-07-06T17:10:04.604Z</updated>
+    <updated>2024-07-06T18:14:40.632Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘전지적 참견 시점’ 엔하이픈 성훈, ‘얼죽코’ “이 정도면 꾸밈 광공!”]]></title>
+        <id>https://v.daum.net/v/20240707030747666</id>
+        <link href="https://v.daum.net/v/20240707030747666"/>
+        <updated>2024-07-06T18:14:30.768Z</updated>
+        <content type="html"><![CDATA[엔하이픈 선우가 성훈의 꾸ALA 수준을 증언(!)했다. 7월 6일 방송된 ‘전지적 참견 시점’ 에서는 참견인으로 엔하이픈 선우와 성훈, 강철원 주키퍼와 오승희 주키퍼가 등장했다. 이날 엔하이픈은 숙소를 공개해 관심을 모았다. 멤버 각각 드러나는 개성에 송은이는 “조금씩 자기 성향이 나온다”라며 감탄했다. 선우의 방은 영양제로 가득해 누가 봐보 ‘선우]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[오승희 주키퍼, 루이바오&후이바오 위한 ‘당근꽃’ 조공 ‘전참시’]]></title>
         <id>https://v.daum.net/v/20240707015945560</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240706235432232"/>
         <updated>2024-07-06T15:12:20.041Z</updated>
         <content type="html"><![CDATA[(엑스포츠뉴스 박서영 기자) 장나라와 입짧은햇님이 눈물을 보여 궁금증을 자아냈다.&nbsp; 6일 방송된 tvN '놀라운 토요일'(이하 '놀토')에서는 장나라, 남지현, 김준한이 유쾌한 케미스트리를 선사했다. 이날 스케줄 때문에 녹화가 어렵다는 피오가 깜짝 등장해 놀토 가족의 환영을 한몸에 받았다. 이어 SBS 드라마 '굿파트너'의 주역 장나라, 남지현, 김준한이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김해준, ♥김승혜는 어쩌고…'열애설' 박세리와 포옹 '깜짝']]></title>
-        <id>https://v.daum.net/v/20240706235353228</id>
-        <link href="https://v.daum.net/v/20240706235353228"/>
-        <updated>2024-07-06T15:12:20.042Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 박서영 기자) 박세리와 김해준이 포옹해 브라이언을 당황케 했다.&nbsp; 6일 방송된 KBS 2TV 새 예능 '팝업상륙작전'에서는 박세리, 브라이언, 김해준이 팝업 상륙 작전을 위해 '음식의 천조국' 미국 LA로 떠났다. 이날 붐은 "어떤 요리가 더 많은 사랑을 받을지 기대해주길 바란다"며 오프닝을 열었다. 미국팀과 일본팀은 시작부터 견제에 나섰다.]]></content>
     </entry>
 </feed>
