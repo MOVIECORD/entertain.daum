@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-07-07T21:12:29.446Z</updated>
+    <updated>2024-07-07T22:11:57.351Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["실수 아니에요"…'낮과 밤이 다른 그녀' 정은지, ♥최진혁에 취중 키스]]></title>
+        <id>https://v.daum.net/v/20240708062003442</id>
+        <link href="https://v.daum.net/v/20240708062003442"/>
+        <updated>2024-07-07T22:11:44.272Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 이이진 기자) '낮과 밤이 다른 그녀' 정은지가 최진혁에게 입을 맞췄다. 7일 방송된 JTBC 토일드라마 '낮과 밤이 다른 그녀'(이하 '낮밤녀') 8회에서는 이미진(정은지 분)이 계지웅(최진혁)에게 키스한 모습이 그려졌다. 이날 이미진은 임순의 몸으로 일을 하던 중 서한시 실종자 명단에 임순의 이름이 있는 것을 보고 자신의 정체가 탄로 날까]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['미녀와 순정남' 이일화X지현우, 김혜선에 母子 관계 들통]]></title>
         <id>https://v.daum.net/v/20240708061002373</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240707231019822"/>
         <updated>2024-07-07T15:12:00.321Z</updated>
         <content type="html"><![CDATA[[OSEN=최지연 기자] ‘낮과 밤이 다른 그녀’ 최진혁과 백서후가 정은지를 사이에 두고 신경전을 벌였다.&nbsp; 7일 방송된 JTBC 드라마 ‘낮과 밤이 다른 그녀’(이하 '낮과밤이')에는 이미진(정은지 분)을 둘러싼 계지웅(최진혁 분)과 고원(백서후 분)의 신경전이 그려져 눈길을 끌었다.&nbsp; 이날&nbsp;고원은 쓰러진 이미진을 차에 태웠고, 이를 우연히 본 계지웅]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“모가지 잘라버릴 것…” 신하균, 진구와 美친 대립→JU건설 비리 밝혔다]]></title>
-        <id>https://v.daum.net/v/20240707230645790</id>
-        <link href="https://v.daum.net/v/20240707230645790"/>
-        <updated>2024-07-07T14:09:59.465Z</updated>
-        <content type="html"><![CDATA[[OSEN=박근희 기자] '감사합니다’ 신하균과 진구가 대립각을 세우는 가운데, 신하균이 타워크레인의 비리를 밝혔다. 7일 오후 방송된 tvN 토일드라마 ‘감사합니다’에서는 감사 팀장 신차일(신하균 분)에게 악감정을 숨기지 않는 황대웅(진구 분)의 모습이 그려졌다. 타워크레인의 증거품인 노트북을 소지하게된 구한수(이정하 분)는 감사실로 올라가는 엘리베이]]></content>
     </entry>
 </feed>
