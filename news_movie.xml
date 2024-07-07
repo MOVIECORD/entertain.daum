@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2024-07-07T06:16:36.311Z</updated>
+    <updated>2024-07-07T07:12:04.148Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['핸섬가이즈' 이틀 연속 좌판율 1위, 입소문 탔다]]></title>
+        <id>https://v.daum.net/v/20240707155511263</id>
+        <link href="https://v.daum.net/v/20240707155511263"/>
+        <updated>2024-07-07T07:11:45.829Z</updated>
+        <content type="html"><![CDATA[[티브이데일리 김종은 기자] 영화 '핸섬가이즈'가 개봉 2주 차에 흥행세가 늘어나는 이례적인 행보로 주목받고 있다. 영화관입장권 통합전산망에 따르면 '핸섬가이즈'(감독 남동협·제작 하이브미디어코프)는 지난 5일 금요일에 이어 6일 토요일에도 이틀 연속 한국 영화 좌석 판매율 1위를 기록했다. '핸섬가이즈'를 찾은 관객수는 금요일과 토요일 합산 19만705]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘탈주’ 이제훈, 오늘 ‘뉴스룸’ 뜬다]]></title>
+        <id>https://v.daum.net/v/20240707154502150</id>
+        <link href="https://v.daum.net/v/20240707154502150"/>
+        <updated>2024-07-07T07:11:45.831Z</updated>
+        <content type="html"><![CDATA[배우 이제훈이 오늘(7일) ‘뉴스룸’에 뜬다. 이제훈은 7일 오후 6시 40분 방송되는 JTBC ‘뉴스룸’ 인터뷰에 출연한다. 영화 ‘탈주’에서 북한 병사 규남 역으로 출연한 이제훈은 몸을 아끼지 않는 열연을 펼쳤다. 이제훈은 ‘뉴스룸’에서 이 작품을 선택하게 된 계기, 규남 캐릭터를 완성하기 위해 고민하고 노력했던 시간, 현상을 연기한 구교환과 연기 호흡]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“‘탈주’에 ‘양화대교’ 삽입, 이유는요”]]></title>
         <id>https://v.daum.net/v/20240707150006386</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240707105158492"/>
         <updated>2024-07-07T02:07:07.263Z</updated>
         <content type="html"><![CDATA[[뉴스엔 장예솔 기자] 내한 행사를 성황리에 마무리하며 대한민국을 뜨겁게 달군 영화 '데드풀과 울버린'(감독 숀 레비)의 주역 라이언 레이놀즈와 휴 잭맨이 '인기가요'에 출격한다. '데드풀과 울버린'에서 '데드풀' 역을 맡은 라이언 레이놀즈와 '울버린' 역의 휴 잭맨이 국내 대표 음악 프로그램인 SBS '인기가요' 출연을 알리며 화제를 모으고 있다. 두]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["네 보러 갈게요" 라이언 레이놀즈X휴 잭맨, 역대급 내한 '열일']]></title>
-        <id>https://v.daum.net/v/20240707104006302</id>
-        <link href="https://v.daum.net/v/20240707104006302"/>
-        <updated>2024-07-07T02:07:07.264Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 조혜진 기자) 지금까지 이런 내한스타는 없었다. 영화 '데드풀과 울버린'(감독 숀 레비)의 라이언 레이놀즈와 휴 잭맨이 공격적인 내한 홍보 일정으로 시선을 끌고 있다.&nbsp; '데드풀과 울버린' 측은 7일 데드풀 역을 맡은 라이언 레이놀즈와 울버린 역의 휴 잭맨의 SBS 음악프로그램 '인기가요'에 출연 소식을 전했다.&nbsp; 이날 두 사람은 '인기가요']]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[닷새 만에 완성된 영화?…"AI 영화도 하나의 장르"]]></title>
-        <id>https://v.daum.net/v/20240707103247169</id>
-        <link href="https://v.daum.net/v/20240707103247169"/>
-        <updated>2024-07-07T02:07:07.265Z</updated>
-        <content type="html"><![CDATA[[앵커] 카메라나 배우 없이도 만들 수 있는 영화가 있습니다. 바로 AI 영화인데요. 이 AI 영화를 주목하는 곳이 늘고 있다고 합니다. 최근 국제 AI 영화제에서 대상을 받은 권한슬 감독을 신새롬 기자가 만났습니다. [기자] 호박 농사를 짓는 노부부를 찾아간 저승사자들. &lt;영화 '원 모어 펌킨' 중&gt; "이제 너희는 저승으로 갈 때가 되었다." 하지]]></content>
     </entry>
 </feed>
