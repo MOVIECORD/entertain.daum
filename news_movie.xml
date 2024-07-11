@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2024-07-11T03:15:50.144Z</updated>
+    <updated>2024-07-11T04:16:06.373Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[홍상수·김민희, 같이 스위스 가나…'수유천' 로카르노 영화제 초청]]></title>
+        <id>https://v.daum.net/v/20240711124903145</id>
+        <link href="https://v.daum.net/v/20240711124903145"/>
+        <updated>2024-07-11T04:15:49.388Z</updated>
+        <content type="html"><![CDATA[[스포츠투데이 윤혜영 기자] 홍상수 감독 신작 '수유천'이 로카르노 영화제에 공식 초청됐다. 11일 해외 배급사인 화인컷은 "홍상수 감독의 32번째 신작 '수유천'이 제77회 로카르노 국제경쟁 부문에 공식 초청됐다"고 밝혔다. '수유천'(2024, 국제경쟁)은 '우리 선희'(2013, 국제경쟁/ 감독상 수상), '지금은맞고그때는틀리다'(2015, 국제경쟁/]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[유리, 영화 '핸섬가이즈' 주말 무대인사 스페셜 MC 합류]]></title>
+        <id>https://v.daum.net/v/20240711123833962</id>
+        <link href="https://v.daum.net/v/20240711123833962"/>
+        <updated>2024-07-11T04:15:49.388Z</updated>
+        <content type="html"><![CDATA[권유리 / SM 엔터테인먼트 /사진=뉴스1 [파이낸셜뉴스] 입소문이 뜨거운 영화 '핸섬가이즈'가 개봉 3주 차인 7월 12~15일 무대인사를 진행한다. 투자배급사 NEW에 따르면 '핸섬가이즈'의 배우들이 개봉 3주차 주말에 서울과 경기 지역 관객들을 직접 만나러 간다. 먼저 7월 12일 무대인사는 이성민, 이희준, 공승연, 박지환, 장]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['1923 간토대학살', 8·15 극장 개봉…"광복 79주년 상흔 여전해"]]></title>
         <id>https://v.daum.net/v/20240711121254487</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240711105044697"/>
         <updated>2024-07-11T02:01:24.542Z</updated>
         <content type="html"><![CDATA[(서울=뉴스1) 정유진 기자 = 배우 김향기가 영화 '한란'의 주인공으로 캐스팅됐다. 영화 '빛나는 순간' '그녀의 취미생활' 등을 제작한 영화사 웬에버스튜디오는 11일 "'한란'의 주연배우로 김향기 배우를 캐스팅하며 본격 영화 제작에 돌입한다"고 밝혔다. '한란'은 제주를 배경으로 한 시대극으로 한 모녀의 고군분투 생존기에 관한 이야기다. 주연 배우로]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['탈출', '탈주' 잡나…예매율 1위로 흥행 청신호]]></title>
-        <id>https://v.daum.net/v/20240711104807558</id>
-        <link href="https://v.daum.net/v/20240711104807558"/>
-        <updated>2024-07-11T02:01:24.543Z</updated>
-        <content type="html"><![CDATA[[SBS 연예뉴스 | 김지혜 기자] 영화 '탈출:프로젝트 사일런스'(이하 '탈출')가 개봉을 하루 앞두고 예매율 1위를 달리고 있다. 11일 영화진흥위원회 영화관입장권 통합전산망 집계에 따르면 '탈출'은 16.2%의 예매율로 예매 순위 1위에 올랐다. '탈출'은 짙은 안개 속 연쇄 추돌 사고가 일어나고, 붕괴 위기의 공항대교에 풀려난 통제불능의 군사용 실험]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김민희 출연ㆍ홍상수 연출 '수유천', 로카르노영화제 경쟁부문 초청]]></title>
-        <id>https://v.daum.net/v/20240711104606450</id>
-        <link href="https://v.daum.net/v/20240711104606450"/>
-        <updated>2024-07-11T02:01:24.544Z</updated>
-        <content type="html"><![CDATA[[티브이데일리 김종은 기자] 홍상수 감독의 신작 '수유천'이 로카르노영화제로 향한다. 11일 제작사 전원사에 따르면 홍상수 감독의 32번째 영화 '수유천'은 제77회 로카르노영화제 국제 경쟁 부문에 공식 초청됐다. 이번 초청으로 '수유천'은 '우리 선희'(2013), '지금은맞고그때는틀리다'(2015), '강변호텔'(2018)에 이어 네 번째로 로카르노영]]></content>
     </entry>
 </feed>

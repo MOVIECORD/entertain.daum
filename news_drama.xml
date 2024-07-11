@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-07-11T03:15:50.214Z</updated>
+    <updated>2024-07-11T04:16:06.376Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘화인가스캔들’ 김하늘 기자회견 열었다‥남편 혼외자→친아들 둔갑 계획에 분노]]></title>
+        <id>https://v.daum.net/v/20240711122427752</id>
+        <link href="https://v.daum.net/v/20240711122427752"/>
+        <updated>2024-07-11T04:15:53.581Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 박수인 기자] 배우 김하늘이 '화인가 스캔들'에서 묵직한 열연을 펼치고 있다. 김하늘은 디즈니+의 오리지널 시리즈 ‘화인가 스캔들’에서 대한민국 상위 1% 화인가의 며느리이자 나우재단 이사장 ‘오완수’ 역을 맡아, 자신을 둘러싼 갈등과 날 선 대립을 치열하게 담아내며 극적인 전개를 이끌고 있다. 7월 10일 공개된 3, 4회에서 김하늘(오완수 역]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['마법의 성' 도경완 "성교육? 시대가 달라져…확실한 솔루션 자신"]]></title>
         <id>https://v.daum.net/v/20240711115013613</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240711100319233"/>
         <updated>2024-07-11T02:01:30.023Z</updated>
         <content type="html"><![CDATA[[이데일리 스타in 김가영 기자] 축구선수 황희찬이 닮은꼴 배우 여진구를 만났다. 지난 10일 방송된 tvN ‘유 퀴즈 온 더 블럭’에서는 황희찬이 출연해 이야기를 나눴다. 이날 MC 유재석은 “여진구라는 별명이 있지 않나”라며 “두 분이 아직 만난 적이 없다더라”고 물었다. 황희찬은 “아직 (여진구를)뵌 적이 없다. 저는 팬이라서 당연히 뵙고 싶은 마음]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['완벽한 가족' 김영대, '영앤리치' 부잣집 외동아들 된다]]></title>
-        <id>https://v.daum.net/v/20240711095723854</id>
-        <link href="https://v.daum.net/v/20240711095723854"/>
-        <updated>2024-07-11T02:01:30.024Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 조혜진 기자) '완벽한 가족' 김영대가 외모와 성격, 집안까지 갖춘 캐릭터로 변신한다. KBS 2TV 새 드라마 '완벽한 가족'(연출 유키사다 이사오)은 누가 봐도 행복하고 완벽해 보이는 가족이 딸의 살인으로 인해 점점 서로를 의심하게 되는 미스터리 스릴러 드라마다. 김영대는 극 중 잘생긴 외모와 시원시원한 말투, 서글서글한 성격까지 갖춘 부]]></content>
     </entry>
 </feed>
