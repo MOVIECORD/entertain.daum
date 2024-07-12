@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2024-07-12T16:15:23.450Z</updated>
+    <updated>2024-07-12T17:12:38.172Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[공부해도 성적 안오르는 고교생 진단]]></title>
+        <id>https://v.daum.net/v/20240713014157983</id>
+        <link href="https://v.daum.net/v/20240713014157983"/>
+        <updated>2024-07-12T17:12:33.644Z</updated>
+        <content type="html"><![CDATA[야구를 그만두고 공부를 시작한 고등학생이 출연한다. 겨울방학 동안 공부에만 500시간을 투입했지만, 성적은 요지부동이다. 입시 멘토인 유튜버 미미미누는 “공부하는 척만 하는 전형적인 허수”라고 진단한다. 급기야 중단 위기를 맞은 솔루션. 과연 도전 학생은 난관을 헤쳐 나갈 수 있을까.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘특파원보고 세계는 지금’ 중국, 기후 재난으로 패닉···인도 ‘의대 입시’ 부정 스캔들]]></title>
+        <id>https://v.daum.net/v/20240713013257929</id>
+        <link href="https://v.daum.net/v/20240713013257929"/>
+        <updated>2024-07-12T17:12:33.649Z</updated>
+        <content type="html"><![CDATA[13일 오후 9시 40분 KBS1‘특파원보고 세계는 지금’ 364회는 재앙적 수해로 중국 남부에 피해 확산이 이어지는 상황과 인도가 입시부정 파문으로 의대 입시 존폐가 기로에 놓인 이슈를 전한다. 전국 각지에서 동시다발적으로 발생하는 기후재난으로 인해 중국은 그야말로 ‘패닉’ 상태다. 특히 중국 남부지역은 지난달 중순부터 한 달 새 이어지는 집중호우로]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[설민석 “너무 떨리고 공포스러웠다”]]></title>
         <id>https://v.daum.net/v/20240713011501859</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240713000814386"/>
         <updated>2024-07-12T15:12:27.492Z</updated>
         <content type="html"><![CDATA[[스포츠투데이 백지연 기자] '강연자들' 한국사 상가 설민석이 약 3년 만에 방송 복귀했다. 12일 첫 방송된 MBC 예능 '심장을 울려라 강연자들'(이하 '강연자들')에서는 한국사 강사 설민석이 '한계'를 주제로 강의하기 위해 3년 만에 무대에 섰다. 이날 표절 논란 이후 3년 만에 무대에 오른 설민석. 긴장한 모습이 역력했다. 이후 사람들의 환호 속]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김대호 "동생, 아파트 청약 당첨…반지하서 4년 반 살아"]]></title>
-        <id>https://v.daum.net/v/20240713000755383</id>
-        <link href="https://v.daum.net/v/20240713000755383"/>
-        <updated>2024-07-12T15:12:27.494Z</updated>
-        <content type="html"><![CDATA[(서울=뉴스1) 박하나 기자 = 아나운서 김대호가 '나 혼자 산다'에서 동생의 아파트 청약 당첨 소식을 전했다. 12일 방송된 MBC 예능 프로그램 '나 혼자 산다'에서는 친동생의 이사를 돕는 김대호의 모습이 담겼다. 이날 김대호가 "정말 감격스럽게도 드디어 동생이 청약이 됐다, 이사 간다고 해서 도와주러 왔다"라고 밝혀 모두를 놀라게 했다. 동생의 아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["있어 보이려고"…주우재, 데뷔 전 운영 쇼핑몰 이름 뭐길래]]></title>
-        <id>https://v.daum.net/v/20240713000306336</id>
-        <link href="https://v.daum.net/v/20240713000306336"/>
-        <updated>2024-07-12T15:12:27.496Z</updated>
-        <content type="html"><![CDATA[[서울=뉴시스]정혜원 인턴 기자 = 모델 출신 주우재가 아르바이트 흑역사를 오픈 당한다. 13일 오후 6시 30분 방송되는 MBC TV 예능물 '놀면 뭐하니?'는 '24시간 릴레이 노동'으로 꾸며진다. 멤버들은 각자 과거 경험했던 다양한 아르바이트 이야기를 푼다. 그 중에서도 주우재는 유독 부끄러워하는 모습을 보여 과거를 궁금하게 한다. 데뷔 전 온라인]]></content>
     </entry>
 </feed>
