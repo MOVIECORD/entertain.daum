@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-07-12T09:14:07.369Z</updated>
+    <updated>2024-07-12T10:13:24.912Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[아이돌댄스 이정은→소심모솔 엄태구 "캐스팅 누가했어?"]]></title>
+        <id>https://v.daum.net/v/20240712185003216</id>
+        <link href="https://v.daum.net/v/20240712185003216"/>
+        <updated>2024-07-12T10:13:08.457Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 윤현지 기자) 배우 이정은, 엄태구의 파격 변신이 흥행을 이끌고 있다.&nbsp; JTBC 토일드라마 '낮과 밤이 다른 그녀'(이하 '낮밤녀')가 갈수록 시청자들의 호평을 받고 있다. 무엇보다 이정은과 정은지의 2인 1역 캐스팅이 남다른 케미스트리를 자랑하고 있는 것.&nbsp; 특히 극중에사 50대 시니어 인턴을 임순 역을 연기하는 이정은은 엑셀 함수 정복은]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[장나라, 지성 업고 경쟁자 없다..'굿파트너' 무혈입성=변명 여지 無]]></title>
         <id>https://v.daum.net/v/20240712180919531</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240712151610622"/>
         <updated>2024-07-12T06:16:35.938Z</updated>
         <content type="html"><![CDATA[‘서진이네2’[이데일리 스타in 김가영 기자] ‘서진이네2’가 긴장을 놓을 수 없는 다이내믹한 에피소드를 예고하고 있다. 12일 방송될 tvN ‘서진이네2(연출 나영석, 박현용)’ 3회에서는 주방 경력 8년을 자랑하는 정유미가 헤드 셰프를 맡은 서진뚝배기의 두 번째 영업 이야기가 펼쳐진다. 앞서 영업 첫날 헤드 셰프였던 최우식은 시리즈 사상 첫날 기준 최]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘전직 변우석 父’ 김원해→‘전직 김지원 고모’ 김정난, 조합 난리]]></title>
-        <id>https://v.daum.net/v/20240712151025403</id>
-        <link href="https://v.daum.net/v/20240712151025403"/>
-        <updated>2024-07-12T06:16:35.939Z</updated>
-        <content type="html"><![CDATA[[동아닷컴] tvN 새 월화드라마 ‘우연일까?’ 스틸 컷. 사진｜tvN tvN 새 월화드라마 ‘우연일까?’ 스틸 컷. 사진｜tvN 대체 불가 유쾌한 캐릭터 열전을 예고한다. 22일 첫 방송 예정인 tvN 새 월화드라마 ‘우연일까?’(연출 송현욱 정광식, 극본 박그로) 제작진은 12일 첫사랑 기억 소환 로맨스에 재미와 설렘, 짜릿한 텐션까지 배가할 이원정,]]></content>
     </entry>
 </feed>
