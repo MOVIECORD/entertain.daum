@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/variety</id>
     <title>다음 연예 ─ 뉴스 ─ 예능</title>
-    <updated>2024-07-13T08:14:03.220Z</updated>
+    <updated>2024-07-13T09:11:51.250Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[트와이스 정연, 10년 만 집 최초 공개 "결혼자금 모으는 중"]]></title>
+        <id>https://v.daum.net/v/20240713175025440</id>
+        <link href="https://v.daum.net/v/20240713175025440"/>
+        <updated>2024-07-13T09:11:41.311Z</updated>
+        <content type="html"><![CDATA[[OSEN=장우영 기자] 트와이스 정연이 결혼 자금을 모으고 있다고 밝혔다. 13일 유튜브 채널 ‘감별사’에는 ‘최초공개 트와이스 정연 하우스 습격’이라는 제목의 영상이 공개됐다. 집에서 제작진을 맞이한 정연은 “일찍 오신다고 해서 회의하는 줄 알았는데 오시자마자 카메라를 들이 미실 줄은 몰랐다”고 말했다. 정연은 “MC 하는 거는 10년차인데도 처음이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[BTS RM, 美 빌보드 ‘베스트 K팝 앨범’ 등극···“실험적이며 진솔”]]></title>
         <id>https://v.daum.net/v/20240713170105985</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240713151201753"/>
         <updated>2024-07-13T06:16:08.226Z</updated>
         <content type="html"><![CDATA[박명수가 ‘25년 전 짝사랑’ 정선희와 마침내 만난다. 오는 14일 방송되는 KBS 2TV ‘사장님 귀는 당나귀 귀’(이하 ‘사당귀’)에서 장안의 화제가 됐던 열애설의 주인공, 박명수와 ‘짝사랑’ 정선희의 만남이 성사된다고 해 호기심을 자극한다. 특히 박명수는 “선희와 사적으로 만난 것은 거의 10년만”이라고 고백한 가운데 옛날로 돌아간 듯 정선희와 눈도]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[비투비 서은광, 갓세븐 영재와 7년만 재회..."이정도로 결 맞는 사람 처음"]]></title>
-        <id>https://v.daum.net/v/20240713145412545</id>
-        <link href="https://v.daum.net/v/20240713145412545"/>
-        <updated>2024-07-13T06:16:08.231Z</updated>
-        <content type="html"><![CDATA[[OSEN=최이정 기자]&nbsp;그룹 비투비(BTOB)&nbsp;서은광이 갓세븐(GOT7)&nbsp;영재와 만났다. 서은광은 지난&nbsp;12일 오후&nbsp;7시 유튜브 채널 스튜디오 잼박스를 통해 공개된&nbsp;'광구석&nbsp;1열' 5화 에피소드에서 영재와 호흡이 척척 맞는 환상의 케미스트리를 자랑했다. '서은광의 방구석'이라는 의미를 담고 있는&nbsp;'광구석&nbsp;1열'은 세대를 아우를 수 있는 포용력과 넘치는]]></content>
     </entry>
 </feed>
