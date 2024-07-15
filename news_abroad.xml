@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2024-07-15T00:56:39.464Z</updated>
+    <updated>2024-07-15T02:06:01.983Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[테일러 스위프트, 휘트니 휴스턴의 기록 깨고 빌보드 1위 행진]]></title>
+        <id>https://v.daum.net/v/20240715105930067</id>
+        <link href="https://v.daum.net/v/20240715105930067"/>
+        <updated>2024-07-15T02:06:01.180Z</updated>
+        <content type="html"><![CDATA[[TV리포트=강나연 기자] 14일(현지 시간) 외신 매체 버라이어티에 따르면 테일러 스위프트가 여성 팝 아티스트 정상에 도전하며 빌보드 기록 경신 행진을 이어가고 있다. 테일러 스위프트의 빌보드 200 1위를 차지한 새 앨범 'The Tortured Poets Department'가 12주 연속 차트 정상을 차지했으며, 그 과정에서 몇 가지 기록을 경신했다]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[미국 배우 섀넌 도허티, 유방암 투병 중 사망…향년 53세]]></title>
+        <id>https://v.daum.net/v/20240715104727572</id>
+        <link href="https://v.daum.net/v/20240715104727572"/>
+        <updated>2024-07-15T02:06:01.189Z</updated>
+        <content type="html"><![CDATA[[티브이데일리 김종은 기자] 미국 배우 섀넌 도허티가 사망했다. 향년 53세. 미국 연예매체 버라이어티는 14일(현지시간) "지난 2015년 유방암 판정을 받고 투병 생활을 이어오던 섀넌 도허티가 53세 나이로 세상을 떠났다'라고 보도했다. 섀넌 도허티 측은 "배우 섀넌 도허티의 사망 소식을 전하게 돼 슬픈 마음"이라며 "지난 토요일, 섀넌 도허티가 오랜]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘베벌리힐스의 아이들’ 섀넌 도허티, 암투병 끝 별세..향년 53세]]></title>
         <id>https://v.daum.net/v/20240715092423871</id>
@@ -88,12 +102,5 @@
         <link href="https://v.daum.net/v/20240714122009131"/>
         <updated>2024-07-14T04:16:12.163Z</updated>
         <content type="html"><![CDATA[[뉴스엔 배효주 기자] 영화 촬영 중 실탄이 장전된 소품용 총으로 촬영감독을 사망케 한 알렉 볼드윈의 재판이 약 3년 만에 끝났다. 7월 12일(현지시간) BBC 등 다수의 외신 보도에 따르면 2021년 10월 영화 '러스트' 촬영 중 장전된 총을 발사, 촬영감독인 할리나 허친스를 사망케 해 과실치사 혐의로 기소된 알렉 볼드윈의 재판이 뉴멕시코주 법원에서]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['촬영장 총격 사망 사건' 알렉 볼드윈, 과실치사 혐의 기각…눈물]]></title>
-        <id>https://v.daum.net/v/20240714095929579</id>
-        <link href="https://v.daum.net/v/20240714095929579"/>
-        <updated>2024-07-14T02:11:01.772Z</updated>
-        <content type="html"><![CDATA[(서울=뉴스1) 안은재 기자 = 미국 영화 촬영장에서 배우 알렉 볼드윈이 들고 있던 소품용 총에서 실탄이 발사돼 촬영감독이 숨진 것과 관련해, 볼드윈의 과실치사 혐의가 기각됐다. 로이터 통신과 AP 통신, 미국 매체 뉴욕 타임스(NYT) 등에 따르면 뉴멕시코주 판사는 지난 12일(현지 시각)알렉 볼드윈에 대한 과실치사 사건을 기각했으며, 다시 제기할 수]]></content>
     </entry>
 </feed>
