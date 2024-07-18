@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-07-18T02:37:37.911Z</updated>
+    <updated>2024-07-18T03:15:43.705Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['스캔들' 한채영X한보름, 과거 母女→대립 본격화..복수 시작]]></title>
+        <id>https://v.daum.net/v/20240718114614466</id>
+        <link href="https://v.daum.net/v/20240718114614466"/>
+        <updated>2024-07-18T03:15:24.063Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 | 안윤지 기자] /사진제공=KBS 2TV '스캔들' '스캔들' 배우 한채영이 한보름을 벼랑 끝으로 내몰았다. 지난 17일 방송된 KBS 2TV 일일드라마 '스캔들'(연출 최지영 / 극본 황순영 / 제작 오에이치스토리) 23회에서는 과거 모녀 사이였던 문정인(한채영 분)과 박진경(한보름 분)이 본격적으로 서로에게 위협을 가했다. 이날 정인은]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['유어 아너' 손현주 vs 김명민, 아들 위해 괴물된 父..숨막히는 대치]]></title>
         <id>https://v.daum.net/v/20240718111422907</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240718100447164"/>
         <updated>2024-07-18T02:00:50.092Z</updated>
         <content type="html"><![CDATA['재벌 3세'의 길을 걷기로 한 서준영이 형 권화운과 함께 마성그룹의 본부장으로 발령났다. 17일(수) 방송된 MBC 일일드라마 '용감무쌍 용수정'(극본 최연걸/연출 이민수 김미숙)에서는 게스트 하우스에서 마지막 밤을 보내는 여의주(서준영 분)가 구치소에서 밤을 새울 용수정(엄현경 분)을 걱정하며 쉽게 잠들지 못했다. 심지어 다음날 아침, 마성家에서 보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[손현주 vs 김명민, 감추거나 파헤치거나…부성이 만들어낸 괴물]]></title>
-        <id>https://v.daum.net/v/20240718100156033</id>
-        <link href="https://v.daum.net/v/20240718100156033"/>
-        <updated>2024-07-18T02:00:50.095Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 이창규 기자)&nbsp;하나의 사건을 사이에 둔 두 부자(父子)의 숨 막히는 대치가 펼쳐진다. 8월 12일 첫 방송될 지니 TV 오리지널 드라마 ‘유어 아너’는 자식을 위해 괴물이 되기로 한 두 아버지의 부성 본능 대치극이다. 드라마 속 펼쳐질 극과 극의 아버지 송판호(손현주 분)와 김강헌(김명민)의 치열한 대치가 기대감을 높이고 있는 가운데 두 부자]]></content>
     </entry>
 </feed>
