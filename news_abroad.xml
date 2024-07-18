@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2024-07-18T05:13:11.398Z</updated>
+    <updated>2024-07-18T06:17:23.490Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[아델, 은퇴 원하나.."유명해지기 전의 모든 게 그립다"]]></title>
+        <id>https://v.daum.net/v/20240718142424842</id>
+        <link href="https://v.daum.net/v/20240718142424842"/>
+        <updated>2024-07-18T06:17:22.767Z</updated>
+        <content type="html"><![CDATA[[OSEN=선미경 기자] 영국의 가수 아델이 간접적으로 은퇴를 언급했다. 17일(현지시각) BBC 등 외신은 아델이 현재 진행 중인 콘서트 이후 음악 활동을 잠시 중단할 계획이라고 밝혔다고 보도했다. 보도에 따르면 아델은 뮌헨에서 열리는 공연을 앞두고 독일의 방송사 ZDF에 “제 에너지 탱크는 지금 당장 거의 비어 있다. 새로운 음악에 대한 계획은 전혀]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['어벤져스: 엔드게임' 속편 나온다...루소 형제 논의 중]]></title>
         <id>https://v.daum.net/v/20240718132630762</id>
@@ -27,7 +34,7 @@
         <content type="html"><![CDATA[(서울=뉴스1) 안태현 기자 = 박찬욱 감독이 연출한 첫 미국드라마 '동조자'에 출연한 로버트 다우니 주니어가 제76회 프라임타임 에미상 후보에 올랐다. 17일(현지시간) 미국 TV예술과학아카데미가 발표한 제76회 프라임타임 에미상 후보 목록에서 로버트 다우니 주니어는 박찬욱 감독이 연출한 HBO '동조자'로 미니시리즈·TV 영화 남우조연상(Suppor]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[잭 블랙, “다음엔 트럼프 맞추길” 실언→밴드 활동 중단]]></title>
+        <title type="html"><![CDATA[잭 블랙, “다음엔 트럼프 맞히길” 실언→밴드 활동 중단]]></title>
         <id>https://v.daum.net/v/20240718114401363</id>
         <link href="https://v.daum.net/v/20240718114401363"/>
         <updated>2024-07-18T03:15:43.044Z</updated>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240717223538829"/>
         <updated>2024-07-17T14:12:01.847Z</updated>
         <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]할리우드 배우 톰 크룾(62)가 또 다시 위험천만한 액션을 소화했다. 16일(현지시간) 데일리메일에 따르면, 그는 최근 영국 옥스퍼드셔 상공을 비행하는 노란색 복엽기 밑면에 매달리는 스턴트를 펼쳤다. 크루즈는 이 시리즈에서 미스터리한 테러리스트 가브리엘 역을 맡은 에사이 모랄레스와 함께 촬영하면서 액션신까지 소화했다. 에사]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[유명 女배우, "손주들에게 직접 '모유수유' 할 것" 충격 고백]]></title>
-        <id>https://v.daum.net/v/20240717184600320</id>
-        <link href="https://v.daum.net/v/20240717184600320"/>
-        <updated>2024-07-17T10:13:41.254Z</updated>
-        <content type="html"><![CDATA[[TV리포트=정은비 기자] 영국의 한 여배우가 충격적인 발언을 남겼다. 16일(현지 시간) 외신 데일리메일에 따르면 영화배우 페이 리플리(Fay Ripley)는 그녀의 미래 손주들에게 ‘모유 수유를 할 것’이라고 발언했다. '빈둥지 증후군'을 앓고 있는 페이 리플리는 조부모의 역할을 맡아 손자들의 유모가 되어서 그 공백을 메울 수 있어 기쁘다고 말했다. 빈]]></content>
     </entry>
 </feed>
