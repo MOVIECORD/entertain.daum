@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2024-07-19T01:56:31.329Z</updated>
+    <updated>2024-07-19T02:01:27.251Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['데드풀과 울버린', '데드풀 2' 뛰어넘는 사전 예매량]]></title>
+        <id>https://v.daum.net/v/20240719105603367</id>
+        <link href="https://v.daum.net/v/20240719105603367"/>
+        <updated>2024-07-19T02:01:07.228Z</updated>
+        <content type="html"><![CDATA[[스포츠투데이 서지현 기자] '데드풀과 울버린'이 전편을 뛰어넘었다. 영화진흥위원회 영화관입장권 통합전산망에 따르면 영화 '데드풀과 울버린'은 19일 오전 9시 9분 기준 사전 예매량 6만8236장을 기록했다. 이로써 '데드풀과 울버린'은 동시기 쟁쟁한 화제작들을 모두 제치고 전체 예매율 1위에 올랐다. 이같은 기록은 국내 마블 청불 영화 흥행 1위를 차지]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['탈주', 뉴욕아시안영화제 공식 초청…"흥미진진하고 도전적, 자유에 대한 메시지"]]></title>
         <id>https://v.daum.net/v/20240719104327915</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240719090040097"/>
         <updated>2024-07-19T01:56:12.593Z</updated>
         <content type="html"><![CDATA[(서울=뉴스1) 장아름 기자 = 배우 박해수가 영화 '굿-뉴스'에 합류할 전망이다. 19일 뉴스1 취재 결과, 박해수는 영화 '굿-뉴스'(감독 변성현) 출연을 제안받고 검토 중이다. '굿-뉴스'는 비행기 추락 사고를 소재로 한 시대극으로, '불한당: 나쁜 놈들의 세상'(2017/이하 '불한당') '킹메이커'(2022) '길복순'(2023)의 변성현 감독]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘탈주’, 뉴욕 아시안영화제 공식초청]]></title>
-        <id>https://v.daum.net/v/20240719085906019</id>
-        <link href="https://v.daum.net/v/20240719085906019"/>
-        <updated>2024-07-19T01:56:12.594Z</updated>
-        <content type="html"><![CDATA[영화 ‘탈주’(감독 이종필)가 제23회 뉴욕 아시안 영화제 프라임 픽스(PRIME PICKS) 섹션에 공식 초청됐다. ‘탈주’는 내일을 위한 탈주를 시작한 북한병사 규남과 오늘을 지키기 위해 규남을 쫓는 보위부 장교 현상의 목숨 건 추격전을 그린 작품이다. 뉴욕 아시안 영화제는 북미의 대표적인 아시아 영화 축제로, 블록버스터부터 아트하우스 영화까지]]></content>
     </entry>
 </feed>
