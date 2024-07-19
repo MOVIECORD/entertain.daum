@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-07-19T09:13:04.312Z</updated>
+    <updated>2024-07-19T10:13:01.173Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[한재림 감독 "'더 에이트 쇼', '오겜'보다 먼저 준비…웹툰 IP 관심 多"]]></title>
+        <id>https://v.daum.net/v/20240719191228556</id>
+        <link href="https://v.daum.net/v/20240719191228556"/>
+        <updated>2024-07-19T10:12:48.110Z</updated>
+        <content type="html"><![CDATA[왼쪽부터 김성훈 씨네21 기자, 배진수 웹툰작가, 한재림 감독(사진=이데일리 최희재 기자)[이데일리 스타in 최희재 기자] “‘더 에이트 쇼’ 준비를 하고 있었는데 ‘오징어 게임’이 나온 거죠.” 19일 오후 서울 강남구 코엑스 콘퍼런스홀에서 진행된 ‘라이선싱 콘퍼런스 2024’(이하 라이선싱 콘) 2일차 세션에 참석한 한재림 감독이 웹툰 원작 ‘더 에이]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['굿파트너' 남지현, 또 난관 봉착…장나라 일침 이번에도 통할까]]></title>
+        <id>https://v.daum.net/v/20240719185701029</id>
+        <link href="https://v.daum.net/v/20240719185701029"/>
+        <updated>2024-07-19T10:12:48.110Z</updated>
+        <content type="html"><![CDATA[[SBS연예뉴스 | 강선애 기자] '굿파트너' 신입 변호사 남지현이 다시 난관에 봉착한다. 19일 SBS 금토드라마 '굿파트너'(극본 최유나, 연출 김가람) 측은 3회 방송을 앞두고, 새로운 의뢰인과 병원에서 포착된 신입 변호사 한유리(남지현 분)의 모습을 공개했다. 지난 방송에서는 첫 팀플레이에 나선 차은경(장나라 분)과 한유리의 모습이 그려졌다. VIP]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[채종협, 10년 전 첫사랑 김소현 만났다]]></title>
         <id>https://v.daum.net/v/20240719181031094</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240719161635174"/>
         <updated>2024-07-19T08:15:34.827Z</updated>
         <content type="html"><![CDATA[[이데일리 스타in 김가영 기자] FT아일랜드 이홍기가 ‘필드마블’을 통해 프로도 놀라게 하는 실력을 선보인다. 19일 방송되는 ENA ‘필드마블’ 3회에서는 1라운드를 이어가는 플레이어들의 모습이 그려진다. 이날 방송에서 이홍기는 연예계 골프 실력자의 포스를 드러낸다. 플레이어들의 첫 만남부터 ‘골프 고수’의 포스를 자아낸 이홍기는 기대에 부응하는 실력]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[부부 갈등 고조? ‘스캔들’ 이병준, 한채영에 폭탄 발언]]></title>
-        <id>https://v.daum.net/v/20240719161501133</id>
-        <link href="https://v.daum.net/v/20240719161501133"/>
-        <updated>2024-07-19T08:15:34.834Z</updated>
-        <content type="html"><![CDATA[‘스캔들’ 한채영과 이병준 사이 냉랭한 기류가 감돈다. 19일 방송되는 KBS 2TV 일일드라마 ‘스캔들’(연출 최지영 / 극본 황순영 / 제작 오에이치스토리) 25회에서는 민태창(이병준 분)이 폭탄 발언으로 문정인(한채영 분)을 충격으로 몰아넣는다. 앞서 태창은 정우진(최웅 분)과 딸 민주련(김규선 분)이 한 침대에서 자고 있는 장면을 목격했다. 하나밖에]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[첫방 엔딩 찢은 진구, 빌런인데 이상하게 감긴다]]></title>
-        <id>https://v.daum.net/v/20240719160849008</id>
-        <link href="https://v.daum.net/v/20240719160849008"/>
-        <updated>2024-07-19T07:13:19.936Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 황혜진 기자] 배우 진구가 매혹적인 빌런의 미학을 선보였다. 진구는 최근 통쾌한 스토리와 배우들의 열연으로 화제를 모으고 있는 tvN 토일드라마 ‘감사합니다’에서 JU건설의 부사장 황대웅 역으로 시청자들을 매료시키고 있다. 특히 캐릭터 소화를 위해 머리를 기르며 파격적인 변신을 시도한 진구의 열정이 감탄을 자아내고 있다. 앞서 첫 방송 전 황대웅]]></content>
     </entry>
 </feed>
