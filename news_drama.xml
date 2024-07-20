@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-07-20T06:17:58.782Z</updated>
+    <updated>2024-07-20T07:12:04.816Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['미녀와 순정남' 지현우, 부당해고 위기…임수향과 시위]]></title>
+        <id>https://v.daum.net/v/20240720160818478</id>
+        <link href="https://v.daum.net/v/20240720160818478"/>
+        <updated>2024-07-20T07:11:48.652Z</updated>
+        <content type="html"><![CDATA[(사진=KBS2)[이데일리 스타in 최희재 기자] ‘미녀와 순정남’ 지현우가 위기를 극복할까. 20일 방송되는 KBS2 주말드라마 ‘미녀와 순정남’ 35회에서는 고현철(이두일 분)과 김선영(윤유선 분)이 부당한 일을 겪게 된 아들 고필승(지현우 분)의 시위를 목격한다. 앞서 공진택(박상원 분)과 공진단(고윤 분)은 필승이 장수연(이일화 분)의 친아들이라는]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김창완도 美 'IT 대란' 피해…"DJ 일정 취소, 첫방도 미정"]]></title>
+        <id>https://v.daum.net/v/20240720154932286</id>
+        <link href="https://v.daum.net/v/20240720154932286"/>
+        <updated>2024-07-20T07:11:48.652Z</updated>
+        <content type="html"><![CDATA[김창완[이데일리 스타in 최희재 기자] 가수 겸 배우 김창완이 미국 일정 중 마이크로소프트(MS)발 IT(정보기술) 대란 여파로 귀국에 차질이 생겼다. SBS 측은 20일 공식입장을 통해 “22일 오후 3시 진행 예정이었던 ‘6시 저녁바람 김창완입니다’ 기자간담회 취소를 안내드린다”고 밝혔다. 이어 “미국 일정을 진행 중이었던 김창완 DJ가 미국 공항 전]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[임수향X지현우, ‘아슬아슬’ 열혈 시위 이어간다]]></title>
         <id>https://v.daum.net/v/20240720151122941</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240720134356120"/>
         <updated>2024-07-20T05:12:27.037Z</updated>
         <content type="html"><![CDATA[(사진=KBS2)[이데일리 스타in 최희재 기자] 할리우드 배우 라이언 레이놀즈와 휴 잭맨이 류수영을 만났다. 지난 19일 방송된 KBS2 ‘신상출시 편스토랑’(이하 ‘편스토랑’)에서는 특별한 손님을 만난 류수영의 모습이 그려졌다. 오는 24일 개봉하는 영화 ‘데드풀과 울버린’의 두 주인공 라이언 레이놀즈와 휴 잭맨이 ‘편스토랑’을 찾았다. 이날 류수영과]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[장나라 vs 상간녀 한재이, 서늘한 눈빛 대치..'지라시'까지]]></title>
-        <id>https://v.daum.net/v/20240720133825070</id>
-        <link href="https://v.daum.net/v/20240720133825070"/>
-        <updated>2024-07-20T05:12:27.037Z</updated>
-        <content type="html"><![CDATA[[OSEN=최이정 기자] ‘굿파트너’&nbsp;법무법인 대정에 심상치 않은 소문이 돈다. SBS&nbsp;금토드라마&nbsp;‘굿파트너’(극본 최유나,&nbsp;연출 김가람,&nbsp;기획·제작 스튜디오S·스튜디오앤뉴)&nbsp;측은&nbsp;20일,&nbsp;아슬아슬한 신경전을 벌이는 차은경(장나라 분)과 최사라(한재이 분)의 모습을 포착했다.&nbsp;여기에 어수선한&nbsp;‘대정’의 분위기가 긴장감을 더하며 궁금증을 높인다. 지난 방]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[또 유재석 미담…하하 "암흑기 내 곁 지켜줘" 회상]]></title>
-        <id>https://v.daum.net/v/20240720133258028</id>
-        <link href="https://v.daum.net/v/20240720133258028"/>
-        <updated>2024-07-20T05:12:27.037Z</updated>
-        <content type="html"><![CDATA[(사진=MBC)[이데일리 스타in 최희재 기자] ‘놀면 뭐하니?’ 하하가 유재석의 미담을 전한다. 20일 방송되는 MBC ‘놀면 뭐하니?’에서는 ‘놀뭐 24시’의 본격적인 이야기가 시작된다. 택시 기사가 된 유재석과 하하는 기사식당에서 에너지를 보충한 뒤 오후 운행을 펼친다. 오전 운행에서 손님 1명만 태운 하하는 자신에게 익숙한 과거 근무지(?)에서 역]]></content>
     </entry>
 </feed>
