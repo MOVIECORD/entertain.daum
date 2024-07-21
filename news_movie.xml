@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2024-07-21T06:15:48.289Z</updated>
+    <updated>2024-07-21T07:11:05.342Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[영화 '탈주', 누적 177만명 돌파…올해 韓 영화 3위]]></title>
+        <id>https://v.daum.net/v/20240721160440765</id>
+        <link href="https://v.daum.net/v/20240721160440765"/>
+        <updated>2024-07-21T07:10:45.925Z</updated>
+        <content type="html"><![CDATA[영화 탈주 포스터 /사진=뉴스1DB영화 '탈주'(감독 이종필)가 개봉 3주 차인 20일 전체 박스오피스 1위 자리에 올랐다. '파묘'와 '범죄도시4'에 이어 2024년 한국 영화 박스오피스 3위에 등극했다. 21일 영화진흥위원회 통합전산망에 따르면 '탈주'는 지난 20일 15만3660명의 관객을 동원했다. 누적관객수는 177만369명. '탈주'의 흥행은]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['탈출' 김태곤 "故 이선균 현장에서 도움준 믿고 의지할 형이었다"]]></title>
         <id>https://v.daum.net/v/20240721140137118</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240721110503638"/>
         <updated>2024-07-21T02:07:59.890Z</updated>
         <content type="html"><![CDATA[[한겨레S] 주일우의 뒹굴뒹굴 만화 천공의 성 라퓨타 300년 전, 걸리버는 여행길에 라퓨타를 만났다. 날아다니는 섬인 라퓨타는 지름이 7㎞쯤 된다. 최근에 소설가 김연수가 걸리버의 여행을 ‘걸리버 유람기’로 다시 쓰면서 계산한 것에 따르면, 면적은 40㎢로 경기도 광명시만 하다고 한다. 섬의 한가운데 45m 정도의 틈새가 있는데, 라퓨타 말로 ‘플란]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['탈주', 주말 정상 3일째 누적 177만명↑…올해 韓 영화 3위]]></title>
-        <id>https://v.daum.net/v/20240721104932334</id>
-        <link href="https://v.daum.net/v/20240721104932334"/>
-        <updated>2024-07-21T02:07:59.893Z</updated>
-        <content type="html"><![CDATA[(서울=뉴스1) 정유진 기자 = 영화 '탈주'(감독 이종필)가 개봉 3주 차인 20일 전체 박스오피스 1위 자리에 오르며 식지 않는 흥행 열기를 입증했다. 21일 영화진흥위원회 통합전산망에 따르면 '탈주'는 지난 20일 15만 3660명의 관객을 동원하며 3일째 박스오피스 정상을 유지했다. 누적관객수는 177만 369명. 이로써 '탈주'는 '파묘'와 ']]></content>
     </entry>
 </feed>
