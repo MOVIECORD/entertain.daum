@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2024-07-21T07:11:05.342Z</updated>
+    <updated>2024-07-21T08:14:47.427Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['동정녀' 수녀가 밝혀낸 수녀원의 추악한 진실]]></title>
+        <id>https://v.daum.net/v/20240721163303569</id>
+        <link href="https://v.daum.net/v/20240721163303569"/>
+        <updated>2024-07-21T08:14:30.682Z</updated>
+        <content type="html"><![CDATA[[장혜령 기자] * 이 글은 영화의 스포일러를 포함하고 있습니다. &nbsp;▲ &nbsp;영화 &lt;이매큘레이트&gt; 스틸컷ⓒ  (주)디스테이션&nbsp; 세실리아(시드니 스위니)는 어릴 적 얼어붙은 호수에 빠져 심장이 7분이나 멈추며 임사체험을 했다. 기적처럼 살아난 세실리아는 자신을 구원한 신의 존재를 굳게 믿으며 신실한 종교인으로 성장한다. 결국 수녀가 되어 헌신하겠다는 마음을 품던]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[영화 '탈주', 누적 177만명 돌파…올해 韓 영화 3위]]></title>
         <id>https://v.daum.net/v/20240721160440765</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240721115002284"/>
         <updated>2024-07-21T03:14:17.016Z</updated>
         <content type="html"><![CDATA[(엑스포츠뉴스 김유진 기자) 배우 조정석이 오랜만에 방송을 통해 다시 만난 가수 아이유와의 예전 촬영 추억을 회상했다. 화제를 모으고 있는 '파일럿' 속 여장 후 박보영 등의 닮은꼴로 언급된 것에는 "영광"이라며 넉살을 부렸다. 조정석은 오는 31일 영화 '파일럿'(감독 김한결)의 개봉을 앞두고 있다. '파일럿'은 스타 파일럿에서 하루아침에 실직자가 된 한]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘라퓨타’는 지금 어디에…올해 11월 부산에서 만날까]]></title>
-        <id>https://v.daum.net/v/20240721110503638</id>
-        <link href="https://v.daum.net/v/20240721110503638"/>
-        <updated>2024-07-21T02:07:59.890Z</updated>
-        <content type="html"><![CDATA[[한겨레S] 주일우의 뒹굴뒹굴 만화 천공의 성 라퓨타 300년 전, 걸리버는 여행길에 라퓨타를 만났다. 날아다니는 섬인 라퓨타는 지름이 7㎞쯤 된다. 최근에 소설가 김연수가 걸리버의 여행을 ‘걸리버 유람기’로 다시 쓰면서 계산한 것에 따르면, 면적은 40㎢로 경기도 광명시만 하다고 한다. 섬의 한가운데 45m 정도의 틈새가 있는데, 라퓨타 말로 ‘플란]]></content>
     </entry>
 </feed>
