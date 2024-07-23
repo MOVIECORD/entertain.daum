@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-07-23T10:13:07.566Z</updated>
+    <updated>2024-07-23T11:12:35.874Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘용수정’ 엄현경X서준영, 임주은에 함정 팠다 “딱 걸렸어”]]></title>
+        <id>https://v.daum.net/v/20240723195315275</id>
+        <link href="https://v.daum.net/v/20240723195315275"/>
+        <updated>2024-07-23T11:12:21.091Z</updated>
+        <content type="html"><![CDATA[엄현경과 서준영이 뺑소니 사고 범인으로 임주은을 의심했다. 23일(화) 방송된 MBC 일일드라마 ‘용감무쌍 용수정’(기획 장재훈 / 극본 최연걸 / 연출 이민수, 김미숙 / 제작 MBC C&amp;I)에서는 용수정(엄현경 분)이 여의주(서준영 분)에게 마성가 근처 CCTV 영상 확인을 부탁한다. 이날 용수정은 여의주에게 “마성그룹 근처에 있는 CCTV 좀 확]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[엄현경, 양정아 병실 잠입한 임주은 촬영... 약점 잡았다]]></title>
+        <id>https://v.daum.net/v/20240723195303273</id>
+        <link href="https://v.daum.net/v/20240723195303273"/>
+        <updated>2024-07-23T11:12:21.092Z</updated>
+        <content type="html"><![CDATA[[TV리포트=이혜미 기자] 엄현경이 마침내 임주은의 약점을 잡았다. 23일 MBC ‘용감무쌍 용수정’에선 경화(이승연 분)가 준 팔찌를 찾고자 병실에 잠입한 혜라(임주은 분)와 그 모습을 촬영하는 수정(엄현경 분)의 이야기가 그려졌다. 영애(양정아 분)와 장원(박철민 분)의 소식을 듣고 달려온 의주(서준영 분)에 수정은 배후에 혜라가 있음을 알리곤 “네가]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[채종협·김영대·김재영, ‘모델 출신’들의 안방극장 세대교체]]></title>
         <id>https://v.daum.net/v/20240723184320653</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240723165053297"/>
         <updated>2024-07-23T08:17:05.350Z</updated>
         <content type="html"><![CDATA[(사진=KBS2)[이데일리 스타in 최희재 기자] ‘완벽한 가족’의 김병철, 윤세아가 ‘스카이 캐슬’에 이어 다시 한번 부부로 호흡을 맞춘다. 오는 8월 14일 첫 방송 예정인 KBS2 새 수목드라마 ‘완벽한 가족’은 누가 봐도 행복하고 완벽해 보이는 가족이 딸의 살인으로 인해 점점 서로를 의심하게 되는 미스터리 스릴러 드라마다. 각종 영화제를 휩쓸며 각]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한선화x목마른 사슴, 대환장 코믹 케미…입소문 부르는 시너지]]></title>
-        <id>https://v.daum.net/v/20240723164522047</id>
-        <link href="https://v.daum.net/v/20240723164522047"/>
-        <updated>2024-07-23T08:17:05.351Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 김유진 기자) '놀아주는 여자' 한선화와 목마른 사슴의 사제 케미스트리가 시청자들의 웃음을 자아내고 있다. 매주 수, 목요일 방송되는 JTBC 수목드라마 '놀아주는 여자' 속 미니 언니 고은하(한선화 분)를 따르는 목마른 사슴 멤버들의 반전 매력이 보는 이들의 마음을 사로잡고 있다.&nbsp; 이에 서지환(엄태구 분)의 갈비뼈를 부러트린 쥐방울에서 어]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["하균神 수식어, 쑥쓰럽다"지만…쥐새끼 잡는 신하균, 멱살잡고 원맨쇼]]></title>
-        <id>https://v.daum.net/v/20240723163002401</id>
-        <link href="https://v.daum.net/v/20240723163002401"/>
-        <updated>2024-07-23T08:17:05.352Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 이예진 기자) "역시 하균神." 배우 신하균이 또다시 이름값을 증명했다. 드라마 '감사합니다'에서 감사 팀장 신차일 그 자체가 되어 극에 빠져들게 만들며 압도적 하드캐리 중이다. 지난 6일 첫 방송된 tvN 토일드라마 '감사합니다'. 횡령, 비리, 사건사고가 끊이지 않는 JU건설 감사팀을 배경으로 회사를 갉아먹는 쥐새끼들을 소탕하러 온 이성파]]></content>
     </entry>
 </feed>
