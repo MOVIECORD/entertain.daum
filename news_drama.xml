@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-07-24T13:16:42.397Z</updated>
+    <updated>2024-07-24T14:13:19.725Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[정유진 "DNA러버, 신선했다"]]></title>
+        <id>https://v.daum.net/v/20240724222801387</id>
+        <link href="https://v.daum.net/v/20240724222801387"/>
+        <updated>2024-07-24T14:13:04.489Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 | 김수진 기자] 배우 정유진이 TV CHOSUN 새 주말미니시리즈 'DNA 러버'에서 폴리아모리, 비독점 연애주의자 장미은 역으로 변신, 남다른 '연애 고수'의 면모를 분출한다. 오는 8월 17일 토요일 오후 9시 10분 첫 방송될 TV CHOSUN 새 주말미니시리즈 'DNA 러버'(극본 정수미, 연출 성치욱, 제작 하이그라운드, 아이피박스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[엄태구, ♥한선화 향한 직진+반말 "예쁘네, 우리 은하"]]></title>
         <id>https://v.daum.net/v/20240724214920886</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240724175234679"/>
         <updated>2024-07-24T09:13:00.529Z</updated>
         <content type="html"><![CDATA[(사진=MBC)[이데일리 스타in 최희재 기자] 가수 윤하가 드라마 ‘눈물의 여왕’에 히트곡 ‘기다리다’를 선물한 이유를 밝혔다. 24일 방송되는 MBC ‘라디오스타’(‘라스’)는 배철수, 김경식, 윤하, 이승국이 출연하는 ‘목소리가 지문’ 특집으로 꾸며진다. 선공개 영상에서 MC 김구라는 윤하에게 “최근 최애 드라마를 위해 통 크게 노래를 쐈다고 하는데]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[변요한, '백설공주' 여자친구 공개...상대는 배우 한소은]]></title>
-        <id>https://v.daum.net/v/20240724172801907</id>
-        <link href="https://v.daum.net/v/20240724172801907"/>
-        <updated>2024-07-24T09:13:00.529Z</updated>
-        <content type="html"><![CDATA[[TV리포트=김산하 기자] 배우 한소은이 변요한의 여자친구로 새 드라마에 출연한다. 한소은이 오는 8월 16일 금요일 밤 9시 50분 첫 방송 될 MBC 금토드라마 '백설공주에게 죽음을-Black Out'(이하 '백설공주')에서 박다은 역으로 출연할 예정이다. '백설공주' 극 중 박다은은 주인공 고정우의 여자친구로 등장한다. 고정우 역은 변요한이 맡았다.]]></content>
     </entry>
 </feed>
