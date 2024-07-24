@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-07-24T09:13:15.913Z</updated>
+    <updated>2024-07-24T10:15:21.515Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김도훈, 법대 수석 모범생이 살인자로..父손현주도 일생일대 위기]]></title>
+        <id>https://v.daum.net/v/20240724182413697</id>
+        <link href="https://v.daum.net/v/20240724182413697"/>
+        <updated>2024-07-24T10:15:05.303Z</updated>
+        <content type="html"><![CDATA[[OSEN=하수정 기자] 김도훈이 손현주의 부성애에 불을 붙일 유약한 영혼으로 시청자들을 사로잡는다. 오는 8월 12일(월) 밤 10시 첫 방송될 지니 TV 오리지널 드라마 ‘유어 아너’(크리에이터 표민수, 극본 김재환, 연출 유종선, 기획 KT스튜디오지니, 제작 ㈜테이크원스튜디오 ㈜몬스터컴퍼니)는 자식을 위해 괴물이 되기로 한 두 아버지의 부성 본능]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[옥주현, 라디오 생방송 지각 사과…"내비가 내 속도 못 쫓아와"]]></title>
+        <id>https://v.daum.net/v/20240724182353680</id>
+        <link href="https://v.daum.net/v/20240724182353680"/>
+        <updated>2024-07-24T10:15:05.306Z</updated>
+        <content type="html"><![CDATA[(사진=‘박하선의 씨네타운’ SNS)[이데일리 스타in 최희재 기자] 뮤지컬 배우 옥주현이 라디오 생방송에 지각해 거듭 사과했다. 24일 방송된 SBS 파워FM ‘박하선의 씨네타운’의 씨네초대석에는 뮤지컬 ‘베르사유의 장미’로 관객을 만나고 있는 옥주현, 김성식이 출연해 이야기를 나눴다. 이날 DJ 박하선은 “교통 사정 때문에 살짝 늦고 있는데 곧 도착한]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김강우, NEW 빌런 캐릭터 예고…치밀하고 잔인한 추격자 '폴']]></title>
         <id>https://v.daum.net/v/20240724181030307</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240724162706606"/>
         <updated>2024-07-24T08:15:14.279Z</updated>
         <content type="html"><![CDATA[갓세븐(GOT7) 영재가 드라마 ‘선의의 경쟁’으로 3년 만에 드라마에 복귀한다. 영재의 소속사 앤드벗 컴퍼니 측은 “영재가 드라마 ‘선의의 경쟁’(기획 STUDIO X+U, 제작 와이랩 플렉스, STUDIO X+U)’에 캐스팅 되어 전격 합류한다”라고 밝혔다. 동명의 인기 웹툰을 원작으로 한 ‘선의의 경쟁’은 입시보다 살벌한 생존 경쟁 속 십대 소녀들의]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['완벽한 가족' 김영대→박주현, 강렬 서스펜스…1차 티저 공개]]></title>
-        <id>https://v.daum.net/v/20240724162627576</id>
-        <link href="https://v.daum.net/v/20240724162627576"/>
-        <updated>2024-07-24T08:15:14.285Z</updated>
-        <content type="html"><![CDATA[(사진=KBS2)[이데일리 스타in 최희재 기자] ‘완벽한 가족’의 1차 티저가 공개됐다. 오는 8월 14일 첫 방송 되는 KBS2 새 수목드라마 ‘완벽한 가족’은 누가 봐도 행복하고 완벽해 보이는 가족이 딸의 살인으로 인해 점점 서로를 의심하게 되는 미스터리 스릴러 드라마로, 각종 영화제를 섭렵한 유키사다 이사오 감독의 첫 한국 연출작이다. 독특한 가족]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김영대→이시우 '완벽한 가족', 베일 벗었다…첫 티저부터 도파민 폭발]]></title>
-        <id>https://v.daum.net/v/20240724161028886</id>
-        <link href="https://v.daum.net/v/20240724161028886"/>
-        <updated>2024-07-24T07:11:50.455Z</updated>
-        <content type="html"><![CDATA[‘완벽한 가족’이 숨 멎을 듯한 긴장감이 맴도는 1차 티저를 공개했다. 동명의 인기 웹툰이 원작인 오는 8월 14일(수) 밤 9시 50분 첫 방송 되는 KBS 2TV 새 수목드라마 ‘완벽한 가족’(연출 유키사다 이사오/제작 빅토리콘텐츠/ⓒ함창석, 주은/대원씨아이)은 누가 봐도 행복하고 완벽해 보이는 가족이 딸의 살인으로 인해 점점 서로를 의심하게 되는]]></content>
     </entry>
 </feed>
