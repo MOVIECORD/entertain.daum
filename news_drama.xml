@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-07-24T12:22:31.335Z</updated>
+    <updated>2024-07-24T13:16:42.397Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[엄태구, ♥한선화 향한 직진+반말 "예쁘네, 우리 은하"]]></title>
+        <id>https://v.daum.net/v/20240724214920886</id>
+        <link href="https://v.daum.net/v/20240724214920886"/>
+        <updated>2024-07-24T13:16:27.331Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 박세현 기자) 엄태구가 한선화에게 직진하며 애정을 드러냈다.&nbsp; 24일 방송된 JTBC '놀아주는 여자'에서는 고은하(한선화 분), 서지환(엄태구)이 산책 데이트를 즐겼다. 이날 방송에서 고은하는 서지환에게 "오늘같은 일 처음 아니지 않냐. 사람들한테 무릎 꿇고 사과하는 일"이라고 물었다.&nbsp; 앞서 서지환은 이동희(박재찬)를 지키기 위해, 한 피]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["조폭이라며" 엄태구, 결국 무릎 꿇었다…"박재찬 지켜줄 수밖에 없어"]]></title>
         <id>https://v.daum.net/v/20240724212039412</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240724172801907"/>
         <updated>2024-07-24T09:13:00.529Z</updated>
         <content type="html"><![CDATA[[TV리포트=김산하 기자] 배우 한소은이 변요한의 여자친구로 새 드라마에 출연한다. 한소은이 오는 8월 16일 금요일 밤 9시 50분 첫 방송 될 MBC 금토드라마 '백설공주에게 죽음을-Black Out'(이하 '백설공주')에서 박다은 역으로 출연할 예정이다. '백설공주' 극 중 박다은은 주인공 고정우의 여자친구로 등장한다. 고정우 역은 변요한이 맡았다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['놀아주는 여자' 엄태구, 박재찬 위해 무릎까지 꿇었다]]></title>
-        <id>https://v.daum.net/v/20240724172530830</id>
-        <link href="https://v.daum.net/v/20240724172530830"/>
-        <updated>2024-07-24T09:13:00.529Z</updated>
-        <content type="html"><![CDATA[엄태구와 권율이 힘을 합쳐 박재찬 지키기에 나선다. JTBC 수목드라마 ‘놀아주는 여자’(극본 나경/ 연출 김영환, 김우현/ 제작 베이스스토리, 아이오케이, SLL) 13회에서는 베일에 가려진 이동희(박재찬)의 과거가 밝혀지면서 서지환(엄태구)과 장현우(권율)가 각자의 방식으로 이동희의 슬픔을 나누는 것. 이동희는 목마른 사슴의 대표 비서로서 과묵하지]]></content>
     </entry>
 </feed>
