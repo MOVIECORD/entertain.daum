@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2024-07-25T20:13:39.916Z</updated>
+    <updated>2024-07-25T21:12:47.565Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['리볼버' 오승욱 감독, '밀수' 류승완 감독 만난다···메가토크 개최]]></title>
+        <id>https://v.daum.net/v/20240726060040243</id>
+        <link href="https://v.daum.net/v/20240726060040243"/>
+        <updated>2024-07-25T21:12:26.410Z</updated>
+        <content type="html"><![CDATA[[서울경제] 영화 '리볼버'가 오승욱 감독, 류승완 감독과 함께하는 메가토크를 개최한다. '리볼버'(감독 오승욱)가 오는 8월 3일 오후 6시 메가박스 성수에서 오승욱 감독과 류승완 감독이 참석하는 메가토크를 연다. '리볼버'는 모든 죄를 뒤집어쓰고 교도소에 들어갔던 전직 경찰 수영이 출소 후 오직 하나의 목적을 향해 직진하는 이야기를 그린 작품이다. 올]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘파일럿’ 김한결 감독 “천재적 조정석→동물적 한선화, ‘캐스팅 금수저’ 물었죠”]]></title>
+        <id>https://v.daum.net/v/20240726054009071</id>
+        <link href="https://v.daum.net/v/20240726054009071"/>
+        <updated>2024-07-25T21:12:26.411Z</updated>
+        <content type="html"><![CDATA[“주변에서 ‘감독님처럼 운 좋은 사람 처음 봤다’고 하세요. 저도 복 받았다 싶어 감사하죠.” 오는 31일 영화 ‘파일럿’ 개봉을 앞두고 만난 김한결 감독은 호평 속 시사를 마치고 뿌듯한 미소를 지었다. 앞서 로맨스 코미디 영화 ‘가장 보통의 연애’(2019)로 성공적 상업영화 데뷔를 한 이후 선보이는 김 감독의 두 번째 작품이다. ‘파일럿’은 스타]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['데드풀과 울버린', 드디어 온 '마블의 구세주']]></title>
         <id>https://v.daum.net/v/20240726000136564</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240725174504321"/>
         <updated>2024-07-25T09:14:00.907Z</updated>
         <content type="html"><![CDATA[[스포츠투데이 김태형 기자] 할리우드 배우 라이언 레이놀즈가 팝스타 마돈나를 찾아가 곡 사용 허가를 받은 이야기를 전했다. 최근 미국 연예매체 버라이어티는 "라이언 레이놀즈와 '데드풀과 울버린'의 감독 숀 레비가 앤디 코헨의 시리우스XM 라디오 쇼와의 인터뷰에서 '라이크 어 프레이어(Like a Prayer)'를 사용할 수 있는 권리를 확보하기 위해 마돈나]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오메가엑스 예찬 ‘매드 댄스 오피스’로 스크린 데뷔‥염혜란과 호흡]]></title>
-        <id>https://v.daum.net/v/20240725173231823</id>
-        <link href="https://v.daum.net/v/20240725173231823"/>
-        <updated>2024-07-25T09:14:00.911Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 배효주 기자] 오메가엑스 멤버 겸 배우 예찬이 대세 연기돌로 도약한다. 오는 8월 12일 첫 방송될 지니TV 오리지널 드라마 ‘유어 아너’에 이어 개봉되는 영화 ‘매드 댄스 오피스’에 연달아 캐스팅, 스크린과 TV를 넘나들며 열일 행보를 이어가는 것. ‘매드 댄스 오피스’는 완벽주의만이 살아남는 유일한 비법이라고 믿으며 홀로 딸을 키우는 공무원]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[블룸하우스 신작 '스픽 노 이블', 9월 11일 개봉 확정]]></title>
-        <id>https://v.daum.net/v/20240725173118783</id>
-        <link href="https://v.daum.net/v/20240725173118783"/>
-        <updated>2024-07-25T09:14:00.917Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 김유진 기자) 호러 명가 블룸하우스의 신작 영화 '스픽 노 이블'(감독 크리스티안 타프드럽)이 9월 11일 개봉을 확정하고 메인 포스터와 메인 예고편을 전격 공개했다. '스픽 노 이블'은 한 가족이 우연히 휴가를 함께 보낸 또 다른 가족의 초대로 그들의 집을 방문하지만 점점 기이한 일들을 마주하며 걷잡을 수 없는 상황으로 치닫는 이야기를 담은]]></content>
     </entry>
 </feed>
