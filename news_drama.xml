@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-07-26T20:15:06.072Z</updated>
+    <updated>2024-07-26T21:11:50.671Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김준한, 장나라와 맞바람 아닌 짝사랑이었나..남지현 "들키지 마"]]></title>
+        <id>https://v.daum.net/v/20240727053424100</id>
+        <link href="https://v.daum.net/v/20240727053424100"/>
+        <updated>2024-07-26T21:11:36.198Z</updated>
+        <content type="html"><![CDATA[[OSEN=김채윤 기자] '굿파트너' 김준한이 장나라를 오랫동안 짝사랑해왔다는 사실이 밝혀졌다. 7월 26일, SBS&nbsp;금토드라마&nbsp;‘굿파트너’(극본 최유나,&nbsp;연출 김가람,&nbsp;기획·제작 스튜디오S·스튜디오앤뉴) 5회에서 정우진(김준한 분)이 한유리(남지현 분)에게 속마음을 들키고 말았다.&nbsp; 한유리는 의뢰인 차은경(장나라 분)의 이혼 소송을 위해, 그녀의 주변]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['굿파트너' 남지현, '오피스 허즈밴드' 공격에 '중혼적 사실혼'으로 맞불…장나라 '이혼 소송' 시작]]></title>
         <id>https://v.daum.net/v/20240727010300078</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240726204100756"/>
         <updated>2024-07-26T12:21:34.579Z</updated>
         <content type="html"><![CDATA[[TV리포트 = 하수나 기자] ‘스캔들’에선 기억이 돌아온 최웅이 무릎 꿇고 매달리는 한보름에게 김규선과 결혼을 할 예정이라며 차갑게 이별을 선언했다.&nbsp;&nbsp; 26일 KBS2TV 일일드라마 ‘스캔들’에선 진호(최웅 분)를 둘러싸고 설아(한보름 분)와 주련(김규선 분)의 신경전이 펼쳐졌다.&nbsp; 주련이 진호에 집착하자 설아는 분노했고 커피를 사와 주련의 옷에 뿌렸다]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[최웅, 한보름에 돈봉투 건네며 이별 통보 "♥김규선과 결혼할 것"]]></title>
-        <id>https://v.daum.net/v/20240726203349667</id>
-        <link href="https://v.daum.net/v/20240726203349667"/>
-        <updated>2024-07-26T12:21:34.580Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 | 정은채 기자] /사진='스캔들' 방송화면 캡쳐'스캔들'의 최웅이 한보름에 이별을 통보했다. 26일 오후 방송된 KBS 2TV 일일드라마 '스캔들'에서는 정우진(최웅 분)이 백설아(한보름 분)의 작업실에 찾아간 장면이 그려졌다. 이날 정우진은 백설아의 작업실에 찾아가 백설아를 '박진경'이 아닌 "설아"라고 호칭했다. 그러면서 "기억이 돌아왔]]></content>
     </entry>
 </feed>
