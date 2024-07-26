@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2024-07-26T07:12:31.587Z</updated>
+    <updated>2024-07-26T08:15:20.892Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['63세' 장학우, 건강 악화로 콘서트 하루 전 취소...'사대천왕' 팬들 걱정]]></title>
+        <id>https://v.daum.net/v/20240726163000225</id>
+        <link href="https://v.daum.net/v/20240726163000225"/>
+        <updated>2024-07-26T08:15:20.136Z</updated>
+        <content type="html"><![CDATA[[TV리포트=공지현 기자] '홍콩 4대천왕'으로 불리는 유명 가수 겸 배우 장학우(張學友)가 최근 중국 항저우에서 12회 연속 공연을 개최했으나, 공연 전날 갑자기 그중 3회를 취소한다고 발표했다. 25일, 장학우 콘서트 주최 측은 "아티스트의 건강 상태와 공연의 완성도를 보장하기 위해 신중한 고려 끝에, 원래 2024년 7월 26, 27, 28일 항저우]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['제임스 본드' 배우, 뇌 손상 입더니... 반년 만에 '은퇴' 선언]]></title>
         <id>https://v.daum.net/v/20240726154330811</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240725182535834"/>
         <updated>2024-07-25T10:13:51.261Z</updated>
         <content type="html"><![CDATA[(MHN스포츠 김수민 인턴기자) 세계적인 가수 테일러 스위프트가 파리 올림픽에서 공연을 올릴 수 있을지 주목된다. 테일러 스위프트는 87번째 공연으로 파리에서 '에리스 투어'를 개최했을 당시, 새로운 세트리스트를 가져올 만큼 애정을 보였다.&nbsp;이번&nbsp;파리 올림픽에도 참여하며 다시 한번 파리를 그녀의 목소리로 채울 수 있을지, 테일러 스위프트의 월드투어]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“아이 없는 캣맘에 美 맡길 거냐?” 제니퍼 애니스톤, 공화당 부통령 후보 차별발언에 분노]]></title>
-        <id>https://v.daum.net/v/20240725175855816</id>
-        <link href="https://v.daum.net/v/20240725175855816"/>
-        <updated>2024-07-25T09:14:21.719Z</updated>
-        <content type="html"><![CDATA[[스포츠서울 | 박효실 기자] 인기 시트콤 ‘프렌즈’ 스타 제니퍼 애니스톤(55)이 자녀 없는 여성들을 싸잡아 비난한 미국 공화당 부통령 후보 J.D. 밴스의 발언에 대해 공개적으로 항의했다. 밴스는 2024년 공화당 대선후보로 선출된 도널드 트럼프 전 대통령의 러닝메이트(부통령 후보)로 낙점된 뒤 3년전 폭스뉴스 TV쇼에 출연해 했던 발언이 새삼 논]]></content>
     </entry>
 </feed>
