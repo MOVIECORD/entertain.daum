@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-07-28T21:13:18.476Z</updated>
+    <updated>2024-07-28T22:12:00.140Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이정하, 신하균과 펼치는 콤비 플레이 → 극과 극 케미 선사]]></title>
+        <id>https://v.daum.net/v/20240729070943289</id>
+        <link href="https://v.daum.net/v/20240729070943289"/>
+        <updated>2024-07-28T22:11:47.337Z</updated>
+        <content type="html"><![CDATA[‘감사합니다’ 이정하가 사건의 중심에 섰다. 배우 이정하가 tvN 토일드라마 ‘감사합니다’(극본 최민호/ 연출 권영일, 주상규/ 기획 스튜디오드래곤/ 제작 필콘스튜디오)에서 JU건설 신입사원 ‘구한수’로 분해 감사(監査)에 대한 끈기와 집념으로 시련을 헤쳐가고 있다. 지난 ‘감사합니다’ 7-8화에서는 직장 내 괴롭힘으로 중요한 프로젝트 업무까지 배제당]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[정영주, '이정은=실종된 친동생' 확신.."못 알아봐 미안"]]></title>
+        <id>https://v.daum.net/v/20240729063000842</id>
+        <link href="https://v.daum.net/v/20240729063000842"/>
+        <updated>2024-07-28T22:11:47.344Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 | 정은채 기자] /사진='낮과밤이다른그녀' 방송화면 캡쳐 배우 정영주가 이정은을 자신의 친동생이라 확신했다. 28일 방송된 JTBC 토일드라마 '낮과 밤이 다른 그녀' 14회에서는 임청(정영주 분)이 임순(이정은 분)을 자신의 실종된 여동생이라 생각하는 장면이 그려졌다. 이날 계지웅은 낮에 이미진을 만나기 위해 다짜고자 이미진의 집에 찾아갔]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“몸으로 채용” 조아람, 부사장 진구와 채용비리 스캔들 ‘위기’]]></title>
         <id>https://v.daum.net/v/20240729060745638</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240728230737805"/>
         <updated>2024-07-28T14:10:30.148Z</updated>
         <content type="html"><![CDATA[최진혁이 이정은에게 정체를 물었다. 28일 방송된 JTBC 토일 드라마 ‘낮과 밤이 다른 그녀’에서는 임순(이정은)에게 정체를 물으며 답답해하는 계지웅(최진혁)의 모습이 전파를 탔다. 이날 임순은 임청(정영주)과 이학찬(정석용)에게 쫓기다 경찰에 붙잡혔다. 임청은 “미친 여자가 우리 집에 또 들어왔다”라며 화를 냈고, 임순은 “내가 얘기했지 않느냐”라]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[최진혁, 대낮에 정은지 집 찾아갔다…도망친 이정은과 경찰서 대면]]></title>
-        <id>https://v.daum.net/v/20240728230301779</id>
-        <link href="https://v.daum.net/v/20240728230301779"/>
-        <updated>2024-07-28T14:10:30.149Z</updated>
-        <content type="html"><![CDATA[[TV리포트=남금주 기자] 대낮에 정은지의 집을 찾아간 최진혁이 경찰서에서 이정은과 대면했다. 28일 방송된 JTBC 토일드라마 '낮과 밤이 다른 그녀' 14회에서는 계지웅(최진혁 분), 임정은(이정은)이 대낮 추격전을 펼쳤다. 이날 임순은 투서의 주인공이 자신이 아닌 나옥희(배해선)란 사실을 알았다. 인턴에 떨어졌던 지원자는 "내가 그 사람 얼굴 분명히]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[백서후, 이정은 향한 순애보 "늘 이용 당할 준비 돼 있어"]]></title>
-        <id>https://v.daum.net/v/20240728230037765</id>
-        <link href="https://v.daum.net/v/20240728230037765"/>
-        <updated>2024-07-28T14:10:30.149Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 | 정은채 기자] /사진='낮과밤이다른그녀' 방송화면 캡쳐배우 백서후가 이정은을 향한 순애보의 모습을 보였다. 28일 방송된 JTBC 토일드라마 '낮과 밤이 다른 그녀' 14회에서는 고원(백서후 분)이 임순(이정은 분)에게 고백을 거절 당한 후에도 변함없는 애정을 드러냈다. 이날 임순과 같이 차를 타고 이동 중이던 고원은 "같이 저녁이라도 먹]]></content>
     </entry>
 </feed>
