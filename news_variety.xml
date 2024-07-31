@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/variety</id>
     <title>다음 연예 ─ 뉴스 ─ 예능</title>
-    <updated>2024-07-31T19:10:53.422Z</updated>
+    <updated>2024-07-31T20:13:41.565Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[함익병, 독립 안 한 '장광 아들' 장영에 일침 "뭐 해서 먹고 살 거야?"]]></title>
+        <id>https://v.daum.net/v/20240801043000809</id>
+        <link href="https://v.daum.net/v/20240801043000809"/>
+        <updated>2024-07-31T20:13:32.527Z</updated>
+        <content type="html"><![CDATA[의사 겸 방송인 함익병이 배우 장광의 아들 장영에게 일침을 가했다. 지난 7월 31일 방송된 TV조선 예능 '아빠하고 나하고'에는 장광-장영 부자의 집을 찾은 함익병의 모습이 그려졌다. 이날 함익병은 장영에게 "내 아들한테 하는 것처럼 질문하겠다. 뭐 해서 먹고 살 거냐"고 돌직구 질문을 던졌다. 장영은 "제 거 해야죠. 제 일"이라고 답했으나,]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[21기 현숙, 과도한 플러팅의 말로…영호→영철에 거절당해]]></title>
         <id>https://v.daum.net/v/20240801013928384</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240731232726989"/>
         <updated>2024-07-31T15:12:45.616Z</updated>
         <content type="html"><![CDATA[조정석이 유재석의 미담을 공개했다. 31일(수) 방송된 tvN ‘유 퀴즈 온 더 블럭’ 255회 ‘Be nice Be kind’ 특집에서는 영화 ‘인사이드 아웃2’ 애니메이터 김혜숙, 미술품 경매사 손이천, 구글 임원에서 N잡러 아르바이트생이 된 로이스킴, 배우 조정석이 출연해 MC 유재석&amp;조세호와 릴레이 토크를 펼쳤다. 이날 조정석의 신작 영화 ‘파]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“드디어 법적 부부” 이다해♥세븐, 결혼 1년 만에 혼인신고]]></title>
-        <id>https://v.daum.net/v/20240731232702980</id>
-        <link href="https://v.daum.net/v/20240731232702980"/>
-        <updated>2024-07-31T15:12:45.617Z</updated>
-        <content type="html"><![CDATA[가수 세븐과 배우 이다해가 결혼 1년 만에 혼인신고를 하며 법적 부부가 됐다 31일 오후 방송된 채널A ‘요즘 남자 라이프-신랑수업(이하 ’신랑수업‘)’에서는 이다해, 세븐이 결혼 1년 만에 혼인신고를 하는 모습이 전파를 탔다. 이날 방송에서는 먼저 이다해, 세븐의 신혼집이 공개됐다. 넓은 거실과 세련된 인테리어가 돋보였으며 침실과 작업실도 깔끔하게 정돈되]]></content>
     </entry>
 </feed>
