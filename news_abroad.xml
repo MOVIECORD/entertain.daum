@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2024-07-31T07:11:15.754Z</updated>
+    <updated>2024-07-31T08:16:05.224Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[가수 양철, 교통사고로 죽다 살아... "아내 울다가 기절"]]></title>
+        <id>https://v.daum.net/v/20240731164800742</id>
+        <link href="https://v.daum.net/v/20240731164800742"/>
+        <updated>2024-07-31T08:16:04.599Z</updated>
+        <content type="html"><![CDATA[[TV리포트=유지호 기자] 대만의 유명 가수 양철이 교통사고로 사망할 뻔했던 아찔한 이야기로 팬들을 놀라게 했다. 31일(현지시간) 외신 매체 오락성문(娛樂星聞)은 양철이 12월 14일 고향 가오슝의 해음관 센터에서 '시야운야명야' 자선 콘서트 개최 발표 자리에서 해당 사실을 알렸다고 전했다. '시야운야명야' 자선 콘서트는 타이중에서 첫 단독 콘서트를 성공]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["헬멧 미착용 사고 처음 아냐"..안젤리나 졸리 子, 안전불감증 우려]]></title>
         <id>https://v.daum.net/v/20240731155024724</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240730183031872"/>
         <updated>2024-07-30T10:14:13.585Z</updated>
         <content type="html"><![CDATA[[TV리포트=변예진 기자] 일본 배우 구로다 유우키(黒田勇樹·42)가 두 번째 이혼 소식을 전했다. 30일 구로다 유우키는 "이혼"이라고 밝히며 "나는 그와 그녀가 좋은 일이 있기를 바란다"라고 덧붙였다. 구로다 유우키는 지난 2021년 자신의 블로그를 통해 "결혼했고, 아이가 있다"라며 재혼을 알렸다. 그의 아내는 배우 주주치즈루이다. 그러나 지난해 11]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[결혼 4개월 만 '파경'... 유명 女스타, 전남편 '월 5800만원' 요구 폭로]]></title>
-        <id>https://v.daum.net/v/20240730182031563</id>
-        <link href="https://v.daum.net/v/20240730182031563"/>
-        <updated>2024-07-30T10:14:13.586Z</updated>
-        <content type="html"><![CDATA[[TV리포트=변예진 기자] 배우 리옌진(Lin Yunxuan·39)이 결혼 4개월 만에 파경 사실을 폭로했다. 30일(현지 시간) 외신 매체 'star.setn'에 따르면 지난해 9월 리옌진은 런더롱(Ren Derong)과 혼인신고를 했으나, 4개월도 채 되지 않아 이혼했다. 당시 리옌진의 남편은 한 달에 30만 위안(한화 약 5,800만 원)을 요구했다.]]></content>
     </entry>
 </feed>
