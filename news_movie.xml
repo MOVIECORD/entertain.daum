@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2024-07-31T05:11:06.497Z</updated>
+    <updated>2024-07-31T06:15:00.632Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[투모로우바이투게더 VR 콘서트 '하이퍼포커스' 오늘 개봉]]></title>
+        <id>https://v.daum.net/v/20240731151351305</id>
+        <link href="https://v.daum.net/v/20240731151351305"/>
+        <updated>2024-07-31T06:14:38.379Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 | 김수진 기자]  사진 제공 =어메이즈VR 투모로우바이투게더를 코앞에서 만날 수 있는 VR 콘서트가 31일 개봉한다. 투모로우바이투게더(수빈, 연준, 범규, 태현, 휴닝카이)의 첫 번째 VR 콘서트 '하이퍼포커스 : 투모로우바이투게더 브이알 콘서트(HYPERFOCUS : TOMORROW X TOGETHER VR CONCERT, 이하 '하이퍼포]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[오사카 방적공장 취직한 10대 소녀들... "이게 민중의 역사"]]></title>
+        <id>https://v.daum.net/v/20240731141501238</id>
+        <link href="https://v.daum.net/v/20240731141501238"/>
+        <updated>2024-07-31T06:14:38.382Z</updated>
+        <content type="html"><![CDATA[[성하훈 기자] ▲ &nbsp;조선인 여공의 노래 한 장면ⓒ 시네마달 제공&nbsp; 일제가 한반도를 강점한 1910년 이후 오사카의 방직공장에 조선인 여성 노동자들이 하나둘 늘어나기 시작했다. 일제의 착취와 압박으로 피폐한 현실을 버티다 못해 살길을 찾아 어린 나이에 집을 떠나 일본으로 온 것이었다. 12세 어린 소녀부터 27세 정도의 여성들이었다고 하나 10대 소녀들이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['빅토리', 뉴진스 '디토'인 줄…세기말 아이템]]></title>
         <id>https://v.daum.net/v/20240731140710915</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240731115016664"/>
         <updated>2024-07-31T03:14:19.366Z</updated>
         <content type="html"><![CDATA[(엑스포츠뉴스 김유진 기자) 배우 조정석의 유쾌한 변신이 돋보이는 영화 '파일럿'(감독 김한결) 속에서는 유재석과 조세호, 이찬원까지 영화를 보는 또다른 재미를 더하는 신스틸러의 등장이 이어진다. tvN 예능 '유 퀴즈 온 더 블록'(이하 '유퀴즈')의 MC로 활약 중인 유재석과 조세호는 '파일럿'에서도 '유퀴즈'의 MC로 등장해 극 초반 관객들의 시선을]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['파일럿' 코미디만 있나? 소문난 잔칫집, 있을 것 다 있다]]></title>
-        <id>https://v.daum.net/v/20240731115009654</id>
-        <link href="https://v.daum.net/v/20240731115009654"/>
-        <updated>2024-07-31T03:14:19.368Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 윤현지 기자) 영화 '파일럿'(감독 김한결)이 시원한 웃음뿐만 아니라 감동, 가족애까지 모든 것을 담은 종합 선물 세트를 선사한다.&nbsp; 한정우는 탁월한 비행능력, 넓은 인맥, 깔끔한 자기관리 등을 두루 갖춘 스타 파일럿이다. '유 퀴즈 온 더 블럭'(유퀴즈) 같은 방송에도 출연하면서 SNS 팔로워와 좋아요는 급등, 스타 파일럿인지 인플루언서인지]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[웃고 또 울고 예쁘기까지...조정석, 넘치는 스펙트럼]]></title>
-        <id>https://v.daum.net/v/20240731115003650</id>
-        <link href="https://v.daum.net/v/20240731115003650"/>
-        <updated>2024-07-31T03:14:19.369Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 윤현지 기자) 배우 조정석이 영화 '파일럿'(감독 김한결)으로 연기 스펙트럼의 새로운 한 페이지를 작성했다.&nbsp; 2004년 뮤지컬 '호두까기 인형'으로 데뷔한 조정석은 '그리스', '헤드윅', '올슉업', '스프링 어웨이크닝' 등 공연계에서 남다른 두각을 드러냈다.&nbsp; 이어 2012년 '건축학개론'으로 스크린에 혜성같이 등장한 조정석은 납뜩이라는]]></content>
     </entry>
 </feed>
