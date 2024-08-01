@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2024-08-01T12:23:35.702Z</updated>
+    <updated>2024-08-01T13:16:31.314Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘제26회 서울국제여성영화제’ 22일 개막···홍보대사는 손수현]]></title>
+        <id>https://v.daum.net/v/20240801213602391</id>
+        <link href="https://v.daum.net/v/20240801213602391"/>
+        <updated>2024-08-01T13:16:11.227Z</updated>
+        <content type="html"><![CDATA[제26회 서울국제여성영화제’가 오는 22일 개막한다. 서울국제여성영화제 집행위원회는 1일 서울 마포중앙도서관에서 기자간담회를 열고 오는 22일부터 28일까지 CGV 연남, CGV 홍대, 씨네큐브 등지에서 축제를 연다고 알렸다. 올해의 슬로건은 ‘웃음의 쓸모’다. 웃음이 지닌 다양한 힘에 주목하는 한편, 그 힘을 바탕으로 끈질기게 걸어가는 모두를 응원한다는]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[그리운 푸바오… “극장에서 만나세요”]]></title>
         <id>https://v.daum.net/v/20240801211751042</id>
@@ -66,7 +73,7 @@
         <id>https://v.daum.net/v/20240801173714419</id>
         <link href="https://v.daum.net/v/20240801173714419"/>
         <updated>2024-08-01T09:12:05.231Z</updated>
-        <content type="html"><![CDATA[다음 달 12일까지 서울 마포구 복합문화공간 네버마인드 아트라운지에서 단편영화 축제 ‘네버마인드 썸머 페스타: 무비스파크 필름 페스티벌’(무비스파크)이 열린다. 네버마인드 아트라운지는 오는 2일 영화 ‘파묘’를 만든 장재현 감독의 단편 ‘12번째 보조사제’, 홍성윤 감독의 ‘그녀를 지우는 시간’, 박강 감독의 매몽을 상영한다고 1일 밝혔다. 상영작은 국내외]]></content>
+        <content type="html"><![CDATA[다음 달 12일까지 서울 마포구 복합문화공간 네버마인드 아트라운지에서 단편영화 축제 ‘네버마인드 썸머 페스타: 무비스파크 필름 페스티벌’(무비스파크)이 열린다. 네버마인드 아트라운지는 오는 2일 영화 ‘파묘’를 만든 장재현 감독의 단편 ‘12번째 보조사제’((2014), 홍성윤 감독의 ‘그녀를 지우는 시간’(2020), 박강 감독의 ‘매몽’(2019)을 상]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA['리볼버' 감독 "지창욱 업고 속초까지 달릴 정도로.." 연기 극찬]]></title>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240801165112681"/>
         <updated>2024-08-01T08:15:49.252Z</updated>
         <content type="html"><![CDATA[[스포츠조선 조지영 기자] 뮤즈 전도연의 손을 잡은, 배우 복 남다른 오승욱(61) 감독이 9년 만에 신작을 꺼냈다. 범죄 영화 '리볼버'(사나이픽처스 제작)를 연출한 오승욱 감독. 그가 1일 오후 서울 종로구 삼청동에서 스포츠조선과 만나 '리볼버'의 연출 계기부터 약속된 대가를 찾기 위해 거침없이 직진하는 하수영 역의 전도연, 약속 따위 안]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박성웅·곽시양·윤경호 웃음·액션 터진다…'필사의 추격' 2차 예고 공개]]></title>
-        <id>https://v.daum.net/v/20240801164600526</id>
-        <link href="https://v.daum.net/v/20240801164600526"/>
-        <updated>2024-08-01T08:15:49.253Z</updated>
-        <content type="html"><![CDATA[[이데일리 스타in 김보영 기자] 오는 8월 21일 개봉을 앞둔 올여름 대환장추격극 ‘필사의 추격’이 유쾌하고 시원한 액션을 담은 2차 예고편을 전격 공개했다. 상극 중에 상극인 사기꾼과 분노조절장애 형사, 그리고 조직 보스가 각자 다른 이유로 제주에 모이며 펼쳐지는 대환장 추격전을 그린 영화 ‘필사의 추격’이 1일 2차 예고편을 공개하며 작품에 대한 기]]></content>
     </entry>
 </feed>
