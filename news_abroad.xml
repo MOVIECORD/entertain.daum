@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2024-08-01T01:00:19.892Z</updated>
+    <updated>2024-08-01T02:12:17.773Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["나흘 전 결혼기념일이었는데"…캐나다 출신 배우, 22년 만에 파경]]></title>
+        <id>https://v.daum.net/v/20240801102208766</id>
+        <link href="https://v.daum.net/v/20240801102208766"/>
+        <updated>2024-08-01T02:12:17.075Z</updated>
+        <content type="html"><![CDATA[[티브이데일리 김종은 기자] 캐나다 출신 배우 캐머런 매디슨과 아내 바네사 메디슨이 결혼 22년 만에 이혼한다. 캐머런 매디슨, 바네사 메디슨 부부는 7월 31일(현지시간) 각자의 인스타그램 스토리를 통해 "22년의 결혼 생활 끝에, 우린 어려운 선택을 하게 됐다"라며 이혼 소식을 알렸다. 지난 27일 결혼 22주년을 맞은 두 사람은 결혼기념일 나흘 만에]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[MCU서 잘린 조나단 메이저스, 로다주 캐스팅 소식에 "마음 아파"]]></title>
         <id>https://v.daum.net/v/20240801092514932</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240731113201763"/>
         <updated>2024-07-31T03:14:38.756Z</updated>
         <content type="html"><![CDATA[[TV리포트=변예진 기자] 할리우드 배우 레오나르도 디카프리오(49)가 26세 모델 여자친구와 요트 데이트를 나섰다. 30일(현지시간) 미국 연예 매체 페이지식스(pagesix)에 따르면 레오나르도 디카프리오와 그의 여자친구 비토리아 세레티가 '스파이더맨' 토비 맥과이어(49)와 함께 요트를 타며 여유를 즐겼다. 디카프리오와 맥과이어는 어린 시절부터 절친한]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[중국서 보이콧 당한 안젤라 베이비, 드라마 복귀 청신호]]></title>
-        <id>https://v.daum.net/v/20240731111105815</id>
-        <link href="https://v.daum.net/v/20240731111105815"/>
-        <updated>2024-07-31T02:13:44.157Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 박수인 기자] 중국의 모델 겸 배우 안젤라 베이비가 드라마로 복귀할 수 있을까. 안젤라 베이비는 지난해 블랙핑크 리사가 출연한 19금 공연 '크레이지 호스 쇼'를 관람했다는 이유로 중국에서 보이콧을 당해 공식 활동이 제한된 바 있다. '크레이지 호스 쇼'는 프랑스의 유명 성인 쇼. 중국의 일부 누리꾼들은 안젤라 베이비가 음란하고 저속한 공연을]]></content>
     </entry>
 </feed>
