@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-08-01T08:16:08.968Z</updated>
+    <updated>2024-08-01T09:12:25.387Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['남의 연애3' 최종 선택→데이트 최초 공개…현실 커플은?]]></title>
+        <id>https://v.daum.net/v/20240801175905387</id>
+        <link href="https://v.daum.net/v/20240801175905387"/>
+        <updated>2024-08-01T09:12:10.005Z</updated>
+        <content type="html"><![CDATA[(사진=웨이브)[이데일리 스타in 최희재 기자] ‘남의 연애 시즌 3’가 최종회를 앞두고 있다. 2일 공개되는 웨이브 예능 ‘남의 연애 시즌 3’(이하 ‘남의 연애3’)에서는 한여름 밤의 꿈같았던 남의 집에서의 로맨스 여정을 마무리한다. 이날 남자들은 자신을 가장 설레게 했던 입주자에게 음성 메세지로 마음을 전하고, 남의 집을 떠난다. 남자들은 “이 사람]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[배우 이지훈, 와이원엔터 전속계약…류승범·황정음 한솥밥]]></title>
         <id>https://v.daum.net/v/20240801171103400</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240801154058978"/>
         <updated>2024-08-01T07:11:49.504Z</updated>
         <content type="html"><![CDATA[아이즈 ize 이덕행 기자 2024 파리 올림픽이 진행되는 8월 11일까지는 아무래도 관심이 분산되기 마련이다. 이는 OTT 역시 마찬가지다. 많은 작품들이 최초 공개를 올림픽 폐막 이후로 미뤘고, 그 결과 시청자들을 고민에 빠지게 만들 풍성한 라인업이 완성됐다.&nbsp;'마녀' 세계관 이어갈 '폭군' 디즈니+ 오리지널 '폭군'(연출·극본 박훈정)은 '폭군 프로그]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['낮밤녀' 살인 진범=배해선…이정은→최진혁, 실마리 잡았다]]></title>
-        <id>https://v.daum.net/v/20240801153138605</id>
-        <link href="https://v.daum.net/v/20240801153138605"/>
-        <updated>2024-08-01T07:11:49.505Z</updated>
-        <content type="html"><![CDATA['낮과 밤이 다른 그녀' 이정은, 정은지, 최진혁이 모두의 가슴속에 깊은 트라우마를 남긴 서한시 사건의 해결을 앞두고 있다. 로맨스부터 미스터리까지 알찬 재미로 꽉 채운 JTBC 토일드라마 ‘낮과 밤이 다른 그녀’(극본 박지하/ 연출 이형민, 최선민/ 제공 SLL/ 제작 삼화네트웍스)(이하 ‘낮밤녀’) 속 서한시 실종사건의 범인이 공기철(배해선)로 밝혀]]></content>
     </entry>
 </feed>
