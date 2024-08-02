@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2024-08-02T03:15:24.067Z</updated>
+    <updated>2024-08-02T04:15:12.977Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['금욕 생활' 요시키, 심각한 건강 악화... 결국 수술날짜 잡아]]></title>
+        <id>https://v.daum.net/v/20240802125530036</id>
+        <link href="https://v.daum.net/v/20240802125530036"/>
+        <updated>2024-08-02T04:15:12.330Z</updated>
+        <content type="html"><![CDATA[[TV리포트=정은비 기자] 일본의 밴드 ‘엑스 재팬’의 멤버 요시키가 세 번째 경추 수술을 받는다는 사실을 밝혔다. 1일 외신에 따르면 요시키는 기자회견에서 10월 8일 세 번째 경추 수술을 받는다는 사실을 발표했다. 그는 몸 상태가 월드 투어를 하는 동안 악화하여 귀국 직전 MRI 등 정밀 검사를 받았는데 의사가 즉시 수술을 받아야 한다고 진단했다고 전했]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[주드 로, '스타워즈' 세계관 공식 합류... 제다이 된다]]></title>
         <id>https://v.daum.net/v/20240802115334991</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240801145430035"/>
         <updated>2024-08-01T06:18:16.608Z</updated>
         <content type="html"><![CDATA[[TV리포트=한아름 기자] 마블 영화 '데드풀과 울버린'에 출연한 배우 크리스 에반스가 감동적인 출연 소감을 밝혀 영화 팬으로부터 큰 호응을 받고 있다. 캡틴 아메리카로 활동했던 그의 색다른 모습에 많은 이들이 열광하고 있다. 1일(현지 시간), 배우 크리스 에반스가 영화 '데드풀과 울버린' 주연 배우인 라이언 레이놀즈, 휴 잭맨, 감독 숀 레비와 함께 촬]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['헝거게임' 엘리자베스 뱅크스 "영화 촬영 중 질식할 뻔"]]></title>
-        <id>https://v.daum.net/v/20240801143844403</id>
-        <link href="https://v.daum.net/v/20240801143844403"/>
-        <updated>2024-08-01T06:18:16.609Z</updated>
-        <content type="html"><![CDATA[[TV리포트=한아름 기자] 영화 '헝거게임' 시리즈에 출연한 것으로 유명한 배우 엘리자베스 뱅크스(50)가 영화 촬영 중 질식할 뻔했던 경험을 공유하며 이목을 사로잡았다. 지난달 30일(현지 시간), 미국 ABC '굿모닝 아메리카'에 출연한 배우 엘리자베스 뱅크스가 신작 영화 '스킨케어'(Skincare) 촬영 현장에서 겪었던 위험한 경험을 털어놨다. 이날]]></content>
     </entry>
 </feed>
