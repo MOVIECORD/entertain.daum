@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-08-02T15:13:04.673Z</updated>
+    <updated>2024-08-02T16:15:33.798Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[최시원·정유진,  기-승-전 허그]]></title>
+        <id>https://v.daum.net/v/20240803001301357</id>
+        <link href="https://v.daum.net/v/20240803001301357"/>
+        <updated>2024-08-02T16:15:20.006Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 | 김수진 기자] TV CHOSUN 새 주말미니시리즈 'DNA 러버' 최시원과 정유진이 만나자마자 인사 생략 후 건넨 '급발진 포옹'으로 뜨거운 열기를 이끈다. 오는 17일 토요일 오후 9시 10분 첫 방송될 TV CHOSUN 새 주말미니시리즈 'DNA 러버'(극본 정수미, 연출 성치욱, 제작 하이그라운드, 아이피박스미디어, 팬엔터테인먼트)는]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김재중, '나쁜 기억 지우개' 수술 후 우울 탈출..진세연에 "내 첫사랑"]]></title>
         <id>https://v.daum.net/v/20240803000927294</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240802173040117"/>
         <updated>2024-08-02T09:13:47.760Z</updated>
         <content type="html"><![CDATA[[이데일리 스타in 김가영 기자] ‘선재 업고 튀어’로 전성기를 보내고 있는 배우 허형규가 성덕이 됐다. 2일 이데일리 취재결과 허형규는 오는 11일 포항 스틸야드에서 열리는 ‘2024 하나은행 K리그1’ 26라운드 포항 스틸러스와 FC서울 경기의 시축자로 나선다. 앞서 포항 출신 허형규는 연고팀인 포항 스틸러스에 대한 팬심을 여러차례 드러낸 바 있다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“난 기쁘거든, 네 연애 망해서” 김소현♥채종협 명장면 살펴보니]]></title>
-        <id>https://v.daum.net/v/20240802172411928</id>
-        <link href="https://v.daum.net/v/20240802172411928"/>
-        <updated>2024-08-02T09:13:47.760Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 김명미 기자] 김소현과 채종협이 시청자들의 마음까지 해동시키고 있다. tvN 월화드라마 ‘우연일까?’(연출 송현욱·정광식, 극본 박그로, 기획 스튜디오드래곤, 제작 아이오케이컴퍼니·베이스스토리, 원작 네이버웹툰 ‘우연일까?’(글 남지은, 그림 김인호))에 대한 반응이 뜨겁다. 굿데이터코퍼레이션 공식 플랫폼인 펀덱스(FUNdex)에서 발표한 결과에]]></content>
     </entry>
 </feed>
