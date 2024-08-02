@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2024-08-02T02:02:21.930Z</updated>
+    <updated>2024-08-02T03:15:24.067Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[주드 로, '스타워즈' 세계관 공식 합류... 제다이 된다]]></title>
+        <id>https://v.daum.net/v/20240802115334991</id>
+        <link href="https://v.daum.net/v/20240802115334991"/>
+        <updated>2024-08-02T03:15:23.228Z</updated>
+        <content type="html"><![CDATA[[TV리포트=유지호 기자] 주드 로(51)가 디즈니+의 새로운 스타워즈 드라마 '스타워즈: 스켈레톤 크루'(이하 '스켈레톤 크루')에서 조드 나 나우드 역할을 맡으며 스타워즈 세계관에 공식 합류한다. 1일(현지 시간) 외신 매체 피플(PEOPLE)과의 인터뷰에서 주드 로는 스타워즈에 참여한다는 소식과 함께 해당 드라마에 대한 내용을 밝혔다. '스켈레톤 크루]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“죽다 살아난 호크아이” 제레미 레너, “‘어벤져스:둠스데이’ 복귀할 것”]]></title>
         <id>https://v.daum.net/v/20240802105437512</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240801143844403"/>
         <updated>2024-08-01T06:18:16.609Z</updated>
         <content type="html"><![CDATA[[TV리포트=한아름 기자] 영화 '헝거게임' 시리즈에 출연한 것으로 유명한 배우 엘리자베스 뱅크스(50)가 영화 촬영 중 질식할 뻔했던 경험을 공유하며 이목을 사로잡았다. 지난달 30일(현지 시간), 미국 ABC '굿모닝 아메리카'에 출연한 배우 엘리자베스 뱅크스가 신작 영화 '스킨케어'(Skincare) 촬영 현장에서 겪었던 위험한 경험을 털어놨다. 이날]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연예계 큰 별 또 졌다... '유방암 재발' 女스타, 끝내 사망]]></title>
-        <id>https://v.daum.net/v/20240801143701328</id>
-        <link href="https://v.daum.net/v/20240801143701328"/>
-        <updated>2024-08-01T06:18:16.610Z</updated>
-        <content type="html"><![CDATA[[TV리포트=유지호 기자] 가수 겸 배우 소노 마리(본명: 소노베 마리코)가 세상을 떠났다는 사실이 알려져 팬들의 애도가 이어지고 있다. 1일(현지 시간) 일본 가수 협회는 소노 마리가&nbsp;7월 26일 급성 심부전으로 도쿄의 병원에서 사망했다고 발표했다. 향년 80세. 장례식은 고인의 뜻에 따라 가족들만 참석한 가운데 조용히 치러졌다. 소노 마리는 일본 가나가]]></content>
     </entry>
 </feed>
