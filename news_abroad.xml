@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2024-08-02T23:12:18.213Z</updated>
+    <updated>2024-08-03T00:54:52.680Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[테일러 스위프트♥트래비스 켈시 약혼, “반지 끼울 준비 됐다”]]></title>
+        <id>https://v.daum.net/v/20240803092203680</id>
+        <link href="https://v.daum.net/v/20240803092203680"/>
+        <updated>2024-08-03T00:54:51.968Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]세계적 가수 테일러 스위프트(34)와 미식 축구선수 트래비스 켈시(캔자스시티 치프스, 34)가 조만간 약혼할 예정이다. 한 관계자는 2일(현지시간) 페이지식스에 “켈시가 스위프트에게 무릎을 꿇고 두 사람의 미래에 대한 추측을 종식시킬 계획을 세우고 있다”면서 “약혼은 곧 이루어질 것이다”라고 말했다. 일각에선 두 사람이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['호크아이' 제레미 레너 "나도 '아이언맨' 로다주 살아날 줄 몰라"]]></title>
         <id>https://v.daum.net/v/20240802184001288</id>
@@ -95,12 +102,5 @@
         <link href="https://v.daum.net/v/20240802104830293"/>
         <updated>2024-08-02T02:02:21.285Z</updated>
         <content type="html"><![CDATA[[TV리포트=강나연 기자] 팝 가수 브리트니 스피어스의 회고록이 영화로 제작된다. 1일(현지 시간) 외신 매체 버라이어티 보도에 따르면 유니버설 픽처스가 팝 가수 브리트니 스피어스의 베스트셀러 회고록 'The Woman in Me'의 판권을 확보하고, '위키드'의 감독 존 M. 추와 프로듀서 마크 플랫과 함께 영화 제작에 착수했다. 브리트니 스피어스도 팬에]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[브리트니 스피어스 회고록 영화제작 확정, “저스틴 팀버레이크 낙태 강요도 다룰까”]]></title>
-        <id>https://v.daum.net/v/20240802082316024</id>
-        <link href="https://v.daum.net/v/20240802082316024"/>
-        <updated>2024-08-02T00:55:32.946Z</updated>
-        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]세계적 가수 브리트니 스피어스(42)의 회고록이 영화로 제작된다. 버라이어티는 1일(현지시간) “유니버설 픽처스가 브리트니 스피어스의 베스트셀러 회고록 '내 안의 여자'의 판권을 확보하고, '위키드'의 감독 존 M. 추와 프로듀서 마크 플랫과 함께 영화 제작에 착수했다”고 보도했다. 스피어스는 이날 소셜 미디어에 이 '비]]></content>
     </entry>
 </feed>
