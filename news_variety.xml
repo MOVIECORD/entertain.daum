@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/variety</id>
     <title>다음 연예 ─ 뉴스 ─ 예능</title>
-    <updated>2024-08-03T03:13:10.804Z</updated>
+    <updated>2024-08-03T04:15:13.167Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[최우식, '황금 인턴' 고민시 견제에 폭소...'유쾌 입담+장난기로 역할 톡톡']]></title>
+        <id>https://v.daum.net/v/20240803131007393</id>
+        <link href="https://v.daum.net/v/20240803131007393"/>
+        <updated>2024-08-03T04:15:04.368Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 김도형 기자] 최우식이 남다른 입담으로 '서진이네2' 재간둥이로서 활약을 뽐냈다. 지난 2일 방송된 '서진이네2' 6회에서는 문전성시를 이루는 손님들로 인해 분주한 와중 나날이 발전해가는 뚝배기즈들의 모습이 그려졌다. 서진뚝배기 4일 차 영업에 박서준이 메인 셰프로 재출격한 가운데, 긴 웨이팅 줄과 이로 인해 정신없는 주방과 홀의 문제를]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[덱스, 번아웃 고백 후 악플 세례... “유재석도 안 오는데” 수긍]]></title>
+        <id>https://v.daum.net/v/20240803121503093</id>
+        <link href="https://v.daum.net/v/20240803121503093"/>
+        <updated>2024-08-03T04:15:04.368Z</updated>
+        <content type="html"><![CDATA[덱스의 번아웃 고백과 유재석과의 대화가 재미를 더했다. 3일 유튜브 채널 ‘뜬뜬’에서 공개된 ‘더 존’ 에피소드에서는 유리, 덱스, 김동현이 등장해 많은 관심을 받았다. 특히 덱스의 번아웃 고백과 유재석과의 유쾌한 대화가 주목을 끌었다. 덱스는 번아웃을 겪었다고 털어놓으며, “너무 빠르게 번아웃이 왔다”라며 자신의 경험을 나눴다. 그는 단기간에 많은 경험을]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['금빛 찌른' 오상욱·구본길 '슈돌' 다시 본다..어펜져스 스페셜 확정]]></title>
         <id>https://v.daum.net/v/20240803120424043</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240803111702707"/>
         <updated>2024-08-03T02:36:40.930Z</updated>
         <content type="html"><![CDATA[[텐아시아=김지원 기자] tvN '놀라운 토요일'에 개그우먼 안영미, 배우 지예은이 출격한다. 3일 저녁 7시 40분 방송하는 '놀라운 토요일'에서는 안영미와 지예은이 도레미들과 유쾌한 받아쓰기를 펼친다. 뛰어난 예능감으로 무장한 두 사람의 활약이 안방극장에 시원한 웃음을 선사할 예정. 먼저 안영미는 남다른 분장 욕심을 드러내 눈길을 끈다. 과감한 분장]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[고민시 “정유미, 최우식보단 박서준…돈 가장 많이 벌 듯”]]></title>
-        <id>https://v.daum.net/v/20240803105806527</id>
-        <link href="https://v.daum.net/v/20240803105806527"/>
-        <updated>2024-08-03T02:00:18.196Z</updated>
-        <content type="html"><![CDATA[‘서진뚝배기’ 사장 이서진의 전략이 제대로 통했다. 어제(2일) 방송된 tvN ‘서진이네2(연출 나영석, 박현용)’ 6회에서는 이서진이 10분 간격으로 손님을 입장시키는 운영 방식을 도입, 서진뚝배기에 지금까지 본 적 없던 여유가 찾아와 재미를 선사했다. 이날 방송 시청률은 수도권 가구 기준 평균 8.6%, 최고 11.6% 전국 가구 기준 평균 7.7]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[태연, 안영미 가슴춤 췄다..충격적 데뷔 무대에 흥분]]></title>
-        <id>https://v.daum.net/v/20240803105252478</id>
-        <link href="https://v.daum.net/v/20240803105252478"/>
-        <updated>2024-08-03T02:00:18.196Z</updated>
-        <content type="html"><![CDATA[[OSEN=하수정 기자] tvN ‘놀라운 토요일’에 개그우먼 안영미, 배우 지예은이 출격한다. 오늘(3일) 저녁 7시 40분 방송하는 ‘놀라운 토요일’(이하 ‘놀토’)에서는 안영미와 지예은이 도레미들과 유쾌한 받아쓰기를 펼친다. 뛰어난 예능감으로 무장한 두 사람의 활약이 안방극장에 시원한 웃음을 선사할 예정. 먼저 안영미는 남다른 분장 욕심을 드러내 눈]]></content>
     </entry>
 </feed>
