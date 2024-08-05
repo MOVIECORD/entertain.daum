@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-08-05T14:11:55.620Z</updated>
+    <updated>2024-08-05T15:13:10.285Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김병철, 박주현 지키기 고군분투 활약 예고]]></title>
+        <id>https://v.daum.net/v/20240805234700267</id>
+        <link href="https://v.daum.net/v/20240805234700267"/>
+        <updated>2024-08-05T15:12:55.574Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 | 김수진 기자] 김병철이 예상을 뒤엎는 반전 행보로 시청자들의 추리 촉을 발동시킨다. 오는 14일 수요일 오후 9시 50분 첫 방송 되는 KBS 2TV 새 수목드라마 '완벽한 가족'(연출 유키사다 이사오/제작 빅토리콘텐츠/ⓒ함창석, 주은/대원씨아이)은 누가 봐도 행복하고 완벽해 보이는 가족이 딸의 살인으로 인해 점점 서로를 의심하게 되는 미]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김소현♥채종협 오늘부터 1일 “무르기 없기” 박력 키스 엔딩]]></title>
         <id>https://v.daum.net/v/20240805222507417</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240805173903330"/>
         <updated>2024-08-05T09:12:56.346Z</updated>
         <content type="html"><![CDATA[이정은이 ‘낮과 밤이 다른 그녀’를 통해 또 한 번 빛났다. 이정은은 지난 4일 종영한 JTBC 토일드라마 ‘낮과 밤이 다른 그녀’에서 낮과 밤에 각각 50대와 20대로 변하는 여주인공의 낮 분량인 임순 역을 맡아 능수능란한 표현력으로 호평 받았다. ‘낮과 밤이 다른 그녀’는 20대 이미진과 50대 임순 두 인물을 번갈아 바라보며 생각하게 하는 재미가 상당]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이병헌·공유·박서준·이진욱·박보영..카카오엔터 ★들, 올 하반기 OTT 큰 거 온다!]]></title>
-        <id>https://v.daum.net/v/20240805173332163</id>
-        <link href="https://v.daum.net/v/20240805173332163"/>
-        <updated>2024-08-05T09:12:56.346Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 | 한해선 기자] /사진=넷플릭스/사진=넷플릭스 올 하반기, 글로벌 유명세를 갖춘 톱 배우들이 신작으로 속속 돌아올 예정이라 관심이 모인다. 특히 이병헌, 공유, 박서준, 이진욱, 박보영 등 탄탄한 글로벌 인지도와 연기력을 탑재한 카카오엔터테인먼트 산하 배우들이 '오징어 게임' 시즌2와 '조명가게', '경성크리처' 시즌2 등 하반기 다양한 글로벌]]></content>
     </entry>
 </feed>
