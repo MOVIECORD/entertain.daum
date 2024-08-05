@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-08-05T11:11:39.578Z</updated>
+    <updated>2024-08-05T12:23:45.703Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["너 좋아했고 좋아해"…'우연일까?' 채종협, ♥김소현에 키스로 첫사랑 고백]]></title>
+        <id>https://v.daum.net/v/20240805205831130</id>
+        <link href="https://v.daum.net/v/20240805205831130"/>
+        <updated>2024-08-05T12:23:30.474Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 이이진 기자) '우연일까?' 채종협이 김소현에게 고백했다. 5일 방송된 tvN 월화드라마 '우연일까?' 5회에서는 강후영(채종협 분)이 이홍주(김소현)에게 키스한 모습이 그려졌다. 이날 강후영은 "난 기쁘거든? 네 연애가 망해서. 우리 이러고 있으니까 구덩이에 빠졌을 때 같다"라며 밝혔다. 이홍주는 "남의 지우고 싶은 과거 자꾸 들출래?"라며]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘낮밤녀’ 배해선, 두 얼굴의 살인마 여정 마침표 “뜻깊은 경험이었다”]]></title>
         <id>https://v.daum.net/v/20240805185645547</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240805170942245"/>
         <updated>2024-08-05T08:16:58.939Z</updated>
         <content type="html"><![CDATA[배우 조아람이 다채로운 3단 변화로 매력 만점 ‘성장캐’를 완성하고 있다. 조아람은 tvN 토일드라마 ‘감사합니다’(극본 최민호/ 연출 권영일, 주상규/ 기획 스튜디오드래곤/ 제작 필콘스튜디오)에서 JU건설 감사팀 직원 윤서진 역을 맡아 공과 사 구분이 철저한 ‘MZ 신입’의 모습부터 진정한 감사팀의 일원이 되어가는 변화된 모습까지 다양한 매력의 캐릭]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['이정은지'여서 가능했던 청춘과 노년에 건넨 위로와 응원]]></title>
-        <id>https://v.daum.net/v/20240805165024432</id>
-        <link href="https://v.daum.net/v/20240805165024432"/>
-        <updated>2024-08-05T08:16:58.941Z</updated>
-        <content type="html"><![CDATA[[엔터미디어=정덕현] "젊음이 싫었다. 젊어서 뭐든 할 수 있을 거라고 생각하지만 젊은 데도 할 수 없는 것이 많아서 난 차라리 젊음을 포기하고 싶었다. 그리고 난 진짜로 젊음을 잃고 나서야 알게 됐다. 나에게 젊음은 선물이었다는 걸. 당연하듯 가지고 있는 시간이 결코 영원하지 않다는 걸." JTBC 토일드라마 &lt;낮과 밤이 다른 그녀&gt;에서 이미진(정은지)과]]></content>
     </entry>
 </feed>
