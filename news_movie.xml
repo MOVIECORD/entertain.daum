@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2024-08-06T21:11:46.013Z</updated>
+    <updated>2024-08-06T22:12:20.356Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['파일럿' 일주일째 굳건한 1위…200만 돌파]]></title>
+        <id>https://v.daum.net/v/20240807071045791</id>
+        <link href="https://v.daum.net/v/20240807071045791"/>
+        <updated>2024-08-06T22:11:58.950Z</updated>
+        <content type="html"><![CDATA[(서울=뉴스1) 고승아 기자 = 영화 '파일럿'(감독 김한결)이 일주일째 박스오피스 1위를 기록했다. 7일 영화진흥위원회 영화관입장권 통합전산망 집계에 따르면 '파일럿'은 지난 6일 하루 동안 14만 4860명을 동원해 박스오피스 1위를 기록했다. 누적관객수는 204만 7202명이다. 지난달 31일 개봉한 '파일럿'은 첫날부터 박스오피스 정상에 오른 가]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[굳이 만든 새 길, ‘행복의 나라’]]></title>
+        <id>https://v.daum.net/v/20240807070429696</id>
+        <link href="https://v.daum.net/v/20240807070429696"/>
+        <updated>2024-08-06T22:11:58.953Z</updated>
+        <content type="html"><![CDATA[“‘서울의 봄’의 영향은 받지 않았어요. (그 영화가) 나오기도 전에 완성했고, 달라진 편집도 없었으니까요. 사건보단 그 사이에 숨겨진, 희생된 사람들의 이야기를, 특정 인물이 아닌 시대의 야만성·시대성을 담고자했어요. 그게 차별점이죠. -추창민 감독” 여러모로 아쉽다. 담은 건 많은데 닿는건 적고, 진지한듯 얕으며, 다른 길이지만 다른 감흥을 안기진 못한]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[임지연 “알 깨게 해준 ‘리볼버’…‘♥이도현’ 공개 연애 부담은 없죠”]]></title>
         <id>https://v.daum.net/v/20240807060207936</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240806193334198"/>
         <updated>2024-08-06T11:10:42.115Z</updated>
         <content type="html"><![CDATA[(서울=연합뉴스) 이영재 기자 = 1979년 10월 26일 저녁 서울 궁정동 안가(安家)에서 박정희 대통령을 총으로 암살한 인물이 김재규 당시 중앙정보부장이라는 역사적 사실은 모르는 사람이 거의 없다. 그러나 김재규의 부하 직원 몇 명도 사건에 연루돼 그와 함께 재판받고 처형됐다는 사실을 아는 사람은 많지 않다. 이들 중에는 중앙정보부장 수행비서관이던 박흥]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[홍상수♥김민희 ‘수유천’ 북미 개봉, 9년째 불륜에도 승승장구]]></title>
-        <id>https://v.daum.net/v/20240806192411057</id>
-        <link href="https://v.daum.net/v/20240806192411057"/>
-        <updated>2024-08-06T11:10:42.120Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 장예솔 기자] 홍상수 감독의 영화 '수유천'이 북미 개봉한다. 8월 5일(현지시간) 미국 매체 버라이어티에 따르면 홍상수 감독의 신작 '수유천'이 내년 북미 극장 개봉을 앞두고 있다. 영화 판권을 인수한 시네마 길드는 홍상수 감독의 전작인 '다른 나라에서'(2012)와 '지금은맞고그때는틀리다'(2015)를 함께 인수했다. '수유천'은 여자대학교]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["故이선균과 삼형제처럼"…조정석·유재명의 '행복의 나라' 추억]]></title>
-        <id>https://v.daum.net/v/20240806185022262</id>
-        <link href="https://v.daum.net/v/20240806185022262"/>
-        <updated>2024-08-06T10:13:54.459Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 김유진 기자) 조정석과 유재명이 '행복의 나라'를 함께 했던 동료인 故이선균을 추억했다. 6일 오후 서울 용산구 CGV용산아이파크몰에서 영화 '행복의 나라'(감독 추창민) 언론시사회가 열렸다. 이 자리에는 추창민 감독과 배우 조정석, 유재명이 참석했다. '행복의 나라'는 1979년 10월 26일, 상관의 명령에 의해 대통령 암살 사건에 연루된]]></content>
     </entry>
 </feed>
