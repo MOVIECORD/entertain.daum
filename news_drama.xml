@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-08-06T10:14:11.590Z</updated>
+    <updated>2024-08-06T11:11:02.590Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[고민시, 역대급 체중 감량에 뼈말라됐다…"온 몸에 한기 돌아"]]></title>
+        <id>https://v.daum.net/v/20240806200701868</id>
+        <link href="https://v.daum.net/v/20240806200701868"/>
+        <updated>2024-08-06T11:10:47.234Z</updated>
+        <content type="html"><![CDATA[[텐아시아=태유나 기자] 넷플릭스 시리즈 ‘아무도 없는 숲속에서’가 호기심을 자극하는 캐릭터 스틸을 공개했다. 6일 한여름 찾아온 수상한 손님으로 인해, 평온한 일상이 무너지고 걷잡을 수 없는 사건에 휘말리게 되는 사람들의 이야기를 그린 서스펜스 스릴러 ‘아무도 없는 숲속에서’가 캐릭터 스틸을 공개했다. 먼저 숲속에 자리한 펜션을 운영하고 있는 ‘영하]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[디즈니+, 수백억 대작에도 하락세…티빙은 토종 OTT 1위 굳히기]]></title>
+        <id>https://v.daum.net/v/20240806194817548</id>
+        <link href="https://v.daum.net/v/20240806194817548"/>
+        <updated>2024-08-06T11:10:47.236Z</updated>
+        <content type="html"><![CDATA[디즈니+ 로고[이데일리 스타in 최희재 기자] 글로벌 OTT(온라인 동영상 서비스) 디즈니+가 ‘무빙’ 이후 흥행작을 만들어내지 못하며 부진을 이어가고 있다. 6일 애플리케이션 분석 서비스 모바일인덱스에 따르면 디즈니+의 7월 월간 활성 이용자 수(MAU)는 249만명으로 6월(252만명) 대비 약 3만명 감소했다. 지난해 디즈니+는 배우 류승룡, 조인성]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[고욱, 신민아와 만난다..'손해 보기 싫어서' 출연 확정]]></title>
         <id>https://v.daum.net/v/20240806183805919</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240806165239254"/>
         <updated>2024-08-06T08:16:00.032Z</updated>
         <content type="html"><![CDATA[[뉴스엔 김명미 기자] 예수정이 드라마 ‘개소리’에 출연한다. 8월 6일 소속사 와이원엔터테인먼트는 “예수정 배우가 드라마 ‘개소리’에 출연한다. 관록의 배우들과 활력 넘치는 호흡을 맞추며 즐겁게 촬영했다. 많은 응원 부탁드린다”라고 소식을 전했다. 오는 9월 첫 방송 예정인 KBS 2TV 새 수목드라마 ‘개소리’(극본 변숙경 / 연출 김유진 / 제작 아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['굿파트너' 장나라X남지현, 더 진한 워맨스 예고 "서로 스며들 것"]]></title>
-        <id>https://v.daum.net/v/20240806163751604</id>
-        <link href="https://v.daum.net/v/20240806163751604"/>
-        <updated>2024-08-06T08:16:00.044Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 | 김나연 기자] 장나라 남지현 / 사진=SBS 굿파트너'굿파트너'의 장나라, 남지현이 세상 화끈한 이혼쇼를 예고했다. SBS 금토드라마 '굿파트너'(극본 최유나·연출 김가람)가 뜨거운 호평 속 화제의 중심에 섰다. 지극히 현실적인 에피소드, 사건을 바라보는 다양한 시선 속 생각의 여지를 남기는 이야기가 시청자들의 과몰입을 유발하고 있는 것.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김무준, 日 ‘블랙페앙2’서 풍부한 감정 연기…시청률 순항 중]]></title>
-        <id>https://v.daum.net/v/20240806163500437</id>
-        <link href="https://v.daum.net/v/20240806163500437"/>
-        <updated>2024-08-06T08:16:00.047Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 김명미 기자] 배우 김무준이 출연하고 있는 '블랙페앙2'가 일본에서 인기리에 방송 중이다. 일본 TBS에서 방영하고 있는 ‘블랙페앙2'은 ‘가이도 다케루’의 소설을 원작으로 의료와 돈 그리고 혁명을 둘러싼 초대작 메디컬 드라마다. 김무준은 ‘블랙페앙2’에서 엘리트 인턴 의사 박민재 역을 맡아 일본 아이돌 ‘아라시’ 멤버인 니노미야 카즈나리, ‘롯]]></content>
     </entry>
 </feed>

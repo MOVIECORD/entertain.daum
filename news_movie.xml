@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2024-08-06T10:14:11.578Z</updated>
+    <updated>2024-08-06T11:11:02.584Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[대한민국 격동 한복판 10·26 재판 속으로…영화 '행복의 나라']]></title>
+        <id>https://v.daum.net/v/20240806193334198</id>
+        <link href="https://v.daum.net/v/20240806193334198"/>
+        <updated>2024-08-06T11:10:42.115Z</updated>
+        <content type="html"><![CDATA[(서울=연합뉴스) 이영재 기자 = 1979년 10월 26일 저녁 서울 궁정동 안가(安家)에서 박정희 대통령을 총으로 암살한 인물이 김재규 당시 중앙정보부장이라는 역사적 사실은 모르는 사람이 거의 없다. 그러나 김재규의 부하 직원 몇 명도 사건에 연루돼 그와 함께 재판받고 처형됐다는 사실을 아는 사람은 많지 않다. 이들 중에는 중앙정보부장 수행비서관이던 박흥]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[홍상수♥김민희 ‘수유천’ 북미 개봉, 9년째 불륜에도 승승장구]]></title>
+        <id>https://v.daum.net/v/20240806192411057</id>
+        <link href="https://v.daum.net/v/20240806192411057"/>
+        <updated>2024-08-06T11:10:42.120Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 장예솔 기자] 홍상수 감독의 영화 '수유천'이 북미 개봉한다. 8월 5일(현지시간) 미국 매체 버라이어티에 따르면 홍상수 감독의 신작 '수유천'이 내년 북미 극장 개봉을 앞두고 있다. 영화 판권을 인수한 시네마 길드는 홍상수 감독의 전작인 '다른 나라에서'(2012)와 '지금은맞고그때는틀리다'(2015)를 함께 인수했다. '수유천'은 여자대학교]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["故이선균과 삼형제처럼"…조정석·유재명의 '행복의 나라' 추억]]></title>
         <id>https://v.daum.net/v/20240806185022262</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240806173949092"/>
         <updated>2024-08-06T09:13:14.718Z</updated>
         <content type="html"><![CDATA[“시나리오 보면서 저 같아도 그럴 수 있을 거라 생각했습니다. 더하면 더했지.”(조정석) 배우 조정석이 분노 연기로 깊은 울림을 빚어냈다. 올여름 그의 두 번째 영화 ‘행복의 나라’에선 시대의 불의에 맞선 변호사로 분해 1979년 소시민을 대변했다. 6일 오후 서울 용산구 CGV용산아이파크몰에서는 영화 ‘행복의 나라’ 언론시사회 및 기자간담회가 열렸다]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘서봄’과 달라요.. 혼돈의 故이선균 유작 ‘행복의 나라’]]></title>
-        <id>https://v.daum.net/v/20240806173903068</id>
-        <link href="https://v.daum.net/v/20240806173903068"/>
-        <updated>2024-08-06T09:13:14.720Z</updated>
-        <content type="html"><![CDATA[추창민 감독은 6일 오후 서울 용산CGV에서 열린 영화 ‘행복의 나라’(감독 추창민) 언론시사회 및 기자간담회에서 ‘서울의 봄’이 나오기 전에 이미 편집을 마쳤고, 그 사이 편집 방향이 달라진 부분은 전혀 없다”고 운을 뗐다. 영화는 1979년 10월 26일, 상관의 명령에 의해 대통령 암살 사건에 연루된 ‘박태주’와 그의 변호를 맡으며 대한민국 최악의 정]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['행복의 나라' 시대의 야만성에 대한 또 다른 외침]]></title>
-        <id>https://v.daum.net/v/20240806173803034</id>
-        <link href="https://v.daum.net/v/20240806173803034"/>
-        <updated>2024-08-06T09:13:14.722Z</updated>
-        <content type="html"><![CDATA[6일 언론시사회를 통해 베일을 벗은 영화 '행복의 나라'는 확실히 '서울의 봄'과 달랐다. '서울의 봄'이 사건을 흥미진진하게 구성해 천만 관객들의 이목을 끌었다면, '행복의 나라'는 10.26 대통령 암살 사건과 12.12 군사 반란을 관통하는 '재판'을 주요 소재로 삼고 인물의 감정선에 몰입하게끔 만든다. '행복의 나라'는 대통령 암살 사건 발생 시점부]]></content>
     </entry>
 </feed>
