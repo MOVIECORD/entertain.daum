@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2024-08-09T16:15:43.805Z</updated>
+    <updated>2024-08-09T17:12:07.857Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[중년 비만의 늪 탈출법 소개]]></title>
+        <id>https://v.daum.net/v/20240810014214512</id>
+        <link href="https://v.daum.net/v/20240810014214512"/>
+        <updated>2024-08-09T17:12:02.249Z</updated>
+        <content type="html"><![CDATA[나이가 들수록 근육은 빠지고 기초대사량은 줄면서 살찌기 쉬운 체질로 바뀐다. 강원 평창군에 사는 이용희 씨(67)는 과거 극단적인 다이어트로 요로결석이 생겼다. 하지만 귀촌 후건강을 되찾고 20kg을 감량했다. 중년 비만의 늪에서 빠져나올 수 있는 방법을 소개한다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['모친상' 유재환 "그저 빈소 많이 찾아주시길…마지막 효도 기회 달라"]]></title>
         <id>https://v.daum.net/v/20240810005933189</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240810002130793"/>
         <updated>2024-08-09T16:15:38.175Z</updated>
         <content type="html"><![CDATA[[스포츠서울 | 박효실 기자] 정극 연기와 ‘SNL코리아’까지 종횡무진 누비는 MZ 배우 윤가이가 타로 점으로 즐거움을 안겼다. 9일 방송된 MBC ‘나 혼자 산다’에서 혼자 산 지 4년된 윤가이가 출연했다. 요즘 들어 과소비를 하는 것 같다고 스스로 진단한 윤가이는 초심을 기억하겠다며 현금지급기에서 1만원을 뽑아 들고 하루를 시작했다. 망원시장의 단]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박나래, 진짜 결혼하나 "내년 임신운"…전현무 점괘는 '파산']]></title>
-        <id>https://v.daum.net/v/20240810001442706</id>
-        <link href="https://v.daum.net/v/20240810001442706"/>
-        <updated>2024-08-09T16:15:38.177Z</updated>
-        <content type="html"><![CDATA[[마이데일리 = 김지우 기자] 배우 윤가이가 박나래, 전현무의 연애운을 점쳤다. 9일 방송된 MBC '나 혼자 산다'에서는 윤가이의 하루가 그려졌다. 이날 오후 윤가이는 남동생을 만났다. 윤가이는 "동생이 전문적으로 타로 리딩 하는 일을 한다"며 "어머니도 타로를 볼 줄 안다. 저도 20살 때부터 타로를 배워서 취미로 하고 있다"고 소개했다. 이후 윤]]></content>
     </entry>
 </feed>
