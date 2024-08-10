@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-08-10T15:12:40.320Z</updated>
+    <updated>2024-08-10T16:15:13.868Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['가족X멜로' 지진희X김지수X손나은, 첫 방부터 '완벽 케미'…기대되는 新 가족극]]></title>
+        <id>https://v.daum.net/v/20240811010238050</id>
+        <link href="https://v.daum.net/v/20240811010238050"/>
+        <updated>2024-08-10T16:15:01.163Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 이이진 기자) '가족X멜로' 김지수가 죽은 줄 알았던 지진희와 재회했다. 10일 첫 방송된 JTBC 토일드라마 '가족X멜로' 1회에서는 금애연{김지수 분)이 변무진(지진희)을 위해 제사를 지내는 모습이 그려졌다. 이날 변미래는 회사에서 과로로 쓰러졌고, 의식을 잃은 채 남태평(최민호)의 등에 업혀 병원으로 옮겨졌다. 변미래는 '평범한 4년 차]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['11년 전 사망' 지진희, 전처 김지수 집주인 됐다]]></title>
         <id>https://v.daum.net/v/20240811001026767</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240810222904060"/>
         <updated>2024-08-10T14:11:11.677Z</updated>
         <content type="html"><![CDATA[[OSEN=오세진 기자] ‘감사합니다’ 신하균이 비자금 실소유주이자 이도엽 살해범을 잡았으나 죽음의 위기에 처했다. 10일 방영한 tvN 토일드라마 ‘감사합니다’(극본 최민호/ 연출 권영일, 주상규/ 기획 스튜디오드래곤/ 제작 필콘스튜디오)에서는 황건웅(이도엽 분)이 갑작스럽게 사망하면서, 비자금 조성을 하고 있던 실소유주가 누구인지 찾아내는 마지막 과]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[신하균 목숨 위기…비자금 실소유주는 정문성이었다]]></title>
-        <id>https://v.daum.net/v/20240810222600032</id>
-        <link href="https://v.daum.net/v/20240810222600032"/>
-        <updated>2024-08-10T14:11:11.678Z</updated>
-        <content type="html"><![CDATA[[TV리포트=남금주 기자] '감사합니다' 신하균이 위기에 처했다. 범인은 정문성이었다. 10일 방송된 tvN 토일드라마 '감사합니다' 11회에서는 신차일(신하균 분)이 황건웅(이도엽)의 죽음을 의심하는 모습이 그려졌다. 이날 신차일은 황건웅의 사망 후 방기호(정동환)를 만났다. 신차일은 황건웅이 쓰러진 후에도 페이퍼컴퍼니가 계속 돌아갔고, 비자금도 조성됐다]]></content>
     </entry>
 </feed>
