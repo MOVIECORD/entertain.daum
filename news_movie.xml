@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2024-08-10T22:12:17.232Z</updated>
+    <updated>2024-08-10T23:12:11.527Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["쇼! 끝은 없는 거야"..'빅토리', 세기말에서 보내는 응원가]]></title>
+        <id>https://v.daum.net/v/20240811080701992</id>
+        <link href="https://v.daum.net/v/20240811080701992"/>
+        <updated>2024-08-10T23:11:55.004Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 | 김나연 기자] 사진=영화 '빅토리' 스틸컷삶을 살아내는 모두가 주인공이고, 누구나 응원받을 자격이 있다. 나와 너, 그리고 우리를 향해 세기말에서 보내는 응원가. 익숙한 노래와 힘찬 치어리딩으로 모두에게 힘찬 에너지와 응원을 전달하는 영화 '빅토리'다. '빅토리'는 1999년 대한민국의 남쪽 끝 거제도를 배경으로 오직 열정만큼은 충만한 생]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['라이온 킹'이 돌아온다···'무파사' 티저 포스터·예고편 공개]]></title>
         <id>https://v.daum.net/v/20240811060032566</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240810164624923"/>
         <updated>2024-08-10T08:14:59.628Z</updated>
         <content type="html"><![CDATA[(서울=뉴스1) 정유진 기자 = 디즈니 라이브 액션 영화 '백설공주'(감독 마크 웹)가 2025년 3월 개봉을 확정했다. 월트디즈니 컴퍼니 코리아는 10일 이같이 알리며 '백설공주'의 티저 포스터와 티저 예고편을 최초 공개했다. 공개된 티저 포스터는 신비롭고 황홀한 분위기의 비주얼로 시선을 사로잡는다. 눈이 부시게 아름다운 숲속에서 신비로운 분위기를 자]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[사랑스러운 백설공주 레이첼 지글러…‘백설공주’ 티저 포스터·예고편 최초 공개]]></title>
-        <id>https://v.daum.net/v/20240810161200686</id>
-        <link href="https://v.daum.net/v/20240810161200686"/>
-        <updated>2024-08-10T08:14:59.628Z</updated>
-        <content type="html"><![CDATA[2025년을 화려하게 장식할 디즈니 라이브 액션 ‘백설공주’ 가 2025년 3월 개봉 확정과 함께 티저 포스터와 티저 예고편을 최초 공개했다. 모두의 기다림 끝에 마침내 공개된 티저 포스터는 신비롭고 황홀한 분위기의 비주얼로 시선을 사로잡는다. 눈이 부시게 아름다운 숲속에서 신비로운 분위기를 자아내는 ‘백설공주’의 모습은 앞으로 펼쳐질 영화 속 스토리에 대]]></content>
     </entry>
 </feed>
