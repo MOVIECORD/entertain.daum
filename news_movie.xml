@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2024-08-11T13:13:53.182Z</updated>
+    <updated>2024-08-11T14:12:05.153Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[애니메이션 ‘사랑의 하츄핑’ 박스오피스 2위]]></title>
+        <id>https://v.daum.net/v/20240811225014332</id>
+        <link href="https://v.daum.net/v/20240811225014332"/>
+        <updated>2024-08-11T14:11:45.257Z</updated>
+        <content type="html"><![CDATA[하츄핑 애니메이션 영화 ‘사랑의 하츄핑’이 박스오피스 2위를 유지하며 개봉 5일째 35만명을 돌파했다. 11일 영화관입장권&nbsp;통합전산망에 따르면 7일 개봉한&nbsp;‘사랑의 하츄핑’은&nbsp;이날 오전 7시 기준 누적 관객수 35만6707명을 기록했다. 개봉 5일째를 맞이하자마자 35만 관객을 돌파하며 극장가 복병으로 떠오른 영화는 2011년 7월 28일 개봉 후 4]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“믿고 보는 조정석 코미디”… ‘파일럿’ 300만 관객 돌파]]></title>
         <id>https://v.daum.net/v/20240811212028319</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240811174041617"/>
         <updated>2024-08-11T09:12:35.827Z</updated>
         <content type="html"><![CDATA['행복의 나라' 배우 유재명이 세상을 떠난 동료 故 이선균을 떠올리며 그의 연기력을 주목해달라고 당부했다. 지난 8일 유재명은 서울 종로구에 위치한 한 카페에서 본지와 만나 영화 '행복의 나라' 관련 이야기를 나눴다. '행복의 나라'는 1979년 10월 26일, 상관의 명령에 의해 대통령 암살 사건에 연루된 박태주와 그의 변호를 맡으며 대한민국 최악의 정]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[故이선균 유작 ‘행복의 나라’ 전체 예매율 1위]]></title>
-        <id>https://v.daum.net/v/20240811174007611</id>
-        <link href="https://v.daum.net/v/20240811174007611"/>
-        <updated>2024-08-11T09:12:35.833Z</updated>
-        <content type="html"><![CDATA[[티브이데일리 김지현 기자] 조정석, 故이선균, 유재명 주연의 '행복의 나라'가 개봉을 3일 앞두고 전체 예매율 1위에 등극했다. 11일 영화진흥위원회 통합전산망 집계에 따르면, 이날 오후 1시 기준 영화 '행복의 나라'(감독 추창민)가 전체 예매율 1위를 차지하는 기염을 토했다. 오는 14일 개봉하는 ‘행복의 나라’는 1979년 10월 26일, 상관의 명]]></content>
     </entry>
 </feed>
