@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2024-08-11T19:11:35.583Z</updated>
+    <updated>2024-08-11T20:12:57.822Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['데드풀과 울버린' 매출 10억달러 돌파…R등급 역대 두 번째]]></title>
+        <id>https://v.daum.net/v/20240812044047874</id>
+        <link href="https://v.daum.net/v/20240812044047874"/>
+        <updated>2024-08-11T20:12:41.175Z</updated>
+        <content type="html"><![CDATA[(샌프란시스코=연합뉴스) 김태종 특파원 = 할리우드 마블 스튜디오의 신작 '데드풀과 울버린'이 개봉 3주 만에 수입 10억 달러를 돌파했다. 11일(현지시간) 영화 흥행 집계 전문업체인 '이그지비터 릴레이션스'에 따르면 '데드풀과 울버린'은  지난달 24일 한국을 포함해 전 세계적으로 개봉한 지 3주 만에 10억2천900만 달러의 매출을 기록했다. 북미에]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘리볼버’ 임지연 “내려놓는 연기, 큰 용기 필요했다”]]></title>
         <id>https://v.daum.net/v/20240812040305658</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240811193013480"/>
         <updated>2024-08-11T11:09:57.836Z</updated>
         <content type="html"><![CDATA[[마이데일리 = 강다윤 기자] 영화 '파일럿'(감독 김한결)이 300만 관객을 돌파했다. '파일럿'은 스타 파일럿에서 하루아침에 실직자가 된 한정우(조정석)가 파격 변신 이후 재취업에 성공하며 벌어지는 코미디. 개봉 12일째인 11일 300만 관객을 돌파, 올여름 최고의 흥행영화로 등극하며 2024년 한국영화 박스오피스 3위에 올랐다. 2024년 여름]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[전도연∙임지연 이긴 '하츄핑']]></title>
-        <id>https://v.daum.net/v/20240811175324796</id>
-        <link href="https://v.daum.net/v/20240811175324796"/>
-        <updated>2024-08-11T09:12:35.815Z</updated>
-        <content type="html"><![CDATA[[OSEN=최이정 기자] '하츄핑'의 선전이 눈에 띈다. '캐치! 티니핑'&nbsp;첫 번째 영화 '사랑의&nbsp;하츄핑'(감독 김수훈)의 주말 흥행 포텐이 터지면서 개봉 5일째 35만 관객을 돌파했다. 영화관입장권 통합전산망 기준 10일 '사랑의 하츄핑'은 전국&nbsp;12만 1,519명의 관객을 동원, 조정석 주연 '파일럿'에 이어 박스오피스 2위를 차지했다.&nbsp;누적관객수는]]></content>
     </entry>
 </feed>
