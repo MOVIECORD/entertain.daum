@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-08-11T10:12:58.487Z</updated>
+    <updated>2024-08-11T11:10:18.498Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김명민, 사고로 아들 잃었다…헤아릴 수 없는 슬픔, 허망한 얼굴]]></title>
+        <id>https://v.daum.net/v/20240811191602302</id>
+        <link href="https://v.daum.net/v/20240811191602302"/>
+        <updated>2024-08-11T11:10:03.232Z</updated>
+        <content type="html"><![CDATA[[텐아시아=태유나 기자]아들의 죽음에 진실을 쫓는 김명민의 서늘한 추적이 시작된다. 첫 방송을 하루 앞두고 있는 지니 TV 오리지널 드라마 ‘유어 아너’에서는 무소불위의 권력자 김강헌(김명민 분)의 숨 막히는 진실 추적기가 그려진다. 한 도시를 세울 만큼의 막강한 부와 권력을 가진 우원그룹의 회장 김강헌은 대대로 이어받은 힘과 냉철한 수완으로 모든 것을]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘감사합니다’ 오늘 종영… 신하균→이정하 “쥐새끼 잡을 수 있을지 마지막까지 기대” 종영소감]]></title>
         <id>https://v.daum.net/v/20240811182748467</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240811145126226"/>
         <updated>2024-08-11T06:17:18.330Z</updated>
         <content type="html"><![CDATA[[스타뉴스 | 이승훈 기자] /사진=스튜디오지니 아들의 죽음에 진실을 쫓는 김명민의 서늘한 추적이 시작된다. 첫 방송을 하루 앞두고 있는 지니 TV 오리지널 드라마 '유어 아너'에서는 무소불위의 권력자 김강헌(김명민 분)의 숨 막히는 진실 추적기가 그려진다. 한 도시를 세울 만큼의 막강한 부와 권력을 가진 우원그룹의 회장 김강헌은 대대로 이어받은 힘과]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[종영 '감사합니다' 신하균 "JU건설, 진짜 쥐새끼 잡을지 기대해 달라"]]></title>
-        <id>https://v.daum.net/v/20240811145017192</id>
-        <link href="https://v.daum.net/v/20240811145017192"/>
-        <updated>2024-08-11T06:17:18.333Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 | 한해선 기자] /사진=tvN 신하균, 이정하, 진구, 조아람의 비리 척결 프로젝트가 막을 내린다. 11일 종영을 앞둔 tvN 토일드라마 '감사합니다'(극본 최민호/ 연출 권영일, 주상규/ 기획 스튜디오드래곤/ 제작 필콘스튜디오)에서 열연 중인 배우들이 애정 가득한 종영 소감과 함께 끝까지 놓칠 수 없는 관전 포인트를 공개해 기대감을 높이고]]></content>
     </entry>
 </feed>
