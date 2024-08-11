@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2024-08-11T21:13:46.442Z</updated>
+    <updated>2024-08-11T22:13:02.399Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[조정석의 힘…‘파일럿’ 300만 돌파]]></title>
+        <id>https://v.daum.net/v/20240812071207969</id>
+        <link href="https://v.daum.net/v/20240812071207969"/>
+        <updated>2024-08-11T22:12:45.385Z</updated>
+        <content type="html"><![CDATA[배우 조정석이 주연을 맡은 영화 ‘파일럿’이 개봉 2주째 주말에 300만 고지를 밟았다. 영화관입장권통합전산망에 따르면 ‘파일럿’은 10∼11일, 주말 이틀 간 약 57만 관객을 동원해 박스오피스 1위 자리를 굳게 지켰다. 누적 관객수는 302만9270명. 애니메이션 ‘사랑의 하츄핑’이 방학 특수를 누리며 2위에 올랐다. 같은 기간 23만 명을 모]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[조아람, ‘감사’는 신입이지만 ‘춤바람’은 경력직…‘빅토리’ 영화 데뷔]]></title>
+        <id>https://v.daum.net/v/20240812061508314</id>
+        <link href="https://v.daum.net/v/20240812061508314"/>
+        <updated>2024-08-11T22:12:45.386Z</updated>
+        <content type="html"><![CDATA[‘감사합니다’에서 활약해온 신예 조아람이 ‘빅토리’로 스크린 데뷔한다. tvN 드라마 ‘감사합니다’에서 신스틸러 조연으로 출연한 조아람은 횡령, 비리, 사건 사고가 끊이지 않는 JU건설 감사팀에서 명석하고 꼼꼼한 엘리트 신입사원 윤서진을 열연했다. 언제나 진중한 눈빛으로 신차일(신하균)을 비롯한 감사팀원들과 함께한 윤서진은 어리바리한 입사 동기 구한수(]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘리볼버’ 찍먹 이정재, ‘애콜라이트’ 이어 ‘오징어게임2’로 ‘월클백’]]></title>
         <id>https://v.daum.net/v/20240812061003246</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240811202822438"/>
         <updated>2024-08-11T12:20:44.300Z</updated>
         <content type="html"><![CDATA[시원한 웃음과 짜릿한 공감의 코미디로 짜릿한 흥행 순항을 이어가고 있는 영화 '파일럿'이 개봉 12일째인 8월 11일(일) 300만 관객을 돌파했다. [제공: 롯데엔터테인먼트, 쏠레어파트너스(유) | 배급: 롯데엔터테인먼트 | 제작: 쇼트케이크, 무비락 | 감독: 김한결 | 출연: 조정석, 이주명, 한선화, 신승호 외] 올여름 최고의 흥행 코미디 '파일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[故이선균 유작 '행복의 나라', '사랑의 하츄핑' 제치고 예매율 1위 등극]]></title>
-        <id>https://v.daum.net/v/20240811202805432</id>
-        <link href="https://v.daum.net/v/20240811202805432"/>
-        <updated>2024-08-11T12:20:44.302Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 윤현지 기자) 영화 '행복의 나라'(감독 추창민)가 개봉을 앞두고 전체 예매율 1위에 올랐다. '행복의 나라'는 1979년 10월 26일, 상관의 명령에 의해 대통령 암살 사건에 연루된 박태주와 그의 변호를 맡으며 대한민국 최악의 정치 재판에 뛰어든 변호사 정인후의 이야기를 그린 영화.&nbsp; 영화관입장권 통합전산망에 따르면 '행복의 나라'가 11]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["코미디는 조정석"…'파일럿' 300만 관객 돌파, 올여름 최고 흥행]]></title>
-        <id>https://v.daum.net/v/20240811201945300</id>
-        <link href="https://v.daum.net/v/20240811201945300"/>
-        <updated>2024-08-11T12:20:44.303Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 윤현지 기자) 영화 '파일럿'(감독 김한결)이 개봉 12일 만에 300만 관객을 돌파했다. '파일럿'이 300만 관객을 돌파했다. 이로서 '파일럿'은 올여름 최고의 흥행영화로 등극했으며, 2024년 한국영화 박스오피스 3위에 올랐다.&nbsp; '파일럿'은 2024년 여름 개봉 영화 중 최단 시간 손익분기점 돌파, 11일 연속 박스오피스 1위에 오른]]></content>
     </entry>
 </feed>
