@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-08-11T11:10:18.498Z</updated>
+    <updated>2024-08-11T12:21:04.614Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[신하균, 의식 잃고 충격엔딩…마지막 감사의 끝은?]]></title>
+        <id>https://v.daum.net/v/20240811211904298</id>
+        <link href="https://v.daum.net/v/20240811211904298"/>
+        <updated>2024-08-11T12:20:48.972Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 강다윤 기자] 배우 신하균이 케이블채널 tvN 토일드라마 '감사합니다'에서 한시도 눈을 뗄 수 없게 만드는 열연을 펼치고 있다. 10일 방송된 '감사합니다' 11회에서는 JU건설을 오랫동안 갉아먹어 온 거대 쥐새끼를 찾아내기 위해 질주하는 감사팀장 신차일(신하균)의 모습이 담겼다. 그는 비자금의 행방과 함께 비자금의 시작인 사장 황건웅(이]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘스캔들’ 2주 만에 돌아온다...사건 쟁점+인물 되짚기...‘파격 전개 가동’]]></title>
+        <id>https://v.daum.net/v/20240811203006455</id>
+        <link href="https://v.daum.net/v/20240811203006455"/>
+        <updated>2024-08-11T12:20:48.974Z</updated>
+        <content type="html"><![CDATA[2주 만에 안방극장으로 돌아오는 ‘스캔들’이 파격적인 전개를 본격 가동한다. KBS 2TV 일일드라마 ‘스캔들’은 세상을 가지고 싶었던 여자와 복수를 위해 모든 것을 건 또 한 명의 여자가 벌이는 미스터리 격정 멜로를 다룬 작품이다. 현재 30회까지 방송된 ‘스캔들’은 ‘포커페이스’ 제작사 대표 문정인(한채영 분)과 작가 박진경(한보름 분), 배우 정우진(]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김명민, 사고로 아들 잃었다…헤아릴 수 없는 슬픔, 허망한 얼굴]]></title>
         <id>https://v.daum.net/v/20240811191602302</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240811150104360"/>
         <updated>2024-08-11T06:17:18.329Z</updated>
         <content type="html"><![CDATA[[스타뉴스 | 한해선 기자] /사진=KBS 임수향과 지현우가 포장마차에서 데이트를 한다. 11일 밤 9시 방송되는 KBS 2TV 주말드라마 '미녀와 순정남'(극본 김사경/ 연출 홍석구, 홍은미/ 제작 래몽래인) 38회에서는 김지영(임수향 분)과 고필승(지현우 분)이 기억 되찾기에 돌입한다. 앞서 모든 게 걱정된 지영은 감독이자 제작사 대표인 필승을 만나]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[윤상현, 4년 만에 돌아왔는데 수상해..사람 홀리는 묘한 힘]]></title>
-        <id>https://v.daum.net/v/20240811145719295</id>
-        <link href="https://v.daum.net/v/20240811145719295"/>
-        <updated>2024-08-11T06:17:18.330Z</updated>
-        <content type="html"><![CDATA[[OSEN=장우영 기자] 배우 윤상현이 '완벽한 가족'에서 과몰입 유발러로 활약한다. 오는 14일 밤 9시 50분 첫 방송 되는 KBS2 새 수목드라마 ‘완벽한 가족’(연출 유키사다 이사오)은 비밀 병기 윤상현(최현민 역)의 스틸을 공개하며 보는 이들의 엔도르핀을 상승시켰다. 공개된 스틸 속 윤상현의 시선을 따라가게 만드는 진지함과 웃음을 오가는 표정과]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김명민, 교도소 출소→子 죽음 진실 찾는다..무자비 복수 예고]]></title>
-        <id>https://v.daum.net/v/20240811145126226</id>
-        <link href="https://v.daum.net/v/20240811145126226"/>
-        <updated>2024-08-11T06:17:18.330Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 | 이승훈 기자] /사진=스튜디오지니 아들의 죽음에 진실을 쫓는 김명민의 서늘한 추적이 시작된다. 첫 방송을 하루 앞두고 있는 지니 TV 오리지널 드라마 '유어 아너'에서는 무소불위의 권력자 김강헌(김명민 분)의 숨 막히는 진실 추적기가 그려진다. 한 도시를 세울 만큼의 막강한 부와 권력을 가진 우원그룹의 회장 김강헌은 대대로 이어받은 힘과]]></content>
     </entry>
 </feed>
