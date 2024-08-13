@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2024-08-13T02:06:33.424Z</updated>
+    <updated>2024-08-13T03:14:22.094Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[키트 해링턴, '왕좌의 게임' 용두사미 결말에 입 열었다]]></title>
+        <id>https://v.daum.net/v/20240813110714239</id>
+        <link href="https://v.daum.net/v/20240813110714239"/>
+        <updated>2024-08-13T03:14:21.465Z</updated>
+        <content type="html"><![CDATA[[티브이데일리 김종은 기자] 할리우드 배우 키트 해링턴이 '왕좌의 게임'의 호불호 결말에 대해 말했다. 키트 해링턴은 12일(현지시간) 공개된 미국 잡지사 GQ와의 인터뷰를 통해 "'왕좌의 게임'의 엔딩이 실수였고 성급했다는 건 인정하지만, 당시 우린 더 이상 나아갈 수 없는 상황이었다"라고 말했다. 이날 키트 해링턴은 "8개의 시즌을 진행한 후 출연자들은]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['데드풀과 울버린' 작가 "로다주에 카메오 출연 제안했지만 거절"]]></title>
         <id>https://v.daum.net/v/20240813105514597</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240812121600902"/>
         <updated>2024-08-12T04:15:28.008Z</updated>
         <content type="html"><![CDATA[[TV리포트=유지호 기자] 2024 파리올림픽이 17일간의 뜨거운 열전을 마치고 화려하게 막을 내린 가운데, 폐회식에서 할리우드의 대표 배우 톰 크루즈가 깜짝 등장해 화제를 모았다. '미션 임파서블' 톰 크루즈는 2028년 LA 올림픽을 알리는 중요한 임무를 맡아 오륜기를 차기 개최지로 전달하며, 전 세계의 이목을 집중시켰다. 톰 크루즈는 프랑스 파리 스타]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[톰 크루즈, 파리 올림픽 제대로 즐겼네‥경기 관람 후 폐막식 장식]]></title>
-        <id>https://v.daum.net/v/20240812110730373</id>
-        <link href="https://v.daum.net/v/20240812110730373"/>
-        <updated>2024-08-12T02:07:43.797Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 박수인 기자] 할리우드 배우 톰 크루즈(Tom Cruise)가 '2024 파리 올림픽'을 제대로 즐겼다. 톰 크루즈는 지난 7월 28일 진행된 '2024 파리 올림픽' 기계체조 여자 단체전에서 미국의 세계적인 기계체조 선수 시몬 바일스의 경기를 관람했다. 경기장 대형 스크린에 톰 크루즈의 모습이 잡히자 영화 '미션 임파서블'의 테마송이 흘러나오기]]></content>
     </entry>
 </feed>
