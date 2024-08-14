@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2024-08-14T08:16:03.488Z</updated>
+    <updated>2024-08-14T09:13:43.908Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['스파이더맨' 최고 빌런 크레이븐, 12월에 영화로 나온다]]></title>
+        <id>https://v.daum.net/v/20240814173200230</id>
+        <link href="https://v.daum.net/v/20240814173200230"/>
+        <updated>2024-08-14T09:13:43.218Z</updated>
+        <content type="html"><![CDATA[[TV리포트=전하나 기자] 스파이더맨 스핀오프작인 미국 슈퍼히어로물 영화 '크레이븐 더 헌터'가 여러 번의 재촬영을 거쳐 드디어 올해 12월 관객을 만난다. 13일(현지 시간), 외신 매체 '코믹북'(COMICBOOK)이 '크레이븐 더 헌터'가 오는 12월 개봉을 앞두고 있다고 보도했다. '크레이븐 더 헌터'는 J.C. 챈더가 감독을 맡았으며, 마블 코믹스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“내 딸 수리, 명문 카네기멜론대 입학 자랑스러워” 엄마 케이티 홈즈 뿌듯]]></title>
         <id>https://v.daum.net/v/20240814164516523</id>
@@ -95,12 +102,5 @@
         <link href="https://v.daum.net/v/20240813191730028"/>
         <updated>2024-08-13T11:11:12.357Z</updated>
         <content type="html"><![CDATA[[TV리포트=유지호 기자] 제임스 카메론 감독이 본인이 원작자였던 '터미네이터' 시리즈의 새로운 작품을 준비 중이라고 밝혀 큰 화제를 모으고 있다. 12일(현지시간) 카메론 감독은 미국 매체 할리우드 리포터와의 인터뷰에서 넷플릭스 애니메이션 시리즈 '터미네이터 제로'에 대한 질문을 받으며 이 같은 소식을 전했다. 카메론 감독은 '터미네이터 제로'에 대해 "]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[배우 원규, 뒤늦게 전해진 비보... 2년 전 코로나로 사망]]></title>
-        <id>https://v.daum.net/v/20240813172001818</id>
-        <link href="https://v.daum.net/v/20240813172001818"/>
-        <updated>2024-08-13T09:14:28.020Z</updated>
-        <content type="html"><![CDATA[[TV리포트=유지호 기자] 성룡과 홍금보와 함께 '칠소복'(七小福)의 일원이자 홍콩의 액션 스타인 원규의 죽음이 뒤늦게 알려져 많은 팬에게 충격을 주고 있다. 원규는 무술감독, 각본, 연출 등 다방면에서 활약했으며&nbsp;이연걸과 주성치 등 많은 배우를 발굴했다. 그는 홍콩에 국한되지 않고 나아가 할리우드 액션 스타 제이슨 스타뎀을 발굴해 데뷔시키기도 했다. 성룡]]></content>
     </entry>
 </feed>
