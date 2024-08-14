@@ -2,11 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2024-08-14T02:04:49.707Z</updated>
+    <updated>2024-08-14T03:15:07.315Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[美 레전드 래퍼 "2028 LA 올림픽 美 양궁 대표팀 도전"]]></title>
+        <title type="html"><![CDATA[父도 암이었는데... 배우 안나, '유방암' 항암 치료 중]]></title>
+        <id>https://v.daum.net/v/20240814111330238</id>
+        <link href="https://v.daum.net/v/20240814111330238"/>
+        <updated>2024-08-14T03:15:06.691Z</updated>
+        <content type="html"><![CDATA[[TV리포트=정은비 기자] 모델이자 배우인 우메미야 안나가 안타까운 소식을 전했다. 13일(현지 시간) 외신 보도에 따르면 우메미야 안나는 유방암에 걸렸다는 사실을 공개했다. 우메미야 안나는 13일 자신의 계정에서 라이브 방송을 하며 이 소식을 전했다. 그는 5월에 오른쪽 가슴이 작아지는 것을 느꼈을 때 이상한 점을 느꼈다. 검사 결과 안나는 침습성 소엽암]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[래퍼 닥터 드레 "2028 LA 올림픽 美 양궁 대표팀 도전"]]></title>
         <id>https://v.daum.net/v/20240814102800270</id>
         <link href="https://v.daum.net/v/20240814102800270"/>
         <updated>2024-08-14T02:04:48.931Z</updated>
@@ -95,12 +102,5 @@
         <link href="https://v.daum.net/v/20240813122500365"/>
         <updated>2024-08-13T04:15:13.365Z</updated>
         <content type="html"><![CDATA[[TV리포트=정은비 기자] 포켓몬 TV 시리즈, 영화 및 비디오 게임에 출연한 포켓몬스터 성우 레이첼 릴리스가 사망 소식을 전했다. 13일(현지시각) 외신에 따르면 레이첼 릴리스는 유방암으로 인해 8월 10일 46세의 나이로 사망했다. 릴리스는 미스티와 제시의 주요 포켓몬 캐릭터 및 일본 애니메이션 시리즈에서 성우를 맡았다. 릴리스의 죽음은 포켓몬스터의 주]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[키트 해링턴, '왕좌의 게임' 용두사미 결말에 입 열었다]]></title>
-        <id>https://v.daum.net/v/20240813110714239</id>
-        <link href="https://v.daum.net/v/20240813110714239"/>
-        <updated>2024-08-13T03:14:21.465Z</updated>
-        <content type="html"><![CDATA[[티브이데일리 김종은 기자] 할리우드 배우 키트 해링턴이 '왕좌의 게임'의 호불호 결말에 대해 말했다. 키트 해링턴은 12일(현지시간) 공개된 미국 잡지사 GQ와의 인터뷰를 통해 "'왕좌의 게임'의 엔딩이 실수였고 성급했다는 건 인정하지만, 당시 우린 더 이상 나아갈 수 없는 상황이었다"라고 말했다. 이날 키트 해링턴은 "8개의 시즌을 진행한 후 출연자들은]]></content>
     </entry>
 </feed>
