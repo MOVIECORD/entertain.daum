@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2024-08-15T21:13:01.872Z</updated>
+    <updated>2024-08-15T22:12:46.932Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["새로운 건 재밌어"…염정아, '산지직송'→'크로스' 이유 있는 활약]]></title>
+        <id>https://v.daum.net/v/20240816071012780</id>
+        <link href="https://v.daum.net/v/20240816071012780"/>
+        <updated>2024-08-15T22:12:26.910Z</updated>
+        <content type="html"><![CDATA[[스포츠조선 안소윤 기자] 배우 염정아(52)가 열일 행보로 올여름을 풍성하게 채우고 있다. 본업인 연기는 물론, 예능에서도 빛나는 활약을 보여주며 '대세' 다운 존재감을 드러내는 중이다. 지난 9일 공개된 넷플릭스 영화 '크로스'에서는 밀수범을 때려잡는 현직 에이스 형사를 연기하며 걸크러쉬 매력을 선사했다. '크로스'는 아내에게 과거를 숨]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[박훈정월드 ‘폭군’에 뉴진스 팬미팅까지…‘덕후’ 취향 저격]]></title>
         <id>https://v.daum.net/v/20240816060517042</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240815143947240"/>
         <updated>2024-08-15T06:17:16.316Z</updated>
         <content type="html"><![CDATA[(서울=뉴스1) 고승아 기자 = 영화 '빅토리'가 흥행 열풍을 이어가며 화제를 모으고 있다. 14일 '빅토리' 측은 스페셜 포스터를 공개했다. 영화는 열정만큼은 충만한 생판 초짜 치어리딩 동아리 '밀레니엄 걸즈'가 신나는 댄스와 가요로 모두를 응원하는 이야기를 그렸다. '빅토리'는 지난 14일 개봉과 동시에 실관람객들의 만족도를 증명하는 CGV 골든에그]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[부모들의 공공의 적 된 ‘사랑의 하츄핑’ 감독 “‘파산핑’→‘등골핑’, 부모님들에게 죄송 ”]]></title>
-        <id>https://v.daum.net/v/20240815143308115</id>
-        <link href="https://v.daum.net/v/20240815143308115"/>
-        <updated>2024-08-15T06:17:16.318Z</updated>
-        <content type="html"><![CDATA[[스포츠서울 | 함상범 기자] 최근 SNS 상에서 가장 화제를 모은 영상 중 하나는 애니메이션 ‘사랑의 하츄핑’을 관람한 어린이들의 리액션이다. 굵은 눈물방울을 뚝뚝 떨굴 뿐 아니라 나라 잃은 백성처럼 서럽게 오열한다. 어린이들이 극도의 감정을 느끼면서 슬퍼하는 모습이 귀여움을 안김과 동시에 호기심을 자극한다. 애니메이션 ‘사랑의 하츄핑’이 박스오피스]]></content>
     </entry>
 </feed>
