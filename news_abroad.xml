@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2024-08-16T12:23:18.634Z</updated>
+    <updated>2024-08-16T13:17:48.014Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["돈벌이에 이용됐다"...'프렌즈' 故 매튜 페리 마약 공급 의사 등 5명 기소]]></title>
+        <id>https://v.daum.net/v/20240816220005557</id>
+        <link href="https://v.daum.net/v/20240816220005557"/>
+        <updated>2024-08-16T13:17:47.288Z</updated>
+        <content type="html"><![CDATA[(MHN스포츠 양다솔 인턴기자, 정에스더 기자) 배우 매튜 페리의 사망에 연루된 의사 등 5명이 기소됐다. 지난 15일(현지시각) CNN비즈니스 등 외신에 따르면 로스앤젤레스(LA) 연방 검찰은&nbsp;페리에게 케타민을 다량 공급한 의사 2명, 페리와 함께 거주한 개인 비서, 케타민 공급업자 등 5명을&nbsp;기소했다. 미국 유명 시트콤 '프렌즈' 챈들러 역]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['강도 살해' 당한 유명 男배우, 용의자 체포... 차 부품 훔치려다]]></title>
         <id>https://v.daum.net/v/20240816183100516</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240816110952931"/>
         <updated>2024-08-16T03:16:20.407Z</updated>
         <content type="html"><![CDATA[[OSEN=연휘선 기자] 미국 인기 시트콤 '프렌즈'에서 챈들러 역으로 사랑받은 배우 매튜 페리의 사망 과정에 관련된 의사와 개인 비서 등이 기소됐다.&nbsp; 15일(현지시간) 외신들은 미국 로스앤젤레스(LA) 연방 검찰이 매튜 페리에게 많은 양의 케타민을 공급한 의사 2명과 개인 비서, 케타민 공급업자 등 5명을 기소했다고 보도했다.&nbsp; 현지 매체들에 따르면]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“매튜 페리 약물 중독 이용해 돈벌이” 의사→개인비서 체포]]></title>
-        <id>https://v.daum.net/v/20240816101914990</id>
-        <link href="https://v.daum.net/v/20240816101914990"/>
-        <updated>2024-08-16T02:03:19.178Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 이민지 기자] 매튜 페리 사망 배경이 충격을 안기고 있다. 8월 15일(현지시간) 페이지식스 등 외신에 따르면 배우 매튜 페리 사망 사건으로 그의 개인 비서와 2명의 의사 등 5명이 기소됐다. 경찰 당국은 기자회견에서 매튜 페리가 케타민 급성 부작용으로 사망한 것과 관련해 두 명의 의사와 배우의 개인 비서 등 5명을 체포했다고 밝혔다. 변호]]></content>
     </entry>
 </feed>
