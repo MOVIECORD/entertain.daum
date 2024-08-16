@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2024-08-16T19:11:03.871Z</updated>
+    <updated>2024-08-16T20:13:55.178Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['굿파트너' 장나라, 내연녀 한재이에 해고 통보]]></title>
+        <id>https://v.daum.net/v/20240817051002537</id>
+        <link href="https://v.daum.net/v/20240817051002537"/>
+        <updated>2024-08-16T20:13:49.754Z</updated>
+        <content type="html"><![CDATA[(서울=뉴스1) 박하나 기자 = '굿파트너' 한재이가 장나라에게 딸 재희를 두고 이혼 합의를 종용했다. 지난 16일 오후 9시 50분에 방송된 SBS 금토드라마 '굿파트너'(극본 최유나 / 연출 김가람)에서는 딸 김재희(유나 분)의 양육권을 두고 싸우는 차은경(장나라 분)과 김지상(지승현 분)의 모습이 담겼다. 이날 차은경은 김지상이 딸 재희를 데려갈]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[양지은 남편 "결혼 전 부채 있었다…아내, 삶의 은인"]]></title>
+        <id>https://v.daum.net/v/20240817045003340</id>
+        <link href="https://v.daum.net/v/20240817045003340"/>
+        <updated>2024-08-16T20:13:49.755Z</updated>
+        <content type="html"><![CDATA[(서울=뉴스1) 박하나 기자 = 가수 양지은 남편이 결혼 전 힘들었던 때를 고백했다. 지난 16일 오후에 방송된 KBS2TV 예능프로그램 '신상출시 편스토랑'(이하 '편스토랑')에서는 양지은 가족의 진안 여행 두 번째 이야기가 담겼다. 양지은 남편이 아내를 위한 진안 흑돼지 바비큐를 준비했다. 양지은은 "연애 기간이 짧아서 연애 때도 안 해봤다"라며 남]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['양궁 3관왕' 임시현 "LA올림픽 전 '놀뭐' 나와야 하나" 왜?]]></title>
         <id>https://v.daum.net/v/20240817033608192</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240817004239438"/>
         <updated>2024-08-16T16:17:10.952Z</updated>
         <content type="html"><![CDATA[[서울=뉴시스]이재훈 기자 = 3세대 K팝 간판 걸그룹 멤버들인 그룹 '레드벨벳' 슬기와 그룹 '블랙핑크' 지수가 우정을 공개했다. 슬기와 지수는 16일 유튜브 채널 하이슬기에 업로드된 '지수야 나랑 계곡 가서 백숙 먹을래? 무계획 가이드 in 양평' 제목의 영상에서 친해지게 된 계기를 밝혔다. 지수는 "우리가 예전에 같은 숍을 다녔다. 숍을 옮겼는데]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박나래, 47kg 유지법 "'살 빠졌다'는 말에 계속 하게 돼, 이장우 생각하며 운동"]]></title>
-        <id>https://v.daum.net/v/20240817003729414</id>
-        <link href="https://v.daum.net/v/20240817003729414"/>
-        <updated>2024-08-16T16:17:10.954Z</updated>
-        <content type="html"><![CDATA[[스포츠조선닷컴 이우주 기자] '나혼산' 박나래가 47kg 유지법을 밝혔다. 16일 방송된 MBC 예능프로그램 '나 혼자 산다'에서는 박나래의 여름방학이 공개됐다. 아침부터 광배를 자랑하며 운동을 시작한 박나래. 박나래는 "사람들이 왜 이렇게 살 빠졌냐고 하고 '광배 보여달라'고 하는 말에 행복하다. 안 보여줄 수가 없다"며 "그때 '나혼산]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[장근석 "1년 전, 갑상선암 진단받고 투병..얘기할 수 있어 다행"]]></title>
-        <id>https://v.daum.net/v/20240817003523396</id>
-        <link href="https://v.daum.net/v/20240817003523396"/>
-        <updated>2024-08-16T16:17:10.960Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 | 허지형 기자] /사진=유튜브 채널 '나는 장근석' 캡처배우 장근석이 갑상선암 투병 사실을 털어놨다. 16일 유튜브 채널 '나는 장근석'에는 '안녕하세요 장근석입니다. 고백할 게 있어요'라는 제목의 영상이 올라왔다. 공개된 영상 속 장근석은 "오랜만에 인사드린다"며 1년 전 갑상선암 진단받은 사실을 털어놨다. 그는 "지금 수술 후 2주]]></content>
     </entry>
 </feed>
