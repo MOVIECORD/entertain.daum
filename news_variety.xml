@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/variety</id>
     <title>다음 연예 ─ 뉴스 ─ 예능</title>
-    <updated>2024-08-18T19:10:19.168Z</updated>
+    <updated>2024-08-18T20:12:24.679Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이혜정, '♥고민환 외도' 저격 울컥…일촉즉발 이혼 위기]]></title>
+        <id>https://v.daum.net/v/20240819051002150</id>
+        <link href="https://v.daum.net/v/20240819051002150"/>
+        <updated>2024-08-18T20:12:13.414Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 김예나 기자) '한 번쯤 이혼할 결심' 이혜정이 남편 고민환의 과거 외도를 언급, 두 사람의 갈등이 한층 더 심화된 분위기를 탔다.&nbsp; MBN '한 번쯤 이혼할 결심'(이하 '한이결')이 지난 18일 정규 편성 첫 방송됐다.&nbsp; 지난 파일럿 방송 당시 가상 이혼을 통해 서로에 대한 마음을 확인했던 이혜정 고민환 부부. 6개월 만에 돌아온 두 사람]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘심야괴담회’ 안예은, 첫 출연에 완불 기록! “시즌 4 ‘첫 완불’”]]></title>
         <id>https://v.daum.net/v/20240819013819335</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240818232901620"/>
         <updated>2024-08-18T15:11:43.706Z</updated>
         <content type="html"><![CDATA[[텐아시아=김은정 기자] '슈돌' 박수홍이 엄마 뱃속에 있는 28주된 딸의 미모를 자랑했다. 18일 방송된 KBS 2TV '슈퍼맨이 돌아왔다'(이하 '슈돌')에서는 새로운 슈퍼맨 박수홍이 합류, 임신 28주차 딸 전복이를 공개하며 일찍부터 '딸 바보' 면모를 드러냈다. 이날&nbsp;박수홍은 "내가 자식을 가질 수 있을까 생각했는데, 시험관 시술 한 번에 성공했]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박수홍 "-30kg 영양실조, 남자 역할 못 해서..아내 시험관 시술"]]></title>
-        <id>https://v.daum.net/v/20240818232202554</id>
-        <link href="https://v.daum.net/v/20240818232202554"/>
-        <updated>2024-08-18T15:11:43.708Z</updated>
-        <content type="html"><![CDATA[[텐아시아=김은정 기자] '슈퍼맨이 돌아왔다' 박수홍이 예비 아빠로 등장했다. 18일 방송된 KBS 2TV '슈퍼맨이 돌아왔다'(이하 '슈돌')에서는 새로운 슈퍼맨 박수홍이 합류, 임신 28주차 딸 전복이를 공개했다. 이날 박수홍은 아내 김다예 씨의 임신 소식을 알리며 "아내가 체중이 많이 늘었지만 그래도 예쁘다"고 사랑꾼 면모를 드러냈다. 임신 8개]]></content>
     </entry>
 </feed>
