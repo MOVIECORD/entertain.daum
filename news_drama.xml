@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-08-18T08:14:45.261Z</updated>
+    <updated>2024-08-18T09:14:33.108Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘불편’ 정소민 VS ‘싸늘’ 박지영 '어색 그 자체']]></title>
+        <id>https://v.daum.net/v/20240818180555105</id>
+        <link href="https://v.daum.net/v/20240818180555105"/>
+        <updated>2024-08-18T09:14:17.779Z</updated>
+        <content type="html"><![CDATA[[동아닷컴] 화제의 드라마 ‘엄마친구아들’ 정소민이 컴백 후유증을 겪는다. tvN 토일드라마 ‘엄마친구아들’(연출 유제원, 극본 신하은, 제작 스튜디오드래곤∙더모도리) 측은 2회 방송을 앞둔 18일, 최승효(정해인 분)의 건축사사무소 사옥 오픈식에 초대받은 배석류(정소민 분)의 스틸컷을 공개했다. 시끌벅적한 복귀식을 치른 배석류, 나미숙(박지영 분) 모]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘완벽한 가족’, 김영대 죽음→아찔한 균열…박주현‧최예빈 미스터리한 삼각관계 시작]]></title>
         <id>https://v.daum.net/v/20240818164407010</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240818143808827"/>
         <updated>2024-08-18T06:16:19.847Z</updated>
         <content type="html"><![CDATA[[스타뉴스 | 최혜진 기자] /사진=KBS 2TV임수향을 사이에 두고 지현우와 고윤이 대치한다. 18일 방송되는 KBS 2TV 주말드라마 '미녀와 순정남'(극본 김사경, 연출 홍석구) 40회에서는 필승(지현우 분)이 지영(임수향 분)에게 다가가는 진단(고윤 분)의 앞을 막아선다. 앞서 모든 기억을 찾은 지영은 필승에 대한 미안함에 기억이 돌아오지 않은]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[임수향, 두 남자의 플러팅…마음 향한 곳은 ♥지현우]]></title>
-        <id>https://v.daum.net/v/20240818141902356</id>
-        <link href="https://v.daum.net/v/20240818141902356"/>
-        <updated>2024-08-18T06:16:19.853Z</updated>
-        <content type="html"><![CDATA[[텐아시아=김지원 기자] 임수향을 사이에 두고 지현우와 고윤이 대치한다. 오늘(18일) 저녁 8시 5분 방송되는 KBS 2TV 주말드라마 ‘미녀와 순정남’ 40회에서는 고필승(지현우 분)이 김지영(임수향 분)에게 다가가는 공진단(고윤 분)의 앞을 막아선다. 앞서 모든 기억을 찾은 지영은 필승에 대한 미안함에 기억이 돌아오지 않은 척 그를 밀어냈다. 또]]></content>
     </entry>
 </feed>
