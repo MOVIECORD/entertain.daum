@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2024-08-20T21:13:54.598Z</updated>
+    <updated>2024-08-20T22:11:39.413Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“자꾸만 울게 된다” 혜리, ‘빅토리’ 부진한 성적에 울상…팬 손편지까지 공개]]></title>
+        <id>https://v.daum.net/v/20240821070531440</id>
+        <link href="https://v.daum.net/v/20240821070531440"/>
+        <updated>2024-08-20T22:11:22.490Z</updated>
+        <content type="html"><![CDATA[[스포츠서울 | 원성윤 기자] 배우 이혜리가 영화 ‘빅토리’의 부진한 성적과 팬의 응원에 안타까운 마음을 드러냈다. 이혜리는 20일 자신의 개인 계정에 “꾹꾹 눌러 담은 마음들이 너무 고맙고 믿어지지가 않아서 자꾸만 울게 되어버리는 거야”라며 글을 썼다. ‘빅토리’에서 이혜리는 이 작품에서 백댄서를 꿈꾸다 치어리딩에 도전하게 된 고등학생 필선 역을 맡]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘폭군’ 김선호 “다음을 함께하고 싶은 사람이길”]]></title>
         <id>https://v.daum.net/v/20240821060309757</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240820185002492"/>
         <updated>2024-08-20T10:14:04.844Z</updated>
         <content type="html"><![CDATA[(엑스포츠뉴스 윤현지 기자) 지난해 영화 '서울의 봄'(감독 김성수)으로 천만 관객을 동원한 황정민이 또 한 번 극장의 구원투수로 나설 수 있을 것인가. 20일 오전, 오는 9월 13일 개봉 예정인 '베테랑2'의 첫 공식 석상이 열렸다. 현장에는 류승완 감독과 배우 황정민, 정해인이 함께했다. '베테랑2'는 나쁜 놈은 끝까지 잡는 베테랑 서도철 형사(황정민]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[황정민X정해인X류승완 '베테랑2', 초강력 액션신으로 추석 흥행 정조준]]></title>
-        <id>https://v.daum.net/v/20240820184956488</id>
-        <link href="https://v.daum.net/v/20240820184956488"/>
-        <updated>2024-08-20T10:14:04.851Z</updated>
-        <content type="html"><![CDATA[[스포츠한국 모신정 기자]&nbsp;류승완 감독이 황정민과 다시 한번 손을 잡고 내놓는 영화 '베테랑2'가 추석 흥행 정조준에 나선다. 최근 30대 배우 중 연기력과 인기도 면에서 단연 최선두에 서있는 정해인도 류승완호에 탑승했다.&nbsp; '베테랑2'는 나쁜 놈은 끝까지 잡는 베테랑 형사 서도철(황정민)의 강력범죄수사대에 막내 형사 박선우(정해인)가 합류하면서]]></content>
     </entry>
 </feed>
