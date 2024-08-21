@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2024-08-21T13:17:26.809Z</updated>
+    <updated>2024-08-21T14:14:14.925Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[박서윤·최민재 주연 청춘영화 ‘그 여름날의 거짓말’, 28일 개봉]]></title>
+        <id>https://v.daum.net/v/20240821230529479</id>
+        <link href="https://v.daum.net/v/20240821230529479"/>
+        <updated>2024-08-21T14:13:54.906Z</updated>
+        <content type="html"><![CDATA[열일곱 소년소녀의 당돌한 첫사랑을 다룬 청춘영화 ‘그 여름날의 거짓말’(감독 손현록)이 오는 28일 개봉한다. ‘그 여름날의 거짓말’(각본/감독: 손현록 | 출연: 박서윤, 최민재, 유의태, 윤재인, 김채원, 국형 외 | 장르: 화상주의 열일곱 로맨스 | 러닝타임: 138분 | 관람등급: 15세이상관람가 | 개봉: 2024.08.28 | 제작: 왓어원]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['늘봄가든' 조윤희·김주령 "딸 가진 엄마라 잘 통했죠"]]></title>
         <id>https://v.daum.net/v/20240821214807802</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240821191948281"/>
         <updated>2024-08-21T11:10:30.477Z</updated>
         <content type="html"><![CDATA[[스타뉴스 | 김나연 기자] 혜리 / 사진=혜리 인스타그램"'빅토리' 진짜 재밌는데 선택을 많이 못 받아서 조금 속상." 걸스데이 출신 배우 혜리가 영화 '빅토리'를 향한 홍보를 멈추지 않고 있다. 혜리는 21일 자신의 인스타그램에 "안녕 나는 이혜리. 지치지 않지"라는 글과 함께 여러 장의 사진을 공개했다. 공개된 사진 속에는 영화 '빅토리' 홍보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘한국이 싫어서’, 고아성 중심으로 모여!]]></title>
-        <id>https://v.daum.net/v/20240821191528195</id>
-        <link href="https://v.daum.net/v/20240821191528195"/>
-        <updated>2024-08-21T11:10:30.479Z</updated>
-        <content type="html"><![CDATA[배우 고아성이 영화 ‘한국이 싫어서’에서 원로(?) 배우 다운 면모를 보여줬다. 21일 오후 2시 서울 용산 CGV아이파크몰에서 ‘한국이 싫어서’의 언론배급시사회가 열렸다. 이날 시사회에는 장건재 감독과 함께 배우 고아성, 주종혁, 김우겸이 참석했다. ‘한국이 싫어서’는 20대 후반의 계나(고아성)가 갑자기 자신의 행복을 찾아 직장과 가족, 남자친구]]></content>
     </entry>
 </feed>
