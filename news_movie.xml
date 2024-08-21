@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2024-08-21T19:12:03.084Z</updated>
+    <updated>2024-08-21T20:13:37.755Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[죽은 배우가 어떻게 출연?…'에이리언7' AI 생성 캐릭터 논란]]></title>
+        <id>https://v.daum.net/v/20240822051157321</id>
+        <link href="https://v.daum.net/v/20240822051157321"/>
+        <updated>2024-08-21T20:13:20.349Z</updated>
+        <content type="html"><![CDATA[(로스앤젤레스=연합뉴스) 임미나 특파원 = 할리우드 영화 '에이리언' 시리즈의 7편에 해당하는 신작 '에이리언: 로물루스'가 2년 전 별세한 배우의 모습을 인공지능(AI) 기술로 생성, 실제 배우처럼 등장시켜 논란이 되고 있다. 21일(현지시간) 미 일간지 로스앤젤레스(LA)타임스와 영국 BBC 방송 등에 따르면 지난주 세계적으로 개봉한 '에이리언…'에는]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[조아람, '빅토리'에서 빛난 상큼한 '비타민' 매력]]></title>
         <id>https://v.daum.net/v/20240822000211884</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240821193004432"/>
         <updated>2024-08-21T11:10:30.471Z</updated>
         <content type="html"><![CDATA[(MHN스포츠 장민수 기자) 배우 고민시가 넷플릭스 시리즈 '아무도 없는 숲속에서' 키플레이어로 나선다. 21일 서울 강남구 조선 팰리스 서울 강남에서 넷플릭스 시리즈 '아무도 없는 숲속에서' 제작발표회가 진행됐다. 이날은 모완일 감독과 배우 김윤석, 윤계상, 고민시, 이정은이 참석했다. '아무도 없는 숲속에서'는 한여름 찾아온 수상한 손님으로]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['파일럿', 400만 관객 돌파..조정석→이주명 "관객들께 감사"]]></title>
-        <id>https://v.daum.net/v/20240821192929420</id>
-        <link href="https://v.daum.net/v/20240821192929420"/>
-        <updated>2024-08-21T11:10:30.472Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 | 김나연 기자] 사진=롯데엔터테인먼트영화 '파일럿'이 400만 관객을 돌파했다. '파일럿'이 영화관 입장권 통합전산망 기준 8월 21일 400만 관객을 돌파했다. '파일럿'은 조정석의 파격 변신이 주는 신선한 매력과 함께 이주명, 한선화, 신승호의 빈틈없는 연기 앙상블, 김한결 감독이 펼쳐 놓은 현실 공감력 터지는 코미디 연출까지 꽉 찬 영화]]></content>
     </entry>
 </feed>
