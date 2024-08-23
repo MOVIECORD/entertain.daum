@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/variety</id>
     <title>다음 연예 ─ 뉴스 ─ 예능</title>
-    <updated>2024-08-23T16:16:48.820Z</updated>
+    <updated>2024-08-23T17:11:24.402Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김대호, 올림픽 첫 중계 소감 “막혀있던 혈 뚫린 느낌”]]></title>
+        <id>https://v.daum.net/v/20240824013650007</id>
+        <link href="https://v.daum.net/v/20240824013650007"/>
+        <updated>2024-08-23T17:11:14.572Z</updated>
+        <content type="html"><![CDATA[김대호 아나운서가 올림픽 첫 중계를 마친 소감을 전했다. 23일(금) 방송된 MBC 예능 프로그램 ‘나 혼자 산다’ 559회에서는 구성환의 ‘황홀한 봉디브 바캉스’, 김대호의 ‘첫 중계의 무게’ 편이 전파를 탔다. 이날 김대호가 제33회 파리 올림픽에서 배드민턴 경기를 중계하는 모습이 전격 공개됐다. 그는 오디오 사고와 선수 이름 실수가 있었지만, 열]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘나혼산’ 김대호, 첫 중계 오프닝 완벽 소화했는데…“오디오 안 열려”]]></title>
         <id>https://v.daum.net/v/20240824011539924</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240824000753416"/>
         <updated>2024-08-23T15:14:43.474Z</updated>
         <content type="html"><![CDATA[[OSEN=김채윤 기자] '더시즌즈'에서 거미와 듀엣 무대를 약속한 조정석이&nbsp;딸만 예뻐하지 말아달라고 농담을 던졌다. 8월 23일 방송된 KBS 2TV '더 시즌즈-지코의 아티스트'(이하 더 시즌즈')에 마지막 타자로 조정석이 출연했다. 이날 지코는 “엄청난 선배님들의 지원을 받고 계시다고 들었다, 어떤 대단한 분들이 힘을 써주셨나?”고 질문했고, 이어]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["자작곡으로 9곡" 신인가수 조정석, 첫 무대 성황리 끝내]]></title>
-        <id>https://v.daum.net/v/20240824000451394</id>
-        <link href="https://v.daum.net/v/20240824000451394"/>
-        <updated>2024-08-23T15:14:43.474Z</updated>
-        <content type="html"><![CDATA[[OSEN=김채윤 기자] ‘더시즌즈’에 출연한 조정석이 자작곡으로 9곡을 채운 정규 앨범의 첫 무대를 선보였다. 8월 23일 방송된 KBS 2TV '더 시즌즈-지코의 아티스트'(이하 더 시즌즈')에는 스컬X하하, 효린, 엔믹스, 크리스토퍼, 태민, 조정석이 출연했다. 이날 마지막 아티스트로 출연한 사람은 데뷔 22년차 배우, 신인 가수로 새롭게 도전하는]]></content>
     </entry>
 </feed>
