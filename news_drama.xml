@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-08-23T11:10:50.374Z</updated>
+    <updated>2024-08-23T12:23:00.409Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[선우재덕, '백성현 진실' 밝히란 신정윤에 "가족 부서져" 뻔뻔]]></title>
+        <id>https://v.daum.net/v/20240823212127612</id>
+        <link href="https://v.daum.net/v/20240823212127612"/>
+        <updated>2024-08-23T12:22:45.275Z</updated>
+        <content type="html"><![CDATA[[TV리포트 = 하수나 기자] ‘수지맞은 우리’ 선우재덕이 백성현의 출생 비밀을 밝히라는 아들 신정윤에게 뻔뻔하게 맞대응했다.&nbsp; 23일 KBS1TV 일일드라마 ‘수지맞은 우리’에선 진태(선우재덕 분)가 채우리(백성현 분)의 출생비밀을 밝히라는 현성(신정윤 분)의 압박에 뻔뻔하게 반격하는 모습이 그려졌다.&nbsp; 진태는 마리(김희정 분)에게 우리의 출생비밀을 밝히]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[한보름, 웨딩드레스 입고 최웅에 폭로 "한채영X김규선이 조명사고 조작"]]></title>
+        <id>https://v.daum.net/v/20240823204530054</id>
+        <link href="https://v.daum.net/v/20240823204530054"/>
+        <updated>2024-08-23T12:22:45.276Z</updated>
+        <content type="html"><![CDATA[[TV리포트 = 하수나 기자] ‘스캔들’ 한보름이 한채영과 김규선이 최웅의 목숨을 구한 척 조작했다는 사실을 폭로하며 최웅과 김규선의 관계가 위기를 맞았다.&nbsp;&nbsp; 23일 KBS2TV일일드라마 ‘스캔들’에선 설아(한보름 분)가 결혼을 약속한 진호(최웅 분)와 주련(김규선 분)에게 충격 폭로를 하는 모습이 그려졌다.&nbsp; 진호는 술에 취해 설아의 작업실을 찾아왔고]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘용수정’ 엄현경, 공정환-임주은 악행 폭로 “모두 이 부녀가 한 짓”]]></title>
         <id>https://v.daum.net/v/20240823200336174</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240823174951690"/>
         <updated>2024-08-23T09:13:00.141Z</updated>
         <content type="html"><![CDATA[전소영(사진=BH엔터테인먼트)[이데일리 스타in 최희재 기자] BH엔터테인먼트가 신예 전소영과 전속계약을 체결했다. BH엔터테인먼트는 23일 “내일이 기대되는 배우 전소영과 전속계약을 체결했다”며 “자신만의 색을 지닌 배우로 성장할 수 있도록 전폭적인 지원을 아끼지 않을 예정”이라고 밝혔다. 전소영(사진=BH엔터테인먼트)서울예술대학교에서 연기를 전공한 전]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[정은채 “경희=온실 속 화초, 나라면 그렇게 못 살아”]]></title>
-        <id>https://v.daum.net/v/20240823174819649</id>
-        <link href="https://v.daum.net/v/20240823174819649"/>
-        <updated>2024-08-23T09:13:00.146Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 하지원 기자] 배우 정은채가 '파친코2' 속 경희의 변화를 언급했다. 8월 23일 서울 강남구 삼성동 그랜드 인터컨티넨탈 서울 파르나스에서 Apple TV+'파친코2' 정은채, 김성규 페어인터뷰가 진행됐다. 이날 정은채는 "시즌1이 전세계적으로 많은 사랑과 응원을 받았다. 시즌2가 시작됨에 기쁜 마음이다. 많은 캐릭터들 서사와 확장된 내면의 이야]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[첫방 '파친코2' 日 멸시·차별의 역사…김민하·이민호 충격의 재회]]></title>
-        <id>https://v.daum.net/v/20240823174130456</id>
-        <link href="https://v.daum.net/v/20240823174130456"/>
-        <updated>2024-08-23T09:13:00.146Z</updated>
-        <content type="html"><![CDATA[[TV리포트=남금주 기자] '파친코2' 돈도, 세월도 상관없는 일본인들의 멸시와 차별이 그려진 가운데,&nbsp;김민하가 노상현 때문에 피신하라는 이민호의 제안을 거절했다. 23일 공개된 애플티비 플러스 '파친코 시즌2' 1회에서는 선자(김민하 분)가 가족들을 위해 고군분투하는 모습이 그려졌다. 1945년 오사카, 선자는 아들 노아(김강훈), 모자수를 키우면서 김치]]></content>
     </entry>
 </feed>
