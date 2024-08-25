@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2024-08-25T19:11:28.615Z</updated>
+    <updated>2024-08-25T20:14:01.074Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[배성재, 박지성♥김민지 오작교…"사실상 셋이 한 연애"]]></title>
+        <id>https://v.daum.net/v/20240826050045833</id>
+        <link href="https://v.daum.net/v/20240826050045833"/>
+        <updated>2024-08-25T20:13:56.364Z</updated>
+        <content type="html"><![CDATA[(서울=뉴스1) 강현명 기자 = 배성재 아나운서가 박지성-김민지 부부의 소개팅 비하인드를 전해 눈길을 끌었다. 25일 오후 9시 5분 방송된 SBS 예능 프로그램 '미운 우리 새끼(이하 '미우새')'에서는 아나운서 배성재가 박지성-김민지 부부를 만났다. 이날 배성재가 박지성-김민지 부부를 만나 소개팅 이야기를 꺼내자 김민지는 박지성과 소개팅 후 1년동안]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['팔순' 백일섭, '붕어빵 아들' 첫 공개]]></title>
         <id>https://v.daum.net/v/20240826041106673</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240826000008721"/>
         <updated>2024-08-25T15:12:04.584Z</updated>
         <content type="html"><![CDATA[전동 스쿠터 음주운전으로 경찰 수사를 받은 방탄소년단(BTS) 멤버 슈가(민윤기)가 자필로 재차 사과했다. 슈가는 25일 오후 팬 커뮤니티 위버스에 올린 자필 사과문에 “잘못된 행동으로 팬 여러분 그리고 저를 사랑해 주시는 모든 분께 실망과 상처를 드린 점 아주 깊이 사과드린다”며 “제가 받은 사랑에 걸맞은 행동으로 보답해야 한다는 책임감을 잊고 큰]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이혜정 "♥고민환 불륜 상대 얼굴 못 잊어…웃을 때마다 떠올라"]]></title>
-        <id>https://v.daum.net/v/20240825235337698</id>
-        <link href="https://v.daum.net/v/20240825235337698"/>
-        <updated>2024-08-25T15:12:04.587Z</updated>
-        <content type="html"><![CDATA[[스포츠조선닷컴 이우주 기자] '한이결' 이혜정이 불륜 상처를 꺼냈다. 25일 방송된 MBN 예능프로그램 '한번쯤 이혼할 결심'에서는 최준석 어효인 부부의 갈등이 그려졌다. 최준석 어효인 부부는 최준석이 20억 사기를 당하면서 멀어졌다. 점심 외식 후 어효인은 허리가 아픈 최준석에게 같이 산책하자고 했지만 최준석은 이를 거절했다. 이에 어]]></content>
     </entry>
 </feed>
