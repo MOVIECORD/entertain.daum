@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2024-08-25T20:14:01.074Z</updated>
+    <updated>2024-08-25T21:11:00.328Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['베테랑2' 황정민·정해인, 추석 연휴 관객들과 함께 보낸다]]></title>
+        <id>https://v.daum.net/v/20240826060128626</id>
+        <link href="https://v.daum.net/v/20240826060128626"/>
+        <updated>2024-08-25T21:10:39.514Z</updated>
+        <content type="html"><![CDATA[[서울경제] 영화 '베테랑2'의 개봉주, 추석 연휴 기간 무대인사가 확정됐다. '베테랑2'(감독 류승완)가 개봉일인 오는 9월 13일부터 추석 연휴 기간 무대인사 일정을 밝혔다. '베테랑2'는 나쁜 놈은 끝까지 잡는 베테랑 서도철 형사(황정민)의 강력범죄수사대에 막내 형사 박선우(정해인)가 합류하면서 세상을 떠들썩하게 한 연쇄살인범을 쫓는 이야기를 그린]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘빅토리’ 조아람 “치어리딩 ‘칼각’ 위해 뼈 갈았다”]]></title>
+        <id>https://v.daum.net/v/20240826060008526</id>
+        <link href="https://v.daum.net/v/20240826060008526"/>
+        <updated>2024-08-25T21:10:39.515Z</updated>
+        <content type="html"><![CDATA[“너무 떨리고 기대되고 설레요.” 배우 조아람은 스크린 데뷔작 개봉을 앞둔 소감을 묻는 말에 잔뜩 상기된 표정으로 이렇게 말했다. 조아람의 첫 영화는 14일 개봉한 ‘빅토리’. 오직 열정만큼은 충만한 생판 초짜 치어리딩 동아리 ‘밀레니엄 걸즈’가 신나는 댄스와 가요로 모두를 응원하는 이야기를 그린 작품이다.&nbsp; 조아람은 영화 개봉을 앞두고 진행된 일간스포]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“특정 인물보다 시대의 야만성 보여주고 싶었다”]]></title>
         <id>https://v.daum.net/v/20240826041710685</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240825094731246"/>
         <updated>2024-08-25T01:00:39.949Z</updated>
         <content type="html"><![CDATA[[마이데일리 = 이승길 기자] 영화 '에이리언: 로물루스'(감독 페데 알바레즈)가 100만 관객을 돌파했다. 25일 영화진흥위원회 통합전산망 집계에 따르면, 24일 기준 영화 '에이리언: 로물루스'가 누적 관객 111만 5,556명을 기록하며 박스오피스 1위에 올랐다. '에이리언: 로물루스'는 보다 나은 삶을 찾기 위해 식민지를 떠난 청년들이 버려진 우]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘아무도 없는 숲속에서’, 넷플 글로벌 11위 출발…‘엄마친구아들’에 韓정상 내줘]]></title>
-        <id>https://v.daum.net/v/20240825091403802</id>
-        <link href="https://v.daum.net/v/20240825091403802"/>
-        <updated>2024-08-25T01:00:39.949Z</updated>
-        <content type="html"><![CDATA[‘아무도 없는 숲속에서’가 넷플릭스 글로벌 11위로 출발했다. 25일 OTT 순위 집계 사이트 플릭스패트롤에 따르면 ‘아무도 없는 숲속에서’는 전날 넷플릭스 TV 쇼 부문 11위에 올랐으며, 총 28개 국가에서 톱10에 랭크됐다. 가장 뜨거운 반응을 얻은 국가는 한국이다. ‘아무도 없는 숲속에서’는 이 기간 국내 TV쇼 부문 차트 2위에 올랐다. 1위]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[송중기 “‘행복의 나라’ 전두환 분장한 유재명에 섬뜩함 느껴”]]></title>
-        <id>https://v.daum.net/v/20240825090257667</id>
-        <link href="https://v.daum.net/v/20240825090257667"/>
-        <updated>2024-08-25T01:00:39.950Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 배효주 기자] ‘행복의 나라’가 송중기와 함께한 ‘행복한 스페셜 GV’를 성공적으로 개최했다. 8월 22일 저녁 진행된 영화 '행복의 나라'(감독 추창민)의 ‘행복한 스페셜GV’는 합수단장 전상두 역의 유재명과 ‘빈센조’로 호흡 맞춘 송중기가 참석해 자리를 빛냈다. 드라마 '빈센조'로 인연을 맺게 된 두 사람은 당시의 기억을 떠올리며 화기애애한]]></content>
     </entry>
 </feed>
