@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2024-08-25T15:12:09.524Z</updated>
+    <updated>2024-08-25T16:14:34.208Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이엘 "귀신 본 듯 굳은 반려묘들에 공포 느껴.. 찬송가 틀고 진정"]]></title>
+        <id>https://v.daum.net/v/20240826010031202</id>
+        <link href="https://v.daum.net/v/20240826010031202"/>
+        <updated>2024-08-25T16:14:28.663Z</updated>
+        <content type="html"><![CDATA[[TV리포트=이혜미 기자] 배우 이엘이 호러 퀸 이미지와 달리 겁이 많다며 허공을 보고 멈춰선 반려묘들 때문에 공포심을 느낀 사연을 전했다. 25일 MBC ‘심야괴담회4’에선 이엘이 게스트로 출연해 직접 겪은 괴담을 소개했다. ‘호러 퀸’ 이엘의 등장에 ‘심야괴담회’ 패널들은 “올 사람이 왔다”며 반색했다. 이엘의 절친이라는 김호영은 “우린 데뷔 전부터 친]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[여자친구 부모님과의 만남]]></title>
+        <id>https://v.daum.net/v/20240826003031050</id>
+        <link href="https://v.daum.net/v/20240826003031050"/>
+        <updated>2024-08-25T16:14:28.669Z</updated>
+        <content type="html"><![CDATA[TV조선은 26일 밤 10시 ‘조선의 사랑꾼’을 방송한다. 심현섭이 우여곡절 끝에 여자친구 부모님을 뵙기로 하고 약속 장소로 향한다. 심현섭 못지않게 긴장해 전날 밤잠도 제대로 이루지 못한 여자친구의 모습이 공개된다. 심현섭은 여자친구를 보자마자 “얼굴이… 잠 못 잔 거 봐!”라며 안타까워한다. ‘결추위 후원회장’ 이천수 역시 “잘 못 주무신 게 아닌가”라]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['가족X멜로' 정웅인, 최민호 아버지 아닌 이복 형이었다]]></title>
         <id>https://v.daum.net/v/20240826000551878</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240825231928592"/>
         <updated>2024-08-25T15:12:04.592Z</updated>
         <content type="html"><![CDATA[[티브이데일리 김진석 기자] '가족X멜로' 손나은이 최민호의 배려에 심쿵했다. 25일 밤 방송된 JTBC 토일드라마 '가족X멜로' 6회에서는 변미래(손나은)와 남태평(최민호)의 모습이 방송됐다. 이날 변미래는 마트에서 '브라보 떡볶이'를 비치하며 "MD가 갑은 무슨, 뭐든 다 하는 을 중의 을이지"라며 한숨을 내쉬었다. 사무실에 후배를 먼저 보내고도 계속]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['한 번쯤 이혼할 결심' 고민환, 이혜정과 갈등 심화…대화 중 촬영 중단]]></title>
-        <id>https://v.daum.net/v/20240825230851545</id>
-        <link href="https://v.daum.net/v/20240825230851545"/>
-        <updated>2024-08-25T14:11:11.597Z</updated>
-        <content type="html"><![CDATA[[스포츠투데이 백지연 기자] '한 번쯤 이혼할 결심' 이혜정과 고민환의 갈등이 깊어졌다. 25일 밤 방송된 MBN 예능프로그램 '한 번쯤 이혼할 결심'에서 이혜정, 고민환 부부의 갈등이 심화됐다. 이날 방송에서 다툼 후 하루 만에 얼굴을 마주한 이혜정과 고민환. 고민환은 "남편이 부탁한 게 있으면 당신도 들어주는 모습이 있어야 하지 않냐. 근데 똑같은]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“바로 헤어졌어”… 김민지·박지성, 배성재 소개팅 주선 비하인드 공개]]></title>
-        <id>https://v.daum.net/v/20240825230303516</id>
-        <link href="https://v.daum.net/v/20240825230303516"/>
-        <updated>2024-08-25T14:11:11.611Z</updated>
-        <content type="html"><![CDATA[박지성·김민지가 ‘미우새’에 찾아왔다. 25일 오후 방송된 SBS 예능프로그램 ‘미운 우리 새끼’(이하 ‘미우새’)에는 배정남이 오랜만에 모습을 모였다. 이날 방송에서는 배정남의 반려견 벨이 2년 전에 급성 목디스크에 걸려 움직이지 못하는 일상을 전했다. 배정남은 아침 일찍부터 벨의 굳어 있는 근육을 풀어줬다. 그는 “아이고 좋다. 시원하지?”라며 벨을 정]]></content>
     </entry>
 </feed>
