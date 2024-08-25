@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2024-08-25T03:13:21.824Z</updated>
+    <updated>2024-08-25T04:15:00.137Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[임영웅=즐김+노력형, 절대 이길 수 없는 자의 상암벌 점령기]]></title>
+        <id>https://v.daum.net/v/20240825123127840</id>
+        <link href="https://v.daum.net/v/20240825123127840"/>
+        <updated>2024-08-25T04:14:40.862Z</updated>
+        <content type="html"><![CDATA[아이즈 ize 한수진 기자"임영웅은 즐기는 자에 노력형이에요. 절대 이길 수 없는 거죠." 가수 임영웅의 스타디움 공연은 그의 손길이 닿지 않은 곳이 없었다. 그는 피아노 뚜껑을 덮어놓고 종이 위에 한자 한자 자신의 아이디어를 필기하며 공연을 구상했다. 더 나은 공연, 더 완벽한 공연, 그리고 선한 영향력을 뻗칠 수 있는 의미 있는 공연을 만들기 위해서였다]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['스크린에 뜬' 임영웅·남진, 극장가에 '오빠 바람'이 분다]]></title>
         <id>https://v.daum.net/v/20240825110232411</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240824163030514"/>
         <updated>2024-08-24T08:15:04.375Z</updated>
         <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]마블 히어로 무비 ‘데드풀과 울버린’이 흥행 열풍을 이어가고 있다. 23일(현지시간) 박스오피스 모조에 따르면, ‘데드풀과 울버린’은 북미에서 5억 5,880만 달러, 해외에서 5억 9,793만 달러의 벌어들여 모두 11억 5,673만 달러(약 1조 5,372억원)의 수익을 거뒀다. 이로써 2016년 개봉한 ‘캡틴 아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[故 이선균, BIFF 한국영화 공로상 받는다]]></title>
-        <id>https://v.daum.net/v/20240824142431302</id>
-        <link href="https://v.daum.net/v/20240824142431302"/>
-        <updated>2024-08-24T06:16:24.478Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 | 김나라 기자] '행복의 나라' 속 이선균 /사진=NEW배우 고(故) 이선균이 올해 부산국제영화제의 한국영화 공로상 수상자로 선정됐다. 23일 제29회 부산국제영화제(BIFF) 측은 특별기획 프로그램 '고운 사람, 이선균' 개최 사실을 알렸다. 이번 특별전을 통해 고인의 대표작 6편을 상영하고 스페셜 토크도 함께 진행한다. "이선균의 연기 인]]></content>
     </entry>
 </feed>
