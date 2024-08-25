@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2024-08-25T21:11:00.328Z</updated>
+    <updated>2024-08-25T22:12:24.716Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘한국이 싫어서’ 떠나는 것도 용기지만]]></title>
+        <id>https://v.daum.net/v/20240826062007875</id>
+        <link href="https://v.daum.net/v/20240826062007875"/>
+        <updated>2024-08-25T22:12:04.941Z</updated>
+        <content type="html"><![CDATA[‘한국이 싫어서’ 떠난다면 지금보다 행복할까. 여름의 끝에 곱씹어 볼 영화가 극장가를 찾는다. 영화 ‘한국이 싫어서’를 거칠게 요약하자면 동시대 한국을 살아가는 20대 후반 직장인 여성의 ‘헬조선’ 탈출기다. 지난 2015년 출간된 장강명 작가의 동명 소설이 원작이며, ‘한여름의 판타지아’, ‘5시부터 7시까지의 주희’ 장건재 감독이 각색해 연출했다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['핸섬가이즈'→'탈주'까지, 여름 韓영화 블록버스터 아닌 미들급 영화만 생존]]></title>
+        <id>https://v.daum.net/v/20240826061348829</id>
+        <link href="https://v.daum.net/v/20240826061348829"/>
+        <updated>2024-08-25T22:12:04.946Z</updated>
+        <content type="html"><![CDATA[여름 극장에 목숨건 초대형 블록버스터의 시대가 끝났다. 그동안 본 적 없었던 장르, 캐스팅을 전면에 내세운 미들급 규모의 영화만 살아남으며 극장가 판도를 뒤집었다. 지난 22일 영화진흥위원회가 공개한 '2024년 7월 한국 영화 산업 결산 발표'에서는 중급 K-무비의 약진에 대해 언급했다. 지난 달 3일 개봉한 '탈주'를 시작으로 12일 개봉]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['베테랑2' 황정민·정해인, 추석 연휴 관객들과 함께 보낸다]]></title>
         <id>https://v.daum.net/v/20240826060128626</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240825102526811"/>
         <updated>2024-08-25T02:13:42.434Z</updated>
         <content type="html"><![CDATA[[앵커] 이번 주말 영화관에서 자리를 찾기 쉽지 않은 영화가 있습니다. 바로 '사랑의 하츄핑'인데요. 아이들의 뜨거운 지지만 받는 게 아니라, 어른들의 마음까지 사로잡았다고 합니다. 신새롬 기자입니다. [기자] &lt;현장음&gt; "하나, 둘, 셋! 사랑의 하츄핑~~~~" 핑크핑크한 하츄핑의 등장에 아이들 함성이 영화관 밖까지 흘러나옵니다. 지난 4일 개봉해]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['폭군' 김선호 "'연기 못해' 소리 듣던 나, 멱살 잡고 끌고 갔죠"]]></title>
-        <id>https://v.daum.net/v/20240825095001288</id>
-        <link href="https://v.daum.net/v/20240825095001288"/>
-        <updated>2024-08-25T01:00:39.947Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 | 종로구=김나라 기자] '폭군' 주역 김선호 /사진=월트디즈니 컴퍼니 코리아배우 김선호(38)가 못 말리는 연기 열정으로 앞으로의 행보에 더욱 기대감을 높였다. 김선호는 이달 14일 '폭군'으로 전 세계 시청자들을 찾아갔다. '폭군'은 OTT 디즈니+ 4부작 오리지널 시리즈다. '폭군 프로그램'의 마지막 샘플이 배달사고로 사라진 후 각기 다른]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아직 개봉 전인데…뜨거운 임영웅 영화, 예매율 압도적 1위]]></title>
-        <id>https://v.daum.net/v/20240825094731246</id>
-        <link href="https://v.daum.net/v/20240825094731246"/>
-        <updated>2024-08-25T01:00:39.949Z</updated>
-        <content type="html"><![CDATA[[마이데일리 = 이승길 기자] 영화 '에이리언: 로물루스'(감독 페데 알바레즈)가 100만 관객을 돌파했다. 25일 영화진흥위원회 통합전산망 집계에 따르면, 24일 기준 영화 '에이리언: 로물루스'가 누적 관객 111만 5,556명을 기록하며 박스오피스 1위에 올랐다. '에이리언: 로물루스'는 보다 나은 삶을 찾기 위해 식민지를 떠난 청년들이 버려진 우]]></content>
     </entry>
 </feed>
