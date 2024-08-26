@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2024-08-26T21:12:06.223Z</updated>
+    <updated>2024-08-26T22:12:47.838Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["女원톱 영화 수익 1등"…고아성, '한국이 싫어서'로 믿보배 굳히기]]></title>
+        <id>https://v.daum.net/v/20240827063349221</id>
+        <link href="https://v.daum.net/v/20240827063349221"/>
+        <updated>2024-08-26T22:12:25.891Z</updated>
+        <content type="html"><![CDATA[[스포츠조선 안소윤 기자] 배우 고아성(32)이 영화 '한국이 싫어서'를 통해 또 한 번 믿고 보는 배우의 진가를 발휘할 예정이다. 오는 28일 개봉하는 '한국이 싫어서'는 장강명 작가의 베스트셀러 소설이 원작으로, 20대 후반의 계나(고아성)가 어느 날 갑자기 자신의 행복을 찾아서 직장과 가족, 남자친구를 뒤로하고 홀로 뉴질랜드로 떠나는]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[진기주, 격동의 근현대사 속 현장의 얼굴]]></title>
         <id>https://v.daum.net/v/20240827060508979</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240826164500590"/>
         <updated>2024-08-26T08:17:10.819Z</updated>
         <content type="html"><![CDATA[넷플릭스 기대작 ‘지옥2’이 올해 부산국제영화제에서 첫 베일을 벗는다. 제29회 부산국제영화제가 10월 2일부터 11일까지 부산 해운대 영화의전당 일대에서 열흘간 개최되는 가운데 ‘지옥2’(감독 연상호)가 ‘온 스크린’ 분야에 공식 초청됐다. 해당 분야는 가장 주목받는 드라마 시리즈를 미리 선보이는 섹션. 올해에도 전 세계 최초로 공개 예정인 한국 작품 4]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[송중기 '보고타'·이준혁 '비숲' 스핀오프, 부국제서 최초 공개]]></title>
-        <id>https://v.daum.net/v/20240826164122444</id>
-        <link href="https://v.daum.net/v/20240826164122444"/>
-        <updated>2024-08-26T08:17:10.822Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 | 김나라 기자] /사진=플러스엠 엔터테인먼트('보고타'), 티빙('좋거나 나쁜 동재')송중기 '보고타', 이준혁 '좋거나 나쁜 동재' 등 기대작들이 올해 부산국제영화제를 통해 전격 첫선을 보인다. 제29회 부산국제영화제(BIFF) 측은 26일, '한국영화의 오늘-스페셜 프리미어' 5편과 '온 스크린' 6편의 선정작을 발표했다. '한국영화의]]></content>
     </entry>
 </feed>
