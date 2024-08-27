@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2024-08-27T17:11:40.377Z</updated>
+    <updated>2024-08-27T18:17:22.858Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[미혼 에녹-데니안 위해 소개팅 물색]]></title>
+        <id>https://v.daum.net/v/20240828030439969</id>
+        <link href="https://v.daum.net/v/20240828030439969"/>
+        <updated>2024-08-27T18:17:18.123Z</updated>
+        <content type="html"><![CDATA[‘연애부장’인 개그우먼 심진화의 주도로 정경미 김경아 홍윤화가 교외로 단합대회를 떠난다. 그들은 ‘미혼반’ 에녹과 데니안을 위한 소개팅을 물색하고 복분자청을 만들기 위해 복분자 수확에 나선다. 가수 에녹은 절친 동생 마리아와 함께 점성술집을 방문해 연애 결혼운을 점쳐 본다]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[채리나, 스타킹에 구멍까지…FC탑걸 승리를 향한 굳은 의지]]></title>
+        <id>https://v.daum.net/v/20240828022308761</id>
+        <link href="https://v.daum.net/v/20240828022308761"/>
+        <updated>2024-08-27T18:17:18.124Z</updated>
+        <content type="html"><![CDATA[[서울=뉴시스]정혜원 인턴 기자 = '제5회 슈퍼리그' B조 마지막 경기가 공개된다. 28일 오후 9시 방송되는 SBS TV 축구 예능물 '골(Goal) 때리는 그녀들'에서는 제5회 슈퍼리그의 마지막 조별 예선 경기가 펼쳐진다. 4강 진출팀의 모든 퍼즐이 완성되는 매치다. 현재 B조 3위인 FC탑걸은 정규 시간 내 1골 차 이상으로 승리하거나, 승부차기로]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[비스테이지서 115개국 팬덤·조회수 300% 급증한 쥴리, 나띠, 벨, 하늘 키스오브라이프···글로벌 대세 입증하며 멤버십 모집]]></title>
         <id>https://v.daum.net/v/20240828015839692</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240828001549145"/>
         <updated>2024-08-27T16:15:22.172Z</updated>
         <content type="html"><![CDATA[[스포츠조선닷컴 정안지 기자] "여자로 보이나요?" 예지원이 매력이 넘치는 썸남에 반했다. 27일 방송된 TV CHOSUN 여배우들의 아주 사적인 연애 스토리 '공개연애-여배우의 사생활'에서 예지원은 한국 무용가 이동준과 오윤아는 패션기업 부사장 노성준과, 이수경은 반도체 연구원 강호선과 짝꿍이 되어 서로를]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[신계숙, 오토바이 타는 까닭? "최불함·허영만·김영철 사이서 꼴등할까봐"]]></title>
-        <id>https://v.daum.net/v/20240828001308126</id>
-        <link href="https://v.daum.net/v/20240828001308126"/>
-        <updated>2024-08-27T15:13:43.640Z</updated>
-        <content type="html"><![CDATA[[서울=뉴시스]정혜원 인턴 기자 = 요리사 겸 배화여대 전통조리과 교수 신계숙이 여행 프로그램 뒷얘기를 밝힌다. 28일 오후 10시 30분 방송되는 MBC TV 예능물 '라디오스타'(이하 '라스')는 '내가 참 좋아' 특집으로 꾸며진다. 신계숙을 비롯해 미스코리아 출신 강주은, 그룹 '쥬얼리' 출신 배우 예원, 그룹 '엔믹스' 멤버 해원이 출연한다. 여행]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[피프티피프티 전멤버 3인, “정산금 3억 달라” 어트랙트 상대로 소송]]></title>
-        <id>https://v.daum.net/v/20240828001002098</id>
-        <link href="https://v.daum.net/v/20240828001002098"/>
-        <updated>2024-08-27T15:13:43.641Z</updated>
-        <content type="html"><![CDATA[피프티피프티 전멤버 3인이 어트랙트 전홍준 대표를 상대로 3억원 정산금 청구 소송을 제기했다. 27일 법조계와 연예계에 따르면 전 멤버 3인 새나와 시오, 아란은 지난 23일에 서울중앙지방법원에 “정산금을 지급해 달라”며 소장을 제출했다. 이 소송은 3억100만원 규모로, 지난해 12월 어트랙트가 전 멤버 3명과 부모, 외주 제작사 더기버스 안성일]]></content>
     </entry>
 </feed>
