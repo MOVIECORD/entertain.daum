@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-08-28T03:14:48.195Z</updated>
+    <updated>2024-08-28T04:16:20.320Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['파친코2' 이민호♥김민하 7년만 재회→외신도 호평..속편 징크스 깼다]]></title>
+        <id>https://v.daum.net/v/20240828131551517</id>
+        <link href="https://v.daum.net/v/20240828131551517"/>
+        <updated>2024-08-28T04:16:05.903Z</updated>
+        <content type="html"><![CDATA[[OSEN=하수정 기자] 세계 유수 매체로부터 극찬 받으며 작품성을 입증한 ‘파친코’–Pachinko 시즌2가 첫 번째 에피소드 공개와 동시에 로튼 토마토 신선도 지수 100%를 기록하며 뜨거운 반응을 일으키고 있다. 거대한 스케일의 서사를 따뜻하게 담아낸 ‘파친코’는 금지된 사랑에서 시작되는 이야기로 한국과 일본, 그리고 미국을 오가며 전쟁과 평화,]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[강훈, '런닝맨' 잠정 하차 이유 있었네..2개 인격 신혜선과 ♥]]></title>
         <id>https://v.daum.net/v/20240828120432342</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240828103906521"/>
         <updated>2024-08-28T02:08:16.369Z</updated>
         <content type="html"><![CDATA[[SBS연예뉴스 | 강선애 기자] '지옥에서 온 판사' 박신혜가 사이다 활약을 예고했다. 오는 9월 21일 첫 방송되는 SBS 새 금토드라마 '지옥에서 온 판사'(극본 조이수, 연출 박진표)는 판사의 몸에 들어간 악마 강빛나(박신혜 분)가 지옥 같은 현실에서 인간적인 열혈형사 한다온(김재영 분)을 만나 죄인을 처단하며 진정한 판사로 거듭나는 선악공존 사이다]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박서준·한소희·이무생·배현성 ‘경성크리처’ 시즌2, 9월 27일 공개 확정]]></title>
-        <id>https://v.daum.net/v/20240828103905519</id>
-        <link href="https://v.daum.net/v/20240828103905519"/>
-        <updated>2024-08-28T02:08:16.370Z</updated>
-        <content type="html"><![CDATA[넷플릭스(Netflix)가 ‘경성크리처’ 시즌2 공개일을 9월 27일로 확정하고 캐릭터 포스터 4종과 티저 예고편을 공개했다. 시대의 어둠이 짙었던 ‘1945년 경성’을 배경으로 괴물 같은 인간의 탐욕이 만들어낸 비극과 이러한 시대에 맞서는 두 청춘의 애틋한 로맨스를 그려내며 전 세계 시청자들의 호평을 받은 ‘경성크리처’가 9월 27일 시즌2 공개를 확정,]]></content>
     </entry>
 </feed>
