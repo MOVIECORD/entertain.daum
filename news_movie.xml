@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2024-08-29T10:14:20.597Z</updated>
+    <updated>2024-08-29T11:12:15.039Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['데뷔 60년' 남진, 월남 파병→나훈아 경쟁 "나 같은 우여곡절 없어"]]></title>
+        <id>https://v.daum.net/v/20240829195003188</id>
+        <link href="https://v.daum.net/v/20240829195003188"/>
+        <updated>2024-08-29T11:11:53.808Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 김유진 기자) 가수 남진이 데뷔 후 60여 년의 시간을 돌아봤다.&nbsp; 남진은 29일 오후 서울 종로구 삼청동의 한 카페에서 열린 남진 데뷔 60주년 기념 영화 '오빠, 남진'(감독 정인성) 인터뷰에서 다양한 이야기를 전했다. '오빠, 남진'은 대한민국 최초의 팬덤을 이끈 '오빠' 남진의 데뷔 60주년을 맞아 팬들을 위해 만들어진 콘서트 무비다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['9년째 불륜' 홍상수♥김민희, 경사 나도 韓일정 없다…당당함은 해외에서만]]></title>
         <id>https://v.daum.net/v/20240829191151239</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240829173015952"/>
         <updated>2024-08-29T09:14:42.596Z</updated>
         <content type="html"><![CDATA[[SBS 연예뉴스 | 김지혜 기자] 배우 유태오가 할리우드 영화 '카로시'의 주연으로 캐스팅 됐다. 29일 소속사 씨제스에 따르면 유태오는 미국 유명 배급사 라이언스 게이트와 '존윅' 제작사인 87 일레븐 엔터테인먼트사의 협업으로 제작되는 액션 스릴러물 '카로시'에 출연한다. 유태오는 제96회 미국 아카데미시상식 최우수 작품상, 각본상 후보에 오른 '패스트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘사랑은 하고 싶어’ 빛난다, 데이지 리들러]]></title>
-        <id>https://v.daum.net/v/20240829173014951</id>
-        <link href="https://v.daum.net/v/20240829173014951"/>
-        <updated>2024-08-29T09:14:42.602Z</updated>
-        <content type="html"><![CDATA[배우 데이지 리들러가 빛난다. 그가 표현한 고독과 성장이 잔잔한 위로로 와닿는 ‘죽고 싶지만 사랑은 하고 싶어’다. ‘죽고 싶지만 사랑은 하고 싶어’(감독 레이철 램버트)는 하루하루 무미건조하게 일상 속에서 자신의 죽음을 상상하며 자극을 얻는 프랜이 어느 날 직장에 새로 온 로버트를 만나게 되면서 겪게 되는 일들을 담은 영화다. 제39회 선댄스 영화제 US]]></content>
     </entry>
 </feed>
