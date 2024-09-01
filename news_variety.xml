@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/variety</id>
     <title>다음 연예 ─ 뉴스 ─ 예능</title>
-    <updated>2024-09-01T19:09:43.942Z</updated>
+    <updated>2024-09-01T20:14:18.163Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[본명=은지원 아닌 은신기.."작두탈 뻔 했다" 핵소름]]></title>
+        <id>https://v.daum.net/v/20240902050128896</id>
+        <link href="https://v.daum.net/v/20240902050128896"/>
+        <updated>2024-09-01T20:14:09.373Z</updated>
+        <content type="html"><![CDATA[[OSEN=김수형 기자] '미우새'에서 은지원이 무당이 될 뻔한 깜짝 이름 비하인드가 소름돋게 했다. 1일 방송된 SBS 예능 '미운우리새끼(약칭 미우새)'에서 은지원 이름 비화를 밝혔다.&nbsp; 이날 은지원 이름 풀이를 시작했다.&nbsp;이름을 보자마자 작명가는 "태어났을 때 작명소에서 지은 이름"이라 바로 알아챘다.&nbsp;은지원은 "원래 '은신기'였다. 외할아버지가]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘심야괴담회’ 김호영의 ‘응급구조사’, “나 대신 귀신 데리고 간 할머니”]]></title>
         <id>https://v.daum.net/v/20240902003703664</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240901233230084"/>
         <updated>2024-09-01T15:12:05.674Z</updated>
         <content type="html"><![CDATA[[마이데일리 = 강다윤 기자] 산부인과 전문의 고민환이 아내 이혜정과의 신혼여행을 회상했다. 1일 방송된 종합편성채널 MBN '한 번쯤 이혼할 결심'에서는 '결혼 46년 차' 이혜정, 고민환 부부가 MC 김용만을 비롯해 절친한 지인들을 집으로 초대해 바비큐 홈파티를 즐겼다. 이날 고민환은 김용만의 '허니문 베이비' 이야기에 "검증하려면 나한테 이야기하]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["삭발해라" 야유 쏟아져…조세호, '1박 2일' 불참+하차설에 입 열었다]]></title>
-        <id>https://v.daum.net/v/20240901233003074</id>
-        <link href="https://v.daum.net/v/20240901233003074"/>
-        <updated>2024-09-01T15:12:05.675Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 이예진 기자) 방송인 조세호가 '1박 2일' 합류 2회만에 촬영에 불참해 뜨거운 화제를 모은 가운데, 그 이유에 대해 해명했다. 1일 방송된 KBS 2TV 예능 프로그램 '1박 2일 시즌4'(이하 '1박 3일')에서는 새 멤버 조세호 없이 촬영을 이어가는 모습이 전파를 탔다. 지난 7월 21일, '1박 2일' 멤버 연정훈과 나인우가 하차하며]]></content>
     </entry>
 </feed>
