@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-09-02T09:15:04.877Z</updated>
+    <updated>2024-09-02T10:13:59.100Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[신혜선, 강훈 손목 잡고 탈출한 흑기녀..비주얼 쇼크]]></title>
+        <id>https://v.daum.net/v/20240902184250335</id>
+        <link href="https://v.daum.net/v/20240902184250335"/>
+        <updated>2024-09-02T10:13:42.897Z</updated>
+        <content type="html"><![CDATA[[OSEN=하수정 기자] 지니 TV 오리지널 ‘나의 해리에게’에서 신혜선이 박스를 내던진 채 강훈의 손목을 움켜쥐고 줄행랑을 치는 스틸이 공개돼 눈길을 사로잡는다. 지니 TV 오리지널 ‘나의 해리에게’(연출 정지현, 허석원/극본 한가람/기획 KT스튜디오지니/제작 스튜디오드래곤, 스튜디오힘)는 새로운 인격이 발현된 아나운서 ‘은호’와 구 남자친구 ‘현오’]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SBS '고래와 나', 제51회 한국방송대상 대상…김태리X김은희 '악귀' 3관왕]]></title>
         <id>https://v.daum.net/v/20240902181250746</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240902160353215"/>
         <updated>2024-09-02T07:12:33.023Z</updated>
         <content type="html"><![CDATA[[이데일리 스타in 김가영 기자] 배우 김영재의 시한폭탄 매력이 ‘가족X멜로’의 재미를 극대화하고 있다. JTBC 토일드라마 ‘가족X멜로’에서 변무진(지진희 분)의 일이라면 내 일처럼 나서는 세무사 오재걸 역을 맡은 김영재가 폭풍 연기력으로 하드캐리 중이다. ‘가족X멜로‘ 7회, 8회에서 김영재는 또 한 번 반전 모습을 선보이며 긴장감을 안겼다. 양육비]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[개그우먼 김니나 "이커머스 피싱으로 일주일에 8700만원 잃어"]]></title>
-        <id>https://v.daum.net/v/20240902160151123</id>
-        <link href="https://v.daum.net/v/20240902160151123"/>
-        <updated>2024-09-02T07:12:33.024Z</updated>
-        <content type="html"><![CDATA[[이데일리 스타in 김가영 기자] 개그맨 김니나가 하루 아침에 전 재산을 잃은 안타까운 사연을 털어놨다. 3일 방송되는 KBS2 예능 ‘하이엔드 소금쟁이’에서는 2014년 KBS 공채 개그맨으로 데뷔, ‘개그콘서트’의 다양한 코너에서 활약했던 개그맨 김니나가 의뢰인으로 출연한다. 이날 MC 양세형은 어두운 표정으로 스튜디오에 나온 개그맨 김니나를 보고 “]]></content>
     </entry>
 </feed>
