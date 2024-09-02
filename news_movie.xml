@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2024-09-02T20:13:51.633Z</updated>
+    <updated>2024-09-02T21:12:13.271Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘베테랑2’ 나홀로 출격…사라진 추석 영화 이유는]]></title>
+        <id>https://v.daum.net/v/20240903054903199</id>
+        <link href="https://v.daum.net/v/20240903054903199"/>
+        <updated>2024-09-02T21:11:53.743Z</updated>
+        <content type="html"><![CDATA[올 추석 극장가가 유난히 썰렁하다. 다수의 상업영화가 연이어 개봉했던 예년과 달리 올해는 단 한 편의 기대작만 극장에 걸린다. 달라진 시장 흐름에 ‘몸 사리기’까지 맞물린 영향으로 풀이된다. 오는 14일부터 5일간 이어질 추석 연휴를 앞두고 극장가 신작 라인업 정비가 완료됐다. 추석 연휴 전후 2주간 개봉하는 한국 영화는 총 여섯 편, 이 중 주요 배급사]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[고민시 “‘넷플릭스 효녀’ 되고파…몰랐던 내 얼굴 발견한 ‘아없숲’”]]></title>
+        <id>https://v.daum.net/v/20240903054231141</id>
+        <link href="https://v.daum.net/v/20240903054231141"/>
+        <updated>2024-09-02T21:11:53.745Z</updated>
+        <content type="html"><![CDATA[“넷플릭스 딸이요? 효녀가 되고 싶죠. 즐겁게 만나 성과까지 내면 정말 좋으니까요.” ‘스위트홈’의 반항적 눈빛의 소녀에서 미스터리한 사이코 여인으로 넷플릭스에 돌아온 고민시는 이같이 말하며 환히 웃었다. 지난 23일 새 시리즈 ‘아무도 없는 숲속에서’로 돌아온 그는 일간스포츠와 만나 “작년 여름 너무 사랑했던 작품이 전 세계적으로 공개돼 기쁘다. 20]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[마흐말바프→신수원, 윤재호 감독...부산국제영화제, 주요 부문 심사위원 확정]]></title>
         <id>https://v.daum.net/v/20240902223004523</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240902172705146"/>
         <updated>2024-09-02T09:14:43.132Z</updated>
         <content type="html"><![CDATA[극장도 영웅시대다. 임영웅의 스타디움 입성기를 담은 영화 ‘임영웅│아임 히어로 더 스타디움’이 개봉 5일 만에 누적 관객수 16만 명을 넘어섰다. 이는 2023년 3월에 개봉해 25만 명 이상을 동원한 임영웅의 콘서트 실황 영화 ‘아임 히어로 더 파이널’보다 빠른 속도다. 매출액도 남다르다. ‘임영웅│아임 히어로 더 스타디움’는 아이맥스, 스크린X 등 특별]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[전작보다 빠르다..‘아임 히어로 더 스타디움’ 5일만 16만 돌파]]></title>
-        <id>https://v.daum.net/v/20240902172702140</id>
-        <link href="https://v.daum.net/v/20240902172702140"/>
-        <updated>2024-09-02T09:14:43.134Z</updated>
-        <content type="html"><![CDATA[‘아임 히어로 더 파이널’보다 빠른, 극장가는 또 한 번 임영웅 돌풍이다. 임영웅의 스타디움 입성기를 담은 영화 ‘임영웅│아임 히어로 더 스타디움’이 개봉 5일 만에 16만 관객을 돌파했다. 이는 2023년 3월에 개봉해 25만 명 이상을 동원한 임영웅의 콘서트 실황 영화 ‘아임 히어로 더 파이널’보다 빠른 속도로, 개봉 후에도 꾸준히 예매율 상위권을 유지]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘빅토리’ 역주행, 진심은 통한다]]></title>
-        <id>https://v.daum.net/v/20240902171802809</id>
-        <link href="https://v.daum.net/v/20240902171802809"/>
-        <updated>2024-09-02T09:14:43.135Z</updated>
-        <content type="html"><![CDATA[‘빅토리’의 진심은 통했다. 개봉 3주차 주말 좌석판매율 증가를 기록하며 역주행 중인 것. 영화관입장권 통합전산망에 따르면 ‘빅토리’는 개봉 3주차 주말(8월30일~9월1일)동안 좌석판매율 14.1%를 기록했다. 이는 지난 주말보다 상승한 수치로, 관객들의 성원 속 꾸준한 예매율까지 유지하고 있어 눈길을 끈다. ‘빅토리’는 춤만이 인생의 전부인 필선(이혜리]]></content>
     </entry>
 </feed>
