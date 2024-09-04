@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2024-09-04T03:14:00.252Z</updated>
+    <updated>2024-09-04T04:16:11.040Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[77세 엘튼 존, 심각한 감염으로 '한쪽 눈' 안 보여...팬들 걱정]]></title>
+        <id>https://v.daum.net/v/20240904123728402</id>
+        <link href="https://v.daum.net/v/20240904123728402"/>
+        <updated>2024-09-04T04:16:10.406Z</updated>
+        <content type="html"><![CDATA[[TV리포트=강나연 기자] 유명 가수 엘튼 존이 최근 심각한 안구 감염으로 한쪽 눈의 시력이 심각하게 망가졌다고 고백했다. 3일(현지 시간) 영국의 팝 가수 엘튼 존(77)은 자신의 안 좋은 건강 상태를 직접 알리며 회복 중이라고 밝혔다. 그는 "여름 동안 심각한 안구 감염을 겪으며 안타깝게도 한쪽 눈의 시력이 제한적으로 남게 되었습니다"라고 전했다. 이어]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[미아 패로 "한국계 딸과 불륜' 우디 앨런과 일하는 배우들? 이해해"]]></title>
         <id>https://v.daum.net/v/20240904114834857</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240903161330803"/>
         <updated>2024-09-03T08:17:11.125Z</updated>
         <content type="html"><![CDATA[[TV리포트=강나연 기자] 영화 '기제트', '스타트렉' 등으로 사랑 받은 배우 제임스 대런이 향년 88세로 세상을 떠났다. 미국의 배우 제임스 대런이 88세의 나이로 세상을 떠났다. 그는 1959년 영화 '기제트'에서 주연을 맡아 큰 인기를 얻었으며, 이후 수십 년에 걸쳐 'T.J. 후커' 등 TV 드라마에서도 활약했다. 제임스 대런은 그의 경력 초기에]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘약혼’ 레이디 가가, 손가락에서 빛나는 대왕 다이아반지]]></title>
-        <id>https://v.daum.net/v/20240903135704388</id>
-        <link href="https://v.daum.net/v/20240903135704388"/>
-        <updated>2024-09-03T05:13:44.414Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 이민지 기자] 레이디 가가의 약혼 반지가 포착됐다. 페이지식스 등 외신은 9월 2일(현지시간) 베니스 영화제에서 포착된 가수 겸 배우 레이디 가가의 근황을 전했다. 레이디 가가는 약혼자 마이클 폴란스키와 함께 영화제에 참석했다. 가장 눈길을 끈 것은 레이디 가가 왼손에서 빛나고 있는 거대한 다이아몬드 반지다. 레이디 가가 커플이 시사회를 앞]]></content>
     </entry>
 </feed>
