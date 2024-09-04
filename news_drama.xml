@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-09-04T16:16:34.498Z</updated>
+    <updated>2024-09-04T17:11:37.842Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘재벌가 손자’ 박상남, 집에서 쫓겨난 철부지…신입 입사]]></title>
+        <id>https://v.daum.net/v/20240905020128178</id>
+        <link href="https://v.daum.net/v/20240905020128178"/>
+        <updated>2024-09-04T17:11:21.478Z</updated>
+        <content type="html"><![CDATA[[동아닷컴] 사진 제공: KBS 1TV 새 일일드라마 &lt;결혼하자 맹꽁아!&gt; ‘결혼하자 맹꽁아!’가 박상남의 첫 스틸을 공개했다. KBS1 새 일일드라마 ‘결혼하자 맹꽁아!’(연출 김성근 / 극본 송정림)는 이혼, 재혼, 졸혼 등 결혼의 다양한 모습을 보여줌으로써 ‘행복’의 진정한 의미를 묻고, 모든 세대의 공감과 웃음을 자아내는 유쾌한 가족 드라마다. 박]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘개소리’ 듣는 이순재, 사건 해결사로…티저 공개]]></title>
         <id>https://v.daum.net/v/20240905010127985</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240904191054092"/>
         <updated>2024-09-04T10:14:05.387Z</updated>
         <content type="html"><![CDATA[[스타뉴스 | 정은채 기자] /사진='A급 장영란' 영상화면 캡쳐방송인 장영란이 아들 준우의 과잉보호에 대해 고민했다. 4일 유튜브 채널 'A급 장영란'에는 장영란 아들 '혼자 '산속으로 보내버린 이유는?(인성교육,예절)'라는 제목의 영상이 올라왔다. 이날 장영란은 좋은 일이 생기면 감정이 들떠 몸을 잘 가누지 못하는 아들 준우에게 '느림의 미학'을 가]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['엄마친구아들' 글로벌 통했다…3주 연속 넷플릭스 톱10 진입]]></title>
-        <id>https://v.daum.net/v/20240904182850848</id>
-        <link href="https://v.daum.net/v/20240904182850848"/>
-        <updated>2024-09-04T10:14:05.387Z</updated>
-        <content type="html"><![CDATA[(사진=tvN)[이데일리 스타in 최희재 기자] 스튜디오드래곤이 제작한 ‘엄마친구아들’이 글로벌 흥행을 이어가고 있다. tvN 토일드라마 ‘엄마친구아들’(연출 유제원, 극본 신하은, 제작 스튜디오드래곤?더모도리)은 오류 난 인생을 재부팅 하려는 여자와 그의 살아있는 흑역사인 ‘엄마친구아들’이 벌이는 파란만장 동네 한 바퀴 로맨스다. tvN, 티빙, 넷플릭]]></content>
     </entry>
 </feed>
