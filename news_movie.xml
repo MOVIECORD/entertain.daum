@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2024-09-04T13:20:52.801Z</updated>
+    <updated>2024-09-04T14:12:25.873Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['더 콕핏'→'새벽의 모든'...미야케 쇼 감독 5편, '특별전'으로 만난다]]></title>
+        <id>https://v.daum.net/v/20240904223153864</id>
+        <link href="https://v.daum.net/v/20240904223153864"/>
+        <updated>2024-09-04T14:12:05.376Z</updated>
+        <content type="html"><![CDATA[(MHN스포츠 김종현 인턴기자, 장민수 기자) 일본 영화계 젊은 거장 미야케 쇼 감독의 대표작 5편이 '미야케 쇼 감독 특별전'을 통해 상영된다. 미야케 쇼는 하마구치 류스케, 후카다 코지 등의 감독들과 함께 일본 영화계를 이끌어가는 젊은 거장이다. 제96회 키네마준보 일본영화 BEST 10 1위, 제77회 마이니치영화콩쿠르에서 일본영화대상 및 감]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[NCT 재현→박주현, 곽시양...'6시간 후 너는 죽는다' 10월 개봉 확정]]></title>
         <id>https://v.daum.net/v/20240904220009423</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240904174512097"/>
         <updated>2024-09-04T09:13:44.572Z</updated>
         <content type="html"><![CDATA[[뉴스엔 장예솔 기자] 배우 노상현의 대세 행보가 관객들의 시선을 모은다. 매력 넘치는 대세 배우 김고은과 주목받는 뉴페이스 노상현의 만남으로 기대를 모으는 영화 '대도시의 사랑법'(감독 이언희)이 개봉일을 10월 1일로 확정했다. '대도시의 사랑법'은 눈치보는 법이 없는 자유로운 영혼의 재희(김고은)와 세상과 거리두는 법에 익숙한 흥수(노상현)가 동거]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김종관→이명세 4인4색 감독作 ‘더 킬러스’ 부국제 초청·10월 개봉]]></title>
-        <id>https://v.daum.net/v/20240904174258995</id>
-        <link href="https://v.daum.net/v/20240904174258995"/>
-        <updated>2024-09-04T09:13:44.580Z</updated>
-        <content type="html"><![CDATA[김종관, 노덕, 장항준, 이명세 독보적인 스타일을 지닌 네 감독이 한 작품으로 만난 ‘더 킬러스’가 제29회 부산국제영화제에 공식 초청됐다고 배급사 루믹스미디어가 밝혔다.&nbsp; ‘더 킬러스’는 헤밍웨이의 동명 단편소설을 대한민국 대표 감독 4인이 각기 다른 시선으로 해석하고 탄생시킨 4편의 살인극을 담은 시네마 앤솔로지. 제23회 뉴욕아시아영화제, 제28회]]></content>
     </entry>
 </feed>
