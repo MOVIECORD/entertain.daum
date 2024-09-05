@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2024-09-05T21:12:43.905Z</updated>
+    <updated>2024-09-05T22:12:46.113Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[강찬희, SF9 아닌 배우로..'메소드연기' 들고 부국제 참석 확정]]></title>
+        <id>https://v.daum.net/v/20240906064928671</id>
+        <link href="https://v.daum.net/v/20240906064928671"/>
+        <updated>2024-09-05T22:12:26.512Z</updated>
+        <content type="html"><![CDATA[[OSEN=박소영 기자] 그룹&nbsp;SF9&nbsp;멤버이자 배우 강찬희가 부산국제영화제에 참석한다. 제29회 부산국제영화제(BIFF)가 오는&nbsp;10월&nbsp;2일부터&nbsp;11일까지 개최되는 가운데,&nbsp;강찬희는 이번 영화제에서 첫 공개되는 영화&nbsp;‘메소드 연기’를 통해 다양한 일정에 참여한다.&nbsp;강찬희는 개막식 레드 카펫에 서고,&nbsp;야외무대인사 이벤트에 참여하는 등 팬들과의 만남을 앞두]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘슬로 호시스4‘→’김삼순’ 4K, 찐팬 위한 신작 쏟아진다]]></title>
         <id>https://v.daum.net/v/20240906060633219</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240905174327974"/>
         <updated>2024-09-05T09:13:34.118Z</updated>
         <content type="html"><![CDATA[플러스엠 엔터테인먼트(대표 홍정인)가 신선하고 매력적인 영화 시나리오 발굴을 위해 ‘제1회 플러스엠 엔터테인먼트 시나리오 공모전’을 개최한다. 공모전은 오는 23일부터 10월 25일까지 진행된다. 소재와 장르에 제한은 없으며 신인부터 기성 작가, 그리고 공동 창작까지 누구나 지원 가능하다. 공모전 홈페이지(plusment-scenario.co.kr]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[혜리 열정 통했다…'빅토리' 역주행, 귀한 40만 관객 이끈 진심]]></title>
-        <id>https://v.daum.net/v/20240905174153917</id>
-        <link href="https://v.daum.net/v/20240905174153917"/>
-        <updated>2024-09-05T09:13:34.119Z</updated>
-        <content type="html"><![CDATA[[스포티비뉴스=강효진 기자] 영화 '빅토리'가 역주행 기운을 받아 40만 관객 돌파를 눈앞에 두고 있다. 주연 혜리의 열정 가득한 진심이 관객들의 마음을 움직이고 있어 눈길을 끈다. 지난 달 14일 개봉한 '빅토리'는 춤만이 인생의 전부인 필선(이혜리)과 미나(박세완)가 치어리딩을 통해 모두를 응원하고 응원받게 되는 이야기를 그린 영화다. 공개 이후]]></content>
     </entry>
 </feed>
