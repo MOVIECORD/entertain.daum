@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-09-05T14:12:27.048Z</updated>
+    <updated>2024-09-05T15:14:05.112Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[비혼주의 이연두, ♥김사권 청혼에 무너져…권력자 스틸 공개]]></title>
+        <id>https://v.daum.net/v/20240906000008450</id>
+        <link href="https://v.daum.net/v/20240906000008450"/>
+        <updated>2024-09-05T15:13:50.751Z</updated>
+        <content type="html"><![CDATA[[동아닷컴] 사진 제공: KBS 1TV 새 일일드라마 &lt;결혼하자 맹꽁아!&gt;‘결혼하자 맹꽁아!’가 제이스패션의 절대 권력자 이연두의 첫 스틸을 공개했다. KBS1 새 일일드라마 ‘결혼하자 맹꽁아!’(연출 김성근 / 극본 송정림)는 이혼, 재혼, 졸혼 등 결혼의 다양한 모습을 보여줌으로써 ‘행복’의 진정한 의미를 묻고, 모든 세대의 공감과 웃음을 자아내는 유]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[띠동갑 기본, 14살 차도 OK..로코 장악한 연하남들]]></title>
         <id>https://v.daum.net/v/20240905230835832</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240905184952933"/>
         <updated>2024-09-05T10:14:27.017Z</updated>
         <content type="html"><![CDATA[[이데일리 스타in 김가영 기자] 배우 김혜은이 ‘조립식 가족’ 출연을 확정 지었다. JTBC 새 수요드라마 ‘조립식 가족’(극본 홍시영/연출 김승호/제작 하이지음스튜디오, 베이스스토리, SLL)은 10년은 가족으로 함께 했고, 10년은 남남으로 그리워했던 세 청춘이 다시 만나 펼쳐지는 로맨스로, 김혜은은 극 중 남들과는 조금 다른 모성애를 지닌 권정희]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['개소리' 이순재→임채무, 시니어들의 요절복통 케미스트리]]></title>
-        <id>https://v.daum.net/v/20240905184636835</id>
-        <link href="https://v.daum.net/v/20240905184636835"/>
-        <updated>2024-09-05T10:14:27.017Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 | 최혜진 기자] /사진=KBS 2TV배우 이순재, 김용건, 예수정, 임채무, 송옥숙이 '개소리'를 통해 요절복통 케미스트리를 선사한다. 5일 KBS 2TV 새 수목드라마 '개소리'(극본 변숙경, 연출 김유진) 측은 시니어 배우 5인방의 케미스트리를 엿볼 수 있는 스틸을 공개했다. '개소리'는 활약 만점 시니어들과 경찰견 출신 '소피'가 그]]></content>
     </entry>
 </feed>
