@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2024-09-05T17:12:11.024Z</updated>
+    <updated>2024-09-05T18:16:11.748Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[데뷔 20주년 윤하의 위로… “남 의식말고 자기 길 가요”]]></title>
+        <id>https://v.daum.net/v/20240906031432788</id>
+        <link href="https://v.daum.net/v/20240906031432788"/>
+        <updated>2024-09-05T18:16:05.739Z</updated>
+        <content type="html"><![CDATA[“‘우리’의 존재 가치를 증명하는 앨범이 됐으면 좋겠어요. 앨범을 통해 우리가 존재해야 할 이유를 말하고 싶었거든요. 나 혼자서는 성장에 한계가 있고, 내가 생각하는 것과 전혀 다른 방향으로 생각하며 삶을 살아온 어떤 대상이 있어야만 시너지를 내면서, 서로를 조금씩 깎아가며 성장할 수 있다고 생각해요.” 정규 7집 ‘그로우스 띠어리’(성장 이론)를 낸 가]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이찬원 이상형 공개 “성격과 취미가 잘 맞아야”]]></title>
+        <id>https://v.daum.net/v/20240906030011602</id>
+        <link href="https://v.daum.net/v/20240906030011602"/>
+        <updated>2024-09-05T18:16:05.740Z</updated>
+        <content type="html"><![CDATA[[동아닷컴] 사진제공 = KBS 2TV ‘신상출시 편스토랑’KBS2 예능 ‘편스토랑’ 이찬원이 절친 황윤성을 위해 특별한 시간을 준비한다. 6일 ‘신상출시 편스토랑’에서는 오랜만에 돌아온 찬또셰프 이찬원의 유쾌한 일상이 공개된다. 이찬원은 최근 전역한 절친 황윤성을 위해 제대 파티를 준비한다. 앞서 황윤성의 입대 파티도 직접 열어줬던 이찬원. 두 남자의]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘국민 베이비’ 문메이슨, 고등학생된 근황 “전교 1등, 의대 지망”]]></title>
         <id>https://v.daum.net/v/20240906020011373</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240906000215542"/>
         <updated>2024-09-05T15:13:59.974Z</updated>
         <content type="html"><![CDATA[워킹맘 차은경에 죄책감 심어주는 전개 비판 [더팩트 | 공미나 기자] 잘 나가던 '굿파트너'가 구시대적 전개로 시청자들의 지적을 받고 있다. 시청률도 소폭 하락하며 기세가 꺾였다. 지난 1일 방송된 SBS 금토드라마 '굿파트너'(극본 최유나, 연출 김가람)는 시청률 15.4%(이하 닐슨코리아, 전국 가구 기준)를 기록했다. 전날 대비 0.1%P, 직전]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[엑소 백현 "부모님 집·차 사주고 3년치 정산금 드려"]]></title>
-        <id>https://v.daum.net/v/20240906000108483</id>
-        <link href="https://v.daum.net/v/20240906000108483"/>
-        <updated>2024-09-05T15:13:59.974Z</updated>
-        <content type="html"><![CDATA[[서울=뉴시스] 손정빈 기자 = 그룹 엑소 백현이 부모에게 집·차·돈을 줬다고 했다. 5일 유튜브 채널 짠한형신동엽엔 백현이 나와 가족 얘기를 했다. 신동엽이 "가족과 있을 때 애교가 많은 편이냐"고 묻자 백현은 "어릴 때는 많았는데 사춘기 지나면서 애교가 없어졌고, 애교보다는 현실적으로 뭘 해드릴 수 있을지 생각한다. 가장과 같은 모습을 보여드리는]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[기안84, 8번째 새 집 공개…강남 인프라 '황금입지']]></title>
-        <id>https://v.daum.net/v/20240906000010455</id>
-        <link href="https://v.daum.net/v/20240906000010455"/>
-        <updated>2024-09-05T15:13:59.975Z</updated>
-        <content type="html"><![CDATA[[서울=뉴시스]정혜원 인턴 기자 = 웹툰작가 겸 방송인 기안84가 8번째로 이사한 새로운 집을 공개한다. 6일 오후 11시 10분 방송되는 MBC TV 예능물 '나 혼자 산다'에서는 새집으로 이사한 기안84의 일상이 공개된다. 이날 방송에서 기안84는 짐을 한가득 들고 낯선 집으로 들어간다. 웹툰 회사에서 지낸 '기생84' 시절부터 '과천 프린스'를]]></content>
     </entry>
 </feed>
