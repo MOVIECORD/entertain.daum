@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-09-06T21:12:19.220Z</updated>
+    <updated>2024-09-06T22:12:44.701Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[남지현, '해고 위기' 장나라 지키려 가정폭력 가해자 사건 수임]]></title>
+        <id>https://v.daum.net/v/20240907070654589</id>
+        <link href="https://v.daum.net/v/20240907070654589"/>
+        <updated>2024-09-06T22:12:31.918Z</updated>
+        <content type="html"><![CDATA[[OSEN=최지연 기자] '굿파트너' 남지현이 가정 폭력 가해자 변호에 나섰다.&nbsp; 6일 방송된 SBS 금토드라마 '굿파트너'(제작 김우택, 연출 김가람, 극본 최유나)에는 차은경(장나라 분)이 여러 위기에 처하는 모습이 그려졌다.&nbsp; 이날 오대규(정재성 분)과&nbsp;정우진(김준한 분)은 천재단과 MOU를 맺었다. 천재단의 천환서(곽시양 분)은 아내에게 이혼 소]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김사권, 우월한 팀장 비주얼…후계자 귀국에 위기 봉착]]></title>
         <id>https://v.daum.net/v/20240907030128139</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240906223402394"/>
         <updated>2024-09-06T14:12:16.209Z</updated>
         <content type="html"><![CDATA[[텐아시아=조나연 기자] 차은경(장나라 분)이 해고 위기에 처했다.&nbsp; 6일 방송된 SBS '굿파트너'에서는 로펌 대표 오대규(정재성 분)이 VIP 사건에서 차은경을 배제 시키고 신입 변호사 한유리(남지현 분)을 배정했다.&nbsp; 이에 정우진(김준한 분)은 오대규와 VIP 앞에서 "이혼 전문팀에 최고의 이혼 전문 변호사가 있다. 차은경 변호사다"고 추천헀으나]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘백설공주에게 죽음을-Black Out’ 변요한, 이가섭 내민 가방에 충격! “네가 죽였어?!”]]></title>
-        <id>https://v.daum.net/v/20240906222328302</id>
-        <link href="https://v.daum.net/v/20240906222328302"/>
-        <updated>2024-09-06T14:12:16.210Z</updated>
-        <content type="html"><![CDATA[변요한이 이가섭이 건넨 가방을 들여다보고 놀랐다. 9월 6일 방송된 MBC 금토드라마 ‘백설공주에게 죽음을-Black Out’(기획 권성창, 연출 변영주, 극본 서주연, 이하 ‘백설공주’)에서 고정우(변요한)는 학창 시절 현수오(이가섭)과 현건오(이가섭) 형제와의 인연을 떠올렸다. 고정우는 현수오가 다른 학교 학생들에게 얻어맞고 있는 걸 보자 뛰어들었]]></content>
     </entry>
 </feed>
