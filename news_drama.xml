@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-09-06T09:13:55.643Z</updated>
+    <updated>2024-09-06T10:13:46.222Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[신현빈, 문상민 아닌 이현우와 묘한 기류? 질투 폭발]]></title>
+        <id>https://v.daum.net/v/20240906184851810</id>
+        <link href="https://v.daum.net/v/20240906184851810"/>
+        <updated>2024-09-06T10:13:30.834Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 박로사 기자] 배우 이현우가 '새벽 2시의 신데렐라' 속 '메기남'으로 등장한다. 쿠팡플레이 시리즈 '새벽 2시의 신데렐라' 3, 4회는 윤서(신현빈)와 주원(문상민)이 과거 비밀 사내 연애를 했다는 사실이 회사 팀원들에게 발각되며 막을 내렸다. 이별한 윤서와 주원의 회사 생활과 두 사람의 미묘한 로맨스 전선이 뒤섞이며, 예측불가한 전개로]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[시대착오적? 그럼에도 '김삼순'은 '김삼순']]></title>
+        <id>https://v.daum.net/v/20240906182151282</id>
+        <link href="https://v.daum.net/v/20240906182151282"/>
+        <updated>2024-09-06T10:13:30.834Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 조혜진 기자) 2005년, '시청률 50%' 신드롬급 인기를 구가하던 '김삼순'이 19년 만에 돌아왔다. 다시 보면 '재평가'될 수밖에 없는 시대적 상황이 반영된 작품이지만, 여전히 삼순이는 멋지고 삼순이란 인물을 통해 공감과 위로를 받을 수 있는 포인트 역시 분명하다.&nbsp; 그 시절 '노처녀' 취급을 받던 김삼순(김선아 분)은 이제와 보니 '고]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[곽시양, 이혼 변호사 찾은 이유?…장나라·남지현과 신경전]]></title>
         <id>https://v.daum.net/v/20240906175233355</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240906161432764"/>
         <updated>2024-09-06T08:16:49.357Z</updated>
         <content type="html"><![CDATA[[엔터미디어=정석희의 TV 돋보기] SBS 금토드라마 &lt;굿파트너&gt;. 7회와 9회 시청률 17%를 넘어서기도 했으나 지난주 10회, 11회가 15%대로 내려앉았다. 상승세가 꺾인 이유가 뭘까? 우선 국민드라마 급 인기를 얻으려면 주인공 외에 눈길을 끄는 색다른 캐릭터가 필요하다. 예를 들면 tvN &lt;눈물의 여왕&gt;의 '홍범자'(김정난)나 SBS &lt;신사의 품격&gt;]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["사랑스럽고 골 때리는 '악마' 박신혜"…'지옥에서 온 판사', 3차 티저 공개]]></title>
-        <id>https://v.daum.net/v/20240906160610537</id>
-        <link href="https://v.daum.net/v/20240906160610537"/>
-        <updated>2024-09-06T07:12:43.691Z</updated>
-        <content type="html"><![CDATA[[SBS연예뉴스 | 강선애 기자] 배우 박신혜의 팔색조 열연이 담긴 '지옥에서 온 판사' 3차 티저가 공개됐다. 오는 21일 첫 방송될 SBS 새 금토드라마 '지옥에서 온 판사'(극본 조이수, 연출 박진표)는 극을 이끌어 갈 박신혜(강빛나 역)의 파격변신, 김재영(한다온 역)의 색다른 매력, 사악하지만 사랑스러운 안티 히어로가 선사하는 짜릿하고 통쾌한 카타]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘수지맞은 우리’ 최고 시청률 15.2% 무서운 뒷심]]></title>
-        <id>https://v.daum.net/v/20240906154656904</id>
-        <link href="https://v.daum.net/v/20240906154656904"/>
-        <updated>2024-09-06T07:12:43.691Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 박아름 기자] '수지맞은 우리'가 무서운 뒷심을 발휘하고 있다. KBS 1TV 일일드라마 ‘수지맞은 우리’(연출 박기현/극본 남선혜) 측은 "종영을 앞두고 시청률 상승세를 기록하며 일일드라마의 진가를 발휘하고 있다"고 9월 6일 전했다. '수지맞은 우리'는 추락한 스타 의사 진수지(함은정 분)와 막무가내 초짜 의사 채우리(백성현 분)의 쌍방 치유]]></content>
     </entry>
 </feed>
