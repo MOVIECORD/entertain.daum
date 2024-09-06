@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2024-09-06T02:11:42.126Z</updated>
+    <updated>2024-09-06T03:15:07.288Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['韓 데뷔 후 입대' 허광한, 명예 휴가 받는다...내년 전역]]></title>
+        <id>https://v.daum.net/v/20240906112832811</id>
+        <link href="https://v.daum.net/v/20240906112832811"/>
+        <updated>2024-09-06T03:15:06.515Z</updated>
+        <content type="html"><![CDATA[[TV리포트=강성훈 기자] U+모바일tv 오리지널 드라마 '노 웨이 아웃: 더 룰렛'(이하 '노 웨이 아웃')으로 한국에 데뷔한 대만 배우 허광한(33). 현재 복무중인 가운데 그가명예 휴가를 받는다는 기쁜 소식이 전해졌다. 6일(현지 시간) 외신 '8world' 보도에 따르면 허광한은 지난달 20일 입대 후 대만 현지에서 16일간의 기초 훈련을 마쳤다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[레이디 가가 "♥마이클 폴란스키와 암벽등반 후 약혼...母도 좋아해"]]></title>
         <id>https://v.daum.net/v/20240906102800951</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240905140233728"/>
         <updated>2024-09-05T05:13:27.740Z</updated>
         <content type="html"><![CDATA[[TV리포트=강성훈 기자] 음주운전으로 비판받는 대만 배우 왕백걸(Wang Bo Chieh·34)이 사과했다. 4일(현지 시간) 외신 'sinchew' 보도에 따르면 왕백걸는 현지법원으로부터 음주운전 혐의로 징역 2개월과 벌금을 선고받았다. 그는 소속사를 통해 "이번 사건을 통해 교훈을 얻고 깊이 반성하겠다"라고 전했다. 자신으로 인해 피해를 입은 모든 이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["전남편 바람폈다"…장쯔이, 왕펑과 충격 이혼 사유]]></title>
-        <id>https://v.daum.net/v/20240905122004105</id>
-        <link href="https://v.daum.net/v/20240905122004105"/>
-        <updated>2024-09-05T04:15:42.578Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 명희숙 기자) 중국 유명 배우 장쯔이와 가수 겸 사업가 왕펑의 이혼 사유가 밝혀졌다.&nbsp; 중국 매체 차이나프레스는 지난 3일 현지 유명 관계자의 말을 빌려 장쯔이가 왕펑과 이혼한 이유가 남편의 외도라고 전했다.&nbsp; 왕펑의 외도 사실을 장쯔이의 친오빠가 먼저 알게 됐고, 이를 알게된 장쯔이는 크게 분노하며 두 사람의 사이가 급격하게 악화됐다고. 결]]></content>
     </entry>
 </feed>
