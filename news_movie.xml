@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2024-09-06T03:15:07.286Z</updated>
+    <updated>2024-09-06T04:15:41.952Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['변호인' '강철비' 양우석 감독, '대가족' 들고 하와이 국제 영화제 行]]></title>
+        <id>https://v.daum.net/v/20240906125752932</id>
+        <link href="https://v.daum.net/v/20240906125752932"/>
+        <updated>2024-09-06T04:15:20.028Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 남혜연 기자] 양우석 감독의 강렬한 메시지는 계속된다. 영화 '변호인'과 '강철비' 등 작품을 통해 자신만의 색깔을 뚜렷하게 드러낸 양우석 감독이 제44회 하이외 국제 영화제에 공식 초청됐다. 영화 '대가족'의 배급을 맡은 롯데엔터테인먼트는 6일 이같은 사실을 알렸다. 양우석 감독의 오랜만의 차기작인 '대가족'은 스님이 된 아들(이승기]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['엄마' '여사님'으로 불리는 그녀의 이야기]]></title>
         <id>https://v.daum.net/v/20240906120600104</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240906110333688"/>
         <updated>2024-09-06T02:11:20.430Z</updated>
         <content type="html"><![CDATA[[스포티비뉴스=강효진 기자] 오는 10월 2일부터 10월 11일까지 열흘간 영화의전당 일대에서 개최되는 제29회 부산국제영화제 개막식 사회자로 배우 안재홍과 박보영이 확정됐다. 오는 10월 2일 오후 7시 영화의전당 야외극장에서 진행되는 제29회 부산국제영화제 개막식 사회자로 장르를 불문하고 개성 있고 사랑스러운 캐릭터를 소화하며 폭넓은 팬층을 보유한]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[눈요기? NO! 단호하고 직접적인 '우리가 끝이야']]></title>
-        <id>https://v.daum.net/v/20240906110052487</id>
-        <link href="https://v.daum.net/v/20240906110052487"/>
-        <updated>2024-09-06T02:11:20.432Z</updated>
-        <content type="html"><![CDATA[(서울=뉴스1) 정유진 기자 = * 영화의 주요 내용을 포함한 스포일러가 있을 수 있습니다. '가십걸'로 사랑받은 미녀 배우 블레이크 라이블리와 감독 겸 배우 저스틴 밸도니가 주연을 맡은 '우리가 끝이야'(감독 저스틴 밸도니)는 미국에서 영화 외적인 문제로 화제를 모으고 있는 영화다. 영화의 여주인공인 블레이크 라이블리와 남주인공이자 감독인 저스틴 밸]]></content>
     </entry>
 </feed>
