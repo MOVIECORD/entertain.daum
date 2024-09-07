@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-09-07T10:13:08.656Z</updated>
+    <updated>2024-09-07T11:11:07.259Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['미녀와 순정남' 지현우♥임수향, 성형·신분 위장 밝혀져 결국 결혼식 중단]]></title>
+        <id>https://v.daum.net/v/20240907201001666</id>
+        <link href="https://v.daum.net/v/20240907201001666"/>
+        <updated>2024-09-07T11:10:51.699Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 이이진 기자) '미녀와 순정남' 기자들이 임수향의 정체를 알았다. 7일 방송된 KBS 2TV 주말드라마 '미녀와 순정남' 45회에서는 고필승(지현우 분)과 김지영(임수향)의 결혼식이 중단된 모습이 그려졌다. 이날 기자들은 김지영이 박도라라는 사실을 알고 결혼식장에 들이닥쳤다. 기자들은 "성형 후 얼굴까지 바꾸고 김지영으로 속인 거 맞습니까?"]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘미녀와 순정남’ 정체 발각된 임수향, 과거 누명 벗을까]]></title>
         <id>https://v.daum.net/v/20240907190752036</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240907173250922"/>
         <updated>2024-09-07T09:12:17.475Z</updated>
         <content type="html"><![CDATA[(사진=MBC ‘놀면 뭐하니?’)[이데일리 스타in 윤기백 기자] ‘놀면 뭐하니?’ 박진주, 이이경, 미주가 동물 친구들의 ‘청소 요정’으로 활약한다. 오늘(7일) 방송되는 MBC ‘놀면 뭐하니?’에서는 귀여운 동물 친구들의 놀이터를 깨끗하게 쓸고 닦고 치워주는 박진주, 이이경, 미주의 모습이 그려진다. 공개된 사진 속 박진주와 이이경은 말하는 코끼리로]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['백설공주' 변요한·고준, 간도 크네… 경찰서 난투극 예고]]></title>
-        <id>https://v.daum.net/v/20240907172956874</id>
-        <link href="https://v.daum.net/v/20240907172956874"/>
-        <updated>2024-09-07T09:12:17.479Z</updated>
-        <content type="html"><![CDATA[(사진=MBC ‘백설공주’)[이데일리 스타in 윤기백 기자] 변요한과 고준이 경찰서를 발칵 뒤집는다. 분당 최고 시청률 6.8%를 기록하며 4주 연속 상승세를 보여주고 있는 MBC 금토드라마 ‘백설공주에게 죽음을-Black Out’(이하 ‘백설공주’)에서 고정우(변요한 분)와 노상철(고준 분)이 대낮에 육탄전을 벌이고 있는 현장을 공개해 시선을 집중시킨다]]></content>
     </entry>
 </feed>
