@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-09-07T15:12:50.402Z</updated>
+    <updated>2024-09-07T16:14:51.081Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['굿파트너' 장나라, '대정'과 이별→재벌 2세 곽시양 징역 15년 확정]]></title>
+        <id>https://v.daum.net/v/20240908010050267</id>
+        <link href="https://v.daum.net/v/20240908010050267"/>
+        <updated>2024-09-07T16:14:36.671Z</updated>
+        <content type="html"><![CDATA[[스포츠한국 이유민 기자] '굿파트너'에서 배우 장나라가 몸담고 있던 대정을 떠난다. 7일 방송된 SBS 금토드라마&nbsp;'굿파트너'에는 변호사 차은경(장나라)이 살인 사건의 최초 목격자로 법정에 증인으로 출석하는 모습이 방송됐다. 의뢰인 천환서(곽시양)에게 연락을 받고 차은경은 천환서의 집으로 향했다. 집으로 들어가기 전&nbsp;차은경은 따라온 한유리(남]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['가족X멜로' 손나은, 강제 독립에 분노…母 김지수 진심 깨닫고 '눈물']]></title>
         <id>https://v.daum.net/v/20240908000152059</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240907222341679"/>
         <updated>2024-09-07T14:11:52.885Z</updated>
         <content type="html"><![CDATA[변요한이 장하은의 죽음에 대한 진실을 들었다. 9월 7일 방송된 MBC 금토드라마 ‘백설공주에게 죽음을-Black Out’(기획 권성창, 연출 변영주, 극본 서주연, 이하 ‘백설공주’)에서 고정우(변요한)는 신민수(이우제)에게 심보영(장하은)의 죽음에 대한 배경을 들었다. 노상철(고준)은 양병무(이태구)가 모는 순찰차에 들이받혔다. 정신을 잃은 노상철]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['굿파트너' 곽시양, 아내 사망→장나라 협박 "살려둘 필요 없는 목격자"]]></title>
-        <id>https://v.daum.net/v/20240907221851661</id>
-        <link href="https://v.daum.net/v/20240907221851661"/>
-        <updated>2024-09-07T14:11:52.887Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 오수정 기자) '굿파트너'에서 곽시양이 장나라를 협박했다.&nbsp; 7일 방송된 SBS 금토드라마 '굿파트너' 13회에서는 천환서(곽시양 분)의 살인을 목격하게 된 차은경(장나라)의 모습이 그려졌다.&nbsp; 앞서 차은경과 한유리는 천환서의 이혼 소송 대리인으로 천환서와 만나게 됐다. 천환서의 아내 유지영(박아인)은 천환서로부터 심각한 가정폭력을 당했다고]]></content>
     </entry>
 </feed>
