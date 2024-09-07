@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2024-09-07T02:08:59.107Z</updated>
+    <updated>2024-09-07T03:14:51.361Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[다섯 리우, '신데렐라' OST '이프' 가창…오늘 음원 공개]]></title>
+        <id>https://v.daum.net/v/20240907115436009</id>
+        <link href="https://v.daum.net/v/20240907115436009"/>
+        <updated>2024-09-07T03:14:50.618Z</updated>
+        <content type="html"><![CDATA[(서울=뉴스1) 김민지 기자 = 밴드 다섯(Dasutt)의 보컬 리우(RIWOO)가 따뜻한 음색으로 안방극장을 사로잡는다. 스튜디오 마음C는 7일 오후 6시 각종 음원 사이트를 통해 리우가 가창한 쿠팡플레이 시리즈 '새벽 2시의 신데렐라' OST Part 5 '이프'(IF)를 발매한다. '이프'는 도입부 몽환적인 신스 스트링이 인상적인 잔잔한 분위기의]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“재산 1조 7천억” 셀레나 고메즈, 32살에 화장품 팔아 억만장자 등극]]></title>
         <id>https://v.daum.net/v/20240907110728558</id>
@@ -46,12 +53,5 @@
         <link href="https://v.daum.net/v/20240906141405929"/>
         <updated>2024-09-06T05:14:19.893Z</updated>
         <content type="html"><![CDATA[[뉴스엔 황혜진 기자] 미국 래퍼 리치 호미 콴(Rich homie Quan, 본명 Dequantes Lamar)이 사망했다. 9월 5일(이하 현지시간) 미국 아틀란타 카운티 검시 사무소 측에 따르면 리치 호미 콴은 이날 세상을 떠났다. 향년 33세. 사인은 공식적으로 알려지지 않았다. 유족은 6일 부검을 진행하기로 결정했다. 고인은 1990년 10월]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['韓 데뷔 후 입대' 허광한, 명예 휴가 받는다...내년 전역]]></title>
-        <id>https://v.daum.net/v/20240906112832811</id>
-        <link href="https://v.daum.net/v/20240906112832811"/>
-        <updated>2024-09-06T03:15:06.515Z</updated>
-        <content type="html"><![CDATA[[TV리포트=강성훈 기자] U+모바일tv 오리지널 드라마 '노 웨이 아웃: 더 룰렛'(이하 '노 웨이 아웃')으로 한국에 데뷔한 대만 배우 허광한(33). 현재 복무중인 가운데 그가명예 휴가를 받는다는 기쁜 소식이 전해졌다. 6일(현지 시간) 외신 '8world' 보도에 따르면 허광한은 지난달 20일 입대 후 대만 현지에서 16일간의 기초 훈련을 마쳤다.]]></content>
     </entry>
 </feed>
