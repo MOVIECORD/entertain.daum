@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2024-09-08T02:43:19.817Z</updated>
+    <updated>2024-09-08T03:15:26.106Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["'존 윅' 뛰어넘는 액션"..'베테랑2', 토론토 영화제 상영 성료]]></title>
+        <id>https://v.daum.net/v/20240908121232453</id>
+        <link href="https://v.daum.net/v/20240908121232453"/>
+        <updated>2024-09-08T03:15:06.560Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 | 김나연 기자] 류승완 감독 / 사진=CJ ENM영화 '베테랑2'가 제49회 토론토국제영화제 스페셜 프레젠테이션(Special Presentation) 섹션의 프리미어 상영을 성황리에 마쳤다. 영화 '베테랑2'가 6일(현지시간) 오후 제49회 토론토국제영화제 스페셜 프레젠테이션 섹션의 공식 프리미어 상영을 성황리에 마치고 토론토의 밤을 '베]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘흥행핑’ 된 ‘사랑의 하츄핑’ 90만 돌파…韓애니 역대 흥행 4위]]></title>
+        <id>https://v.daum.net/v/20240908120220186</id>
+        <link href="https://v.daum.net/v/20240908120220186"/>
+        <updated>2024-09-08T03:15:06.561Z</updated>
+        <content type="html"><![CDATA[사진제공｜쇼박스식지 않은 인기를 끌고 있는 어린이 애니메이션 영화 ‘사랑의 하츄핑’이 90만 관객을 돌파, 국산 애니메이션 흥행 순위 4위에 등극하는 저력을 발휘했다. 8일 영화관입장권 통합전산망에 따르면 ‘사랑의 하츄핑’은 7일일까지 누적 관객 92만618명을 모아 개봉 32일 만에 90만 관객을 돌파했다. 이는 2011년 ‘마당을 나온 암탉’(누적 관]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[문상민 “신현빈과 키스신, 박서준 영상 참고했죠”]]></title>
         <id>https://v.daum.net/v/20240908112758502</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240908083054677"/>
         <updated>2024-09-08T01:03:19.315Z</updated>
         <content type="html"><![CDATA[영화 ‘베테랑2’(감독 류승완)가 캐나다 토론토를 강렬하게 물들였다. ‘베테랑2’는 지난 6일 제49회 토론토국제영화제 스페셜 프레젠테이션(Special Presentation) 섹션의 프리미어 상영을 성황리에 마쳤다. 이날 오후 9시부터 진행된 ‘베테랑2’ 프리미어 상영에는 영화를 연출한 류승완 감독이 참석, 상영 전 극장을 가득 메워준 관객들에게]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘에이리언’ 푸바오 이겼다]]></title>
-        <id>https://v.daum.net/v/20240908082434569</id>
-        <link href="https://v.daum.net/v/20240908082434569"/>
-        <updated>2024-09-08T01:03:19.319Z</updated>
-        <content type="html"><![CDATA[‘에이리언’이 푸바오를 이겼다. 8일 영화진흥위원회 영화관입장권 통합전산망 집계결과 영화 ‘에이리언: 로물루스’는 전날 5만2886명을 모아 박스오피스 1위를 지켰다. 누적관객수 178만8838명이다. ‘에이리언: 로물루스’는 개봉 이후 줄곧 정상을 지켜오다 지난 4일과 5일 푸바오를 다룬 다큐멘터리 개봉작 ‘안녕, 할부지’에 밀려 1위를 내준 바]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['큰별쌤' 최태성 "다큐 '하와이 연가', 눈물 나는 사랑의 역사"]]></title>
-        <id>https://v.daum.net/v/20240908080151363</id>
-        <link href="https://v.daum.net/v/20240908080151363"/>
-        <updated>2024-09-07T23:12:23.381Z</updated>
-        <content type="html"><![CDATA[(제천=연합뉴스) 오보람 기자 = "역사를 이렇게 아름답게 표현할 수 있군요. 너무 깜짝 놀랐습니다. 저는 역사책을 보면서 눈물을 안 흘리는데, 이 영화는 볼 때마다 눈물이 납니다." '큰별쌤'으로 불리는 한국사 스타 강사 최태성은 지난 6일 제천시문화회관에서 열린 다큐멘터리 영화 '하와이 연가' 관객과의 대화(GV)에서 이 작품을 본 소감을 이렇게 털어놨]]></content>
     </entry>
 </feed>
