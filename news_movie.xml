@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2024-09-09T03:16:39.627Z</updated>
+    <updated>2024-09-09T04:15:50.700Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[독립영화계 아이콘 현우석, JIFF부터 JIMFF까지 '반짝반짝']]></title>
+        <id>https://v.daum.net/v/20240909130102023</id>
+        <link href="https://v.daum.net/v/20240909130102023"/>
+        <updated>2024-09-09T04:15:28.862Z</updated>
+        <content type="html"><![CDATA[신예 현우석이 독립영화계 새로운 아이콘으로 등극했다. 현우석은 지난 5일 개막한 제20회 제천국제음악영화제(JIMFF)에서 선을 보인 영화 ‘너와 나의 5분’에서 관객들에게 호평을 받으며 독립영화계에 샛별로 떠올랐다. 현우석이 출연한 영화 ‘너와 나의 5분’은 2001년, 대구로 전학 온 경환(심현서 분)이 옆자리에 앉은 반장 재민(현우석 분)도 일본 음악]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[니콜 키드먼 베니스 여우주연상… 황금사자상 ‘더 룸 넥스트 도어’]]></title>
         <id>https://v.daum.net/v/20240909120237978</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240909101802887"/>
         <updated>2024-09-09T02:16:50.414Z</updated>
         <content type="html"><![CDATA[(서울=뉴스1) 정유진 기자 = 영화 '더러운 돈에 손대지 마라'(감독 김민수)가 제57회 시체스 국제판타스틱영화제와 제44회 하와이 국제영화제에 공식 초청 받았다. '더러운 돈에 손대지 마라'는 수사는 본업! 뒷돈은 부업! 두 형사가 인생 역전을 위해 완전 범죄를 꿈꾸며 '더러운 돈'에 손을 댄 후 계획에 없던 사고에 휘말리며 벌어지는 이야기를 그린]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[3명의 대통령이 보여준 인간미, 관객 마음 홀렸다]]></title>
-        <id>https://v.daum.net/v/20240909101201634</id>
-        <link href="https://v.daum.net/v/20240909101201634"/>
-        <updated>2024-09-09T02:16:50.415Z</updated>
-        <content type="html"><![CDATA[[양형석 기자] 20대 후반이었던 1998년 &lt;기막힌 사내들&gt;을 통해 장편 영화 감독으로 데뷔한 장진 감독은 2014년 &lt;우리는 형제입니다&gt;까지 17년이라는 길지 않은 동안 12편의 장편 영화를 연출했다. 비록 지금은 10년째 신작을 선보이지 못하고 있지만 한창 바쁘게 활동하던 시절에는 뛰어난 상상력과 독창적인 색깔로 '장진식 코미디'라는 신조어를 만들어내]]></content>
     </entry>
 </feed>
