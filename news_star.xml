@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2024-09-10T17:12:30.594Z</updated>
+    <updated>2024-09-10T18:17:56.070Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[심형탁, 2세 ‘새복이’의 성별은?]]></title>
+        <id>https://v.daum.net/v/20240911030526611</id>
+        <link href="https://v.daum.net/v/20240911030526611"/>
+        <updated>2024-09-10T18:17:50.824Z</updated>
+        <content type="html"><![CDATA[히라이 사야가 내년 1월 태어날 ‘새복이’의 성별 확인을 위해 병원을 찾은 뒤 남편 배우 심형탁과 함께 베이비페어를 방문한다. 사야는 속싸개에 싸인 인형을 안아보며 ‘육아 체험’을 한다. 가수 데니안이 여사친 가수 신지, 개그우먼 이국주와 함께 촌캉스를 떠난다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김우빈 "원래 꿈은 모델학과 교수, 좋은 모델 되기 위해 연기 배우다 배우 돼"]]></title>
         <id>https://v.daum.net/v/20240911003728776</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240911000106367"/>
         <updated>2024-09-10T15:13:35.472Z</updated>
         <content type="html"><![CDATA[SBS Plus와 ENA의 인기 리얼 데이팅 프로그램 ‘나는솔로’ 22기에서 벌어진 첫 데이트가 예상치 못한 러브라인의 대격변을 일으키며 시청자들의 이목을 집중시키고 있다. 11일(수) 방송을 앞두고 공개된 예고편에서는 ‘0표남’ 상철과 ‘4표남’ 경수가 첫 데이트 이후 전혀 다른 상황에 처하게 되면서, ‘솔로나라 22번지’의 로맨스 판도가 완전히 뒤바]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['학폭의혹' 안세하 동창들 줄줄이 등판 "언제 터지나 했다" 일파만파]]></title>
-        <id>https://v.daum.net/v/20240911000035360</id>
-        <link href="https://v.daum.net/v/20240911000035360"/>
-        <updated>2024-09-10T15:13:35.474Z</updated>
-        <content type="html"><![CDATA[[스포츠조선 이유나 기자] "사실무근" vs "언제 터지나 했다" 현직교사부터 1년 후배까지 배우 안세하의 학폭 의혹이 터지자 동창들을 자처하는 증언들이 잇따라 나오고 있다. 지난 9일 한 커뮤니티 게시판에는 '안세하(본명:안재욱) 학폭 고발한다'는 제목의 폭로성 글이 게시됐으며 해당 글에는 "경남 창원 출신 연예인 안세하 (본명 안재욱)학폭]]></content>
     </entry>
 </feed>
