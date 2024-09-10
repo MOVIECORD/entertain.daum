@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2024-09-10T21:12:54.479Z</updated>
+    <updated>2024-09-10T22:13:07.843Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[황정민 “‘베테랑’ 시리즈화? 난 늙어도 서도철은 절대 지켜!”]]></title>
+        <id>https://v.daum.net/v/20240911070303848</id>
+        <link href="https://v.daum.net/v/20240911070303848"/>
+        <updated>2024-09-10T22:12:50.534Z</updated>
+        <content type="html"><![CDATA[“처음 영화하는 사람처럼 무진장 떨려요.” 9년 만의 속편, 영화 ‘베테랑2’로 돌아온 황정민(53)은 지난 10일 기자와 만나 이같이 말하며 수줍게 웃었다. 그러곤 “이제 덜 떨릴 때도 된 것 같은데 여전하다. 특히나 수많은 내 필모 중에서도 정말 아끼는 작품이기에 더 그런 것 같다”고 고백했다. “생각보다 정말 오래 걸렸어요. 탓을 하자면 감독님 탓?]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[30년 만 시리즈 주인공…‘베테랑2’ 황정민이 이룬 꿈]]></title>
         <id>https://v.daum.net/v/20240911060240076</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240910222714403"/>
         <updated>2024-09-10T14:12:52.559Z</updated>
         <content type="html"><![CDATA[오소현이 영화 ‘넥스트’에 캐스팅됐다. 10일, 소속사 킹콩 by 스타쉽 측은 “오소현이 영화 ‘넥스트’에서 ‘예은’ 역으로 출연한다. 새로운 모습으로 찾아올 오소현에게 많은 관심 부탁드린다”라고 전했다. 영화 ‘넥스트’는 과거의 비밀을 갖고 있는 자영(김예림 분)과 학교 친구들이 귀신을 불러내는 강령술을 진행하며 생기는 일을 그린 미스터리 호러물.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['더러운 돈' 손댄 정우 "걷잡을 수 없이 커져...진정성 있게 보이고자 노력"]]></title>
-        <id>https://v.daum.net/v/20240910213150642</id>
-        <link href="https://v.daum.net/v/20240910213150642"/>
-        <updated>2024-09-10T12:33:00.682Z</updated>
-        <content type="html"><![CDATA[(MHN스포츠 강민서 인턴기자, 정에스더 기자) 배우 정우가 영화 '더러운 돈에 손대지 마라' 속 캐릭터 연기 포인트를 전했다. '더러운 돈에 손대지 마라'는 두 형사가 인생 역전을 위해 완전 범죄를 꿈꾸며 '더러운 돈'에 손을 댄 후 계획에 없던 사고에 휘말리며 벌어지는 이야기를 그린 영화다. '바람', '응답하라1994' 등의 작품에서 호연을]]></content>
     </entry>
 </feed>
