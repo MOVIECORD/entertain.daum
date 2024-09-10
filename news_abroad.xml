@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2024-09-10T06:19:21.363Z</updated>
+    <updated>2024-09-10T07:14:19.168Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[인기 女배우, 커피 마시다가 휠체어 타고 응급실 行]]></title>
+        <id>https://v.daum.net/v/20240910152630894</id>
+        <link href="https://v.daum.net/v/20240910152630894"/>
+        <updated>2024-09-10T07:14:18.433Z</updated>
+        <content type="html"><![CDATA[[TV리포트=이지은 기자] 대만 배우 판루이쥔이 건강 이상을 고백해 모두를 놀라게 했다. 10일 판루이쥔은 “인생이 어떻게 그렇게 재미있을 수 있나. 커피를 마시고 응급실에 실려갔다”라는 글과 함께 한 장의 사진을 게재했다. 공개된 사진에는 병원에 입원해 링거를 맞으며 회복 중인 판루이쥔의 모습이 담겼다. 이날 판루이쥔은 “이틀 전 직장에서 이미 커피 한]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[블랙핑크 지수, 뉴욕서 포착된 황홀 투샷…옆에 누군가 봤더니]]></title>
         <id>https://v.daum.net/v/20240910144454845</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240909192128686"/>
         <updated>2024-09-09T11:11:39.738Z</updated>
         <content type="html"><![CDATA[[TV리포트=이지은 기자] 대만 인기 연예인 샌디 우(Sandy Wu)가 두 아이의 엄마가 됐다. 2022년 5년 열애 끝에 결혼한 샌디 우는 지난해 아들을 품에 안은데 이어 올해 4월 둘째 소식을 깜짝 발표했다. 8일 샌디 우는 “메마른 땅에 영양을 공급하기 위해 내리는 시기적절한 비는 우리가 상상했던 것만큼 무겁지 않다. 가장 중요한 순간에 단비가 적절]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[현빈X이동욱, 토론토서도 못 숨기는 비주얼…레드카펫 등장에 “가장 큰 함성”]]></title>
-        <id>https://v.daum.net/v/20240909183856967</id>
-        <link href="https://v.daum.net/v/20240909183856967"/>
-        <updated>2024-09-09T10:14:46.831Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 장예솔 기자] 영화 '하얼빈'으로 토로톤 국제영화제에 참석한 배우 현빈과 이동욱이 레드카펫에서 뜨거운 환호를 받았다. 9월 8일(현지시간) 캐나다 토론토에서 열린 2024 토론토 국제영화제에는 '하얼빈'의 우민호 감독과 현빈, 이동욱이 대표로 참석했다. 현빈과 이동욱은 로이 톰슨 홀에서 진행된 월드 프리미어 행사를 앞두고 레드카펫에 등장해 훤]]></content>
     </entry>
 </feed>
