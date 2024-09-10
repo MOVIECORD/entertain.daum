@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2024-09-09T23:14:17.158Z</updated>
+    <updated>2024-09-10T00:59:34.858Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“아임 유어 파더” 다스베이더 목소리 주인공 별세..향년 93세]]></title>
+        <id>https://v.daum.net/v/20240910095354113</id>
+        <link href="https://v.daum.net/v/20240910095354113"/>
+        <updated>2024-09-10T00:59:34.213Z</updated>
+        <content type="html"><![CDATA[[스포츠조선닷컴 박아람 기자] 할리우드 영화 '스타워즈' 속 명대사 "아이 엠 유어 파더"(I am your father)로 유명한 배우 제임스 얼 존스가 93세를 일기로 별세했다. 9일(현지시간) 그의 에이전트인 배리 맥퍼슨은 "제임스 얼 존스가 오늘 아침 뉴욕 더치스 카운티의 자택에서 세상을 떠났다"고 했다. 사망 원인은 아직 공개되지 않]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[유명 女스타, 벌써 '두 아이' 엄마... 둘째 딸 깜짝 공개]]></title>
         <id>https://v.daum.net/v/20240909192128686</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240909110152015"/>
         <updated>2024-09-09T02:17:09.387Z</updated>
         <content type="html"><![CDATA[[마이데일리 = 이정민 기자] 미국의 힙합 아이콘 켄드릭 라마가 내년 슈퍼볼 하프타임 쇼 무대에 설 예정이다. NFL은 8일(현지시간) 공식 발표를 통해 라마가 이 역사적인 무대에 오른다고 밝혔으며, 라마 역시 자신의 엑스(X, 구 트위터) 계정을 통해 이 사실을 공유했다. 슈퍼볼은 미국에서 가장 큰 스포츠 이벤트로, 그 결승전의 하프타임 쇼는 전 세계]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“재산 1조 7천억” 셀레나 고메즈, 32세에 억만장자 대열 합류]]></title>
-        <id>https://v.daum.net/v/20240909104356188</id>
-        <link href="https://v.daum.net/v/20240909104356188"/>
-        <updated>2024-09-09T02:17:09.389Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 박수인 기자] 미국 가수 겸 배우 셀레나 고메즈(Selena Gomez)가 젊은 억만장자 대열에 합류했다. 최근 블룸버그통신은 셀레나 고메즈의 현재 보유 자산 가치가 13억달러(약 1조 7400억원)로 평가되며 억만장자 리스트에 이름을 올렸다고 보도했다. 보도에 따르면 셀레나 고메즈는 소셜미디어를 통한 영향력을 기반으로 다양한 사업을 통해 부를]]></content>
     </entry>
 </feed>
