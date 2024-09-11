@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2024-09-11T18:17:49.581Z</updated>
+    <updated>2024-09-11T19:09:51.743Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[소유진 "♥백종원, 결혼식장만 가도 딸들 생각에 눈물"]]></title>
+        <id>https://v.daum.net/v/20240912040020653</id>
+        <link href="https://v.daum.net/v/20240912040020653"/>
+        <updated>2024-09-11T19:09:45.768Z</updated>
+        <content type="html"><![CDATA[[서울=뉴시스]정혜원 인턴 기자 = 배우 소유진(43)이 남편인 외식사업가 백종원과의 결혼 생활을 공개한다. 12일 오후 9시 30분 방송되는 채널A 예능물 '아빠는 꽃중년'에 소유진이 게스트로 출연한다. '꽃대디' 배우 김용건, 개그맨 김구라, 가수 신성우, 가수 김원준, 아나운서 출신 방송인 김범수의 격한 환영을 받는 모습이 담긴다. 이날 소유진은]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[BTS, 빌보드 ‘21세기 최고 팝스타’ 19위… “비틀스급 성공”]]></title>
         <id>https://v.daum.net/v/20240912030612474</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240912005359792"/>
         <updated>2024-09-11T16:15:58.962Z</updated>
         <content type="html"><![CDATA[아이돌그룹 엑소(EXO) 멤버 겸 솔로 아티스트 백현(BAEKHYUN)이 3연속 솔로 음반 판매량 100만장 돌파라는 대기록을 세웠다. 지난 6일 발표한 백현의 미니 4집 ‘Hello, World(헬로, 월드)’는 한터차트 10일 기준, 누적 판매량 100만6717장을 기록했다. 발매 닷새만에 100만장의 판매고를 돌파한 것. 이로써 백현은 지난 미니]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['골때녀' 월클 케시, "감독님 우승시켜 드리는 것보다 복수가 우선…반드시 승리할 것"]]></title>
-        <id>https://v.daum.net/v/20240912004812765</id>
-        <link href="https://v.daum.net/v/20240912004812765"/>
-        <updated>2024-09-11T16:15:58.966Z</updated>
-        <content type="html"><![CDATA[[SBS연예뉴스 | 김효정 에디터] 월클이 스밍파에 대한 복수를 다짐했다. 11일 방송된 SBS '골 때리는 그녀들'(이하 '골때녀')에서는 스트리밍 파이터와 월드클라쓰의 슈퍼리그 준결승전이 진행됐다. 이날 방송에서 스밍파와 월클은 경기를 앞두고 남다른 각오를 밝혔다. 월클의 케시는 "감독님 우승시켜 드리고 싶은 것도 맞지만 복수가 우선이다"라며 "지난 결]]></content>
     </entry>
 </feed>
