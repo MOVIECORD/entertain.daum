@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-09-12T22:13:36.257Z</updated>
+    <updated>2024-09-12T23:15:06.020Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['강매강' 박세완, 한층 더 확장 시킨 '연기 스펙트럼']]></title>
+        <id>https://v.daum.net/v/20240913075840664</id>
+        <link href="https://v.daum.net/v/20240913075840664"/>
+        <updated>2024-09-12T23:14:53.085Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 | 김수진 기자] 배우 박세완의 연기가 살아 움직였다. 지난 11일 공개된 디즈니+의 오리지널 시리즈 '강매강'에서 박세완은 노필터 주둥이의 다혈질 형사이자, 강력 2반의 실질적 서열 1위인 서민서 역으로 분해 캐릭터 소화제 다운 저력을 발휘했다. 이날 방송에서는 살인사건을 해결하기 위해 고군분투하는 민서(박세완 분)와 강력 2반의 이야기가]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['티처스' IQ 136 수학 천재인데…母 "휴대폰 12시간 봐" 토로]]></title>
+        <id>https://v.daum.net/v/20240913072155132</id>
+        <link href="https://v.daum.net/v/20240913072155132"/>
+        <updated>2024-09-12T23:14:53.085Z</updated>
+        <content type="html"><![CDATA[(사진=채널A)[이데일리 스타in 최희재 기자] ‘티처스’에 수학 천재 중학생이 등장한다. 오는 15일 방송되는 채널A ‘성적을 부탁해: 티처스’(이하 ‘티처스’)에는 손짓만으로 암산을 척척 해내는 수학 천재 도전학생의 모습이 그려진다. 도전학생은 IQ 136에 영재고를 지망하는 중2 학생이었다. 도전학생의 신들린 문제 풀이에 전현무는 “믿기지 않는다”라]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김석훈→권율, 오지 여행 떠난다…'지닦남' 10월 25일 첫방]]></title>
         <id>https://v.daum.net/v/20240913071150995</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240912194501353"/>
         <updated>2024-09-12T11:11:01.953Z</updated>
         <content type="html"><![CDATA[[TV리포트 = 하수나 기자] 서준영이 엄현경과 결혼 선언을 하며 이승연과 임주은을 경악하게 만들었다.&nbsp; 12일 MBC 일일드라마 ‘용감무쌍 용수정’에선 용수정(엄현경 분)이 여의주(서준영 분)와의 결혼을 발표하는 모습이 그려졌다.&nbsp;&nbsp; 여의주는 용수정에게 청혼했고 수정은 “그럴 수 없다, 내 복수 때문에 결혼을 해? 나 때문에 어디까지 가려고 하느냐”라고]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['이혼' 장나라, 새 출발한다…홀로서기 시작, 새 사무실 개업]]></title>
-        <id>https://v.daum.net/v/20240912192002861</id>
-        <link href="https://v.daum.net/v/20240912192002861"/>
-        <updated>2024-09-12T11:11:01.955Z</updated>
-        <content type="html"><![CDATA[[텐아시아=태유나 기자] 장나라, 남지현, 김준한, 표지훈이 새로운 출발을 예고했다. SBS 금토드라마 ‘굿파트너’ 측은 12일 새 보금자리를 마련한 차은경(장나라 분)의 모습을 공개했다. 여기에 법무법인 대정 이혼팀에게는 어떤 변화가 나타난 것인지 궁금증을 증폭시킨다. 지난 방송에서 천환서(곽시양 분)의 실체와 피해자 유지영(박아인 분) 죽음의 진실]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['유어 아너' 마무리한 ENA, 신혜선·이진욱→김세정·고현정 업고 날아오를까]]></title>
-        <id>https://v.daum.net/v/20240912190003411</id>
-        <link href="https://v.daum.net/v/20240912190003411"/>
-        <updated>2024-09-12T10:14:28.796Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 이창규 기자) ENA의 월화드라마 '유어 아너'가&nbsp;최고 시청률을 경신하며 종영한 가운데, ENA가 후속작들을 차근차근 대기시키며 남은 한 해를 '용두용미' 엔딩으로 마무리할 준비를 마쳤다. 지난 10일 방송된 '유어 아너'는 6.1%의 시청률을 기록하며 자체 최고 기록을 경신하며 종영했다. 결말과 관련해서는 호불호가 갈리고는 있지만, ENA]]></content>
     </entry>
 </feed>
