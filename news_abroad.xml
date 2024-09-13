@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2024-09-13T04:15:53.657Z</updated>
+    <updated>2024-09-13T05:13:43.999Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[블핑 제니 출연 드라마 제작했던 위켄드, 본업 복귀…2년만에 신곡 발표]]></title>
+        <id>https://v.daum.net/v/20240913140053506</id>
+        <link href="https://v.daum.net/v/20240913140053506"/>
+        <updated>2024-09-13T05:13:43.279Z</updated>
+        <content type="html"><![CDATA[[스포츠서울| 조은별 기자] 팝스타 위켄드가 2년만에 본업으로 돌아왔다. 유니버설뮤직 코리아는 “세계적인 팝스타 위켄드가 13일 오후 1시(한국시간) 신곡 ‘댄싱 인 더 플레임스(Dancing In The Flames)’ 음원을 공개한다”며 “이 곡은 ‘애프터 아워스’, ‘던 에프엠’을 잇는 3부작 여정의 마지막이 될 새 앨범 ‘허리 업 투모로우’의]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[톰 크루즈, 디즈니 영화 출연 NO... "마케팅 통제, 수익 배분"]]></title>
         <id>https://v.daum.net/v/20240913115402582</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240912170750521"/>
         <updated>2024-09-12T08:17:30.442Z</updated>
         <content type="html"><![CDATA[(엑스포츠뉴스 이창규 기자)&nbsp;미국의 팝가수 테일러 스위프트가 미국 대중음악 시상식 '2024 MTV 비디오 뮤직 어워즈'(MTV VMA)의 역사를 갈아치웠다. 11일(현지시간) 열린 2024 MTV VMA에서 테일러 스위프트는 지난 4월 9일 발매한 정규 11집 'The Tortured Poets Department'의 수록곡 'Fortnight'로 '올해]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[일론 머스크, 테일러 스위프트 저질 성희롱 논란 “내 아이 주겠다”]]></title>
-        <id>https://v.daum.net/v/20240912170018140</id>
-        <link href="https://v.daum.net/v/20240912170018140"/>
-        <updated>2024-09-12T08:17:30.443Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 황혜진 기자] 테슬라 모터스 최고경영자(CEO) 일론 머스크가 가수 테일러 스위프트에 대한 저질 성희롱 발언으로 빈축을 샀다. 일론 머스크는 9월 11일 자신의 공식 X(구 트위터) 계정에 "Fine Taylor … you win … I will give you a child and guard your cats with my life"(좋다. 테]]></content>
     </entry>
 </feed>
