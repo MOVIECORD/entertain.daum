@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-09-14T10:12:59.220Z</updated>
+    <updated>2024-09-14T11:10:14.358Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[장나라, '불륜' 지승현과 결혼한 뜻밖의 이유 "너무 좋아서" 씁쓸]]></title>
+        <id>https://v.daum.net/v/20240914200756762</id>
+        <link href="https://v.daum.net/v/20240914200756762"/>
+        <updated>2024-09-14T11:09:58.834Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 조혜진 기자) '굿파트너' 장나라가 지승현과 결혼했던 이유가 공개돼 눈길을 끌었다. 14일 SBS 드라마 유튜브 채널에는 '장나라, 남지현에게 털어놓는 속전속결 결혼의 비밀'이라는 제목으로 '굿파트너' 선공개 영상이 업로드됐다. 앞서 차은경(장나라 분)과 한유리(남지현)는 상대 변호사로 만나 맞붙게 된 상황. 두 사람은 함께 떡볶이를 먹으면서]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김재중, 의문의 '비명' 왜?]]></title>
         <id>https://v.daum.net/v/20240914183231840</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240914160459965"/>
         <updated>2024-09-14T07:12:22.591Z</updated>
         <content type="html"><![CDATA[‘완벽한 가족’의 김병철과 윤상현이 극을 이끄는 활력소 역할을 톡톡히 하고 있다. 지난 11일과 12일 방송된 KBS2 수목드라마 ‘완벽한 가족’ 9, 10회에서는 최진혁(김병철)과 최현민(윤상현)의 과거부터 현재까지의 관계 변화를 흥미진진하게 보여주며 시청자들의 이목을 잡아당겼다. 그 가운데 지난 13일 비하인드 영상이 공개되며 시청자들의 눈길을 끌었]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['유어아너' 손현주 "김도훈과 얘기 하고 싶지 않았다" 왜?]]></title>
-        <id>https://v.daum.net/v/20240914160351954</id>
-        <link href="https://v.daum.net/v/20240914160351954"/>
-        <updated>2024-09-14T07:12:22.591Z</updated>
-        <content type="html"><![CDATA[배우 손현주가 '유어 아너' 촬영 중반까지 극 중 아들로 나온 김도훈과 대화를 나누지 않았다고 고백했다. 손현주는 최근 서울 마포구 상암동 누리꿈스퀘어에서 지니TV, ENA 월화드라마 '유어 아너'(극본 김재환·연출 유종선·크리에이터 표민수) 관련 인터뷰를 진행했다. '유어 아너'는 아들의 살인을 은폐하는 판사 vs 아들의 살인범을 쫓는 범죄 조직 보]]></content>
     </entry>
 </feed>
