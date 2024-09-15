@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-09-15T19:10:29.494Z</updated>
+    <updated>2024-09-15T20:14:02.303Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['위암 2기' 정소민, 항암 후 우울증까지.. "무너지고 있었다"]]></title>
+        <id>https://v.daum.net/v/20240916051057489</id>
+        <link href="https://v.daum.net/v/20240916051057489"/>
+        <updated>2024-09-15T20:13:49.712Z</updated>
+        <content type="html"><![CDATA[[OSEN=김채윤 기자] '엄마친구아들'에서 정소민이 위암 투병 이후 우울증까지 앓았던 사실이 드러났다.&nbsp; 9월 15일 방송된 tvN&nbsp;토일드라마&nbsp;‘엄마친구아들’(연출 유제원,&nbsp;극본 신하은,&nbsp;제작 스튜디오드래곤∙더모도리)&nbsp;10회에서 배석류(정소민 분)가&nbsp;과거 위암 투병을 했던 사실을 최승효(정해인 분)에게&nbsp;3년 간&nbsp;숨긴 일에&nbsp;화를 냈다. 이날 방송 분에서]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이무생, '경성크리처2' 비밀 정예 요원 '쿠로코 대장' 변신]]></title>
         <id>https://v.daum.net/v/20240916002127761</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240915223632246"/>
         <updated>2024-09-15T14:11:21.337Z</updated>
         <content type="html"><![CDATA[[OSEN=김채윤 기자] '엄마친구아들'에서 정해인이 암투병 사실을 숨긴 정소민에게 비겁하고 찌질하다고 말했다. 9월 15일 방송된 tvN&nbsp;토일드라마&nbsp;‘엄마친구아들’(연출 유제원,&nbsp;극본 신하은,&nbsp;제작 스튜디오드래곤∙더모도리)&nbsp;10회에서 배석류(정소민 분)의 과거 위암 투병 사실을 알게 된 최승효(정해인 분)이 화를 내는 장면이 그려졌다. 이날 방송분에서]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[정해인, 암 투병 숨긴 정소민에 “비겁하고 찌질해”]]></title>
-        <id>https://v.daum.net/v/20240915223528236</id>
-        <link href="https://v.daum.net/v/20240915223528236"/>
-        <updated>2024-09-15T14:11:21.337Z</updated>
-        <content type="html"><![CDATA[[마이데일리 = 박로사 기자] ‘엄마친구아들’ 정해인이 위암 투병을 숨긴 정소민을 원망했다. 15일 방송된 tvN ‘엄마친구아들’ 10회에서는 가족들에게 위암 투병을 들킨 배석류(정소민)의 모습이 그려졌다. 배석류는 집으로 돌아가던 길에 최승효를 마주쳤고, 두 사람은 놀이터로 향했다. 배석류는 “너 나한테 화났지. 왜 연락 안 했냐. 나 피했으면서. 다]]></content>
     </entry>
 </feed>
