@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2024-09-16T06:19:18.494Z</updated>
+    <updated>2024-09-16T07:14:03.817Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘사랑의 하츄핑’ 100만 돌파…한국 애니 12년 만의 기록]]></title>
+        <id>https://v.daum.net/v/20240916154002761</id>
+        <link href="https://v.daum.net/v/20240916154002761"/>
+        <updated>2024-09-16T07:13:44.763Z</updated>
+        <content type="html"><![CDATA[한국 애니메이션 ‘사랑의 하츄핑’이 16일 누적 관객 수 100만명을 돌파했다. 배급사 쇼박스는 개봉 41일째인 이날 오전 7시 기준 누적 관객 수가 100만 1279명을 기록했다고 전했다. 한국 애니메이션의 누적 관객이 100만명을 돌파한 것은 ‘점박이: 한반도의 공룡 3D’(2012·105만1710명) 이후 12년 만이다. ‘사랑의 하츄핑’은]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[어른이 울린 ‘하츄핑’ 100만핑 됐다‥韓애니 12년만 쾌거]]></title>
         <id>https://v.daum.net/v/20240916145520227</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240916125944168"/>
         <updated>2024-09-16T04:16:13.202Z</updated>
         <content type="html"><![CDATA[[스타뉴스 | 김미화 기자] /사진='베테랑2' 9년 만에 속편으로 돌아온 '베테랑2'가 추석 연휴 가족 관객을 극장으로 불러들이고 있다. 16일 영화진흥위원회 통합전산망에 따르면 '베테랑2' 개봉 사흘째인 지난 15일 82만 4737명의 관객을 동원하며 박스오피스 1위를 지켰다. 누적관객수는 209만 5922명으로 개봉 사흘만에 200만 관객을 돌파하며]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['사랑의 하츄핑' 100만 돌파! 韓 애니 12년 만]]></title>
-        <id>https://v.daum.net/v/20240916123031988</id>
-        <link href="https://v.daum.net/v/20240916123031988"/>
-        <updated>2024-09-16T04:16:13.206Z</updated>
-        <content type="html"><![CDATA[아이즈 ize 최재욱 기자한국 애니메이션 영화 ''사랑의 하츄핑'이 개봉 41일째 100만 관객을 돌파했다. 영화관입장권 통합전산망 기준 영화 '사랑의 하츄핑'이 &nbsp;16일 100만 관객을 돌파했다. 이로써 '마당을 나온 암탉'(2011, 누적 관객수 2,204,870명), '점박이: 한반도의 공룡 3D'(2012, 1,051,710명)에 이어 대한민국 애니]]></content>
     </entry>
 </feed>
