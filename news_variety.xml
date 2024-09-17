@@ -2,11 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/variety</id>
     <title>다음 연예 ─ 뉴스 ─ 예능</title>
-    <updated>2024-09-17T16:16:33.029Z</updated>
+    <updated>2024-09-17T17:12:21.738Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[이수경 소개팅남 고백 "보고 싶었다.. 솔직히 누나 좋아"]]></title>
+        <title type="html"><![CDATA[예지원, 소개팅남 고백받고 얼음 "더 많은 추억 쌓고파"]]></title>
+        <id>https://v.daum.net/v/20240918013134466</id>
+        <link href="https://v.daum.net/v/20240918013134466"/>
+        <updated>2024-09-17T17:12:10.986Z</updated>
+        <content type="html"><![CDATA[배우 예지원이 소개팅남에게 고백을 받았다. 9월 17일 방송된 TV조선 '공개연애-여배우의 사생활'에서는 이동준이 예지원에게 고백하는 모습이 담겼다. 이날 방송에서 이동준은 예지원만을 위해 빔프로젝트를 준비, '불멍'을 하자며 이벤트를 준비했다. 직접 만든 바다 영상이었다. 영상 도중 고백 영상이 흘러나왔다. 이동준은 "처음 짝꿍을 만났을 때 어색하]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이수경 8살 연하 소개팅남 고백 "솔직히 누나 좋아"]]></title>
         <id>https://v.daum.net/v/20240918011550383</id>
         <link href="https://v.daum.net/v/20240918011550383"/>
         <updated>2024-09-17T16:16:22.961Z</updated>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240917234528928"/>
         <updated>2024-09-17T15:14:01.969Z</updated>
         <content type="html"><![CDATA[[OSEN=최지연 기자] 배우 이성경이 뮤지컬 배우를 오래 꿈꿨다고 고백했다.&nbsp; 지난 16일,&nbsp;유튜브 채널 '성시경'에는 '성시경의 부를텐데 l 멜로망스, 이성경'이라는 제목의 영상이 업로드 되었다. 이날 이성경은 뮤지컬 배우를 오래 꿈꿨다고 밝혔다.&nbsp; 이성경은 뮤지컬 '하데스 타운'에 출연 중인 김민석에게 "워낙 잘하시니까. 하데스 타운 좋다는 얘기를]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['흑백요리사' 오늘, 잔혹한 요리 계급 전쟁의 시작 알렸다]]></title>
-        <id>https://v.daum.net/v/20240917234327920</id>
-        <link href="https://v.daum.net/v/20240917234327920"/>
-        <updated>2024-09-17T15:14:01.972Z</updated>
-        <content type="html"><![CDATA[[티브이데일리 김진석 기자] '흑백요리사'의 잔혹한 요리 계급 전쟁이 시작된다. 17일 넷플릭스 예능프로그램 '흑백요리사: 요리 계급 전쟁'(이하 '흑백요리사')이 공개됐다. '흑백요리사'는 맛 하나는 최고라고 평가받는 재야의 고수 흑수저 셰프들이 대한민국 최고의 스타 셰프 백수저들에게 도전장을 내밀며 치열하게 맞붙는 100인의 요리 계급 전쟁을 그린다.]]></content>
     </entry>
 </feed>
