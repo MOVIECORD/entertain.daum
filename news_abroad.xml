@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2024-09-17T07:12:23.566Z</updated>
+    <updated>2024-09-17T08:17:21.612Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['브리저튼4' 촬영 시작... 하예린X루크 톰슨 투샷 최초 공개]]></title>
+        <id>https://v.daum.net/v/20240917170131943</id>
+        <link href="https://v.daum.net/v/20240917170131943"/>
+        <updated>2024-09-17T08:17:20.919Z</updated>
+        <content type="html"><![CDATA[[TV리포트=이혜미 기자] 배우 하예린이 '브리저튼' 시즌4의 주인공으로 발탁된 가운데 상대 배우 루크 톰슨과 함께한 투샷이 최초로 공개돼 화제다. 16일 넷플릭스 공식 채널에는 "소피 백과 베네딕트 브리저튼을 위해 일어나 달라"는 글과 함께 한 장의 사진을 게시됐다. 공개된 사진엔 하예린과 루크 톰슨의 다정한 투샷이 담겼다. 이들은 '브리저튼 시즌4' 세]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[아이돌 카나, 임신 발표 "현재 안정기...몸 소중히 여길 것"]]></title>
         <id>https://v.daum.net/v/20240917151327894</id>
@@ -95,12 +102,5 @@
         <link href="https://v.daum.net/v/20240916172053713"/>
         <updated>2024-09-16T09:16:25.422Z</updated>
         <content type="html"><![CDATA[사진=차이나 타임즈  &nbsp; 홍콩 배우 쉬사오창(73·서소광) 별세 소식이 뒤늦게 알려졌다. 16일(현지시간) 중국 매체 '차이나타임즈'에 따르면, 서소강은 이달 1일 베이징에서 식도암으로 사망했다고 보도했다. 그의 아내도 남편의 장례를 준비하던 중 과로와 슬픔으로 인해 심장마비를 일으켜 숨졌다. 향년 43세. 서소강은 앞서 두 차례 이혼을 겪었으며,]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["18관왕 기염" '쇼군' 에미상 휩쓸어···'박찬욱 작품 출연' 로다주 수상은 불발]]></title>
-        <id>https://v.daum.net/v/20240916164725371</id>
-        <link href="https://v.daum.net/v/20240916164725371"/>
-        <updated>2024-09-16T08:18:09.303Z</updated>
-        <content type="html"><![CDATA[[서울경제] 제76회 에미상에서 한국 관련 후보(작)들이 수상에 성공하지 못했다. 일본을 배경으로 한 작품인 '쇼군'은 18관왕에 오르며 이번 에미상의 주인공이 됐다. 제76회 프라임타임 에미상(Primetime Emmy Awards, 이하 에미상)은 16일 오전(이하 한국시간, 현지 시각 15일 오후) 미국 캘리포니아주 로스앤젤레스에 위치한 피콕 극장에]]></content>
     </entry>
 </feed>
