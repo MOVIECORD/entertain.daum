@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2024-09-17T00:50:02.946Z</updated>
+    <updated>2024-09-17T01:51:13.262Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘이혼’ 함소원, 전남편 진화와 여전히 핑크빛 무드 “스킨십? 많다”]]></title>
+        <id>https://v.daum.net/v/20240917094959516</id>
+        <link href="https://v.daum.net/v/20240917094959516"/>
+        <updated>2024-09-17T01:51:12.420Z</updated>
+        <content type="html"><![CDATA[MBN '가보자GO(가보자고)' 시즌3 1화 예고편이 공개됐다. 지난 시즌, 매회 다양한 게스트로 시청자들에게 신선한 재미를 선사했던 '가보자GO'가 시즌3의 첫 게스트로 방송인 함소원의 등장을 예고해 눈길을 끌었다. 함소원은 남편 진화와 이혼 사실을 공개한 이후 첫 방송 출연이라며 근황을 전했다. "솔직하게 다 얘기해줄 수 있냐?"는 M]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[홍콩 배우 쉬사오창, 식도암 별세…30세 연하 아내도 장례 중 사망]]></title>
         <id>https://v.daum.net/v/20240917091432188</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240916110036003"/>
         <updated>2024-09-16T02:50:48.620Z</updated>
         <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]할리우드 배우 로버트 다우니 주니어가 박찬욱 감독의 '동조자'로 에미상 남우조연상에 도전했으나 수상에 실패했다. 15일(현지시간) 미국 로스앤젤레스(LA) 피콕 극장에서 열린 제76회 프라임타임 에미상 시상식에서 로다주가 후보에 오른 미니시리즈(Limited·Anthology Series·Movie) 부문 남우조연상은 '파고]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[로버트 다우니 주니어, 박찬욱 ‘동조자’로 에미상 조연상 수상 불발]]></title>
-        <id>https://v.daum.net/v/20240916105952977</id>
-        <link href="https://v.daum.net/v/20240916105952977"/>
-        <updated>2024-09-16T02:50:48.620Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 배효주 기자] 로버트 다우니 주니어가 박찬욱 감독의 '동조자'로 에미상 남우조연상 후보에 올랐으나, 수상에는 실패했다. 9월 15일(현지시간) 미국 LA 피콕 극장에서 열린 제76회 에미상 시상식에서 미니시리즈 부문 남우조연상은 '파고'의 라몬 모리스가 받게 됐다. 로버트 다우니 주니어는 박찬욱 감독이 제작한 미국 드라마 '동조자'(The Sym]]></content>
     </entry>
 </feed>
