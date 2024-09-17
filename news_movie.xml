@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2024-09-17T06:17:46.551Z</updated>
+    <updated>2024-09-17T07:12:23.560Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[봉준호 차기작 '미키17', 예고편 티저 공개..."주인공 17번 사망"]]></title>
+        <id>https://v.daum.net/v/20240917153531103</id>
+        <link href="https://v.daum.net/v/20240917153531103"/>
+        <updated>2024-09-17T07:12:02.494Z</updated>
+        <content type="html"><![CDATA[[TV리포트=강성훈 기자] 봉준호 감독의 차기작 '미키17'(Mickey 17)의 첫 예고편 티저 영상에 뜨거운 관심이 모인다.&nbsp; 17일(현지 시간) 온라인 채널 'Warner Bros. India'에는 '미키 17'의 예고편 티저 영상이 게시됐다. 영화 속 인물들은 죽음에 관해 어떻게 느끼는지 묻는다. 특히, 봉준호 감독이 연출했다고 타이틀 문구가 적혀있]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[정해인 광기 물든 '베테랑2', 추석에 손익분기점 4백만 넘을까]]></title>
         <id>https://v.daum.net/v/20240917151350898</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240917110900449"/>
         <updated>2024-09-17T02:20:52.127Z</updated>
         <content type="html"><![CDATA[[김성호 기자] 독재는 필연적으로 탄압을 불러온다. 소위 '온정적 독재', 즉 일시적이나마 사회와 민족의 발전에 기여하는 독재조차도 그 끝을 보자면 폭력으로 민중과 반대파를 탄압하기 십상이다. 콜롬비아의 시몬 볼리바르, 튀르키예의 무스타파 케말 아타튀르크, 인도네시아의 수카르노 같이 독립의 영웅 출신이며 여전히 제 나라에서 폭넓게 존경받는 지도자라 할지라도]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[황정민·정해인 ‘베테랑2’ 300만 돌파…‘파묘’보다 빨라]]></title>
-        <id>https://v.daum.net/v/20240917110630430</id>
-        <link href="https://v.daum.net/v/20240917110630430"/>
-        <updated>2024-09-17T02:20:52.128Z</updated>
-        <content type="html"><![CDATA[[동아닷컴] 사진｜CJ ENM 영화 ‘베테랑2’가 개봉 5일 만에  300만 관객을 돌파했다. 영화관 입장권 통합전산망 배급사 기준 17일 오전 ‘베테랑2’가 누적 관객 수 315만 1465명을 넘어섰다. ‘베테랑2’는 연일 관객 동원 우상향 중이다. ‘베테랑2’의 300만 돌파 기록은 ‘파묘’의 7일, ‘서울의 봄’의 10일보다 빠른 속도이며 ‘범죄도]]></content>
     </entry>
 </feed>
