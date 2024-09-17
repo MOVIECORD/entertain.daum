@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-09-17T02:21:09.097Z</updated>
+    <updated>2024-09-17T03:15:17.928Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['손해 보기 싫어서' 신민아, 김영대에 기습 입맞춤…최고 3.9%]]></title>
+        <id>https://v.daum.net/v/20240917121350028</id>
+        <link href="https://v.daum.net/v/20240917121350028"/>
+        <updated>2024-09-17T03:15:03.753Z</updated>
+        <content type="html"><![CDATA["좋아해" 신민아가 김영대에게 먼저 다가가 입을 맞췄다. 지난 16일(월) 방송된 tvN X TVING 오리지널 드라마 '손해 보기 싫어서'(극본 김혜영 / 연출 김정식/ 기획 CJ ENM STUDIOS / 제작 본팩토리) 7회에서는 가짜 부부 손해영(신민아 분)과 김지욱(김영대 분)이 풀타임 사내 부부 모드에 돌입했다. 7회 시청률은 케이블, IPT]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[정규로 돌아온 '싱크로유'… 첫방부터 반전 또 반전]]></title>
         <id>https://v.daum.net/v/20240917111652519</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240917093251342"/>
         <updated>2024-09-17T00:49:47.384Z</updated>
         <content type="html"><![CDATA[(사진=TV조선 ‘영탁쇼’ 방송화면)[이데일리 스타in 윤기백 기자] TV조선 추석특집 ‘영탁쇼’가 전율의 2시간으로 안방을 사로잡았다. 17일 시청률 조사회사 닐슨코리아에 따르면 16일 월요일 오후 10시 방송된 TV조선 추석특집 ‘영탁쇼’는 전국 기준 시청률 4.2%를 기록했다. 이는 동 시간대 종편 및 케이블 시청률 1위이자, 16일 방송된 모든 종]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[일본 언론 “‘쇼군’ 美에미상 18관왕 석권… 한국 드라마 덕분”]]></title>
-        <id>https://v.daum.net/v/20240917093153339</id>
-        <link href="https://v.daum.net/v/20240917093153339"/>
-        <updated>2024-09-17T00:49:47.385Z</updated>
-        <content type="html"><![CDATA[일본 언론이 미국 방송계 최고 권위의 에미상 시상식에서 18관왕을 수상한 일본 배경 역사 드라마 ‘쇼군’이 미국에서 유행한 것에 한국 드라마가 영향을 미쳤다고 분석했다. 니혼게이자이신문(닛케이)은 16일 “(대사) 70%가 일본어인 드라마가 미국에서 흥행한 것은 한국 드라마가 약진인 것이 큰 영향을 미쳤다”며 “대사가 한국어인 한국 드라마 넷플릭스 ‘오]]></content>
     </entry>
 </feed>
