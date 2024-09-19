@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2024-09-19T22:13:01.611Z</updated>
+    <updated>2024-09-19T23:13:45.660Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['베테랑2', 7일 연속 1위…주말 500만 눈앞]]></title>
+        <id>https://v.daum.net/v/20240920081233308</id>
+        <link href="https://v.daum.net/v/20240920081233308"/>
+        <updated>2024-09-19T23:13:28.349Z</updated>
+        <content type="html"><![CDATA[[스포츠투데이 서지현 기자] '베테랑2'가 7일 연속 박스오피스 1위를 달리고 있다. 20일 영화진흥위원회 영화관입장권 통합전산망에 따르면 전날 영화 '베테랑2'는 23만3303명이 관람하며 누적 468만6778명을 기록, 7일 연속 박스오피스 1위를 차지했다. 2위는 '룩백'이다. 9428명이 관람하며 누적 17만5387명을 기록했다. 3위는 재개봉한 ']]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[포미닛 출신 권소현, 세번째 부국제 초청…독립영화 퀸 되나]]></title>
+        <id>https://v.daum.net/v/20240920071453376</id>
+        <link href="https://v.daum.net/v/20240920071453376"/>
+        <updated>2024-09-19T23:13:28.351Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 이민지 기자] 배우 권소현이 올해도 부산국제영화제(BIFF)에 참석한다. 권소현은 오는 10월 2일부터 11일까지 열흘간 개최되는 제29회 부산국제영화제 개막식 레드카펫을 비롯한 GV(관객과의 대화)에 참여하여 관객들과 소통한다. 권소현 주연의 영화 ‘새벽의 Tango’(감독 김효은)는 ‘한국영화의 오늘-비전’ 섹션에 초청된 작품으로 한 공장에]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['베테랑2', 23만↑ 동원하며 7일 연속 1위…흥행 독주]]></title>
         <id>https://v.daum.net/v/20240920071231355</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240919184631980"/>
         <updated>2024-09-19T10:13:49.944Z</updated>
         <content type="html"><![CDATA[[OSEN=하수정 기자] '베테랑2'가 추석 연휴 기간 동안 극장가를 뜨겁게 달구며 전천후 대세 영화로 떠올랐다. 연휴 기간 동안 진행된 무대인사에서 관객 성원의 현장도 공개한다. 올 하반기 관객들의 원픽 영화 '베테랑2'가 9월 13일(금) 개봉해 6일간 누적 관객 445만 3,536명을 돌파했다. 극장 관람에 갈증을 느끼던 관객들에게 시원한 단비가]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[하이라이트, 10월 콘서트 실황 영화 개봉 확정]]></title>
-        <id>https://v.daum.net/v/20240919184431936</id>
-        <link href="https://v.daum.net/v/20240919184431936"/>
-        <updated>2024-09-19T10:13:49.944Z</updated>
-        <content type="html"><![CDATA[[스포츠투데이 백지연 기자] 15년간 변함없는 음악과 무대로 팬들과 함께 뜨거운 서사를 써 내려간 하이라이트의 콘서트 실황 영화 '하이라이트: 라이츠 고 온, 어게인 인 시네마'가 하이라이트의 데뷔일인 10월 16일 개봉 소식을 알리며 티저 포스터를 공개했다. [감독: 오윤동ㅣ출연: 윤두준, 양요섭, 이기광, 손동운ㅣ제공: 어라운드어스ㅣ제작: CJ 4DPL]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김우빈 “투병 전 1시간 자며 몸 혹사, 내게 미안”→좋은 사람 ♥신민아]]></title>
-        <id>https://v.daum.net/v/20240919183846825</id>
-        <link href="https://v.daum.net/v/20240919183846825"/>
-        <updated>2024-09-19T10:13:49.944Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 장예솔 기자] 배우 김우빈이 비인두암 투병 후 가치관에 변화가 일어났다고 고백했다. 김우빈은 9월 19일 서울 종로구 모처에서 뉴스엔과 만나 넷플릭스 영화 '무도실무관'(감독 김주환) 인터뷰를 진행했다. '무도실무관'은 태권도, 검도, 유도 도합 9단 무도 유단자 이정도(김우빈)가 보호관찰관 김선민(김성균)의 제안으로 범죄를 예방하기 위해 전자]]></content>
     </entry>
 </feed>
