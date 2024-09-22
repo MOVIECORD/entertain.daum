@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2024-09-22T21:11:59.328Z</updated>
+    <updated>2024-09-22T22:12:59.534Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[괴력액션 안보현→의리 조인성…N차 관람자극 '베테랑2'의 숨은 공신들]]></title>
+        <id>https://v.daum.net/v/20240923070200360</id>
+        <link href="https://v.daum.net/v/20240923070200360"/>
+        <updated>2024-09-22T22:12:38.506Z</updated>
+        <content type="html"><![CDATA[[이데일리 스타in 김보영 기자] 개봉 9일 만에 500만 고지를 넘어 천만 영화 등극을 향해 달리고 있는 영화 ‘베테랑2’(감독 류승완)는 뜻밖의 배우들이 영화 안팎에서 든든한 지원사격을 펼치며 흥행공신으로 활약해 입소문 열기를 더하고 있다. 지난 13일 개봉한 영화 ‘베테랑2’는 나쁜 놈은 끝까지 잡는 베테랑 서도철 형사(황정민 분)의 강력범죄수사대]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[별 헤는 밤 너와 나의 연결고리 '새벽의 모든']]></title>
         <id>https://v.daum.net/v/20240923060507690</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240922131553003"/>
         <updated>2024-09-22T04:17:58.192Z</updated>
         <content type="html"><![CDATA[[스포츠서울 | 이주상 기자] 모든 현대예술의 시발점이라고 할 수 있는 르네상스를 대표하는 전설의 예술가 티치아노의 일대기 다룬 ‘티치아노. 색채의 제국’이 오는 25일 개봉한다. 티치아노 베첼리오(1488-90년경 ~ 1576년)는 북이탈리아 피에베 디 카도레에서 출생한 이탈리아의 전성기 르네상스 시대에 활약했던 화가이다. 그의 걸작과 삶으로의 여행]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[완전히 다른 매력의 두 남자 사이에서 흔들리는 철학 교수]]></title>
-        <id>https://v.daum.net/v/20240922104501742</id>
-        <link href="https://v.daum.net/v/20240922104501742"/>
-        <updated>2024-09-22T02:49:53.580Z</updated>
-        <content type="html"><![CDATA[[조영준 기자] ▲ &nbsp;영화 &lt;사랑의 탐구&gt; 스틸컷ⓒ 티캐스트(*이 글은 영화의 스포일러를 포함하고 있습니다.) 01. 배우 모니아 초크리를 떠올리면 가장 먼저 생각나는 건 역시 영화 &lt;하트비트&gt;(2010)다. 자비에 돌란 감독의 두 번째 장편 영화에서 그는 결코 깨지지 않을 것이라 믿었던 우정의 한 축 마리 역을 연기했다. 이 작품으로 스타덤에 오른 것은]]></content>
     </entry>
 </feed>
