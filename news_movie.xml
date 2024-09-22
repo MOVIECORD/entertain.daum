@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2024-09-22T03:20:10.821Z</updated>
+    <updated>2024-09-22T04:18:17.438Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[르네상스를 대표하는 전설의 예술가 티치아노, 일대기 다룬 다큐 ‘티치아노. 색채의 제국’ 25일 개봉해]]></title>
+        <id>https://v.daum.net/v/20240922131553003</id>
+        <link href="https://v.daum.net/v/20240922131553003"/>
+        <updated>2024-09-22T04:17:58.192Z</updated>
+        <content type="html"><![CDATA[[스포츠서울 | 이주상 기자] 모든 현대예술의 시발점이라고 할 수 있는 르네상스를 대표하는 전설의 예술가 티치아노의 일대기 다룬 ‘티치아노. 색채의 제국’이 오는 25일 개봉한다. 티치아노 베첼리오(1488-90년경 ~ 1576년)는 북이탈리아 피에베 디 카도레에서 출생한 이탈리아의 전성기 르네상스 시대에 활약했던 화가이다. 그의 걸작과 삶으로의 여행]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[완전히 다른 매력의 두 남자 사이에서 흔들리는 철학 교수]]></title>
         <id>https://v.daum.net/v/20240922104501742</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240922003330263"/>
         <updated>2024-09-21T16:15:47.168Z</updated>
         <content type="html"><![CDATA[[OSEN=박소영 기자] 홍상수-김민희 ‘불륜 커플’이 또 하나의 작품을 완성했다. 해외 평단과 관객들을 매료시킨 영화 ‘수유천’이 국내 영화 팬들에게는 어떤 평가를 받게 될까.&nbsp; 18일 개봉한 ‘수유천’은 촌극제가 열리는 한 여대에서 벌어지는 스캔들을 그린 작품이다. 여대 강사 전임(김민희 분)이 블랙리스트에 오른 배우 겸 연출가인 삼촌(권해효 분)에]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[감동 실화 ‘그녀에게’ 2만 관객 달성 ‘눈앞’]]></title>
-        <id>https://v.daum.net/v/20240921235052024</id>
-        <link href="https://v.daum.net/v/20240921235052024"/>
-        <updated>2024-09-21T15:14:18.986Z</updated>
-        <content type="html"><![CDATA[영화 ‘그녀에게’가 2만 관객 달성을 눈앞에 뒀다. 영화 ‘그녀에게’는 21일 오후 12시 30분 기준, 1만 8,010명의 관객을 동원했다. 개봉 2일 만에 1만 관객을 돌파한 데 이어 불과 열흘 남짓한 기간 동안에 2만 명에 가까운 관객을 불러 모으는 저력을 과시해 앞으로 흥행 추이가 기대된다. 한국독립예술영화로서 이와 같은 선전은 상업 영화에 비]]></content>
     </entry>
 </feed>
