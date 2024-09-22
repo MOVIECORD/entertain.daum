@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2024-09-22T07:12:27.562Z</updated>
+    <updated>2024-09-22T08:16:08.498Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[신카이 마코토 ‘초속 5센티미터’ 실사 영화로 제작... 내년 가을 개봉]]></title>
+        <id>https://v.daum.net/v/20240922162928130</id>
+        <link href="https://v.daum.net/v/20240922162928130"/>
+        <updated>2024-09-22T08:15:49.222Z</updated>
+        <content type="html"><![CDATA[일본 애니메이션 거장 신카이 마코토 대표작 ‘초속 5센티미터’가 실사 영화로 제작된다. 22일 영화 공식 홈페이지는 ‘초속 5센티미터’가 내년 가을에 공개된다고 밝혔다. 연출에는 오쿠양마 요시유키가 맡았으며, 일본 보이그룹 스톤즈의 마츠무라 호쿠토가 주인공 토오노 타카키 역을 맡았다. 감독은 오쿠야마 요시유키다. 원작자 신카이 마코토는 “‘초속 5센치]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김우빈의 선택 동의하기 어렵다, '무도실무관'이 범한 우]]></title>
         <id>https://v.daum.net/v/20240922160902662</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240922090153258"/>
         <updated>2024-09-22T01:06:06.387Z</updated>
         <content type="html"><![CDATA[[뉴스엔 장예솔 기자] 배우 김시후가 '베테랑2'를 통해 스크린에 복귀했다. 영화 '베테랑2'(감독 류승완)는 나쁜 놈은 끝까지 잡는 베테랑 서도철 형사(황정민)의 강력범죄수사대에 막내 형사 박선우(정해인)가 합류하면서 세상을 떠들썩하게 한 연쇄살인범을 쫓는 액션범죄수사극이다. 지난 2015년 개봉해 관객수 1,341만 명을 동원한 '베테랑'의 후속편으]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김우빈 "투병 전 '나약하다' 혹사..♥신민아 덕에 좋은 영향받아요"]]></title>
-        <id>https://v.daum.net/v/20240922090001169</id>
-        <link href="https://v.daum.net/v/20240922090001169"/>
-        <updated>2024-09-22T01:06:06.391Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 | 김나라 기자] 넷플릭스 오리지널 영화 '무도실무관'의 주연배우 김우빈이 19일 진행된 인터뷰를 위해 포즈를 취하고 있다. /사진제공=넷플릭스 2024.09.19 /사진=이동훈배우 김우빈(35)이 '무도실무관'으로 완벽 변신, 혼신을 다한 열연이 빛을 발하며 전 세계 안방극장을 뜨겁게 강타했다. 김우빈은 이달 13일 넷플릭스 영화 '무도실무관]]></content>
     </entry>
 </feed>
