@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2024-09-22T06:17:15.714Z</updated>
+    <updated>2024-09-22T07:12:27.562Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김우빈의 선택 동의하기 어렵다, '무도실무관'이 범한 우]]></title>
+        <id>https://v.daum.net/v/20240922160902662</id>
+        <link href="https://v.daum.net/v/20240922160902662"/>
+        <updated>2024-09-22T07:12:10.732Z</updated>
+        <content type="html"><![CDATA[[김동근 기자] * 이 글은 영화의 스포일러를 포함하고 있습니다. 넷플릭스에서 새롭게 선보인 영화 &lt;무도실무관&gt;은 그동안 잘 다루지 않았던 법무부의 특수 직업군인 '무도실무관'의 세계를 다룬 작품이다. 이들은 경찰은 아니지만 전자발찌를 찬 출소자들을 관리하는 사람들로, 범죄자들이 다시는 범죄를 저지르지 않도록 그들을 감독하고 필요한 경우 제지할 수 있는 권]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[다음 달 ‘조커’ 온다…‘베테랑2’ 피한 韓영화, 가을이 두렵다]]></title>
+        <id>https://v.daum.net/v/20240922155404339</id>
+        <link href="https://v.daum.net/v/20240922155404339"/>
+        <updated>2024-09-22T07:12:10.734Z</updated>
+        <content type="html"><![CDATA[‘베테랑2’를 피해 다음 달 개봉을 확정한 한국 영화의 흥행 성적표에 업계의 관심이 쏠린다. 다음 달엔 화제작인 ‘조커: 폴리 아 되’와 맞대결을 해야한다. 영화가 몰리면서 출혈경쟁이 불가피한 점도 관전 포인트다. 22일 영화계에 따르면 박상영 작가의 동명 소설집에 실린 ‘재희’를 원작으로 한 영화 ‘대도시의 사랑법’이 다음 달 1일 개봉한다. 올초 100]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[日 애니메이션 '초속 5센티미터' 실사 영화로 제작…내년 가을 공개 예정]]></title>
         <id>https://v.daum.net/v/20240922145831159</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240922090001169"/>
         <updated>2024-09-22T01:06:06.391Z</updated>
         <content type="html"><![CDATA[[스타뉴스 | 김나라 기자] 넷플릭스 오리지널 영화 '무도실무관'의 주연배우 김우빈이 19일 진행된 인터뷰를 위해 포즈를 취하고 있다. /사진제공=넷플릭스 2024.09.19 /사진=이동훈배우 김우빈(35)이 '무도실무관'으로 완벽 변신, 혼신을 다한 열연이 빛을 발하며 전 세계 안방극장을 뜨겁게 강타했다. 김우빈은 이달 13일 넷플릭스 영화 '무도실무관]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[미친 흥행 '베테랑2' 9일만에 500만…'파묘'보다 빠르다]]></title>
-        <id>https://v.daum.net/v/20240922082615849</id>
-        <link href="https://v.daum.net/v/20240922082615849"/>
-        <updated>2024-09-22T01:06:06.393Z</updated>
-        <content type="html"><![CDATA[(서울=뉴스1) 윤효정 기자 = 영화 '베테랑2'(감독 류승완)가 개봉 9일째 500만 관객을 넘었다. 22일 영화진흥위원회 영화관입장권 통합전산망 집계에 따르면 '베테랑2'는 21일 하루 전국 2521개 스크린에서 38만 6784명을 동원하며 박스오피스 1위를 유지했다. 누적 관객수는 529만 1517명이다. '베테랑2'의 이같은 500만 돌파 흥]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘안녕, 할부지’ 북미 개봉→홍콩 상영회 매진, 푸바오 감동 스토리 통했다]]></title>
-        <id>https://v.daum.net/v/20240922082427838</id>
-        <link href="https://v.daum.net/v/20240922082427838"/>
-        <updated>2024-09-22T01:06:06.396Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 장예솔 기자] '안녕, 할부지'가 북미 개봉 확정에 이어 홍콩 특별 사전 상영회에서 매진 세례를 기록하고 있다. 선물로 찾아온 만남과 예정된 이별, 헤어짐을 알기에 매 순간 진심이었던 푸바오와 주키퍼들의 이야기를 담은 영화 '안녕, 할부지'(감독 심형준)가 지난 9월 20일 북미 개봉을 시작으로 아시아, 유럽 지역의 순차 개봉을 앞두고 있어 눈길]]></content>
     </entry>
 </feed>
