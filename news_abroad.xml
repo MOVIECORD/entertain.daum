@@ -2,11 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2024-09-26T05:13:47.278Z</updated>
+    <updated>2024-09-26T06:19:45.370Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA['하반기 마비' 배우 장선위, 11년째 휠체어 타...안타까운 근황]]></title>
+        <title type="html"><![CDATA['美 최고스타→갑질 논란' 엘런, 넷플릭스서 '나락 썰' 푼다]]></title>
+        <id>https://v.daum.net/v/20240926151830528</id>
+        <link href="https://v.daum.net/v/20240926151830528"/>
+        <updated>2024-09-26T06:19:44.719Z</updated>
+        <content type="html"><![CDATA[[TV리포트=유지호 기자] 코미디언이자 전 토크쇼 진행자 엘런 드제너러스가 넷플릭스 스탠드업 코미디 스페셜에서 과거의 '갑질' 논란을 유머로 풀어냈다. 2020년 엘런은 그의 이름을 딴 토크쇼 '엘런 쇼'에 대해 인종차별 및 직장 내 괴롭힘 의혹에 휘말리면서 큰 논란에 휩싸였고 결국 2022년, 19년간 큰 사랑을 받은 '엘런 쇼는 폐지됐다. 이후 연예계에]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['하반신 마비' 배우 장선위, 11년째 휠체어 타...안타까운 근황]]></title>
         <id>https://v.daum.net/v/20240926123901617</id>
         <link href="https://v.daum.net/v/20240926123901617"/>
         <updated>2024-09-26T04:17:15.561Z</updated>
@@ -81,12 +88,5 @@
         <link href="https://v.daum.net/v/20240925181130505"/>
         <updated>2024-09-25T09:15:07.624Z</updated>
         <content type="html"><![CDATA[[TV리포트=이지은 기자] 은퇴 후 자취를 감춘 일본의 전설적인 가수 아무로 나미에의 반가운 근황이 전해졌다. 최근 한 누리꾼은 미국 하와이에서 우연히 아무로 나미에를 만났다며 그의 사진을 공개했다. 공개된 사진에는 젊은 남성과 하와이 길거리를 거니는 아무로 나미에의 모습이 담겼다. 사진 속 아무로 나미에는 꽃무늬 롱 원피스에 흰색 캡모자를 눌러 쓴 모습으]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[남주혁 전역 후 첫 근황 포착, 블핑 지수와 비주얼로 파리 접수]]></title>
-        <id>https://v.daum.net/v/20240925143124523</id>
-        <link href="https://v.daum.net/v/20240925143124523"/>
-        <updated>2024-09-25T06:19:34.061Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 하지원 기자] 최근 전역한 배우 남주혁이 디올쇼에 떴다. 남주혁은 9월 24일(현지시각) 프랑스 파리에서 열린 크리스찬 디올 2025 S/S 쇼에 참석했다. 이날 남주혁은 스트라이프 블랙 롱코트에 회색 정장 바지를 매치해 차분하면서도 세련된 코디를 선보였다. 187cm인 남주혁은 프로페셔널한 포즈와 눈빛으로 모델 아우라를 뽐내 시선을 사로잡았다.]]></content>
     </entry>
 </feed>
