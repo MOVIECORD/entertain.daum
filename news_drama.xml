@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-09-26T21:12:34.682Z</updated>
+    <updated>2024-09-26T22:13:18.413Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[박성웅, 연우 몰카 찍다 들통→"내가 언제 찍었다고!" 적반하장]]></title>
+        <id>https://v.daum.net/v/20240927062416931</id>
+        <link href="https://v.daum.net/v/20240927062416931"/>
+        <updated>2024-09-26T22:13:05.583Z</updated>
+        <content type="html"><![CDATA[[OSEN=유수연 기자] 박성웅의 수상한 행적이 공찬에게 포착됐다. 26일 방송된 KBS2 수목드라마 ‘개소리’(극본 변숙경, 연출 김유진, 제작 아이엠티브이) 2회에서는&nbsp;홍초원(연우 분)은&nbsp;평소와 달리 투박한 경찰 제복 대신 산뜻한 꽃무늬 원피스를 입고 짝사랑 중인 카페 아르바이트생&nbsp;강민우(공찬 분)을 찾은 모습이 담겼다. 초원은 카페에 앉아 몰래 민]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[신혜선 “제 숨겨진 모습 계속 찾아내고 싶은 게 꿈이에요”]]></title>
         <id>https://v.daum.net/v/20240927060311751</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240926181845361"/>
         <updated>2024-09-26T10:14:18.225Z</updated>
         <content type="html"><![CDATA[(사진=MBC)[이데일리 스타in 최희재 기자] ‘백설공주에게 죽음을-Black Out’ 변요한이 일당백 싸움을 이어가고 있다. MBC 금토드라마 ‘백설공주에게 죽음을-Black Out’(이하 ‘백설공주’) 속 고정우(변요한 분)가 찾아낸 단서들이 무천시를 장악한 빌런들의 허를 찌르면서 시청자들에게 통쾌함을 안기고 있다. 진실을 밝히려는 자와 감추려는 자]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['트와이스 지효 동생' 이하음, 첫 드라마서 주인공 꿰차]]></title>
-        <id>https://v.daum.net/v/20240926180540869</id>
-        <link href="https://v.daum.net/v/20240926180540869"/>
-        <updated>2024-09-26T09:14:34.941Z</updated>
-        <content type="html"><![CDATA[[이데일리 스타in 김가영 기자] 트와이스 지효의 동생으로도 잘 알려진 신예 이하음이 첫 작품에서 주인공 자리를 꿰찼다. 26일 스타하우스엔터테인먼트는 이하음이 숏폼 드라마 ‘퇴사를 요청합니다’로 본격 배우의 행보에 나선다고 밝혔다. ‘퇴사를 요청합니다’는 우연무역이라는 회사를 배경으로 저마다의 목적을 가진 세 사람의 갈등과 로맨스를 그린 작품이다. 동명]]></content>
     </entry>
 </feed>
