@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2024-09-27T06:20:18.542Z</updated>
+    <updated>2024-09-27T07:14:04.565Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[콜드플레이 내한 공연, 하루 추가…내년 4월 총 6회 진행]]></title>
+        <id>https://v.daum.net/v/20240927161039242</id>
+        <link href="https://v.daum.net/v/20240927161039242"/>
+        <updated>2024-09-27T07:14:03.821Z</updated>
+        <content type="html"><![CDATA[[동아닷컴]  콜드플레이(Coldplay)의 내한공연이 내년 4월 고양종합운동장에서 진행되는 가운데, 일정이 하루 더 추가되어 총 6회로 진행된다. 콜드플레이의 이번 내한공연은 2017년 첫 내한 이후 8년 만에 진행되는 공연으로 개최 소식이 전해지자 SNS와 온라인 커뮤니티에는 예매 정보와 공연에 대한 기대를 담은 게시물과 댓글이 쏟아지며 뜨거운 인기를]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[포브스 선정 가장 부유한 가수는? 미 힙합 대부 ‘제이지’]]></title>
         <id>https://v.daum.net/v/20240927151340239</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240927113431182"/>
         <updated>2024-09-27T02:46:52.732Z</updated>
         <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]‘오스카 여신’ 제니퍼 로렌스가 카멀라 해리스 부통령 지지를 선언했다. 그는 25일(현지시간) 연예매체 피플과 인터뷰에서 "생식권 보호를 위해 할 수 있는 모든 것을 다할 것임을 알기 때문에 내달 대선에서 해리스 부통령에게 표를 던질 것"이라고 밝혔다. 로렌스는 “낙태를 금지하려는 사람을 백악관에 들여보내지 않는 것이 가장]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[160만 커플 유튜버, 여권에 러브레터 작성...비판↑]]></title>
-        <id>https://v.daum.net/v/20240927111200123</id>
-        <link href="https://v.daum.net/v/20240927111200123"/>
-        <updated>2024-09-27T02:46:52.733Z</updated>
-        <content type="html"><![CDATA[[TV리포트=강성훈 기자] 일본 160만 커플 온라인 방송인 '나코나코 커플' 나고미(24)와 코쿤(26)이 여권에 친필로 사랑의 메시지를 작성해 비판받고 있다. 지난 22일 나코나코 커플은 영상 하나를 게시했다. 영상에서 나고미는 프랑스 파리 행사에 참석하기 위해 공항으로 향했고 코쿤은 나고미를 배웅했다. 코쿤은 나고미의 여권 비자란을 보여주며 메시지를]]></content>
     </entry>
 </feed>
