@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2024-09-27T17:13:02.248Z</updated>
+    <updated>2024-09-27T18:18:01.246Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[한예슬, 10살↓ ♥류성재에 명품 선물 받았나? 쇼핑백 들고 '함박웃음']]></title>
+        <id>https://v.daum.net/v/20240928030007888</id>
+        <link href="https://v.daum.net/v/20240928030007888"/>
+        <updated>2024-09-27T18:17:55.004Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 고향미 기자] 배우 한예슬이 근황을 공개했다. 한예슬은 지난 26일 자신의 개인 소셜미디어 계정을 통해 별 다른 코멘트 없이 사진 여러 장을 업로드 했다. 해당 게시물에서 한예슬은 한 럭셔리 레스토랑에서 호화로운 만찬을 만끽하고 있다. 특히 명품 쇼핑백을 들고 함박웃음을 짓고 있는 모습이 눈길을 사로잡는다. 이에 이를 본 네티즌들은]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[황보라子, 연기파 배우상?…큰아빠 하정우와 똑닮았네]]></title>
+        <id>https://v.daum.net/v/20240928022213861</id>
+        <link href="https://v.daum.net/v/20240928022213861"/>
+        <updated>2024-09-27T18:17:55.004Z</updated>
+        <content type="html"><![CDATA[[서울=뉴시스]최인선 인턴 기자 = 배우 황보라가 아들 우인 군의 근황을 전했다. 27일 황보라는 자신의 사회관계망서비스(SNS)에 "우인띠"라며 한 장의 사진을 공개했다. 우인 군은 순한 미소를 지으며 사랑스러운 매력을 발산했다. 통통한 볼살도 보는 이들의 미소를 유발했다. 큰아빠인 배우 하정우를 빼닮은 분위기로 더욱 시선을 사로잡았다. 앞서 황보라]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[신예 김강연, 새프로필 공개···배인혁·김지은과 ‘체크인 한양’ 출연]]></title>
         <id>https://v.daum.net/v/20240928015427784</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240928003025153"/>
         <updated>2024-09-27T16:16:28.774Z</updated>
         <content type="html"><![CDATA[TV조선은 28일 밤 9시 10분 ‘DNA러버’를 방송한다. 3년 전 아버지가 돌아가신 날의 기억을 지웠던 소진(정인선). 소진은 그때 곁에 있었던 강훈(이태환)의 냄새까지 지웠다는 사실을 깨닫는다. 강훈의 냄새를 되찾은 소진은 비로소 항상 옆에 있어 주었던 강훈의 소중함을 깨닫고, 강훈이 ‘DNA러버’임을 비로소 받아들이게 된다. 한편, 소진과 강훈이 함]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[팝핀현준 "알고보니 '재벌집' 송숭기 저택=내 세컨하우스. 깜놀"]]></title>
-        <id>https://v.daum.net/v/20240928003007147</id>
-        <link href="https://v.daum.net/v/20240928003007147"/>
-        <updated>2024-09-27T16:16:28.775Z</updated>
-        <content type="html"><![CDATA[[마이데일리 = 고향미 기자] 국악인 박애리의 남편이자 팝핀댄서인 팝핀현준이 놀라운 근황을 공개했다. 팝핀현준은 지난 26일 자신의 개인 소셜미디어 계정을 통해 "재벌집 막내 아드님께서 우리 집에 다녀가셨네~"라는 글과 함께 동영상 여러 편과 사진 여러 장을 업로드 했다. 이어 "'재벌집 막내아들' 정주행하다가 깜놀!! 여기가 원래 드라마나 광고 촬영이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[도영 "감사한 분에게 선물"…직접 만든 쿠키 150개 '깜짝']]></title>
-        <id>https://v.daum.net/v/20240928002649138</id>
-        <link href="https://v.daum.net/v/20240928002649138"/>
-        <updated>2024-09-27T16:16:28.777Z</updated>
-        <content type="html"><![CDATA[(서울=뉴스1) 이지현 기자 = 도영이 쿠키를 대량 생산했다. 27일 오후 방송된 MBC 예능 프로그램 '나 혼자 산다'에서는 그룹 NCT 멤버 도영이 출연한 가운데 직접 쿠키를 구워 이목이 쏠렸다. 그는 "주변에 감사한 분들에게 선물을 드리려고 구웠다"라며 이유를 털어놨다. 이를 본 무지개 회원들이 "양을 얼마나 하는 거야? 손이 크네~"라면서 놀랐다]]></content>
     </entry>
 </feed>
