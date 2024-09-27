@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-09-27T19:12:26.777Z</updated>
+    <updated>2024-09-27T20:14:53.269Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘백설공주에게 죽음을-Black Out’  소름돋는 이가섭 정체, 한소은 시체 숨긴 범인이었다!]]></title>
+        <id>https://v.daum.net/v/20240928044529038</id>
+        <link href="https://v.daum.net/v/20240928044529038"/>
+        <updated>2024-09-27T20:14:36.813Z</updated>
+        <content type="html"><![CDATA[장하은에 이어 한소은 살인 사건의 전말이 드러났다. 9월 27일 방송된 MBC 금토드라마 ‘백설공주에게 죽음을-Black Out’(기획 권성창, 연출 변영주, 극본 서주연, 이하 ‘백설공주’)에서 박다은(한소은)과 심보영(장하은)의 죽음에 얽힌 모든 배경이 드러났다. 11년 전, 신추호(이두일)와 양흥수(차순배)는 심보영(장하은)을 죽이고 폐교에 밀어]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['지옥 판사' 박신혜, 아동학대범에 "거짓말하면 나쁜 어른, 나쁜 어른은 벌 받아야 돼"]]></title>
         <id>https://v.daum.net/v/20240928015700793</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240927191301738"/>
         <updated>2024-09-27T10:14:37.560Z</updated>
         <content type="html"><![CDATA[[TV리포트=남금주 기자] 강태주가 김민하의 설득으로 와세다 대학에 가기로 했다. 27일 공개된 애플티비 '파친코 시즌2' 6회에서는 선자(윤여정 분)가 카토(쿠니무라 준)에게 마음을 여는 모습이 그려졌다. 이날 선자(김민하) 가족은 노아(강태주)의 와세다 대학 합격 발표를 기다렸다. 경희(정은채)는 초조해했고, 양진(정인지)은 노아가 와세다를 간다고 확신]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박신혜, 아동학대 가해자 노린다]]></title>
-        <id>https://v.daum.net/v/20240927191205726</id>
-        <link href="https://v.daum.net/v/20240927191205726"/>
-        <updated>2024-09-27T10:14:37.562Z</updated>
-        <content type="html"><![CDATA[‘지옥에서 온 판사’ 박신혜가 또다시 칼을 들었다. 9월 21일 1-2회 연속 방송된 SBS 금토드라마 ‘지옥에서 온 판사’가 안방극장에 속이 뻥 뚫리는 사이다를 선사하며 뜨거운 반응을 이끌고 있다. 무자비한 악마가 인간쓰레기 분리수거가 짜릿한 대리만족을 유발한다는 것. 이에 시청률도 응답, 2회 만에 수도권 기준 9.8%-순간 최고 10.4%를 기록하며]]></content>
     </entry>
 </feed>
