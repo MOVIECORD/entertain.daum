@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2024-09-27T10:14:53.861Z</updated>
+    <updated>2024-09-27T11:12:30.379Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[최초 女씨름 영화 '모래바람', 11월 개봉 확정]]></title>
+        <id>https://v.daum.net/v/20240927201104582</id>
+        <link href="https://v.daum.net/v/20240927201104582"/>
+        <updated>2024-09-27T11:12:09.092Z</updated>
+        <content type="html"><![CDATA[[스포츠투데이 서지현 기자] '모래바람'이 짜릿한 승부를 예고했다. 최초의 여자 씨름 영화 '모래바람'은 27일 11월 극장 개봉을 확정하고 티저 포스터를 공개했다. '모래바람'은 2009년 최초의 여자 천하장사가 탄생한 이후 5명의 여자 씨름 선수들이 비인기 종목이라는 현실을 극복하고 천하장사가 되기 위해 고군분투하는 모습을 담은 최초의 여자 씨름 영화다]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['오빠, 남진' 아직 살아있다…27일부터 극장 동시 IPTV & VOD 서비스 개시]]></title>
         <id>https://v.daum.net/v/20240927191303741</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240927153402945"/>
         <updated>2024-09-27T07:13:47.412Z</updated>
         <content type="html"><![CDATA[(울산=연합뉴스) 장지현 기자 = "보다 한국적인 산악영화제를 만들어 보겠습니다." 이정진 울산울주세계산악영화제 프로그래머는 올해 9회 영화제가 개막하는 27일 연합뉴스 인터뷰에서 "올해 영화제에는 관객들이 편하게 접근할 수 있는 영화들을 선정하려고 노력했다"고 말했다. 그는 "지역에서 관람하기 힘든 독립영화 제작진을 만날 기회를 마련하고 방문객들이 게스트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['와일드 로봇' 한국인 애니메이터 "드림웍스의 미키마우스 되길"]]></title>
-        <id>https://v.daum.net/v/20240927153255886</id>
-        <link href="https://v.daum.net/v/20240927153255886"/>
-        <updated>2024-09-27T07:13:47.414Z</updated>
-        <content type="html"><![CDATA[(서울=연합뉴스) 이영재 기자 = 다음 달 1일 국내 개봉하는 애니메이션 영화 '와일드 로봇'은 미국 애니메이션 제작사 드림웍스가 설립 30주년을 기념해 내놓은 신작이다. 미국 작가 피터 브라운의 동명 소설을 원작으로 한 '와일드 로봇'은 인공지능(AI) 로봇과 야생동물의 사랑과 우정이라는 색다른 주제를 그렸다. '와일드 로봇' 제작에는 드림웍스의 1호 한]]></content>
     </entry>
 </feed>
