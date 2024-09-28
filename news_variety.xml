@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/variety</id>
     <title>다음 연예 ─ 뉴스 ─ 예능</title>
-    <updated>2024-09-28T16:16:23.058Z</updated>
+    <updated>2024-09-28T17:11:26.665Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이사배, “보여지는 직업, 1일 2식 7년째” ‘전참시’]]></title>
+        <id>https://v.daum.net/v/20240929014039260</id>
+        <link href="https://v.daum.net/v/20240929014039260"/>
+        <updated>2024-09-28T17:11:18.103Z</updated>
+        <content type="html"><![CDATA[이사배가 샐러드마저 남기는 모습에 이영자와 홍현희가 경악했다. 9월 28일 방송된 ‘전지적 참견 시점’ 에서는 참견인으로 덱스와 이사배가 등장했다. 김은하 대표는 “이사배와는 11년 전 알았는데 같이 일한 건 9년 째”라고 밝혔다. 김은하 대표는 “이렇게 일만 하는 사람은 처음 봤다. 심지어 하루도 지친 모습을 못봤다”라고 해 MC들을 놀라게 했다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[덱스, 못하는 게 뭐야…물 한모금 안먹고 "13km 트레일 러닝" 성공]]></title>
         <id>https://v.daum.net/v/20240929005635981</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240928235238536"/>
         <updated>2024-09-28T15:14:47.723Z</updated>
         <content type="html"><![CDATA[‘티처스’가 수능 꿀팁을 전수한다. 29일(일) 방송될 채널A ‘성적을 부탁해: 티처스’에는 수능을 코앞에 둔 고3 도전학생이 등장한다. 녹화일 기준 수능이 100일 정도 남은 상황, 도전학생은 아침밥도 제대로 못 먹으며 예민한 모습을 보인다. 도전학생의 아버지는 “수능 3달이나 남았다. 이제 마무리 단계니까 부족한 부분만 체크하면서…열심히 했으니까”]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이사배 “떡볶이 1년에 1번 먹어, 라면 작년이 마지막” 철저한 관리]]></title>
-        <id>https://v.daum.net/v/20240928235044532</id>
-        <link href="https://v.daum.net/v/20240928235044532"/>
-        <updated>2024-09-28T15:14:47.723Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 서유나 기자] 뷰티 크리에이터 이사배가 철저한 관리를 자랑했다. 9월 28일 방송된 MBC 예능 '전지적 참견 시점'(이하 '전참시') 315회에서는 이사배의 24시간이 부족한 일상이 공개됐다. 이날 직원들과 밥을 먹으러 간 이사배는 각자 맘에 드는 메뉴를 먹는 직원들 틈에서 홀로 샐러드를 먹었다. 이사배의 매니저는 "보여지는 일을 해야해서]]></content>
     </entry>
 </feed>
