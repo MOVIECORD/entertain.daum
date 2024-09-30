@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2024-09-30T10:15:29.821Z</updated>
+    <updated>2024-09-30T11:11:59.413Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘30만 돌파’ 임영웅 실황콘,  ‘앵콜 싱어롱 위크’ 확정…개천절 연휴도 “건행”]]></title>
+        <id>https://v.daum.net/v/20240930193019596</id>
+        <link href="https://v.daum.net/v/20240930193019596"/>
+        <updated>2024-09-30T11:11:38.920Z</updated>
+        <content type="html"><![CDATA[가수 임영웅 실황콘서트 ‘아임 히어로 더 스타디움’이 30만 관객을 돌파한 가운데 앵콜 싱어롱 위크를 확정했다고 30일 배급사 CJ ENM이 밝혔다. ‘임영웅│아임 히어로 더 스타디움’은 10만 영웅시대와 함께 상암벌을 정복한 임영웅의 2024년 5월 서울월드컵경기장 공연 실황과 비하인드를 담은 스타디움 입성기를 담은 공연 실황 영화로, 개봉 5일 만에]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김남길 기획・제작 '문을 여는 법', 부국제 상영 확정→GV 매진]]></title>
+        <id>https://v.daum.net/v/20240930192115469</id>
+        <link href="https://v.daum.net/v/20240930192115469"/>
+        <updated>2024-09-30T11:11:38.920Z</updated>
+        <content type="html"><![CDATA[[스포츠한국 신영선&nbsp;기자]&nbsp; 배우 김남길이 자립준비청년들과 문화적 연대를 이루기&nbsp;위해&nbsp;KB국민은행과 함께 기획,&nbsp;제작한 영화&nbsp;'문을 여는 법'이 부산국제영화제 상영을 확정지은 가운데 박지완 감독,&nbsp; 허지예 감독,&nbsp;배우 채서은, 자립준비청년 박강빈이 참석하는&nbsp;GV가 매진을 기록했다.&nbsp; 영화 '문을 여는 법'은 독립을 위한 첫 걸음이었던 내 집이 하]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[신예 정이주, '환희의 얼굴'로 부국제 참석…관객과 만남까지]]></title>
         <id>https://v.daum.net/v/20240930191030285</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240930155203707"/>
         <updated>2024-09-30T07:14:20.660Z</updated>
         <content type="html"><![CDATA[(MHN스포츠 이진명 인턴기자, 정에스더 기자) 두부공장을 잇지 않는 '장손'의 이야기가 입소문을 타고 2만 관객을 돌파했다. 30일 영화진흥위원회 영화관입장권통합전산망 집계에 따르면 독립영화 '장손'은 누적 관객 20,830명을 달성했다. 개봉 19일 만이다. 지난 9월 11일 처음 개봉했을 때 '장손'은 상영 스크린이 60개뿐이었다. 개봉]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김남길 제작 '문을 여는 법' BIFF 상영…감독·채서은 부산행 확정]]></title>
-        <id>https://v.daum.net/v/20240930155101650</id>
-        <link href="https://v.daum.net/v/20240930155101650"/>
-        <updated>2024-09-30T07:14:20.661Z</updated>
-        <content type="html"><![CDATA[[스포티비뉴스=김현록 기자]배우 김남길이 제작에 참여한 자립준비 청년 이야기로 주목받은 영화 '문을 여는 법'이 부산국제영화제에서 상영되는 가운데, 박지완 허지예 감독과 배우 채서은 등이 부산을 직접 찾는다. 배우 김남길과 KB국민은행이 자립준비청년들과의 문화적 연대를 이루기 위해 제작한 영화 '문을 여는 법'이 2024 부산국제영화제 커뮤니티비프 상]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[11월 청량·설렘 최대치…'청설' 홍경·노윤서·김민주 캐릭터 포스터 공개]]></title>
-        <id>https://v.daum.net/v/20240930154837579</id>
-        <link href="https://v.daum.net/v/20240930154837579"/>
-        <updated>2024-09-30T07:14:20.661Z</updated>
-        <content type="html"><![CDATA[[이데일리 스타in 김보영 기자] 올 가을 극장가에 청량한 설렘을 전할 영화 ‘청설’(감독 조선호)이 홍경, 노윤서, 김민주의 캐릭터 포스터 3종을 30일 공개했다. 영화 ‘청설’은 사랑을 향해 직진하는 ‘용준’(홍경 분)과 진심을 알아가는 ‘여름’(노윤서 분), 두 사람을 응원하는 동생 ‘가을’(김민주 분)의 청량하고 설레는 순간들을 담은 이야기. 영화]]></content>
     </entry>
 </feed>
