@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-09-30T02:53:33.899Z</updated>
+    <updated>2024-09-30T03:24:35.149Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[윤재찬, MBC '이토록 친밀한 배신자' 합류…가출팸 행동대장 변신]]></title>
+        <id>https://v.daum.net/v/20240930115755839</id>
+        <link href="https://v.daum.net/v/20240930115755839"/>
+        <updated>2024-09-30T03:24:22.532Z</updated>
+        <content type="html"><![CDATA[배우 윤재찬이 새 드라마 '이토록 친밀한 배신자'에 출연한다. 30일 소속사 골든문 엔터테인먼트는 "윤재찬이 MBC 새 금토드라마 '이토록 친밀한 배신자'에 캐스팅됐다"고 밝혔다 '이토록 친밀한 배신자'(기획 남궁성우/ 연출 송연화/ 극본 한아영/ 제작 아센디오, 우드사이드/ 이하 '이친자')는 국내 최고의 프로파일러가 수사 중인 살인사건에 얽힌 딸의]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['강매강' 서현우, 매회 웃픈 활약…못 하는 게 없다]]></title>
         <id>https://v.daum.net/v/20240930114754536</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240930105655197"/>
         <updated>2024-09-30T02:53:19.142Z</updated>
         <content type="html"><![CDATA[[이데일리 스타in 김가영 기자] 방송인 김새롬이 ‘이제 혼자다’로 싱글 라이프를 최초로 공개한다. 오는 10월 8일 첫 정규 방송되는 TV조선 관찰 예능 ‘이제 혼자다’에 새롭게 합류하는 김새롬이 의욕 충만한 모습으로 본방송에 대한 기대감을 높였다. 여러 이혼 관련 프로그램 진행 경험이 있는 김새롬은 “출연자들이 용기내서 들려주는 이야기를 보고 듣고 있]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김태리, 웹툰 찢고 나왔다…'정년이' 놀라운 싱크로율]]></title>
-        <id>https://v.daum.net/v/20240930105407053</id>
-        <link href="https://v.daum.net/v/20240930105407053"/>
-        <updated>2024-09-30T02:53:19.143Z</updated>
-        <content type="html"><![CDATA[[마이데일리 = 박서연 기자] 배우 김태리가 그려낼 정년이에 많은 기대가 모이고 있다. tvN 새 토일드라마 ‘정년이’의 첫 방송이 약 2주도 남지 않은 가운데, 김태리가 선보일 정년이에 대한 관심이 더욱 높아지고 있다. ‘정년이’는 1950년대 한국전쟁 후를 배경으로, 최고의 국극 배우에 도전하는 타고난 소리 천재 정년이를 둘러싼 경쟁과 연대, 그리고]]></content>
     </entry>
 </feed>
