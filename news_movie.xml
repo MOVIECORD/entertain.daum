@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2024-09-30T09:16:47.084Z</updated>
+    <updated>2024-09-30T10:15:29.821Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[신예 정이주, '환희의 얼굴'로 부국제 참석…관객과 만남까지]]></title>
+        <id>https://v.daum.net/v/20240930191030285</id>
+        <link href="https://v.daum.net/v/20240930191030285"/>
+        <updated>2024-09-30T10:15:10.325Z</updated>
+        <content type="html"><![CDATA[(서울=뉴스1) 장아름 기자 = 충무로 샛별로 부상 중인 신예 정이주가 영화 '환희의 얼굴' 주연으로 제29회 부산국제영화제에 참석한다. 정이주는 오는 10월 2일 개막하는 29회 부산국제영화제(BIFF)에 참석, 개막식 레드카펫 및 GV(관객과의 대화) 등 다양한 행사를 통해 관객들과 보다 더 가까이에서 소통한다. '환희의 얼굴'은 마치 어느 단편 소]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["서독제 예산 증발, 돌려내라" 5000여명 항의 성명]]></title>
         <id>https://v.daum.net/v/20240930180601832</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240930154837579"/>
         <updated>2024-09-30T07:14:20.661Z</updated>
         <content type="html"><![CDATA[[이데일리 스타in 김보영 기자] 올 가을 극장가에 청량한 설렘을 전할 영화 ‘청설’(감독 조선호)이 홍경, 노윤서, 김민주의 캐릭터 포스터 3종을 30일 공개했다. 영화 ‘청설’은 사랑을 향해 직진하는 ‘용준’(홍경 분)과 진심을 알아가는 ‘여름’(노윤서 분), 두 사람을 응원하는 동생 ‘가을’(김민주 분)의 청량하고 설레는 순간들을 담은 이야기. 영화]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['대도시의 사랑법' 본 홍석천 "현실감있는 캐릭터, 대사 가슴에 팍 꽂혀"]]></title>
-        <id>https://v.daum.net/v/20240930153535972</id>
-        <link href="https://v.daum.net/v/20240930153535972"/>
-        <updated>2024-09-30T07:14:20.664Z</updated>
-        <content type="html"><![CDATA[[이데일리 스타in 김보영 기자] 방송인 홍석천이 영화 ‘대도시의 사랑법’(감독 이언희)의 GV 특별 게스트로 참석해 자리를 빛냈다. 김고은, 노상현의 빛나는 앙상블과 유쾌한 에피소드, 가슴 찡한 공감으로 뜨거운 호평을 받고 있는 영화 ‘대도시의 사랑법’의 이언희 감독과 스페셜 게스트 홍석천, 원작을 집필한 박상영 작가가 함께한 메가토크가 뜨거운 호응]]></content>
     </entry>
 </feed>
