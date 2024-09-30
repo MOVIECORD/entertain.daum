@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2024-09-30T22:13:45.050Z</updated>
+    <updated>2024-09-30T23:14:10.892Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[일본 28세 여가수의 죽음... 남편이 SNS에 올린 글]]></title>
+        <id>https://v.daum.net/v/20241001073529733</id>
+        <link href="https://v.daum.net/v/20241001073529733"/>
+        <updated>2024-09-30T23:14:10.182Z</updated>
+        <content type="html"><![CDATA[일본 20대 유명 여가수가 세상을 떠난 사실이 뒤늦게 알려졌다. 1일 뉴시스에 따르면 지난달 27일 여가수 사유리의 남편 아마아라시는 사유리의 사회관계망서비스(SNS)에 "항상 사유리를 응원해 주신 여러분께 진심으로 감사드린다. 사유리가 9월20일 영면했다"고 부고 소식을 알렸다. 사유리는 올해 28살밖에 되지 않았다. 지난 7월 기능성 발성장애 진단받]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['미국 컨트리음악 전설' 크리스 크리스토퍼슨 별세]]></title>
         <id>https://v.daum.net/v/20240930200136183</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240930111201054"/>
         <updated>2024-09-30T02:53:33.247Z</updated>
         <content type="html"><![CDATA[[TV리포트=강성훈 기자] 미국 배우 존 애쉬튼이 별세했다. 향년 76세. 29일(현지 시간) 매니저와 유가족은 존 애쉬튼이 미국 서부 콜로라도주에서 지난 26일에 사망했다고 발표했다. 같은 날 외신 TMZ 보도에 따르면 존 애쉬튼은 암과의 긴 싸움 끝에 평화롭게 세상을 떠났다. 존 애쉬튼은 지난 50년 동안 연예계에서 활동하며 200편이 넘는 영화에 출연]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[기무라 타쿠야 딸 코우키, 日 영화화 되는 ‘여신강림’ 주연 발탁]]></title>
-        <id>https://v.daum.net/v/20240930102847733</id>
-        <link href="https://v.daum.net/v/20240930102847733"/>
-        <updated>2024-09-30T02:53:33.250Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 박수인 기자] 일본 배우 기무라 타쿠야의 딸 코우키(Koki)가 실사 영화화 되는 '여신강림' 주연으로 발탁됐다. 9월 30일 일본 매체 네토라보는 한국의 인기 웹툰 '여신강림'의 2부작 실사 영화화가 진행되며 코우키가 주연으로 맡는다고 밝혔다. 보도에 따르면 전편 '여신강림 Befor'는 내년 3월 20일, 후편 '여신강림 After'는 내년]]></content>
     </entry>
 </feed>
