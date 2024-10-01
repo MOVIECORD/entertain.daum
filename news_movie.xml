@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2024-10-01T06:20:10.143Z</updated>
+    <updated>2024-10-01T07:14:30.754Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘대도시의 사랑법’ 노상현 “동성애자 연기 편견 없다…누구나 비밀은 있어”]]></title>
+        <id>https://v.daum.net/v/20241001160251520</id>
+        <link href="https://v.daum.net/v/20241001160251520"/>
+        <updated>2024-10-01T07:14:13.791Z</updated>
+        <content type="html"><![CDATA[사진제공｜플러스엠 엔터테인먼트배우 김고은과 노상현이 주연한 ‘대도시의 사랑법’은 얼핏 선남선녀 배우가 주연한 달콤한 로맨스 영화처럼 보인다. 하지만 두 배우는 이번 작품을 통해 사랑 아닌 사랑보다 아름다운 ‘아주 특별한 우정’을 그렸다. 1일 개봉된 영화는 자유로운 영혼을 가진 재희(김고은)와 성 정체성을 숨기고 사는 흥수(노상현)가 동고동락하며 성장해]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김고은 “한예종 ‘여신’ 아냐…인기 많은 건 알고 있었죠”]]></title>
+        <id>https://v.daum.net/v/20241001160231512</id>
+        <link href="https://v.daum.net/v/20241001160231512"/>
+        <updated>2024-10-01T07:14:13.796Z</updated>
+        <content type="html"><![CDATA[사진제공｜플러스엠 엔터테인먼트배우 김고은과 노상현이 주연한 ‘대도시의 사랑법’은 얼핏 선남선녀 배우가 주연한 달콤한 로맨스 영화처럼 보인다. 하지만 두 배우는 이번 작품을 통해 사랑 아닌 사랑보다 아름다운 ‘아주 특별한 우정’을 그렸다. 1일 개봉된 영화는 자유로운 영혼을 가진 재희(김고은)와 성 정체성을 숨기고 사는 흥수(노상현)가 동고동락하며 성장해]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[홍석천 “‘대도시의 사랑법’ 나 같은 정체성 갖고 있는 친구한테 위로”]]></title>
         <id>https://v.daum.net/v/20241001144427107</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20241001122307878"/>
         <updated>2024-10-01T03:27:53.680Z</updated>
         <content type="html"><![CDATA['베테랑'에 이어 '베테랑 2'에서 윤형사를 연기한 꽃미모의 김시후 배우를 만났다. 드라마 '반올림'의 이순신 역할로 데뷔를 한 김시후는 영화 '친절한 금자 씨'의 근식으로, 영화 '짝패'에서 류승완 감독이 연기한 유석환의 아역으로, 영화 '써니'에서 국민 첫사랑 준호로 꽃미남 외모를 빛내며 활약을 해왔다. 2015년 '베테랑'에서 윤시영 형사 역할로]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['조커: 폴리 아 되' 드디어 오늘 개봉! 관전 포인트 3 전격 공개]]></title>
-        <id>https://v.daum.net/v/20241001120107593</id>
-        <link href="https://v.daum.net/v/20241001120107593"/>
-        <updated>2024-10-01T03:27:53.685Z</updated>
-        <content type="html"><![CDATA["더 이상 혼자가 아니야" 압도적 전체 예매율 1위와 함께 마침내 오늘(10/1) 막을 올린 '조커: 폴리 아 되'가 지금 바로 극장에서 봐야만 하는 관람 포인트를 전격 공개했다. [원제: Joker: Folie à Deux | 감독: 토드 필립스 | 주연: 호아킨 피닉스, 레이디 가가, 재지 비츠 외 | 수입/배급: 워너브러더스 코리아㈜] 2년 전]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘파묘’ 감독 “이유없이 눈물 터져” 김고은 ‘대도시의 사랑법’ 극찬]]></title>
-        <id>https://v.daum.net/v/20241001120105589</id>
-        <link href="https://v.daum.net/v/20241001120105589"/>
-        <updated>2024-10-01T03:27:53.688Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 박아름 기자] '파묘' 감독이 '대도시의 사랑법'을 극찬했다. 영화 '대도시의 사랑법' 측은 9월 30일 감독들의 호평 리뷰를 공개했다. '대도시의 사랑법'은 눈치보는 법이 없는 자유로운 영혼의 재희(김고은)와 세상과 거리두는 법에 익숙한 흥수(노상현)가 동거동락하며 펼치는 그들만의 사랑법을 그린 영화. 먼저 1,191만 관객의 마음을 사로잡은]]></content>
     </entry>
 </feed>
