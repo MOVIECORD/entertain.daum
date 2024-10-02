@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2024-10-02T03:18:42.240Z</updated>
+    <updated>2024-10-02T04:17:08.442Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이제훈도 호평한 '룩백'…오시야마 키요타가 감독 내한]]></title>
+        <id>https://v.daum.net/v/20241002130838704</id>
+        <link href="https://v.daum.net/v/20241002130838704"/>
+        <updated>2024-10-02T04:16:51.642Z</updated>
+        <content type="html"><![CDATA[(서울=뉴스1) 장아름 기자 = 메가박스 단독 개봉 4주 만에 23만 관객을 돌파하며 입소문으로 호평을 받고 있는 '룩백'의 오시야마 키요타카 감독이 내한한다. 2일 '룩백' 측에 따르면 오시야마 키요타가 감독은 오는 10월 12일부터 13일까지 한국 관객들을 직접 만날 예정이다. '룩백'은 만화에 대한 열정 하나로 이어진 두 소녀의 아름다운 우정을 그]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“내가 이대로는 못 살겠소” 강동원, 왜 칼날 겨눴나]]></title>
+        <id>https://v.daum.net/v/20241002125035430</id>
+        <link href="https://v.daum.net/v/20241002125035430"/>
+        <updated>2024-10-02T04:16:51.643Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 박수인 기자] '전,란'이 메인 예고편을 공개했다. 제29회 부산국제영화제 개막작으로 선정되며 전 세계 시청자들의 기대를 모으고 있는 넷플릭스 영화 '전,란'은 왜란이 일어난 혼란의 시대, 함께 자란 조선 최고 무신 집안의 아들 ‘종려’(박정민)와 그의 몸종 ‘천영’(강동원)이 ‘선조’(차승원)의 최측근 무관과 의병으로 적이 되어 다시 만나는 이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[약속 지키려 이 정도까지? 목숨 건 두 남자]]></title>
         <id>https://v.daum.net/v/20241002120901642</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20241002103621621"/>
         <updated>2024-10-02T02:45:15.672Z</updated>
         <content type="html"><![CDATA[우빈이가 아침마다 떡국 먹는 모습을 생각하면 너무 귀엽지 않아요? 배우 김성균은 김우빈을 향한 애정을 아낌없이 드러냈다. 떡국을 자주 먹는 김우빈이 마냥 귀엽게 느껴진단다. 일상 속 두 사람의 친분은 작품 속 케미스트리로 고스란히 녹아들었다. 김성균은 최근 서울 종로구 삼청동 한 카페에서 넷플릭스 '무도실무관' 관련 인터뷰를 진행했다. '무도실무관'은]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[제45회 청룡영화상 11월 29일 개최]]></title>
-        <id>https://v.daum.net/v/20241002103400546</id>
-        <link href="https://v.daum.net/v/20241002103400546"/>
-        <updated>2024-10-02T02:45:15.674Z</updated>
-        <content type="html"><![CDATA[제45회 청룡영화상이 오는 11월 29일 개최를 확정했다.&nbsp; 대한민국 최고의 영화 축제, 제45회 청룡영화상 시삭식이 11월 29일 여의도 KBS홀에서 열린다.&nbsp; 1963년 국내 영화산업의 발전을 도모하고자 출범한 청룡영화상은 그 어느 시상식보다 공정하고 투명한 심사로 공신력을 인정받으며 대한민국 최고 영화상으로 자리매김했다. 청룡영화상은 올해도 한국]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박보영 “개막식 MC, 영광스러워요”]]></title>
-        <id>https://v.daum.net/v/20241002103009417</id>
-        <link href="https://v.daum.net/v/20241002103009417"/>
-        <updated>2024-10-02T02:45:15.678Z</updated>
-        <content type="html"><![CDATA[배우 박보영이 제29회 부산국제영화제 서막을 연다. 안재홍과 함께 개막식 사회를 맡으면서 영화제의 시작을 알린다. “이 큰 영화제의 사회자로서 잘 해낼 수 있을지 부담도 되지만, 영화를 사랑하는 한 사람으로 ‘영화 축제의 장’이니만큼 기쁘고 영광스러운 마음을 담아 잘 해낼 수 있다고 매일 다짐했어요. 신인 때 부산국제영화제 레드카펫을 밟는 게 하나의]]></content>
     </entry>
 </feed>
