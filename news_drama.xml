@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-10-03T02:46:32.167Z</updated>
+    <updated>2024-10-03T03:19:46.801Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['메소드 연기' 강찬희 "이동휘 선배의 팬, 열연에 배꼽 터지도록 웃어"]]></title>
+        <id>https://v.daum.net/v/20241003115001073</id>
+        <link href="https://v.daum.net/v/20241003115001073"/>
+        <updated>2024-10-03T03:19:33.769Z</updated>
+        <content type="html"><![CDATA[그룹 SF9 출신 강찬희가 영화 '메소드 연기'를 통해 악역에 도전했다.&nbsp; 3일 부산 해운대구 영화의 전당 야외무대에서 영화 '메소드 연기' 배우들의 무대인사가 진행됐다. 이날 행사에는 이기혁 감독, 배우 이동휘, 김금순, 윤경호, 윤병희, 강찬희가 참석했다.&nbsp; &nbsp; 강찬희는 "개인적으로 이동휘 선배의 팬이어서 영광이었다. 선배들이 잘 챙겨줘서 잘 촬영했다"]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['메소드 연기' 이동휘 "11년간 노하우 담은 코미디, 자서전 같은 작품"]]></title>
         <id>https://v.daum.net/v/20241003113902859</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20241003094942832"/>
         <updated>2024-10-03T01:02:01.184Z</updated>
         <content type="html"><![CDATA[아이즈 ize 이경호 기자'엄마친구아들'이 종영을 앞두고 있는 가운데, 주인공 정해인과 정소민이 마지막 인사와 마지막회 관전 포인트를 전했다.&nbsp; tvN 토일드라마 '엄마친구아들'이 종영까지 단 2회만을 남겨두고 있다.&nbsp; '엄마친구아들'은 유쾌하고 설레는 청춘 로맨스부터 따뜻하고 뭉클한 가족 스토리까지, 혜릉동 사람들의 삶과 일상은 평범해서 더 특별하게 다가]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['지옥에서 온 판사' 측 "내일 박신혜X김재영 관계 변화" 스포일러]]></title>
-        <id>https://v.daum.net/v/20241003093656646</id>
-        <link href="https://v.daum.net/v/20241003093656646"/>
-        <updated>2024-10-03T01:02:01.186Z</updated>
-        <content type="html"><![CDATA[[마이데일리 = 이승길 기자] '지옥에서 온 판사' 악마 박신혜가 병원에 간다. 김재영 때문일까. 지난 28일 방송된 SBS 금토드라마 '지옥에서 온 판사' 4회 엔딩이 안방극장을 발칵 뒤집었다. 인간쓰레기 죄인을 심판할 때 피도 눈물도 없는 악마 강빛나(박신혜)가 인간 한다온(김재영) 앞에서 심장이 쿵쾅쿵쾅 뛰는 것을 느끼더니 급기야 기절까지 한 것.]]></content>
     </entry>
 </feed>
