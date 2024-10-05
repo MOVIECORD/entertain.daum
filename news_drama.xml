@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-10-05T07:13:51.513Z</updated>
+    <updated>2024-10-05T08:16:49.887Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[티아라 지연·황재균, 결혼 2년 만 파경… "이혼조정신청서 제출"]]></title>
+        <id>https://v.daum.net/v/20241005161509470</id>
+        <link href="https://v.daum.net/v/20241005161509470"/>
+        <updated>2024-10-05T08:16:36.275Z</updated>
+        <content type="html"><![CDATA[지연과 황재균[이데일리 스타in 윤기백 기자] 그룹 티아라 지연과 프로야구 선수 황재균이 또 다시 이혼설에 휩싸였다. 5일 JTBC 보도에 따르면 두 사람은 지난달 서울가정법원에 이혼 조정신청서를 제출하고 이혼 절차를 밟고 있는 것으로 전해졌다. 앞서 두 사람의 이혼설은 한 해설위원이 KNN 라디오에서 “그거 알아? 황재균 이혼한거”라고 언급하면서 불거졌]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[금새록 걱정하는 최태준, 김정현 멱살 잡기 '대립']]></title>
         <id>https://v.daum.net/v/20241005160025266</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20241005135021000"/>
         <updated>2024-10-05T05:12:36.933Z</updated>
         <content type="html"><![CDATA[[OSEN=강서정 기자] 금새록을 두고 김정현과 최태준이 대립각을 세운다. 5일 방송되는 KBS 2TV 특별기획 주말드라마 ‘다리미 패밀리’(연출 성준해, 서용수, 극본 서숙향) 3회에서 서강주(김정현 분)는 청렴 세탁소 알바생 차태웅(최태준 분)에게 멱살을 잡힌다. 앞서 강주는 잊지 못할 하룻밤을 보낸 이다림(금새록 분)과 8년 만에 재회했다. 다림과]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘개소리’ 이순재→연우, 세대 통합 환상 케미..박성웅은 분위기 메이커]]></title>
-        <id>https://v.daum.net/v/20241005134441917</id>
-        <link href="https://v.daum.net/v/20241005134441917"/>
-        <updated>2024-10-05T05:12:36.934Z</updated>
-        <content type="html"><![CDATA[[OSEN=강서정 기자] 즐거운 분위기를 자랑하는 ‘개소리’ 촬영 현장이 공개됐다. 지난 2일과 3일 방송된 KBS 2TV 수목드라마 ‘개소리’(극본 변숙경, 연출 김유진) 3, 4회는 가슴을 졸이게 하는 새로운 사건과 물이 오르기 시작한 인물들의 케미스트리를 보여주며 안방극장을 사로잡았다. 특히 베테랑 배우들의 자연스러운 연기와 디테일이 살아 있는 장]]></content>
     </entry>
 </feed>
