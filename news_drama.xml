@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-10-05T02:43:44.849Z</updated>
+    <updated>2024-10-05T03:17:40.470Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[박신혜, 도끼 들었다 ‘역대급 사이다 폭발’]]></title>
+        <id>https://v.daum.net/v/20241005120750906</id>
+        <link href="https://v.daum.net/v/20241005120750906"/>
+        <updated>2024-10-05T03:17:24.327Z</updated>
+        <content type="html"><![CDATA[[동아닷컴]  ‘지옥에서 온 판사’ 박신혜가 역대급 사이다를 터뜨린다. 지난 4일 방송된 SBS 금토드라마 ‘지옥에서 온 판사’(극본 조이수/연출 박진표 조은지/제작 스튜디오S) 5회 엔딩이 숨이 멎을 듯 강력한 충격을 선사하며 안방극장을 발칵 뒤집었다. 줄곧 강빛나(박신혜 분)를 의심해 오던 한다온(김재영 분)이, 강빛나가 죄인을 처단하기 직전 그녀의]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“당신이 궁금해졌다” 박신혜, 김재영 말에 두근두근→기절]]></title>
         <id>https://v.daum.net/v/20241005113751566</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20241005095733498"/>
         <updated>2024-10-05T01:01:21.603Z</updated>
         <content type="html"><![CDATA[(엑스포츠뉴스 이창규 기자)&nbsp;‘엄마친구아들’ 정해인, 정소민이 혜릉동 공식 커플이 된다. tvN 토일드라마 ‘엄마친구아들’ 측은 15회 방송을 앞둔 5일, 최승효(정해인 분), 배석류(정소민) 커플의 비밀연애 발각 그 후 스틸컷을 공개했다. 위기 속에서 오히려 깊고 단단한 사랑을 재확인하는 두 사람의 모습이 본 방송을 더욱 기대케 한다. 지난 방송에서 최승]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘열애설 노코멘트’ 정해인♥︎정소민, 강제 공개연애 시작]]></title>
-        <id>https://v.daum.net/v/20241005094416355</id>
-        <link href="https://v.daum.net/v/20241005094416355"/>
-        <updated>2024-10-05T01:01:21.606Z</updated>
-        <content type="html"><![CDATA[[OSEN=강서정 기자] ‘엄마친구아들’&nbsp;정해인,&nbsp;정소민이 혜릉동 공식 커플이 된다. tvN&nbsp;토일드라마&nbsp;‘엄마친구아들’(연출 유제원,&nbsp;극본 신하은)&nbsp;측은&nbsp;15회 방송을 앞둔&nbsp;5일,&nbsp;최승효(정해인 분),&nbsp;배석류(정소민 분)&nbsp;커플의 비밀연애 발각 그 후 스틸컷을 공개했다.&nbsp;위기 속에서 오히려 깊고 단단한 사랑을 재확인하는 두 사람의 모습이 본 방송을 더욱]]></content>
     </entry>
 </feed>
