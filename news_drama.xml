@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-10-05T14:11:24.188Z</updated>
+    <updated>2024-10-05T15:13:17.134Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['지옥 판사' 김재영, 박신혜에 "반드시 잡을 것, 잡으면 절대 안 놓쳐" 경고]]></title>
+        <id>https://v.daum.net/v/20241006001201654</id>
+        <link href="https://v.daum.net/v/20241006001201654"/>
+        <updated>2024-10-05T15:13:01.602Z</updated>
+        <content type="html"><![CDATA[[SBS연예뉴스 | 김효정 에디터] 김재영이 박신혜를 비난했다. 4일 방송된 SBS 금토 드라마 '지옥에서 온 판사'(이하 '지옥 판사')에서는 강빛나가 한다온의 방해에도 양승빈을 처단했다. 이날 한다온은 또다시 사망한 범죄자를 보며 강빛나를 의심했다. 또한 강빛나를 막지 못한 것에 대해 자책했다. 그리고 이날 이아롱의 숨겨진 임무가 공개됐다. 그는 인간과]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[박신혜, 죄인 양경원 처단 성공..김재영 “반드시 잡을 것” 분노]]></title>
+        <id>https://v.daum.net/v/20241005231145179</id>
+        <link href="https://v.daum.net/v/20241005231145179"/>
+        <updated>2024-10-05T15:13:01.603Z</updated>
+        <content type="html"><![CDATA[[OSEN=박하영 기자] ‘지옥에서 온 판사’ 김재영이 결국 살인을 저지른 박신혜에 분노했다.&nbsp; 5일 방송된 SBS 금토드라마 ‘지옥에서 온 판사’(극본 조이수, 연출 박진표, 제작 스튜디오S)에서는 강빛나(박신혜 분)가 한다온(김재영 분)의 방해에도 죄인 양승빈(양경원 분) 심판에 성공하는 모습이 그려졌다. 이날 강빛나는 일가족 살해한 죄인 양승빈을]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[박신혜, '일가족 살인' 양경원에 도끼 들었다…조롱→직접 처단]]></title>
         <id>https://v.daum.net/v/20241005230521135</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20241005212940393"/>
         <updated>2024-10-05T13:17:29.442Z</updated>
         <content type="html"><![CDATA[(엑스포츠뉴스 이이진 기자) '엄마친구아들' 박지영이 정해인과 정소민의 연애를 반대했다. 5일 방송된 tvN 토일드라마 '엄마친구아들'(이하 '엄친아') 15회에서는 최승효(정해인 분)와 배석류(정소민)가 가족들에게 비밀 연애를 들킨 모습이 그려졌다. 이날 최경종(이승준), 서혜숙(장영남), 배근식(조한철), 나미숙(박지영)은 길에서 우연히 최승효와 배석류]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["너 불쌍해서"…'다리미 패밀리' 김정현, 시각장애 금새록에 막말]]></title>
-        <id>https://v.daum.net/v/20241005211631206</id>
-        <link href="https://v.daum.net/v/20241005211631206"/>
-        <updated>2024-10-05T12:23:41.802Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 이이진 기자) '다리미 패밀리' 김정현과 금새록이 8년 만에 재회했다. 5일 방송된 KBS 2TV '다리미 패밀리' 3회에서는 서강주(김정현 분)와 이다림(금새록)이 티격태격하는 모습이 그려졌다. 이날 서강주는 8년 전 이다림과 잠자리를 가진 뒤 연락하겠다고 한 약속을 지키지 않았고, 우연히 편의점에서 마주쳤다. 서강주는 이다림에게 전화를 걸]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["책임지라고 안 해" 금새록, 원나잇 후 8년 만에 재회한 김정현에 일침]]></title>
-        <id>https://v.daum.net/v/20241005211501187</id>
-        <link href="https://v.daum.net/v/20241005211501187"/>
-        <updated>2024-10-05T12:23:41.802Z</updated>
-        <content type="html"><![CDATA[[TV리포트=이혜미 기자] 금새록이 자신의 정체를 감추고자 안간힘을 쓴 김정현에 “촌스러운 놈”이라며 맹공을 퍼부었다. 5일 KBS 2TV ‘다리미 패밀리’에선 ‘반가워’ 한 마디면 충분했다며 8년 만에 재회하고도 자신의 정체를 감추려 한 강주(김정현 분)에 실망감을 표하는 다림(금새록 분)의 모습이 그려졌다. 이날 다림은 기존 지팡이를 부러트리고 새 지팡]]></content>
     </entry>
 </feed>
