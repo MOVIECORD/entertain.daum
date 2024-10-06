@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2024-10-06T09:13:50.939Z</updated>
+    <updated>2024-10-06T10:13:19.580Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[변우석·김혜윤은 없지만…"큰 사랑 준 팬들에게 트로피를" 감사 인사]]></title>
+        <id>https://v.daum.net/v/20241006190338705</id>
+        <link href="https://v.daum.net/v/20241006190338705"/>
+        <updated>2024-10-06T10:12:58.806Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 부산, 윤현지 기자) '2024 ACA' 피플스 초이스 상을 수상한 김혜윤, 변우석 대신 제작사 대표가 수상했다. 6일 오후 부산 해운대구 우동 영화의 전당 야외무대에서 배우 강기영과 티파니 영의 사회로 2024 아시아콘텐츠어워즈 &amp; 글로벌OTT어워즈 (Asia Contents Awards &amp; Global OTT Awards, ACA)가 진행]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[티파니 영 "부국제, 소녀시대로만 왔었는데 뜻 깊어"…강기영 "가문의 영광"]]></title>
+        <id>https://v.daum.net/v/20241006184600502</id>
+        <link href="https://v.daum.net/v/20241006184600502"/>
+        <updated>2024-10-06T10:12:58.808Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 부산, 윤현지 기자) '2024 ACA' MC 강기영과 티파니 영이 소감을 전했다. 6일 오후 부산 해운대구 우동 영화의 전당 야외무대에서 배우 강기영과 티파니 영의 사회로 2024 아시아콘텐츠어워즈 &amp; 글로벌OTT어워즈 (Asia Contents Awards &amp; Global OTT Awards, ACA)가 진행됐다.&nbsp; 2024 아시아콘텐츠어]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[사카구치 켄타로 심장이식 실화…‘이별, 그 뒤에도’ 감독 “현실에서 5cm 띄운 작품”]]></title>
         <id>https://v.daum.net/v/20241006180322821</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20241006140103224"/>
         <updated>2024-10-06T05:13:05.120Z</updated>
         <content type="html"><![CDATA[지난 2일 개막해 11일까지 열리는 제29회 부산국제영화제(이하 부국제)가 굵직한 행사들을 치워내며 어느덧 중반을 향해가고 있다. 총 278편의 영화를 총 5개 극장, 26개 상영관에서 만날 수 있는 이번 부국제는 코로나 이후 완전히 정상화된 오프라인 행사와 연휴로 인한 내국인 영화팬들의 관심, 부쩍 늘어난 외국인 관광객으로 축제의 현장이라는 게 체감되는]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['전지적 독자 시점' 포스터에 들썩…온라인 달군 ACFM]]></title>
-        <id>https://v.daum.net/v/20241006133006769</id>
-        <link href="https://v.daum.net/v/20241006133006769"/>
-        <updated>2024-10-06T05:13:05.122Z</updated>
-        <content type="html"><![CDATA[[마이데일리 = 부산 강다윤 기자] 제8612 행성계의 무료 서비스 종료가 다가온 것일까. 영화 '전지적 독자 시점'(이하 '전독시')의 첫 포스터가 베일을 벗었다. 5일 부산 해운대구 벡스코 제2전시장에서 제29회 부산국제영화제(BIFF) 아시아콘텐츠&amp;필름마켓(Asian Contents &amp; Film Market, 이하 ACFM)이 개막했다. 아시아 콘텐]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[주현영 "'SNL' 하차, 아빠가 속상해 해..이제 믿어주신다"]]></title>
-        <id>https://v.daum.net/v/20241006132709721</id>
-        <link href="https://v.daum.net/v/20241006132709721"/>
-        <updated>2024-10-06T05:13:05.124Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 | 부산=김미화 기자] 배우 주현영 /사진=AIMC 배우 주현영을 만났다. 만나면 소란스럽게 인사한 뒤 쉬지 않고 수다를 떨 것 같은 이미지의 주현영이었는데, 수줍어 하는 모습으로 나타나 조곤조곤 자신의 이야기를 전하며 반전 매력을 드러냈다. 영화 '괴기열차'로 부산국제영화제에 참석한 배우 주현영.지난 2019년 단편영화로 부산을 찾은데 이]]></content>
     </entry>
 </feed>
