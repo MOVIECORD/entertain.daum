@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2024-10-06T12:23:11.419Z</updated>
+    <updated>2024-10-06T13:17:52.365Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['여우조연상' 염혜란 "故 박지아, 하늘에서 편히 쉬길" 수상 소감]]></title>
+        <id>https://v.daum.net/v/20241006221124711</id>
+        <link href="https://v.daum.net/v/20241006221124711"/>
+        <updated>2024-10-06T13:17:35.631Z</updated>
+        <content type="html"><![CDATA[[티브이데일리 김지현 기자]배우 염혜란이 2024 아시아콘텐츠어워즈 &amp; 글로벌OTT어워즈에서 조연상을 수상했다. 염혜란은 6일 부산 해운대구 영화의전당 야외극장에서 진행된 2024 아시아콘텐츠어워즈 &amp; 글로벌OTT어워즈에서 여자 조연 배우상을 수상했다. 넷플릭스 ‘마스크걸’로 트로피를 품에 안은 염혜란은 “‘마스크걸’로 벌써 네 번째 수상”이라며 “배우가]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["피플스 초이스=변우석&김혜윤"…아시아콘텐츠어워즈&글로벌OTT어워즈 성료]]></title>
         <id>https://v.daum.net/v/20241006210854054</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20241006161914147"/>
         <updated>2024-10-06T08:16:08.200Z</updated>
         <content type="html"><![CDATA[[티브이데일리 김지현 기자] 영화 '베테랑2'(감독 류승완)이 10월 6일 일요일  700만 고지를 점령한다. 6일 영화진흥위원회 영화관입장권 통합 전산망에 따르면 '베테랑2'는 지난 5일 하루 8만 7724명의 관객을 동원, 박스오피스 1위를 차지했다. 누적관객수는 692만 5969명이다. 지난달 13일 개봉한 '베테랑2'는 나쁜 놈은 끝까지 잡는 베테랑]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['사랑의 불시착' 이신영, '전력질주'로 또 한번의 변신.."글로벌 라이징스타"]]></title>
-        <id>https://v.daum.net/v/20241006160832882</id>
-        <link href="https://v.daum.net/v/20241006160832882"/>
-        <updated>2024-10-06T07:13:08.227Z</updated>
-        <content type="html"><![CDATA[[OSEN=최이정 기자]&nbsp;부산국제영화제에서 배우 이신영이 주연을 맡은 영화 ‘전력질주’(감독 이승훈, 영어제목: Run To You)에 대한 관심이 집중되고 있다.&nbsp; 미국 로스앤젤레스에 본사를 둔 미리어드 픽쳐스(Myriad Pictures, 대표 커크 다미코)는 이번 영화의 국내를 제외한 해외 판권을 확보하고, 부산국제영화제 기간 중 아시안 콘텐츠 앤]]></content>
     </entry>
 </feed>
