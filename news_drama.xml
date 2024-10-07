@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-10-07T22:13:19.388Z</updated>
+    <updated>2024-10-07T23:13:03.394Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[128회 악녀로 산 김별.."'수지 맞은 우리' 함은정에 미안"]]></title>
+        <id>https://v.daum.net/v/20241008081029009</id>
+        <link href="https://v.daum.net/v/20241008081029009"/>
+        <updated>2024-10-07T23:12:49.250Z</updated>
+        <content type="html"><![CDATA[[OSEN=박소영 기자] 배우 강별이&nbsp;‘수지맞은 우리’에서 폭넓은 연기 스펙트럼을 입증하며 유종의 미를 거뒀다. 강별은 지난&nbsp;4일 종영한&nbsp;KBS 1TV&nbsp;일일드라마&nbsp;'수지맞은 우리'에서 나영 역으로 열연을 펼쳤다. 강별이 맡은 나영은 이복 언니 수지(함은정 분)에 대한 시기와 질투로 호시탐탐 기회를 노리며 악행을 서슴지 않던 야망캐로 극 중 수지를 비롯한]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['고딩엄빠' 각각 출연한 윤민채·곽수현, 부부됐다…서장훈 "헤어지지마"]]></title>
+        <id>https://v.daum.net/v/20241008073033370</id>
+        <link href="https://v.daum.net/v/20241008073033370"/>
+        <updated>2024-10-07T23:12:49.251Z</updated>
+        <content type="html"><![CDATA[[이데일리 스타in 김가영 기자] MBN ‘고딩엄빠’ 사상 최초로 출연진들의 ‘결혼’ 소식을 전해 화제를 모은 윤민채 곽수현이 재출연, “혼인신고를 마쳤다”고 밝힌다. 9일 방송하는 MBN ‘어른들은 모르는 고딩엄빠5(이하 ‘고딩엄빠5’)’ 17회에서는 ‘고딩엄빠’ 시즌1 출연자인 ‘시하 아빠’ 곽수현과, 시즌1의 또 다른 출연자인 ‘성현 엄마’ 윤민채가]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[12월 26일 공개 ‘오징어게임2’ “다시 게임에 참여할 시간입니다”]]></title>
         <id>https://v.daum.net/v/20241008071135192</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20241008070003951"/>
         <updated>2024-10-07T22:13:03.798Z</updated>
         <content type="html"><![CDATA[[뉴스엔 이해정 기자] (인터뷰①에 이어) 배우 고준이 최고의 브로맨스를 보여준 파트너 변요한을 언급했다. 10월 7일 서울 종로구 삼청동 모처에서 진행된 MBC 금토드라마 '백설공주에게 죽음을-Black Out'(극본 서주연/연출 변영주)(이하 '백설공주') 종영 인터뷰에서 고준은 "현재도 출연진 단체 대화방이 활발하다. 누군가 나서서 모이자고 하면]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박나래, 성희롱 논란 언급 "간과한 부분 있었다…자체 검열로 고민 생겨"]]></title>
-        <id>https://v.daum.net/v/20241008063005515</id>
-        <link href="https://v.daum.net/v/20241008063005515"/>
-        <updated>2024-10-07T22:13:03.801Z</updated>
-        <content type="html"><![CDATA[[이데일리 스타in 김가영 기자] 개그우먼 박나래가 성희롱 논란을 언급했다. 6일 유튜브 채널 ‘요정재형’에서는 박나래가 게스트로 출연했다. 이날 정재형은 “너의 일대기를 보니까 사랑에 빠질 것 같더라. 입시 준비하듯이 그 단계를 너무 잘 온 것 같다는 생각이 들었다”고 말했다. 박나래는 “2006년에 KBS 데뷔를 했다. 큰 꿈을 안고 왔는데 생각보다]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[90분 확대 편성까지…‘이친자’ 한석규, MBC 히트작 만드나]]></title>
-        <id>https://v.daum.net/v/20241008061004307</id>
-        <link href="https://v.daum.net/v/20241008061004307"/>
-        <updated>2024-10-07T21:13:07.365Z</updated>
-        <content type="html"><![CDATA[배우 한석규가 딜레마에 빠진 경찰로 돌아온다. 살인사건에 휘말린 딸을 의심하는 아빠의 복잡한 감정을 특유의 진중하고 묵직한 연기로 그려낼 예정이다. 한석규는 오는 11일 첫 방송하는 MBC 새 금토드라마 ‘이토록 친밀한 배신자’(이하 ‘이친자’)로 안방극장에 컴백한다. ‘이친자’는 최고의 프로파일러가 수사 중인 살인사건에 얽힌 딸의 비밀과 마주하고, 처]]></content>
     </entry>
 </feed>
