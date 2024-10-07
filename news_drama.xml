@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-10-07T13:22:26.520Z</updated>
+    <updated>2024-10-07T14:13:33.910Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김태리 “정년이, ‘아가씨’ 숙희 모티브…싱크로율 높다 느껴”]]></title>
+        <id>https://v.daum.net/v/20241007224454170</id>
+        <link href="https://v.daum.net/v/20241007224454170"/>
+        <updated>2024-10-07T14:13:18.514Z</updated>
+        <content type="html"><![CDATA[배우 김태리가 드라마 ‘정년이’에서 연기하는 캐릭터와 높은 싱크로율을 자신했다. 7일 tvN에서는 오는 12일 첫 방송되는 새 토일드라마 ‘정년이’의 제작 비하인드를 담은 ‘정년이: 최종 리허설’이 방영됐다. 방송에서 김태리는 작품에 대해 “‘정년이’는 감자가 사람이 되는 이야기”라며 “우선 저는 원작 웹툰을 보면서 여성국극이라는 장르에 대해 처음]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘느그동재’ 이준혁 빼다 박은 현봉식, 감독도 인정한 ‘꿀잼캐’]]></title>
         <id>https://v.daum.net/v/20241007214829436</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20241007190212452"/>
         <updated>2024-10-07T10:15:28.883Z</updated>
         <content type="html"><![CDATA[[이데일리 스타in 김가영 기자] ‘경성크리처’ 시즌2로 성공적인 배우 데뷔를 알린 김강민이 에이스팩토리와 전속계약을 체결했다. 김강민과 전속계약을 체결한 에이스팩토리는 “김강민을 새 식구로 맞이하게 되어 진심으로 기쁘다. 독보적인 피지컬을 기반으로 배우로서의 역량과 재능을 새롭게 선보일 김강민과 높은 시너지를 창출할 수 있도록 연기 활동에 전폭적인 지원]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[정해인, ‘엄친아’ OST ‘꺼내지 못한 말’ 가창...“듣자마자 좋았다”]]></title>
-        <id>https://v.daum.net/v/20241007190001390</id>
-        <link href="https://v.daum.net/v/20241007190001390"/>
-        <updated>2024-10-07T10:15:28.883Z</updated>
-        <content type="html"><![CDATA[tvN ‘엄마친구아들’이 인기리에 종영한 가운데 멜론이 아쉬움을 달래줄 OST 관련 콘텐츠를 선보인다. 카카오엔터테인먼트의 뮤직플랫폼 멜론(Melon)은 tvN 토일드라마 ‘엄마친구아들’(연출 유제원, 극본 신하은, 제작 스튜디오드래곤∙더모도리)의 정해인 가창 OST가 발표된 가운데 이를 포함한 전체 OST 관련 다양한 콘텐츠 및 이벤트를 지난 5일 단독]]></content>
     </entry>
 </feed>
