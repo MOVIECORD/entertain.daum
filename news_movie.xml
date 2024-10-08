@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2024-10-08T22:13:43.627Z</updated>
+    <updated>2024-10-08T23:14:13.307Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['악마의 변호사' 삼키고 괴물이 된 트럼프…영화 '어프렌티스']]></title>
+        <id>https://v.daum.net/v/20241009075138803</id>
+        <link href="https://v.daum.net/v/20241009075138803"/>
+        <updated>2024-10-08T23:13:52.159Z</updated>
+        <content type="html"><![CDATA[(서울=연합뉴스) 오보람 기자 = 세계 최고 권위의 영화제로 꼽히는 칸국제영화제의 올해 경쟁 부문 초청작 가운데 가장 눈에 띈 작품은 단연 '어프렌티스'(The Apprentice·수습생)였다. 칸이 총애하는 이란 출신 덴마크 감독 알리 아바시의 신작이기 때문만은 아니다. 이 영화가 미국 전 대통령이자 현 대선 후보인 도널드 트럼프의 젊은 시절을 그린 작품]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[수현 "이혼, 물 흘러가는 대로…올해는 성장이 키워드였죠"]]></title>
         <id>https://v.daum.net/v/20241009070147363</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20241008183601380"/>
         <updated>2024-10-08T10:14:12.658Z</updated>
         <content type="html"><![CDATA[‘세상 참 예쁜 오드리’ 김정난이 알츠하이머를 연기한 소감을 밝혔다. 8일 서울 CGV 용산아이파크몰에서 영화 ‘세상 참 예쁜 오드리’ 시사회 및 간담회가 열렸다. 이영국 감독과 배우 김정난 박지훈 김보영 김기두 김이영이 참석했다. 김정난은 “알츠하이머 연기 어려웠다. 30년을 연기했지만, 한 번도 제가 접근해 보지 못한 역할이었다. 배우로서 부담스러운 게]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[윤서빈, 스포츠 영화 '전력질주' 캐스팅 확정… 데뷔 첫 장편영화]]></title>
-        <id>https://v.daum.net/v/20241008182130012</id>
-        <link href="https://v.daum.net/v/20241008182130012"/>
-        <updated>2024-10-08T10:14:12.658Z</updated>
-        <content type="html"><![CDATA[[일간스포츠 김은구 기자] 배우 윤서빈이 영화 ‘전력질주’(감독 이승훈, 영어제목 ‘Run To You’)에 캐스팅됐다고 소속사 앤드벗 컴퍼니가 8일 밝혔다. ‘전력질주’는 전성기의 끝자락, 마지막 불꽃을 태우는 스프린터 구영의 질주 이야기를 담은 스포츠 영화다. 데뷔 첫 장편영화로 ‘전력질주’에 합류하게 된 윤서빈은 극중 성인 무대에 도전장을 내민 고]]></content>
     </entry>
 </feed>
