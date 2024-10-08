@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/variety</id>
     <title>다음 연예 ─ 뉴스 ─ 예능</title>
-    <updated>2024-10-08T18:18:31.575Z</updated>
+    <updated>2024-10-08T19:10:27.109Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[한예슬, ♥연하 남편과 새벽 골프장行에 신세 한탄 "마지못해 끌려온 불쌍한 짐승"]]></title>
+        <id>https://v.daum.net/v/20241009041002659</id>
+        <link href="https://v.daum.net/v/20241009041002659"/>
+        <updated>2024-10-08T19:10:16.572Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 김유진 기자) 배우 한예슬이 남편과 함께 보내는 일상을 공유했다. 8일 한예슬의 유튜브 채널 '한예슬is'에는 '쉬는 날 뭐하냐고? 나 이러고 살아'라는 제목의 영상이 게재됐다. 공개된 영상에서 한예슬은 "새벽부터 남편과 골프 치러 가고 있다. 화장은 차에서 하려고 한다"며 인사했다. 식당에서 국밥으로 배를 채운 뒤 골프장으로 향한 한예슬은]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[우지원 "전처와 2년 별거 후 이혼.. 경찰 출동한 사건 때문 아냐"]]></title>
         <id>https://v.daum.net/v/20241009005531141</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20241008234811488"/>
         <updated>2024-10-08T15:14:19.886Z</updated>
         <content type="html"><![CDATA[[OSEN=박근희 기자] '정글밥’ 류수영이 레촌의 맛에 감탄했다. 8일 방송되는 SBS ‘정글밥’에서는에서는 팔로완 제도에서 시간을 보내는 이승윤, 유이, 김경남의 이야기가 이어졌다. 정글밥 멤버들은 시장을 가기 위해 지프니를 타고 이동했다. 멤버들은 시장에 가서 먹어봐야 요리를 할 수 있다고 말하기도. 다양한 먹거리가 가득한 코론시장이 눈길을 사로잡]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[우지원, ‘선풍기 폭력 사건’ 내막 언급 “이혼의 직접적인 원인은 아니야”]]></title>
-        <id>https://v.daum.net/v/20241008234801482</id>
-        <link href="https://v.daum.net/v/20241008234801482"/>
-        <updated>2024-10-08T15:14:19.890Z</updated>
-        <content type="html"><![CDATA[전 농구선수 우지원이 이혼 사유를 고백했다. 8일 오후 방송된 TV조선 ‘이제 혼자다’에서는 우지원이 새로 합류했다. 이날 우지원은 ‘선풍기 폭력 사건’에 대해 “이미 꽤 지난 일이다. 하루는 퇴근 후 당시 아내의 권유로 술을 마시기 시작했다. 원래 계획은 가볍게 마시는 것이었지만 부부 사이에선 가끔 평소엔 하지 못했던 이야기들을 나누기도 한다”라고 말했다]]></content>
     </entry>
 </feed>
