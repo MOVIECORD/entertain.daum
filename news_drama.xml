@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-10-10T12:25:45.072Z</updated>
+    <updated>2024-10-10T13:22:20.448Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[老배우 기싸움 터졌다…김용건vs손병호 팽팽]]></title>
+        <id>https://v.daum.net/v/20241010221454521</id>
+        <link href="https://v.daum.net/v/20241010221454521"/>
+        <updated>2024-10-10T13:22:04.639Z</updated>
+        <content type="html"><![CDATA[[OSEN=장우영 기자] 배우 손병호가 ‘개소리’에 깜짝 등장해 흥미로운 에피소드를 탄생시킨다. 10일 밤 9시 50분 방송되는 KBS2 수목드라마 ‘개소리’(극본 변숙경, 연출 김유진, 제작 아이엠티브이) 6회에서는 끔찍한 사건에 연루되어 저마다 추리력을 발휘하는 ‘시니어벤져스’의 활약이 펼쳐질 예정이다. 은퇴한 경찰견 소피와 이순재를 중심으로 김용건]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[윤지온 "정해인과 헬스 하면서 친해져…근육 자랑? 아직"]]></title>
         <id>https://v.daum.net/v/20241010211728485</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20241010175349183"/>
         <updated>2024-10-10T09:14:49.128Z</updated>
         <content type="html"><![CDATA[[이데일리 스타in 김가영 기자] 흑백셰프들과 형님들의 특급 만남이 성사된다. 올가을을 뜨겁게 달군 예능 프로그램 ‘흑백요리사: 요리 계급 전쟁’(이하 ‘흑백요리사’)의 셰프 4인 정지선, 파브리, 철가방 요리사(임태훈), 요리하는 돌아이(윤남노)가 JTBC ‘아는 형님’ 출연을 확정했다. ‘흑백요리사’는 재야의 고수 ‘흑수저’ 셰프들이 대한민국 최고 스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘다리미 패밀리’→‘조립식 가족’ 김혜은, 노련함 통했다…두 얼굴 활약]]></title>
-        <id>https://v.daum.net/v/20241010175057095</id>
-        <link href="https://v.daum.net/v/20241010175057095"/>
-        <updated>2024-10-10T09:14:49.129Z</updated>
-        <content type="html"><![CDATA[[이데일리 스타in 김가영 기자] 배우 김혜은이 KBS2 새 주말드라마 ‘다리미 패밀리’(연출 성준해 서용수, 극본 서숙향)에 이어 JTBC 새 수요드라마 ‘조립식 가족’(극본 홍시영/연출 김승호/제작 하이지음스튜디오, 베이스스토리, SLL)에서 180도 다른 연기를 선보이며 한 주를 풍성하게 채우고 있다. 김혜은은 ‘다리미 패밀리’에서 부족함 없이 살아]]></content>
     </entry>
 </feed>
