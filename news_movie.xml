@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2024-10-12T13:17:26.987Z</updated>
+    <updated>2024-10-12T14:11:43.706Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[공명, ‘부국제’ 폐막식 MC 활약…‘내죽일’ GV 전 회차 매진]]></title>
+        <id>https://v.daum.net/v/20241012222715241</id>
+        <link href="https://v.daum.net/v/20241012222715241"/>
+        <updated>2024-10-12T14:11:23.543Z</updated>
+        <content type="html"><![CDATA[배우 공명이 ‘부국제’ 마지막 밤을 장식했다. 지난 10월 2일부터 11일까지 열흘간 진행된 제29회 '부산국제영화제(BIFF, 이하 '부국제')'가 성황리에 막을 내렸다. 올해로 29회를 맞이한 부국제는 우리나라 최초의 국제영화제에서, 최대의 국제영화제로 성장하며 세계 영화인들의 축제의 장으로 자리매김하고 있다. 이 가운데, 공명이 ‘부국제’ 폐막식]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이정재→고소영, '보통의 가족' 셀럽들의 이유 있는 호평]]></title>
         <id>https://v.daum.net/v/20241012215701970</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20241012123133958"/>
         <updated>2024-10-12T04:15:55.210Z</updated>
         <content type="html"><![CDATA[[OSEN=하수정 기자] 시사회 이후 실관람객들의 만장일치 호평을 이끌어내고 있는 영화 '보통의 가족'(감독 허진호, 제공배급 (주)하이브미디어코프·(주)마인드마크, 제작 (주)하이브미디어코프, 공동제작: (주)하이그라운드)이 10월 16일 개봉을 앞두고, GV를 성황리에 마치며 개봉 기대감을 높였다. 각자의 신념을 가지고 살아가던 네 사람이 아이들의]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[송중기, '아스달 연대기' 장동건과 의리로 '보통의 가족' GV 참석]]></title>
-        <id>https://v.daum.net/v/20241012122125895</id>
-        <link href="https://v.daum.net/v/20241012122125895"/>
-        <updated>2024-10-12T04:15:55.210Z</updated>
-        <content type="html"><![CDATA[[OSEN=하수정 기자] 웰메이드 서스펜스의 정수를 보여주며 극찬을 받고 있는 영화 '보통의 가족'(감독 허진호, 제공배급 (주)하이브미디어코프·(주)마인드마크, 제작 (주)하이브미디어코프, 공동제작: (주)하이그라운드)이 10월 18일 오후 7시 30분 롯데시네마 월드타워에서 ‘송중기 GV’ 진행을 확정했다.&nbsp; 각자의 신념을 가지고 살아가던 네 사람이]]></content>
     </entry>
 </feed>
