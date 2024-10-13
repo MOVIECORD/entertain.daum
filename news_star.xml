@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2024-10-13T17:11:21.103Z</updated>
+    <updated>2024-10-13T18:16:51.846Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[치열한 주말드라마 경쟁… ‘지옥 판사’ 누가 꺾을까]]></title>
+        <id>https://v.daum.net/v/20241014023418893</id>
+        <link href="https://v.daum.net/v/20241014023418893"/>
+        <updated>2024-10-13T18:16:46.646Z</updated>
+        <content type="html"><![CDATA[각 방송국의 기대작들이 일제히 전파를 타면서 주말드라마 왕좌를 둔 각축전이 시작됐다. 금토드라마 시청률을 꽉 잡고 있는 SBS ‘지옥에서 온 판사’(지옥 판사)가 끝까지 선두를 유지할지, 입소문에 힘입어 시청률 우상향 곡선을 그린 새 드라마가 그 자리를 차지할지 관심이 모인다. 13일 방송가에 따르면 지난 주말 MBC ‘이토록 친밀한 배신자’(이친자),]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[승한, 라이즈 탈퇴 심경 "멤버들과 회사에 피해, 심각성 인지"]]></title>
         <id>https://v.daum.net/v/20241014021111885</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20241014001121446"/>
         <updated>2024-10-13T15:13:38.608Z</updated>
         <content type="html"><![CDATA[[OSEN=유수연 기자]&nbsp;그룹 라이즈 승한이 사생활 논란 1년여 만에 팀에 복귀했으나, 팬덤의 거센 비판 여론에 결국 '탈퇴'를 택했다. 앞서 승한은 지난해 11월,&nbsp;온라인 커뮤니티 등을 통해 데뷔 전 사진과 영상 등이&nbsp;유출돼 논란이 일었다.&nbsp;이에 팬들은 그의 탈퇴를 요구하는 시위를 벌이기도 했다.&nbsp; 논란이 불거지자&nbsp;당시 승한은 “과거 제 경솔한 행동이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[팬 반대에 복귀 무산…라이즈 승한, 결국 팀 탈퇴 "상처드려 죄송"]]></title>
-        <id>https://v.daum.net/v/20241014000809420</id>
-        <link href="https://v.daum.net/v/20241014000809420"/>
-        <updated>2024-10-13T15:13:38.609Z</updated>
-        <content type="html"><![CDATA[(서울=뉴스1) 김민지 기자 = 보이그룹 라이즈 멤버 승한이 팬들의 반발에 부딪혀 결국 팀을 탈퇴했다. 팀 복귀를 선언한 지 이틀 만이다. 13일 라이즈를 프로듀싱하는 SM엔터테인먼트의 위저드 프로덕션(이하 위저드) 측은 라이즈 공식 SNS에 멤버 승한 탈퇴와 관련한 공지글을 올렸다. 위저드는 "지난 11일 말씀드린 승한의 복귀 발표로 인해, 브리즈 여]]></content>
     </entry>
 </feed>
