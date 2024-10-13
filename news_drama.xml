@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-10-13T07:12:37.981Z</updated>
+    <updated>2024-10-13T08:16:51.520Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[장례식장 간 김영옥·박인환, 돈 무덤 발견 후 깜짝…'심장 철렁']]></title>
+        <id>https://v.daum.net/v/20241013165519151</id>
+        <link href="https://v.daum.net/v/20241013165519151"/>
+        <updated>2024-10-13T08:16:36.903Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 김유진 기자) '다리미 패밀리' 김영옥과 박인환이 돈 무덤에 이어 심장 철렁할 광경을 목격한다. 13일 방송되는 KBS 2TV 주말드라마 '다리미 패밀리' 6회에서는 장례식장에 간 안길례(김영옥 분)와 이만득(박인환)이 예상치도 못했던 인물을 맞닥뜨린다. 지난 방송에서 길례와 만득은 산에서 고사리를 캐다 길을 잃어 우연히 돈다발이 들어있는 가]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[박지영, 딸 수술비 8억 없어 서럽네…“포기할 줄도 알아야” 갈등]]></title>
+        <id>https://v.daum.net/v/20241013161314223</id>
+        <link href="https://v.daum.net/v/20241013161314223"/>
+        <updated>2024-10-13T08:16:36.907Z</updated>
+        <content type="html"><![CDATA[[동아닷컴] 사진 제공: KBS 2TV 특별기획 주말드라마 〈다리미 패밀리〉 방송 캡처청렴 세탁소 가족 사이에 갈등이 고조됐다. 지난 12일 KBS2 특별기획 주말드라마 ‘다리미 패밀리’(연출 성준해, 서용수 / 극본 서숙향) 5회에서 이다림(금새록 분)은 자신의 수술비를 놓고 고봉희(박지영 분)와 다툰 이무림(김현준 분), 이차림(양혜지 분)으로 인해]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김태리, 매란 국극단 입단 오디션…단장 라미란 앞 '호랑이 심사']]></title>
         <id>https://v.daum.net/v/20241013160638072</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20241013140327724"/>
         <updated>2024-10-13T05:14:28.430Z</updated>
         <content type="html"><![CDATA[[OSEN=박소영 기자] ‘지옥에서 온 판사’ 김아영이 시청자들의 도파민을 폭발시켰다. SBS 금토드라마 ‘지옥에서 온 판사’가 8화 전국 시청률 13.6%, 수도권 13.7%(닐슨코리아 기준)를 기록하며 또 한 번 자체 최고 시청률을 경신, 금토극의 왕좌를 굳건히 지키고 있다. 드라마의 재미를 수직상승 시킨 김아영에게도 관심이 열렬하다. 그는 악마지만]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박재찬, 코리아 드라마 어워즈 핫아이콘상 “영광스럽다”]]></title>
-        <id>https://v.daum.net/v/20241013135933629</id>
-        <link href="https://v.daum.net/v/20241013135933629"/>
-        <updated>2024-10-13T05:14:28.443Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 배효주 기자] 박재찬이 '2024 코리아 드라마 어워즈'에서 수상의 기쁨을 안았다. 박재찬은 지난 12일 경상남도 진주시 경남문화예술회관 대공연장에서 개최된 '2024 코리아 드라마 어워즈'에서 핫아이콘상을 수상했다. 핫아이콘상은 전 세계에 한류를 알리며 차세대 아이콘으로 떠오른 배우에게 수여되는 상이다. 이날 박재찬은 무대에 올라 "팬분들 덕분]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘이토록 친밀한 배신자’ 한석규 “믿고 싶어!”..채원빈 “아니면서!”]]></title>
-        <id>https://v.daum.net/v/20241013135823616</id>
-        <link href="https://v.daum.net/v/20241013135823616"/>
-        <updated>2024-10-13T05:14:28.443Z</updated>
-        <content type="html"><![CDATA[[OSEN=김재동 객원기자]&nbsp;“아빠가 프로파일러라서 좋은 점도 있어. 거짓말을 잘하게 돼!” MBC 금토드라마 '이토록 친밀한 배신자'(극본 한아영 연출 송연화)의 장하빈(채원빈 분)이 3회 예고에서 한 말이다. 연주경찰서 범죄행동분석팀장 장태수(한석규 분) 경감은 최근 불신 지옥에 빠져버렸다. 대화산에서 발생한 시체 없는 살인사건에 이제 고 2된 열]]></content>
     </entry>
 </feed>
