@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-10-13T02:51:21.601Z</updated>
+    <updated>2024-10-13T03:21:33.921Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[고애신 지운 정년이..'첫방' 김태리, 타고난 천재 입증]]></title>
+        <id>https://v.daum.net/v/20241013115720793</id>
+        <link href="https://v.daum.net/v/20241013115720793"/>
+        <updated>2024-10-13T03:21:18.280Z</updated>
+        <content type="html"><![CDATA[[OSEN=박소영 기자] tvN&nbsp;토일드라마&nbsp;‘정년이’가 김태리의 눈부신 활약과 함께 뜨거운 화제를 모았다. 첫 방송부터 호평을 자아낸&nbsp;tvN&nbsp;토일드라마&nbsp;‘정년이’는&nbsp;1950년대 한국전쟁 후를 배경으로,&nbsp;최고의 국극 배우에 도전하는&nbsp;'타고난 소리 천재'&nbsp;정년이를 둘러싼 경쟁과 연대,&nbsp;그리고 찬란한 성장기를 그린 작품이다.&nbsp;극중 김태리는 소리 하나만큼은 타]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['이친자' 한석규가 곧 장르…한석규, 딸 채원빈 거짓말에 살인 의심]]></title>
         <id>https://v.daum.net/v/20241013114222594</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20241013095405684"/>
         <updated>2024-10-13T01:06:21.217Z</updated>
         <content type="html"><![CDATA[[뉴스엔 배효주 기자] '대도시의 사랑법' 박상영 작가가 "모 단체로부터 좌표를 찍혔다"며 드라마 예고편이 비공개된 것에 대해 분통을 터뜨렸다. 이에 '대도시의 사랑법' 측은 "예고편이 내려간 것은 재심의 때문"이라면서도 "단체로부터 항의를 받은 것도 사실"이라고 밝혔다. 드라마 '대도시의 사랑법' 원작 소설을 쓴 박상영 작가는 10월 12일 자신의 소셜]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['만화 찢고' 나온 김태리, 국극 입성…최고 5.9%]]></title>
-        <id>https://v.daum.net/v/20241013094536583</id>
-        <link href="https://v.daum.net/v/20241013094536583"/>
-        <updated>2024-10-13T01:06:21.218Z</updated>
-        <content type="html"><![CDATA[[스포츠한국 이유민 기자]&nbsp;배우 김태리가 주연을 맡은 tvN 새 토일드라마 '정년이'가 첫 방송부터 시청자들의 이목을 집중시켰다. 지난 12일 방송된 '정년이' 1화는 타고난 소리꾼의 자질을 지닌 주인공 윤정년(김태리)이 운명적인 사건을 계기로 국극의 세계에 발을 들이는 이야기를 중심으로 흥미진진하게 전개됐다. 닐슨코리아에 따르면, '정년이' 1]]></content>
     </entry>
 </feed>
