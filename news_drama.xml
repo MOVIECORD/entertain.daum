@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-10-15T09:15:07.061Z</updated>
+    <updated>2024-10-15T10:16:17.621Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['돌싱글즈6', 드디어 직업·나이 정보공개…의사 등장? "사람 살리는 직업"]]></title>
+        <id>https://v.daum.net/v/20241015190243907</id>
+        <link href="https://v.daum.net/v/20241015190243907"/>
+        <updated>2024-10-15T10:16:02.834Z</updated>
+        <content type="html"><![CDATA[[이데일리 스타in 김가영 기자] MBN ‘돌싱글즈6’의 돌싱남녀 10인이 ‘돌싱 하우스’ 입소 3일 차 밤 , 정보공개로 인해 또 한 번 충격에 휩싸인다. 17일 방송하는 MBN ‘돌싱글즈6’ 6회에서는 ‘비밀도장 데이트’를 모두 마치고 모인 돌싱남녀 10인 미영-방글-보민-성서-시영-정명-지안-진영-창현-희영이 각자의 나이와 직업을 오픈하는 ‘정보공개]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[조나단X파트리샤, 유병재와 한솥밥…블랙페이퍼와 전속계약]]></title>
         <id>https://v.daum.net/v/20241015181125505</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20241015164654071"/>
         <updated>2024-10-15T08:18:39.771Z</updated>
         <content type="html"><![CDATA[(사진=SBS)[이데일리 스타in 최희재 기자] ‘틈만 나면,’이 프로야구 경기 여파로 첫 방송을 연기했다. SBS는 15일 “‘틈만 나면,’이 불가피하게 첫 방송을 일주일 연기하게 됐다”고 밝혔다. 이어 “지난 14일 대구 라이온즈파크에서 예정된 2024 KBO(한국야구위원회)리그 포스트시즌 플레이오프 2차전 경기가 갑작스러운 비로 인해 하루 순연됐기]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[강상준, ♥신혜선과 키스까지 했지만…짝사랑 관뒀다]]></title>
-        <id>https://v.daum.net/v/20241015164141750</id>
-        <link href="https://v.daum.net/v/20241015164141750"/>
-        <updated>2024-10-15T08:18:39.773Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 이예진 기자) &nbsp;‘나의 해리에게’ 강상준이 짝사랑에 브레이크를 걸었다. 지니 TV 오리지널 드라마 ‘나의 해리에게’는 마음속 깊은 상처로 새로운 인격이 발현된 아나운서 ‘주은호’(신혜선 분)와 마음의 상처를 꼭꼭 감춰 둔 구남친 ‘정현오’(이진욱)의 새로고침 치유 로맨스를 그린 드라마다. 매주 현실 로맨스로 화제인 ‘나의 해리에게’가 어느덧]]></content>
     </entry>
 </feed>
