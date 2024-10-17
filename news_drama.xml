@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-10-17T12:26:14.201Z</updated>
+    <updated>2024-10-17T13:22:24.955Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[임윤아 앓이는 쭉~계속..스타랭킹 2위]]></title>
+        <id>https://v.daum.net/v/20241017214149958</id>
+        <link href="https://v.daum.net/v/20241017214149958"/>
+        <updated>2024-10-17T13:22:09.300Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 | 김미화 기자] 소녀시대(SNSD) 윤아(YOONA)가 필리핀 팬미팅을 위해 29일 오전 인천국제공항을 통해 출국하고 있다. 2024.02.29 /사진=임성균 배우 임윤아가 스타랭킹 스타 배우 여자 랭킹 부문 2위 자리를 지켰다. 임윤아는 지난 10일 오후 3시 1분부터 17일 오후 3시까지 진행된 10월 2주(82차) 스타랭킹 스타배우 여자]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[사랑스러운 김혜윤, 여전한 인기..13주째 1위]]></title>
+        <id>https://v.daum.net/v/20241017213723851</id>
+        <link href="https://v.daum.net/v/20241017213723851"/>
+        <updated>2024-10-17T13:22:09.302Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 | 김미화 기자] (서울=뉴스1) 권현진 기자 = 배우 김혜윤이 26일 오후 서울 성동구 성수동 한 플래그십 스토어에서 열린 패션 브랜드 행사에 참석해 인사를 하고 있다. 2024.9.26/뉴스1  Copyright (C) 뉴스1. All rights reserved. 무단 전재 및 재배포,  AI학습 이용 금지. /사진=(서울=뉴스1) 권현진]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[박상남, 최재성 출혈 보고 '실신'… 아버지 사망 '트라우마' 떠올랐나]]></title>
         <id>https://v.daum.net/v/20241017211631176</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20241017165328502"/>
         <updated>2024-10-17T08:18:16.642Z</updated>
         <content type="html"><![CDATA[[이데일리 스타in 김가영 기자] ‘나솔사계’ 21기 영수, 19기 영숙이 ‘솔로민박’에서 공식 커플 모드에 돌입한다. 17일 방송하는 ENA와 SBS Plus의 ‘나는 SOLO, 그 후 사랑은 계속된다’(이하 ‘나솔사계’)에서는 ‘솔로민박’에서 일찌감치 마음이 통한 21기 영수와 19기 영숙의 ‘그사세 연애’가 펼쳐진다. 이날 21기 영수와 ‘사계 데이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[최대훈 ‘지옥판사’ 특별 출연, 박신혜 멘탈 흔든다]]></title>
-        <id>https://v.daum.net/v/20241017164502129</id>
-        <link href="https://v.daum.net/v/20241017164502129"/>
-        <updated>2024-10-17T08:18:16.649Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 황혜진 기자] 배우 최대훈이 시청률 1위 질주 중인 SBS 금토드라마 ‘지옥에서 온 판사’(극본 조이수/연출 박진표 조은지)에 특별출연한다. '지옥에서 온 판사'에는 강빛나(박신혜 분), 한다온(김재영 분) 두 주인공 외에도 입체적인 캐릭터가 다수 존재한다. 이들이 만나 펼치는 캐릭터 플레이가 색다른 재미를 선사하고 있다. 여기에 에피소드별 혹은]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['돌싱글즈6' 은지원, 직진 고백에 "속이 다 시원해"]]></title>
-        <id>https://v.daum.net/v/20241017164335051</id>
-        <link href="https://v.daum.net/v/20241017164335051"/>
-        <updated>2024-10-17T08:18:16.650Z</updated>
-        <content type="html"><![CDATA[(사진=MBN)[이데일리 스타in 최희재 기자] ‘돌싱글즈6’ MC 은지원, 이지혜가 짜릿한 고백에 환호한다. 17일 방송하는 MBN ‘돌싱글즈6’ 6회에서는 돌싱 하우스 3일 차 모습이 그려진다. 돌싱남녀들은 나이, 직업 공개 뒤 밤새 직진 행보를 보인다. 또한 4일 차 아침 선착순 일대일 데이트가 공지되자 재빨리 도장을 찍기 위해 나선다. 이날 한 돌]]></content>
     </entry>
 </feed>

@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2024-10-17T12:26:14.205Z</updated>
+    <updated>2024-10-17T13:22:24.953Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[임오경 의원 “장애인 영화 접근성 강화를 위한 배리어프리 영화 확대해야”···영화 1만회 상영시 배리어프리 영화상영 1.5회 꼴]]></title>
+        <id>https://v.daum.net/v/20241017221711559</id>
+        <link href="https://v.daum.net/v/20241017221711559"/>
+        <updated>2024-10-17T13:22:03.706Z</updated>
+        <content type="html"><![CDATA[더불어민주당 임오경 국회의원(문화체육관광위 간사)가 장애인들을 위한 영화감상권이 여전히 제대로 보장되고 있지 않다고 지적했다. 임오경 의원에 따르면 서울의 봄, 범죄도시4, 파묘 등 작년부터 올해까지 천만관중 영화들이 쏟아져 나오며 K-무비의 저력은 계속되고 있다. 지난 부산영화제의 아시아콘텐츠 필름 마켓에서는 우리 영화를 찾는 해외바이어들의 발길이]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김주령→한지현, 미스터리 스릴러 그린다...'시스터 후드' 크랭크인]]></title>
+        <id>https://v.daum.net/v/20241017220004303</id>
+        <link href="https://v.daum.net/v/20241017220004303"/>
+        <updated>2024-10-17T13:22:03.707Z</updated>
+        <content type="html"><![CDATA[(MHN스포츠 강민서 인턴기자, 장민수 기자) 뒤틀리고 매혹적인 여성 캐릭터간의 관계를 그리는 미스터리 스릴러 영화 '시스터 후드'가 크랭크인을 알렸다. 17일 '시스터 후드'가 크랭크인 소식을 전하며 주요 캐스팅 라인업을 공개했다. '시스터 후드'는 이혼 후 평화로운 일상을 쫓아 딸과 함께 전원주택으로 이사한 여성이 관계중독처럼 보이는 여성을]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['방자전'→'인간중독' 감독과 만난 조여정, 밀실 갇힌다]]></title>
         <id>https://v.daum.net/v/20241017210005816</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20241017173412422"/>
         <updated>2024-10-17T09:14:19.656Z</updated>
         <content type="html"><![CDATA[(MHN스포츠 류가연 인턴기자, 장민수 기자) 실화를 바탕으로 한 영화 '소방관'이 오는 겨울 관객들의 가슴을 벅차게 할 예정이다. 17일 '소방관'이 1차 포스터를 공개하며 기대감을 높였다. '소방관'은 2001년 홍제동 화재 참사 사건 당시 열악한 환경 속에서도 화재 진압과 전원 구조라는 단 하나의 목표를 가지고 투입된 소방관들의 상황을 그]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김정난 "4년주기 열애사 화제 민망…결혼했다면 이자리 못왔을것"]]></title>
-        <id>https://v.daum.net/v/20241017173337396</id>
-        <link href="https://v.daum.net/v/20241017173337396"/>
-        <updated>2024-10-17T09:14:19.657Z</updated>
-        <content type="html"><![CDATA[(서울=뉴스1) 장아름 기자 = 배우 김정난이 SBS '미운 우리 새끼'에서 과거 4년 주기로 연애를 했다는 사실을 고백해 화제가 된 데 대한 생각을 밝혔다. 17일 서울 종로구 삼청동의 한 카페에서는 영화 '세상 참 예쁜 오드리'(감독 이영국) 주연 김정난의 인터뷰가 진행됐다. '세상 참 예쁜 오드리'는 엄마 미연(김정난 분)과 국숫집을 운영하며 소소]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[제13회 목포인권영화제 개막... 25일부터 3일간 진행]]></title>
-        <id>https://v.daum.net/v/20241017173302371</id>
-        <link href="https://v.daum.net/v/20241017173302371"/>
-        <updated>2024-10-17T09:14:19.659Z</updated>
-        <content type="html"><![CDATA[[박한글 기자] 제13회 목포인권영화제가 '인권공동체를 향한 꿈!' 이라는 슬로건을 걸고, 오는 25일부터 27일까지 개막식을 포함해 2박3일 진행된다. 영화제 추진위는 "여성, 아동, 장애인, 성소수자 등 상대적 약자에 대한 차별과 불평등이 아닌 서로에 대한 존중이 사람 관계의 틀이 되는 공동체를 소망하며, 아무도 지배받지 않는 세상, 차별과 배제가 용납]]></content>
     </entry>
 </feed>
