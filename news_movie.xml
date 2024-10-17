@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2024-10-17T02:46:37.033Z</updated>
+    <updated>2024-10-17T03:20:16.730Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[주체적 여성 스릴러 ‘시스터 후드’ 크랭크인‥김주령 한지현 주연]]></title>
+        <id>https://v.daum.net/v/20241017121759932</id>
+        <link href="https://v.daum.net/v/20241017121759932"/>
+        <updated>2024-10-17T03:19:57.265Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 배효주 기자] 주체적인 여성 캐릭터가 등장하는 미스터리 스릴러 '시스터 후드'가 캐스팅을 확정하고 촬영을 시작했다. 영화 '시스터 후드'(감독 윤은경)는 이혼 후 평화로운 일상을 쫓아 딸과 함께 전원주택으로 이사한 여성이 관계중독처럼 보이는 여성을 만나 위험에 빠지게 되는 이야기를 그린 미스터리 스릴러. 40대 베스트셀러 소설 작가 ‘율희’ 역은]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘선업튀’ 이철우 맞아? ‘6시간 후 너는 죽는다’서 반전 존재감]]></title>
         <id>https://v.daum.net/v/20241017113718385</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20241017104256433"/>
         <updated>2024-10-17T02:46:16.365Z</updated>
         <content type="html"><![CDATA[[이데일리 스타in 김보영 기자] 배우 조여정이 ‘방자전’ 이후 ‘히든페이스’로 김대우 감독과 재회해 눈길을 끄는 가운데, ‘히든페이스’에서 또 다른 강렬한 연기변신을 감행해 눈길을 끈다. 지금껏 본 적 없는 고품격 에로티시즘으로 화제를 모으는 색(色)다른 밀실 스릴러 ‘히든페이스’에서 조여정이 벗겨진 진실을 마주한 ‘수연’으로 분했다. 장르와 캐릭터]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['음주' 곽도원, 스크린 복귀…'소방관' 12월 개봉]]></title>
-        <id>https://v.daum.net/v/20241017104248425</id>
-        <link href="https://v.daum.net/v/20241017104248425"/>
-        <updated>2024-10-17T02:46:16.371Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 윤현지 기자) 영화 '소방관'(감독 곽경택)이 오는 12월 극장 개봉을 확정하고 1차 포스터를 공개했다.&nbsp; '소방관'은 2001년 홍제동 화재 참사 사건 당시 열악한 환경 속에서도 화재 진압과 전원 구조라는 단 하나의 목표를 가지고 투입된 소방관들의 상황을 그린 이야기. 공개된 1차 포스터는 거센 불길을 뚫고 나아가는 소방관들의 모습이 담겨]]></content>
     </entry>
 </feed>
