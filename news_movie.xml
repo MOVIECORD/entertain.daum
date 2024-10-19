@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2024-10-19T22:13:27.467Z</updated>
+    <updated>2024-10-19T23:13:28.630Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[웃기고 슬픈 우리 시대 신데렐라 이야기…영화 '아노라']]></title>
+        <id>https://v.daum.net/v/20241020074654644</id>
+        <link href="https://v.daum.net/v/20241020074654644"/>
+        <updated>2024-10-19T23:13:08.371Z</updated>
+        <content type="html"><![CDATA[(서울=연합뉴스) 이영재 기자 = 영화는 아름다운 환상을 스크린에 펼쳐내면서 관객이 고통스러운 현실을 잠시나마 잊게 해주지만, 때로는 환상을 파괴함으로써 관객을 차가운 현실 앞에 세우기도 한다. 올해 칸국제영화제에서 황금종려상을 받은 숀 베이커 감독의 '아노라'가 그런 영화다. 이 영화는 미국 뉴욕의 시끌벅적한 클럽에서 스트리퍼로 일하는 여성 아노라(미키]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[수현, 멋진 배우이자 엄마.."순정적이기보다 도전하는"]]></title>
         <id>https://v.daum.net/v/20241020070003028</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20241019094613226"/>
         <updated>2024-10-19T01:01:46.410Z</updated>
         <content type="html"><![CDATA[[이데일리 스타in 김보영 기자] 영화 ‘보통의 가족’(감독 허진호)이 연이은 호평에 힘입어 3일 연속 박스오피스 1위를 이어가고 있다. 이 가운데 23일 국내 개봉을 앞둔 외화 대작 ‘베놈: 라스트 댄스’(이하 ‘베놈3’)가 전체 예매율 1위에 등극해 눈길을 끈다. 19일 오전 영화진흥위원회 영화관입장권 통합전산망에 따르면 ‘보통의 가족’은 전날 하루]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[전설의 영화 ‘더티 댄싱’, 브로드웨이 뮤지컬로 재탄생 “2025년말 공연”]]></title>
-        <id>https://v.daum.net/v/20241019094155181</id>
-        <link href="https://v.daum.net/v/20241019094155181"/>
-        <updated>2024-10-19T01:01:46.410Z</updated>
-        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]전설의 영화 ‘더티 댄싱’이 브로드웨이 뮤지컬로 재탄생한다. 버라이어티는 18일(현지시간) “라이온스게이트가 ‘더티 댄싱’을 브로드웨지 뮤지컬로 각색하고 있다”면서 “‘더티 댄싱: 더 뮤지컬’은 2025년 말 브로드웨이와 북미 공연을 시작으로 아시아, 호주, 라틴 아메리카 등에서 펼쳐질 예정이다”라고 전했다. 영화의 각본을]]></content>
     </entry>
 </feed>
