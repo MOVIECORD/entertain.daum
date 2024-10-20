@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2024-10-20T01:07:58.100Z</updated>
+    <updated>2024-10-20T02:53:36.735Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[박정민 "한강 '노벨문학상', 난 예측했다"]]></title>
+        <id>https://v.daum.net/v/20241020110343814</id>
+        <link href="https://v.daum.net/v/20241020110343814"/>
+        <updated>2024-10-20T02:53:15.771Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 | 김나라 기자] 넷플릭스 오리지널 영화 '전, 란'(감독 김상만)의 주연배우 박정민이 14일 오전 진행된 인터뷰를 위해 포즈를 취하고 있다.   '전, 란'은 왜란이 일어난 혼란의 시대, 함께 자란 조선 최고 무신 집안의 아들 '종려'(박정민)와 그의 몸종 '천영'(강동원)이 '선조'(차승원)의 최측근 무관과 의병으로 적이 되어 다시 만나는 이]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['임영웅│아임 히어로 더 스타디움', 공연실황 영화 최고 흥행작 등극]]></title>
+        <id>https://v.daum.net/v/20241020104914496</id>
+        <link href="https://v.daum.net/v/20241020104914496"/>
+        <updated>2024-10-20T02:53:15.774Z</updated>
+        <content type="html"><![CDATA[[OSEN=최이정 기자] 가수 임영웅의 ‘임영웅│아임 히어로 더 스타디움’이 공연 실황 영화 최고 흥행작에 등극했다. 공연 실황 영화의 기존 흥행 1위인 2019년 그룹 방탄소년단의 ‘러브 유어셀프 인 서울’을 넘고 1위에 오른 것.&nbsp; 20일 영화관입장권통합전산망 집계를 보면, ‘임영웅│아임 히어로 더 스타디움’은 19일 전국 47개 스크린에서 3795]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[임영웅, 방탄소년단 기록 깼다..공연 실황 영화 1위]]></title>
         <id>https://v.daum.net/v/20241020095943511</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20241019143652615"/>
         <updated>2024-10-19T06:17:26.619Z</updated>
         <content type="html"><![CDATA[영화 ‘보통의 가족’이 3일 연속 박스오피스 정상의 자리를 차지했다. 19일 영화진흥위원회 영화관 입장권 통합전산망 집계에 따르면 ‘보통의 가족’은 지난 18일 하루 동안 4만 6599명의 관객을 동원하면서 박스오피스 1위에 올랐다. 누적관객수는 12만 9446명이다. 2위는 ‘베테랑2’으로 2만 911명의 관객이 관램했다. 누적관객수는 738만 7]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['보통의 가족' 허진호 감독 "나쁜 아이를 만든건 어른의 책임"]]></title>
-        <id>https://v.daum.net/v/20241019140131906</id>
-        <link href="https://v.daum.net/v/20241019140131906"/>
-        <updated>2024-10-19T05:12:44.633Z</updated>
-        <content type="html"><![CDATA[영화 '천문' 이후 5년 만의 작품 '보통의 가족'으로 돌아온 허진호 감독을 만났다. '8월의 크리스마스' '봄날은 간다' '덕혜옹주' 등 우리나라 영화 역사상 이름을 남긴 대표작이 있는 허진호 감독은 '더 디너'라는 네덜란드 소설이 원작이고 해외 여러 나라에서도 영화를 만든 유명한 작품 '보통의 가족'으로 해외 유수의 영화제에 초청을 받으며 복귀했다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김대건 신부 시성 40주년 창작뮤지컬 ‘김대건’ 서울 공연 성료]]></title>
-        <id>https://v.daum.net/v/20241019135248807</id>
-        <link href="https://v.daum.net/v/20241019135248807"/>
-        <updated>2024-10-19T05:12:44.634Z</updated>
-        <content type="html"><![CDATA[[스포츠서울 | 박효실 기자] 1845년 조선. 거센 풍랑에 휩쓸린 길이 13.5ｍ, 폭 4.8ｍ의 낡은 목선 라파엘호, 금방이라도 파도에 삼켜질 듯 위태로운 배 위에 2024년의 당신이 타고 있다면 당신은 무엇을 움켜쥐고 있을까. 한국 최초의 사제 김대건 안드레아 신부의 일대기를 다룬 창작 뮤지컬 ‘김대건’은 사제품을 받은지 1년만인 26세의 젊은]]></content>
     </entry>
 </feed>
