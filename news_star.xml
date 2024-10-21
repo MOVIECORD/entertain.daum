@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2024-10-21T18:18:39.919Z</updated>
+    <updated>2024-10-21T19:11:20.591Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['팬 폭행 모르쇠' 제시…가해자 모른다던 거짓말 들통나나]]></title>
+        <id>https://v.daum.net/v/20241022040006663</id>
+        <link href="https://v.daum.net/v/20241022040006663"/>
+        <updated>2024-10-21T19:11:15.261Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 정새빈 인턴 기자] 자신의 팬을 폭행한 가해자를 '그날 처음 본 사람'이라고 주장한 가수 제시가 거짓말을 했다는 의혹이 제기됐다. 온라인 커뮤니티를 중심으로 제시가 가해자로 보이는 한 남성과 다정한 포즈를 취하고 있는 장면이 퍼지고 있기 때문이다. 지난달 29일 서울 강남구 압구정동에서 제시에게 사진을 요청한 10대 남성이 제시의 일행에게]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[밝은 미소 문근영, '건강 이상설'에 입 열었다..."완치+다이어트 성공 응원 부탁"]]></title>
+        <id>https://v.daum.net/v/20241022033005574</id>
+        <link href="https://v.daum.net/v/20241022033005574"/>
+        <updated>2024-10-21T19:11:15.261Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 김도형 기자] 21일 오후 서울 종로구 JW 메리어트호텔 동대문에서 넷플릭스 드라마 '지옥 시즌' 제작발표회가 열렸다. 이 자리에는 배우 김현주, 문근영, 김성철, 문소리, 김신록, 안성재, 연상호 감독, 최규석 작가가 참석했다. '지옥2'는 계속되는 지옥행 고지로 더욱 혼란스러워진 세상, 갑작스레 부활한 새진리회 정진수(김성철 분)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뉴진스 다니엘 "버니즈와 대화할 땐 시간 가는 줄 몰라요"]]></title>
         <id>https://v.daum.net/v/20241022030011377</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20241022011512054"/>
         <updated>2024-10-21T16:16:53.660Z</updated>
         <content type="html"><![CDATA[빈티지 캐주얼 브랜드 ‘유니폼브릿지’가 브랜드 모델인 배우 류승범과 함께한 2024년 윈터 시즌 캠페인을 새롭게 공개한다. 유니폼브릿지는 아웃도어와 밀리터리 스타일을 현대적으로 재해석하여 트렌디한 감각을 제안하는 브랜드로, 클래식한 디자인에 모던한 디테일을 더해 개성을 강화한 컬렉션을 선보여 왔다. 20-30 남성 소비자를 비롯해 국내외 마니아들 사이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[휠라플러스 국내 공식 출시···무신사 엠프티 성수서 팝업]]></title>
-        <id>https://v.daum.net/v/20241022010645005</id>
-        <link href="https://v.daum.net/v/20241022010645005"/>
-        <updated>2024-10-21T16:16:53.660Z</updated>
-        <content type="html"><![CDATA[휠라는 올해 초 크리에이티브 디렉터 ‘레브 탄주’와 손잡고 선보인 새로운 라인 휠라플러스(FILA+)를 국내에 공식 출시한다고 21일 밝혔다. FILA+는 국내 출시를 기념해 서울 성동구 무신사 엠프티 성수에서 이달 30일까지 팝업스토어를 선보인다. 세계적인 유명 스트리트 패션 브랜드 ‘팔라스’의 설립자 레브 탄주가 이끄는 FILA+는 한 차원 높은]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["아파트, 아파트"…로제가 가장 좋아하는 이 술의 정체는]]></title>
-        <id>https://v.daum.net/v/20241022010011974</id>
-        <link href="https://v.daum.net/v/20241022010011974"/>
-        <updated>2024-10-21T16:16:53.661Z</updated>
-        <content type="html"><![CDATA[[서울=뉴시스]이은재 인턴 기자 = 한국의 술 게임을 소재로 한 곡 '아파트'를 발표한 그룹 블랙핑크 로제가 한 인터뷰에서 소주와 맥주를 섞는 '소맥'을 소개해 한국 술 문화가 세계적인 관심을 받고 있다. 20일 미국의 유명 잡지사 보그의 공식 유튜브 채널에는 '로제가 만드는 김치볶음밥'이라는 제목의 영상이 게재됐다. 이 영상은 '아파트' 홍보를 위해 촬]]></content>
     </entry>
 </feed>
