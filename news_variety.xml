@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/variety</id>
     <title>다음 연예 ─ 뉴스 ─ 예능</title>
-    <updated>2024-10-23T18:18:10.150Z</updated>
+    <updated>2024-10-23T19:11:37.800Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[지드래곤, 작곡 영감 공개 "헤어졌을 때나 앉았다 일어나면"]]></title>
+        <id>https://v.daum.net/v/20241024033144988</id>
+        <link href="https://v.daum.net/v/20241024033144988"/>
+        <updated>2024-10-23T19:11:27.111Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 김하영 기자] 그룹 빅뱅 지드래곤이 12년 만에 예능 프로그램에 모습을 드러낸다. 지드래곤은 23일 공개된 tvN '유퀴즈 온 더 블럭'(이하 '유퀴즈') 예고편에서 자기님으로 출연한다. 이날 오랜만에 예능에 출연한 지드래곤은 친분이 있던 유재석과 반갑게 포옹을 나누며 "이걸 제가 왜 하게 됐을까요"라는 농담 섞인 멘트를 전해 웃음을]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[22기 영숙, 끝내 영수·영철 최종 선택 안 했다 “열린 결말이길”]]></title>
         <id>https://v.daum.net/v/20241024014421679</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20241024000948086"/>
         <updated>2024-10-23T15:14:18.063Z</updated>
         <content type="html"><![CDATA[[뉴스엔 서유나 기자] 미스코리아 출신 방송인 이혜원이 사랑꾼이었던 전 축구선수 안정환을 자랑했다. 10월 23일 방송된 MBC 예능 '라디오스타'(이하 '라스') 886회에는 신애라, 윤유선, 이혜원, 오윤아, 유혜주가 게스트로 출연했다. 이날 이혜원은 안정환이 과거 자신의 아버지를 꼬시느라 바빴었다며 "아무래도 조금 어리기도 너무 어렸고 대학교 3]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['고딩엄빠5' 만삭 임산부 음주에 '머리채 잡기까지']]></title>
-        <id>https://v.daum.net/v/20241023235857810</id>
-        <link href="https://v.daum.net/v/20241023235857810"/>
-        <updated>2024-10-23T15:14:18.064Z</updated>
-        <content type="html"><![CDATA[[OSEN=오세진 기자]&nbsp;MBN ‘어른들은 모르는 고딩엄빠5’(이하 ‘고딩엄빠5’) 양지영 유우암 부부의 지독한 일상이 공개됐다. 23일 방영한 ‘고딩엄빠5’에서는 어린 나이에 함께 만났으나 유우암의 반복된 거짓말로 신뢰를 잃은 양지영의 고단한 하루가 공개됐다. 양지영과 유우암은 헤어졌다가 결국 다시 만난 후 임신으로 결혼까지 한 사이였다. 그러나 첫째]]></content>
     </entry>
 </feed>
