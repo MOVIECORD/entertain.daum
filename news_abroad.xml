@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2024-10-24T21:13:44.931Z</updated>
+    <updated>2024-10-24T22:13:00.588Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["팝스타 라나 델 레이, 열 살 연상 '악어 투어 가이드'와 결혼"]]></title>
+        <id>https://v.daum.net/v/20241025063502097</id>
+        <link href="https://v.daum.net/v/20241025063502097"/>
+        <updated>2024-10-24T22:12:59.959Z</updated>
+        <content type="html"><![CDATA[(로스앤젤레스=연합뉴스) 임미나 특파원 = 미국의 팝스타 라나 델 레이(39)가 늪지 악어 투어 가이드로 일하는 10살 연상의 일반인 남성과 결혼했다고 AP통신과 미 일간 뉴욕타임스(NYT) 등이 24일(현지시간) 전했다. AP는 델 레이가 몇 년간 사귀어온 일반인 남자친구 제러미 듀프렌(49)과의 결혼 허가서를 최근 법원에 제출한 사실을 확인했다고 보도했]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["아침 내내 울었어요" 브루노 마스, 한글로 전한 데뷔 첫 '엠카' 1위 소감]]></title>
         <id>https://v.daum.net/v/20241025054002063</id>
@@ -88,12 +95,5 @@
         <link href="https://v.daum.net/v/20241024131830960"/>
         <updated>2024-10-24T05:14:04.025Z</updated>
         <content type="html"><![CDATA[[TV리포트=이혜미 기자] 배우 리암 니슨이 액션 영화에서 은퇴할 예정임을 밝혔다. 23일(현지 시간) 외신 매체 피플과의 인터뷰에서 리암 니슨은 그의 새 액션 영화 '앱솔루션'을 홍보하며 아마도 내년 말쯤 액션 영화에서 은퇴할 계획이라고 전했다. 리암 니슨은 지난 몇십 년간 흥행한 영화에서 주연을 맡아왔다. 스티븐 스필버그 감독의 아카데미 작품상 수상작]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['47세' 전현무, ♥열애 의혹 터졌다...맛집 데이트 "누구랑 왔어요?"]]></title>
-        <id>https://v.daum.net/v/20241024064850754</id>
-        <link href="https://v.daum.net/v/20241024064850754"/>
-        <updated>2024-10-23T22:13:33.539Z</updated>
-        <content type="html"><![CDATA[[스포츠조선닷컴 정안지 기자]'전현무계획2' 전현무가 23번째 길바닥으로 다시 서울을 찾아, 자신의 '최애 순댓국 맛집'을 전격 공개한다. 25일(금) 밤 9시 40분 방송하는 본격 리얼 길바닥 먹큐멘터리 '전현무계획2'(MBN·채널S 공동 제작) 3회에서는 "돼지고기 특집!"을 선포한 전현무가 서울의 숨겨진 맛집을 찾아나서며 '전현유(有)계]]></content>
     </entry>
 </feed>
