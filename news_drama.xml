@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-10-25T10:15:04.183Z</updated>
+    <updated>2024-10-25T11:12:10.120Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['개소리' 연우, 인간 비타민 등극! 긍정 에너지+웃음 선사]]></title>
+        <id>https://v.daum.net/v/20241025194743340</id>
+        <link href="https://v.daum.net/v/20241025194743340"/>
+        <updated>2024-10-25T11:11:54.107Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 박로사 기자] 배우 연우가 ‘개소리’의 케미 요정으로 등극했다. KBS2 수목드라마 ‘개소리’에서 러블리 열혈 순경 홍초원 역을 맡아 헤어 나올 수 없는 매력을 보여주고 있는 연우의 활약상에 이목이 집중된다. 사건 앞에서 물불 안 가리는 모습부터 좋아하는 사람 앞에서 수줍어하는 모습까지 캐릭터의 다채로운 면모를 자유롭게 오가는 연우는 홍]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['지옥에서 온 판사' 악마 능력 잃은 박신혜..피 흘리며 실신 '위기']]></title>
+        <id>https://v.daum.net/v/20241025193253977</id>
+        <link href="https://v.daum.net/v/20241025193253977"/>
+        <updated>2024-10-25T11:11:54.108Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 | 김나연 기자] 사진=SBS 지옥에서 온 판사'지옥에서 온 판사' 박신혜가 피를 흘리며 쓰러지고, 최동구와 대치한다. 25일 오후 10시 방송되는 SBS 금토드라마 '지옥에서 온 판사'(극본 조이수·연출 박진표 조은지) 11회에서는 판사의 몸에 들어간 악마 강빛나(박신혜 분)가 연쇄살인마J와 사탄의 정체를 밝히기 위해 위험을 무릅쓰고 나선다]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[한석규 '이친자', 오늘 결방..한국시리즈 3차전 중계 여파]]></title>
         <id>https://v.daum.net/v/20241025190803288</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20241025165801693"/>
         <updated>2024-10-25T08:18:11.878Z</updated>
         <content type="html"><![CDATA[(엑스포츠뉴스 조혜진 기자) '취하는 로맨스' 속 지상주류 완전체가 공개됐다. 오는 11월 첫 방송되는 ENA 새 월화드라마 '취하는 로맨스'(극본 이정신, 연출 박선호) 측은 25일 채용주(김세정 분), 방아름(신도현), 강범(류원우), 심라오(하민혁)까지 '지상주류' 완전체 스틸컷을 공개해 기대감을 높였다. '취하는 로맨스'는 감정을 숨기는 게 당연한]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['피 철철' 박신혜, 최동구와 일촉즉발 대치 '긴장감 폭발']]></title>
-        <id>https://v.daum.net/v/20241025165220541</id>
-        <link href="https://v.daum.net/v/20241025165220541"/>
-        <updated>2024-10-25T08:18:11.878Z</updated>
-        <content type="html"><![CDATA[[OSEN=최이정 기자]&nbsp;‘지옥에서 온 판사’&nbsp;박신혜가 피를 철철 흘리며 쓰러진다. 25일 오후 10시 방송되는&nbsp;SBS&nbsp;금토드라마&nbsp;‘지옥에서 온 판사’(극본 조이수/연출 박진표 조은지/제작 스튜디오S) 11회에서는 판사의 몸에 들어간 악마 강빛나(박신혜 분)가 연쇄살인마J와 사탄의 정체를 밝히기 위해 위험을 무릅쓰고 나선다.&nbsp;이 과정에서 상상 초월 전개]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[유연석, 걸그룹 출신 女배우 길들이기…애증의 최애]]></title>
-        <id>https://v.daum.net/v/20241025164518281</id>
-        <link href="https://v.daum.net/v/20241025164518281"/>
-        <updated>2024-10-25T08:18:11.878Z</updated>
-        <content type="html"><![CDATA[[OSEN=장우영 기자] ‘지금 거신 전화는’ 유연석이 장규리의 롤모델로 등극한다. 오는 11월 22일 밤 9시 50분 첫 방송을 앞둔 MBC 새 금토드라마 ‘지금 거신 전화는’(극본 김지운, 연출 박상우 위득규)은 협박 전화로 시작된, 정략결혼 3년 차 쇼윈도 부부의 시크릿 로맨스릴러다. 유연석은 극 중 집안, 외모, 능력 무엇 하나 빠지는 게 없는]]></content>
     </entry>
 </feed>
