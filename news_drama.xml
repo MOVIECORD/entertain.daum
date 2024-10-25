@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-10-25T02:48:37.730Z</updated>
+    <updated>2024-10-25T03:21:29.244Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[박신혜, 왜 죽었을까…'지옥에서 온 판사' 측 "오늘, 그 비밀 모두 밝혀진다"]]></title>
+        <id>https://v.daum.net/v/20241025115252591</id>
+        <link href="https://v.daum.net/v/20241025115252591"/>
+        <updated>2024-10-25T03:21:15.893Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 박서연 기자] ‘지옥에서 온 판사’ 인간 박신혜의 죽음 비밀이 밝혀진다. SBS 금토드라마 ‘지옥에서 온 판사’(극본 조이수 연출 박진표 조은지)가 종영까지 단 4회 만을 남겨둔 가운데 예측불가 전개를 펼치며, 금토드라마 시청률 1위 행진을 이어가고 있다. 판사의 몸에 들어간 악마 강빛나(박신혜)가 그토록 지키고 싶던 인간 한다온(김재영)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[윤현숙, 故 김수미 비보에 "선생님 어떻게 그렇게 가세요" 추모]]></title>
         <id>https://v.daum.net/v/20241025114132266</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20241025092850931"/>
         <updated>2024-10-25T01:02:39.911Z</updated>
         <content type="html"><![CDATA[[스타뉴스 | 윤성열 기자] /사진제공=골드메달리스트 드라마 '눈물의 여왕'으로 신드롬을 일으킨 배우 김수현이 2024년 아시아 투어를 성황리에 마쳤다. 25일 소속사 골드메달리스트에 따르면 김수현은 지난 19일 서울 성북구 안암동 고려대학교 화정체육관에서 개최된 2024 아시아 투어 'EYES ON YOU'(아이즈 온 유) 서울 팬미팅을 피날레로 약 4]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[정대세 친형, 명서현 고부갈등에 무릎 꿇고 이혼 막아 "해결 안돼"]]></title>
-        <id>https://v.daum.net/v/20241025092427772</id>
-        <link href="https://v.daum.net/v/20241025092427772"/>
-        <updated>2024-10-25T01:02:39.911Z</updated>
-        <content type="html"><![CDATA[[이데일리 스타in 김가영 기자] MBN ‘한 번쯤 이혼할 결심’의 정대세가 일본 나고야 본가로 향해 친형을 만난다. 27일 방송하는 MBN ‘한 번쯤 이혼할 결심’(이하 ‘한이결’) 15회에서는 정대세가 일본 출장을 떠나 스케줄을 소화한 뒤, 본가가 있는 나고야를 방문하는 모습이 펼쳐진다. 이날 정대세는 무거운 마음을 안고 나고야 역에 도착해 친형과 상]]></content>
     </entry>
 </feed>
