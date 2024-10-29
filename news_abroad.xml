@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2024-10-29T11:12:22.972Z</updated>
+    <updated>2024-10-29T12:26:38.270Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[정상훈 "♥아내, '이혼 희화화'에 질색...'돌싱' 농담에 아찔"]]></title>
+        <id>https://v.daum.net/v/20241029211207353</id>
+        <link href="https://v.daum.net/v/20241029211207353"/>
+        <updated>2024-10-29T12:26:37.612Z</updated>
+        <content type="html"><![CDATA[[스포츠조선닷컴 김수현기자] 배우 정상훈이 '돌싱'이 될 뻔한 아찔한 일화를 밝혔다. 29일 방송된 SBS '신발 벗고 돌싱포맨'에는 뮤지컬 '스윙 데이즈'로 뭉친 세 남자 '유준상 X 정상훈 X 김건우'가 출연했다. "정상훈이 저번에 한 번 나오고 나서 '돌싱'이 되고 싶다더라"라는 이상훈의 폭로에 정상훈이 펄쩍 뛰었다. 정]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[로제, 빌보드 '핫100' 8위…K팝 여성 신기록]]></title>
         <id>https://v.daum.net/v/20241029200748377</id>
@@ -81,12 +88,5 @@
         <link href="https://v.daum.net/v/20241029055543543"/>
         <updated>2024-10-28T21:13:29.991Z</updated>
         <content type="html"><![CDATA[[서울경제] 그룹 블랙핑크 로제와 팝스타 브루노 마스의 협업곡 ‘아파트’(APT.)가 빌보드 메인 싱글차트 핫100 최상위권에 진입했다. K팝 여가수 최고 신기록이다. 미국 음악 전문매체 빌보드가 29일 공개한 차트 예고 기사에 따르면 로제와 브루노 마스의 ‘아파트’가 빌보드 핫100 최신차트 8위에 이름을 올렸다. 이는 로제가 발매한 솔로곡 중 가장]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[故 매튜 페리, 자택 118억 원에 판매...유산은 '이복형제'에 가장 많이 가]]></title>
-        <id>https://v.daum.net/v/20241028201500116</id>
-        <link href="https://v.daum.net/v/20241028201500116"/>
-        <updated>2024-10-28T12:27:13.250Z</updated>
-        <content type="html"><![CDATA[[TV리포트=한아름 기자] 지난해 사망한 배우 故 매튜 페리의 자택이 약 118억 원에 매각됐다. 지난 26일(현지 시간), 외신 매체 '로스앤젤레스타임스'가 故 매튜 페리의 자택이 855만 달러(한화 약 118억 5,000만 원)에 매각됐다고 보도했다. 매튜 페리가 거주했던 로스앤젤레스 퍼시픽 펠리세이즈에 위치한 자택이 비공개 거래로 매각됐다. 해당 자택]]></content>
     </entry>
 </feed>
