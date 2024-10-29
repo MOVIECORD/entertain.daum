@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2024-10-29T10:15:26.968Z</updated>
+    <updated>2024-10-29T11:12:22.972Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[로제, 빌보드 '핫100' 8위…K팝 여성 신기록]]></title>
+        <id>https://v.daum.net/v/20241029200748377</id>
+        <link href="https://v.daum.net/v/20241029200748377"/>
+        <updated>2024-10-29T11:12:22.242Z</updated>
+        <content type="html"><![CDATA[&lt;출연 : 김도헌 평론가&gt; 걸그룹 블랙핑크의 멤버 로제가 팝스타 브루노 마스와 함께 부른 '아파트'가 전 세계적으로 인기를 끌고 있습니다. 미국 빌보드 메인 싱글 차트 '핫100'에 8위로 입성하는 기록도 세웠는데요. 이번 기록의 의미와 인기 요인을 김도헌 평론가와 함께 이야기 나눠보겠습니다. 어서 오세요. &lt;질문 1&gt; 가수 로제가 부른 '아파트'가]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[두아 리파, “블랙핑크, 르세라핌과 협업하고파”... 러브콜]]></title>
         <id>https://v.daum.net/v/20241029190943363</id>
@@ -81,12 +88,5 @@
         <link href="https://v.daum.net/v/20241028201500116"/>
         <updated>2024-10-28T12:27:13.250Z</updated>
         <content type="html"><![CDATA[[TV리포트=한아름 기자] 지난해 사망한 배우 故 매튜 페리의 자택이 약 118억 원에 매각됐다. 지난 26일(현지 시간), 외신 매체 '로스앤젤레스타임스'가 故 매튜 페리의 자택이 855만 달러(한화 약 118억 5,000만 원)에 매각됐다고 보도했다. 매튜 페리가 거주했던 로스앤젤레스 퍼시픽 펠리세이즈에 위치한 자택이 비공개 거래로 매각됐다. 해당 자택]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["얼굴 또 달라져" 인기 女배우, 성형 의혹에 묵묵부답]]></title>
-        <id>https://v.daum.net/v/20241028200143771</id>
-        <link href="https://v.daum.net/v/20241028200143771"/>
-        <updated>2024-10-28T11:13:13.765Z</updated>
-        <content type="html"><![CDATA[[TV리포트=이혜미 기자] 중국의 인기 여배우 조로사가 연이은 성형 논란으로 곤욕을 치르고 있다. 최근 조로사는 한 브랜드 홍보 행사에 참석했다. 이날 그는 블랙 오프숄더 드레스를 입고 시크하면서도 고급스러운 분위기를 드러냈다. 그러나 해당 행사 직후 그의 외모는 온라인 상에서 뜨거운 화제로 등극했다. 사랑스러운 외모로 중국 최고의 여배우 중 한 명으로 꼽]]></content>
     </entry>
 </feed>
