@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/variety</id>
     <title>다음 연예 ─ 뉴스 ─ 예능</title>
-    <updated>2024-10-31T16:17:25.350Z</updated>
+    <updated>2024-10-31T17:13:48.376Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘하하♥’ 별, 막내딸 송이 방송 재능 인정 “밖에 나가면 ‘저 봤어요?’라고”]]></title>
+        <id>https://v.daum.net/v/20241101012027254</id>
+        <link href="https://v.daum.net/v/20241101012027254"/>
+        <updated>2024-10-31T17:13:38.225Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 이하나 기자] 가수 별이 셋째 딸 송이의 방송 쪽 재능을 기대했다. 10월 31일 방송된 채널A ‘아빠는 꽃중년’에서는 신성우가 아들 태오의 기질을 파악하기 위해 아동심리 상담 센터에 방문했다. 검사 결과 신성우의 첫째 아들 태오는 호기심도 많고 본인이 하고자 하는 건 꼭 해야 하는 성향이 신성우와 닮아 있었다. 김원준이 “형도 느끼지? 비슷]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘구해줘! 홈즈’ 박나래, 양세형 벗고 찍은 사진에 “지금 오란 뜻을 몰랐네”]]></title>
         <id>https://v.daum.net/v/20241101010152182</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20241031234753202"/>
         <updated>2024-10-31T15:14:28.487Z</updated>
         <content type="html"><![CDATA['빅마마' 이혜정이 부부 관찰 프로그램 출연 후 남편과 관계가 바뀌었다고 말했다. 10월 31일 방송된 KBS '박원숙의 같이 삽시다'에서는 '똑순이'로 유명한 배우 김민희가 게스로 출연했다. 남편과 가상 이혼 프로그램에 출연 중인 이혜정은 "저는 평생 당하고 살았다고 생각했다. TV에 나온 모습을 보면서 내가 피해자만은 아니었구나 싶더라. 남편도 방]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[18기 정숙, '뒤늦은 직진' 5기 정수에 "마음 식어…타이밍 안 맞아"]]></title>
-        <id>https://v.daum.net/v/20241031234301142</id>
-        <link href="https://v.daum.net/v/20241031234301142"/>
-        <updated>2024-10-31T15:14:28.491Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 윤채현 기자) 뒤늦게 직진하는 5기 정수에 18기 정숙이 솔직한 심경을 전했다. 31일 방송된&nbsp;SBS Plus '나는 SOLO, 그 후 사랑은 계속된다'(이하 '나솔사계')에서는 마지막 선택을 앞둔 솔로들의 이야기가 펼쳐졌다. 이날 방송에서는 마지막 밤을 맞아 솔로 남녀들이 술자리를 가졌다. 한창 자리가 무르익던 와중, 5기 정수는 18기 정]]></content>
     </entry>
 </feed>
