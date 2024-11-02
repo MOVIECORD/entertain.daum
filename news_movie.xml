@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2024-11-02T06:18:47.769Z</updated>
+    <updated>2024-11-02T07:13:32.470Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[관객이 아닌 내게 주는 선물, ‘비틀쥬스 비틀쥬스’]]></title>
+        <id>https://v.daum.net/v/20241102160125212</id>
+        <link href="https://v.daum.net/v/20241102160125212"/>
+        <updated>2024-11-02T07:13:15.124Z</updated>
+        <content type="html"><![CDATA[&nbsp; 지난 9월 개봉한 ‘비틀쥬스 비틀쥬스’는 무려 36년 만에 돌아온 속편이다. 1988년 개봉했던 1편 ‘비틀쥬스’와 이 영화를 나란히 놓고 보면 꽤 닮은 구석이 많아 보인다. 감독 팀 버튼이 두 편 사이 연결고리를 엮어 내는 데 열중했기 때문이다. 얼핏 보면 이 영화는 관객을 향한 선물이다. 후속작을 원했던 마니아들, 감독의 세계를 오랫동안 지지해]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[단발머리 전재준 미쳤네..벌써부터 난리난 '오징어게임2' 박성훈 SNS]]></title>
+        <id>https://v.daum.net/v/20241102152020692</id>
+        <link href="https://v.daum.net/v/20241102152020692"/>
+        <updated>2024-11-02T07:13:15.124Z</updated>
+        <content type="html"><![CDATA[[OSEN=박소영 기자] 넷플릭스 ‘오징어 게임2’의 예고편이 베일을 벗은 가운데&nbsp;박성훈을 향한 국내외 팬들의 관심이 뜨겁다. 그가 예고편에서 파격적인 단발머리 분장을 하고 있기 때문이다.&nbsp; 1일 넷플릭스 공식 SNS 채널 ‘오징어 게임2’ 예고편과 스틸이 공개됐다. 넷플릭스 측은 “456억, 동심의 게임은 끝나지 않았다. ‘오징어 게임’ 시즌2, 12]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['결혼, 하겠나?'...MZ 연기파 배우 '이동휘X한지은' 생계형 코미디 열연에 호평 가득]]></title>
         <id>https://v.daum.net/v/20241102150004449</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20241102075003304"/>
         <updated>2024-11-01T23:13:22.298Z</updated>
         <content type="html"><![CDATA[(MHN스포츠 안하늘 인턴기자) 영화 '전장의 크리스마스'가 국내 최초 디지털 리마스터링 버전으로 선물처럼 등장한다. &nbsp;&nbsp; 영화 '전장의 크리스마스'는 영화음악의 거장 류이치 사카모토의 대표곡 'Merry Christmas, Mr. Lawrence'가 탄생한 전설 속의 명작이다. 영화는 데이비드 보위, 류이치 사카모토, 기타노 다케시 등 레전드 스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘청설’ 김민주 “첫 스크린 도전, 아이즈원 멤버들도 응원해줘”]]></title>
-        <id>https://v.daum.net/v/20241102073300171</id>
-        <link href="https://v.daum.net/v/20241102073300171"/>
-        <updated>2024-11-01T23:13:22.298Z</updated>
-        <content type="html"><![CDATA[배우 김민주(23)가 첫 스크린 주연작 ‘청설’로 한 뼘 더 성장했다. 동명의 대만 영화를 리메이크한 ‘청설’(감독 조선호)은 사랑을 향해 직진하는 용준(홍경 분)과 진심을 알아가는 여름(노윤서 분), 두 사람을 응원하는 동생 가을(김민주 분)의 청량하고 설레는 순간들을 담았다. 김민주는 꿈을 위해서는 어떤 시련에도 굴하지 않는 열정 넘치는 가을 역을 맡아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['글래디에이터2'에 '모아나2'까지…11월 외화 기대작 러시]]></title>
-        <id>https://v.daum.net/v/20241102073037146</id>
-        <link href="https://v.daum.net/v/20241102073037146"/>
-        <updated>2024-11-01T23:13:22.298Z</updated>
-        <content type="html"><![CDATA[(서울=뉴스1) 장아름 기자 = 11월 극장가에 외화 기대작들이 대거 찾아온다. 10월 23일 개봉작 '베놈: 라스트 댄스'가 지난 10월 31일 100만 관객을 돌파하는 가운데 외화들이 활기를 찾을 수 있을지 주목된다. 오는 6일 영화 '레드 원' 개봉을 시작으로,  13일 '글래디에이터2', 11월 20일 '위키드', 27일 '모아나2'가 잇따라 관]]></content>
     </entry>
 </feed>
