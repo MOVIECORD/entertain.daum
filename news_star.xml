@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2024-11-03T18:18:37.395Z</updated>
+    <updated>2024-11-03T19:11:40.945Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[정지선 "남편, 전 여친 3명 사진 갖고있어…7년째 각방"]]></title>
+        <id>https://v.daum.net/v/20241104040310244</id>
+        <link href="https://v.daum.net/v/20241104040310244"/>
+        <updated>2024-11-03T19:11:35.785Z</updated>
+        <content type="html"><![CDATA[[서울=뉴시스] 신효령 기자 = '결혼 11년 차' 정지선 셰프가 부부 각방살이 속사정을 고백했다. 지난 3일 방송된 KBS 2TV 예능물 '사장님 귀는 당나귀 귀'에서 정지선은 남편 이용우와 함께 식당에 방문한 배우 선우용여, 개그우먼 김지선과 이야기를 나눴다. 이날 방송에서 선우용녀는 "각방을 쓴 지 7년째라는데? 진짜냐"고 물었다. 김지선은 "]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['계약만료 앞둔' 아이들 전소연, '다음' 약속했다…"네버버 만나러 갈게"]]></title>
         <id>https://v.daum.net/v/20241104030652155</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20241103235404002"/>
         <updated>2024-11-03T15:13:06.114Z</updated>
         <content type="html"><![CDATA[[스포츠투데이 김태형 기자] 박진영이 차태현, 김하늘을 만나고 본격적인 '딴따라 찾기'에 나섰다. 3일 첫 방송된 KBS2 '더 딴따라'에는 박진영이 마스터로서 함께할 차태현, 김하늘을 만나는 모습과 부산, 전주 로컬라운드가 그려졌다. 이날 박진영은 차태현의 등장에 함박웃음을 지으며 반겼다. 그는 "나는 진짜 너무 고마워. 네가 이 프로그램 출연해 준다고]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[3400억 건설사 子 먼성 "'부모 잘 만났다는 꼬리표 불편"]]></title>
-        <id>https://v.daum.net/v/20241103234103936</id>
-        <link href="https://v.daum.net/v/20241103234103936"/>
-        <updated>2024-11-03T15:13:06.118Z</updated>
-        <content type="html"><![CDATA[[스포티비뉴스=김원겸 기자]'금수저 전쟁'이 막대한 부는 물론 명석한 두뇌까지 물려받은 '럭셔리 금수저'들의 프로필을 공개한 후 이들에 대한 궁금증이 더욱 커지고 있다. 이에 '금수저 전쟁' 측은 금수저들이 말하는 솔직하고도 진솔한 인터뷰를 추가로 공개, 다시 한번 화제를 불러모을 전망이다. 4일 U+모바일tv에서 첫 공개되는 '금수저 전쟁'에서는 자]]></content>
     </entry>
 </feed>
