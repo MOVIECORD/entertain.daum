@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2024-11-05T06:19:31.890Z</updated>
+    <updated>2024-11-05T07:13:34.048Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["귀신도 화들짝 놀랄 K-젠지력"…'아메바' D-1, 호러 코미디 신드롬 일으킬 관전 포인트]]></title>
+        <id>https://v.daum.net/v/20241105161213848</id>
+        <link href="https://v.daum.net/v/20241105161213848"/>
+        <updated>2024-11-05T07:13:16.798Z</updated>
+        <content type="html"><![CDATA[[스포츠조선 조지영 기자] 호러 코미디 영화 '아메바 소녀들과 학교괴담: 개교기념일'(이하 '아메바', 김민하 감독, 26컴퍼니 제작)이 내일(6일) 개봉을 앞두고 관전 포인트를 공개했다. 가장 먼저 '아메바'의 첫 번째 관전 포인트는 어느 학교에나 있을 법한 학교 괴담을 새롭게 해석한 세계관이다. '1998년 개교기념일 귀신 숨바꼭질'이란]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“딱 한번만 이기자” 송강호 박정민 장윤주, 절박한 ‘1승’]]></title>
         <id>https://v.daum.net/v/20241105151746474</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20241105114649407"/>
         <updated>2024-11-05T03:17:14.213Z</updated>
         <content type="html"><![CDATA[[OSEN=유수연 기자]&nbsp;전편에 이어 리들리 스콧 감독이 연출하고 할리우드가 주목하는 새로운 배우들이 함께한 레전드의 귀환 '글래디에이터&nbsp;Ⅱ'(감독: 리들리 스콧, 수입/배급 :&nbsp;롯데엔터테인먼트)가 영화의 재미를 극대화할 기대 포인트 3를 공개해 눈길을 끈다. #1. 각양각색 캐릭터들이 선보이는 풍성한 대서사시! 누가 로마의 미래를 바꿀 것인가? &lt;글래]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“류승완 강제규 감독 거쳐간 최초 영화제…역대 최다 출품 기록” 50주년 맞은 서울독립영화제]]></title>
-        <id>https://v.daum.net/v/20241105114346320</id>
-        <link href="https://v.daum.net/v/20241105114346320"/>
-        <updated>2024-11-05T03:17:14.219Z</updated>
-        <content type="html"><![CDATA[[스포츠서울 | 원성윤 기자] 50주년을 맞이한 ‘서울독립영화제’가 9일 간의 대장정에 돌입한다. 김영우 서울독립영화제 프로그래머는 5일 오전 서울 동작구 메가박스 아트나인에서 열린 ‘제50회 서울독립영화제’(이하 ‘서독제’)에서 “올해 공모에 총 1704편(단편 1,505편 장편 199편)이 출품돼 역대 최다를 기록했다”며 “다큐멘터리 영화와 실험]]></content>
     </entry>
 </feed>
