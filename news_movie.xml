@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2024-11-07T02:43:53.452Z</updated>
+    <updated>2024-11-07T03:19:57.571Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[부모님 결혼 반대에 바로 내뺀 남자, 뒷맛 씁쓸한 코미디]]></title>
+        <id>https://v.daum.net/v/20241107115400381</id>
+        <link href="https://v.daum.net/v/20241107115400381"/>
+        <updated>2024-11-07T03:19:37.579Z</updated>
+        <content type="html"><![CDATA[[최해린 기자] (* 이 글은 영화의 스포일러를 포함하고 있습니다.) &lt;플로리다 프로젝트&gt;로 이름을 날린 션 베이커 감독의 신작 &lt;아노라&gt;가 국내 개봉했다. 칸 영화제 황금종려상을 받은 본작은 스트리퍼 '아노라'가 신데렐라 이야기처럼 러시아 부호와 결혼하게 됐다가 더 큰 가정사에 휘말리며 벌어지는 일을 담은 영화로, 2022년 영화 &lt;스크림&gt;으로 본격적인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[봉준호 신작 '미키17', 내년 1월→4월 개봉 또 연기..이유는?]]></title>
+        <id>https://v.daum.net/v/20241107115001247</id>
+        <link href="https://v.daum.net/v/20241107115001247"/>
+        <updated>2024-11-07T03:19:37.580Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 | 김나연 기자] /사진='미키17' 포스터 봉준호 감독의 신작 '미키17'의 개봉일이 내년 4월로 연기됐다. 6일(현지시간) 버라이어티 등 연예 매체에 따르면 워너브러더스는 봉준호 감독의 신작 영화 '미키17'의 개봉일이 기존 개봉일에서 3개월 후인 내년 4월 18일로 연기됐다고 밝혔다. 당초 '미키17'은 지난해 3월 개봉 예정이었지만]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['살인범 된' 지승현, 정혜성과 호흡..영화 '내 친구는 살인범' 출연]]></title>
         <id>https://v.daum.net/v/20241107113508507</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20241107102953758"/>
         <updated>2024-11-07T02:43:36.354Z</updated>
         <content type="html"><![CDATA[(서울=뉴스1) 정유진 기자 = 영화 '글래디에이터 Ⅱ'(감독 리들리 스콧)가 개봉 전 시사를 통해 영화를 미리 관람한 관객들로부터 뜨거운 반응을 얻고 있다. '글래디에이터 Ⅱ'는 막시무스의 죽음으로부터 20여 년 후, 콜로세움에서 로마의 운명을 건 결투를 벌이는 루시우스(폴 메스칼)의 이야기를 그렸다. 이 영화는 일반 시사회 이후 관람객들의 뜨거운 호]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[봉준호 신작 '미키 17', 개봉 또 미뤄졌다 "내년 4월 18일로 연기"]]></title>
-        <id>https://v.daum.net/v/20241107102928729</id>
-        <link href="https://v.daum.net/v/20241107102928729"/>
-        <updated>2024-11-07T02:43:36.355Z</updated>
-        <content type="html"><![CDATA[(MHN스포츠 장민수 기자) 봉준호 감독의 신작 '미키 17'의 개봉이 또 미뤄졌다. 6일(현지시간) 미국 매체 할리우드 리포터는 영화&nbsp;'미키 17'의 개봉이 오는 2025년 1월 31일에서 4월 18일로 연기됐다고 보도했다. 워너브러더스 측에서는 북미 극장가 가장 핫한 시기인 부활절&nbsp;시기에 맞춰 선보이고자 변경하게 됐다고 밝혔다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['청설', '베놈3' 꺾고 개봉일 1위→골든에그 97%…청량 신드롬 시작됐다]]></title>
-        <id>https://v.daum.net/v/20241107102007230</id>
-        <link href="https://v.daum.net/v/20241107102007230"/>
-        <updated>2024-11-07T02:43:36.361Z</updated>
-        <content type="html"><![CDATA[[이데일리 스타in 김보영 기자] 영화 ‘청설’(감독 조선호)이 대세 라이징들의 섬세한 열연과 청량 에너지로 ‘베놈: 라스트 댄스’(이하 ‘베놈3’)를 제치고 개봉일 박스오피스 1위에 등극했다. 올가을 극장가에 청량한 설렘을 전할 영화 ‘청설’이 개봉 첫날 전체 영화 박스오피스 1위에 등극하며 11월 극장가에 청량한 흥행 파란을 예고한다. 영화 ‘청설’]]></content>
     </entry>
 </feed>
