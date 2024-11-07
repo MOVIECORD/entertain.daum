@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2024-11-07T16:16:58.373Z</updated>
+    <updated>2024-11-07T17:12:09.819Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김구라, 조세호 결혼식 안간 이유 “대장내시경 때문, X싸면서 갈 수 없어”]]></title>
+        <id>https://v.daum.net/v/20241108020005303</id>
+        <link href="https://v.daum.net/v/20241108020005303"/>
+        <updated>2024-11-07T17:12:04.618Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]방송인 김구라가 조세호 결혼식에 불참한 이유를 밝혔다. 최근 공개된 채널 '그리구라 GreeGura' 속 쿠키영상에서 김구라는 조세호의 결혼식에 참석하지 못한 이유를 설명했다. 김구라는 "그런 거에 대해 참 궁금한 게 많으신데 조세호 결혼식 날짜를 받은 거는 한두 달 전이다. 건강검진도 한두 달 전에 예약을 잡았다. 조세호]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[21기 영수・19기 영숙, 현커 됐지만 결별…5기 정수・18기 정숙 "연인 발전 안 돼"]]></title>
+        <id>https://v.daum.net/v/20241108013254218</id>
+        <link href="https://v.daum.net/v/20241108013254218"/>
+        <updated>2024-11-07T17:12:04.625Z</updated>
+        <content type="html"><![CDATA[[스포츠한국 신영선&nbsp;기자]&nbsp; '나솔사계' 21기 영수와 19기 영숙이 현실커플이 됐으나 헤어졌다고 밝혔다.&nbsp; 7일 유튜브 채널 촌장엔터테인먼트를 통해 ENA, SBS Plus '나는 솔로, 그 후 사랑은 계속된다' 출연진의 라이브 방송이 진행됐다.&nbsp; 이날&nbsp;18기 광수는 현재 연애 여부에 대해 "현실로 돌아왔지만 아직 혼자다. 소개팅도 요새는 없]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[정유미, 세계적 톱 모델 지지 하디드 만났다…글로벌 ★의 완벽한 투샷]]></title>
         <id>https://v.daum.net/v/20241108005447008</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20241108000021444"/>
         <updated>2024-11-07T15:13:59.298Z</updated>
         <content type="html"><![CDATA[[서울=뉴시스]정서현 인턴 기자 = 배우 이주승이 예식장 투어에 나선다. 8일 오후 11시 10분 방송되는 MBC TV 예능물 '나 혼자 산다'에서는 나 홀로 '예식장 투어'에 나선 이주승의 모습이 공개된다. 지난 방송 말미 공개된 예고편에서 예비 신랑이 된 듯한 이주승의 모습이 공개된 바 있다. 이날 방송에서 이주승은 꼼꼼하게 예식장 투어를 한다. 이주]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[목에 대못 꽂힌 75세 여성 시신 발견…머리에도 상처]]></title>
-        <id>https://v.daum.net/v/20241108000021442</id>
-        <link href="https://v.daum.net/v/20241108000021442"/>
-        <updated>2024-11-07T15:13:59.305Z</updated>
-        <content type="html"><![CDATA[[서울=뉴시스]정서현 인턴 기자 = 잔혹한 방식으로 피해자를 살해한 아파트 살인사건의 전말이 공개된다. 8일 오후 9시 50분 방송되는 티캐스트 E채널 '용감한 형사들4'에서는 장옥수 형사, 과학수사대(KCSI) 윤외출 전 경무관과 김진수 경감이 출연해 직접 해결한 수사 일지를 펼친다. 지난 방송에 이어 래퍼 딘딘이 게스트로 출연한다. 사건은 친척 언니]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘다리미 패밀리’ 폭발적 반응 일으킨 11~12회 명장면 짚어보기]]></title>
-        <id>https://v.daum.net/v/20241107235954426</id>
-        <link href="https://v.daum.net/v/20241107235954426"/>
-        <updated>2024-11-07T15:13:59.307Z</updated>
-        <content type="html"><![CDATA[‘다리미 패밀리’가 매회 명장면을 탄생시키며 시청자들의 몰입도를 높이고 있다. 매주 토, 일요일 저녁 8시 방송되는 KBS2 특별기획 주말드라마 ‘다리미 패밀리’(연출 성준해, 서용수 / 극본 서숙향 / 제작 키이스트, 몬스터유니온) 11, 12회에서는 청렴 세탁소를 운영하는 고봉희(박지영 분)가 으악산에서 파온 백지연(김혜은 분)의 돈을 막 쓰기 시]]></content>
     </entry>
 </feed>
