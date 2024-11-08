@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2024-11-08T21:12:48.027Z</updated>
+    <updated>2024-11-08T22:13:07.985Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[그럼에도 사랑을 한다, ‘4월이 되면 그녀는’]]></title>
+        <id>https://v.daum.net/v/20241109070301593</id>
+        <link href="https://v.daum.net/v/20241109070301593"/>
+        <updated>2024-11-08T22:12:48.686Z</updated>
+        <content type="html"><![CDATA[아프고 슬프고 괴롭지만 그래도 사람들은 사랑에 빠진다. 순수한 사랑을 잃어가는 현실, 그러나, 그럼에도 그것을 지키고자 노력하며 진실한 사랑을 찾아가는 남녀의 이야기다. 결혼을 앞둔 4월의 어느 날, ‘후지시로’ 앞으로 10년 전 첫 사랑의 편지가 도착한다. 옛 기억을 떠올리며 약혼자 ‘야요이’와의 관계를 돌아보던 중 ‘야요이’가 갑자기 자취를 감추고 사라]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[스낵무비·재개봉작·콘서트 실황…100만 어려운 극장가 자구책]]></title>
+        <id>https://v.daum.net/v/20241109070031510</id>
+        <link href="https://v.daum.net/v/20241109070031510"/>
+        <updated>2024-11-08T22:12:48.694Z</updated>
+        <content type="html"><![CDATA[(서울=뉴스1) 정유진 기자 = 일반적인 상업 영화가 '100만 관객'의 고지를 넘기기도 어려운 시대가 왔다. 코로나19 팬데믹을 기점으로 극장의 수익은 크게 줄었다. 역대 극장 최고 매출액을 달성한 2019년(1조 9139억 8472만 858원) 이후 이듬해인 2020년에는 무려 약 1/4수준(5103억 7392만 2191원)으로 하락했다. 2021년]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['되살아나는 목소리', 13일 개봉..."과거의 책임을 정면으로 마주"]]></title>
         <id>https://v.daum.net/v/20241108234503602</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20241108161914249"/>
         <updated>2024-11-08T08:17:05.610Z</updated>
         <content type="html"><![CDATA[[뉴스엔 배효주 기자] 리들리 스콧 감독이 쿠엔틴 타란티노 감독의 은퇴 선언에 "입 다물고 영화 만들라"고 말해 화제다. 11월 7일(현지시간) 해외 매체 할리우드 리포터에 따르면, 영화 '글래디에이터2' 개봉을 앞둔 리들리 스콧 감독은 인터뷰에서 "쿠엔틴 타란티노 감독의 은퇴 계획에 대해 어떻게 생각하냐"는 질문을 받고 답했다. 리들리 스콧 감독은 퉁명]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[송승헌→조여정 총출동…'히든페이스' 색다른 밀실 소셜 클럽 성료]]></title>
-        <id>https://v.daum.net/v/20241108155617412</id>
-        <link href="https://v.daum.net/v/20241108155617412"/>
-        <updated>2024-11-08T07:13:20.968Z</updated>
-        <content type="html"><![CDATA[반전을 거듭하는 스토리 전개와 밀실 스릴러라는 새로운 장르의 개척으로 호기심을 자극하는 '히든페이스'가 '색다른 밀실 소셜 클럽'을 성황리에 마무리했다. [제공: 스튜디오앤뉴, 쏠레어파트너스(유)  제작: 스튜디오앤뉴  공동제작: 보이드  배급: NEW  감독: 김대우  출연: 송승헌, 조여정, 박지현] 실종된 약혼녀 '수연'의 행방을 쫓던 '성진' 앞]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[넷플릭스 '아케인' 시즌2, 내일 1막 공개…징크스부터 새 캐릭터까지]]></title>
-        <id>https://v.daum.net/v/20241108154917188</id>
-        <link href="https://v.daum.net/v/20241108154917188"/>
-        <updated>2024-11-08T07:13:20.968Z</updated>
-        <content type="html"><![CDATA['아케인' 시즌2가 바로 내일 11월 9일(토) 1막을 공개한다. 전 세계를 강타한 라이엇 게임즈의 리그 오브 레전드(LoL) 세계관을 바탕으로 탄탄한 스토리와 화려한 액션을 담아낸 넷플릭스 애니메이션 시리즈 '아케인'이 시즌2로 돌아온다. 바로 내일, 11월 9일 시즌2의 1막을 시작으로, 11월 16일, 23일에 각각 2막과 3막을 순차적으로 공개한]]></content>
     </entry>
 </feed>
