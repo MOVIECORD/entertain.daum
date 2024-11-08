@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-11-08T12:25:44.699Z</updated>
+    <updated>2024-11-08T13:20:34.329Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[첫방 '열혈사제2' 김남길, 사제복 아닌 승려복 입고 첫등장]]></title>
+        <id>https://v.daum.net/v/20241108221237709</id>
+        <link href="https://v.daum.net/v/20241108221237709"/>
+        <updated>2024-11-08T13:20:19.925Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 오수정 기자) '열혈사제2'에서 김남길이 승려복을 입고 등장했다.&nbsp; 8일 첫 방송된 SBS 새 금토드라마 '열혈사제2' 1회에서는 사제복이 아닌 승려복을 입고 등장한 김해일(김남길 분)의 모습이 그려졌다.&nbsp; 이날 신호동(나선욱)은 스님들과 대치했다. 모든 상황을 법당에서 듣고 있던 김해일.&nbsp; 김해일은 신호동에게 "면상들봐라. 하나같이 저혈압]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[한채영, 종적 감췄던 최웅에 "너 없이 못 살아" 포옹...김규선 목격 '얼음']]></title>
         <id>https://v.daum.net/v/20241108204047673</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20241108171808884"/>
         <updated>2024-11-08T09:13:48.137Z</updated>
         <content type="html"><![CDATA[[SBS연예뉴스 | 강선애 기자] '열혈사제2'가 시즌1 이후 5년 만에 돌아온다. 이번엔 부산으로 배경을 옮겨 한층 더 커진 스케일과 통쾌한 사이다 매력, 유쾌한 코미디로 안방극장에 웃음을 전달한다. 8일 오후 서울 양천구 목동 SBS 사옥에서 SBS 새 금토드라마 '열혈사제2'(극본 박재범, 연출 박보람 김종환) 제작발표회가 열렸다. 이 자리에는 시즌]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[황찬성, 열도 접수 예고…첫 주연작 '준킷사인연' 日 지상파 방영 확정]]></title>
-        <id>https://v.daum.net/v/20241108170820620</id>
-        <link href="https://v.daum.net/v/20241108170820620"/>
-        <updated>2024-11-08T08:17:10.353Z</updated>
-        <content type="html"><![CDATA[[스포츠조선 안소윤 기자] 배우 황찬성 첫 주연작 '준킷사인연(純喫茶イニョン)'이 오는 20일부터 일본 지상파 방송을 시작한다. '준킷사인연'은 상가 변두리에 있는 복고풍 다방을 무대로 꽃미남 한국인 마스터 시우(황찬성)와 "끊어진 인연이 다시 이어진다"라는 신기한 소문이 있는 이 곳을 찾아오는 사람들이 엮어 나가는 이야기를 다룬 판타지 러브]]></content>
     </entry>
 </feed>
