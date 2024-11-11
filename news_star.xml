@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2024-11-11T18:18:01.370Z</updated>
+    <updated>2024-11-11T19:10:37.392Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김효진, 조혜련 연출 '사랑해 엄마' 무대 오른다…'엄마' 역할로 캐스팅]]></title>
+        <id>https://v.daum.net/v/20241112041004725</id>
+        <link href="https://v.daum.net/v/20241112041004725"/>
+        <updated>2024-11-11T19:10:31.894Z</updated>
+        <content type="html"><![CDATA[[스포티비뉴스=김원겸 기자]개그우먼 김효진이 연극 ‘사랑해 엄마’로 관객과 만난다. 연극 ‘사랑해 엄마’는 1980년대 남편 없이 홀로 시장에서 억척스럽게 아들을 키우는 엄마의 애환을 그린 연극으로 오는 22일 서울 대학로 아트하우스에서 개막한다. 이 극에서 김효진은 노점상으로 살아오며, 자식을 위해 헌신하는 평범한 대한민국 엄마 역을 맡았다. 김효]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[가석방 심사관 다룬 ‘이한신’ 18일 첫방… 고수 주연]]></title>
         <id>https://v.daum.net/v/20241112024211467</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20241112011157280"/>
         <updated>2024-11-11T16:18:05.919Z</updated>
         <content type="html"><![CDATA['새신랑' 개그맨 조세호가 술자리에 있는 모습이 포착됐다. 11월 11일 개그맨 겸 치과의사인 김영삼은 "뉴진스님 생일 파티. 오랜만에 만나서 배꼽 삐지게 웃었네요"라며 "이놈의 개그맨들 만나면 누군가 진지한 이야기를 길게 헐수가 없답니다. 그냥 다 자기말만해요. 너무 웃어서. 지금까지 배가 아프네요"라는 글과 함께 동료들과 함께 한 술자리 사진을 공]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘소녀상 모욕’ 미국 유튜버, 편의점 업무방해 혐의로 검찰 송치]]></title>
-        <id>https://v.daum.net/v/20241112011105277</id>
-        <link href="https://v.daum.net/v/20241112011105277"/>
-        <updated>2024-11-11T16:18:05.920Z</updated>
-        <content type="html"><![CDATA[‘평화의 소녀상’에 입을 맞추는 등 기행으로 파문을 일으킨 된 미국인 유튜버가 편의점에서 난동을 부린 혐의로 검찰에 넘겨졌다. 11일 경찰에 따르면 서울 마포경찰서는 지난 6일 유튜버 조니 소말리를 업무방해 혐의로 검찰에 불구속 송치했다. 경찰에 따르면 소말리는 지난달 17일 서울 마포구의 한 편의점에서 노래를 크게 틀고 컵라면에 담긴 물을 테이블에]]></content>
     </entry>
 </feed>
