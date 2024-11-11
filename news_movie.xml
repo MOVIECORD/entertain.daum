@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2024-11-11T02:45:46.688Z</updated>
+    <updated>2024-11-11T03:19:04.878Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘흥행 실패’ 조커2 배우 “역대 최악 영화… 미친 짓이었다”]]></title>
+        <id>https://v.daum.net/v/20241111115904589</id>
+        <link href="https://v.daum.net/v/20241111115904589"/>
+        <updated>2024-11-11T03:18:45.111Z</updated>
+        <content type="html"><![CDATA[레이디 가가와 호아킨 피닉스가 주연한 영화 ‘조커: 폴리 아 되’(조커2)에 출연한 배우가 이 작품을 ‘역대 최악의 영화’라고 자평했다. 다른 배우들도 이미 촬영 현장에서 실패를 예상했다고 그는 전했다. 코미디언이자 배우인 팀 딜런은 지난 6일 격투기 해설자로 유명한 조 로건의 팟캐스트 방송에서 “나는 최근 개봉한 ‘조커2’에 출연했다”며 “이건 지금까지]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["쥐롤라 비켜"…'원조 롤라' 강홍석, '킹키부츠' 성료]]></title>
+        <id>https://v.daum.net/v/20241111115151433</id>
+        <link href="https://v.daum.net/v/20241111115151433"/>
+        <updated>2024-11-11T03:18:45.111Z</updated>
+        <content type="html"><![CDATA[배우 강홍석이 뮤지컬 '킹키부츠' 10주년 공연을 통해 또 한번의 신화를 써내려갔다. 뮤지컬 '킹키부츠'는 제리 미첼 연출, 신디 로퍼 작사·작곡으로 브로드웨이 4대 어워즈를 석권하며 전 세계의 사랑을 받아온 웰메이드 뮤지컬로, 경영악화로 폐업 위기에 처한 영국 노샘프턴의 한 수제화 공장이 남자가 신는 80cm 길이의 부츠인 킹키부츠를 만들어 기적적으로]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[개봉 D-2 '글래디에이터 Ⅱ', 예매율 1위…비수기 뚫을까]]></title>
         <id>https://v.daum.net/v/20241111114512235</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20241111110112115"/>
         <updated>2024-11-11T02:45:26.901Z</updated>
         <content type="html"><![CDATA['베놈: 라스트 댄스' 2위·'아마존 활명수' 3위 [더팩트｜박지윤 기자] 배우 홍경과 노윤서가 청량한 설렘으로 극장가를 완벽히 사로잡았다. 11일 영화진흥위원회 영화관입장권통합전산망에 따르면 '청설'(감독 조선호)은 지난 8일부터 10일까지 16만 8549명의 관객을 사로잡으며 박스오피스 1위를 차지했다. 누적 관객 수는 23만 9547명이다. 지난]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['스페인 거장' 페드로 알모도바르 기획전 개최…강렬한 색채로 담아낸 욕망]]></title>
-        <id>https://v.daum.net/v/20241111105104646</id>
-        <link href="https://v.daum.net/v/20241111105104646"/>
-        <updated>2024-11-11T02:45:26.901Z</updated>
-        <content type="html"><![CDATA[[SBS연예뉴스 | 김지혜 기자] 스페인의 거장 페드로 알모도바르 감독의 대표작 6편으로 구성된 '페드로 알모도바르 기획전'이 CGV명동역 씨네라이브러리와 CGV대구아카데미에서 11월 20일부터 26일까지 7일간 개최된다. 페드로 알모도바르 감독은 스페인을 대표하는 명실상부한 '올타임 레전드' 감독으로 올해 8월 틸다 스윈튼, 줄리안 무어 주연의 '룸 넥스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[청춘 로맨스 '청설' 첫 주말 16만명 1위…'글래디에이터2' 예매율 선두]]></title>
-        <id>https://v.daum.net/v/20241111105031612</id>
-        <link href="https://v.daum.net/v/20241111105031612"/>
-        <updated>2024-11-11T02:45:26.902Z</updated>
-        <content type="html"><![CDATA[대만 인기 영화를 각색한 청춘 로맨스 영화 '청설'이 개봉 첫 주말 박스오피스 정상을 차지했다. 11일 영화진흥위원회 영화관입장권 통합전산망을 보면 지난 주말(8~10일) 사흘간 '청설'(감독 조선호)은 16만8549명을 모아 박스오피스 1위를 차지했다. 매출액 점유율은 26.9%를 나타냈다. 영화는 20대 청년 용준(홍경 분)이 수영장에서 만난 여름(뉴운]]></content>
     </entry>
 </feed>
