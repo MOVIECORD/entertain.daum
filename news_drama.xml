@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-11-15T20:15:32.508Z</updated>
+    <updated>2024-11-15T21:13:04.304Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘쓰레기 남편’ 이이경 이번 결혼은 다르다, 청정+무해 ‘결혼해YOU’]]></title>
+        <id>https://v.daum.net/v/20241116060010608</id>
+        <link href="https://v.daum.net/v/20241116060010608"/>
+        <updated>2024-11-15T21:12:49.163Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 이하나 기자] 결혼과 비혼을 순수하고 무해한 시선으로 바라본 ‘결혼해YOU’가 베일을 벗는다. 11월 16일 채널A 새 토일드라마 ‘결혼해YOU(극본 리나, 연출 황경성)’가 첫 방송된다. ‘결혼해YOU’는 비혼주의 공무원 정하나가 결혼 사기 진작팀을 탈출하기 위해 섬 총각 봉철희를 결혼시키려 고군분투하는 과정을 통해 결혼에 대한 현실적인 고]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘이토록 친밀한 배신자’ 한석규, 채원빈 향한 15년 의심 풀고 진범 최유화 잡았다]]></title>
         <id>https://v.daum.net/v/20241116051146250</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20241115222318011"/>
         <updated>2024-11-15T14:13:35.776Z</updated>
         <content type="html"><![CDATA[[OSEN=박하영 기자] ‘열혈사제2’ 이하늬가 김남길 몸 상태를 걱정했다. 15일 방송된 SBS 금토드라마 ‘열혈사제2’(극본 박재범,&nbsp;연출 박보람,&nbsp;제작 스튜디오S,&nbsp;빅오션ENM,&nbsp;레드나인픽쳐스,&nbsp;길스토리이엔티)에서는 박경선(이하늬 분)이 김해일(김남길 분)을 걱정하는 모습이 그려졌다. 이날 김해일은 박경선에게 거동이 불가능할 수도 있다고 고백하며]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['열혈사제2' 이하늬, 다발성 경화증 김남길 걱정..."몸 좀 사리자"]]></title>
-        <id>https://v.daum.net/v/20241115221313924</id>
-        <link href="https://v.daum.net/v/20241115221313924"/>
-        <updated>2024-11-15T13:22:37.933Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 오수정 기자) '열혈사제2'에서 이하늬가 김남길을 걱정했다.&nbsp; 15일 방송된 SBS 금토드라마 '열혈사제2' 3회에서는 다발성 경화증 진단을 받은 김해일(김남길 분)을 걱정하는 박경선(이하늬)의 모습이 그려졌다.&nbsp; 박경선은 거동이 불가능할 수도 있다는 김해일의 병을 알게됐고, 김해일은 "의사들이 원래 최악의 상황까지 가정하지 않느냐. 하느님께]]></content>
     </entry>
 </feed>
