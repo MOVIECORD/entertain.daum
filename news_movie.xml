@@ -2,11 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2024-11-16T07:12:59.282Z</updated>
+    <updated>2024-11-16T08:17:17.870Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[故 송재림, 유작 ‘폭락’ 남기고 영면]]></title>
+        <title type="html"><![CDATA[아리아나 그란데, 이승국과의 인터뷰에 "시간 더 있었으면" 아쉬움 가득]]></title>
+        <id>https://v.daum.net/v/20241116171526795</id>
+        <link href="https://v.daum.net/v/20241116171526795"/>
+        <updated>2024-11-16T08:16:57.729Z</updated>
+        <content type="html"><![CDATA[[OSEN=최이정 기자]&nbsp;방송인 겸 크리에이터 이승국이 영화 '위키드' 주인공들과 인상 깊은 인터뷰를 나눴다.&nbsp; 이승국은 지난 15일 자신의 유튜브 채널 '천재이승국'을 통해 영화 '위키드' 주인공인 신시아 에리보, 아리아나 그란데와 진행한 인터뷰 영상을 공개했다.&nbsp; 본격적인 인터뷰에 앞서 이승국은 두 배우의 관심사인 점성술에 대해 이야기하며 분위기를]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[故 송재림, 유작 ‘폭락’ 향한 기대와 추모]]></title>
         <id>https://v.daum.net/v/20241116160143631</id>
         <link href="https://v.daum.net/v/20241116160143631"/>
         <updated>2024-11-16T07:12:42.627Z</updated>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20241116060007602"/>
         <updated>2024-11-15T21:12:44.391Z</updated>
         <content type="html"><![CDATA[(엑스포츠뉴스 오승현 기자) 배우 송승헌이 파격 노출을 선보인 '히든페이스'에서의 연기와 박지현을 언급했다.&nbsp; 15일 오전 서울 종로구 삼청동의 한 카페에서 영화 '히든페이스'(감독 김대우) 송승헌과 엑스포츠뉴스가 만났다. 영화 '히든페이스'는 실종된 약혼녀 수연(조여정 분)의 행방을 쫓던 성진(송승헌) 앞에 수연의 후배 미주(박지현)가 나타나고, 사라진]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[재개봉 명작부터 애니까지…극장은 벌써 연말 분위기]]></title>
-        <id>https://v.daum.net/v/20241116043744095</id>
-        <link href="https://v.daum.net/v/20241116043744095"/>
-        <updated>2024-11-15T20:15:15.509Z</updated>
-        <content type="html"><![CDATA[성큼 다가온 추위와 함께 연말 분위기를 느끼게 해주는 액션, 애니메이션, 재개봉 명화 등 다양한 작품들이 관객을 만난다. 데이비드 보위와 사카모토 류이치와 기타노 다케시 등이 출연한 ‘전장의 크리스마스’가 오는 20일 재개봉한다. 1983년 작인 이 영화는 제36회 칸 국제영화제 경쟁 부문에 출품됐으나 당시 국내에선 개봉하지 않았다. 사카모토 류이치의 대]]></content>
     </entry>
 </feed>
