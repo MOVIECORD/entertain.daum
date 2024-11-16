@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2024-11-15T23:13:44.481Z</updated>
+    <updated>2024-11-16T01:05:04.971Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['아노라', 인생 역전을 꿈꿨던 성노동자의 씁쓸한 일장춘몽]]></title>
+        <id>https://v.daum.net/v/20241116100007267</id>
+        <link href="https://v.daum.net/v/20241116100007267"/>
+        <updated>2024-11-16T01:04:46.710Z</updated>
+        <content type="html"><![CDATA[아이즈 ize 정시우(칼럼니스트)플로리다 프로젝트'(2018)로 국내에서도 굳건한 팬층을 확보 중인 션 베이커의 작품이다. 올해 칸 국제영화제 최고상인 황금종려상을 수상하며 '칸 프리미어'도 얻었다. 물론 칸 마크를 보고 겁부터 지레 먹는 관객도 있을 것이다. 그러나 (같은 부분을 수상한) 봉준호의 '기생충'(2019)이 대중적으로도 관객을 설득했듯, 이]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘위키드’ ‘글래디에이터’ ‘모아나2’…초겨울 극장가 할리우드 3파전]]></title>
+        <id>https://v.daum.net/v/20241116090258623</id>
+        <link href="https://v.daum.net/v/20241116090258623"/>
+        <updated>2024-11-16T01:04:46.713Z</updated>
+        <content type="html"><![CDATA[움츠렸던 극장가에&nbsp;초겨울 할리우드 대작이 몰려온다. 연말까지 이어지는 겨울 극장가는&nbsp;‘위키드’&nbsp;‘글래디에이터2’&nbsp;‘모아나2’ 3파전이 될 전망이다.&nbsp; 20일 국내에서 세계 최초로 공개되는 ‘위키드’는 개봉 전부터 호평이 이어지고 있다. 이 영화는 세계적으로 인기인 동명의 뮤지컬을 스크린으로 옮겼다.&nbsp;그레고리 머과이어가 1995년 쓴 원작 소설은&nbsp;2003]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[호평 쏟아진 '글래디에이터2'…3일 연속 1위]]></title>
         <id>https://v.daum.net/v/20241116081249145</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20241115183407560"/>
         <updated>2024-11-15T10:15:07.992Z</updated>
         <content type="html"><![CDATA[[뉴스엔 글 배효주 기자/사진 이재하 기자] 김환희가 '자기만의 방'을 통해 좌충우돌 성장통을 그려낸다. 김환희는 11월 15일 서울 광진구 롯데시네마 건대입구에서 열린 영화 '자기만의 방'(감독 오세호) 언론 시사회 후 간담회를 통해 개봉을 앞둔 소감 등을 밝혔다. 오는 20일 개봉하는 영화 '자기만의 방'은 9남매 가족 속에서 내 방을 지키기 위해 고]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["용기 있게 등 노출도 강행... 영화의 따스함 전하고 싶었다"]]></title>
-        <id>https://v.daum.net/v/20241115181500164</id>
-        <link href="https://v.daum.net/v/20241115181500164"/>
-        <updated>2024-11-15T10:15:07.993Z</updated>
-        <content type="html"><![CDATA[[장혜령 기자] ▲ &nbsp;영화 &lt;한 채&gt; 스틸컷ⓒ 씨네소파(* 이 글은 영화의 스포일러를 포함하고 있습니다.) 영화 &lt;한 채&gt;는 집 한 채를 얻기 위해 두 가족이 신혼부부 특별공급 아파트를 분양받으려는 과정을 담았다. 한국에서 갖기 힘든 아파트를 소재로 가족의 의미를 묻는다. 집 한 채를 위한 처절한 몸부림은 하나의 목적을 위해 맺은 관계의 복잡한 관계를 훑는]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['글래디에이터 Ⅱ', 이틀 연속 1위…'사흘' 2위 출발]]></title>
-        <id>https://v.daum.net/v/20241115174944509</id>
-        <link href="https://v.daum.net/v/20241115174944509"/>
-        <updated>2024-11-15T09:14:34.087Z</updated>
-        <content type="html"><![CDATA[[스포츠투데이 서지현 기자] '글래디에이터 Ⅱ'가 이틀 연속 박스오피스 1위를 차지했다. 15일 영화진흥위원회 영화관입장권 통합전산망에 따르면 전날 영화 '글래디에이터 Ⅱ'는 4만8584명이 관람하며 누적 12만4328명을 기록, 이틀 연속 박스오피스 1위를 지켰다. 2위는 '사흘'이다. 4만5957명이 관람하며 누적 4만7540명이 됐다. 3위는 '청설']]></content>
     </entry>
 </feed>
