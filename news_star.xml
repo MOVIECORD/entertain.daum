@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2024-11-17T16:15:47.024Z</updated>
+    <updated>2024-11-17T17:12:01.312Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘주간반상회’ 임우일 “축의금 대신 내줄 땐 수수료 1300원 받는다”]]></title>
+        <id>https://v.daum.net/v/20241118020826355</id>
+        <link href="https://v.daum.net/v/20241118020826355"/>
+        <updated>2024-11-17T17:11:56.970Z</updated>
+        <content type="html"><![CDATA[조혜련, 김수용, 피터, 하재숙, 임우일이 ‘주간반상회’에서 유쾌 살벌한 토론을 펼쳤다. 17일 유튜브 채널 ‘쉴라면’에서 ‘주간반상회’ 3회가 공개됐다. 이날 조혜련, 김수용, 피터는 게스트 하재숙, 임우일과 ‘이웃 간의 물품 대여! 어디까지 가능한가?’에 대해 심층 토크를 나눴다. 김수용은 “인사하는 사이면 교자상 정도는 빌릴 수 있다”라고 이야]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이주화의 연골 수명 늘리기]]></title>
         <id>https://v.daum.net/v/20241118003024901</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20241117224506188"/>
         <updated>2024-11-17T14:12:15.688Z</updated>
         <content type="html"><![CDATA[[스포츠투데이 임시령 기자] '정년이' 김태리가 매란국극단의 새로운 왕자로 기립박수를 받았다. 17일 방송된 tvN 토일드라마 '정년이' 최종화에서는 윤정년(김태리)가 매란국극단의 새로운 왕자로서 엔딩을 맞았다. 이날 고부장(류승수)는 매란국극단을 찾아가 "지금은 팔 생각이 없어도 곧 팔게 될 것"이라며 협박했다. 우연히 대화를 듣게 된 허영서(신예은)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김종국, 엄마와 여행 중에도 “종아리 운동 해야죠” 짐종국 모드]]></title>
-        <id>https://v.daum.net/v/20241117224200174</id>
-        <link href="https://v.daum.net/v/20241117224200174"/>
-        <updated>2024-11-17T14:12:15.689Z</updated>
-        <content type="html"><![CDATA[김종국이 어머니에게도 짐종국 모드를 보였다. 17일 오후 방송된 SBS 예능프로그램 ‘미운 우리 새끼’(이하 ‘미우새’)에는 대만 여행을 떠난 미우새와 그의 어머니들이 모습을 보였다. 이날 방송에서 미우새와 어머니들은 간단한 게임 후 각자 방으로 향했다. 마음에 드는 방에서 자게 된 김종국 어머니는 “고마워~”라며 화색 했으나 김종국은 “어머니 오늘 종아리]]></content>
     </entry>
 </feed>
