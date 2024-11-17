@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2024-11-17T15:13:00.070Z</updated>
+    <updated>2024-11-17T16:15:47.024Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이주화의 연골 수명 늘리기]]></title>
+        <id>https://v.daum.net/v/20241118003024901</id>
+        <link href="https://v.daum.net/v/20241118003024901"/>
+        <updated>2024-11-17T16:15:42.130Z</updated>
+        <content type="html"><![CDATA[TV조선은 18일 오후 7시 ‘우리동네 건강왕’을 방송한다. 탤런트 이주화가 출연해 무병장수의 핵심, 연골 수명 늘리는 법을 소개한다. 드라마와 연극에서 활약하는 데뷔 30년 차 이주화는 연기에 누구보다 열정적이다. 배역에 무섭게 몰입해 배우계의 ‘카멜레온’이라고 불린다. 연극 무대를 훨훨 날아다닐 것 같지만, 그에게도 시련이 있었다. 10년 전 이주화는]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['5번 공개연애' 이동건, 의자왕 억울함 호소 "솔직했을 뿐"]]></title>
         <id>https://v.daum.net/v/20241118001132817</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20241117224200174"/>
         <updated>2024-11-17T14:12:15.689Z</updated>
         <content type="html"><![CDATA[김종국이 어머니에게도 짐종국 모드를 보였다. 17일 오후 방송된 SBS 예능프로그램 ‘미운 우리 새끼’(이하 ‘미우새’)에는 대만 여행을 떠난 미우새와 그의 어머니들이 모습을 보였다. 이날 방송에서 미우새와 어머니들은 간단한 게임 후 각자 방으로 향했다. 마음에 드는 방에서 자게 된 김종국 어머니는 “고마워~”라며 화색 했으나 김종국은 “어머니 오늘 종아리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['정년이' 김태리, 매란국극단 왕자로 성장→문소리 앞 최고의 무대 완성]]></title>
-        <id>https://v.daum.net/v/20241117223944164</id>
-        <link href="https://v.daum.net/v/20241117223944164"/>
-        <updated>2024-11-17T14:12:15.690Z</updated>
-        <content type="html"><![CDATA[[티브이데일리 최하나 기자] ‘정년이’ 김태리가 떡목의 한계를 극복하고 매란국극단의 진정한 왕자로 거듭났다. 17일 밤 방송된 tvN 토일드라마 ‘정년이’ 12회(마지막 회)에서 윤정년(김태리)과 허영서(신예은)는 아사달 배역을 두고 경쟁했다. 이날 매란 국극단은 위기에 처했다. 쌓인 빚을 갚지 못해 건물을 통째로 넘겨야했다. 이에 허영서는 모친으로부]]></content>
     </entry>
 </feed>
