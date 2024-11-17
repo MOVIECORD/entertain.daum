@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-11-17T02:57:47.918Z</updated>
+    <updated>2024-11-17T03:31:01.530Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['열혈사제2' 김남길, 손끝 도발 엔딩…최고 15.9%]]></title>
+        <id>https://v.daum.net/v/20241117115900658</id>
+        <link href="https://v.daum.net/v/20241117115900658"/>
+        <updated>2024-11-17T03:30:45.833Z</updated>
+        <content type="html"><![CDATA['열혈사제2' 김남길이 살기 어린 괴한과 4대 1 대치를 코앞에 두고, 도발을 가하는 '손끝 까딱' 엔딩으로 긴장감을 끌어올렸다. 지난 16일(토) 방송된 SBS 금토드라마 '열혈사제2'(극본 박재범, 연출 박보람, 제작 스튜디오S, 빅오션ENM, 레드나인픽쳐스, 길스토리이엔티) 4회에서는 김해일(김남길)이 위기에서 구출한 구자영(김형서)을 같은 팀으로]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['다리미 패밀리' 김정현-최태준, 극과 극 엔딩으로 도파민 자극…최고 18.7%]]></title>
         <id>https://v.daum.net/v/20241117114400484</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20241117095426619"/>
         <updated>2024-11-17T01:09:38.104Z</updated>
         <content type="html"><![CDATA[[스포츠조선 조민정 기자] '커넥션', '굿파트너', '지옥에서 온 판사', '열혈사제2'까지. 올해 SBS 금토드라마가 연이어 흥행에 성공하면서 연말 SBS 연기대상의 주인공에 대한 관심이 그 어느 때보다 뜨겁다. 각기 다른 장르와 매력을 선보인 작품들이 시청자들의 마음을 사로잡으며 주연 배우들의 대상 경쟁에 이목이 집중되고 있다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이이경, 쓰레기 남편 지우고 웃음 터졌다]]></title>
-        <id>https://v.daum.net/v/20241117094048432</id>
-        <link href="https://v.daum.net/v/20241117094048432"/>
-        <updated>2024-11-17T01:09:38.106Z</updated>
-        <content type="html"><![CDATA[[OSEN=선미경 기자]&nbsp;'결혼해YOU'&nbsp;시청자들의 취향을 제대로 저격한,&nbsp;웃음 폭탄 드라마가 탄생했다. 지난 16일 종합편성채널 채널A&nbsp;새 토일드라마&nbsp;'결혼해YOU'(극본 리나, 연출 황경성)가 첫 방송됐다.&nbsp;베일을 벗은&nbsp;'결혼해YOU'는&nbsp;60분을 꽉 채운 이이경과 조수민의 코믹한 존재감,&nbsp;찰떡같은 연기합을 보여주며 안방 시청자들의 기대를 완벽히 충족]]></content>
     </entry>
 </feed>
