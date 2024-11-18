@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2024-11-18T13:24:31.496Z</updated>
+    <updated>2024-11-18T14:14:12.808Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[눈빛이 곧 장르...12월 양조위 배우전, '무간도'→'색,계' 11편 상영]]></title>
+        <id>https://v.daum.net/v/20241118230004422</id>
+        <link href="https://v.daum.net/v/20241118230004422"/>
+        <updated>2024-11-18T14:13:55.415Z</updated>
+        <content type="html"><![CDATA[(MHN스포츠 안시현 인턴기자, 장민수 기자) 홍콩을 대표하는 배우 양조위의 대표작들을 4K로 다시 만나볼 수 있는 '양조위 배우전'이 12월 개최된다.&nbsp; '눈빛이 곧 장르'라고 할 정도로 눈빛 하나만으로도 수만 가지 감정들을 표현해내는 배우 양조위는 '화양연화'라는 작품으로 제53회 칸 영화제 남우주연상을 수상하며, 홍콩 배우 중 최초로 칸 영화]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[다시 보는 거장의 이야기...'이명세 감독전', 'M'→'지독한 사랑' 4편 상영]]></title>
         <id>https://v.daum.net/v/20241118222004202</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20241118172414212"/>
         <updated>2024-11-18T09:16:21.848Z</updated>
         <content type="html"><![CDATA[배우 현빈 주연 영화 ‘하얼빈’이 크리스마스 개봉을 확정했다. 19일 CJ ENM은 ‘하얼빈’(감독 우민호)이 오는 12월 25일 개봉을 확정했다고 알렸다. 영화는 1909년, 하나의 목적을 위해 하얼빈으로 향하는 이들과 이를 쫓는 자들 사이의 숨 막히는 추적과 의심을 그린 작품이다. 공개된 보도스틸에는 안중근(현빈), 우덕순(박정민), 김상현(조우진),]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[현빈 '하얼빈' 크리스마스에 본다, 12월25일 개봉]]></title>
-        <id>https://v.daum.net/v/20241118171704996</id>
-        <link href="https://v.daum.net/v/20241118171704996"/>
-        <updated>2024-11-18T08:19:25.718Z</updated>
-        <content type="html"><![CDATA[[스포티비뉴스=강효진 기자] 올 하반기 관객들의 마지막 원픽 '하얼빈'이 12월 25일 개봉을 최종 확정 짓고 1차 스틸을 공개했다. 영화 '하얼빈'은 1909년, 하나의 목적을 위해 하얼빈으로 향하는 이들과 이를 쫓는 자들 사이의 숨 막히는 추적과 의심을 그린 작품. 영화 '하얼빈'이 오는 12월 25일, 크리스마스 개봉을 확정 지었다. 압도적]]></content>
     </entry>
 </feed>
