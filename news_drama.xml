@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-11-20T10:15:38.886Z</updated>
+    <updated>2024-11-20T11:12:14.206Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[심이영, 남편 정영섭 짐에서 최정윤 속옷 발견.. "내 선물이구나?" 오해]]></title>
+        <id>https://v.daum.net/v/20241120194848248</id>
+        <link href="https://v.daum.net/v/20241120194848248"/>
+        <updated>2024-11-20T11:11:59.234Z</updated>
+        <content type="html"><![CDATA[[TV리포트=이혜미 기자] 심이영이 유학을 마치고 돌아온 남편 정영섭의 짐에서 여성의 속옷을 발견했다. 20일 MBC ‘친절한 선주씨’에선 남진(정영섭 분)의 짐에서 상아(최정윤 분)의 슬립을 찾고도 이를 자신의 선물로 오해하는 선주(심이영 분)의 모습이 그려졌다. 이날 상아와의 밀애를 위해 비행기를 놓쳤다고 거짓말을 한 남진은 공항에서 선주를 발견했으나]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김윤혜의 도전, 정은채와 동성 키스신까지..“‘정년이’=새로운 시작”]]></title>
+        <id>https://v.daum.net/v/20241120193652100</id>
+        <link href="https://v.daum.net/v/20241120193652100"/>
+        <updated>2024-11-20T11:11:59.234Z</updated>
+        <content type="html"><![CDATA[[OSEN=김나연 기자]&nbsp;배우 김윤혜가 ‘정년이’를 끝마친 소감을 전했다. 지난 19일 서울 강남구의 한 카페에서는 tvN 토일드라마 ‘정년이’에서 서혜랑 역을 맡은 배우 김윤혜의 종영 인터뷰가 진행됐다. 동명의 웹툰을 원작으로 하는 ‘정년이’는 1950년대 한국전쟁 후를 배경으로, 최고의 국극 배우에 도전하는 타고난 소리 천재 정년이(김태리 분)를 둘]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이민호♥공효진, 우주에서 무중력 스킨십…500억 대작 '별들에게 물어봐' 기대↑]]></title>
         <id>https://v.daum.net/v/20241120191005662</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20241120173416314"/>
         <updated>2024-11-20T09:15:18.947Z</updated>
         <content type="html"><![CDATA[[마이데일리 = 박로사 기자] 배우 백성철이 인생 캐릭터 경신을 예고했다. ENA 월화드라마 ‘취하는 로맨스’에서 백성철은 유쾌하고 순수하지만, 특수부대 출신이라는 반전 매력을 갖춘 오찬휘로 분해 존재감을 뽐내고 있다. 이번 주 방송에서는 찬휘가 민주(이종원)의 조언을 얻어 울적해하는 아름(신도현)에게 위로를 전하는 모습이 그려졌다. 찬휘는 생소한 단어]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[강풀 “영상화 된 ‘조명가게’...원작보다 더 깊고 풍성해졌다”]]></title>
-        <id>https://v.daum.net/v/20241120173311288</id>
-        <link href="https://v.daum.net/v/20241120173311288"/>
-        <updated>2024-11-20T09:15:18.948Z</updated>
-        <content type="html"><![CDATA[강풀 작가가 ‘무빙’의 흥행에 대한 솔직한 부담과, 새롭게 선보이는 ‘조명가게’에 대한 기대를 드러냈다. 월트디즈니 컴퍼니(이하 디즈니)는 20일(현지시간) 싱가포르 마리나 베이 샌즈 컨벤션 센터에서 ‘디즈니 콘텐츠 쇼케이스 APAC 2024(Disney Content Showcase APAC 2024)’에서 ‘조명가게’ 기자간담회가 진행됐다. ‘조명가게’]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[강풀 ‘조명가게’, ‘무빙’ 열풍 잇는다…디즈니, 신작 대거 공개]]></title>
-        <id>https://v.daum.net/v/20241120172852111</id>
-        <link href="https://v.daum.net/v/20241120172852111"/>
-        <updated>2024-11-20T09:15:18.949Z</updated>
-        <content type="html"><![CDATA[“늘 사람에 중점을 두고 이야기를 만든다. ‘조명가게’는 전작 ‘무빙’과는 결이 다르면서도 같은 이야기다. 우리나라에서 호러 장르의 드라마가 잘 만들어지지 않아 시청자들이 어떻게 받아들일지 부담되지만 재미있기 때문에 자신 있다.” 20일 싱가포르 샌드 엑스포 &amp; 컨벤션 센터에서 열린 디즈니플러스 오리지널 시리즈 ‘조명가게’ 기자간담회에서 원작 웹툰의 작가이]]></content>
     </entry>
 </feed>
