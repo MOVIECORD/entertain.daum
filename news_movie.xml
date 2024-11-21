@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2024-11-21T15:15:05.948Z</updated>
+    <updated>2024-11-21T16:17:52.964Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["박은빈-설경구, 본 적 없는 새로운 연기"...'하이퍼나이프', 기대된다]]></title>
+        <id>https://v.daum.net/v/20241122003004197</id>
+        <link href="https://v.daum.net/v/20241122003004197"/>
+        <updated>2024-11-21T16:17:33.660Z</updated>
+        <content type="html"><![CDATA[(MHN스포츠 싱가포르, 장민수 기자)&nbsp;'하이퍼나이프' 배우 설경구와 박은빈의 새로운 얼굴은 어떤 모습일까. 21일(현지시간) 싱가포르 마리나베이 샌즈엑스포&amp;컨벤션센터에서 월트디즈니컴퍼니(이하 디즈니)의 '디즈니 콘텐츠 쇼케이스 APAC 2024'가 개최됐다. 2025년과 이후 극장 개봉작 및 스트리밍 예정작을 미리 만나볼 수 있는 행사다. ']]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[한국영화 흥행 ‘빨간불’, 10월 관객수·매출액 연중 최저치]]></title>
         <id>https://v.daum.net/v/20241122001310131</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20241121182846514"/>
         <updated>2024-11-21T10:15:19.507Z</updated>
         <content type="html"><![CDATA[(MHN스포츠 싱가포르, 장민수 기자) 배우 손석구가 '나인 퍼즐' 속 체중 변화를 눈여겨 봐달라고 당부했다. 21일(현지시간) 싱가포르 마리나베이 샌즈엑스포&amp;컨벤션센터에서 월트디즈니컴퍼니(이하 디즈니)의 '디즈니 콘텐츠 쇼케이스 APAC 2024'가 개최됐다. 2025년과 이후 극장 개봉작 및 스트리밍 예정작을 미리 만나볼 수 있는 행사다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘대가족’ 김윤석·이승기 “최고의 상대배우”]]></title>
-        <id>https://v.daum.net/v/20241121180452870</id>
-        <link href="https://v.daum.net/v/20241121180452870"/>
-        <updated>2024-11-21T09:16:04.962Z</updated>
-        <content type="html"><![CDATA[배우 김윤석과 이승기가 12일 서울 광진구 자양동 롯데시네마 건대입구점에서 열린 영화 ‘대가족’ 제작보고회에서 MC의 질문에 답하며 웃고 있다. 김윤석과 이승기가 브로맨스가 아닌 ‘부자맨스’로 찰떡 호흡을 과시했다. 이들은 12월 11일 개봉하는 영화 ‘대가족’에서 부자로 호흡을 맞추고, 결코 평범하지 않은 아버지와 아들을 연기했다. 가족 코미디를 표방]]></content>
     </entry>
 </feed>
