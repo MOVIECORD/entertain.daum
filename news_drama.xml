@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-11-24T03:33:31.220Z</updated>
+    <updated>2024-11-24T04:16:58.219Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[주지훈♥정유미 공개연애 시작? 과감한 도발→로맨스 물꼬]]></title>
+        <id>https://v.daum.net/v/20241124130538822</id>
+        <link href="https://v.daum.net/v/20241124130538822"/>
+        <updated>2024-11-24T04:16:45.626Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 황혜진 기자] 배우 주지훈이 극 중 공개 연애 내기로 배우 정유미를 도발한다. 11월 23일 첫 방송된 tvN 토일드라마 ‘사랑은 외나무다리에서’에서는 철천지원수에서 첫사랑이 되기까지, 석지원(주지훈 분)과 윤지원(정유미 분)의 18년 애증사가 그려져 흥미를 고조시켰다. 석지원의 아버지 석경태(이병준 분)가 윤재호(김갑수 분)에 대한 복수심으]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘다리미 패밀리’ 돈 찾던 김정현, 신현준에게 딱 걸렸다…위기 폭발]]></title>
         <id>https://v.daum.net/v/20241124122419396</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20241124110752270"/>
         <updated>2024-11-24T02:58:36.502Z</updated>
         <content type="html"><![CDATA[[이데일리 김현식 기자] 배우 한그루가 이혼 후 근황을 알렸다. 한그루는 23일 방송한 KBS 2TV 예능 프로그램 ‘살림하는 남자들 시즌2’에 게스트로 출연했다. 이날 한그루는 첫방송을 앞둔 KBS 2TV 저녁 일일드라마 ‘신데렐라 게임’에 주인공으로 캐스팅됐다고 밝혀 축하를 받았다. 이어 한그루는 MC 백지영의 존재가 ‘살림남’ 출연 결심 이유가]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['지금 거신 전화는' 유연석, 채수빈에 "네가 벗을래, 내가 벗길까"]]></title>
-        <id>https://v.daum.net/v/20241124110218177</id>
-        <link href="https://v.daum.net/v/20241124110218177"/>
-        <updated>2024-11-24T02:58:36.504Z</updated>
-        <content type="html"><![CDATA["무늬만 남편인 주제에" 채수빈이 놓은 덫에 유연석이 제대로 걸려들었다. 지난 23일(토) 방송된 MBC 금토드라마 '지금 거신 전화는'(기획 권성창/ 연출 박상우, 위득규/ 극본 김지운/ 제작 본팩토리, 바람픽쳐스) 2회에서는 백사언(유연석 분)과 홍희주(채수빈 분)의 과감한 밀당이 펼쳐지며 안방극장을 뜨겁게 달궜다. 2회 시청률은 전국 4.7%,]]></content>
     </entry>
 </feed>
