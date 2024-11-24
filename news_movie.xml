@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2024-11-24T08:17:18.049Z</updated>
+    <updated>2024-11-24T09:13:20.416Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['위키드' 美개봉 첫날 '알라딘'∙'레미제라블' 오프닝 수익 뛰어넘었다..압도적']]></title>
+        <id>https://v.daum.net/v/20241124181217951</id>
+        <link href="https://v.daum.net/v/20241124181217951"/>
+        <updated>2024-11-24T09:13:00.515Z</updated>
+        <content type="html"><![CDATA[[OSEN=최이정 기자] 영화 '위키드'(수입/배급: 유니버설 픽쳐스)가 박스오피스모조 기준, 북미에서 '글래디에이터2'를 제치고 압도적 박스오피스 1위에 등극했다. 북미 3,888개 스크린에서 일제히 공개된 영화 '위키드'는 개봉 첫 날 약 46,740,000 달러 수익을 거뒀다.&nbsp; 해외 유수 매체에 따르면 '위키드'는 북미에서 주말 오프닝까지 약 1]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[돌고 돌아 ‘빅2’의 맞대결…넷플릭스 VS 디즈니플러스, K-콘텐츠 놓고 ‘정상대전’]]></title>
+        <id>https://v.daum.net/v/20241124180010715</id>
+        <link href="https://v.daum.net/v/20241124180010715"/>
+        <updated>2024-11-24T09:13:00.516Z</updated>
+        <content type="html"><![CDATA[결국 돌고돌아 대결은 ‘빅2’의 맞대결로 수렴되는 분위기다. 넷플릭스와 디즈니플러스, 디즈니플러스와 넷플릭스. 두 대형 OTT 플랫폼은 저마다의 콘셉트와 형식 그리고 장르로 2024년 연말과 2025년 초 대결을 앞두고 있다. 지난 19일(이하 한국시간) 넷플릭스가 미국 로스앤젤레스(LA)에서 세계 각국 언론사 기자 100여 명을 초청해 비영어권 국가]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[갈채와 박장대소 … 행복의 나라로 이끈 '마법의 무대']]></title>
         <id>https://v.daum.net/v/20241124170000596</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20241124123250499"/>
         <updated>2024-11-24T04:16:41.747Z</updated>
         <content type="html"><![CDATA[[스타뉴스 | 김나라 기자] 왼쪽부터 포미닛 허가윤, 현아, 전지윤, 남지현, 권소현 /사진=스타뉴스영화 '딜러버리'의 배우 권소현이 15일 진행된 인터뷰를 위해 포즈를 취하고 있다. /사진제공=마노엔터테인먼트 2024.11.15 /사진=이동훈 photoguy@연기자 권소현(30)이 포미닛 재결합에 대한 간절한 바람을 드러내며 눈길을 끌었다. 권소현은 2]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['위키드' 4일 연속 박스오피스 1위…주말 관객수 2.5배 급증]]></title>
-        <id>https://v.daum.net/v/20241124121720336</id>
-        <link href="https://v.daum.net/v/20241124121720336"/>
-        <updated>2024-11-24T03:33:10.909Z</updated>
-        <content type="html"><![CDATA["마법 같은 운명의 시작" '위키드'가 흥행 청신호를 켰다. 전 세계 스크린을 뒤흔들 최고의 화제작 '위키드'(수입/ 배급: 유니버설 픽쳐스)가 전 세계 최초 개봉한 대한민국에서 4일 연속 박스오피스 1위에 이어 주말 토요일 관객수가 개봉일 84,931명 및 전날 금요일 관객수 90,852명보다 무려 2.5배 이상 급증한 일일 관객수 214,842명,]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[적대국 아이 위해 체포된 여성... 아동 권리 기구는 그렇게 출발했다]]></title>
-        <id>https://v.daum.net/v/20241124120300153</id>
-        <link href="https://v.daum.net/v/20241124120300153"/>
-        <updated>2024-11-24T03:33:10.911Z</updated>
-        <content type="html"><![CDATA[[김성호 기자] 1차대전이 이제 막 끝난 1919년, 패전국 독일과 오스트리아는 기근이라 해도 좋을 궁핍함을 겪고 있었다. 전란이 지속된 5년여의 시간 동안 막대한 전비를 감당한 건 물론, 돌보지 못해 황폐해진 토지며 승전한 연합국 측의 경제제재로 금융과 무역까지 봉쇄돼 일반 시민의 삶은 눈 뜨고 보기 어려울 만큼 끔찍했다. 파리 강화회의와 베르사유 조약으]]></content>
     </entry>
 </feed>
