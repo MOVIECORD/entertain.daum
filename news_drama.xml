@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-11-25T21:13:33.123Z</updated>
+    <updated>2024-11-25T22:13:52.486Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['정년이' 우다비 "평소 조용했던 부모님도 자랑스러워 하신 작품"]]></title>
+        <id>https://v.daum.net/v/20241126071014501</id>
+        <link href="https://v.daum.net/v/20241126071014501"/>
+        <updated>2024-11-25T22:13:39.649Z</updated>
+        <content type="html"><![CDATA[[스포츠조선 조민정 기자] tvN 토일드라마 '정년이'를 통해 깊은 인상을 남긴 배우 우다비가 가족을 포함한 주변인들의 반응을 전하며 소감을 밝혔다. 지난 25일 오전 우다비는 스포츠조선과 만나 '정년이' 종영 기념 인터뷰에 응했다. tvN 토일드라마 '정년이(극본 최효비, 연출 정지인)'는 1950년대 한국전쟁 직후, 소리 하나만]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘정년이’→‘지옥2’ 문소리 ”비슷한 시기에 다작? 럭키비키“]]></title>
         <id>https://v.daum.net/v/20241126061009713</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20241125190118314"/>
         <updated>2024-11-25T10:15:59.123Z</updated>
         <content type="html"><![CDATA[[OSEN=장우영 기자] 배우 윤상현이 이제껏 본 적 없는 색다른 매력을 발산한다. 오는 12월 23일 첫 방송될 지니 TV 오리지널 드라마 ‘나미브’(극본 엄성민, 연출 한상재 강민구)는 해고된 스타 제작자 강수현(고현정)과 방출된 장기 연습생 유진우(려운)가 만나 각자의 목표를 위해 나아가는 이야기를 담은 드라마. 극 중 윤상현은 강수현의 남편이자]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['7살 딸 둔' 조우진, "죄 지은 아빠" 고백…"베프 되고파"]]></title>
-        <id>https://v.daum.net/v/20241125185501208</id>
-        <link href="https://v.daum.net/v/20241125185501208"/>
-        <updated>2024-11-25T10:15:59.124Z</updated>
-        <content type="html"><![CDATA[[텐아시아=김지원 기자] 조우진이 딸을 향한 애정을 표했다. 25일 서울 삼청동의 한 카페에서 디즈니+ 오리지널 시리즈 '강남 비-사이드'의 주인공 조우진을 만났다. '강남 비-사이드'는 강남에서 사라진 클럽 에이스 재희를 찾는 형사와 검사, 그리고 의문의 브로커, 강남 이면에 숨은 사건을 쫓기 위해 서로 다른 이유로 얽힌 세 사람의 추격 범죄 드라마]]></content>
     </entry>
 </feed>
