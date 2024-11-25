@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2024-11-25T16:17:56.601Z</updated>
+    <updated>2024-11-25T17:13:41.380Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘이모카세’ 김미령, 예약 전화 폭주에도 앱 사용 NO…“옛날 방식대로” 이유는]]></title>
+        <id>https://v.daum.net/v/20241126013000158</id>
+        <link href="https://v.daum.net/v/20241126013000158"/>
+        <updated>2024-11-25T17:13:35.224Z</updated>
+        <content type="html"><![CDATA[김미령 셰프가 엄청난 예약 전화에도 앱을 사용하지 않겠다고 밝혔다. 25일 방송된 SBS ‘동상이몽 2 - 너는 내 운명’에서는 김미령, 이태호 부부의 일상이 그려졌다. 이날 김미령 셰프는 2시가 되자 이모카세 예약을 받기 시작했다. 김미령 셰프는 직접 전화를 받으며 날짜, 인원 등을 체크했다. 예약 전화를 받는 시간은 마감됐지만, 연락은 계속됐다. 부재중]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김혜현VS최호종, “도파민 폭발” 계급 전쟁 지각 변동]]></title>
         <id>https://v.daum.net/v/20241126010015059</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20241126000107550"/>
         <updated>2024-11-25T15:15:36.939Z</updated>
         <content type="html"><![CDATA[[더팩트｜이상빈 기자] 배우 정우성이 모델 문가비 아이의 친부로 밝혀진 동시에 열애설에도 휩싸이면서 복잡한 상황에 놓였는데요. 앞서 지난 22일 문가비는 2년 5개월 만에 올린 소셜미디어 글을 통해 출산 사실을 고백했습니다. 아이 아빠와 결혼 여부는 밝히지 않았습니다. 24일 한 매체의 보도로 문가비 아이의 친부가 정우성이라는 사실이 전해지면서 대중은]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[덱스 "연기에 재미 느껴...팠을 때 최악까지는 아닐 수 있겠단 생각"]]></title>
-        <id>https://v.daum.net/v/20241126000100548</id>
-        <link href="https://v.daum.net/v/20241126000100548"/>
-        <updated>2024-11-25T15:15:36.942Z</updated>
-        <content type="html"><![CDATA[[TV리포트 = 하수나 기자] 빠니보틀이 덱스와 만나 기안84와 이시언이 그를 많이 좋아하고 있다고 밝히며 끈끈한 ‘태계일주’ 우정을 드러냈다.&nbsp; 25일 온라인 채널 ‘덱스101’에선 덱스가 빠니보틀과 만나 찐친 대화를 펼치는 모습이 공개됐다.&nbsp; ‘태계일주’ 시즌2와 시즌3에서 호흡을 맞춘 두 사람. 빠니보틀은 “안 그래도 덱스와 가볍게 만나 찍는다고 하니]]></content>
     </entry>
 </feed>
