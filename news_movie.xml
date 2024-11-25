@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2024-11-25T15:15:42.476Z</updated>
+    <updated>2024-11-25T16:17:56.597Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[홍상수 감독 ‘수유천’, ‘제62회 히혼국제영화제’ 작품상···김민희 최우수 연기상 수상]]></title>
+        <id>https://v.daum.net/v/20241126002706850</id>
+        <link href="https://v.daum.net/v/20241126002706850"/>
+        <updated>2024-11-25T16:17:39.266Z</updated>
+        <content type="html"><![CDATA[해외 배급사 (주)화인컷에 따르면 제62회 히혼국제영화제에서 홍상수 감독의 32번째 장편영화 ‘수유천’이 최우수 작품상과 김민희 배우가 여우주연상을 수상하게 되었다고 25일 전했다. (제목: 수유천 (BY THE STREAM)│제작/각본/감독/촬영/편집/음악: 홍상수│제작실장: 김민희│제작부: 김혜정ㅣ동시녹음: 서지훈ㅣ출연: 김민희, 권해효, 조윤희,]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["곽도원 분량 편집 NO, 진지함으로 승부"...'소방관' 정공법 통할까]]></title>
         <id>https://v.daum.net/v/20241126001005743</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20241125183431844"/>
         <updated>2024-11-25T10:15:54.248Z</updated>
         <content type="html"><![CDATA[[TV리포트=이혜미 기자] 영화 '수유천'이 스페인 히혼영화제 2관왕을 거머쥐었다. 이 영화는 홍상수 감독의 32번째 장편영화로 그의 뮤즈 김민희가 여주인공으로 출연했다. 25일 화인컷에 따르면 '수유천'은 제62회 히혼국제영화제에서 최우수 작품상을 수상했다. 히혼영화제는 스페인 항구 도시 히혼에서 개최되는 유서 깊은 영화제로, 혁신과 개성, 독창성으로 중]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘라이징 스타’ 배우 김지오, BL 드라마 ‘하트 스테인’ 주연 우현 역  발탁]]></title>
-        <id>https://v.daum.net/v/20241125183408840</id>
-        <link href="https://v.daum.net/v/20241125183408840"/>
-        <updated>2024-11-25T10:15:54.250Z</updated>
-        <content type="html"><![CDATA[신예 김지오가 BL 드라마 ‘하트 스테인’ 주연으로 캐스팅됐다고 25일 전했다. 웹툰 ‘하트 스테인’이 드라마로 전격 탄생되는 가운데 김지오가 치열한 오디션 경쟁률을 뚫고 주인공 윤우현 역으로 발탁됐다. 오크컴퍼니에서 제작하는 2025년 상반기 공개될 새 BL 드라마 ‘하트 스테인’은 담임 선생님을 짝사랑하는 친구 윤우현을 좋아하는 박도하, 이 세]]></content>
     </entry>
 </feed>
