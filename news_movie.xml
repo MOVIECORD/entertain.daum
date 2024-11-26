@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2024-11-26T02:56:18.633Z</updated>
+    <updated>2024-11-26T03:28:18.195Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“‘트렁크’ 공유, 고수의 테크닉을 구사하는 배우”]]></title>
+        <id>https://v.daum.net/v/20241126120310058</id>
+        <link href="https://v.daum.net/v/20241126120310058"/>
+        <updated>2024-11-26T03:27:58.963Z</updated>
+        <content type="html"><![CDATA[OTT플랫폼 넷플릭스 새 시리즈 ‘트렁크’ 김규태 감독이 주연인 공유의 테크닉에 감탄했다. 김규태 감독은 26일 오전 서울 강남구 라움아트센터에서 진행된 ‘트렁크’ 제작발표회에서 “공유의 연기를 두고 뭐라고 규정할 지 모르겠더라. 공유의 아우라로 캐릭터의 결핍을 표현하면 이게 어울릴까 걱정됐는데 ‘역시나 이렇게 나올 수 있구나’라고 감탄했다”고 밝혔다]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[독립군 여정 담은 '하얼빈', 100% 리얼리티 도전..3개국 로케이션]]></title>
         <id>https://v.daum.net/v/20241126115520660</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20241126103916756"/>
         <updated>2024-11-26T02:55:57.702Z</updated>
         <content type="html"><![CDATA[배우 정우성(51)이 모델 문가비(35)가 낳은 아들의 친부로 확인된데 이어 일반인 여성과 열애설까지 나오면서 결국 참석하려 했던 청룡영화상에 불참하기로 최종 확정했다. 26일 영화계에 따르면 정우성은 사생활 논란에도 오는 29일 열리는 청룡영화상에 예정대로 참석하려고 했으나, 재논의 끝에 불참하기로 했다. 정우성은 오는 29일 서울 영등포구 여의도 KBS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Z세대 신드롬 '청설' 12월 6일 대만 개봉…원작 감독 응원편지까지]]></title>
-        <id>https://v.daum.net/v/20241126103843717</id>
-        <link href="https://v.daum.net/v/20241126103843717"/>
-        <updated>2024-11-26T02:55:57.707Z</updated>
-        <content type="html"><![CDATA[[이데일리 스타in 김보영 기자] 올가을 극장가에 청량한 설렘을 전하고 있는 영화 ‘청설’(감독 조선호)이 원작을 배출한 대만에서의 개봉을 확정했다. 이와 함께 대만에서 온 응원 편지도 공개했다. 올가을 극장가를 청량하게 물들인 영화 ‘청설’이 올겨울 대만 극장가에도 설렘을 전할 예정이다. 한국영화 박스오피스 1위, 예매율-박스오피스 역주행 등 놀라운 흥]]></content>
     </entry>
 </feed>
