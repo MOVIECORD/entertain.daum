@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2024-11-29T08:19:26.042Z</updated>
+    <updated>2024-11-29T09:15:39.834Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘최정훈♥︎’ 한지민, ‘청룡영화상’ 새 MC..김혜수 뜨거운 응원받았다]]></title>
+        <id>https://v.daum.net/v/20241129174952235</id>
+        <link href="https://v.daum.net/v/20241129174952235"/>
+        <updated>2024-11-29T09:15:22.088Z</updated>
+        <content type="html"><![CDATA[[OSEN=강서정 기자] 배우 한지민이 ‘청룡영화상’ MC 선배인 배우 김혜수에게 뜨거운 응원을 받았다.&nbsp; 한지민은 지난 28일 “고맙습니다. 선배님”라며 김혜수에게 받은 꽃다발 선물이 담긴 사진을 공개했다.&nbsp; 사진에서 한지민은 ‘청룡영화상’을 상징하는 파란색의 장미꽃다발을 들고 있는데, 한지민의 몸을 다 가릴 정도로 큰 사이즈의 꽃다발이 눈길을 끈다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[스타는 대중의 사랑에 책임감 가져야]]></title>
+        <id>https://v.daum.net/v/20241129173904933</id>
+        <link href="https://v.daum.net/v/20241129173904933"/>
+        <updated>2024-11-29T09:15:22.090Z</updated>
+        <content type="html"><![CDATA["대중의 사랑을 먹고 사는 사람은 책임감을 가지고 행동해야 한다." 다음달 4일 개봉하는 영화 '소방관'을 연출한 곽경택 감독이 28일 서울 삼청동에서 진행된 인터뷰에서 주연 배우 곽도원의 음주운전 사건에 대한 의견을 밝혔다. 곽 감독은 "음주운전을 국민들이 무섭게 지적하는 것은 (사고가 날 경우) 혼자만 잘못되는 것이 아니기 때문"이라며 "나라별로 문화가]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[故김수미 숨은 유작 있었다‥‘김새론 복귀작’ 남자 주인공과 호흡]]></title>
         <id>https://v.daum.net/v/20241129165442596</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20241129143455815"/>
         <updated>2024-11-29T06:21:56.745Z</updated>
         <content type="html"><![CDATA[[스타뉴스 | 김나연 기자] 하윤경 / 사진=월트디즈니컴퍼니코리아배우 하윤경이 '강남 비-사이드'에서 호흡을 맞춘 배우들에 대한 존경심을 표현했다. 29일 서울시 종로구 삼청로의 한 카페에서 디즈니+ 오리지널 시리즈 '강남 비-사이드'의 배우 하윤경과 만나 다양한 이야기를 나눴다. '강남 비-사이드'는 강남에서 사라진 클럽 에이스를 찾는 형사와 검사]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['모아나 2' OST 작곡가, 트와이스 나연 노래에 눈물 흘린 사연은?]]></title>
-        <id>https://v.daum.net/v/20241129143024678</id>
-        <link href="https://v.daum.net/v/20241129143024678"/>
-        <updated>2024-11-29T06:21:56.747Z</updated>
-        <content type="html"><![CDATA[(MHN스포츠 송도빈 인턴기자, 정에스더 기자) '모아나 2'의 OST 작곡가가 나연의 노래에 눈물을 보였다. 영화 '모아나 2'의 OST는 개봉 이후 관객들의 뜨거운 반응을 얻고 있다. 화제가 되고 있는 OST를 제작한 두 작곡가 아비가일 발로우와 에밀리 베어는 이와 관련해 특별한 영상을 공개했다. 해당 영상은 트와이스의 멤버이자 솔로 아티스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['글래디에이터2' 여기 케미 맛집이네..검투사부터 형제까지]]></title>
-        <id>https://v.daum.net/v/20241129142448487</id>
-        <link href="https://v.daum.net/v/20241129142448487"/>
-        <updated>2024-11-29T06:21:56.750Z</updated>
-        <content type="html"><![CDATA[[OSEN=하수정 기자] 스펙터클한 액션과 흡인력 높은 서사로 뜨거운 호평을 모으고 있는 영화 '글래디에이터 Ⅱ'가 각자의 목적과 의도를 가진 인물들이 만나 빚어내는 케미스트리로 관객들의 마음을 사로잡고 있다. #1. 불패의 영웅 ‘아카시우스’ 복수의 검투사 ‘루시우스’의 만남! 로마의 운명을 건 치열한 대결 속 숨 막히는 케미! 첫 번째 케미는 로마]]></content>
     </entry>
 </feed>
