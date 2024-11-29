@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2024-11-29T06:22:13.363Z</updated>
+    <updated>2024-11-29T07:15:12.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김윤석→이승기, '대가족' 개봉 전 주말·개봉일 무대인사 참석!]]></title>
+        <id>https://v.daum.net/v/20241129161217239</id>
+        <link href="https://v.daum.net/v/20241129161217239"/>
+        <updated>2024-11-29T07:14:54.703Z</updated>
+        <content type="html"><![CDATA[올겨울 유일무이한 가족 영화 '대가족'이 개봉 전 주 주말, 개봉일 무대인사를 확정했다. [제공/배급: 롯데엔터테인먼트  제작: 게니우스  각본/연출: 양우석] 영화 '대가족'이 개봉 전 주 주말과 개봉일에 극장을 찾아 준 관객들에게 직접 인사를 전한다. 개봉 전 주 주말인 12월 7일(토), 8일(일) 양일, 그리고 개봉일인 12월 11일(수) 무대인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[헤이든 원, ‘웨스턴 에비뉴’ 주연...할리우드 진출]]></title>
+        <id>https://v.daum.net/v/20241129153000657</id>
+        <link href="https://v.daum.net/v/20241129153000657"/>
+        <updated>2024-11-29T07:14:54.703Z</updated>
+        <content type="html"><![CDATA[‘웨스턴 에비뉴(Western Avenue)’ 주연 헤이든 원이 ‘글로벌 라이징 스타’로 발돋움하기 시작했다. 아마존 프라임 비디오 ‘웨스턴 에비뉴’는 미국에서 비주류로 살아가는 이민자들의 치열한 삶 속 고군분투를 담은 작품으로 할리우드에서 처음 제작한 K-드라마다. 앞서 아시아 국가에서 제작한 우수한 영화들을 소개하는 ‘2024 아시안 월드 영화제(AWF]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[트와이스 나연 때문에 ‘모아나2’ 디즈니 최연소 작곡가 듀오 눈물 흘렸다]]></title>
         <id>https://v.daum.net/v/20241129151735245</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20241129132101744"/>
         <updated>2024-11-29T05:14:20.169Z</updated>
         <content type="html"><![CDATA[배우 정우성의 청룡영화상 참석이 불투명한 가운데 이미 민폐를 제대로 끼쳤다. 김혜수의 뒤를 잇는 새 MC 한지민에 대한 관심도, 수상작(자)에 대한 기대감도 사라졌다. 오로지 정우성의 참석 여부, 참석한다면 혼외자 스캔들에서 시작된 사생활 논란에 대한 입장을 밝힐지에만 모든 시선이 쏠려 있다. 정우성은 오늘(29일) 오후 오후 8시 30분 서울 영등포구 여]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[배구 애니에 '하이큐'가 있다면 영화엔 '1승'이 있다]]></title>
-        <id>https://v.daum.net/v/20241129130006447</id>
-        <link href="https://v.daum.net/v/20241129130006447"/>
-        <updated>2024-11-29T04:17:46.443Z</updated>
-        <content type="html"><![CDATA[[마이데일리 = 박로사 기자] 배구에 관심이 있는 사람도, 없는 사람도 보기 좋은 입문작이 나왔다. 공이 네트를 넘어 상대편 코트에 꽂히는 것처럼 기분 좋은 통쾌함이 107분의 러닝 타임 내내 지속된다. 관객들을 순식간에 코트 한복판으로 안내하는, 국내 최초로 배구를 소재로 한 영화 '1승'(감독 신연식) 이야기다. 영화는 인생도, 커리어도 시원하게 풀린]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이병헌, 가요계가 빼앗긴 숨은 인재..김범수 25주년 개봉 영화 내레이션]]></title>
-        <id>https://v.daum.net/v/20241129124648269</id>
-        <link href="https://v.daum.net/v/20241129124648269"/>
-        <updated>2024-11-29T04:17:46.446Z</updated>
-        <content type="html"><![CDATA[[OSEN=박소영 기자] &lt;김범수 25주년 콘서트 필름 : 여행&gt;에 배우 이병헌이 특별 내레이션으로 출연한다.&nbsp; 이병헌은 최근 &lt;콘크리트 유토피아&gt;에서 완벽에 가까운 연기를 선보여 대중들에게 큰 사랑을 받았다. 그리고 오는 12월 26일 공개를 앞두고 있는 전 세계적인 화제작 [오징어 게임 시즌 2]에서도 주연으로 발탁되어 기대를 모으고 있는 와중 &lt;김]]></content>
     </entry>
 </feed>
