@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2024-11-30T07:13:00.042Z</updated>
+    <updated>2024-11-30T08:17:34.591Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[故김수미 빈자리…정우성 회견장 ‘청룡’이 놓친 것]]></title>
+        <id>https://v.daum.net/v/20241130161610639</id>
+        <link href="https://v.daum.net/v/20241130161610639"/>
+        <updated>2024-11-30T08:17:13.926Z</updated>
+        <content type="html"><![CDATA[▣ 기사 내용 요약 정통 네임드 ‘청룡’, 난데없는 편파 논란 정우성 조명하느라…故 김수미 부재 [티브이데일리 이기은 기자] [티브이데일리 이기은 기자] 혼외자를 책임지겠다는 정우성에게 모든 스포트라이트가 쏠린 가운데, 하늘의 별이 된 고(故) 김수미 존재는 정작 어디에도 없었다. 정통 강호 ‘청룡영화제’가 어느새 “내부 파티”가 됐다는 탄식도 나온다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['가족계획' 어둡지만 따뜻하고 살벌하지만 위트가 넘친다···새로운 K-장르 탄생 예고]]></title>
         <id>https://v.daum.net/v/20241130155450321</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20241130122757494"/>
         <updated>2024-11-30T04:16:44.716Z</updated>
         <content type="html"><![CDATA[[스포티비뉴스=김현록 기자]영화 '위키드'가 1000만 관객을 돌파했다. 신시아 에리보, 아리아나 그란데가 투톱을 맡은 호화로운 뮤지컬 성찬 '위키드'(감독 존 추)는 영화관입장권 통합전산망 기준 30일 오전 7시 기준 100만 관객을 돌파했다. 뜨거운 입소문을 타며 쟁쟁한 경쟁작들의 공세에도 박스오피스 상위권을 유지하고 있는 '위키드'가 앞으로는]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이제훈, 청룡 MC 데뷔 소감 "한지민과 많이 긴장하고 떨어"]]></title>
-        <id>https://v.daum.net/v/20241130120144319</id>
-        <link href="https://v.daum.net/v/20241130120144319"/>
-        <updated>2024-11-30T03:24:42.695Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 | 김나연 기자] 이제훈 / 사진=이제훈 인스타그램배우 이제훈이 청룡영화상 MC로 데뷔한 소감을 밝혔다. 이제훈은 30일 자신의 인스타그램에 "오랜 시간 동경하며 지켜봤던 청룡영화상 사회자로 인사드리게 되어 정말 영광이었습니다"라고 시작하는 글과 여러 사진을 공개했다. 이어 "부족한 부분이 많았지만 너그러운 마음으로 예쁘게 봐주셨으면 하는]]></content>
     </entry>
 </feed>
