@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2024-11-30T08:17:34.591Z</updated>
+    <updated>2024-11-30T09:13:35.385Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["코리아 축하합니다" '위키드' 100만 돌파에 축하 영상]]></title>
+        <id>https://v.daum.net/v/20241130180743545</id>
+        <link href="https://v.daum.net/v/20241130180743545"/>
+        <updated>2024-11-30T09:13:15.075Z</updated>
+        <content type="html"><![CDATA[[서울경제] 올해 최고의 뮤지컬 영화 화제작 ‘위키드’가 100만 관객을 돌파했다. 30일 영화관입장권 통합산망에 따르면 이날 오전 7시 기준 누적관객이 100만 명이었다. 특히 '쟁쟁한 경쟁작들의 공세에도 박스오피스 상위권을 유지하며 꾸준한 입소문 흥행을 이어가고 있어 앞으로의 흥행 성적에 더욱 관심이 집중된다. 이에 ‘위키드’의 주역들이 한국]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['위키드' 100만 돌파, 신시아→아리아나 그란데 "코리아 축하합니다" 감사]]></title>
+        <id>https://v.daum.net/v/20241130173704041</id>
+        <link href="https://v.daum.net/v/20241130173704041"/>
+        <updated>2024-11-30T09:13:15.075Z</updated>
+        <content type="html"><![CDATA[[스포츠투데이 임시령 기자] 영화 '위키드'가 관객 100만을 돌파했다. 30일 오전 7시 기준 영화관입장권 통합전산망에 따르면 '위키드'가 100만 관객을 돌파했다. 특히 '위키드'는 쟁쟁한 경쟁작들의 공세에도 박스오피스 상위권을 유지하며 꾸준한 입소문 흥행을 이어가고 있어 앞으로의 흥행 성적에 더욱 귀추가 주목되고 있다. 이 가운데 '위키드'의 주역]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[故김수미 빈자리…정우성 회견장 ‘청룡’이 놓친 것]]></title>
         <id>https://v.daum.net/v/20241130161610639</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20241130124804594"/>
         <updated>2024-11-30T04:16:44.710Z</updated>
         <content type="html"><![CDATA[[마이데일리 = 이승길 기자] 지난 29일, 서울 여의도 KBS홀에서 열린 제45회 청룡영화상은 올해도 대한민국 영화계를 대표하는 축제로 펼쳐졌다. 영화 팬들과 관계자들이 한자리에 모여 지난 한 해의 영화를 기념하고 축하하는 자리였지만, 이번 시상식에는 아쉬움의 그림자도 드리워졌다. 올해 청룡영화상에서는 배우 故 김수미에 대한 추모가 이뤄지지 않았다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['위키드', 100만 관객 돌파...아리아나 그란데 "축하합니다"]]></title>
-        <id>https://v.daum.net/v/20241130124144544</id>
-        <link href="https://v.daum.net/v/20241130124144544"/>
-        <updated>2024-11-30T04:16:44.712Z</updated>
-        <content type="html"><![CDATA[[TV리포트=김현서 기자] 최고의 화제작 '위키드'가 100만 관객을 돌파했다. 역대급 호평의 주인공인 영화 '위키드'가 영화관입장권 통합전산망 기준 11월 30일 오전 7시 기준 100만 관객을 돌파했다. 이는 "올해 최고의 영화!", "영화관에서 기립박수 칠 뻔", "이건 진짜 뮤지컬 영화 역작. 뮤지컬 VIP석에서 보는 것 이상이었음" 등 음악, 배우]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['위키드', 100만 관객 돌파…"코리아 축하합니다"]]></title>
-        <id>https://v.daum.net/v/20241130122757494</id>
-        <link href="https://v.daum.net/v/20241130122757494"/>
-        <updated>2024-11-30T04:16:44.716Z</updated>
-        <content type="html"><![CDATA[[스포티비뉴스=김현록 기자]영화 '위키드'가 1000만 관객을 돌파했다. 신시아 에리보, 아리아나 그란데가 투톱을 맡은 호화로운 뮤지컬 성찬 '위키드'(감독 존 추)는 영화관입장권 통합전산망 기준 30일 오전 7시 기준 100만 관객을 돌파했다. 뜨거운 입소문을 타며 쟁쟁한 경쟁작들의 공세에도 박스오피스 상위권을 유지하고 있는 '위키드'가 앞으로는]]></content>
     </entry>
 </feed>
