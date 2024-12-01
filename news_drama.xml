@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-12-01T19:11:11.786Z</updated>
+    <updated>2024-12-01T20:15:01.829Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['사외다' 주지훈vs이시우, 정유미와 사택서 동거…삼각관계 시작]]></title>
+        <id>https://v.daum.net/v/20241202051002304</id>
+        <link href="https://v.daum.net/v/20241202051002304"/>
+        <updated>2024-12-01T20:14:47.179Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 이이진 기자) '사랑은 외나무다리에서' 주지훈과 이시우가 정유미와 함께 사택에서 살게 됐다. 1일 방송된 tvN 새 토일드라마 '사랑은 외나무다리에서'(이하 '사외다') 4회에서는 석지원(주지훈 분)과 공문수(이시우)가 사택으로 이사한 모습이 그려졌다. 이날 윤지원(정유미)은 과거 병원 옥상에서 우연히 공문수와 첫 만남을 갖게 된 일을 떠올렸]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["아씨 꿈 이룰 것" 임지연, 윤서아 죽음에 추영우와 이별…아씨 삶 택했다]]></title>
         <id>https://v.daum.net/v/20241202002131125</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20241201220206276"/>
         <updated>2024-12-01T13:21:03.203Z</updated>
         <content type="html"><![CDATA[[텐아시아=김지원 기자] tvN 월화드라마 ‘가석방 심사관 이한신’(이하 ‘이한신’) 권유리가 박노식의 투신 시도 현장을 목격한다. 1일 ‘이한신’ 측이 5회에서 벌어지는 새로운 사건을 담은 스틸컷을 공개했다. 한 노동자의 투신 소동을 담고 있는 사진은 팽팽한 긴장감을 자아내며 극적인 전개를 예고한다. 무엇보다 우현(용진상 역)과 박노식(양복규 역)의]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘사외다’ 정유미, ♥주지훈과 어색한 기류… 전혜진 “드라마 보면 눈 맞더라”]]></title>
-        <id>https://v.daum.net/v/20241201215942262</id>
-        <link href="https://v.daum.net/v/20241201215942262"/>
-        <updated>2024-12-01T13:21:03.206Z</updated>
-        <content type="html"><![CDATA[정유미와 주지훈이 함께 쓰러져 눈을 마주쳤다. 1일 방송된 tvN 드라마 ‘사랑은 외나무다리에서’에서는 갑작스러운 사고로 석지원(주지훈)을 구한 윤지원(정유미)의 모습이 전파를 탔다. 이날 체육관 보수에 나선 석지원과 윤지원에게 묘한 기류가 흘렀다. 사다리를 가지러 간 공문수(이시우)는 맹수아(전혜진)에게 “둘이 있으면 꼭 싸우시더라”라며 서둘렀고,]]></content>
     </entry>
 </feed>
