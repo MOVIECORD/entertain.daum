@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-12-04T03:36:40.053Z</updated>
+    <updated>2024-12-04T04:18:00.243Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[서현진, 비상계엄 취소된 인터뷰 6일 변경..공유는 예정대로 진행]]></title>
+        <id>https://v.daum.net/v/20241204131551735</id>
+        <link href="https://v.daum.net/v/20241204131551735"/>
+        <updated>2024-12-04T04:17:45.322Z</updated>
+        <content type="html"><![CDATA[[OSEN=하수정 기자] '트렁크'의 배우 서현진이 인터뷰를 6일 재개하고, 공유는 원래대로 오는 5일 진행한다.&nbsp; 4일 오후 넷플릭스 측은 "금일 취소된 서현진 배우 인터뷰는 12월 6(금)으로 일정 변경됐으며, 12월 5(목) 공유 배우와 12월 6(금) 정윤하 배우 인터뷰는 기존 일정대로 진행 예정"이라며 공식 입장을 밝혔다.&nbsp; 앞서 서현진은 지난]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['트렁크' 공유, 계엄령 여파 속 인터뷰 변동 無…서현진 연기]]></title>
+        <id>https://v.daum.net/v/20241204130249372</id>
+        <link href="https://v.daum.net/v/20241204130249372"/>
+        <updated>2024-12-04T04:17:45.322Z</updated>
+        <content type="html"><![CDATA[[이데일리 스타in 최희재 기자] 윤석열 대통령의 한밤 중 비상계엄령 선포가 4일 오전 해제된 가운데 드라마 ‘트렁크’ 측이 배우들의 인터뷰 일정을 재공지했다. 공유(왼쪽)과 서현진(사진=이데일리DB)넷플릭스 측은 4일 오후 이데일리에 “‘트렁크’ 인터뷰와 관련해 배우 공유, 정윤하의 인터뷰는 예정대로 진행할 예정이다. 취소됐던 서현진 인터뷰는 6일 진행]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[박명수, 비상계엄 언급 "어처구니 없는 일…다신 없어야"]]></title>
         <id>https://v.daum.net/v/20241204122222662</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20241204100128606"/>
         <updated>2024-12-04T01:08:37.434Z</updated>
         <content type="html"><![CDATA[넷플릭스 시리즈 '트렁크'를 연출한 김규태 감독을 만났다. 김규태 감독은 '우리들의 블루스' '괜찮아, 사랑이야' '라이브' '그 겨울, 바람이 분다' 등의 작품으로 드라마 팬들의 꾸준한 사랑을 받아왔다. 매 작품마다 따뜻한 감성, 아름다운 영상미를 보여준 김규태 감독은 이번 '트렁크'를 통해 결혼을 소제로 한 미스터리 멜로를 선보였다. 시리즈의 주요]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[변우석 '선재'→김수현 '눈물' 덕분에 웃고 울었던 2024년 갑진년]]></title>
-        <id>https://v.daum.net/v/20241204100111598</id>
-        <link href="https://v.daum.net/v/20241204100111598"/>
-        <updated>2024-12-04T01:08:37.439Z</updated>
-        <content type="html"><![CDATA[2024년 갑진년 (甲辰年), 한 해가 또 저물어간다. 올해에는 유독 시청자들의 마음을 설레게 하고, 웃고 울게한 케이블·종편 작품들이 쏟아져 나왔다고 해도 과언이 아니다. iMBC연예는 올 한 해 큰 사랑을 받은 드라마들을 모아봤다. ▶ tvN '선재 업고 튀어' 올 한 해 시청자들의 마음에 불을 지핀 드라마를 꼽으라고 하면 단연 '선재 업고 튀어’]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[겁에 질린 박보영, 밀폐된 엘리베이터에 갇혀…'조명가게' 공개]]></title>
-        <id>https://v.daum.net/v/20241204095811473</id>
-        <link href="https://v.daum.net/v/20241204095811473"/>
-        <updated>2024-12-04T01:08:37.440Z</updated>
-        <content type="html"><![CDATA[디즈니+ 오리지널 시리즈 '조명가게'가 바로 오늘(4일) 첫 공개와 함께 1~4회를 선보인다. 이에 스토리적 궁금증을 자극하는 4회 예고 스틸을 공개해 눈길을 사로잡는다. [연출: 김희원 / 원작&amp;각본: 강풀 / 출연: 주지훈, 박보영, 김설현, 배성우, 엄태구, 이정은, 김민하, 박혁권, 김대명, 신은수, 김선화, 김기해 / 제공: 월트디즈니 컴퍼니 코리]]></content>
     </entry>
 </feed>
