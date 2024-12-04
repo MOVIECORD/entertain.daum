@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2024-12-04T21:14:25.973Z</updated>
+    <updated>2024-12-04T22:14:02.074Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['히든페이스', 슈베르트 선율속 농염한 밀실극이 자아내는 탁월한 스릴감]]></title>
+        <id>https://v.daum.net/v/20241205070029041</id>
+        <link href="https://v.daum.net/v/20241205070029041"/>
+        <updated>2024-12-04T22:13:43.738Z</updated>
+        <content type="html"><![CDATA[[스포츠한국 이유민 기자]&nbsp;슈베르트의 '아르페지오네 소나타'를 따라 흐르는 욕망의 소용돌이가 시작된다. 오는 20일 개봉하는 미스터리 밀실 스릴러 '히든페이스'의 이야기다. 영화 '히든페이스'는 약혼녀 수연(조여정)이 실종된 후, 그의 행방을 찾으려는 성진(송승헌)과 수연의 후배 미주(박지현)가 얽히며 벌어지는 미스터리 스릴러다. 오케스트라 지휘]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[한국영화의 살 길..세계는 넓고 관객은 많다]]></title>
         <id>https://v.daum.net/v/20241205060525409</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20241204193016348"/>
         <updated>2024-12-04T11:12:38.906Z</updated>
         <content type="html"><![CDATA[[마이데일리 = 박로사 기자] 영화 '소방관'이 본격 관객 참여형 기부 챌린지를 시작한다. 4일 영화 '소방관' 측은 유료 관람한 관객 티켓 금액당 119원을 대한민국 소방관 장비 및 처우 개선을 위해 현금 기부하겠다고 밝혔다. 이번 119원 기부 챌린지는 관객들이 영화를 보는 것만으로도 소방관을 위한 기부로 이어지는 형태다. '소방관'을 100만 명 관]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[조여정x조은지, '후궁' 이후 12년만 재회..'히든페이스' GV 뭉친다]]></title>
-        <id>https://v.daum.net/v/20241204191711169</id>
-        <link href="https://v.daum.net/v/20241204191711169"/>
-        <updated>2024-12-04T11:12:38.907Z</updated>
-        <content type="html"><![CDATA[[OSEN=하수정 기자] 지금껏 본 적 없는 색다른 밀실 스릴러로 장기 흥행을 이어가고 있는 영화 ‘히든페이스’가 12월 11일(수) 오후 7시 30분 CGV 용산아이파크몰에서 ‘히든 모먼트 GV’를 확정했다. 실종된 약혼녀 ‘수연’의 행방을 쫓던 ‘성진’ 앞에 ‘수연’의 후배 ‘미주’가 나타나고, 사라진 줄 알았던 ‘수연’이 그들과 가장 가까운 비밀의]]></content>
     </entry>
 </feed>
