@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2024-12-05T03:37:27.650Z</updated>
+    <updated>2024-12-05T04:18:03.742Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[공주 아닌 '곱슬' 영웅 모아나에 MZ세대 가족 열광했다···어드벤처 '모아나 2'가 관객 사로잡은 이유]]></title>
+        <id>https://v.daum.net/v/20241205130023632</id>
+        <link href="https://v.daum.net/v/20241205130023632"/>
+        <updated>2024-12-05T04:17:44.861Z</updated>
+        <content type="html"><![CDATA[[서울경제] “엔딩 오리지널사운드트랙(OST) ‘저 너머로’(Beyond)가 끝날 때까지 자리를 뜰 수 없었다.” ‘모아나 2’를 관람한 관객들 사이에서 나온 반응이다. 실제로 엔딩 크레디트가 올라가도 관객들이 자리를 뜨지 않고 OST를 감상하는데 1분이 지나서 등장한 ‘쿠키영상’은 더욱 자리를 지켜야 하는 이유다. 이 같은 후기가 입소문이 나면서]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[45년만 비상계엄 사태 후..'서울의 봄' 작품상 또 수상]]></title>
+        <id>https://v.daum.net/v/20241205125704531</id>
+        <link href="https://v.daum.net/v/20241205125704531"/>
+        <updated>2024-12-05T04:17:44.861Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 | 김미화 기자] /사진='서울의 봄' 스틸컷 영화 '서울의 봄'이 또 한번 작품상을 받았다. 5일 제11회 한국영화제작가협회상(제협상)는 수상자를 발표 했다. 올해 수상자(작)는 '서울의 봄'(작품상), 김성수 감독(감독상), 장재현 감독(각본상), 조정석·김고은, 지창욱·염혜란이다. 제협상 시상은 한 해 동안 한국 영화계를 빛낸 주역들에]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘트렁크’ 공유, 과거 인터뷰 해명 “오해, 잘못된 역사의식으로 살지 않아”]]></title>
         <id>https://v.daum.net/v/20241205121844542</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20241205112412121"/>
         <updated>2024-12-05T03:00:07.759Z</updated>
         <content type="html"><![CDATA[[SBS 연예뉴스 | 김지혜 기자] 영화 '서울의 봄'이 제작자들이 뽑은 올해의 영화가 됐다. 한국영화제작가협회는 5일 제11회 제협상 수상작(자)을 발표했다. 제협상 시상은 한 해 동안 한국 영화계를 빛낸 주역들에게 감사와 격려의 뜻을 전하는 데에 있다. 올해에도 많은 영화인들과 영화산업 관계자들이 참석해 그 의의를 더할 예정이다. 최고 영예인 작품상 수]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한 달 내내 일했는데 월급 64만 원, 이게 현실입니다]]></title>
-        <id>https://v.daum.net/v/20241205111801834</id>
-        <link href="https://v.daum.net/v/20241205111801834"/>
-        <updated>2024-12-05T03:00:07.761Z</updated>
-        <content type="html"><![CDATA[[조영준 기자] ▲ &nbsp;제50회 서울독립영화제 상영작 &lt;3학년 2학기&gt; 스틸컷ⓒ 서울독립영화제* 이 글은 영화의 스포일러를 포함하고 있습니다. 01. 이란희 감독을 처음 알게 된 것은 영화 &lt;천막&gt;(2016)을 통해서였다. 경영 악화라는 명목으로 노동자들을 해고했던 콜트콜텍과 순식간에 일자리를 잃고 복직을 위해 10여 년의 시간을 투쟁했던 이들의 모습을 극영]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[개봉 30주년 '포레스트 검프', 국내 최초 4K 리마스터링 재개봉]]></title>
-        <id>https://v.daum.net/v/20241205111503674</id>
-        <link href="https://v.daum.net/v/20241205111503674"/>
-        <updated>2024-12-05T03:00:07.763Z</updated>
-        <content type="html"><![CDATA[[스포츠투데이 서지현 기자] '포레스트 검프'가 다시 관객들과 만난다. 롯데시네마는 5일 국내 최초 4K 리마스터링 버전 '포레스트 검프' 단독 개봉을 진행한다고 밝혔다. 지난 1994년 10월 개봉해 올해로 개봉 30주년을 맞은 '포레스트 검프'는 남들보다 조금 부족한 지능과 불리한 신체적 조건을 가진 주인공 포레스트 검프(톰 행크스)가 따뜻하고 순수한]]></content>
     </entry>
 </feed>
