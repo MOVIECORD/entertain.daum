@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2024-12-06T16:17:59.597Z</updated>
+    <updated>2024-12-06T17:13:46.453Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['청룡 신인감독상' 조현철 "'보고타'에서 '너와 나' 시나리오 썼다"]]></title>
+        <id>https://v.daum.net/v/20241207013405600</id>
+        <link href="https://v.daum.net/v/20241207013405600"/>
+        <updated>2024-12-06T17:13:40.165Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 김도형 기자] 6일 오전 서울시 강남구 메가박스 코엑스에서 영화 '보고타: 마지막 기회의 땅'(이하 '보고타')의 제작발표회가 열렸다. 이날 배우 송중기, 이희준, 권해효, 박지환, 조현철, 김종수 그리고 김성제 감독이 참석했다. 최근 '너와 나'로 청룡영화상 신인감독상을 받은 조현철은 "사실 그 영화를 (콜롬비아) 보고타에서 썼다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['열혈사제2' 김남길, 이하늬와 신은정 구하고자 '적진'으로…성준과 '재격돌' 예고]]></title>
         <id>https://v.daum.net/v/20241207010900525</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20241207000015052"/>
         <updated>2024-12-06T15:15:11.231Z</updated>
         <content type="html"><![CDATA[[서울=뉴시스]정서현 인턴 기자 = 야구선수 류현진과 전 야구선수 김태균이 야구 대결을 한다. 7일 오후 9시20분 방송되는 KBS 2TV 예능물 '살림하는 남자들 시즌2'에서 류현진은 야구 선배인 김태균과 만나 자신의 모교로 향한다. 한화 이글스 신인 시절부터 '괴물 투수'로 명성을 떨친 류현진은 한화 이글스 '영구결번 레전드'로 불린 김태균과 함]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[전현무, 열애설 난 홍주연 아나운서 만났다…"눈빛이 달라"]]></title>
-        <id>https://v.daum.net/v/20241207000010044</id>
-        <link href="https://v.daum.net/v/20241207000010044"/>
-        <updated>2024-12-06T15:15:11.233Z</updated>
-        <content type="html"><![CDATA[[서울=뉴시스]정서현 인턴 기자 = KBS 아나운서 출신 방송인 전현무가 홍주연 KBS 아나운서와 첫 만남을 갖는다. 8일 오후 4시 40분 방송되는 KBS 2TV 예능물 '사장님 귀는 당나귀 귀'에서는 선배 전현무와 후배 홍주연의 첫 만남이 성사된다. 이날 전현무는 46기 김진웅, 48기 홍주연. 50기 허유원, 정은혜의 일일 멘토로 나선다. 특히]]></content>
     </entry>
 </feed>
