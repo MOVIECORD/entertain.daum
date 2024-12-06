@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/variety</id>
     <title>다음 연예 ─ 뉴스 ─ 예능</title>
-    <updated>2024-12-06T02:59:20.810Z</updated>
+    <updated>2024-12-06T03:35:53.677Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘데뷔 27년’ 이세영 “너무 바쁘게 살아” 눈물 펑펑]]></title>
+        <id>https://v.daum.net/v/20241206121236811</id>
+        <link href="https://v.daum.net/v/20241206121236811"/>
+        <updated>2024-12-06T03:35:43.759Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 박아름 기자] 배우 이세영이 감동의 눈물을 흘렸다. 지난 12월 5일 방송된 tvN ‘텐트 밖은 유럽-로맨틱 이탈리아 편’ 8회에서는 악마가 사랑한 풍경이라 불리는 세체다(Seceda)로 향하는 라미란, 곽선영, 이주빈, 이세영의 이야기가 공개됐다. 이날 방송은 수도권 가구 기준 최고 5.5%로 8주 연속 케이블과 종편 내 동시간대 1위에 올랐으]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[미스터 백김, 10기 영숙 발까지 말려주며 '심쿵 케어'...'나솔사계'식 남다른 플러팅]]></title>
+        <id>https://v.daum.net/v/20241206115940333</id>
+        <link href="https://v.daum.net/v/20241206115940333"/>
+        <updated>2024-12-06T03:35:43.763Z</updated>
+        <content type="html"><![CDATA[(MHN스포츠 유지연 인턴기자) '나솔사계'에서 첫 데이트 선택을 앞둔 돌싱남녀가 산책 데이트 후 직접 발을 말려주는 세심한 모습을 보여주며 화제를 모았다. 지난 5일 방송된 ENA와 SBS Plus의 '나는 SOLO, 그 후 사랑은 계속된다'(이하 '나솔사계')에서는 '돌싱민박'의 로맨스가 얽히고설켜 가는 가운데, 첫 데이트 선택의 반전 결과가]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[박하선, 유서 읽으며 눈물…남편 류수영에 "딸 성인 되면 재혼해"]]></title>
         <id>https://v.daum.net/v/20241206115801303</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20241206111514396"/>
         <updated>2024-12-06T02:59:10.676Z</updated>
         <content type="html"><![CDATA[[뉴스엔 박아름 기자] 성대현 이성욱 김성수가 새 그룹 론칭을 예고했다. 12월 8일 방송되는 KBS 2TV '개그콘서트'(이하 개콘) 1101회에서는 1990년대를 주름잡았던 R.ef 성대현, 이성욱과 쿨 김성수가 출연한다. 이날 방송에서는 새 코너 '넘어오세요'(가제)가 공개된다. '넘어오세요'는 드라마 현장으로 넘어온 다양한 사람들 사이에서 벌어지]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['트롯챔피언' 김소연, 나영X정슬과 '돌리도' 무대…흥 넘치는 애교]]></title>
-        <id>https://v.daum.net/v/20241206111335299</id>
-        <link href="https://v.daum.net/v/20241206111335299"/>
-        <updated>2024-12-06T02:59:10.677Z</updated>
-        <content type="html"><![CDATA[가수 김소연이 흥 넘치는 애교를 보여줬다. 김소연은 지난 5일 방송된 MBC ON '트롯챔피언'에 출연해 서지오의 '돌리도' 무대를 선보였다. 이날 김소연은 나영, 정슬과 함께 유닛 팀을 꾸려 '돌리도' 무대를 준비했다. 순백 의상과 긴 흑발 머리로 청순 비주얼을 뽐내는 김소연의 매력이 시선을 모았다. 이와 함께 김소연은 환한 미소로 폭발적인 가창력]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한가인, 유튜브 순기능 대박! 5년간 병명 못 찾다 “기적처럼 완치”]]></title>
-        <id>https://v.daum.net/v/20241206111202221</id>
-        <link href="https://v.daum.net/v/20241206111202221"/>
-        <updated>2024-12-06T02:59:10.678Z</updated>
-        <content type="html"><![CDATA[배우 한가인이 5년간 원인불명 어지럼증으로 고통받다, 유튜브 채널을 통해 뜻밖의 해결책을 발견하며 건강을 되찾았다. 5일, 그녀의 유튜브 채널 ‘자유부인’에 올라온 입원 브이로그 영상은 단순한 일상이 아니라 한가인의 새로운 삶의 전환점을 보여주며 큰 화제를 모았다. 영상 속에서 한가인은 건강 문제로 휠체어를 타고 병원에 입원했던 시절의 이야기를 털어놨다.]]></content>
     </entry>
 </feed>
