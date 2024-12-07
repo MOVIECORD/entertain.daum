@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2024-12-07T03:31:41.842Z</updated>
+    <updated>2024-12-07T04:17:55.033Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[봉준호 감독→문소리.."尹 파면·구속하라" 영화인 77개 단체·2518명 긴급성명]]></title>
+        <id>https://v.daum.net/v/20241207124719699</id>
+        <link href="https://v.daum.net/v/20241207124719699"/>
+        <updated>2024-12-07T04:17:37.926Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 | 김미화 기자] 봉준호 감독, 문소리 / 사진=스타뉴스 윤석열 대통령의 비상 계엄 선포 사태 이후 정국이 혼란한 가운데, 영화인들이 모여서 목소리를 냈다. 영화인들은 "윤석열 대통령을 파면하고 구속하라"고 주장했다. 7일 영화인 연대는 '내란죄 현행범' 윤석열을'내란죄 현행범' 윤석열을 파면, 구속하라는 성명을 냈다. 영화인 1차 긴급 성명]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['소방관'을 막을자는 없다!  3일 연속 1위 등극]]></title>
         <id>https://v.daum.net/v/20241207122906536</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20241207074505305"/>
         <updated>2024-12-06T23:14:20.738Z</updated>
         <content type="html"><![CDATA[(서울=뉴스1) 정유진 기자 = '12월 불패'의 역사는 이어질까. 영화 '대가족'의 양우석 감독과 주연 배우 김윤석이 팬데믹 이후에도 흥행 저력을 발휘할 수 있을지 이목이 쏠린다. '대가족'은 스님이 된 아들(이승기 분) 때문에 대가 끊긴 만두 맛집 평만옥 사장(김윤석 분)에게 세상 본 적 없던 귀여운 손주들이 찾아온 뒤, 생각지도 못한 기막힌 동거]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[日 '러브레터' 나카야마 미호, 사망 원인은 '열 쇼크' 가능성→추모 물결]]></title>
-        <id>https://v.daum.net/v/20241207071131115</id>
-        <link href="https://v.daum.net/v/20241207071131115"/>
-        <updated>2024-12-06T22:13:19.516Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 | 김미화 기자] [서울=뉴시스] 일본 배우 나카야마 미호(54)가 사망했다. 6일 일본 공영방송 NHK에 따르면, 나카야마는 이날 오전 도쿄 시부야구 자택에서 숨진 채 발견됐다. 연락이 닿지 않자, 소속사 관계자가 집을 찾았다가 욕실에 쓰러진 나카야마를 발견해 신고했다. 이날 나카야마는 오사카에서 크리스마스 콘서트를 열 계획이었다. '컨디션이]]></content>
     </entry>
 </feed>
