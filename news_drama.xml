@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-12-08T10:14:00.224Z</updated>
+    <updated>2024-12-08T11:11:27.510Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[조수민, 이이경·지이수 매칭 반대..“지이수, 그럴 자격 없어”]]></title>
+        <id>https://v.daum.net/v/20241208200933972</id>
+        <link href="https://v.daum.net/v/20241208200933972"/>
+        <updated>2024-12-08T11:11:14.553Z</updated>
+        <content type="html"><![CDATA[[OSEN=박하영 기자] ‘결혼해YOU’ 조수민이 매칭 반대를 선언했다. 8일 방송된 채널A 토일드라마 ‘결혼해YOU’(극본 리나, 연출 황경성)에서는 정하나(조수민 분)이 봉철희(이이경 분)을 데리고 자리를 벗어나는 모습이 그려졌다. 이날 오인아(지이수 분)는 “우리 진짜 오늘부터 이거 마시면 1일인 거다. 공식 커플. 무르기 없기다”라며 원샷을 했다]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘옥씨부인전’ 임지연, 또 다른 추영우와 만난다]]></title>
+        <id>https://v.daum.net/v/20241208200601916</id>
+        <link href="https://v.daum.net/v/20241208200601916"/>
+        <updated>2024-12-08T11:11:14.553Z</updated>
+        <content type="html"><![CDATA[‘옥씨부인전’ 임지연이 또 다른 추영우를 마주한다. 8일 방송될 JTBC 토일드라마 ‘옥씨부인전’(극본 박지숙, 연출 진혁, 최보윤, 제작 SLL, 코퍼스코리아) 3회에서는 전기수 천승휘(추영우 분)와 똑 닮은 얼굴을 한 사내 성윤겸(추영우 분)이 가짜 옥태영(임지연 분)의 앞에 선다. 가짜 옥태영은 노비 시절 인연을 맺었던 양반 송서인을 천상계 전기수 천]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“진짜 결혼해유?”…턱시도 입은 이이경, 드디어 장가 가나]]></title>
         <id>https://v.daum.net/v/20241208184216880</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20241208151303478"/>
         <updated>2024-12-08T06:18:48.916Z</updated>
         <content type="html"><![CDATA[(엑스포츠뉴스 이예진 기자) '결혼해YOU' 이이경과 조수민의 웨딩 사진이 공개됐다. 동시에 이이경의 감정 폭발 열연이 예고된다. 12월 8일 방송되는 채널A 토일드라마 '결혼해YOU' 7회에서 봉철희(이이경 분)는 본인의 형과 오인아(지이수 분)가 모종의 접선을 가졌다는 사실을 알게 된다. 이로 인해 조카들이 강제 유학행에 처해, 자신과 생이별할 뻔했다는]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['이한신' 권유리, 살인사건 용의자 이학주 의심…수사 시작]]></title>
-        <id>https://v.daum.net/v/20241208150700307</id>
-        <link href="https://v.daum.net/v/20241208150700307"/>
-        <updated>2024-12-08T06:18:48.920Z</updated>
-        <content type="html"><![CDATA['가석방 심사관 이한신' 형사 권유리가 이학주를 향한 수사를 시작한다. 지난 3일 방송된 tvN 월화드라마 '가석방 심사관 이한신'(연출 윤상호/극본 박치형/기획 CJ ENM, KT스튜디오지니 /제작 코탑미디어/이하 '이한신') 6회에서는 한국에 돌아온 지명섭(이학주 분)이 자신의 범행 증거를 가지고 있는 최정학(남민우 분)을 죽이며, 극의 긴장감을 끌]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[임지연, 또다른 추영우 만났다…베일에 싸인 성윤겸 첫등장]]></title>
-        <id>https://v.daum.net/v/20241208144815797</id>
-        <link href="https://v.daum.net/v/20241208144815797"/>
-        <updated>2024-12-08T06:18:48.921Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 황혜진 기자] 배우 임지연이 다른 성윤겸을 마주한다. 12월 8일 방송되는 JTBC 토일드라마 ‘옥씨부인전’(극본 박지숙/연출 진혁, 최보윤) 3회에서 전기수 천승휘(추영우 분)와 똑 닮은 얼굴을 한 사내 성윤겸(추영우 분)이 가짜 옥태영(임지연 분)의 앞에 선다. 가짜 옥태영은 노비 시절 인연을 맺었던 양반 송서인을 천상계 전기수 천승휘로 다시]]></content>
     </entry>
 </feed>
