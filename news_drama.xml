@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-12-09T19:12:02.731Z</updated>
+    <updated>2024-12-09T20:17:19.120Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[서현진, 40대에도 여전한 ♥결혼 가치관…"사는 게 무료한가, 재미없나"]]></title>
+        <id>https://v.daum.net/v/20241210051002664</id>
+        <link href="https://v.daum.net/v/20241210051002664"/>
+        <updated>2024-12-09T20:16:51.745Z</updated>
+        <content type="html"><![CDATA[[텐아시아=류예지 기자]배우 서현진이 작품을 통해 삶을 되돌아봤다. 지난 6일 서울 종로구 삼청동에 위치한 한 카페에서 넷플릭스 '트렁크' 서현진과의 인터뷰를 진행했다. 인터뷰장에는 서현진의 반려견 시더도 함께했다. 서현진은 올해로 13세인 시더를 촬영장이나 행사장에 늘 데리고 다닌다고. '트렁크'는 진짜와 가짜, 원망과 갈망, 모든 것이 뒤얽힌 비밀스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['옥씨부인전' 김선빈, 윤서아 향한 절절한 사랑…몰입감 UP]]></title>
         <id>https://v.daum.net/v/20241209231741826</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20241209194634983"/>
         <updated>2024-12-09T11:12:46.555Z</updated>
         <content type="html"><![CDATA[[TV리포트=이혜미 기자] ‘선주씨’ 송창의가 블랙박스 영상을 통해 최정윤과 정영섭의 내연관계를 확인했다. 직장 선후배를 연기하고 있는 두 남녀가 동거까지 했다는 사실에 송창의는 배신감을 느꼈다. 9일 MBC ‘친절한 선주씨’에선 상아(최정윤 분)와 남진(정영섭 분)의 관계를 알고 분노하는 소우(송창의 분)의 모습이 그려졌다. 이날 상아는 소우가 고전한 고]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[정호연, 이미지 변신 제대로... 풀뱅 앞머리 ‘찰떡’이네]]></title>
-        <id>https://v.daum.net/v/20241209193408742</id>
-        <link href="https://v.daum.net/v/20241209193408742"/>
-        <updated>2024-12-09T11:12:46.556Z</updated>
-        <content type="html"><![CDATA[배우 정호연이 이마를 다 덮는 풀뱅 헤어스타일로 동안 비주얼을 자랑했다. 정호연은 9일 오후 서울 중구 동대문디자인플라자(DDP)에서 진행된 넷플릭스 오리지널 ‘오징어게임’ 시즌2 월드 프리미어 이벤트 핑크 카펫 포토윌 행사에 참석했다. 이날 정호연은 쉬폰이 매력적인 흰색 드레스에 벨벳 소재의 검은 자켓으로 포인트를 더했다. 예전보다 약간 살이 오른]]></content>
     </entry>
 </feed>
