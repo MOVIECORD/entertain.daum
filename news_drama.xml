@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-12-10T13:25:43.855Z</updated>
+    <updated>2024-12-10T14:14:44.010Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김국희, 악랄한 사기꾼 완벽 변신]]></title>
+        <id>https://v.daum.net/v/20241210224202397</id>
+        <link href="https://v.daum.net/v/20241210224202397"/>
+        <updated>2024-12-10T14:14:27.702Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 | 김수진 기자] 배우 김국희가 캐릭터를 흡수한 개성 만점 연기력을 펼쳐내며 강렬한 활약을 선보이고 있다. 김국희는 최근 화제를 모은 쿠팡플레이 시리즈 '가족계획'에서 악랄한 빌런 오길자 역으로 출연, 전작과는 또 다른 새로운 얼굴로 변신하며 등장할 때마다 임팩트 강한 인상을 남겼다. '가족계획'은 기억을 자유자재로 편집할 수 있는 특수한]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['돌싱' 전소민, 이사간 신도시서 ♥카페 사장과 핑크빛…"짝꿍 시너지"]]></title>
         <id>https://v.daum.net/v/20241210222503274</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20241210184101618"/>
         <updated>2024-12-10T10:16:44.465Z</updated>
         <content type="html"><![CDATA[[TV리포트=이혜미 기자] 배우 주지훈이 능청스러운 입담으로 드라마 '조명가게' 출연자들을 웃게 했다. 10일 디즈니플러스 유튜브 채널을 통해 "직접 꾸미는 '조명가게' 페이지"라는 제목으로 주지훈 박보영 엄태구 김설현 김민하 신은수 등 '조명가게' 출연자들이 한데 모인 영상이 공개됐다. 이날 디즈니+ 메인 화면을 꾸미는 시간이 마련된 가운데 주지훈은 '조]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[강기둥, 尹 탄핵 시위에 힘 보탠다…커피 선결제 "선한 영향력 본받겠다"]]></title>
-        <id>https://v.daum.net/v/20241210183414453</id>
-        <link href="https://v.daum.net/v/20241210183414453"/>
-        <updated>2024-12-10T10:16:44.472Z</updated>
-        <content type="html"><![CDATA[[OSEN=장우영 기자] 배우 강기둥이 시위에 참가하는 시민들을 위해 선한 마음을 전했다. 강기둥은 10일 개인 계정에 “추운 날에 시위하러 가는 분들을 위해 2024년 12월 11일부터 여의도 카페에 따뜻한 아메리카노 50잔 선결제 해뒀습니다. 얼마 안되지만 따뜻하게 한 잔 드시고 건강에 유의하시길 바라겠습니다”고 말했다. 강기둥은 선결제를 한 카페의]]></content>
     </entry>
 </feed>
