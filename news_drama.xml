@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-12-12T02:59:22.902Z</updated>
+    <updated>2024-12-12T03:36:30.952Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[황민현, 피 튀기는 입시 뛰어든다…공부밖에 모르는 '스터디그룹' 팀장]]></title>
+        <id>https://v.daum.net/v/20241212120105476</id>
+        <link href="https://v.daum.net/v/20241212120105476"/>
+        <updated>2024-12-12T03:36:16.231Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 박서연 기자] '스터디그룹' 황민현이 피 튀기는 입시에 뛰어든다. 12일 티빙 오리지널 '스터디그룹'(극본 엄선호 오보현 연출 이장훈 유범상) 측은 윤가민(황민현)의 범상치 않은 눈빛이 호기심을 자극하는 ‘맑눈광(맑은 눈의 광인)’ 포스터와 런칭 예고 영상을 동시에 공개해 기대감을 높였다. '스터디그룹'은 공부를 잘하고 싶지만 싸움에만]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[정욱, 건설 회사 대표된다…'수상한 그녀' 캐스팅]]></title>
         <id>https://v.daum.net/v/20241212115134021</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20241212103326065"/>
         <updated>2024-12-12T02:59:07.198Z</updated>
         <content type="html"><![CDATA[김화정 PD(사진=SBS)[이데일리 스타in 김가영 기자] “두 번째 한일전을 준비하고 있어요.” SBS ‘골 때리는 그녀들’ 김화정 PD가 높은 관심을 모은 한일전이 다시 한번 열린다고 귀띔했다. 최근 이데일리와 만난 김화정 PD는 “복수전을 해야 한다는 의견도 많고 큰 사랑을 받은 만큼 준비를 하려고 한다”며 “이영표 감독님도 복수에 대한 의지가 가장]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[예능 새 장 연 '골때녀'…김화정 PD "새로운 바람 필요했죠"①]]></title>
-        <id>https://v.daum.net/v/20241212103224018</id>
-        <link href="https://v.daum.net/v/20241212103224018"/>
-        <updated>2024-12-12T02:59:07.202Z</updated>
-        <content type="html"><![CDATA[김화정 PD(사진=SBS)[이데일리 스타in 김가영 기자] “‘골 때리는 그녀들’이 잘 되면서 마니아층이 생겼고, 4년 째 접어들며 장수 프로그램이 됐어요. 그만큼 새로운 바람이 필요하다고 생각을 했죠.” SBS ‘골 때리는 그녀들’ 김화정 PD가 메인 PD를 내려놓고 여러 프로젝트·사업을 담당하는 역할을 본격적으로 맡은 것에 대해 이같이 설명했다. 최근]]></content>
     </entry>
 </feed>
