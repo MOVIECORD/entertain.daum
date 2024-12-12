@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2024-12-12T10:15:53.139Z</updated>
+    <updated>2024-12-12T11:12:49.281Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[웃기 힘든 코미디 영화, '1승'의 무리수]]></title>
+        <id>https://v.daum.net/v/20241212200300854</id>
+        <link href="https://v.daum.net/v/20241212200300854"/>
+        <updated>2024-12-12T11:12:27.968Z</updated>
+        <content type="html"><![CDATA[원종빈 영화전문기자 * 이 글에는 영화의 스포일러가 있습니다. 지도자 생활 내내 10% 이상의 승률을 기록한 적이 없는 배구 선수 출신 감독 '우진'(송강호). 아내와도 이혼하고 맡은 팀도 없던 그에게 천금 같은 기회가 찾아온다. 해체 직전의 프로 여자배구단 '핑크스톰'의 감독을 맡아 달라는 제안을 받은 것. 에이스 '성유라'가 이적하면서 오합지졸이 된 팀]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[올해 대종상 개최 무산, 법원이 상표권 입찰]]></title>
         <id>https://v.daum.net/v/20241212185701654</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20241212171039579"/>
         <updated>2024-12-12T08:19:44.222Z</updated>
         <content type="html"><![CDATA[[이데일리 스타in 김보영 기자] 12월 극장가에 기분 좋은 에너지를 선사하고 있는 영화 ‘1승’(감독 신연식)이 황정민, 변요한, 엄태구 등 셀럽들의 리뷰 포스터를 공개했다. 지난 4일 개봉한 ‘1승’은 이겨본 적 없는 감독과 이길 생각 없는 구단주, 이기는 법 모르는 선수들까지 승리의 가능성이 1도 없는 프로 여자배구단이 1승을 위해 도전에 나서는 이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['퍼스트 레이디', 탄핵 정국 정조준…문제적 영화 통할까]]></title>
-        <id>https://v.daum.net/v/20241212170612400</id>
-        <link href="https://v.daum.net/v/20241212170612400"/>
-        <updated>2024-12-12T08:19:44.224Z</updated>
-        <content type="html"><![CDATA[[SBS 연예뉴스 | 김지혜 기자] 영화 '퍼스트 레이디'가 탄핵 정국과 맞물려 관객의 호응을 얻을 수 있을지 관심이 모아진다. '퍼스트 레이디'는 고가의 디올백 수수, 양평고속도로 노선 변경, 민간인 국정 개입 의혹 등 논란의 중심에 서 있는 김건희 여사에 대한 이야기를 다룬 다큐멘터리 영화. 김건희 여사 관련 보도를 쏟아냈던 서울의 소리가 공동제작에 나]]></content>
     </entry>
 </feed>
