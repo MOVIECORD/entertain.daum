@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2024-12-12T12:29:05.718Z</updated>
+    <updated>2024-12-12T13:25:36.155Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[파산 위기 페라리? 개봉 앞두고 윤곽 잡혔다]]></title>
+        <id>https://v.daum.net/v/20241212213005236</id>
+        <link href="https://v.daum.net/v/20241212213005236"/>
+        <updated>2024-12-12T13:25:18.963Z</updated>
+        <content type="html"><![CDATA[(MHN스포츠 이서현 인턴기자, 장민수 기자) 새해 개봉을 예고한 영화 '페라리'가 일부 에피소드를 엿볼 수 있는 스틸컷을 공개하며 윤곽을 드러냈다. 12일&nbsp;'페라리'의 스틸 9장이 공개됐다.&nbsp;'페라리'는 파산 위기에 놓인 최고이자 최악의 1년이 그려진 실화드라마다. 주연을 맡은 아담 드라이버, 페넬로페 크루즈, 쉐일린 우들리는 이들 사이에 얽힌]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[韓 근현대 영화 4편 국가유산 된다]]></title>
         <id>https://v.daum.net/v/20241212212140127</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20241212175032118"/>
         <updated>2024-12-12T09:15:35.323Z</updated>
         <content type="html"><![CDATA[(서울=뉴스1) 정유진 기자 = 배우 이하늬가 배우 하정우가 연출하는 영화 '윗집 사람들'(가제)에 출연한다. 12일 영화계에 따르면 이하늬는 하정우가 연출하는 영화 '윗집 사람들'에 합류했다. '윗집 사람들'은 하정우의 네 번째 연출작으로 층간 소음을 계기로 만난 두 부부가 저녁 식사를 하면서 벌어지는 이야기를 그린다. 앞서 배우 공효진과 김동욱이 출]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[설현♥엄태구, 섬뜩 공포에서 절절한 멜로로…'조명가게' 이런 반전이]]></title>
-        <id>https://v.daum.net/v/20241212175004094</id>
-        <link href="https://v.daum.net/v/20241212175004094"/>
-        <updated>2024-12-12T09:15:35.323Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 윤현지 기자) ※ 작품의 스포일러가 포함돼 있습니다.&nbsp; 마지막만을 남겨둔 '조명가게'가 분위기를 뒤집었다.&nbsp; 지난 5일 디즈니+ 오리지널 시리즈 '조명가게'가 첫 선을 보였다. 10부 이상 긴 호흡의 시리즈를 제외하고는 한 주에 한 에피소드 공개를 원칙으로 하던 디즈니는 '조명가게'의 첫 공개에서 절반 회차인 4화까지, 이후에는 2회씩 공개를]]></content>
     </entry>
 </feed>
