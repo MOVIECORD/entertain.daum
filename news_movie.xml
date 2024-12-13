@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2024-12-13T22:14:20.089Z</updated>
+    <updated>2024-12-13T23:14:20.404Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘끌올’ 된 '서울의 봄', 탄핵 정국 떠오르는 영화들]]></title>
+        <id>https://v.daum.net/v/20241214074006553</id>
+        <link href="https://v.daum.net/v/20241214074006553"/>
+        <updated>2024-12-13T23:14:03.418Z</updated>
+        <content type="html"><![CDATA[(서울=뉴스1) 정유진 기자 = 윤석열 대통령의 비상계엄령 선포 및 해제 이후 무려 10일 넘게 이어지고 있는 탄핵 정국. 국회는 14일 오후 야당 주도로 윤석열 대통령의 탄핵소추안을 발의, 재 표결을 앞두고 있다. 이처럼 혼란스러운 정치적 상황을 맞닥뜨린 국민들은 과거의 교훈을 되짚기 위해, 혹은 공감하기 위해 몇몇 영화들을 '다시보기' 하고 있다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["신작 아냐?" "명작이야"…극장가는 지금 재개봉 '열풍']]></title>
         <id>https://v.daum.net/v/20241214071101377</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20241213202207207"/>
         <updated>2024-12-13T12:27:54.234Z</updated>
         <content type="html"><![CDATA[[OSEN=김수형 기자]'프리한 닥터'에서 정우성이 양다리가 아니었음을 강조해 눈길을 끌었다.&nbsp; 13일 방송된 tvN 예능 프로그램 '프리한 닥터'에서는 정우성의 혼외자 논란 진실에 대해 짚어봤다. 한 연예부 기자는 2024년 연예계 사건 중 지금까지도 이슈가 이어지고 있는 '정우성 혼외자 논란'에 대해 언급 "충격이 가장 컸다"며 운을 뗐다.&nbsp; 앞서]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[국힘 동생, 김여사 폭로→개봉 연기, 긴급 성명...영화계 탄핵 정국 여파 ing]]></title>
-        <id>https://v.daum.net/v/20241213193005471</id>
-        <link href="https://v.daum.net/v/20241213193005471"/>
-        <updated>2024-12-13T11:12:32.652Z</updated>
-        <content type="html"><![CDATA[(MHN스포츠 장민수 기자) 12.3 비상계엄 사태 및&nbsp;윤석열 대통령 탄핵 정국이&nbsp;이어지면서 영화계도 크고 작은 영향을 받고 있다. 지난 4일 개봉한 영화 '소방관'은 때아닌 불매 운동에 휩싸였다. 영화를 연출한 곽경택 감독의 동생인 곽규택 의원이 탄핵을 반대하고 있는 국민의힘 소속이라는 점 때문.&nbsp; 이에 곽 감독은 지난 12일 "최근 제]]></content>
     </entry>
 </feed>
