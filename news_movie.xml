@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2024-12-13T20:16:36.681Z</updated>
+    <updated>2024-12-13T21:13:24.027Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["새해엔 웃자" 신현준, 故김수미 비보 오열→고인의 유작 포스터 '먹먹']]></title>
+        <id>https://v.daum.net/v/20241214061021887</id>
+        <link href="https://v.daum.net/v/20241214061021887"/>
+        <updated>2024-12-13T21:13:02.968Z</updated>
+        <content type="html"><![CDATA[[OSEN=김수형 기자]&nbsp;배우 신현준, 김수미가 출연한 '귀신경찰'의 모션 포스터가 공개되며 먹먹함을 안기고 있다.&nbsp; 최근 '귀신경찰의' 공개된 1차 포스터는&nbsp;신현준과 김수미가 함께 하는 분량의 마지막 촬영 현장에서 신현준의 아이디어로 현장에서 즉흥으로 촬영된 컷으로 김수미가 직접 그 자리에서 고른 컷이 포스터로 탄생하게 되었다.&nbsp; 특히 '맨발의 기봉이]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[명작 영화들, 연말 리마스터링·특별관으로 다시 만난다]]></title>
+        <id>https://v.daum.net/v/20241214055108659</id>
+        <link href="https://v.daum.net/v/20241214055108659"/>
+        <updated>2024-12-13T21:13:02.970Z</updated>
+        <content type="html"><![CDATA[극장업계에 명작 재개봉이 줄을 잇는다. 개봉한 지 수십 년이 흐른 영화들을 4K 리마스터링 버전으로 선보이는가 하면 명배우의 출연작을 모아 상영하기도 한다. 롯데시네마는 개봉 20주년을 맞은 ‘이터널 선샤인’을 전 세계 최초 4K 리마스터링 버전으로 오는 18일 단독 재개봉한다. 2005년 개봉한 ‘이터널 선샤인’은 지금까지도 로맨스 영화의 수작으로 꼽힌]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[안야 테일러 조이X마일스 텔러 '더 캐니언'…2월 공개]]></title>
         <id>https://v.daum.net/v/20241214050005230</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20241213183301406"/>
         <updated>2024-12-13T10:15:32.604Z</updated>
         <content type="html"><![CDATA[[뉴스엔 배효주 기자] 고(故) 송재림 배우의 유작 영화이자 가상화폐 시장에 뛰어든 천재 사업가의 욕망을 담아낸 영화 ‘폭락’이 스틸 9종을 공개했다. 1월 15일 개봉하는 영화 ‘폭락’(감독 현해리)은 50조원의 증발로 전 세계를 뒤흔든 가상화폐 대폭락 사태 실화를 기반으로 한 범죄드라마다. 돌이킬 수 없는 선택을 하는 청년 사업가의 연대기를 통해 스타]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['소방관' 10일째 119만 돌파…기부 챌린지 1억 4161만원 달성]]></title>
-        <id>https://v.daum.net/v/20241213182931309</id>
-        <link href="https://v.daum.net/v/20241213182931309"/>
-        <updated>2024-12-13T10:15:32.604Z</updated>
-        <content type="html"><![CDATA[[이데일리 스타in 김보영 기자] 실화의 뜨거운 감동을 스크린에서 새롭게 선사할 영화 ‘소방관’(감독 곽경택)이 개봉 10일째 의미 있는 숫자 119만 관객을 돌파했다. (사진=바이포엠 스튜디오)연일 호평을 쏟아내며 올겨울 극장가를 뜨겁게 달구고 있는 영화 ‘소방관’이 영화관입장권 통합전산망 집계 결과 13일(금) 오후 3시 20분 기준 개봉 10일째]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[정성일, 김혜수 만나고 첫 주연까지‥2025년 나이스한 열일 예고]]></title>
-        <id>https://v.daum.net/v/20241213182732274</id>
-        <link href="https://v.daum.net/v/20241213182732274"/>
-        <updated>2024-12-13T10:15:32.605Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 배효주 기자] 정성일의 존재감이 2025년 더욱 빛날 예정이다. 지난해 넷플릭스 ‘더 글로리’ 시리즈로 대세 배우 대열에 합류하며 대체 불가한 존재감을 과시했던 정성일이 잠시 숨을 고르고 파격적으로 넷플릭스 영화 ‘전,란’을 택했다. 정성일은 지금껏 본 적 없는 정성일만의 왜군 장수 겐신을 표현하며 전 세계 시청자들의 시선을 사로잡으며 다시금 화]]></content>
     </entry>
 </feed>
