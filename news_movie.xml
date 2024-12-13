@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2024-12-13T10:15:52.496Z</updated>
+    <updated>2024-12-13T11:12:50.286Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[국힘 동생, 김여사 폭로→개봉 연기, 긴급 성명...영화계 탄핵 정국 여파 ing]]></title>
+        <id>https://v.daum.net/v/20241213193005471</id>
+        <link href="https://v.daum.net/v/20241213193005471"/>
+        <updated>2024-12-13T11:12:32.652Z</updated>
+        <content type="html"><![CDATA[(MHN스포츠 장민수 기자) 12.3 비상계엄 사태 및&nbsp;윤석열 대통령 탄핵 정국이&nbsp;이어지면서 영화계도 크고 작은 영향을 받고 있다. 지난 4일 개봉한 영화 '소방관'은 때아닌 불매 운동에 휩싸였다. 영화를 연출한 곽경택 감독의 동생인 곽규택 의원이 탄핵을 반대하고 있는 국민의힘 소속이라는 점 때문.&nbsp; 이에 곽 감독은 지난 12일 "최근 제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘서울의 봄’ 김성수 감독도 영화인 시국 성명 “질서 있는 조기 퇴진? 즉각 탄핵!”]]></title>
         <id>https://v.daum.net/v/20241213185313847</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20241213172647074"/>
         <updated>2024-12-13T09:15:34.881Z</updated>
         <content type="html"><![CDATA[[이데일리 스타in 김보영 기자] 배우 정성일의 존재감이 2025년 활발한 작품 행보로 더욱 빛날 예정이다. 정성일. (사진=엑스와이지 스튜디오)지난해 넷플릭스 ‘더 글로리’ 시리즈로 대세 배우 대열에 합류하며 대체 불가한 존재감을 과시했던 정성일이 잠시 숨을 고르고 파격적으로 넷플릭스 영화 ‘전,란’을 택했다. 정성일은 지금껏 본 적 없는 정성일만의 왜]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['소방관', 개봉 10일째 119만 관객 돌파]]></title>
-        <id>https://v.daum.net/v/20241213172014901</id>
-        <link href="https://v.daum.net/v/20241213172014901"/>
-        <updated>2024-12-13T09:15:34.884Z</updated>
-        <content type="html"><![CDATA['소방관'이 개봉 10일째에 119만 관객을 돌파했다. 13일 영화관입장권 통합전산망에 따르면 영화 '소방관'은 119만 관객을 극장가로 불러모았다. 이 작품은 1인 티켓 금액당 119원을 내년 개원 예정인 국립소방병원에 현금 기부하는 '119원 기부 챌린지'를 진행하고 있다. '소방관' 측에 따르면 1억 4,161만 원을 넘어선 상황이다. 작품은 대한민국]]></content>
     </entry>
 </feed>
