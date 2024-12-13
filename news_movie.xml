@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2024-12-13T03:01:01.495Z</updated>
+    <updated>2024-12-13T03:38:31.722Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“50조가 증발됐다” 故 송재림 유작 ‘폭락’, 스틸컷 공개..1월 개봉]]></title>
+        <id>https://v.daum.net/v/20241213120123014</id>
+        <link href="https://v.daum.net/v/20241213120123014"/>
+        <updated>2024-12-13T03:38:12.122Z</updated>
+        <content type="html"><![CDATA[[OSEN=김채연 기자] 고(故) 송재림의 유작 영화이자 가상화폐 시장에 뛰어든 천재 사업가의 욕망을 담아낸 영화 ‘폭락’이 스틸 9종을 공개했다. 영화 ‘폭락’은 50조원의 증발로 전 세계를 뒤흔든 가상화폐 대폭락 사태 실화를 기반으로 한 범죄드라마로, 돌이킬 수 없는 선택을 하는 청년 사업가의 연대기를 통해 스타트업 투자의 이면과 낮엔 주식, 밤엔 코]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['서울의 봄' 김성수 외 6338명 "尹 즉각 탄핵→'국민의 힘' 내란 동조 중단하라"]]></title>
         <id>https://v.daum.net/v/20241213115930898</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20241213105951585"/>
         <updated>2024-12-13T03:00:40.799Z</updated>
         <content type="html"><![CDATA[[스포츠한국 이유민 기자] 올겨울 최고의 기대작 '하얼빈'이 치열한 여정과 긴박한 순간을 담아낸 2차 보도스틸 12종을 공개한다. 배급사 CJ ENM은 영화 '하얼빈'의 2차 스틸컷 12종을 공개해 기대감을 높였다. '하얼빈'은 1909년, 하나의 목적을 위해 하얼빈으로 향하는 이들과 이를 쫓는 자들 사이의 숨 막히는 추적과 의심을 그린 작품이다]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김윤석X이승기 "가까워질 수 있을까"...'대가족' 스페셜 포스터 공개]]></title>
-        <id>https://v.daum.net/v/20241213105652489</id>
-        <link href="https://v.daum.net/v/20241213105652489"/>
-        <updated>2024-12-13T03:00:40.800Z</updated>
-        <content type="html"><![CDATA[아이즈 ize 이경호 기자'대가족'이 스페셜 포스터를 공개해 주말 예매를 유발하고 있다. 13일 영화 '대가족' 측은 한국영화 실관람객 평점 1위 기념 스페셜 포스터를 공개했다.&nbsp; '대가족'은 스님이 된 아들 함문석(이승기) 때문에 대가 끊긴 만두 맛집 평만옥 사장 함무옥(김윤석)에게 세상 본 적 없던 귀여운 손주들이 찾아오면서 생각지도 못한 기막힌 동거]]></content>
     </entry>
 </feed>
