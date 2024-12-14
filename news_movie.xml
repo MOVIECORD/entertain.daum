@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2024-12-14T06:19:52.445Z</updated>
+    <updated>2024-12-14T07:13:46.542Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[정우성, 양다리 아니었다..전연인과 결별 후 ‘아들 母’ 문가비와 관계 “교제는 안해”]]></title>
+        <id>https://v.daum.net/v/20241214153926260</id>
+        <link href="https://v.daum.net/v/20241214153926260"/>
+        <updated>2024-12-14T07:13:29.351Z</updated>
+        <content type="html"><![CDATA[[OSEN=강서정 기자] 배우 정우성이 모델 문가비와 혼외자 스캔들로 여전히 관심을 받고 있는 가운데 “양다리와 아니었다”는 주장이 등장했다. 양다리 의혹으로 많은 비난을 받았는데 이 같은 주장이 나오면서 논란에서 벗어날 기회가 생겼다.&nbsp; 지난 13일 방송된 tvN 예능프로그램 ‘프리한 닥터’에서 정우성의 혼외자 논란 진실을 다뤘다. 한 연예부 기자는]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["VIP2 들어 봤어?"···김건희 영화 '퍼스트레이디' 누적 관객 1만 돌파]]></title>
         <id>https://v.daum.net/v/20241214150748736</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20241214083300964"/>
         <updated>2024-12-14T01:05:50.695Z</updated>
         <content type="html"><![CDATA[[OSEN=하수정 기자] 실화의 뜨거운 감동을 스크린에서 새롭게 선사할 영화 '소방관'이 뜨거운 입소문을 이어가고 있는 가운데, 전주 금요일과 비교 일일 관객수가 증가하며 진정한 개싸라기 흥행을 제대로 증명했다.&nbsp; 영화 '소방관이 12월 13일(금) 일일 박스오피스 13만 8,837명, 누적 관객수 124만 6,603명을 모으며 전주 금요일 11만 2,]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['끌올' 된 '서울의 봄', 탄핵 정국 떠오르는 영화들]]></title>
-        <id>https://v.daum.net/v/20241214074006553</id>
-        <link href="https://v.daum.net/v/20241214074006553"/>
-        <updated>2024-12-13T23:14:03.418Z</updated>
-        <content type="html"><![CDATA[(서울=뉴스1) 정유진 기자 = 윤석열 대통령의 비상계엄령 선포 및 해제 이후 무려 10일 넘게 이어지고 있는 탄핵 정국. 국회는 14일 오후 야당 주도로 윤석열 대통령의 탄핵소추안을 발의, 재 표결을 앞두고 있다. 이처럼 혼란스러운 정치적 상황을 맞닥뜨린 국민들은 과거의 교훈을 되짚기 위해, 혹은 공감하기 위해 몇몇 영화들을 '다시보기' 하고 있다.]]></content>
     </entry>
 </feed>
