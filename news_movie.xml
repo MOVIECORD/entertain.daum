@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2024-12-14T12:25:26.670Z</updated>
+    <updated>2024-12-14T13:20:48.458Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[박찬욱 감독도 선결제, '尹 탄핵안 가결' 의미 더한 여의도 집회 응원]]></title>
+        <id>https://v.daum.net/v/20241214221632876</id>
+        <link href="https://v.daum.net/v/20241214221632876"/>
+        <updated>2024-12-14T13:20:27.848Z</updated>
+        <content type="html"><![CDATA[[OSEN=연휘선 기자]&nbsp;영화감독 박찬욱이 윤석열 대통령 탄핵 촉구 집회에 참석하는 시민들을 위해&nbsp;응원을 보낸 가운데 탄핵안이 가결돼 더욱 훈훈함을 자아내고 있다. 14일 OSEN 단독 보도를 통해&nbsp;박찬욱 감독이 이날 서울 여의도 국회의사당 앞에서 탄핵 촉구 집회에 참석한 시민들에게 직접 빵을 구매해 나눠준 일이 알려졌다. 박찬욱 감독은 이날 국회의사당]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김건희 여사 의혹 다룬 ‘퍼스트레이디’, 탄핵 가결과 함께 전국관객 1만 돌파]]></title>
         <id>https://v.daum.net/v/20241214212306298</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20241214114548311"/>
         <updated>2024-12-14T02:54:28.467Z</updated>
         <content type="html"><![CDATA[[스타뉴스 | 김나연 기자] 오징어 게임 시즌2 / 사진=넷플릭스넷플릭스(Netflix) 시리즈 '오징어 게임' 시즌2가 이색 팬 이벤트와 프리미어를 통해 전 세계 팬들과의 뜨거운 만남을 가졌다. 미국 LA 현지 시간 기준 12월 12일 '오징어 게임' 시즌2의 황동혁 감독, 이정재, 이병헌, 임시완, 양동근, 강애심, 이서환, 조유리가 미국 LA 팬]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[최민식 "젊은 세대에 미안하다" …아이유·유리는 '선결제']]></title>
-        <id>https://v.daum.net/v/20241214110943843</id>
-        <link href="https://v.daum.net/v/20241214110943843"/>
-        <updated>2024-12-14T02:54:28.468Z</updated>
-        <content type="html"><![CDATA[자신이 좋아하는 스타의 응원봉을 들고 집회에 나가는 것이 새로운 집회 문화가 된 가운데 스타들은 지갑을 열었습니다. 가수 겸 배우 아이유가 먼저 팬들을 위해 먹거리와 핫팩을 지원했습니다. 아이유의 소속사 이담엔터테인먼트는 "추운 날씨에 아이크를 들고 집회에 참석해 주변을 환히 밝히고 있는 유애나들의 언 손이 조금이라도 따뜻해지길 바란다"며 집회가 열리]]></content>
     </entry>
 </feed>
