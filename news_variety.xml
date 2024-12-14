@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/variety</id>
     <title>다음 연예 ─ 뉴스 ─ 예능</title>
-    <updated>2024-12-14T19:11:04.109Z</updated>
+    <updated>2024-12-14T20:15:02.172Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[전소민, ‘런닝맨’ 하차 후 충격 근황 “카페 아르바이트 했었다”]]></title>
+        <id>https://v.daum.net/v/20241215051121255</id>
+        <link href="https://v.daum.net/v/20241215051121255"/>
+        <updated>2024-12-14T20:14:51.583Z</updated>
+        <content type="html"><![CDATA[[OSEN=강서정 기자] 배우 전소민이 ‘런닝맨’에서 6년 6개월 만에 하차한 지 1년여 만에 충격적인 근황을 전했다. 카페에서 아르바이트를 하며 생활했다는 것.&nbsp; 지난 13일 방송인 지석진의 유튜브 콘텐츠 ‘지편한세상’에는 배우 전소민과 최다니엘이 게스트로 출연했다. 지석진은 SBS ‘런닝맨’ 하차 1년 만에 만난 전소민을 향해 여전히 “전소발이”라고]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘전지적 참견 시점’ 윤종훈, 절친 엄기준 결혼에 “축의금 일생에서 가장 많이 할 것”]]></title>
         <id>https://v.daum.net/v/20241215015213974</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20241214234823375"/>
         <updated>2024-12-14T15:13:29.942Z</updated>
         <content type="html"><![CDATA[[뉴스엔 서유나 기자] 크리에이터 랄랄의 회사가 공개됐다. 12월 14일 방송된 MBC 예능 '전지적 참견 시점'(이하 '전참시') 325회에서는 랄랄의 일상이 공개됐다. 이날 랄랄의 차와 회사는 독특한 색감으로 눈길을 사로잡았다. 차 내부 시트는 민트색이었고, '랄랄랜드'라는 건물 역시 민트색으로 칠해져 있었다. 전현무와 양세형은 "와 재밌게 산다"]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[랄랄, 부캐 이명화 대박난 후… "보톡스·리프팅 못해" 답답함 토로]]></title>
-        <id>https://v.daum.net/v/20241214234634363</id>
-        <link href="https://v.daum.net/v/20241214234634363"/>
-        <updated>2024-12-14T15:13:29.942Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 이유림 기자) 랄랄이 부캐 '이명화'로 인해 시술은 보류하고 있다고 밝혔다.&nbsp; 14일 방송된 MBC ‘전지적 참견 시점’에서는 각종 부캐들로 유튜브를 접수한 166만 크리에이터 랄랄이 '이명화'의 모티브와 성형 관련해 솔직한 입담을 뽐냈다.&nbsp; 이날 부캐릭터인 '이명화'의 모티브에 대해 랄랄은 "모티브가 없다. 어느 날 분장을 했는데 어디서 많]]></content>
     </entry>
 </feed>
