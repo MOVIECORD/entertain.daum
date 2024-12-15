@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2024-12-15T08:17:23.620Z</updated>
+    <updated>2024-12-15T09:14:20.623Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘하얼빈’ 개봉 9일전, 전체 예매율 1위]]></title>
+        <id>https://v.daum.net/v/20241215172119190</id>
+        <link href="https://v.daum.net/v/20241215172119190"/>
+        <updated>2024-12-15T09:14:01.825Z</updated>
+        <content type="html"><![CDATA[영화 ‘하얼빈’이 개봉 9일 전 전체 예매율 1위에 올라섰다. ‘하얼빈’은 15일 오후 12시 46분 영화관입장권 통합전산망 집계 기준, 사전 예매량 83383장을 돌파하며 전체 예매율 1위에 등극했다. ‘하얼빈’은 1909년, 하나의 목적을 위해 하얼빈으로 향하는 이들과 이를 쫓는 자들 사이의 숨 막히는 추적과 의심을 그린 작품이다. ‘소방관’ ‘]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[재개봉 확대·대작 일정 조정···뒤숭숭한 극장가 '전략 수정']]></title>
         <id>https://v.daum.net/v/20241215171553094</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20241215144949204"/>
         <updated>2024-12-15T06:19:09.556Z</updated>
         <content type="html"><![CDATA[[OSEN=유수연 기자]&nbsp;올겨울 최고의 기대작 '하얼빈'이 개봉 9일 전 전체 예매율 1위에 등극했다.&nbsp; 영화 '하얼빈'(감독 우민호,&nbsp;제공/배급&nbsp;CJ ENM, 제작&nbsp;하이브미디어코프)&nbsp;은 1909년, 하나의 목적을 위해 하얼빈으로 향하는 이들과 이를 쫓는 자들 사이의 숨 막히는 추적과 의심을 그린 작품. 영화 '하얼빈'이 영화관입장권 통합전산망 집계]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[안중근 된 현빈 ‘하얼빈’ 개봉 9일 전인데‥전체 예매율 1위]]></title>
-        <id>https://v.daum.net/v/20241215144651165</id>
-        <link href="https://v.daum.net/v/20241215144651165"/>
-        <updated>2024-12-15T06:19:09.557Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 박아름 기자] '하얼빈'이 전체 예매율 1위에 등극했다. 영화 '하얼빈'은 영화관입장권 통합전산망 집계 기준, 개봉 9일 전인 12월 15일 오후 12시 46분 사전 예매량 8만3,383장을 가뿐히 돌파, 전체 예매율 1위를 차지했다. '하얼빈'은 1909년, 하나의 목적을 위해 하얼빈으로 향하는 이들과 이를 쫓는 자들 사이의 숨 막히는 추]]></content>
     </entry>
 </feed>
