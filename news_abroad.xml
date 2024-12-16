@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2024-12-15T23:14:06.955Z</updated>
+    <updated>2024-12-16T01:11:33.986Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["망가진 얼굴, 기생충 때문" 주장한 스타, "필러 다 녹였다" 고백]]></title>
+        <id>https://v.daum.net/v/20241216092118532</id>
+        <link href="https://v.daum.net/v/20241216092118532"/>
+        <updated>2024-12-16T01:11:33.298Z</updated>
+        <content type="html"><![CDATA[[OSEN=최이정 기자] 미국 NBC사의 케이블 채널 Bravo TV&nbsp;리얼리티 쇼 '비버리힐즈의 리얼 하우스 와이브즈(Real Housewives of Beverly Hills)'에 출연한&nbsp;브랜디 글랜빌(52)이 충격적인 얼굴 근황으로 팬들을 놀라게 한 가운데 성형외과 의사는 그녀의 얼굴을 '시한폭탄'이라고 불렀다. 브랜디 글랜빌의 얼굴을 본&nbsp;성형외과]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[니콜 키드먼 “2008년 첫 딸 낳고 은퇴할 뻔, 어머니가 포기하지 말라고…”]]></title>
         <id>https://v.daum.net/v/20241216080712473</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20241215104456518"/>
         <updated>2024-12-15T03:05:16.877Z</updated>
         <content type="html"><![CDATA[[뉴스엔 장예솔 기자] 뇌졸중 투병 끝에 성공적으로 복귀한 할리우드 배우 제이미 폭스가 폭행 사건에 연루됐다. 12월 14일(현지시간) 해외매체 페이지식스는 제이미 폭스가 미국 LA에서 열린 자신의 생일파티에서 일반인과 말다툼을 벌이던 중 누군가가 던진 유리잔에 맞아 부상 부위를 꿰맸고, 현재 회복 중이라고 보도했다. 사건 현장에 출동한 경찰은 당사자]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['뇌졸중 극복' 제이미 폭스, 생일파티서 유리잔 폭행 당해.."경찰 수사"]]></title>
-        <id>https://v.daum.net/v/20241215081419759</id>
-        <link href="https://v.daum.net/v/20241215081419759"/>
-        <updated>2024-12-15T01:13:19.224Z</updated>
-        <content type="html"><![CDATA[[OSEN=최이정 기자] 배우 제이미 폭스가&nbsp;생일 저녁 식사 중 일방적 폭행을 당했다. 제이미 폭스는 지난 금요일 밤 미국 로스앤젤레스의 한 인기 레스토랑에서 57세 생일 파티를 하는 동안 한 일반인과의 말다툼에 연루됐다. 제이미 폭스 측은 이와 관련, 페이지식스에 "제이미 폭스가 생일 저녁 식사를 하던 중 다른 테이블의 누군가가 그의 입에 유리 파편을]]></content>
     </entry>
 </feed>
