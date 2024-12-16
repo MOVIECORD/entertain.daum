@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2024-12-16T12:29:52.837Z</updated>
+    <updated>2024-12-16T13:25:34.828Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[크리스마스는 류이치 사카모토 영화와 함께...따스한 선율 더하다]]></title>
+        <id>https://v.daum.net/v/20241216220005274</id>
+        <link href="https://v.daum.net/v/20241216220005274"/>
+        <updated>2024-12-16T13:25:15.864Z</updated>
+        <content type="html"><![CDATA[(MHN스포츠 유지연 인턴기자) 영화 '류이치 사카모토: 오퍼스'가 추운 연말 따뜻한 선물처럼 관객들을 찾아간다. 세계적인 음악 거장 류이치 사카모토의 마지막 연주를 담은 콘서트 필름 영화 '류이치 사카모토: 오퍼스'가 오는 24일부터 아트나인, 오는 25일부터 31일까지 CGV 아트하우스에서 특별 상영된다. 류이치 사카모토가 세상에 남긴 음악]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[尹 탄핵안 가결에 김건희 영화 '퍼스트레이디' 관심···박스오피스 '5위' 등극]]></title>
         <id>https://v.daum.net/v/20241216201217131</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20241216183743571"/>
         <updated>2024-12-16T10:16:25.511Z</updated>
         <content type="html"><![CDATA[[스타뉴스 | 김나라 기자] 배우 송혜교가 16일 오전 서울 용산구 아이파크몰 CGV에서 진행된 영화 '검은 수녀들' 제작보고회에 참석해 포즈를 취하고 있다.  '검은 수녀들'은 '검은 사제들'의 두 번째 이야기로 강력한 악령에 사로잡힌 소년을 구하기 위해 금지된 의식에 나서는 사람들의 이야기를 그린 영화다. 내년 1월 24일 개봉. 2024.12.16 /]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[기자 억류 후 "어느 쪽?" 물어본 군인... 누가 분열을 조장하는가]]></title>
-        <id>https://v.daum.net/v/20241216183600528</id>
-        <link href="https://v.daum.net/v/20241216183600528"/>
-        <updated>2024-12-16T10:16:25.512Z</updated>
-        <content type="html"><![CDATA[[이선필 기자] 주말이었던 지난 14일 국민은 응원봉을 들고 광장에 나와 윤석열 대통령의 탄핵소추안 국회 본회의 가결을 이뤄냈다. 추운 날씨에 200만 명(주최 측 추산)이 모여 국회의사당을 둘러쌌고, 12.3 내란 사태 주범인 '윤석열 탄핵'을 부르짖었다. 결과는 재석 300명 중 204표로 가결. 탄핵소추안 가결 전날인 13일 윤 대통령의 지지율이 11]]></content>
     </entry>
 </feed>
