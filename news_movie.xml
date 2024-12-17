@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2024-12-17T16:19:35.791Z</updated>
+    <updated>2024-12-17T17:13:45.785Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[심바 아빠와 삼촌은 어쩌다 숙적이 됐나…디즈니 영화 '무파사']]></title>
+        <id>https://v.daum.net/v/20241218020009846</id>
+        <link href="https://v.daum.net/v/20241218020009846"/>
+        <updated>2024-12-17T17:13:25.890Z</updated>
+        <content type="html"><![CDATA[(서울=연합뉴스) 오보람 기자 = 디즈니 작품을 논할 때 '라이온 킹'을 빼놓는 건 불가능에 가깝다. 1994년 개봉한 이 작품은 한 해 동안 세계에서 7억8천만달러(약 1조1천200억원)의 극장 매출을 올리며 대흥행했다. 더 주목해야 할 것은 '라이온 킹'이 동화를 원작으로 하지 않고 순수 창작 각본을 토대로 만든 첫 디즈니 애니메이션이라는 점이다. 아프]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[11월 극장가, ‘모아나 2’ ‘위키드’ 등 외화 웃었다]]></title>
+        <id>https://v.daum.net/v/20241218010312670</id>
+        <link href="https://v.daum.net/v/20241218010312670"/>
+        <updated>2024-12-17T17:13:25.891Z</updated>
+        <content type="html"><![CDATA[지난달 한국 영화 관객 수와 매출액이 큰 폭으로 떨어졌다. 반면, ‘모아나 2’를 비롯해 가족 단위 관객을 겨냥한 영화들이 잇달아 개봉하며 외화는 좋은 성적표를 받아들었다. 17일 영화진흥위원회가 발표한 영화산업 결산 자료에 따르면 지난달 한국 영화 관객 수는 263만명, 매출액은 246억원으로 나타났다. 지난해 같은 달 대비 각각 39%(168만명),]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[100년 만에 부활한 공포... '노스페라투' 뱀파이어의 저주가 시작된다]]></title>
         <id>https://v.daum.net/v/20241217233003975</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20241217210652671"/>
         <updated>2024-12-17T12:28:18.079Z</updated>
         <content type="html"><![CDATA[[OSEN=박소영 기자] 영화 ‘서울의 봄’ 김성수 감독이 비상계엄을 선포한 윤석열 대통령을 향해 쓴소리를 날렸다.&nbsp; 17일 오후 서울 동교동 인디스페이스에서 ‘제11회 한국영화제작가협회상’ 시상식이 열린 가운데 영화 ‘서울의 봄’의 김성수 감독이 감독상과 작품상을 거머쥐었다.&nbsp; 김성수 감독은 “준비하고 개봉까지 불안감과 걱정이 너무 많았다. 팬데믹 시]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['서울의 봄' 김성수 감독 "정신나간 대통령 어처구니 없는 쿠데타" 尹계엄 작심 비판]]></title>
-        <id>https://v.daum.net/v/20241217210343652</id>
-        <link href="https://v.daum.net/v/20241217210343652"/>
-        <updated>2024-12-17T12:28:18.080Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 | 윤상근 기자] (서울=뉴스1) 권현진 기자 = 김성수 감독이 17일 서울 마포구 인디스페이스에서 열린 ‘제11회 한국영화제작가협회상’에 참석해 영화 '서울의 봄'으로 ‘감독상’을 받은 뒤 소감을 말하고 있다. 2024.12.17/뉴스1  Copyright (C) 뉴스1. All rights reserved. 무단 전재 및 재배포,  AI학습]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['검은 수녀들' 권혁재 감독 "수녀 송혜교, 얼굴 자체가 미장센"]]></title>
-        <id>https://v.daum.net/v/20241217210005594</id>
-        <link href="https://v.daum.net/v/20241217210005594"/>
-        <updated>2024-12-17T12:28:18.084Z</updated>
-        <content type="html"><![CDATA[(MHN스포츠 장민수 기자) 영화 '검은 수녀들' 권혁재 감독이 배우 송혜교의 얼굴을 주목할 것을 당부했다. '검은 수녀들'은 강력한 악령에 사로잡힌 소년을 구하기 위해 금지된 의식에 나서는 사람들의 이야기를 그린 영화다.&nbsp; 송혜교가 악령에 사로잡힌 소년을 구하기 위해 수단과 방법을 가리지 않는 유니아 수녀 역을 맡았다. 유니아에 반발심을 가지]]></content>
     </entry>
 </feed>
