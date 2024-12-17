@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-12-17T03:34:49.230Z</updated>
+    <updated>2024-12-17T04:18:07.827Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['열혈사제2' 왜 봐요?]]></title>
+        <id>https://v.daum.net/v/20241217124933942</id>
+        <link href="https://v.daum.net/v/20241217124933942"/>
+        <updated>2024-12-17T04:17:53.167Z</updated>
+        <content type="html"><![CDATA[[OSEN=박소영 기자] SBS&nbsp;금토드라마&nbsp;‘열혈사제2’가 꼬리에 꼬리를 무는 흥미를 전하는&nbsp;‘쿠키 영상’에서 뽑은&nbsp;‘수미상관 포인트’를 공개했다. 종영까지 단&nbsp;2회만을 앞둔&nbsp;SBS&nbsp;금토드라마&nbsp;‘열혈사제2’(극본 박재범,&nbsp;연출 박보람,&nbsp;제작 스튜디오S,&nbsp;빅오션ENM,&nbsp;레드나인픽쳐스,&nbsp;길스토리이엔티)는 지난&nbsp;13일(금)&nbsp;방송된&nbsp;10회에서&nbsp;6주 연속 동시간]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['남장' 김지은, 배인혁 "위기 느껴"..'체크인 한양', '성균관 스캔들'과 다른 청춘사극]]></title>
         <id>https://v.daum.net/v/20241217123153759</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20241217120100164"/>
         <updated>2024-12-17T03:34:34.722Z</updated>
         <content type="html"><![CDATA[[뉴스엔 글 김명미 기자/사진 이재하 기자] 청춘 사극 '체크인 한양'이 안방을 찾는다. 12월 17일 오전 서울 강남구 논현동 엘리에나호텔에서 채널A 새 토일드라마 '체크인 한양'(극본 박현진/연출 명현우/기획 채널A/제작 위매드, 아티스트스튜디오, 스토리네트웍스/공동 제작 투자PONY CANYON) 제작발표회가 진행됐다. 이날 배우 배인혁, 김지은,]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[배인혁 “연달아 사극 세 작품...다른 모습 보여줄 것”]]></title>
-        <id>https://v.daum.net/v/20241217120003995</id>
-        <link href="https://v.daum.net/v/20241217120003995"/>
-        <updated>2024-12-17T03:34:34.724Z</updated>
-        <content type="html"><![CDATA[배우 배인혁이 연달아 사극 드라마에 도전하게 된 소감을 전했다. 17일 오전 서울 강남구 엘레이나 호텔에서 채널A 새 토일드라마 ‘체크인 한양’ 제작발표회가 진행됐다. 이날 현장에는 배우 배인혁, 김지은, 정건주, 박재찬, 명현우 감독이 참석했다. 배인혁은 드라마 ‘슈릅’을 시작으로 ‘열녀박씨전’에 이어 ‘체크인 한양’까지 연달아 사극에 출연하고 있다. 이]]></content>
     </entry>
 </feed>
