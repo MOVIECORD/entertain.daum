@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-12-21T02:42:20.862Z</updated>
+    <updated>2024-12-21T03:16:30.901Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[유연석이 곧 '지거전' 서사]]></title>
+        <id>https://v.daum.net/v/20241221120420211</id>
+        <link href="https://v.daum.net/v/20241221120420211"/>
+        <updated>2024-12-21T03:16:15.622Z</updated>
+        <content type="html"><![CDATA[[OSEN=박소영 기자] ‘지금 거신 전화는’ 유연석이 눈빛 연기의 진가를 보여줬다. 지난 20일 방송된 MBC 금토드라마 ‘지금 거신 전화는’(기획 권성창/ 연출 박상우, 위득규/ 극본 김지운/ 제작 본팩토리, 바람픽쳐스) 7회에서 유연석은 ‘백사언’ 역으로 분했다. 그는 극중 홍희주(채수빈 분)와 새로운 국면을 맞는 사언을 섬세하게 표현해 내며 몰입]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘열혈사제2’ 김남길X이하늬, 꿀단지 청문회…빌런과의 전쟁 초읽기]]></title>
+        <id>https://v.daum.net/v/20241221114854092</id>
+        <link href="https://v.daum.net/v/20241221114854092"/>
+        <updated>2024-12-21T03:16:15.624Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 이민지 기자] 김남길, 이하늬, 김성균이 서현우와 전쟁 초읽기에 돌입했다. 12월 20일 방송된 SBS 금토드라마 ‘열혈사제2’(극본 박재범/연출 박보람) 11회는 닐슨 코리아 기준 최고 14.2%를 기록하며 한 주간 방송된 미니시리즈 시청률 1위를 차지했다. 수도권 11.9%, 전국 11.9%, 2049 4.0%로 동시간대 1위 및 금요일 방]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['옥씨부인전' 임지연, 양반 돼도 힘든 건 똑같네…날카로운 눈빛 포착]]></title>
         <id>https://v.daum.net/v/20241221114106044</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20241221100900142"/>
         <updated>2024-12-21T02:42:06.337Z</updated>
         <content type="html"><![CDATA[배인혁, 김지은, 정건주, 박재찬이 직접 ‘체크인 한양’ 관전 포인트를 밝혔다. 채널A 새 토일드라마 ‘체크인 한양’(극본 박현진/연출 명현우/기획 채널A/제작 위매드, 아티스트스튜디오, 스토리네트웍스/공동 제작 투자 PONY CANYON)이 드디어 오늘(21일) 첫 방송된다. ‘체크인 한양’은 돈만 내면 왕도 될 수 있는 조선 최대 여각 ‘용천루’, 그곳]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이경규 극대노 "유재석 잡으러 '유퀴즈' 갔는데…조세호·남창희 나와"]]></title>
-        <id>https://v.daum.net/v/20241221100835137</id>
-        <link href="https://v.daum.net/v/20241221100835137"/>
-        <updated>2024-12-21T02:42:06.339Z</updated>
-        <content type="html"><![CDATA[[이데일리 스타in 김보영 기자] 방송인 이경규가 ‘조동아리’ 채널에 출연해 후배 유재석을 향한 서운함과 분노를 표출해 스튜디오를 웃음바다로 만들었다. (사진=유튜브 채널 ‘조동아리’ 화면 캡처)지난 20일 유튜브 채널 ‘조동아리’에는 ‘2025년 예능의 적(?)들에게 고함｜섭외에만 5개월 걸린 이경규의 폭탄 발언’이란 제목의 영상이 게재됐다. 이날]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['핀란드 셋방살이' 이제훈, 처참한 첫 요리→염전 스크램블…최고 3.8%]]></title>
-        <id>https://v.daum.net/v/20241221095627991</id>
-        <link href="https://v.daum.net/v/20241221095627991"/>
-        <updated>2024-12-21T01:01:56.982Z</updated>
-        <content type="html"><![CDATA[[이데일리 스타in 김보영 기자] 연기력 만렙, 생활력 제로(0) 이제훈이 로컬 보이로 빠르게 성장 중이다. (사진=tvN 방송화면)지난 20일 방송된 tvN 예능 ‘핀란드 셋방살이’(연출 이세영)에서는 시티 보이즈 이제훈, 이동휘, 곽동연, 차은우가 낚시부터 간이 노래방까지 인터넷, 수도, 전기가 없는 셋방 생활을 알차게 즐겨 시청자들의 행복지수를 상승]]></content>
     </entry>
 </feed>
