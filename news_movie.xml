@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2024-12-22T02:51:36.328Z</updated>
+    <updated>2024-12-22T03:21:29.814Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['서울의 봄'·'파묘'보다 높다..'하얼빈', 예매량 30만장 돌파]]></title>
+        <id>https://v.daum.net/v/20241222120650596</id>
+        <link href="https://v.daum.net/v/20241222120650596"/>
+        <updated>2024-12-22T03:21:09.730Z</updated>
+        <content type="html"><![CDATA[[OSEN=하수정 기자] 올겨울 극장가 최고의 기대작 '하얼빈'이 12월 24일(화) 개봉을 앞둔 D-2일전 사전 예매량 30만 장을 넘기는 기염을 토했다. 영화 '하얼빈'(감독 우민호, 제공배급 CJ ENM, 제작 (주)하이브미디어코프)이 영화관입장권 통합전산망 실시간 예매율 기준 12월 22일(일) 오전 10시 58분 사전 예매율 45.7 %, 예]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[속편이 더 대박났다..'모아나2', 300만 돌파 기염]]></title>
         <id>https://v.daum.net/v/20241222112324713</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20241222081800180"/>
         <updated>2024-12-22T01:07:25.829Z</updated>
         <content type="html"><![CDATA[‘소방관’이 250만 고지를 밟는다. 22일 영화진흥위원회 영화관입장권통합전산망의 집계에 따르면 영화 ‘소방관’(감독 곽경택)은 전날 21만 264명을 동원해 박스오피스 1위를 차지했다. 누적 관객수는 240만 1980명이다. 지난 4일 개봉한 ‘소방관’은 2001년 홍제동 화재 참사 사건 당시 열악한 환경 속에서도 화재 진압과 전원 구조라는 단 하나의 목]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['하얼빈' 현빈, 시국 관련 "이걸로 끝이 아니라 계속해서 앞으로 나아가야 할 것"]]></title>
-        <id>https://v.daum.net/v/20241222080133081</id>
-        <link href="https://v.daum.net/v/20241222080133081"/>
-        <updated>2024-12-21T23:12:21.163Z</updated>
-        <content type="html"><![CDATA[영화 '하얼빈'의 안중근으로 변신한 배우 현빈을 만났다. 현빈은 '내부자들' '남산의 부장들'을 만든 우민호 감독과 함께 몽골, 라트비아 등에서 해외 로케이션을 진행하며 100여년 전 독립군들의 독립 루트를 재현해 냈으며 이 영화로 49회 토론토국제영화제에 초청되기도 했다. 여러 번 거절 끝에 안중근의 연기를 받아들였다는 현빈은 "저한테 제안을 주실 때]]></content>
     </entry>
 </feed>
