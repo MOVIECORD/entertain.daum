@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2024-12-22T19:10:19.736Z</updated>
+    <updated>2024-12-22T20:13:52.714Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["현빈, 어딘가 쓸쓸해 보여...상처입은 느낌"]]></title>
+        <id>https://v.daum.net/v/20241223051101222</id>
+        <link href="https://v.daum.net/v/20241223051101222"/>
+        <updated>2024-12-22T20:13:32.548Z</updated>
+        <content type="html"><![CDATA[[텐아시아=류예지 기자]'하얼빈' 우민호 감독이 현빈 캐스팅 비하인드를 밝혔다. 19일 서울 종로구 삼청동에 위치한 한 카페에서 우민호 감독과 인터뷰를 진행했다. '하얼빈'은 1909년 하나의 목적을 위해 하얼빈으로 향하는 이들과 이를 쫓는 자들 사이의 숨 막히는 추적과 의심을 그린 작품. 안중근(현빈 분)을 필두로 우덕순(박정민 분), 김상현(조우진 분]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['무파사: 라이온 킹'으로 본 참된 리더의 자질]]></title>
         <id>https://v.daum.net/v/20241223000047536</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20241222164938185"/>
         <updated>2024-12-22T08:16:06.801Z</updated>
         <content type="html"><![CDATA[(서울=뉴스1) 정유진 기자 = 영화 '히든페이스'(감독 김대우)가 100만 관객을 돌파했다. 영화관입장권 통합전산망에 따르면 '히든페이스'는 22일 오후 3시 45분 기준 누적 관객수 100만 14명을 동원, 100만 관객을 돌파했다. '히든 페이스'는 실종된 약혼녀 수연의 행방을 쫓던 성진 앞에 수연의 후배 미주가 나타나고, 사라진 줄 알았던 수연이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["5년만에 청불 영화 100만 돌파"…'히든페이스' 일 냈다]]></title>
-        <id>https://v.daum.net/v/20241222164634140</id>
-        <link href="https://v.daum.net/v/20241222164634140"/>
-        <updated>2024-12-22T08:16:06.803Z</updated>
-        <content type="html"><![CDATA[[마이데일리 = 이승길 기자] 영화 '히든페이스'가 100만 관객을 돌파했다. 실종된 약혼녀 ‘수연’의 행방을 쫓던 ‘성진’ 앞에 ‘수연’의 후배 ‘미주’가 나타나고, 사라진 줄 알았던 ‘수연’이 그들과 가장 가까운 비밀의 공간에 갇힌 채 벗겨진 민낯을 목격하며 벌어지는 색(色)다른 밀실 스릴러 ‘히든페이스’가 관객수 100만 명을 돌파하며 겨울 극장가를]]></content>
     </entry>
 </feed>
