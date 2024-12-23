@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-12-23T15:14:21.673Z</updated>
+    <updated>2024-12-23T16:16:40.273Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['나미브' 고현정, 아이돌 연습생 출신 려운에 러브콜 "대표님 자녀 지킬 것"]]></title>
+        <id>https://v.daum.net/v/20241224003751983</id>
+        <link href="https://v.daum.net/v/20241224003751983"/>
+        <updated>2024-12-23T16:16:27.351Z</updated>
+        <content type="html"><![CDATA['나미브' 고현정이 려운에 러브콜을 보냈다. 12월 23일 ENA에서 지니 TV 오리지널 드라마 ‘나미브’(극본 엄성민, 연출 한상재, 강민구, 제작 SLL, 스튜디오 우영수)가 첫 방송됐다. 이날 강수현(고현정)은 판도라엔터테인먼트 연습생 유진우(려운)가 연습생 시절 만점에 가까운 평가를 받을 정도로 유망주였지만 방출됐다는 걸 알게 됐다. 알고 보니]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['나미브' 고현정, 아티스트 갑질 의혹으로 만장일치 해임]]></title>
         <id>https://v.daum.net/v/20241224001352837</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20241223210613227"/>
         <updated>2024-12-23T12:26:14.601Z</updated>
         <content type="html"><![CDATA[(엑스포츠뉴스 이이진 기자) '가석방 심사관 이한신' 고수가 누명을 쓰고 경찰에 체포됐다. 23일 방송된 tvN 월화드라마 '가석방 심사관 이한신'(이하 '이한신') 11회에서는 이한신(고수 분)이 마약류 관리법 위반 혐의로 체포된 모습이 그려졌다. 이날 이한신은 박진철(이도엽)에게 연락했고, "선배 됐습니다. 가석방 통과됐습니다"라며 천수범(조승연)의 가]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['선주씨' 정영섭, 심이영 '18억 당첨 복권' 훔치고 이혼 요구]]></title>
-        <id>https://v.daum.net/v/20241223204949088</id>
-        <link href="https://v.daum.net/v/20241223204949088"/>
-        <updated>2024-12-23T12:26:14.601Z</updated>
-        <content type="html"><![CDATA[정영섭이 심이영의 복권을 빼돌렸다. 23일 방송된 MBC '친절한 선주씨'에서는 피선주(심이영 분)가 복권이 사라진 것을 알았다. 이날 피선주는 피미주(천예주 분)의 사고 합의금을 구하던 중 복권이 사라졌음을 알았다. 왕연애(양혜진 분)에게 복권이 든 가방의 행방을 물었으나 왕연애는 "남진이가 청소하다가 버렸나 보지"라고 했고, 피선주는 "내가 로또]]></content>
     </entry>
 </feed>
