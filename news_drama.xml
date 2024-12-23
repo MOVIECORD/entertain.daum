@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-12-23T13:20:36.716Z</updated>
+    <updated>2024-12-23T14:13:34.535Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[고현정, 청각장애 아들 위해 영끌해 공장 샀다 “잔금 10억도 문제 없어”]]></title>
+        <id>https://v.daum.net/v/20241223231122236</id>
+        <link href="https://v.daum.net/v/20241223231122236"/>
+        <updated>2024-12-23T14:13:19.351Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 하지원 기자] '나미브' 고현정이 아들을 위해 공장 인수에 나섰다. 12월 23일 ENA에서 지니 TV 오리지널 드라마 ‘나미브’가 첫 방송됐다. 강수현(고현정 분)과 심준석(윤상현)의 아들 심진우(이진우)는 모종의 이유로 청력을 잃게 된 후천적 청각장애인이다. 강수현은 심준석 몰래 아들 수업 보조 학생에게 월급을 주고 있었다. 강수현은 과]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘조명가게’ 김설현 “많이 고민한 작품, 찾아준 분들께 감사” 종영소감]]></title>
         <id>https://v.daum.net/v/20241223221408878</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20241223190106764"/>
         <updated>2024-12-23T10:15:09.979Z</updated>
         <content type="html"><![CDATA[[텐아시아=태유나 기자]한때 한솥밥을 먹던 고현정과 려운이 협상 테이블에 오른다. 23일 첫 방송되는 지니 TV 오리지널 드라마 ‘나미브’에서는 전 소속사 대표 강수현(고현정 분)과 장기 연습생 유진우(려운 분)가 서로의 마음을 잡기 위한 승부수를 던진다. 극 중 강수현은 판도라엔터테인먼트에서 돌연 해임 제의를 받으면서 오갈 곳 없는 낙동강 오리알 신세]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[주지훈♥정유미, 교제 허락받고 쌍방 프러포즈 "평생 함께하자"]]></title>
-        <id>https://v.daum.net/v/20241223184537474</id>
-        <link href="https://v.daum.net/v/20241223184537474"/>
-        <updated>2024-12-23T10:15:09.982Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 김현정 기자)&nbsp;‘사랑은 외나무다리에서’ 주지훈과 정유미가 김갑수에게 교제를 허락받는 데 이어 쌍방 프러포즈로 설렘 지수를 올렸다. 22일 방송한 tvN ‘사랑은 외나무다리에서’는 석지원(주지훈 분)과 윤지원(정유미)의 프러포즈 대작전이 그려졌다. 이날은 윤지원이 자신의 곁을 묵묵히 지키며 큰 힘이 되어준 석지원의 사랑 덕분에 오랫동안 자신을]]></content>
     </entry>
 </feed>
