@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/variety</id>
     <title>다음 연예 ─ 뉴스 ─ 예능</title>
-    <updated>2024-12-23T02:47:49.055Z</updated>
+    <updated>2024-12-23T03:20:28.626Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[장도연, '800km 순례길 도전' 천재견에 "낭만있어" 감탄 연발]]></title>
+        <id>https://v.daum.net/v/20241223121711277</id>
+        <link href="https://v.daum.net/v/20241223121711277"/>
+        <updated>2024-12-23T03:20:19.983Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 이예진 기자) '동물은 훌륭하다'가 빠져들 수밖에 없는 애니캠으로 시청자들을 찾는다. 23일 방송되는 KBS2 예능 프로그램 '동물은 훌륭하다' 6회에서는 훈훈한 사연들을 주제로 이야기를 나눈다. 이날 '동물은 훌륭하다'에선 '글로벌 애니캠'을 통해 튀르키예 이스탄불의 모습이 공개된다. 카페, 지하철, 오케스트라 무대까지 길거리 어디서나 고양]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[오지헌, 중학생 딸 학폭 사연에 과몰입…데프콘 "악마 같은 애들"]]></title>
         <id>https://v.daum.net/v/20241223114231247</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20241223110756616"/>
         <updated>2024-12-23T02:47:38.434Z</updated>
         <content type="html"><![CDATA[[서울경제] 미국 뉴욕타임스(NYT)가 넷플릭스 ‘흑백요리사’로 인기를 끈 미쉐린 3스타 셰프 안성재를 집중 조명했다. 21일(현지 시각) NYT는 안성재에 대해 “서울의 유일한 미쉐린 3스타 셰프”라고 소개하며 “그를 거스르지 말라”고 보도했다. 안성재는 NYT와의 인터뷰에서 열세살 때 가족과 함께 미국으로 이주한 사실을 밝혔다. 그는 고등학교 졸업 후]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘앤톤 오빠’ 윤상, ‘오늘 아침’ 첫방 소감 “집에 돌아온 기분”]]></title>
-        <id>https://v.daum.net/v/20241223110705583</id>
-        <link href="https://v.daum.net/v/20241223110705583"/>
-        <updated>2024-12-23T02:47:38.438Z</updated>
-        <content type="html"><![CDATA[[OSEN=강서정 기자] ‘뮤지션들의 뮤지션’&nbsp;윤상이&nbsp;22년 만에&nbsp;MBC&nbsp;라디오에 복귀하는 소감을 전했다. 윤상은&nbsp;23일 오전&nbsp;9시 첫 방송된&nbsp;MBC FM4U ‘오늘 아침 윤상입니다’에서 첫 선곡을 레지나 스펙터의&nbsp;‘더 콜’(The Call)로 하며&nbsp;“처음엔 그냥 느낌이었는데,&nbsp;느낌이 희망으로 바뀌었다.&nbsp;희망은 생각으로,&nbsp;생각은 말로,&nbsp;그 말은 함성이]]></content>
     </entry>
 </feed>
