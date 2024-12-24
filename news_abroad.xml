@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2024-12-24T09:14:12.279Z</updated>
+    <updated>2024-12-24T10:14:19.545Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[30년 전 곡인데...머라이어캐리, 캐럴 곡으로 빌보드 또 1위]]></title>
+        <id>https://v.daum.net/v/20241224181701432</id>
+        <link href="https://v.daum.net/v/20241224181701432"/>
+        <updated>2024-12-24T10:14:18.907Z</updated>
+        <content type="html"><![CDATA[[TV리포트=박정수 기자] 가수 머라이어 캐리(55)의 캐럴 '올 아이 원트 포 크리스마스 이즈 유'(All I Want for Christmas Is You·AIWFCIY)가 또 빌보드 1위를 차지하며 그 명성을 이어가고 있다. 지난 23일(핸지시간) 빌보드가 게재한 차트 예고 기사에 따르면, 머라이어 캐리의 '올 아이 원트 크리스마스 이즈 유'가 28]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[머라이어 캐리, 올해 크리스마스도 ‘퀸’..빌보드 ‘핫100’ 17주 1위]]></title>
         <id>https://v.daum.net/v/20241224175800956</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20241224083808503"/>
         <updated>2024-12-24T01:03:06.408Z</updated>
         <content type="html"><![CDATA[크리스토퍼 놀란 감독의 신작이 공개됐다. 23일(현지시간) 미국 매체 할리우드 리포터에 따르면 유니버설 스튜디오는 이날 크리스토퍼 놀란 감독이 차기작으로 ‘오디세이’(The Odyssey)를 결정했다고 밝혔다. ‘오디세이’는 트로이 전쟁 이후 오디세우스의 귀환 여정을 따라가는 호메로스의 서사시를 각색한 작품이다. 유니버설 스튜디오 측은 “크리스토퍼 놀]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[유명 女배우, 영화 감독 성희롱 폭로... "원치 않는 키스" 고소]]></title>
-        <id>https://v.daum.net/v/20241223192800150</id>
-        <link href="https://v.daum.net/v/20241223192800150"/>
-        <updated>2024-12-23T11:11:51.123Z</updated>
-        <content type="html"><![CDATA[[TV리포트=이지은 기자] 미국 드라마 '가십걸'로 스타덤에 오른 할리우드 배우 블레이크 라이블리가 자신이 출연한 영화의 감독이자 공동 주연을 맡은 저스틴 발도니와 제작사를 성희롱과 명예훼손 혐의로 고소했다. 22일(현지시간) 미국 뉴욕타임스(NYT) 등에 따르면 라이블리는 영화 ‘우리가 끝이야’(It Ends with Us)의 제작사 웨이페어스튜디오와 발]]></content>
     </entry>
 </feed>
