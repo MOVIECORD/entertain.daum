@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/variety</id>
     <title>다음 연예 ─ 뉴스 ─ 예능</title>
-    <updated>2024-12-25T02:43:28.713Z</updated>
+    <updated>2024-12-25T03:17:21.328Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김경란, 국회의원과 이혼 후 6년 "고독사 걱정, 변기 끌어안고 오열"]]></title>
+        <id>https://v.daum.net/v/20241225114724508</id>
+        <link href="https://v.daum.net/v/20241225114724508"/>
+        <updated>2024-12-25T03:17:10.634Z</updated>
+        <content type="html"><![CDATA[[OSEN=유수연 기자] 아나운서 출신 방송인 김경란이 이혼 후 솔직한 심경을 털어놨다. 24일 방송된&nbsp;SBS '신발 벗고 돌싱포맨'에서는&nbsp;여에스더, 김경란, 임우일이 게스트로 출연한 가운데, 김경란이 사랑과 이혼에&nbsp;대한 이야기를 전했다. 김경란은 지난 2015년 당시 국회의원이었던 A씨와 결혼했으나, 3년 만인 2018년 4월 파경을 맞았다. 당시 김]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['김사랑 닮은꼴'→역대급 솔로女 등장…데프콘 "진심 내 여자" 흥분]]></title>
         <id>https://v.daum.net/v/20241225114248479</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20241225110003795"/>
         <updated>2024-12-25T02:43:17.998Z</updated>
         <content type="html"><![CDATA[[뉴스엔 이민지 기자] 정재형이 '불어 신공'을 보여줬다. 12월 24일 방송된 SBS ‘틈만 나면,’에서 유재석, 유연석이 ‘틈 친구’ 정재형, 이적과 함께 프랑스 어학원과 ‘무지카사크라’ 소년 합창단과 만났다. 크리스마스를 앞두고 유재석, 유연석과 ‘찐친’ 정재형, 이적이 함께 했다. 이적이 “정재형 씨를 처음으로 예능계에 모시고 온 게 저다”라고]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[버스 기사에 소변테러 만취 승객..."다 커서 뭐 하는 거야" 규현 분노]]></title>
-        <id>https://v.daum.net/v/20241225105917776</id>
-        <link href="https://v.daum.net/v/20241225105917776"/>
-        <updated>2024-12-25T02:43:17.999Z</updated>
-        <content type="html"><![CDATA[[OSEN=최이정 기자]&nbsp;'한블리'가 버스 내부서 일어난 엽기적인 소변 테러 사건을 조명했다. 24일&nbsp;방송된 JTBC 교통 공익 버라이어티 '한문철의 블랙박스 리뷰'(기획 민철기/연출 강홍주·정민용)에서 공개된 블랙박스 영상에는 한 취객이 버스 안에서 난동을 피우는 충격적인 장면이 담겨있었다. 버스에 탑승할 때부터 술에 취해 욕설을 하던 취객은 맨 뒷좌]]></content>
     </entry>
 </feed>

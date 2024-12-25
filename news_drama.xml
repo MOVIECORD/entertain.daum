@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-12-25T02:43:28.711Z</updated>
+    <updated>2024-12-25T03:17:21.319Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[유연석도 문제인데 허남준도 난리..'지거전', '진짜 정체' 찾기]]></title>
+        <id>https://v.daum.net/v/20241225121426927</id>
+        <link href="https://v.daum.net/v/20241225121426927"/>
+        <updated>2024-12-25T03:17:05.443Z</updated>
+        <content type="html"><![CDATA[[스포츠조선 문지연 기자] '지금 거신 전화는' 유연석과 허남준의 '정체'가 남았다. 20일과 21일 방송된 MBC 금토드라마 '지금 거신 전화는'(김지운 극본, 박상우 위득규 연출) 7, 8회에서는 백사언(유연석)과 홍희주(채수빈)가 마침내 서로의 마음을 확인하며 행복한 한때를 보냈다. 하지만 사언을 둘러싼 비밀들이 하나둘 드러나기 시작하며]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['신인상' 최유주, 고현정 쫓겨난 기획사 새 연습생 되나..대표 PICK]]></title>
+        <id>https://v.daum.net/v/20241225115017549</id>
+        <link href="https://v.daum.net/v/20241225115017549"/>
+        <updated>2024-12-25T03:17:05.447Z</updated>
+        <content type="html"><![CDATA[[OSEN=장우영 기자] 배우 최유주가 드라마 ‘나미브’ 경하나 역으로 강렬한 첫인상을 남겼다. 최유주는 지니 TV 오리지널 드라마 ‘나미브’(극본 엄성민, 연출 한상재 강민구, 기획 KT스튜디오지니, 제작 SLL, 스튜디오 우영수)에서 가수 연습생 ‘경하나’ 역을 맡았다. 극 중 경하나는 20대 후반, 연습생으로서는 적지 않은 나이지만 스스로에 대한]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['지거전' 유연석 정체가 뭐야? 미스터리한 사건 떡밥 회수]]></title>
         <id>https://v.daum.net/v/20241225114121468</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20241225105015666"/>
         <updated>2024-12-25T02:43:12.776Z</updated>
         <content type="html"><![CDATA[[OSEN=장우영 기자] 배우 고현정이 ‘나미브’로 안방극장에 돌아왔다. 지니 TV 오리지널 드라마 ‘나미브’가 많은 주목 속에서 베일을 벗은 가운데, 새로운 변신에 나선 고현정을 향한 관심이 여전히 뜨겁게 달아오르는 중이다. 극 중 고현정은 사막 같은 스타 제작자 강수현으로 분했다. 그가 맡은 강수현은 스타가 될 아이를 알아보는 탁월한 안목과 뛰어난]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[유연석의 진짜 정체는? 떡밥 회수의 시간이 왔다]]></title>
-        <id>https://v.daum.net/v/20241225104801620</id>
-        <link href="https://v.daum.net/v/20241225104801620"/>
-        <updated>2024-12-25T02:43:12.777Z</updated>
-        <content type="html"><![CDATA[[TV리포트=이혜미 기자] 드라마 '지금 거신 전화는'이 유연석의 정체에 미스터리함을 더하며 '로맨스릴러'의 진수를 발휘 중이다. 지난 20일일과 21일 MBC ‘지금 거신 전화는’ 7, 8회에서는 백사언(유연석 분)과 홍희주(채수빈 분)가 마침내 서로의 마음을 확인하며 행복한 한때를 보냈다. 하지만 사언을 둘러싼 비밀들이 하나둘 드러나기 시작하며 극은 또]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[려운, 고현정 사로잡은 방출 연습생…비주얼+실력 다 갖췄네]]></title>
-        <id>https://v.daum.net/v/20241225104540597</id>
-        <link href="https://v.daum.net/v/20241225104540597"/>
-        <updated>2024-12-25T02:43:12.780Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 장예솔 기자] 배우 려운이 비주얼과 실력을 고루 갖춘 천재 연습생 면모로 시청자들을 사로잡았다. 12월 24일 방송된 지니TV 오리지널 드라마 '나미브' 2회에서는 방출된 장기 연습생 유진우(려운 분)가 전 소속사 대표 강수현(고현정 분)의 손을 잡고 새출발을 결심하는 모습이 그려졌다. 앞서 유진우는 소속사에서 쫓겨나며 마지막 기회로 강수현에게]]></content>
     </entry>
 </feed>
