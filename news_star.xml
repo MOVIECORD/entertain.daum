@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2024-12-25T19:11:01.423Z</updated>
+    <updated>2024-12-25T20:14:30.524Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[심형탁 "장모님 한국 사셨으면"…출산 앞둔 사야 걱정]]></title>
+        <id>https://v.daum.net/v/20241226051002473</id>
+        <link href="https://v.daum.net/v/20241226051002473"/>
+        <updated>2024-12-25T20:14:25.986Z</updated>
+        <content type="html"><![CDATA[(서울=뉴스1) 박하나 기자 = '신랑수업' 심형탁이 출산을 앞둔 사야를 걱정했다. 지난 25일 오후 9시 30분에 방송된 채널A 예능 프로그램 '요즘 남자 라이프-신랑수업'(이하 '신랑수업')에서는 오는 1월 출산을 앞둔 심형탁, 사야 부부의 일상이 담겼다. 심형탁-사야 부부가 출산을 앞두고, 남편과 함께하는 출산 교실을 찾았다. 심형탁은 사야의 배를]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김준호, 장동민 집 스크린골프장→PC방 입성…'슈돌' MT 추진]]></title>
+        <id>https://v.daum.net/v/20241226045005282</id>
+        <link href="https://v.daum.net/v/20241226045005282"/>
+        <updated>2024-12-25T20:14:25.989Z</updated>
+        <content type="html"><![CDATA[(서울=뉴스1) 박하나 기자 = '슈퍼맨이 돌아왔다' 김준호가 장동민의 아지트에 감탄했다. 지난 25일 오후에 방송된 KBS2TV 예능 프로그램 '슈퍼맨이 돌아왔다'(이하 '슈돌')에서는 장동민의 강원도 원주 본가에 모인 은우, 정우, 지우, 시우와 아빠들의 모습이 담겼다. 지난주, 김준호와 은우, 정우가 강원도 원주에 있는 지우-시우 남매의 할머니 댁]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['골때녀' 올스타 "K리그 올스타, 한일전 일본 대표팀 보다 세다는 소문 들어"…대결 승자는?]]></title>
         <id>https://v.daum.net/v/20241226040600216</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20241226001009423"/>
         <updated>2024-12-25T15:13:07.583Z</updated>
         <content type="html"><![CDATA[(MHN스포츠 인천, 이지숙 기자) 그룹 아이브 리즈가&nbsp;25일 오후 인천 중구 운서동 인스파이어 아레나에서 열린 '2024 SBS 가요대전' 레드 카펫에 참석해 포즈를 취하고 있다. 한편, '2024 SBS 가요대전'은 지드래곤(G-DRAGON), 키(KEY), 2NE1(투애니원), 엔시티127(NCT 127), 엔시티 드림(NCT DREAM),]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[베이비몬스터 라미 '핑크빛 하트']]></title>
-        <id>https://v.daum.net/v/20241226001007422</id>
-        <link href="https://v.daum.net/v/20241226001007422"/>
-        <updated>2024-12-25T15:13:07.583Z</updated>
-        <content type="html"><![CDATA[(MHN스포츠 인천, 이지숙 기자) 그룹 베이비몬스터 라미가&nbsp;25일 오후 인천 중구 운서동 인스파이어 아레나에서 열린 '2024 SBS 가요대전' 레드 카펫에 참석해 포즈를 취하고 있다. 한편, '2024 SBS 가요대전'은 지드래곤(G-DRAGON), 키(KEY), 2NE1(투애니원), 엔시티127(NCT 127), 엔시티 드림(NCT DREAM]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[곽튜브, 이나은 논란후 "회사 적자…오너리스크"]]></title>
-        <id>https://v.daum.net/v/20241226000508223</id>
-        <link href="https://v.daum.net/v/20241226000508223"/>
-        <updated>2024-12-25T15:13:07.584Z</updated>
-        <content type="html"><![CDATA[[서울=뉴시스] 최지윤 기자 = 크리에이터 곽튜브(곽준빈)가 적자 위기를 맞았다. 곽튜브는 24일 유튜브 채널에 '위태로운 스타트업 CEO의 연말 보내기'라는 제목의 영상을 올렸다. 자신이 설립한 곽컴퍼니 사무실에 출근, "직원이 3명 있는 회사다. 솔직히 말하면 회사가 상태가 안 좋다. 회사를 너무 방치해놨다"며 반성했다. 계약한 크리에이터의 이름이]]></content>
     </entry>
 </feed>
