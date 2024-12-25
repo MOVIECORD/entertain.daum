@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2024-12-25T21:12:26.339Z</updated>
+    <updated>2024-12-25T22:12:36.220Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['하얼빈', 84만↑ 동원하며 이틀 연속 1위…누적 125만]]></title>
+        <id>https://v.daum.net/v/20241226071131652</id>
+        <link href="https://v.daum.net/v/20241226071131652"/>
+        <updated>2024-12-25T22:12:19.485Z</updated>
+        <content type="html"><![CDATA[(서울=뉴스1) 김민지 기자 = 영화 '하얼빈'(감독 우민호)이 박스오피스 1위를 차지했다. 이틀 만에 누적 관객 역시 125만을 돌파했다. 26일 영화진흥위원회 영화관입장권 통합전산망 집계에 따르면 '하얼빈'은 25일 하루 동안 84만 7819명의 관객을 동원하며 박스오피스 1위를 차지했다. 누적 관객 수는 125만 4043명이다. 지난 24일 개봉한]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[크리스마스 1위 ‘하얼빈’ 125만 돌파…‘소방관’ 300만 목전]]></title>
+        <id>https://v.daum.net/v/20241226070955614</id>
+        <link href="https://v.daum.net/v/20241226070955614"/>
+        <updated>2024-12-25T22:12:19.485Z</updated>
+        <content type="html"><![CDATA[현빈 주연 영화 ‘하얼빈’이 성탄절 박스오피스 1위를 차지했다. 26일 영진위 영화관입장권 통합전산망에 따르면 영화 ‘하얼빈’은 전날인 25일 크리스마스 하루 동안 84만 7819명이 관람해 전체 박스오피스 1위에 올랐다.&nbsp; 개봉 이틀 만에 누적 관객 125만 4043명을 기록했는데 이는 역대 겨울 영화 중 가장 빠른 속도이자 천만영화 ‘범죄도시2’,]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘소방관’이 흥행에 성공한 진짜 이유]]></title>
         <id>https://v.daum.net/v/20241226060521022</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20241225170931830"/>
         <updated>2024-12-25T08:17:50.545Z</updated>
         <content type="html"><![CDATA[25일 누적 관객 수 100만1074명 개봉 첫날엔 38만1546명 [더팩트ㅣ조소현 기자] 영화 '하얼빈'이 개봉 이틀 만에 100만 관객을 돌파했다. 25일 영화진흥위원회 영화관입장권 통합전산망에 따르면 '하얼빈'은 이날 오후 누적 관객 수 100만1074명을 기록했다. 역대 겨울 영화 중 가장 빠르게 100만 관객을 넘겼다. 지난 2022년 12월]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘♥손예진’ 현빈, 경사났네…‘하얼빈’, ‘서울의 봄’·‘파묘’ 넘었다]]></title>
-        <id>https://v.daum.net/v/20241225163018091</id>
-        <link href="https://v.daum.net/v/20241225163018091"/>
-        <updated>2024-12-25T08:17:50.547Z</updated>
-        <content type="html"><![CDATA[현빈이 주연으로 출연한 영화 ‘하얼빈’이 새 역사를 쓰고 있다. 25일 영화관입장권 통합전산망에 따르면 ‘하얼빈’은 전날 38만1천여명(매출액 점유율 63.9%)이 관람해 일일 박스오피스 1위를 차지했다. 이는 12월에 개봉한 영화 중 1천만명이 넘는 관객을 동원한 ‘아바타: 물의 길’(2022)의 개봉 첫날 성적 35만9천여명보다 많은 수다. 나아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI 나문희의 무한데뷔..83세 나문희, 눈부신 20대 미모]]></title>
-        <id>https://v.daum.net/v/20241225161122733</id>
-        <link href="https://v.daum.net/v/20241225161122733"/>
-        <updated>2024-12-25T07:12:43.813Z</updated>
-        <content type="html"><![CDATA[[OSEN=최이정 기자] '국민 배우' 나문희가 AI 유니버스에서 무한 데뷔하는 '나야, 문희'(감독: 박원표, 유지천, 원경혜, 정은욱, 이정찬 | 제작/제공: ㈜엠씨에이, ㈜콘텐츠파크 엔터테인먼트 | 배급: CGV ICECON | 공동배급: ㈜스튜디오 디에이치엘, ㈜마노엔터테인먼트)가 24일 CGV 단독 개봉하여절찬 상영 중인 가운데, 2차 보도스틸]]></content>
     </entry>
 </feed>
