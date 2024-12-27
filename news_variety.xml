@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/variety</id>
     <title>다음 연예 ─ 뉴스 ─ 예능</title>
-    <updated>2024-12-27T09:14:05.785Z</updated>
+    <updated>2024-12-27T10:14:48.502Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[전미도 “가난 속에도 서로 배려” 엄마처럼 케냐 아이들 살폈다]]></title>
+        <id>https://v.daum.net/v/20241227191224135</id>
+        <link href="https://v.daum.net/v/20241227191224135"/>
+        <updated>2024-12-27T10:14:39.200Z</updated>
+        <content type="html"><![CDATA[[OSEN=최이정 기자] 뮤지컬과 연극,&nbsp;드라마 등 다양한 작품에서 탄탄한 연기력을 펼치며 대중의 사랑을 받고 있는 배우 전미도가 연말을 맞아&nbsp;KBS 1TV&nbsp;글로벌 나눔 다큐 '바다 건너 사랑 시즌3'을 통해 아프리카 케냐 아이들에게 따뜻한 온기를 전하고 돌아왔다. &nbsp; 전미도가 다녀온 케냐는 최근 큰 경제성장을 이루고 있지만,&nbsp;아직도 빈곤율이&nbsp;30%를]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['신인상' 박서진, 병역 면제·갑질 논란 훌훌 털었다.."도덕적·법률적 문제 없다"]]></title>
+        <id>https://v.daum.net/v/20241227184916775</id>
+        <link href="https://v.daum.net/v/20241227184916775"/>
+        <updated>2024-12-27T10:14:39.203Z</updated>
+        <content type="html"><![CDATA[[OSEN=장우영 기자] 가수 박서진이 군 면제로 인한 시청자 기만 의혹 및 갑질 논란을 털어냈다. 신인상을 수상한 만큼 앞으로의 활동이 더 기대된다. 박서진은 2024년, 가수로서도 활약했지만 예능인으로도 활약하며 많은 사랑을 받았다. KBS2 ‘살림하는 남자들2’(이하 살림남)에 고정으로 합류하면서 이야기를 풍성하게 만들고 재미를 안긴 것. 박서진의]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[박위 "전신마비 후 두려웠다"..♥송지은과 美여행중 눈물 '왈칵']]></title>
         <id>https://v.daum.net/v/20241227180749973</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20241227163910155"/>
         <updated>2024-12-27T08:17:33.658Z</updated>
         <content type="html"><![CDATA[[엔터미디어=정석희의 TV 돋보기] 지난 19일에 방송된 MBC 예능 &lt;구해줘 홈즈&gt;에서 주우재를 제외한 출연자 전원이 &lt;세바퀴&gt; 출연 당시의 고충을 토로하며 '연예인이 뽑은 없어져야 할 프로그램 1위'로 &lt;세바퀴&gt;를 뽑았다. 녹화가 끝나고 엘리베이터를 타는 순간까지는 웃으면서 인사를 주고받지만 엘리베이터 문이 닫히면 바로 울음을 터트리곤 했단다. 방송 후]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘73세’ 양희은 “이제 노래가 뭔지 알 거 같은데 무대 설 기회 없어”]]></title>
-        <id>https://v.daum.net/v/20241227163534994</id>
-        <link href="https://v.daum.net/v/20241227163534994"/>
-        <updated>2024-12-27T08:17:33.658Z</updated>
-        <content type="html"><![CDATA[‘더 시즌즈’ 송년 기획 ‘그래서, 사랑’ 특집이 공개된다. KBS '더 시즌즈-이영지의 레인보우'가 연말을 맞아 송년 기획 ‘그래서, 사랑’ 특집으로 백현X최유리, 10CMX고영배, 로이킴, 선우정아X안신애, 양희은, 고경표, 2am, 존박X스텔라장, 김민석, 인순이와 함께한다. 밴드마스터 정동환의 연주를 시작으로 MC 이영지를 비롯한 전 출연자들은]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[KBS “박서진, 살림남 하차 NO···합법적 군면제”]]></title>
-        <id>https://v.daum.net/v/20241227163408961</id>
-        <link href="https://v.daum.net/v/20241227163408961"/>
-        <updated>2024-12-27T08:17:33.659Z</updated>
-        <content type="html"><![CDATA[[서울경제] 가수 박서진의 군면제 논란과 관련해 KBS 측이 ‘살림남’ 하차는 없다고 선을 그었다. 27일 KBS2 ‘살림하는 남자들2’는 시청자 청원 게시판에 올라온 박서진의 하차를 요구하는 청원에 답변을 게시해 이같이 밝혔다. KBS 측은 “박서진은 수차례의 신체검사를 통해 정당한 사유로 군 복무를 면제받은 경우로 말씀하신 '군 복무 회피'라는 단어는]]></content>
     </entry>
 </feed>
