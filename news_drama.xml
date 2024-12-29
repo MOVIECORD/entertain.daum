@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-12-29T02:52:52.062Z</updated>
+    <updated>2024-12-29T03:23:24.066Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[밋밋해서 더 좋은 배우 서현우, 변검술 가면 갈아 끼우듯]]></title>
+        <id>https://v.daum.net/v/20241229120155539</id>
+        <link href="https://v.daum.net/v/20241229120155539"/>
+        <updated>2024-12-29T03:23:11.479Z</updated>
+        <content type="html"><![CDATA[서현우라는 배우의 얼굴이 주는 감상을 형용하자면, 다소 밋밋하다. 날렵한 이목구비로 수려한 느낌을 주거나, 두드러진 개성으로 강렬한 인상을 남기는 편은 아니다. 그렇다고 약점인가? 천만의 말씀, 당신이 무얼 원하든 가능케 하는 서현우만의 초강점이다. 흰 도화지에 먹칠하듯 매번 얼굴을 갈아 끼우며 곡예 널뛰기하는 연기자 덕분에 보는 이들은 눈이 즐거울 따]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['오징어게임2', 탑 발연기가 재 뿌렸지만…93개국 1위 쾌거]]></title>
+        <id>https://v.daum.net/v/20241229115803268</id>
+        <link href="https://v.daum.net/v/20241229115803268"/>
+        <updated>2024-12-29T03:23:11.479Z</updated>
+        <content type="html"><![CDATA[[텐아시아=태유나 기자]넷플릭스 시리즈 '오징어 게임' 시즌2가 93개국에서 1위를 달성했다. 탑의 연기력 논란은 연전히 진행형이다.&nbsp; 29일 복수를 다짐하고 다시 돌아와 게임에 참가하는 ‘기훈’(이정재)과 그를 맞이하는 ‘프론트맨’(이병헌)의 치열한 대결, 그리고 다시 시작되는 진짜 게임을 담은 이야기 '오징어 게임' 시즌2가 넷플릭스 시리즈 부문 글로]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['다리미' 김정현X금새록, 쌍방 연애 돌입]]></title>
         <id>https://v.daum.net/v/20241229115054147</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20241229105156995"/>
         <updated>2024-12-29T02:52:39.363Z</updated>
         <content type="html"><![CDATA[[OSEN=박소영 기자] ‘열혈사제2’ 김성균이 2024년 최고의 사이다 한 방을 선물했다. 김성균은 SBS 금토드라마 ‘열혈사제2’에서 구담경찰서 강력팀 형사 구대영 역을 맡아 유쾌한 에너지와 믿고 보는 연기로 마지막까지 활약해 눈길을 끌었다. 지난 27일 방송된 ‘열혈사제2’는 구대영(김성균 분)과 구담즈가 시원하게 남두헌(서현우 분), 김홍식(성준]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[유연석, 긴급 기자회견…♥채수빈 잃고 간절한 눈물]]></title>
-        <id>https://v.daum.net/v/20241229104718899</id>
-        <link href="https://v.daum.net/v/20241229104718899"/>
-        <updated>2024-12-29T02:52:39.365Z</updated>
-        <content type="html"><![CDATA[[마이데일리 = 김지우 기자] 채수빈이 유연석을 지키기 위해 온몸을 내던졌다. 28일(토) 방송된 MBC 금토드라마 ‘지금 거신 전화는’ 10회에서는 홍희주(채수빈 분)가 백사언(유연석 분)을 망가트리려는 납치범(박재윤 분)과 함께 자폭을 선택했다. 입소문을 타고 화제의 중심에 선 10회 시청률은 전국 7.5%, 수도권 7.4%(닐슨코리아 제공, 가구 기]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이승준=정유미 부모 죽인 배후‥주지훈♥정유미, 종영 앞두고 적신호]]></title>
-        <id>https://v.daum.net/v/20241229104450831</id>
-        <link href="https://v.daum.net/v/20241229104450831"/>
-        <updated>2024-12-29T02:52:39.366Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 박아름 기자] 이승준이 정유미 부모를 죽인 배후였다는 경악스러운 두 얼굴이 드러났다. 지난 12월 28일 방송된 tvN 토일드라마 ‘사랑은 외나무다리에서’(연출 박준화 배희영/극본 임예진) 11화에서는 쌍방 프러포즈로 로맨스 케미를 끌어올린 석지원(주지훈 분)과 윤지원(정유미 분)의 결혼 프로젝트가 펼쳐졌다. 특히 석지원은 두 사람의 연애 사실을]]></content>
     </entry>
 </feed>
