@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2024-12-30T16:16:38.575Z</updated>
+    <updated>2024-12-30T17:12:01.966Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['프로 포즈 장인' 장다아, 러블리 매력이 뚝뚝 '퍼펙트 공항룩']]></title>
+        <id>https://v.daum.net/v/20241231012806538</id>
+        <link href="https://v.daum.net/v/20241231012806538"/>
+        <updated>2024-12-30T17:11:56.939Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 김도형 기자] 배우 장다아가 지난 26일 오후 인천국제공항을 통해 '제9회 아시아 아티스트 어워즈'(The 9th Asia Artist Awards 이하 'AAA') 시상식 참석차 태국 방콕으로 출국했다. 장다아는 러블리한 분위기를 연출했다. 더블 코트에 무릎까지 내려오는 하프 치마 그리고 첼시 부츠를 매치했다. 심플한 크로스백에 연말]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[곽범 "로제 'APT' 패러디가 인종차별? 억울…맨 얼굴에 수염만 그렸을 뿐"]]></title>
         <id>https://v.daum.net/v/20241231005426433</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20241230235038954"/>
         <updated>2024-12-30T15:13:42.730Z</updated>
         <content type="html"><![CDATA[[스타뉴스 | 김노을 기자] /사진=성해은 인스타그램인플루언서 성해은이 제주항공 참사 희생자들에 대한 애도를 표했다. 성해은은 30일 자신의 SNS를 통해 "참담하다"며 "깊은 애도의 마음을 표한다. 삼가 고인의 명복을 빈다"고 밝혔다. 성해은은 티빙 오리지널 '환승연애 2'에 출연해 이름을 알렸다. 특히 승무원 출신인 그의 애도글은 더욱 먹먹함을 자아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘최승현’의 자충수, 그에게 ‘오징어 게임2’의 타노스란]]></title>
-        <id>https://v.daum.net/v/20241230234610948</id>
-        <link href="https://v.daum.net/v/20241230234610948"/>
-        <updated>2024-12-30T15:13:42.733Z</updated>
-        <content type="html"><![CDATA[[티브이데일리 윤지혜 칼럼니스트] 넷플릭스 ‘오징어 게임 시즌2’(‘오징어 게임2’)를 보며 계속 든 의문은 이것이다. 가수 탑이자 배우 최승현이 그토록 하고자 한 역할이, 진정 이 약쟁이 래퍼 ‘타노스’란 말인가. 마약 투약 혐의로 논란의 중심에 선 바 있는 그로서 ‘타노스’를 받아들인 것 자체가 악수 중의 악수가 아니었을까 싶은 게다. 다른 모양새의 캐]]></content>
     </entry>
 </feed>
