@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/variety</id>
     <title>다음 연예 ─ 뉴스 ─ 예능</title>
-    <updated>2024-12-30T18:18:31.911Z</updated>
+    <updated>2024-12-30T19:11:11.040Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이정재, "공유, '오겜2' 속 러시안 룰렛 장면 연기 섬뜩해" 극찬]]></title>
+        <id>https://v.daum.net/v/20241231040434898</id>
+        <link href="https://v.daum.net/v/20241231040434898"/>
+        <updated>2024-12-30T19:11:02.224Z</updated>
+        <content type="html"><![CDATA[[OSEN=김예솔 기자] 이정재가 공유의 연기를 극찬했다.&nbsp; 30일, 유튜브 채널 '넷플리스 코리아'에서는 '1화 엔딩을 보고 2화를 안 보실 수 있을까요?' 제목의 영상이 공개된 가운데 배우 이정재의 1화 리액션 영상이 공개됐다.&nbsp; 이정재는 극 중에서 등장하는 러시안 룰렛 게임 장면에 대한 이야기를 전했다. 이정재는 "이 장면이 굉장히 영화적인 설정이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[10기 정숙, ‘나솔사계’ 방송 왜곡? 억울 심경 토로 “이상한 사람으로 나와”]]></title>
         <id>https://v.daum.net/v/20241231010536475</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20241230225720715"/>
         <updated>2024-12-30T14:12:36.608Z</updated>
         <content type="html"><![CDATA[[OSEN=김예솔 기자] 신기루가 연애 경험이 63회라고 말했다.&nbsp; 30일, 채널A 생활밀착형 탐정 실화극 '탐정들의 영업비밀'에서는 일일 탐정으로 등장한 신기루가 연애 추리에 대한 자신감을 드러냈다.&nbsp; 이날 일일 탐정으로 개그우먼 신기루가 등장했다. 신기루는 "비만계의 유일한 고양이상"이라고 소개해 웃음을 자아냈다. 이날 실제 사건을 드라마화한 탐정]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[딥페이크 피해 호소..박하선x소유, 가해자 정체알고 '소름']]></title>
-        <id>https://v.daum.net/v/20241230225536705</id>
-        <link href="https://v.daum.net/v/20241230225536705"/>
-        <updated>2024-12-30T14:12:36.608Z</updated>
-        <content type="html"><![CDATA[[OSEN=김수형 기자]&nbsp;‘히든아이’에서 소유와 박하선이 딥페이크 피해를 호소했다.&nbsp; 30일 방송된 MBC에브리원 범죄 분석 코멘터리 쇼 '히든아이'에서는 MC 김성주를 비롯해 김동현, 박하선과 소유가 누구나 겪을 수 있는 생활밀착형 범죄에 대해 알아봤다. 이날 박하선 소유 김동현 등 3COPS가 한 해 동안 많은 공분을 샀던 범죄를 집중 분석했다.&nbsp;]]></content>
     </entry>
 </feed>
