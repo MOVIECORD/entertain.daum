@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2024-12-30T21:12:54.015Z</updated>
+    <updated>2024-12-30T22:13:38.903Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[눈에 띄는 신인배우 삼인방, '사심 가득' 선정했습니다]]></title>
+        <id>https://v.daum.net/v/20241231070901491</id>
+        <link href="https://v.daum.net/v/20241231070901491"/>
+        <updated>2024-12-30T22:13:19.008Z</updated>
+        <content type="html"><![CDATA[[원종빈 기자] (* 이 글은 영화의 스포일러를 포함하고 있습니다.) 12월, 연말정산의 시기가 돌아왔다. 영화계도 예외는 아니다. 지난 1년간 어떤 작품, 감독, 배우가 관객을 가장 웃고 울게 했는지 갑론을박이 또 한 번 벌어질 차례다. 그 갑론을박에 감히 뛰어들려 한다. 1년간 스크린을 수놓은 수많은 배우 중 유달리 뇌리에 각인된 신선한 배우 3인을 꼽]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['보고타', 낯선 땅에서 펼쳐지는 생존과 욕망의 대서사]]></title>
+        <id>https://v.daum.net/v/20241231070102343</id>
+        <link href="https://v.daum.net/v/20241231070102343"/>
+        <updated>2024-12-30T22:13:19.009Z</updated>
+        <content type="html"><![CDATA[[스포츠한국 이유민 기자]&nbsp;영화 '보고타: 마지막 기회의 땅'은 낯선 남미 땅에서 펼쳐지는 한인 사회의 피 말리는 권력 싸움과 대담한 밀수 작전을 중심으로, 이방인들의 처절한 생존 본능과 끝없는 욕망을 거칠게 담아낸다. 광활한 남미 대지와 날것 그대로의 풍광 속에서 송중기, 이희준, 권해효가 폭발적인 연기를 선보이며, 연말 극장가를 강타할 준비를 마]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['보고타', 콜롬비아에 펼쳐진 상인 느와르]]></title>
         <id>https://v.daum.net/v/20241231061004880</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20241230190119471"/>
         <updated>2024-12-30T10:14:30.792Z</updated>
         <content type="html"><![CDATA[[텐아시아=김지원 기자] 삶은 치열하다. 그러한 삶 속에서 한 사람이 해나가는 선택을 선이나 악으로 구별해 단정하긴 어렵다. 나에겐 '선'의 선택이 누군가에겐 '악'이 될 수 있고, 그 반대도 될 수 있다. 단지 그 순간 최선이라고 생각하는 바를 선택할 뿐이다. 삶을 향한 뜨거운 의지들이 얽히고설키는 이야기가 영화 '보고타: 마지막 기회의 땅'(이하 '보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[영화 '하얼빈', 제주항공 참사에 무대인사 취소... 영화계 애도 동참]]></title>
-        <id>https://v.daum.net/v/20241230190000435</id>
-        <link href="https://v.daum.net/v/20241230190000435"/>
-        <updated>2024-12-30T10:14:30.792Z</updated>
-        <content type="html"><![CDATA[[TV리포트=조은지 기자] 배우 현빈이 주연을 맡은 영화 '하얼빈' 팀이 제주항공 참사 희생자들을 애도하며 관객과의 만남이 예정됐던 무대인사 일정을 일부 취소했다. 30일 영화 '하얼빈' 측은 공식 입장을 통해 "12월 31일부터 1월 3일까지 계획된 무대인사와 관객과의 만남을 취소한다"라고 밝혔다. 이는 제주항공 참사 국가 애도 기간 중 희생자를 기리기]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[짐 모리슨의 부활...전설의 록밴드 '도어즈', 4K 리마스터링으로 돌아온다]]></title>
-        <id>https://v.daum.net/v/20241230183016965</id>
-        <link href="https://v.daum.net/v/20241230183016965"/>
-        <updated>2024-12-30T10:14:30.794Z</updated>
-        <content type="html"><![CDATA[(MHN스포츠 홍지민 인턴기자) 영화 '도어즈'가 4K 리마스터링 버전으로 돌아올 것을 예고하며 메인 포스터를 공개했다. 1960년대의 끝자락, 혁신적인 음악으로 록의 역사를 새로 쓴 밴드 '도어즈'(The Doors)와 그 중심의 전설적 프론트맨 '짐 모리슨'의 폭발적인 무대와 매혹적인 뒷이야기를 담은 드라마틱 록 무비 '도어즈'가 4K 리마스터]]></content>
     </entry>
 </feed>
