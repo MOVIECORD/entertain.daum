@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2024-12-31T02:43:43.537Z</updated>
+    <updated>2024-12-31T03:17:39.116Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[두문불출 대통령, 총 겨눈 군인들... 남 일 같지가 않다]]></title>
+        <id>https://v.daum.net/v/20241231120000907</id>
+        <link href="https://v.daum.net/v/20241231120000907"/>
+        <updated>2024-12-31T03:17:22.124Z</updated>
+        <content type="html"><![CDATA[[장혜령 기자] ▲ &nbsp;영화 &lt;시빌 워: 분열의 시대&gt; 스틸컷ⓒ (주)마인드마크태어났고 숨이 붙어 있으니 어떻게든 살고 있지만, 괜찮은 사람으로, 무탈하게 살아가는 일은 쉽지 않다. 인간이 동물과 다른 점 중 하나는 이성적인 사고로 옳은 판단과 가치를 선택할 수 있다는 게 아닐까. 그러나 최근 12.3 내란 사태와 덧붙여 내전 중인 타국을 생각하면 뚜렷한 차]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[정말 잘 만든 영화인데... 올해 마지막 날 보는 건 어때요?]]></title>
+        <id>https://v.daum.net/v/20241231115100666</id>
+        <link href="https://v.daum.net/v/20241231115100666"/>
+        <updated>2024-12-31T03:17:22.124Z</updated>
+        <content type="html"><![CDATA[[김성호 평론가] 다사다난했던 한해가 오늘로 끝이다. 한 시간, 하루는 지지리도 안 가는 듯 느껴질 때가 적잖으나 한 달, 일 년은 어찌도 발 빠르게 달아나는지 아쉬움도 후회도 한 가득이다. 영화평론가로서 일로서, 또 취미를 겸해 매달 많은 영화를 만나게 된다. 그중 몇은 홍보활동의 도움을 받아, 또 본연의 힘으로서 대중에게 제 존재감을 새긴다. 그러나 그]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[송중기·이희준 '살롱드립2', 공개일 미룬다…제주항공 참사 희생자 추모]]></title>
         <id>https://v.daum.net/v/20241231113741250</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20241231101040614"/>
         <updated>2024-12-31T02:43:24.284Z</updated>
         <content type="html"><![CDATA[[스포티비뉴스=김현록 기자]영화 '하얼빈'이 7일 연속 박스오피스 정상을 차지하며 흥행세를 이어갔다. 31일 영화진흥위원회 영화관입장권 통합전산망에 따르면 '하얼빈'은 30일 하루 15만7546불러모아 일일 박스오피스 정상을 차지했다. 누적 관객은 254만2868명에 이르렀다. 지난 24일 개봉한 '하얼빈'은 이후 꾸준히 박스오피스 정상을 지키며 연]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[송중기, 주연의 책임감으로 완성한 '보고타']]></title>
-        <id>https://v.daum.net/v/20241231100014077</id>
-        <link href="https://v.daum.net/v/20241231100014077"/>
-        <updated>2024-12-31T01:02:04.840Z</updated>
-        <content type="html"><![CDATA[19세에 보고타에 떨어진 국희 役 맡아 열연 "낯선 땅에서 벌어지는 한국 사람들의 이야기…새로운 매력 있어" [더팩트｜박지윤 기자] 배우 송중기는 전 세계를 혼란에 빠트린 코로나19로 인해 여러 우여곡절을 겪을 때도 주연 배우로서의 책임감만은 절대 잃지 않았다. 그 덕분에 '보고타'는 촬영을 시작한 시점으로부터 5년 만에 관객들과 만나게 됐다. 2024]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['동화지만 청불입니다', 기자간담회 취소…제주항공 참사 애도]]></title>
-        <id>https://v.daum.net/v/20241231095435895</id>
-        <link href="https://v.daum.net/v/20241231095435895"/>
-        <updated>2024-12-31T01:02:04.842Z</updated>
-        <content type="html"><![CDATA[(서울=뉴스1) 고승아 기자 = 영화 '동화지만 청불입니다'가 무안공항에서 발생한 제주항공 참사 여파로 기자간담회를 취소했다. '동화지만 청불입니다' 측은 31일 "영화는 오는 1월 3일 기존 일정 그대로 상영만 진행되며, 기자간담회는 진행되지 않는다"라며 "참고하시어 자리를 빛내주시기를 바라며, 변경된 일정에 양해 말씀드린다"고 밝혔다. 오는 1월 8]]></content>
     </entry>
 </feed>
