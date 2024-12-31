@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-12-31T20:14:12.529Z</updated>
+    <updated>2024-12-31T21:12:45.245Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이승준 “고현정, 겨우 밟아놨더니 다시 기어 나와” 분노]]></title>
+        <id>https://v.daum.net/v/20250101060802219</id>
+        <link href="https://v.daum.net/v/20250101060802219"/>
+        <updated>2024-12-31T21:12:29.649Z</updated>
+        <content type="html"><![CDATA[이승준이 고현정의 오디션 도전을 알고 분노했다. 12월 31일 방송된 지니 TV 오리지널 드라마 ‘나미브’ 4회(극본 엄성민/연출 한상재)에서 장현철(이승준 분)은 강수현(고현정 분)이 오디션을 노리고 있음을 알았다. 장현철은 매니저 시절 담당 아티스트의 사망에 충격을 받았고 강수현에게 “대표님 그 놈들 누구냐. 대표님들이 투자 받겠다고 회사로 들이지]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[고현정 아들 이진우 치료 위해 미국 훌쩍, 데뷔조 이기택 앙심]]></title>
+        <id>https://v.daum.net/v/20250101060754218</id>
+        <link href="https://v.daum.net/v/20250101060754218"/>
+        <updated>2024-12-31T21:12:29.654Z</updated>
+        <content type="html"><![CDATA[고현정이 아들 이진우의 치료를 위해 일을 뒤로 하고 미국으로 간 사이 데뷔조 이기택이 방치됐다. 12월 31일 방송된 지니 TV 오리지널 드라마 ‘나미브’ 4회(극본 엄성민/연출 한상재)에서는 방출돼 클럽에서 일하는 크리스(이기택 분)가 강수현(고현정 분)에게 앙심을 품은 이유가 암시됐다. 윤지영(김지우 분)은 심진우(이진우 분)에게 “너희 엄마는 어]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['오징어게임2' 살벌한 눈빛 배우, 누군가 했더니…]]></title>
         <id>https://v.daum.net/v/20250101030805283</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20241231172850714"/>
         <updated>2024-12-31T09:13:58.667Z</updated>
         <content type="html"><![CDATA[[스타뉴스 | 김미화 기자] /사진='옥씨부인전' '옥씨부인전' 배우 신승환의 강렬하게 재등장해 시청자의 시선을 집중시켰다. JTBC 토일드라마 '옥씨부인전'(극본 박지숙, 연출 진혁, 최보윤, 제작 SLL, 코퍼스코리아)은 이름도, 신분도, 남편도 모든 것이 가짜였던 여인 옥태영(임지연 분)과 그녀를 지키기 위해 목숨까지 걸었던 예인 천승휘(추영우 분)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이동욱 '킬러들의 쇼핑몰' 시즌2 제작 확정..내년 4월 첫 촬영]]></title>
-        <id>https://v.daum.net/v/20241231172427614</id>
-        <link href="https://v.daum.net/v/20241231172427614"/>
-        <updated>2024-12-31T09:13:58.667Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 | 이승훈 기자] /사진=디즈니+ '킬러들의 쇼핑몰' '킬러들의 쇼핑몰'이 시즌2로 돌아온다. 31일 스타뉴스 단독 취재 결과, 디즈니+ 오리지널 시리즈 '킬러들의 쇼핑몰'은 오는 2025년 4월 중 시즌2 첫 촬영에 돌입한다. 지난 1월 공개된 '킬러들의 쇼핑몰'은 삼촌 정진만(이동욱 분)이 남긴 위험한 유산으로 인해 수상한 킬러들의]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘옥씨부인전’ 빌런 신승환, 강렬한 존재감]]></title>
-        <id>https://v.daum.net/v/20241231171139251</id>
-        <link href="https://v.daum.net/v/20241231171139251"/>
-        <updated>2024-12-31T08:17:49.895Z</updated>
-        <content type="html"><![CDATA[‘옥씨부인전’ 배우 신승환의 강렬한 재등장이 긴장감을 끌어 올리고 있다.&nbsp; JTBC 토일드라마 ‘옥씨부인전’은 이름도, 신분도, 남편도 모든 것이 가짜였던 여인 옥태영(임지연)과 그녀를 지키기 위해 목숨까지 걸었던 예인 천승휘(추영우)의 치열한 생존 사기극을 한 여인의 이야기다. 극중 신승환은 복수를 위한 끝을 모르는 집념과 물불을 가리지 않는 행동으]]></content>
     </entry>
 </feed>
