@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-12-31T13:19:10.413Z</updated>
+    <updated>2024-12-31T14:12:35.378Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이혼위기 고현정·윤상현, 려운 위해 뭉쳤다 "빨리 데뷔시켜 버리자"]]></title>
+        <id>https://v.daum.net/v/20241231231126018</id>
+        <link href="https://v.daum.net/v/20241231231126018"/>
+        <updated>2024-12-31T14:12:22.464Z</updated>
+        <content type="html"><![CDATA[[OSEN=김예솔 기자] 고현정, 윤상현, 김현숙이 려운을 키우기 위해 뭉쳤다.&nbsp; 31일 방송된 지니TV 오리지널·ENA ‘나미브’에서는 유진우(려운)를 키우기 위해 이혼 위기였던 강수현(고현정), 심준석(윤상현)이 홍정화(김현숙)와 뭉치는 모습이 그려졌다.&nbsp; 앞서 유진우는 크리스(이기택)이 제안한 클럽에 출근했다. 크리스는 유진우에게 운전만 하고 돌아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[나영희, 남편 잠적에 분노→각성…"내 손자 내 힘으로 찾을 것"]]></title>
         <id>https://v.daum.net/v/20241231212221359</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20241231162600065"/>
         <updated>2024-12-31T08:17:49.897Z</updated>
         <content type="html"><![CDATA[[TV리포트=박혜리 기자] '오징어게임2' 주역들이 한자리에 모여 현실적인 리액션을 보였다. 30일, 채널 'Still Watching Netflix'에서는 "'오징어게임' 출연진들의 '무궁화 꽃이 피었습니다' 리액션"이라는 제목의 영상이 공유됐다. 이날은 이정재, 이서환, 임시완, 조유리, 박규영, 양동근, 강애심이 자리를 빛내 '무궁화 꽃이 피었습니다']]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[딘딘, 박나래·임시완 이어 힘 보탰다…제주항공 참사에 1천만원 기부]]></title>
-        <id>https://v.daum.net/v/20241231160103469</id>
-        <link href="https://v.daum.net/v/20241231160103469"/>
-        <updated>2024-12-31T07:13:19.564Z</updated>
-        <content type="html"><![CDATA[[이데일리 스타in 김보영 기자] 박나래, 임시완에 이어 래퍼 딘딘도 제주항공 참사 피해 지원에 힘을 보탰다. 딘딘.딘딘(본명 임철)은 31일 자신의 사회관계망서비스(SNS)를 통해 이같은 소식을 전했다. 딘딘은 이날 자신의 본명으로 대한적십자사에 1000만원을 기부했다. 딘딘은 “매번 한 해를 마무리 할 때 희망과 감사의 인사를 적었었는데 올해는 참]]></content>
     </entry>
 </feed>

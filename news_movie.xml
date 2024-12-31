@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2024-12-31T13:19:10.411Z</updated>
+    <updated>2024-12-31T14:12:35.396Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[로마 4대 대성당, 스크린에서 만난다...가톨력 희년 맞이]]></title>
+        <id>https://v.daum.net/v/20241231230005934</id>
+        <link href="https://v.daum.net/v/20241231230005934"/>
+        <updated>2024-12-31T14:12:18.307Z</updated>
+        <content type="html"><![CDATA[(MHN스포츠 김희승 인턴기자, 정에스더 기자) 가톨릭 희년을 맞아 로마 4대 대성당을 스크린에서 만날 수 있다. 이탈리아 넥소 디지털과의 협업 아래 '세기의 천재 미술가, 세계의 미술관'이라는 주제로 다양한 예술 다큐멘터리를 상영해 온 아트온시네마가 선정한 아홉 번째 작품 '성 베드로 대성당과 로마의 교황청 대성당들'이 2025년 1월 15일 개]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['반지하 생활·무명' 버텼는데..박성훈, 순간의 실수로 '공든탑' 무너지나]]></title>
         <id>https://v.daum.net/v/20241231215707626</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20241231173238871"/>
         <updated>2024-12-31T09:13:53.182Z</updated>
         <content type="html"><![CDATA[[뉴스엔 배효주 기자] 소지섭과 그의 소속사 51k가 공동 제공에 이름을 올린 영화 '서브스턴스'가 3주 연속 독립예술영화 박스오피스 1위 자리를 굳건히 지키고 있는 가운데, 15만 관객을 돌파했다. 12월 31일 영화진흥위원회 통합전산망 집계에 따르면, 영화 '서브스턴스'(감독 코랄리 파르자)가 개봉 20일째인 30일, 15만 명 관객을 돌파했다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘사일런트 러브’ 야마다 료스케x하마베 미나미, 완벽한 비주얼 ‘케미’]]></title>
-        <id>https://v.daum.net/v/20241231172410606</id>
-        <link href="https://v.daum.net/v/20241231172410606"/>
-        <updated>2024-12-31T09:13:53.182Z</updated>
-        <content type="html"><![CDATA[[티브이데일리 최하나 기자] '사일런트 러브'가 야마다 료스케와 하마베 미나미의 완벽한 비주얼 케미스트리가 돋보이는 다가서다 포스터를 공개했다. 영화 '사일런트 러브'는 목소리를 잃은 그와 빛을 잃은 그녀가 만나 사랑으로 서로를 채워가는 이야기다. 청량한 푸른빛으로 물든&nbsp;하늘을 배경으로 한 포스터는 정면을 응시한 채 나란히 서있는 아오이(야마다 료스케)와]]></content>
     </entry>
 </feed>
