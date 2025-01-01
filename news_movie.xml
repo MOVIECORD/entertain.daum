@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2025-01-01T09:14:22.920Z</updated>
+    <updated>2025-01-01T10:14:45.859Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[현빈 울면서 그려낸 '하얼빈' 안중근, 2025년 새해 첫날부터 곱씹는 이유]]></title>
+        <id>https://v.daum.net/v/20250101183517439</id>
+        <link href="https://v.daum.net/v/20250101183517439"/>
+        <updated>2025-01-01T10:14:29.204Z</updated>
+        <content type="html"><![CDATA[[OSEN=연휘선 기자] 배우 현빈이 울면서 연기할 만 했다. 동양평화를 위해 의거를 실행한 독립운동가이자 참군인, 적장에게도 밀정에게도 나름의 소신으로 기회를 줄 줄 알았던 소신을 가진 의인. 영화 '하얼빈'이 그려낸 안중근 장군의 신념이 혼란스러운 연말연시, 관객들에게 시사점을 남기고 있다.&nbsp; 영화 '하얼빈'(감독 우민호, 제공/배급 CJ ENM,]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이승윤, 여객기 참사 추모하며 음원 발표 "슬픔 가득…최선의 마음 담아"]]></title>
         <id>https://v.daum.net/v/20250101180110010</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20250101163031648"/>
         <updated>2025-01-01T08:17:13.179Z</updated>
         <content type="html"><![CDATA[[동아닷컴]  넷플릭스가 ‘오징어 게임2’ 기대 수익 관련 분석에 대해 입장을 밝혔다. 넷플릭스는 1일 공식 입장문을 통해 “공개 첫 주부터 넷플릭스 공식 집계 사이트에서 전 세계 1위를 차지한 자랑스러운 한국 작품 ‘오징어 게임2’에 보내주고 계신 많은 관심과 사랑에 깊이 감사합니다”라면서도 “어제(2024년 12월 31일) 국내 모 조사 단체가 발표한]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[송중기의 '보고타', 韓 영화 흥행 잇나? 동시기 개봉작 1위]]></title>
-        <id>https://v.daum.net/v/20250101162401550</id>
-        <link href="https://v.daum.net/v/20250101162401550"/>
-        <updated>2025-01-01T08:17:13.180Z</updated>
-        <content type="html"><![CDATA[[TV리포트 = 하수나 기자] 송중기와 이희준의 만남이 통했다. 영화 ‘보고타: 마지막 기회의 땅’이 개봉 첫날 동시기 개봉작 박스오피스 1위에 등극했다. 영화관입장권 통합전산망에 따르면 영화 ‘보고타: 마지막 기회의 땅’은 개봉 첫날인 12월 31일(화) 97,296명의 관객을 동원, 동시기 개봉작 박스오피스 1위를 차지했다. ‘보고타: 마지막 기회의 땅]]></content>
     </entry>
 </feed>
