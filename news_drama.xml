@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2025-01-02T19:10:42.072Z</updated>
+    <updated>2025-01-02T20:14:39.025Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[스포주의! 첫 주말 지난 '오겜2', 어떤 캐릭터가 시청자를 사로잡았나]]></title>
+        <id>https://v.daum.net/v/20250103051005870</id>
+        <link href="https://v.daum.net/v/20250103051005870"/>
+        <updated>2025-01-02T20:14:24.349Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 이승길 기자] 넷플릭스의 글로벌 히트작 '오징어 게임' 시즌2가 공개되고, 첫 주말이 지났다. 시즌1의 기록을 넘어 전 세계 93개국에서 넷플릭스 시리즈 부문 1위를 기록하며 화제를 모은 시즌2. 때문에 긍정적이건, 부정적으로건 '오징어 게임2'를 접한 시청자들은 다양한 캐릭터를 놓고 치열한 논쟁을 벌이고 있다. 조현주(박성훈) : 진정성]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘오징어게임2’ 이병헌, 故 신해철 노래에 깜짝 “피바다인데”]]></title>
         <id>https://v.daum.net/v/20250103005146957</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20250102195100021"/>
         <updated>2025-01-02T11:11:51.289Z</updated>
         <content type="html"><![CDATA[[TV리포트 = 하수나 기자] ‘친절한 선주씨’ 최정윤이 심이영과 정영섭 부부의 저녁식사 자리에 들이닥치며 뻔뻔한 행보를 이어갔다.&nbsp; 2일 MBC 일일드라마 ‘친절한 선주씨’에선 상아(최정윤 분)가 남진(정영섭 분)에게 이혼을 종용하는 모습이 그려졌다.&nbsp; 상아는 남진이 아내 선주와 식사를 하러 가는 것을 붙잡았다. 상아는 “우리 둘 다 이혼 하자며. 삼자대]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['서현 팔짱거부' 김정현, 6만에 KBS에서 재회한다..'김딱딱' 해명할까]]></title>
-        <id>https://v.daum.net/v/20250102194738970</id>
-        <link href="https://v.daum.net/v/20250102194738970"/>
-        <updated>2025-01-02T11:11:51.291Z</updated>
-        <content type="html"><![CDATA[[OSEN=김수형 기자]&nbsp;국가애도기간 지정으로 결방됐던 ‘2024 KBS 연기대상’이 재편성될 가능성을 높인 가운데, MC 를 맡은 서현과 드라마 '다리미 패밀리’ 에서 열연한 배우 김정현이 6년만에 재회하게 됐다.&nbsp; 2일 오늘, OSEN 취재 결과, ‘2024 KBS 연기대상’은 차주 편성을 논의 중으로 알려졌다다. 오는 7일과 11일을 두고 편성 논]]></content>
     </entry>
 </feed>
