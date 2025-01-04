@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2025-01-04T09:13:26.868Z</updated>
+    <updated>2025-01-04T10:14:09.069Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['옥씨부인전' 전익령, 임지연 앞에 다시 나타났다…팽팽한 긴장감]]></title>
+        <id>https://v.daum.net/v/20250104183104838</id>
+        <link href="https://v.daum.net/v/20250104183104838"/>
+        <updated>2025-01-04T10:13:55.516Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 박로사 기자] 임지연과 연우, 전익령의 삼자대면이 성사된다. 4일 방송될 JTBC 토일드라마 ‘옥씨부인전’ 9회에서는 딸 차미령(연우)을 이용해 옥태영(임지연)에게 끔찍한 복수를 저지르려던 송씨 부인(전익령)이 두 사람 앞에 다시 나타난다. 송씨 부인은 과거 노비 백이(윤서아) 사건으로 인해 옥태영에게 앙심을 품고 복수를 계획했다. 아들]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[채수빈, 유연석 행방 수소문… ‘지거전’, 해피엔딩 완성될까]]></title>
         <id>https://v.daum.net/v/20250104181201709</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20250104150131922"/>
         <updated>2025-01-04T06:17:53.828Z</updated>
         <content type="html"><![CDATA[[TV리포트 = 하수나 기자] 채수빈이 종적을 감춘 유연석을 향한 사무치는 그리움을 드러낸다.&nbsp; 4일 MBC 금토드라마 ‘지금 거신 전화는’ 최종회에서는 홍희주(채수빈 분)가 종적을 감춘 백사언(유연석 분)을 하염없이 기다린다.&nbsp; 앞서 희주는 심규진(추상미 분)의 계략에서 기적적으로 살아 돌아와 사언과 재회했다. 하지만 납치범(박재윤 분)은 끈질기게 두 사]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['지금 거신 전화는' 유연석·채수빈, 오늘 마지막 이야기…해피엔딩일까]]></title>
-        <id>https://v.daum.net/v/20250104150039911</id>
-        <link href="https://v.daum.net/v/20250104150039911"/>
-        <updated>2025-01-04T06:17:53.829Z</updated>
-        <content type="html"><![CDATA[[마이데일리 = 이승길 기자] '지금 거신 전화는' 유연석과 채수빈은 다시 만날 수 있을까. 4일 방송되는 MBC 금토드라마 '지금 거신 전화는' 최종회에서는 홍희주(채수빈)가 종적을 감춘 백사언(유연석)을 하염없이 기다리며 그리움에 사무친다. 앞서 희주는 심규진(추상미)의 계략에서 기적적으로 살아 돌아와 사언과 재회했다. 하지만 납치범(박재윤)은 끈질]]></content>
     </entry>
 </feed>
