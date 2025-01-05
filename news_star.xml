@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2025-01-05T19:10:21.487Z</updated>
+    <updated>2025-01-05T20:13:35.703Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[권상우♥손태영, 아들·딸 최초 공개…"15살子 키 180㎝"]]></title>
+        <id>https://v.daum.net/v/20250106050206231</id>
+        <link href="https://v.daum.net/v/20250106050206231"/>
+        <updated>2025-01-05T20:13:29.673Z</updated>
+        <content type="html"><![CDATA[[서울=뉴시스] 신효령 기자 = 배우 권상우(49)·손태영(45) 부부가 아들·딸의 외모를 처음 공개했다. 지난 5일 유튜브 채널 'Mrs.뉴저지 손태영'에는 '이번에는 진짜 다투는 손태영♥권상우 부부(+아들딸 얼굴 공개)'라는 제목의 영상이 올라왔다. 영상에서 손태영은 권상우가 다니는 헬스장을 찾아 운동을 배웠다. 이후 집으로 돌아온 두 사람은 떡볶]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘오징어 게임2’ 핑크가드 정체를 드러낸 ‘노을’ 캐릭터 포스터 공개···미공개 스틸 39종 대방출]]></title>
         <id>https://v.daum.net/v/20250106034207908</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20250106000829290"/>
         <updated>2025-01-05T15:12:16.773Z</updated>
         <content type="html"><![CDATA[(서울=뉴스1) 김보 기자 = '옥씨부인전' 추영우가 임지연에게 애틋한 마음을 고백했다. 5일 오후 방송된 JTBC 토일드라마 '옥씨부인전'(극본 박지숙/연출 진혁, 최보윤)에는 송서인(추영우 분)은 구덕이(임지연 분)에게 자신의 오랜 마음을 고백했다. 송서인은 구덕이를 위해 죽은 척까지 하며 성윤겸(추영우 분) 행세를 해 청수연에 찾아들어 왔다. 이에]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['삼남매맘' 김성은, ♥정조국과 슬픈 이별…"또 떨어져 살게 돼"]]></title>
-        <id>https://v.daum.net/v/20250106000205076</id>
-        <link href="https://v.daum.net/v/20250106000205076"/>
-        <updated>2025-01-05T15:12:16.774Z</updated>
-        <content type="html"><![CDATA[[마이데일리 = 박서연 기자] 배우 김성은이 파이팅 넘치는 새해를 전했다. 5일 김성은은 자신의 계정에 "2025년에 우리 가족 모두 화이팅!! 전북 현대 코치된 거 너무 축하해 신랑~ 어딜 가든 잘 할 거라 믿어!! 또 떨어져 살게 되어 쬐금 슬프지만.. 그래도 작년에 함께 한 시간들 덕분에 힘내서 잘해볼게! 2025년에도 배우 김성은으로 엄마로 그리]]></content>
     </entry>
 </feed>
