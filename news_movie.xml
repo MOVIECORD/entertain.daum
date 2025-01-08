@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2025-01-08T15:14:47.519Z</updated>
+    <updated>2025-01-08T16:16:58.754Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[손태영, 美서 몸은 떨어져 있어도 ♥권상우 내조의 여왕 "히트 칠거야"]]></title>
+        <id>https://v.daum.net/v/20250109005141615</id>
+        <link href="https://v.daum.net/v/20250109005141615"/>
+        <updated>2025-01-08T16:16:41.472Z</updated>
+        <content type="html"><![CDATA[[OSEN=김예솔 기자] 손태영이 남편 권상우의 영화를 홍보했다.&nbsp; 8일, 손태영은 개봉을 앞둔 권상우의 영화를 홍보하며 내조에 나섰다. 손태영은 "곧 히트맨2가 히트칠거야 2025.1.22 대개봉 가족분들 그리고 모두 놓치지 마세요"라고 글을 남겼다. 손태영은 영화 '히트맨2' 포스터를 게시하며 영화 홍보에 힘을 싣었다.&nbsp; 이에 손태영의 형부인 피아니]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[황동혁 세계관 반영 '가장 아름다운' 현주 역 박성훈 "'세상의 모든 현주'에게 따뜻한 시선을"]]></title>
         <id>https://v.daum.net/v/20250109001024391</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20250108182409030"/>
         <updated>2025-01-08T10:14:54.953Z</updated>
         <content type="html"><![CDATA[[OSEN=하수정 기자] 판타지 로맨스의 레전드로 불리는 동명의 영화를 원작으로 한 영화 ‘말할 수 없는 비밀’(감독 서유민, 제공 쏠레어파트너스(유), 공동제공 ㈜하이그라운드, 제작 ㈜하이브미디어코프, 배급 플러스엠 엔터테인먼트)을 향한 예비 관객들의 기대감이 계속해서 커지고 있다.&nbsp; 시간의 비밀이 숨겨진 캠퍼스 연습실에서 유준과 정아가 우연히 마주치]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[계훈→케이주 ‘JYP 신예’ 킥플립 소개 영상 공개]]></title>
-        <id>https://v.daum.net/v/20250108175912416</id>
-        <link href="https://v.daum.net/v/20250108175912416"/>
-        <updated>2025-01-08T09:14:38.605Z</updated>
-        <content type="html"><![CDATA[[동아닷컴]        계훈→케이주 ‘JYP 신예’ 킥플립 소개 영상 공개 JYP엔터테인먼트(이하 JYP) 신인 보이그룹 킥플립(KickFlip) 계훈-아마루-동화-주왕-민제-케이주-동현이 데뷔 소감을 전하며 각오를 밝혔다. JYP는 8일 0시 킥플립 공식 SNS 채널에 개인 인트로덕션 비디오를 공개했다. 이번 티저 속 계훈-아마루-동화-주왕-민제-케이]]></content>
     </entry>
 </feed>
