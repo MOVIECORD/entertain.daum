@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2025-01-08T21:13:05.135Z</updated>
+    <updated>2025-01-08T22:13:01.726Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이병헌 “‘오겜’ 이후 아들 태도 달라져…뽀뽀하고 매달리고”]]></title>
+        <id>https://v.daum.net/v/20250109070722309</id>
+        <link href="https://v.daum.net/v/20250109070722309"/>
+        <updated>2025-01-08T22:12:41.523Z</updated>
+        <content type="html"><![CDATA[사진제공｜넷플릭스이병헌과 박성훈은 공개하자마자 경이로운 흥행 기록을 써 내려가고 있는 ‘대표 케이(K) 콘텐츠’ 넷플릭스 ‘오징어 게임’ 시즌2에서 명실상부 가장 돋보이는 배우다. 시즌1에서 상금 456억 원이 걸린 살육 게임을 진두지휘하는 프론트맨 역으로 짧지만, 굵은 존재감을 과시했던 이병헌은 이번 시즌에서 정체를 숨긴 채 게임에 직접 참여해 게임을]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘러브레터’ 재상영의 의미, 모두들 “오겡끼데스까?”]]></title>
         <id>https://v.daum.net/v/20250109060516467</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20250108200002693"/>
         <updated>2025-01-08T11:11:20.339Z</updated>
         <content type="html"><![CDATA[[텐아시아=김지원 기자] "올해 7살 된 아들은 제가 TV에 나온다는 정도만 알고 자세히는 잘 몰라요. 아직은 영화를 긴 시간 집중해서 보긴 어려운 나이죠. 올해나 내년쯤 돼야 얘기를 좀 나눠볼 수 있지 않을까 싶어요. '하얼빈'은 매년 뜻깊은 날에 영화가 나올 거라고 생각해요. 언젠가 아들과 TV를 보게 되면 '아빠 맨날 늦게 오는 줄만 알았더니 멋있네]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['수퍼 소닉3' 엔딩 쿠키 영상으로 시즌4 제작 기대감 키웠다!]]></title>
-        <id>https://v.daum.net/v/20250108190008670</id>
-        <link href="https://v.daum.net/v/20250108190008670"/>
-        <updated>2025-01-08T10:14:54.946Z</updated>
-        <content type="html"><![CDATA[(MHN스포츠 김서윤 인턴기자) '수퍼 소닉3'가 쿠키 영상을 통해 4편 제작을 예고해 팬들의 관심을 모으고 있다. 영화 '수퍼 소닉3'는 개봉 첫 주말 외화 박스오피스 1위를 기록하며 흥행 열풍을 이어가고 있다. 관객들은 "소닉 4편도 나오는 거죠? 기다릴게요", "1편도 재밌었는데 2편이 1편보다 재밌었고 3편이 2편보다 더 재밌다. 점점]]></content>
     </entry>
 </feed>
