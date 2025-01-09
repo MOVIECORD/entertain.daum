@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2025-01-09T21:13:08.093Z</updated>
+    <updated>2025-01-09T22:13:14.531Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['하얼빈' 17일째 1위…400만 돌파 눈앞]]></title>
+        <id>https://v.daum.net/v/20250110070933932</id>
+        <link href="https://v.daum.net/v/20250110070933932"/>
+        <updated>2025-01-09T22:12:55.062Z</updated>
+        <content type="html"><![CDATA[(서울=뉴스1) 장아름 기자 = 영화 '하얼빈'이 17일째 박스오피스 1위를 기록, 400만 돌파를 향해 가고 있다. 10일 영화진흥위원회 영화관입장권통합전산망의 집계에 따르면 '하얼빈'은 지난 9일 4만 4851명의 관객을 동원하며 누적관객수 387만 2434명을 기록, 박스오피스 1위를 지켰다. '하얼빈'은 1909년, 하나의 목적을 위해 하얼빈으로]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[발칙한 상상력 가득, ‘사카모토 데이즈’→‘업쇼 패밀리6’]]></title>
         <id>https://v.daum.net/v/20250110060511968</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20250109184611454"/>
         <updated>2025-01-09T10:15:19.352Z</updated>
         <content type="html"><![CDATA[[OSEN=김수형 기자] ‘요정재형’에서 전현무가 유재석을 공개 저격(?)하는 듯한 발언이 눈길을 끌었다.&nbsp; 7일 방송된 요정재형 채널을 통해 ‘비호감으로 시작해, 이젠 사랑할 수 밖에 없는 귀여운 말썽쟁이 현무!!!!!!’란 제목으로 영상이 게재됐다. 정재형은 “공중파에서 본색을 드러냈다”고 하자 전현무는 “고음불가 춤 추니 쟤 왜 저러냐고 해특히 품]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["까레아 우라" 계속된다..'하얼빈' 현빈x감독, 무대인사·GV 확정]]></title>
-        <id>https://v.daum.net/v/20250109181601817</id>
-        <link href="https://v.daum.net/v/20250109181601817"/>
-        <updated>2025-01-09T10:15:19.354Z</updated>
-        <content type="html"><![CDATA[[OSEN=하수정 기자] 2025년을 여는 화제작 '하얼빈'이 장기 흥행을 이어가고 있는 가운데, 1월 13일(월) 서울 CGV용산아이파크몰에서 까레아 우라 무대인사를 진행한다.&nbsp; 영화 '하얼빈'에서 열연한 안중근의 현빈과 연출의 우민호 감독이 오는 13일(월) CGV용산아이파크몰에서 무대인사와 관객과의 대화 행사로 다시 뭉친다. '하얼빈' 홍보를 위]]></content>
     </entry>
 </feed>
