@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/variety</id>
     <title>다음 연예 ─ 뉴스 ─ 예능</title>
-    <updated>2025-01-10T20:15:56.578Z</updated>
+    <updated>2025-01-10T21:12:44.978Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[결방 직격타 맞더니…유재석, 국가애도기간 언급 "방송 2주간 밀려 못 나가"]]></title>
+        <id>https://v.daum.net/v/20250111060601978</id>
+        <link href="https://v.daum.net/v/20250111060601978"/>
+        <updated>2025-01-10T21:12:35.009Z</updated>
+        <content type="html"><![CDATA[[텐아시아=김세아 기자] ‘놀면 뭐하니?’&nbsp;겨울에 듣고 싶은 목소리들이 총출동한다. &nbsp; 1월&nbsp;11일 방송되는&nbsp;MBC&nbsp;‘놀면 뭐하니?’(연출 김진용 이주원 왕종석 안지선 방성수/작가 노민선)에서는 멤버들이 반가운 목소리의 게스트들과 함께 겨울 분위기 가득한&nbsp;‘윈터송’을 부르는 모습이 그려진다. &nbsp; 방송을 앞두고 공개된 예고편에서 유재석은&nbsp;“방송이&nbsp;2주간&nbsp;(]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“이창섭 전략 통했다”…‘유니버스 리그’ 팀 그루브, 3R 첫 유닛 매치 勝]]></title>
         <id>https://v.daum.net/v/20250111012701024</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20250111001708631"/>
         <updated>2025-01-10T16:17:05.186Z</updated>
         <content type="html"><![CDATA[(엑스포츠뉴스 원민순 기자) 키가 간호사 어머니의 퇴임에 감동의 파티를 열어줬다. 10일 방송된 MBC '나 혼자 산다'에서는 키가 어머니의 마지막 퇴근길을 함께하는 모습이 전파를 탔다. 이날 키는 어머니를 위한 서프라이즈 퇴임식 파티를 준비하고자 대구 본가로 내려갔다.&nbsp;간호과장으로 근무 중인 어머니가 마지막 출근을 앞두고 있다고. 키는 어머니가 병원에서]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[전현무, 母 향한 효도 이번에도 실패? "母, 출근지 어딘지 몰라"]]></title>
-        <id>https://v.daum.net/v/20250111001417593</id>
-        <link href="https://v.daum.net/v/20250111001417593"/>
-        <updated>2025-01-10T16:17:05.188Z</updated>
-        <content type="html"><![CDATA[[OSEN=김예솔 기자] 키가 어머니의 퇴임식을 함께 했다.&nbsp; 1월 10일 방송된 MBC 예능 '나 혼자 산다'에서는 키가 간호과장으로 근무하는 어머니의 마지막 퇴근길을 함께한 가운데 전현무의 어머니 퇴직을 언급했다. &nbsp; 키는 "엄마가 첫 직장에서 나도 낳고 모든 순간이 36년 안에 다 있다"라며 어머니가 36년을 몸 담은 병원에 방문했다. 키는 "간호]]></content>
     </entry>
 </feed>
