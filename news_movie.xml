@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2025-01-11T06:17:31.489Z</updated>
+    <updated>2025-01-11T07:12:21.664Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['하얼빈', 흥행여정은 이제부터 시작! 400만 관객 돌파]]></title>
+        <id>https://v.daum.net/v/20250111160518957</id>
+        <link href="https://v.daum.net/v/20250111160518957"/>
+        <updated>2025-01-11T07:12:04.849Z</updated>
+        <content type="html"><![CDATA[아이즈 ize 최재욱 기자을사년 새해 극장가를 힘차게 열어가고 있는 '하얼빈'이 드디어 400만 관객을 돌파했다.&nbsp; 11일 영화진흥위원화 영화관 입장권 통합전산망 집계에 따르면 '하얼빈'이 400만 관객을 넘어섰다. 이로서 '하얼빈'은 지난 12월 24일 개봉 이래 19일 연속 전체 영화 박스오피스 1위 및 28일 연속 전체 영화 예매율 1위를 지켜온 데]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['하얼빈', 400만 돌파… 2024년 한국영화 흥행작 TOP5 등극]]></title>
         <id>https://v.daum.net/v/20250111151652590</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20250111121933303"/>
         <updated>2025-01-11T04:16:13.093Z</updated>
         <content type="html"><![CDATA[(서울=뉴스1) 장아름 기자 = 봉준호 감독의 신작 '미키17'이 베를린 영화제에 간다. 10일(현지시간) 미국 연예매체 버라이어티에 따르면 '미키17'은 오는 2월 13일부터 23일까지 개최되는 제75회 베를린 영화제에서 처음 상영된다. 봉준호 감독의 베를린 영화제 초청은 11년 만이다. 봉준호 감독은 지난 2014년 영화 '설국열차'로 제64회 베를]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[봉준호 '미키17', 베를린 영화제 간다..11년만 참석]]></title>
-        <id>https://v.daum.net/v/20250111120125208</id>
-        <link href="https://v.daum.net/v/20250111120125208"/>
-        <updated>2025-01-11T03:18:47.431Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 | 안윤지 기자] 봉준호 감독 /사진=스타뉴스봉준호 감독의 신작 '미키17'이 베를린국제영화제로 향한다. 10일(현지 시각) 미국 연예 매체 버라이어티에 따르면 영화 '미키17'은 오는 2월 13일 열리는 75회 베를린국제영화제에서 상영된다고 보도했다. 이는 2014년 '설국열차'로 해당 영화제에 초청된 이후 11년 만이다. '미키17'은]]></content>
     </entry>
 </feed>
