@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2025-01-12T02:54:20.434Z</updated>
+    <updated>2025-01-12T03:24:42.997Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['별들에게 물어봐' 공효진, 우주 한복판에서 의식불명]]></title>
+        <id>https://v.daum.net/v/20250112121135689</id>
+        <link href="https://v.daum.net/v/20250112121135689"/>
+        <updated>2025-01-12T03:24:27.660Z</updated>
+        <content type="html"><![CDATA["마지막까지 살아야 되는 사람" 공효진이 건넨 유서가 이민호의 마음을 뒤흔들고 있다. 어제(11일) 방송된 tvN 토일드라마 '별들에게 물어봐'(극본 서숙향, 연출 박신우, 기획 스튜디오드래곤, 제작 키이스트, MYM엔터테인먼트) 3회에서는 공룡(이민호 분)이 이브 킴(공효진 분)을 향한 감정에 혼란스러워하는 사이 우주 유영을 나간 이브 킴이 절체절명]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['체크인 한양' 김지은, 살인죄 누명 씌운 김민정에 선전포고]]></title>
+        <id>https://v.daum.net/v/20250112120134563</id>
+        <link href="https://v.daum.net/v/20250112120134563"/>
+        <updated>2025-01-12T03:24:27.660Z</updated>
+        <content type="html"><![CDATA["도망치지 않을 것" '체크인 한양' 김지은이 김민정에게 선전포고를 했다. 11일 방송된 채널A 토일드라마 '체크인 한양'(극본 박현진/연출 명현우, 노규엽/기획 채널A/제작 위매드, 아티스트스튜디오, 스토리네트웍스/공동 제작 투자 PONY CANYON) 7회에서는 설매화(김민정 분)의 방해를 딛고, 이은호(배인혁 분)의 도움으로 포도청에서 풀려나 용]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[웹드라마에서 MBC 진출까지…최희진, 통통 튀는 수의사]]></title>
         <id>https://v.daum.net/v/20250112114602206</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20250112104732272"/>
         <updated>2025-01-12T02:54:05.316Z</updated>
         <content type="html"><![CDATA[[동아닷컴]  배우 김윤혜가 반전 서사로 주목도를 높였다. 지난 11일 SBS 금토드라마 ‘나의 완벽한 비서’(연출 함준호·김재홍, 극본 지은)‘ 4회에서는 김윤혜가 분한 정수현이 싱글맘이 된 사연이 밝혀졌다. 이날 정수현은 어머니 이정순(윤유선 분)과 함께 언니 부부가 안치된 납골당을 찾았다. 정수현은 “서준(김태빈 분)이 많이 컸지? 갈수록 두 사람]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아내 구두도 벗겨주는 이재우, 세상에 이런 남편이 어딨어]]></title>
-        <id>https://v.daum.net/v/20250112104431223</id>
-        <link href="https://v.daum.net/v/20250112104431223"/>
-        <updated>2025-01-12T02:54:05.318Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 박아름 기자] 이재우가 다정한 매력으로 설렘을 선사했다. 배우 이재우는 SBS 금토드라마 ‘나의 완벽한 비서’(연출 함준호·김재홍/극본 지은)에서 ‘이강석’ 역을 통해 세상에 존재하지 않을 것 같은 완벽한 남편의 모습을 보여주고 있다. '나의 완벽한 비서'는 일'만' 잘하는 헤드헌팅 회사 CEO 지윤과, 일'도' 완벽한 비서 은호의 밀착 케어 로]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['대상' 이순재 감동 바통 '최우수상' 박지영에게..무안공항 희생자 추모까지]]></title>
-        <id>https://v.daum.net/v/20250112104327198</id>
-        <link href="https://v.daum.net/v/20250112104327198"/>
-        <updated>2025-01-12T02:54:05.321Z</updated>
-        <content type="html"><![CDATA[[OSEN=박소영 기자] 배우 박지영이&nbsp;‘2024 KBS&nbsp;연기대상’에서 최우수상을 수상했다. 지난&nbsp;11일 토요일 오후&nbsp;9시&nbsp;20분 녹화 방송된&nbsp;‘2024 KBS&nbsp;연기대상’에서 배우 박지영이 최우수상과 베스트커플상을 수상했다.&nbsp;박지영은&nbsp;KBS 2TV&nbsp;주말드라마&nbsp;‘다리미 패밀리’에서 청렴세탁소 돈가방 사건의 중심 인물인&nbsp;‘고봉희’로 분해 시부모님과 삼남매에]]></content>
     </entry>
 </feed>
