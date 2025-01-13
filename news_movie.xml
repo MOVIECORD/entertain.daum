@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2025-01-13T20:15:05.637Z</updated>
+    <updated>2025-01-13T21:12:37.733Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['오겜2' 박성훈 "전재준? 전재순? 현주? 선물 같은 캐릭터들이죠 "]]></title>
+        <id>https://v.daum.net/v/20250114061004572</id>
+        <link href="https://v.daum.net/v/20250114061004572"/>
+        <updated>2025-01-13T21:12:16.625Z</updated>
+        <content type="html"><![CDATA[(MHN스포츠 장민수 기자) 배우 박성훈이 넷플릭스 시리즈 '오징어 게임 2' 현주 역을 통해 새로운 연기 변신에 나섰다. 배우로서 탐나면서도 조심스러운, 트랜스젠더 역할이다. 자칫 우스꽝스럽게 연기했다간 트랜스젠더를 비롯한 성소수자들에게 상처를 안겨줄 수 있다. 그렇기에 박성훈 역시 "절대 희화화되면 안 된다는 것이 중요했다"고 강조했다. 그]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이병헌 “美, ‘오겜2’로 가장 큰 환대…아이러니하면서도 감개무량”]]></title>
+        <id>https://v.daum.net/v/20250114060703543</id>
+        <link href="https://v.daum.net/v/20250114060703543"/>
+        <updated>2025-01-13T21:12:16.635Z</updated>
+        <content type="html"><![CDATA[“많은 사람이 고생한 작품이 좋은 반응을 얻어서 굉장한 보람을 느껴요.” 배우 이병헌이 넷플릭스 오리지널 시리즈 ‘오징어 게임’ 시즌2(이하 ‘오징어 게임2’)로 시청자들을 만나고 있다. 지난달 26일 공개된 ‘오징어 게임2’는 시즌1 엔딩에서 이어지는 이야기로, 복수를 다짐한 성기훈(이정재)이 두 번째 게임에 참여, 프론트맨(이병헌)과 재회하면서 시작된]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[소지섭 안목 또 해냈다…'서브스턴스' 누적 20만 돌파]]></title>
         <id>https://v.daum.net/v/20250114000042330</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20250113184410387"/>
         <updated>2025-01-13T10:14:57.405Z</updated>
         <content type="html"><![CDATA[[스포츠조선 안소윤 기자] 영화 '검은 수녀들'이 특별관 상영을 확정하며 각 포맷별로 다채로운 비주얼이 돋보이는 포스터를 공개했다. '검은 수녀들'은 돌비 애트모스를 비롯해 4DX, SCREENX까지 다양한 특수 포맷으로 극장에서 만나볼 수 있어 위험에 처한 소년을 살리기 위한 이들의 강렬한 에너지를 더욱 생생하게 체험할 수 있을 것으로 기]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['귀신경찰' 신현준 "절친 정준호 카메오 캐스팅? 된통 당하란 마음"]]></title>
-        <id>https://v.daum.net/v/20250113182253916</id>
-        <link href="https://v.daum.net/v/20250113182253916"/>
-        <updated>2025-01-13T10:14:57.407Z</updated>
-        <content type="html"><![CDATA[[이데일리 스타in 김보영 기자] 배우 신현준이 영화 ‘귀신경찰’(감독 김영준) 카메오로 든든한 지원사격을 펼친 절친 정준호의 캐스팅 비화와 함께 뜻밖의 복수담(?)을 밝혀 웃음을 안겼다. 배우 신현준이 13일 서울 용산구 CGV용산아이파크몰에서 열린 영화 ‘귀신경찰’(감독 김영준) 언론시사회에 참석해 인사말을 하고 있다.(사진=뉴스1)13일 서울 용산]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[故 김수미 염원 담아...'아들' 신현준이 그리는 가족 코미디 '귀신경찰']]></title>
-        <id>https://v.daum.net/v/20250113181504703</id>
-        <link href="https://v.daum.net/v/20250113181504703"/>
-        <updated>2025-01-13T10:14:57.408Z</updated>
-        <content type="html"><![CDATA[(MHN스포츠 정승민 기자) 시즌2까지 바라봤던 故 김수미의 유작 '귀신경찰'이 평소 아들로 친분을 드러냈던 신현준과 함께 극장가로 향한다. 13일 오후 서울 용산구 CGV용산아이파크몰에서 '귀신경찰' 언론시사회 및 기자간담회가 열렸다. 이날은 김영준 감독과 신현준이 참석했다. '귀신경찰'은 돈 벼락 한 번 못 맞고 때아닌 날벼락 맞은 이후 하]]></content>
     </entry>
 </feed>
