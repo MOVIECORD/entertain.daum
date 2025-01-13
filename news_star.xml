@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/star</id>
     <title>다음 연예 ─ 뉴스 ─ 스타</title>
-    <updated>2025-01-13T17:13:14.422Z</updated>
+    <updated>2025-01-13T18:19:53.285Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[윤상 “시간 흘러도 변치 않는 정서가 라디오 매력”]]></title>
+        <id>https://v.daum.net/v/20250114021408182</id>
+        <link href="https://v.daum.net/v/20250114021408182"/>
+        <updated>2025-01-13T18:19:48.106Z</updated>
+        <content type="html"><![CDATA[“손으로 LP를 틀던 때부터 라디오 DJ를 시작해 지금은 디지털로 음악을 들려드리지만, 청취자들이 일상을 나누고 공감과 위로를 받을 수 있는 매체만의 정서는 변하지 않았다. 특유의 순기능을 지키고 있기에 라디오는 매력적이다.” 싱어송라이터이자 프로듀서인 윤상이 13일 서울 마포구 MBC 사옥에서 열린 MBC 라디오 신규 DJ 기자간담회(사진)에서 이같이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[미스터트롯 미공개 참가자들]]></title>
         <id>https://v.daum.net/v/20250114012639039</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20250114000707558"/>
         <updated>2025-01-13T15:15:26.139Z</updated>
         <content type="html"><![CDATA[[서울=뉴시스] 손정빈 기자 = MBC 아나운서 출신 방송인 손정은이 5년 이혼했다고 고백했다. 손정은 아나운서는 13일 방송된 KBS Joy 예능프로그램 '무엇이든 물어보살'에 나와 MBC에서 나온 이후 연예계 활동에 대한 조언을 요청했다. 1980년생인 손정은은 "이제 프리랜서다. 아주 프리하다"며 더 이상 MBC 아나운서가 아니라고 선언했다. 그]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['미자母' 전성애 "사위 김태현, TV 이미지와 달라...따뜻하고 의리 있어"]]></title>
-        <id>https://v.daum.net/v/20250114000630527</id>
-        <link href="https://v.daum.net/v/20250114000630527"/>
-        <updated>2025-01-13T15:15:26.143Z</updated>
-        <content type="html"><![CDATA[[TV리포트 = 하수나 기자] 개그우먼 미자의 엄마인 배우 전성애가 사위 김태현의 첫인상을 언급하며 애정을 드러냈다.&nbsp; 13일 유튜브 채널 ‘미자네 주막’에선 ‘개그맨 사위와 배우 장모의 위험한 식사.. (ft. 웃다가 머리채 잡힘)’라는 제목의 영상이 업로드 됐다.&nbsp; 영상에선 김태현이 아내 미자와 처갓집을 찾아 장모 전성애와 먹방 토크를 펼치는 모습이 담]]></content>
     </entry>
 </feed>
