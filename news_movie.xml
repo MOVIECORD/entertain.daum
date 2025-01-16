@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2025-01-16T19:11:21.130Z</updated>
+    <updated>2025-01-16T20:14:49.923Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“빅뱅 부정·은퇴 선언…모두 경솔했다”…‘오겜2’ 탑 최승현, 11년만의 반성문…]]></title>
+        <id>https://v.daum.net/v/20250117051009542</id>
+        <link href="https://v.daum.net/v/20250117051009542"/>
+        <updated>2025-01-16T20:14:30.597Z</updated>
+        <content type="html"><![CDATA[‘오겜2’ 약쟁이 래퍼운명처럼 내게 온 캐릭터인맥논란 충격에 하차도 고민발연기 혹평? 다 받아들여야죠…이젠 나쁜 기사 나지 않는건실한 청년 될 것 입술이 덜덜 떨렸다. 11년 만에 취재진 앞에 서는 거라며 좀처럼 자리에도 앉지 못했다. 지나간 과오가 너무나도 후회스럽다며 빅뱅 부정, 은퇴 선언, 발연기 등 모든 논란에 솔직하게 답한, 그룹 빅뱅 출신]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[지난달 극장 관객수 22% 감소… 회복세 주춤]]></title>
         <id>https://v.daum.net/v/20250117020411589</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20250116182709395"/>
         <updated>2025-01-16T10:14:31.661Z</updated>
         <content type="html"><![CDATA[[TV리포트=유영재 기자] 배우 현빈 주연의 영화 '하얼빈'의 관객수가 급감한 모습을 보였다.&nbsp; 오늘(16일) 영화관입장권 통합전산망에 따르면 전날 '하얼빈'은 3번 1915명의 관객을 동원하며 428만 2,201명의 관객을 달성했다. 23일째 박스오피스 1위를 달성하며 흥행세를 이어가고 있지만, 영화 개봉 당시 초반에 비해 관객들의 관심이 줄었다.&nbsp; 개봉]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[정준호 "정치하려면 대통령 해야지...제대로 승부 걸어야"]]></title>
-        <id>https://v.daum.net/v/20250116181431130</id>
-        <link href="https://v.daum.net/v/20250116181431130"/>
-        <updated>2025-01-16T10:14:31.661Z</updated>
-        <content type="html"><![CDATA[[TV리포트=진주영 기자] 배우 정준호가 반복적으로 제기된 정계 진출설에 대해 입을 열었다. 16일 오전, 서울 종로구 팔판동에 있는 한 카페에서 영화 '히트맨 2'에 출연한 배우 정준호와의 인터뷰가 진행됐다. 이날 정준호는 자신을 둘러싼 정계 진출설에 대해 언급했다. 특히 "예산시장으로 나온다는 소문"에 대해 그는 웃으며 "정치를 하려면 대통령을 해야지,]]></content>
     </entry>
 </feed>

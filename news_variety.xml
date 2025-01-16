@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/variety</id>
     <title>다음 연예 ─ 뉴스 ─ 예능</title>
-    <updated>2025-01-16T19:11:21.129Z</updated>
+    <updated>2025-01-16T20:14:49.931Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[중식대가 신계숙 "고기 손질 중 내 손 썰어…신경에 동맥까지 손상"]]></title>
+        <id>https://v.daum.net/v/20250117051003536</id>
+        <link href="https://v.daum.net/v/20250117051003536"/>
+        <updated>2025-01-16T20:14:40.507Z</updated>
+        <content type="html"><![CDATA[중식요리사 신계숙이 고기 손질 중 칼로 팔을 써는 위험한 상황을 맞이했던 때를 회상했다. 16일 KBS2 예능 '박원숙의 같이 삽시다'에는 대학교수 겸 중식대가 신계숙이 게스트로 출연했다. 신계숙은 자기 팔을 MC들에게 보이며 "계속 요리하다 보니까 (팔에) 상처가 없어지고 생기는 것의 반복"이라고 밝혔다. 이어 그는 "예전에 스스로 동맥을 끊은 적]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[16기 영자, '무일푼' 미스터 배에 심란 "내 재산의 1/3 없으면 연애 불가"]]></title>
         <id>https://v.daum.net/v/20250117005130276</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20250116234721663"/>
         <updated>2025-01-16T15:13:50.674Z</updated>
         <content type="html"><![CDATA[[OSEN=박근희 기자] '나는 SOLO, 그 후 사랑은 계속된다’ 미스터박이 월급을 공개했다. 16일 전파를 탄 SBS Plus와 ENA의 ‘나는 SOLO, 그 후 사랑은 계속된다’(이하 ‘나솔사계’)에서는 돌싱민박을 찾은 청춘남녀들의 이야기가 이어졌다. 16기 영자는 1대1 데이트를 나선 미스터배에게 “얼마 모아났어?”라며 귓속말로 질문을 했다. 1]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[양세형 "父 생전에 2억 들여 당구장 차려줘" 숨겨온 효심 고백]]></title>
-        <id>https://v.daum.net/v/20250116234018619</id>
-        <link href="https://v.daum.net/v/20250116234018619"/>
-        <updated>2025-01-16T15:13:50.680Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 임나빈 기자) 개그맨 양세형이 아버지 로망이던 당구장을 차려줬었다고 밝히며 훈훈함을 선사했다.&nbsp; 16일 방송된 MBC '구해줘! 홈즈'(이하 '홈즈')에서는 배우 박성웅과 이수경이 인턴 코디로 출격해, 박성웅의 고향 충주 임장에 나섰다. 이날 박성웅, 이수경과 임장에 함께한 양세형은 "오늘 두 분이 함께 나오게 된 이유가 있냐"라며 궁금해했다]]></content>
     </entry>
 </feed>
