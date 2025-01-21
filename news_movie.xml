@@ -2,11 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2025-01-21T15:14:44.150Z</updated>
+    <updated>2025-01-21T16:16:34.224Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[홍상수, ♥︎김민희와 베를린行..'그 자연이 네게 뭐라고 하니' 경쟁부문 공식 초청]]></title>
+        <title type="html"><![CDATA[문소리·최민식·박철민, ‘마당을 나온 암탉’ 개봉  축하 영상 공개]]></title>
+        <id>https://v.daum.net/v/20250122005937455</id>
+        <link href="https://v.daum.net/v/20250122005937455"/>
+        <updated>2025-01-21T16:16:15.261Z</updated>
+        <content type="html"><![CDATA[역대 한국 애니메이션 흥행 1위의 레전드 애니메이션 ‘마당을 나온 암탉’이 슈퍼스케일드 4K 재개봉을 기념해 배우 문소리, 최민식, 박철민의 개봉 축하 영상을 전격 공개했다. (제작: 명필름, 오돌또기 | 배급: 메가박스중앙㈜ | 슈퍼스케일드 4K: 주식회사 인쇼츠 | 감독: 오성윤 | 개봉: 2025년 1월 22일) 양계장을 탈출한 암탉 ‘잎싹’과]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[홍상수, ♥김민희와 베를린行..'그 자연이 네게 뭐라고 하니' 경쟁부문 공식 초청]]></title>
         <id>https://v.daum.net/v/20250122001021157</id>
         <link href="https://v.daum.net/v/20250122001021157"/>
         <updated>2025-01-21T15:14:28.033Z</updated>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20250121205426068"/>
         <updated>2025-01-21T12:26:05.808Z</updated>
         <content type="html"><![CDATA[[스포츠조선 안소윤 기자] 홍상수 감독의 33번째 장편 영화 '그 자연이 네게 뭐라고 하니'가 제75회 베를린국제영화제 경쟁부문에 공식 초청됐다. 해외 배급사인 ㈜화인컷에 따르면  21일(현지시간) 베를린국제영화제 집행위원회는 기자회견을 통해 홍상수 감독 신작 '그 자연이 네게 뭐라고 하니'의 장편 경쟁부문 공식 초청을 발표했다. 이는 홍상수]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[홍상수 감독 33번째 장편 영화 베를린 초청…'임신' 김민희와 동행할까]]></title>
-        <id>https://v.daum.net/v/20250121204005822</id>
-        <link href="https://v.daum.net/v/20250121204005822"/>
-        <updated>2025-01-21T12:26:05.814Z</updated>
-        <content type="html"><![CDATA[[스포츠투데이 김태형 기자] 홍상수 감독의 33번째 장편 영화 '그 자연이 네게 뭐라고 하니'가 제75회 베를린국제영화제 경쟁부문에 공식 초청됐다. 21일 해외 배급사 ㈜화인컷에 따르면 21일(현지시간) 베를린국제영화제 집행위원회는 기자회견을 통해 홍상수 감독 신작 '그 자연이 네게 뭐라고 하니'의 장편 경쟁부문 공식 초청을 발표했다. 이는 홍상수 감독의]]></content>
     </entry>
 </feed>
