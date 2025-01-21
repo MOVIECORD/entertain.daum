@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2025-01-21T19:10:54.865Z</updated>
+    <updated>2025-01-21T20:14:38.821Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“예전엔 폼만 잡아, 이젠 웃음 잡고파”…‘히트맨2’ 권상우]]></title>
+        <id>https://v.daum.net/v/20250122051009746</id>
+        <link href="https://v.daum.net/v/20250122051009746"/>
+        <updated>2025-01-21T20:14:19.778Z</updated>
+        <content type="html"><![CDATA[코믹연기 할 때가 현장 만족도 가장 높아 수준 높은 액션연기 대역 사절 이유? 몸사리지 않는 배우 수식어 지키려고… 힘들면 언제든 그만 하라 말하는 아내 손태영…결혼 잘한듯 배우 권상우에게 결혼과 가족은 어떤 의미일까. 아내 손태영과 지난 2008년 결혼해 두 아이의 아빠로서 사는 그가 담담히 입을 열었다. “제가 33살에 결혼했어요. 당시에도 일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[문소리·최민식·박철민, ‘마당을 나온 암탉’ 개봉  축하 영상 공개]]></title>
         <id>https://v.daum.net/v/20250122005937455</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20250121212739617"/>
         <updated>2025-01-21T13:19:35.720Z</updated>
         <content type="html"><![CDATA[16년의 세월을 건너온 걸작 ‘더 폴: 디렉터스 컷’이 7만 돌파와 함께 타셈 감독의 첫 내한을 발표했다. (감독: 타셈 | 출연: 리 페이스, 카틴카 언타루 | 수입/배급: 오드(AUD) | 개봉: 2024년 12월 25일) 무한 N차 관람과 SNS 최고 화제작으로 떠오르며 누적 관객 수 7만 명을 넘은 ‘더 폴: 디렉터스 컷’이 장기 흥행에 감사하]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[홍상수, 6년 연속 베를린 간다…'혼외자' 임신한 ♥김민희와 동행할까]]></title>
-        <id>https://v.daum.net/v/20250121205426068</id>
-        <link href="https://v.daum.net/v/20250121205426068"/>
-        <updated>2025-01-21T12:26:05.808Z</updated>
-        <content type="html"><![CDATA[[스포츠조선 안소윤 기자] 홍상수 감독의 33번째 장편 영화 '그 자연이 네게 뭐라고 하니'가 제75회 베를린국제영화제 경쟁부문에 공식 초청됐다. 해외 배급사인 ㈜화인컷에 따르면  21일(현지시간) 베를린국제영화제 집행위원회는 기자회견을 통해 홍상수 감독 신작 '그 자연이 네게 뭐라고 하니'의 장편 경쟁부문 공식 초청을 발표했다. 이는 홍상수]]></content>
     </entry>
 </feed>
