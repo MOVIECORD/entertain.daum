@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2025-01-23T23:14:03.965Z</updated>
+    <updated>2025-01-24T01:01:53.860Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[스맙 前멤버, '성추문' 나카이 마사히로 은퇴에 "갑작스러운 일로 마음 정리 안돼"]]></title>
+        <id>https://v.daum.net/v/20250124093811349</id>
+        <link href="https://v.daum.net/v/20250124093811349"/>
+        <updated>2025-01-24T01:01:53.200Z</updated>
+        <content type="html"><![CDATA[[티브이데일리 김종은 기자] 일본 그룹 스맙(SMAP) 출신 나카이 마사히로(53)가 성 상납 의혹으로 은퇴를 선언한 가운데, 같은 그룹의 멤버였던 이나가키 고로(52), 쿠사나기 츠요시(51), 카토리 싱고(48)가 심경을 밝혔다. 23일 닛칸스포츠에 따르면 이나가키 고로, 쿠사나기 츠요시, 카토리 싱고는 소속사를 통해 "갑작스러운 일로 아직 마음 정리가]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['성상납 의혹'  일본 유명 아이돌 SMAP 리더 "연예계 은퇴"]]></title>
         <id>https://v.daum.net/v/20250124064205927</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20250123143025104"/>
         <updated>2025-01-23T06:19:03.419Z</updated>
         <content type="html"><![CDATA[[OSEN=김채연 기자] 미국 팝스타 저스틴 비버가 아내 헤일리 비버의 계정을 언팔로우하면서 불거진 이혼설을 부인했다. 저스틴 비버는 지난 21일(현지시각) 자신의 SNS를 통해 “누군가 내 계정에 들어와 내 아내를 언팔로우 했다”고 밝혔다. 이어 그는 “이게 뭔데 헛소문을 만들게 하냐”고 헤일리 비버와의 애정 전선에 문제가 없다고 설명했다. 앞서 저스틴]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[저스틴 비버, ♥헤일리 비버와 이혼설에 직접 해명→보란듯 커플샷 공개]]></title>
-        <id>https://v.daum.net/v/20250123141429144</id>
-        <link href="https://v.daum.net/v/20250123141429144"/>
-        <updated>2025-01-23T06:19:03.420Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 박수인 기자] 팝스타 저스틴 비버(Justin Bieber)가 아내 헤일리 비버(Hailey Bieber)와 이혼설에 직접 부인했다. 최근 저스틴 비버와 헤일리 비버가 소셜미디어 언팔로우한 사실이 알려지며 때아닌 이혼설이 불거졌다. 이와 관련 저스틴 비버는 최근 개인 소셜미디어 스토리를 통해 "누군가 마음대로 내 계정에 들어와 아내를 언팔로우 했]]></content>
     </entry>
 </feed>
