@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2025-01-26T02:43:12.674Z</updated>
+    <updated>2025-01-26T03:16:06.253Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['검은수녀들', 흥행 바람 매섭다! 이틀 연속 1위!]]></title>
+        <id>https://v.daum.net/v/20250126120956099</id>
+        <link href="https://v.daum.net/v/20250126120956099"/>
+        <updated>2025-01-26T03:15:46.661Z</updated>
+        <content type="html"><![CDATA[아이즈 ize 최재욱 기자송혜교 전여빈 주연의 '검은 수녀들'이 이틀연속 박스오피스 정상 자리를 차지하며 쾌조의 출발을 보였다.&nbsp; 영화진흥위원회 영화관입장권 통합전산망 집계에 따르면 지난 25일 '검은 수녀들'이&nbsp; 21만7,532&nbsp;관객을 동원해 일별 박스오피스 1위를 차지했다. 누적관객수는&nbsp;39만8,917명.&nbsp; '검은 수녀들'은 강력한 악령에 사로잡힌 소년]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[송혜교 ‘검은 수녀들’, 무서운 기세로 질주]]></title>
         <id>https://v.daum.net/v/20250126113349597</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20250126090342335"/>
         <updated>2025-01-26T01:03:19.864Z</updated>
         <content type="html"><![CDATA[‘검은 수녀들’이 박스오피스 정상을 지킨 가운데 한국 영화 세 편이 설 연휴 극장가 상위권을 싹쓸이했다. 26일 영화관입장권통합전산망에 따르면 ‘검은 수녀들’은 25일 21만7532명을 모으며 개봉 첫 날(16만)의 기록을 뛰어넘었다. 매출 점유율은 42.8%로 안정적으로 1위 자리를 지켰다. 영화 ‘히트맨2’가 이틀 연속 2위에 올랐다. 15만7]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['검은 수녀들' 안에 '검은 사제들' 있다? 세계관 tmi]]></title>
-        <id>https://v.daum.net/v/20250126090040239</id>
-        <link href="https://v.daum.net/v/20250126090040239"/>
-        <updated>2025-01-26T01:03:19.865Z</updated>
-        <content type="html"><![CDATA[* 영화의 주요 내용을 포함한 스포일러가 있을 수 있습니다. (서울=뉴스1) 정유진 기자 = 지난 2015년 개봉해 544만 관객을 동원한 '검은 사제들'의 세계관을 최초로 만든 장재현 감독은 스핀오프 영화 '검은 수녀들'(감독 권혁재)의 기획 및 완성 과정에 관여하지 않았다. 그런데도 권혁재 감독은 '검은 사제들'의 세계관을 영화 속에 재현해 전편을]]></content>
     </entry>
 </feed>
