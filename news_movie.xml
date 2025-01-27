@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2025-01-27T20:15:39.829Z</updated>
+    <updated>2025-01-27T21:13:17.239Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘마당을 나온 암탉’ 2주차 특전 ‘마당 색칠공부’&‘메인 포스터’ 공개]]></title>
+        <id>https://v.daum.net/v/20250128061202280</id>
+        <link href="https://v.daum.net/v/20250128061202280"/>
+        <updated>2025-01-27T21:12:58.051Z</updated>
+        <content type="html"><![CDATA[역대 한국 애니메이션 박스오피스 1위의 레전드 애니메이션 ‘마당을 나온 암탉’이 새해 극장가에 따스한 위로를 전하며 화제작으로 떠오르고 있는 가운데, 개봉 2주차 특전을 공개했다. (제작: 명필름, 오돌또기 | 배급: 메가박스중앙㈜ | 슈퍼스케일드 4K: 주식회사 인쇼츠 | 감독: 오성윤 | 개봉: 2025년 1월 22일) 양계장을 탈출한 암탉 ‘잎싹]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["연휴는 극장서"…권상우·송혜교·도경수가 짚은 관전 포인트]]></title>
         <id>https://v.daum.net/v/20250128000147217</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20250127170600491"/>
         <updated>2025-01-27T08:18:44.050Z</updated>
         <content type="html"><![CDATA[배우 한기찬이 헐리우드 작품 ‘결혼 피로연’으로 세계 최대 독립영화제인 ‘선댄스영화제’에 초청받아 참석한다. 한기찬 주연의 영화 ‘결혼 피로연’이 미국 유타주의 파크 시티에서 열리는 제41회 선댄스 영화제에 상영작 초청시사회에 공식 초청되어 27일부터 참석한다. 영화 결혼피로연에는 한기찬을 비롯해 배우 윤여정, 보웬 양, 릴리 글래드스톤, 켈리 마리 트란,]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한기찬, 할리우드 앙상블 영화 ‘결혼 피로연’ 주연 캐스팅 → ‘선댄스 영화제’ 참석 글로벌 행보]]></title>
-        <id>https://v.daum.net/v/20250127162405091</id>
-        <link href="https://v.daum.net/v/20250127162405091"/>
-        <updated>2025-01-27T08:18:44.051Z</updated>
-        <content type="html"><![CDATA[배우 한기찬이 헐리우드 작품 ’결혼 피로연‘으로 세계 최대 독립영화제인 ’선댄스영화제‘에 초청받아 참석한다. 한기찬 주연의 영화 ’결혼 피로연‘이 미국 유타주의 파크 시티에서 열리는 제41회 선댄스 영화제에 상영작 초청시사회에 공식 초청되어 27일부터 참석한다. 영화 결혼피로연에는 한기찬을 비롯해 배우 윤여정, 보웬 양, 릴리 글래드스톤, 켈리 마리]]></content>
     </entry>
 </feed>
