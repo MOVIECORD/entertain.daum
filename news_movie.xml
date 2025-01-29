@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2025-01-29T03:15:25.817Z</updated>
+    <updated>2025-01-29T04:16:07.080Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[권상우, 또 무릎 꿇었다‥‘히트맨2’ 설날 100만 돌파]]></title>
+        <id>https://v.daum.net/v/20250129121824093</id>
+        <link href="https://v.daum.net/v/20250129121824093"/>
+        <updated>2025-01-29T04:15:48.722Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 배효주 기자] '히트맨2'가 개봉 8일째 100만 관객을 돌파했다. 1월 29일 영화진흥위원회 통합전산망 집계에 따르면, 영화 '히트맨2'(감독 최원섭)가 이날 오전 7시 기준 100만 관객을 돌파했다. 2025년 개봉작 중 첫 100만 관객을 달성했다. '히트맨2'는 지난 27일부터 2일 연속 전체 영화 박스오피스 1위에 등극한 데 이어 25일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[여전히 우리는 양조위의 시대에 살고 있다]]></title>
         <id>https://v.daum.net/v/20250129120125941</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20250129091340046"/>
         <updated>2025-01-29T01:01:03.382Z</updated>
         <content type="html"><![CDATA[[이데일리 스타in 윤기백 기자] 영화 ‘히트맨2’(감독 최원섭)가 개봉 8일 만에 100만 관객을 돌파했다. 영화 ‘히트맨2’ 포스터(사진=바이포엠스튜디오)영화진흥위원회 영화관입장권 통합전산망에 따르면 ‘히트맨2’는 지난 28일 하루 19만 9686명을 동원해 누적 관객 수 99만 4357명을 기록했다. 이후 29일 오전 7시께 누적 관객 수 106만]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘히트맨2’ 개봉 8일째 100만 돌파]]></title>
-        <id>https://v.daum.net/v/20250129091201033</id>
-        <link href="https://v.daum.net/v/20250129091201033"/>
-        <updated>2025-01-29T01:01:03.383Z</updated>
-        <content type="html"><![CDATA[‘히트맨2’가 개봉 8일째 100만 관객을 돌파했다. 영화관입장권 통합전산망에 따르면 ‘히트맨2’가 29일 오전 7시 기준 개봉 8일째 100만 관객을 돌파했다. 이로써 ‘히트맨2’는 올해 개봉작 중 첫 100만 관객을 달성했다. 또 개봉 8일 만에 100만 관객을 돌파한 지난해 한국 영화 흥행TOP5 ‘소방관’과 같은 속도로 그 의미를 더한다. ‘히트맨2]]></content>
     </entry>
 </feed>
