@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2025-01-30T05:14:26.538Z</updated>
+    <updated>2025-01-30T06:18:58.116Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[권상우 간절함 통했나…송혜교 '검은 수녀들' 제친 '히트맨2']]></title>
+        <id>https://v.daum.net/v/20250130144103666</id>
+        <link href="https://v.daum.net/v/20250130144103666"/>
+        <updated>2025-01-30T06:18:38.684Z</updated>
+        <content type="html"><![CDATA['검은 수녀들' 삼일천하가 끝났다. 홍보를 위해 무릎까지 꿇었던 권상우의 간절함이 통했다. '히트맨2'가 박스오피스 정상을 차지한 것. 30일 영화관입장권통합전산망에 따르면 '히트맨2'는 전날 27만 3156명의 관객을 모아 박스오피스 1위에 올랐다. 개봉 2주차에 접어둔 '히트맨2'는 지난 28일 일 관객 수 19만 9686명 대비 29일 전체 관객 수가]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[주지훈X추영우, ‘오겜2’도 추월…‘중증외상센터’ 글로벌 2위 진격]]></title>
         <id>https://v.daum.net/v/20250130141223154</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20250130100910048"/>
         <updated>2025-01-30T02:14:08.308Z</updated>
         <content type="html"><![CDATA[영화 ‘검은 수녀들’이 개봉 6일 만에 100만 관객을 돌파했다. 이는 올해 개봉한 영화 중 최단 기간이다. 영화관입장권통합전산망에 따르면 ‘검은 수녀들’은 설 당일인 29일 14만여 명을 보태며 누적 관객 104만2565명을 달성했다. 아울러 같은 시기 개봉한 인도네시아에서 24∼28일 5일 연속 박스오피스 1위에 올랐으며, 누적 관객 수 약 57만]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['말할 수 없는 비밀' 원진아 "캐릭터 스타일링에 숨은 비밀 있다"]]></title>
-        <id>https://v.daum.net/v/20250130100156946</id>
-        <link href="https://v.daum.net/v/20250130100156946"/>
-        <updated>2025-01-30T02:14:08.313Z</updated>
-        <content type="html"><![CDATA[영화 '말할 수 없는 비밀'에서 선율을 따라 운명을 찾아온 정아를 연기한 원진아를 만났다. 원진아는 연습실에서 우연히 발견한 악보를 연주하던 자신 앞에 운명처럼 나타난 유준과 행복한 추억을 쌓아갈수록 비밀도 함께 쌓여가며 일상이 무너진 인물을 연기했다. 4년 전 영화 '해피 뉴 이어'에 이어 오랜만에 영화로 복귀한 원진아는 "긴장이 더 많이 되고 설레더]]></content>
     </entry>
 </feed>
