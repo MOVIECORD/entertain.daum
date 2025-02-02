@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2025-02-02T06:17:35.489Z</updated>
+    <updated>2025-02-02T07:12:00.584Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[배우 이주실 위암으로 2일 별세···향년 81세]]></title>
+        <id>https://v.daum.net/v/20250202160803622</id>
+        <link href="https://v.daum.net/v/20250202160803622"/>
+        <updated>2025-02-02T07:11:42.046Z</updated>
+        <content type="html"><![CDATA[[서울경제] 배우 이주실(사진)이 별세했다. 향년 81. 2일 연예계에 따르면, 그는 위암 판정을 받고 투병 중 끝에 이날 오전 눈을 감았다. 1993년 유방암 판정을 받았지만 약 10년 간 투병 끝에 병마를 이겨내고 영화와 드라마를 오가며 활발한 활동을 이어 갔다. 이주실은 1965년 연극배우로 데뷔했다. '산극', '정읍사', '유리 동물원',]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[도경수X원진아 '말할 수 없는 비밀', 입소문 제대로 탔다..예매율 1위 역주행]]></title>
+        <id>https://v.daum.net/v/20250202154605316</id>
+        <link href="https://v.daum.net/v/20250202154605316"/>
+        <updated>2025-02-02T07:11:42.046Z</updated>
+        <content type="html"><![CDATA[[OSEN=유수연 기자]&nbsp;영화 '말할 수 없는 비밀'이 관객들의 입소문을 타며 역주행 시동에 나섰다. 2일 영진위 영화관입장권 통합전산망에 따르면, 영화 '말할 수 없는 비밀'(감독 서유민,&nbsp;제공 쏠레어파트너스,&nbsp;공동제공 하이그라운드,&nbsp;제작 하이브미디어코프,&nbsp;배급&nbsp;플러스엠 엔터테인먼트)은 이날 오후 3시 30분 기준 실시간 예매율 1위를 기록했다. 예매]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['오징어게임2' 배우 이주실 별세…향년 81세]]></title>
         <id>https://v.daum.net/v/20250202151505833</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20250202061849794"/>
         <updated>2025-02-01T22:12:48.516Z</updated>
         <content type="html"><![CDATA[‘캡틴 아메리카:브레이브 뉴 월드’(감독 줄리어스 오나·12일 개봉)가&nbsp;온다. ‘퍼스트 어벤저‘(2011), ‘캡틴 아메리카:윈터 솔져’(2014), ‘캡틴 아메리카:시빌 워’(2016)에 이은 캡틴 아메리카&nbsp;솔로무비 시리즈의 4번째 작품이자, 마블시네마틱유니버스(MCU)&nbsp;페이즈5에 해당하는 이야기를 담고 있다. 월트디즈니 컴퍼니 코리아 제공  최근]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['1승' 송강호 "매작품마다 나 자신 증명해보여야 한다는 열망 지녀"]]></title>
-        <id>https://v.daum.net/v/20250202061244749</id>
-        <link href="https://v.daum.net/v/20250202061244749"/>
-        <updated>2025-02-01T22:12:48.523Z</updated>
-        <content type="html"><![CDATA[[스포츠한국 모신정 기자] 배우 송강호는 영화 '괴물'(봉준호 감독/2006), '변호인'(양우석 감독/2013), '택시운전사'(장훈 감독/2017), '기생충'(봉준호 감독/2019) 총 4편의 1000만 영화를 보유한 국내 최고 흥행배우이자 2020년 미국 아카데미 시상식 작품상 포함 4관왕을 차지한 '기생충'의 주연배우였고, 2023년 '브로]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[故나카야마 미호를 추억하며... '러브레터' 9번째 재개봉에도 10만 관객 돌파]]></title>
-        <id>https://v.daum.net/v/20250201175301662</id>
-        <link href="https://v.daum.net/v/20250201175301662"/>
-        <updated>2025-02-01T09:13:43.356Z</updated>
-        <content type="html"><![CDATA[[TV리포트=이혜미 기자] 일본 영화 '러브레터'가 개봉 한 달 만에 10만 관객을 돌파했다. 재개봉 작으론 이례적인 기록이다. 지난달 31일 워터홀 컴퍼니에 따르면 '러브레터'는 재개봉 30일 만인 이날 누적 관객수 10만 명을 기록했다. '러브레터'는 이와이 슌지 감독의 단편소설을 영화화 한 작품으로 일본의 톱스타 나카야마 미호, 토요카와 에츠시 등이]]></content>
     </entry>
 </feed>
