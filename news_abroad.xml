@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2025-02-04T03:16:19.726Z</updated>
+    <updated>2025-02-04T04:16:06.666Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[故 서희원 유산 '1100억', 구준엽·두 자녀에게 간다]]></title>
+        <id>https://v.daum.net/v/20250204130131679</id>
+        <link href="https://v.daum.net/v/20250204130131679"/>
+        <updated>2025-02-04T04:16:05.938Z</updated>
+        <content type="html"><![CDATA[[TV리포트=유영재 기자] 가수 구준엽의 아내 서희원이 갑작스럽게 사망하면서 남겨진 그의 유산이 주목받고 있다.&nbsp; 대만 현지 보도에 따르면 서희원은 약 6억 위안(약 1,100억 원)의 유산을 남기고 세상을 떠났다. 대만의 한 변호사는 "법률적으로 상속재산은 구준엽과 자녀들이 공유하게 되지만 왕소비가 자녀들의 보호자일 수 있으므로 실제로 자녀들에게 분배돼야]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[故 서희원 "죽기 전 떠오를 얼굴은 구준엽"...영화 같았던 애절한 사랑]]></title>
+        <id>https://v.daum.net/v/20250204123806128</id>
+        <link href="https://v.daum.net/v/20250204123806128"/>
+        <updated>2025-02-04T04:16:05.945Z</updated>
+        <content type="html"><![CDATA[[TV리포트=진주영 기자] 대만의 유명 배우이자 그룹 클론 출신 가수 구준엽의 아내인 쉬시위안(서희원)이 지난 3일 폐렴으로 갑작스럽게 세상을 떠나며 충격을 안겼다. 그녀의 비보가 전해지면서, 과거 남편 구준엽을 향한 애정을 드러낸 인터뷰가 재조명돼 두 사람의 영화 같은 사랑 이야기가 더욱 안타까움을 자아내고 있다. 서희원은 2022년 9월 보그 타이완과의]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[故 서희원 전남편 "유감이다"...초췌한 모습으로 비통한 심정 전해]]></title>
         <id>https://v.daum.net/v/20250204115300875</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20250203181831163"/>
         <updated>2025-02-03T10:14:48.622Z</updated>
         <content type="html"><![CDATA[[TV리포트=이혜미 기자] 팝스타 비욘세가 그래미 어워즈 최고 영예에 해당하는 '올해의 앨범'을 수상하며 한을 풀었다. 2일(현지시각) 미국 로스앤젤레스 크립토닷컴 아레나에서 제67회 그래미 어워즈(이하 그래미)가 개최된 가운데 비욘세는 '올해의 앨범' 수상자로 우뚝 섰다. 비욘세는 미국을 대표하는 팝스타로 지난 1997년 데뷔 이래 퀸으로 군림하며 그래미]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[구준엽 아내 쉬시위안 폐렴으로 별세…향년 48세]]></title>
-        <id>https://v.daum.net/v/20250203181405045</id>
-        <link href="https://v.daum.net/v/20250203181405045"/>
-        <updated>2025-02-03T09:15:36.080Z</updated>
-        <content type="html"><![CDATA[대만 유명 배우로 그룹 클론 출신 가수 구준엽의 부인인 쉬시위안(徐熙媛)이 폐렴으로 사망했다. 향년 48세. 3일 대만 언론에 따르면 전날 확산한 쉬시위안의 사망설을 가족이 공식 확인했다. 쉬시위안의 동생인 방송인 쉬시디는 소속 기획사에서 발표한 성명에서 “설 연휴에 가족이 일본을 여행했는데 언니가 인플루엔자(독감)에 걸렸고 폐렴으로 이어져 불행히도 우리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[그래미 恨 푼 비욘세···생애 첫 '올해의 앨범상']]></title>
-        <id>https://v.daum.net/v/20250203175015253</id>
-        <link href="https://v.daum.net/v/20250203175015253"/>
-        <updated>2025-02-03T09:15:36.081Z</updated>
-        <content type="html"><![CDATA[[서울경제] 지난해에 이어 올해도 그래미에 여성 아티스트들의 수상이 대거 점쳐졌지만 비욘세와 켄드릭 라마가 ‘올해의 앨범상’과 ‘올해의 레코드상’ ‘올해의 노래상’ 등을 나눠 가졌다. 비욘세는 그동안의 그가 이룩한 음악적 성과에 비해 유독 그래미에서는 인정을 받지 못했지만 최고의 영예인 ‘올해의 앨범상’을 수상하며 그동안의 설욕을 씻어냄과 동시에 자신의]]></content>
     </entry>
 </feed>
