@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2025-02-04T11:11:44.035Z</updated>
+    <updated>2025-02-04T12:26:15.371Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이병헌 위해 ♥이민정+아들 출격 "뒤늦게 전화해서 불러"]]></title>
+        <id>https://v.daum.net/v/20250204212504641</id>
+        <link href="https://v.daum.net/v/20250204212504641"/>
+        <updated>2025-02-04T12:25:58.275Z</updated>
+        <content type="html"><![CDATA[[스포츠투데이 서지현 기자] '공동경비구역 JSA' 이병헌을 위해 아내 이민정과 아들이 출격했다. 4일 저녁 서울시 용산구 CGV 용산아이파크몰에서 CJ ENM 30주년 기념 비저너리(Visionary) 선정작 홈커밍(Homecoming) GV '공동경비구역 JSA'가 열려 박찬욱 감독, 배우 송강호, 이병헌, 이영애, 김태우가 참석했다. '공동경비구역 J]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[범인 쫓는 분노의 주먹… 하정우표 액션 ‘살아있네’]]></title>
+        <id>https://v.daum.net/v/20250204212024567</id>
+        <link href="https://v.daum.net/v/20250204212024567"/>
+        <updated>2025-02-04T12:25:58.279Z</updated>
+        <content type="html"><![CDATA[한때 범죄 조직원이었던 민태(하정우·사진). 출소 후 손을 씻고 일용직 노동자로 살아가지만 그는 여전히 제도나 규율로 길들여지지 않는 남자다. 언제나 말보다 주먹이 앞선다. 월급이 밀리면 동료들은 사장의 등에 대고 아우성을 치지만, 민태는 머리를 갈기고 흉기로 위협해 돈을 받아낸다. 무기를 휘두르는 걸 주저하지 않는 그가 유일하게 애틋해하는 존재는 동생]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김남길은 왜? 하정우와 쇠파이프만 남은 '브로큰']]></title>
         <id>https://v.daum.net/v/20250204200006230</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20250204171847063"/>
         <updated>2025-02-04T09:14:11.212Z</updated>
         <content type="html"><![CDATA[(서울=뉴스1) 정유진 기자 = 영화 '그 시절, 우리가 좋아했던 소녀'(감독 조영명)가 아시아 전역 순차 개봉을 확정했다. '그 시절, 우리가 좋아했던 소녀'는 선아(다현)에게 고백하기까지 수많은 날을 보낸 철없었던 진우(진영)의 열여덟 첫사랑 스토리를 그렸다. 4일 제공사 ㈜영화사테이크에 따르면 이 영화는 오는 21일 한국 인도네시아 개봉을 시작으로]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['그 시절, 우리가 좋아했던 소녀', 亞 34개국 개봉…진영&다현 인니 투어 간다]]></title>
-        <id>https://v.daum.net/v/20250204170307495</id>
-        <link href="https://v.daum.net/v/20250204170307495"/>
-        <updated>2025-02-04T08:17:35.107Z</updated>
-        <content type="html"><![CDATA[[SBS 연예뉴스 | 김지혜 기자] 진영과 다현의 풋풋하고 싱그러운 만남으로 기대를 모으는 영화 '그 시절, 우리가 좋아했던 소녀'가 아시아 전역 순차 개봉을 확정했다. '그 시절, 우리가 좋아했던 소녀'는 '선아'(다현)에게 고백하기까지 수많은 날을 보낸 철없었던 '진우'(진영)의 열여덟 첫사랑 스토리 영화. 이 작품은 오는 2월 21일 국내 및 인도네시]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['그 시절' 34개국 순차 개봉 확정…진영·다현 인도네시아 투어]]></title>
-        <id>https://v.daum.net/v/20250204163919615</id>
-        <link href="https://v.daum.net/v/20250204163919615"/>
-        <updated>2025-02-04T08:17:35.108Z</updated>
-        <content type="html"><![CDATA[[이데일리 스타in 김보영 기자] 진영과 다현의 풋풋하고 싱그러운 만남으로 기대를 모으는 영화 ‘그 시절, 우리가 좋아했던 소녀’(감독 조영명, ‘그 시절’)가 34개국 아시아 전역 순차 개봉을 확정했다. 동시에 인도네시아 투어 및 첫사랑의 아련한 감성을 담은 첫 번째 OST 음원 ‘Now Do You’ 발매를 결정하며 글로벌 대세 행보를 이어가고 있다.]]></content>
     </entry>
 </feed>
