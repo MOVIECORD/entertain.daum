@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2025-02-07T20:14:38.172Z</updated>
+    <updated>2025-02-07T21:12:28.083Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[최정훈 보고있나…한지민♥이준혁, 공개연애 시작 "손 놓지마요"]]></title>
+        <id>https://v.daum.net/v/20250208060926778</id>
+        <link href="https://v.daum.net/v/20250208060926778"/>
+        <updated>2025-02-07T21:12:13.214Z</updated>
+        <content type="html"><![CDATA[[OSEN=김예솔 기자] 한지민과 이준혁이 공개 연애를 시작했다.&nbsp; 7일 방송된 SBS 금토드라마 '나의 완벽한 비서'에서는 강지윤(한지민)과 유은호(이준혁)이 공개 연애를 시작했다.&nbsp; 앞서 강지윤은 화재 사고 당시 아버지가 구한 사람이 유은호라는 사실을 알고 충격에 빠졌다. 하지만 강지윤은 유은호를 통해 아버지의 희생을 이해하게 됐다. 강지윤은 아버지]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['나완비' 이준혁♥한지민, 사무실 데이트 중 '손가락 키스'..윤가이 '목격']]></title>
         <id>https://v.daum.net/v/20250208003425270</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20250207224026284"/>
         <updated>2025-02-07T14:12:50.028Z</updated>
         <content type="html"><![CDATA[(엑스포츠뉴스 오수정 기자) '나의 완벽한 비서'에서 한지민이 회사 사람들에게 이준혁과의 만남을 밝혔다.&nbsp; 7일 방송된 SBS 금토드라마 '나의 완벽한 비서' 10회에서는 회사에 손을 잡고 함께 들어가는 강지윤(한지민 분)과 유은호(이준혁)의 모습이 그려졌다.&nbsp; 이날 강지윤은 자신의 돌아가신 아버지가 살린 아이가 유은호라는 사실을 알고 충격을 받았다. 강지]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["이제 당신을 어떻게 봐요" '나완비' 한지민, 이준혁 고백에 오열]]></title>
-        <id>https://v.daum.net/v/20250207222237141</id>
-        <link href="https://v.daum.net/v/20250207222237141"/>
-        <updated>2025-02-07T14:12:50.029Z</updated>
-        <content type="html"><![CDATA[[OSEN=김예솔 기자] 한지민이 이준혁의 고백에 충격받았다.&nbsp; 7일 방송된 SBS 금토드라마 '나의 완벽한 비서'에서는 유은호(이준혁)이 강지윤(한지민)에게 화재 사건에 대한 비밀을 고백했다.&nbsp; 이날 유은호는 어린 시절 화재 사고를 당했고 그 현장에서 자신의 목숨을 구해준 이가 있었다고 말했다. 유은호는 그 사람이 바로 강지윤의 아버지 강경태라고 고백]]></content>
     </entry>
 </feed>
