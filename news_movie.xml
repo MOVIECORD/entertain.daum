@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2025-02-08T13:15:42.394Z</updated>
+    <updated>2025-02-08T14:11:29.369Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[NEW '캡틴 아메리카' 사전 예매 1위 등극... 2월 극장가 판도 바꾸나]]></title>
+        <id>https://v.daum.net/v/20250208230400911</id>
+        <link href="https://v.daum.net/v/20250208230400911"/>
+        <updated>2025-02-08T14:11:10.959Z</updated>
+        <content type="html"><![CDATA[[TV리포트=이혜미 기자] 영화 '캡틴 아메리카: 브레이브 뉴 월드'가 개봉을 앞두고 전체 예매율 1위에 올랐다. 8일 영화관입장권통합전산망에 따르면 영화 '캡틴 아메리카: 브레이브 뉴 월드'는 오후 5시 기준 전체 예매율 1위에 오르며 강렬한 존재감을 발휘했다. 이는 앞서 개봉한 '말할 수 없는 비밀', '히트맨2' 등을 비롯한 쟁쟁한 한국영화들을 모두]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['캡틴 아메리카: 브레이브 뉴 월드' 예매율 1위… MCU 새 시대 연다]]></title>
         <id>https://v.daum.net/v/20250208213433492</id>
