@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2025-02-11T11:11:58.973Z</updated>
+    <updated>2025-02-11T12:26:51.118Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['파과' 이혜영-김성철-민규동 감독, '베를린영화제' 참석→프리미어 상영까지]]></title>
+        <id>https://v.daum.net/v/20250211211503110</id>
+        <link href="https://v.daum.net/v/20250211211503110"/>
+        <updated>2025-02-11T12:26:31.272Z</updated>
+        <content type="html"><![CDATA[(MHN스포츠 강예진 인턴기자) 영화 '파과'의 민규동 감독, 이혜영, 김성철이 오는 13일 개막하는 제75회 베를린국제영화제에 참석한다. 구병모 작가의 소설 '파과'를 영화화한 이 작품은 바퀴벌레 같은 인간들을 처리하는 '신성방역'에서 40년간 활동 중인 레전드 킬러 '조각'과 그를 쫓는 미스터리한 킬러 '투우'의 숨막히는 핏빛 대결을 그린다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[20대 밥 딜런… 성직자들의 암투… 아카데미 후보작 골라보는 재미 ‘쏠쏠’]]></title>
         <id>https://v.daum.net/v/20250211201025785</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20250211164817233"/>
         <updated>2025-02-11T08:17:57.582Z</updated>
         <content type="html"><![CDATA[[SBS연예뉴스 | 김지혜 기자] 미국 아카데미 시상식의 후보에 오르며 전 세계를 사로잡은 애니메이션 '플로우'가 3월 19일 국내 개봉한다. '플로우'는 대홍수가 세상을 덮친 뒤, 유일한 피난처가 된 낡은 배를 타고 세상 끝으로 항해를 시작한 '고양이'와 '골든 리트리버', '카피바라', '여우원숭이', '뱀잡이수리'의 눈부신 모험담. 라트비아, 벨기에,]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘후배 폭행 혐의’ 양익준, 불구속 검찰 송치→신작 홍보 꿋꿋 “예정대로”]]></title>
-        <id>https://v.daum.net/v/20250211164337034</id>
-        <link href="https://v.daum.net/v/20250211164337034"/>
-        <updated>2025-02-11T08:17:57.584Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 배효주 기자] 감독 겸 배우로 활동 중인 양익준이 신작 개봉을 앞두고 영화계 후배를 폭행한 혐의로 검찰 송치됐다. 이런 가운데 무대인사를 강행하며 홍보에 열을 올린다. 2월 11일 관련 업계에 따르면, 서울 성북경찰서는 이날 양익준을 폭행 혐의로 서울북부지검에 불구속 송치했다. 양익준은 지난해 12월 본인이 운영하는 성북구 주점에서 후배인 영화]]></content>
     </entry>
 </feed>
