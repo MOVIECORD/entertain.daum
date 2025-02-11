@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2025-02-11T21:12:59.174Z</updated>
+    <updated>2025-02-11T22:13:43.553Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[MCU 심폐소생 할까…자존심 회복 나선 '캡틴 아메리카4']]></title>
+        <id>https://v.daum.net/v/20250212071102448</id>
+        <link href="https://v.daum.net/v/20250212071102448"/>
+        <updated>2025-02-11T22:13:27.030Z</updated>
+        <content type="html"><![CDATA[부진했던 MCU(마블 시네마틱 유니버스)의&nbsp;새로운 시대를 열 '캡틴 아메리카: 브레이브 뉴 월드'가 베일을 벗었다. 12일 개봉한 이 영화는 대통령이 된 새디우스 로스와 재회 후, 국제적인 사건의 중심에 서게 된 샘이 전 세계를 붉게 장악하려는 사악한 음모 뒤에 숨겨진 존재와 이유를 파헤쳐 나가는 액션 블록버스터다. '캡틴 아메리카: 윈터 솔져'에 처음 등]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[있는 그대로 걸작으로 '브루탈리스트']]></title>
         <id>https://v.daum.net/v/20250212060112304</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20250211172716632"/>
         <updated>2025-02-11T09:14:33.247Z</updated>
         <content type="html"><![CDATA[[뉴스엔 이해정 기자] 경수진, 고규필, 이지훈 등이 출연하는 영화 '백수아파트'가 보도스틸 10종을 공개했다. 영화 '백수아파트'(감독 이루다)는 동네를 휘젓고 다니며 정의를 구현하고자 하는 백수 거울이 새벽 4시마다 아파트에 울려 퍼지는 층간 소음의 정체를 찾기 위해 이웃들을 조사하며 벌어지는 일을 그린 미스터리 코믹 추적극이다. 공개된 보도스틸은]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[브래드 피트, F1 선수로 변신...세계 챔피언과 뜨거운 대결 예고]]></title>
-        <id>https://v.daum.net/v/20250211172031419</id>
-        <link href="https://v.daum.net/v/20250211172031419"/>
-        <updated>2025-02-11T09:14:33.252Z</updated>
-        <content type="html"><![CDATA[[TV리포트=조은지 기자] 포뮬러 원 레이싱 영화 'F1'의 새로운 예고편이 공개됐다. 지난 10일(현지 시간) 배급사 Warner bros가 개봉 예정작인 'F1'의 새로운 예고를 공개해 뜨거운 화제에 올랐다. 'F1'에는 배우 브래드 피트, 하비에르 바르뎀, 이드리스 등이 출연한다. 또, 실제로 활동했던 F1 카레이서 루이스 해밀턴, 조지 러셀, 막스]]></content>
     </entry>
 </feed>
