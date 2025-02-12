@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2025-02-12T14:13:36.600Z</updated>
+    <updated>2025-02-12T15:15:11.300Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['종영' 소주연→최원영, 초콜릿으로 행복 찾았다 "한 조각씩 꺼내 먹을 것"]]></title>
+        <id>https://v.daum.net/v/20250213000931718</id>
+        <link href="https://v.daum.net/v/20250213000931718"/>
+        <updated>2025-02-12T15:14:56.052Z</updated>
+        <content type="html"><![CDATA[[TV리포트=남금주 기자] 소주연이 자신에게 선물하는 초콜릿의 의미를 깨달았다. 12일 방송된 SBS 2부작 드라마 '우리들의 초콜릿 순간' 마지막회에는 주슬기(소주연 분)와 홍사장(최원영), 김현남(공성하), 제레미(송지호)가 초콜릿 시식회를 준비하는 모습이 그려졌다. 이날 김현남(공성하), 제레미(송지호)와 밸런타인데이 TF팀을 꾸린 주슬기. 하지만 생]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['상위 1% 삶' 이혜리, 끈소매 입고 교회 예배 가더니…일탈 포착됐다]]></title>
         <id>https://v.daum.net/v/20250212230101886</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20250212191002315"/>
         <updated>2025-02-12T10:14:14.044Z</updated>
         <content type="html"><![CDATA[(엑스포츠뉴스 정민경 기자) 드라마 '원경'이 '차주영의 재발견'이라는 반응 속 유종의 미를 거뒀다. tvN X TVING 오리지널 드라마 '원경: 단오의 인연'(이하 '원경')이 막을 내렸다. 지난 11일 종영한 '원경'은 닐슨코리아 기준 최종화 시청률 전국 가구 평균 6.6%, 최고 8.0%, 수도권 가구 평균 6.4%, 최고 7.9%를 기록하며 자체]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연기, 재찬이 찾은 퍼스널 컬러]]></title>
-        <id>https://v.daum.net/v/20250212190128136</id>
-        <link href="https://v.daum.net/v/20250212190128136"/>
-        <updated>2025-02-12T10:14:14.044Z</updated>
-        <content type="html"><![CDATA[가수 겸 배우 재찬이 마침내 제 색깔을 찾았다. 최근 재찬은 iMBC연예와 서울 강남구 한 카페에서 채널A 토일드라마 '체크인 한양'(극본 박현진·연출 명현우) 종영 기념 인터뷰를 진행했다. '체크인 한양'은 돈만 내면 왕도 될 수 있는 조선 최대 여각 '용천루', 그곳에 입사한 조선 꽃청춘들의 파란만장한 성장을 담은 청춘 로맨스 사극이다. 재찬은]]></content>
     </entry>
 </feed>
