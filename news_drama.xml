@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2025-02-13T19:11:02.776Z</updated>
+    <updated>2025-02-13T20:14:48.723Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[콘텐트리중앙, 2024년 매출 8798억원 기록]]></title>
+        <id>https://v.daum.net/v/20250214051353114</id>
+        <link href="https://v.daum.net/v/20250214051353114"/>
+        <updated>2025-02-13T20:14:34.184Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 | 문완식 기자] 콘텐트리중앙(036420)은 한국채택국제회계기준(K-IFRS) 적용 2024년 4분기 연결기준 매출 2039억 원, 영업손실 165억 원을 기록했다고 13일 잠정 공시했다. 2024년 연간 실적은 연결기준 매출 8798억 원, 영업손실 459억 원으로 적자폭을 크게 축소했다. SLL은 별도 재무제표 기준 2024년 4분기 매출]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘원경’ 차주영 “많이 울고 도망가고 싶기도…”]]></title>
         <id>https://v.daum.net/v/20250214002841681</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20250213181809671"/>
         <updated>2025-02-13T10:14:40.180Z</updated>
         <content type="html"><![CDATA[[SBS연예뉴스 | 강선애 기자] 배우 차주영이 '원경'의 노출신과 역사 왜곡 논란에 대한 솔직한 생각을 밝혔다. 차주영은 13일 오후 서울 강남구 청담동의 한 카페에서 진행된 tvN X TVING 오리지널 드라마 '원경' 종영 기념 인터뷰에서 작품이 초반 19금 파격 노출 장면으로 관심을 모은 것에 대해 "많은 고민과 의논들을 나눴으나, 모두가 만족스러운]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['편스토랑' 장민호, 안대 쓰고 백종원 성대모사…"한입 더 줘봐유"]]></title>
-        <id>https://v.daum.net/v/20250213180506212</id>
-        <link href="https://v.daum.net/v/20250213180506212"/>
-        <updated>2025-02-13T09:14:47.070Z</updated>
-        <content type="html"><![CDATA[[이데일리 스타in 최희재 기자] ‘신상출시 편스토랑’ 장민호가 백종원 따라하기에 나선다. (사진=KBS2)오는 14일 방송되는 KBS2 ‘신상출시 편스토랑’(이하 ‘편스토랑’)에서는 주방의 신사 장민호와 143만 인기 요리 유튜버 승우아빠의 깜짝 만남이 공개된다. 요리에 대한 호기심이 가득한 장민호의 특별 초대로 승우아빠가 1:1 요리 과외 선생님으로]]></content>
     </entry>
 </feed>
