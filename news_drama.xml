@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2025-02-13T12:26:21.305Z</updated>
+    <updated>2025-02-13T13:20:57.676Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[혜리, '18세에 결별' 토니안 첫사랑 아니었다…"공부 잘하는 아이, 티 났을 것"]]></title>
+        <id>https://v.daum.net/v/20250213213101599</id>
+        <link href="https://v.daum.net/v/20250213213101599"/>
+        <updated>2025-02-13T13:20:44.533Z</updated>
+        <content type="html"><![CDATA[[텐아시아=태유나 기자] 걸스데이 출신 배우 혜리가 첫사랑을 고백했다.&nbsp; 매거진 ‘싱글즈’가 지난 10일 첫 방송된 U+모바일 tv 오리지널 드라마 '선의의 경쟁’의 주역 혜리, 정수빈의 편집장 인터뷰 영상을 공개했다. 혜리, 정수빈은 ‘싱글즈’ 화보를 통해 &nbsp;다양한 스타일링을 연출하며 감각적인 분위기를 자아낸 바 있다. 영상 속 두 사람은 ‘싱글즈]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[소유진, 식푹영양학 박사 취득하며 엘리트 코스…쿠킹 클래스 강사 도전]]></title>
         <id>https://v.daum.net/v/20250213212502467</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20250213180035030"/>
         <updated>2025-02-13T09:14:47.074Z</updated>
         <content type="html"><![CDATA[[이데일리 스타in 김가영 기자] ‘감자연구소’ 이선빈, 강태오가 달라서 더 끌리는 자석 케미스트리로 색다른 로맨스를 펼친다. 오는 3월 1일(토) 첫 방송되는 tvN 새 토일드라마 ‘감자연구소’(연출 강일수·심재현, 극본 김호수, 기획 CJ ENM 스튜디오스, 제작 (주)초록뱀미디어) 측은 13일, 티격태격도 설레는 김미경(이선빈 분)과 소백호(강태오]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['꼬꼬무' 인화학교 성폭력 사건, 알려지지 않은 뒷이야기]]></title>
-        <id>https://v.daum.net/v/20250213180007001</id>
-        <link href="https://v.daum.net/v/20250213180007001"/>
-        <updated>2025-02-13T09:14:47.077Z</updated>
-        <content type="html"><![CDATA[아이즈 ize 한수진 기자'꼬꼬무'가 영화로도 만들어져 세간을 떠들썩하게 했던 광주 인화학교 성폭력 사건을 다룬다. 13일 방송하는 SBS '꼬리에 꼬리를 무는 그날 이야기'(이하 '꼬꼬무') 162회에서는 '당신이 모르는 도가니 이야기'로 꾸며져 광주 인화학교 성폭력 사건의 뒷이야기와 이 사건이 소설과 영화로 만들어지기까지 알려지지 않았던 비하인드를 공개]]></content>
     </entry>
 </feed>
