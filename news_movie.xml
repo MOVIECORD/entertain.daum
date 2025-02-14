@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2025-02-14T10:15:09.987Z</updated>
+    <updated>2025-02-14T11:11:34.292Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[진영♥다현, 남산에 사랑의 자물쇠 채웠다...'그 시절' 커플 케미 눈길]]></title>
+        <id>https://v.daum.net/v/20250214200503619</id>
+        <link href="https://v.daum.net/v/20250214200503619"/>
+        <updated>2025-02-14T11:11:15.477Z</updated>
+        <content type="html"><![CDATA[(MHN스포츠 김서윤 인턴기자) 진영과 다현의 데이트 현장이 담긴 스틸이 공개됐다. 영화 '그 시절, 우리가 좋아했던 소녀'가 주연 배우 진영과 다현의 멜로 케미가 돋보이는 '설렘주의보' 스틸을 공개하며 첫사랑 로맨스에 대한 기대감을 높이고 있다. 이번에 공개된 스틸에는 성인이 된 진우(진영)와 선아(다현)가 다시 마주하는 순간이 담겼다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['의사' 주지훈도 멋있는데...'검사'도 멋지네?]]></title>
         <id>https://v.daum.net/v/20250214190101715</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20250214151501817"/>
         <updated>2025-02-14T06:18:30.402Z</updated>
         <content type="html"><![CDATA[[윤현 기자] ▲ &nbsp;영화 &lt;위키드&gt; 스틸컷ⓒ 유니버설 픽처스미국 할리우드 영화계에서 흥미로운 분석이 나왔다. 미국 서던캘리포니아대학(USC) 애넌버그 포용정책 연구소는 지난 11일(현지시각) 발표한 보고서에서 2024년 최고의 수익을 올린 영화 100편 중 54편에서 여성이나 소녀 배우가 주연 또는 공동 주연을 맡았다고 밝혔다. 이는 여성 주연 영화가 최고]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이혜영, 40년만 베를린 영화제 참석..파격 금발로 레드카펫 등장]]></title>
-        <id>https://v.daum.net/v/20250214150147333</id>
-        <link href="https://v.daum.net/v/20250214150147333"/>
-        <updated>2025-02-14T06:18:30.403Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 | 김나연 기자] 이혜영 / 사진=베를린영화제 레드카펫 라이브 영상 캡처배우 이혜영이 40년 만에 베를린국제영화제에 참석한 가운데, 파격적인 금발로 변신해 레드카펫에 등장했다. 이혜영은 지난 13일(이하 현지시간) 75회 베를린국제영화제 개막식 레드카펫에 민규동 감독과 함께 모습을 드러냈다. 파격적인 금발로 변신한 그는 우아한 미모와 특유의]]></content>
     </entry>
 </feed>
