@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2025-02-15T02:42:24.885Z</updated>
+    <updated>2025-02-15T03:17:05.974Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["6kg 빠지고 쇠약" 구준엽, 서희원과 눈물의 작별..수목장으로 영면]]></title>
+        <id>https://v.daum.net/v/20250215114619868</id>
+        <link href="https://v.daum.net/v/20250215114619868"/>
+        <updated>2025-02-15T03:17:05.302Z</updated>
+        <content type="html"><![CDATA[[OSEN=지민경 기자] 가수 구준엽이 아내 서희원과 눈물의 작별을 했다.&nbsp; 앞서 서희원은 지난 2일 가족들과 일본 여행을 하던 도중 독감으로 인한 폐렴으로 세상을 떠났다. 구준엽을 비롯한 유족들은 일본에서 화장 등 일부 장례 절차를 진행한 뒤 고인의 유해를 안고 지난 5일 대만으로 귀국했다. 서희원의 갑작스러운 사망 소식에 대만은 물론 국내 네티즌도]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[티모시 샬라메, 베를린영화제서 올핑크 갑론을박 "잘생김 가려"vs"자유"]]></title>
         <id>https://v.daum.net/v/20250215114117837</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20250214124801951"/>
         <updated>2025-02-14T04:16:37.449Z</updated>
         <content type="html"><![CDATA[[TV리포트=진주영 기자] 칸예 웨스트와 비앙카 센소리가 결혼 2년 만에 결별했다는 소식이 전해지면서, 그의 전 부인 킴 카다시안과의 관계가 다시 주목받고 있다. 해외 매체에 따르면, 센소리는 웨스트가 최근 논란이 된 스와스티카 셔츠 판매와 반유대주의 발언 등을 계기로 이혼을 결심했다. 한 관계자는 "비앙카는 더 이상 이런 논란에 연루되고 싶지 않았다"며]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[틸다 스윈튼, 베를린 영화제 공로상 받고 “탐욕 중독된 정부” 트럼프 비판]]></title>
-        <id>https://v.daum.net/v/20250214114249469</id>
-        <link href="https://v.daum.net/v/20250214114249469"/>
-        <updated>2025-02-14T02:44:06.056Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 배효주 기자] 틸다 스윈튼이 제75회 베를린 국제영화제에서 공로상을 받았다. 틸다 스윈튼은 2월 13일(현지시간) 독일 베를린에서 열린 제75회 베를린 국제영화제 개막식에서 평생 공로상에 해당하는 명예 황금곰상을 받았다. 앞서 베를린 국제영화제 측은 틸다 스윈튼을 공로상 수상자로 선정하며 "그의 영화에는 인간미와 지성, 유머가 가득하다"며 "현대]]></content>
     </entry>
 </feed>
