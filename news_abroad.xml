@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2025-02-18T08:18:13.590Z</updated>
+    <updated>2025-02-18T09:14:52.814Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['나의 소녀시대' 왕대륙, 병역 기피 혐의로 체포]]></title>
+        <id>https://v.daum.net/v/20250218171959461</id>
+        <link href="https://v.daum.net/v/20250218171959461"/>
+        <updated>2025-02-18T09:14:52.097Z</updated>
+        <content type="html"><![CDATA[[스포츠한국 신영선&nbsp;기자]&nbsp; 대만 배우 왕대륙이 병역 비리 혐의로 체포됐다.&nbsp; 대만중앙통신(CNA), 자유시보 등 대만 현지 매체에 따르면 신베이 지검은 이날 왕대륙을 병역 기피 혐의로 체포해 조사했다. 또 왕대륙의 타이페이 자택을 수색하고 관련 증거물을 압수했다.&nbsp; 왕대륙은 검은색 뿔테 안경에 모자와 마스크를 쓴 채 검찰에 연행됐으며 취재진의]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['대만 스타' 왕대륙, 병역 기피 혐의로 체포]]></title>
         <id>https://v.daum.net/v/20250218170121785</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20250218140918751"/>
         <updated>2025-02-18T05:13:57.798Z</updated>
         <content type="html"><![CDATA[대만 인기 배우 왕대륙이 병역 기피 혐의로 체포됐다. 18일(현지 시간) 대만 매체 이티투데이에 따르면 현지 경찰은 이날 신베이시 지검 병역 비리 사건을 수사하던 과정에서 왕대륙이 연루된 점을 파악하고 사안을 조사 중이라고 밝혔다.&nbsp; 왕대륙은 병역을 회피하기 위해 의사를 통해 허위 의료 증명서를 발급받은 것으로 파악됐으며 해당 사건에 연루된 사람은 1]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[톰 홀랜드 “‘스파이더맨4’ 올해 런던 촬영”, 호텔 숙박권 등 푸짐한 경품]]></title>
-        <id>https://v.daum.net/v/20250218073332860</id>
-        <link href="https://v.daum.net/v/20250218073332860"/>
-        <updated>2025-02-17T23:13:18.572Z</updated>
-        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]톰 홀랜드가 마블 히어로 무비 ‘스파이더맨4’의 올해 런던 촬영을 공식 발표했다. 그는 17일(현지시간) 개인 계정을 통해 “이번 경품 이벤트에 응모하면 ‘스파이더맨4’ 세트장에서 하루 동안 저와 만나고, 스튜디오를 둘러보고, 저와 함께 점심 식사를 할 수 있는 기회를 얻게 된다”고 말했다. 이어 “런던 2인 여행 경비]]></content>
     </entry>
 </feed>
