@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2025-02-19T04:17:06.909Z</updated>
+    <updated>2025-02-19T05:13:46.960Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이혜영, 60대 여성 킬러로‥‘파과’ 5월 개봉]]></title>
+        <id>https://v.daum.net/v/20250219135056139</id>
+        <link href="https://v.daum.net/v/20250219135056139"/>
+        <updated>2025-02-19T05:13:27.066Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 배효주 기자] 이혜영, 김성철, 연우진 주연 '파과'가 5월 개봉한다. 영화 '파과'(감독 민규동)는 바퀴벌레 같은 인간들을 처리하는 ‘신성방역’에서 40년간 활동 중인 레전드 킬러 ‘조각’과 그를 쫓는 미스터리한 킬러 ‘투우’의 숨막히는 핏빛 대결을 그린 작품이다. ‘파과’가 베를린국제영화제 레드카펫 및 월드 프리미어 상영을 성료했다. 개막]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘석방’ 유아인, 영화 ‘승부’ 홍보 배제…예고편도 뒷모습만]]></title>
+        <id>https://v.daum.net/v/20250219132432369</id>
+        <link href="https://v.daum.net/v/20250219132432369"/>
+        <updated>2025-02-19T05:13:27.066Z</updated>
+        <content type="html"><![CDATA[[헤럴드경제=민성기 기자] 마약류 상습 투약 혐의로 기소된 배우 유아인이 ‘집행유예’를 선고받으며 구속 5달만에 석방된 가운데, 개봉을 앞둔 영화 ‘승부’ 홍보 활동에서 모두 배제된다. 19일 ‘승부’ 배급사 바이포엠스튜디오는 유아인이 영화 시사회와 기자간담회, 인터뷰 등 각종 홍보 행사에 참여하지 않는다고 밝혔다. 바이포엠스튜디오 측은 이날 작품의 예]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['위플래쉬' 풍성한 사운드 돌비 애트모스 포맷 최초 개봉]]></title>
         <id>https://v.daum.net/v/20250219131343123</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20250219111417413"/>
         <updated>2025-02-19T02:44:11.757Z</updated>
         <content type="html"><![CDATA[(엑스포츠뉴스 황수연 기자) 신예 신용범이 영화 ‘1만 킬로미터’ 주연으로 캐스팅됐다. 영화 ‘1만 킬로미터’는 탈북 청년 김단이 중국과 동남아를 거쳐 한국에 정착한 뒤 세계적인 인권 변호사로 성장하는 실화 바탕의 이야기를 그린다. 극 중 신용범은 탈북 청년 진혁 역을 맡아, 극한의 시련을 넘어 세계적인 인권 변호사로 성장하는 인물을 연기한다. 그는 탈북민]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[신예 신용범, 영화 '1만 킬로미터' 캐스팅 확정]]></title>
-        <id>https://v.daum.net/v/20250219110712080</id>
-        <link href="https://v.daum.net/v/20250219110712080"/>
-        <updated>2025-02-19T02:44:11.757Z</updated>
-        <content type="html"><![CDATA[[스포츠투데이 백지연 기자] 신예 신용범이 영화 ‘1만 킬로미터’ 주연으로 캐스팅됐다. 신용범이 출연을 확정 지은 영화 ‘1만 킬로미터’는 탈북 청년 김단이 중국과 동남아를 거쳐 한국에 정착한 뒤 세계적인 인권 변호사로 성장하는 실화 바탕의 이야기를 그린다. 극 중 신용범은 탈북 청년 진혁 역을 맡아, 극한의 시련을 넘어 세계적인 인권 변호사로 성장하는 인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[석방된 유아인, ‘승부’가 승부처 될까]]></title>
-        <id>https://v.daum.net/v/20250219110655059</id>
-        <link href="https://v.daum.net/v/20250219110655059"/>
-        <updated>2025-02-19T02:44:11.758Z</updated>
-        <content type="html"><![CDATA[마약 불법 투약 혐의로 기소된 배우 유아인이 ‘집행유예’를 선고받으며 구속 5달만에 석방됐다. 공교롭게도 한 달 뒤 차기작 ‘승부’(감독 김형주)가 극장에 걸린다. 유아인에게 ‘승부’는 재기를 노리는 승부처가 될 수 있을까. ‘승부’ 배급사 바이포엠스튜디오 측은 19일 작품의 예고편을 공개했다. ‘승부’는 대한민국 최고의 바둑 레전드 조훈현(이병]]></content>
     </entry>
 </feed>
