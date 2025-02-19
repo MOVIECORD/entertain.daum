@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2025-02-19T08:19:29.923Z</updated>
+    <updated>2025-02-19T09:14:51.588Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[집유로 석방된 유아인, 영화 '승부' 홍보 배제… 예고편서도 편집]]></title>
+        <id>https://v.daum.net/v/20250219175747382</id>
+        <link href="https://v.daum.net/v/20250219175747382"/>
+        <updated>2025-02-19T09:14:33.045Z</updated>
+        <content type="html"><![CDATA[마약류 상습 투약 혐의로 구속됐다가 5개월 만에 풀려난 유아인이 개봉을 앞둔 영화 '승부' 홍보에서 배제됐다. 사진은 프로포폴 상습 투약 혐의로 기소된 배우 유아인이 1심 선고 공판에 출석하는 모습. /사진=뉴스1배우 유아인(본명 엄홍식)이 마약류 상습 투약 혐의로 구속됐다가 5개월 만에 풀려난 가운데 개봉을 앞둔 영화 '승부' 홍보에서 완전히 배제됐다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[독립영화인들 "윤석열 영화 정책 거부, 참여 안 한다"]]></title>
         <id>https://v.daum.net/v/20250219171800229</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20250219160427240"/>
         <updated>2025-02-19T07:13:32.764Z</updated>
         <content type="html"><![CDATA[[뉴스엔 박아름 기자] 유선호가 ‘사채소년’에 이어 오랜만에 스크린에 컴백한다. 2월 19일 소속사 측에 따르면 배우 유선호가 영화 ‘교생실습’ 출연을 확정 지었다. ‘교생실습’(감독 김민하)은 모교로 교생실습을 온 의욕충만한 예비 선생님이 전국 모의고사 1등을 달리고 있는 동아리 소녀들의 비밀을 밝혀내기 위한 고군분투를 다룬 코미디 영화다. 앞서 한선화]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['백수아파트' 이지훈·차우진, 경수진 오지랖에 못마땅한 동생들]]></title>
-        <id>https://v.daum.net/v/20250219155241587</id>
-        <link href="https://v.daum.net/v/20250219155241587"/>
-        <updated>2025-02-19T07:13:32.766Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 황수연 기자) 이지훈과 차우진이 누나의 넘치는 오지랖으로 고통받는 동생으로 변신한다.&nbsp; 영화 '백수아파트'(감독 이루다)는 동네를 휘젓고 다니며 정의를 구현하고자 하는 백수 거울이 새벽 4시마다 아파트에 울려 퍼지는 층간 소음의 정체를 찾기 위해 이웃들을 조사하며 벌어지는 일을 그린 미스터리 코믹 추적극이다.&nbsp; '백수아파트'가 누나 때문에 고]]></content>
     </entry>
 </feed>
