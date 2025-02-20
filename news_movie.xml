@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2025-02-20T17:12:47.545Z</updated>
+    <updated>2025-02-20T18:18:55.430Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[자본주의·정치에 대한 지독한 우화… ‘봉테일표’ SF의 새로운 맛]]></title>
+        <id>https://v.daum.net/v/20250221021313169</id>
+        <link href="https://v.daum.net/v/20250221021313169"/>
+        <updated>2025-02-20T18:18:38.817Z</updated>
+        <content type="html"><![CDATA[“죽는 건 어떤 기분이야?” 2054년 니플하임 행성, 빙하 틈새 위로 떨어져 곧 죽을 운명에 처한 미키(로버트 패틴슨·사진)에게 장비를 회수하러 온 티모(스티븐 연)가 묻는다. 지구에서 친구 관계였던 두 사람은 함께 마카롱 가게를 열었다가 사채를 갚지 못해 우주로 도망쳐 왔다. 조종사 자격증이 있는 티모는 그럴듯한 직업을 얻었지만, 변변한 자격증도 없이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“국가 폭력에 맞서는 평범한 사람들의 비범한 이야기”]]></title>
         <id>https://v.daum.net/v/20250221021213166</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20250220181031408"/>
         <updated>2025-02-20T09:14:40.399Z</updated>
         <content type="html"><![CDATA[[TV리포트=박정수 기자] 배우 故 김새론과 이채민의 주연 드라마 '우리는 매일매일'이 7부작 구성으로 시청자들과 만난다. 19일 연예계에 따르면, 한동안 공개되지 못했던 '우리는 매일매일'이 최근 방영을 준비 중인 것으로 전해졌다. 앞서 김새론이 과거 논란으로 인해 작품에서 하차했다는 소문이 돌았으나, 이는 사실이 아닌 것으로 알려졌다. 고인은 생전 마지]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘컴플리트 언노운’ 청춘의 초상, 티모시 샬라메의 도전]]></title>
-        <id>https://v.daum.net/v/20250220180934347</id>
-        <link href="https://v.daum.net/v/20250220180934347"/>
-        <updated>2025-02-20T09:14:40.400Z</updated>
-        <content type="html"><![CDATA[또 한번 청춘의 초상을 완성했다. 배우 티모시 샬라메가 이번엔 밥 딜런으로 변신해 강렬한 존재감을 뽐냈다. 영화 ‘컴플리트 언노운’(감독 제임스 맨골드)은 음악으로 세상에 맞서던 문화적 격변기의 중심에서 파격적인 도전으로 대중음악의 역사를 바꾼 아티스트 밥 딜런의 청년 시절을 그린다. 1961년 성공을 꿈꾸며 뉴욕에 도착한 청년 밥 딜런(티모시 샬라메)은]]></content>
     </entry>
 </feed>
