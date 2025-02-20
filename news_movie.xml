@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2025-02-20T21:12:10.939Z</updated>
+    <updated>2025-02-20T22:13:35.806Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["내 영원한 남편, 고생 많았어"..故김새론에 보낸 마지막 편지]]></title>
+        <id>https://v.daum.net/v/20250221070025670</id>
+        <link href="https://v.daum.net/v/20250221070025670"/>
+        <updated>2025-02-20T22:13:18.894Z</updated>
+        <content type="html"><![CDATA[[OSEN=선미경 기자] 배우 고(故) 김새론이 영면에 든 가운데, 절친했던 친구들이 각자의 방식으로 마지막 인사를 전하고 있다. 생전 함께했던 추억을 꺼내놓는가 하면, 고인이 겪었던 고통에 대해 대신 말하기도 했다. 고 김새론은 지난 16일 서울 성동구 소재의 자택에서 숨진 채 발견됐다. 당시 고인의 친구가 쓰러져 있는 김새론을 발견해 신고했으며, 경]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘제로데이’→‘모두의 리그’, 스릴도 즐기고 힐링도 하고]]></title>
         <id>https://v.daum.net/v/20250221060508789</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20250220231005956"/>
         <updated>2025-02-20T14:13:38.039Z</updated>
         <content type="html"><![CDATA[(MHN스포츠 안하늘 인턴기자) 영화 '패딩턴: 페루에 가다!'가 개봉과 동시에 금주 개봉작 박스오피스 1위를 차지하며 흥행 질주 중이다.&nbsp; 지난 19일 개봉한 영화 '패딩턴: 페루에 가다!'가 실관람객들의 뜨거운 관객 반응으로 화제다. 영화는 고향에서 온 의문의 편지 한 통과 함께 감쪽같이 사라져 버린 '루시' 숙모를 둘러싼 비밀을 찾아 페루의]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[홍상수, '만삭' 김민희와 베를린 동행..기자회견서 임신 언급 無]]></title>
-        <id>https://v.daum.net/v/20250220230301900</id>
-        <link href="https://v.daum.net/v/20250220230301900"/>
-        <updated>2025-02-20T14:13:38.041Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 | 김나연 기자] 홍상수 / 사진=/AFPBBNews=뉴스1=스타뉴스홍상수 감독이 75회 베를린국제영화제 기자회견에 참석한 가운데, 김민희는 모습을 보이지 않았다. 20일(한국시간) 75회 베를린국제영화제 장편 경쟁부문에 초청된 홍상수 감독의 신작 '그 자연이 네게 뭐라고 하니'(What Does that Nature Say to You) 기]]></content>
     </entry>
 </feed>
