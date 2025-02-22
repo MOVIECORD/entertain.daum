@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2025-02-22T02:41:43.231Z</updated>
+    <updated>2025-02-22T03:16:32.505Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['그 시절, 우리가 좋아했던 소녀' 첫날 2.5만 관객…다현♥진영, 첫사랑 감성 제대로 통했다]]></title>
+        <id>https://v.daum.net/v/20250222120146030</id>
+        <link href="https://v.daum.net/v/20250222120146030"/>
+        <updated>2025-02-22T03:16:16.097Z</updated>
+        <content type="html"><![CDATA[[스포츠한국 이유민 기자]&nbsp;영화 '그 시절, 우리가 좋아했던 소녀'가 개봉과 동시에 전국 극장가를 사로잡으며 첫날 2.5만 관객을 동원, 뜨거운 호평 속 흥행 질주를 시작했다. 극장을 찾은 관객들은 학창 시절의 추억과 첫사랑의 설렘을 떠올리며 감동적인 반응을 쏟아냈으며, 스타들의 추천과 언론의 호평도 이어지고 있다. 이에 힘입어 개봉 2주 차에는 스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["역시, 원조 K오컬트"… '퇴마록', 동시기 개봉작 1위 출발]]></title>
         <id>https://v.daum.net/v/20250222113014802</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20250221202700117"/>
         <updated>2025-02-21T12:25:54.822Z</updated>
         <content type="html"><![CDATA[홍상수 감독의 신작 그 자연이 네게 뭐라고 하니가 베를린영화제에서 첫 상영을 마쳤다. 그러나 기대를 모았던 김민희는 공식 행사에 끝내 모습을 드러내지 않았다. 홍상수 감독의 33번째 장편영화 그 자연이 네게 뭐라고 하니가 20일 저녁(현지시간) 제75회 베를린국제영화제에서 첫 선을 보였다. 상영관인 베를리날레 팔라스트에는 약 2천 명의 관객이 입장해 홍 감]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["내 매니저" 홍상수, '불륜 임신' 김민희 공개 언급]]></title>
-        <id>https://v.daum.net/v/20250221195805723</id>
-        <link href="https://v.daum.net/v/20250221195805723"/>
-        <updated>2025-02-21T11:14:16.748Z</updated>
-        <content type="html"><![CDATA[[스포츠투데이 서지현 기자] 홍상수 감독이 해외 공식석상에서 임신 중인 불륜 연인 김민희를 언급했다. 20일(현지시각) 독일 베를린 현지에서 제75회 베를린국제영화제에서 홍상수 감독의 신작 '그 자연이 네게 뭐라고 하니' 월드 프리미어 시사와 기자회견이 진행됐다. 이날 홍상수 감독은 작업 과정과 관련해 "제 영화 동료들이 있다"며 "어시스턴트인 프로덕션 매]]></content>
     </entry>
 </feed>
