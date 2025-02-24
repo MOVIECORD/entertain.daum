@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2025-02-24T02:51:23.289Z</updated>
+    <updated>2025-02-24T03:21:55.335Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이요원·찬희·정경호의 새로운 SF…'귀신들' 4월9일 개봉]]></title>
+        <id>https://v.daum.net/v/20250224115956958</id>
+        <link href="https://v.daum.net/v/20250224115956958"/>
+        <updated>2025-02-24T03:21:36.337Z</updated>
+        <content type="html"><![CDATA[(서울=뉴스1) 고승아 기자 = 영화 '귀신들'(감독 황승재)이 4월 9일 개봉한다. 24일 배급사에 따르면 '귀신들'은 가까운 미래, 대한민국에서 인간을 형상화한 AI들이 인간과 공존하는 이야기다. 지난 2021년 제8회 SF어워드 영상부문 대상을 수상한 황승재 감독의 전작인 영화 '구직자들'의 세계관에서 확장된 이야기로, 현실보다 더 현실 같은 미래]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[톰 홀랜드 ‘스파이더맨4’ 개봉 연기 왜? 여친 ♥젠데이아 출연하나]]></title>
+        <id>https://v.daum.net/v/20250224115158711</id>
+        <link href="https://v.daum.net/v/20250224115158711"/>
+        <updated>2025-02-24T03:21:36.337Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 배효주 기자] 톰 홀랜드 주연 '스파이더맨4'의 개봉이 연기됐다. 2월 21일(현지시간) 외신 할리우드리포터 등에 따르면, 소니 픽쳐스는 톰 홀랜드가 주연하는 마블 영화 '스파이더맨4'가 2026년 7월 31일 북미 개봉할 것이라 알렸다. 이는 기존 개봉일이었던 7월 24일보다 일주일 늦춰진 것이다. 톰 홀랜드는 동시기 개봉하는 크리스토퍼 놀란]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[씨제스걸리버스튜디오, '오징어 게임' 시즌3 기술 참여…VFX 단독 제작]]></title>
         <id>https://v.daum.net/v/20250224114312361</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20250224105111812"/>
         <updated>2025-02-24T02:51:04.700Z</updated>
         <content type="html"><![CDATA[[뉴스엔 배효주 기자] '퇴마록'이 개봉 첫 주말 박스오피스 동시기 개봉작 1위, 전체 2위에 등극했다. 2월 24일 영화진흥위원회 통합전산망 집계에 따르면, 애니메이션 영화 '퇴마록'(감독 김동철)이 개봉 첫 주말 누적 관객 11만5,471명을 동원하며 동시기 개봉작 1위에 올랐다. 이는 마블 영화인 '캡틴 아메리카: 브레이브 뉴 월드'에 이어 전체 2]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[류준열, '전자발찌' 찬 범죄자 교회에 들였다가...'여중생' 실종]]></title>
-        <id>https://v.daum.net/v/20250224103631091</id>
-        <link href="https://v.daum.net/v/20250224103631091"/>
-        <updated>2025-02-24T02:51:04.702Z</updated>
-        <content type="html"><![CDATA[[TV리포트=김선경 기자] 넷플릭스(Netflix)가 연상호 감독의 영화 '계시록'을 3월 21일 공개한다. 넷플릭스 영화 '계시록'은 실종 사건의 범인을 단죄하는 것이 신의 계시라 믿는 목사와, 죽은 동생의 환영에 시달리는 실종 사건 담당 형사가 각자의 믿음을 쫓으며 벌어지는 이야기를 그린다.&nbsp; 인간 본능에 대한 날카로운 화두를 던지던 '지옥' 연상호 감]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[강찬희, 영화 '귀신들' 출연…100년 만에 집에 돌아온 아들役]]></title>
-        <id>https://v.daum.net/v/20250224103229869</id>
-        <link href="https://v.daum.net/v/20250224103229869"/>
-        <updated>2025-02-24T02:51:04.704Z</updated>
-        <content type="html"><![CDATA[[이데일리 스타in 김보영 기자] 배우 강찬희가 영화 ‘귀신들’에 출연한다. (사진=FNC)영화 ‘귀신들’은 가까운 미래, 대한민국에서 인간을 형상화한 인공지능(AI)들이 인간과 공존하는 이야기다. 황승재 감독의 전작인 영화 ‘구직자들’의 세계관에서 확장된 이야기로, 현실보다 더 현실 같은 미래를 구현함과 동시에 현재 한국 사회에 직면한 문제들을 하나하나]]></content>
     </entry>
 </feed>
