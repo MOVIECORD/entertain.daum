@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2025-02-25T02:49:11.124Z</updated>
+    <updated>2025-02-25T03:21:21.072Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[박형식 ‘보물섬’ vs 서강준 ‘언더커버 하이스쿨’ 첫 대결 승자는]]></title>
+        <id>https://v.daum.net/v/20250225120244834</id>
+        <link href="https://v.daum.net/v/20250225120244834"/>
+        <updated>2025-02-25T03:21:06.139Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 이민지 기자] 금토드라마 대결의 첫 승자는 '보물섬'이었다. OTT 콘텐츠 통합 검색 플랫폼 키노라이츠는 2월 25일 2월 4주차(2/17~2/23) 통합 콘텐츠 랭킹을 공개했다. 2월 넷째 주 주간 콘텐츠 랭킹에서는 최근 첫 방송한 SBS 드라마 '보물섬'과 MBC 드라마 '언더커버 하이스쿨'이 접전을 펼친 가운데, 박형식 주연의 '보물섬'이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[문가영, 월요병 치료제 등극…♥최현욱도 시청자도 설렌다]]></title>
         <id>https://v.daum.net/v/20250225114106855</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20250225102550922"/>
         <updated>2025-02-25T02:48:56.214Z</updated>
         <content type="html"><![CDATA[(엑스포츠뉴스 이창규 기자)&nbsp;배우 추소정이 ‘이혼보험’에 출연한다. 25일, 소속사 킹콩 by 스타쉽 측은 “추소정이 tvN 새 월화드라마 ‘이혼보험’에 출연한다. 많은 기대와 응원 부탁드린다”라고 전했다. ‘이혼보험’은 최고의 브레인만 모여 있다는 보험회사 혁신상품개발팀에서 이 시대 가장 핫한 재난인 이혼에 대처하기 위한 이혼보험 상품을 선보이며 벌어지는]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[송가인, 과거 연애사 고백?…"친오빠 때문에 못 해"]]></title>
-        <id>https://v.daum.net/v/20250225102530912</id>
-        <link href="https://v.daum.net/v/20250225102530912"/>
-        <updated>2025-02-25T02:48:56.217Z</updated>
-        <content type="html"><![CDATA[[이데일리 스타in 최희재 기자] 가수 송가인이 과거 연애 경험을 전한다. (사진=SBS)25일 방송되는 SBS ‘신발 벗고 돌싱포맨’(이하 ‘돌싱포맨’)에서는 배우 변진섭, 김정민, 송가인이 등장한다. ‘발라드의 신’으로 불리는 변진섭이 성급한 무리수로 아내에게 차일 뻔한 일화를 공개했다. 변진섭은 “연애 시절 저지른 한순간의 말실수로 인해, 결혼한]]></content>
     </entry>
 </feed>
