@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2025-02-26T11:13:11.040Z</updated>
+    <updated>2025-02-26T12:27:21.125Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[블핑 리사만? '위키드' 아리아나 그란데까지..'아카데미 시상식' 관전 포인트]]></title>
+        <id>https://v.daum.net/v/20250226212624907</id>
+        <link href="https://v.daum.net/v/20250226212624907"/>
+        <updated>2025-02-26T12:27:02.473Z</updated>
+        <content type="html"><![CDATA[[OSEN=박소영 기자] OCN에서 오는 3월 3일 월요일(미국 현지 시각 2일 오후 7시) TV 독점 생중계로 진행되는 ‘제97회&nbsp;아카데미&nbsp;시상식’이 축하 무대 라인업을 전격 발표, 뜨거운 화제를 모으고 있다. 블랙핑크 리사가 K팝가수 최초로&nbsp;아카데미&nbsp;축하 무대에 오르게 되면서 기대감과 반가움을 더하고 있는 것. 이에 제97회&nbsp;아카데미&nbsp;시상식을 앞두고]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['트랜스포머' 로베르토 오르시, 신장병으로 별세...향년 51세]]></title>
         <id>https://v.daum.net/v/20250226184701505</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20250226163348881"/>
         <updated>2025-02-26T08:18:39.192Z</updated>
         <content type="html"><![CDATA[[뉴스엔 배효주 기자] 영화인신문고는 지난 2월 24일 2025년 정기 이사회를 열고 저작권 분쟁을 전담하는 저작권 파트 중재위원회를 신설하는 내용의 운영규정 8차 개정을 비롯한 제규정 제· 개정을 의결했다고 26일 밝혔다. 운영규정 개정을 통해 신설되는 저작권 파트 중재위원회는 저작권법에 따른 저작자 단체 추천 2인, 영상제작자 단체 추천 2인, 영화진]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[장도리 잇는 하정우 파이프 액션..'브로큰', 놓치면 안되는 명장면3]]></title>
-        <id>https://v.daum.net/v/20250226161839164</id>
-        <link href="https://v.daum.net/v/20250226161839164"/>
-        <updated>2025-02-26T08:18:39.193Z</updated>
-        <content type="html"><![CDATA[[OSEN=하수정 기자] 날 것의 액션이 가득 담긴 추적극으로 짜릿함을 선사하는 영화 '브로큰'이 명장면 TOP3를 공개했다. #1 인천 국제시장, 문영을 쫓는 민태의 추격 동생 죽음의 진실을 밝히기 위해 사라진 동생의 아내 문영(유다인)을 쫓던 민태(하정우)는 끈질긴 추적 끝에 인천 국제시장으로 향한다. 문영의 지인이 운영하는 한 분식점을 찾은 민태는]]></content>
     </entry>
 </feed>
