@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2025-02-27T02:50:18.012Z</updated>
+    <updated>2025-02-27T03:22:13.617Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[우아 우연, 데뷔 첫 뮤지컬 도전…'컨텍트' 전석 매진]]></title>
+        <id>https://v.daum.net/v/20250227120336915</id>
+        <link href="https://v.daum.net/v/20250227120336915"/>
+        <updated>2025-02-27T03:21:56.884Z</updated>
+        <content type="html"><![CDATA[[이데일리 스타in 최희재 기자] 그룹 우아(WOOAH)의 우연이 출연하는 뮤지컬 ‘컨텍트’ 첫 회차가 티켓 오픈과 동시에 매진됐다. (사진=엔제이원)27일 소속사 에이치뮤직엔터테인먼트는 “우연이 출연하는 뮤지컬 ‘컨텍트’ 첫 공연 회차가 지난 26일 오후 티켓 예매 오픈과 동시에 전석 매진을 기록했다”고 밝혔다. 오는 3월 28일 개막하는 ‘컨텍트’]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김무준 “‘오늘도 지송합니다’와 함께한 모든 순간이 소중했다”]]></title>
         <id>https://v.daum.net/v/20250227114201912</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20250227111421457"/>
         <updated>2025-02-27T02:50:05.459Z</updated>
         <content type="html"><![CDATA[[OSEN=김채연 기자] 배우 길해연의 열혈 연기 행보는 계속된다. 27일 소속사 저스트 엔터테인먼트는 “배우 길해연이 영화 ‘침범’에 출연한다”라고 밝혀 영화 팬들의 이목을 집중시킨다. ‘침범’은 기이한 행동을 하는 딸 소현으로 인해 일상이 붕괴되고 있는 영은과 그로부터 20년 뒤 과거의 기억을 잃은 민이 해영을 마주하며 벌어지는 균열을 그린 심리 파괴]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['보물섬' 박형식, 허준호 습격에 피투성이…긴장감 폭발]]></title>
-        <id>https://v.daum.net/v/20250227110650014</id>
-        <link href="https://v.daum.net/v/20250227110650014"/>
-        <updated>2025-02-27T02:50:05.460Z</updated>
-        <content type="html"><![CDATA[[이데일리 스타in 최희재 기자] ‘보물섬’ 박형식과 허준호의 심리전이 터진다. (사진=SBS)SBS 금토드라마 ‘보물섬’(극본 이명희/연출 진창규/제작 스튜디오S, 에이투지엔터테인먼트, 푸르미르공작소)은 시청률 조사회사 닐슨코리아 기준, 방송 첫 주부터 2회 연속 금토드라마 시청률 1위를 차지했다. 또한 순간 최고 시청률은 9.9%을 기록했다. 앞선 2]]></content>
     </entry>
 </feed>
