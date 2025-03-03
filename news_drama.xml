@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2025-03-03T03:24:27.133Z</updated>
+    <updated>2025-03-03T04:18:18.155Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[조인성 `13년 동행` 소속사 마침표…“응원하겠다”]]></title>
+        <id>https://v.daum.net/v/20250303131347303</id>
+        <link href="https://v.daum.net/v/20250303131347303"/>
+        <updated>2025-03-03T04:18:03.787Z</updated>
+        <content type="html"><![CDATA[[이데일리 김미경 기자] 배우 조인성이 엔에스이앤엠(전 아이오케이컴퍼니)과의 전속 계약을 마무리했다. 소속사 엔에스이엔엠(전 아이오케이컴퍼니)은 3일 입장을 내고 “조인성과 전속계약이 종료됐다”며 “당사는 조인성과 전속계약 만료를 앞두고 오랜 기간 심도 깊은 논의를 나눈 끝에 재계약을 채결하지 않기로 서로 의견을 모았다”고 밝혔다. 이어 “긴 시간 동안]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['라이딩 인생' 전혜진X조민수, 대치동 라이프 시작…관전 포인트 공개]]></title>
+        <id>https://v.daum.net/v/20250303123300647</id>
+        <link href="https://v.daum.net/v/20250303123300647"/>
+        <updated>2025-03-03T04:18:03.787Z</updated>
+        <content type="html"><![CDATA['라이딩 인생'이 드디어 베일을 벗는다. 오늘(3일) 첫 방송되는 지니 TV 오리지널 드라마 '라이딩 인생'(연출 김철규/극본 성윤아 조원동/기획 KT스튜디오지니/제작 베티앤크리에이터스)은 딸의 '7세 고시'를 앞둔 열혈 워킹맘 정은(전혜진 분)이 엄마 지아(조민수 분)에게 학원 라이딩을 맡기며 벌어지는 3대 모녀의 '애'태우는 대치동 라이프를 그린 드]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김신록, 간담 서늘하게 만드는 섬뜩한 연기→광기 그 자체]]></title>
         <id>https://v.daum.net/v/20250303122040484</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20250303095910036"/>
         <updated>2025-03-03T01:08:09.755Z</updated>
         <content type="html"><![CDATA[[스포츠조선 조민정 기자] SBS 금토드라마 '보물섬'에서 박형식이 극한의 감정과 폭발적인 액션으로 안방극장을 휘어잡고 있다. 사랑과 꿈을 한순간에 잃고 벼랑 끝으로 내몰린 서동주로 분한 그는 절망과 분노를 깊이 있게 표현하며 몰입도를 높였다. 특히 처절한 감정 연기부터 몸을 사리지 않는 강렬한 액션까지 그야말로 혼신의 힘을 다한]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이제훈 백발→흑발 변신, 협상 테이블 주도하는 스킬 보니]]></title>
-        <id>https://v.daum.net/v/20250303094724756</id>
-        <link href="https://v.daum.net/v/20250303094724756"/>
-        <updated>2025-03-03T01:08:09.757Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 박수인 기자] ‘협상의 기술’이 티저를 공개했다. 오는 3월 8일 첫 방송될 JTBC 새 토일드라마 ‘협상의 기술’(연출 안판석, 극본 이승영, (주)비에이엔터테인먼트, SLL, 드라마하우스스튜디오)은 전설의 협상가로 불리는 대기업의 M&amp;A 전문가와 그 팀의 활약상을 그리는 드라마. 극 중 협상 계의 백사(白蛇)라 불리는 윤주노(이제훈 분)는 산]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['언더커버 하이스쿨' 김신록, 서강준과 팽팽 기싸움→티키타카 케미 폭발]]></title>
-        <id>https://v.daum.net/v/20250303092058021</id>
-        <link href="https://v.daum.net/v/20250303092058021"/>
-        <updated>2025-03-03T01:08:09.758Z</updated>
-        <content type="html"><![CDATA["어떻게 노는지 구경이나 해보죠" '언더커버 하이스쿨'의 김신록이 존재감 넘치는 열연으로 시선을 사로잡았다. MBC 금토드라마 '언더커버 하이스쿨'(기획 남궁성우/극본 임영빈/연출 최정인/제작 네오엔터테인먼트, 슬링샷스튜디오)에서 김신록은 극 중 날카로운 카리스마를 지닌 병문재단 및 병문고등학교 이사장 서명주 역으로 분해 극의 재미를 책임지고 있다.]]></content>
     </entry>
 </feed>
