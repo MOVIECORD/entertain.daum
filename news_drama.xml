@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2025-03-04T02:52:02.943Z</updated>
+    <updated>2025-03-04T03:24:16.601Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['선의의 경쟁' 이혜리, 父 김태훈 손잡고 정수빈 배신?]]></title>
+        <id>https://v.daum.net/v/20250304115810546</id>
+        <link href="https://v.daum.net/v/20250304115810546"/>
+        <updated>2025-03-04T03:24:01.789Z</updated>
+        <content type="html"><![CDATA['선의의 경쟁' 이혜리가 정수빈을 버리려 한다. 3월 4일 공개되는 STUDIO X+U 드라마 '선의의 경쟁'(기획: STUDIO X+U / 제작: 와이랩 플렉스, STUDIO X+U / 연출: 김태희 / 극본: 김태희, 민예지) 14회에서는 유태준(김태훈 분)의 악행을 조사하던 유제이(이혜리 분)와 우슬기(정수빈 분)가 갈라서는 모습이 그려진다. 생각]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[서강준 기세 미쳤다..비주얼+액션+로맨스 만렙 '언더커버 하이스쿨']]></title>
         <id>https://v.daum.net/v/20250304114658138</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20250304102751693"/>
         <updated>2025-03-04T02:51:48.840Z</updated>
         <content type="html"><![CDATA[아이즈 ize 이경호 기자'라이딩 인생'이 공감과 이슈 몰이를 예고하며 첫 방송부터 몰입감을 선사했다. 지난 3일 지니 TV 오리지널 드라마 '라이딩 인생'(연출 김철규, 극본 성윤아 조원동)이 첫 방송됐다. 요즘 최고의 화두인 '학원 라이딩' '7세 고시'를 조명한 드라마로 주목받은 '라이딩 인생'은 대치동 라이프에 뛰어든 3대 모녀의 모습을 따뜻하고도]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['마녀' 노정의, 미정과 싱크로율 100%…섬세한 감정 연기]]></title>
-        <id>https://v.daum.net/v/20250304102215407</id>
-        <link href="https://v.daum.net/v/20250304102215407"/>
-        <updated>2025-03-04T02:51:48.841Z</updated>
-        <content type="html"><![CDATA[[마이데일리 = 박로사 기자] 배우 노정의가 ‘마녀’로 안방극장을 매료시키고 있다. 예상을 뛰어넘는 전개와 두 눈을 사로잡는 연출로 사랑받고 있는 채널A 토일드라마 ‘마녀’에서 자신을 좋아하는 사람은 다치거나 죽는다는 이유로 ‘마녀’로 낙인찍힌 ‘미정’ 역의 배우 노정의가 끊임없이 따라붙는 소문에도 꿋꿋이 나아가는 면모로 시청자들의 응원을 부르고 있다.]]></content>
     </entry>
 </feed>
