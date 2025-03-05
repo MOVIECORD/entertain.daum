@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2025-03-05T12:27:43.572Z</updated>
+    <updated>2025-03-05T13:22:45.426Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['지옥' 김근배, 파이브앵글 엔터에 새둥지…"깊은 신뢰 감사"]]></title>
+        <id>https://v.daum.net/v/20250305214037427</id>
+        <link href="https://v.daum.net/v/20250305214037427"/>
+        <updated>2025-03-05T13:22:30.162Z</updated>
+        <content type="html"><![CDATA[[OSEN=장우영 기자] 배우 김근배가 파이브앵글 엔터테인먼트와 전속계약을 맺고 새로운 출발에 나선다. 파이브앵글 엔터테인먼트는 최근 배우 김근배와 전속계약을 체결했다고 밝혔다. 김근배는 다양한 드라마와 영화에서 인상 깊은 연기를 선보이며 활발히 활동을 하고 있는 배우로 최근 tvN에서 방영 되었던 “감사합니다”, “플레이어2:꾼들의 전쟁”에서 각각 상]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['연예계 찐친' 이보희·이상숙, 파이브앵글 엔터와 전속계약]]></title>
+        <id>https://v.daum.net/v/20250305213204347</id>
+        <link href="https://v.daum.net/v/20250305213204347"/>
+        <updated>2025-03-05T13:22:30.163Z</updated>
+        <content type="html"><![CDATA[[OSEN=장우영 기자] 연예계에서 친자매처럼 친하게 지내기로 소문난 배우 이보희,이상숙이 오랜 시간 함께한 매니저와 전속계약을 체결하며 찐친에서 찐 식구가 되었다. 최근 파이브앵글 엔터테인먼트는 이보희와 이상숙의 전속계약 소식을 전하며 “양측 모두 서로에 대한 깊은 신뢰와 우정을 바탕으로 이번 계약을 진행하게 되었으며, 이를 통하여 더욱 돈독한 협력을]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['김사권과 이혼' 박하나, 박상남과 묘한 기류…"빨리 안 와?"]]></title>
         <id>https://v.daum.net/v/20250305212230241</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20250305185021629"/>
         <updated>2025-03-05T10:15:52.310Z</updated>
         <content type="html"><![CDATA[[이데일리 스타in 김가영 기자] 배우 최현욱이 전매특허 눈빛 연기로 드라마 몰입도를 한층 끌어올리고 있다. 최현욱은 tvN 월화 드라마 ‘그놈은 흑염룡’에서 내면의 오타쿠력을 숨기고 있는 용성백화점 전략기획본부장 반주연 역으로 출연 중이다. 자신의 덕후 취미를 철저히 숨겼지만 유일하게 알고 있는 백수정(문가영 분)에게 점차 마음을 열면서 사랑스러운 연하]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김무준, 日 TBS 드라마 ‘캐스터’ 합류..대세 굳히기 돌입]]></title>
-        <id>https://v.daum.net/v/20250305183421274</id>
-        <link href="https://v.daum.net/v/20250305183421274"/>
-        <updated>2025-03-05T10:15:52.313Z</updated>
-        <content type="html"><![CDATA[[OSEN=김채연 기자] 배우 김무준이&nbsp;TBS&nbsp;드라마 ‘캐스터’에 합류한다. 김무준이 출연하는&nbsp;TBS&nbsp;드라마 ‘캐스터’는&nbsp;JBN의 보도프로그램 ‘뉴스게이트’를 배경으로 어둠 속에 묻힌 진실을 추구하며 악을 심판해 나가는 사회파 엔터테인먼트 드라마다. 극 중 김무준이 맡은 최재성은 한국에서 태어나 일본 유학을 거쳐 보도국&nbsp;AD로 일하는 인물.&nbsp;한국과 일본]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박현빈, 교통사고→중환자실 트라우마…"다리 안 움직여"]]></title>
-        <id>https://v.daum.net/v/20250305182730124</id>
-        <link href="https://v.daum.net/v/20250305182730124"/>
-        <updated>2025-03-05T10:15:52.317Z</updated>
-        <content type="html"><![CDATA[[이데일리 스타in 최희재 기자] 가수 박현빈이 과거 교통사고를 회상한다. (사진=TV조선)5일 방송되는 TV조선 ‘퍼펙트 라이프’에서는 ‘트롯 황태자’ 박현빈과 노래 강사로 활동 중인 그의 어머니 정성을이 함께 출연해 일상을 공개한다. 박현빈 모자는 넘치는 흥과 함께 “스튜디오 분위기가 아주 그냥 죽여줘요”라며 재치 있는 노래로 포문을 연다. 두 사람의]]></content>
     </entry>
 </feed>
