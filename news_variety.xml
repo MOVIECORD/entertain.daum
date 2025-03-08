@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/variety</id>
     <title>다음 연예 ─ 뉴스 ─ 예능</title>
-    <updated>2025-03-08T16:14:06.934Z</updated>
+    <updated>2025-03-08T17:11:30.058Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[차준환, 아이돌 비주얼 자랑 “은퇴하면 배우 도전하고파”]]></title>
+        <id>https://v.daum.net/v/20250309012202484</id>
+        <link href="https://v.daum.net/v/20250309012202484"/>
+        <updated>2025-03-08T17:11:21.245Z</updated>
+        <content type="html"><![CDATA[‘피겨 왕자’ 차준환이 아이돌 비주얼을 뽐냈다. 8일 방송된 JTBC 예능 프로그램 ‘아는 형님’에서는 제9회 하얼빈 동계 아시안게임에서 한국 남자 피겨선수 최초로 금메달을 획득한 차준환 선수가 단독 게스트 출연해 금빛 예능감을 드러냈다. 이날 신동이 “아이돌 꿈꾼 적? SM에서 혹시 연락 왔나?”라고 묻자, 차준환이 “명함 받은 적 있다”라고 밝혔다]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[백지영 “악플은 그들 마음에 존재하는 쓰레기 같은 것”]]></title>
         <id>https://v.daum.net/v/20250309010804416</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20250309001331221"/>
         <updated>2025-03-08T16:13:57.935Z</updated>
         <content type="html"><![CDATA[(엑스포츠뉴스 이창규 기자) '보고싶었어' 추성훈이 모델이자 아내인 야노 시호와의 갈등에 대해 언급했다. 8일 첫 방송된 ENA '최화정 김호영의 보고싶었어'에서는 격투기 선수 출신 추성훈과 그의 절친 배정남이 게스트로 출연했다. 이날 최화정은 추성훈의 유튜브 영상을 전부 보고왔다며 팬심을 드러냈고, 구독자가 140만명을 돌파한 것을 축하했다. 김호영은 최]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[정승제 8.7㎏ 빼고 확 달라진 얼굴, 전후 비교샷에 “여친 생기겠네”]]></title>
-        <id>https://v.daum.net/v/20250309001241210</id>
-        <link href="https://v.daum.net/v/20250309001241210"/>
-        <updated>2025-03-08T16:13:57.937Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 서유나 기자] 수학 일타강사 정승제의 달라진 비주얼이 공개됐다. 3월 8일 방송된 MBC 예능 '전지적 참견 시점'(이하 '전참시') 337회에서는 구독자 176만 명을 보유한 운동 크리에이터 심으뜸의 일상이 공개됐다. 이날 심으뜸은 수학 일타강사 정승제와 남산에서 만났다. 과거 '전참시'에 출연했을 당시 다이어트 한약을 달고 사는 일상을 보]]></content>
     </entry>
 </feed>
