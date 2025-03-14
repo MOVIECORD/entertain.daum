@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2025-03-14T10:15:33.610Z</updated>
+    <updated>2025-03-14T11:12:14.834Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[최정윤, 이혼 엎고 불륜남 정영섭에 이별선언 "피곤해...그만 정리하자"]]></title>
+        <id>https://v.daum.net/v/20250314195030100</id>
+        <link href="https://v.daum.net/v/20250314195030100"/>
+        <updated>2025-03-14T11:11:57.228Z</updated>
+        <content type="html"><![CDATA[[TV리포트 = 하수나 기자] ‘친절한 선주씨’ 최정윤이 불륜남 정영섭에게 이별을 선언하고 남편 송창의에게 돌아가려는 결심을 드러냈다.&nbsp; 14일 MBC일일드라마 ‘친절한 선주씨’에선 남진(정영섭 분)이 선주(심이영 분)에게 소우(송창의 분)와는 절대 안 된다고 선을 긋는 모습이 그려졌다.&nbsp; 아내 선주를 버리고 상아를 택한 남진은 선주와 소우가 친해지자 전처]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[윤종훈 “10년 같이 살며 한 번도 안 싸워”…동거인 위한 특식 준비]]></title>
         <id>https://v.daum.net/v/20250314191343669</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20250314180402652"/>
         <updated>2025-03-14T09:15:31.926Z</updated>
         <content type="html"><![CDATA[[스타뉴스 | 김나연 기자] 사진=SBS 보물섬'보물섬'의 박형식과 허준호가 제대로 맞붙는다. 3월 14일 방송되는 SBS 금토드라마 '보물섬'(극본 이명희·연출 진창규) 7회에서는 하나뿐인 누나의 죽음을 목격한 서동주(박형식 분)가, 누나를 죽음으로 몰고 간 악인 염장선(허준호 분)에게 복수를 시작한다. 앞서 서동주는 자신을 죽이려던 염장선에게 복수하]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['보물섬' 박형식, 허준호 머리에 총 겨눴다...'숨멎 대치']]></title>
-        <id>https://v.daum.net/v/20250314175006269</id>
-        <link href="https://v.daum.net/v/20250314175006269"/>
-        <updated>2025-03-14T09:15:31.927Z</updated>
-        <content type="html"><![CDATA[아이즈 ize 이경호 기자'보물섬' 박형식과 허준호가 제대로 맞붙는다. 14일 오후 방송되는 SBS 금토드라마 '보물섬' 7회에서는 하나뿐인 누나의 죽음을 목격한 서동주(박형식)가, 누나를 죽음으로 몰고 간 악인 염장선(허준호)에게 복수를 시작한다. 벼랑 끝까지 내몰렸던 서동주가 본격적으로 반격에 나선다. 앞서 서동주는 자신을 죽이려던 염장선에게 복수하기]]></content>
     </entry>
 </feed>
