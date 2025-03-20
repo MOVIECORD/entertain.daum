@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/variety</id>
     <title>다음 연예 ─ 뉴스 ─ 예능</title>
-    <updated>2025-03-20T16:18:45.671Z</updated>
+    <updated>2025-03-20T17:14:19.124Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[前 축구선수 남편, 아내에 목숨 건 협박도 죄 성립 “내가 내 무덤 파” 후회]]></title>
+        <id>https://v.daum.net/v/20250321012055102</id>
+        <link href="https://v.daum.net/v/20250321012055102"/>
+        <updated>2025-03-20T17:14:08.680Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 이하나 기자] 축구 남편이 목숨으로 협박한 것이 협박죄에 해당한다는 말에 충격을 받았다. 3월 20일 방송된 JTBC ‘이혼숙려캠프’에서 축구 부부는 변호사들과 상담을 진행했다. 실제 이혼을 위해 변호사 상담도 받았다는 축구 남편은 당시 돈이 없어서 소송을 보류했다고 밝히며 “당시 마음은 돈만 있으면 바로 이혼했다”라고 말했다. 축구 부부의]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[엔하이픈 희승 ‘계란구름 라면’이 뭐야? 이색 레시피 화제…]]></title>
         <id>https://v.daum.net/v/20250321011507077</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20250320234108097"/>
         <updated>2025-03-20T15:16:10.903Z</updated>
         <content type="html"><![CDATA[[OSEN=박근희 기자] '이혼숙려캠프’ 캥거루 남편이 아내와 조카가 물에 빠지면 누구를 구할거냐는 질문에 답을 했다. 20일 오후 방송된 JTBC 예능 프로그램 '이혼숙려캠프'에서는 술을 끊지 못하는 남편과 아들을 과보호하는 아내의 갈등으로 캠프에 입소한 '캥거루 부부'가 부부의 모습이 그려졌다. 캥거루부부의 법률상담이 이어졌다. 술은 어떻게 할 거냐]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이다희x이광수, 살벌.."반말하지 말고 공과사 구분해"..찐친 케미 폭발]]></title>
-        <id>https://v.daum.net/v/20250320234048094</id>
-        <link href="https://v.daum.net/v/20250320234048094"/>
-        <updated>2025-03-20T15:16:10.904Z</updated>
-        <content type="html"><![CDATA[[OSEN=김수형 기자] '이혼보험: 직급쟁탈전'에서 이다희와 이광수의 티격태격 케미가 폭소를 자아냈다.&nbsp; 20일 tvN '이혼보험: 직급쟁탈전'이 전파를 탔다.&nbsp; 이날 뒤늦게 이다희가 마지막에 도착, 주임과 사원 선택지만 남았고 “하고싶은게 없다”고 했다. 이에 이광수는 “없으면 나가달라”며 폭소, “반말하지 마셔라”며 위계질서를 또 한번 강조했다.]]></content>
     </entry>
 </feed>
