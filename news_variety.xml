@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/variety</id>
     <title>다음 연예 ─ 뉴스 ─ 예능</title>
-    <updated>2025-03-21T19:13:09.939Z</updated>
+    <updated>2025-03-21T20:16:04.116Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[몸에 우유+시리얼 부은 크리에이터..김동현 “D지게 맞아야 하는데”]]></title>
+        <id>https://v.daum.net/v/20250322051416752</id>
+        <link href="https://v.daum.net/v/20250322051416752"/>
+        <updated>2025-03-21T20:15:54.258Z</updated>
+        <content type="html"><![CDATA[[OSEN=강서정 기자] 오는 24일&nbsp;월요일 오후&nbsp;7시&nbsp;40분에 방송되는 범죄 분석 코멘터리 쇼&nbsp;‘히든아이’에서는&nbsp;MC&nbsp;김성주를 비롯해 김동현,&nbsp;박하선과 소유가 누구나 겪을 수 있는 생활밀착형 범죄에 대해 알아본다. ‘현장 세 컷’에서는 대낮에 한 커플이 노상강도를 맞닥뜨린 아찔한 순간이 소개된다.&nbsp;강도가 다가오자 갑자기&nbsp;‘이것’까지 버린 채 전속력으로]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[키, 이사한 새 집 공개‥반려견 뛰어노는 정원+운동장만한 거실 입이 떡]]></title>
         <id>https://v.daum.net/v/20250322011302163</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20250322000030626"/>
         <updated>2025-03-21T15:15:00.733Z</updated>
         <content type="html"><![CDATA[전현무가 김대호의 남다른 면모에 깜짝 놀랐다. 21일(금) 방송된 MBC 예능 프로그램 ‘나 혼자 산다’ 588회에서는 김대호의 ‘낯선 여유’, 옥자연의 ‘자연으로 도망가자’ 편이 전파를 탔다. 이날 김대호가 눈물의 이별 후 7주 만에 스튜디오에 복귀했다. 그는 “저도 이렇게까지 빨리...”라며 생각보다 빠른 컴백에 민망한 모습을 보였다. 코드 쿤]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['그것이 알고 싶다', 22일 '거리의 탈옥수, 1635일의 추적' 편 방송]]></title>
-        <id>https://v.daum.net/v/20250322000009605</id>
-        <link href="https://v.daum.net/v/20250322000009605"/>
-        <updated>2025-03-21T15:15:00.734Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 | 문완식 기자] SBS '그것이 알고 싶다-거리의 탈옥수' 편 SBS '그것이 알고 싶다'가 22일 일 오후 11시 10분 방송분을 통해 실형이 확정됐음에도 형 집행을 피해 도주 중인 거리의 탈옥수들의 행방을 추적한다. 성공 신화 회장님의 묘연한 행적 서울 영등포구의 오피스텔 4채를 소유하고, 청와대가 내려다보이는 고급 광화문 사무실에서 유]]></content>
     </entry>
 </feed>
