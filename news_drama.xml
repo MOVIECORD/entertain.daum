@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2025-03-23T08:17:05.117Z</updated>
+    <updated>2025-03-23T09:13:50.526Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘곳곳서 산불’ 전국노래자랑 결방... 울산 울주군 편 내주 편성]]></title>
+        <id>https://v.daum.net/v/20250323181037632</id>
+        <link href="https://v.daum.net/v/20250323181037632"/>
+        <updated>2025-03-23T09:13:36.176Z</updated>
+        <content type="html"><![CDATA[[이데일리 스타in 허윤수 기자] 전국 곳곳에서 이틀째 대형 산불이 발생한 가운데 ‘전국노래자랑’ 방영이 취소됐다. 남희석.22일 밤 울산 울주군 온양읍 운화리 야산에서 발생한 산불 현장에서 야간 진화 작업이 계속되고 있다. 사진=연합뉴스KBS는 23일 오후 12시 10분 KBS1TV에서 방송 예정이던 ‘전국노래자랑-울산광역시 울주군’ 편을 취소했다. 대]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['독수리 5형제' 엄지원, 안재욱의 꽃뱀 오해에 '정색']]></title>
         <id>https://v.daum.net/v/20250323171550593</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20250323154504000"/>
         <updated>2025-03-23T07:12:47.703Z</updated>
         <content type="html"><![CDATA[[이데일리 스타in 허윤수 기자] 이영자를 향해 오래된 애정을 드러낸 황동주가 자신의 일상을 이영자 앞에서 공개했다. 사진=‘전지적 참견 시점’22일 방송된 MBC 예능 프로그램 ‘전지적 참견 시점’(전참시) 399회에는 배우 황동주와 영화 ‘로비’ 팀의 유미 하우스 방문기가 그려졌다. 이영자를 향한 마음을 고백한 뒤 국민의 지지를 받는 황동주는 단골 빵]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['감자연구소' 이선빈, 강태오의 플러팅에 설렘폭발]]></title>
-        <id>https://v.daum.net/v/20250323154415950</id>
-        <link href="https://v.daum.net/v/20250323154415950"/>
-        <updated>2025-03-23T07:12:47.704Z</updated>
-        <content type="html"><![CDATA[아이즈 ize 최재욱 기자'감자연구소'&nbsp;이선빈과 강태오의 로맨스가 활짝 만개한다.&nbsp; tvN&nbsp;토일드라마&nbsp;'감자연구소'(연출 강일수·심재현,&nbsp;극본 김호수)&nbsp;측은&nbsp;8화 방송을 앞둔&nbsp;23일,&nbsp;김미경(이선빈)과 소백호(강태오)의 화끈하고 달콤한 데이트 현장을 공개했다. 지난 방송에서는 김미경,&nbsp;소백호가 서로를 향한 마음을 확인했다.&nbsp;감자연구소에서부터 게스트 하우스까]]></content>
     </entry>
 </feed>
