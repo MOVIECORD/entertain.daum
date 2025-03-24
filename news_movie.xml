@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2025-03-24T22:14:57.722Z</updated>
+    <updated>2025-03-24T23:14:20.204Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[결혼하고 더 깊어졌다..다니엘 헤니, ‘휠 오브 타임' 시즌3까지 연타석 히트]]></title>
+        <id>https://v.daum.net/v/20250325081233881</id>
+        <link href="https://v.daum.net/v/20250325081233881"/>
+        <updated>2025-03-24T23:14:00.501Z</updated>
+        <content type="html"><![CDATA[[OSEN=박소영 기자] 배우 다니엘 헤니가 주연으로 활약 중인 ‘휠 오브 타임(The Wheel of Time/시간의 수레바퀴)’이 또 한 번 전 세계 시청자들의 열띤 반응을 불러일으키고 있다.&nbsp; 아마존 스튜디오가 제작하는 판타지 드라마 ‘휠 오브 타임(The Wheel of Time)’은 로버트 조던과 브랜든 샌더슨 작가가 쓴 소설 14권의 원작을]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['진격의 거인' 완결편, 1위 등극…누적 40만↑]]></title>
+        <id>https://v.daum.net/v/20250325075500506</id>
+        <link href="https://v.daum.net/v/20250325075500506"/>
+        <updated>2025-03-24T23:14:00.505Z</updated>
+        <content type="html"><![CDATA[(서울=뉴스1) 김민지 기자 = 애니메이션 '극장판 진격의 거인 완결편 더 라스트 어택'(감독 하야시 유이치로)이 박스오피스 1위에 올랐다. 25일 영화진흥위원회 영화관입장권 통합전산망 집계에 따르면 '극장판 진격의 거인 완결편 더 라스트 어택'은 24일 하루 동안 1만 3768명의 관객을 동원하며 박스오피스 1위를 차지했다. 누적 관객 수는 40만 8]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[연상호, 결실 못 맺은 ♥로맨스…"연니버스 언젠간 벗어나고파"]]></title>
         <id>https://v.daum.net/v/20250325063102208</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20250324210004206"/>
         <updated>2025-03-24T12:29:12.608Z</updated>
         <content type="html"><![CDATA[(MHN스포스 김예슬 인턴기자) 벨기에의 영화 감독 다르덴 형제가 써 내려간 외면당한 소년과 그를 사랑으로 다시 일으킨 감동 드라마가 국내에서 다시 개봉한다. '자전거 탄 소년'이 오는 4월 16일 재개봉을 확정했다. 지난 제64회 칸 영화제에서 심사위원대상을 수상한 영화 '자전거 탄 소년'은 보육원에서 생활하던 11살 소년 '시릴'이 동네 이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“흑화가 이렇게 잘 어울린다고?”…서현, 립 한 번 바르더니 악령까지 때려잡네]]></title>
-        <id>https://v.daum.net/v/20250324204801060</id>
-        <link href="https://v.daum.net/v/20250324204801060"/>
-        <updated>2025-03-24T12:29:12.609Z</updated>
-        <content type="html"><![CDATA[“소녀시대 맞아?” 배우 서현이 역대급 변신으로 돌아왔다. 24일 공개된 영화 ‘거룩한 밤: 데몬 헌터스’ 예고편에서 서현은 짙은 레드 립, 헝클어진 웨이브 헤어, 날 선 눈빛으로 완전히 다른 얼굴을 꺼내 들며 압도적인 존재감을 발산했다. 기존 이미지와는 정반대의 ‘흑화 콘셉트’로, 단숨에 분위기를 장악했다. 영화는 악을 숭배하는 집단에 맞서 싸우는 오컬트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연상호 "'폭싹'보다가 '계시록'도 보고…'연니버스'서 탈출할 것"]]></title>
-        <id>https://v.daum.net/v/20250324200004396</id>
-        <link href="https://v.daum.net/v/20250324200004396"/>
-        <updated>2025-03-24T11:13:18.184Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 윤현지 기자) '계시록' 연상호 감독이 '연니버스'를 깨고 새로운 시도를 예고했다.&nbsp; 24일 서울 영등포구 콘래드 서울에서 넷플릭스 영화 '계시록' 연상호 감독의 인터뷰가 진행됐다. '계시록'은 실종 사건의 범인을 단죄하는 것이 신의 계시라 믿는 목사와, 죽은 동생의 환영에 시달리는 실종 사건 담당 형사가 각자의 믿음을 쫓으며 벌어지는 이야기]]></content>
     </entry>
 </feed>
