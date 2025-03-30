@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2025-03-30T03:03:10.418Z</updated>
+    <updated>2025-03-30T04:16:57.672Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["가족 관객 고려"… 외화 '더빙판' 선택하는 까닭]]></title>
+        <id>https://v.daum.net/v/20250330121305092</id>
+        <link href="https://v.daum.net/v/20250330121305092"/>
+        <updated>2025-03-30T04:16:37.530Z</updated>
+        <content type="html"><![CDATA[많은 외화들이 자막판과 더빙판으로 동시에 대중을 만나고 있다. 이러한 작품들은 대부분 애니메이션, 혹은 어린이에게도 사랑받을 것으로 예상되는 디즈니 영화 등이었다. 더빙판은 가족 관객들의 수요를 충족시킬 수 있다는 점에서 업계 관계자들에게 주목받아왔다. 최근 개봉한 실사 영화 '백설공주' 역시 자막판과 더빙판을 모두 선보였다. 작품 측은 한국 더빙 캐스트의]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['인어공주'→'백설공주'까지…'100주년'에 굴욕 맞은 디즈니]]></title>
         <id>https://v.daum.net/v/20250330120005671</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20250330080002663"/>
         <updated>2025-03-29T23:13:24.104Z</updated>
         <content type="html"><![CDATA[[스타뉴스 | 종로구=김나연 기자] '악역'하면 떠오르는 배우 김의성이지만, 그는 늘 자신의 캐릭터를 사랑한다. '로비'에서도 탄식을 이끌어 내는 김의성은 이번에도 여지없이 작품의 풍성함을 더한다. 28일 서울시 종로구 삼청동의 한 카페에서 영화 '로비'(감독 하정우)의 김의성과 만나 다양한 이야기를 나눴다. 영화 로비'는 연구 밖에 모르던 스타트업 대]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["나도 한때 김수현 열렬한 팬이었다" 괴작 '리얼' 前감독 밝힌 진실]]></title>
-        <id>https://v.daum.net/v/20250330073924507</id>
-        <link href="https://v.daum.net/v/20250330073924507"/>
-        <updated>2025-03-29T23:13:24.108Z</updated>
-        <content type="html"><![CDATA[[OSEN=최이정 기자] 배우 김수현이 고 김새론 미성년자 교제 의혹에 이어 주연 영화 '리얼'(2017)로 다시 도마 위에 올랐다. 김수현이 주연을 맡고 그의 가족으로 알려진 이로베(과거 이사랑) 감독이 연출을 맡은 '리얼'이 강제 노출 오디션 놓고 뒤늦게 논란에 휘말린 가운데 중간 하차한 이정섭 감독이 해명하고 나섰다.&nbsp; 2017년 6월 개봉한 '리]]></content>
     </entry>
 </feed>
