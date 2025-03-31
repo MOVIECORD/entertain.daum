@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/variety</id>
     <title>다음 연예 ─ 뉴스 ─ 예능</title>
-    <updated>2025-03-31T19:12:58.757Z</updated>
+    <updated>2025-03-31T20:16:58.390Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[히밥, 제작진 70만원 밥값 독박…"어이 없어, 이 미친 사람 뭐지"]]></title>
+        <id>https://v.daum.net/v/20250401051502666</id>
+        <link href="https://v.daum.net/v/20250401051502666"/>
+        <updated>2025-03-31T20:16:49.668Z</updated>
+        <content type="html"><![CDATA[[텐아시아=김지원 기자] E채널 유튜브 'E밥세끼' 채널의 '토요일은 밥이 쏜다'가 히밥이 통큰 '밥친구'에 등극한 사연을 담은 티저를 공개했다. 지난달 31일 공개된 '토요일은 밥이 쏜다 시즌2'(토밥쏜다2) 두 번째 티저에서는 지난번 제작진과의 식사에서 '밥친구'로 섭외되며 '70만 8천원'이라는 회식비를 뜯긴 히밥의 비하인드가 공개됐다. 히밥에게 다]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['이혼' 황정음, 공개 열애 중 최다니엘과 삼각관계 루머 밝힌다]]></title>
         <id>https://v.daum.net/v/20250401005102592</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20250331235501018"/>
         <updated>2025-03-31T15:16:00.128Z</updated>
         <content type="html"><![CDATA[[스타뉴스 | 김노을 기자] /사진=SBS 방송화면배우 최여진이 자신과 예비 남편 김재욱, 그의 전처를 둘러싼 불륜 의혹에 대해 해명하다 눈물을 쏟았다. 31일 방송된 SBS 예능 프로그램 '동상이몽 2 - 너는 내 운명'에는 오는 6월 결혼하는 최여진과 그의 예비 남편 김재욱이 출연했다. 이날 최여진의 예비 남편 김재욱은 "현재 레저 사업 중"이라며]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘을의 연애 부부’ 아내 “남편, 상간녀와 여행→숙박업소까지..우울증 생겨”]]></title>
-        <id>https://v.daum.net/v/20250331235431017</id>
-        <link href="https://v.daum.net/v/20250331235431017"/>
-        <updated>2025-03-31T15:16:00.129Z</updated>
-        <content type="html"><![CDATA[[OSEN=임혜영 기자] 아내가 남편의 외도를&nbsp;폭로했다. 31일 방송된 MBC '오은영 리포트 – 결혼 지옥’(이하 결혼지옥)에는 남편을 지극 정성으로 챙기는 아내와 그런 아내의 내조를 누리면서도 아내에게 무반응인 남편, ‘을의 연애 부부’가 출연했다. 이들 부부는 지인과 모임을 가졌다. 지인들은 왜 ‘결혼지옥’에 출연하냐고 물었고 아내는 “겉으로 보이]]></content>
     </entry>
 </feed>
