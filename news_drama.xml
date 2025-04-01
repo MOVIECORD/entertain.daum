@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2025-04-01T20:17:27.846Z</updated>
+    <updated>2025-04-01T21:13:57.133Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘협상의 기술’ 이제훈, 지적인 매력까지…한계없는 소화력 증명]]></title>
+        <id>https://v.daum.net/v/20250402061303435</id>
+        <link href="https://v.daum.net/v/20250402061303435"/>
+        <updated>2025-04-01T21:13:44.245Z</updated>
+        <content type="html"><![CDATA[배우 이제훈이 지적인 매력을 앞세워 흥행의 새로운 물결을 만들어내고 있다. JTBC 토일드라마 ‘협상의 기술’에서 한층 힘을 뺀 연기와 은발 분장으로 협상 전문가 캐릭터를 완성, M&amp;A라는 생소한 소재를 안방극장에 연착륙시켰다. 지난달 8일 첫 방송한 ‘협상의 기술’은 11조 원의 부채를 갚아야 하는 산인그룹을 구하러 온 협상 전문가와 M&amp;A팀의 활약상]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[엑소 카이 "SM 연습생 체험학습 있어…조카 시켜보고파"]]></title>
         <id>https://v.daum.net/v/20250402000116932</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20250401200219039"/>
         <updated>2025-04-01T11:12:56.459Z</updated>
         <content type="html"><![CDATA[[OSEN=김채연 기자] 배우 김수현이 논란 21일 만에 직접 기자회견에 참석하며 미성년자 교제 의혹을 부인했지만, 여론은 여전히 싸늘한 분위기다. 더불어 김수현의 기자회견과 관련해 변호사, 프로파일러 등 전문가들 역시 지적을 이어가고 있다. 지난달 31일 김수현은 서울 마포구 상암동의 한 호텔에서 긴급 기자회견을 진행했다. 故 김새론이 미성년자인 시절]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[최정윤, 정영섭과 결혼 앞두고 "의미 없는 행위, 진건축 못 줘" 경고]]></title>
-        <id>https://v.daum.net/v/20250401194705794</id>
-        <link href="https://v.daum.net/v/20250401194705794"/>
-        <updated>2025-04-01T11:12:56.460Z</updated>
-        <content type="html"><![CDATA[[TV리포트=이혜미 기자] 최정윤이 진 건축을 손에 넣은 듯 거만해진 정영섭에 꿈 깨라며 선을 그었다. 1일 MBC ‘친절한 선주씨’에선 결혼식을 앞두고 남진(정영섭 분)을 향한 적의를 보이는 상아(최정윤 분)의 모습이 그려졌다. 남진과의 결혼을 앞둔 상아에 연애(양혜진 분)는 “나 너희들 결혼식에 드레스 입으면 안 되니? 내가 마스크가 서구적이라 한복이]]></content>
     </entry>
 </feed>
