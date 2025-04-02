@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2025-04-02T12:31:22.911Z</updated>
+    <updated>2025-04-02T13:25:13.596Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[마동석, 천만 영화만 6개인데…첫 오컬트 도전, '주먹 액션 자가 복제' 지적 깨부술까]]></title>
+        <id>https://v.daum.net/v/20250402220702589</id>
+        <link href="https://v.daum.net/v/20250402220702589"/>
+        <updated>2025-04-02T13:24:54.490Z</updated>
+        <content type="html"><![CDATA[[텐아시아=태유나 기자] 배우 마동석의 첫 오컬트 액션 영화인데, 낯설지가 않다. 주먹 액션에 유머 코드까지 영화 '범죄도시' 시리즈를 보는 듯하다. '범죄도시'로 트리플 천만을 기록한 만큼 '마동석 표 액션'에 대한 기대도 있지만, 자가 복제라는 식상함은 숙제로 남는다.&nbsp; 오는 30일 개봉하는 '거룩한 밤: 데몬 헌터스'는 특별한 능력을 가진 어둠의 해]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[기안84X진X지예은 뭉친다, 이름부터 환장인 그곳으로!]]></title>
         <id>https://v.daum.net/v/20250402210005300</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20250402172527003"/>
         <updated>2025-04-02T09:15:52.434Z</updated>
         <content type="html"><![CDATA[(엑스포츠뉴스 김예은 기자) 류준열 주연의 넷플릭스 영화 '계시록'이 2주 연속 글로벌 TOP 10 영화(비영어) 부문 1위를 차지했다. '계시록'은 실종 사건의 범인을 단죄하는 것이 신의 계시라 믿는 목사와 은 동생의 환영에 시달리는 실종 사건 담당 형사가 각자의 믿음을 쫓으며 벌어지는 이야기를 그린 작품. 극 중 류준열이 연기한 성민찬은 개척 사명을 받]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘계시록’ 류준열 명연기 통했다…글로벌 1위]]></title>
-        <id>https://v.daum.net/v/20250402171417584</id>
-        <link href="https://v.daum.net/v/20250402171417584"/>
-        <updated>2025-04-02T08:19:38.491Z</updated>
-        <content type="html"><![CDATA[영화 ‘계시록’(감독 연상호)이 배우 류준열의 명연기에 힘입어 비영어부문 글로벌 톱1위를 2주째 수성했다. ‘계시록’은 실종 사건의 범인을 단죄하는 것이 신의 계시라 믿는 목사와 은 동생의 환영에 시달리는 실종 사건 담당 형사가 각자의 믿음을 쫓으며 벌어지는 이야기를 그린 작품. 극 중 류준열이 연기한 성민찬은 개척 사명을 받고 작은 교회를 이끌며]]></content>
     </entry>
 </feed>
