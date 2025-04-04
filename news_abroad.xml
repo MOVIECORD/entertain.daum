@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/abroad</id>
     <title>다음 연예 ─ 뉴스 ─ 해외</title>
-    <updated>2025-04-04T01:07:42.571Z</updated>
+    <updated>2025-04-04T02:57:33.531Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[칸예 웨스트, 비앙카와 결별 인정..“그녀는 도망갔어, 돌아오길 바랄 뿐”]]></title>
+        <id>https://v.daum.net/v/20250404110025006</id>
+        <link href="https://v.daum.net/v/20250404110025006"/>
+        <updated>2025-04-04T02:57:32.876Z</updated>
+        <content type="html"><![CDATA[[OSEN=김채연 기자] 칸예 웨스트(카니예 웨스트)와 비앙카 센소리의 이혼설이 사실이었다. 3일(현지시간) 할리우드 리포터 등 현지 매체는 칸예가 이날 발매한 새 앨범 ‘WW3’의 수록곡 ‘BIANCA’를 통해 비앙카 센소리와 결별했다는 것을 암시했다고 보도했다. 칸예의 신곡 ‘BIANCA’에서는 “나의 베이비, 그녀가 도망갔어”, “하지만 그녀는 먼저]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[톰 크루즈, 故 발 킬머 위해 묵념 “감사하고 영광스러웠다” 뭉클]]></title>
         <id>https://v.daum.net/v/20250404083148788</id>
@@ -81,12 +88,5 @@
         <link href="https://v.daum.net/v/20250403120000107"/>
         <updated>2025-04-03T03:32:00.280Z</updated>
         <content type="html"><![CDATA[[TV리포트=배효진 기자] 배우 캐리 쿤이 영화 '어벤져스: 엔드게임'에 출연하지 않은 이유가 출연료 문제였다고 밝혔다. 캐리 쿤 남편이자 배우 겸 극작가인 트레이시 렛츠는 지난달 21일 팟캐스트 '더 빅 픽처(The Big Picture)'에서 이 사실을 공개했다. 렛츠는 "마블 측이 두 번째 영화에도 그녀를 출연시키려고 했지만 출연료 인상을 요구하자 거]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[74세 유명 연기자, 50대 스타 여배우에 생방중 강제 키스…"역겨워"]]></title>
-        <id>https://v.daum.net/v/20250403113300795</id>
-        <link href="https://v.daum.net/v/20250403113300795"/>
-        <updated>2025-04-03T02:57:16.513Z</updated>
-        <content type="html"><![CDATA[(서울=뉴스1) 장아름 기자 = 할리우드 스타 빌 머리(74, 빌 머레이)가 생방송 중 나오미 왓츠(56)에게 강제로 입을 맞춰 거센 비난을 받고 있다. 최근 방송된 미국 인기 토크쇼 '와치 왓 해픈스 라이브'(Watch What Happens Live)에서는 빌 머리와 나오미 왓츠가 영화 '더 프렌드'(The Friend) 홍보를 위해 출연했다. 나오]]></content>
     </entry>
 </feed>
