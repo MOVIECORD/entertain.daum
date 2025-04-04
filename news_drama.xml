@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2025-04-04T13:24:31.174Z</updated>
+    <updated>2025-04-04T14:14:29.816Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이해영, 박형식 친아들 사실 알고 절망 "왜 말 안 했어"]]></title>
+        <id>https://v.daum.net/v/20250404224243926</id>
+        <link href="https://v.daum.net/v/20250404224243926"/>
+        <updated>2025-04-04T14:14:15.661Z</updated>
+        <content type="html"><![CDATA[[OSEN=김예솔 기자] 이해영이 박형식이 자신의 친아들이라고 생각하고 절망했다.&nbsp; 4일 방송된 SBS 금토드라마 ‘보물섬’에서는 허일도(이해영)이 서동주(박형식)가 자신의 친아들이라는 사실을 알고 절망하는 모습이 그려졌다.&nbsp; 앞서 허일도는 서동주에게 총을 겨눠 쐈고 그 사이에 염장선(허준호)은 허일도에게 전화를 걸어 "후배님 총 쏘지 마라. 서동주가]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['보물섬' 박형식, 총 쏜 이해영에 "더 쏴요 아버지"]]></title>
         <id>https://v.daum.net/v/20250404222046698</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20250404174442327"/>
         <updated>2025-04-04T09:16:20.967Z</updated>
         <content type="html"><![CDATA[[이데일리 스타in 김가영 기자] ‘보물섬’ 박형식, 이해영 부자(父子)가 마주한다. SBS 금토드라마 ‘보물섬’(극본 이명희/연출 진창규/제작 스튜디오S, 에이투지엔터테인먼트, 푸르미르공작소)에는 서동주(박형식 분), 허일도(이해영 분)는 부자(父子) 사이인 줄 모르고 서로의 목숨줄을 쥐고 흔들었다. 누구보다 서로를 미워하고 증오한 두 사람이기에, 직접]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['보물섬' 박형식·이해영, 파국의 문턱에서 마주한 부자의 눈물]]></title>
-        <id>https://v.daum.net/v/20250404173717102</id>
-        <link href="https://v.daum.net/v/20250404173717102"/>
-        <updated>2025-04-04T09:16:20.974Z</updated>
-        <content type="html"><![CDATA[아이즈 ize 한수진 기자'보물섬' 박형식, 이해영 부자의 욕망 질주가 시작된다. 4일 오후 9시 50분 방송하는 SBS 금토 드라마 '보물섬' 13회에서는 미스터리로 남아있던 서동주(박형식)의 출생 비밀이 마침내 밝혀지며, 극 전개에 본격적인 가속도가 붙는다. 이와 함께 서동주를 비롯해 염장선(허준호), 허일도(이해영), 세 인물의 뒤엉킨 욕망 역시 더욱]]></content>
     </entry>
 </feed>
