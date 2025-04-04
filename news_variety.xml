@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/variety</id>
     <title>다음 연예 ─ 뉴스 ─ 예능</title>
-    <updated>2025-04-04T19:13:09.327Z</updated>
+    <updated>2025-04-04T20:16:05.900Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["신동엽에게 많이 혼났다" 전현무, 곽튜브에도 대대로 이어진 '이것']]></title>
+        <id>https://v.daum.net/v/20250405051520147</id>
+        <link href="https://v.daum.net/v/20250405051520147"/>
+        <updated>2025-04-04T20:15:57.115Z</updated>
+        <content type="html"><![CDATA[[OSEN= 김수형 기자] ‘전현무계획2’에서 전현무가 미식 원조가 신동엽이라며 과거 일화를&nbsp;전했다. 4일 방송된 MBN,채널S 예능 ‘전현무계획 시즌2’이 전파를 탔다. 이날 일본어 까막눈인 김종민의 즉흥 일본어 실력이 어떠할지 궁금증이 치솟는 가운데,&nbsp;이들은 각자의 입맛에 맞춰 세 종류의 우동을 주문했다.&nbsp; 곽튜브는&nbsp;“저는 일본 우동집에 오면 붓카케(]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[기안84, 연예대상 이어 불교대상까지? "조계종서 연락 와"..깜짝 공개]]></title>
         <id>https://v.daum.net/v/20250405005521054</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20250405001004774"/>
         <updated>2025-04-04T15:15:07.193Z</updated>
         <content type="html"><![CDATA[(MHN 김태형 인턴기자) '살림하는 남자들 시즌2'&nbsp;가수 박서진과 그의 동생&nbsp;효정의 갈등이 고조되는 장면이 예고됐다. 5일 방송되는&nbsp;KBS 2TV '살림하는 남자들 시즌2'(이하 '살림남')에서는 박서진과 그의 가족의 일상이 공개된다. 박서진의&nbsp;동생인&nbsp;효정은 최근 가족을 챙기기 위해 삼천포와 인천을 자주 오가며 바쁜 일정을 보내고, 이날도 집안]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['최대 몸무게 110kg' 정재광 "軍행군 제일 편해"..산책 8시간 강행]]></title>
-        <id>https://v.daum.net/v/20250405000932765</id>
-        <link href="https://v.daum.net/v/20250405000932765"/>
-        <updated>2025-04-04T15:15:07.197Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 | 김정주 기자] /사진= MBC '나 혼자 산다' 배우 정재광이 남다른 산책 사랑을 공개했다. 4일 방송된 MBC '나 혼자 산다'에서는 넷플릭스 '중증외상센터'의 마취과 레지던트 박경원 역으로 사랑받은 배우 정재광의 일상이 공개됐다. 산책을 좋아한다고 밝힌 정재광은 "사계절 내내 걷는다. 영하 12도까지만 걷는다"며 '산책광'의 면모를]]></content>
     </entry>
 </feed>
