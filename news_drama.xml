@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2025-04-05T10:14:50.931Z</updated>
+    <updated>2025-04-05T11:11:44.420Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘독수리 5형제’ 안재욱, ♥엄지원 향해 두근두근→건강 이상 착각]]></title>
+        <id>https://v.daum.net/v/20250405200618675</id>
+        <link href="https://v.daum.net/v/20250405200618675"/>
+        <updated>2025-04-05T11:11:29.707Z</updated>
+        <content type="html"><![CDATA[엄지원과 안재욱의 훈훈한 식사 자리가 포착됐다. 5일(오늘) 방송 예정인 KBS 2TV 주말드라마 ‘독수리 5형제를 부탁해!’(연출 최상열, 이진아 / 극본 구현숙 / 제작 DK E&amp;M) 19회에서는 마광숙(엄지원 분)에게 끌리는 마음을 주체하지 못하는 한동석(안재욱 분)의 모습이 그려진다. 앞서 만취한 광숙은 동석을 택시 기사로 착각했고, 잠든 광숙]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“내 발밑에서 손이 발이 되도록 빌게 만들 것”… 박형식, 허준호 향해 복수 폭주]]></title>
         <id>https://v.daum.net/v/20250405190921247</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20250405163538327"/>
         <updated>2025-04-05T08:17:02.155Z</updated>
         <content type="html"><![CDATA[[OSEN=연휘선 기자] 가수 겸 배우 아이유(이지은)가 미담으로 훈훈함을 자아냈다.&nbsp; 아역배우 신채린의 모친은 지난 3일&nbsp;SNS를 통해 아이유의 간식차 서포트를 밝혔다.&nbsp; 신채린은 넷플릭스 오리지널 시리즈 '폭싹 속았수다'(극본 임상춘, 연출 김원석)에서 양금명의 어린 시절을 연기한 배우다. '폭싹 속았수다'에서 아이유가 애순을 연기할 때 모녀관계로]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김대명, 옛 친구 등장에 난감… 골프장 매각 난항]]></title>
-        <id>https://v.daum.net/v/20250405162405203</id>
-        <link href="https://v.daum.net/v/20250405162405203"/>
-        <updated>2025-04-05T08:17:02.164Z</updated>
-        <content type="html"><![CDATA[[이데일리 스타in 윤기백 기자] 산인 M&amp;A팀의 다음 목표가 선정됐다. (사진=비에이엔터테인먼트, SLL, 드라마하우스스튜디오)JTBC 토일드라마 ‘협상의 기술’에서 팀장 윤주노(이제훈 분)와 팀원들이 새로운 M&amp;A 과제인 골프장을 방문한 가운데 오순영(김대명 분)의 옛 친구 정본주(장소연 분)와 불편한 만남을 예고하고 있다. 앞서 윤주노와 함께 산인]]></content>
     </entry>
 </feed>

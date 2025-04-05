@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2025-04-05T10:14:50.925Z</updated>
+    <updated>2025-04-05T11:11:44.414Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['백설공주' 역대급 흥행 참패 여파…라푼젤, 실사화 제작 중단]]></title>
+        <id>https://v.daum.net/v/20250405200830696</id>
+        <link href="https://v.daum.net/v/20250405200830696"/>
+        <updated>2025-04-05T11:11:24.851Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 김하영 기자] 디즈니의 애니메이션 '라푼젤' 실사화 프로젝트가 돌연 중단됐다. 미국 현지 매체들은 지난 3일(현지시간) "라푼젤이 다시 머리를 말아 올리고 있다"며 '라푼젤'의 실사 영화 제작을 중단한 소식을 전했다. 2010년 개봉한 '라푼젤'은 월트 디즈니 애니메이션 스튜디오의 50번째 장편 애니메이션이며 그림 형제의 동화를 원작]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['승부' 이병헌, 20년 전엔 더 빛났다..."눈이 부시네"]]></title>
+        <id>https://v.daum.net/v/20250405194000477</id>
+        <link href="https://v.daum.net/v/20250405194000477"/>
+        <updated>2025-04-05T11:11:24.851Z</updated>
+        <content type="html"><![CDATA[[TV리포트=강해인 기자] 배우 이병헌이 4월에 좋은 기운을 이어가고 있다. 5일 영화진흥위원회 통합 전산망에 따르면 이병헌 주연의 '승부'는 누적 관객수 100만 명을 돌파했다. 이는 2025년 개봉작 중 다섯 번째 기록이다. 특히, 함께 출연한 유아인의 마약 논란으로 어려운 상황에서 이뤄낸 성과라 더 값지다. '승부'는 한국을 넘어 세계 바둑계를 평정한]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이병헌, 유아인 리스크 딛고 웃었다...'승부' 100만 돌파]]></title>
         <id>https://v.daum.net/v/20250405181700834</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20250405102414062"/>
         <updated>2025-04-05T02:54:35.047Z</updated>
         <content type="html"><![CDATA[아이즈 ize 최재욱 기자이병헌 유아인 주연의 '승부'가 개봉 11일째인 &nbsp;5일&nbsp;오전 누적 관객수 100만 명을 돌파했다.&nbsp;&nbsp; &nbsp; 개봉 당일부터 11일째 박스오피스 정상자리를 유지 중인 영화 '승부'는 5일&nbsp;오전부터 누적 관객수 105만6,921 명을 돌파하며 개봉 2주차 주말에도 상쾌한 흥행 순항을 이어갈 것을 알렸다. 영화 '승부'는 박스오피스 1위는]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[유아인 초고속 복귀 '승부', 개봉 11일째 100만 돌파]]></title>
-        <id>https://v.daum.net/v/20250405100732887</id>
-        <link href="https://v.daum.net/v/20250405100732887"/>
-        <updated>2025-04-05T02:54:35.050Z</updated>
-        <content type="html"><![CDATA[[OSEN=하수정 기자] 유아인의 마약 혐의 논란으로 우여곡절 끝에 개봉한 '승부'가 100만 관객을 넘어섰다. 올봄 극장가 최고의 화제작 '승부'(감독 김형주, 제공배급 ㈜바이포엠스튜디오, 제작 ㈜영화사월광, 공동제작 BH엔터테인먼트)가 개봉 11일째인 4월 5일(토) 오전 누적 관객수 100만 명을 돌파했다. 영화 '승부'가 개봉 11일째인 4월 5]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘승부’ 100만 관객 돌파, 이병헌 서예→조우진 바둑돌로 감사 인사]]></title>
-        <id>https://v.daum.net/v/20250405095701712</id>
-        <link href="https://v.daum.net/v/20250405095701712"/>
-        <updated>2025-04-05T01:06:24.471Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 박수인 기자] '승부'가 개봉 11일째 100만 관객을 돌파했다. 영화 '승부'가 개봉 11일째인 4월 5일 오전 누적 관객수 100만 명을 돌파했다. (감독: 김형주ㅣ제공/배급: ㈜바이포엠스튜디오ㅣ제작: ㈜영화사월광ㅣ공동제작: BH엔터테인먼트) 개봉 이래 꾸준히 전체 박스오피스 1위 자리를 유지하고 있는 '승부'는 개봉 11일째를 맞은 4월 5]]></content>
     </entry>
 </feed>
