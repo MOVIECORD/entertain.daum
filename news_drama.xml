@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2025-04-05T02:54:54.684Z</updated>
+    <updated>2025-04-05T03:28:01.284Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이제훈도 힘든 사회생활…성동일 따라 주말 등산]]></title>
+        <id>https://v.daum.net/v/20250405115705017</id>
+        <link href="https://v.daum.net/v/20250405115705017"/>
+        <updated>2025-04-05T03:27:46.603Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 박로사 기자] 이제훈이 산인 그룹 임원 승진 필수 코스에 초대받았다. JTBC 토일드라마 ‘협상의 기술’에서 M&amp;A 팀장 윤주노(이제훈)가 회장 송재식(성동일)의 권유로 함께 등산길에 오른 현장이 포착돼 산인 그룹 임원진에 대대적인 혁신을 예고하고 있는 것. 앞서 윤주노는 송재식의 500억 부채를 해결하기 위해 그의 딸 송지오(권유리)가]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["피부 괴사돼"… 애프터스쿨 정아, 친언니 의료사고 폭로]]></title>
         <id>https://v.daum.net/v/20250405114615909</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20250405083301879"/>
         <updated>2025-04-05T01:06:29.418Z</updated>
         <content type="html"><![CDATA[SBS 금토드라마 ‘보물섬’에서 허일도(이해영 분)가 끝내 서동주(박형식 분)를 위해 자신을 희생하는 반전을 그리며 안방극장을 울렸다. 4일 방송된 ‘보물섬’에서는 허일도가 서동주를 자신의 아들이라는 사실을 받아들이고, 그를 지키기 위해 칼을 맞는 장면이 전파를 탔다. 죽이려던 자식 앞에 몸을 던진 부성애는, “피는 물보다 진하다”는 말의 의미를 깊게 되새]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이해영, 子 박형식 구하고 추락…'보물섬' 13.4% 자체 최고]]></title>
-        <id>https://v.daum.net/v/20250405082409814</id>
-        <link href="https://v.daum.net/v/20250405082409814"/>
-        <updated>2025-04-05T01:06:29.420Z</updated>
-        <content type="html"><![CDATA[[마이데일리 = 박로사 기자] ‘보물섬’이 자체 최고 시청률 기록을 또 경신했다. 5일 닐슨코리아에 따르면 4일 방송된 SBS 금토드라마 ‘보물섬’ 14회는 수도권 14%, 전국 13.4%를 나타내며 또 자체 최고 시청률 기록을 갈아치웠다. 순간 최고 시청률은 무려 15.7%까지 치솟으며 마의 15% 벽을 뚫었다. 이날 방송에서는 염장선(허준호)이 이제]]></content>
     </entry>
 </feed>
